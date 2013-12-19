@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2013-12-16"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, EL PRESENTE DECRETO ENTRARÁ EN VIGOR, EN TODO EL ESTADO DE SONORA, A PARTIR DEL 1 DE ENERO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -127,13 +129,15 @@ A falta de disposición expresa en esta Ley, siempre que no se contravenga la mi
 
 Para los efectos de esta Ley, la operación y funcionamiento de los establecimientos que se dedican a la fabricación, distribución, envasamiento, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico se clasifican en los giros cuyas características y requisitos se describen a continuación:
 
-I.- Fábrica.- Lugar de elaboración y envasamiento de bebidas con contenido alcohólico cuyo conjunto de operaciones, son objeto de aprobación, vigilancia y control sanitario en los términos de la Ley de Salud Federal y Estatal. Su infraestructura e instalaciones especiales coinciden en su totalidad con los fines específicos de elaboración. Por su tamaño estas empresas podrán ser grandes, medianas o pequeñas y su localización podrá estar en las inmediaciones o lugares permitidos por las leyes aplicables.
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-Por lo que respecta a la enajenación de sus productos dentro del Estado, sólo podrán destinarse a establecimientos que cuenten con licencia para alguna de las actividades de distribución y comercialización de productos con contenido alcohólico debidamente autorizada por la Secretaría.
+I.- Fábrica.- Lugar de elaboración y envasamiento de bebidas con contenido alcohólico cuyo conjunto de operaciones, son objeto de aprobación, vigilancia y control sanitario en los términos de la Ley de Salud Federal y Estatal. Su infraestructura e instalaciones especiales coinciden en su totalidad con los fines específicos de elaboración. Por su tamaño estas empresas podrán ser grandes, medianas, pequeñas o las denominadas micro y su localización podrá estar en las inmediaciones o lugares permitidos por las leyes aplicables.
 
-> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-Quienes se dediquen a la elaboración y envasamiento del Bacanora, podrán distribuir y comercializar su producto en forma personal o en los términos previstos en el párrafo anterior;
+I BIS.- Fábrica de Producto Regional Típico.- Lugar autorizado para la elaboración, envasamiento, distribución y venta de bebidas con contenido alcohólico elaboradas a base de ingredientes representativos de alguna región determinada dentro del territorio sonorense.
+
+Estos establecimientos podrán distribuir y comercializar su producto en forma personal o a establecimientos que cuenten con licencia para alguna de las actividades de distribución y comercialización de productos con contenido alcohólico debidamente autorizado por la Secretaría, ello de acuerdo a lo señalado en el artículo 11 de esta ley.
 
 II.- Agencia Distribuidora.- Negocio de distribución específica y venta al mayoreo y menudeo de productos de alcohol o bebidas con contenido alcohólico.
 
@@ -147,31 +151,59 @@ Este tipo de establecimientos podrá complementar la venta de bebidas de conteni
 
 Para operar con esta última modalidad deberán reunirse los requisitos que para tal efecto se establezcan en el reglamento de la presente Ley y contar con licencia específica expedida por el Ejecutivo del Estado, por conducto de la Secretaría;
 
-IV.- Cantina, Billar o Boliche.- Establecimiento donde además de expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del propio establecimiento pueden operarse instalaciones para practicar juegos de boliche y billar. Contará con barra y contra-barra, funcional y salubre.
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-Podrá contar con mesas y sillas, mesas de billar, juegos de mesa y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables. Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile;
+IV.- Cantina.- Establecimiento donde pueden expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del mismo, contará con barra y contra-barra, funcional y salubre.
+
+Podrá contar con mesas y sillas, mesas de billar, juegos de mesa y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables.
+
+Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+IV BIS.- Billar o Boliche.- Establecimientos destinados a operar instalaciones para practicar juegos de boliche y billar, de manera conjunta o separada, como actividades principales, donde además podrán expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del mismo.
+
+Podrá contar con mesas y sillas, juegos de mesa y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables.
+
+Dicho establecimiento podrá contar con bar anexo comunicado, mismo que deberá estar claramente delimitado y separado del área de billar o boliche, ello no obstante su comunicación, donde podrán consumirse bebidas alcohólicas sin alimentos.
+
+Podrá proporcionar servicio para eventos sociales en los que se permite la venta o consumo de bebidas con contenido alcohólico, en su caso, ser necesario recabar autorización de la autoridad municipal para la celebración de tales eventos. Asimismo, se permite la venta y consumo en las áreas de jardines y terrazas del establecimiento.
+
+Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 V.- Restaurante.- Establecimiento donde se expenden alimentos preparados para su consumo inmediato. La licencia que se autorice para la venta de bebidas con contenido alcohólico deberá ser para consumirse exclusivamente acompañadas con los alimentos y podrán servirse a manera de aperitivo antes de los alimentos en forma moderada y sólo en el caso de que el cliente vaya a consumir estos últimos. También las bebidas con contenido alcohólico podrán servirse con los alimentos y en forma más moderada después de ellos. En ningún caso, ni en ningún tiempo podrán servirse bebidas con contenido alcohólico a personas que muestren evidentes signos de ebriedad.
 
 Los restaurantes deberán contar con suficientes mesas y sillas para los comensales, además de cocina industrial independiente para preparar alimentos, deberá tener el mobiliario, equipo y menú adecuados para que el importe de sus ventas de alimentos, sea por lo menos un 60% del importe de sus ventas totales anuales, reuniendo las condiciones higiénicas previstas en las Leyes General y Estatal de Salud. Podrán contar con barra y taburete, música ambiental y con grupos cantantes y/o musicales y con presentaciones artísticas y culturales para el sano esparcimiento de los clientes.
 
-Dicho establecimiento podrá contar con bar anexo comunicado, en cuyo caso se denominará específicamente Restaurante-Bar, lo que deberá hacerse constar en la licencia respectiva, donde podrán consumirse bebidas alcohólicas sin alimentos. Podrá proporcionar servicio para eventos sociales en los que se permite la venta o consumo de bebidas con contenido alcohólico, en su caso, será necesario recabar autorización de la autoridad municipal para la celebración de tales eventos. Asimismo, se permite la venta y consumo en las áreas de jardines y terrazas del establecimiento;
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
-
-Los establecimientos comerciales denominados “cine vip” son aquellos lugares en los cuales se proyectan películas cinematográficas o cualquier otro tipo de producción afín, con propósitos de explotación comercial y en los que además se expendan alimentos preparados para su consumo inmediato así como la venta y consumo de bebidas con contenido alcohólico. Estos establecimientos se homologarán en su regulación a aquellos que operen bajo el giro de “Restaurante Bar”, debiendo cumplir con los requisitos establecidos en esta fracción, respecto del giro, así como con las demás disposiciones que esta Ley contempla para la venta y consumo de bebidas con contenido alcohólico bajo la modalidad de Restaurante Bar incluyendo lo relativo al pago y cobro de los derechos correspondientes. La autorización para la venta y consumo de bebidas con contenido alcohólico bajo este concepto deberá constar en la licencia respectiva.
+V BIS.- Restaurante Bar.- Establecimiento donde se expenden alimentos preparados para su consumo inmediato, mismo que reúne y cumple con los elementos y requisitos de la fracción V de este artículo, pero que además podrá contar con bar anexo comunicado, el cual deberá estar claramente delimitado y separado del área de restaurante, ello no obstante su comunicación, donde podrán consumirse bebidas alcohólicas sin alimentos.
 
 VI.- Tienda de Autoservicio.- Establecimiento cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, artículos de consumo básicos de uso doméstico y otra clase de mercancías, en la modalidad de autoservicio, podrá contar con equipo necesario para surtir al cliente productos alimenticios embutidos, lácteos o marinos.
 
 Deberá contar con una o más cajas para cobro, con refrigeradores o conservadores de alimentos, anaqueles y vitrinas de autoservicio y mostradores, pudiendo complementar su actividad con la venta de bebidas con contenido alcohólico. Del total de su inventario de mercancías, podrá tener hasta un 25% de bebidas con contenido alcohólico, que deberán encontrarse en el área de autoservicio. Asimismo, deberán contar con cajones de estacionamiento suficientes para los clientes.
 
-Se prohíbe la publicidad de bebidas alcohólicas en el exterior de estos establecimientos y en el interior de los mismos solamente podrán colocarse anuncios que no excedan del 10% de la superficie visible del mismo y la existente deberá contener las leyendas previstas por la normatividad de la materia. En caso de contravenir dicha disposición, será motivo para dar inicio al procedimiento administrativo de cancelación de la licencia respectiva. Por ningún motivo se podrá realizar el consumo de bebidas con contenido alcohólico en el área interior o exterior y en el área del estacionamiento del local;
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Se prohíbe la publicidad de bebidas alcohólicas hacia y en el exterior de estos establecimientos y en el interior de los mismos solamente podrán colocarse anuncios que no excedan del 10% de la superficie visible del mismo y la existente deberá contener las leyendas previstas por la normatividad de la materia.
 
 VII.- Tienda Departamental.- Establecimiento que deberá contar con instalaciones e infraestructura necesarias, con la característica de que el establecimiento se encuentra dividido en departamentos en los que preponderantemente se vende al público artículos variados, tales como ropa, muebles, cosméticos y otros, en donde complementariamente se podrán vender productos alimenticios finos y bebidas con contenido alcohólico en envase cerrado, las cuales se deberán tener para su exhibición y venta en el departamento correspondiente, quedando prohibido su consumo en éste o cualquier otra área departamental.
 
 Asimismo, la tienda departamental podrá contar con un área destinada exclusivamente para restaurante, en el que se podrá realizar la venta y consumo de bebidas con contenido alcohólico, en los términos y condiciones establecidos en la presente Ley para este tipo de giro;
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Se prohíbe la publicidad de bebidas alcohólicas hacia y en el exterior de estos establecimientos, de igual manera en el interior de los mismos solamente podrán colocarse anuncios que no excedan del 10% de la superficie visible del departamento correspondiente y la existente deberá contener las leyendas previstas por la normatividad de la materia;
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+En caso de contravenir dicha disposición, será motivo para dar inicio al procedimiento administrativo de cancelación de la licencia respectiva.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Por ningún motivo se podrá realizar el consumo de bebidas con contenido alcohólico en el área interior, área exterior o en el área del estacionamiento del local, salvo en el área para restaurante señalada en párrafos anteriores.
 
 VIII.- Tienda de Abarrotes.- Establecimientos con mostrador para venta de abarrotes y similares que expenden bebidas con contenido alcohólico en envase cerrado, al menudeo, pudiendo contar en sus inventarios con un máximo de 20 cartones o cajas de 24 unidades de 340 mililitros cada una o 14 cartones o cajas de 12 unidades de mil mililitros o su equivalente si se tratara de otra presentación.
 
@@ -179,15 +211,23 @@ Se prohíbe la publicidad de bebidas alcohólicas en el exterior de estos establ
 
 En estos establecimientos, la venta de bebidas con contenido alcohólico se deberá sujetar exclusivamente a lo establecido en el artículo 11 de la presente Ley;
 
-IX.- Centro Nocturno.- Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo para el consumo inmediato en el interior del propio establecimiento, en el que se baila con música y además tiene la característica de presentar espectáculos para la diversión de los asistentes.
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+IX.- Centro Nocturno.- Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo para consumo inmediato en el interior del mismo, en el que se baila con música y además tiene la característica de presentar espectáculos para la diversión de los asistentes.
 
 Podrá contar con bambalinas, foro de espectáculos y de orquestas, camerinos exclusivamente para uso de artistas, iluminación con efectos y sonidos especiales y además con pista de baile, mesas de billar y juegos de mesa. Deberá contar con guardias de seguridad.
 
-En estos establecimientos se podrán presentar espectáculos de baile semidesnudos de hombres y/o mujeres mayores de edad, para lo cual se deberá cumplir con los requisitos que para tal efecto establezca el reglamento de la presente Ley y contar con licencia específica expedida por la Secretaría;
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-X.- Centro de Eventos o Salón de Baile.- Lugar dedicado a dar servicio al público para la celebración de eventos familiares o privados, tales como bodas, bautizos, quinceañeras, bailes, presentaciones especiales, entre otros y en su caso, eventos públicos, tales como exposiciones, convenciones, presentaciones artísticas o espectáculos musicales. Dicho lugar podrá contar con área o salón de baile, servicio de cocina y cantina con venta o consumo de bebidas con contenido alcohólico al amparo de su licencia debidamente autorizada para tales efectos. En su caso será necesario recabar autorización de las autoridades municipales para la celebración de tales eventos.
+IX BIS.- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres mayores de edad.- Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo para consumo inmediato en el interior del mismo, el cual reúne y cumple con los elementos y requisitos de la fracción IX de este artículo.
 
-Cuando en el establecimiento a que se refiere el párrafo anterior, se celebre un evento público, en donde además de la venta y consumo de bebidas con contenido alcohólico, se presenten espectáculos que amenicen con bailes o eventos musicales, queda prohibida la entrada a menores de edad, conforme a lo establecido en la fracción III del artículo 20 de esta Ley;
+En estos establecimientos se podrán presentar espectáculos de baile semidesnudos de hombres y/o mujeres mayores de edad, para lo cual se deberá cumplir con los requisitos que para tal efecto establezca el reglamento de la presente Ley y contar con licencia específica expedida por la Secretaría.
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+X.- Centro de Eventos o Salón de Baile.- Lugar dedicado a dar servicio al público para la celebración de eventos familiares o privados, tales como bodas, bautizos, quinceañeras, bailes, presentaciones especiales, entre otros. Dicho lugar podrá contar con área o salón de baile, servicio de cocina y cantina con venta o consumo de bebidas con contenido alcohólico al amparo de su licencia debidamente autorizada para tales efectos, debiendo contar con guardias suficientes para garantizar la seguridad del evento.
+
+Así mismo, podrá celebrar eventos públicos masivos, tales como exposiciones, convenciones, presentaciones artísticas o espectáculos musicales; en este caso será necesario recabar autorización de las autoridades municipales para la celebración de tales eventos.
 
 XI.- Centro Deportivo o Recreativo.- Lugar en donde se ofrecen al público espectáculos deportivos o espacios físicos y servicios, destinados al esparcimiento, diversión o entretenimiento de los asistentes, en los que además pueden celebrarse eventos artísticos, culturales, sociales u otra clase de eventos y que podrá contar con venta y consumo de bebidas con contenido alcohólico mediante la licencia autorizada específica, en envases desechables higiénicos que no deberán ser de vidrio o cristal;
 
@@ -199,11 +239,11 @@ Los permisos para esa actividad preferentemente se otorgarán a aquellas negocia
 
 XIV.- Autorizaciones eventuales por tiempo determinado que otorgue el Ejecutivo del Estado por conducto de la Secretaría, para la venta o consumo de bebidas con contenido alcohólico, con fines determinados, tales como muestras, degustación y otros, en aquellos lugares que considere convenientes y sin que esta circunstancia implique la autorización de una licencia definitiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XV.- (DEROGADA, B.O. 19 DE DICIEMBRE DE 2013)
 
-> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-XV.- Establecimiento que preste servicios de sorteos y juegos con apuestas.- Establecimiento en el que se lleva a cabo la prestación de servicios de sorteos y juegos con apuestas, independientemente del nombre con el que se les designe y que requieran permiso de acuerdo con la Ley Federal de Juegos y Sorteos y su Reglamento, en donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo para el consumo inmediato en el interior del propio establecimiento.
+XVI.- Cine VIP.- Los establecimientos comerciales denominados "cine vip" son aquellos lugares en los cuales se proyectan películas cinematográficas o cualquier otro tipo de producción afín, con propósitos de explotación comercial y en los que además se expendan alimentos preparados para su consumo inmediato así como la venta y consumo de bebidas con contenido alcohólico. Estos establecimientos se homologarán en su regulación a aquellos que operen bajo el giro de "Restaurante Bar", debiendo cumplir con los requisitos establecidos en esta fracción, respecto del giro, así como las demás disposiciones que esta Ley contempla para la venta y consumo de bebidas con contenido alcohólico bajo la modalidad de Restaurante Bar incluyendo lo relativo al pago y cobro de los derechos correspondientes. La autorización para la venta y consumo de bebidas con contenido alcohólico bajo este concepto deberá constar en la licencia respectiva.
 
 Los establecimientos autorizados conforme a la presente Ley, podrán contar con almacén anexo para guardar sus bebidas con contenido alcohólico, sin que requieran de autorización o licencia. Dicho almacén, no deberá exceder las dimensiones del local de venta al público y no deberá permitirse el acceso a este lugar al público en general.
 
@@ -301,11 +341,47 @@ V.- Impedir y denunciar escándalos en los establecimientos ocurriendo, para evi
 
 VI.- Pagar las contribuciones y sanciones correspondientes dentro de los plazos que fijen las Leyes, y presentar los comprobantes cuando así les sea requerido por los inspectores del ramo en días y horas normales de oficina;
 
-VII.- Dar aviso por escrito a la Secretaría, del cambio de denominación o nombre comercial del establecimiento, dentro de los 15 días hábiles siguientes en que se hubiese hecho el cambio;
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+VII.- Señalar visiblemente en el exterior del establecimiento solo el nombre comercial autorizado en su licencia de alcoholes; debiendo dar aviso por escrito a la Secretaría, del cambio de denominación o nombre comercial del establecimiento, dentro de los 15 días hábiles siguientes en que se hubiese hecho el cambio.
 
 VIII.- Contar con los cajones de estacionamiento en los casos establecidos en la presente Ley y conforme a la normatividad relativa a Desarrollo Urbano y Obras Públicas que corresponda; y
 
 IX.- Las demás que se deriven de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 14 Bis.
+
+Son derechos generales de los permisionarios los siguientes:
+
+I.- Derecho a ser informado y asistido por la autoridad hacendaria en el cumplimiento de sus obligaciones, así como del contenido y alcance de las mismas.
+
+II.- Derecho a conocer el estado que guardan los trámites y procedimientos en los que sea parte ante la Dirección General de Bebidas Alcohólicas.
+
+III.- Derecho a conocer la identidad del personal actuante en las diligencias que se llevan a cabo por parte de la autoridad fiscal.
+
+IV. Derecho al carácter reservado de los datos, informes o antecedentes que conozcan los servidores públicos de la Dirección General de Bebidas Alcohólicas, los cuales sólo podrán ser utilizados de conformidad con lo dispuesto por el artículo 80 del Código Fiscal del Estado de Sonora.
+
+V. Derecho a ser tratado con el debido respeto y consideración por los servidores públicos de la Dirección General de Bebidas Alcohólicas.
+
+VI. Derecho a formular alegatos, presentar y ofrecer como pruebas documentos conforme a las disposiciones aplicables, mismos que serán tomados en cuenta por la Dirección General de Bebidas Alcohólicas para determinar su situación legal.
+
+VII. Derecho a ser oído en el trámite administrativo con carácter previo a la emisión de la resolución determinante del crédito fiscal, en los términos de la ley respectiva.
+
+VIII. Derecho a ser informado, sobre sus derechos y obligaciones en el curso de tales actuaciones.
+
+Se tendrá por informado al permisionario sobre sus derechos, cuando se le entregue la carta de los derechos del permisionario.
+
+IX. Los servidores públicos de la Dirección General de Bebidas Alcohólicas facilitarán en todo momento al permisionario el ejercicio de sus derechos y el cumplimiento de sus obligaciones.
+
+X. La Dirección General de Bebidas Alcohólicas realizará campañas de difusión a través de medios masivos de comunicación, para fomentar y generar en la población sonorense la cultura del consumo responsable y moderado de bebidas con contenido alcohólico, asimismo divulgar los derechos y obligaciones de los permisionarios.
+
+XI. La Dirección General de Bebidas Alcohólicas, a través de sus oficinas en diversos lugares del territorio sonorense orientará y auxiliará a los permisionarios en el cumplimiento de sus obligaciones.
+
+XII. Sin perjuicio de lo establecido en el Código Fiscal del Estado de Sonora, los permisionarios podrán formular a la autoridad consultas sobre el tratamiento aplicable a situaciones reales y concretas.
+
+XIII. Los permisionarios tendrán a su alcance los recursos y medios de defensa que procedan, en los términos de las disposiciones legales respectivas, contra los actos dictados por las autoridades fiscales, así como a que en la notificación de dichos actos se indique el recurso o medio de defensa procedente, el plazo para su interposición y el órgano ante el que debe formularse. Cuando en la resolución administrativa se omita el señalamiento de referencia, los permisionarios contarán con el doble del plazo que establecen las disposiciones legales para interponer el recurso administrativo o el juicio contencioso administrativo.
 
 ###### Artículo 15.
 
@@ -337,15 +413,17 @@ Los conductores de vehículos porteadores de bebidas con contenido alcohólico a
 
 Se prohíbe a los propietarios, encargados o empleados de los establecimientos dedicados a expender bebidas con contenido alcohólico, lo siguiente:
 
-I.- La venta o consumo de bebidas con contenido alcohólico a los menores de 18 años de edad. Para cerciorarse de la mayoría de edad, el titular o encargado del establecimiento tendrá la obligación de cerciorarse con identificación oficial vigente con fotografía de la mayoría de edad del adquiriente;
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+I.- La venta o consumo de bebidas con contenido alcohólico a los menores de 18 años de edad. Para cerciorarse de la mayoría de edad, el titular o encargado del establecimiento o los empleados del establecimiento, tendrán la obligación de cerciorarse con identificación oficial vigente con fotografía de la mayoría de edad del adquiriente; considerándose como tal el original de la credencial de elector, la cartilla militar, la cédula profesional, licencia de conducir o en su caso pasaporte vigente, los extranjeros podrán acreditar la mayoría de edad con documento oficial con fotografía de su país de origen.
 
 II.- La venta de toda clase de bebidas con contenido alcohólico a personas en estado de ebriedad, bajo los efectos de psicotrópicos, así como a personas con carencias mentales, a personas armadas, a militares o miembros de la policía que se encuentren uniformados o en servicio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 2012)</small>
+III.- Permitir la entrada a menores de edad en los establecimientos señalados en las fracciones IV, IX y XV del artículo 10 de esta Ley, salvo tratándose de boliches y en la celebración de eventos en que no se vendan o consuman bebidas con contenido alcohólico, debiendo el propietario o encargado inscribir en parte visible del interior y exterior del establecimiento esta prohibición. En el caso de los giros de boliche, hotel o motel y restaurante-bar, esta prohibición regirá en el local destinado para bar.
 
-III.- Permitir la entrada a menores de edad en los establecimientos señalados en las fracciones IV, IX y XV del artículo 10 de esta Ley, salvo tratándose de boliches y en la celebración de eventos en que no se vendan o consuman bebidas con contenido alcohólico, debiendo el propietario o encargado inscribir en parte visible del interior y exterior del establecimiento esta prohibición. En el caso de los giros de hotel o motel y restaurante-bar, esta prohibición regirá en el local destinado para bar.
+A fin de cerciorarse de la mayoría de edad para permitir el acceso a los establecimientos con los giros señalados en el párrafo anterior, los propietarios o encargados deberán solicitar las identificaciones oficiales a que se refiere la fracción I de este artículo.
 
 IV.- En los establecimientos autorizados para la venta de bebidas alcohólicas en envase cerrado, queda prohibida la venta en envase abierto, así como el consumo de bebidas con contenido alcohólico en el área interior o exterior y, en su caso, en el área del estacionamiento del local;
 
@@ -363,9 +441,13 @@ IX.- Instalar en los establecimientos a que se refiere esta Ley compartimientos 
 
 X.- Operar con venta o consumo de bebidas con contenido alcohólico adulteradas, así como la existencia en el establecimiento de botellas que presenten huellas de violación o adulteración en su contenido original en los establecimientos a que se refiere esta Ley;
 
-XI.- Obsequiar bebidas con contenido alcohólico a las personas con uniforme oficial de cualquier autoridad, así como a los inspectores del ramo; y
+XI.- Obsequiar bebidas con contenido alcohólico a las personas con uniforme oficial de cualquier autoridad, así como a los inspectores del ramo; y (sic)
 
 XII.- Las demás que se desprendan de la presente Ley.
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XIII.- Permitir el consumo de bebidas con contenido alcohólico en el área exterior y en el área del estacionamiento del local a que se refieren los giros contemplados en las fracciones II, III, IV, IV BIS, VI, VII, VIII, X, XV Y XVI del artículo 10 de la presente ley
 
 ###### Artículo 21.
 
@@ -513,7 +595,9 @@ El Ayuntamiento negará la anuencia mediante acuerdo fundado y motivado, cuando 
 
 Los interesados en obtener licencia para la apertura y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, almacenamiento, distribución, transportación, venta y consumo de bebidas con contenido alcohólico, deberán presentar ante la Secretaría la solicitud correspondiente, anexando los documentos y manifestando la información que a continuación se precisa:
 
-I.- Nombre del solicitante, nacionalidad, Clave de su Registro Federal de Contribuyentes y designación de domicilio para oír y recibir notificaciones independientemente del domicilio del establecimiento;
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+I.- Nombre del solicitante, nacionalidad, Clave de su Registro Federal de Contribuyentes, Clave de su Registro Estatal de Contribuyentes y designación de domicilio para oír y recibir notificaciones independientemente del domicilio del establecimiento;
 
 II.- Original o copia certificada del acta constitutiva, modificaciones, en su caso, y poderes de sus representantes legales, tratándose de personas morales; o copia certificada de acta de nacimiento y copia certificada de su alta en la Secretaría de Hacienda y Crédito Público en caso de personas físicas; además, en este último supuesto, copia de una identificación oficial vigente con fotografía;
 
@@ -965,9 +1049,11 @@ IV.- Cuando la licencia sea explotada en un domicilio diferente o con giro disti
 
 V.- Cuando el establecimiento opere con venta o consumo de bebidas con contenido alcohólico adulteradas.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-VI.- Por vender o permitir el consumo de bebidas con contenido alcohólico a menores de edad o incapacitados legales.
+VI.- Por vender o permitir, en forma reiterada, el consumo de bebidas con contenido alcohólico a menores de edad o incapaces legales. En este caso, la clausura solo procederá cuando al responsable del establecimiento se le acredite que tuvo conocimiento directo de la infracción.
+
+En todos los casos, la persona que proporcionó o generó directamente la venta de las bebidas con contenido alcohólico a menores, por no cerciorarse de la edad de las personas, se hará acreedor a la multa establecida en el artículo 82, fracción IV de esta ley.
 
 Lo anterior, independientemente de la aplicación de las sanciones que correspondan por infracciones en que se haya incurrido.
 
@@ -1005,9 +1091,11 @@ Las bebidas alcohólicas que sean recogidas y secuestradas en los términos de e
 
 Tratándose de bebidas alcohólicas adulteradas la Secretaría procederá, levantando un acta, a destruir los envases abiertos o cerrados que contengan dichas bebidas.
 
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 81.
 
-Cumplido el plazo que señala el artículo anterior, tratándose de bebidas legalmente registradas, que no hubieren sido recuperadas, la Secretaría, mediante acta administrativa, procederá de inmediato a su enajenación y los recursos que se obtengan se enterarán a la Secretaría.
+Cumplido el plazo que señala el artículo anterior, tratándose de bebidas legalmente registradas, que no hubieren sido recuperadas, la Secretaría, mediante acta administrativa, procederá de inmediato a su enajenación, donación o destrucción y los recursos que se obtengan se enterarán a la Secretaría.
 
 ### CAPÍTULO XII. DE LAS SANCIONES
 
@@ -1047,7 +1135,9 @@ II.- Con multa equivalente de quince a setecientas veces el salario mínimo gene
 
 a).- Cuando se impida o dificulte a las autoridades correspondientes, la inspección de los establecimientos completos o vehículos a que se refiere esta Ley, o bien, cuando sin causa justificada agredan físicamente al inspector que en ejercicio de sus funciones realiza una visita o inspección a cualesquiera de los establecimientos o vehículos regulados por esta Ley;
 
-b).- Por poseer las tiendas de abarrotes un inventario superior, en contravención a lo dispuesto en la fracción VIII del artículo 10 de esta Ley;
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+b).- Por poseer las tiendas de autoservicio y las tiendas de abarrotes un inventario superior, en contravención a lo dispuesto en las fracciones VI y VIII del artículo 10 de esta Ley;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1079,7 +1169,9 @@ a).- Al que utilice algún establecimiento o su propio domicilio para la fabrica
 
 Tratándose de establecimientos, la autoridad deberá en su caso clausurarlos, en la inteligencia de que para garantizar el crédito fiscal resultante, se practicará el secuestro precautorio de los bienes;
 
-b).- No exhibir la documentación que ampare el tránsito de bebidas con contenido alcohólico a solicitud de las autoridades o cuando se detecte que se efectúa la venta por los conductores durante su recorrido sin reunir los requisitos que exige esta Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+b).- No exhibir la documentación que ampare el tránsito de bebidas con contenido alcohólico a solicitud de las autoridades o cuando se detecte que se efectúa la venta, descarga o entrega de las mismas por los conductores durante su recorrido sin reunir los requisitos que exige esta Ley.
 
 Tratándose de infracciones en los casos de transportación a que se refiere este inciso, se aplicará el doble de la sanción establecida en esta fracción.
 
@@ -1105,11 +1197,11 @@ i).- Por cualquier otro acto u omisión que infrinja las disposiciones de esta L
 
 Cuando la infracción pudiera dar lugar a la cancelación de la licencia, se estará a lo dispuesto por el Capítulo X de esta Ley.
 
-> <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-IV.- Con multa equivalente de 1000 a 3100 veces el salario mínimo general vigente en la zona geográfica “A”, o arresto de hasta 36 horas en el siguiente caso:
+IV.- Con multa equivalente de 1000 a 3100 veces el salario mínimo general vigente en la zona geográfica "A", o arresto de hasta 36 horas en el siguiente caso:
 
-a) A los que contravengan lo dispuesto por la fracción I del artículo 20 de esta Ley, y en caso de reincidencia con el triple de la sanción impuesta y con la cancelación de la licencia y clausura del establecimiento.
+a) A los propietarios, responsables o empleados de los establecimientos que se les acredite la contravención a lo dispuesto por la fracción I del artículo 20 de esta Ley, debiendo individualizarse la sanción, en función de la responsabilidad directa que cada uno asumió al cometerse la infracción. En caso de la primera reincidencia, será el doble la sanción impuesta y en el supuesto de la segunda reincidencia se procederá a la cancelación de la licencia y clausura del establecimiento, siempre y cuando se acredite plenamente la responsabilidad directa del responsable del mismo.
 
 ###### Artículo 83.
 
@@ -1462,3 +1554,21 @@ B.O. 16 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 19 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en todo el Estado de Sonora, a partir del 1 de enero de 2014, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Estado de Sonora, en el ejercicio fiscal del año 2014, el pago de derechos por concepto de revalidación vehicular incluirá la reposición de placas sin costo, previa entrega de las anteriores. Lo anterior, a efecto de dar cumplimiento a las disposiciones que en materia de seguridad se establecen en la Norma Oficial Mexicana NOM-001-CT-2-2000.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
