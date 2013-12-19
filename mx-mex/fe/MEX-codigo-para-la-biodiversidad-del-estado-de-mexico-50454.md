@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2013-07-18"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -283,7 +283,7 @@ i) Las obras y proyectos a que se refiere este Libro y que están sujetas a eval
 
 j) Cualquier otra actividad que produzca o pueda producir daño o deterioro ambiental a criterio de la Secretaría del Medio Ambiente del Estado de México.
 
-II. Afectación ambiental: La pérdida, menoscabo o modificación de las condiciones químicas, físicas o biológicas de la flora y fauna silvestres, del paisaje, suelo, subsuelo, agua, aire o de la estructura y funcionamiento de los ecosistemas y la afectación a la integridad de la persona es la introducción no consentida en el organismo humano de uno o más contaminantes, la combinación o derivación de ellos que resulte directa o indirectamente de la exposición a materiales o residuos y de la Iiberación, descarga, desecho, infiltración o incorporación ilícita de dichos materiales o residuos en la atmósfera, en el agua, en el suelo, en el subsuelo y en los mantos freáticos o en cualquier medio o elemento natural.
+II. Afectación ambiental: La pérdida, menoscabo o modificación de las condiciones químicas, físicas o biológicas de la flora y fauna silvestres, del paisaje, suelo, subsuelo, agua, aire o de la estructura y funcionamiento de los ecosistemas y la afectación a la integridad de la persona es la introducción no consentida en el organismo humano de uno o más contaminantes, la combinación o derivación de ellos que resulte directa o indirectamente de la exposición a materiales o residuos y de la liberación, descarga, desecho, infiltración o incorporación ilícita de dichos materiales o residuos en la atmósfera, en el agua, en el suelo, en el subsuelo y en los mantos freáticos o en cualquier medio o elemento natural.
 
 III. Ambiente: Conjunto de elementos biofíscos (sic) que hacen posible la existencia y el desarrollo del (sic) la especie humana y de los demás organismos vivos que interactúan y se relacionan en un espacio y tiempo determinados, así como elementos artificiales inducidos por el ser humano;
 
@@ -459,7 +459,9 @@ i) Las demás acciones análogas en materia ambiental que se consideren necesari
 
 IV. Aplicar los criterios de la Federación en las obras e instalaciones municipales de tratamiento de aguas residuales a fin de que las descargas en los cuerpos y corrientes de agua que pasen al territorio de otro Estado satisfagan las normas oficiales mexicanas aplicables;
 
-V. Aprobar e instrumentar el ordenamiento ecológico del Territorio del Estado con la participación de los Ayuntamientos;
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+V. Aprobar e instrumentar el ordenamiento ecológico del Territorio del Estado con la participación de los ayuntamientos, considerando la información sobre las regiones o zonas geográficas vulnerables a los efectos adversos del cambio climático;
 
 VI. Celebrar convenios de coordinación con la Federación en las materias de este Libro para realizar actividades o ejercer facultades en bienes y zonas de jurisdicción federal de conformidad con las disposiciones aplicables, y celebrar acuerdos y convenios con Ayuntamientos sobre acciones de beneficio ambiental y ecológico;
 
@@ -577,7 +579,9 @@ XLI. Las demás que conforme a este libro y otras disposiciones aplicables le co
 
 I. Formular, conducir y evaluar la política ambiental municipal en congruencia con los criterios que hubiere formulado la Federación y el Gobierno del Estado;
 
-II. Formular y expedir el Programa de Ordenamiento Ecológico del Territorio Municipal en congruencia con lo señalado por el ordenamiento ecológico del Estado, así como el control y la vigilancia del uso o cambio de uso del suelo establecido en dichos programas;
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+II. Formular y expedir el Programa de Ordenamiento Ecológico del Territorio Municipal en congruencia con lo señalado por el ordenamiento ecológico del Estado, considerando la información sobre las regiones o zonas geográficas vulnerables a los efectos adversos del cambio climático, así como el control y la vigilancia del uso o cambio de uso del suelo establecido en dichos programas;
 
 III. Aplicar los instrumentos de política ambiental previstos en el presente Libro y su Reglamento. Previniendo, protegiendo y fomentando la conservación de los recursos del bosque, del suelo y del agua básicos para el desarrollo de la actividad agropecuaria y forestal en el Estado, así como la preservación, conservación, remediación y restauración del equilibrio ecológico y la protección a la biodiversidad y al ambiente en bienes y zonas de jurisdicción municipal en las materias que no estén expresamente atribuidas a la Federación o al Estado;
 
@@ -679,9 +683,11 @@ XXXV. Las demás que establezcan otras disposiciones aplicables.
 
 #### SECCION PRIMERA. DEL SISTEMA ESTATAL DE INFORMACION PUBLICA AMBIENTAL, DEL REGISTRO ESTATAL AMBIENTAL Y DEL CENTRO GEOMATICO
 
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 2.
 
-16. La Secretaría organizará el Sistema Estatal de Información Pública Ambiental y coordinará el Centro Geomático Ambiental con el objeto de obtener, generar y procesar la información relativa al agua, el aire, el suelo, la flora, la fauna y la biodiversidad en general.
+16. La Secretaría organizará el Sistema Estatal de Información Pública Ambiental y coordinará el Centro Geomático y al Instituto Estatal de Energía y Cambio Climático, con el objeto de obtener, generar y procesar la información relativa al agua, el aire, el suelo, la flora, la fauna y la biodiversidad en general, así como las emisiones de gases de efecto invernadero que provocan el cambio climático, los proyectos o actividades de mitigación o reducción de emisiones y la vulnerabilidad a sus efectos.
 
 ###### Artículo 2.
 
@@ -1065,9 +1071,13 @@ V. Procurar la utilización conjunta con otros instrumentos de política ambient
 
 59. Se consideran prioritarias para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme a la Ley de Ingresos del Estado las actividades relacionadas con:
 
-I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de recursos naturales y de energía;
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
-II. La investigación e incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
+I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, las emisiones de gases de efecto invernadero, así como el uso eficiente de recursos naturales y de energía;
+
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+II. La investigación e incorporación de sistemas de ahorro de energía, de utilización de fuentes de energía menos contaminantes y de energías renovables y tecnologías de bajas emisiones;
 
 III. El ahorro, uso, aprovechamiento sostenible y la prevención de la contaminación del agua;
 
@@ -1075,7 +1085,9 @@ IV. La ubicación y reubicación de instalaciones agropecuarias, industriales, c
 
 V. El establecimiento, manejo y vigilancia de áreas naturales sometidas a las categorías especiales de protección a las que se refiere el presente Libro; y
 
-VI. En general aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección ambiental.
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+VI. En general aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección ambiental, y con la adaptación al cambio climático y la mitigación de emisiones de gases de efecto invernadero que lo provocan.
 
 #### SECCION SEGUNDA. DE LA CONSERVACION, PRESERVACION, REMEDIACION, REHABILITACION Y RESTAURACION DEL EQUILIBRIO ECOLOGICO
 
@@ -1401,7 +1413,7 @@ Las autoridades municipales no podrán someter a ninguna categoría especial de 
 
 ###### Artículo 2.
 
-90. Las áreas naturales protegidas estatales constituyen en su conjunto el Sistema Estatal de reas Naturales Protegidas.
+90. Las áreas naturales protegidas estatales constituyen en su conjunto el Sistema Estatal de Areas Naturales Protegidas.
 
 ###### Artículo 2.
 
@@ -2547,9 +2559,11 @@ Admitidas y desahogadas las pruebas ofrecidas por el interesado o habiendo trans
 
 240. Los Gobiernos Federal, Estatal y Municipal, podrán celebrar convenios de coordinación entre sí para realizar conjuntamente o por separado actos de inspección y vigilancia, para verificar el cumplimiento de las disposiciones federales, estatales y municipales en materia de ecología, biodiversidad y medio ambiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 2.
 
-241. Cuando la Secretaría o la autoridad municipal competente observen que existe riesgo inminente de desequilibrio ecológico, de daño o deterioro graves a los elementos y recursos naturales; casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública; por la operación indebida de programas de cómputo y equipos que alteren la verificación vehicular, permitiendo la circulación de vehículos que emitan contaminantes excediendo la norma, podrán ordenar alguna o algunas de las medidas de seguridad siguientes:
+241. Cuando la Secretaría o la autoridad municipal competente observen que existe riesgo inminente de desequilibrio ecológico, de daño o deterioro graves a los elementos y recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, por la operación indebida de programas de cómputo y equipos que alteren la verificación vehicular, permitiendo la circulación de vehículos que emitan contaminantes excediendo la norma, o se comprometa la adaptación al cambio climático, así como la mitigación de las emisiones de gases de efecto invernadero que lo provocan podrán ordenar alguna o algunas de las medidas de seguridad siguientes:
 
 I. La clausura temporal, parcial o total de las fuentes contaminantes, de las instalaciones en que se manejen o almacenen productos o subproductos de sustancias contaminantes de residuos peligrosos, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el presente artículo;
 
@@ -3499,6 +3513,10 @@ XXXVIII. Fortalecer y ampliar la participación de la producción forestal en el
 
 XXXIX. Hacer del conocimiento de las autoridades competentes y denunciar las infracciones, faltas administrativas o delitos que se cometan en materia forestal.
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+XL. Integrar e implementar el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones, e incorporar su contenido al Sistema Nacional de Monitoreo, Registro y Verificación.
+
 #### SECCION SEGUNDA. DE LAS ATRIBUCIONES DE LOS MUNICIPIOS
 
 ###### Artículo 3.
@@ -3550,6 +3568,10 @@ XXI. Desarrollar viveros y apoyar programas de producción de plantas;
 XXII. Hacer del conocimiento a las autoridades competentes y denunciar las infracciones, faltas administrativas o delitos que se cometan en materia forestal; y
 
 XXIII. Regular y vigilar la disposición final de residuos provenientes de la extracción de materias primas forestales.
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+XXIV. Coadyuvar con el Gobierno del Estado en la integración e implementación del Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones.
 
 ### CAPITULO IV. DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MEXICO
 
@@ -3765,9 +3787,15 @@ V. La cuantificación de los recursos forestales que incluya la valoración de l
 
 VI. Los criterios e indicadores de sostenibilidad y degradación de los ecosistemas forestales;
 
-VII. Los inventarios sobre la infraestructura forestal existente; y
+VII. Los inventarios sobre la infraestructura forestal existente; y (sic)
 
-VIII. Los demás datos que señale el Reglamento de este Libro.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+VIII. La información basada en el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones, derivadas de acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+IX. Los demás datos que señale el Reglamento de este Libro.
 
 ###### Artículo 3.
 
@@ -6597,7 +6625,7 @@ X. Vivisección: Abrir vivo a un animal; y
 
 XI. Zoonosis: La transmisión de enfermedades entre seres humanos y animales.
 
-###### Artículo 6.
+###### Articulo 6.
 
 3. Son objeto de tutela y protección de este Libro todos los animales domésticos, tales como:
 
@@ -6637,7 +6665,7 @@ XVI. Los que se comercializan en cualquiera de sus formas; y
 
 XVII. Todos los animales domésticos que son utilizados para el aprovechamiento y uso en actividades humanas.
 
-###### Artículo 6.
+###### Articulo 6.
 
 4. Las autoridades del Estado de México y la sociedad en general reconocen los siguientes principios:
 
@@ -7552,3 +7580,15 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor a los treinta días naturales, siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Las personas físicas o jurídico colectivas que ya cuenten con concesión o autorización respectiva para prestar el servicio de guarda, custodia, reparación o depósito de vehículos, o para el comercio, guarda, almacenamiento o depósito de vehículos de desecho o autopartes usadas, en un plazo no mayor a sesenta días naturales, contados a partir de la entrada en vigor de la presente reforma, deberán contar con la autorización de impacto y riesgo ambiental que corresponda a su actividad.
+
+G.G. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día en que inicie su vigencia el diverso por el que se reforma el párrafo tercero del artículo 18 de la Constitución Política del Estado Libre y Soberano de México, en materia de cambio climático.
+
+TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía que sean contrarias a las establecidas en los artículos reformados.
+
+CUARTO.- El ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
+
+QUINTO. El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
