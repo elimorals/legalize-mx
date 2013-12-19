@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2013-07-11"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -143,23 +143,45 @@ XXVIII. Permiso para circular sin placas y tarjeta de circulación: documento ot
 
 XXIX. Placa: plancha de metal en que figura el número de matrícula, que permite individualizar un vehículo, expedida por la autoridad competente;
 
-XXX. Registro público vehicular: es un registro de información a nivel nacional que tiene como propósito otorgar seguridad pública y jurídica a los actos que se realicen con vehículos que circulen en territorio nacional, mediante la identificación y control vehicular, además de brindar servicios de información públicos;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
 
-XXXI. Secretaría: secretaría de Seguridad Pública del Estado;
+XXX. Placas de demostración, son aquellas que de forma momentánea sirven para mostrar en su funcionamiento el vehículo en la vía pública;
 
-XXXII. Tarjeta de circulación: documento oficial expedido por la autoridad competente que identifica al vehículo por sus características e individualiza al propietario;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
 
-XXXIII. Vehículo: son aquellos automotores, remolques y semirremolques terrestres, sobre el cual toda persona u objeto puede ser transportado por una vía, excepto los ferrocarriles, los militares y aquellos que por su naturaleza sólo pueden ser destinados a usos agrícolas e industriales;
+XXXI. Registro público vehicular: es un registro de información a nivel nacional que tiene como propósito otorgar seguridad pública y jurídica a los actos que se realicen con vehículos que circulen en territorio nacional, mediante la identificación y control vehicular, además de brindar servicios de información públicos;
 
-XXXIV. Vehículos chatarra: los que se encuentren en depósitos vehiculares por un periodo mayor a un año y que, por sus condiciones físicas y mecánicas, se consideran inservibles o inadecuados para reincorporarse a la circulación;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
 
-XXXV. Vehículos de emergencia: patrullas, ambulancias, vehículos de bomberos y cualquier otro vehículo que haya sido autorizado por la autoridad estatal para portar o usar sirena y torretas de luces rojas, blancas, azules y ámbar;
+XXXII. Secretaría: Secretaría de Seguridad Pública del Estado;
 
-XXXVI. Vehículos equiparables a chatarra: todo vehículo que circunstancialmente se encuentren en la vía pública en desuso y que, por sus condiciones físicas o mecánicas, o de desvalijamiento, se presume que se encuentre en estado de abandono;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
 
-XXXVII. Vehículos especiales: grúas, vehículos de apoyo, de auxilio, y cualquier otro vehículo que haya sido autorizado por la Secretaría para usar sirena, torretas de luces, blancas, azules y ámbar, y
+XXXIII. Tarjeta de circulación: documento oficial expedido por la autoridad competente que identifica al vehículo por sus características e individualiza al propietario;
 
-XXXVIII. Vías públicas: avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso, ciclo pistas y banquetas; así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, acotamientos, derechos de vía, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXXIV. Vehículo: son aquellos automotores, remolques y semirremolques terrestres, sobre el cual toda persona u objeto puede ser transportado por una vía, excepto los ferrocarriles, los militares y aquellos que por su naturaleza sólo pueden ser destinados a usos agrícolas e industriales;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXXV. Vehículos chatarra: los que se encuentren en depósitos vehiculares por un periodo mayor a un año y que, por sus condiciones físicas y mecánicas, se consideran inservibles o inadecuados para reincorporarse a la circulación;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXXVI. Vehículos de emergencia: patrullas, ambulancias, vehículos de bomberos y cualquier otro vehículo que haya sido autorizado por la autoridad estatal para portar o usar sirena y torretas de luces rojas, blancas, azules y ámbar;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXXVII. Vehículos equiparables a chatarra: todo vehículo que circunstancialmente se encuentren en la vía pública en desuso y que, por sus condiciones físicas o mecánicas, o de desvalijamiento, se presume que se encuentre en estado de abandono;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXXVIII. Vehículos especiales: grúas, vehículos de apoyo, de auxilio, y cualquier otro vehículo que haya sido autorizado por la Secretaría para usar sirena, torretas de luces, blancas, azules y ámbar, y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXXIX. Vías públicas: avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso, ciclo pistas y banquetas; así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, acotamientos, derechos de vía, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes.
 
 ###### ARTICULO 7°.
 
@@ -458,6 +480,10 @@ Esta circunstancia se incluirá en el Registro Público Vehicular, y en el Padr�
 ###### ARTICULO 27.
 
 Las placas de circulación para demostración se proporcionarán exclusivamente a las personas físicas o morales que acrediten sus actividades u objeto social, en los ramos de fabricación o de compraventa de vehículos sujetos a registro.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Las placas de demostración sólo servirán para la demostración del vehículo, amparando la salida de la agencia, lote, o cualquier otro lugar de venta, y su regreso al mismo; y por ningún motivo suplirán a las oficiales.
 
 La Secretaría podrá expedir por única ocasión permisos para circular sin placas oficiales, los cuales tendrán una duración máxima de treinta días naturales; esto será requisito indispensable para su expedición, que el vehículo se encuentre inscrito en el Padrón Vehicular del Estado.
 
@@ -883,7 +909,9 @@ VI. Tomar las precauciones necesarias al abordar o bajar del vehículo para evit
 
 VII. Respetar los límites de velocidad que marcan los señalamientos viales, y las zonas de estacionamiento destinadas para las personas con discapacidad;
 
-VIII. Evitar dar marcha a su vehículo hasta que aquellos la hayan cruzado, cuando les corresponde el paso a los peatones, ciclistas, escolares, personas adultas mayores y discapacitados, y éstos no alcancen a cruzar la calle;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
+VIII. Evitar dar marcha a su vehículo hasta que aquellos la hayan cruzado, cuando le corresponde el paso a los peatones, ciclistas, escolares, personas adultas mayores y personas con discapacidad y éstos no alcancen a cruzar la calle;
 
 IX. Conservar la distancia de seguridad entre vehículo y vehículo, la cual es directamente proporcional a la velocidad de desplazamiento, tomando en cuenta las condiciones del camino y del vehículo, y
 
@@ -1039,7 +1067,9 @@ Para la aplicación de la sanción se levantará una boleta de infracción y san
 
 I. Nombre y cargo de quien levanta la boleta;
 
-II. La circunstanciación de los datos de la credencial a que se refiere el artículo 33 de la Ley de Seguridad Pública del Estado de San Luis Potosí, con que se identifica, relativas a nombre, cargo y vigencia de la credencial. Adicionalmente, se anotará el número de credencial y la autoridad que la expidió, conforme a las disposiciones que resulten aplicables;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
+II. La circunstanciación de los datos de la credencial a que se refiere el artículo 34 de la Ley del Sistema de Seguridad Pública del Estado, con que se identifica, relativas a nombre, cargo y vigencia de la credencial. Adicionalmente, se anotará el número de credencial y la autoridad que la expidió, conforme a las disposiciones que resulten aplicables;
 
 III. Nombre y, en su caso, domicilio del infractor;
 
@@ -1115,9 +1145,11 @@ En su caso, las autoridades recaudadoras correspondientes, están obligadas a pr
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 99.
 
-Cuando la autoridad demandada en un juicio contencioso administrativo sea un elemento de seguridad pública del Estado, un agente de tránsito municipal, o bien un elemento operativo competente en los términos de los reglamentos municipales, y el acto impugnado sea una boleta de infracción o documento con que se justifique la personalidad a que se refieren los artículos 35 y 64 fracción I de la Ley de Justicia Administrativa del Estado de San Luis Potosí, será la credencial que se expida en los términos del artículo 33 de la Ley de Seguridad Pública del Estado de San Luis Potosí, de la que deberán acompañar copia certificada por el titular de la corporación, o persona competente para certificar documentos.
+Cuando la autoridad demandada en un juicio contencioso administrativo sea un elemento de seguridad pública del Estado, un agente de tránsito municipal, o bien un elemento operativo competente en los términos de los reglamentos municipales, y el acto impugnado sea una boleta de infracción o documento con que se justifique la personalidad a que se refieren los artículos 35 y 64 fracción I de la Ley de Justicia Administrativa del Estado de San Luis Potosí, será la credencial que se expida en los términos del artículo 34 de la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí, de la que deberán acompañar copia certificada por el titular de la corporación, o persona competente para certificar documentos.
 
 ## TITULO DECIMO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -1338,3 +1370,9 @@ P.O. 11 DE JULIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
