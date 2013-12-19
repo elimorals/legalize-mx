@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2013-09-23"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE SEPTIEMBRE DE 2013.
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2013, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 2 DE SEPTIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -177,93 +175,41 @@ El Fideicomiso presentará al Instituto Superior de Auditoría y Fiscalización,
 
 Los pagos por concepto del Impuesto por la Prestación de Servicios de Hospedaje no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la Contribución a la Infraestructura Educativa, establecidos en la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
 #### Sección Segunda. Impuesto sobre la Extracción de Materiales Pétreos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
 ###### Artículo 14.
 
-Es objeto de este impuesto la extracción de materiales pétreos en el territorio del Estado de Sonora, incluyendo los productos derivados de su descomposición, que constituyan depósitos de igual naturaleza a los componentes de los terrenos cuando la extracción se realice mediante trabajos a cielo abierto.
-
-Para efectos de la presente ley se consideran materiales pétreos o productos derivados de su descomposición los mármoles, canteras, arenas, granito; gravas, pizarras, arcillas que no requieran trabajos subterráneos, calizas, puzolonas, turbas, arenas silicias, ónix, travertinos, tezontle, tepetate, piedras dimensionadas o de cualquier otra cuyo dominio no se encuentre reservado expresamente a la Federación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 15.
 
-Son sujetos del pago de este ímpuesto las personas físicas, morales o unidades económicas que dentro del territorio del Estado de Sonora extraigan del suelo, mediante trabajos a cielo abierto, los materiales a que se refiere el artículo anterior.
-
-Son responsables solidarios en el pago de este impuesto, los propietarios, arrendadores o poseedores de los predios en donde se realice la extracción de los materiales a que se refiere el artículo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 16.
 
-La base para el cálculo de este impuesto será el volumen de metros cúbicos de los materiales extraídos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 17.
 
-La tasa para la determinación del impuesto establecido en esta sección será de $10.00 por cada metro cúbico de material extraído.
-
-El Impuesto Sobre la Extracción de Materiales Pétreos a que se refiere esta Sección que resulte a cargo de los sujetos obligados, no excederá de la cantidad de $3'000,000.00 en cada ejercicio fiscal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 18.
 
-Los contribuyentes sujetos de este impuesto, efectuarán sus pagos, a más tardar el día 20 del mes siguiente al que ocurran las actividades a que se refiere el artículo 14 de esta Ley, mediante declaración que presentarán en las formas autorizadas por la Secretaria de Hacienda o a través de los medios electrónicos dispuestos por ésta.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 19.
 
-Son obligaciones de los contribuyentes de este impuesto, además de las establecidas en el Código Fiscal del Estado, las siguientes:
-
-I.- Las personas físicas, morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades a que se refiere esta Sección, deberán registrar como domicilio fiscal estatal, el lugar en donde se realicen los actos objeto de este impuesto.
-
-II.- Pagar el impuesto correspondiente en la forma y los términos previstos en esta Sección.
-
-III.- Inscribirse en el Registro Estatal de Contribuyentes en la oficina recaudadora que corresponda al lugar de la ubicación de los terrenos explotados y presentar la autorización de impacto ambiental expedida por la autoridad estatal competente previamente a comenzar con la extracción de los materiales.
-
-IV.- Llevar un libro de registros de extracción del material objeto de este impuesto, en el que se hará constar diariamente la cantidad en metros cúbicos que se extraigan del suelo.
-
-V.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
-
-En caso de que los avisos, datos, documentos e informes requeridos por las autoridades no se presenten dentro de los plazos, forma y en los lugares señalados para tales efecto (sic), o bien, no se lleve un libro de registros de extracción del material objeto de este impuesto por parte de los contribuyentes, se tomará como base para el cálculo del impuesto la totalidad del material susceptible de extracción señalado en los permisos o dictámenes emitidos por la autoridad para tales efectos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 20.
 
-La realización de pagos por concepto del Impuesto Sobre la Extracción de Materiales Pétreos, no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora y las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa, establecidos en la presente Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 21.
 
-Son responsables solidarios en el pago del Impuesto a que se refiere la presente Sección, los propietarios, arrendadores o poseedores de los predios en donde se realice la extracción o remoción de suelo y subsuelo de materiales no mineralizados.
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 #### Sección Tercera. Base, Tasas, Exenciones y Reducciones
 
@@ -1265,161 +1211,73 @@ e).- Fecha en la que el propietario pagó el impuesto de producción y el númer
 
 f).- La cantidad en kilogramos de las ventas que realice delos (sic) productos naturales o elaborados, señalando expresamente los que se destinen al interior del Estado y los que se envíen fuera.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
 #### Sección Segunda. Del Impuesto a la Producción, Sacrificio y Tenencia de Ganado
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
-
 ###### Artículo 160.
 
-Es objeto del Impuesto, la producción, sacrificio y tenencia de ganado, en los términos de esta Ley.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 161.
 
-Son sujetos del Impuesto, las personas físicas, morales y unidades económicas que se dediquen a la producción de ganado, así como los que lo introduzcan a los rastros para su sacrificio o posean gravado por este Impuesto.
-
-Son responsables solidarios en el pago del Impuesto, los adquirentes del ganado y los que realicen el sacrificio del mismo.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 162.
 
-La base del Impuesto será el valor de mercado del semoviente:
-
-A).- En la fecha del sacrificio.
-
-B).- En el momento de movilización fuera de su lugar de producción.
-
-C).- Al momento de salir de la entidad, por cualquier causa.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 163.
 
-La tasa del Impuesto son las que determina la siguiente:
-
-TARIFA:
-
-FIJA
-
-AD-Valorem
-
-%
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
-
-I.- Por la producción o sacrificio de ganado por cabeza.
-
-a).- Novillos, toros y bueyes 2.5
-
-b).- Vacas 2.5
-
-c).- Vaquillas 2.5
-
-d).- Terneras menores de dos años 2.5
-
-e).- Toretes, becerros y novillos menores
-
-de dos años 2.5
-
-f). Sementales 5.0
-
-g).- Ganado mular 2.0
-
-h).- Ganado caballar 2.0
-
-i).- Ganado asnal 2.0
-
-j).- Ganado ovino 2.0
-
-k).- Ganado porcino 1.4
-
-l).- Ganado caprino 2.0
-
-II.- Por tenencia de Ganado Asnal y Equino se pagará anualmente, por semoviente, $100.00.
-
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 164.
 
-Los Municipios participarán en el rendimiento de este impuesto, con el 10% cuyo importe se distribuirá conforme al último censo ganadero del Estado.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 165.
 
-En tratándose de producción de ganado, el impuesto se cubrirá dentro de los tres días siguientes a la salida de su lugar de origen, salvo en los casos de movilización de ganado dentro de la Entidad, efectuada o realizada entre productores que se encuentren registrados en el Departamento de Ganadería del Estado y tenga marcas de herrar y sangre registradas, así como cuando se compruebe que dicha movilización obedece exclusivamente a razones de pastoreo dentro del mismo Estado.
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 166.
 
-En tratándose del ganado que se introduzca a los rastros para su sacrificio, el impuesto deberá cubrirse previamente; por lo que los encargados de esos establecimientos exigirán, antes de permitir la matanza, que se les acredite el pago del mismo con el recibo oficial correspondiente.
-
-Cuando el sacrificio del ganado se haga fuera de los rastros, se demostrará que ya se satisfizo el pago del impuesto al recabarse el permiso que exige la Ley de Ganadería del Estado de Sonora.
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 167.
 
-En tratándose de la tenencia de ganado asnal y equino, se pagará la cuota en el mes de Enero de cada año.
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 168.
 
-El pago del Impuesto deberá efectuarse en la Oficina Receptora de la Tesorería General del Estado, correspondiente al domicilio del contribuyente o del responsable solidario.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 169.
 
-Se equipara a la producción y por tanto sujeta al pago de impuesto respectivo, la permanencia en el Estado por un plazo mayor de treinta días, de ganado procedente de otros lugares.
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 170.
 
-No causan este impuesto:
-
-I.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
-
-II.- El sacrificio que se haga en los ranchos para consumo de sus propietarios y trabajadores, siempre que respecto de estos últimos el suministro de carne no forme parte de su salario, y
-
-III.- La tenencia de ganado asnal y equino:
-
-a).- Sean propiedad de ejidatarios;
-
-b).- Sean hatos de equinos de buena calidad y los sementales finos registrados y destinados a la reproducción de esta especie y de mulares; y
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
-
-c).- Sean sacrificados en los rastros o fuera de ellos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JULIO DE 1980)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 171.
 
-La Tesorería General del Estado entregará a la Unión Ganadera Regional de Sonora, por cabeza de ganado vacuno que se sacrifique o movilice fuera de la Entidad, la cantidad equivalente al 5 al millar sobre los precios que fije el Ejecutivo del Estado, a través de la propia Tesorería, para los efectos de la aplicación de la tasa correspondiente y determinación del Impuesto sobre Producción, Sacrificio y Tenencia de Ganado, que como cuota social se han impuesto sus miembros para el cumplimiento de los fines que persigue su organismo.
-
-> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
-
-No se entregará el producto de la cuota anterior cuando la Unión Ganadera Regional deje de funcionar conforme a las leyes de la materia, o cuando se compruebe que su producto no se emplea en los fines que las propias leyes indican.
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 172.
 
-Al pagarse el Impuesto, la oficina recaudadora extenderá un recibo en el que se hará constar el número de cabezas de ganado y el de la guía de tránsito que ampare la movilización del mismo. Cuando el causante ya no necesite el recibo para amparar el ganado, la oficina o autoridad que lo recibe para cerciorase del pago del impuesto, le pondrá bajo su firma y con el sello oficial la leyenda de: "CANCELADO", con la cual dejará de tener valor.
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 173.
 
-Los Presidentes Municipales, Comisarios de Policía, Inspectores de Ganado, Encargados de los Rastros y, en general todos los funcionarios o empleados del Estado o Municipios, cuando en el desempeño de sus funciones propias tengan alguna intervención en las operaciones relativas a ganado, deberán exigir la comprobación del pago del impuesto o de su exención. Así mismo, darán aviso oportuno a las oficinas receptoras cuando llegue a su conocimiento la existencia de alguna infracción y colaborarán con estas en la forma y términos que expresamente les indiquen. Por ningún motivo dichas autoridades están facultadas para secuestrar ganado o recoger vehículos en que se les conduce y aún detener a los transgresores e imponerles multas.
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 174.
 
-Las Oficinas Recaudadoras, al recibir aviso o tener conocimiento directo de que se han sacrificado reses, movilizando semovientes o celebrado alguno de los actos o contratos gravados sin que se haya cubierto el impuesto, iniciarán inmediatamente el procedimiento económico coactivo, decretando sin demora el embargo precautorio de los semovientes o de otros bienes del causante, que sean suficientes para garantizar el duplo del impuesto omitido, depositándolos con la persona y en el lugar que estimen convenientes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 ###### Artículo 175.
 
-Los inspectores de ganado y demás empleados del Estado, tendrán una participación de 25% sobre los ingresos que se obtengan por las multas impuestas a los causantes de este impuesto, en los casos en que su percepción se deba a aviso o consignación de ellos a las oficinas recaudadoras.
-
-La Tesorería les cubrirá la cantidad correspondiente mediante la presentación de un recibo que debe contener el visto bueno de la Oficina que obtuvo el ingreso.
+(DEROGADO B.O. 19 DE DICIEMBRE DEL 2013)
 
 #### Sección Tercera. Del Impuesto a la Avicultura
 
@@ -1589,9 +1447,9 @@ En tratándose de la Fracción II inciso a) del artículo anterior, la exención
 
 La base del impuesto será la siguiente, salvo los supuestos a que se refiere el Artículo 188-Bis de esta Ley:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-I.- Para los bienes muebles distintos a los señalados en la fracción II de este artículo: el valor más alto entre el que tengan en el mercado y el de la factura o del acto o contrato del que derive la traslación de dominio; y
+I. Para los bienes muebles distintos a los señalados en las fracciones II y III de este artículo, el valor más alto entre el que tengan en el mercado y el de la factura o del acto o contrato del que derive la traslación de dominio; y
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1606,6 +1464,38 @@ a).- El 80% del valor total del vehículo de la primera facturación, para vehí
 b).- Tratándose de vehículos que su modelo sea hasta 10 años anteriores a la fecha en que se cause el impuesto, el valor de compra que se determine en base a la guía EBC que es la guía oficial de información para comerciantes en automóviles y aseguradoras en nuestro país sobre precios de vehículos usados del mes de noviembre del año anterior al de aplicación de la Ley.
 
 c).- El avalúo pericial presentado por el contribuyente cuando se trate de vehículos no clasificados en las Guías o Publicaciones a que se refiere el inciso anterior, accidentados o en condiciones de avanzado deterioro. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente y rechazarlo en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+d).- Tratándose de vehículos tipo motocicletas de fabricación nacional o importados que su modelo sea hasta 10 años anteriores a la fecha en que se cause el impuesto, el valor total del vehículo contenido en la factura de origen o en el caso de los importados, el valor equiparado con uno similar que sea facturado en México, se multiplicara por el factor de depreciación de conformidad con la siguiente:
+
+TABLA
+
+Años de Antigüedad Factor de depreciación
+
+1 0.7273
+
+2 0.6545
+
+3 0.5818
+
+4 0.5091
+
+5 0.4364
+
+6 0.3636
+
+7 0.2909
+
+8 0.2182
+
+9 0.1455
+
+10 0.0727
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+III.- Tratándose de vehículos de arrastre denominados remolques y semirremolques, de fabricación nacional o importados que su modelo sea hasta 10 años anteriores a la fecha en que se cause el impuesto, el valor total del vehículo contenido en la factura de origen o en el caso de los importados, en el pedimento de importación, se multiplicara por el factor de depreciación que corresponda de la tabla del inciso anterior.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -1641,6 +1531,10 @@ microbuses:
 
 Motocicletas: $250.00 $150.00 $120.00
 
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Remolques: $350.00 $200.00 $175.00
+
 ###### Artículo 189.
 
 La tasa del impuesto, será:
@@ -1649,9 +1543,9 @@ La tasa del impuesto, será:
 
 I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles al realizarse la operación $1,000.00, salvo que se trate de vehículos de propulsión mecánica;
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-II.- Sobre la base determinada conforme a las fracciones I y II del artículo 188 del presente ordenamiento, el 2%.
+II.- Sobre la base determinada conforme a las fracciones I, II y III del artículo 188 del presente ordenamiento, el 2%.
 
 III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
@@ -1877,233 +1771,41 @@ Tampoco podrán los encargados del Registro Público cancelar las inscripciones 
 
 Los Notarios, Jueces y Encargados del Registro Público de la Propiedad que no dén cumplimiento a las obligaciones que se les imponen y que traigan consigo la omisión total o parcial de créditos fiscales a cargo de los sujetos del impuesto, son solidariamente responsables en el pago de los mismos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 #### Sección Tercera. Contribución al Fortalecimiento Municipal
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
-
 ###### Artículo 212-A.
 
-Es objeto de este impuesto la tenencia o uso de vehículos que se efectúe en el territorio del Estado de Sonora.
-
-Para los efectos de este impuesto se entiende por vehículos a los automóviles, pick-up, motocicletas, aeronaves, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, omnibuses, minibuses, microbuses, midibuses, autobuses integrales, camiones, tractores no agrícolas tipo quinta rueda, trimotos, y cuatrimotos.
-
-Se considera que el uso o tenencia del vehículo se efectúa dentro de la circunscripción territorial del Estado, cuando se de cualquiera de los siguientes supuestos:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-I.- La inscripción del vehículo se realice en el Registro Vehicular del Estado de Sonora.
-
-II.- Las personas físicas o las morales, tenedoras o usuaria de los vehículos se encuentren domiciliadas en el territorio del Estado.
-
-III.- Se expida el permiso provisional para circulación en traslado del vehículo.
-
-IV.- Se hayan tramitado placas de transporte público federal ante las autoridades federales competentes radicadas en el Estado, tratándose de vehículos destinados a dichos servicios.
-
-V.- Se hayan tramitado los certificados de aeronavegabilidad ante las autoridades federales competentes con circunscripción territorial en el Estado.
-
-VI.- Se realice la inspección de seguridad marítima por las autoridades federales competentes con circunscripción territorial en el Estado.
-
-VII.- Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados, los asignen a su propio servicio o al de sus funcionarios o empleados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+(DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 212-B.
 
-Están obligadas al pago de este impuesto las personas físicas y morales tenedoras o usuarias de los vehículos a que se refiere esta Sección.
-
-Para los efectos de esta Sección, se presume que el propietario es tenedor o usuario del vehículo.
-
-La Federación, el Estado y sus Municipios, así como sus organismos y entidades o cualquier otra persona, deberán pagar el Impuesto Especial para el Fortalecimiento de la Infraestructura Municipal, que establece esta Sección, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos locales o estén exentos de ellos.
-
-Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el artículo 212-G 11 de esta Sección.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-En tratándose de vehículos nuevos de año modelo posterior al de aplicación de esta Sección, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere esta Sección, se pagará como si éste fuese nuevo, tomándose como referencia la fecha del primer pago realizado para efectos de aplicar el factor de depreciación correspondiente en términos de lo señalado en el artículo 212-G 7 de la presente Ley.
-
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
-
-Mes de adquisición Factor aplicable al impuesto causado
-
-Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+(DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 212-C.
 
-Son solidariamente responsables del pago del impuesto establecido en esta Sección:
-
-I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
-
-II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
-
-III.- Las autoridades competentes, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, canje, cambios o bajas, de placas, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
-
-IV.- Las autoridades competentes que expidan los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, cuando al expedirlos el tenedor o usuario del vehículo no compruebe el pago del impuesto establecido en esta Sección, a excepción de los casos en que se encuentre liberado de ese pago.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+(DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 212-D.
 
-Para efectos de esta Sección, se entiende por:
-
-I.- Vehículo nuevo:
-
-a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
-
-b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de esta Sección, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
-
-II.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
-
-En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivarlos de créditos otorgados para la adquisición del mismo.
-
-III.- Marca, las denominaciones y distintivos que los fabricantes de vehículos dan a estos para diferenciarlos de los demás.
-
-IV.- Año modelo, el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1o. de octubre del año anterior y el 30 de septiembre del año que transcurra.
-
-V.- Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
-
-VI.- Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
-
-VII.- Línea:
-
-a) Automóviles y pick-up, con motor de gasolina o gas hasta de 4 cilindros.
-
-b) Automóviles y pick-up, con motor de gasolina o gas de 6 u 8 cilindros.
-
-c) Automóviles y pick-up, con motor diesel.
-
-d) Automóviles y pick-up, eléctricos.
-
-e) Automóviles y pick-up, híbridos.
-
-f) Camiones con motor de gasolina, gas o diesel.
-
-g) Tractores no agrícolas tipo quinta rueda.
-
-h) Omnibuses.
-
-i) Autobuses integrales.
-
-j) Minibuses.
-
-k) Microbuses.
-
-l) Midibuses
-
-m) Motocicletas.
-
-n) Trimotos.
-
-ñ) Cuatrimotos.
-
-o) Motocicletas acuáticas.
-
-p) Aeronaves.
-
-q) Embarcaciones.
-
-r) Veleros.
-
-s) Tablas de oleaje con motor.
-
-t) Esquís acuáticos motorizados.
-
-VIII.- Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y enajenación de vehículos nuevos o usados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+(DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 212-E.
 
-Será base de este impuesto el valor total del vehículo consignado en la primera facturación.
+(DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Tratándose de vehículos usados importados hasta 9 años anteriores al ejercicio fiscal en curso, el valor total del vehículo que servirá de base para el cálculo del impuesto se obtendrá mediante la equiparación del año modelo del vehículo importado con uno similar que sea facturado en México como nuevo de fabricación nacional o importado, y conforme a esa base se calculará el impuesto respectivo de conformidad con lo establecido en el artículo 212-G 7 de la presente Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Para efectos de este artículo, se entiende como vehículo similar aquél que tenga mayor grado de semejanza a otro en cuanto al motor, cilindraje, peso, dimensiones y equipamiento del mismo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 Apartado 1
 
 Vehículos Nuevos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
-
 ###### Artículo 212-F.
 
-Tratándose de vehículos nuevos el impuesto se calculará como a continuación se indica:
+(DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-I.- En el caso de vehículos nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo la tasa del 3%.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-II. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2012)
-
-Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses, midibuses, omnibuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 Apartado 2
 
@@ -2139,13 +1841,9 @@ G 3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 
 G 4.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
 ###### Artículo 212
 
-G 5.- El factor de actualización aplicable al valor del vehículo que se utiliza para el cálculo de este impuesto será el correspondiente al periodo comprendido desde el último mes del año inmediato anterior a aquél en que se adquirió el vehículo de que se trate, hasta el último mes del año inmediato anterior a aquél por el que se debe efectuar el pago. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor publicado por el Instituto Nacional de Estadística y Geografía, correspondiente al último mes del año inmediato anterior a aquél en que se adquirió el vehículo de que se trate entre aquel correspondiente al último mes del año inmediato anterior a aquél por el que se debe efectuar el pago del impuesto, sin considerar los vehículos nuevos cuyo factor siempre será 1.
+G 5.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2155,77 +1853,13 @@ Apartado 3
 
 Vehículos Usados
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### Artículo 212
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+G 6.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 212
 
-G 6.- Tratándose de vehículos de más de diez años de fabricación anteriores al de aplicación de esta Sección, el impuesto se pagará conforme a la siguiente:
-
-TABLA
-
-TIPO DE VEHÍCULOS CUOTA
-
-AERONAVES
-
-Pistón (Hélice) $ 2,115. 74
-
-Turbohélice 11,710.12
-
-Reacción 16,918.38
-
-HELICÓPTEROS 2,600.99
-
-Las cantidades anteriormente descritas se encuentran actualizadas al 28 de diciembre de 2009.
-
-El monto de las cuotas establecidas en este artículo se actualizará con el factor a que se refiere el artículo 212-G 5 de esta Sección.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-###### Artículo 212
-
-G 7.- Tratándose de vehículos de fabricación nacional o importados, el impuesto será el que resulte de multiplicar el importe del impuesto causado de conformidad con el artículo 212-F, fracción I de la presente Ley, por el factor que corresponda conforme a los años de antigüedad del vehículo de acuerdo con la siguiente:
-
-Años de Antigüedad Factor de depreciación
-
-1 0.850
-
-2 0.725
-
-3 0.600
-
-4 0.500
-
-5 0.400
-
-6 0.300
-
-7 0.225
-
-8 0.150
-
-9 0.075
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
-
-El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 212-G 5.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-En los años posteriores al de la aplicación de este gravamen, el impuesto será el que resulte de multiplicar el importe de este impuesto causado en el ejercicio fiscal inmediato anterior, por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la tabla contenida en este artículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+G 7.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2245,117 +1879,35 @@ G 9.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 
 G 10.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADO, B.O. 23 DE SEPTIEMBRE DE 2013)</small>
+###### Artículo 212
+
+G 11.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 212
 
-G 11.- Los contribuyentes pagarán el impuesto por año de calendario antes del 31 de diciembre del año respectivo, ante las oficinas autorizadas por la Secretaría de Hacienda. El pago del impuesto a que se refiere esta Sección se comprobará de conformidad con las disposiciones del Código Fiscal del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+G 12.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 212
 
-G 12.- No se pagará el impuesto, en los términos de esta Sección, por la tenencia o uso de los siguientes vehículos:
-
-I.- Los eléctricos utilizados para el transporte público de personas.
-
-II.- Los importados temporalmente en los términos de la legislación aduanera.
-
-III.- Los vehículos de la Federación, el Estado y sus Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
-
-IV.- Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjera y de sus agentes diplomáticos y consulares de carrera, excluyendo los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
-
-V.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
-
-VI.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
-
-VII.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y
-
-VIII.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte, del público en general.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+G 13.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 212
 
-G 13.- Cuando el vehículo sufra, por alguna causa, destrucción total, en el ejercicio fiscal correspondiente y se acredite mediante peritaje de autoridades o de empresas aseguradoras, el impuesto se pagará en forma proporcional de acuerdo con el siguiente procedimiento:
-
-I.- El 100% del impuesto del ejercicio en el que se origina la pérdida, se multiplicará por el factor que a continuación se señala, y el resultado será el impuesto a pagar.
-
-TABLA
-
-Mes en que ocurre la pérdida %
-
-Enero 8.00
-
-Febrero 17.00
-
-Marzo 25.00
-
-Abril 33.00
-
-Mayo 42.00
-
-Junio 50.00
-
-Julio 58.00
-
-Agosto 67.00
-
-Septiembre 75.00
-
-Octubre a Diciembre 100.00
-
-II.- Los contribuyentes tendrán derecho a la devolución cuando hayan enterado la totalidad del impuesto en los casos a que se refiere el presente artículo, correspondiente al ejercicio en que se origina la pérdida, debiendo efectuar su solicitud dentro de los quince días hábiles siguientes al de la determinación del siniestro por parte de la autoridad o instancia correspondiente, la cual se realizará en forma proporcional al mes en que ocurra el siniestro conforme a la siguiente tabla:
-
-TABLA
-
-Mes de siniestro %
-
-Enero/Febrero .92
-
-Marzo .83
-
-Abril .75
-
-Mayo .67
-
-Junio .58
-
-Julio .50
-
-Agosto .42
-
-Septiembre .33
-
-Octubre a Diciembre .25
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+G 14.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 ###### Artículo 212
 
-G 14.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III del artículo 212-G 12 y 212-G 13 anteriores, para gozar del beneficio que los mismos establecen, deberán comprobar ante la Secretaría de Hacienda que se encuentran comprendidos en dichos supuestos.
+G 15.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### Artículo 212-G
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+16.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
-###### Artículo 212
+###### Artículo 212-G
 
-G 15.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, que tengan establecimiento en el Estado, tendrán la obligación de proporcionar a la Secretaría de Hacienda a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el territorio estatal en el mes inmediato anterior, a través de medios electrónicos procesados en los términos que señale dicha Secretaría. Los qué tengan más de un establecimiento, deberán proporcionar esta información, haciendo la separación por cada uno de los establecimientos.
+17.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
-Tratándose de automóviles de más de diez años modelos anteriores al de aplicación de esta Sección, el impuesto se pagará de conformidad con los ordenamientos fiscales municipales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 #### Sección Cuarta
 
@@ -2429,65 +1981,11 @@ Las máquinas a que se refieren las fracciones I y II, anteriores, son con indep
 
 III.- Maquinas electrónicas de bingo, juegos de números o de símbolos o video juegos electrónicos.
 
-Los pagos del Impuesto Sobre Loterías, Rifas o Sorteos efectuados en los términos de la Ley de Hacienda Municipal, se disminuirán de este Impuesto.
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Los pagos del Impuesto Sobre Loterías, Rifas o Sorteos efectuados en los términos de la Ley de Hacienda Municipal, se disminuirán de la base gravable de este Impuesto, dicha disminución se efectuará en la declaración de pago mensual siguiente a la declaración en que se haya efectuado el entero del impuesto municipal.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 212
-
-G 16.- La realización de pagos por concepto de esta Contribución no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora y las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa, establecidos en la presente Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-###### Artículo 212
-
-G 17.- Para asegurar la transparencia en la captación, distribución y ejercicio de los recursos que se obtengan del cobro de la Contribución al Fortalecimiento Municipal, el titular del Poder Ejecutivo Estatal creará un Fondo para que los ingresos derivados de este rubro se aíslen de la operación de los fondos regulares y se determinen las cuentas bancarias en las que se depositarán estos recursos, para mandatarlas y que remitan al Fondo los importes captados diariamente.
-
-Los recursos del Fondo serán afectados a favor de algún Ayuntamiento, conforme se lleven a cabo los procedimientos qué a continuación se señalan:
-
-I.- Los Ayuntamientos no podrán destinar estos recursos a gasto corriente, invariablemente se aplicarán a las obras que se autoricen al amparo de los procedimientos que se establezcan para operar los recursos de este Fondo y que se establecen en este artículo;
-
-II.- Las acciones que podrán llevarse a cabo con los recursos señalados en este artículo serán en los siguientes ámbitos:
-
-a) Infraestructura básica a realizar mediante convenios con instancias federales;
-
-b) Infraestructura básica realizada en forma directa por el Ayuntamiento; o
-
-c) Infraestructura básica que el Ayuntamiento acuerde con el Estado.
-
-III.- La materia a la que corresponde la infraestructura básica será: agua potable y alcantarillado, pavimentación, espacios públicos, alumbrado público, instalaciones deportivas, vivienda, electrificación, infraestructura educativa y de salud, puentes y pasos a desnivel e instalaciones de seguridad pública.
-
-IV.- El procedimiento que deberán llevar a cabo los Ayuntamientos para acceder a los recursos del Fondo será el siguiente:
-
-A) El Ayuntamiento deberá tener identificadas las obras a realizar con este recurso y, en consecuencia, dispondrá de los proyectos ejecutivos, permisos y demás trámites que se requieran para llevar a cabo las obras;
-
-B) Con esta información someterá a la aprobación del Ayuntamiento la autorización para ampliar el programa de inversión; el acta de sesión con el detalle de las inversiones deberá ser publicada en la página electrónica del Ayuntamiento o en las notificaciones que publica en el espacio del palacio municipal;
-
-C) Deberá turnarse a la Secretaría de Hacienda esta información junto con los expedientes técnicos simplificados para que se proceda a la emisión de las autorizaciones correspondientes;
-
-D) El Fondo administrará los recursos y, por lo tanto, sólo se afectará su patrimonio para llevar a cabo pagos efectivos por trabajos realizados, lo cual indica que solamente por compromisos derivados de obra ejecutada se realizarán pagos en forma directa por parte del Fondo. Los recursos no se remitirán a las tesorerías municipales para su custodia;
-
-E) Una vez entregada a la Secretaría de Hacienda la documentación necesaria para proceder a la autorización de los recursos con la afectación al Fondo, se formalizará la firma de un Convenio de Coordinación que será registrado ante el Fondo para la liberación de pagos que corresponda; y
-
-F) Una vez que se emita la autorización por parte del Fondo se estará en condiciones de proceder a la licitación de obras correspondiente, la cual deberá ser realizada por el ayuntamiento respectivo.
-
-La distribución de los recursos del Fondo se hará en dos etapas: la primera asignando la cantidad de un millón de pesos a cada uno de los setenta y dos municipios para fijarles un "piso" que les de certidumbre, especialmente a los medianos y pequeños; para los municipios con población menor a mil habitantes se les asignará un piso por un millón quinientos mil pesos; la segunda parte se asignará tomando como base el factor de distribución de la población por municipios y la referencia será la información oficial más reciente disponible y este factor se aplicará a la cantidad remanente, una vez que se descuenten los 76.5 millones señalados en la primera parte de esta distribución.
-
-El criterio de distribución establecido en el párrafo anterior será para el primer año de operación del Fondo pero en los subsecuentes ejercicios fiscales, se procederá a realizar un ajuste en la segunda parte del Fondo que llegará hasta el veinte por ciento de su valor, conforme a estas bases, en caso de que la recaudación propia del Ayuntamiento arroje una reducción por causas imputables al Ayuntamiento. Esta reducción la resolverá el Comité Técnico del Fondo, en función de la magnitud de la caída en los ingresos municipales que corresponda.
-
-Los montos que se acumulen en el Fondo derivados de lo dispuesto en el párrafo anterior, quedarán en calidad de reserva y será el Comité Técnico del Fondo el que le asigne un destino, pero hasta el ejercicio fiscal siguiente.
-
-Debido a que pueden existir obras de infraestructura que no puedan llevarse a cabo por el tamaño del esfuerzo pero que sí se suman los recursos de este Fondo por el período que le corresponde a un Ayuntamiento, si sería factible su realización, para estos casos, se podrán utilizar los recursos del Fondo como garantía y/o fuente de pago de obligaciones, siempre y cuando no se comprometan recursos por un período mayor al que le corresponda al Ayuntamiento y se cuente con la aprobación del Congreso del Estado.
-
-En las Reglas de Operación que autorice el Fondo, deberán contenerse los Lineamientos señalados en el presente artículo y los que incorpore el Comité y que contribuyan a la transparencia y el adecuado ejercicio de los recursos del Fondo.
-
-La supervisión de la aplicación de estos recursos corresponderá al Gobierno del Estado, por conducto de la Secretaría de Infraestructura y Desarrollo Urbano, para lo cual se asignará el cinco por ciento al Fondo. Este gasto indirecto se financiará con los rendimientos que genere la inversión de los recursos del Fondo, haciéndose un ajuste semestral para determinar si fueron suficientes los rendimientos o tendrán que afectarse parcial y proporcionalmente las asignaciones por municipio. Cabe mencionar que el desembolso de los indirectos a favor de la Secretaría de Infraestructura y Desarrollo Urbano será directamente proporcional al avance del programa de desembolsos a favor de los municipios.
-
-Los Ayuntamientos deberán hacer público, mediante los medios a los que estén legalmente obligados, toda la información relacionada con el ejercicio de los recursos del Fondo, desde el acuerdo de sesión que corresponda, hasta la licitación y avances de la obra. Por su parte, el Ejecutivo del Estado hará lo propio desde la página electrónica que se cree para la rendición de cuentas por parte del Fondo que se establezca para operar estos recursos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 212
 
@@ -2503,7 +2001,7 @@ M BIS 1.- Será base de este Impuesto:
 
 I.- En los de juegos con apuestas, el monto total de las apuestas, y en los sorteos y las actividades a que se refiere el artículo 212-M de la presente Ley, el monto total del valor de la emisión, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
-II.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+Il.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
 III.- En el caso de concursos, el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
@@ -2526,6 +2024,18 @@ M BIS 2.- Sobre la base gravable se aplicará la tasa del 6%.
 M BIS 3.- Este impuesto se causa en el momento que se entreguen a los participantes fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o en el momento de participación en el concurso.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 212
+
+M BIS 4.- No se pagará este impuesto cuando la prestación del servicio a que se refiere este impuesto se realice por organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia social o de beneficencia, debidamente autorizadas por las Leyes de la materia.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 212
+
+M BIS 5.- Los sujetos obligados al pago de los impuestos a que se refiere esta Sección, realizarán el pago a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago, debiendo presentarse la declaración tratándose del Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios, en la oficina recaudadora que corresponda al domicilio en donde hayan sido pagados o entregados los premios y tratándose del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos, en la oficina recaudadora que corresponda al domicilio en donde se hayan organizado o celebrado tales eventos. Dicho pago se entenderá definitivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 212-N.
 
@@ -2554,18 +2064,6 @@ IV.- Conservar a disposición de las autoridades fiscales y exhibir cuando se le
 ###### Artículo 212
 
 Ñ.- La realización de pagos por concepto del Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios y del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos, no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora y las Contribuciones Para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa, establecidos en la presente Ley.
-
-###### Artículo 212
-
-M BIS 4.- No se pagará este impuesto cuando la prestación del servicio a que se refiere este impuesto se realice por organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia social o de beneficencia, debidamente autorizadas por las Leyes de la materia.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 212
-
-M BIS 5.- Los sujetos obligados al pago de los impuestos a que se refiere esta Sección, realizarán el pago a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago, debiendo presentarse la declaración tratándose del Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios, en la oficina recaudadora que corresponda al domicilio en donde hayan sido pagados o entregados los premios y tratándose del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos, en la oficina recaudadora que corresponda al domicilio en donde se hayan organizado o celebrado tales eventos. Dicho pago se entenderá definitivo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ### Capítulo Sexto. De los Impuestos Sobre Productos del Trabajo
 
@@ -2619,21 +2117,19 @@ Tratándose de organismos descentralizados del Estado de Sonora y de los municip
 
 II.- Los pagos por cualquier concepto de indemnización de los establecidos en el artículo 50 de la Ley Federal del Trabajo;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-III.- Los pagos por concepto de jubilaciones o pensiones, siempre que no excedan de cinco veces el salario mínimo general elevado al mes, vigente en la zona en que resida el preceptor de dichos conceptos;
+III.- Los pagos derivados de la separación de la relación laboral por concepto de jubilaciones, pensiones o antigüedad siempre que no excedan de cinco veces el salario mínimo general elevado al mes, vigente en la zona en que resida el perceptor de dichos conceptos;
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 IV.- Contraprestaciones cubiertas por instituciones y asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como las que lleven a cabo gratuitamente, actividades sociales, deportivas o culturales, previa solicitud y autorización de la Secretaría de Hacienda;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará de la base de este impuesto, un monto equivalente a un salario mínimo general del área geográfica que corresponda al domicilio del Contribuyente elevado al mes por cada trabajador hasta un máximo de 5 trabajadores, al cual no se le podrá acumular estímulos o beneficios de otras Leyes afines. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio sé deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
 
-V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará de la base de este impuesto, un monto equivalente a un salario mínimo general del área geográfica "B" elevado al mes por cada trabajador hasta un máximo de 5 trabajadores, al cual no se le podrá acumular estímulos o beneficios de otras Leyes afines. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
-
-Se establece la obligación de informar de manera trimestral el número de trabajadores exentos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -2643,9 +2139,9 @@ VI.- Contraprestaciones pagadas a personas con discapacidad;
 
 VII.- Participación de los trabajadores en las utilidades;
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-VIII.- Aportación por concepto de seguro de retiro y de INFONAVIT;
+VIII.- Aportaciones al Sistema de Ahorro para el Retiro, al Instituto del Fondo Nacional para la Vivienda de los Trabajadores, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y las cuotas al Instituto Mexicano del Seguro Social a cargo del patrón.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -2661,11 +2157,23 @@ XI.- Primas de seguro de gastos médicos y de vida;
 
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre por una cantidad igual a la aportada por el trabajador y se retire una vez al año, y
+XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre por una cantidad igual a la aportada por el trabajador y se retire una vez al año, y (sic)
 
 > <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 XIII.- Pagos que resulten del crédito al salario conforme a la Ley del Impuesto Sobre la Renta.
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XIV.- Los premios por asistencia y puntualidad, siempre que el importe de cada uno no rebasen el 10% del salario base.
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XV.- El tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo;
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Para que los conceptos mencionados en este articulo, se les excluya del objeto del Impuesto a que se refiere este Capítulo, deberán estar debidamente identificados y registrados en la Contabilidad del Contribuyente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE OCTUBRE DE 2009)</small>
 
@@ -2723,21 +2231,33 @@ Los contribuyentes dedicados a actividades agrícolas, silvícolas o de pesca, p
 
 Cuando los contribuyentes realicen el pago del impuesto con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales, de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales o en forma espontánea y en una sola exhibición fuera de los plazos señalados, podrán efectuar el pago del impuesto mediante la presentación de declaraciones periódicas hasta de doce meses, y de anexo que contenga el monto de las remuneraciones pagadas por el contribuyente, el número de empleados, el impuesto causado, el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública, las Contribuciones para el Fortalecimiento de la Infraestructura Educativa y recargos, desglosados en forma mensual, así como las sanciones que correspondan.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-Los contribuyentes que en el año de calendario inmediato anterior hayan efectuado pagos mensuales, cuya suma anual no hubiera excedido de $600.00, podrán realizar el pago del impuesto mediante la presentación de una sola declaración anual, a más tardar a los 20 días del mes de febrero, por el importe total del período de 12 meses del año de que se trate. Para ejercer esta opción los contribuyentes deberán presentar previamente un aviso por escrito ante la Secretaría de Hacienda, manifestando que efectuarán su pago en forma anual y que presentarán una declaración complementaria en el mes de enero de cada año subsecuente, en caso de que las remuneraciones realizadas excedan de las declaradas.
+Los contribuyentes que en el año de calendario inmediato anterior hayan efectuado pagos mensuales, cuya suma anual no hubiera excedido de $600.00, podrán realizar el pago del impuesto mediante la presentación de una sola declaración anual, a más tardar a los 20 días del mes de marzo, por el importe total del período de 12 meses del año de que se trate. Para ejercer esta opción los contribuyentes deberán presentar previamente un aviso por escrito ante la Secretaría de Hacienda, manifestando que efectuarán su pago en forma anual y que presentarán una declaración complementaria en el mes de enero de cada año subsecuente, en caso de que las remuneraciones realizadas excedan de las declaradas.
 
 ###### Artículo 220.
 
 Son obligaciones a cargo de los sujetos que realizan los pagos gravados por este impuesto:
 
-> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos respectivos, dentro de los 30 días siguientes a aquél en que se realicen las erogaciones por remuneración al trabajo personal;
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda y proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos respectivos, dentro de los 30 días siguientes a aquél en que se realicen las erogaciones por remuneración al trabajo personal.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría de Hacienda del Estado de oficio podrá inscribir a los contribuyentes cuando tenga a su disposición información o documentos que acrediten que realiza pagos a que se refiere el artículo 213 de esta Ley.
 
 > <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
 II.- Presentar las declaraciones correspondientes para el pago del impuesto así como los demás avisos correspondientes al Registro Estatal de Contribuyentes;
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Para efectos del segundo párrafo de la fracción I de este Artículo y de requerir las declaraciones respectivas, en los términos del Código Fiscal del Estado, la Secretaría de Hacienda podrá calcular el Impuesto Omitido, multiplicando dos salarios mínimos de la zona geográfica que corresponda al contribuyente elevados al mes y los meses a notificar por el número de trabajadores registrados en el Instituto Mexicano del Seguro Social o por los que resulten de las evidencias documentales que recabe.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Así mismo, podrá dar avisos de baja por oficio a los contribuyentes inactivos cuando tenga a su disposición información o documentos que lo acrediten.
 
 > <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2806,6 +2326,10 @@ Las personas físicas o morales que contraten la prestación de servicios con em
 > <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
 Las autoridades fiscales podrán requerir a las personas físicas o morales la presentación de la información a que se refiere el párrafo anterior, a fin de que en un plazo máximo de diez días cumplan con lo solicitado.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Por el personal directivo o de base, no incluidos en dicho contrato de prestación de servicios de personal, deberá de pagarse el Impuesto de acuerdo a lo especificado en este Capítulo.
 
 #### Sección Segunda. Del Impuesto a la Prestación de Servicios bajo la Dirección y Dependencia de un Tercero
 
@@ -3545,6 +3069,10 @@ III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por exp
 
 2.- Toda la recaudación que por concepto de esta contribución se obtenga, será para mantener y crear infraestructura educativa.
 
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+De igual manera, esta Contribución se podrá afectar como garantía o en su caso como fuente de pago de los financiamientos obtenidos por el Gobierno del Estado de Sonora de manera específica para realizar obra pública consistente en mantener y crear infraestructura educativa.
+
 ### Capítulo Segundo. Servicios de Empadronamiento
 
 ### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
@@ -3823,7 +3351,9 @@ d).- Cantina. $330.399.00
 
 e).- Restaurante. $50,000.00
 
-f).- Restaurante con bar anexo. $80,000.00
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+f).- Restaurante con bar anexo o Cine VIP. $80,000.00
 
 g).- Tienda de autoservicio. $200,000.00
 
@@ -3863,13 +3393,7 @@ semidesnudos de hombres y/o mujeres, mayores
 
 de edad. $495,596.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
-
-q).- Establecimiento de prestación de servicios de
-
-juegos con apuestas. $552,781.00
+q).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3901,7 +3425,9 @@ e).- Cantina. $21,907.00
 
 f).- Restaurante. $5,000.00
 
-f (sic).- Restaurante con bar anexo. $8,000.00
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+f) (sic).- Restaurante con bar anexo o Cine VIP. $8,000.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4061,7 +3587,9 @@ d). Cantina. $22,407.00
 
 e). Restaurante. $ 5,899.00
 
-f). Restaurante con bar anexo. $ 9,138.00
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+f). Restaurante con bar anexo o Cine VIP. $ 9,138.00
 
 g). Tienda de autoservicio. $27,623.00
 
@@ -4201,9 +3729,7 @@ i) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
 ### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 308.
 
@@ -4395,6 +3921,8 @@ servidor público. $176.00
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 310.
@@ -4557,7 +4085,7 @@ XI.- Por la expedición de constancias del archivo administrativo de Servidores 
 
 ###### Artículo 312.
 
-Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos, aplicándose para su expedición, canje, revalidación o baja, los siguientes derechos conforme a sus especificaciones:
+Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos, aplicándose para su expedición, revalidación o baja, los siguientes derechos conforme a sus especificaciones:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4565,19 +4093,13 @@ Las placas tipo único para todos los vehículos, se clasifican en los siguiente
 
 1.- Transporte privado, que deberán ostentar los vehículos de propulsión mecánica para uso particular:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO EN SU MONTO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+a).- Por expedición, la cual se realizará al momento de tramitar el alta del vehículo en el padrón vehicular estatal, debiendo recibir las placas correspondientes. $785.00
 
-a).- Por expedición o canje $785.00
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-b).- Por la revalidación anual de placas, dentro del
-
-término establecido en la presente Ley se pagara: $570.00
+b).- Por revalidación anual de placas $579.00
 
 Por la revalidación extemporánea se pagará un adicional sobre el gravamen anual, el incremento por pago extemporáneo no causará impuestos adicionales, quedando de la siguiente manera:
 
@@ -4589,9 +4111,7 @@ Por la revalidación extemporánea se pagará un adicional sobre el gravamen anu
 
 4.- Más de nueve meses de su vencimiento, el 100% del gravamen anual.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 c).- Por baja. $ 100.00
 
@@ -4603,11 +4123,9 @@ Por los servicios a que se refieren los incisos a), b) y c) anteriores, tratánd
 
 2.- De servicio público local, que deberán ostentar los vehículos de propulsión mecánica que se utilicen para prestar servicios de transporte de personas o cosas dentro del Estado:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO EN SU MONTO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-a).- Por expedición o canje $785.00
+a).- Por expedición. $785.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4627,11 +4145,9 @@ Por la revalidación extemporánea se pagará un adicional sobre el gravamen anu
 
 4.- Más de nueve meses de su vencimiento, el 100% del gravamen anual.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO EN SU MONTO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-c) Por baja $150.00
+c) Por baja. $100.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4641,7 +4157,9 @@ c) Por baja $150.00
 
 vehículos o maquinaria, agrícolas. $100.00
 
-El pago de la tarjeta de circulación no genera cobro de accesorio alguno.
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+El pago de la tarjeta de circulación no causará contribuciones adicionales ni se le aplicará el factor de actualización.
 
 4.- PLACAS FRONTERIZAS: Ostentarán placas fronterizas los vehículos de propulsión mecánica, importados a las zonas o perímetros libres del Estado y causarán los derechos según la clase o uso a que se destine el vehículo, conforme a las especificaciones anteriores,
 
@@ -4707,13 +4225,13 @@ El pago de los derechos por la expedición de placas se efectuará dentro de los
 
 El pago de los derechos por revalidación anual de placas se efectuará durante los tres primeros meses del año de calendario que corresponda.
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-El pago de los derechos por canje de placas se efectuará por trienio, durante los tres primeros meses de calendario inmediatos posteriores al término de la vigencia de las placas.
+Las placas que se expidan para la circulación de vehículos tendrán el carácter de permanentes, por lo que sólo se efectuará una nueva expedición en caso de cambio de propietario, de uso o de destino del vehículo o por la pérdida, robo o daño de las placas, en este último caso, cuando el deterioro sea tal que dificulte la identificación de éstas.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-Las autoridades estatales o municipales competentes en el Estado, en la actualización del registro de vehículos por altas, cambios, bajas de placas o realicen el canje de placas por el término de su vigencia, deberán cerciorarse que no existan adeudos por concepto de derechos de placas o revalidaciones de las mismas, correspondientes a los últimos 5 años. En caso de que existan adeudos, dichas autoridades procederán a llevar a cabo su cobro, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+Las autoridades estatales o municipales competentes en el Estado, en la actualización del registro de vehículos por altas, revalidación, cambios o bajas de placas, deberán cerciorarse que no existan adeudos por concepto de contribuciones en materia vehicular, correspondientes a los últimos 5 años. En caso de que existan adeudos, dichas autoridades procederán a llevar a cabo su cobro, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4721,11 +4239,9 @@ Las autoridades estatales o municipales competentes en el Estado, en la actualiz
 
 Los remolques y semiremolques de transporte privado o de servicio público deberán estar provistos de una placa en su parte posterior, que causará los siguientes derechos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-l.- Por expedición o canje $386.00
+1.- Por expedición $386.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4737,9 +4253,9 @@ dentro del término establecido en la
 
 presente Ley se pagara: $236.00
 
-l
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-Por la revalidación extemporánea se pagará un adicional sobre el gravamen anual, el incremento por pago extemporáneo no causará impuestos adicionales, quedando de la siguiente manera:
+Por la revalidación extemporánea de placas se pagará un adicional sobre el gravamen respectivo, el incremento por pago extemporáneo no causará impuestos adicionales, quedando de la siguiente manera:
 
 a).- Hasta tres meses de su vencimiento, el 25% del gravamen anual.
 
@@ -4749,11 +4265,9 @@ c).- Más de seis meses y hasta nueve meses de su vencimiento, el 75% del gravam
 
 d).- Más de nueve meses de su vencimiento, el 100% del gravamen anual.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-3).- Por baja. $150.00
+3).- Por baja. $100.00
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -4789,17 +4303,29 @@ La expedición o renovación de licencias para conducir, así como los permisos 
 
 a).- De automovilista de acuerdo a su vigencia, como sigue:
 
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Por un año. $230.00
+
 Por dos años. $380.00
 
 Por tres años. $517.00
 
 Por cuatro años. $650.00
 
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Por cinco años. $1,000.00
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 b).- De chofer de acuerdo a su vigencia, como sigue:
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Por un año: $398.00
 
 Por dos años. $456.00
 
@@ -4835,21 +4361,21 @@ Por los servicios a que se refieren los incisos a), b), c) y d), anteriores, la 
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-2.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 1982) (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
+2.- Licencia de Chofer provisional por 6 meses para no residentes que por motivos de trabajo estén temporalmente en el Estado, circunstancia que debe ser acreditada documentalmente ante la autoridad para su expedición:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+$904.00
 
-3.- Permisos para manejar sin licencia
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-por cada diez días o fracción:
+3.- Permisos
 
-a).- De automovilista $53.00
+a).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
-b).- De chofer $53.00
+b).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
-c).- De motociclista $53.00
+c).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4861,25 +4387,27 @@ Por 1 año $1,000.00
 
 Por dos años $1,500.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-A las reposiciones o reexpediciones de licencias se les aplicara el 50% del importe de los derechos que cause la expedición de la licencia de que se trate, por dos años, cuando por causas imputables al usuario se deba de reponer la licencia ya impresa., siempre y cuando el servicio se solicite en el transcurso del ejercicio fiscal en que se tramitó.
+A las reposiciones o reexpediciones de licencias se les aplicara el 50% del importe de los derechos que cause la expedición de la licencia de que se trate, por un año, cuando por causas imputables al usuario se deba de reponer la licencia ya impresa, siempre y cuando el servicio se solicite dentro de la vigencia de la misma.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 Cuando la expedición o renovación de licencias de conducir sea solicitada con motivo de la aplicación de la Ley de Tránsito del Estado, por parte de la autoridad competente, se cobrará un importe adicional del 25% sobre el costo de expedición de la licencia de que se trate.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Las licencias descritas en el presente artículo deberán incluir una póliza de seguro de responsabilidad civil a favor del titular de la licencia, sin que dicha póliza impacte en el costo de la referida licencia. Condicionada dicha póliza al pago de un deducible hasta por la cantidad de 200 veces el salario mínimo diario vigente en la ciudad de Hermosillo por parte del titular de la licencia y el seguro que incluirá la licencia de conducir vigente será hasta una responsabilidad de $50,000.00 pesos, por lo que deberán presupuestarse los recursos necesarios para que la Secretaría de Hacienda licite la póliza que cubra lo previsto en este párrafo, debiendo contratarse una empresa que se encuentre debidamente registrada ante la Comisión Nacional de Seguros y Fianzas y dicha empresa deberá contar con garantías de servicio en siniestros debidamente estipuladas en las condiciones del seguro de referencia al deducible citado y hasta el monto de garantía de responsabilidad señalado, cantidades éstas que han sido especificadas con anterioridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 317.
 
-Los derechos por expedición o canje de placas de motocicletas y motonetas, revalidación anual, permisos provisionales para transitar sin placas, reposición de tarjetas de circulación y baja de placas, se cobrarán con sujeción a las siguientes cuotas:
+Los derechos por expedición de placas de motocicletas y motonetas, revalidación anual, permisos provisionales para transitar sin placas, reposición de tarjetas de circulación y baja de placas, se cobrarán con sujeción a las siguientes cuotas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-1.- Por expedición o canje $406.00
+1.- Por expedición $406.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4891,7 +4419,9 @@ dentro del término establecido en la
 
 presente Ley se pagara: $202.00
 
-Por la revalidación extemporánea se pagará un adicional sobre el gravamen anual de la siguiente manera:
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Por la revalidación extemporánea de placas se pagará un adicional sobre el gravamen respectivo, el incremento por pago extemporáneo no causará impuestos adicionales, quedando de la siguiente manera:
 
 a).- Hasta tres meses de su vencimiento, el 25% del gravamen anual.
 
@@ -4907,11 +4437,9 @@ motocicletas y motonetas sin placas
 
 hasta diez días. $ 70.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-4.- Por baja. $150.00
+4.- Por baja. $100.00
 
 5.- Reposición de tarjeta de circulación para
 
@@ -4950,6 +4478,22 @@ Los servicios relativos a información en materia vehicular y de otros registros
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 3.- Por confirmación de pagos y/o bajas relativas al padrón vehicular. $ 70.00
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+4.- Por ratificación y validación de firmas para trámites vehiculares. $100.00
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+5.- Por la certificación y validación de endosos improcedentes, tachaduras y enmendaduras en los documentos que presente el contribuyente para acreditar la propiedad del vehículo de que se trate, para efectuar a (sic) traslación de dominio a su nombre, la autoridad fiscal podrá autorizar el trámite, el cual tendrá un costo de la manera siguiente:
+
+Vehículos menores a 10 años de 11 21 años
+
+antigüedad a y más
+
+20 años
+
+$400.00 $200.00 $100.00
 
 ### Capitulo Décimo Cuarto. Otros Servicios
 
@@ -5003,7 +4547,7 @@ a).- Pasaje. $450.00
 
 b).- Carga. $450.00
 
-5.- Autorización de alta y baja de la unidad para la explotación del servicio público de transporte anto de jurisdicción estatal, como municipal, por unidad:
+5.- Autorización de alta y baja de la unidad para la explotación del servicio público de transporte tanto de jurisdicción estatal, como municipal, por unidad:
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5211,307 +4755,179 @@ Las personas físicas o morales titulares de concesiones o permisos para operar 
 
 Por los servicios registrales que presta el Instituto Catastral y Registral del Estado de Sonora, se causarán los siguientes derechos que deberán pagarse previamente a la prestación del servicio:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+I.- Por el análisis o calificación de todo documento público o privado susceptible de ser inscrito en el registro público, conforme a las normas que rijan al caso concreto, deberá pagarse de la siguiente forma:
 
-1.- Por la inscripción de documentos públicos o privados que deban registrarse conforme a las leyes aplicables al caso concreto, de la manera siguiente:
+a) En que se transmita la propiedad de un bien inmueble o de cualquier derecho real, se cobrará:
 
-(NOTA: EL 28 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE INCISO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+$2,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En los casos que la transmisión de la propiedad del bien inmueble o de cualquier derecho real, sea con fines de administración, se cobrará:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+$2,500.00
 
-a) En que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles o cualquier derecho real sobre los mismos, TOMANDO COMO BASE EL VALOR MÁS ALTO ENTRE EL AVALUÓ CATASTRAL, AVALUÓ COMERCIAL Y EL PRECIO PACTADO DE LA OPERACIÓN.
+Tratando de transmisión de propiedad destinada para vivienda cuyo valor, tomando como base el valor más alto entre el avalúo catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate se cobrará:
 
-(NOTA: EL 28 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE INCISO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+$650.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Por el que fraccione, lotifique, relotifique, subdivida, fusione, cualquier inmueble rústico o urbano, o se constituya el régimen de propiedad condominal se cobrará por cada acto:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+$2,500.00
 
-b) Por el contrato de arrendamiento, TOMANDO COMO BASE A LA CANTIDAD TOTAL PACTADA EN DINERO.
+c) El que contenga el crédito hipotecario constituido para la obtención de vivienda:
 
-(NOTA: EL 28 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE INCISO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+$2,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Tratando el crédito hipotecario constituido para la obtención, de vivienda, cuyo valor, tomando como base el valor más alto entre el avalúo catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate, por cada acto jurídico se cobrará:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+$650.00
 
-c) Por los contratos de bienes muebles, TOMANDO COMO BASE LA CANTIDAD TOTAL ESTABLECIDA EN EL AVALÚO.
+d) Por el que se grave, limite, modifique la propiedad de un bien inmueble o de cualquier derecho real derivado de un contrato de crédito habilitación, avío o refaccionario, por cada acto jurídico se cobrará:
 
-(NOTA: EL 28 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE INCISO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+$2,500.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+e) Por el que se grave, limite o modifique la propiedad de un bien inmueble o de cualquier derecho real emitido por autoridad competente, por cada acto jurídico se cobrará:
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+$1,800.00
 
-d) Por el reconocimiento de adeudo o aumento de capital, SOBRE CRÉDITO YA REGISTRADO, TOMANDO COMO BASE LA CANTIDAD EN DINERO QUE RESULTE DE RESTAR EL CRÉDITO YA REGISTRADO Y EL QUE RECONOCE ADEUDAR O AUMENTAR.
+Por lo que hace al patrimonio familiar:
 
-(NOTA: EL 28 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE INCISO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+$400.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+f) Por el que cancele inscripción referente a gravamen, limitante, que pese sobre un bien inmueble, testamento ológrafo o poder, por cada acto se cobrará:
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+$500.00
 
-e) Por la constitución de sociedades mercantiles o civiles que señalen capital social, TOMANDO COMO BASE EL PROPIO CAPITAL SOCIAL.
+Tratando de la cancelación para la obtención de vivienda cuyo valor, tomando como base el valor más alto entre el avalúo catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate, por cada acto jurídico se cobrará:
 
-(NOTA: EL 28 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE INCISO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+$250.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+g) En el que se formalice convenio modificatorio de un acto previamente registrado, por cada acto se cobrará:
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+$1,800.00
 
-f) Por actas de sociedades que contengan aumento de capital, TOMANDO COMO BASE EL CAPITAL AUMENTADO.
+h) En el que se constituya sociedad o asociación de carácter colectivo se cobrará:
 
-(NOTA: EL 28 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2013, DECLARÓ LA INVALIDEZ DE ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+$500.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+i) En el que se haga constar acta de asamblea, por cada modificación o poder otorgado, se cobrará:
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+$1,500.00
 
-POR CADA OPERACIÓN DE LAS AQUÍ ENUNCIADAS SE COBRARÁ CONFORME A LA TASA DEL 5 AL MILLAR
+j) Aquel que conforme a la normatividad aplicable al caso concreto deba ser registrado y el cual no se encuentre previsto en los incisos que anteceden, por cada acto se cobrará:
 
-Si el importe a pagar por los conceptos a que se refiere este punto es menor a la cantidad de $ 250.00 deberá aplicarse esta última, excepto cuando se trate de satisfacer necesidades de vivienda.
+$1,700.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+k) Para el caso de que el documento público o privado presentado para análisis o calificación contenga más de un inmueble o derecho real a transmitir, se cobrará adicional por cada uno de éstos:
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+$250.00
 
-Por la inscripción de títulos de propiedad que expidan los entes públicos facultados (federales, estatales y municipales) $423.00
+Tratándose de documento público o privado presentado para análisis o calificación que contengan más de un inmueble destinado para la edificación de vivienda se cobrará adicional por cada uno de éstos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+$75.00
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
-Se exceptúa del pago de este derecho por la inscripción de títulos de propiedad que expidan los entes públicos facultados, siempre y cuando sean emitidos con motivo de programas oficiales para satisfacer necesidades de vivienda.
+II.- Por el registro o anotación en los archivos documentales o electrónicos del Registro Público de la Propiedad y del Comercio en el Estado de todos los actos inscribibles conforme a las normas que rijan al caso concreto, deberá pagarse de la siguiente forma:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+De cualquier anotación en forma manual o electrónica, por cada anotación se cobrará:
 
-2.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
+$150.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+1.- De patentes, sellos y firmas, que conforme a la normatividad deban ser inscritos, por cada anotación se cobrará:
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+$4,000.00
 
-3.- En la adquisición de vivienda o
+2.- Del testamento ológrafo y capitulaciones matrimoniales se cobrará por cada anotación:
 
-de la hipoteca que se constituya, por
+$500.00
 
-cada operación. $ 1,040.00
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III.- Por la expedición y firma autógrafa o electrónica de sello o constancia de registro de cualquier documento registrado en los archivos físicos o electrónicos del Registro Público de la Propiedad y del Comercio en el Estado se cobrará:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+$150.00
 
-4.- Por la inscripción de actos jurídicos que conforme a las leyes aplicables al caso, fraccionen, lotifiquen, relotifiquen, subdividan, fusionen predios rústicos y urbanos; Así como, por los que se constituya el régimen de propiedad condominal, por cada operación se pagara: $1,000.00
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV.- Por la expedición de los siguientes documentos debidamente certificados deberá pagarse de la siguiente forma:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+a) Información de antecedentes registrales por persona, certificados de no propiedad, y de única propiedad, se cobrará:
 
-a) Adicionalmente, por la inscripción de cada lote,
+$150.00
 
-fracción o local contenidos en el acto jurídico
+b) Certificados de historia registral, de inscripción, y de no inscripción, se cobrará:
 
-establecido en el párrafo anterior, se cobrará: $100.00
+$1,500.00
 
-b).- Tratándose de lotes para la construcción de vivienda, por lote. $ 25.00
+c) Por rendir informe sobre disposición testamentaria, y existencia de capitulaciones matrimoniales se cobrará:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+$200.00
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+d) Por certificado de libertad y/o existencia de gravamen, se cobrará:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+$400.00
 
-5.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
+Para el caso de que la inscripción afecta a la certificación antes mencionada contenga varios lotes o fracciones, por cada uno se cobrará:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+$50.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+Tratándose de certificado de libertad y/o gravamen destinado para la edificación de vivienda se cobrará
 
-6.- Por la inscripción o depósito de testamento ológrafo, se cobrará: $500.00
+$200.00
 
-Se exceptúa del pago de derechos el registro de testamento público simplificado.
+Para el caso de que la inscripción afecta a la certificación antes mencionada contenga varios lotes o fracciones, destinados para la edificación de vivienda por cada uno se cobrará $25.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+e) Por cada hoja copia que forme parte de escritura pública que obre registrada, se cobrará: $15.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+Cuando las certificaciones a que se refiere este punto se solicite con motivo de programas oficiales para satisfacer necesidades de vivienda, se exceptuará del pago de estos derechos a los particulares beneficiados con tales programas, debiendo el interesado acreditar dicho beneficio mediante constancia expedida por la responsable del programa.
 
-7.- Por la inscripción de capitulaciones matrimoniales, que no contemplen inmuebles o valores estimables en moneda nacional o extranjera, así como por su modificación, disolución o liquidación, se cobrará: $600.00
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V.- Por los servicios registrales que a continuación se enuncian, deberá pagarse de la siguiente manera:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+1.- El que es presentado para someterse de nuevo para análisis o calificación, se cobrará por cada ingreso:
 
-8.- Por la inscripción de cédula hipotecaria emitida
+$300.00
 
-por autoridad competente, se cobrará: $2,000.00
+Se omitirá el pago de este derecho en caso de que el rechazo derive de una falta de técnica jurídica en el trabajo de análisis o calificación registral
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+2.- Por la devolución de documento público o privado, o solicitud de certificación, siempre y cuando el mismo no haya sido turnado para su tramitación se cobrará:
 
-9.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
+$150.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+3.- Por ratificación de firmas en instrumentos privados o públicos, por documento se cobrará:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+$500.00
 
-10.- Por documento público o privado, que conforme a la normatividad aplicable al caso, deba ser registrado y el cual no se encuentre previsto en este marco impositivo, se pagará: $800.00
+4.- Para el caso de no ser agregado al documento público o privado que contenga lotificación, subdivisión, fusión o fraccionamiento de inmueble, en los formatos oficiales publicados por el Instituto Catastral o Registral del Estado de Sonora, por servicio de captura, por el lote o fracción resultante se cobrará:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+$55.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+5.- Por la migración de antecedentes registrales de un inmueble a su folio real se cobrará por cada antecedente:
 
-11.- Por la inscripción de fideicomiso en administración, en donde el fideicomitente se reserve el derecho a readquirir los bienes del fiduciario, se cobrará: $2,000.00
+$300.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+6.- Por la verificación y de ser procedente conforme a la normatividad aplicable al caso concreto, la modificación de anotación registral, se cobrará:
 
-12.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
+$600.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+7.- Por la verificación física de documento inscrito en el archivo registral, y que sea consultable en forma digital se cobrará:
 
-13.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
+$150.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Para el caso, de que el documento no esté consultable en formato digital, su verificación física no causará derecho alguno.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+8.- Por servicio anual de consulta en línea, sobre documentación Digitalizada y que obra en la base de datos del Registro Público de la Propiedad se cobrará:
 
-14.- Por cualquier acto público o privado de carácter mercantil o civil que no contemple el aumento de capital social y que conforme a la normatividad aplicable al caso sea registrable, se cobrará por cada acto: $1,500.00
+$5,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud; derechos éstos que se destinarán el 70% como compensación del personal adscrito al Registro Público, y el 30% para modernización de los servicios registrales en el Estado.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
-15.- Por la cancelación de inscripción, gravamen, limitante o testamento ológrafo, recaído sobre bien mueble o inmueble, se cobrará por cada antecedente registral: $150.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-16.- Por sello de registro en segundo ejemplar se cobrará: $400.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-17.- Por ratificación de firmas en instrumentos privados o públicos, por documento se cobrará: $500.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-18.- Por la inscripción de patentes, sellos y firmas, que conforme a la normatividad aplicable al caso deban ser registradas, se cobrará: $4,000.00
-
-En el reglamento que al efecto expida el Poder Ejecutivo, se establecerán las normas que regulen el registro de peritos valuadores en el Estado de Sonora, y en todo caso, los requisitos para la obtención del registro, así como las obligaciones, infracciones y sanciones, que sean aplicables a los peritos valuadores.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-19.- Por la expedición de los siguientes documentos debidamente certificados:
-
-a).- Información de antecedentes registrales, se cobrará: $100.00
-
-b).- Certificados de no propiedad y de única propiedad se cobrará: $100.00
-
-c).- Certificados de historia registral, de inscripción,
-
-de no inscripción y no afectación agraria, se cobrará: $1,500.00
-
-d). Por rendir informe sobre disposición testamentaria, se cobrará: $150.00
-
-e).- Por certificado de libertad y/o gravamen, se cobrará: $200.00
-
-f) Por cada hoja en copia fotostática que forme parte
-
-de escritura pública que obre registrada, se cobrará: $10.00
-
-Cuando alguna de las certificaciones a que se refiere este punto se solicite con motivo de programas oficiales para satisfacer necesidades de vivienda, se exceptuará del pago de estos derechos a los particulares beneficiados con tales programas, debiendo el interesado acreditar dicho beneficio mediante constancia expedida por la responsable del programa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-20.- Por reingreso de documento, para que sea de nuevo sometido a calificación registral, se cobrará: $450.00
-
-Se omitirá este cobro para el caso de que el rechazo derive de una falta técnica jurídica en el trabajo registral.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-20.1.- Por la devolución de documento público o privado, o solicitud de certificación, siempre y cuando el instrumento no haya sido turnado para su calificación registral o emisión de certificación, se cobrará: $150.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-21.- Por servicio anual de consulta en línea, sobre documentación digitalizada y que obra en la base de datos del Registro Público de la Propiedad, se cobrará: $2,000.00
-
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-Independientemente de los derechos a que se refiere el párrafo anterior deberá pagarse, en su caso, el costo de envío que determine el usuario.
-
-22.- (DEROGADO, B.O. 29 DE DICIEMBRE DE 2006)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-23.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicite, los cuales se proporcionarán dentro de las 24 horas hábiles siguientes a su solicitud, de cuyos derechos se destinará el 70% como compensación al personal de la oficina y el restante 30% se aplicará para cubrir los gastos y erogaciones necesarios para la modernización de los servicios registrales. se exceptúan de este trámite los certificados de historia registral, no inscripción, inscripción así como los trámites de libros destruidos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-24. - Por la anotación de inmueble dado en garantía, en documento público o privado, que
-
-afecte varios inmuebles registrados en diferentes Oficinas Jurisdiccionales del Registro Público, se cobrará por cada anotación: $400.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-25.- Por la inscripción de rectificación de documentos públicos o privados, se cobrará:
-
-$700.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-26.- Para el caso de que el documento público o privado contenga más de un inmueble, lote o fracción se cobrará por cada uno de ellos: $50.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-27.- Para el caso de no ser agregado al documento público o privado que contenga, lotificación, subdivisión, fusión o fraccionamiento de inmueble, en los formatos oficiales publicados por el Instituto Catastral y Registral del Estado de Sonora, por servicio de captura, por cada uno se cobrará: $50.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-28.- Por la inscripción de documento público o privado, por el cual se trasmita el derecho del crédito previamente inscrito, se cobrará: $1,500.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-29.- Por la migración de antecedentes registrales de un inmueble a su folio real, se cobrará: $2,000.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-30.- Por la verificación y de ser procedente conforme a la normatividad aplicable al caso concreto, la modificación de anotación registral, se cobrará: $ 1,000.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-31.- Por la verificación física de documento inscrito en el archivo registral, se cobrará: $200.00
+VI.- Tratándose del testamento publico simplificado o de títulos de propiedad que expidan los entes públicos facultados, derivados de programas oficiales para satisfacer necesidades de vivienda, los derechos por los servicios registrales señalados en los puntos e incisos aquí enunciados se reducirán en un 75%.
 
 ###### Artículo 322.
 
@@ -6331,7 +5747,7 @@ conservación y manejo de alimentos, de
 
 acuerdo a las actividades que corresponden a
 
-as Normas Oficiales Mexicanas y Normas Técnicas. $400.00
+las Normas Oficiales Mexicanas y Normas Técnicas. $400.00
 
 10.- Autorización para técnico en embalsamamiento. N$160.00
 
@@ -7047,7 +6463,7 @@ Asimismo, se faculta al Ejecutivo para que, a través de la Tesorería General d
 
 ###### ARTICULO CUARTO.
 
-Los contribuyentes o responsables solidarios que deban registrarse con motivo de las nuevas obligaciones fiscales que les impone esta Ley en sus diversos capítulos, lo harán durante el mes de Enero de 1977.
+Los contribuyentes o responsables solidarios que deban registrarse con motivos de las nuevas obligaciones fiscales que les impone esta Ley en sus diversos capítulos, lo harán durante el mes de Enero de 1977.
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
@@ -7523,11 +6939,9 @@ I.- Los permisionarios que se ubiquen dentro del supuesto a que se refiere el ar
 
 Transcurrido el plazo a que se refiere la fracción II de este artículo, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del ejercicio de 2013, debiendo presentarse para tales efectos, los requisitos correspondientes.
+II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del presente ejercicio de 2014, debiendo presentarse para tales efectos, los requisitos correspondientes.
 
 Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
 
@@ -7561,8 +6975,26 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 23 DE SEPTIEMBRE DE 2013.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 47, QUE REFORMA EL ARTÍCULO 212-G 11 DE LA LEY DE HACIENDA DEL ESTADO”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 47, QUE REFORMA EL ARTÍCULO 212-G 11 DE LA LEY DE HACIENDA DEL ESTADO".]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 19 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en todo el Estado de Sonora, a partir del 1 de enero de 2014, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Estado de Sonora, en el ejercicio fiscal del año 2014, el pago de derechos por concepto de revalidación vehicular incluirá la reposición de placas sin costo, previa entrega de las anteriores. Lo anterior, a efecto de dar cumplimiento a las disposiciones que en materia de seguridad se establecen en la Norma Oficial Mexicana NOM-001-CT-2-2000.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
