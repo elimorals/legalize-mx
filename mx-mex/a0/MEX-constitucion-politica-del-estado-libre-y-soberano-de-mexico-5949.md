@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2013-08-07"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -425,7 +425,9 @@ Corresponde al Estado procurar el desarrollo integral de los pueblos y personas,
 
 Las autoridades ejecutarán programas para conservar, proteger y mejorar los recursos naturales del Estado y evitar su deterioro y extinción, así como para prevenir y combatir la contaminación ambiental.
 
-La legislación y las normas que al efecto se expidan harán énfasis en el fomento a una cultura de protección a la naturaleza, al mejoramiento del ambiente, al aprovechamiento racional de los recursos naturales y a la propagación de la flora y de la fauna existentes en el Estado.
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+La legislación y las normas que al efecto se expidan harán énfasis en el fomento a una cultura de protección a la naturaleza, al mejoramiento del ambiente, al aprovechamiento racional de los recursos naturales, a las medidas de adaptación y mitigación al cambio climático en el Estado y a la propagación de la flora y de la fauna existentes en el Estado. El daño y deterioro ambiental generarán responsabilidad en términos de ley.
 
 Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
 
@@ -3748,3 +3750,9 @@ DECRETO NÚMERO 121 POR EL SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 77 DE LA 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
