@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ganaderia-para-el-estado-de-sonora-46784"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-07"
-last_updated: "2005-11-07"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE GANADERIA PARA EL ESTADO DE SONORA
 
-LEY DE GANADERIA PARA EL ESTADO DE SONORA
+LEY DE GANADERÍA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 7 de noviembre de 2005
 
@@ -59,7 +59,9 @@ V.- La conservación, mejoramiento y explotación racional de los recursos natur
 
 VI.- El establecimiento de medidas de sanidad sin perjuicio de lo que prevengan las leyes federales;
 
-VII.- La regulación de la propiedad del ganado y su movilización, así como la de sus productos y subproductos;
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+VII.- La regulación de la propiedad del ganado y su movilización, así como regular la introducción al Estado, de los productos y subproductos pecuarios;
 
 VIII.- La promoción de la industrialización y comercialización de productos y subproductos pecuarios;
 
@@ -163,6 +165,10 @@ XLV.- Inmovilización de ganado: Resolución de la autoridad mediante la cual se
 
 XLVI.- Inspector de ganadería: Persona a quien se le ha extendido nombramiento por la Secretaría para ejercer las funciones previstas para dicho cargo por esta ley en la zona ganadera que se le asigna;
 
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XLVI Bis.- Inspector de Productos Pecuarios: Persona a la que se ha designado o bien que ha sido comisionada por la Secretaría para verificar en los puntos de entrada al Estado, así como en frigoríficos, almacenes o establecimientos comerciales, la legal internación de productos y subproductos pecuarios en la Entidad.
+
 XLVII.- Marca o reseña: La que se pone en la quijada del lado izquierdo del ganado;
 
 XLVIII.- Médico veterinario: Profesional con cédula expedida por la autoridad competente para ejercer como médico veterinario zootecnista;
@@ -184,6 +190,14 @@ LV.- Plancha llena: Artefacto de configuración y área cerrada utilizado o apli
 LVI.- Fierro corrido: Marca de herrar que se aplica con hierro candente para desfigurar una marca anterior;
 
 LVII.- Producción pecuaria: Bienes de consumo obtenidos directamente de la explotación de ganado y/o fauna de interés cinegético;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+LVII Bis.- Productos pecuarios: Es todo bien de consumo derivado del ganado bovino, porcino, ovino, caprino, avícola y apícola, como son carne, huevo, miel, leche y cualquier otro producto lácteo;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+LVII Bis 1.- Productos lácteos: Son productos derivados de la leche como los quesos, yogurt, cremas o producto lácteo combinado;
 
 LVIII.- Punto de verificación: Sitio aprobado por la Secretaría para constatar el cumplimiento de esta ley y las disposiciones y normas derivadas de la misma;
 
@@ -250,6 +264,14 @@ III.- La Unión de Asociaciones Avícolas del Estado de Sonora;
 IV.- La Unión de Asociaciones Ganaderas Locales de Apicultores del Estado de Sonora;
 
 V.- Las asociaciones ganaderas locales;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+V Bis.- Las asociaciones de productores de leche en el Estado;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+V Bis 1.- Las uniones o asociaciones de productores pecuarios; y
 
 VI.- Las asociaciones que la Secretaría autorice como organismos de cooperación cuando no puedan aglutinarse en alguna de las enlistadas en las fracciones anteriores y reúnan los siguientes requisitos:
 
@@ -325,9 +347,37 @@ XVII.- Intervenir en los procedimientos de remate de ganado mostrenco en los té
 
 XVIII.- Promover, en coordinación con la Procuraduría General de Justicia, programas que tengan por objeto prevenir y combatir el delito de abigeato, así como promover la constitución de comités en los que participen las autoridades estatales y municipales y los productores, a través de sus organismos de cooperación, con el fin de contribuir a ese propósito;
 
-XIX.- Comercializar el ganado, sus productos y subproductos que hayan sido asegurados en los términos de esta ley; y
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-XX.- Las demás que esta ley y otros ordenamientos le confieran.
+XIX.- Comercializar el ganado, sus productos y subproductos que hayan sido asegurados en los términos de esta ley;
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XX.- Verificar en frigoríficos, almacenes y establecimientos comerciales, la legal internación de productos y subproductos pecuarios al Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXI.- Verificar el cumplimiento de las condiciones establecidas en las autorizaciones correspondientes para la internación de productos y subproductos pecuarios al Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXII.- Establecer las medidas necesarias para apoyar a los productores pecuarios del Estado para intervenir en los casos de internaciones de productos y subproductos pecuarios, que no cumplan con las disposiciones relativas a sanidad y calidad, aplicables a los mismos;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXIII.- Establecer las condiciones de sanidad y calidad de los productos y subproductos pecuarios que se desean internar al Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXIV.- Evitar la internación de productos y subproductos pecuarios que no presenten la autorización correspondiente y de aquellos que no cumplan con las condiciones de sanidad y calidad establecidas en la autorización correspondiente;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXV.- Promover la calidad de los productos pecuarios producidos en el Estado de Sonora; y
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XXVI.- Las demás que esta ley y otros ordenamientos le confieran.
 
 ###### ARTÍCULO 8º.
 
@@ -675,6 +725,24 @@ XIV.- Auxiliar a las autoridades del Poder Judicial en el ejercicio de sus funci
 
 XV.- Las demás que esta ley y otros ordenamientos jurídicos les confieran.
 
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 52 BIS.- Son facultades y obligaciones de los inspectores de productos y subproductos pecuarios:
+
+I.- Verificar en los establecimientos comerciales los frigoríficos, almacenes y en cualquier lugar en que se comercialicen o almacenen productos y subproductos pecuarios, procedentes u originarios de otras (sic) Estados, la legal internación de éstos al Estado, para constatar si se observaron los procedimientos que establece la normatividad respectiva para su introducción y movilización en el Estado;
+
+II.- Verificar en los lugares que se comercialicen o almacenen productos y subproductos pecuarios procedentes u originarios de otros Estados, el cumplimiento de las condiciones establecidas en las autorizaciones expedidas para su internación al Estado de Sonora.
+
+III.-. Requerir a los propietarios o encargados de establecimientos comerciales, de frigoríficos o almacenes en donde se comercialicen o almacenen productos y subproductos pecuarios procedentes u originarios de otros Estados, la documentación relativa a su internación y movilización en el Estado de Sonora;
+
+IV.- Realizar inventarios de productos y subproductos pecuarios en los establecimientos, almacenes y frigoríficos, donde se comercialicen o almacenen éstos;
+
+V.- Levantar el acta correspondiente cuando detecte infracciones a los procedimientos de internación y movilización de productos y subproductos pecuarios que establece la normatividad estatal o el incumplimiento de las condiciones establecidas en las autorizaciones otorgadas para su internación, observando para tal efecto lo señalado por la Ley del Procedimiento Administrativo para el Estado de Sonora;
+
+VI.- Expedir y cancelar guías de tránsito para la internación o salida de productos pecuarios y subproductos pecuarios, previa comprobación de que cumplen con los procedimientos de internación y movilización establecidos por la normatividad estatal y una vez verificado el cumplimiento de las disposiciones sanitarias establecidas en las autorizaciones correspondientes.
+
+VII.- Inmovilizar los productos y subproductos en establecimientos comerciales, frigoríficos y almacenes que no cumplen con las condiciones establecidas en la autorización de internación, así como de todos aquellos que no comprueben su legal internación al Estado;
+
 ###### ARTÍCULO 53.
 
 Se prohíbe a los inspectores de ganadería:
@@ -706,6 +774,12 @@ La Secretaría podrá crear, modificar o suprimir zonas de inspección ganadera,
 ###### ARTÍCULO 57.
 
 La inspección de ganado y de sus productos y subproductos tendrá lugar en el asiento de producción correspondiente, en los lugares que designe el inspector de cada zona, en tránsito en las estaciones cuarentenarias, o en donde lo indique la Secretaría, debiendo el ganadero o quien efectúe la movilización acreditar invariablemente la legal procedencia de los animales y el cumplimiento de las disposiciones sanitarias correspondientes.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 57 BIS.- La Secretaría verificará en frigoríficos, almacenes y establecimientos comerciales que los productos y subproductos pecuarios procedentes u originarios de otros estados de la República, se hayan internado a la Entidad, cumpliendo con los procedimientos de introducción y movilización que establece esta ley y el resto de la normatividad estatal aplicable.
+
+En caso de que los encargados de los establecimientos comerciales, frigoríficos o almacenes no comprueben la legal internación de productos y subproductos pecuarios, el inspector comisionado procederá a levantar el acta correspondiente, en los términos que establece la Ley del Procedimiento Administrativo para el Estado de Sonora.
 
 ###### ARTÍCULO 58.
 
@@ -889,6 +963,10 @@ Para la expedición de las autorizaciones previstas por el artículo 86 la Secre
 
 Los titulares de estas autorizaciones y quienes conduzcan o auxilien en la movilización del ganado de que se trate, deberán cumplir con cuidado especial las condiciones relativas a sanidad animal que serán estipuladas en dichas autorizaciones y, asimismo, estarán obligados a permitir, en cualquier momento, las inspecciones y demás diligencias que practique la autoridad para el efecto de constatar el cumplimiento de las indicadas condiciones.
 
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 87 BIS.- Para la expedición de las autorizaciones previstas en el artículo 86, la Secretaría, en el caso de productos y subproductos pecuarios, deberá tomar en consideración, previamente, la opinión de los organismos de cooperación correspondiente, así como las necesidades de la población para que no se vean afectados los productores ni el abasto de productos para la población del Estado.
+
 ###### ARTÍCULO 88.
 
 En las internaciones de ganado, el titular de la autorización, en el punto de entrada al Estado, deberá cumplir ante el inspector correspondiente con los siguientes requisitos:
@@ -903,15 +981,31 @@ IV.- En su caso, someter a los animales a la aplicación del baño garrapaticida
 
 V.- En general, acreditar el cumplimiento de todas las condiciones establecidas en la autorización.
 
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 88 BIS.- La Secretaría establecerá en las autorizaciones que expida para la internación de productos y subproductos pecuarios, las condiciones de carácter sanitario y de calidad que deberán cumplir.
+
 ###### ARTÍCULO 89.
 
 Las internaciones de ganado, para los efectos de la disposición anterior, sólo podrán realizarse por las estaciones cuarentenarias del Estado, los puntos de inspección y los baños de línea que determine la Secretaría.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 89 BIS.- La Secretaría podrá establecer puntos de inspección en lugares estratégicos dentro del Estado, para constatar la legal internación de productos y subproductos pecuarios a Sonora.
 
 ###### ARTÍCULO 90.
 
 Quien introduzca ganado al Estado deberá exhibir la autorización y toda la documentación presentada al momento de la internación, en el lugar de destino de los animales dentro del territorio estatal, o bien a la salida de éste cuando se trate de movilización en tránsito.
 
 Asimismo, el introductor está obligado a presentar toda la información relativa a la movilización y exhibir los documentos correspondientes cuantas veces sea requerido por las autoridades competentes para verificar el cumplimiento de las disposiciones que establece esta ley.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría verificará en los puntos de entrada al Estado el cumplimiento de las condiciones establecidas en las autorizaciones expedidas para la introducción de productos y subproductos al Estado.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 90 BIS.- La Secretaría podrá analizar los productos y subproductos pecuarios que se internen en el Estado, para constatar el cumplimiento de las condiciones sanitarias establecidas para su introducción, lo cual podrá realizar en los puntos de entrada al Estado, o bien en cualquier lugar en donde se comercialicen o almacenen estos.
 
 ###### ARTÍCULO 91.
 
@@ -938,6 +1032,10 @@ V.- En los casos en que proceda, el ganado será comercializado y de los recurso
 ###### ARTÍCULO 94.
 
 Tratándose de productos y subproductos pecuarios internados en forma irregular, o de entidades o regiones con un estatus sanitario inferior o que pongan en riesgo la sanidad de las actividades pecuarias o la salud publica, el responsable será sancionado conforme lo establece esta ley y se procederá al aseguramiento de dichos productos o subproductos, siguiéndose en lo conducente el procedimiento previsto en el artículo anterior. La resolución que se dicte ordenará, en su caso, la devolución, la venta o la incineración de lo que haya sido asegurado.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 94 BIS.- Los productores pecuarios del Estado, por conducto de sus organizaciones, podrán coadyuvar con la Secretaría, en la verificación de la legal internación de productos y subproductos pecuarios al Estado, tanto en los puntos de entrada como en los establecimientos comerciales, almacenes y frigoríficos de la entidad.
 
 ### CAPÍTULO V. DE LA INSPECCIÓN Y VIGILANCIA EN LOS RASTROS
 
@@ -1895,9 +1993,11 @@ Las infracciones a las disposiciones contenidas en los artículos 59, 64, segund
 
 Las infracciones a las disposiciones contenidas en los artículos 54, 85, 87, párrafo segundo, 90, 91, 95, 134, 201, 215, 220 y 221 serán sancionadas por la Secretaría con multa de 100 a 1000 veces el salario mínimo aplicable en la región.
 
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 258.
 
-Las infracciones a las disposiciones contenidas en los artículos 92, 93, 94, 136, 137, 143, 158, 168, 174, 183, 186, 218, 233 y 245 serán sancionadas por la Secretaría con multa de 200 a 10000 veces el salario mínimo aplicable en la región.
+Las infracciones a las disposiciones contenidas en los artículos 86, 92, 93, 94, 136, 137, 143, 158, 168, 174, 183, 186, 218, 233 y 245 serán sancionadas por la Secretaría con multa de 200 a 10000 veces el salario mínimo aplicable en la región.
 
 ###### ARTÍCULO 259.
 
@@ -2022,3 +2122,11 @@ Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se
 Dado en la residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veinticuatro días del mes de octubre del año dos mil cinco.
 
 SUFRAGIO EFECTIVO. NO REELECCION, EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA, EL SECRETARIO DE GOBIERNO, ROBERTO RUIBAL ASTIAZARAN, RUBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 19 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
