@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2013-09-11"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 11 DE SEPTIEMBRE DE 2013 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -885,7 +883,9 @@ d) Se levantará acta administrativa en la que consten las circunstancias anteri
 
 III. De no comparecer el particular en el día y hora señalados en el citatorio, se tendrá por satisfecha la garantía de audiencia.
 
-En los casos de actos fiscales, decretos de expropiación de bienes, medidas de seguridad y sanciones de tránsito, la garantía de audiencia se otorgará en los medios de impugnación que se hagan valer en su contra.
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+En los casos de actos fiscales, decretos de expropiación de bienes, medidas de seguridad, recuperación administrativa y sanciones de tránsito, la garantía de audiencia se otorgará en los medios de impugnación que se hagan valer en su contra.
 
 ###### Artículo 130.
 
@@ -2526,3 +2526,13 @@ QUINTO.- Se establece un término de diez días naturales posteriores a la insta
 SEXTO. El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
 
 SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado proveerá lo necesario para dar cumplimiento al presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
