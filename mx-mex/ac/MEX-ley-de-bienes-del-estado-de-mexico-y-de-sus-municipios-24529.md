@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienes-del-estado-de-mexico-y-de-sus-municipios-24529"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2010-12-09"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE BIENES DEL ESTADO DE MEXICO Y DE SUS MUNICIPIOS
 
-LEY DE BIENES DEL ESTADO DE MEXICO Y DE SUS MUNICIPIOS
+LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Gaceta del Gobierno el 7 de marzo del 2000.
 
@@ -277,9 +277,7 @@ V. Los inmuebles que adquieran el Estado o los municipios por vías de derecho p
 
 VI. Los inmuebles que por cualquier título adquieran el Estado o los municipios en tanto no se declaren bienes de uso común o se destinen a un servicio público.
 
-### CAPITULO CUARTO. DEL REGIMEN JURIDICO DE LOS BIENES
-
-DEL DOMINIO PUBLICO
+### CAPITULO CUARTO. DEL REGIMEN JURIDICO DE LOS BIENES DEL DOMINIO PUBLICO
 
 ###### Artículo 21.
 
@@ -333,9 +331,29 @@ El incumplimiento a lo dispuesto en el párrafo anterior, producirá la nulidad 
 
 También procede la recuperación administrativa en términos de este artículo, cuando quien use o se aproveche de los bienes del dominio público y privado, estatal o municipal, no tenga la concesión, autorización, permiso o licencia o éstas se hayan extinguido, cancelado, anulado o revocado.
 
-### CAPITULO QUINTO. DEL REGIMEN JURIDICO DE LOS BIENES
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
-DEL DOMINIO PRIVADO
+###### Artículo 27 Bis.
+
+La recuperación administrativa de bienes del dominio público y/o privado del Estado se sujetará al siguiente procedimiento:
+
+I. La Secretaría de Finanzas, por conducto de la Dirección General de Recursos Materiales, determinará la recuperación administrativa de bienes del dominio público y/o privado, mediante acuerdo en el que funde y motive debidamente su procedencia adjuntando la documentación con la que se acredite la propiedad del bien a favor del Estado.
+
+La orden de recuperación administrativa deberá reunir los mismos requisitos que para la orden de visita de verificación que establece el Código de Procedimientos Administrativos del Estado de México.
+
+II. A más tardar, al día siguiente, la autoridad competente en compañía de un notificador y de dos testigos, se constituirán ante la persona que detente la posesión del bien inmueble. En la notificación se le hará saber que tiene la obligación de acreditar, en tres días, la calidad con la que se encuentra en posesión de dicho bien y mostrar los documentos que lo comprueben.
+
+III. Si el particular no acreditaré la posesión del inmueble en recuperación con los documentos fehacientes, se le dará un plazo, a criterio de la autoridad competente, para desalojar el lugar.
+
+IV. En caso de negativa a entregar el inmueble por parte de quien se encuentre ocupándolo en el plazo establecido, la autoridad competente tendrá la facultad de solicitar el auxilio de la fuerza pública para desalojar el inmueble respetando en todo momento los Derechos Humanos de los particulares. Para la diligencia de desalojo, el notificador podrá asistirse del número de servidores públicos adscritos a la Dirección General de Recursos Materiales que crea conveniente para hacer constar los hechos que sucedan durante el procedimiento de recuperación administrativa.
+
+V. Bajo ninguna circunstancia se podrá detener la diligencia de recuperación administrativa hasta tomar posesión del bien inmueble. Una vez recuperado el inmueble, se asegurará su recuperación con el cambio de chapas o la instalación de medidas de seguridad para que no pueda ser nuevamente ocupado.
+
+VI. Se dejarán a salvo los derechos de la persona o personas desalojadas durante el procedimiento de recuperación administrativa para que los ejerzan ante la autoridad correspondiente.
+
+VII. En todo lo que no se oponga al presente procedimiento de recuperación administrativa se aplicará lo conducente al Código de Procedimientos Administrativos del Estado de México y los principios generales de derecho.
+
+### CAPITULO QUINTO. DEL REGIMEN JURIDICO DE LOS BIENES DEL DOMINIO PRIVADO
 
 ###### Artículo 28.
 
@@ -427,9 +445,7 @@ Ningún notario del Estado de México podrá autorizar definitivamente una escri
 
 Los actos, negocios jurídicos, convenios y contratos que se realicen con violación de lo dispuesto por este capítulo, serán nulos de pleno derecho, sin perjuicio de las responsabilidades de carácter administrativo, civil o penal en que incurran los servidores y notarios públicos que intervengan en estos actos.
 
-### CAPITULO SEXTO. DE LAS DISPOSICIONES COMUNES A LOS BIENES
-
-DEL DOMINIO PUBLICO Y PRIVADO
+### CAPITULO SEXTO. DE LAS DISPOSICIONES COMUNES A LOS BIENES DEL DOMINIO PUBLICO Y PRIVADO
 
 ###### Artículo 44.
 
@@ -553,9 +569,9 @@ Los poderes Legislativo y Judicial, así como las dependencias, organismos auxil
 
 En el Poder Ejecutivo, las secretarías de Administración y de la Contraloría, en el ámbito de sus respectivas atribuciones, vigilarán el exacto cumplimiento de las disposiciones contenidas en el presente capítulo.
 
-### CAPITULO NOVENO. DEL REGISTRO ADMINISTRATIVO DE BIENES DEL
+### CAPITULO NOVENO
 
-DOMINIO PUBLICO Y PRIVADO.
+DEL REGISTRO ADMINISTRATIVO DE BIENES DEL DOMINIO PUBLICO Y PRIVADO.
 
 ###### Artículo 62.
 
@@ -681,10 +697,20 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 9 DE DICIEMBRE DE 2010.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno”.
+
+TERCERO.- El Ejecutivo del Estado proveerá lo necesario para dar cumplimiento al presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
