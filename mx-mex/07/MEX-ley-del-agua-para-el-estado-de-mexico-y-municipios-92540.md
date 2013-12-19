@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2013-11-12"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -179,7 +179,11 @@ XXIV. Contaminación: La presencia de uno o más contaminantes o cualquier combi
 
 XXV. Contaminante: Toda materia que al mezclarse con aguas claras, agua potable o tratada, altera, corrompe o modifica sus características e impide con ello su uso consuntivo;
 
-XXVI. Costos del servicio del agua: La suma de las inversiones para la construcción, ampliación, operación, rehabilitación y mantenimiento de la infraestructura hidráulica, y los recursos económicos necesarios para prestar el servicio de agua potable y los demás servicios a los usuarios, de acuerdo con la política hídrica estatal y los objetivos y metas propuestos en el programa hídrico integral estatal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+XXVI. Costos del servicio del agua: La suma de las inversiones para la construcción, ampliación, operación, rehabilitación y mantenimiento de la infraestructura hidráulica y los recursos económicos necesarios para prestar el servicio de agua potable, así como los demás servicios a los usuarios, incluyendo el pago por los servicios ambientales hidrológicos que prestan los ecosistemas, de acuerdo con la política hídrica estatal y los objetivos y metas propuestos en el programa hídrico integral estatal;
 
 XXVII. Cultura del agua: Conjunto de creencias, conductas y estrategias comunitarias para la utilización del agua, que se encuentra en las normas, formas organizativas, conocimientos, prácticas y objetos materiales que la comunidad se da o acepta tener, así como el tipo de relación entre las organizaciones sociales y en los procesos políticos que se concretan en relación con el aprovechamiento, uso y protección del agua;
 
@@ -2508,3 +2512,15 @@ QUINTO.- El Gobernador y las autoridades del agua, en la esfera administrativa d
 SEXTO.- Los permisos o autorizaciones que amparan la distribución de agua en pipa, otorgados por las autoridades administrativas antes de la entrada en vigor del presente Decreto, tendrán validez hasta el 31 de diciembre del 2013, por lo que los particulares interesados en la distribución de agua en pipas para el año 2014, deberán solicitar el permiso y el dictamen de factibilidad correspondientes.
 
 SÉPTIMO.- Las autoridades en materia de agua, dentro de los quince días naturales a la entrada en vigor del presente Decreto, deberán nombrar a los servidores públicos responsables de supervisar y ejecutar las acciones de desinfección del agua.
+
+G.G. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día en que inicie su vigencia el diverso por el que se reforma el párrafo tercero del artículo 18 de la Constitución Política del Estado Libre y Soberano de México, en materia de cambio climático.
+
+TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía que sean contrarias a las establecidas en los artículos reformados.
+
+CUARTO.- El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
+
+QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
