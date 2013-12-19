@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2013-05-30"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -185,13 +185,15 @@ Son Trabajadores Supernumerarios: los temporales, de base o de confianza, cuya r
 
 Para obtener un empleo de base serán preferidos los mexicanos a los extranjeros en igualdad de aptitudes.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 13o.
 
-Los Trabajadores al Servicio de la Educación se regirán por la Ley de Educación del Estado de Durango y por esta Ley en cuanto no contraríe a aquella.
+Los Trabajadores al Servicio de la Educación se regirán por la Ley de Educación del Estado de Durango y por esta Ley en cuanto no contraríe a lo dispuesto en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, sus disposiciones reglamentarias y a las condiciones de trabajo de los trabajadores de la educación.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-###### Artículo 14º.
+###### Artículo 14o.
 
 Los Titulares de las Dependencias y Entidades Administrativas del Estado, serán considerados Representantes de las mismas, y en tal concepto los obligan en sus relaciones con el Sindicato y sus Trabajadores.
 
@@ -419,11 +421,11 @@ Es nula la cesión de salarios en favor de terceras personas.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES DE LAS DEPENDENCIAS PUBLICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 55º.
+###### Artículo 55o.
 
-Son obligaciones de las Dependencias y Entidades Administrativas, a que se refiere el Artículo 1o. de esta Ley:
+Son obligaciones de las dependencias y entidades administrativas, a que se refiere el artículo 1° de esta ley:
 
 I.- Preferir, en igualdad de conocimientos aptitudes y antigüedad, a los trabajadores sindicalizados, respecto de quienes no lo estuvieran; a los que con anterioridad hubieren prestado satisfactoriamente servicios y a los que acrediten tener mejores derechos conforme al escalafón.
 
@@ -481,7 +483,9 @@ XI.- Hacer las deducciones en los salarios que solicite el Sindicato, siempre qu
 
 XII.- Determinar las condiciones generales de trabajo cada período de Gobierno, expidiendo los Reglamentos correspondientes con intervención del Sindicato. Mientras estos Reglamentos no se expidan, se entenderán vigentes las disposiciones legales anteriores.
 
-XIII.- Incrementar al trabajador por cada cinco años de antigüedad, el equivalente a seis días de salario que perciba, independientemente de otros aumentos por distintos conceptos.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XIII.- Otorgar al trabajador por cada cinco años de antigüedad, el equivalente a seis días del sueldo base que perciba, mismos que serán divididos en 24 quincenas, independientemente de otros aumentos por distintos conceptos.
 
 ###### Artículo 56o.
 
@@ -601,13 +605,15 @@ En los casos a que se refiere este Artículo, el trabajador que diere motivo par
 
 Si el Tribunal resuelve que fué justificado el cese, el trabajador no tendrá derecho al pago de salarios caídos.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 63o.
 
-El trabajador podrá solicitar ante el Tribunal de Conciliación y Arbitraje, a su elección, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario.
+El trabajador podrá optar por solicitar ante el Tribunal de Conciliación y Arbitraje, que se le reinstale en el trabajo que desempeñaba, o bien, que se le indemnice con el importe de tres meses de salario.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
+Si en el Juicio correspondiente el Titular de la Dependencia o Entidad Administrativa respectiva, no comprueba la causa del cese o suspensión, el trabajador tendrá derecho, además, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses.
 
-Si en el juicio correspondiente no comprueba el Titular de la Dependencia o Entidad Administrativa respectiva, la causa del cese o suspensión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios caídos desde la fecha del despido hasta que se cumplimente el laudo.
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
@@ -893,11 +899,13 @@ I.- Las acciones para pedir la nulidad de un nombramiento.
 
 II.- Las acciones de los Trabajadores para ejercer el derecho de ocupar la plaza que hayan dejado por accidente o por enfermedad, contado el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
 
-###### Artículo 104o.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
 
-Prescriben en cuatro meses:
+###### Artículo 104o
 
-I.- En caso de despido o suspensión injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la Ley concede, contándose a partir del momento en que sea notificado el Trabajador del despido o suspensión.
+Prescriben en dos meses:
+
+I.- En caso de despido o suspensión injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la Ley concede. La prescripción corre a partir del día siguiente a la fecha del despido o suspensión.
 
 II.- En caso de supresión de plazas, las acciones para que se les otorgue otra equivalente a la suprimida, o la indemnización de Ley.
 
@@ -1214,3 +1222,15 @@ P.O. 30 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- La Secretaria de Educación en el Estado dictará las disposiciones necesarias para regular las condiciones de los trabajadores al servicio de la educación, con base en lo dispuesto en el artículo 3° Constitucional y sus disposiciones reglamentarias.
+
+TERCERO.- Los trabajadores del magisterio, por cada cinco años de servicios efectivos prestados hasta llegar a veinticinco, tendrán derecho al pago de una prima como complemento del salario en los mismos términos que el personal del sector federalizado y conforme a los criterios normativos que emita la Secretaría de Educación Pública.
+
+CUARTO.- Cualquier mención del Tribunal de Conciliación y Arbitraje en el presente decreto se entenderá como Tribunal Laboral Burocrático.
+
+QUINTO.- Se derogan todas las disposiciones legales en lo que se opongan a la presente iniciativa de decreto.
