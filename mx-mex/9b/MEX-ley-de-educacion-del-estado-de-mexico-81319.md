@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2013-07-17"
+last_updated: "2013-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -271,9 +271,13 @@ XXIV. Inculcar los principios y conceptos fundamentales para la protección del 
 
 XXV. Fomentar la cultura del agua, para darle un uso racional y responsable;
 
-XXVI. Impulsar una cultura de protección civil orientada a la prevención de desastres, así como al cuidado de la seguridad personal; y
+XXVI. Impulsar una cultura de protección civil orientada a la prevención de desastres, así como al cuidado de la seguridad personal; y (sic)
 
 XXVII. Fomentar la justicia, la libertad, la igualdad, la equidad, la solidaridad, el respeto, la tolerancia, la responsabilidad, la honradez y los demás valores que favorezcan la convivencia social armónica.
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+XXVIII. Difundir la importancia de la adaptación al cambio climático, así como la mitigación de las emisiones de gases de efecto invernadero que lo provocan.
 
 #### SECCIÓN CUARTA. DE LOS VALORES DE LA EDUCACIÓN
 
@@ -1430,6 +1434,18 @@ G.G. 17 DE JULIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día en que inicie su vigencia el diverso por el que se reforma el párrafo tercero del artículo 18 de la Constitución Política del Estado Libre y Soberano de México, en materia de cambio climático.
+
+TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía que sean contrarias a las establecidas en los artículos reformados.
+
+CUARTO.- El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
+
+QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
 
 #### SECCIÓN SEGUNDA. DE LA FORMACIÓN, ACTUALIZACIÓN, CAPACITACIÓN Y SUPERACIÓN PROFESIONAL DE LOS MAESTROS
 
