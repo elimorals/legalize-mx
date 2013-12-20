@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2012-09-07"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PENAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -2801,6 +2801,22 @@ Además de las penas a que se refiere el artículo anterior, el perito, intérpr
 
 268.- Al que usare uniformes oficiales, condecoraciones, grados jerárquicos, distintivos o insignias a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura a que correspondan aquéllos, se le impondrán de tres meses a cinco años de prisión y de veinte a cien días multa.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO X. USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, Y DEL SISTEMA PENITENCIARIO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+268 BIS.- Al que con objeto de planear o ejecutar un delito u obstruir la función de seguridad pública, realice actos tendientes a obtener o transmitir, mediante cualquier medio, información sobre las actividades propias de las instituciones de seguridad pública, de procuración e impartición de justicia, y de ejecución de las penas, de cualquier ámbito, o sobre cualquier servidor público, se le impondrá de dos a quince años de prisión y de cincuenta a mil días multa.
+
+Cuando el sujeto activo sea miembro de cualquiera de las instituciones de seguridad pública del Municipio, Estado o de la Federación, de procuración de justicia y de ejecución de penas, federal o estatal, o haya pertenecido a cualquiera de éstas, o sea o haya sido agente de seguridad privada, se le impondrá de cinco a quince años de prisión y de doscientos a mil días multa.
+
+Además de las penas que correspondan por la realización de la conducta descrita en los párrafos anteriores, el servidor púbico será destituido del empleo, cargo o comisión e inhabilitado por el mismo tiempo de la pena de prisión impuesta.
+
+El que cometa el descrito, en cualquiera de sus modalidades, no tendrá derecho a gozar de la libertad preparatoria, conmutación de sanciones, remisión parcial de la pena o cualesquiera otros beneficios que la ley señala.
+
+## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
+
 ### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
 
 269.- Son delitos contra la administración de justicia cometidos por los servidores públicos, los siguientes:
@@ -2892,8 +2908,6 @@ Además de las penas establecidas en el párrafo que antecede, el agente sufrir�
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
 
 Tratándose de servidores públicos que tengan a su cargo funciones de prevención, persecución, investigación o sanción de delitos, además de aplicárseles la sanción señalada en el primer párrafo de este Artículo, se les destituirá e inhabilitará definitivamente para desempeñar cargos de la misma especie.
-
-## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO II. FRAUDE PROCESAL
 
@@ -2992,6 +3006,10 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 289.- Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por dos años.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 FEBRERO DE 2004)</small>
+
+## TITULO V. DELITOS ELECTORALES
+
+> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACIÓN, P.O. 13 FEBRERO DE 2004)</small>
 
 ### CAPITULO UNICO
 
@@ -3283,9 +3301,9 @@ Igual pena se aplicará a quien sin mediar resolución de autoridad competente, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2005)</small>
 
-## TITULO V. DELITOS ELECTORALES
+#### SECCION QUINTA. DELITOS CONTRA EL AMBIENTE, LOS RECURSOS NATURALES, LA GESTION AMBIENTAL Y LA PROTECCION A LA FAUNA
 
-> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACIÓN, P.O. 13 FEBRERO DE 2004)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO UNICO. DELITOS AMBIENTALES
 
@@ -3384,10 +3402,6 @@ P.O. 10 DE ENERO DE 1989.
 PRIMERO.- Se aplaza el dictamen, discusión y aprobación en su caso, de las reformas y adiciones al Código Penal vigente.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-#### SECCION QUINTA. DELITOS CONTRA EL AMBIENTE, LOS RECURSOS NATURALES, LA GESTION AMBIENTAL Y LA PROTECCION A LA FAUNA
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -3674,3 +3688,17 @@ P.O. 7 DE SEPTIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Comuníquese al Titular del Poder Ejecutivo para los efectos legales correspondientes.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales conducentes
+
+###### ARTÍCULO TERCERO
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
