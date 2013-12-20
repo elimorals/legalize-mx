@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-registro-de-centros-de-poblacion-del-estado-de-60080"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-05"
-last_updated: "2008-03-05"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DEL REGISTRO DE CENTROS DE POBLACION DEL ESTADO DE CAMPECHE
 
-LEY DEL REGISTRO DE CENTROS DE POBLACION DEL ESTADO DE CAMPECHE
+LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el miércoles 5 de marzo de 2008.
 
@@ -389,6 +389,10 @@ b) Los ejidos: Escárcega y sus colonias la Chiquita y La Esperanza; Justicia So
 
 c) Los ranchos: Las Ruinas, Providencia, Monte Bravo, San Joaquín, Oscar Flores, Chaucil 1, Chaucil 2, Chaucil 3, Chaucil 4, Chaucil 5, Caña Fístula 1, Caña Fístula 2, Búfalo, La Estancia, Coliman, Zeta, San Jorge, Martín, Piedras, Elisa, Félix Romero, Carlos Schnabel, Monteclaro, San Carlos, Gran Poder, San Ignacio, Carlos Heredia, Puente de Juárez, Puerto Escondido, Rosa Encerrada, Félix Faller, Hidalgo, Mercedes, El Círculo, Trapiche, Tamarindo, Las Palmas, Selva Negra, Jorge Cural, Jorge Medina, Elidé Henández, Las Ardillas, Potro, Isis, La Unión, San Jorge 1, La Bomba, El Gallo, Guadalajara, Buenavista, Santa Ana, Otoño, Santa Lucía, Los Altos de Cuyoc, Bonanza, Miraflores, Santa Rita, Hermanos Gómez, Laramie, Jabín, La Flor, Esperanza 1, Esperanza 2, Hermanos Navarro, El Retiro, San Isidro Cuyoc, Triple R, Leonor, María de la Luz, El Charro, San Jorge, Pucté 1, Pucté 2, Pucté 3, Pucté 4, Pucté 5, Santa Juliana, Palma Larga, Vista Alegre, Piedral, Jimba, Taurino, Partenón, San Manuel, Campeador, Borrego, El Limón, El Caoba, Neftalín Inurreta, Aventurero, Las Cruces, Everardo Espinosa, Daniel Santiago, Libertad, Asunción, José Fuentes Ramos, Aída, Saúl Pérez Sosa, Anastacio Damián, Los Reyes, Santo Tomás, Juan Mora GuilIermo, Norberto Moreno Cano, Eduardo Guillermo Méndez, Adelita, Porfía, El Rey II, Ceferino Moreno Escalante, Jorge Moreno Escalante, Nanzal, Vista Alegre, La Libertad, Pedro Moreno Gómez, Vértice, Jacinto, Magueyitos, Santa Gertrudis, La Flor, San Pablo, Progreso, Asunción, Fátima, San Isidro, Mameyal, La Gimba, Los Reyes, Los Lirios, El Rincón, Lote 1, Lote 2, Lote 3, Lote 4, Lote 5, Lote 6, Lote 7, Lote 12, Lote 13, Lote 14, Lote 15, Lote 16, Lote17, Pucteal, Pokar 2, La Libertad, Benítez, La Unión, Laureles 2, Bárbara, San Carlos 2, Corozal 2, Las Camelias, Otoño, El Pensamiento, Marcos Verdejo, Lino Melenes, Gustavo Garduño, Catalina, La Guadalupe, San Miguel, Buenavista, Bodegas Rurales Conasupo, La Carmelita, Innominado, Innominado (sic), El Jaripeo (El Enamorado), Las Margaritas, Los Mexicanos, Nuevo Zináparo, Los Pocitos, Las Ruinas, San Alfredo, San Francisco, Sausalito, Tres Hermanos, Unidad Ganadera N° 3, y los demás que se encuentren dentro de los deslindes de este Municipio aunque no estén mencionados en esta relación; y
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+d). La Congregación de Nuevo Campeche
+
 A la Sección Municipal de Centenario, corresponden:
 
 a) El Ejido de Centenario;
@@ -544,3 +548,11 @@ Dado en el Palacio del Gobierno del Estado, en San Francisco de Campeche, Campec
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+PRIMERO.- La (sic) presente decreto entrará en vigor a los quince días (sic) su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas (sic) disposiciones legales y reglamentarias que se opongan al presente decreto
