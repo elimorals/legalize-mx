@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2013-10-18"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -1433,9 +1433,9 @@ IX. Desarrollo urbano, obras públicas y comunicaciones: Tiene a su cargo la ate
 
 X. Educación, cultura, ciencia, tecnología e innovación: Tiene a su cargo la atención de asuntos en materia educativa, fomento de las actividades culturales y de avances científicos, tecnológicos e innovadores en el Estado;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-XI. Familia: Tiene a su cargo todas las cuestiones relativas a la familia;
+XI. Familia: Tiene a su cargo la atención de asuntos relacionados con la familia en la rama del derecho civil, así como temas vinculados con la familia y sus integrantes.
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -2142,5 +2142,13 @@ P.O. 18 DE OCTUBRE DE 2013.
 Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
