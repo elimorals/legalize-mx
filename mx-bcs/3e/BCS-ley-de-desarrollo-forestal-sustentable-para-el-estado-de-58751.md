@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-58751"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de diciembre de 2007.
 
@@ -49,9 +49,11 @@ LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA El ESTADO DE BAJA CALIFORNIA SUR.
 
 ### Capítulo I. Del objeto y aplicación de la Ley
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular y fomentar la conservación, protección, restauración, producción, ordenación, manejo y aprovechamiento de los ecosistemas forestales y los elementos que los conforman dentro del Estado de Baja California Sur y sus Municipios, así como distribuir las competencias que en materia forestal les correspondan.
+La presente Ley es de orden público e interés social y tiene por objeto propiciar la cultura forestal, regular y fomentar la conservación, protección, restauración, producción, ordenación, cultivo, manejo, así como el desarrollo tecnológico, la investigación forestal y el aprovechamiento sustentable de los ecosistemas forestales y los elementos que los conforman dentro del Estado de Baja California Sur y sus Municipios, así como distribuir las competencias que en materia forestal les correspondan.
 
 ###### ARTÍCULO 2.
 
@@ -91,9 +93,29 @@ XVI.- Impulsar la creación y el desarrollo de empresas forestales ejidales o co
 
 XVII.- Elaborar y mantener actualizado el inventario estatal forestal, apegándose al inventario nacional forestal;
 
-XVIII.- De acuerdo a los convenios que se suscriban para tales efectos asumir las atribuciones y funciones que en materia ambiental y forestal corresponden a la federación; y
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
-XIX.- Las demás que sean de interés para la protección, conservación, producción y fomento de los recursos naturales.
+XVIII.- De acuerdo a los convenios que se suscriban para tales efectos con la Federación, desarrollar las atribuciones y funciones que en materia ambiental y forestal le correspondan al Estado;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XIX.- Promover el desarrollo del sector forestal del Estado, mediante el manejo adecuado de los recursos forestales, incluyendo las cuencas y ecosistemas hidrológico-forestales, sin perjuicio de lo establecido en la normatividad aplicable;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XX.- Asegurar el mejoramiento de la calidad de vida de las y los sudcalifornianos, a través de la aplicación de la silvicultura en los aprovechamientos de los recursos forestales en forma sustentable;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XXI.- Impulsar los bienes y servicios ambientales para contribuir a la fijación de bióxido de carbono, la protección y conservación de los recursos hídricos y mantener la biodiversidad y belleza escénica de los ecosistemas;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XXII.- Dotar de mecanismos de coordinación y cooperación a las instituciones estatales y municipales del sector forestal, así como con otras instancias afines para la vigilancia, conservación y regulación del aprovechamiento y uso de los recursos forestales; y
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XXIII.- Las demás que sean de interés para la protección, conservación, producción y fomento de los recursos naturales.
 
 ###### ARTÍCULO 3.
 
@@ -1550,3 +1572,11 @@ NARCISO AGUNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 NABOR GARCÍA AGUIRRE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
