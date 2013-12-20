@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2013-11-13"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO MIL DOSCIENTOS VEINTITRÉS, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE ESTE ORDENAMIENTO, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2013, VÉASE SEGUNDA DISPOSICIÓN TRANSITORIA.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -95,11 +97,33 @@ Los contribuyentes y los demás sujetos que se mencionan en el Título II del C�
 
 ###### Artículo 6.
 
-Las cuotas y tarifas de las contribuciones que establece la presente Ley en cantidades determinadas, se actualizarán a partir del 1º de enero de cada año, en el mismo porcentaje en que se incremente el salario mínimo general vigente para el área geográfica que corresponda al Estado de Morelos
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 6 Bis.
+
+Para efectos de la presente Ley se entenderá por:
+
+I. Ley, a la Ley General de Hacienda del Estado de Morelos;
+
+II. Secretaría, a la Secretaría de Hacienda del Poder Ejecutivo Estatal;
+
+III. Código, al Código Fiscal para el Estado de Morelos;
+
+IV. Reglas, a las reglas de carácter general emitidas por la Secretaría;
+
+V. Asociación en Participación, al conjunto de personas que realizan actividades empresariales con motivo de la celebración de un convenio, y siempre que las mismas, por disposición legal o del propio convenio, participen de las utilidades o de las pérdidas derivadas de dicha actividad, y
+
+VI. Unidades económicas, a las sucesiones, los fideicomisos y las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles, o cualquiera otra forma de asociación, aun cuando no sean reconocidas como personas jurídicas conforme otras disposiciones legales aplicables.
+
+Cuando en esta Ley se haga referencia a la Federación, al Estado y a los Municipios, se entenderán incluidos sus Organismos Públicos Descentralizados, sus Órganos Desconcentrados y los que se constituyan como Auxiliares de la Administración Pública, así como los Órganos Autónomos de cada nivel de gobierno, con las excepciones que establezca la misma Ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 7.
 
-La Secretaría de Finanzas y Planeación del Estado interpretará para efectos administrativos las disposiciones de esta Ley.
+La Secretaría interpretará para efectos administrativos las disposiciones de esta Ley.
 
 ### CAPÍTULO PRIMERO. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
@@ -171,6 +195,8 @@ OBLIGACIONES
 
 OBJETO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 16.
 
 Es objeto de este impuesto la adquisición de la propiedad, por cualquier título de vehículos automotores usados.
@@ -193,7 +219,9 @@ La base gravable para efectos del cálculo de este impuesto, será determinada c
 
 I. Tratándose de vehículos automotores usados cuyos modelos sean del año en curso, se considerará el valor consignado en la factura original expedida por el fabricante o por el distribuidor, reduciéndose en un 15% por demérito del valor del vehículo;
 
-II. Tratándose de vehículos automotores usados cuyos modelos sean anteriores al año en curso, se considerará el valor de la operación fijado por los contratantes salvo que éste fuera notoriamente inferior al valor comercial del vehículo, en cuyo caso, la base gravable se determinará tomando como referencia el valor a la compra que para vehículos usados establezca la Guía EBC de la Asociación de Comerciantes en Automóviles y Camiones y Aseguradoras de la República Mexicana; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+II. Tratándose de vehículos automotores usados cuyos modelos sean anteriores al año en curso, se considerará el valor de la operación fijado por los contratantes salvo que éste fuera notoriamente inferior al valor comercial del vehículo, en cuyo caso, la base gravable se determinará tomando como referencia el valor a la compra que para vehículos usados establezca la Guía Oficial de Información en la República Mexicana para Comerciantes y Aseguradores de Automóviles, Vehículos Comerciales y Motocicletas (Guía EBC); y
 
 III. A falta de precio de operación o en tratándose de donaciones o adquisiciones ocurridas por causa de muerte, se determinará la base tomando como referencia el valor a la compra que para vehículos usados establezca la referida Guía EBC al momento de efectuarse la operación.
 
@@ -217,9 +245,15 @@ II. Los servidores públicos que, en el ejercicio de sus funciones, autoricen el
 
 EXENCIONES
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 21.
 
-Están exentas del pago de este impuesto las adquisiciones que realicen las empresas establecidas, cuya actividad preponderante sea la compraventa de vehículos objeto de este gravamen, cuando se encuentren al corriente en el pago del Impuesto al Valor Agregado.
+Están exentas del pago de este impuesto:
+
+I. Las adquisiciones que realicen las empresas establecidas, cuya actividad preponderante sea la compraventa de vehículos objeto de este gravamen, cuando se encuentren al corriente en el pago del Impuesto al Valor Agregado, y
+
+II. Las adquisiciones de vehículos objeto de este gravamen que realicen la Federación, el Estado y los Municipios que sean utilizados para los fines propios de su actividad.
 
 ###### Artículo 22.
 
@@ -227,29 +261,69 @@ Los vehículos automotores usados adquiridos quedan afectos preferentemente al p
 
 Las dependencias oficiales competentes y sus delegaciones, no tramitarán ninguna solicitud de alta, baja o traspaso de vehículos por los cuales no se hubiese pagado el impuesto en los términos establecidos en este Capítulo.
 
-### CAPÍTULO CUARTO. DEL IMPUESTO SOBRE ESPECTÁCULOS
+### CAPÍTULO CUARTO. IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
 
 OBJETO
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 23.
 
 Es objeto de este impuesto la prestación de los servicios de hospedaje, siempre que los bienes materia de los servicios se encuentren en el territorio del Estado de Morelos.
 
-Para los efectos de este impuesto se considera servicios de hospedaje la prestación de alojamiento o albergue temporal de personas, mediante el pago de un precio determinado; queda excluido el servicio de alojamiento o albergue que se preste en hospitales, asilos para ancianos y cualquier otro centro de asistencia social
+Para los efectos de este impuesto se considera servicios de hospedaje la prestación de alojamiento o albergue temporal de personas, mediante el pago de un precio determinado o contraprestación; dentro de los que quedan comprendidos los servicios prestados por:
+
+I. Hoteles;
+
+II. Moteles;
+
+III. Hosterías;
+
+IV. Posadas;
+
+V. Mesones;
+
+VI. Casas de huéspedes;
+
+VII. Suites;
+
+VIII. Villas;
+
+IX. Bungalows;
+
+X. Cabañas;
+
+XI. Campamentos;
+
+XII. Paraderos de casas rodantes;
+
+XIII. Tiempo compartido o multipropiedad;
+
+XIV. Casas y departamentos amueblados, y
+
+XV. Cualquier otro establecimiento destinado a dar hospedaje o albergue.
+
+Se entiende prestado el servicio de hospedaje cuando el mismo se lleve a cabo total o parcialmente, dentro del territorio del Estado, independientemente del lugar donde se acuerde o realice el pago por dichos servicios.
+
+No se consideran servicios de hospedaje el alojamiento o albergue que se preste en hospitales, asilos para ancianos y cualquier otro centro de asistencia social, en los términos del registro de su objeto social que se expida por la autoridad correspondiente.
 
 SUJETO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 24.
 
-Son sujetos del Impuesto las personas jurídico individuales o físicas y jurídico colectivas o morales que presten los servicios a que se refiere el artículo precedente, aún cuando tengan su domicilio fiscal en lugar distinto de la prestación del servicio, quienes trasladarán de manera expresa y por separado su importe a las personas que reciban los servicios.
+Son sujetos del Impuesto las personas físicas y las personas morales que presten los servicios a que se refiere el artículo 23 de esta Ley, de manera permanente o temporal, directamente o a través de operadores turísticos, intermediarios, representantes o como se les designe, en los lugares indicados en el mismo artículo, a cambio de una contraprestación en dinero o en especie, sin importar la duración de los mismos y aún cuando tengan su domicilio fiscal en lugar distinto de la prestación del servicio, quienes trasladarán de manera expresa y por separado su importe a las personas que reciban los servicios.
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+Son responsables solidarios de este impuesto los administradores, encargados o cualquiera otra denominación que se utilice, para aquellas personas que se encarguen de otorgar el acceso o acondicionen para su uso, el lugar en que se prestan los servicios de hospedaje a que se refiere este Capítulo.
 
 De la misma manera, el Gobierno del Estado destinará y/o transferirá un peso más al Fideicomiso Turismo Morelos por cada peso que haya recaudado de este impuesto para lograr su objeto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 25.
 
-El impuesto a que se refiere este Capítulo se causará y trasladará en el momento que se perciba el pago por los servicios de hospedaje.
+El impuesto a que se refiere este Capítulo se causará y trasladará a las personas a quienes se preste servicios de hospedaje en el momento que se perciba el pago por los servicios de hospedaje independientemente del lugar donde se acuerde o realice el pago o contraprestación por dichos servicios.
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
 
@@ -259,13 +333,13 @@ Los recursos que genere el Impuesto sobre la Prestación de Servicios de Hospeda
 
 Lo anterior, en el entendido que dentro del concepto de promoción en general se engloba: espectaculares, medios de comunicación (periódico, tv, radio, etc.), campañas de internet, realización de páginas de internet, centro de reservaciones, pago de stands, incluyendo asistencia y viáticos de ferias, eventos, asambleas, congresos y seminarios, impresión de folletería, revistas especializadas, artículos promocionales, producción de video y banco de imágenes, así como una partida destinada a relaciones públicas.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-El Comité Técnico del Fideicomiso Público Turismo Morelos, se conformará por un Presidente que será el Gobernador del Estado, quién tendrá voto de calidad, cuatro representantes más del Poder Ejecutivo que serán: la Secretaría de Turismo, la Secretaría de Desarrollo Económico, la Secretaría de Finanzas y Planeación y el Instituto de Cultura de Morelos; cinco miembros del sector privado, que serán: un representante del sector de grupos y convenciones; un representante del sector turístico de alta calidad; un representante del sector turístico de ocio; un representante del sector hotelero; y un representante del sector de los balnearios y parques acuáticos.
+El Comité Técnico del Fideicomiso Público Turismo Morelos se conformará por un Presidente que será el Gobernador del Estado, quien tendrá voto de calidad, cuatro representantes más del Poder Ejecutivo que serán: la Secretaría, la Secretaría de Turismo, la Secretaría de Economía y la Secretaria de Cultura del Poder Ejecutivo Estatal; cinco miembros del sector privado, que serán: un representante del sector de grupos y convenciones; un representante del sector turístico de alta calidad, un representante del sector turístico de ocio, un representante del sector hotelero; y un representante del sector de los balnearios y parques acuáticos.
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente al fideicomiso el noventa y cinco por ciento de los recursos recaudados durante el período, en el que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina y/o transfiera a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero.
+La Secretaría enterará bimestralmente al Fideicomiso el noventa y cinco por ciento de los recursos recaudados durante el período, en el que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina y/o transfiera a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente ejercicio.
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
 
@@ -273,15 +347,23 @@ A las reuniones del Comité Técnico del Fideicomiso asistirán como invitados p
 
 TASA
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 26.
 
-Los contribuyentes calcularán el impuesto sobre la prestación de servicios de hospedaje aplicando la tasa del 2% al total del valor de las cantidades recibidas por concepto de servicios de hospedaje y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
+La base gravable de este impuesto será el monto total de los ingresos por la prestación de los servicios de hospedaje, incluyendo depósitos o anticipos.
+
+Cuando los contribuyentes realicen la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, alimentos, uso de instalaciones u otros similares y no desglosen y comprueben con la documentación correspondiente la prestación de éstos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+
+Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, además del costo de la membresía o certificado de titularidad, el monto de los pagos que se reciban por cuotas de mantenimiento u otras similares.
+
+Los contribuyentes calcularán el impuesto sobre la prestación de servicios de hospedaje aplicando la tasa del 3% al total del valor de las cantidades recibidas por concepto de pago o contraprestación por servicios de hospedaje y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
 
 I. El impuesto se calculará por ejercicios fiscales, presentando la declaración anual en el primer bimestre del siguiente año. Los pagos provisionales se acreditarán en la declaración anual;
 
-II. Los contribuyentes deberán realizar pagos bimestrales provisionales a cuenta del impuesto anual a pagar, a más tardar el día 17 de los meses de enero, marzo, mayo, julio, septiembre y noviembre, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto realizados en el bimestre inmediato anterior. La obligación de presentar declaración bimestral subsistirá aún cuando no hubiese cantidad a pagar; y
+II. Los contribuyentes deberán realizar pagos bimestrales provisionales a cuenta del impuesto anual a pagar, a más tardar el día 17 de los meses de enero, marzo, mayo, julio, septiembre y noviembre, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto realizados en el bimestre inmediato anterior. La obligación de presentar declaración bimestral subsistirá aun cuando no hubiese cantidad a pagar, y
 
-III. Los contribuyentes presentarán sus declaraciones y efectuarán el entero del impuesto en las oficinas recaudadoras, instituciones autorizadas o a través de los medios electrónicos aprobados por la Secretaría de Finanzas y Planeación del Estado.
+III. Los contribuyentes presentarán sus declaraciones y efectuarán el entero del impuesto en las oficinas recaudadoras, instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaria.
 
 OBLIGACIONES
 
@@ -289,13 +371,17 @@ OBLIGACIONES
 
 Los contribuyentes, además de cumplir con las obligaciones señaladas en el Código Fiscal para el Estado de Morelos, deberán cumplir con las siguientes:
 
-I. Empadronarse ante la Secretaría de Finanzas y Planeación del Estado, en las oficinas que para ello autorice, dentro de los treinta días naturales siguientes a la fecha de iniciación de actividades, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exijan y señalando domicilio en el Estado; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+I. Registrarse en el Padrón Estatal de Contribuyentes ante la Secretaría, en las oficinas que para ello autorice, dentro de los veinte días hábiles siguientes a la fecha de inicio de actividades, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exijan y señalando domicilio en el Estado;
 
 II. Presentar los avisos y cumplir con las obligaciones que se señalan en el Capítulo III del Título II del Código Fiscal para el Estado de Morelos, en los casos de cambio de nombre, denominación o razón social, clausura, fusión, escisión, liquidación o transformación de personas morales, suspensión o reanudación de actividades u obligaciones, o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en los formatos oficiales de empadronamiento, dentro de los diez días naturales siguientes a la fecha en que se realice dicho cambio.
 
 III. Expedir facturas, señalando en las mismas, el impuesto por la prestación de servicios de hospedaje que se traslada, en forma expresa y desglosado.
 
-IV. Llevar y conservar los registros contables o administrativos exigidos por la ley.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IV. Llevar y conservar los registros contables o administrativos exigidos por la ley, y
 
 V. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la contabilidad, los avisos, declaraciones, datos, documentos e informes relacionados con este impuesto, dentro de los plazos y en los lugares señalados al efecto
 
@@ -303,125 +389,211 @@ V. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la co
 
 La autoridad fiscal estatal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de hospedaje en los términos que señale el Código Fiscal del Estado de Morelos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ### CAPÍTULO QUINTO. DEL IMPUESTO SOBRE DIVERSIONES
 
 ###### Artículo 29.
 
-Es objeto de este impuesto el ingreso que se obtenga por la realización de espectáculos, variedades, festivales taurinos, novilladas, charreadas, funciones de lucha libre y box, eventos deportivos, bailes, ferias, palenques, y espectáculos de cualquier otro tipo con cuota de admisión.
+Es objeto de este impuesto la percepción habitual o eventual de ingresos derivados de la realización de diversiones y espectáculos públicos con cuota de admisión.
+
+Para efectos de este impuesto se entiende por:
+
+I. Diversión pública, a la realización de eventos abiertos al público, con propósito de esparcimiento y en los cuales el asistente participa en el desarrollo de los mismos;
+
+II. Espectáculo público, a la realización de eventos en los que se asiste con el propósito de esparcimiento y en los cuales el asistente es el espectador;
+
+III. Contribuyentes habituales, a aquellas personas físicas y las personas morales que directa o indirectamente realizan más de un evento en el Ejercicio Fiscal en territorio del Estado;
+
+IV. Contribuyentes eventuales, a aquellas personas físicas y las personas morales que realicen o exploten esporádica o accidentalmente espectáculos o diversiones públicas en el territorio del Estado;
+
+V. Boleto, al pase, comprobante o cualquier otro medio que permita el acceso a la diversión o espectáculo público, con costo o de cortesía;
+
+VI. Autoridad Fiscal, a la Secretaría, y
+
+VII. Eventos generadores: De manera enunciativa, más no limitativa, los siguientes:
+
+A. Diversión pública:
+
+1) Bailes públicos;
+
+2) Patinaje en pistas, y
+
+3) Apuestas permitidas de todos los tipos;
+
+B. Espectáculo público:
+
+1) Artísticos;
+
+2) Conciertos musicales;
+
+3) Taurinos;
+
+4) De rodeos;
+
+5) Charreadas y novilladas;
+
+6) De carreras ecuestres;
+
+7) Ferias y palenques;
+
+8) Box y lucha, y
+
+9) Deportivos;
+
+C. Cualquier otro evento de igual o similar naturaleza de los señalados en los incisos anteriores.
 
 SUJETO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 30.
 
-Son sujetos de este impuesto las personas jurídico-individuales o físicas y jurídico-colectivas o morales que habitual o eventualmente obtengan ingresos por la realización de actividades gravadas en este capítulo.
+Son sujetos de este impuesto las personas físicas y las personas morales que habitual o eventualmente obtengan ingresos por la realización de las actividades gravadas en este Capítulo.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 31.
 
-Son responsables solidarios en el pago de este impuesto los que organicen, manejen, patrocinen o intervengan, sea cual fuera el nombre y función con el que lo hagan, en las actividades gravadas en este capítulo, así como los propietarios de una empresa dedicada a otro giro, cuando permitan que en su local se exploten las actividades aquí gravadas, por las cuales se cobre al espectador una cantidad adicional al precio de los servicios que tiene autorizado el establecimiento.
+Son responsables solidarios en el pago de este impuesto:
+
+I. Los propietarios o poseedores de establecimientos en los que habitual o eventualmente, por cualquier acto jurídico para la realización de diversiones y espectáculos públicos en dichos establecimientos, salvo que den aviso por escrito de la celebración del acto correspondiente a la Autoridad Fiscal a más tardar el día hábil anterior a la realización de los espectáculos o diversiones públicas;
+
+II. Aquellas personas físicas o personas morales que organicen, manejen, patrocinen o intervengan de manera directa o indirecta en las actividades gravadas en este Capítulo, sea cual fuera el nombre y función con el que lo hagan, y
+
+III. Los servidores públicos que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de diversiones o espectáculos públicos, si no expiden el informe a que se refiere el artículo 36 BIS-4 de esta Ley.
 
 BASE Y TASA
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 32.
 
-Es base del impuesto:
+Es base del impuesto el monto total de los ingresos obtenidos con motivo de la venta de boletos para la asistencia a los espectáculos o diversiones a que se refiere el presente Capítulo.
 
-I. De espectáculos y variedades: Tasa
+No se considera ingreso gravable el valor de los boletos de cortesía, de los pases y de los actos que permitan el acceso a la diversión o espectáculo público en forma gratuita, siempre que estos no excedan del 5% del importe total de la venta de boletos que se consideren ingresos gravables, en términos del primer párrafo de este artículo, por cada evento.
 
-a) Festivales taurinos:
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-1. Corridas de toros, sobre el ingreso percibido
+###### Artículo 32 Bis.
 
-por el boletaje vendido y el equivalente a los pases
-
-o cortesías; 6%
-
-2. Novilladas y charreadas, sobre el ingreso
-
-percibido por el boletaje vendido y el equivalente
-
-a los pases o cortesías; 6%
-
-b) Ferias y palenques, por el boletaje vendido y el
-
-equivalente a los pases o cortesías; 6%
-
-c) Lucha libre y box, sobre el ingreso percibido por
-
-el boletaje vendido, y el equivalente a los pases o
-
-cortesías. 6%
-
-d) Eventos Deportivos: Fútbol, béisbol y otros
-
-espectáculos similares, sobre el ingreso percibido
-
-por el boletaje vendido y el equivalente a los pases
-
-o cortesías; 6%
-
-e) Bailes:
-
-1. Sobre los ingresos por el boletaje vendido y el
-
-equivalente a los pases o cortesías; sin que el monto
-
-del impuesto sea inferior a diez días de salario
-
-mínimo general vigente en el Estado, cuando se
-
-celebren en lugares públicos o privados si se cobra
-
-por la entrada en cualquier forma de venta (boletos
-
-o de invitaciones, cuotas, donativos, cooperación,
-
-guardarropa, reservaciones de mesa, por pieza de
-
-baile, por rifas, venta de objetos); 6%
-
-2. Sobre el total de los gastos, pero sin que el monto
-
-del impuesto sea inferior a siete días de salario
-
-mínimo general vigente en el Estado, cuando se
-
-celebren en lugares públicos o privados si no se
-
-cobra por la entrada y los gastos se eroguen por
-
-los organizadores o por los asistentes; 6%
-
-II. Otros espectáculos y variedades no especificados,
-
-sobre el ingreso percibido por el boletaje vendido y el
-
-equivalente a los pases o cortesías. 4%
+El Impuesto sobre Diversiones y Espectáculos Públicos se determinará aplicando a la base la tasa del 6%.
 
 PAGO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 33.
 
-Los contribuyentes del impuesto fijado en el artículo anterior lo enterarán al finalizar la función sobre los ingresos brutos, para lo cual, la autoridad podrá designar interventores fiscales, quienes harán la liquidación respectiva y con base en la misma, el contribuyente pagará el impuesto correspondiente a dichos funcionarios, quienes a su vez, al día siguiente lo enterarán a la Secretaría de Finanzas y Planeación. Asimismo, deberán señalar su domicilio fiscal, registro federal de contribuyentes y acreditar que cuentan con las licencias o autorizaciones que se requieren para el desarrollo de las actividades a que se refiere este capítulo o para la prestación de servicios de otra naturaleza dentro del mismo local; en caso contrario, la autoridad fiscal deberá dar aviso a las autoridades correspondientes.
+El pago de este impuesto deberá realizarse ante la Autoridad Fiscal o ante las instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría, dentro de los siguientes plazos:
+
+I. Por conducto del interventor fiscal que designe la Autoridad Fiscal, al concluir la venta de boletos o el acceso al evento, conforme a la determinación del impuesto a pagar, y
+
+II. Cuando a la conclusión de la venta de boletos o del acceso al evento, ya fuera habitual o eventual, no hubiera concurrido interventor fiscal designado por la autoridad fiscal, el contribuyente presentará declaración con autodeterminación del impuesto, al siguiente día hábil, pudiendo pagar en la oficina recaudadora, instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría.
+
+La Secretaría podrá designar interventores fiscales para determinar, liquidar y recaudar el monto del impuesto a pagar, el mismo día durante el evento o previamente a su realización; quienes deberán levantar acta circunstanciada del inicio de intervención, desarrollo y cierre, recaudar el impuesto y entregar a los contribuyentes recibo oficial provisional por la cantidad efectivamente recaudada, mismo que el contribuyente deberá canjear por el comprobante fiscal digital correspondiente, en las oficinas de la Secretaría.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 34.
 
-Los municipios participarán de los ingresos que se generen por este impuesto en el cincuenta por ciento de la recaudación que en cada Municipio se obtenga por evento.
+Los Municipios participarán de los ingresos que se generen por este impuesto hasta en el setenta y cinco por ciento de la recaudación que se obtenga en cada municipio por evento, derivado de aplicar el veinticinco por ciento a la cantidad que se recaude en cada evento y, hasta el cincuenta por ciento adicional de la misma recaudación, como incentivo económico en favor de los Municipios.
 
-La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente a los Municipios que corresponda, los recursos recaudados durante el período, a más tardar el día veintisiete de los meses de enero, marzo, mayo, julio, septiembre y noviembre, debiendo publicar trimestralmente el monto que por concepto de estos ingresos participables le correspondió a cada Municipio.
+El incentivo económico se generará de los convenios que los Municipios celebren con la Secretaría, cuando aquellos opten por participar en el intercambio de información para la recaudación del impuesto a que se refiere este Capítulo.
+
+La Secretaría enterará bimestralmente a los municipios que corresponda, los recursos recaudados durante el período, a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente ejercicio, debiendo publicar semestralmente el monto que por concepto de estos ingresos participables le correspondió a cada Municipio.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 35.
 
-La autoridad fiscal estatal estará facultada para determinar presuntivamente el impuesto por espectáculos en los términos que señale el Código Fiscal del Estado de Morelos.
+La Autoridad Fiscal estará facultada para determinar presuntivamente el Impuesto sobre Diversiones y Espectáculos Públicos en los términos que señale el Código.
 
 EXENCIONES
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 36.
 
-Estarán exentos, del pago de este impuesto los espectáculos que se realicen en restaurantes, centros nocturnos, cabarets, discotecas, bares, salones de fiesta o baile, cines, y que estén gravados por el Impuesto al Valor Agregado, siempre y cuando se acredite que se encuentren al corriente en el pago de dicha contribución federal; así como las actividades organizadas por los partidos políticos y las asociaciones de asistencia y beneficencia pública legalmente constituidas, condicionados a que la exención se refleje en sus informes de financiamiento, excluyendo de estos beneficios a las peleas de gallos.
+Estarán exentos del pago de este impuesto:
+
+I. La Federación, el Estado y los Municipios, con excepción de aquellos eventos que no correspondan a sus funciones de derecho público;
+
+II. Las instituciones y asociaciones de beneficencia pública legalmente constituidas que acrediten en términos de las disposiciones fiscales que los fondos que se recauden serán destinados a actividades de beneficencia;
+
+III. Los partidos políticos con registro, cuando los eventos que se realicen sean con el objeto de allegarse de recursos para el cumplimiento de sus fines, y
+
+IV. Los espectáculos que se realicen en restaurantes, centros nocturnos, cabarets, discotecas, bares, salones de fiesta o baile y cines, que estén gravados por el Impuesto al Valor Agregado y no se cobren cantidades adicionales por los eventos objeto de este impuesto.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 36 Bis
+
+1. Los contribuyentes habituales tendrán las siguientes obligaciones:
+
+I. Registrarse en el Padrón Estatal de Contribuyentes a más tardar quince días antes al que vayan a dar principio las actividades gravadas;
+
+II. Presentar los avisos de cambio de domicilio o suspensión de actividades, ante la autoridad fiscal, dentro de los tres días siguientes a la fecha en que ocurran tales hechos o circunstancias;
+
+III. Dar aviso por escrito a la autoridad fiscal de los permisos o autorizaciones que les otorguen las autoridades competentes para la realización de espectáculos o diversiones públicas, a más tardar el día anterior a su realización;
+
+IV. Amparar la cuota de admisión con boleto. Dicho comprobante debe contener pre impreso como mínimo los siguientes datos: folio, el nombre o denominación social del contribuyente, espectáculo o diversión de que se trate, precio, fecha e indicarse cuando sea boleto de cortesía;
+
+V. Conservar los talonarios de boletos, en los términos que se establecen en el Código;
+
+VI. Notificar por escrito a la Autoridad Fiscal de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función de la diversión o espectáculo público, a más tardar el mismo día de la celebración de dichos eventos, pero antes de que se lleven a cabo los mismos;
+
+VII. Permitir en los eventos la presencia de los interventores fiscales que hayan sido designados por la autoridad fiscal, quienes darán cuenta de los ingresos obtenidos por la venta de boletos pudiendo éstos recaudar y expedir el recibo oficial provisional al final del evento, el cual será canjeado por el Comprobante Fiscal Digital correspondiente, dentro de los siguientes tres días hábiles, para ello el contribuyente deberá suscribir la declaración definitiva;
+
+VIII. Cuando no se presente el interventor fiscal, presentar la declaración correspondiente mediante autodeterminación del impuesto a pagar respecto a cada evento a más tardar el día diecisiete del mes siguiente a la realización del evento, y
+
+IX. Exhibir ante la Autoridad Fiscal los libros, registros y documentos relacionados con el o los eventos, cuando ésta así se lo requiera, mediante el ejercicio de facultades de comprobación.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 36 Bis
+
+2. Los contribuyentes eventuales deberán cumplir con las siguientes obligaciones:
+
+I. Constituir garantía del interés fiscal, en alguna de las formas previstas en el Código ante la Autoridad Fiscal, previamente a la realización del evento o eventos, por un monto equivalente al veinticinco por ciento del costo total de los boletos emitidos;
+
+II. En los casos que no hubiere concurrido interventor fiscal, deberá presentar declaración de pago mediante autodeterminación del impuesto a pagar respecto del evento;
+
+III. Exhibir ante la Autoridad Fiscal los libros, registros y documentos relacionados con los eventos, cuando ésta así se lo requiera;
+
+IV. Presentar aviso por escrito ante la Autoridad Fiscal en los siguientes casos:
+
+a) De las autorizaciones o permisos que les sean otorgados por las autoridades competentes para la realización de diversiones o espectáculos públicos que indique el inicio o el periodo durante el que se realizará la diversión o el espectáculo, a más tardar el día anterior al que éstos inicien;
+
+b) En los casos de suspensión temporal o definitiva de la diversión o espectáculo público, a más tardar el día del evento, pero antes de la hora que se tenía programado, y sólo en caso de suspensión definitiva se podrá cancelar parcial o totalmente la garantía otorgada, según corresponda;
+
+c) Cuando se amplíe el período en que se realizarán los espectáculos o diversiones públicas, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar, en cuyo caso se deberá ampliar la garantía otorgada, y
+
+d) Respecto de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que corresponden a cada función de la diversión o espectáculo público, a más tardar el mismo día de la celebración de dichos eventos, pero antes de que se lleven a cabo los mismos, en cuyo caso se deberá ajustar la garantía en la proporción que corresponda;
+
+V. Entregar por cada cuota de admisión un boleto de entrada. Dicho boleto debe contener pre impreso como mínimo los siguientes datos: folio, el nombre o denominación social del contribuyente, espectáculo o diversión de que se trate, precio, fecha e indicarse cuando sea boleto de cortesía;
+
+VI. Permitir en los eventos la presencia de los interventores fiscales que hayan sido designados por la Autoridad Fiscal, quienes darán cuenta de los ingresos obtenidos, debiendo éstos recaudar el impuesto correspondiente y expedir el recibo oficial provisional al final del evento, el cual deberá ser canjeado por el Comprobante Fiscal Digital correspondiente, dentro de los siguientes tres días hábiles, para ello el contribuyente deberá presentar la declaración correspondiente, la cual tendrá carácter de definitiva.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 36 Bis
+
+3. Cuando no se cumplan las obligaciones previstas en esta Ley, la Autoridad Fiscal, mediante mandamiento escrito podrá suspender el evento, solicitando en su caso el auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 36 Bis
+
+4. Los funcionarios encargados de dar permiso o licencia para la celebración de cualquier diversión o espectáculo público deberán informar a la autoridad fiscal de las autorizaciones que otorguen a más tardar el día hábil anterior al de la realización de los eventos generadores del impuesto; en los términos de los Convenios de Colaboración que al efecto celebre la Secretaría con los Municipios.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 36 Bis
+
+5. Este impuesto en ningún caso deberá ser trasladado al adquirente del boleto.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO SEXTO
 
@@ -431,59 +603,55 @@ OBJETO
 
 ###### Artículo 37.
 
-Es objeto de este impuesto, la explotación comercial de las diversiones siguientes: mesas de billar o boliche, dominó, dados, cubilete y juegos electrónicos.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 38.
 
-Son sujetos de este impuesto, las personas físicas o morales, ya sean propietarias o arrendatarias de los establecimientos donde tenga acceso el público, en que se practiquen las diversiones a que se refiere este capítulo.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 39.
 
-La base para el pago del impuesto sobre diversiones será por mesa o clase de diversión, debiendo liquidarse por bimestre, en pago anticipado, dentro de los primeros quince días naturales del primer mes de cada bimestre, de acuerdo con la siguiente tarifa:
-
-I.- Mesa o pista de boliche, por cada una: Quince salarios mínimos.
-
-II.- Mesa de billar, por cada una: Cinco salarios mínimos.
-
-III.- Mesas de juegos de dominó, cubilete, dados y similares, por cada una: Dos salarios mínimos.
-
-IV.- Juegos electrónicos, por cada equipo: Diez salarios mínimos.
-
-V.- Otros no especificados, por cada uno: Cinco salarios mínimos.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 40.
 
-Los municipios participarán de los ingresos que se generen por este impuesto en el cincuenta por ciento de la recaudación que en cada Municipio se obtenga por juego.
-
-La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente a los Municipios que correspondan los recursos recaudados durante el período, a más tardar el día veintisiete de los meses de enero, marzo, mayo, julio, septiembre y noviembre, debiendo publicar trimestralmente el monto que por concepto de estos ingresos participables le correspondió a cada municipio.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 41.
 
-El pago de este impuesto no libera a las personas físicas o morales de la obligación de tramitar y obtener, cuando otros ordenamientos jurídicos lo determinen, las licencias o autorizaciones que se requieran para el desarrollo de las actividades a que se refiere este capítulo o para la prestación de servicios de otra naturaleza dentro del mismo local, así como del pago de las contribuciones correspondientes a los mismos.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 EXENCIONES
 
 ###### Artículo 42.
 
-No se causará este impuesto en los clubes de servicio y en los establecimientos en los que su licencia permita el uso gratuito de mesas y equipo de juegos.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ### CAPÍTULO SÉPTIMO. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, JUEGOS PERMITIDOS CON APUESTA Y LA OBTENCIÓN DE PREMIOS EN APUESTAS PERMITIDAS
 
 OBJETO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 43.
 
 Es objeto de este impuesto el pago por los servicios de parques acuáticos, balnearios y demás establecimientos de recreación con acceso a deportes acuáticos, siempre que los servicios se presten dentro del territorio del Estado de Morelos, independientemente del lugar en donde se realice el pago del boletaje.
 
-Para los efectos de este impuesto se considera servicio de parques acuáticos y balnearios, la utilización de las instalaciones y servicios con los que cuenta un parque acuático, balneario y demás establecimientos de recreación con acceso a deportes acuáticos, mediante el pago de un precio determinado.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Para los efectos de este impuesto se considera servicio de parques acuáticos y balnearios, la utilización de las instalaciones y servicios con los que cuenta un parque acuático, balneario y demás establecimientos de recreación con acceso a deportes acuáticos, mediante el pago de un precio determinado o contraprestación.
 
 SUJETO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 44.
 
-Son sujetos del Impuesto las personas jurídico individuales o físicas y jurídico colectivas o morales que reciban los servicios a que se refiere el artículo precedente, aún cuando tengan su domicilio fiscal en lugar distinto de la prestación del servicio.
+Son sujetos del impuesto las personas físicas y las personas morales que reciban los servicios a que se refiere el artículo precedente, aun cuando tengan su domicilio fiscal en lugar distinto de la prestación del servicio.
 
-Las personas jurídico individuales o físicas y jurídico colectivas o morales, que presten los servicios de parques acuáticos y balnearios, tendrán el carácter de retenedores respecto a este impuesto, por lo que estarán obligados a la retención y entero del impuesto.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las personas físicas y las personas morales, que presten los servicios de parques acuáticos, balnearios y demás establecimientos de recreación con acceso a deportes acuáticos, tendrán el carácter de retenedores respecto a este impuesto.
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
 
@@ -497,11 +665,15 @@ TASA
 
 Los retenedores calcularan el impuesto sobre la prestación de los servicios de parques acuáticos y balnearios, aplicando la tasa del 2% utilizando como base la cantidad que se reciba por cada boleto efectivamente pagado por concepto de servicios de parques acuáticos y balnearios y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
 
-I. El impuesto se calculará por ejercicios fiscales, presentando la declaración anual en el primer bimestre del siguiente año. Los pagos provisionales se acreditarán en la declaración anual;
+I. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
 
-II. Los retenedores deberán realizar pagos bimestrales provisionales a cuenta del impuesto anual a pagar, a más tardar el día 17 de los meses de enero, marzo, mayo, julio, septiembre y noviembre, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto, realizados en el bimestre inmediato anterior. La obligación de presentar declaración bimestral subsistirá aún cuando no hubiese cantidad a pagar; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-III. Los retenedores presentarán sus declaraciones y efectuarán el entero del impuesto en las oficinas recaudadoras, instituciones autorizadas o a través de los medios electrónicos aprobados por la Secretaría de Finanzas y Planeación del Estado.
+II. Los retenedores deberán realizar pagos bimestrales definitivos, a más tardar el día diecisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del ejercicio siguiente, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto, realizados en el bimestre inmediato anterior. La obligación de presentar declaración bimestral subsistirá aun cuando no hubiese cantidad a pagar, y
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III. Los retenedores presentarán sus declaraciones y efectuarán el entero del impuesto en las oficinas recaudadoras, instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría.
 
 OBLIGACIONES
 
@@ -509,47 +681,61 @@ OBLIGACIONES
 
 Los retenedores serán responsables solidarios de este impuesto, quienes además de cumplir con las obligaciones señaladas en el Código Fiscal para el Estado de Morelos, deberán cumplir con las siguientes:
 
-I. Empadronarse ante la Secretaría de Finanzas y Planeación del Estado, en las oficinas que para ello autorice, dentro de los treinta días naturales siguientes a la fecha de iniciación de actividades, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exijan y señalando domicilio en el Estado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-II. Presentar los avisos y cumplir con las obligaciones que se señalan en el Capítulo III del Título II del Código Fiscal para el Estado de Morelos, en los casos de cambio de nombre, denominación o razón social, clausura, fusión, escisión, liquidación o transformación de personas morales, suspensión o reanudación de actividades u obligaciones, o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en los formatos oficiales de empadronamiento, dentro de los diez días naturales siguientes a la fecha en que se realice dicho cambio;
+I. Registrarse en el Padrón Estatal de Contribuyentes ante la Secretaría o en las oficinas que para ello autorice, dentro de los veinte días siguientes a la fecha de iniciación de actividades, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exijan y señalando domicilio en el Estado;
 
-III. Expedir recibos fiscales, señalando en los mismos, el impuesto sobre balnearios que se traslada en forma expresa y desglosada, a quien reciba los servicios a que se refiere este capítulo;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-IV. Llevar y conservar los registros contables o administrativos exigidos por la ley;
+II. Presentar los avisos y cumplir con las obligaciones que se señalan en el Código, en los casos de cambio de nombre, denominación o razón social, clausura, fusión, escisión, liquidación o transformación de personas morales, suspensión o reanudación de actividades u obligaciones, o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en los formatos oficiales de Registro al Padrón Estatal de Contribuyentes, dentro de los diez días siguientes a la fecha en que se realice dicho cambio;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III. Expedir comprobantes fiscales, señalando en los mismos, el impuesto retenido a que se refiere este Capítulo a quien reciba los servicios a que se refiere este capítulo;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IV. Llevar y conservar los registros contables exigidos por la ley de la materia, y
 
 V. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la contabilidad, los avisos, declaraciones, datos, documentos e informes relacionados con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 47.
 
-La autoridad fiscal estatal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de parques acuáticos y balnearios en los términos que señale el Código Fiscal del Estado de Morelos.
+La Autoridad Fiscal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de parques acuáticos, balnearios y demás establecimientos de recreación con acceso a deportes acuáticos, en los términos que señale el Código.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 48.
 
-Los recursos que genere el Impuesto sobre los Servicios de Parques Acuáticos y Balnearios y que le sean destinados y/o transferidos serán aplicados en los siguientes términos: en un 95% para promoción turística en general, misma que abarcará los segmentos de grupos y convenciones; el turismo de ocio; el turismo de alta calidad; la promoción y difusión institucional; así como los gastos administrativos y de operatividad del Fideicomiso Turismo Morelos, mismos que serán del 6% del monto total destinado para la promoción turística en general; y el 5% restante se destinará a cubrir los gastos administrativos que la recaudación genera por parte del Estado. Esta última cantidad quedará a favor del Gobierno del Estado.
+Los recursos que genere el impuesto sobre los servicios de parques acuáticos, balnearios y demás establecimientos de recreación con acceso a deportes acuáticos, serán aplicados en los siguientes términos; en un noventa y cinco por ciento para la promoción turística en general, misma que abarcará los segmentos de grupos y convenciones; el turismo de ocio; el turismo de alta calidad; la promoción y difusión institucional; así como los gastos administrativos y de operatividad del Fideicomiso Público Turismo Morelos, mismos que serán del seis por ciento del monto total destinado para la promoción turística en general; y el cinco por ciento restante se destinará a cubrir los gastos administrativos que la recaudación genera por parte del Estado. Esta última cantidad quedará a favor del Gobierno del Estado.
 
 Lo anterior, en el entendido que dentro del concepto de promoción en general se engloba: espectaculares, medios de comunicación (periódico, tv, radio, etc.), campañas de internet, realización de páginas de internet, centro de reservaciones, pago de stands, incluyendo asistencia y viáticos de ferias, eventos, asambleas, congresos y seminarios, impresión de folletería, revistas especializadas, artículos promocionales, producción de video y banco de imágenes, así como una partida destinada a relaciones públicas.
 
-La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente al Fideicomiso Público, el noventa y cinco por ciento de los recursos recaudados durante el periodo, en que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina y/o transfiera a más tardar el día veintisiete de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO SÉPTIMO BIS. DEL IMPUESTO SOBRE NÓMINAS
+La Secretaría enterará bimestralmente al Fideicomiso Público, el noventa y cinco por ciento de los recursos recaudados durante el periodo, en que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina y/o transfiera a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del ejercicio siguiente.
+
+### CAPÍTULO SÉPTIMO BIS. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 OBJETO
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 49.
 
-Es objeto de este impuesto el ingreso que obtengan las personas jurídico-individuales o físicas y jurídico-colectivas o morales, que lleven a cabo, cubran o paguen loterías, juegos permitidos con apuesta, sorteos, rifas, así como aquellos que obtengan premios en apuestas permitidas.
+Es objeto de este impuesto el ingreso que obtengan las personas físicas y las personas morales, que lleven a cabo, cubran o paguen loterías, juegos permitidos con apuesta, sorteos, rifas, así como aquellos que obtengan premios en apuestas permitidas.
 
 SUJETO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 50.
 
-Son sujetos de estos impuestos las personas jurídico-individuales o físicas y jurídico-colectivas o morales que lleven a cabo, cubran o paguen las apuestas en juegos permitidos y los que perciban los premios de loterías y apuestas autorizadas.
+Son sujetos de este impuesto las personas físicas y las personas morales que lleven a cabo, cubran o paguen las apuestas en juegos permitidos y las que perciban los premios de loterías y apuestas autorizadas.
 
 ###### Artículo 51.
 
@@ -577,9 +763,9 @@ b) Otros juegos no especificados, sobre el ingreso
 
 percibido por el boletaje vendido; 4%
 
-c) Por la obtención de premios en sorteos, loterías
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-o rifa, sobre el ingreso percibido en premios; y 0%
+c) Por la obtención de premios en sorteos, 4% loterías o rifa, sobre el ingreso percibido en premios; y
 
 d) Por la obtención de premios en apuestas
 
@@ -591,75 +777,125 @@ Son responsables solidarios del pago de este impuesto, las personas físicas o m
 
 PAGO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 54.
 
 Los contribuyentes del impuesto fijado en el artículo anterior lo enterarán en la forma siguiente:
 
-I. Los comprendidos en los incisos a) y c) de la fracción, lo cubrirán dentro de la semana posterior a los sorteos o rifas;
+I. Cuando se realicen, se cubran o se paguen loterías, juegos permitidos con apuesta, sorteos, rifas, en establecimientos fijos de manera permanente, dentro de los primeros diecisiete días del mes siguiente al en que se hubiesen percibido los ingresos objeto del gravamen, y
 
-II. Los comprendidos en el inciso b) de la fracción I, lo pagarán el día de la función; y
+II. Cuando se trate de contribuyentes eventuales:
 
-III. Los comprendidos en el inciso d) de la fracción I, lo pagarán a más tardar el día hábil siguiente de aquel en que se hayan registrado las apuestas.
+a) Los comprendidos en los incisos a) y c) del artículo anterior, lo cubrirán dentro de la semana posterior a los sorteos o rifas;
+
+b) Los comprendidos en el inciso b) del artículo anterior, lo pagarán el día de la función; y
+
+c) Los comprendidos en el inciso d) del artículo anterior, lo pagarán a más tardar el día hábil siguiente de aquel en que se hayan registrado las apuestas.
+
+Lo dispuesto en esta fracción no será aplicable cuando los contribuyentes a que se refiere este Capítulo, hayan celebrado convenio de pago con la Secretaría o se encuentren registrados en el Padrón Estatal de Contribuyentes con obligación del Impuesto sobre Espectáculos y Diversiones, reservándose la Secretaría la designación de interventores.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 54 Bis.
+
+La Secretaría podrá designar interventores para determinar, liquidar y retener el monto del impuesto a pagar, el mismo día o en la función que corresponda; para lo cual los organizadores o representantes legales deberán prestar todas las facilidades legales para el cálculo y entero del impuesto.
+
+Los interventores designados deberán levantar acta circunstanciada del inicio de intervención, desarrollo y cierre, retener el impuesto y entregar a los contribuyentes recibo oficial provisional por la cantidad efectivamente retenida, mismo que deberá canjearse por el comprobante fiscal digital correspondiente en las oficinas de la Secretaría.
 
 ###### Artículo 55.
 
 Los municipios participarán de los ingresos que se generen por este impuesto en el cincuenta por ciento de la recaudación que se obtenga en cada Municipio por evento o monto de premio obtenido.
 
-La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente a los Municipios que correspondan los recursos recaudados durante el período, a más tardar el día veintisiete de los meses de enero, marzo, mayo, julio, septiembre y noviembre, debiendo publicar trimestralmente el monto que por concepto de estos ingresos participables le correspondió a cada Municipio.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría enterará bimestralmente la participación que corresponde a los Municipios de los recursos recaudados durante el período, a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del ejercicio siguiente, debiendo publicar trimestralmente el monto que por concepto de estos ingresos participables le correspondió a cada Municipio.
 
 OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 56.
 
-Los explotadores de juegos permitidos con apuestas liquidables en dinero o en especie, deberán retener el o los impuestos a cargo de los sujetos que participen o cubran las apuestas, así como de los que obtengan los premios resultantes de los juegos o sorteos y enterarlos al término del evento o bien dentro de los diez días hábiles siguientes a la fecha de la celebración del evento.
+Los explotadores de juegos permitidos con apuestas liquidables en dinero o en especie, deberán retener el o los impuestos a cargo de los sujetos que participen o cubran las apuestas, así como de los que obtengan los premios resultantes de los juegos o sorteos y enterarlos a más tardar en los plazos que establece el artículo 54 de esta Ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 57.
 
-Los organizadores de sorteos, rifas, loterías, y de cualquier otro evento o juego autorizado con apuesta o premio, deberán presentar a la administración o recaudación de rentas que corresponda al lugar del evento, una manifestación en la que comprobarán que han cumplido con los requisitos que las leyes de la materia impongan, antes de iniciar la venta o distribución de las participaciones.
+Los organizadores de sorteos, rifas, loterías, y de cualquier otro evento o juego autorizado con apuesta o premio, deberán comprobar ante la oficina recaudadora que corresponda al lugar del evento, que han cumplido con los requisitos que las leyes de la materia impongan, antes de iniciar la venta o distribución del boletaje o participaciones a los eventos o juegos.
 
 EXENCIONES
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 58.
 
-No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, conforme a la Ley Federal de Juegos y Sorteos, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, sin embargo, deberán cumplir con las obligaciones de retención que éste u otros impuestos les obliguen.
+No causarán este impuesto los Partidos Políticos en los términos de la legislación electoral correspondiente.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
+### CAPÍTULO SÉPTIMO TER. DEL IMPUESTO SOBRE LAS DEMASÍAS CADUCAS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 OBJETO
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 58 Bis
 
-1.- Es objeto de este impuesto, el pago que en efectivo o en especie, realicen las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) en el Estado de Morelos, por concepto de remuneraciones al trabajo personal prestado bajo la subordinación de las mismas con carácter de patrón.
+1. Es objeto de este impuesto el pago que, en efectivo o en especie, realicen las personas físicas y las personas morales, por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado.
 
-Quedan incluidas las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) que sin estar domiciliadas en el Estado de Morelos, tengan personal subordinado dentro del Estado en sucursales, bodegas, agencias y otras dependencias.
+Quedan incluidas las personas físicas y las personas morales que sin estar domiciliadas en el Estado de Morelos, realicen erogaciones por remuneraciones al trabajo personal, prestado dentro del Estado en sucursales, bodegas, agencias y otras áreas de trabajo.
 
-Para efectos de este impuesto, se consideran remuneraciones al trabajo personal subordinado, las contraprestaciones ordinarias o extraordinarias, que realicen los patrones a favor de sus empleados, siendo las siguientes:
+Para efectos de este impuesto, se consideran erogaciones por remuneraciones al trabajo personal, las contraprestaciones ordinarias o extraordinarias, que realicen los patrones o terceros a favor de sus empleados, siendo las siguientes:
 
 I. Sueldos y salarios;
 
 II. Tiempo extraordinario de trabajo;
 
-III. Compensaciones;
+III. Premios, primas, bonos, estímulos e incentivos;
 
-IV. Gratificaciones y aguinaldos;
+IV. Compensaciones;
 
-V. Comisiones;
+V. Gratificaciones y aguinaldos;
 
-VI. Indemnizaciones por despido o terminación de la relación laboral.
+VI. Participación patronal al fondo de ahorros;
+
+VII. Primas de antigüedad;
+
+VIII. Pagos de Participación de los trabajadores en las utilidades;
+
+IX. Comisiones;
+
+X. Pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones;
+
+XI. Pago de servicio de comedor y comida proporcionada a los trabajadores;
+
+XII. Pago de vales de despensa;
+
+XIII. Pago de servicios de transporte;
+
+XIV. Pago de seguro para gastos médicos o seguro de vida;
+
+XV. Pagos realizados a personas físicas que le presten servicios independientes en aquellos casos en los que la Ley del Impuesto sobre la Renta asimile a salarios, y
+
+XVI. Cualquier otra erogación realizada como contraprestación por concepto de servicio personal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 SUJETO
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 58 Bis
 
-2.- Son sujetos de este impuesto las personas jurídico-individuales (físicas) y jurídico-colectivas (morales), obligadas a efectuar los pagos a que se refiere el artículo anterior.
+2. Son sujetos de este impuesto las personas físicas y las personas morales, obligadas a efectuar los pagos a que se refiere el artículo anterior.
 
-Serán responsables solidarios del pago de este impuesto las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) que contraten y reciban la prestación del trabajo personal subordinado, aún cuando el pago del salario se realice por otra persona.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Serán responsables solidarios del pago de este impuesto las personas físicas y las personas morales que contraten y reciban la prestación del trabajo personal, aun cuando el pago del salario se realice por otra persona.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -671,21 +907,23 @@ La Federación, el Estado, los Municipios, sus entidades paraestatales y los org
 
 BASE
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 58 Bis
 
-3.- Es base del impuesto sobre nóminas, el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado.
+3. Es base del impuesto sobre erogaciones por remuneraciones al trabajo personal, el monto total de las contraprestaciones realizadas por concepto de remuneraciones al trabajo personal.
+
+El impuesto se causará en el momento que se realice el pago por remuneraciones al trabajo personal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 TASA
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 58 Bis
+###### Artículo 58
 
-4.- El Impuesto Sobre Nóminas se determinará aplicando la tasa del 2% sobre el monto total de las erogaciones efectuadas por concepto de remuneraciones al trabajo personal subordinado.
+Bis-4. El impuesto sobre erogaciones por remuneraciones al trabajo personal se determinará aplicando la tasa del 2% sobre el monto total de las erogaciones efectuadas por concepto de remuneraciones al trabajo personal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -697,7 +935,9 @@ PAGO
 
 5.- El pago de este impuesto deberá efectuarse a más tardar el día 17 del mes siguiente en que se causó.
 
-Dicho pago se hará mediante declaración en las oficinas de recaudación fiscal que correspondan, en las formas oficiales o ante las instituciones de crédito autorizadas por la Secretaría de Finanzas y Planeación del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Dicho pago se hará mediante declaración en las oficinas recaudadoras que correspondan o ante las Instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría.
 
 La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
 
@@ -713,23 +953,59 @@ EXENCIONES
 
 I. Las erogaciones que se cubran por concepto de:
 
-a) Participaciones de los trabajadores en las utilidades de las empresas;
+a) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 b) Indemnizaciones por riesgos o enfermedades de trabajo, que se concedan de acuerdo con las leyes o contratos respectivos;
 
 c) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
 
-d) Indemnizaciones por rescisión o terminación de la relación laboral, que tenga su origen en la prestación de servicios personales subordinados;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+d) Indemnizaciones y primas por rescisión o terminación de la relación laboral, que tenga su origen en la prestación de servicios personales;
 
 e) Pagos por gastos funerarios;
 
-f) Gastos de viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto Sobre la Renta;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+f) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto Sobre la Renta;
 
 g) Aportaciones al INFONAVIT, Fondos para el retiro constituidos con arreglo a las Leyes de la materia y cuotas al IMSS a cargo del patrón;
 
-h) Pagos a trabajadores domésticos; e,
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-i) Remuneración al trabajo personal subordinado a favor de empleados mayores de 60 años de edad o personas con capacidades diferentes.
+h) Pagos a trabajadores domésticos;
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+i) Remuneración al trabajo personal subordinado a favor de empleados mayores de 60 años de edad o personas con capacidades diferentes;
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+j) El ahorro, siempre que se integre por un depósito por cantidad igual del trabajador y de la empresa, así como las cantidades otorgadas por el patrón para fines sociales y sindicales;
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+k) Los premios por asistencia y puntualidad, siempre que el importe de cada uno no rebase el 10% del salario base;
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+l) Los pagos por tiempo extraordinario, cuando éste no rebase tres horas diarias ni tres veces por semana de trabajo y tampoco cuando estos servicios se pacten en forma y tiempo fijo;
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+m) La alimentación y habitación, cuando se otorguen con cargo al salario del trabajador,
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+n) Las prestaciones de uniformes de trabajo o deportivos, festejos de convivios, becas para los trabajadores o sus familias.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+o) Primas de seguros por gastos médicos o de vida; y
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+p) Las despensas en dinero o en especie, cuando su monto mensual no rebase el 40% del salario mínimo general vigente en el Estado elevado al mes;
 
 Para que los conceptos mencionados se exenten deberán estar debidamente comprobados.
 
@@ -743,7 +1019,9 @@ b) Instituciones sin fines de lucro que realicen o promuevan asistencia social e
 
 c) Asociaciones de trabajadores y colegios de profesionistas; y
 
-d) Empresas de nueva creación, durante el primer año calendario, contado a partir de que inicien sus operaciones en el Estado de Morelos.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+d) Empresas de nueva creación, durante los doce meses posteriores a la fecha de su creación, contados a partir de que inicien sus operaciones en el Estado de Morelos, acreditando la creación de, cuando menos, cinco empleos permanentes, así como los permisos, autorizaciones o licencias para su funcionamiento, en términos de la presente fracción.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -769,21 +1047,25 @@ V. Los contribuyentes que teniendo sus matrices fuera del Estado, establezcan de
 
 VI. Conservar la documentación comprobatoria del pago de las remuneraciones objeto de este impuesto, y
 
-VII. Las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) que reciban las prestaciones del trabajo personal subordinado y que no hagan las erogaciones objeto de este impuesto deberán de presentar su aviso de inscripción para efectos de control, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VII. Las personas físicas y las personas morales que reciban las prestaciones del trabajo personal y que no hagan las erogaciones objeto de este impuesto, deberán de presentar su aviso de inscripción para efectos de control, exhibiendo copia del contrato de prestación de servicio ante la oficina recaudadora que corresponda a su domicilio y proporcionar los datos que identifiquen a la persona física o moral que haga dichas erogaciones, así como el número total de personas que presten el trabajo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 58 Bis
 
-8.- La realización de pagos por concepto del Impuesto Sobre Nóminas, no causará el Impuesto Adicional, a que se refiere esta Ley.
+8. La realización de pagos por concepto del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, no causará el Impuesto Adicional, a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Artículo 58 BIS-9. Del total de los recursos que genere el Impuesto sobre Nóminas, se destinará un cincuenta por ciento para la integración del Fondo de Competitividad y Promoción del Empleo; con excepción de la recaudación que derive de los Ayuntamientos Municipales, Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, organismos descentralizados estatales y municipales, fideicomisos públicos estatales y municipales; que no se integrará al referido Fondo.
+###### Artículo 58 Bis
+
+9. Del total de los recursos que genere el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, se destinará un cincuenta por ciento para la integración del Fondo de Competitividad y Promoción del Empleo; con excepción de la recaudación que derive de los Ayuntamientos Municipales, Poderes Ejecutivo, Legislativo y Judicial, órganos Autónomos, Organismos Públicos Descentralizados Estatales y Municipales, Fideicomisos Públicos Estatales y Municipales; que no se integrará al referido Fondo.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -791,9 +1073,81 @@ Artículo 58 BIS-9. Del total de los recursos que genere el Impuesto sobre Nómi
 
 10.- Para la administración de los recursos a que se refiere el artículo anterior, se constituirá un Fideicomiso Ejecutivo.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 Para la aplicación y destino de los recursos del Fideicomiso, se conformará un Comité Técnico, integrado por un Presidente, que será el Titular del Poder Ejecutivo del Estado, quien tendrá voto de calidad, dos representantes más del Poder Ejecutivo y tres miembros del sector empresarial organizado.
 
-La Secretaría de Finanzas y Planeación del Estado, enterará mensualmente al Fideicomiso los recursos que le corresponden a más tardar el último día de cada mes, respecto a la recaudación del mes inmediato anterior.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría enterará mensualmente al Fideicomiso los recursos que le corresponden a más tardar el último día de cada mes, respecto a la recaudación del mes inmediato anterior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
+
+OBJETO
+
+###### Artículo 58 Ter
+
+1. Es objeto de este impuesto las demasías caducas, siendo éstas los remanentes que quedan a favor del deudor prendario y que puestos a disposición de éste último no son cobrados a las casas de empeño, después de que éstas últimas descuentan al monto de la venta de la prenda, el monto del préstamo, los intereses devengados y los gastos de almacenaje.
+
+Para efectos de lo dispuesto en el párrafo anterior, se entenderá por gastos de almacenaje a todas aquellas erogaciones que se realicen para mantener la prenda en el estado en que se recibió del deudor prendario.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 58 Ter
+
+2. Son sujetos .de este impuesto las personas físicas y las personas morales que se dediquen a efectuar préstamos de dinero al público derivados de la celebración de Contratos de Mutuo con Interés y Garantía Prendaria o asimilable a éste.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+BASE
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 58 Ter
+
+3. Es base de este impuesto la suma total de las demasías caducas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+TASA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 58 Ter
+
+4. Este impuesto se causará y pagará aplicando a la base la tasa del 15%.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+PAGO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 58 Ter
+
+5. El pago de este impuesto se efectuará mediante declaración mensual definitiva, en la Secretaría, instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría, dentro de los primeros 17 días del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 58 Ter
+
+6. Son obligaciones de los sujetos:
+
+I. Llevar y conservar los registros contables o administrativos exigidos por la ley;
+
+II. Expedir los comprobantes que reúnan los requisitos fiscales a que aluden las disposiciones fiscales federales, y
+
+III. Presentar declaración informativa mensual, de acuerdo a las reglas de carácter general que al efecto expida la Secretaría.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -803,7 +1157,7 @@ La Secretaría de Finanzas y Planeación del Estado, enterará mensualmente al F
 
 ### CAPÍTULO PRIMERO. REGISTRO PÚBLICO DE LA PROPIEDAD
 
-### CAPÍTULO SEGUNDO. REGISTRO PÚBLICO DEL COMERCIO
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 59.
 
@@ -845,7 +1199,7 @@ El entero del impuesto se hará en el momento en que se realicen los pagos objet
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPÍTULO TERCERO. SERVICIOS DE ARCHIVO Y NOTARIALES
+### CAPÍTULO SEGUNDO. REGISTRO PÚBLICO DEL COMERCIO
 
 ###### Artículo 65.
 
@@ -853,7 +1207,9 @@ Las contribuciones especiales a que se refiere el presente Título, son las pres
 
 Por su parte, para esta acción de gobierno, el Ejecutivo dispondrá de hasta un treinta por ciento del importe del gasto público destinado a obra, que haya sido autorizado para cada sector económico, social o de servicios, en el Presupuesto de Egresos del ejercicio fiscal que corresponda. Así, previa autorización del Congreso del Estado y firmados los convenios entre las partes, los recursos serán aplicados exclusivamente para la realización de obra pública, que demande el propio sector al que originalmente fueron asignados. De acuerdo con el monto a erogar, en cada caso, se atenderá a lo dispuesto por la Ley de la materia
 
-La Secretaría de Finanzas y Planeación del Estado, por conducto de la autoridad competente, notificará a cada uno de los contribuyentes el monto que le corresponda pagar por concepto de contribuciones especiales, pudiendo ser estas aportaciones tanto en dinero, especie o servicios, de acuerdo al convenio celebrado, señalando el plazo para el pago.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría, por conducto de la autoridad competente, notificará a cada una de las personas físicas y las personas morales el monto que le corresponda pagar por concepto de contribuciones especiales, pudiendo ser estas aportaciones tanto en dinero, especie o servicios, de acuerdo al Convenio celebrado, señalando el plazo para el pago.
 
 Las autoridades fiscales podrán autorizar, conforme a reglas de carácter general, que las contribuciones especiales se paguen en parcialidades, tomando en consideración la situación económica de las personas obligadas a pagar la contribución de que se trate. En este caso, se convertirá en crédito fiscal, haciéndose exigible la garantía correspondiente.
 
@@ -861,7 +1217,7 @@ Las autoridades fiscales podrán autorizar, conforme a reglas de carácter gener
 
 Los contribuyentes que prefieran hacer el pago total de la liquidación a su cargo en una sola exhibición, tendrán derecho a un descuento del 12% sobre el monto del pago anticipado.
 
-### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN ESTATAL DEL REGISTRO CIVIL
+### CAPÍTULO TERCERO. SERVICIOS DE ARCHIVO Y NOTARIALES
 
 ###### Artículo 67.
 
@@ -931,7 +1287,7 @@ El monto de las cuotas, en cada caso concreto deben pagarse, distribuyendo el co
 
 Para los efectos de este Capítulo cuando se trate de obra de pavimentación o reparación, su duración mínima será de diez años y en consecuencia, no se podrá acordar un nuevo cobro por el mismo concepto durante este plazo.
 
-### CAPÍTULO QUINTO. SERVICIOS DE CONTROL VEHICULAR
+### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN ESTATAL DEL REGISTRO CIVIL
 
 ###### Artículo 70.
 
@@ -1045,17 +1401,17 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
-### CAPÍTULO SEXTO. SERVICIOS RELACIONADOS CON EL DESARROLLO SUSTENTABLE
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO QUINTO. SERVICIOS DE CONTROL VEHICULAR
 
 ###### Artículo 76.
 
-Los servicios que se presten por el Registro Público de la Propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley.
+Los servicios que se presten en materia de Registro Público de la Propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 77.
 
-Los derechos por el Registro Público de la Propiedad se causarán en los siguientes términos:
+Los derechos por los servicios de Registro Público de la Propiedad se causarán en los siguientes términos:
 
 I. Por la calificación de todo documento que se devuelva sin que se preste el servicio solicitado por omisión de requisitos, impedimento legal, por contener datos incorrectos o a petición del interesado, por cada vez: dos días de salario mínimo general vigente en el Estado;
 
@@ -1067,7 +1423,9 @@ IV. Por contratos de hipoteca celebrados por Instituciones de Crédito, Seguros,
 
 V. (DEROGADA, P.O. 15 DE AGOSTO DE 2007)
 
-VI. Por el Registro de Cédulas Hipotecarias: quince días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VI. Por el Registro de Cédulas Hipotecarias: veinticinco días de salario mínimo general vigente en el Estado;
 
 VII. Por la inscripción de documentos o resoluciones judiciales relativas a las sucesiones, independientemente de los derechos que se causen por la inscripción de la transmisión de bienes hereditarios: diez días de salario mínimo general vigente en el Estado;
 
@@ -1093,7 +1451,9 @@ c) Constitución de régimen de propiedad en condominio o, en su caso, de su mod
 
 XII. Por la inscripción de contrato de prenda, de comodato, de contratos que versen sobre bienes muebles o de los que establezcan condición suspensiva o resolutoria o de cualquiera otra modalidad, sobre el valor que resulte entre los de operación, catastral, factura o avalúo bancario: 6.0 al millar;
 
-XIII. Por la inscripción de documentos que extingan los actos mencionados en la fracción anterior: cuatro días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XIII. Por la inscripción de documentos que extingan los actos mencionados en la fracción anterior: ocho días de salario mínimo general vigente en el Estado;
 
 XIV. Por la inscripción de contratos de compraventa con reserva de dominio sobre bienes inmuebles, sobre el valor mayor que resulte entre los de la operación, el catastral o avalúo bancario: 6.0 al millar;
 
@@ -1111,13 +1471,13 @@ d) Cada uno de los actos de disolución, liquidación o cancelación del asiento
 
 XVII. Por la inscripción de:
 
-a) Poderes o sustituciones de los mismos: tres días de salario mínimo general vigente en el Estado; y
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+a) Poderes o sustituciones de los mismos: ocho días de salario mínimo general vigente en el Estado, y
 
 b) Revocación de poderes: tres días de salario mínimo general vigente en el Estado.
 
-XVIII. Por la inscripción de fianzas, contrafianzas u obligaciones solidarias con el fiador: diez días de salario mínimo general vigente en el Estado;
-
-XIX. Por la expedición de:
+XVIII. Por la inscripción de fianzas, contrafianzas u obligaciones solidarias con el fiador: diez días de salario mínimo general vigente en el Estado; XIX. Por la expedición de:
 
 a) Certificados de libertad o existencia de gravámenes, por período de diez años: tres días de salario mínimo general vigente en el Estado; por un período de veinte años: seis días de salario mínimo general vigente en el Estado;
 
@@ -1131,9 +1491,31 @@ e) Informes y constancias solicitadas por autoridades y organismos no exceptuado
 
 f) Certificados de búsqueda de antecedentes registrales diez días de salario mínimo general vigente en el Estado;
 
-g) Copias certificadas de documentos registrales o que obren en el archivo: seis días de salario mínimo general vigente en el Estado;
+g) Copias certificadas de documentos regístrales o que obren en el archivo: seis días de salario mínimo general vigente en el Estado;
 
 h) Copias transcritas: diez días de salario mínimo general vigente en el Estado
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XIX. Por la expedición de:
+
+a) Certificados de libertad o existencia de gravámenes: tres días de salario mínimo general vigente en el Estado;
+
+b) Certificados de libertad o existencia de gravámenes, con efectos de aviso preventivo: nueve días de salario mínimo general vigente en el Estado;
+
+c) Certificados de inexistencia de registro: diez días de salario mínimo general vigente en el Estado;
+
+d) Certificados de no propiedad: dos días de salario mínimo general vigente en el Estado;
+
+e) Certificados de inscripción de propiedad: seis días de salario mínimo general vigente en el Estado;
+
+f) Informes y constancias solicitadas por autoridades y organismos no exceptuados por la Ley: seis días de salario mínimo general vigente en el Estado;
+
+g) Certificados de búsqueda de antecedentes registrales: diez días de salario mínimo general vigente en el Estado;
+
+h) Copias certificadas de documentos regístrales o que obren en el archivo: seis días de salario mínimo general vigente en el Estado, y
+
+i) Copias transcritas: diez días de salario mínimo general vigente en el Estado;
 
 XX. Por el depósito de testamentos ológrafos: cinco días de salario; si el depósito se hace en horas inhábiles: dieciséis días de salario mínimo general vigente en el Estado;
 
@@ -1151,11 +1533,21 @@ XXV. Por la inscripción, anotación, cancelación, expedición de documentos o 
 
 XXVI. Por cada una de las consultas de libros, folio real electrónico, y consultas en internet, que corresponda al total de anotaciones y registros de una sola propiedad, un día de salario mínimo general vigente en el Estado de Morelos;
 
-XXVII. Por concepto de certificación de documentos y firmas, distintos de los establecidos en el inciso g) de la fracción XIX del presente artículo, se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XXVII. Por concepto de certificación de documentos y firmas, distintos de los establecidos en el inciso h) de la fracción XIX del presente artículo, se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título;
 
 XXVIII. Por concepto de verificación en campo de un inmueble: cinco días de salario mínimo general en el Estado; y
 
 XXIX. Por la inscripción de concesiones para la prestación de servicio público 30 días de salario mínimo general en el Estado.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XXX. Por la inscripción de Convenios modificatorios para la sustitución de deudor o de acreedor, en cualquier caso: diez días de salario mínimo general vigente en el Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XXXI. Por la inscripción de embargos administrativos, laborales o judiciales: veinticinco días de salario mínimo general vigente en el Estado;
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -1177,17 +1569,21 @@ III. Para la aplicación de las tasas de la fracción II del artículo anterior,
 
 IV. Cuando se trate de contratos, demandas o resoluciones judiciales o administrativas que se refieran a prestaciones periódicas, se cobrará el importe de: tres días de salario mínimo general vigente en el Estado;
 
-V. Tratándose de la inscripción de títulos traslativos de dominio se aplicará la tasa correspondiente, pero en ningún caso la cantidad será inferior a tres días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-VI. Certificaciones de testimonios de escrituras públicas o contratos: ocho días de salario mínimo general vigente en el Estado;
+V. Tratándose de la inscripción de títulos traslativos de dominio se aplicará la tasa correspondiente, pero en ningún caso la cantidad será inferior a diez días de salario mínimo general vigente en el Estado;
 
-VII. La expedición de certificados y copias certificadas pueden solicitarse con carácter de urgente: tres días de salario mínimo general vigente en el Estado;
+VI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VII. La expedición de copias certificadas pueden solicitarse con carácter de urgente cubriendo además el pago de derechos de tres días de salario mínimo general vigente en el Estado;
 
 VIII. Cuando se trate de la inscripción de testimonios de escrituras públicas que correspondan a los fedatarios públicos domiciliados fuera de la circunscripción territorial del Estado de Morelos, se causará una sobretasa de un 25% sobre la base o tasa determinada;
 
 IX. Las inscripciones de embargo y certificados de gravámenes solicitados por el Gobierno del Estado a consecuencia del procedimiento administrativo de ejecución derivado de créditos fiscales, causarán los derechos correspondientes pero no se cobrarán previamente, sino al hacer efectivo el crédito fiscal como parte del mismo;
 
-X. Los contratos y operaciones relacionados con bienes inmuebles que en cumplimiento de su objeto lleve al cabo el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, causarán un día de salario mínimo general vigente en el Estado; y
+X. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 XI. Por la verificación en campo de un inmueble, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que se determine en el Reglamento Interno del Registro Público de la Propiedad y del Comercio y la normatividad vigente.
 
@@ -1201,15 +1597,21 @@ I. Cuando se trate de inscripciones relativas a transmisión o adquisición de b
 
 II. Cuando se trate de inscripciones de títulos que no impliquen transmisión de dominio a particulares, respecto de bienes inmuebles o derechos reales pertenecientes a la Federación, al Gobierno del Estado de Morelos o a sus Municipios;
 
-III. Por los informes o certificaciones que soliciten las mismas entidades;
+III. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
 
-IV. Por los informes o certificaciones que soliciten las autoridades competentes tratándose de juicios penales, laborales o de amparo; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-V. Los instrumentos jurídicos, bien sean públicos o privados, que otorguen las instituciones oficiales de cualquier nivel de Gobierno, en tratándose de la enajenación de vivienda de interés social o popular
+IV. Por los informes o certificaciones que soliciten las autoridades competentes tratándose de juicios penales, laborales o de amparo;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+V. Los instrumentos jurídicos, bien sean públicos o privados, que otorguen las instituciones oficiales de cualquier nivel de Gobierno, en tratándose de la enajenación o regularización de vivienda de interés social o popular, y
 
 VI. Cuando se trate de inscripciones relativas a transmisión o adquisición de bienes inmuebles o derechos reales a favor de asociaciones de asistencia y beneficencia pública legalmente constituidas, siempre que sean destinados al cumplimiento de su objetivo.
 
-### CAPÍTULO SÉPTIMO. SERVICIOS DE VERIFICACIÓN VEHICULAR
+### CAPÍTULO SEXTO. SERVICIOS RELACIONADOS CON EL DESARROLLO SUSTENTABLE
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 80.
 
@@ -1279,9 +1681,7 @@ IV. En los casos no previstos expresamente, los derechos por servicios que se pr
 
 V. Están exentos del pago de los derechos que establece este Capítulo: la Federación, el Gobierno del Estado y sus Municipios, siempre que hayan sido parte en la operación de que se trate.
 
-### CAPÍTULO SÉPTIMO BIS. DE LOS SERVICIOS EN MATERIA DE AGUA Y SANEAMIENTO
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO SÉPTIMO. SERVICIOS DE VERIFICACIÓN VEHICULAR
 
 ###### Artículo 82.
 
@@ -1305,9 +1705,11 @@ a Notario: 50
 
 5. Registro del sello y firma del Notario: 50
 
-6. Por la autorización de cada uno de 46
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-los libros de protocolo respectivo:
+6. Por la autorización de los libros de
+
+protocolo: 46 SMGV
 
 7. Por la certificación de la razón de cierre 46
 
@@ -1361,7 +1763,9 @@ derechos establecidos en el Capítulo
 
 Décimo Séptimo del presente Título:
 
-### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
+### CAPÍTULO SÉPTIMO BIS. DE LOS SERVICIOS EN MATERIA DE AGUA Y SANEAMIENTO
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 83.
 
@@ -1473,13 +1877,13 @@ XIV. (DEROGADA, P.O. 16 DE JUNIO DE 2010)
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
 
-### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
 
 ###### Artículo 83 Bis.
 
 No se causará este derecho, cuando se realicen anotaciones marginales por procedimiento de corrección administrativa de la Dirección General del Registro Civil, derivada de la aclaración de las actas por errores mecanográficos, manuscritos, ortográficos o de reproducción gráfica, que no afecte los datos esenciales contenidos en el acta.
 
-### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
+### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
 ###### Artículo 84.
 
@@ -1491,59 +1895,89 @@ I. LICENCIAS:
 
 1.1. Con vigencia de un año:
 
-a) Chofer $150.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-b) Automovilista $ 90.00
+a) Chofer $360.00
 
-c) Motociclista $ 70.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-d) Turista $150.00
+b) Automovilista $240.00
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+c) Motociclista $200.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+d) Turista $320.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 e) Operador del servicio de transporte
 
-público $150
+público $150.00
 
 1.2. Con vigencia de tres años:
 
-a) Chofer $300.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-b) Automovilista $200.00
+a) Chofer $440.00
 
-c) Motociclista $160.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+b) Automovilista $320.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+c) Motociclista $282.00
 
 1.3. Con vigencia de cinco años:
 
-a) Chofer $420.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-b) Automovilista $310.00
+a) Chofer $520.00
 
-c) Motociclista $210.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+b) Automovilista $400.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+c) Motociclista $360.00
 
 1.4. Expedición provisional:
 
 Para manejar por un año a menores:
 
-a) Automovilista $180.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-b) Motociclista $150.00
+a) Automovilista $400.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+b) Motociclista $320.00
 
 1.5. (DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 1.6. Reposición:
 
-a) Chofer $120.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-b) Automovilista $100.00
+a) Chofer $360.00
 
-c) Motociclista $ 80.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+b) Automovilista $240.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+c) Motociclista $200.00
 
 II. POR EXPEDICIÓN DE PLACAS,
 
 TARJETA DE CIRCULACIÓN, ENGOMADO Y HOLOGRAMA:
 
-En el Servicio Particular por inscripción al padrón vehicular con expedición de placas y documentación para circular:
+En el Servicio Particular por registro al padrón vehicular con expedición de placas y documentación para circular:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -1554,6 +1988,8 @@ En el Servicio Particular por inscripción al padrón vehicular con expedición 
 2. Camión: $550.00
 
 3. Demostradoras: $700.00
+
+(REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 4. Remolque: $500.00
 
@@ -1571,7 +2007,7 @@ b) (sic) Servicio Público:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 1. Servicio de Transporte de
 
@@ -1579,7 +2015,7 @@ pasajeros sin itinerario fijo: $800.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 2. Servicio de Transporte de
 
@@ -1587,7 +2023,7 @@ pasajeros con itinerario fijo: $800.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 3. Servicio de carga en general: $800.00
 
@@ -1605,11 +2041,9 @@ b) Por dos placas $400.00
 
 III. REFRENDO ANUAL DE TARJETA DE CIRCULACIÓN Y HOLOGRAMA:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
-
-1. Auto particular: $300.00
+1. Auto particular: $350.00
 
 2. Camión particular: $300.00
 
@@ -1651,19 +2085,31 @@ IV. EXPEDICIÓN DE CONCESIÓN DEL SERVICIO PÚBLICO Y SU RENOVACIÓN:
 
 a) EXPEDICIÓN:
 
-1) Servicio Público con itinerario fijo $1,558.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-2) Servicio Público sin itinerario fijo $1,264.00
+1) Servicio Público con itinerario fijo $24,000.00
 
-3) Servicio Público de carga
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+2) Servicio Público sin itinerario fijo $20,000.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+3) Servicio Público de carga $12,000.00
 
 b) RENOVACIÓN: $1,264.00
 
-1) Servicio Público con itinerario fijo $1,558.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-2) Servicio Público sin itinerario fijo $1,264.00
+1) Servicio Público con itinerario fijo $12,000.00
 
-3) Servicio Público de carga $1,264.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+2) Servicio Público sin itinerario fijo $10,000.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+3) Servicio Público de carga $6,000.00
 
 V. OTROS SERVICIOS:
 
@@ -1715,11 +2161,21 @@ k) Duplicado de tarjetón $23.20
 
 3. Cesión de derechos:
 
-a) Camión de carga en general $303.20
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-b) Camión materialista $460.00
+a) Camión de carga en general $6,000.00
 
-c) Automóvil de servicio público $611.20
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+b) Camión materialista $6,000.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+c) Automóvil de servicio público $10,000.00
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+d) Autobus de servicio público $12,000.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -1821,17 +2277,53 @@ AUTOS Y CAMIONES DEL SERVICIO
 
 PÚBLICO: $100.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO POR ARTÍCULO VIGÉSIMO TERCERO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)</small>
+XIV. PERMISO PARA PUBLICIDAD EN
+
+TRANSPORTE PÚBLICO CON ITINERARIO
+
+FIJO POR MES, EN LA PARTE TRASERA
+
+DE LA UNIDAD. $100.00
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XV. PERMISO PARA PUBLICIDAD INTEGRAL
+
+EN TRANSPORTE PÚBLICO CON ITINERARIO
+
+FIJO POR MES. $250.00
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XVI. PERMISO PARA PUBLICIDAD EN
+
+TRANSPORTE PÚBLICO SIN ITINERARIO
+
+FIJO POR. MES. $50.00
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XVII. ACREDITAMIENTO DE GESTORES
+
+DEL SERVICIO PÚBLICO, ANUAL. $50.00
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XVIII. AUTORIZACIÓN DE SITIO DE
+
+TAXIS, ANUAL. $300.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 84 Bis.
 
-El pago de los derechos por los servicios a que se refiere este Capítulo deberá realizarse en las oficinas de la Secretaría de Finanzas y Planeación del Estado que corresponda a su circunscripción, ante las instituciones autorizadas o a través de medios electrónicos en las formas previamente aprobadas y autorizadas por la misma Secretaría.
+El pago de los derechos por los servicios a que se refiere este Capítulo deberá realizarse en las oficinas recaudadoras de la Secretaría que corresponda a su circunscripción, ante las instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría, en las formas previamente aprobadas.
 
-Los derechos que se causen por los servicios de control vehicular por expedición de placas metálicas, tarjeta de circulación, engomado y holograma, se pagarán dentro de los tres primeros meses de cada año, salvo en el caso de vehículos cuya inscripción al padrón vehicular del Estado se solicite por primera vez, supuesto en el que se realizará el pago al momento en que se solicite la inscripción.
+Los derechos que se causen por los servicios de control vehicular por expedición de placas metálicas, tarjeta de circulación, engomado y holograma, se pagarán dentro de los tres primeros meses de cada año, salvo en el caso de vehículos cuyo registro al padrón vehicular del Estado se solicite por primera vez, supuesto en el que se realizará el pago al momento en que se solicite la inscripción.
 
-Los demás derechos regulados en este Capítulo, se pagarán en el momento en que se soliciten.
+Los demás derechos regulados en este Capítulo se pagarán en el momento en que se soliciten.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -1877,7 +2369,7 @@ Artículo 84 BIS-3. No obstante lo dispuesto por el artículo 84 BIS, en el ejer
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
+### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
 
 ###### Artículo 85.
 
@@ -1981,7 +2473,7 @@ a) Herpetario; $10.00
 
 b) Guacamayas; $10.00
 
-c) Granjita Paraíso , y $10.00
+c) Granjita Paraíso, y $10.00
 
 d) Eco lanchas. $10.00
 
@@ -2125,17 +2617,17 @@ No causarán el Impuesto adicional los derechos por los servicios a que se refie
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
-
-RELATIVOS A INMUEBLES
+### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
 
 ###### Artículo 87.
 
 Los derechos por la prestación de servicios de Verificación Vehicular obligatoria a que deben ser sometidos los vehículos automotores en circulación registrados en el Estado de Morelos, se actualizarán anualmente en la Ley de Ingresos del Estado, conforme a la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, a las Normas Oficiales Mexicanas en materia ambiental y al Acuerdo que establece el programa de verificación vehicular obligatoria para el Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 88.
 
-Son sujetos de los derechos establecidos en este Capítulo, las personas jurídico-individuales o físicas y jurídico-colectivas o morales tanto propietarias o poseedoras de vehículos automotores en circulación registrados en el Estado de Morelos.
+Son sujetos de los derechos establecidos en este Capítulo, las personas físicas y las personas morales tantos propietarios o poseedoras de vehículos automotores en circulación registrados en el Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -2161,51 +2653,81 @@ Los vehículos que no hayan sido verificados en los plazos y condiciones estipul
 
 El importe de las sanciones a que se hagan acreedores los sujetos obligados al pago de estos derechos, deberá ser liquidado directamente, en los términos que establezca para el caso el Programa de Verificación Vehicular Obligatoria para el Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 93.
 
-Los ingresos que perciba el Estado por los servicios de verificación vehicular, se recaudarán a través de la Secretaría de Hacienda del Poder Ejecutivo del Estado de Morelos.
+Los ingresos que perciba el Estado por los servicios de verificación vehicular, se recaudarán a través de la Secretaría.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
+### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
+
+RELATIVOS A INMUEBLES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 93 Bis.
 
 El pago de derechos por la prestación de servicios que proporciona la Comisión Estatal del Agua, se causarán en la siguiente forma:
 
-EN MATERIA DE AGUA Y SANEAMIENTO Tarifa en SMGV
+I. EN MATERIA DE AGUA Y SANEAMIENTO
 
-a) Maniobra de extracción de equipo de bombeo de
+Tarifa en días de salario mínimo
 
-pozo profundo con grúa a distancia de 50 Km. De
+general vigente en el Estado
 
-Cuernavaca; 32
+a) Maniobra de extracción de equipo
 
-b) Maniobra de instalación de equipo de bombeo
+de bombeo de pozo profundo con grúa
 
-de pozo profundo con grúa a distancia de 50 Km. de
+a distancia de 50 Km. de Cuernavaca; 32.00 SMGV
 
-Cuernavaca;
+b) Maniobra de instalación de equipo
 
-c) Traslado de maquinaria pesada (grúa) en KM
+de bombeo de pozo profundo con grúa
 
-subsecuente; 0.3
+a distancia de 50 Km. de Cuernavaca; 32.00 SMGV
 
-d) Colocación o desinstalación de dosificador
+c) Traslado de maquinaria pesada (grúa)
 
-de cloro; 5.0
+en KM subsecuente; 0.30 SMGV
 
-e) Aforo con equipo digital; 15
+d) Colocación o desinstalación de
 
-f) Detección de fuga de agua con equipo digital en
+dosificador de cloro; 5.00 SMGV
 
-líneas o redes, y 17
+e) Aforo con equipo digital; 15.00 SMGV
 
-g) Revisión electromecánica de sistemas
+f) Detección de fuga de agua con
 
-de agua. 7.5
+equipo digital en líneas o redes, y 17.00 SMGV
+
+g) Revisión electromecánica de
+
+sistemas de agua. 7.50 SMGV
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+h) Por la recepción de aguas residuales
+
+(por metro cúbico) 0.10 SMGV
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+i) Por recepción de lodos provenientes
+
+de fosas sépticas y sanitarios portátiles
+
+(por metro cúbico) 0.10 SMGV
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+II. EN MATERIA DE DIFUSIÓN Y CULTURA DEL AGUA
+
+Por la venta de material didáctico (ejemplar)
+
+y videos (pieza) 1.00 SMGV
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -2247,11 +2769,15 @@ b) Por cada pipa (6m3) de agua residual tratada con fines de servicio al públic
 
 c) Por cada cinco kilómetros adicionales de distancia desde el punto de llenado en cualquier de los dos supuestos señalados 0.25 SMGV.
 
-d) Por cada carga de la pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado 1.5 SMGV.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-e) Por cada carga de la pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado 1 SMGV.
+d) Por cada carga de pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto directo: 1.50 SMGV.
 
-### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+e) Por cada carga de pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional: 1.00 SMGV.
+
+### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
 
 ###### Artículo 94.
 
@@ -2379,9 +2905,7 @@ VI. Por la prestación del Servicio de Escolta, por cada elemento:
 
 3. Tarifa mensual 403 SMV
 
-### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS EN MATERIA DE CARRETERAS DE CUOTA DEL ESTADO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
 
 ###### Artículo 95.
 
@@ -2433,11 +2957,15 @@ IX. Otros servicios: $2,000.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS DE VIGILANCIA, INSPECCIÓN Y CONTROL, ASÍ COMO EN MATERIA DE HABILITACIÓN PARA EL SERVICIO PÚBLICO
+### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS EN MATERIA DE CARRETERAS DE CUOTA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
+### CAPÍTULO DÉCIMO QUINTO BIS
+
+DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DEL DERECHO DE VÍA EN CAMINOS, PUENTES Y VÍAS DE COMUNICACIÓN ESTATALES LIBRES DE PEAJE Y POR OCUPACIÓN DE LA ZONA ESTATAL
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 97.
 
@@ -2445,79 +2973,145 @@ Los derechos por los servicios de educación de nivel superior por instituciones
 
 Cuota
 
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 I. Por solicitud, estudio y resolución del trámite de:
 
-a) Reconocimiento de validez oficial de estudios de $4,241.00
+a) Reconocimiento de validez oficial
 
-nivel superior
+de estudios de nivel superior. $6,901.00
 
-b) Actualización o cambio a planes y programas de $2,265.00
+b) Actualización o cambio de planes
 
-estudio de nivel superior, con reconocimiento de
+y programas de estudios de nivel
 
-validez oficial de estudios
+superior, con reconocimiento de validez
 
-II. Exámenes profesionales o de grado para $3,114.00
+oficial de estudios. $2,998.00
 
-licenciatura o postgrado (especialidad, maestría
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-o doctorado):
+II. Exámenes profesionales o de grado de
 
-III. Exámenes a título de suficiencia por asignatura, $42.00
+licenciatura o postgrado (especialidad,
 
-por alumno:
+maestría o doctorado): $3,114.00
 
-IV. Exámenes extraordinarios o regularización por $42.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-asignatura, por alumno:
+III. Exámenes a título de suficiencia por
 
-V. Autenticación de diploma, título o grado: $111.00
+asignatura, por alumno: $45.50
 
-VI. Expedición de duplicado de certificado de $84.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-de estudios de Instituciones extintas:
+IV. Exámenes extraordinarios por
 
-VII. Solicitud de revalidación de estudios realizados $550.00
+asignatura, por alumno. $45.50
 
-en el extranjero:
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-VIII. Solicitud de equivalencia de estudios $550.00
+V Autenticación de diploma, título o
 
-realizados en el Sistema Educativo Nacional:
+grado: $136.00
 
-IX. Autentificación de certificados de estudio, por $22.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-ciclo escolar (semestre o cuatrimestre):
+VI. Expedición de duplicado de certificado
 
-X. Inspección y vigilancia de establecimientos $44.00
+de estudios de instituciones extintas. $92.00
 
-educativos particulares, por alumno inscrito en cada
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-ciclo escolar (semestre o cuatrimestre)
+VII. Solicitud de dictamen técnico o revalidación
 
-XI. Inscripción por alumno en curso de verano: $91.00
+de estudios realizados en el extranjero. $454.00
 
-XII. Inscripción por alumno en curso de $91.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-regularización
+VIII. Solicitud de equivalencia de estudios
 
-XIII. Asignaturas libres por alumnos inscritos $42.00
+realizados en el sistema educativo
 
-XIV Compulsa de documentos por hoja: $6.00
+nacional. $454.00
 
-XV. Cambio de titular del acuerdo de $1,980.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-reconocimiento
+IX. Autenticación de certificados de estudios,
 
-XVI. Cambio o ampliación de domicilio o $ 1,980.00
+por ciclo escolar, (semestre,
 
-establecimiento de un plantel adicional, respecto
+cuatrimestre). $34.40
 
-de cada plan de estudios con reconocimiento de
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-validez oficial:
+X. Inspección y vigilancia de establecimientos
 
-XVII. Por concepto de certificación de documentos y firmas se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título.
+educativos particulares por alumno inscrito en
+
+cada ciclo escolar (semestre,
+
+cuatrimestre). $45.50
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XI. Inscripción por alumno en curso de
+
+verano: $136.00
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XII. Inscripción por alumno en curso de
+
+regularización: $136.00
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XIII. Asignaturas libres por alumno inscrito: $45.50
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XIV. Compulsa de documentos por hoja. $5.50
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XV. Cambio de titular del acuerdo de
+
+Reconocimiento. $2,453.00
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XVI. Cambio o ampliación o establecimiento
+
+de un plantel adicional, respecto de cada plan
+
+de estudios con reconocimiento de
+
+validez oficial. $2,453.00
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XVII. Por concepto de certificación de
+
+documentos y firmas se causarán los derechos
+
+establecidos en el Capítulo Décimo Séptimo
+
+del presente Título.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XVIII. Legalización de firmas de títulos,
+
+certificaciones parciales y totales de
+
+instituciones con RVOE estatal. $57.00
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XIX. Reposición de equivalencia o
+
+revalidación de nivel superior. $92.00
 
 Cuando los trabajos anteriores deban realizarse fuera de la población donde radique la autoridad que los proporciona, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que determine el Reglamento Interior.
 
@@ -2527,55 +3121,115 @@ Los derechos por los servicios de educación de nivel medio superior de instituc
 
 Cuota
 
-I. Por solicitud, estudio y resolución del trámite de $2,680.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Incorporación de estudios de nivel medio superior:
+I. Por solicitud, estudio y resolución del
 
-II. Exámenes extraordinarios o regularización por $40.00
+trámite de: Incorporación de estudios de
 
-Asignatura, por alumno:
+bachillerato general, plan tres años. $3,360.00
 
-III. Expedición de duplicado de certificado de $65.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-estudios de Instituciones fenecidas:
+II. Exámenes extraordinarios y/o
 
-IV. Solicitud de revalidación de estudios realizados $183.00
+regularización por asignatura, por alumno
 
-en el extranjero
+registrado en bachillerato general
 
-IV, (sic) Solicitud de equivalencia de estudios
+con RVOE estatal. $45.50
 
-realizados en el Sistema Educativo Nacional $183.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-V. Revisión de certificado de estudio, por ciclo $19.00
+III. Expedición de duplicado de certificado
 
-escolar (semestre o cuatrimestre):
+de estudios de Instituciones extintas. $92.00
 
-VI. Inspección y vigilancia de establecimientos $ 42.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IV. Solicitud de revalidación de nivel media
+
+superior realizados en el extranjero: $226.00
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+V. Solicitud de equivalencia de estudios
+
+de nivel media superior: $226.00
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VI. Inspección y vigilancia de establecimientos
 
 educativos particulares, por alumno inscrito en
 
-cada ciclo escolar (semestre o cuatrimestre):
+cada ciclo escolar (semestre o
 
-VII Inscripción por alumno en curso de verano $90.00
+cuatrimestre): $45.50
 
-VIII. Inscripción por alumno en curso de $90.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Regularización
+VII. Inscripción por alumno en curso de
 
-IX. Asignaturas libres por alumnos inscritos: $42.00
+verano: $92.00
 
-X. Compulsa de documentos por hoja: $6.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-XI. Cambio de titular del acuerdo de $1,200.00
+VIII. Inscripción por alumno en curso de
 
-Reconocimiento:
+regularización: $92.00
 
-XII. Cambio o ampliación de domicilio o $1,200.00
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Establecimiento de un plantel adicional:
+IX. Asignaturas libres por alumno (sic)
 
-XIII. Por concepto de certificación de documentos y firmas se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título:
+inscritos: $45.50
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+X. Compulsa de documentos por hoja: $5.50
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XI. Cambio de titular del acuerdo de
+
+Reconocimiento: $1,361.60
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XII. Cambio o ampliación de domicilio o
+
+establecimiento de un plantel adicional: $1,361.60
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XIII. Por concepto de certificación de
+
+documentos y firmas se causarán los
+
+derechos establecidos en el Capítulo
+
+Décimo Séptimo del presente Título.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XIV. Autenticación de certificado de
+
+estudio, expedida por particulares por
+
+ciclo escolar. $ 34.50
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XV. Legalización de firmas en documentos
+
+de instituciones con RVOE estatal. $ 57.60
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XVI. Reposición de equivalencia o
+
+revalidación de nivel media superior. $ 92.00
 
 Cuando los trabajos anteriores deban realizarse fuera de la población donde radique la autoridad que los proporciona, deberán cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que determine el Reglamento Interior.
 
@@ -2629,39 +3283,111 @@ Por concepto de certificación de documentos y firmas se causarán los derechos 
 
 Cuando los trabajos anteriores deban realizarse fuera de la población donde radique la autoridad que los proporciona, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que determine el Reglamento Interior.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 99 Bis.
 
 Los servicios prestados por la Coordinación Estatal del Subsistema de Preparatoria Abierta, se causarán conforme a lo siguiente:
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 I. PARA ESTUDIANTES:
 
-CONCEPTO
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Inscripción $100.00
+a) Inscripción $100.00
 
-Constancia $25.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+b) Constancia $25.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+c) Inscripción anual a la Plataforma
+
+Virtual $100.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+d) Duplicado credencial $32.00
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+e) Duplicado de Certificado $41.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 II. PARA CENTROS DE ASESORÍA:
 
-CONCEPTO
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Apertura $1,000.00
+a) Apertura $1,000.00
 
-Anualidad $1,000.00
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Credenciales para el $50.00
+b) Anualidad $1,000.00
 
-personal administrativo
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
+c) Credencial para el personal
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+administrativo $25.00
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+d) Duplicado de credencial
+
+centros $50.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+e) Convenios Centros de
+
+Asesoría $1,000.00
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III. ASPIRANTES A EDUCACIÓN MEDIA SUPERIOR:
+
+Examen Único de Educación Media Superior $168.00
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IV. PÚBLICO EN GENERAL:
+
+Capacitación por persona:
+
+a) Estrategias Didácticas para la Tutoría Virtual,
+
+en colaboración con la UAEM. $6,000.00
+
+c) (sic) Elaboración de Reactivos
+
+de Evaluación. $3,000.00
+
+d) Introducción a las Tecnologías
+
+Información $5,000.00
+
+e) Estrategias y técnicas de
+
+aprendizaje. $1,200.00
+
+f) Enseñanza en el enfoque de las
+
+competencias. $1,200.00
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Por cuanto hace al inciso c) que antecede, los estudiantes de Preparatoria Abierta serán beneficiados con un descuento del 50%.
+
+### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS DE VIGILANCIA, INSPECCIÓN Y CONTROL, ASÍ COMO EN MATERIA DE HABILITACIÓN PARA EL SERVICIO PÚBLICO
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO DÉCIMO SEXTO BIS. DE LOS SERVICIOS DE EXPEDICIÓN DE CONSTANCIAS DE NO ANTECEDENTES PENALES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 100.
 
@@ -2733,11 +3459,19 @@ X. Otros servicios: 0.5 días de salario.
 
 Están exentos del pago de derechos los profesores que ejerzan su actividad, única y exclusivamente al servicio de establecimientos oficiales o incorporados al Gobierno Federal o al Gobierno del Estado de Morelos.
 
-### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
+### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 107 Bis.
+
+Por el uso o aprovechamiento del derecho de vía en caminos, puentes y vías de comunicación estatales libres de peaje y por ocupación de la zona estatal, se cobrará un derecho, conforme a las tarifas que proponga la Secretaría de Obras Públicas y valide la Secretaria, de acuerdo con el Reglamento o los Lineamientos que para tal efecto emita el Ejecutivo Estatal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 103.
 
-Los derechos por la inscripción en el padrón de arrendadores que lleva la Secretaría de Finanzas y Planeación respecto de los contratos de arrendamiento y otros actos, contratos o convenios por los que se confiera a un tercero el derecho de uso, usufructo o explotación de bienes inmuebles, se causarán por cada documento, contrato o acto, conforme a lo siguiente:
+Los derechos por el registro en el padrón de arrendadores que lleva la Secretaría respecto de los contratos de arrendamiento y otros actos, contratos o convenios por los que se confiera a un tercero el derecho de uso, usufructo o explotación de bienes inmuebles, se causarán por cada documento, contrato o acto, conforme a lo siguiente:
 
 I. En los contratos de arrendamiento la renta mensual se convertirá a salarios mínimos de acuerdo con lo siguiente:
 
@@ -2759,307 +3493,73 @@ d) De 31 días de salario en adelante 2.50
 
 II. Los actos, contratos y convenios no incluidos en la fracción anterior: 1.50
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 104.
+
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
+
+###### Artículo 105.
+
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO DÉCIMO NOVENO. DE LOS SERVICIOS EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 106.
+
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+###### Artículo 107.
+
+Por los servicios de carreteras de cuota del Estado de Morelos se cobrarán las cuotas de peaje y el derecho de vía, mediante las tarifas que se aprueben por el Organismo Operador y que se sometan a la validación de la Secretaría, de acuerdo con el Reglamento o los Lineamientos que para tal efecto emita el Ejecutivo Estatal.
+
+Los ingresos recaudados por los derechos a que se refiere el párrafo anterior serán destinados para el cumplimiento del objeto del mismo Organismo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
+
 ### CAPÍTULO TERCERO
 
 UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
 
-###### Artículo 104.
-
-Los derechos por servicios catastrales que presta el Gobierno del Estado por convenio o en términos de las leyes en materia catastral, se causarán conforme a lo siguiente:
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-I. Por la elaboración de avalúo catastral 3 días de
-
-que incluya nombre del propietario salario mínimo
-
-o poseedor, ubicación, clave, general
-
-superficies y valores de terreno y vigente en la
-
-construcción en los casos de cambio zona
-
-de nombre de propietario o poseedor
-
-y modificaciones físicas o legales;
-
-II. Certificación de valores en zonas no catastradas que incluya: nombre del propietario, ubicación, clave, superficie y valor: 3 días de salario mínimo general vigente en el Estado;
-
-III. Copias certificadas del plano catastral que conste de cuatro copias con anotaciones de clave, nombre, ubicación, domicilio, valor y superficies, se cobrará por metro cuadrado:
-
-Hasta 5,000 M2: 2 días de salario mínimo general vigente en el Estado;
-
-De 5,001 M2 a 10,000 M2: 4 días de salario mínimo general vigente en el Estado;
-
-De 10,001 M2 a 15,000 M2: 6 días de salario mínimo general vigente en el Estado;
-
-De 15,001 M2 a 30,000 M2: 8 días de salario mínimo general vigente en el Estado;
-
-De 30,001 M2 a 50,000 M2: 10 días de salario mínimo general vigente en el Estado;
-
-De 50,001 M2 a 100,000 M2: 12 días de salario mínimo general vigente en el Estado; y
-
-Después de 100,000 M2 se aumentará un día de salario por cada 10,000 M2.
-
-La escala representativa será:
-
-Hasta los 15,000 M2: 1:500.
-
-De 15,001 en adelante: 1:1000
-
-Cuando los trabajos anteriores deban realizarse en lugares en donde no haya Convenio de Colaboración Administrativa en materia de Catastro, entre el Estado y el Municipio, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que determine el Reglamento Interno.
-
-IV. Otros servicios:
-
-Tarifa en días de
-
-salario mínimo
-
-general vigente
-
-en el Estado
-
-A). Registro de operaciones, toma de nota de 5
-
-testimonio y sello que no causen el impuesto
-
-sobre adquisición de bienes inmuebles:
-
-B). Derechos de información, copias en inspecciones:
-
-1) Copia certificada de un plano catastral, en hoja 3
-
-tamaño carta u oficio:
-
-Doble carta y doble oficio 5
-
-En papel heliográfico hasta 60 x 90 6
-
-Por cada 25 centímetros extras: 2
-
-2) Copia certificada de documentos diversos en 3
-
-planos existentes en el expediente:
-
-3) Antecedentes catastrales de un predio: 3
-
-4) Copia heliográfica de las regiones: 8
-
-5) Copia heliográfica del plano de cada Municipio: 10
-
-6) Copia del plano del Estado de Morelos:
-
-Escala 1:170,000, tamaño 63 X 80cm 10
-
-Escala 1:120,000, tamaño 70 X 90cm 15
-
-Escala 1:120,000, tamaño 90 X 110cm 10
-
-7) Inspección ocular dentro de la población sede de la 3
-
-oficina central, de las delegaciones o de la cabecera
-
-municipal donde haya representación de Catastro:
-
-Cuando la inspección sea fuera de las poblaciones:
-
-un día de salario más por cada 10 kilómetros.
-
-8) Por concepto de certificación de documentos y firmas se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título:
-
-Los derechos por servicios no especificados en esta Ley serán determinados por la Dirección General de Catastro, de conformidad con las disposiciones legales aplicables.
-
-###### Artículo 105.
-
-Están exentos del pago de estos derechos las dependencias del Gobierno del Estado, siempre y cuando la solicitud de su servicio sea mediante oficio, en el cual motive la razón de su petición.
-
-### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
-
-###### Artículo 106.
-
-Los derechos por Servicios Técnicos en materia Inmobiliaria se causarán de la siguiente forma:
-
-I. Avalúos comerciales:
-
-A) Por la investigación de valores, se causarán: 3 días de salario mínimo general vigente en el Estado; y
-
-B) Se determinará el cobro de derechos del avalúo según el valor que resulte del predio:
-
-Tarifa en días de salario
-
-mínimo general vigente
-
-en el Estado
-
-$1,000.00 hasta $50,000.00 12
-
-$50,001.00 hasta $100,000.00 15
-
-$100,001.00 hasta $150,000.00 18
-
-$150,001.00 hasta $200,000.00 21
-
-$200,001.00 hasta $250,000.00 24
-
-$250,001.00 hasta $300,000.00 27
-
-$300,001.00 hasta $350,000.00 30
-
-$350,001.00 hasta $400,000.00 33
-
-$400,001.00 hasta $450,000.00 36
-
-$450,001.00 hasta 500,000.00 39
-
-Después de $500,000 se aplicarán cuatro días de salario más, por cada $50,000.00;
-
-II. Levantamiento de linderos y superficie de terrenos; superficie, orientación, pié de plano, sellado y rubricado:
-
-Tarifa en días de salario
-
-mínimo general vigente
-
-en el Estado
-
-1,000 M2 8
-
-1,001 M2 hasta 5,000 M2 12
-
-5,001 M2 hasta 10,000 M2 16
-
-10,001 M2 hasta 15,000 M2 20
-
-15,001 M2 hasta 20,000 M2 24
-
-20,001 M2 hasta 25,000 M2 28
-
-25,001 M2 hasta 30,000 M2 32
-
-30,001 M2 hasta 35,000 M2 36
-
-35,001 M2 hasta 40,000 M2 40
-
-Después de 40,000 M2 se aplicarán: cinco días de salario mínimo general vigente en la Entidad más, por cada 5,000 M2; en caso de divisiones o notificaciones se aplicarán: dos días de salario mínimo general vigente en la entidad por cada lote;
-
-III. Levantamiento topográfico con curvas de nivel y referenciado a coordenadas geodésicas, orientación, pié de plano, sellado y rubricado:
-
-Tarifa en días de salario
-
-mínimo general vigente
-
-en el Estado
-
-0.001 M2 hasta 1,000 M2 10
-
-1,001 M2 hasta 5,000 M2 27
-
-5,001 M2 hasta 10,000 M2 42
-
-10,001 M2 hasta 15,000 M2 57
-
-15,001 M2 hasta 20,000 M2 69
-
-20,001 M2 hasta 25,000 M2 74
-
-25,001 M2 hasta 30,000 M2 89
-
-30,001 M2 hasta 35,000 M2 94
-
-35,001 M2 hasta 40,000 M2 109
-
-Después de 40,000 M2 se aplicarán: veinte días de salario más, por cada 5,000 M2.
-
-IV. Levantamiento topográfico por secciones transversales incluyendo perfil con profundidad máxima de 4.00 M2, cuadro de secciones, pié de plano, sellado y rubricado un día de salario mínimo general vigente en el Estado:
-
-En secciones de 1.00m por 1.00m hasta 60m por 20m y hasta por cuatro secciones, se aplicarán: diez días de salario mínimo general vigente en el Estado;
-
-V. Levantamiento de construcción, ubicándola dentro del terreno, pié de plano, sellado y rubricado:
-
-Tarifa en días de salario
-
-mínimo general vigente
-
-en el Estado
-
-Hasta 100 M2 4
-
-101 M2 hasta 200 M2 6
-
-201 M2 hasta 300 M2 8
-
-301 M2 hasta 400 M2 10
-
-401 M2 hasta 500 M2 12
-
-Después de 500 M2 se aplicarán tres días de salario más, por cada 50 M2;
-
-VI. Por plano arquitectónico para regularización, que consta de planta baja y planta alta, fachada principal, corte sanitario fosa séptica en escala 1/100, croquis ubicación, escala 1/500, orientación, pié de plano, sellado y rubricado:
-
-Tarifa en días de salario
-
-mínimo general vigente
-
-en el Estado
-
-Hasta 150 M2 28
-
-151 M2 hasta 300 M2 52
-
-301 M2 hasta 450 M2 76
-
-451 M2 hasta 600 M2 102
-
-Después de 601 M2 se aplicarán veinticinco días de salario más, por cada 150 M2.;
-
-VII. Por plano de división fusión con: estado actual y propuesta, para efectos de trámite ante la Dirección Estatal o Municipal de Fraccionamientos, Condominios y Conjuntos Urbanos, con cuadros de áreas, croquis de localización orientación y pie de plano, sellado y rubricado:
-
-Tarifa en días de salario
-
-mínimo general vigente
-
-en el Estado
-
-Hasta 5000 M2 4
-
-5001 M2 hasta 10,000 M2 8
-
-10,001 M2 hasta 15,000 M2 12
-
-15,001 M2 hasta 30,000 M2 16
-
-30,001 M2 hasta 50,000 M2 20
-
-50,001 M2 hasta 100,000 M2 24
-
-Después de 100,000 M2 se aplicarán cuatro días de salario más, por cada 10,000 M2.; y
-
-VIII. Por asesoría técnica en regularización para fines catastrales, respecto del dictamen de procedencia: 10 días de salario mínimo general vigente en el Estado.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-### CAPÍTULO QUINTO. ALMACENAJE
-
-###### Artículo 107.
-
-Por los servicios de carreteras de cuota del Estado de Morelos se cobrarán las cuotas de peaje mediante las tarifas que se establezcan en los Convenios que al efecto celebre y apruebe la Secretaría de Hacienda del Estado, previa autorización del Congreso Local.
-
-Los ingresos recaudados por los derechos a que se refiere el párrafo anterior serán destinados para el cumplimiento del objeto del mismo Organismo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 108.
 
-Por el servicio de vigilancia, inspección y control con respecto a los contratos de obra pública y de prestación de servicios que celebre el Gobierno del Estado, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente del 5.0 al millar sobre el importe de cada una de las estimaciones de trabajo; así mismo los proveedores con quienes se celebren contratos de prestación de servicios pagarán un derecho del 2.0 al millar sobre el importe del contrato adjudicado.
+Por el servicio de vigilancia, inspección y control que las leyes en la materia encomiendan a la Secretaría de la Contraloría, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente del 5.0 al millar sobre el importe de cada una de las estimaciones de trabajo; así mismo los proveedores con quienes se celebren contratos de prestación de servicios pagarán un derecho del 2.0 al millar sobre el importe del contrato adjudicado.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 108 Bis.
+Artículo 108 BIS. Por la expedición de oficios de habilitación, se causarán 1.0 días de salario mínimo general vigente en el Estado.
 
-Por la expedición de constancias de no inhabilitación, se causarán 0.5 días de salario mínimo general vigente en el Estado.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 108 Bis
+
+1. Por el servicio de expedición de Constancia de No Antecedentes Penales se causarán $74.00.
+
+### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
+
+### CAPÍTULO QUINTO. ALMACENAJE
 
 ###### Artículo 109.
 
-Los derechos por servicios de legalización de firmas, certificaciones y expedición de copias y documentos por funcionarios y empleados del Gobierno del Estado, se causarán conforme a las siguientes bases y tarifas por hoja
+Los derechos por servicios de trámites de legalización de firmas, certificaciones y expedición de copias y documentos por funcionarios y empleados del Gobierno del Estado, se causarán conforme a las siguientes bases y tarifas por hoja:
 
 Tarifa en días de salario
 
@@ -3067,23 +3567,21 @@ mínimo general vigente
 
 en el Estado
 
-I. Legalización de firmas: 1
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+I. Legalización de firmas: 2.00 SMGV
 
 II. Certificación de firmas: 1
 
-III. Apostilla: 2
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-IV. Apostilla de documentos notariales: 3
+III. Apostilla: 3.00 SMGV
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-V. Por los servicios que preste la Procuraduría
+IV. Apostilla de documentos notariales: 4.00 SMGV
 
-General de Justicia del Estado, tratándose de
-
-la Constancia de no antecedentes penales o
-
-no penales: 1
+V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2007)</small>
 
@@ -3135,9 +3633,11 @@ y más de cincuenta;
 
 Para la legalización de firma y expedición de certificaciones, certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos respectivos.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 110.
 
-La legalización de firmas, certificados, certificaciones y copias certificadas que se soliciten con carácter urgente, entendiendo por ello a los que deban realizarse en menos de 24 horas, causarán el doble de la correspondiente cuota fija por la tarifa.
+La legalización de firmas, certificados, certificaciones y copias certificadas que se soliciten con carácter urgente, entendiendo por ello a los que deban realizarse hasta el día hábil siguiente al que se solicite el servicio, causarán el doble de la correspondiente cuota fija por la tarifa.
 
 ###### Artículo 111.
 
@@ -3193,6 +3693,14 @@ Por cada 25 cm. Extras
 
 Los solicitantes que proporcionen el material en el que sea reproducida la información pública quedarán exentos del pago previsto en este artículo. Asimismo por éste concepto no se generará el impuesto a que hace referencia el Capítulo Octavo Título Segundo de la presente Ley.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 114 Bis.
+
+Los derechos por servicios en materia de innovación, ciencia y tecnología, se causarán conforme a las siguientes tarifas:
+
+(VÉASE ARCHIVO ANEXO)
+
 ## TÍTULO QUINTO. DE LOS PRODUCTOS
 
 ###### Artículo 115.
@@ -3237,7 +3745,7 @@ Los beneficiarios efectuarán pagos provisionales mensuales a más tardar el dí
 
 ###### Artículo 119.
 
-Las utilidades por acciones y participaciones en sociedades o empresas, el rendimiento por otras inversiones en sociedades o empresas, el rendimiento por otras inversiones en créditos y valores, y las recuperaciones e inversiones en acciones, créditos y valores, se considerarán productos en su calidad de ingresos financieros del Estado y su captación, manejo y administración se llevará a cabo por la Secretaría de Finanzas y Planeación del Estado, con base en la línea de política económica que dicte el Ejecutivo del Estado.
+Las utilidades por acciones y participaciones en sociedades o empresas, el rendimiento por otras inversiones en sociedades o empresas, el rendimiento por otras inversiones en créditos y valores, y las recuperaciones e inversiones en acciones, créditos y valores, se considerarán productos en su calidad de ingresos financieros del Estado y su captación, manejo y administración se llevará a cabo por la Secretaría, con base en la línea de política económica que dicte el Ejecutivo del Estado.
 
 ###### Artículo 120.
 
@@ -3319,9 +3827,11 @@ Por cada plana. $1,000.00
 
 Quedarán exentos de pago las publicaciones a que se refiere este artículo, cuando se trate de ordenamientos expedidos por los Poderes Legislativo, Ejecutivo, Judicial, así como por los Ayuntamientos del Estado en el cumplimiento o ejercicio de sus funciones, sean de carácter general y de interés público.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 121.
 
-El monto de los productos no especificados se determinará por la Secretaría de Finanzas y Planeación del Estado.
+El monto de los productos no especificados se determinará por la Secretaría.
 
 ###### Artículo 122.
 
@@ -3343,7 +3853,9 @@ I. Si los bienes son almacenados en cumplimiento de contrato celebrado por el Go
 
 II. Cuando los bienes almacenados pertenezcan a la Federación, al Gobierno del Estado o a los Municipios.
 
-Las cuotas de almacenaje que establece este Capítulo deberán pagarse anticipadamente por períodos de treinta días; cuando hayan transcurrido cinco días después de su vencimiento y no se hubieren cubierto totalmente, la Secretaría de Finanzas y Planeación del Estado, previo acuerdo del Ejecutivo del Estado, ordenará se proceda a la cobranza judicial, afectándose de preferencia los mismos bienes almacenados.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las cuotas de almacenaje que establece este Capítulo deberán pagarse anticipadamente por períodos de treinta días; cuando hayan transcurrido cinco días después de su vencimiento y no se hubieren cubierto totalmente, la Secretaría, previo acuerdo del Ejecutivo del Estado, ordenará se proceda a la cobranza judicial, afectándose de preferencia los mismos bienes almacenados.
 
 ## TÍTULO SEXTO. DE LOS APROVECHAMIENTOS
 
@@ -3379,9 +3891,11 @@ XII. Otros conceptos no especificados.
 
 ## TÍTULO SÉPTIMO. DE LA COORDINACIÓN FISCAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 126.
 
-Las participaciones y aportaciones por Ingresos Federales, se percibirán de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, y se ingresarán íntegramente a la Secretaría de Finanzas y Planeación.
+Las participaciones y aportaciones por Ingresos Federales se percibirán de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, y se ingresarán íntegramente a la Secretaría.
 
 Respecto de los ingresos previstos en esta Ley que contravengan al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y al Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrados entre el Gobierno Federal y el Gobierno del Estado de Morelos, se suspenderá su cobro mientras continúen vigentes dichos convenios. La suspensión de cobro, no exime de ninguna manera a los particulares del estricto cumplimiento de las demás obligaciones que le imponen los ordenamientos jurídicos y las disposiciones reglamentarias o administrativas dictadas o que se dicten, ni se entenderá como limitante de la facultad del Estado para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones, realizar actos de inspección y vigilancia, y demás requisitos que las normas establezcan.
 
@@ -3632,3 +4146,11 @@ TERCERA.- El presente Decreto entrará en vigor el día 1 de Enero de 2014, prev
 Difúndase en todo el Estado y que los treinta y tres Ayuntamientos lo den a conocer en todas sus comunidades, colonias, fraccionamientos y rancherías, a efecto de que ningún adulto mayor, se quede sin la pensión por no tener su acta de nacimiento; asimismo, publíquese en el portal de internet del Congreso del Estado.
 
 CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 49 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia el día primero de enero del año 2014.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
