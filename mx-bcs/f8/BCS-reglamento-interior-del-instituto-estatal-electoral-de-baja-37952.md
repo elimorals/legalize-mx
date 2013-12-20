@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-instituto-estatal-electoral-de-baja-379
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-19"
-last_updated: "2012-05-10"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el jueves 19 de febrero de 2004.
 
@@ -827,11 +827,13 @@ XV. Ejercer las partidas presupuestales aprobadas, aplicando las políticas, nor
 
 XVI. De conformidad con la normatividad aplicable, establecer políticas, lineamientos y directrices para que los Comités organicen, administren sus recursos financieros, humanos, materiales y técnicos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
-XVII. Acordar lo conducente respecto a incentivos, haber por retiro, seguros de separación garantizado y demás prestaciones, en base a la disposición presupuestaria, y conforme al Manual de Administración de Remuneraciones que apruebe el Consejo General.
+XVII. Acordar lo conducente respecto a incentivos, seguros de separación garantizado y demás prestaciones, en base a la disposición presupuestaria, y conforme al Manual de Administración de Remuneraciones que apruebe el Consejo General.
 
-Las demás que le confiera la Ley, el Consejo General y el presente Reglamento.
+En caso de terminación anticipada del cargo o cambio de estructura, se indemnizará a los integrantes del Consejo General a excepción de los partidos políticos por el tiempo que le falte en su encargo; en el caso del titular de la Secretaría General, se le indemnizará por el mismo tiempo que le falte al Consejero Presidente que lo propuso y se tomará en cuenta para el pago de las mencionadas indemnizaciones, el salario integrado que se perciba a la fecha de la separación, así como pagos correspondientes a vacaciones, aguinaldo y demás prestaciones económicas que el Instituto otorga al funcionario, independientemente de la indemnización que corresponda por Ley Federal del Trabajo, en los que se incluirán incluso lo señalado en el artículo 50, fracción II de esta misma.
+
+Y en el caso del personal institucional, excepto los de contrato por tiempo determinado, se indemnizará con la cantidad que resulte de 180 días de salario integrado, independientemente de la indemnización que corresponda por Ley Federal del Trabajo en los que se incluirán incluso lo señalado en el artículo 50, fracción II de esta misma.
 
 F) COMISIÓN DE MEDIOS DE COMUNICACIÓN
 
@@ -1801,6 +1803,144 @@ Los acuerdos respecto al horario que emita el Consejo General, deberán ser noti
 
 Durante el proceso electoral todos los días y horas son hábiles. Durante los períodos en que esté transcurriendo algún término para que los partidos políticos, candidatos o sus representantes debidamente acreditados presenten, acrediten o interpongan recursos, entre otros, habrá una guardia permanente en sus oficinas que recibirá los escritos correspondientes, hasta que fenezca el término fijado por la Ley. Los plazos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+## TÍTULO SÉPTIMO. DEL ÓRGANO DE CONTROL INTERNO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 89.
+
+El Órgano de Control Interno del Instituto Estatal Electoral de Baja California Sur, tendrá a su cargo la fiscalización de los ingresos y egresos del mismo; en el ejercicio de sus atribuciones estará dotado de autonomía técnica para decidir sobre su funcionamiento, dictámenes y resoluciones, sujetándose a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 90.
+
+El presente título, así como el Título Octavo, tienen por objeto regular lo relativo a la integración, atribuciones y funcionamiento del órgano de control interno del Instituto Estatal Electoral de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 91.
+
+El presente Reglamento se sujetará a las reglas de interpretación establecidas en el artículo 5, párrafo primero de la Ley Electoral del Estado de Baja California Sur.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+## TÍTULO OCTAVO. DE SU ESTRUCTURA Y ORGANIZACIÓN
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO I. DE SU ESTRUCTURA
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 92.
+
+Para la gestión y resolución de los asuntos de su competencia el Órgano de Control Interno contará con la siguiente estructura:
+
+I. Titular del Órgano de Control Interno, mismo que será nombrado por el Consejo General a propuesta del Consejero Presidente, cuyo rango dentro de la Estructura Organizacional de este Instituto, será equivalente al de una Secretaría Técnica;
+
+II. El número de asistentes que le apruebe el Consejo General, de acuerdo a la disponibilidad Presupuestal del Instituto.
+
+Con independencia de la estructura aprobada por el Consejo General, las demás áreas y Comisiones que conforman el Instituto brindarán apoyo en los asuntos con ellas relacionados.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO II. DE LOS REQUISITOS
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 93.
+
+Para ocupar puesto de Titular del Órgano de Control Interno, el funcionario Público deberá cumplir con los siguientes Requisitos:
+
+- Ser Licenciado en Administración Pública, Contabilidad, Economía, Derecho o carreras afines; titulado y con Cédula Profesional;
+
+- Contar con experiencia en por lo menos un Proceso Electoral, ya sea Estatal o Federal;
+
+- Contar con experiencia en materia de Contabilidad Gubernamental, Armonización Contable y elaboración de Proyectos de Cuenta Pública.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO III. DE LAS FACULTADOES (SIC) DEL ÓRGANO DE CONTROL INTERNO
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 94.
+
+El Titular del Órgano de Control Interno tendrá las facultades siguientes:
+
+I. Fijar los criterios para la realización de las auditorias, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos del Instituto.
+
+II. Examinar las operaciones cualesquiera que sea su naturaleza del Instituto, para verificar los estados financieros; los resultados de operación; uso eficiente de los recursos; cumplimiento eficaz y congruente de los objetivos y metas; determinar el grado de economía, eficacia, eficiencia, efectividad, imparcialidad, honestidad y apego a la normatividad con que sean administrados los ingresos y egresos.
+
+III. Coadyuvar al funcionamiento del sistema de control y evaluación gubernamental del Instituto a través de emisión de propuestas con un enfoque preventivo para su fortalecimiento.
+
+IV. Ordenar y realizar, por sí o en coordinación con otras instancias externas de fiscalización, las auditorías y visitas de inspección, así como suscribir las cédulas de observaciones y el informe correspondiente y comunicar su resultado al Consejero Presidente del Consejo General del Instituto, y a los responsables de las áreas auditadas;
+
+V. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorias y revisiones que realice en el cumplimiento de sus funciones.
+
+VI. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos.
+
+VII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto.
+
+VIII. Verificar que la Comisión de Administración hubiere recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes.
+
+IX. Revisar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias.
+
+X. Verificar las obras, adquisiciones o arrendamientos y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente, con estricto apego a la normatividad aplicable.
+
+XI. Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan.
+
+XII. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones.
+
+XIII. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto, y llevar el registro de los servidores públicos sancionados.
+
+XIV. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto.
+
+XV. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar.
+
+XVI. Efectuar visitas a las sedes físicas de las áreas y comisiones del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas.
+
+XVII. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas.
+
+XVIII. Formular pliegos de observaciones en materia administrativa.
+
+XIX. Determinar los daños y perjuicios que afecten al Instituto en su patrimonio y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes.
+
+XX. Fincar las responsabilidades e imponer las sanciones en términos de la Legislación adjetiva aplicable.
+
+XXI. Presentar a la aprobación del Consejo General sus programas anuales de trabajo.
+
+XXII. Presentar al Consejo General los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente.
+
+XXIII. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca el propio órgano de control interno.
+
+XXIV. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda.
+
+XXV. Participar, a través de su titular, con voz pero sin voto, en las sesiones del Consejo por motivo del ejercicio de sus facultades cuando así lo considere necesario el Consejero Presidente.
+
+XXVI. Evaluar los informes de avance de la gestión de programas y proyectos respecto de los autorizados por el Consejo General.
+
+XXVII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza electoral, de capacitación, organización y demás aprobados por el Consejo.
+
+XXVIII. Validar el proyecto de Cuenta Pública que el Instituto presente al Congreso del Estado.
+
+XXIX. Mantener una estrecha relación de colaboración y apoyo con el Órgano de Fiscalización del Congreso del Estado.
+
+XXX. Las demás que otorgue las Leyes y Reglamentos aplicables en la materia.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 95.
+
+Para el desarrollo de las actividades del Órgano de Control Interno, las áreas, especialmente los responsables del manejo de los recursos financieros, humanos, materiales y servicios generales, por conducto de sus Titulares, deberán presentar la documentación e información que les sea requerida.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este reglamento entrara en vigor a partir del día de su aprobación por el Consejo General.
@@ -1830,3 +1970,15 @@ B.O. 10 DE MAYO DE 2012.
 TERCERO: Las modificaciones al Reglamento Interior del Instituto Estatal Electoral de Baja California Sur adicionado, entrarán en vigor a partir del día siguiente de la publicación del presente Acuerdo en el Boletín Oficial del Gobierno del Estado.
 
 ...
+
+B.O. 20 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DEL PRESENTE ORDENAMIENTO.</small>
+
+Cuarto.- La modificación a la fracción XVII, correspondiente al inciso E), del artículo 30 del Reglamento Interior del Instituto Estatal Electoral de Baja California Sur, surtirá sus efectos el mismo día de la aprobación del presente Acuerdo, por el Consejo General del Instituto Estatal Electoral de Baja California Sur.
+
+Quinto.- La adición de dos párrafos a la fracción XVII, correspondiente al inciso E), del artículo 30 del Reglamento Interior del Instituto Estatal Electoral de Baja California Sur, surtirá sus efectos el mismo día de la aprobación del presente Acuerdo, por el Consejo General del Instituto Estatal Electoral de Baja California Sur.
+
+Sexto.- La adición de los Títulos Séptimo y Octavo del Reglamento Interior del Instituto Estatal Electoral de Baja California Sur, surtirá sus efectos, al momento de la publicación del Decreto por el que se adiciona la fracción IX del artículo tercero de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, de fecha 07 de noviembre de 2013, en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Séptimo.- Notifíquese el presente Acuerdo a los partidos políticos debidamente acreditados ante el Consejo General y publíquese en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en la página de Internet www.ieebcs.org.mx
