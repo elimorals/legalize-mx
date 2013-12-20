@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2013-11-27"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -927,7 +927,47 @@ L.- Conocer y resolver en el ámbito de su competencia, de los recursos de revoc
 
 LI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales; y
 
-LII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+LII.- Vigilar e inspeccionar el cumplimiento y operación en los términos de las leyes respectivas de las concesiones, permisos y autorizaciones para la explotación de la infraestructura de transportes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+LIII.- Celebrar convenios con la Federación, Estados y Municipios para cumplir con las facultades y atribuciones que le otorga la ley y demás ordenamientos legales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+LIV.- Conjuntamente con la Secretaría de Transportes del Estado o de manera directa, vigilar, verificar e inspeccionar el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+LV.- Comprobar la correcta aplicación de rutas, horarios, itinerarios y tarifas del servicio de transporte;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+LVI.- Inspeccionar y vigilar el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+LVII.- Requerir la información necesaria a Dependencias, Entidades, Municipios o particulares para el debido cumplimiento de sus facultades, imponiendo en los casos que proceda las sanciones o medidas respectivas; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+LVIII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 ### CAPÍTULO VI. DE LA SECRETARÍA DE COMPETITIVIDAD, TRABAJO Y DESARROLLO ECONÓMICO
 
@@ -1497,7 +1537,11 @@ VIII.- Promover y fomentar la participación de los diversos sectores de la soci
 
 IX.- Promover la construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura de transportes que se efectúen en el Estado;
 
-X.- Otorgar, revocar, cancelar, suspender, modificar y dar por terminadas las concesiones, permisos y autorizaciones para la explotación de la infraestructura de transportes, vigilando e inspeccionando su cumplimiento y operación en los términos de las leyes respectivas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+X.- Otorgar, revocar, cancelar, suspender, modificar y dar por terminadas las concesiones, permisos y autorizaciones para la administración y explotación de la infraestructura de transportes y de los servicios auxiliares, vigilando en el ámbito de su competencia, su cumplimiento y operación en los términos de las leyes respectivas;
 
 XI.- Celebrar convenios, contratos y demás actos jurídicos, así como emitir las opiniones que procedan con relación a los actos en los que intervengan los prestadores de servicios de transportes;
 
@@ -1507,11 +1551,19 @@ XIII.- Llevar a cabo por sí o a través de terceros, las acciones tendientes a 
 
 XIV.- Fomentar la organización de sociedades cuyo objeto sea la prestación de servicios de transportes;
 
-XV.- Vigilar, verificar e inspeccionar el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XV.- Vigilar, verificar e inspeccionar, de manera directa o conjunta con la Secretaría de la Contraloría, el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
 
 XVI.- Normar y establecer las políticas y criterios para llevar a cabo directamente o a través de terceros, los estudios y proyectos de ingeniería de tránsito, de transporte público mercantil, así como proponer la instalación y mantenimiento de la señalización en las obras viales del Estado;
 
-XVII.- Diseñar y establecer las políticas y criterios para el establecimiento de rutas, horarios, itinerarios y tarifas del servicio de transporte autorizando, modificando, cancelando, actualizando y comprobando su correcta aplicación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XVII.- Diseñar y establecer las políticas y criterios para el establecimiento de rutas, horarios, itinerarios y tarifas del servicio de transporte autorizando, modificando, cancelando y actualizando su correcta aplicación;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1523,7 +1575,11 @@ XIX.- Expedir la documentación para la prestación del servicio de transporte, 
 
 XX.- Establecer los requisitos que deban satisfacer los particulares y el personal técnico del servicio de transporte, así como expedir las licencias, permisos, concesiones y autorizaciones respectivas;
 
-XXI.- Regular, inspeccionar y vigilar el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XXI.- Regular, el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
 
@@ -2274,3 +2330,33 @@ P.O. 27 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días naturales de su publicación en el Periódico Oficial del Estado, a excepción de lo previsto en el artículo siguiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Las modificaciones a los artículos 4, a las fracciones VII, VIII y IX del 6, a la fracción IV del 17, el 22 Ter, el 34 Quater, el 39, el 40, el 48, a la fracción VI del 61, el 70, el 79, el 84, el 85, el 94, el 95 Bis, el 95 Ter, el 95 Quater, el 95 Quinquies, el 95 Sexies, el 103 y el 138 de la Ley del Transporte para el Estado de Puebla; así como la fracción X del 42 de la Ley Orgánica de la Administración Pública del Estado de Puebla, entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Transportes, transferirá los expedientes, recursos humanos, materiales y financieros que correspondan a las funciones que se otorgan a la Secretaría de la Contraloría, a la entrada de la vigencia del presente Decreto y a que se refiere el artículo Primero Transitorio.
+
+###### ARTÍCULO CUARTO.
+
+Las Secretarías de Finanzas y Administración, y de la Contraloría, supervisarán la transmisión de los recursos a que se refiere el artículo anterior.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto a que se refiere el artículo Primero Transitorio, y que se relacionan con las facultades dadas a la Secretaría de la Contraloría, se substanciarán por la Secretaría de Transportes en el ámbito de su competencia, hasta su total solución.
+
+###### ARTÍCULO SEXTO.
+
+Los Reglamentos que norman las actividades otorgadas a la Secretaría de la Contraloría e interiores de las Dependencias referidas en el presente Decreto, deberán modificarse en un término de noventa días contados a partir de la entrada en vigor del presente Decreto, mientras tanto se aplicarán en lo conducente los vigentes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
