@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-juventud-del-estado-de-campeche-82686"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-13"
-last_updated: "2013-08-29"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el miércoles 13 de julio de 2011.
 
@@ -563,9 +563,19 @@ XXIII. Operar e implementar programas integrales que vayan dirigidos a disminuir
 
 XXIV. Fungir como representante del Ejecutivo del Estado en materia de la juventud, ante los órganos de gobierno federal y municipal, organizaciones privadas, sociales y organismos internacionales, y participar en foros, convenciones, encuentros y demás reuniones, cuando así lo solicite el Ejecutivo Estatal;
 
-XXV. Impulsar el mejoramiento de las instituciones y servicios para la juventud; y
+XXV. Impulsar el mejoramiento de las instituciones y servicios para la juventud; y (sic)
 
-XXVI. Las demás que le otorgue la presente ley y otros ordenamientos legales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XXVI. Realizar cada tres años encuestas entre la población juvenil de la entidad, a efecto de conocer sus necesidades y promover adecuaciones a las políticas públicas relacionadas con la juventud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XXVII. Las demás que le otorgue la presente ley y otros ordenamientos legales.
 
 ### Capítulo II. Órganos de Gobierno y sus Atribuciones
 
@@ -836,3 +846,11 @@ P.O. 29 DE AGOSTO DE 2013.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La primera encuesta de las que se refiere la fracción XXVI del artículo 44 que se reforma, deberá realizarse en el periodo que no exceda del día 31 de diciembre de 2014, para lo cual se tomarán las previsiones presupuestales necesarias al efecto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
