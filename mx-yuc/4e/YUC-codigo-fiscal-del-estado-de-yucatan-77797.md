@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2011-12-22"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2011.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 131 PUBLICADO EN EL D.O. DE 20 DE DICIEMBRE DE 2013, VÉASE ARTÍCULO PRIMERO TRANSITORIO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -99,9 +101,13 @@ Los créditos fiscales son las cantidades de contenido monetario que tiene derec
 
 También son créditos fiscales aquellos a los que las leyes otorguen ese carácter, y el Estado o sus organismos tengan derecho a percibir por cuenta ajena.
 
-La Secretaría de Hacienda, por conducto de sus oficinas recaudadoras, instituciones de crédito, módulos fijos o itinerantes o medios electrónicos así como cualquier otra forma o lugar debidamente autorizada por ésta, es la competente para efectuar la recaudación de los ingresos del Estado, aún cuando lo ingresos sean destinados para un fin específico.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Las autoridades que remitan a la Secretaría de Hacienda créditos fiscales para su cobro, deberán cumplir con los requisitos que mediante reglas de carácter general que para tales efectos emita dicha Secretaría.
+La Agencia de Administración Fiscal de Yucatán, por conducto de sus oficinas recaudadoras, instituciones de crédito, módulos fijos o itinerantes o medios electrónicos así como cualquier otra forma o lugar debidamente autorizada por esta, es la competente para efectuar la recaudación de los ingresos del Estado, aun cuando lo (sic) ingresos sean destinados para un fin específico.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las autoridades que remitan a la Agencia de Administración Fiscal de Yucatán créditos fiscales para su cobro, deberán cumplir con los requisitos que mediante reglas de carácter general que para tales efectos emita dicha Agencia.
 
 ###### Artículo 9.
 
@@ -127,7 +133,9 @@ III. En cualquier otro caso, dentro de los cinco días siguientes al momento de 
 
 En el caso de contribuciones que se deben pagar mediante retención, aún cuando quien deba efectuarla no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
 
-Quien haga pago de créditos fiscales deberá obtener de la autoridad recaudadora la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Hacienda o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora o el acuse de recibo electrónico con sello digital. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo electrónico con sello digital.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Quien haga pago de créditos fiscales deberá obtener de la autoridad recaudadora la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Agencia de Administración Fiscal de Yucatán o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora o el acuse de recibo electrónico con sello digital. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo electrónico con sello digital.
 
 ###### Artículo 11.
 
@@ -147,9 +155,17 @@ a) El local en que se encuentre el principal asiento de sus negocios, cuando rea
 
 b) El local que utilicen para el desempeño de sus actos o actividades afectos a contribuciones o aprovechamientos, cuando no realicen las actividades señaladas en el inciso anterior;
 
-c) Su casa habitación, cuando no cuenten con un local para el desarrollo de los actos, actividades o situaciones jurídicas objeto de contribuciones o aprovechamientos, o las realicen en la vía pública, y en último caso el lugar en que se encuentren;
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-d) El predio, cuando se trate de créditos fiscales que tengan relación con bienes inmuebles ubicados en el Estado, en lo que se refiera a éstos, si fueran varios y el contribuyente no señalare alguno, el que designe la autoridad, siempre y cuando el contribuyente no tenga casa habitación en el Estado, y
+c) Su casa habitación, cuando no cuenten con un local para el desarrollo de los actos, actividades o situaciones jurídicas objeto de contribuciones o aprovechamientos, o las realicen en la vía pública, y en último caso el lugar en que se encuentren, y
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+d) El predio, cuando se trate de créditos fiscales que tengan relación con bienes inmuebles ubicados en el Estado, en lo que se refiera a estos, si fueran varios y el contribuyente no señalare alguno, el que designe la autoridad, siempre y cuando el contribuyente no tenga casa habitación en el Estado.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en los incisos anteriores o no hayan sido localizados en los mismos, se considerará como domicilio el que hayan manifestado a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten estas.
 
 II. En el caso de personas morales: el local ubicado en el Estado donde se encuentre la administración principal del negocio.
 
@@ -289,7 +305,9 @@ VI. Dirección de Correo Electrónico: el sistema de comunicación a través de 
 
 VII. Sello Digital: el mensaje electrónico que acredita que un documento digital fue recibido por la autoridad correspondiente y estará sujeto a la misma regulación aplicable al uso de una firma electrónica, y
 
-VIII. Transferencia Electrónica de Fondos: el pago de contribuciones efectuado por las personas físicas o morales o terceros relacionados, que tiene por objeto la afectación por parte de las instituciones financieras a su cuenta bancaria en favor de la Secretaría de Hacienda.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VIII. Transferencia Electrónica de Fondos: el pago de contribuciones efectuado por las personas físicas o morales o terceros relacionados, que tiene por objeto la afectación por parte de las instituciones financieras a su cuenta bancaria en favor de la Secretaría de Administración y Finanzas.
 
 ###### Artículo 24.
 
@@ -297,7 +315,9 @@ Cuando las disposiciones fiscales establezcan la obligación de presentar declar
 
 Los contribuyentes que utilicen medios electrónicos para el cumplimiento de sus obligaciones deberán contar con una firma electrónica emitida por las autoridades fiscales competentes. La firma electrónica sustituye a la firma autógrafa y confirma el vínculo entre el firmante así como la integridad del documento, produciendo el mismo valor probatorio que la autógrafa.
 
-La Secretaría de Hacienda emitirá normas de carácter general que determinen las reglas de operación del uso de medios electrónicos para obligaciones fiscales.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Agencia de Administración Fiscal de Yucatán emitirá normas de carácter general que determinen las reglas de operación del uso de medios electrónicos para obligaciones fiscales.
 
 ###### Artículo 25.
 
@@ -315,7 +335,9 @@ Las autoridades fiscales establecerán los medios para que los contribuyentes pu
 
 Toda promoción que se presente ante las autoridades fiscales deberá contener la firma autógrafa o la firma electrónica de quien la formule y sin este requisito se tendrá por no presentada. Cuando el promovente no sepa o no pueda firmar, imprimirá su huella dactilar.
 
-Las promociones dirigidas a las autoridades fiscales podrán presentarse en los formatos impresos o por medio de las formas y medios electrónicos, que para ambos efectos apruebe la Secretaría de Hacienda, acompañados del número de ejemplares correspondiente según la forma preestablecida y los anexos requeridos. Cuando no existan formas impresas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las promociones dirigidas a las autoridades fiscales podrán presentarse en los formatos impresos o por medio de las formas y medios electrónicos, que para ambos efectos apruebe la Agencia de Administración Fiscal de Yucatán, acompañados del número de ejemplares correspondiente según la forma preestablecida y los anexos requeridos. Cuando no existan formas impresas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
 
 I. Constar por escrito;
 
@@ -329,7 +351,9 @@ Cuando las promociones que presenten los contribuyentes no cumplan con los requi
 
 Cuando las autoridades fiscales duden de la autenticidad de la firma o ésta no sea legible requerirán al promovente a fin de que, en el mismo plazo señalado en el párrafo anterior, se presente a ratificar la firma plasmada en la promoción.
 
-Cuando la Secretaría de Hacienda autorice mediante reglas de carácter general la presentación de promociones mediante documento electrónico, también señalará a través de dichas reglas los requisitos que se deberán cumplir. Una vez recibida por vía electrónica cualquier promoción de los contribuyentes, las autoridades fiscales emitirán el acuse de recibo electrónico correspondiente, señalando la fecha y la hora de recibido.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Cuando la Agencia de Administración Fiscal de Yucatán autorice mediante reglas de carácter general la presentación de promociones mediante documento electrónico, también señalará a través de dichas reglas los requisitos que se deberán cumplir. Una vez recibida por vía electrónica cualquier promoción de los contribuyentes, las autoridades fiscales emitirán el acuse de recibo electrónico correspondiente, señalando la fecha y la hora de recibido.
 
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al Registro Estatal de Contribuyentes.
 
@@ -351,7 +375,9 @@ VI. Describir las razones de negocio que motivan la operación planteada;
 
 VII. Indicar si los hechos o circunstancias sobre los que verse la promoción han sido previamente planteados ante la misma autoridad u otra distinta, o ha sido materia de medios de defensa ante autoridades administrativas o jurisdiccionales y, en su caso, el sentido de la resolución; y
 
-VIII. Indicar si el contribuyente se encuentra sujeto al ejercicio de las facultades de comprobación por parte de la Secretaría de Hacienda o del Servicio de Administración Tributaria, señalando los periodos y las contribuciones, objeto de la revisión. Asimismo, deberá mencionar si se encuentra dentro del plazo para que las autoridades fiscales emitan la resolución a que se refiere el artículo 73 de este Código.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VIII. Indicar si el contribuyente se encuentra sujeto al ejercicio de las facultades de comprobación por parte de la Agencia de Administración Fiscal de Yucatán o del Servicio de Administración Tributaria, señalando los periodos y las contribuciones, objeto de la revisión. Asimismo, deberá mencionar si se encuentra dentro del plazo para que las autoridades fiscales emitan la resolución a que se refiere el artículo 73 de este Código.
 
 Cuando no se cumplan los requisitos a que se refiere este artículo, se estará a lo dispuesto en el último párrafo del artículo 26 de este Código.
 
@@ -363,17 +389,29 @@ Los particulares o sus representantes podrán autorizar por escrito a personas q
 
 La representación derivada de la ley se acreditará con el documento idóneo que establezca la legislación correspondiente. En los casos de copropiedad fungirá como representante legal el designado conforme la legislación que regula su constitución. En los fideicomisos que realicen actos gravados y que por ellos se deban cubrir contribuciones o aprovechamientos, se considera como representante a la institución fiduciaria.
 
-Las autoridades fiscales expedirán al otorgante de la representación que lo solicite la constancia de inscripción al registro estatal de representantes legales, con dicha constancia se podrá acreditar la representación en los trámites que se realicen ante dichas autoridades. La Secretaría de Hacienda mediante reglas de carácter general, podrá simplificar los requisitos para acreditar la representación de las personas físicas y morales en el registro de representantes legales.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-La solicitud de inscripción al registro estatal de representantes así como sus requisitos y formas de cancelación se regularán por las disposiciones generales que para tales efectos emita la Secretaría de Hacienda.
+Las autoridades fiscales expedirán al otorgante de la representación que lo solicite la constancia de inscripción al registro estatal de representantes legales, con dicha constancia se podrá acreditar la representación en los trámites que se realicen ante dichas autoridades. La Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general, podrá simplificar los requisitos para acreditar la representación de las personas físicas y morales en el registro de representantes legales.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La solicitud de inscripción al registro estatal de representantes así como sus requisitos y formas de cancelación se regulará por las disposiciones generales que para tales efectos emita la Agencia de Administración Fiscal de Yucatán.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 29.
 
-Las contribuciones, aprovechamientos y sus accesorios se causarán y pagarán en moneda nacional y por los siguientes medios: en efectivo, cheques certificados o de caja, salvo buen cobro y transferencia electrónica de fondos a favor de la Secretaría de Hacienda.
+Las contribuciones, aprovechamientos y sus accesorios se causarán y pagarán en moneda nacional.
 
-La transferencia de fondos consiste en el pago de contribuciones que las instituciones de crédito realizan por cuenta de los contribuyentes o terceros, a través de la afectación electrónica de fondos de su cuenta bancaria a favor de la Secretaría de Hacienda.
+Se aceptará como medio de pago de las contribuciones y aprovechamientos, efectivo, cheques certificados o de caja salvo buen cobro, la transferencia electrónica de fondos a favor de la Secretaría de Administración y Finanzas, así como tarjetas de crédito y débito. La Agencia de Administración Fiscal de Yucatán podrá expedir reglas de carácter general para la aceptación del pago de contribuciones y aprovechamientos con tarjetas de crédito y débito.
 
-Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes del adeudo principal, a los accesorios en el siguiente orden:
+Para el caso de tarjetas de crédito y débito, este medio de pago podrá tener asociado el pago de comisiones a cargo del contribuyente.
+
+Para los efectos de este Código se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Secretaría de Administración y Finanzas, se realiza por las instituciones de crédito, en forma electrónica.
+
+Los pagos con cheque podrán no estar certificados cuando se trate de operaciones que no excedan de $2,000.00
+
+Los pagos se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes del adeudo principal, a los accesorios, en el siguiente orden:
 
 I. Gastos de ejecución;
 
@@ -385,9 +423,9 @@ IV. La indemnización a que se refiere el séptimo párrafo del artículo 30 de 
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
-Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 a 50 centavos se ajusten a la unidad de peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad del peso inmediata superior.
+Para determinar las contribuciones se considerarán, inclusive, las fracciones de peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 a 50 centavos se ajusten a la unidad de peso inmediata inferior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad del peso inmediata superior.
 
-Cuando las leyes fiscales establezcan que las contribuciones sean pagadas mediante declaración, la Secretaría de Hacienda podrá ordenar que se proporcione en declaración distinta de aquélla con la cual se efectúe el pago, la información necesaria en materia de estadística de ingresos. La Secretaría de Hacienda podrá autorizar otros medios de pago.
+Cuando las leyes fiscales establezcan que las contribuciones sean pagadas mediante declaración, la Agencia de Administración Fiscal de Yucatán podrá ordenar que se proporcione, en declaración distinta de aquella con la cual se efectúe el pago, la información necesaria en materia de estadística de ingresos. La Agencia de Administración Fiscal de Yucatán podrá autorizar otros medios de pago.
 
 ###### Artículo 30.
 
@@ -429,7 +467,9 @@ Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autori
 
 En el caso de que en una solicitud de devolución existan errores en sus datos, la autoridad requerirá al contribuyente para que mediante escrito y en un plazo de diez días aclare dichos datos, apercibiéndolo que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente.. (sic) El contribuyente no tendrá que presentar una nueva solicitud de devolución, cuando la autoridad le requiera que aclare datos erróneos en su solicitud o anexos, este requerimiento suspende el plazo para la devolución, durante el periodo que transcurra entre el día hábil siguiente al en que surta efecto la notificación del requerimiento y la fecha en que se atienda el mismo. Dicho requerimiento suspenderá el plazo previsto para efectuar la devolución, durante el período que transcurra entre el día hábil siguiente al en que surta efectos la notificación del requerimiento y la fecha en que se atienda éste.
 
-Las devolución (sic) deberán efectuarse dentro del plazo de cuarenta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, incluyendo para el caso de depósito en cuenta, los datos de la institución financiera y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado, así como los demás informes y documentos que señale la Secretaría de Hacienda tratándose de contribuyentes cuyos estados financieros sean dictaminados por contador público autorizado en los términos del artículo 47 de este Código, el plazo para que las autoridades fiscales efectúen la devolución será de veinticinco días. Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios y que estén relacionados con la misma. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de veinte días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Las autoridades fiscales sólo podrán efectuar un nuevo requerimiento, dentro de los diez días siguientes a la fecha en la que se haya cumplido el primer requerimiento, cuando se refiera a datos, informes o documentos que hayan sido aportados por el contribuyente al atender dicho requerimiento. Para el cumplimiento del segundo requerimiento, el contribuyente contará con un plazo de diez días y le será aplicable el apercibimiento a que se refiere este párrafo. Cuando la autoridad requiera al contribuyente los datos, informes o documentos, antes señalados, el período transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación de los plazos para la devolución antes mencionados.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las devoluciones deberán efectuarse dentro del plazo de cuarenta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, incluyendo para el caso de depósito en cuenta, los datos de la institución financiera y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado, así como los demás informes y documentos que señale la Agencia de Administración Fiscal de Yucatán tratándose de contribuyentes cuyos estados financieros sean dictaminados por contador público autorizado en los términos del artículo 47 de este Código, el plazo para que las autoridades fiscales efectúen la devolución será de veinticinco días. Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios y que estén relacionados con la misma. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de veinte días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Las autoridades fiscales sólo podrán efectuar un nuevo requerimiento, dentro de los diez días siguientes a la fecha en la que se haya cumplido el primer requerimiento, cuando se refiera a datos, informes o documentos que hayan sido aportados por el contribuyente al atender dicho requerimiento. Para el cumplimiento del segundo requerimiento, el contribuyente contará con un plazo de diez días y le será aplicable el apercibimiento a que se refiere este párrafo. Cuando la autoridad requiera al contribuyente los datos, informes o documentos, antes señalados, el período transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que estos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación de los plazos para la devolución antes mencionados.
 
 Cuando en la solicitud de devolución únicamente existan errores aritméticos en la determinación de la cantidad solicitada, las autoridades fiscales devolverán las cantidades que correspondan, sin que sea necesario presentar una declaración complementaria.
 
@@ -457,7 +497,9 @@ Cuando las autoridades fiscales procedan a la devolución sin ejercer las facult
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal. Para estos efectos, la solicitud de devolución que presente el particular se considera como gestión de cobro que interrumpe la prescripción, excepto cuando el particular se desista de la solicitud.
 
-La Secretaría de Hacienda, mediante disposiciones de carácter general, podrá establecer los casos en los que no obstante que se ordene el ejercicio de las facultades de comprobación a que hace referencia el párrafo séptimo del presente artículo, regirán los plazos establecidos por el párrafo cuarto del mismo, para efectuar la devolución.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Agencia de Administración Fiscal de Yucatán, mediante disposiciones de carácter general, podrá establecer los casos en los que no obstante que se ordene el ejercicio de las facultades de comprobación a que hace referencia el párrafo séptimo de este artículo, regirán los plazos establecidos por el párrafo cuarto del mismo, para efectuar la devolución.
 
 ###### Artículo 32.
 
@@ -485,7 +527,9 @@ El contribuyente deberá proporcionar el número de su cuenta en los términos s
 
 Los estados de cuenta que emiten las instituciones financieras son considerados como comprobante del pago de la devolución respectiva. En los casos en los que el día que venza el plazo a que se refiere el precepto citado no sea posible efectuar el depósito por causas imputables a la institución financiera designada por el contribuyente, dicho plazo se suspenderá hasta en tanto pueda efectuarse dicho depósito. También se suspenderá el plazo cuando no sea posible efectuar el depósito en la cuenta proporcionada por el contribuyente por ser dicha cuenta inexistente, contenga errores el número de la cuenta o ésta se haya cancelado, hasta en tanto el contribuyente proporcione el número de la cuenta correcta.
 
-La Secretaría de Hacienda mediante reglas de carácter general podrá autorizar la devolución en efectivo o cheque nominativo o el uso de medios electrónicos.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general podrá autorizar la devolución en efectivo o cheque nominativo o el uso de medios electrónicos.
 
 ###### Artículo 34.
 
@@ -527,7 +571,17 @@ II. Las personas que estén obligadas a efectuar pagos por cuenta del contribuye
 
 III. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión;
 
-IV. La persona o personas cualquiera que sea el nombre con que se les designe, a quienes se haya conferido la dirección general, la gerencia general, o la administración única de las personas morales, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas personas morales durante su gestión, así como por las que debieron pagarse o enterarse durante la misma;
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IV. La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general o la administración única de las personas morales, serán responsables solidarios por las contribuciones causadas, no retenidas o no recaudadas por dichas personas morales durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirigen, cuando dicha persona moral incurra en cualquiera de los siguientes supuestos:
+
+a) No solicite su inscripción en el Registro Estatal de Contribuyentes;
+
+b) Cambie su domicilio sin presentar el aviso correspondiente, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que este se haya cubierto o hubiera quedado sin efectos;
+
+c) No lleve contabilidad, la oculte o la destruya, y
+
+d) Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio.
 
 V. Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma;
 
@@ -551,9 +605,17 @@ XIV. Quienes reciban servicios personales subordinados o independientes, cuando 
 
 XV. Los asociados, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por el asociante mediante la asociación en participación, cuando tenían tal calidad, sin que la responsabilidad exceda de la aportación hecha a la asociación en participación durante el periodo o a la fecha de que se trate;
 
-XVI. Las instituciones de crédito autorizadas para llevar a cabo operaciones fiduciarias respecto de los créditos fiscales que se hubieran causado por los ingresos derivados de la actividad objeto del fideicomiso, y
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-XVII. Los representantes o apoderados de los contribuyentes que hayan girado cheques para cubrir créditos fiscales sin tener fondos disponibles, o que teniéndolos dispongan de ellos antes de que transcurra el plazo de presentación, o que no estén autorizados para girar los cheques a cargo del librado.
+XVI. Las instituciones de crédito autorizadas para llevar a cabo operaciones fiduciarias respecto de los créditos fiscales que se hubieran causado por los ingresos derivados de la actividad objeto del fideicomiso;
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XVII. Los representantes o apoderados de los contribuyentes que hayan girado cheques para cubrir créditos fiscales sin tener fondos disponibles, o que teniéndolos dispongan de ellos antes de que transcurra el plazo de presentación, o que no estén autorizados para girar los cheques a cargo del librado, y
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XVIII. Los albaceas o representantes de la sucesión por las contribuciones que se causaron o se debieron pagar durante el período de su encargo.
 
 Los responsables solidarios previstos en este artículo quedan obligados a cubrir la totalidad de los créditos fiscales. El fisco puede exigir de cualquiera de ellos simultánea o separadamente el cumplimiento de las obligaciones fiscales.
 
@@ -565,7 +627,9 @@ Las personas físicas o morales, que realicen actividades por las que se deban p
 
 Las personas físicas y morales a que se refiere el párrafo anterior manifestarán ante el Registro Estatal de Contribuyentes su domicilio fiscal. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo 13 de este Código cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
 
-El Registro Estatal de Contribuyentes a que se refiere este artículo estará a cargo de la Secretaría de Hacienda.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+El Registro Estatal de Contribuyentes a que se refiere este artículo estará a cargo de la Agencia de Administración Fiscal de Yucatán.
 
 ###### Artículo 40.
 
@@ -589,17 +653,27 @@ V. Reanudación, cuando se esté nuevamente obligado a presentar alguna de las d
 
 VI. Traspaso de la negociación, liquidación o cancelación definitiva de actividades; y
 
-VII. Cualquier otro que se traduzca en alguna modificación de los datos que se encuentren registrados en la Secretaría de Hacienda, dentro de los quince días siguientes a aquél en que se actualice la situación jurídica o de hecho.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-La Secretaría de Hacienda conformará el Registro Estatal de Contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, o bien podrá considerar la clave del Registro Federal de Contribuyentes, la cual deberá citarse en todo documento que se presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Hacienda sea parte. Las personas inscritas deberán conservar en su domicilio fiscal la documentación comprobatoria de haber cumplido con las obligaciones que establecen este artículo.
+VII. Cualquier otro que se traduzca en alguna modificación de los datos que se encuentren registrados en la Agencia de Administración Fiscal de Yucatán, dentro de los quince días siguientes a aquél en que se actualice la situación jurídica o de hecho.
 
-La clave a que se refiere el párrafo que antecede se proporcionará a los contribuyentes a través de la cédula de identificación fiscal o la constancia de registro fiscal, las cuales deberán contener las características que señale la Secretaría de Hacienda mediante reglas de carácter general.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Agencia de Administración Fiscal de Yucatán realizará la inscripción o actualización en el Registro Estatal de Contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo o en los que obtenga por cualquier otro medio; también podrá requerir aclaraciones a los contribuyentes, así como corregir los datos con base en evidencias que recabe, incluyendo aquellas proporcionada (sic) por terceros; asimismo, asignará la clave que corresponda a cada persona que inscriba, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales; cuando en este último caso se trate de asuntos en que la Agencia de Administración Fiscal de Yucatán sea parte. Las personas inscritas deberán conservar en su domicilio fiscal la documentación comprobatoria de haber cumplido con las obligaciones que establecen este artículo.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La clave a que se refiere el párrafo que antecede se proporcionará a los contribuyentes a través de la cédula de identificación fiscal o la constancia de registro fiscal, las cuales deberán contener las características que señale la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general.
 
 Tratándose de establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que se utilice para el desempeño de sus actividades, los contribuyentes deberán presentar aviso de apertura o cierre de dichos lugares y conservar en los lugares citados el aviso de apertura, debiendo exhibirlo a las autoridades fiscales cuando éstas lo soliciten.
 
-La solicitud o los avisos a que se refiere este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados. Las autoridades fiscales podrán verificar la existencia y localización del domicilio fiscal manifestado por el contribuyente en el aviso respectivo.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Las personas físicas que no se encuentren en los supuestos del párrafo primero de este artículo, podrán solicitar su inscripción al Registro Estatal de Contribuyentes, cumpliendo los requisitos establecidos mediante reglas de carácter general que para tal efecto publique la Secretaría de Hacienda.
+La solicitud o los avisos a que se refiere este artículo que se presenten en forma extemporánea surtirán sus efectos a partir de la fecha en que sean presentados. Las autoridades fiscales podrán verificar la existencia y localización del domicilio fiscal manifestado por el contribuyente en el aviso de cambio de domicilio y, en el caso de que el lugar señalado no se considere domicilio fiscal en los términos del artículo 13 de este Código o los contribuyentes no sean localizados en dicho domicilio, el aviso de cambio de domicilio no surtirá sus efectos. Tal situación será notificada a los contribuyentes por cualquiera de los medios que señala el artículo 156 de este Código.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las personas físicas que no se encuentren en los supuestos del párrafo primero de este artículo podrán solicitar su inscripción al Registro Estatal de Contribuyentes, cumpliendo los requisitos establecidos mediante las reglas de carácter general que para tal efecto publique la Agencia de Administración Fiscal de Yucatán.
 
 ###### Artículo 41.
 
@@ -613,7 +687,9 @@ En todo caso el cheque a que se refiere el párrafo anterior deberá ser de la c
 
 Cuando por disposición de las leyes fiscales las personas físicas o morales estén obligadas a llevar contabilidad observarán las siguientes reglas:
 
-I. Utilizarán los sistemas y registros contables que señale este Código y demás disposiciones legales aplicables. Cuando los contribuyentes no estén obligados a llevar un determinado tipo de contabilidad, por lo menos contarán con una contabilidad simplificada, en los términos que señale la Secretaría de Hacienda, mediante disposiciones de carácter general;
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+I. Utilizarán los sistemas y registros contables que señale este Código y demás disposiciones legales aplicables. Cuando los contribuyentes no estén obligados a llevar un determinado tipo de contabilidad, por lo menos contarán con una contabilidad simplificada, en los términos que señale la Agencia de Administración Fiscal de Yucatán, mediante disposiciones de carácter general;
 
 II. Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas;
 
@@ -623,11 +699,15 @@ IV. Conservarán la documentación y registro comprobatorio de las erogaciones, 
 
 V. En cuanto a las sucursales, bodegas, oficinas, agencias, establecimientos, instalaciones o locales u otras dependencias cuyo domicilio principal, no se encuentre dentro del Estado, deberán poner a disposición de las autoridades fiscales locales competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de las contribuciones estatales, así como del resto de las obligaciones fiscales estatales a su cargo.
 
-Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos que establezca la Secretaría de Hacienda mediante reglas de carácter general.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, esta deberá continuar llevando su contabilidad cumpliendo con los requisitos que establezca la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general.
 
 Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, ya sean estatales o federales, los que lleven los contribuyentes, aun cuando no sean obligatorios, y los libros y registros sociales a que obliguen otras leyes.
 
-En los casos en los que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los papeles de trabajo, registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+En los casos en los que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los papeles de trabajo, estados de cuenta, registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
 ###### Artículo 43.
 
@@ -637,7 +717,9 @@ Las personas que no estén obligadas a llevar contabilidad deberán conservar en
 
 La documentación a que se refiere el párrafo anterior de este artículo y la contabilidad, deberán conservarse durante un plazo de cinco años, contado a partir de la fecha en la que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas. Tratándose de la contabilidad y de la documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de referencia comenzará a computarse a partir del día en el que se presente la declaración en la que se hayan producido dichos efectos. Cuando se trate de la documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, el plazo para conservarla se computará a partir de la fecha en la que quede firme la resolución que les ponga fin. Tratándose de las actas constitutivas de las personas morales, de los contratos de asociación en participación, de las actas en las que se haga constar el aumento o la disminución del capital social y la fusión o la escisión de sociedades, dicha documentación deberá conservarse por todo el tiempo en el que subsista la sociedad o contrato de que se trate.
 
-Las personas que dictaminen sus estados financieros por contador público autorizado en los términos del artículo 75 de este Código, podrán grabar en discos o en cualquier otro medio la parte de su contabilidad que autorice la Secretaría de Hacienda, mediante reglas de carácter general, en cuyo caso, los discos y cualquier otro medio, tendrán el mismo valor que los originales, siempre que cumplan con los requisitos que al respecto establezcan las citadas reglas; tratándose de personas morales, el presidente del consejo de administración o en su defecto la persona física que la dirija, serán directamente responsables del cumplimiento de esta disposición.. (sic) Asimismo, la propia Secretaría de Hacienda podrá autorizar procedimientos que faciliten a los contribuyentes el cumplimiento de las obligaciones a que se refiere este artículo.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las personas que dictaminen sus estados financieros por contador público autorizado en los términos del artículo 75 de este Código, podrán grabar en discos o en cualquier otro medio la parte de su contabilidad que autorice la Agencia de Administración Fiscal de Yucatán, mediante reglas de carácter general, en cuyo caso, los discos y cualquier otro medio, tendrán el mismo valor que los originales, siempre que cumplan con los requisitos que al respecto establezcan las citadas reglas; tratándose de personas morales, el presidente del consejo de administración o en su defecto la persona física que la dirija, serán directamente responsables del cumplimiento de esta disposición..(sic) Asimismo, la propia Agencia de Administración Fiscal de Yucatán podrá autorizar procedimientos que faciliten a los contribuyentes el cumplimiento de las obligaciones a que se refiere este artículo.
 
 Cuando al inicio de una visita domiciliaria los contribuyentes hubieran omitido asentar registros en su contabilidad dentro de los plazos establecidos en las disposiciones fiscales, dichos registros sólo podrán efectuarse después de que la omisión correspondiente haya sido asentada en acta parcial; esta obligación subsiste inclusive cuando las autoridades hubieran designado un depositario distinto del contribuyente, siempre que la contabilidad permanezca en alguno de sus establecimientos. El contribuyente deberá seguir llevando su contabilidad independientemente de lo dispuesto en este párrafo.
 
@@ -649,11 +731,15 @@ Los contribuyentes que lleven su contabilidad o parte de ella utilizando registr
 
 Cuando el contribuyente lleve su contabilidad mediante los sistemas manual o mecanizado o cuando su equipo de cómputo no pueda procesar dispositivos en los términos señalados por la Secretaría, la información deberá proporcionarse en las formas que al efecto apruebe dicha dependencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 45.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes, declaraciones o avisos ante las autoridades fiscales, así como expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Hacienda, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes, declaraciones o avisos ante las autoridades fiscales, así como expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Agencia de Administración Fiscal de Yucatán, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran.
 
-En los casos en que las formas para la presentación de declaraciones o avisos y expedición de constancias que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Hacienda, los obligados a presentarlas deberán formularlas por triplicado, cumpliendo con los requerimientos señalados en el artículo 26 de este Código, así como el período y los datos relativos a la obligación que pretendan cumplir; cuando se trate de la obligación de pago se deberá señalar además el monto del mismo.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+En los casos en que las formas para la presentación de declaraciones o avisos y expedición de constancias que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Agencia de Administración Fiscal de Yucatán, los obligados a presentarlas deberán formularlas por triplicado, cumpliendo con los requerimientos señalados en el artículo 26 de este Código, así como el período y los datos relativos a la obligación que pretendan cumplir; cuando se trate de la obligación de pago se deberá señalar además el monto del mismo.
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas que no tengan su domicilio fiscal en el territorio del Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones periódicas, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
 
@@ -663,11 +749,17 @@ Las personas obligadas a presentar solicitud de inscripción o avisos en los té
 
 Cuando las disposiciones fiscales no señalen plazo para la presentación de declaraciones, se tendrá por establecido el de quince días siguientes a la realización del hecho de que se trate.
 
-La Secretaría de Hacienda, mediante reglas de carácter general, podrá facilitar la recepción de pagos de impuestos mediante la autorización de instrucciones anticipadas de pagos.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-A petición del contribuyente, la Secretaría de Hacienda emitirá una constancia en la que se señalen las declaraciones presentadas por el citado contribuyente en el ejercicio de que se trate y la fecha de presentación de las mismas. Dicha constancia únicamente tendrá carácter informativo y en ella no se prejuzgará sobre el correcto cumplimiento de las obligaciones a su cargo. Para ello, la Secretaría de Hacienda contará con un plazo de veinte días computados a partir de que sea enviada la solicitud correspondiente, siempre que se hubieran pagado los derechos que al efecto se establezcan en la ley de la materia.
+La Agencia de Administración Fiscal de Yucatán, mediante reglas de carácter general, podrá facilitar la recepción de pagos de impuestos mediante la autorización de instrucciones anticipadas de pagos.
 
-Las declaraciones, avisos y solicitudes de inscripción en el Registro Estatal de Contribuyentes y demás documentos que exijan las disposiciones fiscales, deberán ser presentados en la oficina de la propia Secretaría de Hacienda o en las recaudadoras de la misma, de acuerdo con la ubicación del domicilio fiscal del contribuyente, pudiendo hacer la presentación en cualquier otra oficina que autorice la propia Secretaría. También podrán enviarse por medio del servicio postal en pieza certificada o mensajería. En estos últimos casos se tendrá como fecha de presentación la del día en que se haga la entrega a las oficinas correspondientes.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+A petición del contribuyente, la Agencia de Administración Fiscal de Yucatán emitirá una constancia en la que se señalen las declaraciones presentadas por el citado contribuyente en el ejercicio de que se trate y la fecha de presentación de las mismas. Dicha constancia únicamente tendrá carácter informativo y en ella no se prejuzgará sobre el correcto cumplimiento de las obligaciones a su cargo. Para ello, la Agencia de Administración Fiscal de Yucatán contará con un plazo de veinte días computados a partir de que sea enviada la solicitud correspondiente, siempre que se hubieran pagado los derechos que al efecto se establezcan en la ley de la materia.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las declaraciones, avisos y solicitudes de inscripción en el Registro Estatal de Contribuyentes y demás documentos que exijan las disposiciones fiscales, deberán ser presentados en la oficina de la propia Agencia de Administración Fiscal de Yucatán o en las recaudadoras de la misma, de acuerdo con la ubicación del domicilio fiscal del contribuyente, pudiendo hacer la presentación en cualquier otra oficina que autorice la propia Agencia. También podrán enviarse por medio del servicio postal en pieza certificada o mensajería. En estos últimos casos se tendrá como fecha de presentación la del día en que se haga la entrega a las oficinas correspondientes.
 
 Las oficinas a que se refiere el párrafo anterior recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente se podrá rechazar la presentación cuando no contenga el nombre del contribuyente, su clave de registro estatal, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos, o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
@@ -697,9 +789,11 @@ Se presentará la declaración correspondiente conforme a lo previsto por el qui
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 30 de este Código, a partir de la fecha en que se debió hacer el pago.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 47.
 
-Las personas físicas y morales podrán dictaminar sus estados financieros para efectos de contribuciones estatales, aplicando para ello las disposiciones generales que emita la Secretaría de Hacienda para la presentación de dictámenes de estados financieros para efectos fiscales. Tanto el aviso como la presentación del dictamen se presentarán en la Dirección de Auditoría y Fiscalización dependiente de la Secretaría de Hacienda. El aviso para dictaminarse se presentará a más tardar el 31 de diciembre del año en que se dictamen (sic). No surtirá efecto fiscal alguno el dictamen cuando ocurra alguna de las siguientes situaciones:
+Las personas físicas y morales podrán dictaminar sus estados financieros para efectos de contribuciones estatales, aplicando para ello las disposiciones generales que emita la Agencia de Administración Fiscal de Yucatán para la presentación de dictámenes de estados financieros para efectos fiscales. Tanto el aviso como la presentación del dictamen se presentarán en la Dirección de Auditoría Fiscal dependiente de la Agencia de Administración Fiscal de Yucatán. El aviso para dictaminarse se presentará a más tardar el 31 de diciembre del año en que se dictamen (sic). No surtirá efecto fiscal alguno el dictamen cuando ocurra alguna de las siguientes situaciones:
 
 I. Se presente el aviso fuera del plazo mencionado, y
 
@@ -720,6 +814,10 @@ IV. No hayan presentado alguna declaración en los plazos señalados por las ley
 La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
 
 Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco Estatal para el pago de los adeudos correspondientes.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar al contratante la constancia de cumplimiento de las obligaciones fiscales del subcontratante.
 
 ###### Artículo 49.
 
@@ -773,9 +871,11 @@ Cuando las leyes fiscales hagan referencia a la firma electrónica, se entender�
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 53.
 
-Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo de seis días siguientes a aquél en que haya surtido efectos la notificación de las resoluciones a que se refieren los artículos 61 fracción I, 103, 104 y 106 fracciones I, III y VI de este Código, así como en los casos en que la autoridad fiscal determine mediante reglas de carácter general que emita la Secretaría de Hacienda, a efecto de hacer las aclaraciones que consideren pertinentes, debiendo la autoridad, resolver en un plazo de seis días contados a partir de que quede debidamente integrado el expediente mediante el procedimiento previsto en las citadas reglas de carácter general.
+Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo de seis días siguientes a aquel en que haya surtido efectos la notificación de las resoluciones a que se refieren los artículos 61 fracción I, 103, 104 y 106 fracciones I, III y VI de este Código, así como en los casos en que la autoridad fiscal determine mediante reglas de carácter general que emita la Agencia de Administración Fiscal de Yucatán, a efecto de hacer las aclaraciones que consideren pertinentes, debiendo la autoridad, resolver en un plazo de seis días contados a partir de que quede debidamente integrado el expediente mediante el procedimiento previsto en las citadas reglas de carácter general.
 
 Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que emita la autoridad fiscal no podrán ser impugnadas por los particulares.
 
@@ -809,11 +909,15 @@ Los funcionarios fiscales facultados debidamente podrán dar a conocer a las div
 
 Las resoluciones administrativas de carácter individual favorables a un particular solamente podrán ser modificadas por el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, mediante resolución que recaiga a un juicio iniciado por las autoridades fiscales.
 
-Cuando la Secretaría de Hacienda modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Cuando la Agencia de Administración Fiscal de Yucatán modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
 Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas fueron emitidas en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando éste no hubiera interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
 
-Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la Secretaría de Hacienda al respecto no podrán ser impugnadas por los contribuyentes.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la Agencia de Administración Fiscal de Yucatán al respecto no podrán ser impugnadas por los contribuyentes.
 
 ###### Artículo 57.
 
@@ -837,7 +941,9 @@ IV. Estar fundado, motivado y expresar la resolución, objeto o propósito de qu
 
 V. Ostentar la firma de funcionario competente y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalará los datos suficientes que permitan su identificación. En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica del funcionario competente, la que tendrá el mismo valor que la firma autógrafa.
 
-Los servidores públicos de la Secretaría de Hacienda competentes en materia fiscal tramitarán su firma electrónica de acuerdo con lo señalado las (sic) leyes de la materia.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Los servidores públicos de la Agencia de Administración Fiscal de Yucatán competentes en materia fiscal tramitarán su firma electrónica de acuerdo con lo señalado las (sic) leyes de la materia.
 
 En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica.
 
@@ -857,23 +963,91 @@ III. Conceder subsidios o estímulos fiscales.
 
 Las resoluciones que conforme a este artículo dicte el Ejecutivo estatal deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplir los beneficiados.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 60.
 
-Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados se opongan, impidan u obstaculicen físicamente el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, éstas podrán aplicar como medidas de apremio las siguientes:
+Las autoridades fiscales podrán emplear las medidas de apremio que se indican a continuación cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, impidan de cualquier forma o cualquier medio el inicio o desarrollo del ejercicio de las facultades:
 
 I. Solicitar el auxilio de la fuerza pública;
 
+Para los efectos de esta fracción, los cuerpos de seguridad o policiales deberán presentar en forma expedita el apoyo que solicite la autoridad fiscal.
+
+El apoyo que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales ingresen al domicilio fiscal, establecimientos, sucursales, oficinas, locales, puestos fijos o semifijos, lugares en los que se almacenen mercancías y, en general, cualquier local o establecimiento que utilicen para el desempeño de sus actividades los contribuyentes, así como para brindar la seguridad necesaria al personal actuante, y se solicitará en los términos de los ordenamientos que regulan la seguridad pública del estado.
+
 II. Imponer la multa que corresponda en los términos de este Código;
 
-III. Decretar el aseguramiento precautorio de los bienes o de la negociación del contribuyente, y
+III. Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente o responsable solidario, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a estos, conforme a lo establecido en el artículo 60-A, y
 
-Para los efectos de esta fracción, la autoridad que practique el aseguramiento precautorio deberá levantar acta circunstanciada en la que precise de qué manera el contribuyente se opuso, impidió u obstaculizó físicamente el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, y deberá observar en todo momento las disposiciones contenidas en este Código;
+IV. Solicitar a la autoridad competente se proceda por desobediencia o resistencia, por parte del contribuyente, responsable solidario, o tercero relacionado con ellos, a un mandato legítimo de autoridad competente.
 
-IV. Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
+Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracción I, cuando los contribuyentes, responsables solidarios, o terceros relacionados con ellos no atiendan la solicitudes de información o los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados, o cuando destruyan o alteren la misma.
 
-Para efectos de este artículo, las autoridades judiciales estatales y los cuerpos de seguridad o policiales deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal estatal. En los casos de cuerpos de seguridad pública estatal o de los municipios, el apoyo se solicitará en los términos de los ordenamientos que regulan la seguridad pública o, en su caso, de conformidad con los acuerdos de colaboración administrativa que se tengan celebrados.
+No se aplicarán medidas de apremio cuando• los contribuyentes, responsables solidarios o terceros relacionados con ellos manifiesten por escrito a la autoridad que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito y lo acrediten exhibiendo las pruebas correspondientes.
 
-El apoyo a que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales ingresen al domicilio fiscal, establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que se utilicen para el desempeño de las actividades de los contribuyentes, para estar en posibilidad de iniciar el acto de fiscalización o continuar el mismo; así como en brindar la seguridad necesaria a los visitadores.
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 60-A.
+
+El aseguramiento precautorio de los bienes o de la negociación de los contribuyentes o los responsables solidarios, a que se refiere la fracción III del artículo 60 de este Código, así como el levantamiento del mismo, en su caso, se realizará conforme a lo siguiente:
+
+I. Se practicará una vez agotada las medidas de apremio a que se refieren las fracciones I y II del artículo 60 de este ordenamiento, salvo en los casos siguientes:
+
+a) Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes o los responsables solidarios no sean localizados en su domicilio fiscal; desocupen o abandonen el mismo sin presentar el aviso correspondiente; hayan desaparecido, o se ignore su domicilio;
+
+b) Cuando las autoridades fiscales practiquen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y estos no puedan demostrar que se encuentran inscritos en el registro estatal de contribuyentes o, en su caso, no exhiban los comprobantes que amparen la legal posesión o propiedad de las mercancías que enajenen en dichos lugares, y
+
+c) Cuando una vez iniciadas las facultades de comprobación exista riesgo inminente de que los contribuyentes o los responsables solidarios oculten, enajenen o dilapiden sus bienes.
+
+II. La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que la misma realice para estos efectos. Para lo anterior, se podrá utilizar cualquier (sic) de los procedimientos establecidos en los artículos 81 y 82 de este Código.
+
+La autoridad fiscal que practique el aseguramiento precautorio levantará acta circunstanciada en la que precise las razones por las cuales realiza dicho aseguramiento, misma que se notificará al contribuyente en ese acto.
+
+III. El aseguramiento precautorio se sujetará al orden siguiente:
+
+a) Bienes inmuebles, en este caso, el contribuyente o su representante legal deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, aseguramiento o embargo anterior; se encuentran en copropiedad, o pertenecen a sociedad conyugal alguna. Cuando la diligencia se entienda con un tercero, se deberá requerir a este para que, bajo protesta de decir verdad, manifieste si tiene conocimiento de que el bien que pretende asegurarse es propiedad del contribuyente y, en su caso, proporcione la documentación con la que cuente para acreditar su dicho.
+
+b) Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la federación, estados y municipios y de instituciones o empresas de reconocida solvencia.
+
+c) Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales.
+
+d) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de artes y oficios, indistintamente.
+
+e) Dinero y metales preciosos.
+
+f) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para pago de dicho seguro, o cualquier otro depósito, componente, producto o instrumento de ahorro o inversión en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamos, salvo de los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de veinte salarios mínimos elevados al año, tal como establece la ley de los sistemas de ahorro para el retiro.
+
+g) Los bienes muebles no comprendidos en las fracciones anteriores.
+
+h) La negociación del contribuyente.
+
+Los contribuyentes, responsables solidarios o terceros relacionados con ellos deberán acreditar la propiedad de los bienes sobre los que se practique el aseguramiento precautorio.
+
+Cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos no cuenten o, bajo protesta de decir verdad, manifiesten no contar con alguno de los bienes a asegurar conforme al orden establecido, se asentará en el acta circunstanciada referida en el segundo párrafo de la fracción II de este artículo.
+
+En el supuesto de que el valor del bien a asegurar conforme al orden establecido exceda del monto de la determinación provisional de adeudos fiscales presuntos efectuada por la autoridad, se podrá practicar el aseguramiento sobre el siguiente bien en el orden de prelación.
+
+Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivados de que los contribuyentes, los responsables solidarios o terceros relacionados con ellos no sean localizables en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido o se ignore su domicilio, el aseguramiento se practicará sobre los bienes a que se refiere el inciso f) de esta fracción.
+
+Tratándose de las visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública a que se refiere el inciso b) de la fracción I de este artículo, el aseguramiento se practicará sobre las mercancías que se enajenen en dichos lugares, sin que sea necesario establecer un monto de la determinación provisional de adeudos fiscales presuntos.
+
+IV. En ningún caso procederá el embargo precautorio de los depósitos bancarios, otros depósitos o seguros del contribuyente, por un monto mayor al de la determinación provisional de adeudos fiscales presuntos que la autoridad fiscal realice para efectos del aseguramiento, ya sea que se practique sobre una sola cuenta o contrato o más de uno. Lo anterior, siempre y cuando previo al aseguramiento, la autoridad fiscal cuente con información de las cuentas o contratos y los saldos que existan en los mismos.
+
+V. La autoridad fiscal notificará al contribuyente, responsable solidario o tercero relacionado con ellos, a más tardar el tercer día siguiente a aquel en que se haya practicado el aseguramiento, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación se hará personalmente al contribuyente, responsable solidario o tercero relacionado.
+
+VI. Los bienes asegurados precautoriamente podrán, desde el momento en que se notifique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 203 de este Código.
+
+El contribuyente, responsable solidario o tercero relacionado con ellos que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
+
+Lo establecido en esta fracción no será aplicable tratándose del aseguramiento que se practique sobre los bienes a que se refieren los incisos e) y f) de la fracción III de este artículo, así como sobre las mercancías que se enajenen en los locales, puestos fijos o semifijos en la vía pública, cuando el contribuyente visitado no demuestre estar inscrito en el registro estatal de contribuyentes, o bien, no exhiba los comprobantes que amparen la legal posesión o propiedad de dichas mercancías.
+
+VII. Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen al aseguramiento precautorio, o bien exista orden de suspensión emitida por autoridad competente que el contribuyente haya obtenido, la autoridad deberá ordenar que se levante la medida a más tardar el tercer día siguiente a que ello suceda.
+
+Cuando la autoridad constate que el aseguramiento precautorio se practicó por una cantidad mayor a la debida, únicamente ordenará su levantamiento hasta por el monto excedente.
+
+Tratándose de los supuestos establecidos en el inciso b) de la fracción I de este artículo, el aseguramiento precautorio quedará sin efecto cuando se acredite la inscripción al registro estatal de contribuyentes o se acredite la legal posesión o propiedad de la mercancía, según sea el caso.
+
+Para la práctica del aseguramiento precautorio se observará las disposiciones contenidas en la Sección II del Capítulo III del Título V de este Código, en aquello que no se oponga a lo previsto en este artículo.
 
 ###### Artículo 61.
 
@@ -919,7 +1093,9 @@ VI. Practicar u ordenar se practique avalúo o verificación física de toda cla
 
 VII. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones, y
 
-VIII. Allegarse las pruebas necesarias para formular la denuncia o querella ante Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la ley concede a las actas de la policía judicial. La Secretaría de Hacienda, a través de los profesionales en derecho que designe, será coadyuvante del Ministerio Público Estatal, en los términos del Código de Procedimientos en Materia Penal del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VIII. Allegarse las pruebas necesarias para formular la denuncia o querella ante Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la ley concede a las actas de la policía judicial. La Agencia de Administración Fiscal de Yucatán, a través de los profesionales en derecho que designe, será coadyuvante del Ministerio Público Estatal, en los términos del Código de Procedimientos en Materia Penal del Estado de Yucatán.
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
@@ -959,7 +1135,9 @@ IV. Las autoridades fiscales podrán solicitarles a otras autoridades competente
 
 Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás documentos que acrediten el cumplimiento de las disposiciones fiscales, los (sic) que los visitadores podrán sacar copias para que, previo cotejo con sus originales, sean certificadas por éstos y sean anexadas a las actas finales o parciales que levanten con motivo de la visita. También deberán permitir la verificación de bienes y mercancías, así como de los documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
 
-Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o la microfilmen o graben en discos ópticos o en cualquier otro medio que autorice la Secretaría de Hacienda, mediante reglas de carácter general deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o la microfilmen o graben en discos ópticos o en cualquier otro medio que autorice la Agencia de Administración Fiscal de Yucatán, mediante reglas de carácter general deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita.
 
 De igual manera los visitadores podrán obtener copias de la contabilidad y demás papeles relacionados con el cumplimiento de las disposiciones fiscales, para que, previo cotejo con los originales, sean certificadas por los visitadores en los supuestos siguientes:
 
@@ -1033,7 +1211,9 @@ V. Tratándose de la fracción VIII del artículo anterior, el plazo se suspende
 
 Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento;
 
-VI. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Diario Oficial del Gobierno del Estado de Yucatán y en la página de Internet de la Secretaría de Hacienda del Estado.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VI. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Diario Oficial del Gobierno del Estado de Yucatán y en la página de Internet de la Agencia de Administración Fiscal de Yucatán.
 
 Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, los contribuyentes interponen algún medio de defensa en contra de los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
@@ -1109,15 +1289,21 @@ Las autoridades fiscales que al ejercer las facultades de comprobación a que se
 
 Cuando las autoridades fiscales conozcan de terceros hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario sujeto a las facultades de comprobación a que se refiere el artículo 71, le darán a conocer al incumplido el resultado de aquella actuación mediante oficio de observaciones, para que pueda presentar documentación a fin de desvirtuar los hechos consignados en el mismo, dentro del plazo a que se refiere la fracción VI del citado artículo 71.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 75.
 
-Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes que tengan repercusiones para contribuciones locales, siempre que reúnan los requisitos establecidos en las disposiciones de carácter general que emita la Secretaría de Hacienda.
+Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes que tengan repercusiones para contribuciones locales, siempre que reúnan los requisitos establecidos en las disposiciones de carácter general que emita la Agencia de Administración Fiscal de Yucatán.
 
 Las opiniones o interpretaciones contenidas en los dictámenes no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
 
-Cuando el contador público no dé cumplimiento a las disposiciones referidas en este artículo, o no aplique las normas y procedimientos de auditoría, la autoridad fiscal, previa audiencia, exhortará o amonestará al contador público registrado, o suspenderá hasta por dos años los efectos de su registro conforme a las reglas de carácter general que emita la Secretaría de Hacienda. Si hubiera reincidencia o el contador hubiere participado en la comisión de un delito de carácter fiscal, o no exhiba a requerimiento de autoridad los papeles de trabajo que elaboró con motivo de la auditoría practicada a los estados financieros del contribuyente para efectos fiscales, se procederá a la cancelación definitiva de dicho registro. En estos casos se dará inmediatamente aviso por escrito al colegio profesional y, en su caso, a la federación de colegios profesionales a que pertenezca el contador público en cuestión.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Las sociedades o asociaciones civiles conformadas por los despachos de contadores públicos registrados, cuyos integrantes obtengan autorización para formular los dictámenes a que se refiere el primer párrafo de este artículo, deberán registrarse ante la Secretaría de Hacienda, conforme a las reglas de carácter general que al efecto emita la Secretaría antes mencionada.
+Cuando el contador público no dé cumplimiento a las disposiciones referidas en este artículo, o no aplique las normas y procedimientos de auditoría, la autoridad fiscal, previa audiencia, exhortará o amonestará al contador público registrado, o suspenderá hasta por dos años los efectos de su registro conforme a las reglas de carácter general que emita la Agencia de Administración Fiscal de Yucatán. Si hubiera reincidencia o el contador hubiere participado en la comisión de un delito de carácter fiscal, o no exhiba a requerimiento de autoridad los papeles de trabajo que elaboró con motivo de la auditoría practicada a los estados financieros del contribuyente para efectos fiscales, se procederá a la cancelación definitiva de dicho registro. En estos casos se dará inmediatamente aviso por escrito al colegio profesional y, en su caso, a la federación de colegios profesionales a que pertenezca el contador público en cuestión.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las sociedades o asociaciones civiles conformadas por los despachos de contadores públicos registrados, cuyos integrantes obtengan autorización para formular los dictámenes a que se refiere el primer párrafo de este artículo, deberán registrarse ante la Agencia de Administración Fiscal de Yucatán, conforme a las reglas de carácter general que al efecto emita la Agencia antes mencionada.
 
 ###### Artículo 76.
 
@@ -1179,9 +1365,11 @@ I. Seis días, tratándose de papeles de trabajo elaborados con motivo del dicta
 
 II. Quince días, tratándose de otra documentación o información relacionada con el dictamen, que esté en poder del contribuyente.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 79.
 
-Para determinar contribuciones omitidas, la Secretaría de Hacienda tendrá por ciertos los hechos u omisiones conocidos por las autoridades fiscales federales, así como las de otras entidades federativas, salvo prueba en contrario.
+Para determinar contribuciones omitidas, la Agencia de Administración Fiscal de Yucatán tendrá por ciertos los hechos u omisiones conocidos por las autoridades fiscales federales, así como las de otras entidades federativas, salvo prueba en contrario.
 
 ###### Artículo 80.
 
@@ -1255,9 +1443,11 @@ III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se compru
 
 IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 86.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien, que consten en los expedientes, documentos o bases de datos que lleven o tengan acceso las autoridades fiscales, así como aquellos proporcionados por otras autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Hacienda.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien, que consten en los expedientes, documentos o bases de datos que lleven o tengan acceso las autoridades fiscales, así como aquellos proporcionados por otras autoridades fiscales, podrán servir para motivar las resoluciones de la Agencia de Administración Fiscal de Yucatán.
 
 Las copias, impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos, o magneto ópticos de documentos que tengan en su poder las autoridades, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias, impresiones o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
@@ -1265,19 +1455,23 @@ Las copias, impresiones o reproducciones que deriven del microfilm, disco óptic
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales deberán pagarse o garantizarse, junto con sus accesorios, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos su notificación. excepto tratándose de créditos fiscales determinados en términos del artículo 61, fracción II de este Código en cuyo caso el pago deberá de realizarse antes de que transcurra el plazo señalado en dicha fracción.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 88.
 
-A fin de asegurar la recaudación de toda clase de créditos a favor del Gobierno del Estado, la Secretaría de Hacienda podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sea la única forma que tenga el deudor para cumplir con la obligación a su cargo y éstos sean de fácil realización o venta, o resulten aprovechables en los servicios públicos estatales, a juicio de la propia Secretaría.
+A fin de asegurar la recaudación de toda clase de créditos a favor del Gobierno del Estado, la Agencia de Administración Fiscal de Yucatán podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sea la única forma que tenga el deudor para cumplir con la obligación a su cargo y estos sean de fácil realización o venta, o resulten aprovechables en los servicios públicos estatales, a juicio de la propia Secretaría.
 
-La Secretaría de Hacienda a través de reglas de carácter general señalará qué tipo de bienes son susceptibles de ofrecerse en dación en pago por los contribuyentes.
+La Agencia de Administración Fiscal de Yucatán a través de reglas de carácter general señalará qué tipo de bienes son susceptibles de ofrecerse en dación en pago por los contribuyentes.
 
-La aceptación o negativa de la solicitud de dación en pago será facultad discrecional del titular de la Secretaría de Hacienda, debiendo resolver en un término que no excederá de treinta días hábiles contados a partir de que esté debidamente integrado el expediente y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado. En caso de que en dicho término no se emita la resolución correspondiente, se tendrá por negada la solicitud.
+La aceptación o negativa de la solicitud de dación en pago será facultad discrecional del titular de la Agencia de Administración Fiscal de Yucatán, debiendo resolver en un término que no excederá de treinta días hábiles contados a partir de que esté debidamente integrado el expediente y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado. En caso de que en dicho término no se emita la resolución correspondiente, se tendrá por negada la solicitud.
 
 ###### Artículo 89.
 
 Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de doce meses para pago diferido y de treinta y seis meses para pago en parcialidades, siempre y cuando los contribuyentes:
 
-I. Presenten el formato que establezca para tales efectos, la Secretaría de Hacienda dentro de los quince días siguientes a aquel en que efectuó el pago inicial, y
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+I. Presenten el formato que establezca para tales efectos, la Agencia de Administración Fiscal de Yucatán dentro de los quince días siguientes a aquel en que efectuó el pago inicial, y
 
 La modalidad del pago a plazos elegida por el contribuyente en el formato de la solicitud de autorización de pago a plazos podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente artículo.
 
@@ -1291,7 +1485,9 @@ c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente 
 
 La actualización que corresponda al periodo mencionado se efectuará conforme a lo previsto por el artículo 22 de este Código.
 
-La Secretaría de Hacienda podrá autorizar el pago a plazos, ya sea diferido o en parcialidades, de los créditos derivados de multas o sanciones administrativas estatales impuestas por autoridades no fiscales, de los cuales le sea encomendado su cobro. El plazo a otorgar no podrá exceder de seis meses.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Agencia de Administración Fiscal de Yucatán podrá autorizar el pago a plazos, ya sea diferido o en parcialidades, de los créditos derivados de multas o sanciones administrativas estatales impuestas por autoridades no fiscales, de los cuales le sea encomendado su cobro. El plazo a otorgar no podrá exceder de seis meses.
 
 ###### Artículo 90.
 
@@ -1311,7 +1507,9 @@ El monto para liquidar el adeudo a que se hace referencia en el párrafo anterio
 
 III. Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del artículo 89 de este Código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I y II de este artículo;
 
-La autoridad podrá dispensar la garantía del interés fiscal en los casos que señale la Secretaría de Hacienda mediante reglas de carácter general.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La autoridad podrá dispensar la garantía del interés fiscal en los casos que señale la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general.
 
 IV. Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, cuando:
 
@@ -1363,7 +1561,9 @@ II. Se presentó o debió haberse presentado declaración o aviso que correspond
 
 III. Se hubiere cometido la infracción a las disposiciones fiscales; pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente, y
 
-IV. Se levante el acta de incumplimiento de la obligación garantizada, en un plazo que no excederá de cuatro meses, contados a partir del día siguiente al de la exigibilidad de las fianzas a favor de la Secretaría de Hacienda, constituidas para garantizar el interés fiscal, la cual será notificada a la afianzadora.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IV. Se levante el acta de incumplimiento de la obligación garantizada, en un plazo que no excederá de cuatro meses, contados a partir del día siguiente al de la exigibilidad de las fianzas a favor de la Secretaría de Administración y Finanzas, constituidas para garantizar el interés fiscal, la cual será notificada a la afianzadora.
 
 El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como si durante un año natural no presentó ninguna las (sic) declaraciones correspondientes; en este último caso el plazo de diez años se computará a partir del día siguiente a aquél en que debió haber presentado la última declaración señalada. En los casos en los que posteriormente el contribuyente, en forma espontánea, presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en la que debió presentarse la declaración omitida y la fecha en la que se presentó espontáneamente, exceda de diez años.
 
@@ -1381,9 +1581,11 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos, que la negativa implique la afirmación de otro hecho.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 93.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 86 de este Código.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 86 de este Código. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia; ni la que se proporcione para efectos de la notificación por terceros a que se refiere el último párrafo del artículo 156 de este Código.
 
 ## TÍTULO CUARTO. DE LAS INFRACCIONES Y DELITOS FISCALES
 
@@ -1453,15 +1655,21 @@ I. Que la omisión sea descubierta por las autoridades fiscales;
 
 II. Que la omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado solicitud o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de disposiciones fiscales, y
 
-III. Que la omisión haya sido subsanada por el contribuyente con posterioridad a los diez días siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente formulado por contador público ante la Secretaría de Hacienda, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III. Que la omisión haya sido subsanada por el contribuyente con posterioridad a los diez días siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente formulado por contador público ante la Agencia de Administración Fiscal de Yucatán, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 99.
 
-La Secretaría de Hacienda podrá condonar las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual apreciará discrecionalmente las circunstancias del caso y, en su caso, los motivos que tuvo la autoridad que impuso la sanción.
+La Agencia de Administración Fiscal de Yucatán podrá condonar las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual apreciará discrecionalmente las circunstancias del caso y, en su caso, los motivos que tuvo la autoridad que impuso la sanción.
 
-La solicitud de condonación de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Hacienda al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La solicitud de condonación de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Agencia de Administración Fiscal de Yucatán al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
@@ -1493,7 +1701,9 @@ d) Se lleven dos o más libros sociales similares con distinto contenido;
 
 e) Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad, y
 
-f) Que se graben en discos o en cualquier otro medio que autorice la Secretaría de Hacienda, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o grabados en discos o en cualquier otro medio de los autorizados, en contravención de las disposiciones fiscales, carezcan de valor probatorio;
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+f) Que se graben en discos o en cualquier otro medio que autorice la Agencia de Administración Fiscal de Yucatán, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o grabados en discos o en cualquier otro medio de los autorizados, en contravención de las disposiciones fiscales, carezcan de valor probatorio.
 
 III. Se considera también agravante la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes;
 
@@ -1511,13 +1721,19 @@ VI. En el caso de que la multa se pague dentro de los cuarenta y cinco días sig
 
 Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones, incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades, se aplicará una multa del 75% al 100% de las contribuciones omitidas.
 
-Cuando el infractor pague las contribuciones omitidas junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones a que se refiere la fracción VI del artículo 71 de este Código, según sea el caso se aplicará una multa equivalente al 50% de las contribuciones omitidas. El Secretario de Hacienda podrá disminuir este porcentaje a petición del contribuyente y atendiendo la situación particular del caso.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Si el infractor paga las contribuciones omitidas junto con sus accesorios después de que se notifique el acta final de la visita domiciliaria o el oficio de observaciones, según sea el caso, pero antes de la notificación de la resolución que determine el monto de las contribuciones omitidas, pagará una multa equivalente al 60% de las contribuciones omitidas. El Secretario de Hacienda podrá disminuir este porcentaje a petición del contribuyente y atendiendo la situación particular del caso.
+Cuando el infractor pague las contribuciones omitidas junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones a que se refiere la fracción VI del artículo 71 de este Código, según sea el caso se aplicará una multa equivalente al 50% de las contribuciones omitidas. El Director General de la Agencia de Administración Fiscal de Yucatán podrá disminuir este porcentaje a petición del contribuyente y atendiendo la situación particular del caso.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Si el infractor paga las contribuciones omitidas junto con sus accesorios después de que se notifique el acta final de la visita domiciliaria o el oficio de observaciones, según sea el caso, pero antes de la notificación de la resolución que determine el monto de las contribuciones omitidas, pagará una multa equivalente al 60% de las contribuciones omitidas. El Director General de la Agencia de Administración Fiscal de Yucatán podrá disminuir este porcentaje a petición del contribuyente y atendiendo la situación particular del caso.
 
 Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos del segundo y tercer párrafos de este artículo, aplicarán el porcentaje que corresponda en los términos del primer párrafo de este artículo sobre el remanente no pagado de las contribuciones.
 
-El pago de las multas en los términos del segundo y tercer párrafos de este artículo, podrá ser efectuada en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Hacienda.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+El pago de las multas en los términos del segundo y tercer párrafos de este artículo, podrá ser efectuada en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Agencia de Administración Fiscal de Yucatán.
 
 También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones o compensaciones indebidas o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido. Lo anterior, sin perjuicio de lo dispuesto en el segundo párrafo del artículo 94 de este Código.
 
@@ -1583,11 +1799,21 @@ IV. No pagar las contribuciones dentro del plazo que establecen las disposicione
 
 V. No efectuar en los términos de las disposiciones fiscales los pagos de una contribución;
 
-VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señale el (sic) este Código, salvo cuando la presentación se efectúe en forma espontánea, y
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señale el este (sic) Código, salvo cuando la presentación se efectúe en forma espontánea;
 
-VII. No proporcionar la información a que se refiere el último párrafo del artículo 29 de este Código, en los plazos que establecen las disposiciones fiscales.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VII. No proporcionar la información a que se refiere el último párrafo del artículo 29 de este Código, en los plazos que establecen las disposiciones fiscales;
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VIII. No adherir a las máquinas de juegos o equipo que corresponda el holograma a que se refiere el artículo 85-M de la Ley General de Hacienda del Estado de Yucatán, y
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IX. No presentar el aviso a que se refiere la fracción IV del artículo 85-N de la Ley General de Hacienda del Estado de Yucatán.
 
 ###### Artículo 107.
 
@@ -1619,9 +1845,25 @@ III. De $490.00 a $12,240.00, tratándose de las señaladas en la fracción IV, 
 
 IV. De $6,120.00 a $12,240.00, respecto de la señalada en la fracción V;
 
-V. De $1,220.00 a $3,670.00, tratándose de la señalada en la fracción VI, y
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-VI. Para la establecida en la fracción VII, la multa será de $3,670.00 a $12,240.00.
+V. De $1,220.00 a $3,670.00, tratándose de la señalada en la fracción VI;
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VI. De $3,670.00 a $12,240.00, tratándose de la señalada en la fracción VII;
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VII. De $5,000.00 a $15,000.00 tratándose de la señalada en la fracción VIII;
+
+Adicionalmente, la máquina de juegos o el equipo que se encuentre en el establecimiento mercantil de que se trate, sin ostentar el holograma correspondiente pasará a ser propiedad del Fisco Estatal para los efectos previstos en el artículo 85-O de la Ley General de Hacienda del Estado de Yucatán, y
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VIII. De $5,000.00 a $10,000.00, tratándose de la señalada en la fracción IX.
+
+Adicionalmente, la máquina de juegos o equipo que se instale en el establecimiento mercantil de que se trate sin haber presentado el aviso a que se refiere la fracción IV del artículo 85-N de la Ley General de Hacienda del Estado de Yucatán, pasará a ser propiedad del Fisco Estatal para los efectos previstos en el artículo 85-O de la citada Ley.
 
 ###### Artículo 108.
 
@@ -1637,9 +1879,13 @@ IV. No hacer los asientos correspondientes a las operaciones efectuadas; hacerlo
 
 V. No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales;
 
-VI. No expedir o no entregar comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan, o expedirlos sin requisitos fiscales., (sic) y
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-VII. Grabar en medios magnéticos o en cualquier otro medio que autorice la Secretaría de Hacienda, documentación o información para efectos fiscales sin cumplir con los requisitos que establezcan las disposiciones relativas.
+VI. No expedir o no entregar comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan, o expedirlos sin requisitos fiscales, y
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VII. Grabar en medios magnéticos o en cualquier otro medio que autorice la Agencia de Administración Fiscal de Yucatán, documentación o información para efectos fiscales sin cumplir con los requisitos que establezcan las disposiciones relativas.
 
 ###### Artículo 109.
 
@@ -1656,6 +1902,28 @@ IV. De $325.00 a $4,265.00 a la señalada en la fracción V;
 V. De $6,305 a $34,500 a la señalada en la fracción VI, y
 
 VI. De $1,070.00 a $5,335.00 a la establecida en la fracción VII. La multa procederá sin perjuicio de que los documentos grabados en contravención a las disposiciones fiscales carezcan de valor probatorio.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 109-A.
+
+Son infracciones en las que pueden incurrir las entidades financieras o sociedades cooperativas de ahorro y préstamo, las siguientes:
+
+I. No proporcionar o proporcionar en forma parcial la información relativa a depósitos, servicios, fideicomisos o cualquier tipo de operaciones, solicitada directamente a las entidades financieras y sociedades cooperativas de ahorro y préstamo por las autoridades fiscales en el ejercicio de sus facultades de comprobación o a través de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas.
+
+II. No practicar el aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente, en los plazos a que se refieren los artículos 188, 201 y 207 y 207 -A de este Código.
+
+III. Ejecutar el aseguramiento, embargo o inmovilización sobre los depósitos bancarios, otros depósitos o seguros del contribuyente por una cantidad mayor a la ordenada por la autoridad fiscal.
+
+IV. No informar a la autoridad fiscal sobre la práctica o levantamiento del aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente, conforme a lo previsto en los artículos 188, 201,207 y 207-A de este Código.
+
+V. No levantar el aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente conforme a lo previsto en los artículos 188, 201, 207 y 207 -A de este Código.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 109-B.
+
+A quien cometa las infracciones relacionadas con las entidades financieras o sociedades cooperativas de ahorro y préstamo, a que se refiere el artículo 109-A de este Código se le impondrá una multa de $6,120.00 a $12,240.00 respecto de las señaladas en las fracciones I a la V del propio artículo.
 
 ###### Artículo 110.
 
@@ -1727,19 +1995,27 @@ Al contador público que cometa las infracciones a que se refiere el artículo 1
 
 ### CAPÍTULO II. De los Delitos Fiscales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 119.
 
-Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que previamente la Secretaría de Hacienda:
+Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Agencia de Administración Fiscal de Yucatán:
 
 I. Formule querella tratándose de los previstos en los artículos 129, 130 131 132, 133 y 135 de este Código, independientemente del estado en que se encuentre el procedimiento administrativo que, en su caso, se haya iniciado, y
 
 II. En los demás casos no previstos bastará la denuncia de los hechos ante el Ministerio Público.
 
-Los procesos por los delitos fiscales a que se refiere la fracción II de este artículo se sobreseerán a petición de la Secretaría de Hacienda, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-En los delitos fiscales en que el daño o el perjuicio sean cuantificables, la Secretaría de Hacienda hará la cuantificación correspondiente en la propia querella. La citada cuantificación sólo surtirá efectos en el procedimiento penal. Para conceder la libertad provisional, el monto de la caución que fije la autoridad judicial comprenderá, en su caso la suma de la cuantificación antes mencionada. La caución que se otorgue en los términos de este párrafo no sustituye a la garantía del interés fiscal.
+Los procesos por los delitos fiscales a que se refiere la fracción II de este artículo se sobreseerán a petición de la Agencia de Administración Fiscal de Yucatán, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Agencia. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
 
-En caso de que el inculpado hubiera pagado o garantizado el interés fiscal a entera satisfacción de la Secretaría de Hacienda, la autoridad judicial, a solicitud del inculpado, podrá reducir hasta en un 50% el monto de la caución, siempre que existan motivos o razones que justifiquen dicha reducción.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+En los delitos fiscales en que el daño o el perjuicio sean cuantificables, la Agencia de Administración Fiscal de Yucatán, hará la cuantificación correspondiente en la propia querella. La citada cuantificación sólo surtirá efectos en el procedimiento penal. Para conceder la libertad provisional, el monto de la caución que fije la autoridad judicial comprenderá, en su caso la suma de la cuantificación antes mencionada. La caución que se otorgue en los términos de este párrafo no sustituye a la garantía del interés fiscal.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+En caso de que el inculpado hubiera pagado o garantizado el interés fiscal a entera satisfacción de la Agencia de Administración Fiscal de Yucatán, la autoridad judicial, a solicitud del inculpado, podrá reducir hasta en un 50% el monto de la caución, siempre que existan motivos o razones que justifiquen dicha reducción.
 
 Se consideran mercancías los productos, artículos y cualesquier otros bienes, aun cuando las leyes los consideren inalienables o irreductibles a propiedad particular.
 
@@ -1799,13 +2075,17 @@ En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad m
 
 Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 127.
 
-La acción penal en los delitos fiscales perseguibles por querella, de la Secretaría de Hacienda, prescribirá en tres años contados a partir del día en que dicha Secretaría tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años, que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal del Estado.
+La acción penal en los delitos fiscales perseguibles por querella, de la Agencia de Administración Fiscal de Yucatán, prescribirá en tres años contados a partir del día en que dicha Agencia tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años, que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal del Estado.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 128.
 
-Procederá la substitución y conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, cuando se compruebe que los adeudos fiscales están cubiertos o garantizados a satisfacción de la Secretaría de Hacienda.
+Procederá la substitución y conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, cuando se compruebe que los adeudos fiscales están cubiertos o garantizados a satisfacción de la Agencia de Administración Fiscal de Yucatán.
 
 ###### Artículo 129.
 
@@ -1871,9 +2151,21 @@ I. Omita solicitar su inscripción en el Registro Estatal de Contribuyentes por 
 
 II. Rinda con falsedad al citado registro los datos, informes o avisos a que se encuentra obligado;
 
-III. Use intencionalmente más de una clave del Registro Estatal de Contribuyentes, y
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-IV. Desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de la notificación de la orden de visita o de una solicitud de informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de las facultades de comprobación, fuera de una visita domiciliaria o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste haya sido garantizado, pagado o quedado sin efectos, o tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de presentar dicho aviso.
+III. Use intencionalmente más de una clave del Registro Estatal de Contribuyentes;
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IV. Desocupe o desaparezca del lugar donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al registro estatal de contribuyentes, después de la notificación de la orden de visita domiciliaria o del requerimiento de la contabilidad, documentación o información, de conformidad con la fracción II del artículo 63 de este Código, o bien después de que se le hubiera notificado un crédito fiscal y antes de que este se haya garantizado, pagado o quedado sin efectos, o que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente tenga la obligación de presentar dicho aviso, o cuando las autoridades fiscales tengan conocimiento de que fue desocupado el domicilio derivado del ejercicio de sus facultades de comprobación. Para los efectos de esta fracción, se entiende que el contribuyente desaparece del local en donde tiene su domicilio fiscal, cuando la autoridad acuda en tres ocasiones consecutivas a dicho domicilio dentro de un período de doce meses y no pueda practicar la diligencia en términos de este Código;
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+V. A quien falsifique los hologramas a que se refiere el artículo 85-M de la Ley General de Hacienda del Estado de Yucatán, los altere, destruya o impida que se logre el propósito para el que fueron colocados, o
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VI. A quien instale en establecimientos mercantiles las máquinas o equipo a que se refiere el artículo 85-J de la Ley General de Hacienda del Estado de Yucatán sin haber presentado el aviso previsto en la fracción IV del artículo 85-N de la citada Ley.
 
 No se formulará querella si quien encontrándose en los supuestos anteriores, subsana la omisión o informa del hecho a la autoridad fiscal antes de que ésta lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales, o si el contribuyente conserva otros establecimientos en los lugares que haya manifestado al Registro Estatal de Contribuyentes en el caso de la fracción IV.
 
@@ -1901,7 +2193,9 @@ Se impondrá sanción de tres meses a seis años de prisión, al que dolosamente
 
 I. Altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados;
 
-II. Sin autorización de la Secretaría de Hacienda grabe (sic), manufacture o imprima placas, sellos, formas valoradas o numeradas, o tarjetas que sean semejantes a las que utiliza la Secretaría de Hacienda;
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+II. Sin autorización de la Agencia de Administración Fiscal de Yucatán grabe, manufacture o imprima placas, sellos, formas valoradas o numeradas, o tarjetas que sean semejantes a las que utiliza la Agencia;
 
 III. Altere su valor, en el año de su emisión, en el resello, leyenda o clase, patentes, permisos y autorizaciones, formas valoradas o numeradas, placas o tarjetas legalmente emitidas;
 
@@ -1951,11 +2245,13 @@ II. Los actos de autoridades fiscales estatales que:
 
 a) Exijan el pago de créditos fiscales estatales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 30 de este Código;
 
-b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley;
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que este no se ha ajustado a la Ley o determinen el valor de los bienes embargados;
 
 c) Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 149 de este Código, y
 
-d) Determinen el valor de los bienes embargados a que se refiere el artículo 226 de este Código.
+d) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 140.
 
@@ -1969,7 +2265,9 @@ El escrito de interposición del recurso deberá presentarse ante la autoridad c
 
 El escrito de interposición del recurso podrá enviarse a la autoridad competente en razón del domicilio o a la que emitió o ejecutó el acto, por correo certificado con acuse de recibo, siempre que el envió se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo la del día en que se entregue a la oficina exactora o se deposite en la oficina de correos.
 
-Para los efectos del párrafo anterior, se entenderá como oficina de correos, a las oficinas postales del Servicio Postal Mexicano y aquéllas de mensajería que señale la Secretaría de Hacienda.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Para los efectos del párrafo anterior, se entenderá como oficina de correos, a las oficinas postales del Servicio Postal Mexicano y aquellas de mensajería que señale la Agencia de Administración Fiscal de Yucatán.
 
 Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, dicho plazo se suspenderá hasta un año, si antes no hubiere aceptado el cargo el representante de la sucesión. Cesará la suspensión cuando se notifique la resolución que da por terminado dicho procedimiento, inclusive en el caso de que se dé por terminado a petición del interesado.
 
@@ -2023,7 +2321,7 @@ IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos co
 
 V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
 
-VI. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 150 de este Código, y
+VI. (DEROGADA, D.O. 20 DE DICIEMBRE DE 2013)
 
 VII. Si son revocados los actos por la autoridad.
 
@@ -2049,11 +2347,11 @@ Si la resolución dictada en el Recurso de Revocación se combate ante el Tribun
 
 El Recurso de Revocación no procederá contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 148.
 
 Cuando el Recurso de Revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la ley, las violaciones cometidas antes del remate sólo podrán hacerse valer ante la autoridad recaudadora a partir de la publicación de la convocatoria de remate y dentro de los diez días siguientes a la fecha de dicha publicación, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en el que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
-
-Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
 ###### Artículo 149.
 
@@ -2063,23 +2361,7 @@ El tercero que afirme ser propietario de los bienes o negociaciones, o titular d
 
 ###### Artículo 150.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 139 de este Código, se estará a las reglas siguientes:
-
-I. Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció;
-
-En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
-
-II. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados;
-
-El particular tendrá un plazo de veinte días contados a partir del día hábil siguiente al en el que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
-
-III. La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo, y
-
-IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado con base en aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, se sobreseerá dicho recurso por improcedente.
-
-En el caso de actos regulados por otras leyes estatales, la impugnación de la notificación efectuada por autoridades fiscales se hará mediante el recurso administrativo que, en su caso, establezcan dichas leyes y de acuerdo con lo previsto por este artículo.
+(DEROGADO, D.O. 20 DE DICIEMBRE DE 2013)
 
 #### Sección Tercera. Del Trámite y Resolución del Recurso
 
@@ -2181,13 +2463,17 @@ Cuando se trate de notificaciones o actos relacionados con personas radicadas en
 
 Las notificaciones que deban hacerse a las autoridades se harán siempre por oficio. También podrán realizarse mediante el uso de medios electrónicos o cualquier otro medio, siempre que pueda comprobarse fehacientemente su recepción.
 
-En el caso de notificaciones por documento digital, podrán realizarse en la página de Internet de las autoridades fiscales o mediante correo electrónico, conforme las reglas de carácter general que para tales efectos establezca la Secretaría de Hacienda del Estado.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+En el caso de notificaciones por documento digital, podrán realizarse en la página de Internet de las autoridades fiscales o mediante correo electrónico, conforme las reglas de carácter general que para tales efectos establezca la Agencia de Administración Fiscal de Yucatán.
 
 Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un sello digital que lo autentifique.
 
 Las notificaciones por correo electrónico serán emitidas anexando el sello digital correspondiente a que se refiere la fracción VII del artículo 23 este Código.
 
-Las autoridades fiscales podrán habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo con las formalidades previstas en este Código y conforme a las reglas generales que para tal efecto establezca la Secretaría de Hacienda.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las autoridades fiscales podrán habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo con las formalidades previstas en este Código y conforme a las reglas generales que para tal efecto establezca la Agencia de Administración Fiscal de Yucatán.
 
 ###### Artículo 157.
 
@@ -2243,11 +2529,15 @@ Se tendrá como fecha de notificación la de la última publicación.
 
 Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
 
-I. Depósito en dinero en las oficinas de la Secretaría de Hacienda;
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+I. Depósito en dinero en las oficinas de la Agencia de Administración Fiscal de Yucatán;
 
 II. Prenda o hipoteca;
 
-III. Fianza otorgada por institución autorizada, a favor de la Secretaría de Hacienda, la que no gozará de los beneficios de orden y excusión;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III. Fianza otorgada por institución autorizada, a favor de la Secretaría de Administración y Finanzas, la que no gozará de los beneficios de orden y excusión;
 
 Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica o el sello digital de la afianzadora;
 
@@ -2255,11 +2545,15 @@ IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solve
 
 V. Embargo en la vía administrativa, y
 
-VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije la Secretaría de Hacienda.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije la Agencia de Administración Fiscal de Yucatán.
 
 La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-La Secretaría de Hacienda a través de reglas de carácter general establecerá los requisitos que deberán reunir las garantías. La Secretaría de Hacienda vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al secuestro o embargo de otros bienes.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Agencia de Administración Fiscal de Yucatán establecerá los requisitos que deberán reunir las garantías a que hace referencia este Código. La Agencia de Administración Fiscal de Yucatán vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, esta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
 
 ###### Artículo 164.
 
@@ -2277,9 +2571,13 @@ Las garantías subsistirán hasta que proceda su cancelación en los términos d
 
 Los gastos que se originen con motivo de la garantía serán por cuenta del interesado.
 
-En los casos que conforme a las leyes, los particulares estén obligados a otorgar garantía al Gobierno Estatal, la misma se hará a favor de la Secretaría de Hacienda y se aplicará en lo conducente lo dispuesto por este artículo.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Para los efectos de la fracción I del artículo 163 de este Código, el depósito de dinero, generará intereses calculados conforme a las tasas que para este caso señale la Secretaría de Hacienda, debiendo permanecer la cantidad original en depósito, mientras subsista la obligación de garantizar, pudiendo retirarse los intereses que se generen.
+En los casos que conforme a las leyes, los particulares estén obligados a otorgar garantía al Gobierno estatal, la misma se hará a favor de la Secretaría de Administración y Finanzas y se aplicará en lo conducente lo dispuesto por este artículo.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Para los efectos de la fracción I del artículo 163 de este Código, el depósito de dinero, generará intereses calculados conforme a las tasas que para este caso señale la Secretaría de Administración y Finanzas, debiendo permanecer la cantidad original en depósito, mientras subsista la obligación de garantizar, pudiendo retirarse los intereses que se generen.
 
 ###### Artículo 168.
 
@@ -2381,17 +2679,29 @@ V. No se otorgará garantía respecto de gastos de ejecución, salvo que el inte
 
 Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del artículo 163 de este Código se harán efectivas a través del Procedimiento Administrativo de Ejecución.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 183.
 
-Si la garantía consiste en depósito de dinero en las oficinas de la Secretaría de Hacienda, una vez que el crédito fiscal quede firme se ordenará su aplicación por la propia Secretaría.
+Si la garantía consiste en depósito de dinero en las oficinas de la Agencia de Administración Fiscal de Yucatán, una vez que el crédito fiscal quede firme se ordenará su aplicación por la propia Agencia.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 184.
 
-Tratándose de fianza a favor de la Secretaría de Hacienda otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible se aplicará el Procedimiento Administrativo de Ejecución con las siguientes modalidades:
+Tratándose de fianzas a favor de la Secretaría de Administración y Finanzas otorgadas para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible se aplicará el Procedimiento Administrativo de Ejecución con las siguientes modalidades:
 
-a) La autoridad ejecutora requerirá de pago a la afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello la afianzadora designará un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en el que ocurran. La citada información se proporcionará a la Secretaría de Hacienda, misma que se publicará en el Diario Oficial del Gobierno del Estado para conocimiento de las autoridades ejecutoras. Se notificará el requerimiento por estrados cuando no se haga alguno de los señalamientos mencionados, y
+I. La autoridad ejecutora requerirá de pago a la afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello la afianzadora designará, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días de anticipación a la fecha en que se pretenda surtan sus efectos, a la autoridad ejecutora. La citada información se incorporará en la póliza de fianza respectiva y los cambios se proporcionarán a la autoridad ejecutora. Se notificará el requerimiento por estrados cuando no se haga alguno de los señalamientos mencionados;
 
-b) Si no se paga dentro del mes siguiente a la fecha en el que surta efectos la notificación del requerimiento, la propia ejecutora solicitará a la autoridad competente de la Secretaría de Hacienda y Crédito Público que remate en bolsa, valores propiedad de la afianzadora suficientes para cubrir el importe de lo requerido y hasta el límite de lo garantizado, y le envíe de inmediato su producto.
+II. Si no se paga dentro del mes siguiente a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora ordenará a la institución de crédito o casa de bolsa que mantenga en depósito los títulos o valores en los que la afianzadora tenga invertida sus reservas técnicas, que proceda a su venta a precio de mercado, hasta por el monto necesario para cubrir el principal y accesorios, los que entregará en pago a la autoridad ejecutora. La venta se realizará en o fuera de bolsa, de acuerdo con la naturaleza de los títulos o valores;
+
+Para estos efectos las instituciones de crédito y casas de bolsa, que mantengan títulos o valores en depósito por parte de las afianzadoras deberán informar dicha situación a la autoridad fiscal. En los casos en que las instituciones de crédito o las casas de bolsa omitan cumplir con la obligación anterior, resultará improcedente la aceptación de las pólizas de fianza para garantizar créditos fiscales.
+
+Cuando dejen de actuar como depositarios de las instituciones de fianzas deberán notificarlos a dichas autoridades e indicar la casa de bolsas (sic) e institución de crédito a la que efectuaron la transferencia de los títulos o valores.
+
+III. La autoridad ejecutora informará a la afianzadora sobre la orden dirigida a las instituciones de crédito o las casas de bolsa, la cual podrá oponerse a la venta únicamente exhibiendo el comprobante de pago del importe establecido en la póliza.
+
+Para los efectos del párrafo anterior, si la afianzadora exhibe el comprobante de pago del importe establecido en la póliza más sus accesorios, dentro del plazo establecido en la fracción II de este artículo, la autoridad fiscal ordenará a la institución de crédito o a la casa de bolsa, suspender la venta de los títulos o valores.
 
 ###### Artículo 185.
 
@@ -2427,43 +2737,71 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 188.
 
-Las autoridades fiscales exigirán, mediante el procedimiento administrativo de ejecución, el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la ley.
+Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieran sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el procedimiento administrativo de ejecución.
 
-Se podrá practicar embargo precautorio sobre los bienes o la negociación del contribuyente para asegurar el interés fiscal, cuando:
+I. Procederá el embargo precautorio, sobre los bienes o la negociación del contribuyente conforme a lo siguiente:
 
-I. El crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, y
+a) Haya desocupado el domicilio fiscal sin haber presentado el aviso de cambio de domicilio, después de haberse emitido la determinación respectiva.
 
-II. Cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo.
+b) Se oponga a la práctica de la notificación de la determinación de los créditos fiscales correspondientes.
 
-La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones del embargo.
+c) Tenga créditos fiscales que debieran estar garantizados y no lo estén o la garantía resulte insuficiente, excepto cuando haya declarado, bajo protesta de decir verdad, que son los únicos bienes que posee.
 
-La autoridad requerirá al obligado para que dentro del término de diez días desvirtúe el monto por el que se realizó el embargo. Transcurrido el plazo antes señalado sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
+II. La autoridad trabará el embargo precautorio hasta por un monto equivalente a las dos terceras partes de la contribución o contribuciones determinadas incluyendo sus accesorios. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia de pago y embargo y se levantará dicho embargo.
 
-El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones por las cuales realiza el embargo, misma que se notificará al contribuyente en ese acto.
 
-Si el particular garantiza el interés fiscal en los términos de este Código, se levantará el embargo.
+III. El embargo precautorio se sujetará al orden siguiente:
 
-Son aplicables al embargo precautorio a que se refiere este artículo las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
+a) Bienes inmuebles. En este caso, el contribuyente o la persona con quien se entiende la diligencia, deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, embargo anterior; se encuentran en copropiedad, o pertenecen a sociedad conyugal alguna.
+
+b) Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la federación, estados y municipios y de instituciones o empresas de reconocida solvencia.
+
+c) Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales.
+
+d) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de artes y oficios, indistintamente.
+
+e) Dinero y metales preciosos,
+
+f) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo de los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de veinte salarios mínimos elevados al año, tal como establece la ley de los sistemas de ahorro para el retiro.
+
+g) Los bienes muebles no comprendidos en las fracciones anteriores.
+
+h) La negociación del contribuyente.
+
+Los contribuyentes, responsables solidarios o terceros relacionados con ellos, deberán acreditar el valor del bien o los bienes sobre los que se practique el embargo precautorio.
+
+En caso en que los contribuyentes, responsables solidarios o terceros relacionados con ellos no cuenten con alguno de los bienes a asegurar o, bajo protestad (sic) de decir verdad, manifiesten no contar con ellos conforme al orden establecido en esta fracción o, en su caso, no acrediten el valor de los mismos, ello se asentará en el acta circunstanciada referida en el segundo párrafo de la fracción II de este artículo.
+
+IV. En ningún caso procederá embargar precautoriamente los depósitos bancarios, otros depósitos o seguros del contribuyente, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una cuenta. Lo anterior, siempre y cuando previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+Al acreditarse que ha cesado la conducta que dio origen al embargo precautorio, o bien, cuando exista orden de suspensión que el contribuyente haya obtenido emitida por autoridad competente, la autoridad deberá ordenar que se levante la medida dentro del plazo de tres días.
+
+La autoridad fiscal deberá ordenar a las entidades financieras, sociedades de ahorro y préstamo o de inversiones o valores la desinmovilización de los bienes señalados en el inciso f) de la fracción III de este artículo, dentro de los tres días siguientes a aquel en que se acredite que cesó la conducta que dio origen al embargo precautorio, o bien, que existe orden de suspensión emitida por autoridad competente.
+
+V. A más tardar el tercer día siguiente a aquel en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida y, en su caso, el monto sobre el cual procede. La notificación se hará personalmente al contribuyente, responsable solidario o tercero relacionado.
+
+VI. Con excepción de los bienes que se refiere el inciso f) de la fracción III de este artículo los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 203 de este código.
+
+El contribuyente, responsable solidario o tercero relacionado con ellos que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
+
+Salvo tratándose de los bienes a que se refiere el inciso f) de la fracción III de este artículo, la autoridad fiscal deberá ordenar el levantamiento del embargo precautorio a más tardar al tercer día siguiente a aquel en que se acredite que cesó la conducta que dio origen al embargo precautorio, o bien, que existe orden de suspensión emitida por autoridad competente.
+
+La autoridad requerirá al obligado para que dentro del término de diez días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento.
+
+Una vez practicado el embargo precautorio el contribuyente afectado podrá ofrecer (sic) la autoridad exactora alguna de las garantías que establece el artículo 163 de este Código, a fin de que el crédito fiscal y sus accesorios queden garantizados y se ordene el levantamiento del embargo trabado sobre los depósitos bancarios, otros depósitos o seguros del contribuyente.
+
+El embargo precautorio se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución, sujetándose a las disposiciones que este Código establece.
+
+Son aplicables al embargo precautorio a que se refiere este artículo, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que conforme a su naturaleza, le sean aplicables y no contravengan a lo dispuesto en este artículo.
 
 ###### Artículo 189.
 
-Las autoridades fiscales podrán decretar el aseguramiento de los bienes o la negociación del contribuyente cuando:
-
-I. El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio;
-
-II. Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes;
-
-III. El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales a que se está obligado, y
-
-IV. Se realicen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y dichos contribuyentes no puedan demostrar que se encuentran inscritos en el Registro Estatal de Contribuyentes. Una vez inscrito el contribuyente en el citado registro se levantará el aseguramiento realizado
-
-En los casos anteriores, la autoridad que practique el aseguramiento deberá levantar acta circunstanciada en la que precise las razones para hacerlo.
-
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
-
-El aseguramiento precautorio quedará sin efectos si la autoridad no emite, dentro de los plazos a que se refieren los artículos 69 y 71 de este Código en el caso de las fracciones II y III y de 18 meses en el de las fracciones l y IV, todas de este artículo 189, contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro de los plazos señalados la autoridad determina algún crédito, dejará de surtir efectos el aseguramiento precautorio y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
+(DEROGADO, D.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 190.
 
@@ -2473,13 +2811,21 @@ El término de la prescripción se inicia a partir de la fecha en que el pago pu
 
 Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 186 de este Código, también se suspenderá el plazo de la prescripción.
 
-Asimismo, se interrumpirá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
 
 La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad competente o a petición del contribuyente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 191.
 
-La Secretaría de Hacienda podrá cancelar créditos fiscales en las cuentas públicas por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
+La Agencia de Administración Fiscal de Yucatán podrá cancelar créditos fiscales en las cuentas públicas por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
 Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 200 unidades de inversión, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20,000 unidades de inversión y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
 
@@ -2497,7 +2843,9 @@ I. Cuando el monto de los créditos fiscales represente menos del 60% del total 
 
 II. Cuando el monto de los créditos fiscales represente más del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación determinada en los términos del inciso anterior no excederá del monto que corresponda a los accesorios de las contribuciones adeudadas.
 
-La autorización de condonación deberá sujetarse a los requisitos y lineamientos que establezca la Secretaría de Hacienda mediante reglas de carácter general.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La autorización de condonación deberá sujetarse a los requisitos y lineamientos que establezca la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general.
 
 ###### Artículo 193.
 
@@ -2507,9 +2855,11 @@ I. La preferencia corresponderá al fisco que tenga a su favor créditos por imp
 
 II. En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 194.
 
-Cuando en el procedimiento administrativo de ejecución concurran contra un mismo deudor, el fisco estatal con los fiscos municipales fungiendo como autoridades estatales de conformidad con los convenios respectivos, la Secretaría de Hacienda iniciará o continuará, según sea el caso, el procedimiento administrativo de ejecución por todos los créditos fiscales estatales omitidos.
+Cuando en el procedimiento administrativo de ejecución concurran contra un mismo deudor, el fisco estatal con los fiscos municipales fungiendo como autoridades estatales de conformidad con los convenios respectivos, la Agencia de Administración Fiscal de Yucatán iniciará o continuará, según sea el caso, el procedimiento administrativo de ejecución por todos los créditos fiscales estatales omitidos.
 
 El producto obtenido en los términos de este artículo se aplicará a cubrir los créditos fiscales en el orden siguiente:
 
@@ -2579,7 +2929,15 @@ No se cobrará los gastos de ejecución a que se refiere el artículo 196 de és
 
 Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales requerirán de pago al deudor y, en caso de que éste no pruebe en el acto haberlo efectuado, procederán de inmediato como sigue:
 
-I. A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos en favor del fisco, y
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+I. A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del fisco, o a embargar los depósitos a que refiere el artículo 205, fracción I, de este Código, a fin de que se realicen las transferencias de fondos para satisfacer el crédito fiscal y sus accesorios legales.
+
+En ningún caso procederá el embargo de los depósitos, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos a que se refiere el artículo 205, fracción I, de este Código en una o más cuentas del contribuyente, deberán informarlo a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al tercer día siguiente a aquel en que le hubieren comunicado este.
+
+En los casos en que la autoridad fiscal tenga conocimiento de que el embargo se realizó por un importe mayor al señalado en el segundo párrafo de este artículo, ordenará a más tardar al tercer día siguiente a aquel en que hubiere tenido conocimiento del embargo en exceso, a las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que correspondan, liberar la cantidad correspondiente. Las entidades o sociedades de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos embargados en exceso, a más tardar el tercer día siguiente a aquel en que surta efectos la notificación del oficio de la autoridad fiscal.
 
 II. A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
 
@@ -2587,9 +2945,15 @@ Cuando el embargo se hubiere trabado sobre bienes raíces, derechos reales o neg
 
 Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades, por error aritmético en las declaraciones o por situaciones previstas en la fracción II del artículo 61 de este Código, el deudor podrá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
 
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+No se practicará embargo respecto de aquellos créditos fiscales que hayan sido impugnados en sede administrativa o jurisdiccional y se encuentren garantizados en términos de lo establecido en las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 202.
 
-El ejecutor designado por el titular de la oficina exactora se constituirá en el domicilio del deudor y deberá identificarse ante la persona con quien practique la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación, en su caso, cumpliendo las formalidades que para las notificaciones personales señala el artículo 159 de este Código. De esta diligencia se levantará acta pormenorizada, de la que se entregará copia a la persona con quien se entienda la misma. El acta deberá llenar los requisitos a que se refiere el artículo 58 de este ordenamiento.
+El ejecutor designado por el jefe de la oficina exactora se constituirá en el lugar donde se encuentren los bienes propiedad del deudor y deberá identificarse ante la persona con quien se practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones en este Código. De esta diligencia se levantará acta circunstanciada de la que se entregará copia a la persona con quien se entienda la misma, y se notificará al propietario de los bienes embargados.
 
 Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, estrados, o instructivo, la diligencia se entenderá con la autoridad municipal o local de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
 
@@ -2601,6 +2965,10 @@ La responsabilidad de los depositarios cesará con la entrega de los bienes emba
 
 El depositario será designado por el ejecutor cuando no lo hubiere hecho el titular de la oficina ejecutora, pudiendo recaer el nombramiento en el ejecutado.
 
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+El ejecutor podrá colocar sellos o marcas oficiales con los que se identifiquen los bienes embargados, lo cual se hará constar en el acta a que se refiere el primer párrafo del artículo 202 de este Código y no podrán ser retirados por persona alguna distinta a la autorizada por la autoridad.
+
 ###### Artículo 204.
 
 El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando el titular de la oficina ejecutora estime que los bienes embargados son insuficientes para cubrir los créditos fiscales.
@@ -2609,7 +2977,11 @@ El embargo podrá ampliarse en cualquier momento del procedimiento administrativ
 
 La persona con quien se entienda la diligencia de embargo tendrá derecho a señalar los bienes en que éste se deba trabar, siempre que los mismos sean de fácil realización o venta, sujetándose al orden siguiente:
 
-I. Dinero, metales preciosos y depósitos bancarios;
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+I. Dinero, metales preciosos, depósitos bancarios, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de veinte salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+
+En el caso de que se embarguen depósitos bancarios, del contribuyente a que se refiere el párrafo anterior, el monto del embargo sólo podrá ser hasta por el importe del crédito fiscal actualizado y sus accesorios legales que correspondan hasta la fecha en que se practique, ya sea en una o más cuentas. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
 II. Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias federales, estatales y municipales o de instituciones o empresas de reconocida solvencia;
 
@@ -2635,15 +3007,63 @@ c) Bienes de fácil descomposición o deterioro o materias inflamables.
 
 El ejecutor deberá señalar, invariablemente, bienes que sean de fácil realización o venta. En el caso de bienes inmuebles, el ejecutor solicitará al deudor o a la persona con quien se entienda la diligencia que manifieste bajo protesta de decir verdad si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna. Para estos efectos, el deudor o la persona con quien se entienda la diligencia deberá acreditar fehacientemente dichos hechos dentro de los quince días siguientes a aquél en que se inició la diligencia correspondiente, haciéndose constar esta situación en el acta que se levante o bien, su negativa.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 207.
 
-En el caso de embargo de depósitos bancarios en términos del artículo 205 fracción I, del presente Código, la autoridad que haya ordenado el embargo girará oficio al gerente de la sucursal bancaria a la que corresponda la cuenta, a efecto de que la inmovilice y conserve los fondos depositados.
+La autoridad fiscal procederá a la inmovilización de depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, a excepción de los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias que se hayan realizado hasta por el monto de las aportaciones efectuadas conforme a la Ley de la materia, de acuerdo con lo siguiente:
 
-La institución bancaria deberá informar a la autoridad a que se refiere el párrafo anterior, el incremento de los depósitos bancarios por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
+I. Cuando los créditos fiscales se encuentren firmes;
 
-Los fondos únicamente podrán transferirse al fisco estatal una vez que el crédito fiscal relacionado quede firme, y hasta por el importe necesario para cubrirlo.
+II. Tratándose de créditos fiscales que se encuentren impugnados y no estén debidamente garantizados, procederá la inmovilización en los siguientes supuestos:
 
-En tanto el crédito fiscal garantizado no quede firme, el contribuyente titular de las cuentas bancarias embargadas podrá ofrecer otra forma de garantía de acuerdo con el artículo 163 de este Código, en sustitución del embargo de las cuentas. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de diez días. La autoridad tendrá la obligación de comunicar a la institución bancaria el sentido de la resolución, enviándole copia de la misma, dentro del plazo de quince días siguientes al en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la institución bancaria levantará el embargo de la cuenta.
+a) Cuando el contribuyente no se encuentre localizado en su domicilio o desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al registro estatal de contribuyentes;
+
+b) Cuando no esté debidamente asegurado el interés fiscal por resultar insuficiente la garantía ofrecida;
+
+c) Cuando la garantía ofrecida sea insuficiente y el contribuyente no haya efectuado la ampliación requerida por la autoridad, y
+
+d) Cuando se hubiera realizado el embargo de bienes cuyo valor sea insuficiente para satisfacer el interés fiscal o se desconozca el valor de estos.
+
+Solo procederá la inmovilización hasta por el importe del crédito fiscal y sus accesorios o, en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos a la fecha en que se lleve a cabo la inmovilización. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+La autoridad fiscal ordenará mediante oficio dirigido a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que estas últimas realicen la inmovilización y conserven los fondos depositados. Para efectos de lo anterior, la inmovilización deberán realizarla a más tardar al tercer día siguiente a aquel en que les fue notificado el oficio de la autoridad fiscal.
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización de los depósitos o seguros en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó, a más tardar al tercer día siguiente a la fecha en que se ejecutó, señalando el número de las cuentas, así como el importe total que fue inmovilizado. La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al tercer día siguiente a aquel en que le hubieren comunicado esta.
+
+En los casos en que el contribuyente, la entidad financiera, sociedades de ahorro y préstamo o de inversiones y valores, haga del conocimiento de la autoridad fiscal que la inmovilización se realizó en una o más cuentas del contribuyente por un importe mayor al señalado en el segundo párrafo de este artículo, esta deberá ordenar a más tardar dentro de los tres días siguientes a aquel en que hubiere tenido conocimiento de la inmovilización en exceso, que se libere la cantidad correspondiente. Dichas entidades o sociedades cooperativas de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos inmovilizados en exceso, a más tardar al tercer día siguiente a aquel en que surta efectos la notificación del oficio de la autoridad fiscal.
+
+En caso de que en las cuentas a que se refiere el primer párrafo de este artículo, no existan recursos suficientes para garantizar el crédito fiscal y sus accesorios, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá efectuar una búsqueda en su base de datos, a efecto de determinar si el contribuyente tiene otras cuentas con recursos suficientes para tal efecto. De ser el caso, la entidad o sociedad procederá a inmovilizar a más tardar dentro de los tres días siguientes a aquel en que se les ordene la inmovilización y conservar los recursos depositados hasta por el monto del crédito fiscal. En caso de que se actualice este supuesto, la entidad o sociedad correspondiente deberá notificarlo a la autoridad fiscal, dentro del plazo de tres días contados a partir de la fecha de inmovilización, a fin de que dicha autoridad realice la notificación que proceda conforme el párrafo anterior.
+
+La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberá informar a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que haga al cuentahabiente.
+
+Los fondos de la cuenta del contribuyente únicamente podrán transferirse cuando el crédito fiscal relacionado, incluyendo sus accesorios quede firme, y hasta por el importe que resulte suficiente para cubrirlo a la fecha en que se realice la transferencia.
+
+En los casos en que el crédito fiscal incluyendo sus accesorios, aún no quede firme, el contribuyente titular de las cuentas inmovilizadas podrá, de acuerdo con el artículo 163 de este Código, ofrecer una garantía que comprenda el importe del crédito fiscal, incluyendo los accesorios a la fecha de ofrecimiento. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de cinco días siguientes a la presentación de la garantía. La autoridad tendrá la obligación de comunicar a la entidad financiera o la sociedad cooperativa de ahorro y préstamo el sentido de la resolución, enviándole copia de la misma, dentro del plazo de cinco días siguientes a aquel en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la entidad o sociedad de que se trate levantará la inmovilización de la cuenta.
+
+En ningún caso procederá la inmovilización de los depósitos o seguros, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 207-A.
+
+En los casos en que el crédito fiscal se encuentre firme, la autoridad fiscal procederá como sigue:
+
+I. Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció una forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la autoridad fiscal, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de los fondos a la cuenta de la Secretaría de Administración y Finanzas o de la autoridad fiscal que corresponda.
+
+II. Si el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III, del artículo 163 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días siguientes a la notificación del requerimiento. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo, informe a la autoridad fiscal haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
+
+III. Si el interés fiscal se encuentra garantizado en alguna de las formas establecidas en las fracciones I y III, del artículo 163 de este Código, la autoridad fiscal procederá a hacer efectiva la garantía.
+
+IV. Si el interés fiscal no se encuentra garantizado, la autoridad fiscal podrá proceder a la transferencia de recursos en términos de la fracción I de este artículo.
+
+En los casos indicados en este artículo, las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores deberán informar a la autoridad fiscal que ordenó la transferencia el monto transferido, a más tardar al tercer día siguiente de la fecha en que esta se realizó. La autoridad fiscal deberá notificar al contribuyente la transferencia de los recursos, conforme a las disposiciones aplicables, a más tardar al tercer día siguiente a aquel en que se hizo de su conocimiento la referida transferencia.
+
+Si al transferirse el importe el contribuyente considera que este es superior al crédito fiscal, deberá demostrar tal hecho ante la autoridad fiscal con prueba documental suficiente, para que dicha autoridad proceda al reintegro de la cantidad transferida en exceso en un plazo no mayor de veinte días a partir de que se notifique al contribuyente la transferencia de los recursos. Si a juicio de la autoridad fiscal las pruebas no son suficientes, se le notificará dentro del plazo antes señalado, haciéndoles saber que puede hacer valer el recurso de revocación correspondiente, o bien, presentar juicio contencioso administrativo.
+
+El fisco estatal será preferente para recibir la transferencia de fondos de las cuentas inmovilizadas de los contribuyentes para el pago de créditos provenientes de ingresos que el Estado debió percibir, en los mismos términos establecidos en el artículo 195 de este Código.
+
+En los casos en que el fisco estatal y los fiscos municipales fungiendo como autoridades estatales, concurrentemente ordenen en contra de un mismo deudor la inmovilización de fondos o seguros con base en lo previsto en el artículo anterior, la transferencia de fondo se sujetará al orden que establece el artículo 194 de este Código.
 
 ###### Artículo 208.
 
@@ -2669,9 +3089,17 @@ IX. El patrimonio de familia en los términos que establezcan las leyes, desde s
 
 X. Los sueldos y salarios;
 
-XI. Las pensiones de cualquier tipo, y
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-XII. Los ejidos.
+XI. Las pensiones de cualquier tipo;
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XII. Los ejidos, y
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XIII. Los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias y complementarias hasta por un monto de veinte salarios mínimos elevados al año, conforme a lo establecido en la Ley de los Sistemas de Ahorro para el Retiro.
 
 ###### Artículo 209.
 
@@ -2687,21 +3115,31 @@ De la diligencia de embargo, el acta pormenorizada con todos los detalles y circ
 
 Se practicará la diligencia aún cuando los bienes señalados para embargar estuvieren ya embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria. Dichos bienes se entregarán al depositario designado por el titular de la oficina ejecutora o por el ejecutor y se dará aviso a la autoridad correspondiente para que él o los interesados puedan demostrar su derecho de prelación en el cobro.
 
-Si los bienes señalados para la ejecución hubieran sido ya embargados por parte de autoridades fiscales municipales, se practicará la diligencia, entregándose los bienes al depositario que designe la autoridad estatal y se le dará aviso a la autoridad municipal. En caso de inconformidad, la controversia resultante será resuelta por los tribunales judiciales del Estado. En tanto se resuelve el procedimiento respectivo no se hará aplicación del producto, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Hacienda.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Cuando los bienes sobre los que deba trabarse el embargo hubiesen sido previamente embargados por una autoridad fiscal federal, la Secretaría de Hacienda, procederá en la forma siguiente:
+Si los bienes señalados para la ejecución hubieran sido ya embargados por parte de autoridades fiscales municipales, se practicará la diligencia, entregándose los bienes al depositario que designe la autoridad estatal y se le dará aviso a la autoridad municipal. En caso de inconformidad, la controversia resultante será resuelta por los tribunales judiciales del Estado. En tanto se resuelve el procedimiento respectivo no se hará aplicación del producto, salvo que se garantice el interés fiscal a satisfacción de la Agencia de Administración Fiscal del Estado de Yucatán.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Cuando los bienes sobre los que deba trabarse el embargo hubiesen sido previamente embargados por una autoridad fiscal federal, la Agencia de Administración Fiscal de Yucatán procederá en la forma siguiente:
 
 I. Si el embargo de la autoridad fiscal federal es anterior, se designará un representante de la Hacienda Pública del Estado, que en defensa de los intereses del erario local, haga valer las acciones, excepciones y recursos procedentes para que el crédito fiscal y sus accesorios sean cubiertos de acuerdo con la preferencia que les otorguen las leyes; y
 
 II. Si el embargo de la autoridad fiscal federal es posterior, el depositario nombrado en el expediente administrativo o quien los (sic) substituya, dará facilidades al representante del fisco federal para el cobro de los créditos fiscales que le corresponda, debiéndose aplicar los principios de preferencia a que se refiere este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 211.
 
-El embargo de créditos será notificado directamente por el personal facultado para ello de la oficina ejecutora a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibiéndolos de doble pago en caso de desobediencia.
+El embargo de créditos será notificado directamente por el personal facultado para ello de la oficina ejecutora a los deudores del embargado, y se le requerirá con el objeto de que no efectúen el pago de las cantidades respectivas a este sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
 
 Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y del Comercio y que corresponda, el titular de la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes al en que surta efectos la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
 
 En caso de que el titular de los créditos embargados no firme dentro del plazo indicado en el párrafo inmediato anterior, el titular de la oficina ejecutora firmará la escritura o documentos relativos en rebeldía de aquél y lo hará del conocimiento del Registro Público de la Propiedad y del Comercio que corresponda, para los efectos procedentes.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+El incumplimiento en que incurra el deudor del embargado a lo indicado en el primer párrafo de este artículo, dentro del plazo que para tal efecto le haga del conocimiento la autoridad fiscal, hará exigible el monto respectivo a través del procedimiento administrativo de ejecución.
 
 ###### Artículo 212.
 
@@ -2729,9 +3167,11 @@ Cuando las autoridades fiscales embarguen negociaciones, el depositario designad
 
 En la intervención de negociaciones será aplicable, en lo conducente, las secciones de este capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 216.
 
-El interventor con cargo a la caja después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, así como los costos y gastos indispensables para la operación de la negociación en los términos de las reglas de carácter general que al efecto expida la Secretaría de Hacienda, deberá retirar de la negociación intervenida el 10% de los ingresos percibidos en efectivo, mediante transferencia electrónica o depósitos a través de instituciones del sistema financiero, y enterarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
+El interventor con cargo a la caja después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, así como los costos y gastos indispensables para la operación de la negociación en los términos de las reglas de carácter general que al efecto expida la Agencia de Administración Fiscal de Yucatán, deberá retirar de la negociación intervenida el 10% de los ingresos percibidos en efectivo, mediante transferencia electrónica o depósitos a través de instituciones del sistema financiero, y enterarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
 
 Los movimientos de las cuentas bancarias y de inversiones de la negociación intervenida, por conceptos distintos a los señalados en el párrafo anterior, que impliquen retiros, traspasos, transferencias, pagos o reembolsos, deberán ser aprobados previamente por el interventor, quien además llevará un control de dichos movimientos.
 
@@ -2773,9 +3213,11 @@ En caso de que la negociación que se pretenda intervenir ya lo estuviera por ma
 
 La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o cuando, de conformidad con este Código, se haya enajenado la negociación. En estos casos, la oficina ejecutora comunicará el hecho al Registro Público de la Propiedad y del Comercio correspondiente para que cancele la inscripción respectiva.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 223.
 
-Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el por ciento será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el por ciento del crédito que resulte.
+Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida o a la enajenación de los bienes o derechos que componen la misma de forma separada, cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el porciento será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el por ciento del crédito que resulte.
 
 #### Sección Cuarta. Del Remate
 
@@ -2799,9 +3241,11 @@ Salvo los casos que este Código autoriza, toda enajenación se hará en subasta
 
 La autoridad con objeto de obtener un mayor rendimiento podrá designar otro lugar para la venta, llevar a cabo la subasta a través de medios electrónicos u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 226.
 
-La base para enajenación de los bienes inmuebles embargados será el de avalúo y para negociaciones, el avalúo pericial, y en los demás casos, la que fijen de común acuerdo la autoridad y el embargado, en un plazo de seis días contados a partir de la fecha en que se hubiera practicado el embargo. A falta de acuerdo, la autoridad ordenará se practique avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
+La base para enajenación de los bienes inmuebles embargados será el de avalúo y para negociaciones, el avalúo pericial, ambos conforme a reglas que se establezcan, en los demás casos, la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
 
 El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere la fracción II, inciso d) del artículo 139 de este Código, dentro de los diez días siguientes a aquél en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores señalados en este Código o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
 
@@ -2809,15 +3253,19 @@ Cuando el embargado o terceros acreedores no interpongan el recurso dentro del p
 
 Cuando del dictamen rendido por el perito del embargado o terceros acreedores resulte un valor superior a un 10% al determinado conforme al primer párrafo de este artículo, la autoridad ejecutora designará dentro del término de seis días un perito tercero valuador o alguna empresa o institución dedicada a la compraventa y subasta de bienes. El avalúo que se fije será la base para la enajenación de los bienes.
 
-En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de diez días si se trata de bienes muebles, veinte días si son inmuebles y treinta días cuando sean negociaciones, a partir de la fecha de su aceptación.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de cinco días si se trata de bienes muebles, diez días si son inmuebles y quince días cuando sean negociaciones, a partir de la fecha de su aceptación.
 
 Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante seis meses, contados a partir de la fecha en que se efectúen y deberán llevarse a cabo por las autoridades fiscales, instituciones de crédito, por corredor público o personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública.
 
 En aquellos casos en que después de realizado el avalúo se lleven a cabo construcciones, instalaciones o mejoras permanentes al bien de que se trate, los valores consignados en dicho avalúos quedarán sin efecto, aun cuando no haya transcurrido el plazo señalado en el párrafo que antecede.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 227.
 
-El remate deberá ser convocado al día siguiente de haber quedado firme el avalúo, para que tenga verificativo dentro de los treinta días siguientes. La convocatoria se hará cuando menos diez días antes de la fecha señalada para el remate, y la misma se mantendrá en los lugares o medios en que se haya fijado o dado a conocer hasta la conclusión del remate.
+El remate deberá ser convocado al día siguiente de haberse efectuado la notificación del avalúo, para que tenga verificativo dentro de los veinte días siguientes. La convocatoria se hará cuando menos diez días antes del inicio del período señalado para el remate y la misma se mantendrá en los lugares o medios en que se haya fijado o dado a conocer hasta la conclusión del remate.
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente. Además, la convocatoria se podrá dar a conocer en la página electrónica de las autoridades fiscales y en un diario local. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
@@ -2859,19 +3307,31 @@ II. La cantidad que se ofrezca y la forma de pago, y
 
 III. El domicilio para oír y recibir notificaciones.
 
-Si las posturas no cumplen los requisitos a que se refieren las fracciones anteriores y los que se señalen en la convocatoria, la Secretaría de Hacienda las calificará como posturas no legales, situación que se hará del conocimiento del interesado.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Si las posturas no cumplen los requisitos a que se refieren las fracciones anteriores y los que se señalen en la convocatoria, la Agencia de Administración Fiscal de Yucatán las calificará como posturas no legales, situación que se hará del conocimiento del interesado.
 
 ###### Artículo 234.
 
 El día y hora señalados en la convocatoria, el titular de la oficina ejecutora hará saber a los presentes qué posturas fueron calificadas como legales y cuál es la mejor de ellas, concediendo plazos sucesivos de cinco minutos cada uno, para mejorarla, hasta que la última postura no sea mejorada.
 
-La Secretaría de Hacienda fincará el remate en favor de quien hubiere hecho la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se aceptará la primera postura que se haya recibido.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Agencia de Administración Fiscal de Yucatán fincará el remate en favor de quien hubiere hecho la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se aceptará la primera postura que se haya recibido.
 
 En las pujas no se aceptará postura de uno o más licitantes, por igual suma de contado a la última ofrecida; éstos sólo podrán mejorarla.
 
 ###### Artículo 235.
 
 Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las obligaciones contraídas y las que este Código señala, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato en favor del fisco estatal. En este caso se reanudarán las almonedas en la forma y plazos que señalan los artículos respectivos.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La autoridad podrá adjudicar el bien al postor que haya presentado la segunda postura de compra más alta y así sucesivamente, siempre que dicha postura sea mayor o igual al precio base de enajenación fijado. Al segundo o siguientes postores les serán aplicables los mismos plazos para el cumplimiento de las obligaciones del postor ganador.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+En caso de incumplimiento de los postores, se iniciará nuevamente la almoneda en la forma y plazos que señalan los artículos respectivos.
 
 ###### Artículo 236.
 
@@ -2963,13 +3423,13 @@ En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargad
 
 Una vez realizado el pago por el embargado o cuando obtenga resolución o sentencia favorable derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes que obliguen a las autoridades a entregar los mismos, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición y en caso de no hacerlo, se causarán gastos por el almacenaje a partir del día siguiente.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 248.
 
-Cuando existan excedentes del producto obtenido del remate o adjudicación de los bienes al fisco estatal después de haberse cubierto el crédito, serán entregados al deudor, salvo que medie orden de autoridad competente, o que el propio deudor acepte por escrito que se haga la entrega total o parcial del saldo a un tercero, con las siguientes modalidades:
+En el caso de que existan excedentes en la adjudicación de los bienes al fisco estatal, después de haberse cubierto el crédito fiscal y sus accesorios, se entregarán al deudor o al tercero que este designe por escrito, hasta que se lleve a cabo la enajenación del bien de que se trate, salvo que medie orden de autoridad competente. En el caso de que la enajenación no se verifique dentro de los 24 meses siguientes a aquel en el que se firmó el acta de adjudicación correspondiente, los excedentes de los bienes, descontadas las erogaciones o gastos que se hubieren tenido que realizar por pasivos o cargas adquiridas con anterioridad a la adjudicación, se entregarán al deudor o al tercero que este designe por escrito hasta el último mes del plazo antes citado. La entrega a que se refiere este artículo se realizará en los términos que establezca la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general.
 
-I. Tratándose de bienes que la autoridad se haya adjudicado, al producto obtenido por la adjudicación se aplicará el monto del crédito fiscal actualizado más sus accesorios, así como el monto de los gastos de administración y mantenimiento en que la autoridad haya incurrido. El remanente del producto mencionado será el excedente que se devuelva al contribuyente, y
-
-II. Cuando se lleve a cabo la adjudicación por remate, el producto obtenido se aplicará en los términos de lo dispuesto en el artículo 246 de este Código, así como a recuperar los gastos de administración y mantenimiento. El remanente del producto mencionado será el excedente que se devolverá al contribuyente.
+Cuando se lleve a cabo el remate, el importe obtenido como producto de este se aplicará en los términos de lo dispuesto en el artículo 246 de este Código, así como a recuperar los gastos de administración y mantenimiento. El remanente del producto mencionado será el excedente que se entregará al contribuyente o embargado, salvo que medie orden de autoridad competente, o que el propio deudor o embargado acepte por escrito que se haga la entrega total o parcial del saldo a un tercero.
 
 ###### Artículo 249.
 
@@ -2985,11 +3445,15 @@ IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósit
 
 Se entenderá que los bienes se encuentran a disposición del interesado a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
 
-Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago de los gastos de almacenaje causados. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Cuando los bienes hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que como consecuencia pasan a propiedad del fisco estatal. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
 
 Los bienes que pasen a propiedad del fisco estatal conforme a este artículo, podrán ser enajenados o destinarse para obras o servicios públicos, o donarse entidades (sic) paraestatales, municipios o instituciones asistenciales o de beneficencia autorizadas para recibir donativos deducibles del impuesto sobre la renta.
 
-El producto de la venta, se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes, en los términos que establezca la Secretaría de Hacienda.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+El producto de la venta, se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes, en los términos que establezca la Agencia de Administración Fiscal de Yucatán.
 
 ###### Artículo 250.
 
@@ -3046,3 +3510,13 @@ D.O. 22 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 Las disposiciones de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 20 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1 de enero del año 2014, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y normativas de igual o menor rango en lo que se opongan al contenido de este Decreto.
