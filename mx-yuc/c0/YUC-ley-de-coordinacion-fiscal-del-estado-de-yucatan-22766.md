@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-coordinacion-fiscal-del-estado-de-yucatan-22766"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2009-12-30"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE YUCATAN
 
-LEY DE COORDINACION FISCAL DEL ESTADO DE YUCATAN
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2001.
 
@@ -59,19 +59,27 @@ IV.- Establecer y vigilar la aplicación de las sanciones por violaciones al Sis
 
 Para los efectos de esta Ley, son participaciones federales a los Municipios, las asignaciones que correspondan a éstos de los ingresos federales, establecidos en el capítulo I de la Ley de Coordinación Fiscal Federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 3.
 
-Los montos que correspondan a los Municipios según los porcentajes que establece esta Ley, se calcularán por cada ejercicio fiscal, y su calendarización y distribución quedará a cargo de la Secretaría de Hacienda.
+Los montos que correspondan a los municipios según los porcentajes que establece esta Ley, se calcularán por cada ejercicio fiscal y su calendarización y distribución quedará a cargo de la Secretaría de Administración y Finanzas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 4.
 
-En cumplimiento a lo dispuesto por los Artículos 2º., 2º.-A, 3º.-A y 6º. de la Ley de Coordinación Fiscal Federal en vigor, esta ley establece los plazos, montos y bases aplicables para la distribución de las participaciones federales que corresponden a los Municipios y las participaciones de los ingresos estatales que les corresponden a los mismos.
+En cumplimiento a lo dispuesto por los artículos 2o, 2-A, 3-A, 4o y 6o de la Ley de Coordinación Fiscal Federal, esta Ley establece los plazos, montos y bases aplicables para la distribución de las participaciones federales que corresponden a los municipios y las participaciones de los ingresos estatales que les corresponden a los mismos.
 
 ### CAPÍTULO III. DE LAS PARTICIPACIONES FEDERALES Y ESTATALES A LOS MUNICIPIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 5.
 
@@ -79,7 +87,11 @@ Los Municipios participarán de los ingresos estatales en la proporción y conce
 
 1. 20% de los recursos que perciba el Estado procedentes del Fondo General de Participaciones, previsto en la Ley de Coordinación Fiscal Federal;
 
-2. 20% de la Recaudación del Impuesto sobre Tenencia o Uso de Vehículos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+2. 20% de la recaudación del impuesto sobre tenencia o uso de vehículos, de conformidad con la Ley del Impuesto sobre Tenencia o Uso de Vehículos;
 
 3. 20% del Impuesto Especial sobre Producción y Servicios que recibe el Estado;
 
@@ -87,11 +99,29 @@ Los Municipios participarán de los ingresos estatales en la proporción y conce
 
 5. 100% del Fondo de Fomento Municipal, en los términos de la Ley de Coordinación Fiscal Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 6. 12% de los ingresos estatales derivados de los impuestos comprendidos en la Ley General de Hacienda del Estado de Yucatán, a excepción de los impuestos sobre Hospedaje, sobre Tenencia o Uso de Vehículos y de a (sic) aquellas contribuciones estatales recaudadas por los municipios en virtud de la celebración de convenios de colaboración administrativa con el Estado, homologados en igualdad de conceptos y porcentajes que deberá ser en todos los municipios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, se exceptúa de participación a los Municipios el Impuesto sobre erogaciones por remuneración al trabajo personal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+También quedan exceptuados de participaciones a los municipios, el impuesto a las erogaciones en juegos y concursos, el impuesto cedular sobre la obtención de ingresos por actividades empresariales y el impuesto cedular por la enajenación de bienes inmuebles;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+7. 20% de los recursos del Fondo de Fiscalización y Recaudación, de conformidad con la Ley de Coordinación Fiscal federal.
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -165,41 +195,73 @@ VI.- El 27% restante, se distribuirá en partes iguales, entre los municipios de
 
 El importe total del monto a que se refiere el artículo 5º de esta ley se determinará para cada ejercicio fiscal.
 
-La Secretaría de Hacienda publicará las asignaciones estimadas a cada Municipio y la calendarización proyectada para la entrega de los recursos, en cada ejercicio fiscal. Dicha publicación la deberá efectuar, a más tardar, quince días después de que la Secretaría de Hacienda y Crédito Público publique el calendario de entrega, porcentaje y monto estimado de las participaciones correspondientes a las Entidades Federativas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría de Administración y Finanzas publicará las asignaciones estimadas a cada municipio y la calendarización proyectada para la entrega de los recursos, en cada ejercicio fiscal. Dicha publicación la deberá efectuar, a más tardar, quince días después de que la Secretaría de Hacienda y Crédito Público publique el calendario de entrega, porcentaje y monto estimado de las participaciones correspondientes a las entidades federativas.
 
 Para la determinación del monto federal se estará a lo que establece la Ley de Coordinación Fiscal Federal, y para la determinación del monto estatal se aplicarán criterios similares de cálculo a las previstas en dicha ley, utilizando los medios y la información disponible en el Estado.
 
-La determinación a que se refiere este artículo tendrá efectos de referencia y los importes resultantes se ajustarán en los meses de abril, julio, octubre y enero con los resultados reales de la recaudación y los ajustes que realice la Federación en los términos del artículo 7 de la Ley de Coordinación Fiscal, de los tres meses anteriores a aquel en que se realice el ajuste, procediendo la Secretaría de Hacienda a pagar la diferencia resultante de los ajustes positivos en el pago correspondiente al mes en que se realice el ajuste o a más tardar en el del siguiente mes, si el pago ya se hubiere realizado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En aquellos casos en los que el ajuste trimestral resultara negativo, éste se aplicará en el mes siguiente, sin importar si el pago se ha realizado o está pendiente de realizar a fin de no modificar el importe esperado para el mes correspondiente al ajuste, para tal efecto, la Secretaría de Hacienda avisará por escrito al Ayuntamiento que en el pago del mes siguiente se hará el ajuste correspondiente, disminuyendo en ese mes el importe deudor.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La determinación a que se refiere este artículo tendrá efectos de referencia y los importes resultantes se ajustarán en los meses de abril, julio, octubre y enero con los resultados reales de la recaudación y los ajustes que realice la federación en los términos del artículo 7 de la Ley de Coordinación Fiscal federal, de los tres meses anteriores a aquel en que se realice el ajuste, procediendo la Secretaría de Administración y Finanzas a pagar la diferencia resultante de los ajustes positivos para el pago correspondiente al mes que se realice el ajuste o a más tardar en el del siguiente mes, si el pago ya se hubiere realizado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+En aquellos casos en los que el ajuste trimestral resultara negativo, este se aplicará en el mes siguiente, sin importar si el pago se ha realizado o está pendiente de realizar a fin de no modificar el importe esperado para el mes correspondiente al ajuste, para tal efecto, la Secretaría de Administración y Finanzas avisará por escrito al Ayuntamiento que en el pago del mes siguiente se hará el ajuste correspondiente, disminuyendo en ese mes el importe deudor.
 
 Para este efecto, los Ayuntamientos deben proyectar con cautela los montos que resulten de la estimación anual a fin de proveer lo conducente para evitar contraer obligaciones con cargo a este monto que después no puedan ser solventadas.
 
-La Secretaría de Hacienda, una vez identificada la asignación mensual provisional que le corresponde a la Entidad de los fondos previstos en la Ley de Coordinación Fiscal Federal, pagará mensualmente la participación federal conjuntamente con la estatal dentro de los cinco días siguientes a aquél en que reciba las federales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría de Administración y Finanzas, una vez identificada la asignación mensual provisional que corresponda a la entidad de los fondos previstos en la Ley de Coordinación Fiscal Federal, pagará mensualmente la participación federal conjuntamente con la estatal dentro de los cinco días siguientes a aquél en que reciba las federales.
 
 La entrega de las cantidades que le correspondan a cada Municipio por concepto de participaciones relativas a contribuciones recaudadas directamente por el Gobierno Federal, se hará dentro de los cinco días siguientes a aquél en el que el Estado las reciba. Los importes que correspondan a los Municipios donde el Estado participa en la recaudación, tales como los impuestos sobre Tenencia o Uso de Vehículos y sobre Automóviles Nuevos, se entregarán dentro de los quince días siguientes, una vez finalizado el período mensual de recaudación.
 
 En caso de incumplimiento en los plazos establecidos, el retraso dará lugar al pago de intereses a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones, a menos que el atraso sea imputable a la Federación, en cuyo caso, los recargos que pague al Estado, serán prorrateados de manera proporcional entre los Municipios.
 
-Las entregas antes referidas serán cubiertas por la Secretaría de Hacienda, mediante cheque o depósito en cuenta bancaria a nombre de los Municipios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las entregas antes referidas serán cubiertas por la Secretaría de Administración y Finanzas mediante cheque o depósito en cuenta bancaria a nombre de los municipios.
 
 ###### Artículo 8.
 
 Las participaciones que correspondan a los Municipios son inembargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo cuando garanticen el pago de obligaciones contraídas por los Ayuntamientos, con autorización del cabildo. Cuando las obligaciones rebasen el término de la administración municipal, para la afectación de las participaciones deberán observarse las obligaciones y términos de la Ley de Deuda Pública del Estado de Yucatán y en caso de ser posible, con el artículo 9 de la Ley de Coordinación Fiscal Federal, contando en todo caso con la aprobación del Congreso del Estado.
 
-Las participaciones que correspondan a los Municipios otorgadas en garantía de obligaciones a su cargo, deberán ser inscritas en la Secretaría de Hacienda, en el registro estatal de deuda pública, en caso de ser procedente. La Secretaría de Hacienda será la obligada a realizar los trámites de inscribir en dicho registro la deuda pública de los Municipios en cuanto se habilite.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las participaciones que correspondan a los municipios otorgadas en garantía de obligaciones a su cargo deberán ser inscritas en la Secretaría de Administración y Finanzas, en el registro estatal de deuda pública, en caso de ser procedente. La Secretaría de Administración y Finanzas será la obligada a realizar los trámites de inscribir en dicho registro la deuda pública de los municipios en cuanto se habilite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 9.
 
-El Ejecutivo del Estado deberá informar al Congreso del Estado y publicar trimestralmente en el Diario Oficial del Gobierno del Estado, el monto de las participaciones recibidas y la distribución de la parte que le corresponde a los Municipios, en los primeros quince días de los meses de enero, abril, julio y octubre.
+El Ejecutivo del Estado deberá informar al Congreso del Estado y publicar trimestralmente en el Diario Oficial del Gobierno del Estado de Yucatán, el monto de las participaciones recibidas y la distribución de la parte que le corresponde a los municipios, en los primeros quince días de los meses de enero, abril, julio y octubre.
 
 ### CAPÍTULO IV. DE LA COORDINACIÓN FISCAL Y COLABORACIÓN ADMINISTRATIVA ENTRE EL ESTADO Y LOS MUNICIPIOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO V. DE LOS ORGANISMOS DEL SISTEMA DE COORDINACIÓN FISCAL
 
 ###### Artículo 10.
 
-El Gobierno del Estado, por conducto de la Secretaría de Hacienda, y los Municipios, por conducto de sus Ayuntamientos, podrán celebrar Convenios de Coordinación Fiscal y Colaboración Administrativa respecto de contribuciones estatales, municipales y federales, en los casos en que el Estado haya suscrito o suscriba convenios con el Gobierno Federal. En este último caso, participará en el instrumento donde se pacte la coordinación o la colaboración. Los convenios a que se refiere este artículo comprenderán entre otros aspectos los siguientes:
+El Gobierno del Estado, por conducto de la Secretaría de Administración y Finanzas, y los municipios por conducto de sus ayuntamientos podrán celebrar convenios de coordinación fiscal y colaboración administrativa respecto de contribuciones estatales, municipales y federales, en los casos en los que el estado haya suscrito o suscriba convenios con el Gobierno federal. En este último caso, participará en el instrumento donde se pacte la coordinación o la colaboración. Los convenios a que se refiere este artículo comprenderán, entre otros aspectos, los siguientes:
 
 I.- Registro Federal de Contribuyentes;
 
@@ -241,7 +303,11 @@ El Gobierno del Estado, el Congreso del Estado, y los Gobiernos Municipales, col
 
 El Consejo Estatal Hacendario se establece como un órgano de consulta y análisis técnico, respecto del estudio, modificación y actualización de la legislación fiscal estatal y municipal de la entidad, en sus diversas modalidades, y se integrará por:
 
-I.- El Gobernador del Estado, por conducto del Secretario de Hacienda, quien lo presidirá;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+I.- El Gobernador del Estado, por conducto del Secretario de Administración y Finanzas, quien lo presidirá;
 
 II.- El Poder Legislativo, por conducto de dos Diputados, uno como propietario y el segundo como suplente elegidos por el Pleno del H. Congreso del Estado, y
 
@@ -253,7 +319,11 @@ Son facultades del Consejo Estatal Hacendario:
 
 I.- Proponer al Gobierno del Estado las medidas que estime convenientes para mejorar el Sistema de Coordinación Fiscal del Estado de Yucatán y el Sistema Nacional de Coordinación Fiscal;
 
-II.- Opinar sobre la distribución de las participaciones a que se refiere esta Ley y su liquidación, tanto de pagos provisionales como de diferencias correspondientes a los ajustes que formule la Secretaría de Hacienda;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+II.- Opinar sobre la distribución de las participaciones a que se refiere esta Ley y su liquidación, tanto de pagos provisionales como de las diferencias correspondientes a los ajustes que formule la Secretaría de Administración y Finanzas;
 
 III.- Opinar sobre el cumplimiento de los convenios de colaboración administrativa que celebren los Municipios con el Estado y en caso de violación a los mismos, emitir propuestas al respecto;
 
@@ -285,7 +355,11 @@ GRUPO VI.- Mérida.
 
 Cada grupo elegirá mediante el procedimiento acordado al efecto por el Consejo Estatal Hacendario, un titular y dos suplentes para conformar el Comité. Los suplentes y el titular deberán pertenecer a diferentes municipios a excepción del municipio de Mérida quien no contará con suplentes.
 
-El Comité Directivo sesionará en los términos que determine el Reglamento del Consejo Estatal Hacendario y tendrá como objetivo promover los mecanismos para el diálogo e información entre la Secretaría de Hacienda, el Congreso del Estado y los Ayuntamientos; realizar propuestas en materia Hacendaria, así como brindar asesoría técnica y jurídica. Entre sus obligaciones están las de convocar y preparar el orden del día de las asambleas del Consejo Estatal Hacendario, establecer el reglamento de operación del comité, formar subcomités para funciones específicas, y en general canalizar los acuerdos y determinaciones que se tomen en el Consejo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+
+El Comité Directivo sesionará en los términos que determine el Reglamento del Consejo Estatal Hacendario y tendrá como objetivo promover los mecanismos para el diálogo e información entre la Secretaría de Administración y Finanzas, el Congreso del Estado y los ayuntamientos; realizar propuestas en materia hacendaria, así como brindar asesoría técnica y jurídica. Entre sus obligaciones están las de convocar y preparar el orden del día de las asambleas del Consejo Estatal Hacendario, establecer el reglamento de operación del comité, formar subcomités para funciones específicas, y en general canalizar los acuerdos y determinaciones que se tomen en el Consejo.
 
 ###### Artículo 17.
 
@@ -315,7 +389,7 @@ ING. ALBERTO REYES CARRILLO
 
 CRETARIO (SIC) DE PLANEACION Y PRESUPUESTO
 
-> <small>N. DE E. A CONTINUACION SE TRASCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRASCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 30 DE DICIEMBRE DE 2003.
 
@@ -336,3 +410,13 @@ Este Decreto entrará en vigor el día uno de enero del año dos mil diez.
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 20 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1 de enero del año 2014, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y normativas de igual o menor rango en lo que se opongan al contenido de este Decreto.
