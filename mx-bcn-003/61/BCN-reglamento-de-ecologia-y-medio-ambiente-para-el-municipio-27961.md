@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-ecologia-y-medio-ambiente-para-el-municipio-27961
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-17"
-last_updated: "2003-01-17"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE ECOLOGIA Y MEDIO AMBIENTE PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-REGLAMENTO DE ECOLOGIA Y MEDIO AMBIENTE PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
+REGLAMENTO DE ECOLOGÍA Y MEDIO AMBIENTE PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 17 de enero de 2003.
 
@@ -117,13 +117,15 @@ Las disposiciones previstas en este Reglamento son de observancia general obliga
 
 La aplicación de las disposiciones estipuladas en el presente Reglamento corresponde al Presidente Municipal, por conducto de la Dirección; así como la participación de las demás dependencias del Ayuntamiento misma que coadyuvará, en los ámbitos de sus competencias, al cumplimiento de las disposiciones del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 5.
 
 Son autoridades en materia ambiental municipal:
 
 I. El Presidente Municipal;
 
-II. El Titular de la Dirección de Administración Urbana;
+II. El Titular de la Dirección de Protección al Ambiente.
 
 III. Los Delegados Municipales, dentro de su circunscripción territorial municipal;
 
@@ -141,9 +143,11 @@ II. La creación y administración de las zonas de protección ecológica, en co
 
 III. La regulación de la preservación y mejoramiento ambiental de los centros de población para protegerlos de la contaminación ambiental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 7.
 
-Son atribuciones de La Dependencia Municipal de Ecología, en materia de preservación, conservación y restauración del equilibrio ecológico y protección al ambiente, las siguientes:
+Son atribuciones de La Dirección de Protección al Ambiente Municipal, en materia de preservación, conservación y restauración del equilibrio ecológico y protección al ambiente, las siguientes:
 
 I. Diseñar, aplicar, conducir y evaluar la política ambiental municipal; de acuerdo con los Planes y Programas Municipales;
 
@@ -2080,3 +2084,9 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN
 EL SECRETARIO MUNICIPAL
 
 LIC. ROBERTO RODRÍGUEZ VALENZUELA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+Único.- Las presentes Reformas y Adiciones, entrarán en vigor a partir del día siguiente en que sean publicadas en el Periódico Oficial del Estado de Baja California.
