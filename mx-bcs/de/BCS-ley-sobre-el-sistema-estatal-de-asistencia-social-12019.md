@@ -4,7 +4,7 @@ identifier: "BCS-ley-sobre-el-sistema-estatal-de-asistencia-social-12019"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-20"
-last_updated: "2010-12-31"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de agosto de 1986.
 
@@ -267,11 +267,11 @@ Una vez transcurridos los 120 días establecidos para realizar las investigacion
 
 XXIII.- Las demás que establezcan las disposiciones aplicables en la materia.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 19.
 
-El Organismo contará con la Procuraduría para la Defensa del Menor y la Familia, como un Órgano Técnico especializado de protección jurídica a la integridad familiar, a los menores, a los ancianos y minusválidos sin recursos, la cual tendrá las facultades que su mismo acuerdo de creación le asigne dentro de los objetivos de este Sistema para el Desarrollo Integral de la Familia de Baja California Sur y las que le otorguen las demás Leyes del Estado, dependencia que tendrá la responsabilidad de cumplir con lo dispuesto en la fracción XIX, XX y XXII segundo párrafo del artículo 18 de esta ley, cuyo incumplimiento dará lugar a la destitución del Procurador sin responsabilidad para el organismo.
+El Organismo contará con la Procuraduría de la Defensa del Menor y la Familia, como un Órgano Técnico especializado de protección jurídica a la integridad familiar, para las niñas, niños, adolescentes, personas adultas mayores y personas con discapacidad sin recursos, la cual tendrá las facultades que le otorguen su propia Ley y las demás Leyes del Estado. Asimismo, tendrá la responsabilidad de cumplir con lo dispuesto en las Fracciones XIX, XX y XXII segundo párrafo del Artículo 18 de esta ley, cuyo incumplimiento dará lugar a la destitución de la o el Titular de la Procuraduría sin responsabilidad para el Organismo.
 
 ###### ARTICULO 20.
 
@@ -307,9 +307,17 @@ Para el estudio, planeación y despacho de los asuntos que le competen, el Organ
 
 I.- Patronato;
 
-II.- Junta de Gobierno y
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
-III.- Dirección General.
+II.- Junta de Gobierno;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III.- Dirección General; y
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IV.- Procuraduría de la Defensa del Menor y la Familia.
 
 La vigilancia de la operación del Organismo estará a cargo de un Comisario.
 
@@ -564,3 +572,11 @@ B.O. 31 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Para los efectos de lo dispuesto en el artículo 18 fracción VII de la Ley Sobre el Sistema Estatal de Asistencia Social, a que se refiere este Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur (DIF), deberá poner en operación a partir del día 01 de julio de 2011, en todos los Municipios del Estado las casas de resguardo para los menores expósitos, en estado de abandono, desamparo o maltratados.
+
+B.O. 20 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado, contará con un término de noventa días hábiles para publicar el Reglamento de la Ley de la Procuraduría de la Defensa del Menor y la Familia del Estado de Baja California Sur, en el Boletín Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
