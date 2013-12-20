@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2013-11-27"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -988,6 +988,18 @@ El Poder Público del Estado se divide, para el ejercicio de sus funciones en Le
 ###### ARTICULO 31.
 
 El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado por diputados que serán electos cada tres años por los ciudadanos oaxaqueños, mediante sufragio universal, libre, secreto y directo; por cada diputado propietario se elegirá un suplente.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+El Poder legislativo administrará con autonomía su presupuesto, sin que pueda ser menor en términos reales, al ejercido en el año anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+El Congreso elaborará su propio proyecto de presupuesto en los términos de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas para el Poder Legislativo no podrán ser reducidas ni transferidas, salvo en los casos de ajuste presupuestal general previstos en la Ley.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -4064,3 +4076,7 @@ P.O. 27 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- La obligatoriedad del Estado para garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien teniendo la edad típica hubiera concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades en el Estado a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y del Estado de Oaxaca, y en los términos establecidos en los instrumentos del Sistema Nacional y Estatal de Planeación Democrática del Desarrollo.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+ÚNICO.- EI presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
