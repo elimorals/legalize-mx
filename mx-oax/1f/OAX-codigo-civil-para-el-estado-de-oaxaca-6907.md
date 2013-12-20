@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2013-05-18"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -889,6 +889,10 @@ También podrá exigir declaración bajo protesta a los testigos que los interes
 
 La sentencia ejecutoria que decrete el divorcio, se remitirá en copia certificada al Oficial del Registro Civil para que éste levante el acta correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Una vez declarado el divorcio administrativo, el Oficial del Registro Civil, hará la anotación marginal correspondiente en el acta de matrimonio; cuando el divorcio administrativo de (sic) efectúe en Oficialía distinta a la que contrajo el matrimonio, el Oficial que decrete el divorcio administrativo, remitirá copia de la resolución de divorcio administrativo al Oficial donde se registró el matrimonio para que efectúe la anotación correspondiente.
+
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
 ###### Artículo 117.
@@ -1129,43 +1133,43 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Cualquier condición contraria a la comunidad íntima de vida y a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 147.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los jueces Mixtos de Primera Instancia en los Distritos y los jueces de lo Civil en la capital, pueden conceder dispensas de edad por causas graves y justificadas.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1971)</small>
+Para contraer matrimonio, tanto el hombre como la mujer necesitan haber cumplido dieciocho años.
 
 ###### Artículo 148.
 
-El hijo o la hija que no haya cumplido 18 años, no puede contraer matrimonio sin consentimiento de su padre o de su madre si vivieren ambos o del que sobreviva. En el caso de que alguno de los padres hubiere perdido la patria potestad o estuviere en suspenso en el ejercicio de este derecho, el consentimiento lo dará quien lo ejerza. Este derecho lo tiene la madre aunque haya contraído segundas nupcias, si el hijo o hija vive con ella.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 149.
 
-A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva.
-
-A falta o por imposibilidad de los abuelos paternos, se requiere el consentimiento de los abuelos maternos en los términos anteriormente prevenidos.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 150.
 
-Faltando padres y abuelos, se necesita el consentimiento del tutor; faltando éste, el Juez Mixto de Primera Instancia de la residencia del menor suplirá el consentimiento.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 151.
 
-Los interesados pueden ocurrir al Juez Mixto de Primera Instancia, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Esas autoridades judiciales suplirán o no el consentimiento respectivo en la forma que determine el Código de Procedimientos Civiles.
+Cuando los interesados tengan dieciséis años o más, pero menos de dieciocho años de edad, por medio de sus representantes legítimos podrán ocurrir (sic) ante el Juez competente, quien podrá otorgar la dispensa de edad por causas graves y justificadas, en la forma que determine el Código de Procedimientos Civiles. De lo anterior, se dará al Ministerio Público la intervención que a su representación corresponda.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 152.
 
-Si el Juez en el caso de los dos artículos anteriores se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados ocurrirán a la Sala Familiar del Tribunal Superior de Justicia del Estado, en los términos que disponga el Código de Procedimientos Civiles.
+Si el Juez en el caso del artículo anterior, se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados ocurrirán a la Sala Familiar del Tribunal Superior de Justicia del Estado, en los términos que disponga el Código de Procedimientos Civiles.
 
 ###### Artículo 153.
 
-El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 154.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio, falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 103.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Artículo 155.
 
@@ -1177,7 +1181,9 @@ Son impedimentos para celebrar el contrato de matrimonio:
 
 I. La falta de edad requerida por la ley, cuando no haya sido dispensada;
 
-II. La falta de consentimiento del que, o de los que ejerzan la patria potestad, del tutor o del juez en sus respectivos casos;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+II. La falta de dispensa de parte del Juez competente en sus respectivos casos.
 
 III. El parentesco de consanguinidad legítimo o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual el impedimento se extiende a los hermanos y a los medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -1950,6 +1956,20 @@ V. La manera de administrar los bienes de la sociedad conyugal durante el proced
 ###### Artículo 286.
 
 El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 286 Bis.
+
+Procede el divorcio administrativo cuando ambos consortes convengan en divorciarse de mutuo acuerdo, sean mayores de edad, no tengan hijos, y si los hubiere sean mayores de 18 años, la mujer no debe estar embarazada.
+
+Reunidos los requisitos anteriores, los cónyuges se presentarán personalmente ante el oficial del Registro Civil del lugar de su domicilio o el del en que contrajeron matrimonio, deberán acreditar que son casados, mayores de edad; además de lo anterior, manifestarán su voluntad de divorciarse.
+
+El Oficial de Registro Civil, previa identificación de los consortes les hará entrega de la solicitud de divorcio, misma que deberá ser requisitada y devuelta al Oficial del Registro Civil, hecho lo anterior, se citará a los cónyuges para que se presenten a ratificar la solicitud a los quince días posteriores. Si los consortes realizan la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acata (sic) respectiva y haciendo la anotación correspondiente en el libro respectivo.
+
+El divorcio así obtenido no surtirá efectos legales, si se comprueba que los cónyuges tienen hijos menores de 18 años o incapaces, o no han liquidado su sociedad conyugal. La manifestación de hechos falsos será sancionada en términos de lo establecido por el Código Penal.
+
+Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden solicitar su divorcio por mutuo consentimiento ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
 ###### Artículo 287.
 
@@ -15808,3 +15828,7 @@ SEGUNDO.- Se abroga la actual Ley de Condominio del Estado de Oaxaca, publicada 
 TERCERO.- Si no se violan derechos adquiridos, las disposiciones de esta Ley regirán los efectos jurídicos de los actos realizados con anterioridad a la vigencia de ésta, en caso contrario se regirán por la Legislación Civil bajo cuyas disposiciones nacieron dichos actos.
 
 CUARTO.- El Ejecutivo del Estado procederá a expedir dentro del plazo de 60 días después de la publicación de la presente Ley, el Reglamento correspondiente.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
