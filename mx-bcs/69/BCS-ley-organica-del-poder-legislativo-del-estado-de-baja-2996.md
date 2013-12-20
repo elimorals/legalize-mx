@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2013-11-30"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -499,7 +499,9 @@ XIII.- Llevar a cabo corresponsablemente a través de su Presidente el proceso d
 
 XIV.- Establecer una agenda legislativa común, para cada uno de los periodos ordinarios de sesiones, de los asuntos o temas relevantes para la vida pública del Estado.
 
-XV.- Presentar a la Mesa Directiva y al Pleno, para su aprobación, proyectos de acuerdo económico, de leyes y decretos, que entrañen una posición política conjunta del Congreso del Estado.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XV.- Presentar a la Mesa Directiva y al Pleno, para su aprobación, proposiciones con punto de acuerdo, iniciativas de leyes y decretos, que entrañen una posición política conjunta del Congreso del Estado.
 
 XVI.- Establecer las políticas rectoras para que los servicios internos se cubran cabalmente para el buen funcionamiento de los trabajos Legislativos.
 
@@ -621,9 +623,9 @@ XXIV.- DE TRANSPARENCIA.
 
 XXV.- DE ATENCIÓN A GRUPOS VULNERABLES Y A PERSONAS CON DISCAPACIDAD.
 
-> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
-XXVI.- DE SEGUIMIENTO A LOS ACUERDOS ECONÓMICOS.
+XXVI.- DE SEGUIMIENTO A LOS PUNTOS DE ACUERDO
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1131,15 +1133,19 @@ e) Organizar foros de consulta, a efecto de recibir y realizar propuestas que ti
 
 f) Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
-XXVI.- DE LA COMISIÓN DE SEGUIMIENTO A LOS ACUERDOS ECONÓMICOS:
+XXVI.- DE LA COMISIÓN DE SEGUIMIENTO A LOS PUNTOS DE ACUERDO:
 
-a).- Llevar el listado actualizado de los Acuerdos económicos aprobados por el Pleno del Congreso, en los que se solicite la intervención de las autoridades federales, estatales o municipales, relacionadas con algún asunto de su competencia.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+a).- Llevar el listado actualizado de los puntos de acuerdo aprobados por el Pleno del Congreso, en los que se solicite la intervención de las autoridades federales, estatales o municipales, relacionadas con algún asunto de su competencia.
 
 b).- Por conducto de la Presidencia, solicitar a las autoridades competentes la respuesta a la solicitud de intervención, siempre y cuando transcurran los 15 días naturales contados a partir de la fecha en que tengan conocimiento oficialmente del citado exhorto.
 
-c).- Informar mensualmente al Pleno del H. Congreso de la situación en que se encuentra la solicitud de los Acuerdos Económicos, turnada a la autoridad competente, para que a su vez, se trasmita dicha información en tiempo y forma, a los promoventes.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+c).- Informar mensualmente al Pleno del H. Congreso de la situación en que se encuentra la solicitud con punto de acuerdo, turnada a la autoridad competente, para que a su vez, se trasmita dicha información en tiempo y forma, a los promoventes.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1147,7 +1153,7 @@ XXVII.- DE CULTURA Y ARTES:
 
 a).- El desarrollo de la cultura y las artes en el Estado de Baja California Sur y sus Municipios:
 
-b).- La conservación, el fomento y estÍmulo de las manifestaciones de creatividad artística e intelectual, la identidad sudcaliforniana entre la población del Estado;
+b).- La conservación, el fomento y estímulo de las manifestaciones de creatividad artística e intelectual, la identidad sudcaliforniana entre la población del Estado;
 
 c).- Los relativos a la protección del patrimonio cultural, artístico, documental y arquitectónico e histórico que sean de la competencia del Estado y municipios;
 
@@ -1717,9 +1723,9 @@ III.- Comunicaciones oficiales.
 
 IV.- Pronunciamientos.
 
-> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
-V.- Iniciativas de Acuerdo Económico.
+V.- Proposiciones con punto de acuerdo.
 
 VI.- Iniciativas de Ley o Decreto.
 
@@ -1741,9 +1747,9 @@ Tratándose de los asuntos enumerados en las fracciones V, VI y VIII del present
 
 No podrá negarse el registro de asuntos legislativos, cuando cumplan con los requisitos señalados en el presente artículo.
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Para el caso de iniciativas de acuerdo económico o con proyecto de decreto o dictámenes con proyecto de decreto que se presenten para lectura ante el pleno, que fueren distintos a los registrados, en ningún caso podrán dispensarse los tramites a que se refiere la presente ley; para el caso de dictámenes de acuerdo económico el presidente de la Mesa Directiva deberá regresarlo a la comisión dictaminadora.
+Para el caso de proposiciones con punto de acuerdo o iniciativas con proyecto de decreto o dictámenes con proyecto de decreto que se presenten para lectura ante el Pleno, que fueren distintos a los registrados, en ningún caso podrán dispensarse los trámites a que se refiere la presente ley; para el caso de dictámenes con punto de acuerdo, el presidente de la Mesa Directiva deberá regresarlo a la comisión dictaminadora.
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
 
@@ -1797,17 +1803,23 @@ Es iniciativa de Decreto aquélla que tienda a una resolución que otorgue derec
 
 Las resoluciones del Congreso en Materia Electoral y las que se refieran a la apertura o clausura de Períodos de Sesiones tendrán el carácter de Decreto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 105.
 
-Las proposiciones provenientes de los Diputados que tiendan a una resolución que, por su naturaleza, no requiera de la sanción, promulgación y publicación se considerarán iniciativas de acuerdo económico, y se sujetarán a los trámites siguientes:
+Las proposiciones provenientes de los diputados que tiendan a una resolución que, por su naturaleza, no requieran de la sanción, promulgación y publicación se considerarán proposiciones con punto de acuerdo, y se sujetarán a los trámites siguientes:
 
 > <small>(REFORMADA, B.O. 19 DE JUNIO DE 2001)</small>
 
 I.- Se presentaran por escrito ante el pleno de la Asamblea, debiendo el presidente del Congreso disponer lo necesario para que sean distribuidas entre todos los Diputados en la Sesión en que vayan a ser presentadas.
 
-II.- Hablarán una sola vez dos miembros del Congreso, uno en pro y otro en contra, prefiriéndose al autor o representante del proyecto o proposición.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
-III.- Inmediatamente se preguntará al Congreso si se admite o no a discusión. En el primer caso se pasará a la Comisión o Comisiones que corresponda, quedando sujeta por tanto a los trámites que señala esta Ley; y en el segundo se tendrá por desechada.
+II.- Inmediatamente después se pondrán a discusión y votación de la Asamblea en la misma sesión ordinaria en la que se dio cuenta al Pleno.
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III.- Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis más acucioso la proposición con punto de acuerdo, antes de ponerse a discusión, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada ésta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud.
 
 ###### ARTICULO 106.
 
@@ -1871,9 +1883,11 @@ Tratándose de iniciativas que a juicio de la Comisión requieran de mayor estud
 
 Cuando la naturaleza del asunto lo permita, podrán conjuntarse dos o más iniciativas en un mismo dictamen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 114.
 
-Los dictámenes deberán contener una exposición clara y precisa del negocio a que se refieren y concluir sometiendo a la consideración del Congreso, el Proyecto de Ley, Decreto o acuerdo económico, según corresponda.
+Los dictámenes deberán contener una exposición clara y precisa del negocio a que se refieren y concluir sometiendo a la consideración del Congreso, el proyecto de ley, decreto o puntos de acuerdo, según corresponda.
 
 Las Comisiones que creyeren pertinente proponer algo al Congreso en materias pertenecientes a su ramo, podrán también ampliar su dictamen a materias relacionadas, aún cuando no sea objeto expreso de la iniciativa.
 
@@ -1897,9 +1911,11 @@ Salvo acuerdo en contrario de la Asamblea, las comisiones dictaminadoras y el pl
 
 Los dictámenes relativos a proyectos de Ley o Decreto deberán de recibir dos lecturas en sesiones distintas. La segunda de ellas se hará a mas tardar en la tercera sesión siguiente a la de su primera lectura y será en esta en la que se discuta y en su caso se apruebe o se rechace la iniciativa de Ley o Decreto.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 119.
 
-Los Proyectos de Decreto que se refieran a asuntos electorales y los dictámenes de acuerdo económico, recibirán una sola lectura, e inmediatamente se pondrán a discusión.
+Los proyectos de decreto que se refieren a asuntos electorales y los dictámenes con punto de acuerdo, recibirán una sola lectura e inmediatamente se pondrán a discusión.
 
 ###### ARTICULO 120.
 
@@ -1983,7 +1999,7 @@ Cuando algún Diputado de los que hayan solicitado la palabra, no estuviere en l
 
 ###### ARTICULO 132.
 
-Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el orden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
+Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el órden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
 
 ###### ARTICULO 133.
 
@@ -2565,7 +2581,9 @@ III.- Instalar y presidir la Primera Junta Preparatoria del nuevo Congreso del E
 
 IV.- Nombrar interinamente al personal de la Contaduría Mayor de Hacienda;
 
-V.- Resolver los asuntos de su competencia y recibir durante el receso del Congreso del Estado las Iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen, a fin de que se despachen en el periodo inmediato de Sesiones;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+V.- Resolver los asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de ley o decreto, las proposiciones con punto de acuerdo y de Reglamentos del Poder Legislativo que le dirijan, turnándolas para dictamen a la comisión o comisiones correspondientes, a fin de que se despachen en el periodo inmediato de sesiones.
 
 > <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -2687,11 +2705,39 @@ En este caso, el Presidente de la Junta de Gobierno y Coordinación Política en
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPITULO II
+### CAPITULO I BIS
 
-DE LA ATENCION DE LAS SOLICITUDES DE INFORMACION PUBLICA.
+DE LA INFORMACION RELACIONADA CON LOS PROCESOS LEGISLATIVOS DE LAS LEYES DE INGRESOS Y DEL PRESUPUESTO DE EGRESOS DEL ESTADO.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 249 BIS.- El Congreso del Estado deberá publicar en su página de internet, información relacionada con los procesos legislativos de las Leyes de Ingresos del Estado y de los Municipios, así como del Presupuesto de Egresos del Estado.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 249 TER.- La información señalada en el artículo anterior estará concentrada en un apartado especial y deberá publicarse de acuerdo con las siguientes previsiones:
+
+a) Las iniciativas con proyecto de ley o de decreto correspondientes, deberán publicarse en formato digital, a más tardar al día siguiente de que hayan sido turnadas en el pleno;
+
+b) Se señalará el nombre de la comisión o comisiones permanentes a las que fueron turnadas las iniciativas;
+
+c) Fecha de vencimiento del plazo para la emisión de los dictámenes correspondientes;
+
+d) Información sobre cada una de las reuniones de trabajo que celebre la comisión o comisiones de dictamen;
+
+e) Publicación de los Dictámenes con proyecto de ley o de decreto, correspondientes;
+
+f) Fechas de las sesiones en que los dictámenes recibieron la primera y segunda lecturas;
+
+g) Extracto de cada una de las intervenciones de los integrantes de la legislatura, generadas durante la discusión del dictamen, ya sea en lo general o en lo particular;
+
+h) La votación obtenida en cada dictamen, tanto en lo general como en lo particular, así como el sentido del voto de cada integrante de la Legislatura;
+
+i) Actas de las sesiones en las se aprobaron cada uno de los dictámenes;
+
+j) Numero asignado a cada decreto y su fecha de publicación en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 244.
 
@@ -2725,9 +2771,9 @@ e). Sueldos no cobrados.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL.
+DE LA ATENCION DE LAS SOLICITUDES DE INFORMACION PUBLICA.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -2736,6 +2782,12 @@ DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL.
 El incumplimiento de las disposiciones contenidas en la presente Ley, será sancionado en los términos del Título Tercero de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California Sur, con independencia de las disposiciones del orden penal que sean aplicables al caso en particular.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO III
+
+DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 246.
 
@@ -2789,7 +2841,9 @@ XIII.- El nombre, domicilio oficial y dirección electrónica, en su caso, de lo
 
 XIV.- Los instrumentos y formulas de participación ciudadana;
 
-XV.- La Gaceta Parlamentaria, que contendrá el orden del día de la sesión del Pleno, así como el sentido de la votación de cada diputado en las votaciones nominales y económicas; las iniciativas de ley, decreto, acuerdo económico, y dictámenes de las comisiones, decretos y acuerdos aprobados;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XV.- La Gaceta Parlamentaria, que contendrá el orden del día de la sesión del Pleno, así como el sentido de la votación de cada diputado en las votaciones nominales y económicas; las iniciativas de ley, decreto, proposiciones con punto de acuerdo, y dictámenes de las comisiones, decretos y acuerdos aprobados;
 
 XVI.- Informe anual de actividades;
 
@@ -2835,7 +2889,7 @@ La información mínima a que se refieren los artículos anteriores, no restring
 
 El Oficial Mayor con la información que le deberán entregar la Dirección de Finanzas, Dirección de Comunicación Social y Relaciones Publicas, Jefatura de Apoyo Parlamentario, Jefatura de Recursos Materiales y Humanos, Asesores Jurídicos, Fracciones Parlamentarias, Comisiones Legislativas, Mesa Directiva, Junta de Gobierno y Coordinación Política y Órgano de Fiscalización Superior, instruirá a la Jefatura de Informática a publicar en la página Web del Congreso del Estado la información de carácter legislativo, administrativo y financiero requerida en los artículos anteriores.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 250.
 
@@ -3122,3 +3176,17 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO
 
 Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE ADICIONA UN CAPÍTULO I BIS, COMPUESTO POR LOS ARTÍCULOS 249 BIS Y 249 TER, AL TÍTULO IX DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+###### ARTÍCULO UNICO
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 51 FRACCIÓN XV, 54 FRACCIÓN XXVI, 55 FRACCIÓN XXVI, INCISOS A) Y C), 97, FRACCIÓN V Y PENÚLTIMO PÁRRAFO, 105 PRIMER PÁRRAFO Y FRACCIONES II Y III, 114 PRIMER PÁRRAFO, 199, 226 FRACCIÓN V Y 247 FRACCIÓN XV, DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
