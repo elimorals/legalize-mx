@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2013-11-30"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -813,11 +813,13 @@ IV.- Si las observaciones con veto parcial son aprobadas al menos por las dos te
 
 V.- Si las observaciones con veto total son aprobadas al menos por las dos terceras partes de los miembros del Congreso, el Proyecto de Ley o Decreto quedará sin efecto, debiendo publicarse esta decisión en el Boletín Oficial del Gobierno del Estado.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
-61.- El Gobernador no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de Convocatoria a período extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Orgánica del Poder Legislativo.
+61.- El Gobernador no podrá hacer observaciones sobre las resoluciones del Congreso respecto a las proposiciones con punto de acuerdo, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de Convocatoria a periodo extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Orgánica del Poder Legislativo o Reglamentos del mismo.
 
-62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+
+62.- Las iniciativas de ley o decreto, así como las proposiciones con punto de acuerdo que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo periodo de sesiones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1049,9 +1051,9 @@ III.- Constituirse en Comisión Instaladora de la nueva Legislatura e instalar y
 
 IV.- Nombrar interinamente a los empleados del Órgano de Fiscalización Superior.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
-V.- Resolver los asuntos de su competencia y recibir durante el periodo de receso, las iniciativas de ley o de decreto, así como los acuerdos económicos que le dirijan, turnándolas para dictamen a la comisión o comisiones correspondientes, a fin de que se despachen en términos de ley.
+V.- Resolver los asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de ley o decreto, así como las proposiciones con punto de acuerdo y de Reglamentos del Poder Legislativo que le dirijan, turnándolas para dictamen a la comisión o comisiones correspondientes, a fin de que se despachen en términos de ley.
 
 > <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
@@ -3220,3 +3222,9 @@ B.O. 13 DE SEPTIEMBRE DE 2013.
 B.O. 30 DE NOVIEMBRE DE 2013.
 
 UNICO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
