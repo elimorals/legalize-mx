@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2012-12-21"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "COA"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -405,7 +407,9 @@ Están obligadas al pago del impuesto sobre tenencia o uso de vehículos estable
 
 Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
 
-Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las instituciones de crédito o establecimientos autorizados, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse al solicitarse el registro o alta del vehículo. En caso de importación temporal, el impuesto deberá efectuarse al convertirse en definitiva dicha importación.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las instituciones de crédito o establecimientos autorizados, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse al solicitarse el registro o alta del vehículo, en ningún caso el plazo excederá de quince días. En caso de importación temporal, el impuesto deberá efectuarse al convertirse en definitiva dicha importación.
 
 Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las instituciones de crédito o establecimientos autorizados correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público. Los contribuyentes de este impuesto no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos del registro federal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
 
@@ -444,6 +448,10 @@ Octubre 0.25
 Noviembre 0.17
 
 Diciembre 0.08
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de vehículos usados que hayan pagado el impuesto sobre tenencia o uso de vehículos en otra entidad, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente, de acuerdo a lo señalado en el cuadro anterior.
 
 ###### ARTICULO 34.
 
@@ -555,7 +563,7 @@ Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y
 
 En esta Sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicletas.
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 ###### ARTICULO 43.
 
@@ -565,7 +573,7 @@ Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de mu
 
 Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 ###### ARTICULO 45.
 
@@ -575,7 +583,7 @@ TARIFA
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 25 DE NOVIEMBRE DE 2011, PÁGINA 10.</small>
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 ###### ARTICULO 46.
 
@@ -791,7 +799,7 @@ OBJETO
 
 #### SECCION PRIMERA. AUTOMOVILES
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 ###### ARTICULO 54.
 
@@ -833,7 +841,7 @@ Los fabricantes, ensambladores y distribuidores autorizados, así como los comer
 
 Es objeto de este impuesto, la tenencia o uso de vehículos automotores modelo de más de diez años de fabricación anteriores al ejercicio fiscal en curso, a que se refiere el artículo 38, fracción III de esta Ley, así como de todo tipo de remolques cualquiera que sea su modelo.
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 TASA
 
@@ -931,7 +939,7 @@ TASA
 
 #### SECCION TERCERA. VEHICULOS USADOS DE HASTA NUEVE AÑOS DE ANTIGÜEDAD
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2012)</small>
 
@@ -950,6 +958,14 @@ PAGO
 ###### ARTICULO 70.
 
 El pago de este impuesto deberá efectuarse en las instituciones de crédito o establecimientos autorizados de la jurisdicción en que se encuentre el predio, dentro de los primeros diecisiete días del mes siguiente en que ocurran las actividades a que se refiere el Artículo 66 de este Capítulo, mediante declaración que presentarán en las formas autorizadas por las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración en cada municipio en que se encuentren ubicadas las sucursales. En aquellos casos en que no exista oficina recaudadora de rentas en el municipio de que se trate, las declaraciones podrán ser presentadas en las instituciones de crédito o establecimientos autorizados más cercanos al domicilio del contribuyente.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Las personas físicas o morales que tengan su domicilio fiscal en otro Estado, deberán pagar conforme a lo establecido en esta Ley y en el artículo 1 del Código Fiscal para el Estado de Coahuila de Zaragoza, el Impuesto por Remediación Ambiental en la Extracción de Materiales Pétreos que se cause por los actos o actividades realizadas dentro del territorio del Estado de Coahuila de Zaragoza.
 
 OBLIGACIONES
 
@@ -1005,7 +1021,7 @@ TASA
 
 La tasa correspondiente al impuesto sobre ingresos por premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos será el 6%, aplicado a la base gravable establecida en el artículo anterior.
 
-Los contribuyentes de este impuesto, podrán pagar el mismo mediante una cuota fija mensual, la que será determinada por una estimativa que practiquen las autoridades fiscales. Para ello, dichas autoridades obtendrán el valor estimado mensual de las actividades por el que el contribuyente este obligado al pago de este impuesto, pudiendo considerar el valor estimado de dichas actividades durante un año calendario, en cuyo caso dicho valor se dividirá entre doce para obtener el valor de las actividad es mensuales estimadas.
+Los contribuyentes de este impuesto, podrán pagar el mismo mediante una cuota fija mensual, la que será determinada por una estimativa que practiquen las autoridades fiscales. Para ello, dichas autoridades obtendrán el valor estimado mensual de las actividades por el que el contribuyente este obligado al pago de este impuesto, pudiendo considerar el valor estimado de dichas actividades durante un año calendario, en cuyo caso dicho valor se dividirá entre doce para obtener el valor de las actividades mensuales estimadas.
 
 PAGO
 
@@ -1050,6 +1066,10 @@ II. La inscripción o registro de documentos públicos o privados, de resolucion
 6. Si el valor es indeterminado, se pagarán $1,475.00 (MIL CUATROCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
 
 Cuando una parte del valor sea determinada y la otra indeterminada se pagará por cada parte lo que corresponde, con arreglo a lo dispuesto en esta fracción.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Para efectos del primer párrafo de esta fracción, se considera como un documento mediante el cual se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, el otorgamiento ante Notario Público de poderes para actos de dominio sobre bienes inmuebles, cuando se otorguen con el carácter de irrevocable.
 
 III. La inscripción de la escritura constitutiva de sociedades civiles y asociaciones de carácter civil, así como cualquier modificación a la escritura constitutiva $60.00 (SESENTA PESOS 00/100 M.N.), por hoja
 
@@ -1123,7 +1143,7 @@ SEGUNDA PARTE
 
 DEL COMERCIO
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 ###### ARTICULO 82.
 
@@ -1195,7 +1215,9 @@ I. Registro de nacimientos, $60.00 (SESENTA PESOS 00/100 M.N.);
 
 II. Registro de reconocimientos, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.);
 
-III. Inscripción de actas de adopción, tutela, de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III. Inscripción de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $152.00 (CIENTO CINCUENTA Y DOS PESOS 00/100 M.N.);
 
 IV. Registro de matrimonios, $520.00 (QUINIENTOS VEINTE PESOS 0/100 M.N.);
 
@@ -1226,6 +1248,10 @@ XIV. Expedición de certificados de inexistencia y cualquier otra clase de const
 XV. Búsqueda de actas en el Registro Civil, $70.00 (SETENTA PESOS 00/100 M.N.); y
 
 XVI. Por otros servicios no especificados, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+No causarán derechos, los servicios prestados por concepto de inscripción y registro de actas de adopción, inscripción y registro de actas de tutela; así como la inscripción y registro de adopción y/o tutela que se realice de forma automatizada.
 
 ###### ARTICULO 86.
 
@@ -1301,9 +1327,9 @@ XXX. Por el trámite del permiso a que se refiere el artículo 27 Constitucional
 
 XXXI. Por los Derechos que presta la Dirección de Protección Civil:
 
-1. Suscripción por el uso de la plataforma del Atlas Estatal de Riesgos, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.);
+1. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-2. Renovación por el uso de la plataforma del Atlas Estatal de Riesgos, $5,000.00 (CINCO MIL PESOS 00/100 M.N.);
+2. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 3. Ingreso y revisión de programas de prevención de accidentes, población afectable de 1-10 personas; $300.00 (TRESCIENTOS PESOS 00/100 M.N.);
 
@@ -1319,23 +1345,23 @@ XXXI. Por los Derechos que presta la Dirección de Protección Civil:
 
 9. Constancia de factibilidad en materia de protección civil de inicio y de construcción $5,000.00 (CINCO MIL PESOS 00/100 M.N.);
 
-10. Capacitación al sector privado en materia de protección civil $5,000.00 (CINCO MIL PESOS 00/100 M.N.);
+10. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-11. Evaluación de simulacros y su retroalimentación $5,000.00 (CINCO MIL PESOS 00/100 M.N.);
+11. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 12. Registro como empresas, consultorías y personas físicas que se dediquen a prestar servicios en materia de protección civil $10,000.00 (DIEZ MIL PESOS 00/100 M.N.);
 
-13. Revisión y autorización de programa de prevención de accidentes (interno y externo) tratándose de espectáculo público, población afectable 1-10 personas $300.00 (TRESCIENTOS PESOS 00/100 M.N.);
+13. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-14. Revisión y autorización de programa de prevención de accidentes (interno y externo) tratándose de espectáculo público, población afectable 11-50 personas $1,170.00 (MIL CIENTO SETENTA PESOS 00/100 M.N.);
+14. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-15. Revisión y autorización de programa de prevención de accidentes (interno y externo) tratándose de espectáculo público, población afectable 51-100 personas $2,920.00 (DOS MIL NOVECIENTOS VEINTE PESOS 00/100 M.N.);
+15. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-16. Revisión y autorización de programa de prevención de accidentes (interno y externo) tratándose de espectáculo público, población afectable 101-500 personas $5,840.00 (CINCO MIL OCHOCIENTOS CUARENTA PESOS 00/100 M.N.);
+16. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-17. Revisión y autorización de programa de prevención de accidentes (interno y externo) tratándose de espectáculo público, población afectable 500 personas en adelante $14,600 (CATORCE MIL SEISCIENTOS PESOS 00/100 M.N.);
+17. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-18. Solicitud de peritaje en materia de protección civil $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.);
+18. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 19. Autorizaciones en materia de explosivos, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.);
 
@@ -1357,7 +1383,7 @@ PRIMERA PARTE
 
 DE LA PROPIEDAD
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
 
 ###### ARTICULO 89.
 
@@ -1433,7 +1459,7 @@ La omisión de esta obligación se considerará como infracción en términos de
 
 #### SECCION SEGUNDA. POR SERVICIOS DEL REGISTRO CIVIL
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012.]</small>
+[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
 
 ###### ARTICULO 96.
 
@@ -1495,13 +1521,13 @@ La Secretaría de Finanzas, cuando lo considere conveniente, podrá autorizar la
 
 #### SECCION TERCERA. POR OTROS SERVICIOS
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
 
 ###### ARTICULO 104.
 
 Las autoridades fiscales clausurarán los establecimientos que expendan bebidas alcohólicas cuando no cuenten con licencia de funcionamiento y el refrendo anual, así como aquellos que no suspendan la enajenación o expendio de bebidas alcohólicas dentro del plazo establecido en el artículo 102 de esta Ley, cuando sea cancelada la licencia de funcionamiento con que operaba.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 ###### ARTICULO 105.
 
@@ -1531,9 +1557,11 @@ Se entenderá por giro de miscelánea, la compraventa al público en general, de
 
 ### CAPITULO TERCERO. POR SERVICIOS CAUSADOS POR EL USO Y/O APROVECHAMIENTO DE AUTOPISTAS ESTATALES
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012.]</small>
+[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
 
 OBJETO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 106.
 
@@ -1555,11 +1583,11 @@ Cuando el establecimiento cuente con licencia y habiendo presentado aviso de sus
 
 ### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 #### SECCION CUARTA. POR SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO A TRAVES DEL ORGANISMO DESCONCENTRADO DENOMINADO "PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO"
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 OBJETO
 
@@ -1597,25 +1625,15 @@ Los servicios relativos a control vehicular causarán derechos conforme a la sig
 
 TARIFA
 
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 I. Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2012)</small>
+1. Para automóviles, camiones y camionetas, $1,360.00 (MIL TRECIENTOS (SIC) SESENTA PESOS 00/100 M.N.).
 
-1. Para los siguientes vehículos:
+2. Los vehículos de carga de tres o más toneladas, ómnibus y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme al inciso anterior, deberán pagar la cantidad de $773.00 (SETECIENTOS SETENTA Y TRES PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2012)</small>
-
-a. Automóviles, camiones y camionetas, $1,250.00 (MIL DOSCIENTOS CINCUENTA PESOS 00/100 M.N.).
-
-b. (DEROGADO, P.O. 10 DE JULIO DE 2012)
-
-c. (DEROGADO, P.O. 10 DE JULIO DE 2012)
-
-d. Los vehículos de carga de tres o más toneladas, omnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme a los subincisos anteriores, deberán pagar la cantidad de $710.00 (SETECIENTOS DIEZ PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
-
-Los ingresos que se generen conforme al párrafo anterior, deberán destinarse al pago de programas de rehabilitación y mejoramiento de las vías de comunicación.
-
-2. Para demostración, $2,000.00 (DOS MIL PESOS 00/100 M.N.)
+Los ingresos que se generen conforme al inciso anterior, deberán destinarse para programas de rehabilitación y mejoramiento de las vías de comunicación.
 
 II. Expedición de juego de placas para demostración de vehículos $2,070.00 (DOS MIL SETENTA PESOS 00/100 M.N.);
 
@@ -1685,7 +1703,7 @@ Los vehículos, cuyos propietarios no cumplan dentro del plazo establecido en es
 
 #### SECCION SEGUNDA. DE LAS REVALIDACIONES DE LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDEN BEBIDAS ALCOHOLICAS
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 OBJETO
 
@@ -1719,11 +1737,11 @@ El pago de los derechos a que se refiere esta Sección deberá efectuarse en las
 
 #### SECCION TERCERA. POR LOS SERVICIOS DE CONTROL VEHICULAR
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
 
 ###### ARTICULO 124.
 
-Los servicios prestados por el Servicio de Administración Tributaria del Estado de Coahuila, por el uso y/o aprovechamiento de la Autopista Allende-Agujita-Estancias, causaran derechos conforme a la siguiente:
+Los servicios prestados por el Servicio de Administración Fiscal General, por el uso y/o aprovechamiento de la Autopista Allende-Agujita-Estancias, causaran derechos conforme a la siguiente:
 
 TARIFA
 
@@ -1749,9 +1767,11 @@ Son sujetos de este derecho, las personas físicas o morales que utilicen o apro
 
 PAGO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 126.
 
-El pago de estos derechos deberá efectuarse en las casetas de cobro instaladas en la autopista Allende-Agujita- Estancias por el Servicio de Administración Tributaria del Estado de Coahuila.
+El pago de estos derechos deberá efectuarse en las casetas de cobro instaladas en la autopista Allende-Agujita-Estancias por Administración Fiscal General.
 
 ### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE GESTION URBANA, AGUA Y ORDENAMIENTO TERRITORIAL
 
@@ -1837,11 +1857,9 @@ El pago de los derechos a que se refiere este Capítulo deberá efectuarse en la
 
 EXENCIONES
 
-### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION
+### CAPITULO QUINTO-BIS. POR SERVICIOS DE LA SECRETARIA DE INFRAESTRUCTURA
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 130.
 
@@ -1895,13 +1913,11 @@ El propietario de un vehículo deberá dar aviso si se llevase a cabo la enajena
 
 Los avisos a que se refiere este artículo deberán presentarse dentro de los quince días siguientes al en que se realice la operación.
 
-### CAPITULO SEXTO BIS. POR SERVICIOS DE LA SECRETARIA DE CULTURA
+### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013, PUBLICADA EN EL EORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012".]</small>
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-OBJETO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 133.
 
@@ -1929,9 +1945,7 @@ Los documentos relativos a los servicios de control vehicular serán entregados 
 
 La falta de pago oportuno de los derechos a que se refiere el artículo 131 de esta ley, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado.
 
-### CAPITULO SEPTIMO. POR SERVICIOS DE LA SECRETARIA DE MEDIO AMBIENTE
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL EORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012.]</small>
+### CAPITULO SEXTO BIS. POR SERVICIOS DE LA SECRETARIA DE CULTURA
 
 ###### ARTICULO 137.
 
@@ -2033,15 +2047,57 @@ Son solidariamente responsables del pago de este derecho los constructores y con
 
 El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 141-A.
+
+Los servicios que prestados (sic) la Secretaría de Infraestructura, causarán los derechos siguientes:
+
+I. Por la expedición del permiso para la instalación de anuncios publicitarios y señalamientos informativos dentro o fuera del derecho de vía de las carreteras y caminos locales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
+
+1. Anuncios publicitarios que tienen una superficie total hasta de 25 metros cuadrados: 25 veces el salario mínimo vigente en el Estado.
+
+2. Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados: 30 veces el salario mínimo vigente en el Estado.
+
+3. Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados: 60 veces el salario mínimo vigente en el Estado.
+
+4. Señales informativas: 50 veces el salario mínimo vigente en el Estado.
+
+II. Por el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y carreteras estatales, se pagarán derechos conforme a las siguientes cuotas:
+
+1. Estudios técnicos de planos, proyectos y memorias de obra, para obras e instalaciones marginales dentro del derecho de vía, cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras o caminos de jurisdicción estatal, por cada 100 metros o fracción que exceda de dicha longitud: 30 veces el salario mínimo vigente en el estado.
+
+2. Por la autorización para la construcción de accesos que afecten el derecho de vía en caminos y carreteras, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
+
+3. Por el estudio técnico del proyecto, supervisión y autorización de obras para paradores 1% sobre el costo total de la obra.
+
+4. Por el estudio técnico de planos, proyectos y memorias de obra y expedición de la autorización para la construcción de obras e instalaciones marginales subterráneas para cables de redes de telecomunicación que se realicen dentro de los derechos de vía de caminos y carreteras estatales, por kilómetro o fracción: 30 veces el salario mínimo vigente en el estado.
+
+III. Certificaciones, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
+
+IV. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja; (sic)
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+SUJETO
+
+###### ARTICULO 141-B.
+
+Son sujetos de este derecho, las personas que soliciten los servicios que se establecen en el artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 141-C.
+
+El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO OCTAVO. POR SERVICIOS DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS
+### CAPITULO SEPTIMO. POR SERVICIOS DE LA SECRETARIA DE MEDIO AMBIENTE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL EORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012.]</small>
 
 ###### ARTICULO 142.
 
@@ -2065,7 +2121,7 @@ III. Constancia de registro de título y no sanción $250.00 (DOSCIENTOS CINCUEN
 
 IV. Constancia de registro de título y expedición de cédula profesional en trámite $100.00 (CIEN PESOS 00/100 M.N,);
 
-V. Medidas de seguridad, código óptico y timbre holograma con código óptico $50.00 (CINCUENTA PESOS 00/100 M.N.);
+V. (DEROGADA. P.O. 20 DE DICIEMBRE DE 2013)
 
 VI. Registro de institución educativa $6,000.00 (SEIS MIL PESOS 00/100 M.N.):
 
@@ -2091,7 +2147,7 @@ XVI. Por trámite de reconocimiento de validez oficial de estudios de educación
 
 XVII. Por trámite de reconocimiento de validez oficial de estudios de educación superior $3,500.00 (TRES MIL QUINIENTOS PESOS 00/100 M.N.);
 
-XVIII. Por incorporación y el refrendo anual al sistema educativo estatal:
+XVIII. (DEROGADA. P.O. 20 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
@@ -2135,7 +2191,7 @@ XXV. Por encomienda al Registro del Colegio de Profesionistas:
 
 2. Por cambios en nómina de socios $160.00 (CIENTO SESENTA PESOS 00/100 M.N.);
 
-XXVI. Por los servicios de control escolar por alumno, los derechos a pagar se determinará, en el convenio que se suscriba con cada institución educativa.
+XXVI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 XXVII. Por tramite de documentos escolares de otros Estados $200.00 (DOSCIENTOS PESOS 00/100 M.N.).
 
@@ -2167,55 +2223,21 @@ El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en l
 
 ###### ARTICULO 144-A.
 
-Es objeto de este derecho, los servicios que presta la Secretaría de Cultura.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-SUJETO
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 144-B.
 
-Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 144-C.
 
-Los servicios a que se refiere la presente Sección, causarán derechos conforme a la siguiente:
-
-TARIFA
-
-I. Talleres Artísticos:
-
-1. Inscripción anual $209.00 (DOSCIENTOS NUEVE PESOS 00/100 M.N.).
-
-2. Mensualidad en las clases grupales, $209.00 (DOSCIENTOS NUEVE PESOS 00/100 M.N.);
-
-3. Mensualidad en las clases individuales $262.00 (DOSCIENTOS SESENTA Y DOS PESOS 00/100 M.N.).
-
-4. Curso de verano de cuatro semanas, $1,046.00 (MIL CUARENTA Y SEIS PESOS 00/100 M.N.).
-
-II. Libros editados por la Secretaría de Cultura de venta al público en general, según se determine para cada libro.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-PAGO
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 144-D.
 
-El pago de los servicios a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio, conforme a la liquidación que expida la Secretaría de Cultura.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-La Secretaría de Cultura, al realizar la liquidación para el pago de los derechos a que se refiere éste capítulo, deberá precisar los servicios prestados y el costo de cada uno.
-
-### CAPITULO NOVENO. POR LOS SERVICIOS DE LA SECRETARIA DE DESARROLLO ECONOMICO
-
-OBJETO
+### CAPITULO OCTAVO. POR SERVICIOS DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2313,7 +2335,7 @@ El pago de los derechos a que se refiere este capítulo deberá efectuarse en la
 
 Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Secretaría de la Fiscalización y Rendición de Cuentas en la ejecución de obra pública, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL EORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012.]</small>
 
 ###### ARTICULO 149.
 
@@ -2329,13 +2351,13 @@ IV. Por la expedición de copias certificadas $40.00 (CUARENTA PESOS 00/100 M.N.
 
 SUJETO
 
-### CAPITULO DECIMO. POR SERVICIOS DE LA PROCURADURIA DE JUSTICIA DEL ESTADO
+### CAPITULO NOVENO. POR LOS SERVICIOS DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
 OBJETO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 150.
 
@@ -2365,13 +2387,19 @@ Son sujetos a este derecho las personas físicas y morales, explotadores tratado
 
 BASE
 
-### CAPITULO DECIMO PRIMERO. POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA RELATIVAS AL DERECHO DE ACCESO A LA INFORMACION PUBLICA
+### CAPITULO DECIMO. POR SERVICIOS DE LA PROCURADURIA DE JUSTICIA DEL ESTADO
+
+[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
 
 OBJETO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 #### SECCION CUARTA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 ###### ARTICULO 154.
 
@@ -2395,7 +2423,7 @@ PAGO
 
 #### SECCION PRIMERA. POR SERVICIOS DE CONTROL DE TRANSPORTE PUBLICO
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL EORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012.]</small>
+[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2469,15 +2497,21 @@ II. Los prestados por otras unidades administrativas de la Fiscalía General del
 
 2. Por otros servicios no especificados, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.).
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III. Por el uso y mantenimiento de un dispositivo de monitoreo electrónico de localización a distancia, para personas que hayan sido sentenciadas dentro de un proceso penal y que se hagan acreedores a dicha medida de seguridad, $5,000.00 (CINCO MIL PESOS 00/100 M.N.) mensuales.
+
 PAGO
+
+### CAPITULO DECIMO PRIMERO. POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA RELATIVAS AL DERECHO DE ACCESO A LA INFORMACION PUBLICA
+
+OBJETO
 
 ### CAPITULO DECIMO SEGUNDO. POR SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-### CAPITULO DECIMO TERCERO. POR SERVICIOS DE ORGANISMOS DESCENTRALIZADOS DE GOBIERNO
-
 #### SECCION SEGUNDA. POR OTROS SERVICIOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013, PUBLICADA EN EL EORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012".]</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2489,13 +2523,11 @@ PAGO
 
 OBJETO
 
-### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
-
-OBJETO
+### CAPITULO DECIMO TERCERO. POR SERVICIOS DE ORGANISMOS DESCENTRALIZADOS DE GOBIERNO
 
 ## TITULO IV. CONTRIBUCIONES ESPECIALES
 
-### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION Y DE LA SEGURIDAD PÚBLICA EN EL ESTADO
+### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
 
 OBJETO
 
@@ -2559,7 +2591,7 @@ La Dependencia, al realizar la liquidación para el pago de los derechos a que s
 
 (DEROGADO, P.O. 8 DE MAYO DE 2012)
 
-### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREÓN
+### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION Y DE LA SEGURIDAD PÚBLICA EN EL ESTADO
 
 OBJETO
 
@@ -2589,9 +2621,7 @@ OBJETO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
-
-OBJETO
+### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREÓN
 
 ###### ARTICULO 171.
 
@@ -2761,7 +2791,7 @@ La tasa correspondiente a esta contribución para el fomento a la educación y d
 
 PAGO
 
-### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
+### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
 
 OBJETO
 
@@ -2797,37 +2827,23 @@ El pago de esta contribución deberá efectuarse en las autoridades fiscales, In
 
 ###### ARTICULO 189.
 
-Es objeto de esta contribución para el mantenimiento y conservación del Centro Histórico de las ciudades de Saltillo, Ramos Arizpe y Torreón, la realización de pagos por concepto de derechos de control vehicular que se causen en los municipios señalados.
-
-Los ingresos que se obtengan por esta contribución, serán destinados exclusivamente para los fines señalados, asignándose a cada municipio el importe del ingreso que se genere en el mismo.
-
-SUJETO
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 190.
 
-Son sujetos de esta contribución, las personas físicas, morales o unidades económicas que realicen pagos por los conceptos a que se refiere el artículo anterior.
-
-BASE
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 191.
 
-La base de esta contribución, es la realización de los pagos por concepto de los derechos señalados.
-
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL ORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
-
-CUOTA
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 192.
 
-La cuota correspondiente a esta contribución será la cantidad de $70.00 (SETENTA PESOS 00/100 M.N.) por cada trámite de refrendo u obtención de placas que se realice.
-
-Los contribuyentes que realicen dos o más trámites por los que se causen derechos de control vehicular en un mismo ejercicio fiscal, únicamente estarán obligados a realizar un solo pago durante el ejercicio.
-
-PAGO
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ## TITULO V. PRODUCTOS
 
-[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA " INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2013", PUBLICADA EN EL EORDINARIO DEL P.O. DE 21 DE DICIEMBRE DE 2012].
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]</small>
 
 ###### ARTICULO 216.
 
@@ -2889,7 +2905,7 @@ XII. Otros no especificados.
 
 ###### ARTICULO 193.
 
-El pago de esta contribución deberá efectuarse en las instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos de los derechos objeto de esta contribución.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ## TITULO VI. APROVECHAMIENTOS
 
@@ -3095,6 +3111,10 @@ Para hacer efectivas estas contribuciones, de ser necesario, se aplicará el pro
 
 Estarán exentos del pago de esta contribución los bienes del dominio público de la federación, del Estado y de los municipios.
 
+### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
+
+OBJETO
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -3212,3 +3232,17 @@ INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY D
 DEBIDO A SU IMPORTANCIA SE TRANSCRIBE PARTE DEL PROEMIO DE LA INFORMACIÓN FISCAL QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 ... EMITE LA PRESENTE INFORMACIÓN FISCAL POR LA QUE SE DAN A CONOCER LAS CUOTAS Y TARIFAS ACTUALIZADAS CORRESPONDIENTES A DICHA LEY, LAS CUALES ESTARÁN VIGENTES DEL 1° DE ENERO HASTA EL 31 DE DICIEMBRE DE 2013.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 2014.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
