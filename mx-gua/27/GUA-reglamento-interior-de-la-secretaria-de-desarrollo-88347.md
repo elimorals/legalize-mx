@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-desarrollo-88347"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-22"
-last_updated: "2012-06-22"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO SUSTENTABLE, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 22 de junio de 2012.
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones I, II, III, y XXV, y 79 de la Constitución Política del Estado de Guanajuato y en observancia de lo dispuesto por los artículos 1o., 2o., 3o., párrafo primero y segundo, 6o., 9o., 12, 13, fracción VI, 14 primer párrafo, 18 y 28 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -1640,3 +1642,87 @@ ROMÁN CIFUENTES NEGRETE
 EL SECRETARIO DE DESARROLLO ECONÓMICO SUSTENTABLE
 
 RAMÓN ALFARO GÓMEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Inferior vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico Sustentable, contenido en el Decreto Gubernativo número 214, publicado en el Periódico Oficial del Gobierno del Estado número 100, Tercera Parte, de fecha 22 de junio del 2012.
+
+Referencia a las nuevas denominaciones de las unidades administrativas
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a las siguientes unidades administrativas, se entenderán hechas a su nueva denominación:
+
+Unidades administrativas conforme al Unidades administrativas conforme al
+
+Reglamento Interior abrogado presente Reglamento
+
+Secretaría Particular Dirección General de Estrategia y Operación
+
+Dirección de Informática Dirección de Tecnologías de la Información
+
+Dirección General Normativa
+
+y de Enlace Institucional
+
+Dirección Normativa
+
+Dirección General de Asuntos Dirección de Asuntos Jurídicos
+
+Jurídicos y Seguimiento
+
+Coordinación General de Dirección General de Vinculación
+
+Proyectos Estratégicos Económica y Comunicación
+
+Dirección de Estructuración Económica
+
+Dirección de Control Presupuestal Dirección de Administración Presupuestal
+
+Dirección de Ingreso Dirección de Recursos Humanos
+
+Dirección de Seguimiento de Resultados
+
+y Metas Dirección de Seguimiento de Resultados
+
+Dirección General de Infraestructura y Dirección General de Infraestructura
+
+Proyectos Industrial
+
+Dirección de Articulación Productiva
+
+Dirección de Estrategias Comerciales
+
+Subsecretaria de Formación Laboral Subsecretaría de Empleo y Formación
+
+Laboral
+
+Dirección de Empleo Celaya Dirección Regional de Empleo Celaya
+
+Dirección de Empleo Guanajuato Coordinación Regional de Empleo
+
+Guanajuato
+
+Dirección de Empleo Irapuato Dirección Regional de Empleo Irapuato
+
+Dirección de Empleo León Dirección Regional de Empleo León
+
+Dirección de Empleo Salamanca Dirección Regional de Empleo Salamanca
+
+Coordinación Regional de Empleo
+
+San José Iturbide
+
+Dirección de Normalización y Certificación Dirección de Normalización y Certificación de Competencia Laboral
+
+Dirección de Prospectiva Laboral
+
+Dirección de Promoción del Empleo
+
+Dirección de Productividad Laboral
