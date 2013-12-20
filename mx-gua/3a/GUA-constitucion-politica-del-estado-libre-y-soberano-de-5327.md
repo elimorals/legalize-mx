@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2013-12-06"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -80,6 +80,14 @@ Queda prohibido todo tipo de discriminación que atente contra la dignidad human
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
 La ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención del menor y del anciano.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación del Gobierno del Estado y de los municipios, así como la de la ciudadanía para la consecución de dichos fines, priorizando la cultura del agua.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -3612,3 +3620,7 @@ En tanto el Instituto de Acceso a la Información Pública para el Estado de Gua
 Artículo Séptimo. Los poderes, mandatos y en general las representaciones otorgadas y facultades concedidas por el Instituto de Acceso a la Información Pública del Estado de Guanajuato, con anterioridad a la entrada en vigor del presente Decreto, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
 
 En el supuesto de que existan asuntos en la Secretaría de la Transparencia y Rendición de Cuentas, que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Decreto, deberán ser concluidos por la propia Secretaría de la Transparencia y Rendición de Cuentas, aplicando lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, y demás ordenamientos legales en la materia.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
