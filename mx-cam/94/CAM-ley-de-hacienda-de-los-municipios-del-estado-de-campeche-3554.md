@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2012-12-26"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -221,7 +221,7 @@ CONTRIBUCIONES DE MEJORAS, son las establecidas en Ley a cargo de las personas f
 
 PLUSVALIAS, son los incrementos del valor de un bien por causas extrínsecas al mismo.
 
-DERECHOS, son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Municipio en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u organismos descentralizados (sic) u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en las Leyes Fiscales respectivas. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Municipio.
+DERECHOS, son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Municipio en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u organismos descentralizados u (sic) órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en las Leyes Fiscales respectivas. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Municipio.
 
 PRODUCTOS, son contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
@@ -559,9 +559,17 @@ RÚSTICOS: Terrenos Explotados 0.30%
 
 Terrenos inexplotados 0.60%
 
-Previo a la aplicación de la tarifa señalada en este artículo para la determinación del impuesto predial, cuando se trate de jubilados, pensionados, discapacitados o senescentes, se deducirá de la base gravable la cantidad que configure el 50% de ésta, cuando ante la autoridad fiscal se acredite debidamente que el predio:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a. Es la única propiedad raíz de un jubilado, pensionado, discapacitado o senescente;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Previo a la aplicación de la tarifa señalada en este artículo para la determinación del impuesto predial, cuando se trate de jubilados, pensionados, discapacitados o adultos mayores, se deducirá de la base gravable la cantidad que configure el 75% de ésta, cuando ante la autoridad fiscal se acredite debidamente que el predio:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+a. Es la única propiedad raíz de un jubilado, pensionado, discapacitado o adulto mayor;
 
 b. Éste lo destina para habitarlo por sí; y
 
@@ -569,7 +577,11 @@ c. Su valor no exceda de 8,500 veces el salario mínimo general diario vigente e
 
 Este beneficio se aplicará sin menoscabo de lo previsto en el artículo 28 y en caso de fallecer el propietario se hará extensivo a quien herede el inmueble, siempre y cuando lo sea su cónyuge, concubino o concubina y/o sus hijos menores de edad.
 
-La calidad de jubilado o pensionado la tendrá quien se ubique dentro de los supuestos que previenen las leyes de seguridad social aplicables, y la de discapacitados o senescentes quienes se encuentren en los supuestos que establecen las fracciones I y II del artículo 2 de la Ley de Protección a Discapacitados y Senescentes para el Estado de Campeche. Los Ayuntamientos informarán al Instituto Catastral del Estado, sobre el beneficio otorgado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La calidad de jubilado o pensionado la tendrá quien se ubique dentro de los supuestos que previenen las leyes de seguridad social aplicables, y la de discapacitados o adultos mayores quienes se encuentren en los supuestos que establece la fracción XXV del artículo 2 de la Ley Integral para las Personas con Discapacidad del Estado de Campeche y la fracción I del artículo 2 de la Ley de Protección de Adultos Mayores para el Estado de Campeche, respectivamente. Los Ayuntamientos informarán al Instituto Catastral del Estado sobre el beneficio otorgado.
 
 #### SECCION QUINTA. DEL PAGO
 
@@ -2035,7 +2047,7 @@ Es objeto de este derecho la autorización de rotura de pavimento, adoquín, ban
 
 Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento de Construcciones para el Municipio.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON LOS ARTÓCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTÍCULO 116.
 
@@ -2385,7 +2397,7 @@ La enajenación de bienes muebles e inmuebles propiedad del Municipio deberán e
 
 Los H. Ayuntamientos podrán dar en arrendamiento sus bienes muebles e inmuebles, así como los bienes que administren, sujetándose para ello a las disposiciones de la Constitución Política del Estado de Campeche, la Ley de Bienes del Estado de Campeche y de sus Municipios, del Código Civil y de la Ley Orgánica de los Municipios del Estado de Campeche, quedando establecido que el pago de las rentas respectivas no libera al contribuyente de otras obligaciones de tipo fiscal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO TERCERO. POR USO DE ESTACIONAMIENTOS Y BAÑOS PUBLICOS
 
@@ -2631,7 +2643,7 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los tres días del mes de diciembre de mil novecientos noventa y tres.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE DICIEMBRE DE 1994.
 
@@ -2752,3 +2764,9 @@ Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda 
 Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
 
 Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1 de enero del 2014 previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.-Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
