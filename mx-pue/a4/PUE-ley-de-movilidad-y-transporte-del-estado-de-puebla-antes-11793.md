@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2012-08-10"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA -- ANTES LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA --
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE FEBRERO DE 2014, EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -34,6 +36,8 @@ MANUEL BARTLETT DIAZ, Gobernador Constitucional del Estado Libre y Soberano de P
 Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGESIMO TERCER CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+
+CONSIDERANDO
 
 CONSIDERANDO
 
@@ -219,15 +223,27 @@ LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
 La presente Ley es de interés social y de orden público, de observancia general en el Estado de Puebla y tiene por objeto regular todo lo relacionado con el Servicio Público de Transporte y el Servicio Mercantil y sus Servicios Auxiliares.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 2.
 
-La autoridad competente para la interpretación y observación de la presente Ley, sus Reglamentos, y demás disposiciones en la materia, es la Secretaría de Transportes del Estado de Puebla, la cual en todo caso, deberá aplicar como criterio fundamental, lo que sea más conveniente para el servicio público y sus usuarios, promoviendo la participación social en la planeación, operación y supervisión del transporte.
+La autoridad competente para la interpretación y observación de la presente Ley, sus Reglamentos, y demás disposiciones en la materia, es la Secretaría de Transportes del Estado de Puebla, la cual en todo caso, deberá aplicar como criterio fundamental, lo que sea más conveniente para el servicio público y sus usuarios, promoviendo la participación social en la planeación, operación y revisión administrativa del transporte.
+
+La Secretaría de la Contraloría del Estado, será competente para interpretar, ejercer, observar y aplicar las atribuciones y obligaciones previstas en el artículo 10 y demás disposiciones de la presente Ley y sus Reglamentos, relativas en materia de supervisión, vigilancia y revisión.
+
+Cuando en la presente Ley se refiera a la Secretaría se entenderá a la Secretaría de Transportes del Estado de Puebla, y cuando se refiera a la Contraloría se entenderá a la Secretaría de la Contraloría.
+
+La Secretaría y la Contraloría, para el cumplimiento de esta Ley y sus Reglamentos, podrán celebrar, de manera conjunta o separadamente, convenios de coordinación y colaboración, contratos y demás instrumentos jurídicos con Dependencias y Entidades de las Administraciones Públicas Federal, Estatales y Municipales, así como con instituciones del sector público, privado y social.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 3.
 
-La Secretaría tiene jurisdicción sobre todo el territorio del Estado, ejerciendo las atribuciones que le confiere la presente Ley, sus Reglamentos y demás disposiciones legales, con respecto al Servicio Público de Transporte y al Servicio Mercantil, sus Servicios Auxiliares y la infraestructura vial.
+La Secretaría y la Contraloría, en términos de esta Ley, tienen competencia sobre todo el territorio del Estado, ejerciendo las atribuciones que a cada una les confiere la presente Ley, sus Reglamentos y demás disposiciones legales, respecto de los actos de supervisión, vigilancia y demás que incidan en el Servicio Público de Transporte, en el Servicio Mercantil, así como en sus Servicios Auxiliares y la infraestructura vial.
 
 ### CAPITULO II. AUTORIDADES DEL TRANSPORTE
 
@@ -237,23 +253,37 @@ Son autoridades en materia del transporte:
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-II.- El Secretario de Transportes del Estado;
+II.- De la Secretaría de Transportes del Estado:
 
-III.- El Subsecretario de Transportes.
+a) El Secretario de Transportes;
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+b) El Subsecretario de Transportes;
 
-IV.- El Director de Administración de Concesiones y Permisos;
+c) El Subsecretario de Planeación y Desarrollo;
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+d) El Coordinador General de Asuntos Jurídicos;
 
-V.- El Director de Operación del Transporte; y
+e) El Director de Administración de Concesiones y Permisos;
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+f) El Director de Operación del Transporte; y
 
-VI.- El Director de Licencias y Capacitación.
+g) El Director de Licencias y Capacitación.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III.- De la Secretaría de la Contraloría del Estado:
+
+a) El Secretario de la Contraloría; y
+
+b) El Titular del Órgano de Supervisión de la Secretaría de la Contraloría.
+
+IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
+
+V.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
+
+VI.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
 
 ### CAPITULO III. LAS ATRIBUCIONES DE LAS AUTORIDADES DEL TRANSPORTE
 
@@ -291,25 +321,59 @@ V.- Autorizar previa consulta con los Ayuntamientos, los itinerarios, recorridos
 
 VI.- Ordenar que se realicen periódicamente revistas a los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, a efecto de que aquéllos que estén en mal estado o no hayan cumplido con las especificaciones que al efecto emita la Secretaría para la revista, sean retirados de la circulación para su reparación o cambio correspondiente;
 
-VII.- Dictar las medidas necesarias para poner a disposición de las autoridades competentes, a los conductores o a los vehículos del Servicio Público de Transporte y del Servicio Mercantil, cuando de los hechos inspeccionados se deduzca una probable responsabilidad;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+VII.- Dictar y ejecutar, cuando lo estime conveniente, las políticas y programas para llevar a cabo la revisión, depuración y actualización de los registros y demás sistemas establecidos en la Secretaría;
 
-VIII.- Coordinarse con las diferentes áreas de la Secretaría y otras dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipales, así como de otras entidades federativas, a efecto de determinar las posibles necesidades y soluciones del Servicio de Transporte y sus Servicios Auxiliares en el Estado.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Para efectos de lo señalado en el párrafo anterior, la Secretaría podrá celebrar convenios de colaboración con los Municipios del Estado, con el objeto de mejorar y coadyuvar en la ejecución de las políticas y programas relativos a transportes en la Entidad.
+VIII.- Suscribir instrumentos jurídicos que tengan por objeto impulsar la planeación, programación, presupuestación, ejecución, administración, implementación y operación de los programas del Servicio de Transporte, así como de sus Servicios Auxiliares a que se refiere esta Ley;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-IX.- Instrumentar en beneficio de los usuarios la utilización de elementos aportados por la ciencia y tecnología, para la implementación de nuevos sistemas en el manejo operativo, incluyendo sistemas de cobro en las distintas modalidades del transporte; para la determinación de infracciones y aplicación de sanciones, así como para mejorar las condiciones de accesibilidad para las personas con discapacidad;
+IX.- Instrumentar y autorizar en beneficio de los usuarios la utilización de elementos aportados por la ciencia y tecnología, para la implementación de nuevos sistemas en el manejo operativo, incluyendo sistemas de cobro en las distintas modalidades del transporte; para la determinación de infracciones en el ámbito de su competencia, así como para mejorar las condiciones de accesibilidad para las personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
 X.- Autorizar el uso de los carriles confinados de los corredores del sistema de Transporte Público Masivo, así como diseñar y regular los mecanismos y elementos de confinamiento; y
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XI.- Las demás que le otorgue la presente Ley, sus Reglamentos y demás disposiciones administrativas.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XI.- Coordinarse con la Contraloría en las acciones necesarias que se requieran para el cumplimiento de la presente Ley, y en su caso, recibir la información que ésta le proporcione para la imposición de las sanciones previstas en las fracciones I, II, III y IV del artículo 131; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XII.- Las demás que le otorgue la presente Ley, sus Reglamentos y demás disposiciones administrativas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 6 Bis.
+
+El Secretario de la Contraloría, tendrá las siguientes atribuciones:
+
+I.- Cumplir y hacer cumplir la presente Ley en el ámbito de su competencia;
+
+II.- Dictar las medidas necesarias para poner a disposición de las autoridades competentes, a los conductores o a los vehículos del Servicio Público de Transporte y del Servicio Mercantil, cuando de los hechos inspeccionados se deduzca una probable responsabilidad;
+
+III.- Instrumentar en beneficio de los usuarios la utilización de elementos aportados por la ciencia y tecnología, para la implementación de nuevos sistemas para la determinación de infracciones y aplicación de sanciones;
+
+IV.- Vigilar el cumplimiento de las tarifas, itinerarios, recorridos, horarios y frecuencias de paso estipuladas para la prestación del Servicio Público de Transporte y del Servicio Mercantil, según corresponda;
+
+V.- Coordinarse con la Secretaría en las acciones necesarias que se requieran para el cumplimiento de la presente Ley;
+
+VI.- Acceder para el correcto ejercicio de las atribuciones que le otorga la presente Ley, a los registros de datos computarizados que integre la Secretaría, respecto de las concesiones, permisos y licencias, previa coordinación con la Dependencia competente, así como a los expedientes;
+
+VII.- Emitir los lineamientos, políticas, acuerdos, circulares y en general las medidas que se requieran para el cumplimiento de las atribuciones de supervisión, vigilancia y revisión que le otorga la presente Ley; y
+
+VIII.- Las demás que le otorgue la presente Ley, sus reglamentos y demás disposiciones administrativas.
+
+Las atribuciones contenidas en este artículo, se podrán ejercer por los servidores públicos adscritos a la unidad u órgano, de la Secretaría de la Contraloría en los términos que se establezcan en los acuerdos y demás ordenamientos legales respectivos.
 
 ###### ARTICULO 7.
 
@@ -319,39 +383,63 @@ I.- Cumplir y hacer cumplir la presente Ley y sus Reglamentos;
 
 II.- Vigilar que se cumplan las bases para el mejoramiento, ampliación y modernización del Servicio Público de Transporte en el Estado y del Servicio Mercantil del Estado;
 
-III.- Vigilar el cumplimiento de las tarifas, itinerarios, recorridos, horarios y frecuencias de paso estipuladas para la prestación del Servicio Público de Transporte y del Servicio Mercantil según corresponda;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III.- Recibir de la Contraloría los resultados derivados de la vigilancia en el cumplimiento de las tarifas, itinerarios, recorridos, horarios y frecuencias de paso estipuladas para la prestación del Servicio Público de Transporte y del Servicio Mercantil, según corresponda;
 
 IV.- Proponer al Secretario, para su autorización las normas técnicas, operativas y administrativas para regular la prestación del Servicio de Transporte y sus Servicios Auxiliares en el Estado, y
 
 V.- Las demás que le otorgue la presente Ley y sus Reglamentos.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 8.
 
-La Secretaría, contará con Supervisores para vigilar, controlar y ejecutar las disposiciones de la presente Ley y sus Reglamentos; así como, podrá convenir con otras dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, la coparticipación en dichas funciones.
+La Contraloría, contará con Supervisores para vigilar, controlar y ejecutar las disposiciones de la presente Ley y sus Reglamentos; asimismo, podrá convenir con otras Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal, la coparticipación en dichas funciones.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 9.
 
-Para los efectos de esta Ley y sus Reglamentos, se entiende por Supervisores, a los servidores públicos adscritos a la Secretaría de Transportes del Estado de Puebla y a los designados en los términos de los convenios a que hace referencia el artículo anterior y que tengan a su cargo las atribuciones señaladas en el artículo 10 de esta Ley.
+Para los efectos de esta Ley y sus Reglamentos, se entiende por Supervisores, a los servidores públicos adscritos a la Contraloría y a los designados en los términos de los convenios a que hace referencia el artículo anterior y que tengan a su cargo las atribuciones señaladas en el artículo 10 de esta Ley.
 
-Los servidores públicos a que se refiere este artículo deberán ser rotados con la frecuencia y necesidades que la Secretaría requiera, y deberán aprobar cualquier prueba, estudio o examen de control y confianza que sea necesario para el adecuado ejercicio de sus atribuciones.
+Los servidores públicos a que se refiere este artículo, deberán ser rotados con la frecuencia y necesidades que la Contraloría requiera, y deberán aprobar cualquier prueba, estudio o examen de control y confianza que sea necesario para el adecuado ejercicio de sus atribuciones, debiendo además presentar declaración patrimonial a que se refiere al (sic) Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 10.
 
-Los supervisores de la Secretaría tendrán las siguientes atribuciones y obligaciones:
+Los Supervisores de la Contraloría, tendrán las siguientes atribuciones y obligaciones:
 
 I.- La vigilancia y revisión de los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, que circulen en la infraestructura vial y sus Servicios Auxiliares;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+La supervisión, vigilancia y revisión de los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, que circulen en la infraestructura vial; así como de los Servicios Auxiliares;
+
 II.- Revisar la documentación necesaria que deben portar los operadores de las unidades, para la prestación del Servicio Público de Transporte y del Servicio Mercantil;
 
-III.- Practicar inspecciones y revistas a los vehículos del Servicio Público de Transporte y el Servicio Mercantil;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV.- Ejecutar las disposiciones que sobre la materia emitan las autoridades del transporte del Estado, y (sic)
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+III.- Practicar inspecciones a los vehículos del Servicio Público de Transporte y el Servicio Mercantil;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IV.- Ejecutar las disposiciones que emitan las autoridades del transporte del Estado, que incidan en el ámbito de su competencia;
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
 
@@ -369,21 +457,29 @@ VII.- Hacer del conocimiento de la autoridad competente hechos o conductas, que 
 
 VIII.- Vigilar y supervisar el cumplimiento de las disposiciones relativas a los itinerarios, bases y sitios autorizados;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IX.- Someterse a las pruebas, estudios o exámenes de control y confianza que establezca la Secretaría; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+IX.- Someterse a las pruebas, estudios o exámenes de control y confianza que establezca la Contraloría; y
 
-X.- Las demás que les confieran la presente Ley y sus Reglamentos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+X.- Las demás que les confieran la presente Ley, sus Reglamentos y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ARTICULO 10 BIS.- La Secretaría, de conformidad con la legislación aplicable en la materia y en coordinación con las autoridades que sean competentes, procurará la plena inclusión e integración de las personas con discapacidad con relación a la prestación del servicio de transporte en cualquiera de sus modalidades.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría, para el ejercicio de sus atribuciones, podrá auxiliarse de las dependencias y organismos que estime pertinentes.
+La Secretaría y la Contraloría, para el ejercicio de sus atribuciones, podrán auxiliarse de las dependencias, órganos y organismos que estimen pertinentes.
 
 ## TITULO SEGUNDO. DE LA REGULACION GENERAL DEL SERVICIO PUBLICO DE TRANSPORTE Y DEL SERVICIO MERCANTIL
 
@@ -433,15 +529,15 @@ b).- Suburbano;
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-c) Foráneo;
+c).- Foráneo;
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-d) Transporte Mixto de Pasajeros y Bienes, y
+d).- Transporte Mixto de Pasajeros y Bienes, y
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-e) Sistema de Transporte Público Masivo.
+e).- Sistema de Transporte Público Masivo.
 
 II.- Servicio de Transporte Mercantil de Personas:
 
@@ -453,15 +549,15 @@ c).- Transporte de Personal;
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-d) Transporte de Turismo;
+d).- Transporte de Turismo;
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-e) Transporte de Servicio Extraordinario; y
+e).- Transporte de Servicio Extraordinario; y
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-f) Taxis locales.
+f).- Taxis locales.
 
 III.- Servicio de Transporte Mercantil de Carga:
 
@@ -475,15 +571,19 @@ d).- Mensajería y Paquetería;
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-e) Carga especializada de materiales y desechos peligrosos;
+e).- Carga especializada de materiales y desechos peligrosos;
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-f) Todo tipo de mercancías que excedan de 500 kilogramos de carga útil; y
+f).- Todo tipo de mercancías que excedan de 500 kilogramos de carga útil; y
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-g) Grúas de arrastre y salvamento.
+g).- Grúas de arrastre y salvamento.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IV.- Servicio de Transporte Complementario.
 
 ###### ARTICULO 18.
 
@@ -513,9 +613,11 @@ ARTICULO 22 BIS.- El Sistema de Transporte Público Masivo, es aquel que se pres
 
 El Sistema de Transporte Público Masivo constituye un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 22 TER.- El recaudo y despacho comprenden unos de los componentes del Sistema de Transporte Público Masivo, por lo que su implementación y regulación quedará sujeta a las normas técnicas que fije el Secretario y demás disposiciones que resulten aplicables.
+###### ARTICULO 22 Ter.
+
+El recaudo y despacho comprenden unos de los componentes de la administración del Sistema de Transporte Público Masivo, por lo que su implementación y regulación quedará sujeta a las normas técnicas que fije el Secretario y demás disposiciones que resulten aplicables.
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
@@ -595,6 +697,14 @@ ARTICULO 34 BIS.- El servicio de transporte mercantil de arrastre y salvamento t
 
 ARTICULO 34 TER.- Para el adecuado funcionamiento de los distintos servicios de transporte, la Secretaría en el ámbito de su competencia, determinará las características, colores y especificaciones que deberán portar los vehículos que comprenden el servicio de transporte en cualquiera de sus modalidades.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 34 QUATER.- El Servicio de Transporte Complementario, es aquel servicio impulsado por el Gobierno del Estado, que tiene por objeto principalmente el traslado terrestre de pasajeros con fines turísticos, culturales o de esparcimiento y que por sus características propias no recae en ninguna de las figuras o conceptos previstos en las fracciones I, II y III del artículo 17 de esta Ley.
+
+La Secretaría de Transportes determinará, mediante acuerdo que para tal efecto se publique en el Periódico Oficial del Estado, las características, condiciones, especificaciones, obligaciones y demás que considere pertinentes, que deberán cumplir los sujetos que pretendan prestar este servicio.
+
+La prestación de este servicio estará sujeta a la autorización que para tal efecto emita la Secretaría, de conformidad con la normatividad aplicable.
+
 ###### ARTICULO 35.
 
 Los vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de cumplir con lo establecido en la presente Ley, cuando así lo requiera la autoridad competente, deberán acreditar la vigencia de la concesión o del permiso correspondiente.
@@ -643,17 +753,17 @@ Tratándose de los vehículos del servicio público de transporte urbano, deber�
 
 Los vehículos del Servicio Público de Transporte y del Servicio Mercantil emplacados en el Estado, deberán de estar protegidos por un seguro con vigencia anual que cubra daños a terceros y responsabilidad civil del pasajero. Los importes de las coberturas que cubran los citados seguros, serán los que señale el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 39.
 
-La emisión de las formas oficiales valoradas y los formatos relacionados con el Servicio Público del Transporte y del Servicio Mercantil, corresponderá a la Secretaría, en coordinación con la Secretaría de Finanzas.
+La emisión de las formas oficiales valoradas y los formatos relacionados con el Servicio Público del Transporte y del Servicio Mercantil, corresponderá a la Secretaría, en coordinación con la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 40.
 
-Las placas, tarjeta de circulación, calcomanía de identificación vehicular, tarjetón de concesión o permiso y demás documentos que requieran los vehículos del Servicio Público de Transporte y del Servicio de Transporte Mercantil, registrados en el Estado, serán expedidos mancomunadamente por la Secretaría de Transportes y la Secretaría de Finanzas.
+Las placas, tarjeta de circulación, calcomanía de identificación vehicular, tarjetón de concesión o permiso y demás documentos que requieran los vehículos del Servicio Público de Transporte y del Servicio de Transporte Mercantil, registrados en el Estado, serán expedidos mancomunadamente por la Secretaría de Transportes y la Secretaría de Finanzas y Administración.
 
 ## TITULO TERCERO. DE LAS LICENCIAS PARA CONDUCIR
 
@@ -753,11 +863,11 @@ Corresponde al Gobierno del Estado a través de la Secretaría, la prestación d
 
 Corresponde al Gobierno del Estado a través de la Secretaría, otorgar los permisos o autorizaciones para la prestación de los servicios a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 48.
 
-Concesión del Servicio Público de Transporte, es el acto jurídico por el cual el Secretario de Transportes del Estado, otorga alguna persona física o moral la autorización para la prestación del Servicio Público de Transporte y sus Servicios Auxiliares; estableciendo las condiciones y obligaciones a que deberán sujetarse, y condicionado su otorgamiento al cumplimiento de todos los requisitos establecidos en la presente Ley y sus Reglamentos, tomando en cuenta las características del servicio.
+Concesión del Servicio Público de Transporte, es el acto jurídico por el cual el Secretario de Transportes del Estado, otorga a alguna persona física o moral la autorización para la prestación del Servicio Público de Transporte, sus componentes, así como sus Servicios Auxiliares; estableciendo las condiciones y obligaciones a que deberán sujetarse, y condicionando su otorgamiento al cumplimiento de todos los requisitos establecidos en la presente Ley y sus Reglamentos, tomando en cuenta las características del servicio.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
@@ -917,7 +1027,9 @@ IV.- Declaración bajo protesta de decir verdad, manifestando si es titular de u
 
 V.- Precisar los puntos correspondientes a la ruta, el Municipio o los municipios que comprenda. Tratándose del Servicio Público de Transporte Urbano, señalar las calles del recorrido, así como los lugares donde se pretenda ubicar la base, terminal o sitio;
 
-VI.- Garantía que se otorga a favor de la Secretaría de Finanzas del Estado, en los términos que señale la Ley de Ingresos del Estado vigente, para asegurar la continuidad de los trámites correspondientes;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VI.- Garantía que se otorga a favor de la Secretaría de Finanzas y Administración del Estado, en los términos que señale la Ley de Ingresos del Estado vigente, para asegurar la continuidad de los trámites correspondientes;
 
 VII.- El seguro de viajero que se obliga a contratar, a fin de proteger a los usuarios y terceros sobre cualquier riesgo que puedan sufrir con motivo de la prestación del servicio; y
 
@@ -1041,7 +1153,9 @@ Las personas morales debidamente constituidas, que aspiren a prestar el Servicio
 
 Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el Servicio Público de Transporte, tendrán una vigencia de diez años; la autoridad o la comisión respectiva certificará cada tres años, la validez de las mismas.
 
-Lo previsto en el párrafo anterior, no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad en las rutas urbanas y transporte público masivo y doce años de antigüedad en las rutas suburbanas y foráneas, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas, en términos de la Ley de Ingresos del Estado vigente.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Lo previsto en el párrafo anterior, no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad en las rutas urbanas y transporte público masivo y doce años de antigüedad en las rutas suburbanas y foráneas, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, en términos de la Ley de Ingresos del Estado vigente.
 
 Las concesiones que se otorguen para prestar el Sistema de Transporte Público Masivo, tendrán una vigencia de hasta treinta años; quedarán sujetas a lo establecido en esta Ley y su Reglamento, así como a lo señalado en el Título de Concesión respectivo.
 
@@ -1135,11 +1249,11 @@ En caso de que la Secretaría determine que es procedente el otorgamiento de un 
 
 Lo señalado en el párrafo anterior aplicará para cualquier trámite administrativo relacionado a los permisos y que el interesado no promueva ante la Secretaría en el término citado.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 79.
 
-Los permisos o autorizaciones a que hace referencia la presente Ley, tendrán una vigencia hasta de un año con excepción de los permisos del Servicio de Transporte Mercantil de personas en su modalidad de alquiler o taxi y de los taxis locales, los cuales tendrán una vigencia de diez años. Lo anterior no libera a su titular de realizar los trámites procedentes a través del pago anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas, según lo señalado por la Ley de Ingresos del Estado vigente.
+Los permisos o autorizaciones a que hace referencia la presente Ley, tendrán una vigencia hasta de un año con excepción de los permisos del Servicio del Transporte Mercantil de personas en su modalidad de alquiler o taxi y de los taxis locales, los cuales tendrán una vigencia de diez años. Lo anterior no libera a su titular de realizar los trámites procedentes a través del pago anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, según lo señalado por la Ley de Ingresos del Estado vigente.
 
 Para el caso de los permisos del Servicio de Transporte Mercantil de personas en su modalidad de alquiler o taxi y taxis locales, deberán prestar el servicio con vehículos que no excedan de diez años de antigüedad.
 
@@ -1165,23 +1279,29 @@ Satisfechos los requisitos exigidos a que se refiere esta Ley y las leyes fiscal
 
 La Secretaría llevará, además, un registro de las sociedades que presten algún Servicio Público de Transporte o Servicio Mercantil o, en su caso, de los servicios auxiliares a que se refiere esta Ley y sus Reglamentos.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 84.
 
-Cuando con posterioridad al registro del vehículo del Servicio Público de Transporte o del Servicio de Transporte Mercantil, se pretenda realizar el cambio de unidad, o en su caso, modificar las características o los datos de la misma, deberá contarse previamente con la autorización de la Secretaría, así como realizar el pago correspondiente ante la Secretaría de Finanzas. Enseguida, se incluirán los cambios procedentes en el registro computarizado a que se refiere esta Ley. Por ningún motivo se podrá sustituir el vehículo correspondiente de una capacidad mayor a una menor, en concordancia con lo que establece el artículo 52 de la presente Ley.
+Cuando con posterioridad al registro del vehículo del Servicio Público de Transporte o del Servicio del Transporte Mercantil, se pretenda realizar el cambio de unidad, o en su caso, modificar las características o los datos de la misma, deberá contarse previamente con la autorización de la Secretaría, así como realizar el pago correspondiente ante la Secretaría de Finanzas y Administración. En seguida, se incluirán los cambios procedentes en el registro computarizado a que se refiere esta Ley. Por ningún motivo se podrá sustituir el vehículo correspondiente de una capacidad mayor a una menor, en concordancia con lo que establece el artículo 52 de la presente Ley.
 
 ### CAPITULO V. LAS OBLIGACIONES DE LOS CONCESIONARIOS Y PERMISIONARIOS
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 85.
 
-Los concesionarios y los permisionarios tendrán, en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación, adiestramiento o profesionalización necesarios para lograr que la prestación de los servicios a su cargo sean eficientes, seguros y con sujeción a las disposiciones de la presente Ley y su Reglamento.
+Los concesionarios y los permisionarios, tendrán en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación, adiestramiento o profesionalización necesarios para lograr que la prestación de los servicios a su cargo sean eficientes, seguros y con apego a las políticas de equidad de género y respeto a los derechos humanos, con su sujeción a las disposiciones de la presente Ley y su Reglamento, y demás disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 85 Bis.
+
+Los concesionarios y los permisionarios, tendrán en todo tiempo, la obligación de informar a la Secretaría y cuando lo requiera la Contraloría, el nombre y datos personales de los conductores o choferes con quienes tengan relación para la explotación del Servicio Público de Transporte y del Servicio Mercantil.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-ARTICULO 85 BIS.- Los concesionarios y los permisionarios, tendrán en todo tiempo, la obligación de informar a la Secretaría, el nombre y datos personales de los conductores o choferes con quienes tengan relación para la explotación del Servicio Público de Transporte y del Servicio Mercantil.
 
 Los conductores o choferes a que se refiere el párrafo anterior, no podrán conducir los vehículos destinados al Servicio Público de Transporte o al Servicio Público Mercantil, hasta en tanto en cuanto no se informe a la Secretaría. La información respectiva deberá actualizarse cada tres meses a la Secretaría y en cada caso concreto, cuando las circunstancias lo requieran. La inobservancia de esta disposición tendrá como consecuencia la revocación de la concesión o la cancelación del permiso.
 
@@ -1199,11 +1319,21 @@ Los concesionarios y los permisionarios del Servicio Público de Transporte y de
 
 La cuota que deberá cubrir el titular de la concesión o permiso por el análisis físico-mecánico de los vehículos, será la que señale la Ley de Ingresos del Estado para el ejercicio fiscal vigente.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 88.
 
-Los concesionarios y los permisionarios del Servicio Público del Transporte y del Servicio Mercantil y sus Servicios Auxiliares, están obligados a proporcionar, en todo tiempo, a los Supervisores, los datos, informes y documentos relativos a la prestación del servicio que les sean requeridos; así como, a permitir el acceso a las instalaciones de los Servicios Auxiliares, en términos de la orden escrita de supervisión emitida por la Secretaría.
+Los concesionarios y los permisionarios del Servicio Público de Transporte y del Servicio Mercantil y sus Servicios Auxiliares, están obligados a proporcionar, en todo tiempo a la Secretaría, los datos, informes y documentos relativos a la prestación del servicio que les sean requeridos; así como, a permitir el acceso a las instalaciones de los Servicios Auxiliares, en términos de la orden escrita que emita la Secretaría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 88 Bis.
+
+En el ejercicio de las funciones de la Contraloría, los concesionarios y los permisionarios del Servicio Público de Transporte y del Servicio Mercantil y sus Servicios Auxiliares, están obligados a proporcionar, en todo tiempo, a los Supervisores, los datos, informes y documentos relativos a la prestación del servicio que les sean requeridos; así como, a permitir el acceso a las instalaciones de los Servicios Auxiliares, en este último caso, en términos de la orden escrita de supervisión emitida por la Contraloría.
 
 ###### ARTICULO 89.
 
@@ -1249,25 +1379,85 @@ La Secretaría regulará los servicios auxiliares siguientes:
 
 I.- Las terminales de pasajeros;
 
-II.- Las terminales interiores de carga;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-III.- Las terminales de transferencias;
+II.- Los paraderos que conforman el Sistema de Transporte Público Masivo;
 
-IV.- Los sitios;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-V.- La base de servicio público;
+III.- Los Centros y/o Terminales de Transferencia del Sistema de Transporte Público Masivo;
 
-VI.- El arrastre, traslado y depósito de vehículos del Servicio Público de Transporte y el Servicio Mercantil, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+IV.- Los Centros y/o Terminales de Transferencia Multimodal del Sistema de Transporte Público Masivo;
 
-VII.- Los Centros de Capacitación, Adiestramiento o Profesionalización.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+V.- Los talleres de mantenimiento del Sistema de Transporte Público Masivo;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VI.- Los patios de encierro del Sistema de Transporte Público Masivo;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VII.- Las terminales interiores de carga;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VIII.- Las terminales de transferencia;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+IX.- Los sitios;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+X.- La base de servicio público;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XI.- El arrastre, traslado y depósito de vehículos del Servicio Público de Transporte y el Servicio Mercantil; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XII.- Los Centros de Capacitación, Adiestramiento o Profesionalización.
 
 ###### ARTICULO 95.
 
 Terminales de pasajeros son las instalaciones auxiliares del Servicio Público de Transporte y del Servicio Mercantil, en donde se efectúa la salida y llegada de vehículos para el ascenso y descenso de viajeros, así como los lugares predeterminados en los cuales los vehículos destinados al transporte de pasajeros tengan su concentración para la prestación del servicio.
 
 Tratándose del transporte de carga son terminales aquellos lugares en los que se efectúa la recepción, almacenamiento y despacho de mercancías, en las cuales se realiza el acceso, estacionamiento y salida de los vehículos destinados a este servicio.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 95 Bis.
+
+Los paraderos que conforman el Sistema de Transporte Público Masivo son aquellos espacios en los Corredores delimitados y señalizados, que fungen como zona de transferencia donde se permite efectuar el ascenso y descenso de pasajeros.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 95 Ter.
+
+Los Centros y/o Terminales de Transferencia del Sistema de Transporte Público Masivo son aquellas instalaciones que permiten transferencias entre los servicios de alimentación, auxiliares, otros corredores y el corredor troncal, confinado y/o preferencial.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 95 Quater.
+
+Los Centros y/o Terminales de Transferencia Multimodal del Sistema de Transporte Público Masivo son aquellas instalaciones que permiten transferencias entre los servicios de alimentación, auxiliares, otros corredores con el corredor troncal, confinado y/o preferencial con otros modos de transporte.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 95 Quinquies.
+
+Los talleres de mantenimiento del Sistema de Transporte Público Masivo son aquellas instalaciones en donde el concesionario de Transporte Público Masivo, por sí o a través de terceros, realizará el equipamiento necesario a fin de dar mantenimiento preventivo y correctivo a los autobuses objeto de su concesión.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 95 Sexies.
+
+Los patios de encierro del Sistema de Transporte Público Masivo son aquellas instalaciones que cumplen múltiples tareas del sistema, incluyendo el estacionamiento de la flota, retanqueo de los vehículos, lavado, servicio y reparación menor, servicios para los empleados y apoyo administrativo para los operadores.
 
 ###### ARTICULO 96.
 
@@ -1299,13 +1489,17 @@ Centros de Capacitación, Adiestramiento o Profesionalización son las Instituci
 
 Para el establecimiento de terminales de pasajeros de competencia federal en jurisdicción del Estado, la autoridad federal deberá previamente obtener la autorización correspondiente por parte de la Secretaría, cumpliendo con los requisitos que ésta última determine en función de las características que requiera dicha terminal, así como cumplir con los requisitos que establezcan las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 103.
 
-La Secretaría, por sí o a través de terceros autorizará el establecimiento de los servicios auxiliares señalados en las fracciones I, II, III, VI y VII del artículo 94. Respecto a la regulación de los sitios, la Secretaría otorgará las autorizaciones correspondientes a través de permisos y con relación a las bases del servicio público, éstas se establecerán en el itinerario correspondiente a las concesiones.
+La Secretaría, podrá concesionar los Servicios Auxiliares señalados en las fracciones I, II, III, IV, V, VI, VII, VIII, XI y XII del artículo 94, de conformidad con la presente Ley.
 
-En lo relativo a los Centros de Capacitación, Adiestramiento o Profesionalización la Secretaría expedirá la autorización correspondiente, tanto a las instituciones públicas o privadas, para el reconocimiento como Centro de Capacitación, Adiestramiento o Profesionalización, lo anterior sin menoscabo de cumplir con los requisitos que establezcan las autoridades competentes.
+Las concesiones que se otorguen para los Servicios Auxiliares deberán sujetarse a los procedimientos establecidos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal o demás disposiciones legales aplicables.
+
+Respecto a la regulación de los sitios, la Secretaría otorgará las autorizaciones correspondientes a través de permisos y con relación a las bases del servicio público, éstas se establecerán en el itinerario correspondiente a las concesiones.
+
+En lo relativo a los Centros de Capacitación, Adiestramiento o Profesionalización, la Secretaría expedirá la autorización correspondiente, tanto a las instituciones públicas o privadas, para el reconocimiento como Centro de Capacitación, Adiestramiento o Profesionalización, lo anterior sin menoscabo de cumplir con los requisitos que establezcan las autoridades competentes.
 
 ###### ARTICULO 104.
 
@@ -1499,27 +1693,45 @@ Las resoluciones dictadas en aplicación de esta Ley y sus Reglamentos, pueden s
 
 ###### ARTICULO 131.
 
-A quien infrinja las disposiciones contenidas en esta Ley y sus Reglamentos, se le impondrán cualquiera de las siguientes sanciones:
+A quien infrinja las disposiciones contenidas en esta Ley y sus Reglamentos, la Secretaría le impondrá cualquiera de las siguientes sanciones:
 
-I.- Multa;
+I.- Multa, cuando se trate de infracciones impuestas por revisiones administrativas, de conformidad con el tabulador autorizado;
 
-II.- Retiro y aseguramiento de vehículo;
+II.- Suspensión o cancelación de licencia;
 
-III.- Suspensión o cancelación de licencia;
+III.- Revocación o suspensión de concesión; y
 
-IV.- Revocación o suspensión de concesión, y
+IV.- Cancelación o suspensión del permiso.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V.- Cancelación o suspensión del permiso.
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 131 Bis.
+
+A quien infrinja las disposiciones contenidas en esta Ley y sus Reglamentos, tratándose de acciones de supervisión y vigilancia, la Contraloría le impondrá cualquiera de las siguientes sanciones:
+
+I.- Multa, de conformidad con el tabulador autorizado;
+
+II.- Retiro y aseguramiento de vehículo; y
+
+III.- Retención de licencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 132.
 
-La Secretaría por violaciones a la presente Ley y sus Reglamentos impondrá las sanciones de conformidad con el tabulador autorizado.
+La Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, por violaciones a la presente Ley y sus Reglamentos, impondrán las sanciones de conformidad con el tabulador autorizado que para tal efecto emitan de manera conjunta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 133.
 
-La Secretaría, podrá impedir en todo momento la circulación de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, que no reúnan los requisitos previstos por esta Ley y sus Reglamentos o que representen un grave riesgo para la seguridad de los usuarios, de los peatones y de los vehículos en general.
+La Secretaría y la Contraloría, en el ámbito de su competencia, podrán impedir en todo momento la circulación de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, que no reúnan los requisitos previstos por esta Ley y sus Reglamentos o que representen un riesgo para la seguridad de los usuarios, de los peatones y de los vehículos en general.
 
 ###### ARTICULO 134.
 
@@ -1537,11 +1749,11 @@ Para el caso de que un vehículo no autorizado, utilice colores, número económ
 
 Cuando un conductor del Servicio Público de Transporte y del Servicio Mercantil, acumule seis infracciones de cualquier naturaleza, en el período de un año, contado a partir de la primera, será considerado reincidente, y podrá ser privado temporal o definitivamente de la licencia de conducir y del tarjetón de identificación del conductor, en términos de lo dispuesto por la presente Ley y sus Reglamentos.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 138.
 
-El pago de las multas impuestas por concepto de infracciones a los ordenamientos relativos al transporte público, se efectuará ante las oficinas recaudadoras o las que autorice para tal efecto la Secretaría de Finanzas.
+El pago de las multas impuestas por concepto de infracciones a los ordenamientos relativos al transporte público, se efectuará ante las oficinas recaudadoras o las que autorice para tal efecto la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 139.
 
@@ -1551,11 +1763,19 @@ Para la expedición o reposición de las licencias para conducir, los solicitant
 
 Las violaciones a la Ley y a sus Reglamentos se sancionarán de acuerdo con el tabulador de infracciones, de conformidad con la legislación aplicable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 ### CAPITULO II. SANCIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 141.
 
-Para garantizar el pago de las multas impuestas a los infractores, la Secretaría se estará a lo establecido por los Reglamentos de esta Ley.
+Para garantizar el pago de las multas impuestas a los infractores, se estará a lo establecido por los Reglamentos de esta Ley.
 
 ###### ARTICULO 142.
 
@@ -1714,3 +1934,33 @@ CUARTO.- Los títulos, documentos y demás actos jurídicos relacionados con la 
 QUINTO.- Los permisos que en materia de publicidad, se hubieren otorgado de conformidad con el artículo 92 Ter antes de la entrada en vigor del presente Decreto, estarán vigentes hasta su conclusión.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días naturales de su publicación en el Periódico Oficial del Estado, a excepción de lo previsto en el artículo siguiente,
+
+###### ARTÍCULO SEGUNDO.
+
+Las modificaciones a los artículos 4, a las fracciones VII, VIII y IX del 6, a la fracción IV del 17, el 22 Ter, el 34 Quater, el 39, el 40, el 48, a la fracción VI del 61, el 70, el 79, el 84, el 85, el 94, el 95 Bis, el 95 Ter, el 95 Quater, el 95 Quinquies, el 95 Sexies, el 103 y el 138 de la Ley del Transporte para el Estado de Puebla; así como la fracción X del 42 de la Ley Orgánica de la Administración Pública del Estado de Puebla, entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Transportes, transferirá los expedientes, recursos humanos, materiales y financieros que correspondan a las funciones que se otorgan a la Secretaría de la Contraloría, a la entrada de la vigencia del presente Decreto y a que se refiere el artículo Primero Transitorio.
+
+###### ARTÍCULO CUARTO.
+
+Las Secretarías de Finanzas y Administración, y de la Contraloría, supervisarán la transmisión de los recursos a que se refiere el artículo anterior.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto a que se refiere el artículo Primero Transitorio, y que se relacionan con las facultades dadas a la Secretaría de la Contraloría, se substanciarán por la Secretaría de Transportes en el ámbito de su competencia, hasta su total solución.
+
+###### ARTÍCULO SEXTO.
+
+Los Reglamentos que norman las actividades otorgadas a la Secretaría de la Contraloría e interiores de las Dependencias referidas en el presente Decreto, deberán modificarse en un término de noventa días contados a partir de la entrada en vigor del presente Decreto, mientras tanto se aplicarán en lo conducente los vigentes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
