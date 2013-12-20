@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2013-12-09"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010, 5 DE MAYO DE 2011 Y 20 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CÓDIGO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -153,7 +153,7 @@ Durante estos períodos, el Ministerio Público, en su caso, aportará las prueb
 
 SUJETOS PASIVOS.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 ###### Art. 3° Bis.
 
@@ -263,7 +263,7 @@ En los casos del artículo anterior, se procederá a levantar el acta correspond
 
 Cuando para mayor claridad y comprobación de los hechos fuere conveniente levantar el plano del lugar en que aquéllos se realizaron y tomar fotografías tanto de ese lugar como de las personas que hubieren sido víctimas del delito, se practicarán estas operaciones, y se hará la copia o diseño de los efectos o instrumentos del mismo, aprovechando para ello todos los recursos que ofrezcan las partes. El plano, fotografías, copia o diseño, se unirá al acta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Art. 17.
 
@@ -273,7 +273,7 @@ Los instrumentos y las cosas inventariadas conforme a este artículo, deberán g
 
 Siempre que sea necesario tener a la vista durante el procedimiento judicial, alguna de las cosas a que se refiere este artículo se comenzará la diligencia haciendo constar si se encuentra en el mismo estado en que estaba al ser asegurada. Si se considera que ha sufrido alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Art. 17 Bis.
 
@@ -285,11 +285,11 @@ En caso de no encontrarse al titular del bien asegurado para la notificación a 
 
 En la notificación deberá apercibirse al interesado o a su representante legal, que de no manifestar lo que a su derecho convenga, en un término de noventa días naturales siguientes a que surta efectos la notificación, los bienes se destinarán al fondo para la procuración de justicia mediante acuerdo del Procurador General de Justicia o del servidor público en quien delegue dicha facultad, el cual será administrado y operado por la Procuraduría General de Justicia del Estado con el objeto de que se pueda disponer de dichos bienes en base a la normatividad que al efecto emita el Titular de dicha Institución, así como a las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ###### Art. 18.
 
-En los casos de los artículos 16 y 17 del presente Código, el Ministerio Publico ordenará que se haga un reconocimiento por peritos, de los lugares, armas, instrumentos u objetos a que dichos artículos se refieren, siempre que esté indicado para apreciar mejor su relación con el delito que se persigue.
+En los casos de los artículos 16 y 17 del presente Código, el Ministerio Público ordenará que se haga un reconocimiento por peritos, de los lugares, armas, instrumentos u objetos a que dichos artículos se refieren, siempre que esté indicado para apreciar mejor su relación con el delito que se persigue.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -365,7 +365,7 @@ El Ministerio Público y la Policía Ministerial a su mando están obligados a d
 
 Se entiende que existe delito flagrante cuando la persona es detenida en el momento de estarlo cometiendo, o bien cuando el inculpado es perseguido material e inmediatamente después de ejecutado el delito.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 En esos casos el Ministerio Público iniciará desde luego la averiguación previa y bajo su responsabilidad, según proceda, decretará la retención del indiciado si están satisfechos los requisitos de procedibilidad y el delito merezca pena privativa de libertad, o bien, ordenará la libertad del detenido, cuando la sanción sea no privativa de libertad, o bien, alternativa.
 
@@ -441,7 +441,7 @@ ABIGEATO, previsto en el artículo 370 en relación con los artículos 372 y 373
 
 DESPOJO, previsto en el artículo 384 en relación con el artículo 386.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 EXTORSION, previsto en el artículo 383 BIS en relación con las fracciones II, III y IV;
 
@@ -469,7 +469,7 @@ SUSTRACCIÓN DE MENORES O INCAPACES, cuando sea cometido por un tercero a instru
 
 EL FEMINICIDIO, previsto en el artículo 411 y sancionado en el artículo 412.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 ABUSO SEXUAL INFANTIL, previsto en la última parte del artículo 241 del Código Penal del Estado Libre y Soberano de Oaxaca.
 
@@ -3373,11 +3373,11 @@ III.- Si con anterioridad conocía a la persona o la conoció en el momento de e
 
 IV.- Si entre las personas presentes se encuentra la que designó en su declaración.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 Contestada afirmativamente la última pregunta, para lo cual se le permitirá reconocer detenidamente a las personas que forman el grupo, se le prevendrá para que señale a la persona que reconoce como autor de la conducta delictiva, manifestando las diferencias o semejanzas que advierta entre el estado actual y el que tenía en la época a que su declaración se refiere.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 En el desahogo de la presente diligencia, el Ministerio Público podrá utilizar los medios que considere necesarios para la protección física y psicológica de la víctima.
 
@@ -4556,6 +4556,12 @@ P.O. 20 DE FEBRERO DE 2013.
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 9 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+P.O. 20 DE DICIEMBRE DE 2013.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
