@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2012-12-07"
+last_updated: "2013-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -1735,9 +1735,13 @@ III.- La cantidad que a título de alimentos un cónyuge debe pagar al otro dura
 
 IV.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriada la disolución, así como la designación de liquidadores. A ese efecto, se acompañará un inventario y avalúo de todos los bienes de la sociedad;
 
-> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-V.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento.
+V.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+VI.- El compromiso expreso de los cónyuges de no realizar actos de manipulación sobre los menores tendientes a provocar rechazo, rencor o distanciamiento hacia el otro cónyuge o los familiares de éste.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
 
@@ -1751,11 +1755,15 @@ En el convenio de divorcio por mutuo consentimiento, deberá estipularse la pote
 
 El divorcio por mutuo consentimiento, no puede pedirse sino pasado un año de celebrado el matrimonio.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Art. 285.
 
-Mientras que se decrete el divorcio por mutuo consentimiento, el Juez podrá autorizar la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
+Mientras que se decrete el divorcio por mutuo consentimiento, el juez podrá autorizar la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos, así como para garantizar el desarrollo físico y emocional de los menores y los bienes del consorte.
+
+Asimismo, los cónyuges deben evitar cualquier acto de manipulación encaminado a producir en los hijos rencor o distanciamiento hacia el otro cónyuge. La presencia de todo acto de este tipo será valorado por el Juez, con auxilio de los representantes del Ministerio Público y de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, y considerado por aquél en su resolución. Una vez decretado el divorcio, la misma actitud deberá ser observada por los padres.
+
+Dentro de la convivencia, de manera recíproca, deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendientes encaminado a producir en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor o los familiares de éste. Cuando el Juez tenga conocimiento de este tipo de actos tomará las medidas necesarias de seguridad, seguimiento y, en su caso, ordenará las terapias psicológicas procedentes con el fin de salvaguardar la integridad física y emocional del menor.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
 
@@ -1857,9 +1865,9 @@ El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en 
 
 El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
 
-> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Al admitir la demanda de divorcio, el juez dictará de inmediato las medidas provisionales y ordenará, con apercibimiento de ley, la celebración de una junta de avenio, en la que exhortará, a los cónyuges a la reconciliación y les hará saber los efectos legales de la disolución del matrimonio y las consecuencias sociales de la desintegración de la familia.
+Al admitir la demanda de divorcio, el juez dictará de inmediato las medidas provisionales y ordenará, con apercibimiento de ley, la celebración de una junta de avenio en la que exhortará a los cónyuges a la reconciliación y les hará saber los efectos legales de la disolución del matrimonio y las consecuencias sociales de la desintegración de la familia. Además, deberá apercibir a los cónyuges para evitar cualquier acto de manipulación, encaminado a producir en un menor de edad rencor o rechazo hacia el otro progenitor y los familiares de éste.
 
 De no presentarse alguna de las partes, se aplicarán los medios de apremio, hasta lograr su comparecencia; excepto cuando se desconozca el domicilio del cónyuge demandado o cuando se haya invocado como causal de divorcio las previstas en las fracciones X y XXI del artículo 287 del presente ordenamiento.
 
@@ -1903,6 +1911,10 @@ a) Prohibir al cónyuge demandado ir a lugar determinado, tal como el domicilio 
 
 b) Prohibir que el cónyuge demandado se acerque a los agraviados a la distancia que considere pertinente.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+Cuando los hijos queden al cuidado de uno de los cónyuges, éste deberá evitar conductas que promuevan la separación, rechazo o falta de convivencia de los hijos con el cónyuge separado o los familiares de éste; el Juez vigilará el cumplimiento de lo anterior y, en su caso, podrá revocar de inmediato la custodia. Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.
+
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 299.
@@ -1924,6 +1936,10 @@ Para ese efecto, durante el curso del juicio, de oficio y con auxilio de los rep
 ###### Art. 301.
 
 El derecho de convivencia entre padres e hijos se protegerá y respetará en todo caso, salvo que tal convivencia ponga en peligro al menor. En consecuencia, el padre o la madre a quien no se haya confiado la custodia y cuidado del menor, tendrá derecho a visitarlo, a llevarlo de paseo y a vivir a su lado en períodos vacacionales, cuando todo lo anterior no ponga en peligro la integridad física o mental de dicho menor. El juez, en ejecución de sentencia, con audiencia de ambos padres y, en su caso, de la persona a quien se haya confiado la custodia y cuidado de los menores, de los propios menores, así como de los representantes del Ministerio Público y de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, procederá a determinar la forma, modo y tiempo en que esos derechos serán ejercidos. La vulneración o desacato de las determinaciones que el juez decrete sobre este particular, será sancionado con la pérdida de la custodia o con la cancelación del derecho de convivencia, según corresponda, y además, en los términos del artículo 158 del Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+El padre o la madre a quien se haya confiado la custodia y cuidado del menor, tendrá prohibido realizar conductas que promuevan la separación, rechazo o falta de convivencia con el otro cónyuge o los familiares de éste. Quien no tenga bajo sus cuidados y atenciones a los hijos, estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
 
 En su caso, el juez de lo familiar, en protección de los menores, dictará las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar.
 
@@ -3020,6 +3036,16 @@ Para los efectos del artículo anterior, los que ejerzan la patria potestad o te
 ###### Art. 438.
 
 El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquél derecho. En caso de irracional disenso, resolverá el juez.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Art. 438 Bis.
+
+Todo menor de edad tiene el derecho de mantener contacto y visita regular con sus progenitores, hermanos y demás familiares, excepto cuando, a reserva de revisión judicial, las autoridades competentes determinen, de conformidad con la ley y los procedimientos aplicables, que tal separación es necesaria en el interés superior del niño.
+
+Quien ejerza la patria potestad o la custodia, deberá procurar el respeto y el acercamiento constante de los menores con el otro progenitor, con sus hermanos y con sus demás familiares.
+
+Todo progenitor o familiar tiene la obligación de evitar y hacer del conocimiento de las autoridades administrativas y jurisdiccionales competentes, cualquier conducta que constituya maltrato o violencia intrafamiliar, proveniente del otro progenitor o de los familiares de éste.
 
 ### CAPITULO II.
 
@@ -9635,7 +9661,7 @@ No se considerará imposible el hecho de que no pueda ejecutarse por el obligado
 
 ###### Art. 1735.
 
-El objeto del contrato es ilícito, si consiste en cosa que esté fuera del convenio en virtud de alguna disposición legal o en hecho contrario a las leyes o a las buenas costumbres, ción legal, o en hecho contrario a las leyes o a las buenas costumbres. (sic)
+El objeto del contrato es ilícito, si consiste en cosa que esté fuera del convenio en virtud de alguna disposición legal o en hecho contrario a las leyes o a las buenas costumbres. ción legal, o en hecho contrario a las leyes o a las buenas costumbre. (sic)
 
 Forma.
 
@@ -10867,7 +10893,7 @@ Por regla general el pago debe hacerse en el domicilio del deudor, salvo que las
 
 Si se han designado varios lugares para hacer el pago, el acreedor puede elegir cualquiera de ellos.
 
-Si el pago consiste en la tradición de un inmueble o en prestaciones relativas al inmueble, deberá hacerse en el lugar donde éste se encuentre.
+Si el pago consiste en la tradición de un inmueble o en prestaciones relativas al inmueble, deberá hacerse en el lugar donde este se encuentre.
 
 ###### Art. 1976.
 
@@ -12033,7 +12059,7 @@ De las personas que pueden recibir donaciones.
 
 ###### Art. 2215.
 
-El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
+El contrato de compra venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
 ###### Art. 2216.
 
@@ -16192,6 +16218,12 @@ P.O. 7 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+Primero.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
