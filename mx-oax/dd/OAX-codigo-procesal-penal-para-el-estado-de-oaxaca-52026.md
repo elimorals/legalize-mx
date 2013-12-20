@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2013-12-09"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR SUCESIVAMENTE EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -1873,9 +1873,9 @@ VII. Sedición, previsto en el artículo 148 y sancionado en los artículos 149 
 
 VIII. Delitos cometidos en perjuicio de personas menores de edad y de quienes no tienen la capacidad para comprender el significado del hecho, previstos y sancionados en los artículos 194 fracciones I y II; 195 fracciones I, II, III y IV; 196 y 197 I, II y III;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 
-IX. Abuso sexual agravado, previsto y sancionado en el artículo 241, cuando concurran las circunstancias señaladas en sus fracciones I y II, así como el Abuso Sexual Infantil previsto en la última parte del artículo 241.
+IX. Abuso sexual agravado, previsto y sancionado en el artículo 241, cuando concurran las circunstancias señaladas en sus fracciones I y II, así como el Abuso Sexual Infantil previsto en la última parte del artículo 241;
 
 X. Delito de trata de personas, previstos (sic) en los artículos 348 BIS F y sancionado en el artículo 348 BIS H; y (sic)
 
@@ -1889,7 +1889,7 @@ XII. Violencia intrafamiliar, previsto en el artículo 404, y tipificado por el 
 
 XIII. El feminicidio, previsto en el artículo 411 y sancionado en el artículo 412.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 Así como el delito de tortura, previsto en el artículo 1 y sancionado en los artículos 2, 3 y 4 de la Ley Estatal para Prevenir y Sancionar la Tortura, y los delitos contra la salud en su modalidad de narcomenudeo, previstos en los artículos 475 y 476 de la Ley General de Salud.
 
@@ -2163,7 +2163,7 @@ La información que se genere en los procedimientos respectivos no podrá ser ut
 
 El juzgador no aprobará la conciliación cuando tenga fundados motivos para estimar que alguno de los intervinientes no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 No obstante lo dispuesto anteriormente, en los delitos de carácter sexual cometidos en perjuicio de menores de edad, el juzgador no deberá procurar la conciliación entre las partes ni convocar a una audiencia con ese propósito.
 
@@ -5452,6 +5452,12 @@ P.O. 20 DE FEBRERO DE 2013.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 9 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+P.O. 20 DE DICIEMBRE DE 2013.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
