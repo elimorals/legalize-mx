@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2013-04-24"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -1669,6 +1669,14 @@ El titular del Registro Público de los Organismos Descentralizados podrá exped
 
 La cancelación de las inscripciones en el Registro Público de los Organismos Descentralizados procederá en el caso de su extinción y una vez que se haya concluido su liquidación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 88 Bis.
+
+Los ingresos que se recauden por los diversos conceptos que establece la Ley de Ingresos y los de naturaleza distinta que obtengan los Organismos Auxiliares, se concentrarán forzosamente en la Tesorería General del Estado y deberán reflejarse en la contabilidad gubernamental.
+
 ### CAPÍTULO QUINTO
 
 DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA.
@@ -1832,3 +1840,13 @@ PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente al de su p
 SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas, de igual o menor rango jerárquico normativo, que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto por el que se expide la Ley de Ingresos del Gobierno del Estado de Morelos, correspondiente al Ejercicio Fiscal del primero de enero al treinta y uno de diciembre de 2014 y se adiciona un artículo 88 Bis, a la Ley Orgánica de la Administración Pública del Estado de Morelos, entrará en vigor a partir del primero de enero del año dos mil catorce.
+
+TERCERA.- Con la finalidad de homologar los sistemas automatizados de recaudación, así como el proceso de depósito de recursos en el sistema bancario nacional, respecto del esquema aplicado en la determinación de los impuestos y derechos cuyo importe sea o comprenda fracciones en pesos, se autoriza que en el caso de productos y aprovechamientos se aplique un ajuste de los montos a la unidad más próxima; por lo que, tratándose de cantidades terminadas hasta cincuenta centavos, el ajuste se hará a la unidad inmediata inferior y tratándose de cantidades terminadas por arriba de los cincuenta centavos, el ajuste se hará a la unidad inmediata superior.
+
+CUARTA.- Se derogan todas las disposiciones que concedan subsidios o exenciones y se hayan publicado con anterioridad al inicio de vigencia de la presente Ley, con excepción de las previstas en la Ley General de Hacienda del Estado de Morelos y de los subsidios fiscales que se encuentren vigentes en materia del Impuesto sobre Nóminas.
