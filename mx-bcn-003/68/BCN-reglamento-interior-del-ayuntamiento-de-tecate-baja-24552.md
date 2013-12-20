@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2011-09-19"
+last_updated: "2013-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -821,21 +821,25 @@ X. Desarrollo Social, Rural y Comunidades Indígenas.
 
 XI. Turismo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+XII. De la Familia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 COMISIÓN DE GOBERNACION, LEGISLACION Y MIGRACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 71.
 
 La Comisión de Gobernación, Legislación y Migración tendrá las siguientes atribuciones:
 
-I.- Dictaminar sobre proyectos de bandos, reglamentos, iniciativas de leyes y decretos, y disposiciones normativas de observancia general, por sí misma o en conjunto con la comisión o las comisiones especializadas en la materia de que se trate;
+I. Dictaminar sobre proyectos de bandos, reglamentos, iniciativas de leyes y decretos, y disposiciones normativas de observancia general, por sí misma o en conjunto con la comisión o las comisiones especializadas en la materia de que se trate;
 
-II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para promover la actualización de los reglamentos municipales;
+II. Proponer al Cabildo los mecanismos e instrumentos necesarios para promover la actualización de los reglamentos municipales;
 
-III.- Dictaminar sobre las reformas a la Constitución Política del Estado Libre y Soberano de Baja California que sean propuestas por el Congreso del Estado;
+III. Dictaminar sobre las reformas a la Constitución Política del Estado Libre y Soberano de Baja California que sean propuestas por el Congreso del Estado;
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -857,11 +861,11 @@ VII. Coadyuvar con los asuntos relacionados con los planes, programas, estrategi
 
 VIII. En general, aquellas que el Cabildo le encomiende.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 COMISION DE HACIENDA Y ADMINISTRACION PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 72.
 
@@ -879,17 +883,17 @@ V.- Analizar mensualmente los informes de la Tesorería Municipal respecto del e
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-VI. Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general, relacionadas con la organización y distribución de competencias de la administración pública centralizada y paramunicipal;
+VI.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general, relacionadas con la organización y distribución de competencias de la administración pública centralizada y paramunicipal;
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-VII. Proponer al Cabildo, los mecanismos e instrumentos necesarios para modernizar y simplificar el funcionamiento y operación de la administración municipal;
+VII.- Proponer al Cabildo, los mecanismos e instrumentos necesarios para modernizar y simplificar el funcionamiento y operación de la administración municipal;
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-VIII. Vigilar que la debida aplicación de los programas de control del patrimonio municipal en materia de bienes muebles e inmuebles;
+VIII.- Vigilar que la debida aplicación de los programas de control del patrimonio municipal en materia de bienes muebles e inmuebles;
 
-IX. Las demás que el Cabildo le encomiende.
+IX.- Las demás que el Cabildo le encomiende.
 
 COMISIÓN DE OBRAS Y SERVICIOS PUBLICOS
 
@@ -939,11 +943,11 @@ COMISIÓN DE ADMINISTRACIÓN PUBLICA
 
 (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 COMISION DE SEGURIDAD PÚBLICA, BOMBEROS Y PROTECCION CIVIL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 76.
 
@@ -957,13 +961,13 @@ III.- Conocer de la aplicación de los convenios por los que el Ayuntamiento deb
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-VI (SIC). Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos, y disposiciones normativas de observancia general en materia de protección civil y prevención de incendios;
+VI (SIC).- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos, y disposiciones normativas de observancia general en materia de protección civil y prevención de incendios;
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-VII. Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar la atención de la administración municipal en cuanto a bomberos y protección civil;
+VII.- Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar la atención de la administración municipal en cuanto a bomberos y protección civil;
 
-VIII. Las demás que el Cabildo le encomiende.
+VIII.- Las demás que el Cabildo le encomiende.
 
 COMISIÓN DE PLANEACIÓN Y DESARROLLO MUNICIPAL
 
@@ -1063,11 +1067,11 @@ COMISIÓN DE BOMBEROS Y PROTECCIÓN CIVIL
 
 (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 COMISION DE DESARROLLO SOCIAL, RURAL Y COMUNIDADES INDIGENAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ARTICULO 82 BIS.- La Comisión de Desarrollo Social, Desarrollo Rural y Comunidades Indígenas tendrá las siguientes atribuciones:
 
@@ -1089,11 +1093,11 @@ IV.- Proponer al Cabildo mecanismos e instrumentos necesarios para promover el e
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-V. Proponer al Cabildo los mecanismos e instrumentos necesarios para promover el equilibrio en las políticas del desarrollo económico, comercial, industrial, turístico, cultural y social del Municipio, así como la participación de la comunidad en los asuntos de interés público.
+V.- Proponer al Cabildo los mecanismos e instrumentos necesarios para promover el equilibrio en las políticas del desarrollo económico, comercial, industrial, turístico, cultural y social del Municipio, así como la participación de la comunidad en los asuntos de interés público.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-VI. Las demás que el Cabildo le encomiende
+VI.- Las demás que el Cabildo le encomiende
 
 COMISION DE EQUIDAD DE GÉNERO
 
@@ -1120,6 +1124,24 @@ V. Proponer mecanismos para armonizar y coordinar las políticas públicas tendi
 VI. Vigilar el funcionamiento de los organismos que promuevan el Desarrollo Turístico del Municipio y en los que tenga injerencia el Ayuntamiento o Cabildo a través de sus Instituciones o Dependencias.
 
 VII. En general todas aquellas cuestiones que estén vinculadas con la actividad de Turismo.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+COMISIÓN DE LA FAMILIA
+
+ARTICULO 82 SEXIES.- La Comisión de la Familia tendrá las siguientes atribuciones:
+
+I.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, iniciativas de ley, disposiciones normativas de observancia general en materia de familia.
+
+II.- Proponer al Cabildo la adopción de políticas, encaminadas a fortalecer el desarrollo de las familias, así como vigilar el cumplimiento de los programas correspondientes que sean aprobados en esta materia.
+
+III.- Apoyar los programas del Sistema Municipal para el Desarrollo Integral de la Familia.
+
+IV.- Proponer el fortalecimiento y recuperación de los valores de la familia.
+
+V.- Formar parte (sic) la Junta de Gobierno del Sistema Municipal para el Desarrollo Integral de la Familia
+
+VI.- En general aquellas que el Cabildo le encomiende.
 
 REMISION A COMISIONES
 
@@ -1265,27 +1287,27 @@ C. LIC. ROBERTO RODRÍGUEZ VALENZUELA
 
 SECRETARIO MUNICIPAL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE SEPTIEMBRE DE 2005.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 27 DE ENERO DE 2006.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 2 DE MAYO DE 2008.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 30 DE ENERO DE 2009.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 18 DE DICIEMBRE DE 2009.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 17 DE DICIEMBRE DE 2010.
 
@@ -1303,4 +1325,8 @@ P.O. 19 DE SEPTIEMBRE DE 2011.
 
 SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
-TERCERO.- La presente Reforma, entrará en vigor al día siguiente de su publiación, en el Periódico Oficial del Estado.
+TERCERO.- La presente Reforma, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
