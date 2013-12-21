@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-villa-de-alvarez-colima-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-12-14"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE VILLA DE ÁLVAREZ DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -873,23 +873,39 @@ V. Permiso para la construcción de albercas, por metro cúbico de capacidad: 0.
 
 VI. Permiso para bardeos, de acuerdo a la siguiente clasificación, por metro lineal:
 
-a) Habitacional densidad alta 0.05
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-b) Habitacional densidad media 0.10
+a) Habitacional densidad alta 0.10
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+b) Habitacional densidad media 0.30
 
 c) Habitacional densidad baja 0.50
 
-d) Alojamiento temporal 0.10
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-e) Comercio y servicios 0.50
+d) Alojamiento temporal 0.30
 
-f) Oficinas administrativas 0.10
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-g) Abastos, almacenamientos y talleres 0.05
+e) Comercio y servicios 0.70
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+f) Oficinas administrativas 0.30
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+g) Abastos, almacenamientos y talleres 0.10
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 h) Manufacturas y usos industriales 0.20
 
-i) Otros de 0.00 a 0.50
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+i) Otros de 0.10 a 0.70
 
 VII. Los pagos de las licencias contempladas en este artículo previo dictamen de la dependencia municipal competente, cuando se trate de trabajos a consecuencia de fenómenos naturales: 0.00
 
@@ -927,87 +943,45 @@ d) Adoquín 0.09
 
 XII. Permisos de construcción para la instalación de anuncios, por unidad, de acuerdo a la siguiente clasificación:
 
-a) Pintado y/o rotulado con
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-superficie hasta 4.00m2 2.00
+a) Pintado y/o rotulado, adosado y colgante 3.50
 
-b) Pintado y/o rotulado con
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-superficie mayor de 4.00 m2 4.00
+b) Autosoportado 6.00
 
-> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-c) Adosado con superficie hasta 4 m2 3.00
+c) Autosoportado para pantalla 10.00
 
-> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-d) Adosado con superficie mayor
+d) Estructural en piso o azotea 8.00
 
-a 4 m2. 5.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-e) Colgante o voladizo con
+e) Estructural en piso o azotea para pantalla electrónica 10.00
 
-sup hasta 4.00 m2 3.00
+f) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-f) Colgante o voladizo mayor
+g) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-a 4.00 m2 5.00
+h) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-g) Autosoportado tipo paleta
+i) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-o bandera con superficie
+j) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-hasta 3.00 m2 6.00
+k) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-h) Autosoportado tipo paleta
+l) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-o bandera con superficie de
+m) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-más de 3.00 m2 hasta 8 m2 12.00
+n) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
-
-i) Autosoportado tipo
-
-paleta o bandera con superficie
-
-de más de 8.00 m2 18.00
-
-> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
-
-j) Estructural en piso y azotea
-
-con superficie hasta 35.00 m2 90.00
-
-> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
-
-k) Estructural en piso y azotea
-
-con superficie de más de 35.00 m2
-
-hasta 60.00 m2 120.00
-
-> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
-
-l) Estructural en piso y azotea
-
-con superficie de más de 120.00 m2 150.00
-
-m) Estructural de pantalla
-
-electrónica con superficie
-
-hasta 35.00 m2 80.00
-
-n) Estructural de pantalla electrónica
-
-con superficie de más de 35.00 m2
-
-hasta 60.00 m2 100.00
-
-o) Estructural de pantalla electrónica
-
-con superficie de más de 60.00 m2 120.00
+o) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 XIII. Permisos de obra de los gobiernos federal y estatal, así como las instituciones y organismos descentralizados:
 
@@ -1025,25 +999,41 @@ a) Menor o igual a 40 M2 de construcción 0.05
 
 b) Mayor de 40 M2 de construcción 0.10
 
-XV. Permisos similares no previstos en este artículo, por metro cuadrado o fracción: 0.30
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-El pago de derechos de permisos especiales no previstos en este artículo serán sometidos a la aprobación del Cabildo, donde deberán tomarse en cuenta las especificaciones del mismo.
+XV. Permiso para construcción de muro de contención, por metro lineal 0.50
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XVI. Permiso para corte de cerro y retiro de material producto del corte, siempre que no se realice con fines de extracción y explotación de material, por cada metro cúbico de material retirado 0.50
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XVII. Permiso previo para todo trabajo de excavación para profundidades hasta de 1.50 mts., por metro lineal 0.05
+
+El permiso señalado en esta fracción sólo se podrá expedir por un plazo máximo de 45 días. Si la excavación constituye una de las etapas de la construcción quedará comprendida en la Licencia General.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XVIII. Permiso para colocación de estructura y cubierta ligera, según tipo:
+
+a) Palapa, por metro cuadrado 0.40
+
+b) Tejado, por metro cuadrado 0.30
+
+c) Lámina, por metro cuadrado 0.15
+
+d) Cancelaría y malla ciclónica, por metro lineal 0.10
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XIX. Permisos similares no previstos en este artículo, por metro cuadrado o fracción 0.30
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 63.
 
-Los términos de vigencia que se refiere a los permisos señalados en el artículo anterior serán los siguientes:
-
-I. Para obras con superficie de construcción hasta de 50 M2 8 meses;
-
-II. Para obras con superficie de construcción de 51 a 100 M2 10 meses;
-
-III. Para obras con una superficie de construcción de 101 a 200 M2 12 meses;
-
-IV. Para obras con una superficie de construcción de 201 a 300 M2 15 meses;
-
-V. Para obras con una superficie de construcción de 301 M2 en adelante 18 meses;
-
-En caso de refrendo del permiso, de conformidad a lo establecido en el reglamento de la materia, por cada bimestre adicional o fracción se pagará el 10 por ciento del importe del permiso inicial, no siendo refrendables aquellos permisos cuya obra no se haya iniciado, en cuyo caso será necesario obtener nuevo permiso.
+El titular de los permisos señalados en el artículo anterior, al solicitar el refrendo del mismo, pagará el cincuenta por ciento de las unidades de salario pagadas por el permiso inicial. Esta disposición no aplica para los permisos en los que no se haya iniciado la obra, en cuyo caso deberá pagarse el número de unidades de salario que correspondan a un nuevo permiso.
 
 ###### ARTICULO 64.
 
@@ -1373,7 +1363,9 @@ e) Manufacturas y usos industriales 0.04
 
 f) Otros 0.03 a 0.08
 
-V. Por la expedición de la licencia de urbanización en cualquier clasificación se pagará, por evento: 300.00
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+V. Por la expedición de la licencia de urbanización, modificación o ampliación de su vigencia, en cualquier clasificación se pagará, por evento 300.00
 
 Más por cada lote vendible de acuerdo a la siguiente clasificación:
 
@@ -1419,11 +1411,15 @@ j) Otros de 0.10 a 0.30
 
 Las áreas de estacionamiento comprendidas en las categorías de los incisos e), f), g), h) e i), se considerará en el cobro, con el 10 por ciento de las mismas tarifas de acuerdo a la superficie habilitada para este servicio;
 
-VII. Por la supervisión de las obras de urbanización se cobrará el 2.5 por ciento del valor catastral del predio.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VII. Por la expedición del dictamen especifico que sustente la modificación del Proyecto Ejecutivo de Urbanización 200.00
+
+VIII. Por la supervisión de las obras de urbanización se cobrará el 2.5 por ciento del valor catastral del predio.
 
 En caso de que el promotor no asigne supervisor para los trabajos de urbanización, el Ayuntamiento realizará la supervisión de las obras. En este caso, el promotor pagará al Ayuntamiento aplicando la tasa del 4 por ciento del valor catastral del predio;
 
-VIII. Por la incorporación municipal de predios rústicos interurbanos a zona urbana, de conformidad con la Ley de Asentamientos Humanos del Estado, se pagará el monto que se determine en función del estudio técnico elaborado por la dependencia municipal competente, por lote:
+IX. Por la incorporación municipal de predios rústicos interurbanos a zona urbana, de conformidad con la Ley de Asentamientos Humanos del Estado, se pagará el monto que se determine en función del estudio técnico elaborado por la dependencia municipal competente, por lote:
 
 a) Habitacional densidad alta 0.08
 
@@ -1451,7 +1447,7 @@ i) Manufacturas y usos industriales:
 
 j) Otros de 0.08 a 0.42
 
-IX. Por la expedición del certificado de habitabilidad de las construcciones, edificaciones e instalaciones:
+X. Por la expedición del certificado de habitabilidad de las construcciones, edificaciones e instalaciones:
 
 1. Hasta 500.00 M2 1.00
 
@@ -1519,129 +1515,149 @@ Los derechos a que se refiere la presente sección se pagarán de conformidad co
 
 Unidad de Salario
 
-A. PUBLICIDAD PERMANENTE, POR ANUALIDAD:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-1. Pintado con superficie hasta 2.00 M2 opaco 2.00
+A. PUBLICIDAD PERMANENTE POR ANUALIDAD, POR METRO CUADRADO.
 
-2. Pintado con superficie mayor de 2.00 M2 y hasta 4.00 M2 opaco 4.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-3. Pintado con superficie mayor de 4.00 M2 opaco 6.00
+1.- Pintado, rotulado, adosado y colgante, opacos o luminosos 1.00
 
-4. Adosado con superficie hasta 2.00 M2 opaco 1.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-5. Adosado con superficie mayor de 2.00 M2 y hasta 4.00 M2 opaco 2.00
+2.- Autosoportado tipo paleta y tipo bandera 1.50
 
-6. Adosado con superficie mayor de 4.00 M2 opaco 4.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-7. Colgante o voladizo con superficie hasta 2.00 M2 opaco 1.00
+3.- Autosoportado tipo paleta y tipo bandera para pantalla 2.00
 
-8. Colgante o voladizo con superficie mayor de 2.00 M2 y hasta 4.00 M2 opaco 2.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-9. Colgante o voladizo con superficie mayor 4.00 M2 opaco 4.00
+4.- Estructural en azotea o en piso 2.50
 
-10. Adosado con superficie de hasta 2.00 M2 luminoso 2.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-11. Adosado con superficie mayor de 2.00 M2 y hasta 4.00 M2 luminoso 4.00
+5.- Estructural en azotea o en piso, con pantalla electrónica 3.00
 
-12. Adosado con superficie mayor de 4.00 M2 luminoso 6.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-13. Colgante o voladizo con superficie hasta 2.00 M2 luminoso 2.00
+6.- Otros no especificados, por M2 o por evento, según sea el caso 5.00
 
-14. Colgante o voladizo con superficie mayor de 2.00 M2 y hasta 4.00 M2 luminoso 4.00
+7.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-15. Colgante o voladizo con superficie mayor 4.00 M2 luminoso 6.00
+8.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-16. Autosoportado tipo paleta con superficie de hasta 3.00 M2 opaco 4.00
+9.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-17. Autosoportado tipo paleta con superficie de más de 3.00 M2 hasta 8.00 M2 opaco 12.00
+10.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-18. Autosoportado tipo paleta con superficie de más de 8.00 M2 hasta 12.00 M2 opaco 18.00
+11.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-19. Autosoportado tipo paleta con más de 12.00 M2 opaco
+12.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-Más el 10 por ciento por metro excedente del numeral anterior.
+13.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-20. Autosoportado tipo bandera con superficie de hasta 3.00 M2 opaco 4.00
+14.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-21. Autosoportado tipo bandera con superficie de más de 3.00 M2 hasta 8.00 M2 opaco 12.00
+15.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-22. Autosoportado tipo bandera con superficie de más de 8.00 M2 hasta 12.00 M2 opaco 18.00
+16.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-23. Autosoportado tipo bandera con superficie de más de 12.00 M2 opaco
+17.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-Más el 10 por ciento por metro excedente del numeral anterior.
+18.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-24. Autosoportado tipo paleta con superficie de hasta 3.00 M2 luminoso 6.00
+19.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-25. Autosoportado tipo paleta con superficie de más de 3.00 M2 hasta 8.00 M2 luminoso 16.00
+20.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-26. Autosoportado tipo paleta con superficie de más de 8.00 M2 hasta 12.00 M2 luminoso 24.00
+21.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-27. Autosoportado tipo paleta con superficie de más de 12.00 M2 luminoso
+22.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-Más el 10 por ciento por metro excedente del numeral anterior.
+23.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-28. Autosoportado tipo bandera con superficie de hasta 3.00 M2 luminoso 6.00
+24.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-29. Autosoportado tipo bandera con superficie de más de 3.00 M2 hasta 8.00 M2 luminoso 16.00
+25.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-30. Autosoportado tipo bandera con superficie de más de 8.00 M2 hasta 12.00 M2 luminoso 24.00
+26.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-31. Autosoportado tipo bandera con superficie de más de 12.00 M2 luminoso
+27.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-Más el 10 por ciento por metro excedente del numeral anterior.
+28.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-32. Estructural en azotea hasta 35.00 M2 60.00
+29.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-33. Estructural en azotea de más de 35.00 M2 y hasta 60.00 M2 90.00
+30.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-34. Estructural en azotea de más de 60.00 M2 120.00
+31.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-35. Estructural en piso hasta 35.00 M2 60.00
+32.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-36. Estructural en piso de más de 35.00 M2 y hasta 60.00 M2 90.00
+33.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-37. Estructural en piso de más de 60.00 M2 120.00
+34.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-38. Estructural pantalla electrónica hasta 35.00 M2 52.00
+35.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-39. Estructural pantalla electrónica de más de 35.00 M2 y hasta 60.00 M2 80.00
+36.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-40. Estructural pantalla electrónica de más de 60.00 M2 110.00
+37.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-41. Pintado en caseta telefónica 12.00
+38.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-42. Adosado en caseta telefónica 12.00
+39.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-43. Pintado en puesto fijo en la vía pública 2.00
+40.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-44. Adosado en puesto fijo en la vía pública 2.00
+41.- Pintado en caseta telefónica 12.00
 
-45. Pintado en puesto semifijo en la vía pública 2.00
+42.- Adosado en caseta telefónica 12.00
 
-46. Adosado en puesto semifijo en la vía pública 2.00
+43.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-47. Autoparlantes sonoros móvil, por vehículo 40.00
+44.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-48. Otros no especificados, por M2 o por evento, según sea el caso 1.00 a 120.00
+45.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
+
+46.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+47.- Autoparlantes sonoros móvil, por vehículo 100.00
+
+48.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 B. PUBLICIDAD TRANSITORIA
 
-1. Manta con una superficie hasta 2.00 M2 hasta por 30 días naturales 1.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-2. Manta con una superficie de 2.00 M2 y hasta 4.00 M2 hasta por 30 días naturales 2.00
+1.- Manta por M2 por día y hasta 30 días naturales 0.50
 
-3. Manta con una superficie mayor de 4.00 M2 hasta por 30 días naturales 3.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-4. Distribución de volantes y/o folletos en vía pública cada vez que se solicite 2.00
+2.- Distribución de volantes y/o folletos por día 5.00
 
-5. Carteles publicitarios por promoción 2.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-6. Autoparlantes sonoros fijos por día 1.00
+3.- Carteles publicitarios por día 5.00
 
-7. Autoparlantes sonoros móvil por día 1.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-8. Otros no especificados transitorios 1.00 a 3.00
+4.- Autoparlantes sonoros fijos por día 5.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+5.- Autoparlantes sonoros móvil por día 5.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+6.- Otros no especificados transitorios 3.00
+
+7.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
+
+8.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013
 
 ###### ARTICULO 77.
 
@@ -2017,13 +2033,13 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 e) Por la autorización de:
 
-CAMBIO DE DOMICILIO:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-Por el cambio de domicilio de licencias de funcionamiento se pagará el 25 por ciento del costo total por expedición de la licencia correspondiente.
+1.- Por el cambio de domicilio, las personas físicas o morales deberán cumplir con los requisitos para la expedición de una nueva licencia, teniendo como costo el 50 por ciento de lo señalado en el inciso a) de este artículo; y
 
-CAMBIO DE PROPIETARIO
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-Por cambio de propietario, las personas físicas o morales deberán solicitar la expedición de una nueva licencia, teniendo como costo el 50 por ciento de lo señalado en el inciso a) de este artículo.
+2.- Por el cambio de propietario, las personas físicas o morales deberán cumplir con los requisitos para la expedición de una nueva licencia, teniendo como costo el 75 por ciento de lo señalado en el inciso a) de este artículo.
 
 f) Por la expedición de permisos para la realización de eventos sociales, por cada uno:
 
@@ -2035,21 +2051,25 @@ f) Por la expedición de permisos para la realización de eventos sociales, por 
 
 4. Eventos de luz y sonido en zona rural 5.00
 
-5. Callejoneadas y/o desfiles 0.00
+5. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 6. Otros no especificados 4.00 a 10.00
 
-Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero y febrero de cada año.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos, pero las personas físicas o morales que realicen estas actividades deberán obtener la licencia municipal de funcionamiento que corresponda al giro ejercido, dentro de los treinta días siguientes a la fecha de inicio de operaciones, así como tramitar su refrendo cada año durante los meses de enero y febrero.
 
-ARTICULO 81 A.- No se autorizará el refrendo de la licencia municipal de funcionamiento a que se refieren el (sic) artículo 79 y 81, último párrafo, de esta Ley a los establecimientos que tengan adeudos con la Tesorería Municipal por los derechos del artículo 97, fracción I, inciso b), de este ordenamiento.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 81 A.- No se autorizará el refrendo de la licencia municipal de funcionamiento a que se refieren los artículos 79 y 81, último párrafo, de esta Ley, a las personas físicas o morales que tengan a su cargo adeudos por no haber pagado en la forma y términos señalados en este ordenamiento, de cualquiera de los derechos señalados en la Sección Segunda del Capítulo Cuarto del Título Cuarto, de esta Ley.
 
 D) OTRAS LICENCIAS Y PERMISOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 82.
 
-Las personas físicas o morales que exploten el uso de máquinas de video juegos y sinfonolas, pagarán anualmente durante los meses de enero y febrero, por cada una, conforme a la siguiente tarifa:
+Las personas físicas o morales que exploten el uso de máquinas de video juegos y sinfonolas, máquinas electrónicas de bingo, videojuegos electrónicos susceptibles de apuestas y/o máquinas electrónicas de videojuegos de habilidad y destreza que se encuentren instaladas en casinos pagarán anualmente durante los meses de enero y febrero, por cada una, conforme a la siguiente tarifa:
 
 Unidades de salario
 
@@ -2060,6 +2080,10 @@ Unidades de salario
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 2. Sinfonolas 15.00.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+3. Máquinas electrónicas de bingo, videojuegos electrónicos susceptibles de apuestas y/o máquinas electrónicas de videojuegos de habilidad y destreza que se encuentren instaladas en casinos 30.00
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -2073,6 +2097,22 @@ c).- De más de 20 M2 6.00
 
 d).-Tratándose de personas físicas o morales que vendan su mercancía bajo la dirección de una casa comercial o similar se cobrará diariamente 25.00
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 82 B.- Las persona físicas o morales que realicen eventos sociales sin consumo y/o venta de bebidas alcohólicas, utilizando equipos de sonido, música viva o luz y sonido, requerirán permiso por cada evento, mismo que se otorgará una vez que sean pagados los derechos correspondientes, conforme a la siguiente tarifa:
+
+1.- Eventos particulares utilizando equipo de sonido o música viva, urbana 3.00
+
+2.- Eventos particulares utilizando equipo de sonido o música viva, en zona rural 1.00
+
+3.- Eventos de luz y sonido, en zona urbana 4.00
+
+4.- Eventos de luz y sonido en zona rural 3.00
+
+5.- Callejoneadas y/o desfiles 0.00
+
+6.- Otros no especificados 3.00
+
 #### SECCION SEGUNDA. DE LOS REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
 A) REGISTRO CIVIL
@@ -2085,7 +2125,9 @@ Unidad de salario
 
 I. En las oficinas:
 
-a) Registro de nacimiento dentro del término de ley (180 días) 0.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+a). Registro de nacimiento, incluyendo la expedición de una constancia del mismo 0.00
 
 b) Por registro extemporáneo de nacimiento 3.00
 
@@ -2095,7 +2137,9 @@ d) Registro de inscripción de nacimientos y defunciones ocurridos en el extranj
 
 e) Registro de inscripción de matrimonios celebrados en el extranjero 10.00
 
-f) Registro de matrimonios 3.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+f). Registro de matrimonios y registro de enlaces conyugales 5.00
 
 g) Inscripción de adopción 13.50
 
@@ -2105,13 +2149,29 @@ i) Trámite para la inscripción de resolución administrativa dictada por la au
 
 j) Búsqueda de actas en libros 1.00
 
-k) Expedición de constancia de registro de cualquier acto del registro civil 2.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+k). Expedición de constancia de registro de cualquier acto del civil 1.00
 
 l) Servicio de tramitación de actas de registro civil a diversas oficialías más el costo de las mismas 5.00
 
 m) Capitulaciones matrimoniales e inspección de bienes y deudas 5.00
 
-n) Los demás actos, cada uno 1.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+n). Registro por mandato judicial de presunción de muerte 10.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+o). Registro por mandato judicial de declaración de ausencia 10.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+p). Anotación por mandato judicial de declaración de incapaces 4.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+q). Los demás actos, cada uno 2.00
 
 II. A domicilio:
 
@@ -2121,11 +2181,13 @@ a) Registro de nacimiento
 
 2. En días y horas hábiles 4.00
 
-b) Registro de matrimonios
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-1. En días y horas inhábiles 10.00
+b). Registro de matrimonios y registro de enlaces conyugales:
 
-2. En días y horas hábiles 5.00
+1. En días y horas inhábiles 15.00
+
+2. En días y horas hábiles 10.00
 
 c). Registro de los demás actos de 4.00 a 10.00
 
@@ -2135,11 +2197,13 @@ a). Administrativo 14.00
 
 b). Inscripción 10.00
 
-c). Anotación marginal 1.20
+c). (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 Por la prestación de los servicios a que se refieren las fracciones anteriores, solicitadas vía telefónica o por medios electrónicos y entregadas a domicilio, se cobrará el 25 por ciento más del costo por la expedición del documento respectivo.
 
-Los derechos que se originen por concepto de campañas de regularización del estado civil de los habitantes del municipio de Villa de Alvarez, que anualmente lleven a cabo las instituciones de asistencia social, en coordinación con la dependencia estatal competente, todo tipo de documentos oficiales expedidos por ésta, causarán y pagarán conforme a la siguiente cuota 0.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Los derechos que se originen por concepto de campañas de regularización del estado civil de los habitantes del municipio de Villa de Álvarez, que lleven a cabo las instituciones de asistencia social, en coordinación con la dependencia competente, todo tipo de documentos oficiales expedidos por ésta, causarán y pagarán conforme a la siguiente cuota 0.00
 
 B) CATASTRO
 
@@ -2404,6 +2468,28 @@ Para fijar la tarifa se deberán considerar las condiciones económicas del nego
 En caso de ser necesario, la unidad de protección civil municipal emitirá su opinión.
 
 El pago de los derechos a que se refiere esta fracción será anual. Deberá cubrirse a la expedición de la licencia municipal de funcionamiento y en el refrendo de la misma.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+II. Por la realización de visitas de inspección: 2.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+III. Por la emisión del dictamen de seguridad:
+
+a) Establecimientos comerciales, industriales y de servicios de bajo impacto 2.00
+
+b) Establecimientos comerciales, industriales y de servicios de medio impacto 8.00
+
+c). Establecimientos comerciales, industriales y de servicios de medio impacto 13.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+IV. Por la impartición de cursos de capacitación, por participante 2.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+V. Por el servicio de custodia de vehículos que trasladen materiales explosivos, tóxicos o inflamables en las vialidades o carreteras dentro del territorio del municipio, por kilómetro por kilogramo 0.20
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -3206,3 +3292,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Municipio que decida adoptar los sistemas tecnológicos que se refieren en el presente Decreto para la aplicación de sanciones por la Infracción a las normas viales establecidas en los reglamentos municipales de la materia, deberán Implementar una campaña de Información y concientización de por lo menos tres meses y en el transcurso de dicha campaña las infracciones que se apliquen serán simbólicas sin el cobro del aprovechamiento correspondiente.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El H. Ayuntamiento de Villa de Álvarez, en su caso, deberá ajustar los reglamentos municipales correspondientes en un plazo de hasta 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
