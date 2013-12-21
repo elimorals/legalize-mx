@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-proceso-de-entrega-recepcion-del-poder-88153"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-07"
-last_updated: "2012-06-07"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO DEL PROCESO DE ENTREGA-RECEPCIÓN DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE ENTREGA-RECEPCIÓN PARA EL PODER EJECUTIVO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 7 de junio de 2012.
 
@@ -346,3 +348,15 @@ LE FRANCISCO XAVIER VENUSTIANO TRUEBA PÉREZ
 Contralor del Estado
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se abroga el Reglamento del proceso de entrega-recepción del Poder Ejecutivo del Estado del Estado (sic) de Jalisco, publicado en el Periódico Oficial “El Estado de Jalisco”, el día 07 de junio del 2012, y se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente acuerdo.
+
+TERCERO. Dentro de los ciento ochenta días hábiles posteriores a la entrada en vigor del presente reglamento, la Contraloría del Estado expedirá el Manual del proceso de entrega-recepción.
+
+CUARTO. La Contraloría del Estado podrá realizar las gestiones necesarias para la celebración de convenios con las Dependencias y Entidades, para que a través de sus órganos de control interno se realicen las acciones correspondientes para el cumplimiento del presente acuerdo.
