@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-municipal-del-estado-de-tabasco-7808"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2012-12-22"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -32,6 +32,8 @@ LIC. MANUEL GURRIA ORDOÑEZ, GOBERNADOR SUSTITUTO DEL ESTADO LIBRE Y SOBERANO DE
 Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
 La H. Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Tabasco, en uso de las facultades que le confiere el Artículo 36 Fracciones I y VII de la Constitución Política Local, y
+
+.
 
 Ha tenido a bien emitir el siguiente:
 
@@ -53,7 +55,7 @@ LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
 ###### Artículo 1.
 
-Esta Ley es de orden público e interés social y tienen (sic) por objeto regular los impuestos, derechos, productos, aprovechamientos, participaciones y aportaciones a favor de los municipios del Estado de Tabasco, establecidas por esta Ley y otras disposiciones fiscales aplicables.
+Esta Ley es de orden público e interés social y tiene (sic) por objeto regular los impuestos, derechos, productos, aprovechamientos, participaciones y aportaciones a favor de los municipios del Estado de Tabasco, establecidas por esta Ley y otras disposiciones fiscales aplicables.
 
 ###### Artículo 2.
 
@@ -99,7 +101,7 @@ B) El lugar en que realicen actividades o tengan bienes que den lugar a obligaci
 
 C) A falta de domicilio, en los términos indicados en los incisos anteriores, el lugar en que se encuentren.
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
 
 II.- Tratándose de personas jurídicas colectivas:
 
@@ -973,7 +975,9 @@ La base gravable será:
 
 I.- El precio o valor del inmueble señalado en el acto traslativo de dominio y sus accesorios independientemente del nombre con que se designe;
 
-II.- El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+II.- El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado por la Comisión del Registro Estatal de Valuadores;
 
 III.- El Valor Catastral.
 
@@ -987,7 +991,9 @@ El valor del inmueble será de ajuste conforme al número de años transcurridos
 
 Cuando por motivo de la adquisición, el adquiriente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
-Cuando no se pacte precio, el impuesto se calculará con base al avalúo que practique persona autorizada por la Dirección de Finanzas o Tesorería Municipal. En la constitución, adquisición o extinción del usufructo de la nuda propiedad y en la adquisición de bienes en remates, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo a que se refiere este párrafo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Cuando no se pacte precio, el impuesto se calculará con base al avalúo que practique perito autorizado por la Comisión de Registro Estatal de Valuadores. En la constitución, adquisición o extinción del usufructo de la nuda propiedad y en la adquisición de bienes en remates, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo a que se refiere este párrafo.
 
 Para los fines de este impuesto se considera que el usufructo o nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -995,9 +1001,13 @@ Para los fines de este impuesto se considera que el usufructo o nuda propiedad t
 
 Los avalúos a que se hace mención en el artículo anterior, no podrán tener una antigüedad mayor de ciento ochenta días.
 
-La Dirección de Finanzas o Tesorería Municipal podrá aceptar los avalúos practicados por Institución Bancaria, para lo cual bastará que los interesados o el notario, en su caso acompañe una copia autorizada en estos avalúos a la declaración que exige el Artículo 114 de esta Ley.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-En caso de que la Dirección de Finanzas o Tesorería Municipal no acepte fundadamente el avalúo referido en el párrafo anterior, solicitará otro avalúo practicado por Institución Bancaria que ella designe, el cual será definitivo. El costo de dicho avalúo será cubierto por el adquirente.
+La Dirección de Finanzas o Tesorería Municipal únicamente podrá aceptar los avalúos practicados por perito autorizado por la Comisión de Registro Estatal de Valuadores, para lo cual bastará que los interesados o el notario, en su caso, acompañe una copia autorizada en estos avalúos a la declaración que exige el Artículo 114 de esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+En caso de que la Dirección de Finanzas o Tesorería Municipal no acepte fundadamente el avalúo referido en el párrafo anterior, solicitará otro avalúo practicado por perito autorizado por la Comisión de Registro Estatal de Valuadores, el cual será definitivo. El costo de dicho avalúo será cubierto por el adquirente.
 
 Dichos avalúos deberán comprender tanto el terreno como las construcciones y demás accesorios y deberá ser lo más apegado al valor comercial aún cuando se traslade el dominio únicamente del terreno, o bien solamente de las construcciones o accesorios pues el impuesto se causará sobre la suma de valores del terreno y de las construcciones o accesorios en su caso, salvo que se pruebe que adquirente construyó con fondos propios las construcciones o que las adquirió con anterioridad habiendo cubierto el impuesto respectivo.
 
@@ -1035,13 +1045,15 @@ V.- En los casos no previstos en las Fracciones anteriores, cuando los actos de 
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 114.
 
-En las adquisiciones que se hagan constar en escritura pública, los notarios, jueces, corredores y demás federatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración con los datos que para el efecto exijan las formas aprobadas por el Departamento de Catastro e Impuesto Predial de la Secretaría de Planeación y Finanzas, en la Dirección de Finanzas o Tesorería Municipal que corresponda a su domicilio. En los demás casos los contribuyentes pagarán el impuesto mediante declaración ante la Dirección de Finanzas o Tesorería Municipal que corresponda a su domicilio fiscal. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto a enterar.
+En las adquisiciones que se hagan constar en escritura pública, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración con los datos que para el efecto exijan las formas aprobadas por la Dirección General de Catastro y Ejecución Fiscal de la Secretaría de Planeación y Finanzas, la Dirección de Finanzas o Tesorerías Municipales. En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la Dirección de Finanzas o Tesorería Municipal que corresponda a su domicilio fiscal. Se presentará declaración por todas las adquisiciones aun cuando no haya impuesto a enterar.
 
-Además de la citada declaración, deberá acompañarse la constancia de estar al corriente en el pago del Impuesto Predial y de todos los demás impuestos que al fisco municipal causen los bienes materia de este impuesto.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Además de la citada declaración, deberá acompañarse la constancia de estar al corriente en el pago del Impuesto Predial y de todos los demás impuestos que al fisco municipal causen los bienes materia de este impuesto y tener la obligación de remitirlas a la Dirección General de Catastro y Ejecución Fiscal de la Secretaría de Planeación y Finanzas.
 
 Los fedatarios no están obligados a enterar el impuesto cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquella con la que se efectuó dicho pago.
 
@@ -1748,3 +1760,9 @@ P.O. 22 DE DICIEMBRE DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
 
 SEGUNDO. Los recursos administrativos presentados con anterioridad a la entrada en vigor del presente Decreto, serán substanciados y concluidos a elección de quien lo haya presentado conforme a las disposiciones nuevas o a las disposiciones vigentes en la Ley de Hacienda Municipal del Estado de Tabasco con anterioridad a la vigencia del presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones aplicables que se opongan al presente ordenamiento.
