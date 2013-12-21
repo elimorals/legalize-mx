@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-23619
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2010-05-01"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY QUE REGULA LA VENTA, DISTRIBUCION Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE TABASCO
 
-LEY QUE REGULA LA VENTA, DISTRIBUCION Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE TABASCO
+LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 21 de diciembre de 2001.
 
@@ -49,49 +49,51 @@ LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL E
 
 La presente Ley es de orden público y de observancia general en el Estado de Tabasco, y tiene por objeto regular la venta, distribución y consumo de bebidas alcohólicas.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 2.
 
 Para los efectos de esta Ley se entiende por:
 
-I. Abarrotes: Establecimiento cuya actividad consiste en la comercialización de comestibles y artículos de primera necesidad, y que cuente con licencia para la comercialización de bebidas alcohólicas en envase cerrado;
+I. Abarrote: Establecimiento cuya actividad consiste en la comercialización de comestibles y artículos de primera necesidad, y que cuente con licencia para la comercialización de bebidas alcohólicas en envase cerrado;
 
-II. Bar: Establecimiento que, de manera independiente o formando parte de otro giro, vende preponderantemente bebidas alcohólicas para su consumo en el mismo local, pudiendo de manera complementaria, presentar música viva, grabada o video grabada;
+II. Bar: Establecimiento que, de manera independiente o formando parte de otro giro, vende preponderantemente bebidas alcohólicas para su consumo en el mismo local, pudiendo de manera complementaria, presentar música viva, grabada o vídeo grabada;
 
 III. Bar con presentación de espectáculos: Establecimiento donde se expenden bebidas alcohólicas al copeo o en botella para su consumo en el interior del mismo, que presentan de manera cotidiana espectáculos de exhibicionismo corporal;
 
-IV. Barra libre: Promoción realizada eventualmente por los establecimientos dedicados a la venta de bebidas alcohólicas, mediante la cual por el pago de un precio fijo o variable, se permite el consumo ilimitado de vinos, licores y cervezas;
+IV. Barra libre: Promoción realizada eventualmente por los establecimientos dedicados a la venta de bebidas alcohólicas, mediante el cual por el pago de un precio fijo o variable, se permite el consumo ilimitado de vinos, licores y cervezas;
 
-V. Bebidas alcohólicas: Aquellas que contengan alcohol etílico en una proporción de 2 grados Gay Lussac y hasta 55 grados Gay Lussac. Cualquier otra que contenga una proporción mayor a 55 grados Gay Lussac, no podrá comercializarse como bebida;
+V. Bebidas Alcohólicas: Aquellas que contengan alcohol etílico en una proporción de 2 grados Gay Lussac y hasta 55 grados Gay Lussac. Cualquier otra que contenga una proporción mayor de 55 grados Gay Lussac, no podrá comercializarse como bebida;
 
 Para fines de esta ley, las bebidas alcohólicas, por su contenido alcohólico se clasifican en:
 
 a) De bajo contenido alcohólico, con una graduación alcohólica de 2 grados Gay Lussac y hasta 6 grados Gay Lussac;
 
-b) De medio contenido alcohólico, con una graduación alcohólica de 6.1 grados Gay Lussac y hasta 20 grados Gay Lussac, y
+b) De medio contenido alcohólico, con una graduación alcohólica de 6.1 grados Gay Lussac y hasta 20 grados Gay Lussac; y
 
-c) De alto contenido alcohólico, con una graduación alcohólica de 20.1 grados Gay Lussac y hasta 55 grados Gay Lussac en volumen.
+c) De alto contenido alcohólico, con una graduación alcohólica de 20.1 grados Gay Lussac y hasta 55 grados Gay Lussac en volumen;
 
-Todas las bebidas alcohólicas que se vendan en los establecimientos a que se refiere la presente ley, deberán ser las que cuenten con la Norma Oficial Mexicana, de acuerdo a lo dispuesto por la Ley General de Salud.
+Todas las bebidas alcohólicas que se vendan en los establecimientos a que se refiere la presente ley, deberán ser las que cuenten con la Norma Oficial Mexicana, de acuerdo a lo dispuesto por la Ley General de Salud;
 
-VI. Cabaret: Establecimiento mercantil que presenta espectáculos o variedades con música viva, grabada o video grabada, pista de baile, servicio de bar y opcionalmente de restaurante;
+VI. Bebida alcohólica preparada: Bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas, ya sea entre sí o combinadas con bebidas no alcohólicas, como agua, jugos, salsas, refrescos u otras;
 
-VII. Cantina: Establecimiento donde se expenden bebidas alcohólicas en envase abierto o al copeo para su consumo en el mismo local, sin ser obligatorio el consumo de alimentos;
+VII. Casa-habitación: Inmueble, cuarto, departamento, aposento, edificio o lugar construido que esté habitado por una o más personas;
 
-VIII. Casa-habitación: Inmueble, cuarto, departamento, aposento, edificio o lugar construido que esté habitado por una o más personas;
+VIII. Casino: Establecimiento en el que se llevan a cabo juegos de azar autorizados por la Dirección General de Juegos y Sorteos de la Secretaría de Gobernación del Gobierno de la República, que podrá contar con licencia para la venta y consumo de bebidas alcohólicas en todas las áreas que comprenden sus instalaciones;
 
-IX. Centro Comercial: Conjunto de locales o espacios en los que se encuentran establecidos diversos giros comerciales en forma individual, incluyendo a las tiendas departamentales, que expenden bebidas alcohólicas;
+IX. Centro comercial: Conjunto de locales o espacios en los que se encuentran establecidos diversos giros comerciales en forma individual, incluyendo a las tiendas departamentales, que expenden bebidas alcohólicas;
 
 X. Centro de espectáculos: Inmueble en el que se presentan espectáculos artísticos, deportivos y culturales, cuyo acceso se controla a base de boletos de distribución gratuita u onerosa; donde se podrá vender y consumir bebidas alcohólicas;
 
-XI. Cervecería: Establecimiento donde se expende al público en envase abierto, todo tipo de cerveza nacional o de procedencia extranjera para su consumo en el interior del mismo;
+XI. Cerveza: Bebida fermentada y elaborada con malta, lúpulo y agua potable o con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición de lúpulos o sucedáneos de éstos. Los porcentajes de las materias primas empleadas para la elaboración de este producto obedecerán a lo que señale la norma correspondiente;
 
-XII. Cerveza: Bebida fermentada y elaborada con malta, lúpulo y agua potable o con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición de lúpulos o sucedáneos de éstos. Los porcentajes de las materias primas empleadas para la elaboración de este producto obedecerán a lo que señale la norma correspondiente;
+XII. Consumidor: Persona mayor de edad y en pleno goce de sus facultades mentales que ingiere bebidas alcohólicas;
 
-XIII. Coctelería: Establecimiento dedicado a la venta de alimentos preparados a base de pescados y mariscos, y que cuente con licencia para vender cerveza en envase abierto para consumo dentro del local;
+XIII. Consumo: Acción de ingerir bebidas alcohólicas;
 
-XIV. Consumidor: Persona mayor de edad y en pleno goce de sus facultades mentales que ingiere bebidas alcohólicas;
+XIV. Club deportivo: Instalaciones privadas o particulares que cuenta con espacios para diversas disciplinas deportivas, como canchas, campos, albercas, gimnasios, estadios, que podrá contar con licencia para la venta y consumo de bebidas alcohólicas dentro de las áreas que comprenden sus instalaciones;
 
-XV. Consumo: Acción de ingerir bebidas alcohólicas;
+XV. Desarrollo turístico y recreativo: Complejo con infraestructura para albergar áreas verdes, recreativas, interactivas y turísticas, que podrá contar con licencia para la venta y consumo de bebidas alcohólicas en todas las áreas que comprenden sus instalaciones;
 
 XVI. Discoteca: Establecimiento mercantil que cuenta con pista para bailar con música viva, grabada, videograbaciones y servicio de bar;
 
@@ -99,63 +101,55 @@ XVII. Distribución: El traslado a domicilio de bebidas alcohólicas, una vez re
 
 XVIII. Distribuidora: Establecimiento en el que se almacenan bebidas alcohólicas para su venta y distribución, en envase cerrado y a temperatura ambiente, mediante pedido al mayoreo;
 
-XIX. Establecimiento: Es el espacio físico que la Ley autoriza para el funcionamiento de un giro mercantil donde se puede realizar la venta, distribución o consumo de bebidas alcohólicas, independientemente del nombre con que se le designe;
+XIX. Establecimiento: Es el espacio físico que la ley autoriza para el funcionamiento de un giro mercantil donde se puede realizar la venta, distribución o consumo de bebidas alcohólicas, independientemente del nombre con que se le designe;
 
 XX. Expendio: Establecimiento comercial, dedicado a la venta de cerveza en envase cerrado para llevar;
 
-XXI. Feria: Lugar o espacio habilitado o construido, para exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, agropecuarias, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza para promover el desarrollo del Estado;
+XXI. Fábrica de bebidas alcohólicas: Espacio físico que cuente con infraestructura y maquinaría para la elaboración, preparación, producción y almacenaje de bebidas alcohólicas, a base de la fermentación alcohólica, como, Hidromiel, Sake, Aguardiente, Cerveza, Vino, Licor y otras bebidas que incluyan un porcentaje de alcohol;
 
-XXII. Hotel y Motel: Inmueble donde se proporciona hospedaje y diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con licencia para la venta de bebidas alcohólicas;
+XXII. Feria: Lugar o espacio habilitado o construido, para exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, agropecuarias, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza para promover el desarrollo del Estado y los municipios;
 
-XXIII. Licencia: Documento por el que se concede autorización, términos y condiciones para vender, distribuir o permitir el consumo de bebidas alcohólicas en envase cerrado o abierto, otorgada por el Ejecutivo del Estado a través de la Secretaría;
+XXIII. Hotel y Motel: Inmueble donde se proporciona hospedaje y diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con licencia para la venta de bebidas alcohólicas;
 
-XXIV. Licencia Única para Hoteles y Moteles: Documento otorgado por el Ejecutivo del Estado a través de la Secretaría, en el que se concede a éstos, autorización para la venta de bebidas alcohólicas, siempre y cuando operen dentro de su infraestructura general uno de los siguientes establecimientos: restaurante, restaurante bar, bar, discoteca o servicios de banquetes, servi-bar en las habitaciones y servicio a cuartos;
+XXIV. Licencia: Documento por el que se concede autorización, términos y condiciones para vender, distribuir o permitir el consumo de bebidas alcohólicas en envase cerrado o abierto, otorgada por el Ejecutivo del Estado a través de la Secretaría;
 
-XXV. Licenciatario: La persona física o jurídica colectiva que haya obtenido una licencia;
+XXV. Licencia Única para Hoteles y Moteles: Documento otorgado por el Ejecutivo del Estado a través de la Secretaría, en el que se concede a éstos, autorización para la venta de bebidas alcohólicas, siempre y cuando operen dentro de su infraestructura general uno de los siguientes establecimientos: restaurante, restaurante bar, bar, discoteca o servicios de banquetes, servi-bar en las habitaciones y servicio a cuartos;
 
-XXVI. Mercancía: Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización;
+XXVI. Licenciatario: La persona física o jurídica colectiva que haya obtenido una licencia;
 
-XXVII. Minisuper: Establecimiento organizado por departamentos y con presentación de autoservicio, cuya función primordial es expender al público productos de uso y consumo en general y que cuente con licencia para expender bebidas alcohólicas en envase cerrado, para llevar;
+XXVII. Mercancía: Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización;
 
-XXVIII. Permiso: Documento en que consta la autorización otorgada por el Ejecutivo del Estado a través de la Secretaría, con la anuencia del Presidente Municipal o Primer Concejal, para vender en envase abierto y permitir el consumo de bebidas alcohólicas, en un espacio previamente delimitado y por una temporalidad que no excederá de treinta días naturales;
+XXVIII. Mezcla para bebida preparada: Combinación de diversas salsas y/o otras sustancias comestibles, que pueden incluir refresco, jugo de limón, sal entre otras;
 
-XXIX. Recurso de reconsideración: Medio de defensa legal, que los particulares afectados podrán interponer en contra de las resoluciones emitidas por la Secretaría o ante la negativa ficta;
+XXIX. Minisuper: Establecimiento organizado por departamentos y con presentación de autoservicio, cuya función primordial es expender al público productos de uso y consumo en general y que cuente con licencia para expender bebidas alcohólicas en envase cerrado, para llevar;
 
-XXX. Refrendo: Acto administrativo por el cual la Secretaría autoriza anualmente al licenciatario continuar haciendo uso de la licencia, previo el pago de los derechos correspondientes;
+XXX. Permiso: Documento en que consta la autorización otorgada por el Ejecutivo del Estado a través de la Secretaría, con la anuencia del Presidente Municipal o Primer Concejal, para vender en envase abierto y permitir el consumo de bebidas alcohólicas, en un espacio previamente delimitado y por una temporalidad que no excederá de treinta días naturales;
 
-XXXI. Restaurante: Establecimiento en el que se elaboran y consumen alimentos; y simultáneamente pueden expenderse bebidas alcohólicas;
+XXXI. Recurso de reconsideración: Medio de defensa legal, que los particulares afectados podrán interponer en contra de las resoluciones emitidas por la Secretaría o ante la negativa ficta;
 
-XXXII. Restaurante-Bar: Establecimiento donde se expenden bebidas alcohólicas con alimentos y que cuenta con un área delimitada, en donde pueden expenderse y consumirse bebidas alcohólicas sin alimentos;
+XXXII. Refrendo: Acto administrativo por la cual la Secretaría autoriza anualmente al licenciatario continuar haciendo uso de la licencia, previo el pago de los derechos correspondientes, vigentes en la Ley de Hacienda del Estado;
 
-XXXIII. Revalidación: Acto administrativo por el cual la Secretaría efectúa la renovación de la vigencia de una licencia, de uno a cinco años previo el pago de los derechos correspondientes según lo solicite el interesado;
+XXXIII. Restaurante: El lugar donde se expenden bebidas alcohólicas para su consumo acompañado de alimentos exclusivamente;
 
-XXXIV. Revocación: Acto administrativo por el cual la Secretaría deja sin efecto el acto que dio origen a la expedición de una licencia o permiso;
+XXXIV. Restaurante-Bar: Establecimiento donde se expenden bebidas alcohólicas con alimentos y que cuenta con un área delimitada, en donde pueden expenderse y consumirse bebidas alcohólicas sin alimentos;
 
-XXXV. Salón de baile: Inmueble destinado a fiestas, bailes y espectáculos en el que se pueden consumir bebidas alcohólicas, de manera gratuita u onerosa, previa autorización para ello;
+XXXV. Revocación: Acto administrativo por el cual la Secretaría deja sin efecto el acto que dio origen a la expedición de una licencia o permiso;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+XXXVI. Salón de baile: Inmueble destinado a fiestas, bailes y espectáculos en el que se pueden consumir bebidas alcohólicas, de manera gratuita u onerosa, previa autorización para ello;
 
-XXXVI. Secretaría: La Secretaría de Administración y Finanzas;
+XXXVII. Secretaría: La Secretaría de Planeación y Finanzas;
 
-XXXVII. Supermercado: Establecimiento comercial con sistema de autoservicio que, por su estructura y construcción, cuenta para su venta con grandes volúmenes de artículos básicos, electrodomésticos, alimenticios, ropa, telas, latería y bebidas alcohólicas para llevar;
+XXXVIII. Supermercado: Establecimiento comercial con sistema de autoservicio que, por su estructura y construcción, cuenta para su venta con grandes volúmenes de artículos básicos, electrodomésticos, alimenticios, ropa, telas, latería y bebidas alcohólicas para llevar;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+XXXIX. Ultramarinos: Establecimiento cuya actividad preponderante es la venta de bebidas alcohólicas en envase cerrado, con la comercialización de productos de abarrotes;
 
-XXXVIII. Ultramarinos: Establecimiento cuya actividad preponderante es la venta de bebidas alcohólicas en envase cerrado, con la comercialización de productos de abarrotes;
+XL. Venta: Toda actividad de enajenación de bebidas alcohólicas;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+XLI. Área de Venta: Superficie expresada en metros cuadrados, de un establecimiento, a la que tiene acceso el público más el área de cajas registradoras; y
 
-XXXIX. Venta: Toda actividad de enajenación de bebidas alcohólicas;
+XLII. Tienda de Conveniencia: Establecimiento que cuenta con sistema de autoservicio, con un horario comercial igual o superior a las dieciocho horas, cuya función principal es expender al público productos de uso y consumo, pudiendo accesoriamente vender bebidas alcohólicas en envase cerrado para llevar.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
-
-XL. Área de Venta: Superficie expresada en metros cuadrados, de un establecimiento, a la que tiene acceso el público más el área de cajas registradoras; y
-
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
-
-XLI. Tienda de Conveniencia: Establecimiento que cuenta con sistema de autoservicio, con un horario comercial igual o superior a las dieciocho horas, cuya función principal es expender al público productos de uso y consumo, pudiendo accesoriamente vender bebidas alcohólicas en envase cerrado para llevar.
-
-###### Articulo 3.
+###### Artículo 3.
 
 La venta, distribución y consumo de bebidas alcohólicas, en los establecimientos a los que se contrae esta ley, sólo podrá realizarse si se cuenta con la licencia o permiso correspondiente en los términos que establece la presente Ley.
 
@@ -171,17 +165,51 @@ En términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo, cuando lo
 
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 5.
 
-La venta o distribución de bebidas alcohólicas en envase cerrado, únicamente podrá hacerse en los establecimientos siguientes:
+La venta o distribución de bebidas alcohólicas en envase cerrado, únicamente podrá hacerse conforme a lo siguiente:
 
-I. Abarrotes;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-II. Centro Comercial;
+l. La venta de bebidas alcohólicas en envase cerrado, únicamente podrá hacerse en los establecimientos siguientes:
 
-III. Expendio;
+a) Abarrote (sic);
 
-IV. Minisuper;
+b) Centro Comercial;
+
+c) Expendio;
+
+d) Mini súper;
+
+e) Supermercado;
+
+f) Ultramarinos; y
+
+g) Tienda de Conveniencia
+
+Los giros mencionados en esta fracción, podrán vender para llevar la mezcla para bebidas preparadas, acompañado de cervezas pero en envase cerrado, quedando prohibida la venta de bebidas preparadas servidas en el interior o exterior de los establecimientos.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+II. La distribución de bebidas alcohólicas en envase cerrado, únicamente podrá hacerse en los establecimientos siguientes:
+
+a) Distribuidoras;
+
+Las distribuidoras sólo podrán realizar la venta a temperatura ambiente.
+
+La distribución la realizarán exclusivamente a establecimientos que cuenten con licencia de funcionamiento expedida por la Secretaría de Planeación y Finanzas del Estado a través de la Dirección General de Fiscalización.
+
+Los vehículos que sean utilizados por las distribuidoras, para el traslado de bebidas alcohólicas, deberán tener rotulada el número de licencia, en los costados de los vehículos, así como llevar copia simple de la licencia de funcionamiento de la distribuidora.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+III. En las boticas y farmacias solo podrá venderse alcohol desnaturalizado; y sustancias medicinales que lo contengan en formas y proporciones que al carácter de tales establecimientos corresponda; siempre que el producto cuente con el registro de la Secretaría de Salud como material de curación y la especificación de que el producto es tóxico, que no debe ingerirse y que no es potable.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+IV. En las tlapalerías sólo se expenderá alcohol para usos industriales.
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
@@ -209,17 +237,29 @@ I. Bar;
 
 II. Bar con presentación de espectáculos;
 
-III. Cantina;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-IV. Cabaret;
+III. Casinos;
 
-V. Cervecería;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-VI. Centro de espectáculos;
+IV. Club deportivo;
 
-VII. Coctelería;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-VIII. Discoteca;
+V. Centro de espectáculos;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VI. Desarrollo turístico y recreativo;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VII. Discoteca;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VIII. Fábrica de Bebidas alcohólicas;
 
 IX. Hoteles y Moteles;
 
@@ -267,25 +307,47 @@ VI. (DEROGADA, P.O. 1 DE MAYO DE 2010)
 
 Los cabarets, bares, cantinas y cervecerías que cuenten con entradas directas por la vía pública, además de los requisitos señalados en el artículo anterior, deberán tener persianas, tabiques, mamparas u otros medios que impidan la visibilidad hacia el interior.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 10.
 
-Cuando los establecimientos pretendan modificar el objeto de su giro a uno diferente del estipulado en la licencia original, el licenciatario deberá solicitar por escrito, la autorización de dicho cambio a la Secretaría. Dicho escrito deberá especificar las causas que motivan dicho cambio de giro; y deberá ser acompañado por los siguientes documentos que conforme a sus disposiciones aplicables, deben emitir los servidores públicos facultados de las instancias siguientes:
+Cuando los establecimientos pretendan modificar el objeto de su giro a uno diferente del estipulado en la licencia original, el licenciatario deberá solicitar por escrito de conformidad por lo previsto en el Código Fiscal el Estado de Tabasco, la autorización de dicho cambio a la Secretaría. Dicho escrito deberá especificar las causas que motivan dicho cambio de giro; y deberá ser acompañado por los siguientes documentos que conforme a sus disposiciones aplicables, deben emitir los servidores públicos facultados de las instancias siguientes:
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
 I. Constancia expedida por la Secretaría de Salud en la que se acredite que el establecimiento reúne los requisitos sanitarios en vigor, para el nuevo giro.
 
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
 II. Constancia expedida por la Unidad de Protección Civil del Ayuntamiento, o el área que tenga a cargo dichas funciones, dentro de la administración municipal, en la que se especifique que el inmueble cumple con la normatividad correspondiente para el nuevo giro.
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
 III. Constancia expedida por la autoridad competente del Ayuntamiento en la que se indique que la propuesta de cambio de giro, no representa alteración alguna al medio ambiente y al entorno ecológico.
 
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+
 IV. La anuencia en los términos similares a lo señalado en el artículo 26, fracción III, de la presente Ley.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 Si el nuevo giro mercantil cambia de uno que no esté contenido en la fracción VII del artículo 17 de la presente ley, a uno que sí lo esté, éste deberá cumplir con lo señalado en el mismo.
 
-Recibida la solicitud y los anexos a que se refiere este artículo, la Secretaria, dentro de los quince días hábiles siguientes a la recepción de la solicitud, ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta Ley, independientemente de los que señalan las demás leyes aplicables.
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Los giros de supermercado, casino, club deportivo, desarrollo turístico y recreativo y fábrica de bebidas alcohólicas, se obtendrá únicamente a través de licencia nueva en conformidad al artículo 17. Dichos establecimientos podrán cambiar de giro exclusivamente a restaurante, restaurante-bar, expendio, ultramarino, minisúper, o bar.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Recibida la solicitud y los anexos a que se refiere este artículo, la Secretaria, dentro de los treinta días hábiles siguientes a la recepción de la solicitud, ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta Ley, independientemente de los que señalan las demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
 
 Una vez practicada la inspección, y comprobado que el establecimiento reúne los requisitos de la ley, conforme las disposiciones aplicables de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría dará una respuesta dentro de los treinta días hábiles siguientes a la fecha en que se haya hecho la inspección.
 
 ### CAPITULO III. DÍAS Y HORAS DE FUNCIONAMIENTO
 
@@ -293,23 +355,25 @@ Una vez practicada la inspección, y comprobado que el establecimiento reúne lo
 
 La venta, distribución y consumo de bebidas alcohólicas en envase cerrado o abierto, tendrá los horarios siguientes:
 
-I. Los expendios, todos los días, de las diez a las veinticuatro horas;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+I. Los abarrotes, expendios y ultramarinos, de lunes a sábado, de las once a las veintitrés horas;
 
-II. Los supermercados, ultramarinos y centros comerciales todos los días, de las diez a las veintitrés horas;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-III. Las discotecas y cabarets, todos los días, de las veintiuna a las cuatro horas del día siguiente;
+II. Los supermercados, y centros comerciales todos los días, de las diez a las veinticuatro horas;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+III. Las discotecas, todos los días, de las veinte a las cuatro horas del día siguiente;
 
 IV. Los bares y bar con presentación de espectáculos, todos los días de las doce a las tres horas del día siguiente;
 
 V. Los Restaurantes, restaurante-bar, incluyendo los de hoteles y moteles, así como los bares de éstos, todos los días de las nueve a las tres horas del día siguiente;
 
-VI. Las Coctelerías, todos los días de las nueve a las veintiuna horas;
+VI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
-
-VII. Las cervecerías y las cantinas, de lunes a sábado de las doce a las veinte horas;
+VII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
 VIII. Las distribuidoras, de lunes a sábado de las siete a las veintidós horas, y los domingos de nueve a dieciséis horas;
 
@@ -317,27 +381,43 @@ VIII. Las distribuidoras, de lunes a sábado de las siete a las veintidós horas
 
 IX. Los hoteles así como moteles en servicio a cuarto y servibar, todos los días, las veinticuatro horas;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-X. Los centros de espectáculos y salones de bailé en los días y horarios determinados por las autoridades estatales y municipales competente, según corresponda; y
+X. Los centros de espectáculos y salones de baile en los días y horarios determinados por las autoridades estatales y municipales competente, según corresponda;
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XI. Los minisúper, abarrotes y tiendas de conveniencia todos los días, de las diez a las veinticuatro horas.
+XI. Los minisúper y tiendas de conveniencia todos los días;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XII. Casinos, Club deportivo, Desarrollo Turísticos y recreativo, todos los días, de las diez a las tres horas del día siguiente; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XIII. Las fábricas de bebidas alcohólicas, todos los días, de ocho a veinte horas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 12.
 
-Los licenciatarios de bares, cabarets, centros de espectáculos, discotecas y restaurantes-bar, podrán solicitar a la Secretaría la ampliación de sus horarios de funcionamiento, hasta por un máximo de una hora y por un período de tiempo determinado, el cual no deberá exceder de cuarenta días, en un año calendario. De autorizarse la ampliación, se deberá cubrir el importe de los derechos correspondientes.
+Los licenciatarios podrán solicitar a la Secretaría la ampliación de sus horarios de funcionamiento, hasta por un máximo de una hora y por un período de tiempo determinado, en el cual no deberá exceder de sesenta días, en un año calendario. De autorizarse la ampliación, se deberá cubrir el importe de los derechos correspondientes.
 
 Los establecimientos a los que se refiere la fracción II, del artículo 11 podrán solicitar ampliación de sus horarios de funcionamiento hasta por una hora y por un período que no exceda de 15 días, en un año calendario.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-De igual manera, los establecimientos a los que se refiere la fracción XI del artículo anterior, podrán solicitar autorización anual para venta de bebidas alcohólicas durante las 24 horas, cubriendo los derechos correspondientes que señale para tal efecto la Ley de Hacienda del Estado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 13.
 
-La solicitud a que se refiere el artículo anterior, deberá realizarse por escrito, especificando las causas que motivan dicha ampliación de horario, así como los días en los que se ampliará el mismo, por lo menos con diez días hábiles de anticipación, a la fecha en que pretende ampliarlo.
+El licenciatario que cuente con establecimiento con giro de minisúper o tienda de conveniencia, podrá solicitar autorización anual para venta de bebidas alcohólicas durante las 24 horas, cubriendo los derechos correspondientes que señale para tal efecto la Ley de Hacienda del Estado y los siguientes requisitos:
+
+I. Estudio de prefactibilidad que realizará la Secretaría para verificar que el solicitante cumpla con los requisitos de Ley;
+
+II. No haber sido infraccionado en los últimos dos años; y
+
+III. Contar con la anuencia por escrito del Presidente Municipal de que se trate.
 
 ###### Artículo 14.
 
@@ -349,13 +429,17 @@ En los establecimientos y locales a los que se refiere la presente Ley, no podr�
 
 Por razones de orden público o de interés social, el Ejecutivo del Estado, por conducto de la Secretaría tiene la facultad de modificar los horarios y las fechas para la venta, distribución y consumo de bebidas alcohólicas, dándolo a conocer, con la debida anticipación a través de los principales medios de comunicación.
 
-### CAPITULO IV. EXPEDICIÓN, REFRENDO Y REVALIDACIÓN DE LA LICENCIA O PERMISO
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+### CAPITULO IV. EXPEDICIÓN Y REFRENDO DE LA LICENCIA O PERMISO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 16.
 
-La licencia tendrá una vigencia de uno a cinco años, a solicitud del licenciatario.
+La licencia tendrá una vigencia de un año, la cual deberá ser refrendada por la Secretaría a partir del mes de septiembre y hasta diciembre de cada año.
 
-Toda licencia deberá ser refrendada por la Secretaría a partir del mes de septiembre y hasta diciembre de cada año.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -411,6 +495,10 @@ Una vez practicada la inspección, y comprobado que el establecimiento reúne lo
 
 En caso de que el solicitante no obtuviere respuesta de la Secretaría, transcurrido el plazo a que se refiere el párrafo anterior, se entenderá que la resolución es en sentido negativo.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+En caso de que la Secretaría otorgase la licencia, el solicitante deberá hacer el pago de los derechos correspondientes establecidos en la Ley de Hacienda del Estado de Tabasco de acuerdo al Giro solicitado.
+
 > <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### Artículo 17
@@ -419,39 +507,55 @@ Bis. Los interesados en obtener una licencia nueva, permiso temporal, cambio de 
 
 El Ayuntamiento tendrá un plazo de 15 días hábiles para resolver y otorgar por escrito, la anuencia municipal o la negación de la misma.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 17 Ter.
+
+Los interesados en obtener un permiso temporal, deberán presentar su solicitud por escrito a la Secretaría, de conformidad por lo previsto en el Código Fiscal del Estado y anuencia municipal.
+
+La Secretaría tendrá un plazo de 8 días hábiles para dar contestación a la solicitud.
+
+En caso de otorgarse el permiso temporal, el solicitante deberá cubrir el importe del pago de derechos según la categoría del permiso, establecido en la Ley de Hacienda del Estado.
+
+Se entenderá por permiso temporal los siguientes:
+
+Permiso para stand en Playa, por día: Este permiso facultará al permisionario vender y permitir el consumo de bebidas alcohólicas en el stand.
+
+Permiso temporal en ejidos, ranchería, poblados, villas o localidades pequeñas, por día: Este permiso facultará al permisionario vender y permitir el consumo de bebidas alcohólicas en el lugar determinado por el delegado de la comunidad.
+
+Permiso temporal para stand en ferias, por día: Este permiso facultará al permisionario vender y permitir el consumo de bebidas alcohólicas en el interior de un local acondicionado, según el espacio del stand:
+
+a) De 3 m2 hasta 25 m2
+
+b) De 26 m2 a 50 m2
+
+c) De 51 m2 en adelante
+
+Permiso temporal en cabeceras municipales, por día: Este permiso facultará al permisionario vender y permitir el consumo de bebidas alcohólicas en el Interior de un local acondicionado.
+
+Permiso temporal para eventos masivos, por día: En este permiso se prevé la asistencia masiva de personas, quienes ingresarán mediante invitación, boletos pagados, cortesías, o entrada libre al público, y donde se dará la presentación de artista, cantante, orquesta, sonido, musical, baile o espectáculo, en un establecimiento que cumpla con las recomendaciones y especificaciones de Protección Civil, Salud, Ayuntamiento y de la Secretaría.
+
+Se permitirá la venta y consumo en el interior de las instalaciones del evento, según el horario autorizado por la Secretaría.
+
+Permiso temporal para degustación de bebidas alcohólicas: Este permiso permitirá la degustación de bebidas alcohólicas en una presentación de 10ml al público mayor de edad, en horario autorizado por la Secretaría, hasta por un plazo no mayor de 10 días hábiles.
+
+No se autorizará este permiso para lugares al aire libre, parques, escuelas, edificios públicos, estacionamientos, iglesias, áreas deportivas.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 18.
 
-La licencia será personal e inembargable. Podrá ser transferible a un tercero cuando lo autorice por escrito el servidor público que cuente con las atribuciones en los términos de las disposiciones orgánicas o reglamentarias de la Secretaría, siempre y cuando se cumplan con los siguientes requisitos:
+La licencia es propiedad del Estado, y se concesionará a quien lo solicite y cumpla lo establecido en el artículo 17 de esta ley.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2010)</small>
+La licencia será personal e inembargable.
 
-I. Que el titular de la licencia solicite por escrito a la Secretaría, el cambio a que se refiera su petición; precisando los datos de la persona física o jurídica colectiva la que pida se le otorgue la autorización para transferir el dicho cambio; al efecto, se deberá acompañar los documentos relativos a la propuesta del nuevo licenciatario relacionados en los incisos a), b) y c) del artículo 17 de la presente Ley;
+Cuando el licenciatario sea persona física, deberá señalar expresamente ante la Secretaría a una persona física, quien será titular de un derecho preferente para que se le otorgue la concesión sobre la licencia, previo al pago del derecho establecido en el artículo 67, fracción XI de la Ley de Hacienda del Estado de Tabasco.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2010)</small>
+La Secretaría autorizará el cambio, previo pago de los derechos, siempre y cuando el beneficiario y el establecimiento cumplan con los requisitos que establece esta Ley. En ningún caso podrá designarse como beneficiario a una persona moral.
 
-II. Que el sujeto por el que se pide el otorgamiento de la transferencia de dicha licencia, cumpla con lo establecido en las fracciones II, III, IV, V y VI del mismo artículo;
+Para los efectos de este artículo, el beneficiario deberá informar por escrito a la Secretaría sobre el fallecimiento del titular de la licencia, dentro de los seis meses posteriores al hecho, acompañando copia certificada del acta de defunción, y original de la licencia de funcionamiento.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2010)</small>
-
-III. Que no exista adeudo o trámite pendiente relativo a las obligaciones emanadas de la licencia; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2010)</small>
-
-IV. Que la licencia haya estado a nombre del titular por lo menos dos años calendario.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MAYO DE 2010)</small>
-
-El licenciatario deberá pagar el derecho correspondiente cada vez que se transmita la licencia, según lo previsto en la Ley de Hacienda del Estado de Tabasco.
-
-En caso de fallecimiento del titular de la licencia, ésta podrá expedirse discrecionalmente a favor del o de los herederos que reúnan los requisitos previstos en esta ley, debiéndose elaborar la solicitud correspondiente para que la Secretaría, autorice el cambio respectivo, y entretanto, con permiso especial el establecimiento continuará funcionando.
-
-La transgresión a lo anterior, tendrá como consecuencia la revocación de la licencia o del permiso eventual y la clausura del establecimiento que esté operando al amparo de los mismos.
-
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
-
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
+Para el caso de que el Titular de la licencia no designe beneficiario, en caso de su fallecimiento, perderá el derecho que se establece en el presente artículo.
 
 ###### Artículo 19.
 
@@ -477,15 +581,19 @@ Se llevarán registros acumulados en caso de que un mismo licenciatario detente 
 
 Asimismo, en caso de que a un licenciatario se le haya revocado la licencia se archivará el expediente respectivo hasta por un término de cinco años a efecto de que la Secretaría tenga control y evitar así que se lleven a cabo prácticas fraudulentas.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 20.
 
-El licenciatario deberá solicitar por escrito a la Secretaría, la revalidación de su licencia durante los cuatro últimos meses de su vigencia. La Secretaría, con estricto apego a la presente Ley, dará respuesta en un término no mayor a sesenta días naturales a partir de la fecha de recepción de la solicitud.
+El licenciatario deberá solicitar por escrito a la Secretaría, el refrendo de su licencia durante los cuatro últimos meses de su vigencia. La Secretaría, con estricto apego a la presente Ley, dará respuesta en término no mayor a sesenta días naturales a partir de la fecha de recepción de la solicitud.
 
-La Secretaría, para el otorgamiento de la revalidación considerará las sanciones impuestas al licenciatario, su cumplimiento, el pago de sus impuestos y en su caso la frecuencia de las violaciones a la presente Ley.
+La Secretaría, para el otorgamiento del refrendo considerará las sanciones impuestas al licenciatario, su cumplimiento, el pago de sus impuestos y en su caso la frecuencia de las violaciones a la presente Ley.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 21.
 
-Si el licenciatario no obtuviere respuesta de la Secretaría, transcurrido el plazo de sesenta días naturales a que se refiere el artículo anterior, sobre la revalidación de la licencia, se entenderá que la resolución es en sentido negativo y a partir de ese plazo, contará el correspondiente para que, de así considerarlo, interponga los medios de defensa que estime pertinentes.
+Si el licenciatario no obtuviere respuesta de la Secretaría, transcurrido el plazo de sesenta días naturales a que se refiere el artículo anterior, sobre el refrendo de la licencia, se entenderá que la resolución es en sentido negativo y a partir de ese plazo, contará el correspondiente para que, de así considerarlo, interponga los medios de defensa que estime pertinentes.
 
 ###### Artículo 22.
 
@@ -573,7 +681,9 @@ III. La anuencia por escrito del Presidente Municipal, Primer Concejal, debidame
 
 La Secretaría, dentro de los treinta días naturales siguientes a la fecha en que se haya presentado la solicitud de cambio de domicilio, dará respuesta en los términos que corresponda.
 
-### CAPITULO VII. OBLIGACIONES DEL PROPIETARIO
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+### CAPITULO VII. OBLIGACIONES DEL LICENCIATARIO
 
 ###### Artículo 28.
 
@@ -591,9 +701,15 @@ V. Facilitar el acceso a la documentación y al interior de los establecimientos
 
 VI. Las demás que le señale la presente ley.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 29.
 
-Toda persona física o jurídica colectiva que cuente con una licencia para la venta, distribución o consumo de bebidas alcohólicas, deberá informar por escrito a la Secretaría con quince días de anticipación, del cierre temporal o definitivo del establecimiento para los efectos legales correspondientes.
+Toda persona física o moral que cuente con una licencia para la venta, distribución o consumo de bebidas alcohólicas, podrá solicitar por escrito a la Secretaría el cierre temporal del establecimiento hasta por 90 días. La Secretaría determinará por escrito el periodo del cierre temporal.
+
+De igual manera podrá solicitar el cierre definitivo del establecimiento, teniendo como plazo 180 días para la reactivación de la licencia en un domicilio distinto, de conformidad con (sic) artículo 26 de esta Ley.
+
+El licenciatario solicitará el cierre temporal o definitivo con quince días de anticipación.
 
 ### CAPITULO VIII. RESTRICCIONES
 
@@ -614,6 +730,14 @@ En el caso de los menores de edad, los padres, tutores o custodios podrán inter
 En los términos de la presente Ley, queda estrictamente prohibido el otorgamiento de licencia para operar en inmueble dedicado a casa-habitación.
 
 Por lo anterior las personas que expendan bebidas alcohólicas en casa-habitación, sin perjuicio de las sanciones administrativas a que haya lugar, serán responsables penalmente en los términos del Código Penal vigente.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 32 Bis.
+
+No podrán coexistir dos licencias de funcionamiento en el mismo domicilio.
+
+Sólo se permitirá que los giros de Restaurante y Restaurant Bar, puedan tener en el mismo domicilio una licencia de Ultramarinos.
 
 ###### Artículo 33.
 
@@ -649,13 +773,17 @@ Las prohibiciones contempladas en el presente capítulo, deberán ser observadas
 
 Las infracciones a esta Ley, se sancionarán:
 
-I. Con multa de veinte a cien días de salario mínimo vigente en la entidad, y clausura temporal hasta por un plazo de quince días, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+I. Con multa de cien a doscientos días de salario mínimo:
 
 a) Por no mostrar en lugar visible, la licencia y en su caso el permiso original respectivo, salvo que la primera se encuentre en revalidación, lo cual podrá acreditarse con el acuse de recibo, y
 
 b) A quienes, estando obligados a ello, no fijen letreros visibles en el exterior de sus establecimientos, dando a conocer la prohibición de la venta o entrada a menores de edad o personas que no estén en pleno goce de sus facultades mentales.
 
-II. Con multa de cien a quinientos días de salario mínimo vigente en la entidad, y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+II. Con multa de doscientos a quinientos días de salario mínimo vigente en la entidad, y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
 
 a) A quienes permitan el consumo de bebidas alcohólicas en el interior de los establecimientos mencionados en los artículos 5 y 7 de esta Ley;
 
@@ -671,7 +799,9 @@ f) A las distribuidoras que vendan o distribuyan bebidas alcohólicas a temperat
 
 g) A quienes oferten a los consumidores barras libres en los establecimientos señalados en la presente ley.
 
-III. Con multa de quinientos a setecientos cincuenta días de salario mínimo vigente en la entidad, y clausura temporal hasta por un plazo de sesenta días en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+III. Con multa de quinientos a mil días de salario mínimo vigente en la entidad, y clausura temporal hasta por un plazo de sesenta días en los siguientes casos:
 
 a) A los que vendan bebidas alcohólicas a las personas señaladas en el artículo 31 de esta ley, con excepción de los menores de edad cuya sanción se señala en la fracción siguiente;
 
@@ -685,11 +815,15 @@ e) A las distribuidoras que incumplan lo señalado en el artículo 34 de la pres
 
 f) A los licenciatarios o permisionarios que permitan, auspicien, induzcan, ordenen o realicen la distribución o venta de bebidas alcohólicas fuera de los horarios establecidos en la presente Ley.
 
-IV. Con multa de setecientos cincuenta a mil quinientos días de salario mínimo vigente en la entidad y revocación de la licencia o permiso en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+IV. Con multa de mil a dos mil días de salario mínimo vigente en la entidad, y en caso de reincidencia, la revocación de la licencia o permiso en los siguientes casos:
 
 a) A los que en cualquier forma vendan, cedan, graven, arrienden, asocien, donen u otorguen en comodato o cualquier otra clase de convenios, la licencia o permiso en contravención a lo dispuesto por esta Ley;
 
-b) A los que estando autorizados exclusivamente para la venta de cerveza, vendan o permitan el consumo de otras bebidas alcohólicas en el interior del establecimiento;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+b) A los que estando autorizados exclusivamente para la venta de bebidas alcohólicas en envases cerrados, permitan el consumo de bebidas alcohólicas en el interior y/o exterior del establecimiento.
 
 c) A los que vendan bebidas alcohólicas a personas menores de dieciocho años de edad;
 
@@ -698,6 +832,10 @@ d) A los que permitan que menores de edad consuman bebidas alcohólicas en cualq
 e) A los que permitan distribuyan o vendan en los establecimientos señalados en la presente ley, bebidas alcohólicas adulteradas o contaminadas, y
 
 f) A los que estando autorizados para expender bebidas alcohólicas en envase abierto y al copeo, la comercialicen para llevar.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+g) Cuando el establecimiento esté funcionando fuera del giro autorizado.
 
 ###### Artículo 38.
 
@@ -872,3 +1010,21 @@ P.O. 1 DE MAYO DE 2010.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas disposiciones jurídicas que se opongan al presente Decreto.
+
+TERCERO.- Los procedimientos relativos a la expedición o revocación de licencias, así como la imposición de sanciones derivadas de infracciones, que a la entrada en vigor del presente decreto se encuentren en trámite, continuarán substanciándose conforme a la ley vigente en el momento de su causación, hasta el dictado de la resolución correspondiente.
+
+CUARTO.- Los licenciatarios que a la entrada en vigor del presente decreto deseen adquirir el giro de bar en sustitución de los giros derogados Cantina, Cervecería y Cabaret, así como cambiar del giro derogado Cocktelería a Restaurante o Restaurante Bar, deberán solicitar por escrito, dentro del término de 90 días naturales a la Secretaría, el cambio respectivo. En este caso deberán acompañar a su solicitud, el original de la licencia que contiene los derechos que habrán de otorgarse a favor de la persona física o moral de que se trate.
+
+QUINTO.- Los licenciatarios que a la entrada en vigor del presente decreto, hayan pagado la revalidación para años posteriores, se le hará la respectiva compensación en relación al monto total del pago de derechos correspondiente en vigor.
+
+SEXTO.- Derivado de la reforma al artículo 2 de esta Ley, los establecimientos que realicen actividades que cumplan con los supuestos de los giros de casino, club deportivo, desarrollo turístico y recreativo, y que actualmente cuenten con licencia de restaurante o restaurante-bar, deberán solicitar por escrito, dentro del término de 90 días naturales de la publicación de este decreto, a la Secretaría, el cambio respectivo. En este caso deberán acompañar a su solicitud, el original de la licencia que contiene los derechos que habrán de otorgarse a favor de la persona física o moral de que se trate.
+
+SÉPTIMO.- En caso de que los Licenciatarios no cumplan lo señalado en el artículo transitorio cuarto y sexto en el tiempo indicado, su solicitud de cambio de giro se acatará a lo establecido en el artículo 10 de esta Ley y en el artículo 67 fracción VIII de la Ley de Hacienda del Estado.
+
+OCTAVO.- Entrado en vigor el presente decreto, en un plazo de 90 días hábiles, el Titular del Poder Ejecutivo deberá expedir las reformas del Reglamento de la Ley.
