@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-deuda-publica-del-estado-de-tabasco-y-sus-municipios-486
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2010-05-18"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
+LEY DE DEUDA PÚBLICA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 31 de diciembre de 2005.
 
@@ -125,7 +125,9 @@ XXVI. Refinanciamiento: la obtención de un financiamiento para el pago total o 
 
 XXVII. Registro: el Registro de Deuda Pública del Estado de Tabasco y sus Municipios;
 
-XXVIII. Secretaría: la Secretaría de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXVIII. Secretaría: La Secretaría de Planeación y Finanzas;
 
 XXIX. Unidades de Inversión: la Unidad de cuenta establecida en el Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adición a diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta publicado en el Diario Oficial de la Federación el 1 de abril de 1995; y
 
@@ -201,11 +203,13 @@ XI. Vigilar que la capacidad de pago de los Municipios, Entidades Paraestatales 
 
 Para el ejercicio oportuno del Presupuesto de Egresos y la adecuación de los flujos financieros autorizados por el Congreso del Estado, el Ejecutivo del Estado podrá contratar Financiamientos cuya vigencia no, sea mayor a un año y lo hará de la siguiente manera:
 
-a) El límite máximo de este tipo de financiamiento que podrá contratar el Ejecutivo del Estado será de I5% de sus ingresos ordinarios determinados en sus leyes de ingresos vigentes.
+a) El límite máximo de este tipo de financiamiento que podrá contratar el Ejecutivo del Estado será de 15% de sus ingresos ordinarios determinados en sus leyes de ingresos vigentes.
 
 b) No se afectará en garantía o en pago el derecho a recibir participaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho.
 
-c) El Ejecutivo del Estado a través de la Secretaría de Administración y Finanzas deberá informar al Congreso del Estado, por conducto de la Comisión Orgánica de Hacienda y Presupuesto del Congreso del Estado de la contratación, liquidación y conclusión del financiamiento en un plazo que no exceda de 30 días naturales siguientes de cada uno de los actos correspondientes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+c) El Ejecutivo del Estado a través de la Secretaría, deberá informar al Congreso del Estado por conducto de la Comisión Orgánica de Hacienda y Presupuesto, de la contratación, liquidación y conclusión del financiamiento en un plazo que no exceda de 30 días naturales siguientes de cada uno de los actos correspondientes.
 
 d) El incumplimiento de las disposiciones anteriores dará lugar a la aplicación de responsabilidades y sanciones administrativas en el servicio público.
 
@@ -289,7 +293,9 @@ El financiamiento de proyectos con una fuente de repago plenamente identificable
 
 La Secretaría resolverá en un plazo máximo de treinta días, contados a partir de que se hayan cumplido con los requisitos exigidos, realizando una evaluación sobre la viabilidad del proyecto, capacidad de pago o de endeudamiento.
 
-En aquellos casos que los Municipios no requieran que el Ejecutivo se constituya como garante de su endeudamiento, y que el Congreso del Estado solicite al Ejecutivo por conducto de la Secretaría de Administración y Finanzas, su opinión técnica de la viabilidad financiera del financiamiento, se requerirá la información correspondiente y necesaria para tal caso.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+En aquellos casos en que los Municipios no requieran que el Ejecutivo se constituya como garante de su endeudamiento y que el Congreso del Estado solicite al Ejecutivo por conducto de la Secretaría, su opinión técnica de la viabilidad financiera del financiamiento, se requerirá la información correspondiente y necesaria para tal caso.
 
 ### Capítulo III. Reglas Generales para la Afectación de Ingresos del Estado
 
@@ -389,7 +395,7 @@ III. Proporcionar al Congreso del Estado y a la Secretaría la información que 
 
 ### Capítulo II. Reglas Generales en Materia de Contratación de Deuda Pública Municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2010)</small>
 
 ###### Artículo 25.
 
@@ -701,7 +707,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
 
 P.O. 17 DE DICIEMBRE DE 2008.
 
@@ -714,3 +720,9 @@ P.O. 18 DE MAYO DE 2010
 Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
