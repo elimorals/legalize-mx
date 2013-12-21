@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-45519"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-22"
-last_updated: "2013-11-30"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-> <small>N. DE E. LA PROMULGACIÓN DEL 29 DE ABRIL DE 2010 DEL DECRETO 008 POR EL QUE SE PUBLICARON REFORMAS LA LEY DE HACIENDA DEL ESTADO DE TABASCO, AL NO HABER SIDO FIRMADO EL REFRENDO POR LOS ENTONCES SECRETARIOS DE GOBIERNO Y DE ADMINISTRACIÓN Y FINANZAS, PROCEDIERON A SUBSANARLA PARA PROVEER A SU ESTRICTO CUMPLIMIENTO EN TÉRMINOS DE LO ESTABLECIDO POR EL ARTÍCULO 53 DE LA CONSTITUCIÓN DEL ESTADO; POR LO QUE CON BASE EN LO FUNDADO Y MOTIVADO, PUBLICAN ÍNTEGRAMENTE EL DECRETO DE REFERENCIA.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 22 de junio de 2005.
 
@@ -69,7 +67,37 @@ La presente Ley será aplicada por el Ejecutivo del Estado, a través de la Secr
 
 Para los efectos de esta Ley se considera:
 
-I. Autoridad(es) Fiscal(es): El Gobernador del Estado, el Secretario de Administración y Finanzas, el Subsecretario de Ingresos, el Procurador Fiscal, el Director de Recaudación, el Director de Auditoría Fiscal, el Jefe de la Unidad de Ejecución Fiscal, los receptores de rentas, los notificadores ejecutores, los visitadores, los verificadores, los auditores, los demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Administración y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones. En este último caso, dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+I. Autoridad(es) Fiscal(es):
+
+a) El Gobernador del Estado;
+
+b) El Secretario de Planeación y Finanzas;
+
+c) El Subsecretario de Ingresos;
+
+d) El Procurador Fiscal;
+
+e) Los Directores Generales de la Subsecretaría de Ingresos;
+
+f) Los Directores de la Subsecretaría de. Ingresos;
+
+g) Los Directores de la Procuraduría Fiscal;
+
+h) Los Receptores de Rentas;
+
+i) Los Notificadores;
+
+j) Los Ejecutores;
+
+k) Los Visitadores;
+
+l) Los Verificadores;
+
+m) Los Auditores, y
+
+n) Los demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Planeación y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
 
 II. Secretaría: La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Tabasco;
 
@@ -102,6 +130,10 @@ Las autoridades fiscales del Estado ejercerán las facultades que esta Ley les o
 ###### ARTÍCULO 6.
 
 La Secretaría podrá ordenar el ejercicio de sus facultades de comprobación para constatar el debido cumplimiento de las obligaciones fiscales establecidas en esta Ley, sujetándose a las prevenciones relativas en el Código Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 6 BIS. El Órgano Superior de Fiscalización del Estado y la Secretaría de Contraloría, cada una en el ámbito de sus facultades, deberán realizar auditorías trimestrales y anualmente a la Secretaría de Planeación y Finanzas, para la verificación de la correcta administración de los recursos públicos obtenidos de conformidad con el artículo 1 de esta Ley.
 
 ###### ARTÍCULO 7.
 
@@ -147,7 +179,9 @@ c) Que el vehículo en cuestión circule con placas del Estado de Tabasco, aún 
 
 d) Que la documentación de pagos de otros impuestos y/o derechos a que esté afecto el vehículo de que se trate, haya sido tramitada ante autoridades domiciliadas en el Estado.
 
-El impuesto se causará aplicando la tasa del 5.0% sobre el valor de los muebles, siempre que dicha adquisición no esté gravada por el impuesto al valor agregado, tratándose de vehículos de fuerza automotriz la tasa será de 1.0%.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+El impuesto se causará aplicando la tasa del 5.0% sobre el valor de los muebles, siempre que dicha adquisición no esté gravada por el impuesto al valor agregado, tratándose de vehículos de fuerza automotriz la tasa será de 1.0% por cada traslado de dominio que conste en la factura.
 
 El valor de bien se estará al precio de operación fijado por los contratantes, salvo que éste fuera notoriamente inferior al valor real o comercial del bien; en este caso, la base gravable se estará al resultado de este último.
 
@@ -159,7 +193,9 @@ Para la recaudación de este impuesto se observarán las siguientes reglas:
 
 Las personas que lleven a cabo las operaciones traslativa (sic) a que este impuesto se refiere, deberán presentar, al efectuarse el acto, la factura original o comprobante que ampare la propiedad del bien mueble usado ante la Receptoría de Rentas o Agencia Recaudadora correspondiente y ésta procederá a efectuar el cobro del impuesto, expidiendo el recibo oficial respectivo y sellando la factura o comprobante, para hacer constar que el impuesto ha sido cubierto.
 
-Tratándose de vehículos, las autoridades de tránsito en el Estado, no darán trámite a ninguna solicitud de alta o baja si no se hubiere cubierto previamente el impuesto a que se refiere dicho capítulo, así como lo referente al pago de tenencia y derecho de placa.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de vehículos, las autoridades de tránsito en el Estado, no darán trámite a ninguna solicitud de alta o baja si no se hubiere cubierto previamente el impuesto a que se refiere dicho capítulo, así como lo referente al pago sobre Tenencia vehicular, impuesto Vehicular Estatal y Derecho de Placas.
 
 ###### ARTÍCULO 9.
 
@@ -449,9 +485,7 @@ IV. Presentar una sola declaración, cuando tengan varios establecimientos dentr
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 28 Bis.
-
-Las personas físicas o jurídicas colectivas, que contraten a su vez con otras personas físicas o jurídicas colectivas, la prestación de servicios que deban realizarse con trabajadores de estos últimos y cuyos domicilios estén ubicados fuera del territorio del Estado, deberán de retener y enterar el impuesto que corresponda pagar a sus contratados, siempre que el servicio personal se preste en el territorio del Estado, debiendo entregar por la retención la constancia respectiva.
+ARTÍCULO 28 BIS. Las personas físicas o jurídicas colectivas, que contraten a su vez con otras personas físicas o jurídicas colectivas, la prestación de servicios que deban realizarse con trabajadores de estos últimos y cuyos domicilios estén ubicados fuera del territorio del Estado, deberán de retener y enterar el impuesto que corresponda pagar a sus contratados, siempre que el servicio personal se preste en el territorio del Estado, debiendo entregar por la retención la constancia respectiva.
 
 #### SECCIÓN CUARTA. DE LAS EXENCIONES Y NO SUJECIONES
 
@@ -835,7 +869,9 @@ inferior
 
 Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
 
-II.- Tratándose de vehículos terrestres destinados al transporte de más de quince pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas, vehículos terrestres que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", vehículos terrestres eléctricos o híbridos y camionetas “pick up”, el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+II.- Tratándose de vehículos terrestres destinados al transporte de más de quince pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas, vehículos terrestres que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", "moto taxis", vehículos terrestres eléctricos o híbridos y camionetas "pick up", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo.
 
 III.- Tratándose de vehículos terrestres, cuyo peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
 
@@ -1051,15 +1087,25 @@ Para los efectos de este artículo, los años de antigüedad se calcularán con 
 
 #### SECCIÓN CUARTA. DEL PAGO Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 53 F. Los sujetos pasivos de la relación jurídico tributaria pagarán mediante declaración o por los medios que al efecto establezca la Secretaría para facilitar su pago, el impuesto por año calendario durante los cuatro primeros meses de cada año, salvo en el caso de vehículos nuevos, en el que el impuesto deberá calcularse y enterarse dentro de los 10 días naturales siguientes a los supuestos de enajenación o importación definitiva a que se refiere el artículo 53-H fracción VIII de la presente Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-ARTÍCULO 53 F. Los sujetos pasivos de la relación jurídico tributaria pagarán mediante declaración o por los medios que al efecto establezca la Secretaría para facilitar su pago, el impuesto por año calendario durante los cuatro primeros meses de cada año, salvo en el caso de vehículos nuevos, en el que el impuesto deberá calcularse y enterarse dentro de los 3 días naturales siguientes a los supuestos de enajenación o importación definitiva a que se refiere el artículo 53-H fracción VIII de la presente Ley.
-
 En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación del presente capítulo de esta Ley, se pagará el importe correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 En caso que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este capítulo, se pagará como si éste fuese nuevo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
 
@@ -1361,17 +1407,49 @@ Queda estrictamente prohibido a los oficiales y demás servidores públicos del 
 
 #### SECCIÓN TERCERA
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 57.
 
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
+Por los servicios relacionados con la Coordinación de Protección Civil, se causarán y pagarán los derechos siguientes:
+
+I. Autorización de registros a organizaciones civiles, empresas capacitadoras e instructores independientes en materia de protección civil.
+
+100.0 D.S.M.G.V.
+
+II. Renovación registros a organizaciones civiles, empresas capacitadoras e instructores independientes en materia de protección civil.
+
+100.0 D.S.M.G.V.
+
+III. Autorización para certificación de medidas de seguridad en establecimientos públicos o privados de nueva creación o que se encuentren operando.
+
+50.0 D.S.M.G.V.
+
+IV. Cursos de capacitación, adiestramiento y actualización en materia de protección civil que se imparten al personal de los establecimientos de nueva creación o que se encuentren operando, sean estos públicos o privados, por persona:
+
+a) Curso básico de primeros auxilios. 8.0 D.S.M.G.V.
+
+b) Curso de prevención y control de incendios. 8.0 D.S.M.G.V.
+
+e) Curso de simulacro de evacuación. 8.0 D.S.M.G.V.
+
+d) Curso de brigadas internas de protección civil. 8.0 D.S.M.G.V.
+
+e) Curso de señales y avisos para la protección civil. 8.0 D.S.M.G.V.
+
+f) Curso de antecedentes del SINAPROC. 8.0 D.S.M.G.V.
+
+g) Curso de tipos de riesgos que afectan a la población. 8.0 D.S.M.G.V.
 
 #### SECCIÓN CUARTA
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 58.
 
-Por los servicios relacionados con el Registro Público de la Propiedad y del Comercio, se causarán y pagarán los derechos siguientes:
+Por los servicios relacionados con el Instituto Registral del Estado de Tabasco, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 I. Toda traslación de dominio de bienes muebles, inmuebles o derechos reales:
 
@@ -1391,15 +1469,21 @@ no comprendidos en el inciso anterior. 180.0 D.S.M.G.V.
 
 La misma cuota se pagará cuando provenga de resoluciones judiciales o administrativas.
 
-Sin embargo, el contribuyente sujeto a esta contribución, podrá solicitar por escrito y manifestando su más estricto consentimiento, que ésta se calcule mediante la aplicación de la tasa del 1% sobre el valor catastral del inmueble.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 c) Tratándose de bienes muebles en
 
 todos los casos. 20.0 D.S.M.G.V.
 
-d) Las rectificaciones de actos o
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-contratos ya inscritos. 4.0 D.S.M.G.V.
+d) Las rectificaciones de actos o contratos
+
+ya inscritos, la ratificación y reinscripción,
+
+las notas marginales y los contratos preparatorios,
+
+por cada acto. 4.0 D.S.M.GV
 
 e) La inscripción de matrícula de la
 
@@ -1411,27 +1495,45 @@ sociedades civiles, asociaciones civiles
 
 o fundaciones. 16 D.S.M.G.V.
 
-f) La inscripción de los contratos de venta
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-con reserva de dominio de vehículos
+f) Protocolización de actas de asambleas
 
-automotores. 16 D.S.M.G.V.
+o decisiones de los órganos de administración
+
+de Sociedades Civiles. 16.0 D.S.M.G.V
 
 g) El registro de prescripción positiva. 11.0 D.S.M.G.V.
 
 h) Las donaciones. 180.0 D.S.M.G.V.
 
-Sin embargo, el contribuyente sujeto a esta contribución, podrá solicitar por escrito y manifestando su más estricto consentimiento, que ésta se calcule mediante la aplicación de la tasa del 1%; en cuyo caso, no será aplicable el estímulo fiscal previsto en el artículo 3, fracción IV, segundo párrafo, de esta Ley.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 i) La disolución de mancomunidad, por
 
 cada nuevo predio inscrito. 3.0 D.S.M.G.V.
 
-j) Por contratos de fideicomiso, fianza,
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-y cualquier otro contrato innominado o
+j) Por inscripción de contratos de fideicomiso,
 
-atípico. 32 D.S.M.G.V.
+fianza, y cualquier otro contrato innominado
+
+o atípico. 32 D.S.M.GV.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+k) Cancelación de las inscripciones derivadas
+
+de los contratos de fideicomiso, fianza, y cualquier
+
+otro contrato innominado o atípico 10 D.S.M.G.V.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+l) La inscripción de los contratos de venta con reserva de dominio de vehículos automotores 16.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 II. Instrumentos hipotecarios:
 
@@ -1439,13 +1541,9 @@ a) Por la inscripción de documentos
 
 hipotecarios: 100.0 D.S.M.G.V.
 
-b) Por la cancelación de hipoteca,
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-embargo, fideicomiso o crédito; y la
-
-extinción de usufructo o poder, por
-
-cada uno. 6.0 D.S.M.G.V.
+b) Por la cancelación de hipoteca, fideicomiso o crédito; y la extinción de usufructo, o poder, por cada uno. 6.0 D.S.M.G.V.
 
 c) La prórroga de hipoteca, si no
 
@@ -1455,11 +1553,21 @@ d) Ampliación de hipoteca, por su
 
 registro 62.0 D.S.M.G.V.
 
-III. Embargos: 100.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+III. Embargos:
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+a) Inscripción 100.0 D.S.M.G.V
 
 Sin embargo, el contribuyente sujeto a esta contribución, podrá solicitar por escrito y manifestando su más estricto consentimiento, que ésta se calcule mediante la aplicación de la tasa del 3% sobre el importe del embargo.
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 IV. Prendas. 21.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 V. Testamentos. 2.0 D.S.M.G.V.
 
@@ -1469,9 +1577,15 @@ todos los testamentos por derecho de
 
 inscripción 1.0 D.S.M.G.V.
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 VI. Declaración de herederos. 6.0 D.S.M.G.V.
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 VII. Usufructo. 6.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 VIII. Por la inscripción de escrituras o
 
@@ -1479,11 +1593,15 @@ documentos que contengan contratos
 
 conyugales o su disolución. 62.0 D.S.M.G.V.
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 IX. Transacciones o sentencias que
 
 afecten el dominio de los bienes inmuebles
 
 o derechos reales. 62.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 X. Resoluciones judiciales de transacciones
 
@@ -1493,6 +1611,8 @@ ausencia, así como la presunción de muerte
 
 de una persona. 11.0 D.S.M.G.V.
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 XI. Por el registro de escrituras o
 
 documentos que contengan la partición
@@ -1501,13 +1621,17 @@ judicial de bienes hereditarios o la
 
 protocolización de los mismos 62.0 D.S.M.G.V.
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 XII. Por el registro de obra nueva 32.0 D.S.M.G.V.
 
-XIII. Por el registro de escrituras de
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-protocolización de fraccionamiento, por
+XIII. Por el registro de escrituras de protocolización
 
-cada lote. 3.0 D.S.M.G.V.
+de fraccionamiento por cada lote. 5.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XIV. Inscripciones mercantiles:
 
@@ -1543,21 +1667,31 @@ d) Por el registro y renovación de poderes
 
 generales. 11.0 D.S.M.G.V.
 
-e) El registro de protocolización de actas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-de sociedades mercantiles, contratos de
+e) Revocación o renuncia de poderes. 10.0 D.S.M.G.V.
 
-corresponsalía y actas de asamblea y
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-balances de sociedades mercantiles, por
+f) El registro de protocolización de actas de
 
-cada acto. 11.0 D.S.M.G.V.
+sociedades mercantiles, contratos de corresponsalía
+
+y actas de asambleas y balances de sociedades
+
+mercantiles, por cada acto. 11.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XV. Cédulas hipotecarias. 12.0 D.S.M.G.V.
 
-XVI. Certificados de no propiedad para la
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-liquidación de crédito de vivienda. 3.0 D.S.M.G.V.
+XVI. Certificados o constancias de no propiedad
+
+registrada. 3.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XVII. Certificado de libertad o existencia
 
@@ -1565,39 +1699,129 @@ de gravamen con o sin certificación de
 
 superficie y/o historia registral, por predio. 6.0 D.S.M.G.V.
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 XVIII. Por reingreso de la solicitud cuando
 
 el asiento Registral haya sido denegado 3.0 D.S.M.G.V.
 
-XIX. Los demás documentos no
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-comprendidos en este artículo. 11.0 D.S.M.G.V.
+XIX.- Certificado de Historia Registral o traslativa de dominio:
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+a).- Hasta 5 años 7.0 D.S.M.G.V.
 
-ARTÍCULO 58 A. Los servidores públicos encargados de las oficinas del Registro Público de la Propiedad y del Comercio expedirán previas las formalidades de la ley, las copias certificadas de las escrituras de los volúmenes que se encuentren en los archivos y que los interesados solicitaren con relación a la tarifa de 5.0 D.S.M.G.V. por cada testimonio librado.
+b).- De 6 a 10 años 10.0 D.S.M.G.V.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+c) A partir de 11 años 15.0 D.S.M.G.V.
 
-ARTÍCULO 58 B. Las inscripciones en el Registro Público de la Propiedad y del Comercio de los créditos hipotecarios, refaccionarios y de habilitación o avío, que soliciten las instituciones y organizaciones auxiliares de crédito o los organismos públicos federales, así como su cancelación pagarán:
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-Por cada acto 5.0 D.S.M.G.V.
+XX.- Los demás documentos no comprendidos
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+en este artículo 11.0 D.S.M.G.V.
 
-ARTÍCULO 58 C Los magistrados, jueces y demás funcionarios que expidan copias de sentencias o actos que deban ser registrados, quedan sujetos a las disposiciones que establece el Código Fiscal del Estado para los notarios y encargados del Registro Público de la Propiedad y del Comercio respectivamente, y por ende, a las sanciones correspondientes, si antes el interesado no presenta el comprobante de pago oficial autorizado por las autoridades fiscales.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+ARTÍCULO 58 A. Los servidores públicos encargados de las Oficinas Registrales del Instituto Registral del Estado de Tabasco expedirán previo las formalidades de la ley, las copias certificadas de las escrituras de los volúmenes que se encuentran en los archivos y que los interesados solicitaren con relación a la tarifa de 5.0 D.S.M.V. por cada .testimonio librado.
 
-ARTÍCULO 58 D. El personal adscrito al Registro Público de la Propiedad y del Comercio, que expida documentos en uso de sus atribuciones, deberán exigir al solicitante, el comprobante que se han satisfecho al erario estatal, los derechos correspondientes, anotando el numero de recibo oficial; quienes infrinjan esta disposición, serán sancionados conforme al Código Fiscal del Estado, sin perjuicio de las sanciones y responsabilidades a las que se hiciera acreedor, según la gravedad del caso.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-#### SECCIÓN ÚNICA
+ARTÍCULO 58 B. Las inscripciones en el Instituto Registral del Estado de Tabasco de los créditos hipotecarios, refaccionarios y de habilitación o avío, que soliciten las instituciones y organizaciones auxiliares de crédito o los organismos públicos federales, así como su cancelación pagarán:
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+Por cada acto. 5.0 D.S.M.GV.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 58 C. Por los servicios digitales de consulta que preste el Instituto Registral del Estado de Tabasco o sus Oficinas Registrales, se pagarán:
+
+I.- Por cada certificado de inexistencia
+
+de bienes solicitado en las oficinas; o a
+
+través de la red electrónica mundial, o
+
+en centros digitales de trámites y servicio. 5.0 D.S.M.G.V.
+
+Cuando en un mismo instrumento se consignen diversos actos, a cada uno de estos se aplicará la tarifa que corresponda.
+
+II.- Consulta vía internet de índices e inscripciones contenidos en los archivos:
+
+a) Por mes 13.00 D.S.M.G.V.
+
+b) Por año 130.00 D.S.M.G.V.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 58 D. Los magistrados; jueces, notarios o corredores y demás funcionarios que expidan copias de sentencias, testimonios o actos que deban ser registrados, quedan sujetos a las disposiciones que establece el Código Fiscal del Estado para los notarios y encargados del Registro Público de la Propiedad y del Comercio respectivamente, y por ende, a las sanciones correspondientes, si antes el interesado no presenta el comprobante de pago oficial autorizado por las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 58 E. El personal adscrito al Instituto Registral del Estado de Tabasco, que expida documentos en uso de sus atribuciones, deberán exigir al solicitante, el comprobante que se han satisfecho al erario estatal, los derechos correspondientes, anotando el número de recibo oficial; quienes infrinjan esta disposición, serán sancionados conforme al Código Fiscal del Estado, sin perjuicio de las sanciones y responsabilidades a las que hiciera acreedor, según la gravedad del caso.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN QUINTA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 58 F. Por los servicios relacionados con la Coordinación Estatal para la Regularización de la Tenencia de la Tierra se causarán y pagarán los derechos siguientes:
+
+I - Por la expedición de Títulos de Propiedad
+
+a) 105.00M2 a 500.00.M2 5.0 D.S.
+
+b) 501.00M2 a 1000.00 M2 7.0 D.S.
+
+c) 1001.00M2 a 1500.00 M2 10.0 D.S
+
+d) 1501.00M2 a 2000.00 M2 12.0 D.S
+
+e) 2001.00M2 a 2500.00 M2 14.0 D.S
+
+f) 2501.00M2 a 3000.00 M2 17.0 D.S
+
+g) 3001.00M2 a 6000.00 M2 20.0 D.S
+
+h) 6001.00M2 a 1 hectárea 22.0 D.S
+
+i) 1 hectárea a 5 hectáreas 25.0 D.S
+
+j) 5 hectáreas a 10 hectáreas 27.0 D.S
+
+k) 10 hectáreas a 15 hectáreas 30.0 D.S
+
+l) 15 hectáreas a 20 hectáreas 32.0 D.S
+
+II.- Por la asistencia técnica consistente en asesoría y servicio topográfico y cartográfico:
+
+a) 105.00M2 a 500.00 M2 3.0 D.S.M.G.V.
+
+b) 501.00M2 a 1000.00 M2 5.0 O.S.M.G.V.
+
+c) 1001.00M2 a 1500.00 M2 7.0 D.S.M.G.V.
+
+d) 1501.00M2 a 2000.00 M2 9.0 D.S.M.G.V.
+
+e) 2001.00M2 a 2500.00 M2 11.0 D.S.M.G.V.
+
+f) 2501.00M2 a 3000.00 M2 13.0 D.S.M.G.V.
+
+g) 3001.00M2 a 6000.00 M2 15.0 D.S.M.G.V.
+
+h) 6001.00M2 a 1 hectárea 17.0 D.S.M.G.V.
+
+i) 1 hectárea a 5 hectáreas 40.0 D.S.M.G.V.
+
+j) 5 hectáreas a 10 hectáreas 65.0 D.S.M.G.V.
+
+k) 10 hectáreas a 15 hectáreas 73.0 D.S.M.G.V.
+
+l) 15 hectáreas a 20 hectáreas 31.0 D.S.M.G.V.
 
 ### CAPÍTULO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-#### SECCIÓN PRIMERA
+#### SECCIÓN ÚNICA
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -1845,9 +2069,7 @@ traslado foráneo. 0.11 D.S.M.G.V.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 59 Bis.
-
-Por los servicios relacionados con tránsito vehicular y la Policía Estatal de Caminos, se causarán y pagarán los derechos siguientes:
+ARTÍCULO 59 BIS. Por los servicios relacionados con tránsito vehicular y la Policía Estatal de Caminos, se causarán y pagarán los derechos siguientes:
 
 I.- Por expedición y reposición de licencia para conducir de dos años:
 
@@ -1911,73 +2133,21 @@ setenta y dos horas. 5.0 D.S.M.G.V.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 59 Ter.
-
-Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones, remoción de vehículo o movimiento de éste, el propietario del vehículo pagará el derecho de grúa, conforme a lo siguiente:
+ARTÍCULO 59 TER. Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones, remoción de vehículo o movimiento de éste, el propietario del vehículo pagará el derecho de grúa, conforme a lo siguiente:
 
 a) por los primeros 25 kilómetros 8.0 D.S.M.G.V.
 
 b) por cada kilómetro o fracción siguiente 0.25 D.S.M.G.V.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+ARTÍCULO 59 QUÁTER. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
-###### ARTÍCULO 59 Quáter.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-Por los servicios relacionados con la Dirección General de Protección Civil, se causarán y pagarán los derechos siguientes:
+### CAPITULO CUARTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE PLANEACIÓN Y FINANZAS
 
-I. Autorización de registros a organizaciones
+#### SECCIÓN PRIMERA
 
-civiles, empresas capacitadoras e instructores
-
-independientes en materia de
-
-protección civil. 100.0 D.S.M.G.V
-
-II. Renovación (sic) registros a organizaciones
-
-civiles, empresas capacitadoras e
-
-instructores independientes en materia de
-
-protección civil. 100.0 D.S.M.G.V
-
-III. Autorización para certificación de
-
-medidas de seguridad en establecimientos
-
-públicos o privados de nueva creación o que
-
-se encuentren operando. 50.0 D.S.M.G.V
-
-IV. Cursos de capacitación, adiestramiento y actualización en materia de protección civil que se imparten al personal de los establecimientos de nueva creación o que se encuentren operando, sean estos públicos o privados, por persona:
-
-a) Curso básico de primeros auxilios. 8.0 D.S.M.G.V
-
-b) Curso de prevención y control de
-
-incendios. 8.0 D.S.M.G.V
-
-c) Curso de simulacro de evacuación. 8.0 D.S.M.G.V
-
-d) Curso de brigadas internas de
-
-protección civil. 8.0 D.S.M.G.V
-
-e) Curso de señales y avisos para la
-
-protección civil. 8.0 D.S.M.G.V
-
-f) Curso de antecedentes del SINAPROC. 8.0 D.S.M.G.V
-
-g) Curso de tipos de riesgos que afectan
-
-a la población. 8.0 D.S.M.G.V.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-### CAPÍTULO CUARTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
-
-#### SECCIÓN SEGUNDA
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 60.
 
@@ -2019,9 +2189,7 @@ cada establecimiento: 100 D.S.M.G.V.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
-#### SECCIÓN TERCERA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+#### SECCIÓN SEGUNDA
 
 ###### ARTÍCULO 66.
 
@@ -2247,7 +2415,9 @@ XXV. Por consulta de valor catastral de zona,
 
 por calle. 1.0 D.S.M.G.V.
 
-#### SECCIÓN CUARTA
+#### SECCIÓN TERCERA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 67.
 
@@ -2269,21 +2439,35 @@ Ultramarino. 1750.0 D.S.M.G.V.
 
 Distribuidora 2500.0 D.S.M.G.V.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Tienda de Conveniencia 2000 D.S.M.G.V.
+
 b) En envase abierto:
 
 Bar. 2500.0 D.S.M.G.V.
 
 Bar con presentación de espectáculos. 3500.0 D.S.M.G.V.
 
-Cantina. 2000.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-Cabaret. 3500 D.S.M.G.V.
+Casino 9,000 D.S.M.G.V.
 
-Cervecería. 2000.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-Centro de espectáculos. 2000.0 D.S.M.G.V.
+Centro de Espectáculos 2000 D.S.M.G.V
 
-Cocktelería. 2000.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Club deportivo 4,500 D.S.M.G.V
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Desarrollo turístico y recreativo 4000 D.S.M.G.V
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Fábrica de bebidas alcohólicas 10,000 D.S.M.G.V.
 
 Discoteca. 3500.0 D.S.M.G.V.
 
@@ -2297,23 +2481,13 @@ Salón de baile. 2000.0 D.S.M.G.V.
 
 Cuando la expedición de la licencia sea con vigencia de más de un año, a la cantidad que resulte de la expedición de la licencia con vigencia de un año, el pago de los derechos se incrementarán en un 15.0% por cada uno de los años subsecuentes, en cada uno de los giros que se señalan en esta fracción.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-II. Por el refrendo anual de la licencia, en
+II. Por el refrendo anual de la licencia, en cualquiera
 
-cualquiera de los giros establecidos en
+de los giros establecidos en la Ley. 300.0 D.S.M.G.V.
 
-la Ley. 100.0 D.S.M.G.V.
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-III. Por la revalidación de la licencia por un
-
-año, en cualquiera de los giros establecidos
-
-en la Ley. 200.0 D.S.M.G.V.
-
-Cuando la revalidación de la licencia, se Realice por cinco años se pagarán 900 D.S.M.G.V.
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -2321,11 +2495,33 @@ IV. Por el cambio de domicilio en cualquiera de
 
 Los giros establecidos en Ley. 600.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-V. Permiso para el funcionamiento temporal 100.0 D.S.M.G.V.
+V. Permisos para el Funcionamiento Temporal:
 
-El citado permiso tendrá una duración máxima de 15 días, y será renovable por única ocasión previo pago de los derechos que establece esta fracción.
+Permiso para stand en Playa por día: 25.0 D.S.M.G.V.
+
+Permiso temporal en ejidos, ranchería, poblados,
+
+villas o localidades pequeñas, por día: 20.0 D.S.M.G.V.
+
+Permiso temporal en ferias por día:
+
+a) De 3 m2 hasta 25 m2: 20.0 D.S.M.G.V.
+
+b) De 26 m2 a 50 m2: 40. 0 D.S.M.G.V.
+
+c) De 51 m2 en adelante: 70.0 D.S.M.G.V.
+
+Permiso temporal en cabeceras municipales,
+
+por día: 50.0 D.S.M.G.V.
+
+Permiso temporal para eventos masivos, por día: 250.0 D.S.M.G.V.
+
+Permiso temporal para degustación de bebidas
+
+alcohólicas: 50.0 D.S.M.G. V.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -2355,7 +2551,13 @@ X. Por autorización de cambio de titular de
 
 Una licencia. 1,500.0 D.S.M.G.V.
 
-#### SECCIÓN QUINTA
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XI.- Por autorización de cambio de titular de una
+
+licencia por fallecimiento. 200.00 D.S.M.G.V.
+
+#### SECCIÓN CUARTA
 
 ###### ARTÍCULO 68.
 
@@ -2399,29 +2601,7 @@ VI. Por baja de vehículos de servicio
 
 particular. 5.0 D.S.M.G.V.
 
-#### SECCIÓN SEXTA
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 70 Bis.
-
-Por los servicios relacionados con vehículos nuevos no enajenados se causarán y pagarán los derechos siguientes:
-
-I. Por la emisión, canje o reposición
-
-de juegos de placas de demostración
-
-para vehículos nuevos, incluyendo
-
-tarjeta de circulación. 10.0 D.S.M.G.V.
-
-II. Por el uso anual del sistema
-
-informático para la expedición
-
-de permisos para vehículos en
-
-traslado. 100.0 D.S.M.G.V.
+#### SECCIÓN QUINTA
 
 ###### ARTÍCULO 69.
 
@@ -2453,25 +2633,59 @@ y enmicado de la tarjeta de circulación para
 
 vehículo de servicio público. 10.0 D.S.M.G.V.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+IV. Por emisión de placa y tarjeta de circulación para:
+
+a) motocicletas "moto taxi" 5.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+V. Por el refrendo bianual de placa de circulación,
+
+tarjeta de circulación y calcomanía de “moto taxis" 3.0 D.S.M.G.V.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 70.
 
 Para el pago de los derechos a que se refieren los artículos 68, fracción V y 69, fracción III, de esta Ley se observará, lo siguiente:
 
-I. Tratándose de canje de periodo general de placas de circulación, los derechos correspondientes deberán pagarse a más tardar, el último día del mes de marzo de cada año para el que se realice el canje.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-II. Tratándose de refrendo anual de tarjetas de circulación y calcomanías de automóviles, camiones, camionetas, tractores, automotores, remolque, semirremolques y otros vehículos, los derechos correspondientes deberán pagarse a más tardar el último día del mes de marzo de cada año para el que se realice el refrendo.
+I. Tratándose de canje de periodo general de placas de circulación, los derechos correspondientes deberán pagarse a más tardar, el último día del mes de abril de cada año para el que se realice el canje.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+II. Tratándose de refrendo anual de tarjetas de circulación y calcomanías de automóviles, camiones, camionetas, tractores, automotores, remolque, semirremolques y otros vehículos, los derechos correspondientes deberán pagarse a más tardar el último día del mes de abril de cada año para que se realice el refrendo.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-#### SECCIÓN ÚNICA
+#### SECCIÓN SEXTA
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 70 BIS. Por los servicios relacionados con vehículos nuevos no enajenados se causarán y pagarán los derechos siguientes:
+
+I. Por la emisión, canje o reposición
+
+de juegos de placas de demostración
+
+para vehículos nuevos, incluyendo
+
+tarjeta de circulación. 10.0 D.S.M.G.V.
+
+II. Por el uso anual del sistema
+
+informático para la expedición
+
+de permisos para vehículos en
+
+traslado. 100.0 D.S.M.G.V.
 
 ### CAPÍTULO QUINTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN DEL ESTADO
 
 #### SECCIÓN ÚNICA
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 71.
 
@@ -2635,27 +2849,15 @@ secundaria y capacitación para el trabajo. 0.2 D.S.M.G.V.
 
 3. Educación superior. 1.0 D.S.M.G.V.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO SEXTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL
+### CAPITULO SEXTO
+
+POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL.
 
 #### SECCIÓN ÚNICA
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 72 Bis.
-
-Por los servicios prestados por la Procuraduría General de Justicia del Estado, se causarán y pagarán los siguientes derechos:
-
-I.- Por la expedición de certificado de
-
-legalidad de cada vehículo para el
-
-otorgamiento de concesión de servicio
-
-público de transporte. 20 D.S.M.G.V.
-
-> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 72.
 
@@ -2681,55 +2883,67 @@ estudios de impacto ambiental, modalidad
 
 informe preventivo. 50.0 D.S.M.G.V.
 
-d) Por la recepción, evaluación y emisión
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-del documento relacionado con el estudio
+d). Por la recepción, revisión y resolución de
 
-en materia de riesgo ambiental. 100.0 D.S.M.G.V.
+estudio de riesgo ambiental 120.0 D.S.M.G.V.
 
-e) Por la modificación de vigencia de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-resoluciones en materia de impacto y
+e). Por la modificación de vigencia de resoluciones
 
-riesgo ambiental e informe preventivo. 100.0 D.S.M.G.V.
+(renovación) en materia de impacto y riesgo ambiental
 
-f) Por las modificaciones de términos y
+e informe preventivo. 100.0 D.S.M.G.V.
 
-condicionantes de resoluciones en materia
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-de impacto y riesgo ambiental. 20.0 D.S.M.G.V.
+f). Por cualquier modificación de resolutivos o cesión
+
+o transferencia de titularidad de autorizaciones,
+
+o modificación de proyectos, en materia de impacto
+
+y riesgo ambiental e informe preventivo. 50.0 G.S.M.G.V.
 
 g) Por la solicitud de exención de
 
 evaluación del impacto ambiental. 5.0 D.S.M.G.V.
 
-h) Por la autorización para personas físicas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-o jurídico colectivas, para elaborar informes
+h). Por la autorización o renovación de autorización
 
-preventivos, manifestaciones de impacto
+para personas físicas o jurídico colectivas, para
 
-ambiental, estudios de riesgo, evaluación
+elaborar informes preventivos, manifestaciones de
 
-de daños y programa de prevención de
+impacto ambiental, estudios de riesgo ambiental,
 
-accidentes. 40.0 D.S.M.G.V.
+evaluación de daños ambientales y programa de
+
+prevención de accidentes. 40.0 D.S.M.G.V.
 
 II. Derechos por trámites en materia de aprovechamiento de recursos naturales de competencia del Estado.
 
-a) Por el aprovechamiento y extracción de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-recursos naturales de competencia estatal,
+a) Por el aprovechamiento y extracción de recursos
 
-material pétreo (grava, por metro cúbico). 0.30 D.S.M.G.V.
+naturales de competencia estatal, material pétreo
 
-b) Por el aprovechamiento y extracción de
+(grava, por metro cúbico) 0.18 D.S.M.G.V.
 
-recursos naturales por competencia estatal
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-(arena, arcilla, suelo o cualquier otro material,
+b) Por el aprovechamiento y extracción de recursos
 
-por metro cúbico). 0.20 D.S.M.G.V.
+natrales (sic) por competencia estatal (arena,
+
+arcilla, suelo o cualquier otro material, por
+
+metro cúbico). 0.10 D.S.M.G.V.
 
 III. Derechos por trámites en materia de manejo integral de residuos de manejo especial.
 
@@ -2745,55 +2959,67 @@ la realización del protocolo de pruebas
 
 residuos de manejo especial. 60.0 D.S.M.G.V.
 
-c) Por la disposición final de residuos de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-manejos (sic) especial en sitios autorizados
+c) Por la disposición final de residuos de manejo
 
-por tonelada. 1.0 D.S.M.G.V.
+especial en sitios de disposición final autorizada
 
-d) Por la prórroga de la vigencia de la
+por tonelada 0.3 D.S.M.G.V.
 
-autorización en materia de residuos de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-manejos (sic) especial (incluyendo
+d) Por la prorroga (renovación) de la vigencia o,
 
-modificaciones). 75.0 D.S.M.G.V.
+modificaciones o, transferencia de derechos y
 
-e) Por la autorización para la prestación de
+obligaciones de autorizaciones de residuos de
 
-servicio del manejo de residuos de manejo
+manejo especial (el costo es por cada concepto). 100 D.S.M.G.V.
 
-especial (más de 2 actividades). 500.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-f) Por la autorización de utilización de
+e) Por la autorización para la prestación de servicios
 
-residuos de manejo especial en procesos
+de manejos de residuos de manejo especial
 
-productivos. 100.0 D.S.M.G.V.
+(más de 3 actividades). 500 D.S.M.G.V.
 
-g) Por la autorización para la recolección y/o
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-acopio de residuos de manejo especial. 100.0 D.S.M.G.V.
+f) Por la autorización para la recolección y/o
+
+acopio de residuos de manejo especial 100 D.S.M.G.V.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+g) Por la autorización de residuos de manejo
+
+especial 150 D.S.M.G.V.
 
 h) Por la autorización para el transporte de
 
 residuos de manejo especial. 150.0 D.S.M.G.V.
 
-i) Por la autorización para el tratamiento de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-residuos de manejo especial. 150.0 D.S.M.G.V.
+i) Por la autorización para el ingreso al Estado de
 
-j) Por la autorización para el establecimiento
+residuos de manejo especial 150 D.S.M. G.V.
 
-de confinamientos dentro de las instalaciones
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-en donde se manejen residuos de manejo
+j) Por la autorización para la reutilización, reciclaje
 
-especial. 100.0 D.S.M.G.V.
+y/o utilización en procesos productivos de residuos
 
-k) Por la autorización para transferir los
+de manejo especial. 100 D.S.M.G.V.
 
-derechos y obligaciones. 100.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+k) Por la autorización para el almacenamiento
+
+temporal de residuos de manejo especial 150 D.S.M.G.V.
 
 l) Por la autorización para la utilización en
 
@@ -2801,17 +3027,19 @@ tratamientos térmicos o incineración de
 
 residuos de manejo especial. 66.0 D.S.M.G.V.
 
-m) Por la autorización para el ingreso al
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-Estado de residuos de manejo especial por
+m) Por la operación de centros de acopio de residuos
 
-toneladas. 1.0 D.S.M.G.V.
+de manejo especial 100 D.S.M.G.V.
 
-n) Por la autorización para la reutilización y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-reciclaje de residuos de manejo especial. 66.0 D.S.M.G.V.
+n) Por el Registro de Plan de Manejo de residuos
 
-o) Por la autorización para el almacenamiento
+de manejo especial 30 D.S.M.G.V.
+
+o) (sic) Por la autorización para el almacenamiento
 
 de residuos de manejo especial. 100.0 D.S.M.G.V.
 
@@ -2827,31 +3055,19 @@ la licencia de funcionamiento en materia de
 
 emisiones a la atmósfera. 100.0 D.S.M.G.V.
 
-b) Por la actualización de la licencia de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-funcionamiento en materia de emisiones
+b) Por la actualización de la licencia de funcionamiento
 
-a la atmósfera, por cualquier cambio en el
+en materia de emisiones a la atmósfera. 70 D.S.M.G.V.
 
-proceso de producción o de prestación de
-
-servicios. 50.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 c) Por la recepción de la cédula de operación
 
-anual (pago anual contando con la licencia
+anual (COA y COA-RETCE). 30 D.S.M.G.V.
 
-de funcionamiento). 30.0 D.S.M.G.V.
-
-d) Por la expedición de permiso de
-
-funcionamiento temporal, para fuentes
-
-fijas emisoras a la atmósfera que
-
-permanezcan en operación un término
-
-no mayor de 60 días naturales. 30 D.S.M.G.V.
+d) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 V.- Derechos por actividades dentro de áreas naturales protegidas:
 
@@ -2899,17 +3115,63 @@ actividades de monitoreo ambiental: 15.0 D.S.M.G.V.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 72 Ter.
+ARTÍCULO 72 BIS. Por los servicios prestados por la Procuraduría General de Justicia del Estado, se causarán y pagarán los siguientes derechos:
 
-Por los servicios prestados por la Secretaría de Desarrollo Económico, se causarán y pagarán los siguientes derechos:
+I.- Por la expedición de certificado de
 
-I.- Por la búsqueda y expedición de
+legalidad de cada vehículo para el
 
-cada documento que contenga
+otorgamiento de concesión de servicio
 
-información relativa al Registro
+público de transporte. 20 D.S.M.G.V.
 
-Estatal de Agentes Inmobiliarios. 4.0 D.S.M.G.V.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+II.- Por el rastreo y expedición de certificado
+
+de no reporte de robo de los vehículos que
+
+circulen en el Estado que se le requieran
+
+para los diversos usos legales respectivos 10 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+III.- Por la expedición de copias certificadas de
+
+diversos documentos que tenga facultad para emitir
+
+el Ministerio Público 2 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+IV.- Por los avalúos y peritajes que emitan los
+
+peritos de la Procuraduría General de Justicia,
+
+que no vayan a formar parte como criterios orientadores
+
+para el Ministerio Público dentro de una Averiguación
+
+Previa o Actas Ministeriales y que sean solicitados
+
+en auxilio de otras dependencias de la Administración
+
+Pública 20 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+V.- Por la expedición de copias certificadas de
+
+certificados y dictámenes médicos-forense 2 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VI.- Por el tiempo que se use el estacionamiento
+
+de vehículos afectos a las averiguaciones previas
+
+y actas ministeriales 1 D.S.M.G.V.
 
 > <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -2921,9 +3183,27 @@ Estatal de Agentes Inmobiliarios. 4.0 D.S.M.G.V.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 72 Quáter.
+ARTÍCULO 72 TER. Por los servicios prestados por la Secretaría de Desarrollo Económico, se causarán y pagarán los siguientes derechos:
 
-Por los servicios relacionados con el transporte público,
+I.- Por la búsqueda y expedición de
+
+cada documento que contenga
+
+información relativa al Registro
+
+Estatal de Agentes Inmobiliarios. 4.0 D.S.M.G.V.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO SEXTO QUÁTER. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN ÚNICA
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 72 QUÁTER. Por los servicios relacionados con el transporte público,
 
 se causarán y pagarán los derechos siguientes:
 
@@ -3037,7 +3317,17 @@ de transporte, por cada vehículo, por mes. 10.0 D.S.M.G.V.
 
 d) Reexpedición de oficios de autorización. 5.0 D.S.M.G.V.
 
-e) Tarjeta de identificación (Gafete) anual. 8.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+e) Tarjeta de Identificación por un año 8 D.S.M.G.V
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+(a) Tarjeta de identificación por 2 años 14 D.S.M.G.V
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+(b) Tarjeta de Identificación por 3 años 23 D.S.M.G.V
 
 f) Permiso para el servicio de transporte
 
@@ -3117,12 +3407,6 @@ elaboración de las constancias a que se
 
 refieren las fracciones anteriores 5.0 D.S.M.G.V.
 
-### CAPÍTULO SEXTO QUÁTER. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-#### SECCIÓN ÚNICA
-
 ### CAPÍTULO SÉPTIMO. BÚSQUEDA EN LOS ARCHIVOS, LEGALIZACIÓN DE FIRMAS, EXPEDICIÓN DE CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
 
 #### SECCIÓN ÚNICA
@@ -3199,9 +3483,15 @@ No causan los derechos a los que se refiere este título:
 
 I. La legalización de firmas y la expedición de certificaciones en los procesos penales y laborales que lleven a cabo los tribunales correspondientes así, como la legalización de exhortos relativa a pensión alimenticia, guarda y custodia de menores.
 
-II. Los derechos de registros, la legalización de firmas, expedición de certificados y certificaciones solicitadas por las dependencias de la Federación, el Estado y los municipios, para asuntos oficiales de su competencia, siempre que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+II. Los derechos de registros, la legalización de firmas, expedición de certificados y certificaciones solicitadas por las dependencias de la Federación, el Estado y los municipios, para asuntos oficiales de su competencia debidamente justificados y acreditados para determinar que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo.
 
 III. Las certificaciones o copias certificadas que expida el Registro Público de la Propiedad y de Comercio, a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos económicos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 76 BIS. El recibo oficial de pago para efectuar los diversos trámites que contempla la presente Ley, tendrán una vigencia de un año a partir de su expedición.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -3241,9 +3531,7 @@ II. Otros no especificados en éste Capítulo. 5.0 D.S.M.G.V.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-###### ARTÍCULO 78 Bis.
-
-Por los servicios que prestan las Dependencias, órganos y organismos de la Administración Pública Estatal cuando les sean solicitados documentos físicos o en medios magnéticos u ópticos, tratándose de obtención de información pública en términos de la legislación y reglamentación aplicable, las personas interesadas pagarán las cantidades siguientes:
+ARTÍCULO 78 BIS.- Por los servicios que prestan las Dependencias, órganos y organismos de la Administración Pública Estatal cuando les sean solicitados documentos físicos o en medios magnéticos u ópticos, tratándose de obtención de información pública en términos de la legislación y reglamentación aplicable, las personas interesadas pagarán las cantidades siguientes:
 
 I. Por la expedición de copia simple: 0.01 D.S.G.M.V.
 
@@ -3381,6 +3669,8 @@ Las infracciones y omisiones al presente título, serán sancionadas de conformi
 
 ### CAPÍTULO ÚNICO
 
+#### SECCIÓN ÚNICA
+
 ###### ARTÍCULO 85.
 
 Quedan comprendidos en este título los ingresos provenientes de los Convenios de Adhesión y Colaboración Administrativa, que con base en la Ley de Coordinación Fiscal tiene celebrado el gobierno del Estado con la Secretaría de Hacienda y Crédito Público.
@@ -3470,3 +3760,11 @@ I. El 100% de las cantidades enteradas por los Municipios al erario estatal, en 
 II. Los Municipios, sus organismos y entidades, deberán estar inscritos en el padrón del Impuesto sobre Nómina, auto determinar el Impuesto a su cargo en términos de lo dispuesto en la Ley de Hacienda del Estado y presentar la declaración correspondiente de manera mensual; y
 
 III. Si así lo acuerdan los Municipios y la Secretaría, podrán celebrar convenios para la compensación de fondos.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+TERCERO.- La Secretaría de Planeación y Finanzas queda habilitada para dictar las medidas administrativas que estime necesarias para mejorar y proveer la aplicación de las disposiciones que establece el presente Decreto y la presente Ley.
