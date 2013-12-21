@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2012-12-22"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -117,6 +117,10 @@ I. Por la prestación de servicios profesionales en el Estado, y
 
 II. Por Arrendamiento y/o el otorgamiento, uso vitalicio o temporal y en general el goce de bienes inmuebles, ubicados en el territorio del Estado.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Las Personas Morales que reciban la prestación de un servicio profesional o arrenden un bien inmueble en territorio del Estado de Nayarit, estarán obligadas a la retención del Impuesto Cedular a la tasa del 1.5% sobre el monto pagado antes de impuestos, siempre y cuando la persona moral cuente con un domicilio fiscal dentro del Estado de Nayarit, pudiendo ser, sucursal, oficina, almacén, bodega o cualquier otro similar o análogo.
+
 También están obligadas al pago de este impuesto, las personas físicas no residentes en el Estado, que presten servicios profesionales en el Estado, a través de establecimientos permanentes, por los ingresos atribuibles a éstos.
 
 ###### Artículo 8.
@@ -157,9 +161,13 @@ Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisional
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo a que se refiere el artículo anterior. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit.
 
-Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener por concepto del impuesto correspondiente, el monto que resulte de aplicar la tasa del 3% sobre el monto de los pagos que les efectúen, sin deducción alguna debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse a más tardar el día 17 del mes inmediato posterior a aquel al que corresponda la retención mediante los formatos autorizados por la Secretaria. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos en el año, así como las deducciones autorizadas para el mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas e instituciones de crédito autorizadas.
+Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener por concepto del impuesto correspondiente el monto que resulte de aplicar la tasa del 1.5% sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse a más tardar el día 17 del mes inmediato posterior a aquel al que corresponda la retención mediante los formatos autorizados por la Secretaría. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos en el año, las deducciones autorizadas para el mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas e instituciones de crédito autorizadas.
 
 ###### Artículo 14.
 
@@ -186,6 +194,20 @@ IV. Cuando la contraprestación que ampare el comprobante se cobre en una sola e
 V. Presentar declaraciones provisionales y anual, y
 
 VI. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código Fiscal de la Federación y del Estado Nayarit.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 15-A.
+
+Las Personas Morales sujetas a la retención de este impuesto, además de las obligaciones establecidas en el artículo 13 párrafo tercero de esta Ley, tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción en el Registro Estatal de Contribuyentes;
+
+II. Expedir y conservar las constancias de retención del impuesto cedular de forma mensual a las personas físicas que le presten servicios profesionales, las cuales podrá capturar en la página web oficial de la Secretaría de Administración y Finanzas, para que acrediten los ingresos por los cuales se derivó la retención, debiendo reunir los requisitos establecidos en el Código Fiscal de la Federación y el Código Fiscal del Estado de Nayarit;
+
+III. Conservar los recibos de honorarios que acrediten la prestación del servicio que recibieron y la retención efectivamente realizada, debiendo reunir los requisitos establecidos en el Código Fiscal de la Federación y el particular del Estado de Nayarit, y
+
+IV. Enterar de forma mensual las retenciones efectuadas como lo establece el artículo 13 párrafo tercero de esta Ley, en los formatos establecidos por la Secretaría de Administración y Finanzas, asimismo tendrán la obligación de presentar declaración en ceros cuando en el mes a declarar no existiera retención alguna.
 
 #### SECCIÓN TERCERA. Del impuesto cedular por el goce temporal de bienes inmuebles
 
@@ -221,7 +243,9 @@ Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado po
 
 Los contribuyentes que obtengan ingresos de los señalados en esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio que se pagará a la tasa que fije anualmente la Ley de Ingresos del Estado de Nayarit, que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta ley en ese período. El entero de los pagos provisionales se realizará en las oficinas e instituciones de crédito autorizadas por la Secretaría de Administración y Finanzas, teniendo como fecha límite de presentación a más tardar el día 17 del mes inmediato siguiente al mes que corresponde el pago.
 
-Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 3% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, a más tardar el día 17 del mes inmediato posterior a aquel al que corresponda la retención mediante los formatos autorizados por la Secretaría. El impuesto retenido en los términos de este párrafo, podrá acreditarse contra el que resulte de conformidad con el párrafo anterior.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 1.5% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención de forma mensual; dichas retenciones deberán enterarse, a más tardar el día 17 del mes inmediato posterior a aquel al que corresponda la retención mediante los formatos autorizados por la Secretaría de Administración y Finanzas. El impuesto retenido en los términos de este párrafo, podrá acreditarse contra el que resulte de conformidad con el párrafo anterior.
 
 ###### Artículo 20.
 
@@ -248,6 +272,20 @@ III. Expedir comprobantes que reúnan los requisitos fiscales previstos en el C�
 IV. Presentar declaraciones en los términos de esta Ley.
 
 Cuando los ingresos a que se refiere esta Sección sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos de este impuesto.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 22-A.
+
+Las Personas Morales sujetas a la retención de este impuesto, además de las obligaciones establecida en el artículo 19 párrafo segundo de esta Ley, tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción en el Registro Estatal de Contribuyentes;
+
+II. Expedir y conservar las constancias de retención del impuesto cedular de forma mensual a las personas físicas que le arrenden bienes inmuebles, las cuales podrá capturar en la página web oficial de la Secretaría de Administración y Finanzas, para que acrediten los ingresos por los cuales se derivó la retención, debiendo reunir los requisitos establecidos en el Código Fiscal de la Federación y el Código Fiscal del Estado de Nayarit;
+
+III. Conservar los recibos que acrediten el arrendamiento de bienes inmuebles y la retención efectivamente realizada, debiendo reunir los requisitos establecidos en el Código Fiscal de la Federación y el particular del Estado de Nayarit, y
+
+IV. Enterar de forma mensual las retenciones efectuadas como lo establece el artículo 19 segundo párrafo de esta Ley, en los formatos establecidos por la Secretaría de Administración y Finanzas, asimismo tendrán la obligación de presentar declaración en ceros cuando en el mes a declarar no existiera retención alguna.
 
 ###### Artículo 23.
 
@@ -879,6 +917,8 @@ F) Internados
 
 #### SECCIÓN PRIMERA. Del Objeto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 65.
 
 La Secretaría de Administración y Finanzas del Estado podrá estimar los ingresos por los cuales se deba pagar el impuesto referido de este Capítulo en los siguientes casos:
@@ -888,6 +928,8 @@ I. Cuando no presenten sus declaraciones, o no lleven los libros y registros con
 II. Cuando por los informes que se obtengan se ponga de manifiesto que entre la tributación pagada en la que debió enterarse, exista discrepancia mayor a un 3%.
 
 #### SECCIÓN SEGUNDA. De los Sujetos
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 66.
 
@@ -909,13 +951,17 @@ Las personas físicas o morales que para efecto de impuesto federales (sic), su 
 
 VI. Expedir comprobantes por la contraprestación objeto de este impuesto, llevar libros y registros contables de los mismos y conservarlos en los términos previstos en el Código Fiscal del Estado.
 
-### CAPITULO II. DEL IMPUESTO A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+### CAPITULO II. DEL IMPUESTO A LA VENTA DE BEBIDAS CON CONTENIDO ALCOHÓLICO
 
 #### SECCIÓN TERCERA. De la Base y Tasa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 67.
 
-Es objeto de este impuesto la venta final y consumo de bebidas con contenido alcohólico en envase cerrado, que se realicen en el territorio del Estado, a excepción de la cerveza en todas sus presentaciones.
+Es objeto de este impuesto la venta de bebidas con contenido alcohólico que se realice en el territorio del Estado, a excepción de la cerveza en todas sus presentaciones.
 
 Para los efectos de este impuesto se entiende por:
 
@@ -929,13 +975,13 @@ Se entiende que la venta se efectúa en territorio del Estado, si en él se llev
 
 ###### Artículo 68.
 
-Son sujetos de este impuesto, las personas físicas y morales que realicen en territorio del Estado de Nayarit, la venta final en envase cerrado de los bienes a que se refiere el artículo anterior.
+Son sujetos de este impuesto, las personas físicas y morales que realicen en territorio del Estado de Nayarit, la venta de los bienes a que se refiere el artículo anterior.
 
 #### SECCIÓN QUINTA. De las obligaciones de los contribuyentes
 
 ###### Artículo 69.
 
-La base de este impuesto será el valor de la enajenación. Para estos efectos, se considerará valor de enajenación el precio de la venta final en envase cerrado, adicionado con las cantidades que por cualquier otro concepto se carguen o cobren al adquiriente del bien, excepto aquellas correspondientes al Impuesto al Valor Agregado e Impuesto Especial sobre Producción y Servicios.
+La base de este impuesto será el valor de la enajenación. Para estos efectos, se considerará valor de enajenación el precio de la venta de bebidas alcohólicas, a excepción de la cerveza en todas sus presentaciones, adicionado con las cantidades que por cualquier otro concepto se carguen o cobren al adquiriente del bien, excepto aquellas correspondientes al Impuesto al Valor Agregado e Impuesto Especial sobre Producción y Servicios.
 
 El impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte el precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo en su caso precios oficiales.
 
@@ -949,23 +995,41 @@ Este impuesto se calculará aplicando al valor que señala el artículo anterior
 
 El impuesto se calculará mensualmente y se pagará a más tardar el día diez del mes siguiente a aquel en que corresponda el pago, a través de los formatos que para tales efectos establezca la Secretaría de Administración y Finanzas.
 
-Los contribuyentes del presente impuesto, pagarán el mismo, sin que proceda acreditamiento alguno contra dicho pago y tendrá el carácter de definitivo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Los contribuyentes que realicen la venta de bebidas con contenido alcohólico, a excepción de la cerveza en todas sus presentaciones, que les hayan efectuado alguna retención, a través de un comerciante o distribuidor, siempre y cuando cuenten con un domicilio fiscal dentro del Estado de Nayarit, pudiendo ser, sucursal, oficina, almacén, bodega o cualquier otro similar o análogo, de acuerdo con el artículo 72 de esta ley, deberán presentar su declaración en la que podrán acreditar dicha retención en el entero de sus pagos.
 
 Cuando la contraprestación que perciba el contribuyente por la venta de las bebidas no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de estos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en este capítulo.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 72.
 
-Los distribuidores o comerciantes que enajenen las bebidas a que se refiere el artículo 67, a quienes a su vez venderán en envase cerrado las citadas bebidas, estarán obligados a llevar un registro mensual de ventas a estas personas, debiendo recabar de ellos y conservar una copia del registro ante el Estado de la obligación a que se refiere el artículo 75 fracción II.
+Los distribuidores o comerciantes que enajenen las bebidas a que se refiere el artículo 67 de esta Ley, a quienes a su vez venderán las citadas bebidas, estarán obligados a retener el 3% y a llevar un registro mensual de ventas a estas personas, debiendo recabar de ellos y conservar una copia del registro ante el Estado de la obligación a que se refiere el artículo 75 fracción II de esta Ley.
 
-Quienes no cumplan con la obligación señalada en el párrafo anterior, serán responsables solidarios del impuesto que se dejare de pagar respecto de las bebidas enajenadas por ellos.
+Dicha retención, deberán enterarla en las mismas fechas que establece el artículo 71 de esta Ley, en las formas oficiales autorizadas por la Secretaría de Administración y Finanzas.
+
+También deberán entregar constancia de la retención realizada a las personas que enajenaron las bebidas, para dar validez al acreditamiento que estos tienen derecho a realizar.
+
+Quienes no cumplan con el registro mensual a que se refiere el primer párrafo de este artículo, serán responsables solidarios del impuesto que se dejare de pagar respecto de las bebidas enajenadas por ellos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 73.
 
-Para los efectos de este impuesto, también se considerará venta final, el faltante de inventario o el consumo propio de las bebidas referidas en el artículo 67.
+Para los efectos de este impuesto, también se considerará venta, el faltante de inventario y el consumo propio de las bebidas referidas en el artículo 67 de esta ley.
 
 ###### Artículo 74.
 
 El impuesto se causa en el momento en el que se perciban los ingresos derivados de la venta y sobre el monto de lo pagado. Cuando las contraprestaciones se paguen parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación pagada, la tasa respectiva.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 74-A.
+
+Cuando la venta se realice en hoteles bajo el sistema "todo incluido", en el que la contraprestación contempla el cobro de varios servicios, tales como hospedaje, alimentación, bebidas y otros similares; los contribuyentes consideraran como base gravable únicamente el importe correspondiente a las bebidas con contenido alcohólico, a excepción de la cerveza en todas sus presentaciones. El contribuyente deberá estimar el importe relativo a las bebidas con contenido alcohólico, a excepción de la cerveza en todas sus presentaciones, dentro del sistema "todo incluido".
+
+Los contribuyentes deberán exhibir los documentos y registros que acrediten dicha estimación, cuando la Autoridad se los requiera.
 
 #### SECCIÓN SEGUNDA. De los Sujetos
 
@@ -1015,6 +1079,8 @@ Este impuesto se causará y pagará conforme a la tarifa que fije la Ley de Ingr
 
 #### SECCIÓN OCTAVA. De las Exenciones
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 81.
 
 Este impuesto se causará y pagará conforme a las tasas que señala la Ley de Ingresos del Estado.
@@ -1029,7 +1095,7 @@ Este impuesto se causará y pagará conforme a las tasas que señala la Ley de I
 
 ###### Artículo 83.
 
-Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, al Impuesto sobre Nóminas; al Impuesto al Hospedaje; los impuestos Cedulares por Prestación de Servicios, Arrendamiento y en general por otorgar el uso o goce de Bienes Inmuebles; al Impuesto sobre Tenencia o uso de Vehículos; al Impuesto a la Venta Final de Bebidas con Contenido Alcohólico; al Impuesto sobre Juegos y Apuestas permitidas, sobre Rifas, Loterías y Sorteos respecto de los premios obtenidos; y los Derechos por Registro Público de la Propiedad por hipotecas sobre créditos para vivienda de interés social.
+Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, al Impuesto sobre Nóminas; al Impuesto al Hospedaje; los Impuestos Cedulares por Prestación de Servicios, Arrendamiento y en general por otorgar el uso o goce de Bienes Inmuebles; al Impuesto sobre Tenencia o uso de Vehículos nuevos y de hasta nueve años modelo anterior; al Impuesto a la Venta de Bebidas con Contenido Alcohólico; al Impuesto sobre Juegos y Apuestas permitidas, sobre Rifas, Loterías y Sorteos respecto de los premios obtenidos; y los Derechos por Registro Público de la Propiedad por hipotecas sobre créditos para vivienda de interés social.
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE NÓMINAS
 
@@ -1315,21 +1381,25 @@ D) Donaciones;
 
 E) Aprovechamientos diversos;
 
-F) Gastos de Ejecución, y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-G) Indemnización por cheques recibidos de particulares y devueltos por las Instituciones bancarias.
+F) Gastos de Ejecución;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+G) Indemnización por cheques recibidos de particulares y devueltos por las instituciones bancarias, y
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+H) Actualizaciones.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 115.
 
-Los ingresos que el Estado obtenga por los conceptos señalados en los incisos B y F del artículo anterior se destinarán a la formación de Fondos para:
+Los ingresos que el Estado obtenga por los Conceptos señalados en los incisos B y F del artículo anterior, se distribuirán entre los servidores públicos que ejerzan las facultades de verificación, comprobación, determinación, notificación, ejecución y cobro.
 
-I. El otorgamiento de incentivos económicos a los servidores públicos de la Secretaría, que ejerzan las facultades de comprobación, determinación, notificación, ejecución y cobro de créditos fiscales;
-
-II. Para la realización y ejecución de los Programas de capacitación y profesionalización de los servidores públicos del Poder Ejecutivo del Estado, y
-
-III. Para el equipamiento de infraestructura y desarrollo tecnológico de las áreas de recaudación.
-
-Para la aplicación de los ingresos a que se refiere este artículo, la Secretaría de Administración y Finanzas emitirá los Lineamientos necesarios.
+También participará de dicho estímulo indirectamente el personal de la Secretaría de Administración y Finanzas, que para tal efecto determine el Secretario en los lineamientos que se emitan anualmente.
 
 ###### Artículo 116.
 
@@ -1368,3 +1438,9 @@ Dip. María Dolores Porras Domínguez, Secretaria.
 Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintidós días del mes de diciembre del año dos mil doce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
