@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transito-y-transporte-del-estado-de-nayarit-11597"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "2012-05-07"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NAY"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
-Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
 
 Al margen un Sello con el Escudo Nacional que dice:
 
@@ -55,9 +55,13 @@ Las disposiciones de esta Ley son de orden público y observancia general.
 
 Es objeto de esta Ley:
 
-I.- Regular la seguridad y el libre tránsito de los peatones, usuarios y conductores de vehículos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-II.- Fijar las bases para la organización, orden y control de la circulación vehicular y peatonal en las vías públicas de jurisdicción estatal;
+I.- Regular la seguridad y el libre tránsito de los peatones, usuarios, ciclistas y conductores de vehículos;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+II.- Fijar las bases para la organización, orden y control de la circulación vehicular, peatonal y de los ciclistas en las vías públicas de jurisdicción estatal;
 
 III.- Establecer las bases normativas para la impartición de la educación vial, y
 
@@ -81,7 +85,9 @@ IV.- Servicio Particular de Transporte, es el servicio autorizado por la adminis
 
 V.- Permiso, es el acto administrativo por el cual la Administración Pública del Estado a través de la instancia competente, otorga autorización, con los derechos y obligaciones que implica, a personas físicas o morales para la prestación del Servicio Público de Transporte.
 
-VI. Vía Pública, el espacio autorizado para el libre tránsito de peatones y vehículos y en general los inmuebles de uso común que por disposición de la autoridad o por razones del servicio, estén destinados a la circulación de personas o vehículos, así como al estacionamiento de estos últimos.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VI. Vía Pública, el espacio autorizado para el libre tránsito de peatones, ciclistas y vehículos y en general los inmuebles de uso común que por disposición de la autoridad o por razones del servicio, estén destinados a la circulación de personas, ciclistas o vehículos, así como al estacionamiento de estos dos últimos.
 
 VII. Plan Rector del Sistema de Transporte Público, es el instrumento gubernamental por medio del cual se establecerán las directrices y programas generales del servicio público de transporte en el Estado.
 
@@ -97,7 +103,9 @@ Para los efectos de esta Ley se establecen como espacios viales, las vías públ
 
 a) ANDADORES, las superficies destinadas exclusivamente a la circulación de peatones.
 
-b) CICLOVIAS, las superficies destinadas a la circulación de vehículos de propulsión humana.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+b) CICLOVÍA, es el nombre genérico dado a parte de la infraestructura pública destinada de forma exclusiva o compartida para la circulación de bicicletas. También conocida como ciclopista o carril bici, entre otras;
 
 c) BANQUETA, el espacio comprendido entre la guarnición y el paramento de construcción, que se destina a la circulación peatonal.
 
@@ -265,13 +273,17 @@ III.- Las demás que establezcan las leyes y disposiciones gubernativas.
 
 ### CAPITULO I. DE LOS PEATONES Y CONDUCTORES
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 17.
 
-Los peatones tienen derecho de preferencia respecto del tránsito y vialidad; debiendo por su parte, cumplir con lo establecido en las disposiciones legales aplicables en la materia.
+Los peatones y ciclistas tienen derecho de preferencia respecto del tránsito y vialidad; debiendo por su parte, cumplir con lo establecido en las disposiciones legales aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 18.
 
-Las autoridades competentes propiciarán y fomentarán el tránsito seguro de los peatones, mediante la infraestructura y el señalamiento vial necesarios. Asimismo, garantizarán que las vías públicas peatonales no sean obstaculizadas ni invadidas, implementando las acciones que se requieran para evitarlo y apoyando a las personas con discapacidad y de la tercera edad.
+Las autoridades competentes propiciarán y fomentarán el tránsito seguro de los peatones, así de igual manera, garantizarán un tránsito adecuado entre éstos y los ciclistas, mediante la infraestructura y el señalamiento vial necesario. Asimismo, garantizarán que las vías públicas peatonales no sean obstaculizadas ni invadidas más allá de los parámetros que en infraestructura vial establece la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit, implementando las acciones que se requieran para evitarlo y apoyando a las personas con discapacidad y de la tercera edad.
 
 ###### ARTICULO 19.
 
@@ -281,7 +293,9 @@ Las autoridades municipales se abstendrán de autorizar la instalación de puest
 
 Los conductores de vehículos, deberán:
 
-I.- Ceder el paso a los peatones en el uso de las vías públicas;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+I.- Ceder el paso a los peatones y ciclistas en el uso de las vías públicas;
 
 II.- En el caso del transporte público de pasajeros, circular por el carril derecho del arroyo de la vía, y realizar maniobras de ascenso y descenso, exclusivamente en las zonas fijadas al efecto;
 
@@ -365,9 +379,11 @@ VII.- No utilizar vehículos que carezcan de la autorización correspondiente y 
 
 VIII.- En el caso de vehículos, tales como trailers, torton o similares cuyo peso o volumen rebase los límites establecidos en esta Ley, deberán abstenerse de circular y efectuar maniobras de carga y descarga dentro del perímetro urbano señalado por la Dirección de Tránsito.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 23.
 
-Los conductores se asegurarán que al emprender la marcha o estacionar el vehículo, los peatones se percaten de la (sic) maniobras que pretenden realizar.
+Los conductores se asegurarán que al emprender la marcha o estacionar el vehículo, los peatones y ciclistas se percaten de las maniobras que pretenden realizar.
 
 ###### ARTICULO 24.
 
@@ -413,9 +429,17 @@ III.- La preferencia al cruzar las vías públicas, cuando el señalamiento de t
 
 IV.- La orientación, que se traduce en la obligación a cargo de los agentes de tránsito de proporcionar la información que soliciten los peatones, sobre señalamiento vial, ubicación de calles y nominativas que regulen el tránsito de personas o cosas.
 
-V.- La asistencia, que se traduce en la obligación de los ciudadanos y agentes de tránsito de ayudar a los peatones menores de diez años, a los ancianos y a quienes requieran el auxilio para cruzar las calles, gozando de prioridad en el paso. En estos casos los agentes de tránsito deberán acompañar a las personas hasta que completen el cruzamiento; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-VI.- Los escolares gozarán del derecho de preferencia de paso en todas las intersecciones y zonas señaladas al efecto. Los agentes brindarán protección mediante los dispositivos y señalización adecuada en los horarios a los que ingresen o egresen los escolares. Los maestros o el personal voluntario autorizado por la institución educativa, podrán proteger el paso de los escolares, debiendo contar con capacitación vial y utilizar las identificaciones correspondientes.
+V.- La asistencia, que se traduce en la obligación de los ciudadanos y agentes de tránsito de ayudar a los peatones menores de diez años, a los ancianos y a quienes requieran el auxilio para cruzar las calles, gozando de prioridad en el paso. En estos casos los agentes de tránsito deberán acompañar a las personas hasta que completen el cruzamiento;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VI.- Los escolares gozarán del derecho de preferencia de paso en todas las intersecciones y zonas señaladas al efecto. Los agentes brindarán protección mediante los dispositivos y señalización adecuada en los horarios a los que ingresen o egresen los escolares. Los maestros o el personal voluntario autorizado por la institución educativa, podrán proteger el paso de los escolares, debiendo contar con capacitación vial y utilizar las identificaciones correspondientes, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VII.- Contar con derecho de preferencia frente a un ciclista.
 
 ###### ARTICULO 33.
 
@@ -689,9 +713,21 @@ VII.- Se abstendrán de usar audífonos para reproductores de sonido y demás me
 
 VIII.- Se abstendrán de dar vuelta a mediación de cuadra;
 
-IX.- Les quedará prohibido efectuar maniobras en la vía pública que pongan en riesgo su integridad y seguridad física o la de terceros, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-X.- No deberán circular sobre las banquetas o zonas de seguridad.
+IX.- Les quedará prohibido efectuar maniobras en la vía pública que pongan en riesgo su integridad y seguridad física o la de terceros;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+X.- No deberán circular sobre las banquetas o zonas de seguridad, exceptuándose para los ciclistas, las ciclovías habilitadas en las banquetas;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XI.- Los ciclistas podrán circular en las banquetas de 2.00 o más metros de ancho que permitan compartir la circulación con los peatones, en este tipo de banquetas se contará con el señalamiento vial conducente a efecto de distinguir entre el tránsito de peatones y de ciclistas, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XII.- Asirse o sujetarse a otros vehículos que transiten por la vía pública.
 
 ###### ARTICULO 62.
 
@@ -737,9 +773,11 @@ Queda prohibido a los conductores de bicicletas y motocicletas asirse a otros ve
 
 Los conductores de vehículos automotores al atender la señalización vehicular y peatonal, también darán preferencia a los ciclistas que transiten en las vías de circulación.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 69.
 
-Se recomendará en las escuelas, centros comerciales, fábricas y oficinas públicas, contar en la medida de lo posible, con sitios para el resguardo de bicicletas.
+El Gobierno del Estado y los Ayuntamientos instalarán y/o autorizarán a los particulares, la colocación de módulos para resguardo de bicicletas, dando prioridad a los lugares de concentración masiva de personas, como escuelas, parques, plazas públicas, teatros, centros comerciales, oficinas públicas y fábricas, entre otros.
 
 ## TITULO TERCERO. DEL SISTEMA DE CONTROL VEHICULAR
 
@@ -1497,9 +1535,11 @@ Los usuarios tienen interés legítimo y en consecuencia el derecho de denunciar
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 167.
 
-La Dirección establecerá planes y programas de educación vial que orienten a peatones, conductores y pasajeros de vehículos, sobre la forma de hacer uso de las vías públicas y que procuren divulgar los preceptos de esta Ley, así como la utilización adecuada de los manuales de la misma.
+La Dirección establecerá planes y programas de educación vial que orienten a peatones, ciclistas, conductores y pasajeros de vehículos, sobre la forma de hacer uso de las vías públicas y que procuren divulgar los preceptos de esta Ley, así como la utilización adecuada de los manuales de la misma.
 
 ###### ARTICULO 168.
 
@@ -1515,7 +1555,9 @@ IV.- Evitar conducir en estado de ebriedad o bajo el influjo de psicotrópicos o
 
 V.- Propiciar el respeto necesario a los señalamientos de tránsito; y
 
-VI.- Fomentar el conocimiento y acatamiento de la Ley, así como una nueva cultura para el tránsito vehicular y peatonal en el Estado.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VI.- Fomentar el conocimiento y acatamiento de la Ley, así como una nueva cultura para el tránsito vehicular, peatonal y de ciclistas en el Estado.
 
 ###### ARTICULO 169.
 
@@ -1529,7 +1571,9 @@ III.- Los conductores de vehículos en sus diversas modalidades;
 
 IV.- Los solicitantes para obtener licencia de conducir;
 
-V.- Los usuarios y peatones.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+V.- Los usuarios, peatones y ciclistas.
 
 Los agentes de tránsito están obligados al conocimiento de esta Ley y se les impartirán, en forma programada y permanente, cursos de actualización en materia de educación vial.
 
@@ -1539,7 +1583,9 @@ Los programas de educación vial que se impartan en el Estado, deberán referirs
 
 I.- Vialidad;
 
-II.- Normas fundamentales para peatones, conductores y usuarios;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+II.- Normas fundamentales para peatones, ciclistas, conductores y usuarios;
 
 III.- Prevención de accidentes;
 
@@ -1711,9 +1757,21 @@ XI.- Conservación y seguridad de los vehículos.
 
 La Dirección propondrá a las autoridades Educativas del Estado la integración de los Manuales o Guías a que se refiere esta Ley a fin de que se incorporen, a los programas relativos a la materia de educación cívica que se imparte en los planteles de educación básica.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+### CAPITULO IV. DE LA MOVILIDAD URBANA NO MOTORIZADA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 193 BIS.- Los proyectos de infraestructura para crear ciclovías en las vialidades existentes, deberán contar con una Opinión Técnica favorable emitida por la Dirección, y dichos proyectos deberán contener los planos de señalamiento vertical, señalamiento horizontal y dispositivos de seguridad que separan y delimiten las ciclovías de la zona de tránsito de los vehículos motorizados.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 193 TER.- Los proyectos de infraestructura para crear ciclovías en las vialidades nuevas o en fraccionamientos de nueva creación, deberán seguir los lineamientos señalados en la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit y deberán estar incluidos en el Dictamen de Congruencia que al efecto emitirá la Secretaría de Obras Públicas del Gobierno del Estado.
 
 ## TITULO OCTAVO. INFRACClONES Y SANCIONES Y RECURSOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 194.
 
@@ -1773,7 +1831,7 @@ A. Se sancionará con multa de hasta cinco días de salario mínimo general vige
 
 26.- Por conducir utilizando audífonos conectados a aparatos de sonido.
 
-B. Se sancionará con muIta de cinco hasta diez días de salario mínimo general vigente en el Estado por:
+B. Se sancionará con multa de cinco hasta diez días de salario mínimo general vigente en el Estado por:
 
 1.- No respetar el paso de educandos en zonas escolares;
 
@@ -2054,3 +2112,9 @@ P.O. 7 DE MAYO DE 2012.
 Artículo Primero.- El presente decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- La Dirección Estatal de Tránsito y Transporte y la Secretaría de Seguridad Pública a través de la Dirección de Prevención del Delito, implementarán programas de difusión de la reforma contenida en el presente Decreto, a partir de su publicación.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El Titular del Poder Ejecutivo del Estado y los Ayuntamientos en el ámbito de su competencia, deberán emitir la reglamentación conducente, dentro de los 180 días naturales contados a partir de la entrada en vigor del presente decreto.
