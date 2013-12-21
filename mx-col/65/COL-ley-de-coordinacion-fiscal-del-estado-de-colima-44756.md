@@ -4,7 +4,7 @@ identifier: "COL-ley-de-coordinacion-fiscal-del-estado-de-colima-44756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-23"
-last_updated: "2012-01-28"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de abril de 2005.
 
@@ -151,9 +151,9 @@ IV. El 20 por ciento como mínimo de la recaudación en el Estado del Impuesto F
 
 V. El 100 por ciento de los recursos provenientes del Fondo de Fomento Municipal en atención a lo dispuesto por la misma Ley; y
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-VI. El 20 por ciento como mínimo de las cantidades que el Estado reciba por concepto de participaciones del Fondo de Fiscalización, de acuerdo a la Ley de Coordinación Fiscal.
+VI. El 20 por ciento como mínimo de las cantidades que el Estado reciba por concepto de participaciones del Fondo de Fiscalización y Recaudación, de acuerdo a la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
@@ -167,13 +167,13 @@ Además de los conceptos de participaciones enumerados en el artículo anterior,
 
 El Estado, a través de la Secretaría de Finanzas y Administración, deberá publicar anualmente en el Periódico Oficial, el calendario de entrega, montos y estimados de las participaciones federales a que se refieren los artículos 6° y 7° de este ordenamiento, así como porcentajes, fórmulas y variables utilizadas en un plazo no mayor de quince días contados a partir de la publicación que realice la Federación de los mismos datos. También deberá publicar trimestralmente el importe de las participaciones entregadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 9º.
 
 Los factores que deberán aplicarse para la distribución de los montos a cada municipio de las participaciones federales a que se refieren los artículos 6° y 7° de esta Ley, se determinarán de acuerdo a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2008)</small>
 
 l. Para los fondos a los que se refiere el artículo 6° de la presente Ley:
 
@@ -619,7 +619,7 @@ El Instituto contará con el personal especializado que requiera para el cumplim
 
 Las relaciones de trabajo se regirán por lo dispuesto en la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 48.
 
@@ -709,7 +709,7 @@ Dado en Palacio de Gobierno, al día 13 del mes de abril del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. CUAUHTÉMOC GÓMEZ CABEZUD. Rúbrica. EL SECRETARIO DE FINANZAS, C.P. LUIS MARIO LEON LOPEZ. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE MAYO DE 2008.
 
@@ -736,3 +736,9 @@ P.O. 28 DE ENERO DE 2012.
 DECRETO No. 458 POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX, TODAS DEL ARTÍCULO 2°, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- El H. Ayuntamiento de Villa de Álvarez, en su caso, deberá ajustar los reglamentos municipales correspondientes en un plazo de hasta 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
