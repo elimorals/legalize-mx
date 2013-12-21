@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-presupuesto-contabilidad-y-gasto-publico-19200"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2008-10-25"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO
 
-LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO
+LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 30 de diciembre de 2000.
 
@@ -141,11 +141,11 @@ Para constituir fideicomisos de los señalados en el artículo 3, fracción III 
 
 Unicamente se podrán concertar créditos para financiar programas incluidos en los presupuestos de las entidades a que se refiere el artículo 3, fracción III, incisos a), b) y c), de esta Ley. Estos créditos se concertarán y contratarán con autorización expresa de la Secretaría de Planeación y Finanzas, respetándose las directrices marcadas en la Ley de Deuda Pública y las facultades conferidas al Congreso del Estado en el artículo 36, fracción XII, de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 11.
 
-El Ejecutivo del Estado por conducto de la Secretaría de Administración y Finanzas, proporcionará a solicitud del Congreso del Estado todos los datos, estadísticas, indicadores de género e información general que puedan contribuir a una mejor comprensión de las proposiciones contenidas en los proyectos de presupuesto de ingresos y egresos.
+El Ejecutivo del Estado por conducto de la Secretaría, proporcionará a solicitud del Congreso del Estado todos los datos, estadísticas, indicadores de género e información general que puedan contribuir a una mejor comprensión de las proposiciones contenidas en los proyectos de presupuesto de ingresos y egresos.
 
 ###### Artículo 12.
 
@@ -425,10 +425,16 @@ LIC. CARLOS MANUEL PÉREZ PRIEGO.
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE OCTUBRE DE 2008.
 
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se sustituye a lo largo de esta Ley, "Secretaría de Planeación y Finanzas" por "Secretaría de Administración y Finanzas" y "Secretaría de Contraloría y Desarrollo Administrativo" por "Secretaría de Contraloría".
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
