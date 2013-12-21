@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-consejo-estatal-de-seguridad-publica-12424"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "1998-08-13"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
 
-REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
+REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -215,117 +215,23 @@ Los acuerdos que propongan los miembros del Consejo Estatal, se harán previo co
 
 ###### Artículo 10.
 
-El Consejo Estatal, contará con un Secretario Ejecutivo el cual será designado a propuesta de su presidente en los términos del artículo 49 de la Ley.
+(DEROGADO POR EL SEGUNDO TRANSITORIO DEL ACUERDO 062/2013 QUE EXPIDE EL REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA, P.O. 21 DE DICIEMBRE DE 2013)
 
 ###### Artículo 11.
 
-Serán funciones del Secretario Ejecutivo del Consejo Estatal:
-
-I. Elaborar las propuestas de contenido del Programa Estatal de Seguridad Pública y someterlas a la aprobación del Consejo Estatal;
-
-II. Levantar y certificar los acuerdos que se tomen en el Consejo Estatal y llevar el archivo de éstos;
-
-III. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal;
-
-IV. Proponer al Consejo Estatal la aprobación de políticas, lineamientos y acciones para el buen desempeño de las instituciones de seguridad pública en el Estado;
-
-V. Elaborar y publicar informes de actividades del Consejo Estatal;
-
-VI. Coordinar el servicio estatal de apoyo a la carrera policial y a las instituciones estatales de formación de las policías;
-
-VII. Administrar y sistematizar los instrumentos de información del Sistema Estatal, así como recabar todos los datos que se requieran;
-
-VIII. Informar por escrito, por lo menos cada dos meses, al Consejo Estatal de sus actividades;
-
-IX. Formular sugerencias a las autoridades competentes, para que las instituciones de seguridad pública del Estado y los Municipios, desarrollen de manera más eficaz sus funciones;
-
-X. Promover, por conducto de las instituciones de seguridad pública, la realización de acciones conjuntas, conforme a las bases y reglas que emita el Consejo Estatal, sin menoscabo de otras que realicen las autoridades competentes;
-
-XI. Tomar las medidas necesarias para hacer efectiva la coordinación y preservación de la seguridad pública;
-
-XII. Organizar la realización de estudios especializados sobre las materias de seguridad pública;
-
-XIII. Coordinar acciones entre las policías preventivas en el Estado; y
-
-XIV. Las demás que le asigne el Consejo o le confieran otros ordenamientos legales aplicables.
+(DEROGADO POR EL SEGUNDO TRANSITORIO DEL ACUERDO 062/2013 QUE EXPIDE EL REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA, P.O. 21 DE DICIEMBRE DE 2013)
 
 ###### Artículo 12.
 
-Para llevar a cabo las tareas inherentes a la Operatividad del Consejo, el Secretario Ejecutivo, contará con un Coordinador Jurídico y un Coordinador de Planeación e Información.
-
-La Secretaría Ejecutiva, contará además con el personal que autorice el Presupuesto de Egresos correspondiente.
+(DEROGADO POR EL SEGUNDO TRANSITORIO DEL ACUERDO 062/2013 QUE EXPIDE EL REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA, P.O. 21 DE DICIEMBRE DE 2013)
 
 ###### Artículo 13.
 
-El Coordinador Jurídico tendrá las siguientes funciones:
-
-I.- Dar apoyo jurídico al Consejo Estatal de Seguridad Pública, realizar acuerdos, esquemas, convenios, resoluciones, competencias, adecuaciones legislativas y en general dar el marco jurídico necesario propicio a todas las acciones emprendidas por el Secretario Ejecutivo del Consejo.
-
-II.- Proponer y colaborar en la creación y estandarización de reglamentos internos de las corporaciones policiacas Estatales, Regionales y municipales, así como de los reglamentos internos de las dependencias de Seguridad Pública del Estado, que permita la constante actualización de los mismos.
-
-III.- Otorgar el marco Jurídico necesario a las propuestas y acuerdos que presente el Secretario Ejecutivo ante el Consejo Estatal de Seguridad Pública, ya sea para la presentación de iniciativas o para el Programa Estatal de Seguridad Pública, adecuándolas a las necesidades que se requieran.
-
-IV.- Elaborar los lineamientos para el establecimiento de políticas generales en materia de seguridad pública, así como de las propuestas de contenido del Programa Estatal.
-
-V.- Participar en la formación Jurídica de los elementos de Seguridad Pública del Estado, de acuerdo a los lineamientos que para el efecto disponga el Instituto Nacional de Seguridad Pública, así como el Sistema Estatal, otorgando los conocimientos básicos de Garantías Individuales, Derechos Humanos, Leyes y Reglamentos vinculados a la Seguridad Pública, tanto Estatales como Municipales, así como la coordinación con las instancias correspondientes en la impartición de cursos de actualización en estas materias, para los elementos de Seguridad Pública en activo.
-
-Participar con las Corporaciones Policiacas en lo que se refiere a la formulación de políticas de Ingresos, permanencia, ascensos, formación, capacitación, adiestramiento, desarrollo, actualización, promoción, separación, evaluación, estímulos, recompensas, ceremonial, retiros y carrera policial en el marco de la legalidad que para el caso establecen las Leyes para los Servidores Públicos del Estado de Jalisco, a fin de cumplir con los principios de actuación y desempeño policial.
-
-VI.- Apoyar al Secretario Ejecutivo en la revisión constante de los lineamientos y requisitos que en materia de autorización a particulares para la prestación de los servicios privados de seguridad, se requieran tanto en la protección, vigilancia sobre personas y bienes, así como en la custodia y traslado de valores, así como la observancia para el debido cumplimiento de las disposiciones aplicables por parte de los prestadores de estos servicios; por lo tanto corresponde a la Coordinación Jurídica proporcionar el apoyo técnico al Consejo en la elaboración y marco jurídico de los convenios y contratos en que en esta materia se requieran.
-
-VII.- La elaboración integral de las reglas y procedimientos necesarios para la instalación y funcionamiento de los Consejos regionales y Municipales de Seguridad Pública, en vinculación con la Coordinación de Planeación del propio Consejo.
-
-VIII.- Apoyar en la Reglamentación para el acceso de dependencias públicas y privadas a la Información que en materia de Seguridad Pública genere el Consejo, a través de la coordinación de información.
-
-IX.- Elaborar y contextualizar la formulación de propuestas para el Programa Estatal de Seguridad Pública, así como vigilar que las medidas para vincular el Sistema Estatal con el Sistema Nacional, se realicen apegadas a las normas legales observando en todo momento que no se invadan esferas territoriales.
-
-X.- Elaborar las bases y reglas para la integración y realización de programas, estructuras, acciones y operativos conjuntos entre corporaciones de seguridad pública locales y municipales.
-
-XI.- Analizar y dictaminar los proyectos y estudios que se sometan a consideración del Consejo apoyando jurídicamente a las comisiones correspondientes.
-
-XII.- Formular las reglas para la organización y funcionamiento del Sistema Estatal de Seguridad Pública, dándole el sustento legal que las Leyes de la materia tanto estatales como federales dispongan; y
-
-XIII.- En general todos aquellos apoyos y asesorías que determinen tanto el Secretario Ejecutivo como el Propio Consejo de Seguridad Pública.
+(DEROGADO POR EL SEGUNDO TRANSITORIO DEL ACUERDO 062/2013 QUE EXPIDE EL REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA, P.O. 21 DE DICIEMBRE DE 2013)
 
 ###### Artículo 14.
 
-El Coordinador de Planeación e Información tendrá las siguientes funciones:
-
-I.- Elaborar diagnósticos para conocer la situación que guardan los Consejos Estatal, Regionales y Municipales de Seguridad Pública, así como de las corporaciones policiacas y sus mandos, respecto de sus avances en los planes y programas de trabajo;
-
-II.- Supervisar y evaluar el cumplimiento de los objetivos estratégicos definidos por el pleno del Consejo dentro del trabajo de coordinación entre las demás instancias del mismo;
-
-III.- Apoyar al Secretario Ejecutivo en la creación e instalación de los Consejos Regionales, Municipales y Delegaciones;
-
-IV.- Promover entre los consejos mencionados en la fracción anterior, el surgimiento de las propuestas conducentes para mejorar o solucionar la problemática actual en materia de seguridad pública de acuerdo a las necesidades regionales, o municipales;
-
-V.- Hacer llegar al Secretario Ejecutivo las propuestas y evaluaciones de los trabajos que realicen los Consejos Regionales y Municipales de Seguridad Pública;
-
-VI.- Diseñar y proponer en el pleno del Consejo de Seguridad Pública, por conducto del Secretario Ejecutivo, los dispositivos de coordinación entre las diferentes corporaciones policiacas;
-
-VII.- Promover y constituir los Comités de Consulta y Participación Ciudadana de Seguridad Pública en cada Municipio de la entidad de acuerdo a las Leyes respectivas;
-
-VIII.- Proponer y elaborar los diseños operativos de contingencias en los diferentes municipios de acuerdo a sus necesidades y características, tomando en cuenta la información y propuestas de los Comités de Participación Ciudadana;
-
-IX.- Vigilar que se cumpla la implantación del diseño que desarrolla la Academia Nacional y la propia Ley Estatal de Seguridad en la formación profesional en todos los niveles de los elementos de instituciones policiacas;
-
-X.- Proponer la estandarización de equipo técnico y humano mínimo para el funcionamiento de las corporaciones policíacas y a la vez formular la creación de la Base de Datos del Registro Estatal de Policía;
-
-XI.- Proporcionar a los Consejos Regionales, Municipales y Delegaciones, al Consejo Estatal los mapas respectivos de incidencias delictivas; y (sic)
-
-XII.- Planear, organizar, dirigir y controlar la Información que en materia de Seguridad Pública emitan el Sistema y el Consejo Estatal de Seguridad Pública;
-
-XIII.- Supervisar la Instrumentación, análisis y evaluación de la estructura de la Red Estatal de Información sobre Seguridad Pública, así como el intercambio funcional de información a través de la misma;
-
-XIV.- Coordinar la generación, suministro, intercambio y sistematización de la información sobre Seguridad Pública de las Instancias Federales, Estatal y Municipales así como con las distintas corporaciones del Estado;
-
-XV.- Coordinar la elaboración de diagnósticos en materia de Seguridad Pública;
-
-XVI.- Acordar con el Secretario Ejecutivo sobre los criterios normativos del Sistema Estatal de Información de Seguridad Pública;
-
-XVII.- Planear y Controlar la ejecución de actividades, programas y proyectos de larga duración que exigen control de avance de su parte;
-
-XVIII.- Además de las anteriores, las previstas por la Ley General, la del Estado y demás disposiciones aplicables, así como las que dispongan el Consejo Estatal y el Secretario Ejecutivo.
+(DEROGADO POR EL SEGUNDO TRANSITORIO DEL ACUERDO 062/2013 QUE EXPIDE EL REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA, P.O. 21 DE DICIEMBRE DE 2013)
 
 ### CAPITULO IV. Del Sistema Estatal de Seguridad Pública
 
@@ -353,33 +259,7 @@ Los acuerdos y políticas de coordinación, planeación y supervisión de la seg
 
 ###### Artículo 18.
 
-Para el debido cumplimiento y aplicación de la Ley de la materia y el presente reglamento, e instalar los Consejos Regionales de Seguridad Pública, el Estado se dividirá en las siguientes regiones:
-
-I.- Norte, con cabecera en Colotlán, y que comprende los municipios de Bolaños, Chimaltitán, Huejucar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Angeles, Totatiche y Villa Guerrero;
-
-II.- Altos Norte, con cabecera en Lagos de Moreno y que comprende los municipios de Encarnación de Díaz, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, Teocaltiche, Unión de San Antonio y Villa Hidalgo;
-
-III.- Altos Sur, con cabecera en Tepatitlán de Morelos y que comprende los municipios de Acatic, Arandas, Jalostotitlán, Jesús María, Mexticacán, San Julián, San Miguel el Alto, Valle de Guadalupe, Cañadas de Obregón y Yahualica de González Gallo;
-
-IV.- Ciénega con cabecera en Ocotlán, y que comprende los municipios de La Barca, Chapala, Jamay, Jocotepec, Poncitlán, Tizapán el Alto, Tototlán, Tuxcueca, Atotonilco el Alto, Ayotlán, Degollado, y Zapotlán del Rey;
-
-V.- Sureste con cabecera en Tamazula de Gordiano y que comprende los municipios de Concepción de Buenos Aires, Jilotlán de los Dolores, Manuel M. Diéguez, La Manzanilla de la Paz, Mazamitla, Pihuamo, Quitupan, Tecalitlán y Valle de Juárez;
-
-VI.- Sur, con cabecera en Zapotlán el Grande y que comprende los municipios de Amacueca, Atemajac de Brizuela, Atoyac, Gómez Farías, Sayula, Tapalpa, Techaluta de Montenegro, Teocuitatlán de Corona, Tolimán, Tonila, Tuxpan, San Gabriel, Zacoalco de Torres, Zapotiltic y Zapotitlán de Vadillo;
-
-VII.- Sierra de Amula con cabecera en El Grullo, y que comprende los municipios de Atengo, Chiquilistlán, Ejutla, Juchitlán, El Limón, Tecolotlán, Tenamaxtlán, Tonaya, Tuxcacuesco y Unión de Tula;
-
-VIII.- Costa Sur, con cabecera en Autlán de Navarro y que comprende los municipios de Casimiro Castillo, Cihuatlán; Cuautitlán de García Barragán, La Huerta y Villa Purificación;
-
-IX.- Costa Norte, con cabecera en Puerto Vallarta y que comprende los municipios de Cabo Corrientes y Tomatlán;
-
-X.- Sierra Occidental con cabecera en Mascota y que comprende los municipios de Atenguillo, Ayutla, Cuautla, Guachinango, Mixtlán, San Sebastián del Oeste y Talpa de Allende;
-
-XI.- Valles con cabecera en Ameca y que comprende los municipìos de Ahualulco del Mercado, Amatitán, San Juanito de Antonio Escobedo, El Arenal, Cocula, Etzatlán, Hostotipaquillo, Magdalena, San Marcos, San Martín Hidalgo, Tala, Tequila y Teuchitlán;
-
-XII.- Centro con cabecera en Guadalajara y que comprende los municipios de Acatlán de Juárez, Cuquio, El Salto, Ixtlahuacán del Río, Ixtlahuacán de los Membrillos, Juanacatlán, San Cristóbal de la Barranca, Tlajomulco de Zúñiga, Villa Corona y Zapotlanejo;
-
-XIII.- Sub Región Centro Conurbada que comprende los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan.
+(DEROGADO POR EL SEGUNDO TRANSITORIO DEL ACUERDO 062/2013 QUE EXPIDE EL REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA, P.O. 21 DE DICIEMBRE DE 2013)
 
 ###### Artículo 19.
 
@@ -672,3 +552,21 @@ EL C. SECRETARIO GENERAL DE GOBIERNO EL C. SECRETARIO DE SEGURIDAD PÚBLICA, PRE
 LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
 
 C. DANIEL GUILLERMO ITUARTE REYNAUD
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan los artículos 10, 11, 12, 13, 14 y 18 del Reglamento del Consejo Estatal de Seguridad Pública, solo en la parte que se regula al Secretariado Ejecutivo y a la integración de los Consejos Regionales y sus regiones; así como todas aquéllas disposiciones que se opongan al presente Reglamento, dejando vigentes las disposiciones que regulen el Sistema Estatal, la coordinación entre las autoridades competentes en materia de seguridad pública, las sesiones del Pleno del Consejo Estatal de Seguridad Pública y sus comisiones.
+
+TERCERO. La Secretaría de Planeación, Administración y Finanzas, llevará a cabo el registro organizacional y presupuestario de la estructura del Secretariado Ejecutivo, dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Reglamento.
+
+CUARTO. El Órgano Consultivo del Centro Estatal, deberá constituirse dentro de los treinta días naturales posteriores a la entrada en vigor del presente Reglamento.
+
+QUINTO. En un plazo de sesenta días hábiles, se debe llevar a cabo la modificación de los nombramientos y la planilla de personal de los servidores públicos del Secretariado Ejecutivo en lo que respecta a la denominación de sus cargos o plazas para darles congruencia con la denominación prevista en este Reglamento.
+
+SEXTO. Los actos, acuerdos, resoluciones, convenios o contratos que se hubiesen emitido o suscrito por los titulares de las unidades administrativas del Secretariado Ejecutivo, antes de la entrada en vigor del Reglamento, conservarán su validez y vigencia por el plazo que se haya previsto.
+
+SÉPTIMO. Los procedimientos administrativos o juicios en los que sean partes las autoridades del Secretariado Ejecutivo seguirán atendiéndose por las unidades administrativas de las áreas jurídicas previstas en este Reglamento.
