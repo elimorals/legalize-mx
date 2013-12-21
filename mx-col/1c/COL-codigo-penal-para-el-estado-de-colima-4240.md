@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2013-11-23"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -113,11 +113,11 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 10.
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN, tipificado por el artículo 104; TERRORISMO, conforme a los párrafos primero y segundo del artículo 106 BIS; los supuestos previstos por el artículo 108; USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, Así COMO LAS DEL SISTEMA PENITENCIARIO, tipificado por el artículo 115 BIS, FALSEDAD ANTE LA AUTORIDAD, establecido por el artículo 117; EVASIÓN DE PRESOS, conforme al segundo párrafo del artículo 121; OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA, en todas sus formas y modalidades que comprenden los artículos 126 BIS, 126 BIS 1, 126 BIS 4 y 126 BIS 5; PECULADO, tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE, establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS, señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA, tipificado en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO, en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS, previsto en el artículo 161; HOMICIDIO, tipificado por los artículos 169, 170, 171, 172, tratándose del provocador, y las fracciones II y III del 173; LESIONES, conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179, 183; HOMICIDIO Y LESIONES CULPOSAS, previstos en el artículo 184 BIS; FEMINICIDIO, tipificado en el artículo 191 BIS 5; PRIVACIÓN DE LA LIBERTAD, previsto por el artículo 197; SECUESTRO, previsto por el artículo 199, respectivamente; VIOLACIÓN, en todas sus formas y modalidades que comprenden los artículos 206, 207, 208,209, y 210; ABUSO SEXUAL, en lo previsto en el segundo párrafo del artículo 215; ROBO, respecto de los supuestos del inciso B) del artículo 227, 227 BIS, 227 BIS 1, 227 BIS 2, 227 BIS 3, 227 BIS 4 y 227 BIS 5; FRAUDE EQUIPARADO, previsto en el párrafo segundo, de la fracción VII, del artículo 233, los FRAUDES ESPECÍFICOS, previstos en las fracciones III, IV, V Y VI del artículo 234; EXTORSIÓN prevista en el artículo 234 BIS; DAÑOS, tipificado por el artículo 238. Igualmente se consideran graves los delitos de: TENTATIVA DE HOMICIDIO Y SECUESTRO; TENTATIVA DE ROBO, previsto por el inciso b) del artículo 227, 227 BIS, 227 BIS 1, 227 BIS 2, 227 BIS 3, 227 BIS 4 y 227 BIS 5; y TENTATIVA DE VIOLACIÓN, previsto por los artículos 206, 207, 208, 209 y 210, así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN, tipificado por el artículo 104; TERRORISMO, conforme a los párrafos primero y segundo del artículo 106 BIS; los supuestos previstos por el artículo 108; USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, ASÍ COMO LAS DEL SISTEMA PENITENCIARIO, tipificado por el artículo 115 BIS, FALSEDAD ANTE LA AUTORIDAD, establecido por el artículo 117; EVASIÓN DE PRESOS, conforme al segundo párrafo del artículo 121; OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA, en todas sus formas y modalidades que comprenden los artículos 126 BIS, 126 BIS 1, 126 BIS 4 y 126 BIS 5; PECULADO, tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE, establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS, señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA, tipificado en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO, en los términos del segundo párrafo del artículo 158 y el numeral 159; HOMICIDIO, tipificado por los artículos 169, 170, 171, 172, tratándose del provocador, y las fracciones II y III del 173; LESIONES, conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179, 183; HOMICIDIO Y LESIONES CULPOSAS, previstos en el artículo 184 BIS; FEMINICIDIO, tipificado en el artículo 191 BIS 5; PRIVACIÓN DE LA LIBERTAD, previsto por el artículo 197; DESAPARICIÓN FORZADA DE PERSONAS en todas sus formas y modalidades que comprenden los artículos 202 BIS y 202 BIS 1; VIOLACIÓN, en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209, y 210; ABUSO SEXUAL, en lo previsto en el segundo párrafo del artículo 215; PEDERASTIA, en todas sus formas y modalidades que comprenden los artículos 216 BIS 1 y 216 BIS 2; ROBO, respecto de los supuestos del inciso B) del artículo 227, 227 BIS, 227 BIS 1, 227 BIS 2, 227 BIS 3, 227 BIS 4 y 227 BIS 5; FRAUDE EQUIPARADO, previsto en el párrafo segundo, de la fracción VII, del artículo 233, los FRAUDES ESPECÍFICOS, previstos en las fracciones III, IV, V Y VI del artículo 234; EXTORSIÓN prevista en el artículo 234 BIS; DAÑOS, tipificado por el artículo 238. Igualmente se consideran graves los delitos de: TENTATIVA DE HOMICIDIO; TENTATIVA DE FEMINICIDIO, previsto por el artículo 191 BIS 5; TENTATIVA DE ROBO, previsto por el inciso b) del artículo 227, 227 BIS, 227 BIS 1, 227 BIS 2, 227 BIS 3, 227 BIS 4 y 227 BIS 5; y TENTATIVA DE VIOLACIÓN, previsto por los artículos 206, 207, 208, 209 y 210, así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
 
 (REFORMADO, P.O. 18 DE JULIO DE 2006) (F. DE E., 15 DE OCTUBRE DE 2011)
 
@@ -3451,6 +3451,10 @@ ENCUBRIMIENTO POR RECEPTACION.
 
 Al que después de la ejecución del delito y sin haber participado en él, con ánimo de lucro, adquiera, reciba u oculte el producto del delito, si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, se le impondrán de seis meses a cuatro años de prisión y multa hasta por 40 unidades.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Cuando el sujeto que realice la conducta señalada en el párrafo anterior sea el propietario, poseedor o administrador de cualquier clase de negociación o establecimiento dedicado a la compra, venta, compraventa o intercambio de mercancía usada o nueva, la pena aplicable será de dos a seis años de prisión y multa de cuarenta a ciento veinte unidades.
+
 ###### ARTICULO 240.
 
 Al que con unidad de propósito incurra en más de dos ocasiones en cualquiera de las conductas previstas en el Artículo anterior, se le aplicarán de tres a siete años de prisión y multa hasta por 100 unidades.
@@ -4178,3 +4182,7 @@ TERCERO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de
 P.O. 23 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El Presente Decreto entrará en vigor el día de su aprobación, debiendo ser publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
