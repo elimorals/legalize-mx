@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-turismo-del-estado-8965
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-06"
-last_updated: "2013-02-23"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE TURISMO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 6 de octubre de 2012.
 
@@ -409,3 +411,11 @@ Secretario de Turismo
 P.O. 23 DE FEBRERO DE 2013.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Turismo, publicado en el periódico oficial "El Estado de Jalisco" el 06 de octubre de 2012.
+
+Tercero. Se derogan las disposiciones reglamentarias que se oponga a este Reglamento.
