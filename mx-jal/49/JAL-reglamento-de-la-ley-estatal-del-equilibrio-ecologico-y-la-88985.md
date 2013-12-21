@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-estatal-del-equilibrio-ecologico-y-la-8898
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-11"
-last_updated: "2012-08-11"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE EMISIONES POR FUENTES MÓVILES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 11 de agosto de 2012.
 
@@ -124,7 +124,7 @@ XXVII. Ley: la Ley Estatal del Equilibrio Ecológico y la Protección al Ambient
 
 XXVIII. Línea: línea de verificación vehicular consistente en el espacio físico equipado de acuerdo a lo establecido por el presente Reglamento y en cumplimiento a la normatividad vigente;
 
-XXIX. Líneas móviles de verificación: vehículo automotor que cuenta con un equipo de verificación vehicular a bordo. Las líneas móviles sólo podrán ser autorizadas a un establecimiento acreditado por la Secretaría de Medio Ambiente para el Desarrollo Sustentable, cumpliendo con los términos previstos en este Reglamento y en el manual técnico;
+XXIX. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
 XXX. Manual técnico: Manual Técnico del Reglamento de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente en Materia de Prevención y Control de Emisiones por Fuentes Móviles;
 
@@ -320,7 +320,9 @@ La acreditación otorgada por la Secretaría es de carácter intransferible e in
 
 La acreditación tendrá una vigencia de cinco años, la cual deberá de refrendarse anualmente en los términos establecidos en el manual técnico, no obstante lo anterior, la acreditación podrá ser revocada por incumplir las disposiciones de la Ley y de este Reglamento.
 
-### Capítulo III. De los Establecimientos y sus Líneas Fijas o Móviles
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+### Capítulo III. De los Establecimientos y sus Líneas Fijas
 
 ###### Artículo 22.
 
@@ -332,37 +334,19 @@ La Secretaría, atendiendo lo dispuesto por el Programa de Gestión de Calidad d
 
 ###### Artículo 24.
 
-Los establecimientos acreditados igualmente podrán tramitar la autorización para operar una línea móvil de verificación, la cual deberá estar rotulada con la imagen oficial del programa y con la identificación del establecimiento acreditado, además de cumplir con los lineamientos y requisitos establecidos en el Reglamento.
-
-No se podrá autorizar más de una línea móvil por establecimiento.
-
-Es requisito para la autorización de una línea móvil que el establecimiento solicitante, cuente con línea fija con al menos seis meses en operación, sin que durante dicho período se le haya impuesto sanción alguna por operación irregular.
-
-Queda prohibido para las líneas móviles prestar el servicio a vehículos con placas extranjeras y de otras entidades federativas o con pedimento de importación.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 ###### Artículo 25.
 
-Las líneas móviles sólo podrán prestar sus servicios a flotillas vehiculares de entidades públicas o privadas que así lo soliciten por escrito. El proceso de verificación deberá realizarse dentro de sus instalaciones, por lo que queda prohibido para estas líneas el prestar servicios de verificación al público en general o en la vía pública.
-
-Esta disposición podrá ser exceptuada por la Secretaría, cuando se atienda una solicitud de alguna autoridad municipal que requiera el servicio de verificación vehicular en sus localidades y que en dicho municipio no se cuente con algún establecimiento disponible para realizar la verificación.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 ###### Artículo 26.
 
-El establecimiento acreditado interesado en prestar el servicio de verificación vehicular a través de una línea móvil deberá de ingresar su solicitud con diez días hábiles de anticipación a la fecha prevista, acompañando a la misma la siguiente documentación:
-
-I. Escrito en hoja membretada del ente público o privado que requiera el servicio;
-
-II. La ubicación georeferenciada donde se pretenda prestar el servicio; y
-
-III. La fecha y el horario.
-
-Ingresando en tiempo y forma la referida solicitud se tendrá como procedente la petición, siempre y cuando la Secretaría no niegue la autorización dentro de los cinco días posteriores a la solicitud en virtud de no haberse proporcionado la información en los términos señalados por el presente Reglamento y el manual técnico o exista algún mandato que impida este servicio derivado de un procedimiento administrativo instaurado por la Procuraduría.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 ###### Artículo 27.
 
-Todas las líneas móviles deberán presentarse en las instalaciones del Centro Oficial de Medición con la periodicidad que la Dirección Operativa establezca, con el objeto de que el personal técnico de la misma valide el correcto funcionamiento y las condiciones tanto de los equipos como del automotor.
-
-Este procedimiento no sustituye a las actualizaciones, servicios de mantenimiento y auditorías a los que están obligados como líneas de verificación, en términos de la normatividad en la materia.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 ### Capítulo IV. De la Homologación de Procedimientos y Hologramas
 
@@ -438,7 +422,9 @@ I. Cambio de responsable o representante legal del establecimiento acreditado;
 
 II. Cambios en las personas autorizadas para la recepción de hologramas;
 
-III. Reportes de incidentes con las líneas de verificación fijas o móviles que se presenten durante su operación;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+III. Reportes de incidentes con las líneas de verificación fijas que se presenten durante su operación;
 
 IV. Casos de robo o embargo de bienes utilizados en la verificación vehicular;
 
@@ -456,11 +442,11 @@ Tanto los informes como los reportes deberán de acompañarse con la documentaci
 
 ###### Artículo 33.
 
-Los establecimientos que cuenten con líneas móviles de verificación deberán dar aviso con diez días hábiles de anticipación a la fecha prevista para el servicio de verificación que atienda una solicitud de alguna autoridad municipal en los términos de este Reglamento.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 ###### Artículo 34.
 
-Los establecimientos que cuenten con líneas móviles de verificación deberán presentar dentro de los primeros cinco días hábiles del mes, el reporte electrónico y las grabaciones en video de las verificaciones realizadas a las entidades públicas o privadas atendidas en el mes inmediato anterior, en los términos señalados en el manual técnico.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 ## Título Tercero. De los Proveedores y Auditores
 
@@ -660,9 +646,11 @@ En caso de destrucción, extravío o robo del holograma, el cumplimiento de la v
 
 ### Capítulo III. De la Entrega de Hologramas
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 62.
 
-La entrega y control de hologramas a los establecimientos acreditados se realizará por la Dirección Operativa. En caso de las líneas móviles de verificación, éstas se considerarán como líneas de verificación del establecimiento.
+La entrega y control de hologramas a los establecimientos acreditados se realizará por la Dirección Operativa.
 
 ###### Artículo 63.
 
@@ -872,7 +860,7 @@ El Centro Oficial de Medición, de conformidad con el presupuesto de egresos de 
 
 El Centro Oficial de Medición tendrá las siguientes funciones:
 
-I. La operación de las líneas móviles de verificación a través de la Dirección Operativa;
+I. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
 II. La coordinación de operativos con la Secretaría de Vialidad;
 
@@ -884,7 +872,7 @@ V. La tramitación de la liberación ambiental de vehículos detenidos por conta
 
 VI. Centro de regulación y revisión técnica a establecimientos;
 
-VII. Supervisión de las líneas móviles de verificación de establecimientos; y
+VII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
 VIII. Entre otras que se le asigne por parte de la Dirección Operativa en el ámbito de sus atribuciones.
 
@@ -1106,17 +1094,21 @@ XXVII. No entregar a la Secretaría información que les sea requerida para comp
 
 XXVIII. Superar la capacidad de trabajo estimada por la Secretaría en materia de verificación vehicular, sin justificación;
 
-XXIX. Utilizar un equipo de verificación de emisiones vehiculares registrado para una línea fija como línea móvil;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXX. Llevar a cabo verificaciones con líneas móviles al público en general o en la vía pública, cuando no se trate de la excepción establecida en este Reglamento;
+XXIX. Utilizar un equipo de verificación de emisiones vehiculares registrado para una línea fija;
 
-XXXI. Prestar el servicio de verificación vehicular con una línea móvil a vehículos con placas extranjera (sic), otras entidades federativas o con pedimento de importación;
+XXX. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
-XXXII. No cumplir con todas las especificaciones exigidas por el presente Reglamento y el manual técnico para las líneas de verificación o líneas móviles;
+XXXI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
-XXXIII. Llevar a cabo verificaciones con líneas móviles que no hayan sido previamente notificadas a la Secretaría de acuerdo a lo establecido por este Reglamento;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXXIV. Tener inconsistencias en los datos reportados de las verificaciones realizadas por las líneas móviles;
+XXXII. No cumplir con todas las especificaciones exigidas por el presente Reglamento y el manual técnico para las líneas de verificación fijas;
+
+XXXIII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
+
+XXXIV. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
 XXXV. Obstaculizar la práctica de supervisiones por parte de la Secretaría o la Procuraduría;
 
@@ -1353,3 +1345,13 @@ LIC. DIEGO MONRAZ VILLASEÑOR
 Secretario de Vialidad y Transporte
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco".
+
+SEGUNDO. La acreditación otorgada a los establecimientos de verificación respecto de la línea móvil, que se encuentre vigentes (sic) a la fecha de publicación del presente Acuerdo, seguirá surtiendo efectos jurídicos hasta la conclusión de dicha vigencia, salvo en el caso de revocación de la misma por los supuestos previstos en la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en materia de Prevención y Control de Emisiones por Fuentes Móviles.
+
+TERCERO. Las normas vigentes al momento del otorgamiento de la acreditación de líneas móviles a los establecimientos correspondientes, se seguirán aplicando en cuanto a las obligaciones, responsabilidades y sanciones, hasta en tanto concluya la vigencia de esas acreditaciones en términos del artículo anterior.
