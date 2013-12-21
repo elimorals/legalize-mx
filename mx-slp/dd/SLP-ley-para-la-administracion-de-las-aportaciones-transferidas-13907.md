@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2012-06-14"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -335,6 +335,10 @@ El Ejecutivo del Estado por conducto de la Secretaría de Seguridad Pública, pr
 
 Los recursos del Fondo Estatal para la Infraestructura Social se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas, y a inversiones que tengan un alcance regional o intermunicipal, y beneficien directamente a sectores de la población del Estado que se encuentren en condiciones de rezago social y de pobreza extrema.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Las comunidades inscritas en el Padrón de Comunidades Indígenas en el Estado de San Luis Potosí, conforme al reconocimiento que se hace de ellos como sujetos de derecho público en la Constitución Política del Estado, podrán presentar directamente a la Secretaría de Desarrollo Social y Regional, proyectos de infraestructura social regional o intermunicipal, en beneficio de su población.
+
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 36.
@@ -353,7 +357,7 @@ De conformidad con el Programa de Inversiones, se podrán afectar en fideicomiso
 
 ###### ARTICULO 38.
 
-En caso de que el Fondo Estatal para la Infraestructura Social recibiera recursos adicionales a los establecidos en el Presupuesto de Egresos Estatal, éstos quedarán sujetos en cuanto a su administración y ejecución, a lo establecido en la presente Ley.
+En caso de que el Fondo Estatal para la Infraestructura Social recibiera recursos adicionales a los establecidos en el Presupuesto de Egresos Estatal, estos quedarán sujetos en cuanto a su administración y ejecución, a lo establecido en la presente Ley.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -683,7 +687,7 @@ El Titular del Ejecutivo del Estado o los funcionarios estatales que designe, po
 
 ###### ARTICULO 71.
 
-El Ejecutivo del Estado, a través de la Secretarí a (sic) de Desarrollo Social y Regional, coadyuvará con los ayuntamientos a la realización de estrategias y esquemas para impulsar la participación social.
+El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y Regional, coadyuvará con los ayuntamientos a la realización de estrategias y esquemas para impulsar la participación social.
 
 ###### ARTICULO 72.
 
@@ -907,7 +911,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE JUNIO DE 2007.
 
-PRIMERO.- Este Decreto entrará en vigor al dí a (sic)siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- Este Decreto entrará en vigor al dí a (sic) siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -940,3 +944,9 @@ P.O. 14 DE JUNIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
