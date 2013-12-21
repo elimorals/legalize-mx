@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-valuacion-para-el-estado-de-tabasco-83609"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-28"
-last_updated: "2011-09-28"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE VALUACIÓN PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento H del Periódico Oficial del Estado de Tabasco, el miércoles 28 de septiembre de 2011.
 
@@ -87,7 +87,9 @@ III. Ley: La Ley de Valuación Para el Estado de Tabasco;
 
 IV. Registro: El Registro Estatal de Valuadores del Estado de Tabasco;
 
-V. Secretaría: La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+V. Secretaría: La Secretaría de Planeación y Finanzas; y
 
 VI. Valuador: Persona física capacitada y legalmente facultada para realizar trabajos de valuación que cuenta con los conocimientos teóricos y prácticos que le permiten desempeñar su labor, con título universitario otorgado por instituciones educativas en nivel superior y con sus cédulas expedidas por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública; autorizada como tal por la Comisión e inscrita en el Registro, previo haber cumplido con todos y cada uno de los requisitos que esta Ley establece para obtener dicha acreditación. También podrán ser valuadores las personas que ejerzan en forma empírica, y cuenten con el aval de algún colegio de valuadores.
 
@@ -121,11 +123,15 @@ H) Otras especialidades específicas.
 
 Se crea la Comisión del Registro Estatal de Valuadores del Estado de Tabasco, que gozará de plena autonomía técnica sobre la administración del Registro y estará integrada por:
 
-I. Un Presidente que será el Secretario de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+I. Un Presidente que será el Secretario de Planeación y Finanzas;
 
 II. Dos Secretarios, uno que será representado por la Subsecretaría de Ingresos de la Secretaría y otro que será el Director del Instituto Registral del Estado;
 
-III. Cinco Vocales Estatales, dos que serán propuestos por los colegios de valuadores en el Estado de Tabasco; y tres más que serán propuestos, uno por la Secretaría de Gobierno; otro por la Consejería Jurídica del Poder Ejecutivo del Estado; y otro por la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+III. Cinco Vocales Estatales, dos que serán propuestos por los colegios de valuadores en el Estado de Tabasco; y tres más que serán propuestos, uno por la Secretaría de Gobierno; otro por la Coordinación General de Asuntos Jurídicos; y otro por la Secretaría de la Contraloría;
 
 IV. Tres vocales municipales: De los cuales, dos serán designados de acuerdo al orden alfabético establecido en el artículo 5 de la Ley Orgánica de los Municipios del Estado de Tabasco. Los cuales serán renovados cada dos años, y en el orden secuencial previstos en dicha ley.
 
@@ -159,9 +165,17 @@ X. Desahogar el recurso de revocación dentro de los términos establecidos en e
 
 XI. Publicar en el Periódico Oficial del Estado, y en un diario de mayor circulación estatal, el Registro de Valuadores en el mes de febrero de cada año; además de manera permanente en su página electrónica;
 
-XII. Realizar de oficio o a petición del interesado, revisiones a los actos de los valuadores para comprobar que se ha cumplido con lo establecido en la presente Ley, su Reglamento y demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XIII. Las demás que le confieran otras disposiciones legales o que le sean inherentes o necesarias para el mejor desempeño de su función, o se establezcan en su Reglamento.
+XII. Realizar de oficio o a petición de la Dirección General de Catastro y Ejecución Fiscal de la Secretaría y del interesado, revisiones a los actos de los valuadores para comprobar que se ha cumplido con lo establecido en la presente Ley, su Reglamento y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XIII. La Comisión podrá convocar a las personas que cuenten con registros de perito valuador, auxiliar o independiente a la realización de exámenes teórico-prácticos, a efecto de verificar su actualización en el conocimiento de las leyes, lineamientos y manuales técnicos y administrativos, así como del mercado inmobiliario actual del Estado; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XIV. Las demás que le confieran otras disposiciones legales o que le sean inherentes o necesarias para el mejor desempeño de su función o se establezcan en su Reglamento.
 
 Para el mejor desempeño de sus atribuciones, la Comisión podrá integrar grupos de trabajo en las diversas especialidades de la actividad valuatoria, para resolver los asuntos que se le planteen, y contará con el apoyo de los servidores públicos que al efecto designe o comisione, en caso de ser necesario el Presidente de la Comisión para su adecuado funcionamiento.
 
@@ -532,3 +546,11 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
