@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "2013-02-02"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 21 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. 21 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -818,3 +820,351 @@ P.O. 2 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero del año dos mil catorce, sin perjuicio de su publicación en el Periódico Oficial del Estado, con la modalidad prevista en el Artículo Tercero Transitorio.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Pensiones Civiles del Estado de Chihuahua, contenida en el Decreto Número 380/81, publicado en el Anexo al Periódico Oficial del Estado número 101 de fecha 19 de diciembre de 1981, y se derogan todas las disposiciones que se opongan a las de la presente Ley, con las modalidades previstas en los artículos siguientes.
+
+###### ARTÍCULO TERCERO.
+
+El término para el cumplimiento de las obligaciones a cargo de los patrones, derivadas de lo dispuesto en los artículos 1°; 2°; 5°, fracciones XIII y XXII; 16; 20; 22 y demás relativos y aplicables de la nueva Ley, en relación a la incorporación al régimen de Pensiones Civiles del Estado, así como al goce de sus prestaciones, respecto de aquellos trabajadores que ya se encontraban laborando en alguna de las instituciones a que se refiere el señalado artículo 1° de este ordenamiento y que no se encontraban aportando al fondo de retiro de ese organismo público descentralizado, será de doscientos setenta días naturales, contados a partir de la entrada en vigor del ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Quedan sin efecto los convenios de incorporación con Instituciones afiliadas, celebrados al amparo de la Ley que se abroga. Los que en lo sucesivo se celebren, estarán sujetos a lo previsto en la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Quienes a la fecha de entrada en vigor de la presente Ley se encuentren disfrutando de una jubilación o pensión, otorgada al amparo de la que se abroga, conservarán todos los derechos y prerrogativas que la misma les haya concedido, inclusive lo contenido en el artículo 66 de dicha Ley, que establece que las jubilaciones y pensiones se incrementarán en la misma proporción y a partir de la misma fecha en que aumenten los sueldos de los trabajadores en activo.
+
+###### ARTÍCULO SEXTO.
+
+A los trabajadores que se encuentren cotizando al régimen de Pensiones Civiles del Estado a la fecha de entrada en vigor de la presente Ley, se les reconocen los periodos cotizados con anterioridad.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efectos del cómputo de años de servicio a que se refieren las jubilaciones y pensiones, se considerará como año completo de servicio la fracción de más de seis meses. Así también, los incrementos de las mismas y la gratificación anual correspondiente, será en los términos que preveía el artículo 66 de la Ley anterior y el monto de la jubilación o pensión que corresponda, será de conformidad con el artículo 52 de la Ley anterior.
+
+###### ARTÍCULO OCTAVO.
+
+Los trabajadores que a la fecha de entrada en vigor de la presente Ley hayan reunido los requisitos para obtener una jubilación, podrán optar por esta o continuar prestando sus servicios y jubilarse en cualquier momento, en los términos de la Ley que se abroga.
+
+###### ARTÍCULO NOVENO.
+
+Los trabajadores que hayan cumplido quince años o más de servicio, habiendo cotizado durante todo ese tiempo a la Institución, y que antes de la fecha de entrada en vigor de la presente Ley hayan sufrido una incapacidad permanente para desempeñar sus funciones, cualquiera que sea su edad, tendrán derecho al otorgamiento de una pensión por invalidez en los términos del artículo 49 de la Ley que se abroga.
+
+###### ARTÍCULO DÉCIMO.
+
+El Instituto podrá disponer de las reservas que se generen por las cuotas y aportaciones a las cuentas individuales, para cubrir las prestaciones y pensiones en curso de pago, así como de las provenientes de los trabajadores que no opten por migrar al nuevo sistema.
+
+El Instituto llevará un control contable de los saldos y rendimientos anuales que generen las cuentas individuales, los cuales no podrán ser inferiores a la tasa de inflación anual más dos puntos porcentuales.
+
+###### ARTÍCULO UNDÉCIMO.
+
+A aquellos trabajadores que a la entrada en vigor de la presente Ley se encuentren en licencia con o sin goce de sueldo, se les computarán todos los años en que hubieran prestado sus servicios, aun cuando hayan sido discontinuos; en su caso, el trabajador o sus beneficiarios deberán pagar la totalidad de las aportaciones que se dejaron de cubrir oportunamente, más intereses.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Las aportaciones a cargo del Patrón serán el equivalente al 20% del salario sujeto a cotización y las cuotas a cargo de los trabajadores que ya estaban cotizando a la Institución al momento de la entrada en vigor de la presente Ley, será de acuerdo a la siguiente tabla:
+
+Año Porcentaje conforme al salario sujeto a cotización
+
+2014 5%
+
+2015 6%
+
+2016 7%
+
+2017 en adelante 8%
+
+En el caso de los trabajadores del Estado que ya se encontraban laborando antes de la entrada en vigor de la presente Ley y que no aportaban a su fondo de retiro en esta Institución, su cuota será del 12% del salario referido y las aportaciones a cargo del patrón serán del 17% del salario sujeto a cotización.
+
+ARTÍCULO DECIMOTERCERO.- Para los trabajadores que ya se encontraban cotizando en esta Institución al momento de la entrada en vigor de la presente Ley, tendrán derecho a una pensión por jubilación equivalente al 100% del último sueldo devengado, en términos del artículo 52 de la Ley anterior, siempre y cuando cuenten con 30 años de servicio los hombres y 28 años las mujeres, y que cumplan con la edad requerida conforme a la siguiente tabla:
+
+Año Edad requerida mujeres Edad requerida hombres
+
+2014-2020 N/A N/A
+
+2021-2023 51 53
+
+2024-2026 52 54
+
+2027-2029 53 55
+
+2030 en adelante 54 56
+
+La anterior tabla se aplicará siempre y cuando los trabajadores no excedan en el caso de las mujeres de treinta y un años de servicio y los hombres de treinta y tres años de servicio.
+
+La pensión será vitalicia con transmisión a beneficiarios mencionados en el artículo 57 de esta Ley, disminuyéndose un 10% por cada año hasta quedar en el 50% de la pensión original.
+
+La pensión de referencia se incrementará en la misma proporción y a partir de la misma fecha en que aumenten los sueldos de los trabajadores en activo.
+
+Sin embargo, los trabajadores que así lo deseen y que cumplan con los requisitos de jubilación, podrán seguir laborando siempre y cuando no sobrepasen el factor 85 y recibirán un estímulo a la permanencia consistente en un incremento porcentual a su salario sujeto a cotización, de acuerdo a la siguiente tabla:
+
+Año Porcentaje
+
+1 11%
+
+2 12%
+
+3 13%
+
+4 14%
+
+5 15%
+
+6 16%
+
+7 17%
+
+8 18%
+
+9 19%
+
+10 20%
+
+En ningún caso podrá excederse el porcentaje de estímulo más allá del 20%.
+
+Este estímulo no forma parte del salario del trabajador y, por lo tanto, no se tomará en cuenta para integrar el monto de la jubilación.
+
+ARTÍCULO DECIMOCUARTO.- La pensión por jubilación será vitalicia con transmisión a beneficiarios mencionados en el artículo 57 de esta Ley, hasta por un monto del 80% en el primer año, disminuyéndose un 10% por cada año hasta quedar en el 50% de la pensión original.
+
+La pensión que corresponda a los beneficiarios mencionados en el párrafo anterior se incrementará en la misma proporción y a partir de misma (sic) fecha en que aumenten los sueldos de los trabajadores en activo.
+
+ARTÍCULO DECIMOQUINTO.- Los trabajadores que se jubilen o pensionen por cualquiera de las formas establecidas en esta Ley a partir de la entrada en vigor, serán sujetos a cuotas de acuerdo a un porcentaje de su pensión, conforme a la siguiente tabla:
+
+Años de pensionado Porcentaje
+
+1 4%
+
+2 3%
+
+3 en delante (sic) 2%
+
+Los ya jubilados hasta antes de entrar en vigor la presente Ley, podrán realizar cuotas de manera voluntaria destinadas al fondo de pensiones y sobre el porcentaje de su pensión que deseen.
+
+ARTÍCULO DECIMOSEXTO.- Los trabajadores que ya se encontraban cotizando al fondo de retiro en esta Institución al momento de entrar en vigor la presente Ley, tendrán derecho a una pensión por antigüedad, siempre y cuando cuenten con 15 años de servicio y cumplan con la edad requerida en la siguiente tabla:
+
+Año Edad requerida Año Edad requerida
+
+2014 55 2019-2020 57
+
+2015-2016 55 2021 en delante (sic) 58
+
+2017-2018 56
+
+El monto de la pensión será el equivalente a un porcentaje del último salario devengado y de conformidad con el artículo 52 de la Ley anterior, de acuerdo con la tabla que a continuación se ilustra:
+
+Años de Porcentaje Años de Porcentaje Años de Porcentaje
+
+Cotización cotización cotización
+
+15 55.0 20 64.0 25 75.0
+
+16 57.5 21 65.0 26 80.0
+
+17 60.0 22 66.0 27 85.0
+
+18 62.5 23 67.0 28 90.0
+
+19 63.0 24 70.0 29 95.0
+
+30 o más 100.0
+
+Dicha pensión será vitalicia con transmisión a beneficiarios mencionados en el artículo 57 de la presente Ley, al 80% del monto de la pensión, disminuyéndose un 10% por cada año, hasta quedar en el 50% de la pensión original.
+
+Las pensiones de referencia se incrementarán en la misma proporción y a partir de la misma fecha en que aumenten los sueldos de los trabajadores en activo.
+
+ARTÍCULO DECIMOSÉPTIMO.- En el caso de los trabajadores que ya se encontraban laborando en alguna de las Instituciones a que se refieren los artículos 1° y 4° de esta Ley y que no se encontraban aportando al fondo de retiro en esta Institución, tendrán derecho a una pensión por antigüedad los que hayan cotizado a la Institución por al menos 20 años de servicio y el factor 85 de edad, con el otorgamiento de un porcentaje del salario regulador, entendiéndose este como el promedio ponderado de los salarios sujetos a cotización que el trabajador obtuvo durante toda su vida laboral, de acuerdo con la siguiente tabla:
+
+Años de Porcentaje Años de Porcentaje Años de Porcentaje
+
+Cotización del salario Cotización del salario Cotización del salario
+
+regulador regulador regulador
+
+20 62.5 27 80.0 34 97.5
+
+21 65.0 28 82.5 35 100.0
+
+22 67.5 29 85.0
+
+23 70.0 30 87.5
+
+24 72.5 31 90.0
+
+25 75.0 32 92.5
+
+26 77.5 33 95.0
+
+Se les reconocerá la antigüedad mediante el pago del capital constitutivo calculado actuarialmente, con las nuevas reglas de cuotas porcentuales para los de nuevo ingreso, este pago se efectuará en partes proporcionales en función de las cuotas y aportaciones establecidas y podrá ser en parcialidades, a través de un préstamo de la Institución o pagado directamente a la misma.
+
+Esta pensión será vitalicia, con transmisión a beneficiarios que menciona el artículo 57 de la Ley, al 80% del monto de la misma, disminuyéndose un 10% cada año hasta quedar en 50% de la pensión original.
+
+Sin embargo, los trabajadores que así lo deseen y, que cumplan con los requisitos de jubilación, podrán seguir laborando y recibirán un estímulo a la permanencia consistente en un incremento porcentual a su salario sujeto a cotización; de acuerdo a la siguiente tabla:
+
+Año Porcentaje
+
+1 11%
+
+2 12%
+
+3 13%
+
+4 14%
+
+5 15%
+
+6 16%
+
+7 17%
+
+8 18%
+
+9 19%
+
+10 20%
+
+En ningún caso podrá excederse el porcentaje de estímulo más allá del 20%.
+
+Este estímulo no forma parte del salario del trabajador y, por lo tanto, no se tomará en cuenta para integrar el monto de la jubilación.
+
+En el caso de los trabajadores que ya se encontraban laborando en alguna de las Instituciones a que se refiere el artículo 1° de esta Ley y que no se encontraban aportando al fondo de retiro en esta Institución, tendrán derecho a una pensión por retiro anticipado cinco años antes de cumplir con el requisito del factor 85 establecido por la pensión por antigüedad, siempre y cuando se cuente con al menos 20 años de servicio. El monto será el resultado de la pensión que le hubiera correspondido por antigüedad, multiplicado por el porcentaje de la siguiente tabla, de acuerdo con los años de anticipación:
+
+Edad Porcentaje Edad Porcentaje
+
+5 años de 2 años de
+
+Anticipación 0.75 anticipación 0.90
+
+4 años de 1 años de
+
+Anticipación 0.80 anticipación 0.95
+
+3 años de 0 años de
+
+Anticipación 0.85 anticipación 1.0
+
+La pensión por retiro anticipado será vitalicia con transmisión al 80% del monto, a los beneficiarios señalados en el artículo 57 de la Ley, disminuyéndose un 10% por cada año hasta quedar en el 50% de la pensión original.
+
+Una vez jubilado el trabajador a que hace referencia este artículo, aportará una cuota del 12% de su pensión, por el resto de su vida.
+
+ARTÍCULO DECIMOOCTAVO (SIC).- Los trabajadores que se encontraban cotizando en esta institución antes de la entrada en vigor de la presente Ley, tendrán derecho a una pensión por invalidez, por viudez o concubinato, orfandad o ascendencia, en su caso, por causas ajenas al servicio. El monto será de un porcentaje del último salario devengado en los términos del artículo 52 de la Ley anterior, de acuerdo con la siguiente tabla:
+
+Años de Porcentaje Años de Porcentaje Años de Porcentaje
+
+Cotización cotización cotización
+
+A partir
+
+del primer
+
+año y
+
+hasta 14
+
+años 50.00 20 64.0 26 80.0
+
+15 55.0 21 65.0 27 85.0
+
+16 57. 5 22 66.0 28 90.0
+
+17 60.0 23 67.0 29 95.0
+
+18 62.5 24 70.0 30 o más 100.0
+
+19 63.0 25 75.0
+
+Las pensiones de referencia se incrementarán en la misma proporción y a partir de la misma fecha en que aumenten los sueldos de los trabajadores en activo.
+
+Los trabajadores que no se encontraban cotizando en esta institución antes de la entrada en vigor de la presente Ley, tendrán derecho a una pensión por invalidez, viudez o concubinato, orfandad o ascendencia, en su caso, por causas ajenas al servicio. El monto será de un porcentaje del salario regulador de acuerdo con la siguiente tabla:
+
+Años de Porcentaje Años de Porcentaje Años de Porcentaje
+
+Cotización cotización cotización de salario regulador
+
+A partir
+
+del primer
+
+año y
+
+hasta 15
+
+años 50.00 22 67.5 29 85.0
+
+16 52.5 23 70.0 30 87.5
+
+17 55.0 24 72.5 31 90.0
+
+18 57.5 25 75.0 32 92.5
+
+19 60.0 26 77.0 33 95.0
+
+20 62.5 27 80.0 34 97.5
+
+21 65.0 28 82.5 35 o más 100.0
+
+Dichas pensiones serán vitalicias con transmisión a beneficiarios mencionados en el artículo 57 de la vigente Ley, al 80% del monto de la pensión, disminuyéndose un 10% por cada año, hasta quedar en el 50% de la pensión original.
+
+La pensión mensual no podrá ser inferior a treinta días de salario mínimo general vigente en el Distrito Federal.
+
+Para lo concerniente a la pensión de invalidez se aplicará en lo conducente lo previsto en los artículos 39 y 40 de la presente Ley.
+
+ARTÍCULO DECIMONOVENO.- En el caso de los trabajadores que ya se encontraban laborando antes de la entrada en vigor de la presente Ley, aportando o no al fondo propio en esta Institución, y que por un riesgo de trabajo les genere una incapacidad total permanente, tendrán derecho a recibir una pensión equivalente al 100% del último salario devengado en los términos del artículo 52 de la Ley anterior, desde el inicio del trámite y aprobación del alta ante la Institución afiliada, la cual será vitalicia con transmisión a los beneficiarios mencionados en el artículo 57 de la presente Ley, al 80% del monto de la pensión, disminuyéndose en un 10% por cada año hasta quedar en el 50% de la pensión original, salvo que la muerte haya sido como consecuencia directa de la causa que originó la incapacidad, caso en el cual se mantendrá el 100% de la pensión original.
+
+Cuando el riesgo de trabajo genere una incapacidad parcial permanente, el trabajador tendrá derecho a recibir una pensión equivalente a un porcentaje de su último salario devengado, de acuerdo a la tabla de valuación de incapacidades establecida en la Ley Federal del Trabajo.
+
+Las pensiones de referencia se incrementarán en la misma proporción y a partir de la misma fecha en que aumenten los sueldos de los trabajadores en activo.
+
+La pensión en ningún caso podrá ser inferior al salario mínimo general vigente en el Distrito Federal.
+
+Para lo concerniente a esta pensión se aplicará en lo conducente lo previsto en el artículo 50 de la presente Ley.
+
+###### ARTÍCULO VIGÉSIMO.
+
+En el caso de los trabajadores que ya se encontraban laborando antes de la entrada en vigor de la presente Ley, aportando o no al fondo propio en esta Institución, a su muerte a cualquier edad, derivada de un riesgo de trabajo, dará lugar al otorgamiento de una pensión por viudez o concubinato, o por orfandad o de ascendencia, según corresponda, a favor de quienes conforme al artículo 57 de la presente Ley tengan el carácter de sus beneficiarios.
+
+El importe de la pensión por viudez o concubinato, o de orfandad o ascendencia, será del 100% del último salario cotizado, en los términos del artículo 52 de la Ley anterior.
+
+Las pensiones de referencia se incrementarán en la misma proporción y a partir de la misma fecha en que aumenten los sueldos de los trabajadores en activo.
+
+El derecho a recibir las pensiones consignadas en el artículo 64 de la Ley se perderá en los mismos casos que los señalados en el artículo 62, en ambos casos, de la presente Ley.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Las cuotas y aportaciones de los trabajadores y pensionados sujetos a los artículos transitorios, se destinarán a un Fondo Global de Pensiones que servirá para el pago de sus pensiones. En caso de que los recursos con que cuente la Institución para el otorgamiento de las pensiones no sean suficientes, el patrón deberá aportar de manera extraordinaria las diferencias que resulten entre los ingresos por concepto de cuotas y aportaciones que establece esta Ley, y los egresos por el pago de las pensiones.
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+En el caso de los trabajadores que ya se encontraban laborando para los Poderes del Estado, los organismos autónomos, las instituciones afiliadas o la Universidad Autónoma de Chihuahua al momento de entrar en vigor la presente Ley, el monto de las pensiones caídas y cualquier prestación en dinero a cargo de la Institución, que no reclamen los interesados dentro de los cinco años siguientes a la fecha en que fueron exigibles, prescribirán a favor de la misma.
+
+###### ARTÍCULO VIGÉSIMO TERCERO.
+
+El trabajador que ya se encontraba laborando antes de la entrada en vigor de la presente Ley, aportando o no al fondo propio en esta Institución, que cause baja y se retire sin derecho a pensión, tendrá derecho a la devolución del importe acumulado de sus cuotas.
+
+La devolución se hará previa solicitud por escrito del trabajador que cause baja.
+
+###### ARTÍCULO VIGÉSIMO CUARTO.
+
+Los trabajadores que ya se encontraban laborando antes de la entrada en vigor de la presente Ley, aportando o no al fondo propio de esta Institución, tienen la opción de migrar al esquema de cuentas individuales de las nuevas generaciones y obtener un bono de reconocimiento de antigüedad en su cuenta individual, mismos que serán cubiertos por el Instituto.
+
+El empleador para el cual esté prestando servicios el trabajador deberá acreditar a favor del Instituto, por cada uno de ellos, el bono de referencia mismo que se hará efectivo cuando el trabajador tenga derecho a hacer exigible su cuenta individual en los términos de esta Ley. Para estos fines los empleadores deberán crear la reserva necesaria.
+
+El bono de reconocimiento de antigüedad se contabilizará al momento de que se dé el cambio de régimen y el pago será efectivo al momento de acceder a la pensión correspondiente en términos de la tabla siguiente:
+
+> <small>N. DE E. VÉASE TABLA EN EL FOLLETO ANEXO DEL P. O. DEL ESTADO DE CHIHUAHUA 21 DE DICIEMBRE DE 2013, PAGINA 28.</small>
+
+Para determinar el monto del bono de reconocimiento de antigüedad en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del trabajador, por el sueldo devengado mensual, elevado al año que estuviera percibiendo al último día del año anterior a que entre en vigor la Ley.
+
+Los bonos generarán un interés anual equivalente al 3.5% real con cargo a los empleadores.
+
+###### ARTÍCULO VIGÉSIMO QUINTO.
+
+Queda vigente el estatuto orgánico de la Ley derogada mientras no se expida uno nuevo.
