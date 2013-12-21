@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-tabasqueno-de-59405"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-19"
-last_updated: "2010-04-21"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de enero de 2008.
 
@@ -201,7 +201,9 @@ IV. Consejeros;
 
 V. Secretaría Ejecutiva;
 
-VI. Dirección Jurídica Consultiva;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VI. Dirección Jurídica Consultiva y Protección de Datos Personales;
 
 VII. Dirección de Administración y Finanzas;
 
@@ -213,13 +215,17 @@ IX. Dirección de Informática;
 
 X. Órgano de Control Interno; y (sic)
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XI. Unidad de Archivos; y
+XI. Unidad de Archivos;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XII. Las demás unidades y personal técnico y administrativo que conforme a la disponibilidad presupuestaria, autorice el Pleno a propuesta de su Presidente.
+XII. Unidad de Comunicación Social; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XIII. Las demás unidades, personal técnico o administrativo que conforme a la disponibilidad presupuestaria, autorice el Pleno a propuesta de su Presidente.
 
 ### Capítulo III. Del Pleno
 
@@ -355,9 +361,13 @@ XXVII. Proponer al Órgano de Gobierno las medidas administrativas necesarias pa
 
 XXVIII. Nombrar al personal necesario en casos urgentes, dando cuenta al Órgano de Gobierno en la próxima reunión para que los ratifique o rectifique.
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXIX. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
+XXIX. Suscribir los contratos de adquisiciones, arrendamientos o prestación de servicios, que sean necesarios para el mejor desempeño de las actividades del Instituto; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXX. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
 ### Capítulo VI. De los Consejeros
 
@@ -403,7 +413,9 @@ III. Apoyar al Presidente en el cumplimiento de las resoluciones y acuerdos del 
 
 IV. Notificar a los Consejeros la fecha y hora de las sesiones junto con el orden del día y entregar a éstos oportunamente los proyectos y la documentación necesaria para la discusión correspondiente;
 
-V. Apoyar al Presidente en la recepción y substanciación de los asuntos que sean competencia del Instituto, así como elaborar los proyectos de acuerdos respectivos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+V. Apoyar al Presidente en la recepción y substanciación de los asuntos que sean competencia del Instituto, así como elaborar los proyectos de acuerdos respectivos, autorizando y dando fe, así como efectuar la notificación oportuna de los mismos a través del Servidor Público que para tales efectos designe el Órgano de Gobierno;
 
 VI. Realizar el sorteo de los asuntos para resolver, observando las disposiciones contenidas en este Reglamento;
 
@@ -415,11 +427,15 @@ VIII. Asistir al Presidente durante las sesiones del Pleno y/o del Órgano de Go
 
 IX. Publicar las resoluciones del Pleno;
 
-X. Verificar que las resoluciones y acuerdos del Pleno se notifiquen oportunamente;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+X. Efectuar la notificación oportuna de los acuerdos y resoluciones que emita el Pleno, a través del Servidor Público que para tales efectos designe el Órgano de Gobierno;
 
 XI. Llevar el control del libro de actas del Pleno y/o del Órgano de Gobierno y suscribir éstas después de que las firmen los Consejeros;
 
-XII. Certificar las actas, resoluciones, acuerdos y demás documentos que expida el Pleno y/o el Órgano de Gobierno;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XII. Certificar las actas, resoluciones, acuerdos y demás documentos que expida el Pleno y/o el Órgano de Gobierno, así como de todos aquellos documentos que obren en los archivos de las distintas áreas del Instituto;
 
 XIII. Proponer al Pleno proyectos tendentes a crear una cultura de transparencia y acceso a la información, mediante la realización de seminarios, cursos, talleres o conferencias, entre otros;
 
@@ -427,13 +443,15 @@ XIV. Coordinar la elaboración de proyectos para la capacitación del personal d
 
 XV. Proponer y supervisar la elaboración y ejecución de planes y programas de evaluación y vigilancia que deberán observar los sujetos obligados en las materias reguladas por la ley, así como los mecanismos de coordinación correspondientes;
 
-XVI. Elaborar los proyectos de convenios y acuerdos que deba suscribir el Instituto;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XVI. Elaborar los proyectos de acuerdos, convenios, contratos y demás instrumentos jurídicos, que deba suscribir el Instituto;
 
 XVII. Instalar y operar la oficialía de partes del Instituto;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XVIII. Coordinar las Direcciones y Unidades a su cargo, vigilando el buen desempeño de los asuntos que tengan encomendados, así como recibir del Órgano de Control los informes cuatrimestrales y presentar al Pleno, cuando se le requiera, los avances de cada Dirección en la ejecución de sus respectivos programas de trabajo;
+XVIII. Coordinar las Direcciones y Unidades del Instituto, vigilando el buen desempeño de los asuntos que tengan encomendados, así como recibir del Órgano de Control los informes cuatrimestrales y presentar al Pleno, cuando se le requiera, los avances de cada Dirección y Unidad en la ejecución de sus respectivos programas de trabajo;
 
 XIX. Coordinar y supervisar la elaboración de proyectos de recomendaciones, lineamientos, bases o normas y demás instrumentos jurídicos que conforme a la Ley deba expedir el Instituto;
 
@@ -453,15 +471,15 @@ XXVI. Las que le confiera el Pleno del Instituto; y
 
 XXVII. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO VIII. De las Atribuciones Genéricas de las Direcciones, del Órgano de Control Interno y de la Unidad de Archivos
+### CAPÍTULO VIII. De las Atribuciones Genéricas de las Direcciones, del Órgano de Control Interno y de las Unidades
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 27.
 
-Son atribuciones genéricas de los titulares de las Direcciones, del Órgano de Control Interno y de la Unidad de Archivos:
+Son atribuciones genéricas de los titulares de las Direcciones, del Órgano de Control Interno y de las Unidades:
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
@@ -491,19 +509,25 @@ X. Informar al Órgano de Control Interno de manera cuatrimestral, los avances d
 
 XI. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN PRIMERA. De las Direcciones
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 28.
 
-La Dirección Jurídica Consultiva tendrá las siguientes atribuciones específicas:
+La Dirección Jurídica Consultiva y Protección de Datos Personales tendrá las siguientes atribuciones específicas:
 
 I. Fungir corno unidades de acceso a la Información;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-II. Realizar los trámites y substanciación de los procedimientos de queja y recursos de revisión turnados por la Secretaria Ejecutiva;
+II. Realizar los trámites y substanciación de los procedimientos de queja y recursos de revisión que en su caso, le sean turnados por la Secretaría Ejecutiva, a través del Servidor Público que para tales efectos designe el Órgano de Gobierno;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-III. Notificar los acuerdos y resoluciones turnados por la Secretaría Ejecutiva;
+III. Notificar los acuerdos y resoluciones que en su caso, le sean turnados por la Secretaría Ejecutiva, a través del Servidor Público que para tales efectos designe el Órgano de Gobierno;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
@@ -511,9 +535,9 @@ IV. Realizar las opiniones, estudios y proyectos solicitados por la Secretaría 
 
 V. Representar legalmente al Instituto en los procedimientos administrativos jurisdiccionales y judiciales que no correspondan a otra área;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-VI. Elaborar los acuerdos, convenios y contratos que suscriba el Instituto;
+VI. Asistir a la Secretaría Ejecutiva en la elaboración de los proyectos de acuerdos, convenios, contratos y demás instrumentos jurídicos, que deba suscribir el Instituto;
 
 VII. Realizar los trámites necesarios para que se publiquen en el Periódico Oficial del Estado, los acuerdos que el Instituto deba divulgar por ese medio;
 
@@ -523,9 +547,9 @@ IX. Apoyar y asesorar al Instituto en la elaboración de los informes que deban 
 
 X. Custodiar la información reservada o confidencial cuando así sea solicitada por el Instituto para resolver un recurso;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XI. Elaborar proyectos legislativos relacionados con el ámbito de competencia del Instituto;
+XI. Elaborar, bajo la coordinación y supervisión de la Secretaría Ejecutiva, proyectos legislativos relacionados con el ámbito de competencia del Instituto;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
@@ -617,7 +641,7 @@ X. Publicar los estudios que realicen las otras direcciones del Instituto o la S
 
 XI. Elaborar programas para difundir los beneficios del manejo público de la información, sus responsabilidades en el buen uso y conservación de aquélla y ejecutar los que se le autorice;
 
-XII. Proponer y ejecutar la política de comunicación social;
+XII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
 XIII. Difundir las normas, lineamientos, bases y criterios que determine el Pleno;
 
@@ -665,6 +689,10 @@ XII. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el President
 
 XIII. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. Del Órgano de Control Interno
+
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
 ###### Artículo 32.
@@ -703,7 +731,9 @@ XV. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente
 
 XVI. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
 
-### Capítulo X. De las Responsabilidades y Suplencias
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN TERCERA. De las Unidades
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
@@ -727,9 +757,33 @@ VII. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el President
 
 VIII. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO IX. De las Direcciones
+Artículo 33 BIS.- La Unidad de Comunicación Social tendrá las siguientes atribuciones específicas:
+
+I. Proponer y ejecutar bajo la conducción del Consejero Presidente, la política general de comunicación social que apruebe el Pleno del Instituto;
+
+II. Coordinar y atender las relaciones públicas del Instituto con los medios de comunicación estatal, nacional e internacional;
+
+III. Proponer y ejecutar instrumentos que permitan conocer la percepción de las actividades del Instituto entre el público en general;
+
+IV. Ejecutar las campañas de difusión institucionales que le sean instruidas por el Consejero Presidente;
+
+V. Promover la elaboración y difusión de materiales de divulgación en materia de acceso a la información, archivos, transparencia, protección de datos personales y rendición de cuentas en coordinación con la Dirección de Capacitación, Vinculación y Difusión;
+
+VI. Difundir la imagen institucional;
+
+VII. Captar, analizar y procesar la información que difunde los medios de comunicación acerca del Instituto y su reflejo en la calidad de su imagen;
+
+VIII. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
+
+IX. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO IX. De las Responsabilidades y suplencias
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
 ###### Artículo 34.
 
@@ -786,3 +840,13 @@ Primero. Las presentes reformas entrarán en vigor al día siguiente de su publi
 Segundo. Para la difusión del presente acuerdo, se publicará en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
 Tercero. Una vez realizada la publicación en el Periódico Oficial del Estado, deberá darse circulación a este Acuerdo para su debido cumplimiento.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL CUAL SE APRUEBAN "DIVERSAS REFORMAS, ADICIONES Y DEROGACIONES AL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA".]
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones, entrarán en vigor al día siguiente de su aprobación por el Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+SEGUNDO.- Para la debida difusión del contenido del presente acuerdo del pleno, se ordena su publicación en el órgano oficial del gobierno, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado.
+
+TERCERO.- La Dirección de Administración y Finanzas del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado, realizará los ajustes financieros necesarios con motivo de la aprobación del presente acuerdo del pleno.
