@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-catastro-del-estado-y-municipios-de-san-luis-potosi-8973
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-09"
-last_updated: "2012-10-09"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CATASTRO DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 9 de octubre de 2012.
 
@@ -137,7 +137,7 @@ XII. PREDIO NO EDIFICADO: El que no tenga construcciones permanentes o que las t
 
 XIII. PREDIO RÚSTICO: Todo aquel que esté ubicado fuera de las zonas urbanas;
 
-XlV. PREDIO URBANO: El ubicado dentro de las zonas urbanas, así consideradas por estar edificadas total o parcialmente y en donde existen servicios mínimos esenciales;
+XIV. PREDIO URBANO: El ubicado dentro de las zonas urbanas, así consideradas por estar edificadas total o parcialmente y en donde existen servicios mínimos esenciales;
 
 XV. PREDIO SUBURBANO: el que está localizado en las áreas aledañas a la zona urbana y que son susceptibles de urbanizarse conforme a las disposiciones legales en la materia.
 
@@ -323,6 +323,10 @@ II. Validar y aprobar las normas técnicas y administrativas aplicables a la eje
 
 III. Proponer al Congreso del Estado a más tardar el 15 de octubre de cada dos años, los proyectos de las tablas de valores unitarios de suelo y construcción, así como las normas técnicas y administrativas a que se refiere la fracción anterior.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+En caso de no presentarlos en los términos referidos en el párrafo anterior, el Congreso autorizará como tales, los valores unitarios de suelo y construcción que hayan regido durante el bienio inmediato anterior.
+
 IV. Suscribir acuerdos de coordinación con los ayuntamientos y otras dependencias y entidades de la Administración Pública del Estado;
 
 V. Establecer, encausar y apoyar programas tendientes a lograr los objetivos del catastro;
@@ -371,7 +375,7 @@ XII. Expedir los formatos que para tal efecto se utilicen para la información c
 
 XIII. Delegar en sus subordinados aquellas de sus facultades que sean necesarias para el ejercicio de las funciones que queden a cargo de los mismos;
 
-XlV. Efectuar los levantamientos de los diferentes sectores catastrales, así como de todo lo relacionado con trabajos técnicos sobre fijación o rectificación de los límites de la propiedad pública y privada en el territorio Municipal;
+XIV. Efectuar los levantamientos de los diferentes sectores catastrales, así como de todo lo relacionado con trabajos técnicos sobre fijación o rectificación de los límites de la propiedad pública y privada en el territorio Municipal;
 
 XV. Admitir, gestionar o devolver de manera fundada y motivada, los trámites o solicitudes que le presenten conforme a esta Ley;
 
@@ -777,7 +781,7 @@ El Director de Catastro Municipal resolverá la aclaración en un término no ma
 
 ###### ARTICULO 73.
 
-En los casos establecidos dentro de la fracción III del articulo 72 el Director de Catastro expedirá certificación de superficie, medidas y colindancias físicas del inmueble.
+En los casos establecidos dentro de la fracción III del artículo 72 el Director de Catastro expedirá certificación de superficie, medidas y colindancias físicas del inmueble.
 
 ###### ARTICULO 74.
 
@@ -847,15 +851,13 @@ El monto de las multas a que se refieren las fracciones señaladas, se aplicará
 
 PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Se abroga la Ley de Catastro del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, el Veintidós de marzo del dos mil uno mediante el Decreto Legislativo No.98, Asimismo, se derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
+SEGUNDO. Se abroga la Ley de Catastro del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, el Veintidós de marzo del dos mil uno mediante el Decreto Legislativo No. 98, Asimismo, se derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
 
 TERCERO. Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley que se hubieren iniciado bajo la vigencia de la Ley de Catastro que se abroga, se tramitarán y resolverán conforme a las disposiciones de la misma.
 
 CUARTO. Los ayuntamientos del Estado expedirán la reglamentación municipal en materia de catastro necesaria para la aplicación de esta Ley, para lo cual contarán con un plazo máximo de ciento ochenta días, a partir de su publicación.
 
 ###### ARTICULO SEGUNDO
-
-.
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
@@ -878,3 +880,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto
