@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2013-06-08"
+last_updated: "2013-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. 21 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -1751,9 +1751,13 @@ V.- Analizar y proponer al cabildo la implementación de programas, actividades 
 
 VI.- Promover la defensa de los derechos de los niños y jóvenes del municipio.
 
-VII.- Vigilar que se cumplan los ordenamientos legales federales, estatales y municipales en materia de la niñez, la juventud y el deporte.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-VIII. En general todas las que le asignen las leyes, y las que deriven de los acuerdos de cabildo.
+VII.- Participar en la integración del Consejo Directivo del Instituto de la Juventud para el Municipio de Colima, según lo previsto en el Acuerdo de creación y Reglamento Interior del mismo.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VIII. En general todas las que le asignen las leyes y los acuerdos del cabildo.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3041,11 +3045,11 @@ V.- Promover y apoyar eventos periodísticos y de difusión relativos al Municip
 
 VI.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
 
-(REFORMADO, P.O. 8 DE JUNIO DE 2013) (REPUBLICADO POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 191.
 
-Para auxiliar al Presidente Municipal en materia de Participación Social, el Ayuntamiento tendrá una Dirección de Atención y Participación Social, la cual estará a cargo de una persona denominada Director de Atención y Participación Social. Esta Dirección se integra por la Jefatura de Departamento Zona Norte, la Jefatura de Departamento Zona Sur, la Procuraduría de Vecinos, las Organizaciones de Participación Social que para el efecto serán las siguientes: La Junta General de Comités de Participación Social; los Comités de Participación Social; los Clubes Juveniles; los Comités para Obras Determinadas; los Comités de Vigilancia de áreas designadas por el Ayuntamiento y las demás que determine el cabildo o el Presidente Municipal.
+Para auxiliar al Presidente Municipal en materia de Participación Social, el Ayuntamiento tendrá una Dirección de Atención y Participación Social, la cual estará a cargo de una persona denominada Director de Atención y Participación Social. Esta Dirección se integra por la Jefatura de Departamento Zona Norte, la Jefatura de Departamento Zona Sur, la Procuraduría de Vecinos, las Organizaciones de Participación Social que para el efecto serán las siguientes: La Junta General de Comités de Participación Social; los Comités de Participación Social; los Comités para Obras Determinadas; los Comités de Vigilancia de áreas designadas por el Ayuntamiento y las demás que determine el cabildo o el Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3057,7 +3061,9 @@ I.- Constituir y coordinar los Comités de Participación Social.
 
 II.- Atender, gestionar y dar seguimiento a la demanda social del Municipio o, en su caso, canalizar los asuntos a otras instancias según su ámbito de competencia.
 
-III.- Promover y dar seguimiento a los programas y proyectos comunitarios de los Comités de Participación Social, las organizaciones de la sociedad civil y los jóvenes del Municipio de Colima.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+III.- Promover y dar seguimiento a los programas y proyectos comunitarios de los Comités de Participación Social y las organizaciones de la sociedad civil del Municipio de Colima.
 
 IV.- Coordinar campañas para el desarrollo humano, del entorno social y urbano.
 
@@ -5009,6 +5015,10 @@ V.- Instituto de Planeación para el Municipio de Colima.
 
 VI. Instituto de la Mujer para el Municipio de Colima.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VII. Instituto de la Juventud para el Municipio de Colima.
+
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 PROCESADORA MUNICIPAL DE CARNE
@@ -5158,6 +5168,38 @@ X.- Promover la realización de programas de atención para la mujer de la terce
 XI.- Estimular la capacidad productiva de la mujer, promoviendo oportunidades de empleo y autoempleo; y
 
 XII.- Las demás que establezca el presente Acuerdo, y el Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+Artículo 278 1 BIS.- El Instituto de la Juventud para el Municipio de Colima, es un organismo público descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio; tiene como objetivo general establecer una política integral de promoción, apoyo y asesoría en beneficio de las y los jóvenes del municipio, principalmente de aquellos cuyo rango de edad sea de los 12 a los 29 años, que estará a cargo del propio Instituto y de las diversas dependencias del Gobierno Municipal; impulsar su desarrollo, integración si como su participación plena y eficaz en la vida económica, laboral, política, cultural, científica, social, deportiva y recreativa, promoviendo la igualdad de oportunidades para varones y mujeres, además de sus principales objetivos que son:
+
+l. Definir y ejecutar el plan de trabajo del instituto impulsando la igualdad entre varones y mujeres, mediante la incorporación de la perspectiva de género en todos sus programas y acciones; definiendo los programas específicos a implementar, distinguiendo los que serán ejecutados por el Instituto y los que serán llevados a cabo en coordinación con otras dependencias, señalando los programas concretos y las dependencias responsables.
+
+II. Crear, promover y ejecutar acciones y programas que impulsen el desarrollo integral de las y los jóvenes del municipio, tendientes a incrementar su integración y participación plena y eficaz para generar oportunidades en su favor en los aspectos en la vida económica, laboral, política, cultural, científica, social, deportiva y recreativa haciendo partícipes a los sectores público, social y privado.
+
+III. Promover políticas, programas y acciones que deban realizar el Instituto o las dependencias del municipio, en materia de:
+
+a). Oportunidades de educación y empleo;
+
+b). Capacitación y asesoría para el trabajo;
+
+c). Expresión artística y cultural;
+
+d). Fomento al liderazgo juvenil;
+
+e). Información, asesoría y capacitación en todos los ámbitos de la problemática juvenil;
+
+f). Información en cuidado de la salud integral: Educación Sexual y Adicciones.
+
+g). La Reintegración social de Jóvenes que hayan estado en conflictos con la ley.
+
+IV. Propiciar una mayor participación cívica y política de las y los jóvenes del municipio.
+
+V. Impulsar a los jóvenes del municipio mediante acciones y programas que generen condiciones de igualdad de oportunidades en el mercado de trabajo, generando así desarrollo de su vida laboral, profesional y de familia.
+
+VI. Promover la participación activa de los Jóvenes del municipio en el proceso de toma de decisiones de las asociaciones, sociedades civiles y, en todas las formas de organización social.
+
+VII. Crear, Impulsar y proponer a las distintas dependencias y entidades de la administración pública municipal, programas y acciones encaminados a apoyar a las y los jóvenes del municipio.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -6112,3 +6154,9 @@ XI.- Estimular la capacidad productiva de la mujer, promoviendo oportunidades de
 XII.- Las demás que establezca el presente Acuerdo, y el Reglamento Interior.
 
 SEXTO: El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47 fracción I, inciso a) y f) de la Ley del Municipio Libre, artículo 180 fracción I inciso a) y f) del Reglamento del Gobierno Municipal de Colima.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL ACUERDO DE CABILDO POR EL QUE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO: El Presidente Municipal dispondrá se Imprima, publique, circule y se le" dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47 fracción I, Inciso a) y f) de la Ley del Municipio Libre, artículo 180 fracción I Inciso a) y f) del Reglamento del Gobierno Municipal de Colima.
