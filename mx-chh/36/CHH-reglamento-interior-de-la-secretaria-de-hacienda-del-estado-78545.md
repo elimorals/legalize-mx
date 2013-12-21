@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-785
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-29"
-last_updated: "2012-04-04"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de diciembre de 2010.
 
@@ -224,6 +224,12 @@ C) Coordinación de Planeación y Evaluación con el siguiente Departamento:
 a) Departamento de Planeación y Evaluación.
 
 A su vez, las Unidades Administrativas estarán integradas por supervisores administrativos, consultores, supervisores de auditoría, auditores, ministros ejecutores fiscales, notificadores, y con los demás servidores públicos que señale este Reglamento, así como con el personal que se requiera para satisfacer las necesidades del servicio y que autorice el Presupuesto de Egresos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+D) Coordinación de Verificación al Comercio Exterior.
 
 ### CAPÍTULO SEGUNDO. COMPETENCIA DE LA SECRETARÍA
 
@@ -2351,17 +2357,83 @@ XV. Asignar, coordinar y supervisar las labores del personal a su cargo; y
 
 XVI. Las funciones que le asigne el Secretario, la Coordinación de Planeación y Evaluación y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-## TÍTULO NOVENO. DISPOSICIONES FINALES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO ÚNICO. SUPLENCIA DE LOS FUNCIONARIOS
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+## TÍTULO OCTAVO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO QUINTO. DE LA COORDINACIÓN DE VERIFICACIÓN AL COMERCIO EXTERIOR
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 70.
 
-(DEROGADO, P.O. 4 DE ABRIL DE 2012)
+Compete a la Coordinación de Verificación de Comercio Exterior:
+
+I. Ejercer las atribuciones en materia de verificación al comercio exterior que contemplen las disposiciones aduaneras y los convenios o acuerdos de colaboración o coordinación celebrados por el Estado con el Gobierno Federal o los Municipios, coordinándose con las autoridades correspondientes para el mejor desempeño de las facultades derivadas de dichos convenios y acuerdos;
+
+II. Formular el plan anual de verificación al comercio exterior, establecer las políticas, lineamientos, directrices y programas que deben seguir los departamentos de su adscripción y proponerlos para aprobación del Secretario;
+
+III. Programar, ordenar y practicar visitas domiciliarias, verificación de mercancías en transporte, verificación de vehículos en circulación, verificaciones de origen o procedencia extranjera, auditorías, revisiones de escritorio, así como para verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías, obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de vehículos y mercancías de procedencia extranjera de conformidad con la legislación aplicable;
+
+IV. Expedir las constancias de identificación y los oficios que correspondan, del personal a su cargo que se habilite para la práctica de visitas domiciliarias, auditorías, verificaciones, inspecciones, revisiones y notificaciones de carácter fiscal y aduanero, así como para los demás actos relacionados con el ejercicio de sus funciones;
+
+V. Designar a los visitadores, auditores, verificadores, clasificadores arancelarios y notificadores, así como al demás personal necesario para la práctica de los actos de su competencia, a su vez designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con el ejercicio de sus facultades;
+
+VI. Notificar u ordenar que se notifiquen los actos relacionados con el ejercicio de sus facultades;
+
+VII. Requerir de los contribuyentes, responsables solidarios y terceros con ellos relacionados, para que exhiban y, cuando proceda, proporcionen la contabilidad, los avisos, declaraciones, pedimentos, manifestaciones y demás datos, documentos e informes de conformidad con las disposiciones legales aplicables, a efecto de llevar a cabo su revisión; así como autorizar prórrogas para su presentación;
+
+VIII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones que les sean imputables, conocidos con motivo de los actos a que se refieren las fracciones III y VIII de este artículo, y hacer constar dichos hechos y omisiones en el oficio de observaciones o en las actas que al efecto se levanten;
+
+IX. Ordenar y practicar el embargo precautorio de mercancías de comercio exterior y sus medios de transporte, en los supuestos que establece la Ley Aduanera cuando no se acredite su legal importación, tenencia o estancia en el país, así como respecto de los vehículos de origen o procedencia extranjera que no acrediten su legal estancia en el país, a su vez resolver sobre la procedencia del levantamiento del mismo;
+
+X. Iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de sus facultades de comprobación, en los términos que establece la legislación aduanera;
+
+XI. Verificar y, en su caso, determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar, en su caso, su clasificación arancelaria, valor comercial y su valor en aduana;
+
+XII. Verificar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves;
+
+XIII. Imponer las multas por infracciones, en los términos de las disposiciones fiscales y aduaneras que rigen la materia de su competencia, así como reducir o condonar dichas multas;
+
+XIV. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas compensatorias que se originen por la introducción ilegal a territorio nacional de mercancías o vehículos extranjeros, así como su actualización, recargos y demás accesorios, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo del ejercicio de sus facultades de comprobación de conformidad con las disposiciones fiscales y aduaneras aplicables;
+
+XV. Emitir las resoluciones mediante las cuales se apliquen las cuotas compensatorias y se determinen las contribuciones omitidas y sus accesorios, derivadas del ejercicio de sus facultades de comprobación y remitirlas a la Recaudación de Rentas correspondiente;
+
+XVI. Habilitar los lugares en que habrán de ser depositadas las mercancías y los vehículos que hayan sido embargados con motivo del ejercicio de sus facultades, los cuales adquirirán la categoría de recintos fiscales;
+
+XVII. Resguardar y custodiar las mercancías, medios de transporte o vehículos que hayan sido embargados con motivo del ejercicio de sus facultades;
+
+XVIII. Declarar que las mercancías o vehículos objeto del procedimiento administrativo en materia aduanera, pasan a propiedad del fisco federal
+
+XIX. Determinar, previo acuerdo con el Secretario, el destino de las mercancías y vehículos que hayan sido asignados a favor del Estado así como determinar la destrucción, donación, asignación o venta, antes de emitir la resolución definitiva del procedimiento administrativo correspondiente de las mercancías perecederas, de fácil descomposición o deterioro de los animales vivos embargados precautoriamente, de conformidad con lo dispuesto en la legislación federal aplicable;
+
+XX. Enajenar, previo acuerdo con el Secretario, los vehículos que hayan sido asignados a favor del Estado, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normativa que emita la Secretaría de Hacienda y Crédito Público;
+
+XXI. Designar y remover depositarias de las mercancías embargadas dentro del procedimiento administrativo en materia aduanera, conforma (sic) a lo dispuesto en la legislación federal aplicable;
+
+XXII. Declarar que las mercancías y vehículos embargados precautoriamente han causado abandono a favor del fisco federal, de conformidad con lo establecido en la Ley Aduanera y demás legislación federal federal (sic) aplicable;
+
+XXIII. Remitir a la Dirección Jurídica los asuntos en los que proceda formular querella y/o declaratoria de perjuicio del fisco derivado de los actos relativos al ejercicio de sus atribuciones;
+
+XXIV. Elaborar los informes y registros estadísticos, respecto a los resultados de la aplicación de los mecanismos de coordinación con la Federación en materia aduanera y mantener actualizados los registros y padrones previstos en la legislación fiscal y aduanera
+
+XXV. Aplicar en la materia de su competencia, los programas, lineamientos, procedimientos, métodos de trabajo y los criterios que establezca el Secretario y, en su caso, las reglas y criterios federales cuando corresponda.
 
 ###### ARTÍCULO 71.
 
 (DEROGADO, P.O. 4 DE ABRIL DE 2012)
+
+## TÍTULO NOVENO. DISPOSICIONES FINALES
+
+### CAPÍTULO ÚNICO. SUPLENCIA DE LOS FUNCIONARIOS
 
 ###### ARTÍCULO 72.
 
@@ -2418,3 +2490,7 @@ TERCERO.- Se derogan todas las demás disposiciones administrativas en lo que se
 CUARTO.- A partir de la entrada en vigor del presente Acuerdo, todas las funciones de la Dirección de Contabilidad y sus Departamentos, se regirán por la Dirección General de Contabilidad Gubernamental y su estructura conforme a las modificaciones del Reglamento Interior de la Secretaría de Hacienda a que se refiere este Acuerdo.
 
 QUINTO.- La referencia que en cualquier disposición se haga al Departamento de Organismos Públicos Descentralizados y Sector Educativo, se entenderá como el Departamento de Entidades Paraestatales.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día primero de enero de dos mil catorce.
