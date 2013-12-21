@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-y-desarrollo-urbano-para-el-14507"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-19"
-last_updated: "2012-12-15"
+last_updated: "2013-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE 2013.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 19 de mayo de 1999.
 
@@ -179,69 +179,125 @@ II. Asentamiento humano.- La radicación de un grupo de personas, con el conjunt
 
 III. Centro de población.- Las áreas constituidas por las zonas urbanizadas, las que se reserven para su expansión futura y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como las que por resolución de autoridad competente se provean para fundación de los mismos, conforme a las leyes aplicables;
 
-IV. Conurbación.- La continuidad física y demográfica que formen o tiendan a formar dos o más centros de población;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-V. Zona de conurbación.- El área que se determina en el acuerdo en donde se reconozca el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada, el desarrollo de los centros de población comprendidos dentro de sus límites;
+IV. Ciclovía.- Es el nombre genérico dado a parte de la infraestructura pública destinada de forma exclusiva o compartida para la circulación de bicicletas. También conocida como ciclopista o carril bici;
 
-VI. Comisión Estatal.- La Comisión Estatal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-VII. Consejo Consultivo Municipal.- El Consejo Consultivo Municipal de Desarrollo Urbano y Rural correspondiente;
+V. Conurbación.- La continuidad física y demográfica que formen o tiendan a formar dos o más centros de población;
 
-VIII. Conservación.- La acción dirigida a mantener el equilibrio ecológico y preservar en buen estado la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población, incluyendo sus valores históricos y culturales;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-IX. Crecimiento.- La acción tendiente a ordenar y regular la expansión física de los centros de población;
+VI. Zona de conurbación.- El área que se determina en el acuerdo en donde se reconozca el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada, el desarrollo de los centros de población comprendidos dentro de sus límites;
 
-X. Desarrollo Urbano.- El conjunto armónico de las acciones que se realicen para ordenar, regular y adecuar los elementos físicos, económicos y sociales de los centros de población y sus relaciones con el medio ambiente natural y sus recursos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XI. Destinos.- Los fines públicos a que se prevea dedicar determinadas zonas, áreas o predios de un centro de población;
+VII. Comisión Estatal.- La Comisión Estatal de Desarrollo Urbano;
 
-XII. Equipamiento urbano.- El conjunto de inmuebles, instalaciones, construcciones, mobiliario y espacios acondicionados para prestar a la población los servicios urbanos y desarrollar las actividades económicas, clasificándose en atención a su cobertura en regional, urbano y barrial o local;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XIII. Expansión urbana.- El crecimiento de los centros de población que implica la transformación de suelo rural a urbano, modificando el aprovechamiento y el régimen de propiedad de áreas y predios, así como la introducción o mejoramiento de las redes de infraestructura;
+VIII. Consejo Consultivo Municipal.- El Consejo Consultivo Municipal de Desarrollo Urbano y Rural correspondiente;
 
-XIV. Fundación.- El establecimiento de un centro de población previsto en el Plan Estatal de Desarrollo Urbano, mediante decreto del Congreso del Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XV. Fusión.- La unión de un solo predio de dos o más predios colindantes;
+IX. Conservación.- La acción dirigida a mantener el equilibrio ecológico y preservar en buen estado la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población, incluyendo sus valores históricos y culturales;
 
-XVI. Infraestructura urbana.- Las redes y sistemas de organización y distribución de bienes y servicios en los centros de población;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+X. Crecimiento.- La acción tendiente a ordenar y regular la expansión física de los centros de población;
 
-XVII. Instituto.- El Instituto Promotor de la Vivienda de Nayarit;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XVIII. Mejoramiento.- La acción tendiente a reordenar o renovar las zonas deterioradas física o funcionalmente o de incipiente desarrollo de un centro de población;
+XI. Desarrollo Urbano.- El conjunto armónico de las acciones que se realicen para ordenar, regular y adecuar los elementos físicos, económicos y sociales de los centros de población y sus relaciones con el medio ambiente natural y sus recursos;
 
-XIX. Ordenamiento del territorio.- El proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio de la Entidad, atendiendo al Sistema Estatal de Centros de Población;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XX. Prevención de desastres.- Estudio y acciones encaminadas a mitigar los efectos que por la presencia de un riesgo urbano, sea de origen químico o natural, se pueda ver afectado el desarrollo armónico y normal de los asentamientos humanos en la entidad;
+XII. Destinos.- Los fines públicos a que se prevea dedicar determinadas zonas, áreas o predios de un centro de población;
 
-XXI. Provisiones.- Las áreas que serán utilizadas para la fundación de un centro de población;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXII. Plan de desarrollo urbano.- El conjunto de normas y disposiciones que regulan el desarrollo urbano;
+XIII. Equipamiento urbano.- El conjunto de inmuebles, instalaciones, construcciones, mobiliario y espacios acondicionados para prestar a la población los servicios urbanos y desarrollar las actividades económicas, clasificándose en atención a su cobertura en regional, urbano y barrial o local;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXIII. Redensificación.- Proceso para incrementar la población de un área o zona en función de variables, tales como la dotación de infraestructura y equipamiento, que se incorpora como parte de la planeación urbana y surge de programas de desarrollo, según los usos establecidos en los programas para alcanzar condiciones de mejoramiento para la población y mejor uso de los servicios públicos;
+XIV. Expansión urbana.- El crecimiento de los centros de población que implica la transformación de suelo rural a urbano, modificando el aprovechamiento y el régimen de propiedad de áreas y predios, así como la introducción o mejoramiento de las redes de infraestructura;
 
-XXIV. Reservas.- Las áreas de un centro de población destinadas para su crecimiento;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXV. Reservas territoriales.- Las áreas de un centro de población que serán para su futuro crecimiento, incorporadas al dominio privado, de la federación, el estado o los municipios;
+XV. Fundación.- El establecimiento de un centro de población previsto en el Plan Estatal de Desarrollo Urbano, mediante decreto del Congreso del Estado;
 
-XXVI. Relotificación.- El cambio en la distribución o dimensiones de los lotes de un predio, cuyas características hayan sido autorizadas con anterioridad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXVII. Riesgo urbano.- La suma de una situación de peligro o desastres combinada con la vulnerabilidad a la que pueda estar sujeta un centro de población;
+XVI. Fusión.- La unión de un solo predio de dos o más predios colindantes;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXVIII. Secretaría.- La Secretaría de Obras Públicas del Gobierno del Estado;
+XVII. Infraestructura urbana.- Las redes y sistemas de organización y distribución de bienes y servicios en los centros de población;
 
-XXIX. Servicios urbanos.- Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades de tipo colectivo en los centros de población;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXX. Urbanización.- El proceso técnico para lograr a través de acciones materiales ordenadas, la adecuación de los espacios que la población y sus comunidades requieren para su asentamiento.
+XVIII. Instituto.- El Instituto Promotor de la Vivienda de Nayarit;
 
-XXXI. Usos.- Los fines particulares a que podrán dedicarse determinadas zonas, áreas, o predios de un centro de población, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXXII. Zonificación.- La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
+XIX. Mejoramiento.- La acción tendiente a reordenar o renovar las zonas deterioradas física o funcionalmente o de incipiente desarrollo de un centro de población;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XX. Ordenamiento del territorio.- El proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio de la Entidad, atendiendo al Sistema Estatal de Centros de Población;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXI. Prevención de desastres.- Estudio y acciones encaminadas a mitigar los efectos que por la presencia de un riesgo urbano, sea de origen químico o natural, se pueda ver afectado el desarrollo armónico y normal de los asentamientos humanos en la entidad;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXII. Provisiones.- Las áreas que serán utilizadas para la fundación de un centro de población;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXIII. Plan de desarrollo urbano.- El conjunto de normas y disposiciones que regulan el desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXIV. Redensificación.- Proceso para incrementar la población de un área o zona en función de variables, tales como la dotación de infraestructura y equipamiento, que se incorpora como parte de la planeación urbana y surge de programas de desarrollo, según los usos establecidos en los programas para alcanzar condiciones de mejoramiento para la población y mejor uso de los servicios públicos;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXV. Reservas.- Las áreas de un centro de población destinadas para su crecimiento;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXVI. Reservas territoriales.- Las áreas de un centro de población que serán para su futuro crecimiento, incorporadas al dominio privado, de la federación, el estado o los municipios;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXVII. Relotificación.- El cambio en la distribución o dimensiones de los lotes de un predio, cuyas características hayan sido autorizadas con anterioridad;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXVIII. Riesgo urbano.- La suma de una situación de peligro o desastres combinada con la vulnerabilidad a la que pueda estar sujeta un centro de población;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXIX. Secretaría.- La Secretaría de Obras Públicas del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXX. Servicios urbanos.- Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades de tipo colectivo en los centros de población;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXXI. Urbanización.- El proceso técnico para lograr a través de acciones materiales ordenadas, la adecuación de los espacios que la población y sus comunidades requieren para su asentamiento;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXXII. Usos.- Los fines particulares a que podrán dedicarse determinadas zonas, áreas, o predios de un centro de población, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XXXIII. Zonificación.- La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
 ###### ARTÍCULO 5o.
 
@@ -2067,6 +2123,10 @@ Los desarrollos realizados bajo la modalidad de régimen en condominio les corre
 
 En caso de que el proyecto del régimen de condominio contemple la construcción y operación de una planta de tratamiento de aguas residuales, la donación será del 4% del área neta del fraccionamiento.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 150 Ter Los fraccionamientos que proyecten camellones en las vialidades principales, podrán contemplar ciclovías sobre ellos, siempre que éstas tengan una dimensión mínima de 2.00 metros que permita la circulación de ciclistas en ambos sentidos simultáneamente. Tanto en camellones como en banquetas, las ciclovías deberán contar con rampas de acceso y señalamiento vertical y horizontal aprobado por la Secretaría.
+
 ### CAPÍTULO II. DE LOS FRACCIONAMIENTOS HABITACIONALES URBANOS
 
 ###### ARTÍCULO 151.
@@ -2089,7 +2149,9 @@ VI. El ancho de las vialidades locales será de 12.00 metros, medidos de alineam
 
 En caso de que una calle local tenga necesariamente que ser cerrada, se hará un retorno con las dimensiones que se autoricen en el Proyecto.
 
-VII. Las banquetas serán de 1.20 metros de ancho.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VII. Las banquetas tendrán como mínimo de 2.00 y 2.50 metros de ancho, en las vialidades locales y colectoras respectivamente, y del cual se destinará 1.00 metro de ancho a ciclovía en la sección adyacente al arroyo vehicular.
 
 VIII. En el caso de que existan andadores, éstos deberán tener como mínimo un ancho de 4.00 metros y contar con un área jardinada de cuando menos el 40% de su anchura.
 
@@ -2107,7 +2169,9 @@ c) Red de distribución de energía eléctrica para uso doméstico.
 
 d) Alumbrado público de vapor mercurial u otro de calidad similar, montado en poste hexagonal de concreto.
 
-e) Guarniciones y banquetas de concreto u otro material de similar calidad, con accesos para personas con discapacidad.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+e) Guarniciones y banquetas de concreto u otro material de similar calidad, deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas;
 
 f) Pavimento de asfalto o concreto en arroyo de calles y en su caso en estacionamientos.
 
@@ -2191,7 +2255,9 @@ IV. El ancho de las vialidades locales será de 12.00 metros medidos de alineami
 
 En caso de que una calle local tenga necesariamente que ser cerrada, se hará un retorno con las dimensiones que se autoricen en el Proyecto.
 
-V. Las banquetas serán de 1.60 metros de ancho, de los cuales el 25% se utilizará como zona jardinada.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+V. Las banquetas tendrán como mínimo de 2.00 y 2.50 metros de ancho, en las vialidades locales y colectoras respectivamente, y del cual se destinará 1.00 metro de ancho a ciclovía en la sección adyacente al arroyo vehicular. En las vialidades colectoras la zona jardinada será de 30 centímetros de ancho;
 
 VI. En caso de que existan andadores, tendrán éstos como mínimo 4.00 metros de ancho y contar con un área jardinada de cuando menos el 40% de su anchura.
 
@@ -2201,9 +2267,17 @@ VIII. Se permitirá la construcción como máximo en un 80% de la superficie del
 
 IX. El fraccionador deberá donar al Municipio el 15% de la superficie neta vendible del fraccionamiento, debidamente urbanizada.
 
-X. Contar como mínimo con las obras de infraestructura y equipamiento urbano previstas en la fracción XI del artículo 151, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XI. El titular del fraccionamiento deberá construir de acuerdo a su rango, con independencia de las áreas de donación señaladas en la fracción IX de este artículo, las obras complementarias previstas en la fracción XII del artículo 151.
+X. Contar como mínimo con las obras de infraestructura y equipamiento urbano previstas en la fracción XI del artículo 151;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XI. El titular del fraccionamiento deberá construir de acuerdo a su rango, con independencia de las áreas de donación señaladas en la fracción IX de este artículo, las obras complementarias previstas en la fracción XII del artículo 151, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+XII. Guarniciones y banquetas de concreto u otro material de similar calidad, deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas.
 
 ###### ARTÍCULO 154.
 
@@ -2225,7 +2299,9 @@ II. Las construcciones deberán remeterse 2.50 metros a partir del alineamiento,
 
 III. Se permitirá la construcción como máximo en un 70% de la superficie del lote incluidas las áreas o cajones de estacionamiento, y el resto se destinará a espacios abiertos.
 
-IV. El ancho de las vialidades locales será de 12.00 metros mínimo y el de las colectoras de 17.00 metros, medidas de alineamiento a alineamiento, las banquetas serán de 2.00 metros de ancho, de las cuales el 20% se empleará como zona jardinada.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+IV. El ancho de las vialidades locales será de 12.00 metros mínimo y el de las colectoras de 17.00 metros, medidas de alineamiento a alineamiento; las banquetas tendrán como mínimo de 2.00 y 3.00 metros de ancho, en las vialidades locales y colectoras respectivamente, y se destinará 1.00 metro de ancho a ciclovía en la sección adyacente al arroyo vehicular. Adicionalmente se dedicaran 30 y 50 centímetros de ancho en las banquetas a zona jardinada en las vialidades locales y colectoras, respectivamente.
 
 V. En caso de que una calle local tenga necesariamente que ser cerrada, se hará un retorno con las dimensiones que determine la autoridad competente.
 
@@ -2245,7 +2321,9 @@ c) Red de distribución de energía eléctrica para uso doméstico con cableado 
 
 d) Alumbrado público de vapor de sodio, montado en poste metálico, de acuerdo con las especificaciones técnicas y normas de la Comisión Federal de Electricidad.
 
-e) Guarniciones y banquetas de concreto u otro material de calidad similar, con acceso para personas con discapacidad.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+e) Guarniciones y banquetas de concreto u otro material de similar calidad, deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas;
 
 f) Pavimento de concreto en arroyos de calles y en su caso en estacionamientos.
 
@@ -2291,7 +2369,9 @@ IV. Las construcciones deberán remeterse 5.00 metros a partir del alineamiento,
 
 V. Se permitirá la construcción como máximo en un 30% de coeficiente de ocupación del predio, y el resto se destinará a huertos y espacios abiertos.
 
-VI. El ancho de las vialidades colectoras será de 12.00 metros mínimo, y el de las vialidades locales cuando menos de 9.00 metros. Las banquetas serán de 2.50 metros de ancho, de las cuales el 40% se destinarán a áreas jardinadas.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VI. El ancho de las vialidades colectoras será de 12.00 metros mínimo, y el de las vialidades locales cuando menos de 10.00 metros. Las banquetas serán de 2.00 metros de ancho en las vialidades locales y de 2.50 metros de ancho en vialidades colectoras, estas últimas destinarán el 15% a áreas ajardinadas y 1.00 metro de ancho a ciclovía en la sección adyacente al arroyo vehicular;
 
 VII. Los titulares de los fraccionamientos campestres deberán donar al Municipio, el 8% de la superficie neta del fraccionamiento debidamente urbanizada.
 
@@ -2307,7 +2387,9 @@ d) Red de distribución de energía eléctrica para uso doméstico.
 
 e) Alumbrado público.
 
-f) Guarniciones de concreto y banquetas empedradas u otro material de calidad similar.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+f) Guarniciones y banquetas de concreto u otro material de similar calidad, deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas;
 
 g) Calles con empedrado u otro material de calidad similar.
 
@@ -2355,7 +2437,9 @@ c) Red de distribución de energía eléctrica, para uso industrial.
 
 d) Alumbrado público de vapor mercurial, montado en poste metálico, de acuerdo a las especificaciones y normas técnicas de la Comisión Federal de Electricidad.
 
-e) Guarniciones y banquetas de concreto.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+e) Guarniciones y banquetas de concreto u otro material de similar calidad, deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas;
 
 f) Ductos para redes telefónicas.
 
@@ -2369,9 +2453,17 @@ j) Sistema de nomenclatura y señalamiento vial en calles.
 
 k) Caseta de vigilancia.
 
-l) Las obras de infraestructura primaria previstas que afecten al fraccionamiento o las que se requieran para la incorporación del fraccionamiento al área urbana, y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-m) En caso de que una calle local tenga necesariamente que ser cerrada, se hará un retorno con las dimensiones que se autoricen en el Proyecto respectivo.
+l) Las obras de infraestructura primaria previstas que afecten al fraccionamiento o las que se requieran para la incorporación del fraccionamiento al área urbana;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+m) En caso de que una calle local tenga necesariamente que ser cerrada, se hará un retorno con las dimensiones que se autoricen en el Proyecto respectivo, y
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+n) Las banquetas tendrán como mínimo de 3.00 metros de ancho, del cual se destinará 2.00 metros de ancho a ciclovías en la sección adyacente al arroyo vehicular.
 
 ###### ARTÍCULO 164.
 
@@ -2445,7 +2537,9 @@ III. El fraccionador deberá donar al Municipio correspondiente a su ubicación,
 
 IV. El ancho de las vialidades colectoras será como mínimo de 16.00 metros medidos de alineamiento a alineamiento, y el de las locales de 12.00 metros.
 
-V. Las banquetas serán de 2.00 metros de ancho, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+V. Las banquetas serán de 2.00 metros de ancho; y las guarniciones y banquetas de concreto u otro material de similar calidad, deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas;
 
 VI. Los titulares de este tipo especial de fraccionamiento deberán construir como mínimo, las obras de urbanización que se establecen para los fraccionamientos campestres, así como una aula escolar y sus elementos accesorios por cada 20 lotes o fracción que exceda de la mitad, en el centro de población más cercano, en el terreno urbanizado que para ese efecto adquiera el fraccionador o proporcione el Ayuntamiento.
 
@@ -2463,7 +2557,9 @@ IV. Los fraccionamientos de nueva creación en la capital del Estado y en las po
 
 V. Contarán con áreas para estacionamiento de vehículos suficientes y correspondientes al conjunto de lotes o fosas.
 
-VI. Las vías públicas para circulación peatonal serán mínimamente de 4.00 metros, y de 6.00 para circulación vehicular.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+VI. Las vías públicas para circulación peatonal serán mínimamente de 4.00 metros, y de 12.00 metros para circulación vehicular;
 
 VII. El fraccionador deberá donar al Municipio el 10% de la superficie total del fraccionamiento, debidamente urbanizada.
 
@@ -2481,7 +2577,9 @@ e) Arbolado de raíces poco profundas y jardinería.
 
 f) Zona especial para guarda de restos humanos.
 
-g) Rampas de acceso para el uso de personas con discapacidad.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+g) Las banquetas serán de 2.00 metros de ancho; y las guarniciones y banquetas de concreto u otro material de similar calidad, deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas;
 
 h) Vialidad peatonal y vehicular
 
@@ -2521,7 +2619,9 @@ II. Los lotes no podrán tener un frente menor a los 6.00 metros, ni una superfi
 
 III. El aprovechamiento predominante será de vivienda unifamiliar y sólo se permitirá el 10% de la superficie vendible para áreas comerciales y de servicios.
 
-IV. El ancho de las vialidades locales será de 9.00 metros mínimo, y el de los andadores de 5.00 metros mínimo.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+IV. El ancho de las vialidades locales será de 9.00 metros mínimo, el de las vialidades colectoras de 12.00 metros y el de los andadores de 5.00 metros como mínimo, respectivamente. Las banquetas serán de 1.50 metros de ancho y tanto las guarniciones como banquetas serán de concreto u otro material de similar calidad, y deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas;
 
 V. El fraccionador deberá donar al Municipio correspondiente el 10% del área vendible, y
 
@@ -2567,7 +2667,9 @@ I. Solo podrán ubicarse en las áreas urbanas o urbanizables de los centros de 
 
 II. Los lotes no podrán tener un frente menor a los 6.00 metros, ni una superficie menor a los 90.00 metros cuadrados;
 
-III. El ancho de las vialidades locales será como mínima de 9.00 metros y las colectoras de 12.00 metros medidas de alineamiento a alineamiento. Las banquetas serán de 1.20 metros de ancho;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
+III. El ancho de las vialidades locales será como mínima de 9.00 metros y las colectoras de 12.00 metros medidas de alineamiento a alineamiento. Las banquetas serán de 1.50 metros de ancho y tanto las guarniciones como banquetas serán de concreto u otro material de similar calidad, y deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas;
 
 IV. El fraccionador deberá donar al Municipio correspondiente el 10% del área vendible;
 
@@ -3482,3 +3584,9 @@ P.O. 1 DE SEPTIEMBRE DE 2007.
 P.O. 6 DE ABRIL DE 2011.
 
 Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El Titular del Poder Ejecutivo del Estado, y los Ayuntamientos en el ámbito de su competencia, deberán modificar la reglamentación conducente, dentro de los 180 días naturales contados a partir de su vigencia.
