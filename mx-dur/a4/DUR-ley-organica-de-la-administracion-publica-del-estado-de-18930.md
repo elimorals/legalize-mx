@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2013-12-15"
+last_updated: "2013-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2013.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -1305,7 +1307,7 @@ XLVI. Las demás que le encomiende el Ejecutivo del Estado o le señalen las ley
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2008)</small>
 
-ARTICULO 36 bis. La Secretaría del Trabajo y Previsión Social es la dependencia responsable de ejercer las atribuciones que en materia del trabajo le competen al Poder Ejecutivo del Estado. Le corresponde el despacho de los siguientes asuntos:
+ARTICULO 36 BIS. La Secretaría del Trabajo y Previsión Social es la dependencia responsable de ejercer las atribuciones que en materia del trabajo le competen al Poder Ejecutivo del Estado. Le corresponde el despacho de los siguientes asuntos:
 
 I. Ejercer las atribuciones que en materia de trabajo correspondan al Poder Ejecutivo del Estado;
 
@@ -1333,7 +1335,9 @@ XII. Promover y apoyar el incremento de la calidad y la productividad laboral;
 
 XIII. Promover y apoyar la organización social para el trabajo y el auto empleo;
 
-XIV. Coordinar y vigilar a las Juntas y Tribunales Locales de Conciliación y Arbitraje y a la Procuraduría Estatal de la Defensa del Trabajo;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+XIV. Coordinar y vigilar a la Juntas Locales de Conciliación y Arbitraje y a la Procuraduría Estatal de la Defensa del Trabajo.
 
 XV. Participar en la integración y el funcionamiento de las comisiones y comités transitorios o permanentes necesarios para la mejor atención de los asuntos de naturaleza laboral;
 
@@ -2089,7 +2093,7 @@ Se derogan todas la sus disposiciones legales que se opongan al presente decreto
 
 P.O. 30 DE DICIEMBRE DE 2007.
 
-PRIMERO.- Una vez publicado en el Periódico Oficial del Gobierno Constitucional de Estado del Durango, el presente Decreto entrará en vigor el primero de enero de 2008.
+PRIMERO.- Una vez publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el presente Decreto entrará en vigor el primero de enero de 2008.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -2262,3 +2266,21 @@ La firma del acta deberá realizarse a los 10 días de que haya sido designado e
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 El Liquidador deberá de proponer a la Secretaría de Finanzas y de Administración, el personal de apoyo que sea estrictamente indispensable para llevar a cabo el proceso de liquidación para que en su caso se comisione temporalmente al propio personal que será reasignado a la Secretaría de Comunicaciones y Obras Públicas con motivo de la extinción del organismo.
+
+P.O. 22 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el primero (01) de enero del año del año (sic) (2014)
+
+SEGUNDO.- Se transfieren todos los recursos humanos, financieros y materiales, además de los expedientes en trámite del Tribunal de Conciliación y Arbitraje al Tribunal Laboral Burocrático del Poder Judicial del Estado. La entrega y recepción de los bienes e inventarios del Tribunal de Conciliación y Arbitraje al Poder Judicial del Estado, se realizará en un plazo máximo de seis (6) meses contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- En un plazo no mayor a un año a partir de la entrada en vigor del presente decreto, se emitirá una Ley en materia Procesal Laboral.
+
+CUARTO.- El Consejo de la Judicatura establecerá el procedimiento, reglas, plazos y condiciones para la integración y puesta en funcionamiento del Tribunal Laboral Burocrático, de conformidad con la normativa aplicable; dictando las medidas necesarias a fin de que los jueces que habrán de integrar al Tribunal, sean designados a más tardar el día 31 (Treinta y uno) de enero del año 2014, a fin de estar en condiciones de asumir su cargo para entrar funciones a partir de las 00:01 (cero horas con un minuto) del primero (01) de febrero del año 2014.
+
+QUINTO.- En los asuntos en trámite interpuestos ante el Tribunal de Conciliación y Arbitraje hasta las 24:00 (veinticuatro) horas del día 31 (treinta y uno) de enero del 2014, se seguirán aplicando las disposiciones normativas contenidas en la Ley de Trabajadores al Servicio de los Tres Poderes del Estado de Durango, vigentes antes de la entrada en vigor del presente decreto. Asimismo, hasta que se resuelvan los asuntos en trámite, a que refiere el presente artículo, seguirá funcionando el Tribunal de Conciliación y Arbitraje.
+
+El Tribunal Superior de Justicia y el Gobierno del Estado, en el ámbito de sus respectivas competencias, dictarán las medidas necesarias para que subsista la estructura del Tribunal de Conciliación y Arbitraje, hasta en tanto se resuelvan los asuntos en trámite a que se refiere el presente artículo.
+
+SEXTO.- Las menciones que las diversas disposiciones legales hagan del Tribunal de Conciliación y Arbitraje, se entenderán referidas al Tribunal Laboral Burocrático.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
