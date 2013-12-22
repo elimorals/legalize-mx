@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2013-04-21"
+last_updated: "2013-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS EN EL DECRETO PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL EL PRESENTE ORDENAMIENTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -43,21 +45,29 @@ LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 1.
 
 La presente ley tiene por objeto establecer las bases para la organización y funcionamiento del Congreso del Estado, sus integrantes y órganos; así como regular sus facultades y atribuciones previstas en la Constitución Política del Estado Libre y Soberano de Durango, la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.
 
 Esta ley y demás disposiciones orgánicas, así como sus modificaciones, no necesitarán de la promulgación del Gobernador del Estado; serán aprobadas por la mayoría de los integrantes de la Legislatura y no podrá ser objeto del ejercicio del derecho de veto.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 2.
 
-El ejercicio del Poder Legislativo se deposita en una Cámara de Diputados, denominada “Congreso del Estado”, que se elige e integra conforme a las prevenciones establecidas en la Constitución Política del Estado Libre y Soberano de Durango.
+El ejercicio del Poder Legislativo se deposita en una Cámara de Diputados, denominada "Congreso del Estado", que se elige e integra conforme a las prevenciones establecidas en la Constitución Política del Estado Libre y Soberano de Durango.
 
 El ejercicio constitucional de una legislatura es de tres años, cuya nomenclatura cambiará de manera ascendente, según corresponda.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 3.
 
 Al Congreso del Estado le corresponde el ejercicio de las facultades que le confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, la presente ley y demás disposiciones legales en vigor. Asimismo, está facultado para realizar funciones de consulta, promoción y gestoría, encaminadas a satisfacer las necesidades sociales de la población de la Entidad.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 4.
 
@@ -65,9 +75,13 @@ La residencia del Poder Legislativo es la capital del Estado, su recinto oficial
 
 El Congreso podrá cambiar su residencia en forma provisional si así lo aprueba el voto de las dos terceras partes de los diputados integrantes de la Legislatura.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 5.
 
 Las instalaciones del Congreso son inviolables. Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre sus bienes, ni sobre las personas o sus bienes en el interior de las instalaciones del Palacio Legislativo, incluyendo otros bienes inmuebles destinados al servicio de las funciones inherentes al mismo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 6.
 
@@ -75,15 +89,19 @@ La Legislatura que corresponda, deberá iniciar su ejercicio constitucional el u
 
 En el caso de elecciones extraordinarias, la elección y el periodo preparatorio se efectuarán en los términos que establezca la convocatoria respectiva.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 7.
 
-El Congreso del Estado, a través del pleno, ejercerá sus atribuciones en periodos ordinarios y extraordinarios.
+El Congreso del Estado, a través del pleno, ejercerá sus atribuciones legales y constitucionales.
 
-En los periodos de receso de la Legislatura, el Congreso del Estado será representado por la Comisión Permanente, la que tendrá las atribuciones que le confiere la Constitución Política del Estado Libre y Soberano de Durango y la presente ley.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 8.
 
 Los diputados se agruparán en las formas de organización partidista previstas por esta Ley, según corresponda.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 9.
 
@@ -95,29 +113,37 @@ En el ejercicio de su responsabilidad constitucional, todos los diputados tienen
 
 El Presidente del Congreso será responsable de velar por el respeto del fuero constitucional.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 10.
 
 En materia de promoción y gestoría, el Congreso del Estado tendrá las siguientes facultades:
 
 I. Por conducto de la Gran Comisión, proponer al Titular del Poder Ejecutivo del Estado, la atención de problemas prioritarios, a fin de que su solución pudiera considerarse presupuestalmente;
 
-II. Por acuerdo del pleno, solicitar al Titular del Poder Ejecutivo del Estado, Presidentes (sic)
-
-Municipales de la entidad y a las dependencias del gobierno federal, la solución de los problemas que planteen los diputados como resultado de su acción de gestoría ciudadana; y
+II. Por acuerdo del Pleno, solicitar al Titular del Poder Ejecutivo del Estado, Presidentes Municipales de la entidad y a las dependencias del gobierno federal, la solución de los problemas que planteen los diputados como resultado de su acción de gestoría ciudadana; y
 
 III. Orientar a los habitantes del Estado, respecto a los medios jurídicos y administrativos de que puedan disponer, para hacer valer sus derechos ante las autoridades de la entidad.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 11.
 
 En materia de participación ciudadana, el Congreso del Estado tendrá las siguientes facultades:
 
-I. Convocar a consulta pública, previa determinación de las bases de la convocatoria respectiva, sobre las materias de su competencia; y
+I. Convocar a consulta pública y referéndum, previa determinación de las bases de la convocatoria respectiva, sobre las materias de su competencia; y
 
-II. Publicar resultados, dando a conocer las acciones que como resultado de la consulta, llevará a cabo el Congreso.
+II. Publicar los resultados, dando a conocer las acciones que como resultado de la consulta, llevará a cabo el Congreso.
+
+III. Conforme a las bases establecidas en la ley, dar el trámite que corresponda a las iniciativas presentadas por ciudadanos.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 12.
 
 El Congreso del Estado, conforme a las leyes aplicables, aprobará su propio proyecto de presupuesto anual de gastos y lo remitirá al Ejecutivo del Estado, por conducto de la Gran Comisión, para que atendiendo a las previsiones de ingresos, lo incorpore al proyecto de Presupuesto de Egresos del Estado; así mismo, administrará de manera autónoma su presupuesto de gastos y su estructura administrativa.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 13.
 
@@ -131,15 +157,17 @@ Para citar a los servidores públicos del Estado, se deberá cumplir con el proc
 
 I. La solicitud al pleno deberá ser presentada por escrito y firmada por lo menos, por la cuarta parte de los diputados integrantes del Congreso, señalando al servidor público, el asunto a tratar y la fecha en que debe asistir;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
-
 II. Una vez analizado, si el asunto por el cual se pretende citar al servidor público, es relativo a las fracciones I y II del primer párrafo de este artículo, el pleno resolverá lo procedente; y
 
 III. En caso de aprobación del pleno, el Presidente del Congreso, por conducto de la Oficialía Mayor, notificará al servidor público el acuerdo, con una anticipación de por lo menos ocho días, especificándole el motivo por el cual debe comparecer al Congreso.
 
+El Congreso del Estado, podrá solicitar informes a los titulares de las dependencias, entidades y organismos del gobierno estatal y de los municipios para el mejor desempeño de la función legislativa, quienes deberán proporcionar la información o documentación que les sea requerida por escrito.
+
 ### CAPÍTULO II. DE LA INSTALACIÓN DE LA LEGISLATURA
 
 #### SECCIÓN PRIMERA. DE LA JUNTA PREPARATORIA INICIAL
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 14.
 
@@ -153,29 +181,37 @@ III. Las sentencias recaídas a los juicios de inconformidad de la elección de 
 
 Lo anterior, se efectuará en los términos y plazos previstos en las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 15.
 
-La Oficialía Mayor, a más tardar el día quince de agosto del año de la elección, deberá presentar un informe a la Comisión Permanente sobre las constancias y declaratorias recibidas, la cual verificará que las mismas corresponden a la mayoría absoluta de los diputados electos, convocándolos a una junta preparatoria inicial, que deberá efectuarse a más tardar el día dieciséis de agosto del año de la elección o el día hábil siguiente a esta fecha.
+La Oficialía Mayor, a más tardar el día quince de agosto del año de la elección, deberá presentar un informe a la Mesa Directiva sobre las constancias y declaratorias recibidas, la cual verificará que las mismas corresponden a la mayoría absoluta de los diputados propietarios electos, convocándolos a una junta preparatoria inicial, que deberá efectuarse a más tardar el día dieciséis de agosto del año de la elección o el día hábil siguiente a esta fecha.
 
-El resto de los diputados electos se integrarán a los trabajos del periodo preparatorio, una vez que la autoridad electoral haya notificado al Congreso su respectiva constancia y declaratoria.
+El resto de los diputados propietarios electos se integrarán a los trabajos del periodo preparatorio, una vez que la autoridad electoral haya notificado al Congreso su respectiva constancia y declaratoria.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 16.
 
-La junta preparatoria inicial, que será presidida por la Comisión Permanente en funciones de comisión instaladora, tendrá por objeto:
+La junta preparatoria inicial, que será presidida por la Mesa Directiva en funciones de comisión instaladora, tendrá por objeto:
 
-I. La entrega de acreditaciones a los diputados electos;
+I. La entrega de acreditaciones a los diputados propietarios electos;
 
 II. La presentación del informe de trabajos preparatorios, para la instalación y puesta en marcha de la legislatura entrante; y
 
-III. La designación de los diputados electos integrantes de la comisión de transición.
+III. La designación de los diputados propietarios electos integrantes de la comisión de transición.
 
-Si a la junta preparatoria inicial no asiste la mayoría absoluta de los diputados electos, la comisión Instaladora expedirá una segunda convocatoria por escrito a una nueva reunión, que se realizará al día siguiente con los que asistan.
+Si a la junta preparatoria inicial no asiste la mayoría absoluta de los diputados propietarios electos, la comisión Instaladora expedirá una segunda convocatoria por escrito a una nueva reunión, que se realizará al día siguiente con los que asistan.
 
 #### SECCIÓN SEGUNDA. DE LA COMISIÓN DE TRANSICIÓN
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 17.
 
-La comisión de transición se conformará en forma plural, con los integrantes de la Comisión Permanente y el número de diputados electos que sean designados por éstos últimos en la junta preparatoria inicial, y se instalará en la fecha de su designación o al día hábil siguiente a este acto, con el propósito de formular el calendario de instalación y puesta en marcha de la legislatura entrante.
+La comisión de transición se conformará en forma plural, con los integrantes de la Mesa Directiva y el número de diputados propietarios electos que sean designados por éstos últimos en la junta preparatoria inicial, y se instalará en la fecha de su designación o al día hábil siguiente a este acto, con el propósito de formular el calendario de instalación y puesta en marcha de la legislatura entrante.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 18.
 
@@ -183,7 +219,7 @@ La comisión de transición tiene por objeto ejecutar, controlar y evaluar el ca
 
 I. El proceso de entrega-recepción de la Legislatura saliente y entrante;
 
-II. El curso institucional de inducción legislativa a diputados electos;
+II. El curso institucional de inducción legislativa a diputados propietarios electos;
 
 III. El proceso de constitución de las formas de organización partidista que procedan;
 
@@ -191,15 +227,15 @@ IV. El proyecto de distribución e integración de las comisiones legislativas;
 
 V. La distribución de curules, áreas y oficinas;
 
-VI. La realización de la junta preparatoria final;
+VI. La realización de la junta preparatoria final; y
 
-VI (sic). La instalación de la legislatura; y
+VII. La instalación de la legislatura.
 
-VIII. El orden del día de la sesión de instalación y de apertura del primer periodo ordinario de sesiones, correspondiente al primer año de ejercicio constitucional.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 19.
 
-Los diputados electos que formen parte de la comisión de transición, coordinarán las actividades que sean competencia exclusiva de los integrantes de la legislatura entrante, incluyendo el inicio de los trabajos de formulación de la agenda legislativa institucional.
+Los diputados propietarios electos que formen parte de la comisión de transición, coordinarán las actividades que sean competencia exclusiva de los integrantes de la legislatura entrante, incluyendo el inicio de los trabajos de formulación de la agenda legislativa institucional.
 
 La legislatura saliente preverá una asignación presupuestal para sufragar los gastos que originen la instalación y puesta en marcha de la legislatura entrante.
 
@@ -207,33 +243,43 @@ En el desempeño de su encomienda, la comisión de transición contará con el a
 
 #### SECCIÓN TERCERA. DE LAS ACTIVIDADES PREPARATORIAS
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 20.
 
 El proceso de entrega-recepción final, se efectuará en los términos y plazos previstos en los ordenamientos de la materia.
 
 La firma del acta administrativa de entrega-recepción final, se efectuará el día uno de septiembre del año de la elección.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 21.
 
-Los contenidos y fecha de realización del curso institucional de inducción legislativa para los integrantes de la Legislatura entrante, serán definidos por los diputados electos, integrantes de la comisión de transición.
+Los contenidos y fecha de realización del curso institucional de inducción legislativa para los integrantes de la Legislatura entrante, serán definidos por los diputados propietarios electos, integrantes de la comisión de transición.
 
 La ejecución del curso estará a cargo del Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 22.
 
-Los diputados electos, integrantes de la comisión de transición, coordinarán los trabajos relativos al proyecto de integración de las comisiones legislativas, el cual deberá ser elaborado a más tardar el día treinta y uno de agosto del año de la elección.
+Los diputados propietarios electos, integrantes de la comisión de transición, coordinarán los trabajos relativos al proyecto de integración de las comisiones legislativas, el cual deberá ser elaborado a más tardar el día treinta y uno de agosto del año de la elección.
 
 El proyecto de integración de las comisiones legislativas será remitido como propuesta a la Gran Comisión, a más tardar el día de su elección, para que por su conducto, sea presentado al Pleno para su análisis, discusión y votación respectiva, en la sesión siguiente a la fecha anteriormente referida.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 23.
 
-En la distribución de curules, áreas y oficinas para los diputados electos, se estará a la práctica parlamentaria o a los acuerdos que en la materia se celebren.
+En la distribución de curules, áreas y oficinas para los diputados propietarios electos, se estará a la práctica parlamentaria o a los acuerdos que en la materia se celebren.
 
 #### SECCIÓN CUARTA. DE LA JUNTA PREPARATORIA FINAL
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 24.
 
-La Comisión Permanente de la legislatura saliente, en funciones de comisión instaladora, citará a los diputados electos a la junta preparatoria final, que se llevará a efecto el día treinta y uno de agosto del año de la elección, a las once horas y se desarrollará de conformidad con el siguiente orden del día:
+La Mesa Directiva de la legislatura saliente, en funciones de comisión instaladora, citará a los diputados propietarios electos a la junta preparatoria final, que se llevará a efecto el día treinta y uno de agosto del año de la elección, a las once horas y se desarrollará de conformidad con el siguiente orden del día:
 
 I. Lista de asistencia de los integrantes de la comisión instaladora y de los diputados electos;
 
@@ -249,33 +295,41 @@ VI. Citatorio a los diputados electos a la sesión de instalación de la legisla
 
 VII. Clausura de la junta preparatoria.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 25.
 
-Verificado el quórum legal e instalada la Sesión, el Presidente de la Comisión Instaladora procederá a tomar la protesta de los diputados electos, debiéndolo hacer en orden de distrito en el caso los diputados de mayoría relativa; y en orden alfabético, a los diputados de representación proporcional, preguntándoles lo siguiente:
+Verificado el quórum legal e instalada la Sesión, el Presidente de la Comisión Instaladora procederá a tomar la protesta de los diputados propietarios electos, debiéndolo hacer en orden de distrito en el caso los diputados de mayoría relativa; y en orden alfabético, a los diputados de representación proporcional, preguntándoles lo siguiente:
 
-“¿Protestáis guardar y hacer guardar la Constitución General de la República, la particular del Estado y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputado (a) que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?”
+"¿Protesta guardar y hacer guardar la Constitución General de la República, la particular del Estado y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputado (a) que el pueblo le ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?"
 
-Los interrogados deberán contestar: “Sí, protesto”.
+Los interrogados deberán contestar: "Sí, protesto".
 
-Enseguida, el Presidente dirá: “Si así no lo hiciéreis, que la Nación y el Estado os lo demanden“.
+Enseguida, el Presidente dirá: "Si así no lo hiciere, que la Nación y el Estado se lo demanden ".
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 26.
 
-El Presidente de la Comisión Instaladora, exhortará a los diputados electos para que en escrutinio secreto y por mayoría de votos, elijan la mesa directiva inicial.
+El Presidente de la Comisión Instaladora, exhortará a los diputados propietarios electos para que en escrutinio secreto y por mayoría de votos, elijan la Mesa Directiva inicial.
 
 Una vez electa la Mesa Directiva de la legislatura entrante, el Presidente de la Comisión Instaladora, efectuará la siguiente declaratoria:
 
-“A las veinticuatro horas del día de hoy, treinta y uno de agosto de (año), la (número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, clausura su periodo de Ejercicio Constitucional“
+"A las veinticuatro horas del día de hoy, treinta y uno de agosto de (año), la (número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, clausura su periodo de Ejercicio Constitucional"
 
-Enseguida, procederá a entregar al Presidente de la Mesa Directiva inicial electa, los expedientes relativos a la elección de los integrantes de la nueva legislatura; el informe de la Comisión Permanente de la legislatura saliente; los asuntos pendientes de dictaminar y el informe de las actividades relativas a la entrega-recepción del Poder Legislativo a la legislatura entrante.
+Enseguida, procederá a entregar al Presidente de la Mesa Directiva inicial electa, los expedientes relativos a la elección de los integrantes de la nueva legislatura; el informe de la Comisión Instaladora de la legislatura saliente; los asuntos pendientes de dictaminar y el informe de las actividades relativas a la entrega-recepción del Poder Legislativo a la legislatura entrante.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 27.
 
 Si uno o varios diputados no asistieran a la junta preparatoria final, la presidencia de la nueva legislatura citará a los ausentes, para que concurran a rendir protesta desde el día de la instalación de la legislatura hasta diez días después de este acto, apercibidos que de no hacerlo, se llamará de inmediato a los suplentes.
 
-Si la ausencia de los diputados propietarios electos impide la instalación de la legislatura, el Presidente de la Mesa Directiva, citará de inmediato a los suplentes; y si éstos no comparecieran, se procederá de conformidad con lo dispuesto en el segundo párrafo del artículo 39 la Constitución Política del Estado Libre y Soberano de Durango.
+Si la ausencia de los diputados propietarios electos impide la instalación de la legislatura, el Presidente de la Mesa Directiva, citará de inmediato a los suplentes.
 
 #### SECCIÓN QUINTA. DE LA INSTALACIÓN
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 28.
 
@@ -285,7 +339,7 @@ I. Lista de asistencia;
 
 II. Declaración del quórum legal;
 
-III. Declaratoria de instalación de la legislatura entrante y de apertura del primer periodo ordinario de sesiones, correspondiente al primer año de ejercicio constitucional;
+III. Declaratoria de instalación de la legislatura entrante y de apertura del primer año de ejercicio constitucional;
 
 IV. Declaratoria de constitución de las formas de organización partidista;
 
@@ -295,13 +349,17 @@ VI. Posicionamiento de los representantes de las formas de organización partidi
 
 VII. Clausura de la sesión.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 29.
 
-Para el efecto de declarar instalada la legislatura entrante y abierto su primer periodo ordinario de sesiones, el Presidente de la Mesa Directiva inicial, solicitará que los diputados y demás asistentes al salón de sesiones, se pongan de pie, y hará la siguiente declaratoria:
+Para el efecto de declarar instalada la legislatura entrante, e iniciados sus trabajos, el Presidente de la Mesa Directiva inicial, solicitará que los diputados y demás asistentes al salón de sesiones, se pongan de pie, y hará la siguiente declaratoria:
 
-“Hoy día primero de septiembre del (año), se declara legítima y solemnemente instalada la (su número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, y en aptitud de ejercer las funciones que le señalan la Constitución y las leyes; y abre su primer periodo ordinario de sesiones, correspondiente al primer año de ejercicio constitucional”.
+"Hoy día primero de septiembre del (año), se declara legítima y solemnemente instalada la (su número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, y en aptitud de ejercer las funciones que le señalan la Constitución y las leyes; y abre sus trabajos correspondientes al primer año de ejercicio constitucional".
 
 En el caso de una elección extraordinaria, la fórmula anterior se adecuará a la fecha establecida previamente en la convocatoria respectiva.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 30.
 
@@ -314,6 +372,8 @@ I. Denominación;
 II. Nombre y número de integrantes, y
 
 III. Nombre de su coordinador y representante.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 31.
 
@@ -329,9 +389,13 @@ IV. Las intervenciones no excederán de quince minutos; y
 
 V. No procederán interrupciones o interpelaciones al orador en turno.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 32.
 
 La instalación de la nueva Legislatura se contendrá en el decreto respectivo y se comunicará por oficio a los titulares de los Poderes Ejecutivo y Judicial, a los Ayuntamientos del Estado, a las Cámaras del Honorable Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 33.
 
@@ -341,21 +405,31 @@ En los períodos siguientes al de la instalación de la legislatura, la junta qu
 
 #### SECCIÓN PRIMERA. DE LOS DERECHOS
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 34.
 
 Los diputados son los legítimos representantes electos en forma periódica y democrática, que integran el Congreso del Estado para ejercer la soberanía popular, que reside esencial y originalmente en el pueblo de Durango.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 35.
 
 Los diputados, en el ejercicio de sus atribuciones y a partir de la toma de protesta constitucional respectiva e inicio de su ejercicio constitucional, gozarán de las prerrogativas y derechos que establecen la Constitución Política del Estado Libre y Soberano de Durango y esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 36.
 
-Los diputados son responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones oficiales; pero no podrán ser detenidos ni ejercitarse en su contra acción punitiva, hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a los tribunales.
+Los diputados son responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones oficiales; pero no podrán ser detenidos ni ejercitarse en su contra acción punitiva, hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a los tribunales, con la excepción contenida en el artículo 71 de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 37.
 
 Los diputados percibirán, de acuerdo con el presupuesto de egresos autorizado, las dietas correspondientes. No tendrán derecho a éstas cuando faltaren a las sesiones o reuniones que tengan relación con las funciones que desempeñen, en los términos establecidos por esta Ley, tampoco recibirán emolumentos extraordinarios por el trabajo realizado como integrantes de las comisiones legislativas del Congreso.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 38.
 
@@ -363,7 +437,7 @@ Son derechos de los diputados:
 
 I. Integrar la legislatura para la cual fueron electos;
 
-II. Tener voz y voto en las deliberaciones del pleno y en las comisiones legislativas que se le asignen;
+II. Suscribir en adhesión, previa autorización del autor, las iniciativas que presenten otros integrantes de la legislatura; tener voz y voto en las deliberaciones del pleno y en las comisiones legislativas que se le asignen;
 
 III. Hacer del conocimiento del Congreso del Estado cualquier anomalía que pueda afectar la seguridad y tranquilidad colectiva;
 
@@ -379,59 +453,59 @@ VIII. Gozar, por causa justificada, de permisos o licencias por tiempo determina
 
 IX. Las demás que les sean conferidas por esta ley y otros ordenamientos legales vigentes.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 39.
 
 Se consideran faltas, los siguientes casos:
 
-I. No asistir a las sesiones del pleno o a las reuniones de trabajo de las comisiones legislativas;
+I. No asistir a las sesiones del pleno o a las reuniones de trabajo de las comisiones legislativas sin causa justificada;
 
 II. Llegar a las sesiones o reuniones de trabajo después del pase de lista de asistencia sin autorización del Presidente; y
 
 III. Abandonar las sesiones o reuniones de trabajo sin permiso del Presidente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 40.
 
-Corresponde al Presidente de la Mesa Directiva, otorgar, por causa justificada, permisos para retardos y faltas o ausentarse de las sesiones plenarias, en los siguientes casos:
+Corresponde al Presidente de la Mesa Directiva, otorgar por causa justificada, permisos para retardos y faltas o ausentarse de las sesiones plenarias, en los siguientes casos:
 
 I. Cuando se solicite con antelación a la sesión correspondiente, el registro de asistencia para presentarse a la sesión después de haber pasado lista de asistencia;
 
-II. Para retirarse de la sesión;
+II. Para retirarse de la sesión:
 
 III. Para dejar de asistir por motivos personales hasta dos sesiones en un mes; y
 
 IV. Para dejar de asistir, cuando por razones de salud se vea impedido de acudir a la sesión, hasta por tres semanas consecutivas en un mes.
 
-Se justificará el retardo, falta o ausencia de un diputado, cuando previamente a la sesión o sesiones, avise y exponga sus motivos al Presidente de la Mesa Directiva. La falta sin previo aviso, sólo se justificará en caso de fuerza mayor. De igual forma, sólo se podrá otorgar permiso a cinco diputados, como máximo.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
-
 Se justificará el retardo, falta o ausencia de un diputado, cuando previamente a la sesión o sesiones, avise y exponga sus motivos al Presidente de la Mesa Directiva. La falta sin previo aviso, sólo se justificará en caso de fuerza mayor o enfermedad, debiendo, el ausente hacer llegar al Presidente de la Mesa Directiva, la justificación médica por escrito; cuando la falta tuviere otra naturaleza, deberá, por escrito, exponer las razones de la inasistencia, ante la Mesa Directiva. Sólo se podrá otorgar permiso a cinco diputados, como máximo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 Las faltas de asistencia a las reuniones de las comisiones legislativas, sólo serán justificadas por el Presidente de las mismas cuando medie causa de fuerza mayor inevitable o enfermedad; en este caso, se observará lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 41.
 
-Corresponde al pleno, autorizar permisos a los diputados para dejar de asistir a más de dos sesiones o más de tres semanas en un mes y por causa de enfermedad grave hasta por noventa días, siempre y cuando no se afecte el quórum legal y exista causa grave y justificada; así como autorizar licencias por tiempo determinado o indeterminado, en cuyo caso deberá llamarse al suplente hasta el término de la licencia respectiva.
+Corresponde al Pleno, autorizar permisos a los diputados para dejar de asistir a más de dos sesiones o más de tres semanas en un mes y por causa de enfermedad grave hasta por noventa días, siempre y cuando no se afecte el quórum legal y exista causa grave y justificada; así como autorizar licencias por tiempo determinado o indeterminado, en cuyo caso deberá llamarse al suplente hasta el término de la licencia respectiva.
 
-Se entiende que los diputados que falten a sesiones consecutivas del pleno por el término de un mes sin causa justificada y sin previo aviso al Presidente, renuncian a concurrir a sesiones hasta el periodo inmediato, llamándose desde luego a los suplentes.
+Se entiende que los diputados que falten a tres sesiones consecutivas del pleno sin causa justificada y sin previo aviso al Presidente, renuncian a desempeñar su cargo, llamándose desde luego a los suplentes.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 42.
 
-Cuando algún diputado se reporte enfermo, el Presidente designará una comisión de dos o más diputados para que pasen a visitarlo periódicamente por el término de su enfermedad, debiendo rendir dicha comisión, un informe respectivo a su desempeño y a las necesidades del enfermo, para que se le preste ayuda en cuanto fuere posible. En el caso de que llegare a sufrir una incapacidad permanente, gozará de una pensión; para tal efecto, el pleno de la legislatura, en sesión privada, determinará lo relativo a la cuantía y temporalidad de ésta, previendo económicamente por su calidad de vida futura. Si falleciere, se imprimirán esquelas a nombre del Congreso y el Presidente designará una comisión para que asista, con la representación de la legislatura, a los funerales y se encargue de expresar las condolencias a los familiares del fallecido. Los gastos del sepelio correrán a cargo del presupuesto del Congreso.
+Cuando algún diputado se reporte enfermo, el Presidente designará una comisión de dos o más diputados para que pasen a visitarlo periódicamente por el término de su enfermedad, debiendo rendir dicha comisión, un informe respectivo a su desempeño y a las necesidades del enfermo, para que se le preste ayuda en cuanto fuere posible. En el caso de que llegare a sufrir una incapacidad permanente, gozará de una pensión; para tal efecto, el Pleno de la legislatura, en sesión privada, determinará lo relativo a la cuantía y temporalidad de ésta, previendo económicamente por su calidad de vida futura. Si falleciere, se imprimirán esquelas a nombre del Congreso y el Presidente designará una comisión para que asista, con la representación de la legislatura, a los funerales y se encargue de expresar las condolencias a los familiares del fallecido. Los gastos del sepelio correrán a cargo del presupuesto del Congreso.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 43.
 
 Los diputados, durante su ejercicio, su cónyuge y descendientes en primer grado en línea recta, que dependan económicamente o hasta la mayoría de edad, gozarán de los beneficios médico-asistenciales, que serán cubiertos íntegramente por el Gobierno del Estado, conforme a los convenios que deberá celebrar éste con las instituciones correspondientes; o bien, mediante la prestación de servicios que al efecto se contraten.
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 44.
 
@@ -441,7 +515,7 @@ I. Rendir la protesta de ley para asumir su cargo;
 
 II. Ser defensores de los derechos de los habitantes que representan;
 
-III. Visitar su respectivo distrito en los períodos de receso del Congreso o en los períodos ordinarios cuando fuere necesario. En los períodos de receso, se exceptúa de esta obligación, a los diputados que integren la comisión permanente;
+III. Visitar su respectivo distrito;
 
 IV. Cerciorarse del estado que guardan los programas de desarrollo económico y de bienestar social;
 
@@ -469,15 +543,21 @@ XV. Guardar el debido respeto y compostura propios de su investidura, en el ejer
 
 XVI. Las demás que les asignen las leyes.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 45.
 
-Los diputados propietarios, en el periodo que dure el cargo para el que fueron electos, tienen prohibido desempeñar comisión o empleo alguno de la Federación, del Estado o de los Municipios por los cuales reciban remuneración, sin que hayan obtenido previamente licencia de la Legislatura o de la Comisión Permanente, en su caso, en cuya hipótesis cesarán en sus funciones mientras desempeñen la nueva ocupación. Se exceptúan de esta prohibición, los cargos o comisiones de oficio o de índole educativa.
+Los diputados durante el periodo de su encargo, no pueden desempeñar ninguna otra comisión o empleo de la Federación, del Estado o de los municipios, por el cual se disfrute sueldo, se exceptúa de esta prohibición los cargos o comisiones de oficio y de índole docente o científica. La infracción de esta disposición será castigada con la pérdida del carácter de Diputado.
 
 Esta misma regla se aplicará a los diputados suplentes que entren en ejercicio del cargo.
 
-El incumplimiento de esta disposición, se sancionará con la pérdida del carácter de diputado.
+El incumplimiento de esta disposición, se sancionará con la pérdida del carácter de diputado
+
+Los diputados no pueden celebrar contrato alguno con el Estado, ni obtener concesión de bienes públicos que implique privilegio. No podrán intervenir como directores, administradores o gerentes de empresas que contraten con el Estado obras, suministros o prestación de servicios públicos. La infracción a esta prohibición será castigada en los términos de la ley.
 
 #### SECCIÓN TERCERA. DE LAS FORMAS DE ORGANIZACIÓN PARTIDISTA
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 46.
 
@@ -492,6 +572,8 @@ III. Representaciones de Partido.
 Sólo podrá constituirse una forma de organización partidista por cada partido político representado en la legislatura.
 
 Los diputados sin filiación partidista o que dejen de pertenecer a alguna forma de organización partidista, sin integrarse a otra existente, serán considerados como diputados independientes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 47.
 
@@ -509,9 +591,13 @@ En el caso de las representaciones de partido, se comunicará la decisión de co
 
 El expediente de constitución se remitirá a la Oficialía Mayor a más tardar el treinta de agosto del año de la elección, para que a su vez sea entregado a la Mesa Directiva Inicial, electa en la junta preparatoria.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 48.
 
 La Mesa Directiva Inicial, analizará la procedencia o improcedencia de la constitución de las formas de organización partidista que procedan, tomando en cuenta los términos, plazos y requisitos previstos en la presente ley. En caso de encontrarla procedente, el Presidente de la Mesa Directiva formulará la declaratoria de constitución que corresponda, en la sesión de instalación de la legislatura.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 49.
 
@@ -525,77 +611,89 @@ III. Facilitar la formación de criterios comunes de los diputados de una sola f
 
 IV. Propiciar y suscribir acuerdos parlamentarios, para agilizar un procedimiento o acto y resolver algún asunto o caso no previsto.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 50.
 
 Los grupos parlamentarios dispondrán de locales adecuados en las instalaciones del Congreso del Estado, así como de un Secretario Técnico, Asesores, personal de apoyo y los elementos materiales necesarios para el cumplimiento de sus funciones, de acuerdo a las posibilidades y el presupuesto del Congreso.
 
-### CAPÍTULO IV. DE LOS PERIODOS Y LAS SESIONES DEL CONGRESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPÍTULO IV. DE LAS SESIONES DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 51.
 
-Durante su ejercicio constitucional, la legislatura celebrará dos períodos ordinarios durante cada año de ejercicio constitucional; el primero, dará principio el día uno de septiembre y no podrá prolongarse sino hasta el día veinte de diciembre; y el segundo, iniciará el primero de marzo y no podrá prolongarse sino hasta el treinta de junio.
+Durante su ejercicio constitucional, la legislatura sesionará cuantas veces sea necesario para el despacho de los asuntos de su competencia, pero deberá celebrar por lo menos tres sesiones al mes; la Gran Comisión acordará las fechas en que la Legislatura gozará de periodo vacacional, durante las cuales, el Pleno no celebrará sesiones, a menos que estas tengan carácter de extraordinarias.
 
-Los períodos extraordinarios de sesiones, serán aquéllos a los que convoque la Comisión Permanente del Congreso del Estado, por sí o a petición del Gobernador del Estado.
+Son sesiones extraordinarias aquellas que sean convocadas por el Presidente de la Mesa Directiva, o en su caso, por la mayoría de sus integrantes, en los periodos vacacionales o por tratarse de un asunto urgente, todas las demás sesiones se considerarán ordinarias.
 
-Los decretos de convocatoria y las declaraciones de apertura y clausura de los periodos ordinarios y extraordinarios de sesiones serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y comunicados al Titular del Poder Ejecutivo, al Tribunal Superior de Justicia, a los Ayuntamientos de la Entidad, a las Cámaras del H. Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal
+Los decretos de convocatoria y las declaraciones de apertura y clausura de cada año de ejercicio constitucional serán publicados en el Periódico Oficial del Gobierno del Estado de Durango y comunicados al Titular del Poder Ejecutivo, al Tribunal Superior de Justicia, a los Ayuntamientos de la Entidad, a las Cámaras del H. Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 52.
 
-Durante los periodos ordinarios de sesiones, el pleno sesionará cuantas veces sea necesario para el despacho de los asuntos de su competencia, pero deberá celebrar como mínimo dos sesiones por semana.
+Durante los periodos vacacionales del personal del Congreso del Estado, no se efectuarán sesiones, salvo urgencia o necesidad determinada por el Presidente de la Mesa Directiva, o en su caso, por la mayoría de sus integrantes.
 
-Durante los periodos vacacionales del personal del Congreso del Estado, no se efectuarán sesiones, salvo urgencia o necesidad determinada por el Presidente de la Mesa Directiva.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 53.
 
-Aprobada la realización de un periodo extraordinario de sesiones, la Comisión Permanente expedirá de inmediato la convocatoria respectiva, que contendrá cuando menos, lo siguiente:
+La convocatoria a sesiones extraordinarias contendrá cuando menos, lo siguiente:
 
 I. Fecha y hora de apertura; y
 
 II. Asuntos a desahogar.
 
-La Comisión Permanente fungirá como Mesa Directiva del pleno durante el periodo extraordinario y suspenderá su calendario de sesiones, debiendo reiniciarlo al concluir el periodo referido.
+El pleno llevará a cabo las sesiones extraordinarias que sean necesarias para dar trámite a los asuntos señalados en la convocatoria.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 54.
 
-Durante el periodo extraordinario de sesiones, el pleno sesionará cuantas veces sea necesario, para desahogar los asuntos señalados en la convocatoria.
-
-Para aperturar o clausurar los periodos ordinarios y extraordinarios de sesiones, según sea el caso, el Presidente de la Mesa Directiva hará la siguiente declaratoria:
+Para aperturar o clausurar cada uno de los años de ejercicio constitucional, según sea el caso, el Presidente de la Mesa Directiva hará la siguiente declaratoria:
 
 Apertura:
 
-“La (número) legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, (abre o clausura) hoy día (número) de (mes) de (año), su (número) periodo ordinario de sesiones o extraordinario de sesiones del (número) receso correspondiente al (número) año de ejercicio constitucional”.
+“La (número) legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, abre hoy día primero de septiembre de (año), su (número) año de ejercicio constitucional.”
+
+Conclusión:
+
+“La (número) legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, clausura, hoy día treinta y uno de agosto de (año), su (número) año de ejercicio constitucional.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 55.
 
-Las sesiones del pleno podrán ser ordinarias o extraordinarias y se efectuarán en los periodos ordinarios o extraordinarios de sesiones, en forma respectiva. Éstas podrán ser:
+Las sesiones del pleno podrán ser ordinarias o extraordinarias. Éstas podrán ser:
 
 I. Públicas, las que se efectúan con asistencia del público;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
-
-II. Privadas.- aquéllas que se efectúen exclusivamente con la asistencia de los integrantes de la legislatura y el personal autorizado para ello; quienes intervengan en dichas sesiones, deberán guardar debida reserva de lo que en las mismas se trate. El Presidente de la Mesa Directiva correspondiente, cuidará de la reserva de lo tratado en dichas sesiones.
+II. Privadas, aquéllas que se efectúen exclusivamente con la asistencia de los integrantes de la legislatura y el personal autorizado para ello; quienes intervengan en dichas sesiones, deberán guardar debida reserva de lo que en las mismas se trate. El Presidente de la Mesa Directiva correspondiente, cuidará de la reserva de lo tratado en dichas sesiones.
 
 III. Solemnes, las que deban efectuarse para celebrar uno o varios actos con determinadas formalidades protocolarias; y
 
 IV. Permanentes, las que se constituyan con ese carácter para tratar o desahogar el o los asuntos que se hubieren señalado en el orden del día.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 56.
 
 La convocatoria que emita el Presidente de la Mesa Directiva, deberá expedirse con un plazo mínimo de veinticuatro horas de anticipación; o en un plazo menor, cuando se trate del desahogo de asuntos de urgente y obvia resolución, debidamente fundados y motivados.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 57.
 
-Las sesiones del pleno no podrán aperturarse sin la asistencia de la mayoría absoluta de los diputados integrantes de la legislatura. Sus resoluciones se tomarán por mayoría absoluta de los diputados presentes, exceptuando aquéllos casos en que se requiera otro requisito de votación.
+Las sesiones del pleno no podrán iniciarse sin la asistencia de la mayoría absoluta de los diputados integrantes de la legislatura. Sus resoluciones se tomarán por mayoría absoluta de los diputados presentes, exceptuando aquéllos casos en que se requiera otro requisito de votación.
 
 Para dar inicio a las sesiones del Pleno, el Presidente ordenará a la Oficialía Mayor, se abra el sistema de registro electrónico de asistencia, el cual consignará la presencia de los diputados presentes en la sesión. Cerrado el registro de asistencia, el Presidente ordenará a uno de los secretarios, declare la existencia o no del quórum legal, en cuyo caso afirmativo declarará abierta la sesión y se dará cuenta de los asuntos a tratar.
 
 Previo a la instalación de la sesión plenaria, la Oficialía Mayor, a través del sistema de información parlamentaria, distribuirá a los diputados, las iniciativas y dictámenes que habrán de desahogarse en la misma.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 58.
 
@@ -603,9 +701,13 @@ Si al pasar lista de asistencia no existiera quórum, una vez comprobada la falt
 
 De persistir la falta de quórum después del segundo pase de lista de asistencia, el Presidente convocará el día y hora que juzgue pertinente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 59.
 
 Si por falta de quórum no pudieran llevarse a cabo las sesiones, el presidente estará facultado para emplear los medios que establezca la ley, a fin de hacer que los diputados concurran a ellas.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 60.
 
@@ -613,9 +715,13 @@ Si durante el curso de una sesión, alguno de los diputados reclama el quórum, 
 
 Verificado y declarado el quórum legal, la sesión continuará, según lo disponga el orden del día.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 61.
 
 Cuando el pleno lo determine, se constituirá en sesión permanente, para tratar sólo el asunto o asuntos que se hubieren señalado previamente por la Mesa Directiva, y su duración será por todo el tiempo necesario, para tratar el o los asuntos señalados en el orden del día.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 62.
 
@@ -623,11 +729,15 @@ Toda sesión del pleno durará el tiempo que sea necesario; en el caso de una ex
 
 De toda sesión plenaria, se formulará el acta correspondiente, misma que quedará bajo el resguardo de la Oficialía Mayor.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 63.
 
-Para abrir las sesiones, el Presidente expresará: ¨Habiendo quórum, se abre la sesión¨, para clausurarlas, manifestará: "Habiéndose agotado el orden del día y no habiendo otro asunto que tratar, se clausura la sesión y se cita al Pleno a la siguiente, que se llevará a cabo el día____________________, a las____ horas."
+Para abrir las sesiones, el Presidente expresará: ¨Habiendo quórum, se abre la sesión¨, para clausurarlas, manifestará: “Habiéndose agotado el orden del día y no habiendo otro asunto que tratar, se clausura la sesión y se cita al Pleno a la siguiente, que se llevará a cabo el día____________________, a las____ horas."
 
-En ambos casos, después de la declaratoria, deberá sonar el timbre.
+En ambos casos, después de la declaratoria, deberá sonar la campana.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 64.
 
@@ -641,81 +751,79 @@ III. Lectura del acta de la sesión anterior, la que será discutida y aprobada,
 
 IV. Lectura a la lista de la correspondencia oficial, recibida para su trámite;
 
-V. En su caso, lectura discusión y votación de iniciativas presentadas por los diputados integrantes de la legislatura;
+V. En su caso, el desahogo del “Espacio Solemne” cuando así lo haya aprobado el pleno;
 
-VI. Dictámenes que rindan las comisiones legislativas respecto a las iniciativas y asuntos que les hayan sido encomendados;
+VI. En su caso, lectura discusión y votación de iniciativas presentadas por los diputados integrantes de la legislatura;
 
-VII. Asuntos generales; y
+VII. Dictámenes que rindan las comisiones legislativas respecto a las iniciativas y asuntos que les hayan sido encomendados;
 
-VIII. Clausura de la sesión.
+VIII. Puntos de Acuerdo;
+
+IX. Asuntos generales; y
+
+X. Clausura de la sesión.
 
 El orden del día de las sesiones solemnes será determinado por el Presidente de la Mesa Directiva, según la naturaleza del acto o actos que se efectúen en las mismas.
 
-En el orden del día de la última sesión que le corresponda a una Mesa Directiva, previo al punto de asuntos generales, se agregará el de: Elección de la Mesa Directiva.
+En el orden del día de la última sesión que le corresponda a una Mesa Directiva, previo al punto de asuntos generales, se agregará el relativo a la Elección de la Mesa Directiva.
 
-En la primera o segunda sesión de cada período, se deberá dar lectura al informe presentado por la Comisión Permanente.
+Los Diputados integrantes de la Legislatura podrán someter a la aprobación del pleno mediante Punto de Acuerdo, la inclusión en el orden del día de la sesión que corresponda de un “Espacio Solemne”, periodo de tiempo en el cual y de manera exclusiva, se dedicará a la realización de homenajes, enaltecimientos, conmemoraciones, reconocimientos, o cualquier otro objetivo aprobado.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
-
-Las sesiones de apertura de los periodos de sesiones, excepto las que correspondan a periodos extraordinarios, tendrán el siguiente orden del día:
+Las sesiones de apertura de los años de ejercicio constitucional tendrán el siguiente orden del día:
 
 I. Lista de asistencia;
 
 II. Declaración del quórum legal;
 
-III. Declaratoria de apertura del período ordinario de sesiones, correspondiente al año de ejercicio constitucional;
+III. Declaratoria de apertura del año de ejercicio constitucional;
 
-V (SIC). Posicionamiento de los representantes de las formas de organización partidista constituidas; y
+V. Posicionamiento de los representantes de las formas de organización partidista constituidas; y
 
 VI. Clausura de la sesión.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
-
 El posicionamiento de las representaciones parlamentarias se hará tomando el orden ascendente, conforme el número de diputados que las integren, sin embargo, la participación será única por cada partido político representado; cuando dos o más formas de organización partidista tengan dos o más diputados, la prelación en el orden de participación se hará tomando en cuenta el número de votos emitidos en la elección correspondiente.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+El Presidente de la Mesa Directiva, en la sesión de apertura, solicitará a los asistentes al recinto la más rigurosa solemnidad y hará la siguiente declaratoria:
 
-El Presidente de la Mesa Directiva, en la sesión de apertura, solicitando a los asistentes al recinto la más rigurosa solemnidad, hará la siguiente declaratoria:
+“Hoy día primero de septiembre del (año), la (su número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, abre su (según corresponda) año de ejercicio constitucional”
 
-"Hoy día _____de ______ del (año), la (su número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, abre su (según corresponda) periodo ordinario de sesiones, correspondiente al (según corresponda) año de ejercicio constitucional."
+La apertura de cualquier año de ejercicio constitucional deberá constar en el decreto que al efecto se expida y será comunicado a las demás Legislaturas de las Entidades Federativas y del Distrito Federal, a los Poderes Ejecutivo y Judicial del Estado y a los Ayuntamientos.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
-
-La apertura de cualquier (sic) de sesiones deberá constar en el decreto que al efecto se expida y será comunicado a las demás Legislaturas de las Entidades Federativas y del Distrito Federal, a los Poderes Ejecutivo y Judicial del Estado y a los Ayuntamientos.
-
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
-
-Las formas de organización partidista, podrán, cuando así lo resuelvan, incluir en el orden del día, un apartado relativo a efemérides para conmemorar fechas alusivas al calendario cívico nacional o estatal.
-
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
-
-Una vez acordada la celebración, el acuerdo será hecho del conocimiento de la Mesa Directiva, para que se incluya en la correspondiente Orden del día.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 65.
 
-Para participar en asuntos generales, los diputados deberán registrarse con el Presidente de la mesa directiva del Congreso, indicando el tema a tratar, previo al inicio de la sesión, debiendo informar a los coordinadores de los grupos parlamentarios del contenido de tal registro.
+Para participar en asuntos generales, los diputados deberán registrarse con el Presidente de la mesa directiva del Congreso, indicando el tema a tratar, en términos de lo acordado por el Pleno.
 
 El presidente iniciará el desarrollo de este punto haciendo mención de los diputados registrados y en ese orden les concederá el uso de la palabra. Cualquier diputado podrá hacer uso de la palabra sobre un asunto registrado, siempre y cuando el pleno no lo haya considerado suficientemente discutido.
 
+Si algún diputado determina no hacer uso de la palabra cuando corresponda su turno, podrá solicitar, por única ocasión, al Presidente de la Mesa Directiva reserve el tema registrado para la siguiente sesión.
+
 ### CAPÍTULO V. DEL PALACIO LEGISLATIVO, DEL SALÓN DE SESIONES Y DEL CEREMONIAL
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 66.
 
-El recinto oficial del Congreso es inviolable. Toda fuerza pública estará impedida de tener acceso al mismo, salvo con permiso del Presidente del Congreso o el de la Comisión Permanente, bajo cuyo mando quedará en este caso.
+El recinto oficial del Congreso es inviolable. Toda fuerza pública estará impedida de tener acceso al mismo, salvo con permiso del Presidente de la Mesa Directiva, bajo cuyo mando quedará en este caso.
 
-El Presidente de la Mesa Directiva o de la Comisión Permanente, podrá solicitar el auxilio de la fuerza pública para salvaguardar la integridad de los diputados, servidores públicos del Congreso, público asistente y de los recintos.
+El Presidente de la Mesa Directiva, podrá solicitar el auxilio de la fuerza pública para salvaguardar la integridad de los diputados, servidores públicos del Congreso, público asistente y de los recintos.
 
 La autoridad requerida, deberá prestar sin demora, el auxilio solicitado, debiendo al efecto, poner la fuerza a su cargo a disposición del Presidente correspondiente.
 
-Cuando la fuerza pública se hubiere presentado sin previa solicitud o autorización, depondrá de inmediato sus armas ante el Presidente del Congreso o el de la Comisión Permanente o ante quien designe; y si ello no sucediera, podrá suspender la sesión, debiendo reanudarla cuando aquélla haya abandonado el Palacio Legislativo o el recinto plenario, según sea el caso.
+Cuando la fuerza pública se hubiere presentado sin previa solicitud o autorización, depondrá de inmediato sus armas ante el Presidente de la Mesa Directiva o ante quien designe; y si ello no sucediera, podrá suspender la sesión, debiendo reanudarla cuando aquélla haya abandonado el Palacio Legislativo o el recinto plenario, según sea el caso.
 
-###### Artículo 67.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-El salón de sesiones es el recinto plenario del Congreso del Estado y estará destinado para que efectúe sus sesiones plenarias. En su pódium, se ubicará la mesa directiva y, en su caso, será eventualmente acompañada de los servidores públicos que señale el Libro de Protocolo Legislativo, según la sesión de que se trate.
+###### Artículo 67
 
-Cuando exista alguna causa justificada o no se pueda celebrar la o las sesiones en el Salón de Sesiones, el Presidente de la Mesa Directiva o de la Comisión Permanente, podrá habilitar como recinto plenario sedes alternas dentro del mismo Palacio Legislativo o fuera de él, siempre y cuando éste sea en la capital del Estado.
+El salón de sesiones es el recinto plenario del Congreso del Estado y estará destinado para que efectúe sus sesiones plenarias. En su pódium, se ubicará la mesa directiva y, en su caso, será eventualmente acompañada de los servidores públicos, según la sesión de que se trate.
+
+Cuando exista alguna causa justificada o no se pueda celebrar la o las sesiones en el Salón de Sesiones, el Presidente de la Mesa Directiva, podrá habilitar como recinto plenario, sedes alternas dentro del mismo Palacio Legislativo o fuera de él, siempre y cuando éste sea en la capital del Estado.
 
 Para la celebración de sesiones fuera de la Capital del Estado, se requerirá que el pleno por mayoría calificada, autorice el cambio provisional de residencia y de recinto plenario.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 68.
 
@@ -737,6 +845,8 @@ Las anteriores medidas podrán ser aplicadas en orden de prelación o directamen
 
 Si las medidas tomadas por el presidente de la mesa directiva no bastaran para contener el desorden en el recinto, de inmediato suspenderá la sesión, para continuarla en su naturaleza pública, en algún lugar alterno dentro o fuera del Palacio Legislativo. Si lo anterior no fuera posible, deberá continuarla en sesión privada con acceso de los medios de comunicación social.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 69.
 
 El Congreso del Estado y su legislatura, tendrán el tratamiento de "Honorable", cuando se dirijan o refieran a ellos.
@@ -745,9 +855,11 @@ Sólo podrán dirigirse por medio de oficio al Congreso, el Gobernador del Estad
 
 Los diputados, al dirigirse a la legislatura, deberán usar una de las fórmulas siguientes: "Compañeros (as), Señores (as) o Ciudadanos (as) Diputados (as)" y "Honorable o Respetable Legislatura".
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 70.
 
-Cuando al Congreso asistan altos servidores públicos de la federación, del Estado o representantes diplomáticos, se estará a las siguientes reglas generales de protocolo:
+Cuando al Congreso asistan altos servidores públicos de la Federación, del Estado o representantes diplomáticos, se estará a las siguientes reglas generales de protocolo:
 
 I. El Presidente de la Mesa Directiva designará una comisión de cortesía, integrada por tres diputados, la que les acompañará hasta el Salón de Sesiones en su entrada y salida;
 
@@ -757,13 +869,15 @@ III. Si asistiera el Presidente de la República o su representante, éste tomar
 
 IV. Para los Magistrados del Tribunal Superior de Justicia y demás funcionarios asistentes o invitados, se reservarán lugares especiales; y
 
-V. Los secretarios de la Mesa Directiva ocuparán el lugar que les asigne el Presidente de la misma.
+V. Los Secretarios de la Mesa Directiva ocuparán el lugar que les asigne el Presidente de la misma.
 
 En el tratamiento y solemnidades de otros actos en los que deba intervenir el Congreso del Estado, se estará a lo dispuesto en el Libro de Protocolo Legislativo.
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL CONGRESO
 
 ### CAPÍTULO I. DE LOS ÓRGANOS DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 71.
 
@@ -773,7 +887,7 @@ I. El Pleno;
 
 II. La Mesa Directiva;
 
-III. La Comisión Permanente;
+III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2013)
 
 IV. La Gran Comisión; y
 
@@ -781,29 +895,31 @@ V. Las Comisiones Legislativas.
 
 ### CAPÍTULO II. DEL PLENO Y DE LA MESA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 72.
 
 El Pleno de la Legislatura, es el órgano máximo de deliberación y resolución del Congreso del Estado; deberá reunirse en los términos y plazos que los ordenamientos aplicables prescriban; estará representado por una Mesa Directiva, a la que corresponderá el manejo del orden del día y la conducción de las sesiones bajo la autoridad del Presidente.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 73.
 
 La Mesa Directiva, es un órgano de gobierno interior del Congreso, integrada por un Presidente, un Vicepresidente, dos secretarios propietarios y dos suplentes, quienes durarán en su encargo un mes. En su integración, prevalecerá el principio de pluralidad.
 
-La Mesa Directiva deberá elegirse mediante votación por cédula y por mayoría absoluta de los diputados presentes. Los integrantes de la Mesa Directiva, solo podrán ser sustituidos por el voto de las dos terceras partes de los diputados en la sesión de que se trate.
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2013)</small>
-
-La Mesa Directiva será electa en la última sesión de cada mes.
+La Mesa Directiva deberá elegirse en la última sesión del mes mediante votación por cédula y por mayoría absoluta de los diputados presentes. Los integrantes de la Mesa Directiva, solo podrán ser sustituidos por el voto de las dos terceras partes de los diputados en la sesión de que se trate.
 
 Realizada la elección de la Mesa Directiva, se comunicará por oficio a los poderes Ejecutivo y Judicial y a los Ayuntamientos del Estado; a las Cámaras del Honorable Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 74.
 
-En los periodos ordinarios, el Presidente de la Legislatura ostentará la representación jurídica del Congreso del Estado. A falta del Presidente, ejercerá sus funciones el Vicepresidente. En ausencia de ambos, tomarán la representación, por su orden, los diputados que hubieran ocupado el cargo en los meses anteriores.
-
-En los periodos de receso, la representación jurídica la tendrá el Presidente de la Comisión Permanente; y a falta de él, la ejercerá el Presidente Suplente. En ausencia de ambos, asumirán el cargo, por su orden, los secretarios.
+El Presidente de la Legislatura ostentará la representación jurídica del Congreso del Estado. A falta del Presidente, ejercerá sus funciones el Vicepresidente. En ausencia de este, tomarán la representación, por su orden, los diputados que hubieran ocupado el cargo en los meses anteriores. En los juicios de amparo, su revisión, queja o inconformidad, las acciones de inconstitucionalidad, controversias constitucionales y en los juicios en los que el Congreso forme parte, se estará a lo dispuesto en la legislación aplicable.
 
 Las faltas de los secretarios propietarios serán cubiertas por los suplentes, y en caso de ausencia de éstos, por quien designe el Presidente del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 75.
 
@@ -817,6 +933,8 @@ III. Establecer mecanismos de coordinación y consulta con los demás órganos d
 
 IV. Velar por la integridad del recinto oficial del Congreso.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 76.
 
 Son atribuciones del Presidente:
@@ -825,7 +943,7 @@ I. Presidir las sesiones;
 
 II. Abrir, suspender y clausurar las sesiones, así como citar a los diputados, cuando fuere necesario;
 
-III. Declarar el quórum legal y la falta de éste;
+III.- Declarar el quórum legal y la falta de éste;
 
 IV. Someter a discusión los dictámenes que presenten las comisiones;
 
@@ -847,13 +965,13 @@ XII. Nombrar las comisiones especiales;
 
 XIII. Tomar la protesta a los diputados en la forma establecida, y a los servidores públicos que conforme a la ley deban otorgarla ante el Congreso;
 
-XIV. Rendir los informes previos y justificados que se deriven de los juicios de amparo y su revisión, controversias constitucionales y acciones de inconstitucionalidad en los que el Congreso sea señalado como parte, y asumir la representación jurídica en las diferentes etapas de los juicios;
+XIV. Rendir u ordenar que se rindan los informes previos y justificados que se deriven de los juicios de amparo en todas sus etapas y recursos, controversias constitucionales y acciones de inconstitucionalidad en los que el Congreso sea señalado como parte y asumir la representación jurídica en las diferentes etapas de los juicios, en los casos en los cuales aquella no pueda ser delegada;
 
 XV. Aplicar las medidas disciplinarias que le faculte expresamente la ley, al diputado o diputados que se resistan a acatar las resoluciones dictadas por las instancias de gobierno del Congreso;
 
 XVI. Conceder permisos y licencias a los diputados en los términos de esta Ley;
 
-XVII. Citar a sesiones dentro de los períodos ordinarios, cuando lo señale la Ley, lo acuerde la asamblea o lo considere necesario, en cuyo caso deberá hacerlo con veinticuatro horas de anticipación como mínimo;
+XVII. Citar a sesiones extraordinarias, cuando lo señale la Ley, lo acuerde la asamblea o lo considere necesario, en cuyo caso deberá hacerlo con veinticuatro horas de anticipación como mínimo.
 
 XVIII. Preservar la libertad de expresión y conducir en orden los debates y las deliberaciones;
 
@@ -863,6 +981,8 @@ XX. Suscribir convenios de colaboración o coordinación; y
 
 XXI. Las demás que se deriven de la Constitución Política Local, de esta Ley y de las disposiciones o acuerdos que emita el Congreso.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 77.
 
 Son atribuciones del Vicepresidente:
@@ -870,6 +990,8 @@ Son atribuciones del Vicepresidente:
 I. Substituir al Presidente en sus faltas; y
 
 II. Las demás que le señale la presente Ley o las que le confiera el Congreso o el Presidente.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 78.
 
@@ -887,9 +1009,9 @@ V. Verificar que las iniciativas y los dictámenes que vayan a ser objeto de deb
 
 VI. Firmar la correspondencia oficial, los decretos y acuerdos del Congreso y enviar las comunicaciones a quienes proceda;
 
-VII. Formar el día último de cada mes, una relación de los expedientes que se hayan turnado a cada comisión y que hayan sido despachados, así como de los que quedan en poder de cada una de las comisiones, con el propósito de que se dé cuenta de ellos al Presidente el primer día del mes siguiente;
+VII. Formar el día último de cada mes, una relación de los expedientes que se hayan turnado a cada comisión y que hayan sido despachados, así como de los que quedan en poder de cada una de las comisiones, con el propósito de que se dé cuenta de ellos al Presidente el primer día del inicio del siguiente mes;
 
-VIII. Autentificar con sus firmas, las copias certificadas que se expidan de los documentos que obren en el Congreso;
+VIII. Autentificar con sus firmas, las copias certificadas que se expidan de los documentos que obren en el Congreso; esta facultad podrá ser delegada en la dependencia a cuyo cargo recaiga el trámite de asuntos jurídicos, especialmente los relacionados a las materias de amparo, acciones de inconstitucionalidad y controversias constitucionales y los recursos que de ellos se deriven;
 
 IX. Apoyarse para el desempeño de sus labores en la Oficialía Mayor del Congreso; y
 
@@ -899,45 +1021,35 @@ X. Las demás que se deriven de esta Ley, de las disposiciones legales o acuerdo
 
 ###### Artículo 79.
 
-Durante los períodos de receso del Congreso, la representación política y jurídica del Poder Legislativo radicará en una Comisión Permanente, integrada por cinco diputados propietarios y cinco diputados suplentes.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
 ###### Artículo 80.
 
-En la última sesión de un periodo ordinario, el Congreso deberá elegir un Presidente, dos secretarios y dos vocales, propietarios con sus respectivos suplentes, para integrar la Comisión Permanente que fungirá durante todo el receso, aún cuando el Congreso funcione en periodos extraordinarios.
-
-La elección anterior deberá comunicarse por oficio a los Titulares de los Poderes Ejecutivo y Judicial del Estado; y a las Cámaras del Poder Legislativo Federal, a las Legislaturas de las demás Entidades Federativas y a los Ayuntamientos del Estado.
-
-Si un partido político tuviere dos diputados acreditados en la Legislatura, uno de ellos podrá asistir a las sesiones de la Comisión Permanente con derecho a voz.
-
-Las faltas del Presidente o cualquiera de los secretarios o vocales, serán cubiertas por sus respectivos suplentes.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
 ###### Artículo 81.
 
-La Comisión Permanente se instalará el primer día de su ejercicio y acordará los días y hora de sus sesiones, debiendo celebrar, cuando menos, una sesión semanal, en el recinto oficial del Congreso.
-
-La Comisión Permanente se reunirá siempre que fuere convocada por su Presidente y podrá funcionar con la asistencia de tres de sus integrantes, como mínimo.
-
-Los acuerdos de la Comisión Permanente se tomarán por el voto de la mayoría de los diputados integrantes presentes en la sesión.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
 ###### Artículo 82.
 
-La Comisión Permanente no tendrá más atribuciones que las que le confiere el artículo 57 de la Constitución Política del Estado.
-
-La Comisión permanente podrá otorgar premios y distinciones según las prevenciones establecidas en la legislación respectiva.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
 ###### Artículo 83.
 
-En la segunda sesión del periodo ordinario siguiente de la Legislatura, la Comisión Permanente dará cuenta de las labores desarrolladas, entregando un informe acompañado de los expedientes que hubiere formado.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
 ###### Artículo 84.
 
-Las iniciativas y demás asuntos que sean de competencia exclusiva del pleno, la Comisión Permanente deberá reservarlos para el periodo ordinario siguiente, salvo que por su importancia, se convoque a periodo extraordinario de sesiones para sustanciarlos.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
 ###### Artículo 85.
 
-La elección de la Comisión Permanente deberá comunicarse por oficio a los titulares de los poderes Ejecutivo y Judicial y a los Ayuntamientos del Estado, a las Cámaras del Congreso de la Unión, a las legislaturas de las entidades federativas y a la Asamblea Legislativa del Distrito Federal.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
 ### CAPÍTULO IV. DE LA GRAN COMISIÓN
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 86.
 
@@ -969,17 +1081,19 @@ f) Otros asuntos cuyo desahogo se determine por la vía del acuerdo parlamentari
 
 IV. Otros asuntos que ameriten su atención y pronto desahogo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 87.
 
 La Gran Comisión, tendrá a su cargo las atribuciones siguientes:
 
-I. Suscribir acuerdos relativos a asuntos que deban ser desahogados en el pleno del Congreso o de su Comisión Permanente;
+I.- Suscribir acuerdos relativos a asuntos que deban ser desahogados en el pleno del Congreso;
 
 II. Ejercer la administración del Congreso por conducto de la Oficialía Mayor;
 
 III. Ejercer la representación política del Congreso con los Poderes Ejecutivo y Judicial del Estado, y con los Poderes Federales, los de otras entidades federativas y con los Ayuntamientos del Estado;
 
-IV. Dirigir y organizar los trabajos de la agenda legislativa institucional, en coordinación con las diferentes formas de organización partidista, y (sic)
+IV. Dirigir y organizar los trabajos de la agenda legislativa institucional, en coordinación con las diferentes formas de organización partidista, y
 
 V. Proponer al pleno del Congreso a los integrantes de las Comisiones Legislativas, así como su sustitución, cuando existieren causas justificadas;
 
@@ -991,7 +1105,7 @@ b) Coordinador del Instituto de Investigaciones, Estudios Legislativos y Asesor�
 
 c) Director de Comunicación Social.
 
-VII. Nombrar y remover a los servidores públicos no previstos en la fracción anterior del presente artículo;
+VII. Nombrar y remover a los servidores públicos no previstos en la fracción anterior del presente artículo.
 
 VIII. Aprobar el proyecto de presupuesto anual del Poder Legislativo;
 
@@ -1013,6 +1127,8 @@ XVI. Signar convenios de colaboración o coordinación en asuntos de su competen
 
 XVII. Las demás que le confiera esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 88.
 
 Son atribuciones del Presidente de la Gran Comisión, las siguientes:
@@ -1033,9 +1149,11 @@ VII. Administrar el presupuesto del Poder Legislativo;
 
 VIII. Presidir el Comité de Coordinación del Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica del Congreso;
 
-IX. Ordenar o tomar medidas y decisiones administrativas en casos de extrema urgencia, gravedad o circunstancia apremiante, dando cuenta de ello, en la próxima sesión de la Gran Comisión; y
+IX. Ordenar o tomar medidas y decisiones administrativas en casos de extrema urgencia, gravedad o circunstancia apremiante, dando cuenta de ello, en la siguiente sesión de la Gran Comisión; y
 
 X. Las demás que le confieran otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 89.
 
@@ -1047,6 +1165,8 @@ II. Llevar un libro en el que se asienten las actas de los acuerdos tomados por 
 
 III. Las demás que les confieran otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 90.
 
 Son atribuciones de los vocales:
@@ -1057,13 +1177,15 @@ II. Suplir las ausencias de los secretarios o el presidente, cuando así lo acue
 
 III. Las demás que les confieran otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 91.
 
-Cuando el Presidente de la Gran Comisión se ausentare de manera definitiva, inmediatamente se nombrará una nueva directiva en la forma establecida por el artículo 86 de esta ley. Su ausencia temporal será cubierta por el primer secretario.
+Cuando el Presidente de la Gran Comisión se ausentare de manera definitiva, inmediatamente se nombrará una nueva directiva en la forma establecida en el artículo 86 de esta ley. Su ausencia temporal será cubierta por el primer secretario.
 
 Las ausencias temporales o definitivas de los secretarios y vocales serán cubiertas por quien proponga la forma de organización partidista a que correspondan, debiendo ser ratificadas por el pleno.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 92.
 
@@ -1072,6 +1194,8 @@ La Gran Comisión, para el desempeño de su responsabilidad, dispondrá de los �
 ### CAPÍTULO V. DE LAS COMISIONES LEGISLATIVAS
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 93.
 
@@ -1083,27 +1207,39 @@ II. Ordinarias, las que por su propia naturaleza tienen una función distinta a 
 
 III. Especiales, las que sean designadas por el Presidente del Congreso para agilizar el desahogo de asuntos diversos que se sometan a la consideración del mismo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 94.
 
-Las Comisiones Legislativas serán propuestas por la Gran Comisión ante la Mesa Directiva, quien deberá someterlas a la consideración del Congreso en la segunda sesión de cada período ordinario, a excepción de las comisiones ordinarias, que nombradas al inicio del ejercicio constitucional, fungirán durante todo el período de la Legislatura.
+Las Comisiones Legislativas serán propuestas por la Gran Comisión ante la Mesa Directiva, quien deberá someterlas a la consideración del Congreso en la tercera sesión de cada año de ejercicio constitucional, a excepción de las comisiones ordinarias, que serán nombradas al inicio del ejercicio constitucional, fungirán durante todo el período de la Legislatura.
 
 Las Comisiones Legislativas deberán integrarse de manera tal que reflejen la pluralidad política del Congreso y estarán integradas por un Presidente, un Secretario y tres vocales.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 95.
 
 El Presidente de cada Comisión será responsable de los documentos y expedientes de los asuntos que se les turnen para su estudio; por lo tanto, deberá firmar en el libro de registro, que para el efecto llevará la Oficialía Mayor, el recibo de ellos, y devolver los que en su poder se encuentren sin despachar, al finalizar el período de sesiones.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 96.
 
 Los diputados se abstendrán de dictaminar en los asuntos en que tengan interés personal, o que interesen de la misma manera a su cónyuge o a sus parientes consanguíneos, en línea recta, sin limitación de grado; a los colaterales dentro del cuarto grado, y a los afines dentro del segundo; el diputado que contraviniera este precepto, incurrirá en responsabilidad en los términos previstos por las disposiciones legales de la materia.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 97.
 
 Las reuniones de las comisiones legislativas no serán públicas; sin embargo, podrán celebrar reuniones de trabajo, de información y audiencia, a invitación expresa, con representantes de grupos de interés, peritos y otras personas que puedan informar sobre determinado asunto para conocer directamente criterios u opiniones para la mejor elaboración de los dictámenes.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 98.
 
 Los integrantes de las comisiones deberán firmar los dictámenes que presenten. Si alguno de los integrantes de la Comisión no estuviere de acuerdo, podrá expresar su voto en contra por escrito y solicitar se agregue al expediente que corresponda.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 99.
 
@@ -1111,15 +1247,21 @@ Sólo por causas graves y mediante acuerdo de las dos terceras partes de los int
 
 El Congreso elegirá también al o los diputados sustitutos, en los términos del artículo anterior, cuando se trate de los integrantes de las comisiones especiales de carácter temporal.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 100.
 
 Para el mejor cumplimiento de sus funciones parlamentarias, los diputados tendrán la facultad de recabar de cualquier autoridad del Gobierno del Estado, los datos, informes o documentos que obren en su poder, salvo que se trate de cuestiones consideradas por la Ley como reservados o secretos.
 
 En todo caso, la solicitud se hará por conducto de la Presidencia de la Mesa Directiva del Congreso; en el caso de que ésta omitiera atender la solicitud, el diputado podrá directamente formular la solicitud ante la autoridad que corresponda.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 101.
 
 Las comisiones, para ilustrar su juicio en el estudio de los asuntos que se les encomienden, podrán entrevistarse con los servidores públicos estatales, quienes les otorgarán las facilidades y consideraciones necesarias a cualquiera de los integrantes, en el cumplimiento de su misión.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 102.
 
@@ -1127,7 +1269,7 @@ Para el despacho de los asuntos de su incumbencia, las comisiones se reunirán m
 
 Cualquier miembro del Congreso puede asistir, sin derecho a voto, a las reuniones de trabajo de las comisiones y exponer libremente en ellas su parecer sobre el asunto en estudio.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 103.
 
@@ -1135,9 +1277,15 @@ La Comisión rendirá sus dictámenes al Pleno legislativo a más tardar sesenta
 
 Cualquier miembro de la Legislatura podrá formular excitativa a las comisiones a efecto de que dictaminen un asunto en lo particular; en este caso, y una vez vencidos los plazos a los que se refiere el párrafo anterior, el Presidente de la Mesa Directiva formulará prevención al Presidente de la comisión legislativa, a efecto de que proceda a rendir informe dentro de los tres días hábiles siguientes, respecto de las razones que imperaron para no dictaminar en forma oportuna; dicho informe será hecho del conocimiento del Pleno para que resuelva si ha lugar o no a implementar medidas que permitan la dictaminación del asunto en trámite, dentro de un plazo máximo de cinco días hábiles. Si existiere nuevamente reiteración de la dilación, el Presidente de la Mesa Directiva de la Legislatura, sustituirá al Presidente de la comisión dictaminadora, respecto del asunto de que se trate.
 
+Al término de cada año de ejercicio constitucional, la Mesa Directiva, hará del conocimiento de los grupos, fracciones y representaciones parlamentarias, el estado que guardan las iniciativas pendientes de dictaminación, a efecto de que comuniquen, dentro de los cinco días naturales siguientes, si ha lugar o no de proseguir el procedimiento parlamentario; si dichas organizaciones partidistas no lo hicieran o notifican de su falta de interés, las iniciativas serán dadas de baja y declarada su improcedencia.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 104.
 
 Cuando un diputado suplente sea llamado para cubrir la ausencia del titular, el Congreso determinará las comisiones que deba desempeñar, a propuesta de la Gran Comisión.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 105.
 
@@ -1145,9 +1293,13 @@ Las comisiones especiales se integrarán con cinco diputados, fungiendo como Pre
 
 El Presidente de la Mesa Directiva podrá aumentar el número de integrantes de las comisiones especiales por sí o por acuerdo parlamentario, tomando en cuenta la importancia o naturaleza del asunto que se trate.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 106.
 
-Si por motivo de su competencia debiera turnarse un asunto a dos o más comisiones, éstas podrán dictaminarse conjuntamente
+Si por motivo de su competencia debiera turnarse un asunto a dos o más comisiones, éstas podrán dictaminarse conjuntamente.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 107.
 
@@ -1165,13 +1317,17 @@ I. Convocar a las reuniones de trabajo, presidirlas, conducirlas e informar de s
 
 II. Disponer del apoyo técnico del Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica, para la elaboración de los anteproyectos de dictamen o resolución; y
 
-III. El Presidente de cada comisión está obligado a convocar a reunión con anticipación de al menos veinticuatro horas durante los periodos de sesiones; o de cuarenta y ocho horas durante los recesos, a solicitud de cualquier grupo parlamentario de la Cámara. Si el Presidente se niega a realizar la convocatoria, ésta se podrá expedir y será con la firma de la mayoría de los integrantes de la comisión. Si a la reunión no concurre el presidente, el secretario presidirá la reunión.
+III. El Presidente de cada comisión está obligado a convocar a reunión con anticipación de al menos veinticuatro horas, excepción hecha de aquellas que por su urgencia o especial tratamiento deban de convocarse con menor anticipación, en cuyo caso, la citación deberá estar firmada por al menos tres integrantes de la comisión de que se trate. Si el Presidente se niega a realizar la convocatoria, esta se podrá expedir y será con la firma de la mayoría de los integrantes de la comisión. Si a la reunión no concurre el Presidente, el secretario la presidirá.
+
+Las comisiones legislativas, podrán si es necesario, acordar que las reuniones convocadas se constituyan en permanentes a efecto de dejar en estado de resolución los asuntos de su competencia y si fuera necesario allegarse de elementos adicionales para hacerlo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 108.
 
 El Secretario de la Junta Directiva, tendrá las siguientes atribuciones:
 
-I. Sustituir al Presidente en sus faltas;
+I. Sustituir al Presidente en sus faltas.
 
 II. Nombrar lista de asistencia y declarar el quórum legal;
 
@@ -1191,7 +1347,7 @@ IX. Llevar el registro y control de las reuniones celebradas o suspendidas y for
 
 X. Las demás que le otorgue el Presidente o la Comisión Legislativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 109.
 
@@ -1203,19 +1359,27 @@ II. Fecha, hora y lugar preciso de su realización, dentro del Palacio Legislati
 
 III. Relación pormenorizada de los asuntos que deberán ser votados por la comisión.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 110.
 
 Los acuerdos que se tomen, se resolverán por mayoría de votos; y si hubiere empate, el Presidente tendrá voto de calidad.
 
 De cada reunión de las comisiones, se levantará un acta, la cual será firmada por el Presidente y el Secretario.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 111.
 
-Las comisiones tendrán la obligación de formular al inicio de cada periodo ordinario de sesiones, un programa de actividades y al finalizar cada uno de los periodos, presentar un informe sobre el resultado del mismo.
+Las comisiones tendrán la obligación de formular al término de cada año de ejercicio constitucional un informe sobre el resultado del mismo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 112.
 
 En caso de que los diputados que integran las comisiones, no den cumplimiento a lo que establece la presente Ley, la mesa directiva del pleno, estará facultada para dictar extrañamiento por escrito; o en su caso, proponer al pleno su sustitución.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 113.
 
@@ -1227,13 +1391,17 @@ El Presidente y Secretario de las Comisiones Unidas integrarán una Junta Direct
 
 El plazo y objeto que se otorgue a una Comisión Especial, en ningún caso podrá trascender el ejercicio de la legislatura en que fue constituida.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 114.
 
 Cuando algún asunto así lo requiera, por la urgencia o importancia de su despacho, las comisiones, por acuerdo de la mayoría, podrán declararse en sesión permanente.
 
 ###### Artículo 115.
 
-Durante los recesos del Congreso del Estado, las comisiones legislativas continuarán el estudio de los asuntos pendientes de desahogo hasta producir el correspondiente dictamen.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 116.
 
@@ -1247,15 +1415,19 @@ III. Lectura de la correspondencia oficial recibida, para su trámite;
 
 IV. Relación pormenorizada de los asuntos que deben ser votados;
 
-VI. Asuntos generales; y
+V. Asuntos generales; y
 
-VII. Clausura de la sesión.
+VI. Clausura de la sesión.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 117.
 
 El desarrollo de las reuniones de trabajo, audiencias, foros de consulta, entrevistas u otros eventos en los que participen diputados de alguna Comisión Legislativa y los servidores públicos o ciudadanos invitados o convocados, se sujetará a la mecánica que previamente determine la comisión.
 
 #### SECCIÓN SEGUNDA. DE LA COMPETENCIA DE LAS COMISIONES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 118.
 
@@ -1285,9 +1457,9 @@ XI. Administración Pública;
 
 XII. Trabajo, Previsión y Seguridad Social;
 
-XIII. Asuntos Agrícolas, Frutícolas y Pecuarios;
+XIII. Asuntos Agrícolas y Ganaderos;
 
-XIV. Asuntos Forestales, Mineros y de Zonas Áridas;
+XIV. Asuntos Mineros y de Zonas Áridas;
 
 XV. Salud Pública;
 
@@ -1315,31 +1487,21 @@ XXVI. Ciencia, Tecnología e Innovación;
 
 XXVII. Fortalecimiento Municipal;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
-
 XXVIII. Participación Ciudadana;
-
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
 XXIX. Juventud y Deporte;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
-
 XXX. Atención a Migrantes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2012)</small>
-
-XXXI. Cultura y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+XXXI. Cultura; y
 
 XXXII. Asuntos Forestales, Frutícolas y Pesca.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 119.
 
 Las Comisiones Legislativas ordinarias son las siguientes:
-
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
 
 I. Vigilancia de la Entidad de Auditoría Superior del Estado;
 
@@ -1347,11 +1509,13 @@ II. Administración y Contraloría Interna;
 
 III. Responsabilidades;
 
-IV. Gestoría y Quejas;
+IV. Atención Ciudadana;
 
 V. Corrección de Estilo; y
 
 VI. Editorial y Biblioteca.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 120.
 
@@ -1361,6 +1525,8 @@ I. Los que se refieren a reformas o adiciones a la Constitución General de la R
 
 II. Los demás que le encomiende el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 121.
 
 Corresponde a la Comisión de Gobernación, el conocimiento de los siguientes asuntos:
@@ -1369,7 +1535,7 @@ I. Legislación electoral del Estado;
 
 II. Legislación sobre el Municipio Libre;
 
-III. Licencias del Gobernador, diputados y magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral;
+III. Licencias del Gobernador, Diputados y Magistrados del Poder Judicial del Estado;
 
 IV. Conflictos de límites que se susciten entre los Municipios del Estado;
 
@@ -1391,6 +1557,8 @@ XII. Dictaminar sobre las leyes y reglamentos que establezcan y regulen los sist
 
 XIII. Las demás que le encomiende el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 122.
 
 A la Comisión de Hacienda, Presupuesto y Cuenta Pública, le corresponde dictaminar sobre los siguientes asuntos:
@@ -1404,6 +1572,8 @@ III. Autorizaciones al Ejecutivo del Estado y a los Ayuntamientos, para contrata
 IV. Autorizaciones al Ejecutivo del Estado y a los municipios para la enajenación de bienes inmuebles propiedad de los mismos; y
 
 V. Cuentas Públicas de gasto anual del Estado y municipios, en base al informe que rinda la Entidad de Auditoria Superior del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 123.
 
@@ -1421,6 +1591,8 @@ V. Todo lo referente a la ejecución de penas privativas y restrictivas de la li
 
 VI. Lo relativo a amnistía e indulto.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 124.
 
 A la Comisión de Seguridad Pública, le corresponde atender los asuntos relativos a:
@@ -1435,13 +1607,19 @@ IV. La organización y coordinación de la política criminológica-penitenciari
 
 V. Dictaminar en todo lo relativo a la readaptación social.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 125.
 
 A la Comisión de Desarrollo Urbano y Obras Públicas, le corresponde el estudio y dictamen de la legislación relacionada con las obras públicas, la planeación urbana y los asentamientos humanos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 126.
 
 A la Comisión de Vivienda, le corresponde dictaminar sobre asuntos que tengan relación con la legislación sobre vivienda, en lo general y de interés social, en lo particular.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 127.
 
@@ -1451,47 +1629,59 @@ I. De la educación pública estatal;
 
 II. Universitaria;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
-
 III. Relacionada con las profesiones y aranceles de profesionistas; y
-
-> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN V], P.O. 17 DE MARZO DE 2011)</small>
 
 IV. Que determine premios y distinciones a maestros.
 
-V. (DEROGADA, P.O. 17 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 128.
 
 A la Comisión de Desarrollo Económico, le corresponde el conocimiento de los asuntos referentes a la política de fomento al desarrollo económico integral del Estado y municipios.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 129.
 
 A la Comisión de Turismo y Cinematografía, le corresponde dictaminar en lo que se refiere a la legislación de turismo y cinematografía del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 130.
 
 La Comisión de Administración Pública, dictaminará sobre legislación relacionada con la organización y funcionamiento de la Administración Pública Estatal.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 131.
 
 La Comisión de Trabajo, Previsión y Seguridad Social, tendrá a su cargo el dictaminar sobre leyes que rigen las relaciones de trabajo entre el Estado y sus trabajadores, y entre los Municipios y quienes laboran en los mismos; así como los asuntos referentes al mejoramiento de las clases trabajadoras y su seguridad social.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 132.
 
-La Comisión de Asuntos Agrícolas, Frutícolas y Pecuarios, conocerá de los asuntos relacionados con los planes y programas de desarrollo agropecuario, de explotación rural y mejoramiento de los ejidatarios y pequeños propietarios agrícolas o ganaderos, así como lo relativo a la fruticultura, siempre y cuando sea de la competencia del Estado, de conformidad a las disposiciones de la Ley Agraria.
+La Comisión de Asuntos Agrícolas y Ganaderos, conocerá de los asuntos relacionados con los planes y programas de explotación rural y mejoramiento de los ejidatarios y pequeños propietarios agrícolas, así como lo relativo a la ganadería, siempre y cuando sea de la competencia del Estado, de conformidad a las disposiciones de la Ley Agraria.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 133.
 
-La Comisión de Asuntos Forestales, Mineros y de Zonas Áridas, conocerá de los asuntos relacionados con los recursos silvícolas y mineros del Estado, así como los relativos a las zonas áridas del Estado.
+La Comisión de Asuntos Mineros y de Zonas Áridas, conocerá de los asuntos relacionados con los recursos mineros del Estado, así como los relativos a las zonas áridas del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 134.
 
 La Comisión de Salud Pública, conocerá lo relativo a salud pública, sus programas y su legislación.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 135.
 
 La Comisión de Tránsito y Transporte, dictaminará sobre asuntos que se refieran a las legislaciones de tránsito de los municipios y transportes del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 136.
 
@@ -1499,25 +1689,31 @@ La Comisión de Derechos Humanos, se encargará de atender y resolver los asunto
 
 I. La expedición, reforma o adición a la legislación de los derechos humanos;
 
-II. Analizar y dictaminar sobre el informe anual de la Comisión Estatal de los Derechos Humanos; y
+II. Analizar y dictaminar sobre el informe anual de la Comisión Estatal de los Derechos Humanos;
 
-III. Lo relacionado con la promoción y defensa de los derechos humanos en el Estado, proveyendo, de acuerdo a su competencia, que todo ser humano disfrute de los mismos;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2011)</small>
+III. Lo relacionado con la promoción y defensa de los derechos humanos en el Estado, proveyendo, de acuerdo a su competencia, que todo ser humano disfrute de los mismos; y
 
 IV. La investigación y resolución del procedimiento relativo a la omisión o incumplimiento de recomendaciones emitidas por la Comisión Estatal de Derechos Humanos que hayan sido emitidas y aceptadas. Para ello, podrá citar a los respectivos servidores públicos a comparecer ante la misma.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 137.
 
 La Comisión de Ecología, dictaminará sobre legislación relacionada con la prevención y control de la contaminación ambiental en el Estado, así como de todas las materias relacionadas con la ecología.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 138.
 
-La Comisión de Desarrollo Social conocerá y dictaminará sobre las cuestiones que se refieran a los programas destinados a los habitantes en pobreza extrema y la legislación para la asistencia social que otorgue el Estado y el sector privado.
+La Comisión de Desarrollo Social, conocerá y dictaminará sobre las cuestiones que se refieran a los programas destinados a los habitantes en pobreza extrema y la legislación para la asistencia social que otorgue el Estado y el sector privado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 139.
 
 La Comisión de Asuntos Indígenas, atenderá lo relativo a los usos, costumbres e idiosincrasia de los grupos étnicos del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 140.
 
@@ -1531,6 +1727,8 @@ III. Desahogo de las consultas respecto de la aplicación e interpretación de e
 
 IV. Reglamento del Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 141.
 
 La Comisión de Atención a Personas con Discapacidad, Enfermos Terminales y Adultos Mayores, dictaminará los asuntos que tengan relación con la Legislación y atención de:
@@ -1543,17 +1741,25 @@ III. Incapacitados mentales recluidos en centros de atención especial; y
 
 IV. Adultos mayores.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 142.
 
 La Comisión de Asuntos de la Familia y Menores de Edad, estudiará y analizará lo relativo a la problemática de la familia en lo general, y de los menores de edad, en lo particular.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 143.
 
 La Comisión de Equidad y Género, estudiará y analizará lo relativo a la problemática de la mujer.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 144.
 
 La Comisión de Asuntos Metropolitanos, conocerá de los planes y programas tendientes al desarrollo e integración regional o metropolitano y de todas aquellas acciones tendientes a la creación de medidas legislativas y administrativas para fortalecer los procesos de desarrollo de áreas conurbadas.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 145.
 
@@ -1569,27 +1775,35 @@ IV. Impulsar la vinculación de la comunidad científica y tecnológica en el Es
 
 V. Las demás que le encomiende el Congreso.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 146.
 
 La Comisión de Fortalecimiento Municipal, conocerá de la legislación relacionada con las administraciones municipales, excepto en las materias hacendaria, fiscal y de responsabilidades e integración de los Ayuntamientos. Del mismo modo intervendrá en todos (sic) aquellas materias relacionadas con la autonomía y fortalecimiento del Municipio Libre.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 146 Bis.
 
 La Comisión de Participación Ciudadana, dictaminará los asuntos que tengan relación con la legislación y la atención de la participación de los ciudadanos en asuntos legales de democracia participativa, y las demás que le encomiende el Congreso.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 147.
 
 A la Comisión de Juventud y Deporte, le corresponderá conocer y dictaminar sobre los asuntos relativos a los programas de protección y desarrollo de la juventud duranguense, la defensa de sus derechos, su incorporación al contexto político, social y económico con las mejores ventajas posibles. Así mismo, conocerá de la legislación estatal y municipal en materia de impulso y desarrollo del deporte, como una alternativa de valor humano hacia el desarrollo personal y colectivo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 148.
 
 La Comisión de Atención a Migrantes, conocerá de los asuntos relacionados con la protección a los derechos de los migrantes, conforme a las leyes de la materia.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-Artículo 148 bis.- A la Comisión de Cultura, le corresponde conocer de los siguientes asuntos:
+###### Artículo 148 Bis.
+
+A la Comisión de Cultura, le corresponde conocer de los siguientes asuntos:
 
 I. El desarrollo de la cultura y las artes en el Estado de Durango y sus Municipios;
 
@@ -1601,6 +1815,20 @@ IV. Coadyuvar a la difusión en forma oportuna de las actividades culturales que
 
 V. Las demás que le encomiende el Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 148 Bis 2.
+
+La Comisión de asuntos Forestales, Frutícolas y Pesca, conocerá de los temas siguientes:
+
+I. Lo relacionado con la legislación en materia forestal, frutícola y pesca competencia del Estado;
+
+II. Lo relacionado y vinculado con actividades de conservación, protección, restauración, fomento, aprovechamiento, y en su caso forestación y reforestación, de los sectores que se mencionan en la denominación de la presente Comisión, y
+
+III. Los relacionados con la producción y comercialización de los productos del sector forestal, frutícola y de pesca.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 149.
 
 La Comisión de Vigilancia de la Entidad de Auditoria Superior del Estado, tendrá las obligaciones y atribuciones siguientes:
@@ -1610,6 +1838,10 @@ I. Vigilar que la Entidad de Auditoria Superior del Estado cumpla eficazmente co
 II. Promover la adopción de medidas que a su juicio tiendan a imprimir mayor eficacia a las labores de la Entidad de Auditoria Superior del Estado; y
 
 III. Proponer las sanciones administrativas que deban imponerse al personal de la Entidad de Auditoria Superior del Estado, siempre y cuando no esté expresamente determinada su correspondencia a otra área.
+
+La certificación de documentos que deban expedirse con motivo del ejercicio de facultades de fiscalización, deberá ser suscrita por el Auditor Superior del Estado o por el funcionario en el que delegue tal facultad.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 150.
 
@@ -1623,6 +1855,8 @@ III. Vigilar que se conserve actualizado y debidamente resguardado el inventario
 
 IV. Participar en la elaboración del presupuesto anual de egresos del Congreso.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 151.
 
 La Comisión de Responsabilidades, tendrá a su cargo conocer de:
@@ -1631,17 +1865,19 @@ I. Procedimientos de juicios políticos, declaración de procedencia y responsab
 
 II. Declaración de desaparición de Ayuntamientos;
 
-III. Revocación de mandato y suspensión de municipios; y
+III. Revocación de mandato y suspensión de municipios;
 
-IV. Legislación sobre régimen de responsabilidades de los servidores públicos.
+IV. Legislación sobre régimen de responsabilidades de los servidores públicos; y
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+V. Procedimientos relativos a la responsabilidad proveniente de las resoluciones en el procedimiento especial en materia de Derechos Humanos.
 
 Las reuniones de la Comisión en las cuales se trate de procedimientos de responsabilidades administrativas, juicio político o declaración de procedencia serán privadas, excepto en el caso de que la Comisión acuerde lo contrario.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 152.
 
-La Comisión de Gestoría y Quejas, atenderá los asuntos siguientes:
+La Comisión de Atención Ciudadana, atenderá los asuntos siguientes:
 
 I. Los que se refieran a peticiones de los ciudadanos que tengan que ver con trámites ante las autoridades administrativas de los tres órdenes de gobierno;
 
@@ -1649,13 +1885,19 @@ II. Peticiones relativas a asuntos de competencia del Congreso; y
 
 III. Quejas presentadas por la ciudadanía y en las que el Congreso tenga competencia para intervenir en su sustanciación.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 153.
 
 La Comisión de Corrección de Estilo, tendrá a su cargo las correcciones gramaticales de las leyes, decretos, reglamentos y acuerdos; podrá actuar conjuntamente con todas las comisiones.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 154.
 
 La Comisión de Editorial y Biblioteca, promoverá la impresión o edición de ordenamientos jurídicos y documentos importantes del Congreso.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 155.
 
@@ -1665,6 +1907,8 @@ Si una iniciativa o asunto no fuere de la competencia expresa de alguna de las c
 
 ### CAPÍTULO I. DE LA OFICIALÍA MAYOR
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 156.
 
 Las funciones administrativas del Poder Legislativo, se ejercerán por conducto de la Oficialía Mayor.
@@ -1673,31 +1917,33 @@ La Oficialía Mayor, es el órgano administrativo del Congreso dependiente de la
 
 Para el ejercicio de las funciones que esta Ley le atribuye a la Oficialía Mayor, se integrará, además de su titular, por las siguientes unidades administrativas:
 
-I. Dirección de Recursos Financieros, la cual contará con los siguientes departamentos:
+I. Dirección de Finanzas y Administración, la cual contará con las siguientes unidades administrativas:
 
-a) Departamento de Contabilidad; y
+1) Departamento de Contabilidad; y
 
-b) Departamento de Pagos;
+2) Departamento de Pagos.
 
-II. Dirección de Recursos Humanos, la cual contará con el siguiente departamento:
+a). Subdirección de Recursos Humanos, la cual contará con el siguiente departamento:
 
-a) Departamento de Recursos Humanos;
+1) Departamento de Recursos Humanos.
 
-III. Dirección de Recursos Materiales, la cual contará con los siguientes departamentos:
+b). Subdirección de Recursos Materiales, la cual contará con los siguientes departamentos:
 
-a) Departamento de Servicios Generales; y
+1) Departamento de Servicios Generales; y
 
-b) Departamento de Recursos Materiales;
+2) Departamento de Recursos Materiales.
 
-IV. Dirección de Proceso Legislativo, la cual contará con los siguientes departamentos:
+c). Subdirección de Informática.
 
-a) Departamento de Proceso Legislativo;
+II. Dirección de Proceso Legislativo, la cual contará con los siguientes departamentos:
 
-b) Oficina de Archivo Histórico-Legislativo; y
+1) Departamento de Proceso Legislativo;
 
-c) Oficialía de Partes; y
+2) Oficina de Archivo Histórico-Legislativo; y
 
-V. Dirección de Informática.
+3) Oficialía de Partes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 157.
 
@@ -1710,6 +1956,8 @@ II. Ser mayor de veinticinco años y tener una residencia efectiva en el Estado 
 III. Ser de reconocida honradez y no haber sido sentenciado ejecutoriadamente por delito intencional, que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial; y
 
 IV. Poseer título de licenciado en derecho o profesión afín, con antigüedad mínima de tres años a la fecha de ser designado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 158.
 
@@ -1747,9 +1995,7 @@ XV. Sancionar los trámites de los asuntos relativos a los recursos humanos del 
 
 XVI. Presentar a la Gran Comisión, dentro de los dos primeros meses del ejercicio de su encargo, un Plan Institucional de Desarrollo Administrativo del Congreso del Estado, en el cual deberá señalar con precisión, las facultades, atribuciones y metas que deberán realizar los distintos órganos administrativos a su cargo;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
-
-XVII. Rendir un informe bimestral del ejercicio presupuestal correspondiente ante la Comisión de Administración y Contraloría Interna del Congreso, y un informe anual de esa naturaleza ante el pleno del Congreso, por conducto de la misma comisión, en sesión privada;
+XVII. Rendir un informe trimestral del ejercicio presupuestal correspondiente ante la Comisión de Administración y Contraloría Interna del Congreso, y un informe anual de esa naturaleza ante el pleno del Congreso, por conducto de la misma comisión, en sesión privada;
 
 XVIII. Intervenir en las adquisiciones, servicios y suministros de las áreas del Congreso, así como en los contratos en los que el Congreso sea parte y cuya celebración suponga una afectación directa al presupuesto de Oficialía Mayor;
 
@@ -1757,9 +2003,11 @@ XIX. Proporcionar, a través de sus órganos administrativos, el auxilio necesar
 
 XX. Proporcionar la información, datos y cooperación técnica que le sea requerida por las dependencias de los Poderes Ejecutivo y Judicial del Estado, de acuerdo con las disposiciones legales aplicables y las políticas establecidas al respecto; previa autorización del Presidente de la Gran Comisión;
 
-XXI. Auxiliar al Presidente del Congreso y al Presidente de la Gran Comisión en el cumplimiento de sus funciones; y
+XXI. Auxiliar al Presidente del Congreso, al Presidente de la Gran Comisión en el cumplimiento de sus funciones y a los Secretarios por delegación, a certificar documentos; y
 
 XXII. Las demás que se le señalen en esta Ley o por el Congreso.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 159.
 
@@ -1767,19 +2015,23 @@ El Oficial Mayor estará bajo la dirección inmediata del Presidente del Congres
 
 ### CAPÍTULO II. DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 160.
 
-El Congreso del Estado, para el ejercicio de la facultad que le confiere el artículo 55, fracción XXV de la Constitución Política del Estado Libre y Soberano de Durango, tiene como órgano técnico-contable, a la Entidad de Auditoria Superior del Estado, la cual funcionará con las facultades y atribuciones que le señale la ley de la materia.
+El Congreso del Estado, para el ejercicio de la facultad que le confiere el artículo 85 de la Constitución Política del Estado Libre y Soberano de Durango, tiene como órgano técnico-contable, a la Entidad de Auditoria Superior del Estado, la cual funcionará con las facultades y atribuciones que le señale la ley de la materia.
 
 ### CAPÍTULO III. DEL INSTITUTO DE INVESTIGACIONES, ESTUDIOS LEGISLATIVOS Y ASESORÍA JURÍDICA
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 161.
 
 El Congreso contará con un Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica, como órgano técnico de apoyo jurídico, legislativo, de investigación y análisis, cuyas funciones principales serán:
 
-I. Proporcionar asesoría a las Comisiones Legislativas, para apoyar sus dictámenes, las decisiones del Congreso, de la Comisión Permanente, de los diputados, de la Oficialía Mayor y otros órganos del Congreso;
+I. Proporcionar asesoría a las Comisiones Legislativas, para apoyar sus dictámenes, las decisiones del Congreso, de los diputados, de la Oficialía Mayor y otros órganos del Congreso;
 
-II. Apoyar a los diputados en la elaboración de iniciativas, dictámenes, acuerdos y demás disposiciones legales;
+II. Apoyar a los diputados en la elaboración de dictámenes, acuerdos y demás disposiciones legales;
 
 III. Proporcionar los servicios de consultoría respecto de la aplicación e interpretación de la Ley, reglamentos, prácticas y usos parlamentarios, así como realizar estudios legislativos;
 
@@ -1819,9 +2071,7 @@ XX. Auxiliar técnicamente al Pleno, a la Mesa Directiva y a la Oficialía Mayor
 
 XXI. Apoyar en la solventación de los procedimientos a su cargo así como a la Oficialía Mayor en los procedimientos de responsabilidad administrativa;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
-
-XXII. Atender los asuntos legales en sus aspectos consultivo y contencioso; al efecto ejercerá, por delegación del Presidente de la Mesa Directiva o el de la Comisión Permanente o la Oficialía Mayor, la representación jurídica del mismo en los juicios y procedimientos contenciosos en los que éste sea parte, así como los juicios de amparo y su revisión, además atender las acciones de inconstitucionalidad y controversias constitucionales en las que el Congreso tenga interés, ejerciendo todas las acciones que sean necesarias para proteger el interés jurídico de la Legislatura, así como presentar denuncia o querella ante el Ministerio Público de los hechos que así lo ameriten;
+XXII. Atender los asuntos legales en sus aspectos consultivo y contencioso; al efecto ejercerá, conforme a las leyes aplicables, la representación jurídica del Congreso y sus dependencias, en los juicios y procedimientos contenciosos en los que éste sea parte, así como en los juicios de amparo en todas sus etapas y recursos, además atender las acciones de inconstitucionalidad y controversias constitucionales en las que el Congreso tenga interés, ejerciendo todas las acciones que sean necesarias para proteger el interés jurídico del Congreso, así como presentar denuncia o querella ante el Ministerio Público de los hechos que así lo ameriten;
 
 XXIII. Proporcionar asesoría jurídica a los Diputados, órganos y unidades técnicas y administrativas de la Legislatura que lo requieran;
 
@@ -1831,11 +2081,13 @@ XXV. Revisar que todos los actos jurídicos que deban ser suscritos por cualquie
 
 XXVI. Emitir opinión sobre las reformas y adiciones a esta ley, la creación y enmiendas a su Reglamento y los manuales de organización de la Legislatura;
 
-XXVII. Las demás que se le encomienden a través del Comité respectivo.
+XXVII. Certificar o autenticar los documentos que formen parte del archivo, por delegación de la Secretaria de la Mesa Directiva; y
+
+XXVIII. Las demás que se le encomienden a través del Comité respectivo.
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 162.
 
@@ -1847,25 +2099,33 @@ La información que sea transmitida en forma pública a través del Sistema de T
 
 ### CAPÍTULO V. DE LA UNIDAD DE ENLACE PARA EL ACCESO A LA INFORMACIÓN PUBLICA
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 163.
 
-La Unidad de Enlace de Acceso a la Información Publica tendrá las atribuciones que le señala el Reglamento para el Acceso a la Información Pública del Congreso del Estado.
+La Unidad de Enlace de Acceso a la Información Pública tendrá las atribuciones que le señala el Reglamento para el Acceso a la Información Pública del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 164.
 
 La Unidad de Enlace de Acceso a la Información Pública estará a cargo de un coordinador general, nombrado en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 165.
 
-Para el adecuado desempeño de sus funciones, la Unidad de Enlace de Acceso a la Información Publica contará con el personal necesario de acuerdo a las posibilidades presupuestales del Congreso.
+Para el adecuado desempeño de sus funciones, la Unidad de Enlace de Acceso a la Información Pública contará con el personal necesario de acuerdo a las posibilidades presupuestales del Congreso.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO VI. DE LA GACETA LEGISLATIVA
+### CAPITULO VI. DE LA GACETA PARLAMENTARIA
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-Artículo 165 BIS.- La Gaceta Parlamentaria, es el órgano informativo oficial del Congreso del Estado; estará a cargo de la Oficialía Mayor y tiene por objeto dar difusión pública a las labores parlamentarias.
+###### Artículo 165 Bis.
+
+La Gaceta Parlamentaria, es el órgano informativo oficial del Congreso del Estado; estará a cargo de la Oficialía Mayor y tiene por objeto dar difusión pública a las labores parlamentarias.
 
 Las condiciones de edición, publicación y periodicidad serán acordadas por el Pleno, previa propuesta que haga la Gran Comisión.
 
@@ -1875,9 +2135,13 @@ El contenido de la gaceta tendrá solo efectos informativos, sin que se consider
 
 ### CAPÍTULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 166.
 
 El proceso legislativo es el conjunto de etapas, procedimientos y actos al que está sujeta la formación, modificación, derogación o abrogación de normas jurídicas.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 167.
 
@@ -1893,25 +2157,29 @@ IV. Sanción, promulgación y publicación; y
 
 V. Entrada en vigor.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 168.
 
 El ejercicio de atribuciones o el cumplimiento de obligaciones distintas a las de creación, modificación, derogación o abrogación de leyes o decretos, se regularán en lo conducente por las normas previstas para el proceso legislativo y por las reglas y procedimientos especiales que al efecto se determinen en los ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 169.
 
-La dispensa de trámites, es la omisión de alguno o algunos de los elementos que integran el proceso legislativo, la cual procederá una vez que sea discutida y votada en sentido aprobatorio por el Pleno o por la Comisión Permanente según corresponda.
+La dispensa de trámites, es la omisión de alguno o algunos de los elementos que integran el proceso legislativo, la cual procederá una vez que sea discutida y votada en sentido aprobatorio por el Pleno.
 
 No podrán solicitarse ni dispensarse en ningún caso, los trámites relativos a:
 
 I. Estudio, consulta y dictamen en comisión; y
 
-II. Las reformas, adiciones o derogaciones a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado Libre y Soberano de Durango.
+II. Las reformas, adiciones o derogaciones a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado Libre y Soberano de Durango. Cuando se trate de asuntos de urgente y obvia resolución, el pleno podrá acordar la dispensa de trámites, aplicando las reglas para la lectura y discusión de dictámenes de acuerdo.
 
 Cuando se trate de asuntos de urgente y obvia resolución, el pleno podrá acordar la dispensa de trámites, aplicando las reglas para la lectura y discusión de dictámenes de acuerdo.
 
 ### CAPÍTULO II. DE LAS INICIATIVAS
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 170.
 
@@ -1921,23 +2189,31 @@ La iniciativa es una propuesta fundada y motivada que el iniciador presenta al C
 
 Según su extensión y la diversidad de las materias que contengan las iniciativas se dividirán en libros, éstos en títulos, éstos en capítulos, éstos en secciones, éstos en artículos y éstos en apartados, párrafos, numerales, fracciones e incisos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 171.
 
-El derecho a proponer iniciativas, corresponde:
+El derecho de iniciar leyes y decretos compete a:
 
-I. A los diputados del Congreso del Estado;
+I. Los Diputados.
 
-II. Al Gobernador del Estado;
+II. El Gobernador del Estado.
 
-III. Al Tribunal Superior de Justicia;
+III. El Tribunal Superior de Justicia, en los asuntos relativos a su organización y funcionamiento.
 
-IV. A los Ayuntamientos, en lo relativo a la administración municipal; y
+IV. Los órganos constitucionales autónomos, en los asuntos relativos a su función.
 
-V. A los ciudadanos, en los términos de la ley respectiva.
+V. Los municipios, en los asuntos relativos a la administración municipal.
+
+VI. Los ciudadanos duranguenses mediante iniciativa popular, en los términos que establezca la ley.
+
+El Gobernador del Estado tiene derecho a presentar hasta tres iniciativas de carácter preferente durante cada año de ejercicio constitucional. Dichas iniciativas deben ser sometidas a discusión y votación en un periodo que no excederá de noventa días, de lo contrario, se tendrán por aprobadas en los términos presentados por el Ejecutivo, debiendo el Presidente del Congreso del Estado hacer la correspondiente declaratoria.
+
+No podrán incluirse como iniciativas preferentes las que modifiquen disposiciones constitucionales.
 
 Las iniciativas deberán contener; cuando menos, lo siguiente:
 
-I. Un proemio;
+I. Un proemio
 
 II. Una exposición de motivos;
 
@@ -1945,59 +2221,63 @@ III. Un proyecto de resolución.
 
 A las iniciativas deberá acompañarse la documentación correspondiente, según sea el caso.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 172.
 
 Las iniciativas serán dirigidas a los secretarios de la Mesa Directiva; deberán ser suscritas por el o los iniciadores y presentadas por escrito con respaldo electrónico compatible con el Sistema de Información Parlamentaria, ante la Oficialía Mayor del Congreso del Estado.
 
 El Oficial Mayor informará al Presidente y a los secretarios de la Mesa Directiva, sobre las iniciativas recibidas, para efectos de enlistarlas en el orden del día de la sesión que corresponda.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO 113 PUBLICADO EN EL P.O. DE 19 DE JUNIO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 173.
 
 Las iniciativas presentadas por los diputados, quedarán sujetas al trámite siguiente:
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
-
 I.- Se mandarán insertar en la Gaceta Parlamentaria que corresponda a la sesión relativa; el autor podrá ampliar los fundamentos y motivos de su proyecto en forma verbal. Si fueren varios los iniciadores, éstos designaran al que hará la presentación oral.
-
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
 
 II.- Una vez agotado lo anterior, la iniciativa será turnada a la comisión que corresponda.
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
+III.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2013)
 
-III.- las iniciativas de los Diputados que se presenten en el periodo de receso, podrán reservarse para su trámite para el siguiente periodo de sesiones.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 174.
 
-Las iniciativas presentadas por el Gobernador del Estado, el Tribunal Superior de Justicia, los Ayuntamientos o los ciudadanos, una vez que se dé cuenta al Pleno de ellas, el Presidente de la Mesa Directiva las turnará a la Comisión Legislativa correspondiente, para su estudio y dictamen respectivo.
-
-Cuando estas iniciativas sean presentadas en periodos de receso, corresponde a la Comisión Permanente turnarlas a la Comisión Legislativa respectiva.
+Las iniciativas presentadas por el Gobernador del Estado, el Tribunal Superior de Justicia, los Organismos Autónomos, los Ayuntamientos, una vez que se dé cuenta al Pleno de ellas, el Presidente de la Mesa Directiva las turnará a la Comisión Legislativa correspondiente, para su estudio y dictamen respectivo.
 
 Las iniciativas presentadas por los ciudadanos, se turnarán a las Comisiones legislativas correspondientes, para su estudio y dictamen correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 175.
 
-Toda iniciativa cuyo dictamen haya sido considerado desechado por el pleno, no podrá ser presentada nuevamente en el mismo período de sesiones.
+Toda iniciativa cuyo dictamen haya sido considerado desechado por el pleno, no podrá ser presentada nuevamente en el mismo año de ejercicio constitucional.
 
 ### CAPÍTULO III. DE LA DICTAMINACIÓN
 
 #### SECCIÓN PRIMERA. DE LOS DICTÁMENES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 176.
 
 La dictaminación, es la etapa del proceso legislativo en la cual, la Comisión que corresponda, estudiará, formulará discutirá y votará el dictamen respectivo, sobre la iniciativa o asunto que le haya sido turnado para su despacho, según las reglas previstas en esta ley.
 
-El dictamen, es la opinión que emiten las comisiones referente a una iniciativa o asunto que les hubiese sido turnado por el Presidente de la Mesa Directiva.
+El dictamen, es la opinión que emiten las comisiones, referente a una iniciativa o asunto que les hubiese sido turnado por el Presidente de la Mesa Directiva.
 
 Ninguna iniciativa, asunto o petición se discutirá y votará en el Pleno sin el previo estudio y dictamen en comisiones.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 177.
 
 Los dictámenes deberán contener una exposición clara en la cual se habrán de expresar las razones y argumentos tomados en cuenta para emitirlo, y concluir sometiendo a la consideración del Congreso, el proyecto de ley, decreto o acuerdo, según corresponda.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+Del mismo modo, deberá contarse con el análisis de impacto presupuestario elaborado por la Secretaría de Finanzas y de Administración del Gobierno del Estado, en los casos que proceda.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 178.
 
@@ -2005,27 +2285,29 @@ Los dictámenes derivados del ejercicio de atribuciones distintas a la creación
 
 #### SECCIÓN SEGUNDA. DEL ESTUDIO, DISCUSIÓN Y VOTACIÓN DE DICTÁMENES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 179.
 
 Cuando a juicio de la Comisión se requiera mejor proveer sobre una iniciativa o asunto en estudio o sobre alguno de los temas o puntos contenidos en ellos, podrá instruir al Instituto y a los asesores de las distintas formas de organización partidista para que realicen el estudio de los mismos y emitan una opinión no vinculatoria; o en su caso, proceder en los términos previstos en el capítulo relacionado con las comisiones legislativas, según sea el caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 180.
 
-Formulado el proyecto de dictamen, se presentará a la comisión, entregando una copia a cada uno de sus integrantes y se leerá en una sola ocasión en su totalidad, salvo que acuerden su lectura parcial, o dispensa, según sea el caso.
+Formulado el proyecto de dictamen, se presentará a la comisión, entregando una copia a cada uno de sus integrantes y se leerá en una sola ocasión en su totalidad, salvo que acuerden su lectura parcial o dispensa, según sea el caso.
 
 Concluida la lectura o aprobada su dispensa, se procederá a debatir y votar el proyecto en lo general y en lo particular. En la discusión y votación de dictámenes en comisiones se considerarán en lo conducente las reglas aplicables para el debate de dictámenes en el Pleno.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 181.
 
-Aprobado en lo general y en lo particular, se procederá a la firma del dictamen. Si alguno de los integrantes de la comisión no estuviere de acuerdo, deberá firmar el dictamen asentando su voto en contra o en abstención y podrá expresar su voto particular por escrito, mismo que se agregará al expediente que corresponda.
+Aprobado en lo general y en lo particular, se procederá a la firma del dictamen. Los dictámenes deberán ser aprobados por el voto de la mayoría de los integrantes de la comisión presentes. Para que los dictámenes tengan validez, deberán estar firmados por la mayoría de los diputados que forman parte de la Comisión.
 
-Para que los dictámenes tengan validez, deberán estar firmados por la mayoría de los integrantes de la Comisión correspondiente.
+Si el dictamen fuera en sentido negativo, se formulará el dictamen que contenga el acuerdo respectivo, que será hecho del conocimiento de la Mesa Directiva, para que resuelva lo conducente.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
-
-Si el dictamen fuera en sentido negativo, se formulara el dictamen que contenga el acuerdo respectivo, que será hecho del conocimiento de la Mesa Directiva, para que resuelva lo conducente.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 182.
 
@@ -2039,11 +2321,15 @@ Si en el dictamen se efectúan modificaciones a la iniciativa, asunto o petició
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 183.
 
 La discusión, es la etapa del proceso legislativo en la que, según las fases y procedimientos previstos en esta ley, se leen, debaten y votan en el Pleno los dictámenes presentados por las Comisiones Legislativas.
 
 La discusión o debate en el Pleno de asuntos distintos a los contenidos en los dictámenes, se regulará por las reglas que para este caso se establecen en la presente ley.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 184.
 
@@ -2055,7 +2341,7 @@ II. Debate; y
 
 III. Votación.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 185.
 
@@ -2063,9 +2349,11 @@ A los dictámenes de las Comisiones Legislativas, se les dará lectura al ser pr
 
 Los dictámenes de acuerdo serán leídos y discutidos en la sesión en que se presenten al pleno.
 
-De todo dictamen legislativo sujeto a lectura, se entregará previamente copia del mismo a los diputados, o se hará se su conocimiento mediante el sistema electrónico parlamentario.
+De todo dictamen legislativo sujeto a lectura, se entregará previamente copia del mismo a los diputados, o se hará de su conocimiento mediante el sistema de información parlamentaria.
 
 #### SECCIÓN SEGUNDA. DE LAS REGLAS GENERALES PARA EL DEBATE
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 186.
 
@@ -2077,15 +2365,17 @@ Todo dictamen que conste de más de un artículo, se someterá a debate en lo ge
 
 Los dictámenes que consten de un solo artículo, se someterán a debate en un sólo acto, tanto en lo general como en lo particular.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2011)</small>
-
 No se discutirá y votará en lo particular una ley que se componga de más de cien artículos en una sola sesión.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 187.
 
 El debate de los dictámenes presentados al Pleno, se iniciará en la siguiente sesión a aquélla en la en (sic) que hayan recibido lectura.
 
-El debate de los dictámenes de reformas, adiciones o derogaciones de la Constitución Política de los Estado Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Durango, se efectuará en la sesión inmediata posterior a la en que hayan recibido segunda lectura.
+El debate de los dictámenes de reformas, adiciones o derogaciones de la Constitución Política de los Estado (sic) Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Durango, se efectuará en la sesión inmediata posterior a la en que hayan recibido segunda lectura.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 188.
 
@@ -2098,6 +2388,8 @@ II. Formulación del registro de oradores a favor, en contra, o en abstención d
 III. Exposición y deliberación de razones, alegatos y argumentos; y
 
 IV. Declaratoria del cierre del debate en lo general.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 189.
 
@@ -2115,11 +2407,15 @@ V. Declaratoria del cierre del debate en lo particular.
 
 #### SECCIÓN TERCERA. DEL USO DE LA PALABRA
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 190.
 
 En el debate de dictámenes, el Presidente de la Mesa Directiva concederá o negará el uso de la palabra a los diputados, atendiendo las reglas previstas en esta sección. Ningún diputado podrá hacer uso de la palabra si el Presidente no se la ha concedido
 
 Cuando el Presidente, sin fundamento legal alguno, no le conceda la palabra a un diputado que lo solicite, a petición de un miembro de la Legislatura, someterá a la consideración del Pleno tal situación, quien determinará si procede o no que haga uso de la palabra.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 191.
 
@@ -2135,19 +2431,31 @@ IV. Si se registraron dos o más diputados a favor, la prelación se determinar�
 
 V. La intervención de los demás diputados inscritos, se efectuará aplicando los anteriores criterios, alternando a los que lo hagan primero en contra, luego a favor y por último el de abstención.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 192.
 
 Los diputados que no estén inscritos en el registro de oradores, solamente podrán solicitar el uso de la palabra para rectificar hechos o contestar alusiones personales al concluir el orador en turno.
 
+El orador que haya agotado sus turnos, solamente podrá hacer uso de la palabra para rectificar hechos o para alusiones personales.
+
+Cuando un diputado solicite la palabra para alusiones personales y estas no se hayan dado explícitamente, el Presidente podrá negarle el uso de la palabra aun y cuando después rectifique el trámite y lo solicite para hechos.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 193.
 
 Si al llegar el turno de algún Diputado inscrito no estuviese presente en la Sesión, se le colocará al final del registro de oradores; y de no encontrarse, se desechará su inscripción.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 194.
 
 No podrá llamarse al orden al orador que critique o censure a servidores públicos por faltas o errores cometidos en el desempeño de sus atribuciones.
 
 En caso de injurias o calumnias a algún Diputado, éste podrá reclamarlas en la misma sesión, si está presente; o en cualquiera, si está ausente o a petición del mismo, el Presidente instará al ofensor a que retire lo dicho o satisfaga al ofendido; si aquél no lo hiciere, mandará que las expresiones que hayan causado la ofensa se anoten en acta especial.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 195.
 
@@ -2163,6 +2471,8 @@ IV. Para advertirle que se ha agotado su tiempo.
 
 Se entiende por moción de orden, la proposición de alguno de los diputados durante el desarrollo de la sesión, para cambiar el curso de la discusión, con el fin de ajustarla a las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 196.
 
 Si el Presidente de la Mesa Directiva desea hacer uso de la palabra en un debate, deberá solicitar al Vicepresidente que ocupe la presidencia.
@@ -2171,11 +2481,11 @@ Los secretarios de la Mesa Directiva podrán participar en el debate en forma al
 
 #### SECCIÓN CUARTA. DE LAS INTERVENCIONES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 197.
 
 El Presidente de la Mesa Directiva conducirá el debate de acuerdo a las reglas generales previstas en esta sección.
-
-El orden de las intervenciones en el debate, se efectuará según la prelación en que se hayan inscrito los diputados en el registro de oradores.
 
 El número de intervenciones por Diputado en el debate, se regulará por las siguientes reglas generales:
 
@@ -2184,6 +2494,8 @@ I. Los diputados inscritos en el registro de oradores, sólo podrán intervenir 
 II. Los integrantes de la o las comisiones dictaminadoras y, en su caso los diputados autores de la iniciativa que se discuta, podrán intervenir más de dos veces aún sin haberse inscrito. Los demás miembros del Congreso registrados, sólo podrán hablar dos veces sobre el asunto, salvo acuerdo en contrario; y
 
 III. Durante las discusiones, cualquier diputado podrá solicitar aclaraciones o explicaciones de las comisiones dictaminadoras que corresponda o que se dé lectura a alguno de los documentos que integran el expediente en cuyo caso el Presidente podrá ordenar, si lo considera conveniente, que se atienda la solicitud, después de lo cual continuará el debate.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 198.
 
@@ -2199,19 +2511,13 @@ III. En el caso de intervenciones en el punto de la orden del día de los asunto
 
 ###### Artículo 199.
 
-Antes de iniciar el debate, deberán desarrollarse bajo las reglas previstas en esta sección, los siguientes actos previos:
-
-I. Entregar a los diputados una copia del dictamen enlistado en el orden del día para su debate, o hacerlo de su conocimiento, a través del Sistema de Información Parlamentaria;
-
-II. Solicitar, en su caso, el regreso a la o las comisiones dictaminadoras el dictamen;
-
-III. Declaración de apertura del debate; y
-
-IV. Formulación del registro de oradores.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
 ###### Artículo 200.
 
-La entrega a los diputados de la copia del dictamen sujeto a debate, deberá efectuarse en la curul del Diputado que corresponda, a más tardar al iniciar la sesión en que reciba la primera lectura, o a través del Sistema de Información Parlamentaria.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 201.
 
@@ -2220,6 +2526,8 @@ Todo dictamen considerado para su discusión en el orden del día de una sesión
 Si el Congreso aprueba que un dictamen deba volver a la comisión para que lo modifique, éste deberá presentarse nuevamente dentro de las tres sesiones siguientes.
 
 Ningún dictamen cuya discusión se haya iniciado podrá regresarse a la comisión dictaminadora correspondiente.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 202.
 
@@ -2231,21 +2539,17 @@ De no haber solicitud de regreso a comisiones del dictamen el Presidente de la M
 
 #### SECCIÓN SEXTA. DEL DESARROLLO DEL DEBATE
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 203.
 
 El inicio, desarrollo, suspensión y clausura del debate de un dictamen, se efectuará conforme a las reglas y procedimientos previstos en esta sección.
 
 ###### Artículo 204.
 
-Formulado el registro de oradores, el Presidente concederá el uso de la palabra a los diputados inscritos, alternando uno por uno en orden de prelación y en forma sucesiva, de acuerdo al siguiente procedimiento:
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
-I. Primero intervendrá un Diputado que participe en contra;
-
-II. En segundo lugar, lo hará un Diputado que intervenga a favor;
-
-III. En tercer lugar participará un Diputado que lo haga para razonar su abstención; y
-
-IV. Así en forma sucesiva, hasta agotar el registro de oradores.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 205.
 
@@ -2259,11 +2563,13 @@ Satisfecha la solicitud, el Presidente de la Mesa Directiva continuará el debat
 
 Cuando algún Diputado solicite que sea leído algún artículo o documento para ilustrar el debate, el Presidente instruirá a un Secretario para que atienda la petición.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 206.
 
-Cuando se proponga alguna reforma, adición o supresión de algún elemento del dictamen sujeto a debate, serán escuchados los motivos y fundamentos de su autor ó de la comisión dictaminadora y se votará sobre su admisión. Aprobadas éstas por el mismo Pleno, pasarán a formar parte del decreto; en caso contrario, se tendrá por desechada.
+Cuando se proponga alguna reforma, adición o supresión de algún elemento del dictamen sujeto a debate, serán escuchados los motivos y fundamentos de su autor o de la comisión dictaminadora y se votará sobre su admisión. Aprobadas éstas por el mismo Pleno, pasarán a formar parte del decreto; en caso contrario, se tendrá por desechada.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 207.
 
@@ -2281,6 +2587,8 @@ Si la discusión se suspendiera por grave desorden en el recinto oficial, el Pre
 
 Se entiende por moción suspensiva, la sugerencia fundada para interrumpir la discusión, la cual debe ser presentada por escrito al Presidente y firmada por cuando menos tres diputados.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 208.
 
 En el caso de moción suspensiva, se leerá la moción y sin más requisito que oír a su autor, o al diputado que deseé objetar la moción si la hubiere, se preguntará a la Asamblea si se toma en consideración. En caso afirmativo, se discutirá y votará en el acto, pudiendo hablar al efecto hasta tres diputados en pro y tres en contra; pero si la resolución del Congreso fuese negativa, la petición se tendrá por desechada.
@@ -2288,6 +2596,8 @@ En el caso de moción suspensiva, se leerá la moción y sin más requisito que 
 Al aprobarse la moción suspensiva, de común acuerdo con la comisión dictaminadora, el Presidente determinará la sesión en que la discusión deba continuar.
 
 No podrá presentarse más de una moción suspensiva en la discusión de un dictamen.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 209.
 
@@ -2297,9 +2607,13 @@ Declarado suficientemente debatido o agotado el registro de oradores, se hará l
 
 ### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 210.
 
 La votación, es la etapa del proceso legislativo en la que los diputados emiten con libertad el sentido de su voluntad, en torno a un dictamen o asunto que ha sido debatido suficientemente en la sesión respectiva.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 211.
 
@@ -2311,17 +2625,19 @@ II. Decreto.- Las que otorguen derechos y obligaciones a determinadas personas o
 
 III. Acuerdos.- Los que determine el Congreso y no tengan carácter de ley o decreto.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 212.
 
 Las resoluciones del Congreso con carácter de ley, decreto o acuerdo incluyendo los considerandos y/o antecedentes, según sea el caso, se expedirán con las formalidades siguientes:
 
 I. Iniciarán con esta fórmula de expedición:
 
-“La (número) Legislatura del H. Congreso del Estado Libre y Soberano de Durango, en ejercicio de las facultades que le confieren (norma y ordenamiento jurídico que faculta), a nombre del pueblo, decreta:”
+“La (número) Legislatura del H. Congreso del Estado Libre y Soberano de Durango, en ejercicio de las facultades que le confieren (norma y ordenamiento jurídico que faculta), a nombre del pueblo, decreta (o acuerda):”
 
 II. Contenido normativo de la ley, decreto o acuerdo;
 
-III. Después del contenido normativo, la ley contendrá la siguiente fórmula: “El Ciudadano Gobernador Constitucional del Estado, sancionará, promulgará y dispondrá se publique, circule y observe“;
+III. Después del contenido normativo, la ley contendrá la siguiente fórmula: “El Ciudadano Gobernador Constitucional del Estado, sancionará, promulgará y dispondrá se publique, circule y observe “;
 
 IV. Al final deberá llevar la redacción siguiente: “Dado en el Salón de Sesiones del Honorable Congreso del Estado, en Victoria de Durango, Dgo., a los (número) días del mes de (nombre) del (año)”;
 
@@ -2329,15 +2645,21 @@ V. Firma del presidente y los Secretarios de la mesa Directiva del Pleno en turn
 
 VI. Sello oficial del H. Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 213.
 
-Los decretos que expida cada legislatura serán numerados en forma progresiva, partiendo del número uno y publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+Los decretos que expida cada legislatura serán numerados en forma progresiva, partiendo del número uno y publicados en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Los acuerdos del Congreso, podrán ser publicados en el mismo Periódico Oficial y comunicados a quienes corresponda, por los Secretarios de la Mesa Directiva.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 214.
 
 Ningún Diputado deberá salir del recinto plenario mientras se emite y recoge una votación, ni excusarse de votar a favor, en contra o en abstención, excepto en los casos expresamente previstos en esta ley.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 215.
 
@@ -2349,6 +2671,8 @@ II. Mayoría absoluta, son los votos correspondientes a los de la mayoría de lo
 
 III. Mayoría calificada, es la suma de los votos de las dos terceras partes de los integrantes del Congreso.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 216.
 
 Los tipos de votación mediante los cuales los diputados emitirán su voto, podrán ser nominales, económicas o por cédula. Las dos primeras se podrán realizar en forma electrónica.
@@ -2356,6 +2680,8 @@ Los tipos de votación mediante los cuales los diputados emitirán su voto, podr
 Antes de iniciarse cualquier votación, la Presidencia de la Mesa Directiva comunicará por cuál tipo de votación se sufragará.
 
 Son votaciones electrónicas, aquéllas en las que los diputados emitirán su voto mediante el Sistema de Información Parlamentaria. Si eventualmente este Sistema no se encontrara disponible, se procederá a una votación nominal o económica, según sea el caso.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 217.
 
@@ -2371,17 +2697,21 @@ Se votarán en forma económica, las resoluciones del Congreso que no tengan el 
 
 Las votaciones por cédulas, tendrán lugar cuando se trate de elegir personas aún y cuando el requisito de votación sea de mayoría calificada.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 218.
 
 Los acuerdos del Congreso, la aprobación de actas y los acuerdos dictados por la mesa, se votarán en forma económica.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 219.
 
 En las votaciones económicas, cualquier diputado puede pedir que conste en el acta de la sesión el sentido en que votó, pudiendo hacerse esta petición, en la sesión siguiente, al discutirse dicha acta.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
-
 La votación económica se hará preguntando primero por los que estén por la afirmativa, y enseguida, por los que estén en contra. El sentido del voto de los diputados se hará levantando la mano.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 220.
 
@@ -2389,19 +2719,27 @@ La votación nominal empezará por el lado derecho del Presidente, diciendo cada
 
 Un secretario tomará nota de los votos y dará a conocer el resultado de los mismos, para que el Presidente haga la declaración correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 221.
 
 Las votaciones por cédulas tendrán lugar cuando se trate de elegir personas, y se harán depositando cada diputado su cédula en la urna correspondiente.
 
 Recogida la votación, uno de los secretarios contará las cédulas para ver si su número coincide con los diputados presentes; las leerá en voz alta, de una por una, a fin de que el otro secretario anote los nombres de las personas que en ellas aparezcan y se haga el recuento respectivo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 222.
 
-Enseguida, el Presidente comunicará a la Asamblea el resultado de la votación; y en caso de aprobación, ordenará la sanción, promulgación y publicación, en su caso, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+Enseguida, el Presidente comunicará a la Asamblea el resultado de la votación; y en caso de aprobación, ordenará la sanción, promulgación y publicación, en su caso, en el Periódico Oficial del Gobierno del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 223.
 
 Los empates en las votaciones se decidirán repitiéndolas, una sola vez, y si éste subsistiere, el Presidente de la Mesa Directiva tendrá voto de calidad, el que expresará mediante cédula, y uno de los secretarios dará cuenta al pleno del sentido de su voto.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 224.
 
@@ -2411,9 +2749,13 @@ La fórmula de expedición de decretos o acuerdos que contengan resoluciones rel
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 225.
 
 La sanción, promulgación y publicación de una ley o decreto, son actos que integran el proceso legislativo, de cuya realización se deriva la entrada en vigor o iniciación de las normas jurídicas.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 226.
 
@@ -2421,13 +2763,19 @@ La sanción de una ley o decreto, es el acto mediante el cual el Gobernador Cons
 
 La promulgación es el acto por el cual el Gobernador del Estado, certifica la autenticidad, existencia y regularidad de una ley o decreto, ordenando su publicación para su observancia y cumplimiento.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 227.
 
 La publicación, es el acto por el que se hace del conocimiento de los habitantes una ley o decreto, para iniciar su vigencia y obligatoriedad, en los ámbitos de validez determinados.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 228.
 
 Las observaciones totales o parciales que el titular del Poder Ejecutivo efectué a las minutas que el Congreso del Estado le remita, serán estudiadas, dictaminadas, debatidas y votadas, según lo previsto en esta ley.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 229.
 
@@ -2447,13 +2795,19 @@ VI. Sanciones derivadas de procedimientos de responsabilidad administrativa.
 
 #### SECCIÓN SEGUNDA. DE LAS REGLAS Y PROCEDIMIENTO PARA LA SANCIÓN, PROMULGACIÓN Y PUBLICACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 230.
 
-Recibida la ley o decreto respectivo, el Titular del Poder Ejecutivo, contará con un plazo de hasta diez días hábiles, contados a partir de la fecha de recepción, para formular y notificar al Congreso del Estado, las observaciones correspondientes.
+Recibida la ley o decreto respectivo, el Titular del Poder Ejecutivo, contará con un plazo de hasta quince días hábiles, contados a partir de la fecha de recepción, para formular y notificar al Congreso del Estado, las observaciones correspondientes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 231.
 
-De no formularse y notificarse las observaciones en el plazo establecido, se reputará sancionada la ley o decreto, y el Gobernador del Estado ordenará su publicación, en un plazo no mayor de cinco días hábiles posteriores. Si al concluir este último plazo no se publicare, el Presidente de la Mesa Directiva ordenará su publicación.
+De no formularse y notificarse las observaciones en el plazo establecido, se reputará sancionada la ley o decreto, y el Gobernador del Estado ordenará su publicación, en un plazo no mayor de quince días hábiles posteriores. Si al concluir este último plazo no se publicare, el Presidente de la Mesa Directiva ordenará su publicación.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 232.
 
@@ -2465,11 +2819,11 @@ II. Si son parciales, especificará la o las partes observadas; y
 
 III. La motivación y fundamentación de la observación total o de cada una de las observaciones parciales.
 
-Cuando el oficio de notificación de observaciones sea recibido en el Congreso del Estado, se dará cuenta al Pleno o a la Comisión Permanente en la sesión siguiente que efectúen respectivamente.
+Cuando el oficio de notificación de observaciones sea recibido en el Congreso del Estado, se dará cuenta al Pleno en la sesión siguiente en que se efectúen, a efecto de que se discuta nuevamente y si fuere confirmada por el voto de las dos terceras partes de los Diputados presentes, se remitirá nuevamente al Ejecutivo, para que sin más trámite dentro del término de diez días hábiles la promulgue. En caso de no hacerlo, el Presidente de la Mesa Directiva la promulgará y publicará en el Periódico Oficial del Gobierno del Estado de Durango.
 
-En la sesión que corresponda, el Presidente de la Mesa Directiva o de la Comisión Permanente, ordenará como tramite, el turno de las observaciones a la Comisión o comisiones dictaminadoras, y garantizará que el expediente relativo sea entregado a los integrantes de éstas, a más tardar al siguiente día hábil.
+En la sesión que corresponda, el Presidente de la Mesa Directiva ordenará como tramite, el turno de las observaciones a la Comisión o comisiones dictaminadoras, y garantizará que el expediente relativo sea entregado a los integrantes de éstas, a más tardar al siguiente día hábil.
 
-En periodo ordinario o en periodo de receso, la Comisión o comisiones dictaminadoras se reunirán dentro de los dos días hábiles siguientes y se declararán en sesión permanente para estudiar y dictaminar las observaciones recibidas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 233.
 
@@ -2477,35 +2831,33 @@ Si las observaciones sólo fueron parciales, el estudio y dictamen versará excl
 
 La Comisión o comisiones dictaminadoras, tendrán un plazo de hasta diez días hábiles, contados a partir de haberse declarado en Sesión Permanente para presentar su nuevo dictamen al Pleno.
 
-Si el Congreso del Estado estuviere en receso, deberá entregarse el nuevo dictamen a la Comisión Permanente en la sesión inmediata a su aprobación en Comisión o comisiones dictaminadoras o, en su caso, el día en que concluya el plazo establecido.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 234.
 
-Recibido el nuevo dictamen por la Comisión Permanente, ésta convocará a un periodo extraordinario de sesiones, que se aperturará dentro de los tres días hábiles siguientes a la fecha en que haya recibido el nuevo dictamen, para debatirlo y votarlo en el Pleno.
-
-La ratificación del contenido original de la ley o decreto observada por el Gobernador del Estado, deberá ser aprobada por las dos terceras partes de los diputados integrantes de la legislatura.
-
-En caso de ser ratificado el contenido original de la ley o decreto observado, se remitirá de nueva cuenta al Gobernador del Estado para su promulgación y publicación, en un plazo no mayor a cinco días hábiles siguientes a su recepción.
-
-En caso de no hacerlo, el Presidente de la Mesa Directiva la promulgará y publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+Recibido el nuevo dictamen por la Mesa Directiva, ésta convocará a sesión para que el pleno resuelva, dentro de los tres días hábiles siguientes a la fecha en que haya recibido el nuevo dictamen, para debatirlo y votarlo en el Pleno.
 
 ###### Artículo 235.
 
-De aceptarse total o parcialmente las observaciones efectuadas por el Titular del Poder Ejecutivo, se remitirá nuevamente la ley o decreto para su respectiva sanción, promulgación y publicación.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 236.
 
-La publicación de las leyes o decretos, se efectuará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, en los plazos que se establecen en esta ley y será suscrita por el Gobernador del Estado y refrendada por el Secretario General de Gobierno.
+La publicación de las leyes o decretos, se efectuará en el Periódico Oficial del Gobierno del Estado, en los plazos que se establecen en esta ley y será suscrita por el Gobernador del Estado y refrendada por el Secretario General de Gobierno.
 
-La entrada en vigor de las leyes y decretos, iniciará a los cinco días hábiles de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, salvo que en aquéllos se señalen otros plazos distintos.
+La entrada en vigor de las leyes y decretos, iniciará al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango, salvo que en aquéllos se señalen otros plazos distintos.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO VII. DE LA ELECCIÓN O RATIFICACIÓN DE SERVIDORES PÚBLICOS
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-ARTÍCULO 236 BIS.- Cuando el Congreso deba elegir o ratificar servidores públicos, conforme a la Constitución Política local o las leyes, deberá proceder conforme lo dispongan los cuerpos normativos citados; cuando no exista disposición específica o procedimientos particulares de elección, el Pleno, en ejercicio de su potestad soberana, deberá aprobar por mayoría absoluta de sus miembros, el o los procedimientos que deban llevarse a cabo señalando al efecto:
+###### Artículo 236 Bis.
+
+Cuando el Congreso deba elegir o ratificar servidores públicos, conforme a la Constitución Política local o las leyes, deberá proceder conforme lo dispongan los cuerpos normativos citados; cuando no exista disposición específica o procedimientos particulares de elección, el Pleno, en ejercicio de su potestad soberana, deberá aprobar por mayoría absoluta de sus miembros, el o los procedimientos que deban llevarse a cabo señalando al efecto:
 
 I.- El cargo de cuya designación se trata;
 
@@ -2521,59 +2873,81 @@ V.- En caso de no existir la votación requerida, establecer la condición de es
 
 ### CAPÍTULO I. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 237.
 
-El Congreso del Estado deberá erigirse en Jurado de Acusación, para resolver el procedimiento de presunta responsabilidad política o penal de los servidores públicos del Estado y de los Municipios, a que se refiere el artículo 118 de la Constitución Política local.
+El Congreso del Estado deberá erigirse en Jurado de Acusación, para resolver el procedimiento de presunta responsabilidad política o penal de los servidores públicos del Estado y de los Municipios, a que se refiere el artículo 175 de la Constitución Política local.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 238.
 
-Únicamente, previa declaración del Congreso, podrá procederse en contra de los servidores públicos a los que hace mención el artículo 116 de la Constitución Política del Estado.
+Únicamente, previa declaración del Congreso, podrá procederse en contra de los servidores públicos a los que hace mención el artículo 176 de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 239.
 
-El Jurado de Acusación, obrará de acuerdo con lo establecido en el Título Quinto de la Constitución Política local; en el Título Segundo de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y además en lo previsto en este título.
+El Jurado de Acusación, obrará de acuerdo con lo establecido en el Título Séptimo de la Constitución Política local; en el Título Segundo de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y además en lo previsto en este título.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 240.
 
-Los servidores públicos a los que se refiere el artículo 119 de la Constitución Política del Estado, sólo podrán ser encausados penalmente, cuando medie declaración del Congreso del Estado erigido en Jurado de Procedencia, con el propósito de remover el fuero del cual se encuentran investidos y autorice a la autoridad competente a ejercitar sobre ellos la acción penal correspondiente.
+Los servidores públicos a los que se refiere el artículo 176 de la Constitución Política del Estado, sólo podrán ser encausados penalmente, cuando medie declaración del Congreso del Estado erigido en Jurado de Procedencia, con el propósito de remover el fuero del cual se encuentran investidos y autorice a la autoridad competente a ejercitar sobre ellos la acción penal correspondiente.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 241.
 
 El Ministerio Público solicitará al Congreso del Estado, la remoción del fuero correspondiente, una vez que se hayan concluido y satisfecho los requisitos que la ley exige para el ejercicio de la acción penal, remitiendo al efecto, los autos de que conste la averiguación previa correspondiente, a fin de proceder en la misma vía, en contra de un servidor público.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 242.
 
-Los particulares, bajo su más estricta responsabilidad, podrán presentar ante el Congreso, denuncia o querella en contra de los servidores públicos a los que hace referencia el artículo 119 de la Constitución Política del Estado Libre y Soberano de Durango, remitiendo al efecto, los autos certificados de la averiguación previa correspondiente.
+Los particulares, bajo su más estricta responsabilidad, podrán presentar ante el Congreso, denuncia o querella en contra de los servidores públicos a los que hace referencia el artículo 175 de la Constitución Política del Estado Libre y Soberano de Durango, remitiendo al efecto, los autos certificados de la averiguación previa correspondiente.
 
 Una vez ratificada la denuncia, la Comisión de Responsabilidades procederá a la investigación de los hechos u omisiones denunciadas.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 243.
 
 Si de las constancias de la instrucción, se desprende que la denuncia es notoriamente improcedente, de inmediato la comisión dará cuenta al Presidente, quien someterá al pleno la solicitud de suspensión del procedimiento, sin que esto pueda impedir que a la existencia de nuevos elementos pueda continuarse con él.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 244.
 
-Si de la instrucción, la comisión estima que ha lugar a declarar la procedencia, el dictamen que así lo estime, será entregado al Presidente, quien anunciará al pleno que debe constituirse como Jurado de Procedencia al día siguiente en que se hubiese entregado el dictamen, notificando al inculpado y a su defensor, así como al denunciante, querellante o al Ministerio Público, en su caso
+Si de la instrucción, la comisión estima que ha lugar a declarar la procedencia, el dictamen que así lo estime, será entregado al Presidente, quien anunciará al pleno que debe constituirse como Jurado de Procedencia al día siguiente en que se hubiese entregado el dictamen, notificando al inculpado y a su defensor, así como al denunciante, querellante o al Ministerio Público, en su caso.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 245.
 
 Si el inculpado fuera un integrante del Congreso, tendrá derecho a defenderse por sí o por otro diputado, quien actuará como su defensor, oyendo a un fiscal, quien será el Presidente de la Comisión de Responsabilidades, representando al denunciante, querellante o ministerio público; después de escuchada la defensa, se procederá a votar si ha lugar o no a declarar la suspensión de la inmunidad procesal.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 246.
 
-El dictamen será sometido a la consideración del Jurado de Procedencia y será válido si se aprueba por la mayoría de los miembros presentes
+El dictamen será sometido a la consideración del Jurado de Procedencia y será válido si se aprueba por la mayoría de los miembros presentes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 247.
 
 Si la determinación es en el sentido de declarar que ha lugar a proceder contra el inculpado, éste inmediatamente quedará separado de su encargo y a disposición de la autoridad judicial competente para que actúe conforme a la ley. En caso negativo, no habrá lugar a causa penal, en tanto subsista el fuero.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 248.
 
 Si en la causa penal apareciera la inocencia del inculpado, y aún tuviere tiempo para regresar a su cargo, en el caso de ser de elección popular, se le restituirá en el mismo, con derecho a que se le retribuyan los emolumentos que hubiere dejado de percibir durante el tiempo que estuvo separado del mismo. En el caso de que no fuese su empleo o cargo de los denominados de elección popular, tendrá derecho a exigir el pago de salarios por el tiempo que estuvo separado de su empleo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 249.
 
@@ -2581,61 +2955,91 @@ La declaración de procedencia del Congreso, de ninguna manera prejuzga sobre lo
 
 ### CAPÍTULO II. PROCEDIMIENTO DEL JUICIO POLÍTICO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 250.
 
 Será procedente el juicio político, cuando los actos u omisiones de los servidores públicos sean de los comprendidos en el artículo 8 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 251.
 
 El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión y dentro de un año después de la conclusión de sus funciones; y las sanciones que resulten, serán impuestas en un plazo no mayor de un año a partir de iniciado el procedimiento.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 252.
 
 El Congreso del Estado por conducto de su Comisión de Responsabilidades, substanciará el procedimiento consignado en este título.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 253.
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y aportando los más elementales medios de prueba, podrá formular por escrito ante la Oficialía Mayor del Congreso, denuncia en contra de un servidor público, por las conductas que correspondan a las enumeradas en el artículo 8 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios vigente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 254.
 
 Una vez presentada la denuncia, deberá ser ratificada ante la Oficialía Mayor del Congreso dentro de los tres días naturales siguientes a la fecha de su presentación. Las denuncias anónimas no surtirán ningún efecto.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 255.
 
 Ratificada la denuncia, el Oficial Mayor la turnará a la Comisión de Responsabilidades, a fin de que ésta dictamine si la conducta denunciada es de las que enuncia la ley de la materia; y si el inculpado es sujeto del juicio político, si la denuncia es procedente y si amerita la incoación del procedimiento.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 256.
 
 Si son satisfechos los supuestos establecidos en el artículo anterior, la Comisión procederá a emplazar al servidor público denunciado, notificándole el cargo o cargos en su contra, a efecto de que comparezca personalmente o a través de su defensor, o informar por escrito de los hechos dentro de los siete días naturales que le sigan al de la fecha del emplazamiento.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 257.
 
 La Comisión de Responsabilidades practicará todas las diligencias necesarias para la comprobación del acto o hechos denunciados, así como la implicación del servidor público denunciado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 258.
 
 La Comisión, con vista de lo manifestado por el servidor público, o transcurrido el plazo para que lo haga sin que lo hubiere hecho, abrirá un período de pruebas de treinta días naturales, dentro del cual, se recibirán las que ofrezcan el denunciante y el servidor público, así como las que la propia comisión estime necesarias. Las autoridades estatales y municipales, tendrán obligación de facilitar todas las constancias e informes que les sean requeridos para tal efecto; exceptuándose aquellos casos que las leyes señalen. En todo caso, el servidor público denunciado estará exento del pago de derechos que estos informes generen.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 259.
 
 Si concluido el plazo de prueba, faltaren de desahogar algunas, o se considere necesario allegarse otras, la Comisión podrá ampliar discrecionalmente dicho plazo por el término que estime conveniente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 260.
 
 La Comisión estará facultada para estimar la pertinencia de las pruebas aportadas y podrá desechar aquéllas que a su juicio no aporten veracidad al hecho o conductas a probar.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 261.
 
 Una vez concluido el término probatorio, la Comisión, previo a declarar cerrada la instrucción, dará vista de lo actuado al denunciante por tres días naturales y al servidor público o a su defensor por el mismo plazo, a efecto de que tomen nota de los datos que requieran para formular alegatos, mismos que deberán ser presentados dentro de los seis días naturales siguientes.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 262.
 
 Una vez presentados los alegatos, o vencido éste término, la Comisión procederá a presentar sus consideraciones a efecto de determinar si el procedimiento debe concluirse o pasar a la siguiente etapa. En todo caso, la Comisión deberá atender a las reglas de la lógica y buen juicio en torno a la discrecionalidad de valorar las pruebas, así como también estará obligada a fundar y motivar la resolución que tenga que emitir.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 263.
 
 Si de las constancias se desprende la inocencia del servidor público o la improcedencia de la denuncia, la Comisión procederá a obtener del pleno, el consentimiento para suspender la instrucción.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 264.
 
@@ -2653,33 +3057,49 @@ c) La sanción que deba imponerse.
 
 III. La solicitud de que se remita al Jurado de Sentencia, el expediente respectivo, para los fines legales pertinentes.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 265.
 
 Las conclusiones serán presentadas en un término que no exceda de sesenta días naturales, contados a partir del siguiente de aquél en que fue presentada la denuncia. En todo caso, se atenderá lo dispuesto por el artículo 18 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 266.
 
 Entregadas las conclusiones a la Presidencia del Congreso, ésta citará al pleno a erigirse en Jurado de Acusación, dentro de los tres días naturales siguientes al de la entrega de las conclusiones.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 267.
 
 El Congreso, erigido en Jurado de Acusación, resolverá si ha lugar o no a formular acusación al denunciado; si resolviera por mayoría de los miembros presentes la procedencia de la acusación, el expediente será turnado al Tribunal Superior de Justicia del Estado, para que erigido en Jurado de Sentencia, resuelva la aplicación de las sanciones a que haya lugar.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 268.
 
 Si el denunciado fuere un integrante del Congreso, tendrá derecho, en la sesión del Jurado de Acusación, a defender su posición ante el pleno, con una participación de treinta minutos como máximo y hasta dos participaciones para aclarar puntos o rectificar hechos. La Comisión de Responsabilidades por conducto de su Presidente, actuará como fiscal en el procedimiento.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 269.
 
 Las decisiones del Congreso en materia de juicio político y declaración de procedencia, así como las sanciones impuestas por el Tribunal Superior de Justicia, en su carácter de Jurado de Sentencia en el juicio político, son definitivas e inatacables.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 270.
 
 Cuando deba requerirse la presencia del inculpado o denunciado ante la Comisión de Responsabilidades o el Tribunal Superior de Justicia para la práctica de alguna diligencia, deberá ser emplazado para que comparezca o conteste por escrito los requerimientos que se le hagan, en un término de cinco días hábiles después de haber sido debidamente notificado. En caso de no hacerlo, se le tendrá contestando en sentido negativo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 271.
 
 Cuando alguna diligencia tenga que realizarse fuera del lugar de residencia del Congreso o del Tribunal, los emplazamientos o diligencias se encomendarán al Juez más cercano que corresponda, para que lo practique dentro de su jurisdicción.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 272.
 
@@ -2687,13 +3107,11 @@ Los integrantes del Congreso que hayan de intervenir en algún acto de los proce
 
 El integrante del Congreso que actúe como denunciante, querellante, defensor o fiscal, en ningún caso podrá votar en las resoluciones del pleno en ambos procedimientos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 273.
 
 Ninguno de los procedimientos previstos en el presente título podrá efectuarse si el servidor público se ha separado de su encargo, salvo lo que señale la Constitución Política del Estado Libre y Soberano de Durango.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 466, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2010, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO, CONFORMÁNDOSE EL PRESENTE PÁRRAFO CON LOS ANTERIORES SEGUNDO Y TERCERO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
 En ningún caso procederá la dispensa de trámites de los procedimientos aludidos en el párrafo anterior y los casos no previstos se resolverán conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, en el Código de Procedimientos Penales o el Código Procesal Penal, en su caso.
 
@@ -2701,11 +3119,13 @@ En ningún caso procederá la dispensa de trámites de los procedimientos aludid
 
 #### SECCIÓN PRIMERA. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 274.
 
-El Congreso del Estado, conforme lo establece el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 55 fracción XXXIII de la Constitución Política del Estado, por acuerdo de las dos terceras partes del total de sus integrantes, podrá declarar la desaparición de Ayuntamientos; suspender temporal o definitivamente o revocar el mandato de uno o más de sus integrantes. Estas medidas se podrán aplicar así mismo a los consejos municipales, en su caso.
+El Congreso del Estado, conforme lo establece el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 82 fracción IV inciso c) de la Constitución Política del Estado, por acuerdo de las dos terceras partes del total de sus integrantes, podrá declarar la desaparición de Ayuntamientos; suspender temporal o definitivamente o revocar el mandato de uno o más de sus integrantes. Estas medidas se podrán aplicar así mismo a los consejos municipales, en su caso.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 275.
 
@@ -2717,25 +3137,29 @@ II. La suspensión temporal de un munícipe, es la sanción o medida disciplinar
 
 III. La revocación, consiste en la anulación del mandato de uno o más de los miembros del Ayuntamiento; implica a su vez, su destitución.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 276.
 
 Los procedimientos para la suspensión definitiva y consecuente desaparición de un Ayuntamiento; de la suspensión temporal o revocación de uno o más miembros del ayuntamiento, invariablemente deberán dar lugar a la presentación de las pruebas idóneas; y los implicados, tendrán derecho a ser oídos y formular su defensa, en los términos de la ley aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 277.
 
 El proceso para la suspensión definitiva y consecuente declaración de desaparición de Ayuntamientos, tendrá los siguientes trámites:
 
-I. La solicitud para que la legislatura conozca de la o las causas graves a que se refiere el artículo 55, fracción XXXIII, de la Constitución Política del Estado Libre y Soberano de Durango, podrá ser presentada ante la Oficialía Mayor del Congreso por cualquier ciudadano o grupo de ciudadanos representativos, bajo su más estricta responsabilidad, debiendo acompañar las pruebas conducentes. Esta solicitud, deberá ser ratificada, en la misma Oficialía, en un término de tres días naturales;
+I. La solicitud para que la legislatura conozca de la o las causas graves a que se refiere el artículo 82 fracción IV inciso c) de la Constitución Política del Estado Libre y Soberano de Durango, podrá ser presentada ante la Oficialía Mayor del Congreso por cualquier ciudadano o grupo de ciudadanos representativos, bajo su más estricta responsabilidad, debiendo acompañar las pruebas conducentes. Esta solicitud, deberá ser ratificada, en la misma Oficialía, en un término de tres días naturales;
 
 II. La directiva de la legislatura, turnará la solicitud a la comisión respectiva para que analice y dictamine sobre la procedencia de la misma. A su vez, emplazará al Ayuntamiento para que exponga, en un término no mayor de setenta y dos horas, lo que a sus intereses convenga. Una vez que el ayuntamiento ha recibido la notificación de referencia, tendrá derecho a nombrar defensor, y si no lo hiciere dentro del término de tres días, la comisión del Congreso lo nombrará de oficio;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
-
 III. Cubiertos los plazos a que se refiere la fracción anterior, la comisión abrirá un período de treinta días hábiles para recibir, tanto las pruebas del denunciante como las del Ayuntamiento, así como todas aquéllas que la misma estime pertinente y así acuerde para el debido esclarecimiento de la verdad. Las pruebas que no pudieren presentarse dentro del plazo indicado, se tendrán por desiertas, salvo que la comisión determine recibirlas;
 
-IV. Concluido el término de pruebas, las partes en un término de tres día (sic) hábiles, deberán presentar sus alegatos por escrito; y
+IV. Concluido el término de pruebas, las partes en un término de tres día hábiles, deberán presentar sus alegatos por escrito; y
 
 V. Producidos y recibidos los alegatos, la comisión procederá a formular sus conclusiones con carácter de dictamen, analizando los hechos y exponiendo los argumentos jurídicos que la sustenten, debiendo presentarlas al pleno en la sesión más próxima.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 278.
 
@@ -2743,43 +3167,45 @@ En la declaración de desaparición de un ayuntamiento, si no procediera la cele
 
 #### SECCIÓN SEGUNDA. DE LA SUSPENSIÓN TEMPORAL O REVOCACIÓN DE SUS MIEMBROS
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 279.
 
 El procedimiento para decretar la suspensión temporal o revocación del mandato de uno o más miembros de un Ayuntamiento, será similar al aplicado para la suspensión definitiva y consecuente desaparición de ayuntamientos.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 280.
 
 Decretada la suspensión temporal o revocación del mandato de uno o más de los miembros del Ayuntamiento, éste llamará al suplente o suplentes para que rindan la protesta y ocupen el cargo correspondiente, dentro del plazo de cinco días hábiles siguientes a la notificación de la resolución del Congreso del Estado. Si el suplente o los suplentes no asumieren los cargos respectivos, éstos quedarán vacantes por el resto del período a que se refiera la resolución del Congreso.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 281.
 
-En relación con lo dispuesto en el artículo 55, fracción XXXIII, inciso b) de la Constitución Política Local, en caso de que la resolución sea absolutoria, concluirá la suspensión temporal y el miembro o miembros suspendidos reasumirán sus cargos con derecho a los emolumentos que hubieren dejado de percibir.
+En relación con lo dispuesto en el artículo 82 fracción IV inciso c) de la Constitución Política Local, en caso de que la resolución sea absolutoria, concluirá la suspensión temporal y el miembro o miembros suspendidos reasumirán sus cargos con derecho a los emolumentos que hubieren dejado de percibir.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ### CAPÍTULO IV. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 282.
 
 En los términos que disponen los artículos 50 y 55 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, el Congreso se encuentra facultado para solventar el procedimiento de responsabilidad administrativa a los servidores públicos municipales de elección popular y aplicar las sanciones que esta última disposición legal alude; del mismo modo, lo hará respecto de los servidores públicos de los organismos autónomos por disposición de la ley y de los servidores públicos del Congreso.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+Dentro de su competencia constitucional, en el caso de incumplimiento u omisión de recomendaciones emitidas por la Comisión Estatal de Derechos Humanos, el Congreso, por conducto de la comisión respectiva, citará a comparecer a los servidores públicos involucrados a efecto de que se sirvan justificar las razones de su conducta.
 
-Dentro de su competencia constitucional, en el caso de incumplimiento u omisión de recomendaciones emitidas por la Comisión Estatal de Derechos Humanos, el Congreso, por conducto de la comisión respectiva, citará a comparecer a los servidores, públicos involucrados a efecto de que se sirvan justificar las razones de su conducta.
+En los procedimientos de responsabilidad administrativa, el Congreso conocerá de los procedimientos que deban fincarse conforme al artículo 177 de la Constitución Política del Estado Libre y Soberano de Durango, en contra de los servidores públicos a los que se refieren los párrafos anteriores por las conductas que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el servicio público y en materia de derechos humanos los principios y obligaciones que deban observar en el cumplimiento de sus cargos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2011)</small>
-
-En los procedimientos de responsabilidad administrativa, el Congreso conocerá de los procedimientos que deban fincarse conforme a la fracción III del artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, en contra de los servidores públicos a los que se refieren los párrafos anteriores por las conductas que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el servicio público y en materia de derechos humanos que deban observar en el cumplimiento de sus cargos.
-
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 283.
 
 Los Servidores Públicos señalados en el artículo anterior, serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 En el procedimiento administrativo de responsabilidades se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, esta ley y demás disposiciones aplicables.
 
@@ -2787,15 +3213,13 @@ En el procedimiento administrativo de responsabilidades se aplicará la Ley de R
 
 #### SECCIÓN PRIMERA. DEL PROCEDIMIENTO ESPECIAL EN MATERIA DE DERECHOS HUMANOS
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 284.
 
 La Comisión Estatal de Derechos Humanos, en forma oportuna, hará del conocimiento de la comisión legislativa de Derechos Humanos, el incumplimiento u omisión injustificada de las recomendaciones aceptadas por cualquier servidor público, el que tendrá derecho a expresar ante la misma, las razones de su conducta o bien justificar los hechos u omisiones en que hubiere incurrido.
 
-En todo caso deberá observarse lo dispuesto por el último párrafo del artículo 116 de la Constitución Política del Estado.
-
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 285.
 
@@ -2803,19 +3227,19 @@ Los hechos que haga del conocimiento la Comisión Estatal de Derechos Humanos no
 
 El procedimiento iniciará al recibir las razones que obraron en la conducta denunciada o bien en la justificación de los hechos u omisiones que se reclamen y en el extremo, la determinación o no de responsabilidades administrativas o, en su caso, de otra índole.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 286.
 
 Si de las conclusiones de la Comisión de Derechos Humanos del Congreso, se derivara responsabilidad administrativa atribuible al servidor o servidores públicos involucrados, la comisión lo hará del conocimiento del Pleno, el que en sesión privada, determinará si ha lugar o no a instaurar algún procedimiento de responsabilidades; si hubiera lugar a ellas, el desarrollo del procedimiento respectivo lo solventará la comisión de responsabilidades, la que en extremo y una vez concluido aquel, propondrá las sanciones que deban imponerse al implicado.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 287.
 
 De acuerdo a su naturaleza, se aplicarán al procedimiento las prevenciones que en materia de juicio político y declaración de procedencia prevé esta ley y en cuanto fuera aplicable, la ley de Responsabilidades de los Servidores Públicos del estado y Municipios de Durango.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 288.
 
@@ -2823,7 +3247,7 @@ En el caso de responsabilidades administrativas se aplicará la Ley de Responsab
 
 Si las sanciones fueren de sanción económica, inhabilitación, destitución o suspensión, y el servidor público perteneciere a los Poderes Ejecutivo o Judicial, el Congreso en vía de moción de censura, propondrá la imposición de las medidas sancionatorias al órgano que corresponda, previa notificación al Titular del Poder que corresponda.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 289.
 
@@ -2974,3 +3398,13 @@ EI presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en este decreto.
+
+P.O. 22 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- Publíquese el presente decreto en el Periódico Oficial del Gobierno Durango.
+
+Artículo Segundo.- El presente decreto entrará en vigencia el día primero de enero de 2014.
+
+Artículo Tercero.- La Comisión de Atención Ciudadana quedará integrada, para lo que resta del presente año de ejercicio constitucional, por los diputados integrantes de la Comisión de Gestoría y Quejas que fueron aprobados por el Pleno.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que contravengan a las contenidas en la presente Ley.
