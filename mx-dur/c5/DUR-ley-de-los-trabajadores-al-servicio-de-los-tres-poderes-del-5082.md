@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2013-12-19"
+last_updated: "2013-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2013.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -339,7 +341,11 @@ IV.- Las que deben concederse con motivo del desempeño de un puesto de elecció
 
 Es nula la renuncia que los trabajadores hagan de los salarios devengados, de las indemnizaciones y demás prestaciones que deriven de los servicios prestados, cualquiera que sea la forma o denominación que se le dé.
 
-Todo convenio o liquidación para ser válidos, deberán hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos comprendidos en él. Será ratificado ante el Tribunal de Conciliación y Arbitraje, el que lo aprobará siempre que no contenga renuncia de los derechos de los trabajadores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+Todo convenio o liquidación para ser válidos, deberán hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos comprendidos en él. Será ratificado ante el Tribunal Laboral Burocrático, el que lo aprobará siempre que no contenga renuncia de los derechos de los trabajadores.
 
 ### CAPITULO TERCERO. DEL SALARIO
 
@@ -421,11 +427,13 @@ Es nula la cesión de salarios en favor de terceras personas.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES DE LAS DEPENDENCIAS PUBLICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 55o.
 
-Son obligaciones de las dependencias y entidades administrativas, a que se refiere el artículo 1° de esta ley:
+Son obligaciones de las Dependencias y Entidades Administrativas, a que se refiere el Artículo 1° de esta Ley:
 
 I.- Preferir, en igualdad de conocimientos aptitudes y antigüedad, a los trabajadores sindicalizados, respecto de quienes no lo estuvieran; a los que con anterioridad hubieren prestado satisfactoriamente servicios y a los que acrediten tener mejores derechos conforme al escalafón.
 
@@ -445,7 +453,11 @@ III.- Reinstalar a los trabajadores en las plazas de las cuales los hubieren sep
 
 En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldo, o, de no ser posible, indemnizarlos conforme esta Ley.
 
-IV.- De acuerdo con la partida del presupuesto de egresos correspondiente que se haya fijado para tal efecto, cubrir las indemnizaciones, por separación injustificada para los Trabajadores que hayan optado por ella asímismo pagar los salarios caídos en los términos del laudo definitivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+IV.- De acuerdo con la partida del presupuesto de egresos correspondiente que se haya fijado para tal efecto, cubrir las indemnizaciones, por separación injustificada para los Trabajadores que hayan optado por ella, asimismo, pagar los salarios caídos en los términos de la sentencia definitiva que emita el Tribunal Laboral Burocrático.
 
 V.- Cubrir las aportaciones que fijen las Leyes especiales para que los trabajadores reciban los beneficios de la seguridad y servicios sociales comprendidos en los conceptos siguientes:
 
@@ -553,7 +565,11 @@ II.- La incapacidad temporal ocasionada por un accidente o enfermedad que no con
 
 III.- La prisión preventiva del trabajador seguida de sentencia absolutoria; si el trabajador obró en defensa del titular o de los intereses de las Dependencias Públicas, tendrán estas la obligación de pagar los salarios que hubiere dejado de percibir aquel.
 
-IV.- El arresto impuesto por la Autoridad Judicial o administrativa a menos de que tratándose de arresto por delito contra la sociedad, el Estado o contra las buenas costumbres, el Tribunal de Conciliación y Arbitraje determine que procede el cese del empleado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+IV.- El arresto impuesto por la Autoridad Judicial o administrativa a menos de que tratándose de arresto por delito contra la sociedad, el Estado o contra las buenas costumbres, el Tribunal Laboral Burocrático determine que procede el cese del empleado.
 
 V.- Los Trabajadores que tengan encomendado el manejo de fondos, valores o bienes, podrán ser suspendidos hasta por 60 días por el Titular de la Dependencia correspondiente, cuando apareciere alguna irregularidad en su gestión, en tanto se efectúan las investigaciones sobre el caso.
 
@@ -605,15 +621,15 @@ En los casos a que se refiere este Artículo, el trabajador que diere motivo par
 
 Si el Tribunal resuelve que fué justificado el cese, el trabajador no tendrá derecho al pago de salarios caídos.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 63o.
 
-El trabajador podrá optar por solicitar ante el Tribunal de Conciliación y Arbitraje, que se le reinstale en el trabajo que desempeñaba, o bien, que se le indemnice con el importe de tres meses de salario.
+El trabajador podrá solicitar ante el Tribunal Laboral Burocrático, a su elección, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario.
 
-Si en el Juicio correspondiente el Titular de la Dependencia o Entidad Administrativa respectiva, no comprueba la causa del cese o suspensión, el trabajador tendrá derecho, además, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses.
-
-Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+Si en el Juicio correspondiente no comprueba el Titular de la Dependencia o Entidad Administrativa respectiva, la causa del cese o suspensión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios caídos desde la fecha del despido hasta que se cumplimente la sentencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
@@ -623,7 +639,11 @@ El Titular de la Dependencia o Entidad Administrativa de que se trate, quedará 
 
 I.- Cuando se trate de trabajadores que tengan una antigüedad menor de un año;
 
-II.- Si comprueba ante el Tribunal de Conciliación y Arbitraje, que el trabajador, por razón del trabajo que desempeña o por las características de sus labores, está en contacto directo y permanente con él y el Tribunal estima, tomando en consideración las circunstancias del caso, que no es posible el desarrollo normal de la relación de trabajo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+II.- Si comprueba ante el Tribunal Laboral Burocrático, que el trabajador, por razón del trabajo que desempeña o por las características de sus labores, está en contacto directo y permanente con él y el Tribunal estima, tomando en consideración las circunstancias del caso, que no es posible el desarrollo normal de la relación de trabajo;
 
 III.- En los casos de trabajadores de confianza; y
 
@@ -687,9 +707,13 @@ Los factores escalafonarios se clasificarán mediante sistemas adecuados para su
 
 El personal de cada Poder será clasificado según sus categorías consignadas en sus respectivos presupuestos de egresos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 73o.
 
-En cada uno de los Poderes del Estado funcionará una Comisión Mixta de escalafón, integrada por igual número de representantes del titular y del Sindicato correspondiente, de conformidad con las necesidades de las mismas, quienes designarán un árbitro que decida los casos de empate. Si no hay acuerdo, la designación la hará el Tribunal de Conciliación y Arbitraje en un término que no excederá de diez días, de una lista de tres candidatos que las partes en conflicto le proporcionen.
+En cada uno de los Poderes del Estado funcionará una Comisión Mixta de escalafón, integrada por igual número de representantes del Titular y del Sindicato correspondiente, de conformidad con las necesidades de las mismas, quienes designarán un árbitro que decida los casos de empate. Si no hay acuerdo, la designación la hará el Tribunal Laboral Burocrático en un término que no excederá de diez días, de una lista de tres candidatos que las partes en conflicto le proporcionen.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
@@ -733,9 +757,13 @@ Todos los Trabajadores de base tienen derecho a formar parte del Sindicato.
 
 Para que se constituya un Sindicato, se requiere que lo formen veinte trabajadores o más, y que no exista otra agrupación sindical que cuente con mayor número de miembros.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 83o.
 
-El Sindicato será registrado ante el Tribunal de Conciliación y Arbitraje del Estado, para cuyo efecto remitirán a éste por duplicado los siguientes documentos.
+El Sindicato será registrado ante el Tribunal Laboral Burocrático, para cuyo efecto remitirán a éste por duplicado los siguientes documentos.
 
 I.- Acta de la Asamblea constitutiva o copia de ella, autorizada por la Dirección de la Asociación.
 
@@ -743,9 +771,21 @@ II.- Estatutos del Sindicato.
 
 III.- Una lista de los miembros que lo integran, con expresión del nombre de cada uno, estado civil, edad, empleo, labor que desempeñan y sueldo que perciben.
 
-IV.- Acta de la Sesión en que se haya designado la Directiva o copia autorizada de aquella.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+IV.- Acta de la Sesión en que se haya designado la Directiva o copia autorizada de aquella. El Tribunal Laboral Burocrático al recibir la solicitud del registro, comprobará por los medios que estime más prácticos y eficaces, la no existencia de otra asociación sindical y que la peticionaria cuenta con la mayoría de los trabajadores y procederá, en su caso, al registro.
 
 El Tribunal de Conciliación y Arbitraje al recibir la solicitud del registro, comprobará por los medios que estime más prácticos y eficaces, la no existencia de otra asociación sindical y que la peticionaria cuenta con la mayoría de los trabajadores y procederá, en su caso, al registro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 84.
+
+El Registro de los Sindicatos se cancelará en caso de disolución o cuando aparecieran diversas agrupaciones que fueran mayoritarias; la solicitud de cancelación podrá hacerse por la parte interesada y el Tribunal Laboral Burocrático, en los casos de conflicto entre las agrupaciones que pretenden ser mayoritarias, ordenará desde luego el recuento correspondiente y resolverá de plano el asunto.
 
 ###### Artículo 84o.
 
@@ -759,13 +799,29 @@ Los Trabajadores que por su conducta o falta de solidaridad fueren expulsados de
 
 Son obligaciones del Sindicato:
 
-I.- Proporcionar los informes que en el cumplimiento de ésta Ley solicite el Tribunal de Conciliación y Arbitraje.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Comunicar al Tribunal de Conciliación y Arbitraje, dentro de los diez días siguientes a cada elección, los cambios que ocurriesen en su Directiva o en sus Comités, las altas de sus Miembros y las modificaciones que sufran los Estatutos.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-III.- Facilitar la labor del Tribunal de Conciliación y Arbitraje, en los juicios que se ventilen ante el mismo, ya sea del Sindicato o de sus Miembros, proporcionándole la cooperación que le solicite.
+I.- Proporcionar los informes que en el cumplimiento de ésta Ley solicite el Tribunal Laboral Burocrático.
 
-IV.- Patrocinar y representar a sus Miembros ante cualquier autoridad y ante el Tribunal de Conciliación y Arbitraje.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+II.- Comunicar al Tribunal Laboral Burocrático, dentro de los diez días siguientes a cada elección, los cambios que ocurriesen en su Directiva o en sus Comités, las altas de sus Miembros y las modificaciones que sufran los Estatutos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+III.- Facilitar la labor del Tribunal Laboral Burocrático, en los juicios que se ventilen ante el mismo, ya sea del Sindicato o de sus Miembros, proporcionándole la cooperación que le solicite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+IV.- Patrocinar y representar a sus Miembros ante cualquier autoridad y ante el Tribunal Laboral Burocrático.
 
 ###### Artículo 87o.
 
@@ -795,11 +851,13 @@ II.- Porque dejen de reunir los requisitos señalados en el Artículo 82 de esta
 
 III.- Por transcurrir el tiempo fijado en los Estatutos.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 91º.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-Todos los conflictos que surjan entre las Dependencias y Entidades Administrativas con sus trabajadores, serán resueltos por el Tribunal de Conciliación y Arbitraje.
+###### Artículo 91o.
+
+Todos los conflictos que surjan entre las Dependencias y Entidades Administrativas con sus trabajadores, serán resueltos por el Tribunal Laboral Burocrático.
 
 ###### Artículo 92o.
 
@@ -845,9 +903,13 @@ VII.- Las demás reglas que fueren convenientes para obtener mayor seguridad y e
 
 VIII.- Permisos y licencias.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 98o.
 
-El Reglamento de condiciones generales de trabajo surtirá sus efectos a partir de la fecha de su depósito en el Tribunal de Conciliación y Arbitraje. Deberá imprimirse y repartirse entre los trabajadores.
+El Reglamento de condiciones generales de trabajo surtirá sus efectos a partir de la fecha de su depósito en el Tribunal Laboral Burocrático. Deberá imprimirse y repartirse entre los trabajadores.
 
 ## TITULO QUINTO. DE LOS RIESGOS DE TRABAJO Y DE LAS ENFERMEDADES NO PROFESIONALES
 
@@ -875,9 +937,9 @@ En los casos previstos en las Fracciones anteriores, si al vencer las licencias 
 
 Para los efectos de las Fracciones anteriores, los cómputos deberán hacerse por servicios continuados, cuando de existir una interrupción en la prestación de los servicios, ésta sea mayor de seis meses.
 
-### CAPITULO PRIMERO. De la ORGANIZACION del TRIBUNAL de CONCILIACION y ARBITRAJE
+### CAPITULO PRIMERO. DE LA ORGANIZACION DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 101o.
 
@@ -886,6 +948,8 @@ El Estado podrá cumplir las obligaciones que le impone éste Título, asegurand
 ## TITULO SEXTO. DE LAS PRESCRIPCIONES
 
 ### CAPITULO SEGUNDO. DE LA COMPETENCIA DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 102o.
 
@@ -919,7 +983,11 @@ I.- Las acciones de los trabajadores para reclamar indemnizaciones por incapacid
 
 II.- Las acciones de las personas que dependieron económicamente de los Trabajadores muertos por motivo de un riesgo de trabajo para reclamar la indemnización correspondiente.
 
-III.- Las acciones para ejecutar las resoluciones del Tribunal de Conciliación y Arbitraje.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+III.- Las acciones para ejecutar las resoluciones del Tribunal Laboral Burocrático.
 
 Los plazos para deducir las acciones a que se refieren las Fracciones anteriores, correrán respectivamente desde el momento en que se determine la naturaleza de la incapacidad o de la enfermedad contraída, desde la fecha de la muerte del Trabajador, o desde que sea ejecutable la resolución dictada por el Tribunal.
 
@@ -937,7 +1005,11 @@ III.- Durante el tiempo que el Trabajador se encuentre privado de su libertad, s
 
 La prescripción se interrumpe:
 
-I.- Por la sola presentación de la demanda respectiva ante el Tribunal de Conciliación y Arbitraje; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+I.- Por la sola presentación de la demanda respectiva ante el Tribunal Laboral Burocrático.
 
 II.- Si la persona a cuyo favor corre la prescripción, reconoce el derecho de aquella contra quien prescribe, por escrito, o por hechos indubitables.
 
@@ -945,83 +1017,97 @@ II.- Si la persona a cuyo favor corre la prescripción, reconoce el derecho de a
 
 Para los efectos de la prescripción los meses se regularán por el número de días que les correspondan; el primer día se contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción, sino cumpliendo el primer día hábil siguiente.
 
-## TITULO SEPTIMO. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DEL ESTADO Y DEL PROCEDIMIENTO ANTE EL MISMO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO TERCERO. DEL PROCEDIMIENTO ANTE EL TRIBUNAL DE CONCILIACION Y ARBITRAJE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 109º.
+## TITULO SEPTIMO. DEL TRIBUNAL LABORAL BUROCRATICO Y DEL PROCEDIMIENTO ANTE EL MISMO
 
-El Tribunal de Conciliación y Arbitraje del Estado de Durango, funcionará en forma colegiada y quedará integrado con un representante designado por los titulares de los Tres Poderes del Estado; un representante del Sindicato de los Trabajadores al Servicio de los Tres Poderes; y un representante Tercer Arbitro que nombrarán los representantes citados y que fungirá como Presidente del Tribunal. En este Tribunal funcionará un grupo especial de Conciliación y Arbitraje, que conocerá de los conflictos laborales que se presenten entre las Entidades Administrativas y sus trabajadores, y se integrará con el Presidente del Tribunal; un representante de las Entidades Administrativas del Estado; y un representante de los trabajadores al servicio de dichas Entidades Administrativas.
+### CAPITULO TERCERO. DEL PROCEDIMIENTO ANTE EL TRIBUNAL LABORAL BUROCRATICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 109o.
+
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 110o.
 
-Para la designación de nuevos Representantes, por vacantes, se seguirá el procedimiento indicado en el Artículo anterior.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
-Las faltas temporales del Presidente del Tribunal serán cubiertas por el Secretario General de Acuerdos, y las de los demás representantes por la persona que designe el organismo que cada uno represente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 111o.
 
-El Presidente del Tribunal durará en su cargo seis años y disfrutará de los emolumentos que le asigne el Presupuesto de Egresos correspondiente y sólo podrá ser removido por haber cometido delitos graves del orden común o federal o por violaciones a esta Ley.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
-Los Representantes de la organización de Trabajadores del Estado, podrán ser removidos libremente por quienes los designaron.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 112o.
 
-Para ser Representante del Tribunal de Conciliación y Arbitraje del Estado, se requiere:
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
-I.- Ser mexicano en pleno goce de sus derechos civiles.
-
-II.- Ser mayor de veinticinco años.
-
-III.- No haber sido condenado por delitos contra la propiedad o a sufrir pena mayor de un año de prisión por cualquier otra clase de delitos intencionales.
-
-El Presidente deberá ser Licenciado en Derecho.
-
-Los Representantes de los Trabajadores, deberán haber servido al Estado como empleados de base, por un lapso no menor de tres años anteriores a la fecha de la designación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 113o.
 
-El Tribunal contará con un Secretario General de Acuerdos.-Los Secretarios, Actuarios y el personal que sea necesario; los Secretarios, Actuarios y Empleados del Tribunal estarán sujetos a la presente Ley, pero los conflictos que se susciten con motivo de la aplicación de la misma, serán resueltos por las Autoridades locales del Trabajo.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 114o.
 
-El Tribunal nombrará, renovará o suspenderá a sus Trabajadores en los términos de esta Ley.
-
-Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Estado, consignándose en el Presupuesto de Egresos correspondiente.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
 ### CAPITULO CUARTO. DE LOS MEDIOS DE APREMIO Y DE EJECUCION DE LOS LAUDOS
 
 ###### Artículo 115o.
 
-El Tribunal de Conciliación y Arbitraje del Estado será competente para:
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
-I.- Conocer y resolver de los conflictos individuales que se susciten entre los Titulares de una Dependencia y sus Trabajadores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Conceder el registro de los Sindicatos en su caso, y dictar la cancelación de los mismos.
-
-III.- Conocer de los conflictos sindicales e intersindicales; y
-
-IV.- Efectuar el registro de las condiciones generales de trabajo.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ### CAPITULO QUINTO. DE LAS CORRECCIONES DISCIPLINARIAS y de las SANCIONES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 116o.
 
-Tan pronto reciba la primera promoción relativa a un conflicto sindical o individual el Presidente del Tribunal de Conciliación y Arbitraje citará a las partes dentro de las veinticuatro horas siguientes, a una audiencia de conciliación que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo, que las obligará como si se tratara de sentencia ejecutoriada. Si no se avienen, remitirá el expediente a la Secretaría General de Acuerdos del Tribunal para que se proceda al arbitraje, de conformidad con el procedimiento que establece éste Capítulo.
+Tan pronto reciba la primera promoción relativa a un conflicto sindical o individual el Juez instructor del Tribunal Laboral Burocrático citará a las partes dentro de las veinticuatro horas siguientes, a una audiencia de conciliación que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de sentencia, que las obligará. Si no se avienen, remitirá el expediente al Secretario de Acuerdos del Tribunal para que se proceda, de conformidad con el procedimiento que establece éste Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 117o.
 
-En el procedimiento ante el Tribunal de Conciliación y Arbitraje, no se requiere forma o solemnidad especial en la promoción o intervención de las partes.
+En el procedimiento ante el Tribunal Laboral Burocrático, no se requiere forma o solemnidad especial en la promoción o intervención de las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 118o.
 
-El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje se reducirá a: la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que se hará en igual forma; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes y se pronunciará resolución, salvo cuando a juicio del propio Tribunal, se requiere la práctica de otras diligencias en cuyo caso se ordenará que se lleven a cabo, y una vez desahogadas, se dictará laudo.
+El procedimiento para resolver las controversias que se sometan al Tribunal Laboral Burocrático se reducirá a: la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que se hará en igual forma; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes y se pronunciará resolución, salvo cuando a juicio del propio Tribunal, se requiere la práctica de otras diligencias en cuyo caso se ordenará que se lleven a cabo, y una vez desahogadas, se dictará sentencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 119o.
 
-Las audiencias serán presididas por el Presidente del Tribunal con asistencia de los Representantes y del Secretario que las certificará, durante la tramitación de los conflictos individuales bastará la presencia del Presidente y del Secretario General de Acuerdos, quién llevará adelante la audiencia hasta la terminación. Si están presentes uno o todos los Representantes, las resoluciones se tomarán por mayoría de votos.
+Las audiencias serán presididas por el Juez instructor del Tribunal con asistencia del Secretario que las certificará.
 
-Si no están presentes ninguno de los Representantes el Presidente y el Secretario General de Acuerdos, dictarán las resoluciones que procedan, salvo que se trate de cuestiones que versen sobre personalidad, competencia o admisión de pruebas; en este caso, el Presidente acordará se cite a los Representantes a una audiencia especial en la que se tomará el acuerdo que proceda. Estas resoluciones serán revisadas por el Tribunal a petición de parte, la que deberá formular por escrito sus objeciones dentro de las veinticuatro horas siguientes a su notificación.
+El Juez instructor y el Secretario de Acuerdos, dictarán las resoluciones que procedan.
 
 ###### Artículo 120o.
 
@@ -1061,9 +1147,13 @@ Lar (sic) partes están obligadas a aportar todos los elementos probatorios de q
 
 Las partes podrán interrogar libremente a las personas que intervengan en la audiencia de pruebas, alegatos y resoluciones, sobre los hechos controvertidos, hacerse mutuamente las preguntas que juzguen convenientes y examinar los documentos y objetos que se exhiban.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 126o.
 
-El Presidente, el Secretario de Acuerdos y los Representantes, podrán también interrogar libremente a las personas a que se refiere el Artículo anterior, carear a las partes entre si o con los testigos, y a éstos unos con otros.
+El Juez instructor podrá también interrogar libremente a las personas a que se refiere el Artículo anterior, carear a las partes entre sí o con los testigos, y a éstos unos con otros.
 
 ###### Artículo 127o.
 
@@ -1087,13 +1177,19 @@ Las partes podrán comparecer acompañados de los asesores que a sus intereses c
 
 Cuando el demandado no conteste la demanda durante el término concedido se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 132o.
 
-El Tribunal apreciará en conciencia las pruebas que se le presenten sin sujetarse a las reglas fijadas para su estimación, y resolverá los asuntos a verdad sabida y buena fé guardada, debiendo expresar en un laudo, las consideraciones en que fundó su decisión.
+El Tribunal apreciará las pruebas que se le presenten y resolverá los asuntos debiendo expresar en la sentencia, las consideraciones en que fundó y motivo su decisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 133o.
 
-Antes de pronunciarse el laudo los Representantes podrán solicitar mayor información para mejor proveer, en cuyo caso el Tribunal acordará la práctica de las diligencias necesarias.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
 ###### Artículo 134o.
 
@@ -1109,9 +1205,13 @@ No operará la caducidad, aún cuando el término transcurra, cuando fuere neces
 
 Cuando se solicite que se tenga por desistido el actor de las acciones intentadas, el Tribunal citará a las partes a una audiencia en la que después de oír y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia del desistimiento, dictará resolución.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 137o.
 
-La demanda, la citación para absolver posiciones, la solicitud de caducidad, el laudo y los acuerdos con apercibimiento se notificarán personalmente a las partes; las demás notificaciones se harán por estrados.
+La demanda, la citación para absolver posiciones, la solicitud de caducidad, la sentencia y los acuerdos con apercibimiento se notificarán personalmente a las partes; las demás notificaciones se harán por estrados.
 
 Todos los términos correrán a partir del día hábil siguiente a aquel en que se haga el emplazamiento, citación o notificación y se contará en ellos el día del vencimiento.
 
@@ -1119,23 +1219,39 @@ Todos los términos correrán a partir del día hábil siguiente a aquel en que 
 
 El Tribunal sancionará las faltas de respeto que se cometan, ya sea por escrito o en cualquier otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de cincuenta pesos tratándose de funcionarios.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 139o.
 
-El Tribunal de Conciliación y Arbitraje no podrá condenar al pago de gastos y costas en los juicios que ante él se ventilen.
+El Tribunal Laboral Burocrático no podrá condenar al pago de gastos y costos en los juicios que ante él se ventilen.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 140o.
 
-Los miembros del Tribunal de Conciliación y Arbitraje no podrán ser recusados.
+Los miembros del Tribunal Laboral Burocrático podrán ser recusados en términos de los (sic) que disponga la Ley Orgánica del Poder Judicial en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 141o.
 
-Las resoluciones dictadas por el Tribunal de Conciliación y Arbitraje, serán inapelables y deberán ser cumplidas desde luego por las Autoridades corrspondientes (sic).
+Las resoluciones dictadas por el Tribunal Laboral Burocrático, serán inapelables y deberán ser cumplidas desde luego por las autoridades correspondientes.
 
-Pronunciado el laudo, el Tribunal lo notificará a las partes.
+Pronunciada la sentencia, el Tribunal la notificará a las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 142o.
 
-Las Autoridades del Estado están obligadas a prestar auxilio al Tribunal de Conciliación y Arbitraje para hacer respetar sus resoluciones cuando fueren requeridas para ello.
+Las Autoridades del Estado están obligadas a prestar auxilio al Tribunal Laboral Burocrático para hacer respetar sus resoluciones cuando fueren requeridas para ello.
 
 ###### Artículo 143o.
 
@@ -1145,17 +1261,25 @@ El Tribunal, para hacer cumplir sus resoluciones podrá imponer multas hasta de 
 
 Las multas se harán efectivas por la Secretaría de Finanzas del Estado, para lo cual el Tribunal girará el oficio correspondiente. Dicha Secretaría informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 145o.
 
-El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos, y, a ese efecto, dictará todas las medidas en la forma y términos que a su juicio sean procedentes.
+El Tribunal Laboral Burocrático tiene la obligación de proveer a la eficaz e inmediata ejecución de las sentencias, y, a ese efecto, dictará todas las medidas en la forma y términos que a su juicio sean procedentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 146o.
 
-Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará al actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola de que de no hacerlo, se procederá conforme a lo dispuesto en el Capítulo anterior.
+Cuando se pida la ejecución de la sentencia, el Tribunal despachará auto de ejecución y omisionará al actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola de que de no hacerlo, se procederá conforme a lo dispuesto en el Capítulo anterior.
 
 ###### Artículo 147o.
 
-El Tribunal de Conciliación y Arbitraje impondrá correcciones disciplinarias:
+El Tribunal Laboral Burocrático impondrá correcciones disciplinarias:
 
 I.- A los particulares que faltaren al respeto y al orden debidos, durante las actuaciones del Tribunal; y
 
@@ -1179,7 +1303,11 @@ Las correcciones disciplinarias se impondrán oyendo al interesado y tomando en 
 
 Las infracciones a la presente Ley que no tengan establecida sanción especial, se castigarán con multa hasta de mil pesos.
 
-Las sanciones serán impuestas por el Tribunal de Arbitraje.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+Las sanciones serán impuestas por el Tribunal Laboral Burocrático.
 
 ## TRANSITORIOS
 
@@ -1234,3 +1362,21 @@ TERCERO.- Los trabajadores del magisterio, por cada cinco años de servicios efe
 CUARTO.- Cualquier mención del Tribunal de Conciliación y Arbitraje en el presente decreto se entenderá como Tribunal Laboral Burocrático.
 
 QUINTO.- Se derogan todas las disposiciones legales en lo que se opongan a la presente iniciativa de decreto.
+
+P.O. 22 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el primero (01) de enero del año del año (sic) (2014)
+
+SEGUNDO.- Se transfieren todos los recursos humanos, financieros y materiales, además de los expedientes en trámite del Tribunal de Conciliación y Arbitraje al Tribunal Laboral Burocrático del Poder Judicial del Estado. La entrega y recepción de los bienes e inventarios del Tribunal de Conciliación y Arbitraje al Poder Judicial del Estado, se realizará en un plazo máximo de seis (6) meses contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- En un plazo no mayor a un año a partir de la entrada en vigor del presente decreto, se emitirá una Ley en materia Procesal Laboral.
+
+CUARTO.- El Consejo de la Judicatura establecerá el procedimiento, reglas, plazos y condiciones para la integración y puesta en funcionamiento del Tribunal Laboral Burocrático, de conformidad con la normativa aplicable; dictando las medidas necesarias a fin de que los jueces que habrán de integrar al Tribunal, sean designados a más tardar el día 31 (Treinta y uno) de enero del año 2014, a fin de estar en condiciones de asumir su cargo para entrar funciones a partir de las 00:01 (cero horas con un minuto) del primero (01) de febrero del año 2014.
+
+QUINTO.- En los asuntos en trámite interpuestos ante el Tribunal de Conciliación y Arbitraje hasta las 24:00 (veinticuatro) horas del día 31 (treinta y uno) de enero del 2014, se seguirán aplicando las disposiciones normativas contenidas en la Ley de Trabajadores al Servicio de los Tres Poderes del Estado de Durango, vigentes antes de la entrada en vigor del presente decreto. Asimismo, hasta que se resuelvan los asuntos en trámite, a que refiere el presente artículo, seguirá funcionando el Tribunal de Conciliación y Arbitraje.
+
+El Tribunal Superior de Justicia y el Gobierno del Estado, en el ámbito de sus respectivas competencias, dictarán las medidas necesarias para que subsista la estructura del Tribunal de Conciliación y Arbitraje, hasta en tanto se resuelvan los asuntos en trámite a que se refiere el presente artículo.
+
+SEXTO.- Las menciones que las diversas disposiciones legales hagan del Tribunal de Conciliación y Arbitraje, se entenderán referidas al Tribunal Laboral Burocrático.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
