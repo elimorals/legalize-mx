@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2013-03-14"
+last_updated: "2013-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
 Con fecha 29 de junio del presente año, el C. Lic. J. Apolonio Betancourt Ruíz, Magistrado Presidente del Tribunal Superior de Justicia del Estado de Durango, envió a esta H. LXIV Legislatura del Estado, Iniciativa de Decreto. Que contiene nueva LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Justicia integrada por los CC. Diputados: José Luis López Ibáñez, Rosauro Meza Sifuentes, Servando Marrufo Fernández, Alma Marina Vitela Rodríguez y J. Salvador Vázquez Hinojosa; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S l D E R A N D O S.
+C O N S I D E R A N D O S.
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -61,17 +63,31 @@ III. El Tribunal para Menores Infractores del Poder Judicial del Estado;
 
 IV. El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Los Juzgados de Primera Instancia y Auxiliares; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+V. Los Juzgados de Primera Instancia y Auxiliares; el Tribunal de Control y Juicio Oral, Juzgados de Ejecución y el Tribunal Laboral Burocrático;
 
-VI. Los juzgados Municipales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+VI. El Centro de Justicia Alternativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+VII. Los Juzgados Municipales
 
 En el Poder Judicial habrá un Consejo de la Judicatura, el cual es un órgano desconcentrado del Tribunal Superior de Justicia y tendrá las atribuciones que le señalan la Constitución Política del Estado Libre y Soberano de Durango y esta ley.
 
-El Poder Judicial del Estado contará con un Centro Estatal de Justicia Alternativa, como órgano con autonomía técnica, especializado para conocer e intervenir en la solución de conflictos a través de procedimientos alternativos, en las materias civil, familiar, mercantil y penal que le planteen los particulares, le remita el órgano jurisdiccional u otra institución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+El Poder Judicial del Estado contará con un Centro Estatal de Justicia Alternativa, como órgano con autonomía técnica, especializado para conocer e intervenir en la solución de conflictos a través de procedimientos alternativos, en las materias civil, familiar, mercantil, penal y en conciliación para la materia laboral burocrática.
 
 ###### ARTÍCULO 2.
 
@@ -931,9 +947,59 @@ III. Librar excitativas de justicia a los juzgados municipales de su Distrito, y
 
 IV. De los delitos contra la salud a que se refieren los artículos 475 y 476 de la Ley General de Salud.
 
-#### SECCIÓN SÉPTIMA. DE LOS JUZGADOS MUNICIPALES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN OCTAVA. DEL PERSONAL DE LOS JUZGADOS
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN SEXTA BIS. DEL TRIBUNAL LABORAL BUROCRÁTICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+Artículo 55 A. El Tribunal Laboral Burocrático será uniinstancial, se integrará por tres jueces que serán designados por el Consejo de la Judicatura, en términos de lo dispuesto en los artículos 121 de la Constitución Política del Estado y 35 de esta Ley.
+
+Agotado el procedimiento de selección de los jueces del Tribual Laboral Burocrático, previo al nombramiento, el Consejo de la Judicatura escuchará la opinión de los poderes ejecutivo, legislativo así como a los representantes de los trabajadores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+Artículo 55 B. El procedimiento se substanciará por uno de los jueces. Uno de sus integrantes fungirá como presidente de forma aleatoria según corresponda el turno de asuntos. Las resoluciones del Tribunal Laboral Burocrático se emitirán por unanimidad o por mayoría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+Artículo 53 (SIC) C. El Tribunal Laboral Burocrático será competente para:
+
+I.- Conocer de los conflictos que se susciten entre:
+
+a) Los trabajadores al servicio del Estado y de los Municipios, con motivo de las relaciones laborales.
+
+b) De los trabajadores entre sí;
+
+c) De los trabajadores con los sindicatos en los que se encuentren afiliados; y
+
+d) Sindicatos.
+
+II.- Conceder el registro de los Sindicatos en su caso, y dictar la cancelación de los mismos.
+
+III.- Efectuar el registro de las condiciones generales de trabajo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+Artículo 53 (SIC) D. El personal del Tribunal Laboral Burocrático se integrará, además, con el número de secretarios, actuarios, oficiales judiciales y especialistas conciliadores adscritos al Centro Estatal de Justicia Alternativa que determine el Consejo de la Judicatura.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
+Artículo 53 (SIC) E. Son obligaciones y facultades de los Jueces del Tribunal Laboral Burocrático las establecidas en el artículo 41 de la presente Ley, a excepción de la señalada en la fracción IX.
+
+#### SECCIÓN SÉPTIMA. DE LOS JUZGADOS MUNICIPALES
 
 ###### ARTÍCULO 56.
 
@@ -963,7 +1029,7 @@ Los jueces municipales podrán consultar acerca de la interpretación de la ley 
 
 En los lugares donde hubiere dos o más juzgados municipales, cada Juez conocerá por turnos semanales de los asuntos de su competencia.
 
-#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+#### SECCIÓN OCTAVA. DEL PERSONAL DE LOS JUZGADOS
 
 ###### ARTÍCULO 61.
 
@@ -1067,7 +1133,7 @@ Para ser Jefe del Departamento de Actuaría de Ejecución, se requiere reunir lo
 
 ### CAPÍTULO I. DEL CONSEJO DE LA JUDICATURA
 
-#### SECCIÓN SEGUNDA. DE LAS COMISIONES
+#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
 ###### ARTÍCULO 71.
 
@@ -1141,7 +1207,7 @@ El Pleno del Consejo calificará los impedimentos de sus integrantes que hubiera
 
 El Consejero que disintiere de la mayoría, podrá formular por escrito su voto particular dentro del término de cinco días hábiles siguientes a la resolución, el cual se insertará en el acta respectiva.
 
-#### SECCIÓN TERCERA. DE SUS FACULTADES Y OBLIGACIONES
+#### SECCIÓN SEGUNDA. DE LAS COMISIONES
 
 ###### ARTÍCULO 83.
 
@@ -1165,7 +1231,7 @@ Las comisiones informarán mensualmente al Pleno del Consejo de la Judicatura so
 
 En los casos de que las comisiones no puedan resolver un asunto de su competencia, su conocimiento y fallo pasarán al Pleno del Consejo de la Judicatura.
 
-#### SECCIÓN CUARTA. DE SU PRESIDENTE
+#### SECCIÓN TERCERA. DE SUS FACULTADES Y OBLIGACIONES
 
 ###### ARTÍCULO 87.
 
@@ -1287,7 +1353,7 @@ Las comisiones tendrán facultades decisorias o consultivas, según lo determine
 
 El Pleno del Consejo de la Judicatura designará, a propuesta de su Presidente, a los secretarios técnicos de las comisiones, en tanto que los consejeros presidentes de las comisiones propondrán al personal subalterno que determine el presupuesto.
 
-#### SECCIÓN QUINTA. DEL SECRETARIADO EJECUTIVO
+#### SECCIÓN CUARTA. DE SU PRESIDENTE
 
 ###### ARTÍCULO 90.
 
@@ -1339,7 +1405,7 @@ XX. Proponer al Pleno del Consejo la elaboración del Plan Trianual de Desarroll
 
 XXI. Las demás que determinen las leyes, los reglamentos interiores y acuerdos generales.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DEL SECRETARIADO EJECUTIVO
 
 ###### ARTÍCULO 91.
 
@@ -1363,7 +1429,7 @@ Los secretarios técnicos deberán tener título profesional expedido en alguna 
 
 ### CAPÍTULO II. DE LOS ÓRGANOS AUXILIARES DEL CONSEJO DE LA JUDICATURA
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 93.
 
@@ -1411,9 +1477,7 @@ III. Poseer grado de Maestro o Doctor en Derecho, expedido por institución lega
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad, de más de un año de prisión, pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama, en el concepto público, le inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-#### SECCIÓN TERCERA. DE LA UNIVERSIDAD JUDICIAL
-
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 94.
 
@@ -1461,7 +1525,9 @@ Para la erogación relacionada con los destinos a que se refiere esta disposici�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2013)</small>
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE VISITADURÍA JUDICIAL
+#### SECCIÓN TERCERA. DE LA UNIVERSIDAD JUDICIAL
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 98.
 
@@ -1567,7 +1633,7 @@ El mismo tendrá a su cargo la divulgación de los temas relacionados con la fun
 
 La Universidad Judicial contará un centro de información dependiente de la Secretaría Administrativa que tendrá por finalidad, proporcionar el servicio de consulta en los términos del reglamento respectivo; para lo cual, realizará acciones de adquisición, preservación, acopio y difusión de sus acervos bibliográfico, videográfico, fotográfico y digital.
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE ARCHIVO
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE VISITADURÍA JUDICIAL
 
 ###### ARTÍCULO 104.
 
@@ -1609,7 +1675,7 @@ El visitador entregará copia del acta al titular del órgano visitado; y el ori
 
 El Consejo de la Judicatura, su Presidente o el titular de la Comisión de Disciplina podrán ordenar al Director de la Visitaduría Judicial, la celebración de visitas extraordinarias de inspección o la integración de comités de investigación, siempre que existan elementos que hagan presumir irregularidades cometidas por un Juez o demás personal que forma parte de la carrera judicial.
 
-#### SECCIÓN SEXTA. DE LA DIRECCIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y DE COMUNICACIÓN SOCIAL
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE ARCHIVO
 
 ###### ARTÍCULO 109.
 
@@ -1643,7 +1709,7 @@ El Director del Archivo del Poder Judicial del Estado o quien designe el Consejo
 
 Para los efectos previstos en el penúltimo párrafo del artículo 130 bis del Código Penal del Estado Libre y Soberano de Durango, el Director del Archivo del Poder Judicial del Estado, deberá llevar un registro donde deje constancia de aquellos a los que se les han cancelado los antecedentes penales.
 
-#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE INFORMÁTICA
+#### SECCIÓN SEXTA. DE LA DIRECCIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y DE COMUNICACIÓN SOCIAL
 
 ###### ARTÍCULO 113.
 
@@ -1655,7 +1721,7 @@ La Dirección contará con una Unidad de Transparencia y Acceso a la Informació
 
 Cada Unidad estará a cargo de un jefe, quien será un profesional en comunicación o ramas afines, que tenga una experiencia mínima de cinco años de ejercicio profesional, goce de buena reputación y no haya sido condenado por delito intencional con pena mayor a un año; así como con el personal que el presupuesto permita.
 
-#### SECCIÓN OCTAVA.. DE LA DIRECCIÓN DE AUDITORÍA INTERNA
+#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE INFORMÁTICA
 
 ###### ARTÍCULO 115.
 
@@ -1691,7 +1757,7 @@ XIII. Diseñar, elaborar y mantener actualizada una página de Internet y los si
 
 Para hacer eficiente el servicio de informática, el Consejo de la Judicatura autorizará las oficinas que fueren necesarias dependientes de la Dirección de Informática.
 
-#### SECCIÓN NOVENA. DE LA DIRECCIÓN DE ESTADÍSTICA
+#### SECCIÓN OCTAVA.. DE LA DIRECCIÓN DE AUDITORÍA INTERNA
 
 ###### ARTÍCULO 117.
 
@@ -1715,9 +1781,7 @@ VII. Las demás que le señale el Consejo de la Judicatura.
 
 Para la consecución de sus objetivos, la Dirección de Auditoría Interna contará con un titular y con el apoyo de auditores supervisados por él, así como el personal fijo o temporal, que conforme a las circunstancias se requiera.
 
-#### SECCIÓN DÉCIMA. DEL INSTITUTO DE DEFENSORÍA PÚBLICA
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+#### SECCIÓN NOVENA. DE LA DIRECCIÓN DE ESTADÍSTICA
 
 ###### ARTÍCULO 119.
 
@@ -1749,7 +1813,9 @@ X. Las demás que el Consejo de la Judicatura le encomiende.
 
 La estadística que se genere, deberá hacerse del conocimiento tanto del Consejo de la Judicatura como del Tribunal Superior de Justicia, con el fin de que dichos órganos tomen las decisiones pertinentes para una eficaz impartición de justicia.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LA DIRECCIÓN ADMINISTRATIVA DE JUZGADOS DE CONTROL, DE TRIBUNAL DE JUICIO ORAL Y DE JUZGADOS DE EJECUCIÓN DE SENTENCIA
+#### SECCIÓN DÉCIMA. DEL INSTITUTO DE DEFENSORÍA PÚBLICA
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 121.
 
@@ -1759,7 +1825,7 @@ El Instituto de Defensoría Pública, es el órgano encargado de prestar el serv
 
 El funcionamiento, facultades y obligaciones del Instituto, se regirán por la Ley del Instituto de Defensoría Publica. Sus funciones son de orden público, sus servicios serán gratuitos y se prestarán bajo los principios de probidad, honradez, profesionalismo, calidad y de manera obligatoria y las desarrollará en el territorio del Estado.
 
-#### SECCIÓN PRIMERA. DEL PROCEDIMIENTO DE SU ELECCIÓN
+#### SECCIÓN DÉCIMA PRIMERA. DE LA DIRECCIÓN ADMINISTRATIVA DE JUZGADOS DE CONTROL, DE TRIBUNAL DE JUICIO ORAL Y DE JUZGADOS DE EJECUCIÓN DE SENTENCIA
 
 ###### ARTÍCULO 123.
 
@@ -2651,7 +2717,7 @@ XIX. Las demás que señalen las leyes, el reglamento interno o aquéllas que se
 
 ### CAPÍTULO III. DE LOS MAGISTRADOS ELECTORALES
 
-#### SECCIÓN SEGUNDA. DE SUS ATRIBUCIONES
+#### SECCIÓN PRIMERA. DEL PROCEDIMIENTO DE SU ELECCIÓN
 
 ###### ARTÍCULO 220.
 
@@ -2669,7 +2735,7 @@ En caso de que no haya impugnación o bien se ratifique el dictamen correspondie
 
 Al término del primer mandato de los magistrados Electorales, ya sea por un periodo completo o de sustitución, el Congreso del Estado podrá ratificar o no por otro periodo, previa consulta al Consejo de la Judicatura y el Pleno del Tribunal Superior de Justicia del Poder Judicial del Estado; quienes deberán emitir dicha opinión, conforme a los procedimientos vigentes en la materia.
 
-#### SECCIÓN PRIMERA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO
+#### SECCIÓN SEGUNDA. DE SUS ATRIBUCIONES
 
 ###### ARTÍCULO 221.
 
@@ -2747,7 +2813,7 @@ XII. Las demás que le señalen las leyes.
 
 ### CAPÍTULO V. DE LA COMISIÓN DE ADMINISTRACIÓN
 
-#### SECCIÓN SEGUNDA. DEL PRESIDENTE
+#### SECCIÓN PRIMERA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO
 
 ###### ARTÍCULO 224.
 
@@ -2805,7 +2871,7 @@ XIV. Elaborar el informe de Cuenta Pública relativo al ejercicio fiscal del añ
 
 XIV. Desempeñar cualquier otra función que la ley o el reglamento interno del Tribunal Electoral del Poder Judicial del Estado le encomienden.
 
-#### SECCIÓN TERCERA. DE LOS ÓRGANOS AUXILIARES
+#### SECCIÓN SEGUNDA. DEL PRESIDENTE
 
 ###### ARTÍCULO 228.
 
@@ -2826,6 +2892,8 @@ VI. Informar al Consejo de la Judicatura de las faltas de su representante ante 
 VII. Proponer para su nombramiento a la Comisión de Administración, a los titulares de sus órganos auxiliares, y
 
 VIII. Las demás que les señalen la ley, el reglamento interno y los acuerdos generales.
+
+#### SECCIÓN TERCERA. DE LOS ÓRGANOS AUXILIARES
 
 ###### ARTÍCULO 229.
 
@@ -3515,6 +3583,12 @@ SEGUNDO.- El Juez de Ejecución tendrá facultades para aplicar el trámite prev
 
 TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
 
+P.O. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
 P.O. 15 DE JUNIO DE 2012.
 
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -3532,12 +3606,6 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El actual Presidente del Tribunal Electoral del Poder Judicial del Estado de Durango, concluirá su periodo el 30 de agosto del 2012. A más tardar el 31 de agosto de 2012, el Pleno del Tribunal Electoral deberá elegir al nuevo Presidente.
 
 TERCERO.-Se (sic) derogan todas las disposiciones que se opongan al presente decreto.
-
-P.O. 30 DE AGOSTO DE 2012.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
-
-SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
 
 P.O. 3 DE SEPTIEMBRE DE 2012.
 
@@ -3568,3 +3636,21 @@ CUARTO. El Consejo de la Judicatura propondrá al Pleno del Tribunal Superior de
 QUINTO. En tanto se autorice la modificación del registro del Instituto de Especialización Judicial a Universidad Judicial, por la Autoridad educativa correspondiente, aquel continuará ejerciendo las funciones y obligaciones que actualmente tiene encomendadas
 
 SEXTO. Se respetarán los derechos laborales de los servidores públicos del Instituto de Especialización Judicial, mismos que se incorporarán a las funciones dentro de la Universidad Judicial que sean compatibles con su perfil académico.
+
+P.O. 22 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el primero (01) de enero del año del año (sic) (2014)
+
+SEGUNDO.- Se transfieren todos los recursos humanos, financieros y materiales, además de los expedientes en trámite del Tribunal de Conciliación y Arbitraje al Tribunal Laboral Burocrático del Poder Judicial del Estado. La entrega y recepción de los bienes e inventarios del Tribunal de Conciliación y Arbitraje al Poder Judicial del Estado, se realizará en un plazo máximo de seis (6) meses contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- En un plazo no mayor a un año a partir de la entrada en vigor del presente decreto, se emitirá una Ley en materia Procesal Laboral.
+
+CUARTO.- El Consejo de la Judicatura establecerá el procedimiento, reglas, plazos y condiciones para la integración y puesta en funcionamiento del Tribunal Laboral Burocrático, de conformidad con la normativa aplicable; dictando las medidas necesarias a fin de que los jueces que habrán de integrar al Tribunal, sean designados a más tardar el día 31 (Treinta y uno) de enero del año 2014, a fin de estar en condiciones de asumir su cargo para entrar funciones a partir de las 00:01 (cero horas con un minuto) del primero (01) de febrero del año 2014.
+
+QUINTO.- En los asuntos en trámite interpuestos ante el Tribunal de Conciliación y Arbitraje hasta las 24:00 (veinticuatro) horas del día 31 (treinta y uno) de enero del 2014, se seguirán aplicando las disposiciones normativas contenidas en la Ley de Trabajadores al Servicio de los Tres Poderes del Estado de Durango, vigentes antes de la entrada en vigor del presente decreto. Asimismo, hasta que se resuelvan los asuntos en trámite, a que refiere el presente artículo, seguirá funcionando el Tribunal de Conciliación y Arbitraje.
+
+El Tribunal Superior de Justicia y el Gobierno del Estado, en el ámbito de sus respectivas competencias, dictarán las medidas necesarias para que subsista la estructura del Tribunal de Conciliación y Arbitraje, hasta en tanto se resuelvan los asuntos en trámite a que se refiere el presente artículo.
+
+SEXTO.- Las menciones que las diversas disposiciones legales hagan del Tribunal de Conciliación y Arbitraje, se entenderán referidas al Tribunal Laboral Burocrático.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
