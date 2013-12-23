@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-la-contraloria-del-9022
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-05"
-last_updated: "2012-11-05"
+last_updated: "2013-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO EJECUTIVO DEL ESTADO POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA, PUBLICADO EN EL P.O. EL 23 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICAD A EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 5 de noviembre de 2012.
 
@@ -1324,3 +1326,15 @@ QUINTO.- Las referencias que se hacen y las atribuciones que se otorgan en las d
 SEXTO.- Los recursos humanos, financieros y materiales, asignados a las unidades administrativas o áreas que desaparecen o se modifican, serán transferidos a las unidades administrativas que correspondan, en los términos del presente Reglamento, y la Coordinación General Administrativa efectuará las acciones necesarias para tal fin, de conformidad con las disposiciones aplicables.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a seis de agosto de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- La Secretaria de la Contraloría.- C. IRMA PATRICIA LEAL ISLAS.- Rúbrica.
+
+P.O. 23 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Contraloría, publicado en el Periódico Oficial del Estado el día cinco de noviembre de dos mil doce.
+
+TERCERO.- Se dejan sin efecto las disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Las referencias que se hacen y las atribuciones que se otorgan en las disposiciones con relación a las unidades administrativas que cambian de denominación por virtud del presente Reglamento, se entenderán hechas o conferidas a las que correspondan, conforme a lo establecido en el presente Reglamento.
+
+QUINTO.- Dentro de los sesenta días siguientes a la publicación del presente decreto, las unidades administrativas podrán llevar a cabo la transferencia de los asuntos a su cargo a las que las absorben.
