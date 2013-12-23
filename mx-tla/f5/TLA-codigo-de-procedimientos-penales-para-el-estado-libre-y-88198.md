@@ -4,7 +4,7 @@ identifier: "TLA-codigo-de-procedimientos-penales-para-el-estado-libre-y-88198"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-30"
-last_updated: "2013-12-05"
+last_updated: "2013-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2013.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 30 de mayo de 2012.
 
@@ -6233,11 +6233,15 @@ Cuando el Juez tenga conocimiento, por informe fundado, de que desaparecieron la
 
 Artículo Primero. Inicio de Vigencia.
 
-El presente Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala y entrará en vigor el día treinta y uno de enero del año dos mil catorce.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2013)</small>
+
+El presente Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala y entrará en vigor el treinta y uno de diciembre del año dos mil catorce.
 
 Con base en la gradualidad contemplada en el Artículo Segundo Transitorio del Decreto de reformas y adiciones a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el dieciocho de junio del año dos mil ocho, el presente Código se aplicará de manera gradual y progresiva, bajo el criterio de delitos en bloques y distritos judiciales conforme a lo siguiente:
 
-El día treinta y uno de enero de dos mil catorce iniciará su aplicación en el Distrito Judicial de Guridi y Alcocer y únicamente respecto de los delitos no graves. Posteriormente, el día treinta y uno de enero de dos mil quince iniciará su aplicación en el Distrito Judicial de Sánchez Piedras igualmente respecto de los delitos no graves. Finalmente, el día treinta y uno de enero de dos mil dieciséis entrará en funcionamiento el nuevo sistema de justicia penal, en ambos distritos judiciales y respecto de cualquier delito previsto y sancionado en el Código Penal para el Estado Libre y Soberano de Tlaxcala así como respecto de los delitos especiales previstos en los ordenamientos legales vigentes en el Estado de Tlaxcala.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2013)</small>
+
+El día treinta y uno de diciembre de dos mil catorce iniciará su aplicación en el distrito judicial de Guridi y Alcocer y únicamente respecto de los delitos no graves. Posteriormente, el día treinta y uno de diciembre de dos mil quince iniciará su aplicación en el distrito judicial de Sánchez Piedras igualmente respecto de los delitos no graves. Finalmente, el día dieciocho de junio de dos mil dieciséis entrará en funciones el nuevo sistema de justicia penal en ambos distritos judiciales y respecto de cualquier delito previsto y sancionado en el Código Penal para el Estado Libre y Soberano de Tlaxcala, así como respecto de los delitos especiales previstos en los ordenamientos legales vigentes en el Estado de Tlaxcala.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
 
@@ -6318,3 +6322,9 @@ P.O. 5 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor en el momento en que cobre vigencia el nuevo Código Penal y de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, en los términos del Artículo Primero Transitorio del Decreto Número 175, publicado en el Periódico Oficial del Gobierno del Estado el día 29 de mayo de 2013.
+
+P.O. 23 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
