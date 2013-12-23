@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2013-10-18"
+last_updated: "2013-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -2160,7 +2160,9 @@ I. De dictamen legislativo;
 
 II. De información;
 
-III. De control evaluatorio, conforme al artículo 93 de la Constitución;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2013)</small>
+
+III. De control evaluatorio, conforme a los (sic) artículo 26, Apartado A, párrafo cuarto, con base en indicadores de desempeño, y 93 de la Constitución;
 
 IV. De opinión;
 
@@ -2182,15 +2184,21 @@ V. Decidir la constitución e integración de subcomisiones y grupos de trabajo;
 
 VI. Realizar el análisis del informe con el que los secretarios de despacho den cuenta a la Cámara del estado que guardan sus respectivos ramos, previsto en el primer párrafo del artículo 93 de la Constitución;
 
-VII. Elaborar el acuerdo para solicitar la comparecencia de servidores públicos, invitaciones a reuniones de trabajo o encuentros, para solicitarles información, opinión o aclaración sobre asuntos que sean competencia de la comisión;
+(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2013) [N. DE E. EN SU CONTENIDO, D.O.F. 23 DE DICIEMBRE DE 2013]
 
-VIII. Formular las solicitudes de información a los titulares de las dependencias y entidades de la Administración Pública Federal, relativas a asuntos del conocimiento o dictamen de la comisión;
+VII. Realizar el análisis del informe que el Ejecutivo remite a la Comisión Permanente sobre las acciones y resultados de la ejecución del Plan Nacional de Desarrollo, previsto en el apartado A del artículo 26 de la Constitución, con base en indicadores de desempeño;
 
-IX. Emitir la aprobación de las opiniones fundadas que tengan que elaborar en términos de la normatividad aplicable, o cuando la Mesa Directiva u otras comisiones soliciten su opinión respecto de los asuntos de su competencia;
+VIII. Elaborar el acuerdo para solicitar la comparecencia de servidores públicos, invitaciones a reuniones de trabajo o encuentros, para solicitarles información, opinión o aclaración sobre asuntos que sean competencia de la comisión;
 
-X. Realizar la evaluación periódica de las políticas públicas y los programas respectivos, en lo concerniente al área de su competencia, y
+IX. Formular las solicitudes de información a los titulares de las dependencias y entidades de la Administración Pública Federal, relativas a asuntos del conocimiento o dictamen de la comisión;
 
-XI. Resolver los acuerdos o resoluciones que considere la propia comisión, relacionados con las actividades que le corresponden en los términos de la Ley, este Reglamento y los acuerdos de la Cámara, relacionados con su competencia.
+X. Emitir la aprobación de las opiniones fundadas que tengan que elaborar en términos de la normatividad aplicable, o cuando la Mesa Directiva u otras comisiones soliciten su opinión respecto de los asuntos de su competencia;
+
+XI. Realizar la evaluación periódica de las políticas públicas y los programas respectivos, en lo concerniente al área de su competencia, y
+
+> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA EN EL TEXTO ANTERIOR EN LA FRACCIÓN XI, PERO, DE LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL D.O.F. DE 23 DE DICIEMBRE DE 2013, SE RECORRIÓ EN SU NUMERACIÓN PARA SER XII.</small>
+
+XII. Resolver los acuerdos o resoluciones que considere la propia comisión, relacionados con las actividades que le corresponden en los términos de la Ley, este Reglamento y los acuerdos de la Cámara, relacionados con su competencia.
 
 ###### Artículo 159.
 
@@ -3693,3 +3701,9 @@ D.O.F. 31 DE DICIEMBRE DE 2012.
 D.O.F. 18 DE OCTUBRE DE 2013.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 2013.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las comisiones ordinarias tendrán un plazo de seis meses a partir de la fecha de la entrada en vigor del presente Decreto, para definir y consensar sus variables de desempeño.
