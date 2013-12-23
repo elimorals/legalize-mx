@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transporte-para-el-estado-de-sonora-24567"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-08"
-last_updated: "2011-03-25"
+last_updated: "2013-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 8 de marzo de 2002.
 
@@ -111,6 +111,10 @@ b).- Los Inspectores de Transporte Municipal.
 
 III.- Las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano donde se integren.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+IV. El Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora.
+
 ### CAPITULO III. DE LA COMPETENCIA ESTATAL Y MUNICIPAL
 
 ###### Artículo 8.
@@ -149,7 +153,13 @@ XIII.- Revocar las concesiones otorgadas, previa observancia del procedimiento e
 
 XIV.- Reglamentar y controlar el funcionamiento del Registro Público de Transporte del Estado, y garantizar eficazmente la publicidad de los actos relacionados con el transporte y particularmente, las concesiones, concesionarios, permisos, permisionarios, operadores y unidades del servicio de transporte público y en general los actos, resoluciones, medidas y sanciones que afecten, extingan o modifiquen los derechos y obligaciones de los actores del transporte; y
 
-XV.- Las demás que le confieran esta Ley y sus reglamentos.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XV.- Fomentar y promover la intermodalidad en el transporte público de personas, previo estudio técnico de movilidad que determine está necesidad y las ventajas para los usuarios; al establecerse interconexiones entre sistemas de transporte o esquemas de transporte público intermodal, deberán considerarse en su caso a los concesionarios existentes de las líneas o rutas involucradas, en la concesión y operación de estos sistemas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XVI.- Las demás que le confieran esta Ley y sus reglamentos.
 
 ###### Artículo 10.
 
@@ -239,7 +249,17 @@ XIII.- Proponer al Secretario, el proyecto de reglamento del Registro Público d
 
 XIV.- Expedir permisos eventuales de servicio público de transporte; y
 
-XV.- Las que asigne el Secretario y las demás que le confiera esta Ley y sus reglamentos.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XV.- Elaborar obligatoriamente los Planes Operativos de Servicio a las que habrá de apegarse la prestación del servicio público de transporte en la modalidad de pasaje urbano, incorporando en el mismo las características de sustentabilidad, confort y calidad que determine el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XVI.- Informar a los concesionarios correspondientes del Plan Operativo de Servicio y características de sustentabilidad, confort y calidad a las que deberán apegarse para la prestación del servicio público de transporte.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XVII.- Las que asigne el Secretario y las demás que le confiera esta Ley y sus reglamentos.
 
 ###### Artículo 12.
 
@@ -395,7 +415,9 @@ I.- Un proceso de planeación integral del transporte, que comprende el conjunto
 
 II.- Una estructura institucional constituida por la Secretaría de Infraestructura Urbana y Ecología, la Unidad Administrativa competente de la Secretaría y las Delegaciones Regionales de Transporte, mismos que serán los responsables de la formulación, control y evaluación del Programa Estatal de Transporte, con la participación de los ayuntamientos.
 
-III.- Una Infraestructura de apoyo conformada por los Consejos Consultivos Estatal y Municipales que, de conformidad con esta Ley, integren sus esfuerzos de acuerdos a las funciones que se le consagran en esta Ley.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+III.- Una infraestructura de apoyo conformada por el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, los Consejos Consultivos Estatal y Municipales, y las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano que, de conformidad con esta Ley, integren sus esfuerzos de acuerdos a las funciones que se le consagran en esta Ley.
 
 ###### Artículo 17.
 
@@ -408,6 +430,10 @@ II.- Los Convenios de Coordinación que se celebren entre el Ejecutivo del Estad
 ###### Artículo 18.
 
 El Programa Estatal de Transporte se sujetará a las previsiones contenidas en el Plan Estatal de Desarrollo y especificará los objetivos, prioridades y políticas que regirán el desempeño de las autoridades del transporte en la Entidad. Asimismo, contendrá las estimaciones de recursos y determinaciones sobre sus lineamientos y responsables de ejecución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+El Programa Estatal de Transporte contendrá los Planes Operativos de Servicio y las características de sustentabilidad, confort y calidad a las que habrá de apegarse la prestación del servicio público de transporte en la modalidad de pasaje urbano.
 
 ###### Artículo 19.
 
@@ -469,7 +495,7 @@ I.- La realización de los estudios e investigaciones que permitan implementar d
 
 II.- Establecimiento, modificación, ampliación o cancelación de rutas;
 
-III.- Definición de los estándares de calidad a los que se deberán ajustar los concesionarios en la prestación del servicio, tales como horarios, tiempos de espera por ruta y horario, limpieza, uso de aire acondicionado y condiciones del vehículo, entre otros;
+III.- (DEROGADA, B.O. 23 DE DICIEMBRE DE 2013)
 
 IV.- Realización de estudios técnicos en el Municipio para conocer sobre los costos del transporte, sus ingresos y tarifas de equilibrio;
 
@@ -554,6 +580,18 @@ III.- Fomentar entre sus asociados la debida capacitación y especialización, a
 IV.- Gestionar la adquisición de insumos, refacciones y demás servicios que requieran las unidades de transporte a precios preferenciales de mercado;
 
 V.- Fomentar mecanismos de ahorro e inversión que permitan la capitalización de sus asociados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+VI. Contratar Empresas Operadoras de Transporte dando aviso oportuno al Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, así como a la Dirección de Transporte del Estado de Sonora;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+VII. Contratar Empresas Operadoras de Recaudo dando aviso oportuno al Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, así como a la Dirección General de Transporte del Estado de Sonora; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+VIII. Contratar e instruir fideicomisos de administración.
 
 ###### Artículo 40.
 
@@ -1067,37 +1105,141 @@ Los permisos eventuales y emergentes se otorgarán previo el pago de los derecho
 
 ### CAPITULO II. DE LAS TARIFAS Y SU PROCEDIMIENTO
 
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 87.
 
 Tarifa es la contraprestación a cargo del usuario por el uso de los diferentes servicios públicos de transporte a que se refiere esta Ley.
 
 Las tarifas y sus reglas de aplicación se determinarán procurando que respondan siempre a un criterio técnico uniforme, igual para casos similares y diversificados de acuerdo con la zona o región donde habrán de prestarse los servicios, por la diferenciación de la situación económica y las condiciones de comodidad, seguridad e higiene en que se presta el servicio en los lugares respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 2011)</small>
+Las tarifas y sus reglas de aplicación se determinarán tomando en cuenta los Planes Operativos de Servicio correspondiente y los lineamientos y normas técnicas de calidad emitidas por el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, para garantizar la propia sustentabilidad del servicio.
+
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 88.
 
-El Ejecutivo del Estado autorizará las tarifas que correspondan al servicio público de transporte, debiendo establecer tarifas especiales para estudiantes, personas con discapacidad y adultos mayores que utilicen el servicio público de transporte en zonas urbanas y suburbanas, mismas que se aplicarán siempre que se identifiquen con la credencial correspondiente, expedida por la autoridad que designe el Ejecutivo Estatal para tal efecto.
+El Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora autorizará y publicará las tarifas que correspondan al servicio público de transporte, debiendo establecer tarifas especiales para estudiantes, personas con discapacidad y adultos mayores que utilicen el servicio público de transporte en zonas urbanas y suburbanas, mismas que se aplicarán siempre que se identifiquen con la credencial correspondiente que establezca el propio Consejo Ciudadano.
 
-> <small>(ADICIONADO, B.O. 25 DE MARZO DE 2011)</small>
+Las credenciales de identificación de usuarios con derecho a tarifas especiales serán expedidas por el Ejecutivo del Estado, de acuerdo a los requisitos, criterios y procedimientos que establezca y determine el Consejo Ciudadano, buscando garantizar con ello que los beneficios de las tarifas especiales sean efectivamente dirigidos a los grupos de usuarios que establece el presente artículo.
 
-El Ejecutivo Estatal deberá realizar los estudios que sean necesarios para conocer el nivel socioeconómico de los usuarios del servicio público de transporte, en su modalidad de pasaje en los sistemas urbano y suburbano y, en caso de que los estudios técnicos referidos determinen que estos usuarios no pueden pagar la totalidad o una parte de la tarifa por el servicio, establecida de acuerdo a lo que instruyen los artículos 89 y 90 de esta Ley, el Ejecutivo Estatal deberá establecer los procedimientos adecuados y asignar los recursos necesarios, a fin de cubrir a los prestadores del servicio, vía subsidio, esa diferencia, exclusivamente para los usuarios del servicio público de transporte referido en este párrafo.
+El Ejecutivo Estatal, de conformidad a sus facultades y atribuciones, podrá establecer subsidios directos a los usuarios que por su condición socio económica lo requieran, de acuerdo a los programas sociales que considere, haciendo llegar de esta forma directamente a los usuarios este beneficio, en este caso los usuarios deberán cubrir al prestador del servicio la tarifa completa que corresponda.
+
+Por otra parte el Ejecutivo Estatal podrá establecer a su vez, programas de subsidio al costo de operación de los sistemas de transporte que considere, para lo cual deberá informar al Consejo Ciudadano el importe destinado para que este sea considerado en la determinación de la tarifa correspondiente, en tal caso los recursos deberán ser aportados previamente por El Ejecutivo Estatal a un Fideicomiso de Administración que sea constituido por el Consejo Ciudadano, y a través del cual se harán llegar estos recursos directamente a los prestadores del servicio que sea subsidiado, en función del servicio prestado.
 
 La tarifa autorizada para el sistema de automóvil de alquiler podrá ser cubierta en forma individual o colectiva por los usuarios.
 
 En el caso de la tarifa del automóvil de alquiler colectivo será cubierta en forma individual.
 
-> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 89.
 
-Para determinar las tarifas del servicio público de transporte, el Ejecutivo del Estado, por conducto de la Secretaría de Infraestructura Urbana y Ecología, por lo menos una vez al año, así como cada vez que varíen sustancialmente las condiciones socioeconómicas que les dieron origen, o a solicitud de Comisiones Municipales Reguladoras del Transporte Colectivo Urbano, elaborará los estudios técnicos necesarios, debiendo considerar en éstos los siguientes indicadores: el tipo, modalidad, sistema y características de servicio, los incrementos al salario mínimo general vigente en la región, los incrementos al precio unitario del energético que se utilice, los incrementos en los costos directos e indirectos que incidan en la prestación del servicio, los ingresos que perciben los concesionarios por la prestación del servicio público de transporte, así como cualquier otro concepto de ingreso. En la elaboración de los estudios técnicos deberán tomarse en cuenta los estudios técnicos de los concesionarios, si los hubiere.
+El Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora deberá actualizar las tarifas del transporte público, de acuerdo a lo siguiente:
 
-> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
+I. Con apego a lo establecido en el Artículo 90 de esta Ley, para las tarifas aplicables al servicio de transporte público urbano:
+
+a. En las ciudades que cuentan con sistemas de pago electrónico por lo menos una vez al año o cuando varíen sustancialmente las condiciones socioeconómicas que le dieron origen.
+
+b. Para el resto de las ciudades, cuando varíen sustancialmente las condiciones socioeconómicas que le dieron origen;
+
+c. Específicamente para los estudiantes de instituciones educativas reconocidas por la Secretaría de Educación y Cultura cuyos programas de estudio sean escolarizados y de acuerdo a los lineamientos que establezca el Consejo Ciudadano, para los dos primeros viajes diarios y durante los periodos de clases establecidos en el calendario oficial de la Secretaría de Educación y Cultura excepto sábados y domingos, se deberá establecerse (sic) una tarifa especial extraordinaria con un descuento del 100%; lo anterior en beneficio de estudiantes de todas las ciudades en las que se preste el servicio público de transporte urbano; por lo que deberá considerarse lo anterior en los procedimientos técnicos que establece el artículo 90.
+
+II. Para el resto de las modalidades de transporte, cada vez que varíen sustancialmente las condiciones socioeconómicas que le dieron origen, elaborando los estudios técnicos necesarios, debiendo considerar en éstos los siguientes indicadores: el tipo, modalidad, sistema y características de servicio, los incrementos al salario mínimo general vigente en la región, los incrementos al precio unitario del energético que se utilice, los incrementos en los costos directos e indirectos que incidan en la prestación del servicio, los ingresos que perciben los concesionarios por la prestación del servicio público de transporte, así como cualquier otro concepto de ingreso. En la elaboración de los estudios técnicos deberán tomarse en cuenta los estudios técnicos de los concesionarios, si los hubiere. Una vez realizados los estudios técnicos a que se refiere el artículo anterior, deberá resolver sobre el incremento de las tarifas del servicio público de transporte.
+
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 90.
 
-El Ejecutivo del Estado, una vez realizados los estudios técnicos a que se refiere el artículo anterior, deberá resolver sobre el incremento de las tarifas del servicio público de transporte, en sus distintas modalidades. El Ejecutivo del Estado, de manera anual, podrá realizar ajustes a las tarifas en función del porcentaje que resulte del acumulado del año anterior del indicador oficial para medir la inflación en el país (Índice Nacional de Precios al Consumidor).
+Para la determinación de las tarifas del transporte público urbano, el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, aplicará los lineamientos, disposiciones, conceptos y procedimientos siguientes:
+
+I. Operadora de Recaudo: Persona física o moral contratada por los concesionarios con la finalidad de desarrollar las actividades de recaudo de la tarifa que los usuarios pagan por el servicio. En ningún caso, el Operador de Recaudo que contraten los concesionarios podrá ser una dependencia, entidad u organismo público del Gobierno Municipal, Estatal o Federal, así como tampoco funcionarios y empleados de gobierno, ni personas físicas con parentesco por consanguinidad o por afinidad hasta el cuarto grado con funcionarios y empleados de gobierno; o personas morales cuyos socios sean funcionarios o empleados de gobierno o tengan parentesco por consanguinidad o por afinidad hasta el cuarto grado con funcionarios y empleados de gobierno.
+
+II. Operadora de Servicio: Personal (sic) física o moral, contratada por los concesionarios con la finalidad de desarrollar las actividades de despacho, operación y supervisión del servicio. En ningún caso, el Operador de Servicio que contraten los concesionarios podrá ser una dependencia, entidad u organismo público del Gobierno Municipal, Estatal o Federal, así como tampoco funcionarios y empleados de gobierno, ni personas físicas con parentesco por consanguinidad o por afinidad hasta el cuarto grado con funcionarios y empleados de gobierno; o personas morales cuyos socios sean funcionarios o empleados de gobierno o tengan parentesco por consanguinidad o por afinidad hasta el cuarto grado con funcionarios y empleados de gobierno.
+
+III. Fideicomiso de Administración: Fideicomiso contratado por los concesionarios, para el manejo de los ingresos, bajo los principios de transparencia, rendición de cuentas y sustentabilidad. En ningún caso, el Fideicomiso de Administración podrá ser un fideicomiso público, y la participación de las dependencias, entidades u organismos autónomos o públicos de los Gobiernos Municipal, Estatal o Federal, estará limitada a actividades de asistencia y supervisión y en ningún caso de decisión o instrucción.
+
+IV. Tarifa Técnica: Es el costo directo real por viaje en un sistema de transporte:
+
+El Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, calculará la Tarifa Técnica considerando adicionalmente un porcentaje razonable de costos indirectos y utilidad de los concesionarios, así como el efecto de establecer tarifas especiales para determinados tipos de usuarios; según la siguiente fórmula:
+
+> <small>N. DE E. VÉASE FÓRMULA EN EL B.O. DE 23 DE DICIEMBRE DE 2013, PÁGINA 5.</small>
+
+Proyección de costos anuales: Es la proyección anual de los costos directos en que incurrirá el concesionario, para llevar a cabo el Plan de (sic) Operativo de Servicio con el nivel de confort y calidad, que establezcan la Autoridad de Transporte y el propio Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, mismos que incluyen específicamente:
+
+1. Combustible.
+
+2. Sueldos de Chofer u Operador de la Unidad, incluyendo carga y pasivo laboral correspondiente.
+
+3. Costo de capital, que incluye depreciación de la unidad y equipo instalado, así como el costo financiero correspondiente.
+
+4. Costo de mantenimiento preventivo y correctivo de la unidad de transporte.
+
+5. Logística de operación y despacho.
+
+Kilómetros a recorrer: Es la cantidad de kilómetros que deben recorrer las unidades de transporte para cumplir con el Plan Operativo de Servicio establecido.
+
+> <small>N. DE E. VÉASE FÓRMULA EN EL B.O. DE 23 DE DICIEMBRE DE 2013, PÁGINA 6.</small>
+
+Proyección de Aforo: Es la proyección de viajes o abordos que se estima realizarán los usuarios durante el desarrollo del Plan Operativo de Servicio.
+
+% Costos Indirectos = Es un porcentaje razonable del Costo Directo por Kilómetro, que considera en la tarifa técnica los gastos de:
+
+1. Administración General.
+
+2. Recaudo.
+
+% Utilidad Concesionario = Es un porcentaje razonable del Costo Directo por Kilómetro, que establece en la tarifa técnica, de acuerdo al artículo tercero de esta Ley, el margen de utilidad de los concesionarios;
+
+% Especial = Es el efecto de establecer tarifas especiales para estudiantes, personas de la tercera edad y con discapacidad; el cual se calcula con la siguiente formula:
+
+> <small>N. DE E. VÉASE FÓRMULA EN EL B.O. DE 23 DE DICIEMBRE DE 2013, PÁGINA 6.</small>
+
+Dónde: % TE, es el porcentaje estimado de la proyección de aforo que corresponde a viajes realizados por los usuarios con tarifa especial; y % D es el porcentaje de descuento establecido para la tarifa especial correspondiente respecto de la tarifa normal.
+
+V. Para determinar la Tarifa Técnica, previamente es necesario que se determine por la Autoridad de Transporte competente el Plan Operativo de Servicio y las características de confort y calidad, mismas que deben notificarse al Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, quien deberá establecer el Costo Directo por Kilómetro, el Índice de Pasajeros por Kilómetro, el porcentaje del Aforo que corresponde a cada tarifa especial y el porcentaje de descuento que se aplicará a estas tarifas especiales.
+
+El Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, para determinar la Tarifa Técnica debe observar lo siguiente:
+
+I. En las ciudades donde al menos el 50% de los concesionarios hayan contratado Operadoras de Recaudo y de Servicio:
+
+a. La Autoridad de Transporte competente deberá informar por escrito a los concesionarios el Plan Operativo de Servicio y las características de confort y calidad a las que deberán apegarse en la prestación del mismo.
+
+Posteriormente el Consejo Ciudadano deberá solicitar y los concesionarios deberán proporcionar a través de las operadoras correspondientes, la siguiente información a fin de determinar las tarifas aplicables:
+
+1. Proyección anual de costos que corresponda al Plan Operativo de Servicio establecido y a las características de confort y calidad deseadas.
+
+2. Proyección anual de aforo y porcentaje estimado de viajes para cada tarifa especial que se desee establecer.
+
+II. En el resto de las ciudades el Consejo Ciudadano deberá efectuar por su cuenta los estudios y análisis correspondientes.
+
+VI. Tarifa Usuario: La Tarifa Usuario, será la contraprestación a cargo del usuario por el uso del servicio de transporte, la cual será igual a la suma de la tarifa técnica más la contribución al Fondo de Contingencia (FCi) que podrá establecer y administrar el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, en términos de los lineamientos y normas técnicas que emita;
+
+> <small>N. DE E. VÉASE FÓRMULA EN EL B.O. DE 23 DE DICIEMBRE DE 2013, PÁGINA 7.</small>
+
+Tarifa Especial E1 = Tarifa Especial aplicable a estudiantes pasajes primero y segundo.
+
+Tarifa Especial E2 = Tarifa Especial aplicable a estudiantes pasaje tercero en adelante.
+
+Tarifa Especial E3 = Tarifa Especial aplicable a tercera edad.
+
+Tarifa Especial E4 = Tarifa Especial aplicable a discapacidad.
+
+VII. En las ciudades donde los concesionarios cuenten con sistemas de pago electrónico, como tarjetas prepago, de débito o crédito, para que los usuarios paguen la tarifa correspondiente, el Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora podrá establecer tarifas diferenciadas por tipo de pago, aprovechando de esta forma a favor del usuario la tecnología establecida.
+
+VIII. La tarifa técnica deberá calcularse dos veces al año:
+
+a. En el mes de diciembre como resultado de las proyecciones correspondientes al Plan Operativo Anual de Servicio a desarrollarse en el año posterior.
+
+b. En el mes de agosto como ejercicio de seguimiento y verificación.
+
+Los resultados de los cálculos y actualizaciones de la tarifa técnica, el Consejo Ciudadano deberá notificarlos a la Autoridad de Transporte y a los Concesionarios.
+
+IX. La Tarifa Usuario deberá actualizarse con la temporalidad que establece el Artículo 89 de la presente Ley, considerando como una variación sustancial de las condiciones económicas, incrementos mayores del 15% en la tarifa técnica.
+
+Las actualizaciones de la Tarifa Usuario deben informarse ampliamente a los usuarios, mediante programas de difusión y su publicación en el Boletín Oficial del Gobierno del Estado.
+
+El Consejo Ciudadano deberá establecer mecanismos de actualización interanuales, para el caso de incrementos sustanciales en los costos de operación.
 
 ###### Artículo 91.
 
@@ -1219,6 +1361,10 @@ XI.- Tratándose del transporte urbano, suburbano y foráneo, adecuar sus unidad
 
 XI BIS.- Tratándose de las unidades a las que se refiere el inciso a) de la fracción I del artículo 44 de esta ley, éstas deberán prestar su servicio con los equipos de aire acondicionado encendidos y en correcto funcionamiento, en el periodo comprendido del primero de mayo al treinta de septiembre de cada año, en los términos y condiciones que al efecto señale el reglamento correspondiente;
 
+> <small>(ADICIONADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XI TER.- Tratándose del transporte urbano y suburbano, y en aquellas rutas o líneas de transporte que coincidan con rutas ciclistas establecidas por la autoridad competente, considerar la adecuación de las unidades con un portabicicletas con capacidad mínima para 2 bicicletas. Se entenderá por portabicicletas a la estructura instalada en la unidad, la cual sirva para transportar las bicicletas de los usuarios. El uso del portabicicletas no generara un costo mayor ni adicional al usuario.
+
 XII.- Colaborar con la labor de las autoridades de transporte;
 
 XIII.- Acatar las disposiciones de la presente Ley y su reglamento, la Ley de Integración Social para las Personas con Discapacidad, la Ley del Equilibrio Ecológico y la Protección a (sic) Ambiente, en materia de transporte, la Ley de Tránsito del Estado y, en general, todas las disposiciones que para la optimización del servicio público de transporte determinen las autoridades de la materia;
@@ -1258,6 +1404,10 @@ VII.- Las demás señaladas en la presente Ley y sus Reglamentos.
 ###### Artículo 104.
 
 La publicidad de productos comerciales y la fijación de cualquier clase de propaganda en los vehículos con los cuales se preste el servicio público de transporte, deberá ser sometida en todo caso a la sanción y aprobación de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, a través de las Delegaciones Regionales de Transporte, la cual por ningún motivo autorizará publicidad o propaganda que lesionen la moral o las buenas costumbres, y señalará los espacios que deberán ser destinados a la identificación de la unidad, los mensajes de carácter social y de publicidad y propaganda.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2013)</small>
+
+La unidad administrativa competente de la Secretaría, deberá de promover que en cada unidad de transporte urbano y sub urbano se coloque en la parte posterior, propaganda permanente que fomente una cultura de respeto hacia los peatones y ciclistas, la cual deberá ser lo suficientemente visible para los conductores de vehículos.
 
 ###### Artículo 105.
 
@@ -1523,7 +1673,9 @@ El Registro Público de Transporte del Estado, a cargo de la Unidad Administrati
 
 El Registro, para el adecuado cumplimiento de su objetivo, se dividirá en las siguientes secciones:
 
-I.- De los concesionarios y permisionarios;
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+I.- De los concesionarios y las empresas o asociaciones que éstos formen en términos de esta Ley y permisionarios;
 
 II.- De las concesiones y permisos eventuales;
 
@@ -2116,3 +2268,15 @@ B.O. 25 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 23 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la aplicación de la Tarifa Especial Extraordinaria que describe el Artículo 89, fracción I, inciso c; en aquellas ciudades cuyos servicios de transporte público urbano no cuenten con los sistemas tecnológicos adecuados para el control en el otorgamiento de este beneficio a los estudiantes; el Ejecutivo Estatal deberá establecer los programas de modernización tecnológica que sean necesarios en un plazo no mayor a 210 días naturales a partir de la publicación de la presente Ley; con la finalidad de que todos los estudiantes en el Estado de Sonora accedan al beneficio de esta Tarifa Especial Extraordinaria.
+
+El Ejecutivo Estatal una vez establecidos los controles tecnológicos adecuados en cada ciudad, deberá informarlo al Consejo Ciudadano, a fin de que éste considere los porcentajes de descuento que establece la Tarifa Especial Extraordinaria en la fórmula para la determinación de la Tarifa Técnica, y por consecuencia se realicen los ajustes necesarios en la Tarifa al Usuario.
