@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-civil-para-el-estado-de-sonora-46456"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-03"
-last_updated: "2010-04-07"
+last_updated: "2013-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE SONORA
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE SONORA
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 3 de octubre de 2005.
 
@@ -225,7 +225,7 @@ IX.- Promover la participación de los grupos sociales de su respectiva comunida
 
 X.- Fomentar la cultura de protección civil entre la población, a través de la promoción y organización de eventos, cursos, ejercicios y simulacros, campañas de difusión y capacitación, que permitan mejorar la capacidad de respuesta de los participantes en el Sistema Municipal;
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
 
 XI.- Realizar actos de inspección, conforme al programa anual relativo que se establezca al efecto, para constatar el cumplimiento de las disposiciones relativas a la constitución de Unidades Internas y a la formulación y aplicación de los Programas Internos a cargo de propietarios, poseedores o encargados de los establecimientos, edificaciones o inmuebles siguientes:
 
@@ -437,7 +437,7 @@ XVIII.- Dictaminar y autorizar, previo pago de los derechos correspondientes, lo
 
 Los montos recaudados por concepto de derechos serán destinados para la ejecución de los programas de protección civil correspondientes
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
 
 XIX.- Realizar actos de inspección, conforme al programa anual relativo que se establezca al efecto, a fin de constatar el cumplimiento de las disposiciones relativas a la constitución de Unidades Internas y a la formulación y aplicación de los Programas Internos a cargo de los establecimientos, edificaciones o inmuebles siguientes:
 
@@ -487,7 +487,7 @@ q) Otros que por sus características y magnitud sean similares a los mencionado
 
 > <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
-Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción Xl del artículo 6° de esta Ley, compartan o estén ubicados dentro de una misma unidad de construcción, la Unidad Estatal será competente para realizar visitas de inspección a los mismos.
+Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción XI del artículo 6° de esta Ley, compartan o estén ubicados dentro de una misma unidad de construcción, la Unidad Estatal será competente para realizar visitas de inspección a los mismos.
 
 > <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -527,9 +527,9 @@ IV.- Dar seguimiento a los procesos administrativos instaurados a través de las
 
 V.- Apoyar en los operativos que implemente la Unidad Estatal;
 
-Vl.- Desarrollar todas aquellas funciones inherentes al área de su competencia; y
+VI.- Desarrollar todas aquellas funciones inherentes al área de su competencia; y
 
-VIl.- Las demás que señale esta Ley y otras disposiciones aplicables.
+VII.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO IV. DEL PROGRAMA ESTATAL DE PROTECCIÓN CIVIL
 
@@ -775,13 +775,17 @@ VI.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO ÚNICO. DE LAS OBLIGACIONES DE LOS PARTICULARES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 37.
 
-Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a los que se refieren la fracción Xl del artículo 6º y la fracción XIX del artículo 13 de esta Ley, que por su uso y destino concentren o reciban una afluencia masiva de personas, o que representen un riesgo para la población, están obligados a contar con una Unidad Interna y a elaborar un Programa Interno, en los términos de esta Ley y su Reglamento. Dicho Programa Interno deberá ser presentado ante las autoridades de protección civil competentes para su dictamen y, en su caso, aprobación y será revalidado anualmente.
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a los que se refieren la fracción XI del artículo 6º y la fracción XIX del artículo 13 de esta Ley, que por su uso y destino concentren o reciban una afluencia masiva de personas, o que representen un riesgo para la población, están obligados a contar con una Unidad Interna y a elaborar un Programa Interno, en los términos de esta Ley y su Reglamento. Dicho Programa Interno deberá ser presentado ante las autoridades de protección civil competentes para su dictamen y, en su caso, aprobación y será revalidado anualmente.
 
 Los organizadores de espectáculos de concentración masiva de personas en lugares abiertos y de duración temporal, deberán contar con programas internos que se presentaran para aprobación, ante la Unidad Estatal, por lo menos con veinticuatro horas de anticipación a la del inicio del espectáculo.
+
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Informar al espectador, de manera escrita, visual y/o sonora, al inicio de la celebración de cada espectáculo público, cualquiera que sea su giro, sobre las medidas de seguridad en materia de protección civil con las que cuenta el establecimiento mercantil o el lugar en el que se desarrolla, así como avisar sobre la localización de salidas de emergencia, las zonas de seguridad y los procedimientos a seguir, en caso de que ocurra una emergencia, siniestro o desastre.
 
 ###### ARTÍCULO 38.
 
@@ -839,7 +843,7 @@ Es obligación de todos los habitantes del Estado con capacidad de ejercicio inf
 
 ### CAPÍTULO I. DE LAS VISITAS DE INSPECCIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 43.
 
@@ -957,7 +961,7 @@ V.- Impedir a los inspectores de protección civil el acceso a los establecimien
 
 > <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2009)</small>
 
-Vl.- Ejecutar, ordenar o favorecer actos u omisiones que impidan u obstaculicen las acciones de inspección, prevención, auxilio o apoyo a la población en caso de desastre;
+VI.- Ejecutar, ordenar o favorecer actos u omisiones que impidan u obstaculicen las acciones de inspección, prevención, auxilio o apoyo a la población en caso de desastre;
 
 > <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -971,13 +975,17 @@ VIII.- No contar con la revalidación anual del Programa Interno;
 
 IX.- No practicar los simulacros a que se refiere la fracción II del artículo 38 de esta Ley, u omitir dar el aviso señalado en el último párrafo de dicha fracción;
 
-> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-X.- Propiciar o generar condiciones de riesgo, alto riesgo o riesgo inminente; y
+X.- Propiciar o generar condiciones de riesgo, alto riesgo o riesgo inminente;
 
-> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
 
-Xl.- No contar con un seguro de responsabilidad civil por daños a terceros.
+XI.- No contar con un seguro de responsabilidad civil por daños a terceros; y
+
+> <small>(ADICIONADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XII.- No informar al espectador, de manera escrita, visual y/o sonora, al inicio de cada espectáculo, cualquiera que sea el giro, de las medidas de seguridad en materia de protección civil con las que cuenta el lugar, establecimiento o cualquiera que sea el giro.
 
 > <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -1185,7 +1193,7 @@ EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUBIAL ASTIAZARÁN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 31 DE AGOSTO DE 2009.
 
@@ -1214,3 +1222,13 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 El Gobernador del Estado, en un plazo de noventas (sic) días naturales, contado a partir de la entrada en vigor del presente Decreto, deberá emitir las reglas a que se refiere el artículo 32 Bis del presente ordenamiento y, de ser el caso, realizar la propuesta de modificación presupuestal que resulte pertinente.
+
+B.O. 23 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos del Estado contarán con un plazo de 120 días, contado a partir de la entrada en vigor del presente Decreto, para emitir o adecuar sus disposiciones reglamentarias, de conformidad con el presente ordenamiento.
