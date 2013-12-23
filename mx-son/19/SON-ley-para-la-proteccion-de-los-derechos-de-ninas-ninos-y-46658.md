@@ -4,7 +4,7 @@ identifier: "SON-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-46658"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-24"
-last_updated: "2013-06-27"
+last_updated: "2013-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de octubre de 2002.
 
@@ -347,6 +347,16 @@ El Estado y los municipios, en el ámbito de su competencia, intervendrán para 
 
 Las Autoridades Estatales y Municipales a través de los organismos y dependencias correspondientes, vigilarán el respeto irrestricto de los derechos de los menores de edad; atenderán de manera prioritaria a los menores que requieran de asistencia jurídica, social y médica, y apoyarán de conformidad a sus respectivos presupuestos, a aquellos por cuyas carencias familiares o económicas, pongan en riesgo su formación, subsistencia y desarrollo, coadyuvando con los padres o tutores en el cumplimiento de sus deberes.
 
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 38 Bis.
+
+El Ejecutivo del Estado y los ayuntamientos, en el marco de sus respectivas atribuciones deberán observar las siguientes acciones:
+
+I. Implementar, en forma coordinada con la federación, en el ámbito de sus respectivas atribuciones, programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos para lo cual, podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización; y
+
+II. Vigilar el cumplimiento de la normatividad prevista e implementar los mecanismos necesarios para que los centros públicos, privados y sociales que atienden a niñas, niños y adolescentes, cumplan los requerimientos de infraestructura, recursos y funcionamiento necesarios que garanticen su salud física y mental.
+
 ###### Artículo 39.
 
 El Gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias y de conformidad a sus recursos presupuestales, tienen la obligación de proporcionar a los menores de edad:
@@ -598,3 +608,9 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo Estatal incluirá en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal del año 2014, recursos suficientes para dar cumplimiento a lo previsto en el presente Decreto.
+
+B.O. 23 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
