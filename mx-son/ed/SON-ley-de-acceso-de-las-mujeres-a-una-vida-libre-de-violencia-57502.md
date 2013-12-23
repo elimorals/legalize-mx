@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2013-12-16"
+last_updated: "2013-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -533,17 +533,23 @@ I.- De emergencia; y
 
 II.- Preventivas.
 
-Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 96 horas y deberán, expedirse por el Ministerio Público, en su caso, dentro de las 12 horas siguientes al en que conozca de hechos que impliquen violencia contra las mujeres.
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 96 horas y deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que las generan.
 
 ###### ARTÍCULO 36.
 
 Son órdenes de protección de emergencia las siguientes:
 
-I.- Separación o retiro por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, con el fin de otorgar a la víctima la posesión exclusiva sobre el inmueble que sirvió de domicilio;
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+I.- Separación o retiro inmediato del agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, con el fin de otorgar a la víctima la posesión exclusiva sobre el inmueble que sirvió de domicilio;
 
 II.- Separación o retiro de la víctima y sus descendientes del domicilio conyugal o donde habiten;
 
-III.- Prohibición al probable responsable de acercarse a una distancia menor a la que determine el Ministerio Público o, en su caso, la autoridad jurisdiccional competente del domicilio, lugar de trabajo, de estudios, del domicilio de los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+III.- Prohibición inmediata al probable responsable de acercarse a una distancia menor a la que determine el Ministerio Público o, en su caso, la autoridad jurisdiccional competente del domicilio, lugar de trabajo, de estudios, del domicilio de los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
 IV.- Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad;
 
@@ -732,3 +738,9 @@ B.O. 16 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entra en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 23 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
