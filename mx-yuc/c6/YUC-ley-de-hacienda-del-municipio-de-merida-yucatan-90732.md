@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2012-12-28"
+last_updated: "2013-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 132, PUBLICADO EN EL D.O. DE 23 DE DICIEMBRE DE 2013, VÉASE ARTÍCULO PRIMERO TRANSITORIO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -149,7 +151,9 @@ f).- El titular de la oficina encargada de aplicar el procedimiento administrati
 
 Corresponde al Director de Finanzas y Tesorero Municipal, determinar, liquidar y recaudar los ingresos municipales y ejercer, en su caso, la facultad económico- coactiva.
 
-El Director de Finanzas y Tesorero Municipal designará a los interventores, visitadores, auditores, peritos, notificadores e inspectores, necesarios para verificar el cumplimiento de las obligaciones fiscales municipales, para llevar a cabo notificaciones, requerir documentación, practicar auditorias, visitas de inspección y visitas domiciliarias; mismas diligencias que se ajustarán a los términos y condiciones que, para cada caso, disponga el Código Fiscal del Estado.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+El Director de Finanzas y Tesorero Municipal designará a los interventores, visitadores, auditores, peritos, recaudadores, notificadores, ejecutores e inspectores, necesarios para verificar el cumplimiento de las obligaciones fiscales municipales, para llevar a cabo notificaciones, requerir documentación, practicar auditorias, visitas de inspección y visitas domiciliarias; mismas diligencias que se ajustarán a los términos y condiciones que, para cada caso, disponga el Código Fiscal del Estado.
 
 El Director de Finanzas y Tesorero Municipal y las demás autoridades a que se refiere este artículo gozarán, en el ejercicio de las facultades de comprobación, de las facultades que el Código Fiscal del Estado otorga al Tesorero del Estado y las demás autoridades estatales
 
@@ -159,9 +163,17 @@ El Subdirector de Ingresos tendrá facultades para suscribir:
 
 a).- Las licencias de funcionamiento municipales, cuya expedición apruebe la autoridad competente;
 
-b).- Los certificados de no adeudar contribuciones municipales, y
+b).- Los certificados de no adeudar contribuciones municipales, y (sic)
 
 c).- Los acuerdos de notificación y mandamientos de ejecución, de las multas federales no fiscales y de las multas impuestas por las autoridades municipales y requerimientos de pago.
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+d).- Las constancias de excepción de pago de contribuciones previstas en esta Ley y
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+e).- Los oficios de comisión de los interventores de espectáculos y diversiones públicas.
 
 #### Sección Cuarta. Del órgano administrativo
 
@@ -178,6 +190,10 @@ a).- Cumplir y hacer cumplir las disposiciones legales de naturaleza fiscal, apl
 b).- Dictar las disposiciones administrativas que se requieran para la mejor aplicación y observancia de la presente Ley.
 
 c).- Emitir o modificar, mediante disposiciones de carácter general, los sistemas o procedimientos administrativos, estableciendo las dependencias recaudadoras, técnicas y administrativas necesarias o suficientes, señalándoles sus funciones y delegándoles las facultades que considere convenientes, excepto las que le corresponden como autoridad fiscal y sean de carácter indelegable conforme a lo establecido en esta Ley.
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+El Director de Finanzas y Tesorero Municipal, ejercerá además las facultades que le otorga al Tesorero Municipal la Ley de Gobierno de los Municipios del Estado de Yucatán y demás disposiciones fiscales aplicables.
 
 ### CAPÍTULO II. DE LAS CARACTERISTICAS DE LOS INGRESOS
 
@@ -367,9 +383,13 @@ Los avisos, declaraciones, solicitudes, memoriales o manifestaciones, que presen
 
 Las personas físicas y morales, además de las obligaciones especiales contenidas en la presente Ley, deberán cumplir con las siguientes:
 
-I.- Empadronarse en la Dirección de Finanzas y Tesorería Municipal, a más tardar treinta días hábiles después de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes con el objeto de obtener la licencia funcionamiento municipal.
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-II.- Recabar de la Dirección de Desarrollo Urbano la Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona de conformidad con el Plan Director de Desarrollo Urbano del Municipio y que cumple además, con lo dispuesto en el Reglamento de Construcciones del propio Municipio.
+I.- Recabar de la Dirección de Desarrollo Urbano la Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona de conformidad con el Plan Director de Desarrollo Urbano del Municipio y que cumple además, con lo dispuesto en el Reglamento de Construcciones del propio Municipio.
+
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+II.- Empadronarse en la Dirección de Finanzas y Tesorería Municipal, a más tardar treinta días hábiles después de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes con el objeto de obtener la licencia de funcionamiento Municipal.
 
 III.- Recabar autorización de la Dirección de Finanzas y Tesorería Municipal, si realizan actividades eventuales y con base en dicha autorización, solicitar la determinación de las contribuciones que estén obligados a pagar.
 
@@ -393,11 +413,15 @@ Tendrán una vigencia que iniciará en la fecha de su expedición y terminará e
 
 No obstante lo dispuesto en el párrafo anterior, durante el tiempo de la vigencia de la licencia de funcionamiento, con excepción de la Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal, su titular deberá mantener vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura y revalidación respectivamente, así como proporcionar una copia de la renovación de cada uno de dichos documentos a la Dirección de Finanzas y Tesorería Municipal dentro los treinta días hábiles siguientes al vencimiento de los mismos. Una vez vencido este término sin que se haya cumplido con éstas obligaciones, el Director de Finanzas y Tesorero Municipal o el Subdirector de Ingresos estarán facultados para revocar la licencia que corresponda, sin perjuicio de las sanciones a que se refiere la fracción I y último párrafo del artículo 177 de esta Ley.
 
-En adición a lo señalado en el párrafo inmediato anterior, el Director de Finanzas y Tesorero Municipal así como el Subdirector de Ingresos estarán facultados para revocar la licencia de funcionamiento para aquellos casos que para su obtención o revalidación se hayan proporcionado o presentado información o documentos falsos.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+En adición a lo señalado en el párrafo inmediato anterior, el Director de Finanzas y Tesorero Municipal así como el Subdirector de Ingresos estarán facultados para revocar la licencia de funcionamiento para aquellos casos que para su obtención o revalidación se hayan proporcionado o presentado información o documentos falsos o cuando se le revoque la licencia de uso de suelo por resolución de autoridad competente.
 
 El titular de la licencia de funcionamiento deberá revalidarla durante los cuatro primeros meses de cada administración municipal; por lo que durante este plazo dicha licencia continuará vigente.
 
-Las personas físicas o morales que deban obtener por apertura la licencia funcionamiento de municipal (sic), tendrán que anexar a la solicitud que presentarán a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos vigentes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Las personas físicas o morales que deban obtener por apertura la licencia de funcionamiento municipal, tendrán que anexar a la solicitud que presentarán a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos vigentes:
 
 a).- El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo.
 
@@ -417,7 +441,9 @@ h).- Tratándose de establecimientos que se encuentren en un inmueble destinado 
 
 Cuando el titular de una licencia de funcionamiento correspondiente a un comercio, negocio o establecimiento pretenda funcionar con un giro diferente o en otro domicilio deberá de obtener una nueva licencia satisfaciendo los requisitos anteriores.
 
-Para la revalidación de la licencia funcionamiento de municipal deberán presentarse:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Para la revalidación de la licencia de funcionamiento municipal deberán presentarse:
 
 a).- Licencia de funcionamiento expedida por la administración municipal inmediata anterior o constancia de la misma, expedida por la Dirección de Finanzas y Tesorería Municipal.
 
@@ -448,6 +474,8 @@ Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes 
 Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco municipal, será 1.
 
 #### Sección Décima Quinta. Del pago en exceso
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 33.
 
@@ -485,7 +513,7 @@ De los sujetos
 
 ###### ARTÍCULO 37.
 
-Las autoridades fiscales municipales están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo y conforme a las disposiciones siguientes:
+Las autoridades fiscales municipales están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo, o efectivo si no excede de $2,000.00 y conforme a las disposiciones siguientes:
 
 I.- Si el pago de lo indebido se hubiese efectuado en el cumplimiento de un acto de autoridad, el derecho a la devolución nace, cuando dicho acto hubiere quedado insubsistente.
 
@@ -605,25 +633,41 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.</small>
 
-II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas principales, se especifican en la siguiente tabla, sin considerar el valor de la sección a la que pertenecen:
+> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37.</small>
 
 CALLES Y AVENIDAS
 
+II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas principales, se especifican en la siguiente tabla, sin considerar el valor de la sección a la que pertenecen:
+
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 56 A LA 61.</small>
+
+> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45.</small>
 
 III.- Los valores unitarios para los terrenos ubicados en el periférico y las calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico, se especifican en la siguiente tabla:
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 61 A LA 62.</small>
 
+> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46.</small>
+
 La aplicación de los valores unitarios contenidos en esta fracción será a la superficie que resulte de multiplicar el frente del terreno, que se encuentre sobre el periférico y las calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico, hasta por los cien primeros metros de fondo; la superficie restante será valorada con el valor unitario de la sección catastral que corresponda al terreno.
+
+PLAZAS COMERCIALES
 
 IV.- Los valores unitarios para los locales correspondientes a las plazas comerciales, que incluyan su área privativa y sus pro indiviso de las áreas comunes, de acuerdo a la siguientes (sic) tabla:
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 62.</small>
 
+> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46.</small>
+
 V.- Los valores unitarios para los diferentes tipos de construcción y factores por zona, que se expresan en la siguiente tabla:
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 63 A LA 64.</small>
+
+> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48.</small>
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+FACTORES DE DEMÉRITO AL VALOR UNITARIO DE TERRENO
 
 VI.- Los coeficientes de demerito que afectan los valores unitarios de terreno para la valuación de predios serán los siguientes:
 
@@ -631,7 +675,9 @@ FACTORES DE DEMÉRITO (el valor unitario de terreno se multiplicará por el fact
 
 A) DE FORMA* POR FRENTE (NO APLICA SI EL PREDIO ES INTERIOR, SIN ACCESO A VIALIDAD)
 
-FRENTE (metros): FACTOR:
+> <small>(REFORMADA SU TABLA DE VALORES, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+FRENTE (metros): FACTOR
 
 menor a 5.00 0.65
 
@@ -639,9 +685,7 @@ menor a 5.00 0.65
 
 6.00 a 6.99 0.85
 
-7.00 a 7.99 0.95
-
-8.00 o mayor 1.00
+7.00 o mayor 1.00
 
 B) DE FORMA* POR RELACIÓN FONDO/FRENTE (NO APLICA SI EL PREDIO ES INTERIOR)
 
@@ -711,9 +755,11 @@ De la tarifa
 
 ###### ARTÍCULO 47.
 
-Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará aplicando al valor catastral la siguiente, ( sic)
+Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará aplicando al valor catastral la siguiente, (sic)
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 66.</small>
+
+> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 48 A LA 49.</small>
 
 Se calculará de la siguiente manera: la diferencia entre el valor catastral y el límite inferior se multiplicará por la tasa aplicable y el producto obtenido se sumará a la cuota fija. Cuando el resultado de la aplicación de la tarifa sea menor a $20.00, se considerará $20.00. El resultado de la aplicación de la tarifa o el importe de $20.00, lo que sea mayor, se dividirá entre doce, determinándose de tal forma el impuesto correspondiente al período de un mes.
 
@@ -745,6 +791,10 @@ Los propietarios, fideicomisarios, fideicomitentes o usufructuarios de inmuebles
 
 Cualquier cambio en el monto de la contraprestación que generó el pago del impuesto predial sobre la base a que se refiere el artículo 49, será notificada a la Dirección de Finanzas y Tesorería Municipal, en un plazo de quince días, contados a partir de la fecha en que surta efectos la modificación respectiva. En igual forma, deberá notificarse la terminación de la relación jurídica que dio lugar a la contraprestación mencionada en el artículo 49 de esta Ley.
 
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+En tanto el sujeto obligado no notifique la terminación de la relación jurídica, recién mencionada, para efectos de esta Ley seguirá obligado a pagar sobre esta base, en los términos y condiciones del propio artículo 49, sin perjuicio de las sanciones que correspondan a esa infracción, de conformidad con lo previsto en esta Ley.
+
 Cuando de un inmueble formen parte dos o más departamentos y éstos se encontraren en los supuestos del citado artículo 49, el contribuyente deberá empadronarse por cada departamento.
 
 Los fedatarios públicos ante quienes se otorgare, firmare o ratificare el contrato, el convenio o el documento, que dio lugar a la situación jurídica, que permita al propietario, fideicomisario, fideicomitente o usufructuario obtener una contraprestación, en los términos señalados en el mismo artículo 49 de esta Ley, estarán obligados a entregar una copia certificada del mismo a la Dirección de Finanzas y Tesorería Municipal, en un plazo de treinta días, contados a partir de la fecha del otorgamiento, de la firma o de la ratificación del documento respectivo.
@@ -767,13 +817,13 @@ de la contraprestación.
 
 Del pago
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 52.
 
-Cuando el impuesto predial se cause sobre la base de la contraprestación pactada por usar, gozar o permitir la ocupación de un inmueble, el impuesto deberá cubrirse durante la primera quincena del mes siguiente a aquél en que se cumpla alguno de los siguientes supuestos: que sea exigible el pago de la contraprestación; que se expida el comprobante de la misma o se cobre el monto pactado por el uso o goce, lo que suceda primero, salvo el caso en que los sujetos de este impuesto estuviesen siguiendo un procedimiento judicial para el cobro de la contraprestación pactada, en contra del ocupante o arrendatario.
+Cuando el impuesto predial se cause sobre la base de la contraprestación pactada por usar, gozar o permitir la ocupación de un inmueble, el impuesto deberá cubrirse durante la primera quincena del mes siguiente a aquél en que se cumpla alguno de los siguientes supuestos: que sea exigible el pago de la contraprestación; que se expida el comprobante de la misma o se cobre el monto pactado por el uso o goce, lo que suceda primero.
 
-En este caso, para que los propietarios, usufructuarios, fideicomisarios o fideicomitentes tributen sobre la base del valor catastral del inmueble objeto, deberán notificar dicha situación a la Dirección de Finanzas y Tesorería Municipal, dentro de los quince días siguientes a la fecha de inicio del procedimiento correspondiente, anexando copia del memorial respectivo, sin perjuicio de que al término del procedimiento judicial mencionado pague la diferencia que resulte entre la base valor catastral y la base contraprestación. En este caso no se causará actualización ni recargos.
-
-Cuando el último de los plazos a que se refieren los párrafos anteriores fuere día inhábil, el plazo se entenderá prorrogado hasta el día hábil siguiente.
+Cuando el último de los plazos a que se refiere el párrafo anterior fuere día inhábil, el plazo se entenderá prorrogado hasta el día hábil siguiente.
 
 De las obligaciones de terceros
 
@@ -859,13 +909,15 @@ VI.- La donación entre cónyuges, ascendientes o descendientes en línea direct
 
 De la base
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 58.
 
-La base del Impuesto Sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el precio de adquisición, el valor contenido en la cédula catastral vigente y el valor contenido en el avalúo pericial expedido por las autoridades fiscales, las instituciones de crédito, el Instituto de Administración y Avalúos de Bienes Nacionales, por corredor público, valuador con cédula profesional de postgrado en valuación expedida por la Secretaría de Educación Pública o perito valuador que se registre ante la Dirección de Finanzas y Tesorería Municipal, previo cumplimiento de los siguientes requisitos:
+La base del Impuesto Sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el precio de adquisición; el valor contenido en la cédula catastral vigente, y el valor contenido en el avalúo pericial expedido por las autoridades fiscales, las instituciones de crédito, el Instituto de Administración y Avalúos de. Bienes Nacionales, por corredor público, valuador con cédula profesional de postgrado en valuación expedida por la Secretaría de Educación Pública.
 
-a).- Ser ciudadano mexicano en pleno goce de sus derechos.
+a).- (DEROGADO, D.O. 23 DE DICIEMBRE DE 2013)
 
-b).- Acreditar con documentación fehaciente, experiencia valuatoria mínima de tres años inmediatos anteriores a la fecha de solicitud del registro.
+b).- (DEROGADO, D.O. 23 DE DICIEMBRE DE 2013)
 
 Cuando el adquirente asuma la obligación de pagar alguna deuda del enajenante o de perdonarla, el importe de dicha deuda, se considerará parte del precio pactado.
 
@@ -919,11 +971,25 @@ Las autoridades fiscales municipales estarán facultadas para practicar, ordenar
 
 Para los efectos del presente artículo el usufructo y la nuda propiedad tienen cada uno el valor equivalente al .5 del valor de la propiedad.
 
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Cuando se formalice la adquisición de un inmueble, que provenga de un proyecto de rectificación de medidas, de unión o de división de predios y que respecto de dichos actos no se hubiere realizado el trámite de definitiva, en vez del valor contenido en la cédula catastral vigente que menciona el primer párrafo de este artículo, se considerará el valor catastral que aparezca en el oficio que para tal efecto expida la Dirección del Catastro del Municipio de Mérida, siempre y cuando esté vigente.
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Cuando se formalice la adquisición de un inmueble que provenga del trámite de Revisión Técnica de la Documentación en Régimen de Condominio y no se hubiere obtenido la Cédula de Inscripción de Constitución de Régimen en Condominio, en vez del valor contenido en la cédula catastral vigente que menciona el primer párrafo de este artículo, se considerará el valor catastral que aparezca en el oficio que para tal efecto expida la Dirección del Catastro del Municipio de Mérida, siempre y cuando esté vigente.
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Los oficios mencionados en los dos párrafos que inmediatamente anteceden, tendrán una vigencia de seis meses contados a partir de la fecha de su expedición; dicha vigencia terminará anticipadamente cuando durante ese plazo, la Dirección del Catastro del Municipio de Mérida, emita la cédula catastral correspondiente al inmueble materia de la adquisición.
+
 Vigencia de los avalúos
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 59.
 
-Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes Inmuebles, tendrán una vigencia de seis meses, contados a partir de la fecha de su expedición.
+Los avalúos periciales que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes Inmuebles tendrán una vigencia de seis meses, contados a partir de la fecha de su expedición. En todo caso, la fecha de la escritura deberá ubicarse dentro del plazo de vigencia.
 
 De la tasa
 
@@ -961,9 +1027,11 @@ La obligación de presentar la manifestación a que se refiere el primer párraf
 
 De los responsables solidarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 62.
 
-Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, acumularán al instrumento donde conste la adquisición del inmueble o de los derechos sobre el mismo, copia del recibo donde se acredite haber pagado el impuesto o bien, copia del manifiesto sellado cuando se trate de las operaciones consignadas en el artículo 57 de esta ley. Para el caso de que las personas obligadas a pagar este impuesto, no lo hicieren, los fedatarios y las personas que por disposición legal tengan funciones notariales, se abstendrán de autorizar el contrato o escritura correspondiente.
+Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, acumularán al instrumento donde conste la adquisición del inmueble o de los derechos sobre el mismo, copia del recibo donde se acredite haber pagado el impuesto, o bien, original del recibo con importe cero y copia del manifiesto sellado por la Dirección de Finanzas y Tesorería Municipal, cuando se trate de las operaciones consignadas en el artículo 57de (sic) esta ley. Para el caso de que las personas obligadas a pagar este impuesto, no lo hicieren, los fedatarios y las personas que por disposición legal tengan funciones notariales, se abstendrán de autorizar el contrato o escritura correspondiente.
 
 Por su parte, los registradores, no inscribirán en el Registro Público de la Propiedad del Estado, los documentos donde conste la adquisición de inmuebles o de derechos sobre los mismos, sin cerciorarse antes, de que se cumplió con la primera parte del presente artículo. La citada acumulación deberá constar en la inscripción correspondiente.
 
@@ -1002,6 +1070,10 @@ De los sujetos
 Son sujetos del Impuesto sobre Espectáculos y Diversiones públicas, las personas físicas o morales que perciban ingresos derivados de la comercialización de actos, diversiones o espectáculos públicos, ya sea en forma permanente o temporal.
 
 Los sujetos de este impuesto deberán cumplir, en lo conducente, con lo dispuesto en el artículo 30 de esta Ley y, especialmente, con la obtención de la licencia de funcionamiento a que se refiere el artículo 31.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Las personas físicas o morales que presten a los sujetos de este impuesto el servicio de compraventa de boletos, directa o remota al público, tendrá la obligación de presentar ante la Dirección de Finanzas y Tesorería Municipal toda la documentación que compruebe de manera fehaciente el importe total de los ingresos obtenidos por la venta de boletos, en un plazo de tres días contados a partir del siguiente al de la celebración del espectáculo o diversión pública de que se trate.
 
 Del objeto
 
@@ -1111,7 +1183,7 @@ VIII.- Otorgamiento de Constancia a que se refiere la Ley sobre Régimen de Prop
 
 IX.- Permisos de anuncios.
 
-X.- Visitas de inspección de fosas sépticas.
+X.- (DEROGADA, D.O. 23 DE DICIEMBRE DE 2013)
 
 XI.- Visitas de inspección.
 
@@ -1119,11 +1191,25 @@ XII.- Por Factibilidad de instalación de anuncio.
 
 XIII.- Revisión previa de proyecto.
 
-XIV.- Oficio de factibilidad para suministro de energía eléctrica y oficio de información de bienes inmuebles.
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XIV.- Oficio de factibilidad para suministro de energía eléctrica.
 
 XV.- Emisión de copias simples y/o copias certificadas de cualquier documentación contenida en los expedientes de la Dirección de Desarrollo Urbano.
 
 XVI.- Copia electrónica de planos aprobados por la Dirección de Desarrollo Urbano grabación en disco compacto no regrabable.
+
+> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XVII.- Autorización de la Constitución de Desarrollo Inmobiliario.
+
+> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XVIII.- Autorización de la Modificación de Desarrollo Inmobiliario.
+
+> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XIX.- Por la expedición del oficio de información del tipo de zona en la que se ubican los bienes inmuebles, de conformidad con lo establecido en el Programa de Desarrollo Urbano del Municipio de Mérida.
 
 De la Base y de las Cuotas
 
@@ -1135,53 +1221,57 @@ Concepto Veces de Salario Mínimo
 
 I.- Licencias de Uso del Suelo.
 
-a) Para fraccionamientos de hasta
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-10,000.00 metros cuadrados. 50 Licencia
+1. Para Desarrollo Inmobiliario
 
-b) Para fraccionamientos de 10,000.01
+a) Con superficie de hasta
 
-metros cuadrados hasta
+10,000.00 metros cuadrados. 35 Licencia
 
-50,000.00 metros cuadrados. 100 Licencia
+b) Con superficie de 10,000.01
 
-c) Para fraccionamientos de 50,000.01
+hasta 50,000.00 metros cuadrados 40 Licencia
 
-metros cuadrados hasta
+c) Con superficie de 50,000.01
 
-200,000.00 metros cuadrados. 150 Licencia
+hasta 100,000.00 metros cuadrados. 60 Licencia
 
-d) Para fraccionamientos de 200,000.01
+d) Con Superficie de 100,000.01 hasta
 
-metros cuadrados en adelante. 200 Licencia
+150,000.00 metros cuadrados 70 Licencia
 
-e) Para desarrollo de cualquier tipo
+e) Con superficie de 150,000.01 hasta
 
-cuya superficie sea de hasta 50.00 m2. 2 Licencia
+200,000.00 metros cuadrados 75 Licencia
 
-f) Para desarrollo de cualquier tipo
+f) Con superficie mayor a 200,000.01 100 Licencia
 
-cuya superficie sea de 50.01 m2
+metros cuadrados
 
-hasta 100.00 m2. 10 Licencia
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-g) Para desarrollo de cualquier tipo
+2. Para Otros Desarrollos
 
-cuya superficie sea de 100.01 m2
+a) Cuya superficie sea de hasta 50.00
 
-hasta 500.00 m2 25 Licencia
+metros cuadrados. 2 Licencia
 
-h) Para desarrollo de cualquier tipo
+b) Cuya superficie sea de 50.01
 
-cuya superficie sea de 500.01 m2
+hasta 100.00 metros cuadrados. 10 Licencia
 
-hasta 5,000.00 m2 50 Licencia
+c) Cuya superficie sea de 100.01
 
-i) Para desarrollo de cualquier tipo
+hasta 500.00 metros cuadrados. 25 Licencia
 
-cuya superficie sea mayor de
+d) Cuya superficie sea de 500.01
 
-5,000.01 m2 100 Licencia
+hasta 5,000.00 metros cuadrados 50 Licencia
+
+e) Cuya superficie sea mayor de 5,000.01
+
+metros cuadrados 100 Licencia
 
 II.- Por el Análisis de Factibilidad de Uso de Suelo
 
@@ -1203,9 +1293,11 @@ a los mencionados en los incisos
 
 a), b),d), i), j) y k) de esta fracción 1 Constancia
 
-d) Para desarrollo inmobiliario de
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-cualquier tipo. 5 Constancia
+d) Para desarrollo Inmobiliario u otros 5 Constancia
+
+desarrollos.
 
 e) Para casa habitación unifamiliar
 
@@ -1213,27 +1305,17 @@ ubicada en zonas de reserva de
 
 crecimiento. 2.5 Constancia
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 f) Para la instalación de infraestructura
 
-en bienes inmuebles propiedad del
+en bienes inmuebles propiedad del Municipio
 
-Municipio o en las (sic) vía pública, excepto
+o en las vías públicas, excepto la que se
 
-las que se señalan en los
+señala en el inciso h) 0.10 Por aparato, caseta o unidad.
 
-incisos g) y h). 0.10 Por aparato,
-
-caseta o unidad.
-
-g) Para la instalación de infraestructura
-
-aérea, consistente en cableado o
-
-líneas de transmisión, a excepción de
-
-las que fueren propiedad de la Comisión
-
-Federal de Electricidad. 0.01 Metro lineal
+g) (DEROGADO, D.O. 23 DE DICIEMBRE DE 2013)
 
 h) Para la instalación de torre
 
@@ -1249,7 +1331,13 @@ k) Para el establecimiento de
 
 bancos de explotación de materiales. 30 Constancia
 
-Para los efectos del inciso d) de esta fracción se entiende por desarrollo inmobiliario los siguientes conceptos: Industrias, locales comerciales, centros comerciales, servicios medios, servicios de alto impacto, bodegas e infraestructura. Dichos conceptos se definen de conformidad con lo establecido en el Programa de Desarrollo Urbano de la Ciudad de Mérida vigente.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Para los efectos de los incisos anteriores de las fracciones I y II se entiende por Desarrollo Inmobiliario al bien inmueble que por sus características físicas o el régimen de propiedad se constituye como Fraccionamiento, División de Lotes o Condominio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Para los efectos de las fracciones anteriores se entenderá por Otros Desarrollos los siguientes conceptos: industria, locales comerciales, centros comerciales, equipamiento, bodegas e infraestructura. Dichos conceptos se definen de conformidad con lo establecido en el Programa de Desarrollo Urbano del Municipio de Mérida Vigente.
 
 III.- Constancia de Alineamiento 0.20 Metro Lineal
 
@@ -1293,7 +1381,11 @@ señalada en el inciso b)
 
 de esta fracción 0.09 Metro cuadrado
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 Por la renovación de la licencia de construcción a que se refiere la fracción IV de este artículo, se pagará una cuota equivalente al 50 por ciento de los derechos establecidos en dicha fracción por los trabajos otorgados en la correspondiente licencia.
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 Por la prórroga de la licencia de construcción a que se refiere la fracción IV de este artículo, se pagará una cuota equivalente al 25 por ciento de los derechos establecidos en dicha fracción por los trabajos otorgados en la correspondiente licencia. La cuota señalada en este párrafo se considerará que se otorga por una licencia de un plazo de 24 meses, sin embargo si el plazo fuese menor la cuota será en proporción al número de meses por los que fuese solicitada dicha prórroga.
 
@@ -1327,9 +1419,23 @@ g) De demolición distinta
 
 a la de bardas. 0.02 Metro Cuadrado
 
-VI.- Licencia de Urbanización 0.02 Metro Cuadrado
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-de vía pública
+VI.- Licencia de Urbanización
+
+a) Licencia de Urbanización por
+
+servicios básicos 0.02 Metro Cuadrado de vialidad
+
+b) Autorización de instalación
+
+subterránea o aérea de ductos
+
+o conductores para la explotación de servicios
+
+digitales u otros de cualquier
+
+tipo 0.20 Metro Lineal de vialidad
 
 VII.- Validación de planos 0.25 Por plano
 
@@ -1343,25 +1449,37 @@ del Estado de Yucatán 5 Constancia
 
 IX.- Permisos de anuncios
 
-a) Instalación de anuncios de propaganda
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-o publicidad permanentes en inmuebles
+a) Instalación de anuncios de
 
-o en mobiliario urbano, a razón de: 1 Metro Cuadrado
+propaganda o publicidad
 
-b) Instalación de anuncios de carácter
+permanentes en inmuebles o en
 
-denominativo permanente en inmuebles
+mobiliario urbano 1 metro
 
-con una superficie mayor de 1.5 m2,
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-a razón de: 0.75 Metro Cuadrado
+b) Instalación de anuncios de
 
-c) Instalación de anuncios de propaganda
+carácter denominativo
 
-o publicidad transitorios en inmuebles
+permanente en inmuebles con
 
-o en mobiliario urbano, a razón de:
+una superficie mayor de 1.5
+
+metros cuadrados 0.75 Metro Cuadrado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+c) Instalación de anuncios de
+
+propaganda o publicidad
+
+transitorios en inmuebles o en
+
+mobiliario urbano:
 
 1) De 1 a 5 días naturales 0.15 Metro Cuadrado
 
@@ -1371,41 +1489,49 @@ o en mobiliario urbano, a razón de:
 
 4) De 1 a 30 días naturales 0.50 Metro Cuadrado
 
-d) Por exhibición de anuncios de
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-propaganda o publicidad permanentes
+d) Por exhibición de anuncios
 
-en vehículos de Transporte Público,
+de propaganda o publicidad
 
-a razón de: 2 Metro Cuadrado
+permanentes en vehículos de
 
-e) Por exhibición de anuncios de
+Transporte Público 2 Metro Cuadrado
 
-propaganda o publicidad transitorios
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-en vehículos de Transporte Público,
+e) Por exhibición de anuncios
 
-a razón de: 1.5 Metro Cuadrado
+de propaganda o publicidad
+
+transitorios en vehículos de
+
+Transporte Público 1.5 Metro
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 f) Por renovación de permisos
 
 permanentes, para la difusión de
 
-propaganda o publicidad asociada
+propaganda o publicidad
 
-a música o sonido, a razón de: 0.25 Por Día Autorizado
+asociada a música o sonido 0.25 Por Día
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 g) Para la proyección óptica
 
-permanente de anuncios,
+permanente de anuncios 2.5 Metro Cuadrado
 
-a razón de: 2.5 Metro Cuadrado
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 h) Para la proyección permanente
 
-a través de medios electrónicos
+a través de medios electrónicos de anuncios 2 Metro
 
-de anuncios: 2 Metro Cuadrado
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 i) Por exhibición de anuncios
 
@@ -1413,13 +1539,11 @@ transitorios de propaganda o
 
 publicidad inflables suspendidos
 
-en el aire, con capacidad de 1 hasta
+en el aire, con capacidad de 1
 
-50 kg. de gas Helio,
+hasta 50 kg. de gas Helio 2.5 Por elemento
 
-a razón de: 2.5 Por elemento
-
-publicitario
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 j) Por exhibición de anuncios
 
@@ -1429,19 +1553,13 @@ publicidad inflables suspendidos
 
 en el aire, con capacidad de más
 
-de 50 kg. de gas Helio,
+de 50 kg. de gas Helio 3 Por elemento
 
-a razón de: 3 Por elemento
-
-publicitario
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 k) Por exhibición de anuncios
 
-figurativos o volumétricos,
-
-a razón de: 5 Por elemento
-
-publicitario
+figurativos o volumétricos 5 Por elemento
 
 l) Por la difusión de propaganda
 
@@ -1451,15 +1569,17 @@ o publicidad impresa en volantes o folletos:
 
 2) Por millar adicional 0.10
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 m) Por instalación permanente de
 
-anuncios de propaganda o publicidad
+anuncios de propaganda o
 
-en inmuebles o en mobiliario urbano,
+publicidad en inmuebles o en
 
-iluminados con luz Neón,
+mobiliario urbano, iluminados con
 
-a razón de: 1.5 Metro Cuadrado
+luz Neón 1.5 Metro Cuadrado
 
 Para el caso de renovación o prórroga de los permisos a que se refieren los incisos a), b), g), h) y m) de esta fracción se causarán los derechos con las mismas cuotas que dichos incisos señalen.
 
@@ -1551,19 +1671,29 @@ proyecto cuya superficie cubierta
 
 sea menor de 500 m2 3.0 Revisión
 
-f) A partir de la tercera de un proyecto
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-cuya superficie cubierta sea mayor
+f) A partir de la tercera revisión de
 
-de 500 m2 y hasta 1,000 m2. 6.0 Revisión
+un proyecto cuya superficie
 
-g) A partir de la tercera de un
+cubierta sea mayor de 500 m2 y
 
-proyecto cuya superficie sea
+hasta 1,000 m2. 6.0 Revisión
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+g) A partir de la tercera revisión de
+
+un proyecto cuya superficie sea
 
 mayor a 1,000 m2 8.0 Revisión
 
-XII.- Revisión previa de proyecto de
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XII.- Revisión previa de todos los
+
+proyectos de urbanización e
 
 infraestructura urbana, para los
 
@@ -1613,17 +1743,19 @@ proporciona la Comisión Federal
 
 de Electricidad. 2 Oficio
 
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 XVI.- Por la expedición del oficio de
 
-información del tipo de zona en la que se
+información del tipo de zona en la
 
-ubican los bienes inmuebles, de
+que se ubican los bienes inmuebles,
 
-conformidad con lo establecido en el
+de conformidad con lo establecido
 
-Programa de Desarrollo Urbano del
+en el Programa de Desarrollo
 
-Municipio de Mérida. 1 Oficio
+Urbano del Municipio de Mérida 2 Oficio
 
 XVII.- Emisión de copias simples y/o
 
@@ -1687,7 +1819,7 @@ Desarrollo Urbano, superior a cuatro
 
 veces el tamaño carta. 5.20 Plano
 
-XVIII) Copia electrónica de planos aprobados
+XVIII.- Copia electrónica de planos aprobados
 
 por la Dirección de Desarrollo Urbano
 
@@ -1698,6 +1830,48 @@ en disco compacto no regrabable.
 2) Por cada plano adicional 1.00 Plano
 
 adicional
+
+> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XIX.- Autorización de la Constitución de Desarrollo Inmobiliario
+
+a) Hasta 10,000.00 metros cuadrados 70 Autorización
+
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 80 Autorización
+
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 90 Autorización
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados. 100 Autorización
+
+e) De 150,0 00.01 hast a (sic) 200,000.00 metros
+
+cuadrados. 150 Autorización
+
+f) Mayores a 200,000.01 metros cuadrados 200 Autorización
+
+> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+XX.- Autorización de la Modificación de la Constitución de Desarrollo Inmobiliario.
+
+a) Hasta 10,000.00 metros cuadrados 35 Autorización
+
+b) De 10,000.01 hasta 50,000.00 metros
+
+cuadrados. 40 Autorización
+
+c) De 50,000.01 hasta 100,000.00 metros
+
+cuadrados. 45 Autorización
+
+d) De 100,000.01 hasta 150,000.00
+
+metros cuadrados. 50 Autorización
+
+e) De 150,000.01 hast a (sic) 200,000.00 metros
+
+cuadrados. 75 Autorización
+
+f) Mayores a 200,000.01 metros cuadrados 100 Autorización
 
 De las exenciones
 
@@ -1851,17 +2025,29 @@ La base del presente derecho, será la cabeza de ganado vacuno, porcino, equino 
 
 De la tarifa
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 84.
 
 La tarifa aplicable a los derechos por matanza de ganado será la siguiente:
 
+Concepto Veces Salario Mínimo
+
 Por cada cabeza de ganado:
 
-Vacuno 4 salarios mínimos
+Vacuno: 4.0
 
-Porcino 2 salarios mínimos
+Porcino: (Sic)
 
-Equino y Caprino 2 salarios mínimos
+Peso de hasta 45.99 kg. 1.0
+
+Peso de entre 46 y hasta 125.99 kg 2.0
+
+Peso de 126 kg. ó más 4.0
+
+Equino: 4.0
+
+Caprino: 1.0
 
 De la matanza fuera del rastro público
 
@@ -1873,11 +2059,17 @@ En todo caso, se requerirá la licencia correspondiente.
 
 De la introducción de carne al Municipio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 86.
 
-Cuando se introduzcan carnes frescas o refrigeradas al Municipio, no se pagará derecho alguno por la inspección que realice "Abastos de Mérida", pero en todo caso se requerirá pasar por dicha inspección en los términos del artículo 22 del Reglamento de dicho organismo.
+Cuando se introduzcan carnes frescas o refrigeradas al Municipio, no se pagará el derecho por la inspección que realice "Abastos de Mérida", en sus instalaciones, conforme a los artículos 22, 23, 24 y 25del (sic) Reglamento de dicho organismo.
 
 En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe sea igual a 10 salarios mínimos por pieza de ganado introducida o su equivalente.
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+No se aplicará la sanción prevista en el párrafo que inmediatamente antecede, siempre y cuando, quien introduzca carnes frescas o refrigeradas a este Municipio, permita que personal de "Abastos de Mérida" realice la inspección en lugar distinto de las instalaciones de dicho organismo descentralizado y pague por ese servicio un derecho de 0.0142 de salario mínimo por kilogramo.
 
 #### Sección Novena. Derechos por servicio de Alumbrado Público
 
@@ -1925,11 +2117,19 @@ colonias marginadas del
 
 Municipio de Mérida. 1.0
 
-VIII.- Otros certificados o
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-constancias no señalados en forma
+VIII.- Constancia de excepción de pago del
 
-expresa en el Capítulo II del
+Impuesto Sobre Adquisición de Inmuebles 1.0
+
+> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+IX.- Otros certificados o constancias no
+
+señalados en forma expresa en el Capítulo II
+
+del Título Segundo de esta Ley 1.0
 
 ###### ARTÍCULO 88.
 
@@ -2145,23 +2345,27 @@ a).- Cuando se trate de la ubicación de un predio dentro de una manzana, se apl
 
 b).- Cuando se trate de la ubicación de una manzana, se aplicara el cobro por metro lineal con base en la distancia existente desde el punto de referencia catastral más cercano a la manzana solicitada por cada metro lineal 0.081
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 90.
 
-El derecho al que se refiere el punto 1 inciso d) de la fracción III del artículo 89, se considerará reducido en un 50% cuando la emisión de la cédula catastral se derive de licencia para construcción con superficie de hasta 40 m2 y la solicitud de expedición de la cédula catastral se realice dentro de un plazo no mayor de 60 días naturales, considerando la fecha de expedición de la licencia de construcción.
+El derecho al que se refiere el punto 1 inciso d) de la fracción III del artículo 89, se considerará reducido en un 50% cuando la emisión de la cédula catastral sea por motivo de actualización o mejoras de predio y se derive de una terminación de obra que cuente con la constancia respectiva; y la expedición de la cédula catastral se solicite en un plazo no mayor a 10 días naturales contados a partir de la fecha de obtención de la constancia de terminación de obra.
 
 ###### ARTÍCULO 91.
 
 No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas cuya superficie sea utilizada plenamente para la producción agrícola o ganadera.
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 92.
 
-Los deslindes, las divisiones y los fraccionamientos causarán derechos de conformidad con lo establecido en la fracción VII del artículo 89, con excepción de lo dispuesto en el artículo anterior.
+Los deslindes o marcajes y las divisiones causarán derechos de conformidad con lo establecido en la fracción VII del artículo 89, con excepción de lo dispuesto en el artículo anterior.
 
-No causarán los derechos establecidos en este artículo, las divisiones hasta en dos partes, cuando el predio original no exceda de 400 metros cuadrados.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 93.
 
-Por la expedición del oficio de resultado de la revisión técnica de la documentación de constitución en régimen de propiedad en condominio, se causarán derechos por departamento de acuerdo a su tipo.
+Por la expedición del oficio de resultado de la revisión técnica de la documentación de constitución o modificación del régimen de propiedad en condominio, se causarán derechos por departamento de acuerdo a su tipo.
 
 Veces de salario mínimo
 
@@ -2217,9 +2421,13 @@ V.- Plano del Municipio de Mérida (No georeferenciado) hasta nivel manzana, en 
 
 VI.- Asignación de nomenclatura en planos de fraccionamientos y divisiones de predios que formen al menos una vialidad, por cada fracción 0.1 salarios
 
-VII.- Por revisión y validación en línea (vía internet) de planos de división, unión, régimen de condominio, de mejora, cambio de nomenclatura, rectificación de medidas, de urbanización o de factibilidad de división, por cada plano 0.27 salarios
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-#### Sección Décima Primera. Derechos por el uso de Vertederos
+VII.- Por revisión y validación en línea (vía internet) de planos en 0.32 formato catastral, elaborados y presentados por un dibujante salarios empadronado, se cobrará por cada plano.
+
+#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Ecología
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 96.
 
@@ -2227,9 +2435,11 @@ Son sujetos al pago de los derechos establecidos en esta sección las personas q
 
 De la base
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 97.
 
-La base para determinar el importe de estos derechos será el número de metros cuadrados usados y aprovechados por la persona obligada al pago.
+La base para determinar el importe de estos derechos será el número de metros cuadrados o lineales, según sea el caso, usados y aprovechados por la persona obligada al pago.
 
 De la tasa y del pago
 
@@ -2245,7 +2455,13 @@ b) Para la instalación de mobiliario urbano del tipo paradero de autobús con e
 
 c) Para la instalación de mobiliario urbano distinto al señalado en el inciso b) de esta fracción, cuyo uso requiera el pago de una contraprestación: 0.50 salarios mínimos por metro cuadrado o fracción de este.
 
-d) Para uso distinto a los señalados en los incisos anteriores: 10.0 salarios mínimos por metro cuadrado.
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+d) Para la instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo: 0.05 salarios mínimos por metro lineal.
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+e) Para uso distinto a los señalados en los incisos anteriores: 10.00 salarios mínimos por metro cuadrado.
 
 Para efectos de esta fracción se entiende como mobiliario urbano entre otros las casetas telefónicas, fuentes, bancas, depósitos de basura, señalización, buzones, y otros elementos análogos.
 
@@ -2257,13 +2473,19 @@ III.- Por el uso de espacios públicos ubicados en bienes de dominio público de
 
 Cuando de la aplicación de este factor resultare una cantidad superior a 30 pesos, se cobrará esta cantidad en vez de aquélla.
 
-Excepto por el derecho contenido en la fracción III, los demás derechos señalados en este artículo se causarán por períodos de un mes natural, sin embargo para el caso de los derechos establecidos en los incisos a) y d) de la fracción I de este artículo si el período de uso fuese menor a un mes natural el período de causación será en proporción a los días de uso considerando para tales efectos que un mes natural es equivalente a treinta días.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Excepto por el derecho contenido en la fracción III, los demás derechos señalados en este artículo se causarán por períodos de un mes natural, sin embargo para el caso de los derechos establecidos en los incisos a) y e) de la fracción I de este artículo si el período de uso fuese menor a un mes natural el período de causación será en proporción a los días de uso considerando para tales efectos que un mes natural es equivalente a treinta días.
 
 Los derechos establecidos en los incisos b) y c) de la fracción I y fracción II de este artículo se pagarán dentro de los quince días naturales del mes siguiente a aquel en que se hayan causado.
 
-El derecho establecido en el inciso d) de la fracción I de este artículo se pagará dentro del mes natural al que se solicite el permiso.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-Cuando el último día de los plazos a que se refieren lo párrafos anteriores fuera día inhábil, el plazo se entenderá prorrogado hasta el día hábil siguiente.
+El derecho establecido en el inciso e) de la fracción I de este artículo se pagará dentro del mes natural al que se solicite el permiso.
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Cuando el último día de los plazos a que se refieren los párrafos anteriores fuera día inhábil, el plazo se entenderá prorrogado hasta el día hábil siguiente.
 
 De la renuncia y otorgamiento de concesiones y permisos
 
@@ -2375,31 +2597,35 @@ b) En las comisarías y subcomisarias
 
 del Municipio de Mérida 1.2 salarios
 
-IX.- Por el registro de cambio de
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-titular y su correspondiente expedición
+IX.- Por el registro de cambio de titular
 
-de título de derecho de uso a perpetuidad
+o la corrección de datos y su correspondiente
 
-o por uso temporal a quince años, cuando
+expedición de título de derecho de uso a
 
-haya sido adquirida por herencia,
+perpetuidad o por uso temporal a quince años,
 
-legado o mandato judicial. 3.5 salarios
+cuando haya sido adquirida por herencia, legado
 
-X.- Por el registro de cambio de
+o mandato judicial. 3.5 salarios
 
-titular y su correspondiente expedición
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-de título de derecho de uso a perpetuidad
+X.- Por el registro de cambio de titular
 
-o por uso temporal a quince años,
+o la corrección de datos y su correspondiente
 
-cuando el cónyuge supérstite haya sido
+expedición de título de derecho de uso a
 
-casado con el titular bajo el régimen de
+perpetuidad o por uso temporal a quince años,
 
-sociedad legal o bienes mancomunados. 3.5 salarios
+cuando el cónyuge supérstite haya sido casado
+
+con el titular bajo el régimen de sociedad legal
+
+o bienes mancomunados. 3.5 salarios
 
 XI.- Por el permiso temporal para
 
@@ -2621,23 +2847,45 @@ Cuando por su denominación algún establecimiento no se encuentre comprendido e
 
 El derecho correspondiente a la revalidación de la licencia de funcionamiento, para los establecimientos cuyo giro sea el expendio de bebidas alcohólicas y/o cerveza se incrementará en un cien por ciento si el titular no la obtuvo durante la administración municipal inmediata anterior.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 #### Sección Décima Quinta. Derechos por Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura
 
 ###### ARTÍCULO 114.
 
-Por el uso de los vertederos, de aguas negras y residuos, de las lagunas de oxidación o planta de tratamiento de aguas residuales, propiedad del Municipio, se pagará el siguiente derecho:
+Por los servicios que presta la Subdirección de Ecología se pagarán los siguientes derechos:
 
-CONCEPTO TARIFA
+CONCEPTO VECES DE SALARIO MINIMO
 
-Por la recepción de aguas
+I.- Por el uso de vertederos propiedad del
 
-residuales en el sitio de
+Municipio de Mérida:
 
-tratamiento de aguas
+a) Por la recepción de aguas residuales en
 
-residuales: .20 Salarios
+el sitio de tratamiento de aguas residuales
 
-por metro cúbico
+por cada metro cúbico: 0.25
+
+II.- Por la recepción de cada perro o gato
+
+para su cuidado en el Centro Municipal
+
+de Control Animal (C.E.M.C.A.):
+
+a) En las Instalaciones del
+
+C.E.M.C.A. 0.85
+
+b) En el Domicilio del solicitante 1.70
+
+III.- Por estancia de animales y/o
+
+recuperación de los mismos, que por alguna
+
+razón fueron capturados o decomisados y
+
+resguardados en el C.E.M.C.A., por día 0.85
 
 #### Sección Décima Sexta
 
@@ -3245,9 +3493,11 @@ VII.- Aprovechamientos Diversos.
 
 De los honorarios por notificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 165.
 
-Cuando las autoridades fiscales realicen notificaciones personales de conformidad con lo establecido en el Código Fiscal del Estado de Yucatán o el Código Fiscal de la Federación para requerir el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán y cobrarán a cargo de quien incurrió en el incumplimiento el equivalente a 1.5 veces el salario mínimo vigente en la fecha de la diligencia, por concepto de honorarios por notificación.
+Cuando las autoridades fiscales ordenen la realización de notificaciones personales y se lleven a cabo de conformidad con lo establecido en el Código Fiscal del Estado de Yucatán o el Código Fiscal de la Federación para requerir el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán y cobrarán a cargo de quien incurrió en el incumplimiento el equivalente a 1.5 veces el salario mínimo vigente en la fecha de la diligencia, por concepto de honorarios por notificación.
 
 No obstante lo anterior, el importe de los honorarios por notificación no excederá del que resulte de la determinación del crédito fiscal derivado de la obligación omitida requerida.
 
@@ -3264,8 +3514,6 @@ II.- El 0.30, para invertir en equipo y herramientas necesarias para fortalecer 
 Lo dispuesto en este artículo aplicará únicamente en el caso de las notificaciones personales realizadas por el personal señalado en la fracción I.
 
 ## TITULO TERCERO. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
-
-## Título Segundo de esta Ley 1.0
 
 ### CAPÍTULO I. ORDENAMIENTO APLICABLE
 
@@ -3285,7 +3533,9 @@ II.- Por la de embargo, incluyendo el señalado en el inciso e) del artículo 9 
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco municipal.
 
-Cuando el .02 del importe del crédito omitido, fuere inferior al importe de tres salarios mínimos, se cobrará esta cantidad en lugar del mencionado .02 del crédito omitido.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Cuando el .02 del importe del crédito omitido, fuere inferior al importe de tres salarios mínimos, se cobrará esta cantidad en lugar del mencionado .02 del crédito omitido. Tratándose de multas Administrativas Federales no Fiscales se aplicará lo que dispone el Código Fiscal de la Federación.
 
 ###### ARTÍCULO 169.
 
@@ -3319,25 +3569,13 @@ Los gastos señalados en los artículos 168 y 169 de esta Ley, se determinarán 
 
 De la distribución
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 171.
 
 Los gastos de ejecución mencionados en los artículos 168 y 169 de esta Ley, no serán objeto de exención, disminución, condonación o convenio.
 
-El importe de los gastos previstos en el artículo 168, corresponderá a los empleados de la Dirección de Finanzas y Tesorería Municipal, dividiéndose dicho importe, mediante el siguiente procedimiento:
-
-Para el caso de que el ingreso por gastos de ejecución, fueren generados en el cobro de multas federales no fiscales:
-
-.15 Jefe del Departamento de ejecución.
-
-.85 Empleados del Departamento de ejecución.
-
-Para el caso de que los ingresos por gastos de ejecución, fueren generados en el cobro de cualesquiera otros créditos fiscales:
-
-.15 Jefe del Departamento de Ejecución.
-
-.40 Empleados del Departamento de ejecución.
-
-.45 Empleados del Departamento Generador.
+El importe de los gastos previstos en el artículo 168, servirá para invertir en equipo y herramientas necesarias para fortalecer el ejercicio del Procedimiento Administrativo de Ejecución, y para distribuir entre los empleados que participen en dicho procedimiento, previo acuerdo que para tal efecto emita el Director de Finanzas y Tesorero Municipal.
 
 ###### ARTÍCULO 172.
 
@@ -3373,7 +3611,9 @@ a).- No presentar los avisos, declaraciones o manifestaciones que exigen las dis
 
 b).- La falta de cumplimiento de las obligaciones establecidas en esta Ley, a los fedatarios públicos, las personas que tengan funciones notariales, los empleados y funcionarios del Registro Público de la Propiedad y a los que por cualquier medio evadan o pretendan evadir, dicho cumplimiento.
 
-c).- La falta de empadronamiento de los obligados a ello, en la Dirección de Finanzas y Tesorería Municipal dentro de los términos que señala esta ley.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+
+c).- La falta de empadronamiento de los obligados a ello, en la Dirección de Finanzas y Tesorería Municipal dentro de los términos que señala esta ley o seguir funcionando cuando la licencia de funcionamiento le haya sido revocada por resolución de autoridad competente.
 
 d).- No revalidar la licencia municipal de funcionamiento en los términos que dispone esta Ley.
 
@@ -3580,3 +3820,133 @@ SECRETARIO DE PLANEACIÓN Y PRESUPUESTO
 C. MIGUEL ANTONIO FERNÁNDEZ VARGAS
 
 SECRETARIO DE LA CONTRALORÍA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 23 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día uno de enero del año dos mil catorce, previa su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTÍCULO TERCERO.
+
+En caso de que durante el ejercicio fiscal 2014 fueran modificadas mediante sesión de cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta del Capítulo II del Título Segundo se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2014, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48 las bonificaciones se otorgarán de conformidad con la siguiente tabla:
+
+Mes en el que Factor de bonificación
+
+se paga el equivalente
+
+a una anualidad
+
+Enero 0.20
+
+Febrero 0.10
+
+Marzo 0.08
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año 2014.
+
+###### ARTÍCULO QUINTO.
+
+Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2014, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2014, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2014, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Así mismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original; y
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno.
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo. Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2014.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2014, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2014 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SEXTO.
+
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2014, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre 2013.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Federal Electoral.
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SÉPTIMO.
+
+Si durante el ejercicio fiscal 2014 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos segundo y tercero del artículo 45 de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+###### ARTÍCULO NOVENO.
+
+Las constancias que haya expedido la Dirección de Finanzas y Tesorería Municipal, para el registro de peritos valuadores, seguirán vigentes respecto de los avalúos que se emitan para efectos del Impuesto Sobre Adquisición de Inmuebles.
+
+(NOTA: EL 10 DE NOVIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 10/2014, DECLARÓ LA INVALIDEZ DEL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO NÚMERO 132 INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS UNA VEZ TRANSCURRIDOS TREINTA DÍAS HÁBILES CONTADOS A PARTIR DEL SIGUIENTE AL EN QUE SEA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+###### ARTÍCULO DÉCIMO.
+
+HASTA EN TANTO NO SE EMITA DISPOSICIÓN LEGAL EN CONTRARIO, CONTINUA VIGENTE PARA EL AÑO 2014 Y LOS AÑOS SUBSECUENTES, EL ARTÍCULO TRANSITORIO SEXTO, PUBLICADO EN EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO MEDIANTE DECRETO 18, DE FECHA 28 DE DICIEMBRE DE 2012, MEDIANTE EL CUAL SE EXPIDIÓ LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA, QUE OTORGA BENEFICIOS FISCALES A LOS SUJETOS OBLIGADOS AL PAGO DEL IMPUESTO PREDIAL.
