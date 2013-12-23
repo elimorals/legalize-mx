@@ -4,7 +4,7 @@ identifier: "SON-ley-de-integracion-social-para-personas-con-discapacidad-14608"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-12"
-last_updated: "2013-12-16"
+last_updated: "2013-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1999.
 
@@ -1197,6 +1197,14 @@ Cuando el operador no cumpla con lo establecido en el artículo anterior, se har
 
 El Gobierno del Estado y los Ayuntamientos, por conducto de las autoridades de Tránsito, las instituciones y organismos de Educación y Cultura, diseñarán e instrumentarán campañas y programas permanentes de educación vial y cortesía urbana, orientados a lograr la aceptación y respeto de los derechos de personas con discapacidad en su tránsito por la vía pública, lugares de acceso al público, centros de trabajo y demás actividades y programas para evitar la discriminación, indiferencia, abuso y marginación social.
 
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+El Gobierno del Estado y los ayuntamientos, a través de sus dependencias y entidades, deberán publicar y seguir, dentro de sus respectivos edificios, las Reglas de Cortesía y Respeto para las Personas con Discapacidad determinadas por los Centros de Rehabilitación Integral Teletón. Dicha publicación deberá ser de manera gráfica y didáctica para lograr un claro entendimiento.
+
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, los servidores públicos cuya función recaiga en la atención directa de la población, deberán tomar cursos de capacitación con referencia al trato cordial y adecuado de personas con discapacidad.
+
 ###### ARTÍCULO 110.
 
 Para conformar la cultura de la discapacidad, los medios de comunicación locales podrán otorgar espacios para difundir programas y acciones que eleven la autoestima y valoren los potenciales del desarrollo integral de este sector de la población.
@@ -1340,3 +1348,9 @@ B.O. 16 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 23 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
