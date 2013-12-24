@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2013-04-05"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -10969,9 +10969,11 @@ Si no existe una percepción fija, la indemnización se calculará por peritos, 
 
 Si el daño origina la muerte, o la incapacidad permanente total o parcial, la reparación consistirá en el pago de los gastos mortuorios y de todos los que en su caso se hubieren hecho con el fin de curar a la víctima de las lesiones que le hayan causado la muerte, o la incapacidad en su caso.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 1891.
 
-En el caso del artículo anterior, el responsable pagará además una indemnización económica que se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular dicha indemnización, se tomará como base el cuádruplo del salario mínimo diario más alto que esté en vigor en la región en el momento en que ocurra el fallecimiento de la víctima o se declare su incapacidad, y se extenderá al número de días que para tales supuestos señala la expresada ley.
+En el caso del artículo anterior, el responsable pagará además una indemnización económica que se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular dicha indemnización, se tomará como base el salario mínimo diario más alto que esté en vigor en la región en el momento en que ocurra el fallecimiento de la víctima o se declare su incapacidad, y se extenderá al número de días que para tales supuestos señala la expresada ley.
 
 ###### ARTÍCULO 1892.
 
@@ -20866,3 +20868,7 @@ SEGUNDO.- En los juicios de divorcio, en ambas instancias, que se encuentren pen
 Si existe otra pretensión en los juicios pendientes de resolución distinta a la disolución del vínculo matrimonial, el juzgador seguirá el trámite del juicio en relación a estos puntos litigiosos conforme a las disposiciones procesales aplicables y anteriores al presente decreto, hasta resolver en definitiva según corresponda, sin perjuicio de que decrete la disolución del vínculo matrimonial.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
