@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2013-11-29"
+last_updated: "2013-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3731,13 +3731,17 @@ REDUCCIÓN DE SANCIONES POR LA REAPREHENSIÓN DE PRÓFUGO DEBIDO A GESTIONES DEL
 
 EXCUSA ABSOLUTORIA Y SANCIONES CONDICIONADA AL EVADIDO. Al evadido no se le aplicará sanción alguna, a menos que ejerza violencia en las personas o dañe cosas; o soborne a servidor público; en cuyo caso la pena aplicable será de seis meses a tres años de prisión y multa; y sin perjuicio de la que corresponda por la violencia, daño o soborno.
 
-### CAPÍTULO OCTAVO. QUEBRANTAMIENTO DE ARRAIGO Y DE SANCIONES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO OCTAVO. QUEBRANTAMIENTO DE MEDIDAS Y DE SANCIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 249.
 
-SANCIONES Y FIGURA TÍPICA DE QUEBRANTAMIENTO DE ARRAIGO JUDICIAL. Se aplicará prisión de seis meses a dos años y multa: A quien por cualquier medio favorezca a propósito la sustracción del arraigo domiciliario o en hotel; o que se viole la prohibición de abandonar una demarcación geográfica; que dicte la autoridad judicial durante la averiguación previa. Al arraigado sólo se le impondrá sanción si ejerce violencia para sustraerse, causa daños en cosa ajena o soborna a servidores públicos.
-
-El artículo 246 es aplicable a los supuestos anteriores.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2013)
 
 ###### ARTÍCULO 250.
 
@@ -4021,17 +4025,35 @@ A quien incurra en conspiración criminal se le aplicará de una tercera parte d
 
 Si los delitos objeto de la conspiración son varios, se atenderá al de la pena más grave y la que se imponga se podrá aumentar hasta en un tercio más.
 
-#### SECCIÓN PRIMERA. PANDILLERISMO
+#### SECCIÓN CUARTA. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 274 BIS 1- Comete delito de uso indebido de los sistemas de emergencia el que dolosamente por cualquier medio reporte hechos falsos a instituciones públicas o privadas que presten servicios de emergencia, protección civil, bomberos o seguridad pública y que haga necesaria la movilización y presencia de elementos de dicha institución.
+
+Al responsable de esta conducta se le impondrán de seis a doce meses de prisión y multa de 50 a 200 días de salario mínimo vigente en el Estado.
+
+Si por la comisión de este delito se provoca algún accidente o algún daño, personal o material, se impondrá de tres a cinco años de prisión y multa de 500 a 1,000 días de salario mínimo vigente en el Estado.
+
+En caso de reincidencia se le impondrá hasta el doble de las sanciones establecidas.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 274 BIS 2.- Cuando el reporte sea realizado por un menor de edad se sancionara de acuerdo a (sic) Ley de Justicia para Adolescentes del Estado.
+
+Los delitos señalados en el presente Título se perseguirán de oficio.
 
 ###### ARTÍCULO 274.
 
 SANCIONES Y FIGURA TÍPICA DE BANDA O PANDILLA CRIMINAL. Se aplicará prisión de uno a siete años y multa: A quienes sin estar organizados con fines delictuosos formen parte de banda o pandilla de tres o más personas y actúen con propósito de delinquir.
 
-#### SECCIÓN SEGUNDA. USURPACIÓN DE PROFESIÓN
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN PRIMERA. PANDILLERISMO
 
 ### CAPÍTULO SEGUNDO. OTROS DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-#### SECCIÓN TERCERA. RESPONSABILIDAD PROFESIONAL
+#### SECCIÓN SEGUNDA. USURPACIÓN DE PROFESIÓN
 
 ###### ARTÍCULO 275.
 
@@ -4047,13 +4069,13 @@ Si aparece que se comete algún otro delito, se estará a las reglas del concurs
 
 ARTICULO 275 BIS. SANCIONES Y FIGURA TÍPICA DE INSTALACIÓN U OPERACIÓN DE CENTROS DE JUEGOS Y APUESTAS SIN LA AUTORIZACIÓN DE LA AUTORIDAD COMPETENTE. Se aplicará pena de cuatro a diez años de prisión y multa, a quien destine o aproveche un local en forma habitual, temporal o permanente para la instalación u operación de casinos, centros de apuestas, salas de sorteos, casas de juego y similares sin la autorización de la autoridad competente.
 
-#### SECCIÓN CUARTA. INCITACIÓN A LA COMISIÓN DE UN DELITO
+#### SECCIÓN TERCERA. RESPONSABILIDAD PROFESIONAL
 
 ###### ARTÍCULO 276.
 
 SANCIONES Y FIGURA TÍPICA DE USURPACIÓN DE PROFESIÓN. Se aplicará prisión de uno a tres años y multa: A quien ejerza los actos propios de una profesión, sin tener título ni autorización legal.
 
-#### SECCIÓN QUINTA. ARMAS PROHIBIDAS
+#### SECCIÓN CUARTA. INCITACIÓN A LA COMISIÓN DE UN DELITO
 
 ###### ARTÍCULO 277.
 
@@ -4065,13 +4087,19 @@ PENALIDAD Y FIGURA TÍPICA DE OMISIÓN DE AUXILIO MÉDICO EN CASO URGENTE. Se ap
 
 Si se produce la muerte que pudo evitarse con la intervención, se aplicará prisión de tres días a seis años y multa.
 
+#### SECCIÓN QUINTA. ARMAS PROHIBIDAS
+
+###### ARTÍCULO 279.
+
+PENALIDAD Y FIGURA TÍPICA DE INCITACIÓN A LA COMISIÓN DE UN DELITO. Se aplicará prisión de tres días a tres años y multa: A quien incite públicamente a cometer uno o más delitos determinados.
+
 #### SECCION SEXTA. FACILITACION DELICTIVA
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ARTICULO 280 BIS. SANCIONES Y FIGURA TÍPICA DE FACILITACIÓN DELICTIVA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARRÁFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2013) (F. DE E., P.O. 31 DE MAYO DE 2013)
 
@@ -4084,26 +4112,6 @@ Además de las penas previstas en el párrafo anterior, se impondrá hasta una m
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Las penas señaladas en este artículo se aumentarán hasta un tanto más y se impondrá además destitución del cargo o comisión e inhabilitación de tres a diez años para ocupar otro, cuando el delito sea cometido por servidores públicos o ex servidores públicos de las fuerzas armadas, instituciones de seguridad pública o de procuración de justicia.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ABRIL DE 2012)</small>
-
-###### ARTÍCULO 279.
-
-PENALIDAD Y FIGURA TÍPICA DE INCITACIÓN A LA COMISIÓN DE UN DELITO. Se aplicará prisión de tres días a tres años y multa: A quien incite públicamente a cometer uno o más delitos determinados.
-
-#### SECCIÓN SÉPTIMA. CIRCULACIÓN CON PLACAS SOBREPUESTAS
-
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-ARTÍCULO 280 BIS 1. SANCIONES Y FIGURA TÍPICA DE CIRCULACIÓN CON PLACAS SOBREPUESTAS.- Se aplicará una pena de cuatro a doce años y multa a quien utilice, posea, custodie o detente un vehículo con placas, que en términos de las disposiciones aplicables han sido dadas de baja o cuyos datos de identificación correspondan a otro vehículo.
-
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-ARTICULO 280 BIS 2. CIRCUNSTANCIAS AGRAVANTES DEL DELITO ANTERIOR.- Las penas previstas en el artículo anterior, se incrementarán hasta en una mitad más:
-
-I. Cuando se cometa algún otro delito doloso en el cual se utilice el vehículo que porta las placas sobrepuestas; sin perjuicio de las penas que por el delito diverso se deban imponer.
-
-II. Cuando intervenga un servidor público en su comisión, a quien además se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual a la pena de prisión impuesta.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -4120,6 +4128,22 @@ Son armas prohibidas: los puñales dagas y verdugillos (sic); o los instrumentos
 Se aplicarán iguales penas: A quien porte cuchillo o navaja en lugar de reunión pública o privada con acceso al público, salvo que trabaje en ese lugar y los porte con tal objeto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN SÉPTIMA. CIRCULACIÓN CON PLACAS SOBREPUESTAS
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 280 BIS 1. SANCIONES Y FIGURA TÍPICA DE CIRCULACIÓN CON PLACAS SOBREPUESTAS.- Se aplicará una pena de cuatro a doce años y multa a quien utilice, posea, custodie o detente un vehículo con placas, que en términos de las disposiciones aplicables han sido dadas de baja o cuyos datos de identificación correspondan a otro vehículo.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTICULO 280 BIS 2. CIRCUNSTANCIAS AGRAVANTES DEL DELITO ANTERIOR.- Las penas previstas en el artículo anterior, se incrementarán hasta en una mitad más:
+
+I. Cuando se cometa algún otro delito doloso en el cual se utilice el vehículo que porta las placas sobrepuestas; sin perjuicio de las penas que por el delito diverso se deban imponer.
+
+II. Cuando intervenga un servidor público en su comisión, a quien además se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual a la pena de prisión impuesta.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN OCTAVA. UTILIZACIÓN DE VEHÍCULOS, UNIFORMES, INSIGNIAS O EQUIPOS OFICIALES CON FINES ILÍCITOS
 
@@ -4174,8 +4198,6 @@ En el caso de que el delito se cometa por funcionarios públicos, además de la 
 #### SECCIÓN DECIMA PRIMERA. VENTA INDEBIDA DE BEBIDAS ALCOHÓLICAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
-#### SECCIÓN SEGUNDA. CONCUSIÓN
 
 #### SECCIÓN TERCERA. COHECHO
 
@@ -6684,3 +6706,17 @@ P.O. 29 DE NOVIEMBRE DE 2013.
 DECRETO NÚMERO 333, POR EL QUE SE REFORMA EL ARTÍCULO 212 BIS DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA. ASÍ MISMO SE ADICIONAN LOS ARTÍCULOS: 212 BIS 1, 212 BIS 2, 212 BIS 3, 212 BIS 4, 212 BIS 5, Y 212 BIS 6.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+DECRETO NO. 386 POR EL QUE SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO OCTAVO DEL TÍTULO TERCERO Y SE DEROGA EL ARTÍCULO 249 DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO.- La presente reforma entrará en vigor dieciocho meses después, contados a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+DECRETO NO. 437 POR EL QUE SE ADICIONA AL TÍTULO SEGUNDO, CAPÍTULO PRIMERO DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA, LA SECCIÓN CUARTA QUE CONTIENE LOS ARTÍCULOS 274 BIS Y 274 BIS 2.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
