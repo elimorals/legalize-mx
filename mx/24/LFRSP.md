@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "2012-04-09"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -150,7 +150,7 @@ Si la resolución que se dicte en el juicio político es condenatoria, se sancio
 
 ### CAPITULO II. Procedimiento en el Juicio Político
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 9o.
 
@@ -440,7 +440,7 @@ En todas las cuestiones relativas al procedimiento no previstas en esta Ley, as�
 
 Incurren en responsabilidad administrativa los servidores públicos a que se refiere el artículo 2o. de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 47.
 
@@ -497,6 +497,10 @@ XX.- Supervisar que los servidores públicos sujetos a su dirección, cumplan co
 > <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 1991)</small>
 
 XXI.- Proporcionar en forma oportuna y veraz, toda la información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, a efecto de que aquélla pueda cumplir con las facultades y atribuciones que le correspondan.
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
+
+XXI bis.- Las recomendaciones que les presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, y en el supuesto de que se decida no aceptar o no cumplir las recomendaciones, deberá hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por el Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos y por el artículo 46 de la Ley de la Comisión Nacional de los Derechos Humanos;
 
 XXII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
 
@@ -712,7 +716,7 @@ La Secretaría expedirá constancias que acrediten la no existencia de registro 
 
 Los servidores públicos sancionados podrán impugnar ante el Tribunal Federal de Justicia Fiscal y Administrativa las resoluciones administrativas por las que se les impongan las sanciones a que se refiere este Capítulo. Las resoluciones anulatorias firmes dictadas por ese Tribunal, tendrán el efecto de que la dependencia o entidad en la que el servidor público preste o haya prestado sus servicios, lo restituya en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 71.
 
@@ -724,7 +728,7 @@ I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que
 
 II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 > <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
 
@@ -772,7 +776,7 @@ Las sanciones económicas que se impongan constituirán créditos fiscales a fav
 
 Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la presente Ley, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión. En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción. Quedará a juicio de quien resuelve disponer o no la suspensión, separación o inhabilitación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 77.
 
@@ -802,7 +806,7 @@ Si el órgano del Estado niega la indemnización, o si el monto no satisface al 
 
 Cuando se haya aceptado una recomendación de la Comisión de Derechos Humanos en la que se proponga la reparación de daños y perjuicios, la autoridad competente se limitará a su determinación en cantidad líquida y la orden de pago respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 78.
 
@@ -844,7 +848,7 @@ Las atribuciones que este Título otorga a la Secretaría, a las Cámaras de Sen
 
 Para los efectos del párrafo que antecede, las citadas autoridades conforme a la legislación respectiva, determinarán los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 80.
 
@@ -1012,7 +1016,7 @@ México, D.F., a 30 diciembre de 1982.- Antonio Riva Palacio López, S.P.- Maria
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y dos.- "Año del General Vicente Guerrero".- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Patrimonio y Fomento Industrial, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Comercio, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Horacio García Aguilar.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Rodolfo Félix Valdez.- Rúbrica.- El Secretario de Asentamientos Humanos y Obras Públicas, Marcelo Javelly Girard.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Secretario de la Reforma Agraria, Luis Martínez Villicaña.- Rúbrica.- El Secretario de Turismo, Antonio Enríquez Savignac.- Rúbrica.- El Secretario de Pesca, Pedro Ojeda Paullada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 11 DE ENERO DE 1991.
 
@@ -1129,3 +1133,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 24 DE DICIEMBRE DE 2013.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
