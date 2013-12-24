@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2013-06-12"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPED"
 
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -202,7 +202,9 @@ III. Promover el acceso a centros de desarrollo infantil, incluyendo a menores c
 
 IV. Promover las condiciones necesarias para que los menores puedan convivir con sus padres o tutores, incluyendo políticas públicas de reunificación familiar para migrantes y personas privadas de la libertad;
 
-V. Preferir, en igualdad de circunstancias, a las personas que tengan a su cargo menores de edad en el otorgamiento de becas, créditos u otros beneficios;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
+
+V. Preferir, en igualdad de circunstancias y con equidad de género, a las personas que tengan a su cargo menores de edad en el otorgamiento de becas, créditos u otros beneficios;
 
 VI. Alentar la producción y difusión de libros para niños y niñas;
 
@@ -855,3 +857,7 @@ D.O.F. 7 DE JUNIO DE 2013.
 D.O.F. 12 DE JUNIO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
