@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2013-06-11"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -2199,9 +2199,9 @@ III. En todos los demás casos previstos por la ley.
 
 En los casos de las fracciones I y II, los edictos se publicarán por tres veces de tres en tres días, en el Periódico Oficial y otro periódico de los de mayor circulación, haciéndose saber que debe presentarse el citado dentro de un término que no será menor de quince ni excederá de sesenta días.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-Tratándose de juicio de Pérdida de Patria Potestad el término para que el demandado comparezca a juicio no será menor de diez ni excederá de treinta días.
+Tratándose de juicio de pérdida de patria potestad el término para que el demandado comparezca a juicio no será menor de diez ni excederá de quince días.
 
 ###### ARTÍCULO 222.
 
@@ -6405,13 +6405,15 @@ Revisión de Oficio de la sentencia.
 
 Las sentencia recaídas en el Juicio sobre paternidad y filiación serán revisables de oficio, abriéndose la segunda instancia aunque las partes no apelen, ni expresen agravios. El tribunal examinara la legalidad de la sentencia de primera instancia, quedando entre tanto pendiente de ejecución. De esta disposición se exceptuara los juicios de perdida de patria potestad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 605.
 
-Juicio sobre pérdida de la patria potestad.
+Juicio sobre pérdida de la patria potestad. Cuando la pérdida de la patria potestad no se derive de sentencia dictada en juicio penal o civil que condene expresamente a ello, sólo podrá decretarse mediante sentencia declarativa que se dicte en juicio especial.
 
-Cuando la pérdida de la patria potestad no se derive de sentencia dictada en juicio penal o civil que condene expresamente a ello, sólo podrá decretarse mediante sentencia declarativa que se dicte en juicio contradictorio.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-El juicio contradictorio se tramitará en la vía ordinaria, con intervención del Ministerio Público, en el que tendrán aplicación, en lo conducente, las reglas establecidas para los juicios de paternidad y filiación.
+El juicio especial se tramitará conforme a lo establecido en artículo 605 bis II, con intervención del Ministerio Público.
 
 La sentencia que se dicte es apelable en el efecto suspensivo.
 
@@ -6422,6 +6424,26 @@ En cualquier estado del juicio, el juzgador podrá ordenar, de oficio o a petici
 ARTÍCULO 605 BIS.
 
 El Juez de la causa deberá, en beneficio de los menores internos en una institución de asistencia social pública o privada, decretar dentro de un mismo juicio la pérdida de la patria potestad tanto a los padres como a los abuelos paternos y maternos, cuando estos últimos no evitaron los hechos que dieron motivo a la misma, o bien mostraron nulo interés en el bienestar del menor, así como también cuando quede acreditada alguna de las causas señaladas en el artículo 545 del Código Civil Vigente en el Estado, lo anterior no está condicionado a que los padres hayan sido previamente privados, suspendidos o limitados en el ejercicio de los derechos de patria potestad, bastando con que los padres se encuentren impedidos para ejercerlos, ya sea física, mental o moralmente con independencia de que exista una resolución judicial que así lo haya determinado.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 605 BIS II.
+
+Se tramitará juicio especial sobre pérdida de patria potestad de acuerdo a las disposiciones siguientes:
+
+I. El actor deberá presentar en su escrito inicial de demanda los documentos tendientes a sustentar su pretensión, de la misma manera al momento de la contestación de demanda la contraparte deberá presentar las pruebas necesarias para acreditar sus excepciones.
+
+II. El Juez requerirá en su caso a las partes que subsanen las deficiencias en un término no mayor de tres días.
+
+III. El juez en el auto de admisión deberá ordenar la preparación de pruebas y alegatos, así mismo, nombrará tutor dativo al niño o niña y en su caso ordenará la comparecencia de los mismos, dictando todas las medidas necesarias para salvaguardar el interés superior de la niñez.
+
+IV. Admitida la demanda, se llevará a cabo el emplazamiento de acuerdo a lo establecido en el artículo 393 de este ordenamiento. Si el emplazamiento se hiciera por medio de edictos, éste se ajustará a lo establecido en el artículo 221.
+
+V. Si la parte demandada no formula contestación, se le tendrá por contestando (sic) en sentido negativo.
+
+VI. El juez señalará día y hora para la celebración de una audiencia de pruebas y alegatos, en la cual deberán desahogarse todas las pruebas que así lo requieran, sin que pueda diferirse. Desahogadas todas las pruebas, se agotará la fase de alegatos.
+
+VII. Una vez concluida la etapa de alegatos, se citará para sentencia, la cual deberá dictarse en un término no mayor a quince días. En esta etapa no podrá solicitarse prórroga para dictar la resolución correspondiente.
 
 ###### ARTÍCULO 606.
 
@@ -8259,9 +8281,9 @@ La sentencia definitiva se notificará personalmente al rebelde, si fuere conoci
 
 En el caso de que el emplazamiento al rebelde se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Periódico Oficial del Estado y en el periódico de mayor circulación del lugar, a no ser que el actor otorgue fianza bastante para restituir las cosas al estado en que se encontraban antes de la ejecución.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-En los casos de rebeldía tratándose de juicios de Patria Potestad, el término para la ejecución de la sentencia a que se refiere el párrafo anterior, será de treinta días y sin la posibilidad de exhibir la fianza a que se refiere el mismo.
+En los casos de rebeldía tratándose de juicios de pérdida de patria potestad, podrá ejecutarse inmediatamente, sin la posibilidad de exhibir fianza a que se refiere el mismo.
 
 ### CAPÍTULO PRIMERO. Disposiciones generales
 
@@ -9105,9 +9127,9 @@ El plazo para interponer el recurso de apelación, será:
 
 I. De quince días, si se trata de sentencia definitiva.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-II. De noventa días, a partir de la fecha en que se haga la publicación, si el emplazamiento se hubiera hecho por edictos, o en cualquier otro caso en que la sentencia se notifique en igual forma, salvo que se trate de juicios de Patria Potestad pues entonces el término será de treinta días, y
+II. De noventa días, a partir de la fecha en que se haga la publicación, si el emplazamiento se hubiera hecho por edictos, o en cualquier otro caso en que la sentencia se notifique en igual forma, salvo que se trate de juicios de pérdida de patria potestad, en estos casos, el término será de quince días.
 
 III. De ocho días cuando se haga valer contra autos e interlocutorias.
 
@@ -13416,3 +13438,9 @@ TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 11 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
