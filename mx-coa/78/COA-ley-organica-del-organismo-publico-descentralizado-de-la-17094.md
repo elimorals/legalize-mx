@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-organismo-publico-descentralizado-de-la-17094"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-07-16"
-last_updated: "1999-07-16"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 ---
 # LEY ORGANICA DEL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL DENOMINADO "DIRECCION DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO"
 
-LEY ORGANICA DEL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL DENOMINADO "DIRECCION DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO"
+LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO, DEL ESTADO DE COAHUILA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 16 de julio de 1999.
 
@@ -89,7 +89,9 @@ V. Por salario: el que sirve de base para el cálculo de las Aportaciones a la D
 
 El patrimonio del Organismo se constituirá de la siguiente manera:
 
-I. Con la aportación quincenal obligatoria del Municipio de Saltillo, de una cantidad equivalente al 10.5% del sueldo nominal que perciba el trabajador.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+I. Con la aportación quincenal obligatoria que otorga el Municipio de Saltillo, Coahuila de Zaragoza, consistente en una cantidad equivalente al veinticuatro por ciento del sueldo nominal que perciba el trabajador;
 
 II. Con los intereses, rentas y demás utilidades que se obtengan de la inversión de las cuotas a que se refiere la fracción anterior.
 
@@ -940,3 +942,51 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La aportación del veinticuatro por ciento del sueldo nominal a la que se refiere el artículo 6 de la presente Ley, iniciará con el 11.50% en el año 2013 y tendrá un crecimiento anual escalonado de acuerdo a la siguiente tabla:
+
+AÑO APORTACIÓN
+
+2013 11.50%
+
+2014 12.50%
+
+2015 13.50%
+
+2016 14.50%
+
+2017 15.50%
+
+2018 16.50%
+
+2019 17.50%
+
+2020 18.50%
+
+2021 19.50%
+
+2022 20.50%
+
+2023 21.50%
+
+2024 22.50%
+
+2025 23.50%
+
+2026 en adelante 24.00%
+
+Estas aportaciones serán con cargo al Presupuesto de Egresos del Municipio de Saltillo y a sus trabajadores en las proporciones que se negocien en el futuro.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley
