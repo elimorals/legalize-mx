@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2013-11-26"
+last_updated: "2013-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "JAL"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE DICIEMBRE DE 2013 EN EL PERIÓDICO OFICIAL DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 26 DE NOVIEMBRE DE 2013, NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2013.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE DICIEMBRE DE 2013.</small>
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -2855,9 +2853,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 15 DE OCTUBRE DE 2013) (F. DE E. P.O. 24 DE DICIEMBRE DE 2013)
 
-I. En el Código Penal: Homicidio culposo grave, artículo 48 penúltimo párrafo, evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; lenocinio, artículo 139; corrupción de menores, artículo 142-A, en sus dos últimos párrafos; pornografía infantil, 142-D, fracciones I y III; prostitución infantil, artículos 142-F fracción I y 142-G, promoción de la prostitución infantil artículo 142-H, trata de personas, artículo 142-J; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148 párrafo tercero y artículo 149; delitos cometidos en la custodia o guarda de documentos, artículo 151 último párrafo; enriquecimiento ilícito, artículo 153, fracción II; desaparición forzada de personas, artículos 154-A, 154-D, 154-E, 154-F, usurpación artículo 170, último párrafo; falsificación de medios electrónicos o magnéticos 170 bis, en todas sus fracciones; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafos primero y quinto; extorsión, artículo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189 bis; asalto, artículo 192; privación ilegal de la libertad y de otros derechos, artículo 193 último párrafo; secuestro y delitos relacionados previstos en el artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III, IV, V, VI y VII, robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartados c) y d), en su totalidad; y abigeato y robo de animales, artículos 240 y 242, cuando el producto del delito exceda del importe de 350 salarios mínimos o se trate de reincidencias de cualquier delito contra el patrimonio y abigeato calificado, artículo 242 B; fraude previsto en el artículo 252 fracción XIX; administración fraudulenta, artículo 254 ter, fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262 ter fracción III, y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52, y el continuado grave, establecido en el artículo 55-Bis;
+I. En el Código Penal: Homicidio culposo grave, artículo 48 penúltimo párrafo, evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; lenocinio, artículo 139; corrupción de menores, artículo 142-A, en sus dos últimos párrafos; pornografía infantil, 142-D, fracciones I y III; prostitución infantil artículos 142-F fracción I y 142-G; promoción de la prostitución infantil artículo 142-H; trata de personas, artículo 142-J; abuso sexual infantil, artículos 142-L y 142-M fracciones II y III; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148, párrafo tercero y artículo 149; delitos cometidos en la custodia o guarda de documentos, artículo 151 último párrafo; enriquecimiento ilícito, artículo 153, fracción II; desaparición forzada de personas, artículos 154-A, 154-D, 154-E, 154-F, usurpación artículo 170, último párrafo; falsificación de medios electrónicos magnéticos 170 bis, en todas sus fracciones; violación, artículo 175, violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores artículo 179 bis, párrafos primero y quinto; extorsión, artículo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189 bis; asalto, artículo 192; privación ilegal de la libertad y de otros derechos, artículo 193 último párrafo; secuestro y delitos relacionados previstos en el artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III, IV, V, VI y VII; robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartados c) y d), en su totalidad; y abigeato, y robo de animales, artículos 240 y 242, cuando el producto del delito exceda del importe de 350 salarios mínimos o se trate de reincidencias de cualquier delito contra el patrimonio y abigeato calificado, artículo 242 B; fraude previsto en el artículo 252 fracción XIX; administración fraudulenta, artículo 254 ter fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262 ter fracción III, y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura, artículo 3º; y
 
