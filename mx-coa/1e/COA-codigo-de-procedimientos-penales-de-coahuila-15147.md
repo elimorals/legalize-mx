@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2013-05-31"
+last_updated: "2013-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,6 +21,8 @@ state: "COA"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO, TERCERO Y SEXTO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE.</small>
@@ -29,9 +31,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
 UNA VEZ QUE SE HAYA OBSERVADO LO PREVISTO EN EL PÁRRAFO QUE ANTECEDE EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999 QUEDARÁ ABROGADO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE MAYO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 17 DE MAYO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -311,11 +311,9 @@ V. DELITOS EN LOS QUE LA PENA MÁXIMA DE PRISIÓN SE REDUCE A SEIS AÑOS O MENOS
 
 VI. DELITOS CUANDO EXISTA REITERACION DELICTIVA. Cuando aparezca que el inculpado cometió con anterioridad otro delito, sin aún transcurrir el término legal para que se excluya la reiteración delictiva; sea ésta real o ficta; si ello aparece durante el proceso, el juez letrado ordenará que se aprehenda al inculpado, sin perjuicio de que el inculpado obtenga luego su libertad provisional bajo caución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
-
-VII. DELITOS EN LOS QUE SE VIOLAN MEDIDAS DE ARRAIGO JUDICIAL. Los delitos en los que el inculpado viole sin causa justificada alguna de las medidas de arraigo que se le fijen durante el proceso o la averiguación previa. En cuyo caso, se procederá de igual forma que la fracción anterior.
+VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2013)
 
 ###### ARTÍCULO 31.
 
@@ -2073,17 +2071,25 @@ Se realizará en presencia de dos testigos que proponga el ocupante del lugar ca
 
 Lo dispuesto en este capítulo se aplicará a los cateos solicitados durante el proceso. Los cateos solicitados durante la Averiguación Previa o para ejecutar ordenes de aprehensión requeridas al ejercitar acción penal se sujetarán a lo dispuesto por la Ley de Procuración de Justicia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 250.
+
+MOTIVOS PARA EL CATEO. Para ordenar un cateo será suficiente que existan indicios que hagan presumir cualquiera de los casos siguientes: 1) Que quien se trata de arrestar, detener o aprehender, se encuentre en el lugar en que se deba efectuar la diligencia. 2) Que en el lugar se hallan los instrumentos u objetos del delito; u otras evidencias que puedan servir para comprobarlo. 3) Que sea necesaria la inspección del lugar o parte de él.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
-###### ARTÍCULO 250.
-
-MOTIVOS PARA EL CATEO. Para ordenar un cateo será suficiente que existan indicios que hagan presumir cualquiera de los casos siguientes: 1) Que quien se trata de arrestar, arraigar, detener o aprehender, se encuentre en el lugar en que se deba efectuar la diligencia. 2) Que en el lugar se hallan los instrumentos u objetos del delito; u otras evidencias que puedan servir para comprobarlo. 3) Que sea necesaria la inspección del lugar o parte de él.
-
 Durante el proceso, podrán pedirlo las partes. En cualquier caso motivarán y fundarán su petición. En casos de delitos graves se podrá solicitar el cateo en cualquier hora. En cualesquier caso, el juez resolverá dentro de las tres horas siguientes; pero sólo si el Ministerio Público motiva la urgencia del cateo.
 
-El cateo para localizar y arrestar, arraigar, aprehender o hacer comparecer a una persona sólo procederá, si en su contra ya existe orden de arresto, arraigo, aprehensión o de comparecencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+El cateo para localizar y arrestar, aprehender o hacer comparecer a una persona sólo procederá, si en su contra ya existe orden de arresto, aprehensión o de comparecencia.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
@@ -2653,9 +2659,13 @@ El Ministerio Público no podrá solicitar dicha ampliación, ni el juez resolve
 
 La ampliación del plazo se notificará al director del reclusorio donde se internó al inculpado, para los efectos del artículo 19 constitucional.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 314.
 
-AUTO DE SUJECIÓN A PROCESO. Se dictará auto de sujeción a proceso cuando el delito no se sancione con prisión o este código le asigne el beneficio procesal de pena alternativa; casos en los que el inculpado quedará libre bajo protesta y sujeto a las medidas de arraigo y obligaciones que le fije el juzgador.
+AUTO DE SUJECIÓN A PROCESO. Se dictará auto de sujeción a proceso cuando el delito no se sancione con prisión o este código le asigne el beneficio procesal de pena alternativa; casos en los que el inculpado quedará libre bajo protesta y sujeto a las obligaciones que le fije el juzgador.
 
 ###### ARTÍCULO 315.
 
@@ -2699,11 +2709,13 @@ En el primer supuesto del párrafo anterior, el Ministerio Público promoverá e
 
 La libertad del inculpado será definitiva cuando quede firme un auto de libertad que se le dictó por existir a su favor causa excluyente de delito; o que extinga la acción penal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 320.
 
-OBLIGACIONES DEL INCULPADO SUJETO A PROCESO. Serán obligaciones de la persona inculpada a la que se le dicte auto de sujeción a proceso: 1) Presentarse al juzgador que conozca todas las veces que se le cite. 2) Comunicarle a aquél sus cambios de domicilio. 3) Presentarse periódicamente al juzgado de primera instancia. El juez fijará la periodicidad. 4) Sujetarse a las medidas de arraigo que el juez estime pertinente fijarle. El juez podrá decretarle una o más medidas de arraigo; excepto el arraigo en hotel.
-
-Si la persona inculpada sujeta a proceso incumple sin causa justificada cualquiera de sus obligaciones que se le impongan mediante arraigo, se procederá de acuerdo con la fracción VII del artículo 30.
+OBLIGACIONES DEL INCULPADO SUJETO A PROCESO. Serán obligaciones de la persona inculpada a la que se le dicte auto de sujeción a proceso: 1) Presentarse al juzgador que conozca todas las veces que se le cite. 2) Comunicarle a aquél sus cambios de domicilio. 3) Presentarse periódicamente al juzgado de primera instancia. El juez fijará la periodicidad.
 
 ## TÍTULO CUARTO. FASE PROBATORIA Y FASE DE JUICIO
 
@@ -2991,11 +3003,13 @@ ACUSACIÓN POR FALSO TESTIMONIO. En caso de que un testigo falte a la verdad, se
 
 Si es manifiesta la comisión del delito en el momento de la declaración del testigo, se le podrá detener desde luego y consignarlo al Ministerio Público.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 366.
 
-ARRAIGO DEL TESTIGO. Cuando algún testigo tenga que ausentarse de donde se siga el proceso, el juzgador procederá desde luego a tomarle declaración si fuere posible; de lo contrario podrá ordenar al testigo que permanezca por el tiempo indispensable para que comparezca a declarar.
-
-Si el arraigo se decreta a solicitud del Ministerio Público y el testimonio resulta irrelevante, la Secretaría de Finanzas indemnizará al testigo. Si se decretó a petición de otra parte, se le impondrá multa, cuyo importe se entregará al arraigado. Tanto la indemnización como la multa se fijarán por el juzgador teniendo en cuenta el tiempo del arraigo y el salario mínimo.
+DECLARACIÓN DEL TESTIGO EN CASO DE FUTURA AUSENCIA. Cuando algún testigo tenga que ausentarse de donde se siga el proceso, el juzgador procederá desde luego a tomarle declaración si fuere posible.
 
 #### SECCIÓN CUARTA. CONFRONTACIÓN
 
@@ -3757,7 +3771,11 @@ DISPOSICIONES COMUNES A AMBAS AUDIENCIAS. El juez, bajo su más estricta respons
 
 l. CONCLUSIÓN ANTICIPADA DE LA FASE PROBATORIA. La fase probatoria se cerrará cuando: 1) Las partes renuncien a ella. 2) Las partes no ofrezcan pruebas en el primer o segundo término que se les concedió para ello, según sea el caso. 3) Todos los medios de prueba que se les admitieron se declararon desiertos; o ninguno se les admitió.
 
-II. PREPARACIÓN DE LAS AUDIENCIAS. Cuando se trate de la confesión del inculpado o de su declaración, se le citará personalmente; a menos que el defensor ofrezca presentarlo cuando aquél esté en libertad caucional o bajo arraigo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+II. PREPARACIÓN DE LAS AUDIENCIAS. Cuando se trate de la confesión del inculpado o de su declaración, se le citará personalmente; a menos que el defensor ofrezca presentarlo cuando aquél esté en libertad caucional.
 
 Las partes tendrán obligación de presentar sus propios testigos. A tal efecto se le entregarán los citatorios. Sin embargo, cuando tengan imposibilidad para hacerlo, lo motivarán bajo protesta de decir verdad y pedirán que se les cite. El juez siempre ordenará la citación ajustándose a lo que este código establece al efecto.
 
@@ -3855,9 +3873,11 @@ MEDIDAS Y CONSECUENCIAS SI EL MINISTERIO PÚBLICO OMITE FORMULAR CONCLUSIONES. A
 
 Si esto último sucede, además de aplicar la multa al agente, el Juez de inmediato dará vista a la delegación de la Fiscalía General más cercana; para que en no más de diez días el delegado subsane la omisión, presentando las conclusiones en el juzgado. Además, se le prevendrá de aplicarle multa si omite presentarlas. El plazo de diez días será improrrogable. Al oficio se acompañará copia de la causa.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Si el superior inmediato omite formular conclusiones, se dará vista mediante oficio al Fiscal General para que subsane la omisión y si el inculpado está preso, se ordenará su libertad sin perjuicio de arraigarlo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Si el superior inmediato omite formular conclusiones, se dará vista mediante oficio al Procurador General de Justicia para que subsane la omisión y si el inculpado está preso, se ordenará su libertad sin perjuicio de decretarle alguna medida cautelar.
 
 El oficio y copia de la causa se entregarán con notificación personal; o se enviarán por los medios más rápidos y seguros posibles; dejando constancia en el expediente. Los plazos iniciarán desde el día que se notifique el auto; o según el acuse de recibo, se entregue el oficio en la oficina que corresponda. Para estimar si se cumple dentro del plazo se estará al día en que las conclusiones se reciban en el juzgado.
 
@@ -6158,3 +6178,9 @@ CUARTO.- Las disposiciones contenidas en el Código de Procedimientos Penales pa
 Una vez que se haya observado lo previsto en el párrafo que antecede el Código de Procedimientos Penales para el Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999 quedará abrogado.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO.- La presente reforma entrará en vigor dieciocho meses después, contados a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
