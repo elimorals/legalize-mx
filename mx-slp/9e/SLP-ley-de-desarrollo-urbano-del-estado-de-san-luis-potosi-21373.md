@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2013-06-22"
+last_updated: "2013-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -161,7 +161,9 @@ XI. (DEROGADA, P.O. 9 DE JULIO DE 2002)
 
 XII. DESARROLLO URBANO: el conjunto armónico de acciones que se realicen para ordenar, regular y adecuar los elementos físicos, económicos y sociales de los centros de población y sus relaciones con el medio ambiente natural y sus recursos;
 
-XIII. DICTAMEN DE IMPACTO URBANO: es el documento mediante el cual, el Ayuntamiento, niega o condiciona con base en estudios elaborados al respecto por peritos en la materia, la realización de aquellas acciones urbanas que por su magnitud y sus efectos lo ameriten;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIII. DICTAMEN DE IMPACTO URBANO: documento mediante el cual el ayuntamiento niega, condiciona o aprueba con base en estudios elaborados al respecto por peritos en la materia, la realización de aquellas acciones urbanas que por su magnitud y sus efectos lo ameriten;
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
 
@@ -171,9 +173,9 @@ XV. (DEROGADA, P.O. 9 DE JULIO DE 2002)
 
 XVI. FUNDACION: el establecimiento de un centro de población previsto en el Plan Estatal de Desarrollo Urbano, mediante decreto del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XVII. LIMITE DE CRECIMIENTO URBANO: es la línea que delimita las áreas urbanas y urbanizables respecto de las no urbanizables de un centro de población, y que tiene por objeto inducir y contener el desarrollo urbano al espacio físico determinado y planeado para tal efecto, para de esta manera conservar y proteger las áreas no urbanizables;
+XVII. PERÍMETRO DE CONTENCIÓN URBANA: línea que delimita las áreas urbanas y urbanizables respecto de las no urbanizables de un centro de población, y que tiene por objeto inducir y contener el desarrollo urbano al espacio físico determinado y planeado para tal efecto, para de esta manera conservar y proteger las áreas no urbanizables;
 
 XVIII. OBRAS DE EDIFICACION: todas aquellas acciones de adecuación espacial necesarias a realizar en el suelo urbanizado, para permitir su uso o destino;
 
@@ -187,7 +189,9 @@ XXII. (DEROGADA, P.O. 9 DE JULIO DE 2002)
 
 XXIII. (DEROGADA, P.O. 9 DE JULIO DE 2002)
 
-XXIV. PROVISIONES, RESERVAS, DESTINOS Y USOS: Las provisiones son las áreas que serán utilizadas en la fundación de un centro de población; las reservas son las que se emplearán para el crecimiento de un centro de población; y los destinos y usos, son los fines públicos o particulares a que respectivamente se prevea dedicar determinadas zonas o predios;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXIV. RESERVAS TERRITORIALES, DESTINOS Y USOS: las reservas territoriales son las áreas que serán utilizadas en la fundación de un centro de población; se emplearán para el crecimiento de los mismos; los destinos y usos, son los fines públicos o particulares a que respectivamente se prevea dedicar determinadas zonas o predios;
 
 XXV. (DEROGADA, P.O. 9 DE JULIO DE 2002)
 
@@ -201,15 +205,21 @@ XXVIII. SUELO URBANIZADO: aquél donde habiéndose ejecutado las obras de urbani
 
 XXIX. URBANIZACION: el proceso técnico para lograr, a través de la acción material y de manera ordenada, la adecuación de los espacios que el ser humano y sus comunidades requieren para su asentamiento;
 
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XXX. VIVIENDA DE INTERES SOCIAL: aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por quince, el salario mínimo general elevado al año, vigente en el Distrito Federal; el lote fraccionado no podrá ser menor de setenta y cinco metros cuadrados, y con un frente mínimo de cinco metros lineales;
+XXX. VIVIENDA DE INTERES SOCIAL: aquélla cuyo valor al término de su edificación no exceda de la suma que resulte de multiplicar por quince, el salario mínimo general elevado al año, vigente en el Distrito Federal; tipo de densidad muy alta; su superficie y densidad máxima en vivienda horizontal y vertical, será conforme a las Reglas de Operación del Programa de Esquemas de Financiamiento y Subsidio Federal para Vivienda. El lote fraccionado no podrá ser menor de sesenta y siete metros cincuenta centímetros cuadrados, y con un frente mínimo de cuatro metros cincuenta centímetros;
 
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XXXI. VIVIENDA POPULAR: aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco, el salario mínimo general elevado al año, vigente en el Distrito Federal; el lote fraccionado no podrá ser menor de noventa metros cuadrados, y con un frente mínimo de seis metros lineales, y
+XXXI. VIVIENDA POPULAR: aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco, el salario mínimo general elevado al año, vigente en el Distrito Federal; tipo de densidad alta; su superficie y densidad máxima en vivienda horizontal y vertical, será conforme a las Reglas de Operación del Programa de Esquemas de Financiamiento y Subsidio Federal para Vivienda. El lote fraccionado no podrá ser menor de noventa metros cuadrados, y con un frente mínimo de seis metros lineales;
 
-XXXII. ZONA DE CONURBACION: el área que se determina en la declaratoria en donde se reconozca el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población comprendidos en sus límites.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXXII. ZONA DE CONURBACION: área que se determina en la declaratoria en donde se reconozca el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población comprendidos en sus límites, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXXIII. DESARROLLOS CERTIFICADOS: desarrollos urbanos certificados por la Comisión Intersecretarial de Vivienda, coordinada por la Secretaría Federal de Desarrollo Agrario, Territorial y Urbano.
 
 ###### ARTICULO 6º.
 
@@ -327,9 +337,13 @@ VIII. Participar en las Comisiones de Conurbación Interestatal, en los término
 
 IX. Promover la participación social en la formulación, operación, cumplimiento y evaluación del Plan Estatal de Desarrollo Urbano;
 
-X. Promover y analizar las áreas sujetas a riesgo dentro de los asentamientos humanos; así como promover el estudio de vulnerabilidad en el Estado, a través de instituciones académicas o de investigación;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XI. Determinar y proponer las áreas sujetas a riesgo para que se les dé un uso diferente al de urbanización, considerando una adecuada regularización del uso del suelo;
+X. Promover, analizar y delimitar las áreas sujetas a riesgo dentro de los asentamientos humanos, así como promover el estudio de vulnerabilidad en el Estado, a través de instituciones académicas o de investigación;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XI. Proponer para las áreas sujetas a riesgo, un uso diferente al de urbanización, considerando una adecuada regularización del uso del suelo;
 
 XII. Llevar a cabo acciones de regulación del uso del suelo en áreas ocupadas en forma irregular en zonas de alto riesgo, en derechos de vía y en zonas catalogadas de salvaguarda en las localidades de la Entidad;
 
@@ -343,9 +357,29 @@ XVI. Establecer una política integral del suelo urbano, protección ambiental y
 
 XVII. Celebrar acuerdos de coordinación y convenios con los ayuntamientos, entidades federativas y la federación en materia de desarrollo urbano para la mejor aplicación de las acciones de esta Ley;
 
-XVIII. Proporcionar a los Ayuntamientos el apoyo técnico que requieran para el ejercicio de sus facultades en materia de desarrollo urbano, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XIX. Aplicar y hacer cumplir la presente Ley, su reglamento y las demás disposiciones que regulen la materia.
+XVIII. Proporcionar a los ayuntamientos el apoyo técnico que requieran para el ejercicio de sus facultades en materia de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIX. Promover ante la Comisión Intersecretarial de Vivienda la certificación de desarrollos urbanos;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XX. Colaborar con la Subdirección de Sustentabilidad de la Comisión Nacional de Vivienda, en la promoción del Programa de Consolidación Urbano y Habitacional delimitando los Polígonos Procurha (espacio de actuación del programa de consolidación urbana y habitacional);
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXI. Crear programas sobre NAMA (Acciones Nacionales Apropiadas de Mitigación para. reducir emisiones de efecto invernadero); y promover políticas públicas que los incluyan;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXII. Realizar las gestiones necesarias para la obtención de recursos y/o estímulos económicos provenientes de programas federales, como apoyo para los nuevos fraccionamientos que requieran de ejecución de proyectos y obras de urbanización y equipamiento urbano, cumpliendo siempre con la legislación y normatividad aplicables vigentes, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXIII. Aplicar y hacer cumplir la presente Ley, su reglamento, y las demás disposiciones que regulen la materia.
 
 El Titular del Ejecutivo del Estado podrá ejercer las atribuciones antes señaladas por sí o a través de la Secretaría.
 
@@ -431,13 +465,17 @@ XIX. Tomar e implementar medidas encaminadas al debido ordenamiento urbano del t
 
 XX. Conforme a los convenios previamente celebrados entre el Ejecutivo del Estado y los ayuntamientos, asumir, de manera total o parcial, las funciones técnicas que les corresponden a los municipios en la aplicación de esta Ley, y ejecutar obras públicas municipales, cuando éstos carezcan de los órganos administrativos correspondientes, o bien, que la complejidad de los asuntos así lo requiera;
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XXI. Substanciar el procedimiento administrativo que previenen esta Ley para la aplicación de sanciones en el ámbito de su competencia, así como el recurso de reconsideración, y
+XXI. Substanciar el procedimiento administrativo que previenen (sic) esta Ley para la aplicación de sanciones en el ámbito de su competencia, así como el recurso de reconsideración;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XXII. Las demás que esta Ley, su reglamentación, y las leyes respectivas le otorguen.
+XXII. Promover las gestiones necesarias para la obtención de recursos y/o estímulos económicos de programas federales, como apoyo para los nuevos fraccionamientos que requieran de ejecución de proyectos y obras de equipamiento urbano, cumpliendo siempre con la legislación y normatividad aplicables vigentes, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXIII. Las demás que esta Ley, su reglamentación, y las leyes respectivas le otorguen.
 
 ###### ARTICULO 19.
 
@@ -495,7 +533,9 @@ XX. Ejecutar, con los medios del Gobierno Municipal, con cargo a las personas qu
 
 XXI. Autorizar de acuerdo con la presente Ley y su Reglamento, la lotificación, relotificación, constitución de regímenes de propiedad en condominio, división, subdivisión y fusión de predios, cambio de intensidad en el uso habitacional y cambio de uso de suelo;
 
-XXII. Determinar el aprovechamiento de las áreas de donación de los fraccionamientos y condominios, en congruencia con lo dispuesto en la presente Ley, su reglamento y en los Planes de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXII. Determinar el aprovechamiento y equipamiento urbano de las áreas de donación de los fraccionamientos y condominios, en congruencia con lo dispuesto en la presente Ley, su reglamento, y en los planes de desarrollo urbano;
 
 XXIII. Municipalizar y regularizar, en su caso, los fraccionamientos cuando se hayan cubierto los requisitos legales;
 
@@ -533,13 +573,37 @@ XXXVII. Proveer en el ámbito de su competencia, el cumplimiento de las disposic
 
 XXXVIII. Tramitar el procedimiento administrativo y el recurso de reconsideración previsto en esta Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XXXIX. En caso de que alguno de los ayuntamientos de la Entidad acuerde ingresar algún programa para realizar fraccionamientos de vivienda económica de interés social, lo podrá pactar con las dependencias estatales y federales competentes en el ramo; pudiendo llevar a cabo las obras de urbanización progresiva en este tipo de fraccionamientos, siempre y cuando sea aprobado por cuando menos las dos terceras partes de los integrantes del Cabildo y cuente con los recursos económicos suficientes para su ejecución; y
+XXXIX. En caso de que alguno de los ayuntamientos de la Entidad acuerde ingresar a algún programa para realizar fraccionamientos de vivienda económica de interés social, lo podrá pactar con las dependencias estatales y federales competentes en el ramo; pudiendo llevar a cabo las obras de urbanización progresiva en este tipo de fraccionamientos, siempre y cuando sea aprobado por cuando menos las dos terceras partes de los integrantes del Cabildo, y además cuente con los recursos económicos suficientes para su ejecución;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XL. Las demás que le señalen esta Ley, su reglamento y otras normas aplicables.
+XL. Colaborar con la Comisión Intersecretarial de Vivienda, coordinada por la Secretaría Federal de Desarrollo Agrario, Territorial y Urbano, en la identificación y difusión de los desarrollos certificados, a efecto de obtener los recursos provenientes del Programa de Esquemas de Financiamiento y Subsidio Federal para Vivienda;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XLI. Colaborar con la Subdirección General de Sustentabilidad de la Comisión Nacional de Vivienda, en la identificación y difusión de los polígonos PROCURHA, a efecto de obtener los recursos provenientes del Programa de Esquemas de Financiamiento y Subsidio Federal para Vivienda;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XLII. Realizar todas las acciones inherentes al Programa de Esquemas de Financiamiento y Subsidio Federal para Vivienda, a efecto de obtener los recursos provenientes de éste;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XLIII. Colaborar con la Comisión Nacional de Vivienda en la identificación y difusión de los perímetros de contención Urbana, a efecto de obtener los recursos provenientes del Programa de Esquemas de Financiamiento y Subsidio Federal para Vivienda;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XLIV. Promover las gestiones necesarias para obtención de recursos y/o estímulos económicos de programas federales, como apoyo para los nuevos fraccionamientos que requieran de ejecución de proyectos y obras de equipamiento urbano, cumpliendo siempre con la legislación y normatividad aplicables vigentes;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XLV. Promover la participación del sector privado para realizar inversiones de proyectos y obras de equipamiento urbano en áreas de donación, de acuerdo a la legislación y normas vigentes, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XLVI. Las demás que le señalen esta Ley, su reglamento y otras normas aplicables.
 
 ## TITULO TERCERO. DE LOS ORGANISMOS DE PARTICIPACION SOCIAL Y CONSULTA
 
@@ -575,25 +639,37 @@ II. Un secretario técnico, que será el Secretario de Desarrollo Urbano, Vivien
 
 III. Un Coordinador General, que será nombrado por el Consejo;
 
-IV. Un representante de cada una de las dependencias y entidades de la administración pública federal, estatal y municipal, en el caso de ésta última será el representante del Ayuntamiento o ayuntamientos involucrados en el asunto que se trate, y cuya competencia u objeto se relacione con el desarrollo urbano, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-V. A invitación expresa del Gobierno del Estado, por representantes de:
+IV. Un representante de cada una de las dependencias y entidades de la administración pública federal, estatal y municipal; en el caso de ésta última será el representante del ayuntamiento o ayuntamientos involucrados en el asunto que se trate, y cuya competencia u objeto se relacione con el desarrollo urbano;
 
-a) Los colegios y asociaciones de profesionistas legalmente constituidos, que tengan relación directa con el desarrollo urbano;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-b) Las cámaras de servicios con representación en el Estado, y
+V. Un representante de la CMIC;
 
-c) Los sindicatos, organismos no gubernamentales, asociaciones y organizaciones populares que tengan presencia en todo el Estado.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-Cada uno de los miembros del Consejo contará con un suplente que será designado por la dependencia o Entidad respectiva. Las ausencias del Presidente del Consejo serán suplidas por alguno de los integrantes que el Consejo designe para tal efecto.
+VI. Un representante de la CANADEVI, y
 
-El desempeño de los cargos a que se refiere este artículo será honorífico.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
+VII. A invitación expresa del Gobierno del Estado, por representantes de:
 
-VI. Cuando en el Consejo Consultivo se planteen programas, planes o acciones que afecten una región, o un grupo de municipios, o un municipio en particular, se convocará para que participen en el mismo Consejo a:
+a) Los colegios y asociaciones de profesionistas legalmente constituidos, que tengan relación directa con el desarrollo urbano.
 
-a) Un representante por cada ayuntamiento, quienes con voz y voto intervendrán en todas las decisiones que afecten a sus respectivas jurisdicciones, y
+b) Las cámaras de servicios con representación en el Estado.
+
+c) Los sindicatos; organismos no gubernamentales; asociaciones; y organizaciones populares, que tengan presencia en toda la entidad.
+
+Cada uno de los miembros contará con un suplente que será designado por la dependencia o entidad respectiva. Las ausencias del Presidente serán suplidas por alguno de los integrantes que el Consejo designe para tal efecto.
+
+El desempeño de los cargos a que se refiere este artículo será honorífico, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VIII. Cuando en el Consejo Consultivo se planteen programas, planes o acciones que afecten una región, o un grupo de municipios, o un municipio en particular, se convocará para que participen en el mismo a:
+
+a) Un representante por cada ayuntamiento, quienes con voz y voto intervendrán en todas las decisiones inherentes a sus respectivas demarcaciones.
 
 b) Un representante por cada uno de los consejeros y/o integrante del Comité de Planeación del Desarrollo Municipal.
 
@@ -627,9 +703,9 @@ X. Coordinarse con los Consejos Consultivos Municipales de Desarrollo Urbano o I
 
 XI. Llevar a cabo la coordinación intergubernamental y social para la instrumentación, seguimiento y evaluación de los compromisos y acciones establecidas en el Convenio de Coordinación para el Desarrollo de la Vivienda y del Suelo, que suscriben cada año el Gobierno Federal y el Gobierno del Estado;
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XII. Apoyar a los ayuntamientos a fin de promover la constitución de los Consejos de Colaboración Municipal;
+XII. Apoyar a los ayuntamientos a fin de promover la constitución de los consejos consultivos municipales;
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -681,7 +757,9 @@ VII. Los Programas Sectoriales de Desarrollo Urbano, y
 
 VIII. Los Planes de Ordenación de Zonas Conurbadas Intermunicipales.
 
-Los Planes de Desarrollo Urbano a que se refiere el presente artículo, deberán ser congruentes con los objetivos, políticas y metas establecidas en el Programa Nacional de Desarrollo Urbano y el Plan Estatal de Desarrollo Urbano, según sea el caso, expedidos conforme a las disposiciones aplicables en materia de planeación, reglamentados en la presente Ley.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Los planes de desarrollo urbano a que se refiere el presente artículo, deberán ser congruentes con los objetivos, políticas y metas establecidas en, el Programa Nacional de Desarrollo Urbano; y el Plan Estatal de Desarrollo Urbano, según sea el caso, expedidos conforme a las disposiciones aplicables en materia de planeación, reglamentados en la presente Ley; además, deberán incluir todos y cada uno de los fraccionamientos autorizados por los ayuntamientos.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -1269,9 +1347,17 @@ II. Un Secretario Técnico, que será el Titular de la Secretaría;
 
 III. El Secretario de Ecología y Gestión Ambiental;
 
-IV. Los Presidentes Municipales, en donde se localice la zona conurbada, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-V. Los representantes de las dependencias y Entidades estatales y federales que se inviten a formar parte de la Comisión, así como de los sectores social y privado, que a juicio de la Comisión de Conurbación deban de invitarse.
+IV. Los presidentes municipales en donde se localice la zona conurbada;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+V. El Presidente o representante de, la CMIC; y de la CANADEVI, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VI. Los representantes de las dependencias y entidades estatales y federales que se inviten a formar parte de la Comisión, así como de los sectores social y privado, que a juicio de la Comisión de Conurbación deban invitarse.
 
 ###### ARTICULO 58.
 
@@ -1483,13 +1569,69 @@ Corresponde al Ayuntamiento establecer la forma de llevar a cabo el seguimiento 
 
 Los ayuntamientos establecerán con el asesoramiento de la Secretaría, si lo pidieren, sus propios sistemas de evaluación de los planes de su competencia; los sistemas de evaluación a que se refiere el presente artículo se extenderán a los programas que se deriven de los respectivos planes y deberán determinar los resultados concretos de unos y otros, en cuanto a políticas, objetivos y metas de la estrategia seguida por el plan, así como en su caso, las experiencias obtenidas en el curso de la aplicación de los trazos de vialidad y límites de crecimiento urbano; de las áreas de reserva territorial y de preservación, protección y regeneración ecológica; de regularización de asentamientos humanos y de regeneración urbana; zonificación de usos y destinos del suelo y sus normas; y de la dotación de equipamiento e infraestructura.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+### CAPITULO IX. DE LAS ZONAS DE RIESGO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 75 BIS. El titular del Ejecutivo Estatal, en coordinación con las autoridades municipales en materia de desarrollo urbano, están obligados a formular los estudios denominados atlas de riesgo, donde se identifiquen las zonas de riesgo, entendiéndose por éstas aquéllas que por su ubicación representen peligro debido a factores antropogénicos o naturales, que puedan causar perjuicios a las personas o a sus bienes, y se clasificarán atendiendo a los criterios de riesgo mitigable, o riesgo no mitigable.
+
+Dichos atlas deben contener como mínimo lo siguiente:
+
+I. Introducción y antecedentes;
+
+II. Estructura cartográfica;
+
+III. Identificación de los peligros naturales;
+
+IV. Identificación y zonificación de los riesgos geológicos;
+
+V. Identificación y zonificación de los riesgos hidrometeorológicos;
+
+VI. Identificación y zonificación de los riesgos antropogénicos;
+
+VII. Medidas de mitigación, consistentes en obligaciones de dar, hacer o no hacer;
+
+VIII. Bibliografía, y
+
+IX. Anexos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 75 TER. Los atlas de riesgos se elaborarán y consultarán conforme al procedimiento seguido para los Planes de Desarrollo Urbano, conforme al espacio territorial que corresponda, y se aprobarán mediante acuerdo conjunto del Gobernador del Estado y los ayuntamientos involucrados; se publicarán en el Periódico Oficial del Estado e inscribirán en el Registro Público de la Propiedad; adicionalmente estarán a disposición del Público en las instalaciones de la Secretaría, y de los municipios.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 75 QUATER. Tratándose de inmuebles ubicados en zonas de riesgo alto, y riesgo muy alto, el ayuntamiento, antes de otorgar licencias relativas a uso del suelo y edificaciones, construcciones, así como factibilidades y demás autorizaciones relativas a todo tipo de fraccionamientos, podrá solicitar a la Unidad Estatal de Protección Civil, un dictamen de las medidas de mitigación aplicables donde estén detectadas fallas geológicas activas; en las licencias o autorizaciones se deben determinar las áreas de restricción para las construcciones.
+
+Adicionalmente a lo anterior, y previo a otorgarse la licencia o autorización respectiva, una vez que obren en el expediente los estudios periciales y dictámenes requeridos, se deberá dar vista a la Dirección de Protección Civil que corresponda, para que rinda su opinión y exprese los antecedentes que obren en sus archivos y, en su caso, queden facultados para ordenar la repetición o elaboración de nuevos estudios o, inclusive, presentar los propios, de considerar que existe riesgo para la comunidad.
+
+Tratándose de zonas de riesgo alto, o muy alto, las facultades del ayuntamiento para el otorgamiento de cualquier tipo de autorizaciones o licencias de carácter urbano, no son delegables.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 75 QUINQUE. Las determinaciones de los atlas de riesgos serán de orden público e interés social, atendiendo a la finalidad de garantizar la seguridad física y jurídica de las personas y sus bienes que se encuentren en dichas zonas o colindando con las mismas.
+
+Las autoridades estatales y municipales competentes realizarán las modificaciones necesarias a los planes y programas de desarrollo urbano, para que las zonas consideradas como de riesgo no mitigable por los atlas respectivos, se clasifiquen como no urbanizables.
+
+Tratándose de zonas de riesgo, los planes y programas de desarrollo urbano deberán señalar que los usos y destinos del suelo que correspondan a dichas zonas, estarán condicionados al cumplimiento de las disposiciones de la presente Ley.
+
+En las áreas o predios clasificados como de riesgo no mitigable por los atlas de riesgos, está estrictamente prohibido realizar cualquier obra, acción o instalación.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 75 SEXTIES. Las personas físicas o morales, públicas o privadas, que pretendan llevar a cabo proyectos, acciones, obras o inversiones en zonas clasificadas como de riesgo, o de peligro, por los atlas respectivos, estarán obligadas a realizar los estudios técnicos necesarios, a efecto de determinar la factibilidad de las mismas. Dichos estudios técnicos deberán ser avalados por un director responsable de obra. Tratándose de fraccionamientos o conjuntos en zonas de riesgo, los estudios técnicos justificativos deberán proponer las medidas de mitigación que correspondan a cada lote en lo individual.
+
+Los particulares interesados serán solidariamente responsables con el director responsable de obra que haya realizado y avalado los estudios técnicos y los cálculos correspondientes, de la adecuada formulación del estudio, así como de la correcta ejecución de las medidas de mitigación y protección.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 75 SEPTIES. El particular interesado presentará ante la autoridad municipal competente en materia de desarrollo urbano, los estudios técnicos con el aval del director responsable de obra, y recabará sello de recibido. Con dicha constancia podrá, bajo su responsabilidad, gestionar la obtención de las autorizaciones, licencias o permisos necesarios para llevar a cabo las acciones urbanas a que se refiere esta Ley, ante las autoridades que correspondan. Sin dicho requisito no podrá llevarse a cabo ninguna acción urbana en zonas de riesgo.
 
 ## TITULO QUINTO. DE LAS REGULACIONES A LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 76.
 
@@ -1513,7 +1655,9 @@ La fundación de centros de población deberá realizarse en tierras susceptible
 
 ## TITULO SEXTO. DE LA ZONIFICACION DEL TERRITORIO Y DE LAS NORMAS DE USO DEL SUELO
 
-### CAPITULO I. DE LAS AREAS URBANAS, URBANIZABLES Y NO URBANIZABLES
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 80.
 
@@ -1631,7 +1775,7 @@ Los usos, su clasificación y normas de usos generales, específicos y su combin
 
 ## TITULO SEPTIMO. DE LAS AREAS URBANAS
 
-### CAPITULO II. DE LAS NORMAS GENERALES DE ORDENACION URBANA Y ECOLOGICA
+### CAPITULO I. DE LAS AREAS URBANAS, URBANIZABLES Y NO URBANIZABLES
 
 ###### ARTICULO 89.
 
@@ -1677,7 +1821,7 @@ Las construcciones existentes dentro de los límites de las áreas no urbanizabl
 
 Respecto a las áreas no urbanizables situadas fuera del límite de un centro de población y siempre que los respectivos predios estén ubicados a una distancia no menor de quince kilómetros del mismo y no sean de mediana o alta aptitud o productividad agrícola o forestal, se podrá autorizar la ejecución de fraccionamientos habitacionales campestres, en conformidad a las respectivas disposiciones de ésta Ley y su reglamento.
 
-### CAPITULO UNICO
+### CAPITULO II. DE LAS NORMAS GENERALES DE ORDENACION URBANA Y ECOLOGICA
 
 ###### ARTICULO 93.
 
@@ -1715,7 +1859,9 @@ V. Protección del entorno ambiental:
 
 a) Se protegerán y en su caso aprovecharán los recursos con que cuenten los cerros, bosques, cuerpos de agua superficiales, mantos de agua subterránea y zonas de carga acuífera, que sirvan para mantener o mejorar la calidad del ambiente;
 
-b) En el aprovechamiento de los predios, se respetarán la naturaleza del terreno, las causas de escurrimientos superficiales, conservar su entorno natural y mejorarlo;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+b) En el aprovechamiento de los predios se respetarán, la naturaleza del terreno, y los cauces de escurrimientos superficiales, a fin de conservar su entorno natural y mejorarlo;
 
 c) La forestación de los espacios abiertos, públicos o privados, se llevarán acabo (sic) o complementará con especies propias de la localidad o nuevas de fácil adaptación, para así mejorar el medio ambiente y el aspecto de calles, plazas y zonas de edificios;
 
@@ -1735,7 +1881,7 @@ Con el mismo propósito se procurará proveer la recuperación de las áreas no 
 
 ## TITULO OCTAVO. EL PATRIMONIO URBANO ARQUITECTONICO
 
-### CAPITULO I. LAS RESERVAS TERRITORIALES DEL ESTADO
+### CAPITULO UNICO
 
 ###### ARTICULO 94.
 
@@ -1827,7 +1973,9 @@ El Ayuntamiento respectivo negará la licencia a que se refiere el artículo 99 
 
 I. Se pretendan levantar construcciones cuya arquitectura no armonice con la fisonomía propia de la calle, zona, contexto urbano o en general del centro de población donde pretendan edificarse;
 
-II. Se pretendan emplear en las fachadas existentes dentro de las zonas típicas, materiales que no sean tradicionales en el Estado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+II. Se pretenda emplear en las fachadas existentes dentro de las zonas típicas, materiales que no sean tradicionales en la zona;
 
 III. Se pretendan construir en la zonas típicas, vanos cuyas proporciones, formas, marcos, molduras y otras similares no correspondan a la tipología de dichas zonas;
 
@@ -1849,9 +1997,7 @@ Las obras en zonas o monumentos arqueológicos, artísticos e históricos existe
 
 ## TITULO NOVENO. DE LAS RESERVAS TERRITORIALES
 
-### CAPITULO II. DE LA RESERVA PARA EL DESARROLLO URBANO Y LA VIVIENDA
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+### CAPITULO I. LAS RESERVAS TERRITORIALES DEL ESTADO
 
 ###### ARTICULO 105.
 
@@ -1887,7 +2033,9 @@ El Gobierno del Estado y los Ayuntamientos tendrán en los términos de las leye
 
 Para tal efecto los propietarios de los predios o en su caso los notarios, los jueces y las autoridades administrativas respectivas deberán notificarlo al Estado y al Ayuntamiento correspondiente dando a conocer el monto de la operación a fin de que en un plazo no mayor de treinta días naturales ejerzan el derecho de preferencia, si lo consideran conveniente garantizando el pago respectivo.
 
-### CAPITULO III. DE LA INCORPORACION DE PREDIOS EJIDALES O COMUNALES AL DESARROLLO URBANO
+### CAPITULO II. DE LA RESERVA PARA EL DESARROLLO URBANO Y LA VIVIENDA
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 109.
 
@@ -1949,7 +2097,7 @@ III. La superficie deberá corresponder a los lotes tipo, fijados para acciones 
 
 Además los gobiernos municipales, deberán cumplir con los requisitos estipulados en la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
 
-### CAPITULO IV. DE LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
+### CAPITULO III. DE LA INCORPORACION DE PREDIOS EJIDALES O COMUNALES AL DESARROLLO URBANO
 
 ###### ARTICULO 113.
 
@@ -1987,7 +2135,7 @@ Para efecto de los procedimientos antes citados, se estará a lo dispuesto por e
 
 En los municipios en los que se encuentren los predios ejidales o comunales que se incorporen al desarrollo urbano, el Ayuntamiento respectivo deberá expedir la autorización correspondiente, con la opinión de la Secretaría, para constituir, ampliar o delimitar la zona de urbanización ejidal y su reserva de crecimiento, de acuerdo a lo establecido en las Normas de Desarrollo Urbano aplicables.
 
-### CAPITULO UNICO
+### CAPITULO IV. DE LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
 
 ###### ARTICULO 118.
 
@@ -2059,11 +2207,13 @@ Los sistemas de agua potable y alcantarillado que conforman la infraestructura d
 
 ## TITULO DECIMO PRIMERO. DE LAS NORMAS BASICAS PARA LA VIALIDAD PUBLICA
 
-### CAPITULO I. DEFINICION Y CLASIFICACION DE USOS DEL SUELO
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 128.
 
-Las normas para la construcción de las vías públicas se establecerán en los respectivos reglamentos municipales y deberán comprender cuando menos:
+Las normas para la construcción de las vías públicas se establecerán en los respectivos reglamentos municipales, y deberán privilegiar al peatón antes que el automóvil, sin dejar-de considerar los estudios viales en zonas particulares realizados por especialistas, y deberán comprender cuando menos:
 
 I. El ancho mínimo de las vías públicas primarias, secundarias o colectivas, de las locales, las de acceso local y de los andadores;
 
@@ -2097,7 +2247,7 @@ XII. Las previsiones necesarias para la movilidad sustentable, debiendo consider
 
 ## TITULO DECIMO SEGUNDO. DE LAS LICENCIAS DE USO DEL SUELO Y CONSTRUCCION
 
-### CAPITULO II. DE LA LICENCIA DE USO DEL SUELO
+### CAPITULO I. DEFINICION Y CLASIFICACION DE USOS DEL SUELO
 
 ###### ARTICULO 129.
 
@@ -2149,7 +2299,7 @@ Las autoridades administrativas no expedirán licencia de uso del suelo, ni lice
 
 Tampoco se podrá otorgar ninguna de las licencias aludidas respecto de los lotes de terrenos que hayan resultado de fraccionamientos, fusiones y relotificaciones de predios no autorizados por el Ayuntamiento. No obstante, se podrá expedir la licencia municipal para la ejecución de obras en predios sujetos a procedimientos de regularización de la tenencia de la tierra.
 
-### CAPITULO III. DE LA LICENCIA MUNICIPAL DE CONSTRUCCION
+### CAPITULO II. DE LA LICENCIA DE USO DEL SUELO
 
 ###### ARTICULO 132.
 
@@ -2209,7 +2359,9 @@ III. Llevar anexo el recibo de pago del predial del inmueble al corriente, y
 
 IV. En su caso, el estudio técnico justificativo para cambio de uso de terrenos forestales o de aptitud preferentemente forestal; y la manifestación de impacto ambiental presentada previamente por el promovente ante la SEMARNAT para su evaluación, así como las autorizaciones emitidas por la misma, cuando se trate de obras o actividades previstas en el artículo 28 de la LGEEPA o en el reglamento de la misma, en materia de impacto ambiental.
 
-La licencia de uso del suelo no faculta a su titular para iniciar la ejecución de construcción u obra alguna; dicha licencia será personalísima; intransferible; inembargables los derechos derivados de la misma; e inalienable; y no será objeto de fusión o escisión, tratándose de sociedades mercantiles legalmente constituidas.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+La licencia de uso del suelo no faculta a su titular para iniciar la ejecución de construcción u obra alguna, es decir, ésta corresponderá únicamente al predio que se trate y será intransferible, e inembargables los derechos derivados de la misma; así como inalienable.
 
 En aquellos casos en que no exista un marco rector normativo que establezca una zonificación de uso de suelo, previo al otorgamiento de la licencia que al efecto se expida, deberá recabarse el dictamen y opinión de la SEGAM o de la SEDUVOP, o de ambas, según el caso particular de que se trate, y conforme a los lineamientos establecidos en la Ley Ambiental del Estado de San Luis Potosí, y en esta Ley.
 
@@ -2393,7 +2545,7 @@ VI. Que previa determinación de la autoridad competente en materia de protecci�
 
 En los casos señalados en el artículo 145 de esta Ley, será necesario que los particulares obtengan el dictamen de impacto urbano, a fin de que se analice la viabilidad del uso solicitado, el cual deberá de dictaminar el ayuntamiento respectivo, de conformidad con el procedimiento que al efecto establezca el Reglamento de esta Ley para la obtención de la licencia de uso de suelo de impacto significativo.
 
-### CAPITULO I. DE LOS DIRECTORES RESPONSABLES DE OBRA Y DE LA FORMA DE ADQUIRIR LA RESPONSIVA
+### CAPITULO III. DE LA LICENCIA MUNICIPAL DE CONSTRUCCION
 
 ###### ARTICULO 147.
 
@@ -2529,7 +2681,7 @@ V. Constancia de recepción de acta de donación y fianzas de garantía de urban
 
 ## TITULO DECIMO TERCERO. DE LOS DIRECTORES RESPONSABLES DE OBRA Y DE LOS SUPERVISORES MUNICIPALES DE OBRA Y SU REGISTRO
 
-### CAPITULO II. DE LOS SUPERVISORES MUNICIPALES
+### CAPITULO I. DE LOS DIRECTORES RESPONSABLES DE OBRA Y DE LA FORMA DE ADQUIRIR LA RESPONSIVA
 
 ###### ARTICULO 151.
 
@@ -2589,7 +2741,7 @@ IV. Cumplir en las obras a su cargo todas las exigencias, prohibiciones y limita
 
 V. Las demás que contemple el Reglamento de ésta Ley.
 
-### CAPITULO UNICO
+### CAPITULO II. DE LOS SUPERVISORES MUNICIPALES
 
 ###### ARTICULO 155.
 
@@ -2603,7 +2755,7 @@ En el desempeño de sus funciones, los peritos observarán la legislación estat
 
 ## TITULO DECIMO CUARTO. DE LAS NORMAS GENERALES DE LA CONSTRUCCION
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO UNICO
 
 ###### ARTICULO 156.
 
@@ -2645,9 +2797,7 @@ XVII. Toda construcción que se concluya requerirá de constancia de terminació
 
 ## TITULO DECIMO QUINTO. DE LOS FRACCIONAMIENTOS DE LOS TERRENOS, FUSION, SUBDIVISION Y RELOTIFICACION
 
-### CAPITULO II. CLASIFICACION DE FRACCIONAMIENTOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 157.
 
@@ -2663,7 +2813,9 @@ b) La división de la cosa común en casos de copropiedad, cuando con aquella se
 
 II. Subdivisión de los predios: el acto mediante el cuál, previa autorización se divide el predio en dos o más lotes, siempre y cuando éstos queden con acceso por una o más vías públicas existentes;
 
-III. Relotificación de predios: la obra por la que dos o más lotes de un fraccionamiento, se modifican en sus dimensiones y superficies o su localización originalmente establecidas en el proyecto de traza y lotificación aprobado, previa autorización expedida en los casos que contempla ésta Ley;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+III. Relotificación de predios; la obra por la que dos o más lotes de un fraccionamiento se modifican en sus dimensiones y superficies, o su localización o número, originalmente establecidas en el proyecto de traza y lotificación aprobado, previa autorización expedida en los casos que contempla esta Ley;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2687,7 +2839,9 @@ V. Obras de urbanización: las obras de infraestructura a ejecutarse en el terre
 
 a) Agua potable;
 
-b) Drenaje pluvial y sanitario o drenaje combinado;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+b) Drenaje pluvial y sanitario;
 
 c) Energía eléctrica y alumbrado público;
 
@@ -2717,9 +2871,9 @@ d) Deportes, y
 
 e) Abasto, comercio y demás exigidas por las normas básicas que establezca el Reglamento de ésta Ley.
 
-### CAPITULO III. FRACCIONAMIENTOS HABITACIONALES DE URBANIZACION PROGRESIVA
+### CAPITULO II. CLASIFICACION DE FRACCIONAMIENTOS
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 158.
 
@@ -2745,7 +2899,13 @@ c) Fraccionamientos Comerciales, y
 
 d) Fraccionamientos Industriales.
 
-### CAPITULO IV. FRACCIONAMIENTOS DE HABITACION POPULAR
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Los fraccionamientos de vivienda considerados de interés social, y popular se sujetarán a las normas y densidades establecidas en el artículo 5° fracciones XXX y XXXI de este Ordenamiento.
+
+### CAPITULO III. FRACCIONAMIENTOS HABITACIONALES DE URBANIZACION PROGRESIVA
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 159.
 
@@ -2773,17 +2933,17 @@ IV. Para la ocupación física de los lotes, será suficiente que éstos estén 
 
 El Ayuntamiento únicamente podrá autorizar fraccionamientos habitacionales de urbanización progresiva a la Secretaría y a a (sic) los organismos públicos y privados de vivienda,
 
-### CAPITULO V. FRACCIONAMIENTOS HABITACIONALES RESIDENCIALES
+### CAPITULO IV. FRACCIONAMIENTOS DE HABITACION POPULAR
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 162.
 
-El fraccionamiento de habitación popular se destinará a habitación unifamiliar o plurifamiliar con alta densidad de población.
+El fraccionamiento de habitación de interés social y popular se destinará a habitación unifamiliar o plurifamiliar con alta densidad de población, que permita acceder a los programas y subsidios federales en materia de vivienda.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+Los lotes autorizados deberán tener una superficie que permita acceder a los programas y subsidios federales en materia de vivienda, y nunca podrán ser menores de sesenta y siete metros cincuenta centímetros cuadrados, y noventa metros cuadrados, respectivamente.
 
-Los lotes autorizados no podrán tener una superficie menor de noventa metros cuadrados.
-
-### CAPITULO VI. FRACCIONAMIENTOS HABITACIONALES DE CARACTER MIXTO
+### CAPITULO V. FRACCIONAMIENTOS HABITACIONALES RESIDENCIALES
 
 ###### ARTICULO 163.
 
@@ -2793,7 +2953,7 @@ El fraccionamiento habitacional residencial será predominantemente de habitaci�
 
 Los lotes autorizados no podrán tener una superficie menor de trescientos metros cuadrados.
 
-### CAPITULO VII. FRACCIONAMIENTOS ESPECIALES TIPO CAMPESTRE
+### CAPITULO VI. FRACCIONAMIENTOS HABITACIONALES DE CARACTER MIXTO
 
 ###### ARTICULO 164.
 
@@ -2813,7 +2973,7 @@ La ejecución y mantenimiento de los servicios y obras, estarán a cargo del pro
 
 Los lotes autorizados en este tipo de fraccionamientos no podrán tener una superficie menor de ciento cuarenta metros cuadrados.
 
-### CAPITULO VIII. FRACCIONAMIENTOS ESPECIALES DE EXPLOTACION AGROPECUARIA
+### CAPITULO VII. FRACCIONAMIENTOS ESPECIALES TIPO CAMPESTRE
 
 ###### ARTICULO 168.
 
@@ -2821,7 +2981,7 @@ El fraccionamiento residencial campestre estará dedicado a habitación exclusiv
 
 En los fraccionamientos de tipo campestre los lotes no podrán tener un frente menor de veinticinco metros, ni una superficie menor de mil metros cuadrados.
 
-### CAPITULO IX. FRACCIONAMIENTOS COMERCIALES
+### CAPITULO VIII. FRACCIONAMIENTOS ESPECIALES DE EXPLOTACION AGROPECUARIA
 
 ###### ARTICULO 169.
 
@@ -2829,7 +2989,7 @@ Estos fraccionamientos deberán estar dedicados predominantemente a actividades 
 
 Sus lotes no podrán tener un frente menor de treinta metros, ni una superficie menor de tres mil metros cuadrados.
 
-### CAPITULO X. FRACCIONAMIENTOS ESPECIALES INDUSTRIALES
+### CAPITULO IX. FRACCIONAMIENTOS COMERCIALES
 
 ###### ARTICULO 170.
 
@@ -2849,7 +3009,7 @@ Una vez autorizado el fraccionamiento comercial, no se permitirá el cambio de u
 
 En los fraccionamientos comerciales podrán construirse muros comunes o medianeros en los lotes o locales, siempre y cuando los adquirientes de los mismos se obliguen a no demoler o modificar dichos muros, salvo que construyan uno que separe las propiedades.
 
-### CAPITULO XI. REGLAS GENERALES PARA LOS FRACCIONAMIENTOS HABITACIONALES URBANOS Y ESPECIALES
+### CAPITULO X. FRACCIONAMIENTOS ESPECIALES INDUSTRIALES
 
 ###### ARTICULO 173.
 
@@ -2861,7 +3021,7 @@ I. Sus lotes no podrán tener un frente menor de veinte metros, ni una superfici
 
 II. El aprovechamiento predominante será el industrial y en estos fraccionamientos únicamente se podrán construir instalaciones fabriles que no sean contaminantes, de conformidad con la legislación aplicable, a fin de que en ellos no se generen humos, ruidos, olores o desperdicios nocivos y no se autorizará la construcción de vivienda. Se permitirá solamente el diez por ciento de la superficie vendible para áreas comerciales y de servicios en las zonas autorizadas por el Ayuntamiento.
 
-### CAPITULO XII. DEL DICTAMEN DE FACTIBILIDAD
+### CAPITULO XI. REGLAS GENERALES PARA LOS FRACCIONAMIENTOS HABITACIONALES URBANOS Y ESPECIALES
 
 ###### ARTICULO 174.
 
@@ -2911,9 +3071,9 @@ VI. Jardines y áreas arboladas, o
 
 VII. Las demás que sean de beneficio social y que determinen los colonos, con anuencia del ayuntamiento respectivo.
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-En el área de donación destinada a jardines se deberán diseñar pozos de absorción de aguas pluviales, cuando las condiciones del proyecto de los escurrimientos superficiales lo permiten; y deberán entregarse al ayuntamiento con tomas de agua, banquetas, guarniciones, botes o contenedores de basura, arboladas y con alumbrado público.
+En el área de donación destinada a jardines se deberán diseñar y construir norias de absorción de aguas pluviales, cuando las condiciones del proyecto de los escurrimientos superficiales lo permitan, y la permeabilidad del suelo haga factible su operación; deberán entregarse al ayuntamiento con tomas de agua, banquetas, guarniciones, botes o contenedores de basura, arboladas, y con alumbrado público.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3015,7 +3175,7 @@ IV. Subdividir los lotes o dedicarlos a otros usos diversos de los previstos en 
 
 Los notarios deberán insertar expresamente en los actos traslativos de dominio o posesión o promesa de ellos, respecto de los lotes del fraccionamiento, las licencias correspondientes, actas de donación, garantías de urbanización del fraccionamiento y del área de donación.
 
-### CAPITULO XIII. DE LA AUTORIZACION DE LOS FRACCIONAMIENTOS
+### CAPITULO XII. DEL DICTAMEN DE FACTIBILIDAD
 
 ###### ARTICULO 180.
 
@@ -3047,7 +3207,7 @@ V. Copia del estudio de factibilidad positiva de prestación de servicios de agu
 
 VI. Constancia de trámite de la autorización de impacto ambiental, a que se refieren los artículos 118 fracción XII y 121 de la Ley Ambiental del Estado de San Luis Potosí, cuando sean fraccionamientos mayores de cincuenta viviendas o lotes.
 
-### CAPITULO XIV. DE LA REGULARIZACION DE FRACCIONAMIENTOS
+### CAPITULO XIII. DE LA AUTORIZACION DE LOS FRACCIONAMIENTOS
 
 ###### ARTICULO 182.
 
@@ -3133,7 +3293,7 @@ VI. Monto del impuesto y derechos que deban pagarse de conformidad a la legislac
 
 VII. Apercibimiento de que la autorización no habilita para dar inicio a la ejecución de obras ni a llevar a acabo (sic) ninguno de los actos para los cuales ésta Ley y su reglamento exijan autorización específica.
 
-### CAPITULO XV. DE LA MUNICIPALIZACION DE LOS FRACCIONAMIENTOS
+### CAPITULO XIV. DE LA REGULARIZACION DE FRACCIONAMIENTOS
 
 ###### ARTICULO 187.
 
@@ -3161,9 +3321,7 @@ Si la autoridad correspondiente estimara que el fraccionamiento llevado a cabo s
 
 Cuando se considere de estricta utilidad pública unir un fraccionamiento en proyecto con las zonas urbanas o fraccionamientos colindantes inmediatos, y sea necesario abrir para ello calles a través de terrenos que no formen parte del inmueble por fraccionar, sin que se logre la anuencia del propietario o propietarios respectivos, el Ejecutivo del Estado a petición del ayuntamiento, determinará lo conducente para que se adquieran de conformidad a lo establecido en la Ley de Expropiación, Ocupación Temporal y Limitación del Dominio por Causa de Utilidad Pública para el Estado, las superficies necesarias para dichas calles.
 
-### CAPITULO XVI. DE LA FUSION, SUBDIVISION Y RELOTIFICACION
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+### CAPITULO XV. DE LA MUNICIPALIZACION DE LOS FRACCIONAMIENTOS
 
 ###### ARTICULO 190.
 
@@ -3177,7 +3335,9 @@ De acuerdo con lo dispuesto en el artículo anterior, sólo el Ayuntamiento ser�
 
 Habiéndose ejecutado la urbanización total del fraccionamiento, de conformidad con el proyecto definitivo autorizado, el fraccionador, solicitará por escrito al Ayuntamiento correspondiente, la municipalización del mismo.
 
-Los fraccionamientos que se urbanicen por etapas, podrán municipalizarse parcialmente previo acuerdo del Ayuntamiento.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Los fraccionamientos que se urbanicen por etapas, se municipalizarán también por etapas.
 
 El Ayuntamiento podrá recibir previamente a la municipalización, mediante convenio suscrito con el fraccionador, algún servicio y obra de equipamiento, a efecto de que aquél se haga cargo de su operación para lograr mayor eficiencia.
 
@@ -3205,9 +3365,9 @@ f) Organismo operador de Agua o equivalente.
 
 g) Cámara u organismo que represente a los constructores del municipio, que manifieste su interés de participar como testigo de la transparencia y cumplimiento de tiempos y procedimientos.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-Los tiempos de respuesta de cada una de las instancias que participen en la mesa colegiada de recepción, no podrán exceder de diez días hábiles para emitir los dictámenes o informes que correspondan, y de cinco días en el caso de las resolutorias.
+Los tiempos de respuesta de cada una de las instancias que participan en la mesa colegiada de recepción, no podrán exceder de diez días hábiles para emitir los dictámenes correspondientes.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3221,23 +3381,25 @@ El ayuntamiento respectivo recibirá el fraccionamiento mediante el levantamient
 
 En caso de no dar cumplimiento con los plazos establecidos en éste y en el artículo 192, se entenderá que el fraccionamiento fue recibido de conformidad por todas las áreas de la administración municipal involucradas en el proceso de entrega-recepción del fraccionamiento.
 
-### CAPITULO UNICO
+### CAPITULO XVI. DE LA FUSION, SUBDIVISION Y RELOTIFICACION
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 194.
 
-La relotificación es el acto por el que a dos o más lotes de un fraccionamiento se les modifican sus dimensiones, superficies o su localización originalmente establecidas en el proyecto de lotificación aprobado.
+La relotificación es el acto por el que a dos o más lotes de un fraccionamiento se les modifican sus dimensiones, superficies, cantidad de lotes o su localización originalmente establecidas en el proyecto de lotificación aprobado.
 
 ###### ARTICULO 195.
 
 Las relotificaciones podrán ser autorizadas en los casos siguientes:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-I. Si no se hubiere entregado al ayuntamiento la urbanización del fraccionamiento, respetando el funcionamiento de la traza urbana y manteniendo la densidad habitacional para la zona, marcada en el Plan de Desarrollo Urbano, sin perjuicio de terceros adquirientes de lotes, quienes deberán manifestar previamente y por escrito su conformidad para llevar a cabo la relotificación en el acta notarial correspondiente, y
+I. Si no se hubiere entregado al ayuntamiento la urbanización del fraccionamiento, respetando el funcionamiento de la traza urbana y manteniendo la densidad habitacional para la zona, marcada en el Plan de Desarrollo Urbano, sin perjuicio de terceros adquirientes de lotes, y
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-II. Si ya se hubiera entregado la urbanización al ayuntamiento, únicamente se podrá relotificar la superficie vendible, pudiéndose crear nuevas calles, manteniendo la intensidad habitacional para la zona marcada en el Plan de Desarrollo Urbano sin perjuicio de terceros adquirientes de lotes, quienes deberán manifestar previamente y por escrito su conformidad para llevar a cabo la relotificación en el acta notarial correspondiente.
+II. Si ya se hubiere entregado la urbanización al ayuntamiento, únicamente se podrá relotificar la superficie vendible, pudiéndose crear nuevas calles, manteniendo la intensidad habitacional para la zona marcada en el Plan de Desarrollo Urbano sin perjuicio de terceros adquirientes de lotes.
 
 En el caso de la fracción I, se podrá solicitar que, conjuntamente con la relotificación, se autorice el incremento de la intensidad del uso habitacional asignado a los lotes, cuando se cumplan los requisitos que se contemplan en el artículo 198 de esta Ley y no sobrepase la densidad establecida para la zona por el Plan de Desarrollo Urbano aplicable.
 
@@ -3253,11 +3415,13 @@ Las solicitudes de relotificaciones deberán ser presentadas con los planos y es
 
 Una vez revisada la documentación y después de haberse hecho el análisis correspondiente de la relotificación solicitada, en el caso de ser procedente, tendrá que ser autorizada por la dirección correspondiente y deberá inscribirse en la Dirección de Catastro municipal, remitiéndola a los antecedentes de su autorización inicial, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 198.
 
-El cambio de intensidad del uso habitacional a fin de incrementar el número de viviendas, sólo procederá respecto de los fraccionamientos de habitación popular o residencial autorizados, y siempre que no se hubieren entregado al ayuntamiento las obras de urbanización, y no sobrepase la densidad de vivienda establecida para la zona por el Plan de Desarrollo Urbano aplicable.
+El cambio de intensidad del uso habitacional a fin de incrementar el número de viviendas, sólo procederá respecto de los fraccionamientos de habitación económica, popular o residencial autorizados; y siempre que no sobrepase la densidad de vivienda establecida en el artículo 158 de esta Ley.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
 Para autorizar el cambio en la intensidad del uso habitacional, será necesario incrementar el área de donación para equipamiento a razón de quince metros cuadrados por vivienda adicional tratándose para fraccionamientos de vivienda popular; y cuarenta y nueve metros cuadrados por vivienda adicional tratándose de fraccionamientos residenciales, de acuerdo con lo establecido en el artículo 157 fracción IV de esta Ley.
 
@@ -3311,17 +3475,19 @@ IV. Los lotes resultantes de la subdivisión de terrenos con frente a carreteras
 
 V. No se autorizará la subdivisión cuando ésta dé como resultado una fracción menor al lote tipo del fraccionamiento, al cual corresponda, o a la zona establecida en los Planes de Desarrollo Urbano;
 
-VI. En ningún caso el frente será menor de seis metros y la superficie menor de noventa metros cuadrados;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VI. Los lotes deberán tener una superficie de acuerdo con el artículo 5° de esta Ley, y que permita acceder a los programas y subsidios federales en materia de vivienda;
 
 VII. Los predios suburbanos, para uso agropecuario podrán subdividirse siempre y cuando las fracciones resultantes no sean menores de diez mil metros cuadrados y no contravengan disposiciones establecidas en los respectivos Planes de Desarrollo Urbano, y
 
 VIII. Tratándose de lotes para usos comerciales o de servicios sus dimensiones podrán ser menores atendiendo a las especificaciones que al efecto establezcan los respectivos Planes de Desarrollo Urbano en las zonas de su ubicación, y al giro que pretenda dedicarse el predio, en cualquier caso deberán contar con espacio suficiente para las instalaciones sanitarias y de ventilación o iluminación natural, y los requerimientos mínimos de estacionamiento, conforme a las disposiciones de ésta Ley y los reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 203.
 
-Las subdivisiones de predios provenientes de otra subdivisión autorizada, en la cual se haya establecido y cumplido la obligación de otorgar al ayuntamiento el diez por ciento del total del predio para áreas de donación, no quedarán afectadas por la obligación de volver a hacer la donación.
+Las subdivisiones de predios provenientes de otra subdivisión autorizada, en la cual se haya establecido y cumplido la obligación de pagar al ayuntamiento los derechos correspondientes, están exentas de hacer nuevamente el pago establecido en el artículo 202 fracción III de esta Ley.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -3425,7 +3591,7 @@ Las relotificaciones, fusiones o subdivisiones que se pretendan efectuar respect
 
 ## TITULO DECIMO SEXTO. DE LOS CONDOMINIOS
 
-### CAPITULO I. DE LA VIVIENDA
+### CAPITULO UNICO
 
 ###### ARTICULO 214.
 
@@ -3503,37 +3669,7 @@ ARTICULO 216 BIS. Para la presentación de la solicitud de la licencia de constr
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
-### CAPITULO II. DE LAS FACILIDADES DE LAS PERSONAS CON PROBLEMAS DE DISCAPACIDAD
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
-
-ARTICULO 219 BIS. En la elaboración de proyectos urbanos y arquitectónicos, se observarán las siguientes reglas que garanticen la seguridad, el libre tránsito y accesibilidad que requieren las personas con discapacidad:
-
-I. Todas las rutas o senderos peatonales, sean banquetas, andadores o pasajes, deberán contar con:
-
-a) Rampas de cruces de arroyos vehiculares.
-
-b) Areas de descanso con una separación máxima de cincuenta metros.
-
-c) En los casos de pasos peatonales a desnivel, se deberá prever su acceso tanto en escalera, como en rampa;
-
-II. Los espacios públicos abiertos como plazas y explanadas, en los que existan cambios de nivel y sea necesario el uso de circulaciones verticales, se deberá prever tanto de escaleras con pasamanos como rampas;
-
-III. Los edificios y áreas de estacionamiento deberán contar con cajones de estacionamiento para vehículos de personas con problemas de discapacidad, a razón de uno por cada veinticinco cajones.
-
-En edificios de estacionamiento los cajones destinados a vehículos de personas con problemas de discapacidad, deberán ubicarse en el nivel que dé acceso a la salida del edificio, evitando el uso de escaleras; en caso de existir elevadores, los cajones se ubicarán frente a ellos, y
-
-IV. En todas las edificaciones de equipamiento, servicios y comercio, se deberán prever:
-
-a) Sanitarios con inodoros especiales para sillas de ruedas.
-
-b) Teléfonos colocados a una altura de un metro veinte centímetros, y no dentro de un gabinete cerrado.
-
-Las especificaciones de rampas, cajones de estacionamiento y sanitarios, serán de acuerdo a lo establecido en el Reglamento de esta Ley.
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
-
-ARTICULO 219 TER. Los lugares destinados para el uso de personas con problemas de discapacidad, tales como: caones (sic) de estacionamiento, rampas, elevadores, sanitarios y teléfonos, deberán contar con una adecuada señalización, a la que se brindará mantenimiento continuo.
+### CAPITULO I. DE LA VIVIENDA
 
 ###### ARTICULO 217.
 
@@ -3571,25 +3707,61 @@ II. La etapa inicial de la vivienda progresiva tendrá como mínimo una superfic
 
 III. El crecimiento de la vivienda progresiva deberá ser prevista desde un principio, a fin de que al ejecutarse las etapas posteriores se conserve la imagen urbana del fraccionamiento o colonia. Del mismo modo, las ampliaciones de una vivienda terminada deberán guardar armonía con la imagen urbana existente o en su caso la prevista en el respectivo Plan de Desarrollo Urbano o en los correspondientes programas;
 
-IV. Cuando se requiera escalera interior en la vivienda, se preferirá la escalera recta en lugar de la denominada "de caracol". En la primera, el ancho mínimo será de noventa centímetros y en la segunda el diámetro será de un metro con cuarenta centímetros;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+IV. Cuando se requiera escalera interior en la vivienda, se preferirá la recta en lugar de la denominada "de caracol". En la primera, el ancho mínimo será de noventa centímetros y en la segunda el diámetro mínimo será de un metro con cuarenta centímetros;
 
 V. En los edificios multifamiliares, las escaleras de uso general tendrán un ancho mínimo de un metro veinte centímetros y darán servicio hasta a veinte viviendas;
 
 VI. En el caso de vivienda unifamiliar, ésta, deberá contar con cisterna con capacidad de un metro cúbico, como mínimo, la que se incrementará en proporción a las necesidades de los usuarios, de conformidad con las disposiciones reglamentarias respectivas.
 
-Los grupos habitacionales de más de cincuenta viviendas; las construcciones de cinco niveles o más; y las construcciones ubicadas en zonas cuya red pública de agua potable tenga una presión inferior a diez metros de columna de agua, deberán contar con cisternas calculadas para almacenar dos veces la demanda mínima de agua potable de la construcción, de conformidad con lo que al efecto establezca el reglamento de esta Ley, y estar equipadas con sistema de bombeo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Los grupos habitacionales de más de cincuenta viviendas; las construcciones de cinco niveles o más; y las construcciones ubicadas en zonas cuya red pública de agua potable tenga una presión inferior a diez metros de columna de agua, deberán contar con cisternas calculadas para almacenar dos veces la demanda mínima diaria de agua potable de la construcción, de conformidad con lo que al efecto establezca el reglamento de esta Ley, y estar equipadas con sistema de bombeo.
 
 Las cisternas serán completamente impermeables, tendrán registros con cierre hermético y sanitario y se ubicarán un metro y medio, cuando menos, de cualquier tubería permeable de aguas negras, y
 
-VII. En los edificios de habitación plurifamiliar, la altura máxima permitida será la que establezca el plan del respectivo centro de población estratégico o de centro de población municipal. En caso de que el centro de población no esté dotado de plan o en éste no se contemplara una norma de este tipo, la altura máxima permitida será la equivalente a cuatro pisos.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VII. En los edificios de habitación plurifamiliar, la altura máxima permitida será la que posibilite acceder a los programas de subsidio federal para la vivienda, y conforme a lo establecido en el artículo 158 de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2002)</small>
 
-### CAPITULO I. DE LAS INSPECCIONES
+### CAPITULO II. DE LAS FACILIDADES DE LAS PERSONAS CON PROBLEMAS DE DISCAPACIDAD
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
+
+ARTICULO 219 BIS. En la elaboración de proyectos urbanos y arquitectónicos, se observarán las siguientes reglas que garanticen la seguridad, el libre tránsito y accesibilidad que requieren las personas con discapacidad:
+
+I. Todas las rutas o senderos peatonales, sean banquetas, andadores o pasajes, deberán contar con:
+
+a) Rampas de cruces de arroyos vehiculares.
+
+b) Areas de descanso con una separación máxima de cincuenta metros.
+
+c) En los casos de pasos peatonales a desnivel, se deberá prever su acceso tanto en escalera, como en rampa;
+
+II. Los espacios públicos abiertos como plazas y explanadas, en los que existan cambios de nivel y sea necesario el uso de circulaciones verticales, se deberá prever tanto de escaleras con pasamanos como rampas;
+
+III. Los edificios y áreas de estacionamiento deberán contar con cajones de estacionamiento para vehículos de personas con problemas de discapacidad, a razón de uno por cada veinticinco cajones.
+
+En edificios de estacionamiento los cajones destinados a vehículos de personas con problemas de discapacidad, deberán ubicarse en el nivel que dé acceso a la salida del edificio, evitando el uso de escaleras; en caso de existir elevadores, los cajones se ubicarán frente a ellos, y
+
+IV. En todas las edificaciones de equipamiento, servicios y comercio, se deberán prever:
+
+a) Sanitarios con inodoros especiales para sillas de ruedas.
+
+b) Teléfonos colocados a una altura de un metro veinte centímetros, y no dentro de un gabinete cerrado.
+
+Las especificaciones de rampas, cajones de estacionamiento y sanitarios, serán de acuerdo a lo establecido en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
+
+ARTICULO 219 TER. Los lugares destinados para el uso de personas con problemas de discapacidad, tales como: caones (sic) de estacionamiento, rampas, elevadores, sanitarios y teléfonos, deberán contar con una adecuada señalización, a la que se brindará mantenimiento continuo.
 
 ## TITULO DECIMO OCTAVO. DE LAS INSPECCIONES, MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPITULO II. DE LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO I. DE LAS INSPECCIONES
 
 ###### ARTICULO 220.
 
@@ -3623,7 +3795,7 @@ Las notificaciones en el procedimiento administrativo, para la aplicación de me
 
 Cuando la notificación se realice en el domicilio o en el inmueble señalado en el párrafo anterior, de no estar presente a quien deba notificarse, se hará a cualquier persona que ahí se encuentre, de negarse ésta a recibirla o no hallarse persona alguna se fijará la notificación en lugar visible del mismo.
 
-### CAPITULO UNICO
+### CAPITULO II. DE LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 224.
 
@@ -3770,6 +3942,8 @@ V. Se impida de cualquier forma el cumplimiento de las funciones de inspección 
 La suspensión de la ejecución de la construcción u obra en los casos señalados en este artículo, se notificará al efecto conjuntamente con la citación para que concurra el infractor al desahogo de la audiencia de ésta Ley.
 
 ## TITULO DECIMO NOVENO. DEL RECURSO DE RECONSIDERACION
+
+### CAPITULO UNICO
 
 ###### ARTICULO 235.
 
@@ -3958,3 +4132,9 @@ PRIMERO. Este Decreto entrará en vigor a los quince días siguientes de su publ
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 
 TERCERO. El Plan Regional de Desarrollo deberá adecuarse con las reformas relativas a la Ley de Desarrollo Urbano, en un término de trescientos sesenta y cinco días, contados a partir de la entrada en vigor de este Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
