@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "2012-05-08"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 4 DE FEBRERO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -233,9 +235,15 @@ El otorgamiento de la pensión de retiro por edad avanzada excluye la posibilida
 
 Se otorgarán pensiones por invalidez según proceda, en los casos y con las condiciones que esta Ley establece, a los trabajadores que, por causas distintas a los accidentes de trabajo o enfermedades profesionales, se incapaciten física o mentalmente para desarrollar actividades habituales del cargo que hubieran venido desempeñado (sic) al momento de ocurrir las causas de invalidez, siempre que hayan prestado servicios por lo menos durante tres años efectivos y hayan cotizado durante el mismo tiempo al fondo correspondiente.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+También se otorgarán pensiones de incapacidad por causas de trabajo o enfermedades profesionales a los trabajadores que se incapaciten física o mentalmente para desarrollar actividades habituales del cargo que hubieran venido desempeñando al momento de ocurrir las causas de incapacidad. Para estos casos no existirá el requisito mínimo de tiempo cotizado al fondo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 33.
 
-La pensión a que se refiere este capítulo consistirá en el pago mensual de la cantidad que resulte de aplicar al sueldo regulador establecido en la fracción V del Artículo 2° de esta Ley el siguiente tabulador:
+La pensión por invalidez por causas ajenas al trabajo al que se refiere el artículo anterior, consistirá en el pago mensual de la cantidad que resulte de aplicar al sueldo regulador establecido en la fracción V del Artículo 2° de esta Ley el siguiente tabulador:
 
 ANTIGÜEDAD EN PORCENTAJE DEL
 
@@ -266,6 +274,10 @@ de 28 años 1 día a 30 años 95% 100%
 de 30 años un día en adelante 100% 100%
 
 En caso de incapacidad total y permanente después de haber laborado más de 25 años, la pensión se calculará aplicando al sueldo base, el tabulador anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Cuando se trate de una pensión de incapacidad por causas de trabajo, el monto que recibirá el pensionado, será del 100% de su último salario básico percibido.
 
 ###### ARTICULO 34.
 
@@ -313,6 +325,10 @@ El trabajador está obligado a someterse a los reconocimientos a que se refiere 
 
 Tendrán derecho a percibir la pensión por muerte de un trabajador o pensionado, cualquiera que sea su edad, los beneficiarios a que se refiere el Artículo 42 de esta Ley en el orden preferencia que el mismo establece, siempre que aquél hubiere contribuido al fondo correspondiente por un lapso mínimo de tres años.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+También se otorgarán pensiones por muerte de un trabajador por causas de trabajo o enfermedades profesionales, a los beneficiarios a que se refiere el Artículo 42 de esta Ley en el orden de preferencia que el mismo establece. Para estos casos no existirá el requisito mínimo de tiempo cotizado al fondo.
+
 El derecho al otorgamiento de esta pensión se adquirirá a partir del día siguiente a aquel en que ocurra la muerte que dé lugar a la pensión.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2007)</small>
@@ -321,7 +337,9 @@ El derecho al otorgamiento de esta pensión se adquirirá a partir del día sigu
 
 La pensión por causa de muerte del trabajador consistirá en el pago mensual, a partir del día siguiente al de la fecha de fallecimiento, de una cantidad equivalente al 100% del sueldo regulador a que se refiere la fracción V del artículo 2°, al que se le aplicará el tabulador consignado en el artículo 33 de esta ley.
 
-La pensión a que tenga derecho el hijo incapacitado o imposibilitado total o parcialmente para trabajar, el cónyuge supérstite, el compañero civil o el concubino o la concubina del trabajador o pensionado, cesará al momento de la muerte de cada uno de ellos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Cuando se trate de una pensión de muerte por causas de trabajo, el monto que recibirá el o los beneficiarios, será del 100% del último salario básico percibido por el trabajador fallecido.
 
 ###### ARTICULO 42.
 
@@ -890,3 +908,11 @@ Las facultades y obligaciones a que se refiere este decreto, que en otras leyes,
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+TERCERO.- Los trabajadores que, por causas de trabajo o enfermedad profesional, hayan fallecido o incapacitado a partir del primero de diciembre de 2011 y hasta la entrada en vigor de esta Ley, que no hayan tenido derecho a la pensión correspondiente por no haber cumplido el requisito mínimo de cotizaciones al fondo, accederán a las pensiones establecidas en los Artículos 32 y 33 o 40 y 41, según corresponda, de la presente Ley.
