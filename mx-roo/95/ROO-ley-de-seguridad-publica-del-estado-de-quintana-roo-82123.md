@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-del-estado-de-quintana-roo-82123"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-17"
-last_updated: "2011-06-17"
+last_updated: "2013-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 24 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el número 46 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de junio de 2011.
 
@@ -3513,7 +3515,7 @@ DIPUTADO SECRETARIO:
 
 LIC. JOSÉ DE LA PEÑA RUÍZ DE CHÁVEZ.
 
-CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y EL ARTÍCULO 8 FRACCIÓN VIIl DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFlCIAL DEL ESTADO DE QUINTANA ROO, EL DECRETO NÚMERO: 011 POR EL QUE SE EXPIDE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO, EXPEDIDO POR LA HONORABLE XIII LEGISLATURA DEL ESTADO, A LOS DIECISÉIS DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL ONCE. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIECISIETE DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL ONCE.
+CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y EL ARTÍCULO 8 FRACCIÓN VIII DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFlCIAL DEL ESTADO DE QUINTANA ROO, EL DECRETO NÚMERO: 011 POR EL QUE SE EXPIDE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO, EXPEDIDO POR LA HONORABLE XIII LEGISLATURA DEL ESTADO, A LOS DIECISÉIS DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL ONCE. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIECISIETE DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL ONCE.
 
 H. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO.
 
@@ -3522,3 +3524,21 @@ LIC. ROBERTO BORGE ANGUlANO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO,
 
 ARQ. LUIS ALBERTO GONZÁLEZ FLORES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO. Publíquese la presente Ley en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Se abroga la Ley de Seguridad Pública del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado, el 17 de junio del 2011.
+
+CUARTO. Los servicios de carrera vigentes en la Secretaría de Seguridad Pública, a la fecha de entrada en vigor de este Decreto, deberán ajustarse a los requisitos, criterios y procedimientos que establece la presente ley en la rama correspondiente en un plazo no mayor de noventa días contados a partir del día siguiente de la publicación.
+
+QUINTO. Las Instituciones de Seguridad Pública estatales y municipales emitirán los manuales de operación de las áreas correspondientes, a más tardar en sesenta días naturales contados a partir de la aprobación de los reglamentos.
+
+SEXTO. El Ejecutivo del Estado expedirá las disposiciones reglamentarias de la presente Ley dentro de los noventa días naturales siguientes a su publicación, entre tanto, seguirán vigentes los reglamentos aplicables a las Instituciones de Seguridad Pública, en los que no se opongan a esta Ley.
+
+SÉPTIMO. Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor de esta Ley, cualquiera que sea su naturaleza, se continuarán tramitando y se resolverán conforme a las disposiciones aplicables al momento de su inicio.
