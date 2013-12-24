@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2012-06-26"
+last_updated: "2013-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -119,21 +119,11 @@ Para establecer el estado civil adquirido por los coahuilenses fuera del territo
 
 Para establecer el estado civil adquirido por los coahuilenses fuera de la República Mexicana, se observará lo dispuesto en el artículo 159 del Código Civil para el Estado de Coahuila y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 14.
 
-Los Oficiales del Registro Civil que intervengan, en el ámbito de su competencia, en actos o hechos del estado civil de extranjeros, se sujetarán a las siguientes prescripciones:
-
-I. No celebrarán ningún acto del estado civil en que intervenga algún extranjero sin la comprobación previa, por parte de éste, de su legal estancia en el país. Tratándose de matrimonios de extranjeros con mexicanos deberán exigir, además, el permiso previo emitido por la Secretaría de Gobernación. Una vez verificado ese acto, los Oficiales darán aviso de ello a esa dependencia federal.
-
-II. Las actas de nacimiento, de reconocimiento de hijos y de defunción, deberán levantarse en los términos señalados por el Código Civil para el Estado de Coahuila y, cuando los extranjeros que intervengan no acrediten su estancia legal en el país, tomarán nota de su nombre, ocupación y domicilio y darán aviso a la dependencia competente del gobierno federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
-
-III. Al hacer la inscripción de actas de tutela, divorcio u otros actos o anotaciones que se realicen por mandato judicial, se cerciorarán si ante la autoridad judicial correspondiente, los extranjeros comprobaron su legal estancia en el país y, en caso contrario, darán aviso a la autoridad a que se refiere la fracción anterior.
-
-IV. En caso de emancipación por efecto de matrimonio, se cerciorarán de que el mismo se celebró con permiso de la dependencia federal competente y, en caso contrario, con los datos correspondientes se dará el mismo aviso a que se refiere la fracción primera.
+Los Oficiales del Registro Civil que intervengan, en el ámbito de su competencia, en actos o hechos del estado civil de extranjeros, no podrán negarles, independientemente de su situación migratoria, la autorización de los actos del estado civil ni la expedición de actas relativos al nacimiento, reconocimiento de hijos, matrimonio, divorcio y defunción, siempre y cuando cumplan con los requisitos establecidos por la ley para el acto de que se trate.
 
 ## TÍTULO SEGUNDO. LA ORGANIZACIÓN Y EL FUNCIONAMIENTO DEL REGISTRO CIVIL
 
@@ -1310,3 +1300,9 @@ TERCERO.- Las adopciones que a la entrada en vigor del presente decreto, se encu
 CUARTO.- En los juicios y procedimientos de rectificación y aclaración de actas del registro civil que se encuentren en trámite a la entrada en vigor del presente decreto, será potestativo para las partes acogerse a las reformas establecidas en el mismo o, en su caso, seguir rigiéndose por las disposiciones anteriores a su publicación, hasta en tanto hayan concluido en su totalidad.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto
