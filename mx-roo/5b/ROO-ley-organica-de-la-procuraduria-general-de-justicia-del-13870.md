@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-procuraduria-general-de-justicia-del-13870"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2011-02-25"
+last_updated: "2013-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 24 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -445,7 +447,7 @@ Para ser Director General y Subdirector de Consignación y Trámite se deben reu
 
 ###### ARTICULO 22.
 
-Son atribuciones del Director General de Consignación y Trámite las siguientes: '
+Son atribuciones del Director General de Consignación y Trámite las siguientes:
 
 I.- Planear, asegurar, supervisar y evaluar las acciones de su área;
 
@@ -1273,7 +1275,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 PROFR. RAUL O. SANTANA BASTARRACHEA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE OCTUBRE DE 2006.
 
@@ -1296,3 +1298,27 @@ P.O. 25 DE FEBRERO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Quintana Roo publicada en el Periódico Oficial del Estado de fecha quince de febrero de mil novecientos noventa y nueve y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Se derogan en lo conducente, todos los acuerdos de creación y otorgamiento de facultades a los órganos o unidades administrativas que ahora se contienen en la presente Ley, dictados por el Procurador General de Justicia del Estado.
+
+TERCERO. El reglamento de esta ley, el Reglamento de la Dirección General de la Visitaduría, el Reglamento del Instituto de Formación Profesional, Capacitación e Investigación Jurídica, el Reglamento de Usuarios del Centro de Atención a Víctimas u Ofendidos del Delito, el Reglamento de Usuarios del Centro de Justicia para Mujeres, el Reglamento del Servicio Profesional de Carrera de la Procuraduría General de Justicia del Estado y el Reglamento del Consejo de Profesionalización, Honor y Justicia, deberán expedirse dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta ley.
+
+En tanto no se emitan los reglamentos antes referidos, se continuarán aplicando, siempre que no se opongan al presente ordenamiento, las disposiciones vigentes a la entrada en vigor de esta Ley.
+
+CUARTO. En virtud de la implementación gradual del Sistema de Justicia Penal Acusatorio en la Entidad, conforme a la Declaratoria de que el Sistema Procesal Penal Acusatorio ha sido incorporado en el Estado de Quintana Roo, que para tal efecto emita el Congreso del Estado y se publique en el Periódico Oficial del Estado, se faculta al Procurador General de Justicia del Estado para adecuar la estructura orgánica de la Procuraduría, conforme a esta ley y a las necesidades correspondientes para la implementación de dicho sistema.
+
+QUINTO. En tanto no se implemente el Sistema de Justicia Penal Acusatorio en cada Distrito Judicial del Estado, las disposiciones de esta ley relativas a las facultades y procedimientos de dicho sistema, se aplicarán en las fechas que contendrá la declaratoria señalada en el artículo anterior.
+
+Conforme a lo dispuesto en el párrafo anterior, las Direcciones que resulten competentes con sus correspondientes unidades y áreas, continuarán conociendo de la atención y resolución de las denuncias y querellas que se formulen, hasta que entre en vigor el Sistema de Justicia Penal Acusatorio en el Distrito Judicial al que correspondan.
+
+SEXTO. El Código de Procedimientos Penales para el Estado de Quintana Roo, publicado en el Periódico Oficial del Estado el siete de octubre de mil novecientos ochenta, así como la Ley Orgánica que se abroga, seguirán rigiendo en lo conducente en los procedimientos iniciados con anterioridad a la nueva Ley Adjetiva y, quedará abrogado en la medida en que aquellos queden concluidos, conforme a la calendarización establecida en la Declaratoria a que hace referencia el artículo cuarto transitorio de la presente Ley.
+
+SÉPTIMO. Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor de esta Ley, cualquiera que sea su naturaleza, se continuarán tramitando y se resolverán conforme a las disposiciones aplicables al momento de su inicio.
+
+OCTAVO. La Fiscalía Especializada en Extinción de Dominio, iniciará sus funciones a partir de la entrada en vigor de la Ley de Extinción de Dominio del Estado de Quintana Roo.
