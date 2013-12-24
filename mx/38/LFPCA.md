@@ -4,7 +4,7 @@ identifier: "LFPCA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2005-12-01"
-last_updated: "2011-01-28"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCA"
 
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2005.
 
@@ -60,7 +60,7 @@ I. Acuse de Recibo Electrónico: Constancia que acredita que un documento digita
 
 II. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -124,7 +124,7 @@ Dentro del mismo plazo que corresponda a la autoridad demandada, la Secretaría 
 
 III. El tercero que tenga un derecho incompatible con la pretensión del demandante.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 4o.
 
@@ -274,7 +274,7 @@ Manifestada por un magistrado la causa de impedimento, el Presidente de la Secci
 
 ### CAPÍTULO I. De la Demanda
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 13.
 
@@ -290,9 +290,9 @@ La demanda deberá presentarse dentro de los plazos que a continuación se indic
 
 I. De cuarenta y cinco días siguientes a aquél en el que se dé alguno de los supuestos siguientes:
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
 
-a) Que haya surtido efectos la notificación de la resolución impugnada, de conformidad con lo dispuesto en esta Ley, inclusive cuando se controvierta simultáneamente como primer acto de aplicación una regla administrativa de carácter general.
+a) Que haya surtido efectos la notificación de la resolución impugnada, lo que se determinará conforme a la ley aplicable a ésta, inclusive cuando se controvierta simultáneamente como primer acto de aplicación una regla administrativa de carácter general.
 
 b) Hayan iniciado su vigencia el decreto, acuerdo, acto o resolución administrativa de carácter general impugnada cuando sea auto aplicativa.
 
@@ -312,7 +312,7 @@ En los casos de incapacidad o declaración de ausencia, decretadas por autoridad
 
 La demanda deberá indicar:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 I. El nombre del demandante, domicilio fiscal y su domicilio para oír y recibir notificaciones dentro de la jurisdicción de la Sala Regional Competente, así como su dirección de correo electrónico, cuando opte porque el juicio se substancie en línea a través del Sistema de Justicia en Línea.
 
@@ -494,7 +494,7 @@ Cuando haya contradicciones entre los hechos y fundamentos de derecho dados en l
 
 ### CAPÍTULO III. De las Medidas Cautelares
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -508,7 +508,7 @@ Las demás medidas cautelares se tramitarán y resolverán de acuerdo con la pre
 
 Durante los periodos de vacaciones del Tribunal, en cada región un Magistrado de Sala Regional cubrirá la guardia y quedará habilitado para resolver las peticiones urgentes sobre medidas cautelares o suspensión del acto impugnado, relacionadas con cuestiones planteadas en la demanda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -538,7 +538,7 @@ En los demás casos, el particular justificará en su petición las razones por 
 
 La solicitud de las medidas cautelares, se podrá presentar en cualquier tiempo, hasta antes de que se dicte sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -554,7 +554,7 @@ Mientras no se dicte sentencia definitiva el Magistrado Instructor que hubiere c
 
 La Sala Regional podrá decretar medidas cautelares positivas, entre otros casos, cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una lesión importante del derecho que pretende, por el simple transcurso del tiempo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -566,7 +566,7 @@ Las medidas cautelares podrán quedar sin efecto si la contraparte da, a su vez,
 
 Por su parte, la autoridad podrá obligarse a resarcir los daños y perjuicios que se pudieran causar al particular; en cuyo caso, el Tribunal, considerando las circunstancias del caso, podrá no dictar las medidas cautelares. En este caso, si la sentencia definitiva es contraria a la autoridad, el Magistrado Instructor, la Sala Regional, la Sección o el Pleno, deberá condenarla a pagar la indemnización administrativa que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -802,7 +802,7 @@ Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con ale
 
 ### CAPÍTULO VII. Facultad de Atracción
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 48.
 
@@ -1088,7 +1088,7 @@ IV. A quien promueva una queja notoriamente improcedente, entendiendo por ésta 
 
 Existiendo resolución administrativa definitiva, si la Sala Regional, la Sección o el Pleno consideran que la queja es improcedente, prevendrán al promovente para que dentro de los cuarenta y cinco días siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda, cumpliendo los requisitos previstos por los artículos 14 y 15 de esta Ley, ante la misma Sala Regional que conoció del primer juicio, la que será turnada al mismo Magistrado Instructor de la queja.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO X. Del Juicio en Línea
 
@@ -1250,13 +1250,13 @@ Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el f
 
 El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del Sistema. Para tal efecto, la Sala hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizara el computo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO XI. Del Juicio en la Vía Sumaria
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1264,7 +1264,7 @@ El reporte que determine que existió interrupción en el Sistema deberá señal
 
 1.- El juicio contencioso administrativo federal se tramitará y resolverá en la vía sumaria, de conformidad con las disposiciones específicas que para su simplificación y abreviación se establecen en este Capítulo y, en lo no previsto, se aplicarán las demás disposiciones de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1288,7 +1288,7 @@ Para determinar la cuantía en los casos de los incisos I), III) y V), sólo se 
 
 La demanda deberá presentarse dentro de los quince días siguientes a aquél en que surta efectos la notificación de la resolución impugnada, de conformidad con las disposiciones de esta Ley ante la Sala Regional competente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1312,7 +1312,7 @@ En estos casos el Magistrado Instructor, antes de resolver sobre la admisión de
 
 Contra la determinación de improcedencia de la vía sumaria, podrá interponerse el recurso de reclamación ante la Sala Regional en que se encuentre radicado el juicio, en el plazo previsto por el artículo 58-8 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1322,7 +1322,7 @@ Contra la determinación de improcedencia de la vía sumaria, podrá interponers
 
 En el mismo auto en que se admita la demanda, se fijará día para cierre de la instrucción. Dicha fecha no excederá de los sesenta días siguientes al de emisión de dicho auto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1334,7 +1334,7 @@ Serán aplicables, en lo conducente, las reglas contenidas en el Capítulo V de 
 
 Por lo que toca a la prueba pericial, ésta se desahogará en los términos que prevé el artículo 43 de esta Ley, con la salvedad de que todos los plazos serán de tres días, salvo el que corresponde a la rendición y ratificación del dictamen, el cual será de cinco días, en el entendido de que cada perito deberá hacerlo en un solo acto ante el Magistrado Instructor. Cuando proceda la designación de un perito tercero, ésta correrá a cargo del propio Magistrado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1346,7 +1346,7 @@ La parte demandada o en su caso el tercero, contestarán la ampliación a la dem
 
 En caso de omisión de los documentos a que se refieren los artículos 17, último párrafo, y 21, segundo párrafo, de la Ley, las partes deberán subsanarla en el plazo de tres días siguientes a aquél en que surta efectos la notificación del requerimiento formulado por el instructor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1360,7 +1360,7 @@ El incidente de acumulación sólo podrá plantearse respecto de expedientes que
 
 Los incidentes de nulidad de notificaciones y de recusación de perito, se deberán interponer dentro del plazo de tres días siguientes a aquél en que se conoció del hecho o se tuvo por designado al perito, respectivamente, y la contraparte deberá contestar la vista en igual término.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1370,7 +1370,7 @@ Los incidentes de nulidad de notificaciones y de recusación de perito, se deber
 
 Interpuesto cualquiera de los recursos se ordenará correr traslado a la contraparte y esta última deberá expresar lo que a su derecho convenga en un término de tres días y sin más trámite, se dará cuenta a la Sala Regional en que se encuentra radicado el juicio, para que resuelva el recurso en un término de tres días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1380,7 +1380,7 @@ Interpuesto cualquiera de los recursos se ordenará correr traslado a la contrap
 
 Contra la resolución del Magistrado Instructor dictada conforme al párrafo anterior procederá el recurso de reclamación ante la Sala Regional en la que se encuentre radicado el juicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1388,7 +1388,7 @@ Contra la resolución del Magistrado Instructor dictada conforme al párrafo ant
 
 10.- En los casos de suspensión del juicio, por surtirse alguno de los supuestos contemplados para ello en esta Ley, en el auto en que el Magistrado Instructor acuerde la reanudación del procedimiento, fijará fecha para el cierre de instrucción, en su caso, dentro de los veinte días siguientes a aquél en que haya surtido efectos la notificación a las partes de la reanudación del juicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1396,7 +1396,7 @@ Contra la resolución del Magistrado Instructor dictada conforme al párrafo ant
 
 11.- Las partes podrán presentar sus alegatos antes de la fecha señalada para el cierre de la instrucción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1404,7 +1404,7 @@ Contra la resolución del Magistrado Instructor dictada conforme al párrafo ant
 
 12.- En la fecha fijada para el cierre de instrucción el Magistrado Instructor procederá a verificar si el expediente se encuentra debidamente integrado, supuesto en el que deberá declarar cerrada la instrucción; en caso contrario, fijará nueva fecha para el cierre de instrucción, dentro de un plazo máximo de diez días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1412,7 +1412,7 @@ Contra la resolución del Magistrado Instructor dictada conforme al párrafo ant
 
 13.- Una vez cerrada la instrucción, el Magistrado pronunciará sentencia dentro de los diez días siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1420,7 +1420,7 @@ Contra la resolución del Magistrado Instructor dictada conforme al párrafo ant
 
 14.- Si la sentencia ordena la reposición del procedimiento administrativo o realizar un determinado acto, la autoridad deberá cumplirla en un plazo que no exceda de un mes contado a partir de que dicha sentencia haya quedado firme de conformidad con el artículo 53 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1462,9 +1462,9 @@ El Pleno del Tribunal podrá ejercer de oficio la facultad de atracción para la
 
 ### CAPÍTULO I. De las Notificaciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 63.
 
@@ -1526,7 +1526,7 @@ Las notificaciones que se realicen a las autoridades o a personas morales por co
 
 Al actuario que sin causa justificada no cumpla con esta obligación, se le impondrá una multa de una a tres veces el salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al mes, sin que exceda del 30% de su salario. Será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1534,7 +1534,7 @@ Al actuario que sin causa justificada no cumpla con esta obligación, se le impo
 
 En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales o por Boletín Electrónico. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia al expediente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1552,7 +1552,7 @@ IV. La resolución de sobreseimiento en el juicio y la sentencia definitiva, al 
 
 En los demás casos, las notificaciones se ordenarán hacer a los particulares por medio del Boletín Electrónico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1568,7 +1568,7 @@ El requerimiento o notificación a otras autoridades administrativas se hará po
 
 Si el domicilio de la sede principal de la autoridad se encuentra en el lugar de la sede de la Sala, el actuario hará la entrega, recabando la constancia de recibo correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1584,7 +1584,7 @@ El Tribunal llevará en archivo especial, las publicaciones atrasadas del Bolet�
 
 La lista también podrá darse a conocer mediante documento impreso que se colocará en un lugar accesible de la Sala en que estén radicados los juicios, en la misma fecha en que se publique en el Boletín Electrónico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -1646,7 +1646,7 @@ Para fijar jurisprudencia, el Pleno de la Sala Superior deberá aprobar tres pre
 
 También se fijará jurisprudencia por alguna Sección de la Sala Superior, siempre que se aprueben cinco precedentes no interrumpidos por otro en contrario.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 77.
 
@@ -1684,7 +1684,7 @@ México, D.F., a 4 de octubre de 2005.- Dip. Heliodoro Díaz Escárraga, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de noviembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 27 DE DICIEMBRE DE 2006.
 
@@ -1694,7 +1694,7 @@ Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
 
 D.O.F. 23 DE ENERO DE 2009.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1702,7 +1702,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 D.O.F. 12 DE JUNIO DE 2009.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 1-A, 13, 14, 24, 31, 65, 66, 67, 68, 58-A AL 58-S Y CAPITULO X DE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 1-A, 13, 14, 24, 31, 65, 66, 67, 68, 58-A AL 58-S Y CAPÍTULO X DE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO.
 
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -1732,7 +1732,7 @@ DÉCIMO. Los recursos necesarios para la implementación y cumplimiento de lo di
 
 D.O.F. 12 DE JUNIO DE 2009.
 
-DECRETO POR EL QUE SE ADICIONAN LOS ARTICULOS 50-A Y 52 DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 50-A Y 52 DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1763,3 +1763,7 @@ El Tribunal Federal de Justicia Fiscal y Administrativa promoverá una campaña 
 D.O.F. 28 DE ENERO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
