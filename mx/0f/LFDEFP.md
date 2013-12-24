@@ -4,7 +4,7 @@ identifier: "LFDEFP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1998-05-28"
-last_updated: "2012-12-27"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11736&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDEFP"
 
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el jueves 28 de mayo de 1998.
 
@@ -276,6 +276,14 @@ II. La contratación se efectuará para apoyar las funciones de los defensores p
 
 III. Los abogados correspondientes, en solidaridad con las finalidades sociales del Instituto Federal de Defensoría Pública, podrán hacer donación a éste, de los honorarios que les corresponda percibir por su actuación profesional. Dichas donaciones serán deducibles de impuestos en los términos que establezcan las disposiciones fiscales.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 20 Bis.
+
+A fin de garantizar el derecho a la defensa en materia penal y a la asesoría jurídica a favor de las personas pertenecientes a los pueblos y comunidades indígenas, a través del acceso a la jurisdicción en la lengua indígena nacional en que sean hablantes, el Instituto Federal de Defensoría Pública actuará en coordinación con traductores e intérpretes que tengan conocimiento de la lengua y cultura a la que aquéllos pertenezcan.
+
+Para los efectos a que se refiere el párrafo anterior, el Instituto celebrará convenios de colaboración con las instituciones que puedan coadyuvar a la obtención de esos fines y promoverá la formación tanto de defensores públicos como de asesores jurídicos bilingües indígenas.
+
 ###### Artículo 21.
 
 Para promover la participación de estudiantes de la Licenciatura de Derecho, en las universidades públicas y privadas en los servicios de defensoría pública, el Instituto Federal de Defensoría Pública, podrá celebrar convenios con éstas, para que aquéllos puedan prestar su servicio social, de conformidad con los requisitos que al efecto establezcan las bases generales de organización y funcionamiento.
@@ -511,3 +519,7 @@ SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolesce
 OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
