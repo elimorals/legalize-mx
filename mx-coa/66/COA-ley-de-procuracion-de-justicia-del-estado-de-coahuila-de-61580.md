@@ -4,7 +4,7 @@ identifier: "COA-ley-de-procuracion-de-justicia-del-estado-de-coahuila-de-61580"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-16"
-last_updated: "2012-10-19"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE PROCURACION DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ENERO DE 2014 EN LA PRIMERA SECCIÓN DEL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. EL 12 DE MAYO DE 2009, SE DEROGAN LAS DISPOSICIONES QUE SEAN CONTRARIAS A LAS NORMAS ESTABLECIDAS EN EL CITADO ORDENAMIENTO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 16 de mayo de 2008.
 
@@ -235,7 +235,11 @@ IV. Turnar a las Autoridades correspondientes las indagatorias que no sean de su
 
 V. Recabar testimonios, ordenar peritajes, formular requerimientos, practicar inspecciones, preservar el lugar de los hechos, obtener evidencias y desahogar e integrar a la Averiguación Previa las pruebas que tiendan a acreditar las categorías procesales que determine el Código de Procedimientos Penales para fundamentar el ejercicio de la acción penal; así como para acreditar y cuantificar la reparación de los daños y perjuicios causados.
 
-VI. Solicitar a la Autoridad Judicial el desahogo de los medios de prueba que sólo por su conducto puedan recabarse; así como las órdenes de cateo, de arraigo, restricción y otras medidas precautorias que sean procedentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VI. Solicitar a la Autoridad Judicial el desahogo de los medios de prueba que sólo por su conducto puedan recabarse; así como las órdenes de cateo, restricción y otras medidas precautorias que sean procedentes.
 
 VII. Decretar el aseguramiento de los objetos, instrumentos y productos del delito, así como de las cosas, evidencias, valores o substancias relacionadas con el mismo.
 
@@ -283,7 +287,11 @@ V. Solicitar que se preserve el lugar de los hechos, los instrumentos, objetos y
 
 VI. Pedir el embargo precautorio de bienes para los efectos de la reparación del daño, en los términos que prevenga la ley.
 
-VII. Solicitar las órdenes de arraigo, de cateo y otras medidas precautorias, que sean procedentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VII. Solicitar las órdenes, de cateo y otras medidas precautorias, que sean procedentes.
 
 VIII. Aportar las pruebas y promover todo lo conducente para el completo esclarecimiento de los hechos delictuosos y de las circunstancias en que éstos se realizaron; así como para acreditar las particularidades del inculpado; ello con el fin de que en su oportunidad se impongan, a quienes hayan incurrido en las conductas materia de su acusación, las sanciones y medidas de seguridad previstas en las leyes; de igual forma, para demostrar los daños y perjuicios causados y fijar el monto de su reparación.
 
@@ -405,7 +413,11 @@ V. Cumplir las ordenes de localización, presentación, comparecencia y detenci�
 
 VI. Ejecutar las órdenes de presentación, comparecencia, aprehensión, reaprehensión, arresto y cateo emitidas por la Autoridad Judicial.
 
-VII. Ejecutar los arraigos y vigilar el cumplimiento de las órdenes de restricción, en los términos autorizados por la Autoridad Judicial o Ministerial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VII. Vigilar el cumplimiento de las órdenes de restricción, en los términos autorizados por la Autoridad Judicial o Ministerial.
 
 VIII. Preservar y vigilar los lugares y objetos que le ordene el Ministerio Público.
 
@@ -601,7 +613,11 @@ Mas cuando en la averiguación previa resulte evidente que se procede contra una
 
 DERECHOS DEL INCULPADO. Durante la Averiguación Previa el inculpado tendrá los siguientes derechos:
 
-I. LIBERTAD PERSONAL. A estar en libertad, salvo que hubiere sido detenido en delito flagrante, por caso urgente o se encuentre bajo arraigo. Si el inculpado es extranjero, a que se comunique su detención a la representación diplomática o consular que corresponda. La retención o detención de los hombres será en lugar separado al de las mujeres.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+I. LIBERTAD PERSONAL. A estar en libertad, salvo que hubiere sido detenido en delito flagrante, o caso urgente. Si el inculpado es extranjero, a que se comunique su detención a la representación diplomática o consular que corresponda. La retención o detención de los hombres será en lugar separado al de las mujeres.
 
 De igual manera tendrá derecho a la libertad provisional bajo caución en los supuestos y bajo las condiciones que esta Ley prevea.
 
@@ -1295,9 +1311,13 @@ Si la persona citada omitiere comparecer se hará del conocimiento de la persona
 
 CITACIÓN POR TELEFONO Y OTROS MEDIOS. Cuando lo estime necesario el Ministerio Público podrá hacer las citaciones por teléfono o por cualquier otro medio que permita la transmisión efectiva de la cita. En estos casos se levantará constancia en la que se hará constar el medio utilizado y la fecha y hora en que se hubiere realizado, sin que sea necesario emitir cedula alguna.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 98.
 
-ÓRDENES DE PRESENTACIÓN. Cuando se trate de delito flagrante o detención por caso urgente, cuando el inculpado se encuentre sujeto a arraigo o cuando la urgencia del caso así lo requiera; el ministerio público podrá ordenar la presentación de las personas que deban intervenir en las diligencias sin necesidad de girarles citatorio previo. Podrá también ordenar la presentación de las personas que habiendo sido previamente citadas en los términos de lo dispuesto por los artículos 93, 94, 95 y 96 de esta ley, hubieren omitido comparecer sin causa justificada, en la fecha y hora señalada para el efecto.
+ÓRDENES DE PRESENTACIÓN. Cuando se trate de delito flagrante, detención por caso urgente, o cuando la urgencia del caso así lo requiera; el Ministerio Público podrá ordenar la presentación de las personas que deban intervenir en las diligencias sin necesidad de girarles citatorio previo. Podrá también ordenar la presentación de las personas que habiendo sido previamente citadas en los términos de lo dispuesto por los artículos 93, 94, 95 y 96 de esta ley, hubieren omitido comparecer sin causa justificada, en la fecha y hora señalada para el efecto.
 
 En cualquier caso la emisión y ejecución de las órdenes de presentación se sujetarán a lo siguiente:
 
@@ -1427,7 +1447,11 @@ CÓMPUTO DE LOS PLAZOS. Los plazos empezarán a correr al día siguiente al que 
 
 Se exceptúan de lo anterior los plazos fijados en horas, los cuales se computarán de momento a momento y empezarán a correr desde que surta efectos la notificación.
 
-Los plazos para detener, retener o mantener en detención o bajo arraigo u orden de restricción al inculpado; siempre se computarán de momento a momento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Los plazos para detener, retener o mantener en detención u orden de restricción al inculpado; siempre se computarán de momento a momento.
 
 ###### ARTÍCULO 112.
 
@@ -2085,49 +2109,57 @@ III. IMPOSIBILIDAD DE ACUDIR AL JUEZ. Que, demostrado el cuerpo del delito, haya
 
 EJECUCIÓN DE LA ORDEN DE DETENCIÓN POR CASO URGENTE Y TIEMPO DE LA DETENCIÓN. La orden de detención por caso urgente la ejecutará la Policía Investigadora del Estado. La detención del indiciado podrá durar hasta cuarenta y ocho horas, desde que se efectúe. Dentro de ese plazo el Ministerio Público ordenará su libertad o lo pondrá a disposición del juzgador.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
 ### CAPÍTULO III.
 
 DEL ARRAIGO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 184.
 
-ARRAIGO DEL INDICIADO. Cuando se trate de delito grave y siempre que sea necesario para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga de la acción de la justicia, el Ministerio Público podrá pedir motivadamente al juzgador, que decrete el arraigo con vigilancia de la autoridad. La que ejercerán el Ministerio Público y la Policía Investigadora del Estado. La petición de arraigo se resolverá dentro de las tres horas siguientes.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2013)
 
-El arraigo se otorgará por el tiempo que el Ministerio Público estime indispensable para integrar la indagatoria; sin que pueda exceder de cuarenta días. En la solicitud se anunciarán las diligencias que se estime necesario practicar, pero tal enunciación no será vinculatoria para el Ministerio Público, por lo que podrá desahogar diligencias distintas u omitir las anunciadas.
-
-Más si el Ministerio Público ejercita acción penal contra el inculpado antes o dentro del plazo que se conceda para el arraigo, éste se prolongará hasta que el juzgador resuelva sobre la orden de aprehensión o comparecencia; y, además, por el tiempo indispensable para ejecutarla. En tales casos, el juzgador resolverá sobre la aprehensión o comparecencia a más tardar al día siguiente laborable de la consignación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 185.
 
-MODALIDADES DE ARRAIGO DEL INDICIADO. El arraigo podrá consistir en una o más de las modalidades siguientes:
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-1) Que el indiciado se sujete a la vigilancia de la Policía Investigadora del Estado y evite salir de la ciudad sin permiso del Ministerio Público. 2) Que se presente periódicamente a la oficina del Ministerio Público. En la petición de arraigo se precisará el lugar y la periodicidad. 3) Que el indiciado permanezca en su domicilio, con o sin traslado al lugar de trabajo, de educación o capacitación. A los mayores de setenta años de edad sólo se les podrá aplicar esta medida. 4) Que permanezca en habitación de hotel o en casa habilitada para el efecto por parte del Ministerio Público y a su costa. 6) Que se sujete a vigilancia por medio de brazalete o dispositivo electrónico de localización.
-
-El Ministerio Público precisará y motivará en la petición al Juez, las medidas de arraigo que estime conducentes.
-
-La modalidad del arraigo decretado y, en su caso, el lugar en que deba de cumplirse podrá ser modificada en cualquier momento por el Juez que lo haya ordenado, siempre que razonadamente se lo solicite el Ministerio Público.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO IV.
 
-DISPOSICIONES COMUNES PARA DETENIDOS, RETENIDOS Y ARRAIGADOS.
+DISPOSICIONES COMUNES PARA DETENIDOS Y RETENIDOS.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 186.
 
-ATENCIÓN MÉDICA. Cuando la persona retenida, detenida o arraigada esté enferma o lesionada y necesite atención hospitalaria, el Ministerio Público podrá autorizar el traslado de aquélla a un hospital público o privado. Para ello, recabará los informes médicos conducentes y tomará las medidas necesarias para evitar la fuga del inculpado. Si se tratare de arraigado, comunicará lo anterior sin demora al Juez que lo hubiere decretado para que modifique el lugar o la modalidad autorizada por el tiempo que dure la estancia hospitalaria.
+ATENCIÓN MÉDICA. Cuando la persona retenida o detenida esté enferma o lesionada y necesite atención hospitalaria, el Ministerio Público podrá autorizar el traslado de aquélla a un hospital público o privado. Para ello, recabará los informes médicos conducentes y tomará las medidas necesarias para evitar la fuga del inculpado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 187.
 
-ARRAIGO Y CUSTODIA EN HOSPITALES. Si la persona a quien se pretende arraigar se encuentra bajo atención médica en instituciones de salud, el Ministerio Público podrá solicitar al Juez que el arraigo se ejecute en dicho lugar en tanto dure su estancia; al término de la cual el arraigo se ejecutará en los términos de lo dispuesto por el artículo 185 de esta Ley.
+CUSTODIA EN HOSPITALES. Cuando el detenido fuere puesto a disposición del Ministerio Público en hospital o institución de salud, éstas serán consideradas como su lugar de reclusión por el tiempo que dure su estancia. Para el efecto el Ministerio Público ordenará las medidas necesarias para su debida custodia.
 
-Cuando el detenido fuere puesto a disposición del Ministerio Público en hospital o institución de salud, éstas serán consideradas como su lugar de reclusión por el tiempo que dure su estancia. Para el efecto el Ministerio Público ordenará las medidas necesarias para su debida custodia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 188.
 
-INTERVENCIÓN DEL DETENIDO, RETENIDO O ARRAIGADO EN INDAGATORIAS DISTINTAS A LA QUE MOTIVA SU CONDICION. El inculpado que se encuentre detenido, retenido o arraigado podrá actuar e intervenir en indagatorias distintas a aquella que motive dicha situación jurídica; pero será necesario que en las diligencias en que intervenga se haga constar dicha circunstancia.
+INTERVENCIÓN DEL DETENIDO O RETENIDO EN INDAGATORIAS DISTINTAS A LA QUE MOTIVA SU CONDICION. El inculpado que se encuentre detenido, o retenido podrá actuar e intervenir en indagatorias distintas a aquella que motive dicha situación jurídica; pero será necesario que en las diligencias en que intervenga se haga constar dicha circunstancia.
 
 ## TÍTULO SÉPTIMO.
 
@@ -2517,9 +2549,11 @@ ACUSACIÓN POR FALSO TESTIMONIO. En caso de que un testigo falte a la verdad, se
 
 Si es manifiesta la comisión del delito en el momento de la declaración del testigo, se le podrá detener desde luego.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 234.
 
-ARRAIGO DEL TESTIGO. Cuando algún testigo tenga que ausentarse del lugar donde se sigue la Averiguación Previa, el Ministerio Público procederá a tomarle declaración si fuere posible; de lo contrario se pedirá a la Autoridad Judicial arraigo para que el testigo permanezca por el tiempo indispensable para que comparezca a declarar.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2013)
 
 ### CAPÍTULO IX.
 
@@ -5313,7 +5347,11 @@ XII. Recabar los datos que sirvan para la identificación del imputado.
 
 XIII. Reunir toda la información de urgencia que pueda ser útil al Ministerio Público.
 
-XIV. Ejecutar las órdenes de aprehensión, reaprehensión, cateos, arraigos u otros mandamientos que emita la autoridad judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIV. Ejecutar las órdenes de aprehensión, reaprehensión, cateos u otros mandamientos que emita la autoridad judicial.
 
 XV. Realizar detenciones en los casos que autorice la Constitución General y dar aviso administrativo de inmediato al Centro Nacional de Información del Sistema nacional de Seguridad Pública, de la detención, a través del informe policial homologado.
 
@@ -7112,3 +7150,9 @@ El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo gener
 ###### ARTÍCULO QUINTO.
 
 A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO.- La presente reforma entrará en vigor dieciocho meses después, contados a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
