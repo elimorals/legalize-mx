@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2013-04-08"
+last_updated: "2013-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CÓDIGO CIVIL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2013.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -602,27 +602,23 @@ Dictada la resolución judicial definitiva que autorice la adopción, el Juez, d
 
 La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 81.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL D.O.F. DE 24 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR DEL ARTÍCULO CONSTABA DE DOS PÁRRAFOS.</small>
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 86.
 
-El acta de adopción simple contendrá los nombres, apellidos y domicilio del adoptante y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilio de las personas que intervengan como testigos. En el acta se insertarán los datos esenciales de la resolución judicial.
+En la adopción plena se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos, sin perjuicio de lo dispuesto en el artículo siguiente.
 
-En los casos de adopción plena, se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos, sin perjuicio de lo dispuesto en el segundo párrafo del artículo siguiente.
-
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 87.
 
-Extendida el acta de la adopción simple, se harán las anotaciones que correspondan al acta de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
-
-En el caso de adopción plena, a partir del levantamiento del acta a que se refiere el segundo párrafo del artículo anterior, se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio.
-
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+En la adopción plena, a partir del levantamiento del acta a que se refiere el artículo anterior se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio.
 
 ###### ARTICULO 88.
 
-El juez o tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Juez del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ### CAPITULO V. De las actas de tutela
 
@@ -962,11 +958,11 @@ Las autoridades judiciales que declaren la ausencia, la presunción de muerte, l
 
 El Juez del Registro Civil hará la anotación correspondiente en las actas de nacimiento y de matrimonio, en su caso, e insertará los datos esenciales de la resolución judicial que se le haya comunicado.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 133.
 
-Cuando se recobre la capacidad legal para administrar, se revoque la adopción simple o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
+Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -1020,37 +1016,31 @@ La aclaración de las actas del estado civil, procede cuando en el Registro exis
 
 ###### ARTICULO 139.
 
-La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 140.
 
-Sólo puede celebrar esponsales el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 141.
 
-Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 142.
 
-Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 143.
 
-El que sin causa grave, a juicio del juez, rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
-
-En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales.
-
-También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando por la duración del noviazgo, la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad del matrimonio u otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente.
-
-La indemnización será prudentemente fijada en cada caso por el juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 144.
 
-Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración del matrimonio.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 145.
 
-Si el matrimonio no se celebra, tienen derecho los prometidos de exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contado desde el rompimiento de los esponsales.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ### CAPITULO II. De los requisitos para contraer matrimonio
 
@@ -1134,11 +1124,9 @@ X.- El matrimonio subsistente con persona distinta de aquella con quien se prete
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
 ###### ARTICULO 157.
 
-Bajo el régimen de adopción simple, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 158.
 
@@ -1956,9 +1944,11 @@ Ejecutoriada una sentencia de divorcio, el juez de primera instancia remitirá c
 
 ### CAPITULO I. Del parentesco
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 292.
 
-La ley no reconoce más parentesco que los de consanguinidad, afinidad y el civil.
+La ley no reconoce más parentesco que los de consanguinidad y afinidad.
 
 ###### ARTICULO 293.
 
@@ -1972,11 +1962,9 @@ En el caso de la adopción plena, se equiparará al parentesco por consanguinida
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
 ###### ARTICULO 295.
 
-El parentesco civil es el que nace de la adopción simple y sólo existe entre adoptante y adoptado.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 296.
 
@@ -2550,19 +2538,15 @@ Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en e
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
 ###### ARTICULO 394.
 
-El menor o la persona con incapacidad que haya sido adoptado bajo la forma de adopción simple, podrá impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 395.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
-
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
-El adoptante dará nombre y sus apellidos al adoptado, salvo que por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente.
+El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos. El adoptante dará nombre y sus apellidos al adoptado.
 
 ###### ARTICULO 396.
 
@@ -7494,13 +7478,11 @@ ARTICULO 1,610.- Si sólo quedaren descendientes de ulterior grado, la herencia 
 
 ARTICULO 1,611.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 1,612.- El adoptado hereda como hijo, pero en la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+ARTICULO 1,612.- El adoptado hereda como hijo.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
-ARTICULO 1,613.- Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
+ARTICULO 1,613.- (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ARTICULO 1,614.- Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
@@ -7518,9 +7500,7 @@ ARTICULO 1,618.- Si hubiere ascendientes por ambas líneas, se dividirá la here
 
 ARTICULO 1,619.- Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
-ARTICULO 1,620.- Concurriendo los adoptantes con ascendientes del adoptado en forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+ARTICULO 1,620.- (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
 
 ARTICULO 1,621.- Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieren la adopción.
 
@@ -12949,3 +12929,15 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 8 DE ABRIL DE 2013.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 86, 87, 133, 292, 395 Y 1612 Y SE DEROGAN LOS ARTÍCULOS 88,157, 295, 394, 1613 Y 1620, DEL CÓDIGO CIVIL FEDERAL.
+
+ÚNICO.- El Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE DEROGAN LOS ARTÍCULOS 139, 140, 141, 142, 143, 144 Y 145 DEL CÓDIGO CIVIL FEDERAL.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
