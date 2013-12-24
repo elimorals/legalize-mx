@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2013-08-30"
+last_updated: "2013-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -45,11 +45,19 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
 La presente Ley tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado de Quintana Roo, conforme a los principios contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Corresponde al Poder Judicial del Estado de Quintana Roo, la atribución de impartir justicia, aplicar tratados internacionales vigentes en el país, leyes y normas de carácter general, en materia constitucional, civil, familiar, mercantil, administrativa, penal, de justicia para adolescentes y de justicia indígena, así como en los asuntos de carácter federal, cuando expresamente, las leyes, convenios y acuerdos, le confieran jurisdicción.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+También le corresponde proporcionar a los particulares, los mecanismos alternativos de solución a sus controversias jurídicas, por conducto del Centro de Justicia Alternativa, en los términos de la ley de Justicia Alternativa. Además tendrá la obligación de proporcionar los servicios de defensoría pública en términos de la Ley del Instituto de Defensoría Pública del Estado Quintana (sic) Roo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 2°.
 
-La administración e impartición de justicia en el Estado, es función exclusiva de los Tribunales, Juzgados y demás órganos auxiliares, que estarán a cargo de Magistrados y Jueces. Los Magistrados Numerarios, actuarán de manera colegiada o unitaria, gozarán de plena autonomía e independencia en sus determinaciones y ejercerán su función sin más sujeción que a las leyes, la equidad y los principios generales de Derecho.
+La impartición de justicia en el Estado es función exclusiva de los Tribunales, Juzgados y demás órganos auxiliares, que estarán a cargo de Magistrados y Jueces, los cuales podrán actuar de manera colegiada o unitaria, quienes gozarán de plena autonomía e independencia en sus determinaciones.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -699,11 +707,11 @@ XII.- De los demás que expresamente señalen la Constitución estatal y la ley.
 
 #### Sección Primera. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 54.
 
-En los Distritos Judiciales del Estado habrá los Juzgados de Primera Instancia, de Paz, los de Oralidad Mercantil, Civil y Familiar que acuerde el Pleno del Consejo de la Judicatura, atendiendo a las necesidades del servicio y a la capacidad presupuestal.
+En los Distritos Judiciales del Estado se establecerán los Juzgados de Primera Instancia y de Paz que acuerde el Pleno del Consejo de la Judicatura, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal. Con el mismo criterio, en el Sistema Penal Acusatorio el Consejo de la Judicatura, establecerá los jueces de control, jueces de despacho, tribunal unipersonal de juicio oral, jueces de los tribunales de juicio oral, jueces de ejecución de sentencia, en los términos de la legislación procesal.
 
 ###### Artículo 55.
 
@@ -819,9 +827,9 @@ XII.- Rendir con toda exactitud los informes que el Tribunal Superior de Justici
 
 XIII.- Rendir un informe mensual de sus labores al Pleno del Consejo de la Judicatura;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-XIV.- Dar cuenta al Pleno del Consejo de la Judicatura de las deficiencias e irregularidades que observen en la actuación de los defensores de oficio y de los Agentes del Ministerio Público de la adscripción;
+XIV.- Dar cuenta al Pleno del Consejo de la Judicatura o la Visitaduría Judicial de las deficiencias e irregularidades que observen en la actuación de los Defensores Públicos, Asistentes Jurídicos y en los casos de los Agentes del Ministerio Público de la adscripción al superior jerárquico;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -837,9 +845,9 @@ XVII.- Dar aviso al Consejo de la Judicatura y a la oficina que corresponda, de 
 
 XVIII.- Remitir por conducto del Secretario Ejecutivo de Administración del Consejo de la Judicatura, todos los expedientes, dentro de los noventa días siguientes a la fecha en que quedó concluido definitivamente el negocio, dejando para constancia, copia certificada de la sentencia y en su caso de la resolución que declara concluido el negocio.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-En el sistema acusatorio adversarial, los jueces actuarán sin asistencia de secretarios, tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, cuando tales actos consten en registros informáticos, de audio, video o se transcriban por escrito.
+En el sistema penal acusatorio, los jueces actuarán sin asistencia de secretarios, tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, cuando tales actos consten en registros informáticos, de audio, video o se transcriban por escrito.
 
 ###### Artículo 64.
 
@@ -941,25 +949,33 @@ VII.- En general, de todas las cuestiones familiares que reclamen la intervenci�
 
 En cualquiera de los casos antes mencionados, en los que presuntamente se deriven actos de violencia contra la mujer, los Jueces de Primera instancia en materia familiar, estarán facultados para otorgar las ordenes de protección de emergencia y preventivas; y conocerán de los trámites de las ordenes de protección de naturaleza civil previstas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, las cuales se sustanciarán conforme al Capítulo Noveno del Título Séptimo y al Título Vigésimo del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, siempre y cuando no sea procedente otro procedimiento judicial más breve para su trámite o se determine su resolución de plano conforme a este último ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 68.
 
-Los Jueces de Primera Instancia en materia penal, conocerán:
+Los Jueces de Primera Instancia en materia penal y del Sistema Penal Acusatorio, conocerán y resolverán:
 
 I.- De los procesos que por delitos del orden común se cometan en su jurisdicción territorial;
 
-II.- De los incidentes civiles promovidos en los juicios penales que ante ellos se tramiten; y (sic)
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+II.- De los procesos de jurisdicción concurrente en materia penal sobre los que se tenga competencia, y se cometan en su jurisdicción territorial;
 
-III.- Competencia por seguridad; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
+III.- De los incidentes civiles promovidos en los juicios penales que ante ellos se tramiten; y (sic)
 
-IV.- Los demás asuntos que le encomienden las leyes.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+IV.- Competencia por seguridad; y
 
-Cuando en los casos de las fracciones anteriores existan órdenes de protección de emergencia, preventivas o ambas, dictadas conforme a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintan Roo, los Jueces de Primera Instancia en materia penal deberán valorarlas de forma inmediata, en cuanto tengan conocimiento de los hechos, siempre y cuando sea procedente conforme a la propia naturaleza de la orden de protección, a fin de ratificarlas hasta por el tiempo que consideren necesario o, en su caso, desestimarlas decretando que cesen. Dichas órdenes de protección podrán ser dictadas por las autoridades jurisdiccionales, por el tiempo que estimen necesario, aun cuando no fueren decretadas con anterioridad por autoridad administrativa.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+V.- Los demás asuntos que le encomienden las leyes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Cuando en los casos de las fracciones anteriores existan órdenes de protección de emergencia, preventivas o ambas, dictadas conforme a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, los Jueces de Primera Instancia en materia penal y del Sistema Penal Acusatorio, deberán valorarlas de forma inmediata, en cuanto tengan conocimiento de los hechos, siempre y cuando sea procedente conforme a la propia naturaleza de la orden de protección, a fin de ratificarlas hasta por el tiempo que consideren necesario o, en su caso, desestimar decretando que cesen. Dichas órdenes de protección podrán ser dictadas por las autoridades jurisdiccionales, por el tiempo que estimen necesario, aun cuando no fueren decretadas con anterioridad por autoridad administrativa.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -967,9 +983,13 @@ Cuando en los casos de las fracciones anteriores existan órdenes de protección
 
 Los jueces de Ejecución de Sentencia tendrán la competencia, facultades y obligaciones que les confieren las leyes respectivas, y en especial:
 
-I.- Mantener, sustituir, modificar o hacer cesar la pena y las medidas de seguridad, así como las condiciones de su cumplimiento;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-II.- Decidir sobre la libertad anticipada y su revocación;
+I.- Mantener, sustituir, tramitar la conmutación, modificar o hacer cesar la pena y las medidas de seguridad, así como las condiciones de su cumplimiento, en los términos de la ley de la materia;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+II.- Decidir de conformidad con la ley de la materia, sobre la libertad anticipada y su revocación;
 
 III.- Resolver sobre la reducción de penas;
 
@@ -987,7 +1007,53 @@ IX.- Resolver, con aplicación del procedimiento previsto para los incidentes de
 
 X.- Resolver, por vía de incidente, los reclamos que formulen los internos sobre sanciones disciplinarias; y
 
-XI.- Las demás que les otorgue la ley.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XI.- Ordenar el cumplimiento de las sanciones distintas a la privativa de libertad;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XII.- Ordenar el cumplimiento de las sanciones que, por sentencia judicial sustituyan a la pena de prisión o a la multa o concedan la condena condicional;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIII.- Ordenar el cumplimiento de las medidas impuestas a inimputables;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIV.- Vigilar la medida de seguridad, la custodia del interno que padezca enfermedad mental de tipo crónico, continuo o irreversible a cargo de una institución del sector salud, representante legal o tutor, para que se le brinde atención, trato y tratamiento de tipo asilar;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XV.- Sustanciar el procedimiento para el cumplimiento de la reparación del daño;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XVI.- Garantizar a los sentenciados su defensa en el procedimiento de ejecución;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XVII.- Revocar los beneficios otorgados cuando ocurra algún supuesto contenido en la ley;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XVIII.- Aplicar la ley más favorable a los sentenciados;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIX.- Conocer y resolver sobre las solicitudes de beneficios preliberacionales que supongan una modificación en las condiciones de cumplimiento de la condena;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XX.- Declarar la extinción de las sanciones;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXI.- Imponer las medidas de apremio que procedan para hacer cumplir sus determinaciones; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXII.- Las demás que les otorgue la ley.
 
 Los Jueces de Control, de Juicio Oral y los de Ejecución de Sentencia, tendrán la posibilidad de extender su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Consejo de la Judicatura dicte, en los términos de las facultades otorgadas al Pleno en la presente Ley.
 
@@ -1005,37 +1071,203 @@ El Consejo de la Judicatura establecerá por acuerdo la competencia de los Juzga
 
 Bis.- Los Jueces de Control tendrán las siguientes atribuciones:
 
-I.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven, restrinjan o perturben los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y los convenios y tratados internacionales vigentes en el país;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-II.- Dirigir las audiencias judiciales de la fase de investigación y resolver los incidentes que se promuevan en ellas;
+I.- Intervenir en los asuntos que requieran control judicial, conforme a lo dispuesto en el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
-III.- Decidir sobre la libertad o prisión preventiva y demás medidas cautelares de los imputados;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-IV.- Conocer de las impugnaciones que se hagan en contra de los criterios de oportunidad que aplique el Ministerio Público;
+II.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven, restrinjan o perturben los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y los convenios y tratados internacionales vigentes en el país; así como las demás leyes aplicables;
 
-V.- Resolver sobre la vinculación a proceso de los imputados;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-VI.- Procurar la solución del conflicto a través de medios alternos, conforme a lo dispuesto en la ley;
+III.- Dirigir las audiencias judiciales de la fase de investigación y resolver los incidentes que se promuevan en ellas;
 
-VII.- Conocer y resolver del procedimiento abreviado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-VIII.- Resolver del recurso de revocación; y
+IV.- Decidir sobre la libertad o prisión preventiva y demás medidas cautelares de los imputados;
 
-IX.- Las demás que les otorgue la ley.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+V.- Conocer de las impugnaciones que se hagan en contra de los criterios de oportunidad que aplique el Ministerio Público;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VI.- Resolver sobre la vinculación a proceso de los imputados;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VII.- Procurar la solución del conflicto a través de medios alternos, conforme a lo dispuesto en la ley;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VIII.- Conocer y resolver del procedimiento abreviado;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+IX.- Resolver del recurso de revocación;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+X.- Dirigir la audiencia intermedia;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XI.- Resolver de manera inmediata y por cualquier medio sobre la aplicación, modificación, sustitución o cancelación de las medidas cautelares de carácter real o personal que le sean solicitados por quien este legitimado para ello, garantizando los derechos de las partes;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XII.- Presidir la audiencia de vinculación a proceso, la intermedia y emitir las decisiones que en ella correspondan, así como celebrar cualquier otra audiencia que legalmente le sea solicitada y asumir las decisiones atinentes al caso;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIII.- Sustanciar y resolver los medios de impugnación que conforme a la legislación procesal deban conocer;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIV.- Acordar, sustanciar y decidir las solicitudes de suspensión condicional del proceso;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XV.- Ordenar la aprehensión, comparecencia o presentación del imputado cuando proceda denuncia, acusación o querella de un hecho que la ley señale como delito sancionado con pena privativa de libertad y obre datos que establezcan que se ha cometido ese hecho y que existe la probabilidad de que el imputado lo cometió o participó en su comisión;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XVI.- Calificar y en su caso aprobar los acuerdos asumidos en Justicia Alternativa para cuya validez sean necesarias estas determinaciones, cuando la ley de la materia así lo establezca;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XVII.- Validar las resoluciones asumidas en Justicia Alternativa emitidas conforme al sistema normativo de pueblo o comunidades indígenas;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XVIII.- Instruir, sustanciar y resolver el procedimiento abreviado y, en su caso, el simplificado;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIX.- Calificar los casos de flagrancia;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XX.- Vigilar que se respeten los derechos constitucionales del imputado y de la víctima u ofendido;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXI.- Resolver en audiencia pública lo conducente relativo a la impugnación que la víctima u el ofendido realicen ante las determinaciones del Ministerio Público, y, en su caso, del Procurador General de Justicia al resolver acerca de la abstención de investigar, archivo temporal, no ejercicio de la acción penal o en su caso, sobre criterios de oportunidad;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXII.- Autorizar las técnicas de investigación que requieren autorización judicial, entre otras: las de exhumación de cadáveres, órdenes de cateo, la de toma de muestras de fluidos corporales, intervención de comunicaciones y de las demás que procedan conforme a la ley;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXIII.- Las demás que les otorgue la ley.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+El Juez que intervenga en una audiencia de control de detención o de formulación de imputación, será el mismo que conozca de la audiencia de vinculación.
+
+Son facultades del Juez de Despacho:
+
+a.- Atender la correspondencia del Juzgado de Control;
+
+b.- Resolver las solicitudes del Ministerio Público;
+
+c.- Conocer y resolver sobre las solicitudes que presentes (sic) las partes;
+
+d.- Proveer lo conducente en los Juicios de Amparo;
+
+e.- Los demás asuntos de trámite.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 70
 
-Ter.- Los jueces del Tribunal de Juicio Oral tendrán las siguientes atribuciones:
+Ter.- Los jueces del Tribunal de Juicio Oral Unipersonal o Colegiado, tendrán las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
 
 I.- Conocer las causas penales en Juicio Oral;
 
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
 II.- Resolver todas las cuestiones que se presenten durante el Juicio;
 
-III.- Dictar sentencia con base en las pruebas presentadas durante la audiencia de Juicio; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-IV.- Las demás que les otorgue la ley.
+III.- Dictar sentencia con base en las pruebas presentadas, desahogadas e incorporadas durante la audiencia de Juicio;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+IV.- Citar oportunamente a las partes intervinientes a la audiencia de juicio oral;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+V.- En su caso, verificar la presencia de las partes, de los testigos, peritos o intérpretes que deban participar en el debate;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VI.- Declarar abierta la audiencia de juicio oral advirtiendo al imputado y a las partes sobre la importancia del significado de lo que en ella va a ocurrir;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VII.- Abrir y presidir el debate en todo su desarrollo y en su caso decretar los recesos que correspondan;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+VIII.- Decretar los aplazamientos diarios de la audiencia de juicio oral indicando la hora en que continuara el debate;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+IX.- Emitir de manera verbal, fundada y motivada las decisiones indispensables para el correcto desahogo de la audiencia de debate;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+X.- Dirigir el debate y ordenar las lecturas pertinentes, hacer las advertencias que correspondan, exigir las ratificaciones y moderar la discusión en audiencia de juicio oral;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XI.- Ordenar la suspensión de la audiencia de juicio oral cuando las circunstancias así lo justifiquen;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XII.- Ordenar la detención del imputado y levantar el acta respectiva en los casos en que durante la audiencia de juicio oral se cometa algún delito;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIII.- Impedir intervenciones y derivaciones impertinentes que no conduzcan al esclarecimiento de la verdad en el desahogo de la audiencia de juicio oral;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIV.- Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir que se guarde respeto y consideraciones debidas a él y a los demás intervinientes de la audiencia, corrigiendo en el acto las faltas que se cometieren;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XV.- Aplicar los medios de apremio autorizados por la ley;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XVI.- En su caso, integrar el tribunal de juicio oral, asumiendo las funciones para las que fue seleccionado;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XVII.- Presenciar el desahogo de la audiencia del juicio oral desde el momento en que se declare legalmente instalado el tribunal, hasta que se declare cerrado el debate y se proceda a la fase de deliberación;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XVIII.- Intervenir en las deliberaciones para determinar si se considera o no probada la culpabilidad del acusado y en su caso, la determinación de la sanción aplicable;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XIX.- Tratándose de Tribunal Colegiado emitir su voto respecto al sentido de la sentencia, la naturaleza y magnitud de la punición;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XX.- Estar presentes en la audiencia en la que se dará a conocer la sentencia dictada; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+XXI.- Las demás que les otorgue la ley.
 
 #### Sección Cuarta. De los Juzgados de Paz
 
@@ -1065,7 +1297,57 @@ VI.- De los demás asuntos que le encomienden las leyes.
 
 Los Jueces de Paz tendrán competencia para conocer de los asuntos de jurisdicción voluntaria, salvo que en su jurisdicción exista un Juez de Primera Instancia, en cuyo caso será competencia de éste.
 
-#### Sección Primera. De la Oficialía Mayor
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+#### Sección Quinta
+
+De la Justicia Para Adolescentes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 73
+
+Bis.- El Sistema Integral de Justicia para Adolescentes, es el conjunto de órganos jurisdiccionales y procedimientos que garantizan el proceso especializado para adolescentes y, la ejecución de las medidas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales aplicables, la Constitución Política del Estado Libre y Soberano de Quintana Roo y la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Quintana Roo, a efecto de maximizar los derechos de los adolescentes y de minimizar los efectos negativos de la aplicación del Sistema Integral de Justicia para Adolescentes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 73
+
+Ter.- El Tribunal Superior de Justicia y el Consejo de la Judicatura en el ámbito de sus competencias, constituirán los Tribunales y Juzgados que requiera el Sistema Integral de Justicia para Adolescentes y proveerán lo necesario para su adecuado funcionamiento; igualmente, emitirán los criterios de organización, formación especializada y los procedimientos de ingreso de sus operadores.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 73
+
+Quater.- El Sistema Integral de Justicia para Adolescentes se deposita en:
+
+I.- El Tribunal Superior de Justicia;
+
+II.- El Consejo de la Judicatura;
+
+III.- Los Tribunales Unitarios para Adolescentes;
+
+IV.- Los Juzgados para Adolescentes; y
+
+V.- Los Juzgados de Ejecución de Medidas para Adolescentes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 73 Quinquies.
+
+Los Tribunales Unitarios para Adolescentes, los Juzgados para Adolescentes, y los Juzgados de Ejecución de Medidas para Adolescentes tendrán la residencia, jurisdicción y competencia que se les asigne de conformidad con lo previsto en ésta Ley y la Ley de Justicia para Adolescentes del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 73
+
+Sexties.- Los órganos jurisdiccionales para adolescentes y el personal que lo integran, tendrán las facultades y obligaciones que los demás miembros del Poder Judicial, salvo en aquello que no sea compatible con los fines del Sistema Integral de Justicia para Adolescentes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 73
+
+Sépties.- El Magistrado Unitario para Adolescentes cuenta con las facultades y obligaciones previstas por el artículo 33 fracciones III, IV, V y VI de la presente Ley.
 
 ### CAPITULO IV. DE LA DIVISION TERRITORIAL
 
@@ -1731,7 +2013,9 @@ La vista o examen de libros, documentos o expedientes del archivo serán autoriz
 
 Por ningún motivo los empleados del archivo podrán extraer documentos o expedientes. La infracción de esta disposición ameritará sanción administrativa, sin perjuicio de la denuncia penal correspondiente.
 
-Los jueces que no remitan los expedientes que deben ser depositados en el Archivo Judicial serán sancionados por el Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+Los jueces del sistema tradicional o el administrador del Sistema Penal Acusatorio que no remitan los expedientes o en su caso las constancias digitales del proceso acusatorio y oral que deben ser depositados en el Archivo Judicial serán sancionados por el Consejo de la Judicatura.
 
 Cualquier defecto o irregularidad que advierta el Director del Archivo Judicial en los expedientes y documentos que se le remitan para su depósito, lo comunicará inmediatamente al Presidente del Tribunal Superior de Justicia.
 
@@ -1763,17 +2047,29 @@ V.- Llevar la estadística de asistencia de usuarios; y
 
 VI.- Distribuir las labores entre él y su personal para un mejor funcionamiento.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 102.
 
-El Centro de Justicia Alternativa, es un .organismo desconcentrado del Poder Judicial, y tendrá a su cargo los servicios de mediación, conciliación o arbitraje, los que serán proporcionados de acuerdo a la ley, a quienes lo requieran.
+El Centro de Justicia Alternativa, es un organismo desconcentrado del Poder Judicial, con funciones no jurisdiccionales dado su carácter como rector en materia de medios alternativos de justicia.
 
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+El objeto del Centro, es establecer medios alternativos a la justicia ordinaria a fin de que los particulares resuelvan sus controversias de carácter jurídico, privado o simplemente de interrelación personal mediante un procedimiento ágil y sencillo bajo el principio de voluntariedad llamado procedimiento alternativo de conciliación, mediación, amigable composición, negociación y justicia restaurativa como métodos alternativos de solución de conflictos.
+
+La Justicia Alternativa, constituye en sí mismo una vía distinta e independiente de la vía jurisdiccional ordinaria y al fuero de los jueces y magistrados del orden común, jurisdicción que siempre estará expedita en los términos y condiciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y las leyes ordinarias que las reglamentan, según la voluntad optativa del ciudadano.
+
+El Centro de Justicia Alternativa, tendrá a su cargo los procedimientos de mediación, conciliación y negociación, amigable composición y justicia restaurativa, respecto de las controversias jurídicas en materias civil, familiar, mercantil, penal y especializada en adolescentes que le planteen los particulares, le remita el órgano jurisdiccional, conforme a lo que disponga la Ley de la materia.
+
+El Centro contará con autonomía técnica y estará vinculado administrativamente al Consejo de la Judicatura del Estado.
+
+La organización y funcionamiento del Centro de Justicia Alternativa, se regulará por lo que disponga la presente Ley, la ley de la materia, su reglamento interior, el manual procedimental y lo que establezca el Pleno del Consejo de la Judicatura del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 102
 
-Bis.- El Instituto de Defensoría Pública, es un órgano del Poder Judicial, con personalidad jurídica propia e independencia técnica y operativo en el desempeño de sus funciones y tendrá a su cargo la asistencia técnico-legal y los servicios de defensoría de oficio y asistencia jurídica, los que serán proporcionados de acuerdo a la ley, a quienes lo requieran.
+Bis.- El Instituto de Defensoría Pública, es un órgano del Poder Judicial, con independencia técnica y operativa en el desempeño de sus funciones y tendrá a su cargo la asistencia técnico-legal y los servicios de defensoría pública y asistencia jurídica, los que serán proporcionados a quienes lo requieran de acuerdo a la Ley del Instituto de Defensoría Pública del Estado de Quintana Roo y a las disposiciones que emita el Consejo de la Judicatura, exceptuando las gestiones tendientes a la reparación del daño dispuestas en la Legislación correspondiente de atención a víctimas del Estado de Quintana Roo.
+
+El servicio de Defensoría Pública será gratuito, se prestará bajo los principios de probidad, honradez, profesionalismo, calidad y de manera obligatoria en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -2064,6 +2360,26 @@ III.- El Presidente del Tribunal Superior de Justicia solicitará toda la inform
 IV.- El Presidente del Tribunal Superior de Justicia, remitirá la información anterior al Congreso del Estado, a fin de que éste inicie el procedimiento de evaluación, pudiéndose allegar de otros elementos que estime necesarios para ello; y
 
 V.- El Congreso del Estado, durante la substanciación del procedimiento de evaluación, deberá garantizar al Magistrado su derecho de audiencia, respecto de los nuevos elementos que en su caso se hayan allegado al expediente, para que manifieste lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 114
+
+Bis.- Los jueces designados durarán en su encargo seis años, pero podrán ser ratificados por períodos de igual duración; por lo consiguiente, los que estén próximos al término del mismo, deberán solicitar su ratificación, por lo menos con treinta días de anticipación a la fecha de conclusión de su encargo, ante el Consejo de la Judicatura del Poder Judicial del Estado. Dentro de los diez días siguientes a dicha solicitud, el Consejo de la Judicatura integrará el expediente del juez que concluye el periodo, a fin de que se pueda evaluar su desempeño para ratificación, debiendo tener en consideración los siguientes elementos:
+
+I.- El número total de asuntos que fueron turnados a su adscripción;
+
+II.- El número de sentencias citadas y dictadas durante su periodo;
+
+III.- El número de promociones ingresadas a su juzgado en el periodo inmediato a su solicitud y cuántas fueron debidamente acordadas,
+
+IV.- El número de quejas administrativas en su contra, así como el avance y resultado de las mismas;
+
+V.- La documentación que acredite la impartición de cursos, conferencias, seminarios por parte del juez, tendientes a mejorar la impartición de justicia y dirigidos hacia la sociedad; y
+
+VI.- Las constancias que demuestren la preparación y actualización de sus conocimientos durante el desempeño de su cargo.
+
+Durante la substanciación del procedimiento de evaluación, se deberá garantizar al juez su derecho de audiencia, respecto de los elementos que en su caso se hayan allegado al expediente, para que manifieste lo que a su derecho convenga.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -2521,23 +2837,37 @@ VIII.- Tratar con descortesía a los litigantes, abogados patronos y al público
 
 IX.- Negarse a realizar las notificaciones que procedan dentro del término de ley, o cuando las partes concurran al juzgado.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 125
 
-Octies.- Son causas de responsabilidad de los mediadores y conciliadores, las siguientes:
+Octies.- Son causas de responsabilidad del personal especializado del Centro de Justicia Alternativa, las siguientes:
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 I.- Revelar los informes, datos, comentarios, opiniones, conversaciones y acuerdos de las partes de que tengan conocimiento con motivo del trámite de mediación o conciliación en el que intervengan;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 II.- Violar los principios de imparcialidad, neutralidad, confidencialidad y respeto a las partes en los asuntos en los que intervengan;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 III.- Tratar con descortesía a los litigantes, abogados patronos y al público;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 IV.- No concurrir en las horas reglamentarias al desempeño de sus labores y no asistir puntualmente a la celebración de ceremonias o actos oficiales del Poder Judicial o cursos de capacitación, congresos, conferencias o reuniones de trabajo;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 V.- Incumplir las instrucciones de sus superiores jerárquicos relacionadas con las funciones del Centro de Mediación y Conciliación;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 VI.- Incumplir con las obligaciones inherentes a su cargo.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 VII.- Las demás que determine la Ley.
 
@@ -3066,3 +3396,9 @@ Cuando de forma extraordinaria a lo previsto en el calendario antes citado, el C
 CUARTO.- El título Vigésimo Tercero denominado "De la Administración de Gestión Judicial" del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, únicamente aplicará para los juzgados que el Consejo de la Judicatura determine mediante acuerdo.
 
 QUINTO.- El Consejo de la Judicatura del Estado debe realizar las adecuaciones necesarias en el Reglamento de la Visitaduría Judicial del Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo.
+
+P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
