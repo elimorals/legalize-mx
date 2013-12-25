@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4654
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-15"
-last_updated: "2013-10-23"
+last_updated: "2013-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 15 de octubre de 2005.
 
@@ -713,7 +713,9 @@ El Instituto tendrá un Consejo General que será su órgano supremo y estará i
 
 Cada uno de los consejeros será designado por el Congreso del Estado mediante el voto de cuando menos las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Parlamentaria.
 
-Los Consejeros Propietarios designarán a su presidente de entre sus miembros, el cual durará en su encargo un período de dos años, pudiendo ser reelecto por un período igual.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+Los Consejeros Propietarios designarán a su Presidente de entre sus miembros, el cual durará en su encargo un período de tres años, pudiendo ser reelecto por un período igual. El período de la elección o, en su caso, de la reelección, serán por un lapso menor, solo cuando con alguno de dichos períodos se rebase el tiempo por el que fue designado como Consejero quien deba ocupar la Presidencia.
 
 El Congreso del Estado, al momento de la designación de los Consejeros Suplentes, fijará su orden de prelación para efectos de las ausencias definitivas o temporales de los propietarios.
 
@@ -1506,3 +1508,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los sujetos obligados contarán con un año para cumplir con las disposiciones del presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por única ocasión, el actual Consejero Presidente podrá aspirar a ser reelecto bajo el nuevo esquema normativo previsto en el presente Decreto.
