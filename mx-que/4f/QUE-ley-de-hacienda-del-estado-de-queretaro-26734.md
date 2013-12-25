@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2012-12-18"
+last_updated: "2013-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -758,6 +758,12 @@ Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctrico
 ###### Artículo 25-L.
 
 Para los efectos de lo dispuesto en los artículos 25-C, 25-F, 25-H y 25-J de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 38 del Código Fiscal del Estado de Querétaro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría de Planeación y Finanzas, realizará las operaciones aritméticas previstas en este artículo y publicará el factor de actualización, así como las cantidades actualizadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2603,6 +2609,12 @@ I. A la consulta electrónica del Sistema de Gestión Catastral, 25 VSMGZ, al a�
 
 II. A la consulta de cartografía digital, 25 VSMGZ, por año, por cada usuario autorizado por la Dirección de Catastro.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+Se exceptúa del pago de los derechos previstos en el presente artículo, el acceso remoto para consulta del Sistema de Gestión Catastral y de cartografía digital, que se autorice a las Coordinaciones de Enlace Catastral de los municipios, siempre que se trate de las primeras dos autorizaciones que se otorguen. Las autorizaciones que excedan de las señaladas en este párrafo, causarán y pagarán los derechos en los términos de las fracciones I y II de este artículo, según corresponda.
+
 ###### Artículo 92.
 
 Por la elaboración de avalúos individuales para efectos fiscales o catastrales realizados a solicitud del interesado con un valor del inmueble de:
@@ -2709,7 +2721,17 @@ I. Por la notificación de registro catastral solicitada por los contribuyentes 
 
 II. Por la expedición de informe de registro de inmueble en el Padrón Catastral, 6 VSMGZ.
 
-III. Por la expedición de constancias de información contenida en el Sistema de Gestión Catastral, 6 VSMGZ.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+III. Por la expedición del oficio que contenga la información de un predio inscrito en el Sistema de Gestión Catastral, 6 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+No estarán obligadas al pago de este derecho las autoridades federales, estatales o municipales, siempre que soliciten la prestación del servicio en ejercicio de sus funciones de derecho público.
 
 IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, 5 VSMGZ y por cada foja excedente, el 0.10 VSMGZ.
 
@@ -2751,7 +2773,19 @@ XIX. Por la emisión de dictamen técnico que incluya trabajos de brigada de top
 
 XX. Por el empadronamiento de los avisos de traslado de dominio, 3 VSMGZ.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+Para efectos de esta fracción, se entenderá por empadronamiento del aviso de traslado de dominio, aquel que se realice con motivo del primer registro de un inmueble en el Padrón Catastral, así como del primer cambio de propietario que recaiga sobre un predio que se derive de un fraccionamiento o condominio.
+
 XXI. Por la expedición del informe de valor referido de inmueble, a petición del interesado, 3 VSMGZ, por predio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+Se exceptúa del pago de los derechos a que se refiere esta fracción, cuando los servicios respectivos sean solicitados por las autoridades federales, estatales o municipales.
 
 ###### Artículo 96.
 
@@ -3347,53 +3381,17 @@ DEPORTIVOS NO PROFESIONALES CON
 
 LUZ ARTIFICIAL 33 POR HORA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+VII. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2013)
 
-VII. Unidad Deportiva José María Truchuelo:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-CONCEPTO CON LUZ CON LUZ
+VIII. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2013)
 
-NATURAL ARTIFICIAL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VSMGZ
-
-CANCHA FRONTÓN DE DÍA USO 1 2
-
-CANCHA DE FÚTBOL SIETE POR 4 6
-
-CANCHA DE SQUASH HORA 1 2
-
-CANCHA DE VOLEIBOL DE
-
-PLAYA 1.5 3
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-VIII. Unidad Deportiva El Sol:
-
-INSTALACIÓN CON LUZ CON LUZ
-
-NATURAL ARTIFICIAL
-
-VSMGZ
-
-CANCHA DE FRONTÓN USO 1 2
-
-CANCHA DE FÚTBOL SIETE POR 4 6
-
-CANCHA DE SQUASH HORA 1 2
-
-CANCHA DE TENIS 1.6 2
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
-
-IX. Parque Recreativo Alcanfores Norte y Sur, por uso de instalaciones para fiestas infantiles, por hora, 1.69 VSMGZ.
+IX. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3595,6 +3593,12 @@ por cada hoja
 
 subsecuente
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+No pagarán los derechos a que se refiere este artículo las personas físicas que mediante credencial vigente acrediten ser estudiantes de una institución educativa y soliciten la prestación de los servicios correspondientes con fines académicos.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
@@ -3773,121 +3777,11 @@ Por la expedición de nombramiento de Notario. 90
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
-
-Artículo 124 ter.- Por los servicios prestados por la Dirección de Transporte se causarán y pagarán los siguientes derechos, de conformidad con las siguientes cuotas:
-
-I. Por los servicios prestados en materia de concesiones de transporte público:
-
-CONCEPTO VSMGZ
-
-Por el estudio y, en su caso, trámite de la solicitud de concesión de servicio público o especial de transporte en cualquiera de sus modalidades o por su regularización. 1
-
-Por el refrendo anual de una concesión de servicio público de transporte en la modalidad de servicio colectivo. 60
-
-Por el refrendo anual de una concesión de servicio público de transporte en la modalidad de taxi, mixto, salvamento y arrastre; así como de servicio especial de transporte en cualquiera de sus modalidades. 40
-
-Por el refrendo anual de una concesión de servicio público auxiliar de depósito y guarda de vehículos. 100
-
-Por el refrendo anual extemporáneo de una concesión de servicio público de transporte en la modalidad de servicio colectivo. 88
-
-Por el refrendo anual extemporáneo de una concesión de servicio público de transporte en la modalidad de taxi, mixto, salvamento y arrastre; así como de servicio especial de transporte en cualquiera de sus modalidades. 60
-
-Por el refrendo anual extemporáneo de una concesión de servicio público de depósito y guarda de vehículos. 120
-
-Por la expedición del título de concesión de servicio público de transporte en la modalidad de servicio colectivo. 184
-
-Por la expedición del título de concesión de servicio público de transporte en la modalidad de taxi, mixto, salvamento y arrastre, depósito y guarda de vehículos; así como de servicio especial de transporte en cualquiera de sus modalidades. 120
-
-Por la expedición de un nuevo título de concesión de servicio público o especial de transporte en cualquiera de sus modalidades, con motivo del cambio de titular por la incapacidad física o mental, declaración de ausencia o fallecimiento del concesionario. 90
-
-Por la consolidación de una concesión de servicio público de transporte en cualquiera de sus modalidades, a solicitud de parte interesada. 90
-
-Por la reposición de un título de concesión de servicio público o especial de transporte en cualquiera de sus modalidades. 30
-
-II. Por la revisión física y mecánica de los vehículos destinados al servicio público o especial de transporte en cualquiera de sus modalidades, tanto para el refrendo anual de una concesión, como para el alta o baja de vehículos concesionados o con permiso:
-
-MODALIDAD ZONA
-
-1 2
-
-VSMGZ
-
-Colectivo 30 20
-
-Taxi, mixto, salvamento y 22 15
-
-arrastre, escolar, de personal,
-
-turístico, para personas con
-
-discapacidad y de carga.
-
-Para efectos de este artículo, la zona 1 comprende los municipios de Amealco de Bonfil, Corregidora, El Marqués, Huimilpan, Pedro Escobedo, Querétaro, San Juan del Río y Tequisquiapan; la zona 2 comprende los municipios de Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San Joaquín y Tolimán.
-
-III. Por la revisión de las instalaciones para prestar el servicio de depósito y guarda de vehículos, 22 VSMGZ.
-
-IV. Por la tramitación y en su caso, expedición de autorización para instalar publicidad en vehículos de transporte público, con vigencia de hasta un año, por cada mes de la vigencia solicitada:
-
-TIPO DE PUBLICIDAD VSMGZ
-
-Lateral autobús. 5
-
-Posterior autobús. 5
-
-Integral autobús. 10
-
-Taxi. 5
-
-Lateral interiores. 5
-
-Posterior interiores autobús. 10
-
-Integral en interior autobús. 10
-
-Otros medios electrónicos para
-
-transmitir publicidad al usuario. 5
-
-V. Por la tramitación, estudio de campo y diagnóstico de factibilidad para autorización de modificación de ruta de transporte público colectivo, 50 VSMGZ.
-
-VI. Por la modificación de ruta de transporte público colectivo, 10 VSMGZ.
-
-VII. Por la tramitación y expedición de un permiso temporal de hasta por 6 meses, de un servicio de transporte público o especial de transporte en cualquiera de sus modalidades, cuando exista una necesidad de servicio inmediata o emergente, 30 VSMGZ. En caso de que la vigencia del citado permiso sea menor a 30 días, 5 VSMGZ.
-
-VIII. Por la expedición de la identificación de conductor de vehículo de servicio público o especial de transporte en cualquiera de sus modalidades, 1 VSMGZ.
+Artículo 124 ter.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
-
-Artículo 124 quáter.- Por los servicios relativos en materia del Registro Público de Transporte, se causarán y pagarán derechos, de conformidad con las siguientes cuotas:
-
-CONCEPTO VSMGZ
-
-Por la inscripción del concesionario de servicio público o especial de transporte, en cualquiera de sus modalidades, así como por la modificación de sus datos en dicho registro. 1
-
-Inscripción de título de concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
-
-Expedición de constancia de concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 5
-
-Inscripción de resolución administrativa de otorgamiento de una ruta e itinerario de un servicio público colectivo de transporte. 5
-
-Inscripción de la transmisión de concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
-
-Inscripción de prórroga de una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 5
-
-Inscripción de sentencia judicial o administrativa en las que se ordene la modificación, cancelación o rectificación de una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
-
-Inscripción de conductor de vehículo destinado al servicio público o especial de transporte, en cualquiera de sus modalidades. 1
-
-Inscripción de alta o baja de vehículo amparado por una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
-
-Inscripción de refrendo autorizado de una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
-
-Inscripción de la designación de beneficiarios por persona física titular de una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 1
-
-Inscripción de la resolución administrativa que determine la reasignación y, en su caso, la consolidación de una concesión de servicio público o especial de transporte, en cualquiera de sus modalidades. 5
+Artículo 124 quáter.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3904,6 +3798,12 @@ b) Por la segunda visita de inspección, 20 VSMGZ.
 c) Por la tercera visita de inspección y por cada visita subsecuente, 40 VSMGZ.
 
 II. Por los cursos de capacitación en materia de protección civil para grupos de entre 10 y 50 personas, 5 VSMGZ, por participante;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+No estarán obligados al pago de los derechos a que se refiere esta fracción los grupos voluntarios constituidos de conformidad con las disposiciones aplicables en materia de protección civil, con los que el Poder Ejecutivo del Estado de Querétaro celebre convenios, a través de los cuales, dichos grupos se obliguen a colaborar con las autoridades competentes en la atención de emergencias y contingencias.
 
 III. Por la expedición de registro como persona física o moral acreditada en protección civil y su renovación:
 
@@ -3951,7 +3851,11 @@ personas
 
 en adelante
 
-V. Por la emisión de análisis de riesgos basados en los fenómenos perturbadores, 5 VSMGZ.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+V. Por la emisión de dictámenes técnicos sobre riesgos por fenómenos perturbadores, se causarán y pagarán 5 VSMGZ.
 
 Para los efectos de este artículo, las zonas a que el mismo se refiere, comprenderán los municipios que a continuación se indican:
 
@@ -4273,29 +4177,35 @@ Para el caso de no cubrir el pago de los derechos correspondientes en el plazo s
 
 Por los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana, se causarán y pagarán los siguientes derechos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
-I. Por el trámite, y en su caso, expedición de:
+I. Por el trámite y en su caso, expedición de:
 
-Concepto Servicio Servicio
+CONCEPTO SERVICIO SERVICIO
 
-Público particular
+PUBLICO PARTICULAR
 
-VSMGZ
+VSMGZ VSMGZ
 
-Permiso para conducir No aplica 2
+Permiso de conducir para menor de edad. No aplica 2
+
+Reposición de permiso de
+
+conducir para menor de edad. No aplica 1
 
 Licencia para conducir 3 7.5
 
-Reposición de licencia o
+Reposición de licencia para
 
-permiso para conducir 4 4
+conducir, excepto motocicleta. 1.5 4
 
-Licencia para conducir
+Licencia para conducir motocicleta. No aplica 2
 
-motocicleta No aplica 2
+Reposición de licencia para
+
+conducir motocicleta. No aplica 1
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
@@ -4319,9 +4229,7 @@ Usado 2 2 No aplica
 
 III. Por el trámite y, en su caso, expedición de constancias de antecedentes de licencias de manejo, de no accidentes o de no infracción, cualquiera de ellas con vigencia de 30 días, se causará y pagará 1 VSMGZ; y
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
-
-IV. Por el trámite y, en su caso, expedición de tarjetón de identificación para las personas con discapacidad se causará y pagará 1 VSMGZ
+IV. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2013)
 
 No causará derechos la expedición de permiso de traslado de vehículos que no serán emplacados en el Estado, el cual tendrá una vigencia de hasta diez días.
 
@@ -4461,7 +4369,11 @@ y Autobús 11
 
 Cuando se expidan los documentos mencionados en el párrafo anterior con motivo del canje de placas, el costo del servicio de refrendo se entenderá incluido en las cantidades a que se refiere esta fracción.
 
-III. La expedición de placas metálicas, tarjeta de circulación y engomado para auto antiguo, para discapacitado y de policía, causarán los derechos correspondientes de acuerdo al transporte y tipo a que se refiere la fracción anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+III. La expedición de placas metálicas, tarjeta de circulación y engomado para auto antiguo, para personas con discapacidad y de policía, causarán los derechos correspondientes de acuerdo al transporte y tipo a que se refiere la fracción anterior.
 
 IV. Por la baja del vehículo en el Padrón Vehicular Estatal se pagarán 2 VSMGZ.
 
@@ -4527,11 +4439,11 @@ II. Identificación oficial vigente con fotografía y firma del propietario del 
 
 III. Comprobante de domicilio en el Estado de Querétaro y en los casos en los que así lo determine la autoridad fiscal, constancia de residencia expedida por la autoridad municipal competente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
-IV. Presentar los comprobantes de pago del impuesto sobre tenencia o uso de vehículos correspondiente.
+IV. Presentar los comprobantes de pago del impuesto sobre tenencia o uso de vehículos respectivo, correspondientes a los últimos cinco ejercicios fiscales, incluyendo aquél en que se realice el trámite.
 
 Dichos documentos estarán sujetos a validación con la autoridad emisora, previo a la inscripción en el Padrón Vehicular Estatal, o en su caso comprobar que se encuentra libre del pago del impuesto respectivo.
 
@@ -4547,9 +4459,11 @@ a) Extravío o destrucción de una o ambas placas y/o de la tarjeta de circulaci
 
 b) Robo de los elementos descritos en el inciso anterior, deberá exhibirse la constancia de la denuncia realizada ante la Agencia del Ministerio Público correspondiente.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Si el vehículo que se pretende registrar es de procedencia extranjera, se deberán presentar los documentos originales que acreditan la legal estancia del vehículo en el país, o en su caso, copia certificada emitida por la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+VI. Si el vehículo que se pretende registrar es de procedencia extranjera, se deberán presentar los documentos originales que acrediten la legal estancia del vehículo en el país, o en su caso, copia certificada emitida por las autoridades aduaneras, así como acreditar el cumplimiento de los requisitos que establezcan las disposiciones federales aplicables al caso en particular.
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
@@ -6236,3 +6150,121 @@ XVI. Por la prestación de los servicios previstos en el artículo 135, fracció
 Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 En todo caso, las cantidades que se recauden en los términos de dicha fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía.
+
+P.O. 25 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 1° de enero del 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2014, serán las siguientes:
+
+I. Siempre que se trate de vivienda de interés social o popular, los derechos que de acuerdo a la Ley de Hacienda del Estado Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad.
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular;
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular, y
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 4 VSMGZ por la inscripción del acto en el que conste la adquisición de vivienda social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona.
+
+III. Se causarán al 50 por ciento los derechos establecidos en la Ley de Hacienda del Estado de Querétaro por los servicios del Registro Público de la Propiedad y del Comercio, consistentes en:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b) La inscripción de la escritura pública en que conste la operación mediante la que las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios, y
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado.
+
+IV. No se causarán derechos por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en que conste la reestructuración de créditos señalados en el artículo 68 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicha dependencia se encuentre la anotación del crédito inicial;
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas físicas con actividad empresarial y personas morales, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que dichos inmuebles se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos;
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas físicas con actividad empresarial y personas morales, siempre que con ello se propicie el mantenimiento de empleos, y
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes.
+
+V. Por la expedición de las constancias y certificaciones a que se refieren las fracciones III y IV del artículo 95 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1 VSMGZ.
+
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 82 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes.
+
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 54 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+VIII. Las autoridades fiscales podrán cancelar créditos fiscales en sus registros por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2013, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+No procederá la cancelación a que se refiere este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con la propiedad, tenencia o uso de vehículos.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.
+
+IX. Las personas adultas mayores que acrediten ser jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la constancia única de propiedad que expida el Registro Público de la Propiedad y del Comercio para efectos del descuento en el impuesto predial.
+
+X. El impuesto para el fomento de la educación pública en el Estado, para caminos y servicios sociales que se cause con motivo de los pagos que, por concepto del impuesto sobre la venta de bienes cuya enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios a que se refiere el Capítulo Octavo del Título Tercero de la Ley de Hacienda del Estado de Querétaro, realicen los contribuyentes, se reducirá en un 100%.
+
+XI. Los servicios prestados por la Secretaría de Seguridad Ciudadana, contemplados en el artículo 129, fracción I, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán una cuota adicional equivalente a 0.40 VSMGZ al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que será formado por el Secretario de Seguridad Ciudadana, el Titular de la Unidad Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo.
+
+XII. Los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 101 BIS de la Ley de Hacienda del Estado de Querétaro, tendrán las siguientes reducciones:
+
+REDUCCIÓN SUPUESTO
+
+30% En los paquetes familiares (por lo menos tres personas
+
+en las diferentes disciplinas, previa entrega de una copia
+
+del acta de nacimiento de cada familiar).
+
+Para adultos mayores.
+
+XIII. Para los efectos del impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro, el impuesto para el fomento de la educación pública en el Estado, para caminos y servicios sociales a que se refiere el Capítulo Cuarto del Título Tercero de dicho ordenamiento, se causará a la tasa del 0%, en los casos de aquellas personas que resulten beneficiarias de los apoyos contenidos en el Programa Querétaro cerca de tu economía familiar 2014.
+
+XIV. Las personas físicas que sean propietarias de vehículos que provengan de otras entidades federativas, así como los de procedencia extranjera, que pretendan inscribirlos en el Padrón Vehicular Estatal, deberán acreditar su residencia en el Estado de Querétaro de por lo menos seis meses, presentando original y copia de la constancia de residencia municipal o de su credencial de elector vigente con domicilio en el Estado de Querétaro. En este último caso, además deberán presentar 2 comprobantes de domicilio con una antigüedad no mayor a 3 meses, cuyos datos relativos al domicilio del particular deberán ser coincidentes con los asentados en la referida credencial.
+
+Las personas morales que tributen en términos del Título III de la Ley del Impuesto sobre la Renta y que se encuentren en los supuestos de los artículos 79 y 86 del mismo ordenamiento legal, que deseen dar de alta un vehículo de su propiedad en el Padrón Vehicular Estatal, deberán acreditar que su domicilio fiscal se encuentra ubicado en el Estado de Querétaro, por lo menos seis meses antes de la fecha en que se lleve a cabo el mencionado registro.
+
+En caso de que las personas a que se refieren los párrafos anteriores no acrediten lo establecido en este artículo, pagarán los derechos que se originen con motivo de los servicios previstos en la fracción II del artículo 135 de la Ley de Hacienda del Estado de Querétaro, en cantidad de 46 VSMGZ.
+
+XV. Por los servicios de control vehicular contemplados en el artículo 135, fracciones I y II, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará una cuota adicional equivalente a 0.40 VSMGZ a los derechos que se señalan en las fracciones referidas de dicho precepto.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que será formado por el Secretario de Seguridad Ciudadana, el Titular de la Unidad Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador.
+
+XVI. Por la prestación de los servicios previstos en el artículo 135, fracción I, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.68 VSMGZ.
+
+Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección
+
+Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+En todo caso, las cantidades que se recauden en los términos de dicha fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía.
+
+XVII. La calcomanía de revalidación y la tarjeta de circulación a que hace referencia el segundo párrafo de la fracción I del artículo 135 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para el ejercicio fiscal 2013, continuarán vigentes hasta el 31 de marzo de 2015.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2014, por el servicio de refrendo y del impuesto sobre tenencia o uso de vehículos que contempla la referida ley y no tener adeudos por los mismos conceptos de ejercicios anteriores.
+
+Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y tarjeta de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el respectivo comprobante de pago conteniendo la cadena y sello digital que expida la autoridad fiscal.
