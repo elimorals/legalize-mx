@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-707
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-23"
-last_updated: "2013-05-08"
+last_updated: "2013-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -1095,21 +1095,63 @@ VIII. Solicitar de las dependencias y entidades de la Administración Pública F
 
 IX. Las demás que le confieran otras disposiciones o el Procurador.
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
-#### Sección Décima Cuarta
+#### Sección Décima Cuarta. De la Fiscalía Especializada en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 68.
 
-(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
+La Fiscalía Especializada en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, conocerá de la investigación y persecución de los delitos que por concurrencia le toque conocer en términos de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 69.
 
-(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
+La Fiscalía Especializada en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, será competente para:
+
+I. Realizar las investigaciones y acciones necesarias, conforme a la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+II. Iniciar las indagatorias por los delitos materia de su competencia, auxiliándose de un perito traductor, en aquellos casos en que se requiera.
+
+III. Asegurarse que las víctimas de los delitos materia de su competencia, reciban una atención integral y de calidad, así como garantizar la reparación del daño sufrido, de acuerdo con las disposiciones aplicables y atendiendo al principio del interés superior de la infancia.
+
+IV. Dictar las medidas de protección tendientes a salvaguardar la vida, integridad, libertad y seguridad de víctimas y testigos.
+
+V. Coordinarse con las autoridades de los diferentes niveles de gobierno, a efectos (sic) de implementar acciones que ayuden en la investigación de los delitos materia de su competencia.
+
+VI. Realizar la sistematización de la información contenida en las indagatorias de su competencia.
+
+VII. Documentar y llevar un registro de aquellas personas que hayan sido víctimas de trata, en términos de la legislación aplicable.
+
+VIII. Vincular con la Procuraduría, a grupos organizados y representativos de los sectores social y privado, para la difusión y apoyo a los programas sobre los delitos relacionados con trata de personas.
+
+IX. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 70.
 
-(DEROGADO, P.O. 7 DE DICIEMBRE DE 2012)
+Son atribuciones del Fiscal Especializado en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, además de las consignadas en el artículo 32 de la Ley, las siguientes:
+
+I. Coordinar a los Fiscales del Ministerio Público que le estén adscritos, para investigar y perseguir los delitos en materia de trata de personas, de conformidad con las disposiciones aplicables.
+
+II. Coordinarse con los órganos de la Procuraduría, para brindar a las víctimas u ofendidos en los asuntos de su competencia, las garantías que en su favor otorga la Constitución Federal y demás disposiciones aplicables.
+
+III. Coordinarse con los órganos de la Procuraduría, a fin de que coadyuven en la investigación de los ilícitos de su competencia.
+
+IV. Promover a través de los Fiscales del Ministerio Público adscritos, el que se garantice la reparación del daño de las víctimas u ofendidos.
+
+V. Coadyuvar en el cumplimiento del Programa Estatal para Combatir, Prevenir y Sancionar la Trata de Personas.
+
+VI. Proponer al Procurador, la celebración de convenios de coordinación y colaboración con diferentes órganos públicos y privados, a fin de hacer más eficiente el cumplimiento de sus objetivos.
+
+VII. Coordinar con el Instituto de Investigación y Profesionalización de la Procuraduría, la capacitación e impartición de temas relacionados con las funciones que desempeña.
+
+VIII. Promover acciones tendientes a vincular a los organismos sociales y a la sociedad, en la prevención de los delitos y en las actividades que desempeña.
+
+IX. Las demás que le confieran otras disposiciones o el Procurador.
 
 #### Sección Décima Quinta. De la Fiscalía Especializada en Delitos Cometidos en contra de Inmigrantes
 
@@ -1347,71 +1389,21 @@ VIII. Supervisar la actualización veraz y oportuna en la información estadíst
 
 IX. Las demás que le confieran otras disposiciones o el Procurador.
 
-#### Sección Vigésima. De la Fiscalía Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia
+> <small>(DEROGADA SU DENOMINACIÓN Y ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+#### Sección Vigésima
 
 ###### Artículo 86.
 
-La Fiscalía Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia, será la encargada de realizar la eficaz persecución de los delitos de corrupción en los cuerpos de seguridad y procuración de justicia en el Estado, para el fortalecimiento de la institucionalidad y el control de confianza de estos y vigilar que cumplan con la prestación de sus servicios de manera profesional, eficiente, imparcial y honesta.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2013)
 
 ###### Artículo 87.
 
-La Fiscalía Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia, será competente para:
-
-I. Ejercer las atribuciones que en materia de investigación y persecución de los delitos de su exclusiva competencia, le confieran la Constitución Federal, la Constitución local, la Ley, y otras disposiciones aplicables.
-
-II. Investigar y perseguir los delitos cometidos por los elementos operativos y mandos de los cuerpos municipales y estatales de seguridad pública.
-
-III. Conocer e investigar los actos de corrupción de los servidores públicos en los cuerpos de seguridad y procuración de justicia en el Estado, que constituyan delitos conforme al Código Penal para el Estado de Chiapas.
-
-IV. Recabar de las dependencias y entidades de la Administraciones Pública del Estado, de la Federación, así como de los Estados y municipios de la República, en los términos de las disposiciones aplicables, los informes o documentos que sean necesarios para la integración de las averiguaciones previas a su cargo.
-
-V. Coordinarse con el Instituto, para coadyuvar en los procesos de selección, ingreso y permanencia en los cuerpos de seguridad y procuración de justicia en el Estado.
-
-VI. Solicitar a las autoridades competentes para la investigación de los delitos de su competencia, los resultados de los procedimientos de evaluación y control de confianza aplicables a los cuerpos de seguridad y procuración de justicia en el Estado.-
-
-VII. Realizar la sistematización de la información contenida en las averiguaciones previas a su cargo.
-
-VIII. Denunciar ante el superior jerárquico, consejo, órgano interno de control o autoridad que corresponda, las irregularidades o conductas, que se desprendan de las investigaciones que realice, y sean causa de responsabilidad administrativa.
-
-IX. Coordinarse con los demás órganos de la Procuraduría competentes, para salvaguardar a las víctimas u ofendidos, las garantías que en su favor otorga el artículo 20, apartado C, de la Constitución Federal y demás disposiciones aplicables.
-
-X. Implementar mecanismos de coordinación con los demás órganos de la Procuraduría, a fin de coadyuvar en la investigación y persecución de los delitos de su competencia.
-
-XI. Llevar a cabo y supervisar los exámenes de control de confianza a los cuerpos de seguridad y de procuración de justicia en el Estado.
-
-XII. Practicar todas las investigaciones que sean necesarias para establecer el grado de confianza del personal.
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
-
-XIII. Investigar y perseguir los hechos delictivos cometidos por los Cuerpos de Seguridad Estatales y Municipales, Peritos, Fiscales del Ministerio Público, Secretarios de Acuerdos Ministeriales, Jueces, Proyectistas, Secretarios de Acuerdos, Actuarios y demás servidores públicos que hubieren incurrido en delito en ejercicio de sus funciones;
-
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
-
-XIV. Remitir al órgano competente los informes necesarios para la instauración de los procedimientos administrativos en contra de los Cuerpos de Seguridad Estatales y Municipales, Fiscales del Ministerio Público, Secretarios de Acuerdos Ministeriales, Jueces, Proyectistas, Secretarios de Acuerdos, Actuarios y demás servidores públicos que hubieren incurrido en faltas en ejercicio de sus funciones;
-
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
-
-XV. Las demás que le confiera la ley, este Reglamento y otras disposiciones aplicables.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2013)
 
 ###### Artículo 88.
 
-Son atribuciones del Fiscal Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia, además de las consignadas en el artículo 32 de la Ley, las siguientes:
-
-I. Atender el Despacho de los asuntos de su competencia.
-
-II. Coordinar y supervisar que a los Fiscales del Ministerio Público y demás personal que le estén adscritos, cumplan debidamente y en los términos de las disposiciones aplicables, con las actividades que le sean asignadas.
-
-III. Establecer mecanismos de coordinación y de interrelación con otros órganos de la Procuraduría, para el óptimo cumplimiento de las atribuciones que le corresponden.
-
-IV. Coordinar en la esfera de su competencia, la fase de integración de las averiguaciones previas.
-
-V. Implementar y supervisar la adecuada operación de un banco de datos, que contenga información actualizada y fidedigna para la investigación de los delitos de que sean de su competencia.
-
-VI. Establecer mecanismos de comunicación y coordinación que sean necesarios, para el adecuado funcionamiento de los órganos que le estén adscritas, así como del personal a su mando.
-
-VII. Dirigir a través de los Fiscales del Ministerio Público que le sean adscritos, a los elementos de la Policía que se encuentren bajo su autoridad y mando inmediato.
-
-VIII. Las demás que le confieran otras disposiciones o el Procurador.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2013)
 
 #### Sección Única. De la Integración y Atribuciones de las Fiscalías del Ministerio Público
 
@@ -2854,3 +2846,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
 
 Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 25 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento al artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
