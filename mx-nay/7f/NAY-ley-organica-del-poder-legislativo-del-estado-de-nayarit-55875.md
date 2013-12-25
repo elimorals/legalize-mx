@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2011-10-05"
+last_updated: "2013-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -57,15 +59,21 @@ IV. Reglamento: Reglamento para el Gobierno Interior del Congreso;
 
 V. Congreso, Asamblea, Legislatura o Cámara: Poder Legislativo del Estado de Nayarit;
 
-VI. Comisión de Gobierno: Comisión de Gobierno Legislativo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+VI. Comisión de Gobierno: Comisión de Gobierno del Poder Legislativo del Estado de Nayarit;
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 VII. Presidente del Congreso o de la Legislatura: Presidente de la Mesa Directiva del Pleno o de la Diputación Permanente;
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Presidente de la Comisión de Gobierno: Presidente de la Comisión de Gobierno Legislativo, y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+VIII. Presidente de la Comisión de Gobierno: Presidente de la Comisión de Gobierno del Poder Legislativo del Estado de Nayarit, y
 
 > <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
@@ -127,7 +135,7 @@ La Legislatura podrá organizar y participar en reuniones nacionales o regionale
 
 ### CAPÍTULO II. INSTALACIÓN DE LA LEGISLATURA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -143,7 +151,7 @@ La Comisión Instaladora registrará las declaratorias de validez y las constanc
 
 Previo a la sesión de instalación la Comisión Instaladora deberá observar las siguientes formalidades:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -239,7 +247,7 @@ IX. Intervenir en las discusiones y votaciones conforme a los procedimientos y f
 
 X. Contar cuando así lo soliciten, con el registro de audio, video, y trascripción estenográfica del trabajo plenario y de comisiones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -255,15 +263,15 @@ XV. Asistir con derecho a voz a los trabajos de comisiones, previa acreditación
 
 XVI. Solicitar al presidente de la Comisión a la que pertenezca, se convoque a reunión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2011)</small>
 
 XVII. Contar con una cuenta de correo electrónico oficial, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA ], P.O. 2 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 2 DE JULIO DE 2011)</small>
 
 XVIII. Los demás que contemple la Constitución General, la Constitución Local, esta Ley y el Reglamento.
 
@@ -295,13 +303,13 @@ XI. Asistir y cumplir en los términos que determine la Asamblea u órganos de g
 
 XII. Votar cada proyecto en el sentido que estime conveniente; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2011)</small>
 
 XIII. Para los efectos de imponerse de su contenido y acusar recibo electrónico de las iniciativas y comunicaciones turnadas para su conocimiento, revisar su cuenta de correo electrónico oficial, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADA [N. DE E. REPUBLICADA ], P.O. 2 DE JULIO DE 2011)</small>
 
@@ -387,7 +395,7 @@ La Asamblea es la instancia resolutiva de las leyes, decretos y acuerdos que com
 
 ### CAPÍTULO II. COMISIÓN DE GOBIERNO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2011)</small>
 
 ###### Artículo 34.
 
@@ -401,17 +409,17 @@ c) Vocales; Diputados con representación parlamentaria; y
 
 d) Secretario.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE JULIO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE JULIO DE 2011)</small>
 
 El Presidente del Congreso hará la declaratoria de constitución de este órgano de gobierno, el cual a partir de ese momento ejercerá sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2011)</small>
 
 ###### Artículo 35.
 
 La Comisión de Gobierno fungirá como una instancia de dirección a fin de optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la Cámara de Diputados. Los acuerdos que tome esta Comisión se adoptarán por votación ponderada, es decir en atención al porcentaje de representación que corresponda al número de diputados de cada· partido, respecto del total de la Asamblea, y en caso de empate el presidente tendrá voto de calidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO PRIMER PARRAFO], P.O. 16 DE JULIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO PRIMER PÁRRAFO], P.O. 16 DE JULIO DE 2011)</small>
 
 La Comisión de Gobierno tendrá las siguientes atribuciones:
 
@@ -423,11 +431,17 @@ III. Impulsar la conformación de acuerdos relacionados con el contenido de las 
 
 IV. Decidir acerca del proyecto de presupuesto anual del Congreso y presentarlo al Titular del Poder Ejecutivo para su integración en el proyecto del presupuesto de egresos del Estado;
 
-V. Proponer al pleno de la Cámara la designación del Secretario General, del Oficial Mayor y del Contralor Interno;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En el caso de la designación del Auditor General, la Comisión fungirá como coadyuvante de la Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
-VI. Nombrar y remover a los titulares de las direcciones, unidades, coordinaciones y departamentos del Congreso, así como al tesorero;
+V. Proponer al pleno de la Cámara la designación del Secretario General, del Oficial Mayor y del Contralor Interno. En el caso de la designación del Auditor General, la Comisión fungirá como coadyuvante de la Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+VI. Nombrar y remover a los titulares de las direcciones, secretarías técnicas coordinaciones, unidades y departamentos del Congreso;
 
 VII. Coadyuvar en la realización de las funciones del Congreso;
 
@@ -567,13 +581,13 @@ IV. Registrar las solicitudes de intervención de los diputados, cuando el presi
 
 V. Recoger y computar las votaciones expresando los resultados que se obtengan;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
 VI. Cuidar que se entreguen con toda oportunidad a los diputados los dictámenes de las comisiones, al igual que de toda la información necesaria para la discusión de un proyecto por medio de documento impreso o actuación electrónica, de conformidad a lo establecido en el Reglamento, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -791,7 +805,7 @@ III. Cuando algún diputado sea miembro simultáneamente de más de una comisió
 
 Las reuniones de comisiones ordinarias en lo particular o en comisiones unidas se realizarán por acuerdo de su presidente, por el presidente de la Mesa Directiva; o por el presidente de la Comisión de Gobierno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -803,93 +817,139 @@ El orden del día que se genere con motivo de un citatorio a reunión de Comisio
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 75.
 
-La estructura técnica y administrativa del Congreso se integra por la Secretaría General, la Oficialía Mayor, la Contraloría Interna y el Órgano de Fiscalización Superior, siendo la Comisión de Gobierno la autoridad administrativa inmediata.
+La estructura técnica del Congreso se integra por la Secretaría General, la Oficialía Mayor, la Contraloría Interna y el Órgano de Fiscalización Superior, siendo la Comisión de Gobierno la autoridad administrativa inmediata.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 76.
 
-Los titulares de las dependencias técnicas y administrativas serán propuestos por la Comisión de Gobierno, requiriéndose para su designación el voto afirmativo de las dos terceras partes de los integrantes de la Asamblea.
+Los titulares de los órganos técnicos serán propuestos por la Comisión de Gobierno, requiriéndose para su designación el voto afirmativo de las dos terceras partes de los integrantes de la Asamblea. Solo podrán ser removidos de sus cargos por causa de responsabilidad en términos de lo previsto por el Título Octavo de la Constitución Local y la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
 
 El período de duración será de cuatro años, y podrán ser ratificados por una sola vez; la ratificación, remoción o sustitución en su caso, deberá ser aprobada con la misma votación.
 
-Los procedimientos para la designación de los titulares de las dependencias técnicas y administrativas serán determinados en el Reglamento, a excepción del Auditor General del Órgano de Fiscalización que se establecerá en la ley de la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los titulares de las demás áreas internas de cada dependencia se designarán y removerán por acuerdo de la Comisión de Gobierno, en los términos señalados por el reglamento.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+Los procedimientos para la designación de los titulares de los órganos técnicos y administrativos serán determinados en el Reglamento, a excepción del Auditor General del Órgano de Fiscalización que se establecerá en la ley de la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+Los titulares de las demás áreas internas de cada órgano técnico se designarán y removerán por acuerdo de la Comisión de Gobierno, en los términos señalados por el reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+Forman parte de la estructura administrativa del Congreso, las dependencias que a continuación se indican:
+
+a) Direcciones;
+
+b) Secretarías Técnicas;
+
+c) Coordinaciones;
+
+d) Unidades, y
+
+e) Departamentos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REPUBLICADO, P.O. 25 DE DICIEMBRE DE 2013)
 
 Los servidores públicos del Congreso a que se hace referencia en la presente sección, no podrán durante el período de sus funciones, desempeñar otra comisión o empleo de la Federación, Estado o Municipio por el cual disfrute sueldo.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 77.
 
-Son parte de la estructura orgánica de la Comisión de Gobierno Legislativo, las unidades administrativas que a continuación se indican:
+Son parte de la estructura orgánica de la Comisión de Gobierno, las unidades administrativas que a continuación se indican:
 
-l. Unidad de Transparencia y Acceso a la Información Pública;
+I. Unidad de Comunicación Social;
 
 II. Unidad de Gestoría Social;
 
-III. Unidad de Relaciones Públicas y Eventos Especiales;
+III. Unidad de Enlace para la Transparencia y Acceso a la Información Pública;
 
-IV. Unidad de Asesores; y
+IV. Unidad de Jurídica (sic);
 
-V. Coordinación de Comunicación Social.
+V. Unidad de Asesores, y
+
+VI. Unidad de Tecnologías de la Información y Comunicaciones.
 
 #### SECCIÓN SEGUNDA. SECRETARÍA GENERAL
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 78.
 
-El proceso legislativo, la investigación y elaboración de los estudios legislativos así como la asistencia y seguimiento de los asuntos jurídicos del Congreso se llevarán a cabo a través de la Secretaría General y cuyo titular se denominará Secretario General.
+La Secretaría General del Congreso es el órgano técnico que auxilia y asesora jurídicamente a los Órganos de Gobierno Interior del Poder Legislativo; cuenta con la atribución de realizar los estudios de investigación y de atender las etapas del proceso legislativo, así como dirigir la defensa legal de los asuntos jurídico-parlamentarios en los términos de la presente Ley y su Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)
 
 Para el cumplimiento de dichas funciones, la Secretaría General tendrá la estructura siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 I. Dirección de Proceso Legislativo;
 
-a) Coordinación de Apoyo Parlamentario;
+a) Coordinación de Apoyo Parlamentario, y
 
-b) Coordinación de la Crónica Parlamentaria, y
+b) Coordinación de Registro Documental y Estadística Parlamentaria.
 
-c) Departamento de Control Documental y Estadística Parlamentaria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+II. Dirección de Investigación Legislativa;
 
-II. Dirección de Asuntos Jurídicos, y
+a) Coordinación de Estudios de las Finanzas y Administración Pública, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+b) Coordinación de Estudios de Opinión Pública e Investigación Aplicada.
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Dirección de Investigación Legislativa.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
-a) Coordinación de Informática Legislativa, y
+III. Secretaria Técnica.
 
-b) Departamento de Biblioteca y Archivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+IV. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2013)
 
-IV. (DEROGADA, P.O. 2 DE JULIO DE 2011)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+V. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2013)
 
-V. (DEROGADA, P.O. 2 DE JULIO DE 2011)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+VI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2013)
 
-VI. (DEROGADA, P.O. 2 DE JULIO DE 2011)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+VII. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2013)
 
-VII. (DEROGADA, P.O. 2 DE JULIO DE 2011)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REPUBLICADO, P.O. 25 DE DICIEMBRE DE 2013)
 
 El reglamento establecerá sus respectivas atribuciones, así como los requisitos y procedimiento para la designación de sus titulares.
 
@@ -899,7 +959,7 @@ Para ser Secretario General del Congreso se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos mayor de 30 años;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -907,7 +967,7 @@ II. Poseer al día de la designación, con antigüedad mínima de tres años, t�
 
 III. Gozar de buena reputación y reconocida honorabilidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -917,49 +977,113 @@ V. Acreditar ante la Comisión de Gobierno los conocimientos y experiencia neces
 
 #### SECCIÓN TERCERA. OFICIALÍA MAYOR
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 80.
 
-La Oficialía Mayor es la dependencia encargada de la gestión financiera y administrativa del Congreso, misma que contará con la siguiente estructura:
+La Oficialía Mayor es el órgano técnico responsable de la planeación, programación, presupuestación, organización, dirección, ejecución y seguimiento de las funciones y actividades económico-administrativas del Congreso, así como de establecer los mecanismos adecuados para la administración y desarrollo del personal y el suministro de bienes y la prestación de servicios administrativos, con la finalidad de atender las necesidades de recursos humanos, materiales y financieros que requieran los diferentes Órganos de Gobierno y la estructura técnica y administrativa del Congreso.
 
-I. Dirección de Administración;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Tesorería;
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
-III. Unidad de Capacitación y Formación Permanente;
+Para el despacho de sus asuntos, contará con la siguiente estructura:
 
-IV. Departamento de Recursos Humanos; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Departamento de Recursos Materiales y Servicios Generales.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+I. Dirección de Tesorería;
+
+a) Departamento de Programación, Presupuesto y Finanzas;
+
+b) Departamento de Contabilidad;
+
+c) Departamento de Trámites y Liquidación de Pagos, y
+
+d) Departamento de Validación, Control e Integración Documental.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+II. Dirección de Administración de Personal y Desarrollo Institucional;
+
+a) Departamento de Administración y Control de Personal;
+
+b) Departamento de Nómina, y
+
+c) Departamento de Capacitación y Formación Permanente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+III. Dirección de Adquisiciones, Servicios Generales, Control de Bienes y Almacén;
+
+a) Departamento de Adquisiciones;
+
+b) Departamento de Bienes Muebles, Inmuebles e Intangibles;
+
+c) Departamento de Almacenes;
+
+d) Departamento de Servicios Generales;
+
+e) Departamento de Mantenimiento y Conservación de Bienes Muebles e Inmuebles;
+
+f) Departamento de Resguardo y Seguridad, y
+
+g) Departamento de Logística y Eventos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+IV. Secretaría Técnica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+V. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 81.
 
-La administración y ejercicio de los recursos financieros estará a cargo de la Tesorería, misma que dará cuenta comprobada de su aplicación a la Comisión de Hacienda, Cuenta Pública y Presupuesto, en los términos de la presente ley.
+La administración y ejercicio de los recursos financieros estará a cargo de la Dirección de Tesorería, misma que dará cuenta comprobada de su aplicación a la Comisión de Hacienda, Cuenta Pública y Presupuesto, en los términos de la presente ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
-
-El avance de gestión financiera y la cuenta pública del Congreso, previa revisión de la Contraloría Interna, se presentarán por conducto de la Oficialía Mayor, a la Comisión de Hacienda, Cuenta Pública y Presupuesto para su remisión al Órgano de Fiscalización Superior, a más tardar en la fecha de vencimiento que disponga la ley de la materia.
+El avance de gestión financiera y la cuenta pública del Congreso, se presentarán por conducto de la Oficialía Mayor a la Comisión de Hacienda, Cuenta Pública y Presupuesto para su remisión al Órgano de Fiscalización Superior, a más tardar en la fecha de vencimiento que disponga la ley de la materia.
 
 #### SECCIÓN CUARTA. CONTRALORÍA INTERNA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 82.
 
 La Contraloría Interna es la dependencia competente para promover el desarrollo administrativo institucional y verificar el cumplimiento de las obligaciones administrativas y legales de los servidores públicos de las demás dependencias del Congreso; al efecto podrá recibir las quejas, realizar investigaciones, auditorias y la aplicación de los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Congreso, de conformidad a la presente Ley, el Reglamento, la Ley de Responsabilidades de Servidores Públicos del Estado de Nayarit y demás ordenamientos jurídicos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2011)</small>
 
 La Contraloría Interna para el cumplimiento de sus funciones contará con la estructura siguiente:
 
-I.- Departamento de auditoría financiera; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Departamento de auditoría operacional y administrativa.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+I.- Dirección de Auditoría Financiera, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+II.- Dirección de Auditoria Operacional y Administrativa.
 
 La Contraloría dependerá técnicamente de la Comisión de Hacienda, Cuenta Pública y Presupuesto en los términos de esta ley, debiendo presentarles un informe trimestral sobre el cumplimiento de sus funciones.
 
@@ -969,7 +1093,7 @@ Para ser titular de la Oficialía Mayor o de la Contraloría Interna, se deberá
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos, y mayor de 30 años;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -977,7 +1101,7 @@ II. Poseer al día de la designación, con antigüedad mínima de tres años, t�
 
 III. Gozar de buena reputación y reconocida honorabilidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -1019,13 +1143,13 @@ IX. Para su registro oficial, corresponde exclusivamente al Congreso por conduct
 
 El procedimiento legislativo lo constituye la suma de actos concatenados de utilidad instrumental, mediante los cuales se integra la voluntad jurídica del órgano colegiado para dictar las resoluciones que por disposición constitucional competen al Congreso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
 
 Son medios de difusión oficial de las actividades del Congreso, la Gaceta Parlamentaria y la página de internet. El reglamento establecerá los criterios para su regulación específica.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -1035,11 +1159,15 @@ La iniciativa y formación de leyes, o decretos a que se refiere la Constitució
 
 Toda iniciativa por acuerdo del presidente de la Mesa Directiva se turnará por conducto de la Secretaría General a las comisiones competentes en documento impreso o vía actuación electrónica.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 87.
 
-La Secretaría General por conducto de la Dirección de Proceso Legislativo llevará el control y registro de las iniciativas presentadas al Congreso, cuidando que contengan los requisitos legales para su desahogo legislativo.
+La Secretaría General por conducto de la Coordinación de Registro Documental y Estadística Parlamentaria llevará el control y registro de las iniciativas presentadas al Congreso, cuidando que contengan los requisitos legales para su desahogo legislativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -1203,13 +1331,17 @@ Las modalidades para la utilización de cada uno de los sistemas de votación se
 
 Para profesionalizar y hacer más efectivos los servicios técnicos de apoyo legislativo, parlamentario y de orden administrativo, se instituye el Servicio Profesional de Carrera.
 
-Para tal efecto se contará con un área denominada Unidad de Capacitación y Formación Permanente que dependerá de la Oficialía Mayor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 103.
 
 El Oficial Mayor propondrá a la Comisión de Gobierno, los lineamientos que regularán la actividad del área de capacitación.
 
-El titular del área de capacitación será nombrado por acuerdo de la Comisión de Gobierno.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 104.
 
@@ -1229,15 +1361,23 @@ La facultad fiscalizadora del Congreso se ejercerá por conducto del Órgano de 
 
 A propuesta de la Comisión de Gobierno y de la Comisión de Hacienda, Cuenta Pública y Presupuesto, la Legislatura designará al Auditor General con el voto de las dos terceras partes de los miembros presentes del Congreso, de conformidad al procedimiento señalado por la Ley del Órgano de Fiscalización Superior.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 107.
 
-El Órgano de Fiscalización Superior contara con auditores especiales, directores generales, directores, coordinadores, auditores, y demás servidores públicos que al efecto señale el Reglamento Interior del Órgano de Fiscalización, necesarias para el desempeño de sus funciones de conformidad con el presupuesto autorizado.
+El Órgano de Fiscalización Superior para el desempeño de sus funciones contará con las dependencias que al efecto señalen su respectiva Ley y Reglamento, de conformidad con el presupuesto autorizado que le suministrará el Congreso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 108.
 
-La Comisión de Hacienda, Cuenta Pública y Presupuesto, coordinará y evaluará el funcionamiento del órgano de fiscalización; será el conducto de comunicación del Congreso y recibirá el informe del resultado de la revisión y fiscalización de las cuentas públicas mediante el dictamen correspondiente, para su turno al pleno del Congreso.
+La Comisión de Hacienda, Cuenta Pública y Presupuesto auditará la gestión financiera y evaluación del desempeño del órgano de fiscalización; será el conducto de coordinación y comunicación del Congreso y recibirá el informe del resultado de la revisión y fiscalización de las cuentas públicas, emitiendo el dictamen correspondiente que someterá a la aprobación del pleno del Congreso.
+
+Las auditorías a que hace referencia el párrafo anterior, podrán realizarse al ejercicio fiscal en curso y bajo el principio de posterioridad por conducto de la Contraloría Interna del Congreso.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
@@ -1281,15 +1421,27 @@ Si la falta del Gobernador fuere absoluta y ésta ocurriere en los tres últimos
 
 De no encontrarse en funciones la Legislatura, la Diputación Permanente convocará de inmediato a un periodo extraordinario de sesiones para los efectos correspondientes.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ## TÍTULO OCTAVO. PLANEACIÓN INSTITUCIONAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 117.
 
 El Plan de Desarrollo Institucional es el documento rector en materia de planeación legislativa y administrativa, en el que se establecen los objetivos generales, las políticas, las estrategias, las líneas de acción y las bases a las que se sujetará el Congreso para el mejor desempeño de las atribuciones que le corresponden, en condiciones de calidad y eficacia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+El programa operativo anual al que se sujetarán los Órganos Técnicos del Congreso, será aprobado por la Comisión de Gobierno y estará integrado por las metas, objetivos, estrategias y acciones de conformidad a las directrices de la planeación institucional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+La coordinación para la integración del programa operativo anual corresponde a la Oficialía Mayor; la evaluación estará a cargo de la Contraloría Interna.
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
@@ -1313,13 +1465,31 @@ El Plan se elaborará, aprobará y evaluará conforme a los siguientes procedimi
 
 I. La Comisión de Gobierno, será el órgano del Congreso, encargado de preparar y llevar a cabo las actividades necesarias para la elaboración del Plan de conformidad al acuerdo que apruebe la Asamblea Legislativa;
 
-II. Los Planes de Trabajo elaborados por las Comisiones Legislativas deberán de atender en lo conducente los lineamientos generales señalados en el Plan;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+II. Los Planes de Trabajo de las Comisiones Legislativas Ordinarias, deberán atender en lo conducente los lineamientos generales señalados en el Plan;
 
 III. El Plan deberá aprobarse por el Pleno del Congreso, a más tardar al inicio del Segundo Periodo de Sesiones del Primer año de Ejercicio Constitucional de la Legislatura, debiéndose publicar en la Gaceta Parlamentaria y en la página de internet del Congreso;
 
-IV. Para el control, seguimiento y evaluación del Plan, el Congreso del Estado podrá utilizar los indicadores que considere necesarios, de conformidad con los acuerdos emitidos por la Comisión de Gobierno, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. A efecto de optimizar el proceso de elaboración, aplicación y evaluación del Plan, el Congreso podrá celebrar convenios de coordinación con las instituciones y organismos que considere necesarios.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+IV. Para el control, seguimiento y evaluación del Plan, el Congreso del Estado podrá utilizar los indicadores que considere necesarios, de conformidad con los acuerdos emitidos por la Comisión de Gobierno;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+V. A efecto de optimizar el proceso de elaboración, aplicación y evaluación del Plan, el Congreso podrá celebrar convenios de coordinación con las instituciones y organismo que considere necesarios, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+
+VI. El Pleno del Congreso, a propuesta de la Comisión de Gobierno, podrá actualizar anualmente el contenido del Plan, dentro de los veinte días hábiles posteriores al inicio del primer periodo ordinario de sesiones del segundo y tercer años de ejercicio constitucionales (sic), respectivamente.
 
 TRANSITORIOS:
 
@@ -1339,7 +1509,7 @@ Dip. María Eugenia García Espino, Presidenta.- Rúbrica.- Dip. Juan Ignacio Or
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los cuatro días del mes de mayo del año dos mil siete.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaría General de Gobierno.- Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE MARZO DE 2008.
 
@@ -1355,7 +1525,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 
 P.O. 21 DE NOVIEMBRE DE 2009.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 106, 107 Y 109 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 106, 107 Y 109 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -1363,7 +1533,7 @@ El presente decreto entrará en vigor a partir de su publicación en el Periódi
 
 P.O. 21 DE NOVIEMBRE DE 2009.
 
-DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 69 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT.
+DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT.
 
 Artículo Único.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
 
@@ -1380,3 +1550,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 5 DE OCTUBRE DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 25 DE DICIEMBRE DE 2013.
+
+Artículo Único.- El presente Decreto entrará en vigor el primero de enero del año dos mil catorce, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
