@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2013-06-12"
+last_updated: "2013-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -307,7 +307,9 @@ El Presidente Municipal deberá rendir protesta públicamente el día 31 de dici
 
 Durante el mes de enero posterior a la elección, el Ayuntamiento deberá:
 
-I. Celebrar, el primero de enero, su primera sesión ordinaria a efecto de designar al Tesorero y al Secretario del Ayuntamiento, así como distribuir entre los Ediles las Comisiones Municipales;
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2013)</small>
+
+I. Celebrar, el primero de enero, su primera sesión ordinaria a efecto de designar al Tesorero, al Secretario del Ayuntamiento y al titular del Órgano de Control Interno, así como distribuir entre los Ediles las Comisiones Municipales.
 
 II. Levantar un acta de la instalación y designaciones, y remitirla al Congreso del Estado;
 
@@ -391,11 +393,9 @@ X. Distribuir los recursos que le asigne el Congreso del Estado considerando de 
 
 XI. Crear los órganos centralizados y desconcentrados que requiera la administración pública municipal para la mejor prestación de los servicios de su competencia, de conformidad con las disposiciones presupuestales y reglamentarias municipales aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
-
-XII. Resolver sobre el nombramiento y, en su caso, remoción o licencia del Tesorero, del Secretario del Ayuntamiento y del titular del órgano de control interno;
+XII. Resolver sobre el nombramiento y, en su caso, remoción o licencia del Tesorero, del Secretario del Ayuntamiento, del titular del órgano de control interno y del Jefe o Comandante de la Policía Municipal;
 
 XIII. (DEROGADA, G.O. 15 DE FEBRERO DE 2010)
 
@@ -495,11 +495,9 @@ XXXIX. Fraccionar las localidades de su territorio urbano en manzanas y designar
 
 XL. Convocar, en los términos que establezcan la Constitución del Estado y la ley de la materia, a referendo o plebiscito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
-
-XLI. Tomar la protesta de ley al Secretario del Ayuntamiento, al Tesorero Municipal y al Titular del Órgano de Control Interno;
+XLI. Tomar la protesta de ley al Secretario del Ayuntamiento, al Tesorero Municipal, al titular del órgano de control interno y al Jefe o Comandante de la Policía Municipal.
 
 XLII. Procurar, promover y vigilar el cuidado de los bienes y otorgamiento de los servicios públicos necesarios para la seguridad, bienestar e interés general de los habitantes del Municipio;
 
@@ -565,11 +563,9 @@ XII. Proponer al Ayuntamiento las medidas necesarias para mejorar la prestación
 
 XIII. Autorizar en unión de los Ediles de la Comisión de Hacienda, con la firma del Secretario del Ayuntamiento, las órdenes de pago a la Tesorería Municipal que procedan, de conformidad con las disposiciones legales y presupuestales aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
-
-XIV. Proponer al Cabildo los nombramientos del Secretario del Ayuntamiento, del Tesorero Municipal y del Titular del Órgano de Control Interno;
+XIV. Proponer al Cabildo los nombramientos del Secretario del Ayuntamiento, del Tesorero Municipal, del Titular del Órgano de Control Interno y del Jefe o Comandante de la Policía Municipal;
 
 XV. Proponer al Ayuntamiento la integración de las Comisiones Municipales;
 
@@ -579,11 +575,9 @@ XVI. Vigilar las labores de la Secretaría del Ayuntamiento;
 
 XVII. Resolver sobre el nombramiento, remoción, licencia, permiso o comisión de los demás servidores públicos del Ayuntamiento, de lo cual deberá informar al Cabildo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
-
-XVIII. Tomar, a nombre del Ayuntamiento, en sesión ordinaria, la protesta de ley al Secretario, al Tesorero Municipal y al Titular del Órgano de Control Interno;
+XVIII. Tomar, a nombre del Ayuntamiento, en sesión ordinaria, la protesta de ley al Secretario, al Tesorero Municipal, al Titular del Órgano de Control Interno y al Jefe o Comandante de la Policía Municipal;
 
 XIX. Ordenar al personal del Ayuntamiento la ejecución de los trabajos a su cargo;
 
@@ -1677,9 +1671,15 @@ III. Informes sobre el seguimiento de las medidas correctivas aprobadas por el t
 
 Artículo 73 Sedecies. Las dependencias y entidades proporcionarán los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar la Contraloría.
 
-#### SECCIÓN PRIMERA. DE LOS ORGANISMOS DESCENTRALIZADOS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 25 DE DICIEMBRE DE 2013)</small>
 
-#### SECCIÓN SEGUNDA. DE LAS EMPRESAS DE PARTICIPACIÓN MUNICIPAL
+#### SECCIÓN QUINTA. Del Jefe o Comandante de la Policía Municipal
+
+> <small>(ADICIONADO, G.O. 25 DE DICIEMBRE DE 2013)</small>
+
+Artículo 73 Septies decies. El Jefe o Comandante de la Policía Municipal, quien será nombrado conforme a lo dispuesto por la presente Ley, deberá contar con la certificación correspondiente, previo cumplimiento de los procedimientos de evaluación de control de confianza, solicitados en la carrera Policial y de profesionalización.
+
+#### SECCIÓN PRIMERA. DE LOS ORGANISMOS DESCENTRALIZADOS
 
 ### CAPITULO I. DE LAS FUNCIONES Y SERVICIOS PÚBLICOS MUNICIPALES
 
@@ -1717,7 +1717,7 @@ Al efecto, el Ayuntamiento designará miembros en los Órganos de Gobierno, Cons
 
 Se exceptúa lo señalado en este artículo cuando se trate de entidades paramunicipales creadas por dos o más ayuntamientos, en cuyo caso se estará a lo dispuesto en el instrumento de creación o en la legislación que regula el objeto de dicha entidad. Para el ingreso y egreso de recursos, así como para su vigilancia, control y evaluación, se sujetará al Código Hacendario Municipal del Estado de Veracruz de Ignacio de la Llave, aun cuando los ayuntamientos participantes tengan su propio Código Hacendario Municipal.
 
-#### SECCIÓN TERCERA. DE LOS FIDEICOMISOS PÚBLICOS
+#### SECCIÓN SEGUNDA. DE LAS EMPRESAS DE PARTICIPACIÓN MUNICIPAL
 
 ###### Artículo 78.
 
@@ -1766,6 +1766,8 @@ II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afin
 III. Las personas que tengan litigios pendientes con el organismo de que se trata; y
 
 IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+
+#### SECCIÓN TERCERA. DE LOS FIDEICOMISOS PÚBLICOS
 
 ###### Artículo 82.
 
@@ -3406,5 +3408,21 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 12 DE JUNIO DE 2013.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 25 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 9 POR EL QUE SE REFORMAN LOS ARTÍCULOS 35 EN SUS FRACCIONES XII Y XLI, 36 EN SUS FRACCIONES XIV Y XVIII; Y SE ADICIONA EN EL CAPÍTULO II DEL TÍTULO TERCERO UNA SECCIÓN QUINTA, DENOMINADA "DEL JEFE O COMANDANTE DE LA POLICÍA MUNICIPAL", Y EL ARTÍCULO 73 SEPTIES DECIES, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 25 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 10 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 27 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
