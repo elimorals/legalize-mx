@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2007-01-23"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
+LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -59,11 +59,11 @@ Con la finalidad de preservar la seguridad jurídica del tráfico inmobiliario e
 
 Serán normas supletorias de la presente Ley los Códigos Civil y de Procedimientos Civiles para el Estado de Jalisco.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 4.
 
-El servicio registral se prestará a través de la estructura orgánica prevista en esta Ley, y en su caso, de conformidad a las disposiciones jurídicas aplicables relativas a la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios.
+EI servicio registral se presentará a través de la estructura orgánica prevista en esta Ley, y en su caso, de conformidad a las disposiciones jurídicas aplicables relativas a legislación en materia de firma electrónica en el Estado de Jalisco.
 
 Cada acto deberá estar firmado por un funcionario con fe pública registral que se responsabilizará del mismo.
 
@@ -79,13 +79,13 @@ III. Director General: El Director del Registro Público de la Propiedad;
 
 IV. Institución: El Registro Público de la Propiedad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-V. Firma electrónica certificada: Los datos que en forma electrónica son vinculados o asociados a un mensaje de datos y que corresponden inequívocamente al firmante con la finalidad de autentificar el mismo y que ha sido certificada por un prestador de servicios de certificación de conformidad a lo establecido por la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios y por la presente Ley.
+V. Firma electrónica avanzada: los datos que en forma electrónica son vinculados o asociados a un mensaje de datos y que corresponden inequívocamente al firmante con la finalidad de autentificar el mismo, en los términos previstos en la legislación en materia de firma electrónica en el Estado de Jalisco y por la presente Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-VI. Mensaje de datos: La información generada, enviada, recibida, archivada, reproducida o procesada por el firmante y recibida o archivada por el destinatario a través de medios electrónicos, ópticos o cualquier otra tecnología de conformidad a lo establecido por la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios y por la presente Ley.
+VI. Mensaje de datos: la información generada, enviada, recibida, archivada, reproducida o procesada por el firmante y recibida o archivada por el destinatario a través de medios electrónicos, ópticos o cualquier otra tecnología de conformidad a lo establecido en la legislación en materia de firma electrónica en el Estado de Jalisco y en la presente Ley;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -455,17 +455,17 @@ IV. Expedir los certificados de los registros individuales existentes en la inst
 
 La prestación de los servicios a que se refieren las fracciones que anteceden, se condicionará al pago de los derechos que correspondan y a las disposiciones contenidas en esta Ley y su Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-Todos los servicios registrales y documentos a que hacen referencia las fracciones II. III y IV de presente artículo proporcionados mediante un mensaje de datos con firma electrónica certificada, de conformidad con la ley en la materia, tienen plena validez y eficacia jurídicas.
+Todos los servicios registrales y documentos a que hacen referencia las fracciones II, III y IV del presente artículo proporcionados mediante un mensaje de datos con firma electrónica, de conformidad con la Ley de la materia, tienen plena validez y eficacia jurídica.
 
 ### CAPITULO II. DE LAS CERTIFICACIONES
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 24.
 
-La Institución tiene obligación de expedir, a quien lo solicite, certificaciones literales o en extracto de las inscripciones o constancias asentadas en los libros y demás archivos existentes de conformidad a lo establecido por la presente Ley y la Ley de Firma Electrónica Certificada del Estado de Jalisco y sus Municipios. Las certificaciones expedidas por la Institución, cuya información se encuentre contenida en el archivo, tendrán el carácter de documento público.
+La Institución tiene obligación de expedir, a quien lo solicite, certificaciones literales o en extracto de las inscripciones o constancias asentadas en los libros y demás archivos existentes de conformidad a lo establecido por la presente Ley y legislación en materia de firma electrónica en el Estado de Jalisco. Las certificaciones expedidas por la Institución, cuya información se encuentre contenida en el archivo, tendrán el carácter de documento público.
 
 ###### Artículo 25.
 
@@ -1504,3 +1504,25 @@ PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de
 SEGUNDO. En las sucesiones iniciadas con anterioridad a la entrada en vigor de este decreto, deberá seguirse el proceso conforme a las disposiciones vigentes en la fecha de fallecimiento del autor de la sucesión.
 
 TERCERO. El archivo de Instrumentos Públicos adoptará los lineamientos generales que expida el titular del Poder Ejecutivo con relación a los avisos de testamento que remitirá al Registro Nacional de Avisos de Testamento.
+
+P.O. 26 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de la Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios.
+
+TERCERO. El Gobernador del Estado de Jalisco expedirá, dentro de los cuarenta y cinco días hábiles siguientes a la publicación del presente Decreto, el Reglamento de la Ley de la Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.
+
+CUARTO. La Secretaría General de Gobierno y demás autoridades obligadas deberán emitir los lineamientos aplicables, dentro de los cuarenta y cinco días hábiles siguientes a la expedición del Reglamento referido en el artículo anterior.
+
+QUINTO. Se faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento de este decreto.
+
+SEXTO. Se faculta a la Secretaría de Desarrollo Económico del Gobierno del Estado, para que se lleve a cabo los procesos de mejora regulatoria necesarios para el cumplimiento del decreto.
+
+SÉPTIMO. El Gobierno del Estado de Jalisco deberá celebrar con la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, los convenios que resulten necesarios para el cumplimiento de los fines de este decreto.
+
+OCTAVO. Cuando otros ordenamientos legales del Estado de Jalisco se refieran a la firma electrónica certificada, se entenderá que alude a la firma electrónica avanzada.
+
+NOVENO. La vigencia de los certificados electrónicos a que se refiere el artículo 13 fracción VI, será de dos años hasta en tanto se cuente con las condiciones humanas, financieras y tecnológicas para que su vigencia pueda ser de cuatro años. Cuando se cuente con tales condiciones, el titular del Poder Ejecutivo deberá expedir un acuerdo que se publicará en el Periódico Oficial "El Estado de Jalisco".
+
+DÉCIMO. Los certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.
