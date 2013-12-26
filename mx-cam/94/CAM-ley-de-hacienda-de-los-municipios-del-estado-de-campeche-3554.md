@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2013-12-20"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 108, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2013, QUE MODIFICA ESTE ORDENAMIENTO, VÉASE SU ARTÍCULO PRIMERO TRANSITORIO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -187,13 +189,11 @@ Cuando los contribuyentes no cumplan con el pago de sus contribuciones dentro de
 
 Las infracciones a la presente Ley, serán sancionadas de conformidad con lo previsto por el Código Fiscal del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 10.
 
-Las obligaciones de los sujetos de las contribuciones de esta Ley, se regirán de conformidad con lo previsto por el Código Fiscal del Estado.
-
-Las personas físicas o morales, que de conformidad con esta Ley sean contribuyentes o no, que tengan actividades comerciales, industriales, o mantengan bodegas, arrendamientos o cualquier otro giro no especificado o de prestación de servicios, sea en locales o establecimientos o como ambulantes o en puestos fijos o semifijos, tendrán la obligación de obtener la Licencia de Funcionamiento Municipal, para lo cual deberán solicitarla en un plazo de 10 días, contados a partir de la fecha de su apertura o inicio de operaciones o actividades, así como también tienen la obligación de presentar dicha licencia para su modificación, en el caso de cambio de giro, o domicilio, así como en el caso de traspaso o baja. También tienen la obligación de solicitar su refrendo durante el mes de enero de cada año.
+Las obligaciones de los sujetos de las contribuciones de esta Ley, se regirán de conformidad con lo previsto por el Código Fiscal Municipal del Estado. Las personas físicas o morales, que de conformidad con esta Ley sean contribuyentes o no, que tengan actividades comerciales, industriales, o mantengan bodegas, arrendamientos o cualquier otro giro no especificado o de prestación de servicios, sea en locales o establecimientos o como ambulantes o en puestos fijos o semifijos, tendrán la obligación de obtener la Licencia de Funcionamiento Municipal, para lo cual deberán solicitarla en un plazo de 10 días, contados a partir de la fecha de su apertura o inicio de operaciones o actividades, así como también tienen la obligación de presentar dicha licencia para su modificación, en el caso de cambio de giro, domicilio o baja. También tienen la obligación de solicitar su refrendo durante el mes de enero de cada año.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -221,7 +221,7 @@ CONTRIBUCIONES DE MEJORAS, son las establecidas en Ley a cargo de las personas f
 
 PLUSVALIAS, son los incrementos del valor de un bien por causas extrínsecas al mismo.
 
-DERECHOS, son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Municipio en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u organismos descentralizados u (sic) órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en las Leyes Fiscales respectivas. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Municipio.
+DERECHOS, son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Municipio en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u organismos descentralizados (sic) u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en las Leyes Fiscales respectivas. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Municipio.
 
 PRODUCTOS, son contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
@@ -415,13 +415,15 @@ Terrenos inexplotados 0.60%
 
 CAMPECHE
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 URBANOS: Habitacional 0.16%
 
 Comercial y de Servicios 0.22%
 
 Industrial 0.22%
 
-Baldíos 1.15%
+Baldíos y Ruinosos 1.15%
 
 Preservación Ecológica 0.06%
 
@@ -593,11 +595,11 @@ La cuota de este impuesto será anual y su pago deberá hacerse por bimestres ad
 
 Los inmuebles responden preferentemente del pago del impuesto predial, aún cuando pasen a propiedad o posesión de terceros.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 28.
 
-El monto del impuesto predial anual mínimo en los predios urbanos y rústicos no será inferior a tres salarios mínimos diarios prevalecientes en el Municipio.
+El monto del impuesto predial anual mínimo en los predios urbanos y rústicos no será inferior a cinco salarios mínimos diarios prevalecientes en el Municipio.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -687,7 +689,7 @@ Para vehículos de modelo más antiguo, la base del impuesto será el valor de l
 
 #### SECCION CUARTA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 38.
 
@@ -695,7 +697,7 @@ El impuesto sobre adquisición de vehículos de motor usados se calculará aplic
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
-1% 2.5% 1.0%
+3% 2.5% 3.0%
 
 #### SECCION QUINTA. DEL PAGO
 
@@ -777,21 +779,21 @@ II. Los funcionarios que tengan a su cargo el otorgamiento de permisos o licenci
 
 #### SECCION TERCERA. DE LA BASE
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 45.
 
-Es la base para el pago de este impuesto el monto total de los ingresos obtenidos, por los boletos de entrada.
+Es la base para el pago de este impuesto el monto total de los ingresos obtenidos, por los boletos de entrada. Incluidos los boletos de cortesía o cualquier otro concepto similar que se aplique para la entrada de personas que disfruten el espectáculo, ocupen o no asiento o butaca en caso de existir
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION CUARTA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 46.
 
-El impuesto sobre espectáculos públicos se calculará aplicando a la base determinada la tasa del 8%
+El impuesto sobre espectáculos públicos se calculará aplicando a la base determinada la tasa del 12%, salvo los de teatro y circo, que se causarán al 8%.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -849,6 +851,22 @@ a) Los bienes inmuebles en que se exploten espectáculos públicos, cuando sean 
 
 b) El equipo y las instalaciones que se utilicen en el mencionado espectáculo.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+j) Presentar dictamen emitido por la dirección de protección civil municipal.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+k) Clase de diversión o espectáculo
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+l) Ubicación del inmueble y predio en que se va a efectuar y nombre del propietario del mismo
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+Cualquier modificación de los datos comprendidos en las fracciones precedentes, deberá comunicarse por escrito a la Tesorería Municipal dentro de los tres días hábiles anteriores a la fecha en que deba tener efecto el espectáculo o la diversión.
+
 ### CAPITULO CUARTO. DEL IMPUESTO SOBRE HONORARIOS POR SERVICIOS MEDICOS PROFESIONALES
 
 #### SECCION PRIMERA. DEL OBJETO
@@ -869,11 +887,11 @@ III. Cuando el domicilio del contribuyente se encuentre en el Territorio de los 
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 50.
 
-Son sujetos de este impuesto los profesionistas de la medicina con título debidamente registrado que perciban los ingresos a que se refiere el artículo anterior.
+Son sujetos de este impuesto los médicos, médicos veterinarios o cirujanos dentistas, que perciban los ingresos a que se refiere el artículo anterior.
 
 #### SECCION TERCERA. DE LA BASE
 
@@ -887,23 +905,15 @@ Cuando los sujetos de este impuesto operen con agrupaciones profesionales, asoci
 
 #### SECCION CUARTA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 52.
 
-Los contribuyentes de este impuesto que a continuación se indican, cubrirán el equivalente al 2% sobre el monto mensual de sus percepciones, de no poder determinarse éstas, pagarán de acuerdo a la siguiente:
+Los contribuyentes de este impuesto, cubrirán el equivalente al 3% sobre el monto mensual de sus percepciones. De no poder determinarse sus ingresos, pagarán una cuota mensual de 50 Salarios Mínimos Generales Diarios Vigentes.
 
-T A R I F A
+Los sujetos de este impuesto podrán celebrar convenios con los Sistemas DIF de cada Municipio, para liquidar en las condiciones que se establezcan el pago de tal contribución mediante la prestación de determinado número de jornadas de servicio médico gratuito a favor de la comunidad o a través de la entrega de medicamentos.
 
-Salarios Mínimos
-
-Generales Diarios Vigentes
-
-SERVICIOS GRUPO 1 GRUPO 2 GRUPO 3
-
-I.- Médicos 5.07 a 10.87 5.07 a 10.87 1.08 a 3.26
-
-II.- Dentistas 5.07. a 10.87 5.07 a 10.87 1.08 a 2.53
+El incumplimiento a los compromisos convenidos dará lugar al ejercicio de las acciones legales para la exigibilidad del pago coactivo de este impuesto.
 
 #### SECCION QUINTA. DEL PAGO
 
@@ -987,6 +997,10 @@ XIII. La constitución y transmisión del derecho de superficie;
 
 XIV. Cualquier otro acto o contrato por el que se transmitan bienes inmuebles o derechos sobre los mismos.
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+XV. La cancelación y revocación de los traslados previamente tramitados.
+
 Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
 #### SECCION SEGUNDA. DE LA BASE
@@ -997,7 +1011,9 @@ Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
 En la determinación de la base del impuesto sobre adquisición de inmuebles, se aplicarán las siguientes disposiciones:
 
-I. Será base del impuesto, el valor catastral actualizado con los valores unitarios vigentes en la fecha de causación, incluyendo en su caso, el valor de los accesorios y las instalaciones especiales que pertenezcan al inmueble;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+I. Será base del impuesto, el valor catastral actualizado; por lo tanto, la base del Impuesto, deberá reflejar el valor de mercado, por lo que se deberá presentar el avalúo comercial correspondiente a la fecha de la causación;
 
 II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, deberá presentarse avalúo practicado por perito valuador acreditado o dictamen de valor elaborado por la autoridad catastral, conforme a las disposiciones de la Ley de Catastro del Estado de Campeche;
 
@@ -1013,7 +1029,9 @@ VI. Cuando la autoridad catastral considere que el avalúo presentado para su re
 
 VII. Para la actualización del valor catastral, se podrán tomar en consideración los datos y características del inmueble, que se consignen en el avalúo practicado por el perito valuador acreditado;
 
-VIII. En la constitución, adquisición, acrecentamiento o extinción del usufructo, del derecho de superficie o de la nuda propiedad, y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo o dictamen de valor según sea el caso, de conformidad con la fracción I de este artículo. Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% cincuenta por ciento del valor de la propiedad;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+VIII. En la constitución, adquisición, acrecentamiento o extinción del usufructo, del derecho de superficie o de la nuda propiedad, y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo o dictamen de valor según sea el caso, de conformidad con la fracción I de este artículo. Para los fines de este impuesto, tratándose de la adquisición por el usufructuario, éste pagará el impuesto correspondiente;
 
 IX. Tratándose de permutas será base de este impuesto el 100% cien por ciento del valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en las fracciones I y II de este artículo;
 
@@ -1145,11 +1163,11 @@ III. En los casos de renovación, el importe del nuevo beneficio establecido.
 
 #### SECCION TERCERA. DEL PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 66.
 
-El impuesto se causará de conformidad con la tasa de 0.10% a excepción de los demás contratos, actos e instrumentos notariales de índole contractual sin valor pecuniario, por los que se pagará dos salarios mínimos diarios vigentes en el Estado. Dicha contribución deberá pagarse en la Tesorería Municipal correspondiente.
+El impuesto se causará de conformidad con la tasa de 2.0% a excepción de los demás contratos, actos e instrumentos notariales de índole contractual sin valor pecuniario, por los que se pagará dos salarios mínimos diarios vigentes en el Estado. Dicha contribución deberá pagarse en la Tesorería Municipal correspondiente.
 
 #### SECCION CUARTA. DE LAS EXENCIONES
 
@@ -1207,91 +1225,109 @@ Es objeto de este derecho la prestación de servicios que proporcionen las autor
 
 Son sujetos de este derecho, quienes hagan uso de los servicios mencionados en los dos artículos anteriores.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 74.
 
-Los derechos por servicios que prestan las autoridades de tránsito de los municipios se pagarán en la tesorería municipal, y se causarán al equivalente al número de veces el salario mínimo general diario vigente en el Estado conforme a la siguiente:
+Los derechos por servicios que prestan las autoridades de tránsito de los municipios se pagarán en la tesorería municipal, y/o lugar que esta determine se causarán al equivalente al número de veces el salario mínimo general diario vigente en el Estado conforme a la siguiente:
 
-T A R I F A
+TARIFA
 
-G R U P O S 1 2 3
+GRUPOS 1,2,3
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 I.- Por juego de placas de circulación, incluyendo calcomanía y tarjeta de circulación del año:
 
-A. Para automóviles de servicio particular 6.59395
+A. Para automóviles de servicio particular 10
 
 B. Para automóviles de alquiler de
 
-servicio público local 7.95245
+servicio público local 20
 
 C. Para vehículo de carga de servicio
 
 particular con capacidad hasta de cinco
 
-toneladas 8.41225
+toneladas 20
 
 D. Para vehículo de carga de servicio
 
 particular con capacidad superior a
 
-cinco toneladas 8.8616
+cinco toneladas 20
 
 E. Para vehículo de carga de servicio
 
 público local con capacidad hasta de
 
-cinco toneladas 9.3214
+cinco toneladas 20
 
 F. Para vehículo de carga de servicio
 
 público local con capacidad superior a
 
-cinco toneladas 9.77075
+cinco toneladas 20
 
 G. Para camión de pasajeros de servicio
 
-público local. 6.59395
+particular y servicio público local. 30
 
 H. Para demostración y para vehículos
 
-propiedad de empresas arrendadoras 17.8068
+propiedad de empresas arrendadoras 40
 
-I. Para motocicletas o motonetas 2.09
+I. Para motocicletas o motonetas
 
-J. Para bicicletas 1.045
+de servicio particular y servicio público
 
-K. Para vehículo de tracción animal 1.045
+local 6
 
-L. Para carros y carretillas de mano 1.045
+J. Para bicicletas 2
 
-M. Por reposición de placas se cubrirá la misma cuota que corresponda de acuerdo con los subincisos que anteceden. Si es por extravío o robo, deberá comprobarse haber denunciado previamente el hecho ante la autoridad competente.
+K. Para vehículo de tracción animal 2
+
+L. Para carros y carretillas de mano 2
+
+M. Por reposición de placas se cubrirá la misma cuota que corresponda de acuerdo con los incisos que anteceden. Si es por extravío o robo, deberá comprobarse haber denunciado previamente el hecho ante la autoridad competente.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 II.- Por otros servicios de tránsito:
 
 A. Permisos para que transiten vehículos sin
 
-placas hasta por quince días 1.74515
+placas hasta por quince días 20
 
 B. Por expedición de licencias para conducir:
 
-a). Para automovilistas 3.1768
+a). Para automovilistas 5
 
-b). Para chofer 4.31585
+b). Para chofer 7
 
-c). Para motociclistas 2.26765
+c). Para motociclistas 4
+
+d) Para automovilistas de servicio público 17
+
+e) Para chofer de servicio público 17
+
+f) Para Motocicletas de servicio público 7
 
 C. Permiso para práctica de manejo sin licencia,
 
-hasta por quince días 1.74515
+hasta por quince días 20
 
-D. Por la reposición de tarjeta de circulación 0.53295
+D. Por la reposición de tarjeta de circulación 2
 
 E. Por refrendo anual de placas, que incluye
 
-calcomanía y tarjeta de circulación 2.12135
+calcomanía y tarjeta de circulación 8
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 III.- El pago de las cuotas que anteceden se efectuarán en las oficinas autorizadas al efecto. El plazo para el refrendo anual a que se refiere el inciso E, de la fracción II, deberá realizarse durante el primer trimestre del año; la expedición de placas de los vehículos a que se refieren los incisos I, J, K y L de la fracción I, dentro de los primeros cuatro meses del año. En los demás casos dentro de los quince días siguientes a la adquisición del vehículo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 IV.- Para los efectos de la fracción I, previo a la solicitud de estas contraprestaciones será requisito indispensable que los contribuyentes acrediten haber cumplido con las obligaciones fiscales que le impone, en su caso, el artículo 48 de la Ley de Hacienda del Estado de Campeche.
 
@@ -1327,7 +1363,7 @@ Los derechos a que se refiere esta sección deberán pagarse antes de que se pre
 
 Los administradores o encargados de los rastros públicos municipales o lugares autorizados para el sacrificio de ganado no permitirán la salida de la carne o pieles de animales sacrificados, si previamente no se comprueba que se pagaron los derechos por los servicios que se haya prestado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1337,25 +1373,31 @@ T A R I F A
 
 C O N C E P T O GRUPO I GRUPO 2 GRUPO 3
 
-I.- Uso de rastro municipal para sacrificios
+I.- Uso de rastro municipal
+
+para sacrificios
 
 de semovientes (por cabeza)
 
-A. Ganado Vacuno $156.75 $15.68 $13.59
+A. Ganado Vacuno $195.00 $15.68 $100 00
 
-B. Ganado Porcino $52.25 $12.54 $7.32
+B. Ganado Porcino $95.00 $12.54 $80.00
 
 C. Ganado caprino,
 
-equino y bovino $41.80 $8.36 $7.32
+equino y bovino $80 $8.36 $50.00
 
 II.- Sacrificio de aves
 
-(por cabeza) $0.26 $0.21 $0.21
+menos de 3 kilos
+
+(por cabeza) $0.50 y
+
+más de 3 kilos $15.00 $0.21 $5
 
 III.- Por sacrificio de otras
 
-especies (por cabeza) $0.37 $0.26 $0.21
+especies (por cabeza) $10.00 $0.26 $5
 
 IV.- Servicios de corrales (por cabeza por día)
 
@@ -1369,19 +1411,19 @@ equino y bovino $10.97 $0.31 $0.21
 
 V.- Por uso de
 
-Refrigeración $41.80 $4.18
+Refrigeración $41.80 $4.18 $4.18
 
-VI.- Por uso de báscula $10.45 $5.23
+VI.- Por uso de báscula $10.45 $5.23 $5.23
 
-VII.- Por aseo de panzas $52.25 $1.05
+VII.- Por aseo de panzas $52.25 $1.05 $1.05
 
-VIII.-Por aseo de patas $20.90 $1.05
+VIII.-Por aseo de patas $20.90 $1.05 $1.05
 
 IX.- Los servicios por transporte de semovientes en vehículos propiedad del ayuntamiento
 
-A. Res $83.60
+A. Res $100
 
-B. Cerdo y otros $41.80
+B. Cerdo y otros $100
 
 #### SECCION TERCERA. POR SERVICIOS DE ASEO Y LIMPIA POR RECOLECCION DE BASURA
 
@@ -1391,17 +1433,17 @@ B. Cerdo y otros $41.80
 
 Están obligados al pago de este derecho quienes resulten beneficiados con este servicio.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 82.
 
-Este servicio público estará atendido por el Municipio, mediante el transporte de toda clase de basura y desperdicio en vehículos de su propiedad.
+Este servicio público estará atendido por el Municipio, mediante el transporte de toda clase de basura y desperdicio en vehículos de su propiedad. El Municipio podrá celebrar convenios - concesión, para la atención de este servicio público.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 83.
 
-Los propietarios, poseedores o inquilinos de los predios urbanos con frente a la vía pública deberán mantener y conservar debidamente aseadas y limpias sus banquetas y la parte proporcional de la calle, cooperando en esta forma con el Municipio en la limpieza y aseo de la ciudad. Todo aquel propietario, poseedor o inquilino que no cumpla con la anterior disposición incurre en una multa por la cantidad de un día de salario mínimo vigente de la zona económica correspondiente, la cual impondrá el titular del departamento, en caso de que exista o en su defecto, la Tesorería Municipal.
+Los propietarios, poseedores o inquilinos de los predios urbanos con frente a la vía pública deberán mantener y conservar debidamente aseadas y limpias sus banquetas y la parte proporcional de la calle, cooperando en esta forma con el Municipio en la limpieza y aseo de la ciudad.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1409,7 +1451,59 @@ Los propietarios, poseedores o inquilinos de los predios urbanos con frente a la
 
 Los propietarios o arrendatarios de predios donde estén establecidos comercios o industrias podrán celebrar convenios con el Municipio para que el departamento designado al respecto efectúe servicios particulares de recolección de desechos sólidos, generados en los citados establecimientos.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO. 85.- Los servicios de aseo y limpia por recolección de basura, deberán pagarse cada mes en la Tesorería Municipal correspondiente, de acuerdo al número de veces el salario mínimo general diario vigente en el Estado, de acuerdo con la siguiente:
+
+T A R I F A
+
+RECOLECTA
+
+DE BASURA GRUPO 1 GRUPO 2 GRUPO 3
+
+I.- Domiciliario por mes:
+
+A. Residencial 2.00 a 3.00 1.21 a 1.51 2.00 a 3.00
+
+B. Media 1.50 a 2.00 0.90 a 1.12 1.50 a 2.00
+
+C. Popular e interés
+
+social 1.00 a 1.50 0.44 a 0.60 1.00 a 1.50
+
+D.- Precaria 0.50 a 1.00 0.21 a 0.37 0.37 a 30.30
+
+II.- Comercial, Industrial
+
+y de prestación de servicios
+
+por mes: 5 a 300 0.37 a 45.45 0.37 a 30.30
+
+III.- Servicios especiales
+
+por viaje: 50 22.72 3.78
+
+IV.- Por recolecta de productos dentro del relleno sanitario se cobrará por tonelada:
+
+A. Vidrio y chatarra 0.75 0.75 0.37
+
+B. Papel y cartón 0.60 0.60 0.30
+
+C. Aluminio y plástico 0.75 0.75 0.37
+
+D. Trapo y varios 0.60 0.60 0.30
+
+E. Por descargar
+
+basura dentro del
+
+relleno sanitario: 20 0.75 0.37
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+Para los efectos del presente artículo, el Municipio de Champotón, formará parte del Grupo 1.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 85.
 
@@ -1465,29 +1559,55 @@ basura dentro del
 
 relleno sanitario: 0.75 0.75 0.37
 
+#### SECCION TERCERA BIS. POR CONTROL Y LIMPIEZA DE LOTES BALDIOS
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 85-A.
+
+Es objeto de este derecho, los servicios que proporcionen los municipios, a los propietarios o poseedores de terrenos o inmuebles que carezcan de construcción o en construcción sin terminar, que cuenten en su interior con maleza, basura o escombros.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 85-B.
+
+Son sujetos de este derecho, las personas físicas o morales propietarias o poseedoras de terrenos o inmuebles, que no realicen conforme lo disponen los ordenamientos municipales, la adecuada limpieza de los mismos y que cuenten en su interior con maleza, basura o escombros.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 85-C.
+
+El monto del derecho se cubrirá por cada servicio de limpieza que realice el Ayuntamiento, aplicándose la cuota de 1 a 500 días de salario mínimo por metro cuadrado, dependiendo del tipo de limpieza que se requiera
+
+Para efectos de desmonte, deshierba o limpieza de lotes baldíos a cargo de los particulares, éstas se llevarán a cabo durante los meses de junio y octubre de cada año, de acuerdo a las leyes ambientales del Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 85-D.
+
+Los derechos a que se refiere esta sección deberán pagarse en la Tesorería Municipal respectiva o a sus recaudadores autorizados en el municipio, al concluir la limpieza correspondiente o en su defecto, de manera conjunta con el Impuesto Predial.
+
 #### SECCION CUARTA. POR SERVICIO DE ALUMBRADO PUBLICO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-#### SECCION QUINTA. POR SERVICIOS DE AGUA POTABLE
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 86.
 
-Es objeto de este derecho el consumo de energía eléctrica en calles, plazas, jardines y otros lugares públicos de uso común en los Municipios del Estado de Campeche.
+Es objeto de este derecho el servicio que prestan los Ayuntamientos en materia de alumbrado público en calles, plazas, jardines y otros lugares públicos de uso común en los Municipios del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 87.
 
-Son sujetos de este derecho las personas físicas o morales, que han contratado o contraten servicio de energía eléctrica con la Comisión Federal de Electricidad.
+Son sujetos de este derecho las personas físicas o morales, que sean propietarias o poseedoras de bienes inmuebles y que sean o no usuarias de los servicios de energía eléctrica que presta la Comisión Federal de Electricidad.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 88.
 
-El monto del derecho se cubrirá a la compañía suministradora del servicio contratado a razón del 6% sobre el importe bimestral que resulte de la aplicación de las tarifas publicadas en el Diario Oficial de la Federación de fecha 15 de Noviembre de 1976, o las que en su caso las sustituyeran.
+La tarifa mensual correspondiente al derecho de alumbrado público, será obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12 y lo que dé como resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida y su monto no podrá ser superior al 6% de las cantidades que deban pagar los contribuyentes en forma particular, sobre el consumo de energía eléctrica.
+
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la CFE, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traído a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1495,7 +1615,7 @@ El monto del derecho se cubrirá a la compañía suministradora del servicio con
 
 El pago de este derecho, se hará a través de la compañía suministradora de energía eléctrica quien hará la retención correspondiente, consignando el cargo en los recibos que expida por el consumo ordinario e informará al H. Ayuntamiento de las recaudaciones respectivas.
 
-#### SECCION SEXTA. POR SERVICIOS EN PANTEONES Y MERCADOS
+#### SECCION QUINTA. POR SERVICIOS DE AGUA POTABLE
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1505,7 +1625,7 @@ Estos servicios se regirán en todo lo que les sean aplicable, por la Ley de Agu
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-#### SECCION PRIMERA. POR LICENCIA DE CONSTRUCCION
+#### SECCION SEXTA. POR SERVICIOS EN PANTEONES Y MERCADOS
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1515,49 +1635,41 @@ Los derechos a perpetuidad en panteones municipales se causarán y pagarán conf
 
 TARIFA
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 G R U P O 1
 
 I.- En los
 
 panteones
 
-de: San Román Sta. Lucía Samulá Lerma Panteón
-
-Municipal
+de: San Román Sta. Lucía Samulá Panteón
 
 Siglo XXI
 
-A. Bóveda $836.00 $627.00 $418.00 $418.00 $4,180.00
+A. Bóveda $5,000 $5,000 $5,000 $3,180
 
-B. Cripta $1,045.00 $574.75 $522.50 $470.25 $2,612.50
+B. Cripta $5,000 $5,000 $5,000 $3,180
 
-C. Lote de
+C. Osario $2,090 $2,090 $2,090 $2,090
 
-terreno de
+D. Cremación
 
-2.35 por
+$3,135
 
-1.10 mts. $313.50 $313.50 $313.50 $209.00
-
-D. Osario 627
-
-E. Cremación 3135
-
-F. Sala de
-
-Velación 365.75 $261.25 $209.00
+F. Sala de Velación
 
 II.- En los panteones del interior del Municipio:
 
-A. Bóveda $209.00
+A. Bóveda $209
 
-B. Cripta $209.00
+B. Cripta $209
 
 C. Por metro
 
-cuadrado $52.25
+cuadrado $52
 
-D. Osario $104.50
+D. Osario $104
 
 G R U P O 2
 
@@ -1611,13 +1723,17 @@ cuadrado $32.00
 
 D. Osario $79.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 92.
 
-Por la inscripción de cambio de titular de los derechos a perpetuidad en panteones municipales se pagará dos salarios mínimos diarios vigente de la zona económica correspondiente.
+Por la inscripción de cambio de titular de los derechos en panteones municipales se pagará los salarios mínimos diarios vigentes de la zona económica correspondiente, aplicando a lo determinado en (sic) siguiente tabla:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+GRUPO 1 GRUPO 2 GRUPO 3
+
+7 2 2
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 93.
 
@@ -1629,31 +1745,13 @@ I.- PANTEONES MUNICIPALES.-
 
 G R U P O 1
 
-A.- En los
+A. En los panteones de: San Román Sta. Lucía Samulá Lerma SIGLO XXI
 
-panteones
+1. Bóveda por cinco años 37 a 53 37 a 53 37 a 53 37 a 53 37 a 53
 
-de: San Román Sta. Lucía Samulá Lerma SIGLO XXI
+2. Cripta por cinco años 37 a 53 37 a 53 37 a 53 37 a 53 37 a 53
 
-1. Bóveda
-
-por cinco
-
-años 37 a 53 37 a 53 37 a 53 37 a 53 37 a 53
-
-2. Cripta
-
-por cinco
-
-años 37 a 53 37 a 53 37 a 53 37 a 53 37 a 53
-
-3. Por metro
-
-cuadrado
-
-por cinco
-
-años 21 21 21 21 21
+3. Por metro cuadrado por cinco años 21 21 21 21 21
 
 Se causarán y pagarán estos derechos de acuerdo con el número de veces el salario mínimo diario vigente en el Estado.
 
@@ -1663,9 +1761,7 @@ B. En los panteones del interior del Municipio:
 
 2. Cripta por tres años $62.70
 
-3. Por metro cuadrado,
-
-por tres años $20.90
+3. Por metro cuadrado, por tres años $20.90
 
 4. Fosa común por tres años $31.35
 
@@ -1677,9 +1773,7 @@ A. En los panteones de la Cabecera Municipal:
 
 2. Cripta por tres años $627.00
 
-3. Por metro cuadrado,
-
-por tres años $156.75
+3. Por metro cuadrado, por tres años $156.75
 
 4. Fosa común por tres años EXENTO
 
@@ -1689,9 +1783,7 @@ B. En los panteones del Interior del Municipio:
 
 2. Cripta por tres años $104.50
 
-3. Por metro cuadrado,
-
-por tres años $31.35
+3. Por metro cuadrado, por tres años $31.35
 
 4. Fosa común por tres años EXENTO
 
@@ -1719,61 +1811,13 @@ B. En los panteones del interior del Municipio:
 
 En lo referente a panteones municipales, los refrendos por otros años causarán un pago igual a las cuotas anteriormente establecidas para los grupos 1, 2 y 3.
 
-II. MERCADOS MUNICIPALES.-
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-Por los establecimientos en los mercados municipales por metro cuadrado y por día pagarán conforme a la siguiente:
+###### ARTÍCULO 93-A.
 
-T A R I F A
+Por los establecimientos en los mercados municipales por metro cuadrado y por día pagaran conforme a las siguientes:
 
-GRUPO 1 GRUPO 2 GRUPO 3
-
-A. En los mercados de la Cabecera Municipal:
-
-1. En el interior De $0.75 a $3.70 De $0.75 a $3.70 De $0.53 a $2.10
-
-2. En el exterior De $0.53 a $3.15 De $0.75 a $3.70 De $0.27 a $1.05
-
-3. Uso de bodega
-
-mensualmente. De $63.00 a $94.00 De $63.00 a $94.00 De $31.50 a $47.00
-
-B. En los mercados del interior del municipio:
-
-1. En el interior De $0.37 a $1.83 De $0.37 a $1.83 De $0.27 a $1.05
-
-2. En el exterior De $0.26 a N$1.55 De $0.26 a $1.55 De $0.125 a $0.53
-
-3. Uso de bodega
-
-mensualmente. De $30.35 a $47.00 De $30.35 a $47.00 De $15.70 a $23.50
-
-T A R I F A
-
-GRUPO 1 GRUPO 2 GRUPO 3
-
-A. En los mercados
-
-de la Cabecera Municipal:
-
-1. En el interior De $0.75 a $3.70 De $0.75 a $3.70 De $0.53 a $2.10
-
-2. En el exterior De $0.53 a $3.15 De $0.75 a $3.70 De $0.27 a $1.05
-
-3. Uso de bodega
-
-mensualmente. De $63.00 a $94.00 De $63.00 a $94.00 De $31.50 a $47.00
-
-B. En los mercados
-
-del interior del municipio:
-
-1. En el interior De $0.37 a $1.83 De $0.37 a $1.83 De $0.27 a $1.05
-
-2. En el exterior De $0.26 a N$1.55 De $0.26 a $1.55 De $0.125 a $0.53
-
-3. Uso de bodega
-
-mensualmente. De $30.35 a $47.00 De $30.35 a $47.00 De $15.70 a $23.50
+(VÉASE ARCHIVO ANEXO)
 
 ### CAPITULO SEGUNDO. DERECHOS POR AUTORIZACION Y LICENCIAS DIVERSAS
 
@@ -1801,9 +1845,9 @@ Son sujetos de este derecho, las personas físicas o morales que soliciten y obt
 
 Por los servicios prestados por las Dependencias Municipales autorizadas para tal efecto por el H. Ayuntamiento, se causarán y pagarán en la Tesorería Municipal los siguientes derechos:
 
-#### SECCION SEGUNDA. POR LICENCIA DE URBANIZACION
+#### SECCION PRIMERA. POR LICENCIA DE CONSTRUCCION
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 98.
 
@@ -1817,11 +1861,11 @@ I.- Habitación
 
 popular e interés
 
-social 0.42% 0.42% 0.42%
+social 0.75% 0.42% 0.75%
 
 II.- Habitación
 
-media 0.78% 0.78% 0.78%
+media 1.00% 0.78% 0.75%
 
 III.- Habitación
 
@@ -1829,13 +1873,13 @@ residencial,
 
 comercial
 
-e industrial 1.05% 1.05% 1.05%
+e industrial 1.50% 1.05% 1.50%
 
 IV.- Servicios
 
 (equipamiento
 
-urbano) 1.31% 1.31% 1.31%
+urbano) 2.00% 1.31% 2.00%
 
 El monto de la obra será el que se desprenda del presupuesto que se presente o en su caso las autoridades podrán determinar dicho monto considerando el volumen y las características de la construcción a realizar.
 
@@ -1889,7 +1933,7 @@ o fracción 1.05 1.05 0.52
 
 Para lo previsto en esta sección se estará a lo dispuesto en el Reglamento de Construcciones para el Municipio.
 
-#### SECCION TERCERA. POR LICENCIA DE USO DE SUELO
+#### SECCION SEGUNDA. POR LICENCIA DE URBANIZACION
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1909,9 +1953,9 @@ GRUPO I, 2 (sic) y 3
 
 Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento de Construcciones para el Municipio.
 
-#### SECCION CUARTA. POR LA AUTORIZACION DE USO DE LA VIA PUBLICA
+#### SECCION TERCERA. POR LICENCIA DE USO DE SUELO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 105.
 
@@ -1925,23 +1969,25 @@ casa-habitación
 
 Hasta 65.00 m2
 
-construidos 1.045 1.045 0.5225
+construidos 1.045 1.045 1.045
 
 De 65.10 m2 a
 
-120.00 m2 2.09 2.09 1.045
+120.00 m2 2.09 2.09 2.09
 
 De 120.10 m2
 
-en adelante 3.135 3.135 2.09
+en adelante 3.135 3.135 3.135
 
 II.- Para Comercio e Industria
 
-Económico 1.045 1.045 0.5225
+Económico 1.045 1.045 1.045
 
-Media 2.09 2.09 0
+Media 2.09 2.09 2.09
 
-Alta 4.18 4.18 2.09
+Alta 4.18 4.18 4.18
+
+III.- El importe se determinará multiplicando los metros cuadrados por el número de veces del salario mínimo de la zona geográfica, según el tipo y grupo al que corresponda el inmueble.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1957,19 +2003,23 @@ Dicha licencia será indispensable para iniciar el trámite de la licencia de co
 
 Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento de Construcciones para el Municipio.
 
-#### SECCION QUINTA. POR AUTORIZACION DEL PERMISO DE DEMOLICION DE UNA EDIFICACION
+#### SECCION CUARTA. POR LA AUTORIZACION DE USO DE LA VIA PUBLICA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 108.
 
-Pagarán derechos por uso de la vía pública, las personas físicas o morales que hagan uso de plazas, portales, calles y demás vías o lugares públicos, para la instalación de puestos fijos o ambulantes, aparatos que funcionen con monedas o fichas, instalaciones subterraneas, o para la realización de cualquier actividad comercial, industrial o de prestación de servicios, sea de forma permanente o temporal, de acuerdo al número de veces el salario mínimo general diario vigente en el Estado, conforme a las siguientes
+Pagarán derechos por uso de la vía pública, las personas físicas o morales que hagan uso de plazas, portales, calles y demás vías o lugares públicos, para la instalación de puestos fijos o ambulantes, aparatos que funcionen con monedas o fichas, instalaciones subterraneas, o para la realización de cualquier actividad comercial, industrial o de prestación de servicios, sea de forma permanente o temporal, de acuerdo al número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 T A R I F A
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
-1.00 A 30.00 1.00 A 30.00 1.00 A 30.00
+1.00 A 60.00 1.00 A 30.00 1.00 A 30.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 Los derechos a que se refiere este artículo se cobrará (sic) por metro cuadrado, lineal o fracción que exceda.
 
@@ -2005,7 +2055,7 @@ El pago de los derechos previstos en la presente sección, según corresponda, s
 
 Para lo no previsto en esta sección se estará a lo dispuesto en los Reglamentos correspondientes del Municipio respectivo.
 
-#### SECCION SEXTA. POR AUTORIZACION DE ROTURA DE PAVIMENTO
+#### SECCION QUINTA. POR AUTORIZACION DEL PERMISO DE DEMOLICION DE UNA EDIFICACION
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2033,7 +2083,7 @@ De 80.10 en adelante 3.14 3.14 3.14
 
 Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento de Construcciones para el Municipio.
 
-#### SECCION SEPTIMA. POR LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD
+#### SECCION SEXTA. POR AUTORIZACION DE ROTURA DE PAVIMENTO
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2049,65 +2099,157 @@ Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento 
 
 > <small>(ADICIONADA CON LOS ARTÓCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
+#### SECCION SEPTIMA. POR LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 116.
 
-Las personas físicas o morales tenedoras o usuarias o beneficiarias de anuncios, carteles o publicidad, en la vía pública o visibles desde la vía pública, o en vehículos de servicio público de pasajeros, así como por difusión fonética, previamente a su autorización requerirán de licencias, permisos o autorizaciones para su instalación y uso de conformidad con la reglamentación municipal correspondiente.
+Las personas físicas o morales tenedoras o usuarias o beneficiarias de anuncios, carteles o publicidad o propaganda, en la vía pública o visibles desde la vía pública, o en vehículos de servicio público de pasajeros, así como por difusión fonética, gráfica o electrónica, previamente a su autorización requerirán de licencias, permisos o autorizaciones para su instalación y uso de conformidad con la reglamentación municipal correspondiente.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 117.
 
-La base para el pago de derechos, por las licencias, permisos o autorizaciones, será por anuncios o carteles de pared o adosados al piso o azotea; publicidad en casetas telefónicas, así como de mantas atravesando calles o banquetas que sean aseguradas a fachadas, árboles o postes; por hora y unidad de sonido cuando se trate de difusión fonética y por anuncio en los casos de vehículos de servicio público de pasajeros, los cuales se causarán y pagarán de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+La base para el pago de derechos, por las licencias, permisos o autorizaciones, será por anuncios o carteles de pared o adosados al piso o azotea; publicidad en casetas telefónicas aunque esta sea de la misma empresa que presta el servicio, así como de mantas atravesando calles o banquetas que sean aseguradas a fachadas, árboles o postes, cuyo pago será por metro cuadrado, de igual manera será objeto de este cobro aquellos que para ser observados sean sostenidos por personas, estén o no para ello en la vía pública; por hora aunque se trate de fracción de tiempo y unidad de sonido cuando se trate de difusión fonética y por anuncio en los casos de vehículos de servicio público de pasajeros o particulares, los cuales se causarán y pagarán de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
 T A R I F A
 
-GRUPOS 1 2 3
+GRUPO 1 2 3
 
-I.- De pared, adosados al piso o azotea
+I.- De pared, en panel de vidrio, adosados al piso o azotea:
 
 A. Pintados 1.05
 
-B. Luminosos 5.23
+B. Fijados o adheridos 1.05
 
-C. Giratorios 2.09
+C. Luminosos 5.23
 
-D. Electrónicos 10.45
+D. Giratorios 2.09
 
-E. Tipo bandera 1.57
+E. Electrónicos 10.45
 
-F. Mantas en propiedad
+F. Tipo bandera 1.57
+
+G. Mantas en propiedad
 
 privada 2.09
 
-G. Bancas y cobertizos
+H. Bancas y cobertizos
 
 publicitarios 2.09
 
-H. Torre tipo directorio dentro
+I. Torre tipo directorio dentro de centros comerciales:
 
-de centros comerciales EXENTO
+Pintado, fijado o adherido
 
-I. Mantas atravesando calles
+hasta 3 metros de altura: 5.00
 
-o banquetas, O fijadas a
+Pintado, fijado o adherido
 
-árboles o postes 3.14
+más de 3 metros de altura: 8.5
 
-J. Publicidad en casetas
+Luminoso hasta 3 metros
 
-telefónicas, por caseta 2.00
+de altura 7.5
 
-II.- Por cada anuncio colocado en vehículos de servicio público de pasajeros de ruta fija, urbano, suburbano y foráneo.
+Luminoso más de 3 metros
 
-A. En el exterior del vehículo 2.09
+de altura 13.45
 
-B. En el interior de la unidad 1.05
+Electrónico hasta 3 metros
 
-III.- Por difusión fonética de
+de altura 10.00
 
-publicidad en la vía pública por
+Electrónico más de 3 metros
 
-hora y por unidad de sonido 1.05
+de altura 15.00
+
+J. Tipo Tótem:
+
+Pintado, fijado o adherido
+
+hasta 3 metros de altura: 5.00
+
+Pintado, fijado o adherido
+
+más de 3 metros de altura: 8.5
+
+Luminoso hasta 3 metros
+
+de altura 7.5
+
+Luminoso más de 3 metros
+
+de altura 13.45
+
+Electrónico hasta 3 metros
+
+de altura: 10.00
+
+Electrónico más de 3 metros
+
+de altura: 15.00
+
+K. Mantas atravesando calles
+
+o banquetas, o fijadas a
+
+árboles o postes: 3.14
+
+L. Publicidad en casetas
+
+telefónicas, por cada
+
+anuncio en caseta 2.00
+
+M. Publicidad en Paraderos, por cada anuncio:
+
+Pintado o publicidad
+
+adherida 3.00
+
+Luminosos 5.00
+
+Electrónicos 7.5
+
+II.- Por cada anuncio colocado en vehículos de servicio público de pasajeros de ruta fija, urbana, suburbana y foránea
+
+A. En el exterior del
+
+vehículo y 5
+
+Tratándose de cuerpos
+
+adheridos al techo
+
+del mismo 8
+
+B. En el interior de
+
+la unidad 2.00
+
+III. De servicio particular 4
+
+IV.- Por difusión fonética
+
+de publicidad en la vía
+
+pública por hora y por
+
+unidad de sonido 3.5
+
+V. Por difusión de
+
+publicidad con anuncios
+
+electrónicos no sonoros
+
+en la vía pública por
+
+hora y por unidad móvil 3.5
+
+VI. Todos aquellos que no se encuentren relacionados en las fracciones I a IV, estarán sujetos a lo que disponga la autoridad municipal competente, acorde a su naturaleza y magnitud.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2123,7 +2265,7 @@ El derecho a que alude esta sección se causará de forma mensual, conforme a la
 
 Al término de la licencia, permiso o autorización, los anuncios deberán ser retirados o despintados, según sus características, salvo que se obtenga nueva licencia.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 120.
 
@@ -2131,9 +2273,9 @@ No se causarán estos derechos cuando se trate de la siguiente publicidad:
 
 I. La que se realice por medio de televisión, radio, periódicos o revistas;
 
-II. Por los anuncios que correspondan a nombre, denominación o razón social del negocio, colocados en las fachadas de las fincas o establecimientos del mismo; y
+II. Por la colocación de un letrero o anuncio del nombre, denominación o razón social del negocio o establecimiento, el cual deberá estar colocado en el marco superior de la entrada o acceso principal de las fincas o establecimientos del mismo, siempre y cuando no excedan el ancho del referido marco; no aplicará este beneficio si excede de dichas dimensiones, así como la publicidad adicional, mismas que se sujetarán a las tarifas establecidas en el artículo 117; y
 
-III. Las que realicen las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficiencia (sic) públicas; las iglesias y las de carácter cultural.
+III. Las que realicen las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficencia públicas; las iglesias y las de carácter cultural no comercial.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2187,37 +2329,27 @@ Para lo no previsto en este capítulo se estará a lo dispuesto en el Reglamento
 
 ### CAPITULO QUINTO. POR LA EXPEDICION DE CERTIFICADOS, CERTIFICACIONES CONSTANCIAS Y DUPLICADOS DE DOCUMENTOS
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 128.
 
-Será objeto de este derecho, la expedición por parte de servidores públicos municipales de toda clase de certificados, certificaciones, constancias y duplicados de documentos existentes en los archivos de las oficinas municipales, los cuales causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo diario vigente de la zona o porcentaje respectivamente, según lo establece la siguiente:
+Será objeto de este derecho, la expedición por parte de servidores públicos municipales toda clase de certificados, certificaciones, constancias y duplicados de documentos, los cuales causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo diario vigente de la zona o porcentaje respectivamente, según lo establece la siguiente:
 
 T A R I F A
 
-GRUPO 1 GRUPO 2 GRUPO 3
+I.- Por certificado de no adeudar 2.09
 
-I.- Por certificado de
+II.- Por certificado de no causar 2.09
 
-no adeudar 2.09 2.09 1.00
+III.- Por certificado de seguridad
 
-II.- Por certificado de
+del lugar de consumo de explosivos,
 
-no causar 2.09 2.09 1.00
+radiactivos, artificios o sustancias
 
-III.- Por certificado de
+relacionadas con los mismos,
 
-seguridad del lugar de
-
-consumo de explosivos,
-
-radiactivos, artificios o
-
-sustancias relacionadas
-
-con los mismos, se causará
-
-sobre el valor de factura. 10.45% 10.45% 10.45%
+se causará sobre el valor de factura. 10.45%
 
 IV.- Por certificados de
 
@@ -2225,53 +2357,31 @@ seguridad de polvorines o
 
 almacenes, se causará
 
-sobre el valor de los
+sobre el valor de los (sic) 1.05%
 
-materiales. 1.05% 1.05% 1.05%
+V.- Por certificación de medidas, colindancias y superficies de inmuebles inscritos en el Padrón Catastral, se causará sobre el valor catastral del predio:
 
-V.- Por certificación de
-
-medidas, colindancias y
-
-superficies de inmuebles
-
-inscritos en el Padrón
-
-Catastral, se causará
-
-sobre el valor catastral
-
-del predio:
-
-Hasta $10000.00 2.09 2.09 2.09
-
-Por cada $1000.00
-
-o fracción 0.21% 0.21% 0.21%
-
-VI.- Los certificados que
-
-tengan por objeto acreditar
-
-el valor catastral de la
-
-propiedad raíz, pagarán:
-
-Hasta $10,000.00 2.09 2.09 2.09
+Hasta $10,000.00 2.09
 
 Por cada $1,000.00
 
-o fracción 0.21% 0.21% 0.21%
+o fracción 0.21%
+
+VI.- Los certificados que tengan por objeto acreditar el valor catastral de la propiedad raíz,
+
+Hasta $10,000.00 2.09
+
+Por cada $1,000.00 o fracción 0.21%
 
 VII.- Por constancia de
 
 alineamiento y/o número
 
-oficial 2.09 2.09 2.09
+oficial 2.09
 
 VIII.- Por duplicados
 
-de documentos 2.09 2.09 2.09
+de documentos 2.09
 
 IX.- Por los demás
 
@@ -2279,7 +2389,7 @@ certificados,
 
 certificaciones y
 
-constancias 2.09 2.09 2.09
+constancias 1 a 3
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2012)</small>
 
@@ -2401,33 +2511,13 @@ Los H. Ayuntamientos podrán dar en arrendamiento sus bienes muebles e inmuebles
 
 ### CAPITULO TERCERO. POR USO DE ESTACIONAMIENTOS Y BAÑOS PUBLICOS
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 136.
 
-Por el uso de estacionamientos públicos propiedad de los HH. Ayuntamientos, para vehículos automotores, causarán y pagarán de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+Por el uso de estacionamientos públicos propiedad de los HH. Ayuntamientos, para vehículos automotores, causarán y pagarán 5 pesos por hora y 50 pesos por día.
 
-TARIFA
-
-GRUPO 1 GRUPO 2 GRUPO 3
-
-I. Por la primera hora 0.07315 0.07315
-
-II. De 2,3 y 4 horas 0.03135 0.03135
-
-III. Las subsecuentes 0.01045 0.01045
-
-IV. Por día 0.44935 0.44935
-
-V. Por hora 0.0836
-
-Asimismo, por el uso de baños públicos, administrados por los Ayuntamientos se pagará en pesos la siguiente:
-
-T A R I FA
-
-GRUPO 1 GRUPO 2 GRUPO 3
-
-3 3 3
+Asimismo, por el uso de baños públicos, administrados por los Ayuntamientos se pagará 3 pesos.
 
 ### CAPITULO CUARTO. UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACION MUNICIPAL Y FIDEICOMISOS
 
@@ -2462,6 +2552,14 @@ I. Infracciones a las disposiciones reglamentarias de los servicios públicos mu
 II. Infracciones a las leyes fiscales municipales; y
 
 III. Infracciones a los Reglamentos, Bandos y demás disposiciones de carácter municipal.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 139 A.- Las infracciones por faltas administrativas serán establecidas por la dependencia administrativa a que corresponda la materia objeto de la infracción y se turnarán a la Tesorería Municipal, la cual con base en tabuladores elaborados con anterioridad calculará y percibirá el ingreso derivado de la infracción.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 139 B.- Una vez turnadas las infracciones a la Tesorería Municipal, éstas no podrán ser modificadas, salvo que el interesado compruebe su improcedencia a satisfacción, tanto del área que maneja la materia objeto de la misma, como de la Tesorería Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2770,3 +2868,11 @@ P.O. 20 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente decreto entrará en vigor el día 1 de enero del 2014 previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.-Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2013.
+
+Primero.- El presente decreto entrará en vigor el día uno de enero del año dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+Tercero.- Cuando el contenido de esta Ley se refiera al Código Fiscal del Estado, se entenderá que se remite al Código Fiscal Municipal del Estado de Campeche, y sólo en el caso que la figura, instrumento o término correspondiente, no se encontrare regulado por el citado Código, se aplicará supletoriamente el Código Fiscal del Estado.
