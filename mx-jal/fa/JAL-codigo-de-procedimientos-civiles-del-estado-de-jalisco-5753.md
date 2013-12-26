@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2011-12-27"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -3586,9 +3586,11 @@ Los documentos privados cuya comprobación se obtenga por medio de testigos, ten
 
 El documento que un litigante presente, prueba plenamente en su contra, en todas sus partes, aunque el colitigante no lo reconozca.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 406 bis.- La información que conste en medios electrónicos, ópticos o en cualquier otra tecnología, con la utilización de firma electrónica certificada hará prueba siempre y cuando se haya otorgado en los términos de la Ley de la materia y tendrá el valor a que se refieren los artículos 403 y 406 del presente Código.
+###### ARTICULO 406
+
+BIS.- La información que conste en medios electrónicos, ópticos o en cualquier otra tecnología, con la utilización de firma electrónica en los términos de la Ley estatal aplicable, hará prueba siempre y cuando se haya otorgado en los términos de la Ley de la materia y tendrá el valor a que se refieren los artículos 403 y 406 del presente Código.
 
 ###### ARTICULO 407.
 
@@ -4562,9 +4564,7 @@ IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola en
 
 V.- Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales;
 
-VI.- Las armas y caballos que los militares en servicio activo usen, indispensables para éste conforme a las leyes relativas;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 VI.- Las armas y caballos que los militares en servicio activo usen, indispensables para éste conforme a las leyes relativas;
 
@@ -8969,3 +8969,25 @@ P.O. 27 DE DICIEMBRE DE 2011.
 DECRETO No. 23933/LIX/11, POR EL QUE SE REFORMAN LOS ARTÍCULOS 477, 504, 506 Y 508 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de la Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios.
+
+TERCERO. El Gobernador del Estado de Jalisco expedirá, dentro de los cuarenta y cinco días hábiles siguientes a la publicación del presente Decreto, el Reglamento de la Ley de la Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.
+
+CUARTO. La Secretaría General de Gobierno y demás autoridades obligadas deberán emitir los lineamientos aplicables, dentro de los cuarenta y cinco días hábiles siguientes a la expedición del Reglamento referido en el artículo anterior.
+
+QUINTO. Se faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento de este decreto.
+
+SEXTO. Se faculta a la Secretaría de Desarrollo Económico del Gobierno del Estado, para que se lleve a cabo los procesos de mejora regulatoria necesarios para el cumplimiento del decreto.
+
+SÉPTIMO. El Gobierno del Estado de Jalisco deberá celebrar con la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, los convenios que resulten necesarios para el cumplimiento de los fines de este decreto.
+
+OCTAVO. Cuando otros ordenamientos legales del Estado de Jalisco se refieran a la firma electrónica certificada, se entenderá que alude a la firma electrónica avanzada.
+
+NOVENO. La vigencia de los certificados electrónicos a que se refiere el artículo 13 fracción VI, será de dos años hasta en tanto se cuente con las condiciones humanas, financieras y tecnológicas para que su vigencia pueda ser de cuatro años. Cuando se cuente con tales condiciones, el titular del Poder Ejecutivo deberá expedir un acuerdo que se publicará en el Periódico Oficial "El Estado de Jalisco".
+
+DÉCIMO. Los certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.
