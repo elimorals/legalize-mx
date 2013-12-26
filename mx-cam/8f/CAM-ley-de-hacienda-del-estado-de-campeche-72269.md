@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2012-12-26"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -49,9 +49,11 @@ La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir l
 
 La Hacienda Pública del Estado de Campeche se compone:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas; sobre la extracción de materiales del suelo y subsuelo; sobre nóminas; sobre servicios de hospedaje; sobre loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos; y sobre tenencia o uso de vehículos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+I.- De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas; sobre la extracción de materiales del suelo y subsuelo; sobre nóminas; sobre servicios de hospedaje; sobre loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos; sobre tenencia o uso de vehículos; adicional para preservación del patrimonio cultural, infraestructura y deporte y; a la venta final de bebidas con contenido alcohólico;
 
 II.- De los ingresos provenientes de los derechos derivados de la prestación de servicios públicos;
 
@@ -259,11 +261,13 @@ Son objeto de este impuesto, las erogaciones o pagos, en efectivo o en especie p
 
 Para los efectos de este impuesto, quedan comprendidas dentro de las erogaciones a que se refiere el párrafo anterior, todas las prestaciones o contraprestaciones cualquiera que sea el nombre con el que se les designe, ya sean ordinarias o extraordinarias que deriven de una relación laboral, incluyendo salarios, sueldos, sobresueldos, anticipos, viáticos, gastos de representación, aguinaldo, comisiones, premios, gratificaciones, rendimientos, ayudas para despensa, participación de los trabajadores en las utilidades de las empresas, aportación patronal al fondo de ahorro, primas vacacionales, dominicales, por antigüedad y previsión social en los términos del Código Fiscal del Estado, ayudas habitacionales, así como cualquier otra erogación realizada por conceptos de naturaleza análoga.
 
-Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia, consultivos o de cualquier otra índole en toda clase de sociedades y asociaciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Son también objeto de este impuesto, los pagos realizados a las personas por los servicios que presten preponderantemente a un prestatario, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de este último por los que no se deba pagar el impuesto al valor agregado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-Para efectos del párrafo anterior, se entiende que una persona presta servicios preponderantemente a un prestatario, cuando los ingresos que hubiera percibido de dicho prestatario en el año de calendario inmediato anterior, representen más del cincuenta por ciento del total de los ingresos obtenidos por la prestación de servicios independientes.
+Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia, consultivos o de cualquier otra índole en toda clase de sociedades o asociaciones, así como los que se efectúen a las personas, por los servicios que presten a un prestatario, por lo que no se deba pagar el impuesto al valor agregado.
+
+> <small>(N. DE E. DEL ANÁLISIS AL DECRETO PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL CONTENIDO DE LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO QUE CONFORMABAN EL ARTÍCULO 20, QUEDARON INMERSOS EN EL ACTUAL PÁRRAFO TERCERO; AUNADO A QUE EN DICHA PUBLICACIÓN NO SE PRECISA CON PUNTOS SUSPENSIVOS LA EXISTENCIA DE UN CUARTO PÁRRAFO)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
@@ -283,7 +287,11 @@ También quedan comprendidos como sujetos de este impuesto, la Federación, el E
 
 Cuando en la contratación de trabajadores para un patrón, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral, cualquiera que sea la denominación que patrón e intermediarios asuman, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en este capítulo.
 
-No serán considerados intermediarios, sino patrones, las empresas establecidas que presten servicios a otras, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14 y 15 de la Ley Federal del Trabajo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+No serán considerados intermediarios, sino patrones, las personas establecidas que presten servicios a otras, para ejecutarlos como elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14, 15 y 15-A de la Ley Federal del Trabajo.
 
 Sin perjuicio de lo dispuesto en los párrafos anteriores, cuando un patrón o sujeto obligado, cualquiera que sea su personalidad jurídica o su naturaleza económica, en virtud de un contrato, cualquiera que sea su forma o denominación, como parte de las obligaciones contraídas, ponga a disposición trabajadores u otros sujetos de aseguramiento para que ejecuten los servicios o trabajos acordados bajo la dirección del beneficiario de los mismos, en las instalaciones que éste determine, el beneficiario de los trabajos o servicios asumirá las obligaciones establecidas en este capítulo en relación con dichos trabajadores, en el supuesto de que el patrón omita su cumplimiento, siempre y cuando la Secretaría de Finanzas hubiese notificado previamente al patrón el requerimiento correspondiente y éste no lo hubiera atendido.
 
@@ -569,6 +577,26 @@ IV. Quienes obtengan premios derivados de las loterías, rifas, sorteos o concur
 
 V. Quienes obtengan premios derivados de juegos permitidos con cruce o captación de apuestas, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por quien organice, realice o explote los eventos, o por quien reciba, registre, cruce o capte las apuestas, debiendo proporcionar la constancia de retención correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+VI.- En el caso de juegos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares que se utilicen para apostar en sustitución de cantidades de dinero sean aceptadas para esos fines por la persona que realice el juego de que se trate, la tasa del 6% se aplicará sobre el monto total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+VII.- Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como base para el cálculo del impuesto, el valor nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente.
+
+Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+VIII.- Cuando en alguna lotería, rifa, sorteo, concurso o juego, el premio ofrecido se encuentre contenido de manera referenciada y oculta en bienes cuya adquisición otorgue el derecho a participar en cualquiera de ellos, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en esa lotería, rifa, sorteo, concurso o juego.
+
 #### SECCIÓN QUINTA. DEL PAGO
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
@@ -611,9 +639,23 @@ I.- Presentar ante las autoridades fiscales competentes, los avisos y declaracio
 
 II.- Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones y proporcionar cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio;
 
-III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código Fiscal del Estado.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+IV.- Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código Fiscal del Estado; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+V.- Llevar un registro de los clientes y usuarios con quienes realicen las actividades, que permita identificar en forma diaria el monto de los billetes, boletos o contraseñas, apuestas y los premios obtenidos en efectivo, en especie o el valor de los servicios que se obtengan por la celebración de lotería, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos. Este registro formará parte de la contabilidad del contribuyente.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -649,7 +691,35 @@ c).- Tratándose de sorteos, cuando todos los participantes obtengan dicha calid
 
 #### SECCIÓN CUARTA. DEL PAGO Y OBLIGACIONES
 
-### CAPÍTULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
+#### SECCIÓN PRIMERA. DEL OBJETO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN TERCERA. DE LA BASE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO VII. IMPUESTO ADICIONAL PARA LA PRESERVACIÓN DEL PATRIMONIO CULTURAL, INFRAESTRUCTURA Y DEPORTE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN CUARTA. DE LA TASA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 41.
 
@@ -666,6 +736,12 @@ b) Cuando el domicilio fiscal en materia federal del tenedor o usuario del vehí
 c) En su defecto, cuando el domicilio del contribuyente se encuentre en el Estado.
 
 Para los efectos de esta Ley, se presume que el propietario es el tenedor o usuario del vehículo.
+
+#### SECCIÓN QUINTA. DEL PAGO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 42.
 
@@ -690,6 +766,12 @@ Los contribuyentes comprobarán el pago del impuesto con la forma o recibo ofici
 IV. Las autoridades de inspección de seguridad a embarcaciones, cuando al expedir la documentación correspondiente, el tenedor o usuario del vehículo no comprueben el pago del Impuesto Sobre Tenencia o Uso de Vehículos a que se refiere este Capítulo, a excepción de los casos en que se encuentre liberado de ese pago.
 
 De comprobarse que no se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento a la Secretaria de Finanzas.
+
+#### SECCIÓN SEXTA. DE LAS OBLIGACIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 45.
 
@@ -769,9 +851,11 @@ VEHÍCULOS USADOS
 
 Tratándose de vehículos usados de fabricación nacional o importada, el impuesto se determinará conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up, cuyo valor total no rebase el equivalente a 6, 334 salarios mínimos del área geográfica a la que corresponde el Estado; el impuesto se determinará multiplicando el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de años de antigüedad que corresponda, de acuerdo con la siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up, cuyo valor total no rebase el equivalente a 6, 334 salarios mínimos del área geográfica a la que corresponde el Estado; el impuesto se determinará multiplicando el valor total del vehículo señalado en la factura de origen por el factor de años de antigüedad que corresponda, de acuerdo con la siguiente:
 
 TABLA
 
@@ -901,6 +985,12 @@ VII.- Tratándose de vehículos de más de 10 años modelos anteriores al de apl
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán en base al número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
+#### SECCIÓN SÉPTIMA. DEL DESTINO DEL IMPUESTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 48.
 
 Los contribuyentes pagarán el impuesto por año calendario durante los tres primeros meses de cada año, salvo en el caso de vehículos cuya inscripción al Registro Estatal Vehicular se realice por primera vez, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se realice la inscripción al referido Registro, se solicite permiso provisional para circulación o en traslado, o dentro de los quince días siguientes al de enajenación del vehículo; lo que ocurra primero.
@@ -975,11 +1065,19 @@ Para efecto del impuesto establecido en este Capítulo, se entiende por:
 
 I.- Vehículo nuevo:
 
-a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+a).- El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos, sin que haya sido inscrito en el registro estatal de vehículos.
 
 b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación del impuesto establecido en este Capítulo, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al del año de la importación definitiva, y
 
-II.- Valor total del vehículo, es el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Autoridad competente como empresa autorizada para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+II.- Valor total del vehículo, es el precio de enajenación señalado en la factura de origen emitida por el fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Autoridad competente como empresa autorizada para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
 En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo;
 
@@ -1053,13 +1151,203 @@ II.- Conservar a disposición de las autoridades fiscales, acreditar y exhibir c
 
 III.- Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código Fiscal del Estado.
 
-### CAPÍTULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO VIII. DEL IMPUESTO ESTATAL A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN PRIMERA. DEL OBJETO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 53-A.
+
+El objeto de este impuesto lo constituyen los pagos que se deban efectuar por concepto del impuesto sobre nóminas establecido en esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 53-B.
+
+Son sujetos de este impuesto, los contribuyentes que deban realizar los pagos señalados en el artículo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN TERCERA. DE LA BASE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 53-C.
+
+La base de este impuesto, la constituirá el monto total del pago que deban realizar los contribuyentes por el concepto a que se refiere el artículo 53-A de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN CUARTA. DE LA TASA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 53-D.
+
+El impuesto se determinará aplicando a la base gravable que establece el artículo anterior, la tasa del 33 %.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN QUINTA. DEL PAGO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 53-E.
+
+El pago de este impuesto, se realizará conjuntamente y en el momento en que deban efectuarse los pagos por el concepto a que se refiere el artículo 53-A.
+
+Los sujetos de este impuesto efectuarán su pago en la oficina recaudadora correspondiente y en las Instituciones Bancarias o en los medios que la Secretaría de Finanzas tenga autorizados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN SEXTA. DE LAS OBLIGACIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 53-F.
+
+Los sujetos contribuyentes de este impuesto tendrán las obligaciones señaladas en el presente capítulo y en el Código Fiscal del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 53-G.
+
+Los ingresos que se obtengan de la recaudación del Impuesto establecido en este Capítulo se destinarán a la preservación del patrimonio cultural del Estado, infraestructura y deporte, así mismo podrán utilizarse como fuente de financiamiento para su aportación en convenios de coordinación, reasignación o paripassu con el gobierno federal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
+
+###### Artículo 53-H.
+
+El objeto de este impuesto la venta final de bebidas con contenido alcohólico en envase cerrado, llevada a cabo en territorio del Estado de Campeche, excepto cerveza.
+
+Para efecto de este Capítulo, se considerarán bebidas con contenido alcohólico aquellas definidas con tal carácter en la Ley del Impuesto Especial Sobre Producción y Servicios.
+
+Se entiende que la venta se efectúa en territorio del Estado, si en él se lleva a cabo la entrega material de la bebida.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 53-I.
+
+Son sujetos de este impuesto, las personas físicas o morales que realicen en territorio del Estado la venta final en envase cerrado de bebidas con contenido alcohólico, excepto cerveza.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 53-J.
+
+La base del Impuesto es el precio percibido por la venta de las bebidas señaladas en el artículo anterior, sin incluir los impuestos al valor agregado, ni especial sobre producción y servicios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 53-K.
+
+La tasa del impuesto será del 4.5 por ciento sobre el ingreso percibido por la venta de las bebidas objeto de este impuesto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 53-L.
+
+Los contribuyentes del presente impuesto, pagarán el mismo sin que proceda acreditamiento alguno contra dicho pago.
+
+Cuando la contraprestación que perciba el contribuyente por la venta de las bebidas no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en este capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 53-M.
+
+El impuesto se calculará mensualmente y se enterará al Estado a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago. Los pagos mensuales se realizarán en los términos que para el pago de contribuciones se establecen en el Código Fiscal del Estado, y tendrán el carácter de definitivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 53-N.
+
+Los distribuidores o comerciantes que enajenen las bebidas a que se refiere el artículo 53-I, a quienes a su vez venderán en envase cerrado las citadas bebidas, estarán obligados a llevar un registro mensual de estas personas, y deberán recabar de ellos y conservar una copia del registro ante el Estado de la obligación a que se refiere el artículo 53-Q fracción II.
+
+Quienes no cumplan con la obligación señalada en el párrafo anterior, serán responsables solidarios del impuesto que se dejare de pagar respecto de las bebidas enajenadas por ellos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 53-O.
+
+Para los efectos de este impuesto, también se considerará venta final, el faltante de inventario o el consumo propio de las bebidas referidas en el artículo 53-I.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 53-P.
+
+El impuesto se causa en el momento en el que se perciban los ingresos derivados de la venta y sobre el monto de lo pagado. Cuando las contraprestaciones se paguen parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación pagada, la tasa respectiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 53-Q.
+
+Los contribuyentes de este impuesto tienen, además de las obligaciones señaladas en este capítulo y en las demás disposiciones fiscales, las siguientes:
+
+I.- Presentar las declaraciones relativas al impuesto previsto en el presente capítulo. Si un contribuyente tuviera varios establecimientos en el Estado, presentará una declaración por cada establecimiento, o bien una concentrada por todo el Estado.
+
+II.- Registrar la obligación de pago del presente impuesto y los establecimientos en los que se realicen las actividades gravadas, ante las oficinas recaudadoras del Estado respectiva, dentro de los 15 días siguientes a que inicie operaciones o a que empiece a enajenar las bebidas señaladas en el artículo 53-I.
 
 ## TÍTULO TERCERO. DE LOS DERECHOS
 
-### CAPÍTULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PÚBLICOS NOTARIALES
+### CAPÍTULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO
 
 ###### ARTÍCULO 54.
 
@@ -1155,7 +1443,7 @@ b) Cambio del Régimen Patrimonial 25
 
 El pago de los derechos que establece el artículo anterior, deberá hacerse por el contribuyente, previamente a la prestación de los servicios.
 
-### CAPÍTULO V. POR EXPEDICIÓN DE TÍTULOS
+### CAPÍTULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
 
 ###### ARTÍCULO 56.
 
@@ -1317,7 +1605,7 @@ XXVI.- Por la verificación de constancia de aviso
 
 de testamento 1
 
-### CAPÍTULO VI. POR EL USO O APROVECHAMIENTO DE BIENES PROPIEDAD DEL ESTADO O DE BIENES CONCESIONADOS AL ESTADO
+### CAPÍTULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PÚBLICOS NOTARIALES
 
 ###### ARTÍCULO 57.
 
@@ -1411,7 +1699,7 @@ No se cobrarán costos de envío cuando el solicitante manifieste expresamente e
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPÍTULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARÍAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y SUS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
+### CAPÍTULO V. POR EXPEDICIÓN DE TÍTULOS
 
 ###### ARTÍCULO 61.
 
@@ -1493,7 +1781,7 @@ Por escrituras no especificadas en las que no se determine interés pecuniario a
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPÍTULO VIII. POR AUTORIZACIÓN PARA EL FUNCIONAMIENTO, EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHÓLICAS
+### CAPÍTULO VI. POR EL USO O APROVECHAMIENTO DE BIENES PROPIEDAD DEL ESTADO O DE BIENES CONCESIONADOS AL ESTADO
 
 ###### ARTÍCULO 68.
 
@@ -1527,7 +1815,7 @@ b) Revalidación de títulos 1
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+### CAPÍTULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARÍAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y SUS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
 ###### ARTÍCULO 70.
 
@@ -1561,7 +1849,7 @@ Autobuses de más de 30 pasajeros 60.00
 
 El cobro de los derechos señalados aplicarán en los términos, tramos, modalidades y condiciones que señala la Ley que Establece Disposiciones para el Tránsito en el Camino de Acceso a la Zona Arqueológica de Calakmul, publicada en el Periódico Oficial del Estado, en fecha 29 de diciembre de 1994.
 
-### CAPÍTULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+### CAPÍTULO VIII. POR AUTORIZACIÓN PARA EL FUNCIONAMIENTO, EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHÓLICAS
 
 ###### ARTÍCULO 72.
 
@@ -1865,7 +2153,173 @@ carácter informativo prevista en el artículo
 
 17 del Código Fiscal del Estado de Campeche . 3
 
-### CAPÍTULO III. POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+XXIV.- Por los servicios prestados en materia de concesiones de transporte público.
+
+Concepto Salario Mínimo
+
+General
+
+Diario Vigente
+
+a) Por el estudio y, en su caso, trámite de la
+
+solicitud de concesión de servicio público o
+
+especial de transporte en cualquiera de sus
+
+modalidades o por su regulación. 100
+
+b) Por el refrendo de una concesión de servicio
+
+público de transporte en la modalidad de
+
+servicio colectivo. 180
+
+c) Por el refrendo de una concesión de servicio
+
+público de transporte en la modalidad de taxi,
+
+carga general, volteo, salvamento y arrastre; así
+
+como de servicio especial de transporte en
+
+cualquiera de sus modalidades. 100
+
+d) Por la expedición de un nuevo título de
+
+concesión de servicio público o especial de
+
+transporte en cualquiera de sus modalidades,
+
+con motivo del cambio de titular por la incapacidad
+
+física o mental, declaración de ausencia
+
+o fallecimiento de concesionario. 80
+
+e) Por la consolidación de una concesión de
+
+servicio público de transporte en cualquiera de sus
+
+modalidades, a solicitud de parte interesada. 120
+
+f) Por la reposición de un título de concesión
+
+de servicio público o especial de transporte en
+
+cualquiera de sus modalidades. 80
+
+g) Por la revisión física y mecánica de los
+
+vehículos destinados al servicio público o
+
+especial de transporte en cualquiera de sus
+
+modalidades, tanto para el refrendo anual de una
+
+concesión, como para el alta o baja de vehículos
+
+concesionados o con permiso. 5
+
+h) Por la tramitación, estudio de campo y
+
+diagnóstico de factibilidad para autorización
+
+de modificación o creación de ruta de transporte
+
+público colectivo. 50
+
+i) Por la modificación o creación de ruta de
+
+transporte público colectivo. 50
+
+j) Por la expedición de la identificación de conductor
+
+de vehículo de servicio público o especial de transporte
+
+en cualquiera de sus modalidades. 300
+
+k) Por el resello de la identificación de conductor
+
+de vehículo de servicio público de transporte de
+
+personas en cualquiera de sus modalidades. 20
+
+l) Por la tramitación y expedición de un permiso
+
+temporal de hasta por seis meses, de un servicio
+
+de transporte público o especial de transporte
+
+en cualquiera de sus modalidades, cuando exista
+
+una necesidad de servicio inmediata o emergente.
+
+En el caso de que la vigencia de la autorización sea
+
+menor se cobrará la parte proporcional. 60
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+XXV.- Por los servicios relativos al Registro Público de Transporte, se causarán y pagarán los derechos siguientes:
+
+Concepto Salario Mínimo
+
+General
+
+Diario Vigente
+
+a) Por la inscripción del concesionario
+
+de servicio público o especial de transporte,
+
+en cualquiera de sus modalidades, así como
+
+por la modificación de su datos en dicho registro. 10
+
+b) Inscripción de título de concesión de
+
+servicio público o especial de transporte,
+
+en cualquiera de sus modalidades. 10
+
+c) Expedición de constancia de concesión de
+
+servicio público o especial de transporte,
+
+en cualquiera de sus modalidades. 5
+
+d) Inscripción de sentencia judicial o administrativa
+
+en las que se ordene la modificación, cancelación
+
+o rectificación de una concesión de servicio público
+
+o especial de transporte, en cualquiera
+
+de sus modalidades. 10
+
+e) Inscripción de conductor de vehículo destinado
+
+al servicio público o especial de transporte, en
+
+cualquiera de sus modalidades. 10
+
+f) Inscripción de la designación de beneficiarios
+
+por persona física, titular de una concesión de servicio
+
+público o especial de transporte, en cualquiera de
+
+sus modalidades. 10
+
+### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ###### ARTÍCULO 73.
 
@@ -2039,15 +2493,15 @@ V.- Por cambio de razón social 700
 
 Las autoridades estatales regularán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de estas licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas.
 
+### CAPÍTULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+
+### CAPÍTULO III. POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO
+
 ### CAPÍTULO IV. POR BIENES MOSTRENCOS Y VACANTES
-
-### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
-
-### CAPÍTULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y FIDEICOMISOS
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
-### CAPÍTULO VII. OTROS PRODUCTOS
+### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
 
 ###### ARTÍCULO 80.
 
@@ -2065,13 +2519,13 @@ Los muebles e inmuebles que el Estado se haya adjudicado en pago de contribucion
 
 Los bienes a que se refiere el artículo anterior podrán ser donados a los Municipios e instituciones de beneficencia pública para fines directos a la comunidad y con las salvedades o condiciones que el Ejecutivo determine.
 
-### CAPÍTULO I. GARANTÍAS Y MULTAS
+### CAPÍTULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y FIDEICOMISOS
 
 ###### ARTÍCULO 84.
 
 Ingresarán íntegramente a la Hacienda Pública del Estado los importes por concepto de arrendamiento de bienes muebles e inmuebles propiedad del Estado.
 
-### CAPÍTULO II. REINTEGROS
+### CAPÍTULO VII. OTROS PRODUCTOS
 
 ###### ARTÍCULO 85.
 
@@ -2117,7 +2571,7 @@ a) Ejemplar 2.25
 
 b) Otras publicaciones editadas, se cobrará el costo de la impresión.
 
-### CAPÍTULO III. DONACIONES
+### CAPÍTULO I. GARANTÍAS Y MULTAS
 
 ###### ARTÍCULO 88.
 
@@ -2127,19 +2581,19 @@ Ingresarán a la Hacienda Pública del Estado, previo al procedimiento correspon
 
 Los bienes de las personas que mueran intestadas, careciendo de los herederos a que se refieren los Capítulos I al V del Título Cuarto del Libro Tercero del Código Civil vigente en el Estado, serán adjudicados a la Hacienda Pública del Estado. A las personas que denuncien ante las autoridades competentes el hecho, así como la situación a que alude el artículo anterior, se les otorgará una participación del 20 % sobre el importe de los bienes denunciados, si no existe reclamación alguna.
 
-### CAPÍTULO IV. PRÉSTAMOS
+### CAPÍTULO II. REINTEGROS
 
 ###### ARTÍCULO 90.
 
 La Secretaría de Finanzas del Estado recaudará directamente las cuotas por los servicios que presten las instituciones de asistencia social estatales, con excepción de aquellas instituciones que hayan sido creadas como organismos descentralizados de la administración pública estatal.
 
-### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
+### CAPÍTULO III. DONACIONES
 
 ###### ARTÍCULO 91.
 
 Corresponden a la Hacienda Pública del Estado de Campeche, los ingresos por utilidades de los organismos descentralizados, empresas de participación estatal y fideicomisos.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. PRÉSTAMOS
 
 ###### ARTÍCULO 92.
 
@@ -2147,7 +2601,7 @@ Se consideran como otros Productos aquellos que no se encuentren, comprendidos e
 
 ## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO PRIMERO
+### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTÍCULO 93.
 
@@ -2161,11 +2615,7 @@ Las garantías constituidas para la autorización de permisos especiales a menor
 
 Ingresarán a la Hacienda Pública las multas impuestas administrativamente por cualquier autoridad del Estado, las establecidas en calidad de penas en los procesos de orden judicial y las provenientes de la conmutación de sanciones que dispongan las Leyes respectivas. Las autoridades que las impongan, tienen obligación de comunicarlo a las autoridades hacendarias.
 
-### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ARTÍCULO 105 BIS.- Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 96.
 
@@ -2175,9 +2625,7 @@ Las cantidades pagadas de más o indebidamente con cargo al Presupuesto de Egres
 
 También ingresarán por este concepto las responsabilidades administrativas que se finquen por autoridad competente y que se hagan efectivas.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+### CAPÍTULO PRIMERO
 
 ###### ARTÍCULO 98.
 
@@ -2185,7 +2633,11 @@ Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. C
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 105 BIS.- Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
 
 ###### ARTÍCULO 99.
 
@@ -2217,17 +2669,23 @@ III.- Las fianzas cuya pérdida se declare por resolución firme a favor del Est
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
 ## TÍTULO SÉPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 103.
 
 Se consideran accesorios de las contribuciones y de los aprovechamientos, lo expresamente señalado en el artículo 22 del Código Fiscal del Estado de Campeche, y se recaudarán en las formas y plazos establecidos en esta Ley y en el referido Código.
 
 ## TÍTULO OCTAVO. DE LAS PARTICIPACIONES
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 104.
 
@@ -2452,3 +2910,11 @@ Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda 
 Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
 
 Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días, siguientes a la entrada en vigor de este decreto.
+
+P.O. 26 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el uno de enero de 2014, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- De la recaudación obtenida por concepto del Impuesto Estatal a la Venta Final de Bebidas con contenido Alcohólico, corresponderá a los municipios el 20%, distribuyéndose en proporción a la recaudación del mismo obtenida en sus respectivas jurisdicciones territoriales en el mes anterior.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto
