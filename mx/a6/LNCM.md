@@ -4,7 +4,7 @@ identifier: "LNCM"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-01"
-last_updated: "2013-06-07"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50527&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de junio de 2006.
 
@@ -46,9 +46,11 @@ Se expide la Ley de Navegación y Comercio Marítimos.
 
 ### CAPÍTULO I. ÁMBITO DE APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público y tiene por objeto regular las vías generales de comunicación por agua, la navegación y los servicios que en ellas se prestan, la marina mercante mexicana, así como los actos, hechos y bienes relacionados con el comercio marítimo.
+Esta ley es de orden público y tiene por objeto regular las vías generales de comunicación por agua, la navegación, su protección y los servicios que en ellas se prestan, la marina mercante mexicana, así como los actos, hechos y bienes relacionados con el comercio marítimo.
 
 Quedan exceptuadas de las disposiciones de esta Ley las embarcaciones y artefactos navales de uso militar, pertenecientes a la Secretaría de Marina.
 
@@ -57,6 +59,10 @@ Quedan exceptuadas de las disposiciones de esta Ley las embarcaciones y artefact
 Para efectos de esta Ley se entenderá por:
 
 I. Secretaría: La Secretaría de Comunicaciones y Transportes.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+I Bis. SEMAR: La Secretaría de Marina;
 
 II. Navegación: La actividad que realiza una embarcación, para trasladarse por vías navegables de un punto a otro, con dirección y fines determinados.
 
@@ -69,6 +75,14 @@ V. Artefacto Naval: Cualquier otra estructura fija o flotante, que sin haber sid
 VI. Marina Mercante: El conjunto formado por las personas físicas o morales, embarcaciones y artefactos navales que conforme a la Legislación aplicable ejerzan o intervengan en el comercio marítimo.
 
 VII. Contaminación Marina: La introducción por el hombre, directa o indirectamente de substancias o de energía en el medio marino que produzcan o puedan producir efectos nocivos a la vida y recursos marinos, a la salud humana, o la utilización legítima de las vías generales de comunicación por agua en cualquier tipo de actividad, de conformidad con los Tratados Internacionales.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+VII Bis. Protección Marítima y Portuaria: Las medidas, mecanismos, acciones o instrumentos que permitan un nivel de riesgo aceptable en los puertos y en la administración, operación y servicios portuarios, así como en las actividades marítimas, en los términos que establezcan los tratados o convenios internacionales en los que México sea parte en materia de Protección Marítima y Portuaria;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+VII Ter. CUMAR: El Centro Unificado para la Protección Marítima y Portuaria establecido en la Ley de Puertos;
 
 VIII. Propietario: la persona física o moral titular del derecho real de propiedad de una o varias embarcaciones, y/o artefactos navales, bajo cualquier título legal.
 
@@ -188,6 +202,18 @@ XXI.- Imponer sanciones por infracciones a esta Ley, a sus reglamentos, y a los 
 
 XXII.- Las demás que señalen otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 8 Bis.
+
+Son atribuciones de la SEMAR, sin perjuicio de las que correspondan a otras dependencias de la Administración Pública Federal:
+
+I. Establecer, en coordinación con la Secretaría, la Protección Marítima y Portuaria que aplicará el CUMAR conforme a lo dispuesto en la Ley de Puertos;
+
+II. Dirigir, organizar y llevar a cabo la búsqueda y rescate para la salvaguarda de la vida humana en las Zonas Marinas Mexicanas, y
+
+III. Las demás que le señalen otras disposiciones jurídicas.
+
 ###### Artículo 9.
 
 Cada puerto habilitado tendrá una capitanía de puerto, dependiente de la Secretaría, con una jurisdicción territorial y marítima delimitada; con las siguientes atribuciones:
@@ -207,6 +233,10 @@ VI.- Requerir los certificados e inspeccionar a cualquier embarcación, de confo
 VII.- Certificar las singladuras, expedir las libretas de mar e identidad marítima del personal embarcado de la marina mercante mexicana;
 
 VIII.- Ordenar las maniobras que se requieran de las embarcaciones cuando se afecte la eficiencia del puerto; turnar a la Secretaría las quejas que presenten los navieros en relación con la asignación de posiciones de atraque y fondeo, para que ésta resuelva lo conducente;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+VIII Bis. Ordenar las medidas que le sean requeridas por el CUMAR, conforme a lo dispuesto en la Ley de Puertos;
 
 IX.- Coordinar las labores de auxilio y salvamento en caso de accidentes o incidentes de embarcaciones en las aguas de su jurisdicción;
 
@@ -672,6 +702,10 @@ Salvo en el caso de las arribadas forzosas, en la autorización o rechazo de arr
 
 La autoridad marítima, en su ámbito de competencia, estará obligada a verificar que en la autorización de arribo a puerto de embarcaciones se respeten las normas aplicables en materia de seguridad en la navegación y la vida humana en el mar, prevención de la contaminación marina, así como las demás que establezcan los Tratados Internacionales.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+En caso de encontrarse algún incumplimiento a las normas aplicables en materia de Protección Marítima y Portuaria, la autoridad marítima dará vista al CUMAR para que intervenga en los términos que establezca la Ley de Puertos.
+
 ###### Artículo 47.
 
 Se entiende por recalada la aproximación de las embarcaciones a las costas o riberas, para reconocerlas o rectificar la posición, prosiguiendo el viaje. En este caso y cuando hayan llegado a la rada o al antepuerto sólo a buscar abrigo, o que sólo se hayan comunicado a tierra a distancia, podrán abandonar su lugar de fondeo sin aviso o formalidad alguna.
@@ -705,6 +739,12 @@ V. Por falta del número, calificación o certificación de los tripulantes seg�
 VI. Por tener conocimiento de algún accidente, incidente o situación de riesgo de importancia para la seguridad de los tripulantes, sucedida a la embarcación y de conformidad con las disposiciones de esta Ley en materia de investigación de accidentes marítimos, a menos que se haya acreditado fehacientemente la compostura correspondiente a la embarcación, de acuerdo con el criterio de la autoridad marítima, cuando la reparación no sea de importancia y mediante la certificación de la casa clasificadora cuando la reparación sea mayor; y
 
 VII. En el caso de las embarcaciones extranjeras, por lo dispuesto en el artículo 264 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 49 Bis.
+
+La capitanía de puerto a requerimiento del CUMAR podrá negar o dejar sin efectos el despacho de salida de cualquier embarcación como medida precautoria cuando se haya decretado un Nivel 3 de Protección Marítima y Portuaria en términos de la Ley de Puertos.
 
 ###### Artículo 50.
 
@@ -1598,13 +1638,17 @@ Los capitanes o cualquier tripulante de las embarcaciones que se encuentren pró
 
 Las consecuencias por el incumplimiento de esta obligación se regirán de acuerdo a lo dispuesto por el Código Penal Federal. Los propietarios y navieros no serán responsables del incumplimiento de la misma.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 163.
 
-La organización y dirección del servicio de búsqueda, rescate y salvamento marítimos corresponderá a la autoridad marítima conforme a lo dispuesto por el artículo 7 de esta Ley, la cual deberá determinar las estaciones de salvamento que deban establecerse en los litorales. La Secretaría estará facultada para autorizar a los particulares a establecer estaciones de salvamento de conformidad con lo dispuesto por el reglamento respectivo.
+La organización y dirección del Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en las Zonas Marinas Mexicanas corresponderá a SEMAR, conforme a lo dispuesto por el artículo 8 Bis de esta Ley. La SEMAR determinará las estaciones de búsqueda y rescate que deban establecerse en los litorales, de conformidad con lo dispuesto por el reglamento respectivo.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 164.
 
-La búsqueda, rescate y salvamento de las personas y embarcaciones dentro de la jurisdicción de la capitanía de puerto serán coordinados por su titular, quien estará facultado para utilizar los elementos disponibles en el puerto a costa del propietario o naviero, por el tiempo necesario que dure la operación.
+El salvamento de embarcaciones en los términos que señala el artículo 161 de esta Ley, dentro de la jurisdicción de la capitanía de puerto será coordinado por su titular, quien estará facultado para utilizar los elementos disponibles en el puerto a costa del propietario o naviera de la embarcación de que se trate, por el tiempo necesario que dure la operación.
 
 ###### Artículo 165.
 
@@ -1626,7 +1670,9 @@ I. La autoridad marítima notificará al propietario o naviero la orden para que
 
 II. Previa notificación de la orden al propietario o naviero, en los supuestos en que exista una posible afectación al ambiente marino, la autoridad marítima estará obligada a obtener una opinión de la autoridad ambiental competente;
 
-III. El plazo para cumplir con la orden será de tres meses contados a partir de la fecha de la notificación. De no cumplirse con tal requerimiento, la autoridad marítima estará facultada para removerlo o hundirlo, a costa del propietario o naviero, sin perjuicio de la aplicación de las sanciones administrativas conducentes; y
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+III. El plazo para cumplir con la orden será de tres meses contados a partir de la fecha de la notificación. De no cumplirse con tal requerimiento, la autoridad marítima estará facultada para removerlo o hundirlo, a costa del propietario o naviero, sin perjuicio de la aplicación de las sanciones administrativas conducentes. En caso de hundimiento, se deberá contar con la autorización de la SEMAR, como autoridad en materia de vertimientos, y
 
 IV. Durante el transcurso de las actividades que den cumplimiento a la orden, el naviero o el propietario deberá informar a la autoridad marítima sobre cualquier contingencia o posible afectación al medio marino. Esta obligación no suspenderá el plazo para el cumplimiento de la orden.
 
@@ -2705,3 +2751,11 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
 
 TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
+
+D.O.F. 26 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de la Federación.
