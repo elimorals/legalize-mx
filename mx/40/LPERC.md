@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2012-04-09"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -374,7 +374,7 @@ Esta Condecoración se tramitará ante la Secretaría de Relaciones Exteriores p
 
 La Condecoración de la Orden Mexicana del Águila Azteca se otorgará, principalmente, durante las visitas de Estado u oficiales que se programen entre los países de la comunidad internacional, cuando se acuerden intercambios de condecoraciones entre los jefes de Estado, jefes de Gobierno o Primeros Ministros.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 41.
 
@@ -476,7 +476,7 @@ El Consejo integrará un Jurado por cada campo de premiación. A tal fin dará p
 
 La convocatoria fijará plazos dentro de los cuales las instituciones y agrupaciones incluidas en la lista que prevé el artículo 49, podrán ampliar informaciones ante el Consejo.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ### CAPITULO VIII. Premio Nacional de Demografía
 
@@ -584,7 +584,9 @@ El Premio Nacional de Mérito Deportivo, a que se refiere la fracción II del ar
 
 El mismo Consejo de Premiación designado para el Premio Nacional de Deportes funcionará para el Premio Nacional de Mérito Deportivo.
 
-Este se integrará por el Secretario de Educación Pública, quien lo presidirá, y por los titulares de las Comisiones de Juventud y Deporte de las Cámaras de Diputados y de Senadores, de la Comisión Nacional de Cultura Física y Deporte, de la Confederación Deportiva Mexicana, A.C., del Comité Olímpico Mexicano, A.C., y del Comité Paralímpico Mexicano, A.C.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+Este se integrará por el Secretario de Educación Pública, quien lo presidirá, y por los titulares de las Comisiones de Deporte de la Cámara de Diputados y de Juventud y Deporte de la Cámara de Senadores, de la Comisión Nacional de Cultura Física y Deporte, del Comité Olímpico Mexicano, A.C., y del Comité Paralímpico Mexicano, A.C.
 
 Cualquier controversia será resuelta por el Consejo.
 
@@ -602,29 +604,33 @@ Si el premio se otorga a un grupo o equipo de deportistas, el conjunto recibirá
 
 Por cada año habrá una asignación de premios determinados atendiendo a lo establecido en la ley y con base en las definiciones del jurado y del Consejo de Premiación, si ocurrieren vacantes de los premios en alguno de los campos, modalidades o categorías, así lo declarará el consejo de premiación, fundando y motivando tal determinación.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL D.O.F. 26 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR DEL ARTÍCULO CONSTABA DE TRES PÁRRAFOS.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 62.
 
-Estos premios se concederán exclusivamente a candidatos propuestos por asociaciones deportivas nacionales y asociaciones deportivas registradas ante la Comisión Nacional de Cultura Física y Deporte y reconocidas ante la Confederación Deportiva Mexicana, A.C., o por los responsables de la información deportiva difundida por prensa escrita, radio o televisión, quienes lo podrán proponer a través de las asociaciones deportivas nacionales o asociaciones deportivas registradas.
+Estos premios se concederán exclusivamente a candidatos propuestos por asociaciones deportivas nacionales y asociaciones deportivas registradas y reconocidas por la Comisión Nacional de Cultura Física y Deporte o por los responsables de la información deportiva difundida por prensa escrita, radio o televisión, quienes lo podrán proponer a través de las asociaciones deportivas nacionales o asociaciones deportivas registradas.
 
-Las candidaturas se propondrán al consejo de premiación dentro del periodo comprendido del primero de octubre al cinco de noviembre de cada año. El Consejo integrará los expedientes que procedan dentro de los diez días naturales siguientes y a continuación los pondrá en manos del Jurado, quien entregará su dictamen debidamente fundado, motivado y por escrito al consejo, a más tardar el 28 de noviembre.
+Las candidaturas se propondrán al Consejo de Premiación dentro del periodo comprendido del 15 de septiembre al 20 de octubre de cada año. El Consejo integrará los expedientes que procedan dentro de los diez días naturales siguientes y a continuación los pondrá a consideración del Jurado, el cual entregará su dictamen debidamente fundado, motivado y por escrito al Consejo, a más tardar el 10 de noviembre.
 
-Una vez que el Consejo conozca los nombres de quienes serán premiados, se los hará de su conocimiento inmediatamente.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 63.
 
-Habrá un solo jurado para los dos premios, que se integrará por: un representante de la Comisión Nacional de Cultura Física y Deporte, uno de la Confederación Deportiva Mexicana, A.C., uno del Comité Olímpico Mexicano, A.C., y uno del Comité Paralímpico Mexicano, A.C., quienes serán designados por los titulares de dichos organismos, respectivamente. Asimismo, por un ex galardonado del Premio Nacional de Deportes, un ex galardonado del Premio Nacional de Mérito Deportivo, un medallista olímpico, un medallista paralímpico, un representante de la prensa escrita, un representante de la televisión y un representante de la radio.
+Habrá un solo jurado para los dos premios, que se integrará por: un representante de la Comisión Nacional de Cultura Física y Deporte, uno del Comité Olímpico Mexicano, A.C., y uno del Comité Paralímpico Mexicano, A.C., quienes serán designados por los titulares de dichos organismos, respectivamente. Asimismo, por un ex galardonado del Premio Nacional de Deportes, un ex galardonado del Premio Nacional de Mérito Deportivo, un medallista olímpico, un medallista paralímpico, un representante de la prensa escrita, un representante de la televisión y un representante de la radio.
+
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 Los miembros del jurado deberán conducirse con imparcialidad, legalidad y equidad, y su actuación en los asuntos que conozcan en el ejercicio de sus funciones estará sujeta a la secrecía, a la ética y a la confidencialidad. Su incumplimiento será motivo de expulsión a consideración del consejo quien, en su caso, ordenará la reposición de las actuaciones afectadas por la falta de los miembros.
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
 Además de las disposiciones previstas en esta ley, el jurado podrá proponer la entrega de premios adicionales en una misma modalidad y categoría.
 
-> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 63 BIS.- Los premios se entregarán el primer domingo del mes de diciembre de cada año.
+ARTICULO 63 BIS.- Los premios se entregarán en el mes de diciembre de cada año.
 
 ### CAPITULO XI. Premio Nacional de Trabajo
 
@@ -794,7 +800,7 @@ Cada Consejo de Premiación determinará los nombres de las medallas de las resp
 
 Los trabajadores y funcionarios que se consideren con derecho a este premio, podrán hacerlo valer por sí mismos o por conducto de su representación sindical o personal, ante el Consejo. En lo conducente, es aplicable el artículo 67 de la presente Ley.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ### CAPITULO XV BIS. Premio Nacional al Mérito Forestal
 
@@ -834,7 +840,7 @@ Si falleciere la persona a quien se debe otorgar el Premio Nacional de Administr
 
 La Coordinación General de Estudios Administrativos de la Presidencia de la República tendrá bajo su custodia el libro de honor en el que se asentarán anualmente los nombres de los servidores públicos que hayan obtenido el Premio Nacional de Administración Pública.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 25 DE FEBRERO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
 ### CAPITULO XVI. Estímulos y Recompensas
 
@@ -952,7 +958,7 @@ En cada dependencia del Ejecutivo la Unidad de Administración de Personal deber
 
 Si falleciere la persona a cuyo favor se hubiere resuelto otorgar alguna de las recompensas, la entrega se hará a los beneficiarios designados ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, o a quien expresamente se hubiere designado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ### CAPITULO XVIII. Premio Nacional de Trabajo y Cultura Indígena
 
@@ -1028,7 +1034,7 @@ VI.- Equidad de Género.
 
 Para la Entrega anual del Premio Nacional de Trabajo y Cultura Indígena, su Consejo de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Desarrollo Social, un representante de la Secretaría de Educación Pública, un representante de la Cámara de Senadores, un representante de la Cámara de Diputados, el titular de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, el titular del Instituto Nacional de Antropología e Historia y un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas que estará a cargo de la Secretaría Técnica del Consejo de Premiación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ### CAPITULO XX. Premio Nacional de Preservación del Medio Ambiente
 
@@ -1056,7 +1062,7 @@ Para tal efecto, el Premio se tramitará ante el organismo federal protector de 
 
 En casos excepcionales y cuando las circunstancias así lo ameriten, el Premio Nacional de Derechos Humanos podrá ser otorgado post mortem, para honrar la memoria de defensores de los derechos humanos que hayan luchado por la vigencia efectiva de las garantías consignadas en la Constitución Política de los Estados Unidos Mexicanos, así como lo establecido en las convenciones internacionales suscritas por el Gobierno de la República en materia de derechos humanos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ### CAPITULO XXI. Premio Nacional de Seguridad Pública
 
@@ -1098,7 +1104,7 @@ Para la entrega del Premio Nacional de Preservación del Medio Ambiente, el Cons
 
 La convocatoria para el otorgamiento de este premio, podrá considerar la participación de sociedades mercantiles o cooperativas, pero en ese caso el Premio no consistirá en numerario, sino que únicamente se integrará por la medalla y el diploma que acredite que le fue concedido el reconocimiento a que se hicieron merecedoras.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ### CAPITULO XXII. Premio Nacional de la Cerámica
 
@@ -1138,7 +1144,7 @@ VI.- Trabajo Pericial.
 
 Para la entrega del Premio Nacional de Seguridad Pública, su Consejo de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Seguridad Pública, quien lo presidirá; un representante de la Procuraduría General de la República; un representante de la Secretaría de la Defensa Nacional; un representante de la Secretaría de Marina; un representante de cada una de las Cámaras del Congreso de la Unión y el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública, con el carácter de Secretario Técnico del Consejo de Premiación.
 
-> <small>(REFORMADA SU DENOMINACION (N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN (N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 30 DE JUNIO DE 2006)</small>
 
 ### CAPITULO XXIII. Disposiciones Generales
 
@@ -1222,7 +1228,7 @@ México, D. F., a 4 de noviembre de 1975.- Juan Sabines Gutiérrez, S. P.- Maria
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los cinco días del mes de noviembre de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Marina, Luis M. Bravo Carrera.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Mario Ramón Beteta M.- Rúbrica.- El Secretario del Patrimonio Nacional, Francisco Javier Alejo López.- Rúbrica.- El Secretario de Industria y Comercio, José Campillo Sáinz.- Rúbrica.- El Secretario de Agricultura y Ganadería, Oscar Brauer Herrera.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro - Rúbrica.- El Secretario de Obras Públicas, Luis Enrique Bracamontes.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade. - Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Salubridad y Asistencia, Gines Navarro Díaz de León.- Rúbrica.- El Secretario de Trabajo y Previsión Social, Carlos Gálvez Betancourt.- Rúbrica.- El Secretario de la Presidencia, Ignacio Ovalle Fernández.- Rúbrica.- El Secretario de la Reforma Agraria, Félix Barra García.- Rúbrica.- El Secretario de Turismo, Julio Hirschfeld Almada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 15 DE ENERO DE 1980.
 
@@ -1292,7 +1298,7 @@ Segundo. Si a la fecha en que la presente reforma inicie su vigencia se han inic
 
 Tercero. Durante el primer año de vigencia de la presente reforma, la conformación del jurado previsto en el artículo 63, referente a los ex galardonados, se integrará por única vez por dos ex galardonados del Premio Nacional de Deportes.
 
-Cuarto. Cuando el primer domingo del mes de diciembre al que se refiere el artículo 63 Bis coincida con el día del cambio del titular del Poder Ejecutivo, la entrega de los premios se recorrerá al siguiente domingo.
+Cuarto. (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 2013)
 
 D.O.F. 10 DE ENERO DE 2012.
 
@@ -1303,3 +1309,9 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 26 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los Premios Nacionales de Deportes y de Mérito Deportivo correspondientes al año 2013, se entregarán el día del mes de diciembre que determine el Ejecutivo Federal.
