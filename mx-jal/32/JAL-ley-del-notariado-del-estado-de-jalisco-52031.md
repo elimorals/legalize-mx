@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2013-11-16"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -1095,9 +1095,19 @@ En el protocolo sólo se autorizarán escrituras por el notario a quien se le hu
 
 Protocolo electrónico es el conjunto de documentos, implementos y archivos electrónicos en que constan los hechos y actos autorizados por el notario por ese medio, los libros que se formen con la impresión de ellos, sus índices y actas de apertura y cierre.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 76
+
+Bis. El consentimiento de las partes para la celebración de actos jurídicos mediante instrumentos públicos podrá otorgarse a través de medios electrónicos, ópticos o de cualquier otra tecnología siempre y cuando se observen las disposiciones de la Ley estatal en materia de firma electrónica.
+
+El Notario otorgará la escritura mediante el procedimiento previsto en la presente Ley incluyendo la manifestación del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 77.
 
-Los instrumentos públicos redactados o impresos en soporte electrónico, conservarán ese carácter, siempre que contengan la firma electrónica certificada necesariamente integrada con impresión digital del notario y, en su caso, de los otorgantes, obtenidas éstas de conformidad con la normatividad aplicable al uso de firma electrónica.
+Los instrumentos públicos redactados o impresos en soporte electrónico, conservarán ese carácter, siempre que contengan la firma electrónica en los términos de la Ley estatal aplicable, necesariamente integrada con impresión digital del notario y, en su caso, de los otorgantes, obtenidas éstas de conformidad con la normatividad aplicable al uso de firma electrónica.
 
 ###### Artículo 78.
 
@@ -1117,9 +1127,11 @@ En el Reglamento de esta ley, se establecerán los requisitos indispensables par
 
 La intervención del notario en el documento público autorizado en soporte electrónico estará sujeta a los requisitos de todo documento público notarial autorizado en el protocolo y goza de fe pública cuando se haya realizado en los términos de esta y demás leyes aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 81.
 
-Las copias autorizadas de las matrices podrán expedirse y remitirse electrónicamente, con firma electrónica certificada, por el notario autorizante de la matriz o por quien le sustituya legalmente, conforme a lo establecido en el artículo 128 de esta Ley.
+Las copias autorizadas de las matrices podrán expedirse y remitirse electrónicamente, con firma electrónica en los términos de la Ley estatal aplicable, por el notario autorizante de la matriz o por quien le sustituya legalmente, conforme a lo establecido en al (sic) artículo 128 de esta Ley.
 
 ###### Artículo 82.
 
@@ -1129,9 +1141,11 @@ En el caso de que las copias sean trasladadas a papel por Notario deberá ademá
 
 ### CAPÍTULO III. DE LAS ESCRITURAS E INSTRUMENTOS PÚBLICOS
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 83.
 
-Escritura pública es el instrumento que el notario asienta en el protocolo para hacer constar hechos, actos o negocios jurídicos que autoriza con su firma y sello en el caso del protocolo ordinario o con su firma electrónica certificada en el protocolo informático.
+Escritura pública es el instrumento que el notario asienta en el protocolo para hacer constar hechos, actos o negocios jurídicos que autoriza con su firma y sello en el caso del protocolo ordinario o con su firma electrónica prevista en la Ley estatal aplicable, en el protocolo informático.
 
 ###### Artículo 84.
 
@@ -2772,3 +2786,25 @@ P.O. 20 DE NOVIEMBRE DE 2012.
 P.O. 16 DE NOVIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de la Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios.
+
+TERCERO. El Gobernador del Estado de Jalisco expedirá, dentro de los cuarenta y cinco días hábiles siguientes a la publicación del presente Decreto, el Reglamento de la Ley de la Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.
+
+CUARTO. La Secretaría General de Gobierno y demás autoridades obligadas deberán emitir los lineamientos aplicables, dentro de los cuarenta y cinco días hábiles siguientes a la expedición del Reglamento referido en el artículo anterior.
+
+QUINTO. Se faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento de este decreto.
+
+SEXTO. Se faculta a la Secretaría de Desarrollo Económico del Gobierno del Estado, para que se lleve a cabo los procesos de mejora regulatoria necesarios para el cumplimiento del decreto.
+
+SÉPTIMO. El Gobierno del Estado de Jalisco deberá celebrar con la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, los convenios que resulten necesarios para el cumplimiento de los fines de este decreto.
+
+OCTAVO. Cuando otros ordenamientos legales del Estado de Jalisco se refieran a la firma electrónica certificada, se entenderá que alude a la firma electrónica avanzada.
+
+NOVENO. La vigencia de los certificados electrónicos a que se refiere el artículo 13 fracción VI, será de dos años hasta en tanto se cuente con las condiciones humanas, financieras y tecnológicas para que su vigencia pueda ser de cuatro años. Cuando se cuente con tales condiciones, el titular del Poder Ejecutivo deberá expedir un acuerdo que se publicará en el Periódico Oficial "El Estado de Jalisco".
+
+DÉCIMO. Los certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.
