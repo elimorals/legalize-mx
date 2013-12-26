@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-62114"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-11"
-last_updated: "2011-10-21"
+last_updated: "2013-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62114&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-10"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de agosto de 2008.
 
@@ -173,6 +173,8 @@ v) Unidad Editorial: Unidad Editorial del Instituto Federal Electoral.
 
 ###### Artículo 4.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
 1. El Instituto ejercerá sus atribuciones a través de sus órganos de dirección, ejecutivos, técnicos, de vigilancia y de control previstos por el presente artículo, de conformidad con lo dispuesto por la Constitución, el Código y el presente Reglamento.
 
 2. Son órganos de Dirección:
@@ -257,9 +259,13 @@ VI. El Centro para el Desarrollo Democrático; y (sic)
 
 VII. Unidad Técnica de Planeación; y
 
-> <small>(ADICIONADA, D.O.F. 6 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
-VIII. Las demás que determine el Consejo General.
+VIII. Unidad Técnica de Igualdad de Género y No Discriminación; y
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+IX. Las demás que determine el Consejo General.
 
 4.1. En el acuerdo de creación correspondiente se determinará la adscripción de las Unidades Técnicas, según corresponda.
 
@@ -2551,6 +2557,32 @@ p) Formular propuestas de metodologías, herramientas, técnicas e instrumentos 
 
 q) Las demás que le confiera el presente Reglamento y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 68 Bis.
+
+1. La Unidad Técnica de Igualdad de Género y no Discriminación estará adscrita a la Presidencia del Consejo General y tendrá las atribuciones siguientes:
+
+a) Diseñar y coordinar, en colaboración con la Unidad Técnica de Planeación, la operación de un sistema integral de planeación, seguimiento y evaluación en materia de Igualdad de Género y No Discriminación.
+
+b) Proponer a la Junta General Ejecutiva las medidas conducentes para institucionalizar y transversalizar la igualdad de género y no discriminación en los programas y proyectos de las distintas áreas del Instituto, para su presentación al Consejo General.
+
+c) Analizar los procesos institucionales y, en su caso, proponer el rediseño de los mismos propiciando que la perspectiva de género y no discriminación se integre en cualquier acción que planifique programas o proyectos, en todas las áreas y en todos los niveles.
+
+d) Administrar la información que genere acerca del desarrollo y cumplimiento de los programas y proyectos institucionales en materia de igualdad de género y no discriminación, a través de una base de datos, para apoyar la toma oportuna de decisiones y mantener actualizado el seguimiento de indicadores.
+
+e) Integrar, bajo la supervisión de la Presidencia, los informes trimestrales y anual, mismos que deberán presentarse a la Junta General Ejecutiva y al Consejo General, respectivamente.
+
+f) Asesorar a la Junta Ejecutiva General y al Consejo General para la incorporación de la perspectiva de igualdad de género y no discriminación en sus Resoluciones y Acuerdos.
+
+g) Una vez aprobado el protocolo referente a prevención, atención y sanción de hostigamiento y acoso sexual y laboral, la Unidad será la encargada de planear, implementar y evaluar su instrumentación, en coordinación con la Dirección Ejecutiva de Administración y la Dirección Ejecutiva del Servicio Profesional Electoral.
+
+h) Coordinar, bajo la supervisión de la Presidencia, la relación interinstitucional en el ámbito gubernamental, social, nacional e internacional, en materia de género y no discriminación por parte del Instituto Federal Electoral, que se requiera tanto para el fortalecimiento de la institucionalización y transversalización al interior del IFE, como en la coadyuvancia que en esta materia se tenga para el Estado Mexicano.
+
+i) Divulgar al interior del Instituto la información relacionada con la perspectiva de género y no discriminación, para concientizar a las personas de la exigibilidad de sus derechos.
+
+j) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
+
 ### Capítulo Segundo. De la Unidad de Fiscalización de los Recursos de los Partidos Políticos
 
 > <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
@@ -3025,9 +3057,7 @@ b) La inhabilitación para desempeñar un empleo, cargo o comisión en el servic
 
 4. En caso de ausencia o impedimento legal del Contralor General, el Subcontralor de Asuntos Jurídicos del propio órgano de control será quien podrá ejercer las facultades previstas en el apartado 1 del presente artículo, así como en los demás ordenamientos.
 
-> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2011)</small>
-
-5. Participar como integrante en el Organo Garante de la Transparencia y el Acceso a la Información.
+5. (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
@@ -3222,5 +3252,15 @@ D.O.F. 21 DE OCTUBRE DE 2011.
 SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 ...
+
+TERCERO.- Las disposiciones de la presente reforma entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 2013.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+SEGUNDO.- Publíquese el presente Acuerdo, en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
 
 TERCERO.- Las disposiciones de la presente reforma entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
