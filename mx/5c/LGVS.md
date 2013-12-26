@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2013-11-05"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -440,9 +440,15 @@ La Secretaría determinará, a través de las normas oficiales mexicanas corresp
 
 ### CAPÍTULO V. EJEMPLARES Y POBLACIONES EXÓTICOS
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 27.
 
-El manejo de ejemplares y poblaciones exóticos sólo se podrá llevar a cabo en condiciones de confinamiento, de acuerdo con un plan de manejo que deberá ser previamente aprobado por la Secretaría y en el que se establecerán las condiciones de seguridad y de contingencia, para evitar los efectos negativos que los ejemplares y poblaciones exóticos pudieran tener para la conservación de los ejemplares y poblaciones nativos de la vida silvestre y su hábitat.
+El manejo de ejemplares y poblaciones exóticos sólo se podrá llevar a cabo en condiciones de confinamiento que garanticen la seguridad de la sociedad civil y trato digno y respetuoso hacia los ejemplares, de acuerdo con un plan de manejo que deberá ser previamente aprobado por la Secretaría y el que deberá contener lo dispuesto por el artículo 78 Bis, para evitar los efectos negativos que los ejemplares y poblaciones exóticos pudieran tener para la conservación de los ejemplares y poblaciones nativos de la vida silvestre y su hábitat.
+
+Las personas que posean algún o algunos ejemplares referidos en el párrafo anterior, como mascota o animal de compañía, deberán de contar con autorización expresa de la Secretaría.
+
+Aquellos ejemplares de especies que por su naturaleza, ante un inadecuado manejo o evento que ponga en riesgo a la población civil, deberán ser reubicados por la Secretaría.
 
 > <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 2010)</small>
 
@@ -1054,13 +1060,53 @@ La conservación de la vida silvestre fuera de su hábitat natural se llevará a
 
 La Secretaría dará prioridad a la reproducción de vida silvestre fuera de su hábitat natural para el desarrollo de actividades de repoblación y reintroducción, especialmente de especies en riesgo.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 78.
 
-Las colecciones científicas y museográficas, públicas o privadas, de especímenes de especies silvestres, deberán registrarse y actualizar sus datos ante la autoridad correspondiente, en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento.
+Las colecciones científicas y museográficas, públicas o privadas, de especímenes de especies silvestres, deberán registrarse y actualizar sus datos anualmente ante la autoridad correspondiente en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento, y para el caso de ejemplares vivos, contar con un plan de manejo autorizado por la Secretaría.
 
-Los parques zoológicos deberán contemplar en sus planes de manejo, aspectos de educación ambiental, de conservación y reproducción de las especies, con especial atención a las que se encuentren en alguna categoría de riesgo y además deberán registrarse y actualizar sus datos ante la autoridad correspondiente, en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento.
+Los predios e instalaciones que manejen vida silvestre en forma confinada, como zoológicos, espectáculos públicos fijos o itinerantes, circos y colecciones privadas, sólo podrán operar si cuentan con planes de manejo autorizados por la Secretaría, y además deberán registrarse y actualizar sus datos anualmente ante la autoridad correspondiente, en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento.
 
-Todos aquellos espectáculos públicos que manejen vida silvestre fuera de su hábitat, deberán contemplar en sus planes de manejo, aspectos de educación ambiental y de conservación, con especial atención a las que se encuentren en alguna categoría de riesgo y además deberán registrarse y actualizar sus datos ante la autoridad correspondiente, en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento.
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 78 Bis.
+
+Los planes de manejo a los que se refiere el artículo anterior deberán contener como mínimo los siguientes elementos:
+
+a) Especies, número de ejemplares e información biológica de cada una de ellas;
+
+b) Tipo de confinamiento por especie y número de ejemplares;
+
+c) La descripción física y biológica del área y su infraestructura, y sus medidas de manejo por especie y número de ejemplares;
+
+d) Dieta a proporcionar a cada ejemplar de acuerdo a su especie;
+
+e) Cuidados clínicos y de salud animal;
+
+f) Medio de transporte para movilización;
+
+g) Medidas de mantenimiento, seguridad e higiene;
+
+h) Aspectos de educación ambiental, de conservación y reproducción de las especies, con especial atención en aquéllas que estén en alguna categoría de riesgo;
+
+i) Medidas para garantizar el trato digno y respetuoso durante su confinamiento, manejo, traslado, exhibición, adaptación a un nuevo espacio y entrenamiento responsable, entre otros;
+
+j) Calendario de actividades;
+
+k) Las medidas de seguridad civil y contingencia;
+
+l) Los mecanismos de vigilancia;
+
+m) Los métodos de contención a utilizar en caso de alguna emergencia o contingencia;
+
+n) El tipo de marcaje de los ejemplares por especie, y
+
+o) Aquellas establecidas en el Reglamento y demás disposiciones que resulten aplicables.
+
+Previo a la autorización del plan de manejo, la Secretaría, considerando las dimensiones, características, número de especies o ejemplares, estará facultada para constatar físicamente que los predios o instalaciones que manejan vida silvestre en forma confinada, cuenten con el área e infraestructura necesarias para su manejo, así como la capacidad técnica y operativa suficiente para ejecutar los planes de manejo.
+
+La Secretaría emitirá los requerimientos mínimos necesarios para el manejo de cada especie para su vida en confinamiento.
 
 ### CAPÍTULO X. LIBERACIÓN DE EJEMPLARES AL HÁBITAT NATURAL
 
@@ -1761,3 +1807,11 @@ D.O.F. 5 DE NOVIEMBRE DE 2013.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. La Secretaría deberá expedir las normas oficiales mexicanas correspondientes en un plazo de dieciocho meses siguientes contados a partir de la entrada en vigor de la presente Ley.
+
+D.O.F. 26 DE DICIEMBRE DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal contará con un plazo de dieciocho meses para armonizar el Reglamento respectivo.
+
+Tercero. La Secretaría emitirá guías técnicas que establezcan los requerimientos mínimos necesarios para el manejo de cada especie en confinamiento de acuerdo a lo establecido en el último párrafo del artículo 78 Bis, en un plazo de dieciocho meses.
