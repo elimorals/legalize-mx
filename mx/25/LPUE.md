@@ -4,7 +4,7 @@ identifier: "LPUE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-19"
-last_updated: "2012-06-11"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPUE"
 
 LEY DE PUERTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 19 de julio de 1993.
 
@@ -40,9 +40,11 @@ LEY DE PUERTOS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 1o.
 
-La presente ley es de orden público y de observancia en todo el territorio nacional, y tiene por objeto regular los puertos, terminales, marinas e instalaciones portuarias, su construcción, uso, aprovechamiento, explotación, operación y formas de administración, así como la prestación de los servicios portuarios.
+La presente ley es de orden público y de observancia en todo el territorio nacional, y tiene por objeto regular los puertos, terminales, marinas e instalaciones portuarias, su construcción, uso, aprovechamiento, explotación, operación, protección y formas de administración, así como la prestación de los servicios portuarios.
 
 Los puertos, terminales e instalaciones portuarias de carácter militar, destinados por el Ejecutivo Federal a la Secretaría de Marina para uso de la Armada de México, se regirán por las disposiciones aplicables en la materia.
 
@@ -69,6 +71,14 @@ VII. Servicios portuarios: Los que se proporcionan en puertos, terminales, marin
 VIII. Zona de desarrollo portuario: El área constituida con los terrenos de propiedad privada o del dominio privado de la Federación, de las entidades federativas o de los municipios, para el establecimiento de instalaciones industriales y de servicios o de cualesquiera otras relacionadas con la función portuaria y, en su caso, para la ampliación del puerto.
 
 IX. Administrador portuario: El titular de una concesión para la administración portuaria integral.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+X. CUMAR: El Centro Unificado para la Protección Marítima y Portuaria.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+XI. Protección Marítima y Portuaria: Las medidas, mecanismos, acciones o instrumentos que permitan un nivel de riesgo aceptable en los puertos y en la administración, operación y servicios portuarios, así como en las actividades marítimas, en los términos que establezcan los tratados o convenios internacionales en los que México sea parte en materia de Protección Marítima y Portuaria.
 
 ###### ARTICULO 3o.
 
@@ -242,6 +252,30 @@ La Armada de México, así como las corporaciones federales, estatales y municip
 
 Las capitanías de puerto, así como las autoridades aduanales, sanitarias, migratorias o cualquier otra que ejerza sus funciones dentro de los puertos, se coordinarán en los términos que establezca el reglamento que para tal efecto se expida.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 19 BIS.- El CUMAR es un grupo de coordinación interinstitucional entre la Secretaría de Marina y la Secretaría, para la aplicación de las medidas de Protección Marítima y Portuaria y la atención eficaz de incidentes marítimos y portuarios, que determine la Secretaría de Marina.
+
+La organización y funcionamiento del CUMAR se regulará en el reglamento que al efecto se expida.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 19 TER.- EL CUMAR tendrá las funciones siguientes:
+
+I. Coadyuvar en el cumplimiento de los tratados o convenios internacionales en los que México sea parte en materia de Protección Marítima y Portuaria;
+
+II. Aplicar las disposiciones y medidas de reacción que se dispongan dentro del marco del capítulo XI-2 del Convenio Internacional para la Seguridad de la Vida Humana en el Mar, 1974 y el Código de Protección a Buques e Instalaciones Portuarias para que se cumplan los niveles de protección marítima y portuaria conforme a lo siguiente:
+
+a) Nivel de protección 1: Establecer en todo momento medidas mínimas de Protección Marítima y Portuaria;
+
+b) Nivel de protección 2: Establecer medidas adicionales de Protección Marítima y Portuaria a las establecidas en el inciso anterior por aumentar el riesgo de que ocurra un suceso que afecte la Protección Marítima y Portuaria, durante un determinado periodo, y
+
+c) Nivel de protección 3: Establecer medidas específicas adicionales de Protección Marítima y Portuaria a las establecidas en los incisos anteriores por un tiempo limitado, cuando sea probable o inminente un suceso que afecte la Protección Marítima y Portuaria, aún en el caso de que no pudiera localizarse el objetivo específico que dicho suceso afecte;
+
+III. Fungir como instancia coordinadora de las acciones que realicen las autoridades de los tres órdenes de gobierno en materia de Protección Marítima y Portuaria, y
+
+IV. Las demás que le confieran otras disposiciones jurídicas.
+
 ### CAPITULO IV. Concesiones y permisos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE JUNIO DE 2012)</small>
@@ -346,7 +380,9 @@ II. La descripción de los bienes, obras e instalaciones del dominio público qu
 
 III. Los compromisos de dragado, ayudas a la navegación y señalamiento marítimo;
 
-IV. Las características de prestación de los servicios portuarios y la determinación de las áreas reservadas para servicio al público y para las funciones del capitán de puerto, de aduana y otras autoridades;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+IV. Las características de prestación de los servicios portuarios y la determinación de las áreas reservadas para el servicio al público y para las funciones del capitán de puerto, de aduanas, del CUMAR, y otras autoridades;
 
 V. Las bases de regulación tarifaria;
 
@@ -518,9 +554,17 @@ VIII. Asignar las posiciones de atraque en los términos de las reglas de operac
 
 IX. Operar los servicios de vigilancia, así como el control de los accesos y tránsito de personas, vehículos y bienes en el área terrestre del recinto portuario, de acuerdo con las reglas de operación del mismo y sin perjuicio de las facultades del capitán de puerto y de las autoridades competentes;
 
-X. Percibir, en los términos que fijen los reglamentos correspondientes y el título de concesión, ingresos por el uso de la infraestructura portuaria, por la celebración de contratos, por los servicios que presten directamente, así como por las demás actividades comerciales que realicen, y
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
-XI. Proporcionar la información estadística portuaria.
+X. Percibir, en los términos que fijen los reglamentos correspondientes y el título de concesión, ingresos por el uso de la infraestructura portuaria, por la celebración de contratos, por los servicios que presten directamente, así como por las demás actividades comerciales que realicen;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+XI. Proporcionar la información estadística portuaria, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+XII. Proporcionar al CUMAR la información que les sea requerida relacionada con la Protección Marítima y Portuaria, así como tomar en cuenta sus recomendaciones para mantener los niveles establecidos en el artículo 19 Ter de la presente Ley.
 
 ###### ARTICULO 41.
 
@@ -819,3 +863,11 @@ Sexto. El Ejecutivo Federal y la Secretaría, en un plazo no mayor a 120 días h
 Séptimo. La Secretaría, cuando a su juicio existan condiciones y sea conveniente para el sistema portuario nacional, podrá autorizar por una sola vez la ampliación del área de las terminales e instalaciones portuarias de uso público, que hayan sido materia de contratos de cesión parcial de derechos, registrados ante la Secretaría y vigentes a la fecha de entrada en vigor del presente Decreto. Las superficies podrán crecer hasta en una posición adicional de atraque con una longitud máxima de 350 metros y sus respectivas superficies terrestres. Dichas ampliaciones se otorgarán siempre y cuando existan por lo menos dos terminales o instalaciones portuarias del mismo giro de distintos operadores en un puerto.
 
 El Ejecutivo Federal publicará en el Diario Oficial de la Federación las reglas de carácter general para tales fines.
+
+D.O.F. 26 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
