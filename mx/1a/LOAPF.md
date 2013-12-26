@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2013-12-05"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -532,9 +532,17 @@ b. Vigilancia de las zonas marinas mexicanas, sin perjuicio de las atribuciones 
 
 c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva;
 
-> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
-V.- Ejercer la autoridad para garantizar el cumplimiento del orden jurídico en las zonas marinas mexicanas, proteger el tráfico marítimo y salvaguardar la vida humana en la mar, sin perjuicio de las atribuciones que correspondan a otras dependencias;
+V.- Ejercer la autoridad en las zonas marinas mexicanas en materia de:
+
+a) Cumplimento del orden jurídico nacional;
+
+b) Búsqueda y rescate para la salvaguarda de la vida humana en la mar;
+
+c) Vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y
+
+d) Protección marítima y portuaria en coordinación con la Secretaría de Comunicaciones y Transportes, en los términos que fijan los tratados internacionales y las leyes de la materia;
 
 VI.- Dirigir la educación pública naval;
 
@@ -542,9 +550,9 @@ VI.- Dirigir la educación pública naval;
 
 VII.- Ejercer funciones de policía marítima para mantener el estado de derecho en las zonas marinas mexicanas;
 
-> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
-VII bis.- Llevar a cabo la búsqueda, rescate, salvamento y auxilio en las zonas marinas mexicanas de conformidad con las normas nacionales e internacionales, en su caso, en coordinación con las demás autoridades competentes;
+VII Bis.- Establecer y dirigir el Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en la mar;
 
 VIII.- Inspeccionar los servicios de la Armada;
 
@@ -1420,7 +1428,9 @@ XV.- Establecer los requisitos que deban satisfacer el personal técnico de la a
 
 XVI.- Regular las comunicaciones y transportes por agua;
 
-XVII.- Inspeccionar los servicios de la marina mercante;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+XVII. Inspeccionar los servicios de la marina mercante, así como coordinarse con la Secretaría de Marina en la aplicación de las medidas en materia de Protección Marítima y Portuaria;
 
 XVIII.- Construir, reconstruir y conservar las obras marítimas, portuarias y de dragado, instalar el señalamiento marítimo y proporcionar los servicios de información y seguridad para la navegación marítima;
 
@@ -2379,3 +2389,11 @@ D.O.F. 2 DE ABRIL DE 2013.
 D.O.F. 5 DE DICIEMBRE DE 2013.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
