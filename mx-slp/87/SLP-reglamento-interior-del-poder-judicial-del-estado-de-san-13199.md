@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-poder-judicial-del-estado-de-san-13199"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-10"
-last_updated: "2008-09-06"
+last_updated: "2013-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de diciembre de 1998.
 
@@ -71,9 +71,17 @@ V.- El Instituto: El Instituto de Estudios Judiciales del Poder Judicial del Est
 
 ### CAPITULO PRIMERO. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 4°.
 
-El Pleno del Supremo Tribunal ejercerá la suprema autoridad del Poder Judicial. Conocerá de los asuntos señalados en el artículo 10 de la Ley Orgánica y estará presidido por el Magistrado Presidente del Supremo Tribunal. Sesionará en forma ordinaria y extraordinaria y atendiendo al orden del día, la sesión extraordinaria tendrá el carácter de solemne. Las sesiones se celebrarán con la presencia del Secretario General o de quien lo sustituya en su encargo de acuerdo con la Ley Orgánica.
+El Pleno del Supremo Tribunal de Justicia del Estado de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y la Ley Orgánica del Poder Judicial del Estado, ejercerá la suprema autoridad del Poder Judicial y se integrará en los términos establecidos por la Constitución Política del Estado.
+
+Los Magistrados Numerarios que concluyan el cargo tendrán el carácter de Magistrados en retiro y el Pleno del Supremo Tribunal podrá asignarles las funciones que considere convenientes para el fortalecimiento de la adecuada administración de justicia.
+
+El Pleno del Supremo Tribunal conocerá de los asuntos establecidos en la Ley Orgánica del Poder Judicial del Estado, estará presidido por el Magistrado Presidente y sesionará en forma ordinaria o extraordinaria, en los términos señalados por la precitada ley.
+
+Las sesiones se celebrarán con la presencia del Secretario General o de quien lo sustituya en sus funciones, conforme a la Ley Orgánica.
 
 ###### ARTICULO 5°.
 
@@ -2096,3 +2104,11 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Se derogan el título segundo en lo relativo a sus capítulos quinto, octavo, octavo bis, noveno, décimo, décimo primero, décimo segundo y décimo séptimo; los títulos tercero, cuarto, quinto y sexto del Reglamento Interior del Poder Judicial del Estado, publicado en el Periódico Oficial del Estado en edición extraordinaria el 10 diez de diciembre de 1998 y todas sus reformas subsecuentes. Mientras el Consejo de la Judicatura expide la normatividad necesaria para regular las funciones de personal administrativo de los juzgados, trabajadores sociales de los juzgados familiares, secretarias y mozos, seguirá vigente el Reglamento Interior del Poder Judicial del Estado, publicado en el Periódico Oficial del Estado en edición extraordinaria el 10 diez de diciembre de 1998, en lo que se refiere a su título segundo, capítulos décimo tercero, décimo cuarto, décimo quinto y décimo sexto.
 
 TERCERO. Se derogan las disposiciones previstas que se opongan en lo que es materia del presente reglamento, así como los acuerdos generales segundo, décimo, vigésimo, vigésimo primero, vigésimo tercero, vigésimo cuarto, vigésimo sexto, vigésimo séptimo, vigésimo octavo, vigésimo noveno, trigésimo primero, trigésimo segundo, todos emitidos por el pleno del Consejo de la Judicatura.
+
+P.O. 26 DE DICIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4° DEL REGLAMENTOINTERIOR (SIC) DEL PODER JUDICIAL DEL ESTADO”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a este acuerdo.
