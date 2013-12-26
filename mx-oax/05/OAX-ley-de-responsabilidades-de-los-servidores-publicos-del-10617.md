@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-de-los-servidores-publicos-del-10617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-01"
-last_updated: "2013-10-18"
+last_updated: "2013-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-N DE E. DE CONFORMIDAD CON LO ORDENADO POR LOS ARTÍCULOS 79, FRACCIÓN II, Y 53, FRACCIÓN VI, PÁRRAFO PRIMERO, ÚLTIMA PARTE DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES AL PODER EJECUTIVO DE VETAR, PROMULGAR Y PUBLICAR LA PARTE NO VETADA, HASTA EN TANTO EL CONGRESO DEL ESTADO RESUELVA LAS OBSERVACIONES PENDIENTES; EN CONSECUENCIA, SE PUBLICA EL DECRETO NÚMERO 2055 DEL P.O. DE 18 DE OCTUBRE DE 2013.
+N DE E. DE CONFORMIDAD CON LO ORDENADO POR EL ARTÍCULO 53 FRACCIÓN VI, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECE QUE SI SE APRUEBAN POR EL CONGRESO DEL ESTADO LAS PARTES OBSERVADAS POR EL PODER EJECUTIVO, SE PROCEDERÁ A SU PROMULGACIÓN Y PUBLICACIÓN; EN CONSECUENCIA, SE PUBLICA EL DECRETO NÚMERO 2074 DEL P.O. DE 26 DE DICIEMBRE DE 2013.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el Sábado 1o de junio de 1996.
 
@@ -67,9 +67,11 @@ V.- Las autoridades competentes y los procedimientos para declarar la procedenci
 
 VI.- El registro patrimonial de los servidores públicos del Estado y de los Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 2º.
 
-Son sujetos de esta Ley, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal y en los Poderes Legislativo y Judicial del Estado, sea cual fuera la naturaleza de su nombramiento, designación o elección.
+Son sujetos de esta Ley, los servidores públicos mencionados en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca y toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal y Municipal, en los Poderes Legislativo y Judicial del Estado y en los órganos públicos a los que otorgue autonomía la Constitución del Estado, así como en aquellos que sean autónomos por la naturaleza de su creación, sea cual fuere la naturaleza de su nombramiento, designación o elección.
 
 También quedan sujetos a esta Ley, todas aquellas personas que manejen, recauden, apliquen, administren o resguarden recursos económicos estatales, municipales, concertados o convenidos por el Estado con la Federación o con sus Municipios.
 
@@ -127,17 +129,17 @@ I.- Ley: a la Ley de Responsabilidades de los Servidores Públicos del Estado y 
 
 II.- Contraloría: a la Secretaría de la Contraloría y Transparencia Gubernamental del Poder Ejecutivo del Estado de Oaxaca;
 
-en los Poderes legislativo y Judicial y en los Órganos Autónomos del Estado, a los Contralores Internos o equivalentes o al órgano que determine su respectiva Ley orgánica; (sic)
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+III.- Superior Jerárquico: en el Poder Ejecutivo del Estado, a los titulares de las Dependencias y Entidades, en el Poder Legislativo del Estado, al Presidente de la Mesa Directiva; en el Poder Judicial, al Presidente del Tribunal Superior del Estado; quienes aplicarán las sanciones que establece esta Ley, por conducto de su Órgano de Control Interno, cuando sus respectivas Leyes orgánicas no dispongan otra cosa; y en el gobierno Municipal, al Ayuntamiento, que determinará las sanciones cuya imposición se le atribuyen, para ejecución o aplicación por el Presidente Municipal.
 
-III.- Organo de Control Interno: en las Dependencias y Entidades de la Administración Pública, a los Delegados de la Secretaría de la Contraloría o equivalentes; en el Gobierno Municipal, a los Contralores Internos o equivalentes; en el Poder Legislativo, a la Contaduría Mayor de Hacienda o al Organo que determine la Ley Orgánica de dicho Poder, y en el Poder Judicial, a los Contralores Internos o al Organo que determine la Ley Orgánica de dicho Poder.
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-IV.- Salario Mínimo Mensual: el equivalente de treinta veces el salario mínimo diario vigente en la Capital del Estado
+IV.- Órgano de Control Interno: En el Poder Ejecutivo, a la Contraloría; en el Gobierno Municipal, a los Contralores Internos o equivalentes; y en los Poderes Legislativo y Judicial y en los Órganos Autónomos del Estado, a los Contralores Internos o equivalentes o al órgano que determine su respectiva Ley orgánica;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-V.- Salario Mínimo: el salario mínimo diario vigente en el Estado; (sic)
+V.- Salario Mínimo: el salario mínimo diario vigente en el Estado;
 
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -155,9 +157,13 @@ VIII.- Dependencias: las contempladas en la fracción I del artículo 3 de la Le
 
 IX.- Entidades: las contempladas en la fracción II del artículo 3 de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca;
 
+> <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+X.- Órganos Autónomos: Los establecidos en el artículo 114 de la Constitución Política del Estado Libre y Soberano de Oaxaca, así como aquellos que sean autónomos por la naturaleza de su creación;
+
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XI (Sic).- Instituciones públicas: la Administración Pública Estatal, los organismos que conforman los Poderes Legislativo y Judicial, los Órganos Autónomos y los Municipios; y
+XI.- Instituciones públicas: la Administración Pública Estatal, los organismos que conforman los Poderes Legislativo y Judicial, los Órganos Autónomos y los Municipios; y
 
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -167,9 +173,11 @@ XII.- Poderes: al Poder Ejecutivo, Legislativo y Judicial, conforme a la Constit
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 7º.
 
-Son sujetos de juicio político los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia del Estado, los Titulares de las Secretarías y el Procurador General de Justicia del Estado.
+Son sujetos de juicio político los Diputados del Congreso del Estado; los Magistrados del Tribunal Superior de Justicia del Estado, los Magistrados de los Tribunales Especializados; los titulares de las Secretarías, el Procurador General de Justicia del Estado; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director, el Secretario General y los Consejeros Electorales del Instituto Estatal Electoral y de Participación Ciudadana; el Auditor Superior del Estado; los Magistrados del Tribunal de lo Contencioso Administrativo y los que integran el máximo órgano de Gobierno de los Órganos Autónomos.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -435,9 +443,11 @@ El Congreso del Estado recibirá la notificación de las declaratorias de las C�
 
 ### CAPITULO UNICO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 43.
 
-La Contraloría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos de las dependencias y entidades de la administración Pública del Estado en los términos de esta Ley y demás disposiciones aplicables.
+La Contraloría llevará el registro y seguimiento de la situación patrimonial de los servidores públicos de las Dependencias y Entidades de la Administración Pública Estatal, en los términos de la Ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -459,7 +469,11 @@ III.- En el Poder Judicial: los Magistrados, Jueces, Secretarios Judiciales, Act
 
 IV.- En el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca: todos los servidores públicos, desde el Consejero Presidente hasta el nivel de Jefe de Departamento o equivalente;
 
-VI (Sic).- En la Defensoría de los Derechos Humanos del Pueblo de Oaxaca: todos los servidores públicos desde el Defensor de los Derechos Humanos del Pueblo de Oaxaca hasta el nivel de Jefe de Departamento o equivalente;
+> <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+V.- En la Auditoría Superior del Estado: todos los servidores públicos, desde el nivel de Sub-auditor hasta el nivel de Jefe de Departamento o equivalente.
+
+VI.- En la Defensoría de los Derechos Humanos del Pueblo de Oaxaca: todos los servidores públicos desde el Defensor de los Derechos Humanos del Pueblo de Oaxaca hasta el nivel de Jefe de Departamento o equivalente;
 
 VII.- En los demás órganos jurisdiccionales e instituciones que determinen las Leyes: todos los servidores públicos, desde los Titulares de aquellos hasta el nivel de Jefe de Departamento o equivalente; y
 
@@ -489,7 +503,9 @@ III.- Final: dentro de los treinta días naturales siguientes a la conclusión d
 
 La Contraloría, la Auditoría y los Órganos de Control Interno en los Poderes Legislativo y Judicial y en los Órganos Autónomos, expedirán las normas, manuales, formatos e instructivos que señalarán lo que es obligatorio declarar y establecerán los medios para la presentación de la declaración de situación patrimonial.
 
-La Contraloría, la Auditoría y los Órganos de Control Interno en los Poderes Legislativo y Judicial y en los Órganos Autónomos, en el ámbito de sus respectivas competencias, tendrán a su cargo la implementación, administración y control del sistema de certificación de los medios de identificación electrónica que utilicen los servidores públicos.
+> <small>(REFORMADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+La declaración de situación patrimonial se podrá presentar mediante formatos impresos en medios magnéticos o por internet, empleándose en este último caso, medios de identificación electrónica conforme a las reglas de carácter general que expidan la Contraloría, la Auditoría y los Órganos de Control Interno.
 
 Para el efecto del cómputo de la presentación de la declaración patrimonial, las unidades administrativas en el Poder Ejecutivo y sus equivalentes en los Poderes Legislativo y Judicial, en los Órganos Autónomos y en los Municipios, en el ámbito de sus competencias, le notificarán al servidor público, dentro de los diez días siguientes a la toma de posesión y a la conclusión de su empleo, cargo o comisión, las obligaciones establecidas en el artículo 45 de esta Ley.
 
@@ -527,15 +543,21 @@ La información y documentación relativa a la situación patrimonial de los ser
 
 El manejo indebido o ilícito de la información contenida en el registro a que se refiere este artículo, será motivo de responsabilidad administrativa .y se sancionará por las autoridades competentes. La Contraloría, la Auditoría y los Órganos de Control Interno en los Poderes Legislativo y Judicial y en los Órganos Autónomos, denunciarán a través de su titular, los hechos al Ministerio Público cuando consideren la probable comisión del delito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 48.
 
-Si transcurridos los plazos a que hacen referencia las fracciones I y II del artículo 45 de esta Ley, no se hubiese presentado la declaración correspondiente, sin causa justificada, el servidor público omiso se hará acreedor a las sanciones administrativas previstas en el artículo 57 de la presente Ley, previa declaración de la Contraloría y substanciado el procedimiento administrativo que establece el Título Cuarto de esta Ley, declaración que se comunicará, en su caso, al titular de la dependencia o entidad en la que se encuentre adscrito el servidor público.
+Si transcurridos los plazos establecidos en el artículo 45 de esta Ley, no se hubiese presentado la declaración correspondiente, sin causa justificada, se considerará omiso al servidor público, lo cual no le eximirá de cumplir con la declaración respectiva.
 
-En el procedimiento que se instruya contra el servidor público omiso, al formularse el citatorio previsto por esta Ley se le prevendrá que de no presentar la declaración omitida dentro de los quince días naturales siguientes a la fecha de notificación del citatorio, la Contraloría procederá a la investigación del patrimonio del infractor en los términos del artículo 49 de esta Ley.
+En caso de incumplimiento de las obligaciones establecidas en las fracciones I y II del artículo 45 de esta Ley, la Contraloría, la Auditoria o el Órgano de Control Interno competente, sancionará al servidor público omiso con amonestación pública, que procederá de plano, y requerirá por oficio al superior jerárquico del omiso para que conmine de inmediato al servidor público a cumplir con su obligación en un término de quince días naturales, contados a partir del momento en que sea requerido. Si transcurrido dicho término el superior jerárquico o el servidor público omiso no cumplen con su correspondiente obligación, se les instaurará el procedimiento de responsabilidad a que alude el artículo 69 de esta Ley.
 
-Para el caso de que se omita la declaración prevista por la fracción III del artículo 45, la Contraloría procederá a la investigación del patrimonio del servidor público infractor en los términos del artículo 49 de esta Ley, sin perjuicio de aplicar una sanción económica consistente en el importe de quince días a seis meses del último sueldo base presupuestal percibido por el servidor público, o inhabilitarlo por un período de uno a seis años, o ambas sanciones.
+En caso de reincidencia, se aplicara sanción económica que consistirá en el importe equivalente a quince días del último sueldo base presupuestal percibido por el servidor público omiso, incrementándose en la misma proporción hasta un máximo de tres meses, en caso de que persista la omisión. De continuar esta, el servidor público podrá ser sancionado con la destitución o con la inhabilitación hasta por un año.
+
+Tratándose de incumplimiento a la fracción III del artículo 45 de esta Ley, se iniciará contra el omiso el procedimiento administrativo establecido en el artículo 69 de este ordenamiento.
+
+El servidor público que en su declaración de situación patrimonial deliberadamente faltare a la verdad en relación a los datos que debe manifestar en términos de esta Ley, previa sustanciación del procedimiento, será destituido e inhabilitado por un periodo de uno a cinco años.
+
+La falsedad en las declaraciones de situación patrimonial, será considerada conducta grave, por lo que, además de la sanción administrativa señalada en el párrafo anterior, la Contraloría, la Auditoría o los Órganos de Control Interno competentes, a través de su titular, formulará la denuncia correspondiente ante el Ministerio Publico para los efectos legales procedentes.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -549,9 +571,11 @@ La Auditoría, los Órganos de Control Interno en los Poderes Legislativo y Judi
 
 Será el superior jerárquico de la institución pública o a quien este designe, el ejecutor de las sanciones que recaigan sobre los titulares de las áreas administrativas de vigilancia y control de la Contraloría, de la Auditoría, de los Órganos de Control Interno en los Poderes Legislativo y Judicial y en los Órganos Autónomos y en los Ayuntamientos, que se abstengan injustificadamente de investigar o sancionar a los infractores, o que al hacerlo no se ajusten a las disposiciones jurídicas o administrativas aplicables, así como cuando incurran en actos u omisiones que impliquen responsabilidad administrativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 49.
 
-> <small>[N. DE E. "El artículo 49, fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fraccion II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 10 de octubre de 2013 y recibido en el Poder Legislativo con fecha 11 del mismo mes y año".]</small>
+La Contraloría, la Auditoría y los Órganos de Control Interno podrán llevar a cabo investigaciones, visitas de inspección, auditorías, así como, cualquier acto de fiscalización y de comprobación para verificar el seguimiento de la situación patrimonial de los servidores públicos, en los términos siguientes:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -565,21 +589,39 @@ II.- Dentro del plazo de treinta días hábiles, contados a partir de la recepci
 
 III.- Cuando no fuere posible entregar el citatorio, o cuando el servidor público o la persona con quien se entienda la notificación se negaren a firmar de recibido, el notificador hará constar dicha circunstancia en un acta que levantará ante dos testigos, sin que ello afecte el valor probatorio del documento.
 
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 49 Bis.
+
+Previamente a las investigaciones, visitas de inspección, auditorias, así como, cualquier acto de fiscalización y de comprobación, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que exponga lo que a su derecho convenga.
+
+Contra los hechos contenidos en las actas respectivas, el servidor público presentará mediante escrito ante la Contraloría, la Auditoría o los Órganos de Control Interno competentes, dentro de los diez días hábiles siguientes a su realización, el ofrecimiento de las pruebas que a su derecho convenga.
+
+Una vez desahogadas las pruebas admitidas, si las hubiere, la Contraloría, la Auditoría y los Órganos de Control Interno competentes contarán con un plazo de diez días hábiles para emitir su resolución.
+
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 50.
 
 Todas las actas que se levanten con motivo de las investigaciones, visitas de inspección, auditorías, así como cualquier acto de fiscalización y de comprobación, se harán constar por escrito y deberán ser firmadas por el servidor público y los testigos que para tal efecto designe éste. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio del documento, conforme al artículo 64 del Código Fiscal para el Estado de Oaxaca.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 50 Bis.
 
-Para los efectos del párrafo anterior, los titulares de la Contraloría, la Auditoría y los Órganos de Control interno competentes, o de conformidad a lo señalado en su marco normativo, podrán solicitar adicionalmente la información bancaria que corresponda a la Comisión Nacional Bancaria y de Valores, así como aquella de competencia del Servicio de Administración Tributaria. (Sic)
+Las instituciones públicas del Estado estarán obligadas a proporcionar a la Contraloría, a la Auditoría o a los Órganos de Control Interno competentes, la información fiscal, inmobiliaria o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinas o concubinarios y dependientes económicos directos, con la finalidad de que la autoridad verifique el seguimiento de la situación patrimonial de aquéllos.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Para los efectos del párrafo anterior, los titulares de la Contraloría, la Auditoría y los Órganos de Control interno competentes, o de conformidad a lo señalado en su marco normativo, podrán solicitar adicionalmente la información bancaria que corresponda a la Comisión Nacional Bancaria y de Valores, así como aquella de competencia del Servicio de Administración Tributaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 51.
 
-La Contraloría hará al Ministerio Público, en su caso, declaratoria de que el servidor sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio manifestado, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo. Al efecto presentará la denuncia de hechos correspondiente para que el Ministerio Público inicie la averiguación previa.
+La Contraloría, la Auditoría, y los Órganos de Control Interno correspondientes, formularán en el ámbito de sus respectivas competencias la denuncia de hechos al Ministerio Publico, y en su caso, la determinación de los daños y perjuicios que al erario público causó el servidor público sujeto a la investigación respectiva, en los términos de la presente Ley, así como no haber justificado la procedencia licita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -919,21 +961,37 @@ Las sanciones económicas o pagos en dinero que se determinen conforme a las dis
 
 VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público estatal y municipal.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique beneficio y/o lucro, o cause daños y/o perjuicios, se sancionará de conformidad con lo siguiente:
+Cuando no se causen daños o perjuicios al Estado o a particulares, ni exista beneficio o lucro alguno se impondrá inhabilitación de seis meses a un año. La misma sanción se fincará al servidor público que cometa violaciones a los derechos humanos y conductas que pudieran constituir delitos, independientemente del procedimiento penal que pudiera instaurarse.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 a) Si el monto del beneficio y/o lucro, daños y/o perjuicios es de diez a quinientos salarios mínimos diarios, se impondrán de uno a seis meses;
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 b) Si el monto del beneficio y/o lucro, daños y/o perjuicios es de quinientos uno a mil salarios mínimos diarios, se impondrán de seis a doce meses;
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 c) Si el monto del beneficio y/o lucro, daños y/o perjuicios es de mil uno a cuatro mil salarios mínimos diarios se impondrán de uno a diez años; y
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 d) Si el monto del beneficio y/o lucro, daños y/o perjuicios excede de cuatro mil uno salarios mínimos diarios, se impondrán de diez a veinte años.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 Este último plazo de inhabilitación también será aplicable por conductas graves de los servidores púbicos.
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+En caso de infracciones graves cuando se imponga la sanción de inhabilitación y el servidor público esté en ejercicio de sus funciones, será destituido del cargo correspondiente, según el ámbito de competencia de las autoridades establecidas en el artículo 3 de esta Ley.
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+Se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones II, III, V, VI, VII, IX, XVII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVII, L, LI y LII del artículo 56. así como el párrafo último del artículo 48 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -1519,4 +1577,24 @@ P. O. 8 DE SEPTIEMBRE DE 2012.
 
 P.O. 18 DE OCTUBRE DE 2013.
 
-EL DECRETO DEL ORDENAMIENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA.
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+PRIMERO. Las reformas a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, entrarán en vigor a los setecientos treinta días naturales, siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+SEGUNDO. Los órganos de Control Interno, emitirán los instrumentos necesarios para la aplicación de las reformas a la Ley, así como, solicitarán los ajustes financieros y estructurales necesarios, dentro del plazo señalado en el artículo anterior.
+
+Se faculta a las secretarías de Finanzas, Administración y de la Contraloría y Transparencia Gubernamental, para llevar a cabo las gestiones y acuerdos que sean necesarios para la operatividad de la presente Ley.
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+TERCERO. Las infracciones cometidas con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la Ley vigente al momento de su comisión.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de los procedimientos administrativos que se estipulan en el presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Comuníquese al Titular del Ejecutivo, para los efectos legales correspondientes.
