@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2012-12-28"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NÚMERO 428
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -247,7 +247,9 @@ II.- Presentar declaraciones mensuales del pago de este Impuesto, ante las ofici
 
 III.- Expedir comprobantes por los servicios prestados y conservar un ejemplar de los mismos a disposición de la Secretaría de Finanzas y Administración;
 
-IV.- Llevar contabilidad y efectuar los registros en la misma de los ingresos a que se refiere el artículo 1o. de esta Ley, en los términos de la Ley del Impuesto Sobre la Renta; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+V.- Presentar ante la Administración o Agencia Fiscal Estatal de su jurisdicción, copia de su declaración anual del Impuesto Sobre la Renta, normal y complementarias, dentro de los diez días siguientes a su presentación ante el Servicio de Administración Tributaria.
 
 V.- Presentar ante la Administración o Agencia Fiscal Estatal de su jurisdicción, copia de su declaración anual del Impuesto Sobre la Renta, normal y complementarias, dentro de los diez días siguientes a su presentación ante las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público.
 
@@ -323,6 +325,18 @@ En los casos en que el documento cause efectos dentro del Estado, el fedatario p
 
 La infracción de esta regla los hará solidariamente responsable del pago del crédito fiscal respectivo.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 12 Bis.
+
+Los retenedores de este impuesto, además de las obligaciones establecidas en otras disposiciones fiscales, tendrán las siguientes:
+
+I.- Inscribirse en el Registro Estatal de Contribuyentes ante las oficinas autorizadas, dentro de los treinta días siguientes a la fecha de inicio de sus actividades, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Administración;
+
+II.- Presentar declaraciones mensuales del pago de este impuesto, ante las oficinas fiscales y por lo medios autorizados, a más tardar el día 17 de (sic) mes del calendario inmediato posterior al que corresponda el pago; y
+
+III.- Llevar la contabilidad y efectuar los registros de los actos y contratos de todos los instrumentos públicos que realicen en el Estado y en la República Mexicana.
+
 ### CAPITULO III. IMPUESTOS SOBRE DIVERSIONES, ESPECTACULOS PUBLICOS Y JUEGOS PERMITIDOS
 
 ###### ARTICULO 13.
@@ -331,9 +345,11 @@ Es objeto de este impuesto la percepción de ingresos derivados de la explotaci�
 
 Se considera espectáculo público todo acto, función, diversión o entretenimiento al que tenga acceso el público, y cubra una cuota de entrada, donativo, cooperación o cualquier otro concepto, ya sea directamente o por un tercero.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 14.
 
-Son sujetos del impuesto las personas físicas o morales que obtengan ingresos derivados de la explotación de las actividades a que se refiere el artículo anterior, que se organicen, exploten o patrocinen en el Estado de Guerrero, por los que no estén obligados al pago del Impuesto al Valor Agregado.
+Son sujetos del impuesto las personas físicas o morales que obtengan ingresos derivados de la organización, explotación o patrocinio de las actividades a que se refiere el artículo anterior, que se realicen en el Estado de Guerrero, por los que no estén obligados al pago del Impuesto al Valor Agregado, debiéndose comprobar mediante la declaración de pago el impuesto federal ante la autoridad fiscal estatal, dentro de los seis días hábiles anteriores a la realización del evento.
 
 ###### ARTICULO 15.
 
@@ -577,19 +593,19 @@ La Secretaría de Finanzas y Administración se reserva el derecho para practica
 
 ### CAPITULO VI. IMPUESTO SOBRE REMUNERACIONES AL TRABAJO PERSONAL
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 34.
 
-Es objeto del Impuesto Sobre Remuneraciones al Trabajo Personal, la realización de pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, aun cuando quien los eroga tenga su residencia fuera de la Entidad.
+Es objeto del Impuesto Sobre Remuneraciones al Trabajo Personal, la realización de pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado bajo la dirección o dependencia de un patrón, dentro del territorio del Estado, aun cuando quien los eroga tenga su residencia fuera de la Entidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Se considera también como trabajo personal prestado dentro del territorio del Estado, cuando se realice en la Zona Federal Marítimo Terrestre y Territorios Ganados al Mar, ubicados en la franja costera en la que colinde el Estado con el Océano Pacífico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 35.
 
-La base para el pago de este impuesto, tanto de los sujetos directos como de los retenedores, será el total de remuneraciones al trabajo personal, las cuales incluyen todas las prestaciones y contraprestaciones, cualquiera que sea el nombre que se les designe, ya sea ordinarias o extraordinarias, incluyendo sueldos y salarios, primas vacacionales, viáticos, gastos de representación, comisiones, permisos, gratificaciones, tiempo extraordinario de trabajo, premios, bonos, estímulos, incentivos, compensaciones, aguinaldo, pagos realizados a administradores, comisarios, miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones y otros conceptos de naturaleza análoga.
+La base para el pago de este impuesto, tanto de los sujetos directos como de los retenedores, será el total de remuneraciones al trabajo personal, las cuales incluyen todas las prestaciones y contraprestaciones, cualquiera que sea el nombre que se les designe, ya sea ordinarias o extraordinarias, incluyendo sueldos y salarios, primas vacacionales, viáticos, gastos de representación, comisiones, permisos, gratificaciones, tiempo extraordinario de trabajo, premios por asistencia, bonos, estímulos, incentivos, compensaciones, aguinaldo, despensas en efectivo y en especie, así como las remuneraciones por honorarios asimilados a salarios o sueldos asimilados a salarios a personas que presten servicios a un prestatario, en el supuesto en que los mismos se lleven a cabo en las instalaciones de éste último, o independientemente del lugar en que se presten, pagos realizados a administradores, comisarios, miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones y otros conceptos de naturaleza análoga.
 
 A la base gravable para el cálculo de este impuesto le serán deducidos las erogaciones exentas estipuladas en el artículo 41 de esta Ley de Hacienda del Estado de Guerrero.
 
@@ -751,7 +767,7 @@ El Impuesto Sobre Remuneraciones al Trabajo Personal, se causará con la tasa de
 
 Las dependencias del Gobierno Federal, Estatal o Municipal, así como los organismos y empresas paraestatales que contraten con personas físicas o morales la realización de obras o servicios, están obligadas a informar por escrito de las mismas, a la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, dentro de los 15 días siguientes a la firma del o de los contratos respectivos, esta información deberá presentarse en la Administración y/o Agencia Fiscal donde se encuentre ubicada la obra; asimismo deberán exigir a los contratados su comprobante de inscripción para efectos del pago del Impuesto Sobre Remuneraciones al Trabajo Personal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ARTICULO 40 BIS.- La Secretaría de Finanzas y Administración podrá celebrar Convenios de Colaboración Administrativa, para la recaudación del Impuesto Sobre Remuneraciones al Trabajo Personal con: las dependencias y entidades del Gobierno Federal, los Municipios del Estado, Fideicomisos Públicos Estatales y Municipales, Organismos Públicos Autónomos y Descentralizados, y Empresas de Participación Municipal y Estatal, que contraten con personas físicas o morales la realización de obras o servicios en el Estado de Guerrero, con el objeto de que se constituyan como retenedores de dicho impuesto, a favor de la Hacienda Pública estatal; en los cuales podrán establecerse incentivos a favor de las Entidades y Entes Públicos Estatales y Municipales, que recauden por cuenta del Estado dicho Impuesto.
 
@@ -869,7 +885,7 @@ b). Los propietarios que realicen modificaciones y/o remodelaciones a una vivien
 
 IMPUESTOS ADICIONALES PARA EL FOMENTO EDUCATIVO, ECONOMICO, SOCIAL Y ECOLOGICO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 43.
 
@@ -933,21 +949,13 @@ ARTICULO 47 BIS.- Cuando deba efectuarse retención de alguna de las contribucio
 
 Es objeto del Impuesto sobre la Prestación de Servicios de Hospedaje, la percepción de ingresos, dentro del territorio del Estado, por la prestación del servicio de hospedaje, en hoteles, moteles, tiempo compartido o multipropiedad, campamentos, hosterías, posadas, mesones, paraderos de casas rodantes, casas de huéspedes, suites, villas, bungaloes, casas y departamentos amueblados y todo tipo de construcción en que se proporcione alojamiento.
 
-Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+Para los efectos de este impuesto, se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación.
 
-Los ingresos que se genere por la recaudación de este Impuesto, será destinado totalmente para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cua-litativamente (sic) los flujos turísticos.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
-> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
-> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+Los ingresos que se generen por la recaudación de este Impuesto, serán destinados para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos.
 
 ###### ARTICULO 49.
 
@@ -1499,6 +1507,10 @@ Al momento de efectuar la baja de placa, la oficina autorizada, deberá cerciora
 
 No se causará el derecho por cambio de propietario en el caso de operaciones realizadas en otras Entidades Federativas o el Distrito Federal, siempre y cuando se exhiba el comprobante de pago que acredite haber cubierto esta operación.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+4.- Para cualquier trámite que implique movimiento del padrón vehicular, el contribuyente deberá tener su residencia dentro de la jurisdicción de la Entidad, en que se encuentre ubicada la Administración o Agencia Fiscal, demostrando esto a suficiencia con los documentos correspondientes que señale la Secretaría de Finanzas y Administración.
+
 ###### ARTICULO 65.
 
 La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, al pre-sentarle (sic) el interesado el recibo oficial que acredite su pago.
@@ -1530,6 +1542,10 @@ II.- Realizar sus Avalúos con responsabilidad, honestidad, profesionalismo, y e
 III.- Emitir de manera personal el dictamen técnico plasmado en el avalúo con fines fiscales que en todo momento realicen, el cual estará bajo su propia responsabilidad;
 
 IV.- La vigencia del Avalúo con Fines Fiscales será de seis meses, contados a partir de la fecha de su autorización.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+V.- Comprobar residencia permanente en el Estado, acreditándola a través de la Cédula de Identificación Fiscal Federal, expedida por el Servicio de Administración Tributaria.
 
 ###### ARTICULO 69.
 
@@ -1661,7 +1677,13 @@ C).- Licencia provisional para manejar hasta por 30 días: 1.77
 
 D).- Para menores de edad de 16 a 18 años hasta por 6 meses: 6.92
 
-El pago de estos derechos incluye examen médico y de manejo.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+El pago de estos derechos incluye examen de manejo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+E).- Por el examen médico para licencia de manejo 1.5
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
@@ -1747,13 +1769,13 @@ Por los servicios de Control Vehicular se causarán y pagarán los derechos corr
 
 T A R I F A
 
-I.- Por la expedición de placas, tarjeta de circulación y calcomanía de matrícula de automóviles, camionetas, remolques y similares de servicio particular:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I.- Por la expedición de placas, tarjeta de circulación y calcomanía de matrícula de automóviles, camiones, camionetas, autobuses, microbuses, remolques y similares de servicio particular:
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-A).- Automóviles, camiones, camionetas, autobuses y microbuses 5.65
+A).- Automóviles, camiones, camionetas, autobuses y microbuses 6.20
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2031,7 +2053,13 @@ A).- Todo tipo de servicio público incluyendo tarjetón:
 
 V.- EXPEDICIÓN O REPOSICIÓN DE LICENCIA ÚNICA DE MANEJO PARA EL SERVICIO PUBLICO DE TRANSPORTE 6.21
 
-A).- Por el servicio médico de medicina preventiva de transporte, para expedición de la licencia única de manejo 1.75
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+A) Por el examen médico para expedición de la licencia única de manejo 1.75
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+B).- Tarjeta de identificación del operador del servicio público de transporte 1.5
 
 ### CAPITULO VI
 
@@ -2045,13 +2073,21 @@ Los Servicios que presta la Dirección del Registro Público de la Propiedad, de
 
 I.- Por la inscripción de sociedades mercantiles o incremento de su capital social; 4 al millar, sobre el monto del capital o de su incremento.
 
-II.- Por el registro de documentos inscribibles, concernientes a todo tipo de bienes inmuebles, excepto los señalados en las fracciones XXII y XXIII de este artículo siempre y cuando dichos documentos sean elaborados en el Estado, el cobro se hará con base en el valor más alto que resulte entre el avalúo catastral, el valor de la operación consignado en la escritura respectiva y el avalúo con fines fiscales, el cual deberá ser elaborado por perito valuador debidamente autorizado por la Secretaría de Finanzas y Administración; 4 al millar
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de protocolizaciones de las mismas, donde no implique aumento de capital causarán una cuota de 21 salarios mínimos en los elaborados dentro del Estado y 30 salarios mínimos a los elaborados fuera del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+II.- Por el registro de documentos inscribibles, concernientes a todo tipo de bienes inmuebles incluyendo los contratos de división de cosa común, excepto los señalados en las fracciones XXII y XXIII de este artículo siempre y cuando dichos documentos sean elaborados en el Estado, el cobro se hará con base en el valor más alto que resulte entre el avalúo catastral, el valor de la operación consignado en la escritura respectiva y el avalúo con fines fiscales, el cual deberá ser elaborado por perito valuador debidamente autorizado por la Secretaría de Finanzas y Administración; 4 al millar
 
 En ningún caso el pago por los Derechos del Registro Público, de cada documento, será inferior a 2 salarios mínimos.
 
 III.- Por el registro de documentos inscribibles, relativos a todo tipo de bienes muebles, siempre y cuando dichos documentos sean elaborados en el Estado, se cobrará tomando como base el valor comercial de estos; 4 al millar
 
-IV.- Por la inscripción de todo tipo de embargos incluyendo los laborales y fiscales, así como providencias precautorias, a excepción de la de alimentos y avisos preventivos, a que se refiere el primer párrafo del artículo 2889 del Código Civil, se causará sobre el monto de los mismos; 4 al millar
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+IV.- Por la inscripción de todo tipo de embargos, excluyendo los laborales, así como providencias precautorias, a excepción de la de alimentos y avisos preventivos, a que se refiere el primer párrafo del artículo 2889 del Código Civil, se causará sobre el monto de los mismos; 4 al millar
 
 V.- Por el registro de documentos inscribibles, relacionados con todo tipo de contratos de arrendamiento y siempre que sea por más de seis años o con anticipo de rentas por más de tres, el cobro se hará sobre el total del valor consignado o del monto de lo anticipado según el caso; 4 al millar
 
@@ -2171,7 +2207,9 @@ d).- De inscripción en libros, por las tres primeras hojas 3.0
 
 XXI.- Por la ratificación de firmas ante los funcionarios del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, se causará la tarifa equivalente a Cuatro días de salario mínimo vigente.
 
-XXII.- Por la inscripción de la escritura constitutiva del régimen de propiedad en condominio, se cobrará sobre el valor más alto que resulte entre el avalúo catastral y el avalúo con fines fiscales, el cual deberá ser elaborado por perito valuador debidamente autorizado por la Secretaría de Finanzas y Administración; 6 al millar
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXII.- Por la inscripción de la escritura constitutiva del régimen de propiedad en condominio, se cobrará sobre el valor más alto que resulte entre el valor catastral, el avalúo con fines fiscales y el valor establecido en la tabla de valores que se señala en la memoria descriptiva de dicho régimen, éstos dos últimos deberán ser elaborados por peritos valuadores debidamente autorizados por la Secretaría de Finanzas y Administración; 6 al millar
 
 XXIII.- El pago de derechos por el registro de la constitución del Sistema de Tiempo Compartido y Multipropiedad, se cobrará aplicando la tasa del 6 al millar, sobre el valor más alto que resulte entre el avalúo catastral, y el avalúo con fines fiscales, el cual deberá ser elaborado por perito valuador debidamente autorizado por la Secretaría de Finanzas y Administración;
 
@@ -2181,11 +2219,9 @@ Por el registro de los derechos de los tiempo-compartidarios del Sistema de Tiem
 
 Cuando se solicite el registro de Sistemas de Tiempo Compartido que aún no se encuentren construidos o estén en proceso, la base para el cobro de este derecho será el valor fiscal que de acuerdo al proyecto tenga el inmueble. 4 al millar
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-XXIV.- Tratándose del registro de documentos inscribibles señalados en las fracciones anteriores, que se elaboren fuera del Estado 6.0 al millar; cuando sean de aquellos que no expresan valor, se causará una cuota de 11.50 que se determinará por el Director del Registro Público de la Propiedad, del Comercio y Crédito Agrícola.
+XXIV.- Tratándose del registro de documentos inscribibles señalados en las fracciones anteriores, que se elaboren fuera del Estado 6.0 al millar; cuando sean de aquellos que no expresan valor, se causará una cuota de 11.50 salario (sic) mínimos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2377,13 +2413,17 @@ I).- Otros:
 
 No se causarán los impuestos adicionales a que se refieren los artículos 43 en su inciso h), 44, 45 y 46 de la Presente Ley de Hacienda del estado de Guerrero, en los conceptos del inciso I) de esta fracción.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-J).- Autorización de Registro Extemporáneo de Defunción, 4.80
+11).- Autorización de Registro Extemporáneo de Defunción, 4.80
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-K).-Rectificación Administrativa, 14.50
+12).- Rectificación Administrativa, 14.50
+
+J).- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2013)
+
+K).- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3311,7 +3351,7 @@ VI.- Por el permiso para llevar a cabo la realización de cruzamientos aéreos o
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-ARTICULO 101 Bis II (sic).- Por los servicios que preste el Instituto de la Policía Auxiliar del Estado de Guerrero, se causarán derechos de conformidad con las tarifas siguientes:
+ARTICULO 101 Bis II.- Por los servicios que preste el Instituto de la Policía Auxiliar del Estado de Guerrero, se causarán derechos de conformidad con las tarifas siguientes:
 
 I.- Por los servicios de seguridad y protección de personas y vigilancia interior y exterior de lugares y establecimientos públicos y privados de seguridad y vigilancia de eventos públicos y de particulares:
 
@@ -3319,17 +3359,17 @@ I.- Por los servicios de seguridad y protección de personas y vigilancia interi
 
 a).- Por un elemento con servicio de 12 horas con un día de descanso por semana, 175 salarios mínimos, mensuales;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-b).- Por dos elementos alternados con servicios de 24 horas, 350 salarios mínimos, mensuales, y (sic)
+b).- Por dos elementos alternados con servicios de 24 horas, 350 salarios mínimos, mensuales;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 11 salarios mínimos diarios.
+c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 11 salarios mínimos diarios; y
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobrarán 11 salarios mínimos diarios, por servicio de 12 horas.
+d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobrarán 11 salarios mínimos diarios, por servicio de 12 horas y 22 salarios mínimos diarios, por servicio de 24 horas.
 
 II.- Por asesoría para la presentación de proyectos integrales de seguridad, 30 salarios mínimos;
 
@@ -3347,6 +3387,8 @@ IV.- Por los servicios de seguridad y protección de personas, en la modalidad d
 
 V.- Por los servicios análogos que se relacionan con el cumplimiento de su objeto:
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 CONCEPTO CUOTA
 
 Uniformes especiales A presentación de facturas
@@ -3363,7 +3405,7 @@ Gastos médicos y/o Funerarios A presentación de facturas
 
 Renta de casa-habitación Al valor del costo del contrato de
 
-y servicios (agua, luz y teléfono) arrendamiento de que se trate.
+y servicios (agua, luz y teléfono) arrendamiento de que se trate
 
 Reparación de armamento A cotización emitida por el departamento de
 
@@ -3371,15 +3413,31 @@ registro, control y portación de armamento,
 
 municiones y equipo del IPAE
 
+Arma adicional tipo corta 75 salarios mínimos, mensuales
+
+o larga
+
+Otros conceptos que dañen A presentación de facturas y
+
+y/o pongan en perjuicio el cotización emitida por el
+
+patrimonio del IPAE y el departamento de recursos materiales
+
+patrimonio del y/o oficina de mantenimiento
+
+contratante de servicio. y servicios generales
+
 Unidad canina con servicio 350 salarios mínimos, mensuales
 
-de 12 horas, con un día de
+de 12 horas, con un día
 
-descanso por semana
+de descanso por semana
+
+(instructor y canino).
 
 Traslado en ambulancia 100 salarios mínimos por traslado
 
-Acapulco-México
+Acapulco- México
 
 Traslado en ambulancia 40 salarios mínimos por traslado
 
@@ -3387,11 +3445,11 @@ Acapulco-Chilpancingo
 
 Traslado en ambulancia 100 salarios mínimos por traslado
 
-Acapulco-Zihuatanejo
+Acapulco- Zihuatanejo
 
 con resguardo
 
-Reposición de credencial 1 salario mínimo diario
+Reposición de documento 1 salario mínimo diario
 
 de identidad policial
 
@@ -3775,7 +3833,9 @@ h) Otros recurso federalizados
 
 Los Organismos Públicos Descentralizados como personas jurídicas, cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la Administración Pública, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a las, cuotas y tarifas que señale su órgano de Gobierno respectivo, y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
 
-Los recursos que recauden deberán ser reportados mensualmente a la Secretaría de Finanzas y Administración del Gobierno Estatal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Los recursos que recauden deberán ser concentrados diariamente a la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -4763,131 +4823,9 @@ Reposición de Kardex $ 20.00 $ 20.00
 
 ARTICULO 114 Bis V.- Por la prestación de los servicios proporcionados por el Sistema para el Desarrollo Integral de la Familia, se aplicarán las siguientes tarifas:
 
-DERECHOS:
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 25 A LA 26.</small>
 
-CUOTA
-
-($)
-
-SERVICIO
-
-Inscripción mensualidad
-
-Centros de Capacitación 25.00 50.00
-
-Guardería Popular de Acapulco 100.00 300.00
-
-CONCEPTO cuota de
-
-recuperación $
-
-Canalización y Traslado de Pacientes 50.00
-
-PROGRAMA ALIMENTARIO
-
-CONCEPTO Cuota de
-
-recuperación $
-
-Módulos y Desayunos Escolares Calientes 90.00
-
-Despensas para sujetos Vulnerables 3.00
-
-Despensas Combate a la Desnutrición 10.00
-
-Raciones para menores de cinco años 0.00
-
-Despensas para Familias en Desamparo 0.00
-
-CENTRO DE REHABILITACIÓN
-
-INTEGRAL GUERRERO.
-
-TIPO DE CUOTA CUOTA $
-
-SERVICIO DESDE HASTA
-
-Consultas A-E 4.00 128.00
-
-Estudios A-E 48.00 316.00
-
-Prótesis A-E 12.00 10,986.00
-
-Aparatos
-
-Ortopédicos de
-
-Aluminio Duro y
-
-Mixtos A-E 450.00 9,600.00
-
-Reparaciones de
-
-Prótesis y
-
-Ortesis Única, E 35.00 2,353.00
-
-Colposcopía 1-5, E 30.00 300.00
-
-PRODUCTOS:
-
-CONCEPTO Cuota de
-
-recuperación $
-
-Renta de Auditorio 1,500.00
-
-CONCEPTO cuota de
-
-recuperación $
-
-Lavaderos públicos de San Mateo 3.00
-
-Baños Públicos de San Mateo 2.00
-
-Regaderas Públicas de San Mateo 5.00
-
-APROVECHAMIENTOS:
-
-DESARROLLO COMUNITARIO
-
-CONCEPTO Cuota de recuperación
-
-Huertos Hortícola de Traspatio 20% Costo de Adquisición
-
-Huertos Frutícolas de Traspatio 20% Costo de Adquisición
-
-Viveros de Nopal Verdulero 20% Costo de Adquisición
-
-Granjas Avícolas de Doble Propósito 20% Costo de Adquisición
-
-Paquetes de Aves de Doble Propósito 20% Costo de Adquisición
-
-Mejoramiento de la Vivienda 20% Costo de Adquisición
-
-Granjas de Codorniz 20% Costo de Adquisición
-
-Molino para Nixtamal Eléctricos y
-
-De Gasolina 20% Costo de Adquisición
-
-Estéticas Comunitarias 20% Costo de Adquisición
-
-Pie de Cría de Ganado Porcino 20% Costo de Adquisición
-
-Pie de Cría de Ganado Caprino 20% Costo de Adquisición
-
-Pie de Cría de Ganado Ovino 20% Costo de Adquisición
-
-Paquetes de Materias Primas para
-
-Artesanías y Telares 20% Costo de Adquisición
-
-Reproducción de Plantas
-
-Medicinales 20% Costo de Adquisición
-
-Viveros Comunitarios 20% Costo de Adquisición
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2013, PÁGINAS DE LA 12 A LA 17.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -4917,63 +4855,9 @@ Otros productos (renta a particulares). -
 
 ARTICULO 114 Bis VII.- Por la prestación de los servicios proporcionados por el Instituto de Vivienda y Suelo Urbano de Guerrero, se aplicarán las siguientes tarifas:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PÁGINA 27.</small>
 
-DERECHOS:
-
-SERVICIO SALARIO MINIMO
-
-ZONA “A”
-
-INSPECCIÓN Y ESTUDIO
-
-SOCIOECONÓMICO 5.62
-
-CONSTANCIA DE NO ADEUDO 5.29
-
-ESCRITURACIÓN (HASTA 200M) 44.92
-
-EXCEDENTE POR METRO 0.24
-
-CESIÓN DE DERECHOS ENTRE
-
-FAMILIARES 48.13
-
-CESIÓN DE DERECHOS ENTRE
-
-PARTICULARES 80.22
-
-CANCELACIÓN DE CLÁUSULA
-
-DEL PATRIMONIO 80.22
-
-FAMILIAR Y DERECHO DEL TANTO
-
-RECTIFICACIÓN DE ESCRITURAS 48.13
-
-DE ACUERDO A
-
-SUBDIVISIÓN O FUSIÓN LA SUPERFICIE
-
-N/A
-
-REPLANTEO DE MEDIDAS 5.82
-
-COPIAS DE EXPEDIENTE 4.81
-
-COPIAS DE PLANO GENERAL 1.60
-
-CONSTANCIA DE NO PROPIEDAD 0.72
-
-COMISIÓN POR COBRANZA
-
-(REDONDEO DE LA CIFRA) N/A
-
-SEGÚN CONVENIO
-
-TRABAJOS DE REGULARIZACIÓN FIRMADO POR EL
-
-PROPIETARIO N/A
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 28 DE DICIEMBRE DE 2012, PÁGINA 90; 27 DE DICIEMBRE DE 2013, PÁGINA 18.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -6499,7 +6383,9 @@ ESTACIONAMIENTO $5.00
 
 ARTICULO 114 Bis XXII.- Por la prestación de los servicios proporcionados por el Instituto Guerrerense de la Infraestructura Física Educativa, se aplicarán las siguientes tarifas:
 
-> <small>N. DE E. VÉASE TARIFA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PÁGINA 54.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PÁGINA 54.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2013, PÁGINAS DE LA 19 A LA 21.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -6615,11 +6501,37 @@ ARTICULO 114 Bis XXVII.- Por la prestación de los servicios proporcionados por 
 
 > <small>N. DE E. VÉASE TARIFA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 65 A LA 69.</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 114 Bis XXVIII.- Los demás derechos que se señalen en las cuotas y tarifas, que al efecto se publiquen en el Periódico Oficial del Estado.
+ARTICULO 114 Bis XXVIII.- Por la prestación de los servicios proporcionados por el Polideportivo de Chilpancingo, se aplicarán las siguientes tarifas:
 
-Los derechos previstos en los Artículos 114 Bis I al 114 Bis XXVII, se citan de manera enunciativa, más no limitativa.
+CONCEPTO TARIFA
+
+USO DE PISTA (TARTÁN) $ 3.00 P/PERSSONA (SIC)
+
+CANCHA DE FRONTÓN $ 20.00 P/PERSSONA (SIC)
+
+ALBERCA $ 20.00 P/PERSSONA (SIC)
+
+CANCHA DE FUTBOL $ 20.00 P/PERSSONA (SIC)
+
+USO INDIVIDUAL DE
+
+LA CANCHA DE FUTBOL $ 3.00 P/PERSSONA (SIC)
+
+CANCHAS DE BEISBOL GRATIS
+
+CANCHAS DE BASQUETBOL GRATIS
+
+CANCHAS DE VOLEIBOL GRATIS
+
+SERVICIO DE BAÑOS $ 3.00 P/PERSSONA (SIC)
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 114 Bis XXIX.- Los demás derechos que se señalen en las cuotas y tarifas, que al efecto se publiquen en el Periódico Oficial del Gobierno del Estado.
+
+Los derechos previstos en los artículos 114 Bis I al 114 Bis XXVIII, se citan de manera enunciativa, más no limitativa.
 
 ## TITULO DECIMO. DISPOSICIONES GENERALES
 
@@ -6629,11 +6541,11 @@ En los casos de prórroga para el pago de créditos fiscales, se causarán recar
 
 Los porcentajes de recargos que establece el artículo 45 de la presente Ley, sufrirán modificaciones por los ajustes que al efecto se hagan sobre Contribuciones Federales.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 116.
 
-La participación de los municipios en la recaudación federal, se hará con base a la Ley de Coordinación Fiscal, Ley Número 251 que crea el Sistema Estatal de Coordinación Fiscal y Establece las Bases, Montos y Plazos a los que se sujetarán las Participaciones Federales y al Convenio de Colaboración Administrativa en materia Fiscal Federal.
+La participación de los municipios en la recaudación federal, se hará con base a la Ley de Coordinación Fiscal, Ley Número 427 del Sistema de Coordinación Hacendaria del Estado de Guerrero y al Convenio de Colaboración Administrativa en materia Fiscal Federal.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7527,7 +7439,7 @@ Para el cumplimiento del pago de la revista electromecánica y de confort, que s
 
 1.- 1ª. Revista se aplicará el pago dentro de los 3 primeros meses del año, enero, febrero y marzo.
 
-2.- 2ª. Revista se aplicará (sic) dentro de los meses de julio, agosto y septiembre. Se hará aplicable a todo tipo de servicio público, así como el servicio particular de carga, incluyendo el tarjetón.
+2.- 2ª. Revista se aplicará dentro de los meses de julio, agosto y septiembre. Se hará aplicable a todo tipo de servicio público, así como el servicio particular de carga, incluyendo el tarjetón.
 
 ###### ARTÍCULO CUARTO.
 
@@ -7608,6 +7520,12 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día primero de ene
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
 
 P.O. 28 DE DICIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 27 DE DICIEMBRE DE 2013.
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
