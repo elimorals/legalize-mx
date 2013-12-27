@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2013-12-20"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1367,9 +1367,9 @@ XI. Aprobar los convenios que celebren los municipios al resolver conciliatoriam
 
 XII. Resolver en la vía conciliatoria, los conflictos que surjan entre los Municipios entre sí y entre estos y los Poderes Ejecutivo y Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XIII. Designar, a propuesta del Gobernador, a los integrantes de los Consejos Municipales;
+XIII. Designar, a propuesta del Gobernador, a los integrantes de los Consejos Municipales; Por otra parte, el Congreso hará la designación de un encargado de la Administración Municipal, cuando por cualquier circunstancia especial no se verificare la elección de algún ayuntamiento o se hubiere declarado nula o no valida, lo anterior de conformidad en lo establecido en la Ley de la materia.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -4080,3 +4080,9 @@ SEGUNDO.- La obligatoriedad del Estado para garantizar la educación media super
 P.O. 20 DE DICIEMBRE DE 2013.
 
 ÚNICO.- EI presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+PRIMERO.- EI presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se deroga toda disposición que se oponga a la presente reforma.
