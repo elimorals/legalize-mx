@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-crea-el-sistema-estatal-de-informacion-estadistica-3653
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-23"
-last_updated: "1992-05-23"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY QUE CREA EL SISTEMA ESTATAL DE INFORMACION ESTADISTICA, GEOGRAFICA Y SOCIOECONOMICA
 
-LEY QUE CREA EL SISTEMA ESTATAL DE INFORMACION ESTADISTICA, GEOGRAFICA Y SOCIOECONOMICA
+LEY QUE CREA EL SISTEMA ESTATAL DE INFORMACIÓN ESTADÍSTICA, GEOGRÁFICA Y SOCIOECONÓMICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE INFORMACIÓN PARA EL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 23 de mayo de 1992.
 
@@ -558,3 +560,27 @@ Salón de Sesiones del Palacio Legislativo.- Campeche, Cam., a 22 de Mayo de 199
 Por lo tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los veintidós días del mes de mayo de mil novecientos noventa y dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Primero.- La presente Ley entrará en vigor el 1° de enero de 2014, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La designación de los primeros integrantes de la Junta de Gobierno del INFOCAM se realizará en los términos previstos por la presente Ley, dentro de los noventa días naturales siguientes a la publicación de la misma en el Periódico Oficial del Estado.
+
+Tercero.- Se abroga la Ley que crea el Sistema Estatal de Información Estadística, Geográfica y Socioeconómica para el Estado de Campeche, publicada en el Periódico Oficial del Estado de fecha 23 de mayo de 1992.
+
+Cuarto.- Se abroga el Acuerdo por el que se creó el organismo público descentralizado denominado “Instituto Catastral del Estado de Campeche”, publicado con fecha 31 de mayo de 1994 en el Periódico Oficial del Estado.
+
+Quinto.- Se abroga el reglamento Interior del Instituto Catastral del Estado de Campeche, publicado en el Periódico Oficial del Estado de fecha 12 de diciembre de 1996.
+
+Sexto.- Se abroga el Acuerdo del Ejecutivo del Estado de Campeche publicado con fecha 11 de marzo de 2011, que modifica el diverso Acuerdo publicado en el Periódico Oficial del Estado con fecha 31 de mayo de 1994, por el que se creó el organismo público descentralizado denominado “Instituto Catastral del Estado de Campeche”, con el acrónimo de “ICECAM”, y se cambia su denominación a “Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche”, con el acrónimo de “INFOCAM”.
+
+Séptimo.- El personal adscrito al Instituto Catastral del Estado de Campeche, ICECAM, se transfiere con su antigüedad y prerrogativas al Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche, INFOCAM, como se señala en su decreto de creación.
+
+Octavo.- El Reglamento Interior del INFOCAM deberá expedirse en un plazo no mayor de seis meses a partir de la entrada en vigor de la presente Ley.
+
+Noveno.- El Reglamento de la presente Ley deberá expedirse en un término no mayor a sesenta días hábiles, contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+Décimo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
