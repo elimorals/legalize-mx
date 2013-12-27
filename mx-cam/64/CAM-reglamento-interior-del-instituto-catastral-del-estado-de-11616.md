@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-del-instituto-catastral-del-estado-de-11616
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-12"
-last_updated: "1996-12-12"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DEL INSTITUTO CATASTRAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DEL SISTEMA DE INFORMACIÓN PARA EL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013. (ABROGADO)
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el jueves 12 de diciembre de 1996.
 
@@ -420,3 +422,27 @@ Se derogan cualesquiera disposiciones reglamentarias o administrativas que se op
 En tanto se expiden los manuales de organización, procedimientos y estructuras que en este reglamento se mencionan, el Titular de la Dirección General queda facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
 
 Dado en la Ciudad de Campeche, Capital del Estado del mismo nombre a los dieciocho días del mes de Octubre del año de mil novecientos noventa y seis.- EL CONSEJO DIRECTIVO: PRESIDENTE, ING. JORGE SALOMON AZAR GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- VICEPRESIDENTE, C.P. MARIA TERESA PATRON GANTUS, SECRETARIA DE FINANZAS Y ADMINISTRACION.- SECRETARIO TECNICO, C.P. RICARDO CASTILLO AZAR.- COMISARIO, ROSSANA BUENFIL BERRON.- EL DIRECTOR GENERAL DEL INSTITUTO CATASTRAL DEL ESTADO, C.P. CARLOS IVAN PEREZ ORTIZ.- CONSEJEROS, C. JUAN FERNANDO ESTRADA REYES, SECRETARIO DE DESARROLLO SOCIAL, C. JORGE ESPINOSA SOSA, SECRETARIO DE DESARROLLO RURAL, ING. FRANCISCO TREJO URIBE, SECRETARIO DE OBRAS PUBLICAS Y COMUNICACIONES, LIC. ANTONIO GONZALEZ CURI, PRESIDENTE MUNICIPAL DEL H. AYUNTAMIENTO DE CAMPECHE, PROFR. MIGUEL H. RODRIGUEZ SUAREZ, PRESIDENTE MUNICIPAL DEL H. AYUNTAMIENTO DE CALKINI, LIC. RICARDO OCAMPO FERNANDEZ, PRESIDENTE MUNICIPAL DEL H. AYUNTAMIENTO DE CARMEN, C. RAUL ARMANDO URIBE FLORES, PRESIDENTE MUNICIPAL DEL H. AYUNTAMIENTO DE CHAMPOTON, ING. HUMBERTO M. CAHUICH JESUS, PRESIDENTE MUNICIPAL DEL H. AYUNTAMIENTO DE ESCARCEGA, ING. CARLOS E. TORRES MELKEN, PRESIDENTE MUNICIPAL DEL H. AYUNTAMIENTO DE HECELCHAKAN, ING. JUAN J. INFANTE PACHECO, PRESIDENTE MUNICIPAL DEL H. AYUNTAMIENTO DE HOPELCHEN, MVZ. CARLOS R. AYALA FERNANDEZ DEL C., PRESIDENTE MUNICIPAL DEL H. AYUNTAMIENTO DE PALIZADA, L.A.E. ELDA EUSEBIA CONCHA CHAVEZ, PRESIDENTE MUNICIPAL DEL H. AYUNTAMIENTO DE TENABO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Primero.- La presente Ley entrará en vigor el 1° de enero de 2014, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La designación de los primeros integrantes de la Junta de Gobierno del INFOCAM se realizará en los términos previstos por la presente Ley, dentro de los noventa días naturales siguientes a la publicación de la misma en el Periódico Oficial del Estado.
+
+Tercero.- Se abroga la Ley que crea el Sistema Estatal de Información 3 Estadística, Geográfica y Socioeconómica para el Estado de Campeche, publicada en el Periódico Oficial del Estado de fecha 23 de mayo de 1992.
+
+Cuarto.- Se abroga el Acuerdo por el que se creó el organismo. Público descentralizado denominado "Instituto Catastral del Estado de Campeche", publicado con fecha 31 de mayo de 1994 en el Periódico Oficial del Estado.
+
+Quinto.- Se abroga el Reglamento Interior del Instituto Catastral del Estado de Campeche, publicado en el Periódico Oficial del Estado de fecha 12 de diciembre de 1996.
+
+Sexto.- Se abroga el Acuerdo del Ejecutivo del Estado de Campeche publicado con fecha 11 de marzo de 2011, que modifica el diverso Acuerdo publicado en el Periódico Oficial del Estado con fecha 31 de mayo de 1994, por el que se creó el organismo público descentralizado denominado "Instituto Catastral del Estado de Campeche", con el acrónimo de "ICECAM", y se cambia su denominación a "Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche", con el acrónimo de "INFOCAM".
+
+Séptimo.- El personal adscrito al Instituto Catastral del Estado de Campeche, ICECAM, se transfiere con su antigüedad y prerrogativas al Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche, INFOCAM, como se señala en su decreto de creación.
+
+Octavo.- El Reglamento Interior del INFOCAM deberá expedirse en un plazo no mayor de seis meses a partir de la entrada en vigor de la presente Ley.
+
+Noveno.- El Reglamento de la presente Ley deberá expedirse en un término no mayor a sesenta días hábiles, contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+Décimo.- Se derogan todas las disposiciones les y reglamentarias en lo que se opongan al contenido del presente decreto.
