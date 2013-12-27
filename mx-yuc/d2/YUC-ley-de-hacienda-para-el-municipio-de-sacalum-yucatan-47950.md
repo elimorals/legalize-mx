@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2012-12-24"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO TRANSITORIO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL DÍA 1° DE ENERO DE 2013.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -595,7 +593,11 @@ salario mínimo 0.025
 
 A la cantidad que exceda del límite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva.
 
-Impuesto predial Rústico: $ 10.00 por hectárea.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+El impuesto predial Rustico: $ 50.00 por hectárea
 
 Todo predio destinado a la producción agropecuaria pagará 10 al millar anual sobre el valor registrado o catastral, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
 
@@ -1251,21 +1253,19 @@ Para que la Tesorería Municipal este en condiciones de expedir la Licencia de F
 
 TARIFA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 90.
 
-La tarifa de los derechos para la obtención de las Licencias de Funcionamiento de los establecimientos que se señalan en el Artículo 87 de esta ley, serán los siguientes:
+La tarifa de los derechos para la obtención de las licencias de funcionamiento de los establecimientos que se señalan en el artículo 88 de esta Ley, serán los siguientes:
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+I.- Por apertura $15,525.00
 
-I.- Por apertura $ 10,000.00
+II.- Por revalidación $ 2,070.00
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-II.- Por revalidación $ 2,000.00
-
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-III.- Por permisos eventuales $ 1,200.00
+III.- Por permisos eventuales $ 1,246.00
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -1309,11 +1309,13 @@ II.- La superficie total del predio que sea objeto de limpia por parte del perso
 
 TARIFA
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 96.
 
-La tarifa se causará mensualmente a razón de $ 10.00 por predio en el caso del inciso I y de $ 200.00 en el caso del inciso II.
+La tarifa se causara mensualmente a razón de $11.00 por predio en el caso de (sic) inciso I y de $200.00 en el caso del inciso II
 
 PAGO
 
@@ -1343,11 +1345,13 @@ Son responsables solidarios del pago de estos derechos los Notarios Públicos y 
 
 CUOTA
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 101.
 
-La cuota de este derecho será el equivalente a $ 10.00 de manera mensual por cada toma de agua.
+La cuota de este derecho será el equivalente a $13.00 de manera mensual por cada toma de agua.
 
 PAGO
 
@@ -1385,17 +1389,23 @@ TARIFA
 
 Los derechos por este servicio se pagarán conforme a las siguientes tarifas:
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Locatarios que venden frutas y verduras $ 40.00 mensual.
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+I.- Locatarios que venden frutas y verduras $80.00 mensual
 
-II.- Locatarios que venden carnes $ 80.00 mensual.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-III.- Locatarios de loncherías y venta de comida $ 80.00 mensual.
+II.- Locatarios que venden carnes $80.00 mensual
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+III.- Locatarios de loncherías y venta de comida $60.00 mensual
 
 PAGO
 
@@ -1589,7 +1599,7 @@ Los fedatarios públicos y las personas que tengan funciones notariales, no auto
 
 Para el caso de que, alguna de las personas mencionadas en este artículo, viole lo dispuesto en el párrafo inmediato anterior, quien o quienes hubiesen incurrido en la violación, serán solidariamente responsables, con el contribuyente, del pago de los derechos que se hubiesen omitido.
 
-> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ### Capítulo XII. Derechos por los servicios de la unidad municipal de acceso a la información pública
 
@@ -1643,7 +1653,7 @@ IV.- Por Disco Compacto $30.00
 
 V.- Por DVD $50.00
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo XIII. Derechos por Servicio de Alumbrado Público
 
@@ -2068,3 +2078,7 @@ T R A N S I T O R I O:
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil trece, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil catorce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
