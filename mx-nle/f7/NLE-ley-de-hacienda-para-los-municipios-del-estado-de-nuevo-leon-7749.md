@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2013-07-04"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2431,6 +2431,10 @@ Se entiende por área de exposición al público, la totalidad de piso de venta 
 
 Los derechos previstos en este Artículo, serán aplicables únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Los montos de las cuotas señaladas en el inciso A) de este artículo se incrementarán en un 20% en los Municipios cuyos Ayuntamientos hayan acordado la ampliación de horario conforme lo establecido en el segundo párrafo del artículo 21 de la Ley para la Prevención y combate al abuso del alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 59.
@@ -2606,6 +2610,10 @@ Para la aplicación de los derechos previstos en este articulo, cuando en un est
 Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en este articulo, se equiparará a la que por sus características le sea más semejante.
 
 Se entiende por área de exposición al público, la totalidad de piso de venta a que tiene acceso el público, en un determinado establecimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Los montos de las cuotas señaladas en el inciso A) de este artículo se incrementarán en un 20% en los Municipios cuyos Ayuntamientos hayan acordado la ampliación de horario conforme lo establecido en el segundo párrafo del artículo 21 de la Ley para la Prevención y combate al abuso del alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León.
 
 ### CAPITULO VI. POR EXPEDICION DE CEDULA DE EMPADRONAMIENTO Y PATENTE MERCANTIL
 
@@ -3740,5 +3748,9 @@ P.O. 31 DE DICIEMBRE DE 2012.
 Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2013.
 
 P.O. 4 DE JULIO DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
