@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2013-11-29"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -1270,6 +1270,14 @@ VIII. Las demás que determine esta Ley, sus reglamentos y la Secretaría de Sal
 ###### Artículo 112.
 
 Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de la Ley General de Salud, esta Ley, las que expida el Consejo de Salubridad General y las normas oficiales mexicanas que dicte la Secretaría de Salud del Gobierno Federal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 112 Bis.
+
+Para disminuir el riesgo reproductivo y prevenir las enfermedades a que se refieren las fracciones VIII y XIII del Artículo 107, los establecimientos de salud, terminales de pasajeros, establecimientos para el hospedaje, centros de reunión y espectáculos, establecimientos abiertos al público, establecimientos que expendan o suministren al público bebidas alcohólicas e instituciones de educación media y superior, en lugar visible al público en el interior de sus instalaciones, deberán ofrecer preservativos ya sea para su expendio o entrega.
+
+Esta disposición podrá aplicarse en instituciones de educación secundaria, cuando así se acuerde por parte de los padres de familia.
 
 ###### Artículo 113.
 
@@ -3116,3 +3124,17 @@ A las personas a las que se les impute la comisión o hayan cometido un delito d
 P.O. 29 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, a través de las Secretarías correspondientes, deberá realizar una intensa campaña de difusión e información dirigida a la sociedad en general y particularmente a los jóvenes y a los padres de familia, con el fin de que conozcan y comprendan la finalidad, beneficios y trascendencia social de esta medida preventiva de salud, el sentido de responsabilidad con que debe asumirse la misma, así como realizar un programa de acreditación integral de valores morales.
+
+###### ARTÍCULO TERCERO.
+
+Los sujetos obligados deberán dar cumplimiento a lo dispuesto en el presente decreto, a más tardar el 1 de enero de 2014. Las instituciones de educación lo harán a partir del inicio del siguiente ciclo escolar.
