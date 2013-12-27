@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2013-12-20"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2013.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2054,6 +2054,10 @@ XXIX-P.- Expedir leyes que establezcan la concurrencia de la Federación, los Es
 
 XXIX-Q.- Para legislar sobre iniciativa ciudadana y consultas populares.
 
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2013)</small>
+
+XXIX-R.- Para expedir la ley general que armonice y homologue la organización y el funcionamiento de los registros públicos inmobiliarios y de personas morales de las entidades federativas y los catastros municipales;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
 XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
@@ -3552,7 +3556,9 @@ c) Las autoridades que tengan a su cargo la organización de las elecciones y la
 
 d) Las autoridades electorales competentes de carácter administrativo puedan convenir con el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales;
 
-e) Los partidos políticos sólo se constituyan por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo tengan reconocido el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2o., apartado A, fracciones III y VII, de esta Constitución;
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2013)</small>
+
+e) Los partidos políticos sólo se constituyan por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo tengan reconocido el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2°., apartado A, fracciones III y VII, de esta Constitución.
 
 f) Las autoridades electorales solamente puedan intervenir en los asuntos internos de los partidos en los términos que expresamente señalen;
 
@@ -3571,6 +3577,10 @@ l) Se establezca un sistema de medios de impugnación para que todos los actos y
 m) Se fijen las causales de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales, y
 
 n) Se tipifiquen los delitos y determinen las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2013)</small>
+
+o) Se fijen las bases y requisitos para que en las elecciones los ciudadanos soliciten su registro como candidatos para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos del artículo 35 de esta Constitución.
 
 V.- Las Constituciones y leyes de los Estados podrán instituir Tribunales de lo Contencioso-Administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
@@ -3746,9 +3756,9 @@ d).- Nombrar a quien deba sustituir en caso de falta absoluta, al Jefe de Gobier
 
 e).- Expedir las disposiciones legales para organizar la hacienda pública, el presupuesto, la contabilidad y el gasto público del Distrito Federal, y la entidad de fiscalización dotándola de autonomía técnica y de gestión en el ejercicio de sus atribuciones, y para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad;
 
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2013)</small>
 
-f).- Expedir las disposiciones que garanticen en el Distrito Federal elecciones libres y auténticas, mediante sufragio universal, libre, secreto y directo; sujetándose a las bases que establezca el Estatuto de Gobierno, las cuales cumplirán los principios y reglas establecidos en los incisos b) al n) de la fracción IV del artículo 116 de esta Constitución, para lo cual las referencias que los incisos j) y m) hacen a gobernador, diputados locales y ayuntamientos se asumirán, respectivamente, para Jefe de Gobierno, diputados a la Asamblea Legislativa y Jefes Delegacionales;
+f) Expedir las disposiciones que garanticen en el Distrito Federal elecciones libres y auténticas, mediante sufragio universal, libre, secreto y directo; sujetándose a las bases que establezca el Estatuto de Gobierno, las cuales cumplirán los principios y reglas establecidos en los incisos b) al o) de la fracción IV del artículo 116 de esta Constitución, para lo cual las referencias que los incisos j) al m) hacen a gobernador, diputados locales y ayuntamientos se asumirán, respectivamente, para Jefe de Gobierno, diputados a la Asamblea Legislativa y Jefes Delegacionales;
 
 g).- Legislar en materia de Administración Pública local, su régimen interno y de procedimientos administrativos;
 
@@ -6665,3 +6675,19 @@ Una vez que los organismos descentralizados denominados Petróleos Mexicanos y s
 Los consejeros profesionales de Petróleos Mexicanos en funciones a la entrada en vigor del presente Decreto permanecerán en sus cargos hasta la conclusión de los periodos por los cuales fueron nombrados, o bien hasta que dicho organismo se convierta en empresa productiva del Estado y sea nombrado el nuevo Consejo de Administración. Los citados consejeros podrán ser considerados para formar parte del nuevo Consejo de Administración de la empresa productiva del Estado, conforme al procedimiento que establezca la ley.
 
 Vigésimo Primero. Dentro del plazo previsto en el transitorio cuarto del presente Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico, a fin de establecer los mecanismos legales suficientes para prevenir, investigar, identificar y sancionar severamente a los asignatarios, contratistas, permisionarios, servidores públicos, así como a toda persona física o moral, pública o privada, nacional o extranjera, que participen en el sector energético, cuando realicen actos u omisiones contrarios a la ley, entre otros, los que tengan como objeto o consecuencia directa o indirecta influir en la toma de decisión de un servidor público, del personal o de los consejeros de las empresas productivas del Estado para obtener un beneficio económico personal directo o indirecto.
+
+D.O.F. 27 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXIX-R AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión expedirá la ley general correspondiente en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto. Para ello, solicitará previamente la opinión de las entidades federativas.
+
+Tercero.- Las Legislaturas de las Entidades Federativas adecuarán las legislaciones correspondientes a lo dispuesto en el presente Decreto y a la ley general que apruebe el Congreso de la Unión en un plazo no mayor a 60 días a partir de la entrada en vigor de dicha ley general.
+
+D.O.F. 27 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL INCISO E) Y SE ADICIONA EL INCISO O) DE LA FRACCIÓN IV DEL ARTÍCULO 116, SE REFORMA EL ARTÍCULO 122, APARTADO C, BASE PRIMERA, FRACCIÓN V, INCISO F) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
