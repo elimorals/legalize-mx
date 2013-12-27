@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-comision-estatal-de-arbitraje-21823"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE CONCILIACIÓN Y ARBITRAJE MÉDICO, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sexta Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -374,3 +376,15 @@ GERARDO LUIS RODRÍGUEZ OROZCO.
 EL SECRETARIO DE SALUD
 
 ECTOR JAIME RAMÍREZ BARBA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento anterior
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Comisión Estatal de Arbitraje Médico, publicado en el Periódico Oficial del Gobierno del Estado número 52-B, Sexta Parte, de fecha 30 de junio de 2001.
