@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-concesiones-de-servicios-e-infraestructura-publica-56573
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-16"
-last_updated: "2013-04-17"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 16 de mayo de 2007.
 
@@ -65,9 +65,9 @@ Concesión: Acto administrativo discrecional, del Ejecutivo del Estado o de los 
 
 Servicio Público: Actividad de utilidad pública que tienda a satisfacer necesidades de carácter colectivo en forma permanente, regular, continua y uniforme previa determinación de las condiciones técnicas y económicas en que deba proporcionarse a fin de asegurar su eficiencia y eficacia.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-Secretaría: Secretaría Técnica de Infraestructura y Planeación.
+Secretaría: Secretaría de Infraestructura.
 
 Dependencia Municipal: Secretaría o unidad administrativa dependiente de la administración pública municipal, cuyas atribuciones sean compatibles con el objeto de la presente Ley.
 
@@ -594,5 +594,11 @@ Artículo Cuarto.- Será de aplicación supletoria a la Ley de Concesiones de Se
 P.O. 17 DE ABRIL DE 2013.
 
 Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
