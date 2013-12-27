@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2013-06-07"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 24 DE ENERO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -53,7 +55,9 @@ II.- La formulación de las leyes de ingresos para el Estado y para los Municipi
 
 III.- La formulación de los presupuestos de egresos del Estado y de los Municipios; y
 
-IV.- Llevar a cabo la contabilidad gubernamental.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+IV.- Regular la contabilidad gubernamental y la emisión de información financiera de los sujetos de la Ley.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -69,9 +73,9 @@ Para los efectos de la presente Ley se entiende por:
 
 I. Secretaría: La Secretaría de Finanzas, Inversión y Administración;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-II. Contralorías: La Secretaría de la Transparencia y Rendición de Cuentas, las contralorías municipales, y las contralorías internas u órganos de vigilancia de los Poderes Legislativo y Judicial y de los Organismos Autónomos;
+II.- Órganos de Control: La Secretaría de la Transparencia y Rendición de Cuentas, las contralorías municipales y las contralorías internas u órganos de vigilancia de los Poderes Legislativo y Judicial y de los Organismos Autónomos;
 
 III.- Tesorería: Las tesorerías municipales;
 
@@ -97,7 +101,9 @@ XI.- Gasto Público: Conjunto de erogaciones que realizan los sujetos de la Ley 
 
 XII.- Gasto Corriente: Erogaciones que realiza el sector público que constituye un acto de consumo; esto es, los gastos que se destinen a la contratación de los recursos humanos y a la compra de los bienes y servicios necesarios para el desarrollo propio de las funciones administrativas, así como aquellas erogaciones que se destinen a los pagos que se deriven de la contratación de proyectos de prestación de servicios en términos de la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato;
 
-XIII.- Gasto Devengado: Pasivo que presenta un gasto ejercido en o antes de una fecha determinada, pagadero en fecha futura;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XIII.- Gasto Devengado: Momento contable del gasto que refleja el reconocimiento de una obligación de pago a favor de terceros por la recepción de conformidad de bienes, servicios y obras oportunamente contratados; así como de las obligaciones que derivan de leyes, decretos, resoluciones y sentencias definitivas;
 
 XIV.- Gasto de Operación Ordinario: Erogaciones indispensables para que puedan ejercer sus funciones los sujetos de la Ley;
 
@@ -107,13 +113,39 @@ XVI.- Viáticos: Subvención a servidores públicos en dinero, especie o cualqui
 
 XVII.- Subsidios: Recursos estatales que se asignen para apoyar el desarrollo de actividades prioritarias de interés general con el propósito de: Apoyar sus operaciones; mantener los niveles de los precios; apoyar el consumo, la distribución y comercialización de los bienes; motivar la inversión; cubrir impactos financieros; así como para el fomento de las actividades agropecuarias, industriales o de servicios;
 
-XVIII.- Transferencias: Ministraciones de recursos y apoyos extraordinarios que se asignan para el desempeño de las atribuciones que realizan los Municipios y Entidades, con base en los presupuestos de egresos; y
+XVIII.- Transferencias: Ministraciones de recursos y apoyos extraordinarios que se asignan para el desempeño de las atribuciones que realizan los Municipios y Entidades, con base en los presupuestos de egresos; y (sic)
 
 XIX.- Traspaso: Movimientos que consisten en trasladar el importe total o parcial de la asignación de una clave presupuestaria a otra, previa autorización de la autoridad facultada de conformidad con las leyes y reglamentos aplicables.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XX.- Gasto Comprometido: Momento contable del gasto que refleja la aprobación, por autoridad competente, de un acto administrativo u otro instrumento jurídico que formaliza una relación jurídica con terceros para la adquisición de bienes, prestación de servicios o ejecución de obras;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXI.- Programa Presupuestario: Categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para programas y proyectos, que establece los objetivos, metas e indicadores, para los ejecutores del gasto, y que contribuye al cumplimiento de los instrumentos de planeación; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXII.- Indicadores: La expresión cuantitativa o, en su caso, cualitativa que proporciona un medio sencillo y fiable para medir logros, reflejar los cambios vinculados con las acciones del programa, monitorear y evaluar resultados.
 
 ###### Artículo 4º.
 
 En el proceso de presupuestación, los sujetos de la Ley guardarán el equilibrio entre los ingresos pronosticados y los egresos que deban realizar.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 5°.
+
+Los pronósticos de ingresos, los proyectos de presupuestos de egresos y las respectivas iniciativas, se elaborarán con base en objetivos y parámetros cuantificables de la política económica, acompañados de sus correspondientes indicadores, los cuales deberán ser congruentes con los planes y programas correspondientes.
+
+Tales pronósticos de ingresos, proyectos de presupuestos de egresos y las respectivas iniciativas, deberán formularse y presentarse en las fechas señaladas en la presente Ley, del año inmediato anterior a aquél en que tendrán vigencia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 6°.
+
+Los sujetos de la Ley coordinarán conforme lo establece este ordenamiento, las actividades de programación-presupuestación, ejercicio, control, seguimiento y evaluación de los recursos públicos.
 
 ###### Artículo 5º.
 
@@ -127,9 +159,11 @@ Los sujetos de la Ley coordinarán conforme lo establece este ordenamiento, las 
 
 Los sujetos de la Ley, para optimizar sus recursos, deberán planear, programar y presupuestar sus actividades con honestidad, claridad y transparencia con sujeción a los planes, programas y bases que elaboren para tal efecto, de conformidad con las leyes de la materia.
 
-###### Artículo 8º.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-Las contralorías, dentro del ámbito de su competencia, vigilarán y verificarán el correcto ejercicio del gasto público, sin detrimento de las facultades constitucionales que le correspondan al Congreso del Estado.
+###### Artículo 8°.
+
+Los Órganos de Control, dentro del ámbito de su competencia, vigilarán, verificarán y evaluarán el correcto ejercicio del gasto público, sin detrimento de las facultades constitucionales que le correspondan al Congreso del Estado.
 
 ###### Artículo 9º.
 
@@ -143,9 +177,11 @@ La Secretaría y la Tesorería estarán facultadas para interpretar las disposic
 
 Los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos y los Organismos Autónomos, en el ámbito de su competencia, emitirán las disposiciones administrativas que, conforme a la presente Ley, sean necesarias para asegurar su adecuado cumplimiento.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 11.
 
-Para la disposición y control del patrimonio del Estado y de los Municipios, se observará además de lo contemplado en este ordenamiento, lo dispuesto en las demás leyes de la materia.
+Para la disposición, registro y control del patrimonio del Estado y de los municipios, se observará además de lo contemplado en este ordenamiento, lo dispuesto en la Ley General de Contabilidad Gubernamental y demás disposiciones normativas aplicables en la materia.
 
 ## TÍTULO SEGUNDO. LOS INGRESOS
 
@@ -227,9 +263,11 @@ El presupuesto de egresos del Estado, será el que contenga el Decreto de la Ley
 
 Los presupuestos de egresos de los Municipios serán los que aprueben los ayuntamientos para el ejercicio fiscal que corresponda a iniciativa de los presidentes municipales.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 25.
 
-El presupuesto de egresos tendrá una estructura de integración programática y una sustentación lo suficientemente amplia, que abarque todas las responsabilidades del Gobierno del Estado o de los Municipios, según se trate.
+El presupuesto de egresos tendrá una estructura de integración programática, con la desagregación señalada en las disposiciones normativas aplicables en la materia, así como una sustentación lo suficientemente amplia, que abarque los planes y programas y todas las demás responsabilidades del Gobierno del Gobierno (sic) Estado o de los municipios, según se trate.
 
 ###### Artículo 26.
 
@@ -297,11 +335,25 @@ II.- Las partidas generales que ejercerán las Dependencias y Entidades de la Ad
 
 Tratándose del Presupuesto de Egresos del Estado, las que ejerzan los Poderes Legislativo y Judicial y los Organismos Autónomos;
 
-III.- Descripción clara de los programas en donde se señalen objetivos, metas y unidad responsable de su ejecución, así como su valuación estimada;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-IV.- La indicación de las plazas presupuestadas que incluye y la remuneración integrada mensual y anual que les corresponda; y
+III.- Descripción clara de los programas presupuestarios en donde se señale su valuación estimada;
 
-V.- Los viáticos u otras percepciones de naturaleza análoga que serán ejercidas por la Unidad Responsable.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+IV.- La indicación de las plazas presupuestadas que incluye y la remuneración integrada mensual y anual que les corresponda, con los tabuladores desglosados;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+V.- los viáticos u otras percepciones de naturaleza análoga que serán ejercidas por la Unidad Responsable: y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VI.- La demás información financiera prevista en la Ley General de Contabilidad Gubernamental.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, se deberán considerar los resultados de la evaluación del desempeño.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -469,7 +521,9 @@ Los recursos de la partida de gastos de transición no podrán destinarse a cubr
 
 El ejercicio de los recursos de la partida de gastos de transición se sujetará a lo estipulado en esta Ley y a las disposiciones administrativas que para asegurar su cumplimiento emitan los Poderes Ejecutivo y Legislativo, así como los Ayuntamientos.
 
-## TÍTULO CUARTO. DEL EJERCICIO DEL GASTO PÚBLICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+## TÍTULO CUARTO. DE LA PROGRAMACIÓN, EJERCICIO Y EVALUACIÓN DEL GASTO PÚBLICO
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -579,15 +633,19 @@ Tratándose de los Poderes Legislativo y Judicial, los montos presupuestales no 
 
 Las Entidades y los Organismos Autónomos, deberán reintegrar a la Secretaría o Tesorería los montos presupuestales estatales o municipales no ejercidos, según sea el caso.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 69.
 
-Todas las proposiciones de creación o modificación de partidas a sus respectivos presupuestos de egresos, deberán ser autorizadas por el Ejecutivo del Estado, por el Órgano de Gobierno de los Poderes Legislativo o Judicial y de los Organismos Autónomos o por el Ayuntamiento, en el ámbito de sus competencias.
+Todas las proposiciones de creación o modificación de partidas o clasificadores a sus respectivos presupuestos de egresos, deberán ser autorizadas por el Ejecutivo del Estado, a través de la Secretaría, o por el Órgano de Gobierno de los Poderes Legislativo o Judicial y de los Organismos Autónomos o por el Ayuntamiento, en el ámbito de sus competencias, sujetándose a las disposiciones normativas aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 70.
 
-Los encargados de ejecutar los programas, serán los responsables del avance de los mismos y deberán informar periódicamente de los resultados obtenidos, por conducto de los titulares de las Dependencias o Entidades, a la Secretaría o al Ayuntamiento, según corresponda.
+Los ejecutores del gasto en el logro de los objetivos y metas contenidos en sus programas presupuestarios, serán los responsables del avance de los mismos, atendiendo a los indicadores respectivos, debiendo informar periódicamente de los resultados obtenidos, por conducto de los titulares de las Dependencias o Entidades, a la Secretaría o al Ayuntamiento, según corresponda.
 
-En el caso de los Poderes Legislativo y Judicial y de los Organismos Autónomos, la información correspondiente al avance de los programas, la concentrará el Órgano de Administración, informando del estado que guarda al Órgano de Gobierno.
+En el caso de los Poderes Legislativo y Judicial y de los Organismos Autónomos, en el cumplimiento de sus programas presupuestarios observarán los indicadores referidos en el párrafo anterior; asimismo, la información correspondiente al avance de sus programas, la concentrará el Órgano de Administración, informando del estado que guardan al Órgano de Gobierno.
 
 ###### Artículo 71.
 
@@ -595,13 +653,17 @@ La Secretaría y la Tesorería según corresponda, podrán solicitar y obtener d
 
 La misma atribución tendrá el Órgano de Administración de los Poderes Legislativo y Judicial y de los Organismos Autónomos, respecto de los planes y programas de éstos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 72.
 
-La Secretaría, la Tesorería y las Contralorías establecerán, dentro de sus respectivas competencias, los lineamientos necesarios para integrar la información que requieran en materia de gasto público. Las Dependencias y Entidades deberán remitir la información que se les requiera, a más tardar dentro de los diez días hábiles siguientes a aquél en que se formule la solicitud.
+La Secretaría, la Tesorería y los Órganos de Control establecerán, dentro de sus respectivas competencias, los lineamientos necesarios para integrar la información que requieran en materia de gasto público. Las Dependencias y Entidades deberán remitir la información que se les requiera, a más tardar dentro de los diez días hábiles siguientes a aquél en que se formule la solicitud.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 73.
 
-La Secretaría y la Tesorería realizarán periódicamente la evaluación financiera del ejercicio del presupuesto de egresos en función de su calendarización. Los objetivos y metas de los programas aprobados serán analizados y evaluados por las Contralorías.
+La Secretaría y la Tesorería realizarán periódicamente la evaluación financiera del ejercicio del presupuesto de egresos modificado en función de su calendarización y con base en los resultados de los indicadores. Los objetivos y metas de los programas presupuestarios aprobados y sus modificaciones, serán analizados y evaluados por los Órganos de Control.
 
 ###### Artículo 74.
 
@@ -611,9 +673,17 @@ Los Poderes Ejecutivo y Judicial, los Organismos Autónomos y los Ayuntamientos 
 
 El Presidente Municipal informará mensualmente al Ayuntamiento sobre la rendición de la cuenta pública municipal.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Artículo 74 bis.- Los Poderes Ejecutivo, Legislativo, Judicial, Organismos Autónomos y Municipios, en el ámbito de sus competencias, diseñarán, administrarán y operarán su Sistema de Evaluación del Desempeño.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 75.
 
-Una vez concluida la vigencia del presupuesto de egresos, procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda. En estos casos deberán contabilizarse debida y oportunamente las operaciones y, en su caso, presentar el informe de los pasivos correspondientes.
+Una vez concluida la vigencia del presupuesto de egresos modificado, procederá hacer pagos con base en él, por el gasto devengado en el año que corresponda. En estos casos deberán contabilizarse debida y oportunamente las operaciones y, en su caso, presentar el informe correspondiente, conforme a las disposiciones normativas aplicables en la materia.
+
+En el caso de los gastos comprometidos al 31 de diciembre del ejercicio fiscal respectivo, quedará a consideración de la Secretaría o la Tesorería, la autorización correspondiente, para que los mismos puedan ser cubiertos en el ejercicio inmediato posterior. En los Poderes Legislativo y Judicial, así como en los Organismos Autónomos, estas atribuciones las ejercerán los Órganos de Administración en el ámbito de sus respectivas competencias.
 
 ###### Artículo 76.
 
@@ -639,13 +709,17 @@ Los sujetos de la Ley sólo otorgarán garantías y efectuarán depósitos para 
 
 ### CAPÍTULO TERCERO. DE LAS REMUNERACIONES A LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 79.
 
 El Comité de Estructuración Salarial es el encargado de proponer los criterios que servirán de base para determinar las remuneraciones salariales de los servidores públicos del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 80.
 
-El Comité de Estructuración Salarial realizará la propuesta del Tabulador General de Sueldos de los servidores públicos del Estado, considerando, entre otras, las siguientes acciones y criterios:
+El Comité de Estructuración Salarial realizará la propuesta de los tabuladores desglosados de las remuneraciones de los servidores públicos del Estado, considerando, entre otras, las siguientes acciones y criterios:
 
 I.- Beneficiar aquellos puestos notoriamente desfasados en función de la remuneración que perciben;
 
@@ -661,7 +735,7 @@ El Congreso del Estado deberá emitir a más tardar el quince de octubre de cada
 
 ###### Artículo 82.
 
-Todo servidor público percibirá por concepto de retribución a su desempeño, la remuneración integrada mensual determinada por la Ley.
+Todo servidor público percibirá por concepto de retribución a su desempeño, la remuneración integrada mensual determinada por la Ley. Los tabuladores desglosados y las remuneraciones deberán incluirse en la iniciativa de Ley del Presupuesto General de Egresos del Estado, y en los respectivos proyectos de presupuesto de egresos de los municipios.
 
 No podrá omitirse la retribución que corresponda a una función pública, en caso de que por cualquier circunstancia se omita, se entenderá por señalada la que hubiere tenido fijada en el presupuesto de egresos anterior o en la Ley o decreto que estableció el empleo.
 
@@ -707,9 +781,15 @@ VII.- Será responsabilidad del Órgano de Administración, tramitar en tiempo e
 
 VIII.- Efectuar remuneraciones solamente cuando sean autorizadas y se encuentren previstas en sus respectivos presupuestos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 88.
 
-Los sujetos de la Ley, en el ámbito de su competencia, formularán sus Tabuladores Generales de Sueldos.
+Los sujetos de la Ley, en el ámbito de su competencia, formularán los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, debiendo incluir entre otros elementos, los siguientes:
+
+I.- La remuneración integrada mensual y anual que les corresponda; y
+
+II. - Especificar y diferenciar la totalidad de los elementos fijos y variables, tanto en efectivo como en especie, de las respectivas remuneraciones.
 
 ###### Artículo 89.
 
@@ -759,11 +839,31 @@ Los resultados globales de evaluación serán publicados por cada sujeto de la L
 
 Los ayuntamientos y los Organismos Autónomos establecerán sus sistemas de evaluación respectivos conforme a estas disposiciones.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-Las contralorías de los sujetos de la Ley vigilarán el cumplimiento de lo señalado en este artículo. Cualquier infracción será causa de responsabilidad en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado y los Municipios de Guanajuato.
+### CAPÍTULO QUINTO. DE LA EVALUACIÓN Y RESULTADOS DEL EJERCICIO DEL GASTO
 
-### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES GENERALES
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Artículo 102 bis.- La Secretaría diseñará, administrará y operará el Sistema de Evaluación del Desempeño, el cual se desarrollará con el fin de hacer medible, a través de indicadores, la eficacia, eficiencia y economía en la obtención de resultados en la Administración Pública Estatal.
+
+Las Tesorerías y los Órganos de Administración, de los Poderes Legislativo, Judicial y los Organismos Autónomos, en el ámbito de su competencia, emitirán y aplicarán su Sistema de Evaluación del Desempeño.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Artículo 102 ter.-. Los Órganos de Control en el ámbito de su competencia, emitirán los lineamientos para la evaluación del logro de metas y resultados establecidos en los programas, coordinándose con las instancias correspondientes.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Artículo 102 quáter.- La Secretaría, las Tesorerías y los Órganos de Administración, de los Poderes Legislativo, Judicial y los Organismos Autónomos, en el ámbito de su respectiva competencia, publicarán en internet a más tardar el último día hábil del mes de abril del ejercicio fiscal correspondiente, las metodologías e indicadores para las evaluaciones del desempeño, a fin de darlos a conocer a los ejecutores de gasto.
+
+Los Órganos de Control, en dicha fecha y por la misma vía, deberán publicar sus respectivos programas anuales de evaluación del desempeño. Asimismo deberán publicar a más tardar a los treinta días posteriores a la conclusión de las evaluaciones, los resultados de las mismas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Artículo 102 quinquies.- Las Dependencias, Entidades y Municipios estarán obligados a entregar a la Secretaría, informes trimestrales sobre el ejercicio, destino y los resultados obtenidos respecto de los recursos federales que les sean transferidos, en términos de lo establecido por la normativa aplicable.
+
+Los Poderes legislativo, Judicial y Organismos Autónomos, en su caso deberán informar lo conducente a la Secretaría, a través de sus Órganos de Administración.
 
 ###### Artículo 93.
 
@@ -819,9 +919,11 @@ La falta de alguno de los requisitos señalados en las fracciones anteriores, oc
 
 La Secretaría o la Tesorería, según corresponda, podrá diferir y determinar el orden a que se sujetará la ministración de transferencias que se otorguen, a fin de asegurar la disposición oportuna de recursos para el desarrollo de programas prioritarios.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 100.
 
-El Ejecutivo del Estado o los Ayuntamientos, por conducto de la Dependencia que corresponda, verificarán que los subsidios y transferencias otorgados se apliquen efectivamente a los objetivos, programas y metas autorizados, informando a las Contralorías para los efectos conducentes.
+El Ejecutivo del Estado o los Ayuntamientos, por conducto de la Dependencia que corresponda, verificarán que los subsidios y transferencias otorgados se apliquen efectivamente a los objetivos, programas y metas autorizados, informando a los Órganos de Control para los efectos conducentes.
 
 ###### Artículo 101.
 
@@ -835,27 +937,41 @@ Para efectos de control presupuestal deberán considerarse como donativos las ay
 
 Para que las Dependencias o Entidades que reciban donativos, puedan aplicarlos, deberán enterar los recursos y solicitar la autorización correspondiente a la Secretaria o Tesorería para su ejercicio.
 
-Tratándose de la recepción de donativos, las Dependencias o Entidades observarán los lineamientos generales que al efecto emitan la Secretaría o la Tesorería y las Contralorías en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de la recepción de donativos, las Dependencias o Entidades observarán los lineamientos generales que al efecto emitan la Secretaría o la Tesorería y los Órganos de Control en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ## TÍTULO QUINTO. LA CONTABILIDAD GUBERNAMENTAL
 
 ###### Artículo 103.
 
-La contabilidad gubernamental comprende la captación y registro de todas las operaciones de activos, pasivos, patrimonio, ingresos y gastos, así como las asignaciones y ejercicios correspondientes a los programas y partidas del presupuesto de egresos que realicen los sujetos de la Ley.
+La contabilidad gubernamental comprende el registro de las transacciones que llevan a cabo los sujetos de la Ley, expresados en términos monetarios, captando los diversos eventos económicos identificables y cuantificables que afectan los bienes e inversiones, las obligaciones y pasivos, así como el propio patrimonio, con el fin de generar información financiera que facilite la toma de decisiones y sea un apoyo confiable en la administración eficaz, eficiente y transparente de los recursos públicos.
 
 ###### Artículo 104.
 
 La contabilidad de los sujetos de la Ley se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas, con objetivos, metas y unidades responsables de su ejecución.
 
-Los sistemas de contabilidad deberán diseñarse y operarse en forma tal que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos y avances de la ejecución de programas y en general de manera que permitan medir la eficacia y eficiencia del gasto público estatal o municipal, según corresponda.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+El sistema de contabilidad deberá diseñarse y operarse en forma tal que registre de manera armónica, automática, en tiempo real, delimitada y específica las operaciones presupuestales y contables derivadas de la gestión pública, así como otros flujos económicos, generando estados financieros e información para la elaboración de sus respectivas notas.
+
+> <small>N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 149 DEL P.O. 27 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL PRESENTE ARTÍCULO SE UBICABA EN EL CAPÍTULO ÚNICO DEL TÍTULO SEXTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 105.
 
-Las Contralorías en el ejercicio de sus atribuciones, comprobarán el cumplimiento de esta Ley y establecerán las medidas administrativas necesarias para detectar los posibles daños y perjuicios que afecten al patrimonio o a la hacienda pública.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+La contabilidad gubernamental de los sujetos de la Ley se sujetará a lo previsto en la Ley General de Contabilidad Gubernamental y demás disposiciones normativas aplicables en la materia.
 
 ## TÍTULO SEXTO. LAS RESPONSABILIDADES
 
@@ -883,7 +999,7 @@ Artículo Cuarto.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Públic
 
 Artículo Quinto.- Se derogan los artículos 198, 199 y 200 de la Ley Orgánica Municipal para el Estado de Guanajuato, así como todas las disposiciones que se opongan a la presente Ley.
 
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 24 DE JULIO DEL 2003.- CARLOS VIDAL ROJAS YERENA.- DIPUTADO PRESIDENTE.- JORGE IGNACIO LUNA BECERRA.- DIPUTADO SECRETARIO.- JESÚS DOMÍNGUEZ ARANDA.- DIPUTADO SECRETARIO.- RÚBRICAS.
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LÉ DE EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 24 DE JULIO DEL 2003.- CARLOS VIDAL ROJAS YERENA.- DIPUTADO PRESIDENTE.- JORGE IGNACIO LUNA BECERRA.- DIPUTADO SECRETARIO.- JESÚS DOMÍNGUEZ ARANDA.- DIPUTADO SECRETARIO.- RÚBRICAS.
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -932,3 +1048,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En lo relativo a los registros del patrimonio inmobiliario y su valuación, el Poder Ejecutivo del Estado deberá realizar lo conducente para cumplir con lo previsto en el presente Decreto, a más tardar el 31 de diciembre de 2014 y los Municipios antes del 31 de diciembre de 2015.
