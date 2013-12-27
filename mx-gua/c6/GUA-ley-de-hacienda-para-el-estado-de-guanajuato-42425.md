@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2013-06-07"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -349,11 +349,11 @@ Las personas físicas no residentes en el Estado que tengan uno o varios estable
 
 En lo relativo a los ingresos, deducciones y pérdidas fiscales se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y al Capítulo II, Secciones I, II y Capítulo X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 25.
 
-Los contribuyentes a que se refieren los artículos 23 y 26 dé esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago.
+Los contribuyentes a que se refiere el artículo 23 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago.
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas correspondientes al mismo periodo, a que se refiere el artículo anterior y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieren disminuido. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
 
@@ -367,25 +367,21 @@ Los contribuyentes que hayan presentado una declaración en ceros, quedarán rel
 
 El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo período. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas autorizadas.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 26.
 
-Los contribuyentes que realicen exclusivamente actividades empresariales, cuyos ingresos obtenidos en el ejercicio inmediato anterior por dichas actividades no hubiesen excedido de $4'000,000.00, aplicarán las disposiciones de esta sección y en lo no previsto, podrán aplicar las disposiciones de la Sección II, Capítulo II, Título IV, de la Ley del Impuesto sobre la Renta, correspondiente al Régimen Intermedio.
+Los contribuyentes que realicen exclusivamente actividades empresariales, que enajenen bienes o presten servicios por los que no se requiera para su realización de título profesional, y cuyos ingresos obtenidos en el ejercicio inmediato anterior, no hubiesen excedido de $2´000,000.00, podrán aplicar las disposiciones de la Sección II, Capítulo II, Título IV de la Ley del Impuesto sobre la Renta, correspondiente al Régimen de Incorporación Fiscal, cumpliendo con las obligaciones de este impuesto cedular. No es aplicable, para efectos de este artículo, lo establecido en el antepenúltimo párrafo del artículo 111 de la Ley del Impuesto sobre la Renta. Tampoco es aplicable la tabla de reducción del Impuesto sobre la Renta a pagar en el Régimen de Incorporación Fiscal.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 27.
 
-Las personas físicas que realicen actividades empresariales, que únicamente enajenen bienes o presten servicios al público en general, siempre que los ingresos propios de su actividad empresarial y los intereses obtenidos en el año de calendario anterior, no hubieran excedido de la cantidad de $2'000,000.00, podrán optar por aplicar las disposiciones de la Sección III, Capítulo II, Título IV, de la Ley del Impuesto sobre la Renta, correspondiente al Régimen de Pequeños Contribuyentes.
+Los contribuyentes a que se refiere el artículo anterior, calcularán y enterarán el impuesto en forma bimestral, el cual tendrá el carácter de pago definitivo, a más tardar el día 22 de los meses de marzo, mayo, julio, septiembre, noviembre y enero del año siguiente. Para estos efectos la utilidad fiscal del bimestre de que se trate se determinará restando de la totalidad de los ingresos a que se refiere el artículo 26, obtenidos en dicho bimestre en efectivo, en bienes o en servicios, las deducciones autorizadas a que se refiere el artículo 24 de esta Ley, que sean estrictamente indispensables para la obtención de los ingresos a que se refiere esta sección, así como las erogaciones efectivamente realizadas en el mismo periodo para la adquisición de activos, gastos y cargos diferidos y la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+Para determinar el impuesto, los contribuyentes a que se refiere el artículo anterior considerarán los ingresos cuando se cobren efectivamente y deducirán las erogaciones efectivamente realizadas en el ejercicio para la adquisición de activos fijos, gastos o cargos diferidos.
 
-Los contribuyentes a que se refiere el párrafo anterior, efectuarán pagos bimestrales definitivos, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago. El pago definitivo se determinará restando de la totalidad de los ingresos a que se refiere esta Sección obtenidos en el periodo que declara un monto equivalente a cuatro veces el salario mínimo general en el Estado de Guanajuato elevado al periodo que declara.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-Al resultado que se obtenga conforme al párrafo anterior, se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, o bien, podrán aplicar la cuota fija que determine la Secretaría de Finanzas, Inversión y Administración, la cual deberá ser publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato, en el mes de enero de cada año.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2007)</small>
-
-Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
+A la utilidad fiscal que se obtenga conforme a este artículo se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
 
 ###### Artículo 28.
 
@@ -395,9 +391,11 @@ I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes;
 
 II.- Llevar la contabilidad de conformidad con el Código Fiscal para el Estado de Guanajuato o en su caso, llevar un solo libro de ingresos, egresos y de registro de inversiones y deducciones, según el régimen bajo el cual tributen; y
 
-III.- Presentar declaraciones provisionales y anual.
+III.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2013)
 
-Tratándose de los contribuyentes a que se refiere el artículo 27 de esta Ley, cumplirán lo establecido en la fracción I de este artículo, sin perjuicio del cumplimiento de las demás obligaciones fiscales señaladas en la Sección III, Capítulo II, Título IV, de la Ley del Impuesto sobre la Renta.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de los contribuyentes a que se refiere el artículo 23 de esta Ley, deberán presentar declaraciones provisionales y anual.
 
 ### CAPÍTULO TERCERO. DEL IMPUESTO POR ADQUISICIÓN DE VEHÍCULOS DE MOTOR USADOS
 
@@ -926,3 +924,11 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor el 1 de enero de 2014, una vez publicado en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Artículo Tercero. Tratándose de aquellos contribuyentes que al 31 de diciembre de 2013 tributaron conforme al régimen de Pequeños Contribuyentes, que no reúnan los requisitos para tributar en el régimen de Incorporación Fiscal, aplicarán lo dispuesto en el Artículo Noveno, fracción XXVI de las disposiciones transitorias de la Ley del Impuesto sobre la Renta, vigente a partir del 1 de enero de 2014, por lo que respecta a ingresos y deducciones, tal como lo señala el artículo 43 de la Ley del Impuesto al Valor Agregado.
