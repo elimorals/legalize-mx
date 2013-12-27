@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-deuda-publica-para-el-estado-y-los-municipios-de-10488"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-30"
-last_updated: "2013-06-07"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 30 de agosto de 1996.
 
@@ -515,17 +515,27 @@ II.- Informar anualmente a la Secretaría que corresponda, el saldo de su deuda 
 
 III.- Proporcionar al Congreso del Estado toda la información necesaria para que éste, en el ámbito de su competencia cumpla con la facultad de vigilancia y fiscalización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 35.
 
-El Ejecutivo del Estado, por conducto de la Secretaría que corresponda, deberá llevar un Registro Estatal de Deuda Pública; para tal efecto las entidades públicas deberán inscribir sus empréstitos y los fideicomisos de financiamiento que celebren, dentro de los quince días siguientes a su suscripción acompañando la siguiente documentación:
+El Ejecutivo del Estado, por conducto de la Secretaría que corresponda, deberá llevar un Registro Estatal de Deuda Pública; para tal efecto las entidades públicas deberán inscribir sus empréstitos y los fideicomisos de financiamiento que celebren, dentro de los quince días hábiles siguientes a su suscripción acompañada de la siguiente documentación:
 
 I.- Los datos relacionados con la operación o emisión correspondiente, anexando el instrumento jurídico en el que se haga constar la obligación directa o contingente cuya inscripción se solicita;
 
-II.- Aquellos donde consten las obligaciones pagaderas en territorio y moneda nacionales y contraídas con entidades o personas de nacionalidad mexicana; y
+II.- Aquellos donde consten las obligaciones pagaderas en territorio y moneda nacionales y contraídas con entidades o personas de nacionalidad mexicana; y (sic)
 
-III.- El Decreto mediante el cual el Congreso del Estado, hubiese autorizado la contratación de financiamiento; y, en su caso, la garantía para el financiamiento.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+III.- El Decreto mediante el cual el Congreso del Estado, hubiese autorizado la contratación de financiamiento; y, en su caso, la garantía para el financiamiento; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+IV.- Solicitud de inscripción del empréstito o fideicomiso de financiamiento en la que se declare bajo protesta de decir verdad, que han cumplido con las obligaciones derivadas de la Ley General de Contabilidad Gubernamental y demás disposiciones administrativas aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría, una vez cumplidos los requisitos arriba señalados, efectuará la inscripción solicitada e informará al solicitante lo conducente. En caso de incumplimiento o inconsistencias respecto a los requisitos mencionados, la Secretaría lo notificará al solicitante, para efectos de que éste subsane la (sic) conducente dentro del término de 10 días hábiles contados a partir del día siguiente de habérsele efectuado dicha notificación; en caso de que la omisión o inconsistencia no se subsane en el plazo señalado, se tendrá como no presentada la solicitud respectiva.
 
 ###### Artículo 36.
 
@@ -640,3 +650,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En lo relativo a los registros del patrimonio inmobiliario y su valuación, el Poder Ejecutivo del Estado deberá realizar lo conducente para cumplir con lo previsto en el presente Decreto, a más tardar el 31 de diciembre de 2014 y los Municipios antes del 31 de diciembre de 2015.
