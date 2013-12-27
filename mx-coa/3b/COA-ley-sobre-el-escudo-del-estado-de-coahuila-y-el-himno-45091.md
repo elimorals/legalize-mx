@@ -4,7 +4,7 @@ identifier: "COA-ley-sobre-el-escudo-del-estado-de-coahuila-y-el-himno-45091"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-20"
-last_updated: "2006-01-10"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY SOBRE EL ESCUDO DEL ESTADO DE COAHUILA Y EL HIMNO COAHUILENSE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 20 de mayo del 2005.
 
@@ -327,9 +327,11 @@ Queda estrictamente prohibido alterar la letra, música y/o ritmo del Himno Coah
 
 Todas las reproducciones del Himno Coahuilense requerirán autorización de las Secretarías de Gobierno y de Educación Pública del Estado. Los espectáculos públicos de teatro, cine, radio y televisión que incluyan o versen sobre el Himno o que contengan motivos de aquél, necesitarán de la aprobación de dichas Secretarías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO DÉCIMO NOVENO.
 
-En todos los planteles educativos del nivel preescolar, primaria y secundaria, públicos o privados, será obligatoria la enseñanza del Himno Coahuilense.
+En todos los planteles educativos del nivel preescolar, primaria y secundaria, públicos o privados, será obligatoria la enseñanza e interpretación del Himno Coahuilense, en las ceremonias que se efectúen en dichos planteles, al inicio y fin de cursos y el primer día laboral de cada semana del calendario oficial, después de haber realizado los honores a la Bandera Nacional y haber entonado el Himno Nacional.
 
 Por tanto, la Secretaría de Educación Pública difundirá el Himno Coahuilense y su correcta ejecución entre los maestros, padres de familia y alumnos de dichos planteles.
 
@@ -351,7 +353,9 @@ II. La transmisión sea única y exclusivamente con fines educativos.
 
 En los espacios destinados por las radiodifusoras, conforme a las disposiciones aplicables, a transmisiones oficiales del Estado, se incluirá en la programación el Himno Coahuilense.
 
-De igual forma, en aquellas estaciones de radio o televisión de naturaleza oficial, se incluirá en sus transmisiones al inicio y al cierre de las mismas el Himno Coahuilense, posterior a la del himno nacional.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+De igual forma, en aquellas estaciones de radio o televisión de naturaleza oficial, se incluirá en sus transmisiones al inicio y al cierre de las mismas el Himno Coahuilense, en el caso de la televisión, de forma simultánea la imagen del Escudo del Estado de Coahuila, posterior a la del himno nacional.
 
 ### CAPÍTULO CUARTO. EL ESCUDO DE LOS AYUNTAMIENTOS DEL ESTADO
 
@@ -444,3 +448,7 @@ DECRETO NÚMERO 564.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La convocatoria al concurso de interpretación será hecha por la Secretaría de Educación el 30 de abril de cada año.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
