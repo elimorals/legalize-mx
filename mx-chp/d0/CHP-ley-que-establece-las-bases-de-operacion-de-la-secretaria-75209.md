@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2011-11-23"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY QUE ESTABLECE LAS BASES DE OPERACION DE LA SECRETARIA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS---ANTES---LEY QUE ESTABLECE LAS BASES DE OPERACION DE LA SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA DEL ESTADO DE CHIAPAS
 
-LEY QUE ESTABLECE LAS BASES DE OPERACION DE LA SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA DEL ESTADO DE CHIAPAS
+LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -67,15 +67,29 @@ IV. Policías Preventivas del Estado: A las corporaciones policiales pertenecien
 
 V. Sistema Nacional: Al Sistema Nacional de Seguridad Pública.
 
-VI. Carrera Policial: Al Servicio Profesional de Carrera Policial.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-VII. Instituciones Policiales: A los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las Dependencias encargadas de la seguridad pública a nivel Federal, Local y Municipal, que realicen funciones similares.
+VI. Instituto: Al Instituto de Formación Policial.
 
-VIII. Servicio: Actividad física o intelectual que desempeña un miembro integrante de la Secretaría y que tiene asignada por ley, por contrato o por un actuar precedente.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+VII. Carrera Policial: Al Servicio Profesional de Carrera Policial.
 
-IX. Integrantes: A los servidores públicos que se encuentran adscritos a la Secretaría.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VIII. Instituciones Policiales: A los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, y en general, todas las Dependencias encargadas de la seguridad pública a nivel Federal, Local y Municipal, que realicen funciones similares.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+IX. Servicio: Actividad física o intelectual que desempeña un integrante de la Secretaría y que tiene asignada por ley, por contrato o por un actuar precedente.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+X. Integrantes: A los servidores públicos que se encuentran adscritos a la Secretaría.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XI. Fuerza Ciudadana.- A la Policía profesional y acreditada con enfoque de prevención del delito y atención a la ciudadanía, adscrita a la Subsecretaría de Seguridad Pública y Protección Ciudadana de la Secretaría de Seguridad y Protección Ciudadana.
 
 ### Capítulo II. De la Organización y Atribuciones de la Secretaría
 
@@ -83,9 +97,13 @@ IX. Integrantes: A los servidores públicos que se encuentran adscritos a la Sec
 
 Los ejes fundamentales de la existencia y operación de la Secretaría, son la Seguridad Pública y la Reinserción Social; los cuales se traducen en las siguientes atribuciones:
 
-I. Organizar y operar las unidades y corporaciones policiacas, para garantizar el cumplimiento de sus obligaciones.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-II. Establecer los proyectos, programas, herramientas y disposiciones normativas, tendentes a implementar y mejorar los sistemas de desarrollo policial, carrera policial y profesionalización del personal adscrito a la Secretaría.
+I. Dirigir, organizar y operar las unidades y corporaciones policiacas, para garantizar el cumplimiento de sus obligaciones.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+II. Establecer los proyectos, programas, herramientas y disposiciones normativas, tendentes, a implementar y mejorar los sistemas de desarrollo policial, carrera policial y profesionalización de los integrantes de la Secretaría.
 
 III. Coordinar la organización, ministración, resguardo y mantenimiento preventivo y correctivo del armamento, equipo, vehículos, inmuebles, muebles y recurso material asignado a la misma, en términos de los reglamentos y disposiciones que al efecto se dicten.
 
@@ -97,7 +115,9 @@ VI. Controlar la operatividad de las Policías Preventivas del Estado para garan
 
 VII. Establecer los modelos y mecanismos de profesionalización, carrera policial, ascensos y recompensas, sistema disciplinario y normativo interno de la Secretaría.
 
-VIII. Proponer las condiciones para una adecuada promoción profesional, social y humana de los miembros de la Secretaría, basado en los principios de honradez, lealtad, objetividad, igualdad de oportunidades, equidad de género, mérito y capacidad.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VIII. Proponer las condiciones para una adecuada promoción profesional, social y humana de los integrantes de la Secretaría, basados en los principios de honradez, lealtad, objetividad, igualdad de oportunidades, equidad de género, mérito y capacidad.
 
 IX. Establecer las medidas necesarias para brindar la atención a las víctimas del delito en el ámbito de su competencia.
 
@@ -106,6 +126,10 @@ X. Brindar el auxilio de la fuerza pública al Poder Judicial del Estado, a la P
 XI. Ejecutar y supervisar las medidas de orientación, protección, tratamiento e internamiento de los adolescentes que realicen actividades previstas como delitos por las leyes penales vigentes en el Estado de Chiapas; así como crear y operar programas tendentes a la Prevención de conductas ilícitas de los Adolescentes.
 
 XII. Establecer y operar la política y normatividad penitenciaria, programas y proyectos que tendrán como objetivo primordial la Reinserción Social del sentenciado.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XIII. Implementar y operar la capacitación, adiestramiento y profesionalización de los cuerpos de seguridad pública del Estado, municipios y prestadores de servicios de seguridad privada.
 
 ###### Artículo 5.
 
@@ -144,6 +168,12 @@ IV. Comisión de Honor y Justicia: la cual se integra por un cuerpo colegiado de
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 V. Comisión del Servicio de Carrera: la cual se integra por un cuerpo colegiado denominado Comisión del Servicio Profesional de Carrera Policial y se rige por un Reglamento propio.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VI. Órganos Desconcentrados:
+
+A. Instituto de Formación Policial.
 
 ### Capítulo II. De las Unidades de Apoyo al Secretario
 
@@ -209,25 +239,35 @@ Para la formación y operación de las Unidades de Apoyo a la Secretaría se ate
 
 ### Capítulo IV. De las Comisiones
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 19.
 
-La Comisión de Honor y Justicia de la Secretaría, será la encargada de conocer, mediante los procedimientos señalados en la Ley y en su propio Reglamento, de las conductas en que incurran los elementos que integran a la Secretaría.
+La Comisión de Honor y Justicia de la Secretaría será la encargada de conocer, mediante los procedimientos señalados en la Ley y en su propio Reglamento, de las conductas en que incurran los integrantes de la Secretaría, así como, en caso de ser procedente, se sancionará con su separación o remoción.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 20.
 
-La Comisión del Servicio Profesional de Carrera Policial, será la encargada de conocer sobre los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los elementos de la Secretaría.
+La Comisión del Servicio Profesional de Carrera Policial será la encargada de conocer sobre los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento de los integrantes de la Secretaría.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+### Capítulo V. De los Órganos Desconcentrados
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 20 Bis.
+
+El Instituto de Formación Policial es un Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría de Seguridad y Protección Ciudadana, con plena autonomía administrativa, presupuestaria, técnica, de gestión y de ejecución, con facultades de decisión y promoción en materia de capacitación y adiestramiento policial, mismo que atenderá los asuntos que su Decreto de Creación, Reglamento Interior y la normatividad aplicable le confieren.
+
+El objeto fundamental del Instituto es, en términos de su Decreto de Creación, coordinar su funcionamiento, planear, organizar, dirigir y aplicar los planes y programas de estudio y de investigación; así como preparar e impartir cursos de capacitación, adiestramiento continuo y actualización profesional, dirigidos al personal operativo y de servicios que integra la Secretaría de Seguridad y Protección Ciudadana y los distintos cuerpos de seguridad pública del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-### Capítulo Único. De las obligaciones y características especiales
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
-
 ## Título Tercero. De los Integrantes de la Secretaría
 
-### Capítulo I. El Servicio
+### Capítulo Único. De las obligaciones y características especiales
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -333,9 +373,9 @@ XI. Las demás que establezcan las disposiciones legales aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-### Capítulo II. Del Sistema de Sanciones, Reconocimientos y Ascensos
+### Capítulo I. El Servicio
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 24.
 
@@ -437,9 +477,11 @@ XVI. Las demás que establezcan las disposiciones legales aplicables.
 
 Los elementos operativos y de servicio pertenecientes a la Secretaría contaran con un historial en el cual se anotaran los detalles correspondientes al servicio como comisiones, incapacidades, ascensos, recompensas, correctivos disciplinarios, adscripciones, cambios de sector y oficina.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 28.
 
-Serán motivos para causar baja de la Secretaría los siguientes:
+Serán motivos de terminación del servicio de los integrantes de la Secretaría los siguientes:
 
 I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia o cuando, en los procesos de promoción, concurran las siguientes circunstancias:
 
@@ -469,7 +511,9 @@ El personal perteneciente a la Secretaría se sujetará a los periodos y rol de 
 
 La Seguridad Social para los miembros de la Secretaría deberá garantizar, al menos, las prestaciones previstas para los trabajadores en materia de seguridad social de acuerdo a lo previsto en el artículo 123, apartado B, fracción XIII, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-### Capítulo III. Del Escalafón Jerárquico, Reconocimientos y Estímulos
+### Capítulo II. Del Sistema de Sanciones, Reconocimientos y Ascensos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 31.
 
@@ -529,13 +573,13 @@ d) Remoción:
 
 Es la terminación de la relación administrativa entre la Secretaría y el infractor, sin responsabilidad para aquélla, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario.
 
-Las anteriores sanciones serán impuestas mediante resolución formal del Consejo de Honor y Justicia, por infracciones o faltas a la disciplina, a las obligaciones y los deberes establecidos en las Leyes, Reglamentos y demás disposiciones vigentes, de manera proporcional a la gravedad de la falta cometida; asimismo por lo que respecta a la competencia de la Comisión del Servicio Profesional de Carrera Policial.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Las anteriores sanciones serán impuestas mediante resolución formal de la Comisión de Honor y Justicia, por infracciones o faltas a la disciplina, a las obligaciones y los deberes establecidos en las Leyes, Reglamentos y demás disposiciones vigentes, de manera proporcional a la gravedad de la falta cometida.
 
 En todo caso, la sanción deberá registrarse en las bases de datos y de personal de la Secretaría, así como en el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
 
-### Capítulo I. Del Desarrollo Policial
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+### Capítulo III. Del Escalafón Jerárquico, Reconocimientos y Estímulos
 
 ###### Artículo 37.
 
@@ -633,7 +677,7 @@ VIII. Al mérito social.
 
 ## Título Quinto. Del Desarrollo Policial, Carrera Policial y Profesionalización del Personal de la Secretaría
 
-### Capítulo II. De la Carrera Policial
+### Capítulo I. Del Desarrollo Policial
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -649,11 +693,11 @@ Las relaciones jurídicas entre la Secretaría y sus integrantes se rigen por el
 
 Todos los servidores públicos adscritos a la Secretaría que no pertenezcan a la Carrera Policial, se considerarán trabajadores de confianza. Los efectos de su nombramiento se podrán dar por terminados en cualquier momento, de conformidad con las disposiciones aplicables, y en caso de que no acrediten las evaluaciones de control de confianza.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 44.
 
-Los integrantes de la Secretaría podrán ser separados de su cargo si no cumplen con los requisitos de las leyes vigentes, mediante procedimiento ante la Comisión del Servicio Profesional de Carrera Policial o por procedimiento disciplinario ante el Consejo de Honor y Justicia por las situaciones previstas en sus respectivos reglamentos, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación, y en su caso, sólo procederá la indemnización así como el registro correspondiente ante el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
+Los integrantes de la Secretaría podrán ser separados de sus cargos, si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones y mediante procedimiento disciplinario ante la Comisión de Honor y Justicia, por las conductas previstas en su reglamento correspondiente, atendiendo en cuanto a la forma de terminación del servicio, lo dispuesto por el párrafo segundo de la fracción XIII, del Apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos; procediendo en su caso, el registro correspondiente ante el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
 
 ###### Artículo 45.
 
@@ -665,9 +709,9 @@ II. Prevención: bajo mecanismos para prevenir la comisión de delitos e infracc
 
 III. Reacción: a efectos de garantizar, mantener y restablecer el orden y la paz públicos.
 
-### Capítulo III. De la Profesionalización del Personal de la Secretaría
+### Capítulo II. De la Carrera Policial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 46.
 
@@ -797,7 +841,9 @@ La certificación es el proceso mediante el cual los integrantes de las Policía
 
 La Secretaría contratará únicamente al personal que cuente con el requisito de certificación expedido por el Centro Estatal de Control de Confianza Certificado.
 
-Artículo·59.- La certificación tiene por objeto:
+###### Artículo 59.
+
+La certificación tiene por objeto:
 
 I.- Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional.
 
@@ -817,7 +863,9 @@ e) Notoria buena conducta, no haber sido condenado por sentencia irrevocable por
 
 f) Cumplimiento de los deberes establecidos en esta Ley.
 
-### Capítulo I. Del Armamento
+### Capítulo III. De la Profesionalización del Personal de la Secretaría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 60.
 
@@ -827,7 +875,7 @@ Los planes de estudio para la Profesionalización se integrarán por el conjunto
 
 ## Título Sexto. Del Armamento, Vehículos, Vestuario y Equipo en General Perteneciente a la Secretaría
 
-### Capítulo II. De los Vehículos
+### Capítulo I. Del Armamento
 
 ###### Artículo 61.
 
@@ -841,7 +889,7 @@ El armamento perteneciente a la Secretaría deberá ser debidamente registrado p
 
 El extravío de un arma fuera de actos del servicio se considera una falta disciplinaria grave, independientemente de los trámites para la reparación del daño patrimonial, se iniciará un procedimiento disciplinario para sancionar esta conducta.
 
-### Capítulo III. Del Vestuario y Equipo en General
+### Capítulo II. De los Vehículos
 
 ###### Artículo 64.
 
@@ -855,7 +903,7 @@ Los vehículos oficiales de la Secretaría asignados a las Instituciones Policia
 
 Los vehículos oficiales contarán con el equipamiento necesario para desempeñar su actividad operativa que sea asignada, por tanto deberá apegarse a la normatividad establecida para tal caso.
 
-### Capítulo Único. De las Tecnologías y Sistemas que implementa la Secretaría
+### Capítulo III. Del Vestuario y Equipo en General
 
 ###### Artículo 67.
 
@@ -875,7 +923,7 @@ Los uniformes, insignias y divisas, los colores y los complementos, son de uso e
 
 ## Título Séptimo. De la Innovación Tecnológica aplicada a la Secretaría
 
-### Capítulo Único. De la Coordinación
+### Capítulo Único. De las Tecnologías y Sistemas que implementa la Secretaría
 
 ###### Artículo 70.
 
@@ -887,7 +935,7 @@ La innovación tecnológica es determinante en la productividad, por lo que, a e
 
 ## Título Octavo. De la Coordinación de la Secretaría con otras Instancias en materia de Seguridad Pública
 
-### Capítulo I. De la Participación de la Comunidad
+### Capítulo Único. De la Coordinación
 
 ###### Artículo 72.
 
@@ -903,7 +951,7 @@ Las Instituciones Policiales deberán establecer los mecanismos de coordinación
 
 ## Título Noveno. De la Participación Ciudadana en la Prevención, Denuncia y Atención a Víctimas del Delito
 
-### Capítulo II. De la Atención y Vinculación de la Víctima para su Tratamiento
+### Capítulo I. De la Participación de la Comunidad
 
 ###### Artículo 75.
 
@@ -926,6 +974,8 @@ VII. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y part
 ###### Artículo 76.
 
 La Secretaría, a través de sus instancias correspondientes, establecerá mecanismos, programas, planes, proyectos y actividades eficaces para que la sociedad participe en la prevención de los delitos en el territorio del Estado, para lo cual deberá hacer uso de los recursos humanos y materiales que tiene asignados para tal fin, entendiendo a la prevención del delito como uno de los objetivos más importantes de la Secretaría.
+
+### Capítulo II. De la Atención y Vinculación de la Víctima para su Tratamiento
 
 ###### Artículo 77.
 
@@ -974,3 +1024,13 @@ P.O. 23 DE NOVIEMBRE DE 2011.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las dependencias normativas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que sean necesarias para las adecuaciones, estructurales y funcionales a que haya lugar, derivado del presente Decreto.
+
+Artículo Cuarto.- La Secretaría de Seguridad y Protección Ciudadana deberá someter a consideración del Ejecutivo del Estado, en un plazo no mayor a noventa días, contados a partir de la publicación del presente Decreto, las modificaciones al Reglamento de la Ley, para su aprobación y publicación correspondiente.
