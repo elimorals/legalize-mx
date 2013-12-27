@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2012-12-28"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -70,6 +70,10 @@ CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
 La Hacienda Pública del Estado de Guerrero, para cubrir el gasto público y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal, las contribuciones, productos aprovechamientos y participaciones en ingresos federales que establezcan las leyes respectivas y los convenios de coordinación hacendaria que se hayan suscrito o que se suscriban para tales efectos.
 
 Ninguna contribución podrá recaudarse si no está prevista en las Leyes de Hacienda y de Ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Cuando las leyes fiscales estatales establezcan que las contribuciones se calcularán por ejercicios fiscales, éstos coincidirán con el año calendario.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -205,7 +209,7 @@ I.- El Gobernador del Estado;
 
 II.- El Secretario de Finanzas y Administración;
 
-III.- El Sub'Secretario de Ingresos;
+III.- El Sub Secretario de Ingresos;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -246,6 +250,10 @@ Las autoridades fiscales del Estado ejercerán su competencia en el territorio d
 BIS.- Las autoridades fiscales del estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, los artículos 4o y 5o de la Constitución Política del Estado Libre y Soberano de Guerrero y demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Guerrero número 433, y en el Reglamento Interior de la Secretaria de Finanzas y Administración del Gobierno del Estado de Guerrero, cumpliendo con los requisitos que para tal efecto se señalen.
 
 Para el trámite y resolución de los asuntos dentro de las facultades y atribuciones que les confiere a las autoridades fiscales Estatales el presente Código, se considerará competencia territorial en donde se ejercerán las facultades de las Coordinaciones Fiscales Estatales de la Dirección General de Fiscalización dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, será la que corresponda conforme a este al Código.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Se considera también, para fines fiscales, como parte del territorio del Estado, la Zona Federal Marítimo Terrestre y Territorios Ganados al Mar, ubicados en la franja costera en la que colinde el Estado con el Océano Pacífico.
 
 ###### ARTICULO 12.
 
@@ -453,6 +461,28 @@ En ningún caso el fisco estatal entrará en los juicios universales. Cuando se 
 
 Para lograr un mejor y más exacto cumplimiento de las disposiciones de carácter fiscal, se considerarán como auxiliares de las Autoridades Fiscales de la Secretaría de Finanzas y Administración, todas las Autoridades Administrativas y Civiles con Jurisdicción en el Estado de Guerrero.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 26 BIS.- La Administración Pública Estatal, Centralizada y Paraestatal, así como la Procuraduría General de Justicia del Estado, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
+
+I.- Tengan a su cargo créditos fiscales firmes;
+
+II.- Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código;
+
+III.- No se encuentren inscritos en el Registro Estatal y Federal de Contribuyentes; y
+
+IV.- Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad pagar (sic), ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
+
+La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+
+Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes.
+
+Los particulares tendrán derecho al otorgamiento de subsidios o estímulos previstos en los ordenamientos aplicables, siempre que no se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal y Federal de Contribuyentes.
+
+Las dependencias que tengan a su cargo la aplicación de subsidios o estímulos deberán abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal y Federal de Contribuyentes.
+
+Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II de este artículo, no se consideran comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones III y IV, los particulares contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que la autoridad les notifique la irregularidad detectada.
+
 ## TITULO SEGUNDO. DE LOS SUJETOS PASIVOS Y DEL CREDITO FISCAL
 
 ### CAPITULO I. DE LOS SUJETOS Y DEL DOMICILIO
@@ -621,9 +651,11 @@ También se considerará como crédito fiscal las cuotas obrero patronales a fav
 
 Así mismo tendrán la naturaleza de crédito fiscal, los montos que se deriven del incumplimiento de los contratos de obras públicas, asignados por el Estado a particulares, a fin de resarcir el perjuicio que por dicho incumplimiento se le ocasione; a tales montos para su recuperación, les serán aplicadas las disposiciones que regulan el procedimiento administrativo de ejecución.
 
-###### ARTICULO 35.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, con base al índice nacional de precios al consumidor que emita el Banco de México, publicado en el Diario Oficial de la Federación; además, deberá (sic) pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno, tomando como base el porcentaje que para las contribuciones federales aplique la Secretaría de Hacienda y Crédito Público. Dichos recargos, se calcularán aplicando al monto de las contribuciones actualizadas por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución de que se trate.
+###### ARTÍCULO 35.
+
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, con base al índice nacional de precios al consumidor que emita el Instituto Nacional de Estadística y Geografía (INEGI), publicado en el Diario Oficial de la Federación; además, deberá pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno, tomando como base el porcentaje que para las contribuciones federales aplique la Secretaría de Hacienda y Crédito Público. Dichos recargos, se calcularán aplicando al monto de las contribuciones actualizadas por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución de que se trate.
 
 En los casos de garantía de obligaciones fiscales a cargo de terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
 
@@ -641,9 +673,11 @@ En el caso de aprovechamientos, los recargos se calcularán de conformidad con l
 
 En ningún caso las autoridades fiscales podrán liberar a los contribuyentes de la actualización de las contribuciones o condonar total o parcialmente los recargos correspondientes, con excepción de lo que establece el artículo 44 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 36.
 
-El factor de actualización cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales se obtendrá dividiendo en (sic) Indice Nacional de Precios al Consumidor que emite el Banco de México del mes anterior al más reciente del período entre el Indice Nacional de Precios correspondiente al mes anterior al más antiguo de dicho período.
+El factor de actualización cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que emite el Instituto Nacional de Estadística y Geografía e Informática (INEGI), del mes anterior al más reciente del período entre el Índice Nacional de Precios correspondiente al mes anterior al más antiguo de dicho período.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -838,6 +872,10 @@ III.- En los casos en que no concurra ninguna de las circunstancias anteriores, 
 IV.- Tratándose de créditos fiscales generados por la realización de obras públicas, el término prescrito correrá a partir de la fecha en que dichas obras hubiesen sido puestas en servicio; y
 
 V.- Si se trata de créditos fiscales que deban pagarse periódicamente, el término de la prescripción se computará en forma independiente por cada período.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+El plazo a que se refiere éste artículo será de diez años cuando el contribuyente no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas. En los casos en los que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en la que debió presentarse la declaración omitida y la fecha en la que se presentó espontáneamente, exceda de diez años.
 
 ###### ARTICULO 59.
 
@@ -1287,7 +1325,7 @@ En caso de que los visitadores obtengan copias certificadas de la contabilidad p
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 VIII.- Cuando en el desarrollo de una visita domiciliaria, las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones consignarán los hechos u omisiones que se conozcan de terceros en la última acta parcial que al efecto se levante, haciendo mención expresa de tal circunstancia entre ésta y el acta final, debiendo transcurrir cuando menos quince días por cada período de doce meses o fracción de éste sin que en su conjunto excedan, por todos los ejercicios revisados de un máximo de cuarenta y cinco días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones.
 
@@ -1769,9 +1807,11 @@ II.- No hacer el pago de las prestaciones fiscales, cuando la omisión se realic
 
 III.- Incurrir en cualquier otra forma al incumplimiento de las obligaciones que establece este Código, la Ley de Hacienda y la Ley de Ingresos del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 97.
 
-Para los efectos de esta Ley, las sanciones son las penas que como consecuencias jurídicas se producen por la violación o incumplimiento de las disposiciones fiscales.
+Para los efectos del presente Código, las sanciones son los castigos pecuniarios que impondrán las autoridades fiscales a los contribuyentes como consecuencia de una infracción o incumplimiento de las disposiciones fiscales.
 
 ###### ARTICULO 98.
 
@@ -1809,7 +1849,9 @@ IX.- Cuando la liquidación de alguna prestación fiscal esté encomendada a fun
 
 X.- La Secretaría de Finanzas y Administración se abstendrá de imponer sanciones cuando se cumplan en forma espontánea las obligaciones fiscales no cubiertas dentro de los plazos señalados por las disposiciones fiscales o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito;
 
-No se considerará que el cumplimiento de la obligación fiscal es espontánea cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+No se considerará que el cumplimiento de la obligación fiscal es espontánea, cuando la omisión sea descubierta por las autoridades fiscales y medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas; y
 
 XI.- La Secretaría de Finanzas y Administración dejará de imponer sanciones cuando se haya incurrido en infracciones por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de la mencionada autoridad.
 
@@ -1921,7 +1963,9 @@ V.- No devolver oportunamente a las autoridades los comprobantes de pago de las 
 
 VI.- Faltar a la obligación de extender comprobantes, facturas o cualesquiera otros documentos que señalen las leyes fiscales. No exigirlos cuando tengan obligación de hacerlo, no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma; de treinta a noventa días de salario mínimo general vigente en la zona "A";
 
-VII.- No presentar, no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, datos, informes, copias, libros y documentos que exijan las disposiciones fiscales, no comprobarlos o aclararlos, cuando las autoridades fiscales lo requieran; no cumplir los requerimientos o cumplirlos fuera de los plazos señalados en los mismos, de uno a veinticinco días de salario mínimo general vigente en la zona "A" y, en caso de reincidencia hasta el doble del monto de la última sanción impuesta, la cual no podrá exceder de sesenta días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VII.- No presentar, no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, datos, informes, copias, libros y documentos que exijan las disposiciones fiscales, no comprobarlos o aclararlos, cuando las autoridades fiscales lo requieran; no cumplir los requerimientos o cumplirlos fuera de los plazos señalados en los mismos, de noventa a doscientos cincuenta días de salario general vigente en la zona "A", y, en caso de reincidencia hasta el doble del monto de la última sanción impuesta, la cual no podrá exceder de quinientos días de salario mínimo general vigente en la zona "A";
 
 VIII.- Presentar los avisos, declaraciones, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal; de treinta a noventa días de salario mínimo general vigente en la zona "A";
 
@@ -1963,7 +2007,7 @@ Las multas a que se refiere esta fracción se aumentarán en un 50% de las contr
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-XVIII. - Omitir dictaminar sus contribuciones fiscales estatales en los casos y de conformidad con lo previsto en el articulo 91 BIS de este Código, o abstenerse de presentar dicho dictamen dentro del término previsto por las leyes fiscales; de 158 a 1580 días de salario mínimo general vigente en la zona "A".
+XVIII.- Omitir dictaminar sus contribuciones fiscales estatales en los casos y de conformidad con lo previsto en el articulo 91 BIS de este Código, o abstenerse de presentar dicho dictamen dentro del término previsto por las leyes fiscales; de 158 a 1580 días de salario mínimo general vigente en la zona "A".
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES RELACIONADAS CON LAS RESPONSABILIDADES DE LOS FUNCIONARIOS REVESTIDOS DE FE PUBLICA
 
@@ -2039,7 +2083,13 @@ XVII.- Otorgar beneficios o estímulos fiscales a los contribuyentes sin estar l
 
 XVIII.- Omitir la comprobación de la exactitud de los cálculos de impuestos sometidos por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquellos, si ello entraña omisión de impuestos, multa de uno a cincuenta días de salario mínimo general vigente en la zona "A";
 
-XIX.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones anteriores; de uno a cien días de salario mínimo vigente en la zona económica que le corresponda.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XIX.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones anteriores; de uno a cien días de salario mínimo general vigente en la zona económica que le corresponda; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XX.- Cuando no se deje citatorio, no se realice la diligencia a la hora exacta, llenar parcialmente los campos del acta de notificación, alterar los datos del acta de notificación, asentar datos falsos en el acta de notificación, no recabar la firma del contribuyente o del propio notificador, no circunstanciar los hechos cuando se niegue el contribuyente a recibir u oponer resistencia, realizar la diligencia fuera del horario normal, en general todos los actos dolosos que tengan el fin (sic) no hacer efectivo el crédito fiscal, a los notificadores, visitadores y ejecutores se les impondrá una multa de cinco y hasta diez veces el salario mínimo general.
 
 #### SECCION SEPTIMA. DE LAS INFRACCIONES Y SANCIONES CUYA RESPONSABILIDAD RECAE SOBRE TERCEROS
 
@@ -2247,9 +2297,11 @@ Cuando un particular o un servidor público, coopere o participe en cualquier fo
 
 Para la comprobación de los delitos previstos en los artículos 124 y 125, se deberá recabar desde la averiguación previa, un dictamen de peritos designados en los términos que señala el Código de Procedimientos Penales pudiéndose escuchar al afecto la opinión de la Secretaría de Finanzas y Administración.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 128.
 
-Comete el delito de defraudación fiscal quien haga uso de engaño o aproveche el error para omitir total o parcialmente el pago de algún gravamen y con ello obtenga un lucro indebido o ilegítimo.
+Comete el delito de defraudación fiscal quien haga uso de engaño o aproveche el error para omitir total o parcialmente el pago de alguna contribución y con ello obtenga un lucro indebido o ilegítimo en perjuicio del fisco estatal.
 
 ###### ARTICULO 129.
 
@@ -2323,7 +2375,7 @@ La diligencia de notificación se entenderá con la persona que deba ser notific
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 En el momento de la notificación se entregará al notificado o, a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación, asentándose razón por el notificador.
 
@@ -2369,7 +2421,9 @@ IV.- Estar fundado y motivado y expresar la resolución, objeto o propósito de 
 
 V.- Puntos resolutivos;
 
-VI.- Ostentar la firma del funcionario competente.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VI.- Ostentar la firma autógrafa del funcionario competente.
 
 Cuando se ignore el nombre de la persona a la que vaya dirigida, se señalarán los datos suficientes que permitan su identificación.
 
@@ -3338,3 +3392,9 @@ P.O. 28 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Notifíquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
