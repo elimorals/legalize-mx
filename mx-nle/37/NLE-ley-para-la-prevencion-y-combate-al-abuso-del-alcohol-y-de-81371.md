@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-prevencion-y-combate-al-abuso-del-alcohol-y-de-8137
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-18"
-last_updated: "2011-12-26"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de mayo de 2011.
 
@@ -273,6 +273,10 @@ Para los efectos de lo señalado en la fracción VI del artículo 10 de esta Ley
 
 Las autoridades apoyarán y cooperarán con los centros de prevención y organizaciones no gubernamentales que tengan como objetivo reducir el abuso en el consumo del alcohol o sus consecuencias, o brindar tratamiento a las personas que así lo requieran, siempre que sus actividades sean congruentes con los planes y programas que el Estado o los municipios establezcan.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Los Municipios podrán convenir con asociaciones legalmente constituidas a fin de desarrollar acciones para procurar la seguridad de los asistentes a los establecimientos donde se venden, expenden o consumen bebidas alcohólicas así como de la población en general en la vía pública.
+
 ## TÍTULO TERCERO. DE LA VENTA Y CONSUMO DE ALCOHOL
 
 ### CAPÍTULO I. CLASIFICACIÓN DE ESTABLECIMIENTOS
@@ -356,6 +360,10 @@ II. De martes a viernes, de las 0:00 a la 1:00 y de las 9:00 a las 24:00 horas;
 III. Los sábados, de las 0:00 a las 2:00 horas y de las 9:00 a las 24:00 horas; y
 
 IV. Los domingos, de las 0:00 a las 2:00 horas y de las 9:00 a las 18:00 horas, con excepción de los establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos, que podrán dar el servicio de las 0:00 a las 2:00 horas y de las 9:00 a las 24:00 horas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Los Ayuntamientos podrán determinar la aplicación general de la ampliación del horario señalado en las fracciones III y IV de este artículo, para pasar de las 2:00 horas a las 3:00 horas. La autorización de la ampliación de horario deberá ser aprobada por las dos terceras partes de los integrantes del Ayuntamiento y se publicará en el Periódico Oficial del Estado. Así mismo el acuerdo de ampliación podrá incluir 30 minutos adicionales para el desalojo de los clientes. El acuerdo de ampliación de horario no podrá tener una vigencia mayor al periodo constitucional del Ayuntamiento respectivo.
 
 El horario a que se refiere este artículo no será aplicable a quienes vendan y distribuyan bebidas alcohólicas directamente a mayoristas y detallistas; siempre y cuando fuera del horario referido, se evite la venta al público en general en los establecimientos a que se refiere este artículo.
 
@@ -1626,3 +1634,7 @@ JESÚS ZACARÍAS VILLARREAL PÉREZ
 P.O. 26 DE DICIEMBRE DE 2011.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado de Nuevo León.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
