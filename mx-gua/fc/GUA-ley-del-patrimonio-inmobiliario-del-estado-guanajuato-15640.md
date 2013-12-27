@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-patrimonio-inmobiliario-del-estado-guanajuato-15640"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-24"
-last_updated: "2013-06-07"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL PATRIMONIO INMOBILIARIO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 1999.
 
@@ -131,9 +131,9 @@ VII.- Destinar los bienes inmuebles disponibles para satisfacer las necesidades 
 
 VIII.- Otorgar o negar asignaciones para el uso, explotación o aprovechamiento de los bienes inmuebles del dominio público del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-IX.- Organizar y mantener actualizado el Padrón de la Propiedad Inmobiliaria del Estado por conducto de la Secretaría de Finanzas, Inversión y Administración;
+IX.- Organizar, clasificar, registrar y mantener actualizado el Padrón de la Propiedad Inmobiliaria del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, conforme a las disposiciones normativas aplicables;
 
 X.- Ejercer, por sí o por conducto de la persona o Dependencia que determine, las acciones procedentes sobre los bienes inmuebles del dominio del Estado;
 
@@ -549,7 +549,13 @@ Los organismos autónomos por Ley y las entidades de la Administración Pública
 
 El Ejecutivo del Estado por conducto de la Secretaría de Finanzas, Inversión y Administración, deberá llevar el Padrón de la Propiedad Inmobiliaria Estatal con la finalidad de tener un control interno de la propiedad inmobiliaria del Estado.
 
-La Secretaría de Finanzas, Inversión y Administración deberá organizar el Padrón de la Propiedad Inmobiliaria Estatal, estableciendo los bienes inmuebles que tiene cada Poder en administración, así como los que tiene a su cargo cada dependencia, entidad u organismo autónomo por Ley.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría de Finanzas, Inversión y Administración deberá organizar, clasificar y registrar en el Padrón de la Propiedad Inmobiliaria del Estado, los bienes inmuebles de los poderes Ejecutivo, Legislativo y Judicial del Estado, incluyendo los que se encuentran a disposición de las entidades de la administración pública paraestatal y de los organismos autónomos por Ley, en uso, aprovechamiento o administración.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+La clasificación y registro de los bienes inmuebles se llevará de conformidad con lo que establece esta Ley y demás disposiciones administrativas y contables aplicables.
 
 ###### Artículo 63.
 
@@ -563,9 +569,15 @@ III.- Los decretos que desafecten bienes inmuebles del dominio público;
 
 IV.- Los títulos por los que se otorgue la concesión o asignación de los bienes inmuebles del dominio público del Estado, así como la extinción de los mismos;
 
-V.- Los bienes inmuebles que regresen al pleno dominio del Estado con motivo de la reversión; y
+V.- Los bienes inmuebles que regresen al pleno dominio del Estado con motivo de la reversión; y (sic)
 
-VI.- Los demás títulos que se equiparen a los anteriores.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VI.- Los bienes inmuebles que por su naturaleza se consideren inalienables, inembargables e imprescriptibles; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VII.- Los demás títulos que se equiparen a los anteriores.
 
 ###### Artículo 64.
 
@@ -582,6 +594,16 @@ Los encargados del Registro Público de la Propiedad, que inscriban actos o cont
 ###### Artículo 66.
 
 Los Poderes Legislativo y Judicial y los organismos autónomos por Ley, llevarán sus propios padrones de los bienes inmuebles que tengan a su servicio y remitirán una copia de los mismos a la Secretaría de Finanzas, Inversión y Administración, para efecto de su registro en el Padrón de la Propiedad Inmobiliaria Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 66 Bis.
+
+Los Poderes Legislativo y Judicial, así como los organismos autónomos que adquieran en su caso bienes inmuebles, remitirán una copia de la escritura pública correspondiente a la Secretaría de Finanzas, Inversión y Administración, en un plazo de 30 días hábiles a partir de su adquisición, para efecto de su registro en el Padrón de la Propiedad Inmobiliaria del Estado.
+
+El valor de los bienes inmuebles que se registren en el Padrón de la Propiedad Inmobiliaria del Estado no podrá ser inferior al valor catastral que les corresponda.
+
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas, Inversión y Administración, publicará en internet el Padrón de la Propiedad Inmobiliaria del Estado, cuando menos cada seis meses, conforme a las disposiciones normativas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -632,3 +654,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En lo relativo a los registros del patrimonio inmobiliario y su valuación, el Poder Ejecutivo del Estado deberá realizar lo conducente para cumplir con lo previsto en el presente Decreto, a más tardar el 31 de diciembre de 2014 y los Municipios antes del 31 de diciembre de 2015.
