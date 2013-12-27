@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-valladolid-yucatan-90729"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-26"
-last_updated: "2012-12-26"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATÁN, PUBLICADA EN EL D.O. DE 27 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 26 de diciembre del 2012.
 
@@ -1534,3 +1536,19 @@ SECRETARIO DE PLANEACIÓN Y PRESUPUESTO
 C. MIGUEL ANTONIO FERNÁNDEZ VARGAS
 
 SECRETARIO DE LA CONTRALORÍA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- Esta Ley entrará en vigor el día primero de enero del año 2014, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se abroga la Ley de Hacienda del Municipio de Valladolid, Yucatán, publicada en el Diario Oficial del Gobierno del Estado No. 32, 262 el día 28 de diciembre de 2012, en el Decreto 15.
+
+Artículo Tercero.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley General de Hacienda para los Municipios, ambas del Estado de Yucatán.
+
+T R A N S I T O R I O:
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto y las leyes contenidas en él, entrarán en vigor el día 1 de enero del año 2014, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
