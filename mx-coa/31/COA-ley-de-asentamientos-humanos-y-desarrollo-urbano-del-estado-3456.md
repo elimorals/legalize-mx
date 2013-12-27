@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2013-07-12"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -3113,9 +3113,13 @@ IX.- A quienes no realicen las obras dentro de los plazos señalados en el progr
 
 X.- Al propietario de un fraccionamiento que sin contar con la autorización correspondiente, celebre cualquier acto jurídico o incurra en acciones u omisiones que mediata o inmediatamente, tengan la finalidad de transmitir la propiedad o posesión de lotes de terreno, se les aplicará una sanción equivalente al monto total de las operaciones efectuadas y de no existir otras de urbanización, además se hará acreedor a una sanción equivalente a cinco mil veces el salario mínimo general vigente, sin perjuicio de la responsabilidad penal que le resulte;
 
-XI.- Al fraccionador que no cumpla con lo ofrecido en la publicidad de que haya sido autorizado, se le aplicará una sanción equivalente al importe de cien a setecientas veces el salario mínimo general vigente; y
+XI.- Al fraccionador que no cumpla con lo ofrecido en la publicidad de que haya sido autorizado, se le aplicará una sanción equivalente al importe de cien a setecientas veces el salario mínimo general vigente; y (sic)
 
 XII.- A quienes no respeten la cesión a favor del municipio correspondiente del total del porcentaje de la superficie destinada al ayuntamiento para el equipamiento urbano en los términos de esta ley, se les aplicará una sanción equivalente al costo del 15% de la superficie lotificada vendible, de acuerdo con el precio por metro cuadrado promedio al que se hayan enajenado los lotes, sin perjuicio de ceder la parte faltante al municipio.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XIII.- A los establecimientos comerciales o de servicios, que incumplan las disposiciones de la Ley Estatal de Salud, se les revocará la licencia de funcionamiento; en el caso de las instituciones educativas, se sujetarán a lo que la ley Estatal de Educación disponga.
 
 ###### ARTICULO 272.
 
@@ -3412,3 +3416,17 @@ El presente decreto entrará en vigor al día siguiente de su Publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se concede un plazo de 120 días para que los Ayuntamientos adecúen su reglamentación, a efecto de que cumplan con las disposiciones contenidas en esta ley.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, a través de las Secretarías correspondientes, deberá realizar una intensa campaña de difusión e información dirigida a la sociedad en general y particularmente a los jóvenes y a los padres de familia, con el fin de que conozcan y comprendan la finalidad, beneficios y trascendencia social de esta medida preventiva de salud, el sentido de responsabilidad con que debe asumirse la misma, así como realizar un programa de acreditación integral de valores morales.
+
+###### ARTÍCULO TERCERO.
+
+Los sujetos obligados deberán dar cumplimiento a lo dispuesto en el presente decreto, a más tardar el 1 de enero de 2014. Las instituciones de educación lo harán a partir del inicio del siguiente ciclo escolar.
