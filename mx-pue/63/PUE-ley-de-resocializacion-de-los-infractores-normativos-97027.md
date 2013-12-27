@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-resocializacion-de-los-infractores-normativos-97027"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-20"
-last_updated: "2013-12-20"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "PUE"
 ---
 # LEY DE RESOCIALIZACION DE LOS INFRACTORES NORMATIVOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE DICIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE RESOCIALIZACIÓN DE LOS INFRACTORES NORMATIVOS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR NOVENTA DÍAS DESPUÉS DE SU PUBLICACIÓN.</small>
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE DICIEMBRE DE 2013 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2013.</small>
 
 Ley publicada en la Cuadragésima Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 20 de diciembre de 2013.
 
