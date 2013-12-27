@@ -4,7 +4,7 @@ identifier: "COA-ley-de-profesiones-para-el-estado-de-coahuila-de-zaragoza-13083
 country: "mx"
 rank: "ley"
 publication_date: "1998-11-06"
-last_updated: "2008-10-31"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de noviembre de 1998.
 
@@ -125,13 +125,15 @@ III.- Satisfacer los requisitos que para titularse, señalen los reglamentos int
 
 IV.- Cumplir el servicio social conforme a lo dispuesto en esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 10.
 
-En el Estado de Coahuila de Zaragoza se requerirá título para ejercer en todas sus ramas y especialidades, las siguientes profesiones:
+En el Estado de Coahuila de Zaragoza se requerirá título y cédula para ejercer en todas sus ramas y especialidades, las siguientes profesiones:
 
 Abogacía.
 
-Actuaría.
+Actuaría
 
 Administración.
 
@@ -156,6 +158,8 @@ Ingeniería.
 Medicina.
 
 Odontología.
+
+Optometría.
 
 Piloto Aviador.
 
@@ -307,7 +311,7 @@ Los profesionistas podrán formar colegios para la defensa de sus intereses, el 
 
 En su estructura, los colegios tendrán la posibilidad de contar con grupos que conjunten especialistas y secciones en municipios o regiones distintos a los de su domicilio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 25.
 
@@ -617,10 +621,20 @@ EL SECRETARIO DE EDUCACION PUBLICA
 
 LIC. OSCAR PIMENTEL GONZALEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE OCTUBRE DE 2008.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
