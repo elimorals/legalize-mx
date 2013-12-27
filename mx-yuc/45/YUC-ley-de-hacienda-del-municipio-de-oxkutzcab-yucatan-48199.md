@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-oxkutzcab-yucatan-48199"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2008-12-27"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE OXKUTZCAB, YUCATAN
 
-LEY DE HACIENDA DEL MUNICIPIO DE OXKUTZCAB, YUCATAN
+LEY DE HACIENDA DEL MUNICIPIO DE OXKUTZCAB, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -649,6 +649,12 @@ No serán exigibles los impuestos y derechos a que se refiere la presente ley cu
 
 Son objeto de estos derechos las licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Así como, todos los establecimientos, negocios y o empresas en general sean estas comerciales, industriales, de servicios o cualquier otro giro, que no estén relacionadas con la venta de bebidas alcohólicas.
+
 ###### Artículo 63.
 
 Son sujetos de estos derechos las personas físicas o morales que soliciten y obtengan las licencias, permisos o autorizaciones a que se refiere el Artículo anterior, o que realicen por cuenta propia o ajena las mismas actividades referidas y que dan motivo al pago de derechos al Municipio.
@@ -660,6 +666,18 @@ La base para el pago de estos derechos será el tipo de autorización, licencia,
 ###### Artículo 65.
 
 El pago de los derechos a que se refiere esta Sección deberá cubrirse con anticipación al otorgamiento de las licencias o permisos referidos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Respecto a los establecimientos, negocios y o empresas en general sean estas comerciales, industriales, de servicios o cualquier otro giro, que no estén relacionadas con la venta de bebidas alcohólicas, deberán:
+
+a) Pagar el derecho para el otorgamiento de la correspondiente autorización del uso de suelo y funcionamiento, este deberá ser cubierto dentro de los 30 días posteriores al inicio de actividades.
+
+b) Pagar anualmente el derecho correspondiente a la renovación dentro de los primeros 60 días de cada año.
+
+c) La tasa se determinara con la base en el cuadro de categorización de los giros comerciales, señalados en la ley de ingreso (sic) del municipio de Oxkutzcab, tasados en salarios mínimos para su cobro.
 
 ###### Artículo 66.
 
@@ -1361,10 +1379,14 @@ Q.I. RAÚL ARCEO ALONZO
 
 Quienes firman por la ausencia temporal del C. Gobernador del Estado, de conformidad a lo dispuesto por el artículo 25 de la Ley Orgánica de la Administración Pública del Estado de Yucatán.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 27 DE DICIEMBRE DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil catorce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
