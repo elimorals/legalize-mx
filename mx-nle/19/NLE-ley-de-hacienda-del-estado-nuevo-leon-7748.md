@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2012-12-31"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -43,7 +43,7 @@ LEY DE HACIENDA DEL ESTADO
 
 Los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que deben percibir la Hacienda Pública Estatal o las entidades paraestatales de carácter fiscal, se causarán y recaudarán conforme a las disposiciones de ésta y de las demás leyes fiscales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 2o.
 
@@ -83,7 +83,7 @@ La ignorancia de las leyes, reglamentos, circulares y demás disposiciones fisca
 
 Las leyes, reglamentos y demás disposiciones fiscales de alcance general, relativas a la Hacienda Pública del Estado de Nuevo León, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial, o en la fecha que señalen las mismas leyes, reglamentos o disposiciones, siempre que su vigencia no sea anterior a la publicación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 9o.
 
@@ -93,7 +93,7 @@ La administración y recaudación de los impuestos, contribuciones especiales, d
 
 Cuando en esta Ley o en alguna otra se dé una denominación nueva o distinta a la Secretaría de Finanzas y Tesorería General del Estado o a alguna de las Direcciones, Unidades, Departamentos o Dependencias que la integran, se entenderá que dicha disposición legislativa se está refiriendo a la denominación que para cada caso concreto, de acuerdo con las funciones y atribuciones respectivas, establece el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -103,7 +103,7 @@ El pago de los créditos fiscales deberá hacerse en efectivo, salvo disposició
 
 Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas bancarias de crédito o débito y dispositivos similares, así como las transferencias electrónicas de fondos reguladas por el Banco de México, incluyendo los pagos electrónicos que podrán realizarse mediante el portal oficial del Gobierno del Estado. Las tarjetas bancarias y dispositivos similares, únicamente se aceptarán en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, mediante previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el Código Fiscal del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -851,7 +851,7 @@ Las infracciones que se cometan al presente capítulo, si no se encuentran expre
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 1975)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO TERCERO. Del Impuesto Sobre Transmisión de Propiedad de Vehículos Automotores Usados
 
@@ -943,7 +943,7 @@ II.- Los comisionistas, o cualquier otra persona que intervenga en las operacion
 
 III.- Los empleados o Funcionarios Públicos que autoricen cualquier trámite definitivo, de los referidos en éste Capítulo, sin haberse cerciorado del pago de este impuesto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO CUARTO. Del Impuesto por Obtención de Premios
 
@@ -953,31 +953,31 @@ III.- Los empleados o Funcionarios Públicos que autoricen cualquier trámite de
 
 Es objeto de este Impuesto la percepción de premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase que celebren los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 También es objeto de este impuesto la percepción de premios derivados de la celebración de juegos con apuestas. Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas, independientemente del nombre con el que se les designe, aquellos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 Igualmente, quedan comprendidos en los juegos con apuestas, aquéllos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -999,15 +999,15 @@ Cuando la persona que otorgue el premio pague por cuenta del contribuyente el im
 
 No se pagará el impuesto establecido en este capítulo por la obtención de reintegros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 116.
 
 El impuesto que resulte de aplicar la tasa indicada en el artículo precedente, será retenido por las personas que paguen los premios, quienes deberán enterarlo a la Secretaría de Finanzas y Tesorería General del Estado, dentro del mes siguiente al en que realicen la retención. Lo anterior independientemente de que se trate de administradores, organizadores o anfitriones de algún establecimiento donde se lleven a cabo algunos de los juegos mencionados en el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1029,19 +1029,19 @@ II.- Proporcionar, cuando así lo solicite el interesado, constancia de retenci�
 
 III.- Conservar la documentación relacionada con las constancias y las retenciones de este impuesto, por plazo de cinco años, a disposición de la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO QUINTO. Del Impuesto Sobre Tenencia o Uso de Vehículos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1055,7 +1055,11 @@ Para los efectos de este impuesto se considera que la tenencia o uso de vehícul
 
 I. Se inscriba el vehículo en el registro vehicular del Estado.
 
-II. El domicilio o domicilio fiscal del tenedor o usuario del vehículo se localice dentro del territorio del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+II. El domicilio o domicilio fiscal del tenedor o usuario del vehículo se encuentre localizado dentro del territorio del Estado de Nuevo León.
 
 Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
 
@@ -1103,7 +1107,7 @@ Diciembre 0.08
 
 La Federación, el Estado, los Organismos Autónomos, los organismos descentralizados y desconcentrados, fideicomisos públicos de la administración pública del Estado, los Municipios o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras Leyes o Decretos no estén obligados a pagar impuestos estatales o estén exentos de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1147,7 +1151,7 @@ g) Automóviles eléctricos.
 
 VIII. Comerciantes en el ramo de vehículos, a las personas físicas o morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1163,7 +1167,7 @@ III. Las autoridades federales, estatales o municipales, que autoricen el regist
 
 Las autoridades competentes solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio correspondiente al Estado de Nuevo León.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1171,13 +1175,13 @@ Las autoridades competentes solamente registrarán vehículos cuyos propietarios
 
 Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION II. Automóviles
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1243,7 +1247,7 @@ Tratándose de automóviles nuevos destinados al transporte de efectos cuyo peso
 
 Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1265,13 +1269,13 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, III y IV de este Artículo, deberán comprobar ante la autoridad competente que se encuentran comprendidos en dichos supuestos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION III. Otros vehículos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1281,7 +1285,7 @@ Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, 
 
 En esta sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicletas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1291,7 +1295,7 @@ Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de mu
 
 Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1329,7 +1333,7 @@ Mayor de 27,711.67 16.8
 
 407,882.92
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1357,7 +1361,7 @@ El monto de las cuotas establecidas en este Artículo se actualizará con el fac
 
 Tratándose de motocicletas de más de diez años modelos anteriores al de aplicación de este Capítulo, el impuesto correspondiente se pagará a la tasa del 0%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1371,7 +1375,7 @@ Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctrico
 
 Para los efectos de lo establecido en los artículos 122, 125, 126 y 127, de este Capítulo, los montos de las cantidades que en los mismos se señalan se actualizarán en el mes de diciembre de cada año con efectos a partir del 1° de enero del año siguiente, aplicando el factor correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de octubre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el Artículo 18 Bis del Código Fiscal del Estado de Nuevo León.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1395,7 +1399,7 @@ VI. Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotrans
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1403,13 +1407,13 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 El Gobierno del Estado podrá celebrar convenios con las autoridades federales competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, a fin de facilitar la comprobación del pago del presente impuesto por parte de las personas tenedoras o usuarias de aeronaves o embarcaciones gravadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION IV. Vehículos usados
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1451,7 +1455,7 @@ II. La cantidad obtenida conforme a la fracción anterior se actualizará de con
 
 Para los efectos de este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1491,7 +1495,7 @@ Para efectos de la depreciación y actualización a que se refiere este artícul
 
 Tratándose de automóviles usados destinados al transporte de efectos cuyo peso bruto vehicular sea menor de 3.5 toneladas, el impuesto será el que resulte de aplicar el procedimiento establecido en este Artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1547,7 +1551,7 @@ b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformi
 
 Para los efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1583,7 +1587,7 @@ A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa 
 
 Para efectos de la depreciación a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1593,7 +1597,7 @@ Para efectos de la depreciación a que se refiere este Artículo, los años de a
 
 Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, tendrán la obligación de proporcionar a las autoridades competentes, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en territorio del estado en el mes inmediato anterior. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1601,7 +1605,7 @@ Los fabricantes, ensambladores y distribuidores autorizados, así como los comer
 
 El Gobierno del Estado podrá celebrar convenios con las autoridades municipales, con el fin de procurar el pago del presente impuesto y otros de carácter estatal y municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1611,9 +1615,9 @@ El Gobierno del Estado podrá celebrar convenios con las autoridades municipales
 
 Para efectos de este Impuesto son autoridades competentes la Secretaría de Finanzas y Tesorería General del Estado, el Instituto de Control Vehicular. Las Tesorerías municipales serán competentes en los términos de los convenios que al efecto se realicen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], P.O. 17 DE DICIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPITULO SEXTO. Del Impuesto Sobre Compraventa o Permuta de Ganado
 
@@ -1695,13 +1699,13 @@ IV.- Pagar el impuesto en la forma que se señala en el presente Capítulo, y;
 
 V.- Adoptar las medidas de control y someterse a los actos de vigilancia que para el pago de este impuesto establezca la Tesorería General.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], P.O. 17 DE DICIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPITULO OCTAVO. Impuesto sobre Nóminas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 148.
 
@@ -1727,9 +1731,9 @@ El pago de este impuesto se hará dentro de los primeros quince días de cada me
 
 La Tesorería General podrá celebrar convenios con Petróleos Mexicanos para que la recaudación de este impuesto se realice por conducto de la mencionada institucin (sic), en los términos del Reglamento del artículo 21 de la Ley del Impuesto sobre Consumo de Gasolina.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES CAPITULO NOVENO], P.O. 17 DE DICIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES CAPÍTULO NOVENO], P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPITULO NOVENO. Del Impuesto sobre Honorarios
 
@@ -1759,7 +1763,7 @@ Antes de que se efectúe el primer pago de honorarios en el año de calendario d
 
 Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas que realicen los pagos a que se refiere el Artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1775,7 +1779,7 @@ Es base de este impuesto, el monto total de los pagos a que se refiere el Artíc
 
 Este impuesto se causará con tasa del 3% sobre la base a que se refiere el Artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 158.
 
@@ -1785,7 +1789,7 @@ El pago del impuesto deberá efectuarse a más tardar el día diecisiete del mes
 
 Cuando se presente una declaración sin pago, se presumirá que no existe impuesto a pagar en las declaraciones posteriores y no se presentarán las mismas, hasta que exista cantidad a pagar, siempre que se presente conjuntamente con la primera declaración sin pago, escrito libre en el que se señalen las razones por las que no se tuvieron erogaciones gravadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1877,7 +1881,7 @@ El Centro de Evaluación de Habilidades y Actitudes Laborales del Sistema Estata
 
 II.- Las erogaciones que efectúen:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 a) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
@@ -1919,7 +1923,7 @@ b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, Sobr
 
 c) Las actividades realizadas por el causante y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 160 Bis
 
@@ -2013,9 +2017,9 @@ II.- En los términos del último párrafo del artículo 44 del Código Fiscal d
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO Y ADICIONADO [N. DE E. ANTES CAPITULOS DECIMO Y DECIMO PRIMERO], P.O. 17 DE DICIEMBRE DE 2010)
+(REUBICADO Y ADICIONADO [N. DE E. ANTES CAPÍTULOS DÉCIMO Y DÉCIMO PRIMERO], P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPITULO DECIMO. Del Impuesto sobre Expendios de Bebidas Alcohólicas
 
@@ -2059,7 +2063,7 @@ II.- Se hagan exigibles las erogaciones por la prestación de los servicios grav
 
 III.- Se expida el comprobante de pago correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 176.
 
@@ -2217,9 +2221,9 @@ No se pagará el impuesto tratándose de la prestación de servicios de hospedaj
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO Y ADICIONADO [N. DE E. ANTES CAPITULO DECIMO CUARTO], P.O. 17 DE DICIEMBRE DE 2010)
+(REUBICADO Y ADICIONADO [N. DE E. ANTES CAPÍTULO DÉCIMO CUARTO], P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPITULO DECIMO PRIMERO. Impuesto sobre Ganado y Aves que se sacrifiquen
 
@@ -2479,9 +2483,9 @@ Las infracciones a esta Ley por lo que se refiere a marbetes se sancionará con 
 
 Cuando el retenedor o causante adhiera sobre el envase de bebidas alcohólicas marbetes cuyo valor no corresponda al impuesto que debió enterarse conforme al Artículo 215, se procederá como lo indica el Artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMO QUINTO], P.O. 17 DE DICIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES CAPÍTULO DÉCIMO QUINTO], P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
@@ -2591,9 +2595,9 @@ ARTICULUO (SIC) 264.- En aquellos casos en que, por circunstancias especiales, e
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, será responsable de su pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
 
@@ -2607,9 +2611,9 @@ Estos servicios podrán ser prestados por profesionistas independientes con tít
 
 El profesionista que realice la inspección deberá presentar ante la Secretaría del Trabajo, dentro de los meses de Enero y Julio del semestre correspondiente, o en su caso, dentro del mes siguiente al inicio de actividades, una constancia en la que se certifique que ha cumplido con las disposiciones previstas en el reglamento respectivo. Esto no libera al contribuyente de permitir inspecciones ordenadas por la Secretaría del Trabajo, para verificar el cumplimiento de las disposiciones aplicables en esta materia.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTÍCULO, VER ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, P.O. 13 DE ENERO DE 2007.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 267.
 
@@ -2627,9 +2631,9 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 
 Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de N$55.00.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTÍCULO, VER ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, P.O. 13 DE ENERO DE 2007.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 268.
 
@@ -2641,7 +2645,7 @@ La inspección inicial deberá llevarse a cabo previamente a su funcionamiento y
 
 Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres anticipados dentro de los primeros 15 días de los meses de enero y julio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Secretaría de Educación
 
@@ -2655,7 +2659,7 @@ Por los servicios prestados en la Secretaría General de Gobierno, se causarán 
 
 I.- Por el examen para el otorgamiento de la patente de Notario Público, ya sea titular o suplente 204.5 cuotas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 II.- Por servicios de vigilancia y verificación a cargo de Notarios Públicos, en funciones, anualmente 82 cuotas
 
@@ -2723,7 +2727,7 @@ X.- Por otros servicios no especificados 1.23 cuotas
 
 La extemporaneidad en el pago de los derechos establecidos en el artículo anterior, en ningún caso dará lugar a la imposición de sanciones o al cobro de recargos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 271.
 
@@ -2755,7 +2759,7 @@ ni mayor a ….. 570 cuotas
 
 d) En ningún caso la cantidad a pagar será menor a ….. 3 cuotas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -2897,7 +2901,7 @@ XX.- Por la certificación de copias de las inscripciones y asientos registrales
 
 Las inscripciones que se realicen con motivo de aseguramientos o embargos ordenados por las autoridades judiciales federales, la Procuraduría General de la República o las Agencias del Ministerio Público Federales, no generarán pago de los derechos a que se refiere este artículo. Así mismo, no se pagarán los derechos previstos en la fracción IV de este artículo, tratándose de resoluciones judiciales o de Tribunales de Conciliación y Arbitraje, ya sea federales o estatales, que ordenen la cancelación de la inscripción de un embargo trabado sobre bienes o derechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 272.
 
@@ -3059,7 +3063,7 @@ III.- Por presentación de aviso testamentario 3 cuotas
 
 IV.- Por la expedición de informes sobre la existencia o inexistencia de testamento 2.5 cuotas
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General
 
@@ -3127,7 +3131,7 @@ g) Constancias de Servicio Social de escuelas desaparecidas ….. 1.5 cuotas
 
 a) Trámite de Cédula Profesional, así como Autorización para el ejercicio de especialidad, por cada trámite ….. 5 cuotas
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, VER ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, P.O. 13 DE ENERO DE 2007.</small>
 
 II.- Instituciones Educativas:
 
@@ -3205,11 +3209,11 @@ f) Cambio de persona física a personal moral N$1,000.00
 
 Los derechos de refrendo anual a que se refiere este artículo deberán cubrirse durante el mes de Marzo de cada año.
 
-(REUBICADO [N. DE E. ANTES CAPITULO CUARTO] Y REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)
+(REUBICADO [N. DE E. ANTES CAPÍTULO CUARTO] Y REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1993)
 
 ### CAPITULO SEXTO. De los Derechos Prestados por la Secretaría de Desarrollo Sustentable
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3219,7 +3223,7 @@ Por los servicios prestados por la Secretaría de Finanzas y Tesorería General 
 
 I.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3231,7 +3235,7 @@ a) Copia simple, por hoja 0.018 cuotas
 
 b) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en el inciso anterior ….. 2 cuotas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3253,7 +3257,7 @@ c) Avalúo catastral simple ….. 3 cuotas
 
 d) Avalúo catastral certificado ….. 4.5 cuotas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3287,7 +3291,7 @@ c) Predios omisos, por cada lote ….. 4 cuotas
 
 Por asignación de número de expediente catastral a planos de fraccionamientos ….. 10 cuotas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3309,7 +3313,7 @@ IX.- Por baja de construcción por demolición u otras causas ….. 5 cuotas
 
 X.- Resello de planos de construcción ….. 4 cuotas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3351,7 +3355,7 @@ b) Copia certificadas de planos manzaneros, región catastral, fraccionamientos,
 
 4. Mayor a 61 cm x 91 cm ….. 10 cuotas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3377,7 +3381,7 @@ b) Plano certificado de lote de terreno, indicando medidas, y ubicación, según
 
 2. Mayor a doble carta ….. 10 cuotas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3393,7 +3397,7 @@ b) Por expedición o reposición de constancia de registro vehícular 5 cuotas
 
 XIV.- Por autorización y refrendo anual de placas de demostración 30 cuotas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3617,9 +3621,9 @@ Para los efectos de las fracciones XXII y XXIII de este artículo, se entiende p
 
 Los derechos previstos en las fracciones XXII y XXIII de este artículo, serán aplicables únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias y Entidades de los Poderes Legislativo, Ejecutivo y Judicial
 
@@ -3729,7 +3733,7 @@ aprovechamiento de recursos minerales
 
 no reservados a la Federación 72 cuotas
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO UNICO
 
@@ -3747,7 +3751,7 @@ T A R I F A
 
 Concepto: Tasa:
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 I.- Por inscripción de títulos profesionales:
 
@@ -3773,13 +3777,13 @@ En caso de que estos servicios sean prestados a trabajadores de patrones con má
 
 El examen médico, el análisis sanguíneo y el catastro torácico podrán ser practicados por personas o establecimientos públicos o particulares, autorizados para prestar servicios médicos. Una vez acreditado lo anterior, el certificado de salud se expedirá en forma gratuita.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, VER ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por verificación semestral del cumplimiento de las disposiciones en materia de seguridad, ecología, salud e higiene, por metro cuadrado de área de trabajo, de servicios y de atención al público, N$0.50, sin que la cantidad a pagar por establecimiento sea inferior a N$50.00, ni mayor a N$850.00.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, VER ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -3847,19 +3851,19 @@ h) Predios que no formen parte de un fraccionamiento autorizado por las autorida
 
 Tratándose de fraccionamientos, cuando soliciten su incorporación únicamente a las redes de agua o sólo a las redes de drenaje, pagará el 50% de los derechos establecidos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 Tratándose de fraccionamientos en que existan lotes de uso mixto, se pagará proporcionalmente según la superficie y el uso que les corresponda conforme los incisos a), b), c) o d) de esta fracción.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, VER ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VIII.- Por clasificación de carne de res, por canal N$3.80
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, VER ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -3931,7 +3935,7 @@ l) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en el i
 
 m) Por cualquier otra certificación o expedición de constancias distintas de las señaladas en las fracciones que anteceden ….. 3 cuotas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 277 Bis.
 
@@ -3973,7 +3977,7 @@ En caso de reproducción en fotografías, cintas de video, dispositivos de archi
 
 En todos los casos, con excepción del Poder Judicial del Estado y de las solicitudes tramitadas en los términos que establece la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por búsqueda y localización de documentos, archivos, y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 286], P.O. DE 26 DE DICIEMBRE DE 2001)
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 286], P.O. DE 26 DE DICIEMBRE DE 2001)
 
 ## TITULO CUARTO. De los Productos
 
@@ -4085,7 +4089,7 @@ XIV. Accesorios y rezagos de contribuciones y aprovechamientos; y,
 
 XV. Diversos.
 
-> <small>(N. DE E., CON FUNDAMENTO EN EL ARTICULO UNICO DEL DECRETO 120, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2001, EL CONTENIDO DEL TITULO OCTAVO PASA A SER EL CONTENIDO DEL PRESENTE TITULO)</small>
+> <small>(N. DE E., CON FUNDAMENTO EN EL ARTÍCULO ÚNICO DEL DECRETO 120, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2001, EL CONTENIDO DEL TÍTULO OCTAVO PASA A SER EL CONTENIDO DEL PRESENTE TÍTULO)</small>
 
 ## TITULO SEXTO. Facultades del Ejecutivo
 
@@ -4105,13 +4109,13 @@ c) Otorgar concesiones y celebrar contratos en los que se establezcan cuotas, ta
 
 d) Celebrar los actos necesarios para obtener los ingresos denominados aprovechamientos.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 287], P.O. DE 26 DE DICIEMBRE DE 2001)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 287], P.O. DE 26 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 282.
 
 El Ejecutivo del Estado fijará las cuotas que deban cubrirse por la instalación, ampliación o incorporación de redes de agua y drenaje. Queda asimismo facultado el Ejecutivo, para formular, modificar, adicionar o reformar las tarifas para el cobro de Derechos por servicios públicos.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 288], P.O. DE 26 DE DICIEMBRE DE 2001)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 288], P.O. DE 26 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 283.
 
@@ -4121,7 +4125,7 @@ Es facultad del Ejecutivo el descentralizar fondos de las partidas del gasto pú
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ## TITULO SEPTIMO. De los Ingresos Extraordinarios
 
@@ -4129,7 +4133,7 @@ Es facultad del Ejecutivo el descentralizar fondos de las partidas del gasto pú
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2001)
 
-> <small>(N. DE E., CON FUNDAMENTO EN EL ARTICULO UNICO DEL DECRETO 120, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2001, EL CONTENIDO DEL TITULO OCTAVO PASA A SER EL CONTENIDO DEL TITULO SEXTO)</small>
+> <small>(N. DE E., CON FUNDAMENTO EN EL ARTÍCULO ÚNICO DEL DECRETO 120, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2001, EL CONTENIDO DEL TÍTULO OCTAVO PASA A SER EL CONTENIDO DEL TÍTULO SEXTO)</small>
 
 T R A N S I T O R I O S :
 
@@ -4191,7 +4195,7 @@ LIC. CESAR SANTOS SANTOS
 
 EL SECRETARIO GENERAL DE GOBIERNO
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 27 DE DICIEMBRE DE 1975.
 
@@ -4349,7 +4353,7 @@ P.O. 30 DE DICIEMBRE DE 1993.
 
 El presente Decreto entrará en vigor el día 1o. de Enero de 1994.
 
-> <small>N. DE E. POR CONSIDERARLO IMPORTANTE SE TRANSCRIBE EL ARTICULO QUINTO DEL DECRETO NUM. 340.</small>
+> <small>N. DE E. POR CONSIDERARLO IMPORTANTE SE TRANSCRIBE EL ARTÍCULO QUINTO DEL DECRETO NUM. 340.</small>
 
 ###### ARTICULO QUINTO.
 
@@ -4509,7 +4513,7 @@ Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del añ
 
 P.O. 26 DE DICIEMBRE DE 2003.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Artículo Primero.- Esta Ley entrará en vigor el 1° de enero del año 2004.
 
@@ -4525,7 +4529,7 @@ Artículo Segundo.- Las erogaciones a que se refiere esta reforma, que se hubier
 
 P.O. 3 DE SEPTIEMBRE DE 2004.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4614,3 +4618,7 @@ DECRETO NÚMERO 291, POR EL QUE SE REFORMA POR MODIFICACIÓN EL OCTAVO TRANSITOR
 P.O. 31 DE DICIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2013.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2014.
