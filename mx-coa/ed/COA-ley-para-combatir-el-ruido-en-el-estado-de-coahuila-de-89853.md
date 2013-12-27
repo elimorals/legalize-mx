@@ -4,7 +4,7 @@ identifier: "COA-ley-para-combatir-el-ruido-en-el-estado-de-coahuila-de-89853"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2012-10-16"
+last_updated: "2013-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA COMBATIR EL RUIDO EN EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el día martes 16 de octubre de 2012.
 
@@ -57,7 +57,9 @@ c) La implementación de medidas, programas y acciones tendientes a someter al c
 
 La aplicación de la presente Ley corresponde a:
 
-A) El Ejecutivo del Estado por conducto de la Secretaría de Medio Ambiente del Estado; la Secretaría de Salud y; las autoridades que para tal efecto en su momento sean designadas por el gobernador. y;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+A) El Ejecutivo del Estado por conducto de la Secretaría de Medio Ambiente del Estado; la Secretaría de Salud; la Procuraduría de Protección al Ambiente del Estado de Coahuila y las autoridades que para tal efecto en su momento sean designadas por el Gobernador; y
 
 B) Los municipios del Estado de Coahuila, por conducto de sus departamentos o direcciones de ecología, salud, o las que para tal efecto designen los presidentes municipales y los ayuntamientos.
 
@@ -143,7 +145,9 @@ IV.- Crear los manuales de procedimientos y operativos referentes al combate al 
 
 V.- Crear los reglamentos que estime necesarios sobre el rubro de la contaminación sonora en el ámbito de su competencia.
 
-VI.- Brindar capacitación y asesoría a las unidades o inspectores encargados de combatir el ruido, tanto en la Secretaría como en los municipios que lo soliciten.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VI.- Brindar capacitación y asesoría a las unidades o inspectores encargados de combatir el ruido, tanto en la Secretaría, la Procuraduría de Protección al Ambiente y en los municipios que lo soliciten.
 
 VII.- Otorgar certificaciones en materia de ruido.
 
@@ -153,7 +157,9 @@ IX.- Hacer campañas y estudios tendientes a difundir las consecuencias de la co
 
 X.- Colaborar y coordinarse con instituciones educativas o científicas para intercambiar conocimientos, tecnologías y descubrimientos en materia de contaminación por ruido.
 
-XI.- Aplicar las sanciones que correspondan por violación a las normatividad que regula el ruido, y;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XI.- Corresponde a la Procuraduría de Protección a la (sic) Ambiente verificar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de ruido, inspeccionar y vigilar las fuentes generadoras de ruido, así como imponer las sanciones y medidas de seguridad correspondientes a las infracciones a esta Ley.
 
 XII.- Las demás que le otorgue esta ley y demás disposiciones aplicables.
 
@@ -530,3 +536,9 @@ LA SECRETARIA DE MEDIO AMBIENTE
 EGLANTINA CANALES GUTIÉRREZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
