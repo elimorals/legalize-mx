@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "2013-06-07"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -87,11 +87,9 @@ V.- 20% de la participación del Impuesto sobre Automóviles Nuevos; y (sic)
 
 VI.- 100% del Fondo de Fomento Municipal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA , P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2007)</small>
-
-VII.- 20% de los recursos derivados del Fondo de Fiscalización; y
+VII.- 20% de los recursos derivados del Fondo de Fiscalización y Recaudación; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -137,11 +135,37 @@ La mecánica de distribución anterior no será aplicable en el evento de que en
 
 Los municipios del estado deberán enviar a la Secretaría de Finanzas, Inversión y Administración la información de la recaudación del impuesto predial y derechos por servicios de consumo de agua potable a que se refieren los incisos a) y b), dentro de los primeros quince días del mes de enero del año en que se efectúe el cálculo. En caso de no contar con la información necesaria, la Secretaría de Finanzas, Inversión y Administración realizará el cálculo del monto de las participaciones que correspondan a los municipios en forma provisional, con los coeficientes del ejercicio inmediato anterior y efectuará el ajuste correspondiente dentro de los treinta días siguientes, a aquél en que se cuente con dicha información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 5.
+
+El Fondo de Fomento Municipal, se distribuirá entre los municipios de acuerdo con lo siguiente:
+
+I. Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año 2013; y
+
+II. Adicionalmente percibirán la cantidad que resulte de aplicar al monto del incremento en el Fondo a que se refiere este artículo en el año para el que se hace el cálculo en relación con el año 2013, el coeficiente que se determine conforme a los siguientes criterios:
+
+a) El 70% con base en los siguiente (sic):
+
+1. El 50% por partes iguales entre la totalidad de los municipios del Estado y;
+
+2. El 50% restante entre todos los municipios, en razón proporcionalmente inversa a la población, de acuerdo a lo que establece el artículo 4, fracción II, inciso b) de esta Ley.
+
+b) El 30 % en proporción a la recaudación obtenida en el impuesto predial de aquellos municipios que tengan vigente el Convenio de Coordinación Fiscal para la administración de este impuesto con el Gobierno del Estado de Guanajuato y que esté publicado en el Periódico Oficial del Gobierno del Estado.
+
+La mecánica de distribución anterior no será aplicable en el evento de que en el año de cálculo los recursos referidos en el artículo 3°, fracción VI de esta ley, sean inferiores a lo observado en 2013. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada Municipio haya recibido de dicho Fondo en el año 2013.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [FRACCIONES ADICIONADAS], P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 5-A.
 
-Las participaciones a municipios provenientes del Fondo de Fiscalización establecido en la Ley de Coordinación Fiscal, se distribuirán al 100% en razón directa al número de contribuyentes por municipio que se tengan en el Registro Estatal de Contribuyentes respecto del Régimen de Pequeños Contribuyentes con actividades empresariales al inicio del ejercicio fiscal correspondiente al año de cálculo.
+Las participaciones a municipios provenientes del fondo de Fiscalización y Recaudación establecido en la Ley de Coordinación Fiscal, se distribuirán de acuerdo a los siguientes criterios:
+
+l. 50% en razón directa al número de contribuyentes por Municipio que se tengan en el Registro Estatal de Contribuyentes, respecto del Régimen de Incorporación Fiscal al inicio del ejercicio fiscal correspondiente al año de cálculo.
+
+II. 50% en razón directa a la recaudación del impuesto predial y derechos por el suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 El Fondo a que se refiere este artículo se distribuirá en forma trimestral, a los municipios, a través de pagos definitivos. La entrega de dicho Fondo se realizará a más tardar dentro de los 5 días hábiles posteriores al en que la Federación entregue dichos recursos a la entidad.
 
@@ -164,6 +188,22 @@ La entrega de dicho Fondo se realizará a más tardar a los 5 días hábiles pos
 Los recursos que reciban los municipios en términos de este artículo deberán destinarse exclusivamente a infraestructura vial, sea rural o urbana; infraestructura hidráulica; movilidad urbana y por lo menos 12.5% a programas para la protección y conservación ambiental.
 
 Los recursos que obtengan los municipios de acuerdo con lo previsto en este artículo, podrán afectarse en garantía, en términos del artículo 9º. de la Ley de Coordinación Fiscal, siempre que la afectación correspondiente en ningún caso exceda del 25% de los recursos que le correspondan.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 5-C.
+
+El impuesto especial sobre producción y servicios y los derechos por licencias de funcionamiento para la producción, almacenamiento, distribución y enajenación de bebidas alcohólicas, se distribuirán entre los municipios de acuerdo con lo siguiente:
+
+I. Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año 2007; y
+
+II. Adicionalmente, percibirán la cantidad que resulte de aplicar al monto del incremento que tengan las participaciones a que se refiere este artículo en el año para el que se hace el cálculo, en relación con el año 2007, el coeficiente que se determine conforme a los siguientes criterios:
+
+a) El 50% por partes iguales entre la totalidad de los municipios del Estado; y
+
+b) El 50% restante entre todos los municipios, en razón proporcionalmente inversa a la población, de acuerdo a lo que establece el artículo 4, fracción 11, inciso b) de esta Ley.
+
+La mecánica de distribución anterior no será aplicable en el evento de que en el año de cálculo los recursos referidos en el artículo 3°, fracciones III y IV de esta Ley, sean inferiores a lo observado en 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada Municipio haya recibido de dicho Fondo en el año 2007.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -208,6 +248,12 @@ Las Participaciones que correspondan a los Municipios son inembargables y no est
 La compensación entre el derecho del Municipio a recibir Participaciones, y las obligaciones que tenga con el Estado, por créditos de cualquier naturaleza, operará en los términos de la Legislación Fiscal vigente.
 
 ### CAPITULO TERCERO. DE LA VIGILANCIA DEL CALCULO Y LIQUIDACION DE LAS PARTICIPACIONES
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 8.
+
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, deberá publicar en el Periódico Oficial del Gobierno del Estado, así como en su página oficial de internet el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados de las participaciones que la Entidad reciba y de las que tenga obligación de participar a sus municipios. Para tal fin se atenderá lo establecido en la Ley de Coordinación Fiscal vigente en el ámbito federal.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -334,3 +380,15 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor el 1 de enero de 2014, una vez publicado en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Lo previsto en el artículo 5, fracción II del presente decreto será aplicable a partir del ejercicio fiscal 2015. Durante el ejercicio fiscal 2014 el importe total de la diferencia entre el monto a distribuir del año de cálculo y la base 2013 se realizará conforme al siguiente criterio:
+
+I. El 50% por partes iguales entre la totalidad de los municipios del Estado; y
+
+II. El 50% restante entre todos los municipios, en razón proporcionalmente inversa a la población, de acuerdo a lo que establece el artículo 4, fracción II, inciso b) de esta ley.
+
+En tanto no se celebre y publique en el Periódico Oficial del Gobierno del Estado, el Convenio de Coordinación Fiscal en materia del impuesto predial entre el Municipio y el Gobierno del Estado de Guanajuato y no hayan sido validadas las cifras de recaudación del ejercicio fiscal de que se trate por el Comité de Vigilancia del Sistema de Participaciones del Sistema Nacional de Coordinación Fiscal; a partir del ejercicio fiscal 2015, por lo que se refiere a la fracción II del artículo 5 del presente decreto, la diferencia entre el año de cálculo y el año base 2013, se seguirá distribuyendo mediante la regla contenida en el presente artículo.
