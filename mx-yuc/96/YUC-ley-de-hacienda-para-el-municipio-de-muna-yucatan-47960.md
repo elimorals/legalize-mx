@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-muna-yucatan-47960"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2012-12-24"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -105,7 +105,7 @@ La ignorancia de las leyes y de las demás disposiciones fiscales de observancia
 
 ### Capítulo III. De los Recursos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 9.
 
@@ -117,7 +117,7 @@ En este caso, los recursos que se promueven se tramitarán y resolverán en la f
 
 ### Capítulo IV. De las Garantías
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 10.
 
@@ -601,37 +601,41 @@ Todo predio destinado a la producción agropecuaria pagara 10 al millar anual so
 
 Para el cálculo del impuesto predial con base en el valor catastral, se tomará la siguiente:
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LAS PRESENTES TARIFAS, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SUS TARIFAS, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
 TABLA DE VALORES CATASTRALES DE TERRENO Y CONSTRUCCION
 
 COLONIA O CALLE TRAMO ENTRE $ POR M2
 
 CALLE Y CALLE
 
-#### SECCIÓN 1. DE LA CALLE 7 A LA 25 22 26 $5.00
+#### SECCIÓN 1. DE LA CALLE 7 A LA 25 22 26 $6.00
 
-DE LA CALLE 22 A LA 26 7 25 $5.00
+DE LA CALLE 22 A LA 26 7 25 $6.00
 
-RESTO DE LA SECCION $4.00
+RESTO DE LA SECCION $5.00
 
-#### SECCIÓN 2. DE LA CALLE 25 A LA CALLE 29 22 26 $5.00
+#### SECCIÓN 2. DE LA CALLE 25 A LA CALLE 29 22 26 $6.00
 
-DE LA CALLE 22 A LA CALLE 26 25 29 $5.00
+DE LA CALLE 22 A LA CALLE 26 25 29 $6.00
 
-RESTO DE LA SECCION $4.00
+RESTO DE LA SECCION $5.00
 
-#### SECCION 3. DE LA CALLE 25 A LA CALLE 29 26 32 $5.00
+#### SECCION 3. DE LA CALLE 25 A LA CALLE 29 26 32 $6.00
 
-DE LA CALLE 26 A LA CALLE 32 25 29 $5.00
+DE LA CALLE 26 A LA CALLE 32 25 29 $6.00
 
-RESTO DE LA SECCION $4.00
+RESTO DE LA SECCION $5.00
 
-#### SECCION 4. DE LA CALLE 13 A LA CALLE 25 26 32 $5.00
+#### SECCION 4. DE LA CALLE 13 A LA CALLE 25 26 32 $6.00
 
-DE LA CALLE 26 A LA CALLE 32 13 25 $5.00
+DE LA CALLE 26 A LA CALLE 32 13 25 $6.00
 
-RESTO DE LA SECCION $4.00
+RESTO DE LA SECCION $5.00
 
-TODAS LAS COMISARIAS $4.00
+TODAS LAS COMISARIAS $5.00
 
 RÚSTICOS POR HECTÁREA $ POR HECTAREA
 
@@ -987,7 +991,7 @@ La base del Impuesto Sobre Diversiones y Espectáculos Públicos, será la total
 
 DE LA TASA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 70.
 
@@ -1357,115 +1361,293 @@ GIRO EXPEDICIÓN RENOVACION
 
 Comercial o de Servicios $ $
 
-I.- Farmacias, boticas y similares 500.00 200.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Carnicerías, pollerías y pescadería 200.00 100.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-III.- Panaderías y tortillerías 200.00 100.00
+I.- Farmacias, boticas y similares 500.00 300.00
 
-IV.- Expendio de refresco 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Fábrica de jugos embolsados 200.00 100.00
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-VI.- Expendio de refrescos naturales 200.00 100.00
+II.- Carnicerías, pollerías y pescaderías 200.00 200.00
 
-VII.- Compra/venta de oro y plata 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Taquerías, loncherías y fonda 200.00 100.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-IX.- Taller de expendio de alfarerías 200.00 100.00
+III.- Panaderías y tortillerías 200.00 200.00
 
-X.- Talleres y expendios de zapaterías 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI.- Tlapalerías 500.00 200.00
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XII.- Compra/venta de materiales de
+IV.- Expendio de refrescos 200.00 200.00
 
-Construcción 500.00 200.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII.- Tiendas, tendejones y miscelánea 200.00 100.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XIV.- Bisutería 200.00 100.00
+V.- Fábrica de jugos embolsados 200.00 200.00
 
-XV.- Compra/venta de motos y refaccionarias 500.00 200.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVI.- Papelerías y centros de copiado 200.00 100.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XVII.- Hoteles, hospedajes 500.00 200.00
+VI.- Expendio de refrescos naturales 200.00 200.00
 
-XVIII.- Peleterías Compra/venta de sintéticos 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIX.- Terminales de taxis, autobuses y triciclos 200.00 100.00
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XX.- Ciber-café y centros de cómputo 200.00 100.00
+VII.- Compra/Venta de oro y plata 200.00 200.00
 
-XXI.- Estética unisex y peluquerías 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXII.- Talleres mecánicos 200.00 100.00
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XXIII.- Talleres de torno y herrería en general 200.00 100.00
+VIII.- Taquerías, loncherías y fondas 200.00 200.00
 
-XXIV.- Fábrica de cajas 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXV.- Tienda de ropa y almacenes 500.00 200.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XXVI.- Florerías y funerarias 200.00 100.00
+IX.- Taller de expendio de alfarerías 200.00 200.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+X.- Talleres y expendios de zapaterías 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XI.- Tlapalerías 500.00 300.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XII.- Compra/Venta de materiales de
+
+Construcción 500.00 300.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XIII.- Tiendas, Tendejones y misceláneas 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XIV.- Bisutería 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XV.- Compra/venta de motos y refaccionarias 500.00 300.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XVI.- Papelerías y centros de copiado 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XVII.- Hoteles, Hospedajes 500.00 300.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XVIII.- Peleterías Compra/venta de sintéticos 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XIX.- Terminales de taxis, autobuses y triciclos 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XX.- Ciber Café y centros de cómputo 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXI.- Estética unisex y peluquerías 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXII.- Talleres mecánicos 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXIII.- Talleres de torno y herrería en general 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXIV.- Fábrica de cajas 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXV.- Tienda de ropa y almacenes 500.00 300.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXVI.- Florerías y funerarias 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
 XXVII.- Bancos, negocios que se dediquen
 
-a cuestiones prendarias y financieras 1,500.00 1,000.00
+a cuestiones prendarias y financieras. 1,500.00 1,100.00
 
-XXVIII.- Puestos de venta de revistas, periódicos 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-y casetes
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XXIX.- Videoclubs en general 200.00 100.00
+XXVIII.- Puestos de venta de revistas, periódicos
 
-XXX.- Carpinterías 200.00 100.00
+y casetes 200.00 200.00
 
-XXXI.- Bodega de refrescos 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXII.- Consultorios y clínicas 200.00 100.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XXXIII.- Paleterías y dulcerías 200.00 100.00
+XXIX.- Videoclubs en general 200.00 200.00
 
-XXXIV.- Negocios de telefonía celular 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXV.- Cinema 200.00 100.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XXXVI.- Talleres de reparación eléctrica 200.00 100.00
+XXX.- Carpinterías 200.00 200.00
 
-XXXVII.- Escuelas particulares y academias 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXVIII.- Expendios de alimentos balanceados 200.00 100.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XXXIX.- Gaseras 650.00 100.00
+XXXI.- Bodega de refrescos 200.00 200.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XL.- Gasolineras 5,000.00 2,500.00
+XXXII.- Consultorios y clínicas 200.00 200.00
 
-XLI.- Mudanzas 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLII.- Oficinas de servicio de sistemas 600.00 200.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-de televisión
+XXXIII.- Paleterías y dulcerías 200.00 200.00
 
-XLIII.- Fábrica de hielo 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLIV.- Centros de foto estudio y grabación 200.00 100.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XLV.- Despachos contables y jurídicos 200.00 100.00
+XXXIV.- Negocios de telefonía celular 200.00 200.00
 
-XLVI.- Compra/venta de frutas y legumbres 200.00 100.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLVII.- Otros no especificados 200.00 100.00
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXXV.- Cinema 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXXVI.- Talleres de reparación eléctrica 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXXVII.- Escuelas particulares y academias 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXXVIII.- Expendios de alimentos balanceados 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XXXIX.- Gaseras 650.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XL.- Gasolineras 5,000.00 2,600.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XLI.- Mudanzas 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XLII.- Oficinas de servicio de sistemas de televisión 600.00 300.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XLIII.- Fábrica de hielo 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XLIV.- Centros de foto estudio y grabación 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XLV.- Despachos contables y jurídicos 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XLVI.- Compra/venta de frutas y legumbres 200.00 200.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+XLVII.- Otros no especificados 200.00 200.00
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1987,11 +2169,11 @@ Los fedatarios públicos y las personas que tengan funciones notariales, no auto
 
 Para el caso de que, alguna de las personas mencionadas en este artículo, viole lo dispuesto en el párrafo inmediato anterior, quien o quienes hubiesen incurrido en la violación, serán solidariamente responsables, con el contribuyente, del pago de los derechos que se hubiesen omitido.
 
-> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULO QUE LO INTEGRAN, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ### Capítulo XII. De los Derechos por los Servicios de la Unidad de Acceso a la Información Pública
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 DE LOS SUJETOS
 
@@ -2001,7 +2183,7 @@ DE LOS SUJETOS
 
 Son sujetos al pago de este derecho las personas físicas y morales que soliciten la reproducción de la información a que se refiere la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, de acuerdo al Manual de Procedimientos para la Atención a las Solicitudes de Acceso a la Información Pública del Municipio de Muna, Yucatán.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 OBJETO
 
@@ -2011,7 +2193,7 @@ OBJETO
 
 Es objeto de este derecho los gastos que se generan por los servicios que presta la Unidad de Acceso a la Información Pública del H. Ayuntamiento de Muna, Yucatán.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 BASE
 
@@ -2021,7 +2203,7 @@ BASE
 
 Es base para el cálculo del derecho, el costo de cada uno de los insumos que sirven para reproducir la información solicitada de acuerdo a la Ley de Acceso a la Información Pública para el Estado y Municipios de Yucatán.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 CUOTA
 
@@ -2041,7 +2223,7 @@ IV.- Por Disco Compacto $30.00
 
 V.- Por DVD $50.00
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo XIV. Derechos por Servicio de Alumbrado Público
 
@@ -2231,7 +2413,7 @@ IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimoni
 
 DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
-> <small>(REFORMADO PRIMER PARRAFO, 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 146.
 
@@ -2445,7 +2627,7 @@ Q.I. RAÚL ARCEO ALONZO
 
 Quienes firman por la ausencia temporal del C. Gobernador del Estado, de conformidad a lo dispuesto por el artículo 25 de la Ley Orgánica de la Administración Pública del Estadio de Yucatán.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 28 DE DICIEMBRE DE 2006.
 
@@ -2500,6 +2682,10 @@ Esta (sic) decreto entrará en vigor el día primero de enero del año dos mil d
 D.O. 24 DE DICIEMBRE DE 2012
 
 Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil trece, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil catorce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### ARTÍCULO ÚNICO.
 
