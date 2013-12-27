@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-hocaba-yucatan-58358"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2008-12-27"
+last_updated: "2013-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE HOCABA, YUCATAN
 
-LEY DE HACIENDA DEL MUNICIPIO DE HOCABA, YUCATAN
+LEY DE HACIENDA DEL MUNICIPIO DE HOCABA, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 22 de diciembre de 2007.
 
@@ -727,7 +727,7 @@ Vigencia de los avalúos
 
 ###### ARTICULO 57.
 
-Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes lnmuebles, tendrán una vigencia de seis meses, contados a partir de la fecha de su expedición.
+Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes Inmuebles, tendrán una vigencia de seis meses, contados a partir de la fecha de su expedición.
 
 De la tasa
 
@@ -777,7 +777,7 @@ Del pago
 
 ###### ARTICULO 61.
 
-El pago del Impuesto Sobre Adquisición de lnmuebles, deberá hacerse, dentro de los treinta días hábiles siguientes a la fecha en que, según el caso, ocurra primero alguno de los siguientes supuestos:
+El pago del Impuesto Sobre Adquisición de Inmuebles, deberá hacerse, dentro de los treinta días hábiles siguientes a la fecha en que, según el caso, ocurra primero alguno de los siguientes supuestos:
 
 I.- Se celebre el acto o contrato por el que de conformidad con esta ley, se transmita la propiedad de algún bien inmueble.
 
@@ -793,7 +793,7 @@ De la sanción
 
 ###### ARTICULO 62.
 
-Cuando el Impuesto Sobre Adquisición de lnmuebles no fuere cubierto dentro del plazo señalado en el artículo inmediato anterior, los contribuyentes o los obligados solidarios, en su caso, se harán acreedores a una sanción equivalente al importe de los recargos que se determinen conforme al artículo 31 de esta Ley. Lo anterior, sin perjuicio de la aplicación del recargo establecido para las contribuciones fiscales pagadas en forma extemporánea.
+Cuando el Impuesto Sobre Adquisición de Inmuebles no fuere cubierto dentro del plazo señalado en el artículo inmediato anterior, los contribuyentes o los obligados solidarios, en su caso, se harán acreedores a una sanción equivalente al importe de los recargos que se determinen conforme al artículo 31 de esta Ley. Lo anterior, sin perjuicio de la aplicación del recargo establecido para las contribuciones fiscales pagadas en forma extemporánea.
 
 #### Sección Tercera. Impuesto Sobre Diversiones y Espectáculos Públicos
 
@@ -877,7 +877,7 @@ De los obligados solidarios
 
 ###### ARTÍCULO 72.
 
-Son obligados solidarios al pago de estos derechos, los propietarios, fideicomitentes, mientras el fiduciario no transmitiera la propiedad del inmueble; los fideicomisarios cuando estuvieren en posesión o uso del inmueble, los adquirentes de un inmueble por cualquier título, aún cuando no se hubiere otorgado a su favor la escritura definitiva de compraventa y los responsables de la obra, en los términos de La Ley de Gobierno de lo Municipios del Estado de Yucatán y las demás relativas y aplicables.
+Son obligados solidarios al pago de estos derechos, los propietarios, fideicomitentes, mientras el fiduciario no transmitiera la propiedad del inmueble; los fideicomisarios cuando estuvieren en posesión o uso del inmueble, los adquirentes de un inmueble por cualquier título, aún cuando no se hubiere otorgado a su favor la escritura definitiva de compraventa y los responsables de la obra, en los términos de La Ley de Gobierno de lo (sic) Municipios del Estado de Yucatán y las demás relativas y aplicables.
 
 De la clasificación
 
@@ -929,9 +929,13 @@ Los derechos por los servicios indicados en el artículo 73 se pagarán conforme
 
 Concepto Veces de Salario Mínimo
 
-I.- Autorizaciones de Uso del Suelo.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-a) Para fraccionamientos de hasta 10,000.00 metros cuadrados. 50 Licencia
+I.- Por autorización del uso del suelo:
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+a) Para fraccionamiento de hasta 10,000.00 metros cuadrados; 75 Licencia
 
 b) Para fraccionamientos de 10,000.01 metros cuadrados hasta 50,000.00 metros cuadrados. 100 Licencia
 
@@ -949,25 +953,49 @@ h) Para desarrollo de cualquier tipo cuya superficie sea de 500.01 m2 hasta 5,00
 
 i) Para desarrollo de cualquier tipo cuya superficie sea mayor de 5,000.01 m2; 100 Licencia
 
-II.- Por Factibilidad de Uso de Suelo
+II.- Por factibilidad de Uso de Suelo
 
-a) Para establecimiento con venta de bebidas alcohólicas en envase cerrado; 5 Constancia;
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-b) Para establecimiento con venta de bebidas alcohólicas para su consumo en el mismo lugar; 10 Constancia
+a) Para establecimiento con venta de bebidas
 
-c) Para establecimiento con giro diferente a los mencionados en los incisos a), b) e i) de esta fracción. 1 Constancia
+alcohólicas en envase cerrado; 10 constancia
 
-d) Para desarrollo inmobiliario de cualquier tipo. 5 Constancia
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-e) Para casa habitación unifamiliar ubicada en zonas de reserva de crecimiento; 2.5 Constancia
+b) Para establecimiento con venta de bebidas
+
+alcohólicas, para su consumo en el mismo lugar; 20 constancia
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+c) Para establecimiento con giro diferente a los
+
+mencionados en los incisos a),b) e i) de esta fracción; 2 constancias
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+d) Para desarrollo inmobiliario de cualquier tipo; 10 constancias
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+e) Para casa habitación unifamiliar ubicada en zonas
+
+de reserva de crecimiento; 5 constancia
 
 f) Para la instalación de infraestructura en bienes inmuebles propiedad del Municipio o en las vías públicas, excepto las que se señalan en los incisos g) y h). 0.10 Por aparato, caseta, o unidad.
 
-g) Para la instalación de infraestructura aérea, consistente en cableado o líneas de transmisión, a excepción de las que fueren propiedad de la Comisión Federal de Electricidad. 0.01 Metro lineal
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-h) Para la instalación de radio base de telefonía celular. 10 por radio base
+g) Para la instalación de infraestructura aérea, consistente en cableado o líneas de transmisión, a excepción de las que fueren propiedad de la comisión Federal de Electricidad 0.10 metro lineal
 
-i) Para la instalación de gasolinera o estación de servicio. 15 Constancia
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+h) Para instalación de radio base de telefonía celular 20 por radio base
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+i) Para instalación de gasolinera o estación de servicio 30 constancias
 
 III.- Constancia de Alineamiento 0.20 Metro Lineal
 
@@ -995,13 +1023,25 @@ V.- Constancia de Terminación de obra.
 
 a) Con superficie cubierta hasta 40 m2 0.03 Metro Cuadrado
 
-b) Con superficie cubierta mayor de 40 m2 y hasta 120 m2 0.04 Metro Cuadrado
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-c) Con superficie cubierta mayor de 120 m2 y hasta 240 m2 0.05 Metro Cuadrado
+b) Con superficie cubierta mayor de
 
-d) Con superficie mayor de 240 m2 0.06 Metro Cuadrado
+40 m2 y hasta 120 m2 0.40 metro cuadrado
 
-VI.- Licencia de Urbanización 0.02 Metro Cuadrado de vía pública
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+c) Con superficie cubierta mayor de
+
+120 m2 y hasta 240 m2 0.50 metro cuadrado
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+d) Con superficie cubierta mayor de 240 m2 0.60 metro cuadrado
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VI.- Licencia de Urbanización 0.20 m2 de vía pública
 
 VII.- Constancia de factibilidad para división ó lotificación de predios; 1 Por predio resultante
 
@@ -1203,21 +1243,39 @@ En el caso de que las personas que realicen la introducción de carne en los té
 
 #### Sección Quinta. De los Certificados y Constancias
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 84.
 
-Por la expedición de certificados o constancias de cualesquiera de las dependencias del Ayuntamiento, que no se encuentren señalados en forma expresa en otra Sección de este Capítulo, se causarán derechos que se calcularán multiplicando el factor que se especifica en cada uno de ellos, por el salario mínimo diario vigente en el Municipio de Hocabá a la fecha de su expedición:
+Por la expedición de certificados, constancias de cualquiera de las dependencias del Ayuntamiento.
 
-Concepto Veces de Salario Mínimo
+Concepto Veces de
 
-I.- Certificado de no adeudar impuesto predial 0.5
+Salario Mínimo
 
-II.- Certificado de vecindad 1.0
+I.- Certificado de no adeudar
 
-III.- Constancia de no adeudar derechos de urbanización 1.0
+impuesto predial 1.0
 
-IV.- Constancia de Inscripción al Registro de Población Municipal. 1.0
+II.- Certificado de vecindad 2.0
 
-VI.- Otros certificados o constancias no señalados en forma expresa en el Capítulo II del Título Segundo de esta Ley. 1.0
+III.- Constancia de no adeudar
+
+derechos de urbanización 2.0
+
+IV.- Constancias de Inscripción
+
+de Registro de Población
+
+Municipal 2.0
+
+V.- Otros certificados o constancias
+
+no señalados en forma expresa
+
+en el capítulo (sic) del título Segundo
+
+de esta Ley 2.0
 
 #### Sección Sexta. De los derechos por los servicios que presta el Catastro del Municipio
 
@@ -1349,9 +1407,11 @@ La base para determinar el monto de estos derechos, será el número de metros c
 
 De la tasa y del pago
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 93.
 
-Los derechos establecidos en el artículo 95, serán pagados mensualmente a razón de 0.27 veces el salario mínimo por metro cuadrado concesionado u ocupado.
+Los derechos establecidos en el artículo 95, serán pagados mensualmente a razón de 1.0 veces el salario mínimo por metro cuadrado concesionado u ocupado.
 
 De la renuncia y otorgamiento de concesiones
 
@@ -1363,7 +1423,7 @@ Cuando algún concesionario ilegalmente haya pretendido enajenar sus derechos, e
 
 #### Sección Octava. Derechos por el Uso de Panteones
 
-###### ARTÍCULO 95.
+###### ARTICULO 95.
 
 Los derechos a que se refiere esta sección se pagarán de conformidad con la siguiente:
 
@@ -1371,9 +1431,13 @@ TARIFA
 
 I.- Por usar una bóveda por un período de dos años o su prórroga por el mismo período:
 
-a) Bóveda Grande ---------------------------------------------- 7.1 salarios
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-b) Bóveda chica --------------------------------------------------3.1 salarios
+a) Bóveda Grande --------------------------------------- 15.00 salarios
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+b) Bóveda chica ------------------------------------------10.00 salarios
 
 De la reducción de las cuotas
 
@@ -1425,19 +1489,27 @@ Tratándose de apertura, por la expedición de licencias para el funcionamiento 
 
 Tipo de establecimiento Veces de Salario Mínimo
 
-I.- Expendio de vinos, licores y cervezas
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-en envase cerrado: 75
+I.- Expendió de vinos, licores y cervezas en
 
-II.- Expendio de cerveza en
+envase cerrado: 150 salarios
 
-envase cerrado: 50
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-III.- Supermercado: 200
+II.- Expendio de cerveza en envase cerrado: 100 salarios
 
-IV.- Minisuper: 150
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-V.- Expendio de vinos y licores al por mayor: 200
+III.- Supermercado 400 salarios
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+IV.- Minisúper 300 salarios
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+V.- Expendio de vinos y licores al tipo por mayor 400 salarios
 
 ###### ARTICULO 100.
 
@@ -1445,17 +1517,29 @@ Tratándose de apertura, por la expedición de licencias para el funcionamiento 
 
 Tipo de establecimiento Veces de Salario Mínimo
 
-I.- Restaurante bar: 75
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-II.- Restaurante en general, Fondas y Loncherías: 75
+I.- Restaurante bar 150
 
-III.- Cantina y bar: 75
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-IV.- Cabaret o Centro Nocturno: 150
+II.- Restaurante en general, fondas y loncherías 150
 
-V.- Discotecas: 75
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-VI.- Salones de baile: 75
+III.- Cantina Bar 150
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+IV.- Cabaret o centro nocturno 300
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+V.- Discotecas 300
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VI.- Salones de Baile 150
 
 ###### ARTICULO 101.
 
@@ -1463,29 +1547,49 @@ Por la revalidación de licencias para el funcionamiento de los establecimientos
 
 Tipo de establecimiento Veces de Salario Mínimo
 
-I.- Expendio de vinos, licores y cervezas en
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-envase cerrado: 15
+I.- Expendio de vinos licores y cervezas en envase cerrado 25
 
-II.- Expendio de cerveza en envase cerrado: 15
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-III.- Supermercado: 20
+II.- Expendio de cerveza en envase cerrado 25
 
-IV.- Minisuper: 15
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-V.- Expendio de vinos y licores al por mayor: 15
+III.- Supermercado 30
 
-VI.- Restaurante bar: 15
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-VII.- Restaurante en general, Fondas y Loncherías: 15
+IV.- Minisúper 25
 
-VIII.- Cantina y bar: 15
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-IX.- Cabaret o Centro Nocturno: 20
+V.- Expendio de vinos y licores al por mayor 25
 
-X.- Discotecas: 15
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-XI.- Salones de baile: 15
+VI.- Restaurante bar 25
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VII.- Restaurante en general, fondas y loncherías 40
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+VIII.- Cantina Bar 40
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+IX.- Cabaret o centro nocturno 40
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+X.- Salones de baile 40
+
+> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL D.O. DE 27 DE DICIEMBRE DE 2013 NO HACE MENCIÓN DE LA PRESENTE FRACCIÓN.</small>
+
+XI.- Salones de baile (sic): 15
 
 #### Sección Décima Primera. Derechos por los Servicios de Vigilancia y los Relativos a Vialidad
 
@@ -1529,17 +1633,25 @@ El pago de los derechos se hará por anticipado en el momento de la solicitud de
 
 Los derechos por el uso de estacionamientos en los mercados a que se refiere esta Sección se pagarán de conformidad con las siguientes cuotas:
 
-I.- Por motocicletas $3.00 por hora
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-II.- Por automóviles o camionetas $7.00 por hora
+I.- Por motocicleta $ 5.00 por hora
 
-III.- Por otros vehículos de mayor capacidad de carga $15.00 por hora
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+II.- Por Automóviles o camionetas $ 10.00 por hora
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+III.- Por otros vehículos de mayor capacidad de carga $ 20.00 por hora
 
 Por la primera hora de uso de estacionamiento o fracción de esta se cobrarán las cuotas establecidas en el párrafo anterior. Posterior a la primera hora, se cobrará el equivalente al 50% de la cuota establecida, según sea el caso, por fracciones de tiempo de hasta media hora.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 107.
 
-Los derechos por el uso de baños públicos no concesionados en los mercados públicos propiedad del Municipio, se pagaran con la tarifa única de $2.00
+Los derechos por el uso de baños públicos no concesionados en los mercados públicos propiedad del municipio se pagarán con la tarifa única de $ 5.00
 
 #### Sección Décima Tercera. Derechos por Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura
 
@@ -1553,7 +1665,9 @@ Los derechos a que se refiere el artículo anterior se pagarán conforme a la si
 
 TARIFA:
 
-Por cada viaje de Recolección se cobrará la tarifa de cinco pesos, para las casas habitación y de diez pesos para los predios que tengan fines comerciales.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+Por cada viaje de recolección se cobrará la tarifa de $15.00 para las casas habitación y de $30.00 para los predios que tengan fines comerciales.
 
 Cuando sea recolección periódica se cobrará a razón de ochenta pesos mensuales en casas habitación y 150 para predios que tengan fines comerciales.
 
@@ -1571,9 +1685,11 @@ Son sujetos de los derechos establecidos en esta Sección, las personas físicas
 
 El objeto de los derechos a los que se refiere esta Sección es el servicio de suministro de agua potable que el Municipio proporcione.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 113.
 
-La tarifa aplicable a los servicios de agua potable a que se refiere la presente Sección es la siguiente: Tarifa mensual de 10 pesos.
+La tarifa aplicable a los servicios de agua potable a que se refiere la presente sección es la siguiente: tarifa mensual de $30.00 pesos.
 
 ###### ARTICULO 114.
 
@@ -1987,10 +2103,14 @@ C. ROLANDO RODRIGO ZAPATA BELLO
 
 SECRETARIO GENERAL DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 27 DE DICIEMBRE DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil catorce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
