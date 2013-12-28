@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-municipal-para-el-estado-de-zacatecas-8238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-29"
-last_updated: "2013-05-18"
+last_updated: "2013-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ZAC"
 ---
 # LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE ZACATECAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 15 DE ENERO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2013.
 
-Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sabado 29 de diciembre de 1984.
+Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 1984.
 
 LIC. JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
 
@@ -285,7 +287,9 @@ Será base gravable de este impuesto el valor que resulta más alto entre los si
 
 I. El declarado por las partes.
 
-II. El Catastral con que se encuentra registrado el inmueble.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+II. El valor que arroje el avalúo catastral del bien inmueble emitido por la Dirección de Catastro y Registro Público.
 
 III. El consignado en avalúo bancario practicado por instituciones de crédito autorizadas por la Ley, o bien por corredores públicos, y será a costa del contribuyente. Este avalúo no podrá tener antigüedad mayor de 3 meses inmediatamente anteriores a la fecha en que se presente.
 
@@ -401,9 +405,7 @@ No se pagará el impuesto en las adquisiciones de bienes inmuebles que hagan la 
 
 Tampoco se pagará el impuesto en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
-
-La adquisición de bienes inmuebles que deriven de los programas de regularización del Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, no serán objeto del impuesto que refiere el presente capítulo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
 ### CAPITULO TERCERO. DEL IMPUESTO SOBRE ANUNCIOS Y PROPAGANDA
 
@@ -455,7 +457,7 @@ Son responsables solidarios en el pago de este impuesto los propietarios o posee
 
 Están exentos del pago de este impuesto:
 
-I. Los afectos al pago del Impuesto al Valor Agregado.
+I. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2013)
 
 II. Los de eventos cuyos ingresos se destinen a obras de beneficio social.
 
@@ -816,3 +818,9 @@ P.O. 18 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1° de enero de (sic) año 2014, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
