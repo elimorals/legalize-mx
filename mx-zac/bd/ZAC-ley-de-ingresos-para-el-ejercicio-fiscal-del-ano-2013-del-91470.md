@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-para-el-ejercicio-fiscal-del-ano-2013-del-91470
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-29"
-last_updated: "2012-12-29"
+last_updated: "2013-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "ZAC"
 
 LEY DE INGRESOS PARA EL EJERCICIO FISCAL DEL AÑO 2013 DEL MUNICIPIO DE TLALTENANGO DE SÁNCHEZ ROMÁN, ZACATECAS.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS PARA EL EJERCICIO FISCAL DEL AÑO 2014 DEL MUNICIPIO DE TLALTENANGO DE SÁNCHEZ ROMÁN, ZACATECAS, PUBLICADA EN EL SUPLEMENTO 13 DEL P.O. DE 28 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Suplemento 9 del Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 2012.
 
