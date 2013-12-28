@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-91240
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-29"
-last_updated: "2012-12-29"
+last_updated: "2013-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "ZAC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2013
 
-LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2013
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2014, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 2012.
 
@@ -460,3 +464,13 @@ PROFR. FRANCISCO ESCOBEDO VILLEGAS.
 EL SECRETARIO DE FINANZAS
 
 ING. FERNANDO ENRIQUE SOTO ACOSTA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 2013.
+
+Artículo primero.- El presente Decreto entrará en vigor el 1° de enero de (sic) año 2014, con vigencia al 31 de diciembre de 2014.
+
+Artículo segundo.- Se abroga la Ley de Ingresos del Estado de Zacatecas para el Ejercicio Fiscal 2013 contenida en el decreto número 557, publicado el 29 de diciembre de 2012, en el Suplemento número 3 al número 104 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo tercero.- Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
