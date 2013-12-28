@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-hacendaria-para-el-estado-de-zacatecas-4334
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2011-12-31"
+last_updated: "2013-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE COORDINACION HACENDARIA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-LEY DE COORDINACION HACENDARIA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2011.
+LEY DE COORDINACIÓN HACENDARIA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero de 2005.
 
@@ -385,7 +387,7 @@ IV. Los demás que establezca la Ley de Deuda Pública para Estado y Municipios 
 
 De las cantidades que perciba el Estado dentro del ejercicio de que se trate, por concepto de participaciones federales, se constituirá el "Fondo Único de Participaciones", el cual se integra con las bases siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -395,25 +397,25 @@ II. El 100% de los recursos provenientes del Fondo de Fomento Municipal;
 
 III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 IV. El 23% del monto percibido por el Estado, de la Recaudación Federal del Impuesto Especial Sobre Producción y Servicios;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 V. El 23% de la recaudación del Estado del Impuesto Sobre Automóviles Nuevos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-VI. El 23% del Fondo de Fiscalización;
+VI. El 23% del Fondo de Fiscalización y Recaudación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -423,7 +425,7 @@ a) 9/11 del Impuesto Especial Sobre Producción y Servicios aplicado a la venta 
 
 b) 2/11 del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolina y diesel, que se distribuye entre las 10 Entidades Federativas que, de acuerdo a la última información oficial del Instituto Nacional de Estadística, Geografía e Informática, tengan los menores niveles de Producto Interno Bruto per cápita nominero y no petrolero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -461,7 +463,7 @@ f).- El 10% se distribuirá en proporción inversa a las participaciones que por
 
 De no contar con la información de la recaudación municipal de alguno de los Municipios, se tomará como referencia la última información proporcionada al órgano de fiscalización de la Legislatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -545,7 +547,7 @@ Los montos máximos de retención de los recursos embargables para cada Municipi
 
 - Para el ejercicio fiscal 2011 un 85%
 
-- De2012 en adelante un 100%
+- De 2012 en adelante un 100%
 
 > <small>(ADICIONADO, P.O. 14 DE MARZO DE 2009)</small>
 
@@ -815,7 +817,7 @@ EL SECRETARIO DE FINANZAS
 
 L.C. NICOLÁS CASTAÑEDA TEJEDA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE MARZO DE 2009.
 
@@ -836,3 +838,9 @@ P.O. 31 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor el primer día de enero del 2012, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1° de enero de año 2014, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
