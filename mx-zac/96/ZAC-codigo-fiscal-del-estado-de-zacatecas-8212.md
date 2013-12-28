@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-8212"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-12-29"
-last_updated: "2012-12-29"
+last_updated: "2013-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO FISCAL DEL ESTADO DE ZACATECAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO FISCAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2013.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 1984.
 
@@ -139,6 +141,42 @@ Ningún ingreso podrá recaudarse si no está previsto en la Ley de Ingresos o e
 
 Sólo podrá afectarse un ingreso fiscal a un fin especial, cuando así lo dispongan expresamente las leyes y decretos fiscales del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+En las oficinas recaudadoras de rentas, sólo se aceptará como medios de pago de las contribuciones, efectivo en moneda nacional, tarjeta de crédito o débito, cheques certificados o la transferencia electrónica de fondos a favor de la Secretaría de Finanzas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Se entiende por transferencia electrónica de fondos, el pago o depósito que en forma electrónica realicen las instituciones de crédito a favor de la Secretaría de Finanzas, por instrucción de los contribuyentes, con cargo a su cuenta bancaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, el pago de las contribuciones se podrá realizar en el portal de Internet de la Secretaría de Finanzas, a través de los medios habilitados en la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+En las instituciones de crédito solo se aceptarán pagos en efectivo, tarjeta de crédito o débito, cheques del mismo banco y tratándose de cheques de una institución diferente, deberá estar certificado; en kioscos de servicios y tiendas de conveniencia, solo se aceptarán pagos en efectivo y tarjeta de crédito o débito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Para determinar las contribuciones se consideran incluso las fracciones del peso. No obstante lo anterior, para efectuar el pago, en caso que el importe a pagar, contenga fracciones de uno a cincuenta centavos se ajustará a la unidad inmediata anterior y las que contengan fracciones entre cincuenta y uno a noventa y nueve centavos, se ajustarán a la unidad inmediata superior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Los medios de pago señalados en este artículo, aplican respecto de los impuestos, derechos, productos y aprovechamientos, que deban enterarse a la Secretaría de Finanzas, quien podrá autorizar otros medios de pago, a través del Secretario de Finanzas o Subsecretario de Ingresos.
+
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 16-A.
@@ -195,6 +233,18 @@ III.- Prenda, hipoteca o secuestro convencional en la vía administrativa.
 
 IV.- Obligación solidaria asumida por un tercero que compruebe su idoneidad y solvencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+V.- Embargo en la vía administrativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+VI.- Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que sea determinado por la Secretaría de Finanzas.
+
 La Secretaría de Finanzas fijará el monto de la garantía y la calificará conforme a este artículo, las que cubrirán el adeudo insoluto, incluyéndose en éste los recargos y gastos de ejecución y en su caso, los vencimientos futuros causados en 12 meses. Al terminar este periodo y en tanto no se cubra el crédito, deberá ampliarse la garantía por el importe de los recargos correspondientes a los 12 meses siguientes.
 
 La Secretaría de Finanzas, fijará el término para su otorgamiento en los casos no previstos en el presente Código.
@@ -209,29 +259,71 @@ La Secretaría de Finanzas, fijará el término para su otorgamiento en los caso
 
 Son autoridades fiscales del Estado:
 
-1.- El Gobernador del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-2.- El Secretario de Finanzas.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-3.- El Director de Ingresos.
+I. El Gobernador del Estado;
 
-4.- El Director de Catastro y Registro Público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-5.- El Jefe del Departamento de Recaudación.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+II. El Secretario de Finanzas;
 
-6.- El Director de Fiscalización.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-7.- El Jefe del Departamento de Vigilancia de Obligaciones.
+III. El Subsecretario de Ingresos;
 
-8.- Los Recaudadores de Rentas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-Las Autoridades Fiscales ejercerán su competencia en el territorio del Estado.
+IV. El Director de Ingresos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+V. El Director de Fiscalización;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+VI. El Procurador Fiscal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+VII. El Director de Catastro y Registro Público;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+VIII. El Jefe del Departamento de Recaudación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+IX. El Jefe del Departamento de Vigilancia de Obligaciones, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+X. Los Recaudadores de Rentas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Las autoridades fiscales ejercerán su competencia en el territorio del Estado de Zacatecas.
 
 ### CAPITULO SEGUNDO. Atribuciones de las Autoridades Fiscales
 
@@ -256,6 +348,18 @@ Se faculta al Secretario de Finanzas, por sí o a través del Director de Ingres
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 El Gobernador del Estado o el Secretario de Finanzas podrán conceder subsidios o estímulos fiscales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Asimismo podrán condonar o cancelar las multas que impongan las dependencias y entidades de la administración pública centralizada y organismos públicos descentralizados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+El Gobernador del Estado, el Secretario de Finanzas, el Subsecretario de Ingresos, el Director de Fiscalización o el Procurador Fiscal, en el ámbito de su competencia y en ejercicio de sus facultades, podrán otorgar descuentos o condonaciones.
 
 ###### ARTICULO 30o.
 
@@ -476,6 +580,12 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 ###### ARTICULO 43o.
 
 El personal de la Secretaría de Finanzas que intervenga en los diversos trámites relativos a la aplicación de las disposiciones fiscales, estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales del Estado, a las autoridades judiciales o a los tribunales competentes que conozcan de pensiones alimenticias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, dicha reserva no aplicará respecto a la información relativa a los créditos fiscales firmes de los contribuyentes, que se proporcione a las sociedades de información crediticia, que obtengan autorización de la Secretaría de Hacienda y Crédito Público, de conformidad con la Ley para Regular las Sociedades de Información Crediticia.
 
 ## TITULO TERCERO. De la Obligación Tributaria
 
@@ -707,9 +817,21 @@ III.- Condonación.
 
 IV.- Prescripción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+V.- Dación en pago.
+
 ###### ARTICULO 68o.
 
 Pago es el cumplimiento de una obligación fiscal determinada en cantidad líquida.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Quien realice el pago de contribuciones debe obtener de la oficina recaudadora, el recibo oficial en el que conste la impresión original del sello de pagado o el comprobante fiscal digital a través del portal de Internet de la Secretaría de Finanzas. Tratándose de pagos efectuados en las oficinas de instituciones de crédito, tiendas de conveniencia y kioscos de servicio, se deberá obtener la impresión de la máquina registradora.
 
 ###### ARTICULO 69o.
 
@@ -746,6 +868,12 @@ Los convenios a que se refiere el artículo 29 de esta ley, tendrán duración d
 ###### ARTICULO 74o.
 
 La falta de pago oportuno de un crédito fiscal, causará recargos, conforme a lo que señale la ley de ingresos, por cada mes o fracción de mes transcurrido sin haber hecho el pago, pero su monto no podrá exceder de 200% del monto de la obligación fiscal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y se procederá a exigir el remanente a través del departamento de Vigilancia de Obligaciones Fiscales, de la Dirección de Ingresos de la Secretaría de Finanzas.
 
 ###### ARTICULO 75o.
 
@@ -1117,23 +1245,35 @@ Los términos fijados por periodos y aquellos en que se señale una fecha determ
 
 Si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario de labores, se prorrogará el plazo hasta el siguiente día hábil.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 108o.
 
-Para efectos fiscales son días inhábiles los sábados, los domingos, el primero de enero, cinco de febrero, veintiuno de marzo, primero de mayo, cinco de mayo, primero de septiembre, ocho de septiembre, dieciséis de septiembre, doce de octubre, veinte de noviembre, el 1o. de diciembre por cada seis años, cuando corresponda a la transmisión del poder ejecutivo federal, y el veinticinco de diciembre.
+Para efectos fiscales son días inhábiles: los sábados, los domingos, el primero de enero, el primer lunes de febrero en conmemoración del cinco de febrero, el tercer lunes de marzo en conmemoración al veintiuno de marzo, el primero y cinco de mayo, el ocho y dieciséis de septiembre, el tercer lunes de noviembre en conmemoración del veinte de noviembre, el primero de diciembre de cada seis años, cuando corresponda a la transmisión del poder ejecutivo federal y el veinticinco de diciembre.
 
 También son días inhábiles aquellos en que tengan vacaciones las autoridades fiscales.
 
 La presencia del personal de guardia no habilita los días en que suspendan las labores.
 
-Para la práctica de diligencias, las autoridades fiscales podrán habilitar los días y horas inhábiles, debiendo hacerse saber esta circunstancia a los particulares y en su caso no alterará el cálculo del plazo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Para la práctica de diligencias de las autoridades fiscales, son horas hábiles las comprendidas entre las siete treinta y dieciocho horas, de lunes a viernes. Las autoridades fiscales podrán habilitar los días y horas inhábiles, debiendo hacerse saber esta circunstancia a los particulares.
 
 ###### ARTICULO 109o.
 
 Una diligencia de notificación iniciada en hora hábil podrá concluirse en hora inhábil sin afectar su validez.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 110o.
 
-Son horas hábiles las comprendidas entre las ocho y quince treinta horas. Las recaudaciones de rentas sólo recibirán el pago de impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos los días hábiles de las ocho a las trece horas.
+Las recaudaciones de rentas sólo recibirán el pago de impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos los días hábiles de las ocho a las quince treinta horas, de lunes a viernes. Teniendo la facultad las autoridades fiscales de habilitar días y horas inhábiles.
 
 ###### ARTICULO 111o.
 
@@ -1363,6 +1503,12 @@ Con excepción de los gastos de honorarios de notificadores y ejecutores, los de
 
 Por cada una de las diligencias de requerimiento, embargo, remate, venta fuera de subasta y de adjudicación, los deudores y demás interesados pagarán por concepto de gastos de ejecución, el 2% del crédito fiscal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Cuando en los casos anteriores, el 2% del crédito sea inferior a $340.00, se cobrará esta cantidad, en vez del 2% del crédito fiscal.
+
 ###### ARTICULO 150o.
 
 En ningún caso, los gastos de ejecución por cada una de las diligencias mencionadas en el artículo anterior, podrán exceder de la cantidad equivalente a un salario mínimo general diario de la zona económica del domicilio del deudor, elevada al año.
@@ -1389,21 +1535,31 @@ Cuando el requerimiento se haya hecho por edictos, la diligencia de embargo se e
 
 El deudor o en su defecto, la persona con quien se entienda la diligencia, tendrá derecho a que en ésta intervengan dos testigos nombrados por él y a designar los bienes que deban embargarse, siempre que se sujete al orden siguiente:
 
-A)Dinero y metales preciosos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-B)Acciones, bonos, títulos o valores y en general, créditos de inmediato y fácil cobro a cargo de instituciones o empresas particulares de reconocida solvencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-C)Alhajas y objetos de arte.
+A) Dinero, metales preciosos, cuentas bancarias o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro.
 
-D)Frutos o renta de toda especie.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-E)Bienes muebles no comprendidos en los incisos anteriores.
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-F)Bienes raíces.
+En el caso de que se embarguen depósitos bancarios u otros depósitos del contribuyente a que se refiere el párrafo anterior, el monto del embargo sólo podrá ser hasta por el importe del crédito fiscal actualizado y sus accesorios legales que le correspondan hasta la fecha en que se practique, ya sea en una o más cuentas. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
-G)Negociaciones comerciales, industriales, agrícolas y ganaderas.
+B) Acciones, bonos, títulos o valores y en general, créditos de inmediato y fácil cobro a cargo de instituciones o empresas particulares de reconocida solvencia.
 
-H)Créditos o derechos no rechazables en el acto.
+C) Alhajas y objetos de arte.
+
+D) Frutos o renta de toda especie.
+
+E) Bienes muebles no comprendidos en los incisos anteriores.
+
+F) Bienes raíces.
+
+G) Negociaciones comerciales, industriales, agrícolas y ganaderas.
+
+H) Créditos o derechos no rechazables en el acto.
 
 ###### ARTICULO 155o.
 
@@ -1873,7 +2029,7 @@ EL DIRECTOR GENERAL DE GOBIERNO.
 
 LIC. RAUL RODRIGUEZ SANTOYO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 9 DE ENERO DE 1988.
 
@@ -1892,3 +2048,9 @@ El presente Decreto entrará en vigor el primero de enero del año dos mil doce,
 P.O. 29 DE DICIEMBRE DE 2012
 
 Artículo único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1° de enero del año 2014, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
