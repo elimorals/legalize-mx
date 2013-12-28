@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "2013-07-10"
+last_updated: "2013-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -1342,3 +1344,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones legales y administrativas estatales que se encuentren vigentes a la entrada en vigor del presente Decreto y que se opongan a lo dispuesto por la Ley General de Contabilidad Gubernamental, dejarán de aplicarse en la medida en que resulte aplicable esta última y las disposiciones que de ella emanen.
+
+P.O. 28 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y las disposiciones en él contenidas serán obligatorias para los entes públicos y los municipios, a partir del primero de enero de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+La presentación de las cuentas públicas relativas al ejercicio de 2013, se hará en los términos de las disposiciones vigentes a la fecha de su presentación.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, contenida en el Decreto No. 369/961 P.O., publicada en el Periódico Oficial del Estado No. 100, del 14 de diciembre de 1996.
