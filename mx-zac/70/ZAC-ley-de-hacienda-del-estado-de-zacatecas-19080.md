@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2013-05-18"
+last_updated: "2013-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "ZAC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TRANSITORIO ÚNICO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1° DE ENERO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -411,6 +415,10 @@ o) El pago de despensas que haga el patrón a sus trabajadores en especie o en v
 
 q) (sic) Los pagos que se efectúen a personas mayores de 60 años.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+En los casos en que por la naturaleza de la erogación el artículo 93 de la Ley del Impuesto sobre la Renta, establezca un límite mínimo o máximo, éste deberá tomarse en consideración para los importes no gravados a que se refiere esta fracción.
+
 II. Las erogaciones que efectúen:
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
@@ -535,15 +543,17 @@ Tratándose de premios en especie, la base del impuesto es el valor con el que s
 
 DE LA TASA
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 34 QUINQUIES.- Los contribuyentes del impuesto sobre loterías, rifas, sorteos, apuestas y juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente pagará (sic) conforme a la siguiente tasa:
+ARTICULO 34 QUINQUIES.- Los contribuyentes del impuesto sobre loterías, rifas, sorteos, apuestas y juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente pagarán conforme a la siguiente tasa:
 
 a) El 6% sobre los ingresos que se obtengan por la enajenación de boletos, billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente.
 
 b) El 6% sobre el valor de los premios que obtengan los beneficiarios en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, sin deducción alguna.
 
-Quienes entreguen los premios a que se refiere el párrafo anterior, tendrán la obligación de efectuar la retención de este impuesto, así como de proporcionar, cuando así lo solicite el interesado, constancia de retención de dicho impuesto.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Quienes otorguen los premios a que se refiere este inciso, tendrán la obligación de efectuar la retención de este impuesto, así como de proporcionar, cuando así lo solicite el interesado, constancia de retención de dicho impuesto.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -553,11 +563,15 @@ DEL PAGO
 
 ARTICULO 34 SEXIES.- El pago de este impuesto se realizará de la siguiente manera:
 
-I. Quienes enajenen boletos para participar en juegos con loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente que se celebren dentro o fuera del Estado de Zacatecas, pagarán el impuesto a través del formato que para esos efectos autorice la Secretaría de Finanzas y se presentará ante la oficina correspondiente de recaudación de rentas del Estado, mediante la presentación de declaraciones mensuales, dentro de los 17 días naturales siguientes a cada mes.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-II. Para los que obtengan el premio, el impuesto se pagará a través del formato que para esos efectos autorice la Secretaría de Finanzas y se presentará ante la oficina correspondiente de recaudación de rentas del Estado, a más tardar el día 17 del mes siguiente a la obtención de premio.
+I. Quienes enajenen boletos para participar en juegos con loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente que se celebren dentro o fuera del Estado de Zacatecas, pagarán el impuesto a través del formato que para estos efectos autorice la Secretaría de Finanzas y se presentará ante la oficina de recaudación de rentas del Estado correspondiente, mediante la presentación de declaraciones mensuales, dentro de los 17 días naturales del mes inmediato posterior a aquel que corresponda el pago.
 
-III. Los sujetos obligados al pago del impuesto con responsabilidad directa o solidaria por retención, realizarán el pago a través del formato que para esos efectos autorice la Secretaría de Finanzas y se presentará ante la oficina correspondiente de recaudación de rentas del Estado, mediante la presentación de declaraciones mensuales, dentro de los 17 días naturales siguientes a cada mes.
+II. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+III. Quienes otorguen premios como resultados de las loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente que se celebren dentro o fuera del Estado de Zacatecas, estarán obligados a retener el pago del impuesto y se enterará a través del formato que para esos efectos autorice la Secretaría de Finanzas ante la oficina correspondiente de recaudación de rentas del Estado, dentro de los 17 días del mes siguiente a la entrega del premio.
 
 IV. Son solidarios responsables del pago de este impuesto, los organizadores del evento de cuyo resultado dependa el pago del premio aún y cuando su domicilio fiscal se encuentre fuera del territorio del Estado de Zacatecas.
 
@@ -571,7 +585,9 @@ ARTÍCULO 34 SEPTIES.- Los sujetos de este impuesto tendrán las siguientes obli
 
 I. Tratándose de personas que habitualmente organicen loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, deberán solicitar la inscripción en el registro de contribuyentes del Estado de Zacatecas, utilizando para tales efectos las formas aprobadas por la Secretaría de Finanzas.
 
-II. Presentar, ante las autoridades fiscales, los avisos y declaraciones que correspondan, dentro de los plazos y en los lugares señalados para tales efectos.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+II. Presentar, ante las autoridades fiscales, los avisos y declaraciones que correspondan, dentro de los plazos y en los lugares señalados por esta ley.
 
 III. Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones.
 
@@ -579,15 +595,25 @@ IV. Conservar a disposición de las autoridades fiscales y exhibir, cuando se le
 
 V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado de Zacatecas.
 
-VI. En tratándose de aquellos contribuyentes obligados a este impuesto, en el que su domicilio fiscal se ubique fuera de la Entidad, se considerará como domicilio de los sujetos afectos a este tributo el del lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+VI. Tratándose de aquellos contribuyentes obligados a este impuesto, en el que su domicilio fiscal se ubique fuera de la Entidad, se considerará como domicilio de los sujetos afectos a este tributo el del lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 DE LAS EXENCIONES
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 34 OCTIES. - Estarán exentos de este impuesto: los premios derivados de loterías, rifas, sorteos y concursos organizados por las Administraciones Públicas Centralizadas y Descentralizas de los gobiernos Federal, Estatal y Municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública y/o gasto público, asimismo las Asociaciones Civiles sin fines de lucro.
+ARTICULO 34 OCTIES.- Estarán exentos de este impuesto:
+
+I. Los ingresos obtenidos por la venta de boletos, billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, organizados por la Lotería Nacional para la Asistencia Pública;
+
+II. Los ingresos obtenidos por la venta, donación o entrega gratuita de boletos, billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, organizados por la Federación, Estados y Municipios; así como por organismos públicos descentralizados de la Administración Pública Federal, Estatal o Municipal, y
+
+III. Los ingresos obtenidos por la venta, donación o entrega gratuita de boletos, billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, organizados por las Asociaciones Civiles sin fines de lucro, cuyo objeto sea la asistencia pública y estén constituidas legalmente para su ejercicio dentro del territorio del Estado.
+
+Todos los sujetos exentos que se mencionan en este artículo deben cumplir con la obligación de retener y enterar a la Secretaría de Finanzas, el impuesto que se cause sobre el premio que se entregue.
 
 ### CAPITULO V. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
@@ -679,7 +705,9 @@ ARTICULO 36 TER.- En el caso de vehículos nuevos el impuesto se calculara confo
 
 I. Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresada en toneladas, por la cantidad de $7,313.00, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00, para aeronaves de reacción.
 
-II. Para los vehículos destinados al transporte de hasta 15 pasajeros y automóviles blindados, así como los vehículos de carga hasta 15 toneladas, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+II. Para los vehículos destinados al transporte de hasta 15 pasajeros y automóviles blindados, así como los vehículos de carga de los denominados pick up, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
 
 TARIFA
 
@@ -707,7 +735,9 @@ inferior
 
 1,711,052.63 En adelante 163,135.16 19.1
 
-III. Tratándose de vehículos nuevos destinados al transporte de más de quince pasajeros o de carga cuyo peso bruto vehicular sea de 15 toneladas o más toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+III. Tratándose de vehículos nuevos destinados al transporte de más de quince pasajeros o de carga cuyo peso bruto vehicular sea de 1.5 toneladas o más, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil.
 
 Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
 
@@ -745,9 +775,9 @@ Las cantidades establecidas en las tarifas contenidas en artículo, se actualiza
 
 El Índice Nacional de Precios al Consumidor que se aplicará para los efectos del párrafo anterior es el publicado por el Banco de México en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 36 QUATER.- Para la aplicación de este impuesto se entiende por vehículos destinados al transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+ARTICULO 36 QUATER.- Para la aplicación de este impuesto se entiende por vehículos destinados al transporte de más de 15 pasajeros o para el transporte de efectos, los camiones diferentes a los denominados pick up, sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
 
 VEHÍCULOS USADOS
 
@@ -783,7 +813,9 @@ Antigüedad
 
 El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 36 TER de este Capítulo.
 
-II. Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelo (sic) anteriores al de este Capítulo, destinados al transporte de hasta quince pasajeros y automóviles blindados, así como los vehículos de carga de hasta 15 toneladas, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+II. Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelo anteriores al de este Capítulo, destinados al transporte de hasta quince pasajeros y automóviles blindados, así como los vehículos de carga de los denominados pick up, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
 a) El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
@@ -1107,65 +1139,91 @@ SERVICIOS DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO Y COORDINACION GENERAL
 
 Los servicios que preste la Secretaría General de Gobierno por concepto de:
 
-I. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+I. Los derechos por el servicio de expedición de opinión favorable por parte del Ejecutivo del Estado, para el trámite de permisos, licencias o renovación de las mismas, respecto de la compraventa, transporte, fabricación, uso, consumo y almacenamiento de explosivos y sus componentes, se causarán al tenor de lo siguiente:
+
+a) Para empresas del ramo de la minería..............150 cuotas;
+
+b) Para empresas del ramo de la construcción....100 cuotas;
+
+c) Para mediana industria.....................................50 cuotas;
+
+d) Para microindustrias y empresas ejidales.........25 cuotas;
+
+e) Para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal….......................................................10 cuotas.
 
 II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2004; P.O. 31 DE DICIEMBRE DE 2011)
 
 III. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2012)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-IV. Por la Dirección de Protección Civil y Bomberos por concepto de:
+IV. Por la Dirección Estatal de Protección Civil por concepto de:
 
-a) Capacitación en brigadas de protección civil 3 cuotas;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-b) Capacitación en prevención y combate contra incendios 90 cuotas;
+a) Capacitación en brigadas de protección civil:
 
-c) Capacitación en primeros auxilios, evacuación, búsqueda y rescate 60 cuotas;
+De 1 a 10 participantes.....................3 cuotas;
 
-d) Revisión y autorización del programa interno de protección civil:
+De 11 a 20 participantes...................5 cuotas;
 
-Para empresas comerciales 30 cuotas;
+De 11 a 30 participantes...................7 cuotas.
 
-Para empresas industriales 90 cuotas:
+b) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-Para empresas de servicios 60 cuotas;
+c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-Para empresas del giro de la minería 270 cuotas;
+d) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
 e) Registro de grupos voluntarios 2 cuotas;
 
 f) Renovación del registro de grupos voluntarios 2 cuotas;
 
-g) Registro de empresas asesoras y capacitadoras 10 cuotas;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-h) Registro de instructores independientes 10 cuotas;
+g) Registro de instructores independientes, empresas asesoras, capacitadoras y consultoras de estudio de riesgo de vulnerabilidad, terceros acreditados 10 cuotas;
 
-i) Registro de empresa de consultoría y estudios de riesgo y vulnerabilidad 10 cuotas;
+h) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-j) Renovación del registro de empresa (sic) asesoras y capacitadoras 10 cuotas;
+i) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-k) Renovación del registro de instructores independientes 10 cuotas;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-l) Renovación del registro de empresas de consultoría y estudios de riesgo y vulnerabilidad 10 cuotas;
+j) Renovación del registro de instructores independientes, empresas asesoras, capacitadoras y consultoras de estudio en riesgo de vulnerabilidad, terceros acreditados 10 cuotas;
 
-m) Emisión de opinión técnica de no riesgo 20 cuotas;
+k) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-n) Emisión de registro de operación para prestadores de servicios para distribución y recarga de extinguidor 20 cuotas;
+l) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+m) Emisión de opinión técnica previa al otorgamiento de licencias de construcción para conjuntos habitacionales, escuelas, estaciones de servicio, gaseras, estaciones de- carburación y en general empresas, industrias o establecimientos considerados de riesgo ........................................................................................20 cuotas;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+n) Emisión de registro de operación para prestadores de servicios para distribución y recarga de extinguidor 10 cuotas;
 
 o) Renovación del registro de operación para prestadores de servicios para distribución y recarga de extinguidores 10 cuotas;
 
-p) Servicios de ambulancia al sector privado para eventos masivos con fines de lucro 5 cuotas;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-q) Servicio privado de traslado en ambulancia 9 cuotas;
+p) Servicios de ambulancia al sector privado para eventos masivos con fines de lucro 20 cuotas;
 
-r) Revisión y autorización de programas especiales para eventos masivos 30 cuotas;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-s) Análisis de riesgos internos y externos de inmuebles 10 cuotas;
+q) Servicio privado de traslado en la ambulancia por cada 10 km ........ ........................................................................................20 cuotas;
+
+r) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
+
+s) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
 t) Cursos técnicos especializados por persona 10 cuotas;
 
-Quedarán exentos del pago de este servicio, los que la Dirección de Protección Civil y Bomberos preste a Instituciones Públicas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Quedarán exentos del pago de este servicio, los que la Dirección Estatal de Protección Civil preste a Instituciones Públicas.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1253,7 +1311,7 @@ SUPERFICIE TERRENO TERRENO TERRENO PLANO LOMERÍO ACCIDEN- TADO
 
 4.- De 30-00-01 a 50-00-00 Has 30 Cuotas 35 Cuotas 50 Cuotas
 
-5. De 50-00-01 a 80-00-00 Has 40 Cuotas 45 Cuotas 55 Cuotas;
+5.- De 50-00-01 a 80-00-00 Has 40 Cuotas 45 Cuotas 55 Cuotas;
 
 6.- De 80-00-01 a 110-00-00 Has 60 Cuotas 70 Cuotas 80 Cuotas
 
@@ -1309,11 +1367,11 @@ inexistencia 1.5 cuotas
 
 c) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
 d) Trámite administrativo de aclaración de acta
 
-de registro civil 2 cuotas
+de registro civil 3 cuotas
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -1323,11 +1381,11 @@ a oficialías del interior del Estado u otra Entidad
 
 Federativa 1 cuota
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
 f) Autorización para registro de actas de registro
 
-civil provenientes del extranjero 5 cuotas
+civil provenientes del extranjero 6 cuotas
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -1337,21 +1395,35 @@ III. La Dirección de Notarías:
 
 a) Expedición de testimonio por hoja 1.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-b) Autorización de protocolos notariales:
-
-Protocolo ordinario, por libro 5.5 cuotas
-
-Protocolo abierto, por libro 5.5 cuotas
+b) Autorización de protocolo notarial ordinario o abierto.....................................................................5.5 cuotas;
 
 c) Expedición de copia certificada 1 cuota por hoja
 
-d) (REFORMADO [N. DE E DEROGADO], P.O. 29 DE DICIEMBRE DE 2010)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-e) (REFORMADO [N. DE E DEROGADO], P.O. 29 DE DICIEMBRE DE 2010)
+d) Autorización definitiva de escrituras asentadas en protocolo notariales depositados en el Archivo General de Notarías, además del costo señalado en el inciso a) de esta fracción…………………………………………….4 cuotas;
 
-f) (REFORMADO [N. DE E DEROGADO], P.O. 29 DE DICIEMBRE DE 2010)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+e) Examen de suficiencia para aspirante a notario.....................................................................41 cuotas;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+f) Examen de oposición para el ejercicio notarial....................................................................58 cuotas;
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+g) Expedición de patente de aspirante a notario.....................................................................90 cuotas;
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+h) Expedición de patente de notario.....................197 cuotas;
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+i) Registro de convenio de suplencia notarial o convenio de asociación notarial...................................................................21 cuotas.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -1587,61 +1659,65 @@ El refrendo de la tarjeta de circulación y expedición de calcomanía con vigen
 
 I. Vehículos de servicio particular:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-a). Del año en curso 16.5 cuotas;
+a). Del año en curso 18 cuotas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-b). Con un año de antigüedad 15.5 cuotas;
+b). Con un año de antigüedad 17 cuotas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-c). Con dos años de antigüedad 14.5 cuotas;
+c). Con dos años de antigüedad 16 cuotas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-d). Con tres años de antigüedad 13.5 cuotas;
+d). Con tres años de antigüedad 15 cuotas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-e). Con cuatro años de antigüedad 12.5 cuotas;
+e). Con cuatro años de antigüedad 14 cuotas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-f). Con cinco y más años de antigüedad 11.5 cuotas;
+f). Con cinco y más años de antigüedad 13 cuotas;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 II. Vehículos al servicio público:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-a). Del año en curso 16.5 cuotas;
+a). Del año en curso 18 cuotas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-b). Con un año de antigüedad 15.5 cuotas;
+b). Con un año de antigüedad 17 cuotas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-c). Con dos años de antigüedad 14.5 cuotas;
+c). Con dos años de antigüedad 16 cuotas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-d). Con tres años de antigüedad 13.5 cuotas;
+d). Con tres años de antigüedad 15 cuotas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-e). Con cuatro años de antigüedad 12.5 cuotas;
+e). Con cuatro años de antigüedad 14 cuotas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-f). Con cinco y más años de antigüedad 11.5 cuotas;
+f). Con cinco y más años de antigüedad 13 cuotas;
 
-III. Remolques 5 cuotas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-IV. Motocicletas 2 cuotas;
+III. Remolques 6.5 cuotas;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+IV. Motocicletas 3.5 cuotas;
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -2055,19 +2131,23 @@ XV. Solicitud de particulares 2 cuotas;
 
 de elaboración de planos.
 
-XVI. Los conceptos no considerados en el presente artículo se tasarán de acuerdo con su monto equiparable en cuotas de salario mínimo.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+XVI. El concepto de solicitud de búsqueda de documentos 2 cuotas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+Los conceptos no considerados en el presente artículo se tasarán de acuerdo con su monto equiparable en cuotas de salario mínimo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización integral de la administración hacendaria estatal, conforme al contrato de fideicomiso que para tal efecto se suscriba.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-No causarán derechos los servicios establecidos en el presente artículo, cuando deriven de programas de regularización de bienes inmuebles implementados por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-### CAPITULO V. AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+### CAPÍTULO V. SERVICIOS DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ###### ARTICULO 52.
 
@@ -2131,7 +2211,7 @@ adicionalmente el monto de derechos
 
 que cause el acto, 30 cuotas
 
-En el supuesto de que la operación se realice sólo respecto al suelo y en el mismo existan edificaciones o plantaciones, se tasará sobre el valor total del bien en razón de la plusvalía que adquiere el predio por las edificaciones y plantaciones.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
 Para los efectos de este capítulo se equiparan a la compraventa los siguientes actos o contratos:
 
@@ -2209,9 +2289,9 @@ notifique o subdivida un predio, por cada
 
 lote o fracción: 1cuota;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-VIII. Por la inscripción o anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se pagará la cantidad de:
+VIII. Por la inscripción y anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se tasarán, tratándose de actos o contratos de la forma siguiente:
 
 a). Arrendamiento, subarrendamiento
 
@@ -2255,13 +2335,11 @@ habilitación y avío celebrado entre
 
 particulares; 11 cuotas
 
-l). División de copropiedad, por cada
+l). (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-uno de los predios resultantes 11 cuotas
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
-
-IX. Por el registro de cédula hipotecaria; embargo judicial o administrativo, se trasará en 9 cuotas, hasta un monto equivalente a siete veces el salario mínimo general elevado al año, por el valor superior a éste, al 1%;
+IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en 9 cuotas sobre el monto total de lo reclamado, siempre y cuando este sea igual o menor al equivalente a siete veces el salario mínimo general elevado al año; cuando el importe de lo reclamado sea mayor a siete veces el salario mínimo general elevado al año, se tasará al 1 %;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -2347,13 +2425,15 @@ d) Modificaciones al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-XVII. Cancelación de inscripción o anotación: 2 cuotas.
+XVII. Cancelación de inscripción o anotación: 2 cuotas, y
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-No causarán derechos los servicios establecidos en el presente artículo, cuando deriven de programas de regularización de bienes inmuebles implementados por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
+XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: 30 cuotas.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -2533,11 +2613,11 @@ por hectárea o fracción 4.5 cuotas.
 
 b) Urbano, por m2 $2.00;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
 III. Expedición de constancia estatal de
 
-compatibilidad urbanística: 7 cuotas
+compatibilidad urbanística: 8 cuotas
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -2613,6 +2693,16 @@ VII. Costo por inscripción a licitaciones de suministros, servicios y arrendami
 
 Las verificaciones posteriores a que se refiere el artículo anterior, deberán solicitarse anualmente, durante el mes de enero.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 60 BIS.- Los servicios prestados por concepto de:
+
+I. Elaboración de oficio de cancelación de garantía hipotecaria, reserva de dominio o límites establecidos en los contratos privados emitidos en su momento por el Instituto Zacatecano de la Vivienda Social............................9 cuotas;
+
+II. Elaboración de convenio de subsanación de escritura; con relación a los contratos privados emitidos por el entonces Instituto Zacatecano de la Vivienda Social...................................................................14 cuotas, y
+
+III. Expedición de títulos y escrituras privadas, respecto a los programas de vivienda que ejecuta la Secretaría de Infraestructura.................46 cuotas.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO VII. SERVICIOS DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
@@ -2649,6 +2739,12 @@ V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
 VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 61 BIS.- Los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, financiadas con recursos provenientes del Ramo General 33, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones.
+
+La Secretaría de Finanzas o en su caso los organismos descentralizados, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el presente artículo. Cuando sean los organismos públicos descentralizados los que retengan el derecho que refiere este artículo, lo enterarán a la Secretaría de Finanzas.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO VIII. SERVICIOS DE LA SECRETARÍA DE EDUCACIÓN
@@ -2677,9 +2773,9 @@ a) Preescolar, primaria o secundaria $ 25.00;
 
 b) Academias $ 30.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-c) Nivel medio superior $ 30.00;
+c) Nivel medio superior $ 34.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2841,21 +2937,23 @@ c) Tipo Superior 14 cuotas;
 
 XIX. Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-a) De tipo inicial y preescolar $ 6.00;
+a) De tipo inicial y preescolar $ 7.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-b) De tipo elemental $ 8.00;
+b) De tipo elemental $ 9.00;
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-c) De tipo medio, academias comerciales o centros de capacitación para el trabajo $10.00;
+c) De tipo medio, academias comerciales o centros
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+de capacitación para el trabajo $11.00;
 
-d) De tipo superior $ 15.00;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+d) De tipo superior $ 18.00;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -2899,9 +2997,41 @@ b) Medio superior $ 40.00;
 
 XXVIII. Por solicitud, estudio y resolución del trámite de autorización para impartir educación primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad 15 cuotas;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-XXIX. Por solicitud, estudio y resolución de trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial 59 cuotas.
+XXIX. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial:………………………………………………....59 cuotas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+XXX. Registro de Federación de Colegios de profesionistas.................................................................79 cuotas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+XXXI. Solicitud de alta de nuevos Colegios a una Federación de Colegios de Profesionistas..................................................................9 cuotas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+XXXII. Solicitud de cambio de Consejo Directivo de un Colegio de Profesionistas o Federación de colegios de profesionistas.........................9 cuotas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+XXXIII. Solicitud de cambio de denominación de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas…..................8 cuotas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+XXXIV. Solicitud de cambio de estatutos de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas.........................................8 cuotas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+XXXV. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de nivel superior con reconocimiento de validez oficial de estudios...... .......................................................................................68 cuotas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+XXXVI. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de educación primaria, secundaria, normal y demás para la formación de maestros, sea cual fuera la modalidad.......................................................20 cuotas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+XXXVII. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de niveles de preescolar y medio superior o equivalente y de formación para el trabajo, sea cual fuera la modalidad...............................................20 cuotas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -2937,43 +3067,39 @@ IV. Inscripción a concurso de obra por invitación 22 cuotas.
 
 ### CAPÍTULO X. SERVICIOS DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 63 BIS.- Por los servicios prestados a las empresas de seguridad privada; por concepto de:
+ARTICULO 63 BIS.- Los servicios prestados a las empresas de seguridad privada, por concepto de:
 
-I. Expedición de autorizaciones, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
+I. Expedición de autorización, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
 
-a) De vigilancia de inmuebles 250 cuotas,
+a) De vigilancia de inmuebles…..............................250 cuotas;
 
-b) Protección y vigilancia de personas y bienes 250 cuotas.
+b) Protección y vigilancia de personas y bienes…..250 cuotas;
 
-II. Expedición de autorización, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
+c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo.................................................................300 cuotas;
 
-a) Instalación, mantenimiento y operación de sistemas 300 cuotas.
+d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo...............................................................150 cuotas;
 
-y equipos de seguridad
+e) Traslado y custodia de bienes, fondos y valores....................................................................500 cuotas;
 
-III. Expedición de autorización, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
+II. Expedición de revalidación, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
 
-a) De traslado y custodia de bienes, fondos y valores 500 cuotas.
+a) De vigilancia de inmuebles...............................230 cuotas;
 
-IV. Expedición de autorización, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
+b) Protección y vigilancia de personas y bienes.....................................................................230 cuotas;
 
-a) Instalación, mantenimiento y venta de sistemas y 150 cuotas.
+c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo………………………………..............280 cuotas;
 
-equipos de seguridad, sin monitoreo
+d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo..............................................................130 cuotas;
 
-IV (SIC). Expedición de revalidación para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
+e) Traslado y custodia de bienes, fondos y valores...................................................................480 cuotas;
 
-a) Instalación, mantenimiento y operación de sistemas 250 cuotas.
+III. Modificación de la autorización para prestar servicios de seguridad privada que realizan los particulares en el Estado de Zacatecas.........100 cuotas, y
 
-y equipos de seguridad
+IV. Por cambio de representante legal de las empresas prestadoras de servicios de seguridad privada....................................................................50 cuotas.
 
-VII (SIC). Modificación de la autorización o, en su caso, de la revalidación por la prestación de servicios de seguridad privada que realizan los particulares en el Estado de Zacatecas 100 cuotas.
-
-VIII (SIC). Por cambio de Representante Legal de las 50 cuotas.
-
-empresas prestadoras de servicios de seguridad privada
+La autorización y revalidación que refieren las fracciones I y II del presente artículo, serán vigentes por el ejercicio fiscal en que se expidan.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -3001,25 +3127,31 @@ f) Prelibertad 2 cuotas.
 
 Los servicios prestados en materia de Transporte y Tránsito, por concepto de:
 
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 41, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DE LA PRESENTE FRACCIÓN</small>
+
 I. Por expedición de licencia de manejo, incluido el examen médico para tal efecto:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+Tipo 2 años 4 años 6 años
 
-a) Operador de servicio público 7 cuotas;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+a) Operador
 
-b) Chofer 9 cuotas;
+de servicio
 
-c) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2004)
+público 5.5 cuotas 9 cuotas 11 cuotas;
 
-> <small>(REFORMADO [N. DE E. ANTES INCISO E], P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-d) Automovilista (plastificada) 8 cuotas;
+b) Chofer 6.5 cuotas 11 cuotas 13 cuotas;
 
-> <small>(REFORMADO [N. DE E. ANTES INCISO F], P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-e) Motociclista 3 cuotas;
+c) Automovilista 5.5 cuotas 10 cuotas 12 cuotas;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+d) Motociclista 3.5 cuotas 6 cuotas 8 cuotas;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2003)</small>
 
@@ -3037,9 +3169,9 @@ b) Toxicológico 6 cuotas.
 
 III. Expedición de permiso provisional de manejo para mayores de 16 años y menores de 18 años incluido certificado médico, hasta por 90 días: 2 cuotas;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-IV. Vehículo depositado en los recintos de tránsito, por día: $ 25.00;
+IV. Vehículo depositado en los recintos de tránsito, por día 0.50 cuotas;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
@@ -3321,9 +3453,17 @@ de manejo especial
 
 XI. Trámite de certificación ambiental 20 cuotas.
 
-### CAPITULO XII. OTROS DERECHOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XI BIS. SERVICIOS DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 67 BIS.- Los servicios que preste la Procuraduría General de Justicia del Estado, por concepto de pruebas periciales:
+
+(VÉASE ARCHIVO ANEXO)
+
+### CAPITULO XII. OTROS DERECHOS
 
 ###### ARTICULO 68.
 
@@ -3353,9 +3493,9 @@ d) Por cada foja excedente correspondiente
 
 a asuntos de cualquier año $ 10.00.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-II. Certificado de no antecedentes penales 1 cuota.
+II. Certificado de no antecedentes penales 1.5 cuotas
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -3367,9 +3507,9 @@ III. Actas que se expidan en los kioscos de servicios electrónicos de Gobierno 
 
 El pago de derechos, a que se refieren los artículos 68 y 69, por servicios que presten las autoridades judiciales, se enterarán en las oficinas recaudadoras de la Secretaría de Finanzas. De conformidad con el convenio que al efecto se suscriba, los montos serán transferidos al Fondo Auxiliar para el mejoramiento de la Administración de Justicia, con independencia del presupuesto anual de egresos que corresponda al Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 69 BIS.- Los servicios que prestan las dependencias y entidades de la Administración Pública a que se refieren los artículos 10 y 36 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, por los documentos físicos o que en medios magnéticos le sean solicitados en materia del derecho a la información pública, se cobrará conforme a lo siguiente:
+ARTICULO 69 BIS.- Los servicios que prestan las dependencias y entidades de la Administración Pública Centralizada a que se refieren los artículos 22 y 44 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, por los documentos físicos o que en medios magnéticos le sean solicitados en materia del derecho a la información pública, se cobrará conforme a lo siguiente:
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -3437,7 +3577,21 @@ extranjero 10 cuotas
 
 Las mismas cuotas y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los Poderes Legislativo y Judicial y que le sean solicitados en materia de acceso a la información pública. Lo anterior sin perjuicio de las exenciones o no causación de derechos por estos conceptos previstas en otras leyes.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 69 TER.- Por el derecho de expedición de certificados del Instituto de Selección y Capacitación del Estado de Zacatecas, se cobrarán 72 cuotas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 69 QUATER.- Por los servicios que presta el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas:
+
+I. Expedición de títulos y escrituras privadas de propiedad, respecto del Programa Estatal de regularización de la Tenencia de la Tierra Urbana......................... 46 cuotas, y
+
+II. Expedición de documentos privados individuales para la obtención del dominio pleno de los inmuebles sujetos al régimen de fraccionamientos rurales ................ 46 cuotas.
+
 ## TITULO IV. DE LOS PRODUCTOS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 70.
 
@@ -3742,3 +3896,9 @@ P.O. 18 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1° de enero de (sic) año 2014, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
