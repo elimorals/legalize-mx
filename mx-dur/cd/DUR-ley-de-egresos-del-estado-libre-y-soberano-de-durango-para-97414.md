@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-egresos-del-estado-libre-y-soberano-de-durango-para-9741
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-15"
-last_updated: "2013-12-15"
+last_updated: "2013-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "DUR"
 ---
 # LEY DE EGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL 2014
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2013 EN EL PERIÓDICO OFICIAL DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL 2014
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2014.</small>
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2013.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 15 de diciembre de 2013.
 
@@ -35,7 +35,9 @@ EL CIUDADANO CONTADOR PÚBLICO JORGE HERRERA CALDERA GOBERNADOR CONSTITUCIONAL D
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-Con fecha 03 de diciembre del presente año, el C. C.P. JORGE HERRERA CALDERA, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE DURANGO, envió a esta H. LXVI Legislatura del Estado, Iniciativa de Decreto que contiene LEY DE EGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO, PARA EL EJERCICIO FISCAL DEL AÑO 2014; misma que fue turnada a la Comisión de Hacienda, Presupuesto y Cuenta Pública integrada por los CC. Diputados: Carlos Matuk López de Nava, Héctor Eduardo Vela Valenzuela, Marco Aurelio Rosales Saracco, Ricardo del Rivero Martínez y Eduardo Salís Nogueira: Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2013)</small>
+
+Con fecha 30 de noviembre del presente año, el C. C.P. JORGE HERRERA CALDERA, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE DURANGO, envió a esta H. LXVI Legislatura del Estado, Iniciativa de Decreto que contiene LEY DE EGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO, PARA EL EJERCICIO FISCAL DEL AÑO 2014; misma que fue turnada a la Comisión de Hacienda, Presupuesto y Cuenta Pública integrada por los CC. Diputados: Carlos Matuk López de Nava, Héctor Eduardo Vela Valenzuela, Marco Aurelio Rosales Saracco, Ricardo del Rivero Martínez y Eduardo Salís Nogueira: Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
 C O N S I D E R A N D O S…
 
