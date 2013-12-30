@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vialidad-para-el-estado-libre-y-soberano-de-puebla-91334
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -463,9 +463,17 @@ Son vehículos de servicio de transporte con los que se lleva a cabo de manera c
 
 Se incluyen dentro de ésta categoría, aquellos vehículos que prestan el servicio mercantil por el tipo de actividad comercial que desarrollan sus propietarios, prestan un servicio a terceros o el que llevan a cabo sus propietarios como parte de sus actividades comerciales y que están regulados y controlados mediante autorización expedida por la autoridad competente, de conformidad con la presente Ley y demás aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 27.
 
-Tienen paso preferente aquellos vehículos que cumplen funciones de seguridad o emergencia, sean éstos de instituciones públicas o privadas, por lo que deberán estar identificados como tales, y en su caso, contar con la autorización que para tal efecto establecen los ordenamientos legales correspondientes.
+Tienen paso preferente aquellos vehículos que cumplen funciones de seguridad o emergencia, sean éstos de instituciones públicas o privadas, por lo que deberán estar identificados como tales, y en su caso, contar con la autorización que para tal efecto establecen los ordenamientos legales correspondientes. Los vehículos de emergencia, deben circular con las señales de sonido y luminosas funcionando.
+
+Son vehículos de emergencia aquéllos que proporcionen a la comunidad asistencia médica de emergencia, de auxilio, de vigilancia o de rescate y que cuenten con autorización para ello, tales como ambulancias, vehículos del cuerpo de bomberos, patrullas y los vehículos de rescate.
+
+Los vehículos destinados a la prestación de servicios de emergencia, cuando se encuentren en servicio, podrán circular por carriles exclusivos o de contraflujo, en cuyo caso deben circular con torretas encendidas y la sirena abierta.
+
+Los conductores estarán obligados a permitir el paso de los vehículos de emergencia cuando adviertan las señales de sonido y luminosas funcionando.
 
 ###### ARTÍCULO 28.
 
@@ -638,3 +646,11 @@ En tanto no se expida el Reglamento de esta Ley, se seguirá aplicando el Reglam
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil doce.- Diputado Presidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- RAMÓN FELIPE LÓPEZ CAMPOS.- Rúbrica.- Diputado Secretario.- JESÚS SALVADOR ZALDÍVAR BENAVIDES.- Rúbrica.- Diputado Secretario.- ALEJANDRO OAXACA CARREÓN.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de diciembre de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
