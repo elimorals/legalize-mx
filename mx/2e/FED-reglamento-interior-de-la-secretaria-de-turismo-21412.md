@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-turismo-21412"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-15"
-last_updated: "2010-02-17"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21412&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-06-13"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE FEBRERO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 15 de junio de 2001.
 
@@ -847,7 +849,7 @@ XIX. Definir las normas para el uso de los bienes informáticos y para la explot
 
 (DEROGADO, D.O.F. 14 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPÍTULO VII. De los Órganos Administrativos Desconcentrados
 
@@ -885,7 +887,7 @@ VII. Suscribir convenios para el préstamo e intercambio de material documental,
 
 VIII. Las demás que expresamente determine el titular de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 25 Ter.
 
@@ -981,7 +983,7 @@ SÉPTIMO.- Corresponderá al titular de la Secretaría de Turismo resolver las d
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de junio de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- La Secretaria de Turismo, Bertha Leticia Navarro Ochoa.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 9 DE AGOSTO DE 2002.
 
@@ -1018,3 +1020,27 @@ D.O.F. 24 DE AGOSTO DE 2009.
 D.O.F. 17 DE FEBRERO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A la entrada en vigor del presente ordenamiento quedará abrogado el Reglamento Interior de la Secretaría de Turismo, publicado en el Diario Oficial de la Federación el 15 de junio de 2001, y se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+TERCERO.- Los asuntos en trámite ante las unidades administrativas que se extinguen, en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les otorga la atribución o competencia correspondiente en el presente Reglamento.
+
+Los procedimientos y asuntos que se encuentren en trámite o pendientes de resolución al momento de la entrada en vigor del presente Reglamento, se tramitarán y resolverán de conformidad con las disposiciones jurídicas aplicables vigentes al momento en el que se iniciaron.
+
+CUARTO.- En casos de duda respecto de la unidad administrativa u órgano administrativo desconcentrado que deba continuar con la atención de los asuntos, corresponderá al Secretario la determinación de la unidad administrativa competente, con la opinión de la Dirección General de Asuntos Jurídicos.
+
+QUINTO.- Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia del presente Reglamento deba ser ejercida por alguna otra unidad de las que el mismo establece, los recursos humanos, materiales y financieros que correspondan pasarán a la unidad administrativa que sea competente.
+
+SEXTO.- Corresponderá al Titular de la Secretaría de Turismo, determinar el destino de los recursos humanos, materiales y financieros de las unidades administrativas que desaparecen, por virtud de la entrada en vigor de este Reglamento, de conformidad con las disposiciones jurídicas aplicables.
+
+SÉPTIMO.- En las transferencias y readscripciones de personal, así como en las eventuales bajas, se respetarán en todo caso los derechos laborales de los servidores públicos.
+
+OCTAVO.- La Secretaría expedirá, dentro de los 60 días hábiles posteriores a la entrada en vigor del presente reglamento el Acuerdo por el que se especificará la circunscripción territorial de las delegaciones regionales.
+
+NOVENO.- Las referencias que se hacen y las facultades que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en éste.
+
+DÉCIMO.- En tanto se expidan los manuales que en el presente Reglamento se determinan, se continuarán aplicando los vigentes sólo en lo que no se opongan al presente ordenamiento.
