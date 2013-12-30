@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-uso-y-conservacion-de-las-areas-objetos-1765
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-14"
-last_updated: "2009-07-17"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17655&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2000-11-09"
 ---
 # REGLAMENTO PARA EL USO Y CONSERVACION DE LAS AREAS, OBJETOS Y COLECCIONES DE PALACIO NACIONAL
 
-REGLAMENTO PARA EL USO Y CONSERVACION DE LAS AREAS, OBJETOS Y COLECCIONES DE PALACIO NACIONAL
+REGLAMENTO PARA EL USO Y CONSERVACIÓN DE LAS ÁREAS, OBJETOS Y COLECCIONES DE PALACIO NACIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL USO Y CONSERVACIÓN DE LAS ÁREAS, OBJETOS Y COLECCIONES DE PALACIO NACIONAL, PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 14 de noviembre de 2000.
 
@@ -43,7 +45,7 @@ La Conservaduría de Palacio Nacional estará a cargo de un Director General den
 
 Por Palacio Nacional se entenderá el inmueble ubicado en el Distrito Federal, que se encuentra inscrito, con fecha 15 de julio de 1994, en el folio real número 34360 del Registro Público de la Propiedad Federal, cuyas colindancias son al Norte la calle de Moneda, al Sur la calle de Corregidora, al Este la calle de Correo Mayor y al Oeste la Plaza de la Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 3o.
 
@@ -71,7 +73,7 @@ VII. Un representante de la Consejería Jurídica del Ejecutivo Federal.
 
 Cada integrante del órgano intersecretarial contará con un suplente, en los términos previstos por las Reglas Internas de Operación que para tal efecto se emitan.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 4o.
 
@@ -165,7 +167,7 @@ I. El inventario y catalogación analítica que deberán contener como mínimo l
 
 II. El registro de los movimientos a que se refiere el artículo siguiente, así como las restauraciones que se efectúen en cada pieza y de bibliografía disponible sobre dichos objetos y colecciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -275,7 +277,7 @@ CUARTO. El Conservador de Palacio Nacional realizará los actos necesarios ante 
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal en la Ciudad de México, a los nueve días del mes de noviembre de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Defensa Nacional, Enrique Cervantes Aguirre.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Contraloría y Desarrollo Administrativo, Arsenio Farell Cubillas.- Rúbrica.- El Secretario de Educación Pública, Miguel Limón Rojas.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 4 DE DICIEMBRE DE 2006.
 
@@ -288,3 +290,13 @@ D.O.F. 18 DE DICIEMBRE DE 2006.
 D.O.F. 17 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional publicado en el Diario Oficial de la Federación el 14 de noviembre de 2000, y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Oficina de la Presidencia de la República transferirá a la Secretaría de Hacienda y Crédito Público los recursos humanos, financieros y materiales asignados a la Conservaduría de Palacio Nacional, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La Coordinación General de Administración de la Presidencia de la República y la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público acordarán las acciones necesarias para dar cumplimiento a lo dispuesto en el párrafo anterior.
