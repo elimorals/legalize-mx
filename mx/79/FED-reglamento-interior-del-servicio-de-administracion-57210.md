@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-57210"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-22"
-last_updated: "2012-07-13"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57210&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-10-17"
 
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 22 de octubre de 2007.
 
@@ -144,6 +144,10 @@ d) Administración Central de Normatividad de Impuestos Internos.
 e) Administración Central de Normatividad de Comercio Exterior y Aduanal.
 
 f) Administración Central de Asuntos Penales y Especiales.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+g) Administración Central de Asuntos Jurídicos de Actividades Vulnerables.
 
 VI.- Administración General de Recaudación:
 
@@ -303,6 +307,10 @@ XXI.- Constituir las instancias de consulta y los comités especializados a que 
 
 XXII.- Aquellas que le confiere el artículo 14 de la Ley del Servicio de Administración Tributaria o cualquier otra disposición jurídica.
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXIII.- Aquellas que le confiere el artículo 4 del Reglamento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y demás disposiciones jurídicas aplicables.
+
 La administración, representación, dirección, supervisión y coordinación de las unidades administrativas, así como de los servidores públicos del Servicio de Administración Tributaria, recaerán directamente en el Jefe de dicho órgano desconcentrado.
 
 La máxima autoridad administrativa del Servicio de Administración Tributaria recae en el Jefe de ese órgano desconcentrado, a quien le corresponde originalmente el ejercicio de las atribuciones, competencia de dicho órgano. Sin perjuicio de lo dispuesto por el artículo 4 de este Reglamento, el Jefe del Servicio de Administración Tributaria podrá delegar mediante acuerdo las atribuciones que de conformidad con este Reglamento, así como de otros ordenamientos, correspondan al ámbito de su competencia, en los servidores públicos de las unidades administrativas adscritas al mencionado órgano desconcentrado. El citado acuerdo de delegación de facultades se publicará en el Diario Oficial de la Federación.
@@ -375,6 +383,10 @@ El Jefe del Servicio de Administración Tributaria será suplido en sus ausencia
 
 Los Administradores Generales serán suplidos por los Administradores Centrales y Coordinadores adscritos a su respectiva Administración General, en el orden en el que se enumeran en el artículo 2 de este Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+El Jefe del Servicio de Administración Tributaria y los Administradores Generales de Servicios al Contribuyente, de Auditoría Fiscal Federal y de Auditoría de Comercio Exterior, serán suplidos en sus ausencias y exclusivamente para la resolución del recurso de revisión a que se refiere el artículo 61 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, por el Administrador Central de Asuntos Jurídicos de Actividades Vulnerables.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2012)</small>
@@ -384,6 +396,10 @@ Los Administradores Centrales serán suplidos por los Administradores o Coordina
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
 Los Administradores Regionales y Locales y los Coordinadores serán suplidos por los Administradores o Subadministradores que de ellos dependan, en el orden en que se mencionan en este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+Los Administradores Locales de Servicios al Contribuyente y de Auditoría Fiscal Federal, así como los Administradores Regionales de Auditoría de Comercio Exterior, serán suplidos en sus ausencias y exclusivamente para la resolución del recurso de revisión a que se refiere el artículo 61 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, por los Administradores Locales Jurídicos dentro de la circunscripción territorial que a cada uno le corresponda.
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
@@ -525,9 +541,13 @@ L.- Proporcionar a las instancias competentes en materia de seguridad nacional l
 
 LI.- Dar a conocer a los servidores públicos adscritos a las unidades administrativas a su cargo, los manuales de procedimientos, de operación, de organización general y específicos, los de servicio al público, así como las disposiciones jurídicas e instrucciones que emitan las unidades administrativas competentes, que resulten aplicables en el desempeño de las funciones que tengan conferidas.
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+LII.- Implementar los acuerdos y coordinar las acciones en el ámbito de su competencia, respecto de las facultades que le correspondan al Servicio de Administración Tributaria, para el cumplimiento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables.
+
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2010)</small>
 
-LII.- Las demás facultades que en el ámbito de sus respectivas competencias atribuyan al Servicio de Administración Tributaria las leyes, reglamentos y demás disposiciones aplicables o que les confiera el Jefe del Servicio de Administración Tributaria.
+LIII.- Las demás facultades que en el ámbito de sus respectivas competencias atribuyan al Servicio de Administración Tributaria las leyes, reglamentos y demás disposiciones aplicables o que les confiera el Jefe del Servicio de Administración Tributaria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -555,7 +575,9 @@ III.- Supervisar el cumplimiento de las disposiciones legales y administrativas 
 
 IV.- Nombrar, remover o comisionar, conforme a los ordenamientos aplicables, a los servidores públicos, verificadores, notificadores y ejecutores de las unidades administrativas a su cargo.
 
-Además de las señaladas en las fracciones anteriores, los Administradores Centrales y los Coordinadores ejercerán las facultades contenidas en las fracciones XX, XXVIII, XXIX, XLV y XLVI del artículo anterior.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+Además de las señaladas en las fracciones anteriores, los Administradores Centrales y los Coordinadores ejercerán las facultades contenidas en las fracciones XX, XXVIII, XXIX, XLV, XLVI y LII del artículo anterior.
 
 > <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2010)</small>
 
@@ -1653,6 +1675,10 @@ g) Administrador de Fiscalización Estratégica “6”.
 
 h) Administrador de Fiscalización Estratégica “7”.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+i) Administración Especializada en Verificación de Actividades Vulnerables.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2012)</small>
@@ -2721,7 +2747,15 @@ c) Administrador de Asuntos Penales y Especiales “3”.
 
 d) Administrador de Asuntos Penales y Especiales “4”.
 
-7. Administradores Locales Jurídicos.
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+7. Administración Central de Asuntos Jurídicos de Actividades Vulnerables:
+
+a) Administración de Asuntos Jurídicos de Actividades Vulnerables “1”.
+
+b) Administración de Asuntos Jurídicos de Actividades Vulnerables “2”.
+
+8. Administradores Locales Jurídicos.
 
 La Administración General Jurídica contará adicionalmente con el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -4459,6 +4493,220 @@ Los servidores públicos a que se refiere el párrafo anterior ejercerán, en el
 
 El Servicio de Administración Tributaria proporcionará al Titular del Órgano Interno de Control los recursos humanos, materiales y financieros que requiera para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Servicio de Administración Tributaria están obligados a proporcionar el auxilio que requiera el Órgano Interno de Control para el desempeño de sus facultades.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+### Capítulo XIV. De las facultades previstas en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 40.
+
+Compete a la Administración General de Servicios al Contribuyente, en materia de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables, ejercer las siguientes facultades:
+
+I.- Establecer, en coordinación con la Secretaría de Hacienda y Crédito Público, los programas, actividades, lineamientos, directrices, y procedimientos, así como coordinar las acciones que le correspondan al Servicio de Administración Tributaria para el cumplimiento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y las demás disposiciones jurídicas aplicables, en relación con las atribuciones previstas en el presente artículo.
+
+II.- Participar cuando así lo solicite la Secretaría de Hacienda y Crédito Público, en el diseño y formulación de las guías de apoyo y formatos oficiales para la presentación de los avisos de actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, así como para la implementación de los medios electrónicos requeridos para dicha presentación.
+
+III.- Emitir opinión cuando así lo solicite la Secretaría de Hacienda y Crédito Público sobre los formatos oficiales para el alta de quienes realicen las actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, así como participar, en coordinación con la Administración General de Comunicaciones y Tecnologías de la Información, en la determinación de los medios electrónicos para el alta de quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de la citada Ley.
+
+IV.- Integrar y mantener actualizado el padrón de las personas que realicen actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
+
+V.- Expedir el acuse de registro de las personas que realicen actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita; revisar la información que para tales efectos remitan dichas personas, así como la que remitan las entidades colegiadas, y en su caso, requerir la documentación soporte que permita corroborar la información proporcionada en su registro.
+
+VI.- Recibir de las personas que realicen las actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y de las entidades colegiadas, directamente o a través de las oficinas y medios electrónicos autorizados, los avisos, documentos de identificación y demás información relacionada con aquellas o sus clientes o usuarios, a que se refiere dicha Ley y su Reglamento, que no deban presentarse ante otras unidades administrativas del Servicio de Administración Tributaria.
+
+VII.- Vigilar la presentación de los avisos de actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y, en su caso, requerir la misma cuando las personas que realizan dichas actividades no lo hagan en los plazos y términos establecidos en la citada Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+
+VIII.- Imponer sanciones a las personas que realizan las actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita o a las entidades colegiadas por la omisión en la presentación de los avisos o informes, su presentación fuera de los plazos o términos establecidos en dicha Ley, su Reglamento y Reglas de Carácter General, o bien, por no atender los requerimientos de autoridad; así como informar a las autoridades competentes sobre las infracciones cometidas por dichas personas a efecto de que aquellas procedan a imponer las sanciones que correspondan, de conformidad con los artículos 56, 57, 58 y 59 de la citada Ley, y notificar los actos que emita relacionados con el ejercicio de sus facultades.
+
+IX.- Recibir, normar, tramitar y resolver las solicitudes de aclaración que presenten los sujetos obligados sobre cuestionamientos relacionados con el alta y la presentación de avisos de actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, así como de requerimientos e imposición de multas, a que se refiere dicha Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+
+X.- Prestar, a través de diversos canales de atención, los servicios de orientación en el cumplimiento de sus obligaciones a quienes realicen actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables.
+
+XI.- Requerir la información y documentación relacionada con los avisos de las actividades vulnerables a que se refiere el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y recibir las notificaciones de las entidades colegiadas respecto de cualquier cambio en la información y documentación que se presente.
+
+XII.- Dejar sin efectos sus propias resoluciones cuando se hayan emitido en contravención a la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables, siempre que la resolución no se encuentre firme, hubiere sido impugnada a través del recurso de revisión o juicio de nulidad, y medie solicitud de la Administración General Jurídica.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 41.
+
+Compete a las siguientes unidades administrativas de la Administración General de Servicios al Contribuyente ejercer las facultades que a continuación se indican:
+
+A. A la Administración Central de Servicios Tributarios al Contribuyente y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones II, VI, IX, X y XI del artículo anterior de este Reglamento.
+
+B. A la Administración Central de Promoción y Vigilancia del Cumplimiento y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones VII, VIII, IX y XII del artículo anterior de este Reglamento.
+
+C. A la Administración Central de Operación de Canales de Servicios y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones II y X del artículo anterior de este Reglamento.
+
+D. A la Administración Central de Identificación del Contribuyente y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones III, IV, V y IX del artículo anterior de este Reglamento.
+
+E. A la Administración Central de Cuenta Tributaria y Contabilidad de Ingresos y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones II y III del artículo anterior de este Reglamento.
+
+F. A las Administraciones Locales de Servicios al Contribuyente dentro de la circunscripción territorial que a cada una corresponda, ejercer las facultades señaladas en las fracciones IV, V, VI, VII, VIII, IX, X, XI y XII del artículo anterior de este Reglamento.
+
+Para el ejercicio de las facultades señaladas en este artículo, los titulares de las unidades administrativas serán auxiliados por los Administradores, Subadministradores, Jefes de Departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 42.
+
+Compete a la Administración General de Auditoría Fiscal Federal, en materia de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables, ejercer las siguientes facultades:
+
+I.- Establecer, en coordinación con la Secretaría de Hacienda y Crédito Público, los programas, actividades, lineamientos, directrices y procedimientos, así como coordinar acciones que correspondan al Servicio de Administración Tributaria para el cumplimiento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y las demás disposiciones jurídicas aplicables, en relación con las atribuciones previstas en este artículo.
+
+II.- Emitir opinión cuando así lo solicite la Secretaría de Hacienda y Crédito Público, respecto del diseño, formulación y determinación de las mejores prácticas para la elaboración y el envío de los formatos oficiales para la presentación de los avisos de actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
+
+III.- Fungir, en las materias del presente artículo, como enlace entre las unidades administrativas del Servicio de Administración Tributaria y las unidades administrativas de la Secretaría de Hacienda y Crédito Público o con cualquier otra autoridad competente para el cumplimiento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
+
+IV.- Elaborar el programa anual de visitas de verificación y de requerimientos de información y documentación a los sujetos que realizan actividades vulnerables establecidas en el artículo 17, con excepción de la fracción XIV, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y, en su caso, a las entidades colegiadas y órganos concentradores, así como solicitarles a estos datos, informes o documentos, para planear y programar los actos de verificación.
+
+V.- Ordenar y practicar visitas de verificación a quienes realicen las actividades vulnerables establecidas en el artículo 17, con excepción de la fracción XIV, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, a las entidades colegiadas y a los órganos concentradores, para lo cual podrá revisar, verificar y evaluar operaciones, información que sirva de soporte a la actividad vulnerable y la que identifique a sus clientes o usuarios, así como las demás que en materia de visitas de verificación considere la Ley Federal de Procedimiento Administrativo, para comprobar el cumplimiento de las obligaciones previstas en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables.
+
+VI.- Requerir a quienes realicen las actividades vulnerables establecidas en el artículo 17, con excepción de la fracción XIV, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, a las entidades colegiadas y a los órganos concentradores, información y documentación de operaciones que sirvan de soporte a la actividad vulnerable y la que identifique a sus clientes o usuarios; autorizar prórrogas para su presentación; y, en su caso, emitir el oficio en el que se haga constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido.
+
+VII.- Dejar sin efectos las órdenes de visita de verificación y los requerimientos de información que se formulen a los sujetos que realicen actividades vulnerables establecidas en el artículo 17, con excepción de la fracción XIV, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, a las entidades colegiadas o a los órganos concentradores.
+
+VIII.- Requerir y recabar de quienes realicen las actividades vulnerables establecidas en el artículo 17, con excepción de la fracción XIV, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, de las entidades colegiadas y de los órganos concentradores, información, documentación, datos e imágenes relacionadas con la información obtenida de otras personas o fuentes para el ejercicio de sus atribuciones, así como requerir la comparecencia de probables infractores y demás personas que puedan contribuir a la verificación del cumplimiento de las obligaciones derivadas de dicha Ley.
+
+IX.- Dar a conocer a quienes realicen las actividades vulnerables establecidas en el artículo 17, con excepción de la fracción XIV, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, a las entidades colegiadas y a los órganos concentradores, los hechos u omisiones que les sean imputables con motivo del ejercicio de sus facultades de verificación y hacer constar dichos hechos y omisiones en el acta que al efecto se levante; así como recibir y valorar los argumentos y pruebas que estos exhiban para desvirtuar dichos hechos y omisiones.
+
+X.- Notificar los actos que emita relacionados con el ejercicio de sus facultades.
+
+XI.- Hacer del conocimiento de la unidad administrativa competente de la Secretaría de Hacienda y Crédito Público, los resultados de las visitas de verificación, así como de los requerimientos de información y documentación a que se refiere este artículo.
+
+XII.- Imponer sanciones derivadas del incumplimiento de cualquier obligación prevista en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables por parte de quienes realicen las actividades vulnerables establecidas en el artículo 17, con excepción de la fracción XIV, de la citada Ley, a las entidades colegiadas o a los órganos concentradores.
+
+XIII.- Informar a las autoridades competentes sobre las infracciones cometidas por las personas que realicen actividades vulnerables establecidas en el artículo 17, con excepción de la fracción XIV, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, a efecto de que aquellas procedan a imponer las sanciones que correspondan de conformidad con los artículos 56, 57 y 58 de la citada Ley.
+
+XIV.- Proporcionar a la unidad administrativa competente de la Secretaría de Hacienda y Crédito Público, la información que en uso de sus facultades referidas en el presente artículo obtenga, para la presentación de denuncias o querellas ante el Ministerio Público de la Federación por los hechos que puedan constituir conductas delictivas.
+
+XV.- Instruir la integración de los expedientes relacionados con los asuntos a que se refiere este artículo, así como supervisar su resguardo y, en su caso, actualizar la base de datos de los expedientes generados por las unidades administrativas a su cargo, de conformidad con las disposiciones contenidas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones jurídicas aplicables.
+
+XVI.- Supervisar que el representante de la entidad colegiada cumpla con la capacitación a la que está obligado de conformidad con lo previsto en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 43.
+
+Compete a las siguientes unidades administrativas de la Administración General de Auditoría Fiscal Federal ejercer las facultades que a continuación se indican:
+
+A. A la Administración Central de Fiscalización Estratégica y a la Administración Especializada en Verificación de Actividades Vulnerables, las señaladas en el artículo anterior de este Reglamento, con excepción de las fracciones IV y XVII.
+
+B. A la Administración Central de Planeación y Programación de Auditoría Fiscal Federal, la señalada en la fracción IV del artículo anterior de este Reglamento.
+
+C. A las Administraciones Locales de Auditoría Fiscal Federal, dentro de la circunscripción territorial que a cada una corresponda, ejercer las facultades señaladas en las fracciones V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI del artículo anterior de este Reglamento.
+
+Para el ejercicio de las facultades señaladas en este artículo, los titulares de las unidades administrativas serán auxiliados por los Administradores, Subadministradores, Jefes de Departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 44.
+
+Compete a la Administración General Jurídica, a la Administración Central de Asuntos Jurídicos de Actividades Vulnerables y a las Administraciones de Asuntos Jurídicos de Actividades Vulnerables "1" y "2", en materia de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables, ejercer las siguientes facultades:
+
+I.- Establecer mecanismos de coordinación e intercambio de información y documentación con la Secretaría de Hacienda y Crédito Público, relacionados con la realización de acciones para el cumplimiento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento, respecto de las atribuciones que correspondan al Servicio de Administración Tributaria.
+
+II.- Participar, en coordinación con las unidades competentes de la Secretaría de Hacienda y Crédito Público, en el estudio y elaboración de iniciativas de leyes o decretos; reglamentos, decretos y acuerdos del Presidente de la República y en las demás disposiciones jurídicas aplicables en la materia a que se refiere este artículo.
+
+III.- Participar, en conjunto con la unidad administrativa competente de la Secretaría de Hacienda y Crédito Público, en la suscripción de los convenios con las entidades colegiadas.
+
+IV.- Recibir las solicitudes que presenten las entidades colegiadas para la celebración de convenios con el Servicio de Administración Tributaria; revisar sus anexos, cotejarlos y verificar que las solicitudes cumplan con los requisitos previstos en las disposiciones jurídicas aplicables, y recibir la notificación de extinción, disolución o liquidación de las referidas entidades.
+
+V.- Prevenir a las entidades colegiadas cuando el envío de información y documentación para su identificación haya sido de forma incompleta, equívoca o incongruente, indicando los datos a aclarar o corregir respecto de la documentación o información de que se trate, así como desechar la solicitud de inscripción, en caso de que no se desahogue la prevención respectiva, o en su defecto, aprobar la solicitud de referencia.
+
+VI.- Representar al Servicio de Administración Tributaria ante las autoridades administrativas y jurisdiccionales competentes en la materia a que se refiere este artículo.
+
+VII.- Promover e interponer, cuando corresponda, toda clase de juicios y recursos para la defensa de los intereses del Servicio de Administración Tributaria en relación con los procedimientos jurisdiccionales y administrativos en que intervenga, en los asuntos que incidan en la materia a que se refiere este artículo.
+
+VIII.- Tramitar y atender los requerimientos y resoluciones de las autoridades jurisdiccionales o administrativas, así como solicitar la intervención de las unidades administrativas del Servicio de Administración Tributaria y demás autoridades respecto de los asuntos a que se refiere este artículo.
+
+IX.- Designar y dirigir a los servidores públicos que serán autorizados o acreditados para que intervengan ante las autoridades administrativas y jurisdiccionales en el trámite y seguimiento de los asuntos a que se refiere este artículo.
+
+X.- Designar a los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los procedimientos administrativos y jurisdiccionales relacionados con los asuntos a que se refiere este artículo.
+
+XI.- Imponer las sanciones que le correspondan por incumplimiento de cualquier obligación prevista en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables en las materias a que se refiere este artículo; informar a las autoridades competentes sobre las infracciones cometidas por las personas que realicen actividades vulnerables establecidas en el artículo 17 de la citada Ley, a efecto de que aquellas procedan a imponer las sanciones que correspondan, de conformidad con los artículos 56, 57, 58 y 59 de la Ley, así como notificar los actos que emita relacionados con el ejercicio de sus facultades.
+
+Para el ejercicio de las facultades señaladas en este artículo, los Titulares de las unidades administrativas serán auxiliados por los Subadministradores, Jefes de Departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 45.
+
+Compete a las Administraciones Locales Jurídicas, dentro de la circunscripción territorial que a cada una corresponda, ejercer las facultades señaladas en las fracciones VI, VII, VIII, IX, X y XI del artículo anterior de este Reglamento.
+
+Para el ejercicio de las facultades señaladas en este artículo, los Titulares de las unidades administrativas serán auxiliados por los Subadministradores, Jefes de Departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 46.
+
+Compete a la Administración General de Recaudación, a la Administración Central de Notificación y a las Administraciones Locales de Recaudación en materia de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables, notificar todo tipo de actos administrativos, citatorios, requerimientos y solicitud de informes que emitan las unidades administrativas del Servicio de Administración Tributaria, derivado de la aplicación de la citada Ley y su Reglamento, así como habilitar a terceros para que realicen notificaciones.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 47.
+
+Compete a la Administración General de Comunicaciones y Tecnologías de la Información y a sus administraciones centrales, en materia de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables, ejercer las siguientes facultades:
+
+I.- Participar, en coordinación con la Secretaría de Hacienda y Crédito Público, en la determinación, implementación y vigilancia de medios electrónicos para el alta de las personas que realicen actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y para la identificación de las entidades colegiadas, así como para la recepción de los avisos correspondientes en términos de citada Ley (sic) y su Reglamento.
+
+II.- Notificar los actos que emitan relacionados con el ejercicio de sus facultades.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 48.
+
+Compete a la Administración General de Auditoría de Comercio Exterior, en materia de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables, ejercer las siguientes facultades:
+
+I.- Emitir opinión cuando así lo solicite la Secretaría de Hacienda y Crédito Público, respecto del diseño, formulación y determinación de las mejores prácticas para la elaboración y el envío de los formatos oficiales para la presentación de los avisos de actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
+
+II.- Participar en la implementación de acuerdos y coordinar acciones en los asuntos a que se refiere este artículo, para el cumplimiento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables.
+
+III.- Elaborar el programa anual de visitas de verificación y de requerimientos de información y documentación a los sujetos que realizan actividades vulnerables establecidas en la fracción XIV del artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, así como solicitarles a estos datos, informes o documentos, para planear y programar los actos de verificación.
+
+IV.- Ordenar y practicar visitas de verificación a quienes realicen las actividades vulnerables establecidas en la fracción XIV del artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, para lo cual podrá revisar, verificar y evaluar operaciones, información que sirva de soporte a la actividad vulnerable y la que identifique a sus clientes o usuarios, así como las demás que en materia de visitas de verificación considere la Ley Federal de Procedimiento Administrativo, para comprobar el cumplimiento de las obligaciones previstas en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables.
+
+V.- Requerir a quienes realicen las actividades vulnerables establecidas en la fracción XIV del artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, información y documentación de operaciones que sirvan de soporte a la actividad vulnerable y la que identifique a sus clientes o usuarios, con el propósito de comprobar el cumplimiento de las obligaciones derivadas de dicha Ley; autorizar prórrogas para su presentación; y, en su caso, emitir el oficio en el que se haga constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido.
+
+VI.- Dejar sin efectos las órdenes de visita de verificación y los requerimientos de información que se formulen a los sujetos que realicen actividades vulnerables establecidas en la fracción XIV del artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
+
+VII.- Requerir y recabar de quienes realicen las actividades vulnerables establecidas en la fracción XIV del artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, información, documentación, datos e imágenes relacionadas con la información obtenida de otras personas o fuentes para el ejercicio de sus atribuciones, así como requerir la comparecencia de probables infractores y demás personas que puedan contribuir a la verificación del cumplimiento de las obligaciones derivadas de dicha Ley.
+
+VIII.- Dar a conocer a quienes realicen las actividades vulnerables establecidas en la fracción XIV del artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, los hechos u omisiones que les sean imputables con motivo del ejercicio de sus facultades de verificación y hacer constar dichos hechos y omisiones en el acta que al efecto se levante; así como recibir y valorar los argumentos y pruebas que estos exhiban para desvirtuar dichos hechos y omisiones.
+
+IX.- Notificar los actos que emita relacionados con el ejercicio de sus facultades.
+
+X.- Hacer del conocimiento de la unidad administrativa competente de la Secretaría de Hacienda y Crédito Público, los resultados de las visitas de verificación, así como de los requerimientos de información y documentación a que se refiere este artículo.
+
+XI.- Imponer sanciones derivadas del incumplimiento de cualquier obligación prevista en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas aplicables por parte de quienes realicen las actividades vulnerables establecidas en la fracción XIV del artículo 17 de la citada Ley.
+
+XII.- Informar a la autoridad competente sobre las infracciones cometidas por las personas que realicen actividades vulnerables establecidas en la fracción XIV del artículo 17 la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, a efecto de que aquellas procedan a imponer la sanción que corresponda de conformidad con el artículo 59 de la citada Ley.
+
+XIII.- Proporcionar a la unidad administrativa competente de la Secretaría de Hacienda y Crédito Público, la información que en uso de sus facultades referidas en el presente artículo obtenga, para la presentación de denuncias o querellas ante el Ministerio Público de la Federación por los hechos que puedan constituir conductas delictivas.
+
+XIV.- Instruir la integración de los expedientes relacionados con los asuntos a que se refiere el presente artículo, así como supervisar su resguardo y, en su caso, actualizar la base de datos de los expedientes generados por las unidades administrativas a su cargo, de conformidad con las disposiciones contenidas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 49.
+
+Compete a las siguientes unidades administrativas de la Administración General de Auditoría de Comercio Exterior ejercer las facultades que a continuación se indican:
+
+A. A la Administración Central de Planeación y Programación de Comercio Exterior, la señalada en la fracción III del artículo anterior de este Reglamento.
+
+B. A la Administración Central de Asuntos Legales de Comercio Exterior, las señaladas en las fracciones I, II, XII y XIII del artículo anterior de este Reglamento.
+
+C. A la Administración Central de Investigación y Análisis de Comercio Exterior, las señaladas en las fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIII y XIV del artículo anterior de este Reglamento.
+
+D. A la Administración Central de Operaciones Especiales de Comercio Exterior, las señaladas en las fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIII y XIV del artículo anterior de este Reglamento.
+
+E. A la Administración Central de Auditoría de Operaciones de Comercio Exterior, las señaladas en las fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIII y XIV del artículo anterior de este Reglamento.
+
+F. A las Administraciones Regionales de Auditoría de Comercio Exterior, dentro de la circunscripción territorial que a cada una corresponda, las señaladas en las fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIII y XIV del artículo anterior de este Reglamento.
+
+Para el ejercicio de las facultades señaladas en este artículo, los titulares de las unidades administrativas serán auxiliados por los Administradores, Subadministradores, Jefes de Departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
+
 ## Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el Artículo Primero de este Decreto, que iniciará su vigencia en un plazo de dos meses contado a partir del día siguiente al de su publicación en el citado órgano de difusión.
@@ -4568,3 +4816,19 @@ III.- Los expedientes en trámite y archivos relativos a hechos posiblemente con
 Sexto. El cumplimiento de las sentencias derivadas de juicios contencioso administrativos o juicios de amparo, así como las resoluciones de recursos de revocación, recaídas respecto de las resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente Decreto, estará a cargo de la unidad administrativa competente en términos de este instrumento.
 
 Séptimo. Las modificaciones a la estructura orgánica del Servicio de Administración Tributaria que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que el presupuesto regularizable de servicios personales de dicho órgano desconcentrado contenido en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2012, no deberá incrementarse.
+
+D.O.F. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público realizará los actos necesarios ante la Oficina de la Presidencia de la República para que los recursos humanos, materiales y financieros actualmente asignados a la Conservaduría de Palacio Nacional, sean transferidos a la Secretaría de Hacienda y Crédito Público, con el objeto de que la Dirección General de Conservaduría de Palacio Nacional pueda ejercer las atribuciones y facultades que se le otorgan en virtud del presente Decreto.
+
+Las facultades que le otorgan a la Conservaduría de Palacio Nacional otros reglamentos, acuerdos, decretos y demás disposiciones se entenderán conferidas a la Dirección General de Conservaduría de Palacio Nacional.
+
+TERCERO.- Se abroga el Acuerdo mediante el cual se señala la adscripción de los titulares de las direcciones de investigaciones de la Subprocuraduría Fiscal Federal de Investigaciones, publicado en el Diario Oficial de la Federación el 27 de marzo de 2013.
+
+CUARTO.- Las modificaciones a la estructura orgánica del Servicio de Administración Tributaria y de las unidades administrativas de la Secretaría de Hacienda y Crédito Público que deriven de la entrada en vigor del presente Decreto, se realizarán a través de movimientos compensados del presupuesto autorizado de servicios personales de dicho órgano desconcentrado y de dicha Secretaría para el ejercicio fiscal en curso, por lo que no se incrementará el presupuesto regularizable de servicios personales para el siguiente ejercicio fiscal.
+
+QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público que cambien de denominación o que se eliminen por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+SEXTO.- Los asuntos en trámite que son atendidos por unidades administrativas que desaparecen, cambian de denominación o modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este instrumento.
