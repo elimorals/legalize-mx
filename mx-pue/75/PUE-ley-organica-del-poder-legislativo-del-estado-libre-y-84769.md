@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2013-11-11"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -481,7 +481,7 @@ IV.- Por sentencia judicial ejecutoriada que declare la culpabilidad de la causa
 
 ###### ARTÍCULO 47.
 
-La inasistencia de los Diputados a más de tres sesiones de Pleno consecutivas, sin causa justificada, será considerada por la Mesa Directiva como falta de interés y, por ello, no podrán asistir a las sesiones hasta el periodo inmediato siguiente, llamándose al Diputado Suplente. Los Diputados solamente podrán dejar de concurrir a las sesiones y reuniones de Comisiones o Comités, por causas justificadas en los términos de esta Ley y de su Reglamento Interior.
+La inasistencia de los Diputados a más de tres sesiones de Pleno consecutivas, sin causa justificada, será considerada por la Mesa Directiva como falta de interés y, por ello no podrán asistir a las sesiones hasta el periodo inmediato siguiente, llamándose al Diputado Suplente. Los Diputados solamente podrán dejar de concurrir a las sesiones y reuniones de Comisiones o Comités, por causas justificadas en los términos de esta Ley y de su Reglamento Interior.
 
 ### CAPÍTULO V. DE LA ÉTICA LEGISLATIVA
 
@@ -947,9 +947,11 @@ Para el caso del segundo y tercer año de ejercicio constitucional de la Legisla
 
 El Presidente de la Junta de Gobierno y Coordinación Política durará en su cargo un año y podrá ser reelecto por una ocasión.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 98.
 
-El Congreso del Estado, a través del Presidente de la Junta de Gobierno y Coordinación Política, deberá rendir un informe anual de actividades en sesión solemne el último día del tercer periodo de sesiones de cada año, a la que se invite al Gobernador del Estado y al Magistrado Presidente del Tribunal Superior de Justicia, la cual se celebrará de conformidad con lo que se establezca en el Reglamento Interior.
+El Congreso del Estado, a través del Presidente de la Junta de Gobierno y Coordinación Política, deberá rendir un informe anual de actividades en sesión solemne, en los últimos días del tercer periodo ordinario de sesiones de cada año, a la que se invite al Gobernador del Estado y al Magistrado Presidente del Tribunal Superior de Justicia, la cual se celebrará de conformidad con lo que se establezca en el Reglamento Interior.
 
 ###### ARTÍCULO 99.
 
@@ -2338,3 +2340,9 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto se deberá publicar en el Periódico Oficial del Estado, entrando en vigor al día hábil siguiente de su publicación.
 
 SEGUNDO.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
