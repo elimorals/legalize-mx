@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2012-10-10"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -61,37 +61,33 @@ B. Unidades Administrativas Centrales:
 
 I. Unidad de Comunicación Social y Vocero;
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+I Bis. Unidad de Productividad Económica:
+
+a) Dirección General de Análisis de la Productividad, y
+
+b) Dirección General de Política y Proyectos de Productividad;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
 II. Unidad de Inteligencia Financiera:
 
-a) Dirección General Adjunta de Asuntos Normativos e Internacionales:
+a) Dirección General de Asuntos Normativos:
 
-1. Dirección de Asuntos Normativos, y
+1. Dirección General Adjunta de Asuntos Normativos e Internacionales, y
 
-2. Dirección de Asuntos Internacionales;
+2. Dirección General Adjunta de Asuntos Normativos y Relaciones con Actividades Vulnerables;
 
-b) Dirección General Adjunta de Análisis Estratégico:
+b) Dirección General de Análisis;
 
-1. Dirección de Evaluación Estratégica;
+c) Dirección General de Procesos Legales:
 
-2. Dirección de Estudios Estratégicos, y
+1. Dirección de Procesos Legales “A”, y
 
-3. Dirección de Análisis Estadístico;
+2. Dirección de Procesos Legales “B”;
 
-c) Dirección General Adjunta de Análisis de Operaciones:
-
-1. Dirección de Análisis de Operaciones;
-
-2. Dirección de Análisis Financiero, y
-
-3. Dirección de Análisis Reactivo;
-
-d) Dirección General Adjunta de Procesos Legales:
-
-1. Dirección de Atención a Requerimientos, y
-
-2. Dirección de Formulación y Seguimiento de Denuncias y Reportes, y
-
-e) Dirección General Adjunta de Planeación e Infraestructura Tecnológica;
+d) Dirección General Adjunta de Infraestructura Tecnológica;
 
 III. Unidad de Planeación Económica de la Hacienda Pública:
 
@@ -207,6 +203,10 @@ XIII. Unidad de Inversiones;
 
 XIV. Unidad de Política y Control Presupuestario;
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+a) Dirección General de Política Presupuestaria;
+
 XV. Unidad de Evaluación del Desempeño;
 
 XVI. Unidad de Contabilidad Gubernamental;
@@ -230,6 +230,10 @@ XXIV. Dirección General de Talleres de Impresión de Estampillas y Valores;
 XXV. Dirección General de Promoción Cultural y Acervo Patrimonial;
 
 XXVI. Dirección General de Tecnologías y Seguridad de la Información;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXVI Bis. Conservaduría de Palacio Nacional;
 
 XXVII. Subprocuraduría Fiscal Federal de Legislación y Consulta:
 
@@ -317,37 +321,41 @@ a) Dirección General de Delitos Fiscales;
 
 b) Dirección General de Delitos Financieros y Diversos;
 
-c) Dirección General de Control Procedimental;
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-d) Dirección de Investigaciones “A”;
+c) Dirección General de Control Procedimental, y
 
-e) Dirección de Investigaciones “B”;
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-f) Dirección de Investigaciones “C”;
+d) Direcciones de Investigaciones;
 
-g) Dirección de Investigaciones “D”;
+e) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-h) Dirección de Investigaciones “E”;
+f) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-i) Dirección de Investigaciones “F”;
+g) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-j) Dirección de Investigaciones “G”;
+h) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-k) Dirección de Investigaciones “H”;
+i) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-l) Dirección de Investigaciones “I”;
+j) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-m) Dirección de Investigaciones “J”;
+k) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-n) Dirección de Investigaciones “K”;
+l) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-o) Dirección de Investigaciones “L”;
+m) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-p) Dirección de Investigaciones “M”;
+n) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-q) Dirección de Investigaciones “N”, y
+o) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-r) Dirección de Investigaciones “O”;
+p) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
+
+q) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
+
+r) (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
 XXXI. Subtesorería de Operación:
 
@@ -405,7 +413,9 @@ La Secretaría de Hacienda y Crédito Público planeará y conducirá sus activi
 
 La representación, trámite y resolución de los asuntos competencia de la Secretaría de Hacienda y Crédito Público, corresponde originalmente al Secretario.
 
-Para la mejor organización del trabajo, el Secretario podrá, sin perjuicio de su ejercicio directo, delegar sus atribuciones en servidores públicos subalternos, mediante acuerdos que deberán ser publicados en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+Para el despacho de los asuntos de su competencia, se auxiliará por los Subsecretarios, Oficial Mayor, Directores Generales, Directores Generales Adjuntos, Directores, Subdirectores y por los demás funcionarios que establezca este Reglamento y otras disposiciones jurídicas.
 
 ###### Artículo 5o.
 
@@ -441,9 +451,9 @@ XI. Someter a la consideración del Presidente de la República los cambios a la
 
 XII. Llevar las relaciones entre el Ejecutivo Federal y las entidades paraestatales, para fines de congruencia global de la administración pública paraestatal con el Sistema Nacional de Planeación y con los lineamientos generales en materia de financiamiento; proponer las asignaciones sectoriales de financiamiento y participar en las de gasto; y emitir los lineamientos generales conforme a los cuales deban formularse los programas financieros de las entidades paraestatales;
 
-> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-XIII. Designar a los representantes de la Secretaría ante los órganos de gobierno de las entidades paraestatales, órganos administrativos desconcentrados y demás órganos colegiados en los que la Secretaría tenga participación;
+XIII. Designar a los servidores públicos que deban representarlo o a la Secretaría ante los órganos de gobierno de las entidades paraestatales, órganos administrativos desconcentrados, comisiones intersecretariales, comités técnicos de fideicomisos y demás órganos colegiados que se establezcan en leyes, reglamentos o instrumentos emitidos por el Presidente de la República, en los que la Secretaría tenga participación, excepto aquellas representaciones que por disposición de ley deban ser ejercidas por un servidor público determinado;
 
 XIV. Aprobar los programas financieros de las entidades paraestatales incluidas en la Ley de Ingresos de la Federación, considerando las fuentes, montos y objetivos de los mismos;
 
@@ -501,7 +511,13 @@ XXXIII. Aprobar las políticas técnicas y administrativas para la mejor organiz
 
 XXXIV. Dictar las reglas de carácter general en las materias competencia de la Secretaría, y
 
-XXXV. Las demás que con este carácter se establezcan por ley, por reglamento o le confiera el Presidente de la República.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXXV. Las demás que con carácter de no delegables se establezcan por ley, por reglamento o le confiera el Presidente de la República.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+Para la mejor organización del trabajo, el Secretario podrá, sin perjuicio de su ejercicio directo, delegar las demás atribuciones no previstas en este artículo, en servidores públicos subalternos, mediante acuerdos que deberán ser publicados en el Diario Oficial de la Federación.
 
 ### CAPÍTULO III. DE LAS FACULTADES DE LOS SUBSECRETARIOS
 
@@ -533,7 +549,9 @@ X. Proporcionar la información y la cooperación técnica que les sean solicita
 
 XI. Participar en foros y eventos nacionales e internacionales en asuntos relativos a la materia de su competencia;
 
-XII. Designar, cuando así proceda, a servidores públicos subalternos para representar a la Secretaría en los comités o grupos de trabajo en los que deban participar de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XII. Designar a servidores públicos para representar a la Secretaría o ser enlace de esta, ante los órganos colegiados o grupos de trabajo que se establezcan en las disposiciones que no son emitidas por el Presidente de la República y en los que deban participar o, cuando por invitación de otras dependencias, entidades o instancias públicas, se estime pertinente;
 
 XIII. Coordinar y vigilar, en el ámbito de su competencia, las actividades de capacitación del personal adscrito a sus unidades administrativas, de acuerdo con las normas y principios establecidos por la Dirección General de Recursos Humanos;
 
@@ -587,6 +605,10 @@ XIV. Suscribir, en las materias a que se refiere este artículo, convenios, cont
 
 XV. Dirigir la administración de las bibliotecas, hemerotecas, recintos históricos, museos, archivo histórico y áreas protocolarias responsabilidad de la Secretaría, de conformidad con las disposiciones aplicables;
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XV Bis. Supervisar los programas de inspección, cuidado, protección, conservación, restauración y vigilancia de las áreas, objetos y colecciones que se encuentren en Palacio Nacional;
+
 XVI. Proponer al Secretario los proyectos de programas que establece el Sistema Nacional de Protección Civil en lo que corresponda a la Secretaría, y llevar a cabo la comunicación y coordinación permanentes con el citado sistema;
 
 XVII. Conducir las acciones para la atención de los requerimientos formulados por la Auditoría Superior de la Federación y para el control estadístico de las auditorías y observaciones determinadas por el Órgano Interno de Control en la Secretaría, ante las unidades administrativas de la Secretaría;
@@ -607,7 +629,9 @@ XXIV. Participar en el Consejo Consultivo del Sistema de Servicio Profesional de
 
 XXV. Las demás que le señalan otras disposiciones y las que le confiera directamente el Secretario.
 
-El Oficial Mayor será asistido por los Directores Generales de Recursos Financieros; de Recursos Humanos; de Recursos Materiales, Obra Pública y Servicios Generales; de Talleres de Impresión de Estampillas y Valores; de Promoción Cultural y Acervo Patrimonial, y de Tecnologías y Seguridad de la Información, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+El Oficial Mayor será asistido por los Directores Generales de Recursos Financieros; de Recursos Humanos; de Recursos Materiales, Obra Pública y Servicios Generales; de Talleres de Impresión de Estampillas y Valores; de Promoción Cultural y Acervo Patrimonial; de Tecnologías y Seguridad de la Información, y de Conservaduría de Palacio Nacional, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPÍTULO V. DE LAS FACULTADES DEL PROCURADOR FISCAL DE LA FEDERACIÓN Y DEL TESORERO DE LA FEDERACIÓN
 
@@ -829,7 +853,9 @@ LVII. Proponer medidas en la materia de su competencia, para la coordinación en
 
 LVIII. Coadyuvar, dentro del ámbito de su competencia, con las instancias competentes, al seguimiento de las iniciativas de leyes o decretos que presente el Presidente de la República ante el Congreso de la Unión, en las materias competencia de la Secretaría;
 
-LIX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+LIX. Designar, conforme a las disposiciones jurídicas aplicables, a los titulares de las Direcciones de Investigaciones en las circunscripciones territoriales establecidas por el Secretario o en las direcciones generales a que se refieren los artículos 82, 83 y 85 de este Reglamento;
 
 LX. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
@@ -989,23 +1015,93 @@ V. Autorizar los nombramientos del personal de base y de confianza de las unidad
 
 VI. Las señaladas en las fracciones XIV a XVII del artículo 7o. de este Reglamento;
 
-VII. Distribuir entre los servidores públicos los asuntos competencia del área a su cargo, para lo cual será asistido por los directores generales, directores generales adjuntos y demás servidores públicos que se requieran para el adecuado ejercicio de sus atribuciones, y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-VIII. Las demás facultades que en el ámbito de sus respectivas competencias atribuyan a la Secretaría las disposiciones jurídicas aplicables o les confiera el Secretario o su superior jerárquico.
+VII. Distribuir entre los servidores públicos los asuntos competencia del área a su cargo, para lo cual será asistido por los directores generales, directores generales adjuntos y demás servidores públicos que se requieran para el adecuado ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+VIII. Representar a la Secretaría, cuando se le designe, ante los órganos colegiados, comisiones, instancias o grupos de trabajo;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+IX. Designar, cuando así proceda, a los servidores públicos adscritos a la misma para representarla en los comités o grupos de trabajo que se determinen para el ejercicio de sus atribuciones, y
+
+X. Las demás facultades que en el ámbito de sus respectivas competencias atribuyan a la Secretaría las disposiciones jurídicas aplicables o les confiera el Secretario o su superior jerárquico.
 
 La facultad a que se refiere la fracción IV de este artículo podrá ser ejercida por los Directores Generales Adjuntos.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 13.
 
-(DEROGADO, D.O.F. 10 DE OCTUBRE DE 2012)
+Compete a la Unidad de Productividad Económica:
+
+I. Proponer, para aprobación superior, con la participación que corresponda a otras unidades administrativas de la Secretaría, políticas de ingreso y gasto público que fomenten el incremento y democratización de la productividad en los distintos sectores económicos y regiones del país y, con ello, el crecimiento económico y el fortalecimiento de las finanzas públicas;
+
+II. Elaborar y proponer, para aprobación superior, con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal, y unidades administrativas de la Secretaría, programas en materia de productividad económica respecto de las finanzas públicas, con base en lo que establezca el Plan Nacional de Desarrollo;
+
+III. Participar en la elaboración e implementación de las políticas públicas y los programas en materia de productividad económica;
+
+IV. Participar en la elaboración e implementación de los mecanismos de evaluación de las políticas y los programas en materia de productividad económica;
+
+V. Aprobar los estudios económicos y estadísticos que elaboren las unidades administrativas adscritas a esta;
+
+VI. Promover, en colaboración con las dependencias y entidades de la Administración Pública Federal, los gobiernos locales, así como con los sectores económico, privado y social, el uso eficiente de los recursos productivos;
+
+VII. Celebrar convenios de colaboración con instituciones públicas o privadas, nacionales e internacionales, con el objeto de elaborar estudios, análisis, proyectos o, en su caso, obtener información en materia de productividad económica;
+
+VIII. Solicitar, en el ámbito de su competencia, a las dependencias y entidades de la Administración Pública Federal, información y opinión para evaluar las acciones implementadas por el Gobierno Federal en materia de productividad económica;
+
+IX. Asesorar al Titular de la Secretaría de Hacienda y Crédito Público, en materia de productividad económica;
+
+X. Representar a la Secretaría, cuando se le designe, ante los órganos e instancias en materia de políticas públicas para el incremento y la democratización de la productividad económica e implementar al interior de la Secretaría, y dar seguimiento, a los acuerdos que se adopten en dichos órganos e instancias cuando a esta dependencia le corresponda fungir como Secretaría Técnica, y
+
+XI. Definir, en su caso, los elementos necesarios para generar los sistemas de análisis estadístico de la Secretaría en materia de productividad económica, con la participación que corresponda a la Dirección General de Tecnologías y Seguridad de la Información.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 13-A.
 
-(DEROGADO, D.O.F. 10 DE OCTUBRE DE 2012)
+Compete a la Dirección General de Análisis de la Productividad:
+
+I. Elaborar con la participación que corresponda a otras unidades administrativas de la Secretaría, los proyectos de políticas de ingreso y gasto público que fomenten el incremento y democratización de la productividad en los distintos sectores económicos y regiones del país y, con ello, el crecimiento económico y el fortalecimiento de las finanzas públicas;
+
+II. Coadyuvar en la elaboración de los programas en materia de productividad económica respecto de las finanzas públicas, con base en lo que establezca el Plan Nacional de Desarrollo;
+
+III. Participar en la elaboración e implementación de los mecanismos de evaluación de las políticas y los programas en materia de productividad económica;
+
+IV. Elaborar estudios económicos y estadísticos en las materias a que se refiere este artículo, por sectores, regiones y grupos de población;
+
+V. Participar en la promoción que realice la Unidad de Productividad Económica, del uso eficiente de los recursos productivos;
+
+VI. Elaborar los convenios de colaboración con instituciones públicas o privadas, nacionales e internacionales, con el objeto de elaborar estudios, análisis, proyectos o, en su caso, obtener información en materia de productividad económica;
+
+VII. Asesorar al Titular de la Secretaría de Hacienda y Crédito Público, en las materias a que se refiere el presente artículo;
+
+VIII. Proponer al Titular de la Unidad de Productividad Económica, en su ámbito de competencia, los elementos necesarios para generar sistemas de análisis estadístico de la Secretaría en materia de productividad económica, con la participación que corresponda a la Dirección General de Tecnologías y Seguridad de la Información, y
+
+IX. Proporcionar la información que le sea solicitada, respecto de las facultades a que se refiere este artículo, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 13-B.
 
-(DEROGADO, D.O.F. 10 DE OCTUBRE DE 2012)
+Compete a la Dirección General de Política y Proyectos de Productividad:
+
+I. Participar en la elaboración e implementación de las políticas públicas y los programas en materia de productividad económica;
+
+II. Participar en la elaboración e implementación de los mecanismos de evaluación de las políticas y los programas en materia de productividad económica;
+
+III. Participar en la promoción que realice la Unidad de Productividad Económica, del uso eficiente de los recursos productivos;
+
+IV. Requerir, en el ámbito de competencia de la Unidad de Productividad Económica, a las dependencias y entidades de la Administración Pública Federal, información y opinión para evaluar las acciones implementadas por el Gobierno Federal en materia de productividad económica;
+
+V. Asesorar al Titular de la Secretaría de Hacienda y Crédito Público, en las materias a que se refiere el presente artículo;
+
+VI. Proponer al Titular de la Unidad de Productividad Económica, en su ámbito de competencia, los elementos necesarios para generar sistemas de análisis estadístico de la Secretaría en materia de productividad económica, con la participación que corresponda a la Dirección General de Tecnologías y Seguridad de la Información, y
+
+VII. Proporcionar la información que le sea solicitada, respecto de las facultades a que se refiere este artículo, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 ###### Artículo 13-C.
 
@@ -1083,7 +1179,9 @@ XX. (DEROGADA, D.O.F. 10 DE OCTUBRE DE 2012)
 
 Compete a la Unidad de Inteligencia Financiera:
 
-I. Proponer y emitir opinión a las demás unidades administrativas de la Secretaría sobre las disposiciones de carácter general que, en términos de la legislación aplicable, esta dependencia deba emitir en relación con:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+I. Proponer y emitir opinión a las demás unidades administrativas de la Secretaría sobre los proyectos de disposiciones de carácter general aplicables a las entidades señaladas en los artículos 25, fracción I, 27, fracción I y 32, fracción I, de este Reglamento que esta dependencia deba emitir en relación con:
 
 a) El establecimiento de medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita;
 
@@ -1091,513 +1189,429 @@ b) La presentación a la Secretaría de reportes sobre los actos, operaciones y 
 
 c) Los lineamientos sobre el procedimiento y criterios que las personas deban observar en términos de ley respecto del adecuado conocimiento de sus clientes y usuarios; la información y documentación que, en su caso, dichas personas deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite la identidad de sus clientes; la forma en que las mismas personas deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o de quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados de acuerdo con lo anterior, así como los términos para proporcionar capacitación al interior de las personas obligadas de conformidad con la ley sobre la materia objeto de esta fracción;
 
-II. Participar con las unidades competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias indicadas en la fracción anterior;
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+I. Bis. Formular y proponer, para aprobación superior, las reglas de carácter general que la Secretaría deba emitir en términos de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento y resolver lo referente a su aplicación;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+I. Ter. Interpretar, para efectos administrativos, la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento, las reglas de carácter general y demás disposiciones jurídicas que de estos emanen, en el ámbito de competencia de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+II. Participar con las unidades administrativas competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias indicadas en este artículo;
 
 III. Emitir opinión jurídica a las unidades administrativas competentes de la Secretaría sobre la interpretación, para efectos administrativos, de las disposiciones de carácter general señaladas en la fracción I de este artículo, así como de las disposiciones legales de las que aquéllas emanen;
 
-IV. Diseñar, en coordinación con los órganos administrativos desconcentrados competentes de la Secretaría, las formas oficiales para la presentación de reportes a que se refiere la fracción I de este artículo, y expedir las señaladas formas oficiales;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-V. Participar con los órganos administrativos desconcentrados competentes de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I de este artículo, por parte de las personas obligadas a ello en términos de la legislación aplicable;
+IV. Determinar y expedir, en coordinación con los órganos administrativos desconcentrados competentes de la Secretaría, las formas oficiales para la presentación de reportes a que se refiere el inciso b) de la fracción I de este artículo y para la recepción de los avisos y la presentación de la demás información a que se refieren la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y las reglas de carácter general que de estos emanen;
 
-VI. Coordinar la recepción y análisis de la información contenida en los reportes a que se refiere la fracción I de este artículo y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-VII. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I de este artículo, directamente o a través de las instancias correspondientes, según sea el caso, información y documentación relacionada con los reportes previstos en la fracción I de este artículo, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
+V. Participar con los órganos administrativos desconcentrados competentes de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I de este artículo, así como de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas que de estos emanen, por parte de las personas obligadas a ello en términos de la legislación aplicable;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+VI. Coordinar la recepción y análisis de la información contenida en los reportes a que se refiere el inciso b) de la fracción I de este artículo, los avisos previstos en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento, y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+VII. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I de este artículo y de quienes realicen las actividades vulnerables, entidades colegiadas y órganos concentradores a que se refieren las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, directamente o a través de las instancias correspondientes, según sea el caso, información, documentación, datos e imágenes relacionadas con los reportes previstos en el inciso b) de la fracción I de este artículo y los avisos a que se refiere la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
 
 VIII. Requerir a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría la información y documentación necesaria para el ejercicio de sus facultades, incluido el acceso a la base de datos que contenga la información que se genere con motivo del ejercicio de tales facultades, en los términos y plazos establecidos por la propia Unidad, de conformidad con las disposiciones aplicables;
 
-IX. Aprobar, en su caso, los planes de trabajo y desarrollo de sistemas de información y criterios tecnológicos mínimos que, en términos de la legislación aplicable, deban observar las personas obligadas a presentar los reportes a que se refieren las disposiciones de carácter general señaladas en la fracción I de este artículo, así como vigilar su observancia por parte de las mismas personas;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-X. Recibir y recopilar, en relación con las materias a que se refiere este artículo, las pruebas, constancias, reportes, documentación e informes sobre las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita e integrar los expedientes respectivos;
+IX. Aprobar, en su caso, los planes de trabajo y desarrollo de sistemas de información y criterios tecnológicos mínimos que, en términos de la legislación aplicable, deban observar las personas obligadas a presentar los reportes a que se refiere el inciso b) de la fracción I de este artículo y los avisos previstos en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento, así como vigilar su observancia por parte de las mismas personas;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+X. Recibir y recopilar, en relación con las materias a que se refiere este artículo, las pruebas, constancias, reportes, avisos, documentación, datos, imágenes e informes sobre las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, los relacionados con estos, así como sobre las estructuras financieras de las organizaciones delictivas, e integrar los expedientes respectivos;
 
 XI. Coordinarse con las autoridades fiscales para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
 
 XII. Proporcionar, requerir e intercambiar con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus facultades;
 
-XIII. Denunciar ante el Ministerio Público de la Federación las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, allegándose los elementos probatorios del caso;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XIII. Denunciar ante el Ministerio Público de la Federación las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, así como aquellas previstas en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, allegándose de los elementos probatorios del caso;
 
 XIV. Coadyuvar, en su caso, con las autoridades competentes, en representación de la Secretaría, en los procesos penales relativos a las conductas a que se refiere la fracción anterior de este artículo;
 
-XV. Coordinar el seguimiento de las denuncias formuladas por esta Unidad, desde su presentación y, en su caso, hasta el ejercicio de la acción penal, así como de los reportes de análisis de operaciones presentados ante la autoridad competente;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XV. Coordinar el seguimiento de las denuncias formuladas por esta Unidad, desde su presentación y, en su caso, hasta la emisión de la resolución que no admita medio de defensa alguno, así como de los reportes de inteligencia presentados ante la autoridad competente;
 
 XVI. Resolver, en relación con las materias a que se refiere este artículo, los requerimientos y resoluciones de autoridades jurisdiccionales o administrativas, incluyendo al Ministerio Público de la Federación;
 
-XVII. Fungir, en los asuntos a que se refiere este artículo, como enlace entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y los siguientes entes: las dependencias y entidades de la Administración Pública Federal, estatal y municipal, la Procuraduría General de la República, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, así como negociar, celebrar e implementar convenios o cualquier otro instrumento jurídico con esas instancias;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-XVIII. Hacer del conocimiento de los órganos administrativos desconcentrados competentes de la Secretaría el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere la fracción I de este artículo, con el objeto de que, en su caso, dichas instancias ejerzan sus facultades;
+XVII. Fungir, en los asuntos a que se refiere este artículo, como enlace entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y los siguientes entes: las dependencias y entidades de la Administración Pública Federal, estatal y municipal, el Poder Judicial de la Federación, la Procuraduría General de la República, los poderes judiciales de las entidades federativas, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, así como negociar, celebrar e implementar convenios o cualquier otro instrumento jurídico con esas instancias;
 
-XIX. Participar en la negociación de los tratados internacionales, en las materias a que se refiere este artículo, con la intervención que corresponda a otras dependencias de la Administración Pública Federal y celebrar los instrumentos jurídicos que no requieren la firma del Secretario;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XVIII. Hacer del conocimiento de los órganos administrativos desconcentrados competentes de la Secretaría, según corresponda, el incumplimiento o cumplimiento extemporáneo de las obligaciones establecidas en las disposiciones de carácter general a que se refiere la fracción I de este artículo o en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas que de estos emanen, con el objeto de que, en su caso, dichas instancias ejerzan sus atribuciones;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XIX. Participar en la negociación de los tratados internacionales, en las materias a que se refiere este artículo, con la intervención que corresponda a otras dependencias o entidades de la Administración Pública Federal y celebrar los instrumentos jurídicos internacionales que no requieren la firma del Secretario;
 
 XX. Participar en foros y eventos nacionales e internacionales en asuntos relativos a la materia de su competencia;
 
-XXI. Fungir, en las materias a que se refiere este artículo, como enlace entre la Secretaría y los países, jurisdicciones u organismos internacionales o intergubernamentales e implementar los acuerdos que se adopten;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-XXII. Aprobar, en su caso, las tipologías, tendencias e indicadores, en las materias a que se refiere este artículo, así como las guías y mejores prácticas para la elaboración y el envío de los reportes a que se refiere la fracción I del presente artículo, que se den a conocer;
+XXI. Fungir, en las materias a que se refiere este artículo, como enlace entre la Secretaría y los países, jurisdicciones u organismos internacionales o intergubernamentales y coordinar la implementación de los acuerdos que se adopten;
 
-XXIII. Establecer los lineamientos y programas en materia de recepción y análisis de la información que obtenga, de conformidad con las disposiciones de carácter general a que se refiere la fracción I de este artículo y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-XXIV. Informar a las autoridades competentes, así como a los sujetos obligados a observar las disposiciones de carácter general a que se refiere la fracción I de este artículo, sobre la utilidad de los reportes a que se refiere dicha fracción, y
+XXII. Aprobar, en su caso, las tipologías, tendencias e indicadores, en las materias a que se refiere este artículo, así como las guías y mejores prácticas para la elaboración y el envío de los reportes y avisos a que se refiere la fracción VI del presente artículo, así como para el desarrollo de los programas de capacitación, actualización y especialización en las materias antes referidas;
 
-XXV. Designar, cuando así proceda, a los servidores públicos adscritos a la misma para representarla en los comités o grupos de trabajo que se determinen para el ejercicio de sus facultades.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+XXIII. Establecer los lineamientos y programas en materia de recepción y análisis de la información, documentación, datos e imágenes que obtenga, de conformidad con las disposiciones de carácter general a que se refiere la fracción I de este artículo, la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones que de estos emanen, y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXIV. Informar a las autoridades competentes, así como a los sujetos obligados a observar las disposiciones de carácter general a que se refiere la fracción I de este artículo y a quienes realicen las actividades vulnerables y entidades colegiadas previstas en las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, sobre la calidad y utilidad de los reportes y avisos a que se refiere la fracción VI de este artículo;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXV. Designar, cuando así proceda, a los servidores públicos adscritos a la misma para representarla en los comités o grupos de trabajo que se determinen para el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXVI. Corroborar la información, datos e imágenes relacionados con la expedición de identificaciones oficiales que obren en poder de las autoridades federales, así como celebrar convenios con los órganos constitucionales autónomos, entidades federativas y municipios, a efecto de corroborar la información referida, en términos del artículo 45 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, para la identificación y análisis de operaciones relacionadas con los delitos a que hace referencia la fracción I de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXVII. Requerir a los sujetos a que hace referencia el artículo 51 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, la información y documentación a la que tengan acceso, y celebrar para tales efectos los convenios respectivos con el Banco de México;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXVIII. Supervisar la participación de las unidades administrativas de la Unidad en la suscripción de los convenios que se celebren en conjunto con el Servicio de Administración Tributaria y las entidades colegiadas en términos de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXIX. Determinar los medios de cumplimiento alternativos, conforme a lo dispuesto por la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXX. Fungir como enlace entre la Secretaría y los sujetos obligados a observar las disposiciones de carácter general señaladas en la fracción I de este artículo, así como con quienes realicen las actividades vulnerables y entidades colegiadas previstas en las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, respecto de los asuntos señalados en el presente artículo, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XXXI. Dar a conocer, cuando corresponda a la Secretaría, a quienes realicen las actividades vulnerables a que se refiere la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, directamente o por conducto del órgano administrativo desconcentrado competente de la Secretaría, las listas, reportes, mecanismos, informes o resoluciones previstas en las disposiciones jurídicas a que se refieren las fracciones I y I Bis de este artículo.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 15-A.
 
-Compete a la Dirección General Adjunta de Asuntos Normativos e Internacionales:
+Compete a la Dirección General de Asuntos Normativos:
 
-I. Apoyar a la Unidad de Inteligencia Financiera en el ejercicio de las facultades a que se refiere el artículo 15, fracciones I y III de este Reglamento;
+I. Apoyar a la Unidad de Inteligencia Financiera en el ejercicio de las atribuciones a que se refiere el artículo 15, fracciones I, I Bis y III, de este Reglamento;
 
-II. Participar, con las unidades competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias indicadas en la fracción I del artículo 15 de este Reglamento;
+II. Interpretar para efectos administrativos, la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento, las reglas de carácter general y demás disposiciones jurídicas que de estos emanen, en el ámbito de competencia de la Secretaría, y resolver lo referente a su aplicación;
 
-III. Participar, en las materias a que se refiere la fracción I del artículo 15 de este Reglamento, en el diseño y expedición de las formas oficiales para la presentación de reportes a que se refieren las disposiciones de carácter general indicadas en la fracción I del artículo 15 de este Reglamento;
+III. Participar, con las unidades competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias que correspondan a la Unidad de Inteligencia Financiera, conforme al artículo anterior;
 
-IV. Participar, con los órganos administrativos desconcentrados de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, por parte de las personas sujetas a ello, en términos de la legislación aplicable;
+IV. Participar en la determinación y expedición de las formas oficiales para la presentación de reportes, avisos y demás información a que se refiere la fracción IV del artículo 15 de este Reglamento;
 
-V. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información y documentación relacionada con los reportes previstos en dichas disposiciones, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
+V. Participar, con los órganos administrativos desconcentrados competentes de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, así como de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones que de estos emanen, por parte de las personas sujetas a ello en términos de la legislación aplicable;
 
-VI. Requerir a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría la información y documentación necesaria para el ejercicio de sus facultades, incluido el acceso a la base de datos que contenga la información que se genere con motivo del ejercicio de tales facultades, en los términos y plazos establecidos por la Unidad de Inteligencia Financiera, de conformidad con las disposiciones aplicables;
+VI. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento y de quienes realicen las actividades vulnerables, entidades colegiadas y órganos concentradores a que se refieren las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, directamente o a través de las instancias correspondientes, según sea el caso, información, documentación, datos e imágenes relacionadas con los reportes y avisos previstos en dichas disposiciones y la referida ley, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
 
-VII. Coordinarse con las autoridades fiscales para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
+VII. Requerir a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría la información y documentación necesaria para el ejercicio de sus atribuciones, incluido el acceso a la base de datos que contenga la información que se genere con motivo del ejercicio de tales atribuciones, en los términos y plazos establecidos por la Unidad de Inteligencia Financiera, de conformidad con las disposiciones aplicables;
 
 VIII. Proporcionar, requerir e intercambiar con las autoridades competentes nacionales y extranjeras la información y documentación en las materias de su competencia, en términos de las disposiciones aplicables;
 
-IX. Fungir, en el ámbito de competencia a que se refiere este artículo, como enlace de la Unidad de Inteligencia Financiera entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y los siguientes entes: las dependencias y entidades de la Administración Pública Federal, estatal y municipal, la Procuraduría General de la República, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, así como negociar, celebrar e implementar convenios o cualquier otro instrumento jurídico con esas instancias;
+IX. Fungir, en el ámbito de competencia a que se refiere este artículo, como enlace de la Unidad de Inteligencia Financiera entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y los siguientes entes: las dependencias y entidades de la Administración Pública Federal, estatal y municipal, el Poder Judicial de la Federación, la Procuraduría General de la República, los poderes judiciales de las entidades federativas, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, así como negociar, celebrar e implementar convenios o cualquier otro instrumento jurídico con esas instancias;
 
-X. Hacer del conocimiento de los órganos administrativos desconcentrados competentes de la Secretaría el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento, con el objeto de que, en su caso, dichas instancias ejerzan sus facultades;
+X. Hacer del conocimiento de los órganos administrativos desconcentrados competentes de la Secretaría, según corresponda, el incumplimiento o cumplimiento extemporáneo de las obligaciones establecidas en las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento o en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas que de estos emanen, con el objeto de que, en su caso, dichas instancias ejerzan sus atribuciones;
 
-XI. Participar en la negociación de los tratados internacionales en las materias a que se refiere este artículo, con la intervención que corresponda a otras dependencias de la Administración Pública Federal;
+XI. Participar en la negociación de los tratados internacionales en las materias a que se refiere el artículo 15 de este Reglamento, con la intervención que corresponda a otras dependencias o entidades de la Administración Pública Federal;
 
-XII. Celebrar, previo acuerdo del Titular de la Unidad de Inteligencia Financiera los instrumentos jurídicos relacionados con la materia de su competencia que no requieren la firma del Secretario;
+XII. Celebrar, previo acuerdo del Titular de la Unidad de Inteligencia Financiera, los instrumentos jurídicos internacionales relacionados con la materia competencia de la Unidad de Inteligencia Financiera que no requieren la firma del Secretario;
 
 XIII. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere el artículo 15 de este Reglamento;
 
-XIV. Fungir, en las materias a que se refiere el artículo 15, fracción I de este Reglamento, como enlace entre la Secretaría y los países, jurisdicciones u organismos internacionales o intergubernamentales e implementar los acuerdos que se adopten;
+XIV. Fungir, en las materias competencia de la Unidad de Inteligencia Financiera, como enlace entre la Secretaría y los países, jurisdicciones u organismos internacionales o intergubernamentales e implementar los acuerdos que se adopten;
 
-XV. Dar a conocer, previa autorización del Titular de la Unidad de Inteligencia Financiera, las tipologías, tendencias e indicadores en la materia competencia de la Unidad de Inteligencia Financiera, así como las guías y mejores prácticas para la elaboración y envío de los reportes a que se refiere la fracción I del artículo 15 del presente Reglamento;
+XV. Dar a conocer, previa autorización del Titular de la Unidad de Inteligencia Financiera, las tipologías, tendencias e indicadores en la materia competencia de la Unidad de Inteligencia Financiera, y las guías y mejores prácticas para la elaboración y envío de los reportes y avisos a que se refiere la fracción VI del artículo 15 del presente Reglamento, así como para el desarrollo de los programas de capacitación, actualización y especialización en las materias antes referidas;
 
-XVI. Informar a las autoridades competentes, así como a los sujetos obligados a observar las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, sobre la utilidad de los reportes a que se refiere dicha fracción;
+XVI. Informar a las autoridades competentes, así como a los sujetos obligados a observar las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento y a quienes realicen las actividades vulnerables y entidades colegiadas previstas en las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, sobre la utilidad de los reportes y avisos a que se refiere la fracción VI del artículo 15 de este Reglamento;
 
-XVII. Dar a conocer, en coordinación con la Dirección General Adjunta de Análisis Estratégico, los informes de calidad de los reportes a que se refiere la fracción I del artículo 15 del presente Reglamento a los sujetos obligados a observar las disposiciones de carácter general señaladas en dicha fracción, así como a los órganos administrativos desconcentrados competentes de la Secretaría, y
+XVII. Dar a conocer, en coordinación con la Dirección General de Análisis, los informes de calidad de los reportes y avisos a que se refiere la fracción VI del artículo 15 del presente Reglamento a los sujetos obligados a observar las disposiciones de carácter general señaladas en la fracción I del artículo referido y a quienes realicen las actividades vulnerables y entidades colegiadas previstas en las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, así como a los órganos administrativos desconcentrados competentes de la Secretaría que correspondan;
 
-XVIII. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, así como atender los demás asuntos que éste le encomiende.
+XVIII. Fungir como enlace entre la Secretaría y los sujetos obligados a observar las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, así como con quienes realicen las actividades vulnerables y entidades colegiadas previstas en las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, en las materias competencia de la Unidad de Inteligencia Financiera;
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+XIX. Participar en la suscripción de los convenios que se celebren en conjunto con el Servicio de Administración Tributaria y las entidades colegiadas en términos de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento;
+
+XX. Determinar y dar a conocer, los medios de cumplimiento alternativos conforme a lo dispuesto por la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento, y
+
+XXI. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, así como atender los demás asuntos que este le encomiende.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 15-B.
 
-Compete a la Dirección de Asuntos Normativos:
+Compete a la Dirección General Adjunta de Asuntos Normativos e Internacionales:
 
-I. Elaborar, para aprobación superior, los proyectos de propuestas y de opiniones sobre las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, en términos de la legislación aplicable;
+I. Elaborar, para aprobación superior, los proyectos de propuestas y de opiniones sobre las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, en términos de las disposiciones jurídicas aplicables;
 
-II. Participar con las unidades competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias indicadas en la fracción I del artículo 15 de este Reglamento;
+II. Participar, con las unidades competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias a que se refiere el presente artículo;
 
-III. Elaborar, para aprobación superior, los proyectos de opinión jurídica a las unidades administrativas competentes de la Secretaría sobre la interpretación, para efectos administrativos, de las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, así como de las disposiciones legales de las que aquéllas emanen;
+III. Participar en la determinación y expedición de las formas oficiales para la presentación de reportes a que se refiere el inciso b) de la fracción I del artículo 15 de este Reglamento;
 
-IV. Participar en el diseño y expedición de las formas oficiales para la presentación de reportes a que se refiere la fracción I del artículo 15 de este Reglamento;
+IV. Participar, previo acuerdo superior, con los órganos administrativos desconcentrados competentes de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, por parte de las personas sujetas a dichas disposiciones;
 
-V. Participar, previo acuerdo superior, con los órganos administrativos desconcentrados de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, por parte de las personas sujetas a dichas disposiciones;
+V. Requerir y recabar, previo acuerdo superior, de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información, documentación, datos e imágenes relacionada (sic) con los reportes previstos en dichas disposiciones, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
 
-VI. Requerir y recabar, previo acuerdo superior, de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información y documentación relacionada con los reportes previstos en dichas disposiciones, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
+VI. Requerir, previo acuerdo superior, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría la información y documentación necesaria para el ejercicio de sus atribuciones, incluido el acceso a la base de datos que contenga la información que se genere con motivo del ejercicio de tales atribuciones, en los términos y plazos establecidos por la Unidad de Inteligencia Financiera, de conformidad con las disposiciones aplicables;
 
-VII. Requerir, previo acuerdo superior, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría la información y documentación necesaria para el ejercicio de sus facultades, incluido el acceso a la base de datos que contenga la información que se genere con motivo del ejercicio de tales facultades, en los términos y plazos establecidos por la Unidad de Inteligencia Financiera, de conformidad con las disposiciones aplicables;
+VII. Proporcionar, requerir e intercambiar, previo acuerdo superior, con las autoridades competentes nacionales y extranjeras la información y documentación en las materias a que se refiere el presente artículo, en términos de las disposiciones aplicables;
 
-VIII. Coordinarse con las autoridades fiscales para la práctica de actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
+VIII. Fungir, en el ámbito de competencia a que se refiere este artículo, como enlace de la Unidad de Inteligencia Financiera entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y los siguientes entes: las dependencias y entidades de la Administración Pública Federal, estatal y municipal, el Poder Judicial de la Federación, la Procuraduría General de la República, los poderes judiciales de las entidades federativas, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, así como participar en la negociación e implementación de los convenios o cualquier otro instrumento jurídico con esas instancias;
 
-IX. Proporcionar, requerir e intercambiar, previo acuerdo superior, con las autoridades competentes nacionales la información y documentación en las materias a que se refiere el presente artículo, en términos de las disposiciones aplicables;
+IX. Hacer del conocimiento de los órganos administrativos desconcentrados competentes de la Secretaría, previo acuerdo superior, el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, con el objeto de que, en su caso, dichas instancias ejerzan sus atribuciones;
 
-X. Fungir, previo acuerdo superior, como enlace de la Unidad de Inteligencia Financiera, entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, y las diversas dependencias y entidades de la Administración Pública Federal, estatal y municipal, la Procuraduría General de la República, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, así como participar en la implementación de los acuerdos que se adopten;
+X. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere el presente artículo;
 
-XI. Hacer del conocimiento de los órganos administrativos desconcentrados competentes de la Secretaría, previo acuerdo superior, el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, con el objeto de que, en su caso, dichas instancias ejerzan sus facultades;
+XI. Fungir, previo acuerdo superior, como enlace entre la Secretaría y los países, jurisdicciones u organismos internacionales o intergubernamentales y participar en la implementación de los acuerdos que se adopten en las materias a que se refiere el artículo 15, fracción I, de este Reglamento;
 
-XII. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere el artículo 15 de este Reglamento;
+XII. Presentar a la Dirección General de Asuntos Normativos, para aprobación superior, las tipologías, tendencias e indicadores en la materia competencia de la Unidad de Inteligencia Financiera respecto de las entidades financieras, así como las guías y mejores prácticas para la elaboración y envío de los reportes a que se refiere el inciso b) de la fracción I del artículo 15 del presente Reglamento;
 
-XIII. Fungir, previo acuerdo superior, como enlace entre la Secretaría y los países, jurisdicciones u organismos internacionales o intergubernamentales e implementar los acuerdos que se adopten, en las materias a que se refiere el presente artículo;
+XIII. Informar, previo acuerdo superior, a las autoridades competentes, así como a los sujetos obligados a observar las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, sobre la utilidad de los reportes a que se refiere dicha fracción;
 
-XIV. Presentar a la Dirección General Adjunta de Asuntos Normativos e Internacionales, para su aprobación, las tendencias e indicadores en la materia competencia de la Unidad de Inteligencia Financiera, así como las guías y mejores prácticas para la elaboración y envío de los reportes a que se refiere la fracción I del artículo 15 del presente Reglamento;
+XIV. Dar a conocer, previo acuerdo superior y en coordinación con la Dirección General de Análisis, los informes de calidad de los reportes a que se refiere el inciso b) de la fracción I del artículo 15 del presente Reglamento a los sujetos obligados a observar las disposiciones señaladas en dicha fracción, así como a los órganos administrativos desconcentrados competentes de la Secretaría;
 
-XV. Informar, previo acuerdo superior, a las autoridades competentes, así como a los sujetos obligados a observar las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, sobre la utilidad de los reportes a que se refiere dicha fracción;
+XV. Fungir, previo acuerdo superior, como enlace entre la Secretaría y los sujetos obligados a observar las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento;
 
-XVI. Dar a conocer, previo acuerdo superior, los informes de calidad de los reportes a que se refiere la fracción I del artículo 15 del presente Reglamento a los sujetos obligados a observar las disposiciones señaladas en dicha fracción, así como a los órganos administrativos desconcentrados competentes de la Secretaría, en coordinación con la Dirección General Adjunta de Análisis Estratégico, y
+XVI. Participar en la negociación de tratados internacionales en las materias a que se refiere el artículo 15 del presente Reglamento, y
 
-XVII. Acordar con el Director General Adjunto de Asuntos Normativos e Internacionales o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
+XVII. Acordar con el Director General de Asuntos Normativos o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que estos le encomienden.
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 15-C.
 
-Compete a la Dirección de Asuntos Internacionales:
+Compete a la Dirección General Adjunta de Asuntos Normativos y Relaciones con Actividades Vulnerables:
 
-I. Participar en la negociación de tratados internacionales en las materias a que se refiere el presente artículo;
+I. Elaborar, para aprobación superior, los proyectos de interpretación de los ordenamientos normativos a que se refiere la fracción I Ter del artículo 15 de este Reglamento;
 
-II. Fungir, previo acuerdo superior, como enlace entre la Secretaría y los países, jurisdicciones u organismos internacionales o intergubernamentales e implementar los acuerdos que se adopten en las materias a que se refiere el presente artículo;
+II. Elaborar, para aprobación superior, los proyectos de reglas de carácter general a que se refiere la fracción I Bis del artículo 15 de este Reglamento, así como los proyectos de formas oficiales a que se refiere la fracción IV del referido artículo;
 
-III. Proporcionar, requerir e intercambiar, previo acuerdo superior, con las autoridades competentes nacionales y extranjeras la información y documentación en las materias a que se refiere este artículo, en términos de las disposiciones aplicables;
+III. Participar, con las unidades administrativas competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias a que se refiere el presente artículo;
 
-IV. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refieren este artículo y el artículo 15 de este Reglamento;
+IV. Participar en la determinación y expedición de las formas oficiales para la presentación de reportes, avisos y demás información a que se refiere la fracción IV del artículo 15 de este Reglamento;
 
-V. Presentar a la Dirección General Adjunta de Asuntos Normativos e Internacionales, para su aprobación, las tipologías en las materias a que se refiere el artículo 15 de este Reglamento, y
+V. Participar, previo acuerdo superior, en la revisión, verificación, comprobación y evaluación del cumplimiento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones que de estos emanen por parte de quienes realicen las actividades vulnerables, entidades colegiadas y órganos concentradores previstos en las secciones Segunda y Cuarta del Capítulo III de dicha Ley;
 
-VI. Acordar con el Director General Adjunto de Asuntos Normativos e Internacionales o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
+VI. Requerir y recabar, previo acuerdo superior, de quienes realicen las actividades vulnerables, entidades colegiadas y órganos concentradores a que se refieren las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, directamente o a través del Servicio de Administración Tributaria, información, documentación, datos e imágenes necesarios para el ejercicio de sus atribuciones, así como obtener información adicional de otras personas o fuentes para el ejercicio de dichas atribuciones;
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+VII. Requerir, previo acuerdo superior, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría la información y documentación necesaria para el ejercicio de sus atribuciones, incluido el acceso a la base de datos que contenga la información que se genere con motivo del ejercicio de tales atribuciones, en los términos y plazos establecidos por la Unidad de Inteligencia Financiera, de conformidad con las disposiciones aplicables;
+
+VIII. Proporcionar, requerir e intercambiar, previo acuerdo superior, con las autoridades competentes nacionales y extranjeras la información y documentación en las materias a que se refiere este artículo, en términos de las disposiciones aplicables;
+
+IX. Fungir, en el ámbito de competencia a que se refiere este artículo, como enlace de la Unidad de Inteligencia Financiera entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y los siguientes entes: las dependencias y entidades de la Administración Pública Federal, estatal y municipal, el Poder Judicial de la Federación, la Procuraduría General de la República, los poderes judiciales de las entidades federativas, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, así como participar en la negociación e implementación de los convenios o cualquier otro instrumento jurídico con esas instancias;
+
+X. Hacer del conocimiento del Servicio de Administración Tributaria, previo acuerdo superior, el incumplimiento o cumplimiento extemporáneo de quienes realicen las actividades vulnerables, las entidades colegiadas y los órganos concentradores a que se refieren las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita de sus obligaciones establecidas en dicha Ley, su Reglamento y demás disposiciones que de estos emanen, con el objeto de que, en su caso, dicho órgano administrativo desconcentrado ejerza sus atribuciones;
+
+XI. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere este artículo;
+
+XII. Presentar a la Dirección General de Asuntos Normativos, para su aprobación, las tipologías, tendencias e indicadores en la materia competencia de la Unidad de Inteligencia Financiera respecto de las actividades vulnerables establecidas en el artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y las guías y mejores prácticas para el desarrollo de los programas de capacitación, actualización y especialización en las materias a que se refiere esta fracción, así como para la elaboración y envío de los avisos a que se refiere la fracción VI del artículo 15 del presente Reglamento;
+
+XIII. Informar, previo acuerdo superior, a las autoridades competentes, así como a quienes realicen las actividades vulnerables y entidades colegiadas previstas en las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita sobre la utilidad de los avisos a que se refiere la fracción VI del artículo 15 de este Reglamento;
+
+XIV. Dar a conocer, previo acuerdo superior y en coordinación con la Dirección General de Análisis, los informes de calidad de los avisos a que se refiere la fracción VI del artículo 15 del presente Reglamento a quienes realicen las actividades vulnerables y entidades colegiadas previstas en las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, así como al Servicio de Administración Tributaria cuando corresponda;
+
+XV. Fungir, previo acuerdo superior, como enlace entre la Secretaría y con quienes realicen las actividades vulnerables y entidades colegiadas previstas en las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita;
+
+XVI. Emitir opinión respecto de los proyectos de convenios que se pretenda celebrar con el Servicio de Administración Tributaria y las entidades colegiadas, en términos de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento, así como participar en la suscripción de los mismos, previo acuerdo superior, en conjunto con el referido órgano administrativo desconcentrado de la Secretaría;
+
+XVII. Emitir opinión para la determinación y dar a conocer los medios de cumplimiento alternativos a que se refieren Ley (sic) Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento, y
+
+XVIII. Acordar con el Director General de Asuntos Normativos o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que estos le encomienden.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 15-D.
 
-Compete a la Dirección General Adjunta de Análisis Estratégico:
+Compete a la Dirección General de Análisis:
 
-I. Participar en el diseño de las formas oficiales para la presentación de reportes a que se refiere la fracción I del artículo 15 de este Reglamento;
+I. Participar en la determinación de las formas oficiales para la presentación de reportes, avisos y demás información a que se refiere la fracción IV del artículo 15 de este Reglamento;
 
-II. Recibir y analizar la información contenida en los reportes a que se refiere la fracción I del artículo 15 de este Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera, así como la información y documentación relacionada con dichos reportes y declaraciones y, en su caso, recabar directamente información de bases de datos;
+II. Recibir y analizar la información contenida en los reportes, avisos y declaraciones a que se refiere la fracción VI del artículo 15 de este Reglamento, así como la información, datos, imágenes y documentación relacionada con dichos reportes, avisos y declaraciones y, en su caso, recabar directamente información de bases de datos;
 
-III. Revisar la evaluación que se realice al contenido de los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, para determinar el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere la citada fracción I del artículo 15;
+III. Evaluar el contenido de los reportes y avisos a que se refiere la fracción anterior, para determinar el incumplimiento o cumplimiento extemporáneo de las obligaciones de las personas reguladas en las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento y en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos Procedencia (sic) Ilícita, su Reglamento y demás disposiciones que de estos emanen;
 
-IV. Participar, en coordinación con la Dirección General Adjunta de Asuntos Normativos e Internacionales, en la formulación de las guías y mejores prácticas para la elaboración y el envío de los reportes a que se refiere la fracción I del artículo 15 del presente Reglamento;
+IV. Integrar los reportes de inteligencia con base en los reportes, avisos y declaraciones a que se refiere la fracción VI del artículo 15 de este Reglamento, así como en el resultado del análisis a que se refiere la fracción II del artículo 15-D de este Reglamento y, en su caso, coordinar la elaboración de los mismos;
 
-V. Proponer los lineamientos y programas en materia de recepción y análisis de la información que obtenga la Unidad de Inteligencia Financiera, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
+V. Participar, en coordinación con la Dirección General de Asuntos Normativos, en la formulación de las guías y mejores prácticas para la elaboración y el envío de los reportes y avisos a que se refiere la fracción VI del artículo 15 del presente Reglamento;
 
-VI. Revisar la evaluación que se realice de la calidad de los reportes a que se refiere la fracción I del artículo 15 del presente Reglamento, así como de los informes correspondiente (sic);
+VI. Proponer los lineamientos y programas en materia de recepción y análisis de la información, documentos, datos e imágenes que obtenga la Unidad de Inteligencia Financiera, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento, la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones que de estos emanen, y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
 
-VII. Elaborar estudios estratégicos, económicos y estadísticos en las materias a que se refiere el artículo 15 de este Reglamento y, en su caso, previo acuerdo superior, darlos a conocer;
+VII. Evaluar la calidad de los reportes y avisos a que se refiere la fracción VI del artículo 15 del presente Reglamento, así como elaborar los informes correspondientes;
 
-VIII. Proporcionar, requerir e intercambiar con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus facultades;
+VIII. Elaborar estudios estratégicos, económicos y estadísticos en las materias a que se refiere el artículo 15 de este Reglamento y, en su caso, previo acuerdo superior, darlos a conocer;
 
-IX. Administrar la información de carácter estadístico que la Unidad de Inteligencia Financiera genere u obtenga en el ejercicio de sus facultades;
+IX. Proporcionar, requerir e intercambiar con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus atribuciones;
 
-X. Proponer para aprobación superior, con la participación de la Dirección General Adjunta de Planeación e Infraestructura Tecnológica los planes de trabajo y desarrollo de sistemas de información y criterios tecnológicos mínimos que, en términos de la legislación aplicable, deban observar las personas obligadas a presentar los reportes a que se refieren las disposiciones de carácter general señaladas en la fracción I del artículo 15 del presente Reglamento;
+X. Administrar la información de carácter estadístico que la Unidad de Inteligencia Financiera genere u obtenga en el ejercicio de sus atribuciones;
 
-XI. Informar a las autoridades competentes, así como a los sujetos obligados a observar las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento, en coordinación con la Dirección General Adjunta de Asuntos Normativos e Internacionales, sobre la utilidad de los reportes a que se refiere dicha fracción;
+XI. Participar con la Dirección General Adjunta de Infraestructura Tecnológica en la propuesta de los planes de trabajo y desarrollo de sistemas de información y criterios tecnológicos mínimos que, en términos de la legislación aplicable, deban observar las personas obligadas a presentar los reportes a que se refiere el inciso b) de la fracción I del artículo 15 del presente Reglamento y los avisos previstos en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones que de estos emanen;
 
-XII. Participar con los órganos administrativos desconcentrados de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, por parte de las personas obligadas a ello en términos de la legislación aplicable;
+XII. Informar a las autoridades competentes, así como a los sujetos obligados a observar las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento y a quienes realicen las actividades vulnerables y entidades colegiadas previstas en las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, en coordinación con la Dirección General de Asuntos Normativos sobre la utilidad de los reportes y avisos a que se refiere la fracción VI del artículo 15 de este Reglamento;
 
-XIII. Identificar tipologías, tendencias e indicadores en las materias a que se refiere el artículo 15 de este Reglamento;
+XIII. Corroborar la información, datos e imágenes relacionados con la expedición de identificaciones oficiales que obren en poder de autoridades federales, así como en poder de los órganos constitucionales autónomos, entidades federativas y municipios en términos de los convenios que al efecto se celebren en términos de la fracción XXVI del artículo 15 de este Reglamento;
 
-XIV. Definir y establecer, previo acuerdo superior y en coordinación con las demás unidades administrativas adscritas a la Unidad de Inteligencia Financiera, los lineamientos, estrategias, normas y programas en materia de tecnologías de información de la Unidad de Inteligencia Financiera, de conformidad con las disposiciones en materia de tecnologías de información y comunicaciones aplicables y con el marco institucional establecido por la Dirección General de Tecnologías y Seguridad de la Información;
+XIV. Requerir, en el ámbito de sus atribuciones, a los sujetos a que hace referencia el artículo 51 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, la información y documentación a la que tengan acceso en términos de la fracción XXVII del artículo 15 de este Reglamento;
 
-XV. Definir y establecer, previo acuerdo superior, la plataforma de tecnologías de información de la Unidad de Inteligencia Financiera, así como promover su evolución, innovación, optimización y estandarización, de conformidad con las disposiciones en materia de tecnologías de información y comunicaciones aplicables y con el marco institucional establecido por la Dirección General de Tecnologías y Seguridad de la Información;
+XV. Participar con los órganos administrativos desconcentrados competentes de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento, así como de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones que de estos emanen, por parte de las personas obligadas a ello en términos de la legislación aplicable;
 
-XVI. Determinar la viabilidad técnica y operativa de los requerimientos de la Unidad de Inteligencia Financiera para la adquisición o recepción de bienes y servicios en materia de tecnologías de información y someterlos a dictamen técnico de la Dirección General de Tecnologías y Seguridad de la Información;
+XVI. Identificar tipologías, tendencias e indicadores en las materias a que se refiere el artículo 15 de este Reglamento;
 
-XVII. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere el artículo 15, fracción I de este Reglamento, y
+XVII. Participar, en coordinación con la Dirección General Adjunta de Infraestructura Tecnológica, en la determinación de la viabilidad técnica y operativa de los requerimientos de la Unidad de Inteligencia Financiera para la adquisición o recepción de bienes y servicios en materia de tecnologías de información;
 
-XVIII. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éste le encomiende.
+XVIII. Atender los requerimientos y resoluciones de autoridades jurisdiccionales o administrativas, incluyendo al Ministerio Público de la Federación, que le remita la Dirección General de Procesos Legales;
 
-> <small>(ADICIONADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+XIX. Participar con la Dirección General de Procesos Legales, en la coordinación con las autoridades fiscales para la práctica de actos de fiscalización que resulten necesarios para ejercer las facultades conferidas conforme al presente artículo;
+
+XX. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias competencia de la Unidad de Inteligencia Financiera, y
+
+XXI. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que este le encomiende.
 
 ###### Artículo 15-D Bis.
 
-Compete a la Dirección de Evaluación Estratégica:
-
-I. Participar en el diseño de las formas oficiales para la presentación de reportes a que se refiere la fracción I del artículo 15 de este Reglamento;
-
-II. Analizar la información y documentación contenida en los reportes a que se refiere la fracción I del artículo 15 de este Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera y, en su caso, recabar directamente información de bases de datos;
-
-III. Evaluar el contenido de los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, para determinar el incumplimiento o cumplimiento extemporáneo de dichas disposiciones;
-
-IV. Participar, en coordinación con la Dirección de Análisis Estadístico, en la elaboración de propuestas de lineamientos y programas en materia de recepción y análisis de la información que obtenga la Unidad de Inteligencia Financiera, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
-
-V. Evaluar la calidad de los reportes a que se refiere la fracción I del artículo 15 del presente Reglamento;
-
-VI. Elaborar el informe sobre la utilidad, evaluación de la calidad y del incumplimiento o cumplimiento extemporáneo de las disposiciones y de los reportes a que se refiere la fracción I del artículo 15 del presente Reglamento;
-
-VII. Participar en la formulación de propuestas de guías y mejores prácticas para la elaboración y el envío de los reportes a que se refiere la fracción I del artículo 15 del presente Reglamento;
-
-VIII. Participar, con la Dirección de Estudios Estratégicos en la identificación de las tipologías, tendencias e indicadores sobre las materias a que se refiere el artículo 15 de este Reglamento;
-
-IX. Participar, en coordinación con la Dirección General Adjunta de Planeación e Infraestructura Tecnológica, en la elaboración de propuestas de los planes de trabajo y desarrollo de sistemas de información y criterios tecnológicos mínimos que, en términos de la legislación aplicable, deban observar las personas obligadas a presentar los reportes a que se refieren las disposiciones de carácter general señaladas en la fracción I del artículo 15 del presente Reglamento y, en su caso, en su establecimiento;
-
-X. Participar, previo acuerdo superior, con los órganos administrativos desconcentrados de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento;
-
-XI. Participar en foros y eventos nacionales e internacionales en las materias a que se refiere el artículo 15, fracción I de este Reglamento, y
-
-XII. Acordar con el Director General Adjunto de Análisis Estratégico o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
-
-> <small>(ADICIONADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
 ###### Artículo 15-D Ter.
 
-Compete a la Dirección de Estudios Estratégicos:
-
-I. Participar en el diseño de las formas oficiales para la presentación de reportes a que se refiere la fracción I del artículo 15 de este Reglamento;
-
-II. Analizar la información y documentación contenida en los reportes a que se refiere la fracción I del artículo 15 de este Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera y, en su caso, recabar directamente información de bases de datos;
-
-III. Participar, en coordinación con la Dirección de Análisis Estadístico, en la elaboración de propuestas de lineamientos y programas en materia de recepción y análisis de la información que obtenga la Unidad de Inteligencia Financiera, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
-
-IV. Proponer a la Dirección General Adjunta de Análisis Estratégico las tipologías, tendencias e indicadores en la materia a que se refiere el artículo 15 de este Reglamento;
-
-V. Coadyuvar con la Dirección de Evaluación Estratégica en la evaluación del contenido de los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, para determinar el incumplimiento o cumplimiento extemporáneo de dichas disposiciones;
-
-VI. Elaborar estudios estratégicos en las materias a que se refiere el artículo 15 de este Reglamento y, en su caso, previo acuerdo superior, darlos a conocer;
-
-VII. Proporcionar, requerir e intercambiar, previo acuerdo superior, con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus facultades;
-
-VIII. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere el artículo 15, fracción I de este Reglamento, y
-
-IX. Acordar con el Director General Adjunto de Análisis Estratégico o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
-
-> <small>(ADICIONADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
 ###### Artículo 15-D Quáter.
 
-Compete a la Dirección de Análisis Estadístico:
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-I. Participar en el diseño de las formas oficiales para la presentación de reportes a que se refiere la fracción I del artículo 15 de este Reglamento;
-
-II. Analizar la información contenida en los reportes a que se refiere la fracción I del artículo 15 de este Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera, así como la información y documentación relacionada con dichos reportes y declaraciones y, en su caso, recabar directamente información de bases de datos;
-
-III. Proponer a la Dirección General Adjunta de Análisis Estratégico los lineamientos y programas en materia de recepción y análisis de la información que obtenga la Unidad de Inteligencia Financiera, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
-
-IV. Elaborar la información de carácter estadístico que la Unidad de Inteligencia Financiera genere u obtenga en el ejercicio de sus facultades;
-
-V. Elaborar estudios económicos y estadísticos en las materias a que se refiere el artículo 15 de este Reglamento y, en su caso, previo acuerdo superior, darlos a conocer;
-
-VI. Proporcionar, requerir e intercambiar, previo acuerdo superior, con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus facultades;
-
-VII. Participar, previo acuerdo superior, con los órganos administrativos desconcentrados de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I del artículo 15 de este Reglamento;
-
-VIII. Participar con la Dirección de Estudios Estratégicos, en la identificación de las tipologías, tendencias e indicadores en la materia a que se refiere el artículo 15 de este Reglamento;
-
-IX. Participar con la Dirección de Evaluación Estratégica en la evaluación del contenido de los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, para determinar el incumplimiento o cumplimiento extemporáneo de dichas disposiciones;
-
-X. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere el artículo 15, fracción I de este Reglamento, y
-
-XI. Acordar con el Director General Adjunto de Análisis Estratégico o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
-
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 15-E.
 
-Compete a la Dirección General Adjunta de Análisis de Operaciones:
+Compete a la Dirección General de Procesos Legales:
 
-I. Participar en el diseño de las formas oficiales para la presentación de reportes a que se refiere la fracción I del artículo 15 de este Reglamento;
+I. Recibir y recopilar, en relación con las materias a que se refiere este artículo, las pruebas, constancias, reportes, avisos, documentación, datos, imágenes e informes sobre las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, los relacionados con estos, así como sobre las estructuras financieras de las organizaciones delictivas, e integrar los expedientes respectivos;
 
-II. Coordinar la elaboración de los reportes de análisis de operaciones con base en los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera y en el resultado del análisis a que se refiere la fracción II del artículo 15-D de este Reglamento, y, en su caso, integrarlos;
+II. Denunciar ante el Ministerio Público de la Federación las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, así como aquellas previstas en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, allegándose de los elementos probatorios del caso;
 
-III. Analizar, en las materias a que se refiere este artículo, la información y documentación relacionada con los reportes y declaraciones previstos en la fracción VI del artículo 15 de este Reglamento y, en su caso, recabar directamente información de bases de datos;
+III. Coadyuvar, en su caso, con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a las conductas a que se refiere la fracción anterior de este artículo;
 
-IV. Revisar la atención de los requerimientos y resoluciones de autoridades jurisdiccionales o administrativas, incluyendo al Ministerio Público de la Federación, que le remita la Dirección General Adjunta de Procesos Legales o la Dirección de Atención a Requerimientos;
+IV. Coordinar el seguimiento de las denuncias formuladas por la Unidad de Inteligencia Financiera, desde su presentación y, en su caso, hasta la emisión de la resolución que no admita medio de defensa alguno, así como de los reportes de inteligencia presentados ante la autoridad competente;
 
-V. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información y documentación relacionada con los reportes previstos en dichas disposiciones, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
+V. Fungir, en las materias a que se refiere este artículo, como enlace de la Unidad de Inteligencia Financiera entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y los siguientes entes: las dependencias y entidades de la Administración Pública Federal, estatal y municipal, el Poder Judicial de la Federación, la Procuraduría General de la República, los poderes judiciales de las entidades federativas, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, así como participar en la implementación de los acuerdos que se adopten en las materias a que se refiere el presente artículo;
 
-VI. Proporcionar, requerir e intercambiar con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus facultades;
+VI. Coordinar, con las autoridades fiscales, la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las atribuciones conferidas a la Unidad de Inteligencia Financiera conforme al artículo 15 del presente Reglamento;
 
-VII. Coadyuvar con la Dirección General Adjunta de Análisis Estratégico en la evaluación del contenido de los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, para determinar el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere dicha disposición, así como de su calidad;
+VII. Proporcionar, requerir e intercambiar con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus atribuciones;
 
-VIII. Participar en la elaboración de los lineamientos y programas en materia de análisis de la información que obtenga la Unidad de Inteligencia Financiera, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
+VIII. Tramitar los requerimientos y resoluciones de autoridades jurisdiccionales o administrativas, incluyendo al Ministerio Público de la Federación;
 
-IX. Coordinarse con las autoridades fiscales para la práctica de actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
+IX. Participar en la corroboración de la información, datos e imágenes relacionados con la expedición de identificaciones oficiales que obren en poder de autoridades federales, así como en poder de los órganos constitucionales autónomos, entidades federativas y municipios en términos de los convenios que al efecto se celebren en términos de la fracción XXVI del artículo 15 de este Reglamento;
 
-X. Colaborar en la identificación de tipologías, tendencias e indicadores en la materia a que se refiere el artículo 15 de este Reglamento;
+X. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento y de quienes realicen las actividades vulnerables, entidades colegiadas y órganos concentradores a que se refieren las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, directamente o a través de las instancias correspondientes, según sea el caso, información, documentación, datos e imágenes relacionadas con los reportes y avisos previstos en dichas disposiciones y en la referida ley, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
 
-XI. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere el artículo 15, fracción I de este Reglamento, y
+XI. Requerir a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría la información y documentación necesaria para el ejercicio de sus atribuciones, incluido el acceso a la base de datos que contenga la información que se genere con motivo del ejercicio de tales atribuciones, en los términos y plazos establecidos por la propia Unidad, de conformidad con las disposiciones aplicables;
 
-XII. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
+XII. Requerir, en el ámbito de sus atribuciones, a los sujetos a que hace referencia el artículo 51 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, la información y documentación a la que tengan acceso en términos de la fracción XXVII del artículo 15 de este Reglamento;
 
-> <small>(ADICIONADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+XIII. Participar en la identificación de tipologías a que se refiere el artículo 15 de este Reglamento;
+
+XIV. Participar en coordinación con las unidades competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias competencia de la Unidad de Inteligencia Financiera;
+
+XV. Participar en foros y eventos nacionales e internacionales en los asuntos relativos a las materias competencia de la Unidad de Inteligencia Financiera, y
+
+XVI. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que le encomiende.
 
 ###### Artículo 15-E Bis.
 
-Compete a la Dirección de Análisis de Operaciones:
-
-I. Participar en el diseño de las formas oficiales para la presentación de reportes a que se refieren la fracción I del artículo 15 de este Reglamento;
-
-II. Integrar reportes de análisis de operaciones con base en los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera que le asigne el Director General Adjunto de Análisis de Operaciones y, en su caso, en el resultado del análisis a que se refiere la fracción II del artículo 15-D de este Reglamento;
-
-III. Analizar la información y documentación relacionada con los reportes y declaraciones previstos en la fracción VI del artículo 15 de este Reglamento y, en su caso, recabar directamente información de bases de datos;
-
-IV. Requerir y recabar, previo acuerdo superior, de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información y documentación relacionada con los reportes previstos en dichas disposiciones, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
-
-V. Proporcionar, requerir e intercambiar, previo acuerdo superior, con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus facultades;
-
-VI. Coadyuvar con la Dirección General Adjunta de Análisis de Operaciones en la evaluación del contenido de los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, para determinar el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere dicho precepto, así como de su calidad;
-
-VII. Participar en la elaboración de los lineamientos y programas en materia de análisis de la información que obtenga la Unidad de Inteligencia Financiera, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
-
-VIII. Coordinarse, previo acuerdo superior, con las autoridades fiscales para la práctica de actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
-
-IX. Colaborar en la identificación de tipologías, tendencias e indicadores en la materia a que se refiere el artículo 15 de este Reglamento;
-
-X. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere la fracción I del artículo 15 de este Reglamento, y
-
-XI. Acordar con el Director General Adjunto de Análisis de Operaciones o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
-
-> <small>(ADICIONADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
 ###### Artículo 15-E Ter.
 
-Compete a la Dirección de Análisis Financiero:
-
-I. Participar en el diseño de las formas oficiales para la presentación de reportes a que se refiere la fracción I del artículo 15 de este Reglamento;
-
-II. Integrar reportes de análisis de operaciones con base en los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera que le asigne el Director General Adjunto de Análisis de Operaciones y, en su caso, en el resultado del análisis a que se refiere la fracción II del artículo 15-D de este Reglamento;
-
-III. Analizar la información y documentación relacionada con los reportes y declaraciones previstos en la fracción VI del artículo 15 este (sic) Reglamento y, en su caso, recabar directamente información de bases de datos;
-
-IV. Requerir y recabar, previo acuerdo superior, de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información y documentación relacionada con los reportes previstos en dichas disposiciones, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
-
-V. Proporcionar, requerir e intercambiar, previo acuerdo superior, con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus facultades;
-
-VI. Coadyuvar con la Dirección General Adjunta de Análisis de Operaciones en la evaluación del contenido de los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, para determinar el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere dicho precepto, así como de su calidad;
-
-VII. Participar en la elaboración de los lineamientos y programas en materia de análisis de la información que obtenga la Unidad de Inteligencia Financiera, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
-
-VIII. Coordinarse, previo acuerdo superior, con las autoridades fiscales para la práctica de actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo;
-
-IX. Colaborar en la identificación de tipologías, tendencias e indicadores en la materia a que se refiere el artículo 15 de este Reglamento;
-
-X. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere la fracción I del artículo 15 de este Reglamento, y
-
-XI. Acordar con el Director General Adjunto de Análisis de Operaciones o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
-
-> <small>(ADICIONADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
 ###### Artículo 15-E Quáter.
 
-Compete a la Dirección de Análisis Reactivo:
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-I. Participar en el diseño de las formas oficiales para la presentación de reportes a que se refieren la fracción I del artículo 15 de este Reglamento;
-
-II. Analizar la información contenida en los reportes a que se refiere la fracción I del artículo 15 de este Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera, así como la información y documentación relacionada con dichos reportes y declaraciones y, en su caso, recabar directamente información de bases de datos;
-
-III. Atender los requerimientos y resoluciones de autoridades jurisdiccionales o administrativas, incluyendo al Ministerio Público de la Federación, que le asigne el Director General Adjunto de Análisis de Operaciones;
-
-IV. Requerir y recabar, previo acuerdo superior, de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información y documentación relacionada con los reportes previstos en dichas disposiciones, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
-
-V. Proporcionar, requerir e intercambiar, previo acuerdo superior, con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus facultades;
-
-VI. Coadyuvar con la Dirección General Adjunta de Análisis de Operaciones en la evaluación del contenido de los reportes a que se refiere la fracción I del artículo 15 de este Reglamento, para determinar el incumplimiento o cumplimiento extemporáneo de las disposiciones de carácter general a que se refiere el citado precepto, así como de su calidad;
-
-VII. Participar en la elaboración de los lineamientos y programas en materia de análisis de la información que obtenga la Unidad de Inteligencia Financiera, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
-
-VIII. Colaborar en la identificación de tipologías, tendencias e indicadores en la materia a que se refiere la fracción I del artículo 15 de este Reglamento;
-
-IX. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias a que se refiere la fracción I del artículo 15 de este Reglamento, y
-
-X. Acordar con el Director General Adjunto de Análisis de Operaciones o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
-
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 15-F.
 
-Compete a la Dirección General Adjunta de Procesos Legales:
+Compete a las Direcciones de Procesos Legales "A" y "B":
 
-I. Recibir y recopilar, en las materias a que se refiere el artículo 15 de este Reglamento, las pruebas, constancias, reportes, documentación e informes sobre las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita e integrar los expedientes respectivos;
+I. Estudiar y recopilar, en relación con las materias a que se refiere este artículo, las pruebas, constancias, reportes, avisos, documentación, datos, imágenes e informes sobre las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, los relacionados con estos, así como sobre las estructuras financieras de las organizaciones delictivas, e integrar los expedientes respectivos;
 
-II. Denunciar ante el Ministerio Público de la Federación las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, allegándose de los elementos probatorios del caso;
+II. Denunciar ante el Ministerio Público de la Federación las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, así como aquellas previstas en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, allegándose de los elementos probatorios del caso;
 
 III. Coadyuvar, en su caso, con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a las conductas a que se refiere la fracción anterior de este artículo;
 
-IV. Coordinar el seguimiento de las denuncias formuladas por la Unidad de Inteligencia Financiera, desde su presentación y, en su caso, hasta el ejercicio de la acción penal, así como de los reportes de análisis de operaciones presentados ante la autoridad competente;
+IV. Dar seguimiento de las denuncias formuladas por la Unidad de Inteligencia Financiera desde su presentación y, en su caso, hasta la emisión de resolución que no admita medio de defensa alguno, así como de los reportes de inteligencia presentados ante la autoridad competente;
 
-V. Fungir, en las materias a que se refiere este artículo, como enlace de la Unidad de Inteligencia Financiera entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y los siguientes entes: las dependencias y entidades de la Administración Pública Federal, estatal y municipal, la Procuraduría General de la República, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, así como participar en la implementación de los acuerdos que se adopten en las materias a que se refiere el presente artículo;
+V. Dar respuesta a los requerimientos y resoluciones de autoridades judiciales y administrativas, incluyendo al Ministerio Público de la Federación, que sean formulados a la Unidad de Inteligencia Financiera;
 
-VI. Proporcionar, requerir e intercambiar con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus facultades;
+VI. Proporcionar, requerir e intercambiar, con las autoridades competentes nacionales y extranjeras, la información y documentación necesaria para el ejercicio de sus atribuciones;
 
-VII. Tramitar los requerimientos y resoluciones de autoridades jurisdiccionales o administrativas, incluyendo al Ministerio Público de la Federación;
+VII. Participar en la coordinación, con las autoridades fiscales, de la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las atribuciones conferidas a la Unidad de Inteligencia Financiera conforme al artículo 15 del presente Reglamento;
 
-VIII. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información y documentación relacionada con los reportes previstos en dichas disposiciones, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
+VIII. Participar en la corroboración de la información, datos e imágenes relacionados con la expedición de identificaciones que obren en poder de las autoridades federales, así como en poder de los órganos constitucionales autónomos, entidades federativas y municipios en términos de los convenios que al efecto se celebren en términos de la fracción XXVI del artículo 15 de este Reglamento;
 
-IX. Requerir a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría la información y documentación necesaria para el ejercicio de sus facultades, incluido el acceso a la base de datos que contenga la información que se genere con motivo del ejercicio de tales facultades, en los términos y plazos establecidos por la propia Unidad, de conformidad con las disposiciones aplicables;
+IX. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento y de quienes realicen las actividades vulnerables, entidades colegiadas y órganos concentradores a que se refieren las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, directamente o a través de las instancias correspondientes, según sea el caso, información, documentación, datos e imágenes relacionadas con los reportes y avisos previstos en dichas disposiciones y en la referida ley, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
 
-X. Participar en la identificación de tipologías a que se refiere el artículo 15 de este Reglamento;
+X. Requerir a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría la información y documentación necesaria para el ejercicio de las atribuciones conferidas a la Unidad de Inteligencia Financiera, en los términos y plazos establecidos por la propia Unidad, de conformidad con las disposiciones aplicables;
 
-XI. Participar en coordinación con las unidades competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias indicadas en la fracción I del artículo 15 del presente Reglamento;
+XI. Requerir, en el ámbito de sus atribuciones, a los sujetos a que hace referencia el artículo 51 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, la información y documentación a la que tengan acceso en términos de la fracción XXVII del artículo 15 de este Reglamento, y
 
-XII. Participar en foros y eventos nacionales e internacionales en los asuntos relativos a las materias a que se refiere la fracción I del artículo 15 de este Reglamento, y
+XII. Acordar con el Director General Adjunto de Procesos Legales o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que estos le encomienden.
 
-XIII. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que le encomiende.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 15-G.
 
-Compete a la Dirección de Atención a Requerimientos:
+Compete a la Dirección General Adjunta de Infraestructura Tecnológica:
 
-I. Estudiar y recopilar las pruebas, constancias, documentación e informes sobre las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita e integrar los expedientes respectivos;
+I. Proponer para aprobación superior, con la participación de la Dirección General de Análisis, los planes de trabajo y desarrollo de sistemas de información y criterios tecnológicos mínimos que, en términos de la legislación aplicable, deban observar las personas obligadas a presentar los reportes a que se refiere el inciso b) de la fracción I del artículo 15 del presente Reglamento y los avisos e información previstos en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones que de estos emanen;
 
-II. Dar respuesta a los requerimientos y resoluciones de autoridades judiciales y administrativas, incluyendo al Ministerio Público de la Federación, que sean formulados a la Unidad de Inteligencia Financiera;
+II. Participar en la elaboración de los lineamientos y programas que requiera la Unidad de Inteligencia Financiera en las materias a que se refiere el presente artículo;
 
-III. Proporcionar, requerir e intercambiar, con las autoridades competentes nacionales y extranjeras, la información y documentación necesaria para el ejercicio de sus facultades;
+III. Definir y establecer, previo acuerdo superior y en coordinación con las demás unidades administrativas adscritas a la Unidad de Inteligencia Financiera, los lineamientos, estrategias, normas y programas en materia de infraestructura tecnológica y comunicaciones, de conformidad con las disposiciones en materia de sistemas, tecnologías de información y comunicaciones aplicables y con el marco institucional establecido por la Dirección General de Tecnologías y Seguridad de la Información;
 
-IV. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información y documentación relacionada con los reportes a que se refiere la citada fracción I, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
+IV. Definir y establecer, previo acuerdo superior, la plataforma de servicios tecnológicos y comunicaciones y el marco tecnológico de referencia que apoye las funciones de la Unidad de Inteligencia Financiera, así como promover su evolución, innovación, optimización y estandarización, de conformidad con las disposiciones en materia de tecnologías de información y comunicaciones aplicables y con el marco institucional establecido por la Dirección General de Tecnologías y Seguridad de la Información;
 
-V. Requerir a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría para que colaboren en el ejercicio de las facultades conferidas a la Unidad de Inteligencia Financiera, en los términos y plazos requeridos por la propia Unidad, de conformidad con las disposiciones aplicables;
+V. Definir, diseñar e instrumentar las normas, lineamientos y metodologías para la administración de servicios tecnológicos y la gestión de infraestructura de la Unidad de Inteligencia Financiera, de conformidad con las disposiciones en materia de tecnologías de la información y comunicaciones aplicables y con el marco institucional establecido por la Dirección General de Tecnologías y Seguridad de la Información;
 
-VI. Coadyuvar en la identificación de tipologías a que se el (sic) artículo 15 de este Reglamento;
+VI. Definir e instrumentar, en coordinación con las unidades administrativas de la Unidad de Inteligencia Financiera, los procedimientos, medidas de control y evaluación del cumplimiento de las políticas de seguridad de la información institucional en materia de tecnologías de la información y comunicaciones de la propia Unidad, así como su difusión y supervisión, inclusive las relativas a la administración de identidades, control de acceso, protección a la confidencialidad, verificación de integridad y mecanismos de no repudio para la explotación de bitácoras, la instrumentación de las soluciones tecnológicas que los habilitan y para las necesidades de intercambio, transmisión y almacenamiento de información y desecho de la información y los procedimientos de identificación y autentificación de usuarios, que deban aplicarse en dicha Unidad, de conformidad con las disposiciones en materia de tecnologías de información y comunicaciones aplicables y con el marco institucional establecido por la Dirección General de Tecnologías y Seguridad de la Información;
 
-VII. Participar en coordinación con las unidades competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias indicadas en la fracción I del artículo 15 del presente Reglamento;
+VII. Determinar la viabilidad técnica y operativa de los requerimientos de las unidades administrativas adscritas a la Unidad de Inteligencia Financiera para la contratación de servicios en materia de infraestructura y comunicaciones y someterlos a dictamen técnico de la Dirección General de Tecnologías y Seguridad de la Información;
 
-VIII. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias previstas en la fracción I del artículo 15 del presente Reglamento, y
+VIII. Proporcionar la atención y el soporte técnico a la Unidad de Inteligencia Financiera;
 
-IX. Acordar con el Director General Adjunto de Procesos Legales o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
+IX. Implementar, conjuntamente con la Dirección General de Tecnologías y Seguridad de la Información, las políticas, normas y mecanismos que permitan una operación continua de la red de comunicaciones y de la infraestructura de tecnologías de información relacionada con los servicios informáticos de la Unidad de Inteligencia Financiera;
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+X. Definir y promover en la Unidad de Inteligencia Financiera una cultura de calidad, seguridad y protección de la información;
+
+XI. Definir y diseñar, en coordinación con las unidades administrativas de la Unidad de Inteligencia Financiera que corresponda, los programas, planes y procedimientos de continuidad de la operación e integridad de los servicios, información y recursos tecnológicos en casos de contingencia o desastre, así como su instrumentación, en colaboración con la Dirección General de Tecnologías y Seguridad de la Información;
+
+XII. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias previstas en el presente artículo, y
+
+XIII. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que este le encomiende.
 
 ###### Artículo 15-H.
 
-Compete a la Dirección de Formulación y Seguimiento de Denuncias y Reportes:
-
-I. Estudiar y recopilar las pruebas, constancias, documentación e informes sobre las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita e integrar los expedientes respectivos;
-
-II. Denunciar ante el Ministerio Público de la Federación las conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos de terrorismo y su financiamiento o de operaciones con recursos de procedencia ilícita, allegándose de los elementos probatorios del caso;
-
-III. Coadyuvar, en su caso, con las autoridades competentes, en representación de la Secretaría, en los procedimientos penales relativos a las conductas a que se refiere la fracción anterior de este artículo;
-
-IV. Dar el seguimiento de las denuncias formuladas por la Unidad de Inteligencia Financiera desde su presentación y, en su caso, hasta el ejercicio de la acción penal, así como de los reportes de análisis de operaciones presentados ante la autoridad competente;
-
-V. Proporcionar, requerir e intercambiar con las autoridades competentes nacionales y extranjeras la información y documentación necesaria para el ejercicio de sus facultades;
-
-VI. Requerir y recabar de las personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 15 de este Reglamento, directamente o a través de las instancias correspondientes, información y documentación relacionada con los reportes a que se refiere la citada fracción I, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
-
-VII. Requerir a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría para que colaboren en el ejercicio de las facultades conferidas a la Unidad de Inteligencia Financiera, en los términos y plazos requeridos por la propia Unidad de conformidad con las disposiciones aplicables;
-
-VIII. Apoyar a la Dirección General Adjunta de Procesos Legales, en su función de enlace entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, y los siguientes entes: dependencias y entidades de la Administración Pública Federal, estatal y municipal; Procuraduría General de la República; procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, así como participar en la implementación de los acuerdos que se adopten en las materias a que se refiere el presente artículo;
-
-IX. Participar en la identificación de tipologías a que se refiere el artículo 15 de este Reglamento;
-
-X. Participar, en coordinación con las unidades competentes de la Secretaría, en el estudio y elaboración de anteproyectos de iniciativas de leyes, reglamentos, acuerdos o decretos relativos a las materias indicadas en la fracción I del artículo 15 del presente Reglamento;
-
-XI. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias competencia de la Unidad de Inteligencia Financiera, y
-
-XII. Acordar con el Director General Adjunto de Procesos Legales o con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éstos le encomienden.
-
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
 ###### Artículo 15-H Bis.
 
-Compete a la Dirección General Adjunta de Planeación e Infraestructura Tecnológica:
-
-I. Coordinar la instrumentación de lineamientos y programas de la Unidad de Inteligencia Financiera, así como darles seguimiento y evaluar su ejecución, en el ámbito de sus atribuciones que establece este artículo;
-
-II. Definir, previo acuerdo superior, en coordinación con las demás unidades adscritas a la Unidad de Inteligencia Financiera, los lineamientos, procedimientos y criterios para la integración y generación de los informes de gestión e indicadores estratégicos de la Unidad;
-
-III. Participar, con la Dirección General Adjunta de Análisis Estratégico, en la propuesta de los planes de trabajo y desarrollo de sistemas de información y criterios tecnológicos mínimos que, en términos de la legislación aplicable, deban observar las personas obligadas a presentar los reportes a que se refieren las disposiciones de carácter general señaladas en la fracción I del artículo 15 del presente Reglamento;
-
-IV. Participar en la elaboración de los lineamientos y programas en materia de recepción de la información por parte de la Unidad de Inteligencia Financiera, de conformidad con las disposiciones de carácter general a que se refiere la fracción I del artículo 15 del presente Reglamento y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera;
-
-V. Definir y establecer, previo acuerdo superior y en coordinación con las demás unidades administrativas adscritas a la Unidad de Inteligencia Financiera, los lineamientos, estrategias, normas y programas en materia de infraestructura tecnológica y comunicaciones, de conformidad con las disposiciones en materia de tecnologías de información y comunicaciones aplicables y con el marco institucional establecido por la Dirección General de Tecnologías y Seguridad de la Información;
-
-VI. Definir y establecer, previo acuerdo superior, la plataforma de servicios tecnológicos y comunicaciones y el marco tecnológico de referencia que apoye las funciones de la Unidad de Inteligencia Financiera, así como promover su evolución, innovación, optimización y estandarización, de conformidad con las disposiciones en materia de tecnologías de información y comunicaciones aplicables y con el marco institucional establecido por la Dirección General de Tecnologías y Seguridad de la Información;
-
-VII. Definir, diseñar e instrumentar las normas, lineamientos y metodologías para la administración de servicios tecnológicos y la gestión de infraestructura de la Unidad de Inteligencia Financiera, de conformidad con las disposiciones en materia de tecnologías de la información y comunicaciones aplicables y con el marco institucional establecido por la Dirección General de Tecnologías y Seguridad de la Información;
-
-VIII. Definir e instrumentar, en coordinación con las unidades administrativas de la Unidad de Inteligencia Financiera, los procedimientos, medidas de control y evaluación del cumplimiento de las políticas de seguridad de la información institucional en materia de tecnologías de la información y comunicaciones de la propia Unidad, así como su difusión y supervisión, inclusive las relativas a la administración de identidades, control de acceso, protección a la confidencialidad, verificación de integridad y mecanismos de no repudio para la explotación de bitácoras, la instrumentación de las soluciones tecnológicas que los habilitan y para las necesidades de intercambio, transmisión y almacenamiento de información y desecho de la información y los procedimientos de identificación y autentificación de usuarios, que deban aplicarse en dicha Unidad, de conformidad con las disposiciones en materia de tecnologías de información y comunicaciones aplicables y con el marco institucional establecido por la Dirección General de Tecnologías y Seguridad de la Información;
-
-IX. Determinar la viabilidad técnica y operativa de los requerimientos de las unidades administrativas adscritas a la Unidad de Inteligencia Financiera para la contratación de servicios en materia de infraestructura y comunicaciones y someterlos a dictamen técnico de la Dirección General de Tecnologías y Seguridad de la Información;
-
-X. Proporcionar la atención y el soporte técnico a la Unidad de Inteligencia Financiera;
-
-XI. Implementar, conjuntamente con la Dirección General de Tecnologías y Seguridad de la Información, las políticas, normas y mecanismos que permitan una operación continua de la red de comunicaciones y de la infraestructura de tecnologías de información relacionada con los servicios informáticos de la Unidad de Inteligencia Financiera;
-
-XII. Definir y promover en la Unidad de Inteligencia Financiera una cultura de calidad, seguridad y protección de la información;
-
-XIII. Definir y diseñar, en coordinación con las unidades administrativas de la Unidad de Inteligencia Financiera que corresponda, los programas, planes y procedimientos de continuidad de la operación e integridad de los servicios, información y recursos tecnológicos en casos de contingencia o desastre, así como su instrumentación, en colaboración con la Dirección General de Tecnologías y Seguridad de la Información;
-
-XIV. Fungir, en las materias del presente artículo, como enlace entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y los siguientes entes: las dependencias y entidades de la Administración Pública Federal, estatal y municipal, la Procuraduría General de la República, las procuradurías generales de justicia o fiscalías de las entidades federativas y organismos constitucionales autónomos, así como participar en la implementación de los acuerdos que se adopten;
-
-XV. Participar en foros y eventos nacionales e internacionales en asuntos relativos a las materias previstas en la fracción I del artículo 15 de este Reglamento, y
-
-XVI. Acordar con el Titular de la Unidad de Inteligencia Financiera los asuntos de su competencia, y atender los demás asuntos que éste le encomiende.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
 ###### Artículo 15-H Ter.
 
@@ -4553,6 +4567,36 @@ XXXVIII. Administrar, en el ámbito presupuestario y en forma integral, el ramo 
 
 XXXIX. Representar a la Subsecretaría de Egresos, cuando por instrucciones superiores así se establezca, en las sesiones de los órganos de gobierno y grupos de trabajo de las entidades y dependencias de la Administración Pública Federal, organismos públicos autónomos, y comités técnicos de fideicomisos públicos.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 62-A.
+
+Compete a la Dirección General de Política Presupuestaria:
+
+I. Coadyuvar en la integración del proyecto de Presupuesto de Egresos de la Federación para cada ejercicio fiscal, consolidando los programas y presupuestos sectoriales, institucionales, regionales y especiales, y compatibilizar el nivel de gasto global con los requerimientos presupuestarios de los sectores;
+
+II. Colaborar en la formulación de las políticas de gasto público federal y apoyar a las unidades administrativas competentes de la Secretaría en la definición de niveles de gasto y distribución de los programas, proyectos y presupuestos para cada ejercicio fiscal;
+
+III. Coadyuvar en la coordinación, instrumentación y registro, con la participación de las unidades administrativas competentes de la Secretaría, de las adecuaciones correspondientes al gasto público durante su ejercicio;
+
+IV. Proponer, para aprobación superior, las normas y metodologías a las que deberán sujetarse las dependencias y entidades de la Administración Pública Federal para el proceso de programación y presupuesto, así como el ejercicio del presupuesto, en los niveles sectorial, institucional y regional, considerando la política de gasto público federal, así como participar en la implementación de las normas, metodologías y procedimientos técnicos aprobados por el Consejo Nacional de Armonización Contable, en coordinación con las unidades administrativas competentes de la Secretaría, en el ámbito de la Administración Pública Federal;
+
+V. Elaborar y proponer mejoras a los sistemas de información para el registro y control presupuestario, así como participar en la elaboración de las normas que regulen los procesos, el desarrollo, operación y actualización de los referidos sistemas;
+
+VI. Elaborar estudios, investigaciones e informes especializados en materia de política presupuestaria, así como proponer medidas que promuevan la orientación a resultados del presupuesto;
+
+VII. Participar en el análisis e integración de la información del ejercicio del Presupuesto de Egresos de la Federación, para el seguimiento, análisis y rendición de cuentas, incluyendo aquella comprendida en los informes que se remiten al Congreso de la Unión conforme a las disposiciones aplicables;
+
+VIII. Proponer para aprobación superior, en coordinación con las unidades administrativas competentes de la Secretaría, en el marco de la planeación nacional del desarrollo, los criterios, procedimientos y prioridades para la asignación, seguimiento y evaluación sistemática del gasto público, así como las políticas para la modernización presupuestaria a nivel sectorial, institucional y regional, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma;
+
+IX. Elaborar el proyecto de la interpretación de las normas y lineamientos que regulen el ejercicio del gasto público federal, así como resolver las solicitudes y consultas que presenten las unidades administrativas de la Subsecretaría de Egresos, con base en las disposiciones generales aplicables;
+
+X. Participar en foros y organismos nacionales e internacionales en materia de control del gasto público;
+
+XI. Representar a la Subsecretaría de Egresos cuando por instrucciones superiores así se establezca, en las sesiones de los órganos de gobierno y grupos de trabajo de las dependencias y entidades de la Administración Pública Federal, y comités técnicos de fideicomisos públicos, y
+
+XII. Acordar con el Titular de la Unidad de Política y Control Presupuestario los asuntos de su competencia, así como atender los demás asuntos que este le encomiende.
+
 > <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 63.
@@ -4881,7 +4925,9 @@ I. Someter a consideración superior las directrices y criterios en materia de a
 
 II. Integrar los programas anuales de la Secretaría en materia de recursos materiales y servicios generales; de uso, conservación, mantenimiento y aprovechamiento de inmuebles; de mantenimiento preventivo y correctivo de mobiliario y equipo; de adquisiciones, arrendamientos y servicios; de obras públicas y de servicios relacionados con las mismas; de disposición final y baja de bienes muebles; de aseguramiento integral; de asignación, servicio y mantenimiento de parque vehicular; de servicios generales y el de protección civil, así como coordinar y supervisar su ejecución, evaluación, seguimiento y actualización periódica, de conformidad con las disposiciones aplicables;
 
-III. Supervisar los procedimientos de contratación para la adquisición de bienes muebles, el arrendamiento de bienes muebles e inmuebles, la prestación de servicios de cualquier naturaleza y la realización de obras públicas y servicios relacionados con las mismas, y suscribir los convenios, contratos y demás instrumentos jurídicos que se deriven de dichos procedimientos, salvo los señalados en la fracción VI del artículo 69 de este Reglamento y, en su caso, modificar, suspender, rescindir y hacer efectiva la terminación anticipada con proveedores de bienes, contratistas y prestadores de servicios, en los términos de las disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+III. Supervisar los procedimientos de contratación para la adquisición de bienes muebles, el arrendamiento de bienes muebles e inmuebles, la prestación de servicios de cualquier naturaleza y la realización de obras públicas y servicios relacionados con las mismas, y suscribir los convenios, contratos y demás instrumentos jurídicos que se deriven de dichos procedimientos, salvo los señalados en las fracciones VI del artículo 69 y V del artículo 69-C de este Reglamento y, en su caso, modificar, suspender, rescindir y hacer efectiva la terminación anticipada con proveedores de bienes, contratistas y prestadores de servicios, en los términos de las disposiciones aplicables.
 
 Para realizar las acciones señaladas en el párrafo anterior, respecto de la adquisición de bienes y servicios en materia de tecnologías de información y comunicaciones, se efectuarán previo dictamen de la Dirección General de Tecnologías y Seguridad de la Información;
 
@@ -4923,7 +4969,9 @@ Compete a la Dirección General Adjunta de Adquisiciones y Contratación de Serv
 
 I. Someter a consideración superior las políticas, bases y lineamientos, así como aquellas directrices en materia de adquisición de bienes, contratación de servicios y arrendamiento de bienes muebles, de conformidad con las disposiciones aplicables;
 
-II. Conducir los procedimientos de contratación para la adquisición de bienes muebles, el arrendamiento de bienes muebles e inmuebles, la prestación de servicios de cualquier naturaleza y suscribir los convenios, contratos y demás instrumentos jurídicos que se deriven de dichos procedimientos, salvo los señalados en la fracción VI del artículo 69 de este Reglamento y, en su caso, modificar, suspender, rescindir y hacer efectiva la terminación anticipada con proveedores de bienes, y prestadores de servicios, en los términos de las disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+II. Conducir los procedimientos de contratación para la adquisición de bienes muebles, el arrendamiento de bienes muebles e inmuebles, la prestación de servicios de cualquier naturaleza y suscribir los convenios, contratos y demás instrumentos jurídicos que se deriven de dichos procedimientos, salvo los señalados en las fracciones VI del artículo 69 y V del artículo 69-C de este Reglamento y, en su caso, modificar, suspender, rescindir y hacer efectiva la terminación anticipada con proveedores de bienes, y prestadores de servicios, en los términos de las disposiciones aplicables.
 
 Para realizar las acciones señaladas en el párrafo anterior, respecto de la adquisición de bienes y servicios en materia de tecnologías de información y comunicaciones, se efectuarán previo dictamen de la Dirección General de Tecnologías y Seguridad de la Información;
 
@@ -4959,37 +5007,65 @@ IX. Instrumentar procesos, programas y directrices para la administración y con
 
 El Director General de Talleres de Impresión de Estampillas y Valores, se auxiliará de los Directores Generales Adjuntos de Producción y Mantenimiento; y de Apoyo Técnico y Operativo.
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 69-A.
 
-Compete a la Dirección General de Promoción Cultural y Acervo Patrimonial:
+Compete a la Dirección General de Promoción Cultural y Acervo Patrimonial, con excepción de las atribuciones que le correspondan a la Conservaduría de Palacio Nacional:
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 I. Someter a consideración superior las directrices y criterios en materia de promoción y difusión cultural, así como para la conservación, resguardo, registro, catalogación e inventario de los bienes muebles o inmuebles que se encuentren destinados a bibliotecas, hemerotecas, museos, recintos históricos y áreas protocolarias que estén bajo la responsabilidad de la Secretaría;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 II. Suscribir convenios, contratos, acuerdos, bases de colaboración y demás instrumentos jurídicos necesarios para llevar a cabo la promoción cultural, difusión y conservación de los bienes históricos y artísticos responsabilidad de la Secretaría, de las colecciones Pago en Especie y Acervo Patrimonial, y de los acervos bibliográficos, hemerográficos, documentales e históricos de la Secretaría, que no tengan por objeto generar obligaciones de pago;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 III. Administrar, custodiar, controlar, preservar y, en su caso, difundir las colecciones Pago en Especie y Acervo Patrimonial, así como los bienes muebles de carácter histórico-artístico patrimonio cultural de la Nación, que tenga bajo su responsabilidad la Secretaría;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 IV. Coordinar la operación del registro de consulta pública de las obras recibidas por concepto de pago en especie que sean conservadas como patrimonio cultural de la Nación, que tenga bajo su responsabilidad la Secretaría, así como la edición y publicación del catálogo de la Colección Pago en Especie;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 V. Administrar un sistema de control para la ubicación de las obras de arte que sean conservadas como patrimonio cultural responsabilidad de la Secretaría, así como llevar un historial de cada una de ellas y las exposiciones en las que participen;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 VI. Coordinar las actividades relativas a la conservación, resguardo y difusión del archivo histórico de la Secretaría, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 VII. Administrar las bibliotecas, hemerotecas, recintos históricos, museos y áreas protocolarias responsabilidad de la Secretaría;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 VIII. Coordinar, promover, dirigir y difundir actividades culturales y talleres para fomentar la cultura entre el personal de la Secretaría y el público en general;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 IX. Someter a consideración superior, los calendarios anuales de exposiciones de las obras de arte que se encuentren bajo la responsabilidad de la Secretaría, así como de las exposiciones que se realicen en los espacios a que se refiere la fracción VII de este artículo;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 X. Promover con instituciones y organismos culturales del país y del extranjero programas de intercambio, promoción y difusión cultural;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 XI. Representar, en las materias de promoción cultural y acervo patrimonial, a la Secretaría ante instituciones y organismos culturales del país y del extranjero;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 XII. Organizar las exposiciones a que se refiere la fracción IX de este artículo, y
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 XIII. Coordinar la formulación del anteproyecto de presupuesto requerido para el desarrollo de las actividades previstas en este artículo.
+
+> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 El Director General de Promoción Cultural y Acervo Patrimonial, se auxiliará para el despacho de los asuntos a su cargo, de los Directores de Colección y Promoción Cultural, de Recintos y Bibliotecas, y de Acervo Patrimonial.
 
@@ -5043,9 +5119,27 @@ XXI. Brindar capacitación, asesoría y soporte técnico en materia de tecnolog�
 
 El Director General de Tecnologías y Seguridad de la Información se auxiliará para el despacho de los asuntos a su cargo de los Directores Generales Adjuntos de: Administración de Proyectos y Seguridad de la Información; de Soluciones Tecnológicas A; de Soluciones Tecnológicas B; de Soluciones Tecnológicas C, y de Servicios Informáticos Institucionales.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 69-C.
 
-(DEROGADO, D.O.F. 7 DE MAYO DE 2004)
+Compete a la Dirección General denominada Conservaduría de Palacio Nacional:
+
+I. Ejercer las atribuciones que le confiere el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional;
+
+II. Formular los programas de investigación, exposiciones, inspección, cuidado, protección, conservación, restauración, difusión y vigilancia de las áreas, objetos y colecciones de Palacio Nacional;
+
+III. Proponer a la Comisión Interinstitucional prevista en el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional, las normas de conservación para el uso, mantenimiento y adecuación de las instalaciones que ocupan las dependencias instaladas en Palacio Nacional;
+
+IV. Proponer a la Comisión Interinstitucional prevista en el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional, las normas de conservación para la celebración de actividades culturales y ceremonias; para el traslado de objetos y colecciones, y para el uso de las áreas de visita pública de Palacio Nacional;
+
+V. Suscribir, en las materias a que se refiere este artículo, convenios, contratos, acuerdos, bases de colaboración y demás instrumentos jurídicos, inclusive aquellos que tengan por objeto generar obligaciones de pago y, en su caso, modificarlos, suspenderlos o darlos por terminados anticipadamente y rescindirlos;
+
+VI. Elaborar estudios y propuestas para la asignación de áreas y optimización de espacios en Palacio Nacional, y
+
+VII. Proponer a la Comisión Interinstitucional prevista en el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional, los mecanismos de coordinación con las dependencias competentes, a fin de uniformar los criterios para la construcción, remodelación y acondicionamiento necesarios para llevar a cabo las obras de protección, conservación, restauración y mantenimiento de Palacio Nacional.
+
+La Conservaduría de Palacio Nacional se auxiliará para el despacho de los asuntos a su cargo, de los Directores de Administración de Conservaduría de Palacio Nacional, y de Conservación de Monumentos y Acervo Patrimonial de Palacio Nacional.
 
 ###### Artículo 69-D.
 
@@ -5189,7 +5283,9 @@ XVI. Coordinar la compilación de la legislación en las materias competencia de
 
 XVII. Establecer, el criterio de la Secretaría cuando las unidades administrativas de la misma emitan opiniones contradictorias en aspectos jurídicos;
 
-XVIII. Elaborar, revisar, emitir opinión y, en su caso, someter a consideración superior los documentos que deba suscribir el Secretario para la designación o nombramiento de servidores públicos de la Secretaría y de las entidades paraestatales agrupadas en el sector coordinado por la misma, así como de aquéllos que deban someterse a consideración del Secretario para la designación de representantes ante las entidades paraestatales, órganos administrativos desconcentrados, comités técnicos de los fideicomisos públicos, comisiones intersecretariales, grupos de trabajo u otros órganos o instancias;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XVIII. Elaborar, revisar, emitir opinión y, en su caso, someter a consideración superior los documentos que deba suscribir el Secretario para la designación o nombramiento de servidores públicos de la Secretaría y de las entidades paraestatales agrupadas en el sector coordinado por la misma, así como de aquellos que deban someterse a consideración del Secretario para la designación de representantes ante las entidades paraestatales, órganos administrativos desconcentrados, comités técnicos de los fideicomisos públicos, comisiones intersecretariales y demás órganos colegiados que se establezcan en leyes, reglamentos o instrumentos emitidos por el Presidente de la República;
 
 XIX. Conducir la emisión de opiniones, en coordinación con las unidades administrativas de la Secretaría, sobre la elaboración de los anteproyectos de acuerdos, tratados o convenios internacionales, en aquellos asuntos a que se refiere este artículo, y
 
@@ -5547,9 +5643,9 @@ I. Representar a la Secretaría ante los Tribunales de la República y ante las 
 
 II. Proponer los términos de los informes previos y con justificación en relación con los juicios de amparo promovidos contra actos de las autoridades de la Secretaría o de las autoridades fiscales de las Entidades Federativas coordinadas, de los escritos de demanda o contestación, según proceda, en las controversias constitucionales o acciones de inconstitucionalidad;
 
-> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-II Bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de Hacienda y Crédito Público representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+II Bis. Representar al Presidente de la República en los juicios de amparo respecto de aquellos asuntos que correspondan a la Secretaría, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2003)</small>
 
@@ -6373,7 +6469,7 @@ XVI. Supervisar y evaluar los programas de trabajo y las actividades que desempe
 
 XVII. Acordar con el Procurador Fiscal de la Federación los asuntos de su competencia.
 
-El Subprocurador Fiscal Federal de Investigaciones se auxiliará, para el ejercicio de sus atribuciones, de la estructura administrativa que tenga adscrita.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -6413,11 +6509,13 @@ XV. Emitir opinión jurídica, asesorar a las unidades administrativas de la Sec
 
 XVI. Representar a la Procuraduría Fiscal de la Federación en los foros, reuniones y eventos internacionales relacionados con los asuntos a que se refiere este artículo, así como con aquéllos vinculados con las materias fiscal y financiera en el ámbito de su competencia;
 
-XVII. Solicitar, obtener y analizar la información, documentación y demás elementos relacionados con los asuntos de su competencia, de las autoridades correspondientes de otros países y compartir con éstas, la documentación, estudios y demás información no sujeta a reserva legal, y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XVII. Solicitar, obtener y analizar la información, documentación y demás elementos relacionados con los asuntos de su competencia, de las autoridades correspondientes de otros países y compartir con estas, la documentación, estudios y demás información, de conformidad con las disposiciones jurídicas aplicables, y
 
 XVIII. Acordar con el Subprocurador Fiscal Federal de Investigaciones los asuntos de su competencia.
 
-El titular de la Dirección General de Delitos Fiscales se auxiliará, para el ejercicio de las facultades que le confiere este precepto, de las direcciones de área, subdirecciones de área y jefaturas de departamento que le sean adscritas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 82-A.
 
@@ -6473,11 +6571,13 @@ XVII. Coadyuvar, en colaboración con las autoridades competentes tanto nacional
 
 XVIII. Representar a la Procuraduría Fiscal de la Federación en las reuniones y eventos internacionales, vinculados con las materias de su competencia;
 
-XIX. Solicitar, obtener y analizar la información, documentación y demás elementos relacionados con los asuntos de su competencia, de las autoridades correspondientes de otros países y compartir con éstas, la documentación, estudios y demás información no sujeta a reserva legal, y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XIX. Solicitar, obtener y analizar la información, documentación y demás elementos relacionados con los asuntos de su competencia, de las autoridades correspondientes de otros países y compartir con estas, la documentación, estudios y demás información, de conformidad con las disposiciones jurídicas aplicables, y
 
 XX. Acordar con el Subprocurador Fiscal Federal de Investigaciones los asuntos de su competencia.
 
-El titular de la Dirección General de Delitos Financieros y Diversos se auxiliará, para el ejercicio de las facultades que le confiere este precepto, de las direcciones de área, subdirecciones de área y jefaturas de departamento que le sean adscritas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 83-A.
 
@@ -6553,47 +6653,77 @@ XVII. Coadyuvar en el seguimiento y control de los mandamientos judiciales deriv
 
 XVIII. Acordar con el Subprocurador Fiscal Federal de Investigaciones los asuntos de su competencia.
 
-El titular de la Dirección General de Control Procedimental se auxiliará, para el ejercicio de las facultades que le confiere este precepto, de las direcciones de área, subdirecciones de área y jefaturas de departamento, que le sean adscritas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 86.
 
-Compete a las direcciones de investigaciones “A”, “B”, “C”, “D”, “E”, “F”, “G”, “H”, “I”, “J”, “K”, “L”, “M”, “N” y “O”:
+Compete a las direcciones de investigaciones:
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 I. Ejecutar los actos necesarios para investigar los hechos a que se refieren los artículos 82, fracción I y 83, fracción I de este Reglamento;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 II. Formular y suscribir las denuncias, querellas, declaratorias, declaraciones de que el Fisco Federal ha sufrido o pudo haber sufrido perjuicio, peticiones y, en general, cualquier otro requisito de procedibilidad que exijan las leyes, en términos de los artículos 82, fracciones I y II y 83, fracciones I y II de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 III. Realizar el seguimiento y control de los procedimientos penales y administrativos originados por las denuncias, querellas, declaratorias, declaraciones de que el Fisco Federal ha sufrido o pudo haber sufrido perjuicio, peticiones y, en general, cualquier otro requisito de procedibilidad que exijan las leyes, formuladas por cualquiera de las unidades administrativas de la Subprocuraduría Fiscal Federal de Investigaciones, así como de los juicios y recursos que de ellos se deriven y de aquéllos en que ésta tenga interés;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 IV. Representar a la Secretaría ante el Ministerio Público, las autoridades administrativas y jurisdiccionales competentes y coadyuvar en los procedimientos penales y administrativos relacionados con los asuntos competencia de la Subprocuraduría Fiscal Federal de Investigaciones;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 V. Designar y dirigir a los abogados que serán autorizados o acreditados para que intervengan ante las autoridades administrativas y jurisdiccionales en el trámite y seguimiento de los asuntos de su competencia;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 VI. Requerir y ofrecer las pruebas, constancias, documentación e informes necesarios para ser aportados en los procedimientos, juicios o recursos en los que la Secretaría intervenga y que sean competencia de la Subprocuraduría Fiscal Federal de Investigaciones, así como realizar el estudio de los mismos;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 VII. Interponer, cuando corresponda, toda clase de recursos y juicios para la defensa de los intereses de la Secretaría en relación con los procedimientos administrativos y penales en que intervenga de acuerdo con los asuntos a que se refiere este artículo;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 VIII. Promover, en su caso, ante el Ministerio Público, órganos jurisdiccionales o cualquier otra autoridad, los argumentos jurídicos en los que se presenten pruebas, agravios u objeciones en cualquier instancia de procedimientos, juicios o recursos relacionados con los asuntos a que se refiere este artículo;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 IX. Tramitar y atender, en los asuntos a que se refiere este artículo, los requerimientos y resoluciones de las autoridades judiciales, administrativas o del Ministerio Público, así como solicitar el auxilio de las unidades administrativas de la Secretaría y demás autoridades competentes que, en su caso, corresponda;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 X. Designar o proponer a los peritos que se requieran para intervenir en los procedimientos penales relacionados con asuntos de su competencia;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 XI. Coadyuvar en el seguimiento y control de los mandatos judiciales derivados de los asuntos a que se refiere este artículo;
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 XII. Participar en las acciones, mecanismos de cooperación y en el desarrollo de políticas públicas, en los asuntos a que se refiere este artículo, que permitan preservar la seguridad nacional, con el propósito de mantener la integridad, estabilidad y permanencia del Estado Mexicano;
+
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
 XIII. Integrar los expedientes relacionados con los asuntos de su competencia, expedir certificaciones de las constancias que obren en los mismos y supervisar su resguardo y, en su caso, actualizar la base de datos de los expedientes generados por las unidades administrativas a su cargo, de conformidad con las disposiciones contenidas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones jurídicas aplicables, y
 
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+
 XIV. Acordar con los titulares de las unidades administrativas a que se refieren los artículos 81, 82, 83 y 85 de este Reglamento, en sus respectivas competencias, los asuntos que tengan a su cargo.
 
-Los titulares de las direcciones de investigaciones se auxiliarán, para el ejercicio de las facultades que les confiere este precepto, de la estructura administrativa que tengan autorizada.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-Los titulares de cada dirección de investigaciones ejercerán sus atribuciones de acuerdo con la adscripción que les asigne el Procurador Fiscal de la Federación.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-Los titulares de cada dirección de investigaciones que sean adscritos a alguna de las circunscripciones territoriales a que se refiere el artículo 93 de este Reglamento, ejercerán sus facultades en el ámbito territorial correspondiente; en tanto que, los que queden adscritos a las direcciones generales a que se refieren los artículos 82, 83 y 85 de este Reglamento, las ejercerán conforme a la competencia de la respectiva Dirección General.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+Los titulares de cada dirección de investigaciones ejercerán las atribuciones que les confiere este artículo en cada una de las circunscripciones territoriales o en las direcciones generales a que se refieren los artículos 82, 83 y 85 de este Reglamento a la que hayan sido designados.
 
 ###### Artículo 87.
 
@@ -7293,9 +7423,13 @@ El Tesorero de la Federación será suplido en sus ausencias por el Subtesorero 
 
 Las ausencias del titular del Órgano Interno de Control, así como las de los titulares de las áreas de Auditoría Interna, de Auditoría para Desarrollo y Mejora de la Gestión, de Responsabilidades y de Quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
-El titular de la Unidad de Inteligencia Financiera será suplido en sus ausencias, por los Directores Generales Adjuntos de Asuntos Normativos e Internacionales, de Procesos Legales, de Análisis Estratégico, de Análisis de Operaciones y de Planeación e Infraestructura Tecnológica, en el orden antes indicado. La ausencia de los Directores Generales Adjuntos por los Directores que de ellos dependan en los asuntos de su respectiva competencia.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-El titular de la Unidad de Política y Control Presupuestario será suplido en sus ausencias por los Directores Generales Adjuntos de Programación e Integración Presupuestaria; de Estrategia y Política Presupuestaria; de Técnica de Presupuesto, y de Seguimiento y Evaluación Presupuestaria, en el orden indicado.
+El titular de la Unidad de Inteligencia Financiera será suplido en sus ausencias, por el Director General de Asuntos Normativos, el Director General de Procesos Legales, el Director General de Análisis, el Director General Adjunto de Infraestructura Tecnológica, el Director General Adjunto de Asuntos Normativos e Internacionales, y por el Director General Adjunto de Asuntos Normativos y Relaciones con Actividades Vulnerables, en el orden antes indicado.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+El titular de la Unidad de Política y Control Presupuestario será suplido en sus ausencias por el Director General de Política Presupuestaria y por los Directores Generales Adjuntos de Programación e Integración Presupuestaria; de Estrategia y Política Presupuestaria; de Técnica de Presupuesto, y de Seguimiento y Evaluación Presupuestaria, en el orden indicado.
 
 El titular de la Unidad de Evaluación del Desempeño será suplido en sus ausencias por los Directores Generales Adjuntos de Evaluación de los Resultados de los Programas Presupuestarios, y de Seguimiento e Información del Desempeño Presupuestario, en el orden indicado.
 
@@ -7658,3 +7792,19 @@ NOVENO.- En tanto entran en vigor las reformas y derogaciones a que se refieren 
 Cualquier referencia contenida en el Reglamento Interior de la Secretaría de Hacienda y Crédito Público respecto a las fracciones I, II, IV y VI del artículo 28-B del mismo, se entenderá extensiva a las entidades previstas en este artículo hasta en tanto queden sin efectos.
 
 DÉCIMO.- Los procedimientos de revocación de las autorizaciones para la constitución y operación de sociedades de ahorro y préstamo que se encuentren llevando a cabo, y que hasta la fecha de entrada en vigor de este Decreto estén en curso, serán concluidos de manera definitiva por la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones que se encontraban vigentes al momento de iniciarse el procedimiento respectivo.
+
+D.O.F. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público realizará los actos necesarios ante la Oficina de la Presidencia de la República para que los recursos humanos, materiales y financieros actualmente asignados a la Conservaduría de Palacio Nacional, sean transferidos a la Secretaría de Hacienda y Crédito Público, con el objeto de que la Dirección General de Conservaduría de Palacio Nacional pueda ejercer las atribuciones y facultades que se le otorgan en virtud del presente Decreto.
+
+Las facultades que le otorgan a la Conservaduría de Palacio Nacional otros reglamentos, acuerdos, decretos y demás disposiciones se entenderán conferidas a la Dirección General de Conservaduría de Palacio Nacional.
+
+TERCERO.- Se abroga el Acuerdo mediante el cual se señala la adscripción de los titulares de las direcciones de investigaciones de la Subprocuraduría Fiscal Federal de Investigaciones, publicado en el Diario Oficial de la Federación el 27 de marzo de 2013.
+
+CUARTO.- Las modificaciones a la estructura orgánica del Servicio de Administración Tributaria y de las unidades administrativas de la Secretaría de Hacienda y Crédito Público que deriven de la entrada en vigor del presente Decreto, se realizarán a través de movimientos compensados del presupuesto autorizado de servicios personales de dicho órgano desconcentrado y de dicha Secretaría para el ejercicio fiscal en curso, por lo que no se incrementará el presupuesto regularizable de servicios personales para el siguiente ejercicio fiscal.
+
+QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público que cambien de denominación o que se eliminen por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+SEXTO.- Los asuntos en trámite que son atendidos por unidades administrativas que desaparecen, cambian de denominación o modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este instrumento.
