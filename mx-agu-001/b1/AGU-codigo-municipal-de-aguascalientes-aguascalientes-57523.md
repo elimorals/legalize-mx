@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2013-09-02"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE SEPTIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -9747,7 +9745,7 @@ Para obras de reposición y/o modificación de banquetas se requiere presentar r
 
 Para obras de cepas para alojar instalaciones se requiera (sic) presentar:
 
-I. Recibo de pago o contrato de servicio de agua potable y alcantarillado;
+l. Recibo de pago o contrato de servicio de agua potable y alcantarillado;
 
 II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Secretaría;
 
@@ -12683,7 +12681,7 @@ El proyecto constará básicamente de dos documentos: la memoria de cálculo y l
 
 la Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada (sic) evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
-I. Descripción general del proyecto y del tipo de estructura a utilizarse;
+l. Descripción general del proyecto y del tipo de estructura a utilizarse;
 
 II. Resistencia y calidad de los materiales estructurales a utilizarse;
 
@@ -12871,7 +12869,7 @@ III. Acciones Accidentales.- Son las que no se deben al funcionamiento normal de
 
 Acciones Permanente, esta categoría comprende:
 
-l. La carga muerta, debida al peso propio de los elementos estructurales y al peso de los elementos no estructurales incluyendo las instalaciones, al peso del equipo que ocupe una posición fija y permanente en la construcción, y al peso estimado de futuros muros divisorios y de otros elementos no estructurales que puedan colocarse posteriormente en forma permanente;
+I. La carga muerta, debida al peso propio de los elementos estructurales y al peso de los elementos no estructurales incluyendo las instalaciones, al peso del equipo que ocupe una posición fija y permanente en la construcción, y al peso estimado de futuros muros divisorios y de otros elementos no estructurales que puedan colocarse posteriormente en forma permanente;
 
 II. El empuje estático de tierras y de líquidos, de carácter permanente; y
 
@@ -19075,9 +19073,13 @@ El Cabildo determinará y modificará las tarifas a que deberán ajustarse los a
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
-# LIBRO OCTAVO. DE LOS ESPECTÁCULOS TAURINOS Y DEPORTIVOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-## TITULO PRIMERO. DE LOS FESTEJOS TAURINOS
+# LIBRO OCTAVO. DE LOS ESPECTÁCULOS TAURINOS
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+## TÍTULO ÚNICO. DE LOS FESTEJOS TAURINOS
 
 ### CAPITULO II. De la Autoridad
 
@@ -19965,19 +19967,21 @@ Los grupos de forcados, deberán actuar como tales respetando la usanza portugue
 
 Los toros para forcados podrán estar sin puntas, embolados o cubrir los cuernos con fundas, lo cual decidirá "El Cabo" del acto al Municipio, en los programas se anunciará esta característica.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ## TÍTULO SEGUNDO. DE LOS ESPECTÁCULOS DEPORTIVOS
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO I. Del Ámbito de Aplicaciones y Principios Generales
 
 ###### ARTÍCULO 1505.
 
-Se requiere permiso para la realización de eventos deportivos, tales como fútbol soccer, baseball, basketball y cualquier otro que se maneje como espectáculo público.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2013)
 
 ###### ARTÍCULO 1506.
 
-En los partidos de fútbol soccer profesional, la Dirección General de Gobierno nombrará un inspector autoridad y hasta dos auxiliares, quienes supervisarán el acceso del personal a la cancha y procurarán por guardar, dentro y fuera de la cancha, el orden establecido por el árbitro oficialmente designado.
-
-El inspector autoridad podrá solicitar el auxilio de la fuerza pública cuando así lo considere necesario.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2013)
 
 # LIBRO NOVENO. DEL ACTO ADMINISTRATIVO MUNICIPAL
 
@@ -21894,3 +21898,13 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Reglamen
 CUARTO.- Todas aquellas actividades en las que se celebren o desarrollen Espectáculos o Diversiones Públicas, serán reguladas por las disposiciones que establece el presente Reglamento.
 
 QUINTO.- Todo lo no previsto en el presente Reglamento se resolverá de conformidad con las disposiciones que establecen el Código y demás disposiciones jurídicas aplicables a la materia.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+PUNTOS RESOLUTIVOS
+
+PRIMERO.- Con fundamento en los artículos 4° último párrafo y 115 de la Constitución Política de los Estados Unidos Mexicanos; 4°, 66 y 68 de la Constitución Política del Estado de Aguascalientes; 4°, 16, 36 fracciones I, XIII, XVIII y XXXIX, 38 fracción XIII y 91 fracción IV de la Ley Municipal para el Estado de Aguascalientes; 6 fracciones VI y IX, 71 fracción II, y demás aplicables del Código Municipal de Aguascalientes, este H. Cabildo APRUEBA la reforma del Libro Octavo del Código Municipal de Aguascalientes denominado “DE LOS ESPECTÁCULOS TAURINOS Y DEPORTIVOS”, para quedar “DE LOS ESPECTÁCULOS TAURINOS”; así como la denominación del “TÍTULO PRIMERO” para quedar como “TÍTULO ÚNICO”; y la derogación del TÍTULO SEGUNDO denominado “DE LOS ESPECTÁCULOS DEPORTIVOS”, CAPÍTULO ÚNICO, y la derogación de los artículos 1505 y 1506 de este Libro.
+
+SEGUNDO.- Asimismo, se aprueba el REGLAMENTO PARA LA REALIZACIÓN DE EVENTOS DEPORTIVOS EN EL MUNICIPIO DE AGUASCALIENTES, en atención al texto íntegro que obra en el cuerpo del presente Dictamen.
+
+TERCERO.- De conformidad con el artículo 94 de la Ley Municipal para el Estado de Aguascalientes, publíquese en el Periódico Oficial del Estado para que surta efectos al día siguiente de su publicación.
