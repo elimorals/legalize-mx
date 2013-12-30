@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2013-12-09"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -176,6 +176,10 @@ B.- En materia de salubridad local:
 I. Mercados y centros de abasto;
 
 II. Construcciones excepto la de los establecimientos de salud;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+II Bis. Comercio Ambulante y Comercio en Puesto Semifijo;
 
 III. Cementerios, crematorios y funerarias;
 
@@ -371,9 +375,17 @@ III. Fomentar actitudes solidarias entre educandos para crear conciencia sobre l
 
 IV. Fomentar la educación física aeróbica con el propósito de prevenir la obesidad infantil y juvenil, así como promover la adquisición de hábitos de alimentación e higiene, destacando las consecuencias directamente proporcionales a la vida sana y longevidad;
 
-V. Coordinar con las autoridades educativas la implementación de un programa de registro de peso y talla de los educandos que tengan tendencias a la obesidad o que estén desnutridos; lo que se hará del conocimiento de los padres para lo que corresponda; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-VI. Emitir un listado de productos con bajo o nulo valor nutricional, así como aquéllos que causen daño directo e inmediato a la salud, manteniéndolo actualizado y difundirlo a través de las autoridades educativas de la Entidad, así como difundir los resultados que se alcancen entre los padres de familia.
+V. Coordinar con las autoridades educativas la implementación de un programa de registro de peso y talla de los educandos que tengan tendencias a la obesidad o que estén desnutridos; lo que se hará del conocimiento de los padres para lo que corresponda;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VI. Emitir un listado de productos con bajo o nulo valor nutricional, así como aquéllos que causen daño directo e inmediato a la salud, manteniéndolo actualizado y difundirlo a través de las autoridades educativas de la Entidad, así como difundir los resultados que se alcancen entre los padres de familia; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VII. Vigilar que los establecimientos destinados a la venta y consumo de alimentos y/o bebidas que cuenten con más de dos sucursales, publiquen en un lugar visible el listado, carta o menú, las calorías que contiene cada alimento o bebida.
 
 ###### ARTICULO 13.
 
@@ -833,9 +845,11 @@ III. Los convenios que al efecto se suscriban entre el Gobierno del Estado y la 
 
 IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 72.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, optometría y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización o de profesional técnico hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
 
@@ -1341,6 +1355,12 @@ El Gobierno del Estado formulará y desarrollará programas de nutrición estata
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará al efecto la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 133 Bis.
+
+Los propietarios de establecimientos destinados a la elaboración y consumo de alimentos o bebidas que cuenten con más de dos sucursales, deberán publicar en el listado, carta o menú, las calorías que contiene cada alimento o bebida, de conformidad con las disposiciones aplicables.
+
 ### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTICULO 134.
@@ -1405,11 +1425,15 @@ III. Coadyuvar en la aplicación de programas y actividades que establezca la Se
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 142.
 
-El Gobierno del Estado, en coordinación con las autoridades sanitarias federales, elaborará programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial, para la protección de la salud general a la población.
+El Gobierno del Estado, en coordinación con las autoridades sanitarias federales, elaborará programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades o infecciones transmisibles que constituyan un problema real o potencial, para la protección de la salud general a la población.
 
-Asimismo, realizará actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, realizará actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades o infecciones transmisibles:
 
 I. Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis virales y otras enfermedades del aparato digestivo.
 
@@ -1425,7 +1449,9 @@ VI. Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artró
 
 VII. Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishmaniosis, tripanosomiasis, oncocercosis.
 
-VIII. Sífilis, infecciones gonococcicas y otras enfermedades de transmisión sexual.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VIII. Sífilis, infecciones gonococcicas y otras infecciones de transmisión sexual.
 
 IX. Lepra y mal del pinto.
 
@@ -1827,9 +1853,43 @@ La Secretaría de Salud Pública del Estado verificará que los mercados y centr
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que disponga ésta Ley, los Reglamentos respectivos otras disposiciones legales aplicables y la Norma Oficial Mexicana correspondiente.
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO II BIS. COMERCIO AMBULANTE Y COMERCIO EN PUESTO SEMIFIJO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 191 Bis.
+
+Para los efectos de esta Ley se entiende por:
+
+I.- Comercio Ambulante: Toda actividad comercial realizada de manera cotidiana o esporádica en la vía o lugares públicos por personas físicas que transportan sus mercancías, deteniéndose en algún lugar solamente por el tiempo indispensable para la realización de la transacción correspondiente;
+
+II.- Comercio en Puesto Semifijo: Toda actividad comercial en la vía pública que se lleva a cabo de manera cotidiana o esporádica, valiéndose de la instalación y retiro de cualquier tipo de estructura, vehículo, remolque, instrumento, charola, artefacto u otro bien mueble; y
+
+III.- Comerciante o Vendedor: Aquellas personas que se dedican a la comercialización de bienes y servicios en las modalidades a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 191 Ter.
+
+Los comerciantes o vendedores que expendan o suministren alimentos están obligados a contar con aviso de funcionamiento sanitario para desarrollar sus actividades y a cumplir con las disposiciones reglamentarias y normas que deriven de la presente Ley y otros ordenamientos que resulten aplicables.
+
+El aviso de funcionamiento deberá realizarse de acuerdo con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 191 Quater.
+
+Se prohíbe el comercio ambulante o comercio en puesto semifijo, en un perímetro de cien metros a la redonda de los centros de salud, clínicas y hospitales de los integrantes del Sistema Estatal de Salud.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 191 Quinquies.
+
+La Secretaría de Salud y las autoridades que estipulen los reglamentos o códigos de la materia de los Ayuntamientos, realizarán operativos permanentes a efecto de realizar la vigilancia sanitaria para el cumplimiento de las disposiciones de este Capítulo.
+
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 192.
 
@@ -1869,7 +1929,7 @@ Los edificios, locales, construcciones o terrenos urbanos podrán ser inspeccion
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ejecutar las obras que estimen de urgencia, con cargo a sus propietarios o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 201.
 
@@ -1897,7 +1957,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la Autoridad Sanitaria del Estado y la Norma Oficial Mexicana que dicte la Secretaría de Salud.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 206.
 
@@ -1937,7 +1997,7 @@ El Gobierno del Estado y los Ayuntamientos, en al (sic) ámbito de sus respectiv
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por ésta Ley, otras disposiciones legales aplicables y la Norma Oficial Mexicana correspondiente.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 212.
 
@@ -1973,9 +2033,7 @@ La Norma Oficial Mexicana aplicable, establecerá los requisitos sanitarios y me
 
 El sacrificio de animales en los rastros, se efectuará en los días y horas que fijen las Autoridades Sanitarias del Estado y Municipal, tomando en consideración las condiciones de lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones sanitarias.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y
-
-ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 220.
 
@@ -2015,7 +2073,9 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y
+
+ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 229.
 
@@ -2039,7 +2099,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 229 de ésta Ley, serán fijados en las disposiciones reglamentarias y la Norma Oficial Mexicana correspondiente.
 
-### CAPITULO X. BAÑOS PUBLICOS
+### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 232.
 
@@ -2059,7 +2119,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el artículo 143 de ésta Ley.
 
-### CAPITULO XI. PROSTITUCION
+### CAPITULO X. BAÑOS PUBLICOS
 
 ###### ARTICULO 236.
 
@@ -2073,7 +2133,7 @@ Para el servicio público, estos establecimientos deberán cumplir con las dispo
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, a las disposiciones legales aplicables que emanan de la Ley General de Salud, así como a las medidas que en materia de salubridad local dicte la Secretaría de Salud Pública del Estado
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. PROSTITUCION
 
 ###### ARTICULO 239.
 
@@ -2095,9 +2155,7 @@ III.- Coordinarse con los Ayuntamientos de la Entidad para la adecuada difusión
 
 IV.- Las demás de índole sanitaria que determine (sic) las Autoridades Sanitarias competentes en la materia, que puedan evitar que se causen o continúe causando riesgos a la salud.
 
-### CAPITULO XIII
-
-ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES.
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 242.
 
@@ -2111,7 +2169,9 @@ La Secretaría de Salud Pública del Estado, una vez terminada la edificación d
 
 El funcionamiento de los establecimientos a que se refiere el artículo 242 de ésta Ley, deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de ésta Ley, otras disposiciones legales aplicables y la Norma Oficial Mexicana.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIII
+
+ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES.
 
 ###### ARTICULO 245.
 
@@ -2121,7 +2181,7 @@ Para los efectos de ésta Ley, se entiende por peluquería, salones de belleza y
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en ésta Ley, otras disposiciones legales aplicables y la Norma Oficial Mexicana correspondiente.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 247.
 
@@ -2139,7 +2199,7 @@ III. Lavadero público: El establecimiento al cual acuden los interesados para r
 
 Corresponde a la Autoridad Sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere éste capítulo, conforme a las disposiciones generales aplicables.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 249.
 
@@ -2153,7 +2213,7 @@ La Secretaría de Salud Pública del Estado, realizará la verificación sanitar
 
 Para la construcción o acondicionamiento de un inmueble que se pretende destinar como establecimiento para el hospedaje, así como para su funcionamiento, se deberá dar aviso a la Secretaría de Salud Pública del Estado, en términos del artículo 186 de ésta Ley.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 252.
 
@@ -2163,7 +2223,7 @@ Para los efectos de ésta Ley, se entiende por transporte, todo aquel vehículo 
 
 Los transportistas que circulen por uno o más municipios del Estado de Puebla, no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y la Norma Oficial Mexicana que para tal efecto se emitan.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 ###### ARTICULO 254.
 
@@ -2173,7 +2233,7 @@ Para los efectos de ésta Ley, se entiende por gasolinería el establecimiento d
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y la Norma Oficial Mexicana correspondiente.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTICULO 256.
 
@@ -2207,11 +2267,11 @@ Los propietarios de los animales a que se refiere el artículo anterior, están 
 
 Las Autoridades Sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 260.
 
@@ -2283,7 +2343,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la Autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que dispongan la Legislación Fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal y con los Ayuntamientos de la Entidad.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 268.
 
@@ -2367,7 +2427,7 @@ La Autoridad Sanitaria del Estado emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 276.
 
@@ -2401,7 +2461,7 @@ Las Autoridades Judiciales o Administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 281.
 
@@ -2493,7 +2553,7 @@ VI. Con la impugnación a que se refiere la fracción anterior, el interesado de
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
-VII. La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la Autoridad Sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
+VII. La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la Autoridad Sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -2527,9 +2587,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA, SANCIONES Y DELITOS
 
-### CAPITULO III
-
-PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES.
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 293.
 
@@ -2625,7 +2683,9 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las Autoridades Sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III
+
+PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES.
 
 ###### ARTICULO 305.
 
@@ -2743,7 +2803,7 @@ Solo procederá esta sanción, si previamente se dictó cualquiera otra de las s
 
 Impuesto el arresto, se comunicará la resolución a la Autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 317.
 
@@ -2814,6 +2874,8 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 ###### ARTICULO 326.
 
 Cuando del contenido de un acta de verificación se desprende la posible comisión de uno o varios delitos, la Autoridad Sanitaria del Estado, formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 327.
 
@@ -3006,3 +3068,43 @@ TERCERO.- Los municipios del Estado contarán con un plazo de sesenta días natu
 CUARTO.- Las personas que realicen actividades de venta y suministro de bebidas alcohólicas con los permisos municipales vigentes, cuentan con un plazo de cuarenta y cinco días hábiles para obtener de la autoridad competente, la licencia o el permiso correspondiente en términos de esta Ley.
 
 QUINTO.- El Ejecutivo Estatal contará con un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias correspondientes, en tanto no se realicen, emitirá, por medio de la autoridad administrativa competente, las disposiciones normativas y administrativas para atender a través de la Secretaría de Salud, las solicitudes de cédulas sanitarias para la venta y suministro de bebidas alcohólicas.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO Y LA FRACCIÓN VIII DEL ARTÍCULO 142 DE LA LEY ESTATAL DE SALUD.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 72 DE LA LEY ESTATAL DE SALUD.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI DEL APARTADO C DEL ARTÍCULO 12 Y SE ADICIONAN LA FRACCIÓN VII AL APARTADO C DEL ARTÍCULO 12 Y EL 133 BIS, TODOS DE LA LEY ESTATAL DE SALUD.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE ADICIONAN LA FRACCIÓN II BIS DEL APARTADO B DEL ARTÍCULO 4 Y EL CAPÍTULO II BIS DENOMINADO COMERCIO AMBULANTE Y COMERCIO EN PUESTO SEMI FIJO DEL TÍTULO DÉCIMO SEGUNDO CON SUS ARTÍCULOS DEL 191 BIS AL 191 QUINQUIES A LA LEY ESTATAL DE SALUD.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los Ayuntamientos contarán con un periodo de treinta días naturales a partir de la entrada en vigor de este Decreto, a efecto de emitir o adecuar las disposiciones reglamentarias en su ámbito de competencia.
+
+CUARTO.- Los Ayuntamientos contarán con un periodo de treinta días naturales a partir de la entrada en vigor de este Decreto, para implementar las medidas necesarias a efecto de que se cumpla con lo establecido en el artículo 191 Quater de la Ley Estatal de Salud.
+
+QUINTO.- Los comerciantes o vendedores que a la entrada en vigor del presente Decreto cuenten con autorización o permiso por parte de los Ayuntamientos para realizar los actos contemplados en las fracciones I y II del artículo 191 Bis de la Ley Estatal de Salud, en los lugares permitidos de acuerdo con la normatividad aplicable, contarán con un término de sesenta días naturales para tramitar el aviso de funcionamiento sanitario correspondiente.
+
+SEXTO.- El Ejecutivo Estatal por medio de la autoridad administrativa competente, contará con un plazo de sesenta días naturales, a partir de la entrada en vigor del presente Decreto, para incluir en los procedimientos las solicitudes de avisos de funcionamiento sanitario en materia de comercio ambulante y comercio en puesto semifijo.
