@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-municipal-del-estado-libre-y-soberano-de-23383"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-17"
-last_updated: "2005-12-16"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el lunes 17 de diciembre de 2001.
 
@@ -87,11 +87,11 @@ V. Ley de Ingresos del Municipio.- El cuerpo normativo así denominado vigente, 
 
 VI. Ley de Hacienda Municipal.- La Ley de Hacienda Municipal del Estado Libre y Soberano de Puebla.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 4.
 
-La presente Ley no es aplicable a los Municipios de Puebla y Tehuacan.
+La presente Ley es aplicable para todos los Municipios del Estado de Puebla, a excepción de aquéllos que cuenten con su propia Ley de Hacienda Municipal.
 
 ###### Artículo 5.
 
@@ -139,7 +139,9 @@ Este impuesto se causará anualmente y se pagará conforme a las tasas y tarifas
 
 El pago del impuesto a que se refiere este Capítulo, se realizará dentro de los cuatro primeros meses de cada año, en la Tesorería Municipal que corresponda al domicilio fiscal del contribuyente.
 
-En los casos en que el Municipio tenga celebrado convenio con el Estado para la administración y recaudación de este impuesto, el pago deberá efectuarse ante la Oficina Recaudadora o la Oficina Receptora de Pago de la Secretaría de Finanzas y Desarrollo Social, que corresponda al domicilio fiscal del contribuyente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+En los casos en que el Municipio tenga celebrado convenio con el Estado para la administración y recaudación de este impuesto, el pago deberá efectuarse ante la Oficina Recaudadora y de Asistencia al Contribuyente o la Oficina Receptora de Pago de la Secretaría de Finanzas y Administración, que corresponda al domicilio fiscal del contribuyente.
 
 ###### Artículo 11.
 
@@ -147,9 +149,11 @@ En el caso de terminación de construcciones, reconstrucciones, ampliaciones, oc
 
 Cuando se constituya el régimen de copropiedad, se calculará la nueva base y se pagará el impuesto a partir del bimestre siguiente a la fecha de autorización del instrumento público correspondiente, a la terminación de las construcciones o a la ocupación de las mismas, sin estar terminadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 12.
 
-Los sujetos de este impuesto, cuyo pago sea superior a veinte veces la cuota mínima anual que establezca la Ley de Ingresos del Municipio, podrán optar por pagarlo en forma bimestral dentro del primer mes de cada bimestre, previa solicitud presentada ante la Tesorería Municipal del Municipio o ante la Oficina Recaudadora o la Oficina Receptora de Pago de la Secretaría de Finanzas y Desarrollo Social que le corresponda a su domicilio fiscal, en los casos en que exista convenio de colaboración entre el Estado y el Municipio.
+Los sujetos de este impuesto, cuyo pago sea superior a veinte veces la cuota mínima anual que establezca la Ley de Ingresos del Municipio, podrán optar por pagarlo en forma bimestral dentro del primer mes de cada bimestre, previa solicitud presentada ante la Tesorería Municipal del Municipio o ante la Oficina Recaudadora y de Asistencia al Contribuyente o la Oficina Receptora de Pago de la Secretaría de Finanzas y Administración que le corresponda a su domicilio fiscal, en los casos en que exista convenio de colaboración entre el Estado y el Municipio.
 
 En todos los casos, la declaración para el pago de este impuesto se considerará provisional.
 
@@ -221,7 +225,7 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 Para los fines de este Capítulo se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2003)</small>
 
 ###### Artículo 19.
 
@@ -265,7 +269,9 @@ IV. Al causar ejecutoria la sentencia de usucapión, protocolizarse o inscribirs
 
 V. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se contengan en instrumento público o se inscriban en el Registro Público de la Propiedad y del Comercio para poder surtir efectos ante terceros en términos del derecho común; y si no están sujetos conforme a esta formalidad, al adquirirse el dominio conforme a las leyes.
 
-En los casos en que el Municipio tenga celebrado convenio con el Estado para la administración y recaudación de este impuesto, el pago deberá efectuarse en los términos citados ante la Oficina Recaudadora o la Oficina Receptora de Pago de la Secretaría de Finanzas y Desarrollo Social, que corresponda al domicilio fiscal del contribuyente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+En los casos en que el Municipio tenga celebrado convenio con el Estado para la administración y recaudación de este impuesto, el pago deberá efectuarse en los términos citados ante la Oficina Recaudadora y de Asistencia al Contribuyente o la Oficina Receptora de Pago de la Secretaría de Finanzas y Administración, que corresponda al domicilio fiscal del contribuyente.
 
 ###### Artículo 21.
 
@@ -413,7 +419,9 @@ En el caso de servicios concesionados, la Autoridad Municipal que corresponda po
 
 Salvo disposición expresa en contrario, los derechos deberán ser pagados, según el caso, ante la Tesorería o el organismo de que se trate, o en las oficinas autorizadas para tal efecto.
 
-En los casos en que el Municipio tenga celebrado convenio con el Estado para la administración y recaudación de este impuesto, el pago deberá efectuarse ante la Oficina Recaudadora o la Oficina Receptora de Pago de la Secretaría de Finanzas y Desarrollo Social, que corresponda al domicilio fiscal del contribuyente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+En los casos en que el Municipio tenga celebrado convenio con el Estado para la administración y recaudación de este impuesto, el pago deberá efectuarse ante la Oficina Recaudadora y de Asistencia al Contribuyente o la Oficina Receptora de Pago de la Secretaría de Finanzas y Administración, que corresponda al domicilio fiscal del contribuyente.
 
 ###### Artículo 43.
 
@@ -1091,7 +1099,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veintinueve días del mes de noviembre de dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 11 DE ABRIL DE 2003.
 
@@ -1108,3 +1116,9 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO.- Los procedimientos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución serán concluidos de conformidad con la Ley de Hacienda Municipal del Estado de Puebla.
 
 CUARTO.- Las disposiciones legales, acuerdos, órdenes, circulares en que se haga mención a la Ley de Hacienda Municipal del Estado de Puebla, se entenderá a la fecha de entrada en vigor del presente Decreto que se refieren a la Ley de Hacienda para el Municipio de Tehuacan.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
