@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2013-12-09"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1007,7 +1007,9 @@ Las faltas temporales o absolutas a las sesiones ordinarias de Cabildo del Presi
 
 I.- Faltas temporales:
 
-a) Para que un Regidor pueda faltar temporalmente a sus labores, se requiere licencia del Ayuntamiento;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+a) Para que un Regidor pueda faltar temporalmente a sus labores, se requiere licencia del Ayuntamiento, en los términos del Reglamento respectivo;
 
 b) Si la falta es menor de treinta días, no será necesario que se llame al suplente mientras pueda constituirse quórum;
 
@@ -1041,9 +1043,11 @@ III.- Suspensión sin sueldo durante quince días por la tercera falta; y
 
 IV.- Revocación del mandato del faltista, cuando falte injustificadamente cuatro o más veces consecutivas.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 54.
 
-Las sanciones a que se refiere el artículo anterior serán impuestas por el Ayuntamiento en el caso de las primeras tres fracciones; y por el Congreso del Estado cuando se trate de la fracción IV.
+Las sanciones a que se refiere el artículo anterior, serán impuestas por el Ayuntamiento a propuesta de la Comisión de Vigilancia que se cree para tal efecto, en el caso de las primeras tres fracciones; y por el Congreso del Estado cuando se trate de la fracción IV.
 
 ###### ARTÍCULO 55.
 
@@ -1619,9 +1623,11 @@ XIV.- Formar una noticia de las personas que en la Municipalidad ejerzan profesi
 
 XV.- Reunir oportunamente los datos estadísticos de la Municipalidad y difundirlos;
 
-XVI.- Exigir de los encargados del Registro Civil y demás oficinas respectivas, las noticias que periódicamente y por disposición de Ley tienen obligación de rendir;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-XVII.- Cumplir con los deberes que sobre Registro del Estado Civil de las Personas le impongan las leyes relativas;
+XVI.- Exigir de los encargados de las oficinas respectivas, las noticias que periódicamente y por disposición de Ley tienen obligación de rendir;
+
+XVII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2013)
 
 XVIII.- Suplir a los menores de edad el consentimiento que necesiten para contraer matrimonio, excepto en la Capital del Estado, en los casos de irracional negativa de los ascendientes o tutores. En estos casos oirán a los que hayan negado el consentimiento y al Ministerio Público;
 
@@ -1751,9 +1757,17 @@ Están impedidos para realizar gestiones administrativas ante autoridades federa
 
 ### CAPÍTULO IX. DE LAS COMISIONES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 94.
 
-El Ayuntamiento, para facilitar el despacho de los asuntos que le competen, nombrará comisiones permanentes o transitorias, que los examinen e instruyan hasta ponerlos en estado de resolución.
+El Ayuntamiento, para facilitar el despacho de los asuntos que le competen, nombrará comisiones permanentes o transitorias, que los examinen e instruyan hasta ponerlos en estado de resolución. Estas comisiones sesionarán de forma mensual, siendo convocadas por el Regidor que presida la misma, conforme al reglamento respectivo.
+
+Los Regidores deberán asistir con puntualidad a las sesiones de las Comisiones que el Honorable Ayuntamiento les ha encomendado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 94 BIS.- Los integrantes del Ayuntamiento que incumplan con lo establecido en el artículo anterior, de forma injustificada y reiterada, estarán sujetos a lo dispuesto en los artículos 53 y 54 de este ordenamiento.
 
 ###### ARTÍCULO 95.
 
@@ -1763,7 +1777,9 @@ Las comisiones transitorias se nombrarán por el Ayuntamiento para asuntos espec
 
 Las comisiones permanentes serán las siguientes:
 
-I.- De Gobernación, Justicia y Seguridad Pública;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+I.- De Gobernación, Justicia, Seguridad Pública y Protección Civil;
 
 II.- De Patrimonio y Hacienda Pública Municipal;
 
@@ -1807,15 +1823,23 @@ Son deberes y atribuciones del Síndico:
 
 I.- Representar al Ayuntamiento ante toda clase de autoridades, para lo cual tendrá las facultades de un mandatario judicial;
 
-II.- Ejercer las acciones y oponer las excepciones de que sea titular el Municipio, en los casos que sean procedentes;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-III.- Seguir en todos sus trámites los juicios en que esté interesado el Municipio;
+II.- Ejercer las acciones y oponer las excepciones de que sea titular el Municipio; otorgar poderes, comparecer a las diligencias, interponer recursos, ofrecer pruebas, articular posiciones, formular alegatos, en su caso rendir informes, actuar en materia civil, administrativa, mercantil, penal, laboral, de amparo y de juicios de lesividad y demás inherentes a las que tiene como mandatario judicial por sí o por conducto de los apoderados designados por él;
 
-IV.- Presentar denuncia o querella ante la autoridad que corresponda, respecto de las responsabilidades en que incurran los servidores públicos del Municipio en el ejercicio de sus encargos, por delitos y faltas oficiales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+III.- Seguir en todos sus trámites los juicios en que esté interesado el Municipio por sí o por conducto de los apoderados designados por él;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+IV.- Presentar denuncia o querella ante la autoridad que corresponda, respecto de las responsabilidades en que incurran los servidores públicos del Municipio, en el ejercicio de sus encargos, por delitos y faltas oficiales por sí o por conducto de los apoderados designados por él;
 
 V.- Promover ante las autoridades municipales, cuanto estimaren propio y conducente en beneficio de la colectividad;
 
-VI.- Cuidar que se observen escrupulosamente las disposiciones de esta Ley, denunciando ante las autoridades competentes cualquier infracción que se cometa;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VI.- Cuidar que se observen escrupulosamente las disposiciones de esta Ley, denunciando ante las autoridades competentes cualquier infracción que se cometa por sí o por conducto de los apoderados designados por él;
 
 VII.- Asistir a los remates públicos en los que tenga interés el Municipio, para verificar que se cumplan las disposiciones aplicables;
 
@@ -1833,9 +1857,19 @@ XIII.- Dar cuenta al Ayuntamiento del arreglo o la falta de él, sobre el monto 
 
 XIV.- Sustanciar y resolver el recurso de inconformidad en los términos de la presente Ley;
 
-XV.- Vigilar que en los actos del Ayuntamiento, se respeten los derechos humanos y se observen las leyes y demás ordenamientos vigentes; y
+XV.- Vigilar que en los actos del Ayuntamiento, se respeten los derechos humanos y se observen las leyes y demás ordenamientos vigentes; y (sic)
 
-XVI.- Las demás que les confieran las leyes.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+XVI.- Emitir laudos en materia de Régimen de Propiedad en Condominio, imponer multas, realizar inspecciones, constituirse en árbitro y demás facultades que se señalan en las leyes respectivas;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+XVII.- Prever y aplicar mecanismos alternativos de solución de controversias; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+XVIII.- Las demás que les confieran las leyes.
 
 ### CAPÍTULO XI. DE LA PLANEACIÓN DEMOCRÁTICA DEL DESARROLLO MUNICIPAL
 
@@ -2115,7 +2149,9 @@ II.- Dar cuenta mensualmente y por escrito al Presidente Municipal y al Ayuntami
 
 III.- Compilar y poner a disposición de cualquier interesado las leyes, decretos, reglamentos, circulares y órdenes emitidas por el Estado o la Federación que tengan relevancia para la Administración Pública Municipal;
 
-IV.- Asistir a las sesiones de Cabildo, con voz pero sin voto;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+IV.- Asistir a las sesiones de Cabildo, con voz y sin voto, dentro de las cuales podrá formular opiniones y auxiliar al Presidente Municipal en el desarrollo de la Sesión;
 
 V.- Coordinar y atender en su caso, los encargos que le sean encomendados expresamente por el Presidente Municipal o el Ayuntamiento, dando cuenta de ellos;
 
@@ -2273,9 +2309,17 @@ VIII.- Aportaciones a Planes de Desarrollo Estatal, Regional o Municipal;
 
 IX.- Juntas Auxiliares;
 
-X.- Conservación y protección del medio ambiente y el equilibrio ecológico; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-XI.- Control de la fauna nociva.
+X.- Conservación y protección del medio ambiente y el equilibrio ecológico;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+XI.- Control de la fauna nociva; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+XII.- Conservación y promoción de la identidad y cultura de los pueblos y poblaciones indígenas.
 
 ###### ARTÍCULO 151.
 
@@ -3095,91 +3139,111 @@ La responsabilidad de los servidores públicos municipales se rige por lo dispue
 
 ARTÍCULO 223 BIS.- Los servidores públicos municipales y aquellas personas que hayan concluido su cargo, que por cualquier razón hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio, o aplicación de recursos, fondos, bienes o valores públicos municipales Estatales o Federales, deberán atender las instrucciones, requerimientos y resoluciones que reciban de los órganos de control y fiscalización, hasta que se hubiere aprobado la cuenta pública o se haya emitido resolución correspondiente.
 
-### CAPÍTULO XXVII. DE LOS PUEBLOS Y SU GOBIERNO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO XXVII. DE LOS PUEBLOS Y SUS JUNTAS AUXILIARES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO XXVIII. DE LAS SECCIONES Y DE LOS INSPECTORES
 
 ###### ARTÍCULO 224.
 
-Para el gobierno de los pueblos habrá Juntas Auxiliares, integradas por un Presidente y cuatro miembros propietarios, y sus respectivos suplentes.
+Las Juntas Auxiliares son órganos desconcentrados de la administración pública municipal y estarán supeditadas al Ayuntamiento del Municipio del que formen parte, sujetos a la coordinación con las dependencias y entidades de la administración pública municipal, en aquellas facultades administrativas que desarrollen dentro de su circunscripción. El vínculo de información e interacción será la Secretaría de Gobernación Municipal o su equivalente en la estructura administrativa.
+
+Las Juntas Auxiliares estarán integradas por un Presidente y cuatro miembros propietarios, y sus respectivos suplentes.
 
 ###### ARTÍCULO 225.
 
 Las Juntas Auxiliares serán electas en plebiscito, que se efectuará de acuerdo con las bases que establezca la convocatoria que se expida y publicite por el Ayuntamiento, por lo menos quince días antes de la celebración del mismo, y con la intervención del Presidente Municipal o su representante, así como del Agente Subalterno del Ministerio Público. El Congreso del Estado podrá enviar o nombrar un representante que presencie la elección.
 
-El Ayuntamiento podrá celebrar convenio con el Instituto Electoral del Estado, en términos de la legislación aplicable para que éste coadyuve en la elección de las autoridades municipales auxiliares.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+El Ayuntamiento podrá celebrar convenio con el Instituto Electoral del Estado, en términos de la legislación aplicable, para que éste coadyuve con la elección para elegir a las personas que formarán parte de las Juntas Auxiliares.
 
 En caso de que el Ayuntamiento celebre el convenio a que hace mención el párrafo anterior, las bases de la convocatoria respectiva podrán contemplar, entre otros, el sufragio libre, directo y secreto, además de sujetarse a los principios rectores de legalidad, imparcialidad, objetividad, certeza e independencia, que rigen la función electoral.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 226.
 
-Las Juntas Auxiliares serán elegidas el último domingo del mes de abril del año que corresponda; durarán en el desempeño de su cometido tres años y tomarán posesión el día 15 de mayo del mismo año, salvo los casos de que habla el artículo 228 de esta Ley, y los de desaparición total de la Junta, para los cuales habrá plebiscitos extraordinarios. Los miembros de las Juntas Auxiliares otorgarán la protesta de ley ante el Presidente Municipal respectivo o su representante.
+Las Juntas Auxiliares serán elegidas el cuarto domingo del mes de enero del año que corresponda; durarán en el desempeño de su cometido tres años y tomarán posesión el segundo domingo del mes de febrero del mismo año, salvo los casos de que habla el artículo 228 de esta Ley, y los de desaparición total de la Junta, para los cuales habrá plebiscitos extraordinarios. Los miembros de las Juntas Auxiliares otorgarán la protesta de Ley ante el Presidente Municipal respectivo o su representante.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 227.
 
-Para ser autoridad de una Junta Auxiliar se requiere ser ciudadano vecino del Municipio, en ejercicio de sus derechos políticos y civiles, con residencia de por lo menos seis meses en el pueblo correspondiente.
+Para formar parte de la administración de una Junta Auxiliar se requiere ser ciudadano vecino del Municipio, en ejercicio de sus derechos políticos y civiles, con residencia de por lo menos seis meses en el pueblo correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 228.
 
-Cuando un pueblo no esté conforme con la elección de la Junta Auxiliar, será removida si así lo solicitaren las tres cuartas partes de sus ciudadanos vecinos inscritos en el padrón electoral. Para el efecto, la solicitud será elevada al Congreso del Estado por los conductos legales, y éste, previos los informes sobre los motivos y autenticidad de la queja, exhortará al Ayuntamiento correspondiente para que convoque a los vecinos del pueblo a un plebiscito para que elijan nueva Junta.
+Cuando un pueblo no esté conforme con la elección de la Junta Auxiliar, será removida si así lo solicitaren las tres cuartas partes de sus ciudadanos vecinos inscritos en el padrón electoral. Para el efecto, la solicitud será elevada al Congreso del Estado por los conductos legales, y éste, previos los informes sobre los motivos y autenticidad de la queja, exhortará al Ayuntamiento correspondiente para que convoque a los vecinos del pueblo a un plebiscito para que elijan nueva Junta, la cual concluirá el periodo correspondiente, sin poder prolongarse su ejercicio por un término mayor.
 
 ###### ARTÍCULO 229.
 
 El primer día hábil después del 15 de mayo, se reunirán los miembros de la Junta Auxiliar saliente con los que los sustituyan, para que aquéllos hagan entrega formal de los expedientes, utensilios y materiales, que hayan estado a su cargo. Si los miembros salientes no comparecieren, la actuación se llevará a cabo con intervención del representante que para el efecto designe el Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 230.
 
-Las Juntas Auxiliares tienen por objeto ayudar al Ayuntamiento en el desempeño de sus funciones. A este fin ejercerán, dentro de los límites de su circunscripción y bajo la vigilancia y dirección de aquéllos, las atribuciones siguientes:
+Las Juntas Auxiliares, además de las facultades contempladas en la presente Ley, ejercerán dentro de los límites de su circunscripción y bajo la vigilancia y dirección del Ayuntamiento correspondiente, las atribuciones siguientes:
 
-I.- Solicitar al respectivo Ayuntamiento recursos que deberán aplicarse a la satisfacción de los gastos públicos del pueblo;
+I.- Remitir al Ayuntamiento, con la oportunidad debida para su revisión y aprobación, el proyecto de presupuesto de gastos del año siguiente;
 
-II.- Remitir al Ayuntamiento, con la oportunidad debida para su revisión y aprobación, los presupuestos de gastos del año siguiente;
+II.- Ayudar al Ayuntamiento en el desempeño de las funciones que le encomiende;
 
-III.- Procurar la debida prestación de los servicios públicos y, en general, la buena marcha de la administración pública, e informar al Ayuntamiento sobre sus deficiencias;
+III.- Dar las facilidades y coadyuvar en su caso con el Ayuntamiento para que este procure la seguridad y el orden público del pueblo;
 
-IV.- Rendir al Ayuntamiento los informes que éste le solicite respecto del ejercicio de las funciones que le otorga la presente Ley;
+IV.- Gestionar ante el Ayuntamiento de su jurisdicción, la construcción de las obras de interés público que considere necesarias;
 
-V.- Procurar la seguridad y el orden públicos del pueblo;
+V.- Nombrar, a propuesta del Presidente de la Junta, al secretario y tesorero de la Junta Auxiliar, los que son funcionarios de confianza y podrán ser removidos libremente;
 
-VI.- Promover ante el Ayuntamiento de su jurisdicción, la construcción de las obras de interés público que estimare necesarias;
+VI.- Asumir por acuerdo delegatorio de facultades y por encomienda directa del Presidente Municipal, el desempeño de alguna actividad no especificada en su cargo pero compatible con el mismo;
 
-VII.- Nombrar, a propuesta del Presidente de la Junta, al Secretario, Tesorero y Comandante de policía de la Junta Auxiliar, los que son funcionarios de confianza y podrán ser removidos libremente, y
+VII.- En coordinación con el Ayuntamiento, garantizar el funcionamiento para la ciudadanía, de la o las ventanillas para servicios y quejas;
 
-VIII.- Las demás que les encomiende el Ayuntamiento.
+VIII.- Fomentar las actividades deportivas, culturales y educativas, sugiriendo las acciones necesarias al Ayuntamiento para su incorporación dentro de los programas municipales respectivos, estando, en todo caso, obligados a seguir la normatividad que en esta materia establezcan las autoridades competentes;
+
+IX.- Impulsar los programas y las acciones implementadas por el Ayuntamiento en favor de las personas con discapacidad, niñas y niños, mujeres y personas adultas mayores, las que promuevan organismos nacionales e internacionales, así como llevar a cabo campañas de sensibilización y cultura de la denuncia de la población para fomentar el respeto hacia los mismos;
+
+X.- Preservar, enriquecer y promover las lenguas originarias, conocimientos y todos los elementos que constituyan la cultura e identidad propios de los Pueblos Indígenas, así como sus usos y costumbres, fiestas, artesanías, vestimenta tradicional, expresiones musicales y gestionar ante el Ayuntamiento, los recursos económicos necesarios para este propósito;
+
+XI.- Realizar en los plazos legalmente establecidos la entrega-recepción a la Junta Auxiliar entrante, en la cual deberá estar presente un representante de la Contraloría Municipal; y
+
+XII.- Las demás que les encomiende el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 231.
 
-Son obligaciones y atribuciones de los Presidentes Auxiliares las siguientes:
+Son obligaciones y atribuciones de los Presidentes Auxiliares, las siguientes:
 
-I.- Procurar la debida prestación de los servicios públicos y en general, la buena marcha de la administración pública, informando al Ayuntamiento sobre sus deficiencias;
+I.- Procurar la debida prestación de los servicios que le haya delegado el Ayuntamiento e informar sobre su cumplimiento;
 
-II.- Formar inventarios minuciosos y justipreciados de los bienes muebles e inmuebles pertenecientes a la Junta Auxiliar, siendo aplicables a estos inventarios las siguientes disposiciones:
+II.- Permitir y aportar la información para la práctica de inventarios, así como mantener en buen estado, los bienes muebles e inmuebles que estarán bajo su resguardo;
 
-a) Se harán constar en un libro especial; y
+III.- Remitir mensualmente al Ayuntamiento, por conducto de la Tesorería Municipal las cuentas relacionadas con el movimiento de fondos de la Junta Auxiliar; así como las comprobaciones de los gastos, en los términos que determine el propio Ayuntamiento;
 
-b) Se revisarán en el mes de enero de cada año, asentando las modificaciones de aumento o disminución que haya habido en el curso del año anterior;
+IV.- Coadyuvar con las dependencias municipales competentes, en la elaboración del padrón de personas sujetas a educación básica;
 
-III.- Informar al Ayuntamiento del que dependan, el cumplimiento de las disposiciones establecidas en la fracción anterior y su resultado;
+V.- Cumplir y hacer cumplir las normas Federales, Estatales y Municipales, los acuerdos que dicte el Ayuntamiento al que pertenezca, así como las demás disposiciones que le encomiende el Presidente Municipal;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+VI.- Con relación a las servidumbres legales, solicitar al Ayuntamiento que se realicen las obras necesarias para que los caños de desagüe sean cubiertos y quede expedito el paso;
 
-IV.- Imponer dentro de su jurisdicción las sanciones que establezca el Bando de Policía y Gobierno para los infractores de sus disposiciones; vigilando que se respeten los derechos humanos de los mismos, en especial de las personas en contexto de vulnerabilidad;
+VII.- Coadyuvar con el Ayuntamiento respecto a la conservación de los bosques, arboledas, puentes, calzadas, monumentos, antigüedades y demás objetos de propiedad pública, dentro su pueblo;
 
-V.- Imponer, cuando proceda, las sanciones a que se refiere la presente Ley;
+VIII.- Gestionar ante el Ayuntamiento, la construcción y conservación de las fuentes y surtidores públicos de agua y que haya abundancia de este líquido tanto para el consumo de las personas como para abrevadero de los ganados; y
 
-VI.- Remitir mensualmente al Ayuntamiento, por conducto de la Tesorería Municipal las cuentas relacionadas con el movimiento de fondos de la Junta Auxiliar;
+IX.- Los demás que les impongan o confieran las leyes.
 
-VII.- Actualizar cada cinco años el padrón de los vecinos de la municipalidad con expresión de las circunstancias señaladas en esta Ley y remitirlos al Presidente Municipal;
-
-VIII.- Formar anualmente dentro de su jurisdicción, en el mes de julio, el padrón de niñas y niños para quienes sea obligatoria, en la Junta Auxiliar, la instrucción primaria y secundaria desde el año inmediato siguiente, remitiéndolo al Presidente Municipal, para que éste, a su vez, lo envíe a las autoridades educativas correspondientes. Este padrón deberá contener los nombres, apellidos, edad, profesión y domicilio del padre o encargado de la niña o niño y el nombre y edad de éste;
-
-IX.- Las que establecen las fracciones II, VI, X, XXII, XXIV, XXV, XXVII y XL del artículo 91; y
-
-X.- Los demás que les impongan o confieran las leyes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 232.
 
-Los acuerdos de las Juntas Auxiliares que no sean de carácter meramente económico, serán revisados y aprobados por el Ayuntamiento respectivo.
+Los acuerdos de las Juntas Auxiliares serán enviados para ser revisados y aprobados por el Ayuntamiento respectivo.
 
 ###### ARTÍCULO 233.
 
@@ -3433,7 +3497,7 @@ Las partes podrán alegar verbalmente, pero sin exigir que sus alegaciones se ha
 
 Es admisible toda clase de pruebas, excepto la de posiciones y las que fueren contrarias al derecho, a la moral y a las buenas costumbres.
 
-Solo se admitirán las pruebas ofrecidas por las partes antes de la celebración de la audiencia, de lo contrario, carecerán en absoluto de valor probatorio, salvo que se trate de documentos de fecha posterior a su ofrecimiento, o de aquéllos cuya existencia ignoraba el que los presente; y los que no hubiere adquirido con anterioridad.
+Sólo se admitirán las pruebas ofrecidas por las partes antes de la celebración de la audiencia, de lo contrario, carecerán en absoluto de valor probatorio, salvo que se trate de documentos de fecha posterior a su ofrecimiento, o de aquéllos cuya existencia ignoraba el que los presente; y los que no hubiere adquirido con anterioridad.
 
 La audiencia y la recepción de pruebas serán públicas.
 
@@ -3622,3 +3686,35 @@ TERCERO.- Los municipios del Estado contarán con un plazo de sesenta días natu
 CUARTO.- Las personas que realicen actividades de venta y suministro de bebidas alcohólicas con los permisos municipales vigentes, cuentan con un plazo de cuarenta y cinco días hábiles para obtener de la autoridad competente, la licencia o el permiso correspondiente en términos de esta Ley.
 
 QUINTO.- El Ejecutivo Estatal contará con un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias correspondientes, en tanto no se realicen, emitirá, por medio de la autoridad administrativa competente, las disposiciones normativas y administrativas para atender a través de la Secretaría de Salud, las solicitudes de cédulas sanitarias para la venta y suministro de bebidas alcohólicas.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN EL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 52; EL 54; EL 94; LA FRACCIÓN I DEL 96; LAS FRACCIONES II, III, IV, VI Y XVI DEL 100; LA FRACCIÓN IV DEL 138; LAS FRACCIONES X Y XI DEL 150; LA DENOMINACIÓN DEL CAPÍTULO XXVII; EL 224; EL SEGUNDO PÁRRAFO DEL 225; EL 226; EL 227; EL 228; EL 230; EL 231 Y EL 232; SE ADICIONAN EL ARTÍCULO 94 BIS; LAS FRACCIONES XVII Y XVIII AL 100 Y LA FRACCIÓN XII ALISO, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones del Capítulo XXVII, entrarán en vigencia y se aplicarán para el proceso de plebiscito de Juntas Auxiliares, a celebrarse en el año dos mil catorce. A excepción de lo establecido en el artículo 226 relativo a la fecha de la elección y toma protesta (sic) de las Juntas Auxiliares que se aplicará en el proceso plebiscitario del año 2019.
+
+TERCERO.- Para efectos de atender los plazos de renovación y duración del periodo transitorio, los Ayuntamientos del año dos mil dieciséis, establecida en la fracción VI del artículo Tercero Transitorio de la reforma de la Constitución Política del Estado Libre y Soberano de Puebla de veintiocho de octubre de dos mil once, los integrantes de las Juntas Auxiliares que sean electos en el mes de abril del año dos mil catorce, tomarán posesión el día quince de mayo del mismo año y por única ocasión concluirán su periodo en el segundo sábado del mes de febrero del año dos mil diecinueve.
+
+CUARTO.- El comandante de la policía de la Junta Auxiliar que se encuentre en funciones a la entrada en vigor de esta Reforma, durará en su cargo hasta la entrega-recepción de los nuevos integrantes de la misma.
+
+QUINTO.- Los Ayuntamientos tendrán que realizar las adecuaciones reglamentarias conducentes en el ámbito de su competencia.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVI Y SE DEROGA LA FRACCIÓN XVII DEL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA.
+
+PRIMERO. El presente Decreto deberá ser publicado en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de dos mil catorce.
+
+SEGUNDO. Para el cumplimiento de este Decreto, el Ejecutivo Estatal a través de las Secretarías de Finanzas y Administración y de la Contraloría, realizará las adecuaciones presupuestales y administrativas de conformidad con lo establecido en las disposiciones legales aplicables.
+
+TERCERO. El Ejecutivo del Estado realizará las modificaciones a los Reglamentos Interiores de las Dependencias correspondientes.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los Reglamentos vigentes en todo aquello que no lo contravenga.
+
+CUARTO. Los recursos humanos, financieros y materiales que sean necesarios, serán transferidos a la Dependencia que corresponda, atendiendo al objeto o naturaleza de sus funciones. Las Secretarias de Finanzas y Administración y de la Contraloría, en el ámbito de su competencia, deberán realizar las acciones conducentes para realizar dichos movimientos.
+
+QUINTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
