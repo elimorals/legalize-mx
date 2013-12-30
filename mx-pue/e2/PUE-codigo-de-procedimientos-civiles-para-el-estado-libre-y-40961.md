@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2013-09-13"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -545,9 +545,17 @@ I.- La primera notificación que deba realizarse a los interesados;
 
 II.- La notificación de las sentencias definitivas;
 
-III.- La notificación de la primera resolución que se dicte cuando haya habido suspensión o interrupción del procedimiento, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-IV.- Las demás notificaciones que la Ley así disponga o el Tribunal lo estime necesario.
+III.- La notificación de la primera resolución que se dicte cuando haya habido suspensión o interrupción del procedimiento;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+IV.- La notificación del auto por el cual se admiten o desechan las pruebas ofrecidas por las partes; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+V. Las demás notificaciones que la ley así disponga o el Tribunal lo estime necesario.
 
 ###### Artículo 66.
 
@@ -1725,13 +1733,17 @@ En caso de acción reconvencional, se procederá en los mismos términos previst
 
 ### CAPÍTULO SEXTO: AUDIENCIA DE RECEPCIÓN DE PRUEBAS, ALEGATOS Y CITACIÓN PARA SENTENCIA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 228.
 
-Constituido el Tribunal en audiencia pública o privada, según el caso, el día y hora señalados al efecto se procederá a declararla abierta, serán llamados por el secretario, las partes, sus abogados, los peritos, testigos, y demás personas que por disposición de la Ley deban intervenir en el juicio; se determinará quiénes pueden estar presentes en el desarrollo de la audiencia y quiénes permanecerán en lugar separado, esperando ser llamados.
+Constituido el Tribunal en audiencia pública o privada, según el caso, el día y hora señalados al efecto se procederá a declararla abierta, serán llamados por el Secretario, las partes, sus abogados, testigos, y demás personas que por disposición de la ley deban intervenir en el juicio; se determinará quiénes pueden estar presentes en el desarrollo de la audiencia y quiénes permanecerán en lugar separado, esperando ser llamados.
+
+Los peritos deberán rendir su dictamen por escrito, así como ratificar tanto el contenido como su firma. En caso de que el Tribunal lo estime necesario, los peritos deberán comparecer a la audiencia a presentar su dictamen y a ser interrogados.
 
 Es obligación de las partes, presentar ante el Tribunal, a las personas que deben comparecer con cualquier carácter a la audiencia, así como los objetos necesarios para la recepción de pruebas o relacionados con el juicio.
 
-Se hará constar por el secretario, quiénes están presentes, y les requerirá para que exhiban original y fotostática del documento que los identifique; previo cotejo, devolverá los originales, agregando la copia a los autos.
+Se hará constar por el Secretario, quienes están presentes, y les requerirá para que exhiban original y fotostática del documento que los identifique; previo cotejo, devolverá los originales, agregando la copia a los autos.
 
 Quienes no estén presentes al inicio o en la reanudación de la audiencia, bajo ningún pretexto podrán participar en la misma.
 
@@ -3807,7 +3819,7 @@ II.- Si se pide el embargo de bienes indeterminados, se procederá conforme a la
 
 ###### Artículo 526.
 
-El solicitante de la medida precautoria otorgará garantía para responder de los daños y perjuicios que puedan causarse a la persona contra quien se pide, pero si la medida precautoria tiende a asegurar el pago de alimentos, de la responsabilidad civil proveniente del delito o de algun otro caso que prevenga la Ley, se decretará sin necesidad de otorgar aquella.
+El solicitante de la medida precautoria otorgará garantía para responder de los daños y perjuicios que puedan causarse a la persona contra quien se pide, pero si la medida precautoria tiende a asegurar el pago de alimentos, de la responsabilidad civil proveniente del delito o de algún otro caso que prevenga la Ley, se decretará sin necesidad de otorgar aquella.
 
 ###### Artículo 527.
 
@@ -4149,67 +4161,103 @@ La sentencia, en su caso, mandará hacer trance y remate de los bienes embargado
 
 ### CAPÍTULO SEGUNDO: EL JUICIO ORAL SUMARÍSIMO
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 574.
 
-Pueden las partes por voluntad expresa dirimir su controversia en juicio oral sumarísimo, y ser asistidos por abogado patrono si así lo desean.
+En el juicio oral sumarísimo se observarán particularmente los principios de oralidad, igualdad, inmediación, contradicción, continuidad, concentración, equidad, ética y buena fe.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+Las partes, por voluntad expresa, pueden dirimir su controversia en juicio oral sumarísimo, y ser asistidos por abogado patrono.
+
+La voluntad a que se refiere el párrafo anterior, deberá constar en la celebración de un acto jurídico anterior a la controversia, o dentro del procedimiento ya iniciado.
+
+Si por acto jurídico anterior a la controversia las partes optaron por el juicio oral sumarísimo, el actor deberá presentar el documento en que conste la voluntad de los presuntos protagonistas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 575.
 
-La voluntad a que se refiere el artículo anterior, deberá constar en la celebración de un acto jurídico anterior a la controversia, o dentro del procedimiento ya iniciado.
+Independientemente de lo dispuesto en el artículo anterior, el Tribunal Superior de Justicia funcionando en Pleno determinará, mediante acuerdo, los asuntos que podrán ser sometidos, conocidos y resueltos a través del juicio oral sumarísimo.
+
+En los procedimientos que tengan trámite especial, el juez, observando el artículo 586, proveerá lo necesario para el debido encausamiento del juicio oral sumarísimo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 576.
 
-En este juicio, el actor comparecerá ante el Tribunal competente, presentando el documento en que conste la voluntad de los presuntos protagonistas para su procedencia; de justificarse, expresará en forma sucinta el objeto que persigue, los hechos en que se funda y las pruebas que justifican los mismos.
+El actor comparecerá ante el Tribunal competente, expresando en forma sucinta el objeto que persigue, los hechos en que se funda y las pruebas que justifican los mismos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 577.
 
-El Tribunal, asentará en una acta breve la razón y las incidencias de la comparecencia en cualquier medio de reproducción que estime conveniente, ordenando su registro en los instrumentos de control administrativos y mandará citar a las partes para que comparezcan dentro de los cinco días siguientes en hora fija ante la presencia judicial, para la audiencia de conciliación y excepciones.
+El Tribunal, asentará las incidencias de la comparecencia en cualquier medio de reproducción que estime conveniente, ordenando su registro en los instrumentos de control administrativos y mandará citar a las partes para que comparezcan dentro de los cinco días siguientes en hora fija ante la presencia judicial, para la audiencia de conciliación.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 578.
 
-En este procedimiento la citación a juicio, deberá realizarse por el diligenciario, o por correo certificado con acuse de recibo, o por cualquier otro medio autorizado legalmente o por el demandado, siempre que éste hubiere manifestado por escrito su consentimiento.
+Si el demandado acude personalmente o por conducto de su representante legal a la cita para la audiencia de conciliación y no hubiere acuerdo de las partes, el Secretario practicará el emplazamiento en el recinto del Tribunal.
 
-El citatorio que realice el diligenciario, reunirá los requisitos que para tal especie prevé este Código y producirá los mismos efectos del emplazamiento.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 579.
 
-Si el demandado no comparece a la audiencia de conciliación y excepciones, se tendrán por ciertos los hechos afirmados por el actor en la demanda, dictándose el fallo y contando el Juez con cinco días para documentarlo.
+Si el demandado incumple con la citación para comparecer a la audiencia de conciliación, se ordenará el llamamiento a juicio mediante emplazamiento fuera del recinto judicial, en los términos establecidos por este Código; en tanto que, si es el actor quien no comparece a la audiencia de conciliación sin justa causa, se decretará el sobreseimiento del juicio.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 580.
 
-Si el demandado acepta los hechos en que se funda la pretensión, sin mayores formalidades el Juez dictará la sentencia definitiva, la que deberá documentar dentro de cinco días.
+En los juicios orales sumarísimos no es admisible la reconvención.
 
-Si el demandado niega o acepta sólo en forma parcial los hechos, se escucharán sus alegaciones y el Juez, sin emitir opinión, convocará a las partes a conciliar sus intereses, conforme a los principios de ética, equidad y buena fe.
+Si el demandado acepta los hechos en que se funda la pretensión, el Juez dictará la sentencia definitiva dentro de los cinco días siguientes.
+
+Si el demandado niega o acepta sólo en forma parcial los hechos, se escucharán sus alegaciones y el Juez, convocará a las partes a conciliar sus intereses, conforme a los principios de ética, equidad y buena fe.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 581.
 
-Si se logra la conciliación, se establecerán las bases de la misma y la forma de su cumplimiento, la que se elevará a la categoría de cosa juzgada.
+Si se logra la conciliación, se establecerán las bases de la misma y la forma de su cumplimiento, la que se elevará a la categoría de cosa juzgada, atendiendo a lo establecido en lo conducente por el artículo 223 de este Código.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 582.
 
-Si no se lograra la conciliación, el demandado dará respuesta verbal a los hechos expuestos por su contrario y ofrecerá las pruebas que estime a su favor, admitiéndose a las partes aquellas que el Juez estime pertinentes, según la naturaleza de los hechos controvertidos, dando conocimiento de ello a las partes, a las que citará en día y hora fijo para la audiencia de desahogo del material probatorio que por su naturaleza así lo requiera.
+Si no se lograra la conciliación, se verificará el emplazamiento, y el Juez señalará día y hora para la audiencia, en un plazo no menor a cinco días contados a partir del emplazamiento, atendiendo a lo establecido en el segundo párrafo del artículo 221 de este Código.
+
+En la referida audiencia el demandado dará respuesta a los hechos expuestos por su contrario y ofrecerá las pruebas que estime a su favor.
+
+El Juez admitirá a las partes las pruebas que estime pertinentes, según la naturaleza de los hechos controvertidos, dando conocimiento de ello a las partes.
+
+Cuando el demandado no comparezca a la referida audiencia, se tendrá por perdido el derecho para dar contestación a los hechos expuestos por el actor y ofrecer pruebas de su parte.
+
+Si es el actor el que no comparece a la audiencia, se decretará el sobreseimiento del juicio.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 583.
 
-En la audiencia de pruebas, las mismas se recibirán en forma verbal, conforme a las disposiciones de este Código. Concluido su desahogo, se escucharán alegaciones breves de las partes y en su presencia, el Juez dictará el fallo, que podrá documentar dentro de los cinco días siguientes.
+En la audiencia de pruebas, las mismas se recibirán en forma verbal, conforme a las disposiciones de este Código. Concluido su desahogo, se escucharán alegaciones breves de las partes y el Juez dictará el fallo, dentro de los cinco días siguientes.
 
 De todo lo actuado en el procedimiento, se instrumentará la memoria correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 584.
 
-Contra la sentencia definitiva procede el recurso de apelación en ambos efectos. En contra de las resoluciones de trámite no procederá ningún medio de impugnación.
+Contra el fallo documentado procede el recurso de apelación en ambos efectos. En contra de las resoluciones de trámite no procederá ningún medio de impugnación.
 
 ###### Artículo 585.
 
 Cuando el demandado se allane o concilie con las pretensiones del actor, no será responsable de las costas.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 586.
 
-Atendiendo a la naturaleza de la controversia y conforme a los principios de equidad, ética y buena fe, el Juez en estos procedimientos, según su prudente arbitrio, podrá conceder gracia únicamente en los plazos para el cumplimiento de las obligaciones o ejecución de los fallos, en favor de aquellos que mostraron disposición para la solución ágil del conflicto.
+El Juez observando en todo momento el debido proceso de Ley, bajo su prudente arbitrio y atendiendo a la naturaleza de la controversia, dispondrá de amplias facultades para orientar el desahogo de la controversia.
 
 ### CAPÍTULO TERCERO: PROCEDIMIENTOS SOBRE DERECHOS REALES
 
@@ -4803,13 +4851,17 @@ Tratándose de la demanda por escrito, si se hubieren omitido en ella algunos de
 
 Si el solicitante no llenare los requisitos dentro del término señalado, el Juez tendrá por no presentada la demanda.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 679.
 
-Los procedimientos familiares, son ordinarios, especiales o privilegiados.
+Los procedimientos familiares, son ordinarios, especiales o privilegiados, pudiendo tramitarse en la vía oral sumarísima, conforme lo establecido en el capitulo respectivo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 680.
 
-Son ordinarios aquellos que no tienen señalada una tramitación especial o privilegiada.
+Son ordinarios aquéllos que no tienen señalada una tramitación especial o privilegiada y aquéllos que no sean tramitados en la vía oral sumarísima.
 
 ###### Artículo 681.
 
@@ -6362,6 +6414,22 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 65 Y 228 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMA LOS ARTÍCULOS 574 AL 584; 586, 679 Y EL 680 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
