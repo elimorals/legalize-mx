@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2012-12-31"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO FISCAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -69,9 +69,9 @@ Para efectos de la aplicación de las Leyes Fiscales del Estado se entenderá po
 
 Los ingresos del Estado se clasifican en ordinarios y extraordinarios. Son ingresos ordinarios las contribuciones, productos, aprovechamientos, participaciones, fondos y recursos participables, aportaciones, incentivos económicos y reasignaciones.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Son ingresos extraordinarios, aquéllos cuya percepción se decreta excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo del Estado o el Secretario de Finanzas.
+Son ingresos extraordinarios, aquéllos cuya percepción se decreta excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo del Estado o el Secretario de Finanzas y Administración.
 
 Dentro de esta categoría quedan comprendidos las donaciones, legados, herencias y reintegros, las aportaciones extraordinarias y de mejoras, así como de los financiamientos que obtenga el Gobierno del Estado y los que deriven de los programas especiales que instrumente el mismo.
 
@@ -141,9 +141,9 @@ Son participaciones, fondos y recursos participables, aportaciones, incentivos e
 
 Son créditos fiscales los que tenga derecho a percibir el Estado o sus Organismos Públicos Descentralizados en los casos que proceda, que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir a sus servidores públicos o de los particulares, así como aquellos a los que las leyes y demás instrumentos jurídicos les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-La recaudación proveniente de todos los ingresos del Estado aun cuando se destinen a un fin específico, se hará a través de la Secretaría de Finanzas o por las oficinas que la misma designe.
+La recaudación proveniente de todos los ingresos del Estado aun cuando se destinen a un fin específico, se hará a través de la Secretaría de Finanzas y Administración o por las oficinas que la misma designe.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
 
@@ -169,9 +169,9 @@ VI.- La Ley de Coordinación Hacendaria para el Estado de Puebla y sus Municipio
 
 VII.- Los demás ordenamientos que contengan disposiciones de carácter hacendario.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-La aplicación de las leyes a que se refiere este artículo, le corresponderá al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y demás autoridades administrativas que prevengan las leyes.
+La aplicación de las leyes a que se refiere este artículo, le corresponderá al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración, y demás autoridades administrativas que prevengan las leyes.
 
 ###### ARTICULO 10.
 
@@ -199,15 +199,13 @@ Son autoridades fiscales del Estado:
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-II.- El Secretario de Finanzas.
+II.- El Secretario de Finanzas y Administración;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-III.- El Subsecretario de Ingresos y los siguientes servidores públicos de su adscripción:
+III.- El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración, y los siguientes servidores públicos de su adscripción:
 
 a) El Director de Ingresos;
 
@@ -215,51 +213,77 @@ b) El Director de Fiscalización:
 
 c) El Director de Verificación de Comercio Exterior;
 
-d) El Jefe de la Unidad de Apoyo Técnico y Legal;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-e) El Subdirector de Recaudación;
+d) El Director de Apoyo Técnico y Legal;
 
-f) El Subdirector de Orientación y Asistencia al Contribuyente;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-g) El Subdirector de Control Vehícular;
+e) El Director de Recaudación;
 
-h) El Subdirector Técnico de Ingresos;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-i) El Subdirector de Revisiones Federales:
+f) El Subdirector de Recaudación;
 
-j) El Subdirector de Revisiones Estatales;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+g) El Subdirector de Orientación y Asistencia al Contribuyente;
 
-k) El Subdirector de Programación, Evaluación y Análisis;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+h) El Subdirector de Control Vehicular;
 
-l) El Subdirector Técnico de Comercio Exterior:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+i) El Subdirector Técnico de Ingresos;
 
-m) El Subdirector Operativo de Presencia Fiscal;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+j) El Subdirector de Revisiones Federales "A";
 
-n) El Jefe del Departamento Técnico de Ejecución; y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+k) El Subdirector de Revisiones Federales "B";
 
-ñ) Los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+l) El Subdirector de Revisiones Estatales;
 
-IV.- El Procurador Fiscal y los siguientes servidores públicos de su adscripción:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+m) El Subdirector de Programación, Evaluación y Análisis;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+n) El Subdirector Técnico de Comercio Exterior;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+ñ) El Subdirector Operativo de Presencia Fiscal;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+o) El Subdirector de Investigación, Inteligencia Aduanera y Programación;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+p) El Jefe del Departamento Técnico de Ejecución; y
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+q) Los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+IV.- El Procurador Fiscal de la Secretaría de Finanzas y Administración, y los siguientes servidores públicos de su adscripción:
 
 a) El Director de Asuntos Fiscales Litigiosos; y
 
 b) El Director de Asuntos Fiscales Consultivos;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-V.- El Coordinador General Jurídico.
+V.- El Coordinador General Jurídico de la Secretaría de Finanzas y Administración;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -287,13 +311,13 @@ En contra de los actos que realicen las autoridades fiscales a que se refiere es
 
 ARTICULO 13 A.- (DEROGADO, P.O. 11 DE JUNIO DE 2003)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 14.
 
-El Gobernador del Estado y el Secretario de Finanzas podrán dictar disposiciones de carácter general, para modificar o adicionar el control, forma de pago y procedimiento siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, infracciones y sanciones.
+El Gobernador del Estado y el Secretario de Finanzas y Administración podrán dictar disposiciones de carácter general, para modificar o adicionar el control, forma de pago y procedimiento, siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, infracciones y sanciones.
 
-De igual forma el Gobernador del Estado y el Secretario de Finanzas quedan facultados para celebrar convenios con la Federación, así como con los Ayuntamientos de la Entidad, sobre la administración de las contribuciones Federales o Municipales, según el caso.
+De igual forma el Gobernador del Estado y el Secretario de Finanzas y Administración quedan facultados para celebrar convenios con la Federación, así como con los Ayuntamientos de la Entidad, sobre la administración de las contribuciones Federales o Municipales, según el caso.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -301,9 +325,9 @@ De igual forma el Gobernador del Estado y el Secretario de Finanzas quedan facul
 
 Sólo podrá afectarse un ingreso estatal a un fin específico, siempre y cuando se destine a cubrir un gasto público y se cumpla lo que sobre este particular se establezca en las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Los programas, contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso estatal a un fin específico, deberán ser autorizados por el Gobernador del Estado y dados a conocer por la Secretaría de Finanzas.
+Los programas, contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso estatal a un fin específico, deberán ser autorizados por el Gobernador del Estado y dados a conocer por la Secretaría de Finanzas y Administración.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2011) (F. DE E., P.O. 18 DE MARZO DE 2011)
 
@@ -327,9 +351,9 @@ En los plazos establecidos por períodos y aquéllos en que señale una fecha de
 
 También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva, en las Oficinas Recaudadoras y de Asistencia al Contribuyente, Receptoras de Pago e Instituciones Bancarias, o se utilice algún otro medio de pago.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Las autoridades fiscales podrán habilitar los días y horas inhábiles; ésta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos. También podrán ampliar el horario de atención al público en las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago, los días en que se venzan los plazos para la presentación de declaraciones; hecho que se dará a conocer mediante publicación que realice la Secretaría de Finanzas.
+Las autoridades fiscales podrán habilitar los días y horas inhábiles; ésta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos. También podrán ampliar el horario de atención al público en las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago, los días en que se venzan los plazos para la presentación de declaraciones; hecho que se dará a conocer mediante publicación que realice la Secretaría de Finanzas y Administración.
 
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1995) (F. DE E., P.O. 18 DE MARZO DE 2011)
 
@@ -411,9 +435,19 @@ X. Los representantes de los contribuyentes que hayan girado cheques para cubrir
 
 XI.- La persona o personas, cualquiera que sea el nombre con el que se les designe, que tengan conferida la dirección general, la gerencia general o la administración única de las sociedades mercantiles, por las contribuciones causadas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-XII.- Los socios o accionistas, respecto de las contribuciones que se hubieren causado, cuando tenían tal calidad sin que la responsabilidad exceda de la participación que tenían en el capital social de la sociedad durante el período o la fecha de que se trate.
+XII.- Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, exclusivamente en los casos en que dicha sociedad no solicite su inscripción en el Registro Estatal de Contribuyentes o Registro Federal de Contribuyentes; cambie su domicilio sin presentar el aviso correspondiente, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos; no lleve contabilidad, la oculte o la destruya; o desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos de este Código; sin que la responsabilidad exceda de la participación que tenían en el capital social de la sociedad durante el periodo o la fecha de que se trate.
+
+La responsabilidad solidaria a que se refiere esta fracción únicamente será aplicable a los socios o accionistas que tengan o hayan tenido el control efectivo de la sociedad, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad.
+
+Se entenderá por control efectivo la capacidad de una persona o grupo de personas, de llevar a cabo cualquiera de los actos siguientes:
+
+a) Imponer decisiones en las asambleas generales de accionistas, de socios y órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes, de una persona moral.
+
+b) Mantener la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital social de una persona moral.
+
+c) Dirigir la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -439,13 +473,17 @@ XVII.- Las personas físicas y morales residentes en el Estado o los residentes 
 
 XVIII.- Los propietarios o poseedores de bienes muebles e inmuebles por el importe de los créditos fiscales a cargo del propietario o poseedor anteriores.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-XIX.- Las demás personas que señalen las leyes fiscales.
+XIX. Los albaceas o representantes de la sucesión por las contribuciones que se causaron o se debieron pagar durante el periodo de su encargo;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+XX. Las demás personas que señalen las leyes fiscales.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-La responsabilidad solidaria comprenderá la totalidad de los créditos fiscales con excepción de las multas, por tanto, el Fisco puede exigir de cualquiera de ellos, simultánea o separadamente el cumplimiento de las obligaciones fiscales. Lo dispuesto en este párrafo no impide que los responsables puedan ser sancionados por actos u omisiones propios.
+La responsabilidad solidaria comprenderá la totalidad de los créditos fiscales con excepción de las multas, por tanto, el Fisco puede exigir de cualquiera de ellos, simultánea o separadamente, el cumplimiento de las obligaciones fiscales. Lo dispuesto en este párrafo no impide que los responsables puedan ser sancionados por actos u omisiones propios.
 
 ###### ARTICULO 21.
 
@@ -473,7 +511,7 @@ d) Cuando no realicen las actividades en los lugares señalados en los incisos a
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-e).- A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+e) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -505,19 +543,27 @@ IV.- Tratándose de personas físicas y morales residentes fuera del territorio 
 
 V.- Tratándose de personas físicas y morales sujetas al pago de contribuciones a la propiedad inmobiliaria y solo en caso de que no señalen su domicilio fiscal, se considerará como tal el de la ubicación del inmueble que dé origen a la obligación fiscal.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VI.- Tratándose de personas físicas y morales usuarias de servicios financieros, el que hayan manifestado a las entidades financieras y sociedades cooperativas de ahorro y préstamo.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto, o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente. Lo establecido en este párrafo no es aplicable a las notificaciones que deban hacerse en el domicilio a que se refiere la fracción V del artículo 26 de este Código.
 
 Se considera que hay cambio de domicilio fiscal, cuando el contribuyente lo establezca en lugar distinto al que se tiene manifestado o cuando deba considerarse un nuevo domicilio en los términos del Código.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-El aviso de cambio de domicilio fiscal deberá presentarse dentro del mes siguiente al día en que tenga lugar la situación jurídica o de hecho que corresponda, ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, mediante las formas oficiales aprobadas por la propia Dependencia.
+El aviso de cambio de domicilio fiscal deberá presentarse dentro de los diez días siguientes al día en que tenga lugar la situación jurídica o de hecho que corresponda, ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, mediante las formas oficiales aprobadas por la propia Dependencia.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 En caso de cambio de nomenclatura o numeración oficial, la Autoridad Fiscal actualizará los datos correspondientes, sin que el contribuyente deba presentar el aviso de cambio de domicilio fiscal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Las autoridades fiscales podrán verificar la existencia y localización del domicilio fiscal manifestado por el contribuyente en el aviso de cambio de domicilio, y en el caso de que el lugar señalado no se considere domicilio fiscal en los términos de este artículo o los contribuyentes no sean localizados en dicho domicilio, el aviso no surtirá sus efectos y tal situación será notificada a los contribuyentes, las cuales se realizarán cumpliendo con las formalidades que en materia de notificaciones establece este Código.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -557,15 +603,15 @@ Las personas domiciliadas fuera del Estado que causen contribuciones, productos 
 
 Son obligaciones de los contribuyentes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-I.- Solicitar la inscripción al Registro Estatal de Contribuyentes, ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente y proporcionar la información relacionada con su identidad y su domicilio, así como su dirección de correo electrónico, dentro del mes siguiente a la fecha en que se coloquen en la situación jurídica o de hecho que dio origen a la causación de la contribución de que se trate.
+I.- Solicitar la inscripción al Registro Estatal de Contribuyentes, ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente y proporcionar la información relacionada con su identidad y su domicilio, así como su dirección de correo electrónico, dentro de los diez días siguientes a la fecha en que se coloquen en la situación jurídica o de hecho que dio origen a la causación de la contribución de que se trate.
 
 Para los efectos del párrafo anterior, se entenderá por Registro Estatal de Contribuyentes la base de datos que incluye información sobre el domicilio fiscal, obligaciones y declaraciones registradas de toda persona física o moral, que conforme a las leyes fiscales sea contribuyente de los impuestos cuya administración corresponda al Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Para estos efectos, la Secretaría de Finanzas unificará los registros de impuestos existentes, así como el Registro Estatal Vehicular, y lo seguirá actualizando con los datos que a través de los diferentes avisos presenten los contribuyentes;
+Para estos efectos, la Secretaría de Finanzas y Administración como autoridad fiscal del Estado, integrará y administrará el Registro Estatal de Contribuyentes, mismo que unifica los registros de impuestos locales, el Registro Estatal Vehicular; así como, los datos correspondientes a los ingresos federales coordinados y lo seguirá actualizando con los datos que a través de los diferentes avisos, declaraciones, trámites o movimientos presenten los contribuyentes; así como, con los que resulten de los actos de verificación y comprobación que para estos efectos realice, o bien, de la información que proporcionen las autoridades fiscales, administrativas y/o judiciales.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -577,17 +623,15 @@ Si los contribuyentes no tuvieran la dirección de correo electrónico a que se 
 
 II.- Presentar los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación al Registro Estatal de Contribuyentes; declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público Registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal; Sobre Servicios de Hospedaje y Estatal Sobre la Realización de Juegos con Apuestas y Sorteos, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas del Estado, en el que señalen mes a mes las bases gravables de los Impuestos Estatales a que se refiere esta fracción, causadas por los meses y ejercicios que se señalen en dicho dictamen, indicando en el mismo, en su caso, los meses pendientes de pago.
+Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público Registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal; Sobre Servicios de Hospedaje y/o Estatal Sobre la Realización de Juegos con Apuestas y Sorteos, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas y Administración del Estado, en el que señalen mes a mes las bases gravables de los Impuestos Estatales a que se refiere esta fracción, causadas por los meses y ejercicios que se señalen en dicho dictamen, indicando en el mismo, en su caso, los meses pendientes de pago.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando, siempre que haya cantidad a pagar.
+Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando, tengan o no cantidad a pagar.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
-
-Los contribuyentes que no realicen pago en el mes que corresponda, deberán acudir a las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de pago, para presentar una declaración informativa que contenga las razones por las que no se realiza el pago, quedando exentos de la obligación de hacerlo en los meses subsecuentes del ejercicio, hasta en tanto tengan impuesto a pagar, cambie la razón por la que no se realice el pago, así lo determine la autoridad fiscal en el ejercicio de sus facultades o presente el aviso de suspensión a los registros de contribuyentes.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -623,9 +667,9 @@ X.- Proporcionar su dirección de correo electrónico, a fin de obtener su clave
 
 Se entenderá como clave de identificación electrónica a la que sustituye a la firma autógrafa del representante legal del contribuyente en los documentos digitales, misma que garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Dicha clave será asignada por la Secretaría de Finanzas mediante un certificado que confirme el vínculo entre un firmante y los datos de creación de la clave de identificación electrónica de que se trate, en los términos que la misma autorice y dé a conocer mediante Reglas de Carácter General. Asimismo, dicha Dependencia proveerá las medidas necesarias para garantizar la confidencialidad de la información que se deba presentar en los términos de esta fracción, información que solamente deberá presentarse encriptada y cumplir con las medidas de seguridad que previamente acuerde la citada Secretaría.
+Dicha clave será asignada por la Secretaría de Finanzas y Administración mediante un certificado que confirme el vínculo entre un firmante y los datos de creación de la clave de identificación electrónica de que se trate, en los términos que la misma autorice y dé a conocer mediante Reglas de Carácter General. Asimismo, dicha Dependencia proveerá las medidas necesarias para garantizar la confidencialidad de la información que se deba presentar en los términos de esta fracción, información que solamente deberá presentarse encriptada y cumplir con las medidas de seguridad que previamente acuerde la citada Secretaría;
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -655,13 +699,21 @@ La modificación de las declaraciones a que se refiere el párrafo anterior, se 
 
 En el caso de fusión, la sociedad que subsista o que se constituya cumplirá con las obligaciones fiscales de las que desaparezcan. Tratándose de escisión de sociedades en la que la sociedad escindente desaparezca, las obligaciones fiscales de la escindente las cumplirá la sociedad escindida.
 
-Cuando en las disposiciones fiscales no se señalen plazos para la presentación de declaraciones, se tendrá por establecido el de 15 días, el que se contará a partir del día siguiente a aquél en que se realice el hecho de que se trate.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
+Cuando en las disposiciones fiscales no se señalen plazos para la presentación de declaraciones, se tendrá por establecido el de diez días, el que se contará a partir del día siguiente a aquél en que se realice el hecho del que se trate.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Los avisos a que se refiere la fracción II de este artículo, deberán presentarse dentro del mes siguiente a aquél en que se actualice el supuesto jurídico o de hecho de que se trate.
+Los avisos a que se refiere la fracción II de este artículo, deberán presentarse dentro de los diez días siguientes a aquél en que se actualice el supuesto jurídico o de hecho de que se trate.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Las personas inscritas en el Registro Estatal de Contribuyentes, deberán conservar en su domicilio fiscal la documentación comprobatoria de haber cumplido con las obligaciones que establecen las leyes fiscales del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Las declaraciones y avisos a que se refiere este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados ante las autoridades fiscales del Estado.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -793,9 +845,9 @@ Transcurrido el término a que se refiere el artículo anterior sin que las Auto
 
 La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada y comprobante de pago en su caso, a quien los presente. Además de los casos que señalen las leyes fiscales, se podrá rechazar la presentación cuando no contenga o se anote de manera incorrecta el nombre, denominación o razón social del contribuyente, su número de registro estatal, su registro federal de contribuyentes y su domicilio fiscal o no aparezcan firmados por el contribuyente o su representante legal debidamente acreditado, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieren sido aprobados y publicados por la Secretaría de Finanzas, los obligados a presentarlas, las formularán por escrito en duplicado que contengan los datos señalados en los artículos 25 y 26 de este Código. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieren sido aprobados y publicados por la Secretaría de Finanzas y Administración, los obligados a presentarlas, las formularán por escrito en duplicado que contengan los datos señalados en los artículos 25 y 26 de este Código. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
 ## TITULO TERCERO. DEL NACIMIENTO Y PAGO DE LOS CREDITOS FISCALES
 
@@ -845,13 +897,13 @@ La falta de pago de un Crédito Fiscal en la fecha o plazo establecido en las di
 
 Pago es el cumplimiento de una obligación fiscal determinada en cantidad líquida, que deberá cubrirse en moneda nacional y podrá hacerse en efectivo, giro postal, telegráfico o bancario, cheque certificado, cheque de caja, tarjeta de crédito o débito, depósito referenciado, y transferencia de fondos reguladas por el Banco de México, incluyendo las que se realicen de manera electrónica o en especie, en los casos que así lo prevengan las leyes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-El cheque certificado o el cheque de caja que se utilice como forma de pago de contribuciones y demás cantidades que tenga derecho a percibir el Estado, así como sus accesorios, deberán reunir los requisitos que mediante reglas de carácter general dicte y publique la Secretaría de Finanzas.
+El cheque certificado o el cheque de caja que se utilice como forma de pago de contribuciones y demás cantidades que tenga derecho a percibir el Estado, así como sus accesorios, deberán reunir los requisitos que mediante Reglas de Carácter General dicte y publique la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Las Autoridades Fiscales podrán autorizar alguna otra forma o medio de pago de las anteriormente señaladas, a través de disposiciones de carácter general que emita la Secretaría de Finanzas.
+Las autoridades fiscales podrán autorizar alguna otra forma o medio de pago de las anteriormente señaladas, a través de disposiciones de carácter general que emita la Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
@@ -865,21 +917,21 @@ Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualqu
 
 En el caso de que se paguen contribuciones mediante cheque, éste sólo podrá aplicarse a un solo contribuyente, debiendo librarse a cargo de cualquier institución de crédito ubicada dentro del territorio del Estado en la que el contribuyente tenga su cuenta.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-El cheque mediante el cual se paguen las contribuciones y demás cantidades que tenga derecho a percibir el Estado, así como sus accesorios, deberá expedirse a nombre de la Secretaría de Finanzas del Gobierno del Estado de Puebla, además deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable.
+El cheque mediante el cual se paguen las contribuciones y demás cantidades que tenga derecho a percibir el Estado, así como sus accesorios, deberá expedirse a nombre de la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla, además deberá tener la inscripción “para abono en cuenta”. Dicho cheque no será negociable.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 33-A.
 
-Los fedatarios públicos que conforme a las disposiciones fiscales se encuentren obligados a determinar y enterar contribuciones a cargo de terceros, podrán hacerlo mediante cheques certificados de su cuenta o de las cuentas personales de los contribuyentes, siempre que cumplan con los requisitos que mediante Reglas de Carácter General dicte la Secretaría de Finanzas.
+Los fedatarios públicos que conforme a las disposiciones fiscales se encuentren obligados a determinar y enterar contribuciones a cargo de terceros, podrán hacerlo mediante cheques certificados de su cuenta o de las cuentas personales de los contribuyentes, siempre que cumplan con los requisitos que mediante Reglas de Carácter General dicte la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 34.
 
-El pago de las contribuciones, productos y aprovechamientos, así como sus accesorios, deberá realizarse en Instituciones Bancarias, Establecimientos autorizados, Oficinas Receptoras de Pago que autorice y dé a conocer la Secretaría de Finanzas mediante Reglas de Carácter General que al efecto se publiquen; o a través de medios electrónicos.
+El pago de las contribuciones, productos y aprovechamientos, así como sus accesorios, deberá realizarse en Instituciones Bancarias, Establecimientos Autorizados, Oficinas Receptoras de Pago que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General que al efecto se publiquen; o a través de medios electrónicos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -889,13 +941,13 @@ Para estos efectos, los interesados utilizarán las formas oficiales o medios el
 
 A quien realice el pago antes señalado, las Instituciones Bancarias, Establecimientos autorizados u Oficinas Receptoras de Pago, según sea el caso, deberán expedir el recibo correspondiente. Tratándose de pagos realizados a través de medios electrónicos, el interesado obtendrá el comprobante de pago vía Internet que emita el Sistema de Recaudación en Línea. Con todos los documentos anteriores, se demostrará el cumplimiento de la obligación fiscal.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 34-A.
 
-Los contribuyentes que estén obligados a realizar pagos de conformidad con las leyes fiscales respectivas, en lugar de utilizar las formas de declaración a que se refiere el artículo 24 fracción II de este Código, podrán presentarlas a través de medios electrónicos, en los términos que señale la Secretaría de Finanzas mediante Reglas de Carácter General.
+Los contribuyentes que estén obligados a realizar pagos de conformidad con las leyes fiscales respectivas, en lugar de utilizar las formas de declaración a que se refiere el artículo 24 fracción II de este Código, podrán presentarlas a través de medios electrónicos, en los términos que señale la Secretaría de Finanzas y Administración mediante Reglas de Carácter General.
 
-Opcionalmente, estos contribuyentes podrán solicitar ante la Secretaría de Finanzas, la certificación del pago efectuado, debiendo cubrir los derechos que por este concepto corresponda.
+Opcionalmente, estos contribuyentes podrán solicitar ante la Secretaría de Finanzas y Administración la certificación del pago efectuado, debiendo cubrir los derechos que por este concepto corresponda.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -923,17 +975,19 @@ Cuando el contribuyente deba pagar recargos o las Autoridades Fiscales intereses
 
 El procedimiento a que se refiere este artículo, se aplicará a los créditos que tenga derecho a percibir el Estado por concepto de cantidades pagadas en exceso y no reintegradas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 35 A.- El monto de las contribuciones omitidas y las multas que participen de su naturaleza jurídica o de las devoluciones a cargo de las Autoridades Fiscales que no se realicen en término, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones no se actualizarán por fracciones de mes.
+###### ARTICULO 35-A.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+El monto de las contribuciones omitidas y los aprovechamientos, así como de las devoluciones a cargo de las autoridades fiscales que no se realicen en término, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones no se actualizarán por fracciones de mes.
 
-Para tales efectos la Autoridad Fiscal tomará en consideración el Indice Nacional de Precios al Consumidor como base del factor de actualización que será aplicado, índice que es calculado y publicado por el Banco de México en los términos de la Legislación Federal correspondiente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Para tales efectos la autoridad fiscal tomará en consideración el Índice Nacional de Precios al Consumidor como base del factor de actualización que será aplicado, índice que es calculado y publicado por el Instituto Nacional de Estadística y Geografía en los términos de la Legislación Federal correspondiente.
 
-En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -943,9 +997,9 @@ Para efectos de aplicación, el factor de actualización deberá calcularse hast
 
 Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco estatal, así como a los valores de bienes u operaciones de que se trate será 1.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-En las contribuciones, la actualización se calculará de conformidad con lo dispuesto en este artículo sobre el total excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere el tercer párrafo del artículo 33 de este Código.
+En las contribuciones, la actualización se calculará de conformidad con lo dispuesto en este artículo sobre el total excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere el cuarto párrafo del artículo 33 de este Código.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1023,9 +1077,9 @@ Las autoridades fiscales podrán compensar de oficio o a petición de parte inte
 
 Los contribuyentes obligados a pagar mediante declaración, podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, aún cuando se trate de diferente naturaleza. Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas, desde el mes en que se realizó el pago de lo indebido, hasta aquel en que la compensación se realice.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Los contribuyentes presentarán el aviso de compensación, dentro de los cinco días siguientes a aquél en el que la misma se haya efectuado, acompañado de la documentación que al efecto se solicite en el formato que para estos efectos autorice y publique en el Periódico Oficial del Estado, la Secretaría de Finanzas.
+Los contribuyentes presentarán el aviso de compensación y promoción por escrito ante la autoridad fiscal del Estado, dentro de los cinco días siguientes a aquél en el que la misma se haya efectuado, acompañados de la documentación que se solicite en el formato que para estos efectos autorice y publique en el Periódico Oficial del Estado, la Secretaría de Finanzas y Administración.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
 
@@ -1089,9 +1143,17 @@ El término de la prescripción se inicia a partir de la fecha en que el pago pu
 
 En el mismo plazo se extinguen las obligaciones del fisco del Estado para devolver las cantidades pagadas indebidamente.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-El plazo a que se refiere este artículo se interrumpirá cuando el contribuyente hubiere desocupado su domicilio fiscal sin haber presentado el aviso correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. Para estos efectos, la autoridad fiscal levantará acta circunstanciada en la que haga constar dicha situación, documento que se fijará en los estrados de la Oficina Recaudadora y de Asistencia al Contribuyente y en Internet, en los términos que establece este Código.
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 85 de este Código, también se suspenderá el plazo de la prescripción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, se suspenderá el plazo a que se refiere este artículo, cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. Para estos efectos, la autoridad fiscal levantará acta circunstanciada en la que haga constar dicha situación, documento que se fijará en los estrados de la autoridad que haya levantado dicha acta o en la página electrónica de aquélla, en los términos que establece este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+El plazo para que se configure la prescripción no podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido, salvo que dicho plazo se encuentre suspendido por las causas previstas en este artículo.
 
 ###### ARTICULO 40.
 
@@ -1099,7 +1161,9 @@ El término para que se consuma la prescripción se interrumpe con cada gestión
 
 Se considera gestión de cobro cualquier actuación de la Autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del sujeto pasivo.
 
-Los Particulares podrán solicitar a la Autoridad la declaratoria de la prescripción de los créditos fiscales.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad fiscal o a petición del contribuyente, de conformidad con las Reglas de Carácter General que emita y publique la Secretaría de Finanzas y Administración.
 
 ## TITULO CUARTO. DE LAS FACULTADES DE LAS
 
@@ -1162,6 +1226,10 @@ d) Contener la firma del servidor público competente que lo emite y en su caso,
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 V.- Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, así como imponer sanciones que señalen este Código y los demás ordenamientos fiscales del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+El apoyo a que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales ingresen al domicilio fiscal, establecimientos, sucursales, oficinas, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que utilicen para el desempeño de sus actividades los contribuyentes, así como para brindar la seguridad necesaria al personal actuante, y se solicitará en términos de los ordenamientos que regulan la seguridad pública del Estado.
 
 Además la autoridad podrá decretar el aseguramiento precautorio de los bienes del contribuyente.
 
@@ -1237,9 +1305,9 @@ La solicitud de condonación o exención en los términos de esta fracción, no 
 
 XVIII.- Emitir la normatividad para la cancelación de los créditos fiscales a favor del Estado.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-XIX.- Conceder subsidios o estímulos fiscales.
+XIX.- Conceder subsidios, beneficios o estímulos fiscales;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -1299,13 +1367,11 @@ III.- Embargar precautoriamente, los bienes o la negociación, en términos de l
 
 Las autoridades fiscales, a petición de los deudores, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas, productos o aprovechamientos y de sus accesorios, sin que dicho plazo exceda de doce meses para pago diferido y de treinta y seis meses para pago en parcialidades, siempre y cuando se cumplan con los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-I.- Presenten el formato que para tales efectos autorice la Secretaría de Finanzas mediante Reglas de Carácter General.
+I.- Se presente solicitud de autorización, por escrito ante la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
-
-La modalidad del pago a plazos elegida por el contribuyente en el formato de la solicitud de autorización de pago a plazos podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente artículo;
+La modalidad del pago a plazos elegida por el contribuyente podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente artículo.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -1393,7 +1459,7 @@ c) Accesorios en el siguiente orden:
 
 d) Monto de las contribuciones omitidas, a las que hace referencia el inciso a) de la fracción II del articulo 41-B de este Código.
 
-VI.- No procederá la autorización a que se refiere este artículo tratándose de contribuciones que debieron pagarse en los seis meses anteriores al mes en el que se solicite la autorización.
+VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2013)
 
 La autoridad fiscal podrá determinar y cobrar el saldo de las diferencias que resulten por la presentación de declaraciones, en las cuales, sin tener derecho al pago a plazos, los contribuyentes hagan uso en forma indebida de dicho pago a plazos, entendiéndose como uso indebido cuando se solicite cubrir las contribuciones y aprovechamientos que debieron en los seis meses anteriores, al mes en el que se solicite la autorización, y cuando dicha solicitud no se presente con todos los requisitos a que se refiere el artículo 41-B de este Código.
 
@@ -1405,15 +1471,27 @@ Durante el periodo que el contribuyente se encuentre pagando a plazos en los té
 
 Los contribuyentes podrán, dentro de los seis días siguientes a aquél en que haya surtido efectos la notificación de las resoluciones a que se refiere el artículo 58 fracciones I, II, III, V, VI y VII, a hacer las aclaraciones que consideren pertinentes ante las autoridades fiscales que hayan emitido el acto, debiendo éstas dar la solución en el mismo día en que se solicite la aclaración y dejar debidamente integrado el expediente administrativo correspondiente, agregando a éste copia de las constancias que demuestren la procedencia del trámite que se haya realizado.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+La aclaración a que se refiere este artículo, podrán realizarla los contribuyentes por escrito, no obstante se encuentren fuera del plazo señalado en el párrafo anterior, para lo cual la autoridad fiscal deberá darle solución en el plazo establecido en el artículo 27 de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+En estos casos, las autoridades fiscales competentes ordenarán la cancelación de los requerimientos notoriamente improcedentes.
+
 Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los contribuyentes puedan interponer los medios de defensa que considere procedentes.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 41-E.
 
-La Secretaría de Finanzas podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, en los siguientes términos:
+La Secretaría de Finanzas y Administración podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, en los siguientes términos:
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 I.- Se consideran créditos de cobro incosteable, aquéllos cuyo importe histórico sea inferior o igual al equivalente en moneda nacional a 200 unidades de inversión.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 II.- Se consideran insolventes los deudores o los responsables solidarios en los siguientes casos:
 
@@ -1423,9 +1501,15 @@ b) Cuando no se puedan localizar, o
 
 c) Cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 En el supuesto de que el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar la cuantía total del crédito fiscal y, en su caso, si se cumple con el requisito señalado en la fracción I de este artículo.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 La cancelación de los créditos a que se refiere este artículo no libera al contribuyente o al responsable solidario de su pago.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 El procedimiento a que se refiere este apartado, quedará sujeto a la normatividad que para tal efecto se emita.
 
@@ -1435,13 +1519,27 @@ El procedimiento a que se refiere este apartado, quedará sujeto a la normativid
 
 Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente, y en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
 
-Lo señalado en el párrafo anterior no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto, no podrán ser impugnadas por los contribuyentes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+Lo señalado en el párrafo anterior no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Administración al respecto, no podrán ser impugnadas por los contribuyentes.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 41-G.
 
-La Secretaría de Finanzas podrá solicitar a las entidades financieras y sociedades cooperativas de ahorro y préstamo, que proporcionen directamente o por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas, según corresponda, la información de los depósitos, servicios, fideicomisos o cualquier tipo de operaciones, cuando la información que formule derive del ejercicio de las facultades de comprobación, o en relación con el cobro de créditos fiscales firmes o del procedimiento administrativo de ejecución.
+La Secretaría de Finanzas y Administración podrá solicitar a las entidades financieras y sociedades cooperativas de ahorro y préstamo, que proporcionen directamente o por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas, según corresponda, la información de los depósitos, servicios, fideicomisos o cualquier tipo de operaciones, cuando la información que formule derive del ejercicio de las facultades de comprobación, o en relación con el cobro de créditos fiscales firmes o del procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 41-H.
+
+Tratándose de contribuyentes que se encuentren sujetos a un procedimiento de concurso mercantil, las autoridades fiscales estatales competentes para ello, podrán condonar parcialmente los créditos fiscales relativos a contribuciones estatales que debieron pagarse con anterioridad a la fecha en que se inicie el procedimiento de concurso mercantil, siempre que el comerciante haya celebrado convenio con sus acreedores en los términos de la ley respectiva y de acuerdo con lo siguiente:
+
+I.- Cuando el monto de los créditos fiscales represente menos del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación no excederá del beneficio mínimo de entre los otorgados por los acreedores que, no siendo partes relacionadas, representen en conjunto cuando menos el 50% del monto reconocido a los acreedores no fiscales; y
+
+II.- Cuando el monto de los créditos fiscales represente más del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación, determinada en los términos de la fracción anterior, no excederá del monto que corresponda a los accesorios de las contribuciones adeudadas.
+
+La autorización de la condonación parcial referida en este artículo, deberá sujetarse a la normatividad que para tal efecto se emita.
 
 ### CAPITULO II. DE LOS ACTOS DE VERIFICACION
 
@@ -1653,9 +1751,13 @@ Se tendrán por no desvirtuados los hechos u omisiones consignados en el oficio 
 
 El plazo que se señala en el segundo párrafo de esta fracción es independiente del que se establece en el artículo 46 C de este Código;
 
-V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de los documentos presentados; y
+V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de los documentos presentados; y (sic)
 
 VI.- Cuando el contribuyente no desvirtúe los hechos u omisiones consignados en el oficio de observaciones, se emitirá la resolución que determine las contribuciones omitidas, la cual se notificará al contribuyente o responsable solidario en términos de lo dispuesto en la fracción I de este artículo.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VII.- Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones a que se refiere la fracción IV de este artículo, el contribuyente podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de la forma de corrección de su situación fiscal de la que proporcionará copia a la autoridad revisora.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -1883,9 +1985,9 @@ Cuando los contribuyentes se ubiquen en la causal de estimativa establecida en l
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales; sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el obligado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las Autoridades Fiscales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas del Gobierno del Estado y cualquier otra autoridad u organismo descentralizado en el área de su competencia.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes, documentos o datos que consten en los registros oficiales, de las Autoridades Fiscales o Administrativas Federales, Estatales o Municipales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Administración del Gobierno del Estado y cualquier otra autoridad u organismo descentralizado en el área de su competencia.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -1900,6 +2002,10 @@ Las copias de documentos que tengan en su poder las autoridades fiscales, tienen
 Los Servidores Públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias, estarán obligados a guardar absoluta reserva en lo que concierne a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquéllos en que deban suministrarse a servidores encargados de la administración y de la defensa de los intereses fiscales, a las autoridades judiciales y el Ministerio Público, ni la información que se proporcione para efectos de su notificación por terceros a que se refiere el artículo 76 último párrafo de este Código.
 
 En su caso, las personas físicas o morales que realicen los actos de notificación que se señalan en el párrafo anterior, estarán obligados a guardar absoluta reserva de los datos que la autoridad fiscal les proporcione.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, de conformidad con la Ley para Regular las Sociedades de Información Crediticia.
 
 ###### ARTICULO 53.
 
@@ -2163,11 +2269,9 @@ XVIII.- De 26 a 52 días de salario mínimo vigente en el Estado a la señalada 
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-I.- Del 20% al 30% de las contribuciones omitidas, cuando el infractor las pague después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones a que se refiere la fracción VI del artículo 46-A de este Código, según sea el caso.
+I.- Del 20% al 30% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones a que se refiere la fracción VI del artículo 46-A de este Código, según sea el caso;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
 
@@ -2291,11 +2395,11 @@ V.- Depositaria infiel; y
 
 VI.- Los relacionados con los Padrones de Contribuyentes.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 68.
 
-Comete el delito de defraudación fiscal quien haciendo uso de engaños, aprovechando errores u ocultando circunstancias relevantes omita total o parcialmente el pago de contribución alguna y con ello obtenga un lucro indebido o ilegítimo, en perjuicio del fisco estatal.
+Comete el delito de defraudación fiscal quien haciendo uso de engaños, aprovechando errores u ocultando circunstancias relevantes, omita total o parcialmente el pago de contribución alguna u obtenga un lucro indebido o ilegítimo, en perjuicio del fisco estatal.
 
 ###### ARTICULO 69.
 
@@ -2345,13 +2449,13 @@ Al que cometa el delito de quebrantamiento de sellos o marcas oficiales colocado
 
 Comete el delito de falsificación o uso indebido de medios de control fiscal quien sin autorización:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-I.- Grabe, manufacture, imprima, troquele, altere o forme con fragmentos de aquéllos las matrices, punzones, dados, clichés, negativos y las formas oficiales valoradas, los use, los ponga en circulación los venda o, a sabiendas de su falsificación los ostente como comprobante de pago de contribuciones en perjuicio del fisco Estatal.
+I.- Grabe, manufacture, imprima, troquele, altere o forme con fragmentos de aquéllos las matrices, punzones, dados, clichés, negativos y las formas oficiales valoradas, así como quien los use, los ponga en circulación, los venda o, a sabiendas de su falsificación los ostente como comprobante de pago de contribuciones en perjuicio del fisco estatal; y
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-II.- Modifique o altere las bases de datos del Registro Estatal de Contribuyentes que administre la Secretaría de Finanzas.
+II.- Modifique, altere o ingrese información distinta a la real en las bases de datos del Registro Estatal de Contribuyentes que administre la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 73.
 
@@ -2433,9 +2537,9 @@ IV.- Por edictos en el caso de que la persona a quien deba notificarse, hubiera 
 
 V.- Por instructivo, solamente en los casos y las formalidades a que se refiere el último párrafo del artículo 78 de este Código.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-La Secretaría de Finanzas podrá habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo con las formalidades de este Código, en los términos de la normatividad que para tal efecto se emita.
+La Secretaría de Finanzas y Administración podrá habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo con las formalidades de este Código, en los términos de la normatividad que para tal efecto se emita.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
 
@@ -2497,9 +2601,9 @@ Se tendrá como fecha de notificación la de la última publicación en la pági
 
 Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-I.- Depósito en dinero ante las Instituciones Bancarias u Oficinas Receptoras de Pago que autorice y de a conocer la Secretaría de Finanzas mediante Reglas de Carácter General que al efecto se publiquen; o a través de medios electrónicos.
+I.- Depósito en dinero ante las Instituciones Bancarias u Oficinas Receptoras de Pago que autorice y dé a conocer la Secretaría de Finanzas y Administración, mediante Reglas de Carácter General que al efecto se publiquen; o a través de medios electrónicos;
 
 II.- Prenda o hipoteca.
 
@@ -2553,9 +2657,9 @@ No se ejecutarán loa actos administrativos cuando se solicite la suspensión an
 
 El procedimiento administrativo quedará suspendido hasta que se haga saber la resolución definitiva que hubiere recaído en el recurso o juicio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir ante el Secretario de Finanzas, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El Secretario de Finanzas ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los diez días siguientes a su recepción.
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir ante el Secretario de Finanzas y Administración, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El Secretario de Finanzas y Administración ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los diez días siguientes a su recepción.
 
 ## TITULO SEPTIMO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -2567,9 +2671,71 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 Las Autoridades Fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el procedimiento administrativo de ejecución.
 
-Se podrá practicar embargo precautorio para asegurar el interés fiscal, antes de la fecha en que el crédito fiscal esté determinado o sea exigible y cuando a juicio de la Autoridad hubiera peligro de que el obligado se ausente, enajene u oculte sus bienes, o realice cualquier maniobra tendiente a evadir el cumplimiento. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-El embargo quedará sin efecto si la Autoridad no emite, dentro del plazo de un año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la Autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá el procedimiento administrativo de ejecución conforme lo dispone este Capítulo. Si el contribuyente garantiza el interés fiscal en los términos del artículo 81 de este Código, se levantará el embargo.
+Se podrá practicar embargo precautorio para asegurar el interés fiscal, sobre los bienes o la negociación del contribuyente, cuando a juicio de la autoridad hubiera peligro de que el obligado se ausente, enajene u oculte sus bienes, o realice cualquier maniobra tendiente a evadir el cumplimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+La Autoridad Fiscal practicará el embargo precautorio conforme a lo siguiente:
+
+I.- Procederá el embargo precautorio cuando el contribuyente:
+
+a) Haya desocupado el domicilio fiscal sin haber presentado el aviso de cambio de domicilio, después de haberse emitido la determinación respectiva.
+
+b) Se oponga a la práctica de la notificación de la determinación de los créditos fiscales correspondientes.
+
+c) Tenga créditos fiscales que debieran estar garantizados y no lo estén o la garantía resulte insuficiente, excepto cuando haya declarado, bajo protesta de decir verdad, que son los únicos bienes que posee.
+
+II.- La autoridad trabará el embargo precautorio hasta por un monto equivalente a las dos terceras partes de la contribución o contribuciones determinadas incluyendo sus accesorios. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia de pago y embargo, y se levantará dicho embargo.
+
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones por las cuales realiza el embargo, de la cual se entregará copia al contribuyente en el mismo acto.
+
+III.- El embargo precautorio se sujetará al orden siguiente:
+
+a) Bienes inmuebles. En este caso, el contribuyente o la persona con quien se entienda la diligencia, deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna.
+
+b) Acciones, bonos, cupones vencidos, valores mobiliarios, y en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, Estados y Municipios y de instituciones o empresas de reconocida solvencia.
+
+c) Dinero y metales preciosos y depósitos bancarios.
+
+d) Los bienes muebles no comprendidos en las fracciones anteriores.
+
+e) La negociación del contribuyente.
+
+Los contribuyentes, responsables solidarios o terceros, deberán acreditar el valor del bien o los bienes sobre los que se practique el embargo precautorio.
+
+En caso de que los contribuyentes, responsables solidarios o terceros no cuenten con alguno de los bienes a asegurar, o bajo protesta de decir verdad, manifiesten no contar con ellos conforme al orden establecido en esta fracción, o en su caso, no acrediten el valor de los mismos, ello se asentará en el acta circunstanciada referida en el segundo párrafo de la fracción II de este articulo.
+
+IV.- A más tardar al tercer día siguiente a aquél en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida, y en su caso, el monto sobre el cual procede. La notificación se hará personalmente o a través de correo certificado con acuse de recibo; y
+
+V.- Los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión del contribuyente, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 92 del presente Código, salvo lo indicado en su segundo párrafo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+El contribuyente que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+La autoridad fiscal deberá ordenar el levantamiento del embargo precautorio a más tardar al tercer día siguiente a aquél en que se acredite que cesó la conducta que dio origen al embargo precautorio, o bien, que existe orden de suspensión emitida por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+La autoridad requerirá al obligado para que dentro del término de diez días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Una vez practicado el embargo precautorio, el contribuyente afectado podrá ofrecer a la autoridad exactora alguna de las garantías que establece el artículo 81 de este Código, a fin de que el crédito fiscal y sus accesorios queden garantizados y se ordene el levantamiento del embargo trabado sobre los depósitos bancarios, otros depósitos o seguros del contribuyente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+El embargo precautorio se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución, sujetándose a las disposiciones que este Código establece.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Son aplicables al embargo precautorio a que se refiere este artículo, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución, que conforme a su naturaleza, le sean aplicables y no contravengan a lo dispuesto en este artículo.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
@@ -2589,13 +2755,25 @@ Para los efectos de este artículo se entenderá como salario mínimo diario vig
 
 ### CAPITULO II. DEL EMBARGO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 88.
 
-Las Autoridades Fiscales para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y en caso de no hacerlo en el acto, procederán como sigue:
+Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y en caso de que éste no acredite en el mismo acto haberlo efectuado, procederán como sigue:
 
-I.- A embargar bienes suficientes para en su caso rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del erario estatal.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+I.- A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del erario estatal, o a embargar los depósitos a que se refiere la fracción I del artículo 94 del presente Código, a fin de que se realicen las transferencias de fondos para satisfacer el crédito fiscal y sus accesorios legales.
+
+En ningún caso procederá el embargo de los depósitos, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una.
+
+Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
 II.- A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener mediante la intervención de ellas los ingresos necesarios que permitan satisfacer en crédito fiscal y sus accesorios.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, el deudor deberá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento, de lo contrario la autoridad fiscal continuará con el procedimiento administrativo de ejecución.
 
 ###### ARTICULO 89.
 
@@ -2675,23 +2853,35 @@ I.- No señale bienes suficientes a juicio del ejecutor o no haya seguido dicho 
 
 II.- Cuando teniendo el deudor otros bienes susceptibles de embargo, señale bienes ubicados fuera de la circunscripción de la autoridad fiscal; cuando reporten algún gravamen real o algún embargo anterior; sean de fácil descomposición, deterioro o materias inflamables.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 95-A.
 
-La inmovilización que proceda como consecuencia del embargo de depósitos bancarios a que se refiere el artículo 94 fracción I del presente Código, que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, derivado de créditos fiscales firmes, sólo se procederá hasta por el importe del crédito y sus accesorios, o en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos. La autoridad fiscal que haya ordenado la inmovilización, girará oficio a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, o a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que de inmediato la inmovilice y conserve los fondos depositados.
+La inmovilización que proceda como consecuencia del embargo de depósitos bancarios a que se refiere el artículo 94 fracción I del presente Código, así como la inmovilización de depósitos bancarios, que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, derivado de créditos fiscales firmes, sólo se procederá hasta por el importe del crédito y sus accesorios, o en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos. La autoridad fiscal que haya ordenado la inmovilización, girará oficio a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, o a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que de inmediato la inmovilice y conserve los fondos depositados.
 
-Al recibir la notificación del oficio mencionado en el párrafo anterior por parte de la Secretaría de Finanzas o la instrucción que se dé por conducto de la Comisión Nacional Bancaria y de Valores, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá proceder a inmovilizar y conservar los fondos depositados, en cuyo caso, la Secretaría de Finanzas notificará al contribuyente de dicha inmovilización por los medios conducentes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-En caso de que en las cuentas de los depósitos a que se refiere el primer párrafo del presente artículo, no existan recursos suficientes para garantizar el crédito fiscal, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá efectuar una búsqueda en su base de datos, a efecto de determinar si el contribuyente tiene otras cuentas con recursos suficientes para tal efecto. De ser el caso, la entidad o sociedad procederá de inmediato a inmovilizar y conservar los recursos depositados hasta por el monto del crédito fiscal. En caso de que se actualice este supuesto, la entidad o sociedad correspondiente deberá notificarlo a la Secretaría de Finanzas, dentro del plazo de dos días hábiles contados a partir de la fecha de inmovilización, a fin de que dicha autoridad realice la notificación que proceda conforme al párrafo anterior.
+Al recibir la notificación del oficio mencionado en el párrafo anterior por parte de la Secretaría de Finanzas y Administración o la instrucción que se dé por conducto de la Comisión Nacional Bancaria y de Valores, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá proceder a inmovilizar y conservar los fondos depositados, en cuyo caso, la Secretaría de Finanzas y Administración notificará al contribuyente de dicha inmovilización por los medios conducentes.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+En caso de que en las cuentas de los depósitos a que se refiere el primer párrafo del presente artículo, no existan recursos suficientes para garantizar el crédito fiscal, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá efectuar una búsqueda en su base de datos, a efecto de determinar si el contribuyente tiene otras cuentas con recursos suficientes para tal efecto. De ser el caso, la entidad o sociedad procederá de inmediato a inmovilizar y conservar los recursos depositados hasta por el monto del crédito fiscal. En caso de que se actualice este supuesto, la entidad o sociedad correspondiente deberá notificarlo a la Secretaría de Finanzas y Administración, dentro del plazo de dos días hábiles contados a partir de la fecha de inmovilización, a fin de que dicha autoridad realice la notificación que proceda conforme al párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberá informar a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 Los fondos de la cuenta del contribuyente únicamente podrán transferirse al Fisco Estatal una vez que el crédito fiscal relacionado quede firme, y hasta por el importe necesario para cubrirlo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 En tanto el crédito fiscal garantizado no quede firme, el contribuyente titular de las cuentas embargadas podrá ofrecer otra forma de garantía de acuerdo con el artículo 81 de este Código, en sustitución del embargo de las cuentas. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de diez días. La autoridad tendrá la obligación de comunicar a la entidad financiera o la sociedad cooperativa de ahorro y préstamo el sentido de la resolución, enviándole copia de la misma, dentro del plazo de quince días siguientes a aquél en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la entidad o sociedad de que se trate levantará el embargo de la cuenta.
 
-La inmovilización de cuentas a que se refiere el presente artículo procederá siempre y cuando el monto del crédito fiscal y sus accesorios sea de cuando menos 847 salarios mínimos diarios vigentes en el Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+La inmovilización de cuentas a que se refiere el presente artículo, procederá siempre y cuando el monto del crédito fiscal y sus accesorios sea de cuando menos 400 salarios mínimos diarios vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2699,17 +2889,23 @@ La inmovilización de cuentas a que se refiere el presente artículo procederá 
 
 Una vez que el crédito fiscal quede firme, la autoridad fiscal procederá como sigue:
 
-I.- Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció otra forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la Secretaría de Finanzas, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de fondos a la cuenta de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+I.- Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció otra forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la Secretaría de Finanzas y Administración, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de fondos a la cuenta de la Secretaría de Finanzas y Administración;
 
 II.- Si cuando el crédito fiscal quede firme, el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III del artículo 81 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días.
 
-En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder al embargo de cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, procediendo en los términos del párrafo anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo informe a la Secretaría de Finanzas haber transferido a ésta última los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder al embargo de cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, procediendo en los términos del párrafo anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo informe a la Secretaría de Finanzas y Administración haber transferido a ésta última los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
 
 III.- Si cuando el crédito fiscal quede firme, el interés fiscal se encuentra garantizado en alguna de las formas establecidas en las fracciones I y III del artículo 81 de este Código, la autoridad fiscal procederá a hacer efectiva la garantía; y
 
 IV.- Si cuando el crédito fiscal quede firme, el interés fiscal no se encuentra garantizado la autoridad fiscal podrá proceder a la inmovilización de cuentas y la trasferencia de recursos en los términos de la fracción I de este artículo.
 
-En cualesquiera de los casos indicados en este artículo, si al transferirse el importe al Fisco Estatal el contribuyente considera que éste es superior al crédito fiscal, deberá demostrar tal hecho ante la Secretaría de Finanzas con prueba documental suficiente, para que dicha autoridad proceda a la devolución de la cantidad transferida en exceso en términos del artículo 37 de este Código en un plazo no mayor de veinte días. Si a juicio de la Secretaría de Finanzas, las pruebas no son suficientes, se lo notificará al interesado haciéndole saber que puede hacer valer el recurso de revocación correspondiente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+En cualquiera de los casos indicados en este artículo, si al transferirse el importe al Fisco Estatal el contribuyente considera que éste es superior al crédito fiscal, deberá demostrar tal hecho ante la Secretaría de Finanzas y Administración con prueba documental suficiente, para que dicha autoridad proceda a la devolución de la cantidad transferida en exceso en términos del artículo 37 de este Código en un plazo no mayor de veinte días. Si a juicio de la Secretaría de Finanzas y Administración, las pruebas no son suficientes, se lo notificará al interesado haciéndole saber que puede hacer valer el recurso de revocación correspondiente.
 
 ###### ARTICULO 96.
 
@@ -2738,6 +2934,10 @@ IX.- Los ejidos.
 ARTICULO 96 A.- El embargo de crédito a que se refiere el artículo 94 fracción II de este Código, será notificado directamente por el Departamento Técnico de Ejecución o la Oficina Recaudadora y de Asistencia al Contribuyente a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste, sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
 
 Si en cumplimiento de lo dispuesto en el párrafo anterior, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y del Comercio, la Oficina Recaudadora y de Asistencia al Contribuyente realizará los trámites administrativos correspondientes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+El incumplimiento en que incurra el deudor del embargado a lo indicado en el primer párrafo de este artículo, dentro del plazo que para tal efecto le haga del conocimiento la autoridad fiscal, hará exigible el monto respectivo a través del procedimiento administrativo de ejecución.
 
 ###### ARTICULO 97.
 
@@ -2831,9 +3031,11 @@ Se impondrá sanción de dos meses a ocho años de prisión, al depositario o in
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-ARTICULO 101 A.- Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado periodo del año, en cuyo caso el porcentaje será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porcentaje del crédito que resulte.
+###### ARTICULO 101-A.
+
+Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida o a la enajenación de los bienes o derechos que componen la misma, de forma separada, cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado periodo del año, en cuyo caso el porcentaje será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porcentaje del crédito que resulte.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2867,13 +3069,17 @@ La Autoridad Fiscal con objeto de obtener un mayor rendimiento, podrá designar 
 
 Cuando las autoridades no fiscales estatales o municipales pongan en remate bienes ya embargados por el fisco del Estado, se considerará crédito preferente el de éste último.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 106.
 
-La base para el remate de los bienes inmuebles embargados será el de avalúo y para negociaciones, el avalúo pericial, o la que fijen de común acuerdo la Autoridad y el embargado, en un plazo de seis días contados a partir de la fecha en que se hubiera practicado el embargo. A falta de acuerdo, la Autoridad practicará avalúo pericial. En todos los casos, la Autoridad notificará personalmente al embargado el avalúo practicado.
+La base para el remate de los bienes inmuebles embargados será el de avalúo y para negociaciones, el avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
 
 El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere este Código, dentro de los diez días siguientes a aquel en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo al perito de su parte.
 
-Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo legal o haciéndolo no designen valuador, se tendrá por aceptado el avalúo hecho conforme al primer párrafo de este artículo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo legal o haciéndolo no designen valuador, o habiéndose nombrado perito por dichas personas, no se presente el dictamen dentro de los plazos a que se refiere el párrafo quinto de este artículo, se tendrá por aceptado el avalúo hecho por la autoridad.
 
 Cuando el dictamen rendido por el perito del embargado o terceros acreedores resulte un valor superior a un 10% al determinado conforme al primer párrafo de este artículo, la Autoridad Ejecutora designará dentro del término de seis días, un perito tercero valuador. El avalúo que se fije por este tercero será la base para el remate de los bienes.
 
@@ -2885,11 +3091,11 @@ En todos los casos previstos en este artículo los peritos deberán rendir su di
 
 Los avalúos de los bienes embargados que se practiquen para efectos fiscales tendrán vigencia de un año, contado a partir de la fecha en que se emitan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 107.
 
-El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a aquélla en la que quede firme la valuación que sirva de base. La publicación de la convocatoria se hará cuando menos diez días antes del remate.
+El remate deberá ser convocado para una fecha fijada, al día siguiente de haberse efectuado la notificación del avalúo, para que tenga verificativo dentro de los veinte días siguientes. La publicación de la convocatoria se hará cuando menos diez días antes del inicio del periodo señalado para el remate.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -3051,9 +3257,9 @@ Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales
 
 Los bienes que pasen a propiedad del Fisco Estatal conforme a este artículo, podrán ser enajenados en los términos del artículo 124 de este Código o donarse para obras o servicios públicos, o a instituciones de asistencia o de beneficencia autorizadas conforme a las leyes de la materia
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-El producto de la venta se destinará a pagar los cargos originados por el manejo, custodia y gastos de venta de ios (sic) citados bienes en los términos que mediante reglas establezca la Secretaría de Finanzas.
+El producto de la venta se destinará a pagar los cargos originados por el manejo, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Secretaría de Finanzas y Administración.
 
 ## TITULO OCTAVO. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -3608,3 +3814,9 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
