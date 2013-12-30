@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-91343"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-12-31"
-last_updated: "2013-11-29"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Décima Cuarta del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -261,9 +261,15 @@ k) Adoptar desde el momento del conocimiento de los hechos presuntamente delicti
 
 3. Las que faculten las leyes en materia de violencia contra las mujeres, violencia familiar, secuestro, trata de personas, delincuencia organizada y cualquier otra que se encuentre en disposición específica por el delito de que se trate;
 
-4. Dictar desde el momento del conocimiento de los hechos presuntamente delictivos, las órdenes de protección de emergencia y preventivas necesarias a favor de las mujeres en situación de violencia, en términos de las disposiciones legales de la materia;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+4. Dictar desde el momento del conocimiento de los hechos presuntamente delictivos, las órdenes de protección de emergencia y preventivas necesarias a favor de las mujeres en situación de violencia, en términos de las disposiciones legales de la materia, así como emitirlas sucesivamente, siempre y cuando permanezcan las condiciones por las que se iniciaron;
 
 5. Derivado de los casos de investigación que tenga conocimiento, informar al Juez de lo Familiar de manera inmediata las cuestiones de violencia familiar, derechos de convivencia, custodia provisional y recuperación de la posesión de los hijos cuando sea necesario para evitar o suspender la afectación física o emocional de menores de edad, ancianos, mujeres o personas que la ley otorgue especial protección;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+6. Asegurarse de que la mujer objeto de violencia tenga acceso efectivo al resarcimiento del daño.
 
 l) Practicar con el auxilio de la policía las diligencias de cateo, previa autorización judicial en los términos que señalen las leyes aplicables;
 
@@ -336,6 +342,14 @@ f) Emitir pronunciamiento con respecto al ejercicio o no ejercicio de la acción
 g) Durante el procedimiento, aportar los elementos de prueba necesarios, formular conclusiones, interponer recursos, solicitar la imposición de medidas de orientación, protección y tratamiento, que corresponda imponer al adolescente, así como solicitar la reparación del daño.
 
 IV.- Ante el Juez competente para conocer de la Extinción de Dominio, preparar, ejercitar la acción y ser parte en el procedimiento de extinción de dominio, en términos de la ley de la materia, previo nombramiento especial para tal fin.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+V.- Protección de los intereses sociales:
+
+a) Proteger los derechos individuales y sociales de los incapaces, ausentes, adultos mayores y menores de edad, y asumir y ejercer la representación legal de estos últimos cuando carezcan de ella o se desconozca si la tienen, atendiendo siempre el interés superior del niño; y
+
+b) Asumir y ejercer la representación legal de los niños afectados o impedidos en sus derechos por quien legalmente los representa o tenga obligación de protegerlos.
 
 ###### Artículo 20.
 
@@ -603,9 +617,25 @@ XXVII.- Abstenerse, conforme a las disposiciones aplicables, de dar a conocer po
 
 XXVIII.- Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía y en su caso, de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
 
-XXIX.- Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Institución, dentro o fuera del servicio; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-XXX.- Las demás que establezcan las disposiciones legales aplicables.
+XXIX.- Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Institución, dentro o fuera del servicio;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+XXX.- Realizar los servicios de procuración de justicia otorgando una atención definida hacia las mujeres que incluya:
+
+a) Abstenerse de cualquier acción o práctica de violencia en su contra;
+
+b) Abstenerse de hostigar o intimidar a las mujeres que sean víctimas o inculpadas;
+
+c) Prevenir y evitar cualquier acto que constituya una revictimización en el desarrollo del procedimiento penal, en particular en las diligencias y demás actos procesales que se lleven a cabo;
+
+d) Objetividad en su actuación, absteniéndose de prejuicios por las circunstancias socioeconómicas, preferencias sexuales o actividades cotidianas de la víctima o inculpada; y
+
+e) Otorgarles un trato de igualdad respecto al propio funcionario o funcionaria que les otorgue el servicio.
+
+XXXI.- Las demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 43.
 
@@ -1496,5 +1526,21 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 P.O. 29 DE NOVIEMBRE DE 2013.
 
 PRIMERO.- El presente Decreto, entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL NUMERAL 4 DEL INCISO K) DE LA FRACCIÓN I DEL ARTÍCULO 19 Y LA FRACCIÓN XXIX DEL 42; Y SE ADICIONAN EL NUMERAL 6 AL INCISO K) DE LA FRACCIÓN I AL 19; Y LA FRACCIÓN XXX INCLUYENDO LOS INCISOS A), B), C), D) Y E) RECORRIENDO LA SUBSECUENTE DEL 42, TODOS DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
