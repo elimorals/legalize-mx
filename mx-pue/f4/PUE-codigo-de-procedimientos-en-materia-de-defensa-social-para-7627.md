@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-11-22"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
+CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO DE FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGIÓN JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -609,6 +609,22 @@ III.- Ejercitar ante los órganos jurisdiccionales la acción persecutoria o de 
 
 IV.- Al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obren en la averiguación, sin que proceda, se le sujetará a procedimiento de responsabilidad administrativa, penal o civil, según corresponda.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 51 Bis.
+
+En todo procedimiento penal se deberá atender prioritariamente el interés superior del niño. Respecto del Ministerio Público esta atención comprenderá como mínimo las acciones siguientes:
+
+I.- Ordenar las medidas administrativas tendentes a la protección física, psicológica y para el sano desarrollo del niño y la niña, y solicitarlas en juicio, velando por su efectiva ejecución;
+
+II.- Asumir y ejercer la representación legal del niño o la niña que conozcan de ella o se desconozca si la tienen;
+
+III.- Representar legalmente al niño y la niña afectados o impedidos en sus derechos por quien legalmente los represente o tenga obligación de protegerlos;
+
+IV.- Velar porque los niños y las niñas tengan oportunidad procesal para expresar su opinión por sí mismos de manera libre; y
+
+V.- Verificar periódicamente, a través de los dictámenes periciales correspondientes, el sano desarrollo físico, mental y social del menor afecto a algún procedimiento penal, incluidos los que se encuentren bajo la patria potestad, tutela o custodia del inculpado, y procurar la existencia y permanencia de las condiciones adecuadas para su continuación.
+
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2000)</small>
 
 ###### Artículo 52.
@@ -625,7 +641,9 @@ Dentro de los períodos de instrucción y de juicio, el Ministerio Público ejer
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
 
-Artículo 54 BIS.- En todo procedimiento penal, la víctima o el ofendido por algún delito tendrá derecho a:
+###### Artículo 54 Bis.
+
+En todo procedimiento penal, la víctima o el ofendido por algún delito tendrá derecho a:
 
 I.- Recibir asesoría jurídica y ser informado, cuando lo solicite, del desarrollo de la averiguación previa o del proceso;
 
@@ -666,6 +684,20 @@ XI.- Que se resguarde su identidad y otros datos personales, en los caos (sic) p
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XII.- Los demás que señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 54 Ter.
+
+Las autoridades en todo procedimiento penal para la adecuada atención de las mujeres víctimas de violencia, en el ámbito de su competencia, deberán:
+
+I.- Dictar sucesivamente las órdenes de protección de emergencia y preventivas necesarias y confirmar su vigencia en tanto permanezcan las condiciones que las originaron, para garantizar la seguridad personal de las mujeres víctimas de violencia;
+
+II.- Prevenir y evitar la revictimización en el desarrollo del procedimiento penal;
+
+III.- Procurar el acceso efectivo a la reparación del daño; y
+
+IV.- Ser objetivas en sus actuaciones y evitar como sustento de sus resoluciones prejuicios derivados por la identidad de género, cultural o social como la vestimenta, la expresión corporal, su condición socioeconómica, preferencias sexuales o actividades cotidianas de la víctima o inculpada.
 
 ###### Artículo 55.
 
@@ -1069,9 +1101,9 @@ T.- Falsificación de acciones, obligaciones y otros documentos de crédito púb
 
 U.- Falsificación de sellos, marcas y punzones, previsto en el artículo 248;
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-V.- Falsificación de documentos, previsto en el artículo 253 Bis primer párrafo y falsedad en declaraciones e informes dados a una autoridad, previsto en el artículo 255, fracción II cuando se encuentre en el supuesto previsto en el párrafo tercero;
+V.- Falsificación de documentos públicos previstos en el artículo 198 Bis fracción I, 252 segundo párrafo y 253 fracciones I y II en relación con los artículos 250, 251, 253 Bis primer párrafo, 442 fracción XI, 443 fracción VIII y 445 fracción II, así como falsedad en declaraciones e informes dados a una autoridad, previstos en el artículo 255 fracción II, cuando se encuentre en el supuesto previsto en el párrafo tercero;
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -3481,7 +3513,9 @@ I. El Ministerio Público, antes de poner en libertad al acusado; lo prevendrá 
 
 II. Cuando el acusado desobedeciera sin causa justificada las órdenes que dicte el Ministerio Público éste podrá hacer efectiva la garantía y revocar la libertad caucional;
 
-III. Si se resuelve el no ejercicio de la acción penal, el Ministerio Público cancelará la garantía y la devolverá;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+III. Si se resuelve el no ejercicio de la acción penal, el Ministerio Público ordenará en la determinación que así lo resuelva, la cancelación de la garantía y la pondrá a disposición del inculpado con apercibimiento que de no presentarse a solicitar su devolución dentro de los quince días hábiles siguientes, pasará a formar parte del Fondo de Mejoramiento de Procuración de Justicia;
 
 IV. Hecha la consignación, se remitirá al Juez del conocimiento la garantía otorgada, la que subsistirá hasta en tanto el Juez no decida su modificación o cancelación;
 
@@ -3803,7 +3837,11 @@ La apelación interpuesta por el ofendido o su representante en los casos establ
 
 La mediación tiene por objeto que el querellante y el inculpado, asistidos de uno o varios mediadores, encuentren formas alternativas de solución al conflicto de índole penal, que se dirima ante los órganos de procuración e impartición de justicia, con el fin de que busquen de manera conjunta y pacífica un acuerdo satisfactorio que termine con la prosecución procesal.
 
-La mediación será procedente únicamente en delitos de querella.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+La mediación será procedente únicamente en delitos de querella y en los de oficio en los que permita el Código Penal el restablecimiento indemnatos.
 
 En ningún caso se podrá iniciar proceso de mediación cuando se afecten la libertad sexual, los intereses, derechos, dignidad e integridad psíquica y corporal de incapaces que carezcan de representante legal. Tampoco habrá proceso de mediación cuando exista pluralidad de agraviados sea en una averiguación o en averiguaciones conexas y acumulables. No habrá mediación cuando se afecten los intereses y derechos de la colectividad.
 
@@ -3855,9 +3893,11 @@ VII.- Legalidad.- Sólo pueden ser objeto de mediación, los conflictos derivado
 
 VIII.- Honestidad.- El mediador debe excusarse de participar en una mediación o dar por terminada la misma si, a su juicio, cree que tal acción será a favor de los intereses de los mediados.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCION SEGUNDA. PROCEDIMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO DE MEDIACIÓN DE LOS DELITOS DE QUERELLA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2004)</small>
 
@@ -3949,19 +3989,49 @@ La autoridad encargada de la tramitación de la Averiguación Previa o el proces
 
 En el momento que alguna de las partes manifieste su interés de mediar, la autoridad citará a una audiencia en los términos de esta sección o podrá derivar el caso a mediadores nombrados por la Procuraduría General de Justicia o profesionales, quienes intervendrán en los términos que establece esta misma sección.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN SEGUNDA BIS. DEL PROCEDIMIENTO DE MEDIACIÓN DE LOS DELITOS DE OFICIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 405 Bis.
+
+La mediación en los delitos de oficio tiene como finalidad el restablecimiento indemnatos y será procedente sólo en los tipos penales que así lo permita el Código Penal del Estado, siempre y cuando el inculpado no tenga antecedentes penales y no se encuentre sujeto a proceso por delito doloso.
+
+El Ministerio Público procurará la conciliación de las partes en todo momento y hasta antes de proceder al ejercicio de la acción penal.
+
+Ejercitada la acción penal, las personas facultadas para realizar procedimientos de mediación, promoverán la conciliación de las partes en cualquier etapa del procedimiento, con la finalidad de que se lleve a cabo el restablecimiento indemnatos.
+
+Se dará a conocer de forma verbal la opción de acordar entre ellos el restablecimiento indemnatos y se dejará constancia de ello; en caso de ser el sujeto activo menor de edad, el acuerdo deberá estar sustentado con la voluntad de quien lo represente. De cumplirse el acuerdo en el plazo establecido, se extinguirá la acción penal o terminará la prosecución procesal.
+
+El procedimiento de mediación en delitos que se persiguen de oficio concluirá con el restablecimiento indemnatos siempre y cuando se haya reparado el daño.
+
 (ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2002) (F. DE E., P.O. 24 DE MARZO DE 2003)
 
 #### SECCION TERCERA. CONVENIO
 
-> <small>(ADICIONADO, P.O., 18 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 406.
 
-El convenio derivado del procedimiento de mediación, que pretenda terminar con las posibilidades de prosecución procesal, surtirá los siguientes efectos:
+El convenio derivado del procedimiento de mediación de los delitos de querella que pretenda terminar con las posibilidades de prosecución procesal, surtirá los siguientes efectos:
+
+> <small>(ADICIONADA, P.O., 18 DE DICIEMBRE DE 2002)</small>
 
 I.- Al momento de la suscripción del convenio y hasta el día siguiente del plazo convenido para su cumplimiento, suspenderá la tramitación procesal;
 
+> <small>(ADICIONADA, P.O., 18 DE DICIEMBRE DE 2002)</small>
+
 II.- Al total cumplimiento del mismo, tendrá los efectos de perdón del ofendido, y
+
+> <small>(ADICIONADA, P.O., 18 DE DICIEMBRE DE 2002)</small>
 
 III.- En caso del incumplimiento o del cumplimento fuera del plazo y forma establecidos convencionalmente, se dictarán los acuerdos necesarios para la continuación de los procedimientos que se hubieran suspendido.
 
@@ -3982,6 +4052,14 @@ En caso de que alguno de los contratantes alegue el incumplimiento de lo conveni
 ###### Artículo 409.
 
 Cumplidos los acuerdos establecidos en el convenio, se dictará por la autoridad mediadora, acuerdo de la extinción de la acción persecutoria y se ordenará el archivo definitivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 409 Bis.
+
+Los convenios del procedimiento de mediación de los delitos de oficio por restablecimiento indemnatos, se firmarán sin formalidad ni plazo previo alguno, en presencia del funcionario facultado para practicar la mediación penal y serán de ejecución inmediata, sólo subsistirán durante la etapa del procedimiento en el que se actúe sin que se suspenda el procedimiento penal mientras no se repare el daño. De su trámite y conclusión se dejará constancia de forma separada al expediente principal y se agregará a éste en caso de ser causa de extinción de la acción penal o terminación de la prosecución procesal, según corresponda la etapa procedimental.
 
 TRANSITORIOS:
 
@@ -4248,3 +4326,45 @@ P.O. 22 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL APARTADO V DEL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 51 BIS AL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 54 TER AL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 395, LA DENOMINACIÓN DE LA SECCIÓN SEGUNDA DEL CAPÍTULO SÉPTIMO DEL LIBRO SEGUNDO Y EL PRIMER PÁRRAFO DEL 406, Y SE ADICIONA LA SECCIÓN SEGUNDA BIS "DEL PROCEDIMIENTO DE MEDIACIÓN DE LOS DELITOS DE OFICIO" AL CAPÍTULO SÉPTIMO DEL LIBRO SEGUNDO, EL 405 BIS Y EL 409 BIS, TODOS DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 353 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las cauciones de las indagatorias de las que a la entrada en vigor del presente Decreto, exista determinación firme del no ejercicio de la acción penal y no sean reclamadas dentro de los quince días hábiles siguientes al de su publicación, se aplicarán al Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
