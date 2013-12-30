@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2012-03-14"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-06-29"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2013.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
@@ -199,9 +199,13 @@ d) Comité de Condonación de Multas;
 
 e) Comité de Acciones Colectivas;
 
-> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-f) Los demás Comités previstos en otras leyes.
+f) Comité de Supervisión, y
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+g) Los demás Comités previstos en otras leyes.
 
 La Comisión Nacional contará con un Organo Interno de Control, que se regirá conforme al artículo 42 del presente Estatuto Orgánico.
 
@@ -873,6 +877,10 @@ XLI. Convocar a las sesiones del Comité de Condonación de Multas y fungir como
 
 XLII. Establecer los lineamientos con base en los cuales se ejercerán las funciones de vigilancia, verificación, prevención y corrección, así como la forma en que la Comisión Nacional ordenará a las Instituciones Financieras los programas de cumplimiento forzoso correspondientes;
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+XLII Bis. Fungir como secretario del Comité de Supervisión;
+
 XLIII. Opinar, previa solicitud de la Dirección General de Evaluación y Vigilancia, sobre la modificación o la suspensión del uso de los modelos de contratos de adhesión utilizados por las Entidades Financieras;
 
 XLIV. Opinar, previa solicitud de la Dirección General de Evaluación y Vigilancia, sobre la suspensión de la publicidad que realicen las Entidades Financieras;
@@ -903,9 +911,9 @@ L. Fungir como coordinador académico de la Escuela de Estudios Financieros, y
 
 LI. Ejercer las atribuciones contenidas en las fracciones I a IV, del artículo 23 Ter del presente Estatuto.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Disposiciones, Convenios, Contratos y Recursos de Revisión, las contenidas en las fracciones I a XVII, XIX a XXIII, XXX a XXXIII, XLII, XLIII, XLVI, L y LI; el Contencioso, las contenidas en las fracciones XVIII, XXIV a XXIX, XXXI a XXXIII y XLIX, y el de Arbitraje y Sanciones, las contenidas en las fracciones XXXI a XLI, XLVII y XLVIII.
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Disposiciones, Convenios, Contratos y Recursos de Revisión, las contenidas en las fracciones I a XVII, XIX a XXIII, XXX a XXXIII, XLII a XLIII, XLVI, L y LI; el Contencioso, las contenidas en las fracciones XVIII, XXIV a XXIX, XXXI a XXXIII y XLIX, y el de Arbitraje y Sanciones, las contenidas en las fracciones XXXI a XLI, XLVII y XLVIII.
 
 ###### Artículo 20.
 
@@ -1427,6 +1435,12 @@ El Comité de Condonación de Multas será un órgano colegiado que conocerá so
 
 El Comité de Acciones Colectivas será un órgano colegiado que analizará la procedencia, determinará la estrategia y aprobará los asuntos en los que se ejercitarán las acciones colectivas de los Usuarios, considerando los alcances jurídicos, políticos y sociales, así como su impacto en el desarrollo del Sistema Financiero Mexicano.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 39 Ter.
+
+El Comité de Supervisión será un órgano colegiado que se encargará de coordinar las acciones de supervisión conferidas a la Comisión Nacional.
+
 ###### Artículo 40.
 
 La Comisión Nacional, previa autorización de la Junta, deberá constituir todos aquellos Comités que se deriven de otras leyes u ordenamientos aplicables.
@@ -1496,3 +1510,7 @@ UNICO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al si
 D.O.F. 14 DE MARZO DE 2012.
 
 UNICO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2013.
+
+ÚNICO. Las presentes Reformas y Adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
