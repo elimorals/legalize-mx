@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-libre-y-soberano-de-puebla-78369"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-08"
-last_updated: "2012-12-31"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 8 de diciembre de 2010.
 
@@ -107,9 +107,11 @@ La ubicación de los lugares de pago, así como los procedimientos, medios elect
 
 Los pagos se harán utilizando las formas oficiales que autorice y publique la citada Dependencia.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 7.
 
-Los contribuyentes de los impuestos a que se refiere esta Ley, que no les resulte cantidad a pagar en cualquiera de los meses del ejercicio fiscal correspondiente, deberán presentar declaración informativa en términos de Código Fiscal del Estado.
+Los contribuyentes de los impuestos a que se refiere esta Ley, que no les resulte cantidad a pagar en cualquiera de los meses del ejercicio fiscal correspondiente, deberán presentar declaración periódica en ceros.
 
 ###### Artículo 8.
 
@@ -181,21 +183,45 @@ III.- Las aportaciones que el patrón otorgue a favor de sus trabajadores por co
 
 IV.- Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y las participaciones en las utilidades de las empresas;
 
-V.- La alimentación, la habitación y las despensas cuando no se proporcionen gratuitamente al trabajador;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-VI.- Los premios por asistencia o por puntualidad, siempre que el importe entregado por cada uno de estos conceptos no rebase el 10% de su sueldo; y
+V.- La alimentación y la habitación cuando se entreguen de forma onerosa a los trabajadores. Se entiende que son onerosas cuando la persona que reciba dichas remuneraciones pague por cada una de ellas, como mínimo el 20% del salario mínimo general vigente en el Estado.
 
-VII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VI.- Los premios por asistencia o por puntualidad, siempre que el importe entregado por cada uno de estos conceptos no rebase el 10% de su sueldo; el excedente se tomará en cuenta para el cálculo del impuesto.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VIII.- La despensa, siempre y cuando se entregue mediante vales y su importe no rebase el 40% del salario mínimo general vigente en el Estado.
+
+La despensa entregada en efectivo se deberá tomar en cuenta en su totalidad para el cálculo del impuesto.
 
 Los conceptos a que se refiere este artículo, se excluirán de la base de este impuesto, siempre y cuando estén registrados en la contabilidad del contribuyente.
 
-Los conceptos señalados en las fracciones II, V, VI y VII deberán además, cumplir con los requisitos que establece la Ley del Impuesto Sobre la Renta.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Los conceptos señalados en las fracciones II, V, VI, VII y VIII deberán además, cumplir con los requisitos que establece la Ley del Impuesto Sobre la Renta.
 
 ###### Artículo 13.
 
 El impuesto a que se refiere este Capítulo, se causará en el momento en que se realicen las erogaciones a que se refiere el artículo 10 de esta Ley y se pagará a más tardar el día 17 del mes siguiente a la fecha en que se cause.
 
-Cuando ocasionalmente se realicen las erogaciones objeto de este impuesto, el contribuyente estará obligado a presentar declaración dentro de los cinco días hábiles siguientes a aquél en que se cause el impuesto; en este caso, los contribuyentes quedan relevados de cumplir con la obligación de presentar el aviso de inscripción al Registro Estatal de Contribuyentes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Cuando ocasionalmente se realicen las erogaciones objeto de este impuesto, el contribuyente estará obligado a presentar declaración dentro de los diez días hábiles siguientes a aquél en que se cause el impuesto; en este caso, los contribuyentes quedan relevados de cumplir con la obligación de presentar el aviso de inscripción al Registro Estatal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Se considera acto ocasional si no se gravan dos o más periodos de forma consecutiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Los contribuyentes que no se hubieran inscrito en el Registro Estatal de Contribuyentes y que presenten dos o más declaraciones de pago durante un ejercicio fiscal, quedarán automáticamente inscritos en dicho Registro.
 
 ###### Artículo 14.
 
@@ -205,7 +231,9 @@ Cuando exista cantidad a pagar, los contribuyentes presentarán las declaracione
 
 Los sujetos del impuesto a que se refiere este Capítulo, además de cumplir con las obligaciones a que se refiere esta Ley y demás disposiciones fiscales aplicables, deberán:
 
-I.- Solicitar la inscripción en el Registro Estatal de Contribuyentes ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se establezcan;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+I.- Solicitar la inscripción en el Registro Estatal de Contribuyentes ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se establezcan;
 
 II.- Presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del Registro Estatal de Contribuyentes.
 
@@ -269,9 +297,19 @@ IV.- Erogaciones a que se refiere el artículo 10 de esta Ley, cubiertas por ins
 
 V.- Contraprestaciones a que se refiere el artículo 10 de esta Ley, cubiertas por organizaciones políticas debidamente registradas conforme a la Ley de la materia;
 
-VI.- Erogaciones a que se refiere el artículo 10 de esta Ley, cubiertas por instituciones de asistencia o beneficencia, autorizadas conforme a la Ley de la materia, siempre y cuando sus servicios sean otorgados totalmente en forma gratuita; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VI.- Erogaciones a que se refiere el artículo 10 de esta Ley, cubiertas por instituciones de asistencia o beneficencia, autorizadas conforme a la Ley de la materia, siempre y cuando sus servicios sean otorgados totalmente en forma gratuita;
 
 VII.- Erogaciones a que se refiere el artículo 10 de esta Ley, cubiertas a trabajadores domésticos.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VIII.- Indemnizaciones por finiquito, rescisión, terminación anticipada de relaciones laborales o cualquier otra de naturaleza análoga que hubiere tenido su origen en la prestación de servicios personales subordinados a un patrón y que sea otorgada conforme a las leyes o contratos de trabajo respectivos; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+IX.- Erogaciones a que se refiere el artículo 10 de esta Ley, cubiertas por las asociaciones religiosas, legalmente constituidas conforme a la Ley de la materia.
 
 APARTADO B
 
@@ -345,9 +383,15 @@ El Impuesto Sobre Servicios de Hospedaje se determinará aplicando a la base a q
 
 El impuesto a que se refiere este Capítulo, se causará al momento en que se reciba el pago por la prestación de los servicios de hospedaje y se enterará a más tardar el día 17 del mes siguiente al que se cause.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 26.
 
-Cuando ocasionalmente se realicen las actividades que den lugar al pago del impuesto a que se refiere este Capítulo, el contribuyente deberá presentar declaración dentro de los 5 días hábiles siguientes a aquél en que se cause. En este caso, el contribuyente queda relevado de cumplir con la obligación de presentar el aviso de inscripción al Registro Estatal de Contribuyentes.
+Cuando ocasionalmente se realicen las actividades que den lugar al pago del impuesto a que se refiere este Capítulo, el contribuyente deberá presentar declaración dentro de los diez días hábiles siguientes a aquél en que se cause. En este caso, el contribuyente queda relevado de cumplir con la obligación de presentar el aviso de inscripción al Registro Estatal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Se considera acto ocasional si no se gravan dos o más periodos de forma consecutiva.
 
 Los contribuyentes que no se hubieran inscrito en el Registro Estatal de Contribuyentes y que presenten dos o más declaraciones de pago durante un ejercicio fiscal, quedarán automáticamente inscritos en dicho Registro.
 
@@ -355,7 +399,9 @@ Los contribuyentes que no se hubieran inscrito en el Registro Estatal de Contrib
 
 Los sujetos del impuesto a que se refiere este Capítulo, además de cumplir con las obligaciones a que se refiere esta Ley y demás disposiciones fiscales aplicables, deberán:
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan;
 
 II.- Presentar ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación al Registro Estatal de Contribuyentes.
 
@@ -445,9 +491,11 @@ e) Tractores no agrícolas, tipo quinta rueda;
 
 f) Autobuses integrales;
 
-g) Vehículos eléctricos; y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-h) Automóviles cuyo motor combine energía proveniente de gas, gasolina o eléctrico;
+g) Vehículos eléctricos y vehículos híbridos eléctricos o con motor accionado por hidrógeno o por cualquier otra fuente de energía alternativa no contaminante.
+
+h) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2013)
 
 VIII.- Comerciantes en el Ramo de Vehículos.- A las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
 
@@ -1011,7 +1059,9 @@ El pago del impuesto se realizará a más tardar el día 17 del mes siguiente al
 
 Los sujetos del impuesto a que se refiere este Capítulo, además de cumplir con las obligaciones a que se refiere esta Ley y las disposiciones fiscales aplicables, deberán:
 
-I.- Solicitar su inscripción al Registro Estatal de Contribuyentes ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+I.- Solicitar su inscripción al Registro Estatal de Contribuyentes ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan;
 
 II.- Presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y de cancelación del Registro Estatal de Contribuyentes;
 
@@ -1127,9 +1177,11 @@ La Secretaría de Finanzas y Administración mediante Reglas de Carácter Genera
 
 Los contribuyentes deberán utilizar la clave de identificación asignada, en los trámites que realicen ante las autoridades fiscales del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 82.
 
-La Secretaría de Finanzas y Administración será la encargada de integrar, administrar y actualizar los datos del Registro Estatal de Contribuyentes, a través de los diferentes avisos que presenten los mismos o con los resultados que deriven de los actos que realicen las autoridades fiscales.
+La Secretaría de Finanzas y Administración será la encargada de integrar, administrar y actualizar los datos del Registro Estatal de Contribuyentes, a través de los diferentes avisos, declaraciones, trámites o movimientos que presenten los mismos o con los resultados que deriven de los actos que realicen las autoridades fiscales o bien, de la información que proporcionen las autoridades fiscales, administrativas y/o judiciales.
 
 ###### Artículo 83.
 
@@ -1151,13 +1203,17 @@ APARTADO A
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 84.
 
-El Registro Estatal Vehicular es la base de datos relativos a los vehículos y sus propietarios, tenedores o usuarios que se registren ante las autoridades fiscales del Estado, conformado con la información siguiente:
+El Registro Estatal Vehicular es la base de datos relativa a los vehículos y sus propietarios, tenedores o usuarios, y en su caso, los responsables solidarios, que se registren ante las autoridades fiscales del Estado, conformado como mínimo, con la información siguiente:
 
 I.- Del vehículo: Número de identificación vehicular, marca, modelo, año modelo, número de cilindros, origen o procedencia, número de motor, de serie, de chasis, de placas y en los casos que proceda, la clave del Registro Público Vehicular; y
 
-II.- De los propietarios, tenedores o usuarios de los vehículos: Nombre, denominación o razón social, domicilio, Clave Única de Registro de Población y, en su caso, los Registros Federal o Estatal de Contribuyentes.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+II.- De los propietarios, tenedores o usuarios de los vehículos, y en su caso, responsables solidarios: Nombre, denominación o razón social, domicilio, Clave Única de Registro de Población y, en su caso, los Registros Federal o Estatal de Contribuyentes.
 
 APARTADO B
 
@@ -1213,9 +1269,19 @@ II.- Comprobante domiciliario;
 
 III.- Comprobantes del pago del Impuesto Federal o Estatal Sobre Tenencia o Uso de Vehículos, correspondientes a los últimos cinco ejercicios fiscales;
 
-IV.- Identificación Oficial con fotografía; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-V.- La demás que se requiera en cumplimiento a nuevas disposiciones legales o normatividad aplicable emitida por las autoridades competentes.
+IV.- Identificación Oficial con fotografía;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+V.- Tratándose de personas morales y físicas con actividad empresarial, deberán señalar su Clave del Registro Federal de Contribuyentes.
+
+En el caso de personas físicas deberán señalar su Clave Única de Registro de Población.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VI.- Las demás que se requieran en cumplimiento a nuevas disposiciones legales o normatividad aplicable emitida por las autoridades competentes.
 
 ###### Artículo 90.
 
@@ -1225,9 +1291,11 @@ APARTADO C
 
 DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 91.
 
-La Secretaría de Finanzas y Administración como autoridad fiscal del Estado, integrará y administrará el Registro Estatal Vehicular, relativo a los vehículos que sean dados de alta en su jurisdicción territorial y lo mantendrá actualizado mediante los trámites o movimientos a que se refiere el artículo 88 de esta Ley, así como con los resultados de los actos de verificación y comprobación que para estos efectos realice.
+La Secretaría de Finanzas y Administración como autoridad fiscal del Estado, integrará y administrará el Registro Estatal Vehicular, relativo a los vehículos que sean dados de alta en el territorio del Estado de Puebla y lo mantendrá actualizado mediante los trámites o movimientos a que se refiere el artículo 88 de esta Ley, así como con los resultados de los actos de verificación y comprobación que para estos efectos realice o bien, de la información que proporcionen las autoridades fiscales, administrativas y/o judiciales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
@@ -1332,3 +1400,9 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
