@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-instituto-registral-y-catastral-del-estado-de-puebla-82
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-03"
-last_updated: "2012-12-31"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO POR EL QUE SE SUPRIME EL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE PUEBLA, PUBLICADO EN LA TRIGÉSIMA SEGUNDA SECCIÓN DEL P.O. DE 30 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL DÍA 1 DE ENERO DE DOS MIL CATORCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la segunda sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de agosto de 2011.
 
@@ -784,3 +786,41 @@ NOVENO.- Los ingresos a que se refiere el artículo 14 de la Ley de Ingresos del
 DÉCIMO.- La Junta de Gobierno del Instituto Registral y Catastral del Estado de Puebla, modificará el Reglamento Interior del Organismo, dentro de un plazo que no excederá de 120 días naturales a partir de la entrada en vigor del presente Decreto, para su expedición por conducto del Ejecutivo del Estado.
 
 DÉCIMO PRIMERO.- Los convenios, anexos y demás actos jurídicos y administrativos, suscritos en materia de colaboración administrativa por la Secretaría General de Gobierno en materia del Registro Civil, con los ayuntamientos, con la federación o los de carácter interestatal, serán atribuidos al Instituto Registral y Catastral del Estado de Puebla y continuarán en vigor hasta su ejecución, el cumplimiento de su vigencia o la suscripción de nuevos actos.
+
+P.O. DE 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día 1 de enero de dos mil catorce.
+
+SEGUNDO.- Se abroga la Ley del Instituto Registral y Catastral del Estado de Puebla, expedida mediante Decreto del Honorable Congreso del Estado, de fecha veintisiete de julio de dos mil once, publicado en el Periódico Oficial del Estado el tres de agosto de dos mil once.
+
+TERCERO.- El Gobierno del Estado, continuará realizando las funciones correspondientes al Registro del Estado Civil de las Personas a través de la Secretaría General de Gobierno; y las funciones correspondientes al Catastro y al Registro Público de la Propiedad, a través de la Secretaría de Finanzas y Administración.
+
+CUARTO.- El Ejecutivo del Estado realizará las modificaciones reglamentarias correspondientes y las adecuaciones administrativas que sean necesarias para el debido cumplimiento del presente Decreto.
+
+En tanto no se realicen las reformas a las que se refiere el párrafo anterior, seguirán aplicándose los Reglamentos vigentes en todo aquello que no contravenga al presente Decreto.
+
+QUINTO.- En un plazo no mayor de treinta días naturales, a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas y Administración realizará las adecuaciones presupuestales y contables necesarias.
+
+SEXTO.- Los formatos utilizados por el "Instituto Registral y Catastral del Estado de Puebla", a la entrada en vigor del presente Decreto, se seguirán utilizando por la Secretaría General de Gobierno y la Secretaría de Finanzas y Administración, en lo que corresponda a sus funciones, hasta la adecuación de los mismos.
+
+SÉPTIMO.- Los recursos humanos asignados al "Instituto Registral y Catastral del Estado de Puebla", que se consideren indispensables para la tramitación y despacho de los asuntos y expedientes por concluir, serán transferidos, atendiendo al objeto o naturaleza de sus funciones, junto con el equipo y mobiliario que tengan asignado a la Secretaría General de Gobierno o a la Secretaría de Finanzas y Administración.
+
+OCTAVO.- Los recursos financieros que formen parte del patrimonio del "Instituto Registral y Catastral del Estado de Puebla" a la fecha de entrada en vigor del presente Decreto, se transferirán a la Secretaría de Finanzas y Administración del Gobierno del Estado.
+
+Los recursos que perciba la Entidad Federativa a partir de esa misma fecha, en las materias de Registro del Estado Civil de las Personas, de Registro Público de la Propiedad y de Catastro, se ingresarán por conducto de la Secretaría de Finanzas y Administración a través de la unidad administrativa competente y su ejecución y destino se realizará de conformidad con las disposiciones legales vigentes y normatividad aplicables.
+
+NOVENO.- Los bienes muebles e inmuebles que a la entrada en vigor del presente Decreto formen parte del patrimonio del "Instituto Registral y Catastral del Estado de Puebla", se transferirán en propiedad al Gobierno del Estado, a través de la Secretaría de Finanzas y Administración, en términos de las disposiciones legales vigentes y normatividad aplicables.
+
+DÉCIMO.- Los juicios, recursos, procesos y procedimientos en los que sea parte el "Instituto Registral y Catastral del Estado de Puebla", que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite, continuarán substanciándose hasta su total conclusión por el Gobierno del Estado, a través de la Secretaría General de Gobierno cuando se trate de asuntos en materia de Registro del Estado Civil de las Personas, y a través de la Secretaría de Finanzas y Administración respecto de asuntos en materia de Catastro y de Registro Público de la Propiedad.
+
+DÉCIMO PRIMERO.- Las Secretarías General de Gobierno, de Finanzas y Administración, y de la Contraloría, en el ámbito de sus respectivas atribuciones y de manera coordinada, darán seguimiento a las acciones que resulten conducentes para dar cumplimiento al presente Decreto.
+
+DÉCIMO SEGUNDO.- El archivo del "Instituto Registral y Catastral del Estado de Puebla", atendiendo a su objeto o naturaleza, será transferido a la Dependencia, Entidad o Unidad Administrativa que asuma sus funciones para su custodia, conservación y administración.
+
+DÉCIMO TERCERO.- La persona que a la fecha de la entrada en vigor del presente Decreto haya sido designada por la Junta de Gobierno del "Instituto Registral y Catastral del Estado de Puebla" como encargado de llevar a cabo los trámites legales y administrativos finales del Organismo hasta su total conclusión, que resulten con motivo de este Decreto, deberá realizarlos dentro de los noventa días hábiles siguientes a la entrada en vigor del presente instrumento; una vez concluido este plazo, se entenderá que dicha función ha cesado. En tanto, el encargado de los citados trámites de extinción deberá solicitar al Gobierno del Estado, los recursos necesarios para cubrir los gastos que se requieran para concluir los trabajos de extinción del Organismo.
+
+DÉCIMO CUARTO.- Los responsables de las áreas administrativas del "Instituto Registral y Catastral del Estado de Puebla", formularán las actas de entrega-recepción pormenorizadas que correspondan. En ellas se incluirán los inventarios de bienes respectivos y su situación, y se señalarán todas las observaciones que correspondan. En todo momento, la Secretaría de la Contraloría participará asesorando y vigilando el proceso. La Secretaría General de Gobierno y la Secretaría de Finanzas y Administración, tendrán ciento veinte días naturales, a partir de la firma de las actas señaladas, para formular las observaciones correspondientes.
+
+DÉCIMO QUINTO.- Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera al Instituto Registral y Catastral del Estado de Puebla, se entenderá asignado a las Dependencias que absorben las facultades de aquél y a las que atribuya la competencia específica que en cada caso se relacione.
+
+DÉCIMO SEXTO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
