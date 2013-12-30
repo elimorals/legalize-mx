@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-oficina-de-la-presidencia-de-la-republica-9344
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2013-11-22"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-03-27"
 
 REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -47,11 +47,15 @@ II. Oficina de la Presidencia. La Oficina de la Presidencia de la República;
 
 III. Ley Orgánica. La Ley Orgánica de la Administración Pública Federal;
 
-IV. Secretario Técnico del Consejo. El Secretario Técnico del Consejo de Seguridad Nacional a que se refiere la Ley de Seguridad Nacional;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-V. Estado Mayor Presidencial. El Estado Mayor Presidencial previsto en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, así como en el Reglamento del Estado Mayor Presidencial, y
+IV. Secretario Técnico del Consejo. El Secretario Técnico del Consejo de Seguridad Nacional a que se refiere la Ley de Seguridad Nacional, y
 
-VI. Conservaduría de Palacio Nacional. La Conservaduría de Palacio Nacional prevista en el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+V. Estado Mayor Presidencial. El Estado Mayor Presidencial previsto en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, así como en el Reglamento del Estado Mayor Presidencial.
+
+VI. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2013)
 
 ###### Artículo 3.
 
@@ -329,9 +333,7 @@ Para el ejercicio de las funciones que en materia de transparencia y acceso a la
 
 ###### Artículo 16.
 
-La Conservaduría de Palacio Nacional ejercerá las atribuciones que establece el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional y demás disposiciones aplicables.
-
-El Secretario Particular del Presidente determinará la adscripción orgánica de la Conservaduría de Palacio Nacional.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
 ### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE ASESORES DEL PRESIDENTE
 
@@ -417,7 +419,9 @@ Los titulares de las unidades a que se refiere el artículo 3 del presente Regla
 
 Los titulares de las unidades de apoyo técnico a que se refiere el artículo 5 de este Reglamento, serán suplidos en sus excusas y ausencias por los servidores públicos que determine el Jefe de la Oficina de la Presidencia mediante el oficio correspondiente.
 
-El titular de la Coordinación General de Administración y el Conservador de Palacio Nacional serán suplidos en sus excusas y ausencias por los servidores públicos que determine el Secretario Particular del Presidente mediante el oficio correspondiente.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+
+El titular de la Coordinación General de Administración será suplido en sus excusas y ausencias por el servidor público que determine el Secretario Particular del Presidente mediante el oficio correspondiente.
 
 ## TRANSITORIOS
 
@@ -434,3 +438,13 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ve
 D.O.F. 22 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento para el Uso y Conservación de las Áreas, Objetos y Colecciones de Palacio Nacional publicado en el Diario Oficial de la Federación el 14 de noviembre de 2000, y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Oficina de la Presidencia de la República transferirá a la Secretaría de Hacienda y Crédito Público los recursos humanos, financieros y materiales asignados a la Conservaduría de Palacio Nacional, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La Coordinación General de Administración de la Presidencia de la República y la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público acordarán las acciones necesarias para dar cumplimiento a lo dispuesto en el párrafo anterior.
