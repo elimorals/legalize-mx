@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-agua-para-el-estado-de-puebla-90974"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2013-11-06"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL AGUA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Vigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -277,9 +277,11 @@ Dichas Autoridades tendrán las atribuciones y competencias que establezcan esta
 
 ### CAPÍTULO II. DE LA COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 11.
 
-La Comisión es un organismo público descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial, y tendrá su domicilio legal en la Capital del Estado sin perjuicio de que pueda establecer representaciones al interior del Estado.
+La Comisión es un Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Infraestructura, y tendrá su domicilio legal en la Capital del Estado, sin perjuicio de que pueda establecer representaciones al interior del Estado.
 
 ###### Artículo 12.
 
@@ -321,9 +323,25 @@ XV. Promover el desarrollo de investigación científica para la preservación, 
 
 XVI. Promover el Reúso del agua que cumpla con las Normas Oficiales Mexicanas referidas a esta materia;
 
-XVII. Solicitar a las autoridades correspondientes la expropiación, ocupación temporal, parcial o total de bienes o la limitación de los derechos de dominio, en los términos de la Ley aplicable; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-XVIII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos.
+XVII. Ejecutar la obra pública que le corresponda para la prestación de los servicios públicos a que se refiere esta Ley;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+XVIII. Solicitar a las autoridades correspondientes la expropiación, ocupación temporal, parcial o total de bienes o la limitación de los derechos de dominio, en los términos de la ley aplicable; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+XIX. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Los procedimientos de adjudicación, contratación y de ejecución de la obra competencia de la Comisión, podrá ejecutarla, a través de las dependencias correspondientes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Para realizar las acciones establecidas en las fracciones I, II, IV, VI y XIV del presente artículo, la Comisión deberá contar con la opinión previa de la Dependencia Coordinadora de Sector.
 
 ###### Artículo 14.
 
@@ -383,7 +401,9 @@ El Secretario Ejecutivo representará al Órgano de Gobierno.
 
 Todos los cargos del Órgano de Gobierno tendrán el carácter de honoríficos por lo que no percibirán retribución alguna con motivo del cargo.
 
-Por cada miembro propietario deberá de haber un suplente, quien deberá tener el nivel de subsecretario o su equivalente. Los integrantes propietarios podrán nombrar y remover libremente a sus suplentes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Por cada miembro propietario deberá de haber un suplente. Los integrantes propietarios podrán nombrar y remover libremente a sus suplentes.
 
 ###### Artículo 19.
 
@@ -423,9 +443,21 @@ IV. Autorizar las erogaciones correspondientes del presupuesto y someter a la ap
 
 V. Celebrar contratos con las instituciones de crédito a fin de obtener, de acuerdo con la Ley respectiva y previa autorización del Órgano de Gobierno, el financiamiento necesario para el cumplimiento de sus fines;
 
-VI. Asistir en carácter de Secretario de Actas y Acuerdos, a las reuniones del Órgano de Gobierno con voz pero sin voto; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-VII. Someter a la aprobación del Órgano de Gobierno las propuestas de las contribuciones y productos que la Comisión deba cobrar.
+VI. Asistir en carácter de Secretario de Actas y Acuerdos, a las reuniones del Órgano de Gobierno con voz pero sin voto;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VII. Someter a la aprobación del Órgano de Gobierno las propuestas de las contribuciones y productos que la Comisión deba cobrar;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VIII. Representar legalmente a la Comisión; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+IX. Las demás atribuciones que le confieran esta Ley, convenios, acuerdos y demás ordenamientos legales.
 
 ### CAPÍTULO III. DE LOS ORGANISMOS OPERADORES
 
@@ -2086,6 +2118,12 @@ II.- Lo dispuesto en el artículo 450 del Código Fiscal y Presupuestario para e
 CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 6 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entra en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
 
 PRIMERO.- El presente Decreto entra en vigor el día de su publicación en el Periódico Oficial del Estado.
 
