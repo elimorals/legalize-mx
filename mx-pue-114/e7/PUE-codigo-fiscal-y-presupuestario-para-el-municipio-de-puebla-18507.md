@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2012-12-31"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "PUE"
 ---
 # CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -601,7 +603,9 @@ I. El Ayuntamiento;
 
 II. El Presidente;
 
-III. El Director Jurídico;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+III. El Director General Jurídico y de lo Contencioso de la Sindicatura Municipal;
 
 IV. El Tesorero, y los titulares de las siguientes unidades administrativas que de éste dependen:
 
@@ -873,9 +877,9 @@ También se considerarán como días y horas hábiles para la práctica de dilig
 
 Son obligaciones de los contribuyentes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-I. Inscribirse en el padrón fiscal municipal dentro de los 45 días siguientes a aquél en que se realice la situación jurídica o de hecho de la cual se deriven obligaciones fiscales municipales y durante el mes de enero de cada ejercicio para los refrendos ante la Tesorería;
+I. Inscribirse en el padrón fiscal municipal dentro de los 45 días hábiles siguientes a aquel en que se realice la situación jurídica o de hecho, de la cual se derivan obligaciones fiscales municipales y durante los meses de enero, febrero y marzo de cada ejercicio fiscal para los refrendos ante la Tesorería;
 
 II. Señalar domicilio fiscal en el Municipio y en su caso domicilio para recibir notificaciones;
 
@@ -1077,101 +1081,235 @@ El derecho de los particulares a la compensación o devolución de las cantidade
 
 ## TÍTULO TERCERO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES MUNICIPALES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 49.
 
-Las autoridades fiscales, en relación con la materia fiscal, tendrán las facultades y funciones que determinen: el presente Código, la Ley Orgánica Municipal y demás ordenamientos y disposiciones de carácter fiscal.
+Las autoridades fiscales, que se señalan en el artículo 26 fracciones I, II y IV, tendrán todas las facultades y funciones que determinen: el presente Código, la Ley Orgánica Municipal y demás ordenamientos y disposiciones de carácter fiscal.
+
+Por cuanto hace a las autoridades señaladas en las fracciones III; incisos a), b), c), d), e), f), g), h) de la fracción IV y V, ejercerán sus facultades conforme a lo dispuesto en el artículo 50 del presente ordenamiento y demás disposiciones aplicables en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 50.
 
-Son facultades de las autoridades fiscales, entre otras:
+Las autoridades fiscales que se precisan en el segundo párrafo del artículo 49 del presente ordenamiento, ejercerán sus facultades conforme a lo siguiente:
 
-I. Proporcionar orientación y asistencia gratuita a los contribuyentes con respecto a las disposiciones fiscales de su competencia;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+I.- El Tesorero Municipal:
 
-Las autoridades fiscales no podrán pronunciarse sobre el fondo de las consultas efectuadas por los particulares, cuando versen sobre la interpretación o aplicación directa de la Constitución Federal, debiendo responder por escrito, en un breve término, fundando y motivando su impedimento legal para resolver la petición;
+a).- Expedir acuerdos y circulares que contengan reglas de carácter general para dar a conocer a las diversas dependencias o unidades administrativas el criterio que deberán seguir en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones, ni derechos para los particulares. Únicamente se derivarán derechos de las mismas cuando sean publicadas en el Periódico Oficial del Estado de Puebla;
 
-II. Contestar las consultas que sobre situaciones reales y concretas le hagan los interesados individualmente; de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito de la autoridad competente para ello;
+b).- Conocer y resolver las solicitudes de caducidad y/o prescripción, del pago de contribuciones, productos, aprovechamientos y sus accesorios;
 
-III. Expedir circulares para dar a conocer a las diversas dependencias o unidades administrativas el criterio que deberán seguir en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones ni derechos para los particulares. Únicamente se derivarán derechos de las mismas cuando sean publicadas en el Periódico Oficial del Estado de Puebla;
+c).- Conocer y resolver las solicitudes de condonación o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+d).- Conceder subsidios o estímulos fiscales;
 
-IV. Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios, terceros relacionados o no con ellos, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, así como determinar infracciones e imponer sanciones que señalen este Código y los demás ordenamientos fiscales del Estado;
+e).- Autorizar el pago a plazos, ya sea diferido o en parcialidades;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+f).- Ejercer la política catastral del Municipio; y
 
-V. Determinar mediante resolución, dar a conocer y hacer efectiva la responsabilidad solidaria;
+g).- Todas aquellas funciones de carácter fiscal no delegables en términos de las disposiciones legales aplicables;
 
-VI. Autorizar el pago a plazos, ya sea diferido o en parcialidades;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+II.- EL DIRECTOR GENERAL JURÍDICO Y DE LO CONTENCIOSO DE LA SINDICATURA MUNICIPAL:
 
-VII. Comprobar que los contribuyentes, responsables solidarios o terceros con ellos relacionados, han cumplido con las disposiciones fiscales, así como comprobar la comisión de infracciones y delitos fiscales; para tal efecto podrán:
+1.- Proporcionar orientación y asistencia gratuita a los contribuyentes con respecto a las disposiciones fiscales en materia de substanciación de los recursos administrativos de su competencia;
 
-a) Rectificar los errores aritméticos que aparezcan en las declaraciones.
+2.- Allegarse y recibir las pruebas necesarias para formular denuncia o querella, en contra de quien o quienes hayan causado algún perjuicio a la Hacienda Pública del Municipio de Puebla;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+3.- Substanciar y promover los recursos administrativos que promuevan los contribuyentes en los términos de este Código y los demás ordenamientos aplicables;
 
-b) Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en oficinas de las propias autoridades, la contabilidad, datos, documentos, reportes e informes que se les requieran, a efecto de llevar a cabo su revisión;
+4.- Recabar de los servidores públicos y de los fedatarios, los datos e informes que posean con motivo de sus funciones y que sean necesarios para dar seguimiento a los trámites referidos en los dos numerales anteriores, cuando tales servidores o fedatarios hayan requerido a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhibieran en su domicilio, establecimientos o en las oficinas de las propias autoridades, o cuando hayan llevado a cabo la revisión de la contabilidad y que hayan proporcionado datos u otros documentos o informes que se les requieran;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+5.- Una vez recibida del Director Jurídico de la Tesorería, la Declaratoria de Perjuicio a la Hacienda Pública del Municipio de Puebla, instruir al subalterno que corresponda para que se presente la denuncia o querella respectiva ante las (sic) autoridad competente y se lleve a cabo el seguimiento correspondiente; y
 
-c) Practicar por sí o por terceros autorizados, actos de verificación y visitas a los contribuyentes, los responsables solidarios o los terceros con ellos relacionados;
+6.- Todas aquellas funciones que en su carácter de autoridad fiscal le confieran de manera específica la defensa de la Hacienda Pública del Municipio en términos del artículo 49 de este código.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-d) Practicar u ordenar la verificación física de toda clase de bienes, así como determinar sus valores correspondientes y revisar o aprobar avalúos;
+III.- EL DIRECTOR DE CATASTRO:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+1.- Proporcionar orientación y asistencia gratuita a los contribuyentes con respecto a las disposiciones fiscales de su competencia en materia de impuestos inmobiliarios;
 
-e) Revisar o confrontar las manifestaciones o avisos presentados por los propietarios o poseedores de inmuebles, con los datos que obren en su poder o de terceros;
+2.- Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades catastrales;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+3.- Reunir pruebas para acreditar la comisión de infracciones y delitos fiscales previstos en este Código, para tal efecto podrá:
 
-f) Calificar las manifestaciones o avisos y requerir a los interesados aclaraciones o comprobaciones;
+a).- Rectificar los errores aritméticos que se observen en las declaraciones fiscales de los contribuyentes en materia de impuestos a la propiedad inmobiliaria;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+b).- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, que proporcionen datos, otros documentos o informes que sean necesarios para confrontarlos con sus declaraciones;
 
-g) Allegarse de pruebas necesarias para formular denuncia, querella o declaratoria de perjuicio cuando se detecten datos falsos o evidencia de actos u omisiones constitutivos de delitos.
+c).- Ordenar a quien corresponda se practiquen actos de verificación y visitas a los contribuyentes, los responsables solidarios o los terceros con ellos relacionados, para verificar el cumplimiento de sus obligaciones fiscales en materia de impuestos inmobiliarios;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+d).- Ordenar a quien corresponda se practique la verificación física de toda clase de bienes inmuebles, así como determinar sus valores correspondientes y revisar o aprobar avalúos;
 
-Las autoridades fiscales podrán ejercitar estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente en cualquiera de las formas previstas por este Código incluidos aquéllos que se realicen por medios electrónicos.
+e).- Revisar o confrontar las manifestaciones o avisos presentados por los propietarios o poseedores de inmuebles, con los datos que obren en su poder o de terceros;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+f).- Calificar las manifestaciones o avisos y requerir a los interesados aclaraciones o comprobaciones; y
 
-VIII. Substanciar y resolver los recursos administrativos que promuevan los contribuyentes en los términos de este Código y los demás ordenamientos aplicables;
+g).- Enviar el expediente con las pruebas a la Dirección Jurídica de la Tesorería, con el propósito que de resultar procedente y se cuente con los elementos que para tal efecto señala la Ley, se formule la declaratoria de perjuicio a la Hacienda Pública Municipal, y en su caso, se remita a las (sic) Dirección General Jurídica y de lo contencioso de la Sindicatura Municipal para que se presente la denuncia o querella, ante las autoridades competentes.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+4.- Elaborar los formatos de pago de las contribuciones a la propiedad inmobiliaria;
 
-IX. Requerir y recabar, de los servidores públicos y de los fedatarios, la documentación e información que posean con motivo del ejercicio de sus funciones;
+5.- Integrar, conservar y actualizar la información catastral del Municipio, a través de un sistema de información multifinalitaria y de las acciones de localización, identificación, levantamiento catastral, registro, determinación de valores unitarios de suelo y construcción aplicables a un predio, valuación, nueva valuación o revaluación y deslinde de bienes inmuebles y en general a través de la ejecución de operaciones catastrales, que permitan obtener las descripción, clasificación, mensura, características físicas y de ubicación de cada predio, de su uso, valor y demás datos necesarios para el cumplimiento de los fines del catastro;
 
-X. Conocer y resolver las solicitudes de condonación o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios;
+6.- Ordenar la inscripción de los bienes inmuebles en el padrón catastral y asignarles registro catastral;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+7.- Ratificar o rectificar la información relativa a la liquidación, retención y entero de ingresos municipales relativos a impuestos a la propiedad inmobiliaria; y
 
-XI. Elaborar los formatos de pago y dictar reglas generales;
+8.- Practicar inspecciones de predios con el objeto de obtener información para conformar el catastro y determinar la base de las contribuciones sobre la propiedad inmobiliaria.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-XII. Conceder subsidios, subvenciones o estímulos fiscales;
+IV.- EL DIRECTOR DE INGRESOS MUNICIPAL:
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+1.- Proporcionar orientación y asistencia gratuita a los contribuyentes con respecto a las disposiciones fiscales de su competencia en materia de contribuciones municipales de cualquier tipo;
 
-XIII. Integrar, conservar y actualizar la información catastral del Municipio, a través de un sistema de información multifinalitaria y de las acciones de localización, identificación, levantamiento catastral, registro, determinación de valores unitarios de suelo y construcción aplicables a un predio, valuación, nueva valuación o reevaluación y deslinde de bienes inmuebles y en general a través de la ejecución de operaciones catastrales, que permitan obtener la descripción, clasificación, mensura, características físicas y de ubicación de cada predio, de su uso, valor y demás datos necesarios para el cumplimiento de los fines del catastro;
+2.- Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades catastrales;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+3.- Reunir pruebas para acreditar la comisión de infracciones y delitos fiscales; para tal efecto podrán:
 
-XIV. Ordenar la inscripción de los bienes inmuebles en el padrón catastral y asignarles registro catastral;
+a).- Rectificar los errores aritméticos que aparezcan en las declaraciones;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+b).- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, para que proporcionen datos, otros documentos o informes que sean necesarios para confrontarlos con sus declaraciones;
 
-XV. Ratificar o rectificar la información a que se refiere la fracción XII del artículo 36 de este ordenamiento; y
+c).- Ordenar a quien corresponda se practique la verificación física de toda clase de bienes, así como determinar sus valores correspondientes y revisar o aprobar avalúos;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+d).- Revisar o confrontar las manifestaciones o avisos presentados por los propietarios o poseedores de inmuebles, con los datos que obren en su poder o de terceros;
 
-XVI. Practicar inspecciones de predios con el objeto de obtener información para conformar el catastro y determinar la base de las contribuciones sobre la propiedad inmobiliaria.
+e).- Ordenar al subalterno que corresponda se practiquen actos de verificación y visitas a los contribuyentes, los responsables solidarios o los terceros con ellos relacionados;
+
+f).- Calificar las manifestaciones o avisos y requerir a los interesados aclaraciones o comprobaciones;
+
+g).- Enviar el expediente con las pruebas a la Dirección Jurídica de la Tesorería, con el propósito que de resultar procedente y se cuenten con los elementos que para tal efecto señala la Ley, se formule la declaratoria de perjuicio a la Hacienda Pública Municipal, y en su caso, se remita a las (sic) Dirección General Jurídica y de lo contencioso de la Sindicatura Municipal para que se presente la denuncia o querella, ante las autoridades competentes;
+
+4.- Proponer los formatos de pago de las diversas contribuciones y cargas fiscales a favor de la Hacienda Pública Municipal; y
+
+5.- Elaborar los proyectos de acuerdo con los que el Tesorero Municipal resuelva respecto a las solicitudes de condonación o reducción del pago de contribuciones, productos, aprovechamientos y sus accesorios;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+V.- EL DIRECTOR JURÍDICO DE LA TESORERÍA MUNICIPAL:
+
+1.-Proporcionar orientación y asistencia gratuita a los contribuyentes con respecto a las disposiciones fiscales competencia de la Tesorería Municipal;
+
+2.- Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales;
+
+3.- Comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales, así como requerir y recibir a las autoridades fiscales de la Tesorería las pruebas con las que se acredite la comisión de infracciones y delitos fiscales previstos en este Código, con el propósito de elaborar la respectiva Declaratoria de Perjuicio a la Hacienda Pública del Municipio de Puebla; para tal efecto podrá:
+
+a).- Rectificar los errores aritméticos que aparezcan en las declaraciones;
+
+b).- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, que proporcionen datos, otros documentos o informes que sean necesarios para confrontarlos con sus declaraciones;
+
+c).- Solicitar a quien corresponda se practiquen actos de verificación y visitas a los contribuyentes, los responsables solidarios o los terceros con ellos relacionados;
+
+d).- Solicitar a quien corresponda se practique la verificación física de toda clase de bienes, así como determinar sus valores correspondientes;
+
+e).- Revisar o confrontar las manifestaciones y/o avisos presentados por los propietarios o poseedores de inmuebles, con los datos que obren en su poder o de terceros;
+
+f).- Calificar las manifestaciones o avisos y requerir a los interesados aclaraciones o comprobaciones;
+
+g).- Recabar de los servidores públicos y de los fedatarios, los datos e informes que posean con motivo de sus funciones; y
+
+h).- Enviar el expediente de Declaratoria de Perjuicio con las pruebas recabadas, a la Dirección General Jurídica y de lo Contencioso de la Sindicatura Municipal, con el propósito que de resultar procedente y se cuente con los elementos que para tal efecto señala la Ley, se formule la Declaratoria de Perjuicio a la Hacienda Pública Municipal para que se presente la denuncia o querella, ante las autoridades competentes.
+
+4.- Elaborar, por instrucciones del Tesorero Municipal los proyectos de acuerdos y circulares que contengan reglas de carácter general para dar a conocer a las diversas dependencias o unidades administrativas el criterio que deberán seguir en cuanto a la aplicación de las normas tributarias;
+
+5.- Revisar que los formatos de pago de las diversas contribuciones y cargas fiscales municipales, se ajusten a las disposiciones legales aplicables, y en su caso, remitirlas a la Contraloría Municipal para la autorización correspondiente;
+
+6.- Previa instrucción del Tesorero Municipal y/o solicitud de alguna de las autoridades fiscales adscritas a la Tesorería, contestar las consultas que sobre situaciones reales y concretas que le hagan los interesados individualmente a cualquiera de las autoridades fiscales del Municipio; de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito de parte de la autoridad competente para ello;
+
+7.- Determinar mediante resolución la responsabilidad solidaria;
+
+8.- Allegarse de pruebas necesarias para formular la Declaratoria de Perjuicio a la Hacienda Pública del Municipio; sin embargo para llegar a esta fase del procedimiento es necesario que las autoridades fiscales ejerciten sus facultades sucesivamente, entendiéndose que se inician con la primera autoridad que conoce del acto infractor y que no obstante haber realizado acciones tendientes a la solventación de la infracción por el contribuyente, este prolonga la situación que infringe las disposiciones fiscales;
+
+9.- Acreditado el perjuicio y si éste permanece en la situación irregular que da origen a la infracción; se remitirá el expediente a la Dirección General Jurídica y de lo Contencioso, para que ejerza las acciones legales tendientes a la defensa del patrimonio de la Hacienda Pública Municipal;
+
+10.- Recibir de las Unidades Administrativas correspondientes los recursos legales que promuevan los contribuyentes inconformes en los términos de este Código y los demás ordenamientos aplicables, para proceder a la elaboración del informe y su posterior envío a la Sindicatura Municipal;
+
+11.- Recabar de los servidores públicos y de los fedatarios, cuando así proceda, los datos e informes que posean con motivo de sus funciones, en relación al cumplimiento de obligaciones fiscales en las que tengan intervención;
+
+12.- Elaborar los proyectos de acuerdo con los que el Tesorero Municipal resuelva respecto a las solicitudes de exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios;
+
+13.- Emitir opinión respecto al cumplimiento de la normatividad aplicable a los formatos de pago; y
+
+14.- Elaborar los proyectos de acuerdo con los que el Tesorero Municipal conceda subsidios o estímulos fiscales.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VI.- EL TITULAR DE LA UNIDAD DE NORMATIVIDAD Y REGULACIÓN COMERCIAL.
+
+1.- Proporcionar orientación y asistencia gratuita a los contribuyentes con respecto a las disposiciones fiscales de su competencia en materia de normatividad municipal, fiscalización de establecimientos comerciales, industriales y de servicios, espectáculos públicos, mercados y Central de Abastos;
+
+2.- Contestar las consultas que sobre situaciones reales y concretas le hagan los interesados individualmente, de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito;
+
+3.- Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, así como imponer sanciones que señalen este Código y los demás ordenamientos fiscales del Estado;
+
+4.- Comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales en materia de comercio establecido, espectáculos públicos, mercados y Central de Abastos;
+
+5.- Enviar al Director Jurídico de la Tesorería las pruebas con las que se acredite la comisión de infracciones y delitos fiscales con el propósito de elaborar la respectiva Declaratoria de Perjuicio a la Hacienda Pública del Municipio de Puebla; para tal efecto podrá:
+
+a).- Rectificar los errores aritméticos que aparezcan en las declaraciones;
+
+b).- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, que proporcionen datos, otros documentos o informes que sean necesarios para confrontarlos con sus declaraciones;
+
+c).- Ordenar a quien corresponda se practiquen actos de verificación y visitas a los contribuyentes, los responsables solidarios o los terceros con ellos relacionados;
+
+d).- Ordenar a quien corresponda se practique la verificación física de toda clase de bienes, así como determinar sus valores correspondientes y revisar o aprobar avalúos;
+
+e).- Revisar o confrontar las manifestaciones o avisos presentados por los propietarios o poseedores de inmuebles, con los datos que obren en su poder o de terceros; y
+
+f).- Calificar las manifestaciones o avisos y requerir a los interesados aclaraciones o comprobaciones.
+
+6.- Determinar mediante resolución, dar a conocer y hacer efectiva la responsabilidad solidaria;
+
+7.- Recibir los escritos con los que los contribuyentes inconformes, promuevan recurso administrativo de revisión, elaborar el informe respectivo y remitir en el término legal aplicable ambos documentos a la Dirección General Jurídica y de lo Contencioso de la Sindicatura Municipal para su substanciación; y
+
+8.- Requerir y recabar, de los servidores públicos y de los fedatarios, la documentación e información que posean con motivo del ejercicio de sus funciones.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VII.- EL COORDINADOR DE FISCALIZACIÓN DE COMERCIO ESTABLECIDO; EL COORDINADOR DE FISCALIZACIÓN DE ESPECTÁCULOS PÚBLICOS Y EL COORDINADOR DE FISCALIZACIÓN DE MERCADOS, CENTRAL E INDUSTRIAL DE ABASTOS:
+
+1.- Ejercerá coordinadamente con el Titular de la Unidad de Normatividad y Regulación Comercial las facultades señaladas en la fracción VI de este artículo.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VIII.- EL JEFE DEL DEPARTAMENTO DE ACTUALIZACIÓN PREDIAL Y EL JEFE DEL DEPARTAMENTO DE IMPUESTOS INMOBILIARIOS:
+
+1.- Ejercerá coordinadamente con el Director de Catastro Municipal, las facultades señaladas en la fracción III de este artículo.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+IX.- EL JEFE DEL DEPARTAMENTO DE LICENCIAS Y PADRÓN DE CONTRIBUYENTES:
+
+1.- Ejercerá coordinadamente con el Director de Ingresos las facultades señaladas en la fracción III de este artículo.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+X.- EL JEFE DEL DEPARTAMENTO DE EJECUCIÓN:
+
+1.- Ejercerá coordinadamente con el Director Jurídico las facultades señaladas en la fracción V de este artículo.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+XI.- EL ADMINISTRADOR GENERAL DE INDUSTRIAL DE ABASTOS PUEBLA; LOS MÉDICOS DEL DEPARTAMENTO DE CONTROL Y VIGILANCIA DE INDUSTRIAL DE ABASTOS PUEBLA Y LOS DEMÁS SERVIDORES PÚBLICOS A LOS QUE LAS LEYES Y CONVENIOS LES CONFIERAN FACULTADES ESPECÍFICAS EN MATERIA DE HACIENDA MUNICIPAL O LAS EJERZAN POR DELEGACIÓN EXPRESA:
+
+1.- Ejercerán coordinadamente con el resto de las autoridades fiscales adscritas a la Tesorería Municipal sus facultades en el marco de la legislación aplicable.
+
+XII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2013)
+
+XIII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2013)
+
+XIV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2013)
+
+XV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2013)
+
+XVI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -1353,7 +1491,7 @@ Toda revocación de la autorización de pago diferido o en parcialidades deberá
 
 La falta de pago de alguna de las parcialidades estipuladas, o en el plazo concedido, según el caso, determinará la inmediata exigibilidad del adeudo insoluto, pudiendo iniciarse el Procedimiento Administrativo de Ejecución, con posterioridad al requerimiento de pago del saldo insoluto y sus accesorios que haga la autoridad fiscal.
 
-Durante el plazo concedido para el pago a plazos, se causarán recargos conforme a este ordenamiento y la Ley de Ingresos del Municipio aplicable.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 59.
 
@@ -2531,27 +2669,29 @@ VII. Tratándose de contribuyentes interesados que no hubieren señalado un medi
 
 Las notificaciones a través de medios electrónicos se podrán hacer en cualquier sistema de información que designe el destinatario, como correos electrónicos, institucionales o inclusive a través de una página Web, las cuales surtirán sus efectos a partir de que el destinatario cuente con su acuse de recibo electrónico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 105.
 
-Las notificaciones surtirán sus efectos a partir del día hábil siguiente a aquél en que fueron hechas y al practicarlas deberá proporcionarse al interesado o a la persona con la que se entienda la diligencia, copia con firma autógrafa del acto administrativo que se notifique. Cuando la notificación la realice directamente la autoridad fiscal, deberá señalarse la fecha y hora en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia, si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
+Las notificaciones surtirán sus efectos a partir del día hábil siguiente a aquél en que fueron hechas y al practicarlas por medios físicos y mediante documentos impresos deberá proporcionarse al interesado o a la persona con la que se entienda la diligencia, copia con firma autógrafa del acto administrativo que se notifique, esta obligación de la autoridad se exceptúa en los casos en que las notificaciones se realicen por medios electrónicos mediante mensaje de datos a los que se refieren el artículo 107 Bis de este Código, toda vez que esta forma de notificación ostenta la firma electrónica avanzada del funcionario público. Cuando la notificación la realice directamente la autoridad fiscal, deberá señalarse la fecha y hora en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia, si ésta se niega a uno u otra cosa, se hará constar en el acta de notificación.
 
 La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a aquélla en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
 
-Toda notificación personal realizada con quien deba entenderse, será legalmente válida, aun cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Toda notificación personal realizada con quien deba entenderse, será legalmente válida, aún cuando no se efectúe en el domicilio respectivo, ni en el domicilio de las autoridades fiscales o bien se lleve a cabo por medios electrónicos, en aquellos casos en los que el contribuyente haya proporcionado a la autoridad fiscal una dirección de correo electrónico personal o institucional, mediante mensaje de datos, siempre y cuando esta última forma de notificación ostente la Firma Electrónica Avanzada del funcionario competente para emitir el acto a notificar.
 
 ###### Artículo 106.
 
 Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales, si las personas a quienes debe notificarse se presentan en las mismas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-Si las notificaciones no se efectúan en las oficinas de las autoridades fiscales, se harán en el último domicilio que el interesado haya señalado en el Municipio, salvo que hubiera designado otro para recibir notificaciones en el propio Municipio, al iniciar algún trámite, en la instancia o en el curso de un procedimiento administrativo tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
+Si las notificaciones no se efectúan en las oficinas de las autoridades fiscales, se harán en el último domicilio que el interesado haya señalado en el Municipio, salvo que hubiera designado otro para recibir notificaciones en el propio Municipio, al iniciar algún trámite en la instancia o en el curso de un procedimiento administrativo o bien por vía electrónica mediante mensaje de datos cuando el contribuyente hubiere proporcionado a la autoridad su correo electrónico tratándose de las actuaciones relacionadas con el trámite o resolución de los mismos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-No podrán practicarse notificaciones relativas al Procedimiento Administrativo de Ejecución en las oficinas de las autoridades fiscales.
+No podrán practicarse notificaciones relativas al Procedimiento Administrativo de Ejecución en las oficinas de las autoridades fiscales, pero sí por vía electrónica mediante mensaje de datos cuando el contribuyente hubiere proporcionado a la autoridad su correo electrónico personal o institucional.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -2564,6 +2704,10 @@ Cuando por su propia naturaleza exista peligro de que el contribuyente evada la 
 Tratándose de actos relativos al Procedimiento Administrativo de Ejecución, el citatorio será siempre para la espera antes señalada y si la persona citada o su representante legal no esperasen, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto la diligencia se entenderá con un vecino. El acta que sea levantada de la diligencia, contendrá los elementos que garanticen que el personal actuante procedió en los términos y bajo los supuestos de este párrafo.
 
 En casos de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia y de que anexó la copia con firma autógrafa del documento que se notifica por esa vía, para dar cuenta al jefe de la oficina ejecutora.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+En caso que la notificación se realice por vía electrónica mediante mensaje de datos, cuando el contribuyente hubiere proporcionado a la autoridad su correo electrónico personal tratándose de personas físicas o institucional tratándose de personas morales, no aplicarán lo dispuesto en los párrafos anteriores, debiendo atender a lo establecido en el artículo 107 Bis de este Código y por la Ley de Medios Electrónicos del Estado de Puebla.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2817,7 +2961,9 @@ I. Los créditos a favor del Municipio provenientes de impuestos, derechos, prod
 
 II. Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que antes de que se notifique al deudor el crédito fiscal, se haya presentado la demanda respectiva ante la autoridad competente, y ésta, hubiere dictado el auto que la admita. En el caso de las garantías hipotecarias y prendarias, el requisito será que éstas se encuentren inscritas en el Registro Público de la Propiedad y del Comercio que corresponda, antes de la notificación del crédito fiscal; y
 
-III. La vigencia y exigibilidad en cantidad líquida del derecho del crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo correspondiente.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+III. La vigencia y exigibilidad en cantidad líquida del derecho del crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente.
 
 ###### Artículo 128.
 
@@ -3329,15 +3475,15 @@ Los predios rústicos que sean fraccionados para fines de lotificación, desde l
 
 TASA O TARIFA. El Impuesto Predial se causará anualmente y se pagará conforme a las tasas o tarifas que señale la Ley de Ingresos del Municipio, para el ejercicio fiscal de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 180.
 
 ÉPOCA Y LUGAR DE PAGO. El pago del Impuesto Predial, se realizará dentro de los dos primeros meses de cada año, en la Tesorería, oficinas autorizadas o a través de los medios de pago autorizados.
 
-Podrá pagarse el Impuesto Predial por anualidades anticipadas hasta para el último Ejercicio Fiscal de su Administración, en el caso en que así lo acuerde el Ayuntamiento, a fin de gozar de la reducción de un porcentaje determinado, sin que revista carácter obligatorio, sino una decisión potestativa de los contribuyentes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Podrá pagarse el Impuesto Predial por anualidades anticipadas hasta para el último Ejercicio Fiscal de su Administración, a fin de gozar de la reducción de un porcentaje determinado, sin que revista carácter obligatorio, sino una decisión potestativa de los contribuyentes.
 
 ###### Artículo 181.
 
@@ -3605,7 +3751,9 @@ Es también objeto de este impuesto la explotación comercial de juegos con apue
 
 I. Billar, dominó, dados, juegos de azar, ajedrez, damas y juegos electrónicos, excepto cuando se trate de torneos gratuitos, lo cual se notificará y comprobará previamente ante la Tesorería Municipal;
 
-II. Juegos mecánicos, electromecánicos o electrónicos, videojuegos, bingos, máquinas tragamonedas, ruletas electrónicas, juegos de azar, electrónicos y similares;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+II. Juegos Mecánicos, electromecánicos o electrónicos, video juegos, bingos, máquinas de números o símbolos, ruletas electrónicas, juegos de azar electrónicos y similares;
 
 III. Apuestas sobre peleas de gallos, carreras de caballos, de galgos, corridas de toros, novilladas, jaripeos y similares;
 
@@ -3965,11 +4113,17 @@ II.- Son sujetos del pago de estos derechos todas aquellas personas sujetas a la
 
 III.- Por el registro y autorización de personas físicas o jurídicas que realicen las labores de manejo de residuos consistentes en caracterización, acopio, almacenamiento, transporte, reutilización, reciclado y aprovechamiento de residuos.
 
-### CAPÍTULO V. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO V
+
+DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR EL SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE PUEBLA Y DE AGUA Y SANEAMIENTO QUE PRESTE EL MUNICIPIO DE PUEBLA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 239.
 
-Los derechos o conceptos de ingreso de cualquier naturaleza, que se establezcan por los servicios prestados por el Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio, se regularán de acuerdo a las disposiciones de la Ley de Agua y Saneamiento del Estado de Puebla, se pagarán conforme a las tasas, tarifas y cuotas que establezca la Ley de Ingresos del Municipio, o las que se determinen conforme a las autorizaciones que apruebe el Congreso.
+Los derechos o conceptos de ingreso de cualquier naturaleza, que se establezcan por los servicios prestados por el Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio y de agua y saneamiento que preste el Municipio de Puebla, se regularán de acuerdo a las disposiciones de la Ley del Agua del Estado de Puebla, se pagarán conforme a las tasas, tarifas y cuotas que establezca la Ley de Ingresos del Municipio, o las que se determinen conforme a las autorizaciones que apruebe el Congreso.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PÚBLICO
 
@@ -4027,9 +4181,15 @@ XII. Consulta del sistema de información geográfica.
 
 Son sujetos de este derecho, las personas físicas o morales que soliciten la expedición de los servicios a que se refiere el artículo anterior.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Cuando el solicitante dé copias certificadas a que se refiere el artículo 244 fracción I de este Código, se hubiere desempeñado como Presidente Municipal y/o titular de alguna Dependencia u Organismo de la Administración Pública Municipal, no quedará sujeto a la condición de pago a que se refiere el artículo 246 de este ordenamiento, siempre y cuando con su solicitud acredite que dichas copias serán utilizadas para cumplir algún requerimiento de la autoridad fiscalizadora.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 246.
 
-Los funcionarios facultados para prestar los servicios a que se refiere este Capítulo, verificarán que previamente se hayan cubierto los derechos correspondientes.
+Los funcionarios facultados para prestar los servicios a que se refiere este Capítulo, verificarán que previamente se hayan cubierto los derechos correspondientes, con excepción de los casos a los que se refiere el segundo párrafo del artículo anterior.
 
 ### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RASTRO Y LUGARES AUTORIZADOS
 
@@ -4083,15 +4243,19 @@ Es objeto de estos derechos, los servicios de inhumación y exhumación de cadá
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que brinden los panteones municipales, así como aquellas que sean poseedoras o administradoras de los panteones particulares autorizados por el Ayuntamiento.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ### CAPÍTULO X
 
-DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS Y/O RESIDUOS SÓLIDOS QUE PRESTE EL ORGANISMO OPERADOR DEL SERVICIO DE LIMPIA DEL MUNICIPIO
+DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRASLADO Y DISPOSICIÓN FINAL DE DESECHOS Y/O RESIDUOS SÓLIDOS QUE PRESTE EL ORGANISMO OPERADOR DEL SERVICIO DE LIMPIA DEL MUNICIPIO
 
 ###### Artículo 253.
 
 Son objeto de estos derechos:
 
-I. Los servicios de recolección, transporte y disposición final de los desechos y/o residuos sólidos; que preste el Municipio a casa habitación, condominios, departamentos, unidades habitacionales o sus similares, comercios, industrias, prestadores de servicios, empresas de diversiones y espectáculos públicos, hospitales y clínicas; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+I. Los servicios de recolección, traslado y disposición final de los desechos y/o residuos sólidos, que preste el Municipio a casa habitación, condominios, departamentos, unidades habitacionales o sus similares, comercios, industrias, prestadores de servicios, empresas de diversiones y espectáculos públicos, hospitales y clínicas; y
 
 II. El pago que hace el concesionario al Municipio derivado del otorgamiento del título de concesión correspondiente.
 
@@ -4117,15 +4281,25 @@ En el caso del otorgamiento de concesiones, el pago de la contraprestación gene
 
 El Organismo Operador de Servicios de Limpia del Municipio o el concesionario, podrán aceptar o rechazar el manejo de desechos o residuos potencialmente peligrosos, en tanto no se implementen las medidas necesarias para su manejo.
 
-Los derechos a que este Capítulo se refiere, se pagarán de conformidad con las cuotas, tasas o tarifas que anualmente señale la Ley de Ingresos del Municipio.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Los derechos a que este Capítulo se refiere, se causarán anualmente y se pagarán de conformidad con las cuotas tasas o tarifas que señale la Ley de Ingresos del Municipio en cada ejercicio fiscal.
 
 Los derechos que se cobren a los concesionarios, se determinarán de conformidad con lo establecido en el título de concesión respectivo.
 
 El pago de derechos a que este Capítulo se refiere, deberá efectuarse:
 
-I. Tratándose de inmuebles destinados para casa habitación, condominios, departamentos, unidades habitacionales o sus similares durante los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada ejercicio fiscal, pudiéndose optar por efectuar el pago de manera anual, durante los primeros dos meses del ejercicio fiscal; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-II. Tratándose de establecimientos comerciales, industriales, prestadores de servicios, empresas de diversiones y espectáculos públicos, hospitales y clínicas, el pago deberá de realizarse dentro de los primeros quince días del mes siguiente a aquél en que se prestó el servicio.
+I.- Tratándose de inmuebles destinados para casa habitación, condominios, departamentos, unidades habitacionales o sus similares, durante los meses de enero y febrero se realizará el pago anual.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+II.- Tratándose de los establecimientos comerciales industriales, prestadores de servicio, empresas de diversiones y espectáculos públicos, hospitales y clínicas, el pago deberá realizarse dentro de los primeros quince días del mes siguiente a aquél en que se prestó el servicio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+Los derechos por servicios de recolección, traslado y disposición final de desechos y/o residuos sólidos podrán pagarse por anualidades anticipadas hasta para el último ejercicio fiscal de su administración, a fin de gozar de la reducción de un porcentaje determinado, sin que revista un carácter obligatorio sino una decisión potestativa de los contribuyentes.
 
 ###### Artículo 257.
 
@@ -4321,7 +4495,9 @@ V. Los vendedores ambulantes, con base en la clasificación que del Municipio ha
 
 VI. Por ocupación de espacios en áreas municipales o privadas de acceso al público, con carácter temporal exceptuando áreas verdes, se pagará diariamente considerando los metros cuadrados de ocupación;
 
-VII. Por la ocupación de espacios en áreas permitidas de la vía pública, para estacionamiento exclusivo, se pagará mensualmente por cajón;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+VII. Por la ocupación de espacios en áreas permitidas de la vía pública, para el ascenso y descenso de personas, se pagará por m2;
 
 VIII. Por uso u ocupación del subsuelo con construcciones permanentes, se pagará anualmente, por metro cuadrado o fracción;
 
@@ -6764,3 +6940,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para la aplicación del Título Quinto Capítulo I de este Código, en lo que se refiere a las notificaciones electrónicas, surtirá sus efectos una vez que las autoridades fiscales que integran el H. Ayuntamiento del Municipio de Puebla, cuenten con la firma electrónica avanzada autorizada por la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla.
