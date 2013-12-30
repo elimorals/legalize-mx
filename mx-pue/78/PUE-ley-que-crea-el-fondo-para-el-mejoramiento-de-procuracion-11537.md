@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-fondo-para-el-mejoramiento-de-procuracion-11537
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-04"
-last_updated: "2012-07-25"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL FONDO PARA EL MEJORAMIENTO DE LA PROCURACIÓN DE JUSTICIA EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -75,9 +75,11 @@ El Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Pue
 
 Compete al Consejo Técnico las funciones de administración, organización y supervisión del Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 4º.
 
-El Consejo Técnico del Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla, estará integrado por el titular de la Procuraduría General de Justicia del Estado, quien lo presidirá; el Director Administrativo de la Procuraduría, tendrá el carácter de Secretario; el Secretario de Finanzas, tendrá el cargo de Tesorero; el Primer Subprocurador de Justicia, fungirá como vocal, y un comisario público designado por la Secretaría de la Contraloría General del Estado. Las funciones que realicen los integrantes del fondo serán honoríficas, por lo que no recibirán emolumento alguno por su función.
+El Consejo Técnico del Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla, estará integrado por el Titular de la Procuraduría General de Justicia del Estado quien lo presidirá, el Director General Administrativo de la Procuraduría, el Secretario de Finanzas y Administración; el Fiscal General que designe el Titular de la Procuraduría y un comisario público designado por la Secretaría de la Contraloría del Estado. Las funciones que realicen los integrantes del Fondo serán honoríficas, por lo que no recibirán emolumento alguno por su función.
 
 Cada integrante podrá nombrar un suplente, que contará con las mismas atribuciones que esta ley le confiere a los titulares del Fondo.
 
@@ -91,21 +93,25 @@ I.- Fondos propios:
 
 a).- El importe de las cauciones que se hagan efectivas por el Ministerio Público, en términos de lo dispuesto por el artículo 353 fracción II, del Código de Procedimientos en Materia de Defensa Social;
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-b).- El producto de la venta de los bienes asegurados a los indiciados, que hayan causado abandono en términos de lo dispuesto por el artículo 53 Bis del Código de Defensa Social para el Estado Libre y Soberano de Puebla;
+b) El producto de la venta de los bienes asegurados a los indiciados, que hayan causado abandono en términos de lo dispuesto por el Código Penal del Estado Libre y Soberano de Puebla;
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
 
 c).- Los intereses que generen los depósitos que ante el Ministerio Público realicen los indiciados;
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-d).- Las donaciones y aportaciones a favor del Fondo; y
+d) Las donaciones y aportaciones a favor del Fondo;
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-e).- El producto de la enajenación de los bienes de los que se haya declarado extinción de dominio, en términos de la Ley de la materia.
+e) El producto de la enajenación de los bienes de los que se haya declarado extinción de dominio, en términos de la Ley de la materia; y
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
+f) El importe de las cauciones no reclamadas dentro de los quince días hábiles siguientes al de la determinación de no ejercicio de la acción penal.
 
 II.- Fondos ajenos:
 
@@ -119,9 +125,11 @@ b).- El producto de la venta de los bienes asegurados a los indiciados que no se
 
 c).- Los depósitos y recursos de los que la Procuraduría General de Justicia del Estado tenga la custodia y aprovechamiento pero no la propiedad.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 6º.
 
-Los Agentes del Ministerio Público informarán al Secretario del Consejo Técnico del Fondo, de los casos en que se revoque la libertad bajo caución a los indiciados y por tanto, se haga efectiva la caución.
+Los Agentes del Ministerio Público informarán al Secretario del Consejo Técnico del Fondo, de los casos en que se revoque la libertad bajo caución a los indiciados y por tanto, se haga efectiva la caución, así como de las cauciones que no fueron reclamadas dentro de los quince días hábiles siguientes al de la determinación de no ejercicio de la acción penal.
 
 ###### ARTICULO 7º.
 
@@ -208,3 +216,11 @@ P.O. 25 DE JULIO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las cauciones de las indagatorias de las que a la entrada en vigor del presente Decreto, exista determinación firme del no ejercicio de la acción penal y no sean reclamadas dentro de los quince días hábiles siguientes al de su publicación, se aplicarán al Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
