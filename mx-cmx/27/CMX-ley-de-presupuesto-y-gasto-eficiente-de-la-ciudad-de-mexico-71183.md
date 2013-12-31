@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2013-07-30"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -308,6 +308,10 @@ Los servidores públicos de las Unidades Responsables del Gasto están obligados
 
 La Secretaría y la Contraloría en el ámbito de su competencia deberán establecer programas, políticas y directrices para promover la eficiencia y eficacia en la gestión pública, tomando en consideración un enfoque en materia de equidad de género y derechos humanos, a través de acciones que modernicen y mejoren la prestación de los servicios públicos, promuevan la productividad en el desempeño de las funciones de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades y reduzcan gastos de operación.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
+
+La Contraloría, la Oficialía y la Secretaria en el ámbito de su competencia implementaran acciones de austeridad en el gasto de operación de los capítulos 1000, 2000 y 3000 del Clasificador, con el fin de obtener economías en dichos capítulos, las cuales se asignarán preferentemente a mejorar el balance fiscal y la inversión pública.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 10.
@@ -413,6 +417,10 @@ Por contra partida, para mantener el balance fiscal y equilibrio presupuestal en
 Toda iniciativa de ley, decreto, o proyecto de reglamento y acuerdo que presente el Jefe de Gobierno deberá contar con una evaluación del impacto presupuestario realizada por la Secretaría, cuando éstas impliquen afectaciones a la Hacienda Pública.
 
 En el caso de que dichas iniciativas impliquen erogaciones adicionales y con el propósito de guardar el equilibrio presupuestal, se deberá señalar su fuente de financiamiento ya sea mediante la cancelación o suspensión de programas; la creación de nuevas contribuciones o bien, por eficiencia recaudatoria.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
+
+La Asamblea, a través de la Comisión correspondiente, al elaborar los dictámenes respectivos, podrá realizar una valoración del impacto presupuestario de la iniciativa de Ley o Decreto, con el apoyo de la Unidad de Estudios y Finanzas Públicas y podrá solicitar opinión a la Secretaría sobre el proyecto de dictamen correspondiente.
 
 ###### ARTÍCULO 19.
 
@@ -638,7 +646,9 @@ II. Los ingresos provenientes de la coordinación fiscal;
 
 III. La estimación de aquellos ingresos considerados como virtuales;
 
-IV. Los Ingresos Propios previstos por las Entidades, así como los ingresos de aplicación automática;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV. Los Ingresos Propios previstos por las Entidades;
 
 V. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2012)
 
@@ -924,6 +934,10 @@ Los servidores públicos de las Unidades Responsables del Gasto que hayan autori
 
 La Secretaría efectuará los pagos autorizados por las Unidades Responsables del Gasto con cargo a sus presupuestos aprobados y los que por otros conceptos deban realizarse directamente o por conducto de los auxiliares a que se refiere el Código, en función de sus disponibilidades presupuestales y financieras con que cuente la Secretaría, con base en lo previsto en esta Ley y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 66 BIS.- En caso de incumplimiento por parte del Distrito Federal a sus obligaciones de pago de derechos y aprovechamientos por conceptos de agua y descarga de aguas residuales, la Comisión Nacional del Agua podrá solicitar a la Secretaría, previa acreditación del incumplimiento y siempre que el adeudo tenga una antigüedad mayor de 90 días naturales, la retención y pago con cargo a las aportaciones del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal.
+
 ###### ARTÍCULO 67.
 
 Con el objeto de obtener las mejores condiciones en cuanto a precio, calidad, oportunidad en la adquisición de bienes o contratación de servicios y generar ahorros, las unidades administrativas consolidadoras podrán establecer compromisos a determinadas partidas de gasto con cargo a los presupuestos aprobados de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades conforme a sus requerimientos y que los cargos se realicen de manera centralizada o consolidada a través de la unidad administrativa o Entidad que haya formalizado los compromisos.
@@ -980,9 +994,9 @@ No es aplicable lo dispuesto en este artículo, tratándose de recursos presupue
 
 Las unidades responsables del gasto que por cualquier motivo al término del ejercicio fiscal que corresponda conserve fondos presupuestales o recursos que no hayan sido devengados y, en su caso, los rendimientos obtenidos, los enterarán a la Secretaría dentro de los 15 días naturales siguientes al cierre del ejercicio. Las Unidades responsables del gasto que hayan recibido recursos federales, así como sus rendimientos financieros y que al día 31 de diciembre no hayan sido devengados, en el caso en que proceda su devolución, los enterarán a la Secretaría dentro de los 10 días naturales siguientes al cierre del ejercicio, salvo que las disposiciones federales establezcan otra fecha.
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
-De los remanentes a los que se refieren los párrafos anteriores, se destinará una cantidad equivalente al 20% del total para el Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias para el Distrito Federal.
+De los remanentes a los que se refieren los párrafos anteriores, se destinará una cantidad equivalente al 20% del total para el Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias para el Distrito Federal y/o a la Reforma del Sistema de Justicia Penal del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -1011,6 +1025,10 @@ Queda prohibido realizar erogaciones, así como constituir o participar en fidei
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 De los movimientos que se efectúen en los términos de este artículo, el Jefe de Gobierno informará a la Asamblea en cada Informe Trimestral y al rendir la Cuenta Pública.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Los recursos Remanentes a que se refiere este artículo no podrán destinarse a la creación de nuevas Unidades Responsables del Gasto, salvo en aquellos casos previstos en las disposiciones legales aplicables.
 
 ###### ARTÍCULO 72.
 
@@ -1940,6 +1958,16 @@ Para iniciar el Procedimiento de Responsabilidad Resarcitoria, se estará a lo d
 
 Cualquier persona que tenga conocimiento de la violación a las disposiciones de esta Ley y su Reglamento, deberá dar aviso a los titulares de las Unidades Responsables del Gasto e informarán a la autoridad competente cuando las infracciones a esta Ley impliquen la comisión de una conducta sancionada en los términos de este título.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 31 DE DICIEMBRE DE 2013)</small>
+
+# LIBRO CUARTO. DE LA INFORMACIÓN Y TRANSPARENCIA
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 150.
+
+La Secretaría de Finanzas a través de una página pondrá a disposición del público, documentos dirigidos a la Ciudadanía en el que se explique, de manera sencilla y en formatos accesibles, la Ley de Ingresos y el decreto de egresos aprobados al Gobierno del Distrito Federal.
+
 ## TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor a partir del 1° de enero del 2010.
@@ -2027,3 +2055,11 @@ G.O. 30 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1° de enero de 2014.
+
+SEGUNDO.- En caso de que sean retenidos los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal, en términos de lo dispuesto por el artículo 66 BIS, la Secretaría compensará a las Demarcaciones Territoriales el ingreso que dejarían de percibir por dicho concepto.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
