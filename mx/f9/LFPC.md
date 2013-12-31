@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2013-11-05"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "LFPC"
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2013.
+
+ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -412,13 +414,13 @@ La Procuraduría, para el desempeño de las funciones que le atribuye la ley, po
 
 I. Apercibimiento;
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2012)
+(ACTUALIZADA EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2013)
 
-II. Multa de $$214.40 a $21,440.56.
+II. Multa de $$222.16 a $22,216.42.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2012)
+(ACTUALIZADA EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2013)
 
-III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $8,576.23., y
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $8,886.57., y
 
 IV. El auxilio de la fuerza pública.
 
@@ -1470,9 +1472,9 @@ f) Que la representación y gestión se realiza de manera gratuita, y
 
 g) Que no participan de manera institucional en actividades de proselitismo político o electoral.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2012)
+(ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2013)
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $428,811.21.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $444,328.57.
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1724,9 +1726,9 @@ En caso de no aceptarse el arbitraje se dejarán a salvo los derechos de ambas p
 
 La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2012)
+(ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2013)
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $428,811.21.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $444,328.57.
 
 ###### ARTICULO 118.
 
@@ -1786,27 +1788,27 @@ ARTICULO 124 BIS.- Para la sustanciación del procedimiento por infracciones a l
 
 Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuraduría.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2012)
+(ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $$214.40 a $686,097.95.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $222.16 a $710,925.72.
 
-(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2012)
+(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $ $428.81 a $1,372,195.89.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $444.33 a $1´421,851.43.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2013)</small>
+(REFORMADO, D.O.F. 16 DE ENERO DE 2013) (ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis y 121 serán sancionadas con multa de $617.41 a $2'414,759.14.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis y 121 serán sancionadas con multa de $638.28 a $2'496,402.43.
 
-(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2012)
+(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2013)
 
-ARTICULO 128 BIS. En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $128,643.37 a $3,602,014.24.
+ARTICULO 128 BIS. En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $133,298.57 a $3´732,360.02.
 
 Las violaciones a lo establecido en el artículo 32 que se consideren particularmente graves conforme a lo establecido en el artículo 128 Ter de esta ley, serán sancionadas con la multa establecida en el párrafo anterior o bien con multa de hasta un 10% de los ingresos brutos anuales del infractor obtenidos por la comercialización del bien o los bienes, productos o servicios contenidos en la publicidad respectiva, correspondiente al último ejercicio fiscal en que se haya cometido la infracción, en caso de reincidencia.
 
@@ -1900,9 +1902,9 @@ Asimismo, la Procuraduría deberá considerar los hechos generales de la infracc
 
 En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2012)
+(ACTUALIZADO EN SU MONTO, D.O.F. 31 DE DICIEMBRE DE 2013)
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $7,204,028.46.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $7´464,720.04.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -2267,3 +2269,7 @@ Tercero. La Procuraduría Federal del Consumidor deberá ejecutar un programa de
 D.O.F. 5 DE NOVIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2014.
