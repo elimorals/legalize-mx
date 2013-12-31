@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2012-12-22"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -155,7 +153,7 @@ Para efectos de este impuesto se entenderá como diversión y espectáculo públ
 
 ###### ARTÍCULO 11.
 
-Son sujetos de este impuesto las personas físicas, morales o unidades económicas, que habitual o eventualmente, obtengan un ingreso por la realización y/u organización de cualquier diversión o espectáculo público en el territorio del Estado.
+Son sujetos de este impuesto las personas físicas, morales o unidades económica, que habitual o eventualmente, obtengan un ingreso por la realización y/u organización de cualquier diversión o espectáculo público en el territorio del Estado.
 
 ###### ARTÍCULO 12.
 
@@ -211,7 +209,23 @@ I. Las diversiones o espectáculos públicos organizados directamente por la Fed
 
 II. Las diversiones y espectáculos públicos cuyos cobros de derechos de entrada o participación estén gravados por el impuesto al valor agregado.
 
-Se entiende por organización directa cuando el pago por las diversiones o espectáculos públicos ingresen al erario Federal, Estatal o Municipal, según al caso y consten en recibos oficiales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+III. Las representaciones culturales que se realicen por artistas o grupos independientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Para efectos del presente artículo se entenderá por:
+
+a) Organización Directa: Cuando el pago por las diversiones o espectáculos públicos ingresen al erario Federal, Estatal o Municipal, según el caso y consten en recibos oficiales.
+
+b) Artista Independiente: Al creador o intérprete que no depende de institución o empresa alguna, comercializando por sí mismo sus productos culturales y que de manera autónoma financia sus actividades.
+
+c) Grupo independiente a dos o más individuos interactuantes e interdependientes, que se reúnen para crear o interpretar por si mismos sus productos culturales y que financian con recursos propios la realización de sus actividades.
 
 La Federación, Ayuntamientos, Poderes Legislativo y Judicial, Órganos Autónomos, dependencias, organismos descentralizados e instituciones de beneficencia pública; deberán dar aviso a la Secretaría de las diversiones o espectáculos públicos que organicen directamente quince días antes de la realización del evento.
 
@@ -551,7 +565,11 @@ b) El resultado obtenido, se actualizará de conformidad con lo previsto en el C
 
 c) La cantidad actualizada se multiplicará por el 0.50 por ciento.
 
-II. Automóviles de servicio privado que se destinen al servicio público de pasajeros, el impuesto se calculará, para el ejercicio fiscal inmediato siguiente conforme el procedimiento siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+II. Vehículos que se destinen al servicio de pasajeros, el impuesto se calculará, conforme el procedimiento siguiente:
 
 a) El valor total del Automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
 
@@ -1232,3 +1250,9 @@ Tlalixtac de Cabrera, Centro, Oax., a 13 de Diciembre.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C. P. A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+ÚNICO: El presente Decreto entrará en vigor el primero de enero de dos mil catorce, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
