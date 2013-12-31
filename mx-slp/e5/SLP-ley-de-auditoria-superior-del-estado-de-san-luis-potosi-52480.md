@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2013-10-26"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -450,6 +450,16 @@ XII. Promover ante las autoridades competentes el fincamiento de otras responsab
 XIII. Formular el proyecto de informe del resultado de la revisión de la cuenta pública, así como de los demás documentos que se le indique, y
 
 XIV. Las demás que señale la Ley, el Reglamento Interior y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 17 BIS. Para una completa revisión y auditoría de la obra pública y los servicios relacionados con la misma, la Auditoría Especial de Fiscalización de Obra Pública contará con la sección de Ingeniería de Costos, a la que corresponderá:
+
+I. Integrar la base de datos que contenga información sobre especificaciones técnicas y de calidad, catálogos de conceptos, costos y, en su caso, precios unitarios, que deben reunir los proyectos de las obras públicas y servicios relacionados con las mismas que se realicen con recursos públicos;
+
+II. Verificar en cualquier tiempo, el cumplimiento de las disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado y Municipios de San Luis Potosí, en materia de los procedimientos y contratos a que se refiere el Título Tercero de dicha Ley, pudiendo asistir su personal a cualquiera de las etapas de los procedimientos con el carácter de observador, y
+
+III. Las demás que señale la Ley, el Reglamento Interior, así como las demás disposiciones legales y administrativas aplicables.
 
 ###### ARTICULO 18.
 
@@ -1344,5 +1354,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE OCTUBRE DE 2013
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
