@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-padron-vehicular-del-estado-de-aguascalientes-37
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-01"
-last_updated: "2010-05-17"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO DEL PADRON VEHICULAR DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DEL PADRON VEHICULAR DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO DEL PADRÓN VEHICULAR DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de marzo de 2004.
 
@@ -63,17 +63,27 @@ VIII. Vehículos: Los automóviles, ómnibuses, camiones y tractores no agrícol
 
 IX. Reglamento: El Reglamento del Padrón Vehicular del Estado de Aguascalientes.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+X. Constancia de Registro: Al documento mediante el cual se da fe de la inscripción en el Padrón Vehicular del Estado, denominado Constancia de Registro Vehicular.
+
 ###### ARTICULO 2o.
 
 La Secretaría llevara el registro de los vehículos en el Padrón, basándose en los datos que proporcionen, de conformidad con este Reglamento, los interesados y en los que la propia Secretaría obtenga por cualquier otro medio debiendo informar en este último caso tal situación al interesado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 3o.
 
-Al efectuar los trámites a que se refiere el Artículo 36 de la Ley de Hacienda, el interesado, presentará ante la Secretaría su identificación y la solicitud o aviso correspondiente firmado autógrafamente, salvo en los casos en que el solicitante no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
+Al efectuar los trámites a que se refiere el Artículo 36 de la Ley de Hacienda del Estado, excepto en los casos de cambio de domicilio y baja, el interesado, presentará ante la Secretaría su identificación, la Constancia de Registro y la solicitud o Formato de Control Vehicular correspondiente firmado autógrafamente, salvo en los casos en los que el solicitante no sepa o no pueda firmar, caso en el que estampará su huella digital.
+
+El refrendo del registro a que se refieren los artículos 35 fracción II, 36 séptimo párrafo y 36 F, fracción VI, de la Ley de Hacienda del Estado, consiste en la obligación que tienen los usuarios o tenedores de vehículos inscritos en el Padrón Vehicular del Estado, de acudir ante la Secretaría o lugares autorizados por ésta, en el plazo para ello establecido con el fin de manifestar que el vehículo porta placas de circulación vigentes del Estado, situación actual del vehículo tanto legal como física.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 4o.
 
-Para la comprobación a que se refiere el Artículo 36, tercer párrafo de la Ley de Hacienda, en relación a no tener adeudos por concepto de contribuciones federales y estatales derivadas de la tenencia o uso del vehículo, el interesado presentará la documentación que al efecto señale este Reglamento.
+Para la comprobación a que se refiere el Artículo 36, cuarto párrafo de la Ley de Hacienda, en relación a no tener adeudos por concepto de contribuciones federales y estatales derivadas de la tenencia o uso del vehículo, el interesado presentará la documentación que al efecto señale este Reglamento.
 
 ###### ARTICULO 5o.
 
@@ -103,29 +113,47 @@ VI. Marca, modelo, año modelo, número de cilindros, origen o procedencia, núm
 
 Tratándose de vehículos en arrendamiento financiero, la solicitud de inscripción podrá presentarla el arrendatario, indicando además de los datos anteriores, los relativos al nombre, razón o denominación social, Registro Federal de Contribuyentes y domicilio del arrendador.
 
-###### ARTICULO 8o.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-La inscripción al Padrón procederá una vez recibida la solicitud, y siempre y cuando el interesado cumpla con los requisitos siguientes:
+###### ARTICULO 8º.
+
+La inscripción al Padrón procederá una vez recibida la solicitud, siempre y cuando el interesado cumpla con los requisitos siguientes ante la Secretaría:
 
 I. Acreditar en los términos de las disposiciones aplicables del presente Reglamento, la propiedad del vehículo y la residencia o domicilio en el Estado.
 
 II. Comprobar no tener adeudos de contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo.
 
-III. Acreditar la legal estancia en el país de los vehículos de procedencia extranjera, en los términos de la Ley Aduanera y de los Decretos aplicables.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-IV. Entregar las placas o la constancia de baja del Padrón Vehicular respectiva, en el caso de vehículos inscritos en el Padrón de otro Estado.
+III. Acreditar la legal y definitiva estancia en el país de los vehículos de procedencia extranjera, en los términos de la Ley Aduanera y de los Decretos aplicables;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-V. Tratándose de vehículos inscritos en el padrón de otras Entidades Federativas, o que sin estarlo se acredite la propiedad con documentos expedidos en otro Estado, deberán solicitar la constancia de verificación de documentos que amparan la propiedad vehicular, así como la revisión física del vehículo, ante la Procuraduría General de Justicia del Estado, quien emitirá la constancia respectiva.
+IV. Entregar las placas o la constancia de baja del Padrón vehicular respectiva;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+V. Tratándose de vehículos inscritos en el Padrón de otras Entidades Federativas, o que sin estarlo se acredite la propiedad con documentos expedidos en otro Estado y aquellos que presenten aviso de baja de placas del servicio de transporte público federal otorgado por La Secretaría de Comunicaciones y Transportes, deberán solicitar la constancia de verificación de documentos que amparan la propiedad vehicular, así como la revisión física del vehículo pagando los derechos contemplados en la Ley de Ingresos del Estado del ejercicio fiscal que transcurra, a efecto de se expida la constancia respectiva; excepto aquellos vehículos que hayan sido refacturados por empresas no domiciliadas en el Estado, siempre y cuando quién expide dicha documentación sea el último propietario registrado en el Padrón Vehicular del Estado de Aguascalientes en el ejercicio fiscal en que se realice el trámite;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
 
 VI. Tratándose de vehículos modelo 1995 y posteriores, se deberá presentar el documento en el que conste el valor por el cual se enajenó por primera vez el vehículo al consumidor, por el fabricante, ensamblador, distribuidor o comerciante en el ramo automotriz: Cuando el vehículo previamente haya estado inscrito en el Padrón Vehicular del Estado o cuando se acredite la propiedad con Factura Judicial Resolución Judicial o Administrativa, y/o factura o Acta de Adjudicación de Remate emitida por Autoridad Federal, Estatal o Municipal, la Secretaría podrá tomar como base la información obtenida en el ejercicio de sus facultades y/o estimar el valor comercial del vehículo al momento de la primera enajenación, con base en los valores que emita la Guía Autométrica vigente.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII. Para tramitar placas particulares de las siguientes clases, adicionalmente deberán de presentar:
+
+a) Para placas de discapacidad la Credencial para Personas con Discapacidad motriz o visual, expedida por el Sistema de Desarrollo Integral de la Familia del Estado de Aguascalientes a favor del propietario del vehículo, o persona a ser transportada, presentando los documentos que acrediten las situaciones a satisfacción de la Secretaría, solo podrá ser otorgado un juego de placas de este tipo por persona que acredite tal condición, excepto cuando por la actividad que realiza el interesado justifique ante la Secretaría que requiere dos o más juegos.
+
+En caso de que la persona discapacitada llegara a fallecer, o si por algún motivo dejaran de ser útiles las placas de discapacidad, éstas deberán darse de baja en un plazo no mayor de 15 días hábiles, contados a partir de la fecha en que dejen de ser útiles para el fin del cual fueron otorgadas.
+
+b) Para placas de Auto Antiguo, la certificación de sus condiciones físico mecánicas expedida por una asociación previamente acreditada por la Secretaría.
+
 Para los efectos del último párrafo del Artículo 7° de este Reglamento, se deberá anexar a la solicitud el contrato respectivo.
 
-Además de los requisitos anteriores, los vehículos de procedencia extranjera distintos de los importados por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos, que acrediten la legal estancia en el país, deberán ser presentados ante la Secretaría, para proceder a la toma de calcas respectivas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Además de los requisitos anteriores, los vehículos de procedencia extranjera distintos de los importados por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos, que acrediten la legal estancia en el país, así como en los casos que el propietario solicite placas de Auto Antiguo, y los que al solicitar cambio de propietario o baja por venta entreguen Acta Informativa levantada ante la Procuraduría General de Justicia del Estado de Aguascalientes, por el extravío de una o ambas placas de circulación, deberán ser presentados ante la Secretaría para proceder a la toma de calcas respectivas.
 
 ###### ARTICULO 9o.
 
@@ -135,7 +163,17 @@ I. Presentar el documento en el que conste el otorgamiento de la concesión al i
 
 II. Comprobar que se encuentra al corriente en el pago de los derechos relativos a la concesión de que se trate.
 
-III. Presentar el oficio de autorización de uso del vehículo en el servicio público expedido por la autoridad competente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+III. Presentar dentro de los 15 días hábiles siguientes a su expedición el oficio de autorización de uso del vehículo en el servicio público y la ficha de revisión física correspondiente expedidos por las autoridades competentes,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV. Constancia de Inscripción en el Registro Federal de Contribuyentes; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+V. Estar al corriente en el cumplimiento de sus obligaciones fiscales.
 
 ###### ARTICULO 10.
 
@@ -177,17 +215,17 @@ Las personas obligadas a presentar el aviso de cambio de propietario, para reali
 
 I. Presentar el aviso en la forma aprobada por la Secretaría.
 
-II. Acreditar en los términos de las disposiciones aplicables del presente Reglamento, la transmisión de la propiedad del vehículo y la residencia o domicilio en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+II. Acreditar en los términos de las disposiciones aplicables del presente Reglamento, la transmisión de la propiedad del vehículo, la legal y definitiva estancia del vehículo en el país y la residencia o domicilio en el Estado de Aguascalientes;
 
 III. Comprobar el no tener adeudos por contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo.
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-IV. Presentar factura de la primera enajenación al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo automotriz, excepto cuando se acredite la propiedad del vehículo de que se trate con Factura Judicial, Resolución Judicial o Administrativa, y/o Factura de Acta de Adjudicación de Remate emitida por Autoridad Federal, Estatal o Municipal.
+IV. Presentar la Constancia de Registro Vehicular endosada en su caso, y copia de la factura de primera enajenación, excepto cuando se acredite la propiedad del vehículo de que se trate con Factura Judicial, Resolución Judicial o Administrativa, y/o Factura o Acta de Adjudicación de Remate emitida por Autoridad Federal, Estatal o Municipal, y en los casos en que la Secretaria tome como base la información obtenida en el ejercicio de sus facultades;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2007)</small>
-
-V. Realizar el canje de Placas de circulación correspondiente.
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 14.
 
@@ -207,9 +245,11 @@ II. Acreditar en los términos de las disposiciones aplicables del presente Regl
 
 III. Comprobar el no tener adeudos de contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 17.
 
-Se presentará el aviso de rectificación a que se refiere la fracción IV del Artículo 11 de este Reglamento, cuando el número del motor ya no corresponda al vehículo registrado, para lo cual se presentará el vehículo para su inspección física y la factura del motor.
+Se presentará el aviso de rectificación a que se refiere la fracción IV del Artículo 11 de este Reglamento, cuando el número del motor ya no corresponda al vehículo registrado, para lo cual se presentará el vehículo para su inspección física y la documentación con la que acredite la propiedad y legal estancia en su caso del citado motor.
 
 ###### ARTICULO 18.
 
@@ -222,6 +262,20 @@ El aviso de baja por robo o destrucción de vehículo a que se refiere la fracci
 I. Tratándose de robo del vehículo, se comprobará dicha situación con la documentación que al efecto emita la autoridad competente, en la que conste la denuncia del hecho en términos de la legislación penal aplicable.
 
 II. En caso de destrucción total del vehículo, se comprobará dicho acontecimiento mediante la documentación que al efecto emita la autoridad competente o en su caso, por la compañía aseguradora. Se entiende que existe destrucción total, cuando independientemente de la naturaleza que la haya originado, haga imposible el uso del vehículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 19 A.- El aviso de canje a que se refiere la fracción VIII del Artículo 11 de este Reglamento se presentará a solicitud del interesado, por el extravío de una o ambas placas y cuando las autoridades así lo determinen, se deberá cumplir con los siguientes requisitos:
+
+I. Presentar el aviso en la forma aprobada por la Secretaría;
+
+II. Acreditar en los términos de las disposiciones aplicables del presente Reglamento, la propiedad y legal estancia del vehículo y la residencia o domicilio en el Estado;
+
+III. Comprobar el no tener adeudos por contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo;
+
+IV. Presentar la Constancia de Registro Vehicular o Acta Informativa levantada ante la Procuraduría General de Justicia del Estado de Aguascalientes por su robo o extravío, excepto en los casos en que la Secretaria tome como base la información obtenida en el ejercicio de sus facultades;
+
+V. Entregar las placas o Acta Informativa por su robo o extravío.
 
 ## TITULO IV. DE LOS TRAMITES
 
@@ -247,11 +301,15 @@ Los documentos a que se refiere este artículo deberán estar vigentes al moment
 
 Tratándose de los tramites de personas morales, el interesado presentará además, la cédula de identificación fiscal o constancia de registro fiscal de su representada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 22.
 
-Tratándose del acreditamiento de la propiedad del vehículo de que se trate, el interesado podrá hacerlo mediante la presentación de cualquiera de los siguientes documentos:
+Tratándose del acreditamiento del uso o goce del vehículo de que se trate ante la Secretaría, el interesado podrá hacerlo mediante la presentación de cualquiera de los siguientes documentos en original:
 
-I. En el que conste que se ha adquirido el derecho de propiedad.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+I. Reproducción impresa del Comprobante Fiscal Digital, y en su caso Constancia de Registro Vehicular o contrato de transmisión de propiedad ante dos testigos, anexándose copias de las identificaciones correspondientes.
 
 II. Factura.
 
@@ -277,7 +335,9 @@ La fecha de pago consignada en los documentos señalados en las fracciones I a I
 
 Cuando no sea posible presentar cualquiera de los comprobantes señalados anteriormente, el interesado podrá presentar el contrato mediante el cual se le conceda el uso o goce del inmueble correspondiente a su domicilio, anexando además el último recibo de pago con requisitos fiscales. En caso de que no se cuente con dicho recibo, se podrá presentar en su defecto, la identificación y el documento donde conste el pago del impuesto predial correspondiente al último periodo causado relativos al propietario del inmueble.
 
-Se entenderá que el interesado cumple con lo dispuesto en este artículo, cuando el domicilio manifestado en cualquiera de los comprobantes señalados en las fracciones I a la IV de este artículo coincida con el consignado en la credencial expedida por el Instituto Federal Electoral.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Se entenderá que el interesado cumple con lo dispuesto en este articulo, cuando el domicilio manifestado en cualquiera de los comprobantes señalados en las fracciones I a la IV de este artículo coincida con el consignado en la credencial expedida por el Instituto Federal Electoral o cuando personal de la Secretaría realice una visita para la verificación de datos en ese domicilio.
 
 ###### ARTICULO 24.
 
@@ -285,11 +345,11 @@ Tratándose de vehículos por los cuales el interesado solicite su inscripción 
 
 Cuando la documentación comprobatoria proceda de otra Entidad Federativa, a efecto de comprobar su veracidad, la Secretaría solicitará a la autoridad recaudatoria correspondiente la autentificación de la misma, por lo que en tanto no se ratifique su validez no se atenderá el trámite solicitado, excepto en los casos en que el interesado, acepte expresamente responder solidariamente del impuesto federal que no se hubiere cubierto en cuyo caso la Secretaría autorizará el trámite correspondiente.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 25.
+###### ARTÍCULO 25.
 
-En los trámites de inscripción, canje y baja de un vehículo en el Padrón, cuando no sea posible regresar una o ambas placas, el interesado deberá entregar, en su caso, la placa con la que cuente y anexar acta informativa en donde conste la manifestación del extravío de la o las placas levantada ante la Procuraduría General de Justicia el Estado.
+En los trámites de inscripción, cambio de propietario o de servicio, canje y baja de un vehículo en el Padrón, cuando no sea posible regresar una o ambas placas de circulación, el interesado deberá de entregar, en su caso, la placa con la que cuente y, anexar acta informativa en donde conste la manifestación del extravío de la o de las placas, levantada ante la Procuraduría General de Justicia del Estado de Aguascalientes y presentar el vehículo para su verificación física en la Secretaría, salvo en los casos de robo o destrucción, baja administrativa y cuando así lo considere la propia Secretaría.
 
 ###### ARTICULO 26.
 
@@ -297,15 +357,19 @@ La solicitud de inscripción o avisos al Padrón a que se refiere el presente Re
 
 En cualquier momento, la Secretaría podrá ejercer sus facultades de comprobación en términos de las disposiciones legales con relación a los datos manifestados en la solicitud o avisos a que se refiere este Reglamento, así como a la autenticidad de la documentación proporcionada por el interesado.
 
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-La inscripción o recepción de avisos al padrón, a que se refieren las fracciones I a IV del Artículo 11 de este Reglamento, procederán una vez que la Secretaría verifique que el vehículo no cuente con reporte de robo vigente en la base de datos del Registro Público Vehicular o de cualquier otra autoridad competente.
+La inscripción y recepción de avisos al padrón a que se refieren las fracciones I a IV y VIII del artículo 11 de este Reglamento, procederán una vez que la Secretaría verifique que el vehículo no cuente con reporte de robo vigente en la base de datos del Registro Público Vehicular o de cualquier otra autoridad competente.
 
-## TITULO V. DEL PAGO PROPORCIONAL Y ACREDITAMIENTO DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS AUTOMOTORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+## TITULO V. DEL PAGO PROPORCIONAL Y ACREDITAMIENTO DEL IMPUESTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 27.
 
-Para efectuar el pago del Impuesto Sobre Tenencia o Uso de Vehículos Automotores en proporción al número de meses a que se refiere el Artículo 33 segundo párrafo de la Ley de Hacienda, el interesado deberá solicitarlo por escrito a la Secretaría y presentar los siguientes documentos según sea el caso:
+Para efectuar el pago del Impuesto Sobre Tenencia o Uso de Vehículos Automotores y del Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, en proporción al número de meses a que se refieren los artículos 33 y 36 C de la ley de Hacienda del Estado, el interesado deberá solicitarlo por escrito a la Secretaría y presentar los siguientes documentos según sea el caso:
 
 I. Tratándose de robo del vehículo, se comprobará dicha situación con la documentación que al efecto emita la autoridad competente, en la que conste la denuncia del hecho en términos de la legislación penal aplicable. En caso de que la denuncia no se haya presentado dentro de (sic) mes inmediato anterior a la fecha en que se solicite el pago, deberá presentar además, una constancia de no recuperación del vehículo expedida por autoridad competente.
 
@@ -319,11 +383,15 @@ Para los efectos del artículo anterior, al impuesto anual causado se aplicarán
 
 El factor señalado en el párrafo anterior, se obtiene de dividir la unidad entre los doce meses del ejercicio y el resultado así obtenido se multiplica por el número de meses completos en que se usó el vehículo.
 
-El monto obtenido al aplicar el factor mencionado en el párrafo anterior, será el impuesto que le corresponda pagar al contribuyente en términos del Artículo 33 segundo párrafo de la Ley de Hacienda.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+El monto obtenido al aplicar el factor mencionado en el párrafo anterior, será el impuesto que le corresponda pagar al contribuyente en términos de los artículos 33 segundo párrafo y 36 C último párrafo de la ley de Hacienda del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 29.
 
-Para efectos del Artículo 33 tercer párrafo de la Ley de Hacienda, el acreditamiento del Impuesto Sobre Tenencia o Uso de Vehículos Automotores pagado, procederá si el interesado lo solícita por escrito, ante la Secretaría, anexando a su solicitud los siguientes documentos:
+Para efectos de los artículos 33 y 36 D de la ley de Hacienda del Estado, el acreditamiento del Impuesto pagado, procederá si el interesado lo solicita por escrito, ante la Secretaria, anexando a su solicitud los siguientes documentos:
 
 I. Tratándose de vehículos robados:
 
@@ -333,11 +401,19 @@ b) Constancia de no recuperación del vehículo expedido por autoridad competent
 
 c) Recibo de pago del impuesto sujeto a acreditamiento expedido por la Secretaría.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+d) Constancia de Registro Vehicular
+
 II. Tratándose de vehículos siniestrados:
 
 a) Aviso de baja por destrucción total del vehículo.
 
 b) Comprobante de pago del impuesto sujeto al acreditamiento expedido por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+c) Constancia de Registro Vehicular.
 
 ###### ARTICULO 30.
 
@@ -350,6 +426,12 @@ El factor señalado en el párrafo anterior, se obtiene de dividir la unidad ent
 El monto obtenido al aplicar el factor mencionado en el párrafo anterior, será el impuesto que le corresponda acreditar al contribuyente en términos del Artículo 33 tercer párrafo de la Ley de Hacienda.
 
 El impuesto acreditable se podrá aplicar al pago del Impuesto Sobre Tenencia o Uso de Vehículos Automotores de uno o más vehículos, siempre que éstos sean propiedad del interesado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 31.
+
+Para efectos de la fracción I del artículo 35 de la ley de Hacienda del Estado, la calidad de pensionado, jubilado o persona adulta mayor se acreditará con: credencial del IMSS, ISSSTE, ISSSSPEA, PEMEX, DIF e INAPAM; o bien el documento con el que acredite alguna de éstas calidades a entera satisfacción de la Secretaría.
 
 T R A N S I T O R I O S :
 
@@ -373,7 +455,7 @@ Lic. Lic. Juan José León Rubio
 
 > <small>N. DE E. VER ANEXO I Y FORMATO EN LA PRIMERA SECCION DEL P.O. DE 1 DE MARZO DE 2004, DE LA PAGINA 11 A LA 12.</small>
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 10 DE DICIEMBRE DE 2007.
 
@@ -390,3 +472,9 @@ P.O. 17 DE MAYO DE 2010.
 PRIMERO.- Publíquese las presentes Reformas en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
 
 SEGUNDO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese las presentes Reformas en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Las presentes Reformas entrarán en vigor el día 1 ° de enero de 2014.
