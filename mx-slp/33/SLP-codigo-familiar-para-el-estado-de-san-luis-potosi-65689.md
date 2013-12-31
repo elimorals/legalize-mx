@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2013-10-26"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -561,13 +561,19 @@ Si ambos cónyuges procedieron de mala fe, la sociedad se considerará nula desd
 
 ### Capítulo X. Del Divorcio
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 86.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. La acción de divorcio es personalísima, es necesario o voluntario.
+El divorcio es la acción que disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
-Es necesario cuando uno de los cónyuges considere tener causa para ello prevista en este Código.
+La acción de divorcio es personalísima, y sólo se extingue por la muerte de uno o ambos cónyuges.
 
-Es voluntario cuando, ambos cónyuges pueden convenir en divorciarse.
+Las formas de divorcio para disolver el vínculo matrimonial son:
+
+I. Necesario, cuando uno de los cónyuges considere tener causa para ello prevista en este Código, y
+
+II. Voluntario, cuando ambos cónyuges pueden convenir en divorciarse, en cuyo caso se tramitará por la vía judicial, ante el Juez Familiar; o de forma administrativa ante el Oficial que designe el Director del Registro Civil en el Estado.
 
 ###### ARTICULO 87.
 
@@ -701,9 +707,11 @@ La muerte de la o el cónyuge pone fin al juicio de divorcio, y los herederos de
 
 En los juicios de divorcio siempre tendrá intervención el Ministerio Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 101.
 
-Cuando ambos cónyuges convengan en divorciarse, deberán de convenir además en los siguientes puntos:
+Cuando ambos cónyuges convengan voluntariamente en divorciarse por la vía judicial, deberán de convenir además en los siguientes puntos:
 
 I. Designación de la persona a quien sean confiadas las hijas o hijos del matrimonio, tanto durante el procedimiento, como después de ejecutoriado el divorcio;
 
@@ -715,15 +723,31 @@ III. La casa que servirá de habitación a la y el cónyuge durante el procedimi
 
 IV. Si hubiere sociedad conyugal, la manera de administrar los bienes de esta sociedad durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. Para tal efecto, se presentará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 102.
 
-El divorcio por mutuo consentimiento sólo puede pedirse pasado un año de celebración del matrimonio, y en la forma que establece el Código de Procedimientos Civiles para el Estado de San Luis Potosí.
+El divorcio voluntario por la vía administrativa podrá darse siempre y cuando:
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+I. Ambos cónyuges convengan en divorciarse;
+
+II. Que no hayan procreado, o adoptado hijos, o bien que éstos tengan veinticinco años, y no sean legalmente incapaces;
+
+III. Que la cónyuge no se encuentre embarazada;
+
+IV. Que ambos cónyuges manifiesten su voluntad de no reclamarse mutuamente alimentos, gananciales, utilidades o indemnización alguna, y
+
+V. En caso de sociedad conyugal, presentarán la liquidación de la misma.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 102 BIS. El divorcio voluntario sólo puede pedirse pasado un año de celebración del matrimonio y en la forma que establecen, el Código de Procedimientos Civiles para el Estado de San Luis Potosí; y la Ley del Registro Civil del Estado de San Luis Potosí, según sea el caso.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 103.
 
-La o el cónyuge que hayan solicitado el divorcio por mutuo consentimiento, podrán reconciliarse en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+Las o los cónyuges que hayan solicitado el divorcio voluntario, podrán reconciliarse en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio voluntario, sino pasado un año desde su reconciliación.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -3376,5 +3400,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE OCTUBRE DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
