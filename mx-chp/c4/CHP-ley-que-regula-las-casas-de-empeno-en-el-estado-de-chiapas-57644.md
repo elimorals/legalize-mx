@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-regula-las-casas-de-empeno-en-el-estado-de-chiapas-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-03"
-last_updated: "2010-12-30"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS MUTUANTES EN EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 3 de octubre de 2007.
 
@@ -125,7 +127,7 @@ XXV. Valuador.- Persona física que posee los conocimientos necesarios, habilida
 
 XXVI. Venta con billete.- Preferencia otorgada al pignorante con el fin de recuperar su prenda, mediante la presentación de su boleta de empeño para la adquisición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 6º.
 
@@ -255,7 +257,7 @@ En caso de que la resolución notificada niegue el otorgamiento del permiso, el 
 
 Exhibidos los documentos señalados en el artículo anterior, la Secretaría debe expedir y hacer entrega del permiso al peticionario o a quién para tal efecto se autorice, recabando constancia de su entrega en la copia del mismo, debiéndola anexar al expediente del permisionario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 19.
 
@@ -307,7 +309,7 @@ El Ejecutivo del Estado por conducto de la Secretaría, podrá autorizar la modi
 
 El Permisionario debe solicitar la modificación del permiso en un plazo que no exceda de diez días hábiles, contados a partir de que se dé el supuesto previsto en el artículo que antecede.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 23.
 
@@ -331,7 +333,7 @@ En caso de que la resolución notificada niegue la modificación del permiso, el
 
 #### Sección Cuarta. De la Revalidación del Permiso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -415,7 +417,7 @@ Las Casas de Empeño tienen la obligación de proporcionar al pignorante, al mom
 
 Los documentos que amparen la identidad del pignorante así como la propiedad del bien pignorado deben anexarse al contrato correspondiente en copia simple debidamente cotejada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 33.
 
@@ -449,7 +451,7 @@ Las casas de empeño deben registrar el contrato de prenda ante la Procuraduría
 
 ### Capítulo IV. Del Procedimiento de Empeño, Desempeño, Refrendo y Venta de los Objetos Pignorados
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 35.
 
@@ -555,7 +557,7 @@ Corresponde a la Secretaría, mediante la práctica de verificaciones vigilar el
 
 Cualquier infracción a las disposiciones de esta Ley, será sancionada por la Secretaría en los términos previstos por este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 46.
 
@@ -603,7 +605,7 @@ VIII. El permisionario solicite extemporáneamente la revalidación del permiso;
 
 IX. Incumplir con las disposiciones establecidas en la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 49.
 
@@ -627,7 +629,7 @@ II. El permisionario acumule dos sanciones de suspensión temporal dentro de un 
 
 III. El permisionario sin causa justificada suspenda las operaciones del establecimiento autorizado al público por más de diez días hábiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 51.
 
@@ -655,7 +657,7 @@ III. Por edicto cuando a quién deba notificarse se ignore su domicilio.
 
 Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería haciendo constar los datos de la persona que confirme la recepción de la notificación por este último medio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 53.
 
@@ -711,7 +713,7 @@ De conformidad con la fracción I, del artículo 42, de la Constitución Políti
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE DICIEMBRE DE 2009.
 
@@ -724,3 +726,15 @@ P.O. 30 DE DICIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el primero de enero de dos mil catorce.
+
+Artículo Segundo.- Se abroga la Ley que Regula las Casas de Empeño en el Estado de Chiapas, expedida mediante Decreto Número 293, publicado en el Periódico Oficial No. 051, Tercera Sección, de fecha 03 de octubre de 2007.
+
+Artículo Tercero.- En caso de que algún establecimiento haya iniciado el trámite para obtener el permiso para casas de empeño, conforme a la Ley que Regula las Casas de Empeño en el Estado de Chiapas, a partir de la entrada en vigor de la presente Ley, contará con un plazo de sesenta días naturales para realizar los trámites, de conformidad con lo dispuesto por el artículo 17 de esta Ley, para obtener el permiso para establecimientos mutuantes.
+
+Artículo Cuarto.- Los establecimientos cuya finalidad sea ofertar al público la celebración de contratos de mutuo que se encuentren actualmente en funcionamiento en el territorio del Estado de Chiapas, con anterioridad a la entrada en vigor de este ordenamiento, deberán cumplir con las disposiciones de la presente Ley, en un plazo que no exceda de los 60 días naturales posteriores al inicio de su vigencia.
+
+Artículo Quinto.- La Secretaría emitirá dentro de los cuarenta cinco (sic) días naturales posteriores a la entrada en vigencia del presente ordenamiento, las Reglas de Carácter General referidas en la presente Ley.
