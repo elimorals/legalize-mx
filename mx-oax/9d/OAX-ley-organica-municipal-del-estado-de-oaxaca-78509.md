@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2013-12-27"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO No. 6 PUBLICADO EN EL P.O. 27 DE DICIEMBRE DE 2013 SE ABROGA EL DECRETO NÚMERO 2060, DE LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL ESTADO DE OAXACA, APROBADO EL 30 DE SEPTIEMBRE DE 2013, MEDIANTE EL CUAL SE REFORMARON LOS ARTÍCULOS 40, 66 Y 67 Y SE ADICIONÓ AL TÍTULO TERCERO EL CAPÍTULO VII DENOMINADO "DE LA ADMINISTRACIÓN MUNICIPAL" CON UN ARTÍCULO 67 BIS; ASIMISMO QUEDAN VIGENTES LOS ARTÍCULOS 40, 66 Y 67 CON EL TEXTO ANTERIOR AL DECRETO 2060 DE LA SEXAGÉSIMA PRIMERA LEGISLATURA TODOS LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -375,13 +373,13 @@ Del acto de entrega-recepción referido se levantará un acta circunstanciada qu
 
 Cuando el Presidente Municipal saliente no acuda a la instalación del nuevo ayuntamiento, a la entrega-recepción del gobierno municipal o a ninguno de los actos, la toma de protesta se hará en términos del artículo 36 y procederán a requerir a la autoridad saliente la entrega-recepción, en caso de negativa procederán en términos de la ley aplicable.
 
-> <small>N. DE E. EL PRESENTE ARTÍCULO QUEDA VIGENTE CON EL TEXTO ANTERIOR AL DECRETO NÚMERO 2060 PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2013.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 40.
 
 Cuando por cualquier circunstancia especial no se verificare la elección de algún ayuntamiento o se hubieren declarado nulas las elecciones, el Congreso del Estado determinará lo procedente.
 
-No se celebrarán nuevas elecciones en aquellos casos en que se ponga en peligro la paz pública o la estabilidad de las instituciones, a juicio del Congreso del Estado, quien procederá a designar un Concejo Municipal en los términos establecidos por la Constitución del Estado y por esta Ley o en su caso nombrará a un encargado de la administración municipal hasta en tanto sea posible la instalación del Consejo.
+No se celebrarán nuevas elecciones en aquellos casos en que se ponga en peligro la paz pública o la estabilidad de las instituciones, a juicio del Congreso del Estado, quien procederá a designar un Concejo Municipal en los términos establecidos por la Constitución del Estado y por esta Ley o en su caso nombrará a un encargado de la administración municipal hasta en tanto sea posible la instalación del Consejo (sic).
 
 ###### ARTÍCULO 41.
 
@@ -645,9 +643,9 @@ XVI.- Aprobar los proyectos de Ley de Ingresos y el Presupuesto de Egresos atend
 
 XVII.- Acordar la contratación de deuda pública, con sujeción a la Ley aplicable; y
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-XVIII.- Acordar el período de recepción de las participaciones al inicio de la Administración; y
+XVIII.- Acordar el periodo de recepción de las participaciones y remitir a la Secretaría de Finanzas del Poder Ejecutivo en los primeros diez días de iniciada la administración dicho acuerdo señalando en el mismo la clabe interbancaria, número de referencia de la cuenta productiva específica e institución financiera a la cual debe realizarse la transferencia de las mismas, así como de los Fondos de Aportaciones que les corresponda.
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
@@ -883,111 +881,25 @@ F) Para lo no previsto en el presente Capítulo, se aplicará de manera supletor
 
 ### CAPÍTULO VI. DE LOS CONCEJOS MUNICIPALES
 
-> <small>N. DE E. EL PRESENTE ARTÍCULO QUEDA VIGENTE CON EL TEXTO ANTERIOR AL DECRETO NÚMERO 2060 PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2013.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO I. DEL PRESIDENTE MUNICIPAL
+### CAPÍTULO VII. DE LOS ENCARGADOS DE LA ADMINISTRACIÓN MUNICIPAL
 
 ###### ARTÍCULO 67 Bis.
 
-Los encargados de la Administración Municipal, serán nombrados por el Gobernador del Estado en los casos previstos por esta Ley, durarán en sus funciones noventa días, los cuales no podrán prolongarse bajo ninguna circunstancia y tendrán las siguientes facultades limitativas:
-
-I. Cumplir y hacer cumplir en el Municipio la presente Ley, las leyes y demás disposiciones de orden normativo municipal, así como los ordenamientos estatales y federales en el ámbito de su competencia, y conducir las relaciones del Ayuntamiento con los Poderes del Estado y con los otros ayuntamientos de la Entidad;
-
-II. Dotar a la cabecera municipal, agencias, colonias y comunidades de su municipio de servicios públicos básicos como son: agua potable, mantenimiento de alumbrado público, limpia, recolección, traslado, tratamiento y disposición final de residuos; y los demás que señala el artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca, siempre y cuando sean indispensables para atender las necesidades básicas del municipio y velando siempre por la preservación del equilibrio ecológico;
-
-III. Asumir la representación jurídica del ayuntamiento en los litigios en que fuere parte el municipio.
-
-IV. Elaborar y presentar ante el Congreso del Estado, a más tardar el último día del mes de noviembre del año respectivo, la iniciativa de Ley de Ingresos Municipales que deberá regir durante el año fiscal siguiente, en caso de que le corresponda.
-
-V. Remitir al Congreso del Estado a más tardar el quince del mes de junio la cuenta pública municipal del año anterior para su revisión y fiscalización;
-
-VI. Elaborar y aprobar su presupuesto anual de egresos de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, remitiendo copia al Congreso del Estado a través de la Auditoría Superior del Estado, para su conocimiento y fiscalización, en caso de que le corresponda;
-
-VII. Cuando se trate de servicios básicos indispensables y con el aval del Congreso del Estado, concluirá las obras iniciadas por administraciones anteriores y dará mantenimiento a la infraestructura e instalaciones de los servicios públicos municipales;
-
-VIII. Celebrar acuerdos y convenios con otros municipios de acuerdo a Ley de Planeación, Desarrollo Administrativo y Servicios Públicos Municipales;
-
-IX. Convocar a elecciones de las autoridades auxiliares del ayuntamiento, así como de las agencias municipales y de policía, respetando en su caso, las tradiciones, usos, costumbres y prácticas democráticas de las propias localidades.
-
-X. Coadyuvar en la ejecución de los planes y programas federales y estatales en el municipio;
-
-XI. Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia;
-
-XII. Celebrar convenios para la administración y custodia de las zonas federales;
-
-XIII. Participar en la administración de sus reservas territoriales y ecológicas;
-
-XIV. Formular y fomentar programas de organización y participación comunitaria, en los trabajos colectivos de beneficio común, que permitan una mayor cooperación entre autoridades y habitantes del municipio, conforme a sus usos y costumbres;
-
-XV. Fomentar las actividades culturales, deportivas y recreativas;
-
-XVI. Fomentar y fortalecer los valores históricos cívicos del pueblo, así como el respeto y aprecio a los símbolos patrios;
-
-XVII. Presentar al finalizar los noventa días de su ejercicio al Congreso del Estado, la información financiera que a continuación se señala:
-
-a) Estado de situación financiera;
-
-b) Estado de variación en la hacienda pública;
-
-c) Estado de cambios en la situación financiera;
-
-d) Notas a los estados financieros;
-
-e) El Estado analítico del activo;
-
-f) Estado analítico de los ingresos;
-
-g) Estado analítico de los egresos en las clasificaciones administrativa, por objeto del gasto y funcional-programática.
-
-XVIII. Realizar descuentos en el cobro de contribuciones a favor de los pensionados, jubilados, pensionistas, discapacitados, senescentes y demás que dispongan las leyes del Estado, que tengan su domicilio en el ámbito de la jurisdicción del municipio respectivo;
-
-XIX. Celebrar convenios con el Estado a fin de que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguna función o de un servicio que el Municipio tenga a su cargo o para que se ejerzan coordinadamente por el Estado y el propio municipio;
-
-XX. Solicitar, cuando no exista el convenio correspondiente, que la Legislatura Local disponga que el Gobierno del Estado asuma una función o servicio público municipal, por encontrarse el municipio imposibilitado para ejercerla o prestarlo, siempre y cuando corresponda a las necesidades mínimas y básicas del municipio;
-
-XXI. Remover de su cargo por causa grave a los agentes municipales y de policía, en los términos del artículo 85 de esta Ley;
-
-XXII. Aprobar la administración de servicios públicos por parte de los comités de vecinos en términos de lo dispuesto por la Ley de Planeación Desarrollo Administrativos y Servicios Públicos Municipales;
-
-XXIII. Promulgar y publicar en la Gaceta Municipal o en el Periódico Oficial del Gobierno del Estado los Bandos de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones;
-
-XXIV. Expedir de manera inmediata los nombramientos de los agentes municipales y de policía, una vez obtenido el resultado de la elección;
-
-XXV. Vigilar la recaudación de ingresos en todos los ramos de la administración pública municipal, con apego a lo dispuesto en la Ley de Ingresos Municipales;
-
-XXVI. Coadyuvar en el Plan Municipal de Desarrollo, siempre y cuando su periodo de ejercicio corresponda a la integración de dicho plan;
-
-XXVII. Vigilar la correcta administración del patrimonio municipal;
-
-XXVIII. Expedir licencias, permisos o autorizaciones para espectáculos, bailes y diversiones públicas en general;
-
-XXIX. Visitar periódicamente las Agencias Municipales y de Policía y todos los demás centros de población urbanos, suburbanos y de naturaleza agraria que conformen al territorio municipal, con el objeto de verificar la eficaz prestación de los servicios públicos municipales y recibir las demandas de la población;
-
-XXX. Desempeñar las funciones de Registro Civil cuando en su ámbito territorial no exista éste, en los términos del Código Civil para el Estado Libre y Soberano de Oaxaca y del reglamento de la materia;
-
-XXXI. Tener bajo su mando, la Policía Preventiva Municipal en los términos del reglamento correspondiente y de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca y las leyes de la materia;
-
-XXXII. Autorizar los documentos de compraventa de ganado y los permisos para degüello;
-
-XXXIII. Aplicar correctamente el presupuesto de egresos, siempre dentro de las facultades atribuidas en este artículo;
-
-XXXIV. Practicar, a falta de Agente del Ministerio Público, las primeras diligencias de averiguación previa, remitiéndolas al Ministerio Público del distrito judicial que le corresponda;
-
-XXXV. Auxiliar a las autoridades ministeriales en las diligencias que correspondan;
-
-XXXVI. Admitir y resolver los recursos administrativos, de conformidad con lo dispuesto en esta Ley; (sic)
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ###### ARTÍCULO 66.
 
-Cuando se declare la suspensión o desaparición de un Ayuntamiento, el Congreso del Estado procederá de inmediato a designar de entre los vecinos del municipio respectivo, a los integrantes de un Concejo Municipal.
+Cuando se declare la suspensión o desaparición de un Ayuntamiento. El Congreso del Estado procederá de inmediato a designar de entre los vecinos del municipio respectivo, a los integrantes de un Concejo Municipal.
 
-Se integrara por el mismo número de miembros propietarios y suplentes del Ayuntamiento, según corresponda; y concluirá el periodo de ejercicio constitucional del mismo. Sus miembros deberán reunir los requisitos de elegibilidad que establecen la Constitución, esta Ley y el Código de Instituciones Políticas y Procedimientos Electorales del Estado.
+Se integrará por el mismo número de miembros propietarios y suplentes del Ayuntamiento, según corresponda; y concluirá el periodo de ejercicio constitucional del mismo. Sus miembros deberán reunir los requisitos de elegibilidad que establecen la Constitución, esta Ley y el Código de Instituciones Políticas y Procedimientos Electorales del Estado.
 
-Los Concejos Municipales tendrán la competencia que para los Ayuntamiento (sic) determina esta Ley.
+Los Concejos Municipales tendrán la competencia que para los Ayuntamiento (sic) determina esta Ley:
 
 La designación de los Concejos Municipales, se hará por el voto de las dos terceras partes de los integrantes del Congreso del Estado.
 
-> <small>N. DE E. EL PRESENTE ARTÍCULO QUEDA VIGENTE CON EL TEXTO ANTERIOR AL DECRETO NÚMERO 2060 PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2013.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 67.
 
@@ -995,11 +907,13 @@ Si las condiciones políticas no permiten que inicie en sus funciones un Concejo
 
 Al concluir el término del nombramiento concedido al encargado, se deberá de decretar la designación del Concejo Municipal, o en su defecto, si las condiciones aún no lo permiten, se decidirá lo relativo a la integración del Concejo.
 
-### CAPÍTULO II. DEL SÍNDICO
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO I. DEL PRESIDENTE MUNICIPAL
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES DEL AYUNTAMIENTO
 
-### CAPÍTULO III. DE LOS REGIDORES
+### CAPÍTULO II. DEL SÍNDICO
 
 ###### ARTÍCULO 68.
 
@@ -1095,7 +1009,7 @@ VII.- Residir durante su gestión fuera del territorio municipal; y
 
 VIII.- En los casos de infracciones a los reglamentos y disposiciones legales, imponer arrestos que excedan las treinta y seis horas o multa que exceda de lo señalado en la Ley de Ingresos Municipales.
 
-### CAPÍTULO IV. DE LAS AUTORIDADES AUXILIARES DEL AYUNTAMIENTO
+### CAPÍTULO III. DE LOS REGIDORES
 
 ###### ARTÍCULO 71.
 
@@ -1131,7 +1045,7 @@ XIII.- Las demás que le señalen las disposiciones legales y reglamentarias apl
 
 El Síndico Municipal no puede desistirse, transigir, comprometerse en árbitro (sic) o hacer sesión de bienes, salvo autorización expresa que en cada caso le otorgue el Ayuntamiento aprobada con la mayoría calificada de los concejales.
 
-### CAPÍTULO V. DE LAS LICENCIAS Y DEL MODO DE SUPLIR LAS AUSENCIAS DE LOS INTEGRANTES DEL AYUNTAMIENTO
+### CAPÍTULO IV. DE LAS AUTORIDADES AUXILIARES DEL AYUNTAMIENTO
 
 ###### ARTÍCULO 73.
 
@@ -1179,7 +1093,7 @@ La denominación de cada regiduría corresponderá a la materia que tenga a su c
 
 El Ayuntamiento establecerá las denominaciones o materias de las regidurías en sus respectivos bandos de policía y gobierno así como en los reglamentos municipales.
 
-### CAPÍTULO VI. DEL ABANDONO DEL CARGO Y DEL FALLECIMIENTO DE LOS CONCEJALES
+### CAPÍTULO V. DE LAS LICENCIAS Y DEL MODO DE SUPLIR LAS AUSENCIAS DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
 ###### ARTÍCULO 76.
 
@@ -1229,7 +1143,9 @@ V.- Promover la integración de comités de colaboración ciudadana como coadyuv
 
 VI.- Informar anualmente a la asamblea general de la población, sobre el monto, destino y aplicación de los recursos proporcionados por el Ayuntamiento, y de las labores de gestión realizadas;
 
-VII.- Informar al Ayuntamiento sobre el destino y aplicación de los recursos ministrados por éste, y remitirle en forma mensual la documentación comprobatoria respectiva;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII.- Informar al Ayuntamiento sobre el destino y aplicación de los recursos ministrados por éste, y remitirle en forma mensual la documentación comprobatoria respectiva; así informar al Ayuntamiento la recaudación por concepto agua (sic) que hayan realizado, por sí o a través de sus comités.
 
 VIII.- Cuidar y proteger los recursos ecológicos con sujeción a la ley aplicable;
 
@@ -1241,7 +1157,7 @@ X.- Las demás que le señalen las leyes, reglamentos o acuerdos del Ayuntamient
 
 Las autoridades auxiliares no podrán administrar más recursos que los recibidos para los gastos de administración y funcionamiento de sus oficinas. No podrán ejecutar obras en forma directa, salvo las que autorice el Ayuntamiento.
 
-### CAPÍTULO I. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
+### CAPÍTULO VI. DEL ABANDONO DEL CARGO Y DEL FALLECIMIENTO DE LOS CONCEJALES
 
 ###### ARTÍCULO 82.
 
@@ -1285,7 +1201,7 @@ II.- Si por falta injustificada, el concejal deja de acudir a más de tres sesio
 
 El mismo procedimiento se seguirá, para el caso de licencias que presenten los integrantes de los Concejos Municipales.
 
-### CAPÍTULO II. DE LA DELEGACIÓN DE FACULTADES Y LA DESCONCENTRACIÓN ADMINISTRATIVA
+### CAPÍTULO I. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
 
 ###### ARTÍCULO 85.
 
@@ -1301,7 +1217,7 @@ De todos los casos se comunicará al Congreso del Estado para que emita la decla
 
 ## TÍTULO QUINTO. DE LOS LINEAMIENTOS GENERALES PARA LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-### CAPÍTULO III. DE LOS SERVICIOS PÚBLICOS Y DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
+### CAPÍTULO II. DE LA DELEGACIÓN DE FACULTADES Y LA DESCONCENTRACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 87.
 
@@ -1395,7 +1311,15 @@ Son atribuciones del Tesorero Municipal:
 
 I.- Administrar la hacienda pública municipal de conformidad con las disposiciones legales aplicables y coordinar la política fiscal del Ayuntamiento;
 
-II.- Cobrar y recaudar los impuestos, derechos, productos y aprovechamientos que correspondan al Municipio de conformidad con la Ley de Ingresos Municipales, así como las participaciones que por ley le correspondan en rendimiento de impuestos federales y estatales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+II.- Recaudar y cobrar los impuestos, derechos, productos y aprovechamientos que correspondan al Municipio de conformidad con la Ley de Hacienda Municipal del Estado de Oaxaca y Ley de Ingresos del Municipio del ejercicio fiscal que corresponda.
+
+Expedir el recibo fiscal a favor de la Secretaría de Finanzas del Gobierno del Estado en un plazo máximo de diez días hábiles contados a partir de la recepción de las participaciones y aportaciones que le correspondan al Municipio
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+II Bis.- Llevar a cabo el registro contable de los ingresos provenientes de las participaciones y aportaciones que se hayan transferido al Municipio.
 
 III.- Dar cumplimiento a los convenios de coordinación fiscal y predial, llevar al corriente el padrón fiscal municipal, los registros contables, financieros administrativos de los ingresos, egresos y presupuestos, conducir y vigilar el funcionamiento de un sistema de orientación fiscal para los causantes municipales;
 
@@ -1449,7 +1373,7 @@ I.- Previa orden del Ayuntamiento concluir las obras iniciadas por administracio
 
 II.- Ejecutar los acuerdos del ayuntamiento tendientes a proporcionar a la cabecera municipal, agencias, colonias y comunidades del Municipio obras y servicios públicos básicos en términos del artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
-### CAPÍTULO I. DE LOS BIENES MUNICIPALES
+### CAPÍTULO III. DE LOS SERVICIOS PÚBLICOS Y DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
 ###### ARTÍCULO 98.
 
@@ -1459,7 +1383,7 @@ Corresponde al Ayuntamiento, en ejercicio de sus facultades reglamentarias inter
 
 Para la mejor atención y eficiente despacho de los asuntos de su competencia, el Ayuntamiento resolverá la creación de órganos administrativos desconcentrados que estarán jerárquicamente subordinados al Presidente Municipal, o al titular de la dependencia que corresponda y tendrán facultades especificas para resolver sobre la materia que les corresponda y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
 
-### CAPÍTULO II. DEL INVENTARIO Y CATÁLOGO DE LOS BIENES MUNICIPALES
+### CAPÍTULO I. DE LOS BIENES MUNICIPALES
 
 ###### ARTÍCULO 100.
 
@@ -1489,7 +1413,7 @@ Los servicios públicos y la administración pública paramunicipal se regulará
 
 ## TÍTULO SEXTO. DE LA HACIENDA Y PATRIMONIO MUNICIPAL
 
-### CAPÍTULO III. DE LA AFECTACIÓN DEL PATRIMONIO INMOBILIARIO MUNICIPAL
+### CAPÍTULO II. DEL INVENTARIO Y CATÁLOGO DE LOS BIENES MUNICIPALES
 
 ###### ARTÍCULO 103.
 
@@ -1549,7 +1473,7 @@ III.- La publicación de la declaratoria que emita el Ayuntamiento, en el Perió
 
 IV.- La inscripción de la declaratoria correspondiente en el Registro Público de la Propiedad.
 
-### CAPÍTULO IV. DE LA HACIENDA PÚBLICA MUNICIPAL
+### CAPÍTULO III. DE LA AFECTACIÓN DEL PATRIMONIO INMOBILIARIO MUNICIPAL
 
 ###### ARTÍCULO 109.
 
@@ -1587,9 +1511,7 @@ El inventario de bienes muebles y el catálogo de bienes inmuebles propiedad del
 
 La alteración, sustracción, disposición indebida, ocultamiento, así como otra conducta análoga realizada por los servidores públicos municipales, sobre los bienes del Municipio, será sancionada conforme a lo dispuesto en el Código Penal para el Estado de Oaxaca.
 
-### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
+### CAPÍTULO IV. DE LA HACIENDA PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 115.
 
@@ -1641,13 +1563,21 @@ Para los efectos del párrafo anterior, se creará un Comité de Adquisiciones y
 
 Los ayuntamientos podrán establecer la aplicación supletoria de la Ley para Adquisiciones, Arrendamientos y Servicios del Estado de Oaxaca.
 
-### CAPÍTULO VI. DE LA DEUDA PÚBLICA MUNICIPAL
+### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 121.
 
 La hacienda pública municipal se constituirá conforme a lo dispuesto por los artículos, 115 de la Constitución Federal, fracción IV y 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca, Fracción II, incisos a b y c, así como por los ingresos que señala la Ley de Hacienda Municipal del Estado, las respectivas leyes anuales de ingresos y según los montos que fije el Presupuesto de Egresos del Estado.
 
-Se integrará, además, con aquellos ingresos que determinen las leyes y decretos federales y estatales y los convenios respectivos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Se integrará además con los montos recaudados por las agencias municipales y de policía, y de los comités, cualquiera que sea la denominación que reciban, que tengan a su cargo la administración y prestación de los servicios de agua potable entre otros.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Así como de los ingresos que se determinen en leyes, decretos federales y estatales, convenios, subsidios, transferencias, donativos, entre otros.
 
 ###### ARTÍCULO 122.
 
@@ -1677,9 +1607,9 @@ Cualquier ciudadano del Municipio bajo su más estricta responsabilidad, mediant
 
 Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables solidariamente de las irregularidades cometidas en el manejo de los fondos municipales, en consecuencia están obligados a vigilar los actos relacionados con la administración de dichos fondos.
 
-### CAPÍTULO I. DE LAS BASES GENERALES
+### CAPÍTULO VI. DE LA DEUDA PÚBLICA MUNICIPAL
 
-### CAPÍTULO II. DE LOS BANDOS DE POLICÍA Y GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
+### CAPÍTULO I. DE LAS BASES GENERALES
 
 ###### ARTÍCULO 127.
 
@@ -1723,7 +1653,7 @@ El control presupuestal comprenderá las asignaciones, transferencias, compromis
 
 Los libros o los registros contables deberán de conservarse durante 5 años por el Ayuntamiento en su archivo administrativo y no podrán por ningún motivo, modificarse o destruirse. Al término de ese lapso, la documentación se remitirá al Archivo General del Estado.
 
-### CAPÍTULO III. DE LA JUSTICIA MUNICIPAL Y LOS ALCALDES
+### CAPÍTULO II. DE LOS BANDOS DE POLICÍA Y GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
 
 ###### ARTÍCULO 132.
 
@@ -1735,7 +1665,7 @@ El Ayuntamiento acordará la contratación de deuda pública por mayoría califi
 
 ## TÍTULO SÉPTIMO. DEL ORDEN JURÍDICO Y LA JUSTICIA MUNICIPAL
 
-### CAPÍTULO IV. DEL JUICIO CONTENCIOSO ADMINISTRATIVO Y DE LOS CONFLICTOS ELECTORALES
+### CAPÍTULO III. DE LA JUSTICIA MUNICIPAL Y LOS ALCALDES
 
 ###### ARTÍCULO 134.
 
@@ -1769,7 +1699,7 @@ El Ayuntamiento contará con una Gaceta Municipal, para realizar la publicación
 
 El Ayuntamiento deberá destinar recursos de su Presupuesto de Egresos para la operación, organización y funcionamiento de la Gaceta Municipal. Expedirá también el Reglamento respectivo.
 
-### CAPÍTULO V. DEL RECURSO ADMINISTRATIVO DE REVOCACIÓN
+### CAPÍTULO IV. DEL JUICIO CONTENCIOSO ADMINISTRATIVO Y DE LOS CONFLICTOS ELECTORALES
 
 ###### ARTÍCULO 138.
 
@@ -1841,7 +1771,7 @@ VII.- Pago al erario municipal por el daño causado, sin perjuicio de las demás
 
 Para la imposición de las sanciones a que se refiere el presente Capítulo se deberán tomar en cuenta las condiciones particulares del infractor, la gravedad y las circunstancias en la comisión de la infracción.
 
-### CAPÍTULO VI. RESOLUCIÓN DE CONFLICTOS ENTRE AYUNTAMIENTO Y LOS PODERES EJECUTIVO Y JUDICIAL
+### CAPÍTULO V. DEL RECURSO ADMINISTRATIVO DE REVOCACIÓN
 
 ###### ARTÍCULO 144.
 
@@ -1875,7 +1805,7 @@ V.- Conocer como defensor del ciudadano de las quejas que se presenten contra el
 
 Se expedirá por el Ayuntamiento un Reglamento para el Procedimiento conciliatorio ante los Alcaldes, pudiéndose aplicar en forma supletoria la Ley de Mediación para el Estado de Oaxaca respecto de estos actos.
 
-### CAPÍTULO VII. DE LA SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL MUNICIPALES
+### CAPÍTULO VI. RESOLUCIÓN DE CONFLICTOS ENTRE AYUNTAMIENTO Y LOS PODERES EJECUTIVO Y JUDICIAL
 
 ###### ARTÍCULO 147.
 
@@ -1891,7 +1821,7 @@ b) Cuando una elección se declare nula por las autoridades electorales; y
 
 c) cuando no se verifique la elección extraordinaria prevista en el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, el Congreso designará un Concejo Municipal para que ejerza las funciones del ayuntamiento por el tiempo de su ejercicio constitucional.
 
-### CAPÍTULO VIII. DE LA CRÓNICA MUNICIPAL
+### CAPÍTULO VII. DE LA SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL MUNICIPALES
 
 ###### ARTÍCULO 149.
 
@@ -1941,7 +1871,7 @@ V.- No aparezca firmado, a menos que se firme antes del vencimiento del plazo pa
 
 La interposición del recurso administrativo de revocación suspenderá la ejecución del acto, acuerdo o resolución impugnados.
 
-### CAPÍTULO IX. DEL ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
+### CAPÍTULO VIII. DE LA CRÓNICA MUNICIPAL
 
 ###### ARTÍCULO 153.
 
@@ -1997,7 +1927,7 @@ IV.- El día y hora señalados para la reanudación de la audiencia las partes e
 
 La Comisión de Gobernación dará cuenta del resultado de la audiencia con el dictamen respectivo para que el Pleno del Congreso lo apruebe en su caso.
 
-### CAPÍTULO X. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO IX. DEL ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
 
 ###### ARTÍCULO 159.
 
@@ -2164,3 +2094,17 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación. Publ�
 SEGUNDO.- El Congreso del Estado de Oaxaca procederá a nombrar a los Administradores Municipales en aquellos municipios en que no se hayan efectuado elecciones o se hayan declarado nulas o inválidas y no sea posible nombrar consejos municipales para el periodo Constitucional que inicia el 1 de enero de 2014.
 
 TERCERO.- Comuníquese lo anterior al Titular del Poder Ejecutivo del Estado de Oaxaca para los efectos legales correspondientes.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 21, POR EL QUE SE REFORMAN LOS ARTÍCULOS 40, 66 Y 67; SE DEROGA DEL TÍTULO TERCERO EL CAPÍTULO VII, DENOMINADO “DE LOS ENCARGADOS DE LA ADMINISTRACIÓN" Y EL ARTICULO 67 BIS, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas la (sic) disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 22, POR EL QUE SE REFORMAN LOS ARTÍCULOS 47 FRACCIÓN XVIII; 80 FRACCIÓN VII; 95 FRACCIÓN II; 121 SEGUNDO PÁRRAFO; SE ADICIONAN LOS ARTÍCULOS 95 FRACCIÓN 11 BIS; 121 CON EL TERCER PÁRRAFO, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
