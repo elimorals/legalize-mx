@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2012-12-22"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -41,35 +41,45 @@ LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-La presente Ley es de interés público y regula las relaciones fiscales del Estado de Oaxaca con sus Municipios y tiene por objeto:
+###### ARTICULO 1.
 
-I. Fijar las Bases de Coordinación y Colaboración Administrativa en Materia Fiscal entre el Estado y sus Municipios.
+La presente Ley tiene por objeto:
 
-II. Establecer los criterios para la distribución de las Participaciones Fiscales Federales que correspondan a las Haciendas Públicas Municipales, atendiendo a lo que establece al respecto el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+I. Coordinar el Sistema Fiscal del Estado y sus Municipios en torno a la coordinación fiscal con la Federación;
 
-III. Definir las bases que regulan los Fondos de Aportaciones Federales que corresponden a los Municipios, de acuerdo con el Capítulo V de la Ley de Coordinación.
+II. Establecer las reglas para la distribución de las Participaciones Fiscales Federales que correspondan a las haciendas públicas municipales, atendiendo a lo que establece al respecto el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Coordinación Fiscal;
 
-###### ARTÍCULO 2.
+III. Definir las bases que regulan los Fondos de Aportaciones Federales que corresponden a los Municipios, de acuerdo con el Capítulo V de la Ley de Coordinación;
+
+IV. Establecer los derechos y obligaciones que deberán observar el Estado y sus Municipios en materia (sic) coordinación fiscal;
+
+V. Transparentar la asignación y aplicación de las Participaciones y Aportaciones Federales que se ministre al Estado y Municipios, y
+
+VI. Constituir los organismos en materia de coordinación fiscal, definir su organización, funcionamiento y facultades.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 2.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Ley: La Ley de Coordinación Fiscal para el Estado de Oaxaca
+I. Aportaciones: A los Fondos de Aportaciones Federales transferidos por la Federación por conducto del Estado a favor de los Municipios de conformidad con el Capítulo V de la Ley de Coordinación;
 
-II. Ley de Coordinación: La Ley de Coordinación Fiscal.
+II. Congreso: Al Congreso del Estado;
 
-III. Secretaría: La Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
+III. Decreto: Al Decreto que establece Bases, Factores de Distribución, Montos Estimados y Plazos para el Pago de Participaciones Fiscales Federales a los Municipios del Estado de Oaxaca, para el ejercicio fiscal que corresponda;
 
-IV. Participaciones: Las participaciones Federales que el Estado y los Municipios perciben de conformidad con los Capítulos I al IV de la Ley de Coordinación.
+IV. Ley: A la Ley de Coordinación Fiscal para el Estado de Oaxaca;
 
-V. Aportaciones: Los Fondos de Aportaciones Federales transferidos por la Federación por conducto del Estado a favor de los Municipios de conformidad con el Capítulo V de la Ley de Coordinación.
+V. Ley de Coordinación: A la Ley de Coordinación Fiscal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VI. Municipio: Al nivel de Gobierno, investido de personalidad jurídica, con territorio y patrimonio propios, autónomo en su régimen interior, con capacidad económica propia y con la libre administración de su hacienda; con una población asentada en una circunscripción territorial y gobernado por un Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+VII. Participaciones: A las Participaciones Federales que el Estado y los Municipios perciben de conformidad con los Capítulos I al IV de la Ley de Coordinación, y
 
-VI. Decreto: El Decreto que establece Bases, Factores de Distribución, Montos Estimados y Plazos para el pago de Participaciones Fiscales Federales a los Municipios del Estado de Oaxaca.
+VIII. Secretaría: A la Secretaría de Finanzas del Poder Ejecutivo del Estado.
 
 ###### ARTICULO 3.
 
@@ -109,9 +119,9 @@ V. El 20% del Impuesto sobre Automóviles Nuevos; y (sic),
 
 VI. El 20% del Fondo de Compensación del Impuesto sobre Automóviles Nuevos;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VII. El 20% del Fondo de Fiscalización;
+VII. El 20% del Fondo de Fiscalización y Recaudación;
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -119,29 +129,37 @@ VIII. EL 20% de la Recaudación del Impuesto Especial sobre Producción y Servic
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-IX. El 20% del Fondo de Compensación; y,
+IX. El 20% del Fondo de Compensación; y, (sic)
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. De otros que determine la Ley de Coordinación, en las proporciones en que disponga.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+X. El 100% de la recaudación que se obtenga del Impuesto Sobre la Renta que efectivamente enteren los Municipios a la Federación correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en la administración pública municipal y organismos paramunicipales, siempre que el salario sea efectivamente pagado por los Municipios con cargo a sus Participaciones u otros ingresos municipales, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XI. De otros que determine la Ley de Coordinación, en las proporciones en que disponga.
 
 Los Municipios, además de las Participaciones establecidas en la presente Ley recibirán directamente de la Federación las relativas al artículo 2º-A fracciones I y II de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 6.
 
-El Fondo Municipal de Participaciones se constituirá con las cantidades resultantes de las fracciones I, III, IV, V, VI y VII del artículo 5 de esta Ley y se distribuirá a los Municipios conforme a la fórmula siguiente:
+El Fondo Municipal de Participaciones se constituirá con las cantidades resultantes de las fracciones I, III, IV, V, VI y VII del artículo 5 de esta Ley y se distribuirá a los Municipios conforme a la formula siguiente:
 
 (VÉASE ARCHIVO ANEXO)
 
-El número de habitantes de cada Municipio se tomará de la última información que hubiere dado a conocer el Instituto Nacional de Estadística, Geografía e Informática.
+La fórmula anterior no será aplicable al evento de que en el año de cálculo el monto de Fondo Municipal de Participaciones sea inferior al observado en el año 2013. En tal supuesto la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2013 de cada municipio.
 
-La información sobre ingresos propios recaudados por los Municipios se integra por impuestos, derechos, productos y aprovechamientos de acuerdo con las cifras de la cuenta pública enterada por cada municipio a la Legislatura del Estado, correspondiente al penúltimo ejercicio en relación con el ejercicio para el que se efectúa el cálculo de las participaciones.
+Las cifras reportadas en la Cuenta Pública Municipal de los impuestos y derechos, que estén relacionadas con el otorgamiento de beneficios, programas, subvenciones, o subsidios, aun cuando tengan una denominación distinta en la legislación local correspondiente, y que estén dirigidos a determinado sector de la población o de la economía, no se considerarán ingresos para efectos de la determinación de coeficientes de distribución.
 
-La fórmula anterior no será aplicable en el evento de que en el año de cálculo el monto del Fondo Municipal de Participaciones sea inferior al observado en el año 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2007 de cada municipio.
+La información sobre ingresos recaudados por los Municipios se integra por impuestos, derechos, productos y aprovechamientos que registren un flujo de efectivo y que correspondan al penúltimo ejercicio en relación con el ejercicio para el que se efectúa el cálculo de las Participaciones.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+Los Organismos Públicos Descentralizados deberán informar a la Secretaría los ingresos recaudados por los servicios públicos relacionados con el suministro de agua, a efecto de integrar dicha información en la Cuenta Pública Municipal, así como en los informes que se entreguen a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 7.
 
@@ -149,7 +167,21 @@ El Fondo de Fomento Municipal se constituirá con las cantidades resultantes de 
 
 (VÉASE ARCHIVO ANEXO)
 
-La fórmula anterior no será aplicable en el evento de que en el año de cálculo el monto del Fondo de Fomento Municipal sea inferior al observado en el año 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2007 de cada municipio.
+RCi,t= Es la suma de la recaudación del Impuesto predial de los Municipios que hayan convenido con el Estado la coordinación del cobro de dicho impuesto con el Municipio i en el año t y que registren un flujo de efectivo.
+
+ni = Es la última información oficial de población que a nivel municipal hubiere dado a conocer el Instituto Nacional de Estadística y Geografía para el Municipio i.
+
+nci = Es la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía de los Municipios que hayan convenido la coordinación del cobro de predial para el Municipio i.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TERCERO TRANSITORIO DEL DECRETO PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2013 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+CPi,t= Es el coeficiente de distribución del 30% del excedente del Fondo de Fomento Municipal con respecto a 2013 del Municipio i en el año t en que se efectúa el cálculo, siempre y cuando el Estado sea el responsable del cobro del impuesto predial a nombre del Municipio.
+
+Para que se compruebe la existencia de la coordinación fiscal en el impuesto predial, la Secretaría deberá haber celebrado convenio con el Municipio correspondiente, mismo que deberá ser publicado en el Periódico Oficial del Estado, en el entendido de que la inexistencia o extinción de dicho convenio hará que se deje de ser elegible para la distribución de esta porción del Fondo.
+
+La fórmula anterior no será aplicable en el evento de que en el año de cálculo el monto del Fondo de Fomento Municipal sea inferior al observado en el año 2013. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2013 de cada Municipio.
+
+Los Organismos Públicos Descentralizados deberán informar a la Secretaría los ingresos recaudados por los servicios públicos relacionados con el suministro de agua, a efecto de integrar dicha información en la Cuenta Pública Municipal, así como en los informes que se entreguen a la Secretaría de Hacienda y Crédito Público.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -183,6 +215,16 @@ La información sobre ingresos propios recaudados por los Municipios se integra 
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 7 C.- El Estado deberá participar a sus Municipios el 100% de la recaudación del Impuesto Sobre la Renta correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en la administración pública municipal y organismos paramunicipales, siempre que el salario sea efectivamente pagado por los Municipios con cargo a sus Participaciones u otros ingresos municipales.
+
+Para efectos del párrafo anterior, se considerará la recaudación que se obtenga por el Impuesto Sobre la Renta, una vez descontadas las devoluciones por dicho concepto.
+
+Asimismo, para que resulte aplicable lo dispuesto en el primer párrafo de este artículo, los Municipios deberán enterar a la Federación el 100% de la retención que deben efectuar del Impuesto Sobre la Renta correspondiente a los ingresos por salarios pagados con cargo a sus Participaciones y otros ingresos, debiendo informar a la Secretaría dicho entero.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 8.
@@ -193,9 +235,11 @@ Las Participaciones que correspondan a los Municipios, resultantes de los fondos
 
 De conformidad con lo dispuesto en la Ley de Coordinación, la Secretaría enterará las Participaciones a los Municipios de acuerdo a lo siguiente:
 
-I. En forma mensual dentro de los cinco días siguientes a la fecha en que se reciban de la Federación, en concepto de anticipos a cuenta de Participaciones.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Con base en los ajustes cuatrimestrales y definitivo que realice la Federación en los plazos y términos previstos en la Ley de Coordinación, la Secretaría efectuará los ajustes a los Municipios; los cuales serán liquidados dentro de los 5 días posteriores a la fecha en que el Estado reciba dichos ajustes.
+I. En forma mensual dentro de los cinco días hábiles siguientes a la fecha en que se reciban de la Federación, en concepto de anticipos a cuenta de Participaciones.
+
+Con base en los ajustes cuatrimestrales y definitivos que realice la Federación en los plazos y términos previstos en la Ley de Coordinación, la Secretaría efectuará los ajustes a los Municipios; los cuales serán liquidados dentro de los cinco días hábiles siguientes a la fecha en que el Estado reciba dichos ajustes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -233,9 +277,15 @@ Recepcionados los montos por los Municipios, estos deberán registrarlos como in
 
 Para efectos de recepción de los ingresos regulados en la presente Ley, los Municipios señalaran a la Secretaría de Finanzas en el acta de cabildo a que alude la fracción II del presente artículo, la clabe interbancaria, número de referencia de la cuenta e institución financiera a la cual debe realizarse la transferencia.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 9.
 
-Las Participaciones que reciban los Municipios, con base en la presente Ley, deberán ser incluidas en sus leyes de ingresos de cada ejercicio fiscal.
+Las Participaciones y Aportaciones que reciban los Municipios, con base en la presente Ley, deberán ser incluidas en sus leyes de ingresos de cada ejercicio fiscal.
+
+Las Participaciones que correspondan al Estado y Municipios, serán administradas y ejercidas por los mismos, conforme a sus leyes y en su caso por las disposiciones que para tal efecto se establezcan.
+
+Las Aportaciones que correspondan al Estado y Municipios, serán administradas y ejercidas de conformidad con las disposiciones que para tal efecto se establezcan por la Federación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -245,41 +295,35 @@ Las Participaciones que reciban los Municipios, con base en la presente Ley, deb
 
 La Auditoría Superior del Estado, revisará y dictaminará sobre los cálculos de participaciones vigilando el estricto cumplimiento tanto de lo dispuesto en la Ley de Coordinación como en la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 11.
 
-Las bases, factores de distribución, montos estimados y plazos de las participaciones municipales para el ejercicio que se trate, quedarán establecidas mediante Decreto que emita anualmente el Estado, el que se publicará en el Periódico Oficial del Gobierno del Estado.
+Las bases, factores de distribución, montos estimados y plazos de las Participaciones municipales para el ejercicio que se trate, quedarán establecidas mediante Decreto que emita anualmente el Congreso, el que se publicará en el Periódico Oficial del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Tratándose de los montos de las Participaciones a que se refiere este artículo, la Secretaría deberá publicarlos mediante Acuerdo en el Periódico Oficial del Estado, quince días después de que la Secretaría de Hacienda y Crédito Público, en términos del artículo 6°, cuarto párrafo de la Ley de Coordinación, publique en el Diario Oficial de la Federación, las Participaciones estimadas que le correspondan al Estado y de las que éste debe participar a los Municipios que lo conforman.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-Tratándose de los montos de las participaciones a que se refiere este artículo, el Estado deberá publicarlos mediante Decreto en el Periódico Oficial del Gobierno del Estado, quince días después de que la Secretaría de Hacienda y Crédito Público, en términos del artículo 6°, cuarto párrafo de la Ley de Coordinación Fiscal, publique en el Diario Oficial de la Federación, las participaciones estimadas que le correspondan al Estado y de las que éste debe participar a los municipios que lo conforman.
-
-El Estado, a través de la Secretaría independientemente de la publicación a que se refiere el párrafo anterior, proporcionará a cada uno de los Municipios por escrito, el monto anual estimado de sus Participaciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009) (F. DE E., P.O. 16 DE ENERO DE 2010)
-
-El Gobierno del Estado publicará en el Periódico Oficial trimestralmente el importe de las participaciones entregadas, y el monto definitivo que le haya correspondido a los Municipios en el ejercicio de que se trate, dentro de los tres primeros meses del ejercicio inmediato posterior.
+La Secretaría publicará en el Periódico Oficial del Estado trimestralmente el importe de las Participaciones entregadas y el monto definitivo que le haya correspondido a los Municipios en el ejercicio de que se trate, dentro de los tres primeros meses del ejercicio inmediato posterior.
 
 ###### ARTICULO 12.
 
 Los factores de participación que conforme a las bases de los artículos 6 y 7 de la presente Ley resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen, se aplicarán provisionalmente los que correspondan al año inmediato anterior.
 
-###### ARTÍCULO 13.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Las Participaciones que correspondan a los Municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto por el artículo 9 de la Ley de Coordinación. Además, son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por los Municipios con la autorización de la Legislatura del Estado e inscritas ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, a favor de la Federación, de la (sic) Instituciones de Crédito que operen en territorio nacional así como de personas físicas o morales de nacionalidad mexicana.
+###### ARTICULO 13.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+Las Participaciones que correspondan a los Municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo aquellas correspondientes al Fondo General de Participaciones, al Fondo de Fomento Municipal y a los recursos a que se refiere el artículo 4-A, fracción I, de la Ley de Coordinación, que podrán ser afectadas para el pago de obligaciones contraídas por los Municipios con la autorización del Congreso e inscritas a petición de éstos ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la Federación, de las Instituciones de Crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
+
+Las obligaciones de los Municipios se registrarán cuando cuenten con la garantía solidaria del Estado, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes Participaciones para responder a sus compromisos, de acuerdo con lo establecido en el Reglamento del Artículo 9o. de la Ley de Coordinación.
+
+Tratándose de obligaciones que se originen de la emisión de valores, para efectos de su inscripción en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, bastará con que se presente evidencia de dichos valores de acuerdo al procedimiento establecido en el Reglamento del Artículo 9o. de la Ley de Coordinación, en el entendido que dentro de los diez días hábiles siguientes a la inscripción de los mismos, deberá notificarse a la Secretaría de Hacienda y Crédito Público, su circulación o colocación; de lo contrario, se procederá a la cancelación de la inscripción.
+
+El Estado y Municipios efectuarán los pagos de las obligaciones contraídas en términos de este artículo, a través de fideicomisos o vehículos de fuente de pago o garantía de conformidad con lo dispuesto por la Ley de Deuda Pública.
 
 ###### ARTICULO 14.
 
-El Estado y los Municipios podrán afectar como fuente de pago o en garantía, de las obligaciones constitutivas de deuda pública las Participaciones y los recursos de los Fondos de Aportaciones para la Infraestructura Social y el de Aportaciones para el Fortalecimiento de las Entidades Federativas en un monto no mayor al 25% que anualmente les corresponda, de acuerdo con los mecanismos y sistemas de registros establecidos en la Ley de Deuda Pública Estatal y Municipal. El Estado deberá contar con un Registro Único de Obligaciones y Financiamientos y, deberá publicar en forma periódica, información con respecto a la situación de su deuda.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 15.
 
@@ -299,17 +343,23 @@ El Fondo de Aportaciones para la Infraestructura Social Municipal se constituir�
 
 El Estado por conducto de la Secretaría enterará este fondo a los Municipios de manera mensual en los primeros diez meses del año por partes iguales, de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 33 de la Ley de Coordinación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 17.
 
-El Fondo de Aportaciones para la Infraestructura Social Municipal, se destinará exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y pobreza extrema en los siguientes rubros: Agua potable, alcantarillado, drenaje y letrinas, urbanización municipal, electrificación rural y de colonias pobres, infraestructura básica de salud, infraestructura básica educativa, mejoramiento de vivienda, caminos rurales, e infraestructura productiva rural.
+El Fondo de Aportaciones para la Infraestructura Social Municipal, se destinará exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de su población en pobreza extrema, localidades con alto o muy alto nivel de rezago social, en los siguientes rubros: Agua potable, alcantarillado, drenaje y letrinas, urbanización municipal, electrificación rural y de colonias pobres, infraestructura básica de salud, infraestructura básica educativa, mejoramiento de vivienda, así como el mantenimiento de infraestructura, conforme a lo señalado en el catálogo de acciones establecido en los Lineamientos que emita la Secretaría de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Los Municipios podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan, para la realización de un programa de desarrollo Institucional. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno del Estado, a través de la Secretaría de Finanzas, Secretaría de Desarrollo Social y Humano, y el Municipio de que se trate.
+Para lo anterior, se utilizará la información de pobreza extrema más reciente a nivel municipal publicada por el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Adicionalmente los Municipios podrán destinar hasta el 3% de los recursos correspondientes en cada caso, para ser aplicados como gastos indirectos a las obras señaladas en el presente artículo.
+Los Municipios podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan, para la realización de un Programa de Desarrollo Institucional Municipal. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno del Estado, a través de la Secretaría de Desarrollo Social y Humano y el Municipio de que se trate. Los recursos de este programa podrán utilizarse para la elaboración de proyectos con la finalidad de fortalecer las capacidades de gestión del Municipio, de acuerdo con lo señalado en el catálogo de acciones establecido en los Lineamientos que emita la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Adicionalmente los Municipios podrán destinar hasta el 3% de los recursos correspondientes de este Fondo de Aportaciones para ser aplicados como gastos indirectos para la verificación y seguimiento de las obras y acciones que se realicen, así como para la realización de estudios y la evaluación de proyectos que cumplan con los fines específicos a que se refiere este artículo.
 
 Respecto de dichas aportaciones los Municipios deberán:
 
@@ -319,25 +369,55 @@ II. Promover la participación de las comunidades beneficiarias en su destino, a
 
 III. Informar a sus habitantes, al término de cada ejercicio, sobre los resultados alcanzados;
 
-IV. Proporcionar a la Secretaría de Desarrollo Social, la información que sobre la utilización del Fondo de Aportaciones para la Infraestructura Social les sea requerida por conducto del Estado, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-V. Procurar que las obras que realicen con los recursos de los fondos sean compatibles con la preservación y protección del medio ambiente y que impulsen el desarrollo sustentable.
+IV. Proporcionar a la Secretaría de Desarrollo Social, la información que sobre la utilización del Fondo de Aportaciones para la Infraestructura Social Municipal les sea requerida por conducto de la Secretaría de Desarrollo Social y Humano;
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Asimismo, el Fondo de Aportaciones para la Infraestructura Social Municipal, podrá afectarse en un monto no mayor al 25% que anualmente le corresponde a los municipios, para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraiga el Municipio correspondiente.
+V. Reportar trimestralmente a la Secretaría de Desarrollo Social y Secretaría de Hacienda y Crédito Público, el seguimiento sobre el uso de Aportaciones, en los términos que establecen los artículos 23 A y 23 B de esta Ley, así como con base en el informe anual sobre la situación de su pobreza y rezago social. Asimismo, deberán proporcionar la información adicional que soliciten dichas Secretarías para la supervisión y seguimiento de los recursos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VI. Procurar que las obras que realicen con los recursos de los Fondos de Aportaciones sean compatibles con la preservación y protección del medio ambiente y que impulsen el desarrollo sostenible, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII. Publicar trimestralmente en su página oficial de internet las obras financiadas con los recursos de los Fondos de Aportaciones.
+
+Dichas publicaciones deberán contener, entre otros datos:
+
+a) La información del contrato bajo el cual se celebra;
+
+b) Informes trimestrales de los avances físico y financiero;
+
+c) Evidencias de conclusión, e
+
+d) Indicadores de desempeño.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, el Fondo de Aportaciones para la Infraestructura Social Municipal, podrá afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con la autorización del Congreso y se inscriban a petición del Estado o Municipio, ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, así como el Registro Único de Obligaciones y Empréstitos a que se refiere el quinto párrafo del artículo 9 de la Ley de Coordinación, de igual manera se registrará en el Registro a que alude la Ley de Deuda Pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Los Municipios que contraigan obligaciones al amparo de este artículo, no podrán destinar más del 25% de los recursos que anualmente les correspondan.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 18.
 
-El Estado por conducto de la Secretaría distribuirá entre los Municipios los recursos del Fondo para la Infraestructura Social Municipal, de acuerdo con la formula que para tal efecto señale la Ley de Coordinación, que enfatice el carácter redistributivo de estas aportaciones hacia aquellos Municipios con mayor magnitud y profundidad de pobreza extrema.
+El Estado por conducto de la Secretaría distribuirá entre los Municipios los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal, de acuerdo con la fórmula que se establece en la Ley de Coordinación.
 
-El Gobierno del Estado deberá publicar en el Periódico Oficial y en dos Periódicos de los de mayor circulación en la Entidad a más tardar el 31 de enero de cada ejercicio fiscal, los montos correspondientes a cada Municipio así como la fórmula, metodología y calendario de enteros.
+La fórmula del Fondo de Aportaciones para la Infraestructura Social Municipal no será aplicable en el evento de que en el año de cálculo dicho Fondo sea inferior a la participación que la totalidad de los Municipios hayan recibido en el 2013 por concepto del mismo Fondo. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo con el coeficiente efectivo que cada Municipio haya recibido por concepto del Fondo de Aportaciones para la Infraestructura Social Municipal en el año 2013.
+
+El Estado por conducto de la Secretaría publicará en el Periódico Oficial del Estado a más tardar el 31 de enero de cada ejercicio fiscal, los montos correspondientes a cada Municipio así como la fórmula, metodología y calendario de enteros.
 
 ###### ARTICULO 19.
 
 Las Aportaciones y accesorios del Fondo para la Infraestructura Social Municipal no serán embargables, y no podrán ser gravadas, afectadas en garantía ni destinadas a fines distintos a los previstos en la Ley de Coordinación y la presente Ley.
 
-Dichas aportaciones serán administradas y ejercidas por los Municipios, conforme a sus propias leyes y en su caso por las disposiciones que para tal efecto se establezcan, por tanto deberán registrarlas como ingresos propios.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 20.
 
@@ -347,37 +427,55 @@ El Estado por conducto de la Secretaría, enterará mensualmente este fondo por 
 
 Al efecto, el Gobierno del Estado deberá publicar en el Periódico Oficial y en dos Periódicos de los de mayor circulación en la Entidad los montos que corresponda a cada Municipio por concepto de este fondo, así como el calendario de ministración, a más tardar el 31 de enero de cada año.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 21.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios, se destinará exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras, al pago de derechos y aprovechamientos por concepto de agua y a la atención de las necesidades vinculadas con la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo a este fondo, los Municipios tendrán las obligaciones a que se refieren las fracciones I y III del artículo 17 de esta Ley.
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios, se destinará exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras, al pago de derechos y aprovechamientos por concepto de agua, descargas de aguas residuales, modernización de los sistemas de recaudación, mantenimiento de infraestructura y a la atención de las necesidades vinculadas con la seguridad pública de sus habitantes.
+
+Respecto de los recursos que reciban con cargo a este Fondo de Aportaciones, los Municipios tendrán las obligaciones a que se refieren las fracciones I, III, IV y V del artículo 17 de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 22.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios se distribuirá en proporción directa al número de habitantes con que cuente cada Municipio, de acuerdo a la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística, Geografía e Informática.
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios se distribuirá en proporción directa al número de habitantes con que cuente cada Municipio, de acuerdo a la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística y Geografía.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
-Las aportaciones y accesorios del Fondo para el Fortalecimiento de los Municipios no serán embargables, y no podrán ser gravadas, afectadas en garantía ni destinadas a fines distintos a los previstos en la Ley de Coordinación y la presente Ley, salvo para afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua.
+Las Aportaciones y accesorios del Fondo de Aportaciones para el Fortalecimiento de los Municipios no serán embargables, y no podrán ser gravadas, afectadas en garantía ni destinadas a fines distintos a los previstos en la Ley de Coordinación y la presente Ley, salvo para afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales.
 
-Dichas aportaciones serán administradas y ejercidas por los Municipios, conforme a sus propias leyes y en su caso por las disposiciones que para tal efecto se establezcan, por tanto los Municipios deberán registrarlas como ingresos propios.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-En caso de incumplimiento por parte de los municipios a sus obligaciones de pago de derechos y aprovechamientos por concepto de agua, la Comisión Nacional del Agua podrá solicitar al Gobierno Estatal, previa acreditación del incumplimiento, la retención y pago del adeudo con cargo a los recursos del Fondo mencionado en el primer párrafo de este artículo que correspondan al Municipio de que se trate, conforme a lo dispuesto por el artículo 21 de esta Ley. La Comisión Nacional del Agua sólo podrá solicitar la retención y pago señalados cuando el adeudo tenga una antigüedad mayor a 90 días naturales; solicitud que el Gobierno Estatal hará del conocimiento del Municipio correspondiente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+En caso de incumplimiento por parte de los Municipios a sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, la Comisión Nacional del Agua podrá solicitar al Gobierno Estatal, previa acreditación del incumplimiento, la retención y pago del adeudo con cargo a los recursos del Fondo de Aportaciones a que se refiere el primer párrafo de este artículo, conforme a lo dispuesto por el artículo 21 de esta Ley. La Comisión Nacional del Agua sólo podrá solicitar la retención y pago señalados cuando el adeudo tenga una antigüedad mayor a 90 días naturales; solicitud que el Gobierno Estatal hará del conocimiento del Municipio correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 Lo previsto en el párrafo anterior, será aplicable aún y cuando el servicio de suministro de agua no sea proporcionado directamente por la Comisión Nacional del Agua, sino a través de organismos prestadores del servicio.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
 La Comisión Nacional del Agua podrá ceder, afectar y en términos generales transferir los recursos derivados de la retención a que se refiere este artículo a fideicomisos u otros mecanismos de fuente de pago o de garantía constituidos para el financiamiento de infraestructura prioritaria en las materias de abastecimiento de agua potable, drenaje o saneamiento de aguas residuales.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-ARTÍCULO 23 A.- El Estado enviará al Ejecutivo Federal, por conducto de la Secretaría, informes sobre el ejercicio y destino de los recursos de los Fondos de Aportaciones Federales a que se refiere este Capítulo.
+ARTICULO 23 A.- El Estado ministrará al ejecutor de gasto, los recursos que le corresponda de las Aportaciones de conformidad con el presupuesto autorizado por la Federación, en un plazo máximo de cinco días hábiles, contados a partir de la recepción del recurso en la cuenta bancaria especifica productiva aperturada para tal propósito, una vez recepcionada la ministración correspondiente.
 
-Para los efectos del párrafo anterior, el Estado reportará tanto su información, como aquélla de sus Municipios, en los Fondos que correspondan, señalando los resultados obtenidos; y remitiendo la información consolidada a más tardar a los 20 días naturales posteriores a la terminación de cada trimestre del ejercicio fiscal.
+Los ejecutores de gasto estatal que ejerzan recursos provenientes de las Aportaciones a que se refiere la Ley de Coordinación, serán responsables de realizar los registros en los sistemas electrónicos de presupuesto y contabilidad gubernamental, así como de la guarda y custodia de la documentación justificativa y comprobatoria que resulte del ejercicio de las Aportaciones.
 
-El Estado y los Municipios publicarán los informes a que se refiere el párrafo primero de este artículo en los medios locales de difusión, y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de internet o de otros medios locales de difusión, a más tardar a los 5 días hábiles posteriores a la fecha señalada en el párrafo anterior.
+Es responsabilidad de los ejecutores de gasto a quienes se les destinen recursos provenientes de Aportaciones proporcionar los documentos, informes y demás soportes que comprueben la administración y ejercicio de dichos recursos a los órganos de control y fiscalización federales y estatales.
+
+Los rendimientos financieros que se generen en las cuentas bancarias productivas específicas deberán ser depositados a la Secretaría en los primeros diez días de cada mes las economías en gasto de operación y remanentes dentro de los primeros diez días del mes de enero del año siguiente al que correspondan.
+
+La Contraloría como órgano de control interno de la administración pública tendrá a su cargo la supervisión y vigilancia de que el ejercicio de los recursos de las Aportaciones se destinen y se ejerzan en los fines que se establecen en la Ley de Coordinación y que se hayan observado las disposiciones aplicables.
+
+El Estado a través de la Secretaría reportará tanto su información, como aquélla de sus Municipios, en los Fondos que correspondan, señalando los resultados obtenidos en el ejercicio y destino de los recursos, remitiendo la información consolidada a más tardar a los veinte días naturales posteriores a la terminación de cada trimestre. Dichos informes deberán ser publicados en el Periódico Oficial del Estado.
+
+El Estado y los Municipios los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de internet o de otros medios locales de difusión a más tardar a los cinco días hábiles posteriores a la fecha señalada en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -465,11 +563,11 @@ Cuando las autoridades fiscales municipales actúen con base en los convenios re
 
 ### CAPITULO CUARTO. DE LOS INGRESOS ESTATALES PARTICIPABLES A LOS MUNICIPIOS
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 28.
 
-El Estado por conducto de la Secretaría, constituirá con el 20% de las cantidades que perciba en el ejercicio que se trate por concepto del Impuesto sobre Tenencia o Uso de Vehículos a que se refiere el TÍTULO SEGUNDO.- DE LOS IMPUESTOS.- CAPÍTULO IV, APARTADO B.- VEHÍCULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR de la Ley de Hacienda del Estado de Oaxaca, un Fondo que se participará a los municipios de la entidad, con base en el incremento de sus ingresos propios por encima de la inflación y de las disposiciones que al efecto establezca la Secretaría.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -694,3 +792,31 @@ P.O. 17 DE DICIEMBRE DE 2011.
 P.O. 22 DE DICIEMBRE DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil catorce, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Las retenciones y pagos que se realicen con cargo a los recursos del Fondo para el Fortalecimiento de los Municipios por adeudos que correspondan al Municipio, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, a que se refiere el artículo 51 de la Ley de Coordinación, relativos a los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, podrán efectuarse de manera gradual, con base en al menos los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada Municipio por concepto del citado Fondo, considerando el 100% de la facturación de los conceptos referidos
+
+Ejercicio Fiscal Porcentaje de Retención
+
+2014 50%
+
+2015 60%
+
+2016 75%
+
+2017 85%
+
+2018 100%
+
+TERCERO: El coeficiente CPi,t a que se refiere la fórmula establecida en el artículo 7 de esta Ley, entrara en vigor el uno de enero de 2015.
+
+En el ejercicio fiscal 2014, la totalidad del excedente a que se refiere dicha fórmula se distribuirá conforme al Coeficiente CPAi,t.
+
+CUARTO: Lo dispuesto en la fracción X del artículo 5, así como lo dispuesto en el artículo 7 C de esta Ley, entrarán en vigor el uno de enero de 2015.
+
+QUINTO: La Comisión Nacional del Agua sólo podrá solicitar la retención a que se refiere el artículo 23 de esta Ley para el cobro de adeudos que se generen a partir del uno de enero de 2014, por concepto de derechos y aprovechamientos de agua y descargas de aguas residuales.
+
+SEXTO: La fracción VII del artículo 17 de esta Ley, entrará en vigor a partir del uno de enero de 2016.
