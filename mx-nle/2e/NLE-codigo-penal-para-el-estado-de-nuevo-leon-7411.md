@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2013-07-10"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -1983,7 +1983,9 @@ LAS PENAS SEÑALADAS EN ESTE ARTICULO, SE AUMENTARAN DESDE UN TERCIO HASTA UN TA
 
 SE IMPONDRA PRISION DE UNO A CINCO AÑOS Y MULTA DE CINCUENTA A DOSCIENTAS CUOTAS, AL QUE FABRIQUE O REPRODUZCA IMAGENES U OBJETOS OBSCENOS, CON EL FIN DE HACERLOS CIRCULAR PUBLICAMENTE, ASI COMO A QUIENES LOS EXPONGAN, DISTRIBUYAN O HAGAN CIRCULAR Y AFECTEN LA MORAL PUBLICA O PROVOQUEN LA LIBIDO DE QUIENES LOS CONTEMPLEN.
 
-IGUAL PENA SE IMPONDRA AL QUE EN SITIO PUBLICO, POR CUALQUIER MEDIO, EJECUTE O HAGA EJECUTAR POR OTROS, EXHIBICIONES CORPORALES CONTRARIAS AL PUDOR O QUE PROVOQUEN LA IMPUDICIA.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IGUAL PENA SE IMPONDRA AL QUE EN SITIO PUBLICO, POR CUALQUIER MEDIO, EJECUTE O HAGA EJECUTAR POR OTROS, EXHIBICIONES CORPORALES CONTRARIAS AL PUDOR O QUE PROVOQUEN LA IMPUDICIA. SI LA EXHIBICION A QUE SE REFIERE ESTE PARRAFO SE REALIZA ANTE UNO O VARIOS MENORES DE EDAD, YA SEA EN SITIO PUBLICO O PRIVADO, SE IMPONDRA PRISION DE DOS A SIETE AÑOS DE PRISION Y MULTA DE DOSCIENTAS A CUATROCIENTAS CUOTAS.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2004)</small>
 
@@ -3121,7 +3123,7 @@ EN TODO CASO SE ENTENDERA POR OBTENCION, ADEMAS DE LA EXPEDICION POR PARTE DE LA
 
 ### CAPITULO I. ATENTADOS AL PUDOR
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 255.
 
@@ -3195,7 +3197,7 @@ LAS DISPOSICIONES CONTENIDAS EN ESTE TITULO SE APLICARAN EN LO QUE NO ESTUVIERE 
 
 ###### ARTICULO 259.
 
-COMETE EL DELITO DE ATENTADOS AL PUDOR, EL QUE SIN CONSENTIMIENTO DE UNA PERSONA, PUBER O IMPUBER, O CON CONSENTIMIENTO DE ESTA ULTIMA, EJECUTE EN ELLA O LOGRE SE EJECUTE EN LA PERSONA DEL ACTIVO, O EN UNA PERSONA QUE POR CUALQUIER CAUSA NO PUDIERE RESISTIR, UN ACTO EROTICO-SEXUAL, SIN EL PROPOSITO DIRECTO E INMEDIATO DE LLEGAR A LA COPULA.
+COMETE EL DELITO DE ATENTADOS AL PUDOR, EL QUE SIN CONSENTIMIENTO DE UNA PERSONA, SEA MAYOR O MENOR DE EDAD, O AUN CON CONSENTIMIENTO DE ESTA ULTIMA, EJECUTE EN ELLA O LOGRE SE EJECUTE EN LA PERSONA DEL ACTIVO, O EN UNA PERSONA QUE POR CUALQUIER CAUSA NO PUDIERE RESISTIR, UN ACTO EROTICO-SEXUAL, SIN EL PROPOSITO DIRECTO E INMEDIATO DE LLEGAR A LA COPULA.
 
 ###### ARTICULO 260.
 
@@ -5849,7 +5851,7 @@ Segundo.- El Consejo Interinstitucional a que se refiere la Ley para Prevenir, A
 
 Tercero.- Las dependencias y entidades del Ejecutivo Estatal y municipal, que tengan entre sus atribuciones la asistencia a víctimas de algún tipo de delito, deberán incluir a partir del ejercicio fiscal 2011 y en los subsecuentes, dentro de sus presupuestos anuales, recursos suficientes para la implementación de programas y acciones para prevenir, atender, combatir y erradicar la trata de personas.
 
-Cuarto.- La Procuraduría General de Justicia en el Estado, deberá incluir a partir del ejercicio fiscal 2011 y en los subsecuentes, dentro de su presupuesto anual, recursos suficientes, para iniciar fa construcción del albergue a que se refiere esta Ley y el Articulo Tercero Transitorio, así como el necesario para su funcionamiento y administración.
+Cuarto.- La Procuraduría General de Justicia en el Estado, deberá incluir a partir del ejercicio fiscal 2011 y en los subsecuentes, dentro de su presupuesto anual, recursos suficientes, para iniciar la construcción del albergue a que se refiere esta Ley y el Articulo Tercero Transitorio, así como el necesario para su funcionamiento y administración.
 
 Quinto.- En tanto no exista disponibilidad del albergue, la Procuraduría General de Justicia del Estado de Nuevo León, será la responsable de velar por la seguridad de las víctimas del delito de trata de personas.
 
@@ -5996,3 +5998,7 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del decreto por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública publicado el 30 de noviembre de 2010 en el Diario Oficial de la Federación y los Artículos Transitorios Décimo y Décimo Primero del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública, publicado el 14 de junio de 2012 en el Diario Oficial de la Federación.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
