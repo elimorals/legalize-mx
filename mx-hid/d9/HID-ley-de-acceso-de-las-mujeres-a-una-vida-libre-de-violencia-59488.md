@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2013-09-02"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -365,7 +365,9 @@ La representación social podrá, a su vez, solicitar las órdenes de protecció
 
 En virtud de la notoria urgencia, en los Municipios, la aplicación de las órdenes de protección le corresponderá a los Conciliadores Municipales, con el auxilio de la Policía Municipal; una vez concedida dicha medida de protección, el Conciliador Municipal, deberá hacerlo del conocimiento a la autoridad competente, de conformidad con el procedimiento y observancia que determine el Reglamento o acuerdo conducente. La mujer que vive la violencia familiar o sexual podrá elegir, ante cuál de las autoridades solicitarlas, salvo para las órdenes de naturaleza civil o familiar, que se otorgan por el Juez de la materia.
 
-Las órdenes a que se refiere este Artículo, se otorgarán de conformidad con el procedimiento, tiempo y observancia que establezca el Reglamento de la presente Ley, estableciéndose su duración y, los casos en que son prorrogables.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+La duración de las órdenes de protección será hasta que la víctima de la violencia deje de estar expuesta al riesgo.
 
 ###### ARTÍCULO 26.
 
@@ -1082,3 +1084,9 @@ PRIMERO. El presente Decreto entrará en vigor a (sic) día siguiente de su publ
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado de Hidalgo dispondrá que la presente Ley, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el territorio Estatal, así como, la difusión entre las diferentes dependencias educativas y de Gobierno en sus respectivos órdenes.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
