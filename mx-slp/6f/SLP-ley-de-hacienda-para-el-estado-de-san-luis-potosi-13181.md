@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2012-12-22"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -63,9 +63,11 @@ Cuando en esta Ley se haga referencia al salario mínimo, se entenderá que es e
 
 ### CAPITULO I. IMPUESTO SOBRE ADQUISICION DE VEHICULOS AUTOMOTORES USADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 5º.
 
-Son sujetos de este impuesto, las personas físicas o morales que adquieran vehículos automotores usados por cualquier título o causa, cuando por dichas operaciones no se cause el Impuesto al Valor Agregado.
+Son sujetos de este impuesto, las personas físicas o morales que adquieran vehículos automotores usados por cualquier título o causa.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
@@ -375,13 +377,11 @@ Son sujetos de este impuesto las personas físicas y morales que realicen las er
 
 La base del impuesto es el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal, en términos del artículo 20 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
-Este impuesto se causará, liquidará y pagará aplicando la tasa del dos por ciento sobre la base que señala el artículo anterior.
+El Impuesto se causará, liquidará y pagará aplicando la tasa del dos punto cinco por ciento sobre la base que señala el artículo anterior.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -427,13 +427,19 @@ III. Presentar los avisos, datos, documentos e informes que les soliciten las au
 
 IV. Llevar un registro acorde con sus sistemas de contabilidad, en el que consignarán tanto el monto de las erogaciones realizadas para remunerar el trabajo personal subordinado en el Estado, como los conceptos por los cuales se efectuaron tales erogaciones;
 
-V. En el caso de que dos o más establecimientos se encuentren ubicados en la misma localidad, el contribuyente deberá señalarlos todos en el aviso de inscripción, indicando el que deberá considerarse como domicilio para efectos fiscales; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. En el caso de que dos o más establecimientos se encuentren ubicados en la misma localidad, el contribuyente deberá señalarlos todos en el aviso de inscripción, indicando el que deberá considerarse como domicilio para efectos fiscales;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VI. En el caso de que los contribuyentes de este impuesto gocen de incentivo y/o beneficio fiscal, deberán cumplir con todas las obligaciones que se le imponen para gozar de ese beneficio.
+VI. En el caso de que los contribuyentes de este impuesto gocen de incentivo y/o beneficio fiscal, deberán cumplir con todas las obligaciones que se le imponen para gozar de ese beneficio, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII. Presentar mediante dictamen emitido por contador público autorizado, la determinación del pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, cuando se trate de contribuyentes que hayan realizado pagos a más de doscientos trabajadores en promedio mensual o contribuyentes que hayan erogado más de diez millones de pesos por este concepto en el ejercicio fiscal, debiendo presentar, el dictamen a más tardar el 30 de junio del ejercicio inmediato posterior al que se dictamina en los términos de los Códigos Fiscal de la Federación y del Estado y de las reglas de carácter general, que para tales efectos expidan las autoridades fiscales.
+
+En el caso de que en el Dictamen se determinen diferencias de impuestos a pagar, estas deberán enterarse mediante declaración complementaria en las oficinas autorizadas dentro de los diez días siguientes posteriores a la presentación del dictamen.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1125,17 +1131,17 @@ b) Por la razón de cierre y su autorización, 11.98.
 
 IV. Por el registro de nombramiento, sello y firma, se pagarán 4.78, respectivamente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+V. Por registro de convenios entre notarios, corredores públicos, o entre ambos, se pagarán 15.59;
 
-V. Por registro de convenios entre notarios, corredores públicos, o entre ambos, se pagarán 15.59, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. Por registro de nuevo sello notarial, 8.5.; y
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VI. Por registro de nuevo sello notarial, 8.5.
+VII. Por la expedición de certificados de existencia o no de testamentos públicos abiertos, cerrados o certificados, 1.9.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1389,11 +1395,9 @@ b) Ológrafo o Público cerrado, 2.6;
 
 c) Por las anotaciones en el índice de testamentos con los avisos de los notarios, comunicando las memorias testamentarias, 3.2.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-d) Por la expedición de certificados de existencia o no de testamentos, 1.9.
+d) Por la expedición de certificados de existencia o no de testamentos ológrafos, 1.9.
 
 II. Por expedición de certificados de gravamen o de libertad de éste, por cada predio y por gravamen 2.39. Cuando se trate de vivienda popular o de interés social se cobrará el 50% de lo estipulado en esta fracción;
 
@@ -1489,9 +1493,7 @@ Para los efectos de la obligación que la Ley de Peritos del Estado de San Luis 
 
 Por los servicios de control vehicular se causarán los derechos que se establecen a continuación en salarios mínimos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 I. Dotación de placas o su reposición (incluye tarjeta de circulación y calcomanía) que, en el primer caso deben adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo, y en el segundo caso dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente.
 
@@ -1499,9 +1501,9 @@ TIPO Servicio Servicio
 
 Público Particular
 
-a) Automóviles, 15.19 12.34
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-camiones y ómnibus
+a) Automóviles, camiones y ómnibus 15.19 15.19
 
 b) Remolques 8.28 8.28
 
@@ -1525,21 +1527,27 @@ h) Placas para autos antiguos No aplica 21.68
 
 Existe obligación de efectuar canje de placas cada tres años, de conformidad con las disposiciones de la Secretaría de Comunicaciones y Transportes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-II. Expedición de permiso para circular sin placa, o sin tarjeta de circulación, por día:
+II. Expedición de permiso para circular sin placa o sin tarjeta de circulación, por día:
 
 TIPO Servicio Servicio
 
 Público Particular
 
-a) Automóviles, camiones y ómnibus 0.68 0.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+a) Automóviles, camiones y ómnibus 0.68 0.68
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 b) Remolques 0.50 0.50
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 c) Motocicletas y motonetas 0.35 0.35
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 d) Bicicletas de motor 0.16 0.15
 
@@ -1549,9 +1557,9 @@ TIPO SERVICIO SERVICIO
 
 PUBLICO PARTICULAR
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-a) Automóviles, camiones y ómnibus 2.63 1.94
+a) Automóviles, camiones y ómnibus 2.63 2.63
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1571,9 +1579,9 @@ TIPO SERVICIO SERVICIO
 
 PUBLICO PARTICULAR
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-a) Automóviles, camiones y ómnibus 1.94 1.39
+a) Automóviles, camiones y ómnibus 1.94 1.94
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1587,35 +1595,27 @@ c) Motocicletas y motonetas 1.39 1.39
 
 d) Bicicletas de motor 0.19 0.19
 
-V. Dotación de calcomanía anual a vehículos con tarjeta de circulación vigente que debe adquirirse dentro de los tres primeros meses del año:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+V. Dotación de calcomanía anual a vehículos con tarjeta de circulación vigente que debe adquirirse dentro de los tres primeros meses del año:
 
 SERVICIO PUBLICO SERVICIO PARTICULAR
 
-5.25 3.32
+7.0 7.0
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 VI. Otros servicios no especificados en este artículo:
 
-TIPO SERVICIO SERVICIO
+TIPO SERVICIO PUBLICO SERVICIO PARTICULAR
 
-PUBLICO PARTICULAR
+a) Automóviles, camiones y ómnibus 1.94 1.94
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-a) Automóviles, camiones y ómnibus 1.94 1.39
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-b) Remolques 1.66 1.39
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+b) Remolques 1.66 1.66
 
 c) Motocicletas y motonetas 1.39 1.39
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-d) Bicicletas de motor 0.19 0.19
+d) Bicicletas de Motor 0.19 0.19
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1787,115 +1787,61 @@ Para los demás municipios se cubrirá el 75% de las tarifas señaladas en la fr
 
 II. Tratándose de bebidas con contenido mayor de 6% de alcohol volumen, se cobrará, para los que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale:
 
-TIPO PERMISO REFRENDO
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-INICIAL ANUAL
+REFRENDO ANUAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+a) Destilerías 142.48
 
-a) Destilerías 1,068.66 71.24
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Almacenes 284.98
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-b) Almacenes 1,068.66 142.49
+c) Bares 284.98
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+d) Cabarets, discotecas y ladies bar 572.00
 
-c) Bares 1,068.66 142.49
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+e) Licorerías y vinaterías 284.98
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-d) Cabarets, discotecas y 1,097.25 286.00
+f) Mini súper 193.60
 
-ladies bar
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+g) Abarrotes, tiendas, misceláneas y tendajones 142.56
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-e) Licorerías y vinaterías 1,068.66 142.49
+h) Supermercados 220
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+i) Restaurante bar 284.98
 
-f) Mini súper 726.00 96.80
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+j) Hoteles y moteles 284.98
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-g) Abarrotes, tiendas, 534.60 71.28
+k) Centros o clubes sociales deportivos o recreativos que dentro de sus instalaciones cuenten con áreas destinadas para estas clasificaciones 142.56
 
-misceláneas y tendajones
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+l) Salones de fiesta, centros sociales, o de convenciones que se renten para eventos; 200
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-h) Supermercados 825.00 110.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-i) Restaurante bar 1,068.66 142.49
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-j) Hoteles y moteles 1,068.66 142.49
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-k) Centros o clubes sociales 534.60 71.28
-
-deportivos o recreativos que
-
-dentro de sus instalaciones
-
-cuenten con áreas destinadas
-
-para estas clasificaciones
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-l) Salones de fiesta, 330.00 100.00
-
-centros sociales, o
-
-de convenciones que se
-
-renten para eventos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-m) Plazas de toros, 440.00 176.00
-
-lienzos charros, carriles
-
-para carreras de caballos,
-
-palenques, ferias municipales,
-
-estatales, regionales y
-
-nacionales
+m) Plazas de toros, lienzos charros, carriles para carreras de caballos, palenques, ferias municipales, estatales, regionales y nacionales 352
 
 n) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
@@ -1905,9 +1851,13 @@ o) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
 III. El otorgamiento de licencias temporales para la venta de bebidas con contenido alcohólico, para los establecimientos que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará las tarifas siguientes:
 
-a) Tratándose de bebidas con contenido alcohólico no mayor de 6% de alcohol volumen: quince días de salario mínimo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-b) Tratándose de bebidas con contenido alcohólico mayor de 6% de alcohol volumen: veinte días de salario mínimo.
+a) Tratándose de bebidas con contenido alcohólico no mayor a 6% de alcohol volumen: noventa días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+b) Tratándose de bebidas con contenido alcohólico mayor a 6% de alcohol volumen: ciento veinte días de salario mínimo.
 
 Para los demás municipios se cubrirá el 75% de las tarifas señaladas.
 
@@ -1915,9 +1865,13 @@ Para los demás municipios se cubrirá el 75% de las tarifas señaladas.
 
 IV. El otorgamiento de licencias temporales para degustación de bebidas con contenido alcohólico, para establecimientos que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará las tarifas siguientes:
 
-a) Tratándose de bebidas con contenido alcohólico no mayor de 6% de alcohol volumen: diez días de salario mínimo, por un plazo no mayor a cinco semanas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-b) Tratándose de bebidas con contenido alcohólico mayor de 6% de alcohol volumen: veinte días de salario mínimo, por un plazo no mayor a cinco semanas.
+a) Tratándose de bebidas con contenido alcohólico no mayor a 6% de alcohol volumen: cincuenta días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+b) Tratándose de bebidas con contenido alcohólico mayor a 6% de alcohol volumen: setenta días de salario mínimo.
 
 Para los demás municipios se cubrirá el 75% de las tarifas señaladas.
 
@@ -1943,13 +1897,77 @@ Serán de carácter gratuito el empadronamiento, traspaso, cambio de actividades
 
 En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión o sucesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Por el cambio de domicilio, tratándose de licencias para la venta al copeo permanente pagarán doscientos cincuenta salarios mínimos y tratándose de licencias para la venta en botella cerrada se pagarán ciento cincuenta salarios mínimos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 69.
 
-Por los avalúos que practique la Dirección de Catastro sé pagarán sobre los montos valuados 2.0 al millar.
+Por los servicios que preste la Dirección de Catastro se pagará los montos siguientes en salarios mínimos:
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+a) Por los avalúos se pagarán sobre los montos valuados 2.0 al millar. La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos, excepto los avalúos para adquisición de viviendas de interés social y popular, los derechos ascenderán a un máximo de 1 salario mínimo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+b) Por alta de predio al Padrón Catastral Estatal. 1.0
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+c) Por fusión de predios. 4.23
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+d) Por división de predio. 4.23
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+e) Por rectificación de predio. 4.23
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+f) Por inscripción de fraccionamiento por lote. 4.23
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+g) Por inscripción de condominio por cada uno. 4.23
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+h) Por emisión de constancias. 2.0
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+i) Por certificación de copia de documento. 1.0
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+j) Por certificación de no adeudo. 1.0
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+k) Por certificación de plano con 2 copias. 3.0
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+l) Por certificación y copia de documento. 1.10
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+m) Por copia simple de documento. 0.10
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+n) Por búsqueda de datos en los archivos. 1.26
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos, excepto lo que señala el último párrafo de este mismo artículo. Cuando sean avalúos de predios fuera de las cabeceras municipales, se incrementará en un 10% la tarifa aplicada, más el importe de los gastos de traslado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 Tratándose de avalúos para adquisición de viviendas de interés social o popular, o de cualquier otra constancia catastral para el mismo fin, los derechos ascenderán a un máximo de un día de salario mínimo.
 
@@ -2077,6 +2095,322 @@ En el caso de análisis físico-químico de los productos citados en el párrafo
 
 ### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+ARTICULO 93 BIS. Las personas que hagan uso de las siguientes carreteras de cuota estatal que forman parte de los bienes del dominio público del Estado, cubrirán los derechos establecidos en el presente artículo.
+
+I. Por el uso de la carretera San Luis Potosí-Bledos-Villa de Arriaga:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+a) Caseta "Calderón":
+
+Tramo San Luis Potosí - Villa de Arriaga
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 84.00
+
+B2 Autobús de pasajeros. 2 ejes 150.00
+
+B3 Autobús de pasajeros. 3 ejes 150.00
+
+B4 Autobús de pasajeros. 4 ejes 150.00
+
+C2 Camión de carga. 2 ejes 150.00
+
+C3 Camión de carga. 3 ejes 150.00
+
+C4 Camión de carga. 4 ejes 150.00
+
+C5 Camión de carga. 5 ejes 162.00
+
+C6 Camión de carga. 6 ejes 162.00
+
+C7 Camión de carga. 7 ejes 162.00
+
+C8 Camión de carga. 8 ejes 162.00
+
+C9 Camión de carga. 9 ejes 162.00
+
+Eje excedente 42.00
+
+Tramo San Luis Potosí - Villa de Reyes
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 28.00
+
+B2 Autobús de pasajeros. 2 ejes 58.00
+
+B3 Autobús de pasajeros. 3 ejes 58.00
+
+B4 Autobús de pasajeros. 4 ejes 58.00
+
+C2 Camión de carga. 2 ejes 58.00
+
+C3 Camión de carga. 3 ejes 58.00
+
+C4 Camión de carga. 4 ejes 58.00
+
+C5 Camión de carga. 5 ejes 63.00
+
+C6 Camión de carga. 6 ejes 63.00
+
+C7 Camión de carga. 7 ejes 63.00
+
+C8 Camión de carga. 8 ejes 63.00
+
+C9 Camión de carga. 9 ejes 63.00
+
+Eje excedente 42.00
+
+Tramo San Luis Potosí - Bledos
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 49.00
+
+B2 Autobús de pasajeros. 2 ejes 89.00
+
+B3 Autobús de pasajeros. 3 ejes 89.00
+
+B4 Autobús de pasajeros. 4 ejes 89.00
+
+C2 Camión de carga. 2 ejes 89.00
+
+C3 Camión de carga. 3 ejes 89.00
+
+C4 Camión de carga. 4 ejes 75.00
+
+C5 Camión de carga. 5 ejes 95.00
+
+C6 Camión de carga. 6 ejes 95.00
+
+C7 Camión de carga. 7 ejes 95.00
+
+C8 Camión de carga. 8 ejes 95.00
+
+Camión de carga. 9 ejes 95.00
+
+Eje excedente 42.00
+
+Tramo Villa de Reyes - Villa de Arriaga
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 50.00
+
+B2 Autobús de pasajeros. 2 ejes 92.00
+
+B3 Autobús de pasajeros. 3 ejes 92.00
+
+B4 Autobús de pasajeros. 4 ejes 92.00
+
+C2 Camión de carga. 2 ejes 92.00
+
+C3 Camión de carga. 3 ejes 92.00
+
+C4 Camión de carga. 4 ejes 92.00
+
+C5 Camión de carga. 5 ejes 99.00
+
+C6 Camión de carga. 6 ejes 99.00
+
+C7 Camión de carga. 7 ejes 99.00
+
+C8 Camión de carga. 8 ejes 99.00
+
+C9 Camión de carga. 9 ejes 99.00
+
+Eje excedente 42.00
+
+Cuotas aplicables a los ejidatarios de los núcleos agrarios Bledos y Villa de Reyes
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 16.00
+
+B2 Autobús de pasajeros. 2 ejes 25.00
+
+B3 Autobús de pasajeros. 3 ejes 30.00
+
+B4 Autobús de pasajeros. 4 ejes 30.00
+
+C2 Camión de carga. 2 ejes 30.00
+
+C3 Camión de carga. 3 ejes 30.00
+
+C4 Camión de carga. 4 ejes 30.00
+
+C5 Camión de carga. 5 ejes 30.00
+
+C6 Camión de carga. 6 ejes 30.00
+
+C7 Camión de carga. 7 ejes 30.00
+
+C8 Camión de carga. 8 ejes 30.00
+
+C9 Camión de carga. 9 ejes 30.00
+
+Eje excedente 42.00
+
+II. Por el uso de la primera etapa de la Supercarretera Central de San Luis Potosí, tramo San Luis Potosí - Río Verde:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+a) Caseta "Cerritos":
+
+Tramo San Luis Potosí - Río Verde
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 85.00
+
+B2 Autobús de pasajeros. 2 ejes 147.00
+
+B3 Autobús de pasajeros. 3 ejes 190.00
+
+B4 Autobús de pasajeros. 4 ejes 190.00
+
+C2 Camión de carga. 2 ejes 147.00
+
+C3 Camión de carga. 3 ejes 190.00
+
+C4 Camión de carga. 4 ejes 190.00
+
+C5 Camión de carga. 5 ejes 190.00
+
+C6 Camión de carga. 6 ejes 190.00
+
+C7 Camión de carga. 7 ejes 336.00
+
+C8 Camión de carga. 8 ejes 336.00
+
+C9 Camión de carga. 9 ejes 336.00
+
+Eje excedente 31.00
+
+Tramo San Luis Potosí - Cerritos
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 28.00
+
+B2 Autobús de pasajeros. 2 ejes 47.00
+
+B3 Autobús de pasajeros. 3 ejes 61.00
+
+B4 Autobús de pasajeros. 4 ejes 61.00
+
+C2 Camión de carga. 2 ejes 47.00
+
+C3 Camión de carga. 3 ejes 61.00
+
+C4 Camión de carga. 4 ejes 61.00
+
+C5 Camión de carga. 5 ejes 61.00
+
+C6 Camión de carga. 6 ejes 61.00
+
+C7 Camión de carga. 7 ejes 107.00
+
+C8 Camión de carga. 8 ejes 107.00
+
+C9 Camión de carga. 9 ejes 107.00
+
+Eje excedente 31.00
+
+Tramo Cerritos - Río Verde
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 57.00
+
+B2 Autobús de pasajeros. 2 ejes 100.00
+
+B3 Autobús de pasajeros. 3 ejes 129.00
+
+B4 Autobús de pasajeros. 4 ejes 129.00
+
+C2 Camión de carga. 2 ejes 100.00
+
+C3 Camión de carga. 3 ejes 129.00
+
+C4 Camión de carga. 4 ejes 129.00
+
+C5 Camión de carga. 5 ejes 129.00
+
+C6 Camión de carga. 6 ejes 129.00
+
+C7 Camión de carga. 7 ejes 229.00
+
+C8 Camión de carga. 8 ejes 229.00
+
+C9 Camión de carga. 9 ejes 229.00
+
+Eje excedente 31.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+b) Caseta auxiliar "Villa Juárez":
+
+Tramo Cerritos - Río Verde
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 42.00
+
+B2 Autobús de pasajeros. 2 ejes 73.00
+
+B3 Autobús de pasajeros. 3 ejes 95.00
+
+B4 Autobús de pasajeros. 4 ejes 95.00
+
+C2 Camión de carga. 2 ejes 73.00
+
+C3 Camión de carga. 3 ejes 95.00
+
+C4 Camión de carga. 4 ejes 95.00
+
+C5 Camión de carga. 5 ejes 95.00
+
+C6 Camión de carga. 6 ejes 95.00
+
+C7 Camión de carga. 7 ejes 168.00
+
+C8 Camión de carga. 8 ejes 168.00
+
+C9 Camión de carga. 9 ejes 168.00
+
+Eje excedente 31.00
+
+Las cantidades correspondientes a las cuotas de los derechos establecidos en el presente artículo, se actualizarán automáticamente en forma semestral en los meses de enero y julio mediante la aplicación del Indice Nacional del (sic) Precios al Consumidor, de conformidad con lo establecido en el artículo 17-A del Código Fiscal de la Federación. Dicha actualización se efectuará en períodos menores cuando el incremento de ese índice haya sido mayor a un 5%, en un lapso de menos de seis meses.
+
+Los derechos anteriores se cubrirán al cruzar las casetas establecidas y las que en un futuro se puedan constituir en razón de los flujos vehiculares y por el establecimiento y cruce de nuevos tramos carreteros y no estarán sujetos a lo dispuesto por el artículo 93 de la Ley de Hacienda para el Estado de San Luis Potosí.
+
+Los comprobantes de pago que se expidan en dichas casetas serán idóneos para acreditar el pago de los derechos.
+
+La recaudación obtenida en términos del presente artículo se destinará en su totalidad, en primer lugar, al mantenimiento y operación de cada carretera; después, a cubrir hasta su total extinción los financiamientos, adeudos y compromisos contraídos por el Estado con fuente de pago y/o garantía fiduciaria de dichos recursos; y, por último, al gasto público del Estado con sujeción a las leyes aplicables. Al efecto, cada año se harán las previsiones presupuestales correspondientes.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
@@ -2109,17 +2443,27 @@ Por lo que respecta al estacionamiento Plan de San Luis, la tarifa aplicable ser
 
 Los derechos anteriores no estarán sujetos a lo dispuesto por el artículo 93 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 93 QUATER. Será considerado igualmente como derechos los ingresos obtenidos por la Administración Pública del Estado por el uso de bienes del dominio público o por la prestación de los servicios que otorguen a la ciudadanía.
+
+Los conceptos y tarifas estarán descritos en la Ley de Ingresos vigente para el Estado y/o en su Anexo Único, así como los comprendidos en otras disposiciones legales.
+
 ###### ARTICULO 84.
 
 Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental de obras o actividades cuya evaluación corresponda al Gobierno del Estado, conforme a las siguientes tarifas expresadas en salarios mínimos:
 
-I. Por la recepción, evaluación y, en su caso, el otorgamiento de la resolución del informe preventivo, 100;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-II. Por la recepción y evaluación de la manifestación de impacto ambiental:
+I. Por la recepción, evaluación y, en su caso, la autorización de informe preventivo de impacto ambiental, cuando el proyecto se encuentre con uso de suelo definido y no se contraponga con el establecido por los Ayuntamientos, en su plan de centro de población, y existan normas oficiales mexicanas que regulen su operación, 100.
 
-a) En su modalidad particular, 150.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-b) En su modalidad regional, 200;
+II. Por la recepción y la evaluación de una manifestación, modalidad particular, cuando en el municipio donde se pretendan desarrollar los proyectos, no cuenten con plan de centro de población o se pretenda modificar el uso de suelo, por la operación de un banco de materiales o de préstamo menor a 100 hectáreas, 150.
+
+a) Por la evaluación de una manifestación en su modalidad regional (cuando los proyectos abarquen una superficie mayor a 100 hectáreas o su área de afectación sea similar a esta superficie), 200.
+
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 III. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad particular, 100;
 
@@ -2127,9 +2471,13 @@ IV. Por el otorgamiento de la autorización de la manifestación del impacto amb
 
 V. Por la evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental, 50;
 
-VI. Por la evaluación y resolución de la solicitud de ampliación de términos y plazos establecidos en la autorización de impacto ambiental, 30, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VII. Por la evaluación de la solicitud de exención de presentación de la manifestación de impacto ambiental, de las obras y actividades señaladas en el artículo 5º del Reglamento de la Ley Ambiental del Estado de San Luis Potosí, en Materia de Impacto Ambiental y Riesgo, 30.
+VI. Por la evaluación y la resolución de la solicitud de renovación de términos y plazos establecidos en la autorización de impacto ambiental, 30, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de presentación de un informe preventivo o manifestación de impacto ambiental y riesgo, 30.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2137,9 +2485,17 @@ VII. Por la evaluación de la solicitud de exención de presentación de la mani
 
 Por el otorgamiento del permiso de operación para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción estatal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en salarios mínimos:
 
-I. Por la recepción y evaluación de solicitud de permiso, 32, y
+I. Por la recepción y evaluación de solicitud de permiso, 32, y (sic)
 
 II. Actualización del permiso de operación, 20.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+III. Por la recepción y la evaluación de la cédula de Operación Anual para la renovación del permiso de operación, 20, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de permiso de operación de fuente fija, 30.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2153,35 +2509,61 @@ Por los servicios de verificación y certificación de equipos de medición de c
 
 Por la autorización de centros de verificación de emisiones contaminantes de vehículos automotores, 60 salarios mínimos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 88.
 
-Por la evaluación de cada solicitud y, en su caso, autorización de las siguientes actividades en materia de residuos industriales no peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en salarios mínimos:
+Por la evaluación de cada solicitud y, en su caso, autorización de las siguientes actividades en materia de residuos industriales no peligrosos, de manejo especial, se pagará el derecho de prevención y de control de la contaminación, conforme a las siguientes tarifas, expresadas en salarios mínimos:
 
-I. Operación de unidades para la recolección y transporte de residuos industriales no peligrosos, 40;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-II. Instalación y operación de sistemas de acopio y almacenamiento de residuos industriales no peligrosos, 20;
+I. Inscripción en el registro de generadores de residuos industriales no peligrosos de manejo especial, 40;
 
-III. Instalación y operación de sistemas de reciclaje, utilización, reutilización y tratamiento de residuos industriales no peligrosos, 15;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-IV. Prestación de servicios de manejo de residuos industriales no peligrosos, 40, y
+II. Autorización a empresas de servicios de recolección y transporte de residuos industriales no peligrosos de manejo especial, 40;
 
-V. Autorización a generadores para el manejo de residuos industriales no peligrosos, 25.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Por las solicitudes de transferencia, modificación o prórroga de la autorización otorgada, se pagará el 50% de la tarifa establecida en el presente artículo.
+III. Instalación y operación de sistemas de acopio y almacenamiento de residuos industriales no peligrosos de manejo especial, 40;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV. Instalación y operación de sistemas de reciclaje, utilización, reutilización y tratamiento de residuos industriales no peligrosos de manejo especial, 40, y (sic)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+V. Por las solicitudes de transferencia, modificación o renovación de la autorización otorgada, se pagarán 20 salarios mínimos.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VI. Por la renovación o modificación del registro otorgado, se pagará la mitad de la tarifa establecida en el presente artículo.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 88 BIS. Por la evaluación de cada solicitud y, en su caso, el registro del plan de manejo de residuos de manejo especial, se pagará el derecho de prevención de la generación y la valorización de los residuos, conforme a las siguientes tarifas expresadas en salarios mínimos:
+
+I. Registro del plan de manejo de residuos de manejo especial, de acuerdo a la NOM-161-SEMARNAT-2011, 12;
+
+III. Registro del plan de manejo de residuos de manejo especial de pequeños generadores, 6, y
+
+III. Por la renovación o la modificación del registro otorgado, se pagará la mitad de la tarifa establecida en el presente artículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 89.
 
-Por la evaluación y, en su caso, aprobación de los programas para la prevención de accidentes, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 30 salarios mínimos.
+Por la evaluación y, en su caso, aprobación de los programas para la prevención de accidentes, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 50 salarios mínimos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 90.
 
-Por la evaluación del estudio de riesgo ambiental, informe preliminar, se pagará el derecho de prevención y control de la contaminación de 15 salarios mínimos.
+Por la evaluación y, en su caso, aprobación del estudio de riesgo, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 50 salarios mínimos.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental, se pagará el 50% de la tarifa establecida en el presente artículo.
 
@@ -2497,7 +2879,9 @@ III. El rendimiento de capitales del Estado;
 
 IV. Las cuotas de recuperación captadas por dependencias del Estado;
 
-V. El rendimiento de los organismos descentralizados del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+V. Los ingresos obtenidos por la Administración Pública del Estado bajo este concepto, descritos en el Anexo Único de la Ley de Ingresos vigente para el Estado, así como los comprendidos en otras disposiciones legales.
 
 VI. La venta del Periódico Oficial y de otras publicaciones;
 
@@ -2563,13 +2947,29 @@ vehículos motorizados.
 
 V. Juego de formas de preliquidaciones de control vehicular. 1.00
 
-(sic). (DEROGADA, P.O. 27 DE DICIEMBRE DE 2006)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VII. Cartas político-geográficas del Estado en escala 1:500,000 c/u. 4.93
+VI. Juego de formas de Adquisición de Inmuebles. 0.49
+
+a) Block de juegos de forma de Traslado de dominio. 24.44
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII. Carta político-geográfica del Estado escala 1:500,000 c/u.
+
+a) Original impreso. 4.93
+
+b) Archivo digital. 20.0
 
 VII-A. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2006)
 
-VIII. Planos de cartas urbanas 1:10,000 c/u. 4.32
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VIII. Mapa de cabecera municipal escala 1:10,000 c/u.
+
+a) Original impreso. 4.32
+
+b) Archivo digital. 20.0
 
 IX. Por medición de terrenos y expedición de plano a escala de la medición efectuada.
 
@@ -2597,55 +2997,79 @@ Por hectárea con pendiente de 16 +- 45 grados. 18.00
 
 Por hectárea con pendiente de 45 grados o más. 22.50
 
-El excedente que resulte de las cuotas señaladas en los incisos a) y b) de esta fracción se reducirá en un 50% tratándose de inspecciones a superficies mayores a 2,000 m2 y a 10 hectáreas respectivamente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+El excedente que resulte de las cuotas señaladas en los incisos a), b) y c) de esta fracción, se reducirá en un 50% tratándose de inspecciones a superficies mayores a 2,000 m2. y a 10 hectáreas respectivamente.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 c). Deslinde en rebeldía de partes. 20.00
 
-X. Por copia de contacto en papel fotográfico blanco y negro en formato 23x23 cm. Escala 1:4,500. 3.80
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-XI. Por cada diapositiva blanco y negro en formato 23x23 escala 1:4,500. 5.20
+X. Mapa de cabecera municipal escala 1:15,000 ó 1:20,000 c/u.
 
-XIII (SIC). Por cada ampliación en papel fotográfico blanco y negro en formato:
+a) Original impreso. 6.0
 
-a) 2 x (0.5 x 0.5 M). 14.60
+b) Archivo digital. 20.0
 
-b) 4 x (1 x 1 M). 23.30
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-XIV. Por copia de contacto en papel fotográfico blanco y negro en formato de 23X23 cm, escala 1:20,000 y 1:35,000. 3.80
+XI. Mapa de límite municipal.
 
-XV. Por cada diapositiva blanco y negro en formato 23x23 cm. Escala 1:20,000 y 1:35,000. 6.80
+a) Original impreso. 2.0
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+b) Archivo digital. 10.0
 
-XVI. Por vértices de apoyo directo:
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-a) Por cada vértice de apoyo directo (incluyendo fotografía de contacto, con ubicación, listado de coordenadas universal, transversal de mercator y geográficas, así como un croquis). 76.40
-
-b) Por banco de nivel (incluyendo fotografía de contacto con ubicación, listado de coordenadas universal, transversal de mercator y geográficas. (Así como un croquis). 76.40
-
-c) Por cada vértice propagado fotográficamente. 23.30
-
-FORMA O PLANO VALOR
-
-XVII. Por cartografía a escala 1:1,000 en formato 18"x25" (0.4 km2).
+XII. Por carta urbana a escala 1:1,000.
 
 a) Original impreso.
 
-1) Manzanas, nomenclatura, en coordenadas universal, transversal de mercator. 16.80
+1. Manzanas, predios, construcciones, nomenclatura, cotas fotogramétricas en coordenadas universal transversal de Mercartor, en formato de 18"x 25" (0.4 km2.) 6.0
 
-2) Manzanas, nomenclatura cotas fotográficas, altimetría, en coordenadas Universal, transversal de mercator. 28.00
+2. En formato tamaño carta. 1.0
 
-3) Manzanas, predios, construcciones nomenclaturas, cotas fotogramétricas, en coordenadas universal, transversal de mercator. 33.60
+3. En 25% del formato. 2.0
 
-b) En formato digital.
+4. En 50 % del formato. 3.0
 
-1) Archivos DXF (manzanas, predios, nomenclaturas). 56.00
+b) En archivo digital DXF, DWG, DGN.
 
-2) Archivos DXF (manzanas, predios, construcciones, nomenclaturas, cotas fotográficas, en coordenadas universal ransversal (sic) mercator). 67.30
+1. Manzanas, -predios, construcciones, nomenclatura, cotas fotogramétricas en coordenadas universal transversal de Mercartor, en formato de 18"x 25" (0.4 km2.). 20.0
 
-c) Por copia en papel bond (manzanas, predios, construcciones, nomenclatura, cotas fotogramétricas, en coordenadas universal, transversal de mercator. 6.00
+c) Copia en papel bond.
+
+1. Manzanas, predios, construcciones, nomenclatura, cotas fotogramétricas en coordenadas universal transversal de Mercartor, en formato de 18"x 25" (0.4 km2.). 6.0
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XIII. Por copia de fotografía aérea en:
+
+a) Archivo digital. 3.8
+
+b) Copia en papel bond. 1.0
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XIV. Por copia en papel bond de:
+
+a) Plano tamaño carta. 1.0
+
+b) Plano tamaño hasta 50x50 cms. 2.0
+
+c) Plano tamaño de 51x51 cms. hasta 1.0x1.0 m. 4.0
+
+d) Plano de más de 1.0x1.0 m. 6.0
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XV. Fotomapa. 3.7
+
+XVI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
+
+XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2691,9 +3115,17 @@ IV. Los donativos, herencias y legados;
 
 V. Las fianzas, depósitos de dinero u otros valores constituidos como garantía y que se ordene hacer efectivos a favor del Estado en procedimientos judiciales;
 
-VI. Los bienes que incautados a los responsables de los delitos por haber sido utilizados en la comisión de éstos, una vez que la sentencia respectiva haya causado ejecutoria; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VII. Otros no comprendidos en las fracciones anteriores, que legalmente pueda obtener el Estado.
+VI. Los bienes que incautados a los responsables de los delitos por haber sido utilizados en la comisión de éstos, una vez que la sentencia respectiva haya causado ejecutoria;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII. Los ingresos obtenidos por la Administración Pública del Estado bajo este concepto, descritos en el Anexo Único de la Ley de Ingresos vigente para el Estado, así como los comprendidos en otras disposiciones legales; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VIII. Otros no comprendidos en las fracciones anteriores, que legalmente pueda obtener el Estado.
 
 ###### ARTICULO 123.
 
@@ -2842,3 +3274,9 @@ PRIMERO. Este Decreto entrará en vigor el día uno de enero del año 2013, prev
 SEGUNDO. El Poder Ejecutivo del Estado contará con un plazo de sesenta días para llevar a cabo las modificaciones correspondientes, a las disposiciones reglamentarias aplicables.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor un día después al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que sean contrarias a lo dispuesto por el presente decreto.
