@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2013-07-10"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO DEJA DE SER APLICABLE EN FORMA GRADUAL Y SUCESIVA, EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO, Y QUEDA ABROGADO A PARTIR DEL 1 DE ENERO DE 2016, CON LAS EXCEPCIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL TERCERO AL SEXTO TRANSITORIOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -4601,11 +4603,9 @@ I. Los cometidos por culpa;
 
 II .Los de querella previstos en los Artículos 189, 235, 236, 262, 271 bis, 280, 282, 284, 285, 291, 300 en relación con el Artículo 301 fracción I, 300 en relación con el Artículo 301 fracción II, 338, 342, 344, 360, 381 en relación con el 382 fracción I, 382 fracción II, 383 en relación con el 382 fracción I, 383 en relación al 382 fracción II, 384 en relación con el 382 fracción I, 384 en relación al 382 fracción II, 385 fracción I, 385 fracción II, 386 en relación al 385 fracción I, 386 en relación al 385 fracción II, 392, 402 en relación con el 367;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-III. Los de oficio previstos en los Artículos 166 fracción I, 168, 171, 172 primer párrafo, 178, 180, 180 bis, 182, 183, 184, 196, 197, 197 bis, 198, 201 bis 1, 201 bis 2, 203, 205, 215 en relación con el 216 fracción I, 217 en relación con el 218 fracción I, 220 en relación con el 221 segundo párrafo, 222, 232, 233, 253, 255, 259, 260 bis, 271 bis 2, 274, 276, 278, 280 bis, 287 bis, 287 bis 2, 288, 289, 290, 295, 300 en relación con el Artículo 30; fracción II, 300 en relación con el Artículo 301 fracción II, 323, 329, 330, 332, 335, 336, 336 bis, 337, 353 bis, 364 en relación con el 367 fracción I, 364 en relación con el 367 fracción II, 373, 377, 378, 379, 380, 402 en relación con el 367 y 402 bis.
+III. Los de oficio previstos en los artículos 166 fracción I, 171, 172 primer párrafo, 178, 180, 180 bis, 182, 183, 184, 196, 197,197 bis, 198, 201 bis 1, 201 bis 2, 203, 205, 215 en relación con el 216 fracción I, 217 en relación con el 218 fracción I, 220 en relación con el 221 segundo párrafo, 222, 232, 233, 253, 259, 260 bis, 271 bis 2, 274, 276, 278, 280 bis, 287 bis, 287 bis 2, 295, 300 en relación con el Artículo 301 fracción I, 300 en relación con el Artículo 301 fracción II, 323, 332, 335, 336, 336 bis, 337, 353 bis, 364 en relación con el 367 fracción I, 364 en relación con el 367 fracción II, 373, 377, 378, 379, 380, 402 en relación con el 367 y 402 bis.
 
 Este procedimiento ante los Órganos Jurisdiccionales será preponderantemente Oral, se realizará sobre la base de la acusación y se regirá por los principios de oralidad, inmediación, concentración, continuidad, contradicción y publicidad, salvo las excepciones previstas en este Código y las Leyes aplicables. En lo no previsto por este capítulo, se aplicarán supletoriamente las normas comunes de este Código, siempre que las mismas no contravengan los citados principios.
 
@@ -5834,3 +5834,7 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del decreto por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública publicado el 30 de noviembre de 2010 en el Diario Oficial de la Federación y los Artículos Transitorios Décimo y Décimo Primero del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública, publicado el 14 de junio de 2012 en el Diario Oficial de la Federación.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
