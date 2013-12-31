@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-planeacion-y-76123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-30"
-last_updated: "2010-07-30"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL, DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y DESARROLLO REGIONAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de julio de 2010.
 
@@ -830,3 +832,43 @@ LIC. EDUARDO OVANDO MARTÍNEZ
 ENCARGADA DEL DESPACHO DE LA SECRETARÍA DE PLANEACIÓN Y DESARROLLO
 
 LIC. PAULA GUADALUPE GONZÁLEZ CETINA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día primero de enero del año 2014, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Hacienda del Estado publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el 25 de marzo de 2011 con todo y sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Secretaría de Planeación y Desarrollo Regional del Estado publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el 30 de julio 2010.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones reglamentarias de igual o menor jerarquía que se opongan al presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expidan los manuales que este Reglamento menciona, el Secretario resolverá las cuestiones que conforme a dichos manuales se deban regular.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos pendientes al entrar en vigor el presente Reglamento y que conforme al mismo correspondían a otras unidades, deberán pasar de una unidad a otra y se resolverán y tramitarán por aquella unidad a la que se le haya atribuido la competencia conforme al presente instrumento y se harán cargo de los mismos hasta su conclusión.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando las facultades y obligaciones de alguna Unidad Administrativa a que se refiere este Reglamento deban de ser ejercidas por otra Unidad Administrativa conforme a lo estipulado en el mismo, los recursos humanos, financieros materiales con que contaba pasarán a esta última, de conformidad con el ámbito de sus facultades que a cada una corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+Los lineamientos, criterios, acuerdos, convenios, guías y demás instrumentos de carácter jurídico o administrativo que hayan sido expedidos con anterioridad al presente Reglamento, continuarán en vigor hasta en cuanto no se opongan a las disposiciones del presente ordenamiento o hasta en tanto no se modifiquen o deje sin efectos.
+
+###### ARTÍCULO NOVENO.
+
+Cuando en este Reglamento Interior se dé una denominación nueva o distinta a alguna Unidad Administrativa establecida con anterioridad a la vigencia del mismo, aquélla atenderá los asuntos a que se refiere este ordenamiento.
