@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2013-03-02"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -207,11 +207,9 @@ IV. Actividades Académicas y/o Culturales: A las que desarrollen e impulsen la 
 
 Las actividades de este rubro que persigan fines económicos, serán tratadas como actividad empresarial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-### Capítulo Primero. Bienes de Dominio Público en Custodia de la Coordinación de Espacios Culturales
+### Capítulo Primero. Bienes de Dominio Público en Custodia de la Secretaría de las Culturas y Artes de Oaxaca
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -983,17 +981,11 @@ Artículo 17 A. Las personas físicas o morales a las que se les otorgue el uso,
 
 Pesos
 
-I Colocación de dispensadores de alimentos,
+I (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-por mes: $2,232.00
+II (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-II Colocación de dispensadores de bebidas
-
-calientes, por mes: $268.00
-
-III Colocación de dispensadores de bebidas
-
-frías, por mes: $3,571.00
+III (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 IV Colocación de cajeros de Instituciones
 
@@ -1285,6 +1277,26 @@ En las visitas guiadas se otorgará un estímulo fiscal del 50 por ciento a estu
 
 Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Artículo 19 B. Las personas físicas, morales y unidades económicas que soliciten el uso, goce o aprovechamiento de las instalaciones del Centro de las Artes de San Agustín, causarán y pagarán derechos de conformidad con las siguientes cuotas:
+
+Número de salarios
+
+Mínimos
+
+I Sesión fotográfica individual: 33.00
+
+II Sesión fotográfica grupal: 82.00
+
+III Talleres para fotografía, grabado tradicional,
+
+digital de producciones artísticas y culturales por
+
+actividad: 95.00
+
+IV Establecimiento comercial, por mes: 46.00
+
 ### Capítulo Primero. De los Servicios a cargo de la Administración Pública
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -1335,15 +1347,21 @@ Por hoja adicional se pagará $3.00
 
 IV Por la expedición de constancias de sueldo: 1.50
 
-V Por la expedición de copias certificadas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-de documentos, por cada hoja tamaño
+V. Por la expedición de copias
 
-carta u oficio: 0.18
+certificadas de expedientes: 0.18
 
-VII (SIC) Compulsa de documentos, por hoja: 0.17
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VIII Reposición o modificación de constancias: 0.14
+VI. Compulsa de documentos, por hoja: 0.17
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII. Reposición o modificación de
+
+constancias: 0.18
 
 No generará el pago de derechos la expedición de documentos o copias certificadas que sean solicitadas por las autoridades judiciales federales, locales y municipales, siempre que la solicitud no derive de la petición de un particular.
 
@@ -2297,11 +2315,11 @@ II Copias certificadas de Periódicos por hoja: 0.20
 
 III Disposición de:
 
-a) Ejemplar de la semana: 0.30
+a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-b) Ejemplar atrasado por año: 0.40
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-c) Ejemplar de años anteriores: 0.60
+c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 d) Ejemplar que contenga: Leyes, Reglamentos,
 
@@ -2335,17 +2353,27 @@ V Suscripción anual ordinarios del 1 al 52: 17.00
 
 VI Ejemplar que contenga convocatorias. 0.50
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 29.
 
-No se causará el pago de derechos de publicaciones a qua se refiere el artículo anterior, cuando se trate de la promulgación de leyes y decretos provenientes de la actividad del Poder Legislativo; decretos y acuerdos suscritos por el Titular del Poder Ejecutivo, así como los acuerdos del Pleno del Poder Judicial.
+No se causará el pago de derechos de publicaciones a que se refiere el artículo anterior, cuando se trate de la promulgación de leyes y decretos provenientes de la actividad del Poder Legislativo; decretos y acuerdos suscritos por el Titular del Poder Ejecutivo, acuerdos del Pleno del Poder Judicial, así como de los acuerdos y disposiciones emitidos por los Órganos Autónomos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 Los Poderes Legislativo y Judicial, Órganos Autónomos, Ayuntamientos, así como las Dependencias y Entidades de la Administración Pública Estatal, pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, estados financieros, convenios, edictos, cédulas de notificación, circulares, informes, avisos o aquellos que no cumplan con las características señaladas en el párrafo anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 Los Talleres Gráficos del Estado deberán proporcionar por lo menos dos ejemplares sin costo de todas las publicaciones al Poder Legislativo, al Archivo del Poder Ejecutivo del Estado, al Archivo General de la Nación y al Diario Oficial de la Federación con el propósito de conservarlos como parte de su acervo cultural; de igual manera deberá entregarse dos ejemplares a la persona física o moral que ordene y pague derechos por publicación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 Los ingresos recaudados por los servicios contenidos en esta sección se destinarán hasta por un 60 por ciento al programa de modernización tecnológica de los Talleres Gráficos del Estado. Para tal efecto deberá presentar informe dentro de los primeros diez días naturales de cada mes de los servicios prestados a fin de determinar los montos que serán asignados al programa de referencia.
 
@@ -2683,9 +2711,11 @@ b (sic) ) Especializada: 325.00
 
 Pesos
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 VIII Por la aplicación de evaluaciones de
 
-control de confianza: $3,000.00
+control de confianza: $6,000.00
 
 Los ingresos recaudados en las fracciones II a la VIII hasta por un 60 por ciento serán destinados a cubrir las erogaciones derivadas de los servicios que se prestan en el Centro de Desarrollo Infantil y los costos inherentes a la impartición de los cursos.
 
@@ -2817,7 +2847,9 @@ b) De servicio privado: 1.76
 
 IV Por toma de calcas, por unidad: 0.00
 
-El pago de los derechos contenidos en la fracción I, se efectuará dentro de los tres primeros meses de cada año.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Los concesionarios propietarios y/o tenedores de vehículos destinados al servicio público deberán someter a la revisión pericial dichos vehículos en los primeros tres meses de cada año.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2999,33 +3031,23 @@ I Por la integración de expediente para
 
 solicitar una concesión: 6.00
 
-II Por la integración de expedientes
+II (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-administrativos de regularización
-
-de concesiones en cualquier modalidad
-
-y tipo de unidad, por cesión de derechos
-
-entre particulares, causa hereditaria e
-
-invalidez; 5.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 III Por la expedición de copias simples
 
 de documentos que obren en archivo,
 
-excepto copia de concesiones, permisos
-
-o autorizaciones, hasta 20 hojas: 2.50
+hasta 20 hojas: 1.00
 
 IV Por hoja adicional: 0.05
 
-V Por la expedición de constancias de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-concesión y/o permiso provisional y/o
+V Por la expedición de
 
-definitivo: 3.50
+permiso por 60 días: 4.50
 
 VI Por certificación de documentos, excepto
 
@@ -3033,21 +3055,23 @@ de concesiones o permisos hasta 20 hojas: 6.50
 
 VII Por hoja adicional $3.00
 
-VIII Por la reexpedición o reposición
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-cuando proceda, de concesión o permiso,
+VIII Por la expedición de copia
 
-en cualquiera de sus modalidades y tipo
+certificada cuando proceda, de
 
-de unidades: 1.00
+concesión o servicio, en cualquiera
+
+de sus modalidades y tipo de unidades: 5.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 IX Por la expedición de títulos de concesión
 
-para el servicio público de vehículos cerrados
+para el servicio mixto de pasaje y carga con
 
-de carga exprés; servicio mixto de carga y
-
-pasaje con capacidad hasta tres toneladas: 198.00
+capacidad de hasta tres toneladas: 198.00
 
 X Por la expedición de títulos de concesión
 
@@ -3101,11 +3125,7 @@ centros de aprendizaje de conducción
 
 vehicular: 23.00
 
-XV Por la expedición de permiso para
-
-vehículos en modalidad de transporte especial,
-
-tipo grúa: 100.00
+XV (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 XVI Por la expedición de títulos de concesión
 
@@ -3163,11 +3183,13 @@ el servicio público de carga ligera con
 
 motocarro: 12.00
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 XXVI Renovación de concesión para el
 
-servicio público de carretilla y tracción
+servicio público de maniobras y acarreo
 
-animal: 12.00
+con carretilla y tracción animal 12.00
 
 XXVII Renovación de concesión para el
 
@@ -3175,11 +3197,7 @@ servicio público de transporte especial,
 
 tipo grúa: 97.00
 
-XXVIII Renovación de concesión para el
-
-servicio público en la modalidad de
-
-carretilleros: 4.00
+XXVIII (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 XXIX Renovación de concesión para el
 
@@ -3207,7 +3225,15 @@ c) En la modalidad de automóviles de alquiler
 
 por unidad: 177.00
 
-XXXI Por trámite de cambio de vehículo: 0.60
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XXXI Por trámite de cambio de vehículo: 1.05
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XXXII Renovación de permiso por única
+
+ocasión hasta por seis meses: 3.50
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3265,9 +3291,11 @@ similares con remolque y/o cabina
 
 destinados al servicio privado: 5.50
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 III Expedición de placas, por alta o canje
 
-total para vehículos de demostración: 2.00
+total para vehículos de demostración: 20.00
 
 IV Expedición de placas, calcomanía y
 
@@ -3299,23 +3327,29 @@ de vehículos en cualquiera de sus
 
 modalidades: 3.30
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 41.
 
-Los propietarios y/o tenedores de vehículos causarán y pagarán derechos por los conceptos y cuotas siguientes:
+Los propietarios y/o tenedores de vehículos causarán y pagarán derechos en el ejercicio fiscal que no se realice canje total de placas por los conceptos y cuotas siguientes:
 
 Número de salarios
 
 mínimos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 I Por el uso, goce o aprovechamiento de
 
 placas, calcomanía y tarjeta de circulación
 
 de vehículos destinados al servicio privado: 7.70
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 II Por el uso, goce o aprovechamiento de
 
@@ -3327,11 +3361,19 @@ con remolque y/o cabina destinados al
 
 servicio privado: 2.20
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 III Por el uso, goce o aprovechamiento de
 
 placas, calcomanía y tarjeta de circulación
 
 de vehículos destinados al servicio público: 11.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 IV Por el uso, goce o aprovechamiento de
 
@@ -3342,6 +3384,10 @@ de motocicletas y otros vehículos similares
 con remolque y/o cabina destinados al
 
 servicio público: 3.80
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 V Por el uso, goce o aprovechamiento de
 
@@ -3398,6 +3444,10 @@ c) 2 años 5.50
 V Reposición de licencias por pérdida
 
 o extravío en cualquiera de sus modalidades: 4.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de personas adultas mayores, se les otorgará el descuento del 50% de la cuota a que se (sic) el presente artículo para lo cual deberán presentar la credencial emitida a su favor por dicha institución documento oficial con fotografía.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4121,53 +4171,19 @@ Número de dispensarios: 1 150.00
 
 14 638.00
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 51.
 
-Causarán y pagarán derechos las personas físicas y morales que se registren en el Padrón de Prestadores de Servicios Ambientales, conforme a las siguientes cuotas:
+Causarán y pagarán derechos las personas físicas, morales o unidades económicas que se registren en el Padrón de Prestadores de Servicios Ambientales, conforme a las siguientes cuotas:
 
-Número de salarios
+Números de salarios
 
 mínimos
 
-I Por Inscripción de personas físicas que realicen:
+I Por inscripción 40.00
 
-a) Estudios de impacto ambiental: 220.00
-
-b) Estudios de riesgo ambiental: 220.00
-
-c) Estudios de emisiones a la atmósfera: 220.00
-
-d) Auditorías ambientales: 275.00
-
-II Por revalidación de personas físicas:
-
-a) Estudios de impacto ambiental: 110.00
-
-b) Estudios de riesgo ambiental: 110.00
-
-c) Estudios de emisiones a la atmósfera: 110.00
-
-d) Auditorías ambientales: 165.00
-
-III Por Inscripción de personas morales que realicen:
-
-a) Estudios de impacto ambiental: 75.00
-
-b) Estudios de riesgo ambiental: 75.00
-
-c) Estudios de emisiones a la atmósfera: 275.00
-
-d) Auditorías ambientales: 330.00
-
-IV Por revalidación de personas morales:
-
-a) Estudios de impacto ambiental: 165.00
-
-b) Estudios de riesgo ambiental: 165.00
-
-c) Estudios de emisiones a la atmósfera: 165.00
-
-d) Auditorías ambientales: 220.00
+II Por renovación 30.00
 
 ###### Artículo 52.
 
@@ -4207,35 +4223,23 @@ IV Autorización de cambio de propietario de centro de
 
 verificación de vehículos: 550.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 54.
 
-Las personas físicas y morales causarán y pagarán derechos por la verificación de emisiones a la atmosfera, conforme a las siguientes cuotas:
+Los propietarios y/o tenedores de vehículos, causarán y pagarán derechos por la verificación de emisiones a la atmosfera del 1 de enero al 30 de junio, conforme a las siguientes cuotas:
 
-Número de salarios
+Números de salarios
 
 mínimos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 I Verificación y holograma para
 
 vehículos particulares: 9.50
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
 II Verificación y holograma para
 
 vehículos doble cero: 10.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 III Verificación y holograma para
 
@@ -4243,21 +4247,37 @@ vehículos de uso intensivo: 12.80
 
 IV Constancia de rechazo 1.70
 
-###### Artículo 55.
+Los concesionarios del servicio de verificación de vehículos, causarán y pagarán derechos del 1 de julio al 31 de diciembre por los conceptos y cuotas siguientes:
 
-Causarán y pagarán derechos las personas físicas y morales a las que se evalúe y otorgue la autorización sobre:
-
-Número de salarios
+Números de salarios
 
 mínimos
 
-I Planes de residuos sólidos de manejo especial
+I Holograma para vehículos: 0.60
 
-generados por medianos y grandes generadores: 45.00
+II Constancia de rechazo: 0.14
 
-II Planes de regularización de sitios o tiraderos a
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-cielo abierto: 125.00
+###### Artículo 55.
+
+Causarán y pagarán derechos las personas físicas, morales o unidades económicas a las que se evalúe y otorgue la autorización sobre los conceptos y cuotas siguientes:
+
+Números de salarios
+
+mínimos
+
+I Evaluación de planes para medianos
+
+y grandes generadores: 45.00
+
+II Autorización de planes para medianos
+
+y grandes generadores: 50.00
+
+III Regularización de planes de sitios y
+
+tiraderos a cielo abierto: 125.00
 
 #### Sección Primera. Del Control Vehicular
 
@@ -4323,7 +4343,9 @@ Sección A $1,050.00
 
 Sección B $700.00
 
-La preventa abarcará del 1 al 30 de abril.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+La preventa abarcará del 1 de abril al 10 de junio.
 
 ### Capítulo Octavo. Por los Servicios que presta la Secretaría de Finanzas
 
@@ -4332,6 +4354,8 @@ La preventa abarcará del 1 al 30 de abril.
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 #### Sección Tercera. Servicios Catastrales
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 60.
 
@@ -4473,9 +4497,7 @@ II Pago de Inscripción a cursos semestrales: 11.55
 
 #### Sección Primera. Por los servicios que presta la Comisión Estatal del Agua
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 67.
 
@@ -4533,15 +4555,11 @@ V Por la expedición de constancias de no
 
 adeudo financiero: 1.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+VI Por la expedición de copias
 
-VI Por la expedición de copias certificadas
-
-de documentos, por hoja tamaño carta u
-
-oficio: 0.18
+certificadas de expedientes: 0.18
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4631,409 +4649,279 @@ a que alude la Ley de Deuda Pública: 5.00
 
 Para efectos de la fracción XI, cuando se trate de objetos cuyas dimensiones sean por fracción de la medida establecida, se cobrará en proporción al espacio que ocupe.
 
-#### Sección Segunda. Por el suministro de agua potable
+#### Sección Segunda. Por los Servicios de Agua Potable y Alcantarillado de Oaxaca
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 68.
 
-Las personas físicas y morales que soliciten los servicios catastrales de certificación causarán y pagarán derechos conforme a las siguientes cuotas:
+Las personas físicas, morales o unidades económicas que soliciten los trámites catastrales que a continuación se indican, causarán y pagarán derechos de conformidad a las siguientes cuotas:
 
-Número de salarios
+Números de salarios
 
 mínimos
 
-I Por registro catastral; del titular del registro
+I Registro catastral por cada bien
 
-catastral; del valor catastral; de las medidas
+Inmueble en el Sistema Integral de
 
-y colindancias del predio; por ubicación y
+Catastro, derivado de un traslado de
 
-superficie del predio; clave catastral,
+domino o por la cesión de derechos: 29.00
 
-sea en forma conjunta o separada: 2.00
+II Integración al Sistema Integral de Catastro
 
-II De cuenta catastral, por cada bien inmueble: 1.00
+por cada bien inmueble: 28.00
 
-III De no registro catastral, por cada persona: 1.00
+III Actualización de registro catastral en el
 
-IV De ubicación, por cada inmueble: 3.30
+Sistema Integral de Catastro de.
 
-V De manifiestos o avisos en general
+a) Valor Catastral, Medidas, construcción, por
 
-que sirvieron de base para la apertura de
+cada bien inmueble: 28.00
 
-registros catastrales, exceptuando el título de
+b) Datos que no alteren la superficie del predio y
 
-propiedad, en un periodo de 5 años
+la base catastral por cada bien inmueble: 3.50
 
-o fracción de año: 3.30
+IV Asignación o reasignación de registro catastral
 
-VI De copias transcritas de documentos
+en el Sistema Integral de Catastro, derivado de
 
-existente en el archivo catastral,
+la división o fusión de bienes inmuebles: 2.50
 
-por cada hoja: 5.50
+V Trámites urgentes de solicitudes catastrales
 
-VII Por los trabajos catastrales de verificación
+que cumplan con todos los requisitos legales y
 
-en la información cartográfica y/o física
+técnicos, para entregar al siguiente día hábil de
 
-de un inmueble para efectos de avalúo,
+haber efectuado el pago de los derechos: 8.00
 
-ocurso de corrección u otros: 5.50
+VI Por cancelación de registro de
 
-VIII Por reimpresión de la cédula catastral: 3.00
+cuenta catastral: 5.50
 
-IX De avalúo emitido por
+VII Por impresión de cada boleta a los
 
-Perito Valuador autorizado: 10.00
+Ayuntamientos que cuentan con convenio
+
+exclusivo de impresión de boletas: 0.16
+
+VIII Archivo digital del padrón municipal catastral
+
+a los Ayuntamientos que lo soliciten, por cada
+
+registro: 0.16
+
+IX Por reapertura de cuenta catastral: 5.00
+
+X Por cancelación de trámite. 3.00
+
+XI Por la práctica de avalúo comercial. 30.00
+
+XII Por la práctica de avalúo catastral: 20.00
+
+XIII Reimpresión de la cédula catastral: 3.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 69.
 
-Por servicio de expedición de información cartográfica, planimetría, consistente en límites de manzana y nombres de calles en papel bond membretado, se causarán y pagarán derechos conforme a las siguientes cuotas:
+Las personas físicas, morales o unidades económicas que soliciten servicios catastrales de certificación causarán y pagarán derechos conforme a los siguientes conceptos y cuotas:
 
-I Expedición de planos:
-
-a) Del año 1994 en la escala 1:1, 000
-
-Número de salarios
+Números de salarios
 
 mínimos
 
-De predio: 21.5x28 cm 0.88
+I No registro catastral por persona. 1.00
 
-De manzana: 21.5x28 cm 1.76
+II Ubicación y superficie por cada inmueble 13.30
 
-28x43 cm 3.52
+III Manifiestos o avisos en general
 
-Por dm2 excedido 0.88
+que sirvieron de base para la apertura
 
-De sector: 28x43 cm 3.52
+de registros catastrales, exceptuando
 
-60x40 cm 4.40
+el título de propiedad, en un periodo
 
-90x60 cm 5.50
+de 5 años o fracción de año. 3.30
 
-Por dm2 excedido 0.88
+IV Avalúo emitido por Perito Valuador
 
-De localidad urbana: 28x43 cm 4.40
+autorizado: 10.00
 
-60x40 cm 5.28
-
-90x60 cm 6.16
-
-90x110 cm 7.04
-
-Por dm2 excedido 1.76
-
-b) Del año 2005 en la escala 1:1, 000
-
-De Predio: 21.5x28 cm 1.60
-
-De manzana: 21.5x28 cm 3.20
-
-28x43 cm 6.40
-
-Por dm2 excedido 0.80
-
-De sector: 28x43 cm 4.80
-
-60x40 cm 6.00
-
-90x60 cm 7.20
-
-Por dm2 excedido 1.60
-
-De localidad urbana 28x43 cm 6.00
-
-60x40 cm 7.20
-
-90x60 cm 8.40
-
-90x110cm 15.39
-
-Por dm2 excedido 1.60
-
-c) Por cada nivel de información
-
-adicional como son niveles
-
-del predio, construcción y claves
-
-catastrales, previamente
-
-autorizadas, se cobrará: 1. 76
-
-d) Del año 2005 en la escala 1:10, 000,
-
-conteniendo cartografía de 32 Km2,
-
-aproximadamente: 8.00
-
-II Por servicio de expedición de información
-
-cartográfica en medios digitales:
-
-a) Del año 1994 en la escala 1:1, 000
-
-De predio: 2.64
-
-De manzana: 3.52
-
-De sector: 6.16
-
-De localidad urbana por área:
-
-Hasta 5 km2: 10.56
-
-Mayor de 5 km2 hasta 20 km2: 26.40
-
-Mayor de 20 km2 hasta 30 km2: 35.20
-
-Mayor de 30 km2 hasta 40 km2: 44.00
-
-Por kilómetro cuadrado excedido: 2.64
-
-b) Por cada nivel de información adicional
-
-de predio, construcción, identificaciones de
-
-sector, manzana, predio y nivel de construcción,
-
-previamente autorizada, se cobrara: 1.76
-
-c) Del año 2005 en la escala 1:1, 000,
-
-por 0.20 Km2: 7.20
-
-d) Del año 2005 en la escala 1:10, 000
-
-por Km2: 2.00
-
-e) Del año 2005 en la escala 1:1, 000
-
-Altimetría y planimetría juntas,
-
-por 0.20 Km2: 10.80
-
-f) Del año 2005 en la escala 1:10, 000
-
-Altimetría y planimetría
-
-juntas por Km2: 2.00
-
-g) Por expedición de planos temáticos: 8.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 70.
 
-Por servicios de expedición de información cartográfica altimétrica tales como escurrimientos, cota y curvas de nivel ordinarias y maestras, se causarán y pagarán derechos conforme a las siguientes cuotas:
+Por los servicios de expedición de información cartográfica, planimetría, consistente en límites de manzana y nombres de calles en papel bond membretado, se causarán y pagarán derechos conforme las siguientes cuotas:
 
-I Expedición de Planos: Número de salarios
+Números de salarios
 
 mínimos
 
-a) Del año 1994 en la escala 1:1, 000
+I Expedición de planos:
 
-De predio: 21.5x28 cm 1.76
+a) Del año 1994 en la escala 1:1,000
 
-De manzana: 21.5x29 cm 2.64
+21.5 x 28 cm. 1.00
 
-Por dm2
+90 x 60 cm. 3.00
 
-excedido 0.88
+b) Del año 2005 en la escala 1:1,000
 
-De sector: 28x43 cm 4.40
+21.5 x 28 cm. 1.50
 
-60x40 cm 5.28
+90 x 60 cm. 5.00
 
-90x60 cm 6.16
+c) Del año 2012 en la escala 1:1,000
 
-Por dm2
+21.5 x 28 cm. 2.50
 
-Excedido 0.44
+90 x 60 cm. 7.00
 
-De localidad urbana: 28x43 cm 5.28
+d) Del año 2005 en la escala 1:10,000
 
-60x40 cm 6.16
+21.5 x 28 cm. 1.00
 
-90x60 cm 7.04
+90 x 60 cm. 3.00
 
-90x110 cm 7.92
+II Expedición de Información cartográfica
 
-Por dm2
+planimetría en medios digitales:
 
-excedido 0.44
+a) Del año 1994 en la escala 1:1,000 por 0.25
 
-b) Del año 2005 en la escala 1:1, 000
+km2 2.00
 
-De Predio 21.5x28 cm 3.20
+b) Del año 2005 en la escala 1:1,000 por 0 25
 
-De manzana: 21.5x28 cm 4.80
+km2 4.00
 
-28x43 cm 6.40
+c) Del año 2005 en la escala 1:10,000
 
-Por dm2
+por km2 2.00
 
-excedido 0.80
+d) Por expedición de planos temáticos
 
-De sector: 28x43 cm 5.60
+90 x 60 cm. 6.00
 
-60x40 cm 6.40
+e) Del año 2012 en la escala 1:1,000 por
 
-90x60 cm 7.20
+0.25 km2 10.00
 
-Por dm2
-
-excedido 0.80
-
-De localidad urbana: 28x43 cm 6.80
-
-60x40 cm 8.00
-
-90x60 cm 10.00
-
-90x110 cm 11.20
-
-Por dm2
-
-excedido 0.80
-
-c) Por cada nivel de información
-
-adicional como son niveles del predio,
-
-construcción y claves catastrales, previamente
-
-autorizadas, se cobrará: 1. 76
-
-d) Del año 2005 en la escala 1:10, 000,
-
-conteniendo cartografía de 32 Km2,
-
-aproximadamente: 8.00
-
-II Por servicio de expedición de
-
-archivos en medios digitales:
-
-a) Del año 1994 en la escala 1:1, 000
-
-De predio: 4.40
-
-De manzana: 7.92
-
-De sector: 13.20
-
-De localidad urbana por área:
-
-Hasta 5 km2: 26.40
-
-Mayor de 5 km2 hasta 20 km2: 52.80
-
-Mayor de 20 km2 hasta 30 km2: 70.40
-
-Mayor de 30 km2 hasta 40 km2: 79.20
-
-Por kilómetro cuadrado excedido: 1.76
-
-b) Del año 2005 en la escala 1:1, 000, por Km2: 7.20
-
-c) Del año 2005 en la escala 1:10, 000 por Km2: 2.00
-
-d) Del año 2005 en la escala 1:1, 000
-
-Altimetría y planimetría
-
-juntas, por 0.20 Km2: 10.80
-
-e) Del año 2005 en la escala 1:10, 000
-
-Altimetría y planimetría
-
-juntas por Km2: 2.00
-
-f) Por expedición de planos temáticos: 8.80
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 71.
 
-Las personas físicas y morales que soliciten servicios de edición, impresión o copia de fotografía aérea, causarán y pagarán derechos conforme a las siguientes cuotas:
+Por los servicios de expedición de Información cartográfica altimetría tales como escurrimientos, cuota y curvas de nivel ordinarias y maestras se causarán y pagarán derechos conforme las siguientes cuotas:
 
-Número de salarios
+Números de salarios
+
+mínimos
+
+I Expedición de planos:
+
+a) Del año 1994 en la escala 1:1,000
+
+21.5 x 28 cm. 1.50
+
+90 x 60 cm. 4.00
+
+b) Del año 2005 en la escala 1:1,000
+
+21.5 x 28 cm. 2.05
+
+90 x 60 cm. 7.00
+
+c) Del año 2012 en la escala 1:1,000
+
+21.5 x 28 cm. 3.50
+
+90 x 60 cm. 9.00
+
+d) Del año 2005 en la escala 1:10,000
+
+21.5 x 28 cm. 2.00
+
+90 x 60 cm. 4.00
+
+II Archivos en medios digitales de información cartográfica altimétrica:
+
+a) Del año 1994 en la escala 1:1,000 por 0.25
+
+km2. 3.00
+
+b) Del año 2005 en la escala 1:1,000 por 0.25
+
+km2. 6.00
+
+c) Del año 2005 en la escala 1:10,000 por 0.25
+
+km2. 3.00
+
+d) Por expedición de planos temáticos
+
+90 x 60 cm. 6.00
+
+e) Del año 2012 en la escala 1:1,000 por 0.25
+
+km2. 10.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 72.
+
+Las personas físicas, morales o unidades económicas que soliciten los servicios de edición, impresión o copia de fotografía aérea, causarán y pagarán derechos conforme a las siguientes cuotas:
+
+Números de salarios
 
 mínimos
 
 I Del año 1994
 
-a) Edición de Impresión en papel bond:
+a) Edición de impresión 21.5 x 28 cm:
 
-21.5x28 cm: 3.52
+II Del año 2005 2.00
 
-28x43 cm: 4.40
+a) Edición de impresión de ortofotos:
 
-40x60 cm: 11.20
+21.5 x 28 cm. 3.00
 
-b) Edición de Impresión en papel fotobrillo:
+90 x 60 cm. 10.00
 
-21.5x28 cm: 4.40
+b) Ortofotos en archivo digital escala 1:1,000
 
-28x43 cm: 5.28
+del año 2005 por 0.25 km2. 4.00
 
-40x60 cm: 14.40
+c) Ortofotos en archivo digital escala 1:1,000
 
-c) Copia 23x23 cm:
+del año 2012 por 0.25 km2 7.00
 
-Papel bond: 1.32
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Papel fotobrillo: 1.76
+###### Artículo 73.
 
-II Del año 2005:
+Por servicios de emisión de información de vértices geodésicos, se causarán y pagarán derechos conforme a lo siguiente:
 
-a) Edición de impresión de ortofotos en papel bond:
-
-21.5x28 cm: 5.00
-
-28x43 cm: 6.50
-
-40x60 cm: 10.80
-
-90x60 cm: 20.00
-
-b) Edición de impresión de ortofotos en papel fotobrillo:
-
-21.5x28 cm: 6.00
-
-28x43 cm: 8.00
-
-40x60 cm: 13.50
-
-90x60 cm: 25.00
-
-c) Ortofotos en archivo digital escala 1:1, 000:
-
-Por 0.20Km2: 7.20
-
-###### Artículo 72.
-
-Por los servicios de emisión de información de vértices geodésicos, se causarán y pagarán derechos conforme a lo siguiente:
-
-Número de salarios
+Números de salarios
 
 mínimos
 
 I Por cada vértice de la red geodésica
 
-estatal existente ( (sic) listado de coordinadas
+estatal existente listado de coordenadas
 
 universal transversal de mercator y geográficas,
 
 así como un croquis de localización: 5.00
 
-II Por bando de nivel ( (sic) elevación sobre
+II Por banco de nivel elevación sobre el
 
-el nivel medio del mar así como un croquis
+nivel medio del mar así como un croquis
 
 de localización e itinerarios: 5.00
 
@@ -5041,13 +4929,13 @@ III Por cada vértice GPS de apoyo directo
 
 para determinar las coordenadas geográficas
 
-terrestres o puntos terrestres (longitud, latitud,
+terrestres o puntos terrestres (longitud, latitud, altitud),
 
-altitud), en el municipio de Oaxaca de
+en el municipio de Oaxaca de Juárez y
 
-Juárez y municipios conurbados: 34.00
+municipios conurbados: 34.00
 
-IV Por cada vértice GPS de apoyo director
+IV Por cada vértice GPS de apoyo directo
 
 (listado de coordenadas universal transversal
 
@@ -5057,203 +4945,45 @@ de localización e itinerario), en municipios
 
 foráneos: 57.00
 
-V Por punto terrestre georeferenciado
+V Por punto terrestre georeferenciado en las (sic)
 
-en la cartografía: 2.50
+cartografía: 2.50
 
-###### Artículo 73.
-
-Por los servicios que en materia catastral soliciten las personas físicas y morales, causarán y pagarán derechos de conformidad con las siguientes cuotas:
-
-Número de salarios
-
-mínimos
-
-I Por reasignación de cuenta catastral: 1.00
-
-II Por asignación de cuenta
-
-catastral por predio: 1.00
-
-III Por trámites urgentes de solicitudes
-
-catastrales que cumplan con todos los
-
-requisitos legales, para entregar al
-
-siguiente día hábil de su presentación: 8.00
-
-IV Recepción de movimientos catastrales
-
-en medio digital conforme a los estándares
-
-establecidos por el Instituto, por
-
-cada trámite: 0.33
-
-V Por cancelación de cuenta catastral: 5.50
-
-VI Por impresión de cada boleta a los
-
-Ayuntamientos que cuentan con convenio
-
-exclusivo de impresión de boletas: 0.16
-
-VII Archivo digital del padrón municipal
-
-catastral a los Ayuntamientos que lo
-
-soliciten, por cada registro: 0.16
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-VIII Por la inscripción al padrón catastral de
-
-bienes inmuebles provenientes del régimen
-
-ejidal, comunal y propiedad privada: 0.00
-
-IX Por reapertura de cuenta catastral: 5.00
-
-X Por registro de fusión de predios: 3.00
-
-XI Por disolución de mancomunidad: 3.00
-
-XII Por registro de la subdivisión o
-
-lotificación de predios:
-
-a) Hasta en cuatro lotes: 3.00
-
-b) De cinco hasta 24 lotes: 6.00
-
-c) De 25 lotes en adelante: 8.00
-
-d) Por régimen en condominio: 10.00
-
-XIII Por la verificación física de predios
-
-dentro de un radio de 10 km contados a
-
-partir de la ubicación oficial de la
-
-delegación catastral: 10.00
-
-XIV Por verificación física de predios
-
-después de un radio mayor de 10 km
-
-hasta 30 km contados a partir de la
-
-ubicación oficial de la delegación catastral: 10.00
-
-XV Por verificación física de predios
-
-después de un radio mayor de 30 km
-
-hasta 50 km contados a partir de la
-
-ubicación oficial de la delegación catastral: 15.00
-
-XVI Por km. adicional después de los 50 km: 0.30
-
-XVII Por cancelación de trámite: 3.00
-
-XVIII Por la corrección o actualización
-
-de los datos asentados en los registros del
-
-Sistema de Información Territorial: 3.00
-
-XIX Por los trabajos catastrales de verificación
-
-en la información cartográfica y/o física
-
-de un inmueble: 5.50
-
-XX Por búsqueda de datos por periodos de
-
-5 años o fracción: 2.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-XXI Por la práctica de avalúo comercial: 30.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 74.
 
-Las personas físicas que soliciten pertenecer al padrón de peritos valuadores, causarán y pagarán derechos conforme a las siguientes cuotas:
+Causarán y pagarán derechos las personas físicas que se registren en el Padrón de Peritos Valuadores del Estado, conforme a las siguientes cuotas:
 
-Número de salarios
+Números de salarios
 
 mínimos
 
-I Por registro al Padrón de
+I. Registro: 43.00
 
-Peritos Valuadores: 43.00
+II Renovación por ejercicio fiscal: 43.00
 
-II Por renovación al Padrón de
-
-Peritos Valuadores por
-
-ejercicio fiscal: 43.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 75.
 
-Por los servicios de impartición de cursos en materia de procedimientos y valuación catastral, se causarán y pagarán derechos conforme a las siguientes cuotas:
+Por la impartición de cursos en materia de procedimientos y valuación catastral, se causarán y pagarán derechos conforme a las siguientes cuotas:
 
-Número de salarios
+Números de salarios
 
 mínimos
 
 I De nuevo ingreso: 64.00
 
-II Por renovación: 43.00
+II Renovación: 43.00
 
 ###### Artículo 76.
 
-Por la práctica de avalúo catastral, las personas físicas y morales causarán y pagarán derechos conforme a lo siguiente:
-
-Rango de Valor Número de salarios
-
-mínimos
-
-I 0.01 60, 000.00 10.00
-
-II 60, 001.00 100, 000.00 11.00
-
-III 100, 001.00 200, 000.00 20.00
-
-IV 200, 001.00 300, 000.00 30.00
-
-V 300, 001.00 400, 000.00 40.00
-
-VI 400, 001.00 600, 000.00 50.00
-
-VII 600, 001.00 1, 000, 000.00 60.00
-
-VIII 1, 000, 001.00 2, 000, 000.00 70.00
-
-IX 2, 000, 001.00 10, 000, 000.00 80.00
-
-X 10, 000, 001.00 En adelante 100.00
-
-Tratándose de construcciones de interés social promovidas por los organismos de vivienda federal, estatal y municipal que cumplan con certificación de hipoteca verde u organismos desarrolladores de vivienda por avalúo se cobrará 8.00 salarios mínimos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ###### Artículo 77.
 
-Las personas físicas y morales causarán y pagarán derechos por práctica de avalúo catastral de construcciones de interés social promovidas por los organismos de vivienda federal, estatal y municipal, de acuerdo con las siguientes cuotas:
-
-Rango Número de salarios
-
-de Valor mínimos
-
-I 0.01 300, 000.00 25.00
-
-II 300, 001.00 1, 000, 000.00 30.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ### Capítulo Primero. Por los Servicios que presta "Novauniversitas"
 
@@ -5287,13 +5017,7 @@ morales en el Padrón de Proveedores
 
 de la Administración Pública Estatal: 30.00
 
-III Por el pago de bases conforme a lo siguiente:
-
-a) Invitación restringida: 15.50
-
-b) Licitación Pública Estatal: 25.50
-
-c) Licitación Pública Nacional: 30.50
+III (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5334,6 +5058,22 @@ por mes: 2.00
 VII Por la expedición de constancias de no
 
 adeudo patrimonial: 1.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII (SIC) Por la expedición de permisos para el
+
+establecimiento de dispensadores de alimentos
+
+y bebidas: 457.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VIII Por la expedición de permisos para el
+
+establecimiento de antenas de telecomunicación
+
+en bienes del dominio público del Estado: 460.00
 
 ###### Artículo 79.
 
@@ -5475,7 +5215,7 @@ l) Exámen de titulación: 17.28
 
 m) Expedición de título: 23.08
 
-n) Trámites de legalización de certificado: 10.68
+n) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ñ) Curso de verano: 7.83
 
@@ -5535,23 +5275,57 @@ I Inscripción:
 
 a) Técnico superior universitario 21.17
 
-b) Técnico superior en gastronomía 44.10
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+b) Técnico superior en gastronomía 28.00
 
 c) Ingenierías 26.46
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+d) Licenciatura en gastronomía: 30.00
+
 II Reinscripción:
 
-a) Técnico superior universitario 19.41
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-b) Técnico superior en gastronomía 35.28
+a) Técnico superior universitario 21.17
 
-c) Ingenierías 24.70
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-III Constancias de estudios: 0.89
+b) Técnico superior en gastronomía 23.00
 
-IV Certificado parcial o total: 3.53
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-V Ficha de exámen para selección: 6.18
+c) Ingenierías 21.17
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+III Constancias de estudios: 0.79
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV Certificado parcial o total: 7.83
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+V Ficha de exámen para selección: 3.92
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+A los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8.5 y 10, se sujetarán a los siguientes descuentos en inscripción y reinscripción:
+
+PROMEDIO DESCUENTO
+
+De 8.5 a 9.0 25%
+
+De 9.1 a 9.5 50%
+
+De 9.6 a 10 75%
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de estudiantes que provengan de zonas marginadas, se aplicarán porcentajes de becas determinadas por el Consejo Directivo que van del 25%, 50% 75% de descuento en inscripción y reinscripción.
 
 ### Capítulo Quinto. Por los Servicios que presta la Universidad del Papaloapan
 
@@ -5591,7 +5365,7 @@ l) Exámen de titulación: 17.28
 
 m) Expedición de título: 23.08
 
-n) Trámites de legalización de certificado: 10.68
+n) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ñ) Curso de verano: 7.83
 
@@ -5671,7 +5445,7 @@ l) Exámen de titulación: 17.28
 
 m) Expedición de título: 23.08
 
-n) Trámites de legalización de certificado: 10.68
+n) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ñ) Curso de verano: 7.83
 
@@ -5681,11 +5455,7 @@ n) Trámites de legalización de certificado: 10.68
 
 o) Carta de pasante: 2.13
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-p) Trámites de legalización de título: 10.68
+p) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 II Enseñanza de idiomas:
 
@@ -5731,17 +5501,13 @@ i) Exámen de grado: 17.28
 
 j) Expedición de grado: 23.08
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+k) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+l) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-k) Trámites de certificados de grado: 10.68
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-l) Trámites de legalización de título: 10.68
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
@@ -5783,7 +5549,7 @@ l) Exámen de titulación: 17.28
 
 m) Expedición de título: 23.08
 
-n) Trámites de legalización de certificado: 10.68
+n) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ñ) Curso de verano: 7.83
 
@@ -5865,7 +5631,7 @@ l) Exámen de titulación: 17.28
 
 m) Expedición de título: 23.08
 
-n) Trámites de legalización de certificado: 10.68
+n) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ñ) Curso de verano: 7.83
 
@@ -5947,7 +5713,7 @@ l) Exámen de titulación: 17.28
 
 m) Expedición de título: 23.08
 
-n) Trámites de legalización de certificado: 10.68
+n) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ñ) Curso de verano: 7.83
 
@@ -6029,7 +5795,7 @@ l) Exámen de titulación: 17.28
 
 m) Expedición de título: 23.08
 
-n) Trámites de legalización de certificados: 10.68
+n) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ñ) Curso de verano: 7.83
 
@@ -6101,6 +5867,188 @@ k) Expedición de grado: 51.56
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II ; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Artículo 90 A. Por los servicios educativos que preste la Universidad de Chalcatongo, se causarán y pagarán los siguientes derechos:
+
+Números de salarios
+
+mínimos
+
+I Licenciatura escolarizada:
+
+a) Ficha de examen de selección: 3.92
+
+b) Curso propedéutico largo: 58.68
+
+c) Curso propedéutico corto: 58.68
+
+d) Inscripción: 6.44
+
+e) Reinscripción: 4.36
+
+f) Colegiatura mensual: 21.24
+
+g) Examen Extraordinario: 4.44
+
+h) Examen Especial: 6.76
+
+i) Reposición de credencial: 1.25
+
+j) Constancia de estudios: 0.79
+
+k) Certificado parcial o total: 7.83
+
+l) Examen de titulación: 17.28
+
+m) Expedición de título: 23.08
+
+ñ) Curso de verano: 7.83
+
+II Posgrado Escolarizado
+
+a) Ficha para examen de selección: 3.92
+
+b) Curso propedéutico: 58.68
+
+c) Inscripción: 6.44
+
+d) Reinscripción: 4.71
+
+e) Colegiatura mensual: 23.08
+
+f) Reposición de credencial: 1.25
+
+g) Constancia de estudios: 0.79
+
+h) Certificado parcial o total: 7.83
+
+i) Examen de grado: 17.28
+
+j) Expedición de grado: 23.08
+
+III Licenciatura Virtual
+
+a) Curso propedéutico: 85.94
+
+b) Inscripción: 17.19
+
+c) Reinscripción: 17.19
+
+d) Colegiatura mensual: 25.78
+
+e) Reposición de credencial: 1.25
+
+f) Examen Extraordinario: 5.78
+
+g) Examen Especial: 9.44
+
+h) Constancia de estudios: 0.86
+
+i) Certificado parcial o total: 7.83
+
+j) Examen de titulación: 17.28
+
+k) Expedición de título: 51.56
+
+IV Posgrado Virtual
+
+a) Curso propedéutico: 85.94
+
+b) Inscripción: 34.37
+
+c) Reinscripción: 25.78
+
+d) Colegiatura mensual: 34.37
+
+e) Reposición de credencial: 1.25
+
+f) Examen Extraordinario: 5.80
+
+g) Examen Especial: 9.44
+
+h) Constancia de estudios: 0.86
+
+i) Certificado parcial o total: 7.83
+
+j) Examen de grado: 17.28
+
+k) Expedición de grado: 51.26
+
+V Enseñanza de idiomas
+
+a) Repetición de módulo: 3.90
+
+b) Examen Extraordinario: 2.66
+
+e) Certificado de conocimientos: 7.77
+
+d) Curso de preparación semestral
+
+certificado de Inglés Británico "FCE"
+
+o certificado de !inglés Americano "TOEFL": 7.77
+
+Se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de La Unidad que van de 25%, 50% 75% y 100% de descuento en los conceptos de cursos propedéuticos, reinscripción, colegiatura mensual y curso de verano comprendidos en las fracciones I a IV del presente artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Artículo 90 B. Por los servicios educativos que preste la Universidad de la Costa, se causarán y pagarán los siguientes derechos:
+
+Números de salarios
+
+mínimos
+
+I Licenciatura escolarizada:
+
+a) Ficha para el examen de selección: 3.93
+
+b) Curso propedéutico largo: 40.00
+
+c) Curso propedéutico corto: 58.68
+
+d) Inscripción: 6.44
+
+e) Reinscripción: 4.37
+
+f) Colegiatura mensual: 21.24
+
+g) Examen extraordinario: 4.45
+
+h) Examen especial: 6.76
+
+i) Reposición de credencial: 1.25
+
+j) Constancia de estudios: 0.78
+
+k) Certificado parcial o total: 7.84
+
+l) Carta de pasante: 2.13
+
+m) Examen de titulación: | 17.29
+
+n) Expedición de título: 23.09
+
+ñ) Curso de verano: 7.84
+
+II Enseñanza de idiomas:
+
+a) Curso de inglés: 21.24
+
+b) Repetición de módulo: 3.89
+
+c) Examen extraordinario: 2.66
+
+d) Certificado de conocimientos: 7.77
+
+e) Curso de preparación semestral
+
+certificado de Inglés Británico "FCE"
+
+o certificado de Inglés Americano "TOEFL": 7.77
+
+Se aplicarán porcentajes de becas determinadas por el H. Consejo Académico que van de 25%, 50% 75% y 100% de descuento en las conceptos de cursos propedéuticos, reinscripción, colegiatura mensual y curso de verano comprendidos en la fracción I del presente artículo.
+
 ### Capítulo Décimo Primero. Por los Servicios que presta el Instituto de Estudios de Bachillerato del Estado de Oaxaca
 
 ### Capítulo Décimo Segundo. Por los Servicios que presta el Instituto Tecnológico de Teposcolula
@@ -6143,7 +6091,7 @@ l) Exámen de titulación: 17.28
 
 m) Expedición de título: 23.08
 
-n) Trámites de legalización de certificado: 10.68
+n) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ñ) Curso de verano: 7.83
 
@@ -6238,6 +6186,34 @@ Americano "TOEFL": 7.77
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 A excepción de los incisos a), i) de la fracción I; inciso f) de la fracción II; inciso e) de la fracción III; inciso e) de la fracción IV; inciso a) de la fracción V; se aplicará porcentajes de becas determinadas por el H. Congreso Académico de la Universidad Tecnológica de la Mixteca que van desde el 25%, 50%, 75%, y 100% de descuento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Artículo 91 A. Los contribuyentes que reciban servicios en materia educativa a cargo de la Universidad Tecnológica de la Sierra Sur de Oaxaca, causarán y pagarán las cuotas conforme a los siguientes conceptos:
+
+Números de salarios
+
+mínimos
+
+I Ficha para examen de selección: 3.92
+
+II Inscripción
+
+a) Técnico superior universitario: 15.00
+
+b) Ingenierías: 17.00
+
+III Reinscripción
+
+a) Técnico superior universitario: 13.00
+
+b) Ingenierías: 15.00
+
+IV Expedición de constancias de estudios: 0.79
+
+V Expedición de certificado parcial o total: 7.83
+
+Se aplicarán porcentajes de becas determinadas por el H. Consejo Académico que van de 25%, 50% 75% y 100% de descuento en los conceptos de inscripción y reinscripción del presente artículo.
 
 ### Capítulo Décimo Cuarto. Por los Servicios que presta el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca
 
@@ -6829,7 +6805,9 @@ VI Educación para Adultos:
 
 a) Centros de Enseñanza Ocupacional: 2.65
 
-VII Capacitación para el Trabajo:
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII Capacitación para el Trabajo
 
 a) Reconocimiento de validez
 
@@ -7051,7 +7029,11 @@ d) Certificado de terminación de
 
 estudios sistema abierto: 3.50
 
-III Evaluaciones sistema escolarizado:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+III Evaluación por unidad de aprendizaje
+
+curricular del sistema escolarizado:
 
 a) Primer extraordinario: 1.37
 
@@ -7059,33 +7041,39 @@ b) Segundo extraordinario: 1.37
 
 c) Especial: 1.50
 
-IV Evaluaciones sistema abierto:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-a) Primera recuperación 1.00
+IV Evaluación por unidad de aprendizaje
 
-b) Segunda recuperación 1.00
+curricular del sistema abierto:
 
-c) Extraordinario 1.00
+a) Extraordinario
 
-d) Especial 1.00
+b) Especial
 
-e) Global 1.00
+c) Global
 
 V Por inscripción o reinscripción
 
 al sistema escolarizado:
 
-a) Inscripción de estudiantes nacionales: 7.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+a) Inscripción 7.00
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 b) Reinscripción: 8.00
 
-VI Por inscripción o reinscripción por
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-asignatura al sistema abierto:
+VI Inscripción o reinscripción por unidad de aprendizaje
 
-a) Estudiantes nacionales 1.00
+curricular en el sistema abierto:
 
-b) Reinscripción 1.00
+a) Inscripción
+
+b) Reinscripción
 
 VII Certificación Parcial de estudios de:
 
@@ -7109,29 +7097,21 @@ IX Curso propedéutico: 3.30
 
 X Examen de admisión: 1.65
 
-XI Por dictamen de estudios
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-sistema abierto:
+XI Dictamen de estudios para el ingreso a la
 
-a) Equivalencia de estudios
+modalidad de sistema abierto.
 
-realizados en el país: 3.00
+a) Equivalencia de estudios 3.00
 
-Tratándose de las inscripciones y reinscripciones de los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8 y 10, se sujetarán a los siguientes descuentos:
+b) Portabilidad de estudios 3.00
 
-PROMEDIO DESCUENTO
+El Colegio de Bachilleres del Estado de Oaxaca podrá realizar convenios de colaboración para impartir el bachillerato en la modalidad de sistema abierto con un descuento del 50% en inscripción y reinscripción, de acuerdo con los Lineamentos que para tal efecto emita
 
-De 8.0 a 8.5 25%
+Tratándose de estudiantes que acrediten una situación de vulnerabilidad económica, se les otorgará un 50% de descuento en cuotas de inscripción y reinscripción de acuerdo con los lineamientos que para tal efecto emita el Colegio de Bachilleres del Estado de Oaxaca.
 
-De 8.6 a 9.0 50%
-
-De 9.1 a 9.5 75%
-
-De 9.6 a 10 100%
-
-Tratándose de las inscripciones y las reinscripciones de los estudiantes del sistema abierto anexos a dependencias que celebren convenios de colaboración con el COBAO, éstas estarán sujetas a los descuentos que se establezcan en las cláusulas de las mismas.
-
-Tratándose de estudiantes del sistema escolarizado y abierto que provengan de zonas marginadas, se otorgará un 50% de descuento en cuotas de inscripción y reinscripción.
+Los beneficios antes señalados no podrán ser acumulables.
 
 ###### Artículo 96.
 
@@ -7265,6 +7245,14 @@ De 9.1 a 10 100%
 
 Los servidores públicos a cargo de la administración y prestación de servicios educativos deberán presentar dentro de los primeros diez días naturales de concluido el trimestre informe de los servicios prestados en el periodo a la Secretaría de Finanzas.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Así mismo deberán remitir el listado de beneficiarios de los descuentos contenidos en el presente título, identificando el nombre del estudiante, modalidad y monto del beneficio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+El incumplimiento de los informes a que se refiere el presente artículo se dará a conocer a la Secretaria de la Contraloría y Transparencia Gubernamental para que determine lo conducente.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
@@ -7277,211 +7265,75 @@ Los servidores públicos a cargo de la administración y prestación de servicio
 
 ###### Artículo 98.
 
-Las personas físicas o morales que soliciten la prestación de servicios a cargo de la Comisión Estatal del Agua, causarán y pagarán derechos conforme a los conceptos y cuotas siguientes:
+Las personas físicas, morales o unidades económicas que soliciten la prestación de servicios a cargo de la Comisión Estatal del Agua, causarán y pagarán derechos conforme a los conceptos y cuotas siguientes
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2013, PÁGINAS DE LA 8 A LA 10.</small>
+
+Los conceptos y cuotas de servicios relacionados con el suministro de agua potable a cargo de los organismos operadores de agua adscritos a la Comisión Estatal del Agua, deberán ser publicados en el Periódico Oficial del Estado a más tardar el último día hábil de enero de cada ejercicio fiscal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 99.
+
+Las personas físicas, morales o unidades económicas causarán y pagarán derechos por los servicios públicos a cargo de los Servicios de Agua Potable y Alcantarillado de Oaxaca, conforme a los conceptos y cuotas siguientes:
+
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+I. Por el suministro de agua potable, se pagará el importe en pesos mexicanos que corresponda de acuerdo al nivel de consumo bimestral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+a) Servicio medido, de conformidad con la siguiente tabla:
+
+(VÉASE ARCHIVO ANEXO)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+b) Servicio no medido de conformidad con la siguiente tabla:
+
+(VÉASE ARCHIVO ANEXO)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+II. Saneamiento y mantenimiento general
+
+de redes, el 10 por ciento del monto facturado
+
+en forma bimestral por el servicio de suministro
+
+de agua potable.
 
 Número de salarios
 
 mínimos
 
-I Por el estudio de Calidad del Agua
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-para Consumo Humano
+III. Por la expedición de constancias y
 
-a) Análisis físico, químico y bacteriológico: 108.00
+dictámenes de factibilidad de servicios
 
-II Por el estudio de calidad del agua residual
+de agua potable y alcantarillado para
 
-a) Análisis físico, químico y bacteriológico: 135.00
+construcción:
 
-III Por equipo de bombeo (agua potable)
+a) Vivienda: 35.00
 
-a) Por la emisión de diagnóstico: 13.00
+b) Fraccionamientos habitacionales: 40.00
 
-b) Por Desmontaje e instalación de equipos
+c) Fraccionamientos industriales: 100.00
 
-de bombeo y control eléctricos con:
+d) Comerciales. 217.00
 
-1 Columnas de 0 a 2” de diámetro y de 0 a 30
+e) Instalaciones destinadas a la educación,
 
-metros de longitud: 33.00
+salud, culturales y deportivas: 250.00
 
-2 Columnas de 2.5 a 4.0” de diámetro y de
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-30 a 60 metros de longitud: 78.00
+Artículo 99 A. Los ingresos que se obtengan por los servicios a que se refiere este título serán destinados a los mismos.
 
-3 Columnas de 6 a 8” de diámetro y de 0 a
-
-50 metros de longitud: 102.00
-
-4 Columnas mayores 6” y longitud mayor a
-
-50 metros: 161.00
-
-c) Por Desmontaje e instalación de equipos
-
-de cloración:
-
-1 Por medio hipoclorito de calcio para
-
-diferentes gastos: 31.00
-
-IV En Líneas de conducción y redes de
-
-distribución
-
-a) Desmontaje e instalación de múltiples
-
-de descarga:
-
-1 Con piezas especiales de
-
-1.5” a 3” diámetro: 59.00
-
-2 Con piezas especiales de
-
-4” a 6” diámetro: 103.00
-
-3 Con piezas especiales de
-
-8” a 12” diámetro: 132.00
-
-4 Con piezas especiales
-
-mayores a 14” diámetro: 177.00
-
-5 Instalación de tuberías de fogo de ½” a
-
-1.5” de diámetro: 18.00
-
-6 Instalación de tuberías de fogo de 2” a
-
-3” de diámetro: 18.00
-
-7 Instalación de tuberías de fogo de 4”: 26.00
-
-8 Instalación de tuberías de PVC hidráulico
-
-de 1.5” a 3” de diámetro incluye instalación
-
-de piezas especiales: 18.00
-
-9 Instalación de tuberías de PVC hidráulico
-
-de 4” a 6” de diámetro incluye instalación de
-
-piezas especiales: 26.00
-
-10 Instalación de piezas especiales de PVC
-
-hidráulico de 4” a 6” de diámetro: 18.00
-
-11 Instalación de piezas especiales de PVC
-
-hidráulico de 8” a 10” de diámetro 26.00
-
-12 Instalación de piezas especiales de
-
-PVC hidráulico mayores a 10” de diámetro: 26.00
-
-13 Instalación de tuberías de PEAD de
-
-1/2” a 1.5” de diámetro: 18.00
-
-14 Instalación de tuberías de PEAD de
-
-2” a 4” de diámetro: 18.00
-
-15 Instalación de tuberías de PEAD de
-
-6” a 10” de diámetro: 26.00
-
-16 Instalación de tuberías de PEAD
-
-mayores de 10” de diámetro: 26.00
-
-17 Instalación de piezas especiales de PEAD: 26.00
-
-V Alcantarillado sanitario
-
-a) Por la emisión de diagnóstico: 16.50
-
-b) Por limpieza y desazolve con equipo
-
-especializado hidroneumático en:
-
-1 Descargas domiciliarias: 30.00
-
-2 Tuberías de drenaje de 15 a 30 cm de
-
-diámetro 45.00
-
-3 Tuberías de drenaje de 45 a 60 cm de
-
-diámetro: 45.00
-
-4 Tuberías de 75 a 90 cm de diámetro: 45.00
-
-VI Saneamiento
-
-a) Por la emisión de diagnóstico: 44.00
-
-b) Por el desmonte e instalación de equipos
-
-de bombeo de aguas negras en:
-
-1 Columnas de 2” a 4” de diámetro y de 0 a
-
-10 metros de longitud: 33.00
-
-2 Columnas de 6” a 12” de diámetro y de
-
-0 a 10 metros de longitud: 66.00
-
-3 Piezas especiales de 1.5” a 3” de
-
-diámetro: 18.50
-
-4 Piezas especiales de 4” a 6” de diámetro: 66.00
-
-5 Piezas especiales mayores
-
-a 6” de diámetro: 66.00
-
-6 Difusores: 16.50
-
-7 Biodigestores, filtros anaerobios de flujo
-
-ascendente y cárcamos de bombeo de aguas
-
-negras: 66.00
-
-VII Por la realización de visita para asesoría
-
-técnica: 13.00
-
-VIII Por el aforo de pozo profundo: 423.00
-
-IX Por la limpieza de pozo profundo: 423.00
-
-X Por la video filmación de pozo profundo: 135.00
-
-XI Por la perforación de pozo: 7617.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-###### Artículo 99.
-
-Las personas físicas, morales o unidades económicas causarán y pagarán derechos por los servicios de suministro de agua potable y saneamiento que presta la Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca, conforme a las siguientes cuotas bimestrales expresados en pesos mexicanos:
-
-I. Agua Potable
-
-a) Servicio medido.
-
-Los usuarios de agua potable con servicio medido pagarán el importe que corresponda de acuerdo al nivel de consumo bimestral conforme a la siguiente tabla:
-
-(VÉASE ARCHIVO ANEXO)
+Los servidores públicos a cargo de la prestación de los servicios a que alude este Título deberán realizar la conciliación con la Secretaría de Finanzas dentro de los primeros diez días hábiles de concluido el mes de calendario sobre los servicios prestados y lo efectivamente recaudado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7846,3 +7698,7 @@ TERCERO: El Ejecutivo Estatal a través de la Dirección del Registro Público d
 P.O. 2 DE MARZO DE 2013.
 
 ÚNICO: El presente Decreto entrará en vigor a partir del día de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil catorce, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
