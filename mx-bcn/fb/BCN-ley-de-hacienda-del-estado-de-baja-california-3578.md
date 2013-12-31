@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2013-07-05"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1371,33 +1371,19 @@ Si quien efectúa los pagos está domiciliado fuera del Estado, y no tiene dentr
 
 15.- Son sujetos del impuesto las personas físicas y morales que se encuentran domiciliadas en el Estado, o tengan en éste agencias, sucursales o representación y realicen los pagos por remuneración al trabajo personal prestado bajo la dirección y dependencia de un tercero. Así como las personas que no se encuentren domiciliados en el Estado, ni tengan en éste agencias, sucursales o representación y realicen pagos por remuneraciones al trabajo a personas que presten sus servicios de carácter personal en el Estado.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 151
 
-16.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado, aplicada al total de los pagos efectuados por el empleador, según los períodos establecidos por el Artículo 151-14, o al total de las percepciones que en el mismo período obtengan de fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
+16.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado, aplicada al total de los pagos efectuados por el empleador, según los períodos establecidos por el Artículo 151-14, o al total de las percepciones que en el mismo período obtengan fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
-
-De los ingresos totales que se obtengan por concepto de recaudación de este impuesto, se destinará cuando menos el 30% al Fideicomiso Empresarial del Estado, el cual tendrá como obligaciones:
-
-Destinar el 10% a los siguientes objetivos:
+De los ingresos totales que se obtengan por concepto de recaudación de este Impuesto se destinará el 5% al fideicomiso empresarial del Estado, el cual tendrá como objetivos:
 
 a) Apoyar la Seguridad Pública en el Estado;
 
 b) Fomentar la Participación Social en la Educación; y
 
 c) Fortalecer las Comisiones y Consejos de Desarrollo Económico.
-
-Destinar el 20% restante a los siguientes objetivos:
-
-a) Fortalecer la política de desarrollo empresarial del Estado de Baja California, consensuada entre los sectores productivo, educativo y gubernamental.
-
-b) Impulsar las vocaciones productivas de la entidad.
-
-c) Mejorar la competitividad del Estado y las condiciones en que se desarrollan las actividades productivas acordes a nuestra realidad fronteriza.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
@@ -3190,3 +3176,11 @@ P.O. 5 DE JULIO DE 2013.
 PRIMERO: La presente reforma entrará en vigor el primero de enero de 2014.
 
 SEGUNDO: El Ejecutivo del Estado en el proyecto de Ley de Ingresos para el ejercicio fiscal 2014, deberá incluir las modificaciones pertinentes para la viabilidad de la presente reforma.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO: Se abroga el Decreto 486, mediante el cual se aprueba la reforma al artículo 151-16 de la Ley de Hacienda del Estado de Baja California, publicado el 05 de julio de 2013 en el Periódico Oficial del Estado de Baja California.
+
+TERCERO: En cumplimiento a lo establecido en el Considerando Décimo Octavo, esta Comisión adquiere el compromiso de analizar la posibilidad de un incremento razonable, efectivo para el ejercicio fiscal de 2015, al porcentaje previsto en el Artículo 151-16 de le (sic) Ley de Hacienda del Estado de Baja California.
