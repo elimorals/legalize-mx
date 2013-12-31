@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2013-05-13"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -371,7 +373,9 @@ IX. Autorizar las erogaciones correspondientes del presupuesto que se deriven de
 
 X. Ejecutar los acuerdos de la Junta de Gobierno;
 
-XI. Rendir ante la Junta de Gobierno, el informe anual de sus actividades, así como sobre el cumplimiento de los acuerdos de ésta; el resultado de los estados financieros; del avance en las metas establecidas en el Programa de Desarrollo, de los programas de operación autorizados; cumplimiento de los programas de obras y erogaciones de las mismas; presentación anual del programa de labores y los proyectos del presupuesto de ingresos y egresos para el siguiente período;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XI. Rendir ante la Junta de Gobierno, el informe anual de sus actividades, así como sobre el cumplimiento de los acuerdos de ésta; el resultado de los estados financieros; del avance en las metas establecidas en el Programa de Desarrollo, de los programas de operación autorizados; cumplimiento de los programas de obras y erogaciones de las mismas; presentación anual del programa de labores y los proyectos del presupuesto de ingresos y egresos para el siguiente período; así como un informe especial en el que relacione en forma analítica los volúmenes extraídos de las fuentes de abastecimiento de los sistemas hídricos y el monto de los derechos que por dicha extracción se hubiesen generado a favor de la Federación, al igual que los volúmenes totales otorgados a los contratantes del servicio y el monto total cobrado a los mismos por concepto de derechos de suministro de agua, a efectos de eficientar su operación;
 
 XII. Establecer relaciones de coordinación con las autoridades Federales, Estatales y Municipales e instituciones sociales y privadas, para el trámite y atención de asuntos de interés común;
 
@@ -1665,9 +1669,11 @@ IV. Una menor dependencia de los prestadores del servicio hacia el Estado y la F
 
 V. La orientación del desarrollo urbano e industrial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 134.
 
-Las cuotas y tarifas las someterá el prestador de los servicios aplicando las fórmulas que previamente se determinen, tomando en cuenta lo dispuesto para tal efecto en esta Ley, a la Junta de Gobierno y serán aprobadas por el Congreso del Estado.
+Las cuotas y tarifas las someterá el prestador de los servicios aplicando las fórmulas que previamente se determinen, tomando en cuenta lo dispuesto para tal efecto en esta Ley, a la Junta de Gobierno y a la Secretaría de Finanzas y Administración del Estado de Hidalgo y serán aprobadas por el Congreso del Estado.
 
 Las fórmulas para la determinación de las cuotas y tarifas y sus modificaciones se publicarán en el Periódico Oficial del Estado.
 
@@ -1691,13 +1697,17 @@ IV. La cuota por conexión a la red de drenaje y
 
 V. Las demás que se requieran conforme a los servicios que brinde el prestador del servicio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 137.
 
-Las revisiones a las fórmulas, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán por la Junta de Gobierno anualmente o cuando lo considere necesario. Dichas revisiones podrán hacerlas a petición de uno o varios prestadores de servicios, quienes deberán anexar una propuesta y un estudio técnico que la justifique.
+Las revisiones a las fórmulas, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán por la Junta de Gobierno y la Secretaría de Finanzas y Administración del Estado de Hidalgo anualmente o cuando lo considere necesario. Dichas revisiones podrán hacerlas a petición de uno o varios prestadores de servicios, quienes deberán anexar una propuesta y un estudio técnico que la justifique.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 138.
 
-Para el cálculo de las tarifas medias de equilibrio, el prestador de los servicios substituirá en las fórmulas que establezca la Junta de Gobierno, los valores de cada parámetro que correspondan a las características del sistema en particular. Se deberá tomar en cuenta la evolución prevista en las eficiencias físicas, comercial, operativa y financiera, de acuerdo con lo establecido en el Programa de Desarrollo.
+Para el cálculo de las tarifas medias de equilibrio, el prestador de los servicios substituirá en las fórmulas que establezcan la Junta de Gobierno y la Secretaría de Finanzas y Administración del Estado de Hidalgo, los valores de cada parámetro que correspondan a las características del sistema en particular. Se deberá tomar en cuenta la evolución prevista en las eficiencias físicas, comercial, operativa y financiera, de acuerdo con lo establecido en el Programa de Desarrollo.
 
 El prestador de los servicios podrá determinar una estructura tarifaría que tome en cuenta el tipo y nivel socioeconómico o la capacidad de pago de los diferentes estratos de usuarios, de forma que permita establecer criterios de equidad en el costo de dichos servicios. La estructura tarifaria deberá diseñarse de manera que de su aplicación resulten los mismos ingresos que si se aplicaran las tarifas medias.
 
@@ -1705,15 +1715,33 @@ Alternativamente, el Ejecutivo del Estado, podrá reglamentar la instrumentació
 
 El subsidio a que se refiere el párrafo anterior, se indicará en los recibos de manera separada a la cantidad a pagar por los usuarios en relación con el valor total de los servicios públicos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 139.
 
-Las tarifas medias calculadas conforme al procedimiento establecido en el artículo anterior, así como la congruencia entre las tarifas medias y la estructura tarifaria correspondiente, se actualizarán automáticamente cada vez que el Indice Nacional de Precios al Consumidor se incremente respecto del que estaba vigente la última vez que se establecieron, de acuerdo con la formula siguiente:
+Las tarifas a que se refiere esta Sección se actualizarán mensualmente considerando las variaciones en el índice Nacional de Precios al Consumidor emitido por el Instituto Nacional de Estadística y Geografía, en el Salario Mínimo General para el Área Geográfica que corresponde al Estado de Hidalgo emitido por la Comisión Nacional de los Salarios Mínimos y en la tarifa por consumo de energía eléctrica que la Comisión Federal de Electricidad establece para el prestador de servicios. Para ello, se utilizará el factor de actualización que se obtenga conforme a la siguiente fórmula:
 
-F = 0.20 x Incremento porcentual al salario mínimo contractual.
+> <small>N. DE E. VER FÓRMULA EN EL P.O. 31 DE DICIEMBRE DE 2013, PÁGINA 64.</small>
 
-+ 0.26 x Incremento porcentual a tarifa CFE que corresponda.
+INPCr es el Índice Nacional de Precios al Consumidor publicado en el mes en que se realiza la actualización.
 
-+ 0.54 x Incremento porcentual a la inflación publicada por el Banco de México.
+INPCa es el Índice Nacional de Precios al Consumidor publicado en el mes inmediato anterior a aquél en que se realiza la actualización.
+
+SMGAGHr es el Salario Mínimo General para el Área Geográfica que corresponde al Estado de Hidalgo vigente en el mes en que se realiza la actualización.
+
+SMGAGHa es el Salario Mínimo General para el Área Geográfica que corresponde al Estado de Hidalgo vigente en el mes inmediato anterior al que se realiza la actualización.
+
+CFEr es la tarifa por consumo de energía eléctrica que la Comisión Federal de Electricidad establece para el prestador de servicios y que se encuentra vigente en el mes en que se realiza la actualización.
+
+CFEa es la tarifa por consumo de energía eléctrica que la Comisión Federal de Electricidad establece para el prestador de servicios y que se encuentra vigente en el mes inmediato anterior a aquél en que se realiza la actualización.
+
+En ningún caso el factor de actualización será menor a la unidad y tampoco será menor al que hubiese resultado de haber considerado exclusivamente la variación en el índice Nacional de Precios al Consumidor.
+
+Las tarifas actualizadas a que se refiere el presente artículo serán utilizadas para calcular los derechos por suministro de agua que correspondan al mes siguiente en que estas hubieran sido actualizadas.
+
+Los cálculos relativos a la actualización a que se refiere el presente artículo serán elaborados por el prestador de los servicios, a más tardar el día 15 del mes de que se trate, y serán validados por la Secretaría de Finanzas y Administración del Estado de Hidalgo, previo a su·entrada en vigor.
+
+Las cuotas y tarifas actualizadas y validadas, serán publicadas en el portal de Internet del prestador de servicios y de la Secretaría de Finanzas y Administración del Estado de Hidalgo, debiendo mantener en dichos portales, cuando menos, las correspondientes a todos los meses de calendario de los últimos cinco ejercicios fiscales.
 
 ###### Artículo 140.
 
@@ -2166,3 +2194,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a esta Ley.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero de 2014, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La tabla que contiene los plazos y periodos de pago del Impuesto Sobre Tenencia y Uso de Vehículos, correspondiente a la reforma del artículo 37 de la Ley de Hacienda contenida en el artículo segundo del presente Decreto, será aplicable a partir del 1° de enero del 2015. Entretanto, los contribuyentes pagarán el Impuesto a que se refiere el mismo en los meses de enero, febrero, marzo y abril.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+CUARTO. Se abroga la Ley Estatal de Estímulos Fiscales para el Ejercicio Fiscal 2003, publicada en el Periódico Oficial del Estado de Hidalgo de fecha 30 de diciembre de 2002, dentro del Decreto número 16, expedido por la LVIII Legislatura Local.
