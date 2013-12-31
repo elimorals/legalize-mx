@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-y-servicios-del-61042"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-19"
-last_updated: "2013-02-09"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 19 de abril de 2008 y republicada en el P.O. el miércoles 30 de abril de 2008.
 
@@ -855,9 +855,9 @@ XII. Las demás que por cualquier causa se encuentren impedidas para ello por di
 
 La fecha de pago al proveedor que las dependencias y entidades estipulen en los contratos quedará sujeta a las condiciones que establezcan las mismas; sin embargo, no podrá exceder de treinta días naturales posteriores a la presentación de la factura respectiva, previa entrega de los bienes o prestación de los servicios en los términos del contrato.
 
-> <small>(F. DE E., P.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-El plazo al que se refiere el párrafo anterior, podrá ser mayor cuando la convocante pacte con el Licitante el pago a través de esquemas de factoraje financiero, en cuyo caso, no podrá exceder de 90 días naturales contados a partir de la presentación de la factura correspondiente.
+El plazo al que se refiere el párrafo anterior, podrá ser mayor cuando el contratista transmita sus derechos de cobro o crédito, previa autorización de la dependencia o entidad de que se trate, a través de esquemas de factoraje financiero a proveedores, en cuyo caso, el plazo que se fije para el pago no podrá exceder de 180 días naturales contados a partir de la presentación de la factura correspondiente.
 
 > <small>(F. DE E., P.O. 30 DE ABRIL DE 2008)</small>
 
@@ -1558,3 +1558,7 @@ P.O. 24 DE DICIEMBRE DE 2011.
 P.O. 9 DE FEBRERO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
