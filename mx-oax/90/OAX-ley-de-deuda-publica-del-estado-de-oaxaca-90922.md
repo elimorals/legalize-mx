@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-del-estado-de-oaxaca-90922"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2012-12-15"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sexta Sección del Periódico Oficial, del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -67,7 +67,9 @@ VI. Deuda Pública Municipal: Al total de obligaciones de pasivos derivados de l
 
 VII. Ejecutivo del Estado: Al Titular del Poder Ejecutivo;
 
-VIII. Endeudamiento Neto: A la diferencia entre los ingresos derivados de deuda y los pagos de capital de deuda;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VIII. Endeudamiento: Al monto autorizado por el Congreso para la contratación de empréstitos, financiamientos u obligaciones financieras a plazo;
 
 IX. Emergencia: A las situaciones fortuitas y de fuerza mayor que requieran de atención inmediata, ya que pueden causar importantes daños a gran parte de una comunidad o área, comprometiendo la seguridad e integridad de su población;
 
@@ -79,7 +81,9 @@ XII. Financiamientos: A los obtenidos por la celebración de Empréstitos autori
 
 XIII. Garantía: Al instrumento jurídico que asegure el cumplimiento de obligaciones en caso de incumplimiento;
 
-XIV. Ingresos Ordinarios: A los ingresos contenidos en la Ley de Ingresos del Estado para el ejercicio fiscal que corresponda;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XIV. Ingresos Ordinarios: A los ingresos contenidos en la Ley de Ingresos del Estado y en la Ley de Ingresos Municipal para el ejercicio fiscal que corresponda;
 
 XV. Ingresos Propios: A los ingresos que se perciban por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y sus accesorios;
 
@@ -141,9 +145,13 @@ III. Los Municipios.
 
 Corresponde al Pleno del Congreso, en materia de Deuda Pública autorizar:
 
-I. Los montos máximos de Endeudamiento Neto a los Sujetos Obligados en las correspondientes leyes de ingresos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-II. La contratación de montos adicionales de Endeudamiento Neto a los aprobados en las leyes de ingresos correspondientes;
+I. Los montos máximos de Endeudamiento a los Sujetos Obligados en las correspondientes leyes de ingresos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+II. La contratación de montos adicionales de Endeudamiento a los aprobados en las leyes de ingresos correspondientes;
 
 III. Las Afectaciones que se destinen como garantía, fuente de pago o ambas;
 
@@ -159,19 +167,25 @@ VIII. En el Presupuesto de Egresos del Estado los montos de amortizaciones de la
 
 IX. En general, todas las operaciones de financiamiento que comprendan obligaciones a plazo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 7.
 
-El Congreso, previa solicitud debidamente fundada y motivada del Ejecutivo del Estado y de los Municipios, según sea el caso, podrá autorizar el ejercicio de montos y conceptos de Endeudamiento Neto adicionales a los previstos en sus respectivas leyes de ingresos, mediante reformas o modificaciones a las mismas o decretos específicos.
+El Congreso, previa solicitud debidamente fundada y motivada del Ejecutivo del Estado y de los Municipios, según sea el caso, podrá autorizar el ejercicio de montos y conceptos de Endeudamiento adicionales a los previstos en sus respectivas leyes de ingresos, mediante reformas o modificaciones a las mismas o decretos específicos.
 
-Tratándose del último año de la administración, los sujetos obligados podrán contratar deuda u obligaciones de pago, siempre que:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Tratándose del último año de la administración, los Sujetos Obligados podrán contratar deuda, siempre que:
 
 a) El plazo de pago del monto principal de la deuda no exceda de 180 días naturales contados a partir de la fecha de la contratación;
 
 b) El plazo de pago no exceda el período constitucional de la administración que contrató dicha deuda, ni se suscriba dentro de los 90 días naturales anteriores a la conclusión de dicho periodo constitucional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 8.
 
-En los casos de emergencia o desastre, el Congreso del Estado, podrá autorizar la contratación de deuda adicional hasta por un monto igual al Endeudamiento Neto en la Ley de Ingresos correspondiente, siempre y cuando se cumplan los siguientes requisitos:
+En los casos de emergencia o desastre, el Congreso, podrá autorizar la contratación de deuda adicional hasta por un monto igual al Endeudamiento en la Ley de Ingresos correspondiente, siempre y cuando se cumplan los siguientes requisitos:
 
 I. El Ejecutivo notifique al Congreso de la estimación del daño en términos de la Ley de Protección Civil para el Estado de Oaxaca; e
 
@@ -181,9 +195,15 @@ Concluido el proceso de atención de emergencia o desastre, el Ejecutivo del Est
 
 Los montos adicionales de deuda a que se refiere este artículo, no podrán ser destinados a fines distintos a la emergencia o desastre que lo motivó.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 9.
 
-El Ejecutivo del Estado podrá realizar la contratación de Obligaciones de Pago hasta por un monto del 5% de los ingresos ordinarios con el propósito de solventar necesidades temporales de flujo de caja, que no excedan de 90 días naturales o que su pago se realice dentro del propio ejercicio fiscal.
+Los Sujetos Obligados podrán realizar la contratación de Obligaciones de Pago hasta por un monto del 10% de los ingresos ordinarios con el propósito de solventar necesidades temporales de flujo de caja, que no excedan de 90 días naturales o que su pago se realice dentro del propio ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Esta disposición aplicará para municipios con capacidad de pago en función de sus participaciones. Tratándose del Ejecutivo del Estado dicha contratación se realizará por conducto de la Secretaría.
 
 Para la contratación a que se refiere el párrafo anterior, una vez alcanzado el monto de referencia, no se podrá contratar una obligación similar sino hasta los treinta días posteriores a su liquidación.
 
@@ -191,13 +211,13 @@ Estas obligaciones formarán parte del Registro.
 
 Las obligaciones de pago contratadas por el Ejecutivo del Estado con base en lo dispuesto por el presente artículo, no podrán ser pagadas con Deuda Pública.
 
-(El presente artículo se publica con las observaciones realizadas por el Poder Ejecutivo del Estado, por oficio fechado 19 de abril de 2012 y recibido en el H. Congreso del Estado con fecha 13 del mismo mes y año, de conformidad con lo dispuesto en el segundo párrafo de la fracción VI, del artículo 53, de la Constitución Política del Estado Libre y Soberano de Oaxaca).
-
 ###### Artículo 10.
 
 Corresponde al Ejecutivo del Estado a través de la Secretaría, en materia de Deuda Pública:
 
-I. Presentar anualmente al Congreso Iniciativa de Ley de Ingresos, los montos de Endeudamientos Netos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+I. Presentar anualmente al Congreso en la Iniciativa de Ley de Ingresos, los montos de Endeudamiento;
 
 II. Presentar y gestionar ante el Congreso las solicitudes de Refinanciamiento o Reestructuración, acompañado de los informes financieros, técnicos según sea el caso, para su justificación;
 
@@ -219,7 +239,9 @@ IX. Realizar las retenciones de los recursos para el pago de la deuda contraída
 
 Corresponde a la Secretaría, en materia de Deuda Pública:
 
-I. Formular el capítulo de Endeudamiento Neto en el proyecto de Ley de Ingresos del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+I. Formular el capítulo de Endeudamiento en el proyecto de Ley de Ingresos del Estado;
 
 II. Vigilar, que se incluyan en el proyecto de Presupuesto de Egresos, los montos necesarios para satisfacer puntualmente los compromisos derivados de la deuda contraída en términos de esta Ley y demás disposiciones aplicables;
 
@@ -257,7 +279,9 @@ XV. Certificar la cancelación del Registro de la Deuda Pública.
 
 Corresponde a los Municipios, en materia de Deuda Pública:
 
-I. Incluir en los proyectos de Ley de Ingresos correspondientes el monto de Endeudamiento Neto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+I. Incluir en los proyectos de Ley de Ingresos correspondientes el monto de Endeudamiento;
 
 II. Proveer en el Presupuesto de Egresos correspondiente las partidas destinadas al pago del servicio de la Deuda Pública y Obligaciones de pago a cargo de los Municipios;
 
@@ -285,13 +309,17 @@ Las atribuciones a que se refiere este artículo serán ejercidas, en lo conduce
 
 Los Sujetos Obligados únicamente podrán llevar a cabo operaciones que constituyan Deuda Pública cuando los recursos obtenidos de las mismas se destinen a Inversiones Públicas Productivas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 14.
 
-La contratación de Instrumentos Derivados no impactará en el cálculo de Endeudamiento Neto aprobado por el Congreso.
+La contratación de Instrumentos Derivados no impactará en el cálculo de Endeudamiento aprobado por el Congreso.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 15.
 
-La contratación de deuda y la conformación de Obligaciones de pago a cargo de los Municipios deberán ser previamente autorizadas por sus respectivos Ayuntamientos. Lo anterior, en el entendido que el Endeudamiento Neto y las Obligaciones de Pago que contraten los Municipios deberán estar contempladas en la Ley de Ingresos correspondiente y autorizado por el Congreso. Asimismo los montos deberán ser iguales o menores a los autorizados por la Ley General de Ingresos Municipales para el ejercicio fiscal que corresponda. Cualquier modificación al destino de la deuda autorizada así como a las demás especificaciones, requerirá la autorización del Congreso.
+La contratación de deuda y la conformación de Obligaciones de Pago a cargo de los Municipios deberán ser previamente autorizadas por sus respectivos Ayuntamientos. Lo anterior, en el entendido que el Endeudamiento y las Obligaciones de Pago que contraten los Municipios deberán estar contempladas en la Ley de Ingresos correspondiente y autorizado por el Congreso. Así mismo los montos deberán ser iguales o menores a los autorizados por la Ley General de Ingresos Municipales para el ejercicio fiscal que corresponda. Cualquier modificación al destino de la deuda autorizada así como a las demás especificaciones, requerirá la autorización del Congreso.
 
 ###### Artículo 16.
 
@@ -363,13 +391,19 @@ IV. Descripción de los elementos principales de la operación cuyo registro se 
 
 a) Deudor directo;
 
-b) Acreedor;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+b) Acreedor, proveedor o contratista;
 
 c) Tipo de operación;
 
-d) Importe;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-e) Destino;
+d) Importe total;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+e) Fin, destino y objeto;
 
 f) Tasa de interés ordinario;
 
@@ -383,7 +417,9 @@ j) Amortizaciones;
 
 k) Afectación;
 
-l) Garantías; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+l) Importe y porcentaje del total que se paga o garantiza con las participaciones y aportaciones federales, y
 
 m) Cualquier otro documento o información relevante del financiamiento.
 
@@ -618,3 +654,9 @@ Tlalixtac de Cabrera, Centro, Oax., a 14 de Diciembre del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
