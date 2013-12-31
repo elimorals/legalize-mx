@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2013-11-11"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -117,9 +117,9 @@ Son extraordinarios los que se decreten excepcionalmente para cubrir los gastos 
 
 Los impuestos, derechos y contribuciones de mejoras, podrán generar accesorios, los cuales siguen la suerte de la contribución principal.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Los accesorios son los recargos moratorios, las sanciones, los gastos de ejecución y la indemnización por la falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal.
+Los accesorios de las contribuciones y de los aprovechamientos, son los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el artículo 43 de este Código, los cuales participan de la naturaleza de la suerte principal, cuando se encuentren vinculados directamente a la misma.
 
 ###### ARTICULO 12.
 
@@ -133,9 +133,11 @@ Son derechos las contraprestaciones establecidas por el poder público, conforme
 
 Son productos los ingresos que percibe el Estado por actividades que no corresponden al desarrollo de sus funciones propias de derecho público y por la explotación o venta de sus bienes patrimoniales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 15.
 
-Son aprovechamientos los recargos, las multas y los demás ingresos del Estado no clasificables como impuestos, derechos, contribuciones de mejoras o participaciones.
+Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público y por el uso, aprovechamiento o explotación de bienes del dominio público distintos de las contribuciones, de los ingresos derivados de financiamiento, y de los que obtengan las empresas de participación estatal y organismos descentralizados, salvo que en este último caso se encuentren previstos como tales en este Código, así como los demás ingresos a que se refiere el Artículo 83 de la Ley de Hacienda del Estado de Aguascalientes.
 
 ###### ARTICULO 16.
 
@@ -223,7 +225,11 @@ Son obligaciones de los sujetos pasivos:
 
 I.- Pagar el crédito fiscal, en los términos que dispongan las leyes fiscales.
 
-II.- Empadronarse en el registro de contribuyentes del Estado y dar aviso de los cambios de domicilio, giro, razón o denominación social, clausura o suspensión de sus actividades en los términos que dispongan las leyes fiscales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+II.- Empadronarse en el Registro de Contribuyentes del Estado, dar aviso de los cambios de domicilio, de razón o denominación social, de actualización de actividades económicas y obligaciones, de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos, de lugares en donde se almacenan mercancías y en general de cualquier lugar que se utilice para el desempeño de actividades, así como dar aviso de clausura o suspensión de sus actividades, en los términos que dispongan las leyes fiscales; el plazo para presentar los avisos a que se refiere el presente Artículo.
+
+Cuando no exista disposición expresa para presentar algún aviso, será de 30 días naturales a partir del momento en que se dé el hecho o acto jurídico generador.
 
 III.- Expedir o recabar los comprobantes que las disposiciones tributarias señalen.
 
@@ -287,6 +293,8 @@ III.- Las demás personas que de modo general señalen las leyes fiscales del Es
 
 ### CAPITULO II. "Del Domicilio"
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 30.
 
 Para los efectos fiscales se considera domicilio de los sujetos pasivos, responsables solidarios o responsables objetivos, el que establezcan las leyes fiscales.
@@ -299,15 +307,23 @@ b) El lugar en que habitualmente realicen actividades, o tengan bienes que den o
 
 c) La casa en que habiten.
 
-d) A falta de lo anterior, el lugar donde se encuentren.
+d) Cuando tengan bienes que den lugar a contribuciones, el lugar en el que se encuentren los bienes.
+
+e) A falta de lo anterior, el lugar en donde se encuentren.
 
 II.- Tratándose de personas morales:
 
 a) El lugar en donde se encuentre establecida la administración principal del negocio.
 
-b) En defecto de lo indicado en el inciso anterior, el lugar en que se encuentre el establecimiento principal.
+En caso de que la administración principal se encuentre fuera del Estado, será el local que dentro del Estado se ocupe para la realización de sus actividades.
+
+b) El domicilio del Representante Legal, cuando no se localice al contribuyente según los anteriores supuestos.
 
 c) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+
+III.- Tratándose de contribuciones relacionadas con bienes inmuebles, el lugar en donde se encuentre el inmueble respectivo, a menos que el contribuyente hubiera señalado, por escrito, a la autoridad fiscal competente otro domicilio distinto, dentro del Estado.
+
+Cuando los contribuyentes señalen como domicilio fiscal uno diferente a los establecidos en este Artículo, las autoridades fiscales podrán practicar diligencias en el lugar que conforme a este Código se considera domicilio fiscal. Lo establecido en este párrafo no es aplicable al domicilio que los contribuyentes indiquen en sus promociones para oír y recibir notificaciones.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -411,29 +427,45 @@ Los giros postales, telegráficos o bancarios, los cheques certificados y los pe
 
 La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Finanzas para exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque. Esta indemnización y el cobro del cheque se notificará y se hará efectivo mediante los procedimientos establecidos en este Código, para los demás créditos fiscales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 44.
 
-Sólo por acuerdo del Gobernador del Estado o Secretario de Finanzas, podrá concederse prórroga para el pago total de los créditos fiscales, o para que los mismos sean cubiertos en parcialidades, bajo las siguientes condiciones:
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de doce meses para pago diferido y de treinta y seis meses para pago en parcialidades, siempre y cuando los contribuyentes:
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+I.- Presenten solicitud por escrito ante la autoridad fiscal.
 
-I.- La prórroga no excederá de un año; pero si a juicio del Gobernador del Estado o del Secretario de Finanzas, se trata de créditos cuantiosos o situaciones excepcionales, caso en el cual podrá extenderse hasta dos años más.
+La modalidad del pago a plazos elegida por el contribuyente en el formato de la solicitud de autorización de pago a plazos podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente Artículo. A juicio del Gobernador del Estado o del Secretario de Finanzas del Estado, cuando se trate de créditos cuantiosos o situaciones excepcionales, la modalidad del pago a plazos podrá autorizarse por otra ocasión más.
 
-II.- Solamente se concederá, previo aseguramiento del interés fiscal, salvo que conforme a este código proceda su dispensa.
+II.- Paguen el 20% del monto total del crédito fiscal al momento de la solicitud de autorización del pago a plazos. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
 
-III.- Durante el lapso concedido para el pago de un crédito fiscal, definido en el momento de autorizarse la prórroga, se causarán recargos en los términos previstos por la Ley de Ingresos del Estado.
+a) El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
 
-IV.- El interesado deberá comprobar plenamente que se encuentra en desfavorable situación económica. Tal comprobación se hará ante y bajo la responsabilidad de la autoridad que la conceda.
+b) Las multas que correspondan actualizadas desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
 
-V.- Sólo podrá concederse prórroga para el pago de créditos fiscales cuando con ello no se comprometa su percepción.
+c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que solicite la autorización.
+
+Tratándose de la autorización del pago a plazos en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir el pago correspondiente al 20% señalado en esta Fracción II, del monto total del adeudo a que se hace referencia en los incisos anteriores.
+
+La actualización que corresponda al periodo mencionado, conforme a lo previsto en la Ley de Ingresos del Estado de Aguascalientes, que queda incluida en la tasa mensual de recargos por prórroga que comprende la actualización de acuerdo a la Ley de Ingresos de la Federación vigente en la fecha de la solicitud de autorización de pago a plazos en parcialidades.
+
+Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades no cubiertas actualizadas, de (sic) conforme a lo previsto en la Ley de Ingresos del Estado de Aguascalientes, por el número de meses o fracción de mes desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
+
+Tratándose de la autorización del pago a plazos de forma diferida, el monto que se diferirá será el resultado de restar el pago correspondiente al 20% señalado en la Fracción II de este Artículo, del monto total del adeudo a que hace referencia dicha Fracción.
+
+El monto a liquidar por el contribuyente, se calculará adicionando al monto referido en el párrafo anterior, la cantidad que resulte de multiplicar la tasa de recargos por prórroga, que incluye actualización, que corresponda al periodo mencionado, conforme a lo previsto en la Ley de Ingresos del Estado de Aguascalientes, vigente en la fecha de la solicitud de autorización de pago a plazos de forma diferida, por el número de meses, o fracción de mes transcurridos desde la fecha de la solicitud de pago a plazos de forma diferida y hasta la fecha señalada por el contribuyente para liquidar su adeudo y por el monto que se diferirá.
+
+El monto para liquidar el adeudo a que se hace referencia en el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago a plazos.
+
+Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la Fracción II de este Artículo, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado.
 
 ###### ARTICULO 45.
 
 Cesará la autorización de la prórroga para el pago total o en parcialidades del crédito fiscal y será exigible de inmediato:
 
-I.- Cuando desaparezca o resulte insuficiente la garantía del interés fiscal.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+I.- Cuando no se otorgue, desaparezca o resulte insuficiente la garantía del interés fiscal, en los casos que no se hubiere dispensado, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
 
 II.- Cuando el deudor cambie de domicilio sin dar aviso a la autoridad fiscal.
 
@@ -611,6 +643,10 @@ V.- Obligación solidaria asumida por tercero, que compruebe su idoneidad y solv
 
 La garantía de un crédito fiscal deberá incluir la de los posibles recargos y gastos de ejecución.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+La garantía deberá cubrir, además de las contribuciones adeudadas, su actualización, los accesorios causados, así como la actualización y recargos que se generen en los doce meses siguientes a su otorgamiento. Al terminar este periodo y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 64.
@@ -618,6 +654,18 @@ La garantía de un crédito fiscal deberá incluir la de los posibles recargos y
 La Secretaría de Finanzas determinará los requisitos que deban reunir las garantías, aceptará, previa calificación, las que se ofrezcan y verificará periódicamente o cuando lo estime oportuno, que tales garantías conserven su vigencia; en caso contrario, tomará las medidas necesarias para asegurar el interés fiscal.
 
 La misma Secretaría podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo sea notoria la amplia solvencia del deudor, o su insuficiencia económica.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del Artículo 63 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Si la garantía consiste en depósito en dinero, una vez que el crédito fiscal quede firme procederá su aplicación por parte de la Secretaría de Finanzas del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de fianzas a favor de la Secretaría de Finanzas del Estado otorgada para garantizar obligaciones fiscales, al hacerse exigible, se estará a lo dispuesto en las leyes que rijan la materia.
 
 ## TITULO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1179,29 +1227,45 @@ d) Los libros o registros de contabilidad deberán conservarse en el domicilio d
 
 #### SECCION SEGUNDA. De las Notificaciones
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 116.
 
-Las notificaciones a los particulares de citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdo o resoluciones administrativas que puedan ser recurridas se harán:
+Las notificaciones de los actos administrativos se harán:
 
-I.- Personalmente.
+I.- Personalmente o por correo certificado o mensaje de datos con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
 
-II.- Mediante oficio entregado por mensajero o por correo certificado con acuse de recibo.
+II. - Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la Fracción anterior.
 
-III.- Por edictos, únicamente en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio, o se encuentre en el extranjero sin haber dejado representante legal acreditado ante las autoridades fiscales.
+III.- Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro de Contribuyentes del Estado, cuando en una petición o instancia el promovente no hubiera señalado domicilio para oír y recibir notificaciones, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, o el domicilio señalado no exista, sea impreciso, incompleto para practicar la notificación. Asimismo, cuando la persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación, hubiera desocupado su domicilio sin haber presentado el aviso de cambio correspondiente, hubiere señalado de manera incorrecta el domicilio y en los demás casos que señalen las Leyes fiscales y este Código. En este caso la notificación se hará fijando durante cinco días el documento que pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. Para los efectos de esta Fracción, se tendrá como fecha de notificación la del sexto día siguiente en que se hubiera fijado en el estrado el documento correspondiente.
+
+IV.- Por edictos, en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión.
+
+V.- Por instructivo, solamente en los casos y con las formalidades a que se refiere el Artículo 118 de este Código.
+
+VI.- Por correo electrónico, en los casos y términos que se establezcan conforme a las Reglas de carácter general que para esos efectos emita la Secretaría de Finanzas del Estado.
+
+En este caso, la notificación se considerará efectuada legalmente, aun cuando la misma hubiese sido recibida por una persona distinta al promovente o su representante legal, para cuyos efectos deberá enviarse el acuse de recibo correspondiente por la misma vía.
 
 ###### ARTICULO 117.
 
 Los acuerdos distintos de los señalados en el artículo anterior, podrán ser notificados por medio de oficio o telegrama.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 118.
 
-Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate; a falta de señalamiento, se estará a las reglas del artículo 30 de este código.
+Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate; a falta de señalamiento, se estará a las reglas del Artículo 30 de este Código.
 
-Se entenderán con la persona que deba ser notificada, o con su representante legal; a falta de ambos, el notificador cerciorado de ser el domicilio designado, o el establecido por la ley para efectos fiscales, dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrara cerrado, el citatorio se dejará con el vecino más inmediato.
+Se entenderán con la persona que deba ser notificada, o con su representante legal; a falta de ambos, el notificador cerciorado de ser el domicilio designado, o el establecido por la ley para efectos fiscales, dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día siguiente, si la persona que se encuentre en el domicilio se negare a recibir el citatorio, a identificarse o a firmar el mismo, la cita se hará por instructivo que se fijará en la puerta del domicilio o en un lugar visible del mismo y el notificador hará constar esa situación en el acta que al efecto se levante.
 
-Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia. Cerciorado nuevamente el notificador de lo establecido por el párrafo anterior y de negarse la persona a recibirlo, la diligencia se realizará por instructivo que se fijará en la puerta del domicilio. En el momento de la notificación se entregará al notificado, o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
+Si el domicilio se encontrara cerrado, el citatorio se dejará con el vecino más inmediato y si éste se negare a recibirlo se citará por instructivo.
 
-De las diligencias de notificación o cita, debe el notificador levantar acta por escrito.
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia. Cerciorado nuevamente el notificador de lo establecido por el párrafo anterior y de negarse la persona a recibirlo, a identificarse o a firmar la misma, la diligencia se realizará por instructivo que se fijará en la puerta del domicilio. En el momento de la notificación se entregará al notificado, o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación. De las diligencias de notificación o cita, debe el notificador levantar acta por escrito.
+
+La notificación se realizará por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro de Contribuyentes del Estado, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o desocupe el lugar donde tenga su domicilio sin presentar el aviso de cambio de domicilio correspondiente, después de la notificación de la orden de visita, o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, o tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de presentar dicho aviso y en los demás casos que señalen las Leyes fiscales y este Código.
+
+Toda notificación personal, realizada con quien deba entenderse será legalmente válida aun cuando no se efectué en el domicilio respectivo o en las oficinas de las autoridades fiscales del Estado.
 
 ###### ARTICULO 119.
 
@@ -1343,6 +1407,18 @@ II.- Que el dictamen se formule conforme a las normas y procedimientos de audito
 
 Las opiniones o interpretaciones contenidas en los dictámenes no obligan a las autoridades fiscales, las que podrán ejercer directamente sus facultades de inspección y comprobación sobre los sujetos pasivos o responsables solidarios y determinar las liquidaciones de impuestos omitidos que correspondan.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 133 BIS.- Los contribuyentes del impuesto sobre nóminas, podrán dictaminar por contador público registrado el cumplimiento de sus obligaciones fiscales referidas en el capítulo VII de la Ley de Hacienda del Estado de Aguascalientes, de acuerdo con las reglas de carácter general que para tal efecto emita la Secretaría de Finanzas del Estado.
+
+Para tal efecto, mediante escrito libre los contribuyentes manifestarán ante la Secretaría de Finanzas del Estado que optan por presentar el dictamen a que se refiere el párrafo anterior, en un plazo no mayor de 30 días hábiles, contados a partir de la fecha del escrito respectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 133 TER.- Las revisiones o las visitas domiciliarias ordenadas para verificar el cumplimiento del impuesto sobre nóminas deberán concluirse anticipadamente, cuando el contribuyente objeto de la revisión o visita antes del inicio de la auditoría hubiere presentado el aviso que consigna el Artículo anterior, siempre que el escrito correspondiente cumpla con los requisitos indicados en dicho precepto.
+
+El dictamen que practique el contador público registrado, deberá reunir los requisitos previstos en el Artículo 133 del presente Código.
+
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 134.
@@ -1411,6 +1487,26 @@ IV.- Por otras irregularidades en la contabilidad que imposibiliten el conocimie
 
 V.- Por causas diversas de las anteriores que imposibiliten la determinación de dicha base.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 141 BIS.- Para efectos del Artículo anterior, las autoridades fiscales al determinar estimativamente la base gravable de las contribuciones, podrán considerar lo siguiente:
+
+I.- La información contenida en libros, registros, sistemas de contabilidad y documentación comprobatoria que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aun cuando aparezcan sin su nombre o a nombre de otra persona;
+
+II.- La información escrita o documentos de terceros relacionados con el contribuyente, localizados en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente;
+
+III.- La información escrita o documentos de terceros relacionados con el contribuyente, corresponde a operaciones realizadas por éste, en cualquiera de los casos siguientes:
+
+a) Cuando se refieran al contribuyente designado por su nombre, denominación o razón social;
+
+b) Cuando señalen como lugar para la entrega o recibo de bienes o prestación de servicios cualquiera de los establecimientos del contribuyente, aun cuando exprese el nombre, denominación o razón social de un tercero real o ficticio;
+
+c) Cuando señalen el nombre o domicilio de un tercero, real o ficticio, si se comprueba que el contribuyente entrega o recibe bienes o servicios a ese nombre o en su domicilio, y
+
+d) Cuando se refiera a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
+
+IV.- Los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad, son ingresos del mismo.
+
 ###### ARTICULO 142.
 
 En el caso de que los contribuyentes se coloquen en alguna de las causales de estimativa a que se refiere el artículo anterior, y no puedan comprobar su ingreso por el período objeto de revisión, se presumirá que el ingreso es igual al resultado de alguna de las siguientes operaciones:
@@ -1461,27 +1557,47 @@ El personal de la Secretaría de Finanzas será responsable por la falta de pago
 
 Para llevar a cabo el procedimiento antes mencionado, la autoridad fiscal del Estado será auxiliada por la Policía Preventiva y Judicial, si así lo solicita.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 149.
 
-La autoridad ejecutora ordenará requerir al deudor para que efectúe el pago dentro de los tres días siguientes a dicho requerimiento, apercibido de que de no hacerlo, se le embargarán bienes suficientes para hacer efectivo el crédito fiscal y sus accesorios legales.
+El procedimiento administrativo de ejecución se iniciará por la autoridad ejecutora donde se encuentre radicado el crédito fiscal para su cobro, dictándose mandamiento de ejecución motivado y fundado, que consistirá en una orden del jefe de esa oficina, en la que se expondrán las razones y fundamentos legales que la apoyen, disponiendo que se requiera al deudor para que demuestre en el acto haber efectuado el pago del crédito, apercibiéndolo de que de no hacerlo, se le embargarán, para hacer efectivo el crédito fiscal y sus accesorios legales, bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del fisco, o a embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
 
-El requerimiento de pago se notificará según el caso, en los términos de las fracciones I o III del artículo 116 de este código. Cuando el requerimiento se haga personalmente, el ejecutor entregará copia del mandamiento de ejecución a la persona con quien se entienda la diligencia y levantará acta pormenorizada, de la que también entregará copia.
+En el mismo mandamiento de ejecución, la autoridad ejecutora designará al ejecutor o a la persona habilitada por la autoridad fiscal para esos efectos que deban practicar el requerimiento y, en su caso, el embargo de bienes en cualquier parte del Estado de Aguascalientes.
+
+No será necesario expedir mandamiento de ejecución cuando el crédito fiscal haya sido garantizado mediante depósito en efectivo. En este caso, el jefe de la oficina recaudadora, expedirá acuerdo ordenando su aplicación definitiva en pago del crédito correspondiente.
+
+Dicho acuerdo se hará del conocimiento del deudor u oferente de la garantía. Cuando el depósito no cubra el importe total del adeudo, se expedirá mandamiento de ejecución sólo por la diferencia insoluta para hacerla efectiva al deudor.
+
+Cuando el requerimiento se haga personalmente, el ejecutor o la persona habilitada por la autoridad fiscal entregará copia del mandamiento de ejecución a la persona con quien entienda la diligencia y levantará acta pormenorizada, de la que también entregará copia, sin que para tal efecto deba levantarse acta de notificación que cumpla con las formalidades establecidas en la Sección Segunda, del Capítulo II, del Título Cuarto, de este Código, relativo a las Notificaciones.
+
+Cuando la exigibilidad del crédito fiscal y sus accesorios se origine por cese de la prórroga, o de la autorización para el pago en parcialidades, por error aritmético en las declaraciones o por las situaciones previstas en el Artículo 112 de este Código, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta efectos la notificación del requerimiento.
+
+El requerimiento de pago a que se refiere el párrafo anterior, se notificará en los términos de las fracciones I, III, IV, V o VI del Artículo 116 de este Código.
+
+Cuando haya transcurrido el plazo de seis días a que se refiere el párrafo primero de este Artículo, y el contribuyente no haya efectuado el pago del crédito fiscal que se le requirió, la autoridad ejecutora deberá emitir mandamiento de ejecución de acuerdo a lo dispuesto en el primer párrafo de este Artículo.
 
 #### SECCION PRIMERA. Del Requerimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 150.
 
-El requerimiento de pago deberá expresar:
+El mandamiento de ejecución deberá expresar:
 
 I.- El nombre del contribuyente.
 
 II.- El concepto y monto del adeudo.
 
-III.- El plazo para realizar el pago o para dar cumplimiento al mismo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-IV.- El apercibimiento de que, de no darle cumplimiento, se embargarán bienes suficientes para garantizar el crédito fiscal insoluto y las demás prestaciones derivadas del mismo.
+III.- El señalamiento que se requiera al deudor para que demuestre en el acto haber efectuado el pago del crédito, apercibiéndolo de que de no hacerlo, se le embargarán bienes suficientes para hacer efectivo el crédito fiscal y sus accesorios legales, en su caso, el plazo para realizar el pago y en este caso el apercibimiento de que, de no realizarlo dentro de ese plazo, se embargarán bienes suficientes para garantizar el crédito fiscal insoluto y las demás prestaciones derivadas del mismo;
 
-V.- El nombre del ejecutor.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV.- El nombre del ejecutor.
+
+V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -1527,7 +1643,9 @@ Si el requerimiento se realizó por edictos, la diligencia de embargo se entende
 
 Procede el aseguramiento administrativo de bienes:
 
-I.- Cuando transcurra el plazo de tres días posteriores al requerimiento de pago, sin que el deudor cubra totalmente el crédito fiscal.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+I.- En caso de que el deudor o su representante legal no prueben en el acto del requerimiento de pago, haber efectuado el pago del crédito fiscal.
 
 II.- En los casos a que se refiere el artículo anterior.
 
@@ -1649,13 +1767,29 @@ El ministerio público asumirá, en este caso, las facultades que concede a los 
 
 Cuando se embargue dinero, metales preciosos, alhajas u otros objetos de arte y valores mobiliarios, serán enviados desde luego, en calidad de depósito a la dependencia ejecutora.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 172.
 
-Los receptores de rentas bajo su responsabilidad y por mandato expreso, nombrarán y removerán libremente a los depositarios, quienes asumirán las funciones de administración en el caso de embargo de bienes raíces y de interventores en negociaciones comerciales, industriales, agrícolas, ganaderas o de cualquier otro tipo.
+Los bienes o negociaciones embargados se podrán dejar bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras, bajo su responsabilidad, nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales. Cuando se efectúe la remoción del depositario, éste deberá poner a disposición de la autoridad ejecutora los bienes que fueron objeto de la depositaria, pudiendo ésta realizar la sustracción de los bienes para depositarlos en almacenes bajo su resguardo o entregarlos al nuevo depositario.
+
+En los embargos de bienes raíces o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según el caso, con las facultades y obligaciones señaladas en los Artículos 173, 174 y 175 de este Código.
+
+La responsabilidad de los depositarios cesará con la entrega de los bienes embargados a satisfacción de las autoridades fiscales.
+
+El depositario será designado por el ejecutor cuando no lo hubiere hecho el jefe de la oficina exactora, pudiendo recaer el nombramiento en el ejecutado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 173.
 
-Cuando se embarguen negociaciones comerciales, industriales, agrícolas y ganaderas o de cualquier otro giro y se practique intervención con cargo a la caja de dichas negociaciones, las autoridades correspondientes podrán ordenar que se retenga hasta el 25% de los ingresos diarios, a fin de garantizar el importe del crédito fiscal adeudado.
+Cuando las autoridades fiscales embarguen negociaciones, el depositario designado tendrá el carácter de interventor con cargo a la caja o de administrador. El interventor con cargo a la caja después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, así como los costos y gastos indispensables para la operación de la negociación, deberá retirar de la negociación intervenida hasta el 10% de los ingresos percibidos en efectivo, mediante transferencia electrónica o depósitos a través de instituciones del sistema financiero, y enterarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
+
+En la intervención de negociaciones será aplicable, en lo conducente, las secciones de este Capítulo.
+
+Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
+
+Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables o, en su caso, procederá a solicitar ante la autoridad competente el inicio del concurso mercantil.
 
 ###### ARTICULO 174.
 
@@ -1671,7 +1805,9 @@ II.- Manifestar a la dependencia ejecutora su domicilio y casa habitación, así
 
 III.- Remitir a la Secretaría de Finanzas o a la dependencia ejecutora, inventario de los bienes o negociaciones objeto del secuestro, con expresión de los valores determinados en el momento del embargo, incluso los de arrendamiento, si se hicieren constar en la diligencia, o en caso contrario, luego que sean recabados. En todo caso, en el inventario se hará constar la ubicación de los bienes o el lugar donde se guarden, a cuyo respecto todo depositario dará cuenta a la misma oficina de los cambios de localización que se efectuaren.
 
-IV.- Recaudar los frutos y productos de los bienes o negociaciones embargadas, o los resultados netos de las negociaciones y entregar su importe a la caja de la dependencia ejecutora diariamente a medida que se efectúe la recaudación.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV.- Recaudar los frutos y productos de los bienes o negociaciones embargadas, o los resultados netos de las negociaciones en la forma y términos dispuestos en el Artículo anterior.
 
 V.- Ejercitar ante las autoridades competentes las acciones y actos de gestión necesarios para hacer efectivos los créditos materia del depósito o incluidos en él, así como las rentas, regalías y cualesquiera otras prestaciones en numerario o especie.
 
@@ -1768,6 +1904,10 @@ La Secretaría de Finanzas, con el objeto de obtener un mayor rendimiento, podr�
 ###### ARTICULO 188.
 
 La base para el remate de los bienes secuestrados, será la que resulte del avalúo pericial.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de bienes inmuebles embargados, la base para el remate será el valor catastral del inmueble de que se trate.
 
 ###### ARTICULO 189.
 
@@ -2440,3 +2580,13 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaria de Finanzas del Estado, una vez que cuente con la infraestructura necesaria, emitirá las formas precodificadas e implementará el uso de medios electrónicos.
