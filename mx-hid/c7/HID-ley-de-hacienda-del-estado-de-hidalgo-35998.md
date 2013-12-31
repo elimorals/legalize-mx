@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2013-01-28"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -387,29 +385,43 @@ En este caso, deberán entregar a la persona física o moral que le proporcione 
 
 DE LA BASE
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
-Es base gravable de este impuesto, el monto total de los pagos realizados por concepto de remuneraciones al trabajo personal subordinado a que se refiere el Artículo 21 de esta Ley.
+Es base gravable de este impuesto, el monto total de los pagos realizados, en el mes de que se trate, por concepto de remuneraciones al trabajo personal subordinado a que se refiere el artículo 21 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 DE LA TASA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 24.
 
-El Impuesto Sobre Nóminas se determinará mediante la aplicación de la base que señala el Artículo anterior a las tasas siguientes:
+El Impuesto Sobre Nóminas se determinará mediante la aplicación, a la base que señala el artículo 23 de esta Ley, de la siguiente:
 
-I.- De 1 a 20 trabajadores 0.5%
+Tarifa
 
-II.- De 21 a 100 trabajadores 1.0%
+límite inferior límite superior cuota fija Por ciento a aplicarse sobre el excedente del límite inferior
 
-III.- De 101 trabajadores en adelante 2.0%
+$ $ $ %
 
-En los casos que la planta de trabajadores aumente o disminuya en un sólo mes, se aplicará la tasa que corresponda al número mayor de trabajadores.
+0.01 500,000.00 - 0.50%
+
+500,000.01 600,000.00 2,500.00 0.75%
+
+600,000.01 700,000.00 4,500.00 1.00%
+
+700,000.01 800,000.00 7,000.00 1.25%
+
+800,000.01 900,000.00 10,000.00 1.50%
+
+900,000.01 1,000,000.00 13,500.00 1.75%
+
+1,000,000.01 En adelante 17,500.00 2.00%
+
+Para los efectos de este artículo, la base gravable a que se refiere el artículo 23 de la presente Ley se ubicará dentro de los límites establecidos en las columnas denominadas límite inferior y límite superior de la tarifa. A la base gravable se le restará la cantidad prevista en el renglón correspondiente de la columna límite inferior y a la diferencia obtenida se le aplicará el porcentaje que para el mismo renglón se establece en la última columna. Al resultado de esta última operación se le sumará la cuota fija que para ese mismo renglón se establece en la columna cuota fija y el importe obtenido será el impuesto a pagar.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -663,305 +675,65 @@ DISPOSICIONES GENERALES
 
 DEL SUJETO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 36.
 
-Están obligadas al pago del impuesto previsto en este Capítulo, las personas físicas y las morales tenedoras o usuarias de los vehículos a que el mismo se refiere, siempre que el Estado de Hidalgo expida placas de circulación en su jurisdicción territorial a dichos vehículos.
+Están obligadas al pago del impuesto previsto en este Capítulo, las personas físicas y morales tenedoras o usuarias de los vehículos a que el mismo se refiere, dentro de la circunscripción del Estado de Hidalgo.
 
-Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
+Para los efectos de este impuesto, la tenencia o uso de vehículos dentro de la circunscripción territorial del Estado, será sobre aquellos que estén obligados a inscribirse en el Registro vehicular del Estado de acuerdo con lo establecido en la Ley de la materia.
+
+La Federación, las Entidades Federativas, el Distrito Federal, el Estado, los municipios, sus organismos descentralizados, organismos autónomos o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones establecidas en el artículo 40 de la presente Ley.
+
+Para los efectos de ese Capítulo, se presume salvo prueba en contrario, que el propietario es tenedor o usuario del vehículo.
+
+Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
+
+I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto previsto en este Capítulo que en su caso existiera, aun cuando se trate de personas que no están obligadas al pago de dicha contribución;
+
+II.- Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera;
+
+III.- Los servidores públicos competentes que autoricen la incorporación, actualización, refrendo y desincorporación al Registro Vehicular Estatal de vehículos objeto de este impuesto, así como la expedición de permisos provisionales, placas metálicas, tarjetas de circulación y engomados, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Hidalgo o del Impuesto Sobre Tenencia o Uso de Vehículos previsto en la legislación federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite con los medios idóneos que se encuentra liberado de la obligación que corresponda; y
+
+IV.- Los copropietarios del vehículo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 DEL PAGO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR EL 1° DE ENERO DE 2015.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 37.
 
-Los contribuyentes pagarán el impuesto a que se refiere este Capítulo, por año de calendario, durante los tres primeros meses, en las instituciones autorizadas por la Secretaría de Finanzas y Administración, mediante las formas autorizadas, salvo que en el apartado correspondiente se establezca disposición en contrario.
+Los contribuyentes pagarán el impuesto a que se refiere este Capítulo anualmente, mediante la forma oficial aprobada por la autoridad fiscal, conforme al siguiente calendario:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+Ultimo Dígito Numérico Periodo de
 
-###### ARTICULO 38.
+de la Placa de Circulación Causación
 
-El impuesto se pagará en los Centros Regionales de Atención al Contribuyente o en las instituciones autorizadas en las que la Secretaría de Finanzas y Administración, autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las instituciones autorizadas por la Secretaría de Finanzas y Administración, siempre y cuando el domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado de Hidalgo.
+5 ó 6 Enero y Febrero
 
-Los contribuyentes del impuesto a que se refiere este Capítulo; no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos al registro estatal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
+7 u 8 Febrero y Marzo
 
-El pago antes mencionado se realizará de manera simultánea con los derechos por los servicios de control vehicular establecidos en esta Ley.
+3 ó 4 Marzo y Abril
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1 ó 2 Abril y Mayo
 
-###### ARTICULO 39.
+9 ó 0 Mayo y Junio
 
-Para los efectos de este Capítulo se considera como:
+Lo anterior, salvo en el caso de aquellos vehículos de los que se solicite su inscripción o permiso provisional para circulación en traslado; supuestos en que se pagará en el momento en que se realice el trámite respectivo, excepto aquellos que lo hubieran pagado con anterioridad.
 
-I.- Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
+En aquellos casos en que se hubiere pagado en otra entidad federativa, por el mismo ejercicio fiscal al de su registro en esta entidad federativa, un impuesto sobre la tenencia o uso de vehículos, no se pagará el impuesto a que se refiere este Capítulo por dicho ejercicio fiscal. Para estos efectos, el contribuyente presentará el comprobante de pago respectivo, mismo que será verificado en su autenticidad por la Secretaría de Finanzas y Administración en los términos que ésta estime pertinentes.
 
-II.- Año Modelo, el año de fabricación o ejercicio automotriz comprendido por el periodo entre el 1 de octubre del año anterior y el 30 de septiembre del año que transcurra;
+Tratándose de la adquisición de vehículos nuevos, así como de la adquisición de vehículos nuevos o usados importados en forma definitiva por primera vez, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar al impuesto anual el factor correspondiente de la siguiente tabla:
 
-III.- Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico que configuran externamente a un vehículo y de la que derivan los diversos modelos;
+Mes de adquisición o Factor aplicable al
 
-IV.- Versión, cada una de las distintas presentaciones comerciales que tiene un modelo;
+inscripción impuesto anual
 
-V.- Línea:
-
-a).- Automóviles con motor de gasolina o gas hasta de 4 cilindros.
-
-b).- Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
-
-c).- Automóviles con motor diesel.
-
-d).- Camiones con motor de gasolina, gas o diesel.
-
-e).- Tractores no agrícolas tipo quinta rueda.
-
-f).- Autobuses integrales.
-
-g).- Automóviles eléctricos;
-
-VI.- Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
-
-VII.- Vehículo nuevo:
-
-a).- El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
-
-b).- El importado definitivamente al País que corresponda al año modelo posterior al de aplicación de este apartado, al año modelo en que se efectúe la importación o a los nueve años modelos inmediatos anteriores al año de la importación definitiva; y
-
-VIII.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
-
-En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-DEL SUJETO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 40.
-
-Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto;
-
-II.- Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-III.- Los servidores públicos competentes que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Hidalgo o del Impuesto Sobre Tenencia o Uso de Vehículos previsto en la legislación Federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda; y
-
-IV.- Los copropietarios del vehículo.
-
-Las autoridades competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado de Hidalgo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 41.
-
-Cuando por cualquier causa un vehículo cambie de propietario, salga de la posesión o deje de ser usado por la persona a nombre de quien está inscrito en el padrón vehicular estatal o dicho vehículo sea registrado en otra Entidad Federativa, dicha persona estará obligada a dar de baja el vehículo y placas de circulación del registro mencionado, debiendo cumplir con los requisitos establecidos en las reglas de operación.
-
-En caso de incumplimiento, será considerado responsable solidario del pago del impuesto a que se refiere este Capítulo.
-
-Cuando los particulares sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este precepto, el plazo a que se refiere el Artículo 51 del Código Fiscal del Estado de Hidalgo, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo en cuestión.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 42.
-
-La Federación, el Distrito Federal, los Estados, los Municipios, sus organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-DE LAS EXCEPCIONES
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 43.
-
-No se causará el impuesto a que se refiere este Capítulo, por la tenencia o uso de los siguientes vehículos:
-
-I.- Los eléctricos utilizados para el transporte público de personas;
-
-II.- Los importados temporalmente, en los términos de la legislación aduanera;
-
-III.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal, y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas Entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
-
-IV.- Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
-
-V.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos. Tratándose de automóviles, el impuesto no se causará, siempre que carezcan de placas de circulación;
-
-VI.- Las embarcaciones dedicadas al transporte marítimo;
-
-VII.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y (sic)
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-VIII.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general; y
-
-IX.- La maquinaria y equipos destinados a actividades agrícolas.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente, dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este Artículo, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-DE LAS OBLIGACIONES
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 44.
-
-Los contribuyentes de este impuesto, tendrán las siguientes obligaciones:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-I.- Presentar las declaraciones y efectuar el pago del impuesto en la forma y conforme a las tarifas del presente Capítulo;
-
-II.- Registrarse en el Centro Regional de Atención al Contribuyente correspondiente a su domicilio, dentro de los quince días siguientes a aquel en que se ubicó en el supuesto de causación de este impuesto, a través de las formas autorizadas por la Secretaría de Finanzas y Administración; y
-
-III.- En caso de alta, baja y/o canje de placas, las mismas serán entregadas a la Autoridad Fiscal.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-APARTADO A
-
-VEHÍCULOS DE DIEZ O MÁS AÑOS MODELO ANTERIOR
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-DE LA TASA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 45.
-
-Los tenedores o usuarios de vehículos cuyo año modelo tenga más de diez años de antigüedad al ejercicio fiscal en curso, previstos en este Artículo, calcularán el impuesto a que se refiere este apartado de acuerdo a lo siguiente:
-
-TABLA
-
-Tarifa expresada en salarios mínimos
-
-Vehículos 10 a 15 años 16 a 20 años 21 o más años
-
-de antigüedad de antigüedad de antigüedad
-
-Automóviles
-
-8 cilindros 5 4 3
-
-Automóviles
-
-6 cilindros 4 3 2
-
-Automóviles
-
-4 cilindros 3 2 1
-
-Automóviles
-
-3 cilindros 2.5 1.5 0.5
-
-Pick-up de 500-
-
-1000 kg. 3 2 1
-
-Transporte de
-
-carga (más de
-
-1000 kg) 4 3 2
-
-Transporte de
-
-pasajeros 4 3 2
-
-Motocicletas
-
-(hasta 500
-
-cm3) 3 2 1
-
-Motocicletas
-
-(más de 500
-
-cm3) 8 7 6
-
-Automóviles
-
-eléctricos 3 2 1
-
-Para efectos de este impuesto se tomará en consideración para el cálculo de la base gravable, el cilindraje del motor, el año modelo y la capacidad de carga del vehículo de que se trate.
-
-Los años de antigüedad se calcularán con base en el número de años transcurridos al que incluirá el año modelo al que corresponda el vehículo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 46.
-
-Tratándose de los vehículos previstos en este Artículo, de más de diez años de fabricación anteriores al de aplicación de este apartado, el impuesto se pagará conforme a la siguiente:
-
-TABLA
-
-TIPO DE VEHÍCULO CUOTA
-
-AERONAVES:
-
-Hélice $448.00
-
-Turbohélice $2,480.00
-
-Reacción $3,583.00
-
-HELICÓPTEROS $551.00
-
-El monto de las cuotas establecidas en este Artículo, se actualizarán con el factor establecido en la Ley de Ingresos.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-APARTADO B
-
-VEHÍCULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 47.
-
-En el caso de vehículos nuevos o importados, el impuesto deberá calcularse y enterarse dentro de los 15 días hábiles siguientes a la fecha en que se hubieren adquirido o importado, respectivamente.
-
-Para los efectos del cómputo del plazo a que se refiere el párrafo anterior, salvo prueba en contrario, se presumirá que la fecha de adquisición o la fecha de importación es la asentada en la factura o pedimento de importación que corresponda.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Capítulo, correspondiente al primer año de calendario, dentro los 15 días hábiles siguientes a la fecha en que se hubiere importado el vehículo, ante las oficinas de la Secretaría de Finanzas y Administración. Por ·el segundo y siguientes años de calendario, se estará a lo dispuesto en el Artículo 57 de esta Ley.
-
-Para los efectos del párrafo anterior, el impuesto se entenderá causado en el momento en el que queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el Artículo 57 y el presente Artículo de esta Ley, según sea el caso.
-
-En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación del impuesto a que se refiere este apartado, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
-
-Para los efectos de este apartado, también se consideran automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
-
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este apartado, se pagará como si éste fuese nuevo.
-
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
-
-MES DE FACTOR APLICABLE AL IMPUESTO CAUSADO
-
-ADQUISICIÓN
+Enero 1.00
 
 Febrero 0.92
 
@@ -985,173 +757,81 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+El pago del impuesto se realizará de manera simultánea con los derechos por los servicios de control vehicular establecidos en esta Ley, salvo cuando el impuesto haya sido cubierto con anterioridad.
 
-###### ARTICULO 48.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
+###### ARTICULO 38.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+Para los efectos de este Capítulo se considera como:
 
-#### SECCIÓN I. AUTOMÓVILES
+I.- Año Modelo.- El año de fabricación o ejercicio automotriz comprendido por el periodo entre el 1 de octubre del año anterior y el 30 de septiembre del año que transcurra;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+II.- Años de Antigüedad.- Los transcurridos a partir del año modelo al que corresponda el vehículo y hasta el año de calendario de que se trate;
 
-###### ARTICULO 49.
+III.- Valor total del vehículo.- El precio del vehículo consignado en la enajenación que, por primera ocasión y en forma directa al consumidor final, realicen los fabricantes, ensambladores, distribuidores o comerciantes de vehículos con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, así como las contribuciones que se deban pagar con motivo de la importación, a excepción del Impuesto al Valor Agregado. En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
 
-Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
+Cuando no se cuente con documento idóneo para determinar el valor del vehículo o su antigüedad, el precio y los años a considerar serán los que la autoridad tenga registrados para vehículos de similares características;
 
-I.- En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+IV.- Vehículo.- Los que conforme a la Ley de la materia sean considerados como tales;
 
-> <small>(REFORMADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+V.- Vehículo Nuevo.- Los que conforme a la Ley de la materia sean considerados como tales; y
 
-TARIFA
+VI.- Motocicletas.- Las que conforme a la Ley de la materia sean consideradas como tales, así como las motonetas, trimotos y cuatrimotos.
 
-Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre el excedente del límite inferior $ $ $ % 0.01 526,657.78 0.00 3.0
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-526,657.79 1,013,523.64 15,799.73 8.7
+###### ARTICULO 39.
 
-1,013,523.65 1,362,288.13 58,157.06 13.3
+Los límites y las cuotas fijas previstas en la tarifa de la fracción I del artículo 41 de este Capítulo, así como las cuotas fijas establecidas en el artículo 43, serán actualizadas cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor que elabora y publica el Instituto Nacional de Estadística y Geografía, desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización surtirá sus efectos a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, y conforme a lo dispuesto en el artículo 35 del Código Fiscal del Estado.
 
-1,362,288.14 1,711,052.62 104,542.74 16.8
+La Secretaría de Finanzas y Administración publicará en su página de Internet las cantidades actualizadas a que se refiere el presente artículo.
 
-1,711,052.63 En adelante 163,135.36 19.1
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80; y
+DEL SUJETO
 
-II.- Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+###### ARTICULO 40.
 
-Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+No se causará el Impuesto a que se refiere este Capítulo, por la tenencia o uso de los siguientes vehículos:
 
-Para los efectos de este Artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+I.- Los eléctricos utilizados para el transporte público de personas;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+II.- Los importados temporalmente, en los términos de la legislación aduanera;
 
-#### SECCIÓN II. OTROS VEHÍCULOS
+III.- Los vehículos de la Federación, de las Entidades Federativas, del Distrito Federal, del Estado, municipios, sus organismos descentralizados y organismos autónomos, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua o servicios funerarios; las ambulancias dependientes de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia, y los vehículos destinados a los cuerpos de bomberos;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+IV.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre y cuando no se asignen dichos vehículos a su servicio o al de sus funcionarios o empleados y carezcan de placas de Circulación;
 
-###### ARTICULO 50.
+V.- Las embarcaciones dedicadas al transporte acuático;
 
-En esta sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicleta.
+VI.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+VII.- Las aeronaves que presten servicio al público de transporte aéreo concesionado por la federación; y
 
-###### ARTICULO 51.
+VIII.- La maquinaria y equipo destinado a las actividades agrícolas.
 
-Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $8,657.06 para aeronaves de pistón, turbohélice y helicópteros; y por la cantidad de $9,324.72 para aeronaves de reacción.
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
 
-###### ARTICULO 52.
+Sin perjuicio de lo anterior, los vehículos comprendidos en este artículo deberán atender las obligaciones previstas en la Ley de la materia.
 
-Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+###### ARTICULO 41.
 
-###### ARTICULO 53.
+El impuesto a que se refiere este Capítulo se calculará como a continuación se indica:
 
-Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+I.- En el caso de automóviles destinados al transporte particular de hasta quince pasajeros, motocicletas y embarcaciones, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
-TARIFA
+A).- El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
 
-Tasa para aplicarse sobre
+Años de Antigüedad Factor de Depreciación
 
-Límite Límite Cuota el excedente del límite
-
-Inferior superior fija inferior
-
-$ $ $ %
-
-0.01 220,660.00 0.00 3.0
-
-220,660.01 303,459.28 6,619.80 8.7
-
-303,459.29 407,882.92 13,823.33 13.3
-
-407,882.93 en adelante 27,711.67 16.8
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 54.
-
-Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
-
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012) (F. DE E., P.O. 28 DE ENERO DE 2013)
-
-###### ARTICULO 55.
-
-Para los efectos de lo dispuesto en los artículos 46, 49, 51 y 53 de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 35 del Código Fiscal del Estado.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 56.
-
-Las autoridades competentes, para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere este apartado, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales correspondientes.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-#### SECCIÓN III. VEHÍCULOS USADOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-###### ARTICULO 57.
-
-Tratándose de vehículos de fabricación nacional o importados, a que se refieren los Artículos 49 fracción II y 53 de este Capítulo, así como de aeronaves, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda, conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
-
-TABLA
-
-Años de Factor
-
-antigüedad
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.833
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 0.500
-
-El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el Artículo 55 de esta Ley.
-
-Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "taxis", el impuesto a que se refiere este apartado se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
-
-> <small>(REFORMADA [N. DE E., REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-I.- El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este Artículo; y
-
-> <small>(REFORMADA [N. DE E., REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-II.- La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el Artículo 55 de esta Ley; el resultado obtenido se multiplicará por 0.245%.
-
-Para los efectos de este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 58.
-
-Tratándose de automóviles de fabricación nacional o importada, de hasta nueve años modelo anteriores al de aplicación de este apartado, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-a).- El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
-
-TABLA
-
-Años de Factor de
-
-antigüedad depreciación
+0 1.000
 
 1 0.850
 
@@ -1171,107 +851,223 @@ antigüedad depreciación
 
 9 0.075
 
-> <small>(REFORMADO [N. DE E., REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2012)</small>
+10 y en adelante 0.030
 
-b).- La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el Artículo 55 de esta Ley; al resultado se le aplicará la tarifa a que hace referencia el Artículo 49 de esta Ley.
+B).- Al resultado obtenido en el inciso anterior, se le aplicará la tarifa siguiente:
 
-Para efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+Tarifa
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+Límite Inferior Límite superior Cuota Fija Tasa para aplicarse sobre el
+
+excedente del Límite Inferior
+
+$ $ $ %
+
+- 550,000.00 - 2%
+
+550,000.01 1,100,000.00 10,000.00 8%
+
+1,100,000.01 1,500,000.00 80,000.00 13%
+
+1,500,000.01 2,000,000.00 195,000.00 16%
+
+2,000,000.01 En adelante 320,000.00 19%
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año.
+
+Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
+
+Para el caso de automóviles de servicio público de transporte que pasen a ser de servicio particular, el impuesto se calculará conforme a esta fracción para el ejercicio fiscal siguiente a aquel en el que se dé esta circunstancia;
+
+II.- Para los automóviles destinados al transporte particular de más de quince pasajeros, de carga o público de pasajeros, el impuesto será el que resulte de multiplicar el valor total del vehículo por el factor que corresponda, conforme a los años de antigüedad, de acuerdo con la siguiente:
+
+Años de Antigüedad Factor de Depreciación
+
+0 1.000
+
+1 0.900
+
+2 0.800
+
+3 0.700
+
+4 0.600
+
+5 0.500
+
+6 0.400
+
+Años de Antigüedad Factor de Depreciación
+
+7 0.300
+
+8 0.200
+
+9 0.100
+
+10 y en adelante 0.050
+
+Al monto resultante se le aplicará los siguientes factores, según corresponda:
+
+A).- Los destinados al transporte particular o de carga cuya capacidad de carga sea menor a 15 toneladas, así como los que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el 0.245%; y
+
+B).- Cuando la capacidad de carga del vehículo sea de 15 a 35 toneladas, 0.50%, por el factor fiscal que resulte de dividir la capacidad de carga expresada en toneladas, entre 30. En el caso de que la capacidad de carga sea mayor de 35 toneladas se tomará como capacidad de carga máxima esta cantidad.
+
+Para los efectos de esta fracción, la capacidad de carga será la que se determine en las especificaciones técnicas del fabricante.
+
+Para el caso de automóviles de servicio particular que pasen a ser de servicio público de transporte, el impuesto se calculará conforme a esta fracción para el ejercicio fiscal siguiente a aquel en el que se dé esta circunstancia.
+
+Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de carga, los camiones, vehículos pick up sin importar la capacidad de carga, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y capacidad de carga.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 42.
+
+El impuesto se pagará a la tasa de 0%, tratándose de automóviles eléctricos o con motor accionado por hidrógeno.
+
+La tasa a que se refiere el presente artículo será aplicable siempre y cuando no se modifiquen las características originales del motor.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+DE LAS EXCEPCIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 43.
+
+Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la capacidad de carga de la aeronave, expresado en toneladas, por la cantidad de $10,255.28 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $11,046.20 para aeronaves de reacción.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+DE LAS OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 44.
+
+Tratándose de aeronaves usadas, el impuesto será el que resulte de multiplicar el importe del impuesto que resulte conforme al artículo anterior por el factor que corresponda, conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+Años de Antigüedad Factor de Depreciación
+
+0 1.000
+
+1 0.900
+
+2 0.889
+
+3 0.877
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+10 y en adelante 0.300
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+APARTADO A
+
+VEHÍCULOS DE DIEZ O MÁS AÑOS MODELO ANTERIOR
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+DE LA TASA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 45.
+
+La autoridad fiscal informará del cumplimiento de pago del impuesto a que se refiere este Capítulo a las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, a fin de ser considerado para efectos de su expedición conforme al convenio que al efecto se suscriba.
+
+###### ARTICULO 46.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+APARTADO B
+
+VEHÍCULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+DISPOSICIONES GENERALES
+
+###### ARTICULO 47.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+###### ARTICULO 48.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN I. AUTOMÓVILES
+
+###### ARTICULO 49.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN II. OTROS VEHÍCULOS
+
+###### ARTICULO 50.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+###### ARTICULO 51.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+###### ARTICULO 52.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+###### ARTICULO 53.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+###### ARTICULO 54.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+###### ARTICULO 55.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+###### ARTICULO 56.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN III. VEHÍCULOS USADOS
+
+###### ARTICULO 57.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+###### ARTICULO 58.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 59.
 
-Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-a).- El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
-
-TABLA
-
-Años de Factor de
-
-antigüedad depreciación
-
-1 0.9250
-
-2 0.8500
-
-3 0.7875
-
-4 0.7250
-
-5 0.6625
-
-6 0.6000
-
-7 0.5500
-
-8 0.5000
-
-9 0.4500
-
-10 0.4000
-
-11 0.3500
-
-12 0.3000
-
-13 0.2625
-
-14 0.2250
-
-15 0.1875
-
-16 0.1500
-
-17 0.1125
-
-18 0.0750
-
-19 y siguientes 0.0375
-
-> <small>(REFORMADO [N. DE E., REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-b).- La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el Artículo 55 de esta Ley; al resultado se le aplicará la tasa a que hace referencia el Artículo 52 de la misma.
-
-> <small>(REFORMADO [N. DE E., REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Para los efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 60.
 
-Tratándose de motocicletas de fabricación nacional o importada, de hasta nueve años modelo anteriores al de aplicación de este apartado, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
-
-TABLA
-
-Años de Factor de
-
-antigüedad depreciación
-
-1 0.9
-
-2 0.8
-
-3 0.7
-
-4 0.6
-
-5 0.5
-
-6 0.4
-
-7 0.3
-
-8 0.2
-
-9 0.1
-
-A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el Artículo 53 de esta Ley.
-
-Para efectos de la depreciación a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1469,23 +1265,19 @@ certificadas;
 
 1.5 salarios mínimos.
 
-II.- Por legalización de exhortos, derivados
-
-de juicios mercantiles y ejecutivos civiles. 1.5 salarios mínimos.
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 III.- Por emisión de opinión favorable del Ejecutivo del Estado, para uso, consumo y almacenamiento de explosivos y sus artificios, se pagarán los derechos en la forma siguiente:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-a.- Opinión para Paraestatales, Proveedores
-
-y Microindustrias; 13 salarios mínimos
+a.- Opinión para Paraestatales, Proveedores y macroindustrias 13 salarios mínimos;
 
 b.- Opinión para mediana industria; 8 salarios mínimos.
 
-c.- Opinión para macroindustria y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Empresas Ejidales; 6 salarios mínimos.
+c.- Opinión para microindustrias y empresas ejidales 6 salarios mínimos;
 
 d.- Opinión para el uso de explosivos
 
@@ -1503,23 +1295,15 @@ y, en su caso, la identidad del sello o timbre
 
 del documento. 3 salarios mínimos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 76.
 
-Los Derechos por la prestación de servicios del Estado, a través de la Coordinación de Protección Civil, se causarán y pagarán de la forma siguiente:
+Los Derechos por la prestación de servicios del Estado, a través de la Subsecretaría de Protección Civil y Gestión de Riesgos, se causarán y pagarán de la forma siguiente:
 
-I.- Por la supervisión y la elaboración de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-dictámenes técnicos que se practiquen a
-
-establecimientos comerciales, industriales,
-
-de espectáculos públicos y de servicio
-
-instalados o que pretendan instalarse
-
-en el territorio del Estado; 50 a 300 salarios mínimos.
+I.- Por la supervisión y la emisión de opiniones técnicas de establecimientos comerciales, industriales, de espectáculos públicos y de servicios instalados o que pretendan instalarse en el territorio del Estado 50 a 300 salarios mínimos;
 
 II.- Por la supervisión y la elaboración de
 
@@ -1529,25 +1313,13 @@ estructuras, antenas, telefonía celular
 
 equipos y maquinaria especiales; 50 a 300 salarios mínimos.
 
-III.- Por la supervisión y elaboración de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-dictámenes técnicos para la construcción de
+III.- Por la supervisión y emisión de opiniones técnicas de factibilidad de usos de suelo de impacto significativo 50 a 500 salarios mínimos;
 
-fraccionamientos, condominios, edificios
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-públicos y asentamientos humanos; 50 a 500 salarios mínimos.
-
-IV.- Por la supervisión y elaboración de
-
-Dictámenes técnicos de seguridad para
-
-la instalación de estaciones de servicio
-
-(gasolineras) y plantas de almacenamiento
-
-de gas L.P., estaciones de carburación,
-
-bodega y derivados de petróleo; 275 salarios mínimos.
+IV.- Por la supervisión y emisión de opiniones técnicas de instalaciones diversas relacionadas con Gas L.P., estaciones de carburación, bodega y derivados del Petróleo 275 salarios mínimos;
 
 V.- Por el Registro Estatal de Consultores
 
@@ -1565,31 +1337,29 @@ capacitación a personas físicas o morales
 
 del sector privado. 200 salarios mínimos.
 
-VIII.- Por la actualización de dictámenes de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Factibilidad; 200 salarios mínimos.
+VIII.- Por la actualización de opiniones técnicas de
 
-IX.- Por la elaboración de dictamen de
+factibilidad 200 salarios mínimos; y
 
-seguridad por unidad de transporte de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-materiales peligrosos; 20 salarios mínimos.
+IX.- Por la elaboración de constancia de seguridad por unidad de transporte de materiales peligrosos 20 salarios mínimos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 77.
 
-Los Derechos por la prestación de los servicios del Registro Público de la Propiedad, se causarán y pagarán de la forma siguiente:
+Los Derechos por la prestación de los servicios del Registro Público de la Propiedad y del Comercio, se causarán y pagarán de la forma siguiente:
 
 I.- Por la inscripción de documentos relativos a la propiedad y posesión originaria de bienes inmuebles:
 
 a).- Accesión de terrenos rústicos 3 salarios mínimos.
 
-b).- Accesión de construcciones,
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-sobre el valor catastral o de avalúo Conforme a la tarifa
-
-del Artículo 94.
+b).- Tratándose de accesión de construcciones 75 salarios mínimos;
 
 c).- Informaciones posesorias 2 salarios mínimos
 
@@ -1597,13 +1367,9 @@ II.- Por inscripción de resoluciones
 
 de apeo y deslinde 3 salarios mínimos.
 
-III.- Por inscripción de aportaciones de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-bienes inmuebles, se pagará sobre el
-
-valor catastral o de avalúo Conforme a la tarifa
-
-del Artículo 94.
+III.- Por la inscripción de aportaciones de bienes inmuebles 75 salarios mínimos;
 
 IV.- Por la inscripción de propiedad en
 
@@ -1619,33 +1385,19 @@ la sociedad conyugal en lo referente a
 
 bienes inmuebles 2 salarios mínimos.
 
-VI.- Por inscripción de contratos de compra-venta,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-donación, cesión de derechos, transmisión de
+VI.- Por la inscripción de contratos de compra-venta,
 
-dominio en ejecución de fideicomiso, permuta,
+donación, cesión de derechos, transmisión de dominio en ejecución de fideicomiso, permuta, o usucapión, adjudicaciones judiciales y por herencia, así como por cualquier operación que implique transmisión de propiedad, por cada predio 75 salarios mínimos;
 
-o usucapión, adjudicaciones judiciales y por
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-herencia, así como por cualquier operación que
+VII.- Por la inscripción de resoluciones de información
 
-implique transmisión de propiedad, pagarán por
+Ad'perpetuam, se pagará por cada predio
 
-cada predio sobre el valor que resulte mayor
-
-entre el precio de operación pactado o de avalúo
-
-por cada predio; Conforme a la tarifa
-
-del Artículo 94
-
-VII.- Por la inscripción de resoluciones de
-
-Información Ad'perpetuam, se pagará
-
-sobre el valor de cada predio Conforme a la tarifa
-
-del Artículo 94
+75 salarios mínimos;
 
 VIII.- Por la inscripción de inmatriculación
 
@@ -1659,51 +1411,79 @@ urbanas residenciales o zonas campestres e
 
 industriales, por lote 4 salarios mínimos
 
-b).- En·las demás zonas, por lote 1.5 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-X.- Por inscripción de contratos de compra-venta
+b).- Tratándose de las demás zonas, por lote 2 salarios mínimos;
 
-a plazos con reserva de dominio, se pagará sobre
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-el valor catastral o de avalúo Conforme a la tarifa
+X.- Por la inscripción de contratos de compra-venta a
 
-del Artículo 94
+plazos con reserva de dominio 75 salarios mínimos;
 
-XI.- Por inscripción de fusión de predios, se pagará,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-por cada uno 1.5 salarios mínimos
+XI.- Por la inscripción de fusión de predios, se pagará, por cada uno 2 salarios mínimos;
 
-XII.- Por inscripción de división de copropiedad,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-se pagará sobre el valor catastral o de avalúo Conforme a la tarifa
+XII.- Por la inscripción de división de copropiedad, se
 
-de cada uno de los inmuebles del Artículo 94
+pagará por cada uno de los inmuebles 75 salarios mínimos;
 
-XIII.- Otros actos inscribibles no previstos 5 salarios mínimos
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-XIV.- Por ratificación de firmas 2 salarios mínimos
+XIII.- Por la inscripción de otros actos inscribibles no
 
-Por la cancelación de actos a que se refieren las fracciones VI, VII y X de este Artículo, se pagará el 50% del valor de la inscripción principal.
+previstos 2 salarios mínimos;
 
-Cuando el valor catastral o el valor fiscal del avalúo, del acto que se trate de inscribir, difieran entre sí, se atenderá al mayor para fijar el monto de los derechos que deberán cubrirse.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XIV.- Por la inscripción de ratificación de firmas 2 salarios mínimos; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XV.- Por la cancelación de actos a que se refieren las
+
+fracciones VI, VII y X de este artículo, se pagará 1 salario mínimo.
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 78.
 
-Los derechos generados ante el Registro Público de la Propiedad, por concepto de inscripciones o anotaciones relativas a limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: arrendamiento, mutuo con garantía hipotecaria, contratos de ocupación, constitución o substitución de garantías reales, cesión de garantías y obligaciones reales, cédula hipotecaria del juicio sumario hipotecario, comodato, contratos de crédito refaccionario y de habilitación o avío celebrados entre particulares, convenios judiciales, dación en pago que no implique transmisión de propiedad, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad, posesión, embargos judiciales, fideicomisos de afectación o administración en garantía en el que él o los fideicomitentes se reserven expresamente la propiedad, fianzas, habilitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo con reserva de dominio, servidumbre, restructuración de créditos cuando exista novación de contrato, se causarán y pagarán cuando se determine el valor del acto inscribible o anotable: 50% de la tarifa del Artículo 94.
+Los derechos generados ante el Registro Público de la Propiedad y del Comercio, por concepto de inscripciones o anotaciones relativas a limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, se pagarán como sigue:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+I.- Tratándose de arrendamiento, mutuo con garantía
 
-Cuando en el acto inscribible o anotable no se determine el valor, se pagarán 5 salarios mínimos.
+hipotecaria, contratos de ocupación, constitución o
 
-La cancelación de las inscripciones o anotaciones a que se refiere este Artículo, pagarán el 50% del valor de la inscripción.
+substitución de garantías reales, cesión de garantías
 
-En hipotecas para garantizar el crédito principal o refinanciamiento, los adquirentes de vivienda popular o de interés social, pagarán 4 salarios mínimos.
+y obligaciones reales, cédula hipotecaria del juicio
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+sumario hipotecario, comodato, contratos de crédito
 
-Para efectos del párrafo anterior, se entiende por viviendas de interés social las financiadas a través de organismos de carácter Federal, Estatal o Municipal autorizados para ello o por instituciones bancarias, hasta por un valor equivalente a 186 salarios mínimos vigentes en el Estado, elevados al mes.
+refaccionario y de habilitación o avío celebrados entre
+
+particulares, convenios judiciales, dación en pago que no implique transmisión de propiedad, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad, posesión, embargos judiciales, fideicomisos de afectación o administración en garantía en el que él o los fideicomitentes se reserven expresamente la propiedad, fianzas, habilitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo con reserva de dominio, servidumbre, restructuración de créditos cuando exista novación de contrato, se pagará 30 salarios mínimos;
+
+II.- Tratándose de hipotecas para garantizar el crédito
+
+principal o el refinanciamiento de viviendas financiadas
+
+a través de organismos públicos de carácter Federal,
+
+Estatal o Municipal autorizadas para ello, o por instituciones bancarias, y cuyo valor sea de hasta 350 salarios mínimos mensuales, se pagará 15 salarios mínimos; y
+
+III.- Por la cancelación de actos a que se refiere el
+
+presente artículo se pagará 1 salario mínimo.
+
+Para los efectos de la fracción II del presente artículo, para determinar el valor de la vivienda se tomará en cuenta el que hubiese servido de base para tramitar el financiamiento correspondiente. La Secretaría de Finanzas y Administración podrá emitir reglas de carácter general para mejor proveer la disposición contenida en el presente párrafo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1711,39 +1491,63 @@ Para efectos del párrafo anterior, se entiende por viviendas de interés social
 
 Los derechos por las inscripciones de documentos o actos que sean necesarios como acto previo para la inscripción de títulos traslativos de dominio, se causarán y pagarán de la siguiente manera:
 
-I.- Por cualquier clase de testamento. 4 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-II.- Por declaración o reconocimiento de herederos
+I.- Por la inscripción de cualquier clase de testamento 4 salarios mínimos;
 
-y por designación, aceptación, discernimiento del
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-cargo de albacea en un sólo documento. 4 salarios mínimos.
+II.- Por la inscripción de declaración o reconocimiento
 
-III.- Cuando estos actos se inscriben en documentos
+de herederos y por designación, aceptación, discernimiento del cargo de albacea en un sólo documento 4 salarios mínimos;
 
-separados, se pagará por cada uno. 2 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-IV.- Por sustitución del cargo de albacea 2 salarios mínimos.
+III.- Por la inscripción de estos actos, cuando se inscriben en documentos separados, se pagará por cada uno 2 salarios mínimos;
 
-V.- Por repudio de herencia 2 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VI.- Por autorización para vender o gravar
+IV.- Por la inscripción de sustitución del cargo de albacea 2 salarios mínimos;
 
-bienes de menores u otros incapaces 2 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VII.- Por poderes civiles, substituciones
+V.- Por la inscripción del repudio de herencia 2 salarios mínimos;
 
-o su revocación 2 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VI.- Por la inscripción de autorización para vender o
+
+gravar bienes de menores u otros incapaces 2 salarios mínimos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII.- Por la inscripción de poderes civiles,
+
+substituciones o su revocación 2 salarios mínimos;
 
 VIII.- Por la inscripción de la Sociedad Conyugal 3 salarios mínimos.
 
-IX.- Por el depósito de testamento ológrafo 2 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-X.- Por actuaciones judiciales 2 salarios mínimos.
+IX.- Por la inscripción del depósito de testamento
 
-XI.- Por constitución del patrimonio familiar 3 salarios mínimos.
+ológrafo 2 salarios mínimos;
 
-XII.- Otros actos inscribibles no previstos 3 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+X.- Por la inscripción de actuaciones judiciales 2 salarios mínimos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XI.- Por la inscripción de constitución del
+
+patrimonio familiar 3 salarios mínimos; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XII. Por la inscripción de otros actos inscribibles no
+
+previstos 2 salarios mínimos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1751,53 +1555,39 @@ XII.- Otros actos inscribibles no previstos 3 salarios mínimos.
 
 Los derechos generados por la inscripción de actos relativos a bienes muebles, se causarán y pagarán de la siguiente manera:
 
-I.- Por actos o contratos que transmitan la
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-propiedad, como las operaciones traslativas
+I.- Por la inscripción de actos o contratos que transmitan la propiedad, como las operaciones traslativas de dominio sujetas a condiciones resolutorias, adjudicaciones, aportaciones,
 
-de dominio sujetas a condiciones resolutorias,
+compra-venta con reserva de dominio 30 salarios mínimos;
 
-adjudicaciones, aportaciones, compra-venta
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-con reserva de dominio, cuando se determine
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-el valor 50% de la tarifa
+III.- Por inscripción de operaciones que los limiten o
 
-del artículo 94.
+graven, como son: alquiler, cesión de crédito y
 
-II.- En los casos de la fracción anterior,
+obligaciones, embargos, prenda, resoluciones o convenios judiciales y usufructo 15 salarios mínimos;
 
-cuando no se tenga determinado
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-el valor de la operación 3 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-III.- Por inscripción de operaciones que los
+V.- Por la inscripción de ratificación de firmas 2 salarios mínimos;
 
-limiten o graven, como son:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-alquiler, cesión de crédito y obligaciones,
+VI.- Por la inscripción de otros actos inscribibles no
 
-embargos, prenda, resoluciones o convenios
+previstos; 2 salarios mínimos; y
 
-judiciales y usufructo, conforme al valor de la
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-operación 25% de la tarifa
+VII.- Por cancelación de cualquiera de los actos contenidos en este artículo, se pagará 1 salario mínimo.
 
-del artículo 94.
-
-IV.- En los casos de la fracción anterior,
-
-cuando no se determine el valor de la operación 2 salarios mínimos.
-
-V.- Por la ratificación de firmas 2 salarios mínimos.
-
-VI.- Por otros actos inscribibles no previstos; 1 salario mínimo.
-
-Por cancelación de cualquiera de los actos
-
-contenidos en este artículo, se pagará el 50% del valor
-
-de la inscripción.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1805,69 +1595,57 @@ de la inscripción.
 
 Los derechos generados por la inscripción de actos contenidos en documentos relativos a personas morales, se causarán y pagarán de la manera siguiente:
 
-I.- Por escrituras constitutivas o aumento
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-de capital en las sociedades de capital
+I.- Por la inscripción de escrituras constitutivas o aumento de capital en las sociedades de capital variable 30 salarios mínimos;
 
-variable se tomará como base el capital
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-suscrito. 50% de la tarifa
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-del artículo 94.
+III.- Por la inscripción de actas y estatutos de sociedades cooperativas 5 salarios mínimos;
 
-II.- En los casos de la fracción anterior,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-cuando no exista valor determinado,
+IV.- Por la inscripción de disolución o liquidación de
 
-pagarán. 5 salarios mínimos.
+personas morales. 5 salarios mínimos;
 
-III.- Por actas y estatutos de sociedades
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-cooperativas. 5 salarios mínimos.
+V.- Por la inscripción de disolución y liquidación cuando conste en un sólo documento 5 salarios mínimos;
 
-IV.- Por disolución o liquidación de personas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-morales. 5 salarios mínimos.
+VI.- Por la inscripción de actas de asamblea de socios o de junta de administradores 5 salarios mínimos;
 
-V.- La disolución y liquidación cuando conste
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-en un sólo documento. 5 salarios mínimos.
+VII.- Por la inscripción de cualquier modificación al acta constitutiva, siempre que no se refiera a un aumento de capital social. 5 salarios mínimos;
 
-VI.- La inscripción de actas de asamblea de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-socios o de junta de administradores. 5 salarios mínimos.
+VIII.- Por la inscripción de otorgamiento, sustitución o
 
-VII.- La inscripción de cualquier modificación
+renovación de poderes, por cada apoderado 2 salarios mínimos;
 
-al acta constitutiva, siempre que no se refiera
-
-a un aumento de capital social. 5 salarios mínimos.
-
-VIII.- La inscripción de otorgamiento, sustitución o
-
-renovación de poderes, por cada apoderado. 2 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 IX.- Por la inscripción de emisión de obligaciones
 
-acciones, cédula y certificado de participación
-
-pagaran sobre el importe de la emisión. Conforme a la tarifa
-
-del artículo 94.
+acciones, cédula y certificado de participación 75 salarios mínimos;
 
 X.- Por la inscripción de revocación o renuncia
 
 de poderes. 2 salarios mínimos.
 
-XI.- Por la venta sesión o cualquier acto que
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-signifique transmisión de acciones se pagará
+XI.- Por la inscripción de venta, cesión o cualquier acto que signifique transmisión de acciones se pagará 15 salarios mínimos; y
 
-el 25% de la tarifa del artículo 94.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-XII.- Por cualquier otro título registrable conforme
-
-a la Ley. 2 salarios mínimos.
+XII.- Por la inscripción de cualquier otro título registrable conforme a la Ley. 2 salarios mínimos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1875,23 +1653,29 @@ a la Ley. 2 salarios mínimos.
 
 Los derechos generados por la inscripción de actos o contratos mercantiles, se causarán y pagarán de la siguiente manera:
 
-I.- Por créditos refaccionarios y de habilitación
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-avío, crédito hipotecario mutuo, reconocimiento
+I.- Por la inscripción de créditos refaccionarios y de
 
-de adeudo o arrendamiento financiero. 50% de la tarifa
+habilitación o avío, crédito hipotecario mutuo,
 
-del artículo 94.
+reconocimiento de adeudo o arrendamiento financiero 75 salarios mínimos;
 
-II.- Por asociación en participación. 2 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-III.- Por ratificación de firmas de los contratos
+II.- Por la inscripción de asociación en participación. 2 salarios mínimos;
 
-comprendidos en este artículo. 2 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-IV.- Por cancelación de créditos otorgados por
+III.- Por la inscripción de ratificación de firmas de los
 
-instituciones de crédito. 2 salarios mínimos.
+contratos comprendidos en este artículo 2 salarios mínimos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV.- Por la inscripción de cancelación de créditos
+
+otorgados por instituciones de crédito 1 salario mínimo;
 
 V.- Por inscripción de rectificaciones relativas a
 
@@ -1905,9 +1689,17 @@ adeudos o acreedor, o cualesquiera otras que
 
 no constituyan novación del contrato 4 salarios mínimos
 
-VI.- Por otros actos o contratos no previstos. 2 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VII.- Por la cancelación de los actos o contratos señalados en este artículo se pagará, el 50% del valor de la inscripción.
+VI.- Por la inscripción de otros actos o contratos no
+
+previstos 2 salarios mínimos; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII.- Por la cancelación de los actos o contratos
+
+señalados en este artículo se pagará 1 salario mínimo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1921,11 +1713,11 @@ II.- Por suspensión de pagos o declaración
 
 de concursos 2 salarios mínimos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 84.
 
-Los derechos que se causen por las inscripciones o anotaciones que no modifiquen el derecho inscrito, a solicitud del interesado, de las autoridades o de los notarios públicos que autoricen el acto, se pagarán 2 salarios mínimos.
+Los derechos que se causen por las inscripciones o anotaciones que no modifiquen el derecho inscrito, a solicitud del interesado, de las autoridades o de los notarios públicos que autoricen el acto, se pagarán a razón de 2 salarios mínimos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1995,43 +1787,39 @@ que deban destinarse al apéndice, en su caso,
 
 por cada documento. 4 salarios mínimos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Por la expedición urgente de certificaciones e informes a que se refieren las fracciones I, IV, V, VII y IX de este Artículo, se pagará el 100% más de los derechos señalados y la expedición se hará dentro de las 48 horas siguientes, sin perjuicio del principio de prelación registral que a otro corresponda.
+X.- Por la expedición urgente de certificaciones e informes a que se refieren las fracciones I, IV, V, VII y IX de este artículo, se pagará 15 salarios mínimos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+La expedición a que se refiere la fracción X del presente artículo se hará dentro de las 48 horas siguientes, sin perjuicio del principio de prelación registral que a otro corresponda.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 86.
 
-Si por cualquier causa el documento se devuelve sin inscripción, siempre que no sea causa imputable al Registro Público de la Propiedad, se pagarán 2 salarios mínimos.
+Si por cualquier causa el documento se devuelve sin inscripción, siempre que no sea causa imputable al Registro Público de la Propiedad y del Comercio, se pagará 2 salarios mínimos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 87.
+###### Artículo 87.
 
-Se subsidiará el pago de derechos correspondiente a los servicios prestados por el Registro Público de la Propiedad, hasta el 100%, cuando se originen a favor de:
+Las excepciones de pago en los servicios prestados por el Registro Público de la Propiedad y del Comercio, estarán a lo dispuesto en el Código Fiscal del Estado.
 
-I.- El Estado y los Municipios;
+En los casos en que las autoridades fiscales, sean éstas federales, estatales, municipales o del Distrito Federal, requieran las inscripciones de embargos, expedición de certificados de libertad de gravamen o cualquier otro servicio necesario para la correcta continuación del Procedimiento Administrativo de Ejecución o de (SIC) para el aseguramiento de la garantía en cualquier acto de fiscalización, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluyan los procedimientos iniciados por la autoridad fiscal y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados al remate los bienes respectivos; salvo que el Procedimiento Administrativo de Ejecución o el ejercicio de las facultades de comprobación concluyan por haber quedado sin efectos jurídicos cuando así lo determina una resolución administrativa o sentencia firme, caso en el cual no habrá lugar a pago de derechos.
 
-II.- La Beneficencia Pública del Estado; y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-III.- Los títulos exceptuados por disposición de Ley o por acuerdo del Ejecutivo del Estado, directamente o a través de la Secretaría de Finanzas y Administración, ya sea por notoria pobreza o cuando se trate de personas físicas o morales que desarrollen proyectos de inversión en los que se generen, por lo menos 20 empleos permanentes.
-
-Las excepciones de pago parciales, se cobrarán en los términos de la resolución respectiva.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 88.
 
-Por cada inscripción de instrumento otorgado fuera del territorio del Estado, causará y pagará una cuota adicional del 25% sobre los derechos señalados en este capítulo.
+Por cada inscripción de instrumento otorgado fuera del territorio del Estado, se causará y pagará un derecho adicional de 30 salarios mínimos, además de los derechos que correspondan al acto de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 89.
 
-Los solicitantes deberán acompañar a los documentos que presenten para su inscripción, las copias que establezca el Reglamento del Registro Público de la Propiedad.
+Los solicitantes deberán acompañar a los documentos que presenten para su inscripción, las copias que establezca el Reglamento del Registro Público de la Propiedad y del Comercio.
 
 Cuando un documento presentado para su inscripción se refiera a bienes situados en distintos distritos, en cada uno de ellos se causarán los derechos correspondientes a los bienes comprendidos dentro de los mismos, hecho el pago total de los bienes inscribibles en uno de los Distritos surtirá efectos en todos los demás.
 
@@ -2041,65 +1829,57 @@ Cuando un documento presentado para su inscripción se refiera a bienes situados
 
 Los derechos de inscripción en el Registro de Crédito Agrícola, se causarán y pagarán de la manera siguiente:
 
-I.- Por créditos refaccionarios de habilitación
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-o avío. 1.0 al millar.
+I.- Por créditos refaccionarios de habilitación o avío 30 salarios mínimos;
 
-II.- Por documentos de valor determinado 1.0 al millar.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-III.- Por documentos de valor indeterminado; 1 salario mínimo.
+II.- Por otros documentos de valor determinado 30 salarios mínimos;
+
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 IV.- Por la expedición de cualquier tipo de
 
 certificaciones, 1 salario mínimo.
 
-V.- Por cancelación, 0.5 al millar sin que
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-lo cobrado exceda de $50.00; 1 salario mínimo.
+V.- Por cancelación de inscripción 1 salario mínimo;
 
 VI.- Por aclaraciones o rectificaciones no
 
 imputables al registro; 1 salario mínimo.
 
-VII.- Por ratificación de firmas 1 salario mínimo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+VII.- Por ratificación de firmas 2 salarios mínimos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 91.
 
-Por la inscripción de créditos o reestructuración de los mismos cuando exista novación de contrato, otorgados por instituciones de crédito nacionales o extranjeras, que tengan como finalidad el apoyo de la industria instalada o por instalarse en el Estado, así como, a las empresas que impulsen la producción del campo, se cobrará sobre el monto del crédito .25 % de la tarifa del artículo 94.
+Por la inscripción de créditos o reestructuración de los mismos cuando exista novación de contrato, otorgados por instituciones de crédito nacionales o extranjeras, que tengan como finalidad el apoyo de la industria instalada o por instalarse en el Estado, así como, a las empresas que impulsen la producción del campo
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+Por inscripción 15 salarios mínimos.
 
-###### ARTÍCULO 92.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Para el pago de derechos generados por el Registro Público de la Propiedad, éste se sujetará a las facultades de cobro de la Secretaría de Finanzas y Administración.
+###### ARTICULO 92.
 
-En los Servicios prestados por el Registro, no se procederá a su trámite sin antes acreditar el pago correspondiente.
+Para el pago de derechos generados por el Registro Público de la Propiedad y del Comercio, éste se sujetará a las facultades de cobro de la Secretaría de Finanzas y Administración.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+En los Servicios prestados por el Registro Público de la Propiedad y del Comercio, no se procederá a su trámite sin antes acreditar el pago correspondiente. Lo anterior no aplica a los supuestos señalados en el segundó párrafo del artículo 87.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 93.
 
-Para efecto del pago de derechos, al Registro Público de la Propiedad, en los que se establezca como referencia salarios mínimos, se tomará como base el salario mínimo diario vigente en el Estado y distrito judicial en el momento en que se cause.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+Para efecto del pago de derechos, al Registro Público de la Propiedad y del Comercio, en los que se establezca como referencia salarios mínimos, se estará a lo dispuesto por el último párrafo del artículo 15 del Código Fiscal del Estado de Hidalgo.
 
 ###### ARTICULO 94.
 
-Por las inscripciones o anotaciones de los actos en los que se establezca el pago de derechos por tarifa, se hará de la manera siguiente:
-
-I.- Cuando en el acto a inscribir no se determine su valor, se pagarán tres salarios mínimos;
-
-II.- Cuando los actos a inscribir tengan un valor de hasta cinco salarios mínimos, elevados al año, se pagará el equivalente a cinco salarios mínimos;
-
-III.- Cuando el valor sea superior a cinco salarios mínimos, elevados al año, por cada dos y medio salarios o fracción, hasta llegar a cien se pagará el equivalente a diez salarios mínimos más en cada parámetro; y
-
-IV.- Cuando el valor del acto a inscribir, sea superior a cien salarios mínimos, elevados al año, se pagarán mil pesos más por cada millón excedente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Para efectos de la cuantificación de los derechos a pagar de acuerdo con la presente tarifa: se deberá determinar el monto de la operación de conformidad con lo dispuesto en el último párrafo del Artículo 77 de esta Ley, se ubicará en el parámetro correspondiente y se multiplicará, el número de salarios mínimos, por 365 días con lo que se determinará la cantidad a pagar, a la que se sumarán las cantidades que por adicionales resulten procedentes.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -2121,29 +1901,25 @@ IV.- Por copia fotostática de constancias
 
 en libro. 0.5 salario mínimo.
 
-V.- Por el procedimiento administrativo
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-de corrección de actas. 3 salarios mínimos.
+V.- Por el procedimiento administrativo de
+
+corrección de actas 1 salario mínimo;
 
 VI.- Por inscripción de resolución
 
 administrativas 1 salario mínimo.
 
-VII.- Por inscripción de sentencia y juicio
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-de rectificación, nulidad o reposición
-
-de actas. 2 salarios mínimos.
-
-VIII.- Por inscripción de anotación de
-
-reconocimientos y adopción. 2 salarios mínimos.
+VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 IX.- Por la inscripción de capitulaciones
 
 patrimoniales 0.5 salario mínimo.
 
-X.- Por inscripción de sentencia de divorcio 2 salarios mínimos.
+X.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 XI.- Por la búsqueda del acta, cuando no
 
@@ -2154,6 +1930,20 @@ por los tres primeros años. 0.5 salario mínimo.
 XII.- Por cada año siguiente del concepto de
 
 la fracción anterior. 0.5 salario mínimo.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XIII.- Por la copia certificada del apéndice:
+
+a).- De 1 a 10 hojas 1 salario mínimo; y
+
+b).- Por cada hoja excedente $6.50; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XIV.- Por inscripción de sentencia y/o
+
+instrumento público 2 salarios mínimos.
 
 ###### ARTICULO 96.
 
@@ -2171,13 +1961,9 @@ II. Por solicitud de examen de oposición para
 
 encargado de Notario o Adscrito; 110 salarios mínimos
 
-> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
+> <small>(DEROGADO PÁRRAFO TERCERO [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-III. Por Informe de Aviso de Testamento:
-
-Ordinario 3.5 salarios mínimos
-
-Urgente 8 salarios mínimos
+III. Por informe de aviso de testamento 3.5 salarios mínimos;
 
 > <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
@@ -2293,6 +2079,14 @@ d) Permutas; y
 
 e) Licencias concedidas
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+f) Elaboración de Acuerdos 10 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+g) Reasignación de claves 12 salarios mínimos;
+
 > <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
 XVII. Por expedición de copias
@@ -2321,15 +2115,15 @@ Notarial:
 
 a) Ordinario 7 salarios mínimos
 
-b) Urgente 12 salarios mínimos
+b). (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-XXII. Por incumplimiento de Aviso de
+XXII. Por incumplimiento de Aviso de Poder
 
-Poder Notarial en términos de la Ley del
+Notarial en términos de la Ley de
 
-Notariado para el Estado de Hidalgo; 4 salarios mínimos
+Notariado para el Estado de Hidalgo 8 salarios mínimos;
 
 > <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
@@ -2342,6 +2136,14 @@ Notarial; y (sic) 4 salarios mínimos
 > <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
 XXIV. Por revocación de Poder Notarial; 7 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XXIV BIS. Por solicitud de corrección en el Sistema del Registro Nacional de Avisos:
+
+a) De poderes Notariales 10 salarios mínimos;
+
+b) De testamentos 10 salarios mínimos;
 
 > <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
@@ -2363,13 +2165,17 @@ Por dos veces 7 salarios mínimos
 
 Por tres veces 10 salarios mínimos
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 b) Por las publicaciones en el Periódico Oficial,
 
-hasta media plana 7 salarios mínimos
+hasta media plana 6 salarios mínimos;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 c) Por la publicación en el Periódico Oficial,
 
-hasta una plana 15 salarios mínimos
+hasta una plana 10 salarios mínimos;
 
 > <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
@@ -2381,23 +2187,31 @@ siguiente tarifa:
 
 a) Por la suscripción durante un año 30 salarios mínimos
 
-b) Por la suscripción durante seis meses 18 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+b) Por la suscripción durante seis meses 15 salarios mínimos;
 
 c) Por la suscripción durante tres meses 10 salarios mínimos
 
 d) Por la suscripción durante un mes 6 salarios mínimos
 
-e) El costo de un ejemplar a la fecha 2 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-f) El costo de un ejemplar atrasado hasta un año 3.5 salarios mínimos
+e) El costo de un ejemplar a la fecha 1 salario mínimo;
 
-g) El costo de un ejemplar del año
+f) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-inmediato anterior 3 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-h) Por cada año atrasado, se pagará
+g) El costo de un ejemplar del año inmediato anterior 1 salario mínimo;
 
-el costo, más 2.5 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+h) Por cada año atrasado se pagará el costo del
+
+ejemplar correspondiente al ejercicio
+
+actual más 0.5 salario mínimo;
 
 i) El costo de cada uno de los tomos de la
 
@@ -2409,13 +2223,19 @@ XXVII. Por la expedición de copias
 
 del Periódico Oficial del Estado:
 
-a) Por cada hoja simple $5.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-b) Por cada hoja excedente $3.00
+a) Por cada hoja simple $ 2.00;
 
-c) Por las primeras cinco hojas certificadas 3 salarios mínimos
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-d) Por cada hoja excedente $16.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+c) Por las primeras cinco hojas certificadas 1 salario mínimo; y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+d) Por cada hoja excedente $10.00.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2465,9 +2285,7 @@ c).- Pensión diaria en el corralón de tránsito $10.00
 
 III.- De los permisos provisionales:
 
-a).- Permiso provisional para conducir sin
-
-Licencia. 2 salarios mínimos
+a).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 Los permisos a que se refieren los incisos de esta fracción serán hasta por 30 días.
 
@@ -2619,161 +2437,139 @@ c) (sic) Por la primera hoja 1 salario mínimo
 
 d) Por cada hoja excedente $5.00
 
-III. Por actos relacionados con
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-movimientos al Padrón Vehicular Estatal:
+III. Por trámites en el Registro Vehicular Estatal señalados en la Ley de la materia:
 
-1. Relacionados con vehículos
+1.- Relacionados con vehículos de transporte privado y que no se encuentren comprendidos en los numerales 2 y 3:
 
-particulares no comprendidos en los
+a) Por incorporación al Registro Vehicular Estatal,
 
-numerales 2, 3, 4, 5 y 6:
+por actualización de datos al Registro Vehicular
 
-a) Por expedición de placas 8 salarios mínimos
+Estatal que de Origen al canje de placas metálicas
 
-b) Por canje de placas 8 salarios mínimos
+y por refrendo de datos al Registro Vehicular Estatal 8 salarios mínimos;
 
-c) Por baja de placas 4 salarios mínimos
+b) Por desincorporación del Registro Vehicular
 
-d) Por reposición de tarjeta
+Estatal y por actualización de datos al Registro
 
-de circulación 5 salarios mínimos
+Vehicular Estatal que no de origen al canje de placas
 
-e) Por refrendo anual 5 salarios mínimos
+metálicas 5 salarios mínimos;
 
-f) Por expedición de permiso provisional
+c) Por la incorporación al Registro Vehicular
 
-para circular en traslado 4 salarios mínimos
+Estatal y por la actualización de datos al Registro
 
-g) Por la expedición de placa con número
+Vehicular Estatal que de origen al canje de placas
 
-específico sujeto a disponibilidad 35 salarios mínimos
+metálicas, cuando el particular solicite placas
 
-2. Relacionados con vehículos
+metálicas con un número específico, y
 
-particulares tipo remolque:
+siempre que dicho número se encuentre en
 
-a) Por expedición de placas 8 salarios mínimos
+las series numéricas existentes 35 salarios mínimos;
 
-b) Por canje de placas 8 salarios mínimos
+2.- Relacionados con vehículos de demostración:
 
-c) Por baja de placas 4 salarios mínimos
+a) Por expedición de placas, por canje
 
-d) Por reposición de tarjeta de circulación 5 salarios mínimos
+de éstas cuando el mismo sea acordado por
 
-e) Por refrendo anual 5 salarios mínimos
+la Secretaría de Finanzas y Administración en
 
-f) Por la expedición de tarjeta de circulación,
+términos de la legislación aplicable, y por refrendo
 
-en razón de cambio de propietario. 5 salarios mínimos
+anual para su utilización, por cada juego de placas
 
-3. Relacionados con vehículos particulares
+expedidas o canjeadas 15 salarios mínimos;
 
-tipo motocicleta y vehículos análogos y similares:
+b) Por cancelación de placas 5 salarios mínimos;
 
-a) Por expedición de placas 6 salarios mínimos
+3.- Relacionados con vehículos destinados al transporte de personas discapacitadas:
 
-b) Por canje de placas 6 salarios mínimos
+a) Por incorporación al Registro Vehicular Estatal,
 
-c) Por baja de placas 3 salarios mínimos
+por actualización de datos al Registro Vehicular Estatal
 
-d) Por reposición de tarjeta de circulación 5 salarios mínimos
+que de origen al canje de placas metálicas y por
 
-e) Por refrendo anual 5 salarios mínimos
+refrendo de datos al Registro Vehicular Estatal. 4 salarios mínimos;
 
-f) Por la expedición de placa con número
+b) Por desincorporación del Registro Vehicular
 
-específico sujeto a disponibilidad 35 salarios mínimos
+Estatal y por actualización de datos al Registro
 
-4. Relacionados con vehículos
+Vehicular Estatal que no de origen al canje de
 
-particulares tipo antigüo:
+placas metálicas 2 salarios mínimos;
 
-a) Por expedición de placas 15 salarios mínimos
+c) Por la incorporación al Registro Vehicular
 
-b) Por canje de placas 15 salarios mínimos
+Estatal y por la actualización de datos al Registro
 
-c) Por baja de placas 3 salarios mínimos
+Vehicular Estatal que de origen al canje de
 
-d) Por reposición de tarjeta de circulación 5 salarios mínimos
+placas metálicas, cuando el particular solicite placas
 
-e) Por refrendo anual 5 salarios mínimos
+metálicas con un número específico, y siempre
 
-5. Relacionado con vehículos
+que dicho número se encuentre en las series
 
-particulares de demostración:
+numéricas existentes 35 salarios mínimos;
 
-a) Por expedición de placas 15 salarios mínimos
+4.- Relacionados con vehículos de transporte público:
 
-b) Por canje de placas 15 salarios mínimos
+a) Por incorporación al Registro Vehicular Estatal,
 
-c) Por baja de placas 5 salarios mínimos
+por actualización de datos al Registro Vehicular
 
-d) Por refrendo anual 10 salarios mínimos
+Estatal que de origen al canje de placas metálicas
 
-6. Relacionados con vehículos
+y por refrendo de datos al Registro
 
-particulares destinados a personas
+Vehicular Estatal 10 salarios mínimos;
 
-con capacidades diferentes:
+b) Por desincorporación del Registro Vehicular
 
-a) Por expedición de placas 4 salarios mínimos
+Estatal y por actualización de datos al Registro
 
-b) Por canje de placas 4 salarios mínimos
+Vehicular Estatal que no de origen al canje
 
-c) Por baja de placas 2 salarios mínimos
+de placas metálicas 5 salarios mínimos;
 
-d) Por reposición de tarjeta de circulación 3 salarios mínimos
+5.- Por la expedición de permiso de circulación
 
-e) Por refrendo anual 2 salarios mínimos
+en términos de la Ley de la materia: 5 salarios mínimos;
 
-f) Por expedición de permiso provisional
+6.- Por la expedición de constancias de pago: 1 salario mínimo;
 
-para circular en traslado 2 salarios mínimos
+7.- Por las consultas realizadas a otras entidades
 
-7. Relacionados con vehículos
+federativas, a la Federación o a terceras personas
 
-del servicio público:
+relacionadas con trámites de control vehicular y/o
 
-a) Por expedición de placas 10 salarios mínimos
+con el cumplimiento de obligaciones fiscales
 
-b) Por canje de placas 10 salarios mínimos
+en ésta materia: 2 salarios mínimos;
 
-c) Por baja de placas 3 salarios mínimos
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-d) Por reposición de tarjeta de circulación 3 salarios mínimos
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
-
-e) Por refrendo anual 6 salarios mínimos
-
-8. Por la expedición de constancias
-
-de pago 1 salario mínimo
-
-9. Por las consultas realizadas a otras
-
-Entidades Federativas, a la Federación
-
-o a terceras personas relacionadas
-
-con trámites de control vehicular y/o
-
-con el cumplimiento de obligaciones
-
-fiscales en ésta materia. 2 salarios mínimos
-
-Tratándose de altas y bajas de vehículos particulares y del servicio público, los derechos a que se refiere ésta fracción se pagarán dentro de los 15 días hábiles siguientes en que se adquiera o enajene el vehículo.
-
-El pago del refrendo anual para los vehículos particulares y del servicio público se pagará durante los meses de enero, febrero y marzo de cada año.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 101.
 
-Los derechos por la prestación de los servicios del Estado a través de la Procuraduría Fiscal, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado a través de la Procuraduría Fiscal del Estado, se causarán y pagarán de la siguiente forma:
 
-I.- Por la expedición de copias certificadas de cualquier documento contenido en los expedientes que se encuentran en los archivos de esta oficina.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+I.- Por la expedición de copias certificadas de documentos y constancias que obren en los archivos de la Secretaría de Finanzas y Administración.
 
 a).- Por la primera hoja 0.5 salario mínimo
 
@@ -2789,15 +2585,19 @@ b).- Por cada hoja excedente $ 5.00
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Normatividad, se causarán y pagarán de la siguiente forma:
 
-I.- Por la inscripción, revalidación, modificación
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-o reposición de los padrones de
+I.- Por la prestación de servicios de inscripción,
 
-proveedores, de la Administración Pública
+revalidación, modificación o reposición en el
 
-Estatal y Contratistas de Obra Pública del
+Padrón de Proveedores de la Administración
 
-Estado de Hidalgo; 10 salarios mínimos
+Pública y de Contratistas de Obras Públicas
+
+y servicios relacionados con las mismas del
+
+Estado de Hidalgo 10 salarios mínimos;
 
 II.- Por la expedición de copias certificadas de
 
@@ -2809,11 +2609,7 @@ Por la primera hoja $10.00
 
 Por cada hoja excedente. $5.00
 
-III.- Por la inscripción, revalidación, modificación
-
-o reposición del Padrón de Concesionarios
-
-de Obra Pública del Estado de Hidalgo 17 salarios mínimos
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>(DEROGADO PÁRRAFO SEGUNDO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2937,41 +2733,23 @@ a la cuantificación de
 
 daños causados
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 105.
 
-Los derechos por la prestación de los servicios del Estado a través de la Dirección General de Administración, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado a través de la Dirección General de Administración de Programas de Obra, se causarán y pagarán de la siguiente forma:
 
-I.- Por la evaluación de la solicitud y los documentos que acrediten los requisitos a fin de obtener concesión para la proyección, construcción, reconstrucción, ampliación, modernización, operación, administración rehabilitación, perforación, explotación, extracción, conservación o explotación de obras públicas y de los servicios relacionados con éstas:
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-De $0.00 hasta $50' 000,000.00 100 salarios mínimos
-
-> <small>(F. DE E., P.O. 23 DE ENERO DE 2012)</small>
-
-De $50'000,001.00 hasta $130'000,000.00 110 salarios mínimos
-
-De $130'000,001.00 en adelante 120 salarios mínimos
-
-II.- Por el otorgamiento del título de concesión
-
-para la proyección, construcción, reconstrucción,
-
-ampliación, modernización, operación, administración
-
-rehabilitación, perforación, explotación, extracción,
-
-conservación o explotación de obras públicas y de los
-
-servicios relacionados con éstas 500 salarios mínimos
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 III.- Por la adquisición de las bases de licitación, tendrán un costo que deberá determinarse dividiendo el monto de los gastos en que haya incurrido la Dependencia, Entidad o Ayuntamientos, exclusivamente por concepto de Publicación de la convocatoria en el Periódico Oficial y los de mayor circulación en el estado y de reproducción de los documentos que integran las bases, entre el número de interesados que se estima las adquirirán.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 106.
 
-Los derechos por la prestación de los servicios del Estado a través de la Dirección General de Asentamientos y Desarrollo Urbano, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado a través de la Dirección General de Ordenamiento Territorial, se causarán y pagarán de la siguiente forma:
 
 I.- Por el otorgamiento de Licencias de Uso del Suelo y autorización de Fraccionamientos en sus diversas modalidades:
 
@@ -3025,7 +2803,9 @@ f).- Servicios de más de 120 M2 base 10 salarios mínimos
 
 30 m2 adicionales.
 
-4.- Licencia de uso del suelo industrial, con base a la clasificación emitida por la Secretaría de Comercio y Fomento Industrial:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+4.- Licencia de uso de suelo industrial, con base a la clasificación emitida por la Secretaría de Economía:
 
 a).- Microindustria 50 salarios mínimos
 
@@ -3109,43 +2889,23 @@ de obra en materia de construcción, planificación
 
 urbanística y régimen de propiedad en condominio; 9 salarios mínimos.
 
-4.- Registro de perito valuador 9 salarios mínimos
+4.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 5.- Refrendo anual de registro de
 
 Director responsable de obra 5 salarios mínimos.
 
-6.- Refrendo anual de registro de
+6.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-perito valuador 5 salarios mínimos.
+7.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-7.- Copias de contacto, (foto aéreas)
+8.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-formato 23 X23 cms.
+9.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-Peso sencillo, color blanco y
+10.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-negro, resolución 600 DPI; 1 salarios mínimos (sic)
-
-8.- Foto de contacto 23X23 cms,
-
-resoluciones 600 DPI, Formato
-
-TIF o JPG; 8 salarios mínimos.
-
-9.- Hoja de mosaico (fotografías) en
-
-papel heliográfico tamaño 50x60 cms. 10 salarios mínimos.
-
-10.- Copias de croquis de localización en
-
-puntos topográficos, en papel bond de
-
-área solicitada 2 salarios mínimos.
-
-11.- Copia de plano manzanero
-
-(heliográfica escala 1:1000 3 salarios mínimos
+11.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 12.- Inspección de predios y examen de los planos
 
@@ -3159,143 +2919,203 @@ x manzana.
 
 13.- Verificación de la poligonal de fraccionamiento 13 salarios mínimos x Ha.
 
-14.- Levantamiento topográfico de poligonales (incluye planos y cálculos)
+14.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-a).- Hasta 5,000 M2 20 salarios mínimos
+15.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-b).- De 5,001 hasta menos de 10,000 M2 30 salarios mínimos
+16.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-c).- De 1 a 2 has. 32 salarios mínimos x Ha.
-
-d).- De más de 2 a 5 has 22 salarios mínimos x Ha.
-
-e).- De más de 5 a 10 has 16 salarios mínimos x Ha.
-
-f).- De más de 10 a 20 has 13 salarios mínimos x Ha.
-
-g).- De más 20 (sic) a 50 has 9 salarios mínimos x Ha.
-
-h).- De más 50 (sic) a 100 has 6 salarios mínimos x Ha.
-
-i).- De más de 100 has 5 salarios mínimos x Ha.
-
-15.- Levantamiento topográfico de predio con área de terreno y edificación:
-
-a).- Hasta 150 m2 0.11 salarios mínimos xm2
-
-b).- De 151 a 250 m2 0.10 salarios mínimos xm2
-
-c).- De 251 a 500 m2 0.08 salarios mínimos xm2
-
-d).- De 501 a 750 m2 0.06 salarios mínimos xm2
-
-e).- De 751 a 1,000 m2 0.05 salarios mínimos xm2
-
-f).- De 1,001 a 1,500 m2 0.04 salarios mínimos xm2
-
-g).- De 1,501 a 2,000m2 0.04 salarios mínimos xm2
-
-h).- De 2,001 a 2,500 m2 0.03 salarios mínimos xm2
-
-i).- Más de 2,500 m2 0.03 salarios mínimos xm2
-
-16.- Levantamiento topográfico en calle:
-
-a).- Por los primeros 2,000 M2 0.04 salarios mínimos xm2
-
-b).- De 2,001 a 10, 000 m2 0.03 salarios mínimos xm2
-
-c).- De 10,001 a 50,000 m2 0.02 salarios mínimos xm2
-
-d).- De 50,000 a 100,000 m2 0.1 salarios mínimos xm2
-
-17.- El certificado o certificación del valor
-
-catastral, el Importe de los derechos
-
-será de: 3 salarios mínimos.
+17.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 18.- Certificado o certificación de la ubicación
 
 del predio en fraccionamiento autorizado 7 salarios mínimos x predio.
 
-19.- Aprobación, registro de planos y
+19.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-otorgamiento de claves catastrales 0.1 salarios mínimos xm2
+20.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-20.- Avalúos catastrales:
+21.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-a).- Por los primeros $ 5,000.00 se cobrará 3 salarios mínimos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-b).- Por el excedente de 5,00.01 se
+22.- Expedición de información no confidencial
 
-cobrarán, de la cantidad que resulte el
+sobre datos de la Dirección General de
 
-valor catastral. 2 al millar.
-
-21.- Por revisión, certificación de avalúo
-
-comercial a Peritos valuadores 30% del 1.5 al millar
-
-del monto revisado
-
-22.- Expedición de información no
-
-confidencial sobre datos de la Dirección
-
-General de Desarrollo Urbano 2 salarios mínimos
-
-x hoja carta
+Ordenamiento Territorial 2 salarios mínimos x hoja carta;
 
 > <small>(F. DE E., P.O. 23 DE ENERO DE 2012)</small>
 
 23.- Expedición de copias compulsadas de cualquier documento que obre en el archivo de la Secretaría de Obras Públicas y Ordenamiento Territorial.
 
-a).- Por la primera Hoja 0.6 salarios mínimos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+a).- Por la primera hoja, 0.6 salarios mínimos;
 
 b).- Por cada hoja adicional 0.3 salarios mínimos.
 
-24.- Restitución fotogramétrica escala 1:1000
+24.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-con vuelo autorizado (1990) con curvas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-de nivel a un metro en heliográfica,
+25.- Copia de plano de la localidad:
 
-formato 90x60 cms. 39 salarios mínimos x pieza.
+a).- En papel bond formato 60 x 90 3 salarios mínimos;
 
-25.- Copia de plano de la localidad, en papel
+b).- En imagen digital CD 5 salarios mínimos;
 
-bond, formato 60x90 cms. 3 salarios mínimos.
+26.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-26.- Documentos impresos:
+27.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-a).- Ley de Catastro 1 salarios mínimos (sic)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-b).- Instructivo de valuación 9 salarios mínimos
+28.- Por concepto de programas municipales de centros de población, parciales y sectoriales de desarrollo urbano, la Secretaría percibirá:
 
-c).- Otros, según el número de fojas de 1 a 10 salarios mínimos
+a).- Por asistencia técnica un 10% del costo del estudio urbano;
 
-d).- Actualización de solicitudes de avalúo y
+b).- Por supervisión y asesoría, un 25% del costo del estudio urbano;
 
-traslado de dominio. 4 salarios mínimos
+c).- Por la elaboración. De acuerdo a lo establecido en el Convenio de Coordinación que se celebre entre el Municipio
 
-27.- Por concepto de asistencia técnica, asesoría y supervisión en la actualización o modernización del catastro, la Secretaría Recibirá:
+y el Poder Ejecutivo del Estado de Hidalgo;
 
-a).- El 8% sobre el monto anual cobrado (factura), derivado de la evaluación de los predios y determinado por la Dirección de Catastro, adicionado por el 1.5% sobre la cantidad que recaudó el Municipio, por concepto de impuesto por adquisición de bienes inmuebles, durante el año anterior.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-b).- La suma de ambos conceptos se dividirá entre doce para determinar la cantidad mensual que el Municipio enterará a la Secretaría, a través de la Secretaría de Finanzas y Administración, quien efectuará las operaciones correspondientes, a partir del siguiente mes a la aprobación del Convenio que sea suscrito por la Secretaría y los Municipios.
-
-Los trabajos para la modernización del catastro serán a cargo del presupuesto de los Municipios.
-
-28.- Por concepto de asistencia técnica, asesoría, elaboración y/o supervisión, en la elaboración de planes y programas de desarrollo urbano, la Secretaría percibirá hasta un 25% del costo total de los trabajos para la elaboración del plan o programas, que sean objeto de supervisión.
-
-29.- Por concepto de asistencia técnica, asesoría, elaboración y/o supervisión, de los dictámenes de uso de suelo en general, la Secretaría percibirá hasta un 50% de los derechos a pagar, resultado de los trabajos respectivos.
+29.- Por concepto de asistencia técnica, asesoría, elaboración y/o supervisión de los dictámenes de uso de suelo, subdivisiones, fraccionamientos y autorización de régimen de propiedad en condominio, en sus diversas modalidades, la Secretaría percibirá la cantidad que se establezca en el Convenio de Coordinación que se celebre entre el Municipio y el Poder Ejecutivo del Estado de Hidalgo;
 
 30.- Expedición de constancias de no invasión o fraccionamientos, áreas verdes u otros:
 
 a).- En todo el territorio de la Entidad 10 salarios mínimos.
 
 Cuando la prestación de los servicios sean solicitados por jornaleros, obreros o trabajadores o cuando éstos sean no asalariados, el pago que efectúen no podrá exceder del importe de su jornal o salario de un día, o del equivalente a un día de su ingreso, respectivamente, cuando la tarifa correspondiente del derecho, resulte mayor.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+31.- Por concepto de Programas de Fomento Urbano y Esquemas de Desarrollo Urbano, la Secretaría percibirá:
+
+a).- Por asistencia en la elaboración 10 salarios mínimos;
+
+b).- Por supervisión y asesoría en la elaboración 10 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+32.- Por concepto de autorización de venta de lotes 10 salarios mínimos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV BIS.- Por los servicios de revisión y evaluación de estudios de impacto urbano, la Secretaria percibirá:
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+1.- Por la revisión y evaluación de proyectos habitacionales:
+
+a).- De 51 a 100 lotes 100 salarios mínimos;
+
+b).- De 101 a 500 lotes 500 salarios mínimos;
+
+c).- De 501 a 1000 lotes 1000 salarios mínimos;
+
+d).- De 1001 lotes en adelante 2000 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+2.- Proyectos de cualquier uso o destino que implique la construcción:
+
+a).- De 3001 a 5000 m2 200 salarios mínimos;
+
+b).- Más de 5000 m2 400 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+3.- Estaciones de servicio y plantas de almacenamiento
+
+de combustibles de gasolina, diésel, gas LP y gas natural
+
+para servicio público o privado 300 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+4.- Explotación de bancos de materiales 200 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+5.- Ubicación de industrias, bodegas comercios
+
+y servicios que utilicen o generen residuos
+
+peligrosos 200 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+6.- Equipamiento e instalaciones qué generen altos
+
+consumos de agua o energía eléctrica, de conformidad
+
+con las normas oficiales que rigen la prestación
+
+de servicios 100 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+7.- Los que generen un impacto social en
+
+su entorno inmediato como lo son templos religiosos,
+
+discotecas, bares, centros nocturnos,
+
+entre otros, conforme a lo establecido en el
+
+Reglamento de la Ley en la materia 100 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+8.- Acciones de urbanización y edificación que se
+
+ubiquen fuera del área urbana de los asentamientos
+
+humanos o que afecten áreas naturales protegidas
+
+decretadas o publicadas o las que se destinen a
+
+industrias de alto riesgo, extractivas o de transformación
+
+y que puedan tener un impacto en el ambiente 400 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+9.- Obras que modifiquen la estructura urbana en
+
+la red vial y en los usos de suelo existentes o programas
+
+en la zona 100 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+10.- Las demás que no se encuentren comprendidas
+
+en los numerales 1 al 9 de la fracción IV BIS
+
+del presente artículo y que se señalen en la tabla
+
+de compatibilidad del uso de suelo en las
+
+disposiciones reglamentarias de la Ley aplicable 50 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+11.- Por la gestión para tramitar la publicación
+
+de los Programas de Desarrollo Urbano y
+
+Ordenamiento Territorial en el Periódico
+
+Oficial del Estado de Hidalgo, así como
+
+su inscripción en el Registro Público de la
+
+Propiedad y del Comercio correspondiente 3 salarios mínimos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3317,7 +3137,9 @@ salida de cadáveres, tejidos o restos áridos del
 
 territorio Estatal; 50 salarios mínimos
 
-II.- Por permiso sanitario de exhumación; 50 salarios mínimos
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+II.- Por permiso sanitario de exhumación 20 salarios mínimos.
 
 III.- Por avisos de apertura de:
 
@@ -3361,111 +3183,7 @@ b).- Ponente local. 30 salarios mínimos
 
 ### CAPÍTULO OCTAVO. LA SECRETARÍA DE PLANEACIÓN, DESARROLLO REGIONAL Y METROPOLITANO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 108 BIS.- Los derechos por la prestación de los servicios del Estado, a través del Centro Estatal de Maquinaria para el Desarrollo, se causarán y pagarán de la siguiente forma:
-
-I.- Tractor de Oruga.
-
-Por 30 días o 200 horas Por día Por hora
-
-Modelo Cuota Mantenimiento Cuota y Mantenimiento
-
-D8-T 3047 salarios 178 salarios 107 salarios 16 salarios
-
-mínimos mínimos mínimos mínimos
-
-D8-R 1915 salarios 178 salarios 70 salarios 10 salarios
-
-Mínimos mínimos mínimos mínimos
-
-D8-K 1071 salarios 141 salarios 40 salarios 6 salarios
-
-mínimos mínimos mínimos mínimos
-
-D7- 2370 salarios 129 salarios 83 salarios 12 salarios
-
-R2 mínimos mínimos mínimos mínimos
-
-D7-R 1460 salarios 129 salarios 53 salarios 8 salarios
-
-mínimos mínimos mínimos mínimos
-
-D6-H 740 salarios 121 salarios 29 salarios 4 salarios
-
-ó E mínimos mínimos mínimos mínimos
-
-D5H 662 salarios 106 salarios 26 salarios 4 salarios
-
-mínimos mínimos mínimos mínimos
-
-II.- Excavadora de Oruga
-
-Por 30 días o 200 horas Por día Por hora
-
-Modelo Cuota Mantenimiento Cuota y Mantenimiento
-
-320 D 1185 salarios 132 salarios 44 salarios 7 salarios
-
-mínimos mínimos mínimos mínimos
-
-315-C 818 salarios 132 salarios 32 salarios 5 salarios
-
-mínimos mínimos mínimos mínimos
-
-III.- Motoconformadora
-
-Por 30 días o 200 horas Por día Por hora
-
-Modelo Cuota Mantenimiento Cuota y Mantenimiento
-
-120-G 542 salarios 97 salarios 21 salarios 3 salarios
-
-ó 12-H mínimos mínimos mínimos mínimos
-
-120-H 818 salarios 97 salarios 30 salarios 5 salarios
-
-mínimos mínimos mínimos mínimos
-
-120-K 818 salarios 97 salarios 30 salarios 5 salarios
-
-Mínimos mínimos mínimos mínimos
-
-IV.- Retroexcavadora
-
-Por 30 días o 200 horas Por día Por hora
-
-Modelo Cuota Mantenimiento Cuota y Mantenimiento
-
-416-B 364 salarios 68 salarios 14 salarios 2 salarios
-
-ó C mínimos mínimos mínimos mínimos
-
-416-E 448 salarios 68 salarios 17 salarios 3 salarios
-
-mínimos mínimos mínimos mínimos
-
-V.- Cargador de neumáticos
-
-Por 30 días o 200 horas Por día Por hora
-
-Modelo Cuota Mantenimiento Cuota y Mantenimiento
-
-936-F 740 salarios 86 salarios 28 salarios 4 salarios
-
-mínimos mínimos mínimos mínimos
-
-VI.- Cargador de Orugas
-
-Por 30 días o 200 horas Por día Por hora
-
-Modelo Cuota Mantenimiento Cuota y Mantenimiento
-
-953-B 695 salarios 75 salarios 26 salarios 4 salarios
-
-mínimos mínimos mínimos mínimos
-
-VII.- Flete por kilómetro 0.5 salario mínimo
+ARTICULO 108 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3473,19 +3191,23 @@ VII.- Flete por kilómetro 0.5 salario mínimo
 
 Los derechos por la prestación de los servicios del Estado, que soliciten los particulares a través de la Dirección General de Administración y Finanzas, independientemente de sus funciones de derecho público contenidas en su Ley Orgánica respectiva, se causarán y pagarán de la siguiente forma:
 
-I.- Por la expedición de copias fotostáticas
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-de documentos que existan en los archivos
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-de esta institución $ 0.80
+II.- Por la práctica de análisis de identificación de
 
-a).- Por la certificación de las mismas. 1 salario mínimo
-
-II.- Por la práctica de examen antidoping. 10 salarios mínimos
+metabolitos de drogas de abuso en muestras de orina 10 salarios mínimos;
 
 III.- Por la expedición de certificados de
 
 no antecedentes penales. 1.5 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV.- Por la expedición de constancia de vehículo
+
+no robado 3 salarios mínimos.
 
 > <small>(REFORMADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3945,3515 +3667,3047 @@ I.- Servicios en Materia Educativa:
 
 164.- Constancia por reposición de documento de educación continua;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 81, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DE LA PRESENTE FRACCIÓN Y SOLO CONSERVA EL TEXTO DE LOS NUMERALES 1 AL 3, PREVIO A ESTA MODIFICACIÓN.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 II.- Servicios en Materia de Salud:
 
-DESCRIPCION
+DESCRIPCIÓN
 
 CONSULTA EXTERNA
 
-1.- Consulta general;
+1. Consulta general;
 
-2.- Consulta especialidad;
+2. Consulta especialidad;
 
-3.- Consulta subsecuente de especialidad;
+3. Consulta subsecuente de especialidad;
 
-4.- Consulta pediátrica;
+4. Consulta extemporánea;
 
-5.- Consulta subsecuente de especialidad;
+5. Consulta urgencias;
 
-6.- Consulta ortopedia;
+6. Observación de 2 a 12 horas;
 
-7.- Consulta odontopediatría;
+7. Observación de 12 a 23 horas;
 
-8.- Consulta extemporánea;
+8. Hidratación oral;
 
-9.- Consulta urgencias;
+9. Hidratación de menores;
 
-10.- Observación de 2 a 12 hrs;
+10. Hospitalización día cama;
 
-11.- Observación de 12 a 23 hrs;
+11. Día incubadora;
 
-12.- Hidratación oral;
+CIRUGÍA GENERAL (MAYOR, INTERNA Y MENOR)
 
-13.- Hidratación de menores;
+12. Lipomas;
 
-14.- Hospitalización día cama;
+13. Quiste sebáceo quirúrgico;
 
-15.- Día incubadora;
+14. Fimosis;
 
-CIRUGIA GENERAL (MAYOR. INTERNA Y MENOR)
+15. Extirpación ganglionar;
 
-16.- Lipomas;
+16. Mastectomía;
 
-17.- Quiste sebáceo quirúrgico;
+17. Hernia umbilical y paraumbilical;
 
-18.- Fimosis;
+18. Hernia inguinal;
 
-19.- Extirpación ganglionar;
+19. Hernia crural;
 
-20.- Mastectomía;
+20. Hernia hiatal;
 
-21.- Hernia umbilical y paraumbilical;
+21. Quiste pilonidal;
 
-22.- Hernia inguinal;
+22. Apendicectomía;
 
-23.- Hernia crural;
+23. Extracción de uñas;
 
-24.- Hernia hiatal;
+24. Litotomía;
 
-25.- Quiste pilonidal;
+25. Safenectomía por extremidad;
 
-26.- Apendicetomía;
+26. Eventración postquirúrgica;
 
-27.- Extracción de uñas;
+27. Histerectomía, anterectomía y biopsia;
 
-28.- Litotomía;
+28. Extirpación de tumores de piel malignos;
 
-29.- Safenectomía por extremidad;
+29. Extirpación de tumores de piel benignos;
 
-30.- Eventración postquirúrgica;
+30. Fisuras;
 
-31.- Histerectomía. Anterectomía y biopsia;
+31. Tiroidectomía;
 
-32.- Extirpación de tumores de piel malignos;
+32. Frenorrafia;
 
-33.- Extirpación de tumores de piel benignos;
+33. Coledocorrafia;
 
-34.- Fisuras;
+34. Diástasis de rectos;
 
-35.- Tiroidectomía;
+35. Sello de agua;
 
-36.- Frenorrafia;
+36. Extracción de cuerpos extraños en cualquier parte de cuerpo en quirófano;
 
-37.- Coledocorrafia;
+37. Extracción de cuerpos extraños en cualquier parte de cuerpo sin técnica quirúrgica;
 
-38.- Diastasis de rectos;
+38. Orquidopexia;
 
-39.- Sello de agua;
+PAQUETE DE CIRUGÍA MENOR CORTA INSTANCIA
 
-PAQUETE DE CIRUGIA MENOR CORTA ESTANCIA
+39. Lipomas, nuevos quistes;
 
-40.- Lipomas, nuevos quistes;
+40. Hernia umbilical;
 
-41.- Hernia umbilical;
+41. Hernia inguinal;
 
-42.- Hernia inguinal;
+42. Hernia hiatal;
 
-43.- Hernia hiatal;
+43. Apendicectomía;
 
-44.- Apendicetomía;
+ODONTOLOGíA
 
-ODONTOLOGIA
+44. Consulta y plan de tratamiento;
 
-45.- Consulta y plan de tratamiento;
+45. Apicoformación;
 
-46.- Apicoformación;
+46. Corona de acero cromo;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+47. Mantenedores de espacio;
 
-47. Corona de acero cromo;
+48. Sedación;
 
-48.- Mantenedores de espacio;
+49. Obturación resina fotocurable;
 
-49.- Sedación;
+50. Sellador de fosetas y fisuras;
 
-50.- Curación;
+51. Guardas Oclusal;
 
-51.- Extracciones;
+52. Incrustaciones;
 
-52.- Profilaxis y aplicación de flúor;
+53. Coronas Metálicas;
 
-53.- Odontoexesis;
+54. Prótesis Removible por Unidad Dental;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+55. Placas totales;
 
-54.- Pulpotomía;
+56. Placa Monomaxilar;
 
-55.- Resina fotocurable;
+57. Rebases;
 
-56.- Sellador;
+58. Provisionales;
 
-57.- Amalgama;
+59. Placa Parcial por Unidad de Dientes 1 a 3 Piezas;
 
-58.- Recubrimiento;
+60. Placa Parcial por Unidad de Dientes 4 a 6 Piezas;
 
-59.- Impresión con alguinatato;
+61. Placa Parcial por Unidad de Dientes 7 a 9 Piezas;
 
-60.- Rayos X
+62. Placa Parcial por Unidad de Dientes 10 a 12 Piezas;
+
+63. Reparación de Prótesis;
 
 OPERATORIA
 
-61.- Atención por cuadrante;
+64. Atención por cuadrante;
 
-62.- Obturación con amalgama de plata;
+65. Obturación con amalgama de plata;
 
-63.- Obturación con resina compuesta;
+66. Obturación con resina compuesta;
 
-64.- Obturación con irm o con óxido de zinc;
+67. Obturación con IRM o con óxido de zinc;
 
-65.- Restauración con corona de acero de cromo;
+68. Restauración con corona de acero de cromo;
 
-66.- Restauración con corona de celuloide;
+69. Restauración con corona de celuloide;
 
-67.- Cemento incrustaciones y corona;
+70. Cemento incrustaciones y corona;
 
-68.- Aplicación de flúor;
+71. Aplicación de flúor;
 
-69.- Exodoncia simple (por pieza) vía alveolar;
+72. Exodoncia simple (por pieza) vía alveolar;
 
-70.- Exodoncia múltiple con regularización;
+73. Exodoncia múltiple con regularización;
 
-71.- Exodoncia por disección;
+74. Exodoncia por disección;
 
-72.- Cirugía preprotésica;
+75. Cirugía preprotésica;
 
-73.- Cirugía periapical;
+76. Cirugía periapical;
 
-74.- Cirugía parodontal;
+77. Cirugía parodontal;
 
-75.- Cirugía atm prótesis;
+78. Cirugía ATM prótesis;
 
-76.- Reducción cerrada de fractura mandibular;
+79. Reducción cerrada de fractura mandibular;
 
-77.- Reducción abierta de fractura mandibular;
+80. Reducción abierta de fractura mandibular;
 
-78.- Cirugía mandíbula;
+81. Cirugía mandíbula;
 
-79.- Círugía maxilar;
+82. Cirugía maxilar;
 
-80.- Bimaxilar;
+83. Bimaxilar;
 
-81.- Pulido de restauración;
+84. Pulido de restauración;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+85. Cirugía de labio fisurado;
 
-82.- Cirugía de labio fisurado;
+86. Cirugía de paladar fisurado;
 
-83.- Cirugía de paladar figurado;
+87. Drenaje de absceso en quirófano;
 
-84.- Drenaje de absceso en quirófano;
+88. Drenaje de absceso en consulta externa;
 
-85.- Drenaje de absceso en consulta externa;
+89. Excisión de neoplastia bucal con anestesia local;
 
-86.- Excisión de neoplastia bucal c/anest. Local;
+90. Excisión de neoplastia bucal con anestesia general;
 
-87.- Excisión de neoplastia bucal c/anest. Gral;
+91. Excisión de neopl. bucal r. x. periap. y oclusal;
 
-88.- Excisión de neopl. Bucal r. X. Periap. y oclusal;
+92. Curaciones dentales;
 
-89.- Curaciones dentales;
+93. Limpieza cabitrón;
 
-90.- Limpieza cabitrón;
+94. Suturas dentales;
 
-91.- Suturas dentales;
+95. Odontoxesis;
 
-92.- Odontoxesis;
+96. Silicato;
 
-93.- Silicato;
+97. Dientes supernumerarios;
 
-94.- Dientes supernumerarios;
+98. Extracciones múltiples bajo anestesia;
 
-95.- Extracciones múltiples bajo anestesia;
+99. Extracción tercer molar;
 
-96.- Extracción tercer molar;
-
-97.- Obturación con ionómero de vidrio;
+100. Obturación con ionómero de vidrio;
 
 TERAPIA PULPAR
 
-98.- Recubrimientos pulpares;
+101. Recubrimientos pulpares;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+102. Pulpotomía piezas posteriores:
 
-99.- Pulpotomía piezas posteriores;
+103. Pulpotomía piezas anteriores:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+104. Urgencia pulpar;
 
-100.- Pulpotomía piezas anteriores;
+RADIOLOGÍA
 
-101.- Urgencia pulpar;
+105. Técnica oclusal;
 
-RADIOLOGIA
+106. Técnica periapical;
 
-102.- Técnica oclusal;
+PATOLOGÍA DENTAL
 
-103.- Técnica periapical;
+107. Profilaxis;
 
-PATOLOGIA DENTAL
+CIRUGÍA
 
-104.- Profilaxis;
+108. Frenivectomía;
 
-CIRUGIA
+109. Ostiomielitis;
 
-105.- Frenivectomia;
+110. Parodoncia;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+111. Gingivectomía;
 
-106.- Ostiomielitis;
+112. Plastia labial;
 
-107.- Parodoncia;
+113. Endodoncia;
 
-108.- Gingivectomía;
-
-109.- Plastia labial;
-
-110.- Endodoncia;
-
-111.- Distractor dactilar y mandibular;
+114. Distractor dactilar y mandibular;
 
 PLASTIAS GINGIVALES HIPERPLASTIAS
 
-112.- Pordifenhidantoina cuadrante;
+115. Pordifenhidantoina cuadrante;
 
-113.- Debridación y canalización de abscesos;
+116. Debridación y canalización de abscesos;
 
-114.- Corrección de fistula oro-angral;
+117. Corrección de fistula oro-angral;
 
-115.- Apicectomia;
+118. Apicectomía;
 
-116.- Bloqueos líticos a nivel trigeminal;
+119. Bloqueos líticos a nivel trigeminal;
 
-117.- Regularización de proc.alveolares residuales;
+120. Regularización de proc. alveolares residuales;
 
-118.- Tulvidina y toma de biopsia;
+121. Tulvidina y toma de biopsia;
 
-TRAUMATOLOGIA
+TRAUMATOLOGÍA
 
-119.- Suturas menores;
+122. Suturas menores;
 
-120.- Fractura dentoalveolar/férula aparte;
+123. Fractura dentoalveolar/ férula aparte;
 
-121.- Fractura mandibular estable;
+124. Fractura mandibular estable;
 
-122.- Fractura mandibular inestable y fer. (osteo.);
+125. Fractura mandibular inestable y fer. (osteo);
 
-123.- Fractura tercio medio gigometrico malar;
+126. Fractura tercio medio gigométrico malar;
 
-124.- Suturas mayores (10 puntos);
+127. Suturas mayores (10 puntos);
 
 EXODONCIA
 
-125.- Implante normal (por pieza);
+128. Implante normal (por pieza);
 
-126.- Implante anormal (por pieza);
+129. Implante anormal (por pieza);
 
-127.- Órganos dentarios retenidos (por pieza);
+130. Órganos dentarios retenidos (por pieza);
 
 ORTODONCIA
 
-128.- Cuota por sesión;
+131. Cuota por sesión;
 
 SALUD MENTAL
 
-129.- Pruebas de personalidad;
+132. Pruebas de personalidad;
 
-130.- Pruebas vocacionales;
+133. Pruebas vocacionales;
 
-131.- Pruebas psicométricas (individual);
+134. Pruebas psicométricas (individual);
 
-132.- Paquete de pruebas psicom. (más de 5 p) c/u;
+135. Paquete de pruebas psicom.(más de 5 p) c/u;
 
-133.- Pruebas mmpi;
+136. Pruebas MMPI;
 
-134.- Pruebas de wais;
+137. Pruebas de WAIS;
 
-135.- Pruebas de tat;
+138. Pruebas de Tat;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+139. Pruebas de Buck;
 
-136.- Pruebas de buck;
+140. Pruebas de Bender;
 
-137.- Pruebas de bender;
+141. Pruebas de Hábitat;
 
-138.- Pruebas de hábitat;
+142. Pruebas de Wipsi;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+143. Pruebas de Wisc;
 
-139.- Pruebas de wipsi;
+144. Terapia conyugal (por pareja de 1 a 3 sesiones);
 
-140.- Pruebas de wisc;
+145. Terapia familiar (familia de 1 a 3 sesiones);
 
-141.- Terapia conyugal (por pareja de 1 a 3 sesiones.);
+146. Terapia individual (de 1 a 3 sesiones);
 
-142.- Terapia familiar (familia de 1 a 3 sesiones);
+147. Terapia de grupo de 1 a 3 sesiones por persona;
 
-143.- Terapia individual (de 1 a 3 sesiones);
+148. Hospitalización psiquiátrica por día;
 
-144.- Terapia de grupo de 1 a 3 sesiones por persona;
+149. Hospitalización psiquiátrica mensual;
 
-145.- Hospitalización psiquiátrica por día;
+150. Desintoxicación alcohólica;
 
-146.- Hospitalización psiquiátrica mensual;
+151. Prueba de Rorschach;
 
-147.- Desintoxicación alcohólica;
+152. Inscripción a grupos de orientación (anual);
 
-148.- Prueba de roscharch;
+153. Grupos de orientación (mensualidad);
 
-149.- Inscripción a grupos de orientación (anual);
+154. Paseos terapéuticos;
 
-150.- Grupos de orientación (mensualidad);
+DERMATOLOGÍA
 
-151.- Paseos terapéuticos;
+155. Biopsia;
 
-DERMATOLOGIA
+156. Electrodesecación;
 
-152.- Biopsia;
+157. Electrofulguración;
 
-153.- Electrodesecación;
+158. Crioterapia;
 
-154.- Electrofulguración;
+159. Extirpación de verrugas;
 
-155.- Crioterapia;
+160. Extirpación de lunares;
 
-156.- Extirpación de verrugas;
+161. Estudios mocológicos;
 
-157.- Extirpación de lunares;
+162. Rasurados;
 
-158.- Estudios mocológicos;
+163. Criocirugía;
 
-159.- Rasurados;
+164. Radioterapia superficial;
 
-160.- Criocirugía;
+165. Peeling químico superficial o medio;
 
-161.- Radioterapia superficial;
+166. Aplicación tópica;
 
-162.- Peeling químico superficial o medio;
-
-163.- Aplicación tópica;
-
-164.- Aplicación intralesionar;
+167. Aplicación intralesionar;
 
 ESTUDIOS
 
-165.- Estudio audiofoniatrico completo;
+168. Estudio audiofoniatrico completo;
 
-166.- Estudio audiométrico básico;
+169. Estudio audiométrico básico;
 
-167.- Estudio audiométrico complementario;
+170. Estudio audiométrico complementario;
 
-168.- Estudio foniátrico;
+171. Estudio foniátrico;
 
-169.- Colocación de auxiliar auditivo ext.;
+172. Colocación de auxiliar auditivo ext.;
 
-170.- Estudio afasiologico;
+173. Estudio afasiológico;
 
-171.- Estroboscopia;
+174. Estroboscopia;
 
-TERAPIAS
+TERAPIAS DE REHABILITACIÓN
 
-172.- Terapia psicológica;
+175. 20 sesiones al mes (5 por semana);
 
-173.- Terapia ocupacional;
+176. 12 sesiones al mes (3 por semana);
 
-174.- Terapia física;
+177. 8 sesiones al mes (2 por semana);
 
-175.- Terapia de lenguaje;
+178. 4 sesiones al mes (1 por semana);
 
-176.- Rehabilitación 20 sesiones al mes (5 por semana);
+179. 1 sesión;
 
-177.- Rehabilitación 12 sesiones al mes (3 por semana);
+MEDICINA FÍSICA Y REHABILITACIÓN
 
-178.- Rehabilitación 8 sesiones al mes (2 por semana);
+180. Sesión de terapia física;
 
-179.- Rehabilitación 4 sesiones al mes (1 por semana);
+181. Sesión terapia ocupacional;
 
-180.- Rehabilitación 1 sesión;
+182. Sesión terapia psicológica;
 
-181.- Snoezelen;
+183. Cardiometría por impedancia;
 
-182.- Dictamen médico;
+184. Valoración cardiaca por paquete: prueba de esfuerzo;
 
-183.- Estimulación temprana;
+185. Monitoreo de control cardíaco;
 
-184.- Hidroterapia;
+186. Terapia del lenguaje;
 
-185.- Electroencefalograma;
+GINECO - OBSTETRICIA
 
-186.- Electromiografía;
+187. Histerectomía abdominal;
 
-187.- Potenciales evocados auditivos;
+188. Histerectomía vaginal;
 
-188.- Potenciales evocados visuales;
+189. Bartholinectomia;
 
-MEDICINA FISICA Y REHABILITACION
+190. Conificación;
 
-189.- Sesión de terapia física;
+191. Resección alta o baja de cérvix;
 
-190.- Sesión terapia ocupacional;
+192. Debridación de absceso mamario;
 
-191.- Sesión terapia psicológica;
+193. Colpoperineorrafia (cirugía p/correc de estática pélvica);
 
-192.- Cardiometría por impedancia;
+194. Resección de quistes y tumores benignos;
 
-193.- Valoración cardiaca por paquete: prueba de esfuerzo;
+195. Drenaje de fondo de saco;
 
-194.- Monitoreo de control cardiaco;
+196. Reparación de fístulas besico vaginales;
 
-195.- Terapia del lenguaje;
+197. Excéresis de nódulo mamario;
 
-GINECO-OBSTETRICIA
+198. Extirpación de pólipo cervical;
 
-196.- Histerectomía abdominal;
+199. Laparoscopía diagnóstica;
 
-197.- Histerectomía vaginal;
+200. Salpingoclasia;
 
-198.- Bartholinectomia;
+201. Salpingo-oferectomía;
 
-199.- Conificación;
+202. Parto distócico;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+203. Embarazo extrauterino;
 
-200.- Resección alta o baja de cérvix;
+204. Parto normal;
 
-201.- Debridación de absceso mamario;
+205. Cesárea;
 
-202.- Colpoperinorafia (cirugia p/correc de estática pélvica);
+206. Legrado;
 
-203.- Resección de quistes y tumores benignos;
+207. Extirpación de quiste de ovario;
 
-204.- Drenaje de fondo de saco;
+208. Traqueloplastia;
 
-205.- Reparación de fístulas besico vaginales;
+209. Cerclaje de cérvix;
 
-206.- Excéresis de nódulo mamario;
+210. Conización de cérvix;
 
-207.- Extirpación de pólipo cervical;
+211. Cirugía abdominal no clasificada;
 
-208.- Laparoscopia diagnóstica;
+212. Miomectomía;
 
-209.- Salpingoclasia;
+213. Tumoraciones anexiales;
 
-210.- Salpingo-oferectomia;
+214. Plastia tubaria;
 
-211.- Parto distócico;
+215. Biopsia de glándula mamaria;
 
-212.- Embarazo extrauterino;
+216. Metroplastia;
 
-213.- Parto normal;
+217. Cirugía menor dentro de quirófano;
 
-214.- Cesárea;
+218. Laparoscopía exploradora;
 
-215.- Legrado;
+219. Inseminación artificial;
 
-216.- Extirpación de quiste de ovario;
+220. Addaire;
 
-217.- Traqueloplastía;
+221. Cesárea-histerectomía;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+222. Colpoclisis;
 
-218.- Cerclaje de cérvix;
+223. Cuadrantectomía;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+224. Extirpación de lipoma;
 
-219.- Conización de cérvix;
+225. Extirpación quiste Gardner;
 
-220.- Cirugía abdominal no clasificada;
+226. Extirpación pólipo cervical;
 
-221.- Miomectomía;
+227. Hernioplastia;
 
-222.- Tumoraciones anexiales;
+228. Histeroscopia;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+229. Histerotomía;
 
-223.- Plastía tubaria;
+230. Histeroctomía radical o amplificada;
 
-224.- Biopsia de glándula mamaria;
+231. Mastectomía radical;
 
-225.- Metroplastía;
+232. Plastia de pared;
 
-226.- Cirugía menor dentro de quirófano;
+233. Reparación de fístula recto-vaginal;
 
-227.- Laparoscopía exploradora;
+234. Salpingo-ovariolisis y adherenciolisis;
 
-228.- Inseminación artificial;
+235. Salpingectomía;
 
-229.- Addaire;
+236. Suspensión de cúpula vaginal;
 
-230.- Cesárea-histerectomía;
+237. Uretropexia;
 
-231.- Colpoclisis;
+238. Servicio de transfusión fetal;
 
-232.- Cuadrantectomía;
+239. Servicio de monitorización fetal anteparto;
 
-233.- Extirpación de lipoma;
+240. Amniocentesis;
 
-234.- Extirpación quiste gardner;
+241. Capacitación espermática;
 
-235.- Extirpación pólipo cervical;
+242. Fotodensitometria radiológica;
 
-236.- Hernioplastía;
+243. Cariotipo en sangre periférica;
 
-237.- Histeroscopía;
+244. Cromatina sexual;
 
-238.- Histerotomía;
+245. Cultivo líquido amniótico y tejidos;
 
-239.- Histeroctomía radical o amplificada;
+246. Criocirugía cérvix uterino;
 
-240.- Mastectomía radical;
+247. Asa diatérmica;
 
-241.- Plastia de pared;
+248. Mastografía;
 
-242.- Reparación de fístula recto-vaginal;
+PAQUETES DE GINECO - OBSTETRICIA
 
-243.- Salpingo-ovariolisis y adherenciolisis;
+249. Paq. Bartholinectomia o marzupialización;
 
-244.- Salpingectomía;
+250. Paq. Himenectomía o aplicación de introito;
 
-245.- Suspensión de cúpula vaginal;
+251. Paq. Polipectomía;
 
-246.- Uretropexia;
+252. Paq. Cono cervical;
 
-247.- Servicio de transfusión fetal;
+253. Paq. Vaporización de cérvix con láser;
 
-248.- Servicio de monitorización fetal anteparto;
+254. Paq. Cerclaje;
 
-249.- Amiocentésis;
+255. Paq. Legrado obstétrico;
 
-250.- Capacitación espermática;
+256. Paq. Legrado hemostático biopsia;
 
-251.- Fotodensitometria radiológica;
+257. Paq. Sinequiolisis con aplicación de D.I.U.;
 
-252.- Cariotipo en sangre periférica;
+258. Paq. Extracción de D.I.U. bajo anestesia;
 
-253.- Cromatina sexual;
+259. Paq. Laparoscopia diagnóstica;
 
-254.- Cultivo líquido amniótico y tejidos;
+260. Paq. Obstrucción tubaria bilateral de intervalo;
 
-255.- Criocirugía cérvix uterino;
+261. Paq. Biopsia abierta de mama;
 
-256.- Asa diatérmica;
+262. Paq. Biopsia de piel;
 
-257.- Mastografía;
+263. Paq. Biopsia de ganglios;
 
-PAQUETES DE GINECO-OBSTETRICIA
+264. Paq. Resección de mamas supernumerarias;
 
-258.- Paq. Bartholinectomía o marzupialización;
+265. Paq. Inseminación gift-fivte;
 
-259.- Paq. Himenectomia o aplicación de introito;
+266. Paq. Parto normal;
 
-260.- Paq. Polipectomía;
+267. Paq. Parto distócico;
 
-261.- Paq. Cono cervical;
+268. Paq. Cesárea;
 
-262.- Paq. Vaporización de cérvix con láser;
+269. Paq. Histerectomía abdominal;
 
-263.- Paq. Cerclaje;
+270. Paq. Histerectomía vaginal;
 
-264.- Paq. Legrado obstétrico;
+271. Paq. Colpoperineoplastia;
 
-265.- Paq. Legrado hemostático biopsia;
+NEUROLOGÍA Y NEUROCIRUGÍA
 
-266.- Paq. Senequiolisis con aplicación de d.i.u;
+272. Punción lumbar;
 
-267.- Paq. Extracción de d.i.u. Bajo anestesia;
+273. Craneotomía;
 
-268.- Paq. Laparoscopia diagnóstica;
+274. Craniectomía;
 
-269.- Paq. Obstrucción tubaria bilateral de intervalo;
+275. Exploración de nervio periférico (plastias);
 
-270.- Paq. Biopsia abierta de mama;
+276. Meningoplastia;
 
-271.- Paq. Biopsia de piel;
+277. Colocación de válvula Pudens (con sonda);
 
-272.- Paq. Biopsia de ganglios;
+278. Tratamiento quirúrgico de epilepsia;
 
-273.- Paq. Resección de mamas supernumerarias;
+279. Abordaje de columna cervical vía anterior;
 
-274.- Paq. Inseminación gift-fivte;
+280. Cirugía transfenoidal;
 
-275.- Paq. Parto normal;
+281. Electroencefalografía;
 
-276.- Paq. Parto distócico;
+282. Electromiografía;
 
-277.- Paq. Cesárea;
+283. Neurocirugía con rayo láser;
 
-278.- Paq. Histerectomía abdominal;
+284. Velocidad de conducción;
 
-279.- Paq. Histerectomía vaginal;
+285. Mapeo cerebral con potenciales o Beg.;
 
-280.- Paq. Colpoperineoplastía;
+286. Paquete de extirpación de condilomas vulvares o vaginales;
 
-NEUROLOGIA Y NEUROCIRUGIA
+NEUMOLOGÍA
 
-281.- Punción lumbar;
+287. Punción transtorácica;
 
-282.- Craneotomía;
+288. Toracotomía;
 
-283.- Craniectomía;
+289. Toracotomía con resección;
 
-284.- Exploración de nervio periférico. Plastias;
+290. Toracotomía de proceso mediastinal;
 
-285.- Meningoplastia;
+291. Decorticación pulmonar;
 
-286.- Colocación de válvula pudens (con sonda);
+292. Mioplastia;
 
-287.- Tratamiento quirúrgico de epilepsia;
+293. Toracoplastia;
 
-288.- Abordaje de columna cervical vía anterior;
+294. Pleurotomía;
 
-289.- Cirugía transfenoidal;
+295. Mediastinotomía;
 
-290.- Electroencefalografía;
+296. Traqueotomía;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+297. Broncoscopia con brocoscopio rígido diagnóstico;
 
-291.- Programas alimentarios del Sistema Integral de la Familia.
+298. Broncoscopia con brocoscopio lavado terapéutico;
 
-292.- Electromiografía;
+299. Fibrobroncoscopia cepillado lavado biopsia;
 
-293.- Neurocirugía con rayo láser;
+300. Fibrobroncoscopia biopsia transbronquial;
 
-294.- Velocidad de conducción;
+301. Fibrobroncoscopia lavado broncoalveolar;
 
-295.- Mapeo cerebral con potenciales o beg;
+302. Fibrobroncoscopia cepillado selectivo;
 
-296.- Paquete de extirpación de condilomas vulvares o vaginales;
+303. Fibrobroncoscopia biopsia punción transbronquial;
 
-NEUMOLOGIA
+304. Fibroncoscopia extracción de cuerpo extraño;
 
-297.- Punción transtorácica;
+305. Toracoscopia toma de biopsia o muest. de líquido;
 
-298.- Toracotomía;
+306. Laringoscopia directa e indirecta;
 
-299.- Toracotomía con resección;
+307. Espirometría Pruebas Funcionales Pulmonares;
 
-300.- Toracotomía de proceso mediastinal;
+308. Pletismografía;
 
-301.- Decorticación pulmonar;
+CIRUGÍA PLÁSTICA Y RECONSTRUCTIVA
 
-302.- Mioplastia;
+309. Ritidectomía;
 
-303.- Toracoplastia;
+310. Fasiotomía;
 
-304.- Pleurotomía;
+311. Mamas de reducción;
 
-305.- Mediastinotomía;
+312. Mamas en aumento;
 
-306.- Traqueotomía;
+313. Lipectomia abdominal;
 
-307.- Broncoscopia con broncoscopio rígido diagnóstico;
+314. Blefaroplastia;
 
-308.- Broncoscopia con broncoscopio lavado terapéutico;
+315. Otoplastia;
 
-309.- Fibrobroncoscopia cepillado lavado biopsia;
+316. Mentoplastia;
 
-310.- Fibrobroncoscopia biopsia transbronquial;
+317. Progmatismo;
 
-311.- Fibrobroncoscopia lavado broncoalveolar;
+318. Dermoabrasión (peeling);
 
-312.- Fibrobroncoscopia cepillado selectivo;
+319. Liposucción;
 
-313.- Fibrobroncoscopia biopsia punción transbronquial;
+320. Colocación de expansores;
 
-314.- Fibroncoscopia extracción de cuerpo extraño;
+321. Maxilofacial;
 
-315.- Toracoscopia toma de biopsia o muest.de liquido;
+322. Colgajos miocutáneos;
 
-316.- Laringoscopia directa e indirecta;
+323. Colgajos;
 
-317.- Pruebas funcionales pulmonares y respiratorias;
+324. Microcirugía;
 
-318.- Pletismografía;
+325. Tenorrafias;
 
-CIRUGIA PLASTICA Y RECONSTRUCTIVA
+326. Neurorrafias;
 
-319.- Ritidectomía;
+327. Procesos combinados (tenorrafia/neurorrafia);
 
-320.- Fasiotomia;
+328. Labio leporino y paladar hendido;
 
-321.- Botox;
+329. Mastopexia;
 
-322.- Mamas de reducción;
+330. Plastia umbilical;
 
-323.- Mamas en aumento;
+331. Injertos de piel menores;
 
-324.- Lipectomia abdominal;
+332. Injertos de piel mayores;
 
-325.- Blefaroplastia;
+333. Cicatrices de manos;
 
-326.- Otoplastia;
+334. Cicatrices mayores;
 
-327.- Mentoplastia;
+335. Plastia local (cicatrices mayores);
 
-328.- Pragmatismo;
+336. Prótesis de mamas;
 
-329.- Dermoabrasión (peeling);
+337. Obturador L.P.H.;
 
-330.- Liposucción;
+CIRUGÍA CARDIOVASCULAR
 
-331.- Colocación de expansores;
+338. Aplicación marcapaso temporal;
 
-332.- Maxilofacial;
+339. Aplicación marcapaso definitivo;
 
-333.- Colgajos miocutáneos;
+340. Coronariografía;
 
-334.- Colgajos;
+341. Coronarioplastia;
 
-335.- Microcirugía;
+342. Trombosis coronaria;
 
-336.- Temorrafias;
+343. Plastia de válvula pulmonar/ aortica/ mitral;
 
-337.- Neurorrafias;
+344. Estudio electrofisiológico (Aas de Hu);
 
-338.- Procesos combinados (tenorrafia/neurorrafia);
+345. Apexcardiograma;
 
-339.- Labio leporino y paladar hendido;
+346. Cateterismo cardiaco simple;
 
-340.- Mastopexia;
+347. Cateterismo cardiaco con angiografía;
 
-341.- Plastia umbilical;
+348. Angiografía de vasos periféricos;
 
-342.- Injertos de piel menores;
+349. Ecocardiograma simple;
 
-343.- Injertos de piel mayores;
+350. Ecocardiograma con dopler;
 
-344.- Cicatrices de manos;
+351. Electrocardiograma en reposo;
 
-345.- Cicatrices mayores;
+352. Electrocardiograma de esfuerzo;
 
-346.- Plastia local (cicatrices mayores);
+353. Fonocardiograma;
 
-347.- Prótesis de mamas;
+354. Corazón abierto;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+355. Corazón cerrado y grandes vasos;
 
-348.- Obturador L. P. H.;
+356. Aorta abdominal;
 
-CIRUGIA CARDIOVASCULAR
+357. Prueba de esfuerzo;
 
-349.- Aplicación marcapaso temporal;
+358. Cirugía vascular de abdomen y tórax;
 
-350.- Aplicación marcapaso definitivo;
+359. Simpatectomía;
 
-351.- Coronariografía;
+360. Cirugía vascular periférica;
 
-352.- Coronarioplastía;
+361. Derivación atrioventricular;
 
-353.- Trombolosis coronaria;
+362. Anillos vasculares;
 
-354.- Plastia de válvula pulmonar/ aortica/ mitral;
+OFTALMOLOGÍA
 
-355.- Estudio electrofisiológico (aas de. Hu);
+363. Cataratas;
 
-356.- Apexcardiograma;
+364. Estrabismo;
 
-357.- Cateterismo cardiaco simple;
+365. Pterigion y pinguécula;
 
-358.- Cateterismo cardiaco con angiografía;
+366. Retina;
 
-359.- Angiografía de vasos periféricos;
+367. Chalazión;
 
-360.- Ecocardiograma simple;
+368. Dacrioscistectomía;
 
-361.- Ecocardiograma con dopler;
+369. Entropión y ectoprión (y quemadura);
 
-362.- Electrocardiograma en reposo;
+370. Extracción de cuerpos extraños;
 
-363.- Electrocardiograma de esfuerzo;
+371. Glaucoma;
 
-364.- Fonocardiograma;
+372. Graduación de lentes;
 
-365.- Corazón abierto;
+373. Fotocoagulación (rayo láser);
 
-366.- Corazón cerrado y grandes vasos;
+374. Sondeo;
 
-367.- Aorta abdominal;
+375. Electronestacnografía;
 
-368.- Prueba de esfuerzo;
+376. Ajustes de armazón de lentes;
 
-369.- Cirugía vascular de abdomen y tórax;
+377. Fluorangiografía;
 
-370.- Simpatectomía;
+378. Reconstrucción palpebral;
 
-371.- Cirugía vascular periférica;
+379. Prótesis oculares;
 
-372.- Derivación atrioventricular;
+380. Enucleación;
 
-373.- Anillos vasculares;
+381. Trasplante de Córnea;
 
-OFTALMOLOGIA
+382. Paq. Cirugía Cataratas FACCO;
 
-374.- Cataratas;
+383. Paq. Cirugía Cataratas ECCO;
 
-375.- Estrabismo;
+OTORRINOLARINGOLOGÍA
 
-376.- Pterigion y pinguécula;
+384. Extracción de cuerpos extraños en quirófano;
 
-377.- Retina;
+385. Extracción de cuerpos extraños sin técnica quirúrgica;
 
-378.- Chalazión;
+386. Audiometría tonal logoaudiometriaimpedanción;
 
-379.- Dacrioscistectomía;
+387. Electronistangnografía (electronistagmografía);
 
-380.- Entropión y ectoprión (y quemadura);
+388. Meringocentésis;
 
-381.- Extracción de cuerpos extraños;
+389. Colocación del tubo de ventilación;
 
-382.- Glaucoma;
+390. Timpanotomía exploradora;
 
-383.- Graduación de lentes;
+391. Miringoplastia;
 
-384.- Fotocoagulación (rayo láser);
+392. Timpanoplastia;
 
-385.- Sondeo;
+393. Mastoidectomía simple;
 
-386.- Electronestacnografía;
+394. Mastoidectomía con timpanoplastía;
 
-387.- Ajustes de armazón de lentes;
+395. Tratamiento quirúrgico de parálisis facial;
 
-388.- Fluorangiografía;
+396. Mastoidectomía radical;
 
-389.- Trasplante de cornea;
+397. Estapedectomia;
 
-390.- Reconstrucción palpebral;
+398. Laberintectomia;
 
-391.- Prótesis oculares;
+399. Tratamiento quirúrgico de tumores malignos de oído;
 
-OTORRINO-LARINGOLOGIA
+400. Tratamiento quirúrgico de tumores benignos de oído;
 
-392.- Extracción de cuerpos extraños en quirófano;
+401. Tratamiento quirúrgico de absceso otógenoendocraneano;
 
-393.- Extracción de cuerpos extr. Sin tec.quirurgica;
+402. Tratamiento quirúrgico estenosis del conducto auditivo externo;
 
-394.- Audiometría tonal logoaudiometria impedanción;
+403. Tratamiento quirúrgico malformaciones congénitas de oído;
 
-395.- Electronistangnografía;
+404. Cirugía de pólipos nasales;
 
-396.- Meringocentésis;
+405. Ligadura trans-antral de la arteria maxilar interna;
 
-397.- Colocación del tubo de ventilación;
+406. Ligadura de carótida externa;
 
-398.- Timpanotomia exploradora;
+407. Debridación de hematoma y/o absceso septal nasal;
 
-399.- Miringoplastia;
+408. Tratamiento quirúrgico de sequias;
 
-400.- Timpanoplastia;
+409. Tratamiento de fractura nasal;
 
-401.- Mastoidectomia simple;
+410. Tratamiento quirúrgico atresia coanal;
 
-402.- Mastoidectomia con timpanoplastía;
+411. Corrección quirúrgico septum nasal;
 
-403.- Tratamiento quirúrgico de parálisis facial;
+412. Rinoplastia;
 
-404.- Mastoidectomia radical;
+413. Rinoseptumplastia;
 
-405.- Estapedectomia;
+414. Tratamiento quirúrgico de perforaciones dentales;
 
-406.- Laberintectomia;
+415. Extirpación de tumores benignos en fosas nasales;
 
-407.- Tratamiento quirúrgico de tumores malignos de oído;
+416. Tratamiento quirúrgico de angiofibroma nasofaríngeo;
 
-408.- Tratamiento quirúrgico de tumores benignos de oído;
+417. Tratamiento quirúrgico de sinusitis frontal y/o etmoidal;
 
-409.- Trat.quirur.de absceso otógeno endocraneano;
+418. Tratamiento quirúrgico de sinusitis maxilar (CaldwellLuc);
 
-410.- Trat.quir.estenósis del conducto auditivo externo;
+419. Tratamiento quirúrgico de laberinto etmoidal;
 
-411.- Trat.quir. Malformaciones congénitas de oído;
+420. Maxilectomía;
 
-412.- Círugía de pólipos nasales;
+421. Amigdalectomía con o sin adenoidectomía;
 
-413.- Ligadura trans-antral de la arteria maxilar interna;
+422. Tratamiento quirúrgico de ránula;
 
-414.- Ligadura de carótida externa;
+423. Extirpación de glándula submaxilar;
 
-415.- Debridación de hematoma y/o absceso septal nasal;
+424. Oclusión de fístula oroantral;
 
-416.- Tratamiento quirúrgico de sequias;
+425. Taponamiento nasal;
 
-417.- Tratamiento de fractura nasal;
+426. Laringofisura;
 
-418.- Tratamiento quirúrgico atresia coanal;
+427. Tratamiento quirúrgico de la parálisis de los abductores laríngeos;
 
-419.- Corrección quirúrgico septum nasal;
+428. Laringectomias parciales;
 
-420.- Rinoplastia;
+429. Procedimientos reconstructivos (colgajos laríngeos);
 
-421.- Rinoseptumplastía;
+430. Tratamiento quirúrgico de remanentes embrionarios del cuello;
 
-422.- Tratamiento quirúrgico de perforaciones dentales;
+431. Laringoscopia, exploración microscopia de laringe;
 
-423.- Extirpación de tumores benignos en fosas nasales;
+432. Obturadores por maxilectomia;
 
-424.- Tratamiento quirúrgico de angiofibroma nasofaríngeo;
+433. Rinectomia prótesis nasal;
 
-425.- Tratamiento quir. De sinusitis front.y/o etmoidal;
+PAQUETES DE OTORRINOLARINGOLOGÍA
 
-426.- Trat.quir.de sinusitis maxilar (caldwell luc);
+434. Extracción de cuerpo extraño nasal;
 
-427.- Tratamiento quirúrgico de laberinto etmoidal;
+435. Cirugía pólipos nasales;
 
-428.- Maxilectomía;
+436. Tratamiento de fractura nasal;
 
-429.- Amigdalectomia con o sin adenoidectomia;
+437. Corrección quirúrgica del septumnasal;
 
-430.- Tratamiento quirúrgico de ránula;
+438. Rinoseptumplastia;
 
-431.- Extirpación de glándula submaxilar;
+439. Sinusitis maxilar Cadwell;
 
-432.- Oclusión de fístula oroantral;
+440. Amigdalectomía con o sin adenoidectomía;
 
-433.- Taponamiento nasal;
+UROLOGÍA
 
-434.- Laringofisura;
+441. Nefrectomía;
 
-435.- Trat.quir.de la parálisis de los abductores laríngeos;
+442. Pielilotomía;
 
-436.- Laringectomias parciales;
+443. Cistostomía;
 
-437.- Procedimientos reconstructivos (colgajos laríngeos);
+444. Prostatectomía;
 
-438.- Trat.quir.de remanentes.embrionarios del cuello;
+445. Corrección de reflujo vesicouretral;
 
-439.- Laringoscopia dir.expl.microscopia de laringe;
+446. Dilatación uretral;
 
-440.- Obturadores por maxilectomia:
+447. Punción de absceso prostático;
 
-441.- Rinectomia prótesis nasal;
+448. Orquiectomía;
 
-PAQUETES DE OTORRINOLARINGOLOGIA
+449. Meatotomías;
 
-442.- Extracción de cuerpo extraño nasal;
+450. Diálisis peritoneal (con equipo);
 
-443.- Cirugía pólipos nasales;
+451. Diálisis peritoneal (sin equipo);
 
-444.- Trat. De fractura nasal;
+452. Hemodiálisis (con equipo);
 
-445.- Corrección quirúrgica del septum nasal;
+453. Hemodiálisis;
 
-446.- Rinoseptumplastía;
+454. Extirpación de tumores retroperitoneales;
 
-447.- Sinusitis maxilar cadwel;
+455. Extirpación de tumores renales;
 
-448.- Amigdalectomía con o sin adenoidectomía;
+456. Biopsia renal percutánea;
 
-UROLOGIA
+457. Trasplante renal;
 
-449.- Nefrectomía;
+458. Litotripsia;
 
-450.- Pielilotomía;
+459. Colocación de catéter blando;
 
-451.- Cistostomía;
+460. Colocación de catéter para hemodiálisis;
 
-452.- Prostatectomía;
+461. Exceresis de quiste de epidídimo;
 
-453.- Corrección de reflujo vesicouretral;
+462. Prótesis testiculares;
 
-454.- Dilatación uretral;
+463. Circuncisión adulto;
 
-455.- Punción de absceso prostático;
+PAQUETES DE UROLOGÍA
 
-456.- Orquiectomía;
+464. Prostactectomia;
 
-457.- Meatotomías;
+ORTOPEDIA, AMPUTACIÓN O DESARTICULACIÓN
 
-458.- Diálisis peritoneal (con equipo);
+465. Brazo;
 
-459.- Diálisis peritoneal (sin equipo);
+466. Antebrazo;
 
-460.- Hemodiálisis (con equipo);
+467. Muslo;
 
-461.- Hemodiálisis;
+468. Pierna;
 
-462.- Extirpación de tumores retroperitoneales;
+469. Mano;
 
-463.- Extirpación de tumores renales;
+470. Pie;
 
-464.- Biopsia renal percutánea;
+471. Dedo;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-465.- Hospitalización, hidratación, incubadora y observación
-
-466.- Litotripsia;
-
-467.- Colocación de catéter blando;
-
-468.- Colocación de catéter para hemodiálisis;
-
-469.- Excéresis de quiste de epidídimo;
-
-470.- Prótesis testiculares;
-
-PAQUETES DE UROLOGIA
-
-471.- Prostactectomía
-
-ORTOPEDIA, AMPUTACION O DESARTICULACION
-
-472.- Brazo;
-
-473.- Antebrazo;
-
-474.- Muslo;
-
-475.- Pierna;
-
-476.- Mano;
-
-477.- Pie;
-
-478.- Dedo;
-
-479.- Ortejo;
+472. Ortejo;
 
 ARTRODESIS
 
-480.- Hombro;
+473. Hombro;
 
-481.- Columna;
+474. Columna;
 
-482.- Cadera;
+475. Cadera;
 
-483.- Artroneumografía;
+476. Artroneumografia;
 
-484.- Artrodesis;
+477. Artrodésis;
 
 COXARTROSIS y GONARDROSIS
 
-485.- Total;
+478. Total;
 
-486.- Parcial;
+479. Parcial;
 
 FRACTURA DE CADERA
 
-487.- Artroplastia total;
+480. Artroplastia total;
 
-488.- Artroplastia parcial;
+481. Artroplastia parcial;
 
-489.- Osteosíntesis;
+482. Osteosíntesis;
 
-490.- Elongación ósea;
+483. Elongación ósea;
 
-491.- Extirpación discal;
+484. Extirpación discal;
 
-492.- Laminectomía;
+485. Laminectomía;
 
 HALLUS VALGUS
 
-493.- Unilateral;
+486. Unilateral;
 
-494.- Bilateral;
+487. Bilateral;
 
 LUXACIONES GLENOHUMERAL
 
-495.- Miembro toráxico reducción manual;
+488. Miembro torácico reducción manual;
 
-496.- Miembro toráxico reducción quirúrgica;
+489. Miembro torácico reducción quirúrgica;
 
-497.- Radiocarpiana reducción manual;
+490. Radiocarpiana reducción manual;
 
-498.- Radiocarpiana reducción quirúrgica;
+491, Radiocarpiana reducción quirúrgica;
 
-499.- Dedos reducción manual;
+492. Dedos reducción manual;
 
-500.- Dedos reducción quirúrgica;
+493. Dedos reducción quirúrgica;
 
-501.- Miembro pélvico reducción manual;
+494. Miembro pélvico reducción manual;
 
-502.- Miembro pélvico reducción quirúrgica;
+495. Miembro pélvico reducción quirúrgica;
 
-503.- Rodilla reducción manual;
+496. Rodilla reducción manual;
 
-504.- Rodilla reducción quirúrgica;
+497. Rodilla reducción quirúrgica;
 
-505.- Tobillo reducción manual;
+498. Tobillo reducción manual;
 
-506.- Tobillo reducción quirúrgica;
+499. Tobillo reducción quirúrgica;
 
-507.- Pie reducción manual;
+500. Pie reducción manual;
 
-508.- Pie reducción quirúrgica;
+501. Pie reducción quirúrgica;
 
-509.- Columna reducción manual;
+502. Columna reducción manual;
 
-510.- Columna reducción quirúrgica;
+503. Columna reducción quirúrgica;
 
-511.- Realización de férulas de yeso;
+504. Realización de férulas de yeso;
 
 OSTEOPLASTIAS
 
-512.- Humero;
+505. Húmero;
 
-513.- Codo;
+506. Codo;
 
-514.- Antebrazo;
+507. Antebrazo;
 
-515.- Mano;
+508. Mano;
 
-516.- Dedo;
+509. Dedo;
 
-517.- Cadera;
+510. Cadera;
 
-518.- Fémur;
+511. Fémur;
 
-519.- Rodilla;
+512. Rodilla;
 
-520.- Tibia y/o peroné;
+513. Tibia y/o peroné;
 
-521.- Tobillo;
+514. Tobillo;
 
-522.- Pie;
+515. Pie;
 
-523.- Columna;
+516. Columna;
 
-OSTEOSINTESIS
+OSTEOSÍNTESIS
 
-524.- Humero;
+517. Húmero;
 
-525.- Codo;
+518. Codo;
 
-526.- Antebrazo;
+519. Antebrazo;
 
-527.- Mano;
+520. Mano;
 
-528.- Dedo;
+521. Dedo;
 
-529.- Cadera;
+522. Cadera;
 
-530.- Fémur;
+523. Fémur;
 
-531.- Rodilla;
+524. Rodilla;
 
-532.- Menisectomia;
+525. Menisectomia;
 
-533.- Tibia y/o peroné;
+526. Tibia y/o peroné;
 
-534.- Tobillo;
+527. Tobillo;
 
-535.- Pie;
+528. Pie;
 
-536.- Columna;
+529. Columna;
 
-537.- Meniscotomia y colocación de prótesis ortopédica;
+530. Meniscotomia y colocación de prótesis ortopédica;
 
-538.- Liberación de canal;
+531. Liberación de canal;
 
-OSTEOTOMIAS
+532. Retiro de material de osteosíntesis;
 
-539.- Húmero;
+OSTEOTOMÍAS
 
-540.- Codo;
+533. Húmero;
 
-541.- Antebrazo;
+534. Codo;
 
-542.- Mano;
+535. Antebrazo;
 
-543.- Dedo;
+536. Mano;
 
-544.- Cadera;
+537. Dedo;
 
-545.- Fémur;
+538. Cadera;
 
-546.- Rodilla;
+539. Fémur;
 
-547.- Tibia y/o peroné;
+540. Rodilla;
 
-548.- Tobillo;
+541. Tibia y/o peroné;
 
-549.- Pie;
+542. Tobillo;
 
-550.- Columna;
+543. Pie;
 
-551.- Prótesis dactilar;
+544. Columna;
 
-RASPA SECUESTRECTOMIA
+545. Prótesis dactilar;
 
-552.- Húmero;
+RASPAS SECUESTRECTOMIA
 
-553.- Codo;
+546. Húmero;
 
-554.- Antebrazo;
+547. Codo;
 
-555.- Mano;
+548. Antebrazo;
 
-556.- Dedo;
+549. Mano;
 
-557.- Cadera;
+550. Dedo;
 
-558.- Fémur;
+551. Cadera;
 
-559.- Rodilla;
+552. Fémur;
 
-560.- Tibia y/o peroné;
+553. Rodilla;
 
-561.- Pie;
+554. Tibia y/o peroné;
 
-562.- Columna;
+555. Pie;
 
-563.- Vendas de yeso c/u (reposición);
+556. Columna;
 
-564.- Tobillo;
+557. Vendas de yeso c/u (reposición);
 
-CIRUGIA PEDIATRICA
+558. Tobillo;
 
-565.- Hernioplastia inguinal unilateral;
+CIRUGÍA PEDIÁTRICA
 
-566.- Hernioplastia inguinal bilateral;
+559. Hernioplastia inguinal unilateral;
 
-567.- Hernioplastia umbilical;
+560. Hernioplastia inguinal bilateral;
 
-568.- Hernioplastia diafragmática;
+561. Hernioplastia umbilical;
 
-569.- Pilorotomía;
+562. Hernioplastia diafragmática;
 
-570.- Desinvaginación del intestino;
+563. Pilorotomía;
 
-571.- Intervención del intestino;
+564. Desinvaginación del intestino;
 
-572.- Intervenciones esplénicas;
+565. Intervención del intestino;
 
-573.- Intervenciones hepáticas;
+566. Intervenciones esplénicas;
 
-574.- Intervenciones de vía biliar;
+567. Intervenciones hepáticas
 
-575.- Atresias de intestino;
+568. Intervenciones de vía biliar;
 
-576.- Esplenectomía;
+569. Atresias de intestino;
 
-577.- Anastomosis de hígado. Riñón y tubo digestivo;
+570. Esplenectomía;
 
-578.- Atresia de esófago;
+571. Anastomosis de hígado, riñón y tubo digestivo;
 
-579.- Tumorectomías abdominales;
+572. Atresia de esófago;
 
-580.- Atresia rectal alta;
+573. Tumorectomias abdominales;
 
-581.- Atresia rectal baja;
+574. Atresia rectal alta;
 
-582.- Colostomía;
+575. Atresia rectal baja;
 
-583.- Descenso intestinal;
+576. Colostomía;
 
-584.- Ano imperforado;
+577. Descenso intestinal;
 
-585.- Ano húmedo;
+578. Ano imperforado;
 
-586.- Oclusión intestinal;
+579. Ano húmedo;
 
-587.- Fistula recto urinaria;
+580. Oclusión intestinal;
 
-588.- Quiste ideopático;
+581. Fistula recto urinaria;
 
-589.- Perforación de intestino;
+582. Quiste idiopático;
 
-590.- Adherencias intestinales;
+583. Perforación de intestino;
 
-591.- Absceso residual de pared abdominal;
+584. Adherencias intestinales;
 
-592.- Quiste tirogloso;
+585. Absceso residual de pared abdominal;
 
-593.- Miectomía;
+586. Quiste tirogloso;
 
-594.- Eventraciones. Bridas. Resección;
+587. Miectomia;
 
-595.- Exónfalos simples;
+588. Eventraciones, bridas, resección;
 
-596.- Exónfalos en dos tiempos;
+589. Exónfalos simples;
 
-597.- Estenosis uretero pielica unilateral;
+590. Exónfalos en dos tiempos;
 
-598.- Estenosis uretero pielica bilateral: plastia bilateral;
+591. Estenosis ureteropielica unilateral;
 
-599.- Fistula branquial (resección de fistula);
+592. Estenosis ureteropielica bilateral: plastia bilateral;
 
-600.- Frenillo lingual corto: frenilectomía;
+593. Fistula branquial (resección de fistula);
 
-601.- Hipospadias: plastia de uretra peneana;
+594. Frenillo lingual corto: frenilectomía;
 
-602.- Desinvaginación por taxis;
+595. Hipospadias: plastia de uretra peneana;
 
-CIRUGIA CARDIOVASCULAR PEDIATRICA
+596. Desinvaginación por taxis;
 
-603.- Blalock;
+CIRUGÍA CARDIOVASCULAR PEDIÁTRICA
 
-604.- Anastomosis troncovenoso auricular derecho;
+597. Blalock;
 
-605.- Anastomosis sistemático pulmonar;
+598. Anastomosis troncovenoso auricular derecho;
 
-606.- Bandaje de arteria pulmonar;
+599. Anastomosis sistemático pulmonar;
 
-607.- Waterston;
+600. Bandaje de arteria pulmonar;
 
-608.- Drenaje de arteria pulmonar;
+601. Waterston;
 
-609.- Derivación espleno renal;
+602. Drenaje de arteria pulmonar;
 
-610.- Coartectomia;
+603. Derivación espleno renal;
 
-611.- Rastelli;
+604. Coartectomia;
 
-612.- Rastelli con tubo valvulado;
+605. Rastelli;
 
-613.- Substitución valvular (sin prótesis);
+606. Rastelli con tubo valvulado;
 
-CIRUGIA CARDIOVASCULAR PEDIATRICA
+607. Substitución valvular (sin prótesis);
 
-614.- Resección paquete varicoso;
+608. Resección paquete varicoso;
 
-615.- Corrección de fistula;
+609. Corrección de fistula;
 
-616.- Esplenoportografía;
+610. Esplenoportografía;
 
-617.- Correc.drenaje anómalo tot.venas pulm.cierre;
+611. Corrección drenaje anómalo total venas pulmonares cierre;
 
-618.- Sección y sutura de conducto (persistencia conducto art);
+612. Sección y sutura de conducto (persistencia conducto arterial);
 
-NEUMOLOGIA PEDIATRICA
+NEUMOLOGÍA PEDIÁTRICA
 
-619.- Gasometría;
+613. Gasometría;
 
-620.- Pruebas funcionales respiratorias;
+614. Pruebas funcionales respiratorias;
 
-NEUROCIRUGIA PEDIATRICA
+NEUROCIRUGÍA PEDIÁTRICA
 
-621.- Quiste pilonidal;
+615. Quiste pilonidal;
 
-622.- Laminectomía;
+616. Laminectomia;
 
-623.- Plastia de meningocele;
+617. Plastia de meningocele;
 
-624.- Plastia de meningocele craneano;
+618. Plastia de meningocele craneano;
 
-625.- Murcelación;
+619. Murcelación;
 
-626.- Craneoplastia;
+620. Craneoplastia;
 
-627.- Craneotomía o craniectomía;
+621. Craneotomía o craniectomía;
 
-628.- Derivación de líquido cefalorraquídeo;
+622. Derivación de líquido cefalorraquídeo;
 
-629.- Colocación de reservorio de omaya;
+623. Colocación de reservorio de Omaya;
 
-630.- Colocación de deriv ventricular periton;
+624. Colocación de deriv. ventricular periton;
 
-UROLOGIA PEDIATRICA
+UROLOGÍA PEDIÁTRICA
 
-631.- Diálisis peritoneal con equipo;
+625. Diálisis peritoneal con equipo;
 
-632.- Diálisis peritoneal sin equipo;
+626. Diálisis peritoneal sin equipo;
 
-633.- Biopsia renal;
+627. Biopsia renal;
 
-634.- Trasplante de riñón-receptor;
+628. Trasplante de riñón-receptor;
 
-635.- Trasplante de riñón-donador;
+629. Trasplante de riñón-donador;
 
-636.- Orquidopexia unilateral;
+630. Orquidopexia unilateral;
 
-637.- Orquidopexia bilateral;
+631. Orquidopexia bilateral;
 
-638.- Circuncisión;
+632. Circuncisión;
 
-639.- Circuncisión con plastibel y anestesia;
+633. Circuncisión con plastibel y anestesia;
 
-640.- Cicatriz fibrosa del prepucio;
+634. Cicatriz fibrosa del prepucio;
 
-641.- Corrección de hipospadias;
+635. Corrección de hipospadias;
 
-642.- Reflujo vesicouretral;
+636. Reflujo vesicouretral;
 
-643.- Reimplante de ureteros;
+637. Reimplante de ureteros;
 
-644.- Valvas posteriores;
+638. Valvas posteriores;
 
-645.- Tumores de vejiga;
+639. Tumores de vejiga;
 
-PAQUETES DE UROLOGIA PEDIATRICA
+PAQUETES DE UROLOGÍA PEDIÁTRICA
 
-646.- Circuncisión;
+640. Circuncisión;
 
-NEONATOLOGIA
+NEONATOLOGÍA
 
-647.- Aspiración de secreciones;
+641. Aspiración de secreciones;
 
-648.- Fototerapia por día;
+642. Fototerapia por día;
 
-649.- Fototerapia por 1 hora;
+643. Fototerapia por 1 hora;
 
-650.- Intubación;
+644. Intubación;
 
-651.- Uso monitor apnea por día;
+645. Uso monitor apnea por día;
 
-652.- Uso de monitor neonatal;
+646. Uso de monitor neonatal;
 
-653.- Preparación alimentación parenteral;
+647. Preparación alimentación parenteral;
 
-GASTROENTEROLOGIA
+GASTROENTEROLOGÍA
 
-654.- Hemorroidectomias;
+648. Hemorroidectomias;
 
-655.- Extirpación de tumores benignos de ano o recto;
+649. Extirpación de tumores benignos de ano o recto;
 
-656.- Debridación de abscesos;
+650. Debridación de abscesos;
 
-657.- Fistulectomias;
+651. Fistulectomias;
 
-658.- Prolapso rectal;
+652. Prolapso rectal;
 
-659.- Colecistectomia;
+653. Colecistectomía;
 
-660.- Colecistectomia con canales;
+654. Colecistectomía con canales;
 
-661.- Gastrectomía;
+655. Gastrectomía;
 
-662.- Hernias diafragmáticas;
+656. Hernias diafragmáticas;
 
-663.- Gastrostomía;
+657. Gastrostomía;
 
-664.- Hemicolectomias o colectomias;
+658. Hemicolectomias o colectomias;
 
-665.- Resección abdomino perineal;
+659. Resección abdomino perineal;
 
-666.- Transposición de colon;
+660. Transposición de colon;
 
-667.- Laparotomía exploradora;
+661. Laparotomía exploradora;
 
-668.- Resecciones intestinales;
+662. Resecciones intestinales;
 
-669.- Colostomía o cierre;
+663. Colostomía o cierre;
 
-670.- Biopsia hepática;
+664. Biopsia hepática;
 
-671.- Rectosigmoidoscopia;
+665. Rectosigmoidoscopia;
 
-672.- Gastroscopia;
+666. Gastroscopia;
 
-673.- Panendoscopia;
+667. Panendoscopia;
 
-674.- Colonoscopia;
+668. Colonoscopia;
 
-675.- Cirugía menor de esófago;
+669. Cirugía menor de esófago;
 
-676.- Esclerosis de varices por sesión;
+670. Esclerosis de varices (por sesión);
 
-677.- Dilataciones esofágicas por sesión;
+671. Dilataciones esofágicas (por sesión);
 
-678.- Cirugía menor de recto;
+672. Cirugía menor de recto;
 
-679.- Curación de heridas;
+673. Curaciones proctológicas;
 
-680.- Curaciones proctológicas;
+674. Curaciones esofágicas;
 
-681.- Contusión en extremidades;
+675. Laparoscopia diagnóstica;
 
-682.- Curaciones esofágicas;
+676. Cuerpos extraños en esófago y recto;
 
-683.- Laparoscopia diagnostica;
+677. Perfil rectal;
 
-684.- Cuerpos extraños en esófago y recto;
+678. Cirugía de páncreas;
 
-685.- Perfil rectal;
+679. Abdomen agudo por perforación de víscera hueca;
 
-686.- Cirugía de páncreas;
+680. Endoscopía;
 
-687.- Abdomen agudo por perforac.de vícera hueca;
+681. Piloroplastía;
 
-688.- Endoscopía;
+682. Anoplastia perineal;
 
-689.- Piloroplastía;
+683. Rectonectomia;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+684. Plastia local colecistectomía laparoscópica;
 
-690.- Anoplastia perineal;
+685. Colectomia (resección de colon);
 
-691.- Rectonectomia;
+686. Apendicetomía por laparoscopia;
 
-692.- Plastia local colecistectomía laparoscópica;
+687. Colecistectomía por laparoscopia;
 
-693.- Colectomia (resección de colon);
+PAQUETES DE GASTROENTEROLOGÍA
 
-694.- Apendicetomía por laparoscopia;
+688. Colecistectomía;
 
-695.- Colesistectomia por laparoscopia;
-
-PAQUETES DE GASTROENTEROLOGIA
-
-696.- Colecistectomía;
-
-697.- Laparatomía exploradora;
+689. Laparatomía exploradora;
 
 VIRUS DE INMUNODEFICIENCIA HUMANA
 
-698.- Determinación de carga viral del vih;
+690. Determinación de carga viral del VIH;
 
-699.- Anticuerpos anti-vch (elisa);
+691. Anticuerpos anti-VIH (ELISA);
 
-700.- Paquete plaquetoferesis;
+692. Paquete plaquetoferesis;
 
-701.- Detección de anti-cuerpos vih 1/2 (elisa);
+693. Detección de anti-cuerpos VIH 1/2 (ELISA);
 
-702.- Antígeno de superficie agshb;
+694. Antígeno de superficie AgsHBV;
 
-703.- Paquete comp. Sanguí. (p.f.c, paq.glob, conc.plaq.);
+695. Paquete de componente (sic) sanguíneos (p.f.c, paquete globular, concentrado plaquetario);
 
-704.- Por unidad.componente de la sangre (ce concentrado de eritrocitos pfc., plassma frasco
+696. Pruebas de escrutinio detección anti- VIH mediante aglutinación pasiva;
 
-congelado. cp concentrado de plaquetas, crio crioprecipitado) costo;
+697. Pruebas confirmatorias detección de anticuerpos contra virus hepatitis C (RIBA 3.0);
 
-705.- Eval. React. Diagnósticos comerc. Detecc. Ariti-vih;
+698. Prueba confirmatoria para detección del antígeno de superficie del virus hepatitis B (Ags HBV);
 
-706.- Eval. React. Diagnósticos comerc. Detecc. Anti-vhc;
+699. Prueba confirmatoria detección de anticuerpos contra virus de inmunodeficiencia humana (anti-VIH-1) Western Blot;
 
-707.- Eval. React. Diagnósticos comerc. Detecc. Ags-hb;
+700. Neutralización Abbott;
 
-708.- Crioperservación cultivo celular progenitoras hematopoyeticas transplante de médula ósea;
+701. Hematopoyéticas trasplante médula ósea;
 
-709.- Pruebas de escrutinio detección anti- vih mediante aglutinación pasiva;
+BACTERIOLOGÍA
 
-710.- Pruebas confirmatorias detección de anticuerpos contra virus hepatitis c (riba 3.0);
+702. Bacteriología en fresco;
 
-711.- Prueba confirmatoria para detección del antígeno de superficie del virus hepatitis b (ags hb);
+703. Bacteriología frotis y tinción;
 
-712.- Eval. React. Diagnósticos comerc. Anti-cruzi;
+704. Serotipificaciones;
 
-713.- Pba. Confirmatoria detección de anticuerpos contra virus de inmunodeficiencia humana (anti-vih-1)w.b;
+705. Investigación de Plasmodium (paludismo en gota gruesa);
 
-714.- Eval. React. Hemoclasificadores, suero de coombs y albúmina bovina, comerciales;
+706. Cultivos en general;
 
-715.- Eval. Hemoderivados comerc. Para uso humano;
+707. Cultivos anaerobios;
 
-716.- Particip. Prog. De evaluación externa calidad de red nacional de laboratorios en banco de sangre;
+INMUNOLOGÍA
 
-717.- Neutralización abbot;
+708. Estudio de líquido C.R.;
 
-718.- Hematopoyécticas transplante medula ósea;
+709. Estudio de líquido Ascitis;
 
-BACTERIOLOGIA
+710. Estudio de líquido Peritoneal;
 
-719.- Bacteriología en fresco;
+711. Estudio de líquido Sinovial;
 
-720.- Bacteriología frotis y tincion;
+712. Reacciones febriles en placa;
 
-721.- Serotipificaciones;
+713. Reacciones febriles en tubo;
 
-722.- Investigación de plasmodium;
+714. Reacciones febriles en zona;
 
-723.- Cultivos en general;
+715. V.D.R.L. cuantitativo;
 
-724.- Cultivos anaerobios;
+716. Eosinofilos en moco nasal;
 
-INMUNOLOGIA
+717. Eosinofilos en esputo
 
-725.- Estudio de I.c.r.;
+718. Treponema inmunofluorescencia (prueba confirmatoria FTA-abs sífilis);
 
-726.- Estudio de l. Ascitis;
+719. Antiestreptolisinas;
 
-727.- Estudio de I. peritoneal;
+720. Proteínas c-reactivas;
 
-728.- Estudio de l. Sinovial;
+721. Factor reumatoide (prueba de látex );
 
-729.- Reacciones febriles en placa;
+722. IgG;
 
-730.- Reacciones febriles en tubo;
+723. IgM;
 
-731.- Reacciones febriles en zona;
+724. IgA;
 
-732.- V.d.r.l.- Cuantitativo;
+725. IgE;
 
-733.- V.d.r.l.- Cualitativo;
+726. Complemento hemolítico C3
 
-734.- Eosinofilos en moco nasal;
+727. Complemento hemolítico C4
 
-735.- Eosinofilos en esputo;
+728. Células LE;
 
-736.- Treponema inmunofluorecencia;
+729. Anticuerpos Toxoplasma gondiilgM (ELISA);
 
-737.- Antiestreptolisinas;
+730. Anticuerpos mononucleosis;
 
-738.- Proteínas c-reactivas;
+731. Anticuerpos DNA;
 
-739.- Factor reumatoide (p. Latex r.f.);
+732. Anticuerpos antinúcleo;
 
-740.- R.p.r. Prueba de sífilis;
+733. Anticuerpos Mitocondria;
 
-741.- I.g.g.;
+734. Anticuerpos TBG;
 
-742.- I.g.m.;
+735. Clamidia fluorescencia;
 
-743.- I.g.a.;
+736. Coombs directo;
 
-744.- I.g.e.;
+737. Coombs indirecto;
 
-745.- Complemento hemolítico c3;
+738. Paul y Bunnell;
 
-746.- Complemento hemolítico c4;
+739. Anticuerpos amibiasis;
 
-747.- Células le;
+740. Antígeno carcinoembrionario (C E A);
 
-748.- Ac. Toxoplasma;
+741. Alfa 1 feto proteína (A F P);
 
-749.- Ac. Mononucleosis;
+742. Antígeno prostático (P A P);
 
-750.- Ac. Dna;
+743. Ferritina;
 
-751.- Ac. Antinucleo;
+744. Antígeno extraíble del núcleo I (ENA I);
 
-752.- Ac. Mitocondria;
+745. Antígeno extraíble del núcleo II (ENA II);
 
-753.- Ac. T.b.g.;
+746. C.A. 15-3 (marcador tumoral);
 
-754.- Clamidia fluorescencia;
+747. C.A. 125 (marcador tumoral);
 
-755.- Coombs directo;
+748. P.G.A. (marcador tumoral);
 
-756.- Coombs indirecto;
+749. C.A. 19-9 (marcador tumoral);
 
-757.- Coombs directo;
+750. Investigación antígeno HBVag asociado a hepatitis;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+751. Investigación de anticuerpos HBV asociados a hepatitis;
 
-758.- Paul y Bunell;
+752. Investigación anticuerpos HLA 827;
 
-759.- Anticuerpos amibiasis;
+753. Anticuerpos a histomas músculo esquelético;
 
-760.- Antígeno carcinoembrionario (c e a);
+754. Anticuerpos antimusculo liso;
 
-761.- Alfa 1 feto proteína (a f p);
+755. Anticuerpos anticelulares parietales;
 
-762.- Antígeno prostático (p a p);
+756. Cadenas ligeras de inmunoglobulinas;
 
-763.- Ferritina;
+757. Complemento hemolítico CH-50;
 
-764.- Antígeno extraíble del núcteo i (ena i);
+758. Anticuerpos vs. Rubeola IgM e IgG;
 
-765.- Antígeno extraíble del núcleo ii (ena ii);
+759. Determinación de xilosa;
 
-766.- C.a. 15-3 (marcador tumoral);
+760. Anti-hepatitis A;
 
-767.- C.a. 125 (marcador tumoral);
+761. HIV;
 
-768.- P.g.a. (marcador tumoral);
+762. Anti-hepatitis C;
 
-769.- C.a. 19-9 (marcador tumoral);
+BIOQUÍMICA
 
-770.- Investigación ag asociado a hepatitis;
+763. Glucosa;
 
-771.- Investigacíón de a.c. Asociados a hepatitis;
+764. Glucosa postprandial;
 
-772.- Investigación ac hla 827;
+765. Curva de tolerancia a la glucosa 3 horas;
 
-773.- Ac a histomas músculo esquelético;
+766. Urea;
 
-774.- Anticuerpos antitiroides;
+767. Nitrógeno urea;
 
-775.- Anticuerpos antimusculo liso;
+768. Creatinina;
 
-776.- Ac anticelulares parietales;
+769. Ácido úrico sérico;
 
-777.- Cadenas ligeras de inmunoglobulinas;
+770. Bilirrubinas (directa e indirecta);
 
-778.- Complemento hemolitico ch-50;
+771. Proteínas totales;
 
-779.- Anticuerpos vs. Rubéola;
+772. Albumina;
 
-780.- Determinación de xilosa;
+773. Globulinas;
 
-781.- Anti-hepatitis a y b;
+774. Colesterol total;
 
-782.- Hiv;
+775. Electroforesis lipoproteínas alfa, beta y prebeta;
 
-783.- Anti-hepatitis c;
+776. Electroforesis de proteínas;
 
-BIOQUIMICA
+777. Dopamina
 
-784.- Glucosa;
+778. Espermatobioscopia;
 
-785.- Glucosa postpandrial;
+779. Amonio;
 
-786.- Curva de tolerancia a la glucosa 3 horas;
+780. Determinación salicilatos en sangre;
 
-787.- Urea;
+781. Reacciones seroluteicas cuantitativas;
 
-788.- N. Urea;
+782. Ácido láctico;
 
-789.- Creatinina;
+783. Determinación de niveles séricos (incluye 3 pbas.);
 
-790.- Ac. Urico sérico;
+784. Determinación de niveles séricos: carbamazepina;
 
-791.- Bilirrubinas (directa e indirecta);
+785. Determinación de niveles séricos: difenilhidantoína;
 
-792.- Proteínas totales;
+786. Determinación de niveles séricos: ácido valproico;
 
-793.- Albumina;
-
-794.- Globulinas;
-
-795.- Colesterol total;
-
-796.- Electroforesis lipoprot. Alfa. Beta y prebeta;
-
-797.- Electroforesis de proteínas;
-
-798.- Dopamina;
-
-799.- Espermatobioscopía;
-
-800.- Amonio;
-
-801.- Determinación salicilatos en sangre;
-
-802.- Reacciones seroluteicas cuantitativas;
-
-803.- Acido láctico;
-
-804.- Determinación de niveles séricos (incluye 3 pbas.);
-
-805.- Determinación de niveles séricos: carbamazepina;
-
-806.- Determinación de niveles séricos: difenilhidantoína;
-
-807.- Determinación de niveles séricos: acido valproico;
-
-808.- Ph y azucares reductores (heces);
+787. Ph y azucares reductores (heces);
 
 ENZIMAS
 
-809.- T.g.o.(transaminasa glutamico oxalacéticas);
+788. T.G.O. (transaminasa glutámico oxalacéticas);
 
-810.- T.g.p.(transaminasa glutamicopirúvicas);
+789. T. G. P. (transaminasa glutamicopirúvicas);
 
-811.- Fosfatasa alcalina;
+790. Fosfatasa alcalina;
 
-812.- Fosfatasa ácida;
+791. Fosfatasa ácida;
 
-813.- F. Ac. Fracción prostática;
+792. F. Ac. fracción prostática;
 
-814.- D. h.l. (deshidrogenasa lática);
+793. D.H.L. (deshidrogenasa latica);
 
-815.- D.t.p.;
+794. D.T.P.;
 
-816.- Amilasa sérica o urinaria;
+795. Amilasa sérica o urinaria;
 
-817.- Lipasa;
+796. Lipasa;
 
-818.- C.p.k. Creatinfosfoquinasa;
+797. C.P.K. creatinfosfoquinasa;
 
-819.- D.h.l. Isoenzimas;
+798. D.H.L. isoenzimas;
 
-820.- Colinesterasa;
+799. Colinesterasa;
 
-821.- L.a.p. (Iesinina amino peptitosa);
+800. L.A.P. (lesinina amino peptitosa);
 
-822.- Alfa 1 antitripsina;
+801. Alfa 1 antitripsina;
 
-PRUEBAS BASICAS DE FUNCIONAMIENTO HEPATICO RENAL DIGESTIVO
+PRUEBAS BÁSICAS DE FUNCIONAMIENTO HEPÁTICO RENAL DIGESTIVO
 
-823.- Depuración de bromosulfofenoftaleina;
+802. Depuración de bromosulfofenoftaleina;
 
-824.- Floculación de timol;
+803. Floculación de timol;
 
-825.- Turbidez de timol;
+804: Turbidez de timol;
 
-826.- Floculación de cefalin colesterol;
+805. Floculación de cefalin colesterol;
 
-827.- Esterificación de colesterol;
+806. Esterificación de colesterol;
 
-828.- Síntesis de urea;
+807. Síntesis de urea;
 
-829.- Hierro sérico;
+808. Hierro sérico;
 
-830.- Cap.- De fijación de hierro;
+809. Captación de fijación de hierro;
 
-831.- Síntesis de trombina;
+810. Síntesis de trombina;
 
-832.- Acidos biliares;
+811. Ácidos biliares;
 
-833.- Concentración;
+812. Concentración;
 
-834.- Dep. De creatinina endógena;
+813. Depuración de creatinina endógena;
 
-835.- Relación osmolar;
+814. Relación osmolar;
 
-836.- Cuenta minutada;
+815. Cuenta minutada;
 
-837.- Quimismo gástrico;
+816. Quimismo gástrico;
 
-838.- Prueba de hollander;
+817. Prueba de Hollander;
 
-839.- Tolerancia d-xylosa;
+818. Tolerancia d-xylosa;
 
-840.- Pepsinógeno;
+819. Pepsinógeno;
 
-841.- Gastrina;
+820. Gastrina;
 
-842.- Hemoglobina en heces;
+821. Hemoglobina en heces;
 
-843.- Carotenos;
+822. Carotenos;
 
-844.- Prueba de jigrl (prueba de tubo digestivo);
+823. Prueba de Jigrl (prueba de tubo digestivo);
 
-845.- Bilirrubinas (directa e indirecta);
+824. Bilirrubinas (directa e indirecta);
 
-ELECTROLlTOS
+ELECTROLITOS
 
-846.- Sodio;
+825. Sodio;
 
-847.- Potasio;
+826. Potasio;
 
-848.- Cloro;
+827. Cloro;
 
-849.- Co2;
+828. C02;
 
-850.- Po2;
+829. P02;
 
-851.- Pco2;
+830. PC02;
 
-852.- Ph;
+831. Ph;
 
-853.- Osmolaridad;
+832. Osmolaridad;
 
-854.- Magnesio;
+833. Magnesio;
 
-855.- Litio;
+834. Litio;
 
-856.- Fosforo;
+835. Fosforo;
 
-857.- Calcio;
+836. Calcio;
 
-858.- Cloruros;
+837. Cloruros;
 
-859.- Fosfato de calcio;
+838. Fosfato de calcio;
 
-860.- Alfa 1;
+839. Alfa 1;
 
-861.- Alfa 2;
+840. Alfa 2;
 
-862.- Beta;
+841. Beta;
 
-863.- Gamma;
+842. Gamma;
 
-864.- Relación alb/glob.;
+843. Relación alb/glob.;
 
-865.- Urobilinogeno cuantitativo;
+844. Urobilinogeno cuantitativo;
 
-LIPIDOS
+LÍPIDOS
 
-866.- Lípidos totales;
+845. Lípidos totales;
 
-867.- Triglicéridos;
+846. Triglicéridos;
 
-868.- H.d.l.colesterol (alfa.beta.y prebeta lipoproeteínas.);
+847. H.D.L.colesterol (alfa. beta. y prebetalipoproeteínas.);
 
-869.- Electroforesis de lipoproteínas;
+848. Electroforesis de lipoproteínas;
 
-870.- Grasas en heces;
+849. Grasas en heces;
 
 HORMONAS
 
-871.- T.3;
+850. T.3;
 
-872.- T.4;
+851. T.4;
 
-873.- T.4 normalizado;
+852. T.4 normalizado;
 
-874.- T.s.h.;
+853. T.S.H.;
 
-875.- T.b.g.;
+854. T.B.G.;
 
-876.- Pregnandiol;
+855. Pregnandiol;
 
-877.- Pregnantriol;
+856. Pregnantriol;
 
-878.- Testosterona;
+857. Testosterona;
 
-879.- Testosterona libre;
+858. Testosterona libre;
 
-880.- Cortisol;
+859. Cortisol;
 
-881.- Hidroxicorticoesteroides;
+860. Hidroxicorticoesteroides;
 
-882.- Cetoesteroides;
+861. Cetoesteroides;
 
-883.- Cetogenicos;
+862. Cetogenicos;
 
-884.- Catecolaminas totales;
+863. Catecolaminas totales;
 
-885.- Adrenalina;
+864. Adrenalina;
 
-886.- Noroadrenalina;
+865. Noradrenalina;
 
-887.- Acido vanilmandelico;
+866. Ácido vanilmandelico;
 
-888.- Acido homovanilico;
+867. Ácido homovanilico;
 
-889.- Estriol;
+868. Estriol;
 
-890.- Estradiol;
+869. Estradiol;
 
-891.- Progesterona;
+870. Progesterona;
 
-892.- Serotomina;
+871. Serotomina;
 
-893.- Aldosterona;
+872. Aldosterona;
 
-894.- Prueba de thom;
+873. Prueba de Thorn;
 
-895.- Insulina;
+874. Insulina;
 
-896.- Glucagon;
+875. Glucagón;
 
-897.- Hormona crecimiento;
+876. Hormona crecimiento;
 
-898.- Hormona adenocorticotrófica;
+877. Hormona adenocorticotrófica;
 
-899.- Hormona foliculo estimulante;
+878. Hormona folículo estimulante;
 
-900.- Hormona leutinizante;
+879. Hormona leutinizante;
 
-901.- Prolactina;
+880. Prolactina;
 
-902.- Antidiurética;
+881. Antidiurética;
 
-903.- Gonadotropina cualitativa;
+882. Gonadotropina cualitativa;
 
-904.- Gonadotropina cuantitativa;
+883. Gonadotropina cuantitativa;
 
-905.- Lactógeno placentario;
+884. Lactógeno placentario;
 
-906.- Paratohormona;
+885. Paratohormona;
 
-907.- Fracción "b" gonadotropina;
+886. Fracción "B" gonadotropina;
 
 EXAMEN DE ORINA
 
-908.- Proteínas;
+887. Proteínas;
 
-909.- Acido diacetico;
+888. Ácido diacetico;
 
-910.- Mioglobina;
+889. Mioglobina;
 
-911.- Acido úrico urinario;
+890. Ácido úrico urinario;
 
-912.- Hemosiderina en orina;
+891. Hemosiderina en orina;
 
-913.- Fenilcetonuria;
+892. Fenilcetonuria;
 
-914.- Sedimento urinario;
+893. Sedimento urinario;
 
-915.- Células grasas;
+894. Células grasas;
 
-916.- Investigación de hifas;
+895. Investigación de hifas;
 
-917.- Proteínas de bence jones;
+896. Proteínas de Bence Jones;
 
-918.- Acetona;
+897. Acetona;
 
-PARASITOLOGIA
+PARASITOLOGÍA
 
-919.- Prueba para inducción de parásitos;
+898. Prueba para inducción de parásitos;
 
-920.- Coproparasitoscópico en serie;
+899. Coproparasitoscópico en serie de 3 muestras;
 
-921.- Investigación enterobios;
+900. Investigación enterobios;
 
-922.- Investigación trofozoitos;
+901. Investigación trofozoitos;
 
-923.- Sangre oculta en heces;
+902. Sangre oculta en heces;
 
-924.- Exámen coprologico;
+903. Ameba en fresco;
 
-925.- Ameba en fresco;
+HEMATOLOGÍA
 
-HEMATOLOGIA
+904. Cuenta de eritrocitos;
 
-926.- Cuenta de eritrocitos;
+905. Hemoglobina;
 
-927.- Hemoglobina;
+906. Hematrocito;
 
-928.- Hematrocito;
+907. Cuenta de leucocitos;
 
-929.- Cuenta de leucocitos;
+908. Fórmula diferencial;
 
-930.- Fórmula diferencial;
+909. Observaciones especiales;
 
-931.- Observaciones especiales;
+910. Recuento de plaquetas;
 
-932.- Recuento de plaquetas;
+911. Recuento de reticulocitos;
 
-933.- Recuento de reticulocitos;
+912. Velocidad sedimentación globular;
 
-934.- Velocidad sedimentación globular;
+913. Investigación hematozoarios;
 
-935.- Investigación hematozoarios;
+914. Fragilidad globular;
 
-936.- Fragilidad globular;
+915. Serie roja;
 
-937.- Serie roja;
+916. Serie blanca;
 
-938.- Serie blanca;
+917. Prueba de bromelina directa;
 
-939.- Prueba de bromelina directa;
+918. Pruebas cruzadas;
 
-940.- Pruebas cruzadas;
+919. Pruebas cruzadas (servicio a Establecimientos Privados);
 
-941.- Pruebas cruzadas;
+920. Determinación de grupo sanguíneo y factor RH;
 
-942.- Determinación de grupo sanguíneo y factor rh;
+921. Pruebas de tendencia hemorr. (tipa.tp.tt.);
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+922. Tiempo de tromboplastina parcial act.(tipa);
 
-943.- Determinación de grupo sanguíneo abo y rh;
+923. Lisis de euglobulinas (fibrinólisis);
 
-944.- Biom.hem.parcial (hb.hto.cnhbg.cuent.de leu.);
+924. Complemento hemolítico;
 
-945.- Pruebas de tendencia hemorr.(tipa.tp.tt.);
+925. Tinción de hemosiderina en medula osea;
 
-946.- Tiempo de tromboplastina parcial act.(tipa);
+926. Búsqueda de hemosiderina serica;
 
-947.- Lisis de euglobulinas (fibrinolisis);
+927. Prueba de RumpellLeede;
 
-948.- Complemento hemolitico;
+928. Tiempo de coagulación;
 
-949.- Tinción de hemosiderina en medula ósea;
+929. Tiempo de coagulación plasma recalcificado;
 
-950.- Búsqueda de hemosiderina sérica;
+930. Tiempo de protombina;
 
-951.- Tiempo de sangrado;
+931. Tiempo parcial de tromboplastina;
 
-952.- Prueba de rumpell leede;
+932. Tiempo de trombina;
 
-953.- Tiempo de coagulación;
+933. Consumo de protombina;
 
-954.- Tiempo de coagulación plasma recalcificado;
+934. Retracción del coagulo;
 
-955.- Tiempo de protombina;
+935. Fibrinógeno;
 
-956.- Tiempo parcial de tromboplastina;
+936. HB A 1 C y caracterización de hemoglobina;
 
-957.- Tiempo de trombina;
+937. Pancreolouril;
 
-958.- Consumo de protombina;
+938. Linfocitos CD 4 y CD 8;
 
-959.- Retracción del coagulo;
+939. Plasmoferesis;
 
-960.- Fibrinogeno;
+940. Aglutina anti "B";
 
-961.- Hb a1c y caracterización de hemoglobina;
+PAQUETES DE ESTUDIO DE LABORATORIO
 
-962.- Pancreolouril;
+941. Examen general de orina;
 
-963.- Linfocitos cd 4 Y cd 8;
+942. Examen general de orina c/gonadotropina coreonica;
 
-964.- Plaquetoferesis;
+943. Biometría hemática completa;
 
-965.- Plasmoferesis;
+944. Perfil de lípidos I (triglicéridos, lípidos y colesterol total);
 
-966.- Aglutina anti "b";
+945. Perfil de lípidos II (triglicéridos, lípidos, colesterol total, colesterol de alta y baja densidad);
+
+946. Química sanguínea 6 elementos;
+
+947. Química sanguínea 12 elementos;
+
+948. Química sanguínea 23 elementos;
+
+949. Perfil hepático;
+
+950. Perfil quirúrgico;
+
+951. Perfil reumático;
+
+952. Perfil control de embarazo;
+
+953. Perfil tiroideo;
+
+954. Protocolo centinela de diarrea ( 3 est. lab);
+
+955. Cristalografía;
+
+956. Prueba inmunológica de embarazo (sangre);
+
+957. Prueba inmunológica de embarazo (orina);
 
 ANTIDOPING
 
-967.- Exámen antidoping incluye 4 pruebas;
+958. Examen antidoping incluye 4 pruebas;
 
-966.- Exámen antidoping: cocaína;
+959. Examen antidoping: cocaína;
 
-969.- Exámen antidoping: canabinoides;
+960. Examen antidoping: canabinoides;
 
-970.- Exámen antidoping: opiaceos;
+961. Examen antidoping: opiáceos;
 
-971.- Exámen antidoping: benzodiacepinas;
+962. Examen antidoping: benzodiacepinas;
 
-RADIOLOGIA
+RADIOLOGÍA
 
-972.- Teleterapia (5 a 25 sesiones);
+963. Teleterapia (5 a 25 sesiones);
 
-973.- Braquiterapia manual (hosp.72-120 hrs);
+964. Braquiterapia manual (hospitalización 72-120 hrs);
 
-974.- Braquiterapia con selectrón (2-4 hrs);
+965. Braquiterapia con selectrón (2-4 hrs);
 
-975.- Terapia superficial;
+966. Terapia superficial;
 
-976.- Quimioterapia (intravenosa o intra-arterial);
+967. Quimioterapia (intravenosa o intra-arterial);
 
-977.- Estudio clínico preventivo;
+968. Estudio clínico preventivo;
 
 MEDICINA NUCLEAR
 
-978.- Todos los gamagramas;
+969. Radioyodo (Aplicación de Yodo);
 
-979.- Perfil tiroideo;
+970. Gammagrama tiroideo;
 
-980.- Perfil ginecológico;
+971. Perfil ginecológico;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+972. Perfil paratiroideo;
 
-981.- Perfil paratiroideo;
+973. Perfil suprarrenal;
 
-982.- Perfil suprarenal;
+974. Perfil oncológico;
 
-983.- Perfil oncológico;
+975. Perfil hipertensión renovascular;
 
-984.- Perfil hipertension renovascular;
+976. Perfil hipofisiario;
 
-985.- Perfil hipofisiario;
+977. Perfil perinatológico;
 
-986.- Perfil perinatologico;
+978. Bazo;
 
-987.- Bazo;
+979. Cerebro;
 
-988.- Cerebro;
+980. Corazón;
 
-989.- Corazón;
+981. Hígado;
 
-990.- Hígado;
+982. Gammagrama Mamario;
 
-991.- Mama;
+983. Óseo;
 
-992.- Oseo;
+984. Páncreas;
 
-993.- Páncreas;
+985. Pulmón;
 
-994.- Pulmón;
+986. Útero;
 
-995.- Utero;
+987. Venoso;
 
-996.- Venoso;
+988. Rastreo;
 
-997.- Rastreo;
+989. Tratamiento;
 
-998.- Tratamiento;
+990. Mielograma;
 
-999.- Mielograma;
+991. Esplenograma;
 
-1000.- Esplenograma;
+992. Adenograma;
 
-1001.- Adenograma;
+993. Aspirado e interpretación de médula ósea;
 
-1002.- Aspirado e interpretación de médula ósea;
+994. Esofagografía;
 
-1003.- Esofagografía;
+995. Neumoperitoneo;
 
-1004.- Neumoperitoneo;
+996. Esofagograma 22 proyecciones;
 
-RAYOS"X"
+RAYOS X
 
-1005.- Torax p.a;
+997. Torax p.a.;
 
-1006.- Costillas o esternon (torax óseo);
+998. Costillas o esternón (toraxoseo);
 
-1007.- Columna vertebral cervical;
+999. Columna vertebral cervical;
 
-1008.- Columna vertebral dorsal;
+1000. Columna vertebral dorsal;
 
-1009.- Columna vertebral lumbosacra;
+1001. Columna vertebral lumbosacra;
 
-1010.- Columna vertebral estudio dinámico;
+1002. Columna vertebral estudio dinámico;
 
-1011.- Pelvis a.p;
+1003. Pelvis a.p.;
 
-1012.- Cráneo;
+1004. Cráneo;
 
-1013.- Macizo facial;
+1005. Macizo facial;
 
-1014.- Huesos propios de la nariz perfilograma;
+1006. Huesos propios de la nariz perfilograma;
 
-1015.- Orbitas por placa;
+1007. Orbitas por placa;
 
-1016.- Senos paranasales;
+1008. Senos paranasales;
 
-1017.- Senos paranasales con tomografía;
+1009. Senos paranasales con tomografía;
 
-1018.- Articulaciones temporomandibulares;
+1010. Articulaciones temporomandibulares;
 
-1019.- Silla turca;
+1011. Silla turca;
 
-1020.- Silla turca con tomografía;
+1012. Silla turca con tomografía;
 
-1021.- Oídos schuller;
+1013. Oídos Schuller;
 
-1022.- Oídos schuller con tomografía;
+1014. Oídos Schuller con tomografía;
 
-1023.- Mastoides convencional;
+1015. Mastoides convencional;
 
-1024.- Conductos auditivos;
+1016. Conductos auditivos;
 
-1025.- Mandíbula dos posiciones;
+1017. Mandíbula dos posiciones;
 
-1026.- Lateral de cuello;
+1018. Lateral de cuello;
 
-1027.- Laringe;
+1019. Laringe;
 
-1028.- Laringe con tomografía a.p;
+1020. Laringe con tomografía a.p.;
 
-1029.- Periatical;
+1021. Cuello a.p. y lateral partes blandas;
 
-1030.- Oclusal;
+1022. Mano;
 
-1031.- Cuello a.p. y lateral partes blandas;
+1023. Manos comparativas;
 
-1032.- Mano;
+1024. Muñeca, escafoides y carpo;
 
-1033.- Manos comparativas;
+1025. Antebrazo adulto;
 
-1034.- Muñeca. Escafoides y carpo;
+1026. Codo;
 
-1035.- Antebrazo adulto;
+1027. Codo comparativo;
 
-1036.- Codo;
+1028. Húmero;
 
-1037.- Codo comparativo;
+1029. Húmeros comparativos;
 
-1038.- Humero;
+1030. Hombro;
 
-1039.- Humeros comparativos;
+1031. Hombros comparativos;
 
-1040.- Hombro;
+1032. Clavícula;
 
-1041.- Hombros comparativos;
+1033. Clavícula comparada;
 
-1042.- Clavícula;
+1034. Omóplato;
 
-1043.- Clavícula comparada;
+1035. Omóplato comparativo;
 
-1044.- Omóplato;
+1036. Pie;
 
-1045.- Omóplato comparativo;
+1037. Tobillo;
 
-1046.- Pie;
+1038. Tobillo comparativo;
 
-1047.- Tobillo;
+1039. Pierna;
 
-1048.- Tobillo comparativo;
+1040. Rodilla;
 
-1049.- Pierna;
+1041. Rótula;
 
-1050.- Rodilla;
+1042. Rodillas comparativas;
 
-1051.- Rótula;
+1043. Fémur a.p.;
 
-1052.- Rodillas comparativas;
+1044. Fémur a.p. /lat.;
 
-1053.- Fémur a.p.;
+1045. Fémur comparativo;
 
-1054.- Fémur a.- p. / lat.;
+1046. Medición de miembro pélvico;
 
-1055.- Fémur comparativo;
+1047. Edad ósea;
 
-1056.- Medición de miembro pélvico;
+1048. Abdomen simple;
 
-1057.- Edad ósea;
-
-1058.- Abdomen simple;
-
-1059.- Céfalo pelvimetría;
+1049. Céfalo pelvimetría;
 
 ESTUDIOS ESPECIALES
 
-1060.- Histerosalpingografía;
+1050. Histerosalpingografia;
 
-1061.- Galactografía;
+1051. Galactografía;
 
-1062.- Mamografía;
+1052. Mamografía;
 
-1063.- Urografía excretora adulto;
+1053. Urografía excretora adulto;
 
-1064.- Urografía excretora infantil;
+1054. Urografía excretora infantil;
 
-1065.- Urografía excretora cronometrada Maxwell;
+1055. Urografía excretora cronometrada Maxwell;
 
-1066.- Urografía excretora por perfusión arata;
+1056. Urografía excretora por perfusión arata;
 
-1067.- Uretrosistografía;
+1057. Uretrosistografía;
 
-1068.- Cistografía retrograda;
+1058. Cistografía retrograda;
 
-1069.- Cefalopelvimetría;
+1059. Sialografía;
 
-1070.- Histograma;
+1060. Broncografía;
 
-1071.- Colon por enema;
+1061. Fistulografía;
 
-1072.- Columna cervical;
+1062. Laringografía;
 
-1073.- Dinámica de columna dorsal;
+1063. Mielografía lumbar, dorsal, cervical;
 
-1074.- Dinámica de columna lumbar;
+1064. Flebografía bilateral;
 
-1075.- Dinámica de columna sacra;
+1065. Artrografía;
 
-1076.- Escanometría;
+1066. Arteriografía periférica o aortografía;
 
-1077.- Serie de cráneo;
+1067. Arteriografía visceral, pulmonar o cerebral;
 
-1078.- Serie cardiaca;
+1068. Extracción de cálculos, dilatación, angiop.;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1069. Colecistografía (oral);
 
-1079.- Sialografía;
+1070. Colangiografía por perfusión;
 
-1080.- Broncografía;
+1071. Colangio por sonda;
 
-1081.- Fistulografía;
+1072. Colon por enema;
 
-1082.- Laringografía;
+1073. Serie esófago gastroduodenal;
 
-1083.- Mielografía lumbar dorsal. Cervical;
+1074. Tránsito intestinal;
 
-1084.- Flebografía bilateral;
+1075. Tránsito intestinal con serie esofágica gastroduodenal;
 
-1085.- Artrografía;
+1076. Colangiografía percutánea;
 
-1086.- Arteriografía periférica o aortografía;
+1077. Serie cardiaca;
 
-1087.- Arteriografía visceral. Pulmonar o cerebral;
+1078. Angiografía selectiva abdominal;
 
-1088.- Extracción de cálculos. Dilatación. Angiop;
+1079. Angiografía cerebral;
 
-1089.- Colecistografia (Oral);
+1080. Pielografía ascendente;
 
-1090.- Colangiografia por perfusión;
+1081. Dacrosistografía;
 
-1091.- Colangio por sonda;
+1082. Bulbografía;
 
-1092.- Colon por enema;
+1083. Pielografía retrograda;
 
-1093.- Serie esófago gastroduodenal;
+1084. Cistoscopia;
 
-1094.- Tránsito intestinal;
+1085. Estudios de Holter;
 
-1095.- Tránsito intestinal con serie esof.gastroduod;
+1086. Densitometría 2 Regiones (Cadera y Columna Lumbar);
 
-1096.- Colangiografía percutánea;
+1087. Densitometría 3 Regiones (Muñeca, Cadera y Columna Lumbar);
 
-1097.- Serie cardiaca;
+TOMOGRAFÍAS LINEALES
 
-1098.- Angiografía selectiva abdominal;
+1088. Tomografía de columna vertebral cervical;
 
-1099.- Angiografía cerebral;
+1089. Tomografía de columna vertebral dorsal;
 
-1100.- Pielografía ascendente;
+1090. Tomografía de columna vertebral lumbar;
 
-1101.- Dacrosistografía;
+1091. Tomografía pulmonar;
 
-1102.- Bulbografía;
+1092. Tomografía lineal de columna con medio de contraste;
 
-1103.- Pielografía retrograda;
+1093. Nefrotomografía simple - columna;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1094. Tomografía laringe;
 
-1104.- Cistoscopía;
+TOMOGRAFÍAS COMPUTADAS
 
-1105.- Estudios de holter;
+1095. Tomografías computadas simple de cualquier región
 
-TOMOGRAFIAS LINEALES
-
-1106.- Tomografía de columna vertebral cervical;
-
-1107.- Tomografía de columna vertebral dorsal;
-
-1108.- Tomografía de columna vertebral lumbar;
-
-1109.- Tomografía pulmonar;
-
-1110.- Tomografía lineal de columna con medio de contraste;
-
-1111.- Nefrotomografía simple - columna;
-
-1112.- Pélvis simple;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1113.- Senos paranasales;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1113 A. Senos paranasales contrastado;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1113 B. Senos paranasales 3 proyecciones;
-
-1114.- Tórax simple;
-
-1115.- Tórax contrastado;
-
-1116.- Tomografía laringe;
-
-TOMOGRAFIAS COMPUTADAS
-
-1117.- Tomografías computadas simpl.de cualq. región;
-
-1118.- Tomografías computadas con medio contraste;
+1096. Tomografías computadas con medio contraste
 
 ULTRASONIDO
 
-1119.- Ultrasonido una región;
+1097. Ultrasonido una región;
 
-1120.- Ultrasonido dos regiones;
+1098. Ultrasonido dos regiones;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1099. Sonografía;
 
-1121.- Sonografía;
+1100. Foliculograma;
 
-1122.- Foliculograma;
+RESONANCIA MAGNÉTICA
 
-1123.- Abdomen completo;
+1101. Estudio normal de una región;
 
-1124.- Abdomen inferior (hueco pélvico);
+1102. Estudio de una región con medio de contraste;
 
-1125.- Abdomen superior (riñón, hígado, baso y páncreas;
+1103. Estudio normal de dos regiones;
 
-1126.- Ecocardiograma (corazón);
+1104. Estudio dos regiones con medio de contraste;
 
-1127.- Musculo esquelético (articulaciones);
+1105. Estudio normal de tres regiones;
 
-1128.- Obstétrico;
+1106. Estudio tres regiones con medio de contraste;
 
-1129.- Transfontanelar (cabeza);
+PATOLOGÍA
 
-RESONANCIA MAGNETICA
+1107. Apéndice cecal, vesícula biliar;
 
-1130.- Estudio normal de una región;
+1108. Tumores pequeños de mama;
 
-1131.- Estudio de una región con medio de contraste;
+1109. Tumores benignos de mama (pieza mayor);
 
-1132.- Estudio normal de dos regiones;
+1110. Resecciones intestinales sin tumor;
 
-1133.- Estudio dos regiones con medio de contraste;
+1111. Resecciones intestinales con tumor;
 
-1134.- Estudio normal de tres regiones;
+1112. Tumores de glándulas salivales sin disección;
 
-1135.- Estudio tres regiones con medio de contraste;
+1113. Tumores de glándulas salivales con disección;
 
-PATOLOGIA
+1114. Estómago sin tumor;
 
-1136.- Apéndice cecal, vesícula biliar;
+1115. Estómago con tumor;
 
-1137.- Tumores pequeños de mama;
+1116. Segmentos o lóbulos pulmonares;
 
-1138.- Tumores benignos de mama (pieza mayor);
+1117. Próstata;
 
-1139.- Resecciones intestinales sin tumor;
+1118. Riñón sin tumor;
 
-1140.- Resecciones intestinales con tumor;
+1119. Riñón con tumor;
 
-1141.- Tumores de glándulas salivales sin disección;
+1120. Testículos sin tumor;
 
-1142.- Tumores de glándulas salivales con disección;
+1121. Testículos con tumor;
 
-1143.- Estómago sin tumor;
+1122. Extremidades con gangrena o infección;
 
-1144.- Estómago con tumor;
+1123. Tumores retroperitoneales;
 
-1145.- Segmentos o lóbulos pulmonares;
+1124. Amígdalas;
 
-1146.- Próstata;
+1125. Ganglio linfático;
 
-1147.- Riñón sin tumor;
+1126. Médula ósea;
 
-1148.- Riñón con tumor;
+1127. Bazo;
 
-1149.- Testículos sin tumor;
+1128. Laringe sin disección de cuello;
 
-1150.- Testículos con tumor;
+1129. Laringe con disección de cuello;
 
-1151.- Extremidades con gangrena o infección;
+1130. Tiroides sin disección de cuello;
 
-1152.- Tumores retroperitoneales;
+1131. Tiroides con disección de cuello;
 
-1153.- Amigdalas;
+1132. Inmunofluorescencia;
 
-1154.- Ganglio linfático;
+1133. Inmuno-peroxidasa;
 
-1155.- Médula ósea;
+1134. Anticuerpos monoclonales;
 
-1156.- Bazo;
+1135. Microscopia electrónica;
 
-1157.- Laringe sin disección de cuello;
+1136. Revisión de laminillas;
 
-1158.- Laringe con disección de cuello;
+1137. Laminillas para otra Institución;
 
-1159.- Tiroides sin disección de cuello;
+1138. Biopsia por saca-bocado de piel (Punch);
 
-1160.- Tiroides con disección de cuello;
+1139. Biopsia incisional de piel;
 
-1161.- Inmunofluorescencia;
+1140. Biopsia para rasurado de piel;
 
-1162.- Inmuno-peroxidasa;
+1141. Biopsia por corretaje de piel;
 
-1163.- Anticuerpos monoclonales;
+1142. Pieza quirúrgica de piel;
 
-1164.- Microscopia electrónica;
+1143. Cariotipo simple;
 
-1165.- Revisión de laminillas;
+1144. Cariotipo con bandas;
 
-1166.- Laminillas para otra institución;
+1145. Sexocromatina;
 
-1167.- Biopsia por saca-bocado de piel (punch);
+1146. Electroforesis;
 
-1168.- Biopsia insicional de piel;
+1147. Tamiz metabólico;
 
-1169.- Biopsia para rasurado de piel;
+1148. Papanicolaucérvico vaginal;
 
-1170.- Biopsia por coretaje de piel;
+1149. Serie hormonal;
 
-1171.- Pieza quirúrgica de piel;
+1150. Expectoración en serie;
 
-1172.- Cariotipo simple;
+1151. Cepillado y lavado;
 
-1173.- Cariotipo con bandas;
+1152. Ascitis liquido pleural y liquido cefaloraq.;
 
-1174.- Sexocromatina;
+1153. Orina en serie;
 
-1175.- Electroforesis;
+1154. Pulmón glándula mamaria. Tiroides gangl. linf.;
 
-1176.- Tamiz metabólico;
+1155. Próstata tejido blando huesos;
 
-1177.- Papanicolau cervico vaginal;
+1156. Citología gástrica;
 
-1178.- Serie hormonal;
+1157. Biopsias Peq. Cérvix endom. estom.esof.intest.;
 
-1179.- Expectoración en serie;
+1158. Ovarios sin tumor;
 
-1180.- Cepillado y lavado;
+1159. Útero sin anexos;
 
-1181.- Ascitis liquido pleural y liquido cefaloraq;
+1160. Ovarios con tumor;
 
-1182.- Orina en serie;
+1161. Útero con anexos;
 
-1183.- Pulmón glándula mamaria.tiroides gangl.linf;
+1162. Exenteración anterior y posterior;
 
-1184.- Próstata tejido blando huesos;
+1163. Exenteración total;
 
-1185.- Citologia gástrica;
+1164. Fetos hasta 4 1/2 meses;
 
-1186.- Biopsias peq.cervix endom.estom.esof.intest;
+1165. Placenta;
 
-1187.- Ovarios sin tumor;
+1166. Biopsia de hígado y riñón;
 
-1188.- Utero sin anexos;
-
-1189.- Ovarios con tumor;
-
-1190.- Utero con anexos;
-
-1191.- Exenteración anterior y posterior;
-
-1192.- Exenteración total;
-
-1193.- Fetos hasta 4 1/2 meses;
-
-1194.- Placenta;
-
-1195.- Biopsia de hígado y riñón;
-
-1196.- Toma y estudio de médula ósea;
+1167. Toma y estudio de médula ósea;
 
 ALERGIA
 
-1197.- Citología de moco nasal;
+1168. Citología de moco nasal;
 
-1198.- Proteosa autovacuna;
+1169. Proteosa autovacuna;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1170. Preciptiva;
 
-1199.- Preciptiva;
+1171. Inmunoterapia (vacunas especificas);
 
-1200.- Inmunoterapia (vacunas especificas);
+1172. Pruebas cutáneas intradérmicas 1 serie;
 
-1201.- Pruebas cutáneas intradermicas 1 serie;
+1173. Pruebas cutáneas intradérmicas 2 series;
 
-1202.- Pruebas cutáneas intradermicas 2 series;
+1174. Pruebas cutáneas intradérmicas 3 series;
 
-1203.- Pruebas cutáneas intradermicas 3 series;
+1175. Pruebas cutáneas por transferencias 1 serie;
 
-1204.- Pruebas cutáneas por transferencias 1 serie;
+1176. Pruebas cutáneas por transferencias 2 series;
 
-1205.- Pruebas cutáneas por transferencias 2 series;
+1177. Pruebas cutáneas por transferencias 3 series;
 
-1206.- Pruebas cutáneas por transferencias 3 series;
+INFECTOLOGÍA
 
-INFECTOLOGIA
+1178. Citología de L.C.R.;
 
-1207.- Citología de I.c.r;
+1179. Cultivo en orina y bacterioscópico BAAR (T B);
 
-1208.- Cultivo en orina y bacterioscópico baar (t b);
+1180. Tinción de Macchiavello;
 
-1209.- Tinción de machiavelo;
+1181. Serología de amiba por hemoglutinaciónindir;
 
-1210.- Serología de amiba por hemoglutinación indir;
+TRAT. TERAPÉUTICO "CLÍNICA DEL DOLOR"
 
-TRATAMIENTO TERAPEUTICO "CLINICA DEL DOLOR"
+1182. Bloqueo rama trigeminal;
 
-1211.- Bloqueo rama trigeminal;
+1183. Bloqueo ganglio gaser;
 
-1212.- Bloqueo ganglio gaser;
+1184. Bloqueo de ramas trigeminales terminales;
 
-1213.- Bloqueo de ramas trigeminales terminales;
+1185. Bloqueo de nervio lingual;
 
-1214.- Bloqueo de nervio lingual;
+1186. Bloqueo de nervio gloso faríngeo;
 
-1215.- Bloqueo de nervio gloso faríngeo;
+1187. Bloque de ganglio esfenopalatino;
 
-1216.- Bloque de ganglio esfenopalatino;
+1188. Bloqueo de nervio occipital;
 
-1217.- Bloqueo de nervio occipital;
+1189. Bloqueo de raíz cervical profunda;
 
-1218.- Bloqueo de raíz cervical profunda;
+1190. Bloqueo de plexo cervical superficial;
 
-1219.- Bloqueo de plexo cervical superficial;
+1191. Bloqueo de nervio faríngeo;
 
-1220.- Bloqueo de nervio faríngeo;
+1192. Bloqueo de nervio frénico;
 
-1221.- Bloqueo de nervio frénico;
+1193. Bloqueo de nervio supraescapular;
 
-1222.- Bloqueo de nervio supraescapular;
+1194. Bloqueo simpático servicodorsal c/control. Rx;
 
-1223.- Bloqueo simpatico servicodorsal c/control.rx;
+1195. Bloqueo simpático servicodorsal s/control. Rx;
 
-1224.- Bloqueo simpatico servicodorsal s/control.rx;
+1196. Bloqueo peridual anti-inflamat. sin medicamento;
 
-1225.- Bloqueo peridual anti-inflamat.sin medicament;
+1197. Bloqueo peridual lítico;
 
-1226.- Bloqueo peridual lítico;
+1198. Bloqueo subaracnoideo lítico;
 
-1227.- Bloqueo subaracnoideo litico;
+1199. Bloqueo paravertebral;
 
-1228.- Bloqueo paravertebral;
+1200. Bloque de nervios intercostales;
 
-1229.- Bloque de nervios intercostales;
+1201. Bloqueo de nervio abdominogenital;
 
-1230.- Bloqueo de nervio abdominogenital;
+1202. Bloqueo de nervio crural;
 
-1231.- Bloqueo de nervio crural;
+1203. Bloqueo de nervio fermorocutaneo;
 
-1232.- Bloqueo de nervio fermorocutaneo;
+1204. Bloqueo de nervio obturador;
 
-1233.- Bloqueo de nervio obturador;
+1205. Bloqueo de nervio ciático;
 
-1234.- Bloqueo de nervio ciático;
+1206. Bloqueo de articulación sacro-iliaca;
 
-1235.- Bloqueo de articulación sacro-iliaca;
+1207. Bloqueo de articulación coxo-femoral;
 
-1236.- Bloqueo de articulación coxo-femoral;
+1208. Bloqueo de nervio safeno;
 
-1237.- Bloqueo de nervio safeno;
+1209. Bloqueo trans-sacro;
 
-1238.- Bloqueo trans-sacro;
+1210. Bloqueo de ramas terminales de miembros pelv.;
 
-1239.- Bloqueo de ramas terminales de miembros pelv;
+1211. Bloqueo de articulación de rodillas;
 
-1240.- Bloqueo de articulación de rodillas;
+1212. Bloque caudal;
 
-1241.- Bloque caudal;
+1213. Bloqueo de Bursa anterior de hombro;
 
-1242.- Bloqueo de bursa anterior de hombro;
+1214. Bloqueo de plexo bronquial;
 
-1243.- Bloqueo de plexo bronquial;
+1215. Bloqueos periféricos de miembros superiores;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1216. Bloqueo de ganglio simpático lumb.contr.r.x;
 
-1244.- Bloqueo periférico de miembros superiores;
+1217. Bloqueo de ganglio esplacico celiaco c/r.x;
 
-1245.- Bloqueo de ganglio simpatico lumb.contr.r.x;
+1218. Bloqueo de cápsula de hombro;
 
-1246.- Bloqueo de ganglio esplacico celiaco c/r.x;
+1219. Bloqueo perivascular de arteria temporal;
 
-1247.- Bloqueo de cápsula de hombro;
-
-1248.- Bloqueo perivascular de arteria temporal;
-
-1249.- Estimulación eléctrica cutánea;
+1220. Estimulación eléctrica cutánea;
 
 TERAPIA INTENSIVA
 
-1250.- Día estancia en terapia intensiva (urgencias);
+1221. Día estancia en terapia intensiva (urgencias);
 
-1251.- Electrocardiograma;
+1222. Electrocardiograma;
 
-1252.- Alimentación artificial por día;
+1223. Alimentación artificial por día;
 
 AUXILIARES DE TRATAMIENTO
 
-1253.- Lavado gástrico;
+1224. Lavado gástrico;
 
-1254.- Sondeo vesical;
+1225. Sondeo vesical;
 
-1255.- Venoclisis;
+1226. Venoclisis;
 
-1256.- Aplicación de inyecciones intravenosas;
+1227. Aplicación de inyecciones intravenosas;
 
-1257.- Aplicación de inyecciones intramusculares;
+1228. Aplicación de inyecciones intramusculares;
 
-1258.- Vendajes compresivos;
+1229. Vendajes compresivos;
 
-1259.- Retiro de yeso;
+1230. Retiro de yeso;
 
-1260.- Sangría;
+1231. Sangría;
 
-1261.- Puncion vesical suprapubica;
+1232. Punción vesical suprapubica;
 
-1262.- Radioterapia por sesión;
+1233. Radioterapia por sesión;
 
-1263.- Curaciones;
+1234. Curaciones;
 
-1264.- Inhaloterapia por sesión;
+1235. Inhaloterapia por sesión;
 
-1265.- Lavado de oídos;
+1236. Lavado de oídos;
+
+1237. Retiro de puntos;
+
+1238. Aseos quirúrgicos en quirófano;
+
+1239. Suturas mayores urgencias;
+
+1240. Suturas menores urgencias;
 
 SERVICIOS DIVERSOS
 
-1266.- Vacuna antirrábica humana;
+1241. Vacuna antirrábica humana;
 
-1267.- Vacuna antirrábica canina;
+1242. Vacuna antirrábica canina;
 
-1268.- Día jaula para perro;
+1243. Día jaula para perro;
 
-1269.- Inscripción club de madres;
+1244. Inscripción club de madres;
 
-1270.- Mensualidad club de madres;
+1245. Mensualidad club de madres;
 
-1271.- Inscripción guarderías;
+1246. Inscripción guarderías;
 
-1272.- Mensualidad guarderías;
+1247. Mensualidad guarderías;
 
-1273.- Tarjeta de salud;
+1248. Tarjeta de salud;
 
-1274.- Utilización de mortuaorio;
+1249. Utilización de mortuorio;
 
-1275.- Servicio de reposición de carnet;
+1250. Servicio de reposición de carnet;
 
-1276.- Certificado prenupcial (incluye v.d.r.l. Y rx tórax);
+1251. Certificado prenupcial ( incluye v.d.r.l. y rx tórax);
 
-1277.- Certificado médico (únicamente expedición);
+1252. Certificado médico (únicamente expedición );
 
-1278.- Certificado internacional de vacunación;
+1253. Certificado internacional de vacunación;
 
-1279.- Constancia de nacimiento;
+1254. Constancia de nacimiento;
 
-1280.- Desinsectización m2;
+1255. Desratización con anticoagulante 500 gr.;
 
-1281.- Desinfección m2;
+1256. Expedición de credencial;
 
-1282.- Desratización con anticoagulante 500 gr;
+1257. Servicio de ambulancia s/médico por kilometro;
 
-1283.- Servicio de fumigación por exhumación de cad;
+1258. Servicio de ambulancia c/médico por kilometro;
 
-1284.- Expedición de credencial;
+1259. Servicio de ambulancia c/terapia intensiva por kilometro;
 
-1285.- Serv. De ambul.p/trasl. De enfermos y cadáveres p/km;
+1260. Fotocopia;
 
-1286.- Serv. De ambulancia s/médico d.f. Cualquier zona;
+1261. Certificado de lesiones;
 
-1287.- Serv. Ambulancia s/med. Nezahualcóyotl;
+LABORATORIO ESTATAL DE SALUD PÚBLICA
 
-1288.- Serv. De ambulancia s/med. Tlalnepantla;
-
-1289.- Serv. De ambulancia s/med. Ecatepec;
-
-1290.- Serv. De ambulancia s/med. Cuautitlán;
-
-1291.- Serv. De ambulancia s/med. Naucalpan;
-
-1292.- Serv. De ambulancia s/médico a entidades federativas;
-
-1293.- Cualquier zona p/km;
-
-1294.- Fotocopia;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-LABORATORIO ESTATAL DE SALUD PUBLICA
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-TABULADOR A ESTABLECIMIENTOS PRIVADOS; Y OTRAS INSTITUCIONES DEL SECTOR SALUD
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-ACTIVIDADES DE DIAGNOSTICO Y REFERENCIA EN:
-
-VIGILANCIA EPIDEMIOLOGICA
+1.- ACTIVIDADES DE DIAGNÓSTICO Y REFERENCIA EN VIGILANCIA EPIDEMIOLÓGICA
 
 A.- AGENTES VIRALES
 
-1.- INFECCIONES RESPIRATORIAS VIRALES
+1. INFECCIONES RESPIRATORIAS VIRALES
 
 VIRUS DE LA INFLUENZA/PARA INFLUENZA
 
-(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2011)
+1262. Identificación de virus para influenza: panel (para influenza 1, para influenza 2, para influenza 3) en muestra de exudado faringeo o nasofaríngeo;
 
-1295.- Determinación de anticuerpos séricos;
+1263. Identificación de adenovirus en muestra de exudado faringeo o nasofaríngeo;
+
+1264. Identificación de virus sincial respiratorio de muestra de exudado faríngeo o nasofaríngeo;
+
+1265. Panel de virus respiratorio (parainfluenza 1, 2, 3; adenovirus y virus sincial respiratorio);
 
 VIRUS HERPES SIMPLE
 
-1296.- Determinación de anticuerpos igm en muestra;
+1266. Determinación de anticuerpos IgM en muestra única de suero;
 
-1297.- Unica de suero;
-
-2.- INFECCIONES GASTROINTESTINALES VIRALES
+2. INFECCIONES GASTROINTESTINALES VIRALES
 
 ROTAVIRUS
 
-1298.- Identificación de rna viral (rotaforesis);
+1267. Identificación de RNA viral (rotaforesis);
 
-3.- INFECCIONES EXANTEMATICAS VIRALES
+3. INFECCIONES EXANTEMÁTICAS VIRALES
 
-VIRUS DE SARAMPION
+VIRUS DE SARAMPIÓN
 
-1299.- Determinación en suero de anticuerpos igm (elisa);
+1268. Determinación en suero de anticuerpos IgM (ELISA);
 
 VIRUS DEL DENGUE
 
-1300.- Determinación de anticuerpos igm (elisa);
+1269. Determinación de anticuerpos IgM (ELISA) en muestra única de suero;
 
-1301.- Muestra única de suero;
+1270. Determinación de anticuerpos IgG (ELISA) en muestra única de suero;
+
+1271. Determinación de anticuerpos NS1 (ELISA) en muestra única de suero;
 
 VIRUS DE LA RUBEOLA
 
-1302.- Determinación de anticuerpos igm (elisa);
+1272. Determinación de anticuerpos IgM (ELISA) en muestra única de suero;
 
-1303.- Muestra única de suero;
+1273. Determinación de anticuerpos IgG (ELISA) en muestra única de suero;
 
-1304.- Determinación de anticuerpos igg (elisa) en pares;
-
-1305.- De sueros;
-
-4.- VIRUS DE TRANSMISION SEXUAL
+4. VIRUS DE TRANSMISIÓN SEXUAL
 
 VIRUS DE INMUNODEFICIENCIA HUMANA
 
-1306.- Determinación de anticuerpos anti vih-1/2 (elisa);
+1274. Determinación de anticuerpos anti VIH-1/2 (por cada prueba de ELISA);
 
-1307.- Prueba serológica confirmatoria (western blot);
+1275. Prueba serológica confirmatoria (Western Blot);
 
-5.- HEPATITIS VIRALES
+5. HEPATITIS VIRALES
 
 VIRUS A DE LA HEPATITIS (HAV)
 
-1308.- Determinación en suero de anticuerpos igm anti hav;
-
-(elisa);
+1276. Determinación en suero de anticuerpos IgM anti HAV (ELISA);
 
 VIRUS B DE LA HEPATITIS (HBV)
 
-1309.- Perfil serológico de la hbv (hbsag, igm anti-hbc);
+1277. Perfil serológico de la HBV (HBSAG, IgM anti-HBC);
 
 VIRUS C DE LA HEPATITIS (HCV)
 
-1310.- Determinación en suero de anticuerpos totales;
+1278. Determinación en suero de anticuerpos totales anti-HCV (ELISA);
 
-1311.- Anti-hcv (elisa);
+6. ZOONOSIS VIRALES VIRUS DE LA RABIA
 
-6.- ZOONOSIS VIRALES VIRUS DE LA RABIA
+1279. Identificación del virus en material de necropsia o biopsia (IFD);
 
-1312.- Identificación del virus en material de necropsia;
+1280. Determinación en suero de anticuerpos (totales) anti-virus rábico (ELISA):
 
-1313.- Biopsia (ifd);
+7. OTROS VIRUS CITOMEGALOVIRUS
 
-1314.- Determinación en suero de anticuerpos (totales);
+1281. Determinación de anticuerpos IgM en muestras únicas de suero (ELISA);
 
-1315.- Anti-virus rábico (elisa);
+1282. Determinación de anticuerpos IgG en pares de Sueros (ELISA);
 
-7.- OTROS VIRUS
-
-CITOMEGALOVlRUS
-
-1316.- Determinación de anticuerpos igm en muestras únicas;
-
-1317.- De suero (elisa);
-
-1318.- Determinación de anticuerpos igg en pares;
-
-1319.- Sueros (elisa);
-
-B.- AGENTES BACTERIANOS
+B. AGENTES BACTERIANOS
 
 1.- INFECCIONES GASTROINTESTINALES BACTERIANAS
 
-1320.- Coprocultivo e identificación de agentes bacterianos;
+1283. Coprocultivo e identificación de agentes bacterianos;
 
 SALMONELLA TYPHI
 
-1321.- Aislamiento a partir de muestras fecales;
+1284. Aislamiento a partir de muestras fecales;
 
 SALMONELLA SPP
 
-1322.- Aislamiento a partir de muestras fecales;
+1285. Aislamiento a partir de muestras fecales;
 
 SHIGELLA SPP
 
-1323.- Aislamiento a partir de muestras fecales;
+1286. Aislamiento a partir de muestras fecales;
 
 VIBRIO CHOLERAE
 
-1324.- Aislamiento a partir de muestras fecales;
+1287. Aislamiento a partir de muestras fecales;
 
 ESCHERICHIA COLl
 
-1325.- Aislamiento a partir de muestras fecales;
+1288. Aislamiento a partir de muestras fecales;
 
-2.- INFECCIONES BACTERIANAS DE TRANSMISION SEXUAL
+2. INFECCIONES BACTERIANAS DE TRANSMISIÓN SEXUAL
 
 TREPONEMA PALLIDUM
 
-1326.- Determinación de anticuerpos anti t.pallidum (fta-abs);
+1289. Determinación de anticuerpos anti Treponema pallidum (FTA-ABS);
 
-1327.- Prueba vdrl (anticuerpos anti cardiolipina-Iecitina);
+1290. Prueba USR (anticuerpos anti cardiolipina-lecitina);
 
-3.- ZOONOSIS BACTERIANAS
+3. ZOONOSIS BACTERIANAS BRUCELLA SPP
 
-BRUCELLA SPP
-
-1328.- Perfil serológico de la brucelosis;
+1291. Perfil serológico de la brucelosis (Rosa de Bengala, SAT-2ME);
 
 LEPTOSPIRA SPP
 
-1329.- Identificación de la bacteria en orina (microscopía);
+1292. Identificación de la bacteria en orina (microscopía de campo obscuro);
 
-1330.- Campo obscuro);
+1293. Determinación de anticuerpos séricos en muestras únicas (microaglutinación);
 
-1331.- Determinación de anticuerpos séricos en muestras;
+4. MICROBACTERIAS (MYCOBACTERIUM TUBERCULOSIS)
 
-1332.- Unicas (microaglutinación);
+1294. Identificación de BAAR en expectoración (Ziehl-Neelsen);
 
-4.- MICOBACTERIAS
+1295. Aislamiento a partir de esputo, lavado gástrico o secreciones;
 
-1333.- Mycobacterium tuberculosis;
+1296. Aislamiento a partir de orina;
 
-1334.- Identificación de baar en expectoración;
-
-1335.- (ziehl-neelsen);
-
-1336.- Aislamiento a partir de esputo, lavado gástrico;
-
-1337.- Secreciones;
-
-1338.- Aislamiento a partir de orina;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-VIRUS HERPES SIMPLE I
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-C.- PROTOZOARIOS
+C. PROTOZOARIOS
 
 1.- PROTOZOARIOS INTESTINALES
 
-1339.- Identificación morfológica en heces;
+1297. Identificación morfológica en heces (coproparasitoscópico);
 
-(coproparasitoscópico );
-
-2.- PROTOZOARIOS SISTEMICOS
+2. PROTOZOARIOS SISTÉMICOS
 
 TOXOPLASMA GONDII
 
-1340.- Determinación en suero de anticuerpos igm (elisa);
+1298. Determinación en suero de anticuerpos IgM (ELISA);
 
 TRYPANOSOMA CRUZI
 
-1341.- Identificación morfológica del agente en muestras de sangre;
+1299. Identificación morfológica del agente en muestras de sangre;
 
-Determinación de anticuerpos séricos (ifi, elisa, hai);
+1300. Determinación de anticuerpos séricos (IFI, ELISA, HAI) al menos dos pruebas diferentes;
 
-PLASMODIUM SPP
+PLASMOSIUM SPP
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1301. Identificación diferencial de especies en muestras de sangre;
 
-1342.- Identificación diferencial de especies en muestrasde sangre;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-D.- HELMINTOS
+D. HELMINTOS
 
 1.- HELMINTOS INTESTINALES
 
-1343.- Identificación de parásitos en heces;
+1302. Identificación de parásitos en heces (coproparasitoscópico);
 
-(coproparasitoscópico);
+2. TAENIA SPP
 
-2.- TAENIA SPP
+1303. Determinación de anticuerpos anti-cisticercos de Taeniasolium en suero o LCR (ELISA);
 
-1344.- Determinación de anticuerpos anti-cisticercos;
+E. ARTRÓPODOS DE IMPORTANCIA MÉDICA
 
-1345.- T. Solium en suero o Icr (elisa);
+1304. Determinación taxonómica de triatominos o insectos de importancia médica;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1305. Estudio coprológico en triatómicos;
 
-E.- ARTROPODOS DE IMPORTANCIA MEDICA
+F. EXÁMENES CITOLÓGICOS
 
-1346.- Determinación taxonómica de triatominos o insectos;
+1306. Revisión de laminilla de citología cérvico - vaginal (Papanicolaou);
 
-1347.- De importancia médica;
+G. OTROS (ENFERMEDADES NO INFECCIOSAS)
 
-1348.- Estudio coprológico en triatominos;
+1307. Cuantificación linfocitaria CD4-CD8;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+H. OTROS (ENFERMEDADES INFECCIOSAS)
 
-F.- EXAMENES CITOLÓGICOS
+1308. Carga viral para virus de VIH;
 
-1349.- Revisión de laminilla de citología cérvico - vaginal;
+1309. Prueba confirmatoria de hepatitis C (RIBA);
 
-(papanicolaou);
+1310. Aislamiento e identificación de Streptococcusspp en exudado faríngeo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1311. Virus de hepatitis B, prueba confirmatoria para HBsAg;
 
-G.- OTROS (ENFERMEDADES NO INFECCIOSAS)
+1312. Identificación de agentes bacterianos a partir de muestra fecal. Identificación de Vibrio parahaemolyticus;
 
-1350.- Tamiz neonatal, determinación de tsh (elisa);
+1313. Identificación de Bordetellapertussis o B. parapertussis (sindromecoqueluchoide), en muestra de exudado faríngeo;
 
-1351.- Papel;
+1314. Aislamiento e identificación de Haemophilusinfluenzae en exudado nasofaríngeo;
 
-1352.- Colinesterasa sérica;
+1315. Aislamiento e identificación de Haemophilusinfluenzae en LCR;
 
-1353.- Cuantificacion linfocitaria cd4-cd8;
-
-1354.- Carga viral por vih;
-
-1355.- Prueba confirmatoria de hepatitis c (riba);
-
-1356.- Aislamiento e identificación de streptococcus sp;
-
-1357.- Exudado faríngeo;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-H. DETERMINACIÓN DE METALES PESADOS
-
-1358.- Arsénico (por generador de hidruros);
-
-1359.- Arsénico por técnica horno de grafito;
-
-1360.- Plomo;
-
-1361.- Manganeso;
-
-1362.- Determinación de clenbuterol;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1316. Aislamiento e identificación de Neisseriameningitidis en LCR;
 
 II.- ACTIVIDADES DE DIAGNÓSTICO EN REGULACIÓN SANITARIA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+ANÁLISIS FISICOQUÍMICOS DE AGUA Y ALIMENTOS
 
-A.- ANALISIS FISICOQUIMICOS DE AGUA Y ALIMENTOS
+AGUA PURIFICADA O AGUA NATURAL
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1317. pH;
 
-1.- AGUA PURIFICADA O AGUA NATURAL
+1318. Color;
 
-1363.- Ph;
+1319. Cloro libre residual;
 
-1364.- Color;
+1320. Conductividad;
 
-1365.- Cloro libre residual;
+1321. Dureza (como CACO3);
 
-1366.- Conductividad;
+1322. Sólidos totales;
 
-1367.- Dureza (como caco3);
+1323. Sustancias activas al azul de metileno, SAAM en agua;
 
-1368.- Sólidos totales;
+1324. Flúor como ion flúor (agua, sal de consumo humano);
 
-1369.- Sustancias activas al azul de metileno, saam en agua;
+1325. Cloruros;
 
-1370.- Flúor como ión flúor (agua, sal de consumo humano);
+1326. Turbiedad;
 
-1371.- Cloruros;
+SAL DE CONSUMO HUMANO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1327. Flúor como ion flúor;
 
-2.- SAL DE CONSUMO HUMANO
+1328. Yodo a partir de yodatos;
 
-1372.- Flúor como ión flúor;
+LECHE FLUIDA Y PRODUCTOS LÁCTEOS
 
-1373.- Yodo a partir de yodatos;
+1329. Fosfatasa residual;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1330. Oxidantes en Leche fluida;
 
-3.- LECHE FLUÍDA Y PRODUCTOS LÁCTEOS
+CÁRNICOS
 
-1374.- Cloruros, como cloruro de sodio;
+1331. Nitritos (NO3);
 
-1375.- Acidez (como ácido láctico) en leche fluída;
+OTROS
 
-1376.- Fosfatasa residual;
+1332. Determinación de clenbuterol (orina, suero e hígado);
 
-1377.- Inhibidores químicos: derivados clorados (cuantitativos);
+1333. Ácido fólico
 
-1378.- Leche fluida;
+1334. Determinación de Metales Pesados en Loza Vidriada (plomo);
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1335. Determinación de EnterotoxinaEstafilococica en Alimentos;
 
-4.- CÁRNICOS
+ANÁLISIS MICROBIOLÓGICO DE AGUA Y ALIMENTOS
 
-1379.- Nitritos (no3);
+1336. Método para la cuenta de bacterias aerobias en placa;
 
-1380.- Otros;
+1337. Método para la determinación de bacterias coliformes por la técnica del NMP;
 
-1381.- Determinación de clembuterol (orina, suero e hígado);
+1338. Investigación de Staphylococcusaureus;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1339. Investigación de Salmonella spp en alimentos;
 
-B.- ANÁLISIS MICROBIOLÓGICO DE AGUA Y ALIMENTOS
+1340. Métodos para la determinación de cuentas de mohos y levaduras en alimentos;
 
-1382.- Método para la cuenta de bacterias aerobias en placa;
+1341. Investigación de Vibrio cholerae en pescados y mariscos;
 
-1383.- Método para la determinación de bacterias coliformes;
+1342. Método para la determinación de bacterias coliformes totales en placa;
 
-1384.- Por la técnica del nmp;
+1343. Método para la determinación de organismos coliforme fecales por la tecnica del NMP;
 
-1385.- Investigación de staphylococcus aureus;
+1344. Investigación de Escherichiacoli;
 
-1386.- Investigación de salmonella en alimentos;
+1345. PCR brucella en queso;
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+1346. Lysteriamonocytogenes en queso;
 
-1387.- Métodos para la determinación de cuentas de mohos y levaduras en alimentos;
+1347. Amiba de vida libre;
 
-1388.- Y levaduras en alimentos;
+1348. Investigación de Vibrio cholerae en agua;
 
-1389.- Investigación de vibrio cholerae en pescados;
+DETERMINACIÓN DE METALES PESADOS
 
-1390.- Investigación de vibrio cholerea en mariscos;
+1349. Arsénico (por generador de hidruros);
 
-1391.- Método para la determinación de bacterias coliformes;
+1350. Arsénico por técnica horno de grafito;
 
-1392.- Totales en placa;
+1351. Plomo;
 
-1393.- Método para la determinación de organismos;
+1352. Manganeso;
 
-1394.- Coliformes fecales por la técnica del nmp;
+1353. Cobre (por flama);
 
-III.- CURSOS Y ADIESTRAMIENTOS DIVERSOS
+1354. Fierro (por flama);
 
-1395.- Cursos y adiestramiento en servicio (por semana);
+III. CURSOS Y ADIESTRAMIENTO DIVERSOS
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011) (F. DE E., P.O. 23 DE ENERO DE 2012)
+1355. Cursos y adiestramiento en servicio (por semana);
 
-IV.- CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
+1356. Cursos y adiestramiento en servicio (por sesión);
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA PARA ESTABLECIMIENTOS PRIVADOS
 
-A.- PARA ESTABLECIMIENTOS PRIVADOS
+1357. Componente de sangre (CE concentrado eritrocitario, PFC plasma fresco congelado, CP concentrado de plaquetas, CRIO crioprecipitado) por unidad;
 
-1396.- Estudios a donador y unidad de sangre;
+1358. Albúmina humana;
 
-1397.- Albúmina humana;
+1359. Procedimiento de aféresis;
 
-1398.- Procedimiento de aféresis;
+1360. Inmunoglobulina intravenosa 1g;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+1361. Panel de anti cuerpos irregulares;
 
-B.- PARA PUBLICO EN GENERAL
+1362. Factor VIII de la coagulación;
 
-1399.- Estudios a donador y unidad de sangre;
+CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
 
-1400.- Albúmina humana;
+PÚBLICO EN GENERAL
 
-1401.- Procedimiento de aféresis;
+1363. Pruebas cruzadas;
 
-1402.- Inmunoglobulina intravenosa 1g;
+1364. Determinación de grupo sanguíneo ABO y RH;
 
-1403.- Panel de anti cuerpos irregulares;
+1365. Coombs directo;
 
-1404.- Pruebas cruzadas;
+1366. Componente de sangre (CE concentrado eritrocitario, PFC plasma fresco congelado, CP concentrado de plaquetas, CRIO crioprecipitado) por unidad;
 
-1405.- Determinación de grupo sanguíneo abo y rh;
+1367. Paquete plaquetoferesis;
 
-1406.- Coombs directo;
+1368. Albúmina humana;
 
-1407.- Componente de sangre(ce concentrado de electrolitos, pfc plasma fresco congelado, cp crioprecipitado) costo por unidad;
+1369. Procedimiento de aféresis;
 
-1408.- Paquete plaquetoferesis;
+1370. Inmunoglobulina intravenosa 1g;
 
-1409.- Identificación de virus parainfluenza: panel (parainfluenza 1, parainfluenza 2, parainflunza 3) en muestra de exudado faringeo ó nasofaríngeo;
+1371. Panel de anti cuerpos irregulares;
 
-1410.- Identificación de adenovirus en muestra de exudado faríngeo ó nasofaríngeo;
+1372. Factor VIII de la coagulación;
 
-1411.- Identificación de virus inicial respiratorio de muestra de exudado faríngeo ó nasofaríngeo;
+ALBERGUE TEMPORAL
 
-1412.- Panel de virus respiratorio (parainfluenza 1,2,3; adenovirus y virus sincial respiratorio);
+1373. Hospedaje por día;
 
-1413.- Virus del dengue (determinación de anticuerpos Igg por el método de elisa) en muestra sérica;
+1374. Servicio de alimento (1 servicio);
 
-1414.- Virus del dengue (determinación de antígeno ns1 por el método de elisa) en muestra sérica;
+1375. Servicio de regadera;
 
-1415.- Virus de hepatitis b, prueba confirmatoria para hbsag (por técnica de quimioluminiscencia;
+CENTRO DE CONTROL CANINO (ANTIRRÁBICO)
 
-1416.- Identificación de agentes bacterianos a partir de muestra fecal. Identificación de vidrio parahaemolyticus;
+1376. Observación Clínica de Agresores por Día;
 
-1417.- Identificación de bordetella pertussis o b. Parapertussis (sindrome coqueluchoide), en muestra de exudado faringeo;
+1377. Sacrificio Humanitario;
 
-1418.- Aislamiento e identificación de heamophilus influenza en exudado nasofaríngeo;
+1378. Vacunación Antirrábica fuera de Campaña;
 
-1419.- Aislamiento e identificación de heamophilus influenza en elcr;
+1379. Consulta Veterinaria;
 
-1420.- Aislamiento e identificación de neisseria meningitidis en Icr;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1.- ALERGOLOGIA
-
-1421.- Espirometría;
-
-1422.- Vacuna para alergología;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1423.- Prueba cutánea;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-2.- PAQUETES DE ESTUDIO DE LABORATORIO
-
-1424.- Exámen general de orina;
-
-1425.- Exámen general de orina c/gonadotropina cureonica;
-
-1426.- Bíometria hem.com vsg reticulocitos y plaquetas;
-
-1427.- Perfil bioquímico XII;
-
-1428.- Perfil de lípidos I;
-
-1429.- Perfil de lípidos II;
-
-1430.- Química sanguínea III;
-
-1431.- Química II;
-
-1432.- Perfil química sanguínea IV;
-
-1433.- Química sanguínea V;
-
-1434.- Perfil hepático;
-
-1435.- Perfil quirúrgico;
-
-1436.- Perfil reumático;
-
-1437.- Perfil control de embarazo;
-
-1438.- Perfil tiroideo;
-
-1439.- Protocolo centinela de diarrea ( 3 estado. Lab);
-
-1440.- Acetaminofen;
-
-1441.- Acido urico;
-
-1442.- Acido valproico;
-
-1443.- Albumina;
-
-1444.- Alfafetoproteina;
-
-1445.- Amiba en fresco;
-
-1446.- Amilasa;
-
-1447.- Amonio;
-
-1448.- Antibiograma coprocultivo;
-
-1449.- Antibiograma de secreciones;
-
-1450.- Antibiograma exudado faríngeo;
-
-1451.- Antibiograma hemocultivo;
-
-1452.- Antibiograma I.c.r.;
-
-1453.- Antibiograma p. Cateter;
-
-1454.- Antibiograma urocultivo;
-
-1455.- Antibiograma vulvar;
-
-1456.- Antiestreptolisinas;
-
-1457.- Azucares reductores;
-
-1458.- Baar en espectoración 0x1;
-
-1459.- Baar en jugo gástrico 0x1;
-
-1460.- Baar en I.c.r. X11;
-
-1461.- Baar en orina x1;
-
-1462.- Benzodiazepinas;
-
-1463.- Bilirrubina directa bd;
-
-1464.- Bilirrubina total bt;
-
-1465.- Biometria hematica (incluye plaquetas) bh;
-
-1466.- Calcio ca;
-
-1467.- Carbamazepina;
-
-1468.- Citología de moco fecal cmf;
-
-1469.- Citoquimico de liquido celaforr;
-
-1470.- Citoquimico de liquidos de punción;
-
-1471.- Ck-mb cretin fosfoquinasa fracción mb;
-
-1472.- Coaglutinación liquido cefaloroquideo;
-
-1473.- Colesterol hdl;
-
-1474.- Colesterol ldl;
-
-1475.- Colesterol total;
-
-1476.- Coombs directo;
-
-1477.- Coombs indirecto;
-
-1478.- Coproculto;
-
-1479.- Coproparasitoscopico x 3 cps x3;
-
-1480.- Creatinina;
-
-1481.- Creatinina urinaria;
-
-1482.- Crenocitos en lcr;
-
-1483.- Cultivo de I.c.r;
-
-1484.- Cultivo de secreciones;
-
-1485.- Cultivo punto cateter;
-
-1486.- Dhl deshidrogenosa láctica;
-
-1487.- Digoxina;
-
-1488.- Dímero d;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1489.- Electrolitos na.k.ci;
-
-1490.- Eosinofilos nasales x1 emn;
-
-1491.- Examen general de orina ego;
-
-1492.- Exudado faríngeo ef;
-
-1493.- Exudado vulvar;
-
-1494.- Factor reumatoide fr;
-
-1495.- Fenitoína;
-
-1496.- Fenobarbital;
-
-1497.- Fosfatasa ácida;
-
-1498.- Fosfatasa alcalina;
-
-1499.- Fósforo;
-
-1500.- Gamaglutamiltransferasa cgt;
-
-1501.- Glucosa;
-
-1502.- Grupo y rh Y factor rh;
-
-1503.- Hematocrito hto;
-
-1504.- Hemocultivo;
-
-1505.- Hemoglobina glucosilada;
-
-1506.- Lipasa;
-
-1507.- Magnesio mg;
-
-1508.- Panel viral hepatitis (a,b,c);
-
-1509.- Panel viral hepatitis a;
-
-1510.- Panel viral hepatitis b;
-
-1511.- Panel viral hepatitis c;
-
-1512.- Proteína c. Reactiva pcr;
-
-1513.- Proteínas de orina;
-
-1514.- Proteínas totales;
-
-1515.- Pruebas cruzadas pc;
-
-1516.- Prueba de funcionamiento hepática pfh;
-
-1517.- Química sanguínea ( incluye glucosa, urea y creatinina);
-
-1518.- Reacciones febriles;
-
-1519.- Reticulocitos;
-
-1520.- Salicilatos;
-
-1521.- Sangre oculta en heces;
-
-1522.- Tamiz metabólico ampliado;
-
-1523.- T.p. Tiempo de protombina;
-
-1524.- T.p.t. Tiempo parcial de tromboplastina;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1525.- Técnica de Graham.;
-
-1526.- Tgo transaminasa glutámico oxalacética;
-
-(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-1527.- Tgp transaminasa glutámico pirúvica;
-
-1528.- Tiempo de coagulación tc;
-
-1529.- Tiempo de sangrado ts;
-
-1530.- Tinción de gram;
-
-1531.- Triglicéridos;
-
-1532.- Urea;
-
-1533.- Urea urinaria;
-
-1534.- Urocultivo;
-
-1535.- V.d.r.l.;
-
-1536.- Velocidad de sed. Globular;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1537. Consulta de prevaloración;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1538. Consulta médica subsecuente;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1539. Comunicación Humana;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1540. Rayos X
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1541. Audiometría;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1542. Reposición de carnet;
+1380. Esterilización de Mascotas programa de Control Animal;
 
 III.- Servicios de Agua y Alcantarillado;
 
@@ -8572,3 +7826,13 @@ P.O. 31 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 2013, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero de 2014, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La tabla que contiene los plazos y periodos de pago del Impuesto Sobre Tenencia y Uso de Vehículos, correspondiente a la reforma del artículo 37 de la Ley de Hacienda contenida en el artículo segundo del presente Decreto, será aplicable a partir del 1° de enero del 2015. Entretanto, los contribuyentes pagarán el Impuesto a que se refiere el mismo en los meses de enero, febrero, marzo y abril.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+CUARTO. Se abroga la Ley Estatal de Estímulos Fiscales para el Ejercicio Fiscal 2003, publicada en el Periódico Oficial del Estado de Hidalgo de fecha 30 de diciembre de 2002, dentro del Decreto número 16, expedido por la LVIII Legislatura Local.
