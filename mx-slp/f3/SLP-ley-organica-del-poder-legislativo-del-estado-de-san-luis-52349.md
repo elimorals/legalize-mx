@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2013-11-14"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -233,9 +233,7 @@ XV. Evaluar y dar seguimiento en forma periódica al Plan Estatal de Desarrollo,
 
 XVI. Citar a través del titular del Poder Ejecutivo, a cualquier funcionario de la administración pública estatal, para que comparezca cuando se discuta una ley o se estudie un asunto que se relacione con su función, así como para que informe sobre algún asunto de su competencia;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-XVII. Aprobar de conformidad con la ley de la materia y previa opinión que le remita el Consejo Estatal de Transporte, los ajustes a las tarifas y en su caso las nuevas tarifas del transporte público;
+XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
@@ -1145,9 +1143,7 @@ III. Requerir, a la autoridad competente, la información que considere necesari
 
 IV. La realización, en coordinación con las autoridades en la materia; de foros, consultas o mesas de trabajo con los grupos interesados y con la población en general, para la actualización de la legislación en materia de transporte en el Estado;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-V. Elaborar los dictámenes que determinen las tarifas de Transporte Público, en base a la opinión remitida por el Consejo Estatal de Transporte Público y someterlos al Pleno del Congreso del Estado para su aprobación, y
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
@@ -2160,5 +2156,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE NOVIEMBRE DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de 2014, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
