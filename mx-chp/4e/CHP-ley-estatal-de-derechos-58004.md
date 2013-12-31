@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2013-12-27"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -4198,6 +4200,14 @@ P.O. 3 DE JULIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el primero de enero de dos mil catorce.
+
+Artículo Segundo.- Se abroga la Ley Estatal de Derechos, publicada mediante Decreto número 334, en el Periódico Oficial número 062 Segunda Sección de fecha miércoles veintiuno de noviembre de dos mil siete, así como las demás disposiciones que de ella se hayan emitido y se opongan al contenido de la presente Ley.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 27 DE DICIEMBRE DE 2013.
 
