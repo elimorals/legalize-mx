@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2008-12-30"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -149,7 +149,7 @@ Los Contratos y demás actos jurídicos y materiales que con base en la presente
 
 En lo no previsto por esta Ley, serán aplicables supletoriamente el Código Civil y el Código de Procedimientos Civiles para el Estado Libre y Soberano de Oaxaca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 10.
 
@@ -201,7 +201,7 @@ Las atribuciones conferidas a la Contraloría en esta Ley, serán ejercidas por 
 
 Las controversias que se susciten con motivo de la interpretación y aplicación de esta Ley o de los contratos celebrados, serán resueltas por el Honorable Tribunal Superior de Justicia del Estado, en los términos de la Ley Orgánica del Poder Judicial del Estado de Oaxaca. Para la resolución de las controversias se aplicará el procedimiento sumario contemplado en el Código de Procedimientos Civiles del Estado, en lo que no se oponga a la naturaleza de las disposiciones de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 16.
 
@@ -279,7 +279,7 @@ XIII.- Los convenios de coordinación entre Dependencias, Entidades o Ayuntamien
 
 XIV.- Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 21.
 
@@ -341,7 +341,7 @@ II.- Por invitación restringida a cuando menos tres Contratistas; y,
 
 III.- Por adjudicación directa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 26.
 
@@ -349,7 +349,7 @@ La contratación de obra pública, por Dependencias y Entidades solo podrá llev
 
 Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y disposiciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO I BIS. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
 
@@ -369,7 +369,9 @@ Artículo 26 C.- Para ser inscritos en el Padrón los interesados deberá solici
 
 I. Acreditar fehacientemente su calidad de contratista o prestador de servicios relacionados con la obra pública legalmente establecido, mediante inscripción ante la Secretaría de Hacienda y Crédito Público, en la que se especifique su giro o actividad preponderante;
 
-II. Comprobar que se encuentra al corriente de sus obligaciones fiscales en términos de lo dispuesto por el artículo 46 A del Código Fiscal para el Estado de Oaxaca vigente y demás disposiciones fiscales aplicables;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+II. Comprobar que se encuentra al corriente de sus obligaciones fiscales en términos de lo dispuesto en el Código Fiscal para el Estado de Oaxaca;
 
 III. Cuando se trate de personas morales deberán exhibir copia certificada de la escritura o acta constitutiva debidamente inscrita en el Registro Público de la Propiedad, así como, sus modificaciones sí las hubiera; en caso de haber sido creadas por disposición legal, deberán indicar esta circunstancia; y tratándose de fideicomisos, el contrato correspondiente;
 
@@ -437,7 +439,7 @@ IX. No proporcione la información solicitada por la autoridad competente, en t�
 
 ### CAPITULO II. DEL PROCEDIMIENTO DE LA LICITACION PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 27.
 
@@ -899,7 +901,11 @@ I.- El contratista deberá entregar a la residencia de supervisión previamente 
 
 II.- Para el caso de que derivado de la revisión hecha por la residencia de supervisión resultaren diferencias numéricas o técnicas, las partes tendrán tres días hábiles contados a partir del vencimiento del plazo señalado para la revisión y conciliación de dichas diferencias a efecto de proceder a la autorización de la estimación correspondiente, en caso contrario que no se llegue a la conciliación de algún trabajo, quedará pendiente y se seguirá conciliando a efecto de llegar al acuerdo y cobrarlo en la siguiente estimación;
 
-III.- Una vez cumplidos los requisitos señalados en las fracciones que anteceden, presentada la documentación requerida por la Dependencia, Entidad o Ayuntamiento para el cobro de las estimaciones, éstas serán pagadas dentro de los veinte días hábiles siguientes a su recepción; y
+III.- Una vez cumplidos los requisitos señalados en las fracciones que anteceden, presentada la documentación requerida por la Dependencia, Entidad o Ayuntamiento para el cobro de las estimaciones, éstas serán pagadas dentro de los veinte días hábiles siguientes a su recepción; y (sic)
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+El plazo a que se refiere la presente fracción, podrá ser mayor cuando el contratista transmita sus derechos de cobro o crédito, previa autorización de la Dependencia, Entidad o Ayuntamiento contratante, a través de esquemas de factoraje financiero a proveedores, en el entendido que el plazo que se fije para el pago no podrá exceder de 180 días naturales, de conformidad a la fecha de corte que al efecto fijen las Dependencias, Entidades o Ayuntamientos contratantes.
 
 IV.- En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, la Dependencia, Entidad o Ayuntamiento, a solicitud del contratista, deberá pagar gastos financieros conforme al procedimiento establecido en el Código Fiscal de la Federación, como si se tratara del supuesto de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días naturales desde que se venció el pago hasta la fecha en que se ponga efectivamente las cantidades a disposición del contratista.
 
@@ -912,6 +918,10 @@ No se considerarán pago en exceso cuando las diferencias que resulten a cargo d
 El pago de las obras contratadas a precio alzado, se realizará previa verificación de la obra o trabajos totalmente terminados, conforme al plazo establecido contractualmente y de conformidad con el proyecto, especificaciones, normas de calidad requeridas y en su caso probada la operación de sus instalaciones.
 
 Dicho pago se realizará dentro de los veinte días hábiles contados a partir de la fecha en que se haya entregado la obra en los términos del contrato respectivo y presentada la documentación requerida por la Dependencia, Entidad o Ayuntamiento para su cobro, salvo que mediante acuerdo expreso de las partes se pacte un plazo mayor.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+El plazo a que se refiere el párrafo anterior, podrá ser mayor cuando el contratista transmita sus derechos de cobro o crédito, previa autorización de la Dependencia, Entidad o Ayuntamiento contratante, a través de esquemas de factoraje financiero a proveedores, en el entendido que el plazo que se fije para el pago no podrá exceder de 180 días naturales contados a partir de la fecha en que se haya entregado la obra en los términos del contrato respectivo.
 
 ### CAPITULO IV. DE LA SUSPENSION, TERMINACION ANTICIPADA O RESCISION DEL CONTRATO
 
@@ -1045,7 +1055,7 @@ No quedan comprendidos dentro de los servicios a que se refiere el artículo 68 
 
 Las Dependencias, Entidades o los Ayuntamientos contratantes, deberán remitir por escrito a la Secretaría, a la Contraloría y a la Contaduría Mayor según corresponda, la información relativa a las obras y servicios relacionados con las mismas que se realicen o contraten.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 72.
 
@@ -1139,7 +1149,7 @@ V.- La resolución emitida deberá ser notificada de manera personal al infracto
 
 Ese mismo procedimiento se deberá observar para la rescisión de los contratos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 84.
 
@@ -1213,7 +1223,7 @@ La resolución que ponga fin al procedimiento de inconformidad, se notificará p
 
 ### CAPITULO II. DEL RECURSO DE REVOCACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 93.
 
@@ -1339,7 +1349,7 @@ LIC. HECTOR ANUAR MAFUD MAFUD.
 
 AL C...
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE MARZO DE 2005.
 
@@ -1348,3 +1358,7 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 30 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
