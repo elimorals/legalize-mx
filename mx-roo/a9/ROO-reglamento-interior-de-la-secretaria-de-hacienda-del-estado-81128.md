@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-811
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-25"
-last_updated: "2013-03-29"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 25 de marzo de 2011.
 
 LICENCIADO FÉLIX ARTURO GONZÁLEZ CANTO, GOBERNADOR DEL ESTADO DE QUINTANA ROO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 90 FRACCIÓN XVIII Y 91 FRACCIONES VI Y XIII DE LA CONSTITUCIÓN POLÍTICA Y LOS ARTÍCULOS 2 Y 12 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, AMBAS DEL ESTADO DE QUINTANA ROO; Y,
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Que en mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
@@ -2044,3 +2046,41 @@ P.O. 29 DE MARZO DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día primero de enero del año 2014, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Hacienda del Estado publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el 25 de marzo de 2011 con todo y sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Secretaría de Planeación y Desarrollo Regional del Estado publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el 30 de julio 2010.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones reglamentarias de igual o menor jerarquía que se opongan al presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expidan los manuales que este Reglamento menciona, el Secretario resolverá las cuestiones que conforme a dichos manuales se deban regular.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos pendientes al entrar en vigor el presente Reglamento y que conforme al mismo correspondían a otras unidades, deberán pasar de una unidad a otra y se resolverán y tramitarán por aquella unidad a la que se le haya atribuido la competencia conforme al presente instrumento y se harán cargo de los mismos hasta su conclusión.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando las facultades y obligaciones de alguna Unidad Administrativa a que se refiere este Reglamento deban de ser ejercidas por otra Unidad Administrativa conforme a lo estipulado en el mismo, los recursos humanos, financieros materiales con que contaba pasarán a esta última, de conformidad con el ámbito de sus facultades que a cada una corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+Los lineamientos, criterios, acuerdos, convenios, guías y demás instrumentos de carácter jurídico o administrativo que hayan sido expedidos con anterioridad al presente Reglamento, continuarán en vigor hasta en cuanto no se opongan a las disposiciones del presente ordenamiento o hasta en tanto no se modifiquen o deje sin efectos.
+
+###### ARTÍCULO NOVENO.
+
+Cuando en este Reglamento Interior se dé una denominación nueva o distinta a alguna Unidad Administrativa establecida con anterioridad a la vigencia del mismo, aquélla atenderá los asuntos a que se refiere este ordenamiento.
