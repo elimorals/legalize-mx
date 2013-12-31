@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-estimulos-fiscales-para-el-ejercicio-fiscal-2976
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2008-12-31"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY ESTATAL DE ESTIMULOS FISCALES, PARA EL EJERCICIO FISCAL 2003
 
-LEY ESTATAL DE ESTIMULOS FISCALES, PARA EL EJERCICIO FISCAL 2003
+LEY ESTATAL DE ESTÍMULOS FISCALES, PARA EL EJERCICIO FISCAL 2003
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 28, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS DECRETOS NÚMERO 28 Y CUARTO TRANSITORIO DEL DECRETO NÚMERO 81, PUBLICADOS EN EL P.O. DE 31 DE DICIEMBRE DE 2008 Y 31 DE DICIEMBRE DE 2013, RESPECTIVAMENTE; EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de diciembre de 2002.
 
@@ -169,7 +169,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
 
-N. DE. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 31 DE DICIEMBRE DE 2003.
 
@@ -196,3 +196,13 @@ P.O. 31 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2009, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al' contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero de 2014, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La tabla que contiene los plazos y periodos de pago del Impuesto Sobre Tenencia y Uso de Vehículos, correspondiente a la reforma del artículo 37 de la Ley de Hacienda contenida en el artículo segundo del presente Decreto, será aplicable a partir del 1° de enero del 2015. Entretanto, los contribuyentes pagarán el Impuesto a que se refiere el mismo en los meses de enero, febrero, marzo y abril.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+CUARTO. Se abroga la Ley Estatal de Estímulos Fiscales para el Ejercicio Fiscal 2003, publicada en el Periódico Oficial del Estado de Hidalgo de fecha 30 de diciembre de 2002, dentro del Decreto número 16, expedido por la LVIII Legislatura Local.
