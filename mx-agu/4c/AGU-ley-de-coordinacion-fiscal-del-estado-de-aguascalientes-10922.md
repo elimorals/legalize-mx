@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-coordinacion-fiscal-del-estado-de-aguascalientes-10922"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-03"
-last_updated: "2009-12-31"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE AGUASCALIENTES
 
-LEY DE COORDINACION FISCAL DEL ESTADO DE AGUASCALIENTES
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de noviembre de 1996.
 
@@ -97,7 +97,13 @@ IV.- El 23% de la recaudación que obtenga el Estado del Impuesto Especial sobre
 
 V.- El 23% de la recaudación en el Estado del Impuesto sobre Automóviles Nuevos;
 
-VI.- El 23% del Fondo de Fiscalización;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VI.- El 23% de la recaudación que obtenga el Estado por el Impuesto a la venta final de bebidas con contenido alcohólico.
+
+Para tal efecto el 50% del monto a distribuir se participará a los municipios atendiendo a los niveles de población, el 50% restante será distribuido a los municipios en proporción inversa al índice de masa carencial de cada municipio. Al inicio de cada ejercicio fiscal, el índice de masa carencial se tomará del Acuerdo Administrativo por el que se da a conocer la fórmula y metodología para la distribución de los recursos del Fondo para la Infraestructura Social Municipal del ejercicio inmediato anterior, y que es publicado por la Secretaría de Finanzas del Estado en el Periódico Oficial del Estado a más tardar el 31 de enero de cada año, previa validación de la Secretaría de Desarrollo Social del Gobierno Federal, así como de la Coordinación Estatal de Planeación y Proyectos.
+
+Los recursos derivados de este impuesto serán distribuidos a municipios dentro de los 30 días siguientes al mes en que éste sea recaudado.
 
 VII.- El Fondo derivado de las cuotas previstas en el Artículo 2°-A, fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios, se distribuirá conforme al Artículo 4°-A de la Ley de Coordinación Fiscal Federal que establece una distribución para los municipios como mínimo del 20% de la recaudación que corresponda a las Entidades Federativas, consistente con el porcentaje previsto para el Fondo General de Participaciones previsto en la Ley de Coordinación Fiscal del Estado de Aguascalientes, mismo que se establece como porcentaje a distribuir el 23% de dicha recaudación, el cual será repartido de la siguiente manera:
 
@@ -396,3 +402,13 @@ P.O. 31 DE DICIEMBRE DE 2009.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaria de Finanzas del Estado, una vez que cuente con la infraestructura necesaria, emitirá las formas precodificadas e implementará el uso de medios electrónicos.
