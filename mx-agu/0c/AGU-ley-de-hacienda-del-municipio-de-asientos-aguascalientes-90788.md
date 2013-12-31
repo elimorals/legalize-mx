@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-asientos-aguascalientes-90788"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2012.
 
@@ -749,15 +749,11 @@ La dependencia, funcionario o empleado que preste el servicio por el cual se pag
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los Artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan y destitución de su cargo sin responsabilidad para el Municipio.
 
-(NOTA: EL 8 DE AGOSTO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS CUARTO Y QUINTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE AGOSTO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 91.
 
-Son causantes del derecho por concepto de alumbrado público en calles, plazas, jardines y demás lugares de uso común, los consumidores de energía eléctrica clasificados en las tarifas 1,2, 3, OM, HM, HS, HSL, HT, HTL, 1-15, 1-30, HS-R, HS-RF, HS-RM, HT-R, HT-RF, HT-RM, HM-R, HM-RF H, HM-RM, publicadas en el Diario Oficial de fecha 31 de diciembre de 1986, 10 de noviembre de 1991, 3 de abril de 1992, 13 de mayo de 1993, 4 de octubre de 1993 y 30 de septiembre de 1994.
-
-Los derechos de alumbrado público se cubrirán en un 10% del importe de energía eléctrica de los sujetos obligados al pago de este derecho; los importes que resulten serán recaudados por conducto de la Comisión Federal de Electricidad, adicionando su monto en las facturas de los consumidores.
-
-Mensualmente la Comisión Federal de Electricidad presentará estado de cuenta de las aplicaciones al Ayuntamiento para su análisis y aprobación.
+Los derechos de alumbrado público se cubrirán conforme a la tarifa que se establezca en la Ley de Ingresos del Municipio de Asientos, Aguascalientes, relativa al Ejercicio Fiscal de que se trate; los importes que resulten serán recaudados por conducto de la Comisión Federal de Electricidad, en términos del convenio que al efecto se suscriba, adicionando su monto en las facturas de los consumidores.
 
 ### CAPÍTULO II. Licencias, Permisos y Registros
 
@@ -1294,3 +1290,11 @@ Dip. Mario Antonio Guevara Palomino,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 27 de diciembre de 2012.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
