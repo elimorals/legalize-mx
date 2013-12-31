@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2012-10-18"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -301,9 +301,13 @@ II. Dar fe pública de los actos o hechos vinculados al estado civil de las pers
 
 III. Llevar a cabo los registros del estado civil de las personas, así como supervisar y vigilar, bajo su estricta responsabilidad, que se practiquen las anotaciones marginales en libros y formas correspondientes, autorizando cada asiento con su firma;
 
-IV. Extender y autorizar las actas del estado civil, relativas al nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio y defunciones;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-V. Inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial o administrativo, adopción, la tutela o la interdicción, además de las en que así lo ordene la autoridad judicial;
+IV. Extender y autorizar las actas del estado civil, relativas al nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio necesario, o voluntario por cualquiera de las formas previstas, y defunciones;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+V. Inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio necesario o voluntario por cualquiera de las formas previstas, adopción, la tutela o la interdicción, además en las que así lo ordene la autoridad judicial;
 
 VI. Exigir el cumplimiento de los requisitos del Código Familiar para el Estado, y demás normatividad aplicable, que se señalan para los actos y hechos sujetos al registro civil;
 
@@ -437,7 +441,9 @@ V. En casos extraordinarios el Director del Registro Civil.
 
 Los oficiales tendrán fe pública en el desempeño de las labores propias de su cargo, y sólo asentarán en las actas lo que deba ser declarado en el acto preciso a que ellas se refieren, y lo que esté expresamente previsto por la ley.
 
-Serán objeto de inscripción en el Registro Civil, el nacimiento, el reconocimiento de hijos, el matrimonio, la defunción, las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o la limitación de la capacidad legal para administrar bienes, la nulidad de matrimonio, el divorcio, la adopción, la nulidad de reconocimiento de hijas o hijos, y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento de los mexicanos, de las actas de los extranjeros residentes en el territorio del Estado, así como de los actos del estado civil de los mexicanos en el extranjero.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Serán objeto de inscripción en el Registro Civil, el nacimiento, el reconocimiento de hijos, el matrimonio, la defunción, las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o la limitación de la capacidad legal para administrar bienes, la nulidad de matrimonio, el divorcio necesario, o voluntario en cualquiera de las formas previstas, la adopción, la nulidad de reconocimiento de hijas, o hijos, y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento de los mexicanos, de las actas de los extranjeros residentes en el territorio del Estado, así como de los actos del estado civil de los mexicanos en el extranjero.
 
 ###### ARTÍCULO 36.
 
@@ -883,9 +889,21 @@ Celebrado el matrimonio, el Oficial, remitirá copia del acta al encargado de la
 
 ### CAPÍTULO VI. De las Actas de Divorcio
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 110.
 
-De la sentencia ejecutoria que decrete un divorcio, se remitirá copia certificada a la Dirección, y al Oficial donde se celebró el matrimonio, para que se asiente el acta correspondiente.
+De la sentencia ejecutoria que decrete un divorcio judicial, se remitirá copia certificada a la Dirección para que realice la anotación marginal correspondiente en el acta de matrimonio, y al oficial donde se celebró el matrimonio, para que se asiente el acta correspondiente.
+
+En el caso de divorcio voluntario por la vía administrativa, se presentará solicitud por escrito, ante los Oficiales que sean autorizados por la Dirección y en los formatos que para el efecto determine el Reglamento de esta Ley. La solicitud será firmada por ambos cónyuges, en donde protestarán que cumplen con los requisitos que prevé el artículo 102 del Código Familiar para el Estado, y el Reglamento de la presente Ley.
+
+El Oficial autorizado que conozca de la solicitud, citará a los interesados dentro de los cinco días hábiles siguientes a fin de que ratifiquen la misma, apercibiéndoles que en caso de comprobarse que al momento de solicitar el divorcio por esta vía, no se actualizaba cualquiera de los requisitos exigidos por la ley, la resolución será nula de pleno derecho; lo anterior con independencia de las sanciones civiles o penales a las que sean acreedores.
+
+En la citación a que se refiere el plazo anterior, los solicitantes presentarán dos testigos, mismos que serán identificados y apercibidos para conducirse con verdad, quienes manifestarán que saben y les consta que los cónyuges cumplen con los requisitos previstos por la ley.
+
+Cumplidas todas las formalidades, el Oficial del Registro Civil dictará el acuerdo administrativo correspondiente, asentándolo en el acta de divorcio, de la cual remitirá copia a la Dirección para que realice las anotaciones marginales que correspondan de acuerdo con lo dispuesto por el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO VII. De las Actas de Defunción; y Actuaciones Relativas
 
@@ -893,7 +911,7 @@ De la sentencia ejecutoria que decrete un divorcio, se remitirá copia certifica
 
 ###### ARTÍCULO 111.
 
-En el acta de divorcio se expresará el nombre, apellidos, edad, domicilio, nacionalidad de los divorciados, lugar y fecha en que se celebró su matrimonio, la Clave Única del Registro Nacional de Población, si la tuvieren, los datos de ubicación de las actas de nacimiento de los divorciados, la parte resolutiva de la sentencia judicial que lo decretó, fecha de la misma y la autoridad que la dictó.
+En el acta de divorcio se expresará el nombre, apellidos, edad, domicilio, nacionalidad de los divorciados, lugar y fecha en que se celebró su matrimonio, la Clave Única del Registro Nacional de Población si la tuvieren, los datos de ubicación de las actas de nacimiento de los divorciados. Además, tratándose de divorcio necesario, o voluntario en la vía judicial, la parte resolutiva de la sentencia judicial ejecutoria que lo decretó, fecha de la misma y la autoridad que la dictó.
 
 ###### ARTÍCULO 112.
 
@@ -1292,3 +1310,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
