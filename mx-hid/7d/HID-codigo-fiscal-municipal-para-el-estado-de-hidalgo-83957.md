@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2013-01-28"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -83,9 +81,11 @@ Las contribuciones establecidas en las leyes de ingresos de los municipios se re
 
 Los productos se regularán por las indicadas disposiciones o por lo que, en su caso, prevengan los contratos, convenios o concesiones respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 5.
 
-Son créditos fiscales los que tienen derecho a percibir los municipios o sus organismos descentralizados, de los particulares, que provengan de impuestos, derechos, productos o aprovechamientos y de sus accesorios, inclusive los que se deriven de responsabilidades que los municipios tengan que exigir de sus servidores públicos, así como aquellos a los que las leyes les den ese carácter y los municipios deban percibir por cuenta ajena.
+Son créditos fiscales los que tienen derecho a percibir los municipios o sus organismos descentralizados, de los particulares, que provengan de impuestos, derechos, o aprovechamientos y de sus accesorios, inclusive los que se deriven de responsabilidades que los municipios tengan que exigir de sus servidores públicos, así como aquellos a los que las leyes les den ese carácter y los municipios deban percibir por cuenta ajena.
 
 La recaudación proveniente de los ingresos de los municipios, se efectuará por la Tesorería Municipal, a través de las dependencias facultadas por las leyes y reglamentos de la materia y por los organismos que dicha tesorería autorice.
 
@@ -157,6 +157,10 @@ Son accesorios de las contribuciones: Los recargos, sanciones, gastos de ejecuci
 
 Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Cuando en los ordenamientos de carácter fiscal se haga referencia a salarios mínimos, estos serán los vigentes para el área geográfica que corresponda al Estado de Hidalgo, de conformidad con lo emitido por la Comisión Nacional de los Salarios Mínimos.
+
 ###### ARTÍCULO 17.
 
 Las disposiciones fiscales que establezcan cargas a los particulares y las que señalen excepciones a las mismas, así como las que fijen infracciones y sanciones, son de aplicación estricta.
@@ -209,9 +213,13 @@ La preferencia en el cobro de los créditos fiscales, se decidirá considerando 
 
 I.- Los créditos fiscales a favor del Municipio, son preferentes a cualquier otro con excepción de los créditos con garantía hipotecaria, prendaria, de alimentos, de salarios o sueldos devengados durante el último año o de indemnización a los obreros de conformidad con lo que dispone la ley federal del trabajo;
 
-II.- La preferencia corresponderá al primer embargante, en los casos que los acreedores posean derechos reales y se encuentren inscritos en el Registro Público de la Propiedad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-III.- Para que sea aplicable la excepción establecida en la fracción I de este artículo, será requisito indispensable que antes de que se notifique al deudor el crédito fiscal, las garantías se hayan inscrito en el Registro Público de la Propiedad;
+II.- La preferencia corresponderá al primer embargante, en los casos que los acreedores posean derechos reales y se encuentren inscritos en el Registro Público de la Propiedad y del Comercio; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+III.- Para que sea aplicable la excepción establecida en la fracción I de este artículo, será requisito indispensable que antes de que se notifique al deudor el crédito fiscal, las garantías se hayan inscrito en el Registro Público de la Propiedad y del Comercio.
 
 IV.- La vigencia y exigibilidad en cantidad líquida del derecho de preferencia, deberá comprobarse en forma fehaciente al hacerse valer ante la autoridad fiscal competente; y
 
@@ -221,9 +229,11 @@ V.- El impuesto predial, será preferente a cualesquiera otros créditos fiscale
 
 Las autoridades fiscales municipales ejercerán las funciones contenidas en las leyes federales aplicables en los casos que actúen conforme a los convenios en materia fiscal federal que el estado tiene suscritos o suscriba con el Gobierno Federal y conforme a las facultades establecidas en los mismos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 27.
 
-Los Municipios están obligados a pagar contribuciones únicamente cuando realice funciones de derecho privado y las leyes lo señalen expresamente.
+Los Municipios están obligados a pagar contribuciones cuando realicen funciones de derecho privado y las leyes lo señalen expresamente.
 
 ###### ARTÍCULO 28.
 
@@ -2275,7 +2285,9 @@ VIII.- El derecho de usufructo, pero no sus frutos;
 
 IX.- Los derechos de uso o de habitación;
 
-X.- El patrimonio de familia en los términos que establezcan las leyes, cuando se encuentren debidamente inscritos en el Registro Público de la Propiedad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+X.- El patrimonio de familia en los términos que establezcan las leyes, cuando se encuentren debidamente inscritos en el Registro Público de la Propiedad y del Comercio;
 
 XI.- Los sueldos y salarios del deudor o de sus familiares;
 
@@ -2297,9 +2309,13 @@ El embargo en toda clase de negociaciones se regirá por lo establecido en este 
 
 El embargo de créditos será notificado personalmente, por la Tesorería Municipal, a los deudores del embargado, para que no hagan el pago de las cantidades respectivas en este, sino en la caja de la citada oficina, con apercibimiento de doble pago en caso de desobediencia.
 
-Si en cumplimiento a lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad, el tesorero municipal requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-En caso de abstención del titular, de los créditos embargados, transcurrido el término indicado, el tesorero municipal, firmará la escritura o documentos relativos en rebeldía de aquel, lo que hará del conocimiento del Registro Público de la Propiedad para los efectos procedentes.
+Si en cumplimiento a lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y del Comercio, el tesorero municipal requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+En caso de abstención del titular, de los créditos embargados, transcurrido el término indicado, el tesorero municipal, firmará la escritura o documentos relativos en rebeldía de aquel, lo hará del conocimiento del Registro Público de la Propiedad y del Comercio para los efectos procedentes.
 
 ###### ARTÍCULO 197.
 
@@ -2361,9 +2377,11 @@ X.- Responder de los daños y perjuicios que las cosas depositadas sufrieran por
 
 Si las medidas urgentes que dicten los depositarios interventores en los casos previstos en la fracción VIII del Artículo anterior, no fueren acatadas por el deudor o el personal de la negociación embargada, la Tesorería Municipal ordenará de plano que el depositario interventor se convierta en administrador, o sea, substituido por un depositario administrador, quien tomará posesión de su encargo desde luego.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 205.
 
-El embargo de bienes raíces, de derechos reales o, negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad.
+El embargo de bienes raíces, de derechos reales o, negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad y del Comercio.
 
 ###### ARTÍCULO 206.
 
@@ -2397,13 +2415,17 @@ I.- Rendir cuentas comprobadas mensualmente a la Tesorería Municipal; y
 
 II.- Retirar el 10% de las ventas o ingresos diarios de la negociación intervenida y enterar su importe en la caja de la Tesorería Municipal a medida que se efectúe la recaudación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 211.
 
-Los nombramientos conferidos al interventor o administrador, deberán anotarse en la oficina del Registro Público de la Propiedad que corresponda al domicilio de la negociación intervenida.
+Los nombramientos conferidos al interventor o administrador, deberán anotarse en la oficina del Registro Público de la Propiedad y del Comercio que corresponda al domicilio de la negociación intervenida.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 212.
 
-La intervención se levantará cuando el crédito fiscal se hubiere satisfecho o cuando de conformidad con este Código se haya enajenado la negociación y la Tesorería Municipal comunicará el hecho a la oficina del Registro Público de la Propiedad que corresponda para que se cancele la anotación respectiva.
+La intervención se levantará cuando el crédito fiscal se hubiere satisfecho o cuando de conformidad con este Código se haya enajenado la negociación y la Tesorería Municipal comunicará el hecho a la oficina del Registro Público de la Propiedad y del Comercio que corresponda para que se cancele la anotación respectiva.
 
 ###### ARTÍCULO 213.
 
@@ -2521,9 +2543,11 @@ La propia escritura consignará garantía hipotecaria a favor del Municipio, por
 
 Aún en este caso, el deudor responderá de la evicción y saneamiento del inmueble rematado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 229.
 
-Los bienes inmuebles pasarán a ser propiedad del postor, libres de todo gravamen. A fin (sic) que se cancelen los que reporten, la Tesorería Municipal que finque el remate, comunicará al Registro Público de la Propiedad, la transmisión o adjudicación de dichos inmuebles a efecto de que se proceda a realizar las inscripciones correspondientes.
+Los bienes inmuebles pasarán a ser propiedad del postor, libres de todo gravamen. A fin que se cancelen los que reporten, la Tesorería Municipal que finque el remate, comunicará al Registro Público de la Propiedad y del Comercio, la transmisión o adjudicación de dichos inmuebles a efecto de que se proceda a realizar las inscripciones correspondientes.
 
 ###### ARTÍCULO 230.
 
@@ -3058,3 +3082,13 @@ P.O. 31 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 2013, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero de 2014, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La tabla que contiene los plazos y periodos de pago del Impuesto Sobre Tenencia y Uso de Vehículos, correspondiente a la reforma del artículo 37 de la Ley de Hacienda contenida en el artículo segundo del presente Decreto, será aplicable a partir del 1° de enero del 2015. Entretanto, los contribuyentes pagarán el Impuesto a que se refiere el mismo en los meses de enero, febrero, marzo y abril.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+CUARTO. Se abroga la Ley Estatal de Estímulos Fiscales para el Ejercicio Fiscal 2003, publicada en el Periódico Oficial del Estado de Hidalgo de fecha 30 de diciembre de 2002, dentro del Decreto número 16, expedido por la LVIII Legislatura Local.
