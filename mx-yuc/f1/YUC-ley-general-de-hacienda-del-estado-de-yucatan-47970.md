@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2013-12-19"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 20, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 29 DE DICIEMBRE DE 2012, EL CAPÍTULO IV, DEL TÍTULO III DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -1091,21 +1091,29 @@ ARTÍCULO 47 F.- Tratándose de vehículos nuevos el impuesto se determinará de
 
 l.- Para los vehículos de hasta 15 pasajeros, vehículos blindados y los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
 
-TABLA
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-Límite Límite Cuota fija Tasa para aplicarse
+l.- Para los vehículos de hasta 15 pasajeros, vehículos blindados y los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
 
-inferior $ superior $ $ sobre el excedente del límite inferior %
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2013)</small>
 
-0.01 477,347.76 0.00 3.0
+TARIFA
 
-477,347.77 918,629.24 14,320.43 8.7
+Límite Límite Cuota fija Tasa para aplicar al
 
-918,629.25 1,234,739.54 52,711.92 13.3
+inferior $ superior $ $ excedente del
 
-1,234,739.55 1,550,849.83 94,754.59 16.8
+límite inferior %
 
-1,550,849.84 En adelante 147,861.11 19.1
+0.01 613,592.94 0 3
+
+613,592.95 1,180,824.52 18,407.35 8.7
+
+1,180,824.53 1,575,509.20 67,756.80 13.3
+
+1,575,509.21 1,993,495.77 121,799.77 16.8
+
+1,993,495.78 en adelante 190,063.22 19.1
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1133,13 +1141,13 @@ IV.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, moto
 
 V.- Tratándose de motocicletas, bicimotos, cuatrimotos, motonetas y triciclos automotores que sean nuevas, el impuesto se calculará aplicando al valor total del vehículo la siguiente tarifa:
 
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2013)</small>
+
 TARIFA
 
 Límite inferior Límite superior Cuota fija Tasa para
 
-$ $ $ aplicarse
-
-sobre el
+$ $ $ aplicar al
 
 excedente
 
@@ -1147,15 +1155,17 @@ del límite
 
 inferior %
 
-0.01 200,000.00 0.00 3
+0.01 257,084.38 0 3
 
-200,000.01 275,046.93 6,000.00 8.7
+257,084.39 353,551.51 7,712.73 8.7
 
-275,046.94 369,693.57 12,529.08 13.3
+353,551.52 475,211.41 16,105.14 13.3
 
-369,693.58 En adelante 25,117.08 16.8
+475,211.42 en adelante 32,285.91 16.8
 
-VI.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00, para aeronaves de reacción, y
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VI.- Tratándose de aeronaves nuevas de pistón, turbohélice y helicópteros, la cantidad será de $8,168.00 y para aeronaves nuevas de reacción la cantidad será de $8,799.00.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1207,19 +1217,19 @@ b).- El resultado obtenido conforme al inciso anterior se actualizará conforme 
 
 c).- En el caso de aeronaves y helicópteros de más de diez años de fabricación, el impuesto se pagará conforme a lo siguiente:
 
-CUOTA
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2013)</small>
 
-TIPO DE VEHÍCULOS $
+Tipo de aeronave Cuota
 
-AERONAVES:
+$
 
-Pistón o Hélice 2,115.74
+Pistón (Hélice) 2,464.88
 
-Turbohélice 11,710.12
+Turbohélice 13,643.36
 
-Reacción 16,918.38
+Reacción 19,707.66
 
-HELICÓPTEROS 2,600.99
+Helicópteros 3,029.56
 
 El monto de las cuotas establecidas en la tabla anterior se actualizará de conformidad al segundo párrafo de la fracción VII del artículo 47-F de esta Ley.
 
@@ -4626,3 +4636,7 @@ En tanto no se expida el holograma a que se refiere el artículo 85-M de la Ley 
 ###### ARTÍCULO OCTAVO.
 
 A partir de la entrada en vigor de este Decreto se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido del mismo.
+
+D.O. 31 DE DICIEMBRE DE 2013.
+
+ÚNICO. Este Acuerdo entrará en vigor el día 1 de enero del año 2014 previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
