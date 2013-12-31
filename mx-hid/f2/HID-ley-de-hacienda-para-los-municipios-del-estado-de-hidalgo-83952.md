@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2013-01-28"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 341 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -147,11 +145,13 @@ VII.- Los comisariados o representantes ejidales en los términos de la ley de l
 
 VIII.- Los adquirentes de predios en relación al impuesto y sus accesorios insolutos a la fecha de la adquisición; en todo caso los predios quedarán preferentemente afectados al pago del impuesto y sus accesorios, independientemente de quien detente la propiedad o posesión de los mismos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 12.
 
-Están exentos del pago del impuesto predial los bienes del dominio público propiedad de los gobiernos Federal, Estatal y Municipal, siempre que estos estén destinados a prestar un servicio público.
-
-Para que se reconozca el beneficio previsto en el párrafo que antecede será necesario que los interesados lo soliciten por escrito a la Tesorería Municipal debiendo fundar debidamente su petición y presentarla en un plazo no mayor de 30 días contados a partir de que se realice cualquier gestión de cobro por parte de la autoridad.
+Están exentos del pago del impuesto predial los bienes propiedad de la Federación, del Estado y de los municipios, siempre que estos estén destinados a prestar un servicio público.
 
 ###### ARTÍCULO 13.
 
@@ -369,7 +369,11 @@ IV.- Naturaleza del acto o concepto de la adquisición;
 
 V.- Publicación, nomenclatura, superficie y linderos del predio;
 
-VI.- Antecedentes de propiedad del inmueble en el Registro Público de la Propiedad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VI.- Antecedentes de propiedad del inmueble en el Registro Público de la Propiedad y del Comercio;
 
 VII.- Valor gravable que se haya determinado por la institución que hubiere efectuado el avalúo y la fecha de éste;
 
@@ -415,7 +419,11 @@ III.- Tratándose de adquisiciones efectuadas a través de fideicomisos, cuando 
 
 IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva; y,
 
-V.- En los no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escrituras públicas o se inscriban en el Registro Público de la Propiedad, para poder surtir efectos ante terceros en los términos del derecho común, y si no están sujetos a ésta formalidad, al adquirirse el dominio conforme a las Leyes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+V.- En los no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escrituras públicas o se inscriban en el Registro Público de la Propiedad y del Comercio, para poder surtir efectos ante terceros en los términos del derecho común, y si no están sujetos a ésta formalidad, al adquirirse el dominio conforme a las leyes.
 
 El contribuyente podrá pagar el impuesto por anticipado
 
@@ -457,7 +465,11 @@ I.- En las adquisiciones por las instituciones de asistencia o de beneficencia, 
 
 II.- En las adquisiciones que se realicen al constituir o disolver la sociedad conyugal; así como en el acto en que se cambien las capitulaciones matrimoniales. No queda incluida en esta fracción la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal;
 
-III.- En las adquisiciones por el Estado y los Municipios en casos de reciprocidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+III.- En las adquisiciones por el Estado y los municipios;
 
 IV.- (DEROGADA, P.O. 21 DE MAYO DE 2012)
 
@@ -633,11 +645,29 @@ Los montos correspondientes deberán estar determinados en la Ley de Ingresos de
 
 Una vez instalados los medidores, el pago de los derechos por consumo de agua potable se determinara de conformidad con las cuotas y tarifas establecidas en la Ley de Ingresos para cada Municipio de conformidad con el Artículo 5o de este ordenamiento, salvo el supuesto previsto en el Artículo 71 de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 71.
 
-En los Municipios en los que exista organismo operador para la administración y prestación de este servicio público, incluso en los que este organismo público atienda a dos o más Municipios, para la determinación y pago de este derecho será aplicable el decreto anual de cuotas y tarifas de dicho organismo operador, el cual deberá ser aprobado por el Congreso del Estado y publicado en el Periódico Oficial del Estado.
+En los municipios en los que exista organismo operador para la administración y prestación de este servicio público, incluso en los que dichos organismos operadores atiendan a dos o más municipios, las cuotas y tarifas correspondientes a los derechos a que se refiere la presente Sección serán aquellos que como proyecto proponga el órgano de gobierno respectivo, deberán incluirse por el Ayuntamiento correspondiente en su respectiva propuesta de Ley de Ingresos, para su eventual aprobación por el Congreso del Estado Libre y Soberano de Hidalgo, mismas que deberán ser publicadas en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
 
-Para el caso de que dicho decreto no sea publicado en términos del párrafo anterior, continuarán en vigor los aprobados para el año anterior, o los del último que cubra este requisito.
+SMGAGHr es el Salario Mínimo General para el Área Geográfica que corresponde al Estado de Hidalgo vigente en el mes en que se realiza la actualización.
+
+SMGAGHa es el Salario Mínimo General para el Área Geográfica que corresponde al Estado de Hidalgo vigente en el mes inmediato anterior al que se realiza la actualización.
+
+CFEr es la tarifa por consumo de energía eléctrica que la Comisión Federal de Electricidad establece para el prestador de servicios y que se encuentra vigente en el mes en que se realiza la actualización.
+
+CFEa es la tarifa por consumo de energía eléctrica que la Comisión Federal de Electricidad establece para el prestador de servicios y que se encuentra vigente en el mes inmediato anterior a aquél en que se realiza la actualización.
+
+En ningún caso el factor de actualización será menor a la unidad y tampoco será menor al que hubiese resultado de haber considerado exclusivamente la variación en el Índice Nacional de Precios al Consumidor.
+
+Las tarifas actualizadas a que se refiere el presente artículo serán utilizadas para calcular los derechos por suministro de agua que correspondan al mes siguiente en que estas hubieran sido actualizadas.
+
+Los cálculos relativos a la actualización a que se refiere el presente artículo serán elaborados por el prestador de los servicios, a más tardar el día 15 del mes de que se trate, y serán validados por la Secretaría de Finanzas y Administración del Estado de Hidalgo, previo a su entrada en vigor.
+
+Las cuotas y tarifas actualizadas y validadas, serán publicadas en el portal de Internet del prestador de servicios y de la Secretaría de Finanzas y Administración del Estado de Hidalgo, debiendo mantener en dichos portales, cuando menos, las correspondientes a todos los meses de calendario de los últimos cinco ejercicios fiscales.
 
 #### SECCIÓN TERCERA. DERECHOS POR SERVICIOS DE DRENAJE Y ALCANTARILLADO
 
@@ -1740,3 +1770,13 @@ P.O. 31 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 2013, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero de 2014, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La tabla que contiene los plazos y periodos de pago del Impuesto Sobre Tenencia y Uso de Vehículos, correspondiente a la reforma del artículo 37 de la Ley de Hacienda contenida en el artículo segundo del presente Decreto, será aplicable a partir del 1° de enero del 2015. Entretanto, los contribuyentes pagarán el Impuesto a que se refiere el mismo en los meses de enero, febrero, marzo y abril.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+CUARTO. Se abroga la Ley Estatal de Estímulos Fiscales para el Ejercicio Fiscal 2003, publicada en el Periódico Oficial del Estado de Hidalgo de fecha 30 de diciembre de 2002, dentro del Decreto número 16, expedido por la LVIII Legislatura Local.
