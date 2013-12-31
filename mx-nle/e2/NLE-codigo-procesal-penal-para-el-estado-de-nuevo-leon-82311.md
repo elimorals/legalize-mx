@@ -4,7 +4,7 @@ identifier: "NLE-codigo-procesal-penal-para-el-estado-de-nuevo-leon-82311"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-07-05"
-last_updated: "2013-07-10"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el martes 5 de julio de 2011.
 
@@ -959,7 +959,9 @@ III. El imputado haya sufrido, a consecuencia del hecho, daño físico o psicol�
 
 IV. La pena o medida de seguridad que pueda imponerse por el hecho de cuya persecución se prescinde, carezca de importancia en consideración a la pena o medida de seguridad ya impuesta, o a la que se debe esperar por otros hechos, o la que se le impuso o se le impondría en un proceso tramitado en otro fuero.
 
-El Agente del Ministerio Público aplicará los criterios de oportunidad y otras facultades discrecionales sobre la base de razones objetivas y sin discriminación, valorando las pautas descritas en cada caso individual, según los criterios generales que al efecto se hayan dispuesto por la Procuraduría General de Justicia del Estado. En los casos en que se verifique un daño, éste deberá ser previamente reparado en forma razonable. En el supuesto de la fracción II de este artículo, no será un requisito indispensable el pago de la reparación del daño cuando el imputado a favor del cual se ejerce el criterio de oportunidad carezca de los recursos económicos o bienes suficientes para cubrir la misma. Quedando a salvo los derechos de la víctima u ofendido para reclamar al imputado el pago de la reparación del daño.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+El Agente del Ministerio Público aplicará los criterios de oportunidad y otras facultades discrecionales sobre la base de razones objetivas y sin discriminación, valorando las pautas descritas en cada caso individual, según los criterios generales que al efecto se hayan dispuesto por la Procuraduría General de Justicia del Estado. En los casos en que se verifique un daño, éste deberá ser previamente reparado en forma razonable o estar garantizada la reparación del mismo. En el supuesto de la fracción II de este artículo, no será un requisito indispensable el pago de la reparación del daño cuando el imputado a favor del cual se ejerce el criterio de oportunidad carezca de los recursos económicos o bienes suficientes para cubrir la misma. Quedando a salvo los derechos de la víctima u ofendido para reclamar al imputado el pago de la reparación del daño.
 
 ###### Artículo 95.
 
@@ -2563,6 +2565,18 @@ VII. La víctima y el imputado o condenado tendrán derecho a consultar a un abo
 
 VIII. No se obligará a declarar a las personas que hayan participado en un mecanismo de justicia alternativa, en relación con la información obtenida o sobre la cual tuvieron conocimiento durante el desarrollo de dichos métodos alternos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+En los casos en que por la muerte de la víctima, o por incapacidad temporal o permanente de esta, resulte imposible su participación en el proceso de justicia alternativa, el mismo podrá desarrollarse a través de la parte ofendida por el delito.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Los procesos de justicia alternativa deberán desarrollarse siempre entre la víctima u ofendido y el imputado. Únicamente en los casos de delitos culposos cometidos en la conducción de vehículos, este proceso podrá llevarse a cabo a través de los representantes legales de las partes y ambas partes manifiesten de forma expresa su consentimiento para ello.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+En los casos de los dos últimos párrafos, se requerirá autorización del Agente del Ministerio Público, o en su caso por el Juez.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 224.
@@ -2619,7 +2633,9 @@ IV. En los que admitan presumiblemente la sustitución de sanciones o condena co
 
 V. Así como en aquellos cuya pena máxima de prisión no exceda de ocho años.
 
-Se exceptúan de esta disposición los delitos de carácter sexual; los cometidos en perjuicio de menores de edad; los de violencia familiar; los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción; y los cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Se exceptúan de esta disposición los delitos de carácter sexual; los delitos dolosos cometidos en perjuicio de menores de edad cuando tengan como resultado un daño grave a su integridad física o psicológica; los de violencia familiar; los homicidios culposos que se cometan con culpa grave; y los cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -3933,11 +3949,15 @@ Restricción judicial.
 
 Los jueces que en el mismo asunto hayan intervenido en las etapas anteriores a la del juicio oral, no podrán intervenir en esta etapa.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 344.
 
-Fecha y citaciones.
+Fecha y Citaciones
 
-El Juez o Tribunal del Juicio Oral Penal competente fijará fecha para la celebración de la audiencia oral dentro de los treinta días hábiles siguientes de haber recibido el asunto y acordará sean citados todos quienes deban concurrir a ella. El imputado deberá ser citado al menos con cinco días de anticipación en caso de estar libre, bajo el apercibimiento de que si no comparece sin causa justificada, se ordenará su aprehensión, se modificará la medida cautelar impuesta y se suspenderá el proceso, todo en los términos de los artículos 147 y 178 de este Código.
+El Juez o Tribunal del Juicio Oral Penal competente fijará fecha para la celebración de la audiencia oral dentro de un plazo no menor de veinte días hábiles ni mayor a sesenta, contados a partir de haber recibido el asunto, y acordará sean citados todos quienes deban concurrir a ella.
+
+El imputado deberá ser citado al menos con cinco días de anticipación en caso de estar libre, bajo el apercibimiento de que si no comparece sin causa justificada, se ordenará su aprehensión, se modificará la medida cautelar impuesta y se suspenderá el proceso, todo en los términos de los artículos 147 y 178 de este Código.
 
 ###### Artículo 345.
 
@@ -4336,6 +4356,14 @@ Auxiliar memoria y evidenciar contradicciones.
 Cuando el imputado o el testigo esté emitiendo declaración y a solicitud de cualquiera de las partes, se podrá leer, pedir al testigo que lea o reproducir en el interrogatorio parte o partes de sus declaraciones anteriores rendidas ante la Policía, el Ministerio Público o el Juez, o que consten en documentos por ellos elaborados, cuando sea necesario para auxiliar la memoria de quien declara, o demostrar o superar contradicciones entre ellas y las manifestadas en la audiencia o para solicitar las aclaraciones pertinentes.
 
 Con los mismos objetivos se podrá leer durante la declaración de un perito, partes del dictamen pericial que él haya elaborado, o leer o reproducir declaraciones por él realizadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 382 Bis.
+
+Prueba superviniente.
+
+Cuando alguna de las partes, tenga conocimiento de una prueba superviniente, respecto de la cual hubiere desconocido su existencia, para ofrecerla oportunamente en la etapa intermedia deberá ofrecerla antes del cierre del debate de la audiencia de juicio oral. En este caso el Juez, tomando en cuenta la opinión de la otra parte, resolverá lo conducente, siempre salvaguardando la oportunidad de la parte o partes no oferentes de la prueba para preparar los contrainterrogatorios de testigos y peritos en su caso y para, en su oportunidad, ofrecer la práctica de diversas diligencias en el sentido de controvertir la ordenada.
 
 ###### Artículo 383.
 
@@ -5371,19 +5399,25 @@ Artículo 195, 206, 206 Bis, 207, 211 en relación con el Artículo 212 fracció
 
 A partir del 1º de enero de 2014 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Artículo 174, 175, 177, 187 en relación al 186, 196, 197 Bis, 208, 209, 223, 224, 225, 225 Bis, 225 Bis 1, 225 Bis 2, 226 Bis, 240, 242, 243, 244 Bis, 245, 247, 254 Bis, 271 Bis 2, 287, Homicidio simple previsto en el Artículo 308 en relación al 312, Homicidio en riña previsto por el Artículo 308 en relación al 313, Homicidio en estado de emoción violenta previsto por el Artículo 308 en relación al 320; 322, 327 en relación al 328, 327 en relación al 329, 327 en relación al 330, 331 Bis.
+Artículo 174, 187 en relación al 186, 196, 197, 197 Bis, 199, 208, 209, 223, 224, 225, 225 Bis, 225 Bis 1, 225 Bis 2, 240, 242, 243, 244 Bis, 245, 247, 254 Bis, 265, 266, 266 Bis, 267, 268, 269, 270 Bis, 271, 287, 331 Bis. La modalidad de la conducta contenida en el artículo 177 se aplicará a partir de esta fecha, sólo a los delitos que sean procesados bajo las reglas del Código Procesal Penal para el Estado de Nuevo León.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+A partir del 1º de abril de 2014 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
+
+Artículos 223 Bis, 249, 250 Bis, 251, 297, 299, 299 Bis, 363 Bis 4, el Robo, exceptuando los que se ejecuten con violencia, previstos en los artículos 364, 365, 365 Bis 1, 369, 370, 373, 374 con excepción del último párrafo, 375, Abuso de confianza previsto en los artículos 381, 383, 384, Fraude previsto en los artículos 385, 386, 388, 390, 391 y Administración fraudulenta previsto en el artículo 396.
 
 A partir del 1º de enero de 2015 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Artículo 150, 151, 152, 153, 154, 158, 160, 161, 163, 164, 165, 265, 266, 267, 268, 271, 364 en relación al 367 fracción III, 369, 381, 383, 384, 385, 386, 387, 387 Bis, 391, 392, 396, 397, 401, 406 Bis, 410 segundo párrafo en relación al 409 fracción IV, 427, 428, 429, 431.
+Artículo 150, 151, 152, 153, 154, 158, 160, 161, 163, 164, 165, Robos, incluyendo los cometidos con violencia, previstos en los artículos 364, 365, 365 Bis, 365 Bis 1, 369, 371, 372, 374, 387, 387 Bis, 397, 401, 406 Bis, 410 segundo párrafo en relación al 409 fracción IV, 427, 428, 429, 431.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-A partir de 1º de enero de 2016, se aplicará a todos los delitos tipificados en el Código Penal para el Estado de Nuevo León; a otros delitos especiales previstos en los ordenamientos legales; al delito de secuestro en cualquiera de sus modalidades establecidas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y al delito de trata de personas en cualquiera de sus modalidades que dispone la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+A partir de 1º de abril de 2015, se aplicará a todos los delitos tipificados en el Código Penal para el Estado de Nuevo León y a los delitos especiales previstos en otros ordenamientos legales.
 
 Para aquéllos delitos que de acuerdo con las reglas anteriores aún no les fuera aplicable el Código establecido en el presente Decreto, se seguirá aplicando el Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado en fecha 28 de marzo de 1990 y sus reformas.
 
@@ -5446,3 +5480,7 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del decreto por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública publicado el 30 de noviembre de 2010 en el Diario Oficial de la Federación y los Artículos Transitorios Décimo y Décimo Primero del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública, publicado el 14 de junio de 2012 en el Diario Oficial de la Federación.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
