@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2013-07-06"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -333,11 +333,11 @@ I. Aplicar la política general dictada por el Ejecutivo y los programas en mate
 
 II. Desahogar el procedimiento para otorgar, revocar, modificar, suspender, o declarar la nulidad de concesiones y permisos para la prestación del servicio de transporte público en cualquiera de sus modalidades, y emitir opinión al titular del Ejecutivo Estado para autorizar las cesiones de las mismas, en los casos previstos por esta Ley, así como para que se anulen, revoquen o suspendan;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Autorizar y revisar, por sí o a través de la Dirección General de Comunicaciones y Transportes, o la del Transporte Colectivo Metropolitano, según corresponda, con acuerdo del titular del Ejecutivo y, en su caso, previo análisis y recomendación del Consejo, las rutas, horarios, itinerarios, tablas de distancia, terminales, paraderos, y todo aquello relacionado con la operación eficiente del servicio de transporte público en las vías de comunicación de jurisdicción estatal.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Previo a las autorizaciones a que se refiere el párrafo precedente, se tomará en cuenta para la determinación de los conceptos antes señalados, la propuesta de los ayuntamientos involucrados;
+III. Autorizar y revisar el ajuste a las tarifas del servicio de transporte público, y por sí, o a través de las direcciones generales de, Comunicaciones y Transportes; o Transporte Colectivo Metropolitano, según corresponda; y, en su caso, previo análisis y recomendación del Consejo, las rutas, horarios, itinerarios, tablas de distancia, terminales, paraderos, y todo aquello relacionado con la operación eficiente del servicio de transporte público en las vías de comunicación de jurisdicción estatal;
 
 IV. Ordenar los procedimientos de inspección y vigilancia del servicio del transporte público, en los términos de esta Ley y demás disposiciones aplicables;
 
@@ -967,7 +967,7 @@ I. Relativos a las condiciones de operación:
 
 a) Las frecuencias serán establecidas por la Secretaría, en función de la programación del servicio para cada ruta o sistema de rutas.
 
-b) La Secretaría establecerá manuales de operación de los sistemas integrales de rutas, cuyos términos y especificaciones de servicio serán obligatorios para los concesionarios.
+b) La Secretaría establecerá manuales de operación de los sistemas integrales de rutas, cuyos términos y especificaciones de servicío serán obligatorios para los concesionarios.
 
 c) Bajo los esquemas que establezca la propia Secretaría, los concesionarios serán corresponsables de la supervisión y mejora del servicio, eliminando desviaciones en la aplicación de horarios, frecuencia de paso y cupo.
 
@@ -1059,9 +1059,11 @@ III. En relación a los esquemas tarifarios, los concesionarios y operadores se 
 
 a) Utilizar los esquemas, aditamentos y equipamiento auxiliar que, previa opinión del Consejo Estatal de Transporte, determine el titular del Ejecutivo.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b) Aplicar en estricto apego las tarifas que el Congreso del Estado remita al ejecutivo del Estado en el marco de esta Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+b). Aplicar en estricto apego las tarifas vigentes.
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 2012)</small>
 
@@ -1361,17 +1363,23 @@ Las tarifas previamente autorizadas se incrementarán en la medida y porcentaje 
 
 Cuando del incremento resulten tarifas cuyo importe comprendan fracciones de la unidad monetaria que no sean múltiplos de diez centavos, se ajustará el monto del importe de las tarifas, al múltiplo de diez centavos más próximo.
 
-Las tarifas que resulten del incremento, serán remitidas por el Congreso del Estado al Poder Ejecutivo, para su publicación en el Periódico Oficial del Estado, y comenzarán a aplicarse quince días después de la fecha en que sean vigentes los incrementos al Salario Mínimo General del área geográfica correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+Los incrementos que resulten a las tarifas serán remitidos por la Secretaría de Comunicaciones y Transportes para su publicación en el Periódico Oficial del Estado, y comenzarán a aplicarse quince días después de la fecha en que sean vigentes los incrementos al Salario Mínimo General del área geográfica correspondiente.
 
 ###### ARTICULO 95.
 
 La Secretaría establecerá los sistemas para el cobro de tarifas del servicio público y los sistemas de prepago, incorporando en lo posible los avances tecnológicos existentes. En la aplicación de tarifas, los sistemas de prepago son obligatorios para los concesionarios del servicio urbano colectivo de primera y segunda clase e interurbano. Respecto a los servicios de automóvil de alquiler en sitio y ruleteo, es obligatoria la utilización del taxímetro o cualquier otro dispositivo que establezca la propia Secretaría, así como la expedición de recibos de pago, cuando el usuario lo solicite.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 96.
 
-Tomando en cuenta las circunstancias particulares de los usuarios, las situaciones de interés social y la conveniencia de optimizar o acreditar el servicio de transporte público, el Congreso del Estado podrá autorizar el establecimiento de tarifas especiales, que se aplicarán de manera general e impersonal a sectores específicos de la población, en beneficio de los menores de seis años, estudiantes, personas con discapacidad, adultos mayores y jubilados.
+Tomando en cuenta el interés social, la Secretaría podrá autorizar el establecimiento de tarifas especiales que se aplicarán de manera general en beneficio de sectores específicos de la población, tales como: los menores de seis años; estudiantes; personas con discapacidad; adultos mayores, y jubilados; (sic)
 
 ###### ARTICULO 97.
 
@@ -1619,7 +1627,9 @@ II. Proponer al titular del Ejecutivo del Estado, programas y acciones de carác
 
 III. Llevar un registro de los principales indicadores y estadísticas en materia del servicio de transporte público;
 
-IV. Opinar sobre la fijación de las tarifas del servicio de transporte público;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 V. Establecer mecanismos de coordinación, comunicación e intercambio de Información, con entidades públicas y privadas relacionadas con el servicio de transporte público;
 
@@ -1627,9 +1637,11 @@ VI. Opinar sobre la elaboración del Programa Estatal de Transporte;
 
 VII. Gestionar ante los tres órdenes de gobierno, los programas y acciones que tengan como fin la creación, ampliación o modificación de las vías de comunicación, para impulsar la seguridad y eficiencia de este servicio;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII. Conocer las opiniones y recomendaciones de los consejos municipales de transporte, aportando los elementos que consideren necesarios para ser sometidos a la consideración del Ejecutivo y del Congreso del Estado, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VIII. Conocer las opiniones y recomendaciones de los consejos municipales de transporte, aportando los elementos que considere necesarios para ser sometidos a la consideración de la Secretaría, y
 
 IX. Vigilar la aplicación de los métodos de control y evaluación del servicio.
 
@@ -1723,7 +1735,7 @@ III. El quórum se integrará, en primera convocatoria, con la presencia de la m
 
 IV. Para el caso de segunda o ulterior convocatoria, el quórum se integrará con los miembros presentes, y los acuerdos se tomarán por la mayoría simple de los presentes a la hora de la votación;
 
-V. Las resoluciones emitidas por el Consejo Municipal de Transporte Público tendrán carácter de recomendaciones, a fin de que el Ejecutivo tome las mejores opciones qué atiendan el interés social en la materia. Cada uno de sus miembros tendrá derecho a voz y voto durante las sesiones del mismo. El Presidente del Consejo tendrá voto de calidad en caso de empate en las votaciones;
+V. Las resoluciones emitidas por el Consejo Municipal de Transporte Público tendrán carácter de recomendaciones, a fin de que el Ejecutivo tome las mejores opciones que atiendan el interés social en la materia. Cada uno de sus miembros tendrá derecho a voz y voto durante las sesiones del mismo. El Presidente del Consejo tendrá voto de calidad en caso de empate en las votaciones;
 
 VI. El secretario técnico levantará el acta correspondiente de cada sesión; asimismo será el relator de los proyectos, solicitudes y, en general, de los asuntos que se desahoguen en el Consejo;
 
@@ -1917,7 +1929,7 @@ La Secretaría, en un término no mayor de quince días hábiles, notificará la
 
 En los casos no dispuestos por la presente Ley, se aplicará de manera supletoria la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
 
-## TITULO DECIMO SEXTO. DEL RECURSO DE REVlSION
+## TITULO DECIMO SEXTO. DEL RECURSO DE REVISION
 
 ###### ARTICULO 134.
 
@@ -2058,3 +2070,9 @@ P.O. 6 DE JULIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de 2014, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
