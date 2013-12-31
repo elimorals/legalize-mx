@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-47647"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2011-12-29"
+last_updated: "2013-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 28 de diciembre de 2005.
 
@@ -1488,3 +1490,21 @@ ARTÍCULO SEGUNDO (SIC). Los vehículos de las personas físicas y morales tened
 ###### ARTÍCULO TERCERO.
 
 Dése cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del H. Congreso del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley de Hacienda del Estado de Michoacán de Ocampo, entrará en vigor el día 1º primero de enero de 2014, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Hacienda del Estado de Michoacán de Ocampo, publicada el 28 de diciembre de 2005, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El Decreto Legislativo N° 126 publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, N° 21, Tomo CLVII, Sección Sexta, el 25 de junio del año 2013, reforma entre otros el artículo 132 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para modificar la denominación de Secretaría de Finanzas y Administración, por Secretaría de Finanzas, sin embargo, en esta Ley se hace referencia a la Secretaría de Finanzas y Administración; atendiendo a lo dispuesto por el Artículo Tercero Transitorio de dicho Decreto Legislativo, que señala «Los artículos 57, 61, 63, 123, 131, 132, 159 y 160, en lo que ve a la nueva denominación y atribuciones de la Secretaría de Finanzas, entrarán en vigor al momento en que inicie la vigencia de la normatividad que la regule».
+
+###### ARTÍCULO TERCERO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo.
