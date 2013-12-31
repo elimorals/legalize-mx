@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2013-09-06"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -1627,45 +1627,17 @@ Queda prohibido la circulación de automotores que emitan contaminantes, cuyos n
 
 La autoridad correspondiente podrá limitar la circulación de vehículos automotores en el Estado, incluyendo los que cuenten con placas expedidas por otra (sic) entidades federativas o en el extranjero, para prevenir y reducir las emisiones contaminantes, conforme a lo previsto por el Programa de Verificación Vehicular que expida la Secretaría, y en su caso, los reglamentos municipales que se emitan al respecto.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 118.
 
-Los propietarios o poseedores de vehículos automotores en circulación deberán someter sus unidades a la verificación de emisiones contaminantes en los centros de verificación, dentro del periodo que le corresponda, de acuerdo al último dígito de las placas de circulación del vehículo, así como obtener la constancia de verificación de emisiones en la que se señale que se cumple con los límites máximos permisibles que establezcan las normas oficiales mexicanas y demás aplicables, revalidándola anualmente, en los siguientes términos:
+Los propietarios o poseedores de vehículos automotores en circulación deberán someter sus unidades a la verificación de emisores contaminantes en los centros de verificación dentro del periodo que le corresponda en los términos del Programa de Verificación Vehicular, así como obtener la constancia de verificación de emisores en la que se señale que se cumple con los límites máximos permisibles que establezca dicho Programa, las normas oficiales mexicanas y demás aplicables, y revalidarla anualmente.
 
-Último digito de la placa Periodo de verificación
+En su caso, los propietarios o poseedores de vehículos automotores deberán reparar los sistemas de emisores de contaminantes de éstos y sustituir los equipos y dispositivos que no funcionen adecuadamente en aquellos, en los términos que determine el Programa de Verificación Vehicular.
 
-de circulación
+El propietario o poseedor de un vehículo automotor que no haya realizado la verificación dentro del periodo que le corresponda, de acuerdo al calendario establecido en el Programa de Verificación Vehicular, deberá trasladarse en un término de treinta días naturales, únicamente a un taller mecánico o a un centro de verificación.
 
-1 Enero-Febrero
-
-2 Febrero-Marzo
-
-3 Marzo-Abril
-
-4 Abril-Mayo
-
-5 Mayo-Junio
-
-6 Junio-Julio
-
-7 Julio-Agosto
-
-8 Agosto-Septiembre
-
-9 Septiembre-Octubre
-
-0 Noviembre-Diciembre
-
-Lo anterior, sin perjuicio de que los propietarios o poseedores de los vehículos puedan verificar de manera anticipada al mes calendario que le corresponda.
-
-En su caso, los propietarios o poseedores de vehículos automotores deberán reparar los sistemas de emisiones de contaminantes de éstos y sustituir los equipos y dispositivos que no funcionen adecuadamente en aquellos, en los términos que determine el Programa de Verificación Vehicular.
-
-El propietario o poseedor de un vehículo automotor que no haya realizado la verificación dentro del periodo que le corresponda, de acuerdo al calendario establecido en la ley, deberá trasladarse en un término de treinta días naturales, únicamente a un taller mecánico o a un centro de verificación.
-
-Los propietarios y/o poseedores que incumplan con la verificación en el periodo determinado en el Calendario, se harán acreedores a una multa administrativa de 5 a 8 días de salario mínimo general vigente, contando con 30 días naturales para cumplir con la respectiva verificación.
-
-El cobro correspondiente de pago de la multa que expida la Secretaría de Planeación y Finanzas será exhibido ante el Centro, por el propietario y/o poseedor, cuando acuda a realizar la verificación correspondiente, lo anterior sin perjuicio de la multa que la autoridad municipal determine en los reglamentos de tránsito correspondientes.
+Las sanciones por el incumplimiento a lo previsto en el presente artículo serán determinadas, exclusivamente, conforme a los reglamentos municipales en materia de tránsito, que en su caso se emitan.
 
 (NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2812,3 +2784,9 @@ P.O. 2 DE AGOSTO DE 2013.
 P.O. 6 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- No se encontrarán obligados a la realización de la verificación vehicular exigida conforme a la Ley de Protección al Ambiente para el Estado de Baja California, y a la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California, los propietarios o poseedores de vehículos con domicilio y registro vehicular en los valles de Ensenada, San Felipe, el Valle de Mexicali Y Delegaciones Municipales del Municipio de Tecate, dado que no existen centros de verificación vehicular en dichas localidades.
