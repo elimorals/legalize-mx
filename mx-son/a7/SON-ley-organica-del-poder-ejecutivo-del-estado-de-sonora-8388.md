@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2013-06-27"
+last_updated: "2013-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ABRIL DE 2014 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -53,9 +55,9 @@ El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomin
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos de orden administrativo que correspondan al Poder Ejecutivo, la administración pública será directa y paraestatal.
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2013)</small>
 
-Integran la administración pública directa las siguientes Dependencias: Secretarías y Procuraduría General de Justicia del Estado.
+Integran la administración pública directa las siguientes dependencias: Secretarías, Oficialía Mayor y Procuraduría General de Justicia del Estado.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -81,11 +83,11 @@ La constitución de las empresas de participación estatal mayoritaria, de las s
 
 Las leyes, decretos, reglamentos, acuerdos, circulares y órdenes que suscriba el Gobernador del Estado, en ejercicio de sus funciones constitucionales, en todo caso, deberán ser refrendados con la firma del Secretario de Gobierno y comunicados por éste. Sin este requisito no surtirán efectos legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 7o.
 
-Corresponde al Gobernador del Estado nombrar y remover libremente a los Secretarios, al Procurador General de Justicia del Estado y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad.
+Corresponde al Gobernador del Estado nombrar y remover libremente a los Secretarios, al Oficial Mayor, al Procurador General de Justicia y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad.
 
 > <small>(REFORMADO, B.O. 19 DE JUNIO DE 1986)</small>
 
@@ -137,9 +139,11 @@ Los titulares de las dependencias a que se refiere esta ley ejercerán sus funci
 
 Al frente de cada Secretaría habrá un Secretario, quien para el despacho de los asuntos de su competencia se auxiliará por los subsecretarios, directores, subdirectores y demás funcionarios y empleados que autorice el Presupuesto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 13.
 
-(DEROGADO, B.O. 17 DE DICIEMBRE DE 1992)
+Al frente de la Oficialía Mayor habrá un Oficial Mayor, quien para el despacho de los asuntos de su competencia se auxiliará por los subsecretarios, coordinadores ejecutivos, directores generales, directores, subdirectores y demás funcionarios y empleados que autorice el presupuesto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -204,6 +208,10 @@ Para el estudio, planeación y despacho de los negocios del orden administrativo
 I.- Secretaría de Gobierno.
 
 II.- Secretaría de Hacienda.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+
+II Bis.- Oficialía Mayor;
 
 III.- Secretaría de la Contraloría General.
 
@@ -311,31 +319,13 @@ IV.- Participar en la coordinación de giras de trabajo, eventos especiales y c�
 
 A la Secretaría de Hacienda le corresponden las facultades y obligaciones siguientes:
 
-A. En materia de planeación:
-
-I.- Formular y aplicar la política hacendaria, de gasto público y de deuda pública, del Gobierno del Estado;
-
-II.- Representar a la Hacienda Pública del Estado por delegación del Gobernador, en los términos de la fracción XIX del artículo 79 de la Constitución Política Local;
-
-III.- Proyectar y coordinar las actividades de planeación del desarrollo estatal, así como promover las acciones que de su instrumentación se deriven;
-
-IV.- Elaborar el Plan Estatal de Desarrollo, con la participación de los sectores público, privado y social, en los términos de la Ley de Planeación, y someterlo a la consideración y aprobación del Titular del Poder Ejecutivo; asimismo someter a la consideración del Ejecutivo las propuestas de adecuación al propio Plan Estatal de Desarrollo;
-
-V.- Proyectar y coordinar, con la participación que corresponde a los Gobiernos Municipales, la planeación regional en el Estado;
-
-VI.- Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas que se deriven del Plan Estatal de Desarrollo, y elaborar los programas especiales que le señale el Gobernador del Estado, verificando su ejecución;
-
-VII.- Coordinar las actividades del Comité Estatal de Planeación para el Desarrollo del Estado de Sonora;
-
-VIII.- Procurar la congruencia entre las acciones de la Administración Pública Estatal y los objetivos y prioridades del Plan Estatal de Desarrollo, y vigilar el cumplimiento de las disposiciones estatales en materia de planeación, programación, programación, presupuestación y evaluación;
-
-IX.- Integrar los programas operativos anuales globales, de acuerdo con los objetivos y prioridades del Plan Estatal de Desarrollo; y
-
-X.- Ejecutar los convenios que en materia de acciones de planeación, programación, presupuestación y fiscalización, celebre el Gobierno del Estado con la Federación o municipios, así como vigilar que se efectúen las acciones convenidas con dichos órdenes de gobierno.
+A. (DEROGADO, B.O. 31 DE DICIEMBRE DE 2013)
 
 B. En materia de ingresos:
 
-I.- Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el saneamiento financiero de la Administración Pública Estatal;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+
+I.- Formular la política hacendaria de ingresos y de deuda pública del Gobierno del Estado, aplicándola para proyectar y calcular los ingresos del Estado, considerando las previsiones del gasto público;
 
 II. Intervenir en el estudio de proyectos de leyes y disposiciones impositivas; formular y proponer al Gobernador del Estado los proyectos de las leyes anuales de ingresos y presupuestos de ingresos del Estado;
 
@@ -365,27 +355,33 @@ XIV.- Proyectar, para su incorporación en la Ley de Ingresos y el Presupuesto d
 
 C. En materia de egresos:
 
-I.- Proyectar y calcular los egresos del Gobierno del Estado y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos y en la atención a las necesidades y políticas del desarrollo estatal;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
 
-II.- Formular y proponer al Gobernador del Estado, los proyectos de presupuesto de egresos del Estado y el programa financiero estatal;
+I.- Coordinarse con la Oficialía Mayor con el objeto de que la proyección y cálculo de los egresos sean compatibles con la disponibilidad de recursos y en atención a las necesidades y políticas del desarrollo estatal;
 
-III.- Autorizar a las dependencias y entidades de la Administración Pública Estatal, el ejercicio del gasto público asignado a sus programas, conforme a la calendarización respectiva;
+II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
 
-IV.- Realizar los trámites y registros que requiera la vigilancia, seguimiento y evaluación del ejercicio del gasto público estatal y del presupuesto de egresos;
+III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
 
-V. Autorizar el pago de los gastos que afecten el presupuesto de egresos del Estado, de conformidad con los programas, presupuesto y calendarios financieros aprobados;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IV.- Realizar los trámites y registros del ejercicio del gasto público estatal y del presupuesto de egresos;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+
+V.- Realizar el pago de los gastos que afecten el presupuesto de egresos del Estado, de conformidad con los programas, presupuesto y calendarios financieros aprobados por la Oficialía Mayor;
 
 VI.- Cubrir con cargo a las partidas respectivas del presupuesto de egresos del Estado, los pagos correspondientes al ejercicio del gasto público estatal;
 
-VII.- Autorizar las ampliaciones y reducciones de los recursos asignados a los programas a cargo de las dependencias y de las entidades incorporadas al presupuesto de egresos del Estado. Asimismo, opinar, a solicitud de la coordinadora de sector, sobre las modificaciones presupuestales de las entidades no incorporadas al presupuesto de egresos mencionado;
+VII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
 
 VIII.- Verificar que los subsidios y transferencias de fondos, realizados por el Ejecutivo del Estado, con cargo a su propio presupuesto, en favor de los municipios o de instituciones de los sectores social y privado, se apliquen en los términos establecidos en los programas aprobados al efecto;
 
 IX.- Realizar o celebrar las operaciones en que se haga uso del crédito público;
 
-X.- Normar la planeación, programación, presupuestación, ejecución y evaluación de las obras públicas que realicen o contraten las dependencias y entidades de la Administración Pública Estatal, conforme a las leyes respectivas; y
+X.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
 
-XI.- Evaluar, periódicamente, la relación que guarden los programas y presupuestos de las dependencias y entidades de la Administración Pública Estatal, con los objetivos y prioridades del Plan Estatal de Desarrollo, así como los resultados de su ejecución, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y adecuar, en su caso, el Plan y los programas respectivos.
+XI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
 
 D. En materia catastral y registral:
 
@@ -395,29 +391,31 @@ II.- Organizar y vigilar el ejercicio de las funciones del Registro Público de 
 
 III.- Resguardar en el Registro Público de la Propiedad las declaraciones patrimoniales de los servidores públicos que se reciban para su inscripción y registro, en los términos de la ley de la materia.
 
-E.- En materia de bebidas alcohólicas:
+E. En materia de bebidas alcohólicas:
 
 I.- Expedir las disposiciones administrativas de carácter general que establezcan los criterios de interpretación para la aplicación de las disposiciones de las leyes y reglamentos en materia de bebidas con contenido alcohólico, así como difundirlas por los medios de comunicación para su conocimiento pleno; y
 
 II. Expedir o cancelar, en su caso, las licencias para la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, almacenamiento, distribución, transportación, venta y consumo de bebidas con contenido alcohólico.
 
-F.- En materia de administración e informática:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2013)</small>
 
-I.- Establecer normas, lineamientos y políticas en materia de administración, organización, remuneración, capacitación, profesionalización y desarrollo del personal de la administración pública directa;
+F. En materia de sistemas de información:
 
-II.- Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la administración estatal directa y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
+I.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
 
-III.- Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado;
+II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
 
-IV.- Expedir para efectos administrativos en el ámbito de su competencia, las disposiciones que establezcan los criterios de interpretación para la aplicación de las disposiciones de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal; así como fijar los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios sobre dichos bienes muebles; y
+IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
 V.- Establecer las normas y procedimientos para la organización, coordinación y funcionamiento de los sistemas de información que permitan integrar y consolidar los proyectos presupuestarios, informes, reportes, estados financieros y demás instrumentos relacionados con la planeación, presupuestación, ejercicio y rendición de cuentas a cargo del Ejecutivo del Estado.
 
-G.- En materia de contabilidad, evaluación y estadística:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2013)</small>
+
+G. En materia de contabilidad gubernamental y rendición de cuentas:
 
 I.- Integrar la Cuenta Pública del Gobierno del Estado y someterla a la consideración del Gobernador para los efectos constitucionales correspondientes;
 
@@ -425,13 +423,75 @@ II.- Establecer y operar el sistema de contabilidad gubernamental del Gobierno d
 
 III.- Autorizar los catálogos de cuentas para la contabilidad del gasto público estatal de las entidades, y consolidar los estados financieros que emanen de las contabilidades de las mismas;
 
-IV.- Integrar la información necesaria para la formulación del informe que, sobre el estado que guarda la administración pública, debe rendir el Gobernador del Estado, así como para el informe sobre finanzas públicas trimestrales e informes de ejecución del Plan Estatal de Desarrollo; y
+IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
 
-V.- Determinar las directrices, estándares y procedimientos necesarios para la integración de información socioeconómica y financiera, con el objetivo de conformar índices estadísticos y elaborar el Anuario Estadístico en coordinación con el Instituto Nacional de Estadística, Geografía e Informática.
+V.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VI.- Representar a la Hacienda Pública del Estado por delegación del Gobernador, en los términos de la fracción XIX del artículo 79 de la Constitución Política Local; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII.- Integrar, en coordinación con Oficialía Mayor, la información necesaria para la formulación del informe que, sobre el estado que guarda la administración pública, debe rendir el Gobernador del Estado, así como para los informes periódicos de las finanzas públicas e informe de ejecución del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 25.
 
-(DEROGADO, B.O. 18 DE DICIEMBRE DE 2003)
+A la Oficialía Mayor le corresponden las facultades y obligaciones siguientes:
+
+A. En materia de planeación del desarrollo:
+
+I.- Formular la política de gasto público del Gobierno del Estado;
+
+II.- Proyectar y coordinar las actividades de planeación del desarrollo estatal, así como promover las acciones que de su instrumentación se deriven;
+
+III.- Elaborar el Plan Estatal de Desarrollo, con la participación de los sectores público, privado y social, en los términos de la Ley de Planeación y someterlo a la consideración y aprobación del titular del Poder Ejecutivo; asimismo someter a la consideración del Ejecutivo las propuestas de adecuación al propio Plan Estatal de Desarrollo;
+
+IV.- Proyectar y coordinar, con la participación que corresponde a los Gobiernos Municipales, la planeación regional en el Estado;
+
+V.- Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas que se deriven del Plan Estatal de Desarrollo, y elaborar los programas especiales que le señale el Gobernador del Estado, verificando su ejecución;
+
+VI.- Coordinar las actividades del Comité Estatal de Planeación para el Desarrollo del Estado de Sonora;
+
+VII.- Procurar la congruencia entre las acciones de la Administración Pública Estatal y los objetivos y prioridades del Plan Estatal de Desarrollo, y vigilar el cumplimiento de las disposiciones estatales en materia de planeación, programación, presupuestación y evaluación;
+
+VIII.- Integrar los programas operativos anuales globales, de acuerdo con los objetivos y prioridades del Plan Estatal de Desarrollo; y
+
+IX.- Supervisar que los convenios celebrados por el Gobierno del Estado con la federación o municipio, que comprometan recursos o afecten el presupuesto del Gobierno del Estado, estén respaldados por planeación, programación y presupuestación previa.
+
+B. En materia de programación del gasto, evaluación y estadística:
+
+I.- Proyectar y calcular los egresos del Gobierno del Estado y de la administración pública paraestatal en atención a las necesidades y políticas del desarrollo estatal;
+
+II.- Formular y proponer al Gobernador del Estado, los proyectos de presupuesto de egresos del Estado y el programa financiero estatal;
+
+III.- Autorizar a las dependencias y entidades de la Administración Pública Estatal, el ejercicio del gasto público asignado a sus programas, conforme a la calendarización respectiva;
+
+IV.- Autorizar las ampliaciones y reducciones de los recursos asignados a los programas a cargo de las dependencias y de las entidades incorporadas al presupuesto de egresos del Estado. Asimismo, opinar, a solicitud de la coordinadora de sector, sobre las modificaciones presupuéstales de las entidades no incorporadas al presupuesto de egresos mencionado;
+
+V.- Normar la planeación, programación, presupuestación, ejecución y evaluación de las obras públicas que realicen o contraten las dependencias y entidades de la Administración Pública Estatal, conforme a las leyes respectivas;
+
+VI.- Evaluar, periódicamente, la relación que guarden los programas y presupuestos de las dependencias y entidades de la Administración Pública Estatal, con los objetivos y prioridades del Plan Estatal de desarrollo, así como los resultados de su ejecución, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y adecuar, en su caso, el Plan y los programas respectivos;
+
+VII.- Proporcionar a la Secretaría de Hacienda la información con los resultados de los programas y presupuestos de las dependencias y entidades de la Administración Pública Estatal que le permita formular a dicha dependencia los informes correspondientes;
+
+VIII.- Determinar las directrices, estándares y procedimientos necesarios para la integración de información socioeconómica y financiera; y
+
+IX.- Organizar e instrumentar un sistema de información y estadística para la planeación del desarrollo y tener bajo su custodia y responsabilidad las estadísticas del Poder Ejecutivo Estatal.
+
+C. En materia de administración:
+
+I.- Establecer normas, lineamientos y políticas en materia de administración, organización, remuneración, capacitación, profesionalización y desarrollo del personal de la administración pública estatal;
+
+II.- Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la administración estatal y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
+
+III.- Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado;
+
+IV.- Expedir para efectos administrativos en el ámbito de su competencia, las disposiciones que establezcan los criterios de interpretación para la aplicación de las disposiciones de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal; así como fijar los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios sobre dichos bienes muebles; y
+
+V.- Establecer las disposiciones para la celebración de contratos que por servicios profesionales de cualquier índole requieran establecer las dependencias y entidades, vigilando su debido cumplimiento.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -1897,7 +1957,7 @@ Los asuntos en trámite que con motivo de este Decreto deban pasar de la Secreta
 
 ###### ARTÍCULO SEXTO.
 
-Los procedimientos en los que sea parte la Secretaría Ejecutiva de Seguridad Pública y que la (sic) entrada en vigor del presente Decreto se encuentren en trámite ante alguna autoridad, los continuará tramitando hasta su total conclusión la Secretaría de Seguridad Pública.
+Los procedimientos en los que sea parte la Secretaría Ejecutiva de Seguridad Pública y que (sic) la entrada en vigor del presente Decreto se encuentren en trámite ante alguna autoridad, los continuará tramitando hasta su total conclusión la Secretaría de Seguridad Pública.
 
 ###### ARTICULO SÉPTIMO.
 
@@ -1912,3 +1972,23 @@ B.O. 27 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 31 DE DICIEMBRE DE 2013.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+El titular del Poder Ejecutivo del Estado dentro de un plazo no mayor de ciento ochenta días, contados a partir de la entrada en vigor de la presente Ley, publicará el Reglamento Interior de la Oficialía Mayor; así como la actualización del Reglamento Interior de la Secretaría de Hacienda.
+
+###### ARTICULO TERCERO.
+
+La Secretaría de Hacienda deberá realizar los actos administrativos necesarios para transferir todos los recursos humanos, financieros y materiales que en el ejercicio de sus atribuciones venía utilizando dicha Secretaría y que en virtud de la presente reforma pasarán a conformar la Oficialía Mayor.
+
+Los derechos de los trabajadores que se transfieren a la Oficialía Mayor se respetarán en los términos de las disposiciones jurídicas aplicables.
+
+###### ARTICULO CUARTO.
+
+Las atribuciones que en otras leyes y en reglamentos se otorgan a la Secretaría de Hacienda, se tendrán por conferidas a la Oficialía Mayor que de conformidad con esta Ley asume dichas atribuciones.
