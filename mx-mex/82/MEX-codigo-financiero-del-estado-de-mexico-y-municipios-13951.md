@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-12-19"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 172, PUBLICADO EN LA G.G. DE 2 DE DICIEMBRE DE 2013, VÉASE ARTÍCULO SEGUNDO TRANSITORIO.</small>
-
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. 19 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2014, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO Y PUBLICADA EN LA G.G. DE 1 DE ENERO DE 2014.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -3155,9 +3153,9 @@ DEL CALCULO DEL IMPUESTO
 
 Artículo 60 E.- Este impuesto se calculará como a continuación se indica:
 
-I. En el caso de automóviles destinados al transporte particular de hasta quince pasajeros, motocicletas y embarcaciones, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2014)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE ENERO DE 2013)</small>
+I. En el caso de automóviles destinados al transporte particular de hasta quince pasajeros, motocicletas y embarcaciones, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
 A). El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
@@ -3165,7 +3163,7 @@ TABLA
 
 Años de Factor de
 
-antigüedad depreciación
+Antigüedad depreciación
 
 0 1
 
@@ -3187,39 +3185,37 @@ antigüedad depreciación
 
 9 0.075
 
-10 y en adelante 0.030
+10 en adelante 0.030
 
-B). La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con el factor de actualización determinado con base en lo establecido en el primer párrafo del artículo 60 C de este Código;
-
-C). Al resultado obtenido en el inciso anterior, se le aplicará la tarifa siguiente:
-
-TARIFA
-
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+B). La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con el factor de actualización determinado con base en lo establecido en el primer párrafo del artículo 60 C de este Código.
 
 C). Al resultado obtenido en el inciso anterior, se le aplicará la tarifa siguiente:
 
 TARIFA
 
-Valor total del Vehículo Cuota fija Tasa para aplicarse
+Valor total del Vehículo
 
-Límite inferior Límite superior $ sobre el excedente
+Tasa para aplicarse
 
-$ $ del límite inferior %
+sobre el excedente
 
-0.01 565,114.92 0.00 3.0
+del límite inferior %
 
-565,114.93 1,087,532.27 16,953.44 8.7
+Límite Limite Cuota
 
-1,087,532.28 1,461,763.94 62,403.75 13.3
+inferior$ superior $ fija $
 
-1,461,763.95 1,835,995.60 112,176.57 16.8
+0.01 585,564.69 0.00 3.0
 
-1,835,995.61 En adelante 175,047.47 19.1
+585,564.70 1,126,886.71 17,566.93 8.7
 
-Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80;
+1,126,886.72 1,514,660.67 64,661.95 13.3
 
-> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
+1,514,660.68 1,902,434.62 116,235.89 16.8
+
+1,902,434.63 En adelante 181,381.90 19.1
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
 
 Para el caso de automóviles de servicio público de transporte que pasen a ser de servicio particular, el impuesto se calculará conforme a esta fracción para el ejercicio fiscal siguiente a aquel en el que se dé esta circunstancia.
 
@@ -3277,11 +3273,9 @@ II. Aquellos cuyas emisiones de bióxido de carbono sean menores a 100 gramos po
 
 Dicha tasa aplicará siempre y cuando no se modifiquen las características originales del motor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2014)
 
-(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
-Artículo 60 G.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la capacidad de carga de la aeronave, expresado en toneladas, por la cantidad de $10,255.28 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $11,046.20 Para aeronaves de reacción.
+Artículo 60 G.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la capacidad de carga de la aeronave, expresado en toneladas, por la cantidad $10,626.39 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $11,445.93 para aeronaves de reacción.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -11929,7 +11923,7 @@ Zona B. Municipios de Medio Impacto; son aquellos que presentan una población m
 
 Zona C. Municipios de Bajo Impacto; son aquellos con baja densidad poblacional cuyos habitantes se encuentran distantes unos de otros, con una actividad predominantemente de tipo agrícola o ganadera, sin desarrollo industrial o comercial. Estos son: Acambay, Acolman, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Apaxco, Atenco, Atizapán, Atlautla, Axapusco, Ayapango, Calimaya, Coatepec Harinas, Cocotitlán, Chapa de Mota, Chapultepec, Chiautla, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Jilotzingo, Jiquipilco, Jocotitlán, Joquicingo, Juchitepec, Luvianos, Malinalco, Mexicalzingo, Morelos, Nextlalpan, Nopaltepec, Ocuilán, Otumba, Otzoloapan, Otzolotepec, Papalotla, Polotitlán, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Martín de las Pirámides, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temamatla, Temascalapa, Temascalcingo, Temascaltepec, Temoaya, Tenango del Aire, Tenango del Valle, Teoloyucan, Teotihuacan, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcaltitlán, Texcalyacac, Tezoyuca, Timilpan, Tlalmanalco, Tlatlaya, Tonatico, Tonanitla, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Xalatlaco, Zacazonapan, Zacualpan y Zumpahuacán.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 216-D.
 
@@ -16915,31 +16909,31 @@ CUARTO.- El Registro Estatal de Especialistas en Valuación y en Levantamiento T
 
 QUINTO.- En los casos en que este Código y otras disposiciones legales refieran al Impuesto Sobre Tenencia o Uso de Vehículos Automotores (ISTUVA), se entenderá que se refiere al Impuesto contenido en la Sección Segunda del Capítulo Primero del Título Tercero de este Código.
 
-> <small>(REFORMADO Y ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2014)
 
-SEXTO.- El artículo 60-E no será aplicable para vehículos cuyo año modelo sea más antiguo que 2002. Los contribuyentes obligados al pago del Impuesto Sobre Tenencia o Uso de Vehículos establecido en la Sección Segunda del Capítulo Primero del Título Tercero del Código Financiero del Estado de México y Municipios respecto de estos vehículos, lo calcularán conforme a lo siguiente:
+SEXTO.- El artículo 60 E no será aplicable para vehículos cuyo modelo sea más antiguo que 2002. Los contribuyentes obligados al Impuesto Sobre Tenencia o Uso de Vehículos establecido en la Sección Segunda del Capítulo Primero del Título Tercero del Código Financiero del Estado de México y Municipios respecto de estos vehículos, lo calcularán conforme a lo siguiente:
 
-I. En el caso de vehículos de uso particular, la determinación será atendiendo al número de cilindros del motor, conforme a lo siguiente:
+I. En el caso de vehículo de uso particular, la determinación será atendiendo al número de cilindros del motor, conforme a lo siguiente:
 
-NÚMERO DE CILINDROS TARIFA
+Número de cilindros TARIFA
 
-Hasta 4 $261
+Hasta 4 $274
 
-De 5 a 6 $781
+De 5 a 6 $818
 
-De más de 6 $975
+De más de 6 $1,022
 
-II. En el caso de motocicletas, motonetas, trimotos y cudrimotos (sic), la determinación será atendiendo a los centímetros cúbicos del motor, conforme a lo siguiente:
+II. En el caso de motocicletas, motonetas, trimotos y cudrimotos (sic), la determinación será atendiendo a los centímetros cúbicos del motor, conforme a los (sic) siguiente:
 
-1. Cilindrada hasta 200 c.c. $220
+1. Cilindrada hasta 200 c.c. $231
 
-2. Cilindrada de 201 c.c. en adelante $373
+2. Cilindrada de 201 c.c. en adelante $391
 
-III. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $810.
+III. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $849.
 
-Tratándose de vehículos de servicio público de transporte de pasajeros que pasen a ser de servicio particular, no pagarán el impuesto previsto en este artículo en el año que esta circunstancia ocurra, siempre y cuando se encuentren al corriente en el pago de esta contribución.
+Tratándose de vehículos de servicio público de transporte de pasajeros que pasen a ser de servicio particular, no pagarán el impuesto previsto en este artículo en el año en que esta circunstancia ocurra, siempre y cuando se encuentren al corriente en el pago de esta contribución.
 
-IV. En el caso de vehículos de carga o de arrastre, con placas de servicio particular o de servicio público se pagará una cuota de $181, por cada tonelada o fracción de capacidad de carga, o de arrastre, según corresponda. Si se acredita con la tarjeta de circulación respectiva que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
+IV. En el caso de vehículos de carga o de arrastre, con placas de servicio particular o de servicio público se pagará una cuota de $190, por cada tonelada o fracción de capacidad de carga, o de arrastre, según corresponda. Si se acredita con la tarjeta de circulación respectiva que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
 
 Estas tarifas se actualizarán cada ejercicio fiscal, aplicando el factor de actualización a que hace referencia el artículo 70 del Código Financiero del Estado de México y Municipios.
 
@@ -17148,3 +17142,9 @@ TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o
 CUARTO.- El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
 
 QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
+
+G.G. 1 DE ENERO DE 2014.
+
+Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+Segundo.- Hágase del conocimiento de las Dependencias de la Administración Pública del Gobierno del Estado de México, y de las Unidades Administrativas de la Subsecretaría de Ingresos.
