@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2009-del-pleno-del-consejo-de-la-68556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-27"
-last_updated: "2013-04-19"
+last_updated: "2014-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2009-04-15"
 
 ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 19 DE ABRIL DE 2013 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN EL D.O.F. DE 9 DE ABRIL DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de mayo de 2009.
 
@@ -49,9 +47,11 @@ ACUERDO
 
 ### Capítulo 1. De las Sesiones
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
+
 ###### Artículo 1.
 
-Las sesiones de los tribunales colegiados de Circuito serán ordinarias y extraordinarias. Ordinarias son las que se establezcan conforme al artículo 5, fracción I, de este Acuerdo; extraordinarias serás (sic) las adicionales a las anteriores, incluidas las que deban realizarse para resolver los recursos de queja a que se refiere el artículo 99 último párrafo de la Ley de Amparo.
+Las sesiones de los tribunales colegiados de Circuito serán ordinarias y extraordinarias. Ordinarias son las que se establezcan conforme al artículo 5, fracción I, de este Acuerdo; extraordinarias serás (sic) las adicionales a las anteriores, incluidas las que deban realizarse para resolver los recursos de queja a que se refiere el artículo 97, fracción I, inciso b) de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 2.
 
@@ -87,9 +87,11 @@ IV. El orden en que corresponderá la discusión de los asuntos de cada ponencia
 
 V. El número mínimo de asuntos que cada magistrado procurará listar en cada sesión, así como un límite máximo, en el entendido de que previo acuerdo, éste podrá variar atendiendo a la carga de trabajo que presente el tribunal o a causas extraordinarias, lo que deberá asentarse en el acta de la sesión respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
+
 ###### Artículo 6.
 
-Cada ponencia entregará a las otras dos con tres días de anticipación, el listado de los asuntos y proyectos que pondrá a consideración del tribunal, de conformidad con lo establecido en el artículo 34 de la Ley Orgánica del Poder Judicial de la Federación.
+Cada ponencia entregará a las otras dos, la lista de los asuntos que deban verse en cada sesión y los proyectos respectivos, a más tardar el día de la publicación a la que se refiere el artículo 184, párrafo primero, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Este listado se fijará en los estrados del tribunal, identificando los asuntos, el día y la hora de inicio de la sesión, y el orden en que se discutirán de conformidad con el acuerdo al que hace referencia el artículo 5, fracción IV, de este Acuerdo.
 
@@ -99,9 +101,11 @@ Este listado se fijará en los estrados del tribunal, identificando los asuntos,
 
 El Presidente del tribunal, previo al inicio de la sesión, ordenará al Secretario de Acuerdos o a la persona designada que active el sistema de grabación de audio y video; hecho lo anterior, hará la declaración de inicio, haciendo mención de la fecha y la hora correspondientes.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
+
 ###### Artículo 8.
 
-Las sesiones se llevarán a cabo en la sala habilitada para tal efecto; además de los tres magistrados, únicamente asistirán el Secretario de Acuerdos, o en su caso, el secretario que el Pleno designe, con el objeto de que dé fe de lo actuado y, levante el acta correspondiente, así como el personal que el tribunal determine.
+Las sesiones se llevarán a cabo en la sala habilitada para tal efecto; además de los tres magistrados, asistirán el Secretario de Acuerdos, o en su caso, el secretario que el Pleno designe, con el objeto de que dé fe de lo actuado y, levante el acta correspondiente, así como el personal que el tribunal determine y el público en general, de acuerdo a la capacidad de espacio del Tribunal correspondiente.
 
 ###### Artículo 9.
 
@@ -147,9 +151,13 @@ VI. Organizar el orden de las sesiones. Al efecto, velará en todo momento por e
 
 VII. Las demás que le confieran las disposiciones legales y generales aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
+
 ###### Artículo 11.
 
-Iniciada la sesión, el Presidente instruirá al Secretario de Acuerdos para que dé cuenta con cada uno de los asuntos listados en el orden predeterminado; en la cuenta, el secretario mencionará los datos de identificación del expediente, como son el número de juicio o recurso, la autoridad responsable o que hubiera emitido la resolución recurrida, el acto reclamado o la resolución impugnada y el sentido de la propuesta.
+Iniciada la sesión, el magistrado ponente que corresponda, dará cuenta de los proyectos de resolución de los asuntos listados en el orden predeterminado en la lista publicada en los estrados del Tribunal; mencionando los datos de identificación del expediente, como son el número de juicio o recurso, la autoridad responsable o que hubiera emitido la resolución recurrida, el acto reclamado o la resolución impugnada y el sentido de la propuesta.
+
+En todo caso, el Secretario dará lectura a las constancias que señalen los Magistrados.
 
 ###### Artículo 12.
 
@@ -163,9 +171,13 @@ Después de haber intervenido los magistrados que desearon hacerlo, el President
 
 Cuando el asunto no amerite discusión ni debate el Presidente tomará la votación de manera económica.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
+
 ###### Artículo 14.
 
-El Secretario de Acuerdos que asista a la sesión, concluida la discusión, en los términos fijados en los artículos precedentes, tomará la votación correspondiente. La votación definirá el sentido del fallo.
+El Secretario de Acuerdos que asista a la sesión, concluida la discusión, en los términos fijados en los artículos precedentes, tomará la votación correspondiente; el Presidente del Tribunal hará la declaratoria correspondiente.
+
+La votación definirá el sentido del fallo.
 
 ###### Artículo 15.
 
@@ -181,11 +193,11 @@ Los asuntos se fallarán en el orden en que se listen. Si no pudieran despachars
 
 Ningún asunto podrá dejarse en lista, aplazarse o retirarse más de una ocasión excepto que exista causa justificada para ello.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 24/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2011)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
-Finalizado el debate de los asuntos de todas las ponencias y sin otro tema que tratar, el Presidente declarará concluida la sesión, señalando la hora de su terminación y ordenará al secretario que levante el acta correspondiente.
+Finalizado el debate de los asuntos de todas las ponencias y sin otro tema que tratar, el Presidente declarará concluida la sesión, señalando la hora de su terminación y ordenará al secretario que levante el acta correspondiente, y éste publicará la lista en los estrados del Tribunal.
 
 ### Capítulo 2. De la Videograbación
 
@@ -251,13 +263,11 @@ Transcurridos los noventa días, sin que el solicitante haya acudido a consultar
 
 El servidor público que haga uso indebido de los archivos digitales de las videograbaciones, será sancionado administrativamente en términos de la Ley Orgánica del Poder Judicial de la Federación.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
+
 ###### Artículo 24.
 
-A fin de difundir la videograbación de las sesiones, cada tribunal colegiado seleccionará los asuntos que a su consideración puedan ser publicados.
-
-En la selección referida se tomarán en cuenta los asuntos en los que se haya adoptado un criterio novedoso, relevante, importante o que la determinación emitida en las distintas materias, civil, administrativa, penal y laboral sea de trascendencia o pueda tener alto impacto en la sociedad.
-
-No serán difundidas aquéllas en las que los temas debatidos involucren aspectos relacionados con el honor, reputación y vida privada de las partes.
+A fin de difundir la videograbación de las sesiones públicas, cada tribunal colegiado seleccionará los asuntos que a su consideración deban difundirse, tomando en cuenta los asuntos en los que se haya adoptado un criterio novedoso, relevante, importante o que la determinación emitida en las distintas materias, civil, administrativa, penal y laboral sea de trascendencia o pueda tener alto impacto en la sociedad.
 
 > <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
@@ -348,3 +358,11 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. Se abroga cualquier disposición emitida con anterioridad que se oponga a lo señalado en el presente acuerdo.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, a los Acuerdos Generales correspondientes, conforme al texto que se reforma, adiciona o deroga en su caso particular.
+
+D.O.F. 2 DE ENERO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo, al diverso 16/2009, que regula las sesiones de los tribunales colegiados de Circuito y establece los lineamientos para su videograbación y difusión.
