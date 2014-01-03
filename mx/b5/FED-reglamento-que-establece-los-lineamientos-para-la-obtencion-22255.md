@@ -4,7 +4,7 @@ identifier: "FED-reglamento-que-establece-los-lineamientos-para-la-obtencion-222
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-06"
-last_updated: "2005-07-19"
+last_updated: "2014-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22255&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-10-24"
 ---
 # REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS PARA LA OBTENCION DEL DICTAMEN DE PROCEDENCIA TECNICA PARA LA ADQUISICION Y DESINCORPORACION DE BIENES Y LA CONTRATACION DE SERVICIOS INFORMATICOS
 
-REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS PARA LA OBTENCION DEL DICTAMEN DE PROCEDENCIA TECNICA PARA LA ADQUISICION Y DESINCORPORACION DE BIENES Y LA CONTRATACION DE SERVICIOS INFORMATICOS
+REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS PARA LA OBTENCIÓN DEL DICTAMEN DE PROCEDENCIA TÉCNICA PARA LA ADQUISICIÓN Y DESINCORPORACIÓN DE BIENES Y LA CONTRATACIÓN DE SERVICIOS INFORMATICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO Y SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ABROGA EL REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS PARA LA OBTENCIÓN DEL DICTAMEN DE PROCEDENCIA TÉCNICA PARA LA ADQUISICIÓN Y DESINCORPORACIÓN DE BIENES Y LA CONTRATACIÓN DE SERVICIOS INFORMÁTICOS, PUBLICADO EN EL D.O.F. DE 3 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL DÍA TREINTA Y UNO DE ENERO DEL AÑO DOS MIL CATORCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 6 de noviembre de 2001.
 
@@ -363,7 +365,7 @@ QUINTO.- El Secretario Ejecutivo editará a la brevedad posible el número de ej
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 24 de octubre de 2001.- El Consejero Presidente del Consejo General, José Woldenberg Karakowsky.- Rúbrica.- El Secretario del Consejo General, Fernando Zertuche Muñoz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 19 DE JULIO DE 2005.
 
@@ -398,3 +400,13 @@ CONSIDERACIONES
 3. No se deberá realizar la adquisición de tarjetas principales para computadora (motherboard) y/o procesadores para la actualización de equipos de cómputo.
 
 4. Para aquellos Bienes Informáticos que su costo sea menor a $3,000 y sus características técnicas no estén publicadas en la página de Intranet del Instituto, el Area Usuaria deberá solicitar la emisión del Dictamen de Procedencia Técnica.
+
+D.O.F. 3 DE ENERO DE 2014.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+Primero.- Se abroga el Reglamento que Establece los Lineamientos para la Obtención del Dictamen de Procedencia Técnica para la Adquisición y Desincorporación de Bienes y la Contratación de Servicios Informáticos.
+
+Segundo.- El presente Acuerdo entrará en vigor a partir del día treinta y uno de enero del año dos mil catorce.
+
+...
