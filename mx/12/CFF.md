@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2013-12-09"
+last_updated: "2014-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2013.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 3 DE ENERO DE 2014.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -940,6 +940,8 @@ Para determinar las contribuciones al comercio exterior, así como para pagar aq
 
 La equivalencia del peso mexicano con monedas extranjeras distintas al dólar de los Estados Unidos de América que regirá para efectos fiscales, se calculará multiplicando el tipo de cambio a que se refiere el párrafo tercero del presente artículo, por el equivalente en dólares de la moneda de que se trate, de acuerdo con la tabla que mensualmente publique el Banco de México durante la primera semana del mes inmediato siguiente a aquél al que corresponda.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
@@ -1230,13 +1232,13 @@ La devolución se aplicará primero a intereses y, posteriormente, a las cantida
 
 Las autoridades fiscales efectuarán la devolución mediante depósito en la cuenta del contribuyente que la solicita, para lo cual, éste deberá proporcionar en la solicitud de devolución o en la declaración correspondiente el número de su cuenta en los términos señalados en el párrafo sexto del artículo 22 de este Código. Para estos efectos, los estados de cuenta que expidan las instituciones financieras serán considerados como comprobante del pago de la devolución respectiva. En los casos en los que el día que venza el plazo a que se refiere el precepto citado no sea posible efectuar el depósito por causas imputables a la institución financiera designada por el contribuyente, dicho plazo se suspenderá hasta en tanto pueda efectuarse el depósito. También se suspenderá el plazo mencionado cuando no sea posible efectuar el depósito en la cuenta proporcionada por el contribuyente por ser ésta inexistente o haberse cancelado o cuando el número de la cuenta proporcionado por el contribuyente sea erróneo, hasta en tanto el contribuyente proporcione un número de cuenta válido.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 22-C.
 
-Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a $11,510.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
+Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a $12,860.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -1826,6 +1828,8 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 Para los efectos de este artículo, una vez que las autoridades fiscales hayan iniciado el ejercicio de sus facultades de comprobación no tendrán efectos las declaraciones complementarias de ejercicios anteriores que presenten los contribuyentes revisados cuando éstas tengan alguna repercusión en el ejercicio que se esté revisando.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
@@ -2047,6 +2051,8 @@ La información a que se refiere el párrafo anterior se deberá presentar a má
 ###### Artículo 32-H.
 
 A más tardar el 30 de junio del año inmediato posterior a la terminación del ejercicio de que se trate, los contribuyentes que a continuación se señalan, deberán presentar ante las autoridades fiscales, la declaración informativa sobre su situación fiscal que mediante reglas de carácter general establezca el Servicio de Administración Tributaria, a través de los medios y formatos que se señalen en dichas reglas.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $644,599,005.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
 
@@ -3188,11 +3194,11 @@ III. Que los depósitos en la cuenta bancaria del contribuyente que no correspon
 
 Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a $1,151,000.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a $1,285,670.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -3936,6 +3942,8 @@ A quien cometa las infracciones relacionadas con el Registro Federal de Contribu
 
 I. De $2,740.00 a $8,230.00, a las comprendidas en las fracciones I, II y VI.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
@@ -4268,13 +4276,13 @@ VIII. Para la señalada en la fracción VIII, la multa será de $52,060.00 a $15
 
 IX. De $8,230.00 a $27,440.00 para la establecida en la fracción IX.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO DÉCIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
-X. De $8,000.00 a $15,000.00, para la establecida en la fracción X.
+X. De $8,940.00 a $16,750.00, para la establecida en la fracción X.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4305,6 +4313,8 @@ XIV. De $8,230.00 a $19,200.00, para la establecida en la fracción XIV.
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XV. De $68,620.00 a $137,230.00, para la establecida en la fracción XV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4362,6 +4372,8 @@ XXIV. De $4,150.00 a $8,310.00, por cada constancia no proporcionada, para la es
 
 XXV. De $27,680.00 a $48,440.00 para la establecida en la fracción XXV. En el caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
@@ -4415,6 +4427,8 @@ XXXIV. De $16,870.00 a $28,110.00 por cada solicitud no atendida, para la señal
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 XXXV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4540,11 +4554,15 @@ IV. Para el supuesto de la fracción VII, las siguientes, según corresponda:
 
 a) De $12,070.00 a $69,000.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 b) De $1,210.00 a $2,410.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4557,6 +4575,8 @@ c) De $12,070.00 a $69,000.00 tratándose de contribuyentes que cuenten con la a
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 V. De $730.00 a $9,560.00 a la señalada en la fracción VI.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4573,6 +4593,8 @@ VII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VIII. De $5,490.00 a $27,440.00, a la comprendida en la fracción XIII.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4606,11 +4628,15 @@ XIII. De $1,380.00 a $4,150.00, a la señalada en la fracción XV, por cada oper
 
 XIV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 XV. De $10,980.00 a $109,790.00 a la comprendida en la fracción XVII.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4744,11 +4770,15 @@ VI. De $19,840.00 a $59,550.00 a la establecida en la fracción VI.
 
 VII. De $70.00 a $140.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de $279,507.00 a $559,014.00, por no proporcionar la información, a las señaladas en la fracción VII.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 VIII. De $253,030.00 a $281,150.00, a las establecidas en las fracciones VIII, IX y X.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4756,17 +4786,23 @@ VIII. De $253,030.00 a $281,150.00, a las establecidas en las fracciones VIII, I
 
 IX. De $253,030.00 a $281,150.00, a las establecidas en la fracción XI.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 X. De $50,000.00 a $60,000.00, a la establecida en la fracción XIV.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 XI. De $225,000.00 a $500,000.00, a la establecida en la fracción XII.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4948,6 +4984,8 @@ V. No acreditar que los marbetes o precintos fueron adquiridos legalmente.
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
@@ -4960,6 +4998,8 @@ I. De $50.00 a $100.00, a la comprendida en la fracción I, por cada marbete o p
 
 II. De $30.00 a $100.00 a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
@@ -4971,6 +5011,8 @@ III. De $20.00 a $50.00, a la comprendida en la fracción III, por cada envase o
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
 IV. De $30.00 a $90.00 la comprendida en la fracción IV, por cada envase vacío no destruido.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -5022,6 +5064,8 @@ I. No proporcionar o no poner a disposición de las autoridades fiscales la info
 
 II. No permitir a las autoridades fiscales la realización de las verificaciones en los establecimientos o domicilios de los mismos, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los citados artículos.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
@@ -5043,6 +5087,8 @@ En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, claus
 ###### Artículo 86-I.
 
 Cometen infracción quienes almacenen, vendan, enajenen o distribuyan en México cajetillas de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, que no contengan impreso el código de seguridad previsto en el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios, o el que contengan sea apócrifo, acorde con lo previsto en el artículo 19-A de la citada Ley.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -9349,3 +9395,7 @@ X. El plazo para el cómputo de la prescripción a que se refiere el párrafo qu
 Tratándose de los créditos fiscales exigibles con anterioridad al 1 de enero de 2005, el Servicio de Administración Tributaria tendrá un plazo máximo de dos años para hacer efectivo el cobro de dichos créditos contados a partir de la entrada en vigor del presente Decreto, siempre que se trate de créditos que no se encuentren controvertidos en dicho periodo; de controvertirse, el plazo máximo de dos años será suspendido.
 
 La aplicación de la presente fracción no configurará responsabilidad administrativa para servidores públicos encargados de la ejecución y cobro de créditos fiscales, siempre y cuando realicen las gestiones de cobro correspondientes.
+
+D.O.F. 3 DE ENERO DE 2014.
+
+LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
