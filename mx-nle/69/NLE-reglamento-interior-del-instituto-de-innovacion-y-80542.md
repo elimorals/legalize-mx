@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-instituto-de-innovacion-y-80542"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-01"
-last_updated: "2011-04-01"
+last_updated: "2014-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE INNOVACION Y TRANSFERENCIA DE TECNOLOGIA DE NUEVO LEON
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE INNOVACION Y TRANSFERENCIA DE TECNOLOGIA DE NUEVO LEON
+REGLAMENTO INTERIOR DEL INSTITUTO DE INNOVACIÓN Y TRANSFERENCIA DE TECNOLOGÍA DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de abril de 2011.
 
@@ -95,11 +95,17 @@ II. El Comité Ciudadano;
 
 III. El Director General:
 
-a) Dirección de Innovación y Nuevos Negocios;
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2014)</small>
 
-b) Dirección de Infraestructura Científica y Tecnológica y Redes de Investigación;
+a) Dirección de Innovación y Nuevos Negocios e Infraestructura Científica y Tecnológica;
 
-c) Dirección de Planeación, Posgrado, Divulgación y Cooperación Internacional; y
+b) (DEROGADO, P.O. 3 DE ENERO DE 2014)
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2014)</small>
+
+c) Dirección de Planeación, Posgrado, Divulgación y Cooperación Internacional y Redes de Investigación; y
+
+(REPUBLICADO, P.O. 3 DE ENERO DE 2014)
 
 d) Dirección de Administración y Finanzas.
 
@@ -117,6 +123,8 @@ I. Un Presidente, que será el Titular del Ejecutivo del Estado o la persona que
 
 II. Un Secretario, que será el Director General, con voz pero sin voto; y
 
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2014)</small>
+
 III. Seis vocales que serán los titulares de cada una de las siguientes dependencias y entidades de la Administración Pública Estatal:
 
 a. La Secretaría de Finanzas y Tesorería General de Estado;
@@ -125,7 +133,9 @@ b. La Secretaría de Desarrollo Económico;
 
 c. La Secretaría de Educación;
 
-d. La Oficina Ejecutiva de la Gubernatura;
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2014)</small>
+
+d) La Oficina Ejecutiva del Gobernador;
 
 e. La Coordinación de Ciencia y Tecnología de Nuevo León; y
 
@@ -177,9 +187,11 @@ II. Contarán con voz y voto dentro de la Junta de Gobierno.
 
 #### SECCIÓN TERCERA. DE LAS SESIONES DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2014)</small>
+
 ###### Artículo 13.
 
-A las sesiones acudirán preferentemente los titulares de las Dependencias señaladas en el Artículo 7 de este Reglamento, no obstante ello, cada miembro propietario podrá nombrar, por escrito, un suplente quien deberá tener un nivel inmediato inferior al del miembro propietario, con facultades y capacidades suficientes de decisión para que en caso de ausencia lo represente en las sesiones. El suplente no podrá delegar esta representación a ninguna otra persona.
+A las sesiones acudirán preferentemente los titulares de las dependencias y entidades de la Administración Pública Estatal señaladas en el Artículo 7 de este Reglamento, no obstante ello, cada miembro propietario podrá nombrar, por escrito, un suplente quien deberá tener un nivel inmediato inferior al del miembro propietario, con facultades y capacidades suficientes de decisión para que en caso de ausencia lo represente en las sesiones. El suplente no podrá delegar esta representación a ninguna otra persona.
 
 ###### Artículo 14.
 
@@ -303,11 +315,17 @@ En su carácter de Secretario Ejecutivo del Consejo General, el Director General
 
 Para el despacho de los asuntos de su competencia, el Instituto contará con las siguientes Unidades Administrativas:
 
-l. Dirección de Innovación y Nuevos Negocios;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2014)</small>
 
-II. Dirección de Infraestructura Científica, Tecnológica y Redes de Investigación;
+I. Dirección de Innovación y Nuevos Negocios e Infraestructura Científica y Tecnológica;
 
-III. Dirección de Planeación, Posgrado, Divulgación y Cooperación Internacional; y
+II. (DEROGADA, P.O. 3 DE ENERO DE 2014)
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2014)</small>
+
+III. Dirección de Planeación, Posgrado, Divulgación y Cooperación Internacional y Redes de Investigación; y
+
+(REPUBLICADA, P.O. 3 DE ENERO DE 2014)
 
 IV. Dirección de Administración y Finanzas.
 
@@ -349,9 +367,11 @@ XVI. Remitir a la Dirección de Administración y Finanzas, previo a la contesta
 
 XVII. Las demás que establezcan las disposiciones legales y administrativas aplicables, el presente Reglamento y las que le sean encomendadas por el Director General en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2014)</small>
+
 ###### Artículo 36.
 
-Corresponde a la Dirección de Innovación y Nuevos Negocios, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Innovación y Nuevos Negocios e Infraestructura Científica y Tecnológica, el ejercicio de las siguientes atribuciones:
 
 I. Promover, establecer y operar diversos instrumentos de fomento y apoyo a la creación de empresas de base tecnológica y al desarrollo tecnológico e innovación en las empresas existentes, entre otros, inversionistas ángeles, capital de riesgo, capital semilla, estímulos a la innovación, formación de consorcios;
 
@@ -371,43 +391,63 @@ VIII. Colaborar con instituciones, en la defensa y protección de la propiedad i
 
 IX. Proponer al Director General estrategias para el desarrollo tecnológico de la industria en sectores estratégicos industriales en el Estado, considerando para tal efecto la opinión del Comité Ciudadano, así como promover a nivel estatal, nacional y en el extranjero la competitividad en innovación de las empresas;
 
-X. Implementar las acciones derivadas en el ámbito de su competencia, de los diversos instrumentos de cooperación tecnológica nacional o internacional establecidos por el Instituto o por el Estado, y
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2014)</small>
 
-XI. Desempeñar las demás funciones que se establezcan en la Ley, en el presente Reglamento y las demás que le sean encomendadas por el Director General, en la esfera de su competencia.
+X. Implementar las acciones derivadas en el ámbito de su competencia; de los diversos instrumentos de cooperación tecnológica nacional o internacional establecidos por el Instituto o por el Estado;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XI. Promover el desarrollo de nuevos esquemas e instrumentos que propicien la potenciación de la infraestructura científica, tecnológica o de innovación en el Estado y el aprovechamiento de la existente;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XII. Desarrollar en el ámbito de su competencia las estrategias y acciones relacionadas con los bienes muebles o inmuebles para el fortalecimiento de la infraestructura científica y tecnológica en el Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XIII. Propiciar las acciones necesarias con las instancias locales, regionales o nacionales con el objeto de generar elementos de coordinación que fortalezcan la infraestructura científica, tecnológica y de innovación en el Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XIV. Realizar las acciones pertinentes que permitan el adecuado mantenimiento de la infraestructura científica y tecnológica que administra el Instituto y coadyuvar, en el ámbito de su competencia, con las acciones que permitan la creación y/o ampliación de los Parques Tecnológicos en el Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XV. Promover el uso de las incubadoras de alta tecnología en las diferentes áreas del conocimiento entre los emprendedores, empresas e investigadores;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XVI. Coadyuvar en el diseño de apoyos y propuestas de proyectos que promuevan la creación de centros de investigación y desarrollo tecnológico;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XVII. Apoyar mediante la emisión de los dictámenes correspondientes, respecto de la pertinencia para la creación de nuevos centros de investigación tecnológica en el Estado, en función de las necesidades y requerimientos del mismo y en congruencia con los avances de la tecnología a nivel nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XVIII. Apoyar en la atracción de empresas, universidades, instituciones y asociaciones a establecer centros de investigación, desarrollo tecnológico e innovación en el Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XIX. Ejecutar, dar seguimiento y evaluar los programas de cooperación técnica, científica y tecnológica que deriven de los convenios de cooperación internacional firmados por el Instituto en donde participe el parque tecnológico, así como participar en su diseño;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XX. Promover la participación del parque o parques tecnológicos estatales en asociaciones de parques tecnológicos en México y en el extranjero y mantener, o en su caso, establecer, relaciones estratégicas con otros parques para el intercambio de mejores prácticas, y
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XXI. Desempeñar las demás funciones que se establezcan en la Ley, en el presente Reglamento y las que le sean encomendadas por el Director General, en la esfera de su competencia.
 
 ###### Artículo 37.
 
-Corresponde a la Dirección de Infraestructura Científica, Tecnológica y Redes de Investigación, el ejercicio de las siguientes atribuciones:
+(DEROGADO, P.O. 3 DE ENERO DE 2014)
 
-I. Promover el desarrollo de nuevos esquemas e instrumentos que propicien la potenciación de la infraestructura científica, tecnológica o de innovación en el Estado y el aprovechamiento de la existente;
-
-II. Desarrollar en el ámbito de su competencia las estrategias y acciones relacionadas con los bienes muebles o inmuebles para el fortalecimiento de la infraestructura científica y tecnológica en el Estado;
-
-III. Propiciar las acciones necesarias con las instancias locales, regionales o nacionales con el objeto de generar elementos de coordinación que fortalezcan la infraestructura científica, tecnológica y de innovación en el Estado;
-
-IV. Realizar las acciones pertinentes que permitan el adecuado mantenimiento de la infraestructura científica y tecnológica que administra el Instituto y coadyuvar, en el ámbito de su competencia, con las acciones que permitan la creación y/o ampliación de los Parques Tecnológicos en el Estado;
-
-V. Establecer los elementos y acciones necesarias para propiciar la creación y vinculación de redes entre los centros de investigación y agrupamientos empresariales estratégicos, que potencien la infraestructura dedicada al desarrollo tecnológico e innovación y generen proyectos conjuntos;
-
-VI. Promover el uso de las incubadoras de alta tecnología en las diferentes áreas del conocimiento entre los emprendedores, empresas e investigadores;
-
-VII. Promover la inclusión de los conceptos de innovación en los agrupamientos empresariales estratégicos;
-
-VIII. Coadyuvar en el diseño de apoyos y propuestas de proyectos que promuevan la creación de centros de investigación y desarrollo tecnológico;
-
-IX. Apoyar mediante la emisión de los dictámenes correspondientes, respecto de la pertinencia para la creación de nuevos centros de investigación tecnológica en el Estado, en función de las necesidades y requerimientos del mismo y en congruencia con los avances de la tecnología a nivel nacional e internacional;
-
-X. Apoyar en la atracción de empresas, universidades, instituciones y asociaciones a establecer centros de investigación, desarrollo tecnológico e innovación en el Estado;
-
-XI. Ejecutar, dar seguimiento y evaluar los programas de cooperación técnica, científica y tecnológica que deriven de los convenios de cooperación internacional firmados por el Instituto en donde participe el parque tecnológico, así como participar en su diseño;
-
-XII. Promover la participación del parque o parques tecnológicos estatales en asociaciones de parques tecnológicos en México y en el extranjero y mantener, o en su caso, establecer, relaciones estratégicas con otros parques para el intercambio de mejores prácticas, y
-
-XIII. Desempeñar las demás funciones que se establezcan en la Ley, en el presente Reglamento y las que le sean encomendadas por el Director General, en la esfera de su competencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2014)</small>
 
 ###### Artículo 38.
 
-Corresponde a la Dirección de Planeación, Posgrado, Divulgación y Cooperación Internacional el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Planeación, Posgrado, Divulgación, Cooperación Internacional y Redes de Investigación, el ejercicio de las siguientes atribuciones:
 
 I. Formular y proponer al Director General con base en estudios de prospectiva, las políticas estatales y regionales en materia de desarrollo tecnológico, innovación, formación de capital humano, así como las estrategias de difusión de los planes y programas del Instituto;
 
@@ -443,9 +483,25 @@ XVI. Definir, planear y formular las estrategias de cooperación internacional t
 
 XVII. Coordinar con las áreas competentes del Estado de Nuevo León y del Instituto, así como con las instituciones nacionales correspondientes, la gestión de la cooperación internacional técnica, científica y tecnológica;
 
-XVIII. Proponer al Director General la realización de acciones coordinadas referentes a la economía y sociedad del conocimiento, para el fomento del desarrollo social y económico del Estado, y
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2014)</small>
 
-XIX. Desempeñar las demás funciones que se establezcan en la Ley, en el presente Reglamento y las que le sean encomendadas por el Director General, en el ámbito de su competencia.
+XVIII. Proponer al Director General la realización de acciones coordinadas referentes a la economía y sociedad del conocimiento, para el fomento del desarrollo social y económico del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XIX. Establecer los elementos y acciones necesarias para propiciar la creación y vinculación de redes entre los centros de investigación y Agrupamientos Empresariales estratégicos, que potencien la infraestructura dedicada al desarrollo tecnológico e innovación y generen proyectos conjuntos;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XX. Coadyuvar en la inclusión de los conceptos de innovación en los Agrupamientos Empresariales estratégicos;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XXI. Coadyuvar en la atracción de empresas, universidades, instituciones y asociaciones a establecer centros de investigación, desarrollo tecnológico e innovación en el Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XXII. Desempeñar las demás funciones que se establezcan en la Ley, en el presente Reglamento y las que le sean encomendadas por el Director General, en el ámbito de su competencia.
 
 ###### Artículo 39.
 
@@ -473,7 +529,9 @@ X. Elaborar y expedir el Manual de Organización y de Procedimientos del Institu
 
 XI. Instrumentar los actos jurídicos y administrativos que corresponderían al Director General para la ejecución de las resoluciones dictadas por el Órgano Interno de Control, conforme la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-XII. Ejecutar y llevar el seguimiento de los planes y programas de la Dirección;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2014)</small>
+
+XII. Coadyuvar en el seguimiento de los planes y programas de las Direcciones;
 
 XIII. Administrar los contratos y convenios que el Instituto lleve a cabo, relacionados con las materias competencia de la Dirección;
 
@@ -564,3 +622,9 @@ RODRIGO MEDINA DE LA CRUZ
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JAVIER TREVIÑO CANTÚ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ENERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
