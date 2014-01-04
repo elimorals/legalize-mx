@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2013-12-03"
+last_updated: "2014-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -1113,75 +1113,41 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones 
 
 ### CAPITULO VII. De la salud mental
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Art. 72.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+(DEROGADO, P.O. 4 DE ENERO DE 2014)
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1999)</small>
-
-Para los efectos del párrafo anterior se consideran como factores y causas que afectan la salud mental entre otros, los biológicos, psicológicos y socio culturales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 73.
 
-Para la promoción de la salud menta (sic), la Secretaria de Salud, impulsará la coordinación entre el organismo estatal que atienda o maneje la asistencia y las instituciones de salud, con las autoridades competentes, en cada materia, para fomentar y apoyar:
+(DEROGADO, P.O. 4 DE ENERO DE 2014)
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
-
-I. La planeación, realización y evaluación de actividades educativas, socioculturales, recreativas, productivas y ocupacionales que contribuyan a la salud mental y al desarrollo físico, psicológico y social del individuo y la comunidad, preferentemente en beneficio de la infancia y la juventud y sin menoscabo de la atención que amerite la población adulta y senescente;
-
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1999)</small>
-
-II. La difusión de las orientaciones para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras que puedan causar alteraciones mentales o dependencia, incrementando las campañas en el ámbito de la población de mayor riesgo; y
-
-> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2009)</small>
-
-III. La prestación de servicios de apoyo psicológico, individual y grupal, a las personas que viven con VIH/SIDA y otras enfermedades que afecten o puedan afectar la salud mental;
-
-> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2009)</small>
-
-IV. La implementación de programas para la detección y atención de la depresión en los centros de salud regionales y municipales, atendidos por profesionistas y profesionales especializados en la prevención del suicidio; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE FEBRERO DE 2009)</small>
-
-V. Las demás acciones que, directa o indirectamente, contribuyan al fomento de la salud mental de la población.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 74.
 
-La atención de las enfermedades mentales comprende:
+(DEROGADO, P.O. 4 DE ENERO DE 2014)
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1999)</small>
-
-I. La atención de personas con padecimientos mentales; el tratamiento y la rehabilitación psicológica, neurológica y psiquiátrica entre otras, de enfermos mentales crónicos, deficientes mentales y adictos;
-
-II. La organización, operación y supervisión de instituciones públicas, sociales o privadas dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
-
-La prestación de servicios de salud mental deberá ser integral e incluirá actividades de medicina preventiva, curativa, de rehabilitación y reinserción social, sujetándose a lo dispuesto por el Reglamento de la Ley General de Salud y las Normas Oficiales Mexicanas aplicables para la Prestación de Servicios de Atención Médica.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 75.
 
-El Ejecutivo del Estado, conforme a las normas oficiales mexicanas que establezca la Secretaría de Salud, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+(DEROGADO, P.O. 4 DE ENERO DE 2014)
 
-Al efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 76.
 
-El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a los requisitos científicos y legales que determine la Secretaría de Salud Jalisco.
+(DEROGADO, P.O. 4 DE ENERO DE 2014)
 
-No podrá negarse el acceso a los servicios de salud a que se refiere el párrafo anterior por la sola razón de padecer enfermedad infectocontagiosa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 77.
 
-Los padres, tutores, o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquiera persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer, fundadamente, la existencia de enfermedades mentales.
-
-Para tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+(DEROGADO, P.O. 4 DE ENERO DE 2014)
 
 ### CAPITULO VIII. De la salud pública
 
@@ -4192,3 +4158,13 @@ P.O. 3 DE DICIEMBRE DE 2013.
 DECRETO NÚMERO 24552/LX/13, POR EL QUE SE MODIFICA LA FRACCIÓN I AL ARTÍCULO 14 DE LA LEY DE SALUD DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE ENERO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los 90 días siguientes a la entrada en vigor de la misma y realizar las modificaciones reglamentarias correspondientes a efecto de que las autoridades sanitarias estatales cumplan con las obligaciones contenidas en este decreto.
+
+TERCERO. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada en el Presupuesto de Egresos para el ejercicio anual vigente, instrumentará las acciones establecidas en la presente Ley.
+
+CUARTO. El Reglamento de esta Ley deberá contemplar lo referente a los recursos humanos para la atención en salud mental; De la evaluación y el Diagnóstico, Del Internamiento y funcionamiento de los centros de rehabilitación.
