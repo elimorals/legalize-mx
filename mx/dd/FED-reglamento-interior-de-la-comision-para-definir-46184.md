@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-para-definir-46184"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-12"
-last_updated: "2005-09-12"
+last_updated: "2014-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46184&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,9 @@ issue_date: "2005-08-18"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION PARA DEFINIR TRATAMIENTOS Y MEDICAMENTOS ASOCIADOS A ENFERMEDADES QUE OCASIONAN GASTOS CATASTROFICOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2014 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA COMISIÓN PARA DEFINIR TRATAMIENTOS Y MEDICAMENTOS ASOCIADOS A ENFERMEDADES QUE OCASIONAN GASTOS CATASTRÓFICOS
 
-TEXTO ORIGINAL.
+TEXTO ORIGINAL MODIFICADO POR FE DE ERRATAS, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 6 DE ENERO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 12 de septiembre de 2005.
 
@@ -171,9 +169,13 @@ IV. Lesiones graves;
 
 V. Rehabilitación de largo plazo;
 
-VI. VIH/SIDA;
+> <small>(F. DE E., D.O.F. 6 DE ENERO DE 2014)</small>
 
-VII. Cuidados intensivos neonatales;
+VI. VIH/SIDA y otras infecciones crónicas
+
+> <small>(F. DE E., D.O.F. 6 DE ENERO DE 2014)</small>
+
+VII. Cuidados intensivos neonatales
 
 VIII. Trasplantes, y
 
