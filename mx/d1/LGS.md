@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2013-12-04"
+last_updated: "2014-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2014.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -4048,15 +4048,15 @@ III.- Las que tienen valor terapéutico, pero constituyen un problema para la sa
 
 BENZODIAZEPINAS:
 
+(REUBICADO, D.O.F. 7 DE ENERO DE 2014)
+
+ACIDO BARBITURICO (2, 4, 6 TRIHIDROXIPIRAMIDINA)
+
 ALPRAZOLAM
 
 (ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994) (REPUBLICADA, D.O.F. 26 DE JULIO DE 1995)
 
 AMOXAPINA
-
-(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994) (REPUBLICADA, D.O.F. 26 DE JULIO DE 1995)
-
-ACIDO BARBITURICO (2, 4, 6 TRIHIDROXIPIRAMIDINA)
 
 BROMAZEPAM
 
@@ -4128,6 +4128,10 @@ LORMETAZEPAM
 
 MEDAZEPAM
 
+> <small>(REFORMADO, [N. DE E. ADICIONADO], D.O.F. 7 DE ENERO DE 2014)</small>
+
+MIDAZOLAM
+
 NIMETAZEPAM
 
 > <small>(F. DE E., D.O.F. 18 DE FEBRERO DE 1988)</small>
@@ -4144,11 +4148,11 @@ OXAZOLAM
 
 PEMOLINA
 
-PINAZEPAM
-
-(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994) (REPUBLICADA, D.O.F. 26 DE JULIO DE 1995)
+(REUBICADA, D.O.F. 7 DE ENERO DE 2014)
 
 PIMOZIDE
+
+PINAZEPAM
 
 PRAZEPAM
 
@@ -4156,11 +4160,13 @@ PRAZEPAM
 
 PSEUDOEFEDRINA
 
+(REUBICADA, D.O.F. 7 DE ENERO DE 2014)
+
+QUAZEPAM
+
 (ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994) (REPUBLICADA, D.O.F. 26 DE JULIO DE 1995)
 
 RISPERIDONA
-
-QUAZEPAM
 
 TEMAZEPAM
 
@@ -8009,3 +8015,9 @@ D.O.F. 4 DE DICIEMBRE DE 2013.
 DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 220 Y UN ARTÍCULO 467 BIS A LA LEY GENERAL DE SALUD.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE ENERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto se seguirán tramitando hasta su conclusión, conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
