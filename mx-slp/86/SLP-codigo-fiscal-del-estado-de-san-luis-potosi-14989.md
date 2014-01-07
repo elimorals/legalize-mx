@@ -4,7 +4,7 @@ identifier: "SLP-codigo-fiscal-del-estado-de-san-luis-potosi-14989"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-08-05"
-last_updated: "2008-04-22"
+last_updated: "2014-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # CODIGO FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-CODIGO FISCAL DEL ESTADO DE SAN LUIS POTOSI
+CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2014.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 1999.
 
@@ -97,7 +97,7 @@ I. Ordinarios: los provenientes de las contribuciones y sus accesorios, de produ
 
 II. Extraordinarios: los provenientes de empréstitos o financiamientos, apoyos de la Federación o del Estado, así como todos aquellos cuya percepción se autorice excepcionalmente para permitir el pago de gastos o inversiones accidentales, extraordinarios o especiales del Estado o de los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 7º.
 
@@ -187,13 +187,11 @@ Las contribuciones deben pagarse en los plazos establecidos en las leyes respect
 
 El pago de las contribuciones se hará en las cajas recaudadoras autorizadas, en las oficinas fiscales y, en su caso, en las instituciones bancarias, establecimientos comerciales y demás lugares expresamente autorizados para tal efecto, en la fecha o dentro del plazo señalado en las disposiciones respectivas.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 20.
 
-Se aceptarán como medios de pago el dinero en efectivo, los cheques certificados, los giros postales, telegráficos o bancarios; así también, en los casos que expresamente lo autoricen las autoridades fiscales, se aceptará el pago con tarjeta de crédito o débito, debiendo cubrir el contribuyente la comisión que establezca la institución de crédito respectiva.
-
-También se admitirán como medio de pago los cheques de cuentas personales de los contribuyentes, siempre que no se trate de cuentas bancarias fuera de la plaza donde se efectúe el pago y que haya previa anotación al reverso, firmada por el contribuyente librador con la siguiente leyenda: "Este cheque se expide a favor de (se mencionará el nombre de la autoridad fiscal) para el pago de (se señalará el concepto del pago por el que se expide el cheque)".
-
-Para el cálculo de las contribuciones se considerarán, inclusive, las fracciones del peso; no obstante, al efectuar el pago, se ajustarán a cantidades cerradas, como sigue: de uno a cincuenta centavos se ajustarán a la unidad inmediata anterior; de cincuenta y uno a noventa y nueve centavos, se ajustarán a la unidad inmediata siguiente.
+Se aceptarán como medios de pago el dinero en efectivo, los cheques certificados, los giros postales, telegráficos o bancarios, transferencias electrónicas o cualquier medio de pago autorizado por el Banco de México; tratándose de pago en especie, los casos que expresamente autorice la autoridad fiscal, a solicitud del contribuyente; se aceptará el pago con tarjeta de crédito o débito, debiendo cubrir el contribuyente la comisión que establezca la institución de crédito respectiva.
 
 ###### ARTICULO 21.
 
@@ -691,9 +689,17 @@ Las autoridades fiscales estatales y municipales, para efectos de las contribuci
 
 I. Que el contador público haya obtenido su registro para dictaminar de las autoridades fiscales competentes;
 
-II. Que el dictamen que emita el contador público se formule conforme a las normas y procedimientos de auditoría generalmente aceptados, que regulan la capacidad, independencia e imparcialidad de ese profesional respecto al trabajo que desempeña y la información que rinda como resultado del mismo, y
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2014)</small>
 
-III. Que el contador público emita conjuntamente con su dictamen y bajo protesta de decir verdad, un informe sobre la revisión de la situación fiscal del contribuyente.
+II. Que el dictamen que emita el contador público se formule conforme a las normas internacionales de auditoría, que regulan la capacidad, independencia e imparcialidad de ese profesional respecto al trabajo que desempeña y la información que rinda como resultado del mismo;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2014)</small>
+
+III. Que el contador público emita conjuntamente con su dictamen y bajo protesta de decir verdad, un informe sobre la revisión de la situación fiscal del contribuyente, y
+
+> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2014)</small>
+
+IV. La autoridad fiscal estatal está facultada para emitir las reglas de carácter general para el cumplimiento de la obligación de los contribuyentes señalada en la fracción VII del artículo 25 de la Ley de Hacienda para el Estado de San Luis Potosí.
 
 ###### ARTICULO 65.
 
@@ -1259,7 +1265,7 @@ La base para el remate en la segunda almoneda se determinará deduciendo un vein
 
 Los bienes embargados podrán enajenarse fuera de remate, cuando:
 
-I. El embargado proponga comprador antes del día en que se finque el remate, se enajenen o se adjudiquen los bienes a favor del fisco, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargado;
+I. El embargado proponga comprador antes del día en que se finque el remate, se enajenen o se adjudiquen los bienes a favor del fisco, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargado (sic);
 
 II. Se trate de bienes de fácil descomposición o deterioro o de materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación, y
 
@@ -1925,7 +1931,7 @@ LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE DICIEMBRE DE 1999.
 
@@ -1946,3 +1952,9 @@ P.O. 22 DE ABRIL DE 2008.
 PRIMERO. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Todos los asuntos relacionados con créditos fiscales derivados de sanciones pecuniarias, resarcitorias, e indemnizaciones, impuestas por la Contaduría Mayor de Hacienda del Estado o la Auditoria Superior del Estado, a servidores públicos estatales, municipales y de cualquier otro ente público, que tenga la Secretaría de Finanzas para su cobro, o que se estén substanciando mediante cualquier procedimiento o recurso, deberá ésta última transferírselas a la Auditoria Superior del Estado, dentro de los treinta días siguientes a la entrada en vigencia de este Decreto, para su correspondiente seguimiento y substanciación.
+
+P.O. 7 DE ENERO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor un día después al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que sean contrarias a lo dispuesto por el presente decreto.
