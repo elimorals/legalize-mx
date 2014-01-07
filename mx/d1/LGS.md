@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2013-12-04"
+last_updated: "2014-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,97 +20,151 @@ abbreviation: "LGS"
 ---
 # LEY GENERAL DE SALUD
 
-LEY GENERAL DE SALUD
+LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
 
-ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 25 de agosto de 2004.
 
-Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 7 de febrero de 1984.
+DOCTOR RICARDO MONREAL AVILA, Gobernador del Estado de Zacatecas, a su (sic) habitantes hago saber:
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Que los DIPUTADOS SECRETARIOS de la Honorable Quincuagésima Séptima Legislatura del Estado, se han servido dirigirme el siguiente:
 
-MIGUEL DE LA MADRID HURTADO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+DECRETO # 544
 
-Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+LA HONORABLE QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA
 
-DECRETO:
+DECRETA
 
-"El Congreso de los Estados Unidos Mexicanos, decreta
+LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS
 
-LEY GENERAL DE SALUD
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-## TITULO PRIMERO. Disposiciones Generales
-
-### CAPITULO UNICO
+### Capítulo Único. Disposiciones Preliminares
 
 ###### Artículo 1.
 
-Para efectos de la presente Ley, se entenderá por:
+La presente ley es de orden público, interés social y observancia general en el Estado de Zacatecas y tiene por objeto establecer las bases para:
 
-I. Código: Código Fiscal para el Estado de Oaxaca;
+I. La planeación, programación, promoción y fomento del turismo en el Estado, propiciando elevar los niveles económico, social y cultural de sus habitantes;
 
-II. Congreso: Congreso del Estado;
+II. La coordinación de la Secretaría de Turismo del Estado con la federación, otras entidades federativas y municipios, así como con organismos e instituciones de los sectores social y privado, nacionales y extranjeros;
 
-III. Dependencias: Secretarías de despacho incluidas en ellas a los órganos administrativos desconcentrados; Consejería Jurídica del Gobierno del Estado; Órganos Auxiliares que dependen directamente del Gobernador del Estado, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+III. Determinar y promover la constitución de reservas territoriales que garanticen el crecimiento de la actividad turística, estableciendo los mecanismos necesarios para la creación, conservación, mejoramiento, equipamiento, protección, promoción y aprovechamiento de los atractivos turísticos, preservando el equilibrio ecológico y social;
 
-IV. Entes Públicos: A los Poderes Legislativo y Judicial, a los Órganos Autónomos por disposición constitucional y legal, así como a las Dependencias y Entidades de la Administración Pública y demás órganos que determinen las leyes y ejerzan recursos públicos;
+IV. La desregulación de trámites que obstaculicen el desarrollo del turismo en la Entidad, en los términos de la legislación aplicable;
 
-V. Entidades: Los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos y Órganos Auxiliares de Colaboración de conformidad con la Ley de Entidades Paraestatales del Estado de Oaxaca;
+V. La coordinación y concertación de acciones de la Secretaría de Turismo del Estado y los órganos municipales de turismo, con los Consejos Consultivos Turísticos del Estado y Municipales;
 
-VI. Ley: Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2016;
+VI. La implementación del Registro Estatal de Turismo, para contar con la información que permitan la eficiente implementación de acciones en el ramo;
 
-VII. Ley Estatal: Ley Estatal de Presupuesto y Responsabilidad Hacendaria;
+VII. Organizar y promover el Sistema Estatal de Protección al Turista, proporcionando los servicios de información, orientación, protección y auxilio a los turistas nacionales y extranjeros;
 
-VIII. Ley de Fiscalización: Ley de Fiscalización Superior para el Estado de Oaxaca;
+VIII. Promover el turismo social, cultural, deportivo, de aventura y alternativo en el Estado, procurando la integración de personas con capacidades diferentes y adultos mayores;
 
-IX. Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+IX. Fomentar la cultura turística entre la población;
 
-X. Ley General: Ley General de Contabilidad Gubernamental, y
+X. La formulación del Programa Estatal de Turismo y de los Programas Municipales de Turismo, con la participación de los sectores público, social y privado;
 
-XI. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado.
+XI. La gestión de mecanismos de financiamiento dirigidos al fomento y modernización de las micro, pequeñas y medianas empresas turísticas, así como la creación de incentivos y estímulos económicos y fiscales para el desarrollo e inversión en la actividad turística;
+
+XII. Optimizar la calidad de los servicios turísticos a través de la capacitación y adiestramiento de los prestadores de dichos servicios, con la participación de los sectores público, social y privado;
+
+XIII. Preservar el patrimonio histórico y cultural del Estado en coordinación con las dependencias y entidades competentes de los tres órdenes de gobierno;
+
+XIV. Verificar y vigilar la prestación de los servicios turísticos en el Estado;
+
+XV. La constitución del Fondo de Desarrollo y Fomento al Turismo de Zacatecas y demás fideicomisos que coadyuven al desarrollo del turismo en el Estado;
+
+XVI. Promover la creación de organismos y asociaciones que tengan por objetivo fomentar el turismo en la Entidad;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Fomentar el desarrollo del turismo en los municipios con vocación turística del Estado, en especial, en los municipios y localidades declarados pueblos mágicos y en los sitios Patrimonio Mundial;
+
+XVIII. Promover y regular las zonas de desarrollo turístico prioritario en la Entidad; y
+
+XIX. La aplicación de sanciones a los prestadores de servicios turísticos que contravengan las disposiciones de esta ley.
 
 ###### Artículo 2.
 
-Es competencia exclusiva de la Secretaría la recaudación y administración de todos los ingresos establecidos legalmente que perciba el Estado, cualquiera que sea su forma o naturaleza, aun cuando se destinen a un fin específico.
+El desarrollo turístico de la Entidad constituye una prioridad en los planes, programas y acciones del Gobierno del Estado y de los municipios en materia de desarrollo económico y social, de conformidad con los siguientes principios:
 
-Para tal efecto la Secretaría deberá identificar cada uno de los ingresos en cuentas bancarias productivas específicas, en las cuales se depositarán los recursos estatales y federales transferidos por cualquier concepto, durante el ejercicio fiscal 2016.
+I. Se declara de interés público el aprovechamiento eficiente de los recursos turísticos del Estado, en beneficio de los grupos sociales y privados que concurran a estas actividades en los términos de la presente ley;
+
+II. El aprovechamiento eficiente de los recursos turísticos de la Entidad se realizará con estricto respeto a las normas federales y estatales en materia de salvaguarda del equilibrio ecológico y la protección al medio ambiente;
+
+III. La planeación, programación y fomento del turismo se realizarán de manera coordinada entre el Gobierno del Estado, el de la República y los municipios de la Entidad, por conducto de las dependencias y entidades competentes y de forma concertada con los sectores social y privado, locales, nacionales e internacionales del ramo turístico;
+
+IV. El fomento del turismo tendrá como base la creación, conservación, protección y aprovechamiento de los recursos y atractivos turísticos del Estado, a efecto de que se consideren prioritarias las acciones de planeación, programación, capacitación, adiestramiento, promoción, concertación, regulación, verificación y vigilancia del desarrollo turístico de la Entidad; y
+
+V. Las autoridades estatales y municipales, así como los prestadores de servicios turísticos y particulares interesados, concurrirán en la vigilancia del cumplimiento de las disposiciones de la presente ley, denunciando de inmediato ante la autoridad competente las anomalías e irregularidades que observen en el trato al turista y, en general, en todo lo relativo al desarrollo turístico del Estado.
 
 ###### Artículo 3.
 
-Los ingresos que se recauden por parte de las Dependencias y Entidades, por los diversos conceptos que establece esta Ley deberán transferirse a la Secretaría dentro de los 10 días hábiles siguientes al de su recepción y deberán registrarse, cualquiera que sea su naturaleza, en la contabilidad de la Secretaría, así como reflejarse en los informes a que alude la Ley Estatal y Ley de Fiscalización.
+La aplicación de la presente ley corresponde:
 
-También se concentrarán en la Secretaría, en el plazo señalado en el párrafo anterior, los derechos por el uso, goce o aprovechamiento de bienes de dominio público y los derivados de la prestación de servicios públicos a cargo de los Entes Públicos, así como los ingresos que se obtengan por la suscripción de convenios, subsidios, acuerdos, donativos, reintegros y cualquier otro bien financiero o material que reciban por cualquier otro título no considerado en los anteriores.
+I. Al Ejecutivo del Estado, a través de la Secretaría de Turismo, y
 
-Por lo que estarán obligadas a informar a quienes deban efectuar pago, transferencias o ministración por cualquiera de los conceptos previstos en el artículo 7 de la presente Ley, que éste deberá realizarse ante la Secretaría.
+II. A los municipios, por conducto de los órganos municipales de turismo.
 
-El incumplimiento en la entrega o transferencia oportuna a que se refieren los párrafos anteriores, generará para los Servidores Públicos, Titulares, Jefes de la Unidad Administrativa o su equivalente u operativo de las Dependencias y Entidades del Poder Ejecutivo la obligación de pagar cargas financieras por concepto de indemnización a la Hacienda Pública Estatal.
-
-La tasa anual aplicable a dichas cargas financieras será 1.5 veces la que resulte de promediar la Tasa Ponderada de Fondeo Bancario dada a conocer diariamente por el Banco de México en su página de Internet, durante el periodo que dure la falta de concentración. En el caso de que por cualquier motivo se deje de publicar la mencionada tasa, se utilizará la tasa de interés que el Banco de México dé a conocer en sustitución de la misma.
-
-El monto de las cargas financieras se determinará dividiendo la tasa anual a que se refiere el párrafo anterior entre 360 y multiplicando por el número de días transcurridos desde la fecha en que debió realizarse la concentración y hasta el día en que la misma se efectúe. El resultado obtenido se multiplicará por el importe no concentrado oportunamente.
-
-Los Poderes Legislativo y Judicial, los Órganos Autónomos por disposición constitucional, registrarán los ingresos que obtengan por cualquier concepto en el rubro correspondiente de esta Ley, y deberán conservar a disposición de los Órganos Fiscalizadores Estatales o Federales, la documentación comprobatoria de dichos ingresos.
-
-Para los efectos del registro de los ingresos a que se refiere el párrafo anterior, se deberá presentar a la Secretaría los informes avalados por el órgano interno de control o de la comisión respectiva, según sea el caso, especificando los importes del impuesto al valor agregado que hayan trasladado por los actos o las actividades que dieron lugar a la obtención de los ingresos.
-
-Las contribuciones, productos o aprovechamientos a los que las leyes de carácter no fiscal otorguen una naturaleza distinta a la establecida en las leyes fiscales, tendrán la naturaleza establecida en éstas. Se derogan las disposiciones que se opongan a lo previsto en este artículo, en su parte conducente.
-
-Los servidores públicos que incurran en inobservancia a esta disposición, se harán acreedores a las sanciones previstas en la Ley General, Ley Estatal, Ley de Responsabilidades y demás disposiciones aplicables.
+La Secretaría de Turismo tendrá las facultades que la Ley Federal de Turismo, su Reglamento, los Acuerdos y Convenios celebrados con la Secretaría de Turismo Federal, la Ley Orgánica de la Administración Pública del Estado, esta ley, su reglamento y demás disposiciones legales aplicables le confieran. Los municipios tendrán las atribuciones que señale la Constitución Política del Estado, la Ley Orgánica del Municipio, la presente ley, su reglamento, los convenios y acuerdos celebrados con la federación y otros ordenamientos.
 
 ###### Artículo 4.
 
-Se derogan las disposiciones legales y administrativas que contengan exenciones totales o parciales o consideren a personas como no sujetos de contribuciones estatales, otorguen tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones estatales, distintas de las establecidas en la presente Ley, Ley Estatal de Hacienda y Ley Estatal de Derechos.
+Para efectos de esta ley, se entenderá por:
 
-Lo dispuesto en el párrafo anterior también será aplicable cuando las disposiciones legales y administrativas contengan exenciones totales o parciales o consideren a personas como no sujetos de contribuciones estatales, otorguen tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones estatales, se encuentren contenidas en normas jurídicas que tengan por objeto la creación o las bases de organización o funcionamiento de los Entes Públicos, cualquiera que sea su naturaleza.
+I. Turismo: Fenómeno social que consiste en el desplazamiento voluntario de un individuo o grupo de personas que fundamentalmente por motivos de recreación, descanso, cultura, salud, deporte, ocio, religión o negocio, se trasladan a otro lugar distinto del de su residencia habitual, por un periodo inferior a seis meses;
 
-Se derogan las disposiciones legales y administrativas que establezcan que los ingresos que obtengan las Dependencias y Entidades por concepto de derechos, productos o aprovechamientos, tienen un destino específico distintas de las contenidas en la Constitución del Estado.
+II. Turista: La persona que viaja desplazándose temporalmente fuera de su lugar de residencia habitual, con fines de recreo o salud, para actividades artísticas, culturales o deportivas, no remuneradas o lucrativas, con una temporalidad máxima de seis meses y que utilice alguno de los servicios turísticos señalados en la presente ley;
 
-Se derogan las disposiciones contenidas en leyes de carácter no fiscal que establezcan que los ingresos que obtengan los Entes Públicos, por concepto de derechos, productos o aprovechamientos, e ingresos de cualquier otra naturaleza, serán considerados como ingresos propios o excedentes en el ejercicio fiscal en que se generen.
+III. Servicio Turístico: Actividad realizada por personas físicas o morales para satisfacer alguna demanda o necesidad de quienes realizan turismo en el Estado;
+
+IV. Prestador de Servicio Turístico: La persona física o moral que habitualmente proporcione, intermedie o contrate con el turista la prestación de los servicios turísticos a que se refiere la presente ley;
+
+V. Secretaría: La Secretaría de Turismo del Estado de Zacatecas;
+
+VI. Programa Estatal de Turismo: Es aquel en el cual se establecen objetivos y acciones estratégicas en materia turística, conteniendo, misión, visión, objetivos y metas a corto, mediano y largo plazo, con la finalidad de promover el desarrollo turístico en la Entidad, ajustándose al Plan Nacional de Turismo y los Planes Nacional y Estatal de Desarrollo;
+
+VII. Programas Municipales de Turismo: Son aquellos instrumentos mediante los cuales los Municipios con vocación turística establecen los objetivos y acciones en materia turística municipal, sujetándose a los lineamientos del Plan Nacional de Turismo y del Programa Estatal de Turismo y de acuerdo a los Planes Nacional y Estatal de Desarrollo;
+
+VIII. Centro Turístico: Es aquel lugar que cuenta con atractivos turísticos e infraestructura adecuada para recibir el turismo; y
+
+IX. Zonas de Desarrollo Turístico Prioritario: Son aquellos municipios, regiones o lugares que por sus características geográficas, sociales, históricas o culturales, constituyen un atractivo turístico y son susceptibles de promocionarlas y proporcionarles el apoyo para su desarrollo turístico preferente;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+X. Pueblo Mágico: Es toda aquella localidad que cuente con el nombramiento homónimo que otorga la Secretaría Federal de Turismo, previo acuerdo y visto bueno del Comité Intersectorial de Evaluación y Análisis (C.I.E.S.)
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Sitios Patrimonio Mundial: son los sitios inscritos en la lista del Patrimonio Mundial de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura.
 
 ###### Artículo 5.
 
-El pago extemporáneo de contribuciones dará lugar al cobro de recargos, a razón de 0.75 por ciento mensual calculados por cada mes o fracción que transcurra y se computarán a partir del día siguiente a la fecha o vencimiento del plazo de pago hasta su total liquidación.
+Se consideran servicios turísticos, los proporcionados a través de:
+
+I. Los establecimientos de hospedaje, ya sean de tiempo compartido o de operación hotelera, moteles, albergues y hostales. Otros establecimientos de hospedaje tales como: cabañas, campamentos, paradores de casas rodantes, haciendas, casas rurales, posadas familiares y paradores carreteros que presten servicios al turista; casas de huéspedes y casas provisionales de hospedaje, éstas dos últimas siempre y cuando la estancia de sus huéspedes sea menor a diez días;
+
+II. Agencias, subagencias y operadoras de viajes;
+
+III. Los prestados por guías de turistas cualquiera que sea su clasificación, autorizados en los términos de la Ley Federal de Turismo, las normas oficiales mexicanas emitidas por la Secretaría de Turismo Federal y demás disposiciones aplicables;
+
+IV. Restaurantes, bares, cafeterías, establecimientos de alimentos preparados, centros nocturnos, discotecas, antros, balnearios, spa's, parques acuáticos y similares, ubicados en los servicios señalados en la fracción I de este artículo, así como en sitios de interés, museos, zonas arqueológicas, aeropuertos, terminales de autobuses, estaciones de ferrocarril y cualquier otro corredor turístico;
+
+V. Campos de golf, ranchos cinegéticos, miradores, senderos, zoológicos, ferias, museos, casas de arte, establecimientos de arte popular, exposiciones y desarrollos destinados al ecoturismo o turismo alternativo, de aventura o rural;
+
+VI. Empresas de intercambio de servicios turísticos;
+
+VII. Los servicios que por concesión, permiso o autorización federal se incluyan en este concepto;
+
+VIII. Empresas de transportación de grupos turísticos;
+
+IX. Las arrendadoras de automóviles, embarcaciones y demás bienes y equipos destinados a las actividades turísticas;
+
+X. Empresas de transportación especializadas que presten sus servicios a través de motocicletas, bicicletas, vehículos de tracción animal y análogos que se usen con fines de recreación al turista; y
+
+XI. Los demás servicios que tengan como actividad ordinaria la prestación de un servicio turístico.
 
 ###### ARTICULO 1o.
 
@@ -300,61 +354,37 @@ III.- La Secretaría de Salud, y
 
 IV.- Los gobiernos de las entidades federativas, incluyendo el Gobierno del Distrito Federal.
 
-## TITULO SEGUNDO. Sistema Nacional de Salud
+## TÍTULO SEGUNDO. DE LA PLANEACIÓN PARA EL DESARROLLO TURÍSTICO
 
-### CAPITULO I. Disposiciones Comunes
+### Capítulo I. De la Planeación de la Actividad Turística
 
 ###### Artículo 6.
 
-En los casos de prórroga para el pago de créditos fiscales se causarán recargos:
-
-I. Al 0.75 por ciento mensual sobre los saldos insolutos.
-
-II. Cuando de conformidad con el Código, se autorice el pago a plazos, se aplicará la tasa de recargos que a continuación se establece, sobre los saldos y durante el periodo de que se trate:
-
-a) Pagos a plazos en parcialidades de hasta 12 meses, la tasa de recargos será del 1 por ciento mensual.
-
-b) Pagos a plazos en parcialidades de más de 12 meses y hasta de 24 meses, la tasa de recargos será de 1.25 por ciento mensual.
-
-c) Pagos a plazos en parcialidades superiores a 24 meses, así como tratándose de pagos a plazo diferido, la tasa de recargos será de 1.5 por ciento mensual.
-
-Las tasas de recargos establecidas en la fracción II de este artículo incluyen la actualización realizada conforme a lo establecido por el Código.
+La Secretaría es la dependencia encargada de formular y conducir la política integral de desarrollo, planeación, fomento y promoción de la actividad turística de la Entidad. La planeación se llevará a cabo en coordinación con la Secretaría de Planeación y Desarrollo Regional, de acuerdo con lo establecido en la Ley de Planeación para el Desarrollo del Estado.
 
 ###### Artículo 7.
 
-En el ejercicio fiscal 2016, el Estado percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
-
-> <small>N. DE E. VÉASE TABLA EN EL EXTRA DEL P.O. DE 31 DE DICIEMBRE DE 2015, PÁGINAS DE LA 3 A LA 5.</small>
-
-Cuando en una ley o decreto se establezcan ingresos previstos en este artículo, o determinen otros conceptos de ingresos, estos se considerarán comprendidos en la fracción que corresponda a los ingresos a que se refiere este artículo.
+La planeación del desarrollo turístico de la Entidad se llevará a cabo a través de los programas que formule la Secretaría, previa aprobación del Gobernador del Estado.
 
 ###### Artículo 8.
 
-Se autoriza al Poder Judicial para que ejerza durante el año 2016 y/o en los ejercicios fiscales posteriores, los recursos autorizados en el Artículo 10 de la Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2015, destinados a la Implementación del Sistema de Justicia Penal, en la parte en que dicho monto no hubiere sido dispuesto en el ejercicio fiscal de referencia, sujetándose a los términos establecidos en el mismo.
-
-Igualmente se autoriza al Ejecutivo del Estado para que ejerza durante el año 2016 y/o en los ejercicios fiscales posteriores los recursos derivados del Artículo 3 de la Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2013 y su reforma, en la parte en que dicho monto no hubiere sido ejercido, sujetándose en todo caso a lo establecido en el artículo de referencia y su reforma, así como lo previsto en el Decreto 1360, su reforma y anexo.
+Los programas turísticos se sujetarán a los principios, estrategias, prioridades y acciones previstos en el Plan Estatal de Desarrollo. Dichos programas podrán ser generales o referirse a una región o municipio del Estado, de acuerdo con los atractivos turísticos y los recursos disponibles.
 
 ###### Artículo 9.
 
-Se otorgará estímulo fiscal a los propietarios y/o tenedores de vehículos de hasta nueve años modelo anterior, por los cuales deban pagar el Impuesto sobre Tenencia o Uso de Vehículos, considerando el valor total del vehículo con el factor de depreciación que se establece en la Ley Estatal de Hacienda por tipo y servicio del vehículo, de acuerdo a lo siguiente:
+Los programas turísticos deberán contener los siguientes requisitos:
 
-Valor total del Vehículo depreciado Monto a pagar
+I. Referencia del plan del que se desprenden;
 
-Límite Inferior Límite Superior
+II. Los objetivos y metas que se persiguen;
 
-(Pesos) (Pesos)
+III. Las dependencias y entidades responsables de su ejecución;
 
-0.01 250,000.00 $1.00
+IV. La descripción de las acciones, obras y servicios y la referencia a los recursos necesarios;
 
-250,000.01 En adelante 50% del monto del
+V. Las etapas y plazos para su cumplimiento; y
 
-Impuesto determinado
-
-Para acogerse a este beneficio deberán:
-
-I. Estar al corriente en el pago del Impuesto sobre Tenencia o Uso de Vehículos, y
-
-II. Efectuar el pago del Impuesto sobre Tenencia o Uso de Vehículos y derechos de control vehicular y el primer semestre de la verificación de emisiones a la atmosfera que corresponda a más tardar el 31 de marzo del ejercicio fiscal 2016.
+VI. Contar con estudios de factibilidad.
 
 ###### ARTICULO 5o.
 
@@ -456,141 +486,53 @@ La Secretaría de Salud auxiliará, cuando lo soliciten los estados, en las acci
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-La Secretaria de Salud promoverá la participación, en el sistema nacional de salud, de los prestadores de servicios de salud, de los sectores público, social y privado, de sus trabajadores y de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas, en los términos de las disposiciones que al efecto se expidan.
+En la planeación del desarrollo turístico se tomarán en cuenta los siguientes aspectos:
 
-Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
+I. El aprovechamiento eficiente y racional de los recursos naturales, salvaguardando el equilibrio ecológico y la protección al ambiente y preservando los monumentos y zonas arqueológicas del Estado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
 
-###### ARTICULO 11.
+II. Los programas turísticos y las acciones que de ellos se deriven, habrán de aprovechar y resguardar óptimamente los principales atractivos turísticos de la Entidad, así como el patrimonio cultural, material e inmaterial del Estado, a fin de prever su difusión a nivel local, nacional e internacional; y
 
-La concertación de acciones entre la Secretaria de Salud y las autoridades de las comunidades indígenas, los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+III. El desarrollo turístico del Estado se fundará esencialmente en la coordinación de acciones con el gobierno federal, con otras entidades federativas y con los municipios, así como en la concertación con los sectores social y privado.
 
-> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+###### Artículo 11.
 
-I.- Definición de las responsabilidades que asuman las partes;
+El Ejecutivo del Estado a través de la Secretaría podrá celebrar convenios y acuerdos en materia turística, con la federación, otras entidades federativas y municipios, así como con personas físicas o morales de los sectores social y privado, para el mejor desempeño de sus funciones.
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+Asimismo, la Secretaría promoverá la celebración de convenios interestatales que tengan por objetivo la difusión de los valores culturales, artísticos, históricos y arqueológicos de la Entidad a nivel nacional e internacional.
 
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud;
+###### Artículo 12.
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+Se considera de interés público la formulación y adecuación periódica del Programa Estatal de Turismo, mismo que tendrá las características señaladas en la fracción VI del artículo 4 de la presente ley. Dicho Programa deberá contener un diagnóstico de la situación y comportamiento del turismo en la Entidad.
 
-III.- Especificación del carácter operativo de la concertación de acciones; con reserva de las funciones de autoridad de la Secretaría de Salud, y
+### Capítulo II. Del Programa Estatal de Turismo
 
-IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+###### Artículo 13.
 
-###### ARTICULO 12.
+La Secretaría en coordinación con la Secretaría de Planeación y Desarrollo Regional, previa opinión de los sectores público, social y privado, formularán el Programa Estatal de Turismo y lo someterá a la consideración del Ejecutivo para su aprobación. Podrá asimismo, tomar en cuenta la opinión de los Consejos Consultivos Turísticos a que se refiere la presente ley.
 
-La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del Sistema Nacional de Salud, se regirá por las disposiciones de esta Ley y demás normas generales aplicables.
+La evaluación del Programa deberá realizarse cuando menos una vez al año.
 
-### CAPITULO II. Distribución de Competencias
+###### Artículo 14.
 
-###### ARTICULO 13.
+El Programa Estatal de Turismo deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, por lo que su cumplimiento será obligatorio para las dependencias y entidades de la administración pública estatal y municipal.
 
-La competencia entre la Federación y las entidades federativas en materia de salubridad general quedará distribuida conforme a lo siguiente:
+###### Artículo 15.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+Cuando del Programa se deriven acciones que sean susceptibles de ser realizadas total o parcialmente por organismos o empresas de los sectores social y privado, la Secretaría promoverá ante las autoridades competentes, los estímulos y apoyos fiscales y económicos correspondientes.
 
-A. Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salud:
+###### Artículo 16.
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+El Turismo Social comprende todos aquellos programas que implemente la Secretaría a través de los cuales se facilite la participación en el turismo de los grupos de trabajadores, jóvenes, niños, estudiantes, personas con capacidades diferentes, personas adultas mayores, jubilados, pensionados y otros que por razones físicas, económicas, sociales o culturales, que no tengan acceso a disfrutar de los sitios de interés y servicios turísticos y cuyo objeto sea lograr el descanso y esparcimiento familiar, en condiciones adecuadas de economía, seguridad y comodidad.
 
-I.- Dictar las normas oficiales mexicanas a que quedará sujeta la prestación, en todo el territorio nacional, de servicios de salud en las materias de salubridad general y verificar su cumplimiento;
+###### Artículo 17.
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+La Secretaría promoverá y coordinará programas de turismo social, tomando como referencia las necesidades y características específicas de cada grupo, así como las temporadas adecuadas para su mejor aprovechamiento.
 
-II.- En las materias enumeradas en las fracciones I, III, XV Bis, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley, organizar y operar los servicios respectivos y vigilar su funcionamiento por sí o en coordinación con dependencias y entidades del sector salud;
-
-III.- Organizar y operar los servicios de salud a su cargo y, en todas las materias de salubridad general, desarrollar temporalmente acciones en las entidades federativas; cuando éstas se lo soliciten, de conformidad con los acuerdos de coordinación que se celebren al efecto;
-
-IV.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad general a cargo de los gobiernos de las entidades federativas, con sujeción a las políticas nacionales en la materia;
-
-V.- Ejercer la acción extraordinaria en materia de salubridad general;
-
-VI.- Promover y programar el alcance y las modalidades del Sistema Nacional de Salud y desarrollar las acciones necesarias para su consolidación y funcionamiento;
-
-VII.- Coordinar el Sistema Nacional de Salud;
-
-> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2003)</small>
-
-VII bis.- Regular, desarrollar, coordinar, evaluar y supervisar las acciones de protección social en salud;
-
-VIII.- Realizar la evaluación general de la prestación de servicios de salud en materia de salubridad general en todo el territorio nacional;
-
-IX.- Ejercer la coordinación y la vigilancia general del cumplimiento de las disposiciones de esta Ley y demás normas aplicables en materia de salubridad general, y
-
-X.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se establezcan en esta Ley y en otras disposiciones generales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2008)</small>
-
-B. Corresponde a los gobiernos de las entidades federativas, en materia de salubridad general, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
-
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
-
-I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, II Bis, IV, IV Bis, IV Bis 1, IV Bis 2, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXVI Bis y XXVII Bis, del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
-
-II.- Coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud, y planear, organizar y desarrollar sistemas estatales de salud, procurando su participación programática en el primero;
-
-III.- Formular y desarrollar programas locales de salud, en el marco de los sistemas estatales de salud y de acuerdo con los principios y objetivos del Plan Nacional de Desarrollo;
-
-IV.- Llevar a cabo los programas y acciones que en materia de salubridad local les competan;
-
-V.- Elaborar información estadística local y proporcionarla a las autoridades federales competentes;
-
-VI.- Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y demás disposiciones aplicables, y
-
-VII.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables.
-
-> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
-
-C. Corresponde a la Federación y a las entidades federativas la prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de esta Ley.
-
-###### ARTICULO 14.
-
-(DEROGADO, D.O.F. 7 DE MAYO DE 1997)
-
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
-
-###### ARTICULO 15.
-
-El Consejo de Salubridad General es un órgano que depende directamente del Presidente de la República en los términos del artículo 73, fracción XVI, base 1a. de la Constitución Política de los Estados Unidos Mexicanos. Está integrado por un presidente que será el Secretario de Salud, un secretario y trece vocales titulares, dos de los cuales serán los presidentes de la Academia Nacional de Medicina y de la Academia Mexicana de Cirugía, y los vocales que su propio reglamento determine. Los miembros del Consejo serán designados y removidos por el Presidente de la República, quien deberá nombrar para tales cargos, a profesionales especializados en cualquiera de las ramas sanitarias.
-
-###### ARTICULO 16.
-
-La organización y funcionamiento del Consejo de Salubridad General se regirá por su reglamento interior, que formulará el propio Consejo y someterá a la aprobación del Presidente de la República para su expedición.
-
-###### ARTICULO 17.
-
-Compete al Consejo de Salubridad General:
-
-I.- Dictar medidas contra el alcoholismo, venta y producción de substancias tóxicas, así como las que tengan por objeto prevenir y combatir los efectos nocivos de la contaminación ambiental en la salud, las que serán revisadas después por el Congreso de la Unión, en los casos que le competan;
-
-II.- Adicionar las listas de establecimientos destinados al proceso de medicamentos y las de enfermedades transmisibles prioritarias y no transmisibles más frecuentes, así como las de fuentes de radiaciones ionizantes y de naturaleza análoga;
-
-III.- Opinar sobre programas y proyectos de investigación científica y de formación de recursos humanos para la salud;
-
-IV.- Opinar sobre el establecimiento de nuevos estudios profesionales, técnicos, auxiliares y especialidades que requiera el desarrollo nacional en materia de salud;
-
-V.- Elaborar el Cuadro Básico de Insumos del Sector Salud;
-
-VI.- Participar, en el ámbito de su competencia, en la consolidación y funcionamiento del Sistema Nacional de Salud;
-
-VII.- Rendir opiniones y formular sugerencias al Ejecutivo Federal tendientes al mejoramiento de la eficiencia del Sistema Nacional de Salud y al mejor cumplimiento del programa sectorial de salud;
-
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
-
-VII bis.- Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud, y (sic)
-
-VIII.- Analizar las disposiciones legales en materia de salud y formular propuestas de reformas o adiciones a las mismas, y
-
-> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2003)</small>
-
-IX.- Las demás que le correspondan conforme a la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2003)</small>
+Asimismo con el objeto de fomentar el turismo social y proteger la economía familiar, promoverá la celebración de convenios y acuerdos con prestadores de servicios turísticos, mediante los cuales se determinen precios y tarifas reducidas.
 
 ###### ARTICULO 17 Bis.
 
@@ -650,151 +592,57 @@ Al frente de la Comisión Federal para la Protección contra Riesgos Sanitarios 
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
-###### ARTICULO 18.
+###### Artículo 18.
 
-Las bases y modalidades de ejercicio coordinado de las atribuciones de la Federación y de las entidades federativas en la prestación de servicios de salubridad general, se establecerán en los acuerdos de coordinación que suscriba la Secretaría de Salud con los gobiernos de las entidades federativas, en el marco del Convenio Unico de Desarrollo.
+La Secretaría promoverá inversiones que tiendan a incrementar las instalaciones destinadas al turismo social y que tengan por objeto la prestación de servicios turísticos accesibles a la población.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+###### Artículo 19.
 
-La Secretaría de Salud propondrá la celebración de acuerdos de coordinación con los gobiernos de las entidades federativas para la participación de éstos en la prestación de los servicios a que se refieren las fracciones I, III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley.
+La Secretaría llevará a cabo acciones tendientes a que las dependencias y entidades de la administración pública estatal y municipal, así como las asociaciones, sindicatos y en general todos aquellos organismos no gubernamentales, promuevan el turismo social con sus trabajadores.
 
-###### ARTICULO 19.
+###### Artículo 20.
 
-La Federación y los gobiernos de las entidades federativas, de conformidad con las disposiciones legales aplicables, aportarán los recursos materiales, humanos y financieros que sean necesarios para la operación de los servicios de salubridad general, que queden comprendidos en los acuerdos de coordinación que al efecto se celebren.
+Para efectos de la presente ley se entiende por turismo alternativo a toda actividad recreativa basada en el estudio, apreciación y contacto con la naturaleza y las expresiones culturales de las regiones del Estado, con una actitud y compromiso de conocer, respetar, disfrutar y participar de la preservación de los elementos y recursos naturales y culturales.
 
-Los recursos que aporten las partes quedarán expresamente afectos a los fines del acuerdo respectivo y sujetos al régimen legal que les corresponda. La gestión de los mismos quedará a cargo de la estructura administrativa que establezcan, coordinadamente, la Federación y los gobiernos de las entidades federativas.
+###### Artículo 21.
 
-###### ARTICULO 20.
+A través del turismo alternativo se promoverá la preservación, conservación y restauración de los recursos naturales de la Entidad, garantizando la permanencia de los procesos biológicos y ecológicos, así como de las diversas expresiones históricas, artísticas y culturales.
 
-Las estructuras administrativas a que se refiere el segundo párrafo del artículo 19 de esta Ley, se ajustarán a las siguientes bases:
+En el desarrollo de actividades relacionadas con el turismo alternativo, podrán participar comunidades rurales, ejidos y pueblos indígenas con fines culturales, educativos y recreativos, con el objetivo de que le permitan conocer al turista los valores culturales, forma de vida, manejo ambiental, usos, costumbres y aspectos de su historia y tradiciones, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la preservación de los ecosistemas.
 
-I.- Se regirán por las disposiciones de esta Ley y demás normas aplicables, y por las previsiones de los acuerdos de coordinación que se celebren;
+###### Artículo 22.
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+Se promoverá de manera especial la educación ambiental de los turistas y residentes locales, orientada a la práctica y desarrollo de las actividades turísticas alternativas.
 
-II.- Se establecerán coordinadamente entre la Federación, por conducto de la Secretaría de Salud, y los gobiernos de las entidades federativas;
+## TÍTULO TERCERO. DE LA PROMOCIÓN Y FOMENTO AL TURISMO
 
-III.- Podrán tener personalidad jurídica y patrimonio propios y funciones de autoridad, en su caso, de conformidad con los instrumentos legales de creación;
+### Capítulo III. Del Turismo Social
 
-IV.- Contarán con un consejo interno, que será presidido por el titular del ejecutivo local, cuando así se convenga;
+###### Artículo 23.
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+El turismo de aventura se considera para efectos de esta ley, la categoría de turismo alternativo en la que se incluyen diferentes actividades deportivo-recreativas en donde se participa en armonía con el medio ambiente, respetando el patrimonio natural, cultural, histórico y turístico del Estado.
 
-V.- Los titulares de las estructuras administrativas serán designados por el Secretario de Salud, a propuesta de los ejecutivos locales, y deberán tener preferentemente experiencia en salud pública;
+###### Artículo 24.
 
-VI.- Tendrán a su cargo la administración de los recursos que aporten las partes, con sujeción al régimen legal que les corresponda;
+Los centros de hospedaje que se clasifiquen o se desempeñen con actividades relacionadas con el turismo alternativo o de aventura, deberán contar con la infraestructura y mecánica de operación del ecoalojamiento, el cual deberá garantizar la preservación, conservación y restauración de la naturaleza y su entorno cultural.
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+###### Artículo 25.
 
-VII.- Promoverán y vigilarán la aplicación de principios, normas oficiales mexicanas y procedimientos uniformes;
+La Secretaría, escuchando la opinión de las dependencias y entidades de la administración pública estatal y los municipios respectivos, así como a organismos e instituciones de los sectores social y privado, someterá a la consideración de la Secretaría de Obras Públicas, los criterios generales para la elaboración de los estudios pertinentes sobre proyectos de inversión turística en el Estado, para delimitar las zonas de desarrollo turístico prioritario.
 
-VIII.- Tendrán participación representantes de los usuarios, así como de los trabajadores al servicio de estas estructuras, en los términos de las disposiciones que al efecto se expidan, y
+###### Artículo 26.
 
-IX.- Las demás que se incluyan en los acuerdos de coordinación que se celebren.
+La Secretaría solicitará a la Secretaría de Obras Públicas la delimitación de las áreas de actuación y la determinación de las zonas de uso y destino turístico, observando el programa de desarrollo urbano del Estado y los planes estatal y municipales de desarrollo urbano.
 
-###### ARTICULO 21.
+###### Artículo 27.
 
-Los acuerdos de coordinación que se celebren se sujetarán a las siguientes bases:
+La Secretaría en coordinación con las dependencias y entidades de la administración pública estatal, de conformidad con lo establecido en el Código Urbano, los planes y programas señalados en el párrafo anterior y la legislación ambiental del Estado, propondrá políticas con el objetivo de crear, conservar o ampliar las zonas de desarrollo turístico prioritario. Para tal fin, promoverá ante las autoridades competentes los incentivos y estímulos fiscales que propicien la participación de inversionistas.
 
-I.- Establecerán el tipo y características operativas de los servicios de salubridad general que constituyan el objeto de la coordinación;
+###### Artículo 28.
 
-II.- Determinarán las funciones que corresponda desarrollar a las partes, con indicación de las obligaciones que por el acuerdo asuman;
+La Secretaría en coordinación con las dependencias y entidades de la administración pública estatal competentes, promoverá la creación, conservación o ampliación de zonas de desarrollo turístico prioritario que fomenten el turismo social. Asimismo, que permitan recuperar o habilitar el patrimonio turístico ubicado en barrios, pueblos y comunidades de la Entidad.
 
-III.- Describirán los bienes y recursos que aporten las partes, con la especificación del régimen a que quedarán sujetos;
-
-IV.- Establecerán las estructuras administrativas a que se refiere el artículo 19, determinando sus modalidades orgánicas y funcionales;
-
-V.- Desarrollarán el procedimiento para la elaboración de los proyectos de programas y presupuestos anuales y determinarán los programas de actividades que vayan a desarrollarse;
-
-VI.- Definirán, en su caso, las directrices de la descentralización de los gobiernos de los estados a los municipios;
-
-VII.- Establecerán que los ingresos que se obtengan por la prestación de servicios, se ajustarán a lo que dispongan la legislación fiscal y los acuerdos que celebren en la materia el Ejecutivo Federal y los gobiernos de las entidades federativas;
-
-VIII.- Indicarán las medidas legales o administrativas que las partes se obliguen a adoptar o promover, para el mejor cumplimiento del acuerdo;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
-
-IX.- Establecerán las normas y procedimientos de control que corresponderán a la Secretaría de Salud;
-
-X.- Establecerán la duración del Acuerdo y las causas de terminación anticipada del mismo;
-
-XI.- Indicarán el procedimiento para la resolución de las controversias que, en su caso, se susciten con relación al cumplimiento y ejecución del acuerdo, con sujeción a las disposiciones legales aplicables, y
-
-XII.- Contendrán las demás estipulaciones que las partes consideren necesarias para la mejor prestación de los servicios.
-
-###### ARTICULO 22.
-
-Los ingresos que se obtengan por los servicios de salubridad general que se presten en los términos de los acuerdos de coordinación a que se refieren los artículos anteriores, se afectarán al mismo concepto, en la forma que establezca la legislación fiscal aplicable.
-
-## TITULO TERCERO. Prestación de los Servicios de Salud
-
-### CAPITULO I. Disposiciones Comunes
-
-###### ARTICULO 23.
-
-Para los efectos de esta Ley, se entiende por servicios de salud todas aquellas acciones realizadas en beneficio del individuo y de la sociedad en general, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad.
-
-###### ARTICULO 24.
-
-Los servicios de salud se clasifican en tres tipos:
-
-I.- De atención médica;
-
-II.- De salud pública, y
-
-III.- De asistencia social.
-
-###### ARTICULO 25.
-
-Conforme a las prioridades del Sistema Nacional de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
-
-###### ARTICULO 26.
-
-Para la organización y administración de los servicios de salud, se definirán criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como de universalización de cobertura.
-
-###### ARTICULO 27.
-
-Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud los referentes a:
-
-I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
-
-II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
-
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
-
-III.- La atención médica integral, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias;
-
-IV.- La atención materno-infantil;
-
-V.- La planificación familiar;
-
-VI.- La salud mental;
-
-VII.- La prevención y el control de las enfermedades bucodentales;
-
-VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
-
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2012)</small>
-
-IX.- La promoción del mejoramiento de la nutrición;
-
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2012)</small>
-
-X.- La asistencia social a los grupos más vulnerables y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas, y
-
-> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2012)</small>
-
-XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
-
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
-
-###### ARTICULO 28.
-
-Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos para el primer nivel de atención médica y un Catálogo de Insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General a los cuales se ajustarán las instituciones públicas del Sistema Nacional de Salud, y en los que se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración: La Secretaría de Salud, las instituciones públicas de seguridad social y las demás que señale el Ejecutivo Federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
+Tanto en las propuestas de políticas como en la promoción de acciones relacionadas con la creación, conservación o ampliación de zonas de desarrollo turístico prioritario, la Secretaría deberá considerar las necesidades arquitectónicas que requieran las personas con capacidades diferentes.
 
 ###### ARTICULO 28 Bis.
 
@@ -814,115 +662,95 @@ Los profesionales a que se refiere el presente artículo deberán contar con cé
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
-###### ARTICULO 29.
+###### Artículo 29.
 
-Del Cuadro Básico de Insumos del Sector Salud, la Secretaría de Salud determinará la lista de medicamentos y otros insumos esenciales para la salud, y garantizará su existencia permanente y disponibilidad a la población que los requiera, en coordinación con las autoridades competentes.
+La Secretaría, cuando se trate de proyectos de inversión de zonas de desarrollo turístico prioritario, emitirá opinión ante la Secretaría de Obras Públicas y demás autoridades competentes, para que sea considerada en el otorgamiento de los permisos y licencias correspondientes, procurando la armonía del desarrollo de la actividad turística con el medio físico, urbano y ecológico.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+De igual forma deberán considerarse en el otorgamiento de permisos y licencias a las personas con capacidades diferentes.
 
-###### ARTICULO 30.
+###### Artículo 30.
 
-La Secretaría de Salud apoyará a las dependencias competentes en la vigilancia de los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, a fin de que se adecúen a lo establecido en el artículo anterior.
+El Municipio, lugar o región que haya sido declarado como zona de desarrollo turístico prioritario, tendrá acceso a los apoyos que al efecto establezca el Programa Estatal de Turismo.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTICULO 31.
+Las localidades declaradas pueblos mágicos y los sitios Patrimonio Mundial, de acuerdo con la legislación federal en la materia, tendrán acceso a apoyos extraordinarios, que serán independientes a las partidas presupuestales ordinarias que se le (sic) asignen en los presupuestos de egresos del Estado y de los Municipios. Dichas partidas sólo podrán destinarse a los programas y proyectos que se implementen para tal fin.
 
-La Secretaría de Economía, oyendo la opinión de la Secretaría de Salud, asegurará la adecuada distribución y comercialización y fijará los precios máximos de venta al público de los medicamentos e insumos. La Secretaría de Hacienda y Crédito Público tendrá la intervención que le corresponda en la determinación de precios, cuando tales bienes sean producidos por el sector público.
+###### Artículo 31.
 
-La Secretaría de Salud proporcionará los elementos técnicos a la Secretaría de Economía, acerca de la importación de insumos para la salud.
+Para efectos de la presente ley se entiende por promoción turística, la planeación y programación de la publicidad y promoción, por cualquier medio, sobre actividades, destinos, atractivos y servicios que el Estado ofrece en materia de turismo, con la finalidad de aumentar el flujo de turistas nacionales y extranjeros a la Entidad.
 
-### CAPITULO II. Atención Médica
+### Capítulo IV. Del Turismo Alternativo y de Aventura
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2012)</small>
+###### Artículo 32.
 
-###### ARTICULO 32.
+La Secretaría con la participación de organismos de los sectores público, social y privado, así como de los municipios involucrados, tiene a su cargo la elaboración de los programas de promoción turística con apego a los objetivos del Plan Estatal de Desarrollo y del Programa Estatal de Turismo, con la finalidad de proteger, mejorar, incrementar y difundir los atractivos y servicios turísticos que ofrece el Estado, alentando la afluencia de turistas del país e internacionales.
 
-Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud, la cual podrá apoyarse de medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto expida la Secretaría de Salud.
+###### Artículo 33.
 
-###### ARTICULO 33.
+Las dependencias y entidades de la administración pública estatal y de los municipios, coadyuvarán en la promoción del turismo en los términos de la presente ley y de conformidad con los convenios y acuerdos que al efecto se suscriban.
 
-Las actividades de atención médica son:
+### Capítulo V. De las Zonas de Desarrollo Turístico Prioritario
 
-I.- Preventivas, que incluyen las de promoción general y las de protección específica;
+###### Artículo 34.
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+A fin de cumplir con los objetivos de la promoción y fomento del desarrollo turístico en el Estado, la Secretaría deberá:
 
-II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+I. Fomentar el cuidado y conservación de zonas y monumentos arqueológicos, artísticos e históricos en los términos de la legislación aplicable, así como de los lugares de interés para el turismo;
 
-> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+II. Promover y gestionar ante las autoridades federales, estatales y municipales competentes, la dotación de infraestructura y servicios urbanos en los centros de interés turístico;
 
-III.- De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
 
-> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2009)</small>
+III. Impulsar la ampliación y mejoramiento de la planta turística, promoviendo la creación de nuevos centros en aquellos lugares que, por sus características físicas o culturales, representen un potencial turístico en el Estado así como en los centros que tengan manifestaciones que sean declaradas Patrimonio Cultural Inmaterial del Estado de Zacatecas;
 
-IV.- Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
 
-### CAPITULO III. Prestadores de Servicios de Salud
+IV. Promover, en coordinación con el Instituto Zacatecano de Cultura “Ramón López Velarde” y demás dependencias y entidades competentes, el rescate y preservación de las tradiciones y costumbres del Estado que constituyan un atractivo turístico, así como aquellas prácticas que sean consideradas Patrimonio Cultural Inmaterial del Estado de Zacatecas, apoyando las acciones tendientes a su conservación;
 
-###### ARTICULO 34.
+V. Gestionar en las dependencias y entidades correspondientes, la oportuna y eficaz atención al turista en servicios de información, señalización, transportación, seguridad pública, procuración de justicia y demás servicios que requieran los turistas;
 
-Para los efectos de esta Ley, los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican en:
+VI. Promover la actividad turística en los mercados internacionales a través de las representaciones diplomáticas de México en el extranjero;
 
-I.- Servicios públicos a la población en general;
+VII. Colaborar con las dependencias y entidades que tengan a su cargo la administración y conservación de parques, bosques, lagunas, presas, ríos, zonas arqueológicas, monumentos históricos, museos y demás sitios que representen un atractivo turístico, con el objeto de impulsar y fomentar el aprovechamiento de la actividad turística;
 
-II.- Servicios a derechohabientes de instituciones públicas de seguridad social o los que con sus propios recursos o por encargo del Poder Ejecutivo Federal, presten las mismas instituciones a otros grupos de usuarios;
+VIII. Fomentar la elaboración y distribución de material informativo y promocional relativos a los atractivos y servicios del Estado; y
 
-III.- Servicios sociales y privados, sea cual fuere la forma en que se contraten, y
+IX. Desarrollar las acciones tendientes al equipamiento turístico.
 
-IV.- Otros que se presten de conformidad con lo que establezca la autoridad sanitaria.
+###### Artículo 35.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
+Para la promoción y fomento del turismo, la Secretaría impulsará la organización y la participación en congresos, convenciones, ferias, festivales, exposiciones, excursiones, espectáculos, torneos y, en general, cualquier actividad que permita dar a conocer los atractivos turísticos del Estado, con el objeto de atraer turistas y promotores turísticos.
 
-###### ARTICULO 35.
+La Secretaría promoverá la formación de patronatos y asociaciones que coadyuven a la organización de dichas actividades. Dichos organismos recibirán la asesoría correspondiente.
 
-Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los residentes del país que así lo requieran, regidos por criterios de universalidad y de gratuidad en el momento de usar los servicios, fundados en las condiciones socioeconómicas de los usuarios.
+###### Artículo 36.
 
-Los derechohabientes de las instituciones de seguridad social podrán acceder a los servicios a que se refiere el párrafo anterior en los términos de los convenios que al efecto se suscriban con dichas instituciones, de conformidad con las disposiciones aplicables.
+En los términos de la presente ley, la Secretaría podrá celebrar convenios con empresas de radio, televisión y casas productoras, para establecer locaciones y realizar filmaciones y grabaciones, procurando emplear a los habitantes del lugar de que se trate.
 
-###### ARTICULO 36.
+###### Artículo 37.
 
-Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal y a los convenios de coordinación que celebren en la materia el Ejecutivo Federal y los gobiernos de las entidades federativas.
+La Secretaría promoverá incentivos y auspiciará, según las disponibilidades presupuestales, aquellas inversiones que tengan como objetivo el establecimiento de empresas turísticas que coadyuven al desarrollo de esta actividad en la Entidad, sin perjuicio de las facultades que a la Secretaría de Desarrollo Económico le confiere la Ley de Fomento para el Desarrollo Económico del Estado.
 
-Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
+###### Artículo 38.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+La Secretaría en coordinación con la Secretaría de Desarrollo Económico, promoverá la creación de empresas dedicadas a la actividad turística, identificando las posibilidades de inversión con factibilidad económica y financiera, a fin de propiciar la constitución de nuevas zonas de desarrollo turístico, buscando un balance entre las necesidades específicas de la zona y la protección y conservación de los recursos naturales y culturales.
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social conforme a las disposiciones de la Secretaría de Salud.
+###### Artículo 39.
 
-A los extranjeros que ingresen al país con el propósito predominante de hacer uso de los servicios de salud, se cobrará íntegramente el costo de los mismos, excepto en los casos de urgencias.
+La Secretaría gestionará ante la Secretaría de Desarrollo Económico y demás dependencias y entidades competentes, el otorgamiento de facilidades, beneficios e incentivos a los prestadores de servicios turísticos que inviertan en:
 
-> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2005)</small>
+I. La ampliación, remodelación, equipamiento, rehabilitación y modernización de la infraestructura o servicio turístico, y
 
-Se eximirá del cobro de las cuotas de recuperación por concepto de atención médica y medicamentos, a todo menor a partir de su nacimiento hasta cinco años cumplidos, que no sea beneficiario o derechohabiente de alguna institución del sector salud. Para el cumplimiento de esta disposición, será requisito indispensable que la familia solicitante se encuentre en un nivel de ingreso correspondiente a los tres últimos deciles establecidos por la Secretaría de Salud.
+II. La adquisición de equipos que contribuyan al ahorro del agua y la energía eléctrica, así como en el tratamiento de aguas residuales y desechos de cualquier tipo.
 
-###### ARTICULO 37.
+###### Artículo 40.
 
-Son servicios a derechohabientes de instituciones públicas de seguridad social los prestados por éstas a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus leyes y a sus beneficiarios, los que con sus propios recursos o por encargo del Ejecutivo Federal presten tales instituciones a otro (sic) grupos de usuarios.
+La Secretaría promoverá ante la Secretaría de Desarrollo Económico, la desregulación de trámites que obstaculicen el desarrollo de la actividad turística de la Entidad, de conformidad con lo previsto en la Ley de Mejora Regulatoria del Estado y Ley de Fomento para el Desarrollo Económico del Estado.
 
-Estos servicios se regirán por lo establecido en las disposiciones legales que regulan la organización y funcionamiento de las instituciones prestadoras y por las contenidas en esta Ley, en lo que no se oponga a aquéllas.
+###### Artículo 41.
 
-Dichos servicios, en los términos de esta Ley y sin perjuicio de lo que prevengan las leyes a las que se refiere el párrafo anterior, comprenderán la atención médica, la atención materno-infantil, la planificación familiar, la salud mental, la promoción de la formación de recursos humanos, la salud ocupacional y la prevención y control de enfermedades no transmisibles y accidentes.
-
-###### ARTICULO 38.
-
-Son servicios de salud privados los que presten personas físicas o morales en las condiciones que convengan con los usuarios, y sujetas a los ordenamientos legales, civiles y mercantiles. En materia de tarifas, se aplicará a lo dispuesto en el artículo 43 de esta Ley.
-
-Estos servicios pueden ser contratados directamente por los usuarios o a través de sistemas de seguros, individuales o colectivos.
-
-###### ARTICULO 39.
-
-Son servicios de salud de carácter social los que presten, directamente o mediante la contratación de seguros individuales o colectivos, los grupos y organizaciones sociales a sus miembros y a los beneficiarios de los mismos.
-
-###### ARTICULO 40.
-
-Las modalidades de acceso a los servicios de salud privados y sociales se regirán por lo que convengan prestadores y usuarios, sin perjuicio de los requisitos y obligaciones que establezca esta Ley y demás disposiciones aplicables.
-
-###### ARTICULO 41.
-
-Los servicios de salud que presten las entidades públicas o empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
-
-> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+La desregulación tendrá por objetivo facilitar, agilizar y reducir los trámites, requisitos y plazos para el establecimiento y operación de servicios turísticos.
 
 ###### ARTICULO 41 Bis.
 
@@ -936,69 +764,85 @@ Los Comités Hospitalarios de Bioética y de Ética en la Investigación se suje
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-###### ARTICULO 42.
+###### Artículo 42.
 
-La Secretaría de Salud proporcionará a la Secretaría de Hacienda y Crédito Público las normas oficiales mexicanas de salud para los seguros personales de gastos médicos y hospitalización.
+El Ejecutivo del Estado a propuesta de la Secretaría, constituirá el fideicomiso denominado Fondo de Desarrollo y Fomento al Turismo de Zacatecas, el cual tendrá como función primordial, asesorar y financiar los planes, programas y acciones que se implementen para desarrollar, promover y fomentar la actividad turística en el (sic) Entidad.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+###### Artículo 43.
 
-###### ARTICULO 43.
+El patrimonio del Fondo de Desarrollo y Fomento al Turismo de Zacatecas, se integrará con:
 
-Los servicios de salud de carácter social y privado, con excepción del servicio personal independiente, estarán sujetos a las tarifas que establezca la Secretaría de Economía, oyendo la opinión de la Secretaría de Salud.
+I. Las aportaciones que efectúe el Gobierno del Estado;
 
-###### ARTICULO 44.
+II. Las aportaciones que en su caso efectúe la Secretaría;
 
-Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos, en la proporción y términos que señalen los reglamentos.
+III. Las aportaciones que en su caso efectúen los prestadores de servicios turísticos y organismos relacionados con el turismo;
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+IV. Los créditos que obtenga;
 
-###### ARTICULO 45.
+V. Los productos de sus operaciones y de la inversión de fondos; y
 
-Corresponde a la Secretaría de Salud vigilar y controlar la creación y funcionamiento de todo tipo de establecimientos de servicios de salud, así como fijar las normas oficiales mexicanas a las que deberán sujetarse.
+VI. Los demás recursos que se generen por cualquier otro concepto.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+###### Artículo 44.
 
-###### ARTICULO 46.
+El Fondo de Desarrollo y Fomento al Turismo de Zacatecas tendrá las siguientes facultades:
 
-La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetará a las normas oficiales mexicanas que, con fundamento en esta Ley y demás disposiciones generales aplicables, expida la Secretaría de Salud, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+I. Adquirir valores emitidos para el fomento de la actividad turística, por instituciones de crédito o empresas relacionadas con la misma;
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+II. Gestionar y obtener todo tipo de financiamiento que requiera para lograr su objeto;
 
-###### ARTICULO 47.
+III. Facilitar el otorgamiento de créditos que contribuyan al desarrollo y fomento de la actividad turística;
 
-Los establecimientos de servicios de salud deberán presentar aviso de funcionamiento a la Secretaría de Salud, en el supuesto previsto en el primer párrafo del artículo 200 bis de esta ley. En el aviso se expresarán las características y tipo de servicios a que estén destinados y, en el caso de establecimientos particulares, se señalará también al responsable sanitario.
+IV. Coadyuvar en lo que corresponda, a que los desarrollos turísticos auspiciados contribuyan a la protección de la ecología y medio ambiente;
 
-El aviso a que se refiere el párrafo anterior deberá presentarse dentro de los diez días posteriores al inicio de operaciones y contener los requisitos establecidos en el artículo 200 bis de esta ley.
+V. Elaborar y presentar bimestralmente ante el Comité Técnico, informes de actividades y a través de la fiduciaria, estados contables y financieros, y
 
-En la operación y funcionamiento de los establecimientos de servicios de salud se deberán satisfacer los requisitos que establezcan los reglamentos y normas oficiales mexicanas correspondientes.
+VI. En general, todas aquellas que permitan la realización de sus objetivos y se señalen en el reglamento de la presente ley y otros ordenamientos.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+###### Artículo 45.
 
-###### ARTICULO 48.
+El Fondo de Desarrollo y Fomento al Turismo de Zacatecas, tendrá un Comité Técnico que se integrará por representantes de las Dependencias y organizaciones siguientes:
 
-Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilar el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
+I. La Secretaría;
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+II. La Secretaría de Finanzas;
 
-###### ARTICULO 49.
+III. La Secretaría de Planeación y Desarrollo Regional;
 
-La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, coadyuvarán con las autoridades educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, y estimularán su participación en el Sistema Nacional de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+IV. La Secretaría de Desarrollo Económico, y
 
-### CAPITULO IV. Usuarios de los Servicios de Salud y Participación de la Comunidad
+V. Tres representantes de los prestadores de servicios turísticos de la iniciativa privada, designados de conformidad con lo establecido en el reglamento de la presente ley.
 
-###### ARTICULO 50.
+###### Artículo 46.
 
-Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
+A las sesiones del Comité Técnico serán invitados con derecho a voz por (sic) no a voto, el Contralor Interno del Gobierno del Estado y el Presidente de la Comisión de Turismo de la Legislatura del Estado. Cada invitado acreditará ante el propio Comité un suplente.
 
-###### ARTICULO 51.
+Igualmente, se podrá invitar a las sesiones del Comité Técnico a los Presidentes Municipales relacionados con el asunto a tratar, así como a representantes de los sectores académico, social y privado, cuando a criterio de los integrantes del Comité sea necesario. Dichos representes sólo tendrán derecho a voz.
 
-Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+###### Artículo 47.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE ABRIL DE 2009)</small>
+El Comité Técnico será presidido por el titular de la Secretaría, o en su caso, por el servidor público que éste designe.
 
-Los usuarios tendrán el derecho de elegir, de manera libre y voluntaria, al médico que los atienda de entre los médicos de la unidad del primer nivel de atención que les corresponda por domicilio, en función del horario de labores y de la disponibilidad de espacios del médico elegido y con base en las reglas generales que determine cada institución. En el caso de las instituciones de seguridad social, sólo los asegurados podrán ejercer este derecho, a favor suyo y de sus beneficiarios.
+###### Artículo 48.
 
-> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+Las cuestiones que regulan el Fondo no previstas en el presente Capítulo, se regirán por las disposiciones legales aplicables.
+
+###### Artículo 49.
+
+El Consejo Consultivo Turístico del Estado, es un órgano colegiado de asesoría y consulta, el cual tiene por objeto propiciar la concurrencia activa, comprometida y responsable de los sectores público, social, académico y privado, con el objetivo de emitir opiniones y propuestas para la elaboración de planes, programas y acciones en la materia, así como para la formulación de recomendaciones destinadas a los prestadores de servicios turísticos.
+
+### Capítulo I. De la Promoción Turística
+
+###### Artículo 50.
+
+El número y origen de tales representaciones, así como las facultades y el funcionamiento del Consejo Consultivo, quedarán determinados en el Reglamento Interior que al efecto elabore el propio Consejo para normar su actuación. Por cada miembro titular será designado un suplente.
+
+A las sesiones del Comité podrán hacerse las invitaciones eventuales o permanentes que se consideren pertinentes, de acuerdo a la naturaleza de los asuntos que se traten.
+
+###### Artículo 51.
+
+El Consejo Consultivo Turístico se reunirá bimestralmente en forma ordinaria y podrá reunirse en forma extraordinaria las veces que se requiera, siempre que se justifiquen los asuntos a tratar.
 
 ###### ARTICULO 51 Bis 1.
 
@@ -1022,173 +866,165 @@ Los usuarios de los servicios públicos de salud en general, contarán con facil
 
 Las quejas que los usuarios presenten por la atención médica recibida, deberán ser atendidas y resueltas en forma oportuna y efectiva por los prestadores de servicios de salud o por las instancias que las instituciones de salud tengan definidas para tal fin, cuando la solución corresponda a su ámbito de competencia.
 
-###### ARTICULO 52.
+###### Artículo 52.
 
-Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
+La Secretaría podrá tomar en consideración las opiniones y propuestas del Consejo Consultivo, para la implementación de acciones destinadas al desarrollo turístico del Estado.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+###### Artículo 53.
 
-###### ARTICULO 53.
+La Secretaría promoverá con los ayuntamientos de los municipios con vocación turística, con aquellos que tengan alguna manifestación que haya sido declarada Patrimonio Cultural Inmaterial del Estado de Zacatecas, o en su caso, aquellos en que se desarrollen actividades turísticas, la celebración de convenios y acuerdos destinados a proporcionar mejores servicios de estacionamiento público, seguridad al turista, limpieza en las vialidades y en general los necesarios para el mejoramiento de los servicios públicos, con el objeto de brindar una atención integral al turista.
 
-La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán los procedimientos para regular las modalidades de acceso a los servicios públicos a la población en general y a los servicios sociales y privados.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+En las localidades declaradas pueblos mágicos y en los sitios Patrimonio Mundial, la Secretaría conjuntamente con otras dependencias y entidades de la administración pública estatal y en coordinación con los Ayuntamientos, implementarán programas y proyectos especiales para fortalecer el desarrollo turístico del lugar.
 
-###### ARTICULO 54.
+###### Artículo 54.
 
-Las autoridades sanitarias competentes y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que los usuarios o solicitantes presenten sus quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos. En el caso de las poblaciones o comunidades indígenas las autoridades sanitarias brindarán la asesoría y en su caso la orientación en español y en la lengua o lenguas en uso en la región o comunidad.
+Asimismo, la Secretaría podrá celebrar convenios y acuerdos en los que los municipios con vocación turística del Estado, asuman funciones para:
 
-###### ARTICULO 55.
+I. Que elaboren sus Programas Municipales de Turismo, en concordancia con el Programa Estatal de Turismo;
 
-Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o que alguna persona requiera de la prestación urgente de servicios de salud, cuidarán, por los medios a su alcance, que los mismos sean trasladados a los establecimientos de salud más cercanos, en los que puedan recibir atención inmediata, sin perjuicio de su posterior remisión a otras instituciones.
+II. Crear en el ámbito de su competencia, los medios de apoyo y fomento a la inversión en materia turística en el Municipio de que se trate;
 
-###### ARTICULO 56.
+III. Promover y coordinar las obras de servicios públicos necesarios para la adecuada atención al turista y el desarrollo del turismo en el Municipio, y
 
-De conformidad con lo que señalen las disposiciones generales aplicables, los agentes del Ministerio Público que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
+IV. En general, promover la planeación, programación, fomento, desarrollo, verificación y vigilancia de la actividad turística.
 
-###### ARTICULO 57.
+Los convenios y acuerdos a que se refiere este Capítulo, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-La participación de la comunidad en los programas de protección de la salud y en la prestación de los servicios respectivos, tiene por objeto fortalecer la estructura y funcionamiento de los sistemas de salud e incrementar el mejoramiento del nivel de salud de la población.
+###### Artículo 55.
 
-###### ARTICULO 58.
+Los órganos municipales de turismo tendrán las facultades contenidas en los convenios y acuerdos de coordinación que al efecto se celebren, así como las establecidas en otros ordenamientos.
 
-La comunidad podrá participar en los servicios de salud de los sectores público, social y privado a través de las siguientes acciones:
+###### Artículo 56.
 
-I.- Promoción de hábitos de conducta que contribuyan a proteger la salud o a solucionar problemas de salud, e intervención en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes;
+Los municipios con vocación turística promoverán la creación de Consejos Consultivos Municipales de Turismo, los cuales se integrarán por representantes de las dependencias y entidades municipales y de los sectores social, académico y privado del Municipio de que se trate. Dichos Consejos se regirán en lo que corresponda por el Capítulo V del Título Tercero de la presente ley.
 
-II.- Colaboración en la prevención o tratamiento de problemas ambientales vinculados a la salud;
+###### Artículo 57.
 
-III.- Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
+La Secretaría promoverá, en coordinación con la Secretaría de Educación y Cultura, la implementación de planes y programas educativos para que a través de los libros de texto o cualquier otro medio didáctico, se incida sobre el significado de la actividad turística y su importancia para el Estado.
 
-IV.- Notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
+Asimismo, promoverá el establecimiento de escuelas, centros de educación y capacitación para la formación de profesionales y técnicos en todas las ramas de la actividad turística, contemplando en los programas a las personas con capacidades diferentes y adultos mayores.
 
-V.- Formulación de sugerencias para mejorar los servicios de salud;
+###### Artículo 58.
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
+La Secretaría promoverá acciones de coordinación con las dependencias y entidades competentes, así como con organismos de los sectores social y privado, para elevar el nivel académico de sus egresados y vigilar que los centros educativos señalados en el artículo anterior, cumplan con lo previsto en la Ley de Educación del Estado y demás disposiciones aplicables.
 
-V bis.- Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos, y (sic)
+###### Artículo 59.
 
-VI.- Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud, y
+Para elevar la calidad y excelencia de los servicios turísticos del Estado, la Secretaría podrá:
 
-VII.- Otras actividades que coadyuven a la protección de la salud.
+I. Realizar estudios e investigaciones para conocer las necesidades educativas y de capacitación turística en la Entidad;
 
-> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
+II. Prestar asesoría y apoyo técnico a los prestadores de servicios turísticos en la capacitación y adiestramiento que éstos implementen con sus trabajadores;
 
-###### ARTICULO 59.
+III. Diseñar y aplicar en coordinación con la Oficialía Mayor de Gobierno y la dependencia municipal competente, según corresponda, cursos de capacitación y adiestramiento turístico a servidores públicos estatales y municipales, cuyas actividades estén vinculadas con el turismo;
 
-Las dependencias y entidades del sector salud y los gobiernos de las entidades federativas, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de la discapacidad y de rehabilitación de personas con discapacidad, así como en los cuidados paliativos.
+IV. Promover programas de capacitación y adiestramiento a guías de turistas y en su caso, participar en la evaluación que se practique a los aspirantes;
 
-###### ARTICULO 60.
+V. Impartir a la población y prestadores de servicios turísticos, cursos sobre cultura y educación turística, tendientes a concientizarlos sobre la importancia de la actividad del turismo en la Entidad;
 
-Se concede acción popular para denunciar ante las autoridades sanitarias todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población.
+VI. Gestionar el otorgamiento de becas ante las instituciones educativas destinadas a la capacitación de los trabajadores relacionados con el turismo;
 
-La acción popular podrá ejercitarse por cualquier persona, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
+VII. Impulsar la impartición de cursos que tiendan a la profesionalización de los servidores públicos de la Secretaría; y
 
-### CAPITULO V. Atención Materno-Infantil
+VIII. Realizar las demás acciones necesarias para la formación de los recursos humanos necesarios para el desarrollo turístico del Estado.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2012)</small>
+###### Artículo 60.
 
-### CAPITULO VI. Servicios de Planificación Familiar
+La Secretaría dentro de su Programa Operativo Anual, deberá incluir la calendarización de cursos de capacitación y adiestramiento en materia turística.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+### Capítulo II. De la Inversión, Infraestructura y Estímulos Turísticos
 
-### CAPITULO VII. Salud Mental
+### Capítulo III. De la Desregulación Turística
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
+### Capítulo IV. Del Fondo de Desarrollo y Fomento al Turismo de Zacatecas (FODETURZ)
 
-###### ARTICULO 61.
+###### Artículo 61.
 
-El objeto del presente Capítulo es la protección materno-infantil y la promoción de la salud materna, que abarca el período que va del embarazo, parto, post-parto y puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer y el producto.
+La Secretaría someterá a la consideración del Gobernador del Estado, la celebración de convenios y acuerdos con la Secretaría del Trabajo y Previsión Social y demás dependencias y entidades competentes, para el desarrollo de programas relacionados con la capacitación y adiestramiento, que tengan como finalidad instruir a los prestadores de servicios turísticos con el conocimiento necesario, para el desarrollo de sus actividades, de conformidad con lo establecido en la Ley Federal del Trabajo y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. Y REUBICADO], D.O.F. 7 DE JUNIO DE 2012)</small>
+###### Artículo 62.
 
-La atención materno-infantil tiene carácter prioritario y comprende, entre otras, las siguientes acciones:
+Las relaciones entre los prestadores de servicios turísticos y el turista, se regirán por lo convenido entre las partes, en observancia de las disposiciones de la Ley Federal de Turismo, la Ley Federal de Protección al Consumidor, las normas oficiales mexicanas y demás ordenamientos aplicables.
 
-> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+###### Artículo 63.
 
-I.- La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+En la prestación de los servicios turísticos no deberá existir discriminación en virtud de raza, sexo, discapacidad, credo político o religioso, nacionalidad o condición social.
 
-> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
+La reglamentación interna que expidan los prestadores de servicios turísticos deberá sujetarse a lo dispuesto en el párrafo anterior.
 
-II.- La atención del niño y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
+###### Artículo 64.
 
-> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
+Los prestadores de servicios turísticos tendrán los siguientes derechos:
 
-III.- La revisión de retina y tamiz auditivo al prematuro;
+I. Ser incluidos en el Registro Estatal de Turismo, directorios, programas y guías que elabore o implemente la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
+II. Recibir asesoría técnica, así como la información y ayuda de la Secretaría ante las dependencias y entidades cuando el interés turístico lo amerite;
 
-IV.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados, y
+III. Ser considerados en las estrategias de relaciones públicas, difusión y promoción turística de la Secretaría tanto a nivel nacional como internacional;
 
-> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
+IV. Solicitar apoyo de la Secretaría para la obtención de licencias o permisos, para el establecimiento de servicios turísticos;
 
-V.- La atención del niño y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar.
+V. Recibir cuando exista suficiencia presupuestaria en la Secretaría, el apoyo para la celebración de congresos, convenciones, festivales, conferencias y demás eventos señalados en la presente ley;
 
-> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+VI. Recibir apoyo de la Secretaría, para la tramitación de permisos para la importación temporal de artículos y materiales de trabajo para la realización de eventos relacionados con el turismo;
 
-ARTICULO 61 BIS.- Toda mujer embarazada, tiene derecho a obtener servicios de salud en los términos a que se refiere el Capítulo IV del Título Tercero de esta Ley y con estricto respeto de sus derechos humanos.
+VII. Participar en los programas de capacitación y adiestramiento turístico que promueva o realice la Secretaría;
 
-###### ARTICULO 62.
+VIII. Recibir del turista la remuneración convenida por los servicios turísticos que proporcione;
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+IX. Tener acceso a los estímulos e incentivos que establece la presente ley y otras disposiciones, cuando cumplan con la normatividad aplicable; y
 
-###### ARTICULO 63.
+X. Recibir el apoyo de la Secretaría, siempre que sea solicitado y que redunde en el beneficio del sector turístico.
 
-La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+###### Artículo 65.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+Antes de la contratación de cualquier servicio turístico, el prestador del servicio tendrá la obligación de informar con detalle al turista sobre precios y condiciones en que se prestarán los servicios que ofrecen.
 
-###### ARTICULO 64.
+###### Artículo 66.
 
-En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias competentes establecerán:
+Los prestadores de servicios turísticos tendrán las siguientes obligaciones:
 
-I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
+I. Colaborar con la Secretaría o los órganos municipales de turismo, en los programas de promoción, fomento y desarrollo del turismo;
 
-> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+II. Observar estrictamente las disposiciones de la Ley Federal de Turismo, su reglamento, la presente ley y demás disposiciones en materia de turismo;
 
-II.- Acciones de orientación y vigilancia institucional, fomento para la lactancia materna, promoviendo que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+III. Proporcionar a la Secretaría la información y documentación requerida para efectos de verificación y vigilancia, así como para estadísticas, siempre y cuando se relacione exclusivamente con la prestación del servicio;
 
-> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+IV. Capacitar y adiestrar permanentemente a su personal, con el objeto de elevar la calidad y excelencia de los servicios prestados;
 
-II Bis.- Acciones de promoción para la creación de bancos de leche humana en los establecimientos de salud que cuenten con servicios neonatales;
+V. Bonificar o compensar la suma correspondiente al servicio incumplido, o en su caso, prestar otro servicio de la misma calidad o equivalencia al que hubiere incumplido, a elección del turista, salvo que haya sido sancionado en los términos de la Ley Federal de Turismo;
 
-> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2009)</small>
+VI. Ostentarse sólo con la categoría que con base en los criterios nacionales e internacionales verifique la Secretaría para efectos de promoción;
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años, y
+VII. Anunciar visiblemente en los lugares de acceso al establecimiento, los precios, tarifas y servicios que éstos incluyen.
 
-> <small>(ADICIONADA, D.O.F. 31 DE MAYO DE 2009)</small>
+En el caso de los guías de turistas y guías especializados, al momento de la contratación del servicio, informarán al usuario sobre la tarifa y los conceptos que incluye dicho servicio;
 
-IV.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio.
+VIII. Contar con los formatos foliados y de porte pagado en el sistema de quejas de turistas, en los términos de la norma oficial mexicana respectiva, proporcionándoselos al turista cuando lo solicite, así como darles el trámite correspondiente;
 
-> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
+IX. Cuando presten servicios relacionados con el turismo alternativo y turismo de aventura, deberán contar con el personal calificado y proporcionar al usuario el equipo adecuado de conformidad con la normas oficiales y el reglamento de la presente ley;
 
-ARTICULO 64 BIS.- La Secretaría de Salud impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil. Para tal efecto, promoverá la creación de Redes de Apoyo a la Salud Materno-Infantil, tanto en el ámbito federal, como en las entidades federativas, con la finalidad de facilitar el acceso a las mujeres embarazadas a información relativa a la prestación de servicios de atención médica en esta materia, y en su caso, brindarles apoyo para el acceso a ellos.
+X. Cuando las instalaciones cuenten con el espacio necesario, deberán contar con un área de información turística;
 
-###### ARTICULO 65.
+XI. Optimizar las instalaciones de tomas de agua y energéticos, así como disminuir en la medida de lo posible, la generación de residuos contaminantes, de acuerdo a la legislación en materia ambiental aplicable;
 
-Las autoridades sanitarias, educativas y laborales en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+XII. Establecer medidas de seguridad tendientes a la protección de los turistas, así como de sus pertenencias;
 
-I.- Los programas para padres destinados a promover la atención materno-infantil;
+XIII. Inscribirse en el Registro Estatal de Turismo;
 
-II.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+XIV. Vigilar el buen funcionamiento y mantenimiento de las instalaciones, así como dar un trato adecuado a los usuarios, brindando las facilidades a las personas con capacidades diferentes y adultos mayores. Estas facilidades garantizarán el libre acceso, desplazamiento, instalaciones higiénico-sanitarias apropiadas y ubicaciones preferenciales que aseguren su libre evacuación en caso de contingencia;
 
-III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas, y
+XV. Proporcionar los servicios turísticos, precios, tarifas y promociones en los términos anunciados, ofrecidos o pactados;
 
-(REFORMADA, D.O.F. 14 DE JUNIO DE 1991) (F. DE E., D.O.F. 12 DE JULIO DE 1991)
+XVI. Expedir las facturas y comprobantes que amparen el cobro de los servicios prestados, de conformidad con la ley de la materia;
 
-IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excreta.
+XVII. Emplear el idioma español en los anuncios, propaganda y leyendas, en los que proporcionen los servicios, sin perjuicio del uso de otros idiomas; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+XVIII. Garantizar el cumplimiento de las condiciones en que ofrezcan los servicios turísticos, mediante el otorgamiento de fianzas y la contratación de seguros que se requieran de acuerdo a la naturaleza del servicio, de conformidad con las leyes aplicables.
 
-###### ARTICULO 66.
-
-En materia de higiene escolar, corresponde a las autoridades sanitarias establecer las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar. Las autoridades educativas y sanitarias se coordinarán para la aplicación de las mismas.
-
-La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
-
-### CAPITULO I. Disposiciones Generales
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+### Capítulo V. Del Consejo Consultivo Turístico del Estado
 
 ###### ARTICULO 77 Bis 1.
 
@@ -1216,55 +1052,31 @@ Las familias y personas que no sean derechohabientes de las instituciones de seg
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
-###### ARTICULO 67.
+###### Artículo 67.
 
-La planificación familiar tiene carácter prioritario. En sus actividades se debe incluir la información y orientación educativa para los adolescentes y jóvenes. Asimismo, para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años o bien después de los 35, así como la conveniencia de espaciar los embarazos y reducir su número; todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja.
+Corresponde a la Secretaría, el diseño, instrumentación y actualización del Registro Estatal de Turismo, mismo que contendrá una relación de los servicios y prestadores de servicios turísticos. En éste se deberán registrar las personas físicas o morales que realicen actividades turísticas en el Estado, sin perjuicio de las demás obligaciones registrales que otras leyes dispongan.
 
-Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
+Podrán registrarse las escuelas, instituciones y centros de educación, capacitación y formación que se relacionen con el ramo turístico.
 
-Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita serán sancionados conforme a las disposiciones de esta ley, independientemente de la responsabilidad penal en que incurran.
+###### Artículo 68.
 
-> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+Los prestadores de servicios turísticos deberán solicitar el refrendo de su registro a la Secretaría, dentro de los primeros sesenta días naturales de cada año.
 
-En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas deberán llevarse a cabo en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
+###### Artículo 69.
 
-###### ARTICULO 68.
+La Secretaría podrá celebrar convenios y acuerdos con los ayuntamientos del Estado, para que le auxilien en el registro de prestadores de servicios turísticos del Municipio que corresponda.
 
-Los servicios de planificación familiar comprenden:
+###### Artículo 70.
 
-I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
+Los prestadores de servicios turísticos inscritos en el Registro Estatal de Turismo, podrán ser considerados en las campañas de promoción y fomento al turismo, siempre y cuando se abstengan de contravenir la legislación vigente.
 
-II.- La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
+###### Artículo 71.
 
-III.- La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores público, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con las políticas establecidas por el Consejo Nacional de Población;
+Los datos para solicitar la inscripción y refrendo en el Registro Estatal de Turismo, así como los demás requisitos del mismo, se establecerán en el reglamento de la presente ley.
 
-IV.- El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
+### Capítulo I. De la Coordinación con la Secretaría
 
-V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar;
-
-VI.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-###### ARTICULO 69.
-
-La Secretaría de Salud, con base en las políticas establecidas por el Consejo Nacional de Población para la prestación de servicios de planificación familiar y de educación sexual, definirá las bases para evaluar las prácticas de métodos anticonceptivos, por lo que toca a su prevalecencia y a sus efectos sobre la salud.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-###### ARTICULO 70.
-
-La Secretaría de Salud coordinará las actividades de las dependencias y entidades del sector salud para instrumentar y operar las acciones del programa nacional de planificación familiar que formule el Consejo Nacional de Población, de conformidad con las disposiciones de la Ley General de Población y de su Reglamento, y cuidará que se incorporen al programa sectorial.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-###### ARTICULO 71.
-
-La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
-
-### CAPITULO II. De los Beneficios de la Protección Social en Salud
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 77 Bis 7.
 
@@ -1322,9 +1134,7 @@ Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+### Capítulo II. De los Órganos y Consejos Consultivos Municipales de Turismo
 
 ###### ARTICULO 77 Bis 11.
 
@@ -1374,69 +1184,21 @@ Los términos bajo los cuales se hará efectiva la concurrencia del Gobierno Fed
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
-###### ARTICULO 72.
+###### Artículo 72.
 
-La prevención y atención de los trastornos mentales y del comportamiento es de carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control multidisciplinario de dichos trastornos, así como otros aspectos relacionados con el diagnóstico, conservación y mejoramiento de la salud mental.
+El Registro Estatal de Turismo podrá ser consultado por dependencias y entidades de la administración pública, federal, estatal y municipal, así como por organismos e instituciones de los sectores académico, social y privado.
 
-Para los efectos de esta Ley, se entiende por salud mental el estado de bienestar que una persona experimenta como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales, y, en última instancia el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
+###### Artículo 73.
 
-La atención de los trastornos mentales y del comportamiento deberá brindarse con un enfoque comunitario, de reinserción psicosocial y con estricto respeto a los derechos humanos de los usuarios de estos servicios.
+Corresponde a la Secretaría, establecer, organizar y promover el Sistema Estatal de Protección al Turista, a través de los servicios de información, orientación, protección y auxilio de los turistas que visiten el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
+Para su eficaz implementación la Secretaría se coordinará con las dependencias y entidades de la administración pública, federal, estatal y municipal, así como con organismos e instituciones de los sectores social y privado.
 
-###### ARTICULO 73.
+###### Artículo 74.
 
-Para la promoción de la salud mental y la atención de las personas con trastornos mentales y del comportamiento, la Secretaría de Salud, las instituciones de salud y los gobiernos de las entidades federativas, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+La Secretaría establecerá y administrará los módulos de información turística, mismos que instalará en las terminales aéreas, terrestres, ferroviarias y en general en los centros de mayor afluencia turística. Los Municipios y prestadores de servicios turísticos coadyuvarán al establecimiento y administración de dichos módulos.
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente a grupos en situación de vulnerabilidad.
-
-> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
-
-II. La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y del comportamiento;
-
-> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
-
-III. La realización de programas para la prevención y control del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia;
-
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-IV. Las acciones y campañas de promoción de los derechos de las personas con trastornos mentales y del comportamiento, así como de sensibilización para reducir el estigma y la discriminación, a fin de favorecer el acceso oportuno de la atención;
-
-> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-V. La implementación estratégica y gradual de servicios de salud mental en establecimientos de la red del Sistema Nacional de Salud, que permita abatir la brecha de atención;
-
-> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-VI. La investigación multidisciplinaria en materia de salud mental;
-
-> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-VII. La participación de observadores externos para vigilar el pleno respeto de los derechos humanos de las personas con trastornos mentales y del comportamiento, que son atendidas en los establecimientos de la red del Sistema Nacional de Salud, y
-
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-VIII. Las demás acciones que directa o indirectamente contribuyan a la prevención, atención y fomento de la salud mental de la población.
-
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
-
-###### ARTICULO 74.
-
-La atención de los trastornos mentales y del comportamiento comprende:
-
-I. La atención de personas con trastornos mentales y del comportamiento, la evaluación diagnóstica integral y tratamientos integrales, y la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
-
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-II. La organización, operación y supervisión de establecimientos dedicados al estudio, tratamiento y rehabilitación de personas con trastornos mentales y del comportamiento, y
-
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-III. La reintegración de la persona con trastornos mentales y del comportamiento a su familia y comunidad, mediante la creación de programas sociales y asistenciales como residencias y talleres protegidos, en coordinación con otros sectores, para la debida atención de estos pacientes.
-
-> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+El material promocional utilizado en los módulos de información, será proporcionado por la Secretaría y cuando corresponda, por los Municipios y prestadores de servicios turísticos.
 
 ###### ARTICULO 74 Bis.
 
@@ -1462,59 +1224,31 @@ VIII. Derecho a la confidencialidad de la información psiquiátrica sobre su pe
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
 
-###### ARTICULO 75.
+###### Artículo 75.
 
-El internamiento de personas con trastornos mentales y del comportamiento, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos y a los requisitos que determine la Secretaría de Salud y demás disposiciones jurídicas aplicables.
+La Secretaría orientará y protegerá al turista, brindándole la información y orientación necesaria, para lo cual podrá:
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+I. Atender toda clase de queja, sugerencia o necesidad de apoyo al turista, canalizando a la autoridad competente el asunto y apoyando sus gestiones, en la medida de lo posible;
 
-Será involuntario el internamiento, cuando por encontrarse la persona impedida para solicitarlo por sí misma, por incapacidad transitoria o permanente, sea solicitado por un familiar, tutor, representante legal o, a falta de los anteriores, otra persona interesada, que en caso de urgencia solicite el servicio y siempre que exista la intervención de un médico calificado, que determine la existencia de un trastorno mental y del comportamiento y que debido a dicho trastorno existe un peligro grave o inmediato para sí mismo o para terceros.
+II. Intervenir en la conciliación de intereses entre los prestadores de servicios turísticos y el turista, buscando una solución equitativa para ambas partes, a fin de que se mantenga la buena imagen del prestador involucrado;
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+III. Denunciar ante las autoridades competentes, en base a las anomalías detectadas, a los prestadores de servicios que ameriten ser sancionados; y
 
-La decisión de internar a una persona deberá ser notificada a su representante, así como a la autoridad judicial.
+IV. En lo que corresponda, fungir como órgano de enlace directo con el consulado respectivo para apoyo al turista, cuando se trate de quejas en el extranjero.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+###### Artículo 76.
 
-El internamiento involuntario será revisado por la autoridad judicial a petición de la persona internada o de su representante. La resolución de la autoridad judicial deberá estar fundada en dictamen pericial y, en caso de que se resuelva la terminación del internamiento, deberá establecer un plazo para que se ejecute la misma. En todo caso, durante dicho procedimiento deberá garantizarse la defensa de los intereses de la persona internada.
+Independientemente de lo estipulado en el presente Capítulo, cuando el turista resida en el país, podrá presentar su queja por la deficiente prestación del servicio contratado u ofrecido, ante la Delegación Estatal de la Procuraduría Federal de Protección al Consumidor.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+###### Artículo 77.
 
-Las autoridades sanitarias deberán coordinarse con los organismos públicos de protección a los derechos humanos para que los establecimientos dedicados a la atención y tratamiento de las personas con trastornos mentales y del comportamiento sean supervisados continuamente, a fin de garantizar el respeto a los derechos de las personas internadas.
+La Secretaría en el ámbito de su competencia, vigilará el cumplimiento de la Ley Federal de Turismo, la presente ley, su reglamento, así como de los convenios y acuerdos que en materia de verificación y vigilancia se celebren.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
+La Secretaría establecerá un programa permanente de verificación y vigilancia de la operación de prestadores de servicios turísticos en el Estado.
 
-###### ARTICULO 76.
+## TÍTULO CUARTO. DEL TURISMO EN LOS MUNICIPIOS
 
-La Secretaría de Salud establecerá las normas oficiales mexicanas para los establecimientos que prestan atención a las personas con trastornos mentales y del comportamiento, de la red del Sistema Nacional de Salud.
-
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
-
-A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
-
-###### ARTICULO 77.
-
-Los padres, tutores, quienes ejercen la patria potestad o quienes ostenten la representación legal de personas con trastornos mentales y del comportamiento, serán responsables de la guardia o custodia. Las autoridades educativas y cualquier persona que esté en contacto con las personas con trastornos mentales y del comportamiento, procurarán la oportuna y debida atención de los mismos.
-
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
-
-A estos efectos, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de las personas con trastornos mentales y del comportamiento.
-
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
-
-En caso de que el diagnóstico confirme la existencia de un trastorno mental y del comportamiento, y que se requiera el internamiento del menor, deberá respetarse lo dispuesto por el artículo 75 de esta Ley y dicho internamiento deberá efectuarse en un establecimiento o área específicamente destinada a la atención de menores. De igual manera, se deberán tomar las medidas necesarias a fin de proteger los derechos que consigna la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
-
-## TITULO TERCERO BIS. De la Protección Social en Salud
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
-
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+### Capítulo I. De la Educación en materia de Turismo
 
 ###### ARTICULO 77 Bis 4.
 
@@ -1604,13 +1338,9 @@ El Ejecutivo Federal, por conducto de la Secretaría de Salud, y los gobiernos d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO V. De las Cuotas Familiares
+### Capítulo II. De la Capacitación y Adiestramiento Turístico
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
-
-### CAPITULO VI. Del Fondo de Protección contra Gastos Catastróficos
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+### Capítulo I. De los Prestadores de Servicios Turísticos
 
 ###### ARTICULO 77 Bis 29.
 
@@ -1666,9 +1396,7 @@ Será causa de responsabilidad administrativa el incumplimiento en tiempo y form
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+### Capítulo II. Del Registro Estatal de Turismo
 
 ###### ARTICULO 77 Bis 20.
 
@@ -1680,9 +1408,7 @@ La Secretaría de Salud definirá las variables que serán utilizadas en la fór
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+### Capítulo Único. De la Protección, Información, Orientación y Auxilio al Turista
 
 ###### ARTICULO 77 Bis 21.
 
@@ -1736,9 +1462,7 @@ Con el objeto de favorecer el uso responsable de los servicios de salud, el Cons
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+### Capítulo Único. De la Verificación y Vigilancia de la Operación de los Prestadores de Servicios Turísticos
 
 ###### ARTICULO 77 Bis 30.
 
@@ -1754,9 +1478,7 @@ No se considerarán elegibles para la participación en los recursos del fondo q
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+### Capítulo I. De las Sanciones
 
 ###### ARTICULO 77 Bis 31.
 
@@ -1792,7 +1514,7 @@ Las responsabilidades administrativas, civiles y penales que deriven de afectaci
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
+### Capítulo II. De los Medios de Impugnación
 
 ###### ARTICULO 77 Bis 33.
 
@@ -1922,129 +1644,121 @@ En los casos en que se materialicen los supuestos a que se refiere este Capítul
 
 ### CAPITULO UNICO
 
-## TITULO CUARTO. Recursos Humanos para los Servicios de Salud
+## TÍTULO QUINTO. DE LA EDUCACIÓN, CAPACITACIÓN Y ADIESTRAMIENTO TURÍSTICO
 
 ### CAPITULO UNICO
 
 > <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-###### ARTICULO 78.
+###### Artículo 78.
 
-El ejercicio de las profesiones, de las actividades técnicas y auxiliares y de las especialidades para la salud, estará sujeto a:
+Es facultad de la Secretaría realizar visitas de verificación y vigilancia a los prestadores de servicios turísticos, para constatar el debido cumplimiento de las obligaciones establecidas en la presente ley y demás normas vigentes, buscando propiciar la excelencia en la prestación de los servicios turísticos.
 
-I.- La Ley Reglamentaria del artículo 5o. Constitucional, relativo al ejercicio de las profesiones en el Distrito Federal;
+La Secretaría establecerá mecanismos de coordinación con dependencias y entidades de los tres niveles de gobierno, con el objeto de evitar la duplicidad de funciones en materia de verificación y vigilancia de los prestadores de servicios turísticos.
 
-II.- Las bases de coordinación que, conforme a la Ley, se definan entre las autoridades educativas y las autoridades sanitarias;
+###### Artículo 79.
 
-III.- Las disposiciones de esta Ley y demás normas jurídicas aplicables, y
+Las visitas de verificación que efectúe la Secretaría se practicarán en días y horas hábiles, por personal expresamente autorizado que exhiba identificación vigente y la orden de verificación respectiva, la que deberá ser expedida por la autoridad o autoridades competentes y en la que claramente se especifiquen las disposiciones de cuyo cumplimiento habrá de verificarse y la manera de hacerlo. Podrán practicarse visitas en días y horas inhábiles, en aquellos casos en que el tipo y la naturaleza de los servicios así lo requieran, pero dentro del horario de funcionamiento autorizado por el establecimiento.
 
-IV.- Las leyes que expidan los estados, con fundamento en los artículos 5o. y 121, fracción V, de la Constitución Política de los Estados Unidos Mexicanos.
+###### Artículo 80.
 
-###### ARTICULO 79.
+Durante las visitas de verificación, los prestadores de servicios turísticos deberán proporcionar a la Secretaría la información que les sea solicitada, siempre que se refiera a cuestiones propias de la verificación y conforme a la legislación aplicable en la materia.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+La persona que declare hechos falsos ante el personal autorizado de la Secretaría, será sancionado conforme a la legislación penal.
 
-> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2007)</small>
+###### Artículo 81.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la atención médica prehospitalaria, medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+A toda visita de verificación que realice la Secretaría corresponderá el levantamiento de un acta circunstanciada, en presencia de dos testigos propuestos por la persona que haya atendido la visita, o por el verificador en caso de que aquélla se hubiere negado a designarlos.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+###### Artículo 82.
 
-###### ARTICULO 80.
+En las actas que se levanten con motivo de la visita de verificación, se hará constar por lo menos lo siguiente:
 
-Para el registro de diplomas de las actividades técnicas y auxiliares, la Secretaría de Salud, a petición de las autoridades educativas competentes, emitirá la opinión técnica correspondiente.
+I. Hora, día, mes y año en que se practicó la visita;
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+II. Objeto de la visita;
 
-###### ARTICULO 81.
+III. Número y fecha de la orden de verificación, así como de la identificación oficial del verificador;
 
-La emisión de los diplomas de especialidades médicas corresponde a las instituciones de educación superior y de salud oficialmente reconocidas ante las autoridades correspondientes.
+IV. Ubicación física del establecimiento o instalaciones en donde se preste el servicio turístico objeto de la verificación, especificando la calle, número, colonia, población, entidad federativa y código postal;
 
-Para la realización de los procedimientos médicos quirúrgicos de especialidad se requiere que el especialista haya sido entrenado para la realización de los mismos en instituciones de salud oficialmente reconocidas ante las autoridades correspondientes.
+V. Nombre y carácter o personalidad jurídica de la persona con quien se entendió la visita;
 
-El Comité Normativo Nacional de Consejos de Especialidades Médicas tendrá la naturaleza de organismo auxiliar de la Administración Pública Federal a efecto de supervisar el entrenamiento, habilidades, destrezas y calificación de la pericia que se requiere para la certificación y recertificación de la misma en las diferentes especialidades de la medicina reconocidas por el Comité y en las instituciones de salud oficialmente reconocidas ante las autoridades correspondientes.
+VI. Nombre y domicilio de las personas designadas como testigos. En caso de negarse a proporcionarlos se asentará tal circunstancia en el acta, lo que no invalidará su contenido;
 
-Los Consejos de Especialidades Médicas que tengan la declaratoria de idoneidad y que estén reconocidos por el Comité Normativo Nacional de Consejos de Especialidades Médicas, constituido por la Academia Nacional de Medicina de México, la Academia Mexicana de Cirugía y los Consejos de Especialidad miembros, están facultados para expedir certificados de su respectiva especialidad médica.
+VII. Síntesis descriptiva de la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma;
 
-Para la expedición de la cédula de médico especialista las autoridades educativas competentes solicitarán la opinión del Comité Normativo Nacional de Consejos de Especialidades Médicas.
+VIII. Declaración de la persona con quien se entendió la visita, o su negativa en el caso de que no sea su deseo hacerla; y
 
-###### ARTICULO 82.
+IX. Nombre y firma del verificador, de quien atendió la visita y de las personas que hayan fungido como testigos. Si los testigos se negaren a firmar el acta, se asentará tal circunstancia y la misma tendrá plena validez.
 
-Las autoridades educativas competentes proporcionarán a las autoridades sanitarias la relación de títulos, diplomas y certificados del área de la salud que hayan registrado y la de cédulas profesionales expedidas, así como la información complementaria sobre la materia que sea necesaria.
+###### Artículo 83.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### ARTICULO 83.
-
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades médicas, deberán poner a la vista del público un anuncio que indique la institución que les expidió el Título, Diploma, número de su correspondiente cédula profesional y, en su caso, el Certificado de Especialidad vigente. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
+Una vez elaborada el acta, el verificador proporcionará una copia de la misma a la persona con quien se entendió la visita, aún en el caso de que ésta se hubiere negado a firmarla, hecho que no desvirtuará su validez.
 
 ### CAPITULO UNICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-###### ARTICULO 84.
+###### Artículo 84.
 
-Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social en los términos de las disposiciones legales aplicables en materia educativa y de las de esta Ley.
+La Secretaría podrá utilizar el auxilio de la fuerza pública para efectuar la visita de verificación, cuando alguna o algunas personas por cualquier medio obstaculicen o se opongan a la práctica de la propia verificación, independientemente de las sanciones a que haya lugar.
 
-###### ARTICULO 85.
+###### Artículo 85.
 
-Los aspectos docentes de la prestación del servicio social se regirán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorgan las disposiciones que rigen su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
+Recibida el acta de verificación, la Secretaría requerirá al interesado mediante notificación personal o por correo certificado con acuse de recibo, a fin de que adopte de inmediato las medidas correctivas de urgente aplicación fundando y motivando el requerimiento. Se le apercibirá para que dentro del término de diez días hábiles, contados a partir de la notificación, manifieste por escrito lo que a su derecho convenga, ofrezca las pruebas y alegatos en relación con los hechos u omisiones asentados en la misma.
 
-La operación de los programas en los establecimientos de salud se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
+A cada visita de verificación corresponderá un número de expediente y se asentará en el libro de registro de la Secretaría, en los términos del reglamento de la presente ley.
 
-###### ARTICULO 86.
+###### Artículo 86.
 
-Para los efectos de la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades de salud y las educativas, con la participación que corresponda a otras dependencias competentes.
+Las infracciones a lo dispuesto en la presente ley y su reglamento, serán sancionadas por la Secretaría, sin perjuicio de otras sanciones que correspondan por violaciones a las leyes y reglamentos, estatales y municipales.
 
-###### ARTICULO 87.
+###### Artículo 87.
 
-La prestación del servicio social de los pasantes de las profesiones para la salud, se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención, prioritariamente en áreas de menor desarrollo económico y social.
+Por infracciones a esta ley, la Secretaría impondrá las siguientes sanciones:
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+I. Por infracciones a lo establecido en el artículo 65 y las fracciones VI, VIII, XII, XVI y XVII del artículo 66, se impondrá una multa de hasta el equivalente a 500 cuotas de salario mínimo vigente en el Estado;
 
-###### ARTICULO 88.
+II. Por infracciones a lo previsto en las fracciones V, VII y IX del artículo 66, se sancionará con multa hasta por el equivalente a 1000 cuotas de salario mínimo vigente en el Estado; y
 
-La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+III. Por infracciones a lo estipulado en las fracciones XV y XVIII del artículo 66, se sancionará con multa hasta por el equivalente a 3000 cuotas de salario mínimo vigente en el Estado.
+
+###### Artículo 88.
+
+En la aplicación de las sanciones de (sic) deberán considerar:
+
+I. Los datos que consten en las actas levantadas por la Secretaría;
+
+II. Los datos comprobados que aporten las denuncias y quejas de los turistas;
+
+III. El daño económico y los perjuicios que se hubiesen ocasionado al turista;
+
+IV. La publicidad o información de los prestadores de servicios y la comprobación de las infracciones; y
+
+V. Cualquier otro elemento o circunstancia que aporte elementos de convicción para la (sic) aplicar la sanción.
 
 ### CAPITULO I. Disposiciones comunes
 
-###### ARTICULO 89.
+###### Artículo 89.
 
-Las autoridades educativas, en coordinación con las autoridades sanitarias y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
+Para determinar el monto de las multas, la Secretaría deberá tomar en consideración, además de lo señalado en el artículo anterior, la gravedad de la infracción y las condiciones económicas del prestador de servicios, el tipo de servicio, categoría y los precios y tarifas establecidos.
 
-Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
+###### Artículo 90.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+Para efectos del presente Capítulo se entiende por reincidencia, cuando el mismo infractor incurra en el transcurso de un año, en dos o más infracciones del mismo precepto legal, contándose el mencionado plazo a partir de la fecha de la primera infracción.
 
-###### ARTICULO 90.
+En caso de reincidencia se podrá aplicar multa hasta por el doble de la impuesta originalmente.
 
-Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, sin perjuicio de las atribuciones de las autoridades educativas en la materia y en coordinación con éstas:
+Bajo ninguna circunstancia podrá ser sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones.
 
-I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del país en materia de salud;
+###### Artículo 91.
 
-II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
+El cobro de las multas se realizará por la Secretaría de Finanzas, a través del procedimiento económico coactivo.
 
-III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros, y
+###### Artículo 92.
 
-IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-###### ARTICULO 91.
-
-La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, coadyuvarán con las autoridades e instituciones educativas, cuando éstas lo soliciten, en:
-
-I.- El señalamiento de los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos, y
-
-II.- En la definición del perfil de los profesionales para la salud en sus etapas de formación.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-###### ARTICULO 92.
-
-Las Secretarías de Salud y de Educación Pública y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades del Sistema Nacional de Salud, de los sistemas estatales de salud y de los programas educativos.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+Contra las resoluciones y actos de la Secretaría, se podrá interponer el juicio de nulidad establecido en la Ley del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
 
 ###### ARTICULO 93.
 
@@ -2066,7 +1780,7 @@ Los aspectos docentes del internado de pregrado y de las residencias de especial
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
 
-## TITULO QUINTO. Investigación para la Salud
+## TÍTULO SEXTO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
 
 ### CAPITULO II. Educación para la salud
 
@@ -2186,9 +1900,7 @@ En el tratamiento de una persona enferma, el médico podrá utilizar recursos te
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-## TITULO QUINTO BIS. El Genoma Humano
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+## TÍTULO SÉPTIMO. DEL SISTEMA ESTATAL DE PROTECCIÓN AL TURISTA
 
 ### CAPITULO III. Nutrición
 
@@ -2244,7 +1956,7 @@ A efecto de preservar el interés público y sentido ético, en el estudio, inve
 
 Quien infrinja los preceptos de este Capítulo, se hará acreedor a las sanciones que establezca la Ley.
 
-## TITULO SEXTO. Información para la Salud
+## TÍTULO OCTAVO. DE LA VERIFICACIÓN Y VIGILANCIA DE LOS SERVICIOS TURÍSTICOS
 
 ### CAPITULO IV. Efectos del ambiente en la salud
 
@@ -2298,7 +2010,7 @@ La Secretaría de Salud proporcionará a la Secretaría de Hacienda y Crédito P
 
 Corresponde a la Secretaría de Salud emitir la normatividad a que deberán sujetarse los sistemas de información de registro electrónico que utilicen las instituciones del Sistema Nacional de Salud, a fin de garantizar la interoperabilidad, procesamiento, interpretación y seguridad de la información contenida en los expedientes clínicos electrónicos.
 
-## TITULO SEPTIMO. Promoción de la Salud
+## TÍTULO NOVENO. DE LAS SANCIONES Y MEDIOS DE IMPUGNACIÓN
 
 ### CAPITULO V. Salud ocupacional
 
@@ -7470,105 +7182,57 @@ Lo mismo se observará respecto de los delitos de comercio, suministro y posesi�
 
 ## TRANSITORIOS
 
-PRIMERO.- Esta Ley entrará en vigor a partir del primero de julio de mil novecientos ochenta y cuatro.
+Artículo primero.- La presente ley entrará en vigor el día primero de enero del año dos mil cinco.
 
-SEGUNDO.- Se deroga el Código Sanitario de los Estados Unidos Mexicanos de 26 de febrero de 1973, publicado en el Diario Oficial de la Federación el 13 de marzo de 1973, a excepción de las disposiciones que conforme a esta ley sean materia de salubridad local, hasta en tanto no se expidan las leyes de salud locales correspondientes. Se derogan las demás disposiciones legales en lo que se opongan a las de la presente Ley.
+Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan la presente ley.
 
-TERCERO.- Se abrogan la Ley de Coordinación y Cooperación de Servicios Sanitarios en la República, publicada en el Diario Oficial de la Federación el 25 de agosto de 1934; la Ley que declara de utilidad pública la campaña contra el Paludismo y crea la Comisión de Saneamiento Antimalárico, publicada en el Diario Oficial de la Federación el 27 de septiembre de 1938; la Ley de la Dirección de Cooperación Interamericana de Salubridad Pública, publicada en el Diario Oficial de la Federación el 2 de marzo de 1945, y la Ley que autoriza la creación de la Granja para Alienados Pacíficos en San Pedro del Monte, Guanajuato, publicada en el Diario Oficial de la Federación el 11 de junio de 1945.
+Artículo tercero.- El reglamento de la presente ley, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los sesenta días naturales siguientes a la entrada en vigor de este ordenamiento.
 
-CUARTO.- En tanto se expidan las disposiciones administrativas derivadas de esta Ley, seguirán en vigor las que rigen actualmente, en lo que no la contravengan, y sus referencias al Código Sanitario de los Estados Unidos Mexicanos que se deroga, se entienden hechas en lo aplicable a la presente Ley.
+Artículo cuarto.- Las atribuciones y funciones que por virtud de convenios y acuerdos en materia turística se determinen en favor del Estado, serán ejercidas por la Secretaría en los términos y condiciones pactados.
 
-QUINTO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia del Código Sanitario de los Estados Unidos Mexicanos que se deroga, se tramitarán y resolverán conforme a las disposiciones del citado Código.
+Artículo quinto.- Dentro del término de noventa días naturales contados a partir de la vigencia de esta ley, deberá quedar implementado el Registro Estatal de Turismo, y el Fondo de Desarrollo y Fomento al Turismo de Zacatecas.
 
-SEXTO.- El Ejecutivo Federal, por conducto de la Secretaría de Salubridad y Asistencia, celebrará, en un plazo que no excederá de un año, contado a partir de la fecha en que entre en vigor esta Ley, con los gobiernos de los Estados, los acuerdos de coordinación que respecto de aquellas materias que en los términos de esta ley y demás disposiciones legales aplicables sean de interés común.
+Artículo sexto.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente ley, deberán quedar conformados los Consejos Consultivos Turísticos señalados en la misma.
 
-En el Distrito Federal, el Ejecutivo Federal determinará las bases de coordinación y de los convenios entre la Secretaría de Salubridad y Asistencia y el propio Departamento del Distrito Federal para los efectos del párrafo anterior.
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 
-SEPTIMO.- Se concede un plazo de sesenta días naturales, contados a partir de la fecha en que entre en vigor esta Ley, para que los fabricantes y embotelladores de bebidas alcohólicas, fabricantes de productos de tabaco, fabricantes y expendedores de agentes de diagnóstico y de medicamentos, y, en general, todos los obligados conforme a esta Ley, incluyan en las etiquetas, contraetiquetas y envases, las leyendas que la misma establece.
+DADO en la Sala de Sesiones de la Honorable Quincuagésima Séptima Legislatura del Estado a los veintinueve días del mes de junio del año dos mil cuatro.- Diputado Presidente.- PABLO LEOPOLDO ARREOLA ORTEGA. Diputados Secretarios.- JORGE FAJARDO FRÍAS y SAMUEL SOLÍS DE LARA.- Rúbricas.
 
-México, D. F., a 26 de diciembre de 1983.- Luz Lajous, D.P.- Raúl Salinas Lozano, S.P.- Xóchitl Elena Llanera de Guillén, D.S.- Alberto E. Villanueva Sansores, S.S.- Rúbricas".
+Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando, se imprima, publique y circule.
 
-En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y tres.- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Fomento y Comercio Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Rodolfo Félix Valdés.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Marcelo Javelly Girard.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
+DADO en el Despacho del Poder Ejecutivo del Estado, a los ocho días del mes de julio del año dos mil cuatro.
+
+A t e n t a m e n t e
+
+"SUFRAGIO EFECTIVO, NO REELECCIÓN".
+
+EL GOBERNADOR DEL ESTADO DE ZACATECAS
+
+DR. RICARDO MONREAL ÁVILA
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+LIC. JAIME ARTURO CASAS MADERO.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-D.O.F. 27 DE MAYO DE 1987.
+P.O. 26 DE SEPTIEMBRE DE 2009.
 
-PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, a excepción de las relativas a los artículos 332 y 462 en su fracción II respecto de la sangre, exclusivamente, los cuales iniciarán su vigencia a los noventa días de la expresada publicación.
+Artículo primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-SEGUNDO.- Se concede un plazo de sesenta días contados a partir de que entren en vigor las presentes reformas y adiciones, para que los fabricantes de productos de tabaco incluyan en las etiquetas y envases en que se expenda o suministre ese producto, la leyenda a que se refiere el artículo 276 de la Ley General de Salud, reformado en los términos de este Decreto.
+Artículo segundo.- Se derogan todas las disposiciones que se opongan al presente Instrumento Legislativo.
 
-TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+Artículo tercero.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2010, deberán incluirse las partidas presupuestales para los municipios declarados pueblo mágico.
 
-CUARTO.- El Poder Ejecutivo Federal expedirá las bases para la coordinación que las Secretarías de Comercio y Fomento Industrial, de Agricultura y Recursos Hidráulicos, de Desarrollo Urbano y Ecología y de Salud, deberán observar, según las atribuciones que esta Ley, la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos, la Ley Federal de Protección al Ambiente y las demás leyes aplicables les confieran en materia de emisión de normas técnicas y de otorgamiento de autorizaciones, en sus modalidades de licencias, permisos y registros relativos a la explotación, obtención, elaboración, fabricación, formulación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, aplicación, almacenamiento, comercialización, tenencia, uso, disposición final, importación y exportación de plaguicidas, fertilizantes y sustancias tóxicas.
+P.O. 2 DE SEPTIEMBRE DE 2015.
 
-D.O.F. 23 DE DICIEMBRE DE 1987.
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-PRIMERO.- Las reformas a que se refiere este Decreto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. En el Presupuesto de Egresos del Estado para el ejercicio fiscal del año siguiente a la publicación del presente Decreto en el Periódico Oficial, se procurará incluir las partidas presupuestales correspondientes para los municipios que cuenten con sitios declarados Patrimonio Mundial.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
-D.O.F. 14 DE JUNIO DE 1991.
-
-PRIMERO.- El presente Decreto de reformas y adiciones entrará en vigor a los 90 días naturales, contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación, salvo en el caso de los artículos 3°., 15, 64, 65, 67, 313, 314, 318, 319, 321, 322, 325, 329, 330, 331, 334 y 349 cuya modificación surtirá efectos al día siguiente de dicha publicación.
-
-SEGUNDO.- Se concede un plazo de 30 días naturales contados a partir de que entre en vigor el presente Decreto, para que los titulares de las unidades hospitalarias y clínicas del Sistema Nacional de Salud, señalen las áreas en las que se prohibe el consumo de tabaco a que se refiere el artículo 277 Bis de la Ley General de Salud.
-
-TERCERO.- Se concede un plazo de 60 días naturales, contados a partir de que entre en vigor el presente Decreto, para que los fabricantes de productos de tabaco incluyan en las etiquetas o envases en que se expenda o suministre ese producto, las leyendas a que se refiere el artículo 276 de la Ley General de Salud, reformado en los términos de este Decreto.
-
-CUARTO.- Se concede un plazo de 60 días naturales contados a partir de que entre en vigor el presente Decreto, para que en la publicidad masiva de medicamentos de libre venta se incluya la leyenda a que se refiere el párrafo cuarto del artículo 310 de la Ley General de Salud, reformado en los términos de este Decreto.
-
-QUINTO.- Se concede un plazo de 60 días naturales a partir de que entre en vigor el presente Decreto, para que los productores o fabricantes incorporen a la denominación de los medicamentos el principio activo del producto.
-
-SEXTO.- En tanto no se emitan las normas técnicas a que se refiere el artículo 210, continuarán en vigor los requisitos que rigen actualmente.
-
-SEPTIMO.- Las autorizaciones sanitarias expedidas con anterioridad a la vigencia del presente Decreto, se considerarán otorgadas por tiempo indeterminado, con las excepciones que establezca la ley.
-
-OCTAVO.- Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos del presente Decreto.
-
-NOVENO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O.F. 24 DE OCTUBRE DE 1994.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 26 DE JULIO DE 1995.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 9 DE JULIO DE 1996.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 7 DE MAYO DE 1997.
-
-PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos del presente Decreto.
-
-TERCERO. En tanto se expiden las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
-
-D.O.F. 26 DE MAYO DE 2000.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que a continuación se señalan que entrarán en vigor en los plazos que se indican, contados a partir de la expresada publicación:
-
-I. A los tres meses los artículos 316, segundo párrafo, 322; 323, 324 y 325, y
-
-II. A los doce meses el artículo 336, segundo párrafo.
-
-SEGUNDO. En tanto se expiden las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
-
-TERCERO. La Secretaría de Salud, en un plazo no mayor de seis meses contados a partir de la entrada en vigor del presente Decreto, promoverá ante las demás dependencias de la Administración Pública Federal y los gobiernos de las entidades federativas, que se otorguen facilidades para que en los documentos públicos que les corresponda expedir a los particulares, éstos puedan asentar su consentimiento expreso o negativa para la donación de órganos y tejidos.
-
-CUARTO. La Secretaría de Salud, en un plazo no mayor de nueve meses contados a partir de la entrada en vigor del presente Decreto, deberá tener debidamente integrada la información señalada en el artículo 338.
-
-QUINTO. En tanto entra en funciones el Centro Nacional de Trasplantes, la Secretaría de Salud ejercerá las facultades de control sanitario a que se refiere la fracción I del artículo 313 de esta Ley, por conducto de la unidad administrativa que, conforme al Reglamento Interior de esa Dependencia, actualmente tenga a su cargo la vigilancia de los actos de disposición de órganos.
-
-D.O.F. 31 DE MAYO DE 2000.
-
-Unico.- Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 5 DE ENERO DE 2001.
+P.O. 20 DE ENERO DE 2016.
 
 ###### ARTICULO UNICO.
 
@@ -8129,3 +7793,9 @@ D.O.F. 4 DE DICIEMBRE DE 2013.
 DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 220 Y UN ARTÍCULO 467 BIS A LA LEY GENERAL DE SALUD.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 502.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado y entrará en vigor al día siguiente al de su publicación.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
