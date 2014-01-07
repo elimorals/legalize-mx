@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4155
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-01"
-last_updated: "2004-11-01"
+last_updated: "2014-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CHIMALHUACAN
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CHIMALHUACAN
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CHIMALHUACÁN, ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CHIMALHUACÁN, ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 7 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE ENERO DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 1 de noviembre de 2004.
 
@@ -396,3 +398,13 @@ ING. JOSÉ LUIS CASILLAS RODRIGUEZ
 DIRECTOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CHIMALHUACÁN Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 7 DE ENERO DE 2013.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior del Tecnológico de Estudios Superiores de Chimalhuacán, publicado en el Periódico Oficial "Gaceta del Gobierno" el 01 de noviembre del 2004.
