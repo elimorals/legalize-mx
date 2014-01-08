@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-consejo-estatal-electoral-de-sinaloa-39
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-02"
-last_updated: "2013-10-16"
+last_updated: "2014-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL ELECTORAL DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 2 de junio de 2004.
 
@@ -552,9 +552,11 @@ f).- Asistir puntualmente a las reuniones de la Comisión respectiva.
 
 g).- Las demás que le confiera el Consejo Estatal y su Presidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 63.
 
-El Coordinador de Administración, además de las de ley, tendrá las facultades siguientes:
+El Coordinador de Administración, además de las de ley, tendrá las facultades y obligaciones siguientes:
 
 a).- Aplicar las políticas, normas y procedimientos para la administración de los recursos financieros y materiales del Consejo Estatal.
 
@@ -564,9 +566,17 @@ c).- Atender las necesidades administrativas del Consejo.
 
 d).- Apoyar al Presidente, con la colaboración del Secretario del Consejo, y de los Coordinadores y titulares de áreas, en la elaboración del Anteproyecto de Presupuesto anual del Consejo Estatal.
 
-e).- Asistir puntualmente a las reuniones de la Comisión respectiva.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2014)</small>
 
-f).- Las demás que le confiera el Consejo Estatal y su Presidente.
+e).- Asistir puntualmente a las reuniones de la Comisión de Presupuesto y Administración y del Comité de Adquisiciones, Arrendamientos y Servicios.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2014)</small>
+
+f).- Proporcionar a la Comisión de Presupuesto y Administración, toda la información financiera y presupuestaria que ésta le solicite, en un plazo no mayor a 5 días hábiles.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+g).- Las demás que le confieran el Consejo Estatal y su Presidente.
 
 ###### ARTICULO 64.
 
@@ -766,9 +776,11 @@ XIII. Vigilar la aplicación del Reglamento para la difusión y fijación de la 
 
 XIV. Las demás que le confiera expresamente el Consejo.
 
-###### ARTICULO 83.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2014)</small>
 
-Son facultades de la Comisión de presupuesto y administración, las siguientes:
+###### ARTÍCULO 83.
+
+Son facultades y obligaciones de la Comisión de Presupuesto y Administración, las siguientes:
 
 I. Apoyar al Presidente del Consejo en la revisión del anteproyecto de presupuesto de egresos, en el año electoral.
 
@@ -790,9 +802,17 @@ VII. Expedir la convocatoria pública y desarrollar el procedimiento para la des
 
 VIII. Ejecutar la política aprobada por el Pleno para implementar el Servicio Profesional de Carrera.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2014)</small>
 
-IX. Desarrollar las demás que le confieran este Reglamento y las que expresamente le encomiende el Pleno.
+IX. Solicitar toda la información financiera y presupuestaria a la Coordinación de Administración, ya sea de motu proprio o a petición de cualquier Consejero.
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2014)</small>
+
+X. Utilizar la información que reciba únicamente para el desempeño de las atribuciones de la Comisión, respetando en todo tiempo los acuerdos de reserva y la confidencialidad delos (sic) datos personales;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2014)</small>
+
+XI. Las demás que le confieran este Reglamento y las que expresamente le encomiende el Pleno.
 
 ###### ARTICULO 84.
 
@@ -1166,6 +1186,180 @@ La coordinación del trámite y seguimiento de los asuntos que son competencia d
 
 En caso de ausencia absoluta del Contralor, corresponderá a la Comisión de Presupuesto y Administración desarrollar el procedimiento previsto en el artículo 118 de este Reglamento, para hacer la propuesta respectiva al Pleno.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DEL 2014)</small>
+
+## TITULO NOVENO. DEL COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2014)</small>
+
+### CAPITULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 126.
+
+El Comité de Adquisiciones, Arrendamientos y Servicios del Consejo Estatal Electoral de Sinaloa, es un órgano colegiado interno encargado de supervisar y aprobar los procedimientos de adjudicación para la adquisición de bienes muebles, arrendamientos, así como la contratación de servicios de cualquier naturaleza, cuando éstos se encuentren en alguno de los supuestos establecido (sic) en el artículo 32 de la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles para el Estado de Sinaloa, que sean requeridos por las diferentes áreas del Consejo Estatal para el desarrollo de sus funciones; así como proponer al Pleno la baja y destino de bienes muebles en desuso, incluyendo su venta o donación, en los términos de la Ley en mención.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 127.
+
+El Comité estará integrado de la siguiente manera:
+
+I. Un Presidente, que será el Presidente del Consejo Estatal Electoral;
+
+II. Un Secretario Técnico, que será el Coordinador de Administración del Consejo Estatal, y;
+
+III. Tres Vocales, que serán los consejeros integrantes de la Comisión de Presupuesto y Administración.
+
+Los integrantes del Comité tendrán derecho a voz y voto. Todos los acuerdos y resoluciones del Comité se tomarán por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 128.
+
+El Comité sesionará en el domicilio oficial del Consejo Estatal Electoral, siempre que sea convocado por su Presidente, o cuando así lo acuerde la mayoría de sus integrantes con derecho a voto. Las convocatorias se realizarán por escrito y deberán entregarse por lo menos setenta y dos horas antes de la establecida para el inicio de la sesión.
+
+El Comité realizará sus sesiones con asistencia de la mayoría de sus integrantes, entre los que deberá estar el Presidente. Cuando existiendo convocatoria formal no se reúna la mayoría de sus integrantes, el Comité sesionará válidamente dentro de las veinticuatro horas siguientes, siempre y cuando se encuentre el Presidente y con la asistencia mínima de dos vocales.
+
+Cuando por causa de fuerza mayor no pudiera asistir el Secretario Técnico, lo comunicará al Presidente, para que este convoque al Secretario General del Consejo Estatal para suplirlo en la sesión.
+
+A las sesiones del Comité podrán asistir los titulares de las áreas solicitantes de los bienes y servicios cuyos procedimientos deban discutirse, a efecto de que expongan detalladamente las necesidades a cubrir y las especificaciones de los bienes y servicios que requiera.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 129.
+
+El Comité tendrá las siguientes atribuciones:
+
+I. Sesionar cuando para ello sea convocado en términos del presente Reglamento. Los acuerdos y resoluciones aprobados por unanimidad que se tomaran en reunión de trabajo sin convocatoria formal, solo serán válidos si se consignan por escrito firmado por la totalidad de los integrantes;
+
+II. Recibir las solicitudes de adquisición de bienes y servicios que sean de su competencia;
+
+III. Realizar por conducto del Secretario Técnico las investigaciones de mercado que fueran necesarias, y recabar la documentación que se requiera para motivar sus acuerdos y resoluciones;
+
+IV. Aprobar los procedimientos para la adjudicación de las adquisiciones de bienes muebles, servicios y arrendamientos que requiera el Consejo Estatal;
+
+V. Autorizar cuando proceda conforme a la ley de la materia, las operaciones de que deban llevarse a cabo como excepciones al procedimiento de licitación pública en términos de la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles para el Estado de Sinaloa;
+
+VI. Proponer al Pleno los acuerdos de baja y el destino final de bienes muebles en desuso, incluyendo su venta o donación, en los términos de la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles para el Estado de Sinaloa;
+
+VII. Procurar que los procedimientos de adquisición de bienes y servicios participen preferentemente micro, pequeñas y medianas empresas locales y despachos o profesionistas residentes en la entidad, salvo que los bienes o servicios requeridos no estén disponibles en la entidad, o que la diferencia de costos con respecto de los proveedores locales sea del veinte por ciento, siempre y cuando se garanticen las mismas condiciones de calidad, garantía y oportunidad;
+
+VIII. Las demás que deriven de la Ley y del presente Reglamento, así como las que específicamente les encomiende el Pleno del Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 130.
+
+El Comité llevará acabo (sic) los procedimientos de adquisición, arrendamiento y servicio de cualquier naturaleza, y dará vista a la Contraloría Interna cuando advierta incumplimiento, para que esta instaure el o los procedimientos que procedan.
+
+Los procedimientos de adquisición de bienes muebles, arrendamientos y servicios se regirán bajos los siguientes criterios económicos:
+
+Monto de compra
+
+DE HASTA Observaciones
+
+$1.00 $20,000.00 Compra directa
+
+$20,001.00 $50,000.00 Cotización por escrito de cuando menos tres proveedores.
+
+$50,001.00 $800,000.00 Concurso por invitación restringida de por lo menos tres proveedores.
+
+$800,001.00 En adelante Adjudicación mediante licitación pública a través de convocatoria pública.
+
+En los procedimientos de cotización por escrito de cuando menos tres proveedores y en los concursos por invitación restringida a por lo menos tres proveedores, dos de los destinatarios invitados serán propuestos por el Presidente del Comité o el Secretario Técnico, y un tercero será designado por la mayoría de los Vocal del Comité, previo acuerdo entre los mismos, debiendo ejecutarlo el Secretario Técnico del Comité.
+
+Las cotizaciones resultantes de este procedimiento deberán presentarse por escrito, en sobre cerrado. Los sobres serán abiertos, en reunión pública del Comité, previamente convocada en términos del presente Reglamento, para su debido análisis, discusión y, en su caso, sanción.
+
+Cuando en relación a un mismo bien mueble o servicio hayan sido declarados desiertos dos procedimientos de invitación a cuando menos tres personas, el Presidente del Consejo Estatal podrá adjudicar directamente el contrato, siempre y cuando el proveedor adjudicado cumpla con los requisitos establecidos en la última invitación. De lo anterior informará al Comité por conducto de su Secretario Técnico, dentro de los cinco días hábiles siguientes a la formalización del contrato.
+
+Se podrá declarar desierto un procedimiento cuando la totalidad de las proposiciones presentadas no reúnan los requisitos solicitados o los precios de todos los bienes, arrendamientos o servicios ofertados no resulten aceptables.
+
+El Comité de Adquisiciones deberá cuidar que las contrataciones adquisiciones, arrendamientos y servicios, no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTICULO 131.
+
+Las cotizaciones que presenten los proveedores en los casos a que se refieren los procedimientos de concurso por invitación restringida de por lo menos tres proveedores y de adjudicación mediante licitación pública a través de convocatoria pública a que se refiere el artículo inmediato anterior, deberán contener las propuestas, estimaciones o presupuestos de los bienes y/o servicios con las mismas características que se hayan solicitado.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 132.
+
+El Presidente del Comité tendrá las siguientes atribuciones:
+
+I. Convocar por sí mismo, por conducto del Secretario Técnico del Comité, o a través del Secretario General del Consejo Estatal en caso de ausencia o impedimento de éste, a las reuniones del Comité;
+
+II. Presidir las reuniones del Comité, teniendo voto de calidad en caso de empate;
+
+III. Dar a conocer mediante la página electrónica del Consejo Estatal Electoral, desde su inicio hasta su conclusión, los procedimientos de adquisición de bienes o servicios que realice y los que apruebe el Comité;
+
+IV. Ejecutar los acuerdos y resoluciones del Comité;
+
+V. Cuidar que las instituciones, empresas o particulares que se contraten, garanticen la calidad de los bienes y/o servicios suministrados al Consejo Estatal electoral;
+
+VI. Suscribir en unión con el Secretario General, los contratos que se celebren con apego al presente Reglamento;
+
+VII. Dar cuenta a la Contraloría interna de todas las contrataciones que se formalicen en relación con bienes muebles, arrendamientos y servicios; y solicitar la intervención que a ésta corresponda en los procedimientos para proponer al Pleno la baja y destino de bienes muebles en desuso, incluyendo su venta o donación, conforme a la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles para el Estado de Sinaloa.
+
+VIII. Denunciar ante la Contraloría Interna los incumplimientos en que incurran los servidores públicos que intervengan en los procedimientos de adjudicación y contratación;
+
+IX. Las demás que deriven de la ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles y de la Ley Electoral, ambas del estado de Sinaloa, o de cualquier otro ordenamiento legal o reglamento.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 133.
+
+Serán atribuciones del Secretario Técnico del Comité:
+
+I. Levantar las actas de las reuniones de trabajo del Comité y de sus respectivos acuerdos;
+
+II. Preparar para el análisis, discusión y en su caso aprobación del Comité, los proyectos de acuerdo que se propongan;
+
+III. Auxiliar al Presidente en la ejecución de los acuerdos tomados por el Comité.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTICULO 134.
+
+Serán atribuciones de los Vocales del Comité:
+
+I. Asistir puntualmente a las reuniones del Comité;
+
+II. Previo acuerdo tomado por la mayoría de los Vocales, solicitar al Presidente que se convoque a sesión del Comité;
+
+III. Opinar sobre la calidad de los bienes muebles que sean sujetos de los procedimientos de adquisición, y respecto a la contratación de servicios de cualquier naturaleza que requiera la Comisión.
+
+IV. Solicitar las cotizaciones que les corresponden en términos del tercer párrafo del artículo 130del (sic) presente reglamento;
+
+V. Denunciar ante la Contraloría Interna los incumplimientos en que incurran los servidores públicos que intervengan en los procedimientos de adjudicación y contratación.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 135.
+
+En las adquisiciones de bienes, arrendamientos o contrataciones de servicios de cualquier naturaleza necesarios para la realización de las funciones del Consejo Estatal Electoral, el Comité considerará lo siguiente:
+
+I. Que se sujeten a los procedimientos de contratación previstos en el presente reglamento y en el Titulo Cuarto de la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles para el Estado de Sinaloa, en lo que no se contraponga a las disposiciones del propio reglamento, en términos de lo dispuesto en el artículo 1°, segundo párrafo, de la propia Ley; y tengan condiciones de beneficio en cuanto a precio, calidad, oportunidad y garantía;
+
+II. Que las solicitudes de adquisición identifiquen el programa al que se destinarán los bienes o servicios requeridos.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 136.
+
+Las inconformidades se resolverán con apego a lo dispuesto en el Título Noveno, Capitulo Primero, Sección Primera de la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles para el Estado de Sinaloa.
+
+Toda promoción en términos de este articulo deberá presentarse por escrito, así como contener todos y cada uno de los requisitos a que se refiere el artículo 90 del ordenamiento legal citado con anterioridad.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 137.
+
+En todo evento, el Comité observará y aplicará los criterios y procedimientos previstos en la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles para el Estado de Sinaloa, en todo lo que resulten aplicables en concordancia con el presente reglamento, conforme a lo dispuesto en el artículo 1°, párrafo segundo de la referida ley.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "El Estado de Sinaloa".
@@ -1203,3 +1397,11 @@ P.O. 16 DE OCTUBRE DE 2013.
 > <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 CUARTO. Las modificaciones al Reglamento Interno del Consejo Estatal Electoral entrarán en vigor al día siguiente de su publicación "El Periódico Oficial El Estado de Sinaloa"
+
+P.O. 8 DE ENERO DE 2014.
+
+PRIMERO. Las presentes modificaciones y adiciones al reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Notifíquese el presente Acuerdo a los partidos políticos, en los domicilios que tienen señalados ante este órgano electoral; y por estrados, salvo que estuviera en el supuesto del artículo 239 de la Ley Electoral del Estado de Sinaloa.
+
+TERCERO. Publíquese el presente Acuerdo en el Periódico Oficial “El Estado de Sinaloa”
