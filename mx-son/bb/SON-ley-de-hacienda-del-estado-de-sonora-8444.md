@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2013-12-19"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -2001,7 +2001,7 @@ M BIS 1.- Será base de este Impuesto:
 
 I.- En los de juegos con apuestas, el monto total de las apuestas, y en los sorteos y las actividades a que se refiere el artículo 212-M de la presente Ley, el monto total del valor de la emisión, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
-Il.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+II.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
 III.- En el caso de concursos, el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
@@ -4035,17 +4035,9 @@ VIII.- Por Boletín Oficial que se adquiera en fecha Posterior a su publicación
 
 Tratándose de publicaciones de convenios autorización de fraccionamientos habitacionales se aplicará la cuota correspondiente reducida en un 75%.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 9 DE ENERO DE 2014)</small>
 
-Tratándose de publicación de los actos que por disposición de alguna ley deban publicarse en el Boletín Oficial, reglamentos y disposiciones administrativas de observancia general expedidos o aprobados por los ayuntamientos del Estado, que no actualicen los supuestos contemplados en el artículo 4o, fracciones I y II de la Ley del Boletín Oficial, se sujetarán a las reducciones conforme a la siguiente tabla:
-
-a).- A los municipios con población menor a 2,500 habitantes, la reducción será del 75 por ciento.
-
-b).- A los municipios con población entre 2,501 y 50.000 habitantes, la reducción será del 50 por ciento.
-
-c).- A los municipios con población entre 50.001 y 100.000 habitantes, la reducción será del 40 por ciento.
-
-d).- A los municipios con población mayor de 100.001, habitantes, la reducción será del 30 por ciento.
+Tratándose de publicación de los actos que por disposición de alguna ley deban publicarse en el Boletín Oficial, reglamentos y disposiciones administrativas de observancia general, expedidos o aprobados por los ayuntamientos del Estado, estarán exentos de cualquier pago.
 
 2.- Por los demás servicios prestados por la Dirección General de Documentación y Archivo, como sigue:
 
@@ -6463,7 +6455,7 @@ Asimismo, se faculta al Ejecutivo para que, a través de la Tesorería General d
 
 ###### ARTICULO CUARTO.
 
-Los contribuyentes o responsables solidarios que deban registrarse con motivos de las nuevas obligaciones fiscales que les impone esta Ley en sus diversos capítulos, lo harán durante el mes de Enero de 1977.
+Los contribuyentes o responsables solidarios que deban registrarse con motivo de las nuevas obligaciones fiscales que les impone esta Ley en sus diversos capítulos, lo harán durante el mes de Enero de 1977.
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
@@ -6975,7 +6967,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 23 DE SEPTIEMBRE DE 2013.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 47, QUE REFORMA EL ARTÍCULO 212-G 11 DE LA LEY DE HACIENDA DEL ESTADO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 47, QUE REFORMA EL ARTÍCULO 212-G 11 DE LA LEY DE HACIENDA DEL ESTADO”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -6998,3 +6990,9 @@ Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Es
 ###### ARTÍCULO CUARTO.
 
 Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
+
+B.O. 9 DE ENERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
