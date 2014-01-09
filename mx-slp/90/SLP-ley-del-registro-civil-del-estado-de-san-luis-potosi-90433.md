@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2013-12-31"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -51,9 +51,11 @@ LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSI
 
 La presente Ley es de orden público e interés social, y tiene por objeto regular la organización, funcionamiento y actos del Registro Civil en el Estado de San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 2°.
 
-El Registro Civil, es una institución por medio de la cual el Estado inscribe y da publicidad a los actos y hechos constitutivos, modificativos y extintivos del estado civil de las personas físicas, mediante las actas en que se consignan el nacimiento, el reconocimiento de hijos, el matrimonio, la defunción, así como de la inscripción de las sentencias ejecutorias que ordenen la rectificación de los asientos, que declaren la ausencia, la presunción de muerte o perdida ó la limitación de la capacidad para administrar bienes, la tutela, la nulidad de matrimonio, el divorcio, la adopción, la nulidad de reconocimiento de hijas o hijos, las dictadas en informaciones testimoniales para acreditar hechos relativos al nacimiento de los potosinos, de las actas de los extranjeros residentes en el territorio del Estado así como de los actos del estado civil de potosinos efectuados en el extranjero y los demás que así lo exijan las disposiciones legales aplicables.
+El Registro Civil es una institución por medio de la cual el Estado inscribe y da publicidad a los actos y hechos constitutivos, modificativos y extintivos del estado civil de las personas físicas, mediante las actas en que se consignan el nacimiento, el reconocimiento de hijos, el matrimonio, la defunción; así como de la inscripción de las sentencias ejecutorias que ordenen la rectificación de los asientos, que declaren la ausencia, la presunción de muerte o perdida o la limitación de la capacidad para administrar bienes, la tutela, la nulidad de matrimonio, el divorcio, la adopción, la nulidad de reconocimiento de hijas o hijos, las dictadas en informaciones testimoniales para acreditar hechos relativos al nacimiento de las y los mexicanos, de las actas de los extranjeros residentes en el territorio del Estado así como de los actos del estado civil de las y los mexicanos efectuados en el extranjero y los demás que así lo exijan las disposiciones legales aplicables.
 
 ###### ARTÍCULO 3°.
 
@@ -67,9 +69,13 @@ En todo lo no previsto por la presente Ley se aplicarán supletoriamente, los c�
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Apostilla. Sello especial que la autoridad competente del Poder Ejecutivo del Estado, estampa sobre un documento copia del original expedido por oficial a efectos de verificar su autenticidad en el ámbito internacional. Esta certificación sólo presenta validez entre los países firmantes del Convenio de la Haya;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
-II. Archivo Estatal. En el que se custodia y resguardan los libros que contienen las actas en las que se hagan constar los actos o hechos del estado civil de las personas;
+I. Apostilla. Certificación efectuada por la autoridad competente del Poder Ejecutivo del Estado, respecto de la firma y el sello de un documento público que se expidió por una autoridad en uso de sus facultades, pero que no certifica la validez del contenido del mismo; esta certificación sólo presenta validez entre los países firmantes del Convenio de la Haya;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+II. Archivo Estatal. En el que se custodia y resguardan los libros que contienen el duplicado de las actas que hacen constar los actos o hechos del estado civil de las personas;
 
 III. Declarantes. Personas que hacen conocer al oficial el hecho o acto que debe asentarse en las actas;
 
@@ -95,13 +101,15 @@ XIII. Oficial: Es la persona investida de fe pública que en el ámbito de su ju
 
 XIV. Oficialía. Oficinas del Registro Civil en el Estado;
 
-XV. Partes: Persona o personas que intervienen en el hecho o acto del estado civil, expresándole al Oficial su voluntad de que se realice;
+XV. (DEROGADA, P.O. 9 DE ENERO DE 2014)
 
 XVI. Registro Civil. La institución del Estado que inscribe y da publicidad a los actos y hechos constitutivos, modificativos y extintivos del estado civil de las personas;
 
 XVII. Secretaría: La Secretaría General de Gobierno, y
 
-XVIII. Testigo: Persona con capacidad jurídica que concurre al registro de los actos y hechos del estado civil y cuyos testimonios deberán asentarse en el acta respectiva en casos señalados por la ley, serán designados por las partes y, cuando así lo requiera el acto, firmaran el acta correspondiente.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+XVIII. Testigo. Persona encargada de declarar sobre la veracidad de los hechos que les conste, sobre cuestiones relacionadas con el estado civil de las personas.
 
 ###### ARTÍCULO 6°.
 
@@ -109,7 +117,7 @@ La coordinación, inspección y vigilancia de los actos y hechos del Registro Ci
 
 ###### ARTÍCULO 7°.
 
-La titularidad de las oficialías estará a cargo de servidores públicos dotados de fe pública denominados oficiales del Registro Civil, quienes preferentemente serán abogados y deberán cumplir los requisitos que señale ésta Ley.
+(DEROGADO, P.O. 9 DE ENERO DE 2014)
 
 ###### ARTÍCULO 8°.
 
@@ -119,9 +127,11 @@ Sin perjuicio de lo dispuesto por el artículo 6° el Oficial titular y personal
 
 Los derechos que se recauden por los servicios que otorguen las oficialías, serán ingresados al erario municipal conforme se encuentra establecido en la ley de ingresos municipales correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 10.
 
-En cada una de las cabeceras de los municipios habrá, cuando menos una Oficialía, las que ejercerán sus funciones en la jurisdicción que les correspondan y serán las responsables de conservar y resguardar el archivo original de las actas del Registro Civil.
+En cada una de las cabeceras de los municipios habrá, cuando menos una Oficialía, las que ejercerán sus funciones en la jurisdicción que les correspondan y serán las responsables de conservar y resguardar el archivo original de las actas del Registro Civil y sus apéndices.
 
 ###### ARTÍCULO 11.
 
@@ -131,9 +141,11 @@ Es facultad del Ejecutivo del Estado, determinar la creación, desaparición y u
 
 El acuerdo de creación o desaparición de una Oficialía, en los términos del artículo precedente, se publicará en el Periódico Oficial del Estado, con los datos relativos a la sede y su jurisdicción, debidamente motivado y sustentado.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 13.
 
-Cuando en un municipio haya dos o más oficialías, a cada una se les asignará clave - número que las identifique y se le precisará la jurisdicción en que deberán ejercer sus funciones.
+Cuando en un municipio haya dos o más oficialías, a cada una se les asignará, clave-número, y domicilio que las identifique.
 
 ###### ARTÍCULO 14.
 
@@ -181,17 +193,19 @@ X. Unidad de Actas Foráneas, y
 
 XI. Unidad Administrativa.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 18.
 
-La Dirección es el órgano al que le corresponderá organizar, dirigir y administrar las oficialías del Registro Civil, así como de sus áreas o unidades administrativas. Y tendrá como sede la Capital del Estado.
+La Dirección es el órgano al que le corresponderá organizar, dirigir y coadyuvar al funcionamiento de las oficialías del Registro Civil; así como la administración de sus áreas o unidades administrativas. Suministrará oportunamente los formatos para inscribir los actos del estado civil. Y tendrá como sede la Capital del Estado.
 
-La Dirección del Registro Civil expedirá las certificaciones y extractos de las actas y documentos que se encuentren en sus archivos, conforme a las disposiciones de esta Ley.
+La Dirección del Registro Civil expedirá las certificaciones y la versión pública de las actas y documentos que se encuentren en sus archivos, conforme a las disposiciones legales aplicables.
 
-Así mismo, le corresponderá, en los términos previstos en esta Ley u otras disposiciones aplicables, lo referente a la coordinación, vigilancia y supervisión del funcionamiento de las oficialías del Registro Civil.
+Asimismo, le corresponderá, en los términos previstos en esta Ley u otras disposiciones aplicables, lo relativo a la coordinación, vigilancia y supervisión del funcionamiento de las oficialías del Registro Civil.
 
-La Dirección tendrá a su cargo el Archivo Estatal, donde se conservarán los ejemplares de las actas y los documentos relativos a las mismas, los que deberá de integrarse en expedientes relacionados conforme al número de acta que les corresponda.
+La Dirección tendrá a su cargo el Archivo Estatal, donde se conservarán los ejemplares de los duplicados de las actas, los que deberán de integrarse en expedientes relacionados conforme al número de acta que les corresponda.
 
-Asimismo, será parte integrante del Archivo Estatal la base de datos del Registro Civil, la cual estará conformada por los archivos electrónicos de las imágenes digitalizadas y datos capturados de los ejemplares de las actas, así como de los documentos relativos a las mismas, por lo que dichos archivos tendrán el mismo valor probatorio que los ejemplares de las actas resguardados en los libros respectivos, siempre y cuando se encuentren respaldados por la firma digitalizada del Oficial del Registro Civil ante el que se hayan levantado o en su caso, del Director General del Registro Civil.
+Asimismo, será parte integrante del Archivo Estatal la base de datos del Registro Civil, la cual estará conformada por los archivos electrónicos de las imágenes digitalizadas y datos capturados de los ejemplares de las actas, por lo que dichos archivos tendrán el mismo valor probatorio que los ejemplares de las actas resguardados en los libros respectivos, siempre y cuando se encuentren respaldados por la firma digitalizada del Oficial del Registro Civil ante el que se hayan levantado o, en su caso, del Director General del Registro Civil.
 
 ###### ARTÍCULO 19.
 
@@ -209,7 +223,9 @@ V. Acreditar práctica de al menos 3 años en el ejercicio de su profesión;
 
 VI. No ser ministro de algún culto religioso, y
 
-VII. No tener antecedentes penales por delitos dolosos, ni haber sido inhabilitado por procedimiento administrativo para ejercer cargo alguno y ser de reconocida buena conducta.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+VII. No tener antecedentes penales por delitos dolosos, ni haber sido inhabilitado por procedimiento administrativo para ejercer cargo alguno.
 
 ###### ARTÍCULO 20.
 
@@ -221,21 +237,33 @@ Son facultades y obligaciones del Director, las siguientes:
 
 I. Organizar, dirigir y coordinar el Registro Civil del Estado, así como vigilar y facilitar los medios para su buen funcionamiento;
 
-II. Proponer al Titular del Poder Ejecutivo la creación de nuevas oficialías, atendiendo a las necesidades y crecimiento de la población;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+II. Proponer al titular del Poder Ejecutivo la creación de nuevas oficialías, de conformidad con el artículo 11 de esta Ley;
 
 III. Custodiar el Archivo Estatal, estableciendo las técnicas que se empleará (sic) para la conservación continua de los documentos;
 
-IV. Resolver consultas relativas a las funciones del Registro Civil;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
-V. Expedir las certificaciones de las actas y documentos del apéndice que se encuentran en el Archivo Estatal;
+IV. Resolver consultas relativas a las funciones del Registro Civil, e informar y actualizar con las nuevas disposiciones legales en la materia a los Oficiales;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+V. Contestar en tiempo y forma las demandas interpuestas en su contra y seguir el procedimiento de los juicios relativos a la materia;
 
 VI. Tramitar y sustanciar los juicios y procedimientos administrativos que las Leyes le confieran;
 
-VII. Cotejar y certificar los documentos anexados a las demandas y solicitudes que los interesados presenten en los juicios de rectificación o modificación de actas del estado civil, así como en los registros extemporáneos que por su conducto se tramiten;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
-VIII. Remitir información a las autoridades públicas que así lo requieran por escrito;
+VII. Cotejar y certificar los documentos anexados a las demandas y solicitudes que los interesados presenten en los juicios de rectificación o modificación de actas del estado civil;
 
-IX. Fungir de enlace ante el Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación para la tramitación y entrega de la Clave Única del Registro de Población;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+VIII. Remitir información a las autoridades públicas, o ciudadanos que así lo requieran por escrito, en los términos que establece la Ley de Transparencia y Acceso a la Información Pública;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+IX. Fungir de enlace ante el Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación, para la tramitación y entrega de la Clave Única del Registro de Población, e informar los acuerdos que se tomen entre la Dirección del Registro Civil y el Registro Nacional de Población, en aquellos casos en que impacten al funcionamiento de las Oficialías del Estado;
 
 X. Enviar al Registro Nacional de Población, y al Instituto Nacional de Estadística, Geografía e Informática, copias de las actas de las que levantan los oficiales;
 
@@ -275,7 +303,9 @@ III. Tener residencia efectiva dentro del territorio del estado, no menor a dos 
 
 IV. Preferentemente ser Licenciado en Derecho con título legalmente expedido y registrado, con una antigüedad mínima de dos años;
 
-V. Gozar de buena reputación y no haber sido condenado por delito que haya merecido pena privativa de la libertad por más de un año; pero, si se tratare de robo, fraude, falsificación abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitara para el cargo, cualquiera que haya sido la pena;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+V. No tener antecedentes penales por delitos dolosos, ni haber sido inhabilitado por procedimiento administrativo para ejercer cargo alguno;
 
 VI. Saber leer y escribir;
 
@@ -301,9 +331,9 @@ II. Dar fe pública de los actos o hechos vinculados al estado civil de las pers
 
 III. Llevar a cabo los registros del estado civil de las personas, así como supervisar y vigilar, bajo su estricta responsabilidad, que se practiquen las anotaciones marginales en libros y formas correspondientes, autorizando cada asiento con su firma;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
-IV. Extender y autorizar las actas del estado civil, relativas al nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio necesario, o voluntario por cualquiera de las formas previstas, y defunciones;
+IV. Extender y autorizar las actas del estado civil, relativas al nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio, y defunciones; así como la inscripción de actos y hechos de mexicanos celebrados en el extranjero;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -313,15 +343,21 @@ VI. Exigir el cumplimiento de los requisitos del Código Familiar para el Estado
 
 VII. Intervenir en la celebración de todo acto de estado civil;
 
-VIII. Expedir certificaciones de las actas y constancias relativas al estado civil de las personas;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
-IX. Solicitar y obtener oportunamente los formatos para inscribir los actos del estado civil, las formas para la expedición de las certificaciones y demás material y equipo, para la función del registro civil;
+VIII. Expedir certificaciones, y versiones públicas de las actas y constancias relativas al estado civil de las personas;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+IX. Solicitar oportunamente los formatos para inscribir los actos del estado civil, las formas para la expedición de las certificaciones y demás material y equipo, para la función del registro civil;
 
 X. Cuidar que los formatos en que se asienten los actos del estado civil de las personas no lleven raspaduras, enmendaduras o tachas, procediendo en su caso a la cancelación inmediata o reposición respectiva;
 
 XI. Efectuar las anotaciones de rectificación de las actas del estado civil en los libros correspondientes, debiendo informar a la Dirección del Registro Civil, para que realice la anotación en el libro duplicado;
 
-XII. Verificar que los extranjeros que intervengan en cualquier acto de registro comprueben legalmente su estancia en el país, de acuerdo a lo previsto por la Ley General de Población. En los casos de matrimonio y divorcio de estos, deberá presentarse el permiso correspondiente de la Secretaría de Gobernación Federal, debiendo informar mediante oficio y anexando copia del acto registrado al Instituto Nacional de Migración, de los actos del estado civil en que intervengan;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+XII. Notificar a la Delegación Federal del Instituto Nacional de Migración, mediante oficio con copia certificada, de los actos y hechos en que intervengan los extranjeros;
 
 XIII. Tener bajo su custodia y responsabilidad los Libros del Registro Civil, formatos, legajos, apéndices y demás documentos que se utilicen para la función que se les ha encomendado, organizando su archivo de acuerdo a los lineamientos y normas ya establecidas;
 
@@ -333,19 +369,29 @@ XVI. Clasificar en atención al tipo de acto efectuado y enviar dentro de los pr
 
 XVII. Autorizar con su firma, previa verificación de que se han pagado los derechos correspondientes, la expedición de copias certificadas en las que conste los actos o hechos inscritos en los libros del registro, así como de los documentos relacionados con ellos;
 
-XVIII. Contestar en tiempo y forma las demandas interpuestas en su contra y seguir el procedimiento de los juicios relativos a la materia, haciéndolos del conocimiento de la Dirección a la brevedad posible;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+XVIII. Contestar en tiempo y forma las demandas interpuestas en su contra y seguir el procedimiento de los juicios relativos a la materia;
 
 XIX. Fomentar y organizar las campañas a fin de regularizar el estado civil de los habitantes de su jurisdicción, previo aviso y autorización correspondiente de la Dirección;
 
 XX. Integrar y conservar, los apéndices de los libros, así como elaborar el archivo de los documentos que lo integran;
 
-XXI. Anotar la leyenda “Testada” o “Cancelada” en las actas, cuando no haya sido suficientemente requisitada o cuando los interesados se hayan negado a continuar el acto, en este caso, el Oficial anotará la razón por la cual no se continúo y glosará los ejemplares en el volumen correspondiente;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+XXI. Anotar la leyenda "Testada" o "Cancelada" en las actas, cuando no haya sido suficientemente requisitada, o cuando los interesados se hayan negado a continuar el acto, en este caso, el Oficial anotará la razón por la cual no se continuó y glosará los ejemplares en el volumen correspondiente de la propia oficialía, dando aviso para que la Dirección del Registro Civil reponga el número consecutivo, y cancele el acto en el sistema respectivo;
 
 XXII. En caso de pérdida o destrucción de un acta o libro del registro, denunciará de manera inmediata este hecho ante el Ministerio Público y remitirá copia de la denuncia de hechos a la Dirección para su conocimiento.
 
-XXIII. Asesorar a los interesados en la elaboración del convenio relativo a las capitulaciones matrimoniales;
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2014)</small>
 
-XXIV. Gestionar ante la Dirección, la expedición de constancias de inexistencias de actas las personas que residan dentro de su jurisdicción;
+De igual manera y en el caso de que los folios para actas certificadas sean de la pertenencia municipal, deberán dar parte a la Secretaría respectiva;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+XXIII. Asesorar a los interesados en los trámites que se realizan ante ellos;
+
+XXIV. (DEROGADA, P.O. 9 DE ENERO DE 2014)
 
 XXV. Gestionar y turnar, para su encuadernación las actas del estado civil, después de ser revisadas por la Dirección y de haber comprobado que estas cumplan con los requisitos que establece el Código Familiar para el Estado;
 
@@ -425,7 +471,9 @@ En los actos del Registro Civil intervendrán:
 
 I. El Oficial;
 
-II. Las partes o interesados;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+II. Los interesados;
 
 III. Los declarantes en su caso;
 
@@ -475,7 +523,9 @@ Cada libro del Registro Civil deberá tener su apéndice respectivo que contendr
 
 Si se perdiere o destruyere, total o parcialmente, alguno de los libros del registro, el Oficial del Registro Civil que tuviere a su cargo el libro perdido o destruido, inmediatamente sacará copia del otro ejemplar que se encuentra en el archivo de la Dirección.
 
-Si la pérdida o la destrucción ocurriera en la Dirección del Registro Civil, el Director ejecutará la reposición del libro que existiere.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
+Si la pérdida o la destrucción ocurriere en la Dirección del Registro Civil, el Director ejecutará la reposición del libro que existiere, y solicitará por escrito el libro original en poder del Oficial.
 
 El Director del Registro Civil, o el Oficial del mismo, dará aviso inmediatamente de la pérdida o destrucción al Ministerio Público.
 
@@ -495,9 +545,11 @@ Las actas del estado civil de las personas solo se podrán asentar en los format
 
 Los formatos del Registro Civil tendrán las características y medidas de seguridad que determine el Ejecutivo del Estado, a través de la Secretaria General de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 43.
 
-Los formatos autorizados referidos en los artículos que anteceden se llenaran mecanográficamente o por medios electrónicos que ofrezcan la certeza jurídica de los actos ahí asentados.
+Los formatos autorizados referidos en los artículos que anteceden se llenarán preferentemente en forma mecanográfica, o por medios electrónicos que ofrezcan la certeza jurídica de los actos ahí asentados.
 
 Los formatos se llenaran con números arábigos y con letra de molde de acuerdo a los datos que se requieran y los espacios de los mismos; por ningún motivo se anotaran en ellas abreviaturas o siglas.
 
@@ -527,19 +579,17 @@ Cuando por algún motivo de impedimento u otra causa, no pueda autorizarse un ac
 
 ###### ARTÍCULO 50.
 
-Para la inscripción de estos actos, los interesados deberán exhibir ante la Dirección en original los siguientes documentos
+(DEROGADO, P.O. 9 DE ENERO DE 2014)
 
-I. Copia certificada de la constancia o del documento del acto del estado civil, celebrando ante las autoridades extranjeras debidamente Apostillada, o legalizada, y
-
-II. Traducción, en su caso, realizada por perito autorizado por el Supremo Tribunal de Justicia, la Comisión del Registro Estatal de Peritos, y sus homólogos a nivel Federal, si las constancias estuvieran redactadas en idioma diferente al Español.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 51.
 
-Se podrán registrar los actos del estado civil de mexicanos celebrados en el extranjero, siempre y cuando los mismos se ajusten a las disposiciones legales aplicables o que su inscripción sea ordenada por la autoridad judicial correspondiente.
+Se podrán inscribir los actos o hechos del estado civil de mexicanos celebrados en el extranjero, siempre y cuando los mismos se ajusten a las disposiciones legales aplicables, o que su inscripción sea ordenada por la autoridad judicial correspondiente.
 
 ###### ARTÍCULO 52.
 
-En cualquier acto del estado civil que intervenga algún extranjero será necesario que acredite su legal estancia en el país, así como su calidad migratoria; excepto el menor y el difunto, cuando se trate de registro de nacimiento de menor de seis meses de vida y levantamiento de acta de defunción de un extranjero, respectivamente de conformidad con la Ley aplicable al caso.
+(DEROGADO, P.O. 9 DE ENERO DE 2014)
 
 ###### ARTÍCULO 53.
 
@@ -553,9 +603,11 @@ Cada Oficialía tendrá su propio apéndice del archivo, que estará integrado p
 
 La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Oficial, sin perjuicio de las sanciones de carácter penal a que se hubiese hecho acreedor.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 56.
 
-Cada una de las actas que integrarán los libros del Registro Civil, serán autorizadas por el oficial, quien firmará y sellará en el lugar correspondiente.
+Cada una de las actas que integrarán los libros del Registro Civil, serán autorizadas por el Oficial o, en su caso, el presidente municipal, quien firmará y sellará en el lugar correspondiente.
 
 ###### ARTÍCULO 57.
 
@@ -565,9 +617,11 @@ Efectuado el registro, éste no podrá ser modificado sino por resolución de au
 
 Solo serán válidas las inscripciones y anotaciones de las actas del estado civil, cuando contengan los sellos de la dirección, departamento de archivo u oficialía y firma de sus titulares, según el caso.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 59.
 
-En las actas se inscribirán marginalmente los puntos resolutivos de las sentencias judiciales que hayan causado ejecutoria y los acuerdos dictados por los titulares de la dirección u oficialía, en su caso.
+En las actas que se correlacionen con una sentencia judicial que haya causado ejecutoria se inscribirá marginalmente la consecuencia jurídica, así como los acuerdos dictados por los titulares de la dirección u oficialía, en su caso.
 
 ###### ARTÍCULO 60.
 
@@ -617,9 +671,11 @@ IV. Identificación oficial de los presentantes, cuando sea posible, y
 
 V. Comprobante del domicilio declarado por él o los presentantes del menor a registrar, cuando sea posible.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 66.
 
-En las poblaciones en que no haya Oficial, el recién nacido será presentado a la persona que ejerza la autoridad municipal, y ésta dará las constancias respectivas, que los interesados llevarán a el Oficial que corresponda, para que asiente el acta.
+En las poblaciones en que no haya Oficial, el recién nacido será presentado ante el oficial más cercano.
 
 ###### ARTÍCULO 67.
 
@@ -671,9 +727,11 @@ En las actas que refieran estos casos se expresarán con especificación, la eda
 
 Si con el niño expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir a la identificación de aquélla o aquél, se depositarán en el archivo del Registro Civil, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 77.
 
-Se prohíbe al Oficial, y a los testigos que conforme al artículo 5° de esta Ley deben asistir al acto, hacer inquisiciones sobre la paternidad.
+Se prohíbe al Oficial, y a los testigos que conforme al artículo 67 de esta Ley deben asistir al acto, hacer inquisiciones sobre la paternidad.
 
 En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, debiendo dar aviso, en tal caso, al Ministerio Público.
 
@@ -699,9 +757,11 @@ El Oficial que levante un acta de reconocimiento realizado por medio de testimon
 
 El Oficial que reciba copia certificada de una resolución judicial ejecutoriada en el que se establezca que deje sin efecto el reconocimiento, anotará en el acta respectiva la fecha en que fue tramitado, los puntos resolutivos, así como el juez o tribunal que la hubiere dictado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 83.
 
-Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que además de los requisitos a que se refiere al (sic) artículo que precede, se hará constar la declaración del reconocimiento de quien lo haga y, el consentimiento del reconocido si es mayor de edad. Si es menor de edad, el consentimiento lo dará quien ejerza la patria potestad o la custodia y, en oposición de éstos, el Ministerio Público.
+Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que además de los requisitos a que se refieren los artículos 80 y 81 se hará constar la declaración del (sic) quien reconoce y, el consentimiento del reconocido si es mayor de edad. Si es menor de edad, el consentimiento lo dará quien ejerza la patria potestad o la custodia y, en oposición de éstos, se acudirá a la instancia judicial correspondiente.
 
 En estas actas queda prohibido expresar que el hijo es natural, o nacido fuera de matrimonio.
 
@@ -725,17 +785,21 @@ Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levant
 
 ### CAPÍTULO IV. De las Actas de Adopción
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 88.
 
-El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción. Además, se cancelará el acta de nacimiento del adoptado, si es que existe, y en su lugar se levantará acta de nacimiento que contendrá los datos del adoptado, de la madre o padre adoptivos, y los ascendientes de éstos, así como de los testigos de ese acto.
+El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará los puntos resolutivos de la sentencia judicial que haya autorizado la adopción. Además, se cancelará el acta de nacimiento del adoptado, si es que existe, y en su lugar se levantará acta de nacimiento que contendrá los datos del adoptado, de la madre o padre adoptivos, y los ascendientes de éstos, así como de los testigos de ese acto.
 
 ###### ARTÍCULO 89.
 
 La falta de registro de la adopción no quita a ésta sus efectos legales.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 90.
 
-Extendida el acta de la adopción, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+Extendida el acta de la adopción se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
 
 ###### ARTÍCULO 91.
 
@@ -771,7 +835,9 @@ I. Copia certificada del acta de nacimiento, identificación idónea o, en su de
 
 II. La constancia de que otorgan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 19 y 20 del Código Familiar para el Estado;
 
-III. La declaración de dos testigos mayores de edad por cada uno de los contrayentes, que los conozcan y que les conste que no tienen impedimento legal para contraer matrimonio;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+III. La identificación idónea de dos testigos mayores de edad por cada uno de los contrayentes, que los conozcan y que les conste que no tienen impedimento legal para contraer matrimonio;
 
 IV. Certificado médico en el que conste el resultado del análisis practicado por laboratorios de instituciones de salud pública o privados, en donde el médico que los extienda certifique, bajo protesta de decir verdad, haber examinado a los pretendientes y que los mismos no padecen enfermedad infecto contagiosa o hereditaria, que constituya impedimento para el matrimonio.
 
@@ -779,7 +845,9 @@ Los servicios de salud dependientes del Estado, tendrán obligación de expedir 
 
 Dicho documento deberá expedirse dentro de los quince días previos a la celebración del matrimonio;
 
-V. Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo o de la parte resolutiva de la sentencia de divorcio, o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente, y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+V. Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo; o copia del acta certificada de divorcio, o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente, y
 
 VI. Copia de la dispensa de impedimentos, si los hubo.
 
@@ -787,11 +855,13 @@ VI. Copia de la dispensa de impedimentos, si los hubo.
 
 El Oficial a quien se presente una solicitud de matrimonio, que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes, y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas.
 
-Las declaraciones de los testigos a que se refiere la fracción III del artículo anterior, serán ratificadas bajo la protesta de decir verdad, ante el mismo Oficial. Éste, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce en el certificado médico presentado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE ENERO DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 96.
 
-El matrimonio se celebrará dentro de los ocho días siguientes en el lugar, día y hora que señale el Oficial; pero si por causa imputable a los pretendientes no se celebrare el matrimonio dentro de los seis meses a partir de la fecha del acta de presentación, las gestiones relativas quedarán sin efecto, debiendo repetirse íntegramente.
+El matrimonio se celebrará dentro de los quince días siguientes en el lugar, día y hora que señale el Oficial; pero si por causa imputable a los pretendientes no se celebrare el matrimonio dentro de los seis meses a partir de la fecha del acta de presentación, las gestiones relativas quedarán sin efecto, debiendo repetirse íntegramente.
 
 ###### ARTÍCULO 97.
 
@@ -799,25 +869,41 @@ En el lugar, día y hora designados para la celebración del matrimonio, deberá
 
 A continuación el Oficial leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado, y las diligencias practicadas e, interrogará, a los testigos acerca de si les consta que los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y, si están conformes, los declarará unidos en nombre de la ley y la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 98.
 
-Se levantará luego el acta de matrimonio en la cual se hará constar:
+El acta de matrimonio contendrá:
 
-I. Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+I. Los nombres, apellidos, edad, ocupación, nacionalidad, domicilio y lugar de nacimiento de los contrayentes;
 
 II. Si son mayores o menores de edad;
 
-III. Los nombres, apellidos, ocupación y domicilio de los progenitores;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
-IV. El consentimiento de éstos, de las abuelas y abuelos o tutores, o el de las autoridades que deban suplirlo;
+III. Los nombres, apellidos, ocupación, nacionalidad y domicilio de los progenitores;
 
-V. Que no hubo impedimento para el matrimonio o que éste se dispensó;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
-VI. la declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el Oficial del Registro Civil en nombre de la ley y de la sociedad;
+IV. El consentimiento de éstos, de las abuelas y abuelos o tutores, o el de la autoridad judicial que deban suplirlo;
 
-VII. Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea, y;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
-VIII. Cuando los contrayentes o alguno de ellos fuera menor de edad, el Oficial anotará al margen del acta respectiva de nacimiento de los cónyuges el carácter de emancipados en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y foja del acta relativa.
+V. Que no hubo impedimento para el matrimonio;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+VI. La firma y la huella digital de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el Oficial del Registro Civil en nombre de la ley y ante la sociedad;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+VII. Los nombres, apellidos, edad, estado civil, nacionalidad, ocupación y domicilio de los testigos, su firma o huella digital dactilar y la manifestación de si son o no parientes de los contrayentes, y
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+VIII. La firma del Oficial, y el sello correspondiente.
 
 El acta será firmada por el Oficial, los contrayentes, los testigos y las demás personas que hubieren intervenido, si supieren y pudieren hacerlo.
 
@@ -835,9 +921,11 @@ Asimismo, el Oficial anotará en el acta de matrimonio la legitimación del hijo
 
 Los pretendientes que declaren deliberadamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se conduzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 94 de esta Ley, serán sancionados en los términos que establezca el Código Penal para el Estado. Lo mismo se hará con las personas que falsamente se hicieren pasar por la madre o el padre o tutores de los pretendientes. El matrimonio celebrado bajo alguna de estas circunstancias surtirá efectos legales entre los contrayentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 101.
 
-Si antes de celebrar el matrimonio, el Oficial tuviere conocimiento de que los pretendientes tienen impedimento para contraerlo, levantará un acta, ante dos testigos, en la que hará constar los datos que le hagan presumir que existe el impedimento.
+Si antes de celebrar el matrimonio, el Oficial tuviere conocimiento de que los pretendientes tienen impedimento para contraerlo, anotará al reverso del acta la justificación del impedimento.
 
 Cuando haya denuncia se expresará en el acta el nombre, edad, ocupación, estado civil y domicilio del denunciante, insertándose al pie de la letra la denuncia.
 
@@ -885,7 +973,9 @@ El Oficial que reciba una solicitud de matrimonio, está plenamente autorizado p
 
 También podrá exigir declaración bajo protesta a los testigos que los interesados presenten, a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 94 de esta Ley.
 
-Celebrado el matrimonio, el Oficial, remitirá copia del acta al encargado de la oficina en que se encuentren registrados los nacimientos de los contrayentes, para que se haga la anotación marginal correspondiente.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
+Celebrado el matrimonio, el Oficial remitirá copia del acta al titular de la Oficialía en que se encuentren registrados los nacimientos de los contrayentes, para que se haga la anotación marginal correspondiente, en coadyuvancia con el ayuntamiento y la Dirección del Registro Civil de (sic) Gobierno del Estado.
 
 ### CAPÍTULO VI. De las Actas de Divorcio
 
@@ -939,7 +1029,9 @@ I. El nombre, apellidos, edad, nacionalidad, sexo, domicilio y, en su caso, la C
 
 II. El estado civil de éste, y si era casado o viudo, el nombre y apellido de su cónyuge;
 
-III. Los nombres, apellidos, edad, ocupación y domicilio de los testigos y si fueren parientes, el grado en que lo sean;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+III. Los nombres, apellidos, edad, ocupación y domicilio del declarante y de los testigos y si fueren parientes.
 
 IV. Los nombres de la madre, o el padre del difunto si se supiese;
 
@@ -963,15 +1055,17 @@ Si la defunción ocurre en un lugar o población en donde no haya Oficialía, la
 
 Cuando el Oficial sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial o el Ministerio Público averigüen un fallecimiento, dará parte al Oficial para que asiente el acta respectiva.
 
-Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con ella o él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial para que los anote al margen del acta.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 120.
 
-En los casos de inundación, naufragio, incendio o cualquier otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
+(DEROGADO, P.O. 9 DE ENERO DE 2014)
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 121.
 
-Si no aparece el cadáver, pero existe la presunción de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre y las declaraciones de las personas que hayan conocido a la que no aparece, los datos que tengan sobre su desaparición, y las demás noticias que sobre el acontecimiento puedan recabarse.
+Si no aparece el cadáver, pero existe la presunción de que alguna persona ha sucumbido en el lugar del desastre, previa resolución judicial, se levantará el acta con los datos que aporte la misma resolución.
 
 ###### ARTÍCULO 122.
 
@@ -1009,9 +1103,11 @@ En el caso de muertes fetales solamente se requerirá del certificado médico y 
 
 Si por algún motivo fuese negado el permiso, los interesados lo comunicarán al Oficial, quién anotará esta circunstancia en el acta y expedirá la orden de inhumación o cremación en su caso.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 130.
 
-El Oficial que tenga conocimiento del traslado de un cadáver, no levantará una nueva acta de defunción, únicamente verificará antes de expedir la orden de inhumación o cremación.
+El Oficial del Registro Civil que reciba un acta de defunción levantada en otra Entidad Federativa, la transcribirá en el libro correspondiente y expedirá la orden de inhumación o cremación.
 
 ### CAPÍTULO ÚNICO
 
@@ -1031,9 +1127,11 @@ Los oficiales que no cumplan con estas prevenciones, o no realicen las anotacion
 
 Las actas a que se refiere el artículo 131 de esta Ley, contendrán el nombre, apellidos, edad, estado civil y nacionalidad de la persona de quien se trate; así como los puntos resolutivos de la sentencia, la fecha en que se dictó y aquélla en que causó estado, así como el tribunal que la pronunció.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 134.
 
-Extendida el acta de tutela, se anotará en el acta de nacimiento del incapaz, observándose para el caso de que no exista en la misma Oficialía lo previsto en el artículo 88 de esta Ley.
+Extendida el acta de tutela, se anotará en el acta de nacimiento del incapaz, observándose para el caso de que no exista en la misma Oficialía lo previsto en el artículo 87 de esta Ley.
 
 ###### ARTÍCULO 135.
 
@@ -1119,7 +1217,9 @@ Los registros extemporáneos de nacimiento podrán hacerse por los oficiales ún
 
 I. Si el menor no excede de los siete años, debiendo al efecto exhibir quien lo presenta, el certificado o constancia médica de nacimiento que así lo acredite, y
 
-II. Tratándose de personas mayores de siete años de edad, una vez constatada la inexistencia del acta respectiva, cuando al Director lo autorice por motivos graves; urgentes; causas de fuerza mayor, o en campañas de beneficio social, debiéndose acompañar a la solicitud los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2014)</small>
+
+II. Tratándose de personas mayores de siete años de edad, una vez constatada la inexistencia del acta respectiva, podrá registrarse acompañándose a la solicitud los siguientes requisitos:
 
 a) Fe de bautismo o dos cartas de conocimiento de personas públicas, o de dos personas que se acrediten fehacientemente, o dos identificaciones con que cuente el interesado.
 
@@ -1131,15 +1231,17 @@ Fuera de los casos anteriores, sólo se inscribirán los registros, previa sente
 
 ###### ARTÍCULO 147.
 
-El registro extemporáneo de nacimiento podrá solicitarse promoverse a través de un escrito al Director, anexando los requisitos del numeral que antecede, así como los que señale el reglamento respectivo
+(DEROGADO, P.O. 9 DE ENERO DE 2014)
 
 ###### ARTÍCULO 148.
 
 No se asentará el registro extemporáneo de nacimiento sin la comparecencia del que se pretende registrar.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 149.
 
-Las actas correspondientes a los registros extemporáneos de nacimiento y de defunción contendrán los datos previstos por la ley, formándose el expediente con los documentos relacionados.
+Las actas correspondientes a los registros extemporáneos de nacimiento contendrán los datos previstos por la ley, formándose el expediente con los documentos relacionados.
 
 ###### ARTÍCULO 150.
 
@@ -1147,13 +1249,15 @@ En los demás casos el registro extemporáneo de nacimiento deberá tramitarse a
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 151.
 
 El término ordinario para el registro de defunción deberá ser de veinticuatro horas, a partir de que se tenga conocimiento del fallecimiento. En los registros extemporáneos de defunción, el o los interesados dispondrán de un término de quince días, a partir de las veinticuatro horas de ocurrido el fallecimiento, para proporcionar al Oficial los datos necesarios para el asentamiento del acta de defunción.
 
 ###### ARTÍCULO 152.
 
-Transcurrido el término de quince días para solicitar el asentamiento de un acta de defunción se hará por vía judicial, en los términos previstos por la ley de la materia.
+(DEROGADO, P.O. 9 DE ENERO DE 2014)
 
 ## TÍTULO SÉPTIMO. DE LOS ACTOS DEL ESTADO CIVIL CELEBRADOS POR MEXICANOS EN EL EXTRANJERO
 
@@ -1161,21 +1265,27 @@ Transcurrido el término de quince días para solicitar el asentamiento de un ac
 
 ###### ARTÍCULO 153.
 
-Para el registro de los actos del estado civil celebrados por mexicanos en el extranjero, se deberá transcribir íntegramente el contenido de los documentos o constancias que exhiban los interesados, con ellos se formará un libro especial, que contendrá indistintamente todas las actas que con este motivo se hayan escrito.
+Para el registro de los actos del estado civil celebrados por mexicanos en el extranjero, se deberá transcribir íntegramente el contenido de los documentos o constancias que exhiban los interesados, con ellos se formará en el libro correspondiente, asignándole el orden progresivo del acta.
 
 ###### ARTÍCULO 154.
 
 Los documentos que los interesados deberán exhibir ante el Oficial son:
 
-I. Copia certificada de la constancia o del documento del acto del estado civil celebrado ante autoridades extranjeras, acompañada de la legalización hecha por parte de la Secretaría de Relaciones Exteriores, si es que con anterioridad no se hubiese promovido por los interesados ante la misión diplomática y oficina consular, del lugar en donde se verificó el acto, para que surtiera todos sus efectos en territorio mexicano;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+I. Copia certificada de la constancia o del documento del acto del estado civil celebrado ante autoridades extranjeras, acompañada de la legalización o apostillamiento del lugar en donde se verificó el acto para que surta todos sus efectos en territorio mexicano;
 
 II. Si las constancias estuvieren redactadas en idioma diferente al español, se requerirá, además, que se adjunte traducción realizada por perito registrado, y
 
-III. Tratándose de extranjero que haya realizado algún acto jurídico con mexicano deberá presentar; independientemente de aquellas que la ley respectiva de la materia imponga, el documento legal con el que se acredite su legal estancia en el país.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
+
+III. Tratándose de extranjero que haya realizado algún acto jurídico con mexicano deberá presentar aquéllas que la ley respectiva de la materia imponga.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 155.
 
-Con respecto a las resoluciones judiciales dictadas en el extranjero que modifiquen el estado civil de las personas, relativas a la adopción, tutela, divorcio, ausencia, presunción de muerte e interdicción deberán ser ejecutoriadas por juez competente, en atención lo dispuesto por el Código Familiar, o el de Procedimientos Civiles del Estado, según sea el caso.
+Con respecto a las resoluciones judiciales dictadas en el extranjero, sobre actos o hechos modificativos, constitutivos y extintivos del estado civil de las personas, éstas se tramitarán vía exhorto ante la autoridad judicial correspondiente.
 
 ###### ARTÍCULO 156.
 
@@ -1193,9 +1303,11 @@ La Dirección podrá ordenar las supervisiones que considere necesarias a las of
 
 Las inspecciones que realice la Dirección, tendrán como finalidad, la revisión de los actos y los documentos que obre (sic) en las oficialías, cuidando en todo momento que éstas cumplan con lo establecido en la presente Ley. Debiendo vigilar únicamente lo relativo a la actividad registral de los oficiales.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 159.
 
-Las inspecciones deberán ser realizadas en presencia del Oficial, el inicio y los resultados se anotaran en un acta circunstanciada, que deberá firmarse por quienes hayan intervenido.
+Las inspecciones deberán ser realizadas en presencia del Oficial, el inicio y los resultados se anotarán en un acta circunstanciada, que deberá firmarse por quienes hayan intervenido. En caso de que en la Oficialía del Registro Civil no se encuentren irregularidades, la Dirección otorgará un oficio en donde constará lo anterior.
 
 ###### ARTÍCULO 160.
 
@@ -1314,6 +1426,12 @@ Lic. Cándido Ochoa Rojas
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE ENERO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
