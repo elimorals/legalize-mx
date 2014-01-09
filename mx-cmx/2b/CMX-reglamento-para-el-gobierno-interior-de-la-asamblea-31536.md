@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2013-06-14"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE ENERO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -60,27 +60,61 @@ Se entiende como práctica parlamentaria, los principios generales del Derecho q
 
 Para los efectos del presente ordenamiento se entenderá por:
 
-I.- ESTATUTO: al Estatuto de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-II.- LEY ORGÁNICA: a la Ley Orgánica de la Asamblea Legislativa del Distrito Federal;
+I.- ACUERDO PARLAMENTARIO: la resolución tomada en el ámbito de su respectiva competencia por el Pleno, la Mesa Directiva, la Comisión de Gobierno, Comisiones, Comités o la Diputación Permanente, aplicable a las diversas funciones parlamentarias y que se determina conforme a las prácticas vigentes;
 
-III.- ASAMBLEA: a la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-IV. - MESA DIRECTIVA: a la Mesa Directiva de la Asamblea;
+II.- ASAMBLEA: la Asamblea Legislativa del Distrito Federal;
 
-V.- PRESIDENTE: al Presidente de la Mesa Directiva;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-VI.- PLENO: al Pleno de la Asamblea;
+III.- CONTADURÍA: la Contaduría Mayor de Hacienda de la Asamblea;
 
-VII.- DIPUTADO: a los Diputados miembros de la Asamblea; y
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+IV.- DIPUTADO: el diputado o diputada miembro de la Asamblea;
 
-VIII.- UNIDADES ADMINISTRATIVAS: La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios y Finanzas Públicas y la Coordinación de Servicios Parlamentarios;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+V.- ESTATUTO: el Estatuto de Gobierno del Distrito Federal;
 
-IX.- CONTADURÍA: La Contaduría Mayor de Hacienda de la Asamblea Legislativa.
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+VI.- INICIATIVA: el acto legislativo consistente en la presentación de un proyecto de ley o decreto para principiar el proceso legislativo;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+VII.- LEY ORGÁNICA: la Ley Orgánica de la Asamblea Legislativa del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+VIII.- MESA DIRECTIVA: la Mesa Directiva de la Asamblea;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+IX.- PLENO: el Pleno de la Asamblea;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2014)</small>
+
+X.- PRESIDENTE: el o la titular de la presidencia de la Mesa Directiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2014)</small>
+
+XI.- PROPOSICIÓN: la proposición con punto de acuerdo o el acuerdo parlamentario;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2014)</small>
+
+XII.- PROPOSICIÓN CON PUNTO DE ACUERDO: la propuesta de uno o varios diputadas o diputados que tengan por objeto un pronunciamiento, exhorto, solicitud, recomendación o cualquier otro que se relacione con la competencia de esta Asamblea pero que no sea materia de iniciativas, propuestas de iniciativas o de acuerdos parlamentarios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2014)</small>
+
+XIII.- PROPUESTA DE INICIATIVA: el proyecto de iniciativa constitucional, de ley o decreto, de uno o varios diputados o diputadas y que tenga por finalidad ser presentado por la Asamblea como iniciativa ante el Congreso de la Unión; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2014)</small>
+
+XIV.- UNIDADES ADMINISTRATIVAS: la Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios y Finanzas Públicas, y la Coordinación de Servicios Parlamentarios.
 
 ## TITULO SEGUNDO. DE LA INSTALACIÓN DE LA ASAMBLEA Y DE SU FUNCIONAMIENTO
 
@@ -338,7 +372,9 @@ Las Comisiones son órganos internos de organización para el mejor y más exped
 
 Las Comisiones se integrarán por los diputados electos por el pleno a propuesta de la Comisión de Gobierno, debiéndose reflejar la pluralidad de la Asamblea en la integración de las mismas.
 
-Las Comisiones conocerán en el ámbito de su competencia, de las Iniciativas, Proyectos, Proposiciones con ó sin puntos de acuerdo, excitativas, deliberaciones, avisos y pronunciamientos ó asuntos que le sean turnados por la Mesa Directiva.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
+
+Las Comisiones conocerán, en el ámbito de su competencia, de las Iniciativas, Proyectos, Proposiciones, excitativas, deliberaciones, avisos y en general cualquier asunto que le sea turnado por la Mesa Directiva del Pleno o de la Diputación Permanente, o la Comisión de Gobierno.
 
 > <small>(REFORMADO, G.O. 30 DE MAYO DE 2013)</small>
 
@@ -360,11 +396,11 @@ El plazo para la entrega de los proyectos de investigación al Instituto de Inve
 
 Cada Comisión conformará un nuevo acervo sistematizado y ordenado de la información que generen para su consulta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 29.
 
-El Presidente de la mesa directiva podrá turnar un asunto, propuesta o iniciativa, en razón de su naturaleza, preferentemente a un máximo de dos Comisiones para que lo estudien y dictaminen en forma conjunta.
+El Presidente de la mesa directiva podrá turnar un asunto, proposición o iniciativa, en razón de su naturaleza, preferentemente a un máximo de dos comisiones para que lo estudien y dictaminen en forma conjunta.
 
 Igualmente, cualquier Comisión podrá reunirse con otra cuando el asunto en estudio se encuentre vinculado con las materias de esa Comisión.
 
@@ -1234,99 +1270,15 @@ VII.- No haber sido empleado o funcionario de la Contaduría Mayor de Hacienda d
 
 VIII.- No haber sido postulado para cargo de elección popular en los 5 años anteriores a su designación.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE MAYO DE 2012)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE ENERO DE 2014)</small>
 
-#### SECCIÓN 8. DEL FONDO DE APOYO A LA EDUCACIÓN Y EL EMPLEO DE LAS Y LOS JÓVENES DEL DISTRITO FEDERAL
+#### SECCIÓN 8. Artículo 78 Bis (sic).- (DEROGADO, G.O. 9 DE ENERO DE 2014)
 
-> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
+Artículo 78 Ter (sic).- (DEROGADO, G.O. 9 DE ENERO DE 2014)
 
-Artículo 78 Bis (sic).- El Fondo de Apoyo a la Educación y el Empleo de las y los Jóvenes del Distrito Federal estará integrado con los recursos que a continuación se señalan:
+Artículo 78 Quáter (sic).- (DEROGADO, G.O. 9 DE ENERO DE 2014)
 
-I. Los recursos que anualmente le sean asignados en el Presupuesto de Egresos del Distrito Federal. La Asamblea Legislativa está obligada a destinarle al Fondo en forma anual los recursos que éste requiera para poder cumplir con sus obligaciones. Los recursos con los que se integre y opere el fondo serán diferentes de aquellos que comprenda el presupuesto que la Asamblea Legislativa apruebe anualmente para sí misma y en nada afectarán las partidas que sean autorizadas mediante dicho presupuesto;
-
-II. Los rendimientos financieros que obtenga de sus inversiones;
-
-III. Las donaciones o aportaciones hechas a su favor por terceros; y
-
-IV. Las demás que señalen las leyes y demás disposiciones legales aplicables.
-
-Los recursos que integran el Fondo sólo podrán destinarse a los fines que establece la Ley Orgánica y el presente reglamento, por lo que de manera excepcional se utilizarán dichos recursos para la adquisición de bienes muebles e inmuebles. La Oficialía Mayor, pondrá a disposición del Comité Técnico los bienes muebles e inmuebles que éste requiera para el desempeño de sus funciones.
-
-Los recursos que integren el fondo deberán ser invertidos por la institución fiduciaria en valores de renta fija del más alto rendimiento, siempre que éstos permitan la disponibilidad inmediata y suficiente de las sumas que resulten necesarias para su operación y funcionamiento.
-
-> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
-
-Artículo 78 Ter (sic).- El Comité Técnico del fideicomiso tendrá a su cargo la vigilancia, administración, manejo y operación del Fondo conforme a las facultades que establece el presente Reglamento, el contrato de fideicomiso y demás normatividad aplicable, y estará integrado por los miembros propietarios con derecho a voz y voto, como sigue:
-
-I. El o la presidente de la Comisión de Gobierno de la Asamblea Legislativa, en calidad de presidente del Fideicomiso;
-
-II. Una diputada o diputado integrante de cada uno de los Grupos Parlamentarios con representación en la Asamblea Legislativa, en calidad de vocales;
-
-III. Un representante de las instituciones públicas de educación media superior y superior que participen en los programas del Fondo, y
-
-IV. Un representante de las instituciones privadas de educación media superior y superior que participen en los programas del Fondo.
-
-Los integrantes del Comité Técnico tendrán el carácter de honoríficos por lo que no tendrán derecho a remuneración económica, gratificación o emolumento alguno. El Comité Técnico podrá invitar a estar presentes en sus sesiones a representantes de otras instituciones públicas, organizaciones del sector social o privado y, en general, a personas de reconocido prestigio de los sectores científico y académico, público y privado, quienes concurrirán con voz pero sin voto.
-
-> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
-
-Artículo 78 Quáter (sic).- El Comité Técnico tendrá las siguientes atribuciones:
-
-I. Establecer y aprobar las reglas de operación, lineamientos y criterios para el otorgamiento de apoyos;
-
-II. Revisar, aprobar y emitir, en su caso, las convocatorias, criterios de evaluación, selección y seguimiento de las solicitudes de apoyo;
-
-III. Analizar y, en su caso, aprobar las propuestas de asignación de apoyos; procurando en todo caso la equidad de género en su asignación;
-
-IV. Revisar y aprobar, en su caso, su manual de procedimientos y demás documentos normativos;
-
-V. Instruir a la fiduciaria respecto a la entrega de recursos que formen parte de los recursos del fideicomiso;
-
-VI. Revisar y aprobar, en su caso, la información financiera y contable del Fideicomiso, así como dictar las medidas preventivas y correctivas que sean procedentes;
-
-VII. Aprobar los programas y presupuestos de operación del fideicomiso;
-
-VIII. Autorizar la celebración de los actos y contratos de los cuales puedan derivar obligaciones a cumplir con cargo al patrimonio del fideicomiso;
-
-IX. Instruir a la fiduciaria respecto de la inversión de los fondos líquidos del fideicomiso;
-
-X. Definir los criterios y dictar las decisiones sobre el ejercicio de las acciones que procedan con motivo de la defensa del patrimonio del fideicomiso;
-
-XI. Ostentar la representación del fideicomiso o, en su caso, delegarla de conformidad con lo que se establezca en su manual de procedimientos y demás documentos normativos;
-
-XII. Establecer los sistemas de control y auditoria que considere adecuados, así como los de transparencia y rendición de cuentas;
-
-XIII. Analizar periódicamente la evaluación técnica, administrativa y financiera del desarrollo de los proyectos apoyados por el fideicomiso;
-
-XIV. Aprobar y ejercer el presupuesto anual de egresos del fondo;
-
-XV. Contratar al personal del fideicomiso exclusivamente bajo el régimen de prestación de servicios profesionales, por lo que no tendrán la calidad de servidores públicos. El presupuesto anual de gastos por administración del Fideicomiso no podrá ser superior al cinco por ciento del total anual del patrimonio del mismo;
-
-XVI. Determinar el destino y la manera en cómo habrán de aplicarse los recursos del fideicomiso en caso de extinción. Los recursos se aplicarán de manera preferente al cumplimiento de las obligaciones derivadas de los programas de apoyo que haya puesto en funcionamiento de conformidad con los fines que señala el artículo 84 BIS de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, y
-
-XVII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
-
-En diciembre de cada año el Comité Técnico del fideicomiso rendirá por escrito y ante la Comisión de Gobierno de la Asamblea Legislativa un informe anual del ejercicio de sus funciones, en particular respecto del manejo de sus ingresos, los rendimientos de las inversiones y las erogaciones efectuadas.
-
-> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
-
-Artículo 78 Quinquies (sic).- El Fondo es ente obligado en términos de la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales, ambas del Distrito Federal, por lo que contará con la oficina de información pública y el portal de transparencia respectivos.
-
-El Comité Técnico pondrá a disposición del público, de manera impresa para su consulta directa y en el portal de transparencia, la siguiente información:
-
-I. Los estados financieros trimestrales que incluirán sus ingresos, rendimientos financieros, egresos, destino y saldo de sus recursos;
-
-II. Los convenios, acuerdos de colaboración o figuras análogas que se celebren, señalando el motivo, el nombre o razón social del ente, el tiempo de duración y los compromisos que adquiera;
-
-III. Las reglas de operación de los programas de subsidios, apoyos o ayudas que ponga en funcionamiento de conformidad con sus fines;
-
-IV. Los listados de quienes son parte de sus programas de subsidios, apoyos o ayudas que otorgue de conformidad con sus fines;
-
-V. Las minutas de las reuniones del Comité Técnico, así como los acuerdos adoptados;
-
-VI. El informe anual del ejercicio de sus funciones, y
-
-VII. Las demás que establezcan las leyes en materia de transparencia y demás disposiciones jurídicas aplicables.
+Artículo 78 Quinquies (sic).- (DEROGADO, G.O. 9 DE ENERO DE 2014)
 
 ### CAPITULO IV. DE LA ORGANIZACIÓN DE LA ASAMBLEA
 
@@ -1408,19 +1360,27 @@ III.- Al Tribunal Superior de Justicia del Distrito Federal, en todo lo relacion
 
 IV.- A los ciudadanos del Distrito Federal de conformidad con la fracción IV del artículo 46 del Estatuto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JUNIO DE 2013)</small>
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2014)</small>
+
+El derecho a presentar iniciativas comprende también el derecho a retirarlas y éste podrá ejercerse sólo por su autor, desde el momento de su admisión y hasta antes de que la Comisión o Comisiones a las que se haya turnado la iniciativa, la dictaminen. Para lo anterior, deberá así ser solicitado mediante escrito firmado por su autor y dirigido a la presidencia de la Mesa Directiva de que se trate, según sea la etapa parlamentaria en la que se encuentre su trámite. Cuando la iniciativa haya sido suscrita por más de un diputado o diputada, se requerirá que la totalidad de los firmantes manifieste su voluntad de retirarla; en caso contrario sólo se tomará nota de quienes retiren su firma.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2014)</small>
+
+Si la iniciativa hubiere sido presentada a nombre de un grupo parlamentario, bastará con que la solicitud de retiro sea realizada por su coordinador.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2014)</small>
+
+Si el retiro fuere solicitado estando la iniciativa en Comisión o Comisiones, la presidencia de éstas deberá notificarlo a la Mesa Directiva del Pleno o a la Comisión de Gobierno.
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 86.
 
-Las iniciativas presentadas ante la Asamblea Legislativa, previo turno de la Mesa Directiva o de la Comisión de Gobierno, se remitirán a la comisión o comisiones correspondientes, preferentemente no sean remitidas a más de dos comisiones, mismas que deberán estudiar, analizar y modificar, en su caso, la iniciativa y formular su correspondiente dictamen.
+Tanto las iniciativas de ley o decreto presentadas por los Diputados, por el Jefe de Gobierno o por el Tribunal Superior de Justicia del Distrito Federal como las propuestas de iniciativas constitucionales, de leyes o decretos, previo turno dado por el Presidente de la Mesa Directiva o de la Comisión de Gobierno pasarán desde luego a la comisión o comisiones correspondientes, enviándose a no más de dos de éstas a excepción de lo que disponga la Comisión de Gobierno, mismas que deberán revisar, estudiar, analizar y modificar, en su caso, la iniciativa y formular su correspondiente dictamen.
 
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+Toda iniciativa o propuesta de iniciativa constitucional, ley o decreto, deberá ser presentada de manera impresa y por medio electrónico, magnético, óptico u otros. Asimismo, deberá contener una exposición de motivos en la cual se fundamenten y motiven las razones del proyecto, los antecedentes necesarios para poder pronunciarse sobre ellos, y la firma cuando menos de su proponente.
 
-Las iniciativas que presentes los diputados deberán ir de manera impresa y por medio electrónico, magnético, óptico u otros.
-
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
-
-Las iniciativas populares serán turnadas a una comisión especial integrada por miembros de las comisiones competentes en la materia propuesta, para el efecto de que verifique que se cumple con los requisitos que señala el artículo 46 del Estatuto y la Ley de Participación Ciudadana, en cuyo caso remitirá a la Mesa Directiva o a la Comisión de Gobierno en los recesos, para que se turne a la comisión o comisiones que corresponda su análisis y dictamen. En caso contrario, se desechará de plano la iniciativa presentada.
+El tiempo para hacer uso de la tribuna con tal efecto, no será mayor a diez minutos cuando se trate de iniciativas o propuestas de iniciativas, cinco minutos cuando se trate de propuestas con puntos de acuerdo o acuerdos parlamentarios considerados como de urgente y obvia resolución, conforme a lo establecido en el artículo 133 del presente Reglamento y tres minutos cuando se trate de puntos de acuerdo de conformidad a lo establecido en el artículo 132 del mismo ordenamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -1462,17 +1422,15 @@ II.- El o los Diputados a quienes se les hubiera encomendado la elaboración de 
 
 III.- La totalidad de los integrantes de la Comisión.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 87], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 90.
 
-La Asamblea tiene facultad de presentar iniciativas de leyes o decretos en materias relativas al Distrito Federal, ante el Congreso de la Unión.
+Las propuestas de iniciativas constitucionales, leyes o decretos podrán ser presentadas por cualquier Diputado o Diputada y, además de lo señalado en el párrafo segundo del Artículo 86 del presente ordenamiento, deberán contener la Cámara del Congreso de la Unión ante la que serán interpuestas en caso de ser aprobadas. Asimismo, podrán ser retiradas conforme al procedimiento señalado en el artículo 85 del presente ordenamiento.
 
-Las iniciativas correspondientes podrán ser presentadas por cualquier Diputado o grupo de Diputados.
+La resolución del Pleno por la que se apruebe el dictamen emitido por la Comisión o Comisiones correspondientes relativa a la propuesta de iniciativa constitucional, ley o decreto, tendrá carácter de iniciativa.
 
-En caso de aprobarse el dictamen, la Asamblea decidirá, igualmente, ante cuál de las Cámaras del Congreso de la Unión deberá presentarse. La remisión se hará por conducto de la Mesa Directiva.
-
-Las iniciativas de leyes o decretos aprobados por el Pleno que se remitan al Congreso de la Unión, deberán contener el o los votos particulares, si los hubiere.
+Las propuestas de iniciativas aprobadas por el Pleno deberán contener los votos particulares que se hubieren realizado.
 
 La Comisión de la Asamblea que haya elaborado el dictamen de que se trate, acudirá ante la Cámara correspondiente, cuando ésta así lo solicite, para explicar o fundamentar la o las iniciativas de leyes o decretos en cuestión.
 
@@ -1516,7 +1474,9 @@ Los asuntos a tratar en las sesiones ordinarias se listarán en el Orden del Dí
 
 9.- Informe de peticiones formuladas por particulares.
 
-10.- Presentación de, propuestas, pronunciamientos, así como las denuncias que no comprendan la aprobación, reforma, derogación o abrogación de Leyes o Decretos.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
+
+10.- Presentación de proposiciones, pronunciamientos, así como las denuncias que no comprendan la aprobación, reforma, derogación o abrogación de Leyes o Decretos.
 
 11.- Efemérides, y
 
@@ -1814,9 +1774,9 @@ De no haber oradores en contra o en pro, o desahogadas dichas intervenciones los
 
 IV.- Discusión en lo particular de los capítulos o artículos que al inicio del debate se hayan reservado.
 
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-Esta fracción no será aplicable a los dictámenes que se refieren a proposiciones con puntos de acuerdo.
+Esta fracción no será aplicable a los dictámenes de proposiciones con puntos de acuerdo.
 
 La discusión en lo particular se ordenará de manera análoga a la establecida por la discusión en lo general.
 
@@ -1826,9 +1786,9 @@ La discusión en lo particular se ordenará de manera análoga a la establecida 
 
 Las intervenciones se pronunciarán personalmente y de viva voz, en un término máximo de diez minutos. Se exceptúan del término anterior la presentación de dictámenes, de votos particulares, la presentación de artículos para ser discutidos en lo particular y aquellos casos que el Pleno expresamente así lo acuerde, los cuales tendrán una duración de hasta diez minutos, cinco minutos cuando se trate de puntos de acuerdo consideradas como de urgente y obvia resolución, conforme a lo establecido en el artículo 133 del Reglamento para el gobierno Interior y tres minutos cuando se trate de puntos de acuerdo conforme a lo establecido en el artículo 132 del Reglamento para el Gobierno Interior.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-Cuando se trate de propuestas, pronunciamientos y denuncias a que se refiere el artículo 92 numeral 10 de este ordenamiento, los Diputados podrán solicitar la palabra sin estar registrados en el orden del día para hablar sobre el mismo tema hasta por diez minutos. Sólo podrá participar un Diputado por cada Grupo Parlamentario.
+Cuando se trate de proposiciones, pronunciamientos y denuncias a que se refiere el artículo 92 numeral 10 de este ordenamiento, los Diputados podrán solicitar la palabra sin estar registrados en el orden del día para hablar sobre el mismo tema hasta por diez minutos. Sólo podrá participar un Diputado por cada Grupo Parlamentario.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 119], G.O. 30 DE MARZO DE 2005)
 
@@ -1916,21 +1876,31 @@ En el caso de que no exista quórum al momento de iniciar una votación, el Pres
 
 En caso de que algún Diputado objetara la existencia de quórum necesario dentro de alguno de los supuestos requeridos en el presente Reglamento, podrá solicitar al Presidente que constate el mismo, quien ordenará a la Secretaría pasar lista para verificar el número de Diputados presentes. De no existir el quórum, el Presidente levantará la sesión, procediendo a solicitar el descuento que se refiere (sic) el artículo 26 de este Reglamento.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 129], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 132.
 
-Toda proposición deberá discutirse ante el Pleno conforme al siguiente procedimiento:
+Las proposiciones con punto de acuerdo tendrán por objeto un pronunciamiento, exhorto, solicitud, recomendación o cualquier otro que se relacione con la competencia de esta Asamblea pero que no sea materia de iniciativas, propuestas de iniciativas o de acuerdos parlamentarios.
 
-I.- Deberá presentarse por escrito y firmada por su o sus autores al Presidente, y deberá ser leída ante el Pleno;
+Toda proposición con punto de acuerdo deberá discutirse ante el Pleno conforme al siguiente procedimiento:
 
-II.- El Presidente turnará a la Comisión o Comisiones correspondientes, la propuesta presentada para su análisis y dictamen.
+I. Deberá ser presentada a través de un escrito fundado y motivado que contenga un apartado de antecedentes, la problemática planteada, las consideraciones y la propuesta de punto de acuerdo. Asimismo, deberá estar firmada por los diputados o diputadas que la promuevan;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2007)</small>
+II. Deberá ser leída ante el Pleno por su autor o por el diputado o diputada designado si sus autores son más de uno; y
+
+III. El Presidente turnará a la Comisión o Comisiones correspondientes, la propuesta presentada para su análisis y dictamen.
+
+El derecho a presentar proposiciones comprende también el derecho a retirarlas y para ello se estará a lo dispuesto en los párrafos segundo y tercero del Artículo 85 de este ordenamiento.
+
+En el caso de que sea solicitado el retiro estando la proposición en Comisión o Comisiones, la presidencia de éstas deberá notificarlo a la Mesa Directiva del Pleno o de la Diputación Permanente, o a la Comisión de Gobierno.
+
+Las propuestas con punto de acuerdo relativas al Presupuesto de Egresos para el Distrito Federal, deberán contener el programa, unidad responsable y monto presupuestario. Asimismo, deberán ser turnadas a la Comisión de Presupuesto y Cuenta Pública a excepción de las que determine el Pleno, con la finalidad de que éstas sean dictaminadas en el Proyecto de Presupuesto del ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 133.
 
-Sólo podrán dispensarse del procedimiento a que se refiere la fracción segunda del artículo anterior, aquellos asuntos que sean presentados con veinticuatro horas de anticipación ante la Comisión de Gobierno y que la Asamblea califique de urgente y obvia resolución. En estos casos, la proposición se decidirá inmediatamente después de que su autor la haya presentado.
+Sólo podrán dispensarse del procedimiento a que se refiere la fracción tercera del artículo anterior, aquellos asuntos que sean presentados con veinticuatro horas de anticipación ante la Comisión de Gobierno y que la Asamblea califique de urgente y obvia resolución. En estos casos, la proposición se decidirá inmediatamente después de haber sido presentada.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2256,7 +2226,9 @@ Cada Diputado presentará un informe semestral de manera impresa y por medio ele
 
 Dicho informe deberá contener, al menos, los siguientes rubros:
 
-I. Comunicaciones, iniciativas, propuestas, pronunciamientos, denuncias y efemérides presentadas ante el Pleno, la Diputación Permanente o la Comisión de Gobierno, según sea el caso;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+I. Comunicaciones, iniciativas, proposiciones, pronunciamientos, denuncias y efemérides presentadas ante el Pleno, la Diputación Permanente o la Comisión de Gobierno, según sea el caso;
 
 II. Actividades legislativas realizadas dentro de las comisiones o comités:
 
@@ -2290,9 +2262,9 @@ De conformidad con lo señalado en el artículo 10 de la Ley Orgánica de la Asa
 
 I.- Al Mérito Ciudadano;
 
-> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-II.- Al mérito en Ciencias, Artes, Ejecución Musical y Artística;
+II.- Al Mérito en Ciencias y Artes;
 
 III.- Al Mérito Policial; y (sic)
 
@@ -2310,33 +2282,43 @@ Las preseas y los reconocimientos que confiera la Asamblea Legislativa del Distr
 
 Las preseas se otorgarán como reconocimiento público a una conducta o trayectoria vital, singularmente ejemplares, así como también a obras valiosas y actos relevantes, realizados en beneficio de la humanidad o del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2014)</small>
+
+Adicionalmente, los reconocimientos podrán otorgarse de forma póstuma, a los ciudadanos que reúnan las características respectivas y que hayan fallecido en el año anterior a la entrega de la presea de que se trate.
+
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 172.
 
 Para los efectos del presente título, se entenderá por:
 
-> <small>(REFORMADA, G.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-I. Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias, Artes, Ejecución Musical y Artística, Policial, Deportivo o en Protección Civil de la Asamblea Legislativa del Distrito Federal;
+I.- Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y Artes, Policial, Deportivo o en Protección Civil de la Asamblea Legislativa del Distrito Federal;
 
 II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
 
 a) Comisión Especial para otorgar la Medalla al Mérito Ciudadano de la Asamblea Legislativa del Distrito Federal;
 
-b) Comisiones Unidas de Ciencia y Tecnología y de Cultura de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 19 DE JULIO DE 2011)</small>
+b) Comisión de Ciencia, Tecnología e Innovación, de la Asamblea Legislativa del Distrito Federal;
 
-c) Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 19 DE JULIO DE 2011)</small>
+c) Comisión de Cultura de la Asamblea Legislativa del Distrito Federal;
 
-d) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal; y
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+d) Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal;
 
-e) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
+
+e) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE ENERO DE 2014)</small>
+
+f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal.
 
 III.- Candidato: Toda persona propuesta para recibir la presea y el reconocimiento que otorga la Asamblea Legislativa, que actúe en forma individual o colectiva, ya sea en asociación o institución pública o privada propuesta.
 
@@ -2368,15 +2350,15 @@ a) "MEDALLA AL MÉRITO CIUDADANO"
 
 b) "MEDALLA AL MÉRITO EN CIENCIAS"
 
-c) "MEDALLA AL MÉRITO EN LAS ARTES"
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
+
+c) “MEDALLA AL MÉRITO EN ARTES”
 
 d) "MEDALLA AL MÉRITO POLICIAL"
 
 e) "MEDALLA AL MÉRITO DEPORTIVO"
 
-> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
-
-f) “MEDALLA AL MÉRITO EN EJECUCIÓN MUSICAL Y ARTÍSTICA”
+f) (DEROGADO, G.O. 9 DE ENERO DE 2014)
 
 > <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
 
@@ -2500,11 +2482,11 @@ El periodo para el registro de candidatos a recibir la Medalla al Mérito Ciudad
 
 El reconocimiento de la Medalla al Mérito Ciudadano y el Diploma respectivo serán otorgados en Sesión Solemne que deberá celebrarse dentro del mes de abril y octubre de cada año respectivamente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE ENERO DE 2014)</small>
 
-### CAPITULO III. DE LA DISTINCIÓN EN LAS CIENCIAS, LAS ARTES Y LA EJECUCIÓN MUSICAL Y ARTÍSTICA
+### CAPÍTULO TERCERO. DE LA DISTINCIÓN EN LAS CIENCIAS Y ARTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
 ### CAPÍTULO IV. DE LA MEDALLA AL MÉRITO POLICIAL
 
@@ -2512,61 +2494,33 @@ El reconocimiento de la Medalla al Mérito Ciudadano y el Diploma respectivo ser
 
 ###### Artículo 188.
 
-El reconocimiento se otorgará a los ciudadanos que se hayan distinguido, en grado sobresaliente, en las ciencias, las artes o en la Ejecución musical y Artística.
+El reconocimiento se otorgará a los ciudadanos que se hayan distinguido en grado sobresaliente en las ciencias y artes, de conformidad con las siguientes categorías:
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+I. En las Ciencias: A quienes se hayan destacado en cualquiera de los campos de la investigación científica, en el ámbito de las ciencias naturales, exactas y sociales, a causa de haber realizado estudios, trabajos docentes o de divulgación, descubrimientos, aportaciones o propuestas, así como proyectos o trabajos creativos que modifiquen o desarrollen el campo tecnológico, que se consideren como probada aportación a la ciencia y tecnología, y cuya conducta sea un ejemplo de fidelidad a su vocación científica; y
 
-El reconocimiento se concederá:
+II. En las Artes: A quienes con su trabajo creativo y trayectoria, hayan destacado en la producción de obras, aportaciones, así como aquéllos que hayan contribuido a enriquecer el acervo cultural, a dignificar o a difundir los valores culturales del Distrito Federal o del País y, en general, al progreso de las actividades estéticas.
 
-I.- En las Artes: A quienes hayan sobresalido en el dominio, dedicación, destreza, y cuya trayectoria sea sobresaliente en música, danza, teatro, pintura, escultura, arquitectura, dibujo y grabado.
-
-Se concederá el reconocimiento a la actividad en las artes a los ciudadanos que, con su trabajo creativo y trayectoria, hayan destacado en la producción de obras, aportaciones, trabajos docentes, de investigación o de divulgación, así como aquéllos que hayan contribuido a enriquecer el acervo cultural del Distrito Federal y del País y, en general, al progreso de las artes.
-
-II.- En las Ciencias: A aquellos que hayan destacado en cualquiera de los campos de la investigación científica, en el ámbito de las ciencias naturales, exactas y sociales.
-
-Se concederá a quien haya realizado estudios, descubrimientos, aportaciones o propuestas, producto de investigaciones en cualquier campo de la ciencia; así como proyectos o trabajos creativos que modifiquen o desarrollen el campo tecnológico, que se consideren como probada aportación a la ciencia y tecnología, y cuya conducta sea un ejemplo de fidelidad a su vocación científica.
-
-> <small>(ADICIONADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
-
-III.- En la Ejecución Musical: A quienes hayan tenido una trayectoria sobresaliente en la interpretación de obras musicales.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
-
-IV.- En la Interpretación Artística: A quienes hayan tenido una trayectoria sobresaliente en la representación de obras teatrales, literarias, de televisión o cinematograficas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
-
-Se concederá el reconocimiento a la Ejecución Musical a los ciudadanos vivos que, con su trabajo creativo y trayectoria, hayan destacado en la reproducción de obras musicales que dignifiquen los valores culturales de la Ciudad de México o del País o bien que difundan éstos entre la población. Asimismo, se otorgará en forma póstuma a los ciudadanos que reúnan dichas características y que hayan fallecido en el periodo comprendido entre el 30 de agosto del año anterior y el 31 de agosto del año en que se entregará la presea.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
-
-De igual forma, se concederá el reconocimiento a la interpretación artística a los ciudadanos vivos que, con su trabajo creativo y trayectoria, hayan destacado en la reproducción de obras teatrales, literarias, de televisión o cinematográficas, que dignifiquen los valores culturales de la Ciudad de México o del País o bien que difundan éstos entre la población. Asimismo, se otorgará en forma póstuma a los ciudadanos que reúnan dichas características y que hayan fallecido en el periodo comprendido entre el 30 de agosto del año anterior y el 31 de agosto del año en que se entregará la presea.
-
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 189.
 
-La convocatoria respectiva y el proceso de la elección de los candidatos a recibir el reconocimiento estará a cargo de las Comisiones unidas de Cultura y Ciencia y Tecnología de la Asamblea Legislativa.
+La convocatoria y el proceso de elección de los candidatos para recibir los reconocimientos en Ciencias estarán a cargo de la Comisión de Ciencia, Tecnología e Innovación; y, lo relativo a los reconocimientos en Artes, estará a cargo de la Comisión de Cultura.
 
-Las Comisiones Unidas emitirán el dictamen correspondiente y deberá ser presentado ante el pleno de la Asamblea Legislativa, una vez que éste sea aprobado al interior de las comisiones.
-
-> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 190.
 
-Si del análisis de las propuestas resultaren dos o más candidatos cada Comisión podrá presentar el dictamen correspondiente a su materia, debiendo firmar ambos dictámenes todos los integrantes de las Comisiones Unidas, y presentarse ante el Pleno de la Asamblea Legislativa cada uno por separado.
-
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+Las Comisiones señaladas en el artículo precedente emitirán los dictámenes correspondientes y deberán ser presentados ante el pleno de la Asamblea legislativa.
 
 ###### Artículo 191.
 
-En caso de ser dos dictámenes cada presidente de la Comisión ya sea de Ciencia y Tecnología o de Cultura podrá hacer uso de la Tribuna para dar lectura al dictamen correspondiente.
+(DEROGADO, G.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 192.
 
-Para conceder los Reconocimientos, las Comisiones unidas elaborarán, durante la primera quincena del mes de octubre del año que corresponda una sola convocatoria que contemple a las Ciencias, las Artes y la Ejecución Musical y Artística.
+Para conceder los Reconocimientos, las Comisiones Unidas elaborarán, durante la primera quincena del mes de octubre del año que corresponda, una sola convocatoria que contemple a las Ciencias y Artes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2574,13 +2528,13 @@ Para conceder los Reconocimientos, las Comisiones unidas elaborarán, durante la
 
 Las propuestas de candidatos a recibir el reconocimiento deberán ser entregadas a más tardar el día primero del mes de octubre siguiente por la sociedad en general, conforme al artículo 180, ante la Comisión respectiva.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-A la Comisión de Ciencia y Tecnología le corresponde recibir las propuestas de candidatos al reconocimiento en las Ciencias.
+A la Comisión de Ciencia, Tecnología e Innovación, le corresponde recibir y analizar las propuestas de candidatos al reconocimiento en las Ciencias.
 
-> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-A la Comisión de Cultura le corresponde recibir las propuestas de candidatos al reconocimiento relacionadas con las Artes y la Ejecución Musical y Artística.
+A la Comisión de Cultura le corresponde recibir las propuestas de candidatos al reconocimiento relacionadas con las Artes.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2628,9 +2582,7 @@ VI.- Hayan participado en la formación de artistas de otras generaciones.
 
 Por cada una de las ramas anteriormente citadas se hará entrega de un sólo reconocimiento.
 
-> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
-
-Los incisos A y H, se tomará en cuenta para el reconocimiento a la Ejecución Musical, en su caso; así como los incisos A y C se tomarán en cuenta para el reconocimiento a la Interpretación artística en su caso.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2644,19 +2596,11 @@ La Comisión al dictaminar, tomará en cuenta la exposición de méritos que se 
 
 No será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro del periodo de convocatoria, a menos, de que así lo establezca la misma, en particular sobre alguna de las ramas.
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 197.
 
 El reconocimiento al Mérito de la Ciencia y de las Artes se otorgará anualmente en sesión solemne que deberá celebrarse dentro de la primera semana del mes de diciembre del año que corresponda.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
-
-La medalla al Mérito en Ejecución Musical se otorgará anualmente en sesión solemne que tendrá verificativo el 22 de noviembre del año que corresponda, en celebración del “Día del Músico”.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
-
-El reconocimiento al Artista Intérprete se otorgará anualmente en sesión solemne que tendrá verificativo el 5 de diciembre del año que corresponda, en celebración del “Día del Artista Intérprete”.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2852,21 +2796,21 @@ Solamente por causa de fuerza mayor, no imputable al interesado, previa justific
 
 Se tomará en cuenta de preferencia que los candidatos al reconocimiento respectivo sean habitantes del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 216.
 
-Si se excusare el candidato propuesto por la Comisión dictaminadora para recibir la medalla, o bien los familiares de éstos, en el caso del reconocimiento póstumo al ejecutor musical o al músico ejecutante, la Comisión elegirá y dictaminará de entre los demás candidatos propuestos, en un lapso no mayor de cinco días hábiles. El nuevo dictamen deberá ser sometido a la aprobación del Pleno de la Asamblea Legislativa.
+Si se excusare el candidato propuesto por la Comisión dictaminadora para recibir la medalla, o bien los familiares de éste si se tratare de un reconocimientos póstumo, la Comisión elegirá y dictaminará de entre los demás candidatos propuestos, en un lapso no mayor de cinco días hábiles. El nuevo dictamen deberá ser sometido a la aprobación del Pleno de la Asamblea Legislativa.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 En caso de declarar desierta el otorgamiento de la medalla, la Comisión dictaminadora deberá presentar el dictamen correspondiente ante el Pleno de la Asamblea Legislativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 217.
 
-La decisión que se adopte será notificada al interesado, o bien a los familiares de éste, en el caso del reconocimiento póstumo al músico ejecutante o al artista intérprete, y dada a conocer oportunamente a través de los medios de comunicación.
+La decisión que se adopte será notificada al interesado, o bien a los familiares de éste en el caso del reconocimiento póstumo y dada a conocer oportunamente a través de los medios de comunicación.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2884,11 +2828,11 @@ La resolución que se tome y que formará parte del dictamen, tendrá efectos de
 
 La entrega de los reconocimientos respectivos deberán ser anuales y entregarse en Sesión Solemne de la Asamblea legislativa.
 
-> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 220.
 
-La Sesión Solemne deberá celebrarse con el único objeto de entregar el reconocimiento de la medalla y el diploma respectivo al candidato electo, o bien los familiares de éste, en el caso del reconocimiento póstumo al músico ejecutante o al Artista Intérprete.
+La Sesión Solemne deberá celebrarse con el único objeto de entregar el reconocimiento de la medalla y el diploma respectivo al candidato electo, o bien los familiares de éste, en el caso del reconocimiento póstumo.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -3277,3 +3221,71 @@ PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su pr
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 172; FRACCIÓN I DEL ARTÍCULO 188; 189; 190; 192; 193 Y 197; Y SE DEROGA EL ARTÍCULO 191 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal, excepto las disposiciones relativas a la entrega de la Medalla en Ciencias y Artes, mismas que entrarán en vigor a partir del año 2014.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 29; 92 NUMERAL 10; 121 PÁRRAFO SEGUNDO; Y 168 FRACCIÓN I DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 4; 28 PÁRRAFO CUARTO; 86; 90, 120 Y 133; Y SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 85 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO TERCERO DEL TÍTULO CUARTO Y LOS ARTÍCULOS 170 FRACCIÓN II; 172 FRACCIÓN I; 175 FRACCIÓN III INCISO C); 188; 192; 193 PÁRRAFO TERCERO; 216, 217 Y 220; SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 171 Y SE DEROGAN EL INCISO F) DE LA FRACCIÓN III DEL ARTÍCULO 175, EL PÁRRAFO ÚLTIMO DEL ARTÍCULO 194 Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 197 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE DEROGA LA SECCIÓN 8 DE LA SEGUNDA PARTE DEL CAPÍTULO III, CON SUS RESPECTIVOS ARTÍCULOS 78 BIS, 78 TER, 78 QUÁTER Y 78 QUINQUIES, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal, debiendo publicarse en la Gaceta Parlamentaria de la Asamblea Legislativa del Distrito Federal, así como en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal y el Comité Técnico del Fideicomiso denominado “Fondo de Apoyo a la Educación y el Empleo de las y los Jóvenes del Distrito Federal”, realizarán los trámites correspondientes para la extinción del Fideicomiso.
+
+El Comité Técnico deberá entregar a la Oficialía Mayor de la Asamblea Legislativa toda la información relativa al Fondo para los efectos legales a que haya lugar y con el objeto de que la Oficialía Mayor cumpla con lo dispuesto en el Séptimo Transitorio del presente Decreto.
+
+TERCERO.- Los beneficiarios del Fideicomiso “Fondo de Apoyo a la Educación y el Empleo de las y los Jóvenes del Distrito Federal”, continuarán con sus estudios con base en el “Programa de Apoyo a la Educación de la Juventud del Distrito Federal”, constituido por acuerdo de la Comisión de Gobierno de fecha ocho de agosto de dos mil trece.
+
+CUARTO.- La Oficialía Mayor y la Tesorería, ambas de la Asamblea Legislativa del Distrito Federal, ejecutarán las acciones necesarias para asignar y destinar recursos al “Programa de Apoyo a la Educación de la Juventud del Distrito Federal” para darle operatividad.
+
+La Oficialía Mayor deberá informar anualmente a la Comisión de Gobierno sobre el manejo y operación del Programa de Apoyo a la Educación de Juventud del Distrito Federal.
+
+Si subsistieran recursos financieros o económicos fideicomitidos no ejercidos con motivo de la extinción del Fideicomiso “Fondo de Apoyo a la Educación y el Empleo de las y los Jóvenes del Distrito Federal”, éstos serán transferidos al Presupuesto de la Asamblea Legislativa del Distrito Federal, y en su caso, será la Comisión de Gobierno quien decida a que Programa o Programas se destinan.
+
+QUINTO.- El “Programa de Apoyo a la Educación de la Juventud del Distrito Federal” contará con una Comisión de Evaluación y Seguimiento, la cual estará integrada con diputados de todos los partidos políticos representados en la Asamblea Legislativa, así como con una Comisión Ejecutiva, las cuales quedarán instaladas dentro de los diez días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO.- La Oficialía Mayor de la Asamblea Legislativa del Distrito Federal, presentará a la Comisión de Evaluación y Seguimiento del “Programa de Apoyo a la Educación de la Juventud del Distrito Federal” los Lineamientos a las Reglas de Operación publicadas por la Comisión de Gobierno, el cuatro de septiembre de dos mil trece en la Gaceta Parlamentaria de la Asamblea Legislativa del Distrito Federal.
+
+SÉPTIMO.- La Oficialía Mayor, dentro de los 30 días naturales siguientes a la aprobación del presente Decreto, deberá entregar a la Comisión de Gobierno, desagregado por año, un informe relativo a la administración, beneficiarios, estados financieros, informes fiduciarios, manejo y operación del Fondo, con base en los datos, informes, padrón, registros, actas y toda información que le proporcione el Comité Técnico.
+
+OCTAVO.- A partir de la entrada en vigor del presente Decreto y hasta la extinción y liquidación del Fideicomiso “Fondo de Apoyo a la Educación y el Empleo de las y los jóvenes del Distrito Federal”, el Oficial Mayor será el responsable de cumplir con las obligaciones de transparencia y rendición de cuentas aplicables al caso, y en los términos que determina la Ley y su Reglamento.
+
+NOVENO.- Durante la vigencia del “Programa de Apoyo a la Educación de la Juventud del Distrito Federal” será el Oficial Mayor el responsable de cumplir con las obligaciones de transparencia y rendición de cuentas aplicables al caso, y en los términos que determina la Ley y Reglamento.
