@@ -4,7 +4,7 @@ identifier: "SON-ley-de-los-derechos-de-las-personas-adultas-mayores-del-57046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-07"
-last_updated: "2012-04-04"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
 
 Ley publicada en la Edición Especial 14 al Boletín Oficial del Estado de Sonora, el viernes 7 de septiembre de 2007.
 
@@ -227,7 +227,7 @@ VI.- Denunciar a la autoridad competente los casos que sean de su conocimiento s
 
 > <small>(REFORMADA, B.O. 4 DE ABRIL DE 2012)</small>
 
-VIl.- Establecer áreas o espacios informativos relativos a la oferta laboral para el adulto mayor, en la propia institución de que se trate, en el sector productivo o en las bolsas de trabajo municipales o estatal, en su caso; y
+VII.- Establecer áreas o espacios informativos relativos a la oferta laboral para el adulto mayor, en la propia institución de que se trate, en el sector productivo o en las bolsas de trabajo municipales o estatal, en su caso; y
 
 > <small>(ADICIONADA, B.O. 4 DE ABRIL DE 2012)</small>
 
@@ -797,6 +797,124 @@ El monto de las sanciones que se impongan se destinará a la ejecución de los p
 
 En los procedimientos de conciliación y arbitraje, de imposición de sanciones y para tramitar el recurso de reconsideración, se aplicarán, en lo conducente, las disposiciones contenidas en el Título Quinto de la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora y las normas reglamentarias de las mismas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 9 DE ENERO DE 2014)</small>
+
+### CAPÍTULO XIII. DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 57.
+
+Se crea la Procuraduría de la Defensa del Adulto Mayor, como un Órgano Administrativo Desconcentrado, jerárquicamente subordinado al Organismo Público Descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 58.
+
+La Procuraduría de la Defensa del Adulto Mayor tendrá como objeto, la atención a las personas adultas mayores en situación de riesgo y desamparo, así como defender y hacer respetar los derechos de los adultos mayores en situación vulnerable.
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 59.
+
+La Procuraduría de la Defensa del Adulto Mayor se integra por:
+
+I.- Un Procurador de la Defensa del Adulto Mayor; y
+
+II.- El personal que le sea asignado en él presupuesto autorizado.
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 60.
+
+El Procurador de la Defensa del Adulto Mayor será nombrado y removido por el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, con la aprobación del órgano de gobierno.
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 61.
+
+La Procuraduría de la Defensa del Adulto Mayor tendrá las siguientes atribuciones:
+
+I. Impulsar y promover el reconocimiento y ejercicio pleno de los derechos de las personas adultas mayores;
+
+II. Velar por la protección de la salud física, mental, psicológica y sexual de los adultos mayores;
+
+III. Velar porque los adultos mayores abandonados, sujetos de negligencia, repatriados o víctimas de violencia intrafamiliar obtengan un hogar seguro;
+
+IV. Orientar, asesorar y asistir, gratuitamente en materia legal, cualquier asunto en que la persona adulta mayor tenga un interés jurídico directo, en especial aquellos que se refieren a la seguridad de su patrimonio, en materia de alimentos y sucesorio;
+
+V. Procurar la defensa y representación de los derechos consignados a favor de las personas adultas mayores en su persona, bienes y derechos ante cualquier autoridad competente, promoviendo todos los medios legales que conforme a derecho procedan;
+
+VI. Coadyuvar con la Procuraduría General de Justicia del Estado, cuando las personas adultas mayores sean víctimas de cualquier conducta tipificada como delito; en los casos en que se trate de faltas administrativas, con las autoridades competentes:
+
+VII. Asesorar vía los métodos alternos para la prevención y la solución de conflictos, a las personas adultas mayores en cualquier procedimiento legal en el que sean partes interesadas;
+
+VIII. Promover, ante la autoridad competente, cualquier trámite, querella, denuncia o demanda cuando la persona adulta mayor por falta de medios económicos o por impedimento físico no pueda valerse por sí misma y requiera apoyo para llevar a cabo dichos actos;
+
+IX. Recibir quejas, denuncias e informes sobre la violación de los derechos de las personas adultas mayores, haciéndolas del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
+
+X. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de discriminación, maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que les perjudique a las personas adultas mayores;
+
+XI. Citar u ordenar con auxilio de autoridad competente, la presentación de los involucrados en los asuntos de su competencia;
+
+XII. Expedir a la autoridad competente, copias certificadas de los documentos que obren en los archivos sobre asuntos de su competencia, siempre y cuando sea legalmente procedente;
+
+XIII. Emplear, para hacer cumplir sus determinaciones, cualesquiera de los medios de apremio dictados por autoridad competente que establece la presente ley; y
+
+XIV. Las demás que le determine el Titular del Poder Ejecutivo del Estado, el Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, el Reglamento Interior y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 62.
+
+Para ser Procurador de la Defensa del Adulto Mayor se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos; y
+
+II. Poseer título de licenciado en derecho debidamente registrado, con cédula profesional y tres años mínimo de ejercicio profesional; (sic)
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 63.
+
+El Procurador de la Defensa del Adulto Mayor tendrá las siguientes facultades y obligaciones:
+
+I. Dirigir, ordenar y dar seguimiento a las labores de las distintas áreas operativas de la Procuraduría de la Defensa del Adulto Mayor;
+
+II. Representar a la Procuraduría de la Defensa del Adulto Mayor ante cualquier autoridad, organismo descentralizado federal, estatal o municipal, personas físicas o morales de derecho público o privado;
+
+III. Aprobar los manuales de organización y de procedimientos administrativos de la Procuraduría de la Defensa del Adulto Mayor;
+
+IV. Rendir un informe bimestral de actividades de la Procuraduría de la Defensa del Adulto Mayor al Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora;
+
+V. Observar las disposiciones que le señalen esta Ley y su Reglamento Interior;
+
+VI. Desarrollar, dirigir y coordinar los estudios, dictámenes, recomendaciones y análisis que considere necesarios para el buen desarrollo de las labores normativas y rectoras de la Procuraduría de la Defensa del Adulto Mayor, apoyándose en la estructura administrativa prevista en su Reglamento Interior;
+
+VII. Someter a aprobación del Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, el Reglamento Interior y la estructura orgánica de la Procuraduría de la Defensa del Adulto Mayor;
+
+VIII. Las demás que le determine el Titular del Poder Ejecutivo del Estado, el Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, el Reglamento Interior y las disposiciones legales aplicables; y
+
+IX. En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 64.
+
+La Procuraduría de la Defensa del Adulto Mayor contará con las unidades administrativas que se determinen en su Reglamento Interior, el cual regulará la organización y funcionamiento del citado Órgano Administrativo Desconcentrado y deberá ser aprobado por el Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 65.
+
+La Procuraduría de la Defensa del Adulto Mayor para hacer cumplir sus determinaciones, podrá emplear cualquiera de los siguientes medios de apremio dictados por autoridad competente:
+
+I. Apercibimiento;
+
+II. Auxilio de la fuerza pública;
+
+III. Cateo y arresto hasta por 36 horas.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -834,3 +952,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El titular del Poder Ejecutivo Estatal y los Ayuntamientos deberán implementar las acciones necesarias para que a partir del año 2013 se cumpla con la integración del padrón y bolsa de trabajo a que se refiere el presente Decreto.
+
+B.O. 9 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+EL Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora deberá aprobar el Reglamento Interior de la Procuraduría de la Defensa del Adulto Mayor en un plazo no mayor a noventa días contados a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, conforme a su presupuesto y con cargo a él, ejercerá las acciones que resulten necesarias para la asignación del personal y presupuesto para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
