@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2013-08-09"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -170,9 +170,9 @@ XXI.- Comunicarse con los otros órganos locales de gobierno, los órganos autó
 
 XXII.- Otorgar la Medalla al Mérito Ciudadano en reconocimiento a quienes hayan prestado servicios eminentes a la ciudad, a la nación o a la humanidad, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
-> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-XXIII.- Otorgar la distinción a las Ciencias, las Artes así como a la Ejecución Musical y Artística, a los ciudadanos que se hayan distinguido en las ciencias, las artes y a la interpretación musical, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
+XXIII.- Otorgar la distinción en las Ciencias y Artes a los ciudadanos que se hayan distinguido en estas categorías, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -280,9 +280,11 @@ El Presidente de la Mesa Directiva y, durante los recesos del Pleno, el Presiden
 
 Todo acto de autoridad que vulnere el fuero de los Diputados o la inviolabilidad del recinto, deberá analizarse por la Asamblea, la cual, en su caso, exigirá la aplicación de las medidas procedentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 17.
 
-Son derechos de los Diputados, en los términos de la presente ley:
+Son derechos de los Diputados y Diputadas, en los términos de la presente ley:
 
 I.- Elegir y ser electos para integrar las comisiones, comités y la Mesa Directiva de la Asamblea;
 
@@ -290,11 +292,17 @@ II.- Formar parte de un Grupo Parlamentario;
 
 III.- Participar en los trabajos, deliberaciones, debates, comparecencias y, en general, en los procedimientos previstos en este ordenamiento;
 
-IV.- Iniciar leyes y decretos ante la Asamblea e intervenir en las discusiones y votaciones de los mismos conforme a lo establecido en el Reglamento para el Gobierno Interior;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-V.- Proponer al Pleno de la Asamblea iniciativas de leyes y decretos al Congreso de la Unión, en las materias relativas al Distrito Federal;
+IV.- Iniciar leyes y decretos y presentar proposiciones y denuncias, en los términos que establezca el Reglamento para el Gobierno Interior;
 
-VI.- Presentar proposiciones y denuncias;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+V.- Proponer al Pleno de la Asamblea propuestas de iniciativas constitucionales, de leyes o decretos, para ser presentados ante el Congreso de la Unión, en las materias relativas al Distrito Federal y en los términos que establezca el Reglamento para el Gobierno Interior;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+VI.- Retirar los instrumentos referidos en las fracciones IV y V del presente artículo, en los términos que establezca el Reglamento para el Gobierno Interior;
 
 VII.- Gestionar ante las autoridades la atención de las demandas de sus representados;
 
@@ -490,9 +498,9 @@ Cuando el presidente tome la palabra en el ejercicio de sus atribuciones permane
 
 La Mesa Directiva contará con la asistencia de la Coordinación de Servicios Parlamentarios, cuyas funciones determinará el Reglamento para el Gobierno Interior.
 
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-Durante el desarrollo de la sesiones, cualquier diputado podrá solicitar a la Mesa Directiva, por lo menos con 48 horas de anticipación, un intérprete traductor de lenguaje dactilológico, con el fin de traducir a la ciudadanía con discapacidad auditiva los asuntos que considere de su interés.
+Durante el desarrollo de las sesiones de la Asamblea Legislativa del Distrito Federal, se dispondrá de un intérprete de Lengua de Señas Mexicana, con el fin de traducir a las personas con discapacidad auditiva, los asuntos que se desahogan en el Pleno. Asimismo, en la transmisión de las sesiones que así lo requieran, se colocará un recuadro permanente en la pantalla donde se enfoque en todo momento al intérprete.
 
 ###### ARTÍCULO 36.
 
@@ -974,9 +982,9 @@ VI.- Asuntos Político - electorales;
 
 VII.- Atención a Grupos Vulnerables;
 
-> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-VIII.- Ciencia y Tecnología;
+VIII.- Ciencia, Tecnología e Innovación;
 
 > <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1330,15 +1338,7 @@ Asimismo, el Instituto es el órgano compilador de las leyes vigentes en el Dist
 
 El Instituto de Investigaciones Parlamentarias de la Asamblea se regirá por la presente ley y el Reglamento para el Gobierno Interior de la misma.
 
-> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2012)</small>
-
-ARTÍCULO 84 BIS.- La Asamblea Legislativa contará dentro de su estructura administrativa con un fideicomiso asimilado en términos del segundo párrafo del artículo 12 de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
-
-El fideicomiso se denominará “Fondo de Apoyo a la Educación y el Empleo de las y los Jóvenes del Distrito Federal” y su fin primordial será el establecimiento de un mecanismo que permita financiar los programas y convenios que implemente y suscriba la Asamblea Legislativa para apoyar a las y los jóvenes y menores de edad residentes en el Distrito Federal, a efecto de que reciban educación media y superior, ya sea en instituciones públicas o privadas, capacitación para el trabajo, formación deportiva y artística.
-
-El Fondo será administrado y operado por la institución fiduciaria que determine la Comisión de Gobierno de la Asamblea Legislativa.
-
-La Asamblea Legislativa administrará el Fondo en forma autónoma e independiente a través del Comité Técnico del fideicomiso, el cual tendrá a su cargo la vigilancia, administración, manejo y operación del fondo conforme a las facultades que establece el Reglamento para el Gobierno Interior de la Asamblea Legislativa, el contrato de fideicomiso y demás normatividad aplicable.
+ARTÍCULO 84 BIS.- (DEROGADO, G.O. 9 DE ENERO DE 2014)
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VIII], G.O. 30 DE MARZO DE 2005)
 
@@ -1472,35 +1472,37 @@ d). Regulación interna de los tribunales de justicia del fuero común del Distr
 
 e). Las demás que señalen las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
 
-###### Artículo 89.
+###### ARTÍCULO 89.
 
-Las iniciativas presentadas por los Diputados, por el Jefe de Gobierno, o por el Tribunal Superior de Justicia, previo turno dado por la Presidencia de la Mesa Directiva o de la Comisión de Gobierno, pasarán de inmediato a la Comisión o a las Comisiones respectivas para que se dictaminen.
+Tanto las iniciativas presentadas por los Diputados y por el Jefe de Gobierno como las propuestas de iniciativas constitucionales, de leyes o decretos, previo turno dado por la Presidencia de la Mesa Directiva o de la Comisión de Gobierno, pasarán de inmediato a la Comisión o a las Comisiones respectivas para que se dictaminen, en los términos que precise el Reglamento para el Gobierno Interior.
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
-
-Los proyectos de iniciativa de Leyes o Decretos que se presenten ante la Asamblea deberán ir acompañados de una exposición de motivos en la cual se fundamente y motive las razones del proyecto, así como de los antecedentes necesarios para poder pronunciarse sobre ellos, firmados cuando menos por su proponente, asimismo, deberá ir acompañado de manera impresa y por medio electrónico, magnético, óptico u otros. El tiempo para hacer uso de la tribuna con tal efecto, será no mayor a diez minutos cuando se trata de iniciativas, cinco minutos cuando se trate de puntos de acuerdo considerados como de urgente y obvia resolución, conforme a lo establecido en el artículo 133 del Reglamento para el Gobierno Interior y tres minutos cuando se trate de puntos de acuerdo de conformidad a lo establecido en el artículo 132 del Reglamento para el Gobierno Interior.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Las iniciativas populares serán turnadas a una Comisión Especial integrada por miembros de las Comisiones competentes en la materia de la propuesta para el efecto de que verifique que se cumplan con los requisitos que la Ley de Participación Ciudadana establezca, y de ser procedente, la remitirá a la Mesa Directiva o a la Comisión de Gobierno en su caso, para que se dé el turno correspondiente. En caso contrario, se desechará de plano la iniciativa presentada.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-Las iniciativas desechadas por la Asamblea no podrán volver a discutirse sino en el siguiente periodo de Sesiones Ordinarias.
+Las iniciativas y las propuestas de iniciativas constitucionales, de leyes o decretos que sean desechadas por la Asamblea, no podrán volver a discutirse sino en el siguiente periodo de Sesiones Ordinarias.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 En la interpretación, reforma o derogación de las Leyes, se observarán los mismos trámites establecidos para su formación.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 90.
 
-Las iniciativas de Ley que hayan sido presentadas en una legislatura, no pasarán a la siguiente, a excepción de los siguientes supuestos:
+Las iniciativas de Ley y las propuestas de iniciativas constitucionales, de leyes o decretos, que hayan sido presentadas en una legislatura, no pasarán a la siguiente, a excepción de los siguientes supuestos:
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
 I.- Que haya sido aprobado el dictamen correspondiente por la comisión o comisiones dictaminadoras, sin que hubieren sido pasados ante el Pleno;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
 II.- Que por mandato constitucional o estatutario se deba expedir la ley o el decreto en un plazo determinado, o
 
@@ -1514,9 +1516,11 @@ Las proposiciones con punto de acuerdo e iniciativas populares no pasarán a la 
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 85], G.O. 30 DE MARZO DE 2005)
 
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 91.
 
-Toda resolución de la Asamblea tendrá el carácter de ley o decreto. Las leyes y decretos se comunicarán al Jefe de Gobierno del Distrito Federal por el Presidente y por un Secretario de la Mesa Directiva de la Asamblea, en la siguiente forma: "La Asamblea Legislativa del Distrito Federal Decreta": (texto de la ley o decreto).
+Toda resolución de la Asamblea tendrá el carácter de Ley, decreto, iniciativa, acuerdo o punto de acuerdo y se comunicarán a las instancias correspondientes por el Presidente y por un Secretario de la Mesa Directiva de la Asamblea. En el caso de las leyes y los decretos, se remitirán al Jefe de Gobierno del Distrito Federal en la siguiente forma: "La Asamblea Legislativa del Distrito Federal Decreta": (texto de la ley o decreto).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 86], G.O. 30 DE MARZO DE 2005)
 
@@ -1999,3 +2003,73 @@ Primero.- Los ARTÍCULOS PRIMERO y SEGUNDO entrarán en vigor al día siguiente 
 Segundo.- Los ARTÍCULOS TERCERO y CUARTO entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Remítase al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los ARTÍCULOS PRIMERO y SEGUNDO, y para su promulgación y publicación respecto de los ARTÍCULOS TERCERO y CUARTO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 62 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal, excepto las disposiciones relativas a la entrega de la Medalla en Ciencias y Artes, mismas que entrarán en vigor a partir del año 2014.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 35 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+Segundo.- La Asamblea deberá destinar los recursos necesarios para la contratación suficiente de los intérpretes de la Lengua de Señas Mexicana debidamente certificados por la Secretaría de Educación Pública.
+
+Tercero.- Se derogan las disposiciones y procedimientos que contravengan al presente Decreto.
+
+Cuarto.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES IV, V Y VI DEL ARTÍCULO 17; LOS PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 89; EL PÁRRAFO PRIMERO DEL ARTÍCULO 90; EL ARTÍCULO 91; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 89, TODOS DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 84 BIS DE LA LEY ORGÁNICA DE LA ASAMBLEA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal, debiendo publicarse en la Gaceta Parlamentaria de la Asamblea Legislativa del Distrito Federal, así como en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal y el Comité Técnico del Fideicomiso denominado “Fondo de Apoyo a la Educación y el Empleo de las y los Jóvenes del Distrito Federal”, realizarán los trámites correspondientes para la extinción del Fideicomiso.
+
+El Comité Técnico deberá entregar a la Oficialía Mayor de la Asamblea Legislativa toda la información relativa al Fondo para los efectos legales a que haya lugar y con el objeto de que la Oficialía Mayor cumpla con lo dispuesto en el Séptimo Transitorio del presente Decreto.
+
+TERCERO.- Los beneficiarios del Fideicomiso “Fondo de Apoyo a la Educación y el Empleo de las y los Jóvenes del Distrito Federal”, continuarán con sus estudios con base en el “Programa de Apoyo a la Educación de la Juventud del Distrito Federal”, constituido por acuerdo de la Comisión de Gobierno de fecha ocho de agosto de dos mil trece.
+
+CUARTO.- La Oficialía Mayor y la Tesorería, ambas de la Asamblea Legislativa del Distrito Federal, ejecutarán las acciones necesarias para asignar y destinar recursos al “Programa de Apoyo a la Educación de la Juventud del Distrito Federal” para darle operatividad.
+
+La Oficialía Mayor deberá informar anualmente a la Comisión de Gobierno sobre el manejo y operación del Programa de Apoyo a la Educación de Juventud del Distrito Federal.
+
+Si subsistieran recursos financieros o económicos fideicomitidos no ejercidos con motivo de la extinción del Fideicomiso “Fondo de Apoyo a la Educación y el Empleo de las y los Jóvenes del Distrito Federal”, éstos serán transferidos al Presupuesto de la Asamblea Legislativa del Distrito Federal, y en su caso, será la Comisión de Gobierno quien decida a que Programa o Programas se destinan.
+
+QUINTO.- El “Programa de Apoyo a la Educación de la Juventud del Distrito Federal” contará con una Comisión de Evaluación y Seguimiento, la cual estará integrada con diputados de todos los partidos políticos representados en la Asamblea Legislativa, así como con una Comisión Ejecutiva, las cuales quedarán instaladas dentro de los diez días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO.- La Oficialía Mayor de la Asamblea Legislativa del Distrito Federal, presentará a la Comisión de Evaluación y Seguimiento del “Programa de Apoyo a la Educación de la Juventud del Distrito Federal” los Lineamientos a las Reglas de Operación publicadas por la Comisión de Gobierno, el cuatro de septiembre de dos mil trece en la Gaceta Parlamentaria de la Asamblea Legislativa del Distrito Federal.
+
+SÉPTIMO.- La Oficialía Mayor, dentro de los 30 días naturales siguientes a la aprobación del presente Decreto, deberá entregar a la Comisión de Gobierno, desagregado por año, un informe relativo a la administración, beneficiarios, estados financieros, informes fiduciarios, manejo y operación del Fondo, con base en los datos, informes, padrón, registros, actas y toda información que le proporcione el Comité Técnico.
+
+OCTAVO.- A partir de la entrada en vigor del presente Decreto y hasta la extinción y liquidación del Fideicomiso “Fondo de Apoyo a la Educación y el Empleo de las y los jóvenes del Distrito Federal”, el Oficial Mayor será el responsable de cumplir con las obligaciones de transparencia y rendición de cuentas aplicables al caso, y en los términos que determina la Ley y su Reglamento.
+
+NOVENO.- Durante la vigencia del “Programa de Apoyo a la Educación de la Juventud del Distrito Federal” será el Oficial Mayor el responsable de cumplir con las obligaciones de transparencia y rendición de cuentas aplicables al caso, y en los términos que determina la Ley y Reglamento.
