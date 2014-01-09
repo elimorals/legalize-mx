@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-civil-para-el-estado-de-sonora-46456"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-03"
-last_updated: "2013-12-23"
+last_updated: "2014-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 3 de octubre de 2005.
 
@@ -53,9 +53,29 @@ II.- Las bases de integración y funcionamiento de los Sistemas Estatal y Munici
 
 III.- Las bases para la coordinación entre autoridades federales, estatales y municipales y la concertación con organismos sociales y privados en materia de protección civil;
 
-IV.- Las reglas para promover y garantizar la participación social en materia de protección civil, así como en la elaboración, ejecución y evaluación de los programas correspondientes; y
+> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
 
-V.- Las normas y procedimientos conforme a los cuales el Gobernador del Estado podrá emitir declaratorias de emergencia y de zona de desastre.
+IV.- Las reglas para promover y garantizar la participación social en materia de protección civil, así como en la elaboración, ejecución y evaluación de los programas correspondientes;
+
+> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+
+V.- Las normas y procedimientos conforme a los cuales el Gobernador del Estado podrá emitir declaratorias de emergencia y de zona de desastre;
+
+> <small>(ADICIONADA, B.O. 9 DE ENERO DE 2014)</small>
+
+VI.- Promover la organización, capacidad operativa y logística, técnica y la profesionalización de las instituciones públicas del Estado y sus municipios que conformen las áreas de protección civil para hacer frente a eventos naturales, accidentales o provocados que puedan originar situaciones de amenazas, emergencias o riesgos:
+
+> <small>(ADICIONADA, B.O. 9 DE ENERO DE 2014)</small>
+
+VII.- Determinar los lineamientos para promover y garantizar la participación social en materia de protección civil y en la elaboración, ejecución y evaluación de programas de prevención para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades establecidos en dichos programas;
+
+> <small>(ADICIONADA, B.O. 9 DE ENERO DE 2014)</small>
+
+VIII.- Establecer directrices que orienten la gestión y suministro de bienes, recursos y servicios vinculados a la protección civil: y
+
+> <small>(ADICIONADA, B.O. 9 DE ENERO DE 2014)</small>
+
+IX.- Identificar y ejecutar acciones entre los sectores público, social y privado para prevenir el riesgo de desastres, a fin de reducir la vulnerabilidad de la población y sus bienes.
 
 ###### ARTÍCULO 2.
 
@@ -487,7 +507,7 @@ q) Otros que por sus características y magnitud sean similares a los mencionado
 
 > <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
-Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción XI del artículo 6° de esta Ley, compartan o estén ubicados dentro de una misma unidad de construcción, la Unidad Estatal será competente para realizar visitas de inspección a los mismos.
+Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción Xl del artículo 6° de esta Ley, compartan o estén ubicados dentro de una misma unidad de construcción, la Unidad Estatal será competente para realizar visitas de inspección a los mismos.
 
 > <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -1232,3 +1252,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los ayuntamientos del Estado contarán con un plazo de 120 días, contado a partir de la entrada en vigor del presente Decreto, para emitir o adecuar sus disposiciones reglamentarias, de conformidad con el presente ordenamiento.
+
+B.O. 9 DE ENERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
