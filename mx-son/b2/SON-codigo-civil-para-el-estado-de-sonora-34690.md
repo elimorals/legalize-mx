@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2011-03-01"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-CODIGO CIVIL PARA EL ESTADO DE SONORA
+CÓDIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 1 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -683,363 +683,361 @@ Del Registro Civil.
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 130.
 
-En el Estado de Sonora, el Registro Civil estará constituído por la Dirección del Registro Civil, el Archivo Estatal del Registro Civil, los Oficiales del Registro Civil y los Funcionarios que determinen las leyes administrativas del mismo.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-La titularidad de las Oficialías del Registro Civil estará a cargo de los Oficiales del Registro Civil, quienes tendrán fé pública para autorizar los actos del estado civil y extender las actas y expedir las copias certificadas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, muerte de mexicanos y extranjeros residentes en el territorio del Estado; así como inscribir las ejecutorias que declaren la tutela, la ausencia, la presunción de muerte y la pérdida de la capacidad para administrar bienes.
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 131.
 
-Para asentar las actas del Registro Civil en el Estado, habrá las siguientes formas: Nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, inscripción de las sentencias ejecutorias que declaren la tutela, la ausencia, la presunción de muerte y la pérdida de la capacidad para administrar bienes.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 132.
 
-Las actas del Registro Civil se asentarán en formas especiales. Las inscripciones se harán mecanográficamente por cuadruplicado.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-La infracción de esta regla producirá la inexistencia del acta y se castigará con la destitución del Oficial del Registro Civil.
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 133.
 
-Si se perdiere o destruyere alguna de la formas, se sacará inmediatamente, copia de alguno de los otros ejemplares, ya sea que la pérdida ocurra en la Oficialía del Registro Civil o en el Archivo Estatal del Registro Civil.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-El Procurador General de Justicia en el Estado cuidará de que se cumpla esta disposición, a ese efecto, el Oficial del Registro Civil o el Encargado del Archivo, le dará aviso de la pérdida.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 134.
 
-El estado civil de las personas sólo se comprueba con las constancias relativas del Registro. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 135.
 
-Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno sólo de los registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 136.
 
-Las formas del Registro Civil serán expedidas y autorizadas por el Director del Registro Civil. Se renovarán cada año y los Oficiales del Registro Civil conservarán el original y remitirán dos ejemplares de ellas al Archivo Estatal de la Dirección del Registro Civil, entregando un ejemplar al interesado.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 137.
 
-El Oficial del Registro Civil que no cumpla con la prevención de remitir oportunamente a las mencionadas oficinas los ejemplares de que habla el artículo anterior, será destituído de su cargo.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 138.
 
-No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 139.
 
-Cuando los interesados no pueden concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, Local o Menor.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 140.
 
-En la formación de las actas del estado civil se observarán las siguientes reglas:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 1981)</small>
-
-I.- Los testigos que intervengan en las actas del Registro Civil deberán ser mayores de edad, y se preferirán a los parientes y a los que designen los interesados, asentándose en el acta su nombre, edad, domicilio y nacionalidad;
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 1981)</small>
-
-II.- Inscrita la forma del acta, será leída por el Oficial del Registro Civil a los interesados y testigos; la firmarán todos, y si alguno no puede hacerlo, se expresará la causa, y se imprimirá su huella digital. También se expresará que el acta fué leída y quedaron conformes los interesados con su contenido;
-
-III.- Si alguno de los interesados quisiera imponerse por sí mismo del tenor del acta, podrá hacerlo; y si no supiere leer, uno de los testigos designados por él leerá aquélla y la firmará si el interesado no supiere hacerlo;
-
-IV.- Si un acto comenzado se entorpeciere porque las partes se nieguen a continuarlo o por cualquier otro motivo, se inutilizará el acta, marcándola con dos líneas transversales y expresándose el motivo por qué se suspendió, razón que deberán firmar el Oficial del Registro, los interesados y los testigos;
-
-V.- Las actas se enumerarán y escribirán una después de otra, sin dejar entre ellas ningún renglón entero en blanco;
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 1981)</small>
-
-VI.- Tanto las fechas de las actas como cualquier otro número serán inscritos en cifras aritméticas;
-
-VII.- En ninguna frase se emplearán abreviaturas;
-
-VIII.- No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará sobre ella una línea de manera que quede legible, salvo los casos a que se refieren los artículos 157, 158 y 536, entonces, la testadora se hará de oficio por el Oficial del Registro Civil, cuando se advierta que se hizo alguna de las menciones prohibidas por los artículos anteriores, y la testadora se hará por completo de manera que queden absolutamente ilegibles y se advertirá al final del acta la causa por que se ha hecho;
-
-IX.- Al fin de cada acta se salvará con toda claridad lo entrerrenglonado y testado;
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 1981)</small>
-
-X.- Los puntos dados por los interesados y los documentos que presenten, se anotarán poniendo el número del acta y el sello del registro, y se reunirán y depositarán en el Archivo correspondiente, anexándose en cada remisión de formas de acta el índice respectivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 141.
 
-La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Oficial del Registro Civil, sin perjuicio de las penas que la ley señale para el delito de falsedad, y de la indemnización de daños y perjuicios.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 142.
 
-Los vicios o defectos que haya en las actas sujetan al Oficial del Registro a las correcciones que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 143.
 
-Toda persona puede solicitar copia certificada de las actas del Registro Civil y de los documentos del apéndice, los Oficiales, el Director, y el Jefe de Archivo están obligados a expedirlas.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 144.
 
-Los actos y actas del estado civil relativos al Oficial del Registro Civil, de su cónyuge, ascendientes o descendientes de cualquiera de ellos no podrán autorizarse por el propio oficial, pero se asentarán en las formas correspondientes, autorizándose por otro Oficial en donde funcionen dos o mas Oficialías, o por el Presidente Municipal o el Comisario de Policía del lugar.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 145.
 
-Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones, dé testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 146.
 
-Para establecer el estado civil, adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registren en la oficina respectiva del Estado.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 147.
 
-Los oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los Presidentes Municipales o Comisarios de Policía.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 148.
 
-El Ministerio Público cuidará de que las inscripciones del Registro Civil se lleven debidamente, pudiendo inspeccionarlas en cualquier época. Durante los seis primeros meses de cada año, el Ministerio Público revisará las inscripciones del año anterior enviadas al Archivo Estatal para el efecto de hacer la consignación correspondiente de los Oficiales Registradores que hubieren cometido delito en el ejercicio de su encargo, o de dar aviso a las Autoridades Administrativas de las faltas que hubieren incurrido esos funcionarios; debiendo en todo caso rendir informe oportuno del resultado de su examen al Ejecutivo, del cual se dejará una copia en la Oficialía correspondiente y otra se enviará al Archivo del Registro Civil. La infracción de este artículo produce responsabilidad para los Agentes del Ministerio Público.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ### CAPITULO II.
 
 De las Actas de Nacimiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Art. 149.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil en su oficina o en la casa donde aquél hubiere nacido.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 150.
 
-Tienen la obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, dentro de los ciento ochenta días de ocurrido aquél.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-Los médicos cirujanos o matronas que hubieren asistido al parto tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes. La misma obligación tiene el jefe de la familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
-
-Recibido el aviso, el Oficial del Registro Civil, tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 151.
 
-Las personas que estando obligadas a declarar el nacimiento lo hagan fuera del término fijado, serán castigas con una multa de cincuenta a quinientos pesos, que impondrá el Oficial del Registro Civil del lugar donde se haya hecho la declaración extemporánea de nacimiento y que deberá enterarse en la Agencia Fiscal del Estado, de su jurisdicción.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 152.
 
-En las poblaciones en que no haya oficial del registro, el niño será presentado a la persona que ejerza la autoridad política, y éste dará la constancia respectiva que los interesados llevarán al oficial del registro que corresponda para que se asiente el acta.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 153.
 
-El acta de nacimiento contendrá el año, mes, día, hora y lugar de nacimiento, el sexo, la impresión digital del presentando, el nombre y apellidos que le correspondan sin que por motivo alguno puedan omitirse, la expresión de si es presentado vivo o muerto; el nombre, edad, domicilio y nacionalidad de los padres; nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá el nombre y apellido, haciéndose constar esta circunstancia en el acta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 154.
 
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilio de los abuelos y los de las personas que hubieren hecho la presentación. Los testigos de que habla el artículo anterior declararán también acerca de la nacionalidad de los padres del presentado al Registro.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 155.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituído en la forma establecida en el artículo 139; haciéndose constar en todo caso la petición.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones relativas de este Código.
-
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 156.
 
-Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 157.
 
-Si el hijo no fuere de matrimonio, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 158.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 159.
 
-Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo es incestuoso.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 160.
 
-Toda persona que encontraré un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil con los vestidos, papeles o cualesquiera otros objetos encontrados con él y declarará el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 161.
 
-La misma obligación tienen los jefes directores o administradores de las prisiones y de cualquiera casa de comunidad, especialmente los de los hospitales, casas de maternidad o inclusas, respecto de los niños nacidos o expuestos en ellas.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 162.
 
-En las actas que se levanten en estos casos se expresarán con especificación todas las circunstancias que designa el artículo 160, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan y el nombre de la persona o casa de expósitos que se encarguen de él.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 163.
 
-Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, se depositarán en el Archivo del Registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 164.
 
-Se prohibe absolutamente al Oficial del Registro Civil y a los testigos que, conforme el artículo 153 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 165.
 
-El Oficial del Registro Civil que reciba alguna de las constancias a que se refieren los artículos 70 a 73 del Código Civil del Distrito Federal, inscribirá desde luego el acta correspondiente, anexándole la constancia de referencia.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 166.
 
-Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres si en aquél no hubiere Oficial del Registro; en el primer caso se remitirá copia del acta al Oficial del Registro Civil del domicilio de los padres si éstos lo pidieren; y en el segundo se tendrá para hacer el registro el término que señala el artículo 150 con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 167.
 
-Si al dar aviso de su nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 168.
 
-Cuando se trate de nacimiento múltiple se levantará un acta por cada uno de los nacidos, y se anotarán las características que puedan diferenciarlos.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ### CAPITULO III.
 
 De las Actas de Reconocimiento de los Hijos Habidos Fuera de Matrimonio.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 169.
 
-Si el padre o la madre de un hijo habido fuera de matrimonio o ambos lo reconocieren al presentarlo dentro del término de la Ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, además de los nombres del progenitor que lo reconozca. Esta acta surtirá los efectos del reconocimiento legal.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 170.
 
-Si el reconocimiento del hijo habido fuera de matrimonio se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes en sus respectivos casos:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-I.- Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
-
-II.- Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de su tutor;
-
-III.- Si el hijo es menor de catorce años, se expresará sólo el consentimiento del tutor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 171.
 
-Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo habido fuera de matrimonio, o esa presentación se haya hecho después del término de la ley.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 172.
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del Registro, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este Capítulo y en el Capítulo IV del Título Séptimo de este Libro.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 173.
 
-La omisión del registro en el caso del artículo que precede no quita los efectos legales al reconocimiento hecho conforme a las disposiciones del este Código; pero a los responsables de la omisión incurrirán en una multa de cincuenta a quinientos pesos, que impondrá y hará efectiva el Oficial del Registro Civil ante quien se haga valer el reconocimiento.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 174.
 
-En el acta de reconocimiento hecha con posterioridad al acta de nacimiento se hará mención de ésta, haciendo en ella la anotación correspondiente.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 175.
 
-Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento para que se haga la anotación respectiva.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ### CAPITULO IV.
 
 De las Actas de Adopción.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 176.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante o los adoptantes, dentro del término de quince días, presentarán al Oficial del Registro Civil de su domicilio, copia certificada de la misma, a efecto de que se asiente el acta respectiva.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 177.
 
-La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 173.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 178.
 
-El acta de adopción simple contendrá; nombres, apellidos, edad, fecha, lugar de nacimiento y domicilio del adoptado; nombres, apellidos, edad, estado civil, domicilio y nacionalidad del o de los adoptantes y los datos esenciales de la resolución judicial, así como la fecha en que causó ejecutoria y el tribunal que la dictó, consignando el nuevo nombre y apellidos del adoptado, en caso de que la resolución lo indique.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-Extendida el acta de adopción simple, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
-
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 179.
 
-En los casos de adopción plena se levantará una nueva acta de nacimiento al menor o incapacitado, en la que aparezcan sus padres adoptivos como progenitores, sin ninguna mención del carácter adoptivo de la filiación, asignando al adoptado el nombre y apellidos indicados en la resolución judicial.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-En este caso los antecedentes serán guardados en secreto y cancelada el acta de nacimiento original, sin que pueda expedirse constancia alguna sobre dichos antecedentes, a no ser por resolución judicial o solicitud del Ministerio Público en el caso de la investigación de delitos vinculados con el parentesco consanguíneo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 180.
 
-El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ### CAPITULO V.
 
 De las Actas de Tutela.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Art. 181.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Oficial del Registro Civil, para que se levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 182.
 
-La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsables al tutor y al curador en los términos que establece el artículo 173.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 183.
 
-El acta de tutela contendrá:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-I.- El nombre, apellido y edad del incapacitado;
-
-II.- La clase de incapacidad por la que se haya deferido la tutela;
-
-III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
-
-IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
-
-V.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o prenda;
-
-VI.- El nombre del juez que pronunció el auto de discernimiento y la fecha de éste.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 184.
 
-Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma Oficina del Registro, lo prevenido en el artículo 175.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ### CAPITULO VI.
 
 De las Actas de Emancipación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Art. 185.
 
-En los casos de emancipación por efecto del matrimonio, no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud de matrimonio y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ###### Art. 186.
 
@@ -1057,249 +1055,219 @@ En los casos de emancipación por efecto del matrimonio, no se formará acta sep
 
 De las Actas de Matrimonio.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 189.
 
-Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
-
-II.- Que no tienen impedimento legal para casarse, y
-
-III.- Que es su voluntad unirse en matrimonio.
-
-Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o supiere escribir imprimirá su huella digital.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 190.
 
-Al escrito a que se refiere el artículo anterior se acompañará:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 1981)</small>
-
-I.- Copia certificada del acta de nacimiento y de la cédula de identificación personal de cada uno de los pretendientes;
-
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 242, 243 y 244;
-
-III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
-
-IV.- Un certificado suscrito por un médico titulado que asegure bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria.
-
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
-
-V.- El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio; pero podrá en su lugar manifestarse o presumirse de acuerdo con lo que establece el artículo 270, que se opta por el régimen de sociedad legal. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 280 y 302, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
-
-Si de acuerdo con lo dispuesto en el artículo 276 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
-
-VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo; o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
-
-VII.- Copia de la dispensa de impedimentos, si los hubo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 191.
 
-En el caso de que los pretendientes, por falta de conocimiento, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 192.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 190 serán ratificadas, bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 193.
 
-El matrimonio se celebrará dentro de los ocho días siguientes en el lugar, día y hora que señale el Oficial del Registro Civil, de acuerdo con los pretendientes.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 194.
 
-En el lugar, día y hora designados para la celebración del matrimonio, deberán estar presentes ante el Oficial del Registro Civil los pretendientes o su apoderado especial constituído en la forma prevenida en el artículo 139 y dos testigos por cada uno de ellos, que acrediten su identidad.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-Acto continuo el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 195.
 
-Se levantará luego el acta de matrimonio en la cual se hará constar:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADA B.O. 24 DE DICIEMBRE DE 1981)</small>
-
-I.- Los nombres, apellidos, edad, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
-
-II.- Si son mayores o menores de edad;
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 1981)</small>
-
-III.- Los nombres, apellidos, domicilio y nacionalidad de los padres;
-
-IV.- El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlos;
-
-V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 1981)</small>
-
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el Oficial del Registro Civil en nombre de la Ley de la Sociedad;
-
-VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 1981)</small>
-
-VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y
-
-IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
-
-El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
-
-En el acta se imprimirán las huellas digitales de los contrayentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 196.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 190, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 197.
 
-El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio levantará un acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta, firmada por los que en ella intervinieren, será remitida al Juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 198.
 
-Las denuncias de impedimento pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 199.
 
-Antes de remitir el acta al Juez de Primera Instancia, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 200.
 
-Las denuncias anónimas o hechas por cualquiera otro medio si no se presentaré personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de primera instancia que corresponda y suspenderá todo procedimiento hasta que ésta resuelva.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 201.
 
-Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 202.
 
-El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 203.
 
-Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar el matrimonio.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 204.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio será castigado, por la primera vez, con multa de mil pesos, y en caso de reincidencia con la destitución de su cargo.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 205.
 
-El Oficial del Registro Civil que reciba una solicitud de matrimonio está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime conveniente a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
-
-También podrá exigir declaraciones bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 190.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ### CAPITULO VIII.
 
 De las Actas de Divorcio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Art. 206.
 
-La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Oficial del Registro Civil para que levante el acta correspondiente.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 207.
 
-El acta de divorcio contendrá nombres, apellidos, edad, domicilio, ocupación y nacionalidad de los divorciados, los datos de situación de las actas de nacimiento y matrimonio de los mismos y la parte resolutiva de la sentencia judicial, fecha de la resolución, autoridad que la dictó y fecha en que causó ejecutoria.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 208.
 
-Extendida el acta, se anotarán las de nacimiento y matrimonio de los divorciados, y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ### CAPITULO IX.
 
 De las Actas de Defunción.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 209.
 
-Ninguna inhumación o cremación se hará sin autorización escrita del Oficial el Registro Civil, quién se asegurará suficientemente del fallecimiento por certificado expedido por médico, legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto los casos en que se ordene otra cosa por la autoridad que corresponda.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 210.
 
-En el acta de fallecimiento se asentarán los datos que el Oficial del Registro Civil adquiera, o la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquél en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 211.
 
-El acta de defunción contendrá:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-I.- El nombre, apellidos, edad, ocupación, nacionalidad, sexo y domicilio que tuvo el difunto;
-
-II.- El estado civil de éste, y si era casado o viudo el nombre, apellidos y nacionalidad de su cónyuge;
-
-III.- Los nombres de los padres del difunto;
-
-IV.- La clase de enfermedad que determinó la muerte, el destino del cadáver, nombre y ubicación del panteón o crematorio;
-
-V.- La hora, día, mes, año, y lugar de la muerte y todos los informes que se obtengan en caso de muerte violenta;
-
-VI.- Nombre, apellidos, número de cédula profesional y domicilio del médico que certifique la defunción;
-
-VII.- Nombre, apellidos, edad, nacionalidad y domicilio del declarante y grado de parentesco, en su caso, con el difunto;
-
-VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, y si fueren parientes del difundo el grado en que lo sean.
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 212.
 
-Los que habiten la casa en que ocurra el fallecimiento, los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquier otra casa de comunidad, los encargados de los hoteles, mesones o las casas de vecindad, tienen la obligación de dar aviso al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes al fallecimiento.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 213.
 
-Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro, la autoridad municipal extenderá la constancia respectiva, que remitirá al Oficial del Registro Civil que corresponda, para que asiente el acta.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 214.
 
-Cuando el Oficial del Registro Civil sospeche que la muerte fué violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difuto (sic) se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos se comunicarán al Oficial del Registro Civil para que los anote al margen del acto.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 215.
 
-En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos y objetos que con él se hayan encontrado.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 216.
 
-Si no aparece el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no aparezca y las demás noticias que sobre el suceso puedan adquirirse.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 217.
 
-Cuando un Oficial del Registro Civil en el Estado reciba la constancia a que se refiere el artículo 125 del Código Civil del Distrito Federal, sobre la defunción de alguna persona ocurrida en el mar, procederá a levantar el acta que corresponda, archivando el documento extendido por el capitán del navío, anotado con el número que corresponda al acta levantada.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 218.
 
-Cuando alguna persona falleciere en lugar que no sea su domicilio, se remitirá al Oficial del Registro Civil de su domicilio copia certificada del acta de defunción para que se haga la anotación en el acta de nacimiento y en las demás que estén relacionadas con la misma.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 219.
 
-El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al Oficial del Registro de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el Oficial del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ###### Art. 220.
 
 (DEROGADO, B.O. 24 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 221.
 
-Todos los casos de muerte en los establecimientos de reclusión, no se hará en los Registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el Artículo 211.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ###### Art. 222.
 
 Si por haber ocurrido la muerte en despoblado, por ignorancia o por cualquier otro motivo no se hubiere levantado oportunamente un acta de defunción, los interesados o el Ministerio Público promoverán información testimonial ante un Juez de Primera Instancia, y con esas diligencias el Oficial del Registro Civil levantará el acta omitida.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Art. 223.
 
-En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que conste ésta.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 24 DE DICIEMBRE DE 1981)</small>
 
@@ -1307,79 +1275,61 @@ En los registros de nacimiento y matrimonio se hará referencia al acta de defun
 
 Inscripciones de las Ejecutorias que Declaren la Tutela, la Ausencia, la Presunción de Muerte o la Incapacidad Legal para Administrar Bienes.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 224.
 
-Las Autoridades Judiciales que declaren la tutela, la ausencia, la presunción de muerte o la incapacidad legal para administrar bienes, remitirán al Oficial del Registro Civil correspondiente copia certificada de la resolución ejecutoriada respectiva o auto de discernimiento en el término de quince días, para que se efectúe la inscripción en el acta correspondiente.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 225.
 
-El oficial del registro levantará el acta correspondiente, en la que se insertará la resolución judicial que se le haya comunicado, anotando el acta de nacimiento.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1981)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 226.
 
-Cuando se revoque la tutela, se presente la persona declarada ausente o cuya muerte se presumía, o se recobre la capacidad legal para administrar, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la Autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ### CAPITULO XI.
 
 De la Rectificación de las Actas del Estado Civil.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 227.
 
-La rectificación o modificación de un acta del estado civil puede hacerse mediante sentencia que dicte la Autoridad Judicial, en los casos previstos en el Código de Procedimientos Civiles o, mediante resolución administrativa emitida por la Dirección General del Registro Civil en los supuestos y conforme a las reglas establecidas en este Código, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 228.
 
-Ha lugar a pedir la rectificación:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-I.- Por falsedad, cuando se alegue que el suceso registrado no paso;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+Art. 228 BIS.- (DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
-
-Art. 228 BIS.- El procedimiento administrativo mediante el cual, la Dirección General del Registro Civil emitirá la resolución administrativa que ordene la rectificación de un acta del estado civil, se sustentará en solicitud que tenga como finalidad la aclaración del acta que corresponda para corregir en ella errores mecanográficos, gramaticales u ortográficos, que sean evidentes por sí mismos o, cuando se trate de complementar o ampliar los datos contenidos en la misma, siempre que las circunstancias origen de la aclaración aparezcan del contenido del propio instrumento, y no sean modificados sus elementos esenciales.
-
-El procedimiento administrativo ante la Dirección General del Registro Civil, se sujetará a las siguientes reglas:
-
-I.- Se iniciará con la sola comparecencia del interesado de manera verbal o por escrito, ante la Dirección General del Registro Civil o, ante la Oficialía del Registro Civil que corresponda, para lo cual será necesario exhibir el acta del estado civil respectiva, haciéndose constar la concurrencia del interesado;
-
-II.- En el caso de que comparezca ante la Oficialía a que se refiere la fracción anterior, ésta sin más trámite remitirá a la Dirección General del Registro Civil, a la mayor brevedad posible dependiendo de la facilidad en las comunicaciones o, dentro de las veinticuatro horas siguientes, la constancia de comparecencia del interesado junto con el acta cuya rectificación se solicita;
-
-III.- Recibida la solicitud, el Director General del Registro Civil resolverá lo que proceda dentro de un plazo de tres días hábiles, comunicándola de inmediato al Oficial del Registro Civil que corresponda para que realice las anotaciones marginales a que haya lugar dentro de veinticuatro horas siguientes y notifique al interesado;
-
-IV.- La resolución que se dicte podrá ser impugnada por el interesado, mediante la interposición del recurso de inconformidad ante la Dirección General del Registro Civil o, ante el Oficial del Registro Civil que corresponda, siendo éste sólo receptor de la solicitud. El término para interponer el recurso de inconformidad será de quince días hábiles contados a partir del día siguiente al en que surta sus efectos la notificación respectiva.
-
-El Oficial del Registro Civil que reciba el recurso de inconformidad, procederá a enviarlo para su resolución a la Dirección General del Registro Civil en la forma y términos a que se refiere la fracción II de este artículo y ésta deberá emitir la resolución dentro de los diez días hábiles siguientes, procediendo a comunicarla y notificarla conforme a lo previsto en la fracción anterior.
-
-La resolución que recaiga al recurso de inconformidad, podrá ser impugnada por el interesado ante el Tribunal de lo Contencioso Administrativo;
-
-V.- Cualquier tercero podrá demandar en juicio ordinario, en cualquier tiempo, del Oficial y el Director del Registro Civil involucrados y de quienes se hubiesen aprovechado de la aclaración o modificación del acta respectiva, la anulación de la resolución definitiva dictada en los términos del párrafo anterior. En estos casos, con la sola presentación de la demanda se suspenderán los efectos de la declaratoria administrativa y se mandará prevenir al interesado, bajo el apercibimiento de la pena que corresponda por el delito de desacato a la autoridad, que se abstenga de utilizar copias certificadas del acta respectiva donde no aparezca la anotación del juicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 229.
 
-Pueden pedir la rectificación de un acta del estado civil:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
-I.- Las personas de cuyo estado se trata;
-
-II.- Las que se mencionan en el acta como relacionadas con el estado civil de alguno;
-
-III.- Los herederos de las personas comprendidas en las dos fracciones anteriores;
-
-IV.- Los que según los artículos 514 a 516 pueden continuar o intentar la acción de que en ellos se trata.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 230.
 
-El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Art. 231.
 
-La sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, B.O. 9 DE ENERO DE 2014)
 
 ## TITULO QUINTO.
 
@@ -19380,3 +19330,25 @@ A falta de disposición expresa en cuanto a los términos o plazos que establece
 ###### ARTÍCULO QUINTO.
 
 En tanto entre en vigor el Código Procesal en materia familiar se aplicará en lo conducente el Código de Procedimientos Civiles para el Estado de Sonora.
+
+B.O. 9 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a los 30 días siguientes al de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que regula la Organización de la Institución del Registro Civil en el Estado de Sonora.
+
+###### ARTÍCULO TERCERO.
+
+Al entrar en vigor la siguiente Ley se derogarán los siguientes artículos del Código Civil para el Estado de Sonora: 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 221, 221 (SIC), 223, 224, 225, 226, 227, 228, 228 BIS, 229, 230, y 231.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley dentro de los 180 días hábiles contados a partir del día siguiente de la entrada en vigor de la misma.
+
+###### ARTÍCULO QUINTO.
+
+Quedan sin efecto las disposiciones legales que contravengan a lo preceptuado en esta Ley.
