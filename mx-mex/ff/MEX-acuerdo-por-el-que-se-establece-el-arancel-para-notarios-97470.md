@@ -4,7 +4,7 @@ identifier: "MEX-acuerdo-por-el-que-se-establece-el-arancel-para-notarios-97470"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-19"
-last_updated: "2013-12-19"
+last_updated: "2014-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MEX"
 ---
 # ACUERDO POR EL QUE SE ESTABLECE EL ARANCEL PARA NOTARIOS DEL ESTADO DE MEXICO 2014
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2014 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO POR EL QUE SE ESTABLECE EL ARANCEL PARA NOTARIOS DEL ESTADO DE MÉXICO 2014
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE ESTABLECE EL ARANCEL PARA NOTARIOS, EL PRESENTE ORDENAMIENTO SERÁ APLICABLE DURANTE EL AÑO FISCAL 2014.</small>
 
 TEXTO ORIGINAL.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 9 DE ENERO DE 2014.
 
 Acuerdo publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 19 de diciembre de 2013.
 
@@ -453,7 +453,9 @@ PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Go
 
 SEGUNDO. El presente arancel será aplicable durante el año fiscal 2014.
 
-TERCERO. Se derogan todas las disposiciones legales o reglamentarias de igualo menor jerarquía que sean contrarias a las establecidas en el presente acuerdo.
+> <small>(F. DE E., G.G. 9 DE ENERO DE 2014)</small>
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente acuerdo.
 
 Dado en la ciudad de Toluca de Lerdo, capital del Estado de México, a los diecinueve días del mes de diciembre de dos mil trece.
 
