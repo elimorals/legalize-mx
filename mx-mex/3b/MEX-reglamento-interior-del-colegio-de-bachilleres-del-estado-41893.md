@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-colegio-de-bachilleres-del-estado-41893
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-17"
-last_updated: "2007-02-19"
+last_updated: "2014-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE FEBRERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO, PUBLICADO EN LA SECCIÓN PRIMERA DE LA G.G. DE 9 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de noviembre de 2004.
 
@@ -530,3 +532,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 9 DE ENERO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga el Reglamento Interior del Colegio de Bachilleres del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha 17 de noviembre de 2004.
+
+TERCERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
