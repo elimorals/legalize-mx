@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-escolar-para-el-estado-de-sonora-67616"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-15"
-last_updated: "2009-01-15"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2014.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de enero de 2009.
 
@@ -121,7 +121,9 @@ II.- El Procurador General de Justicia del Estado;
 
 III.- El Secretario de Educación y Cultura;
 
-IV.- El Secretario Ejecutivo de Seguridad Pública;
+> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+
+IV.- El Secretario de Seguridad Pública,
 
 V.- El Secretario de Salud Pública;
 
@@ -179,9 +181,11 @@ VII.- Proponer que en la toma de decisiones, en materia de esta ley, las autorid
 
 VIII.- Las demás atribuciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 11.
 
-Corresponde a la Secretaría Ejecutiva de Seguridad Pública:
+Corresponde a la Secretaría de Seguridad Pública:
 
 I.- Auxiliar a las autoridades en el cumplimiento de esta ley y demás disposiciones legales que de esta deriven;
 
@@ -205,7 +209,9 @@ II.- Establecer y promover las líneas de colaboración de la comunidad en gener
 
 III.- Propiciar la organización de eventos en los que se destaque y estimule la participación y activismo de los miembros de la comunidad en favor de la seguridad escolar;
 
-IV.- Coordinarse permanentemente con la Secretaría Ejecutiva de Seguridad Pública, para aplicar en la comunidad escolar los programas existentes relativos a la prevención de problemas de conducta o inseguridad, así como promover y fomentar la utilización de mecanismos alternativos de solución de controversias relacionadas con el ámbito escolar;
+> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+
+IV.- Coordinarse, permanentemente, con la Secretaría de Seguridad Pública, para aplicar en la comunidad escolar, los programas existentes relativos a la prevención de problemas de conducta o inseguridad, así como promover y fomentar la utilización de mecanismos alternativos de solución de controversias relacionadas con el ámbito escolar;
 
 V.- Proveer, conforme a la disponibilidad presupuestal aprobada, de infraestructura vial y de señalización en las calles aledañas a los espacios educativos para garantizar la seguridad en el entorno del plantel educativo correspondiente;
 
@@ -221,9 +227,13 @@ Corresponde a los Directores Generales de los órganos de gobierno de los Organi
 
 I.- Aplicar, en la esfera de su competencia, esta ley y sus reglamentos, así como vigilar su observancia;
 
-II.- Proponer a los titulares de la Secretaría y de la Secretaría Ejecutiva de Seguridad Pública, la adopción de medidas necesarias para el cumplimiento de los objetivos de esta ley y, en su caso, aplicarlas en el ámbito de su competencia;
+> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
 
-III.- Coadyuvar con la Secretaría, la Secretaría Ejecutiva de Seguridad Pública y los ayuntamientos, en la formulación del registro de las brigadas de los planteles educativos a su cargo; y
+II.- Proponer a los titulares de la Secretaría y de la Secretaría de Seguridad Pública, la adopción de medidas necesarias para el cumplimiento de los objetivos de esta ley y, en su caso, aplicarlas en el ámbito de su competencia:
+
+> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+
+III.- Coadyuvar con la Secretaría, la Secretaría de Seguridad Pública y los ayuntamientos, en la formulación del registro de las brigadas de los planteles educativos a su cargo; y
 
 IV.- Las demás atribuciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
@@ -235,9 +245,17 @@ Son auxiliares en materia de Seguridad Escolar en los planteles educativos y su 
 
 I.- Los Consejos Escolares;
 
-II.- Las Brigadas; y
+> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
 
-III.- Los demás integrantes de los sectores público, privado y social que de forma voluntaria decidan auxiliar en materia de Seguridad Escolar.
+II.- Los directores de los planteles escolares;
+
+> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+
+III.- Las Brigadas; y
+
+> <small>(ADICIONADA, B.O. 9 DE ENERO DE 2014)</small>
+
+IV.- Los demás integrantes de los sectores público, privado y social que de forma voluntaria decidan auxiliar en materia de Seguridad Escolar.
 
 ###### ARTÍCULO 15.
 
@@ -369,9 +387,21 @@ IX.- Contar con una línea telefónica de emergencia;
 
 X.- Colocar en lugar visible los números de emergencia;
 
-XI.- En coordinación con la autoridad correspondiente, establecer programas relativos a la seguridad escolar; y
+> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
 
-XII.- Las demás acciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
+XI.- Contar con, al menos, dos extintores para fuegos tipo A, B y C; y procurar la capacitación de los integrantes de la comunidad escolar sobre su uso responsable;
+
+> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+
+XII.- En coordinación con la autoridad correspondiente, establecer programas relativos a la seguridad escolar;
+
+> <small>(ADICIONADA, B.O. 9 DE ENERO DE 2014)</small>
+
+XIII.- En general, aplicar esta ley y su reglamentación dentro de su ámbito de competencia y vigilar su observancia dentro del plantel escolar a su cargo; y
+
+> <small>(ADICIONADA, B.O. 9 DE ENERO DE 2014)</small>
+
+XIV.- Las demás acciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
 ###### ARTÍCULO 22.
 
@@ -499,6 +529,38 @@ IX.- Los demás objetivos que en la materia sean emitidos por las autoridades co
 
 El Programa de Seguridad Escolar logrará sus objetivos a través de la Secretaría, la que en coordinación con las autoridades competentes en materia de seguridad escolar emitirá el programa, al que se sujetaran los auxiliares señalados en el artículo 14 de esta ley.
 
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+ARTÍCULO 36 BIS.- En todo caso, el Programa de Seguridad Escolar deberá establecer la impartición, durante los dos primeros meses del año escolar, de cursos de capacitación de seguridad en las escuelas dirigidos a todo el personal docente, administrativo y de apoyo que labore en el plantel respectivo.
+
+Los cursos de capacitación a que se refiere el párrafo anterior, deberán contemplar las acciones de emergencia que tendrán que llevar a cabo los integrantes de un determinado plantel escolar, así como las áreas más seguras a las que deberán acudir, cuando en calles aledañas, en el perímetro escolar o en el mismo interior del plantel, se presenten acontecimientos extraordinarios, producto de la naturaleza o generados por el hombre, que amenacen con poner en riesgo la seguridad de la comunidad escolar.
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+ARTÍCULO 36 BIS I.- Los cursos de capacitación del Programa de Seguridad Escolar que se impartan en las escuelas, dentro de los acontecimientos extraordinarios descritos en el segundo párrafo del artículo anterior, deberán contemplar, al menos, los siguientes eventos:
+
+I. - Disturbios;
+
+II.- Despliegues policiacos;
+
+III.- Personas armadas:
+
+IV.- Detonaciones de armas de fuego;
+
+V.- Incendios;
+
+VI- Explosiones;
+
+VII.- Inundaciones;
+
+VIII.- Torrentes;
+
+IX.- Deslaves; y
+
+X.- Fenómenos meteorológicos en general
+
+Es obligación del personal docente, administrativo y de apoyo, asistir a los cursos de capacitación del Programa de Seguridad Escolar que se impartan en el plantel donde presten sus servicios.
+
 ### CAPÍTULO VII. DE LA OBSERVANCIA DE ESTA LEY
 
 ###### ARTÍCULO 37.
@@ -532,3 +594,19 @@ La Secretaría de Educación y Cultura promoverá la implementación de reglamen
 COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.- SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO SONORA, DICIEMBRE 11 DEL 2008.- DIPUTADO PRESIDENTE.- C. SERGIO CUELLAR YESCAS.- RUBRICA.- DIPUTADA SECRETARIA.- C. IRMA DOLORES ROMO SALAZAR.- RUBRICA.- DIPUTADO SECRETARIO.- C. REYNALDO MILLAN COTA.- RUBRICA.-
 
 POR TANTO MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS DIECISEIS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL OCHO.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- WENCESLAO COTA MONTOYA.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 9 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado cuenta con un plazo de ciento ochenta días, a partir de la publicación del presente decreto, para expedir la reglamentación y el Programa de Seguridad Escolar correspondiente, que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, a través de las dependencias a su cargo y las que se señalan en el artículo 7 de la Ley de Seguridad Escolar para el Estado de Sonora, cuenta con un plazo de trescientos sesenta días naturales, contado a partir de la publicación del presente decreto, para acreditar a la totalidad del personal docente, administrativo y de apoyo, que labora en las instituciones educativas donde aplique la Ley de Seguridad Escolar para el Estado de Sonora.
