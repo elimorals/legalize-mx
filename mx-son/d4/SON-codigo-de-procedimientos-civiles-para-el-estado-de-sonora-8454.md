@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2011-05-16"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 16 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 179 PUBLICADO EN EL P.O. DE 4 DE JUNIO DE 2009.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -5701,31 +5699,17 @@ Art. 600 QUATER (SIC).- El Juez que autorizó la adopción plena tiene competenc
 
 Rectificación de actas del estado civil.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
-
 ###### Art. 601.
 
-La rectificación o modificación de un acta del estado civil puede hacerse mediante sentencia que dicte la Autoridad Judicial, en los casos previstos en este Código o, mediante la resolución administrativa emitida por la Dirección General del Registro Civil en los supuestos y conforme a las reglas establecidas en el Código Civil, salvo el reconocimiento que voluntariamente haga un padre a su hijo, en los casos autorizados por éste último ordenamiento.
-
-> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 1979)</small>
+(DEROGADO, B.O. 9 DE ENERO DE 2014)
 
 ###### Art. 602.
 
-Sólo habrá lugar a pedir la rectificación de actas del estado civil por falsedad, cuando se alega que el acta registrada no pasó, o por enmienda, o cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
-
-Cuando sólo se trate de cumplimentar o ampliar los datos que contenga un acta del estado civil, pero sin variar ni modificar el contenido el contenido de ésta, no se requerirá juicio contradictorio, pudiendo recibirse las pruebas a que haya lugar, de acuerdo con las reglas de la jurisdicción voluntaria. En estos casos, el Juez deberá pronunciar su resolución en un término no mayor de cinco días, y la deberá comunicar de inmediato a la Dirección del Registro Civil y a la Oficialía correspondiente, para que se hagan las anotaciones marginales pertinentes. Esta resolución no será revisable de oficio.
+(DEROGADO, B.O. 9 DE ENERO DE 2014)
 
 ###### Art. 603.
 
-Pueden pedir la rectificación o modificación de una acta del estado civil:
-
-I.- Las personas de cuyo estado se trate;
-
-II.- Las que se mencionan en el acta como relacionadas con el estado civil de la persona cuya acta se pretende rectificar;
-
-III.- Los herederos de las personas comprendidas en las dos fracciones anteriores, y
-
-IV.- Los que según los artículos 512, 515 y 516 del Código Civil puedan continuar o intentar la acción correspondiente.
+(DEROGADO, B.O. 9 DE ENERO DE 2014)
 
 ###### Art. 604.
 
@@ -8630,3 +8614,9 @@ B.O. 4 DE JUNIO DE 2009.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor en un plazo de noventa días naturales, contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 9 DE ENERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
