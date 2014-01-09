@@ -4,7 +4,7 @@ identifier: "SON-ley-del-boletin-oficial-11947"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-27"
-last_updated: "2010-12-20"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DEL BOLETIN OFICIAL
 
-LEY DEL BOLETIN OFICIAL
+LEY DEL BOLETÍN OFICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
 
 Ley publicada en la edición especial del Boletín Oficial del Estado de Sonora, el martes 27 de julio de 1993.
 
@@ -73,13 +73,9 @@ IX.- Los demás asuntos que de acuerdo a las leyes del Estado, demanden ser publ
 
 Es obligación del Estado publicar en el Boletín Oficial, los ordenamientos y disposiciones a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 9 DE ENERO DE 2014)</small>
 
-Tratándose de disposiciones y actos generados por los particulares, la publicación de los mismos se hará previo el pago de las cuotas correspondientes; en el caso de los Ayuntamientos, estarán exentos del pago de derechos para publicación el Bando de Policía y Gobierno, el Presupuesto de Egresos, las disposiciones administrativas de observancia general, los actos que por disposición de alguna ley deban publicarse en el Boletín Oficial y los reglamentos municipales, así como las reformas a los mismos, siempre y cuando se encuentren dentro de las siguientes causales:
-
-I. Que se encuentren aprobados dentro del término señalado en la normatividad de la cual se derivan; y
-
-II. Que se solicite su publicación en un plazo de 10 días hábiles posteriores a su aprobación.
+Tratándose de disposiciones y actos generados por los particulares, la publicación de los mismos se hará previo el pago de las cuotas correspondientes; en el caso de los Ayuntamientos, estarán exentos del pago de derechos para publicación.
 
 ###### ARTICULO 5o.
 
@@ -179,7 +175,7 @@ EL SECRETARIO DE GOBIERNO,
 
 LIC. ROBERTO SANCHEZ CEREZO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 20 DE DICIEMBRE DE 2010.
 
@@ -194,3 +190,9 @@ El Ejecutivo Estatal, a más tardar quince días naturales contados a partir de 
 ###### ARTÍCULO TERCERO.
 
 Para las disposiciones y actos generados por los Ayuntamientos, a los que hace referencia el artículo 4o de la Ley del Boletín Oficial, que no se encuentren vigentes por falta de publicación en el Boletín Oficial o, en su caso, que no hayan sido aprobados a la fecha y sean derivados de normatividad que establece un plazo para el efecto que al día de hoy se encuentra vencido, se otorgará exención del pago por publicación por el término de 1 año, contado a partir de la fecha de publicación de este Decreto, transcurrido dicho término, se sujetarán al pago de la cuota para su publicación, en los términos establecidos en el presente Decreto.
+
+B.O. 9 DE ENERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
