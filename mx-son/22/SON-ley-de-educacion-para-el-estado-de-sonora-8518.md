@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2013-12-09"
+last_updated: "2014-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -106,6 +106,10 @@ La educación impartida por el Estado, sus organismos descentralizados, y los Ay
 Las escuelas de educación básica deberán contar con aulas equipadas con aire acondicionado que los protejan de las altas y bajas temperaturas que se presentan en la Entidad. Es obligación del Gobierno del Estado proveer lo conducente para cumplir con la obligación señalada en este artículo, tanto para la compra e instalación del equipamiento necesario, incluyendo la infraestructura eléctrica requerida para su operación, así como el pago del consumo de energía eléctrica que se genere.
 
 La Secretaría evaluará, anualmente, las condiciones de los equipos instalados y operará un programa permanente de sustitución de las unidades que hayan cumplido su ciclo de vida útil para garantizar la permanencia de las condiciones climáticas ideales para el proceso de enseñanza-aprendizaje en las aulas de las escuelas de la entidad.
+
+> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+
+Se garantizará la existencia de bebederos suficientes y con suministro continuo de agua potable en cada inmueble de uso escolar, conforme a los lineamientos que emita la Secretaría de Salud, en coordinación con la Secretaría.
 
 > <small>(REFORMADO, B.O. 5 DE JULIO DE 2007)</small>
 
@@ -1422,3 +1426,11 @@ El presente decreto entrara en vigor al día siguiente de su publicación.
 ###### ARTICULO SEGUNDO.
 
 El Ejecutivo Estatal y el Congreso del Estado realizarán las previsiones de recursos en los respectivos presupuestos de egresos del gobierno del Estado, de tal forma que la contratación de profesionales en psicología a que se refiere este Decreto se realice en forma gradual a partir del año 2014 y se cubra la totalidad de la demanda en el año 2018.
+
+B.O. 9 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+(SIC) SEGUNDO.- El Decreto del Presupuesto de Egresos del Gobierno del Estado contemplará una partida anual para efectos del cumplimiento del presente decreto.
