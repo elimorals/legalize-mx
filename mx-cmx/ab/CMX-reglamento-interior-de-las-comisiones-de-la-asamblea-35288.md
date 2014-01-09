@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2013-08-09"
+last_updated: "2014-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE ENERO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -50,23 +50,53 @@ Las disposiciones contenidas en el presente Reglamento son de observancia genera
 
 Para los efectos de este Reglamento, se entenderá por:
 
-I. Ley Orgánica: la Ley Orgánica de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-II. Reglamento: al Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal;
+I. Acuerdo parlamentario: la resolución tomada en el ámbito de su respectiva competencia por el Pleno, la Mesa Directiva de la Asamblea, la Comisión de Gobierno, Comisiones, Comités o la Diputación Permanente, aplicable a las diversas funciones parlamentarias, acuerdo que se determina conforme a las prácticas parlamentarias;
 
-III. Reglamento Interior: al Reglamento Interior de las Comisiones de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-IV. Asamblea: a la Asamblea Legislativa del Distrito Federal;
+II. Asamblea: la Asamblea Legislativa del Distrito Federal;
 
-V. Comisión: Cada uno de los órganos internos de organización para el mejor y más expedito desempeño de las funciones legislativas, políticas y administrativas de fiscalización e investigación de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-VI. Mesa Directiva: a la Mesa Directiva de cada Comisión;
+III. Comisión: Cada uno de los órganos internos de organización para el mejor y más expedito desempeño de las funciones legislativas, políticas y administrativas de fiscalización e investigación de la Asamblea Legislativa del Distrito Federal;
 
-VII. Presidente: al Presidente de cada Comisión;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-VIII. Secretario: al Secretario de cada Comisión, y
+IV. Diputado Integrante: todo diputado o diputada miembro de cada Comisión.
 
-IX. Diputado Integrante: a los diputados de cada Comisión.
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+V. Ley Orgánica: la Ley Orgánica de la Asamblea Legislativa del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+VI. Mesa Directiva: la Mesa Directiva de cada Comisión;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+VII. Presidente: el o la titular de la presidencia de cada Comisión;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+VIII. Proposición: la proposición con punto de acuerdo o el acuerdo parlamentario;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+IX. Proposición con punto de acuerdo: la propuesta de uno o varios diputadas o diputados que tengan por objeto un pronunciamiento, exhorto, solicitud, recomendación o cualquier otro que se relacione con la competencia de esta Asamblea, sin que constituya materia de iniciativas, propuestas de iniciativas o de acuerdos parlamentarios;
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2014)</small>
+
+X. Reglamento Interior: el Reglamento Interior de las Comisiones de la Asamblea Legislativa del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2014)</small>
+
+XI. Reglamento: el Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2014)</small>
+
+XII. Secretario: el o la titular de la secretaría de cada Comisión.
 
 ###### Artículo 3.
 
@@ -80,11 +110,11 @@ DE LA NATURALEZA, INTEGRACIÓN, COMPETENCIA Y ATRIBUCIONES DE LAS COMISIONES.
 
 De la naturaleza de las comisiones.
 
-> <small>(REFORMADO, G.O. 9 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
 ###### Artículo 4.
 
-Son comisiones de Análisis y Dictamen Legislativo que se construyen con el carácter de definitivo y funcionar para toda la Legislatura de la Asamblea las Comisiones de: Abasto y Distribución de Alimento; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblo y Barrios Originarios y Atención a Migrantes; asuntos Laborales y Previsión Social; Asuntos Políticos Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Derecho (sic) Humanos; Desarrollo e Infraestructura Urbana: Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Para la Igualdad de Género; Fomento Económico; Gestión Integral del Agua; Hacienda; Juventud y Deporte; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana: Población y Desarrollo; Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Movilidad, Transporte y Vialidad; Transparencia de la Gestión; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
+Son comisiones de Análisis y Dictamen Legislativo que se constituyen con el carácter de definitivo y funcionar (sic) para toda la Legislatura de la Asamblea las Comisiones de: Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes; Asuntos Laborales y Previsión Social; Asuntos Político Electorales; Atención a Grupos Vulnerables; Ciencia, Tecnología e Innovación; Cultura; Derechos Humanos; Desarrollo e Infraestructura Urbana: Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Para la Igualdad de Género; Fomento Económico; Gestión Integral del Agua, Hacienda; Juventud y Deporte; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana: Población y Desarrollo; Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Movilidad, Transporte y Vialidad; Transparencia de la Gestión; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
 
 ### CAPÍTULO SEGUNDO
 
@@ -192,23 +222,37 @@ XII. Dirigir a nombre de la Comisión los trabajos ante autoridades e institucio
 
 XIII. Requerir a los diputados integrantes faltistas a concurrir a las reuniones de trabajo de la Comisión y, en su caso hacer de su conocimiento la sanción prevista en el artículo 26 fracción II del Reglamento;
 
-XIV. Ejercer las demás que le confieran la Ley Orgánica, el Reglamento, este Reglamento Interior y demás disposiciones que emita la Asamblea;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-XV. Invitar a estar presentes en las reuniones de trabajo, a personas que por razón de su oficio, ocupación o profesión, posean conocimientos útiles para el eficaz cumplimiento de las funciones propias de la Comisión;
+XIV. Invitar a estar presentes en las reuniones de trabajo, a personas que por razón de su oficio, ocupación o profesión, posean conocimientos útiles para el eficaz cumplimiento de las funciones propias de la Comisión;
 
-XVI. Elaborar los ordenes del día de las reuniones de trabajo, dirigir el desarrollo general de los mismos y cuidar que el desahogo de los asuntos establecidos en ellos se lleven a cabo como se hubiere dispuesto previamente;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-XVII. Coordinar el trabajo del Secretario Técnico y asesores de la Comisión, y (sic)
+XV. Elaborar los órdenes del día de las reuniones de trabajo, dirigir el desarrollo general de los mismos y cuidar que el desahogo de los asuntos establecidos en ellos se lleven a cabo como se hubiere dispuesto previamente;
 
-XVIII. Llevar a través de la Secretaría Técnica, un registro cronológico de las iniciativas, proposiciones y dictámenes turnados, desahogados y pendientes;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+XVI. Coordinar el trabajo del Secretario Técnico y asesores de la Comisión;
 
-XIX. Remitir al área de Comunicación Social y a la Coordinación General de Servicios Parlamentarios, una vez concluida la sesión respectiva, la lista de asistencia de los Diputados que hayan asistido a la misma;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+XVII. Llevar a través de la Secretaría Técnica, un registro cronológico de las iniciativas, proposiciones y dictámenes turnados, desahogados y pendientes, así como de los asuntos que sean retirados por sus proponentes;
 
-XX. Remitir al Archivo Histórico de la Asamblea Legislativa del Distrito Federal toda la documentación que a lo largo de la Legislatura haya estado en poder de la Comisión, de conformidad con el artículo 38 del Reglamento para el Gobierno Interior de la Asamblea Legislativa.
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+XVIII. Remitir al área de Comunicación Social y a la Coordinación General de Servicios Parlamentarios, una vez concluida la sesión respectiva, la lista de asistencia de los Diputados que hayan asistido a la misma;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+XIX. Remitir al Archivo Histórico de la Asamblea Legislativa del Distrito Federal toda la documentación que a lo largo de la Legislatura haya estado en poder de la Comisión, de conformidad con el artículo 38 del Reglamento para el Gobierno Interior de la Asamblea Legislativa;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+XX. Notificar a la presidencia de la Mesa Directiva del Pleno, de la Diputación Permanente o de la Comisión de Gobierno, de los asuntos que sean retirados por sus respectivos proponentes; y
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2014)</small>
+
+XXI. Ejercer las demás que le confieran la Ley Orgánica, el Reglamento, este Reglamento Interior y demás disposiciones que emita la Asamblea.
 
 ###### Artículo 13.
 
@@ -260,13 +304,21 @@ IV. Intervenir, previa solicitud, en las reuniones de trabajo de la Comisión, e
 
 V. Presentar votos particulares, cuando su opinión disienta de la resolución aprobada por la mayoría de los diputados integrantes;
 
-VI. Presentar ante la Comisión iniciativas, proyectos, proposiciones con o sin puntos de acuerdo, avisos, pronunciamientos o asuntos materia de la Comisión;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-VII. Los demás que le sean conferidas por la Ley Orgánica, el Reglamento, este Reglamento Interior y las demás disposiciones que emita la Asamblea;
+VI. Presentar ante la Comisión iniciativas, proyectos, proposiciones, avisos o asuntos materia de la Comisión;
 
-VIII. Conocer de las iniciativas, proposiciones o asuntos que la Mesa Directiva o bien la Comisión de Gobierno que turne a la Comisión, y
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-IX. Contar con el apoyo del Secretario Técnico de la Comisión, en los asuntos que a esta atañen y se requieran.
+VII. Conocer de las iniciativas, proposiciones o asuntos que la Mesa Directiva o bien la Comisión de Gobierno que turne a la Comisión;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+VIII. Contar con el apoyo del Secretario Técnico de la Comisión, en los asuntos que a esta atañen y se requiera; y
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+IX. Los demás que les sean conferidos por la Ley Orgánica, el Reglamento, este Reglamento Interior y las demás disposiciones que emita la Asamblea.
 
 ###### Artículo 18.
 
@@ -514,9 +566,13 @@ Se someterán a votación nominal:
 
 I. Los dictámenes de las iniciativas turnadas a la Comisión para su análisis y dictamen;
 
-II. Los dictámenes de las proposiciones turnadas a la Comisión para su análisis y dictamen, y
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
 
-III. Los acuerdos, cuando así lo solicite algún Diputado Integrante de la Comisión.
+II. Los dictámenes de las proposiciones con punto de acuerdo turnadas a la Comisión para su análisis y dictamen; y
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+
+III. Los acuerdos parlamentarios, cuando así lo solicite algún Diputado Integrante de la Comisión.
 
 ###### Artículo 45.
 
@@ -775,3 +831,23 @@ Primero.- Los ARTÍCULOS PRIMERO y SEGUNDO entrarán en vigor al día siguiente 
 Segundo.- Los ARTÍCULOS TERCERO y CUARTO entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Remítase al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los ARTÍCULOS PRIMERO y SEGUNDO, y para su promulgación y publicación respecto de los ARTÍCULOS TERCERO y CUARTO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4 DEL REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal, excepto las disposiciones relativas a la entrega de la Medalla en Ciencias y Artes, mismas que entrarán en vigor a partir del año 2014.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 2, 12, 17, Y 44, TODOS DEL REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
