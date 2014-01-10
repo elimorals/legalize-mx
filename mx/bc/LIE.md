@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "2012-04-09"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSIÓN EXTRANJERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -72,7 +72,7 @@ VI.- Zona Restringida: La faja del territorio nacional de cien kilómetros a lo 
 
 VII.- Cláusula de Exclusión de Extranjeros: El convenio o pacto expreso que forme parte integrante de los estatutos sociales, por el que se establezca que las sociedades de que se trate no admitirán directa ni indirectamente como socios o accionistas a inversionistas extranjeros, ni a sociedades con cláusula de admisión de extranjeros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2011)</small>
 
@@ -106,7 +106,7 @@ IV.- Generación de energía nuclear;
 
 V.- Minerales radioactivos;
 
-VI.- (DEROGADA POR LA FRACCION II DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
+VI.- (DEROGADA POR LA FRACCIÓN II DEL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 VII.- Telégrafos;
 
@@ -114,7 +114,7 @@ VIII.- Radiotelegrafía;
 
 IX.- Correos;
 
-X.- (DEROGADA POR LA FRACCION II DEL ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
+X.- (DEROGADA POR LA FRACCIÓN II DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 XI.- Emisión de billetes;
 
@@ -134,7 +134,7 @@ II.- Comercio al por menor de gasolina y distribución de gas licuado de petról
 
 III.- Servicios de radiodifusión y otros de radio y televisión, distintos de televisión por cable;
 
-IV.- (DEROGADA POR EL ARTICULO DECIMO TRANSITORIO DE LA LEY DE UNIONES DE CREDITO, D.O.F. 20 DE AGOSTO DE 2008)
+IV.- (DEROGADA POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY DE UNIONES DE CRÉDITO, D.O.F. 20 DE AGOSTO DE 2008)
 
 V.- Instituciones de banca de desarrollo, en los términos de la ley de la materia; y
 
@@ -172,13 +172,13 @@ c) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
 
 d) (DEROGADO, D.O.F. 19 DE ENERO DE 1999)
 
-e) Instituciones de seguros;
+e) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
-f) Instituciones de fianzas;
+f) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
-g) Casas de cambio;
+g) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
-h) Almacenes generales de depósito;
+h) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 i) (DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
@@ -186,13 +186,13 @@ j) (DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
 k) (DEROGADO, D.O.F. 18 DE JULIO DE 2006)
 
-l) Sociedades a las que se refiere el artículo 12-Bis de la Ley del Mercado de Valores;
+l) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 m) (DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
 
 n) (DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
 
-o) Administradoras de fondos para el retiro;
+o) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 p) Fabricación y comercialización de explosivos, armas de fuego, cartuchos, municiones y fuegos artificiales, sin incluir la adquisición y utilización de explosivos para actividades industriales y extractivas, ni la elaboración de mezclas explosivas para el consumo de dichas actividades;
 
@@ -232,11 +232,11 @@ IV.- Servicios privados de educación preescolar, primaria, secundaria, media su
 
 V.- Servicios legales;
 
-VI.- Sociedades de información crediticia;
+VI. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-VII.- Instituciones calificadoras de valores;
+VII. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-VIII.- Agentes de seguros;
+VIII. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
 IX.- Telefonía celular;
 
@@ -256,11 +256,11 @@ XII.- Construcción, operación y explotación de vías férreas que sean vía g
 
 Se requiere resolución favorable de la Comisión para que en las sociedades mexicanas donde la inversión extranjera pretenda participar, directa o indirectamente, en una proporción mayor al 49% de su capital social, únicamente cuando el valor total de activos de las sociedades de que se trate, al momento de someter la solicitud de adquisición, rebase el monto que determine anualmente la propia Comisión.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO SEGUNDO. DE LA ADQUISICION DE BIENES INMUEBLES, LA EXPLOTACION DE MINAS Y AGUAS, Y DE LOS FIDEICOMISOS
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ### Capítulo I. De la adquisición de bienes inmuebles y explotación de minas y aguas
 
@@ -548,7 +548,7 @@ b) Nombre y domicilio del representante legal;
 
 c) Nombre y domicilio de las personas autorizadas para oír y recibir notificaciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2011)</small>
 
@@ -668,11 +668,11 @@ México, D. F., a 15 de diciembre de 1993.- Dip. Fernando Rodríguez Cerna, Pres
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil noveciento (sic) noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 12 DE MAYO DE 1995.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -688,7 +688,7 @@ III. Todas las disposiciones que se opongan a la presente Ley.
 
 D.O.F. 7 DE JUNIO DE 1995.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por lo que hace a las fracciones III del apartado B y IV del apartado C del artículo 171, las cuales entrarán en vigor 180 días naturales después del inicio de vigencia de esta Ley.
 
@@ -712,9 +712,9 @@ UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
 
 D.O.F. 19 DE ENERO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
 
-DECRETO POR EL QUE SE EXPIDE LA LEY DE PROTECCION AL AHORRO BANCARIO, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL BANCO DE MEXICO, DE INSTITUCIONES DE CREDITO, DEL MERCADO DE VALORES Y PARA REGULAR LAS AGRUPACIONES FINANCIERAS.
+DECRETO POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL BANCO DE MÉXICO, DE INSTITUCIONES DE CRÉDITO, DEL MERCADO DE VALORES Y PARA REGULAR LAS AGRUPACIONES FINANCIERAS.
 
 PRIMERO.- El artículo segundo del presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -722,9 +722,9 @@ SEGUNDO.- Se derogan los incisos a), b), c) y d) de la fracción III del artícu
 
 D.O.F. 4 DE JUNIO DE 2001.
 
-ARTICULOS TRANSITORIOS DE LA LEY DE SOCIEDADES DE INVERSION
+ARTICULOS TRANSITORIOS DE LA LEY DE SOCIEDADES DE INVERSIÓN
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
 
 PRIMERO. El presente Decreto por el que se expide la Ley de Sociedades de Inversión, entrará en vigor seis meses después de la fecha de su publicación en el Diario Oficial de la Federación, con excepción de los artículos 61 y sexto transitorio, cuya vigencia iniciará a partir de la publicación respectiva, para los efectos establecidos en este último artículo.
 
@@ -734,7 +734,7 @@ SEGUNDO. A la entrada en vigor de este Decreto ..., y se derogan los incisos m) 
 
 D.O.F. 18 DE JULIO DE 2006.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 DÉCIMO PRIMERO.- Los artículos Séptimo y Octavo del presente Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -805,3 +805,21 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
