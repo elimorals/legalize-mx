@@ -4,7 +4,7 @@ identifier: "LUC"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-20"
-last_updated: "2008-08-20"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62283&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LUC"
 ---
 # LEY DE UNIONES DE CREDITO
 
-LEY DE UNIONES DE CREDITO
+LEY DE UNIONES DE CRÉDITO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de agosto de 2008.
 
@@ -70,7 +70,9 @@ III. Grupo empresarial, al conjunto de personas morales organizadas bajo esquema
 
 IV. Grupo de personas, a las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un grupo de personas:
 
-a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el segundo grado, los cónyuges, la concubina y el concubinario, y
 
 b) Las sociedades que formen parte de un mismo consorcio o grupo empresarial y la persona o conjunto de personas que tengan el control de dichas sociedades;
 
@@ -236,7 +238,7 @@ El monto del capital mínimo con el que deberán contar las uniones tendrá que 
 
 Cuando una unión anuncie su capital social, deberá al mismo tiempo anunciar su capital pagado.
 
-El capital neto en ningún momento deberá ser inferior al capital mínimo pagado que le resulte aplicable conforme a lo establecido en este artículo.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 La Comisión establecerá los casos y condiciones en que las uniones podrán adquirir transitoriamente las acciones representativas de su propio capital procurando su sano desarrollo y liquidez.
 
@@ -246,47 +248,81 @@ Todas las acciones de las uniones, serán de igual valor; dentro de cada serie c
 
 Para la transmisión de las acciones se requerirá indispensablemente la autorización del consejo de administración.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 20.
 
-Las uniones podrán emitir acciones sin valor nominal.
+Las uniones podrán emitir acciones no suscritas y que serán entregadas a los suscriptores, contra el pago total de su valor nominal y de las primas que, en su caso, determine el consejo de administración.
 
-Las uniones podrán emitir acciones no suscritas y que serán entregadas a los suscriptores, contra el pago total de su valor nominal y de las primas que, en su caso, fije la sociedad.
+El capital social de las uniones podrá integrarse con una parte representada por acciones preferentes hasta por un monto equivalente al veinticinco por ciento del capital social ordinario, previa autorización de la Comisión. La adquisición de acciones preferentes no estará sujeta a los límites previstos en el artículo 23 de esta Ley.
+
+Las acciones preferentes otorgarán derecho de voto únicamente en los asuntos relativos a cambio de objeto, fusión, escisión, transformación y liquidación.
+
+Las acciones preferentes deberán conferir el derecho a recibir un dividendo preferente, el cual deberá ser igual o superior al de las acciones ordinarias, siempre y cuando así se establezca en los estatutos sociales.
 
 Los estatutos sociales de las uniones contendrán las disposiciones relativas a las distintas series de acciones y sus características.
 
+Las uniones podrán emitir acciones sin expresión de valor nominal.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 21.
 
-Las acciones representativas del capital social de las uniones, únicamente podrán ser adquiridas por personas físicas o morales que realicen actividades empresariales en términos de lo dispuesto en el Código Fiscal de la Federación.
+Las acciones representativas del capital social de las uniones, únicamente podrán ser adquiridas por personas físicas o morales, nacionales o extranjeras, que realicen actividades económicas, en términos de la legislación fiscal, exceptuando aquellas personas físicas que perciban sus ingresos preponderantemente por sueldos y salarios, pensiones o programas de apoyo social.
 
-La participación, directa o indirecta, de cualquier persona física o moral, en el capital social de una unión no podrá exceder del diez por ciento. Se exceptúa de lo dispuesto en este párrafo al Gobierno Federal.
+La participación, directa o indirecta, de cualquier persona física o moral, en el capital social pagado de una unión no podrá exceder del quince por ciento, salvo que se cuente con la autorización a que se refiere el artículo 23, fracción II de esta Ley. Tratándose de instituciones de crédito la participación en el capital social pagado de una unión no podrá exceder del quince por ciento, de manera directa o indirecta. Se exceptúa de lo dispuesto en este párrafo al Gobierno Federal.
 
-Sin perjuicio de lo previsto en el párrafo anterior, cualquier persona física o moral extranjera y las entidades extranjeras sin personalidad jurídica, podrán participar indirectamente hasta en el diez por ciento del capital de una unión, siempre y cuando las acciones representativas del capital social de la unión sean adquiridas por personas morales mexicanas, en las que participe dicha persona física o moral extranjera. Asimismo, dichas personas y entidades extranjeras podrán participar directamente en el capital social de una unión hasta en un diez por ciento de forma agregada.
+Sin perjuicio de lo previsto en el párrafo anterior, cualquier persona física o moral extranjera y las entidades extranjeras sin personalidad jurídica, podrán participar indirectamente hasta en el quince por ciento del capital de una unión, siempre y cuando las acciones representativas del capital social de la unión sean adquiridas por personas morales mexicanas, en las que participe dicha persona física o moral o entidad extranjeras.
 
-No podrán participar en forma alguna en el capital social de las uniones, personas morales extranjeras que ejerzan funciones de autoridad.
+Los gobiernos extranjeros no podrán participar, directa o indirectamente, en el capital social de las uniones, salvo en los casos siguientes:
 
-La Comisión determinará mediante disposiciones de carácter general los requisitos que deberán cumplir las personas que adquieran acciones de las uniones.
+I. Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
+
+Las uniones que se ubiquen en lo dispuesto en esta fracción, deberán entregar a la Comisión, la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto. La Comisión tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información y documentación correspondiente, para resolver, previo acuerdo de su Junta de Gobierno, si la participación de que se trata, se ubica en el supuesto de excepción previsto en esta fracción.
+
+II. Cuando la participación correspondiente implique que se tenga el control de la unión de crédito, en términos del artículo 3, fracción II de esta Ley, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que:
+
+a) No ejercen funciones de autoridad, y
+
+b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+III. Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de la unión, en términos del artículo 3, fracción II de esta Ley. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
 
 ###### Artículo 22.
 
 Las uniones se abstendrán, en su caso, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles de las transmisiones de acciones que se efectúen en contravención a lo dispuesto por los artículos 21 y 23 de esta Ley, y deberán informar a la Comisión, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
 
-La abstención referida en el párrafo anterior no dará lugar a la responsabilidad a que se refiere el artículo 129 de la Ley General de Sociedades Mercantiles.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Las adquisiciones de acciones de una unión que se realicen en contravención a lo previsto en los artículos 21 y 23 de esta Ley, estarán afectas de nulidad y no surtirán efectos hasta que se acredite que se ha obtenido la autorización que corresponda, de modo que las personas que las hubieren adquirido o los hayan celebrado no podrán ejercer los derechos corporativos y patrimoniales respectivos. Una vez obtenidas las autorizaciones correspondientes, las adquisiciones y actos antes referidos serán convalidados.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital social de una unión, se realicen en contravención a lo dispuesto por los artículos 21 y 23 de esta Ley, los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de la unión quedarán en suspenso y por lo tanto no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda o que se han satisfecho los requisitos que esta ley contempla.
 
 ###### Artículo 23.
 
 La adquisición, mediante una o varias operaciones simultáneas, de acciones representativas del capital social de una unión, por parte de una persona o grupo de personas, estará sujeta a los requisitos siguientes:
 
-I. Cuando se adquiera más del dos por ciento y hasta el cinco por ciento del capital social de la unión, deberán informar por escrito a la Comisión, dentro de los tres días hábiles siguientes a la transmisión o adquisición.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. Cuando se pretenda adquirir más del cinco por ciento y hasta el diez por ciento del capital social de una unión, deberán obtener la previa autorización de la Comisión para lo cual deberán acompañar a su solicitud la información y documentación a que se refiere el artículo 17, fracción II de esta Ley.
+I. Cuando se adquiera más del cinco por ciento y hasta el quince por ciento del capital social de la unión, deberán informar por escrito a la Comisión, dentro de los tres días hábiles siguientes a la transmisión o adquisición.
 
-III. Cuando un grupo de personas pretenda adquirir en su conjunto el control o el diez por ciento o más del capital social de una unión, se requerirá de la previa autorización de la Comisión, para lo cual deberán acompañar a su solicitud la información y documentación a que se refiere el artículo 17, fracción II de esta Ley. La propia Comisión determinará mediante disposiciones de carácter general los grupos de personas que se considerarán como una sola por los vínculos de interés común que mantengan.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Para efectos de lo previsto en esta fracción, la Comisión deberá tomar en cuenta que el grupo de personas no tenga relación directa con otros socios o que esto motive una concentración indebida de capital.
+II. Cuando se pretenda adquirir más del quince por ciento y hasta el treinta por ciento del capital social de una unión, se requerirá la autorización previa de la Comisión, la que podrá otorgar discrecionalmente, para lo cual deberán acompañar a su solicitud la información y documentación a que se refiere el artículo 17, fracción II, de esta Ley.
 
-IV. Cuando un grupo de personas que no sean consideradas como una sola persona, pretendan adquirir en su conjunto, mediante operaciones simultáneas, el control o más del diez por ciento del capital social de una unión, requerirán previa autorización de la Comisión para lo cual deberán acompañar a su solicitud la información y documentación a que se refiere el artículo 17, fracción II de esta Ley.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Cuando un grupo de personas pretenda adquirir en su conjunto el control o más del treinta por ciento del capital social de una unión, se requerirá la autorización previa de la Comisión, la que podrá otorgar discrecionalmente, para lo cual deberán acompañar a su solicitud la información y documentación a que se refiere el artículo 17, fracción II, de esta Ley. La propia Comisión determinará mediante disposiciones de carácter general los grupos de personas que se considerarán como una sola por los vínculos de interés común que mantengan.
+
+Para efectos de lo previsto en esta fracción, la Comisión deberá tomar en cuenta las relaciones que, en su caso, el grupo de personas tenga con otros socios o bien, si esto motiva una concentración indebida de capital.
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Cuando varias personas que no sean consideradas como un grupo de personas, pretendan adquirir en su conjunto, mediante operaciones simultáneas, el control o más del treinta por ciento del capital social de una unión, se requerirá autorización previa de la Comisión, la que podrá otorgar discrecionalmente, para lo cual deberán acompañar a su solicitud la información y documentación a que se refiere el artículo 17, fracción II, de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Comisión podrá autorizar de manera temporal, que una persona física o moral mantenga la participación en el capital social de una unión en porcentajes mayores a los señalados en la fracción III de este artículo, en caso de que se encuentre en riesgo la estabilidad y solvencia de la unión, y a fin de restablecer el capital neto de la propia unión a que se refiere el artículo 48 de esta Ley, en su caso, dar cumplimiento al plan de restauración de capital señalado en el artículo 80, fracción I, inciso b), de la presente Ley. La Comisión determinará mediante disposiciones de carácter general los casos en los que procederá dicha concentración de capital, así como los requisitos mínimos que deberán cumplir las uniones, a fin de que el accionista pueda obtener la autorización correspondiente.
 
 ### CAPITULO III. De la administración de las uniones de crédito
 
@@ -300,9 +336,11 @@ El consejo de administración de las uniones estará integrado por un mínimo de
 
 Cada accionista o grupo de accionistas que representen por lo menos un diez por ciento del capital pagado de una unión, tendrán derecho a designar un consejero. Sólo podrá revocarse el nombramiento de estos consejeros de minoría, cuando se revoque el de todos los demás.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 26.
 
-Los nombramientos de consejeros de las uniones deberán recaer en personas que cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como con amplios conocimientos y experiencia en materia financiera, legal o administrativa.
+Los nombramientos de consejeros de las uniones deberán recaer en personas que cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como con amplios conocimientos y experiencia en materia empresarial, financiera, legal o administrativa.
 
 La mayoría de los consejeros deberán ser residentes en el territorio nacional.
 
@@ -362,9 +400,11 @@ El Presidente del consejo tendrá voto de calidad en caso de empate.
 
 Los consejeros estarán obligados a abstenerse expresamente de participar en la deliberación y votación de cualquier asunto que implique para ellos un conflicto de intereses. Asimismo, deberán mantener absoluta confidencialidad respecto de todos aquellos actos, hechos o acontecimientos relativos a la unión de que sean consejeros, así como de toda deliberación que se lleve a cabo en el consejo, sin perjuicio de la obligación que tendrá la unión de proporcionar toda la información que le sea solicitada al amparo de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 30.
 
-El consejo de administración, sin perjuicio de las funciones que le son propias, deberá contar con un comité de auditoría, con carácter consultivo. Dicho comité, en su integración y funcionamiento, deberá ajustarse a las disposiciones de carácter general que emita la Comisión.
+El consejo de administración, sin perjuicio de las funciones que le son propias, deberá contar con un comité de auditoría, con carácter consultivo, cuyo titular deberá ser un consejero independiente. Dicho comité, en su integración y funcionamiento, deberá ajustarse a las disposiciones de carácter general que emita la Comisión.
 
 ###### Artículo 31.
 
@@ -434,7 +474,9 @@ La autorización a que se refiere este artículo, los acuerdos de la asamblea de
 
 Una vez hecha la inscripción anterior, los acuerdos de escisión adoptados por la asamblea de accionistas de la sociedad escindente se publicarán en el Diario Oficial de la Federación.
 
-Durante los noventa días naturales siguientes a partir de la fecha de publicación a que se refiere la fracción anterior, los acreedores de la sociedad escindente podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que esta oposición suspenda la escisión.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Durante los noventa días naturales siguientes a partir de la fecha de publicación a que se refiere el párrafo anterior, los acreedores de la sociedad escindente podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que esta oposición suspenda la escisión.
 
 La sociedad escindida no se entenderá autorizada para organizarse y operar como unión, y la sociedad escindente que subsista conservará la autorización que se le haya otorgado para tales efectos.
 
@@ -454,7 +496,9 @@ Las uniones estarán clasificadas en tres niveles de operación conforme al capi
 
 Las uniones, en los términos de su autorización y dependiendo del nivel de operaciones que les corresponda, sólo podrán realizar las siguientes operaciones:
 
-I. Recibir préstamos y créditos exclusivamente de sus socios, de fondos privados de financiamiento e inversión, de instituciones de crédito, de seguros y de fianzas, de otras uniones o de entidades financieras del exterior, así como de sus proveedores.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I. Recibir préstamos y créditos exclusivamente de sus socios, de fondos privados de financiamiento e inversión, de entidades financieras, de sociedades cuya actividad preponderante sea el otorgamiento de crédito, de organismos descentralizados de los gobiernos federal, estatales, municipales y del Distrito Federal, o de entidades financieras del exterior, así como de sus proveedores.
 
 Las operaciones a que se refiere esta fracción que se garanticen con hipoteca de propiedades de las uniones, deberán acordarse previamente en asamblea general extraordinaria de accionistas por votación que represente por lo menos el sesenta y seis por ciento de su capital pagado, salvo que en sus estatutos tengan establecido un porcentaje más elevado;
 
@@ -468,7 +512,9 @@ V. Practicar con sus socios operaciones de descuento, préstamo y crédito;
 
 VI. Efectuar con fines de cobertura, sin que en ningún caso actúe como intermediario, operaciones financieras derivadas;
 
-VII. Emitir cartas de crédito, previa recepción de su importe;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VII. Emitir cartas de crédito con base en el otorgamiento de créditos o previa recepción de su importe;
 
 VIII. Constituir depósitos en instituciones de crédito y entidades financieras del exterior;
 
@@ -506,7 +552,9 @@ XXIII. Encargarse de la compra y venta de los frutos o productos obtenidos o ela
 
 XXIV. Comprar, vender y comercializar insumos, materias primas, mercancías y artículos diversos, así como alquilar bienes de capital necesarios para la explotación agropecuaria, industrial, comercial y de servicios, por cuenta de sus socios o de terceros;
 
-XXV. Adquirir por cuenta propia los bienes a que se refiere la fracción anterior para enajenarlos o rentarlos a sus socios o a terceros;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XXV. Adquirir por cuenta propia bienes para enajenarlos o rentarlos a sus socios o terceros;
 
 XXVI. Encargarse, por cuenta propia, de la transformación industrial o del beneficio de los productos obtenidos o elaborados por sus socios;
 
@@ -518,7 +566,9 @@ Las operaciones señaladas en las fracciones XXIII a XXV de este artículo que r
 
 Las operaciones a que se refieren las fracciones XXI a XXVII de este artículo, se efectuarán por medio de departamento especial.
 
-Las uniones podrán otorgar o recibir créditos de otras uniones siempre y cuando éstos no representen más del diez por ciento de su capital neto, cuando se encuentren comprendidas en los niveles de operaciones II y III.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las uniones con niveles de operación II y III podrán otorgar créditos a otras uniones.
 
 Las operaciones de factoraje financiero y arrendamiento financiero, únicamente podrán llevarse a cabo por uniones que se ubiquen en los niveles de operaciones II y III. La encomienda fiduciaria en fideicomisos de garantía, sólo podrá realizarse por las uniones que se ubiquen en el nivel de operaciones III.
 
@@ -554,9 +604,33 @@ La unión de que se trate deberá inscribir en el Registro Público de Comercio,
 
 Las uniones en ningún caso podrán dar noticias o información de los préstamos, créditos, servicios o cualquier tipo de operaciones, sino al socio, acreditante, acreditado, titular o beneficiario que corresponda, a sus representantes legales o a quienes tenga otorgado poder para disponer de los créditos otorgados o concedidos o para intervenir en la operación o servicio, salvo en los casos previstos en el artículo 117 de la Ley de Instituciones de Crédito.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 44 Bis.
+
+La Secretaría, la Comisión y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de su competencia, estarán facultadas para proporcionar a las autoridades financieras del exterior toda clase de información que estimen procedente para atender los requerimientos que les formulen, tales como documentos, constancias, registros, declaraciones y demás evidencias que tales autoridades tengan en su poder por haberla obtenido en ejercicio de sus facultades.
+
+Para efectos de lo previsto en el párrafo anterior, las autoridades deberán tener suscrito un acuerdo de intercambio de información con las autoridades financieras del exterior de que se trate, en el que se contemple el principio de reciprocidad.
+
+La Comisión estará facultada para entregar a las autoridades financieras del exterior la información protegida por disposiciones de confidencialidad que obre en su poder por haberla obtenido en el ejercicio de sus facultades, actuando en coordinación con otras entidades, personas o autoridades o bien directamente de otras autoridades.
+
+En todo caso, la Comisión podrá abstenerse de proporcionar la información a que se refiere el párrafo anterior, cuando el uso que se le pretenda dar a la misma sea distinto a aquel para el cual haya sido solicitada, sea contrario al orden público, a la seguridad nacional o a los términos convenidos en el acuerdo de intercambio de información respectivo.
+
+La Secretaría, la Comisión y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros deberán establecer mecanismos de coordinación para efectos de la entrega de la información a que se refiere este artículo a las autoridades financieras del exterior.
+
+La entrega de información que se efectúe en términos del presente artículo no implicará transgresión alguna a las obligaciones de reserva, confidencialidad, secrecía o análogas que se deban observar conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 45.
 
-Las operaciones de crédito que practiquen las uniones con sus socios, deberán estar relacionadas directamente con las actividades de las empresas o negocios de aquéllos.
+Las operaciones de crédito y arrendamiento que practiquen las uniones con sus socios, deberán estar relacionadas directamente con las actividades de sus empresas o negocios.
+
+El titular de las operaciones a que se refiere la fracción I del artículo 40 de esta Ley, deberá designar beneficiarios y podrá en cualquier tiempo sustituirlos, así como modificar, en su caso, la proporción correspondiente a cada uno de ellos.
+
+En caso de fallecimiento del titular, la unión entregará el importe correspondiente a quienes el propio titular hubiese designado como beneficiarios, expresamente y por escrito, en la proporción estipulada para cada uno de ellos.
+
+Si no se hubiesen designado beneficiarios, el importe deberá entregarse en los términos previstos en la legislación común.
 
 ### CAPITULO II. Regulación prudencial
 
@@ -578,6 +652,18 @@ II. Los límites máximos del importe de las responsabilidades directas y contin
 
 La Comisión en la emisión de las disposiciones a que se refiere este artículo, para el cálculo de los montos máximos de financiamiento que pueden otorgar las uniones, tomará en cuenta en todo caso, los pasivos contraídos por las uniones a que se refiere la fracción I del artículo 40 de esta Ley que se hayan constituido como garantía irrevocable de créditos concedidos a sus socios, para establecer límites adicionales a los establecidos en el párrafo anterior.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las uniones, podrán excluir del concepto de riesgo común, los financiamientos otorgados a las personas a que se refieren los incisos a) y b) de la fracción IV del artículo 3, siempre y cuando cumplan con los requisitos siguientes:
+
+a) Cuenten con una fuente primaria de pago que sea independiente de la persona o Grupo empresarial que, en su caso, controlen, y
+
+b) El pago del financiamiento que les fue otorgado, no dependa de la situación financiera de la persona moral o Grupo empresarial, sobre los cuales ejerza el control, de forma tal que estén en posibilidad de cumplir con sus obligaciones de pago, con independencia de dicha situación financiera.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. El monto total de créditos que en su conjunto puede otorgar una unión a otras uniones no podrá exceder del equivalente al cincuenta por ciento del capital neto de la unión otorgante.
+
 La Comisión, a solicitud de la unión podrá autorizar operaciones específicas por montos que excedan los límites máximos, cuando las características de las mismas así lo justifiquen.
 
 ###### Artículo 48.
@@ -586,9 +672,15 @@ Las uniones deberán mantener un capital neto en relación con los riesgos de me
 
 El capital neto, en su parte básica y complementaria, se determinará conforme a lo que establezca la propia Comisión en las mencionadas disposiciones que procuren salvaguardar la solvencia y estabilidad financiera de las uniones.
 
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+El capital neto en ningún momento deberá ser inferior al capital mínimo pagado que le resulte aplicable conforme a lo establecido en el artículo 18.
+
 La Comisión, en las disposiciones de carácter general a que se refiere el primer párrafo de este artículo, establecerá el procedimiento para el cálculo del índice de capitalización aplicable a las uniones.
 
 Cuando la Comisión con motivo de su función de supervisión, requiera a las uniones realizar ajustes a los registros contables relativos a sus operaciones activas y pasivas que, a su vez, puedan derivar en modificaciones a su índice de capitalización, la Comisión deberá llevar a cabo las acciones necesarias para que se realice el cálculo de dicho índice de conformidad con lo previsto en este artículo y en las disposiciones aplicables, en cuyo caso escuchará previamente a la unión afectada.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL TERCER PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 El índice de capitalización que, en términos del presente artículo, resulte de los ajustes requeridos por la Comisión será el utilizado para todos los efectos legales conducentes.
 
@@ -603,6 +695,10 @@ II. El importe de los gastos de organización o similares no podrá exceder del 
 III. El importe total de las inversiones en plantas industriales, sociedades comerciales o de servicios que estén vinculadas con las actividades de sus socios, así como en empresas propietarias de dichas plantas, no podrá ser superior al setenta y cinco por ciento del capital contable de la unión.
 
 Cuando tengan saldos insolutos provenientes de créditos destinados a la adquisición de plantas industriales, sociedades comerciales o de servicios, o empresas propietarias de dichas plantas, las uniones no podrán acordar devoluciones de capital con derecho a retiro.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. El importe total del valor de los activos en operaciones de arrendamiento puro a las que se refiere la fracción XXV del artículo 40, no podrá exceder del cien por ciento del capital contable de la unión.
 
 Lo dispuesto en las fracciones I y III anteriores, es sin perjuicio de lo previsto en la fracción V del artículo 103 de esta Ley.
 
@@ -724,7 +820,13 @@ Las cartas de crédito de garantía o contingentes garantizan el pago de una sum
 
 Salvo pacto en contrario, la resolución de controversias relacionadas con las cartas de crédito se sujetará a la jurisdicción de los tribunales competentes del lugar donde se emitan. No obstante lo anterior, la obligación de pago derivada de la confirmación de cartas de crédito, salvo pacto en contrario, será exigible ante los tribunales competentes del lugar donde se efectúe la confirmación.
 
+(ADICIONADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
 ###### Artículo 61.
+
+Las uniones requerirán del acuerdo de, por lo menos, tres cuartas partes de los consejeros que estén presentes en las sesiones del consejo de administración, para aprobar la celebración de operaciones con personas relacionadas.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL PRIMER PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 Serán operaciones con personas relacionadas, las celebradas por las uniones, en las que resulten o puedan resultar deudores de las mismas, las personas que se indican a continuación:
 
@@ -736,11 +838,45 @@ III. Las personas morales, así como los consejeros y directivos de éstas, en l
 
 IV. Las personas morales en las que cualesquiera de las personas señaladas en las fracciones anteriores, posean directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los consejeros y funcionarios se excusarán de participar en las discusiones y se abstendrán de votar en los casos en que tengan un interés directo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En todo caso, las operaciones con personas relacionadas no deberán celebrarse en términos y condiciones más favorables, que las operaciones de la misma naturaleza que se realicen con los demás socios de la unión.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
 ###### Artículo 62.
+
+Las operaciones con personas relacionadas que deban ser sometidas a la aprobación del consejo de administración, se presentarán por conducto y con la opinión favorable del comité de crédito respectivo. De otorgarse la aprobación, la unión deberá presentar a la Comisión, copia del acuerdo, certificada por el secretario del consejo de administración, en el que conste la aprobación del consejo e informarle del otorgamiento y, en su caso renovación, así como la forma de pago o extinción de estos créditos, en los términos que señale la propia Comisión.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+Las operaciones con personas a que se refiere el artículo 61 de esta Ley cuyo importe en su conjunto no exceda del equivalente en moneda nacional a 500,000 unidades de inversión o el cinco por ciento del capital social pagado de la unión, el que sea menor, no requerirán de la aprobación del consejo de administración; sin embargo, deberán hacerse de su conocimiento y poner a su disposición toda la información relativa a las citadas operaciones de manera agregada, al igual que a la asamblea general de accionistas.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+El consejo de administración de las instituciones podrá delegar sus facultades a un comité de consejeros, cuya función será exclusivamente la aprobación de operaciones con personas relacionadas, en aquellas operaciones donde el importe no exceda de dos millones de unidades de inversión. Dicho comité se integrará por un mínimo de cuatro y un máximo de siete consejeros, de los cuales, por lo menos, una tercera parte deberán ser consejeros independientes, en términos de lo dispuesto en el artículo 27 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las resoluciones del comité requerirán del acuerdo de las tres cuartas partes de los miembros presentes en la sesión.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+El citado comité deberá presentar un informe de su gestión al consejo de administración con la periodicidad que éste le indique, sin que ésta exceda de ciento ochenta días.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL PRIMER AL QUINTO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 La suma total de los montos de crédito dispuestos, más las líneas de apertura de crédito irrevocable otorgados a personas relacionadas, no podrá exceder del cien por ciento del capital contable de la unión.
 
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL PRIMER AL QUINTO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
+
 Sin perjuicio de lo anterior, las uniones podrán otorgar créditos a personas relacionadas cuando estos créditos tengan como garantía irrevocable los pasivos a que se refiere la fracción I del artículo 40, hasta por un monto adicional equivalente al cien por ciento de su capital contable.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL PRIMER AL QUINTO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 Para los efectos del párrafo anterior, el capital contable que deberá utilizarse será el correspondiente al último día hábil del trimestre calendario inmediato anterior a la fecha en que se efectúen los cálculos.
 
@@ -872,9 +1008,23 @@ Los servidores públicos de la Comisión, tendrán prohibido realizar operacione
 
 Las uniones deberán presentar la información y documentación que, en el ámbito de sus respectivas competencias, les soliciten la Secretaría, la Comisión así como la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, dentro de los plazos y a través de los medios que las mismas establezcan.
 
-Para propiciar el mejor cumplimiento de sus funciones, la Secretaría, la Comisión así como la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, podrán solicitar y compartir la información que obtengan conforme al párrafo anterior, sin que les resulte oponible las restricciones previstas en el artículo 44 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-La información a que se refiere este artículo sólo podrá solicitarse y proporcionarse en ejercicio de las atribuciones conferidas conforme a las disposiciones aplicables.
+Con el objeto de preservar la estabilidad financiera, evitar interrupciones o alteraciones en el funcionamiento del sistema financiero, así como para facilitar el adecuado cumplimiento de sus funciones, la Secretaría, la Comisión y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros deberán, a petición de parte interesada y en términos de los convenios a que se refiere el último párrafo de este artículo, intercambiar entre sí la información que tengan en su poder por haberla obtenido:
+
+I. En el ejercicio de sus facultades;
+
+II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
+
+III. Directamente de otras autoridades.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+A la facultad mencionada en el párrafo anterior, no le serán oponibles las restricciones relativas a la información reservada o confidencial en términos de las disposiciones legales aplicables. Quien reciba la información a que se refiere este artículo será responsable administrativa y penalmente, en términos de la legislación aplicable, por la difusión a terceros de información confidencial o reservada.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Para efectos de lo dispuesto en el presente artículo, las autoridades señaladas deberán celebrar convenios de intercambio de información en los que especifiquen la información objeto de intercambio y determinen los términos y condiciones a los que deberán sujetarse para ello. Asimismo, dichos convenios deberán definir el grado de confidencialidad o reserva de la información, así como las instancias de control respectivas a las que se informarán los casos en que se niegue la entrega de información o su entrega se haga fuera de los plazos establecidos.
 
 ## TITULO QUINTO. De las facultades de las autoridades
 
@@ -928,9 +1078,17 @@ b) Abstenerse de convenir incrementos en los salarios y prestaciones de los func
 
 Lo previsto en el presente inciso también será aplicable respecto de pagos que se realicen a personas morales distintas a la unión de que se trate, cuando dichas personas morales efectúen los pagos a los empleados o funcionarios de la unión;
 
-c) Sustituir funcionarios, consejeros, comisarios o auditores externos, nombrando la propia unión a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión previstas en el artículo 93 de esta Ley para determinar la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la unión, o
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-d) Las demás que determine la Comisión, con base en el resultado de sus funciones de inspección y vigilancia, así como en las sanas prácticas financieras.
+c) Sustituir funcionarios, consejeros, comisarios o auditores externos, nombrando la propia unión a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión previstas en el artículo 93 de esta Ley para determinar la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la unión;
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+d) Cuando a juicio de la Comisión, la administración de la sociedad no presente la situación financiera integral de la unión a la asamblea general de accionistas o cuando se presenten situaciones irregulares que pongan en riesgo el patrimonio de la sociedad, la propia Comisión podrá solicitar al comisario de la misma la convocatoria a asambleas ordinarias y extraordinarias de accionistas para que informe de la situación determinada o de las medidas correctivas ordenadas, y
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+e) Las demás que determine la Comisión, con base en el resultado de sus funciones de inspección y vigilancia, así como en las sanas prácticas financieras.
 
 Para la aplicación de las medidas correctivas especiales adicionales, la Comisión podrá considerar, entre otros elementos, la situación financiera integral de la unión, el cumplimiento al marco regulatorio, la tendencia de su índice de capitalización y de los principales indicadores que reflejen el grado de estabilidad y solvencia, la calidad de la información contable y financiera, y el cumplimiento en la entrega de dicha información.
 
@@ -990,13 +1148,17 @@ La Comisión, de oficio o a solicitud de la Comisión Nacional para Protección 
 
 La documentación que utilicen las uniones relacionada con la solicitud y contratación de sus operaciones, deberá sujetarse a las disposiciones de esta Ley, las que emanen de ella y las demás que le sean aplicables. La Comisión podrá objetar en todo tiempo la utilización de la mencionada documentación, cuando a su juicio ésta implique inexactitud, obscuridad o por cualquier otra circunstancia que pueda inducir a error, respecto de sus operaciones y servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 93.
 
 La Comisión, con acuerdo de su Junta de Gobierno, podrá en todo tiempo determinar que se proceda a la remoción de los miembros del consejo de administración, directores o gerentes y comisarios, delegados fiduciarios y funcionarios que puedan obligar con su firma a la unión, así como suspender de tres meses hasta cinco años a las personas antes mencionadas, cuando considere que no cuentan con la suficiente calidad técnica, honorabilidad e historial crediticio satisfactorio para el desempeño de sus funciones, no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley o a las disposiciones de carácter general que de ella deriven.
 
 En los dos últimos supuestos, la propia Comisión podrá además, inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por el mismo periodo de tres meses hasta cinco años, sin perjuicio de las sanciones que conforme a éste u otros ordenamientos legales fueren aplicables. Antes de dictar la resolución correspondiente, la citada Comisión deberá escuchar al interesado y a la unión.
 
-La propia Comisión podrá, también con el acuerdo de su Junta de Gobierno, ordenar la remoción de los auditores externos independientes de las uniones, así como suspender a dichas personas por el período señalado en el párrafo anterior, cuando incurran de manera grave o reiterada en infracciones a esta Ley o las disposiciones de carácter general que de la misma emanen, sin perjuicio de las sanciones a que pudieran hacerse acreedores.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La propia Comisión podrá, también con el acuerdo de su Junta de Gobierno, ordenar la remoción de los auditores externos independientes de las uniones, así como suspender o inhabilitar a dichas personas por el período señalado en el párrafo anterior, cuando incurran de manera grave o reiterada en infracciones a esta Ley o las disposiciones de carácter general que de la misma emanen, o bien, proporcionen dictámenes u opiniones que contengan información falsa, con independencia de las sanciones a que pudieran hacerse acreedores.
 
 Para los efectos de este artículo se entenderá por:
 
@@ -1068,7 +1230,9 @@ I. Si no inicia sus operaciones dentro del plazo de treinta días a partir de qu
 
 II. Si la unión no cumple con los requerimientos de capitalización establecidos conforme a lo dispuesto por el artículo 48 de esta Ley y las disposiciones a que dicho precepto se refiere;
 
-III. Si la unión de que se trate no cumple con cualquiera de las medidas correctivas mínimas a que se refiere el artículo 80 de esta Ley; no cumple con más de una medida correctiva especial adicional a que se refiere dicho artículo o bien, incumple una medida correctiva especial adicional;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Si la unión de que se trate no cumple con cualquiera de las medidas correctivas mínimas a que se refiere el artículo 80 de esta Ley; no cumple con más de una medida correctiva especial adicional a que se refiere dicho artículo o bien, incumple de manera reiterada una medida correctiva especial adicional;
 
 IV. Si efectúa operaciones en contravención a lo dispuesto por la presente Ley o por las disposiciones que de ella emanen, o si abandona o suspende las operaciones para las cuales se encuentra autorizada en términos del artículo 40 de esta Ley;
 
@@ -1096,7 +1260,9 @@ XIV. Si el capital contable de la unión es menor al capital mínimo requerido e
 
 XV. En cualquier otro establecido por la Ley.
 
-Para proceder a la revocación de una unión en los casos a que se refieren las fracciones III, V, VIII y XI de este artículo, se requerirá que la unión actualice el mismo supuesto en dos o más ocasiones dentro de un periodo de tres años.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Para proceder a la revocación de una unión en los casos a que se refieren las fracciones III, respecto de su último supuesto, V, VIII y XI de este artículo, se requerirá que la unión actualice el mismo supuesto en dos o más ocasiones en un periodo de tres años o menos.
 
 ###### Artículo 98.
 
@@ -1108,9 +1274,31 @@ II. La unión haya presentado a la Comisión los mecanismos y procedimientos par
 
 III. La unión haya presentado a la Comisión los estados financieros, aprobados por la asamblea general de accionistas, acompañados del dictamen de un auditor externo, que incluya las opiniones del auditor relativas a componentes, cuentas o partidas específicas de los estados financieros, donde se confirme el estado de los registros a que se refiere la fracción I anterior.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 98 Bis.
+
+Las uniones que soliciten la autorización de la Comisión para dejar de operar como unión, previo acuerdo en asamblea general extraordinaria, no estarán obligadas a disolverse y liquidarse, siempre y cuando cumplan con los siguientes requisitos:
+
+I. No tener pasivos derivados de préstamos de sus socios, o de mandatos y comisiones para realizar servicios de caja pactados con los mismos;
+
+II. No mantener adeudos vencidos con entidades financieras, sociedades cuya actividad preponderante sea el otorgamiento de crédito, organismos descentralizados de los gobiernos federal, estatales, municipales y del Distrito Federal, entidades financieras del exterior, o fondos aportados a fideicomisos constituidos por los gobiernos federal, estatales, del Distrito Federal o municipales, lo cual deberán demostrar con constancias escritas de estos acreedores;
+
+III. Haber cubierto las cuotas de inspección y multas que la Comisión les haya impuesto y cuya aplicación haya quedado firme;
+
+IV. Acordar en asamblea general extraordinaria la reforma a sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son uniones y que se encuentran autorizadas por la Comisión para constituirse y funcionar con tal carácter.
+
+Una vez obtenida la autorización para transformarse, la unión deberá presentar a la Comisión dentro de los ciento ochenta días posteriores, el instrumento público en el que conste la reforma estatutaria referida en la fracción IV de este artículo, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+La autorización para operar como unión quedará sin efecto por ministerio de ley, a partir de la inscripción en el Registro Público de Comercio referido en el párrafo anterior.
+
+Una vez revocada la autorización para operar otorgada a la unión, no podrá continuar realizando ninguna de las operaciones reservadas exclusivamente para las uniones previstas en el artículo 40 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 99.
 
-La declaración de revocación se publicará en el Diario Oficial de la Federación y pondrá en estado de disolución y liquidación a la sociedad, sin necesidad del acuerdo de la asamblea de accionistas. La revocación incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la misma.
+La declaración de revocación se inscribirá en el Registro Público de Comercio previa orden de la Comisión, se publicará en el Diario Oficial de la Federación y pondrá en estado de disolución y liquidación a la sociedad, sin necesidad del acuerdo de la asamblea de accionistas, esto último salvo tratándose de uniones que se transformen al amparo del artículo 98 Bis de esta Ley. La revocación incapacitará a la sociedad para realizar las operaciones a que se refiere el artículo 40 de esta Ley, a partir de la fecha en que se notifique la misma.
 
 ###### Artículo 100.
 
@@ -1158,7 +1346,13 @@ Los interesados podrán oponerse a esta cancelación dentro de un plazo de sesen
 
 A las uniones les estará prohibido:
 
-I. Realizar operaciones de descuento, préstamo o crédito de cualquier clase con personas que no sean socios de la unión, excepto con las personas y fideicomisos expresamente autorizados en el artículo 40, fracciones I y II de esta Ley; así como realizar operaciones de préstamo o celebrar mandatos y comisiones para realizar servicios de caja, en todo caso, con los socios que no tengan una aportación mínima del equivalente en moneda nacional a 2,500 unidades de inversión al capital pagado sin derecho a retiro de la unión al momento de la celebración de la operación respectiva;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I. Realizar operaciones de descuento, préstamo o crédito de cualquier clase con personas que no sean socios de la unión, excepto con las personas y fideicomisos expresamente autorizados en el artículo 40, fracciones I y II de esta Ley, así como realizar operaciones de préstamo o celebrar mandatos y comisiones para realizar servicios de caja, en todo caso, con los socios que no tengan una aportación al menos por el equivalente en moneda nacional a 2,500 unidades de inversión, al capital pagado sin derecho a retiro considerando sus correspondientes reservas y primas, al momento de la celebración de la primera operación.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las acciones representativas del capital social que se adquieran con la aportación a que se refiere el párrafo anterior deberán conservarse para la realización de operaciones posteriores.
 
 II. Otorgar garantías, cauciones o avales, salvo que sean en favor de sus socios o las garantías a que se refiere la fracción XI del artículo 40 de esta Ley;
 
@@ -1240,9 +1434,15 @@ c) A las uniones que no cumplan con lo previsto por el artículo 90 de esta Ley 
 
 d) A los accionistas de uniones que, en contravención a lo preceptuado por el artículo 19 de esta Ley, omitan pagar en efectivo las acciones de las uniones que suscriban.
 
-e) A las uniones que omitan someter a la aprobación de la Comisión, su escritura constitutiva o cualquier modificación a ésta. A las personas que contravengan lo dispuesto por los artículos 21 y 23, en contravención a lo establecido por el artículo 22 de este mismo ordenamiento legal.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+e) A las uniones que omitan someter a la aprobación de la Comisión, su escritura constitutiva o cualquier modificación a ésta. A las personas que contravengan lo dispuesto por los artículos 21 y 23, en contravención a lo establecido por el artículo 22 de este mismo ordenamiento legal, así como las disposiciones de carácter general a que se refiere el citado artículo 21.
 
 f) A las uniones que incumplan con cualquiera de las disposiciones a que se refiere el artículo 46 de la misma.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+g) A los auditores externos independientes y demás profesionistas o expertos que rindan o proporcionen dictámenes u opiniones a las uniones de crédito que incurran en infracciones a la presente ley o a las disposiciones que emanen de ella para tales efectos.
 
 II. Multa de 1,000 a 5,000 días de salario:
 
@@ -1256,7 +1456,9 @@ d) A las personas morales y establecimientos distintos a los autorizados que en 
 
 III. Multa de 3,000 a 15,000 días de salario:
 
-a) A las uniones que no obtengan la autorización o no cumplan con lo señalado por el artículo 63 de la presente Ley o las disposiciones a que dicho precepto se refiere.
+> <small>(REFORMADO, D.O.F 10 DE ENERO DE 2014)</small>
+
+a) A las uniones que no obtengan la autorización o no cumplan con lo señalado por el artículo 63 de la presente Ley.
 
 b) A las uniones que se opongan u obstaculicen el ejercicio de las facultades que esta Ley y otras disposiciones aplicables le confieren a la Comisión. No se entenderá como obstaculización el hacer valer los recursos de defensa que la ley prevé y en cualquier caso, previo a la sanción, se deberá oír al infractor.
 
@@ -1278,13 +1480,17 @@ V. Multa de 20,000 a 100,000 días de salario:
 
 a) A las uniones que proporcionen, en forma dolosa, información falsa, imprecisa o incompleta a la Comisión, que tenga como consecuencia que no se refleje su verdadera situación financiera, administrativa, económica o jurídica, siempre y cuando se compruebe que el director general o algún miembro del consejo de administración de la unión correspondiente tuvo conocimiento de tal acto.
 
-La Comisión podrá abstenerse de sancionar a las uniones, siempre y cuando se trate de las conductas infractoras señaladas en las fracciones I y II del presente artículo y, además, justifique la causa de tal abstención y se refieran a hechos, actos u omisiones que no revistan gravedad ni constituyan delito o pongan en peligro los intereses de terceros.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Comisión podrá abstenerse de sancionar a las uniones, siempre y cuando se justifique la causa de tal abstención de acuerdo con los lineamientos que para tales efectos emita la Junta de Gobierno de la propia Comisión, y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia, no se cuente con elementos que permitan demostrar que se afecten los intereses de terceros o del propio sistema financiero y no constituyan delito.
 
 ###### Artículo 105.
 
 Las infracciones que consistan en realizar operaciones prohibidas o no autorizadas, conforme a esta ley y las disposiciones que emanan de ella, serán sancionadas con multa que impondrá la Comisión a las uniones, de acuerdo a lo siguiente:
 
-I. Multa por el equivalente del 1% hasta el 4% del importe de la operación de que se trate o, en caso de que no se pueda determinar el monto de la operación, de 5,000 a 10,000 días de salario, a las uniones que contravengan lo dispuesto por el artículo 103, fracciones IV, V, VI, VIII, IX, X, XII, XVIII inciso i), así como el artículo 23.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I. Multa por el equivalente del 1% hasta el 4% del importe de la operación de que se trate o, en caso de que no se pueda determinar el monto de la operación, de 5,000 a 10,000 días de salario, a las uniones que contravengan lo dispuesto por el artículo 103, fracciones IV, V, VI, VIII, IX, X, XII, XVIII inciso i), y artículo 23, así como las disposiciones de carácter general que emanen de tales preceptos, según corresponda.
 
 II. Multa del 5% hasta el 15% del importe de la operación de que se trate o, en caso de que no se pueda determinar el monto de la operación, de 10,000 a 30,000 días de salario, a las uniones que contravengan lo dispuesto por el artículo 103 fracciones I, II, III, VII, XI, XIII, XIV, XV, XVI, XVII, XVIII, incisos a), b), c), d), e), f) y g), XIX y XX.
 
@@ -1292,17 +1498,25 @@ II. Multa del 5% hasta el 15% del importe de la operación de que se trate o, en
 
 La infracción a cualquier otro precepto de esta Ley o de las disposiciones que de ella deriven, distinta de las señaladas expresamente en algún otro artículo de esta Ley y que no tenga sanción especialmente señalada en este ordenamiento será sancionada con multa de 1,000 a 5,000 días de salario, o del 0.1% hasta el 1% de su capital pagado y reservas de capital, dependiendo de la naturaleza de la infracción.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En caso de que alguna de las infracciones contenidas en los artículos 104, 105 o 106 de esta Ley generen un daño patrimonial o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero.
+
 ###### Artículo 107.
 
 Cuando la Comisión presuma que una persona física o moral está realizando operaciones de las reservadas a las uniones, sin contar con la autorización correspondiente, podrá nombrar un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está celebrando las operaciones mencionadas en violación a lo dispuesto por esta Ley, en cuyo caso la Comisión podrá ordenar la suspensión inmediata de operaciones o proceder a la clausura de la negociación, empresa o establecimiento de la persona física o moral de que se trate.
 
 Los procedimientos de inspección, suspensión de operaciones y clausura a que se refiere el párrafo anterior son de interés público. Será aplicable en lo conducente lo dispuesto en este Capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 108.
 
-En los procedimientos administrativos de imposición de sanciones previstos en esta Ley se admitirán toda clase de pruebas. En el caso de la confesional a cargo de autoridades, ésta deberá ser desahogada por escrito.
+En los procedimientos administrativos previstos en esta Ley se admitirán las pruebas conducentes con los actos sujetos al procedimiento siempre y cuando las mismas sean ofrecidas en el plazo del desahogo de la garantía de audiencia. En el caso de la confesional a cargo de autoridades, esta deberá ser desahogada por escrito.
 
-Una vez desahogado el derecho de audiencia a que se refiere el artículo 110 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Una vez desahogado el derecho de audiencia a que se refiere el artículo 110 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, previsto en el artículo 117, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
 
 La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Federal de Procedimientos Civiles.
 
@@ -1322,47 +1536,99 @@ En caso de que el infractor pague las multas impuestas por la mencionada Comisi�
 
 La Comisión, en la imposición de sanciones de carácter administrativo a que se refiere esta ley, se sujetará a lo siguiente:
 
-I. Se otorgará audiencia al infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. En caso de que el infractor no hiciere uso del derecho de audiencia dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente.
+I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique;
 
-III. En la imposición de sanciones se tomarán en cuenta, en su caso, lo siguiente:
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-a) La afectación a terceros;
+II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior, dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente, y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Se tomará en cuenta, en su caso, lo siguiente:
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+a) El impacto a terceros o al sistema financiero que haya producido o pueda producir la infracción;
 
 b) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente;
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente.
+
 c) La cuantía de la operación;
 
-d) La naturaleza y gravedad de la infracción, y
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-e) La condición económica de la infractora.
+d) La condición económica del infractor a efecto de que la sanción no sea excesiva, y
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+e) La naturaleza de la infracción cometida.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Tratándose de conductas calificadas por esta ley como graves, en adición a lo establecido en la fracción III anterior, podrá tomar en cuenta cualquiera de los aspectos siguientes:
+
+a) El monto del quebranto o perjuicio patrimonial causado;
+
+b) El lucro obtenido;
+
+c) La falta de honorabilidad por parte del infractor, conforme a lo dispuesto por esta Ley y las disposiciones de carácter general que de ella emanen;
+
+d) La negligencia inexcusable o dolo con que se hubiere actuado;
+
+e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, o
+
+f) Las demás circunstancias que la Comisión estime aplicables para tales efectos.
 
 ###### Artículo 111.
 
 Las sanciones serán impuestas por la Junta de Gobierno de la Comisión, la que podrá delegar esa facultad, en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a los demás servidores públicos de esa Comisión.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 112.
 
-La Comisión podrá, atendiendo a las circunstancias de cada caso, imponer la multa que corresponda al infractor en los supuestos señalados en las fracciones I y II del artículo 104 de esta Ley, o bien, solamente amonestarlo.
+La Comisión podrá, atendiendo a las circunstancias de cada caso, además de la imposición de la sanción que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes personales, la gravedad de la conducta, que no se cuente con elementos que permitan demostrar que se afecten intereses de terceros o del propio sistema financiero, que habiéndose causado un daño este haya sido reparado así como la existencia de atenuantes.
+
+Se considerarán infracciones graves la violación a lo previsto por los artículos 48, cuando se incumplan los requerimientos de capital y con ello se actualice el régimen previsto en el artículo 80 de esta Ley; 51, cuando se produzca un daño, perjuicio o quebranto a la unión por la operación de crédito objeto del incumplimiento a dicho precepto; 62; 65 cuando se trate de omisiones o alteraciones de registros contables; 74 cuando se produzca un daño, perjuicio o quebranto a la unión; 78, primer párrafo; 103; 129, fracciones I por lo que hace a la falta de presentación a la Comisión Nacional Bancaria y de Valores, del documento de políticas de identificación y conocimiento del cliente y II, primer párrafo, inciso a. por operaciones no reportadas, tercer párrafo de la fracción II, incisos v. y vi.; 44; 79 y 80 de esta Ley.
 
 ###### Artículo 113.
 
 Las multas a que se refiere el presente Capítulo podrán ser impuestas a las uniones, así como a los miembros del consejo de administración, directores generales, directivos, funcionarios, empleados o personas que ostenten un cargo, mandato, comisión o cualquier otro título jurídico que las citadas uniones otorguen a terceros para la realización de sus operaciones, que hayan incurrido directamente o hayan ordenado la realización de la conducta materia de la infracción. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 93 de esta ley.
 
-Corresponderá a la Secretaría hacer efectivas las multas impuestas por la Comisión a las uniones.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Corresponderá a la Secretaría hacer efectivas las multas impuestas por la Comisión a las uniones, una vez que hayan quedado firmes.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 114.
 
-La Comisión considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor, de manera espontánea y previo al inicio del procedimiento de imposición de sanción a que se refiere la presente Ley, informe por escrito de la violación en que hubiere incurrido a la citada Comisión y corrija las omisiones o contravenciones a las normas aplicables en que hubiere incurrido o, en su caso, presente ante la misma Comisión un programa de corrección que tenga por objeto evitar que la unión se ubique de nueva cuenta en la conducta infractora. Asimismo, se considerará como atenuante la acreditación que el presunto infractor haga ante la Comisión de haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
+La Comisión considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor, acredite ante la Comisión haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
 
 ###### Artículo 115.
 
 Los procedimientos para la imposición de las sanciones administrativas a que se refiere esta ley se iniciarán con independencia de la opinión de delito que, en su caso, emita la Comisión en términos del artículo 120 del presente ordenamiento legal.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 116.
 
-En ejercicio de sus facultades sancionadoras, la Comisión, ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet, las sanciones que al efecto imponga por infracciones a esta Ley, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, para lo cual deberá señalar exclusivamente la denominación o razón social del infractor, el precepto infringido y la sanción.
+Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, la Comisión, ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, para lo cual deberá señalar:
+
+I. El nombre, denominación o razón social del infractor;
+
+II. El precepto infringido, el tipo de sanción impuesta, monto o plazo, según corresponda y la conducta infractora, y
+
+III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
+
+En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad competente, deberá igualmente publicarse tal circunstancia.
+
+La información antes señalada no será considerada como reservada o confidencial.
 
 ###### Artículo 117.
 
@@ -1420,9 +1686,57 @@ La resolución de los recursos de revisión deberá ser emitida en un plazo que 
 
 La Comisión deberá prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve.
 
-### CAPITULO III. De los delitos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 10 DE ENERO DE 2014)</small>
 
-### CAPITULO IV. De las notificaciones
+### Capítulo II Bis. De los programas de autocorrección
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 119 Bis.
+
+Las uniones por conducto de su director general y, con la opinión del comité de auditoría, podrán someter a la autorización de la Comisión un programa de autocorrección cuando la unión de que se trate, en la realización de sus actividades, o el comité de auditoría como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
+
+No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
+I. Las irregularidades o incumplimientos que sean detectados por la Comisión en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación por parte de la unión del programa de autocorrección respectivo.
+
+Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado a la unión la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
+
+II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 119 Bis 1.
+
+Los programas de autocorrección a que se refiere el artículo 119 Bis de esta Ley, se sujetarán a las disposiciones de carácter general que emita la Comisión. Adicionalmente, deberán ser firmados por el presidente del comité de auditoría de la unión y ser presentados al consejo de administración en la sesión inmediata posterior a la solicitud de autorización presentada a la Comisión. Igualmente, deberá contener las irregularidades o incumplimientos cometidos indicando al efecto las disposiciones que se hayan considerado contravenidas; las circunstancias que originaron la irregularidad o incumplimiento, así como señalar las acciones adoptadas o que se pretendan adoptar por parte de la unión para corregir la irregularidad o incumplimiento que motivó el programa.
+
+En caso de que la unión requiera de un plazo para subsanar la irregularidad o incumplimiento cometido, el programa de autocorrección deberá incluir un calendario detallado de actividades a realizar para ese efecto.
+
+Si la Comisión no ordena a la unión de que se trate modificaciones o correcciones al programa de autocorrección dentro de los veinte días hábiles siguientes a su presentación, el programa se tendrá por autorizado en todos sus términos.
+
+Cuando la Comisión ordene a la unión modificaciones o correcciones con el propósito de que el programa se apegue a lo establecido en el presente artículo y demás disposiciones aplicables, la unión correspondiente contará con un plazo de cinco días hábiles contados a partir de la notificación respectiva para subsanar tales deficiencias. Dicho plazo podrá prorrogarse por única ocasión hasta por cinco días hábiles adicionales, previa autorización de la Comisión.
+
+De no subsanarse las deficiencias a las que se refiere el párrafo anterior, el programa de autocorrección se tendrá por no presentado y, en consecuencia, las irregularidades o incumplimientos cometidos no podrán ser objeto de otro programa de autocorrección.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 119 Bis 2.
+
+Durante la vigencia de los programas de autocorrección que hubiere autorizado la Comisión en términos de los artículos 119 Bis y 119 Bis 1 anteriores, esta se abstendrá de imponer a las uniones las sanciones previstas en esta Ley, por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.
+
+El comité de auditoría estará obligado a dar seguimiento a la instrumentación del programa de autocorrección autorizado e informar de su avance tanto al consejo de administración y al director general como a la Comisión en la forma y términos que esta establezca en las disposiciones de carácter general a que se refiere el artículo 119 Bis 1 de esta Ley. Lo anterior, con independencia de la facultad de la Comisión para supervisar, en cualquier momento, el grado de avance y cumplimiento del programa de autocorrección.
+
+Si como resultado de los informes del comité de auditoría o de las labores de inspección y vigilancia de la Comisión, esta determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, impondrá la sanción correspondiente aumentando el monto de esta hasta en un 40 por ciento; siendo actualizable dicho monto en términos de (sic) disposiciones fiscales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 119 Bis 3.
+
+Las personas físicas y demás personas morales sujetas a la supervisión de la Comisión podrán someter a la autorización de la propia Comisión un programa de autocorrección cuando en la realización de sus actividades detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables, sujetándose a lo previsto por los artículos 119 Bis a 119 Bis 2 de esta Ley, según resulte aplicable.
+
+### CAPITULO III. De los delitos
 
 ###### Artículo 120.
 
@@ -1528,7 +1842,9 @@ Igual sanción se impondrá al servidor público de la Comisión, que por sí o 
 
 Las uniones en términos de las disposiciones de carácter general que emita la Secretaría, escuchando la previa opinión de la Comisión, estarán obligadas a:
 
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 ó 148 bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
 
 II. Presentar a la Secretaría, a través de la Comisión, reportes sobre:
 
@@ -1536,17 +1852,33 @@ a. Los actos, operaciones y servicios que realicen con sus socios y terceros, re
 
 b. Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administradores, directores generales y demás directivos, funcionarios, empleados y apoderados.
 
-Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Asimismo, la Secretaría en las reglas generales a que se refiere el presente artículo, también establecerá los lineamientos sobre el procedimiento y criterios que las uniones deberán observar respecto de:
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información. Los reportes deberán referirse cuando menos a operaciones que se definan como relevantes, internas preocupantes e inusuales y operaciones en efectivo realizadas en moneda extranjera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Asimismo, la Secretaría en las disposiciones de carácter general a que se refiere el presente artículo, también establecerá los lineamientos sobre el procedimiento y criterios que las uniones deberán observar respecto de:
 
 i. El adecuado conocimiento de sus socios y terceros con los que realicen operaciones, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
 
 ii. La información y documentación que dichas uniones deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus socios y terceros antes citados;
 
-iii. La forma en que las mismas uniones deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus socios o quienes lo hayan sido y terceros mencionados, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-iv. Los términos para proporcionar capacitación al interior de las uniones sobre la materia objeto del presente artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+iii. La forma en que las mismas uniones deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus socios o quienes lo hayan sido y terceros mencionados, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+iv. Los términos para proporcionar capacitación al interior de las uniones sobre la materia objeto del presente artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+v. El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las propias disposiciones de carácter general a que se refiere este artículo, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+vi. El establecimiento de aquellas estructuras internas que deban funcionar como áreas de cumplimiento en la materia, al interior de cada unión de crédito.
 
 Las uniones deberán conservar, por al menos diez años, la información y documentación a que se refiere la fracción iii, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
 
@@ -1556,7 +1888,23 @@ El cumplimiento de las obligaciones señaladas en el presente artículo no impli
 
 Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las uniones, así como por los miembros del consejo de administración, administradores, directores generales y demás directivos, empleados y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
 
-La violación a las disposiciones a que se refiere el presente artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 110 de la presente Ley, con multa equivalente del 10% al 100% de la operación inusual para el supuesto de que ésta haya sido determinada y no haya sido reportada, y en los demás casos con multa de 200 y hasta 100,000 días de salario mínimo general vigente en el Distrito Federal.
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+Las uniones deberán suspender de forma inmediata la realización de actos, operaciones o servicios con los clientes o usuarios que la Secretaría de Hacienda y Crédito Público les informe mediante una lista de personas bloqueadas que tendrá el carácter de confidencial. La lista de personas bloqueadas tendrá la finalidad de prevenir y detectar actos, omisiones u operaciones que pudieran ubicarse en los supuestos previstos en los artículos referidos en la fracción I de este artículo.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+La obligación de suspensión a que se refiere el párrafo anterior dejará de surtir sus efectos cuando la Secretaria de Hacienda y Crédito Público elimine de la lista de personas bloqueadas al cliente o usuario en cuestión.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+La Secretaría de Hacienda y Crédito Público establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La violación a las disposiciones a que se refiere el presente artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 110 de la presente Ley, con multa equivalente del 10% al 100% del monto del acto, operación o servicio que se realice con un cliente o usuario que se haya informado que se encuentra en la lista de personas bloqueadas a que se refiere este artículo; con multa equivalente del 10% al 100% del monto de la operación inusual no reportada o, en su caso, de la serie de operaciones relacionadas entre sí del mismo cliente o usuario, que debieron haber sido reportadas como operaciones inusuales; tratándose de operaciones relevantes, internas preocupantes y operaciones en efectivo realizadas en moneda extranjera, no reportadas, así como los incumplimientos a cualquiera de los incisos i., ii., iii. o v. de este artículo, se sancionará con multa de 10,000 a 100,000 días de salario mínimo general vigente en el Distrito Federal y en los demás casos de incumplimiento a este precepto y a las disposiciones que de él emanan multa de 2,000 y hasta 30,000 días de salario mínimo general vigente en el Distrito Federal.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL OCTAVO AL DÉCIMO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 Los servidores públicos de la Secretaría y de la Comisión, las uniones, sus miembros del consejo de administración, administradores, directores generales y demás directivos, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
@@ -1571,6 +1919,8 @@ Serán sancionados con prisión de dos a siete años todo aquél que habiendo si
 ###### Artículo 132.
 
 Las penas previstas en esta Ley, se reducirán en un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
+
+### CAPITULO IV. De las notificaciones
 
 ###### Artículo 133.
 
@@ -1725,3 +2075,23 @@ Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extr
 México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de agosto de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE ENERO DE 2014.
+
+###### ARTÍCULO DÉCIMO.
+
+En relación con las modificaciones a que se refieren el Artículo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Las uniones de crédito contarán con un plazo de ciento ochenta días para regularizar las operaciones de préstamos de socios que se ubiquen en el supuesto señalado en la fracción I del artículo 103, concertadas previamente a la entrada en vigor de este Decreto.
+
+II. Las uniones de crédito contarán con un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto para presentar a la Comisión, para su aprobación, los estatutos sociales a fin de que ajusten su operación a lo previsto en el referido Decreto.
+
+III. Las infracciones o delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
