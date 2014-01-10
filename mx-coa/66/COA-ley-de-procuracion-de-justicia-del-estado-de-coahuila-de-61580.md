@@ -4,7 +4,7 @@ identifier: "COA-ley-de-procuracion-de-justicia-del-estado-de-coahuila-de-61580"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-16"
-last_updated: "2013-12-24"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE PROCURACION DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ENERO DE 2014 EN LA PRIMERA SECCIÓN DEL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 10 DE ENERO DE 2014.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 16 de mayo de 2008.
 
@@ -7153,6 +7153,8 @@ A las personas a las que se les impute la comisión o hayan cometido un delito d
 
 P.O. 24 DE DICIEMBRE DE 2013.
 
-PRIMERO.- La presente reforma entrará en vigor dieciocho meses después, contados a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(F. DE E., P.O. 10 DE ENERO DE 2014)</small>
+
+PRIMERO.- La presente reforma entrará en vigor un mes después, contado a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
