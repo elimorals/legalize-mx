@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2013-04-04"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
 > <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA PRIMERA DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, PUBLICADA EN EL D.O.F. DE 4 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A LOS SETECIENTOS TREINTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -685,7 +685,9 @@ Las acciones deberán pagarse íntegramente en el acto de ser suscritas.
 
 Las instituciones podrán emitir acciones sin valor nominal así como preferentes o de voto limitado. En caso de que existan más de una serie de acciones, deberá indicarse expresamente el porcentaje del capital social que podrá corresponder a cada serie.
 
-El capital social de las instituciones de seguros podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al treinta por ciento del capital pagado, previa autorización de la Secretaría de Hacienda y Crédito Público. La adquisición de acciones de voto limitado no estará sujeta a lo establecido en el numeral 2 de la fracción II de este artículo. Estas acciones no computarán para efecto del límite establecido en el último párrafo del numeral 1, fracción II de este artículo.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+El capital social de las instituciones de seguros podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al treinta por ciento del capital pagado, previa autorización de la Secretaría de Hacienda y Crédito Público. La adquisición de acciones de voto limitado no estará sujeta a lo establecido en el numeral 2 de la fracción II de este artículo.
 
 Las acciones de voto limitado otorgarán derecho de voto únicamente en los asuntos relativos a cambio de objeto, fusión, escisión, transformación, disolución y liquidación, así como cancelación de su inscripción en cualquier bolsa de valores.
 
@@ -695,37 +697,57 @@ Las cantidades que por concepto de primas u otro similar paguen los suscriptores
 
 Las pérdidas acumuladas que registre una institución de seguros deberán aplicarse directamente y en el orden indicado, a los siguientes conceptos: a las utilidades pendientes de aplicación al cierre del ejercicio, siempre y cuando no se deriven de la revaluación por inversión en títulos de renta variable; a las reservas de capital; y al capital pagado. En ningún momento el capital pagado deberá ser inferior al mínimo que determine la Secretaría de Hacienda y Crédito Público y en caso contrario, deberá reponerse o procederse en los términos del artículo 74 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-I Bis.- En razón del origen de los accionistas que suscriban su capital, las instituciones podrán ser:
+I Bis.- Las acciones representativas del capital social de las instituciones de seguros serán de libre suscripción.
 
-a).- De capital total o mayoritariamente mexicano; o
+a) (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-b).- De capital total o mayoritariamente extranjero, en cuyo caso se les considerará como Filiales de Instituciones Financieras del Exterior.
+b) (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-En todo lo relativo a su organización, las instituciones a que se refiere el inciso a) de esta fracción, se regirán por lo dispuesto en el presente capítulo, en tanto que a las instituciones a que se refiere el inciso b) de la misma, les será aplicable, además de lo dispuesto en este mismo capítulo, con excepción de la fracción II de este artículo, lo que se establece en el Capítulo I Bis del Título Primero de esta Ley.
+En todo lo relativo a su organización, las instituciones se regirán por lo dispuesto en el presente capítulo, en tanto que a las instituciones Filiales de Instituciones Financieras del Exterior, les será aplicable, además de lo dispuesto en este mismo capítulo, con excepción de la fracción II de este artículo, lo que se establece en el Capítulo I Bis del Título Primero de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+Los gobiernos extranjeros no podrán participar, directa o indirectamente, en el capital de las instituciones de seguros, salvo en los casos siguientes:
 
-No podrán participar en forma alguna en el capital de las instituciones de seguros, personas morales extranjeras que ejerzan funciones de autoridad;
+a) Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
 
-> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
+Las instituciones de seguros que se ubiquen en lo dispuesto en este inciso, deberán entregar a la Comisión Nacional de Seguros y Fianzas, la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto. La Comisión Nacional de Seguros y Fianzas tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información correspondiente, para resolver, previo acuerdo de su Junta de Gobierno, si la participación de que se trata, se ubica en el supuesto de excepción previsto en este inciso.
 
-II.- Tratándose de las instituciones a que se refiere el inciso a) de la fracción I Bis, de este artículo:
+b) Cuando la participación correspondiente implique que se tenga el control de la institución de seguros, en términos del artículo 29, fracción II, numeral 2, tercer párrafo de esta Ley, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión Nacional de Seguros y Fianzas, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que:
+
+1. No ejercen funciones de autoridad, y
+
+2. Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+c) Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de la institución de seguros, en términos del artículo 29, fracción II, numeral 2, tercer párrafo de esta Ley. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II.- En las instituciones de seguros:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 1.- No podrán participar en su capital social pagado, directamente o a través de interpósita persona, instituciones de crédito, sociedades mutualistas de seguros, casas de bolsa, organizaciones auxiliares del crédito, sociedades operadoras de sociedades de inversión, entidades de ahorro y crédito popular, administradoras de fondos para el retiro, ni casas de cambio.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+
 Lo dispuesto en el párrafo anterior no será aplicable cuando la participación provenga de la tenencia accionaria de las sociedades controladoras a que se refiere la Ley para Regular las Agrupaciones Financieras.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 La Secretaría de Hacienda y Crédito Público podrá autorizar a las instituciones de crédito para que adquieran acciones de instituciones de seguros y de las sociedades controladoras a que se refiere la fracción III de este artículo, actuando como fiduciarias en fideicomisos que no se utilicen como medio para contravenir lo dispuesto en esta Ley.
 
-Las entidades aseguradoras, reaseguradoras o reafianzadoras del exterior, así como las personas físicas o morales extranjeras distintas de las excluidas en el primer párrafo de este numeral, podrán adquirir acciones representativas del capital de estas instituciones de seguros. La inversión mexicana siempre deberá mantener la facultad de determinar el manejo de la institución y su control efectivo.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-A tal efecto, la inversión extranjera deberá hacerse constar en una serie especial de acciones representativas del capital de la sociedad correspondiente, misma que en ningún caso podrá rebasar el cuarenta y nueve por ciento del capital pagado de la sociedad.
+Las entidades aseguradoras, reaseguradoras o reafianzadoras del exterior, así como las personas físicas o morales extranjeras distintas a las instituciones financieras del exterior, podrán adquirir acciones representativas del capital de estas instituciones de seguros.
 
-2.- Cualquier persona podrá adquirir mediante una o varias operaciones simultáneas o sucesivas, el control de acciones del capital social pagado de una institución de seguros, en el entendido de que dichas operaciones deberán obtener la autorización previa de la Secretaría de Hacienda y Crédito Público, escuchando la opinión de la Comisión Nacional de Seguros y Fianzas, cuando excedan del cinco por ciento de dicho capital social pagado, sin perjuicio de lo establecido por la fracción II, punto 1 del presente artículo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+2.- Cualquier persona podrá adquirir mediante una o varias operaciones simultáneas o sucesivas, el control de acciones del capital social pagado de una institución de seguros, en el entendido de que dichas operaciones deberán obtener la autorización previa de la Secretaría de Hacienda y Crédito Público, escuchando la opinión de la Comisión Nacional de Seguros y Fianzas, cuando excedan del cinco por ciento de dicho capital social pagado.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 En el supuesto de que uno o más accionistas pretendan obtener el control de la administración en una Institución de seguros, deberá acompañar a su solicitud, según corresponda:
 
@@ -739,19 +761,31 @@ d) Programa estratégico para la implementación de las políticas y normas a qu
 
 e) La demás documentación conexa que requiera la Secretaría de Hacienda y Crédito Público a efecto de evaluar la solicitud correspondiente.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+
 Para efectos de lo dispuesto en esta Ley, se entenderá que se obtiene el control de una institución de seguros cuando se adquiera el treinta por ciento o más de las acciones representativas del capital social pagado de la propia institución, se tenga el control de la asamblea general de accionistas, se esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración, o por cualquier otro medio se controle a la institución de seguros de que se trate.
 
 > <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 Salvo lo dispuesto en la Ley para Regular las Agrupaciones Financieras, las sociedades que tengan el control de una institución de seguros estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable al igual que a sus accionistas lo dispuesto en esta fracción, en las fracciones I Bis, último párrafo, y III de este artículo, así como el artículo 138 Bis de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
 Las personas que aporten acciones de una o varias instituciones de seguros al capital de una de las sociedades a que se refiere el párrafo anterior, podrán mantener la participación que resulte en el capital de la misma, por el valor de las acciones que cada una de ellas aporte.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 Salvo lo dispuesto en la Ley para Regular las Agrupaciones Financieras, en el capital de las señaladas sociedades no podrá participar directa o indirectamente otra sociedad del mismo tipo, sociedades mutualistas de seguros, instituciones de crédito o de fianzas, casas de bolsa, sociedades financieras de objeto limitado, sociedades operadoras de sociedades de inversión, organizaciones auxiliares del crédito, administradoras de fondos para el retiro, entidades de ahorro y crédito popular o casas de cambio, así como aquellas sociedades que la Secretaría de Hacienda y Crédito Público señale mediante disposiciones de carácter general como incompatibles en razón de sus actividades.
 
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
 Lo dispuesto en los tres párrafos anteriores deberá hacerse constar en los estatutos de las sociedades correspondientes;
 
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
 Las personas que adquieran o transmitan acciones por más del dos por ciento del capital social pagado de una institución de seguros, deberán dar aviso a la Secretaría de Hacienda y Crédito Público, dentro de los tres días hábiles siguientes a la adquisición o transmisión.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 Las instituciones deberán proporcionar a la Secretaría de Hacienda y Crédito Público y a la Comisión Nacional de Seguros y Fianzas, la información que éstas les requieran con respecto a las personas que directa o indirectamente hayan adquirido las acciones representativas de su capital social pagado, en la forma y sujetándose a las condiciones que establezcan mediante disposiciones de carácter general;
 
@@ -1139,6 +1173,10 @@ El capital social de las Filiales estará representado por dos series de accione
 
 La totalidad de las acciones Serie "E" de una Filial deberán ser propiedad en todo momento de una Institución Financiera del Exterior, directa o indirectamente, o de una Sociedad Controladora Filial. Las acciones Serie "M" estarán sujetas a lo dispuesto en el artículo 29 fracción II de la presente Ley.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En la autorización para la adquisición de acciones de la serie “E” se observará, en lo conducente, lo establecido en la fracción I Bis, tercer párrafo, del artículo 29 de esta Ley.
+
 Las acciones deberán pagarse íntegramente en el acto de ser suscritas.
 
 Las Filiales no podrán emitir acciones de voto limitado.
@@ -1149,7 +1187,9 @@ Las Filiales no podrán emitir acciones de voto limitado.
 
 Las acciones Serie "E" de una Filial sólo podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
 
-Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, y se adquiera cuando menos el cincuenta y uno por ciento del capital representado por las acciones Serie "E", para llevar a cabo la enajenación anterior deberán modificarse los estatutos sociales de la Filial cuyas acciones Serie "E" sean objeto de la operación, para cumplir con lo dispuesto en la fracción II del artículo 29 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, y se adquiera cuando menos el cincuenta y uno por ciento del capital representado por las acciones Serie E, para llevar a cabo la enajenación anterior deberán modificarse los estatutos sociales de la Filial cuyas acciones Serie E sean objeto de la operación.
 
 Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, y adquiera cuando menos el cincuenta y uno por ciento del capital Social de la Serie "E", deberá observarse lo dispuesto en las fracciones II y III del artículo 33-I.
 
@@ -2619,9 +2659,7 @@ b).- Si no presenta a la Comisión Nacional de Seguros y Fianzas, el dictamen de
 
 c).- Si en cualquier momento la Secretaría de Hacienda y Crédito Público o la Comisión Nacional de Seguros y Fianzas tienen conocimiento de que dichas instituciones no mantienen los elementos necesarios para prestar los servicios materia de los contratos de seguro a que se refiere el artículo 8o., fracción V, de esta Ley. Para este efecto, la Comisión Nacional de Seguros y Fianzas solicitará la opinión previa de la Secretaría de Salud;
 
-> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
-
-III.- Si la institución de seguros establece relaciones de dependencia con gobiernos o dependencias oficiales extranjeros;
+III.- (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -3345,6 +3383,12 @@ VIII Bis.- Proporcionar a las autoridades financieras del exterior, información
 
 IX.- Formular anualmente sus presupuestos que someterá a la autorización de la Secretaría de Hacienda y Crédito Público;
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IX Bis.- Aprobar anualmente los programas para el otorgamiento de estímulos económicos a los funcionarios de la Comisión, por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano.
+
+Los estímulos económicos tendrán como objetivo reconocer el esfuerzo laboral y la contribución de los funcionarios al logro de los objetivos de la Comisión, sujetándose a los límites y erogaciones que se aprueben para dichos conceptos en el Presupuesto de Egresos de la Federación.
+
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
 X.- Rendir un informe anual de sus labores a la Secretaría de Hacienda y Crédito Público;
@@ -3459,9 +3503,11 @@ IV.- Vigilar que las personas y entidades a que se refiere esta Ley, rindan opor
 
 V.- Investigar actos que hagan suponer la ejecución de operaciones violatorias de esta Ley, pudiendo al efecto ordenar visitas de inspección a los presuntos responsables y, en su caso, mandar la suspensión de dichas operaciones, ordenar su intervención hasta que la operación u operaciones ilícitas se corrijan o proceder a su clausura;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-VI.- Formular anualmente el proyecto de presupuesto de egresos de la Comisión, teniendo a su cargo la administración de los fondos de la misma, el cual deberá ser aprobado por la Junta de Gobierno;
+VI.- Formular anualmente el proyecto de presupuesto de egresos de la Comisión, teniendo a su cargo la administración de los fondos de la misma, el cual deberá ser aprobado por la Junta de Gobierno, así como los programas de estímulos económicos para los funcionarios de la Comisión, los cuales una vez aprobados por la Junta de Gobierno serán sometidos a la autorización de la Secretaría de Hacienda y Crédito Público.
+
+Dicha Secretaría establecerá criterios en materia de estímulos económicos que deberán ser observados por el Presidente de la Comisión en su propuesta a la Junta de Gobierno. Asimismo, la Comisión proporcionará a la citada Secretaría la información que solicite;
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -3829,13 +3875,13 @@ Lo dispuesto en este artículo no excluye la imposición de las sanciones que co
 
 En protección del interés público, la Comisión divulgará las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, señalando exclusivamente la persona sancionada, el precepto infringido y la sanción.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 138 Bis.
 
-Las instituciones de seguros se abstendrán, sin causa de responsabilidad, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por los artículos 29, fracciones I Bis, último párrafo, y II, 33 G y 33 H de esta Ley, debiendo informar tal circunstancia a la Comisión Nacional de Seguros y Fianzas, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
+Las instituciones de seguros se abstendrán, en su caso, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por los artículos 29, fracciones I Bis, último párrafo, y II, 33 G y 33 H de esta Ley, y deberán informar tal circunstancia a la Comisión Nacional de Seguros y Fianzas, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
 
-Las adquisiciones que contravengan lo previsto en los artículos 29, fracciones I Bis, último párrafo, y II, 33 G y 33 H de esta Ley estarán afectadas de nulidad relativa, en cuyo caso las personas que hubieren adquirido las acciones no podrán ejercer los derechos sociales y económicos derivados de las acciones de que se trate.
+Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital social de una institución de seguros, se realicen en contravención a lo dispuesto por los artículos 29, fracciones I Bis, último párrafo, y II, 33 G y 33 H de esta Ley, los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de la institución de seguros quedarán en suspenso y por lo tanto no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda o que se han satisfecho los requisitos que esta Ley contempla.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -5168,3 +5214,23 @@ Vigésima Cuarta.- Lo dispuesto en los artículos 276 y 283 de la Ley de Institu
 Vigésima Quinta.- Las pólizas de fianza y los contratos de afianzamiento que se hayan suscrito con anterioridad a la fecha de entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, no quedarán afectados en su existencia o validez y no será necesario que sean ratificados o convalidados por esa causa.
 
 Vigésima Sexta.- A las personas que hubieren cometido infracciones o delitos con anterioridad a la entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, les serán aplicables las disposiciones vigentes al momento en que se hubieren realizado dichas conductas, salvo que las disposiciones de este Decreto les resulten favorables, en cuyo caso se aplicarán éstas. Lo dispuesto en el artículo 482 de la Ley de Instituciones de Seguros y de Fianzas, sólo será aplicable a las infracciones que se cometan a partir de su entrada en vigor.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
