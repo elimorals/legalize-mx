@@ -4,7 +4,7 @@ identifier: "LISF"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-04"
-last_updated: "2013-04-04"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93451&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS
 
 > <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA PRIMERA DE LA PRESENTE LEY, ENTRARÁ EN VIGOR A LOS SETECIENTOS TREINTA DÍAS NATURALES SIGUIENTES A LA PUBLICACIÓN.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Segunda y Tercera Sección del Diario Oficial de la Federación, el jueves 4 de abril de 2013.
 
@@ -710,7 +710,11 @@ Las acciones deberán pagarse íntegramente en el acto de ser suscritas. En caso
 
 El capital social de las Instituciones podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al 30% del capital pagado, previa autorización de la Comisión.
 
-La adquisición de acciones de voto limitado no estará sujeta a lo establecido en la fracción II del artículo 50 de esta Ley. Estas acciones no computarán para efecto del límite establecido en el penúltimo párrafo de la fracción I del artículo 50 de este ordenamiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINCUAGÉSIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La adquisición de acciones de voto limitado no estará sujeta a lo establecido en la fracción II del artículo 50 de esta Ley.
 
 Las acciones de voto limitado otorgarán derecho de voto únicamente en los asuntos relativos a cambio de objeto, fusión, escisión, transformación, disolución y liquidación, así como cancelación de su inscripción en cualquier bolsa de valores.
 
@@ -732,11 +736,33 @@ Lo dispuesto en el párrafo anterior no será aplicable cuando la participación
 
 La Comisión podrá autorizar a las instituciones de crédito para que adquieran acciones de Instituciones y de las sociedades a que se refiere el artículo 52 de este ordenamiento, actuando como fiduciarias en fideicomisos que no se utilicen como medio para contravenir lo dispuesto en esta Ley.
 
-Las entidades aseguradoras, afianzadoras, reaseguradoras o reafianzadoras del exterior, así como las personas físicas o morales extranjeras distintas de las excluidas en el primer párrafo de esta fracción, podrán adquirir acciones representativas del capital de estas Instituciones. La inversión mexicana siempre deberá mantener la facultad de determinar el manejo de las Instituciones y su Control.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINCUAGÉSIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-A tal efecto, la inversión extranjera deberá hacerse constar en una serie especial de acciones representativas del capital de la sociedad correspondiente, misma que en ningún caso podrá rebasar el 49% del capital pagado de la sociedad.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-No podrán participar en forma alguna en el capital de las Instituciones, personas morales extranjeras que ejerzan funciones de autoridad;
+Las entidades aseguradoras, afianzadoras, reaseguradoras o reafianzadoras del exterior, así como las personas físicas o morales extranjeras distintas de las excluidas en el primer párrafo de esta fracción, podrán adquirir acciones representativas del capital de estas Instituciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINCUAGÉSIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINCUAGÉSIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los gobiernos extranjeros no podrán participar, directa o indirectamente, en el capital de las Instituciones, con excepción de los casos siguientes:
+
+a) Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
+
+Las Instituciones que se ubiquen en lo dispuesto en este inciso, deberán entregar a la Comisión, la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto. La Comisión tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información y documentación correspondiente, para resolver, previo acuerdo de su Junta de Gobierno, si la participación de que se trata, se ubica en el supuesto de excepción previsto en este inciso.
+
+b) Cuando la participación correspondiente implique que se tenga el Control de la Institución, en términos del artículo 2 de esta Ley, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que:
+
+1. No ejercen funciones de autoridad, y
+
+2. Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+c) Cuando la participación correspondiente sea indirecta y no implique que se tenga el Control de la Institución, en términos del artículo 2 de esta Ley. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
 
 II. Cuando se pretenda adquirir directa o indirectamente más del 5% del capital social pagado, o bien, otorgar garantía sobre las acciones que representen dicho porcentaje, se deberá obtener previamente la autorización de la Comisión, la que podrá otorgarla discrecionalmente. En estos casos, las personas que pretendan realizar la adquisición o afectación mencionada deberán acreditar el cumplimiento de los requisitos establecidos en la fracción II del artículo 41 de esta Ley, así como proporcionar a la Comisión la información que, para tal efecto, con acuerdo de su Junta de Gobierno, establezca mediante disposiciones de carácter general buscando preservar el sano desarrollo de los sistemas asegurador y afianzador.
 
@@ -768,11 +794,15 @@ IV. Las personas que adquieran o transmitan acciones por más del 2% del capital
 
 V. Las Instituciones deberán proporcionar a la Comisión la información que ésta les requiera con respecto a las personas que directa o indirectamente hayan adquirido las acciones representativas de su capital social pagado, en la forma y sujetándose a las condiciones que dicha Comisión establezca mediante disposiciones de carácter general.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINCUAGÉSIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 51.
 
-Las Instituciones se abstendrán, sin causa de responsabilidad, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por los artículos 50, 79 y 80 de esta Ley, y deberán informar tal circunstancia a la Comisión, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
+Las Instituciones se abstendrán, en su caso, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por los artículos 50, 79 y 80 de esta Ley, y deberán informar tal circunstancia a la Comisión, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
 
-Las adquisiciones de acciones y demás actos jurídicos para obtener el Control de una Institución, que se realicen en contravención a lo dispuesto por los artículos 50, 79 y 80 de este ordenamiento, estarán afectos de nulidad y no surtirán efectos hasta que se acredite que se ha obtenido la autorización que corresponda, de modo que las personas que las hubieren adquirido o los hayan celebrado no podrán ejercer los derechos corporativos y patrimoniales respectivos. Una vez obtenidas las autorizaciones correspondientes, las adquisiciones y actos antes referidos serán convalidados.
+Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital social de una Institución, se realicen en contravención a lo dispuesto por los artículos 50, 79 y 80 de esta Ley, los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de la Institución quedarán en suspenso y por lo tanto no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda o que se han satisfecho los requisitos que esta Ley contempla.
 
 ###### ARTÍCULO 52.
 
@@ -1292,7 +1322,11 @@ Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad 
 
 Las personas que pretendan adquirir, directa o indirectamente, acciones Serie “E” representativas del capital social de una Filial, deberán obtener previamente la autorización de la Comisión, quien podrá otorgarla discrecionalmente, con aprobación de su Junta de Gobierno.
 
-Las autorizaciones anteriores estarán sujetas a las disposiciones de carácter general que emita dicha Comisión propiciando el sano desarrollo de los sistemas asegurador y afianzador, y se otorgarán, en su caso, sin perjuicio de lo establecido por el artículo 50 de esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINCUAGÉSIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las autorizaciones anteriores estarán sujetas a las disposiciones de carácter general que emita dicha Comisión propiciando el sano desarrollo de los sistemas asegurador y afianzador. En el otorgamiento de dichas autorizaciones, se observará, en lo conducente, lo establecido por el artículo 50 de esta Ley, incluyendo lo relativo a la participación de gobiernos extranjeros en el capital de las Instituciones.
 
 ###### ARTÍCULO 81.
 
@@ -5292,6 +5326,14 @@ XXII. Nombrar y remover, a propuesta del Presidente de la Comisión, a su secret
 
 XXIII. Aprobar las condiciones generales de trabajo que, a propuesta del Presidente, deban observarse entre la Comisión y su personal;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO QUINCUAGÉSIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XXIII Bis. Aprobar anualmente los programas para el otorgamiento de estímulos económicos a los funcionarios de la Comisión, por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano.
+
+Los estímulos económicos tendrán como objetivo reconocer el esfuerzo laboral y la contribución de los funcionarios al logro de los objetivos de la Comisión, sujetándose a los límites y erogaciones que se aprueben para dichos conceptos en el Presupuesto de Egresos de la Federación;
+
 XXIV. Conocer y tomar en consideración el informe anual de labores desarrolladas por la Comisión, que le sea presentado por el Presidente de la misma;
 
 XXV. Resolver sobre otros asuntos que el Presidente de la Comisión someta a su consideración;
@@ -5388,7 +5430,13 @@ XXIII. Investigar aquellos actos de personas físicas y de personas morales que 
 
 XXIV. Ordenar la suspensión de operaciones o la intervención administrativa, según se prevea en este ordenamiento, de negociaciones, empresas o establecimientos de personas físicas o a las personas morales que, sin la autorización correspondiente, realicen actividades que la requieran en términos de esta Ley, o bien proceder a la clausura de sus oficinas;
 
-XXV. Formular y presentar para la aprobación de la Junta de Gobierno los presupuestos de ingresos y egresos de la Comisión, en los términos de las disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO QUINCUAGÉSIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XXV. Formular y presentar para la aprobación de la Junta de Gobierno los presupuestos de ingresos y egresos de la Comisión, en los términos de las disposiciones aplicables, así como los programas de estímulos económicos para los funcionarios de la Comisión, los cuales una vez aprobados por la Junta de Gobierno, serán sometidos a la autorización de la Secretaría.
+
+La Secretaría establecerá criterios en materia de estímulos económicos que deberán ser observados por el Presidente de la Comisión en su propuesta a la Junta de Gobierno. Asimismo, la Comisión proporcionará a la citada Secretaría la información que solicite;
 
 XXVI. Formular y publicar estadísticas y documentos relativos al comportamiento, organización y funcionamiento de los sistemas asegurador y afianzador;
 
@@ -7075,3 +7123,25 @@ Vigésima Sexta.- A las personas que hubieren cometido infracciones o delitos co
 México, D.F., a 28 de febrero de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de marzo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
