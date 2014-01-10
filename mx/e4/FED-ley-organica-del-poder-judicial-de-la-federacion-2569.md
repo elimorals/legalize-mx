@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2013-12-11"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -886,11 +886,31 @@ VI. De las controversias ordinarias en que la federación fuere parte;
 
 VII. De las acciones colectivas a que se refiere el Libro Quinto del Código Federal de Procedimientos Civiles, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO VIGÉSIMO QUINTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(ADICIONADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-VIII. De los asuntos de la competencia de los juzgados de distrito en materia de procesos federales que no estén enumerados en los artículos 50, 52 y 55 de esta ley.
+VIII. De los asuntos de la competencia de los juzgados de distrito que no estén enumerados en los artículos 50, 52, 53 bis y 55 de esta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO VIGÉSIMO QUINTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Artículo 53 bis.- Los jueces de distrito mercantiles federales conocerán:
+
+I. De las controversias del orden mercantil cuando el actor no haya optado por iniciar la acción ante los jueces y tribunales del orden común conforme a lo dispuesto por el artículo 104, fracción II de la Constitución Política de los Estados Unidos Mexicanos. En estos casos no podrá declinarse la competencia en favor de dichos jueces y tribunales;
+
+II. De todas las controversias en materia concursal;
+
+III. De los juicios mercantiles en los que la Federación sea parte;
+
+IV. De los juicios mercantiles que se susciten entre una entidad federativa y uno o más vecinos de otra, siempre que alguna de las partes contendientes esté bajo la jurisdicción del juez;
+
+V. De las diligencias de jurisdicción voluntaria que se promuevan en materia mercantil cuyo valor exceda de una cantidad equivalente a un millón de Unidades de Inversión por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la solicitud;
+
+VI. Del reconocimiento y ejecución de laudos arbitrales comerciales cualquiera que sea el país en que haya sido dictado, y de la nulidad de laudos arbitrales comerciales nacionales o internacionales cuando el lugar del arbitraje se encuentre en territorio nacional, y
+
+VII. De las acciones colectivas mercantiles a que se refiere el Libro Quinto del Código Federal de Procedimientos Civiles.
 
 ###### ARTICULO 54.
 
@@ -3462,7 +3482,7 @@ D.O.F. 7 DE NOVIEMBRE DE 1996.
 
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Los artículos 167, fracción IX, y 196 bis del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal.
+SEGUNDO.- Los artículos 167, fracción IX, y l96 bis del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal.
 
 D.O.F. 22 DE NOVIEMBRE DE 1996.
 
@@ -3512,7 +3532,7 @@ CUARTO.- Se autoriza al titular del Poder Ejecutivo Federal para que por conduct
 
 QUINTO.- Los criterios de jurisprudencia sostenidos por la Sala Central y la Sala de Segunda Instancia del Tribunal Federal Electoral, según corresponda, continuarán siendo aplicables en tanto no se opongan a las reformas establecidas en los artículos SEGUNDO, TERCERO y CUARTO del presente Decreto.
 
-Para que los criterios de jurisprudencia a que se refiere el párrafo anterior resulten obligatorios, se requerirá de la declaración formal de la Sala Superior del Tribunal Electoral. Hecha la declaración, la jurisprudencia se notificará de inmediato a las Salas Regionales, al Instituto Federal Electoral, y, en su caso, a las autoridades electorales locales.
+Para que los criterios de jurisprudencia a que se refiere el párrafo anterior resulten obligatorios, se requerirá de la declaración formal de la Sala Superior del Tribunal Electoral. Hecha la declaración, la jurisprudencia se notificará de inmediato a las Salas Regionales, al Instituto Federal Electoral y, en su caso, a las autoridades electorales locales.
 
 D.O.F. 23 DE ENERO DE 1998.
 
@@ -3705,3 +3725,25 @@ Tercero.- En tanto se expiden las adecuaciones al Reglamento de la Ley Orgánica
 D.O.F. 11 DE DICIEMBRE DE 2013.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+###### ARTÍCULO VIGÉSIMO QUINTO.
+
+En relación con las modificaciones a que se refieren los Artículos Vigésimo Segundo a Vigésimo Cuarto de este Decreto, se estará a lo siguiente:
+
+I. La reforma al artículo 53 y lo dispuesto en el artículo 53 bis de la Ley Orgánica del Poder Judicial de la Federación que se adiciona, entrarán en vigor a los 6 meses siguientes al día de su publicación en el Diario Oficial de la Federación, excepto por lo que respecta a las fracciones I, V y VI del artículo 53 bis, las cuales entrarán en vigor a los 12 meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+II. Los juicios mercantiles que a la fecha de entrada en vigor de esta ley se encuentren radicados en los juzgados de distrito, deberán seguir siendo tramitados y resueltos por estos.
+
+III. El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+IV. Los contratos de prenda celebrados con anterioridad a la fecha de entrada en vigor del artículo 336 Bis de la Ley General de Títulos y Operaciones de Crédito que se adiciona, seguirán sujetos a las disposiciones que les resulten aplicables al momento de su celebración.
+
+V. Las normas procesales contenidas en el presente Decreto no serán aplicables a los asuntos cuya demanda haya sido admitida con anterioridad a la fecha de su entrada en vigor.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
