@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2013-09-06"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -354,7 +354,9 @@ Las modificaciones a los programas serán notificadas al Registro de Planes y Pr
 
 Las inscripciones contenidas en el Registro de Planes y Programas de Desarrollo Urbano son obligatorias para autoridades y particulares y sólo podrán ser modificadas por determinación de las autoridades competentes para autorizar modificaciones a los programas y aquellos actos o programas incidan que (sic) en el territorio del Distrito Federal.
 
-En todo acto jurídico relacionado con inmuebles ubicados en el Distrito Federal, otorgado ante notario público, se hará constar la inscripción correspondiente en el Registro de Planes y Programas de Desarrollo Urbano.
+> <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
+
+En todo acto jurídico traslativo de dominio relacionado con inmuebles ubicados en el Distrito Federal, previo a su otorgamiento ante notario público, es requisito indispensable que el fedatario obtenga de la Secretaría el certificado único de zonificación o certificado de acreditación de uso de suelo por derechos adquiridos, de igual forma, se hará constar la inscripción correspondiente en el Registro de Planes y Programas de Desarrollo Urbano.
 
 La Secretaría enviará en un plazo que no exceda de 20 días hábiles, copia de las calificaciones de mejoramiento que inscriba o cancele en el Registro de Planes y Programas, a los demás registros inmobiliarios, administrativos o fiscales, del Distrito Federal o de la Federación, según su competencia, para su inscripción en relación con los predios materia de dichas calificaciones.
 
@@ -1268,7 +1270,15 @@ V. La prohibición de actos de utilización; y
 
 VI. La demolición de construcciones.
 
+> <small>(REFORMADA [N.DE E. ADICIONADA], G.O. 10 DE ENERO DE 2014)</small>
+
+VII. La Secretaría y las Delegaciones podrán ordenar al Registro Público de la Propiedad y de Comercio del Distrito Federal, la custodia del folio real del predio de manera fundada y motivada, cuando se trate de un procedimiento administrativo de revocación, relacionado con desarrollo urbano, construcciones, inmuebles u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la resolución del fondo del asunto.
+
 Las medidas de seguridad serán ordenadas por las autoridades competentes del Distrito Federal en caso de riesgo. El reglamento establecerá las disposiciones aplicables a los inmuebles afectos al patrimonio cultural urbano que se encuentren en situación de riesgo. Las medidas de seguridad son de inmediata ejecución, tienen carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan por las infracciones cometidas. La aplicación de estas medidas se sujetará a lo dispuesto en la Ley de Protección Civil y la Ley de Procedimiento Administrativo, ambas del Distrito Federal.
+
+> <small>(REFORMADO [N.DE E. ADICIONADO], G.O. 10 DE ENERO DE 2014)</small>
+
+También podrán ordenar la custodia del folio real del predio, relacionado con desarrollo urbano, construcciones, inmuebles u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la resolución del fondo del asunto.
 
 ### Capítulo Segundo. De las Sanciones
 
@@ -1479,3 +1489,13 @@ Primero. Túrnese el presente Decreto al Jefe de Gobierno para efectos de su pro
 Segundo. El presente Decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero. Los trámites ingresados y en proceso de modificación se sujetaran al procedimiento vigente al momento de inicio del trámite administrativo.
+
+G.O. 10 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
