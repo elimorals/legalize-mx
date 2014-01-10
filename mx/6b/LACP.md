@@ -4,7 +4,7 @@ identifier: "LACP"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-04"
-last_updated: "2009-08-13"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21346&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LACP"
 ---
 # LEY DE AHORRO Y CREDITO POPULAR
 
-LEY DE AHORRO Y CREDITO POPULAR
+LEY DE AHORRO Y CRÉDITO POPULAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de junio de 2001.
 
@@ -256,15 +256,13 @@ Las personas morales ya constituidas, que conforme al Artículo 9 de esta Ley so
 
 En el evento de que la Comisión otorgue su autorización en términos del Artículo 9 de esta Ley, a personas morales que al momento en que dicha autorización entre en vigor, gocen de otra autorización para constituirse, organizarse, funcionar y operar, según sea el caso, como entidades financieras de otra naturaleza, esa otra autorización quedará sin efectos por ministerio de Ley, sin que resulte necesaria la emisión de una declaratoria expresa al respecto, por parte de la autoridad que la haya otorgado.
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL D.O.F. 10 DE ENERO DE 2014, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE DOS FRACCIONES.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 12.
 
-Las Sociedades Financieras Populares deberán constituir los fondos sociales siguientes:
-
-I. De reserva, y
-
-II. De obra social.
+Las Sociedades Financieras Populares deberán constituir un fondo social de reserva.
 
 > <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
@@ -272,21 +270,13 @@ II. De obra social.
 
 Las Sociedades Financieras Populares deberán constituir un fondo de reserva, el cual se integrará por lo menos con el diez por ciento de las utilidades de dichas sociedades que se obtengan en cada ejercicio social, hasta alcanzar un monto equivalente a, por lo menos, el diez por ciento de su capital contable.
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
-
 ###### Artículo 14.
 
-El fondo de obra social se constituirá mediante aportaciones anuales que resulten de aplicar el porcentaje de utilidades que, en su caso, sea determinado por la Asamblea General, el cual no podrá ser inferior al 5 por ciento de las referidas utilidades y se establecerá en los términos del Artículo siguiente. No obstante lo anterior, las Sociedades Financieras Populares deberán suspender las aportaciones al fondo de obra social cuando no cumpla con los requerimientos de capitalización establecidos por el Artículo 116 de la presente Ley.
-
-El fondo de obra social que se constituya conforme a este Artículo, será administrado por el Consejo de Administración de la Sociedad Financiera Popular con base en los lineamientos establecidos por la asamblea. Dicho consejo deberá elaborar un informe anual sobre la realización de obras sociales, el cual se integrará al informe anual de la Sociedad Financiera Popular que será hecho del conocimiento de su asamblea y de la Secretaría.
-
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 15.
 
-El fondo de obra social se destinará a la realización de obras sociales en los términos que establezcan los estatutos de la Sociedad Financiera Popular.
-
-Al inicio de cada ejercicio la asamblea ordinaria de la Sociedad Financiera Popular, fijará las prioridades para la aplicación de este fondo, de conformidad con las perspectivas económicas de la Sociedad.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 16.
 
@@ -302,7 +292,9 @@ Al inicio de cada ejercicio la asamblea ordinaria de la Sociedad Financiera Popu
 
 La administración de las Sociedades Financieras Populares estará encomendada a un Consejo de Administración y a un director o gerente general, en sus respectivas esferas de competencias.
 
-El Consejo de Administración de las Sociedades Financieras Populares estará integrado por no menos de cinco personas ni más de quince. Los consejeros desempeñarán su encargo por un periodo de hasta cinco años, según se establezca en estatutos, con posibilidad de una sola reelección. Por cada consejero propietario se podrá designar un suplente.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+El Consejo de Administración de las Sociedades Financieras Populares estará integrado por no menos de cinco personas ni más de quince de los cuales por lo menos el veinticinco por ciento deben ser independientes. Por cada consejero propietario se podrá designar un suplente.
 
 Asimismo, el Consejo de Administración deberá contar con un comité de auditoría, el cual tendrá carácter consultivo. La Comisión establecerá mediante disposiciones de carácter general, las funciones mínimas que deberá realizar el comité de auditoría, así como las normas relativas a su integración, periodicidad de sus sesiones y la oportunidad y suficiencia de la información que deba considerar.
 
@@ -552,19 +544,19 @@ Las Sociedades Financieras Populares deberán dar contestación a los requerimie
 
 La Comisión emitirá disposiciones de carácter general en las que establezca los requisitos que deberán reunir las solicitudes o requerimientos de información que formulen las autoridades a que se refiere este Artículo, a efecto de que las Sociedades Financieras Populares requeridas estén en aptitud de identificar, localizar y aportar las noticias o información solicitadas.
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 35.
 
-Las Sociedades Financieras Populares no podrán celebrar operaciones en las que resulten o puedan resultar deudores de las mismas, las personas siguientes:
+Las Sociedades Financieras Populares requerirán del acuerdo de, por lo menos, tres cuartas partes de los consejeros que estén presentes en las sesiones del consejo de administración, para aprobar la celebración de operaciones con personas relacionadas.
+
+Serán operaciones con personas relacionadas, las celebradas por las Sociedades Financieras Populares, en las que resulten o puedan resultar deudores de las mismas, las personas que se indican a continuación:
 
 I. Las personas físicas o morales que posean directa o indirectamente el control del uno por ciento o más de los títulos representativos del capital de una Sociedad Financiera Popular, de acuerdo al registro de socios más reciente;
 
 II. Los miembros del Consejo de Administración de la Sociedad Financiera Popular, así como los auditores externos y comisarios, sus funcionarios o empleados o las personas distintas a éstos que con su firma puedan obligar a la Sociedad Financiera Popular de que se trate.
 
-Se entenderá por funcionario, al director o gerente general y a los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquéllos.
-
-No se considerarán dentro de esta prohibición los créditos o préstamos de carácter laboral de las Sociedades Financieras Populares, en las que puedan resultar deudores de éstas, sus funcionarios o empleados o las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que las propias Sociedades Financieras Populares otorguen para la realización de las actividades que le son propias, siempre que se trate de alguna de las operaciones siguientes:
+No se considerarán operaciones con personas relacionadas los créditos o préstamos de carácter laboral de las Sociedades Financieras Populares, en las que puedan resultar deudores de éstas, sus funcionarios o empleados o las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que las propias Sociedades Financieras Populares otorguen para la realización de las actividades que le son propias, siempre que se trate de alguna de las operaciones siguientes:
 
 a) Créditos o préstamos que constituyan prestaciones de carácter laboral otorgadas de manera general, o
 
@@ -572,23 +564,65 @@ b) Créditos o préstamos denominados en moneda nacional documentados en tarjeta
 
 III. Los cónyuges y las personas que tengan parentesco con las personas señaladas en las fracciones anteriores.
 
-Se entenderá por parentesco, al que existe por consanguinidad y afinidad en línea recta en primer grado, y por consanguinidad y afinidad en línea colateral en primer grado o civil;
-
 IV. Las personas morales, así como los consejeros y funcionarios de éstas, en las que la Sociedad Financiera Popular posea directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital;
 
 V. Las personas morales en las que cualesquiera de las personas señaladas en las fracciones anteriores, así como los funcionarios, empleados, auditores externos y comisarios de la Sociedad Financiera Popular, los ascendientes y descendientes en primer grado, así como sus cónyuges, posean directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital, y
 
 VI. Las personas morales en las que los funcionarios, auditores externos y comisarios de las Sociedades Financieras Populares sean consejeros o administradores u ocupen cualquiera de los tres primeros niveles jerárquicos en dichas personas morales.
 
-Asimismo, se considerará una operación con persona relacionada, aquélla que se realice a través de cualquier persona o fideicomiso, cuando la contraparte y fuente de pago de dicha operación dependa de una de las personas relacionadas a que se refiere este Artículo.
+Asimismo, se considerará una operación con persona relacionada, aquélla que se realice a través de cualquier persona o fideicomiso, cuando la contraparte y fuente de pago de dicha operación dependa de una de las personas relacionadas a que se refiere este artículo.
 
 No se considerarán operaciones con personas relacionadas, los créditos de carácter laboral que la Sociedad Financiera Popular otorgue a sus trabajadores, distintos a los señalados en las fracciones anteriores.
 
-No obstante lo anterior, las Sociedades Financieras Populares con Nivel de Operaciones I y II que operen de manera exclusiva en Zonas Rurales podrán celebrar operaciones con personas relacionadas a las que se refieren las fracciones I a VI del presente Artículo, siempre y cuando se cuente con el acuerdo de, por lo menos, las tres cuartas partes de los consejeros que estén presentes en las sesiones del Consejo de Administración.
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-No requerirán de la autorización a que se refiere el párrafo anterior, las operaciones con personas relacionadas cuyo importe en su conjunto no exceda de cien mil unidades de inversión o el uno por ciento del capital social pagado de la Sociedad, el que sea menor, a otorgarse en favor de una misma persona física o moral o grupo de personas físicas o morales que por sus nexos patrimoniales o de responsabilidad, constituyan riesgos comunes para una Sociedad Financiera Popular; sin embargo, deberán hacerse del conocimiento del Consejo de Administración y poner a su disposición toda la información relativa a las mismas.
+###### Artículo 35 Bis.
 
-La suma total de los montos dispuestos y las líneas de crédito irrevocables contratadas de las operaciones con personas relacionadas de las Sociedades Financieras Populares con Nivel de Operaciones I y II que operen de manera exclusiva en Zonas Rurales, no podrá exceder del diez por ciento del capital social pagado de la Sociedad de que se trate, incluidas las reservas de capital y las utilidades acumuladas.
+Las operaciones con personas relacionadas que deban ser sometidas a la aprobación del consejo de administración, se presentarán por conducto y con la opinión favorable del comité de crédito respectivo. De otorgarse la aprobación, la Sociedad Financiera Popular deberá presentar a la Comisión Nacional Bancaria y de Valores, copia certificada del acuerdo en el que conste la aprobación del consejo e informarle del otorgamiento y, en su caso, renovación, así como la forma de pago o extinción de estos créditos, en los términos que señale la propia Comisión.
+
+No requerirán de la autorización a que se refiere el artículo anterior, las operaciones con personas relacionadas cuyo importe en su conjunto no exceda de cincuenta mil unidades de inversión o el cero punto veinticinco por ciento del capital neto de la Sociedad Financiera Popular, el que sea menor, a otorgarse en favor de una misma persona física o moral o grupo de personas físicas o morales que por sus nexos patrimoniales o de responsabilidad, constituyan riesgos comunes para una Sociedad Financiera Popular; sin embargo, deberán hacerse del conocimiento del Consejo de Administración y poner a su disposición toda la información relativa a las mismas.
+
+El consejo de administración de las Sociedades Financieras Populares podrá delegar sus facultades a un comité de consejeros, cuya función será exclusivamente la aprobación de operaciones con personas relacionadas, en aquellas operaciones donde el importe no exceda de setenta y cinco mil unidades de inversión o el cero punto cincuenta por ciento del capital neto de la Sociedad, el que sea menor. Dicho comité se integrará por un mínimo de cuatro y un máximo de siete consejeros, de los cuales, por lo menos, una tercera parte deberán ser consejeros independientes, en términos de lo dispuesto en el artículo 18 de la presente Ley.
+
+En dicho comité no podrá haber más de un consejero que, a la vez, sea funcionario o empleado de la Sociedad Financiera Popular, de los integrantes del grupo financiero al que esta pertenezca, o de la propia sociedad controladora.
+
+Las resoluciones del comité a que se refiere el párrafo anterior, requerirán del acuerdo de las tres cuartas partes de los miembros presentes en la sesión.
+
+El citado comité deberá presentar un informe de su gestión al consejo de administración con la periodicidad que éste le indique, sin que ésta exceda de ciento ochenta días.
+
+La suma total de las operaciones con personas relacionadas no podrá exceder del diez por ciento del capital neto de la Sociedad Financiera Popular, previsto por los lineamientos a que se refiere la fracción VI del artículo 116 de la presente Ley. Tratándose de préstamos o créditos revocables, computará para este límite únicamente la parte dispuesta.
+
+En todos los casos de operaciones con personas relacionadas, se informará al comité de crédito de la Sociedad de que se trate o al consejo de administración, según sea el caso, el monto agregado de otras operaciones de crédito otorgadas a personas que sean consideradas como relacionadas con el funcionario, consejero o accionista de que se trate.
+
+Para los efectos de los párrafos anteriores, el capital neto que deberá utilizarse será la (sic) correspondiente al último día hábil del trimestre calendario inmediato anterior a la fecha en que se efectúen los cálculos.
+
+Asimismo, la Comisión Nacional Bancaria y de Valores dictará disposiciones de carácter general, tendientes a regular las operaciones con personas relacionadas señaladas en los artículos 35, 35 Bis y 35 Bis 1 de esta Ley.
+
+Las Sociedades Financieras Populares deberán solicitar la información correspondiente, a las personas a que se refieren las fracciones de la I a la VI del artículo 35, de conformidad con las reglas mencionadas en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 35 Bis 1.
+
+Para los efectos señalados en los artículos 35 y 35 Bis, se entenderá por:
+
+I. Parentesco.- al que existe por consanguinidad y afinidad en línea recta en primer grado, y por consanguinidad y afinidad en línea colateral en segundo grado o civil.
+
+II. Funcionarios.- al director general o el cargo equivalente y a los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquél.
+
+III. Interés Directo.- cuando el carácter de deudor en la operación con personas relacionadas, lo tenga el cónyuge del consejero o funcionario, o las personas con las que tenga parentesco, o bien, una persona moral respecto de la cual alguna de las personas antes mencionadas, detente directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital.
+
+IV. Poder de mando.- La capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o sesiones del consejo de administración o en la gestión, conducción y ejecución de los negocios de la Sociedad Financiera Popular de que se trate.
+
+Se presume que tienen poder de mando en una Sociedad Financiera Popular, salvo prueba en contrario, las personas que se ubiquen en cualquiera de los supuestos siguientes:
+
+a) Los accionistas que tengan el control de la administración.
+
+b) Los individuos que tengan vínculos con la Sociedad Financiera Popular o las personas morales que integran el grupo empresarial o consorcio al que aquella pertenezca, a través de cargos vitalicios, honoríficos o con cualquier otro título análogo o semejante a los anteriores.
+
+c) Las personas que hayan transmitido el control de la Sociedad Financiera Popular bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, en favor de individuos con los que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario.
+
+d) Quienes instruyan a consejeros o directivos relevantes de la Sociedad Financiera Popular, la toma de decisiones o la ejecución de operaciones en la propia Sociedad.
 
 > <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
@@ -664,11 +698,17 @@ b) Celebrar contratos de arrendamiento financiero con sus Clientes.
 
 c) Prestar servicios de caja y tesorería.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+d) Actuar como Fiduciaria en los fideicomisos de garantía a que se refiere la Ley General de Títulos y Operaciones de Crédito.
+
 IV. Sociedades Financieras Populares con Nivel de Operaciones IV:
 
 a) Las operaciones señaladas en las fracciones I, II y III anteriores.
 
-b) Emitir títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+b) Emitir títulos de crédito, en serie o en masa.
 
 c) Emitir obligaciones subordinadas.
 
@@ -684,7 +724,7 @@ h) Realizar inversiones en acciones de Administradoras de Fondos para el Retiro,
 
 i) Ofrecer y distribuir, entre sus Socios las acciones de las sociedades de inversión operadas por las Sociedades Operadoras de Sociedades de Inversión a que hace referencia la fracción anterior o por aquellas en cuyo capital participen indirectamente, así como promocionar la afiliación de trabajadores a las Administradoras de Fondos para el Retiro en cuyo capital participen directa o indirectamente.
 
-La Comisión podrá autorizar a las Sociedades Financieras Populares la realización de las operaciones a que se refiere el inciso a) de la fracción I del presente Artículo, una vez transcurridos dos años contados a partir del inicio de operaciones de la Sociedad Financiera Popular de que se trate, salvo que la Comisión les autorice a dichas sociedades la celebración de las referidas operaciones en un plazo menor, siempre que éstas acrediten una adecuada gestión de sus operaciones crediticias.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Asimismo, la Comisión podrá autorizar a las Sociedades Financieras Populares la realización de operaciones análogas o conexas a las señaladas en este Artículo, incluyendo el otorgamiento de garantías a que se refiere el Artículo 92 de esta Ley.
 
@@ -796,6 +836,82 @@ II. Su cartera u otros activos, tratándose de la transmisión o suscripción de
 
 Durante los procesos de negociación a que se refiere este Artículo, los participantes deberán guardar la debida confidencialidad sobre la información a que tengan acceso con motivo de los mismos.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 36 Bis 3.
+
+Las Sociedades Financieras Populares podrán contratar con terceros incluyendo a otras Sociedades Financieras Populares o entidades financieras, la prestación de los servicios necesarios para su operación, así como comisiones para realizar las operaciones a que se refiere el artículo 36 de esta Ley, de conformidad con las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores, previo acuerdo de su Junta de Gobierno.
+
+Las operaciones que lleven a cabo los comisionistas deberán realizarse a nombre y por cuenta de las Sociedades Financieras Populares con las que celebren los actos jurídicos mencionados en el primer párrafo de este artículo. Asimismo, los instrumentos jurídicos que documenten las comisiones deberán prever que las Sociedades Financieras Populares responderán por las operaciones que los comisionistas celebren por cuenta de dichas Sociedades, aun cuando estas se lleven a cabo en términos distintos a los previstos en tales instrumentos jurídicos. Las disposiciones de carácter general a que se refiere el primer párrafo de este artículo, deberán contener, entre otros, los siguientes elementos:
+
+I. Los lineamientos técnicos y operativos que deberán observarse para la realización de tales operaciones, así como para salvaguardar la confidencialidad de la información de los usuarios de las Sociedades Financieras Populares y proveer que en la celebración de dichas operaciones se cumplan las disposiciones aplicables;
+
+II. Las características de las personas físicas o morales que podrán ser contratadas por las Sociedades Financieras Populares como terceros en términos del presente artículo. Tratándose de entidades de la Administración Pública Federal o Estatal, las disposiciones solo podrán incluir aquellas facultadas expresamente por su ley o reglamento para prestar los servicios o comisiones de que se trate;
+
+III. Los requisitos respecto de los procesos operativos y de control que las Sociedades Financieras Populares deberán exigir a los terceros contratados;
+
+IV. El tipo de operaciones que podrán realizarse a través de terceros, quedando facultada la Comisión para señalar el tipo de operaciones en las que se requerirá de su autorización previa;
+
+V. Los contratos de prestación de servicios o comisiones que las Sociedades Financieras Populares están obligadas a entregar a la Comisión, así como la forma, condiciones y plazos de dicha entrega;
+
+VI. Los límites aplicables a las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia Sociedad Financiera Popular, observando en todo caso, respecto de las operaciones previstas en el inciso a) de la fracción I del artículo 36 de esta Ley, lo siguiente:
+
+a) Individuales, por tipo de operación y cliente, los cuales no excederán por comisionista de un monto diario equivalente en moneda nacional a 1,500 Unidades de Inversión, por cada tipo de inversión y cuenta, tratándose de retiros en efectivo, así como del equivalente en moneda nacional a 4,000 Unidades de Inversión respecto de depósitos en efectivo, y
+
+b) Agregados, que no excederán por comisionista de un monto mensual equivalente al cincuenta por ciento del importe total de las operaciones realizadas en el período por la Sociedad de que se trate. El límite a que se refiere este inciso, será de sesenta y cinco por ciento, durante los primeros dieciocho meses de operación con el comisionista. Para efectos de lo anterior se entenderá como un solo comisionista a un Grupo empresarial.
+
+Para efectos del párrafo anterior, se entenderá como Grupo empresarial el conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el control de dichas personas morales. Asimismo, se considerarán como Grupo empresarial a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras.
+
+La celebración de las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia Sociedad Financiera Popular a que se refiere el inciso a) de la fracción I del artículo 36 de esta Ley serán sujetas de la autorización a que se refiere la fracción IV de este artículo.
+
+Los límites a que se refiere la presente fracción no serán aplicables cuando:
+
+i. El tercero sea una entidad de la Administración Pública Federal, Estatal o Municipal;
+
+ii. Los terceros con los que se contrate sean instituciones de crédito, casas de bolsa, Sociedades Financieras Populares o Sociedades Cooperativas de Ahorro y Préstamo, en este último caso con excepción de aquellas que cuenten con nivel de operaciones básico:
+
+VII. Las políticas y procedimientos con que deberán contar las Sociedades Financieras Populares para vigilar el desempeño de los terceros que sean contratados, así como el cumplimiento de sus obligaciones contractuales, entre las cuales deberá preverse la obligación de dichos terceros de proporcionar a la Comisión Nacional Bancaria y de Valores, y a los auditores externos de las Sociedades, a solicitud de estas, los registros, la información y el apoyo técnico relativos a los servicios prestados a la Sociedad Financiera Popular;
+
+VIII. Las operaciones y servicios que las Sociedades Financieras Populares no podrán pactar que los terceros les proporcionen en forma exclusiva, y
+
+IX. Las características del padrón que deberán constituir las Sociedades Financieras Populares respecto de los prestadores de servicios o comisionistas que contraten, mismo que deberá estar a disposición de la Comisión Nacional Bancaria y de Valores para su consulta.
+
+Lo dispuesto en el artículo 34 de esta Ley le será también aplicable a los terceros a que se refiere el presente artículo, así como a los representantes, directivos y empleados de dichos terceros, aun cuando dejen de laborar o prestar sus servicios a tales terceros.
+
+La Comisión Nacional Bancaria y de Valores, previo derecho de audiencia que se otorgue a la Sociedad Financiera Popular, podrá ordenar la suspensión parcial o total, temporal o definitiva, de la prestación de los servicios o comisiones a través del tercero de que se trate, cuando se incumplan las disposiciones que se mencionan en este artículo o pueda verse afectada la continuidad operativa de la Sociedad Financiera Popular o en protección de los intereses del público. Lo anterior, salvo que la propia Comisión apruebe un programa de regularización que reúna los requisitos que al efecto se establezcan en las disposiciones de carácter general referidas.
+
+La Comisión Nacional Bancaria y de Valores formulará directamente a las Sociedades Financieras Populares y a los prestadores de servicios o comisionistas a que se refiere el artículo 36 Bis 3 de esta Ley, por conducto de dichas Sociedades, los requerimientos de información, incluyendo libros, registros y documentos, así como, en su caso, las observaciones y medidas correctivas que deriven de la supervisión que realice con motivo de las actividades que las Sociedades lleven a cabo a través de prestadores de servicios o comisionistas conforme a lo previsto en el presente artículo, para asegurar la continuidad de los servicios que las Sociedades proporcionan a sus clientes, la integridad de la información y el apego a lo establecido en esta Ley.
+
+Asimismo, la Comisión estará facultada, en todo momento, para efectuar actos de supervisión, inspección y vigilancia respecto de los prestadores de servicios o comisionistas que las Sociedades Financieras Populares contraten en términos de este artículo, así como practicar inspecciones a los terceros que contraten las Sociedades con respecto de las actividades contratadas, o bien, ordenar a las Sociedades realizar auditorías a dichos terceros, quedando obligada la propia Sociedad a rendir un informe a la Comisión al respecto. Las facultades de supervisión, inspección y vigilancia a que se refiere el presente párrafo respecto de los prestadores de servicios o comisionistas, también podrán ser ejercidas de manera auxiliar por las Federaciones autorizadas conforme al Título Tercero de esta Ley.
+
+La Comisión deberá especificar el objeto de las inspecciones o auditorías, las cuales deberán circunscribirse a la materia del servicio contratado y al cumplimiento de lo previsto en esta Ley y las disposiciones que de ella emanen. Al efecto, las Sociedades Financieras Populares deberán pactar en los contratos mediante los cuales se formalice la prestación de estos servicios o comisiones, la estipulación expresa del tercero contratado de que acepta apegarse a lo establecido en el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 36 Bis 4.
+
+La contratación de los servicios o comisiones a que se refiere el artículo 36 Bis 3 de esta Ley no eximirá a las Sociedades Financieras Populares, ni a sus directivos, delegados fiduciarios, empleados y demás personas que ocupen un empleo, cargo o comisión en la Sociedad, de la obligación de observar lo establecido en el presente ordenamiento legal y en las disposiciones de carácter general que emanen de éste.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 36 Bis 5.
+
+Cuando alguna persona auxilie a clientes de Sociedades Financieras Populares en la realización de operaciones propias de estas últimas, en ningún momento podrá:
+
+I. Llevar a cabo tales operaciones por cuenta propia;
+
+II. Determinar los plazos o tasas de las operaciones en las que intervenga;
+
+III. Obtener diferenciales de precios o de tasas por las operaciones en las que intervenga, o
+
+IV. En general, llevar a cabo actividades que requieran de autorización por parte del Gobierno Federal para operar con el carácter de entidad financiera de cualquier tipo.
+
+Las operaciones invariablemente deberán quedar documentadas a nombre del cliente respectivo.
+
+Las personas que ofrezcan auxilio a clientes de las Sociedades Financieras Populares al amparo de un mandato o comisión en términos del presente artículo deberán informar al cliente, al momento de proporcionarle el servicio, que no están autorizadas por el Gobierno Federal ni por las propias Sociedades Financieras Populares para asumir obligaciones a nombre y por cuenta de estas últimas y que no se encuentran supervisadas ni reguladas por las autoridades financieras, lo cual deberá constar en su publicidad o propaganda y en el contrato o en cualquier otro documento en que conste la encomienda respectiva.
+
+Las Sociedades Financieras Populares que establezcan relaciones o vínculos de negocio, de hecho o de derecho, con algún tercero para la recepción masiva de recursos en efectivo, que impliquen la captación de recursos de los clientes de Sociedades Financieras Populares o pago de créditos a favor de estas últimas, deberán celebrar con dichos terceros, un contrato de comisión mercantil para que estos actúen en todo momento frente al público, como sus comisionistas conforme a lo señalado en el artículo 36 Bis 3 de esta Ley.
+
 > <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 37.
@@ -870,6 +986,12 @@ El capital mínimo de las Sociedades Financieras Populares deberá estar íntegr
 
 Cuando una sociedad anuncie su capital social, deberá al mismo tiempo anunciar su capital pagado.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 42 Bis.
+
+En ningún caso el capital neto de una Sociedad Financiera Popular podrá ser inferior al capital mínimo previsto para esas sociedades de acuerdo a su Nivel de Operaciones de conformidad con el artículo 36 de esta Ley.
+
 > <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 43.
@@ -916,6 +1038,36 @@ Para efectos de lo descrito en este Artículo, se entenderá por control a la ca
 
 Las personas físicas y morales podrán adquirir o transmitir la propiedad de acciones de una Sociedad Financiera Popular hasta por un monto equivalente al diez por ciento del capital social de dicha Sociedad. En caso de que una persona pretenda adquirir o transmitir más del diez por ciento del capital social de una Sociedad Financiera Popular, deberá solicitar la autorización de la Comisión, previo dictamen favorable de la Federación que la supervise de manera auxiliar.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 45 Bis.
+
+Las Sociedades Financieras Populares podrán pactar la celebración de sus operaciones y la prestación de servicios con sus clientes mediante el uso de equipos, medios electrónicos, ópticos o de cualquier otra tecnología, sistemas automatizados de procesamiento de datos y redes de telecomunicaciones, ya sean privados o públicos, y establecerán en los contratos respectivos las bases para determinar lo siguiente:
+
+I. Las operaciones y servicios cuya prestación se pacte;
+
+II. Los medios de identificación del usuario y las responsabilidades correspondientes a su uso, y
+
+III. Los medios por los que se hagan constar la creación, transmisión, modificación o extinción de derechos y obligaciones inherentes a las operaciones y servicios de que se trate.
+
+Cuando así lo acuerden con su clientela, las Sociedades Financieras Populares podrán suspender o cancelar el trámite de operaciones que aquella pretenda realizar mediante el uso de equipos o medios a que se refiere el primer párrafo de este artículo, siempre que cuenten con elementos suficientes para presumir que los medios de identificación pactados para tal efecto han sido utilizados en forma indebida. Lo anterior también resultará aplicable cuando dichas Sociedades detecten algún error en la instrucción respectiva.
+
+Asimismo, las Sociedades Financieras Populares podrán acordar con su clientela que, cuando ésta haya recibido recursos mediante alguno de los equipos o medios señalados en el párrafo anterior y aquéllas cuenten con elementos suficientes para presumir que los medios de identificación pactados para tal efecto han sido utilizados en forma indebida, podrán restringir hasta por quince días hábiles la disposición de tales recursos, a fin de llevar a cabo las investigaciones y las consultas que sean necesarias con otras Sociedades Financieras Populares relacionadas con la operación de que se trate. La Sociedad de que se trate podrá prorrogar el plazo antes referido hasta por diez días hábiles más, siempre que se haya dado vista a la autoridad competente sobre probables hechos ilícitos cometidos en virtud de la operación respectiva.
+
+No obstante lo dispuesto en el párrafo anterior, cuando las (sic) Sociedad Financiera Popular de que se trate así lo haya acordado con su clientela, en los casos en que, por motivo de las investigaciones antes referidas, tengan evidencia de que la cuenta respectiva fue abierta con información o documentación falsa, o bien, que los medios de identificación pactados para la realización de la operación de que se trate fueron utilizados en forma indebida, podrán, bajo su responsabilidad, cargar el importe respectivo con el propósito de que se abone en la cuenta de la que procedieron los recursos correspondientes.
+
+Las Sociedades Financieras Populares que por error hayan abonado recursos en alguna de las cuentas que lleven a su clientela, podrán cargar el importe respectivo a la cuenta de que se trate con el propósito de corregir el error, siempre que así lo hayan pactado con ella.
+
+En los casos señalados en los cuatro párrafos anteriores, las Sociedades Financieras Populares deberán notificar al cliente respectivo la realización de cualquiera de las acciones que hayan llevado a cabo de conformidad con lo previsto en los mismos.
+
+El uso de los medios de identificación que se establezcan conforme a lo previsto por este artículo, en sustitución de la firma autógrafa, producirá los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
+
+La instalación y el uso de los equipos y medios señalados en el primer párrafo de este artículo se sujetarán a las reglas de carácter general que emita la Comisión Nacional Bancaria y de Valores, sin perjuicio de las facultades con que cuenta el Banco de México para regular las operaciones relacionadas con los sistemas de pagos y las de transferencias de fondos en términos de su ley.
+
+Las Sociedades Financieras Populares podrán intercambiar la información contemplada en las disposiciones de carácter general a que se refiere el artículo 124 de esta Ley, con el fin de fortalecer las medidas para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos en contra de su clientela o de la propia Sociedad.
+
+El intercambio de información a que se refiere el párrafo anterior no implicará trasgresión alguna a lo establecido en el artículo 34 de esta Ley.
+
 > <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 ### Capítulo IV. De las Sociedades Financieras Comunitarias y de los Organismos de Integración Financiera Rural
@@ -940,11 +1092,23 @@ La admisión y retiro de los socios de las Sociedades Financieras Comunitarias y
 
 Las Sociedades Financieras Comunitarias con niveles de operación I a IV, y los Organismos de Integración Financiera Rural para su organización y funcionamiento, se ajustarán a las disposiciones especiales que se señalan en este capítulo. Adicionalmente, les resultarán aplicables en lo que no se oponga a lo anterior, los artículos 9, 10 Bis, 12, 13, 14, 15, 18, 19, 24, 31, 32 Bis, 33, 33 Bis, 33 Bis 1, 34, 36 Bis, 36 Bis 1, 36 Bis 2, 37, el Título Tercero, el Título Tercero Bis, el Capítulo II del Título Cuarto, así como los Títulos Quinto y Sexto de la presente ley. La Comisión expedirá las reglas de carácter general que establezcan los criterios para determinar el nivel de operaciones que será asignado a las Sociedades Financieras Comunitarias, considerando, entre otros, el monto de activos con que cuenten. Asimismo, en las citadas reglas se señalarán las operaciones activas, pasivas y de servicios que las sociedades podrán realizar, de entre las contempladas en el artículo 36 de esta Ley, de acuerdo al nivel de operaciones con que cuenten, así como las características de dichas operaciones y los requisitos para celebrarlas.
 
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+A las Sociedades Financieras Comunitarias con Niveles de Operación I a IV también le serán aplicables las disposiciones de los artículos 36 Bis 3, 36 Bis 4 y 36 Bis 5 de la presente Ley.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL SEGUNDO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
+
 Los Organismos de Integración Financiera Rural podrán realizar las operaciones a que se refiere el artículo 46 Bis 20 de la presente ley.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL SEGUNDO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 La Comisión establecerá mediante disposiciones de carácter general los requisitos mínimos que deberán acompañar la solicitud de autorización de las Sociedades Financieras Comunitarias con Niveles de Operación I a IV y de los Organismos de Integración Financiera Rural, a que se refiere el artículo 10 de la presente Ley, así como de los requisitos mínimos que deberán cumplir los miembros del Consejo de Administración y director general, señalados en los artículos 20, 21 y 23 de la presente Ley.
 
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL SEGUNDO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
+
 Asimismo, la Comisión emitirá los lineamientos mínimos de regulación prudencial a los que deberán sujetarse las Sociedades Financieras Comunitarias y los Organismos de Integración Financiera Rural en las materias y términos señalados en el artículo 116 y 118 de esta Ley.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL SEGUNDO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 En todo caso, la Comisión al expedir las reglas a que se refiere este artículo deberá considerar las características particulares del sector rural.
 
@@ -974,9 +1138,13 @@ VII. Las personas morales en las que los funcionarios, auditores externos y comi
 
 Se entenderá por funcionario al director o gerente general y a los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquéllos.
 
-No requerirán de la aprobación del consejo de administración, las operaciones con personas a que se refiere este artículo cuyo importe en su conjunto no exceda del equivalente en moneda nacional a 100 mil UDI, o el uno por ciento del capital social pagado de la Sociedad Financiera Comunitaria y del Organismo de Integración Financiera Rural, el que sea menor, sin embargo, deberán hacerse de su conocimiento y poner a su disposición toda la información relativa a las mismas.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-La suma total de los montos dispuestos y las líneas de crédito irrevocables contratadas de las operaciones con personas relacionadas, no podrá exceder del 10 por ciento del capital contable de la Sociedad Financiera Comunitaria u Organismo de Integración Financiera Rural.
+No requerirán de la aprobación del consejo de administración, las operaciones con personas a que se refiere este artículo cuyo importe en su conjunto no exceda del equivalente en moneda nacional a 100 mil UDIs, o el uno por ciento del capital neto de la Sociedad Financiera Comunitaria y del Organismo de Integración Financiera Rural, el que sea menor, sin embargo, deberán hacerse de su conocimiento y poner a su disposición toda la información relativa a las mismas.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La suma total de los montos dispuestos y las líneas de crédito irrevocables contratadas de las operaciones con personas relacionadas, no podrá exceder del 10 por ciento del capital neto de la Sociedad Financiera Comunitaria u Organismo de Integración Financiera Rural.
 
 Los consejeros y funcionarios deberán excusarse de participar en las discusiones y abstenerse de votar en los casos en que tengan un interés directo o un conflicto de interés.
 
@@ -1804,11 +1972,15 @@ III. Contar con la autorización de la Comisión, para operar como Sociedad Fina
 
 La formalización de dicho convenio deberá efectuarse a más tardar dentro de los diez días hábiles siguientes a la fecha en que haya quedado inscrito en el Registro Público de Comercio el acta constitutiva de la Sociedad Financiera Popular y deberán enviar un ejemplar del mismo a la Comisión a través de la Federación respectiva.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 84.
 
-La Sociedad Financiera Popular podrá solicitar en cualquier momento a la Federación correspondiente su desafiliación, la cual únicamente será reconocida previo dictamen de un auditor externo designado por la Federación y con cargo a la Sociedad Financiera Popular, que determine la viabilidad financiera de la misma.
+La Sociedad Financiera Popular podrá solicitar en cualquier momento a la Federación correspondiente su desafiliación, la cual únicamente será reconocida previo dictamen de un auditor externo designado por el Fondo de Protección y con cargo a la Sociedad Financiera Popular, que determine la viabilidad financiera de la misma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Sociedad Financiera Popular que solicite la desafiliación a que se refiere el párrafo anterior deberá solicitar su afiliación inmediata a otra Federación una vez obtenido el dictamen del auditor externo designado por el Fondo de Protección.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
@@ -2586,13 +2758,17 @@ La Comisión podrá vetar las operaciones, productos y servicios a que se refier
 
 Los consejeros, funcionarios y empleados de la Sociedad Financiera Popular o quienes intervengan directamente en la autorización o realización de las operaciones, productos y servicios a que se refiere este Artículo, a sabiendas de que éstas fueron vetadas por la Comisión en los términos descritos, podrán ser suspendidos, removidos o inhabilitados en los términos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 122.
 
-La Comisión previo acuerdo de su Junta de Gobierno, podrá ordenar que se proceda a la remoción de los miembros del Consejo de Administración y del comité de auditoría, comisarios, directores o gerentes generales, así como miembros del Comité de Crédito, de las Sociedades Financieras Populares; miembros del Comité de Supervisión, contralor normativo o gerente de las Federaciones; miembros de los Comités Técnico y de Protección al Ahorro, o quienes ejerzan sus funciones en los términos de esta Ley, así como las demás personas que con sus actos puedan obligar a las Sociedades Financieras Populares, a las Federaciones y al Sistema de Protección del Ahorro, o bien, acordar la suspensión de todos ellos en sus funciones, de tres meses hasta cinco años, cuando dicha Comisión considere que tales personas no cuentan con la calidad técnica u honorabilidad para el desempeño de sus funciones, no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven.
+La Comisión previo acuerdo de su Junta de Gobierno, podrá ordenar que se proceda a la remoción de los miembros del Consejo de Administración y del comité de auditoría, comisarios, directores, gerentes generales, auditores externos, así como miembros del Comité de Crédito, de las Sociedades Financieras Populares; miembros del Comité de Supervisión, contralor normativo o gerente de las Federaciones; miembros de los Comités Técnico y de Protección al Ahorro, o quienes ejerzan sus funciones en los términos de esta Ley, así como las demás personas que con sus actos puedan obligar a las Sociedades Financieras Populares, a las Federaciones y al Sistema de Protección del Ahorro, o bien, acordar la suspensión de todos ellos en sus funciones, de tres meses hasta cinco años, cuando dicha Comisión considere que tales personas no cuentan con la calidad técnica u honorabilidad para el desempeño de sus funciones, no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven.
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 La propia Comisión podrá además, con acuerdo de su Junta de Gobierno, en los casos señalados en el párrafo anterior, inhabilitar a las personas citadas para desempeñar un empleo, cargo, mandato o comisión en cualquiera de las Sociedades Financieras Populares, Federaciones y en el Fondo de Protección, así como en el sistema financiero mexicano, sin perjuicio de las sanciones que conforme a este u otros ordenamientos legales fueren aplicables.
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 Para imponer la inhabilitación la Comisión deberá tomar en cuenta:
 
@@ -2604,11 +2780,15 @@ III. El monto del beneficio, daño o perjuicio económicos derivados de la infra
 
 IV. La reincidencia.
 
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
 Para la suspensión, remoción e inhabilitación, la Comisión deberá oír previamente al interesado y al representante de la Sociedad Financiera Popular, Federación o Fondo de Protección, según se trate.
 
-Asimismo, tratándose de los miembros del Consejo de Administración, directores o gerentes generales, comisario y miembros del Comité de Crédito, de las Sociedades Financieras Populares, la Comisión procederá en términos de este Artículo a petición de las Federaciones, siempre que dichas Federaciones acrediten que las personas antes mencionadas no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+Asimismo, tratándose de los miembros del Consejo de Administración, directores o gerentes generales, comisario, auditores externos y miembros del Comité de Crédito, de las Sociedades Financieras Populares, la Comisión procederá en términos de este artículo a petición de las Federaciones, siempre que dichas Federaciones acrediten que las personas antes mencionadas no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 122 Bis.
 
@@ -2618,13 +2798,31 @@ Asimismo, las Sociedades Financieras Populares, así como las Federaciones y los
 
 La Comisión podrá emitir disposiciones de carácter general que establezcan los plazos y medios para la entrega de la información que las Sociedades Financieras Populares, así como las Federaciones, el Fondo de Protección y sus respectivos comités deberán presentar a la Comisión.
 
-Para propiciar el mejor cumplimiento de sus funciones, la Secretaría, el Banco de México, la Comisión y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, podrán solicitar y compartir la información que obtengan conforme al párrafo anterior, sin que les resulte oponible las restricciones previstas en el artículo 34 de esta Ley. Asimismo, dichas dependencias y el Banco de México podrán proporcionar a la Comisión Nacional de Seguros y Fianzas y a la Comisión Nacional del Sistema de Ahorro para el Retiro, la asistencia que les soliciten en ejercicio de sus funciones, para lo cual podrán compartir con ellas información y documentación que obre en su poder, sin que resulte aplicable lo previsto en el Artículo 34 de esta Ley. A su vez, la Comisión, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Banco de México podrán solicitar a dichas instituciones supervisoras la asistencia citada y éstas podrán entregar la información y documentación requerida, respecto de las Sociedades Financieras Populares, Federaciones y Fondo de Protección, sin que ello implique la violación a la confidencialidad que deban observar conforme a las disposiciones legales aplicables.
+Con el objeto de preservar la estabilidad financiera, evitar interrupciones o alteraciones en el funcionamiento del sistema financiero o del sistema de pagos, así como para facilitar el adecuado cumplimiento de sus funciones, la Secretaría, la Comisión, el Banco de México y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros deberán, a petición de parte interesada y en términos de los convenios a que se refiere el sexto párrafo de este artículo, intercambiar entre sí la información que tengan en su poder por haberla obtenido:
 
-La información a que se refiere este artículo sólo podrá solicitarse y proporcionarse en ejercicio de las atribuciones conferidas conforme a las disposiciones aplicables.
+I. En el ejercicio de sus facultades;
 
-La Comisión estará facultada para proporcionar a las autoridades financieras del exterior toda clase de información necesaria para atender los requerimientos que le formulen en el ámbito de su competencia, tales como documentos, constancias, registros, declaraciones y demás evidencias que la Comisión tenga en su poder, o que pueda obtener en ejercicio de sus facultades o actuando en coordinación con otras entidades, personas o autoridades.
+II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
 
-Tratándose de intercambios de información protegida por disposiciones de confidencialidad, se deberá tener suscrito un acuerdo de intercambio de información con las autoridades financieras de que se trate, en el que se contemple el principio de reciprocidad. La Comisión podrá abstenerse de proporcionar la información solicitada o requerir la devolución de la información que haya entregado, cuando el uso que se le pretenda dar a la misma sea distinto a aquél para el cual haya sido solicitada, sea contrario al orden público, a la seguridad nacional o a los términos convenidos en el acuerdo de intercambio de información respectivo.
+III. Directamente de otras autoridades.
+
+A la facultad mencionada en el párrafo anterior, no le serán oponibles las restricciones relativas a la información reservada o confidencial en términos de las disposiciones legales aplicables. Quien reciba la información a que se refiere este artículo será responsable administrativa y penalmente, en términos de la legislación aplicable, por la difusión a terceros de información confidencial o reservada.
+
+Para efectos de lo dispuesto en el presente artículo, las autoridades señaladas deberán celebrar convenios de intercambio de información en los que especifiquen la información objeto de intercambio y determinen los términos y condiciones a los que deberán sujetarse para ello. Asimismo, dichos convenios deberán definir el grado de confidencialidad o reserva de la información, así como las instancias de control respectivas a las que se informarán los casos en que se niegue la entrega de información o su entrega se haga fuera de los plazos establecidos.
+
+La Secretaría, la Comisión, el Banco de México y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de su competencia, estarán facultados para proporcionar a las autoridades financieras del exterior toda clase de información que estimen procedente para atender los requerimientos que les formulen, tales como documentos, constancias, registros, declaraciones y demás evidencias que tales autoridades tengan en su poder por haberla obtenido en el ejercicio de sus facultades.
+
+Para efectos de lo previsto en el párrafo anterior, las autoridades deberán tener suscrito un acuerdo de intercambio de información con las autoridades financieras del exterior de que se trate, en el que se contemple el principio de reciprocidad.
+
+La Comisión Nacional Bancaria y de Valores estará facultada para entregar a las autoridades financieras del exterior la información protegida por disposiciones de confidencialidad que obre en su poder por haberla obtenido en el ejercicio de sus facultades, actuando en coordinación con otras entidades, personas o autoridades o bien directamente de otras autoridades.
+
+El Banco de México estará facultado para entregar a las autoridades financieras del exterior la información protegida por disposiciones de confidencialidad que obre en su poder por haberla obtenido directamente en el ejercicio de sus facultades. Asimismo, el Banco de México estará facultado para entregar a las autoridades financieras del exterior información protegida o no por disposiciones de confidencialidad que obtenga de otras autoridades del país, únicamente en los casos en los que lo tenga expresamente autorizado en el convenio de intercambio de información por virtud del cual hubiere recibido dicha información.
+
+En todo caso, la Comisión y el Banco de México podrán abstenerse de proporcionar la información a que se refieren los dos párrafos anteriores, cuando el uso que se le pretenda dar a la misma sea distinto a aquel para el cual haya sido solicitada, sea contrario al orden público, a la seguridad nacional o a los términos convenidos en el acuerdo de intercambio de información respectivo.
+
+La Secretaría, la Comisión, el Banco de México y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros deberán establecer mecanismos de coordinación para efectos de la entrega de la información a que se refiere este artículo a las autoridades financieras del exterior.
+
+La entrega de información que se efectúe en términos del presente artículo no implicará transgresión alguna a las obligaciones de reserva, confidencialidad, secrecía o análogas que se deban observar conforme a las disposiciones legales aplicables.
 
 ###### Artículo 123.
 
@@ -2644,7 +2842,9 @@ a) Los actos, operaciones y servicios que realicen con sus Clientes, relativos a
 
 b) Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso pudiese contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del Consejo de Administración, administrador, comisario, directivo, funcionario, empleado, apoderado o algún miembro del Comité de Supervisión.
 
-Los reportes a que se refiere la fracción II de este Artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información. Los reportes deberán referirse cuando menos a operaciones que se definan por las disposiciones de carácter general como relevantes, internas preocupantes e inusuales.
 
 Asimismo, la Secretaría en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las Sociedades Financieras Populares deberán observar respecto de:
 
@@ -2652,19 +2852,45 @@ a) El adecuado conocimiento de sus Clientes, para lo cual aquéllas deberán con
 
 b) La información y documentación que dichas Sociedades Financieras Populares deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus Clientes;
 
-c) La forma en que las mismas Sociedades Financieras Populares deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus Clientes o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente Artículo, y
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-d) Los términos para proporcionar capacitación al interior de las Sociedades Financieras Populares sobre la materia objeto de este Artículo. Las disposiciones de carácter general a que se refiere el presente Artículo, señalarán los términos para su debido cumplimiento.
+c) La forma en que las mismas Sociedades Financieras Populares deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus Clientes o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo;
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+d) Los términos para proporcionar capacitación al interior de las Sociedades Financieras Populares sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 2014)</small>
+
+e) El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las propias disposiciones de carácter general a que se refiere este artículo, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 2014)</small>
+
+f) El establecimiento de aquellas estructuras internas que deban funcionar como áreas de cumplimiento en la materia, al interior de cada Sociedad Financiera Popular.
 
 Las Sociedades Financieras Populares deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
 
 La Secretaría estará facultada para requerir y recabar, por conducto de la Comisión, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este Artículo. Las Sociedades Financieras Populares estarán obligadas a proporcionar dicha información y documentación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las Sociedades Financieras Populares deberán suspender de forma inmediata la realización de actos, operaciones o servicios con los clientes o usuarios que la Secretaría de Hacienda y Crédito Público les informe mediante una lista de personas bloqueadas que tendrá el carácter de confidencial. La lista de personas bloqueadas tendrá la finalidad de prevenir y detectar actos, omisiones u operaciones que pudieran ubicarse en los supuestos previstos en los artículos referidos en la fracción I de este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 2014)</small>
+
+La obligación de suspensión a que se refiere el párrafo anterior dejará de surtir sus efectos cuando la Secretaria de Hacienda y Crédito Público elimine de la lista de personas bloqueadas al cliente o usuario en cuestión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Secretaría de Hacienda y Crédito Público establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas.
+
 El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en el Artículo 34 de esta Ley.
 
 Las reglas y los lineamientos que de ellas deriven a que se refiere este Artículo deberán ser observadas por las Sociedades Financieras Populares, así como por los miembros del Consejo de Administración, administradores, comisarios, directivos, funcionarios, empleados y apoderados respectivos, así como por los miembros del Comité de Supervisión, por lo cual, tanto las Sociedades Financieras Populares como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
 
-La violación a las disposiciones a que se refiere este Artículo será sancionada por la Comisión conforme al procedimiento previsto en el Artículo 130, último párrafo, de la presente Ley, con multa equivalente del 10 por ciento al 100 por ciento de la operación inusual para el supuesto de que esta haya sido determinada y no haya sido reportada, y en los demás casos con multa de 200 y hasta 100 000 días de salario mínimo general vigente en el Distrito Federal.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 131 de esta Ley, con multa equivalente del 10% al 100% del monto del acto, operación o servicio que se realice con un cliente o usuario que se haya informado que se encuentra en la lista de personas bloqueadas a que se refiere este artículo; con multa equivalente del 10% al 100% del monto de la operación inusual no reportada o, en su caso, de la serie de operaciones relacionadas entre sí del mismo cliente o usuario, que debieron haber sido reportadas como operaciones inusuales; tratándose de operaciones relevantes, internas preocupantes no reportadas, así como los incumplimientos a cualquiera de los incisos a), b), c), e) del tercer párrafo de este artículo, se sancionará con multa de 10,000 a 100,000 días de salario mínimo general vigente en el Distrito Federal y en los demás casos de incumplimiento a este precepto y a las disposiciones que de él emanen multa de 1,000 a 30,000 días de salario mínimo general vigente en el Distrito Federal.
 
 Las mencionadas multas podrán ser impuestas, a las Sociedades Financieras Populares, como a los miembros del Consejo de Administración, administradores, miembros del Comité de Supervisión, comisarios, directivos, funcionarios, empleados y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 122 de esta Ley.
 
@@ -2720,9 +2946,9 @@ Corresponderá a la Junta de Gobierno de la Comisión la imposición de sancione
 
 Para efectos de las multas establecidas en el presente Capítulo se entenderá por días de salario, el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
 
-En caso de reincidencia, se podrá aplicar multa equivalente al doble de la establecida para esa infracción.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 126.
 
@@ -2730,47 +2956,51 @@ Las infracciones a esta Ley o a las disposiciones que sean emitidas con base en 
 
 I. Multa de 200 a 2,000 días de salario:
 
-a) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no proporcionen dentro de los plazos establecidos para tal efecto, la información o documentación a que se refiere esta Ley o las disposiciones que emanan de ella, así como por omitir proporcionar la requerida por la Secretaría o por la Comisión.
+a) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no proporcionen dentro de los plazos establecidos para tal efecto, la información o documentación a que se refiere esta Ley o las disposiciones que emanan de ella, así como por omitir proporcionar la requerida por la Secretaría o por la Comisión;
 
-b) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, por no proporcionar los estados financieros mensuales, trimestrales o anuales, dentro de los plazos establecidos en esta Ley o en las disposiciones que emanen de ella para tales efectos. Asimismo, a las citadas sociedades por no publicar los estados financieros trimestrales o anuales, dentro de los plazos establecidos en esta Ley o en las disposiciones que de ella emanen para tales efectos.
+b) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, por no proporcionar los estados financieros mensuales, trimestrales o anuales, dentro de los plazos establecidos en esta Ley o en las disposiciones que emanen de ella para tales efectos. Asimismo, a las citadas Sociedades por no publicar los estados financieros trimestrales o anuales, dentro de los plazos establecidos en esta Ley o en las disposiciones que de ella emanen para tales efectos;
 
-c) A los auditores externos independientes y demás profesionistas o expertos que rindan o proporcionen dictámenes u opiniones a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que incurran en infracciones a la presente Ley o a las disposiciones que emanen de ella para tales efectos.
+c) A los auditores externos independientes y demás profesionistas o expertos que rindan o proporcionen dictámenes u opiniones a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que incurran en infracciones a la presente Ley o a las disposiciones que emanen de ella para tales efectos;
 
-d) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con lo señalado por el Artículo 118 de esta Ley o por las disposiciones a que se refiere dicho precepto.
+d) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con lo señalado por el artículo 118 de esta Ley o por las disposiciones a que se refiere dicho precepto;
 
-e) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con lo previsto por el Artículo 124 Bis 3 de esta Ley, así como las disposiciones que emanen de éste.
+e) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con lo previsto por el artículo 124 Bis 3 de esta Ley, así como las disposiciones que emanen de este;
 
-f) A los socios de las Sociedades Financieras Populares que, en contravención a lo preceptuado por el Artículo 42 de de esta Ley, omitan pagar en efectivo las acciones que suscriban.
+f) A los socios de las Sociedades Financieras Populares que, en contravención a lo preceptuado por el artículo 42 de esta Ley, omitan pagar en efectivo las acciones que suscriban, y
 
-g) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que incumplan con cualquiera de las disposiciones a que se refieren las fracciones II, V, VIII y X del Artículo 116 de esta Ley.
+g) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que incumplan con cualquiera de las disposiciones a que se refieren las fracciones II, V, VIII y X del artículo 116 de esta Ley;
 
-II. Multa de 1,000 a 5,000 días de salario, a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con lo señalado por los Artículos 117 o 119 de esta Ley o por las disposiciones a que se refieren dichos preceptos.
+II. Multa de 1,000 a 5,000 días de salario, a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con lo señalado por los artículos 117 o 119 de esta Ley o por las disposiciones a que se refieren dichos preceptos;
 
 III. Multa de 3,000 a 15,000 días de salario:
 
-a) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con lo señalado por el Artículo 13 de la presente Ley.
+a) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con lo señalado por el artículo 13 de la presente Ley, y
 
-b) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que se opongan u obstaculicen el ejercicio de las facultades que ésta y otras disposiciones aplicables le confieren a la Secretaría o a la Comisión. No se entenderá como obstaculización el hacer valer los recursos de defensa que la Ley prevé y en cualquier caso, previo a la sanción, se deberá oír al infractor.
+b) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que se opongan u obstaculicen el ejercicio de las facultades que ésta y otras disposiciones aplicables le confieren a la Secretaría o a la Comisión. No se entenderá como obstaculización el hacer valer los recursos de defensa que la Ley prevé y en cualquier caso, previo a la sanción, se deberá oír al infractor;
 
 IV. Multa de 5,000 a 20,000 días de salarios:
 
-a) A las Sociedades Financieras Populares que den noticias o información de los depósitos, servicios o cualquier tipo de operaciones en contravención a lo dispuesto por el artículo 34 de esta Ley.
+a) A las Sociedades Financieras Populares que den noticias o información de los depósitos, servicios o cualquier tipo de operaciones en contravención a lo dispuesto por el artículo 34 de esta Ley, así como a las disposiciones de carácter general que emanen de este;
 
-b) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no den cumplimiento a las acciones preventivas y correctivas ordenadas por la Comisión, en el ejercicio de sus atribuciones en materia de inspección y vigilancia, excepto aquéllas previstas en la fracción V de este Artículo.
+b) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no den cumplimiento a las acciones preventivas y correctivas ordenadas por la Comisión, en el ejercicio de sus atribuciones en materia de inspección y vigilancia, excepto aquellas previstas en la fracción V de este artículo;
 
-c) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que incumplan con cualquiera de las disposiciones a que se refieren las fracciones III, IV, VI y VII del Artículo 116 de esta Ley.
+c) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que incumplan con cualquiera de las disposiciones a que se refieren las fracciones III, IV, VI y VII del artículo 116 de esta Ley;
 
-d) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con las obligaciones previstas en el Artículo 33 de esta Ley.
+d) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con las obligaciones previstas en el artículo 33 de esta Ley, y
 
-e) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con los lineamientos y requisitos previstos en los artículos 35 y 46 Bis 1, según sea el caso, de la presente Ley.
+e) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con los lineamientos y requisitos previstos en los artículos 35 y 46 Bis 1, según sea el caso, de la presente Ley, y
 
-IV. Multa de 20,000 a 100,000 días de salario:
+V. Multa de 20,000 a 100,000 días de salario:
 
-a) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que proporcionen, en forma dolosa, información falsa, imprecisa o incompleta a las autoridades financieras, que tenga como consecuencia que no se refleje su verdadera situación financiera, administrativa, económica o jurídica, siempre y cuando se compruebe que el director general o algún miembro del Consejo de Administración de la Sociedad correspondiente tuvo conocimiento de tal acto.
+a) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que proporcionen, en forma dolosa, información falsa, imprecisa o incompleta a las autoridades financieras, que tenga como consecuencia que no se refleje su verdadera situación financiera, administrativa, económica o jurídica, siempre y cuando se compruebe que el director general o algún miembro del Consejo de Administración de la Sociedad correspondiente tuvo conocimiento de tal acto, y
 
-b) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con cualquiera de las medidas correctivas a que se refiere el Artículo 73 de esta Ley o las disposiciones que de él emanen.
+b) A las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, que no cumplan con cualquiera de las medidas correctivas a que se refiere el artículo 73 de esta Ley o las disposiciones que de él emanen.
 
-La Comisión podrá abstenerse de sancionar a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, siempre y cuando se trate de las conductas infractoras señaladas en las fracciones I y II del presente Artículo y, además, justifique la causa de tal abstención y se refieran a hechos, actos u omisiones que no revistan gravedad ni constituyan delito o pongan en peligro los intereses de terceros o del propio sistema financiero.
+En caso de que alguna de las infracciones contenidas en este artículo generen un daño patrimonial o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero.
+
+La Comisión podrá abstenerse de sancionar a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, siempre y cuando se justifique la causa de tal abstención de acuerdo con los lineamientos que para tales efectos emita la Junta de Gobierno de la propia Comisión, y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia, no se cuente con elementos que permitan demostrar que se afecten los intereses de terceros o del propio sistema financiero y no constituyan delito.
+
+Se considerarán infracciones graves la violación a lo previsto por los artículos 34; 35; 73; 74; 116, fracciones III y IV, cuando se produzca un daño, perjuicio o quebranto a la Sociedad por la operación de crédito objeto del incumplimiento a las disposiciones a que hace referencia dicho precepto; 116, fracción VI, cuando se incumplan los requerimientos de capital y con ello se actualice el régimen previsto en la fracción III del artículo 74 de esta Ley; 117, cuando se trate de omisiones o alteraciones de registros contables; 119 Bis 4, cuando se produzca un daño, perjuicio o quebranto a la Sociedad; 122 Bis, primer y segundo párrafos y 124, fracciones I por lo que hace a la falta de presentación a la Comisión Nacional Bancaria y de Valores, del documento de políticas de identificación y conocimiento del socio o cliente y II, primer párrafo, inciso a) por operaciones no reportadas, tercer párrafo de la fracción II, incisos e) y f), de esta Ley. En todo caso, se considerará grave cuando se proporcione a la Comisión información falsa o que dolosamente induzca al error, por ocultamiento u omisión.
 
 > <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
@@ -2806,13 +3036,23 @@ II. A las personas morales y establecimientos distintos a los regulados por la p
 
 La infracción a cualquier otro precepto de esta Ley o de las disposiciones que de ella deriven, distinta de las señaladas expresamente en algún otro Artículo de esta Ley y que no tenga sanción especialmente señalada en este ordenamiento será sancionada con multa de 1,000 a 5,000 días de salario, o del 0.1% hasta el 1% de su capital mínimo pagado y reservas de capital, dependiendo de la naturaleza de la infracción.
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 128 Bis.
+
+La Comisión podrá, atendiendo a las circunstancias de cada caso, además de la imposición de la sanción que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes personales, la gravedad de la conducta, que no se cuente con elementos que permitan demostrar que se afecten intereses de terceros o del propio sistema financiero, que habiéndose causado un daño este haya sido reparado así como la existencia de atenuantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 129.
 
-En los procedimientos administrativos de imposición de sanciones previstos en esta Ley se admitirán toda clase de pruebas. En el caso de la confesional a cargo de autoridades, ésta deberá ser desahogada por escrito.
+En los procedimientos administrativos previstos en esta Ley se admitirán las pruebas conducentes con los actos sujetos al procedimiento siempre y cuando las mismas sean ofrecidas en el plazo del desahogo de la garantía de audiencia. En el caso de la confesional a cargo de autoridades, esta deberá ser desahogada por escrito.
 
-Una vez desahogado el derecho de audiencia a que se refiere el Artículo 131 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Una vez desahogado el derecho de audiencia a que se refiere el artículo 131 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, previsto en el artículo 136 Bis, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
+
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Federal de Procedimientos Civiles.
 
@@ -2830,25 +3070,43 @@ Las multas que la citada Comisión imponga deberán ser pagadas dentro de los qu
 
 En caso de que el infractor pague las multas impuestas por la mencionada Comisión dentro de los quince días referidos en el párrafo anterior, se aplicará una reducción en un veinte por ciento de su monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 131.
 
 La Comisión, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetará a lo siguiente:
 
-I. Se otorgará audiencia al infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique;
+I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique;
 
-II. En caso de que el infractor no hiciere uso del derecho de audiencia dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente, y
+II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior, dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente;
 
-III. En la imposición de sanciones se tomará en cuenta, en su caso, lo siguiente:
+III. Para la imposición de la sanción se tomará en cuenta, en su caso, lo siguiente:
 
-a) La afectación a terceros o al sistema financiero;
+a) El impacto a terceros o al sistema financiero que haya producido o pueda producir la infracción;
 
-b) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente;
+b) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.
 
-c) La cuantía de la operación, y
+La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente;
 
-d) La intención de realizar la conducta.
+c) La cuantía de la operación;
+
+d) La condición económica del infractor a efecto de que la sanción no sea excesiva, y
+
+e) La naturaleza de la infracción cometida.
+
+IV. Tratándose de conductas calificadas por esta Ley como graves, en adición a lo establecido en la fracción III de este artículo, podrá tomar en cuenta cualquiera de los aspectos siguientes:
+
+a) El monto del quebranto o perjuicio patrimonial causado;
+
+b) El lucro obtenido;
+
+c) La falta de honorabilidad por parte del infractor, conforme a lo dispuesto por esta Ley y las disposiciones de carácter general que de ella emanen;
+
+d) La negligencia inexcusable o dolo con que se hubiere actuado;
+
+e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, o
+
+f) Las demás circunstancias que la Comisión estime aplicables para tales efectos.
 
 > <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
@@ -2866,25 +3124,37 @@ Las sanciones serán impuestas por la Junta de Gobierno de la Comisión, la que 
 
 Las multas a que se refiere el presente capítulo podrán ser impuestas a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV, Organismos de Integración Financiera Rural y Federaciones, así como a los miembros del Consejo de Administración, directores generales, directivos, funcionarios, empleados o personas que ostenten un cargo, mandato, comisión o cualquier otro título jurídico que las citadas sociedades u organismos otorguen a terceros para la realización de sus operaciones, que hayan incurrido directamente o hayan ordenado la realización de la conducta materia de la infracción. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el Artículo 122 de esta Ley.
 
-Las multas impuestas por la Comisión a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV, Organismos de Integración Financiera Rural y Federaciones se harán efectivas por la Secretaría.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+Las multas impuestas por la Comisión a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV, Organismos de Integración Financiera Rural y Federaciones se harán efectivas por la Secretaría, una vez que hayan quedado firmes.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 134.
 
-La Comisión considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor, de manera espontánea y previo al inicio del procedimiento de imposición de sanción a que se refiere la presente Ley, informe por escrito de la violación en que hubiere incurrido a la citada Comisión y corrija las omisiones o contravenciones a las normas aplicables en que hubiere incurrido o, en su caso, presente ante la misma Comisión un programa de corrección que tenga por objeto evitar que las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV, Organismos de Integración Financiera Rural y Federaciones, se ubiquen de nueva cuenta en la conducta infractora. Asimismo, se considerará como atenuante la acreditación que el presunto infractor haga ante la Comisión de haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
+La Comisión considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor acredite ante la Comisión haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 135.
 
-Los procedimientos para la imposición de las sanciones administrativas a que se refiere esta Ley se iniciarán con independencia de la opinión de delito que, en su caso, emita la Comisión en términos del Artículo 136 Bis 3 del presente ordenamiento legal.
+Los procedimientos para la imposición de las sanciones administrativas a que se refiere esta Ley se iniciarán con independencia de la opinión de delito que, en su caso, emita la Comisión en términos del artículo 136 Bis 7 del presente ordenamiento legal.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 136.
 
-En ejercicio de sus facultades sancionadoras, la Comisión ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su página electrónica en la red mundial “Internet”, las sanciones que al efecto imponga por infracciones a esta Ley, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, para lo cual deberá señalar exclusivamente la denominación o razón social del infractor, el precepto infringido y la sanción.
+Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, la Comisión ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, para lo cual deberá señalar:
+
+I. El nombre, denominación o razón social del infractor;
+
+II. El precepto infringido, el tipo de sanción impuesta, monto o plazo, según corresponda y la conducta infractora, y
+
+III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
+
+En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad competente, deberá igualmente publicarse tal circunstancia.
+
+La información antes señalada no será considerada como reservada o confidencial.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
@@ -2948,45 +3218,91 @@ La resolución de los recursos de revisión deberá ser emitida en un plazo que 
 
 La Comisión deberá prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 10 DE ENERO DE 2014)</small>
+
+### CAPÍTULO I BIS. DE LOS PROGRAMAS DE AUTOCORRECCIÓN
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 136 Bis 3.
+
+Las Sociedades Financieras Populares, las Sociedades Financieras Comunitarias con Niveles de Operación I a IV, los Organismos de Integración Financiera Rural o las Federaciones, por conducto de su director general o equivalente y con la opinión del comité de auditoría, podrán someter a la autorización de la Comisión un programa de autocorrección cuando la Sociedad u Organismo de que se trate, en la realización de sus actividades, o el comité de auditoría como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
+
+No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
+I. Las irregularidades o incumplimientos que sean detectados por la Comisión en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación por parte de la Sociedad Financiera Popular, Sociedad Financiera Comunitaria con Niveles de Operación I a IV, Organismo de Integración Financiera Rural o Federación, del programa de autocorrección respectivo.
+
+Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado a la Sociedad Financiera Popular, Sociedad Financiera Comunitaria con Niveles de Operación I a IV, Organismo de Integración Financiera Rural o Federación la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
+
+II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 136 Bis 4.
+
+Los programas de autocorrección a que se refiere el artículo 136 Bis 3 de esta Ley, se sujetarán a las disposiciones de carácter general que emita la Comisión. Adicionalmente, deberán ser firmados por el presidente del comité de auditoría de la Sociedad Financiera Popular, Sociedad Financiera Comunitaria con Niveles de Operación I a IV, Organismo de Integración Financiera Rural o Federación, y ser presentados al Consejo de Administración u órgano equivalente en la sesión inmediata posterior a la solicitud de autorización presentada a la Comisión. Igualmente, deberá contener las irregularidades o incumplimientos cometidos indicando al efecto las disposiciones que se hayan considerado contravenidas; las circunstancias que originaron la irregularidad o incumplimiento cometido, así como señalar las acciones adoptadas o que se pretendan adoptar por parte de la Sociedad, Organismo o Federación para corregir la irregularidad o incumplimiento que motivó el programa.
+
+En caso de que la Sociedad Financiera Popular, Sociedad Financiera Comunitaria con Niveles de Operación I a IV, Organismo de Integración Financiera Rural o Federación requiera de un plazo para subsanar la irregularidad o incumplimiento cometido, el programa de autocorrección deberá incluir un calendario detallado de actividades a realizar para ese efecto.
+
+Si la Comisión no ordena a la Sociedad Financiera Popular, Sociedad Financiera Comunitaria con Niveles de Operación I a IV, Organismo de Integración Financiera Rural o Federación de que se trate modificaciones o correcciones al programa de autocorrección dentro de los veinte días hábiles siguientes a su presentación, el programa se tendrá por autorizado en todos sus términos.
+
+Cuando la Comisión ordene a la Sociedad Financiera Popular, Sociedad Financiera Comunitaria con Niveles de Operación I a IV, Organismo de Integración Financiera Rural o Federación modificaciones o correcciones con el propósito de que el programa se apegue a lo establecido en el presente artículo y demás disposiciones aplicables, la Sociedad, Organismo o Federación correspondiente contará con un plazo de cinco días hábiles contados a partir de la notificación respectiva para subsanar tales deficiencias. Dicho plazo podrá prorrogarse por única ocasión hasta por cinco días hábiles adicionales, previa autorización de la Comisión.
+
+De no subsanarse las deficiencias a las que se refiere el párrafo anterior, el programa de autocorrección se tendrá por no presentado y, en consecuencia, las irregularidades o incumplimientos cometidos no podrán ser objeto de otro programa de autocorrección.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 136 Bis 5.
+
+Durante la vigencia de los programas de autocorrección que hubiere autorizado la Comisión en términos de los artículos 136 Bis 3 y 136 Bis 4 de este ordenamiento, esta se abstendrá de imponer a las Sociedades Financieras Populares, las Sociedades Financieras Comunitarias con Niveles de Operación I a IV, los Organismos de Integración Financiera Rural o las Federaciones las sanciones previstas en esta Ley, por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.
+
+El comité de auditoría en las Sociedades Financieras Populares, las Sociedades Financieras Comunitarias con Niveles de Operación I a IV, los Organismos de Integración Financiera Rural o las Federaciones estará obligado a dar seguimiento a la instrumentación del programa de autocorrección autorizado e informar de su avance tanto al Consejo de Administración y al director general o los órganos o personas equivalentes de la Sociedad, Organismo o Federación correspondiente como a la Comisión en la forma y términos que esta establezca en las disposiciones de carácter general a que se refiere el artículo 136 Bis 4 de esta Ley. Lo anterior, con independencia de la facultad de la Comisión para supervisar, en cualquier momento, el grado de avance y cumplimiento del programa de autocorrección.
+
+Si como resultado de los informes del comité de auditoría o de las labores de inspección y vigilancia de la Comisión, ésta determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, impondrá la sanción correspondiente aumentando el monto de ésta hasta en un 40 por ciento; siendo actualizable dicho monto en términos de disposiciones fiscales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 136 Bis 6.
+
+Las personas físicas y demás personas morales sujetas a la supervisión de la Comisión podrán someter a la autorización de la propia Comisión un programa de autocorrección cuando en la realización de sus actividades detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables, sujetándose a lo previsto por los artículos 136 Bis 3 a 136 Bis 5 de esta Ley, según resulte aplicable.
+
 > <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 ### Capítulo II. De los delitos
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-###### Artículo 136 Bis 3.
+###### Artículo 136 Bis 7.
 
-En los casos previstos en los Artículos 136 Bis 4 a 143 de esta Ley, se procederá indistintamente a petición de la Secretaría, previa opinión de la Comisión, o bien a petición de la Sociedad de que se trate, o de quien tenga interés jurídico.
+En los casos previstos en los artículos 136 Bis 8 a 143 de esta Ley, se procederá indistintamente a petición de la Secretaría, previa opinión de la Comisión, o bien a petición de la Sociedad de que se trate, o de quien tenga interés jurídico.
 
-Para determinar el monto de la operación, quebranto o perjuicio patrimonial previstos en este capítulo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
+Para determinar el monto de la operación, quebranto o perjuicio patrimonial previstos en este Capítulo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
 
-Lo dispuesto en los Artículos citados, no excluye la imposición de las sanciones que conforme a otras Leyes fueren aplicables, por la comisión de otro u otros delitos.
+Lo dispuesto en los artículos citados, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-###### Artículo 136 Bis 4.
+###### Artículo 136 Bis 8.
 
-Serán sancionados con prisión de dos a diez años y multa de quinientos a cincuenta mil días de salario, los consejeros, directores o gerentes generales y demás directivos o empleados, comisarios o auditores externos de las sociedades u organismos o quienes intervengan directamente en la operación:
+Serán sancionados con prisión de dos a diez años y multa de quinientos a cincuenta mil días de salario, los consejeros, directores o gerentes generales y demás directivos o empleados, comisarios o auditores externos de las Sociedades u Organismos o quienes intervengan directamente en la operación:
 
-I. Que omitan u ordenen omitir registrar en los términos del Artículo 117 de esta Ley, las operaciones efectuadas por la Sociedad u organismo de que se trate, o que alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados;
+I. Que omitan u ordenen omitir registrar en los términos del artículo 117 de esta Ley, las operaciones efectuadas por la Sociedad u Organismo de que se trate, o que alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados;
 
 II. Presenten a la Comisión datos, informes o documentos falsos o alterados sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos;
 
 III. Destruyan u ordenen que se destruyan total o parcialmente, los sistemas o registros contables o la documentación soporte que dé origen a los asientos contables respectivos, con anterioridad al vencimiento de los plazos legales de conservación;
 
-IV. Destruyan u ordenen que se destruyan total o parcialmente, información, documentos o archivos, incluso electrónicos, con el propósito de impedir u obstruir los actos de supervisión y vigilancia de la Comisión, así como la supervisión de la Federación;
+IV. Destruyan u ordenen que se destruyan total o parcialmente, información, documentos o archivos, incluso electrónicos, con el propósito de impedir u obstruir los actos de inspección y vigilancia de la Comisión, así como la supervisión de la Federación;
 
 V. Que proporcionen o permitan que se incluyan datos falsos en los documentos, informes, dictámenes, opiniones, estudios o calificación crediticia, que deban presentarse a la Comisión o a la Federación en cumplimiento de lo previsto en esta Ley;
 
 VI. Que conociendo la falsedad sobre el monto de los activos o pasivos, concedan el préstamo o crédito, y
 
-VII. Que, conociendo los vicios que señala la fracción III del Artículo 137 siguiente, concedan el préstamo o crédito, si el monto de la alteración hubiere sido determinante para concederlo.
+VII. Que, conociendo los vicios que señala la fracción III del artículo 137 de esta Ley, concedan el préstamo o crédito, si el monto de la alteración hubiere sido determinante para concederlo.
 
 > <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
-
-### Capítulo III. De las Notificaciones
-
-> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 137.
 
@@ -3002,7 +3318,9 @@ Considerando el monto de la operación, quebranto o perjuicio patrimonial, las s
 
 I. Las personas que con el propósito de obtener un préstamo o crédito, o de celebrar un contrato de arrendamiento financiero o de factoraje financiero proporcionen a una Sociedad u organismos, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la Sociedad;
 
-II. Serán sancionados hasta en una mitad más de las penas previstas en este Artículo, aquéllos funcionarios, empleados o comisionistas de terceros que participen en la solicitud y/o trámite para el otorgamiento del crédito, y conozcan la falsedad de los datos sobre los montos de los activos o pasivos de los acreditados, o que directa o indirectamente alteren o sustituyan la información mencionada, para ocultar los datos reales sobre dichos activos o pasivos;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Serán sancionados hasta en una mitad más de las penas previstas en este artículo, aquellos funcionarios, empleados, prestadores de servicios, comisionistas o comisionistas de terceros que participen en la solicitud o trámite para el otorgamiento del crédito, y conozcan la falsedad de los datos sobre los montos de los activos o pasivos de los acreditados, o que directa o indirectamente alteren o sustituyan la información mencionada, para ocultar los datos reales sobre dichos activos o pasivos;
 
 III. Los consejeros, directivos, funcionarios, empleados o quienes intervengan directamente en la operación que, falsifiquen, alteren, simulen o a sabiendas realicen operaciones que resulten en quebranto o perjuicio al patrimonio de la Sociedad u organismo.
 
@@ -3030,11 +3348,11 @@ VI. Los deudores que no destinen el importe del préstamo o crédito a los fines
 
 Los consejeros, directores o gerentes generales y demás directivos, funcionarios y empleados de las sociedades y organismos, o quienes intervengan directamente en la operación, que con independencia de los cargos o intereses fijados por la Sociedad u organismo respectivo, por sí o por interpósita persona hayan obtenido de los sujetos de préstamo o crédito o de operaciones con divisas, beneficios por su participación en el trámite u otorgamiento del crédito, de los bienes objeto del arrendamiento, del contrato de factoraje o de operaciones con divisas, serán sancionados con pena de prisión de tres meses a tres años y con multa de treinta a quinientos días de salario cuando el beneficio no sea valuable, o el monto del beneficio no exceda de quinientos días de salario, en el momento de cometerse el delito; cuando el beneficio exceda de dicho monto serán sancionados con prisión de dos a diez años y multa de quinientos a cincuenta mil días de salario.
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 139.
 
-Los consejeros, directores o gerentes generales y demás directivos, funcionarios, comisarios, empleados o socios que inciten u ordenen a directivos o empleados de la Sociedad u organismo a la comisión de los delitos que se refieren en los Artículos 136 Bis 4 y 137, fracción II, de esta Ley, serán sancionados hasta en una mitad más de las penas previstas en los Artículos respectivos.
+Los consejeros, directores o gerentes generales y demás directivos, funcionarios, comisarios, empleados, socios, prestadores de servicios o comisionistas que inciten u ordenen a directivos, empleados o a quien ostente un cargo o comisión de la Sociedad u Organismo a la comisión de los delitos que se refieren en los artículos 136 Bis 8 y 137, fracción II de esta Ley, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.
 
 > <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
@@ -3044,21 +3362,31 @@ Serán sancionados con penas de prisión de tres a quince años y multa hasta de
 
 Asimismo, serán sancionados con prisión de uno a seis años las personas que por sí o a través de otra persona o por medio de nombres comerciales, por cualquier medio de publicidad se ostenten frente al público como Sociedad Financiera Popular, Sociedad Financiera Comunitaria y Organismo de Integración Financiera Rural, sin contar con la autorización para organizarse y funcionar con tal carácter, emitida por la Comisión.
 
-> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 141.
 
-Serán sancionados los servidores públicos de la Comisión, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los Artículos 136 Bis 4 a 140 de esta Ley, cuando:
+Serán sancionados los servidores públicos de la Comisión, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos 136 Bis 8 a 140 de esta Ley, cuando:
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 I. Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito;
 
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
 II. Permitan que los directivos o empleados de la Sociedad u organismo, alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 III. Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito;
 
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
 IV. Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito; y
 
-V. Inciten u ordenen no presentar la petición a que se refiere el Artículo 136 Bis 3 de esta Ley a quien esté facultado para ello.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. Inciten u ordenen no presentar la petición a que se refiere el Artículo 136 Bis 7 de esta Ley a quien esté facultado para ello.
 
 > <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
@@ -3067,6 +3395,12 @@ V. Inciten u ordenen no presentar la petición a que se refiere el Artículo 136
 Se sancionará con prisión de tres a quince años al miembro del Consejo de Administración, director general y cualquier otro directivo, funcionario o empleado de una Sociedad u organismo, que por sí o por interpósita persona, dé u ofrezca dinero o cualquier otra cosa a un servidor público de la Comisión, para que haga u omita un determinado acto relacionado con sus funciones.
 
 Igual sanción se impondrá al servidor público de la Comisión, que por sí o por interpósita persona solicite u obtenga para sí o para otro, dinero o cualquier otra cosa, para hacer o dejar de hacer algún acto relacionado con sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 142 Bis.
+
+Las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que, para el desempeño de las actividades y operaciones que correspondan a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, estas les hubieren otorgado, serán consideradas como funcionarios o empleados de dichas Sociedades u Organismo, para efectos de las responsabilidades administrativas y penales establecidas en el presente Título.
 
 > <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
@@ -3086,7 +3420,19 @@ Serán sancionados con prisión de dos a siete años todo aquél que habiendo si
 
 Las penas previstas en esta Ley, se reducirán en un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 145 Bis.
+
+Cuando la Comisión Nacional Bancaria y de Valores presuma que una persona física o moral está realizando operaciones en contravención a lo dispuesto por el artículo 7 de esta Ley, o actúa como fiduciario sin estar autorizado para ello en ley, podrá nombrar un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está realizando las operaciones mencionadas, en cuyo caso, la Comisión Nacional Bancaria y de Valores podrá ordenar la suspensión inmediata de operaciones o proceder a la clausura de la negociación, empresa o establecimiento de la persona física o moral de que se trate.
+
+El procedimiento de inspección, suspensión de operaciones y clausura a que se refiere el párrafo anterior es de interés público. Será aplicable en lo conducente lo dispuesto en el Capítulo Único, Título Quinto de esta Ley.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+### Capítulo III. De las Notificaciones
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 146.
 
@@ -3759,3 +4105,23 @@ CUARTO.- Las referencias que otras Leyes, reglamentos o disposiciones hagan resp
 QUINTO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+###### ARTÍCULO OCTAVO.
+
+En relación con las modificaciones a que se refieren los Artículos Sexto y Séptimo, se estará a lo siguiente:
+
+I. Las infracciones o delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+II. Los recursos del Fondo de Obra Social que a la fecha de entrada en vigor del presente Decreto ya se hubieren comprometido para la realización de obras sociales se mantendrán destinados a dicho fin hasta su terminación. Por lo que se refiere a los recursos que se encontraren en dicho fondo y que aún no hubieren sido comprometidos, deberán transferirse al Fondo Social de Reserva previsto por el artículo 12 de la Ley de Ahorro y Crédito Popular.
+
+III. La Comisión Nacional Bancaria y de Valores diseñará medidas para evitar la operación de cajas de ahorro irregulares y en general de personas que capten irregularmente recursos, al margen de la legislación financiera aplicable, dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
