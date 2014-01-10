@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2013-12-24"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "COA"
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE ENERO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -6711,7 +6713,9 @@ P.O. 24 DE DICIEMBRE DE 2013.
 
 DECRETO NO. 386 POR EL QUE SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO OCTAVO DEL TÍTULO TERCERO Y SE DEROGA EL ARTÍCULO 249 DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
-PRIMERO.- La presente reforma entrará en vigor dieciocho meses después, contados a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(F. DE E., P.O. 10 DE ENERO DE 2014)</small>
+
+PRIMERO.- La presente reforma entrará en vigor un mes después, contado a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
