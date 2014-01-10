@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-banco-del-bienestar-antes-ley-organica-del-213
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-06-01"
-last_updated: "2005-08-01"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21311&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2001-05-30"
 ---
 # LEY ORGANICA DEL BANCO DEL BIENESTAR -- ANTES LEY ORGANICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS --
 
-LEY ORGANICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS
+LEY ORGÁNICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 1 de junio de 2001.
 
@@ -53,13 +53,21 @@ II. Secretaría: A la Secretaría de Hacienda y Crédito Público;
 
 III. Institución: Al Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-IV. Sector: Al conformado por los Organismos de Integración, las Entidades de Ahorro y Crédito Popular y a las personas morales y grupos de personas físicas, a que se refiere la Ley de Ahorro y Crédito Popular, así como a las personas físicas y morales que reciban u otorguen servicios a éstas.
+IV. Sector: Al conformado por las personas físicas y morales que, de acuerdo con los criterios definidos por el Consejo Directivo, tengan acceso limitado a los servicios financieros por su condición socioeconómica o ubicación geográfica, y a las personas morales a que se refieren la Ley de Ahorro y Crédito Popular y la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 3.
 
-El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, tendrá por objeto promover el ahorro, el financiamiento y la inversión entre los integrantes del Sector, ofrecer instrumentos y servicios financieros entre los mismos, así como canalizar apoyos financieros y técnicos necesarios para fomentar el hábito del ahorro y el sano desarrollo del Sector y en general, al desarrollo económico nacional y regional del país.
+El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, debería realizar funciones de banca social, para lo cual tendría por objeto promover y facilitar el ahorro, el acceso al financiamiento, la inclusión financiera, el fomento de la innovación, la perspectiva de género y la inversión entre los integrantes del Sector, ofrecer instrumentos y servicios financieros de primer y segundo piso entre los mismos, así como canalizar apoyos financieros y técnicos necesarios para fomentar el hábito del ahorro y el sano desarrollo del Sector y en general, al desarrollo económico nacional y regional del país, así como proporcionar asistencia técnica y capacitación a los integrantes del Sector.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, podrá operar bajo cualquier nombre comercial.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN DEL SEGUNDO PÁRRAFO DE FECHA 10 DE ENERO DE 2014, PASÓ A SER TERCER PÁRRAFO.</small>
 
 La operación y funcionamiento de la Institución se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios para alcanzar en colaboración con el Sector, los objetivos de carácter general señalados en el artículo 4o. de la Ley de Instituciones de Crédito.
 
@@ -73,7 +81,7 @@ El domicilio de la Institución será la ciudad de México, Distrito Federal. Po
 
 La duración de la Institución será indefinida.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 6.
 
@@ -83,47 +91,51 @@ La Secretaría interpretará a efectos administrativos la presente Ley.
 
 ### CAPÍTULO II. Objetivos y operaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 7.
 
-La Institución, con el fin de fomentar el desarrollo integral del Sector y promover su eficiencia y competitividad, en el ejercicio de su objeto estará facultada para:
+La Institución, como banca social, con el fin de fomentar el desarrollo del Sector y promover su eficiencia y competitividad, en el ejercicio de su objeto estará facultada para:
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-I. Promover, gestionar y financiar proyectos que atiendan las necesidades de los Organismos de Integración, de las Entidades de Ahorro y Crédito Popular, así como de las personas morales y grupos de personas físicas a que se refiere la Ley de Ahorro y Crédito Popular, y que le permitan cumplir con su objeto, en las distintas zonas del país y que propicien el mejor aprovechamiento de los recursos de cada región;
+I. Promover, gestionar y financiar proyectos que, en cumplimiento con su objeto, atiendan las necesidades del Sector en las distintas zonas del país y que propicien el mejor aprovechamiento de los recursos de cada región;
 
 II. Promover, encauzar y coordinar la inversión de capitales en el Sector;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-III. Promover el desarrollo tecnológico, la capacitación, la asistencia técnica y el incremento de la productividad de los Organismos de Integración, de las Entidades de Ahorro y Crédito Popular, así como de las personas morales y grupos de personas físicas a que se refiere la Ley de Ahorro y Crédito Popular;
+III. Promover el desarrollo tecnológico, la capacitación, la asistencia técnica y el incremento de la productividad de los integrantes del Sector;
 
 IV. Ser agente financiero del Gobierno Federal en lo relativo a la negociación, contratación y manejo de créditos del exterior, cuyo objetivo sea fomentar el desarrollo del Sector, que se otorguen por instituciones extranjeras privadas, gubernamentales o intergubernamentales, así como por cualquier otro organismo de cooperación financiera internacional.
 
 No se incluyen en esta disposición los créditos para fines monetarios;
 
-V. Gestionar y, en su caso, obtener concesiones, permisos y autorizaciones para la prestación de servicios vinculados con la consecución de su objeto;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. Gestionar y, en su caso, obtener concesiones, permisos y autorizaciones para la prestación de servicios vinculados con la consecución de su objeto, procurando en todo momento beneficiar al Sector;
 
 VI. Realizar los estudios económicos, sociales y financieros necesarios para el desarrollo del Sector;
 
-> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-VII. Propiciar acciones conjuntas de financiamiento y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito, con los sectores indígena, social y privado y con los Organismos de Integración y las Entidades de Ahorro y Crédito Popular;
+VII. Propiciar acciones conjuntas de financiamiento y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito, con los sectores indígena, social y privado y con los integrantes del Sector;
 
 > <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 VIII. Ser administradora y fiduciaria de fideicomisos, mandatos y comisiones que se constituyan para el adecuado desempeño de su objeto;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-IX. Promover, gestionar y financiar toda clase de proyectos, operaciones y actividades que atiendan las necesidades de servicios financieros, tecnológicos, de capacitación, de asesoría, de administración de riesgos financieros, entre otros, de los Organismos de Integración y de las Entidades de Ahorro y Crédito Popular, así como de las personas morales y grupos de personas físicas a que se refiere la Ley de Ahorro y Crédito Popular, y
+IX. Promover, facilitar, gestionar y financiar toda clase de proyectos, operaciones y actividades que atiendan las necesidades de servicios financieros, tecnológicos, de capacitación, de asesoría, de administración de riesgos financieros, de innovación, entre otros, de los integrantes del Sector;
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-X. Participar en las actividades inherentes a la promoción y conformación del Sector;
+X. Participar en las actividades inherentes a la promoción y conformación del Sector, y
 
-> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-XI. Diseñar y ejecutar programas que promuevan el ahorro y la inversión dentro de las comunidades indígenas.
+XI. Diseñar y ejecutar programas que promuevan el ahorro y la inversión dentro de las comunidades indígenas, con apoyo del Sector.
 
 La Institución deberá contar con la infraestructura necesaria para la adecuada prestación de servicios y realización de operaciones, en las distintas regiones del país y en su caso, en el extranjero.
 
@@ -164,6 +176,10 @@ X. Invertir en el capital social de sociedades o personas morales, que le preste
 > <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 XI. Actuar como cámara de compensación y liquidador de las operaciones que realicen las Entidades de Ahorro y Crédito Popular y como representante de dichas Entidades en cualquier otra cámara de compensación, o entidad que lleve a cabo las funciones de compensación y/o liquidación referidas, sujetándose en la realización de ambas operaciones a las disposiciones que, en su caso, emita el Banco de México;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XI Bis. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
 
 > <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -235,13 +251,15 @@ I. Cinco consejeros propietarios representarán a la serie "A" de certificados d
 
 a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo y el Subsecretario de Hacienda y Crédito Público.
 
-b) El Gobernador del Banco de México, los titulares de las Secretarías de Economía y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+b) Un representante designado por el Gobernador del Banco de México dentro de los 3 niveles jerárquicos superiores del instituto central, los titulares de las Secretarías de Economía y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 Por cada consejero propietario de esta serie, se deberá nombrar preferentemente a un suplente del nivel jerárquico inferior inmediato siguiente al de los propietarios.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de presidente del Consejo Directivo; y en caso de ausencia de este último, tendrá el carácter de presidente del Consejo Directivo, el consejero que sea designado por el Secretario de Hacienda y Crédito Público, para fungir con tal carácter en dicha sesión.
+En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá carácter de presidente del Consejo Directivo, en ausencia de este último, tendrá el carácter de presidente el suplente del Secretario de Hacienda y Crédito Público y a falta de todos los anteriores, quien designen los consejeros presentes de entre los consejeros de la serie “A”.
 
 II. Dos consejeros propietarios de la serie "B" designados en asamblea por las personas físicas o morales mexicanas tenedoras de los certificados de aportación patrimonial de esta serie y por el Ejecutivo Federal, a través de la Secretaría, para el caso de que el Gobierno Federal suscriba certificados de esta serie. Los consejeros de la serie "B" no tendrán suplentes, y
 
@@ -253,9 +271,11 @@ Los consejeros independientes no tendrán suplentes y deberán asistir cuando me
 
 El cargo de consejero es personal y no podrá desempeñarse por medio de representantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 18.
 
-El Consejo Directivo se reunirá por lo menos seis veces al año, sin perjuicio de que lo haga en forma extraordinaria en cualquier tiempo, siempre que sea convocado por su presidente, o por cuando menos tres de los consejeros propietarios.
+El Consejo Directivo se reunirá por lo menos trimestralmente, sin perjuicio de que lo haga en forma extraordinaria en cualquier tiempo, siempre que sea convocado por su presidente, o por cuando menos tres de los consejeros propietarios.
 
 Las sesiones del Consejo Directivo se celebrarán con la asistencia de por lo menos seis consejeros, siempre y cuando se cuente con la presencia de un consejero independiente y por lo menos tres consejeros de la serie "A", incluido el presidente del Consejo Directivo.
 
@@ -293,7 +313,7 @@ c) Las personas que tengan conflicto de intereses con la Institución por ser cl
 
 d) Las personas que tengan un vínculo laboral o la representación de asociaciones, gremios, federaciones, confederaciones de trabajadores, patrones, o de los Organismos de Integración y Entidades del Sector, o sean miembros de sus órganos directivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
 ###### Artículo 20.
 
@@ -329,9 +349,9 @@ III. Autorizar la adquisición y uso de tecnología a que se refiere la fracció
 
 IV. Aprobar los demás programas específicos y reglamentos internos de la Institución que le presente el Director General;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-V. Nombrar y remover, a propuesta del director general, a los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, a los delegados fiduciarios y a los demás que señale el reglamento orgánico, así como concederles licencias;
+V. Nombrar y remover, a propuesta del director general, a los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y a los demás que señale el reglamento orgánico, así como concederles licencias;
 
 > <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -341,9 +361,9 @@ VI. Nombrar y remover al secretario y al prosecretario del Consejo;
 
 VII. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Institución, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-VIII. Aprobar, a propuesta del director general, la estructura orgánica, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Institución, previa opinión y recomendación que en su caso emita el comité de recursos humanos y desarrollo institucional;
+VIII. Aprobar, a propuesta del comité de recursos humanos y desarrollo institucional, de conformidad con lo previsto en el artículo 42, fracción XVIII de la Ley de Instituciones de Crédito, la estructura orgánica, tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano; políticas de ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; y las demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Institución;
 
 > <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -425,19 +445,13 @@ XXVII. Conocer y en su caso, aprobar los informes que le presente el comité de 
 
 En los supuestos establecidos en las fracciones XII, XVI, XXIII y XXIV se requerirá de la autorización expresa de la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 23.
 
-La institución tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma:
+La institución tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma: Tres representantes de la Secretaría de Hacienda y Crédito Público: el Subsecretario de Egresos, el Subsecretario de Hacienda y Crédito Público y el Titular de la Unidad de Banca de Desarrollo;
 
-Dos representantes de la Secretaría de Hacienda y Crédito Público: el Subsecretario de Egresos y el Subsecretario de Hacienda y Crédito Público;
-
-Una persona que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos;
-
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-Un representante de la Secretaría de la Función Pública que será el Subsecretario de Desarrollo y Simplificación Administrativa;
+Una persona designada por el Consejo Directivo, que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos;
 
 Un miembro del Consejo Directivo que tenga el carácter de independiente;
 
@@ -447,11 +461,15 @@ Un representante de la Comisión Nacional Bancaria y de Valores con voz, pero si
 
 El Director General de la Institución se abstendrá de participar en las sesiones del Comité, que tengan por objeto emitir opiniones o recomendaciones con respecto a su sueldo, prestaciones económicas y de seguridad social.
 
-Este Comité opinará y propondrá en términos de las condiciones generales de trabajo, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la institución.
+Este Comité opinará y propondrá, los tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño; políticas de ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; y las demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la institución.
 
-Este Comité sesionará a petición del Director General de la Institución, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión. De entre los miembros del Comité se designará a un presidente y sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero sin voto.
+La Secretaría de Hacienda y Crédito Público establecerá criterios en materia de estructura ocupacional, movimientos salariales, percepciones extraordinarias y prestaciones, los cuales deberán ser observados por el Comité. Asimismo, la Sociedad proporcionará a la Secretaría señalada la información que solicite.
+
+Este Comité sesionará a petición del Director General de la Institución, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión. Sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público, quien lo presidirá, contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero sin voto.
 
 Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de director general.
+
+En caso de ausencia del Subsecretario de Hacienda y Crédito Público, sin perjuicio del derecho de voto de su suplente, presidirá el Comité y ejercerá el voto de calidad el Titular de la Unidad de Banca de Desarrollo.
 
 ###### Artículo 24.
 
@@ -463,13 +481,19 @@ El Director General tendrá a su cargo la administración y representación lega
 
 I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Institución. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa y no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales inclusive en el juicio de amparo, comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos y revocarlos, y otorgar facultades de sustitución a los apoderados debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I Bis. Informar a la Secretaría, previo a la autorización de las instancias correspondientes, las operaciones que pudiesen estar vinculadas con el objeto de las otras instituciones de banca de desarrollo;
+
 II. Ejecutar las resoluciones del Consejo Directivo;
 
 III. Llevar la firma de la Institución;
 
 IV. Actuar como Delegado Fiduciario General;
 
-V. Decidir la designación y contratación de los servidores públicos de la Institución, distintos de los señalados en la fracción I del artículo 42 de la Ley de Instituciones de Crédito, administrar al personal en su conjunto y establecer y organizar las oficinas de la institución;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. Decidir la designación y contratación de los servidores públicos de la Institución, distintos de los señalados en la fracción I del artículo 42 de la Ley de Instituciones de Crédito, así como la designación y remoción de los delegados fiduciarios; administrar al personal en su conjunto, y establecer y organizar las oficinas de la institución;
 
 VI. Autorizar la publicación de los balances mensuales de la Institución, conforme a las bases acordadas por el Consejo Directivo;
 
@@ -481,9 +505,9 @@ VII. Participar en las sesiones del Consejo Directivo con voz, pero sin voto;
 
 VIII. Administrar los bienes y negocios celebrando los convenios y ejecutando los actos que requiera la marcha ordinaria de la Institución;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-IX. Proponer al Consejo Directivo, la designación de Delegados Fiduciarios y de los servidores públicos de la Institución que ocupen cargos con las dos jerarquías inmediatas inferiores a las de su rango y presentarle las solicitudes de licencia, así como las renuncias de los mismos;
+IX. Proponer al Consejo Directivo, la designación de los servidores públicos de la Institución que ocupen cargos con las dos jerarquías inmediatas inferiores a las de su rango y presentarle las solicitudes de licencia, así como las renuncias de los mismos;
 
 > <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -583,13 +607,11 @@ Los Consejeros, el Director General y los Delegados Fiduciarios de la Instituci�
 
 ### CAPÍTULO V. Vigilancia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 27.
 
-La vigilancia de la Institución estará encomendada a dos comisarios designados, uno por la Secretaría de la Función Pública y el otro por los tenedores de la serie "B". Por cada comisario se nombrará el respectivo suplente.
-
-Los comisarios tendrán en los términos de la Ley de Instituciones de Crédito, y del Reglamento Orgánico de la Institución, las facultades y obligaciones que requieran para el adecuado cumplimiento de sus funciones, las que podrán ejercer conjunta o separadamente.
+La vigilancia de la Sociedad se realizará por los órganos y en los términos señalados en la Ley de Instituciones de Crédito y las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores.
 
 ### CAPÍTULO VI. Disposiciones generales
 
@@ -617,7 +639,7 @@ Los depósitos que se entreguen a la Institución, se documentarán en los recib
 
 Cuando se cumplan los requisitos especificados en el contrato respectivo, para la emisión del estado de cuenta autorizado de las cantidades depositadas y retiradas, los asientos que figuren en la contabilidad de la Institución, harán fe, salvo prueba en contrario, en el juicio respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
 ###### Artículo 32.
 
@@ -641,7 +663,7 @@ Fijado el monto del remanente y separada la cantidad que corresponda pagar por e
 
 ###### Artículo 35.
 
-La Institución no estará obligada a constituir el Fideicomiso a que se refiere el artículo 55 Bis de la Ley de Instituciones de Crédito, cuando los recursos captados de manera directa, mediante actos causantes de pasivo directo, ya sea a través del gran público inversionista, de ventanilla o de cualquier otro medio, con el objeto de promover el ahorro popular conforme a su Reglamento Orgánico, se encuentren invertidos en valores gubernamentales; así como en aquellos que determine la Secretaría.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 36.
 
@@ -680,6 +702,18 @@ II. En el informe de abril a junio de cada año, un informe sobre el cumplimient
 III. En el informe de julio a septiembre de cada año, un informe sobre el cumplimiento del programa anual de la Institución durante el primer semestre del ejercicio de que se trate.
 
 Asimismo, la Institución deberá publicar trimestralmente en dos periódicos de amplia circulación en el país, el estado que guarda el patrimonio, así como los indicadores más representativos de la situación financiera y de la administración de la Institución.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 37 Bis.
+
+La Sociedad prestará los servicios de asistencia y defensa legal a los integrantes de su Consejo Directivo, comités establecidos por el mismo o previstos por disposición normativa y a los servidores públicos que laboren o hubieren laborado en la propia institución, con respecto a los actos que dichas personas realicen en el ejercicio de las funciones que tengan encomendadas por ley y de conformidad con los lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
+
+La mencionada asistencia y defensa legal se proporcionará aun cuando las personas indicadas dejen de desempeñar sus funciones o prestar sus servicios a la Sociedad, siempre que se trate de actos realizados en el desempeño de sus funciones o actividades al servicio de la Sociedad.
+
+La asistencia y defensa legal se proporcionará con cargo a los recursos con los que cuente la Sociedad para estos fines. En caso de que la autoridad competente dicte al sujeto de la asistencia legal resolución definitiva que cause ejecutoria en su contra, dicha persona deberá rembolsar a la Sociedad los gastos y cualquier otra erogación que ésta hubiere efectuado con motivo de la asistencia y defensa legal.
+
+Lo dispuesto en este artículo se aplicará sin perjuicio de la obligación que tienen los sujetos de asistencia y defensa legal, de rendir los informes que les sean requeridos en términos de las disposiciones legales aplicables como parte del desempeño de sus funciones.
 
 ### CAPÍTULO VII. Del Régimen Laboral
 
@@ -739,7 +773,7 @@ México, D.F., a 30 de abril de 2001.- Dip. Ricardo García Cervantes, President
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 24 DE JUNIO DE 2002.
 
@@ -767,7 +801,7 @@ Los procedimientos que hubieren iniciado con anterioridad a la entrada en vigor 
 
 El comité de planeación de recursos humanos y desarrollo institucional, deberá integrarse y entrar en funciones en un plazo no mayor de noventa días naturales contados a partir de la fecha en que entre en vigor el presente Decreto.
 
-###### ARTICULO SEPTIMO.
+###### ARTICULO SÉPTIMO.
 
 El comité de administración integral de riesgos deberá integrarse y entrará en funciones dentro de los 60 días hábiles siguientes a la fecha en que entre en vigor el presente Decreto.
 
@@ -802,3 +836,27 @@ D.O.F. 1 DE AGOSTO DE 2005.
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo Séptimo, Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
+
+I. El Congreso de la Unión, al emitir las leyes reglamentarias a que se refiere el párrafo segundo del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
+
+II. A partir de la entrada en vigor de este Decreto, los trabajadores de confianza de las instituciones de banca de desarrollo quedarán excluidos de la aplicación de las condiciones generales de trabajo de la respectiva institución. Sin perjuicio de lo anterior, los derechos adquiridos de los trabajadores de confianza que se encuentren laborando en una institución de banca de desarrollo a la fecha de entrada en vigor de este Decreto, deberán ser respetados, previéndose lo conducente en los manuales de remuneraciones y jubilaciones a que se refiere el artículo 43 Bis de la Ley de Instituciones de Crédito, reformado en los términos del presente Decreto.
+
+III. En un plazo de sesenta días naturales siguientes a la entrada en vigor de este Decreto, las sociedades nacionales de crédito deberán extinguir el fideicomiso constituido en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.
+
+IV. Las funciones de banca social previstas en la reforma al artículo 3 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, se deberán implementar por la institución a partir del 1o de enero de 2014, por lo que en el PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2014 deberá preverse la asignación de recursos para fortalecer el patrimonio del Banco del Ahorro Nacional y Servicios Financieros a fin de que pueda cumplir su objeto como Banca Social.
+
+V. En un plazo de noventa días naturales, la Secretaría de Hacienda y Crédito Público realizará una evaluación de los subsidios, apoyos, programas, fondos, fideicomisos otorgados y administrados por las entidades de la Administración Pública Federal, con la finalidad diagnosticar (sic) la factibilidad de que sean canalizados a través de un nuevo sistema único de financiamiento y fomento agropecuario y rural.
+
+VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones jurídicas emitidas con anterioridad al presente Decreto, así como todos los contratos, convenios y demás actos jurídicos celebrados por la institución, hagan referencia a la Financiera Rural, se entenderá que hacen referencia a la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
