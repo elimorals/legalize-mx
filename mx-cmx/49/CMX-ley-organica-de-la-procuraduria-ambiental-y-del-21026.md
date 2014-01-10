@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-ambiental-y-del-21026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-24"
-last_updated: "2013-09-17"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21026&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2001-04-09"
 
 LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 24 de abril de 2001.
 
@@ -824,9 +824,9 @@ I. Solicitar a las autoridades competentes, la información y documentación que
 
 II. Requerir la rendición del informe correspondiente, a la autoridad presuntamente responsable, de los hechos denunciados;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 10 DE ENERO DE 2014)</small>
 
-III. Llevar a cabo los reconocimientos de hechos necesarios, para la substanciación de las denuncias y en caso de ser procedentes emitir las acciones precautorias que correspondan, y solicitar en su caso, de conformidad con las disposiciones legales aplicables, la revocación y cancelación de las licencias, autorizaciones, permisos, certificados y registros, cuando se trasgredan las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, del Distrito Federal;
+III. Llevar a cabo los reconocimientos de hechos necesarios, para la substanciación de las denuncias y en caso de ser procedentes emitir las acciones precautorias que correspondan, y solicitar en su caso, de conformidad con las disposiciones legales aplicables, la custodia de los folios reales ante el Registro Público de la Propiedad y de Comercio del Distrito Federal, la revocación y cancelación de las licencias, autorizaciones, permisos, certificados y registros, cuando se trasgredan las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -1201,3 +1201,13 @@ TERCERO.- En tanto se expidan las disposiciones administrativas que deriven de l
 CUARTO.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta ley iniciadas con anterioridad a la entrada en vigor del presente decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
 
 QUINTO.- Las reformas a la Ley Ambiental del Distrito Federal, turnadas a la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático, durante el Primer Periodo Ordinario, el Primer Receso y el Segundo Periodo Ordinario, del Primer Año de Ejercicio, y las que se presenten en lo sucesivo, relativo a la Ley Ambiental del Distrito Federal, se entenderán referidas a la Ley Ambiental de Protección a la Tierra en el Distrito Federal.
+
+G.O. 10 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
