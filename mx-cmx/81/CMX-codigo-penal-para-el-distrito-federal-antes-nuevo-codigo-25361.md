@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2013-09-13"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2332,7 +2332,7 @@ Cuando el agente sea servidor público, se le impondrá, además, destitución e
 
 ### CAPÍTULO II. EJERCICIO ILEGAL Y ABANDONO DEL SERVICIO PÚBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 220.
 
@@ -2548,9 +2548,25 @@ Las instituciones y organismos auxiliares de crédito, las de fianzas y las de s
 
 XIII. Con el fin de procurarse ilícitamente una cosa u obtener un lucro indebido libre un cheque contra una cuenta bancaria, que sea rechazado por la institución, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución o por carecer éste de fondos suficientes para su pago de conformidad con la legislación aplicable. La certificación relativa a la inexistencia de la cuenta o a la falta de fondos suficientes para el pago deberá realizarse exclusivamente por personal específicamente autorizado para tal efecto por la institución de crédito de que se trate;
 
-XIV. Para obtener algún beneficio para sí o para un tercero, por cualquier medio accese, entre o se introduzca a los sistemas o programas de informática del sistema financiero e indebidamente realice operaciones, transferencias o movimientos de dinero o valores, independientemente de que los recursos no salgan de la Institución; o
+XIV. Para obtener algún beneficio para sí o para un tercero, por cualquier medio accese, entre o se introduzca a los sistemas o programas de informática del sistema financiero e indebidamente realice operaciones, transferencias o movimientos de dinero o valores, independientemente de que los recursos no salgan de la Institución; o (sic)
 
 XV. Por sí, o por interpósita persona, sin el previo permiso de las autoridades administrativas competentes o sin satisfacer los requisitos señalados en el permiso obtenido, fraccione o divida en lotes un terreno urbano o rústico, con o sin construcciones, propio o ajeno y transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre alguno de esos lotes.
+
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2014)</small>
+
+XVI. Por cualquier forma transmita la propiedad o prometa transferir la propiedad de un bien inmueble en un conjunto habitacional, comercial o mixto, aún sin construirse, en construcción o construido a sabiendas de que no exista, según corresponda:
+
+a) Certificado único de zonificación de uso del suelo;
+
+b) Certificado de acreditación de uso del suelo por derechos adquiridos;
+
+c) Manifestaciones de construcción;
+
+d) Licencia de construcción especial para demolición;
+
+e) Permisos para la ejecución de obras; o
+
+f) Cualquier otro relacionado con la zonificación, el uso del suelo, construcción y demolición, independientemente de su denominación; Que le permita edificarlo en la forma en que se describa o prometa en el contrato.
 
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
@@ -2852,13 +2868,29 @@ III. Decomiso de los productos del delito.
 
 ###### ARTÍCULO 259.
 
-Comete el delito de ejercicio ilegal de servicio público, el servidor público que:
+Comete el delito de ejercicio ilegal del servicio público, el servidor público que:
 
 I. Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima, o quien lo designe sin satisfacer todos los requisitos legales;
 
 II. Continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido;
 
 III. Por sí o por interpósita persona, sustraiga, destruya, oculte, altere, utilice o inutilice, indebidamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+
+> <small>(ADICIONADA, G.O. 10 DE ENERO DE 2014)</small>
+
+III Bis. Sustraiga, destruya, oculte, altere, utilice, inutilice o introduzca ilegalmente información o documentos auténticos, falsos, alterados o que no sean reconocidos por la autoridad que los expidió, en expedientes, archivos o bases de datos que se encuentren bajo su custodia o a los que tenga acceso en virtud de su empleo, cargo, comisión o cualquier otra clase de prestación de servicios, con la finalidad de que se expidan o registren algunos de los documentos siguientes:
+
+a) Certificado único de zonificación de uso del suelo;
+
+b) Certificado de acreditación de uso del suelo por derechos adquiridos;
+
+c) Manifestaciones de construcción;
+
+d) Licencia de construcción especial para demolición;
+
+e) Permisos para la ejecución de obras; o
+
+f) Cualquier otro relacionado con la zonificación, el uso del suelo, construcción y demolición, independientemente de su denominación; En contravención con la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para el Distrito Federal.
 
 > <small>(REFORMADA, G.O. 17 DE ENERO DE 2005)</small>
 
@@ -2874,9 +2906,9 @@ V. Teniendo un empleo, cargo o comisión en los Centros de Reclusión del Distri
 
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de veinticinco a doscientos cincuenta días multa.
 
-> <small>(REFORMADO, G.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
 
-Al que cometa alguno de los delitos a que se refieren las fracciones III, IV, IV Bis y V de este artículo, se le impondrán de dos a siete años de prisión y de veinticinco a doscientos cincuenta días multa.
+Al que cometa alguno de los delitos a los que se refieren las fracciones III, III Bis, IV, IV Bis y V de este artículo, se le impondrán de dos a siete años de prisión y de veinticinco a doscientos cincuenta días multa.
 
 ###### ARTÍCULO 260.
 
@@ -2930,17 +2962,29 @@ A los servidores públicos que, con el fin de impedir o suspender las funciones 
 
 Comete el delito de uso ilegal de atribuciones y facultades:
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2014)</small>
 
-I. El servidor público que ilegalmente;
+I. Al (sic) servidor público que ilegalmente:
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio del Distrito Federal;
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 b) Otorgue permisos, licencias o autorizaciones de contenido económico;
 
-c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública del Distrito Federal; o
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-d) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, o colocaciones de fondos y valores con recursos económicos públicos.
+c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública del Distrito Federal; o (sic)
+
+> <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
+
+d) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, o colocaciones de fondos y valores con recursos económicos públicos y,
+
+> <small>(ADICIONADO, G.O. 10 DE ENERO DE 2014)</small>
+
+e) Expida, otorgue o permita el otorgamiento o la expedición de certificados, autorizaciones o licencias en materia de uso del suelo, construcción o inmuebles;
 
 II. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
 
@@ -3278,9 +3322,11 @@ X. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a ot
 
 ### CAPÍTULO VI. RESPONSABILIDAD DE LOS DIRECTORES RESPONSABLES DE OBRA O CORRESPONSABLES
 
-> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
 
-ARTÍCULO 329 BIS. Al Director Responsable de Obra o Corresponsable de Obra que permita el desarrollo de la obra, en la que otorgó su responsiva, sin apego a la licencia, autorización, permiso, registro o conforme a las disposiciones aplicables, se le impondrá de dos a cinco años de prisión y de cuatrocientos a setecientos días multa, así como suspensión para desempeñar profesión u oficio hasta por un periodo igual a la pena de prisión impuesta.
+ARTÍCULO 329 BIS. Al Director Responsable de Obra o Corresponsable de Obra que autorice o permita el desarrollo de una construcción, de la que otorgó su responsiva, sin apego a la licencia, autorización, permiso, registro o la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para el Distrito Federal, se le impondrá de cuatro a seis años seis meses de prisión y de mil a diez mil días multa, así como suspensión para desempeñar profesión u oficio hasta por un periodo igual a la pena de prisión impuesta.
+
+La misma sanción se impondrá al propietario del inmueble donde se desarrolla la construcción, su representante legal o el constructor, que teniendo conocimiento permita la edificación sin apego a la licencia, autorización, permiso, registro o la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para el Distrito Federal, con relación a la altura, número de niveles y área libre permitidas, siempre que no lo denuncie a la autoridad competente.
 
 ###### ARTÍCULO 294.
 
@@ -3703,6 +3749,10 @@ Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualqu
 Al que para obtener un beneficio o causar un daño, falsifique o altere un documento público o privado, se le impondrán de tres a seis años de prisión y de cien a mil días multa, tratándose de documentos públicos y de seis meses a tres años de prisión y de cincuenta a quinientos días multa, tratándose de documentos privados.
 
 Las mismas penas se impondrán al que, con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado o haga uso indebido de un documento verdadero, expedido a favor de otro, como si hubiere sido expedido a su nombre, o aproveche indebidamente una firma o rúbrica en blanco.
+
+> <small>(ADICIONADO, G.O. 10 DE ENERO DE 2014)</small>
+
+A quien haga uso de un documento público o privado falso, alterado o que no sea reconocido por la autoridad que lo expidió, para la obtención de certificados relativos a la zonificación, uso del suelo o derechos adquiridos, se le impondrá de cuatro a seis años seis meses de prisión y de mil a diez mil días multa.
 
 ###### ARTÍCULO 340.
 
@@ -4751,3 +4801,11 @@ SEGUNDO. - El presente decreto entrará en vigor a los 30 días de su publicaci�
 TERCERO. - Los procesos penales que se sigan por los tipos penales que integren delincuencia organizada y las sentencias que se hayan dictado al respecto, seguirán substanciándose hasta su culminación y se compurgarán de conformidad con los artículos 254 y 255 del Código Penal para el Distrito Federal y la Ley contra la Delincuencia Organizada para el Distrito Federal, que seguirán vigentes sólo en estos supuestos.
 
 CUARTO.- Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 10 DE ENERO DE 2014.
+
+Artículo Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Artículo Tercero. Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
