@@ -4,7 +4,7 @@ identifier: "LCM"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-12"
-last_updated: "2007-12-27"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16134&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCM"
 
 LEY DE CONCURSOS MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de mayo de 2000.
 
@@ -52,7 +52,9 @@ LEY DE CONCURSOS MERCANTILES
 
 La presente Ley es de interés público y tiene por objeto regular el concurso mercantil.
 
-Es de interés público conservar las empresas y evitar que el incumplimiento generalizado de las obligaciones de pago ponga en riesgo la viabilidad de las mismas y de las demás con las que mantenga una relación de negocios.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Es de interés público conservar las empresas y evitar que el incumplimiento generalizado de las obligaciones de pago ponga en riesgo la viabilidad de las mismas y de las demás con las que mantenga una relación de negocios. Con el fin de garantizar una adecuada protección a los acreedores frente al detrimento del patrimonio de las empresas en concurso, el juez y los demás sujetos del proceso regulado en esta Ley deberán regir sus actuaciones, en todo momento, bajo los principios de trascendencia, economía procesal, celeridad, publicidad y buena fe.
 
 ###### Artículo 2o.
 
@@ -72,7 +74,15 @@ II. Comerciante, a la persona física o moral que tenga ese carácter conforme a
 
 III. Domicilio, el domicilio social y en caso de irrealidad de éste, el lugar donde tenga la administración principal la empresa. En caso de sucursales de empresas extranjeras será el lugar donde se encuentre su establecimiento principal en la República Mexicana. Tratándose de Comerciante persona física, el establecimiento principal de su empresa y, en su defecto, en donde tenga su domicilio;
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III Bis. Firma Electrónica, al medio de ingreso al sistema electrónico del Poder Judicial de la Federación que producirá los mismos efectos jurídicos que la firma autógrafa, como opción para enviar y recibir promociones, documentos, comunicaciones y notificaciones oficiales, así como consultar acuerdos, resoluciones y sentencias relacionadas con los asuntos de competencia de los órganos jurisdiccionales bajo esta Ley;
+
 IV. Instituto, al Instituto Federal de Especialistas de Concursos Mercantiles;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV Bis. Ley, a la presente Ley de Concursos Mercantiles;
 
 V. Masa, a la porción del patrimonio del Comerciante declarado en concurso mercantil integrada por sus bienes y derechos, con excepción de los expresamente excluidos en términos de esta Ley, sobre la cual los Acreedores Reconocidos y los demás que tengan derecho, pueden hacer efectivos sus créditos, y
 
@@ -88,9 +98,13 @@ Las empresas de participación estatal constituidas como sociedades mercantiles 
 
 Cuando en esta Ley se señale un número de días para la celebración de una audiencia, la práctica de alguna diligencia o acto, o el ejercicio de algún derecho, sin hacer referencia alguna al tipo de días, se entenderá que se trata de días hábiles. En los casos en que se haga referencia expresa a un plazo, si éste vence en un día inhábil se entenderá concluido el primer día hábil siguiente.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 7o.
 
-El juez es el rector del procedimiento de concurso mercantil y tendrá las facultades necesarias para dar cumplimiento a lo que esta Ley establece. Será causa de responsabilidad imputable al juez o al Instituto la falta de cumplimiento de sus respectivas obligaciones en los plazos previstos en esta Ley, salvo por causas de fuerza mayor o caso fortuito.
+El juez es el rector del procedimiento de concurso mercantil y tendrá las facultades necesarias para dar cumplimiento a lo que esta Ley establece, sin que pueda modificar cualquier plazo o término que fije la misma salvo que ésta lo faculte expresamente para hacerlo. Será causa de responsabilidad imputable al juez o al Instituto la falta de cumplimiento de sus respectivas obligaciones en los plazos previstos en esta Ley, salvo por causas de fuerza mayor o caso fortuito.
+
+El procedimiento de concurso mercantil es público, por lo que cualquier persona puede solicitar acceso a la información sobre el mismo, a través de los mecanismos de acceso a la información con que cuente el Poder Judicial de la Federación.
 
 ###### Artículo 8o.
 
@@ -188,33 +202,37 @@ La declaración de concurso mercantil de uno o más socios ilimitadamente respon
 
 El concurso mercantil de una sociedad irregular provocará el de los socios ilimitadamente responsables y el de aquéllos contra los que se pruebe que sin fundamento objetivo se tenían por limitadamente responsables.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 15.
 
 No se acumularán los procedimientos de concurso mercantil de dos o más Comerciantes, salvo lo previsto en el párrafo siguiente.
 
-Se acumularán, pero se llevarán por cuerda separada, los procedimientos de concurso mercantil de:
+Se acumularán, pero se llevarán por cuerda separada, los procedimientos de concurso mercantil de sociedades mercantiles que integren un grupo societario.
 
-I. Las sociedades controladoras y sus controladas, y
+Para efectos de lo dispuesto en esta Ley, se entenderá que integran un grupo societario las sociedades controladoras y controladas conforme a lo siguiente:
 
-II. Dos o más sociedades controladas por una misma controladora.
-
-Para los efectos de esta Ley, se entenderá por sociedades mercantiles controladoras las que reúnan los siguientes requisitos:
-
-I. Que se trate de una sociedad residente en México;
-
-II. Que sean propietarias de más del cincuenta por ciento de las acciones con derecho a voto de otra u otras sociedades controladas, inclusive cuando dicha propiedad se tenga por conducto de otras sociedades que a su vez sean controladas por la misma controladora, y
-
-III. Que en ningún caso más de cincuenta por ciento de sus acciones con derecho a voto sean propiedad de otra u otras sociedades.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+I. Se considerarán sociedades controladoras aquellas que, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital de otra sociedad, tengan poder decisorio en sus asambleas, estén en posibilidad de nombrar a la mayoría de los miembros del órgano de administración, o que por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de una sociedad.
 
 No se considerarán acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la legislación mercantil se denominen acciones de goce.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+Tratándose de sociedades que no sean por acciones, se considerará el valor de las partes sociales.
 
-Tratándose de sociedades que no sean por acciones se considerará el valor de las partes sociales.
+II. Se considerarán sociedades controladas aquéllas en las cuales más del cincuenta por ciento de sus acciones con derecho a voto sean propiedad, ya sea en forma directa, indirecta o de ambas formas, de una sociedad controladora. Para ello, la tenencia indirecta a que se refiere este párrafo será aquélla que tenga la controladora por conducto de otra u otras sociedades que a su vez sean controladas por la misma controladora.
 
-Se considerarán sociedades controladas aquéllas en las cuales más del cincuenta por ciento de sus acciones con derecho a voto sean propiedad, ya sea en forma directa, indirecta o de ambas formas, de una sociedad controladora. Para ello la tenencia indirecta a que se refiere este párrafo será aquélla que tenga la controladora por conducto de otra u otras sociedades que a su vez sean controladas por la misma controladora.
+También serán consideradas sociedades controladas, las sociedades en las que una sociedad mercantil controladora, con independencia de actualizar los supuestos señalados en las fracciones anteriores, tenga la capacidad de dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de una sociedad controladora, ya sea a través de la propiedad de las acciones representativas de su capital social, por contrato o a través de cualquier otra forma.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 15 Bis.
+
+Podrán solicitar simultáneamente la declaración judicial conjunta de concurso mercantil, sin consolidación de masas, aquellos Comerciantes que formen parte del mismo grupo societario. Para la declaratoria conjunta del concurso mercantil resultará suficiente con que uno de los integrantes del grupo se encuentre en alguno de los supuestos de los artículos 10, 11 o 20 Bis, y que dicho estado coloque a uno o más de los integrantes del grupo societario en la misma situación.
+
+Tratándose de Comerciantes integrantes de un grupo que se encuentren en el mismo supuesto del párrafo inmediato anterior, su acreedor o acreedores podrán demandar la declaración judicial conjunta de concurso mercantil de uno o varios de éstos.
+
+En los casos previstos en este artículo, la solicitud o demanda de declaración conjunta de concurso mercantil se sustanciará bajo un mismo procedimiento, pudiendo designar el juez a un solo visitador, conciliador o síndico para los efectos de esta Ley, si así resulta conveniente para los fines del procedimiento.
+
+Los procedimientos de declaración conjunta de concurso mercantil podrán acumularse con otros procesos de concurso mercantil conforme a lo dispuesto en el artículo 15.
 
 ###### Artículo 16.
 
@@ -222,9 +240,15 @@ Las sucursales de empresas extranjeras podrán ser declaradas en concurso mercan
 
 ### Capítulo III. Del procedimiento para la declaración de concurso mercantil
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 17.
 
-Es competente para conocer del concurso mercantil de un Comerciante, el Juez de Distrito con jurisdicción en el lugar en donde el Comerciante tenga su Domicilio.
+Es competente para conocer del concurso mercantil de un Comerciante, el Juez de Distrito con jurisdicción en el lugar en donde el Comerciante tenga su domicilio, salvo por lo dispuesto en los párrafos siguientes.
+
+En el caso de las solicitudes o demandas de concurso mercantil que se promovieren por o en contra de sociedades controladoras, habiéndose ya promovido un concurso mercantil de sus controladas o bien, las solicitudes o demandas de concurso mercantil promovidas contra sociedades controladas, habiendo iniciado el trámite de un concurso mercantil de la sociedad o sociedades controladoras, para la acumulación a que se refiere el artículo 15 de esta Ley, será competente el juez que hubiere conocido del primer juicio, bastando promover la solicitud o demanda subsecuente ante el mismo para su admisión.
+
+Será juez competente para la declaración conjunta de concurso mercantil a que se refiere el artículo 15 Bis de esta Ley, el del lugar donde tenga su domicilio la sociedad integrante del grupo societario que se ubique primero en los supuestos de los artículos 10, 11 o 20 Bis.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -238,13 +262,15 @@ El juez deberá desechar de plano las excepciones notoriamente improcedentes y p
 
 Si se declara procedente la excepción de falta de personalidad del actor o la objeción que se haya hecho a la personalidad de quien se haya ostentado como representante del Comerciante, el juez concederá un plazo no mayor de diez días para que se subsane, si los defectos del documento presentado por el representante fueren subsanables. De no subsanarse, cuando se trate de la legitimación al proceso del Comerciante, se continuará el juicio en rebeldía de éste. Si no se subsanara la del actor, el juez de inmediato sobreseerá el juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 20.
 
-El Comerciante que considere que ha incurrido en el incumplimiento generalizado de sus obligaciones en términos de cualquiera de los dos supuestos establecidos en el artículo 10 de esta Ley, podrá solicitar que se le declare en concurso mercantil, el cual, en caso de ser fundado, se abrirá en etapa de conciliación, salvo que el Comerciante expresamente pida que el concurso mercantil se abra en etapa de quiebra.
+El Comerciante que considere que ha incurrido en el incumplimiento generalizado de sus obligaciones en términos de cualquiera de los supuestos establecidos en el artículo 10 de esta Ley, podrá solicitar que se le declare en concurso mercantil, el cual, en caso de ser fundado, se abrirá en etapa de conciliación, salvo que el Comerciante expresamente pida que el concurso mercantil se abra en etapa de quiebra.
 
-La solicitud de declaración de concurso mercantil presentada por el propio Comerciante deberá contener el nombre completo, denominación o razón social del Comerciante, el domicilio que señale para oír y recibir notificaciones, así como en su caso el domicilio social, el de sus diversas oficinas y establecimientos, incluyendo plantas, almacenes o bodegas, especificando en caso necesario en dónde tiene la administración principal de su empresa o en caso de ser una persona física, el domicilio donde vive y además, a ella deberán acompañarse los anexos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La solicitud de declaración de concurso mercantil del propio Comerciante deberá ser presentada en los formatos que al efecto dé a conocer el Instituto, la cual deberá contener al menos el nombre completo, denominación o razón social del Comerciante, el domicilio que señale para oír y recibir notificaciones, así como en su caso el domicilio social, el de sus diversas oficinas y establecimientos, incluyendo plantas, almacenes o bodegas, especificando en caso necesario en dónde tiene la administración principal de su empresa o en caso de ser una persona física, el domicilio donde vive y además, a ella deberán acompañarse los anexos siguientes:
 
 I. Los estados financieros del Comerciante, de los últimos tres años, los cuales deberán estar auditados cuando exista esta obligación en términos de ley;
 
@@ -258,13 +284,25 @@ III. Una relación de sus acreedores y deudores que indique sus nombres y domici
 
 IV. Un inventario de todos sus bienes inmuebles y muebles, títulos valores, géneros de comercio y derechos de cualquier otra especie;
 
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-V. Una relación de los juicios en los cuales el Comerciante sea parte, que indique las partes del procedimiento, los datos de identificación del mismo, su tipo, estado del juicio y ante quién se tramita, y
+V. Una relación de los juicios en los cuales el Comerciante sea parte, que indique las partes del procedimiento, los datos de identificación del mismo, su tipo, estado del juicio y ante quién se tramita;
 
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-VI. El ofrecimiento de otorgar en caso de admisión de la solicitud, la garantía a la que se refiere el artículo 24.
+VI. El ofrecimiento de otorgar en caso de admisión de la solicitud, la garantía a la que se refiere el artículo 24;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VII. Tratándose de personas morales, los acuerdos de los actos corporativos que sean necesarios para solicitar un concurso mercantil de conformidad con los términos y condiciones establecidos por los estatutos sociales respectivos o por los órganos sociales competentes, mismos que deberán evidenciar de manera indubitable la intención de los socios o accionistas en tal sentido;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VIII. Propuesta de convenio preliminar de pago a sus acreedores, excepto cuando el Comerciante solicite la declaración de quiebra en términos del Título Sexto de esta Ley, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IX. Propuesta preliminar de conservación de la empresa.
 
 La solicitud deberá tramitarse conforme a las disposiciones subsiguientes relativas a la demanda.
 
@@ -272,15 +310,33 @@ La solicitud deberá tramitarse conforme a las disposiciones subsiguientes relat
 
 En el auto admisorio de la solicitud, se proveerá en términos del artículo 29 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 20 Bis.
+
+El Comerciante podrá también solicitar el concurso mercantil, manifestando bajo protesta de decir verdad, que es inminente que se encuentre dentro de cualquiera de los supuestos señalados en las fracciones I y II del artículo 10 de esta Ley.
+
+Se entenderá que el Comerciante caerá de manera inminente en los supuestos de incumplimiento generalizado en el pago de las obligaciones cuando se presuma que cualquiera de dichos supuestos se actualizará de manera inevitable dentro de los noventa días siguientes a la solicitud. En este caso, el Comerciante deberá realizar la solicitud de declaración de concurso mercantil conforme a lo previsto en el artículo anterior.
+
 ###### Artículo 21.
 
 Podrán demandar la declaración de concurso mercantil cualquier acreedor del Comerciante o el Ministerio Público.
 
 Si un juez, durante la tramitación de un juicio mercantil, advierte que un Comerciante se ubica en cualquiera de los supuestos de los artículos 10 u 11, procederá de oficio a hacerlo del conocimiento de las autoridades fiscales competentes y del Ministerio Público para que, en su caso, este último demande la declaración de concurso mercantil. Las autoridades fiscales sólo procederán a demandar el concurso mercantil de un Comerciante en su carácter de acreedores.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Asimismo, uno o más acreedores del Comerciante podrán demandar el concurso mercantil iniciando directamente en etapa de quiebra. El juez, en caso de que el Comerciante se allane a la pretensión contenida en la demanda interpuesta y previo dictamen del incumplimiento generalizado en el pago de las obligaciones del Comerciante, dictará, en su caso, la sentencia de concurso mercantil en etapa de quiebra.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En el supuesto de que el Comerciante no se allane a la demanda a que se refiere el párrafo anterior, el procedimiento de concurso mercantil iniciará en etapa de conciliación, la cual se tramitará en los términos de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 22.
 
-La demanda de concurso mercantil deberá ser firmada por quien la promueva y contener:
+La demanda de concurso mercantil deberá ser presentada en los formatos que al efecto dé a conocer el Instituto, pero en cualquier caso deberá ser firmada por quien la promueva y contener:
 
 I. El nombre del tribunal ante el cual se promueva;
 
@@ -292,7 +348,9 @@ IV. Los hechos que motiven la petición, narrándolos brevemente con claridad y 
 
 V. Los fundamentos de derecho, y
 
-VI. La solicitud de que se declare al Comerciante en concurso mercantil.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VI. La solicitud de que se declare al Comerciante en concurso mercantil, o en su caso, en concurso mercantil en etapa de quiebra de conformidad con lo dispuesto en el artículo 21 de esta Ley.
 
 ###### Artículo 23.
 
@@ -309,6 +367,20 @@ III. Los documentos originales o copias certificadas que el demandante tenga en 
 Los documentos que presentare después no le serán admitidos, salvo tratándose de los que sirvan de prueba contra las excepciones alegadas por el Comerciante, los que fueren posteriores a la presentación de la demanda y aquéllos que, aunque fueren anteriores, manifieste el demandante, bajo protesta de decir verdad, que no tenía conocimiento de ellos al presentar la demanda.
 
 Si el demandante no tuviera a su disposición los documentos a que se refiere este artículo, deberá designar el archivo o lugar en que se encuentran los originales, para que, antes de darle trámite a la demanda, a costa del demandante, el juez mande expedir copia de ellos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La presentación de las demandas o las promociones de término en forma electrónica, podrán enviarse hasta las veinticuatro horas del día de su vencimiento.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 23 Bis.
+
+Quienes soliciten o demanden la declaración de concurso mercantil en términos de los artículos 20 y 21, respectivamente, podrán hacerlo presentando su escrito en forma impresa o electrónica. Los escritos en forma electrónica se presentarán mediante el empleo de las tecnologías de la información, utilizando la Firma Electrónica conforme a la regulación que para tal efecto emita el Consejo de la Judicatura Federal.
+
+En cualquier caso, sea que las partes soliciten o demanden el concurso en forma impresa o electrónica, los órganos jurisdiccionales están obligados a que el expediente electrónico e impreso coincidan íntegramente para la consulta de las partes.
+
+Los titulares de los órganos jurisdiccionales serán responsables de vigilar la digitalización de todas las promociones y documentos que se presenten de conformidad con esta Ley, así como los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes en el sistema, o en el caso de que éstas se presenten en forma electrónica, se procederá a su impresión para ser incorporada al expediente impreso. Los secretarios de acuerdos de los órganos jurisdiccionales darán fe de que tanto en el expediente electrónico como en el impreso, sea incorporada cada promoción, documento, auto y resolución, a fin de que coincidan en su totalidad.
 
 > <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -328,9 +400,11 @@ En caso de que la demanda la presente el Ministerio Público no se requerirá la
 
 El acreedor que demande la declaración de concurso mercantil de un Comerciante, podrá solicitar al juez la adopción de providencias precautorias o, en su caso, la modificación de las que se hubieren adoptado. La constitución, modificación o levantamiento de dichas providencias se regirán por lo dispuesto al efecto en el Código de Comercio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 26.
 
-Admitida la demanda de concurso mercantil, el juez mandará citar al Comerciante, concediéndole un término de nueve días para contestar. El Comerciante deberá ofrecer, en el escrito de contestación, las pruebas que esta Ley le autoriza.
+Admitida la demanda de concurso mercantil, el juez mandará citar al Comerciante, corriéndole traslado con la demanda y sus anexos, concediéndole un término de nueve días para contestar, debiendo acompañar a su escrito de contestación la relación de acreedores que al efecto alude la fracción III del artículo 20 de la Ley. El Comerciante deberá ofrecer, en el escrito de contestación, las pruebas que esta Ley le autoriza.
 
 El juez, a solicitud del Comerciante, o de oficio, dictará las providencias precautorias que considere necesarias a fin de evitar que se ponga en riesgo la viabilidad de la empresa con motivo de la demanda o de otras que se presenten durante la visita, o que se agrave dicho riesgo, para lograr salvaguardar el interés público previsto en el artículo primero de la presente Ley.
 
@@ -348,15 +422,25 @@ Con la contestación de la demanda se admitirán la prueba documental y la opini
 
 Con la contestación de la demanda, el Comerciante podrá ofrecer en adición a las pruebas a que se refiere el párrafo anterior, aquéllas que directamente puedan desvirtuar el supuesto del artículo 10 de esta Ley; y el juez podrá ordenar el desahogo de pruebas adicionales que estime convenientes, pero el desahogo de todas ellas no podrá exceder de un término de treinta días.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 28.
 
-El Comerciante que haya solicitado su declaración de concurso mercantil o, en su caso, los acreedores que lo hayan demandado, podrán desistir de su solicitud o demanda, siempre que exista el consentimiento expreso de todos ellos. El Comerciante o los acreedores demandantes sufragarán los gastos del proceso, entre otros, los honorarios del visitador y, en su caso, del conciliador.
+El Comerciante que haya solicitado su declaración de concurso mercantil o, en su caso, los acreedores o el Ministerio Público que lo hayan demandado, podrán desistir de su solicitud o demanda, siempre que exista el consentimiento expreso de todos ellos. El Comerciante o los acreedores demandantes sufragarán los gastos del proceso, entre otros, los honorarios del visitador y, en su caso, del conciliador.
 
 ### Capítulo IV. De la visita de verificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 29.
 
-Al día siguiente de que el juez admita la demanda, deberá remitir copia de la misma al Instituto, ordenándole que designe un visitador dentro de los cinco días siguientes a que reciba dicha comunicación. De igual forma y en el mismo plazo deberá hacerlo del conocimiento de las autoridades fiscales competentes para los efectos que resulten procedentes, girándose de inmediato los oficios respectivos.
+Al día siguiente de que el juez admita la demanda, deberá remitir copia de la misma, más no de sus anexos, al Instituto, ordenándole que designe un visitador dentro de los cinco días siguientes a que reciba dicha comunicación. De igual forma y en el mismo plazo deberá hacerlo del conocimiento de las autoridades fiscales competentes para los efectos que resulten procedentes, girándose de inmediato los oficios respectivos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Lo anterior, sin perjuicio de que los anexos respectivos de la demanda, deberán quedar a disposición del Instituto, de los acreedores y de las autoridades fiscales y administrativas competentes, en el juzgado.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN AL SEGUNDO PÁRRAFO DE FECHA 10 DE ENERO DE 2014, PASÓ A SER UN NUEVO TERCER PÁRRAFO.</small>
 
 A más tardar al día siguiente de la designación del visitador, el Instituto lo deberá informar al juez y al visitador designado. El visitador, dentro de los cinco días que sigan al de su designación, comunicará al juez el nombre de las personas de las que se auxiliará para el desempeño de sus funciones sin que persona alguna no designada pueda actuar en la visita. Al día siguiente de que conozca de dichas designaciones, el juez dictará acuerdo dándolas a conocer a los interesados.
 
@@ -426,7 +510,9 @@ El visitador y sus auxiliares podrán reproducir por cualquier medio documentaci
 
 Además de las providencias precautorias a que hace referencia el artículo 25, el visitador podrá solicitar al juez en el transcurso de la visita la adopción, modificación o levantamiento de las providencias precautorias a las que se refiere este artículo, con el objeto de proteger la Masa y los derechos de los acreedores, debiendo fundamentar en todos los casos las razones de su solicitud.
 
-El juez podrá dictar las providencias precautorias que estime necesarias una vez que reciba la solicitud, o bien de oficio.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+El juez podrá dictar las providencias precautorias que estime necesarias, en cualquier etapa del procedimiento concursal, una vez que reciba la solicitud, o bien de oficio.
 
 Las providencias precautorias podrán consistir en las siguientes:
 
@@ -446,6 +532,14 @@ VII. La orden de arraigar al Comerciante, para el solo efecto de que no pueda se
 
 VIII. Cualesquiera otras de naturaleza análoga.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Desde la solicitud de concurso mercantil o bien, una vez admitida a trámite, el Comerciante podrá solicitar al juez su autorización para la contratación inmediata de créditos indispensables para mantener la operación ordinaria de la empresa y la liquidez necesaria durante la tramitación del concurso mercantil. Para la tramitación de los referidos créditos, el juez podrá autorizar la constitución de garantías que resultaren procedentes, si así fuera solicitado por el Comerciante.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Presentada la petición del Comerciante y dada la urgencia y necesidad del financiamiento, el juez, previa opinión del visitador, resolverá respecto la autorización del financiamiento con el objetivo antes aludido, procediendo a dictar los lineamientos en los que quedará autorizado el crédito respectivo y su pago ordinario durante el concurso mercantil, tomando en consideración su prelación preferente en los términos del artículo 224 de la Ley.
+
 ###### Artículo 38.
 
 Las providencias precautorias subsistirán hasta que el juez ordene su levantamiento.
@@ -464,11 +558,11 @@ El visitador, con base en la información que conste en el acta de visita, deber
 
 El visitador deberá presentar su dictamen en el plazo a que se refiere el párrafo anterior, sin embargo, por causa justificada, podrá solicitar al juez una prórroga para terminar la visita y rendir el dictamen. La prórroga en ningún caso podrá exceder de quince días naturales.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 41.
 
-El juez al día siguiente de aquel en que reciba el dictamen del visitador lo pondrá a la vista del Comerciante, del acreedor o acreedores demandantes y del Ministerio Público en caso de que éste haya demandado el concurso mercantil, para que dentro de un plazo común de diez días presenten sus alegatos por escrito, y para los demás efectos previstos en esta Ley.
+El juez al día siguiente de aquel en que reciba el dictamen del visitador, lo pondrá a la vista del Comerciante, del acreedor o acreedores demandantes y del Ministerio Público en caso de que éste haya demandado el concurso mercantil, para que dentro de un plazo común de cinco días presenten sus alegatos por escrito, y para los demás efectos previstos en esta Ley.
 
 ### Capítulo V. De la sentencia de concurso mercantil
 
@@ -490,7 +584,9 @@ III. La fundamentación de la sentencia en términos de lo establecido en el art
 
 IV. La orden al Instituto para que designe al conciliador a través del mecanismo aleatorio previamente establecido, junto con la determinación de que, entretanto, el Comerciante, sus administradores, gerentes y dependientes tendrán las obligaciones que la ley atribuye a los depositarios;
 
-V. La declaración de apertura de la etapa de conciliación, salvo que el Comerciante haya solicitado su quiebra;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. La declaración de apertura de la etapa de conciliación, salvo que se haya solicitado la quiebra del Comerciante;
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -498,7 +594,9 @@ VI. La orden al Comerciante de poner de inmediato a disposición del conciliador
 
 VII. El mandamiento al Comerciante para que permita al conciliador y a los interventores, la realización de las actividades propias de sus cargos;
 
-VIII. La orden al Comerciante de suspender el pago de los adeudos contraídos con anterioridad a la fecha en que comience a surtir sus efectos la sentencia de concurso mercantil; salvo los que sean indispensables para la operación ordinaria de la empresa, respecto de los cuales deberá informar al juez dentro de las veinticuatro horas siguientes de efectuados;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VIII. La orden al Comerciante de suspender el pago de los adeudos contraídos con anterioridad a la fecha en que comience a surtir sus efectos la sentencia de concurso mercantil; salvo los que sean indispensables para la operación ordinaria de la empresa, incluido cualquier crédito indispensable para mantener la operación ordinaria de la empresa y la liquidez necesaria durante la tramitación del concurso mercantil, respecto de los cuales deberá informar al juez dentro de las setenta y dos horas siguientes de efectuados;
 
 IX. La orden de suspender durante la etapa de conciliación, todo mandamiento de embargo o ejecución contra los bienes y derechos del Comerciante, con las excepciones previstas en el artículo 65;
 
@@ -532,13 +630,13 @@ Las partes que no hayan sido notificadas en términos del artículo anterior, se
 
 Transcurridos cinco días contados a partir del vencimiento del plazo para la publicación de la sentencia sin haberse publicado, cualquier acreedor o interventor podrá solicitar al juez que se le entreguen los documentos necesarios para hacer las publicaciones. El juez proporcionará los documentos a quien primero se los solicite. Los gastos correspondientes serán créditos contra la Masa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 47.
 
-La sentencia producirá los efectos del arraigo del Comerciante y, tratándose de personas morales quien o quienes sean responsables de la administración, para el solo efecto de que no puedan separarse del lugar de su Domicilio sin dejar, mediante mandato, apoderado suficientemente instruido y expensado. Cuando quien haya sido arraigado demuestre haber dado cumplimiento a lo anterior, el juez levantará el arraigo.
+La sentencia producirá los efectos del arraigo del Comerciante y, tratándose de personas morales, de quien o quienes sean responsables de la administración, para el solo efecto de que no puedan separarse del lugar de su Domicilio sin dejar, mediante mandato general o especial con facultades para actos de dominio, actos de administración y para pleitos y cobranzas, apoderado suficientemente instruido y expensado. Cuando quien haya sido arraigado demuestre haber dado cumplimiento a lo anterior, el juez levantará el arraigo.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
-
-El arraigo previsto en el párrafo que antecede, no será aplicable en aquellos casos en que el concurso mercantil hubiere sido solicitado directamente por el Comerciante.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -548,9 +646,9 @@ La sentencia que declare que no es procedente el concurso mercantil, ordenará q
 
 En todos los casos deberán respetarse los actos de administración legalmente realizados, así como los derechos adquiridos por terceros de buena fe.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-El juez condenará al acreedor demandante, o al solicitante, en su caso, a pagar los gastos y costas judiciales, incluidos los honorarios y gastos del visitador.
+El juez condenará al acreedor demandante, o al solicitante, en su caso, a pagar los gastos y costas judiciales, que serán calculados como si el negocio fuere de cuantía indeterminada de acuerdo con las normas generales que regulen la materia arancelaria en la entidad federativa de que se trate, incluidos los honorarios y gastos del visitador.
 
 ### Capítulo VI. De la apelación de la sentencia de concurso mercantil
 
@@ -610,11 +708,11 @@ La impugnación del nombramiento del visitador, conciliador o síndico no impedi
 
 Cuando la presente Ley no determine un plazo para el cumplimiento de las obligaciones del visitador, del conciliador o del síndico, se entenderá que deberán llevarlas a cabo en un plazo de treinta días naturales salvo que, a petición del visitador, conciliador o síndico, el juez autorice un plazo mayor, el cual no podrá exceder de treinta días naturales más.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 59.
 
-El síndico y, en su caso, el conciliador, deberán rendir bimestralmente ante el juez un informe de las labores que realicen en la empresa del Comerciante y deberán presentar un informe final sobre su gestión. Todos los informes serán puestos a la vista del Comerciante, de los acreedores, del Ministerio Público demandante y de los interventores por conducto del juez.
+El síndico y, en su caso, el conciliador, deberán rendir bimestralmente ante el juez un informe de las labores que realicen en la empresa del Comerciante y deberán presentar un informe final sobre su gestión, conforme a los formatos que al efecto dé a conocer el Instituto, los cuales detallarán la información mínima de carácter financiera, contable, fiscal, administrativa, corporativa y jurídica del Comerciante que deberán contener. Todos los informes serán puestos a la vista del Comerciante, de los acreedores, del Ministerio Público demandante y de los interventores por conducto del juez.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -624,9 +722,13 @@ El Comerciante, el Ministerio Público demandante, los interventores y los propi
 
 Cuando por sentencia firme se condene a algún visitador, conciliador o síndico al pago de daños y perjuicios, el juez deberá enviar copia de la misma al Instituto para efectos de lo previsto en la fracción VI del artículo 337 de este ordenamiento.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 61.
 
-El visitador, el conciliador y el síndico serán responsables ante el Comerciante y ante los acreedores, por los actos propios y de sus auxiliares, respecto de los daños y perjuicios que causen en el desempeño de sus funciones, por incumplimiento de sus obligaciones y por la revelación de los datos confidenciales que conozcan en virtud del desempeño de su cargo.
+El visitador, el conciliador y el síndico serán responsables ante el Comerciante y ante los acreedores, por los actos propios y de sus auxiliares, respecto de los daños y perjuicios que causen en el desempeño de sus funciones, por incumplimiento de sus obligaciones, y por la revelación de los datos confidenciales que conozcan en virtud del desempeño de su cargo.
+
+En el caso del síndico y del conciliador, cuando esté a cargo de la administración, serán igualmente responsables por el incumplimiento a las obligaciones fiscales a que se refiere el artículo 69 de esta Ley.
 
 ### Capítulo II. De los interventores
 
@@ -634,11 +736,13 @@ El visitador, el conciliador y el síndico serán responsables ante el Comercian
 
 Los interventores representarán los intereses de los acreedores y tendrán a su cargo la vigilancia de la actuación del conciliador y del síndico así como de los actos realizados por el Comerciante en la administración de su empresa.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 63.
 
-Cualquier acreedor o grupo de acreedores que representen por lo menos el diez por ciento del monto de los créditos a cargo del Comerciante, de conformidad con la lista provisional de créditos, tendrán derecho a solicitar al juez el nombramiento de un interventor, cuyos honorarios serán a costa de quien o quienes lo soliciten. Para ser interventor no se requiere ser acreedor.
+Cualquier acreedor o grupo de acreedores que representen por lo menos el diez por ciento del monto de los créditos a cargo del Comerciante, de conformidad con la lista provisional de créditos; por lo menos el diez por ciento del pasivo a cargo del Comerciante conforme a la lista definitiva de reconocimiento de créditos, o bien, conforme a la sentencia de reconocimiento, graduación y prelación de créditos, tendrán derecho a solicitar al juez el nombramiento de un interventor, cuyos honorarios serán a costa de quien o quienes lo soliciten. Para ser interventor no se requiere ser acreedor, bastará con ser persona física o jurídica con capacidad legal.
 
-El acreedor o grupo de acreedores deberán dirigir sus solicitudes al juez a efecto de que éste haga el nombramiento correspondiente. Los interventores podrán ser sustituidos o removidos por quienes los hayan designado, cumpliendo con lo dispuesto en este párrafo.
+El acreedor o grupo de acreedores deberán dirigir sus solicitudes al juez a efecto de que éste haga el nombramiento correspondiente de plano, sin dar vista a las partes y dentro del término de tres días siguientes a la presentación de la solicitud. Los interventores podrán ser sustituidos o removidos por quienes los hayan designado, cumpliendo con lo dispuesto en este párrafo.
 
 ###### Artículo 64.
 
@@ -646,11 +750,21 @@ Los interventores tendrán las facultades siguientes:
 
 I. Gestionar la notificación y publicación de la sentencia de concurso mercantil;
 
-II. Solicitar al conciliador o al síndico el examen de algún libro, o documento, así como cualquier otro medio de almacenamiento de datos del Comerciante sujeto a concurso mercantil, respecto de las cuestiones que a su juicio puedan afectar los intereses de los acreedores;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-III. Solicitar al conciliador o al síndico información por escrito sobre las cuestiones relativas a la administración de la Masa, que a su juicio puedan afectar los intereses de los acreedores, así como los informes que se mencionan en el artículo 59 de esta Ley, y
+II. Solicitar directamente al Comerciante, al conciliador o al síndico el examen físico de algún libro, o documento, así como cualquier otro medio de almacenamiento de datos del Comerciante sujeto a concurso mercantil, respecto de las cuestiones que a su juicio puedan afectar los intereses de los acreedores, pudiendo solicitar copia a su costa de la documentación soporte y materia del examen, misma que deberá ser tratada como confidencial;
 
-IV. Las demás que se establecen en esta Ley.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Solicitar directamente al Comerciante, al conciliador o al síndico información por escrito sobre las cuestiones relativas a la administración de la Masa y de la empresa, que a su juicio puedan afectar los intereses de los acreedores, así como los informes que se mencionan en el artículo 59 de esta Ley, pudiendo solicitar copia a su costa de la documentación soporte y materia de la consulta, misma que deberá ser tratada como confidencial;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Fungir como interlocutor de los acreedores que lo hayan designado y de otros acreedores que así lo soliciten, frente al Comerciante, conciliador y síndico, y
+
+(ADICIONADA, D.O.F. 10 DE ENERO DE 2014) N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA EN LA FRACCIÓN IV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 10 DE ENERO DE 2014, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER V.
+
+V. Las demás que se establecen en esta Ley.
 
 ## TÍTULO TERCERO. De los efectos de la sentencia de concurso mercantil
 
@@ -714,17 +828,29 @@ V. Los títulosvalor de cualquier clase emitidos a favor del Comerciante o que s
 
 VI. Las contribuciones retenidas, recaudadas o trasladadas por el Comerciante por cuenta de las autoridades fiscales, y
 
-VII. Los que estén en su poder en cualquiera de los supuestos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-a) Depósito, usufructo, fideicomiso o que hayan sido recibidos en administración o consignación, si en este caso el concurso mercantil se declaró antes de la manifestación del comprador de hacer suyas las mercancías, o si no ha transcurrido el plazo señalado para hacerla;
+VII. Los que estén en poder del Comerciante en cualquiera de los supuestos siguientes:
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+a) Depósito, arrendamiento, usufructo, o que hayan sido recibidos en administración o consignación, si en este caso el concurso mercantil se declaró antes de la manifestación del comprador de hacer suyas las mercancías, o si no ha transcurrido el plazo señalado para hacerla;
 
 b) Comisión de compra, venta, tránsito, entrega o cobro;
 
 c) Para entregar a persona determinada por cuenta y en nombre de un tercero o para satisfacer obligaciones que hubieren de cumplirse en el Domicilio del Comerciante;
 
-Cuando el crédito resultante de la remisión hubiere sido afectado al pago de una letra de cambio, el titular legítimo de ésta podrá obtener su separación, o
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-d) Las cantidades a nombre del Comerciante por ventas hechas por cuenta ajena. El separatista podrá obtener también la cesión del correspondiente derecho de crédito.
+Cuando el crédito resultante de la remisión hubiere sido afectado al pago de una letra de cambio, el titular legítimo de ésta podrá obtener su separación.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+d) Las cantidades a nombre del Comerciante por ventas hechas por cuenta ajena. El separatista podrá obtener también la cesión del correspondiente derecho de crédito, o
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+e) Afectos a un fideicomiso.
 
 ###### Artículo 72.
 
@@ -768,6 +894,18 @@ El conciliador decidirá sobre la resolución de contratos pendientes y aprobar�
 
 En caso de sustitución de garantías, el conciliador deberá contar con el consentimiento previo y por escrito del acreedor de que se trate.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Para la enajenación de activos que no estén vinculados con la operación ordinaria de la empresa, el conciliador deberá sujetarse en lo que corresponda a los procedimientos de enajenación y términos generales previstos en los artículos 197, 198, 205 y 210 de esta Ley, con el objeto de buscar las mejores condiciones de enajenación para obtener un mayor valor de recuperación, sin que para ello sea necesaria la autorización del juez.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Tratándose de la contratación de créditos indispensables para mantener la operación ordinaria de la empresa y la liquidez necesaria durante la tramitación del concurso mercantil, que hubieren sido autorizados en términos de este artículo, el conciliador definirá los lineamientos en los que quedará autorizado el crédito respectivo, tomando en consideración su prelación preferente en los términos del artículo 224 de la Ley, incluyendo la constitución de garantías que resultaren procedentes, si así fuera solicitado al Comerciante.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los acreedores con garantía real sobre activos que, a juicio del juez ante quien se tramita el procedimiento de concurso, previa opinión razonada del conciliador, no sean estrictamente indispensables para la operación ordinaria de la empresa del Comerciante, podrán iniciar o continuar un procedimiento de ejecución de acuerdo con lo previsto en las disposiciones que resulten aplicables. A estos acreedores garantizados les será aplicable lo dispuesto en el artículo 227 de esta Ley.
+
 ###### Artículo 76.
 
 Para efectos de la opinión a que se refiere el segundo párrafo del artículo anterior, el conciliador deberá enviar a los interventores las características de la operación de que se trate, en los formatos que para tales efectos expida el Instituto.
@@ -782,9 +920,13 @@ Lo previsto en este artículo será aplicable aun cuando el conciliador haya asu
 
 El conciliador, bajo su más estricta responsabilidad, podrá abstenerse de solicitar la opinión de los interventores para la enajenación de un bien en aquellos casos en que éste sea perecedero o considere que pueda estar expuesto a una grave disminución de su precio, o su conservación sea costosa en comparación con la utilidad que pueda generar para la Masa, debiendo informar de ello al juez dentro de los tres días siguientes a la operación. Cualquier objeción se substanciará por la vía incidental.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 78.
 
-Cuando el conciliador tenga la administración de la empresa del Comerciante deberá realizar las gestiones necesarias para identificar los bienes propiedad del Comerciante declarado en concurso mercantil que se encuentren en posesión de terceros.
+Cuando el conciliador tenga la administración de la empresa del Comerciante deberá obrar siempre como un administrador diligente en negocio propio, siendo responsable de las pérdidas o menoscabos que la empresa sufra por su culpa o negligencia.
+
+Asimismo, el conciliador deberá realizar las gestiones necesarias para identificar los bienes propiedad del Comerciante declarado en concurso mercantil que se encuentren en posesión de terceros.
 
 ###### Artículo 79.
 
@@ -815,6 +957,10 @@ En el supuesto a que se refiere el artículo anterior y tratándose de personas 
 Las acciones promovidas y los juicios seguidos por el Comerciante, y las promovidas y los seguidos contra él, que se encuentren en trámite al dictarse la sentencia de concurso mercantil, que tengan un contenido patrimonial, no se acumularán al concurso mercantil, sino que se seguirán por el Comerciante bajo la vigilancia del conciliador, para lo cual, el Comerciante debe informar al conciliador de la existencia del procedimiento, al día siguiente de que sea de su conocimiento la designación de éste.
 
 No obstante lo previsto en el párrafo anterior, el conciliador podrá sustituir al Comerciante en el caso previsto en el artículo 81 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Después de dictada la sentencia de concurso mercantil, podrán iniciarse por separado otros procedimientos de contenido patrimonial en contra del Comerciante, los que serán tramitados ante las autoridades competentes bajo la vigilancia del conciliador, sin que esos juicios deban acumularse al concurso mercantil.
 
 ###### Artículo 85.
 
@@ -966,9 +1112,11 @@ El crédito que, en su caso, se genere en contra del Comerciante, será exigible
 
 Para efectos de esta Ley se entenderá por operaciones financieras derivadas aquéllas en las que las partes estén obligadas al pago de dinero o al cumplimiento de otras obligaciones de dar, que tengan un bien o valor de mercado como subyacente, así como cualquier convenio que, mediante reglas de carácter general, señale el Banco de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 105.
 
-Deberán compensarse, y serán exigibles en los términos pactados o según se señale en esta Ley, en la fecha de declaración del concurso mercantil, las deudas y créditos resultantes de convenios marco, normativos o específicos, celebrados respecto de operaciones financieras derivadas, operaciones de reporto, operaciones de préstamo de valores, operaciones de futuros u otras operaciones equivalentes, así como de cualesquiera otros actos jurídicos en los que una persona sea deudora de otra, y al mismo tiempo acreedora de ésta, que puedan reducirse al numerario, aun cuando las deudas o créditos no sean líquidos y exigibles en la fecha de declaración del concurso mercantil pero que, en los términos de dichos convenios o de esta Ley, puedan hacerse líquidos y exigibles.
+Deberán compensarse o aplicarse al pago, según corresponda, y serán exigibles en los términos pactados o según se señale en esta Ley, en la fecha de declaración del concurso mercantil, las deudas y créditos, y en su caso, las garantías respectivas cuando se haya convenido que éstas se transfieran en propiedad al acreedor resultantes de convenios marco, normativos o específicos para la celebración de operaciones financieras derivadas, operaciones de reporto, operaciones de préstamo de valores, operaciones de futuros u otras operaciones equivalentes, así como de cualesquiera otros actos jurídicos en los que una persona sea deudora de otra, y al mismo tiempo acreedora de ésta, que puedan reducirse al numerario, aun cuando las deudas o créditos no sean líquidos y exigibles en la fecha de declaración del concurso mercantil pero que, en los términos de dichos convenios o de esta Ley, puedan hacerse líquidos y exigibles.
 
 Las disposiciones de este artículo serán aplicables no obstante lo señalado en el artículo 92 de esta Ley, y aun cuando la compensación se realice dentro del periodo a que hace referencia el artículo 112 del presente ordenamiento, salvo que se probare que el convenio o convenios que dieron lugar a la compensación, fueron celebrados o modificados para dar preferencia a alguno o varios acreedores.
 
@@ -1004,11 +1152,17 @@ El concurso mercantil de un socio de una sociedad en nombre colectivo o de respo
 
 ### Capítulo VI. De los actos en fraude de acreedores
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 112.
 
 Para efectos de lo previsto en el presente capítulo, se entenderá por fecha de retroacción, el día doscientos setenta natural inmediato anterior a la fecha de la sentencia de declaración del concurso mercantil.
 
-El juez, a solicitud del conciliador, de los interventores o de cualquier acreedor, podrá establecer como fecha de retroacción una anterior a la señalada en el párrafo anterior, siempre que dichas solicitudes se presenten con anterioridad a la sentencia de reconocimiento, graduación y prelación de créditos. Lo anterior se substanciará por la vía incidental.
+En caso de que existan acreedores subordinados a los que hace referencia la fracción II del artículo 222 Bis, incluyendo a las personas a que se refieren los artículos 15, fracción I, y 117, fracción II, con independencia de que el crédito se haya otorgado o no con garantía real, el plazo señalado en el párrafo anterior será el doble, por lo que respecta a los actos en que estén involucrados dichos acreedores subordinados.
+
+El juez, a solicitud del conciliador, del síndico, de los interventores o de cualquier acreedor, podrá establecer como fecha de retroacción una anterior a la señalada en los dos párrafos anteriores, sin que ésta pueda exceder de 3 años, siempre que dichas solicitudes se presenten con anterioridad a la sentencia de reconocimiento, graduación y prelación de créditos. Lo anterior se substanciará por la vía incidental.
+
+Para que proceda el cambio de la fecha de retroacción prevista en el párrafo anterior, se requerirá que el solicitante relate una serie de hechos que pudieran encuadrar en alguna de las hipótesis que se establecen en los artículos 114 a 117 de esta Ley, aportando la documentación con la que cuente; en el entendido de que no es necesario demostrar en el incidente respectivo, para que proceda la modificación de la fecha de retroacción, la existencia de los actos en fraude de acreedores.
 
 La sentencia que modifique la fecha de retroacción se publicará por Boletín Judicial o, en su caso, por los estrados del juzgado.
 
@@ -1019,6 +1173,20 @@ Serán ineficaces frente a la Masa todos los actos en fraude de acreedores.
 Son actos en fraude de acreedores los que el Comerciante haya hecho antes de la declaración de concurso mercantil, defraudando a sabiendas a los acreedores si el tercero que intervino en el acto tenía conocimiento de este fraude.
 
 Este último requisito no será necesario en los actos de carácter gratuito.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 113 Bis.
+
+Tratándose de actos en fraude de acreedores, la acción de responsabilidad consistente en indemnizar los daños y perjuicios a que se refiere el artículo 270 Bis-1 de esta Ley, podrá ser ejercida, además de por las personas señaladas en dicho artículo, por las personas siguientes:
+
+I. Por la quinta parte de los Acreedores Reconocidos;
+
+II. Los Acreedores Reconocidos que representen, en su conjunto, al menos el veinte por ciento del monto total de los créditos reconocidos, o
+
+III. Los Interventores que hayan sido designados en el concurso mercantil.
+
+Lo anterior, es sin perjuicio de las demás acciones de responsabilidad civil o penal que procedan en términos de las leyes aplicables.
 
 ###### Artículo 114.
 
@@ -1054,19 +1222,29 @@ En el evento de que el Comerciante sea una persona física se presumen actos en 
 
 I. Su cónyuge, concubina o concubinario, parientes por consanguinidad hasta el cuarto grado, o hasta el segundo si el parentesco fuere por afinidad, así como parientes por parentesco civil, o
 
-II. Sociedades mercantiles, en las que las personas a que se refiere la fracción anterior o el propio Comerciante sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente representen, directa o indirectamente, al menos el cincuenta y uno por ciento del capital suscrito y pagado, tengan poder decisorio en sus asambleas de accionistas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas sociedades.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Personas morales, en las que las personas a que se refiere la fracción anterior o el propio Comerciante sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
 
 ###### Artículo 117.
 
 En caso de Comerciantes que sean personas morales se presumen actos en fraude de acreedores, si se realizan a partir de la fecha de retroacción, salvo que el interesado pruebe su buena fe, las operaciones en contra de la Masa realizadas con las personas siguientes:
 
-I. Su administrador o miembros de su consejo de administración, o bien con el cónyuge, concubina o concubinario, parientes por consanguinidad hasta el cuarto grado, o hasta el segundo si el parentesco fuere por afinidad, así como parientes por parentesco civil de las personas antes mencionadas;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. Aquellas personas físicas que conjunta o separadamente representen, directa o indirectamente, al menos el cincuenta y uno por ciento del capital suscrito y pagado del Comerciante sujeto a concurso mercantil, tengan poder decisorio en sus asambleas de accionistas, estén en posibilidad de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales del Comerciante sujeto a concurso;
+I. El administrador, miembros del consejo de administración o empleados relevantes del Comerciante o de las personas morales señaladas en la fracción IV siguiente, conforme a lo dispuesto por el artículo 270 Bis, o bien con el cónyuge, concubina o concubinario, parientes por consanguinidad hasta el cuarto grado, o hasta el segundo si el parentesco fuere por afinidad, así como parientes por parentesco civil de las personas antes mencionadas;
 
-III. Aquellas personas morales en las que exista coincidencia de los administradores, miembros del consejo de administración o principales directivos con las del Comerciante sujeto a concurso mercantil, y
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-IV. Aquellas personas morales controladas por el Comerciante, que ejerzan control sobre este último, o bien que sean controladas por la misma sociedad que controla al Comerciante.
+II. Aquellas personas físicas que conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital del Comerciante sujeto a concurso mercantil o de las personas morales señaladas en la fracción IV siguiente, tengan poder decisorio en sus asambleas, estén en posibilidad de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales del Comerciante sujeto a concurso;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Aquellas personas morales en las que exista coincidencia de los administradores, miembros del consejo de administración o directivos relevantes con los del Comerciante sujeto a concurso mercantil, y
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Aquellas personas morales, directa o indirectamente, controladas por el Comerciante, que ejerzan control sobre este último, o bien que sean controladas por la misma sociedad que controla al Comerciante.
 
 ###### Artículo 118.
 
@@ -1105,6 +1283,10 @@ II. Dentro del plazo para formular objeciones a la lista provisional a que se re
 III. Dentro del plazo para la interposición del recurso de apelación a la sentencia de reconocimiento, graduación y prelación de créditos.
 
 Transcurrido el plazo de la fracción III, no podrá exigirse reconocimiento de crédito alguno.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En el caso de créditos colectivos, para presentar solicitudes de reconocimiento de crédito bastará que el representante común de los acreedores comparezca ante el conciliador o síndico a solicitar el reconocimiento respectivo, pero cualquier acreedor del crédito colectivo estará habilitado para comparecer de manera individual a solicitar el reconocimiento del crédito respectivo. En este último supuesto, se deducirá de dicho crédito el monto reconocido en lo individual al acreedor.
 
 ###### Artículo 123.
 
@@ -1164,9 +1346,11 @@ El conciliador deberá integrar a la lista provisional de créditos, una relaci�
 
 El conciliador deberá acompañar a la lista provisional de créditos aquellos documentos que considere hayan servido de base para su formulación, los cuales formarán parte integrante de la misma o bien, indicar el lugar en donde se encuentren.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 129.
 
-Una vez que el conciliador presente al juez la lista provisional de créditos, éste la pondrá a la vista del Comerciante y de los acreedores para que dentro del término improrrogable de cinco días naturales presenten por escrito al conciliador, por conducto del juez, sus objeciones, acompañadas de los documentos que estimen pertinentes, lo que será puesto a disposición del conciliador por conducto del juez, al día siguiente de su recepción.
+Una vez que el conciliador presente al juez la lista provisional de créditos, éste la pondrá a la vista del Comerciante y de los acreedores para que dentro del término improrrogable de cinco días presenten por escrito al conciliador, por conducto del juez, sus objeciones, acompañadas de los documentos que estimen pertinentes, lo que será puesto a disposición del conciliador por conducto del juez, al día siguiente de su recepción.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -1258,13 +1442,23 @@ En caso de que un acreedor transmita la titularidad de sus créditos por cualqui
 
 La etapa de conciliación tendrá una duración de ciento ochenta y cinco días naturales, contados a partir del día en que se haga la última publicación en el Diario Oficial de la Federación de la sentencia de concurso mercantil.
 
-El conciliador o los Acreedores Reconocidos que representen por lo menos las dos terceras partes del monto total de los créditos reconocidos, podrán solicitar al juez una prórroga de hasta noventa días naturales contados a partir de la fecha en que concluya el plazo señalado en el párrafo anterior, cuando consideren que la celebración de un convenio esté próxima a ocurrir.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+El conciliador o los Acreedores Reconocidos que representen más del cincuenta por ciento del monto total de los créditos reconocidos, podrán solicitar al juez una prórroga de hasta noventa días naturales contados a partir de la fecha en que concluya el plazo señalado en el párrafo anterior, cuando consideren que la celebración de un convenio esté próxima a ocurrir.
 
-El Comerciante y los Acreedores Reconocidos que representen el noventa por ciento del monto total de los créditos reconocidos, podrán solicitar al juez una ampliación de hasta por noventa días naturales más de la prórroga a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+El Comerciante y los Acreedores Reconocidos que representen al menos el setenta y cinco por ciento del monto total de los créditos reconocidos, podrán solicitar al juez una ampliación de hasta por noventa días naturales más de la prórroga a que se refiere el párrafo anterior.
 
 En ningún caso el plazo de la etapa de conciliación y su prórroga podrá exceder de trescientos sesenta y cinco días naturales contados a partir de la fecha en que se hubiese realizado la última publicación de la sentencia de concurso mercantil en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Concluido el plazo inicial y, en su caso, el de la prórroga, el juez procederá únicamente a levantar la certificación correspondiente haciéndose constar en la misma la terminación de la etapa de conciliación y, en su caso, de su prórroga, y el Comerciante en concurso mercantil será considerado en estado de quiebra.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los plazos para la aprobación del convenio quedan comprendidos dentro de la etapa de conciliación y de su prórroga, no pudiendo extenderse en exceso del término previsto en este artículo.
 
 ###### Artículo 146.
 
@@ -1276,11 +1470,21 @@ El conciliador designado en términos de lo dispuesto en el artículo anterior p
 
 I. El Comerciante y los Acreedores Reconocidos que representen al menos la mitad del monto total reconocido, soliciten al Instituto por conducto del juez, la sustitución del conciliador por aquél que ellos propongan en forma razonada de entre los registrados ante el Instituto.
 
-El Instituto deberá proceder al nombramiento del nuevo conciliador propuesto siempre que el juez le certifique la existencia de la mayoría requerida de los Acreedores Reconocidos y el consentimiento del Comerciante, o
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos el 75% del monto total reconocido designen de común acuerdo a persona física o moral que no figure en el registro del Instituto y que deseen que funja como conciliador, en cuyo caso deberán convenir con él sus honorarios.
+El Instituto deberá proceder al nombramiento del nuevo conciliador propuesto siempre que el juez le certifique la existencia de la mayoría requerida de los Acreedores Reconocidos y el consentimiento del Comerciante;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos la mitad del monto total reconocido designen de común acuerdo a persona física o moral que no figure en el registro del Instituto y que deseen que funja como conciliador, en cuyo caso deberán convenir con él sus honorarios. Los acreedores subordinados a los que se refiere la fracción II del artículo 222 Bis, incluyendo a las personas a que se refieren los artículos 15, fracción I, y 117, fracción II, no participarán en la votación a que se refiere esta fracción.
 
 En tal supuesto, el Juez lo hará del conocimiento del Instituto al día siguiente quedando sin efecto la designación hecha por el Instituto. El conciliador así designado asumirá todos los derechos y las obligaciones que esta Ley atribuye a los conciliadores del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En el caso del concurso mercantil con plan de reestructura previo, el Comerciante y los acreedores que refiere la fracción II del artículo 339 de esta Ley, podrán designar de común acuerdo a persona física o moral que no figure en el registro del Instituto y que deseen que funja como conciliador, conviniendo con él sus honorarios.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DE UN PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 En caso de sustitución del conciliador, el sustituido deberá prestar al sustituto todo el apoyo necesario para que tome posesión de su encargo, y le entregará un reporte del estado que guarda la conciliación, así como toda la información sobre el Comerciante que haya obtenido en el ejercicio de sus funciones.
 
@@ -1318,6 +1522,10 @@ El convenio deberá prever reservas suficientes para el pago de las diferencias 
 
 Tratándose de obligaciones fiscales, el convenio deberá incluir el pago de dichas obligaciones en los términos de las disposiciones aplicables; su incumplimiento dará lugar al procedimiento administrativo de ejecución que corresponda.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Cualquier Acreedor Reconocido, que suscriba el convenio a que hace referencia este artículo, puede prever la extinción total o parcial de sus créditos, su subordinación u alguna otra forma de tratamiento particular que sea menos favorable que el tratamiento que se da a la generalidad de acreedores del mismo grado, siempre y cuando conste de manera expresa el consentimiento del mismo.
+
 ###### Artículo 154.
 
 Serán nulos los convenios particulares entre el Comerciante y cualesquiera de sus acreedores celebrados a partir de la declaración de concurso mercantil. El acreedor que los celebre perderá sus derechos en el concurso mercantil.
@@ -1336,9 +1544,19 @@ Para suscribir el convenio, no será necesario que los acreedores se reúnan a v
 
 Para ser eficaz, el convenio deberá ser suscrito por el Comerciante y sus Acreedores Reconocidos que representen más del cincuenta por ciento de la suma de:
 
-I. El monto reconocido a la totalidad de los Acreedores Reconocidos comunes, y
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I. El monto reconocido a la totalidad de los Acreedores Reconocidos comunes y subordinados, y
 
 II. El monto reconocido a aquellos Acreedores Reconocidos con garantía real o privilegio especial que suscriban el convenio.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En los casos en que el Comerciante tenga Acreedores Reconocidos subordinados a los que se refiere la fracción II del artículo 222 Bis, incluyendo a las personas a que se refieren los artículos 15, fracción I, y 117, fracción II, que representen al menos el veinticinco por ciento del monto total reconocido de los créditos a que hacen referencia las fracciones I y II del presente artículo, en lo individual o en conjunto, para que el convenio sea eficaz deberá estar suscrito por los Acreedores Reconocidos que representen, al menos, el cincuenta por ciento de la suma total del monto de los créditos reconocidos a que hacen mención las fracciones I y II del presente artículo, excluyendo el monto de los créditos a favor de los acreedores subordinados a los que se refiere la fracción II del artículo 222 Bis, incluyendo a las personas a que se refieren los artículos 15, fracción I, y 117, fracción II.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Lo dispuesto en el párrafo anterior no será aplicable en caso de que los Acreedores Reconocidos subordinados a que se refiere la fracción II del artículo 222 Bis, incluyendo a las personas a que se refieren los artículos 15, fracción I, y 117, fracción II, se allanen a los términos del acuerdo que suscriban el resto de los Acreedores Reconocidos, en cuyo caso prevalecerá el porcentaje referido en el primer párrafo de este artículo.
 
 ###### Artículo 158.
 
@@ -1370,13 +1588,43 @@ En el convenio se podrá estipular que los créditos se mantengan en la moneda, 
 
 Aquellos Acreedores Reconocidos con garantía real que no hayan participado en el convenio que se suscriba, podrán iniciar o continuar con la ejecución de sus garantías, a menos que el convenio contemple el pago de sus créditos en los términos del artículo 158 de esta Ley, o el pago del valor de sus garantías. En este último caso, cualquier excedente del adeudo reconocido con respecto al valor de la garantía, será considerado como crédito común y estará sujeto a lo establecido en el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 161.
 
-El conciliador, una vez que considere que cuenta con la opinión favorable del Comerciante y de la mayoría de Acreedores Reconocidos necesaria para la aprobación de la propuesta de convenio, la pondrá a la vista de los Acreedores Reconocidos por un plazo de diez días para que opinen sobre ésta y, en su caso, suscriban el convenio.
+El Comerciante o el conciliador, una vez que considere que cuenta con la opinión favorable de aquél y de la mayoría de Acreedores Reconocidos necesaria para la aprobación de la propuesta de convenio, la pondrá a la vista de los Acreedores Reconocidos por un plazo de quince días para que opinen sobre ésta y, en su caso, suscriban el convenio.
 
-El conciliador deberá adjuntar a la propuesta de convenio, un resumen del mismo, que contenga sus características principales expresadas de manera clara y ordenada. Tanto la propuesta de convenio, como su resumen, deberán exhibirse en los formatos que dé a conocer el Instituto.
+Sin perjuicio de lo establecido en el párrafo inmediato siguiente, el Comerciante o el conciliador, según sea el caso, deberá adjuntar a la propuesta de convenio, un resumen del mismo, que contenga sus características principales expresadas de manera clara y ordenada. Tanto la propuesta de convenio, como su resumen, deberán exhibirse en los formatos que dé a conocer el Instituto.
 
-Transcurrido un plazo de siete días contados a partir de que venza el plazo previsto en el primer párrafo de este artículo, el conciliador presentará al juez el convenio debidamente suscrito por el Comerciante y al menos la mayoría requerida de Acreedores Reconocidos. La presentación se hará en los términos establecidos en el párrafo anterior.
+Durante el plazo establecido en el primer párrafo de este artículo, el Comerciante tendrá la obligación, a petición del conciliador o de cualquiera de los Acreedores Reconocidos, de proporcionar la documentación e información que pudieren requerir aquéllos para aprobar la propuesta de convenio.
+
+Transcurrido un plazo de diez días contados a partir de que venza el plazo previsto en el primer párrafo de este artículo, el conciliador presentará al juez el convenio debidamente suscrito por el Comerciante y al menos la mayoría requerida de Acreedores Reconocidos. La presentación se hará en los términos establecidos en el párrafo segundo de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 161 Bis.
+
+Cuando se trate de créditos colectivos cuyos títulos o instrumentos hayan sido emitidos a través del mercado de valores, y en ausencia de reglas específicas en las disposiciones, contratos, instrumentos o documentos que los regulen, los titulares de créditos colectivos a cargo del Comerciante emisor, podrán pactar un procedimiento propio para determinar los mecanismos a través de los cuales votarán para la suscripción del convenio o, en su defecto, sujetarse al régimen siguiente:
+
+I. Cuando el representante común de los tenedores de los instrumentos o títulos de que se trate, tenga conocimiento de la existencia de la propuesta de convenio a que alude el artículo anterior, deberá convocar a asamblea general de tenedores, para que dentro del término de quince días se lleve a cabo la asamblea y se someta a discusión y aprobación o rechazo, la propuesta de convenio, o en su caso, para el veto del convenio ya suscrito;
+
+II. Para efectos de la aprobación o rechazo de la propuesta de convenio o, en su caso, para el veto del convenio ya suscrito, se requerirá que esté representado en la asamblea cuando menos el setenta y cinco por ciento del monto de la emisión, y que las decisiones sean aprobadas al menos por la mayoría de los votos computables en la asamblea.
+
+La convocatoria para la asamblea de tenedores se publicará por una sola vez en el Diario Oficial de la Federación y en alguno de los periódicos de mayor circulación del domicilio del Comerciante emisor, con diez días de anticipación, por lo menos, a la fecha en que la asamblea deba reunirse;
+
+III. El representante común de los tenedores será el único facultado para comunicar al conciliador, al síndico o al propio juez, las resoluciones adoptadas en la asamblea general de tenedores y, en su caso, procederá a suscribir el convenio ejecutando las resoluciones y obligando con su firma a todos los tenedores de los instrumentos o títulos;
+
+IV. En caso de que no se hubiere convocado a asamblea por el representante común de los tenedores o que no se hubiere reunido el quórum necesario para sesionar referido en la fracción II anterior del presente artículo, cualquier tenedor de instrumentos o títulos podrá comparecer al concurso mercantil del Comerciante a manifestarse respecto de la propuesta de convenio y, en su caso, para suscribirlo;
+
+V. Para el caso de créditos colectivos a cargo del Comerciante emitidos en el extranjero o sujetos a leyes extranjeras, se deberá estar al procedimiento para adoptar resoluciones que al efecto se hubiere pactado, siendo aplicable, en lo conducente, lo establecido en este artículo;
+
+VI. Las acciones individuales de los tenedores no serán procedentes cuando sobre el mismo objeto esté en curso o se promueva una acción del representante común o figura análoga o similar, o cuando sean incompatibles dichas acciones con alguna resolución debidamente aprobada por la asamblea general de tenedores.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 161 Bis 1.
+
+Cuando se trate de créditos colectivos distintos a los señalados en el artículo anterior y en ausencia de reglas específicas en las disposiciones, contratos, instrumentos o documentos que los regulen, los titulares de dichos créditos podrán sujetarse al procedimiento señalado en el artículo anterior, o bien pactar un procedimiento propio para determinar los mecanismos a través de los cuales votarán para la suscripción del convenio.
 
 ###### Artículo 162.
 
@@ -1386,9 +1634,11 @@ I. Presenten las objeciones que consideren pertinentes, respecto de la autentici
 
 II. Se ejerza el derecho de veto a que se refiere el artículo siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 163.
 
-El convenio podrá ser vetado por una mayoría simple de Acreedores Reconocidos comunes, o bien por cualquier número de éstos, cuyos créditos reconocidos representen conjuntamente al menos el cincuenta por ciento del monto total de los créditos reconocidos a dichos acreedores.
+El convenio podrá ser vetado por los Acreedores Reconocidos comunes que no hubieren suscrito el convenio, cuyos créditos reconocidos representen conjuntamente más del cincuenta por ciento del monto total de los créditos reconocidos a dichos acreedores.
 
 No podrán ejercer el veto los Acreedores Reconocidos comunes que no hayan suscrito el convenio si en éste se prevé el pago de sus créditos en los términos del artículo 158 de este ordenamiento.
 
@@ -1404,15 +1654,45 @@ I. Al Comerciante;
 
 II. A todos los Acreedores Reconocidos comunes;
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II Bis. A todos los Acreedores Reconocidos subordinados;
+
 III. A los Acreedores Reconocidos con garantía real o privilegio especial que lo hayan suscrito, y
 
 IV. A los Acreedores Reconocidos con garantía real o privilegio especial para los cuales el convenio haya previsto el pago de sus créditos en los términos del artículo 158 de esta Ley.
 
-La suscripción del convenio por parte de los Acreedores Reconocidos con garantía real o con privilegio especial, no implica la renuncia a sus garantías o privilegios, por lo que subsistirán para garantizar el pago de los créditos a su favor en los términos del convenio.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La suscripción del convenio por parte de los Acreedores Reconocidos con garantía, real o personal, o con privilegio especial, no implica la renuncia a sus garantías o privilegios, por lo que subsistirán para garantizar el pago de los créditos a su favor en los términos del convenio.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Tratándose de créditos colectivos con garantía real, ésta sólo podrá ser ejecutada cuando esa acción provenga o sea consecuencia de la decisión adoptada por mayoría requerida por las disposiciones que regulen o los documentos que instrumenten dichos créditos colectivos y, en ausencia de una disposición al respecto, en la asamblea general de acreedores correspondiente, en los términos del artículo 161 Bis 1 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 166.
 
-Con la sentencia de aprobación del convenio, se dará por terminado el concurso mercantil y cesarán en sus funciones los órganos del mismo. Al efecto, el juez ordenará al conciliador la cancelación de las inscripciones que con motivo del concurso mercantil se hayan realizado en los registros públicos.
+Con la sentencia de aprobación del convenio, se dará por terminado el concurso mercantil y, en consecuencia, dicho convenio y la sentencia que lo aprueba, constituirán el único documento que rija las obligaciones a cargo del Comerciante con respecto a los créditos reconocidos.
+
+Toda espera, quita, remisión y cualquier otro beneficio que dicho convenio y la sentencia que lo aprueba establezca en favor del Comerciante sólo se entenderá respecto de éste, y no respecto de los obligados solidarios, avalistas, fiadores y demás codeudores, coobligados y garantes del Comerciante, salvo consentimiento expreso del acreedor del crédito reconocido de que se trate.
+
+Asimismo, con la sentencia cesarán en sus funciones los órganos del concurso mercantil. Al efecto, el juez ordenará al conciliador la cancelación de las inscripciones que con motivo del concurso mercantil se hayan realizado en los registros públicos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 166 Bis.
+
+Únicamente en casos excepcionales, cuando se dé un cambio de circunstancias que afecten de manera grave el cumplimiento del convenio celebrado en términos del Título Quinto de la Ley, con el propósito de satisfacer las necesidades de conservación de la empresa, procederá la acción de modificación de convenio, que deberá promoverse ante el propio juez que conoció el concurso mercantil del que derivó el convenio en cuestión. La demanda deberá promoverse conjuntamente por el Comerciante y aquellos Acreedores Reconocidos que basten para alcanzar las mayorías que refiere el artículo 157 de la Ley.
+
+El juez notificará la demanda a quien hubiere fungido como conciliador, para que se manifieste respecto de la modificación propuesta y para la debida salvaguarda de los derechos de todos los Acreedores Reconocidos y sin perjuicio del derecho de cualquiera de ellos a oponer la excepción de cosa juzgada en relación con algún hecho sustancial que no pueda ser desconocido en la resolución de modificación de convenio que llegare a dictarse.
+
+Dentro de los cinco días siguientes a que sea notificado del incidente a quien hubiere fungido como conciliador, procederá a solicitar la inscripción de la demanda respectiva en los registros públicos que correspondan y hará publicar un extracto de la misma en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación en la localidad donde se siga el procedimiento, pudiéndose también difundir por aquellos otros medios que al efecto determine el Instituto. Tratándose de la notificación del incidente para los acreedores con domicilio en el extranjero, será aplicable lo establecido en el artículo 291 de esta Ley.
+
+Tratándose de la modificación o de la verificación del cumplimiento de un convenio celebrado en términos del Título Quinto de la Ley, será competente para conocer de dicha acción el juez que conoció del concurso mercantil del que deriva el convenio respectivo, en donde hubiere sido aprobado. El mismo juez conocerá de la solicitud o demanda de concurso mercantil que, en su caso, se derive del incumplimiento de obligaciones pecuniarias contenidas en el convenio en cuestión.
+
+Igualmente, cualquier Acreedor Reconocido podrá solicitar el cumplimiento forzoso del convenio, bastando para ello demandarlo en la misma vía incidental ante el juez que hubiere conocido del concurso mercantil del que deriva.
 
 ## TÍTULO SEXTO. De la quiebra
 
@@ -1424,9 +1704,17 @@ El Comerciante en concurso mercantil será declarado en estado de quiebra cuando
 
 I. El propio Comerciante así lo solicite;
 
-II. Transcurra el término para la conciliación y sus prórrogas si se hubieren concedido, sin que se someta al juez, para su aprobación, un convenio en términos de lo previsto en esta Ley, o;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-III. El conciliador solicite la declaración de quiebra y el juez la conceda en los términos previstos en el artículo 150 de esta Ley.
+II. Transcurra el término para la conciliación y su prórroga si se hubiere concedido;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. El conciliador solicite la declaración de quiebra y el juez la conceda en los términos previstos en el artículo 150 de esta Ley, o
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. En el caso previsto en el artículo 21 de esta Ley.
 
 ###### Artículo 168.
 
@@ -1468,13 +1756,19 @@ El síndico deberá hacer del conocimiento de los acreedores su nombramiento y s
 
 En su caso, el conciliador prestará al síndico todo el apoyo necesario para que tome posesión de su encargo, y le entregará toda la información sobre el Comerciante que haya obtenido en el ejercicio de sus funciones y, en su caso los bienes del Comerciante que haya administrado.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+El conciliador deberá proporcionar al síndico un listado actualizado de todas las acciones promovidas y los juicios seguidos por el Comerciante, y las promovidas y los seguidos contra él, a que hace referencia el artículo 84 de la Ley.
+
 ###### Artículo 174.
 
 El síndico designado en términos de lo dispuesto en el artículo anterior podrá ser sustituido cuando:
 
 I. El Comerciante y los Acreedores Reconocidos que representen al menos la mitad del monto total reconocido, soliciten al Instituto por conducto del juez, la sustitución del síndico por aquel que ellos propongan en forma razonada de entre los registrados ante el Instituto, o
 
-II. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos el 75% del monto total reconocido designen de común acuerdo a persona física o moral que no figure en el registro del Instituto y que deseen que funja como síndico, en cuyo caso deberán convenir con él sus honorarios.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos la mitad del monto total reconocido designen de común acuerdo a persona física o moral que no figure en el registro del Instituto y que deseen que funja como síndico, en cuyo caso deberán convenir con él sus honorarios. Los acreedores subordinados a los que se refiere la fracción II del artículo 222 Bis, incluyendo a las personas a que se refieren los artículos 15, fracción I, y 117, fracción II, no participarán en la votación a que se refiere esta fracción.
 
 En tal supuesto, el Juez lo hará del conocimiento del Instituto al día siguiente quedando sin efecto la designación hecha por el Instituto. El síndico así designado asumirá todos los derechos y las obligaciones que esta Ley atribuye a los síndicos.
 
@@ -1483,6 +1777,10 @@ En caso de sustitución del síndico, el sustituido deberá observar lo dispuest
 ###### Artículo 175.
 
 La sentencia de quiebra será apelable por el Comerciante, cualquier Acreedor Reconocido, así como por el conciliador en los mismos términos que la sentencia de concurso mercantil. Cuando el Comerciante apele la sentencia y ésta se haya dictado por los supuestos de las fracciones I y III del artículo 167, se admitirá en ambos efectos; en los demás casos, la apelación se admitirá en el efecto devolutivo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En caso de que el juez admita en ambos efectos la apelación de la sentencia de quiebra promovida por el Comerciante, señalará el monto de la garantía que deberá exhibir el apelante dentro del término de seis días para que surta efectos la suspensión.
 
 ### Capítulo II. De los efectos particulares de la sentencia de quiebra
 
@@ -1538,6 +1836,14 @@ El síndico, al entrar en posesión de los bienes que integran la empresa del Co
 
 Durante el tiempo en que el síndico continúe la operación de la empresa del Comerciante, las ventas de mercancías o servicios relativos a la actividad propia de la empresa se harán conforme a la marcha regular de sus negocios.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Sin perjuicio de lo anterior, el Comerciante estará obligado en todo momento, por regla general, a asistir y coadyuvar con las funciones y tareas del síndico relacionadas con la operación de la empresa durante la etapa de quiebra. Para tal efecto, el síndico podrá solicitar el auxilio del juez, quien dictará las medidas de apremio que estime convenientes.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los administradores, apoderados y representantes del Comerciante no tendrán personalidad ni legitimación para representarlo en la etapa de quiebra dentro del proceso concursal, salvo en los términos y para los efectos expresamente previstos en esta Ley.
+
 ###### Artículo 185.
 
 Los bienes que por su naturaleza requieran ser enajenados rápidamente y los títulosvalor que estén próximos a su vencimiento, o que por cualquier otra causa hayan de ser exhibidos para la conservación de los derechos que les son inherentes, se relacionarán y entregarán al síndico, para la oportuna realización de los actos que fuesen necesarios. El dinero se entregará al síndico para su depósito.
@@ -1570,9 +1876,17 @@ Dentro de un plazo de sesenta días contados a partir de la fecha en que el sín
 
 I. Un dictamen sobre el estado de la contabilidad del Comerciante;
 
-II. Un inventario de la empresa del Comerciante, y
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-III. Un balance, a la fecha en que asuma la administración de la empresa.
+II. Un inventario de la empresa del Comerciante;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Un balance, a la fecha en que asuma la administración de la empresa, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Un reporte detallado de la asistencia que hubiere recibido por parte del Comerciante en términos del artículo 184 de esta Ley.
 
 Estas obligaciones deberán cumplirse en los formatos que al efecto establezca el Instituto.
 
@@ -1616,11 +1930,19 @@ Tratándose de personas morales, las disposiciones relativas a las obligaciones 
 
 ### Capítulo I. De la enajenación del activo
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 197.
 
-Declarada la quiebra, aun cuando no se hubiere concluido el reconocimiento de créditos, el síndico procederá a la enajenación de los bienes y derechos que integran la Masa, procurando obtener el mayor producto posible por su enajenación.
+Declarada la quiebra, aun cuando no se hubiere concluido el reconocimiento de créditos, el síndico procederá a la enajenación de los bienes y derechos que integran la Masa, procurando obtener el mayor producto posible por su enajenación. Para tal efecto, deberán buscarse las mejores condiciones y plazos más cortos de recuperación de recursos.
 
-Cuando la enajenación de la totalidad de los bienes y derechos de la Masa como unidad productiva, permita maximizar el producto de la enajenación, el síndico deberá considerar la conveniencia de mantener la empresa en operación.
+Los procedimientos y términos generales en que se realice la enajenación de los bienes, deberán atender a las características comerciales de las operaciones, las sanas prácticas y usos mercantiles imperantes, las plazas en que se encuentran los bienes a enajenar, así como al momento y condiciones tanto generales como particulares en que la operación se realice, considerando inclusive, la reducción, en su caso, de los costos de administración.
+
+Cuando la enajenación de la totalidad de los bienes y derechos de la Masa como unidad productiva, permita maximizar el producto de la enajenación, el síndico deberá considerar la conveniencia de mantener la empresa en operación. En caso de que no fuere posible mantener la empresa en operación, la enajenación de los bienes podrá llevarse a cabo agrupándolos para formar paquetes que permitan reducir los plazos de enajenación y maximizar razonablemente el valor de recuperación, considerando sus características comerciales.
+
+Deberán promoverse, en todos los casos, los elementos de publicidad y operatividad que garanticen la objetividad y transparencia de los procedimientos correspondientes.
+
+Cuando dentro de los bienes y derechos de la Masa se incluyan valores, la enajenación de los mismos se llevará a cabo conforme a lo establecido en este capítulo, sin que sea aplicable la Ley del Mercado de Valores en lo relativo a ofertas de valores.
 
 ###### Artículo 198.
 
@@ -1744,15 +2066,19 @@ La subasta se celebrará en un plazo no menor a diez días naturales ni mayor a 
 
 La oferta recibida se considerará como postura en la subasta. La persona que la hubiere presentado no podrá mejorarla ni participar en las pujas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 208.
 
-Bajo su responsabilidad, el síndico podrá proceder a la enajenación de bienes de la Masa, sin atender a lo dispuesto en este Capítulo, cuando los bienes requieran una inmediata enajenación porque no puedan conservarse sin que se deterioren o corrompan, o que estén expuestos a una grave disminución en su precio, o cuya conservación sea demasiado costosa en comparación a su valor.
+Bajo su responsabilidad, el síndico podrá proceder a la enajenación de bienes de la Masa, sin atender a lo dispuesto en este Capítulo, cuando los bienes requieran una inmediata enajenación porque no puedan conservarse sin que se deterioren o corrompan, o que estén expuestos a una grave disminución en su precio, o cuya conservación sea demasiado costosa en comparación a su valor, o se trate de bienes cuyo valor de enajenación no exceda de los montos que establezca para tal efecto el Instituto mediante reglas de carácter general.
 
 En estos casos, dentro de los tres días hábiles de realizada la venta, el síndico, por conducto del juez, informará de la misma al Comerciante, a los interventores y a los Acreedores Reconocidos. El informe deberá incluir una descripción de los bienes de que se trate, sus precios y condiciones de venta, y la justificación de la urgencia de la venta y de la identidad del comprador.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 209.
 
-Los bienes que sean objeto de una demanda de separación, no podrán enajenarse mientras no quede firme la sentencia que deniegue aquélla.
+Los bienes que sean objeto de una demanda de separación, no podrán enajenarse mientras no quede firme la sentencia que deniegue aquélla. Sin perjuicio de lo anterior, a solicitud del síndico, el separatista deberá otorgar garantía para resarcir a la Masa por los daños y perjuicios que resultaren en caso de no resultar procedente la demanda de separación. El juez, en su caso, determinará el monto de dicha garantía.
 
 ###### Artículo 210.
 
@@ -1760,7 +2086,13 @@ El síndico podrá solicitar los peritajes, avalúos y demás estudios que estim
 
 El síndico deberá hacer públicos los estudios a que se refiere el párrafo anterior, los cuales deberán exhibirse en los formatos que al efecto establezca el Instituto.
 
-El Instituto, mediante reglas generales, podrá fijar pagos y depósitos a quienes soliciten acceso a dicha información; dichas cantidades pasarán a formar parte de la Masa.
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los procedimientos de enajenación de bienes podrán encomendarse a terceros especializados cuando ello coadyuve a recibir un mayor valor de recuperación de los mismos o bien, cuando considerando los factores de costo y beneficio, resulte más redituable. El síndico deberá vigilar el desempeño que los terceros especializados tengan respecto a los actos que les sean encomendados.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+El Instituto, mediante reglas generales, podrá fijar pagos y depósitos a quienes soliciten acceso a la información referida; dichas cantidades pasarán a formar parte de la Masa.
 
 ###### Artículo 211.
 
@@ -1780,23 +2112,25 @@ Los Acreedores Reconocidos con garantía real que inicien o continúen un proced
 
 El síndico podrá participar en el procedimiento de ejecución en defensa de los intereses de la Masa.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 214.
 
-Durante los primeros treinta días naturales de la etapa de quiebra, el síndico podrá evitar la ejecución separada de una garantía cuando considere que es en beneficio de la Masa enajenarla como parte de un conjunto de bienes.
+Durante los primeros treinta días naturales de la etapa de quiebra, el síndico podrá evitar la ejecución separada de una garantía sobre bienes que estén vinculados con la operación ordinaria de la empresa del Comerciante cuando considere que es en beneficio de la Masa enajenarla como parte de un conjunto de bienes.
 
-En estos casos, previamente a la enajenación del conjunto de bienes de que se trate, el síndico realizará una valuación de los bienes que garantizan el crédito.
+En estos casos, previamente a la enajenación del conjunto de bienes de que se trate, el síndico realizará una valuación de los bienes que garantizan el crédito:
 
-Si el acreedor no ejerció el derecho a que se refiere el segundo párrafo del artículo 89 de esta Ley, se aplicará lo siguiente:
+I. Si el acreedor no ejerció el derecho a que se refiere el segundo párrafo del artículo 89 de esta Ley, se aplicará lo siguiente:
 
-I. Si la valuación del síndico resulta mayor al monto del crédito de que se trate, incluyendo los intereses devengados hasta el día de la enajenación, el síndico realizará el pago íntegro del crédito, con las deducciones que correspondan conforme a esta Ley, o
+a) Si la valuación del síndico resulta mayor al monto del crédito de que se trate, incluyendo los intereses devengados hasta el día de la enajenación, el síndico realizará el pago íntegro del crédito, con las deducciones que correspondan conforme a esta Ley, o
 
-II. Si de la valuación resulta un monto menor al del crédito, incluyendo los intereses correspondientes, el síndico pagará al acreedor el monto de la valuación. Si la valuación es menor al monto del crédito reconocido a la fecha de declaración de concurso, se registrará su diferencia como crédito común.
+b) Si de la valuación resulta un monto menor al del crédito, incluyendo los intereses correspondientes, el síndico pagará al acreedor el monto de la valuación. Si la valuación es menor al monto del crédito reconocido a la fecha de declaración de concurso, se registrará su diferencia como crédito común.
 
-Si el acreedor ejerció el derecho a que se refiere el segundo párrafo del artículo 89 de esta Ley se procederá conforme a lo siguiente:
+II. Si el acreedor ejerció el derecho a que se refiere el segundo párrafo del artículo 89 de esta Ley se procederá conforme a lo siguiente:
 
-I. Si el acreedor le atribuyó a su garantía un valor mayor a la valuación del síndico, éste pagará al acreedor el monto de la valuación y registrará para pago como crédito común la diferencia entre la valuación y el monto del crédito reconocido a la fecha de declaración de concurso, o
+a) Si el acreedor le atribuyó a su garantía un valor mayor a la valuación del síndico, éste pagará al acreedor el monto de la valuación y registrará para pago como crédito común la diferencia entre la valuación y el monto del crédito reconocido a la fecha de declaración de concurso, o
 
-II. Si el acreedor le atribuyó a su garantía un valor menor a la valuación del síndico, éste le pagará el monto que el acreedor haya atribuido a su garantía, y registrará para pago como crédito común la diferencia entre el valor atribuido y el monto del crédito reconocido a la fecha de declaración de concurso.
+b) Si el acreedor le atribuyó a su garantía un valor menor a la valuación del síndico, éste le pagará el monto que el acreedor haya atribuido a su garantía, y registrará para pago como crédito común la diferencia entre el valor atribuido y el monto del crédito reconocido a la fecha de declaración de concurso.
 
 Para las comparaciones y los pagos a que se refiere este artículo, el valor atribuido por el acreedor a su garantía se convertirá a moneda nacional, utilizando al efecto el valor de las UDIs del día anterior al del pago al acreedor.
 
@@ -1828,9 +2162,17 @@ I. Acreedores singularmente privilegiados;
 
 II. Acreedores con garantía real;
 
-III. Acreedores con privilegio especial, y
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-IV. Acreedores comunes.
+III. Acreedores con privilegio especial;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Acreedores comunes, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. Acreedores subordinados.
 
 ###### Artículo 218.
 
@@ -1848,7 +2190,9 @@ I. Los hipotecarios, y
 
 II. Los provistos de garantía prendaria.
 
-Los acreedores con garantía real percibirán el pago de sus créditos del producto de los bienes afectos a la garantía, con exclusión absoluta de los acreedores a los que hacen referencia las fracciones III y IV del artículo 217 de esta Ley y con sujeción al orden que se determine con arreglo a las disposiciones aplicables en relación con la fecha de registro.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los acreedores con garantía real percibirán el pago de sus créditos del producto de los bienes afectos a la garantía, con exclusión absoluta de los acreedores a los que hacen referencia las fracciones III a V del artículo 217 de esta Ley y con sujeción al orden que se determine con arreglo a las disposiciones aplicables en relación con la fecha de registro.
 
 ###### Artículo 220.
 
@@ -1862,9 +2206,21 @@ Los créditos laborales diferentes de los señalados en la fracción I del artí
 
 En caso de que los créditos fiscales cuenten con garantía real, para efectos de su pago se estará a lo dispuesto en el artículo 219 de esta Ley hasta por el importe de su garantía, y cualquier remanente se pagará en los términos del primer párrafo de este artículo.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 222.
 
-Son acreedores comunes todos aquellos que no estén considerados en los artículos 218 al 221 y 224 de este ordenamiento y cobrarán a prorrata sin distinción de fechas.
+Son acreedores comunes todos aquellos que no estén considerados en los artículos 218 al 221, 222 Bis y 224 de este ordenamiento y cobrarán a prorrata sin distinción de fechas.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 222 Bis.
+
+Son acreedores subordinados los siguientes:
+
+I. Los acreedores que hubiesen convenido la subordinación de sus derechos respecto de los créditos comunes; y
+
+II. Los acreedores por créditos sin garantía real de que fuera titular alguna de las personas a que aluden los artículos 15, 116 y 117 de esta Ley, con excepción de las personas señaladas en los artículos 15, fracción I, y 117, fracción II.
 
 ###### Artículo 223.
 
@@ -1874,9 +2230,13 @@ No se realizarán pagos a los acreedores de un grado sin que queden saldados los
 
 Son créditos contra la Masa y serán pagados en el orden indicado y con anterioridad a cualquiera de los que se refiere el artículo 217 de esta Ley:
 
-I. Los referidos en la fracción XXIII, apartado A, del artículo 123 constitucional y sus disposiciones reglamentarias aumentando los salarios a los correspondientes a los dos años anteriores a la declaración de concurso mercantil del Comerciante;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. Los contraídos para la administración de la Masa por el Comerciante con autorización del conciliador o síndico o, en su caso, los contratados por el propio conciliador;
+I. Los referidos en la fracción XXIII, apartado A, del artículo 123 constitucional y sus disposiciones reglamentarias;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Los contraídos para la administración de la Masa por el Comerciante con autorización del conciliador o síndico o, en su caso, los créditos indispensables para mantener la operación ordinaria de la empresa y la liquidez necesaria durante la tramitación del concurso mercantil. En este último supuesto, se perderá todo privilegio y preferencia en el pago en caso de otorgarse dichos créditos en contravención a lo resuelto por el juez o a lo autorizado por el conciliador, así como en caso de resolverse mediante sentencia firme que los créditos fueron contratados en fraude de acreedores y en perjuicio de la Masa;
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -1972,9 +2332,11 @@ Para efectos de este capítulo se entenderá como autoridad concedente al gobier
 
 La autoridad concedente propondrá al juez todo lo relativo a la designación, remoción y sustitución del conciliador y del síndico que participen en los concursos mercantiles a que se refiere este capítulo, así como para supervisar las actividades que éstos realicen. Cuando las circunstancias especiales del caso lo justifiquen, la autoridad concedente podrá establecer un régimen de remuneración distinto al previsto por el artículo 333 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 241.
 
-Declarado el concurso mercantil de un Comerciante conforme a este capítulo, la autoridad concedente propondrá al juez la separación de quien desempeñe la administración de la empresa del Comerciante y nombrar a una persona para que la asuma, cuando lo considere necesario para la continuidad y la seguridad en la prestación del servicio público.
+Declarado el concurso mercantil de un Comerciante conforme a este capítulo, y en cualquier momento a partir de esta declaratoria, la autoridad concedente podrá resolver la separación de quien desempeñe la administración de la empresa del Comerciante y nombrar a una persona para que la asuma, cuando lo considere necesario para la continuidad y la seguridad en la prestación del servicio público.
 
 En estos casos, la autoridad concedente comunicará su determinación al juez, quien tomará sin dilación todas las medidas necesarias para que tome posesión de la empresa del Comerciante la persona designada por la autoridad concedente. La ocupación se realizará conforme a las formalidades previstas en los artículos 180 a 182 de este ordenamiento.
 
@@ -1996,23 +2358,49 @@ III. Interventores que representen, en su conjunto, al menos el cincuenta por ci
 
 En todos los casos en que la venta de la empresa del Comerciante incluya la transmisión del título de concesión, la operación deberá contar con la aprobación previa de la autoridad concedente, quien verificará que el adquirente cumpla con los requisitos que para estar en condiciones de prestar el servicio público establezcan las disposiciones aplicables.
 
-### Capítulo II. Del concurso mercantil de las instituciones de crédito
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 2014)</small>
+
+### Capítulo II. Del concurso mercantil de las Instituciones Financieras
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 244 Bis.
+
+Para efectos de lo dispuesto en el presente Capítulo, se entenderá por:
+
+I. Institución Financiera: a la entidad que las leyes federales le otorgan tal carácter. Quedan excluidas las instituciones de crédito, las organizaciones auxiliares del crédito y las personas que realicen actividades auxiliares del crédito.
+
+II. Comisión Supervisora: Aquella que de conformidad con las disposiciones que le resultan aplicables, sea responsable de la supervisión y vigilancia de una Institución Financiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 245.
 
-El concurso mercantil de las instituciones de crédito se regirá por lo previsto en esta Ley, en lo que no se oponga a las disposiciones especiales que les sean aplicables.
+El concurso mercantil de las Instituciones Financieras se regirá por lo previsto en esta Ley, salvo por lo dispuesto en las leyes financieras que regulan su organización y funcionamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 2014)</small>
+
+La determinación de incumplimiento generalizado de obligaciones de pago a que se refiere el Capítulo II del Título Primero de esta Ley, a cargo de Instituciones Financieras, deberá realizarse conforme a las normas de registro contable que la autoridad financiera competente emita al amparo de las leyes financieras que regulan su organización y funcionamiento.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+El concurso mercantil de las instituciones de crédito se regirá por lo dispuesto para la liquidación judicial y demás normas aplicables de la Ley de Instituciones de Crédito.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 246.
 
-Sólo podrán demandar la declaración de concurso mercantil de una institución de crédito el Instituto para la Protección del Ahorro Bancario o la Comisión Nacional Bancaria y de Valores en términos de las disposiciones aplicables.
+Sólo podrá demandar la declaración de concurso mercantil de una Institución Financiera la Comisión Supervisora de ésta, en términos de las disposiciones aplicables.
 
-A partir de la fecha en que se presente la demanda de concurso mercantil de alguna institución de crédito, ésta deberá mantener cerradas sus oficinas de atención al público y suspender la realización de cualquier tipo de operaciones activas, pasivas y de servicios.
+A partir de la fecha en que se presente la demanda de concurso mercantil de alguna Institución Financiera, la Comisión Supervisora que corresponda, cuando así lo estime conveniente, podrá solicitar al juez del concurso que ordene a dicha Institución Financiera mantener cerradas sus oficinas de atención al público y suspender la realización de cualquier tipo de operaciones y servicios.
 
-El juez podrá adoptar, de oficio, o a solicitud del Instituto para la Protección del Ahorro Bancario o de la Comisión Nacional Bancaria y de Valores, las medidas provisionales necesarias para la protección de los trabajadores, instalaciones y activos de la institución, así como de los intereses de los acreedores.
+El juez podrá adoptar, de oficio, o a solicitud de la Comisión Supervisora, las medidas provisionales necesarias para la protección de los trabajadores, instalaciones y activos de la institución, así como de los intereses de los acreedores.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 247.
 
-Recibida la demanda de concurso mercantil, el juez citará a quien tenga encomendada la administración de la institución concediéndole un término de nueve días para contestar la demanda. En su escrito de contestación, el encargado de la administración deberá ofrecer las pruebas que esta Ley autoriza.
+Recibida la demanda de concurso mercantil, el juez citará a quien tenga encomendada la administración de la Institución Financiera concediéndole un término de nueve días para contestar la demanda. En su escrito de contestación, el encargado de la administración deberá ofrecer las pruebas que esta Ley autoriza.
 
 Al día siguiente de que el juez reciba la contestación dará vista de ella al actor para que dentro de un término de tres días manifieste lo que a su derecho convenga y, en su caso, adicione su ofrecimiento de pruebas.
 
@@ -2022,41 +2410,55 @@ Con la contestación de la demanda sólo se admitirán la prueba documental y la
 
 El juez podrá ordenar las demás diligencias probatorias que estime convenientes, las cuales deberán llevarse a cabo dentro de un plazo máximo de diez días.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 249.
 
-Cuando se declare el concurso mercantil de una institución de crédito, el procedimiento se iniciará en todos los casos en la etapa de quiebra.
+Cuando se declare el concurso mercantil de una Institución Financiera, el procedimiento se iniciará en todos los casos en la etapa de quiebra.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 250.
 
-Corresponderá al Instituto para la Protección del Ahorro Bancario proponer al juez la designación, remoción o sustitución, en su caso, del síndico del concurso mercantil de una institución de crédito.
+Corresponderá a la Comisión Supervisora proponer al juez la designación, remoción o sustitución, en su caso, del síndico del concurso mercantil de la Institución Financiera.
 
 ###### Artículo 251.
 
 La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, podrá designar hasta tres interventores quienes tendrán la obligación de representar y proteger los derechos e intereses de los acreedores de la institución declarada en concurso mercantil.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 252.
 
-Las propuestas de enajenación que presente el síndico, con la aprobación del Instituto para la Protección del Ahorro Bancario, podrán ser objetadas por la institución de crédito y el juez resolverá lo conducente.
+Las propuestas de enajenación que presente el síndico, con la aprobación de la Comisión Supervisora, podrán ser objetadas por la Institución Financiera y el juez resolverá lo conducente.
 
 ###### Artículo 253.
 
-Los acreedores que sean también instituciones de crédito podrán compensar las deudas y los créditos por remesas de títulos de crédito o instrumentos de pago que se hayan presentado a una cámara de compensación autorizada conforme a las disposiciones aplicables.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ### Capítulo III. Del concurso mercantil de las instituciones auxiliares del crédito
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 254.
 
-El concurso mercantil de las instituciones auxiliares del crédito se regirá conforme a lo previsto en esta Ley en lo que no se oponga a las disposiciones especiales que les sean aplicables.
+El concurso mercantil de las organizaciones y personas que realicen actividades auxiliares del crédito se regirá por lo previsto en esta Ley, salvo por lo dispuesto en la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+La determinación de incumplimiento generalizado de obligaciones de pago a que se refiere el Capítulo II del Título Primero de esta Ley, deberá realizarse conforme a las normas de registro contable que la autoridad financiera competente emita al amparo de las leyes financieras que regulan la organización y funcionamiento de la entidad de que se trate.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 255.
 
-Sin perjuicio de lo dispuesto en el artículo 21 de esta Ley, también podrá demandar la declaración de concurso mercantil de una institución auxiliar del crédito la Comisión Nacional Bancaria y de Valores.
+Sin perjuicio de lo dispuesto en el artículo 21 de esta Ley, también podrá demandar la declaración de concurso mercantil de una organización auxiliar del crédito y de cualquier sociedad que realice actividades auxiliares del crédito la Comisión Nacional Bancaria y de Valores, siempre y cuando aquellas estén supervisadas por esta última.
 
-Admitida la demanda, el juez ordenará que se notifique a la Comisión Nacional Bancaria y de Valores y adoptará, ya sea de oficio o a solicitud del demandante o de la mencionada comisión, las medidas provisionales que resulten necesarias para la protección de los intereses de los acreedores, trabajadores, instalaciones y activos de la institución.
+Admitida la demanda, el juez ordenará que se notifique a la Comisión Nacional Bancaria y de Valores y adoptará, ya sea de oficio o a solicitud del demandante o de la mencionada comisión, las medidas provisionales que resulten necesarias para la protección de los intereses de los acreedores, trabajadores, instalaciones y activos de la sociedad de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 256.
 
-Recibida la demanda de concurso mercantil, el juez deberá emplazar a quien tenga encomendada la administración de la institución concediéndole un término de nueve días para contestar. En su escrito de contestación, el encargado de la administración deberá de ofrecer las pruebas que esta Ley le autoriza.
+Recibida la demanda de concurso mercantil, el juez deberá emplazar a quien tenga encomendada la administración de la sociedad de que se trate, concediéndole un término de nueve días para contestar. En su escrito de contestación, el encargado de la administración deberá de ofrecer las pruebas que esta Ley le autoriza.
 
 Al día siguiente de que el juez reciba la contestación dará vista de ella al actor para que dentro de un término de tres días manifieste lo que a su derecho convenga y, en su caso, adicione su ofrecimiento de pruebas.
 
@@ -2072,17 +2474,23 @@ Dentro de los cinco días siguientes de que venza el plazo del segundo párrafo 
 
 Declarado el concurso mercantil, la Comisión Nacional Bancaria y de Valores, en defensa de los intereses de los acreedores, podrá solicitar que el procedimiento se inicie en la etapa de quiebra, o bien la terminación anticipada de la etapa de conciliación, en cuyo caso el juez declarará de plano la quiebra.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 259.
 
-Corresponderá a la Comisión Nacional Bancaria y de Valores proponer al juez la designación, remoción o sustitución, en su caso, del conciliador y del síndico del concurso mercantil de una institución auxiliar del crédito.
+Corresponderá a la Comisión Nacional Bancaria y de Valores proponer al juez la designación, remoción o sustitución, en su caso, del conciliador y del síndico del concurso mercantil de la sociedad de que se trate.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 260.
 
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, podrá designar hasta tres interventores, quienes tendrán la obligación de representar y proteger los derechos e intereses de los acreedores de la institución declarada en concurso mercantil.
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, podrá designar hasta tres interventores, quienes tendrán la obligación de representar y proteger los derechos e intereses de los acreedores de la sociedad declarada en concurso mercantil.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 261.
 
-Las propuestas de enajenación que presente el síndico, con la aprobación de la Comisión Nacional Bancaria y de Valores, podrán ser objetadas por la institución auxiliar del crédito de que se traten y el juez resolverá lo conducente.
+Las propuestas de enajenación que presente el síndico, con la aprobación de la Comisión Nacional Bancaria y de Valores, podrán ser objetadas por la sociedad de que se trate y el juez resolverá lo conducente.
 
 ## TÍTULO NOVENO. De la terminación del concurso mercantil
 
@@ -2102,9 +2510,9 @@ III. Si se hubiere efectuado pago a los Acreedores Reconocidos mediante cuota co
 
 IV. Si se demuestra que la Masa es insuficiente, aun para cubrir los créditos a que se refiere el artículo 224 de esta Ley;
 
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-V. En la etapa de quiebra, cuando se apruebe un convenio por el Comerciante y la totalidad de los Acreedores Reconocidos, o
+V. En la etapa de quiebra, cuando se apruebe un convenio por el Comerciante y los Acreedores Reconocidos que representen las mayorías que refiere el artículo 157 de la Ley y el convenio prevea el pago para todos los Acreedores Reconocidos, inclusive para los que no hubieren suscrito el convenio, o
 
 VI. En cualquier momento en que lo soliciten el Comerciante y la totalidad de los Acreedores Reconocidos.
 
@@ -2172,19 +2580,97 @@ Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
 Cuando en ejercicio de las facultades que le confiere el artículo anterior, el juez solicite el auxilio de la fuerza pública, las autoridades competentes estarán obligadas, bajo su más estricta responsabilidad, a prestar tal auxilio con la amplitud y por todo el tiempo que sea necesario.
 
-## TÍTULO DÉCIMO PRIMERO. Aspectos penales del concurso mercantil
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 10 DE ENERO DE 2014)</small>
 
-## TÍTULO DÉCIMO SEGUNDO. De la cooperación en los procedimientos internacionales
+## TÍTULO DÉCIMO BIS. Responsabilidad de los administradores
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 270 Bis.
+
+Los miembros del consejo de administración, así como los empleados relevantes del Comerciante, serán susceptibles de la responsabilidad consistente en indemnizar los daños y perjuicios ocasionados al Comerciante, cuando le hayan causado un daño patrimonial y el Comerciante se encuentre en incumplimiento generalizado en el pago de sus obligaciones a que se refieren los artículos 10, 11 y 20 Bis de esta Ley, en virtud de actualizarse alguno de los supuestos siguientes:
+
+I. Voten en las sesiones del consejo de administración o tomen determinaciones relacionadas con el patrimonio del Comerciante, con conflicto de interés;
+
+II. Favorezcan, a sabiendas, a un determinado accionista o grupo de accionistas del Comerciante, en detrimento o perjuicio de los demás accionistas;
+
+III. Cuando, sin causa legítima, por virtud de su empleo, cargo o comisión, obtengan beneficios económicos para sí o los procuren en favor de terceros, incluyendo a un determinado accionista o grupo de accionistas;
+
+IV. Generen, difundan, publiquen, proporcionen u ordenen información, a sabiendas de que es falsa;
+
+V. Ordenen u ocasionen que se omita el registro de operaciones efectuadas por el Comerciante, así como alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones celebradas, afectando cualquier concepto de los estados financieros;
+
+VI. Ordenen o acepten que se inscriban datos falsos en la contabilidad del Comerciante. Se presumirá, salvo prueba en contrario, que los datos incluidos en la contabilidad son falsos cuando las autoridades, en ejercicio de sus facultades, requieran información relacionada con los registros contables y el Comerciante no cuente con ella, y no se pueda acreditar la información que sustente los registros contables;
+
+VII. Destruyan, modifiquen u ordenen que se destruyan o modifiquen, total o parcialmente, los sistemas o registros contables o la documentación que dé origen a los asientos contables del Comerciante, con anterioridad al vencimiento de los plazos legales de conservación y con el propósito de ocultar su registro o evidencia;
+
+VIII. Alteren u ordenen que se modifiquen las cuentas activas o pasivas o las condiciones de los contratos, hacer u ordenar que se registren operaciones o gastos inexistentes, exagerar los reales o realizar intencionalmente cualquier acto u operación ilícita o prohibida por la ley, generando en cualquiera de dichos supuestos una deuda, quebranto o daño en el patrimonio del Comerciante, en beneficio económico propio, ya sea directamente o a través de un tercero, o de terceros, incluyendo el registro de pasivos a favor de las personas señaladas en los artículos 116 y 117 de esta Ley, o
+
+IX. En general, realicen actos dolosos o de mala fe, o bien, ilícitos conforme a esta Ley u otras leyes.
+
+La responsabilidad consistente en indemnizar los daños y perjuicios ocasionados con motivo de los actos, hechos u omisiones a que hacen referencia las fracciones anteriores de este artículo, será solidaria entre los culpables que hayan adoptado la decisión y será exigible como consecuencia de los daños o perjuicios ocasionados. La indemnización que corresponda deberá cubrir los daños y perjuicios causados al Comerciante y, en todo caso, se procederá a la remoción del cargo de los culpables.
+
+El Comerciante afectado, en ningún caso, podrá pactar, ni prever en sus estatutos sociales, prestaciones, beneficios o excluyentes de responsabilidad, que limiten, liberen, sustituyan o compensen las obligaciones por la responsabilidad a que se refiere este precepto legal; únicamente podrán contratar seguros, fianzas o cauciones que cubran el monto de la indemnización por los daños y perjuicios ocasionados, salvo que se trate de actos dolosos o de mala fe, o bien ilícitos conforme a esta Ley u otras disposiciones aplicables.
+
+Para los efectos de este artículo, se entenderá por empleados relevantes, el director general de una sociedad sujeta a esta Ley, así como las personas físicas que ocupando un empleo, cargo o comisión en ésta, con conocimiento, adopten, ordenen o ejecuten los actos, omisiones o conductas de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 270 Bis
+
+1.- La acción de responsabilidad consistente en indemnizar los daños y perjuicios que derive de los actos, omisiones o conductas a que se refiere el artículo anterior, será exclusivamente en favor del Comerciante que se ubique en los supuestos previstos en el artículo 10 de esta Ley y, en consecuencia, de la Masa. Lo que antecede será sin perjuicio de la posible acción penal por los delitos en su caso cometidos.
+
+La acción de responsabilidad podrá ser ejercida:
+
+I. Por el Comerciante, y
+
+II. Por los accionistas de la sociedad de que se trate que, en lo individual o en su conjunto, tengan la titularidad de acciones con derecho a voto, incluso limitado o restringido, o sin derecho a voto, que representen el veinticinco por ciento o más del capital social de la sociedad.
+
+El demandante podrá transigir en juicio el monto de la indemnización por daños y perjuicios, siempre que previamente someta a aprobación del conciliador o síndico, según corresponda, los términos y condiciones del convenio judicial correspondiente. La falta de dicha formalidad será causa de nulidad relativa.
+
+El ejercicio de las acciones a que se refiere este artículo no estará sujeto al cumplimiento de los requisitos establecidos en los artículos 161 y 163 de la Ley General de Sociedades Mercantiles. En todo caso, dichas acciones deberán comprender el monto total de las responsabilidades en favor del Comerciante y no únicamente el interés personal del o los demandantes.
+
+Las acciones que tengan por objeto exigir responsabilidad en términos de este artículo, prescribirán en cinco años contados a partir del día en que se hubiere actualizado el supuesto de que se trate, de los que se refiere el artículo 270 Bis, que haya causado el daño patrimonial correspondiente.
+
+En todo caso, las personas que a juicio del juez hayan ejercido la acción a que se refiere este precepto, con temeridad o mala fe, serán condenadas al pago de costas en términos de lo establecido en el Código de Comercio.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 270 Bis
+
+2.- Los miembros del consejo de administración y los empleados relevantes no incurrirán, individualmente o en su conjunto, en responsabilidad por los daños o perjuicios que ocasionen al Comerciante cuando le hayan causado un daño patrimonial, derivados de los actos, omisiones o conductas que ejecuten o las decisiones que adopten, cuando actuando de buena fe, se actualice cualquiera de las excluyentes de responsabilidad siguientes:
+
+I. Den cumplimiento a los requisitos que la ley aplicable o los estatutos sociales establezcan para la aprobación de los asuntos que competa conocer al consejo de administración;
+
+II. Tomen decisiones o voten en las sesiones del consejo de administración con base en información proporcionada por empleados relevantes, la persona moral que brinde los servicios de auditoría externa o expertos independientes, cuya capacidad y credibilidad no ofrezcan motivo de duda razonable;
+
+III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender, o bien, el posible daño patrimonial al Comerciante no haya sido previsible, en ambos casos, con base en la información disponible al momento de la decisión, o
+
+IV. Cumplan los acuerdos de la asamblea de accionistas, siempre y cuando éstos no sean violatorios de la ley.
+
+## TÍTULO DÉCIMO PRIMERO. Aspectos penales del concurso mercantil
 
 ### Capítulo Único. De los delitos en situación de concurso mercantil
 
+> <small>(REFORMADO PÁRRAFO PRIMERO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 271.
 
-El Comerciante declarado, por sentencia firme, en concurso mercantil, será sancionado con pena de uno a nueve años de prisión por cualquier acto o conducta dolosa que cause o agrave el incumplimiento generalizado en el pago de sus obligaciones.
+El Comerciante declarado en concurso mercantil por sentencia firme será sancionado con pena de tres a doce años de prisión por cualquier acto o conducta dolosos realizados antes o después de la declaración del concurso mercantil que cause o agrave el incumplimiento generalizado en el pago de sus obligaciones.
 
 Se presumirá, salvo prueba en contrario, que el Comerciante ha causado o agravado dolosamente el incumplimiento generalizado en el pago de sus obligaciones cuando lleve su contabilidad en forma que no permita conocer su verdadera situación financiera; o la altere, falsifique o destruya.
 
 El juez tendrá en cuenta, para individualizar la pena, la cuantía del perjuicio inferido a los acreedores y su número.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 271 Bis.
+
+Cuando el Comerciante haya sido declarado, por sentencia firme, en concurso mercantil, se impondrá de tres a doce años de prisión, a los miembros del consejo de administración, administrador único, director general, empleados relevantes a que se refiere el artículo 270 Bis, o representantes legales del Comerciante que, mediante la modificación de las cuentas activas o pasivas o de las condiciones de los contratos hagan u ordenen que se registren operaciones o gastos inexistentes con conocimiento de dicha circunstancia, o que dolosamente realicen cualquier acto u operación ilícita o prohibida por la ley, generando en cualquiera de dichos supuestos un daño en el patrimonio del Comerciante de que se trate, en beneficio económico propio, ya sea directamente o a través de interpósita persona, o en beneficio de terceros, incluyendo el registro de pasivos a favor de cualquiera de las personas señaladas en los artículos 116 y 117 de esta Ley.
+
+La pena a que se refiere este artículo será de uno a tres años de prisión cuando se acredite haber reparado el daño y resarcido el perjuicio ocasionado al Comerciante.
+
+No se procederá penalmente por el delito previsto en este artículo, cuando las personas actúen en términos de lo establecido por el artículo 270 Bis-2 de esta Ley, así como en cumplimiento de las leyes que regulen los actos o conductas a que se refiere el primer párrafo de este artículo.
 
 ###### Artículo 272.
 
@@ -2212,7 +2698,7 @@ Los delitos en situación de concurso mercantil, cometidos por el Comerciante, p
 
 Las decisiones del juez que conoce del concurso mercantil no vinculan a la jurisdicción penal. No será necesaria calificación para perseguir estos delitos.
 
-## TÍTULO DÉCIMO TERCERO. Del Instituto Federal de Especialistas de Concursos Mercantiles
+## TÍTULO DÉCIMO SEGUNDO. De la cooperación en los procedimientos internacionales
 
 ### Capítulo I. Disposiciones generales
 
@@ -2340,9 +2826,11 @@ Si el Comerciante no tiene un Establecimiento en la República, el procedimiento
 
 El juicio se tramitará, siguiendo las disposiciones que, para los incidentes, se contienen en el Título décimo de esta Ley. La persona que pida el reconocimiento deberá señalar el domicilio del Comerciante para los efectos del emplazamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 295.
 
-Si la resolución o el certificado de los que se trata en la fracción I del artículo 291 de esta Ley indican que el Procedimiento Extranjero es un procedimiento de los descritos en la fracción I del artículo 279 anterior y que el Representante Extranjero es una persona o un órgano de acuerdo con la fracción IV del mencionado artículo 279, el juez podrá presumir que ello es así.
+Si la resolución o el certificado de los que se trata en el segundo párrafo del artículo 292 de esta Ley indican que el Procedimiento Extranjero es un procedimiento de los descritos en la fracción I del artículo 279 anterior y que el Representante Extranjero es una persona o un órgano de acuerdo con la fracción IV del mencionado artículo 279, el juez podrá presumir que ello es así.
 
 El juez estará facultado para presumir que los documentos que le sean presentados en apoyo de la solicitud de reconocimiento son auténticos, estén o no legalizados.
 
@@ -2502,9 +2990,7 @@ Salvo prueba en contrario, el reconocimiento de un Procedimiento Extranjero Prin
 
 Sin perjuicio de los derechos de los titulares de créditos con privilegio especial, con garantía real o de los derechos reales, un acreedor que haya recibido un cobro parcial respecto de su crédito en un procedimiento seguido en un Estado extranjero, con arreglo a una norma relativa a la insolvencia, no podrá recibir un nuevo dividendo por ese mismo crédito en un procedimiento de insolvencia que se siga con arreglo a esta Ley respecto de ese mismo Comerciante, en tanto que el dividendo recibido por los demás acreedores de la misma categoría sea proporcionalmente inferior al cobro ya recibido por el acreedor.
 
-## TITULO DÉCIMO CUARTO. Del concurso mercantil con plan de reestructura previo
-
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+## TÍTULO DÉCIMO TERCERO. Del Instituto Federal de Especialistas de Concursos Mercantiles
 
 ### Capítulo I. De la Naturaleza y Atribuciones
 
@@ -2796,23 +3282,35 @@ La Junta Directiva del Instituto resolverá sobre la amonestación, la suspensi�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
 
+## TITULO DÉCIMO CUARTO. Del concurso mercantil con plan de reestructura previo
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+
 ###### Artículo 339.
 
 Será admitida a trámite la solicitud de concurso mercantil con plan de reestructura cuando:
 
 I. La solicitud reúna todos los requisitos que ordena el artículo 20 de esta Ley;
 
-II. La solicitud la suscriba el Comerciante con los titulares de cuando menos el cuarenta por ciento del total de sus adeudos.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Para la admisión del concurso mercantil con plan de reestructura será suficiente que el Comerciante manifieste bajo protesta de decir verdad que las personas que firman la solicitud representan cuando menos el cuarenta por ciento del total de sus adeudos;
+II. La solicitud la suscriba el Comerciante con los titulares de cuando menos la mayoría simple del total de sus adeudos.
+
+Para la admisión del concurso mercantil con plan de reestructura será suficiente que el Comerciante manifieste bajo protesta de decir verdad que las personas que firman la solicitud representan cuando menos la mayoría simple del total de sus adeudos;
 
 III. El Comerciante manifieste bajo protesta de decir verdad que:
 
-a). Se encuentra dentro de los supuestos de los artículos 10 y 11 de esta Ley, explicando los motivos, o
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-b). Es inminente que se encuentre dentro de los supuestos de los artículos 10 y 11 de esta Ley, explicando los motivos.
+a) Se encuentra dentro de alguno de los supuestos de los artículos 10 y 11 de esta Ley, explicando los motivos, o
 
-Por inminencia debe entenderse un periodo inevitable de treinta días, y
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+b) Es inminente que se encuentre dentro de alguno de los supuestos de los artículos 10 y 11 de esta Ley, explicando los motivos.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Por inminencia debe entenderse un periodo inevitable de noventa días, y
 
 IV. La solicitud venga acompañada de una propuesta de plan de reestructura de pasivos del Comerciante, firmada por los acreedores referidos en la fracción II.
 
@@ -2828,11 +3326,11 @@ El Comerciante y los acreedores que suscriban la solicitud de concurso mercantil
 
 Si la solicitud de concurso mercantil con plan de reestructura reúne todos los anteriores requisitos, el juez dictará sentencia que declare el concurso mercantil con plan de reestructura sin que sea necesario designar visitador.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 342.
 
-La sentencia de concurso mercantil deberá reunir los requisitos que esta Ley le exige y a partir de ese momento el concurso mercantil con plan de reestructura se tramitará como un concurso mercantil ordinario, con la única salvedad de que el conciliador deberá considerar el plan de reestructura exhibido con la solicitud al proponer cualquier convenio.
+La sentencia de concurso mercantil deberá reunir los requisitos que esta Ley le exige y a partir de ese momento el concurso mercantil con plan de reestructura se tramitará como un concurso mercantil ordinario, con la única salvedad de que el Comerciante o, en su caso, el conciliador deberá presentar a votación y subsecuente aprobación judicial el plan de reestructura exhibido con la solicitud.
 
 ## TRANSITORIOS
 
@@ -2869,3 +3367,59 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 27 DE DICIEMBRE DE 2007.
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+DECRETO POR EL QUE REFORMAN LOS ARTÍCULOS 1, PÁRRAFO SEGUNDO; 7; 15; 17; 20, PÁRRAFOS PRIMERO Y SEGUNDO, Y LAS FRACCIONES V Y VI; 22, PÁRRAFO PRIMERO Y LA FRACCIÓN VI; 26, PÁRRAFO PRIMERO; 28; 29, PÁRRAFO PRIMERO; 37, PÁRRAFO SEGUNDO; 41; 43, FRACCIONES V Y VIII; 47 PRIMER PÁRRAFO; 48, PÁRRAFO TERCERO; 59; 61; 63; 64, FRACCIONES II Y III; 71, FRACCIÓN VII Y SUS INCISOS A) C) Y D); 78; 105, PÁRRAFO PRIMERO; 112; 116, FRACCIÓN II; 117, FRACCIONES I A IV; 129; 145, PÁRRAFOS SEGUNDO Y TERCERO; 147 PÁRRAFO SEGUNDO DE LA FRACCIÓN I Y PÁRRAFO PRIMERO DE LA FRACCIÓN II; LA FRACCIÓN I DEL PÁRRAFO PRIMERO DEL ARTÍCULO 157; 161; 163, PÁRRAFO PRIMERO; 165, PÁRRAFO SEGUNDO; 166; 167, FRACCIONES II Y III; 174, FRACCIÓN II; 190, FRACCIONES II Y III; 197; 208, PÁRRAFO PRIMERO; 209; 210, TERCER PÁRRAFO; 214; 217, FRACCIONES III Y IV; 219 ÚLTIMO PÁRRAFO; 222; 224, FRACCIONES I Y II; 241, PRIMER PÁRRAFO; 262, FRACCIÓN V; 271, PÁRRAFO PRIMERO; 295, PÁRRAFO PRIMERO; 339 FRACCIONES II Y III, INCISOS A) Y B) ; Y 342 Y SE ADICIONAN LAS FRACCIONES III BIS Y IV BIS AL ARTÍCULO 4; EL ARTÍCULO 15 BIS; LAS FRACCIONES VII A IX AL ARTÍCULO 20; EL ARTÍCULO 20 BIS; UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 21; UN CUARTO PÁRRAFO AL ARTÍCULO 23; EL ARTÍCULO 23 BIS; UN SEGUNDO PÁRRAFO AL ARTÍCULO 29, PASANDO SU ACTUAL SEGUNDO PÁRRAFO A SER TERCERO; UN CUARTO Y QUINTO PÁRRAFOS AL ARTÍCULO 37; UNA FRACCIÓN IV AL ARTÍCULO 64, PASANDO SU ACTUAL IV A SER V; UN INCISO E) A LA FRACCIÓN VII DEL ARTÍCULO 71; UN CUARTO, QUINTO Y SEXTO PÁRRAFOS AL ARTÍCULO 75; UN TERCER PÁRRAFO AL ARTÍCULO 84; EL ARTÍCULO 113 BIS; UN TERCER PÁRRAFO AL ARTÍCULO 122; UN QUINTO Y SEXTO PÁRRAFOS AL ARTÍCULO 145; UN SEGUNDO PÁRRAFO AL ARTÍCULO 147, PASANDO EL ACTUAL SEGUNDO A SER TERCERO; UN CUARTO PÁRRAFO AL ARTÍCULO 153; UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 157; EL ARTÍCULO 161 BIS; EL ARTÍCULO 161 BIS 1; LA FRACCIÓN II BIS AL PRIMER PÁRRAFO Y EL PÁRRAFO TERCERO AL ARTÍCULO 165; EL ARTÍCULO 166 BIS; LA FRACCIÓN IV DEL ARTÍCULO 167; UN SEGUNDO PÁRRAFO AL ARTÍCULO 173; UN SEGUNDO PÁRRAFO AL ARTÍCULO 175; UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 184; LA FRACCIÓN IV AL ARTÍCULO 190; UN TERCER PÁRRAFO AL ARTÍCULO 210, PASANDO EL ACTUAL TERCERO A SER CUARTO; LA FRACCIÓN V AL ARTÍCULO 217; EL ARTÍCULO 222 BIS; EL TÍTULO DÉCIMO BIS “RESPONSABILIDAD DE LOS ADMINISTRADORES” CONFORMADO POR LOS ARTÍCULOS 270 BIS A 270 BIS-2; 271 BIS, Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47 TODOS DE LA LEY DE CONCURSOS MERCANTILES.
+
+###### ARTÍCULO VIGÉSIMO SÉPTIMO.
+
+En relación con las modificaciones a que se refiere el Artículo Vigésimo Sexto de este Decreto, se estará a lo siguiente:
+
+I. El Consejo de la Judicatura Federal, en ejercicio de las facultades que le confiere la Ley Orgánica del Poder Judicial de la Federación, emitirá en un plazo de ciento ochenta días naturales contados a partir de la fecha de entrada en vigor de este Decreto, los acuerdos generales que considere necesarios a efecto de establecer las bases y el correcto funcionamiento de la tramitación del juicio a través de medios electrónicos.
+
+II. Los procedimientos de concurso mercantil que hubiesen sido iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán rigiéndose por la Ley de Concursos Mercantiles vigente a la fecha de entrada en vigor referida.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO OCTAVO Y LOS ARTÍCULOS 245; 246; 247; 249; 250; 252; 254; 255; 256, PRIMER PÁRRAFO; 259; 260 Y 261, SE ADICIONA UN ARTÍCULO 244 BIS Y UN TERCER PÁRRAFO AL ARTÍCULO 245, Y SE DEROGA EL ARTÍCULO 253 DE LA LEY DE CONCURSOS MERCANTILES
+
+ARTÍCULO TRIGÉSIMO QUINTO.- En relación con las modificaciones a que se refieren los Artículos Trigésimo Primero a Trigésimo Cuarto de este Decreto, se estará a lo siguiente:
+
+I. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+II. En tanto la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores, el Banco de México y el Instituto para la Protección al Ahorro Bancario emitan las disposiciones de carácter general a que se refieren los artículos que reforma o adiciona el presente Decreto, seguirán aplicándose las emitidas con anterioridad a su entrada en vigor en lo que no se opongan a lo previsto en el mismo.
+
+III. Los procedimientos especiales de concurso mercantil de instituciones de banca múltiple que hubiesen sido iniciados con anterioridad a la entrada en vigor de este Decreto, continuarán rigiéndose por la Ley de Concursos Mercantiles, publicada en el Diario Oficial de la Federación el día 12 de mayo de 2000.
+
+IV. Las instituciones de banca múltiple contarán con un plazo de ciento veinte días a partir de la fecha de entrada en vigor del presente Decreto para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el mismo. Tratándose de la modificación de los estatutos sociales, éstos deberán someterse a la aprobación de la Comisión Nacional Bancaria y de Valores.
+
+V. Las instituciones de banca múltiple que a la fecha de entrada en vigor del presente Decreto se encuentren en procedimiento de liquidación o concurso mercantil podrán convenir con el Servicio de Administración y Enajenación de Bienes la sustitución de los deberes derivados de fideicomisos en términos del artículo 185 de la Ley de Instituciones de Crédito que por virtud del presente Decreto se reforma.
+
+VI. Las instituciones de banca múltiple deberán efectuar los actos corporativos necesarios para prever expresamente en sus estatutos sociales y en las acciones representativas de su capital social, lo dispuesto en los artículos 29 Bis 13 al 29 Bis 15 de la Ley de Instituciones de Crédito, dentro de un plazo máximo de sesenta días naturales, contado a partir de la entrada en vigor del presente Decreto.
+
+VII. Las instituciones de banca múltiple deberán prever en los contratos que celebren a partir de la entrada en vigor de este Decreto, así como en la demás documentación relativa, las restricciones señaladas en las fracciones IV) y V) del artículo 29 Bis 14 de la Ley de Instituciones de Crédito.
+
+VIII. Cuando las leyes, reglamentos, decretos, acuerdos u otros instrumentos jurídicos hagan mención al concurso mercantil o quiebra de instituciones de crédito, la referencia deberá entenderse hecha a los procedimientos previstos en el Título Séptimo, Capítulo II, Sección Segunda de la Ley de Instituciones de Crédito.
+
+IX. La reforma contenida en el presente Decreto al séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito no será aplicable al monto de las operaciones o de créditos dispuestos a cargo de personas relacionadas, celebradas con anterioridad a la entrada en vigor de este mismo Decreto, hasta que se reestructuren o renueven.
+
+En razón de lo anterior, las instituciones de banca múltiple solo podrán celebrar con posterioridad a la entrada en vigor del presente Decreto operaciones a cargo de personas relacionadas por un monto que no exceda del porcentaje previsto por el séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito, una vez consideradas las operaciones referidas en el párrafo anterior.
+
+Lo dispuesto por el primer párrafo del presente artículo, solo aplicará respecto del importe que con anterioridad a la entrada en vigor del presente Decreto ya hubiere sido dispuesto por el acreditado, tratándose de préstamos o créditos revocables; o bien, a la totalidad del monto de dicho préstamo o crédito, en el caso de préstamos o créditos irrevocables celebrados con anterioridad a su entrada en vigor.
+
+X. La Junta de Gobierno del Instituto para la Protección al Ahorro Bancario expedirá las disposiciones de carácter general a que se refiere el artículo 22 de la Ley de Protección al Ahorro Bancario, dentro de un plazo que no podrá exceder de doce meses contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se expidan dichas disposiciones, las Instituciones deberán seguir el procedimiento establecido en las disposiciones publicadas en el Diario Oficial de la Federación el 31 de mayo de 1999.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
