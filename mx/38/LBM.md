@@ -4,7 +4,7 @@ identifier: "LBM"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-23"
-last_updated: "2012-04-09"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LBM"
 
 LEY DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el jueves 23 de diciembre de 1993.
 
@@ -110,7 +110,9 @@ VII. Recibir depósitos bancarios de dinero del Gobierno Federal, de entidades f
 
 VIII. Recibir depósitos bancarios de dinero de las personas a que se refiere la fracción VI del artículo 3o.;
 
-IX. Obtener créditos de las personas a que se refiere la fracción VI del artículo 3o. y de entidades financieras del exterior, exclusivamente con propósitos de regulación cambiaria;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IX. Obtener créditos de las personas a que se refiere la fracción VI del artículo 3o. y de entidades financieras del exterior, exclusivamente con propósitos de regulación cambiaria; así como constituir cauciones en efectivo o con valores respecto de las operaciones financieras que celebre con dichos sujetos conforme a la presente Ley, derivadas de la administración de la reserva de activos internacionales;
 
 X. Efectuar operaciones con divisas, oro y plata, incluyendo reportos;
 
@@ -240,21 +242,31 @@ El Banco de México, para el cumplimiento de su objetivo prioritario, podrá com
 
 ### CAPITULO V. De la Expedición de Normas y las Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 24.
 
-El Banco de México podrá expedir disposiciones sólo cuando tengan por propósito la regulación monetaria o cambiaria, el sano desarrollo del sistema financiero, el buen funcionamiento del sistema de pagos, o bien, la protección de los intereses del público. Al expedir sus disposiciones el Banco deberá expresar las razones que las motivan.
+El Banco de México podrá expedir disposiciones en términos de la presente Ley, solamente cuando tengan por propósito la regulación monetaria o cambiaria, el sano desarrollo del sistema financiero, el buen funcionamiento del sistema de pagos, o bien, la protección de los intereses del público; esto sin perjuicio de las demás disposiciones que los preceptos de otras leyes faculten al Banco a expedir en las materias ahí señaladas. Al expedir sus disposiciones, el Banco deberá expresar las razones que las motivan.
 
 Las citadas disposiciones deberán ser de aplicación general, pudiendo referirse a uno o varios tipos de intermediarios, a determinadas operaciones o a ciertas zonas o plazas.
 
-Las sanciones que el Banco imponga conforme a lo previsto en los artículos 27, 29 y 33, deberán tener como objetivo preservar la efectividad de las normas de orden público establecidas en la presente Ley y, de esta manera, proveer a los propósitos mencionados en el primer párrafo de este precepto.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las sanciones que el Banco de México imponga conforme a lo previsto en el artículo 36 Bis de la presente Ley, para proveer a la observancia de la regulación que lleve a cabo, deberán tener como objetivo preservar la efectividad de las normas de orden público establecidas en la presente Ley, y en las demás que faculten al Banco a regular las materias que señalen al efecto y, de esta manera proveer, en lo conducente, a los propósitos mencionados en el primer párrafo de este precepto.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Para la imposición de las sanciones a que se refiere la presente Ley, el Banco de México establecerá, en las reglas que al efecto expida, el procedimiento, así como la forma y términos a los que sus unidades administrativas deberán sujetarse.
 
 ###### ARTICULO 25.
 
 El Banco de México determinará las condiciones en que las instituciones de crédito deberán canjear y retirar los billetes y las monedas metálicas en circulación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 26.
 
-Las características de las operaciones activas, pasivas y de servicios que realicen las instituciones de crédito, así como las de crédito, préstamo o reporto que celebren los intermediarios bursátiles, se ajustarán a las disposiciones que expida el Banco Central.
+Las características de las operaciones activas, pasivas y de servicios que realicen las instituciones de crédito, así como las de crédito, préstamo o reporto que celebren los intermediarios bursátiles, se ajustarán a las disposiciones que expida el Banco Central. Asimismo, las entidades financieras deberán cumplir con aquellas otras disposiciones de carácter general que emita el Banco de México en ejercicio de las facultades que las leyes que regulen a las citadas entidades le confieran para regular las materias que señalen al efecto.
 
 > <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
 
@@ -262,17 +274,35 @@ El Banco de México regulará las comisiones y tasas de interés, activas y pasi
 
 Lo dispuesto en este artículo será aplicable también a los fideicomisos, mandatos o comisiones de los intermediarios bursátiles y de las instituciones de seguros y de fianzas.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 27.
 
-El Banco de México podrá imponer multas a los intermediarios financieros por las operaciones activas, pasivas o de servicios, que realicen en contravención a la presente Ley o a las disposiciones que éste expida, hasta por un monto equivalente al que resulte de aplicar, al importe de la operación de que se trate y por el lapso en que esté vigente, una tasa anual de hasta el cien por ciento del costo porcentual promedio de captación que el Banco estime representativo del conjunto de las instituciones de crédito para el mes o meses de dicha vigencia y que publique en el Diario Oficial de la Federación.
+El Banco de México, en la imposición de las sanciones a que se refiere esta Ley, tomará en cuenta lo siguiente:
 
-El Banco fijará las multas a que se refiere el párrafo anterior, tomando en cuenta:
+I. El lucro obtenido, así como el monto del quebranto o perjuicio patrimonial causado, en su caso;
 
-I. El importe de las ganancias que para dichos intermediarios resulten de las operaciones celebradas en contravención a las disposiciones citadas;
+II. Los riesgos en que hayan incurrido los intermediarios y entidades de que se trate por la celebración de las operaciones que hayan dado lugar a la sanción correspondiente;
 
-II. Los riesgos en que hayan incurrido los intermediarios por la celebración de tales operaciones, y
+III. El plazo que dure el incumplimiento;
 
-III. Si el infractor es reincidente.
+IV. La reincidencia, las causas que la originaron y las acciones correctivas aplicadas por el presunto infractor, en su caso.
+
+Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.
+
+La reincidencia podrá sancionarse con multa cuyo importe equivalga hasta al doble de la cantidad que corresponda originalmente;
+
+V. La gravedad de la infracción cometida;
+
+VI. La capacidad económica del infractor, y
+
+VII. Las demás circunstancias particulares que el Banco de México estime aplicables para la individualización de la sanción respectiva.
+
+Tratándose de las sanciones a que se refieren los incisos a) y b) de la fracción III del artículo 36 Bis, el Banco de México tomará en cuenta, además de los aspectos referidos en las fracciones anteriores, las causas que hayan originado los faltantes que den lugar a la infracción correspondiente y, en particular, si estos obedecen a retiros anormales de fondos, a situaciones críticas de los intermediarios o a errores u omisiones de carácter administrativo en los que, a criterio del propio Banco, no haya mediado mala fe.
+
+Atendiendo a las circunstancias de cada caso, el Banco de México podrá además de imponer la multa que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes, la gravedad de la conducta, que no se afecten los intereses de terceros y, en su caso, la existencia de atenuantes. Para efectos de este artículo, se considerará como atenuante en la imposición de sanciones administrativas, entre otras, cuando el presunto infractor acredite ante el Banco haber resarcido el daño causado.
+
+El Banco de México podrá abstenerse de sancionar a las entidades o intermediarios financieros siempre y cuando se justifique la causa de tal abstención y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia, no se cuente con elementos que permitan demostrar que se afecten los intereses de terceros o del propio sistema financiero y no constituyan delito.
 
 ###### ARTICULO 28.
 
@@ -286,9 +316,7 @@ El Banco podrá también determinar que hasta el cien por ciento del importe de 
 
 ###### ARTICULO 29.
 
-El Banco de México podrá imponer multas a los intermediarios financieros por incurrir en faltantes respecto de las inversiones que deban mantener conforme a lo dispuesto en el artículo 28. El monto de dichas multas no podrá exceder de la cantidad que resulte de aplicar, al importe de los referidos faltantes, una tasa anual de hasta el trescientos por ciento del costo porcentual promedio de captación que el Banco estime representativo del conjunto de las instituciones de crédito para el mes respectivo, y que publique en el Diario Oficial de la Federación.
-
-El Banco fijará las multas a que se refiere el párrafo anterior, tomando en cuenta las causas que hayan originado los citados faltantes y, particularmente, si éstos obedecen a retiros anormales de fondos, a situaciones críticas de los intermediarios, o a errores u omisiones de carácter administrativo en los que, a criterio del propio Banco, no haya mediado mala fe.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### ARTICULO 30.
 
@@ -312,9 +340,9 @@ El Banco tomando en cuenta la gravedad del caso, podrá ordenar a los intermedia
 
 El Banco de México podrá establecer límites al monto de las operaciones activas y pasivas que impliquen riesgos cambiarios de los intermediarios mencionados en el artículo 32.
 
-El Banco podrá imponer multas a los intermediarios financieros que transgredan las disposiciones expedidas conforme a lo señalado en el párrafo anterior, hasta por un monto equivalente al cinco por ciento del capital pagado y reservas de capital del intermediario de que se trate.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-El Banco fijará las multas a que se refiere el párrafo anterior, tomando en cuenta lo dispuesto en las fracciones I a III del artículo 27.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 34.
 
@@ -324,11 +352,97 @@ Las dependencias y las entidades de la Administración Pública Federal que no t
 
 El Banco de México expedirá las disposiciones conforme a las cuales se determine el o los tipos de cambio a que deba calcularse la equivalencia de la moneda nacional para solventar obligaciones de pago en moneda extranjera, contraídas dentro o fuera de la República para ser cumplidas en ésta. También podrá determinar los tipos de cambio aplicables a las operaciones por las que se adquieran divisas contra entrega de moneda nacional, siempre que ambas o alguna de estas prestaciones se cumpla en territorio nacional.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### ARTICULO 35 Bis.
+
+El Banco de México, para proveer a la observancia de la regulación que lleve a cabo, podrá realizar la supervisión de los intermediarios y entidades financieras sujetos a la regulación que este expida. Dicha facultad comprenderá las de inspección y vigilancia para comprobar el cumplimiento que los intermediarios y entidades financieras den a lo dispuesto por la presente Ley y las disposiciones que emita el Banco de México. Para el ejercicio de estas facultades, el Banco actuará de oficio conforme a lo dispuesto por esta misma Ley y las reglas que al efecto emita su Junta de Gobierno.
+
+El Banco de México efectuará la inspección a que se refiere el párrafo anterior a través de visitas, verificación de operaciones y revisión de registros y sistemas, en las instalaciones, oficinas, sucursales o equipos automatizados de los intermediarios, con la finalidad de comprobar el cumplimiento de las disposiciones emitidas por el propio Banco de México, sujeto a las excepciones que establezcan las leyes especiales.
+
+Para efectos de lo dispuesto en el párrafo anterior, los intermediarios financieros, sus representantes y sus empleados, estarán obligados a permitir al personal acreditado del Banco de México el acceso al lugar o lugares y sistemas objeto de la visita, así como a dar facilidades e informes a dicho personal para el desarrollo de su labor.
+
+En caso de que la persona o personas con quienes se entiendan las diligencias de las visitas que practique el Banco de México en términos de las reglas a que se refiere el presente artículo, se nieguen a recibir la respectiva orden de visita o de cualquier manera impidan, obstaculicen o entorpezcan la práctica de dicha diligencia, los intermediarios y entidades financieras de que se trate serán sancionados conforme a lo dispuesto en el primer párrafo del artículo 36 Bis, fracción II, inciso b), de esta Ley, sin perjuicio de que el Banco de México continúe con la visita en términos de dichas reglas.
+
+La vigilancia se realizará por medio del análisis y monitoreo de la información que los intermediarios financieros suministren al Banco de México.
+
 ###### ARTICULO 36.
 
 Los intermediarios financieros estarán obligados a suministrar al Banco de México la información que éste les requiera sobre sus operaciones incluso respecto de alguna o algunas de ellas en lo individual, los datos que permitan estimar su situación financiera y, en general, aquélla que sea útil al Banco para proveer el adecuado cumplimiento de sus funciones.
 
-Las comisiones supervisoras del sistema financiero, a solicitud del Banco de México, realizarán visitas a los intermediarios, que tendrán por objeto revisar, verificar y evaluar la información que de conformidad con el párrafo anterior hayan presentado. En dichas visitas podrá participar personal del propio Banco.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Sin perjuicio de las facultades de supervisión contempladas en el artículo 35 Bis de la presente Ley, el Banco de México buscará coordinarse con las comisiones supervisoras del sistema financiero, con la intención de practicar las visitas a los intermediarios programadas anualmente, en forma conjunta con dichas autoridades en función de sus capacidades, sin perjuicio de las visitas que el Banco de México y las referidas autoridades puedan practicar de manera extraordinaria o en cualquier momento, de conformidad con las disposiciones que les resulten aplicables.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### ARTICULO 36 Bis.
+
+Las infracciones a la presente Ley o a las disposiciones que el Banco de México emita con base en esta o en las demás leyes a que se refiere el primer párrafo del artículo 26 anterior serán sancionadas con multa administrativa que impondrá el propio Banco conforme a lo siguiente:
+
+I. Multa por un monto equivalente de 1,000 días de salario mínimo general diario en el Distrito Federal, vigente el día en que se realice la conducta, hasta el cinco por ciento del total de la suma del capital pagado y reservas del capital del intermediario o entidad financiera de que se trate que hubiere reportado, en términos de las disposiciones aplicables, con la menor antelación a la fecha en que haya realizado la conducta objeto de la sanción:
+
+a) A los intermediarios y entidades financieras por las operaciones activas, pasivas o de servicios, que realicen en contravención a la presente Ley o a las disposiciones que este expida en términos de esta misma Ley, así como por el incumplimiento a las demás disposiciones del propio Banco que otros ordenamientos lo faculten a emitir;
+
+b) A los intermediarios financieros que realicen operaciones señaladas en el primer párrafo del artículo 32, en contravención a las disposiciones que el Banco expida al efecto, y
+
+c) A los intermediarios financieros mencionados en el primer párrafo del artículo 32 que transgredan los límites que el Banco de México establezca conforme al artículo 33.
+
+II. Multa por un monto equivalente de 3,000 a 15,000 días de salario mínimo general diario en el Distrito Federal, vigente el día en que se realice la conducta infractora:
+
+a) A los intermediarios y entidades financieras que incumplan la obligación de suministrar, en la forma, condiciones, plazos y demás características que el Banco de México determine, la información o documentación que este les requiera en términos de lo dispuesto en esta Ley o en cualquier otra que le otorgue facultades para ello, así como en las disposiciones que, para esos efectos, expida de conformidad con dichas leyes, y
+
+b) A los intermediarios y entidades financieras que se nieguen a recibir una orden de visita, o de cualquier manera impidan, obstaculicen o entorpezcan el ejercicio de la facultad de supervisión del propio Banco de México.
+
+III. Multa por un monto equivalente de 5,000 días de salario mínimo general diario en el Distrito Federal, vigente el día en que se realice la conducta, hasta el cinco por ciento del total de la suma del capital pagado y reservas del capital del intermediario de que se trate que hubiere reportado, en términos de las disposiciones aplicables, con la menor antelación a la fecha en que haya realizado la conducta objeto de la sanción:
+
+a) A los intermediarios financieros por incurrir en faltantes respecto de las inversiones que deban mantener conforme a lo dispuesto en el artículo 28 de la presente Ley, y
+
+b) A los intermediarios financieros por abstenerse de constituir, cuando así lo disponga el Banco de México, los depósitos a que se refiere el segundo párrafo del artículo 32 de la presente Ley.
+
+Como excepción a lo dispuesto en este artículo, no serán aplicables las sanciones que éste señala tratándose de incumplimientos a disposiciones del Banco de México previstas en otros ordenamientos que, a su vez, contemplen sanciones específicas aplicables a tales supuestos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### ARTICULO 36 Bis 1.
+
+Los intermediarios y entidades financieras, por conducto de su director general o equivalente y con la opinión del comité de auditoría, podrán someter a la autorización del Banco de México un programa de autocorrección cuando estas en la realización de sus actividades, o el comité de auditoría como resultado de la funciones que tienen conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
+
+No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
+I. Las irregularidades o incumplimientos que sean detectados por las comisiones supervisoras del sistema financiero en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación por parte de los intermediarios y entidades financieras, del programa de autocorrección respectivo.
+
+Se entenderá que la irregularidad fue detectada previamente por las comisiones supervisoras del sistema financiero, en el caso de las facultades de vigilancia, cuando se haya notificado a los intermediarios y entidades financieras la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
+
+II. Cuando la contravención a la norma de que se trate, corresponda a algún delito, o
+
+III. Cuando se trate de alguna de las infracciones que el Banco de México, las leyes o las disposiciones aplicables consideren como graves.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### ARTICULO 36 Bis 2.
+
+Los programas de autocorrección a que se refiere el artículo anterior, se sujetarán a las disposiciones de carácter general que emita el Banco de México. Adicionalmente, deberán ser firmados por el presidente del comité de auditoría de los intermediarios y entidades financieras, y ser presentados al Consejo de Administración u órgano equivalente en la sesión inmediata posterior a la solicitud de autorización presentada al Banco de México. Igualmente, deberá contener las irregularidades o incumplimientos cometidos indicando al efecto las disposiciones que se hayan considerado contravenidas; las circunstancias que originaron la irregularidad o incumplimiento cometido, así como señalar las acciones adoptadas o que se pretendan adoptar por parte de los intermediarios y entidades financieras para corregir la irregularidad o incumplimiento que motivó el programa.
+
+En caso de que los intermediarios y entidades financieras requieran de un plazo para subsanar la irregularidad o incumplimiento cometido, el programa de autocorrección deberá incluir un calendario detallado de actividades a realizar para ese efecto.
+
+Si el Banco de México no ordena a los intermediarios y entidades financieras de que se trate modificaciones o correcciones al programa de autocorrección dentro de los veinte días hábiles siguientes a su presentación, el programa se tendrá por autorizado en todos sus términos.
+
+Cuando el Banco de México ordene a los intermediarios y entidades financieras modificaciones o correcciones con el propósito de que el programa se apegue a lo establecido en el presente artículo y demás disposiciones aplicables, estas contarán con un plazo de cinco días hábiles contados a partir de la notificación respectiva para subsanar tales deficiencias. Dicho plazo podrá prorrogarse por única ocasión hasta por cinco días hábiles adicionales, previa autorización del Banco de México.
+
+De no subsanarse las deficiencias a las que se refiere el párrafo anterior, el programa de autocorrección se tendrá por no presentado y, en consecuencia, las irregularidades o incumplimientos cometidos no podrán ser objeto de otro programa de autocorrección.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### ARTICULO 36 Bis 3.
+
+Durante la vigencia de los programas de autocorrección que hubiere autorizado el Banco de México en términos de los artículos 36 Bis 1 y 36 Bis 2 de este ordenamiento, esta se abstendrá de imponer a los intermediarios y entidades financieras las sanciones previstas en esta Ley o en las disposiciones que emita, por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.
+
+El comité de auditoría en los intermediarios y entidades financieras estará obligado a dar seguimiento a la instrumentación del programa de autocorrección autorizado e informar de su avance tanto al Consejo de Administración y al director general o los órganos o personas equivalentes, así como al Banco de México en la forma y términos que éste establezca en las disposiciones de carácter general a que se refiere el artículo 36 Bis 2 de esta Ley. Lo anterior, con independencia de la facultad del Banco de México para supervisar, en cualquier momento, el grado de avance y cumplimiento del programa de autocorrección.
+
+Si como resultado de los informes del comité de auditoría o de las labores de inspección y vigilancia del Banco de México, éste determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, impondrá la sanción correspondiente aumentando el monto de ésta hasta en un cuarenta por ciento; siendo actualizable dicho monto en términos de las disposiciones fiscales aplicables.
+
+Lo previsto en este artículo será aplicable a las Entidades Financieras y Cámaras de Compensación a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 ###### ARTICULO 37.
 
@@ -514,19 +628,17 @@ El auditor tendrá las más amplias facultades para examinar y dictaminar los es
 
 ### CAPITULO VII. De las Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 51.
 
 El Banco enviará al Ejecutivo Federal y al Congreso de la Unión y, en los recesos de este último, a su Comisión Permanente, lo siguiente:
 
-I. En enero de cada año, una exposición sobre la política monetaria a seguir por la Institución en el ejercicio respectivo, así como un informe sobre el presupuesto de gasto corriente e inversión física de la Institución, correspondiente a dicho ejercicio;
+I. En enero de cada año, una exposición sobre la política monetaria a seguir por la Institución en el ejercicio respectivo, así como un informe sobre el presupuesto de gasto corriente e inversión física de la Institución, correspondiente a dicho ejercicio, y
 
-II. En septiembre de cada año, un informe sobre la ejecución de la política monetaria durante el primer semestre del ejercicio de que se trate, y
+II. A más tardar cuarenta y cinco días hábiles después del cierre de cada trimestre, un informe sobre la inflación, la evolución económica y el comportamiento de los indicadores económicos del país en dicho trimestre, así como la ejecución de la política monetaria del trimestre de que se trate y, en general, las actividades del Banco durante dicho periodo, en el contexto de la situación económica nacional e internacional.
 
-III. En abril de cada año, un informe sobre la ejecución de la política monetaria durante el segundo semestre del ejercicio inmediato anterior y, en general, sobre las actividades del Banco en el conjunto de dicho ejercicio, en el contexto de la situación económica nacional e internacional.
-
-> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
-
-Adicionalmente, el Banco enviará un informe trimestral al Congreso de la Unión, sobre la inflación, la evolución económica y el comportamiento de los indicadores económicos del país.
+Adicionalmente, el Banco enviará un informe anual al Congreso de la Unión, sobre el ejercicio de las atribuciones que le confiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 ###### ARTICULO 52.
 
@@ -636,9 +748,11 @@ III. Adquirir títulos representativos del capital de sociedades, salvo que se t
 
 No serán aplicables al Banco las prohibiciones y limitaciones establecidas en esta Ley, cuando actúe en cumplimiento de sus obligaciones de carácter laboral o de las que adquiera con los miembros de su Junta de Gobierno como contraprestación por los servicios que le presten, pudiendo en esos casos realizar las operaciones y constituir las reservas necesarias o convenientes para dicho cumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 64.
 
-Contra las resoluciones previstas en los artículos 27, 29 y 33, procederá el recurso de reconsideración, el cual deberá interponerse ante la unidad administrativa que se determine en el Reglamento Interior del Banco, dentro de los quince días hábiles siguientes a la fecha de notificación de tales resoluciones.
+Contra las sanciones previstas en la presente Ley procederá el recurso de reconsideración, el cual deberá interponerse ante la unidad administrativa que se determine en el Reglamento Interior del Banco de México, dentro de los quince días hábiles siguientes a la fecha de notificación de tales resoluciones.
 
 El recurso tendrá por objeto revocar, modificar o confirmar la resolución reclamada. En el escrito de interposición se deberá señalar el nombre y domicilio del recurrente, la resolución impugnada y los agravios que se hagan valer, acompañándose con los elementos de prueba que se consideren necesarios, así como con las constancias que acrediten la personalidad del promovente.
 
@@ -668,11 +782,25 @@ III. Si en el juicio de amparo se niega la suspensión del acto reclamado, o
 
 IV. De haberse concedido la suspensión en el juicio de amparo, hasta que se dicte sentencia firme en contra del quejoso.
 
+(ADICIONADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014) ) N. DE E. EN SU CONTENIDO.
+
 ###### ARTICULO 67.
 
-El procedimiento administrativo de ejecución para el cobro de las multas que no hubieren sido cubiertas oportunamente al Banco de México, se aplicará por la Secretaría de Hacienda y Crédito Público o por el propio Banco a través de la unidad administrativa que señale su Reglamento Interior.
+Las multas que el Banco de México imponga deberán ser pagadas dentro de los quince días hábiles siguientes al de su notificación. Cuando las multas no se paguen en el plazo señalado en este párrafo, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los mismos términos que establece el Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En caso de que las entidades o intermediarios financieros paguen las multas impuestas por Banco de México dentro de los quince días hábiles señalados en el párrafo anterior, se aplicará una reducción de un veinte por ciento de su monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL PRIMER PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
+
+El procedimiento administrativo de ejecución para el cobro de las multas que no hubieren sido cubiertas oportunamente al Banco de México, se aplicará por la Secretaría de Hacienda y Crédito Público, o por el propio Banco a través de la unidad administrativa que señale su Reglamento Interior.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL PRIMER PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 La unidad señalada en el párrafo anterior, aplicará las normas previstas en el Código Fiscal de la Federación para el procedimiento administrativo de ejecución. En el mencionado Reglamento Interior se indicarán las oficinas que deban conocer y resolver los recursos previstos en el citado Código, relativos a ese procedimiento.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL PRIMER PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 Si el Banco Central llevare cuenta al infractor, no será necesario aplicar el procedimiento administrativo de ejecución, pudiendo hacerse efectiva la multa cargando su importe a dicha cuenta.
 
@@ -805,3 +933,23 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y (sic)
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
