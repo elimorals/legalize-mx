@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-542-hacendario-para-el-municipio-de-orizaba-68076
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-07"
-last_updated: "2009-07-31"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 542 HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO NUMERO 542 HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO NÚMERO 542 HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ENERO DE 2014.
 
 Código publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 7 de abril de 2009.
 
@@ -1037,7 +1037,9 @@ XV. No pagar, en forma total o parcial, las contribuciones y productos dentro de
 
 XVI. Evadir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones u otras maniobras similares;
 
-XVII. Ostentar en forma no idónea o diversa de lo que señalen las disposiciones fiscales la comprobación del pago de una prestación fiscal; XVIII. Traficar con los documentos o comprobantes del pago de prestaciones fiscales o hacer uso ilegal de ellos;
+XVII. Ostentar en forma no idónea o diversa de lo que señalen las disposiciones fiscales la comprobación del pago de una prestación fiscal;
+
+XVIII. Traficar con los documentos o comprobantes del pago de prestaciones fiscales o hacer uso ilegal de ellos;
 
 XIX. Resistirse por cualquier medio no jurídico al desarrollo de cualquier acto relativo al procedimiento administrativo de ejecución o de las visitas domiciliarias practicadas por las autoridades fiscales; no suministrar los datos e informes que legalmente puedan exigir los visitadores; no mostrar los documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquier otra instalación y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado en relación con el objeto de la visita;
 
@@ -1433,9 +1435,11 @@ Las personas mayores de sesenta años, contribuyentes de este impuesto, que no s
 
 A estos descuentos no se podrá adicionar el previsto en el artículo 118 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 122.
 
-El impuesto anual a pagar no podrá ser menor a tres salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
+El impuesto anual a pagar no podrá ser menor a 2.5 salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
 
 El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
 
@@ -2687,7 +2691,7 @@ tabaquerías, tapicerías,
 
 torterías, verdulerías,
 
-veterinarias, vulcanizadotas;
+veterinarias, vulcanizadoras;
 
 talleres de: costura, carpintería,
 
@@ -3809,7 +3813,7 @@ e) Instalar, modificar, reparar u orientar anuncios de tipo C, sin la participac
 
 f) No retirar a tiempo los anuncios cuando haya vencido su licencia o permiso, será de 100 salarios mínimos.
 
-g) En todos los demás casos, instalar o colocar un anuncio cuyo contenido no e ajuste a este reglamento, su multa será de 100 salarios mínimos.
+g) En todos los demás casos, instalar o colocar un anuncio cuyo contenido no se ajuste a este reglamento, su multa será de 100 salarios mínimos.
 
 h) Por no reparar en un plazo de 30 días naturales los anuncios dañados por efectos meteorológicos, agentes naturales imprevistos o por accidentes, será de 80 salarios mínimos.
 
@@ -5483,9 +5487,7 @@ IV. El propietario del inmueble dispondrá del término de nueve días hábiles,
 
 V. Hechas las manifestaciones y ofrecidas las pruebas, dentro de los tres días hábiles siguientes se señalará día y hora para su recepción. Las pruebas que sean admitidas serán recibidas y desahogadas en la misma audiencia, comparezca o no el oferente;
 
-VI. Si transcurrido el término a que se refiere la fracción
-
-IV de este artículo, el propietario no hiciere manifestación alguna, se practicará certificación de dicha circunstancia, turnándose el expediente al Cabildo, para resolver dentro de los tres días hábiles siguientes; y
+VI. Si transcurrido el término a que se refiere la fracción IV de este artículo, el propietario no hiciere manifestación alguna, se practicará certificación de dicha circunstancia, turnándose el expediente al Cabildo, para resolver dentro de los tres días hábiles siguientes; y
 
 VII. Celebrada la audiencia, dentro de los tres días hábiles siguientes, el Cabildo dictará resolución conforme a derecho. Esta se notificará al interesado como se prevé en la fracción III de este artículo.
 
@@ -5609,8 +5611,14 @@ Gobernador del Estado
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO</small>
 
 G.O. 31 DE JULIO DE 2009.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 10 DE ENERO DE 2014.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 235 QUE REFORMA EL ARTÍCULO 122, PÁRRAFO PRIMERO, DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y EL ARTÍCULO 5, FRACCIÓN I, DE LA LEY DE INGRESOS DEL MUNICIPIO DE ORIZABA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2014”.]
+
+Único. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
