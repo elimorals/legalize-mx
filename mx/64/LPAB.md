@@ -4,7 +4,7 @@ identifier: "LPAB"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-19"
-last_updated: "2012-04-09"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13012&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPAB"
 
 LEY DE PROTECCIÓN AL AHORRO BANCARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 19 de enero de 1999.
 
@@ -100,13 +100,11 @@ Las Instituciones tienen la obligación de informar a las personas usuarias de s
 
 ###### Artículo 8o.
 
-Para determinar el monto a pagar a cada persona, por Institución, se calculará en unidades de inversión el monto de las obligaciones garantizadas, con base en el saldo, por principal y accesorios, que tengan las referidas obligaciones, en la fecha en que el Instituto publique la resolución relativa a la liquidación, suspensión de pagos o quiebra de la Institución de que se trate, así como el valor de las citadas unidades de inversión en esa fecha. Para efectos de lo anterior, las obligaciones a plazo se considerarán vencidas con los intereses acumulados a dicha fecha.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 9o.
 
-Para la determinación del valor en unidades de inversión de las obligaciones denominadas en moneda de curso legal en los Estados Unidos de América, se calculará su equivalencia en moneda nacional con base en el tipo de cambio publicado por el Banco de México en el Diario Oficial de la Federación, el día hábil bancario anterior a la fecha señalada en el artículo que precede, conforme a las disposiciones relativas a la determinación del tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.
-
-La equivalencia de otras monedas extranjeras con el peso mexicano, se calculará por el Banco de México a solicitud del Instituto, atendiendo a la cotización que rija para tales monedas contra la moneda de curso legal en los Estados Unidos de América, en los mercados internacionales, el día referido, según información proporcionada por instituciones de crédito del país.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 10o.
 
@@ -130,17 +128,15 @@ El Instituto pagará el saldo de las obligaciones garantizadas, considerando el 
 
 ###### Artículo 12.
 
-El monto a ser pagado por el Instituto a cada persona, de acuerdo con lo establecido en el precepto anterior, quedará fijado en unidades de inversión, a partir de la fecha referida en el artículo 8o. de esta Ley, independientemente de la moneda en que las obligaciones garantizadas, a cargo de la Institución, estén denominadas o de las tasas de interés pactadas.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 13.
 
-El pago de las obligaciones garantizadas se realizará en moneda nacional, por lo que la conversión del monto denominado en unidades de inversión se efectuará utilizando el valor vigente de la citada unidad en la fecha en que el Instituto efectúe el pago.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 14.
 
-En caso de que una persona tenga más de una cuenta en una misma Institución y la suma de los saldos de éstas excediera la cantidad señalada en el artículo 11 de la presente Ley, el Instituto únicamente pagará el monto garantizado, dividiéndolo a prorrata entre el número de cuentas.
-
-Asimismo, el Instituto estará obligado a publicar reglas de carácter general para determinar el tratamiento que se dará a las cuentas mancomunadas o que tengan más de un titular.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 15.
 
@@ -148,7 +144,7 @@ Asimismo, el Instituto estará obligado a publicar reglas de carácter general p
 
 ###### Artículo 16.
 
-El Instituto pagará las obligaciones garantizadas dentro de los noventa días siguientes a la fecha en que haya tomado, en términos de esta Ley, posesión del cargo de liquidador o síndico de la Institución, según se trate. El Instituto publicará el procedimiento de pago de las obligaciones garantizadas.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 17.
 
@@ -176,6 +172,10 @@ La Junta de Gobierno podrá establecer cuotas ordinarias diferentes para las Ins
 
 Las cuotas ordinarias no podrán ser menores del 4 al millar, sobre el importe de las operaciones pasivas que tengan las Instituciones.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las Instituciones deberán entregar al Instituto, la información de sus operaciones pasivas para el cálculo de las cuotas ordinarias de conformidad con las Disposiciones que emita el Instituto, previa aprobación de su Junta de Gobierno. El Instituto podrá efectuar visitas de inspección para revisar, verificar y validar la información a que se refiere el presente artículo.
+
 ###### Artículo 23.
 
 Cuando por las condiciones del Sistema Bancario Mexicano el Instituto no cuente con los recursos suficientes para hacer frente a sus obligaciones, la Junta de Gobierno podrá establecer cuotas extraordinarias que no excederán en un año, del 3 al millar sobre el importe al que asciendan las operaciones pasivas de las Instituciones.
@@ -196,7 +196,7 @@ Sin perjuicio de lo anterior, el Instituto, con cargo a dicha cuenta, podrá man
 
 El Instituto publicará trimestralmente el monto de los pagos efectuados por cada Institución por concepto de las cuotas a que se refiere este Capítulo y remitirá al Congreso de la Unión, así como al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, el informe financiero del Instituto y un ejemplar de la publicación referida.
 
-> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA POR LA FRACCIÓN III DEL ARTÍCULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 27.
 
@@ -336,7 +336,7 @@ Los financiamientos y los recursos autorizados en el Presupuesto de Egresos de l
 
 ###### Artículo 58.
 
-El Instituto, en el ejercicio de sus facultades, y conforme a lo establecido en el artículo 28 de la presente Ley podrá adquirir, directamente o a través de fideicomisos en los que sea fideicomisario, Bienes propiedad de las Instituciones que se sujeten a sus programas de saneamiento financiero.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 59.
 
@@ -350,37 +350,23 @@ No computarán las inversiones que realice el Instituto en las Instituciones, in
 
 ###### Artículo 61.
 
-El Instituto deberá administrar y enajenar los Bienes con el fin de obtener el máximo valor de recuperación posible. Para el mejor cumplimiento del objeto de esta Ley, el Instituto deberá proceder a la brevedad posible a la enajenación de los Bienes y procurar que se realice en los términos económicos y financieros más convenientes, buscando siempre las mejores condiciones y los plazos más cortos de recuperación de recursos.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 62.
 
-El Instituto podrá optar por encomendar a las propias Instituciones apoyadas, o en su caso, a terceros especializados, los procesos de recuperación, enajenación y administración de Bienes, cuando ello coadyuve a recibir un mayor valor de recuperación de los mismos, o bien, cuando considerando los factores de costo y beneficio, resulte más redituable.
-
-El Instituto vigilará permanentemente el desempeño que las Instituciones y los terceros especializados, tengan respecto a la recuperación, enajenación y administración de Bienes que les hubiera encomendado.
-
-Para los efectos del párrafo anterior, las Instituciones y los terceros especializados deberán entregar al Instituto, la información necesaria que le permita a éste evaluar el desempeño de los procesos de recuperación, enajenación y administración de Bienes encomendados.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 63.
 
-Los procedimientos y términos generales en que el Instituto o los terceros especializados, deban basarse y proceder a la enajenación de los Bienes, deberán atender a las características comerciales de las operaciones, las sanas prácticas y usos bancarios y mercantiles imperantes, las plazas en que se encuentran los Bienes a enajenar, así como al momento y condiciones tanto generales como particulares en que la operación se realice.
-
-El Instituto deberá promover en todos los casos, los elementos de publicidad y operatividad que garanticen la más absoluta objetividad y transparencia de los procesos correspondientes.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 64.
 
-La enajenación de los Bienes será mediante subasta pública, a menos que por la naturaleza o condiciones de venta de los Bienes específicos respectivos, la Junta de Gobierno considere que ese procedimiento no permita obtener las mejores condiciones económicas para el Instituto, caso en el que la propia Junta de Gobierno podrá autorizar que las ventas se realicen por licitación pública con las reglas, términos y condiciones que la misma establezca.
-
-En la enajenación de acciones representativas del capital de las Instituciones, se seguirán los procedimientos a que se refiere el párrafo anterior preferentemente con instituciones financieras.
-
-Cuando se trate de la enajenación de Bienes que, por sus características específicas, no sea posible la recuperación a valor de avalúo, debido a las condiciones imperantes en el mercado, la Junta de Gobierno podrá autorizar la enajenación a precio inferior. Esto, si a su juicio, es la manera de obtener las mejores condiciones de recuperación, una vez consideradas las circunstancias financieras prevalecientes.
-
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 ###### Artículo 64 Bis.
 
-La Junta de Gobierno podrá autorizar la enajenación de los Bienes que hayan sido declarados monumentos nacionales artísticos o históricos conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, en los términos del artículo anterior, así como otorgar en donación o el uso a título gratuito de los mismos a favor de organismos autónomos señalados en la Constitución Política de los Estados Unidos Mexicanos, de dependencias o entidades de la Administración Pública Federal o de la administración pública de cualquier entidad federativa. Para el caso de donación, sólo podrá realizarse a la Secretaría de Educación Pública.
-
-En los términos de la fracción XXI, artículo 38 de la Ley Orgánica de la Administración Pública Federal, la Secretaría de Educación Pública cuidará que estos Bienes sean exhibidos para el público en general.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -446,7 +432,9 @@ XVII. Comunicar a la Procuraduría Fiscal de la Federación las irregularidades 
 
 XVIII. Denunciar o formular querella ante el Ministerio Público de los hechos que conozca con motivo del desarrollo de sus funciones, que puedan ser constitutivos de delito y desistirse u otorgar el perdón, previa autorización de la Junta de Gobierno, cuando proceda;
 
-XIX. Evaluar de manera permanente el desempeño que las Instituciones y los terceros especializados, en su caso, tengan con respecto a la recuperación, administración y enajenación de Bienes, de conformidad con lo que establece el artículo 62 de esta Ley, y
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XIX. Evaluar de manera permanente el desempeño que las Instituciones y los terceros especializados, en su caso, tengan con respecto a la recuperación, administración y enajenación de Bienes, de conformidad con lo que establece esta Ley y la Ley de Instituciones de Crédito, y
 
 XX. Las demás que le otorguen esta Ley, así como otras leyes aplicables.
 
@@ -538,7 +526,9 @@ IV. Aprobar previa opinión de la Secretaría de Hacienda y Crédito Público, l
 
 V. Establecer políticas y lineamientos para la administración, conservación y enajenación de los bienes que conformen el patrimonio del Instituto;
 
-VI. Establecer las bases para la administración y enajenación de Bienes del Instituto, observando lo dispuesto en los artículos 61 a 66 de esta Ley;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VI. Establecer las bases para la administración y enajenación de Bienes del Instituto, observando lo dispuesto en esta Ley y en la Ley de Instituciones de Crédito;
 
 VII. Autorizar la realización de los actos mencionados en la fracción XIII del artículo 68 de esta Ley;
 
@@ -660,11 +650,17 @@ Lo anterior, sin perjuicio de la vigilancia de la Auditoría Superior de la Fede
 
 Son infracciones de las Instituciones a esta Ley:
 
-I. No proporcionar al Instituto la información y documentación que en los términos de la presente Ley le requiera;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I. No proporcionar al Instituto la información y documentación que en los términos de la presente Ley y de las disposiciones que de ella emanen les requiera;
 
 II. No entregar al Instituto los informes en los términos y plazos que esta Ley señale;
 
 III. No cubrir, en tiempo y forma las cuotas a su cargo en los términos de esta Ley;
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Se entenderá efectuado el pago en tiempo y forma, cuando habiendo transcurrido los plazos y cumplidas las condiciones establecidas en las Disposiciones a que se refiere el artículo 22 de la presente Ley el Instituto hubiere recibido el monto de cuotas a cargo de la Institución de que se trate, sin perjuicio de la atribución del Instituto de hacer visitas de inspección para verificar y evaluar, así como revisar y validar en cualquier tiempo la información proporcionada por las Instituciones. En caso de que el Instituto formule observaciones o correcciones a la información proporcionada por las instituciones, éstas deberán aclarar o subsanar lo correspondiente y pagar, en su caso, las diferencias a su cargo. En todo caso, deberá concederse audiencia previa a las Instituciones para la atención de dichas observaciones o correcciones.
 
 IV. No presentar el programa de saneamiento financiero al Instituto, cuando así se requiera, en los términos de esta Ley;
 
@@ -678,15 +674,63 @@ VII. Incumplir cualquier otra disposición establecida en la presente Ley.
 
 El Instituto impondrá las siguientes sanciones por las infracciones administrativas a que se refiere el artículo anterior:
 
-I. Por violación a las fracciones I y II del artículo anterior, multa de mil a diez mil veces el salario mínimo general diario vigente en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. Por violación a la fracción III del artículo anterior, multa por el equivalente a un tanto de la cuota omitida, y
+I. Por violación a las fracciones I y II del artículo anterior, multa de 200 a 2,000 mil días de salario mínimo general vigente en el Distrito Federal;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Por violación a la fracción III del artículo anterior, multa por el equivalente a un 30% y hasta un 100% de la cuota omitida con independencia del cobro del monto actualizado de las cuotas omitidas;
 
 III. Por violación a las fracciones IV, V, VI y VII del artículo anterior, multa de hasta el tres por ciento del capital pagado o hasta veinte mil veces el salario mínimo general diario vigente en el Distrito Federal, lo que resulte mayor.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 92.
 
-Para la imposición de las sanciones previstas en este Título, se deberá seguir el procedimiento señalado en la Ley Federal de Procedimiento Administrativo y contra la resolución que imponga la sanción, la Institución afectada podrá interponer el recurso de revisión previsto en el artículo 83 del ordenamiento legal citado.
+Para la imposición de las sanciones previstas en esta Ley se deberá seguir el procedimiento que para tales efectos prevé la Ley de Instituciones de Crédito, salvo por lo dispuesto en el presente Capítulo.
+
+El Instituto en la imposición de sanciones tomará en cuenta, en su caso, lo siguiente:
+
+I. La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.
+
+La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente;
+
+II. La cuantía de la operación;
+
+III. La condición económica del infractor a efecto de que la sanción no sea excesiva;
+
+IV. La negligencia inexcusable o dolo con que se hubiere actuado, y
+
+V. Las demás circunstancias que el Instituto estime aplicables para tales efectos.
+
+Las multas impuestas por el Instituto, a las Instituciones se harán efectivas mediante cargos del importe respectivo que se hagan en la cuenta que lleva el Banco de México a dichas Instituciones.
+
+El Banco de México realizará los cargos respectivos dentro de los tres días hábiles siguientes a que el Instituto se lo solicite, por tratarse de multas contra las cuales no proceda ya medio de defensa legal alguno o la Institución manifieste por escrito al Instituto, según corresponda, su conformidad para que se realice el referido cargo. En todo caso, la solicitud del cargo correspondiente deberá realizarse por el Instituto dentro de los diez días hábiles siguientes a que se actualice el supuesto previsto en este párrafo.
+
+Las sanciones serán impuestas por los servidores públicos de dicho Instituto facultados para tales efectos conforme a su Estatuto Orgánico y en términos del reglamento que al efecto expida el Ejecutivo Federal.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 93.
+
+Los afectados con motivo de la imposición de sanciones administrativas por parte del Instituto, podrán acudir en defensa de sus intereses a través del recurso de revisión previsto en el Título Quinto “De las Prohibiciones, Sanciones Administrativas y Delitos”, Capítulo II “De las Sanciones Administrativas” de la Ley de Instituciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 94.
+
+Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, el Instituto ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet, las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, para lo cual deberá señalar:
+
+I. El nombre o denominación del infractor;
+
+II. El precepto infringido, el tipo de sanción impuesta, monto o plazo, según corresponda y la conducta infractora, y
+
+III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
+
+En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad competente, deberá igualmente publicarse tal circunstancia.
+
+La información antes señalada no será considerada como reservada o confidencial.
 
 ## TRANSITORIOS
 
@@ -826,11 +870,11 @@ México, D.F., a 13 de diciembre de 1998.- Dip. Luis Patiño Pozas, Presidente.-
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 31 DE DICIEMBRE DE 2000.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 
@@ -861,3 +905,39 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+ARTÍCULO TRIGÉSIMO QUINTO.- En relación con las modificaciones a que se refieren los Artículos Trigésimo Primero a Trigésimo Cuarto de este Decreto, se estará a lo siguiente:
+
+I. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+II. En tanto la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores, el Banco de México y el Instituto para la Protección al Ahorro Bancario emitan las disposiciones de carácter general a que se refieren los artículos que reforma o adiciona el presente Decreto, seguirán aplicándose las emitidas con anterioridad a su entrada en vigor en lo que no se opongan a lo previsto en el mismo.
+
+III. Los procedimientos especiales de concurso mercantil de instituciones de banca múltiple que hubiesen sido iniciados con anterioridad a la entrada en vigor de este Decreto, continuarán rigiéndose por la Ley de Concursos Mercantiles, publicada en el Diario Oficial de la Federación el día 12 de mayo de 2000.
+
+IV. Las instituciones de banca múltiple contarán con un plazo de ciento veinte días a partir de la fecha de entrada en vigor del presente Decreto para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el mismo. Tratándose de la modificación de los estatutos sociales, éstos deberán someterse a la aprobación de la Comisión Nacional Bancaria y de Valores.
+
+V. Las instituciones de banca múltiple que a la fecha de entrada en vigor del presente Decreto se encuentren en procedimiento de liquidación o concurso mercantil podrán convenir con el Servicio de Administración y Enajenación de Bienes la sustitución de los deberes derivados de fideicomisos en términos del artículo 185 de la Ley de Instituciones de Crédito que por virtud del presente Decreto se reforma.
+
+VI. Las instituciones de banca múltiple deberán efectuar los actos corporativos necesarios para prever expresamente en sus estatutos sociales y en las acciones representativas de su capital social, lo dispuesto en los artículos 29 Bis 13 al 29 Bis 15 de la Ley de Instituciones de Crédito, dentro de un plazo máximo de sesenta días naturales, contado a partir de la entrada en vigor del presente Decreto.
+
+VII. Las instituciones de banca múltiple deberán prever en los contratos que celebren a partir de la entrada en vigor de este Decreto, así como en la demás documentación relativa, las restricciones señaladas en las fracciones IV) y V) del artículo 29 Bis 14 de la Ley de Instituciones de Crédito.
+
+VIII. Cuando las leyes, reglamentos, decretos, acuerdos u otros instrumentos jurídicos hagan mención al concurso mercantil o quiebra de instituciones de crédito, la referencia deberá entenderse hecha a los procedimientos previstos en el Título Séptimo, Capítulo II, Sección Segunda de la Ley de Instituciones de Crédito.
+
+IX. La reforma contenida en el presente Decreto al séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito no será aplicable al monto de las operaciones o de créditos dispuestos a cargo de personas relacionadas, celebradas con anterioridad a la entrada en vigor de este mismo Decreto, hasta que se reestructuren o renueven.
+
+En razón de lo anterior, las instituciones de banca múltiple solo podrán celebrar con posterioridad a la entrada en vigor del presente Decreto operaciones a cargo de personas relacionadas por un monto que no exceda del porcentaje previsto por el séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito, una vez consideradas las operaciones referidas en el párrafo anterior.
+
+Lo dispuesto por el primer párrafo del presente artículo, solo aplicará respecto del importe que con anterioridad a la entrada en vigor del presente Decreto ya hubiere sido dispuesto por el acreditado, tratándose de préstamos o créditos revocables; o bien, a la totalidad del monto de dicho préstamo o crédito, en el caso de préstamos o créditos irrevocables celebrados con anterioridad a su entrada en vigor.
+
+X. La Junta de Gobierno del Instituto para la Protección al Ahorro Bancario expedirá las disposiciones de carácter general a que se refiere el artículo 22 de la Ley de Protección al Ahorro Bancario, dentro de un plazo que no podrá exceder de doce meses contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se expidan dichas disposiciones, las Instituciones deberán seguir el procedimiento establecido en las disposiciones publicadas en el Diario Oficial de la Federación el 31 de mayo de 1999.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
