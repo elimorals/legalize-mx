@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-de-lo-contencioso-administrativo-7002
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-10"
-last_updated: "2013-05-16"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70025&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-28"
 
 LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de septiembre de 2009.
 
@@ -1094,6 +1094,10 @@ Tratándose de actos en los que no se haya analizado el fondo de la cuestión pl
 
 No se otorgará la suspensión, si es en perjuicio del interés público o si se contravinieren disposiciones de orden público.
 
+> <small>(REFORMADO, [N. DE E. ADICIONADO] G.O. 10 DE ENERO DE 2014)</small>
+
+La suspensión también podrá consistir en la orden de custodia del folio real del predio, al Registro Público de la Propiedad y de Comercio del Distrito Federal, cuando se trate de un juicio de nulidad o lesividad, relacionados con desarrollo urbano, construcciones, inmuebles u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la sentencia que resuelva el fondo del asunto y la protección del patrimonio a terceros.
+
 ###### Artículo 101.
 
 El Magistrado Instructor podrá acordar la suspensión con efectos restitutorios, en cualquiera de las fases del procedimiento hasta antes de la sentencia respectiva, cuando los actos que se impugnan hubieren sido ejecutados y afecten a los demandantes impidiéndoles el ejercicio de su única actividad o el acceso a su domicilio particular, lo cual deberán acreditar y en su caso, podrá dictar las medidas cautelares que estime pertinentes.
@@ -1701,3 +1705,13 @@ G.O. 16 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor publicación.
+
+G.O. 10 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
