@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "2012-04-09"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -192,7 +192,7 @@ XVI. Las demás que le otorguen ésta u otras leyes.
 
 Los órganos de gobierno de la Comisión serán la Junta de Gobierno, la Presidencia y el Comité Consultivo y de Vigilancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 7o.
 
@@ -245,6 +245,12 @@ Asimismo, conocer y tomar en consideración el informe anual de labores desarrol
 IX. Aprobar los presupuestos anuales de ingresos y egresos, para ser remitidos a la Secretaría de Hacienda y Crédito Público para su aprobación definitiva.
 
 Igualmente, aprobará los informes sobre el ejercicio del presupuesto de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IX Bis. Aprobar anualmente los programas para el otorgamiento de estímulos económicos a los funcionarios de la Comisión, por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano.
+
+Los estímulos económicos tendrán como objetivo reconocer el esfuerzo laboral y la contribución de los funcionarios al logro de los objetivos de la Comisión, sujetándose a los límites y erogaciones que se aprueben para dichos conceptos en el Presupuesto de Egresos de la Federación.
 
 X. Nombrar y remover a los Vicepresidentes, su Secretario y al suplente de éste, a propuesta del Presidente de la Comisión;
 
@@ -336,7 +342,11 @@ VIII. Proveer en los términos de esta ley y demás relativas, el eficaz cumplim
 
 IX. Informar a la Secretaría de Hacienda y Crédito Público anualmente y cuando ésta se lo solicite, sobre su actuación y sobre casos concretos que la misma requiera;
 
-X. Formular y presentar a la aprobación de la Junta de Gobierno el presupuesto de ingresos y egresos de la Comisión en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+X. Formular y presentar a la aprobación de la Junta de Gobierno el presupuesto de ingresos y egresos de la Comisión, en los términos de las disposiciones aplicables, así como los programas de estímulos económicos para los funcionarios de la Comisión, los cuales una vez aprobados por la Junta de Gobierno, serán sometidos a la autorización de la Secretaría de Hacienda y Crédito Público.
+
+La Secretaría de Hacienda y Crédito Público establecerá criterios en materia de estímulos económicos que deberán ser observados por el Presidente de la Comisión en su propuesta a la Junta de Gobierno. Asimismo, la Comisión proporcionará a la citada Secretaría la información que solicite;
 
 XI. Informar a la Junta de Gobierno sobre el ejercicio del presupuesto, con la periodicidad que la misma determine;
 
@@ -548,21 +558,33 @@ III. El número de sus administradores no será inferior a cinco y actuarán con
 
 IV. Informar a la Comisión los nombramientos de los miembros de su consejo de administración, del director general, de los funcionarios de los dos niveles inmediatos siguientes y de sus comisarios y someter a la aprobación del Comité Consultivo y de Vigilancia los nombramientos de los consejeros independientes y del contralor normativo.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 21.
 
-El capital social de las administradoras estará formado por acciones de la serie "A", que representarán cuando menos el 51% de dicho capital. El 49% restante del capital social podrá integrarse indistinta o conjuntamente por acciones de las series "A" y "B".
-
-Las acciones representativas de la serie "A" únicamente podrán ser adquiridas por:
-
-I. Personas físicas mexicanas; y
-
-II. Personas morales mexicanas cuyo capital sea mayoritariamente propiedad de mexicanos y sean efectivamente controladas por los mismos.
-
-Las acciones representativas de la serie "B" serán de libre suscripción.
-
-No podrán participar en forma alguna en el capital social de las administradoras, personas morales extranjeras que ejerzan funciones de autoridad.
-
 La participación, directa o indirecta, de las instituciones financieras del exterior en el capital social de las administradoras, será de conformidad con lo establecido en los tratados y acuerdos internacionales aplicables y en las disposiciones que emita la Secretaría de Hacienda y Crédito Público para proveer a la observancia de los mismos.
+
+Los gobiernos extranjeros no podrán participar, directa o indirectamente, en el capital social de las administradoras, salvo en los casos siguientes:
+
+I. Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
+
+Las administradoras que se ubiquen en lo dispuesto en esta fracción, deberán entregar a la Comisión, la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto. La Comisión tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información y documentación correspondiente, para resolver, previo acuerdo de su Junta de Gobierno, si la participación de que se trata, se ubica en el supuesto de excepción previsto en esta fracción.
+
+II. Cuando la participación correspondiente implique que se tenga el control de la administradora, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que:
+
+a) No ejercen funciones de autoridad, y
+
+b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+III. Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de la administradora. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
+
+Para efectos de lo dispuesto en este artículo, por control se entenderá a la capacidad de imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas de la administradora; el mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social de la administradora, dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la administradora, ya sea a través de la propiedad de valores o por cualquier otro acto jurídico.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+ARTICULO 21 bis.- Las administradoras se abstendrán, en su caso, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de las transmisiones de acciones que se efectúen en contravención de lo dispuesto por el artículo 21 de esta Ley, y deberán informar tal circunstancia a la Comisión, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
+
+Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital social de una administradora, se realicen en contravención a lo dispuesto por el artículo 21 de esta Ley, los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de la administradora quedarán en suspenso y por lo tanto no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda.
 
 ###### ARTICULO 22.
 
@@ -574,13 +596,17 @@ Asimismo, tampoco se autorizará la participación, a un grupo financiero a las 
 
 Para efectos de este artículo se considera que una entidad financiera no cumple con los niveles de capitalización cuando se encuentren pendientes de cubrir apoyos financieros del Instituto para la Protección al Ahorro Bancario.
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 23.
 
-La adquisición de acciones de cualquier serie de una administradora o la incorporación de nuevos accionistas a ésta, que implique la participación del adquirente en 5% o más del capital social de dicha administradora, así como la fusión de administradoras, deberán ser autorizadas por la Comisión, siempre y cuando estas operaciones no impliquen conflicto de interés.
+La adquisición de acciones de una administradora o la incorporación de nuevos accionistas a ésta, que implique la participación del adquirente en 5% o más del capital social de dicha administradora, así como la fusión de administradoras, deberán ser autorizadas por la Comisión, siempre y cuando estas operaciones no impliquen conflicto de interés.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 La autorización para la adquisición de acciones que representen el 5% o más del capital social de una administradora, también se requerirá para el caso de personas físicas o morales que la Comisión considere para estos efectos como una sola persona, de conformidad con lo que disponga el reglamento de esta ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 Cuando la adquisición de acciones sea menor al 5% de su capital social, la administradora de que se trate deberá dar aviso a la Comisión con diez días hábiles de anticipación a que surta efectos el acto y proporcionarle la información que ésta determine. Asimismo, una vez efectuada la operación deberá hacerlo del conocimiento de la Comisión.
 
@@ -796,7 +822,7 @@ Las administradoras, con base en los datos de la cuenta individual del trabajado
 
 La información a que se refiere el presente artículo deberá ser proporcionada al trabajador junto con el estado de cuenta correspondiente al segundo semestre del año y deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 38.
 
@@ -1038,7 +1064,7 @@ XII. Las demás que señalen ésta u otras leyes.
 
 #### Sección III. Disposiciones Comunes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 49.
 
@@ -1158,7 +1184,7 @@ II. Conceder al interesado un plazo de 15 días hábiles siguientes a la fecha e
 
 III. Una vez analizados los argumentos hechos valer y desahogadas y valoradas las pruebas ofrecidas, la Comisión dictará y notificará la resolución correspondiente, la cual no admitirá recurso administrativo alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 56.
 
@@ -1382,7 +1408,7 @@ Las sociedades de inversión sólo podrán utilizar los servicios de la instituc
 
 Para efectos de lo dispuesto por el presente artículo, en los prospectos de información de cada sociedad de inversión se deberá establecer cuáles son los nexos patrimoniales de la administradora que las opere y los integrantes del grupo financiero al que pertenezcan.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 70.
 
@@ -1408,7 +1434,7 @@ Las empresas operadoras a las que se les declare la revocación de la concesión
 
 #### Sección I. De la Cuenta Individual
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1434,13 +1460,13 @@ Las aportaciones complementarias de retiro sólo podrán retirarse cuando el tra
 
 Las administradoras estarán obligadas a abrir la cuenta individual o a aceptar el traspaso de dicha cuenta, de aquellos trabajadores afiliados que cumpliendo con las disposiciones aplicables, soliciten su apertura de cuenta. En ningún caso podrán hacer discriminación de trabajadores.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
 
 Los trabajadores tendrán derecho a traspasar su cuenta individual de una administradora a otra una vez transcurrido un año, contado a partir de que el trabajador se registró o de la última ocasión en que haya ejercitado su derecho al traspaso. Podrá hacerlo antes del año, cuando traspase su cuenta individual a una administradora cuyas sociedades de inversión hubieren registrado un mayor Rendimiento Neto, en el período de cálculo inmediato anterior. La Junta de Gobierno determinará el mínimo de diferencia que debe de haber entre los Rendimientos Netos observados para que se pueda ejercer el derecho de traspaso de una administradora a otra.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
 
@@ -1462,7 +1488,7 @@ Los trabajadores afiliados podrán solicitar en cualquier tiempo a las administr
 
 Las administradoras serán responsables de efectuar los trámites para el traspaso de cuentas individuales, una vez que el trabajador afiliado haya presentado las solicitudes correspondientes en los términos de las disposiciones de carácter general que emita la Comisión. En todo caso, la administradora responsable de efectuar el traspaso de la cuenta deberá cerciorarse fehacientemente que el trabajador afiliado haya solicitado el traspaso correspondiente.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1492,7 +1518,7 @@ Los trabajadores inscritos en el Instituto de Seguridad y Servicios Sociales de 
 
 La Comisión establecerá mediante disposiciones de carácter general, los términos en que se llevará la administración de los recursos a que se refiere el presente artículo.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1508,7 +1534,7 @@ Las administradoras deberán señalar en los prospectos de información las cond
 
 Estos trabajadores podrán realizar retiros de su subcuenta de aportaciones voluntarias en los términos previstos en el artículo 79 de esta ley.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1520,7 +1546,7 @@ La Comisión establecerá mediante disposiciones de carácter general, los térm
 
 Las comisiones que se cobren por la administración de los recursos a que se refiere este artículo deberán pactarse entre las partes de conformidad con las reglas de carácter general que al efecto expida la Comisión.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1636,7 +1662,7 @@ La contabilidad de las administradoras, sociedades de inversión y empresas oper
 
 Las administradoras, sociedades de inversión y las empresas operadoras, deberán cumplir con las normas de agrupación de cuentas, así como de registro contable y de operaciones que dicte la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 85.
 
@@ -1706,7 +1732,7 @@ XII. Vigilar el debido cumplimiento de lo establecido por cada sociedad de inver
 
 XIII. Ejercer las demás facultades que, en materia de supervisión, se atribuyen a la Comisión en la presente ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 91.
 
@@ -1784,13 +1810,21 @@ Los costos de la intervención administrativa o con carácter de gerencia estar�
 
 ### CAPITULO VI. De las Sanciones Administrativas
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 99.
 
-El incumplimiento o la contravención a las normas previstas en la presente ley, en las leyes del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, así como en los reglamentos y disposiciones que de ellas emanen, en lo relacionado con los sistemas de ahorro para el retiro, por parte de las instituciones de crédito, las administradoras, las sociedades de inversión, las empresas operadoras, las empresas que presten servicios complementarios o auxiliares directamente relacionados con los sistemas de ahorro para el retiro y las entidades receptoras, serán sancionados con multa que impondrá administrativamente la Comisión, tomando como base el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción, a excepción de que en la propia ley se disponga otra forma de sanción.
+El incumplimiento o la contravención a las normas previstas en la presente ley, en las leyes del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, así como en los reglamentos y disposiciones que de ellas emanen, en lo relacionado con los sistemas de ahorro para el retiro, por parte de los Participantes en los Sistemas de Ahorro para el Retiro, contralores normativos, consejeros independientes, consejeros, directores, administradores, funcionarios, apoderados, agentes, empleados y demás personas, serán sancionados con multa que impondrá administrativamente la Comisión, tomando como base el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción, a excepción de que en la propia ley se disponga otra forma de sanción.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Si después de haber sido sancionada una conducta hubiera reincidencia o el mismo incumplimiento en forma reiterada, ésta se sancionará con multa cuyo importe será equivalente de hasta el doble de la sanción impuesta originalmente. Igualmente, cuando la Comisión además de imponer la sanción que corresponda otorgue al infractor un plazo para que cumpla con la obligación omitida o para que normalice la operación irregular motivo de la sanción o realice el resarcimiento de daños a los Trabajadores y el infractor no dé cumplimiento a ello, este nuevo incumplimiento será sancionado como reincidencia.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 Para imponer la multa que corresponda, la Comisión deberá oír previamente al interesado. Para tal efecto, la Comisión deberá otorgar un plazo de diez días hábiles, que podrá prorrogar por una sola vez, para que el interesado manifieste lo que a su derecho convenga ofreciendo o acompañando, en su caso, las pruebas que considere convenientes. Agotado el plazo o la prórroga señalados anteriormente, si el interesado no ejerció su derecho de audiencia se tendrá por precluido el derecho y con los elementos existentes en el expediente administrativo correspondiente, se procederá a emitir la resolución que corresponda, ajustándose a lo dispuesto en el presente artículo.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 Una vez evaluados los argumentos hechos valer por el interesado y valoradas las pruebas aportadas por éste, o en su caso una vez valoradas las constancias que integran el expediente administrativo correspondiente, la Comisión para imponer la multa que corresponda, en la resolución que al efecto se dicte, deberá:
 
@@ -1798,99 +1832,157 @@ a) Expresar con precisión el o los preceptos legales o disposiciones administra
 
 b) Tomar en cuenta la gravedad del acto u omisión que dio origen a la imposición de la multa, así como las consecuencias ocasionadas en la operación de los sistemas de ahorro para el retiro y la capacidad económica del infractor.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 Cuando la multa a imponer sea superior al mínimo establecido, en la resolución que al efecto se dicte, se deberán razonar las circunstancias y motivos por las que se considere aplicable al caso concreto un monto superior al mínimo previsto por la ley.
 
-Las multas que se impongan en términos de la presente ley no excederán en ningún caso del cinco por ciento del capital pagado y reservas de capital de la institución de crédito, administradora, sociedad de inversión o empresa operadora de que se trate, las cuales serán notificadas al representante legal de la institución de crédito, administradora, sociedad o empresa operadora que haya cometido la infracción. La imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron la determinación de las multas.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Lo dispuesto en el presente artículo no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por la comisión de otras infracciones o delitos, ni la revocación de las autorizaciones o concesiones otorgadas a los participantes en los sistemas de ahorro para el retiro a que alude la presente ley.
+Las multas que se impongan en términos de la presente ley no excederán en ningún caso del cinco por ciento del capital contable del Participante de que se trate, las cuales serán notificadas al representante legal del Participante en los Sistemas de Ahorro para el Retiro que haya cometido la infracción. La imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron la determinación de las multas.
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
+Lo dispuesto en el presente artículo no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por la comisión de otras infracciones o delitos, ni la revocación de las autorizaciones o concesiones otorgadas a los participantes en los sistemas de ahorro para el retiro a que alude la presente ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 100.
 
-Las infracciones a que se refiere este artículo se sancionarán como sigue:
+Las infracciones a que se refiere este artículo cometidas por los Participantes en los Sistemas de Ahorro para el Retiro, contralores normativos, consejeros independientes, consejeros, directores, administradores, funcionarios, apoderados, agentes, empleados y demás personas, se sancionarán como sigue:
 
-I. Multa de doscientos a quinientos días de salario a la institución de crédito o administradora que no utilice para la apertura de cuentas individuales, la documentación que al efecto determinen las disposiciones aplicables, o en su caso, no se ajuste al procedimiento y a las características que regulan el procedimiento de registro de trabajadores previsto en esta ley y en las disposiciones que de ella emanen;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2005)</small>
+I. Multa de un mil a cinco mil días de salario a la Administradora que no utilice para la apertura de cuentas individuales, la documentación que al efecto determinen las disposiciones aplicables, o en su caso, no se ajuste al procedimiento y a las características que regulan el procedimiento de registro de Trabajadores previsto en esta ley y en las disposiciones que de ella emanen;
 
-I bis. Multa de cien a mil días de salario por cada cuenta individual a la administradora que registre a un trabajador o solicite el traspaso de la cuenta individual de un trabajador, sin su consentimiento, o cuando se haya obtenido el consentimiento del trabajador mediante dolo, mala fe o cualquier otra conducta similar, así como cuando el registro o traspaso se lleve a cabo mediante la utilización de documentos falsos o alterados o mediante la falsificación de documentos o firmas, o mediante la entrega de alguna contraprestación o beneficio;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I bis. Multa de cien a mil días de salario por cada Cuenta Individual al Participante en los Sistemas de Ahorro para el Retiro que registre a un Trabajador o solicite el traspaso de la Cuenta Individual de un Trabajador, sin que conste de manera expresa, a través de los mecanismos autorizados por la Comisión, el consentimiento por parte del Trabajador para la realización del trámite de registro o traspaso correspondiente, o cuando se haya obtenido el consentimiento del Trabajador mediante dolo, mala fe o cualquier otra conducta similar, así como cuando el registro o traspaso se lleve a cabo mediante la utilización de documentos falsos o alterados o mediante la falsificación de documentos o firmas, o mediante la entrega de alguna contraprestación o beneficio;
 
 > <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2005)</small>
 
 I ter. Por cada acto que celebren las administradoras con empresas con las que tengan nexo patrimonial, en el cual el precio o monto de la contraprestación pactada a cargo de la administradora sea superior a la que hubieren acordado partes independientes según lo señala el artículo 64 bis de esta Ley, se aplicará una multa del 80% al 90% de la diferencia pagada por la administradora, respecto al precio promedio acordado por partes independientes que conste en el estudio realizado por un tercero independiente;
 
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. Multa de cien a mil días de salario por cada cuenta individual, a la institución de crédito o administradora que no proporcione información a los trabajadores sobre el estado que guardan sus cuentas individuales, en los términos, periodicidad y forma que al efecto establezcan las disposiciones aplicables, así como cuando la institución de crédito o la administradora no atienda los trámites relacionados con las cuentas individuales;
+II. Multa de cien a mil días de salario al Participante en los Sistemas de Ahorro para el Retiro, por cada estado de cuenta que no entregue a los Trabajadores en los términos, periodicidad y forma que al efecto establezcan las disposiciones aplicables, así como cuando el Participante en los Sistemas de Ahorro para el Retiro no atienda los trámites relacionados con las cuentas individuales;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 III. Multa de cien a quinientos días de salario a la institución de crédito o administradora que al recibir recursos, y que disponiendo de la información y documentación necesaria para ello, no realicen la individualización de dichos recursos en el plazo establecido al efecto o ésta se efectúe en forma errónea. Para tal efecto se entenderá como individualización el proceso mediante el cual el participante en los sistemas de ahorro para el retiro que corresponda, con base en las aportaciones de recursos que efectúen los patrones, el Estado y los trabajadores en su caso, así como en los rendimientos financieros que se generen, determina el monto de recursos que corresponde a cada trabajador, para su abono en las subcuentas que correspondan y que integran las cuentas individuales propiedad de los trabajadores;
 
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 IV. Multa de un mil a cuatro mil días de salario a las instituciones de crédito, administradoras o sociedades de inversión, que no cumplan de la manera contratada con las operaciones y servicios que celebren;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 V. Multa de un mil a seis mil días de salario a los participantes en los sistemas de ahorro para el retiro, que no entreguen a la Comisión con la calidad y características requeridas, o en los plazos determinados, la información, documentación y demás datos que se les requiera en términos del Capítulo V, Sección Segunda de la presente ley, o la que se encuentren obligados a proporcionar a la Comisión, de conformidad con las disposiciones que regulan los sistemas de ahorro para el retiro.
 
 Igual sanción se impondrá a los participantes en los sistemas de ahorro para el retiro, que realicen el manejo e intercambio de información entre dichos participantes o los institutos de seguridad social, sin cumplir con la calidad y características, previstas en las disposiciones de carácter general emitidas por la Comisión o fuera del plazo previsto para ello, de conformidad con las disposiciones que regulan los sistemas de ahorro para el retiro;
 
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 VI. Multa de un mil a seis mil días de salario a las administradoras, sociedades de inversión y empresas operadoras que no lleven su contabilidad y el registro de las operaciones en que intervengan, mediante sistemas automatizados o por cualquier otro medio que determine la Comisión;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 VII. Multa de dos mil a diez mil días de salario a la institución de crédito o administradora que sin causa justificada se niegue a abrir cuentas individuales relacionadas con los sistemas de ahorro para el retiro, así como a recibir los recursos destinados a cualesquiera de las subcuentas que integran dicha cuenta;
 
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 VIII. Multa de doscientos a quince mil días de salario a la institución de crédito o administradora que omita traspasar parte o la totalidad de los recursos que integren las cuentas individuales de los trabajadores a otra institución de crédito o administradora, en la forma y términos establecidos por las disposiciones que regulan los sistemas de ahorro para el retiro;
 
-IX. Multa de un mil a cinco mil días de salario a la administradora que no entregue los recursos para la contratación del seguro de sobrevivencia a la institución de seguros elegida por el trabajador, en los términos, porcentajes y condiciones que determinen las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IX. Multa de un mil a diez mil días de salario a la Administradora que no entregue los recursos para la contratación del seguro de sobrevivencia, retiro programado o renta vitalicia, a la institución de seguros o Administradora elegida por el Trabajador, en el plazo, términos, porcentajes y condiciones que determinen las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 X. Multa de dos mil a quince mil días de salario a la institución de crédito o a la administradora que no entregue los recursos acumulados en la cuenta individual de los sistemas de ahorro para el retiro a los trabajadores o a sus beneficiarios, cuando tengan derecho a ello, en la forma y términos establecidos o para la adquisición de una pensión, de conformidad con lo previsto en esta ley y en las leyes de seguridad social o bien, cuando se les entreguen cantidades distintas a las que les correspondan;
 
 Igual sanción se impondrá a la institución de crédito o administradora que no ejecute el procedimiento de disposición de recursos, de conformidad con esta ley y las disposiciones de carácter general en materia de los sistemas de ahorro para el retiro aplicables a dicho procedimiento;
 
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 XI. Multa de dos mil a veinte mil días de salario a la administradora que retenga el pago de retiros programados;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 XII. Multa de cinco mil a veinte mil días de salario a los participantes en los sistemas de ahorro para el retiro que impidan o dificulten a los inspectores de la Comisión, realizar las visitas de inspección correspondientes o se nieguen a proporcionar la información y documentación y, en general, cualquier medio procesable de almacenamiento de datos que se les solicite en ejercicio de sus facultades de supervisión;
 
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 XIII. Multa de dos mil quinientos a cinco mil días de salario a las administradoras que operen a las sociedades de inversión, que den preferencia a sus intereses o a los de sus empresas frente a los de los trabajadores, que realicen operaciones que impliquen conflicto de interés, o intervengan en aquellas que no se ajusten a los usos y sanas prácticas del mercado de valores;
 
-XIV. Multa de dos mil quinientos a cinco mil días de salario a la sociedad de inversión que incumpla con el régimen de inversión señalado en los prospectos de información que dé a conocer al público inversionista previamente autorizados por esta Comisión, o que establezca un régimen de inversión que no se sujete a lo previsto por esta ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XIV. Multa de cinco mil a veinte mil días de salario a la Sociedad de Inversión que incumpla con el régimen de inversión señalado en los prospectos de información que dé a conocer al público inversionista previamente autorizados por la Comisión, o que establezca un régimen de inversión que no se sujete a lo previsto por esta ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 Igual sanción se impondrá si invierte los recursos de las cuentas individuales relativas a las cuentas de ahorro para el retiro o a los fondos de previsión social, en contravención a lo dispuesto por esta ley y las reglas de carácter general que le sean aplicables;
 
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 XV. Multa de dos mil quinientos a cinco mil días de salario a la institución de crédito, administradora, sociedad de inversión o empresa operadora, que falseen, oculten, o disimulen sus registros contables y estados financieros, independientemente de las responsabilidades civiles o penales que resulten aplicables;
 
-XVI. Multa de un mil a seis mil días de salario a la administradora, sociedad de inversión o empresa operadora que omitan o no lleven su contabilidad de conformidad a lo previsto en la presente ley y en las disposiciones de carácter general que para tal efecto expida la Comisión o bien, que lleven su contabilidad conforme a la normatividad aplicable, pero que registren cantidades distintas a las que correspondan;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2005)</small>
+XVI. Multa de un mil a diez mil días de salario a los Participantes en los Sistemas de Ahorro para el Retiro que omitan o no lleven su contabilidad de conformidad a lo previsto en la presente ley y en las disposiciones de carácter general que para tal efecto expida la Comisión o bien, que lleven su contabilidad conforme a la normatividad aplicable, pero que registren cantidades distintas a las que correspondan;
 
-XVII. Multa de un mil a veinte mil días de salario a la institución de crédito, administradora o empresa operadora, que cobre comisiones por los servicios que preste en materia de los sistemas de ahorro para el retiro por importes superiores a los ofrecidos conforme a las disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XVII. Multa de un mil a veinte mil días de salario por cobrar comisiones por los servicios que preste en materia de los Sistemas de Ahorro para el Retiro por importes superiores a los autorizados conforme a las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
 
 Igual sanción se impondrá a la administradora que calcule erróneamente las comisiones por cobrar;
 
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 XVIII. Multa de dos mil a diez mil días de salario a los funcionarios de las instituciones de crédito, administradoras, sociedades de inversión y empresas operadoras que no observen el principio de confidencialidad y de reserva de información previsto por esta ley;
 
-XIX. Multa de dos mil quinientos a cinco mil días de salario a las instituciones de crédito, administradoras y sociedades de inversión que no ajusten la información, la publicidad y demás documentación de divulgación dirigida a los trabajadores y al público en general a las características y términos previstos por esta ley y disposiciones que emanen de ella, así como por no suspenderla, modificarla o rectificarla, según lo haya ordenado la Comisión;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XIX. Multa de dos mil quinientos a diez mil días de salario a las Administradoras y sociedades de inversión que no ajusten la información, la publicidad y demás documentación de divulgación dirigida a los Trabajadores y al público en general a las características y términos previstos por esta ley y disposiciones que emanen de ella, así como por no suspenderla, modificarla o rectificarla, según lo haya ordenado la Comisión;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 XX. Pérdida de la participación de capital en beneficio de la Nación, y en perjuicio de las administradoras, sociedades de inversión o empresas operadoras cuando participen en su capital social personas distintas a las autorizadas en los términos de esta ley;
 
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 XXI. Multa de doscientos cincuenta a dos mil quinientos días de salario a las administradoras y sociedades de inversión que contravengan lo dispuesto por los artículos 38 y 48 de esta ley;
 
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+
 XXII. Multa de doscientos a un mil días de salario al consejero independiente de una administradora o de una sociedad de inversión que actúe en las sesiones del respectivo consejo de administración en contravención a la presente ley y a las disposiciones que emanen de ella;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 XXIII. Multa de doscientos a un mil días de salario al contralor normativo de una administradora que no lleve a cabo sus funciones de vigilancia conforme lo establece la presente ley.
 
 Igual sanción se impondrá a la administradora que por cualquier medio impida que el contralor normativo realice sus funciones de conformidad a lo previsto en esta ley;
 
-XXIV. Multa de cien a un mil días de salario a la administradora que incurra en error en la valuación del precio de las acciones de cualquiera de las sociedades de inversión que administre o en el cálculo de intereses de los valores, títulos y documentos que integren la cartera de dichas sociedades de inversión;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-XXV. Multa de cien a dos mil días de salario a la administradora que no verifique el correcto depósito de los valores de cada una de las sociedades de inversión que administre;
+XXIV. Multa de un mil a diez mil días de salario a la Administradora que incurra en error en la valuación del precio de las acciones de cualquiera de las sociedades de inversión que administre o en el cálculo de intereses de los valores, títulos y documentos que integren la cartera de dichas sociedades de inversión;
 
-XXVI. Multa de cien a cinco mil días de salario a la sociedad de inversión que no registre sus operaciones en la Bolsa Mexicana de Valores, en la forma y plazos establecidos al efecto en la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XXV. Multa de un mil a diez mil días de salario a la Administradora que no verifique y compruebe el depósito de los valores, títulos y acciones de cada una de las Sociedades de inversión que administre, de conformidad con las disposiciones de carácter general emitidas por la Comisión;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XXVI. Multa de un mil a diez mil días de salario al Participante en los Sistemas de Ahorro para el Retiro que no registre sus operaciones en la Bolsa Mexicana de Valores, en la forma y plazos establecidos al efecto en la legislación aplicable;
 
 > <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
 
 XXVII. Multa de dos mil a veinte mil días de salario a la administradora que incumpla con las disposiciones de carácter general a que se refiere el artículo 108 Bis de esta Ley;
 
-> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-XXVIII. Las infracciones a cualesquiera de las normas de esta Ley, de las leyes de seguridad social, así como las disposiciones que de ellas emanen en relación con los sistemas de ahorro para el retiro y que no tengan sanción especialmente señalada en este artículo serán sancionadas con multa de un mil a veinte mil días de salario.
+XXVIII. Las infracciones a cualesquiera de las normas de esta ley, de las leyes de seguridad social, así como las disposiciones que de ellas emanen en relación con los sistemas de ahorro para el retiro y que no tengan sanción especialmente señalada en este artículo serán sancionadas con multa de un mil a cincuenta mil días de salario.
 
 Si las multas a que se refiere esta ley son impuestas a alguno de los participantes en los sistemas de ahorro para el retiro, la Comisión también podrá imponer una multa de cien a cinco mil días de salario a cada uno de los consejeros, directores, administradores, funcionarios, apoderados, agentes, empleados y demás personas que en razón de sus actos hayan ocasionado o intervenido para que la sociedad incurriera en la irregularidad motivo de la sanción impuesta.
 
@@ -1928,9 +2020,17 @@ El programa de corrección previsto en el presente artículo, no procederá en l
 
 a) Incumplimiento al régimen de inversión de las sociedades de inversión;
 
-b) Cobro de comisiones que excedan el monto autorizado por la Comisión, y
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-c) Cuando las administradoras no proporcionen la información a que estén obligadas o no atiendan los trámites solicitados directamente por los trabajadores respecto de las cuentas individuales, conforme a lo previsto en esta Ley y demás disposiciones aplicables.
+b) Cobro de comisiones que excedan el monto autorizado por la Comisión;
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+c) Cuando las administradoras no proporcionen la información a que estén obligadas o no atiendan los trámites solicitados directamente por los trabajadores respecto de las cuentas individuales, conforme a lo previsto en esta ley y demás disposiciones aplicables, y
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+d) Cuando se trate de omisiones o contravenciones a la normatividad que se identifiquen en un mismo proceso en forma reiterada.
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1940,7 +2040,7 @@ Los programas de corrección deberán reunir los requisitos que mediante disposi
 
 En caso de que el programa de corrección presentado no cumpla con los requisitos señalados en dichas disposiciones o no se cumpla, la Comisión impondrá la sanción correspondiente, aumentando el monto de ésta en un 20%.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2005)</small>
 
 ARTICULO 100 quáter.- El beneficio previsto en los artículos 100 bis y 100 ter, no será aplicable en caso de que las irregularidades hayan sido detectadas por la Comisión, en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación del programa de corrección.
 
@@ -1996,7 +2096,7 @@ Serán sancionados con prisión de tres a quince años y multa de doscientos a d
 
 Serán sancionados con prisión de tres a quince años y multa de cinco mil a veinte mil días de salario, los empleados y funcionarios de las instituciones de crédito, que participen en la operación de los sistemas de ahorro para el retiro, así como los miembros del consejo de administración y las personas que desempeñen funciones directivas, empleos, cargos o comisiones en administradoras, sociedades de inversión o empresas operadoras, que intencionalmente dispongan u ordenen la disposición de los fondos, valores o documentos que manejen de los trabajadores con motivo de su objeto, aplicándolos a fines distintos de los contratados, y a los establecidos en la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 105.
 
@@ -2006,7 +2106,7 @@ I. Que dolosamente omitan registrar las operaciones efectuadas por la administra
 
 II. Que intencionalmente inscriban u ordenen que se inscriban datos falsos en la contabilidad de la sociedad de que se trate, o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionar a la Comisión o que ésta les requiera.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 106.
 
@@ -2018,7 +2118,7 @@ I. Que a sabiendas, en prospectos de información al público o por cualquier ot
 
 II. Que mediante el uso indebido de información privilegiada proveniente de una sociedad emisora, obtengan un lucro indebido o se eviten una pérdida, directamente o por interpósita persona, a través de la adquisición y/o enajenación de los valores, títulos de crédito o documentos emitidos por la propia sociedad, antes de que la información privilegiada sea hecha del conocimiento del público con respecto al precio de mercado de los valores, títulos de crédito o documentos emitidos por la sociedad de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 107.
 
@@ -2050,7 +2150,7 @@ ARTICULO 107 bis 1.- Se sancionará con prisión de tres a quince años al miemb
 
 Igual sanción se impondrá al servidor público de la Comisión Nacional del Sistema de Ahorro para el Retiro, que por sí o por interpósita persona solicite para sí o para otro, dinero o cualquier otra cosa, para hacer o dejar de hacer algún acto relacionado con sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 108.
 
@@ -2176,7 +2276,7 @@ Las disposiciones de esta ley no deberán interpretarse como de carácter fiscal
 
 Las relaciones entre las administradoras y empresas operadoras, con sus empleados, se regirán por lo dispuesto en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal del Trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 119.
 
@@ -2352,7 +2452,7 @@ México, D.F., a 25 de abril de 1996.- Dip. María Claudia Esqueda Llanes, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de mayo de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE ENERO DE 1998.
 
@@ -2360,9 +2460,9 @@ D.O.F. 23 DE ENERO DE 1998.
 
 D.O.F. 18 DE ENERO DE 1999.
 
-DECRETO QUE CREA LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS.
+DECRETO QUE CREA LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
 
@@ -2370,7 +2470,7 @@ SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Cré
 
 D.O.F. 17 DE MAYO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -2446,7 +2546,7 @@ La evaluación del diagnóstico incluirá además una estimación anualizada, pa
 
 D.O.F. 24 DE DICIEMBRE DE 2002.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -2557,3 +2657,23 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
