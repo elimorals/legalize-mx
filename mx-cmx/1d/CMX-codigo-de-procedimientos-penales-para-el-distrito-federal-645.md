@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2013-09-13"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 22 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA GRADUAL Y PROGRESIVA A PARTIR DEL 1 DE ENERO DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -2677,6 +2677,12 @@ I.- De oficio, o a petición de parte, se realizará un acuerdo debidamente fund
 II.- Procederá a realizar la notificación a las personas que aparezcan dentro de las actuaciones ministeriales o judiciales, como propietarias o poseedoras de buena fe, para que comparezcan a acreditar la propiedad de los bienes y soliciten su devolución, dentro de un plazo de ochenta días naturales a partir de la notificación, bajo el apercibimiento que de no hacerlo, los bienes causarán abandono a favor de la Procuraduría General de Justicia del Distrito Federal.
 
 Para el caso de que la Autoridad Judicial o el Ministerio Público, resuelva restituir el bien al propietario, poseedor, interesado o representante legal, remitirá copia debidamente certificada del acuerdo de desvinculación al Registro Público de la Propiedad para que se cancele la inscripción del aseguramiento y surta efectos a terceros. En caso contrario hará efectivo el apercibimiento señalado en la fracción II del presente artículo.
+
+> <small>(ADICIONADO, G.O. 10 DE ENERO DE 2014)</small>
+
+###### ARTICULO 273 Bis 2.
+
+El Agente del Ministerio Público podrá ordenar la custodia del folio real correspondiente o el aseguramiento de una construcción materia de una averiguación previa iniciada por los delitos previstos en los artículos 259 fracción III Bis, 267, 329 Bis, 339 tercer párrafo, y los contenidos en el Título Vigésimo Quinto del Código Penal para el Distrito Federal.
 
 ### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de Policía Judicial
 
@@ -6273,3 +6279,11 @@ SEGUNDO. - El presente decreto entrará en vigor a los 30 días de su publicaci�
 TERCERO. - Los procesos penales que se sigan por los tipos penales que integren delincuencia organizada y las sentencias que se hayan dictado al respecto, seguirán substanciándose hasta su culminación y se compurgarán de conformidad con los artículos 254 y 255 del Código Penal para el Distrito Federal y la Ley contra la Delincuencia Organizada para el Distrito Federal, que seguirán vigentes sólo en estos supuestos.
 
 CUARTO. - Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 10 DE ENERO DE 2014.
+
+Artículo Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Artículo Tercero. Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
