@@ -4,7 +4,7 @@ identifier: "CMX-ley-registral-para-el-distrito-federal-78427"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-21"
-last_updated: "2013-06-19"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78427&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-18"
 
 LEY REGISTRAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2011.
 
@@ -964,9 +964,23 @@ Una vez recibida la solicitud del certificado de no inscripción, se expedirá e
 
 Cuando el titular del Registro detecte alguna anomalía u omisión en cualquiera de los libros o folios, pondrá en custodia el libro o folio de que se trate, previa resolución motivada y fundada, que al efecto dicte, publicándose ésta con sujeción al procedimiento que se establece en los artículos siguientes de esta Ley.
 
-Asimismo, se dictaminará la custodia de aquellos documentos que aún localizándose en los archivos de la bóveda del Registro carecen de los elementos y requisitos que puedan probar su correcta elaboración y validez como asientos registrales.
+> <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
 
-Igualmente se pondrán en custodia los antecedentes registrales por sentencia, resolución judicial o administrativa que la ordene.
+Igualmente se pondrán en custodia los antecedentes registrales por sentencia, resolución jurisdiccional o acuerdo ministerial que la ordene.
+
+> <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
+
+También procederá la custodia del folio real de un predio, cuando así lo determinen:
+
+I. El Tribunal de lo Contencioso Administrativo del Distrito Federal, en juicio de lesividad, nulidad o acción pública en el acuerdo correspondiente en el que se otorgue la suspensión del acto impugnado;
+
+II. El Instituto de Verificación Administrativa del Distrito Federal, dentro del procedimiento de verificación administrativa, en el acuerdo de suspensión que dicte como medida de seguridad;
+
+III. Los Órganos Políticos Administrativos, dentro del procedimiento de revocación, en el que dicte acuerdo de suspensión;
+
+IV. La Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal, dentro del procedimiento de revocación, en el que dicte el acuerdo de suspensión correspondiente; o,
+
+V. La Procuraduría Ambiental y del Ordenamiento Territorial, en los procedimientos de investigación que conozcan con motivo de ilícitos ambientales.
 
 ###### Artículo 91.
 
@@ -1119,3 +1133,13 @@ QUINTO. Los mediadores privados con certificación y registro vigente ante el Tr
 SEXTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
 
 SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
