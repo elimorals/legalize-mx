@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-verificacion-administrativa-del-72146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-26"
-last_updated: "2012-02-14"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72146&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de enero de 2010.
 
@@ -118,7 +118,7 @@ En el Reglamento de la Ley se establecerá la forma de substanciación del proce
 
 La autoridad que ordene las visitas de verificación en el ámbito de competencia a que alude el artículo 7 del presente ordenamiento, substanciará el procedimiento de calificación respectivo y emitirá las resoluciones correspondientes, imponiendo en su caso, las medidas cautelares y de seguridad que correspondan.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -149,6 +149,10 @@ g) Transporte público, mercantil y privado de pasajero y de carga;
 h) Las demás que establezcan las disposiciones legales y reglamentarias respectivas;
 
 II. Ordenar y ejecutar las medidas de seguridad e imponer las sanciones previstas en las leyes, así como resolver los recursos administrativos que se promuevan;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE ENERO DE 2014)</small>
+
+También podrá ordenar la custodia del folio real del predio de manera fundada y motivada, al Registro Público de la Propiedad y de Comercio del Distrito Federal, cuando se trate de un procedimiento administrativo de verificación relacionado con desarrollo urbano, construcciones, inmuebles u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la resolución del fondo del asunto.
 
 > <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -185,6 +189,10 @@ h) Las demás que establezcan las deposiciones (sic) legales y reglamentarias en
 II. Calificar las actas de visitas de verificación, practicadas y de conformidad con la fracción anterior; y
 
 III. Ordenar, a los verificadores del Instituto, la ejecución de las medidas de seguridad y las sanciones impuestas en la calificación de las actas de visitas de verificación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE ENERO DE 2014)</small>
+
+También podrá ordenar la custodia del folio real del predio de manera fundada y motivada, al Registro Público de la Propiedad y de Comercio del Distrito Federal, cuando se trate de un procedimiento administrativo de verificación relacionado con desarrollo urbano, construcciones, inmuebles u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la resolución del fondo del asunto.
 
 ###### Artículo 8.
 
@@ -234,7 +242,7 @@ XIII. Los Titulares de los Órganos Político Administrativos del Distrito Feder
 
 Cada miembro propietario podrá designar un representante, con jerarquía no menor a director de área.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 10.
 
@@ -664,7 +672,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veintitrés días
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNANDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO MIGUEL CARRILLO HUERTA.- FIRMA.- SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSAMÁRQUEZ CABRERA.- FIRMA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 14 DE FEBRERO DE 2011.
 
@@ -687,3 +695,13 @@ G.O. 14 DE FEBRERO DE 2012.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
