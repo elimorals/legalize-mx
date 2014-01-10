@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2013-05-03"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2565,9 +2565,9 @@ VIII. De la Ley de Instituciones de Crédito, los previstos en los artículos 11
 
 VIII Bis. De la Ley General de Títulos y Operaciones de Crédito, los previstos en los artículos 432, 433 y 434;
 
-> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-IX. De la Ley General de Organizaciones y Actividades Auxiliares del Crédito, los previstos en los artículos 98, en el supuesto del cuarto párrafo, excepto las fracciones IV y V, y 101;
+IX. De la Ley General de Organizaciones y Actividades Auxiliares del Crédito, los delitos previstos en los artículos 98, en el supuesto del cuarto párrafo, excepto las fracciones IV y V, 100, fracciones I y II, y 101;
 
 > <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -2577,9 +2577,9 @@ X. De la Ley Federal de Instituciones de Fianzas, los previstos en los artículo
 
 XI. De la Ley General de Instituciones y Sociedades Mutualistas de Seguros, los previstos en los artículos 141, fracción I; 145, en el supuesto del cuarto párrafo, excepto las fracciones II, IV y V; 146 fracciones II, IV y VII, en el supuesto del cuarto párrafo, y 147, fracción II inciso b), en el supuesto del cuarto párrafo del artículo 146;
 
-> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-XII. De la Ley del Mercado de Valores, los previstos en los artículos 52, y 52 Bis cuando el monto de la disposición de los fondos o de los valores, títulos de crédito o documentos a que se refiere el artículo 3o. de dicha ley, exceda de trescientos cincuenta mil días de salario mínimo general vigente en el Distrito Federal;
+XII. De la Ley del Mercado de Valores, los delitos previstos en los artículos 373, 374, 375, cuando el monto de la disposición de los fondos o de los valores, títulos de crédito o documentos a que se refiere el artículo 2, fracción XIV, de dicha Ley, exceda de 350,000 días de salario mínimo general vigente en el Distrito Federal, 381, fracción II y 382, fracción II;
 
 > <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -2612,6 +2612,22 @@ XVII. Los previstos en el artículo 49 de la Ley Federal para el Control de Sust
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 XVIII. De la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los previstos en los artículos 9, 10, 11, 17 y 18.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XIX. De la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, el delito previsto en el artículo 114.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XX. De la Ley de Sociedades de Inversión, el delito previsto en el artículo 88.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XXI. De la Ley de Uniones de Crédito, el delito previsto en el artículo 125.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XXII. De la Ley de Ahorro y Crédito Popular, el delito previsto en el artículo 140.
 
 La tentativa punible de los ilícitos penales mencionados en las fracciones anteriores, también se califica como delito grave.
 
@@ -5772,3 +5788,21 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El Titular del Poder Ejecutivo Federal contará con un término de 180 días naturales para expedir las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República, a efecto de establecer la unidad administrativa que conozca de los delitos federales cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta, así como para aquellos delitos del fuero común que sean atraídos de conformidad con lo dispuesto por los artículos 73, fracción XXI, segundo párrafo, de la Constitución y 10 del Código Federal de Procedimientos Penales.
 
 Tercero.- En tanto se expiden las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República al que se refiere el artículo transitorio anterior, la Fiscalía Especial para la Atención de Delitos Cometidos contra la Libertad de Expresión, de la Procuraduría General de la República ejercerá las atribuciones establecidas en el presente Decreto.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
