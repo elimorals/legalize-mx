@@ -4,7 +4,7 @@ identifier: "LTOSF"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-15"
-last_updated: "2010-05-25"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55887&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LTOSF"
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de junio de 2007.
 
@@ -72,25 +72,27 @@ VIII. El Código Civil Federal, y
 
 IX. Los usos y prácticas bancarios y mercantiles.
 
-> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 2 Bis.
 
-La supervisión y vigilancia del cumplimiento de lo dispuesto por esta Ley y las disposiciones que de ella emanen corresponderá a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y al Banco de México respecto de Entidades Financieras, en el ámbito de sus respectivas competencias y a la Procuraduría Federal del Consumidor respecto de las Entidades Comerciales.
+La supervisión y vigilancia del cumplimiento de lo dispuesto por esta Ley y las disposiciones que de ella emanen corresponderá a la Comisión Nacional Bancaria y de Valores, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y al Banco de México respecto de Entidades Financieras, en el ámbito de sus respectivas competencias; a la Comisión Nacional Bancaria y de Valores respecto de los Participantes en Redes; al Banco de México respecto de las Cámaras de Compensación, en términos de la Ley del Banco de México, y a la Procuraduría Federal del Consumidor respecto de las demás Entidades Comerciales.
 
 ###### Artículo 3.
 
 Para los efectos de la presente Ley, en singular o plural se entenderá por:
 
-> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-I. Autoridades: al Banco de México, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y a la Procuraduría Federal del Consumidor;
+I. Autoridades: a la Comisión Nacional Bancaria y de Valores, al Banco de México, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y a la Procuraduría Federal del Consumidor;
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2010)</small>
 
 II. Cámara de Compensación: a la entidad central o mecanismo de procesamiento centralizado, a través del cual se intercambian instrucciones de pago u otras obligaciones financieras, relacionadas con cualquier Medio de Disposición;
 
-III. Cliente: a la persona que celebra cualquier operación pasiva, activa o de servicios con una Entidad Financiera, recibe algún crédito, préstamo o financiamiento de alguna Entidad Comercial o utiliza los Medios de Disposición emitidos por cualquier Entidad;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Cliente: a la persona que celebra cualquier operación pasiva, activa o de servicios con una Entidad Financiera, recibe algún crédito, préstamo o financiamiento de alguna Entidad Comercial o utiliza los Medios de Disposición puestos a su disposición por cualquier Entidad;
 
 > <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
@@ -106,57 +108,71 @@ V Bis. Crédito al Consumo: a las siguientes operaciones celebradas por las Enti
 
 VI. CAT: al costo anual total de financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos, préstamos o financiamientos que otorgan las Entidades;
 
-VII. Cuotas de Intercambio: a las cantidades que las Entidades se cobran o pagan entre sí, directa o indirectamente, por el uso de cualquier Medio de Disposición en la infraestructura de pagos instalada por alguna Entidad distinta a la que proporciona o emite el Medio de Disposición;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VII. Cuotas de Intercambio: a las cantidades que las Entidades se cobran o pagan entre sí, directa o indirectamente, por cualquier concepto relacionado con las Redes de Medios de Disposición, incluyendo, sin limitar, la que cobra la Entidad que pone a disposición del Cliente el Medio de Disposición y a la Entidad cuya infraestructura es utilizada en la operación realizada mediante dicho Medio de Disposición y que se regulan conforme al artículo 4 Bis 3 de la presente Ley;
 
 > <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 VIII. Entidades: a las Entidades Financieras y a las Entidades Comerciales;
 
-> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-IX. Entidad Financiera: a las instituciones de crédito, a las sociedades financieras de objeto limitado, a las arrendadoras financieras, a las empresas de factoraje financiero, a las sociedades financieras de objeto múltiple reguladas y no reguladas, a las sociedades financieras populares, sociedades cooperativas de ahorro y préstamo y a las entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público;
+IX. Entidad Financiera: a las instituciones de crédito, a las sociedades financieras de objeto múltiple reguladas y no reguladas, a las sociedades financieras populares, a las sociedades financieras comunitarias, a las sociedades cooperativas de ahorro y préstamo, a las entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público y a las uniones de crédito;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 X. Entidad Comercial: a las sociedades que de manera habitual otorguen créditos, préstamos o financiamientos al público;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-XI. GAT: a la Ganancia Anual Total Neta expresada en términos porcentuales anuales, que, para fines informativos y de comparación, incorpora los intereses nominales capitalizables que generen las operaciones pasivas a plazo, retirables en días preestablecidos y de ahorro, que celebren las instituciones de crédito y las entidades de ahorro y crédito popular con sus Clientes, menos todos los costos relacionados con la operación, incluidos los de apertura;
+XI. GAT: a la Ganancia Anual Total Neta expresada en términos porcentuales anuales, que, para fines informativos y de comparación, incorpora los intereses que generen las operaciones pasivas de ahorro, inversión y otras análogas, que celebren las instituciones de crédito, las entidades de ahorro y crédito popular y las uniones de crédito con sus Clientes, menos todos los costos relacionados con la operación, incluidos los de apertura, será expresado tanto en términos reales como nominales, conforme a las disposiciones que emita el Banco de México para su cálculo;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-XII. Medio de Disposición: a las tarjetas de débito asociadas a depósitos bancarios de dinero a la vista, a las tarjetas de crédito emitidas al amparo de un contrato de apertura de crédito, a los cheques, a las órdenes de transferencia de fondos incluyendo el servicio conocido como domiciliación, tarjetas prepagadas no bancarias para la adquisición de bienes, así como aquellos otros que el Banco de México reconozca mediante disposiciones de carácter general.
+XII. Medio de Disposición: a las tarjetas de débito asociadas a depósitos bancarios de dinero a la vista, a las tarjetas de crédito emitidas al amparo de un contrato de apertura de crédito, a los cheques, a las órdenes de transferencia de fondos incluyendo el servicio conocido como domiciliación, cualquier dispositivo o interfase que permita la realización de pagos o transferencias de recursos, así como aquellos otros que la Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, reconozcan como tales mediante disposiciones de carácter general.
 
-Para efectos de lo dispuesto en este artículo, la emisión de tarjetas prepagadas para la adquisición de bienes no autoriza a quienes las coloquen a captar recursos del público ni a realizar intermediación financiera, y
+Para efectos de lo dispuesto en este artículo, toda persona que emita o coloque Medios de Disposición estará sujeta a lo dispuesto por los artículos 2 y 103 de la Ley de Instituciones de Crédito y demás legislación que resulte aplicable;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 25 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-XIII. Sistema de Pagos: a la serie de instrumentos, procedimientos, reglas y sistemas para la transferencia de fondos.
+XII Bis. Participante en Redes: a toda persona que de manera habitual preste servicios relacionados con las Redes de Medios de Disposición de conformidad con las disposiciones de carácter general que al efecto emitan la Comisión Nacional Bancaria y de Valores y el Banco de México;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XIII. Sistema de Pagos: a la serie de instrumentos, procedimientos, reglas y sistemas para la transferencia de fondos, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XIV. Redes de Medios de Disposición: a la serie de acuerdos, protocolos, instrumentos, interfaces, procedimientos, reglas, programas, sistemas, infraestructura y demás elementos relacionados con el uso de Medios de Disposición, y que, conforme al artículo 4 Bis 3 corresponde regular de manera conjunta a la Comisión Nacional Bancaria y de Valores y al Banco de México.
 
 ### Capítulo II.- De las Comisiones y Cuotas de Intercambio
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 4.
 
-Para los fines previstos en el artículo 1 de esta Ley, el Banco de México emitirá disposiciones de carácter general para regular las tasas de interés, activas y pasivas, Comisiones y pagos anticipados y adelantados de las operaciones que realicen con sus Clientes, las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas, así como para regular Cuotas de Intercambio tratándose de Entidades.
+Para los fines previstos en el artículo 1 de esta Ley, el Banco de México emitirá disposiciones de carácter general para regular las tasas de interés, activas y pasivas, Comisiones y pagos anticipados y adelantados de las operaciones que realicen con sus Clientes, las instituciones de crédito y las sociedades financieras de objeto múltiple reguladas, salvo lo previsto en el Artículo 4 Bis 3 que corresponderá regular de manera conjunta a la Comisión Nacional Bancaria y de Valores y al Banco de México.
 
-En ejercicio de las atribuciones que le confiere este artículo, el Banco de México regulará las Comisiones y tasas de interés, así como cualquier otro concepto de cobro de las operaciones celebradas por las Entidades Financieras con Clientes. Para el ejercicio de dichas atribuciones el Banco de México podrá solicitar la opinión de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o de la Comisión Federal de Competencia.
+En ejercicio de las atribuciones que le confiere este artículo, el Banco de México regulará las Comisiones y tasas de interés, así como cualquier otro concepto de cobro de las operaciones celebradas por las Entidades Financieras con Clientes. Para el ejercicio de dichas atribuciones el Banco de México podrá solicitar la opinión de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o de la Comisión Federal de Competencia Económica.
 
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, la Comisión Nacional Bancaria y de Valores, la Secretaría de Hacienda y Crédito Público, las instituciones de crédito, las sociedades financieras de objeto limitado o las sociedades financieras de objeto múltiple reguladas, podrán solicitar al Banco de México se evalúe si existen o no condiciones razonables de competencia, respecto de operaciones activas, pasivas y de servicios de las citadas entidades.
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, la Comisión Nacional Bancaria y de Valores, la Secretaría de Hacienda y Crédito Público y el Banco de México, podrán solicitar a la Comisión Federal de Competencia Económica que ejerza sus atribuciones respecto de las Entidades Financieras en términos de la Ley Federal de Competencia Económica. Para tales efectos, dichas autoridades podrán señalar las razones que motivan su solicitud, así como sugerir sanciones que puedan ser impuestas en términos de dicha Ley.
 
-Al efecto, el Banco de México podrá también actuar de oficio, y podrá solicitar la opinión de la Comisión Federal de Competencia para que ésta, en un plazo no menor a treinta días y no mayor a sesenta días naturales posteriores a su solicitud, en términos de la Ley que la rige, determine entre otros aspectos, si existe o no competencia efectiva, inflación, y los mercados relevantes respectivos.
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, la Comisión Nacional Bancaria y de Valores, la Secretaría de Hacienda y Crédito Público, las instituciones de crédito o las sociedades financieras de objeto múltiple reguladas, podrán solicitar al Banco de México se evalúe si existen o no condiciones razonables de competencia, respecto de operaciones activas, pasivas y de servicios de las citadas entidades.
 
-Con base en la opinión de la citada dependencia, el Banco de México, en su caso, tomará las medidas regulatorias pertinentes, las que se mantendrán sólo mientras subsistan las condiciones que las motivaran. En la regulación, Banco de México establecerá las bases para la determinación de dichas Comisiones y Tasas de Interés, así como mecanismos de ajuste y períodos de vigencia.
+El Banco de México podrá también evaluar si existen o no condiciones razonables de competencia, respecto de operaciones activas, pasivas y de servicios por parte de las Entidades Financieras, y podrá solicitar la opinión de la Comisión Federal de Competencia Económica para que ésta, en un plazo no menor de treinta días y no mayor a sesenta días naturales posteriores a su solicitud, en términos de la Ley que la rige, determine entre otros aspectos, si existe o no competencia efectiva, inflación, y los mercados relevantes respectivos.
 
-El Banco de México o las entidades sujetas a dicha regulación, podrán solicitar a la Comisión Federal de Competencia que emita opinión sobre la subsistencia de las condiciones que motivaron la regulación.
+Con base en la opinión de la citada dependencia, el Banco de México, en su caso, tomará las medidas regulatorias pertinentes, las que se mantendrán sólo mientras subsistan las condiciones que las motivaran. En la regulación, Banco de México (sic) establecerá las bases para la determinación de dichas Comisiones y Tasas de Interés, así como mecanismos de ajuste y períodos de vigencia.
+
+El Banco de México, la Comisión Nacional Bancaria y de Valores y la Secretaría de Hacienda y Crédito Público, podrán solicitar a la Comisión Federal de Competencia Económica que emita opinión sobre la subsistencia de las condiciones que motivaron la regulación.
 
 Independientemente de las sanciones previstas en esta Ley, el Banco de México podrá suspender operaciones con las instituciones de crédito que infrinjan lo dispuesto en este precepto.
 
-Lo previsto en este artículo no impide que el Banco de México ejerza en cualquier momento las facultades a que se refiere el artículo 48 de la Ley de Instituciones de Crédito, así como las previstas en la Ley del Banco de México; ni limita que la Comisión Federal de Competencia pueda, en términos de la Ley Federal de Competencia Económica, evaluar directamente si existen o no condiciones razonables de competencia.
+Lo previsto en este artículo no impide que el Banco de México ejerza en cualquier momento las facultades a que se refiere el artículo 48 de la Ley de Instituciones de Crédito, así como las previstas en la Ley del Banco de México; ni limita que la Comisión Federal de Competencia Económica pueda, en términos de la Ley Federal de Competencia Económica, evaluar directamente si existen o no condiciones razonables de competencia ni ejercer sus atribuciones en términos de la legislación aplicable.
 
-La Comisión Federal de Competencia, cuando detecte prácticas que vulneren el proceso de competencia y libre concurrencia en materia de tasas de interés, impondrá las sanciones que correspondan de conformidad con la Ley que la rige e informará de ello al Banco de México.
+La Comisión Federal de Competencia Económica, cuando detecte prácticas que vulneren el proceso de competencia y libre concurrencia en materia de tasas de interés o en la prestación de servicios financieros, impondrá las sanciones que correspondan de conformidad con la Ley que la rige e informará de ello a la Secretaría de Hacienda y Crédito Público y al Banco de México.
 
-El Banco de México propiciará que las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas otorguen préstamos o créditos en condiciones accesibles y razonables. Para ello, deberá tomar en cuenta las condiciones de financiamiento prevalecientes en el mercado nacional, el costo de captación, los costos para el otorgamiento y administración de los créditos, las probabilidades de incumplimiento y pérdidas previsibles, la adecuada capitalización de las instituciones y otros aspectos pertinentes.
+El Banco de México propiciará que las instituciones de crédito y las sociedades financieras de objeto múltiple reguladas otorguen préstamos o créditos en condiciones accesibles y razonables. Para ello, deberá tomar en cuenta las condiciones de financiamiento prevalecientes en el mercado nacional, el costo de captación, los costos para el otorgamiento y administración de los créditos, las probabilidades de incumplimiento y pérdidas previsibles, la adecuada capitalización de las instituciones y otros aspectos pertinentes.
 
 El Banco de México vigilará que las mencionadas instituciones otorguen préstamos o créditos en condiciones accesibles y razonables, y tomará las medidas correctivas que correspondan a fin de que tales operaciones se ofrezcan en los términos antes señalados, incluso, estableciendo límites a las tasas de interés aplicables a operaciones específicas; en cuyo caso podrá tomar en cuenta fórmulas de derecho comparado relevantes. El Banco de México podrá diferenciar su aplicación por tipos de crédito, segmentos de mercado o cualquier otro criterio que resulte pertinente, así como propiciar que los sectores de la población de bajos ingresos no queden excluidos de los esquemas de crédito.
 
@@ -208,6 +224,60 @@ Con el objeto de incrementar la competencia en el sistema financiero, el Banco d
 
 Esta información deberá publicarse por dichas instituciones y sociedades en los estados de cuenta que se envían a los Clientes en forma clara y visible, ya sea por escrito, electrónico o de cualquier otra forma, refiriendo las tasas, Comisiones y comparativos al segmento de operaciones que se incluyen en dicho estado de cuenta y que realiza el Cliente.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 4 Bis 3.
+
+Para los fines previstos en el artículo 1 de esta Ley, la Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, deberán emitir disposiciones de carácter general para regular los términos y condiciones en que se presten servicios relacionados con las Redes de Medios de Disposición, así como las Cuotas de Intercambio y Comisiones que se cobren directa o indirectamente, excepto por los servicios provistos por el Banco de México y aquellos a que se refiere la Ley de Sistemas de Pagos.
+
+Lo anterior, debiéndose, al efecto, seguir los siguientes principios:
+
+I. Fomento de la competencia; ampliación de infraestructura y reducción de cobros y Comisiones. La regulación de las Redes de Medios de Disposición en general y de los cobros a Clientes o terceros relacionados con ellos en particular, deberá fomentar la integración de nuevos participantes que amplíen la infraestructura y oferta de servicios relacionados con Medios de Disposición en beneficio de la economía en general y de la formalización en particular. Al efecto, la Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, podrán regular, entre otros:
+
+a) Que el balance de las Cuotas de Intercambio, Comisiones o cobros de cualquier naturaleza relacionados con las Redes de Medios de Disposición, permitan, en la práctica, la participación del mayor número posible de Participantes en Redes, incluidos los adquirentes que contraten con los establecimientos en donde se utilicen los Medios de Disposición, así como procesadores y propietarios de infraestructura o soluciones relacionadas con las Redes de Medios de Disposición.
+
+b) Que el nivel de las Cuotas de Intercambio y Comisiones permita una mayor competitividad en beneficio tanto de los usuarios de Medios de Disposición como de los comercios o establecimientos donde se utilicen los Medios de Disposición.
+
+c) Que se permita y fomente una mayor participación de Participantes en Redes, siempre y cuando cumplan con los requisitos que al efecto señalen de manera conjunta la Comisión Nacional Bancaria y de Valores y el Banco de México, conforme al marco legislativo y normativo aplicable, especialmente en lo relativo a seguridad de la información y operaciones y en cuanto a capacidades de transaccionalidad e interconexión, entre otros.
+
+d) Que las Cuotas de Intercambio se basen en costos reales y comprobables considerando un rendimiento adecuado.
+
+Al efecto, las citadas Cuotas de Intercambio, Comisiones o cobros de cualquier naturaleza relacionados con las Redes de Medios de Disposición, deberán ser revisados anualmente de manera conjunta por la Comisión Nacional Bancaria y de Valores y el Banco de México.
+
+II. Libre Acceso. Las Redes de Medios de Disposición deberán permitir el acceso a su infraestructura, en condiciones equitativas y transparentes, a los Participantes en Redes incluidos los prestadores de servicios complementarios de Redes de Medios de Disposición, Entidades, procesadores, Entidades emisoras de Medios de Disposición, adquirentes y propietarios de infraestructura, siempre y cuando cuenten con la autorización o aprobación que, en su caso corresponda, para realizar su respectiva actividad y cumplan con los parámetros, acuerdos y protocolos de la Red de Medios de Disposición que se ajusten a las disposiciones a que se refiere este artículo. En particular y de forma meramente enunciativa, la Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, tendrán la facultad de regular los términos y condiciones de las Redes de Medios de Disposición para impedir el establecimiento de cualesquier barreras de entrada, formales, regulatorias, económicas o prácticas, y en particular, podrán regular:
+
+a) Los términos y condiciones de cualquier requerimiento de solvencia, técnico, tecnológico, de escala, de certificación, parámetros, acuerdos, protocolos o similar para poder ser miembro o participar de una Red de Medios de Disposición, para interconectarse a dicha Red o para poder intercambiar información transaccional o de otra índole con la misma.
+
+b) El monto y concepto de los cobros y pagos relacionados con la Red de Medios de Disposición o las operaciones derivadas o relacionadas con la misma, incluyendo sin limitar, los cobros que se realicen a terceros miembros de la Red de Medios de Disposición diferentes a comercios y clientes, que comprenden las Cuotas de Intercambio, las cuotas, que abarcan descuentos a comercios y las Comisiones que puedan cobrarse a los Clientes o usuarios finales.
+
+c) Los términos y condiciones de cualquier disposición de exclusividad referente a la Red de Medios de Disposición, incluyendo las establecidas en los contratos con comercios, emisores y adquirentes.
+
+d) Los casos en que las Entidades emisoras de Medios de Disposición no puedan negarse a formar parte de una Cámara de Compensación debidamente aprobada para realizar compensaciones y liquidaciones relacionadas con Redes de Medios de Disposición.
+
+e) Que cualquier participante en una Red de Medios de Disposición no condicione la contratación de operaciones o servicios a la contratación de otra operación o servicio.
+
+f) Cualquier otra disposición relacionada con la Red de Medios de Disposición que pueda, formalmente o de hecho, impedir, obstaculizar o desincentivar la transaccionalidad con otras Redes de Medios de Disposición o con terceros que sean miembros u operen con otras Redes de Medios de Disposición, cuando su naturaleza lo permita.
+
+III. No discriminación. Los procesadores, Entidades emisoras de Medios de Disposición, adquirentes y demás propietarios de infraestructura relacionada con Redes de Medios de Disposición deberán llevar a cabo sus respectivas actividades y permitir las actividades de terceros de forma no discriminatoria, fomentando la interconexión de las diferentes Redes de Medios de Disposición entre sí y el acceso de terceros a las mismas, cuando su naturaleza lo permita. Al efecto, la Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, podrán analizar y aprobar o no, en su caso, las reglas de cada Red de Medios de Disposición. En particular, la Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, intervendrán para evitar que en las mencionadas reglas o en la práctica:
+
+a) Se dé trato menos favorable a cualquier tercero en igualdad de circunstancias basándose en cualquier concepto.
+
+b) Se establezcan prácticas, políticas o cobros discriminados ya sea por las características del tercero o cliente, por el Medio de Disposición empleado o por la identidad de la Entidad Emisora, adquirente o demás accesorios de la operación particular, salvo en aquellos casos justificados por diferenciales en los costos para proveer el servicio de que se trate siempre y cuando sean comprobables.
+
+c) Se establezcan requisitos, términos o condiciones diferenciados a personas y/o operaciones en las mismas circunstancias.
+
+IV. Protección de los Intereses de los Usuarios. Sin perjuicio de las atribuciones conferidas a otras autoridades, la Comisión Nacional Bancaria y de Valores velará por la protección de los intereses del usuario final de los Medios de Disposición, incluyendo titulares de los mismos y comercios. En adición a lo anterior, la Comisión Nacional Bancaria y de Valores procurará:
+
+a) La transparencia en el cobro de Comisiones, cuotas o cobros de cualquier clase tanto por cada operación, que incluye cualquier tipo de facultad o prohibición contractual bajo la cual se instrumenten éstos, como a nivel de reportes periódicos en la página de Internet y también a la Comisión Nacional Bancaria y de Valores para su publicación comparativa periódica;
+
+b) Que no existan cobros múltiples, directos o indirectos, o por diversas personas por la misma operación o concepto.
+
+c) Que el nivel de cualesquier Cuotas de Intercambio o Comisiones sea adecuada para el fomento del uso de Medios de Disposición y no sea discriminatorio, por la naturaleza, tamaño y/o cualquier otra circunstancia.
+
+d) Que el nivel de cualesquiera Cuotas, incluyendo las de Intercambio, no establezca formalmente o en la práctica “pisos” o “mínimos” inadecuados en el cobro a los comercios o Clientes.
+
+Adicionalmente cualquier otra facultad prevista en este u otro ordenamiento, la Comisión Nacional Bancaria y de Valores podrá requerir información de cualquiera de los participantes en cualquier Red de Medios de Disposición, pudiendo, al efecto, solicitar y ejercer, medidas de apremio.
+
 ###### Artículo 5.
 
 Las Entidades que operen cajeros automáticos deberán informar en las pantallas de éstos las Comisiones que cobran por su uso, así como obtener el previo consentimiento de los Clientes para el cobro de tales Comisiones.
@@ -224,7 +294,9 @@ Lo anterior lo deberán efectuar en la forma y términos que el propio Banco de 
 
 El Banco de México tendrá la facultad de formular observaciones a la aplicación de dichas Comisiones cuando sean nuevas o impliquen un incremento, dentro de los quince días hábiles siguientes a aquél en que las citadas Entidades Financieras las hagan de su conocimiento. Antes de ejercer la citada facultad el Banco de México escuchará a la entidad de que se trate. El Banco de México hará públicas las observaciones que en su caso formule conforme a este párrafo. En el supuesto de que el Banco de México haya formulado y publicado observaciones en cuanto a la creación o incremento de las Comisiones, y las entidades a que se refiere el primer párrafo de este artículo, decidan aplicar las nuevas comisiones o el incremento observado, el Banco de México podrá vetarlo. De no existir observaciones, las Comisiones entrarán en vigor.
 
-Las atribuciones conferidas al Banco de México en los párrafos anteriores del presente artículo, se entenderán otorgadas a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros respecto de las sociedades financieras de objeto múltiple no reguladas.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las atribuciones conferidas al Banco de México en los párrafos anteriores del presente artículo, se entenderán otorgadas a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros respecto de las sociedades financieras de objeto múltiple no reguladas, las sociedades financieras populares, las sociedades financieras comunitarias, las sociedades cooperativas de ahorro y préstamo y las uniones de crédito.
 
 > <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
@@ -266,11 +338,21 @@ En los créditos, préstamos o financiamientos que las Entidades otorguen, el pa
 
 Las Entidades que otorguen crédito, préstamo o financiamiento de cualquier tipo, incluidos los masivamente celebrados a personas incapaces por minoría de edad en términos de la legislación común, independientemente de la nulidad de dichos actos, se harán acreedoras a las sanciones que establece la presente Ley.
 
-> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 10 Bis 1.
 
 En los créditos al consumo otorgados por Entidades, la terminación del contrato podrá hacerse en cualquier momento por parte del Cliente acreditado, en cuyo caso la relación jurídica derivada de los recursos previamente dispuestos, solo continuará en vigor para efectos del pago del principal con los intereses y accesorios que correspondan al crédito otorgado, procediendo a la cancelación del Medio de Disposición, en su caso.
+
+En caso de que un crédito al consumo se pague mediante la contratación de uno nuevo con otra Entidad, los Clientes podrán convenir con esta última que realice los trámite (sic) necesarios para dar por terminado dicho crédito ante la Entidad original.
+
+Será responsabilidad de la Entidad que solicite la cancelación de la operación el contar con la autorización del titular o titulares del crédito de que se trate, debidamente otorgada conforme a lo previsto en este artículo.
+
+La Entidad con la que el Cliente haya decidido dar por terminada la operación, estará obligada a dar a conocer a la Entidad encargada de realizar los trámites de terminación respectivos, toda la información necesaria para ello, incluyendo la relativa a los saldos insolutos del crédito. Para estos efectos, bastará con la solicitud que ésta le envíe en los términos a que se refiere el último párrafo de este artículo.
+
+En caso de que el Cliente objete la terminación del contrato por no haber otorgado la autorización respectiva, cualquier daño o perjuicio causado a dicho Cliente o a otras Entidades será responsabilidad de la Entidad solicitante. Lo anterior, sin perjuicio de las sanciones aplicables en términos de esta u otras leyes.
+
+Las solicitudes, autorizaciones, instrucciones y comunicaciones a que se refiere este artículo podrán llevarse a cabo por escrito con firma autógrafa o a través de medios electrónicos, ópticos o de cualquier otra tecnología que previamente convengan las partes, siempre y cuando pueda comprobarse fehacientemente el acto jurídico de que se trate.
 
 Lo dispuesto por este artículo se sujetará a las disposiciones de carácter general que emita la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
 
@@ -454,6 +536,10 @@ La información a que se refiere este artículo deberá resaltarse en caracteres
 
 Tratándose de operaciones pasivas que realicen las instituciones de crédito y las entidades de ahorro y crédito popular a las que les sea aplicable la GAT de acuerdo con las disposiciones a las que se refiere el artículo 8 de esta Ley, la publicidad y los Contratos de Adhesión deberán contener dicha GAT, cuando así lo establezcan las disposiciones de carácter general a que se refieren los artículos 11 y 12 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La información a que se refiere este artículo deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
+
 ###### Artículo 16.
 
 Las instituciones de crédito están obligadas a recibir cheques salvo buen cobro y órdenes de transferencias de fondos para abono en cuenta del beneficiario. Asimismo, las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas están obligadas a recibir cheques salvo buen cobro y órdenes de transferencias de fondos para el pago del principal, intereses, Comisiones y gastos, de los créditos, préstamos o financiamientos que otorguen a sus Clientes.
@@ -476,23 +562,71 @@ II. El cobro de Comisiones distintas en virtud del emisor del Medio de Disposici
 
 III. Los actos que se realicen para no permitir a sus Clientes utilizar la infraestructura de otras Entidades, o desalentar su uso.
 
-Las Entidades podrán exceptuar a sus cuentahabientes o acreditados del pago de Comisiones o establecer menores Comisiones cuando éstos utilicen la infraestructura de aquéllas. Lo anterior, no se considerará práctica discriminatoria.
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Cualquier acto que limite, restrinja o impida a cualquier persona en igualdad de condiciones la contratación de algún producto o servicio cumpliendo con los requisitos previos señalados por las Entidades.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las Entidades podrán exceptuar del pago de Comisiones o establecer menores Comisiones a sus cuentahabientes o acreditados cuando éstos utilicen su propia infraestructura, así como a los cuentahabientes o acreditados de otras Entidades que utilicen dicha infraestructura siempre que tales Entidades celebren un convenio para dichos efectos, el cual deberá ser autorizado por el Banco de México, previo a su celebración.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Para otorgar la autorización a que se refiere el párrafo anterior, el Banco de México tomará en cuenta que dicho convenio no incluya cláusulas discriminatorias y que propicie condiciones de competencia, mejore los servicios para los usuarios, promueva la transparencia en el cobro de comisiones por parte del operador de la infraestructura y genere incentivos para la utilización más eficiente de la infraestructura y su crecimiento.
 
 Cada Entidad tendrá prohibido cobrar más de una Comisión a sus Clientes respecto del mismo hecho generador, así como aplicar Comisiones en condiciones significativamente más desfavorables para los Clientes que las prevalecientes en el mercado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 17 Bis 1.
+
+Las Entidades a través de medios electrónicos y en sucursales, deberán tener a disposición de sus Clientes, los datos suficientes de identificación de los despachos externos, que incluirán a terceros o representantes que realicen la cobranza de los créditos que otorguen, así como de aquellos que apoyen en las operaciones de negociación y reestructuración de créditos con sus Clientes o con aquellas personas que por alguna razón sean deudores frente a las Entidades.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 17 Bis 2.
+
+Las Entidades deberán tener la información citada en el artículo anterior debidamente actualizada y contener al menos los siguientes datos: nombre del despacho, dirección, teléfonos, y nombre de los socios.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 17 Bis 3.
+
+Las Entidades supervisarán constantemente las actividades realizadas por sus despachos de cobranza, así como también el estado de los reclamos presentados, permitiéndole al Cliente dar seguimiento a los mismos.
+
+Al momento de realizar los cobros, el despacho de cobranza y la Entidad deberán ser identificables plenamente.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 17 Bis 4.
+
+En el ámbito de sus competencias, tanto la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros como la Procuraduría Federal del Consumidor, podrán emitir disposiciones de carácter general en materia de despachos de cobranza.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 18.
 
-Los trabajadores tendrán derecho a solicitar a la institución de crédito en la que se realice el depósito de su salario, pensiones y de otras prestaciones de carácter laboral, que transfiera la totalidad de los recursos depositados a otra institución de crédito que elija el trabajador, sin que la institución que transfiera los recursos pueda cobrar penalización alguna al trabajador que le solicite este servicio. Las instituciones de crédito deberán sujetarse a las disposiciones de carácter general que al efecto emita el Banco de México.
+Las instituciones de crédito en las que se realice el depósito del salario, pensiones y de otras prestaciones de carácter laboral estarán obligadas a atender las solicitudes de los trabajadores para transferir periódicamente la totalidad de los recursos depositados a otra institución de crédito de su elección, sin que la institución que transfiera los recursos pueda cobrar penalización o cargo alguno al trabajador que le solicite este servicio. Asimismo, los trabajadores podrán convenir con la institución de crédito que elijan como destinataria de sus recursos que en su nombre y representación realice el trámite a que se refiere el presente artículo.
+
+Cuando la solicitud de transferencia la realice la institución de crédito destinataria en nombre y por cuenta del trabajador, bastará la comunicación que ésta le envíe a la institución de crédito original.
+
+Será responsabilidad de la institución que solicite la transferencia de recursos a nombre y por cuenta del trabajador, el contar con la debida autorización del trabajador para la realización de los actos previstos en este artículo, guardando constancia de la misma.
+
+Si el trabajador objeta la transferencia de recursos efectuada por no haberse depositado los recursos en una cuenta de la que sea titular, la institución destinataria estará obligada a entregar los recursos de que se trate a la institución original a fin de que ésta los abone a la cuenta del trabajador correspondiente. Lo anterior con independencia del pago de los daños y perjuicios que le haya ocasionado al trabajador y de las sanciones aplicables en términos de esta u otras leyes.
+
+Los trabajadores podrán cancelar la solicitud de transferencia prevista en este artículo en cualquier tiempo. La cancelación surtirá efectos a más tardar el segundo día hábil de que se reciba.
+
+Las solicitudes, autorizaciones, instrucciones y comunicaciones a que se refiere este artículo podrán llevarse a cabo por escrito con firma autógrafa o a través de medios electrónicos, ópticos o de cualquier otra tecnología.
 
 Las entidades públicas, en la contratación de servicios financieros para el pago de los salarios de sus trabajadores, garantizarán condiciones favorables en beneficio de éstos.
+
+Para efectos de lo previsto en este artículo las instituciones de crédito deberán sujetarse a las disposiciones de carácter general que emita el Banco de México quien deberá escuchar la previa opinión de la Comisión Nacional Bancaria y de Valores.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 ### Capítulo III Bis.- De los créditos, préstamos o financiamientos revolventes asociados a una tarjeta
 
-> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 18 Bis.
 
@@ -501,6 +635,8 @@ Tratándose de créditos, préstamos o financiamientos revolventes asociados a u
 I. En los citados formularios conste que fue hecho del conocimiento del Cliente el contenido del respectivo clausulado.
 
 II. En los respectivos formularios se señalen los datos de inscripción del Contrato de Adhesión en el registro a que se refiere el quinto párrafo del artículo 11 de la Ley.
+
+Tanto para la contratación como en caso de alguna controversia respecto de créditos, préstamos o financiamientos revolventes asociados a una tarjeta, se entenderá que el contrato de adhesión válido en la operación de que se trate, es el registrado ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
 
 III. Se envíe el respectivo Contrato de Adhesión y su carátula adjunto con el Medio de Disposición o de identificación, tratándose de aperturas de crédito en cuenta corriente o créditos personales de liquidez sin garantía real, o se mantengan a disposición de sus Clientes modelos de contratos relativos a las operaciones en sus oficinas, sucursales e Internet, cuando así se pacte con dichos Clientes.
 
@@ -574,9 +710,11 @@ Queda prohibido cobrar cualquier Comisión por concepto de sobregiro o intento d
 
 ### Capítulo IV.- Disposiciones Comunes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 19.
 
-El Banco de México estará facultado para regular, mediante disposiciones de carácter general, el funcionamiento y la operación de las Cámaras de Compensación de cualquier Medio de Disposición, así como los cargos que éstas efectúen por la realización de sus operaciones.
+El Banco de México estará facultado para regular, mediante disposiciones de carácter general, escuchando la previa opinión de la Comisión Nacional Bancaria y de Valores, el funcionamiento y la operación de las Cámaras de Compensación de cualquier Medio de Disposición, así como los cargos que éstas efectúen por la realización de sus operaciones.
 
 > <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
 
@@ -590,11 +728,15 @@ Para organizarse y operar como Cámara de Compensación se requerirá autorizaci
 
 Para tales efectos la interesada deberá presentar la información y documentación que dicho Banco Central señale a través de disposiciones de carácter general.
 
-Las Cámaras de Compensación estarán obligadas a enlazar sus sistemas de procesamiento de operación de Medios de Disposición para responder las solicitudes de autorización de pago, devoluciones y ajustes que les envíen otras Cámaras de Compensación, en los términos que, mediante disposiciones de carácter general, establezca el Banco de México.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las Cámaras de Compensación estarán obligadas a enlazar sus sistemas de procesamiento de operación de Medios de Disposición para responder las solicitudes de autorización de pago, devoluciones y ajustes que les envíen otras Cámaras de Compensación, en los términos que, mediante disposiciones de carácter general, establezca el Banco de México, escuchando previamente la opinión de la Comisión Nacional Bancaria y de Valores.
 
 Las Cámaras de Compensación no podrán cobrar a otras Cámaras de Compensación contraprestación por dicho enlace y por la transmisión de información entre ellas o cualquier otro concepto, salvo los gastos directos de instalación. Adicionalmente, las Cámaras de Compensación tendrán prohibido establecer cualquier tipo de barrera de entrada a otras Cámaras de Compensación.
 
-Los estándares, condiciones y procedimientos aplicables serán establecidos por el Banco de México mediante disposiciones de carácter general. En dichas disposiciones se deberá propiciar la eliminación de barreras de entrada a nuevas Cámaras de Compensación.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los estándares, condiciones y procedimientos aplicables serán establecidos por el Banco de México mediante disposiciones de carácter general, escuchando previamente la opinión de la Comisión Nacional Bancaria y de Valores. En dichas disposiciones se deberá propiciar la eliminación de barreras de entrada a nuevas Cámaras de Compensación.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
@@ -656,7 +798,33 @@ IV. En caso de que la institución no diere respuesta oportuna a la solicitud de
 
 V. Hasta en tanto la solicitud de aclaración de que se trate no quede resuelta de conformidad con el procedimiento señalado en este artículo, la institución no podrá reportar como vencidas las cantidades sujetas a dicha aclaración a las sociedades de información crediticia.
 
-Lo antes dispuesto es sin perjuicio del derecho de los Clientes de acudir ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o ante la autoridad jurisdiccional correspondiente conforme a las disposiciones legales aplicables, así como de las sanciones que deban imponerse a la institución por incumplimiento a lo establecido en el presente artículo. Sin embargo, el procedimiento previsto en este artículo quedará sin efectos a partir de que el Cliente presente su demanda ante autoridad jurisdiccional o conduzca su reclamación en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Lo antes dispuesto es sin perjuicio del derecho de los Clientes de acudir ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o ante la autoridad jurisdiccional correspondiente conforme a las disposiciones legales aplicables, así como de las sanciones que deban imponerse a la institución por incumplimiento a lo establecido en el presente artículo. Sin embargo, el procedimiento previsto en este artículo quedará sin efectos a partir de que el Cliente presente su demanda ante autoridad jurisdiccional o conduzca su reclamación en términos y plazos de la Ley de Protección y Defensa al Usuario de Servicios Financieros.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 23 Bis.
+
+A las Entidades les estará prohibido condicionar la contratación de operaciones o servicios financieros a la contratación de otra operación o servicio.
+
+Sin perjuicio de lo anterior, las Entidades podrán ofrecer productos y servicios financieros de otras Entidades que estén ligados a los productos y servicios ofrecidos al Cliente, cuando se cuente con el consentimiento expreso de éste para contratar los productos o servicios adicionales o ligados con la operación o servicio solicitado, bajo la premisa de que es un derecho innegable del Cliente contratar éstos a través de un tercero independiente.
+
+Lo previsto en el párrafo anterior, deberá informarse a los Clientes a través de los contratos que se celebren con éstos, así como de la publicidad de los productos y servicios financieros de que se trate.
+
+Las Instituciones Financieras que sostengan contratos con Clientes respecto a determinados productos y servicios, deberán de solicitar la aprobación al momento de la firma del mismo por parte de los Clientes, para compartir información de éstos, que no esté sujeta a disposiciones de secrecía con terceros que ofrezcan otro tipo de productos y servicios adicionales y que estén relacionados con el producto o servicio que estén contratando.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 23 Bis 1.
+
+Las Entidades deberán ser Usuarios de al menos una sociedad de información crediticia, debiendo proporcionar periódicamente la información sobre todos los créditos, préstamos o financiamientos que otorguen, en los términos previstos por la Ley para Regular las Sociedades de Información Crediticia.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 23 Bis 2.
+
+La provisión de servicios adicionales por parte de las Entidades Financieras deberá ser clara, sin provocar de manera engañosa o sorpresiva el consentimiento del Cliente para la aceptación de los servicios y productos.
 
 ### Capítulo V. Del procedimiento administrativo sancionador (sic)
 
@@ -846,6 +1014,10 @@ X. No den respuesta oportuna a la solicitud del Cliente o no le entreguen el dic
 
 XI. Cobren comisiones por sobregiro o intento de sobregiro en un crédito, préstamo o financiamiento revolvente asociado a una tarjeta.
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XII. Condicionen la contratación de operaciones o servicios a la contratación de otra operación o servicio, en contravención de lo dispuesto por los artículos 18 Bis 5 y 23 Bis de la presente Ley.
+
 > <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 En los casos a que se refiere la fracción V de este artículo, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá, en adición a la imposición de la multa que corresponda, solicitar a las autoridades competentes en materia de radio, televisión y otros medios de prensa, ordene la suspensión de la difusión de la publicidad.
@@ -924,6 +1096,10 @@ l) Otorguen crédito, préstamo o financiamiento en contravención a lo dispuest
 
 m) Cobre comisiones por sobregiro o intento de sobregiro en un crédito, préstamo o financiamiento revolvente asociado a una tarjeta, y
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+n) Condicionen la contratación de operaciones o servicios a la contratación de otra operación o servicio, en contravención de lo dispuesto por los artículos 18 Bis 5 y 23 Bis, de la presente Ley.
+
 En los casos a que se refiere el inciso e) de la fracción II de este artículo, la Procuraduría Federal del Consumidor podrá, en adición a la imposición de la multa que corresponda, solicitar a las autoridades competentes en materia de radio, televisión y otros medios de prensa, ordene la suspensión de la difusión de la publicidad.
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 25 DE JUNIO DE 2009)</small>
@@ -987,6 +1163,36 @@ VIII. Se abstengan de otorgar la información a que se refiere el inciso a) de l
 El Banco de México podrá, previo derecho de audiencia, suspender o limitar de manera parcial las operaciones de las Cámaras de Compensación que incumplan de manera reiterada lo previsto en los artículos 19 y 19 Bis, o en las disposiciones que de ellos emanen.
 
 Asimismo, el Banco de México podrá revocar las autorizaciones mencionadas en el artículo 19 Bis, en caso de que se infrinja de manera reiterada y grave lo previsto en los artículos señalados en el párrafo anterior o en las disposiciones que de éste emanen.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 49 Bis 1.
+
+La Comisión Nacional Bancaria y de Valores podrá practicar visitas de inspección a cualesquiera de los Participantes en Redes y requerirles, dentro de los plazos que la propia Comisión establezca, toda la información y documentación necesaria a efecto de verificar el cumplimiento de esta Ley y la observancia de las disposiciones de carácter general que de ella emanen. Al efecto, la Comisión Nacional Bancaria y de Valores podrá:
+
+a) Requerir toda clase de información y documentación, y
+
+b) Requerir la comparecencia de accionistas, socios, funcionarios, representantes y demás empleados de la Entidad de que se trate.
+
+Asimismo, la Comisión Nacional Bancaria y de Valores, para hacer cumplir sus determinaciones, podrá solicitar o emplear, indistintamente, los siguientes medios de apremio:
+
+I. Amonestación con apercibimiento;
+
+II. Multa de 2,000 a 5,000 días de salario;
+
+III. Multa adicional de 100 días de salario por cada día que persista la infracción;
+
+IV. Clausura temporal, parcial o total; y
+
+V. Auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 49 Bis 2.
+
+La Comisión Nacional Bancaria y de Valores sancionará con multa de 5,000 a 20,000 días de salario, a las Entidades que infrinjan cualquier disposición de esta Ley o las disposiciones de carácter general que expidan la propia Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, en términos de esta Ley en relación con las Redes de Medios de Disposición a que se refiere el Artículo 4 Bis 3. En caso de reincidencia, la Comisión Nacional Bancaria y de Valores podrá imponer sanciones equivalentes hasta por el doble de la prevista.
+
+Con independencia de las demás sanciones que pueda imponer, la Comisión Nacional Bancaria y de Valores, podrá formular observaciones y, en su caso, ordenar la adopción de medidas tendientes a corregir los hechos, actos u omisiones irregulares que haya detectado en ejercicio de las funciones que lleve a cabo conforme a esta Ley.
 
 ### Capítulo VI. Del recurso de revisión (sic)
 
@@ -1093,3 +1299,35 @@ Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento
 Las sociedades de información crediticia deberán obtener la autorización de la Comisión Nacional Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+###### ARTÍCULO QUINTO.
+
+En relación con las modificaciones a que se refieren los Artículos Primero, Segundo, Tercero y Cuarto de este Decreto, se estará a lo siguiente:
+
+I. La Comisión Federal de Competencia Económica contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto para llevar a cabo una investigación sobre las condiciones de competencia en el sistema financiero y sus mercados, para lo cual deberá escuchar la opinión no vinculante de la Secretaría de Hacienda y Crédito Público. Como resultado de dicha investigación la Comisión Federal de Competencia Económica podrá, en su caso, formular recomendaciones a las autoridades financieras para mejorar la competencia en este sistema y sus mercados y ejercer las demás atribuciones que le confiere la Ley Federal de Competencia Económica a fin de evitar prácticas monopólicas, concentraciones y demás restricciones al funcionamiento eficiente de los mercados en este sistema, incluyendo, según corresponda, ordenar medidas para eliminar las barreras a la competencia y la libre concurrencia; ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos, y el resto de las medidas facultadas por la Constitución y la ley de la materia.
+
+II. Las obligaciones derivadas del presente Decreto a cargo de las Instituciones Financieras entrarán en vigor a los noventa días naturales siguientes a su entrada en vigor.
+
+III. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros para emitir las disposiciones de carácter general a que se refiere este Decreto, tendrá un plazo de trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Decreto.
+
+IV. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros contará con el plazo citado en el transitorio anterior para emitir los lineamientos a que se refiere el artículo 84 Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros y poner en funcionamiento el Sistema Arbitral en Materia Financiera.
+
+V. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros contará con un plazo de ciento ochenta días naturales para poner en funcionamiento el Buró de Entidades Financieras, contados a partir de la entrada en vigor del presente Decreto.
+
+Además de lo estipulado por el artículo 8o. Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros respecto a la información del Buró de Entidades Financieras; se deberá incluir como mínimo la información relacionada con reclamaciones, consultas, dictámenes, sanciones administrativas, así como, la eliminación o modificación de cláusulas abusivas, cuya identificación deberá ser por productos o servicios.
+
+VI. La Comisión Nacional Bancaria y de Valores, dentro de los cuarenta y cinco días naturales siguientes a partir de la entrada en vigor de este Decreto, establecerá un programa de identificación, revisión e inspección de las Redes de Medios de Disposición actualmente en operación.
+
+VII. La Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, emitirán las disposiciones de carácter general a que se refiere el artículo 4 Bis 3 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros dentro de los sesenta días naturales siguientes a partir de la entrada en vigor del presente Decreto. Al vencimiento de dicho plazo el Presidente de la Comisión Nacional Bancaria y de Valores, y el Gobernador del Banco de México, comparecerán conjuntamente ante la Cámara de Diputados para informar acerca del ejercicio de esta atribución, y deberán comparecer además a los seis y doce meses siguientes para informar respecto de la evolución del mercado de redes de disposición y respecto de la aplicación de las disposiciones antes referidas.
+
+VIII. El Banco de México emitirá las disposiciones de carácter general a que se refiere el artículo 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros dentro de los sesenta días naturales siguientes a partir de la entrada en vigor del presente Decreto.
+
+IX. La Cámara de Diputados procurará destinar recursos en el presupuesto de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros para el desarrollo de los diferentes programas de educación y cultura financiera que ejerza.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
