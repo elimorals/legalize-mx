@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "2013-04-04"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
 > <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA PRIMERA DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, PUBLICADA EN EL D.O.F. DE 4 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A LOS SETECIENTOS TREINTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -47,7 +47,7 @@ LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 1º.
 
@@ -79,7 +79,7 @@ En la aplicación de esta Ley, la mencionada Secretaría con la intervención qu
 
 Las fianzas y los contratos, que en relación con ellas otorguen o celebren las instituciones de fianzas, serán mercantiles para todas las partes que intervengan, ya sea como beneficiarias, solicitantes, fiadas, contrafiadoras u obligadas solidarias, excepción hecha de la garantía hipotecaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 2º. Bis.
 
@@ -143,7 +143,7 @@ Las autoridades administrativas competentes, a solicitud de parte interesada, po
 
 Las disposiciones a que se refieren los Capítulos IV, V y VI del Título III de esta Ley, así como sus artículos 72, 73, 74, 75, 76 y 77, no se les aplicará lo establecido en los artículos 2o. Bis, 2o. Bis-3 y 2o. Bis-4.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 3º.
 
@@ -153,7 +153,7 @@ Se prohibe a toda persona física o moral distinta a las instituciones de fianza
 
 Salvo prueba en contrario se presume la infracción de este precepto, cuando el otorgamiento de fianzas se ofrezca al público por cualquier medio de publicidad, o se expidan pólizas, o se utilicen agentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 4º.
 
@@ -175,7 +175,7 @@ Se prohíbe a toda persona la intermediación en las operaciones a que se refier
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 5º.
 
@@ -301,7 +301,7 @@ f) Infraestructura para el pago de reclamaciones y atención a los contratantes,
 
 g) Los demás que correspondan a la especialidad de las operaciones que realice la institución.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 9º.
 
@@ -329,7 +329,7 @@ Se exceptúa de la aplicación del párrafo anterior, a los intermediarios y dem
 
 Asimismo, queda prohibido el uso de la palabra "nacional" en la denominación de instituciones de fianzas que no tengan ese carácter.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 11.
 
@@ -351,7 +351,7 @@ En los casos diversos al otorgamiento de fianzas, mientras las instituciones de 
 
 Todas las fianzas que se emitan en papelería oficial de las instituciones de fianzas se presumirán, salvo prueba en contrario, legalmente válidas y las instituciones no podrán objetar la capacidad legal de quien las suscriba.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 13.
 
@@ -377,7 +377,7 @@ La infracción de este precepto será causa de responsabilidad.
 
 ### CAPITULO I. Organización
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 15.
 
@@ -387,21 +387,31 @@ Las instituciones de fianzas deberán ser constituidas como sociedades anónimas
 
 I.- Tendrán por objeto las actividades a que se refieren los artículos 1o. y 16 de esta Ley y las necesarias para su realización;
 
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-I bis.- En razón del origen de los accionistas que suscriban su capital, las instituciones podrán ser:
+I Bis.- Las acciones representativas del capital social de las instituciones de fianzas serán de libre suscripción.
 
-a).- De capital total o mayoritariamente mexicano;
+a) (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-b).- De capital extranjero, en cuyo caso se les considerará como Filiales de Instituciones Financieras del Exterior.
+b) (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+Los gobiernos extranjeros no podrán participar, directa o indirectamente, en el capital de las instituciones de fianzas, salvo en los casos siguientes:
 
-No podrán participar en forma alguna en el capital de dichas instituciones, personas morales extranjeras que ejerzan funciones de autoridad.
+a) Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
 
-En todo lo relativo a su organización, las instituciones a que se refiere el inciso a) de esta fracción, se regirán por lo dispuesto en el presente capítulo, en tanto que a las instituciones a que se refiere el inciso b) de la misma, les será aplicable, además de lo dispuesto en este mismo capítulo, con excepción de la fracción III de este artículo, lo que se establece en el Capítulo I Bis del Título Primero de esta Ley;
+Las instituciones de fianzas que se ubiquen en lo dispuesto en este inciso, deberán entregar a la Comisión Nacional de Seguros y Fianzas, la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto. La Comisión Nacional de Seguros y Fianzas tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información correspondiente, para resolver, previo acuerdo de su Junta de Gobierno, si la participación de que se trata, se ubica en el supuesto de excepción previsto en este inciso.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+b) Cuando la participación correspondiente implique que se tenga el control de la institución de fianzas, en términos del artículo 15, fracción III, tercer párrafo de esta Ley, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión Nacional de Seguros y Fianzas, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que:
+
+1. No ejercen funciones de autoridad, y
+
+2. Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+c) Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de la institución de fianzas, en términos del artículo 15, fracción III, tercer párrafo de esta Ley. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
+
+En todo lo relativo a su organización, las instituciones se regirán por lo dispuesto en el presente capítulo, en tanto que a las instituciones Filiales de Instituciones Financieras del Exterior, les será aplicable, además de lo dispuesto en este mismo capítulo, con excepción de la fracción III de este artículo, lo que se establece en el Capítulo I Bis del Título Primero de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 II.- Deberán contar con un capital mínimo pagado, por cada ramo que se les autorice, expresado en Unidades de Inversión, el cual se deberá cubrir en moneda nacional en el plazo previsto en esta fracción y que será determinado por la Secretaría de Hacienda y Crédito Público durante el primer trimestre de cada año, para lo cual deberá considerarse, entre otros aspectos, los recursos que sean indispensables para apoyar la adecuada prestación del servicio que representa la actividad afianzadora, la suma de los capitales pagados y reservas de capital con que opere el conjunto de instituciones que integren el sistema afianzador, la situación económica del país y el principio de procurar el sano y equilibrado desarrollo del sistema y una adecuada competencia.
 
@@ -429,9 +439,9 @@ Las instituciones podrán emitir acciones no suscritas que conservarán en tesor
 
 Las instituciones podrán emitir acciones sin valor nominal, así como preferentes o de voto limitado. En caso de que existan más de una serie de acciones deberá indicarse expresamente el porcentaje del capital social que podrá corresponder a cada serie.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-El capital social de las instituciones de fianzas podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al treinta por ciento del capital pagado, previa autorización de la Secretaría de Hacienda y Crédito Público. La adquisición de acciones de voto limitado no estará sujeta a lo establecido por la fracción III de este artículo. Estas acciones no computarán para efecto del límite establecido en el último párrafo de la fracción III de este artículo.
+El capital social de las instituciones de fianzas podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al treinta por ciento del capital pagado, previa autorización de la Secretaría de Hacienda y Crédito Público. La adquisición de acciones de voto limitado no estará sujeta a lo establecido por la fracción III de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -463,11 +473,15 @@ Lo dispuesto en el párrafo anterior no será aplicable cuando la participación
 
 La Secretaría de Hacienda y Crédito Público podrá autorizar a las instituciones de crédito para que adquieran acciones de instituciones de fianzas y de las sociedades controladoras a que se refiere la fracción III de este artículo, actuando como fiduciarias en fideicomisos que no se utilicen como medio para contravenir lo dispuesto en esta Ley.
 
-Las entidades afianzadoras, aseguradoras, reaseguradoras o reafianzadoras del exterior y las personas físicas o morales extranjeras distintas de las excluidas en el inciso c) de esta fracción, podrán adquirir acciones representativas del capital de estas instituciones de fianzas. La inversión mexicana siempre deberá mantener la facultad de determinar el manejo de la institución y su control efectivo. A tal efecto, la inversión extranjera deberá hacerse constar en una serie especial de acciones representativas del capital de la sociedad correspondiente, misma que en ningún caso podrá rebasar el cuarenta y nueve por ciento del capital pagado de la sociedad;
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
+Las entidades afianzadoras, aseguradoras, reaseguradoras o reafianzadoras del exterior y las personas físicas o morales extranjeras distintas a las instituciones financieras del exterior, podrán adquirir acciones representativas del capital de estas instituciones de fianzas;
 
-III.- Cualquier persona podrá adquirir mediante una o varias operaciones simultáneas o sucesivas, el control de acciones del capital social pagado de una institución de fianzas, en el entendido de que dichas operaciones deberán obtener la autorización previa de la Secretaría de Hacienda y Crédito Público, escuchando la opinión de la Comisión Nacional de Seguros y Fianzas, cuando excedan del cinco por ciento de dicho capital social pagado, sin perjuicio de lo establecido por la fracción II Bis del presente artículo.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III.- Cualquier persona podrá adquirir mediante una o varias operaciones simultáneas o sucesivas, el control de acciones del capital social pagado de una institución de fianzas, en el entendido de que dichas operaciones deberán obtener la autorización previa de la Secretaría de Hacienda y Crédito Público, escuchando la opinión de la Comisión Nacional de Seguros y Fianzas, cuando excedan del cinco por ciento de dicho capital social pagado.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 En el supuesto de que uno o más accionistas pretendan obtener el control de la administración en una institución de fianzas, deberá acompañar a su solicitud, según corresponda:
 
@@ -481,21 +495,35 @@ d).- Presentar un programa estratégico para la implementación de las política
 
 e).- La demás documentación conexa que requiera la Secretaría de Hacienda y Crédito Público a efecto de evaluar la solicitud correspondiente.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+
 Para efectos de lo dispuesto en esta Ley, se entenderá que se obtiene el control de una institución de fianzas cuando se adquiera el treinta por ciento o más de las acciones representativas del capital social pagado de la propia institución, se tenga el control de la asamblea general de accionistas, se esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración, o por cualquier otro medio se controle a la institución de fianzas de que se trate.
 
 > <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 Salvo lo dispuesto en la Ley para Regular las Agrupaciones Financieras, las sociedades que tengan el control de una institución de fianzas estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable, al igual que a sus accionistas, lo dispuesto en esta fracción y en las fracciones I Bis, penúltimo párrafo, y IV de este artículo, así como el artículo 110 Bis de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+
 Las personas que aporten acciones de una o varias instituciones de fianzas al capital de una de las sociedades a que se refiere el párrafo anterior, podrán mantener la participación que resulte en el capital de la misma, por el valor de las acciones que cada una de ellas aporte.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 Salvo lo dispuesto en la Ley para Regular las Agrupaciones Financieras, en el capital de las señaladas sociedades no podrán participar directa o indirectamente, otra sociedad del mismo tipo, instituciones de crédito, de fianzas, de seguros, organizaciones auxiliares del crédito, casas de bolsa, casas de cambio, sociedades operadoras de sociedades de inversión, administradoras de fondos para el retiro, entidades de ahorro y crédito popular y sociedades mutualistas de seguros, así como aquellas sociedades que la Secretaría de Hacienda y Crédito Público señale mediante disposiciones de carácter general, como incompatibles en razón de sus actividades.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+
 Las sociedades a que se refieren los tres párrafos anteriores no podrán adquirir directa o indirectamente acciones representativas del capital de organizaciones auxiliares del crédito.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 Lo dispuesto en los cuatro párrafos anteriores deberá hacerse constar en los estatutos de las sociedades correspondientes.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+
 Las personas que adquieran o transmitan acciones por más del dos por ciento del capital social pagado de una institución de seguros, deberán dar aviso a la Secretaría de Hacienda y Crédito Público, dentro de los tres días hábiles siguientes a la adquisición o transmisión.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 Las instituciones deberán proporcionar a la Secretaría de Hacienda y Crédito Público y a la Comisión Nacional de Seguros y Fianzas, la información que ésta les requiera con respecto a las personas que directa o indirectamente hayan adquirido las acciones representativas de su capital social pagado, en la forma y sujetándose a las condiciones que establezca la propia Comisión mediante disposiciones de carácter general;
 
@@ -839,19 +867,23 @@ El capital social de las Filiales estará representado por dos series de accione
 
 La totalidad de las acciones Serie "F" de una Filial deberá ser propiedad en todo momento de una Institución Financiera del Exterior, directa o indirectamente, o de una Sociedad Controladora Filial. Las acciones Serie "B" que no sean propiedad de dicha Institución Financiera del Exterior o Sociedad Controladora Filial, estarán sujetas a lo dispuesto en las fracciones II Bis y III del artículo 15 de la presente Ley.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En la autorización para la adquisición de acciones de la serie “F” se observará, en lo conducente, lo establecido en la fracción I Bis, segundo párrafo, del artículo 15 de esta Ley.
+
 Las acciones deberán pagarse íntegramente en el acto de ser suscritas.
 
 Las Filiales no podrán emitir acciones de voto limitado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 15-H.
 
 Las acciones Serie "F" de una Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación para cumplir con lo dispuesto en la fracción III del artículo 15.
+Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -909,7 +941,7 @@ III.- El presidente del consejo deberá elegirse de entre los consejeros propiet
 
 El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario designado por los accionistas de la Serie "F" y, en su caso, un comisario nombrado por los accionistas de la Serie "B", y sus respectivos suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 15-N.
 
@@ -987,7 +1019,7 @@ XIII.- Otorgar préstamos o créditos;
 
 XIV.- Recibir títulos en descuento y redescuento a instituciones de crédito, organizaciones auxiliares del crédito, sociedades financieras de objeto múltiple, así como a fondos permanentes de fomento económico destinados en fideicomiso por el gobierno federal en instituciones de crédito;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 XV.- Actuar como institución fiduciaria sólo en el caso de fideicomisos de garantía con la facultad de administrar los bienes fideicomitidos en los mismos, los cuales podrán o no estar relacionados con las pólizas de fianzas que expidan.
 
@@ -1035,7 +1067,7 @@ En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final d
 
 f).- Los recursos recibidos por las instituciones de fianzas con cargo a contratos de fideicomiso, no podrán computarse como parte de las reservas de carácter técnico que dichas instituciones deben constituir de acuerdo a lo dispuesto en esta Ley, ni podrán considerarse para efecto alguno como parte de los cómputos relativos al requerimiento mínimo de capital base de operaciones previsto en el artículo 18 de la misma; y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 g).- La Secretaría de Hacienda y Crédito Público, escuchando la opinión de la Comisión Nacional de Seguros y Fianzas y del Banco de México, determinará mediante reglas de carácter general el monto máximo de recursos que una institución de fianzas podrá recibir en fideicomiso, considerando su capital pagado, su requerimiento mínimo de capital base de operaciones y cualquier otro elemento que apoye su solvencia.
 
@@ -1257,7 +1289,7 @@ La garantía que consista en obligación solidaria o contrafianza, se aceptará 
 
 En todo caso, el monto de la responsabilidad de la institución no excederá del ochenta por ciento del valor disponible de los bienes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 31.
 
@@ -1299,7 +1331,7 @@ Las instituciones de fianzas deberán establecer procedimientos para dar seguimi
 
 Para la adecuada diversificación de las responsabilidades asumidas por la expedición de fianzas, las instituciones de fianzas podrán celebrar contratos de reafianzamiento o de coafianzamiento en los términos de esta Ley. Asimismo, en la realización de operaciones de cesión de reafianzamiento, las instituciones deberán procurar una adecuada dispersión en el uso de reaseguradores o reafianzadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 33.
 
@@ -1309,7 +1341,7 @@ Ninguna institución de fianzas podrá retener responsabilidades en exceso del l
 
 La institución de fianzas previamente a la expedición de la fianza respectiva, deberá contar con la aceptación por escrito de las demás instituciones de fianzas que participarán en reafianzamiento o coafianzamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 34.
 
@@ -1351,7 +1383,7 @@ La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carác
 
 Las instituciones de fianzas autorizadas para practicar exclusivamente el reafianzamiento, ajustarán sus operaciones a lo dispuesto en la presente Ley y a las disposiciones generales que establezcan la Secretaría de Hacienda y Crédito Público y la Comisión Nacional de Seguros y Fianzas en uso de las facultades que a cada una corresponde y tomando en cuenta la naturaleza y características de operación propias de este tipo de instituciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 38.
 
@@ -1375,7 +1407,7 @@ La Secretaría de Hacienda y Crédito Público mediante disposiciones de caráct
 
 ### CAPITULO III. Activo Computable
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 40.
 
@@ -1419,7 +1451,7 @@ Cuando una institución de fianzas no mantenga los recursos de capital necesario
 
 Las instituciones se sujetarán a las disposiciones de la Comisión Nacional de Seguros y Fianzas para adquirir, enajenar o prometer en venta los inmuebles, certificados de participación inmobiliaria, y derechos fiduciarios, que no sean de garantía, sobre inmuebles, así como para arrendar inmuebles cuando provengan de operaciones de inversión.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 45.
 
@@ -1549,7 +1581,7 @@ La Secretaría de Hacienda y Crédito Público, cuando así se justifique otorga
 
 ### CAPITULO V. Prohibiciones
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 60.
 
@@ -1633,7 +1665,7 @@ VIII.- Entrar en sociedades de cualquier clase, excepto en los casos de inversi�
 
 VIII Bis.- (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 IX.- Adquirir bienes, títulos o valores que no deban conservar en su activo.
 
@@ -1681,7 +1713,7 @@ Tampoco podrán repartir dividendos decretados por sus asambleas generales de ac
 
 Los repartos efectuados en contravención a lo dispuesto en los párrafos anteriores, deberán ser restituidos a la sociedad. Serán solidariamente responsables a este respecto, los accionistas que los hayan percibido y los administradores y funcionarios que los hayan pagado.
 
-> <small>(REFORMADO Y REUBICADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO Y REUBICADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ## TITULO II. Contabilidad, Inspección y Vigilancia
 
@@ -1699,7 +1731,7 @@ Las instituciones de fianzas deberán informar a la Comisión Nacional de Seguro
 
 En vista de estos informes y de los que por otros medios obtenga la Comisión, la misma resolverá oyendo a la institución interesada, sobre si debe registrar pasivo por la responsabilidad a su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 62.
 
@@ -1723,7 +1755,7 @@ IV.- (DEROGADA, D.O.F. 3 DE ENERO DE 1997)
 
 V.- Los bienes o mercancías que tengan un mercado regular se estimarán por su cotización;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 VI.- Los inmuebles urbanos se estimarán por el promedio de avalúos que conforme a las siguientes bases practiquen peritos de instituciones de crédito o corredores públicos designados por las instituciones de fianzas:
 
@@ -1731,7 +1763,7 @@ VI.- Los inmuebles urbanos se estimarán por el promedio de avalúos que conform
 
 a).- Se calculará el valor físico del inmueble, estimando el valor comercial del terreno más el costo de reposición de las construcciones, disminuido el demérito por el uso, según se observe por su estado de conservación y de los castigos que resulten por la ubicación, distribución y demás circunstancias, y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 b).- Igualmente se hará una estimación del valor por renta, capitalizando las rentas líquidas que el inmueble sea capaz de producir, usando los tipos de interés que fijará administrativamente la Comisión Nacional de Seguros y Fianzas, teniendo en cuenta la clase de construcción, el tipo de la misma y demás circunstancias. Para calcular la renta líquida se disminuirán del productobruto (sic) las contribuciones de toda índole, cuotas de agua, gastos de conservación, vacíos, depreciación, seguros y gastos generales de administración.
 
@@ -1869,7 +1901,7 @@ El uso de los medios de identificación que se establezcan conforme a lo previst
 
 En el ejercicio de sus funciones de inspección y vigilancia, la Comisión Nacional de Seguros y Fianzas dará a conocer información relativa a la situación financiera de las instituciones, así como al cumplimiento de los requerimientos sobre sus reservas técnicas, capital mínimo pagado y requerimiento mínimo de capital base de operaciones, en la forma y términos que la propia Comisión señale mediante disposiciones de carácter general.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 68.
 
@@ -1921,7 +1953,7 @@ La interposición del recurso de revocación suspenderá la ejecución de la san
 
 VI.- Las demás que le están atribuidas por esta Ley y otros ordenamientos legales respecto a la fianza a que se refiere esta Ley, siempre que no se trate de meros actos de vigilancia o ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 69.
 
@@ -2013,7 +2045,7 @@ Cuando se encuentre que las obligaciones, el capital o las inversiones de las in
 
 Si transcurrido el plazo señalado la institución de fianzas no ha regularizado su situación, el Presidente de dicha Comisión, podrá ordenar que se suspenda la ejecución de las operaciones contrarias a lo dispuesto por esta Ley, o que se proceda a la liquidación de las mismas, disponiendo, si se estima conveniente, la intervención de la institución y que se proceda a tomar las medidas necesarias para efectuar los cobros y normalizar los documentos y operaciones que se hayan considerado irregulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 73.
 
@@ -2027,7 +2059,7 @@ La intervención administrativa de que habla el párrafo anterior se llevará a 
 
 El interventor-gerente que se designe deberá reunir los requisitos previstos en el artículo 15 fracción VIII Bis-1 para el nombramiento de director general, sin que sea aplicable lo dispuesto en los incisos f) del numeral 3 de la fracción VIII Bis y d) de la fracción VIII Bis-1, del mismo artículo. Asimismo, le serán aplicables las prohibiciones previstas en la fracción VII y XIV del artículo 60 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 74.
 
@@ -2063,7 +2095,7 @@ Cuando la Comisión Nacional de Seguros y Fianzas acuerde levantar la intervenci
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 78.
 
@@ -2133,7 +2165,7 @@ Tales disposiciones deberán propiciar que la propaganda o publicidad se exprese
 
 La Comisión Nacional de Seguros y Fianzas podrá ordenar, previa audiencia de la parte interesada, la modificación o suspensión de la propaganda y publicidad que considere que no se sujeta a lo previsto en este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 81 Bis.
 
@@ -2193,7 +2225,7 @@ El nombramiento de comisarios sólo podrá recaer en personas que cumplan con lo
 
 Los documentos que acrediten la facultad de los representantes de las instituciones de fianzas para otorgar fianzas, así como los facsímiles de sus firmas, deberán registrarse en la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 85.
 
@@ -2275,7 +2307,7 @@ Para los efectos previstos en este artículo, así como en los artículos 60 fra
 
 Para los efectos de esta Ley, se consideran agentes de fianzas a las personas físicas o morales que intervengan en la contratación de fianzas y en el asesoramiento para contratarlas, conservarlas o modificarlas, según la mejor conveniencia de las partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 Para el ejercicio de la actividad de los agentes de las instituciones de fianzas se requerirá autorización de la Comisión Nacional de Seguros y Fianzas. La propia Comisión podrá revocar la autorización, previa audiencia de la parte interesada, en los términos del reglamento respectivo. Estas autorizaciones tendrán el carácter de intransferibles y podrán otorgarse a las siguientes personas cuando satisfagan los requisitos que se establezcan en el Reglamento:
 
@@ -2345,7 +2377,7 @@ Para todos los efectos legales, los recibos expedidos en papelería oficial de l
 
 (DEROGADO, D.O.F. 14 DE JULIO DE 1993)
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA DEL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN Y DEFENSA DEL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 93.
 
@@ -2369,7 +2401,7 @@ Una vez integrada la reclamación en los términos de los dos párrafos anterior
 
 II.- Si a juicio de la institución procede parcialmente la reclamación podrá hacer el pago de lo que reconozca dentro del plazo que corresponda, conforme a lo establecido en la fracción anterior y el beneficiario estará obligado a recibirlo, sin perjuicio de que haga valer sus derechos por la diferencia, en los términos de la siguiente fracción. Si el pago se hace después del plazo referido, la institución deberá cubrir los intereses mencionados en el artículo 95 Bis de esta Ley, en el lapso que dicho artículo establece, contado a partir de la fecha en que debió hacerse el pago, teniendo el beneficiario acción en los términos de los artículos 93 Bis y 94 de esta Ley;
 
-> <small>(REFORMADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA DEL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)</small>
+> <small>(REFORMADA POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN Y DEFENSA DEL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)</small>
 
 III.- Cuando el beneficiario no esté conforme con la resolución que le hubiere comunicado la institución, podrá a su elección, acudir ante la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros a efecto de que su reclamación se lleve a través de un procedimiento conciliatorio, o hacer valer sus derechos ante los Tribunales competentes, conforme a lo establecido en los términos de los artículos 93 bis y 94 de esta Ley; y
 
@@ -2431,7 +2463,7 @@ Las fianzas que se otorguen ante autoridades judiciales, que no sean del orden p
 
 Para el caso de que se hagan exigibles las fianzas señaladas en el párrafo anterior, durante la tramitación de los procesos en los que hayan sido exhibidas, el acreedor de la obligación principal podrá iniciar un incidente para su pago, ante la propia autoridad judicial que conozca del proceso de que se trate, en los términos del Código Federal de Procedimientos Civiles. En este supuesto, al escrito incidental se acompañarán los documentos que justifiquen la exigibilidad de la obligación garantizada por la fianza.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 95.
 
@@ -2441,7 +2473,7 @@ Las fianzas que las instituciones otorguen a favor de la Federación, del Distri
 
 I.- Las instituciones de fianzas estarán obligadas a enviar según sea el caso, a la Tesorería de la Federación, a la Tesorería del Gobierno del Distrito Federal, o bien a las autoridades estatales o municipales que correspondan, una copia de todas las pólizas de fianzas que expidan a su favor;
 
-> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 II.- Al hacerse exigible una fianza a favor de la Federación, la autoridad que la hubiere aceptado, con domicilio en el Distrito Federal o bien en alguna de las entidades federativas, acompañando la documentación relativa a la fianza y a la obligación por ella garantizada deberá comunicarlo a la autoridad ejecutora más próxima a la ubicación donde se encuentren instaladas las oficinas principales, sucursales, oficinas de servicio o bien a la del domicilio del apoderado designado por la institución fiadora para recibir requerimientos de pago, correspondientes a cada una de las regiones competencia de las Salas Regionales del Tribunal Federal de Justicia Fiscal y Administrativa.
 
@@ -2465,7 +2497,7 @@ III.- En el mismo requerimiento de pago se apercibirá a la institución fiadora
 
 IV.- Dentro del plazo de treinta días naturales señalado en el requerimiento, la institución de fianzas deberá comprobar, ante la autoridad ejecutora correspondiente, que hizo el pago o que cumplió con el requisito de la fracción V. En caso contrario, al día siguiente de vencido dicho plazo, la autoridad ejecutora de que se trate, solicitará a la Comisión Nacional de Seguros y Fianzas se rematen en bolsa, valores propiedad de la institución, bastantes para cubrir el importe de lo reclamado;
 
-> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 V.- En caso de inconformidad contra el requerimiento de pago, la institución de fianzas dentro del plazo de 30 días naturales, señalado en la fracción III de este artículo, demandará la improcedencia del cobro ante la Sala Regional del Tribunal Federal de Justicia Fiscal y Administrativa de la jurisdicción que corresponda a la ubicación de los establecimientos o la del apoderado designado, a que se hace cita en la fracción II, primer párrafo de este artículo, donde se hubiere formulado el citado requerimiento, debiendo la autoridad ejecutora, suspender el procedimiento de ejecución cuando se compruebe que se ha presentado oportunamente la demanda respectiva, exhibiéndose al efecto copia sellada de la misma;
 
@@ -2477,7 +2509,7 @@ a).- Por pago voluntario;
 
 b).- Por haberse hecho efectivo el cobro en ejecución forzosa;
 
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 c).- Por sentencia firme del Tribunal Federal de Justicia Fiscal y Administrativa, que declare la improcedencia del cobro;
 
@@ -2779,7 +2811,7 @@ El contralor normativo deberá dar seguimiento a la instrumentación del program
 
 Si como resultado de los informes del contralor normativo o de las labores de inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas, ésta determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, la Comisión, con independencia de que aplique las sanciones que correspondan, solicitará a la institución un plan de regularización en los términos establecidos en el artículo 104 Bis de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 105.
 
@@ -2793,9 +2825,7 @@ I.- Si la sociedad respectiva no presenta para la aprobación de la Secretaría 
 
 II.- Si no mantiene adecuadamente constituidas las reservas técnicas en los términos de esta Ley; cubierto el requerimiento mínimo de capital base de operaciones a que se refieren los artículos 18 y 40 de esta Ley; cubiertas las reservas técnicas en los términos del artículo 59 de esta Ley; o debidamente cubierto el capital mínimo pagado en los términos previstos en la fracción II del artículo 15 con independencia de los plazos a que se refieren los artículos 15, fracción II y 104 de la misma;
 
-> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
-
-III.- Si la institución establece relaciones de dependencia con gobiernos o dependencias oficiales extranjeros;
+III.- (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -2933,7 +2963,7 @@ El síndico al formular el proyecto de graduación, tendrá en cuenta lo dispues
 
 La revocación de la autorización en los términos del artículo 105 de esta Ley, impedirá la declaración de concurso mercantil de la institución de fianzas de que se trate, debiendo procederse a su liquidación administrativa.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO VI. Infracciones y delitos
 
@@ -2967,15 +2997,15 @@ Lo dispuesto en este artículo no excluye la imposición de las sanciones que co
 
 En protección del interés público, la Comisión divulgará las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, señalando exclusivamente la persona sancionada, el precepto infringido y la sanción.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 110 Bis.
 
-Las instituciones de fianzas se abstendrán, sin causa de responsabilidad, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por los artículos 15, fracciones I Bis, penúltimo párrafo, II Bis y III, 15 G y 15 H de esta Ley, debiendo informar tal circunstancia a la Comisión Nacional de Seguros y Fianzas, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
+Las instituciones de fianzas se abstendrán, en su caso, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por los artículos 15, fracciones I Bis, penúltimo párrafo, II Bis y III, 15 G y 15 H de esta Ley, y deberán informar tal circunstancia a la Comisión Nacional de Seguros y Fianzas, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
 
-Las adquisiciones que contravengan lo previsto en los artículos 15, fracciones I Bis, penúltimo párrafo, II Bis y III, 15 G y 15 H de esta Ley estarán afectadas de nulidad relativa, en cuyo caso las personas que hubieren adquirido las acciones no podrán ejercer los derechos sociales y económicos derivados de las acciones de que se trate.
+Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital social de una institución de fianzas, se realicen en contravención a lo dispuesto por los artículos 15, fracciones I Bis, penúltimo párrafo, II Bis y III, 15 G y 15 H de esta Ley, los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de la institución de fianzas quedarán en suspenso y por lo tanto no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda o que se han satisfecho los requisitos que esta Ley contempla.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 111.
 
@@ -3115,7 +3145,7 @@ XXI.- Multa de 200 a 5000 días de salario, si las disposiciones violadas de est
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112.
 
@@ -3201,7 +3231,7 @@ Cuando todos los actos que concurran a la celebración del contrato, incluyendo 
 
 La empresa o negociación que haya efectuado la operación u operaciones que prohibe el referido artículo 3o., será intervenida administrativamente por la Comisión Nacional de Seguros y Fianzas, hasta que la operación u operaciones ilícitas se liquiden.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 1.
 
@@ -3215,7 +3245,7 @@ La misma sanción será aplicable a la o a las personas que sin las facultades c
 
 La o las personas mencionadas y la institución de fianzas, solidariamente responderán de los daños y perjuicios que con este motivo se causen.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 2.
 
@@ -3269,7 +3299,7 @@ VII.- Que intencionalmente inscriban datos falsos en la contabilidad o que produ
 
 Las penas previstas en este artículo se aplicarán también, en su caso, a quienes a sabiendas hayan celebrado el negocio con la institución de fianzas, si se trata de personas físicas, o a quienes hayan representado a las sociedades participantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 3.
 
@@ -3323,7 +3353,7 @@ VII.- Los consejeros, funcionarios, empleados de una Institución de Fianzas o q
 
 La misma sanción se aplicará a los agentes que intermedien en la colocación de la póliza de fianza, siempre y cuando conozcan la alteración.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 4.
 
@@ -3347,7 +3377,7 @@ En los casos previstos en este artículo se procederá a petición de parte agra
 
 Los consejeros, funcionarios o empleados, de instituciones de fianzas o quienes intervengan directamente en el otorgamiento del crédito que con independencia de los cargos e intereses fijados por la institución respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, beneficios por su participación en el trámite u otorgamiento del crédito, para sí o para otro; serán sancionados con prisión de tres meses a tres años cuando el monto de dicho beneficio no sea valuable, o no exceda de quinientos días de salario al momento de cometerse el delito, y de dos a seis años de prisión cuando el beneficio obtenido exceda de quinientos días de salario al momento de cometerse el delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 6.
 
@@ -3469,7 +3499,7 @@ Por reaseguro financiero se entiende el contrato en virtud del cual una empresa 
 
 La institución que reafiance estará obligada, en su caso, a proveer de fondos a la reafianzada, con objeto de que ésta cumpla sus obligaciones como fiadora. La falta de provisión oportuna hará responsable a la reafianzadora de los daños y perjuicios que ocasione a la reafianzada.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 116.
 
@@ -3581,7 +3611,7 @@ VIII.- Cuando la institución de fianzas hubiere aplicado el producto de la vent
 
 IX.- La institución de fianzas responderá ante el deudor prendario, de los daños y perjuicios que se le causen por violaciones al procedimiento establecido en este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 124.
 
@@ -3635,7 +3665,7 @@ Los informes que las instituciones de fianzas adquieran respecto a los solicitan
 
 Cuando exista una reclamación de la Hacienda Pública, ya sea de la Federación, del Distrito Federal, de los Estados, o de los municipios, en contra de una institución de fianzas y en virtud de una caución otorgada por ésta, la institución tendrá el derecho de examinar los libros y cuentas en que aparezca la responsabilidad respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 128.
 
@@ -3731,7 +3761,7 @@ Esteban Uranga, D.P.- Fernando Moctezuma, S.P.- Natalio Vázquez Pallares, D.S.-
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de 1950.- Miguel Alemán.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.- El Secretario de Economía, Antonio Martínez Báez.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Fernando Casas Alemán.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 30 DE DICIEMBRE DE 1953.
 
@@ -3797,7 +3827,7 @@ Quedan derogadas todas las disposiciones legales que se opongan a las reformas c
 
 D.O.F. 19 DE NOVIEMBRE DE 1974.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -3813,7 +3843,7 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 
 D.O.F. 2 DE ENERO DE 1975.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -3835,7 +3865,7 @@ Se concede un plazo de ciento ochenta días para que las instituciones de crédi
 
 D.O.F. 31 DE DICIEMBRE DE 1975.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -3849,13 +3879,13 @@ Se derogan el artículo 16 de la Ley Federal del Impuesto sobre Ingresos Mercant
 
 D.O.F. 30 DE DICIEMBRE DE 1977.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos setenta y ocho.
 
-.
+...
 
 ###### ARTICULO OCTAVO.
 
@@ -3869,9 +3899,9 @@ Las obligaciones a cargo de las instituciones de fianzas, derivadas de las que h
 
 D.O.F. 29 DE DICIEMBRE DE 1978.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-.
+...
 
 ###### ARTICULO SEGUNDO.
 
@@ -3885,9 +3915,9 @@ Las fianzas otorgadas a favor de particulares, exigibles antes de la vigencia de
 
 D.O.F. 29 DE DICIEMBRE DE 1978.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-.
+...
 
 ###### ARTICULO SEGUNDO.
 
@@ -4069,7 +4099,7 @@ La Secretaría de Hacienda y Crédito Público dispondrá, del término de un a�
 
 D.O.F. 18 DE JULIO DE 1990.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -4079,7 +4109,7 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en el 
 
 Se derogan los artículos 15 bis de la Ley Federal de Instituciones de Fianzas, 29 bis de la Ley General de Instituciones de Seguros y 49 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
 
-.
+...
 
 D.O.F. 14 DE JULIO DE 1993.
 
@@ -4133,7 +4163,7 @@ A las inversiones señaladas en los dos párrafos anteriores no les serán aplic
 
 D.O.F. 17 DE NOVIEMBRE DE 1995.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -4165,7 +4195,7 @@ SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda 
 
 D.O.F. 18 DE ENERO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
 
 PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
 
@@ -4179,7 +4209,7 @@ DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 D.O.F. 17 DE MAYO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -4215,7 +4245,7 @@ QUINTO.- La Comisión Nacional contará con un plazo de 120 días hábiles para 
 
 D.O.F. 31 DE DICIEMBRE DE 2000.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 
@@ -4223,7 +4253,7 @@ Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 
 D.O.F. 16 DE ENERO DE 2002.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4311,7 +4341,7 @@ D.O.F. 28 DE ENERO DE 2004.
 
 D.O.F. 24 DE ABRIL DE 2006.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -4325,7 +4355,7 @@ CUARTO.- A las personas que hubieren cometido infracciones con anterioridad a la
 
 D.O.F. 18 DE JULIO DE 2006.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ...
 
@@ -4408,3 +4438,23 @@ Vigésima Cuarta.- Lo dispuesto en los artículos 276 y 283 de la Ley de Institu
 Vigésima Quinta.- Las pólizas de fianza y los contratos de afianzamiento que se hayan suscrito con anterioridad a la fecha de entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, no quedarán afectados en su existencia o validez y no será necesario que sean ratificados o convalidados por esa causa.
 
 Vigésima Sexta.- A las personas que hubieren cometido infracciones o delitos con anterioridad a la entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, les serán aplicables las disposiciones vigentes al momento en que se hubieren realizado dichas conductas, salvo que las disposiciones de este Decreto les resulten favorables, en cuyo caso se aplicarán éstas. Lo dispuesto en el artículo 482 de la Ley de Instituciones de Seguros y de Fianzas, sólo será aplicable a las infracciones que se cometan a partir de su entrada en vigor.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
