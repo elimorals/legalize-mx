@@ -4,7 +4,7 @@ identifier: "LRFXIIIB_ART123"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-30"
-last_updated: "2012-04-09"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRFXIIIB_ART123"
 
 LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 1983.
 
@@ -57,6 +57,10 @@ Los trabajadores serán de confianza o de base.
 Son trabajadores de confianza los Directores Generales y los Subdirectores Generales; los Directores y Subdirectores adjuntos; los Directores y Subdirectores de División o de Area; los Gerentes, Subgerentes y Jefes de División o de Area; los Subgerentes Generales; los Gerentes; las Secretarias de los Gerentes y de sus superiores; los Contadores Generales; los Contralores Generales; los Cajeros y Subcajeros Generales; los Representantes Legales y Apoderados Generales; así como aquellos que conforme al catálogo general de puestos de las instituciones administren, controlen, registren o custodien información confidencial básica de carácter general de las operaciones, o bien desempeñen funciones de dirección, inspección, vigilancia, fiscalización, investigación científica, asesoría o consultoría, cuando éstas tengan carácter general. En el Banco de México, además de los anteriores, son trabajadores de confianza los que señale su Ley Orgánica.
 
 En la formulación, aplicación y actualización del catálogo general de puestos de la institución, participarán conjuntamente ésta y el Sindicato. En los puestos de confianza, el sindicato participará para los efectos previstos en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las remuneraciones, jubilaciones, pensiones, derechos, obligaciones y cualquier prestación aplicable al personal de confianza de las instituciones de banca de desarrollo, serán establecidas en los tabuladores y manuales de remuneraciones, jubilaciones, derechos y obligaciones que se establezcan en los términos del artículo 43 Bis de la Ley de Instituciones de Crédito, por lo que a dichos trabajadores no les resultarán aplicables las condiciones generales de trabajo de la respectiva institución.
 
 ###### ARTICULO 4o.
 
@@ -323,3 +327,25 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo Séptimo, Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
+
+I. El Congreso de la Unión, al emitir las leyes reglamentarias a que se refiere el párrafo segundo del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
+
+II. A partir de la entrada en vigor de este Decreto, los trabajadores de confianza de las instituciones de banca de desarrollo quedarán excluidos de la aplicación de las condiciones generales de trabajo de la respectiva institución. Sin perjuicio de lo anterior, los derechos adquiridos de los trabajadores de confianza que se encuentren laborando en una institución de banca de desarrollo a la fecha de entrada en vigor de este Decreto, deberán ser respetados, previéndose lo conducente en los manuales de remuneraciones y jubilaciones a que se refiere el artículo 43 Bis de la Ley de Instituciones de Crédito, reformado en los términos del presente Decreto.
+
+III. En un plazo de sesenta días naturales siguientes a la entrada en vigor de este Decreto, las sociedades nacionales de crédito deberán extinguir el fideicomiso constituido en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.
+
+IV. Las funciones de banca social previstas en la reforma al artículo 3 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, se deberán implementar por la institución a partir del 1o de enero de 2014, por lo que en el PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2014 deberá preverse la asignación de recursos para fortalecer el patrimonio del Banco del Ahorro Nacional y Servicios Financieros a fin de que pueda cumplir su objeto como Banca Social.
+
+V. En un plazo de noventa días naturales, la Secretaría de Hacienda y Crédito Público realizará una evaluación de los subsidios, apoyos, programas, fondos, fideicomisos otorgados y administrados por las entidades de la Administración Pública Federal, con la finalidad diagnosticar la factibilidad de que sean canalizados a través de un nuevo sistema único de financiamiento y fomento agropecuario y rural.
+
+VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones jurídicas emitidas con anterioridad al presente Decreto, así como todos los contratos, convenios y demás actos jurídicos celebrados por la institución, hagan referencia a la Financiera Rural, se entenderá que hacen referencia a la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
