@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2006-07-18"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINCUAGÉSIMO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS Y EL TRANSITORIO ÚNICO DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, PUBLICADA EN EL D.O.F. DE 10 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -998,7 +1000,7 @@ México, D.F., a 14 de julio de 1990.- Dip. Humberto Roque Villanueva, President
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los dieciséis días del mes de julio de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 9 DE JUNIO DE 1992.
 
@@ -1205,3 +1207,31 @@ DÉCIMO.- El artículo Sexto de este Decreto entrará en vigor el día siguiente
 Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado cuyas acciones con derecho a voto que representen, cuando menos, el cincuenta y uno por ciento de su capital social sean propiedad de sociedades controladoras de grupos financieros con anterioridad a la fecha en que se cumplan siente años de la publicación del presente Decreto en el Diario Oficial de la Federación, serán consideradas como integrantes de dichos grupos financieros en tanto continúe vigente la autorización que la Secretaría de Hacienda y Crédito Público les haya otorgado a dichas entidades para constituirse, operar, organizarse y funcionar, según sea el caso, con tal carácter. En este supuesto, seguirá siendo aplicable en lo conducente la Ley para Regular las Agrupaciones Financieras.
 
 En caso que, conforme a lo dispuesto por el presente Decreto, las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado referidas en el párrafo anterior adopten la modalidad de sociedades financieras de objeto múltiple y las acciones con derecho a voto representativas de, cuando menos, el cincuenta y uno por ciento de su capital social permanezca bajo la propiedad de la sociedad controladora de que se trate, dichas sociedades serán consideradas como integrantes del grupo financiero respectivo en términos del artículo 7 de la Ley para Regular las Agrupaciones Financieras, reformado por este Decreto, siempre y cuando se inscriban en el Registro Público de Comercio las reformas correspondientes a los estatutos sociales de la sociedad controladora, se modifique el convenio de responsabilidades a que se refiere el artículo 28 de la misma Ley y la Secretaría de Hacienda y Crédito Público apruebe la modificación a la autorización otorgada al grupo financiero de que se trate para constituirse y funcionar con tal carácter. Las responsabilidades de la controladora subsistirán en tanto no queden totalmente cumplidas todas las obligaciones contraídas por las sociedades que dejan de tener el carácter de arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado, antes de la inscripción señalada.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+ARTÍCULO QUINCUAGÉSIMO SEGUNDO.- En relación con las modificaciones a que se refiere el Artículo Quincuagésimo Primero de este Decreto, se estará a lo siguiente:
+
+I. A partir de la fecha de entrada en vigor de la presente Ley quedará abrogada la Ley para Regular las Agrupaciones Financieras publicada en el Diario Oficial de la Federación el 18 de julio de 1990, así como todas las disposiciones que se opongan a la presente Ley. No obstante lo anterior, los trámites que se hubieran iniciado antes de la entrada en vigor de la presente Ley, continuarán desahogándose conforme a dicha Ley, hasta su conclusión.
+
+II. En tanto se emiten las disposiciones de carácter general a que se refiere la presente Ley, seguirán aplicándose las emitidas con anterioridad a su entrada en vigor en lo que no se opongan a lo previsto en la misma.
+
+III. Las Sociedades Controladoras contarán con un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el mismo. Tratándose de la modificación de los estatutos sociales, éstos deberán someterse a la aprobación de la Secretaría.
+
+IV. Las Sociedades Controladoras y Grupos Financieros que a la entrada en vigor de esta Ley cuenten con autorización para constituirse y funcionar como tales conforme a la Ley para Regular las Agrupaciones Financieras que se abroga, se tendrán por autorizados en términos del artículo 11 de esta Ley.
+
+V. Las Comisiones supervisoras deberán elaborar el instrumento de colaboración señalado en el artículo 110 dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley.
+
+VI. Al Consejo Nacional de Inclusión Financiera creado mediante Acuerdo publicado en el Diario Oficial de la Federación el 3 de octubre de 2011, le serán aplicables las reglas de operación emitidas en términos del citado Acuerdo, en lo que no se oponga a la presente Ley, hasta en tanto el propio Consejo no emita nuevas reglas.
+
+En tanto el Consejo de Estabilidad del Sistema Financiero no emita las reglas de operación para su funcionamiento, seguirán aplicándose las que le resulten aplicables en términos del Acuerdo publicado en el Diario Oficial de la Federación el 29 de julio de 2010, en lo que no se oponga a la presente Ley.
+
+El Comité de Educación Financiera seguirá aplicando las reglas de operación vigentes, en lo que no se oponga a la presente Ley, hasta en tanto se emitan nuevas reglas.
+
+VII. Las infracciones y delitos cometidos antes de la entrada en vigor de esta Ley, se sancionarán conforme a la Ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
