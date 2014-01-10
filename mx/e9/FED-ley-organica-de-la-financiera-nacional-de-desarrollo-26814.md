@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-financiera-nacional-de-desarrollo-26814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-26"
-last_updated: "2012-04-09"
+last_updated: "2014-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26814&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2002-12-23"
 ---
 # LEY ORGANICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO - ANTES - LEY ORGANICA DE LA FINANCIERA RURAL
 
-LEY ORGÁNICA DE LA FINANCIERA RURAL
+LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de diciembre de 2002.
 
@@ -41,13 +41,17 @@ SE MODIFICA Y ADICIONA EL ARTICULO 2o. DE LA LEY DE INGRESOS DE LA FEDERACION PA
 
 Se expide la siguiente:
 
-LEY ORGANICA DE LA FINANCIERA RURAL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 2014)</small>
+
+LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
 ### CAPITULO PRIMERO. Disposiciones Preliminares
 
+REFORMADO, D.O.F. 10 DE ENERO DE 2014)
+
 ###### Artículo 1o.
 
-La presente Ley crea y rige a la Financiera Rural, como organismo descentralizado de la Administración Pública Federal, sectorizado en la Secretaría de Hacienda y Crédito Público, con personalidad jurídica y patrimonio propio.
+La presente Ley crea y rige a la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, como organismo descentralizado de la Administración Pública Federal, sectorizado en la Secretaría de Hacienda y Crédito Público, con personalidad jurídica y patrimonio propio.
 
 ###### Artículo 2o.
 
@@ -55,11 +59,15 @@ La Financiera tendrá como objeto coadyuvar a realizar la actividad prioritaria 
 
 La Financiera apoyará actividades de capacitación y asesoría a los Productores para la mejor utilización de sus recursos crediticios, así como para aquellos que decidan constituirse como Intermediarios Financieros Rurales.
 
-En el desarrollo de su objeto y con el fin de fomentar el desarrollo integral del sector rural, la Financiera coadyuvará al mejoramiento del sector financiero del país vinculado a las actividades agropecuarias, forestales, pesqueras y del medio rural, tal y como se define en el artículo 3o. fracciones I, II y artículo 116, en lo que corresponda, de la Ley de Desarrollo Rural Sustentable; a preservar y mantener los recursos de su patrimonio destinados al otorgamiento de créditos y manejará sus recursos de manera prudente, eficiente y transparente.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En el desarrollo de su objeto y con el fin de fomentar el desarrollo integral del sector rural, la Financiera coadyuvará al mejoramiento del sector financiero del país vinculado a las actividades agropecuarias, forestales, pesqueras y del medio rural, tal y como se define en el artículo 3o. fracciones I, II y artículo 116, en lo que corresponda, de la Ley de Desarrollo Rural Sustentable; y manejará sus recursos de manera prudente, eficiente y transparente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 3o.
 
-La Financiera Rural tendrá su domicilio en el Distrito Federal. Para el cumplimiento de su objeto, podrá establecer coordinaciones regionales, agencias y módulos en el territorio nacional.
+La Financiera tendrá su domicilio en el Distrito Federal. Para el cumplimiento de su objeto, podrá establecer coordinaciones regionales, agencias y módulos en el territorio nacional.
 
 La Financiera tendrá una duración indefinida.
 
@@ -79,7 +87,9 @@ II. Consejo, al consejo directivo de la Financiera;
 
 III. Estatuto Orgánico, al estatuto orgánico de la Financiera;
 
-IV. Financiera, al organismo descentralizado Financiera Rural;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Financiera, al organismo descentralizado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero;
 
 V. Intermediarios Financieros Rurales, a las sociedades cooperativas de ahorro y préstamo y sociedades financieras populares que se regulan en la Ley de Ahorro y Crédito Popular; a las uniones de crédito y almacenes generales de depósito a que se refiere la Ley de la materia, y a los demás intermediarios financieros que determine la legislación vigente, así como aquellos que acuerde el Consejo y coadyuven al cumplimiento del objeto de la Financiera;
 
@@ -177,25 +187,37 @@ La Financiera elaborará su programa institucional, de conformidad con los linea
 
 Conforme al marco mencionado en el párrafo anterior, la Financiera formulará anualmente sus estimaciones de ingresos, sus programas operativo y financiero y su presupuesto general de gasto e inversión.
 
-> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 8o. Bis.
 
-El Gobierno Federal responderá en todo tiempo de las operaciones pasivas concertadas por Financiera Rural con la banca de desarrollo, los fideicomisos públicos para el fomento económico y los organismos financieros internacionales.
+El Gobierno Federal responderá en todo tiempo de las operaciones pasivas concertadas por la Financiera con:
+
+I. La banca de desarrollo;
+
+II. Los fideicomisos públicos para el fomento económico;
+
+III. Los organismos financieros internacionales; y
+
+IV. Las instituciones del extranjero gubernamentales e intergubernamentales.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 9o.
 
-El otorgamiento de los préstamos o créditos a que se refiere la fracción I del artículo 7o. de esta Ley se ajustará a lo siguiente:
+El otorgamiento de los préstamos o créditos a que se refiere la fracción I del artículo 7o. de esta Ley se ajustarán a los montos, instancias de autorización y lineamientos que apruebe el Consejo.
 
-I. Aquellos préstamos o créditos cuyo monto principal sea hasta una cantidad equivalente en moneda nacional a setecientas mil unidades de inversión, deberán ajustarse a los lineamientos aprobados por el Consejo y serán aprobados por las instancias locales de las coordinaciones regionales que señale el Estatuto Orgánico;
+Los préstamos o créditos que sean materia de autorización por parte del Consejo, deberán ser previamente opinados por el Comité de Crédito:
 
-II. Aquellos préstamos o créditos cuyo monto principal sea por cantidades equivalentes en moneda nacional, mayores a setecientas mil unidades de inversión y hasta la cantidad que para los efectos de esta fracción sea fijada por el Consejo, deberán sujetarse a los lineamientos aprobados por el propio Consejo y requerirán autorización, en cada caso, del Comité de Crédito, y
+I. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-III. Aquellos préstamos o créditos cuyo monto principal sea una cantidad equivalente en moneda nacional mayor a la fijada por el Consejo para efectos de la fracción anterior, deberán ser autorizados, en cada caso, por el propio Consejo, previa opinión del Comité de Crédito.
+II. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-Los préstamos o créditos mencionados en esta fracción únicamente podrán otorgarse para complementar el financiamiento o apoyo a los Productores que sean concedidos por el Gobierno Federal, los gobiernos de las entidades federativas y municipales o por algún intermediario financiero.
+III. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-Los préstamos y créditos referidos en esta fracción otorgados en un año, no podrán exceder del porcentaje del total de la cartera crediticia de la Financiera que determine anualmente el Consejo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los préstamos o créditos que sean aprobados por el Consejo otorgados en un año, no podrán exceder del porcentaje del total de la cartera crediticia de la Financiera que determine anualmente el Consejo.
 
 ###### Artículo 10.
 
@@ -207,7 +229,13 @@ Los lineamientos citados deberán incluir, entre otros aspectos, los relativos a
 
 Para el otorgamiento de sus préstamos o créditos, la reestructuración de operaciones, el otorgamiento de recursos adicionales sobre créditos otorgados y, en general, para la celebración de sus operaciones y prestación de sus servicios, la Financiera deberá tomar en cuenta el historial crediticio del acreditado, así como los demás elementos a que se refiere el artículo 65 de la Ley de Instituciones de Crédito.
 
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN CONTENIDO.
+
+Como excepción a lo anterior, a fin de mantener la operación de la planta productiva, la Financiera podrá otorgar financiamiento para el cumplimiento de obligaciones asumidas y, en aquellos casos que se requiera atención inmediata podrá otorgar créditos considerando integralmente sólo la viabilidad del crédito con lo adecuado y suficiente de las garantías, en ambos casos, previa autorización del Consejo.
+
 En las bases para el otorgamiento de créditos de la Financiera se preverán las disposiciones que regulen los créditos relacionados.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO EXISTÍA DESDE EL TEXTO ORIGINAL, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 10 DE ENERO DE 2014, SE ADVIERTE QUE SE RECORRIÓ PARA SER UN NUEVO PÁRRAFO.</small>
 
 La Financiera será considerada como entidad financiera para todos los efectos de la Ley para Regular las Sociedades de Información Crediticia.
 
@@ -331,15 +359,21 @@ I. El Secretario de Hacienda y Crédito Público;
 
 II. El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-III. El Secretario de la Reforma Agraria;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-IV. El Gobernador del Banco de México;
+III. El Secretario de Desarrollo Agrario, Territorial y Urbano;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Un representante designado por el Gobernador del Banco de México dentro de los 3 niveles jerárquicos superiores del instituto central;
 
 V. El Subsecretario de Hacienda y Crédito Público;
 
 VI. El Subsecretario de Fomento a los Agronegocios de la Secretaría de Agricultura;
 
-VII. El Director General de Banca de Desarrollo de la Secretaría de Hacienda;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VII. El Titular de la Unidad de Banca de Desarrollo de la Secretaría de Hacienda;
 
 VIII. El Director General de Agroasemex, S.A.;
 
@@ -385,13 +419,17 @@ Cada consejero propietario designará a su suplente. En el caso de los servidore
 
 Los consejeros independientes no tendrán suplentes y deberán asistir, cuando menos, al setenta por ciento de las sesiones que se hayan convocado en un ejercicio. En caso contrario y de no justificarse las ausencias debidamente en opinión del Consejo, la Secretaría de Hacienda procederá a hacer una nueva designación.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 30.
 
-El Secretario de Hacienda y Crédito Público será el Presidente del Consejo. En su ausencia, presidirá el Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación. En ausencia de ambos, lo hará el Subsecretario de Hacienda y Crédito Público.
+El Secretario de Hacienda y Crédito Público será el Presidente del Consejo. En su ausencia, presidirá el Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación. En ausencia de ambos, lo hará el Subsecretario de Hacienda y Crédito Público o el suplente del Secretario de Hacienda y Crédito Público en ese orden, y a falta de todos los anteriores, quien designen los consejeros presentes.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 31.
 
-El Consejo se reunirá en sesión ordinaria de manera bimestral. El Presidente podrá convocar a sesión ordinaria o extraordinaria cuando lo estime necesario, así como a petición de la mayoría de los consejeros o del Director General, a través del Secretario del Consejo.
+El Consejo se reunirá en sesión ordinaria por lo menos trimestralmente. El Presidente podrá convocar a sesión ordinaria o extraordinaria cuando lo estime necesario, así como a petición de la mayoría de los consejeros o del Director General, a través del Secretario del Consejo.
 
 ###### Artículo 32.
 
@@ -411,7 +449,9 @@ IV. Establecer el porcentaje respecto del promedio anual del saldo de la cartera
 
 V. Aprobar anualmente, previo informe de los comisarios, y dictamen de los auditores externos, los estados financieros de la Financiera y autorizar la publicación de los mismos;
 
-VI. Determinar las políticas generales sobre tasas de interés, plazos, garantías y demás características de las operaciones de la Financiera, orientadas a preservar y mantener los recursos de su patrimonio;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VI. Definir la estrategia y criterios en los que deberá establecerse, entre otros, tasas, plazos, riesgos de las operaciones y tipos de negocio, atendiendo a los rendimientos que el propio Consejo Directivo acuerde como objetivo;
 
 VII. Constituir los comités de Operación, de Crédito, de Administración Integral de Riesgos, el de Recursos Humanos y de Desarrollo Institucional de la Financiera, así como los demás que considere necesarios;
 
@@ -419,23 +459,33 @@ VIII. Dictar las reglas de operación para el funcionamiento de los comités se�
 
 IX. Nombrar al Secretario y Prosecretario del Consejo, a propuesta del Presidente del Consejo, de entre los servidores públicos de la Financiera;
 
-X. Nombrar, a propuesta del Director General, a los servidores públicos de la Financiera que ocupen cargos con las dos jerarquías administrativas inmediatas inferiores a la de aquél, a sus delegados fiduciarios y a los titulares de las coordinaciones regionales;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+X. Nombrar, a propuesta del Director General, a los servidores públicos de la Financiera que ocupen cargos con las dos jerarquías administrativas inmediatas inferiores a la de aquél y a los titulares de las coordinaciones regionales;
 
 XI. Determinar a los intermediarios, distintos a las sociedades cooperativas de ahorro y préstamo, a las sociedades financieras populares, a las uniones de crédito y almacenes generales de depósito, para ser considerados como Intermediarios Financieros Rurales;
 
-XII. Aprobar los lineamientos del Comité de Operación para el otorgamiento de los préstamos o créditos a que se refieren las fracciones I y II del artículo 9o. de esta Ley, cuidando que en todo momento las instancias encargadas del otorgamiento del crédito estén separadas de las que lo promueven;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-XIII. Fijar la cantidad máxima para el otorgamiento de préstamos o créditos, conforme a la fracción II del artículo 9o. de esta Ley;
+XII. Aprobar los lineamientos del Comité de Operación para el otorgamiento de los préstamos o créditos, cuidando que en todo momento las instancias encargadas del otorgamiento del crédito estén separadas de las que lo promueven;
 
-XIV. Autorizar el otorgamiento de préstamos o créditos complementarios a que se refiere la fracción III del artículo 9o. de esta Ley;
+XIII. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-XV. Aprobar los montos globales de préstamos o créditos a los Intermediarios Financieros Rurales, así como los lineamientos del Comité de Operación;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XIV. Autorizar el otorgamiento de préstamos o créditos a que se refiere el segundo párrafo del artículo 9 de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XV. Aprobar los montos globales de préstamos o créditos a los Productores e Intermediarios Financieros Rurales, las instancias que deban autorizar dichos préstamos o créditos y la cantidad máxima que corresponda otorgar a cada instancia;
 
 XVI. Aprobar los lineamientos del Comité de Operación para la recuperación y liquidación, reestructuración, quitas y quebrantos, de los préstamos o créditos otorgados por la Financiera;
 
 XVII. Autorizar la aplicación de las reservas que constituya la Financiera;
 
-XVIII. Determinar los términos y condiciones para la aplicación y, en su caso, enajenación, de los bienes que la Financiera reciba en pago por las operaciones que celebre;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XVIII. Determinar las políticas generales para la aplicación y, en su caso, enajenación, de los bienes que la Financiera reciba en pago por las operaciones que celebre;
 
 XIX. Autorizar las políticas para la celebración de fideicomisos, mandatos y comisiones relacionados con el objeto de la Financiera;
 
@@ -447,11 +497,15 @@ XXII. Aprobar las reglas de operación de los programas que en materia de financ
 
 XXIII. Autorizar el establecimiento, reubicación y cierre de coordinaciones regionales y agencias en el territorio nacional, a propuesta del Director General, conforme a lo dispuesto en el artículo 3o. de esta Ley;
 
-XXIV. Autorizar, con sujeción a las disposiciones que emita la Secretaría de Hacienda en la materia, la estructura orgánica básica, los niveles de puestos, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos, tomando en cuenta las condiciones del mercado laboral imperante en el ámbito financiero; las políticas de ascensos, promociones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones, y demás prestaciones económicas establecidas en beneficio de los trabajadores de la Financiera, a propuesta del Director General, oyendo la opinión del Comité de Recursos Humanos y Desarrollo Institucional, como excepción a lo dispuesto en los artículos 31, fracción XXIV, y 37, fracción XVIII, de la Ley Orgánica de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XXIV. Autorizar, a propuesta del comité de recursos humanos y desarrollo institucional y sin requerir autorizaciones adicionales de dependencia alguna de la Administración Pública Federal, la estructura orgánica básica, niveles de puestos, tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el ámbito financiero; políticas de ascensos y promociones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; y las demás prestaciones económicas establecidas en beneficio de los trabajadores de la Financiera;
 
 XXV. Aprobar las reglas de operación del fondo a que se refiere el último párrafo del artículo 22 de esta Ley, a propuesta del Director General;
 
-XXVI. Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la Financiera requiera para el cumplimiento de su objeto, así como las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que la Financiera deba celebrar con terceros en estas materias, de conformidad con las normas aplicables;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XXVI. Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la Financiera requiera para el cumplimiento de su objeto, así como las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que la Financiera deba celebrar con terceros en estas materias, de conformidad con las normas aplicables; así como aprobar las políticas y bases generales a las que deberá sujetarse la contratación de los servicios que requiera la Financiera para realizar las operaciones y servicios previstos en el artículo 7o. de esta ley;
 
 XXVII. Analizar y aprobar, en su caso, los informes semestrales que rinda el Director General, con la intervención que corresponda a los comisarios;
 
@@ -499,13 +553,19 @@ Los comités a que se refiere el artículo anterior se integrarán por servidore
 
 El Comité de Operación tendrá las facultades siguientes:
 
-I. Someter a consideración y aprobación del Consejo las políticas generales sobre tasas de interés, plazos, garantías y demás características de las operaciones de la Financiera, orientadas a preservar y mantener los recursos de su patrimonio destinados al otorgamiento de créditos;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. Someter a consideración y aprobación del Consejo los lineamientos para el otorgamiento de los préstamos o créditos a que se refieren las fracciones I y II del artículo 9o. de la presente Ley, cuidando que en todo momento las instancias encargadas del otorgamiento del crédito están separadas de las que lo promueven;
+I. Someter a consideración y aprobación del Consejo la estrategia y criterios en los que deberá establecerse, entre otros, tasas de interés, plazos, garantías, riesgos de las operaciones y tipos de negocio y demás características de las operaciones de la Financiera;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Someter a consideración y aprobación del Consejo los lineamientos para el otorgamiento de los préstamos o créditos, cuidando que en todo momento las instancias encargadas del otorgamiento del crédito estén separadas de las que lo promueven;
 
 III. Someter a consideración y aprobación del Consejo los montos globales de préstamos o créditos a Intermediarios Financieros Rurales, así como los lineamientos para el otorgamiento de dichos préstamos o créditos;
 
-IV. Aprobar la reestructuración de créditos otorgados por la Financiera conforme a las fracciones I y II del artículo 9o. de la presente Ley y opinar en las reestructuras de los créditos y préstamos a que se refiere la fracción III del citado artículo;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Aprobar la reestructuración de créditos otorgados por la Financiera cuya instancia de autorización del crédito original hubiesen sido las instancias locales en las Coordinaciones Regionales o el Comité de Crédito y opinar en las reestructuras de los préstamos o créditos que hubiesen sido autorizados por el Consejo;
 
 V. Proponer al Consejo los lineamientos para la recuperación y liquidación, reestructuración, quitas y quebrantos de los préstamos o créditos otorgados por la Financiera, y
 
@@ -515,9 +575,11 @@ VI. Las demás que determine esta Ley, el Estatuto Orgánico y el Consejo.
 
 El Comité de Crédito tendrá las facultades siguientes:
 
-I. Autorizar el otorgamiento de préstamos o créditos, de conformidad con la fracción II del artículo 9o. de esta Ley;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. Opinar al Consejo sobre el otorgamiento de préstamos o créditos complementarios, conforme a lo señalado en la fracción III del artículo 9o. de la presente Ley;
+I. Autorizar el otorgamiento de préstamos o créditos, de conformidad con el segundo párrafo del artículo 9o. de esta Ley;
+
+II. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
 III. Opinar al Comité de Administración Integral de Riesgos sobre la metodología para la estimación de pérdidas y, en su caso, la constitución de reservas, y
 
@@ -527,17 +589,17 @@ IV. Las demás que determine esta Ley, el Estatuto Orgánico y el Consejo.
 
 El Comité de Administración Integral de Riesgos fijará la metodología para la estimación de pérdidas por riesgos de crédito, de mercado, de liquidez, operativos y legales, entre otros; determinará la constitución de reservas, en su caso, y sugerirá al Consejo los términos para la aplicación de dichas reservas, así como las demás atribuciones que el Estatuto Orgánico y el Consejo señalen.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 42.
 
 El Comité de Recursos Humanos y Desarrollo Institucional, estará integrado de la siguiente forma:
 
-I. Dos representantes de la Secretaría de Hacienda; el Subsecretario de Egresos y el Subsecretario de Hacienda y Crédito Público;
+I. Tres representantes de la Secretaría de Hacienda y Crédito Público; el Subsecretario de Egresos, el Subsecretario de Hacienda y Crédito Público y el Titular de la Unidad de Banca de Desarrollo;
 
-II. Una persona que por sus conocimientos y desarrollo profesional tenga amplia experiencia en el área de recursos humanos;
+II. Una persona designada por el Consejo que por sus conocimientos y desarrollo profesional tenga amplia experiencia en el área de recursos humanos;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-III. Un representante de la Secretaría de la Función Pública, que será el Subsecretario de Desarrollo y Simplificación Administrativa.
+III. DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
 IV. El miembro del Consejo Directivo que tenga el carácter de independiente;
 
@@ -547,11 +609,15 @@ VI. Un representante de la Comisión, con voz pero sin voto.
 
 El Director General de la Financiera se abstendrá de participar en las sesiones de la Financiera, que tengan por objeto emitir opiniones o recomendaciones con respecto a su sueldo, prestaciones económicas y de seguridad social.
 
-Este Comité opinará y propondrá, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos, programas de estímulos, ascensos y promociones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Financiera.
+Este Comité opinará y propondrá los tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño, políticas de ascensos y promociones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; y las demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Financiera.
 
-Este Comité sesionará a petición del Director General de la Financiera, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión. De entre los miembros del Comité se designará a un presidente y sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público contará con voto de calidad en caso de empate. Asimismo, el comité contará con un secretario técnico, quien tendrá voz, pero sin voto.
+La Secretaría de Hacienda y Crédito Público establecerá criterios en materia de estructura ocupacional, movimientos salariales, percepciones extraordinarias y prestaciones, los cuales deberán ser observados por el Comité. Asimismo, la Financiera proporcionará a la Secretaría señalada la información que solicite.
+
+Este Comité sesionará a petición del director general de la Financiera, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión. Sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público, quien lo presidirá, contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero sin voto.
 
 Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de Director General.
+
+En caso de ausencia del Subsecretario de Hacienda y Crédito Público, sin perjuicio del derecho de voto de su suplente, presidirá el Comité y ejercerá el voto de calidad el Titular de la Unidad de Banca de Desarrollo.
 
 #### Sección III. Del Director General
 
@@ -565,13 +631,19 @@ El Director General tendrá a su cargo la administración y representación lega
 
 I. En el ejercicio de sus atribuciones de representante legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Financiera. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa y no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo, comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos y revocarlos, y otorgar facultades de sustitución a los apoderados, previa autorización expresa del Consejo cuando se trate de otorgar poderes generales para actos de dominio;
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I Bis. Informar a la Secretaría, previo a la autorización de las instancias correspondientes, las operaciones que pudiesen estar vinculadas con el objeto de las instituciones de banca de desarrollo.
+
 II. Ejecutar los acuerdos del Consejo;
 
 III. Actuar como delegado fiduciario general;
 
 IV. Presentar al Consejo las propuestas que, conforme a esta Ley, correspondan efectuar a los comités de la Financiera;
 
-V. Proponer al Consejo el nombramiento de los servidores públicos de la Financiera que ocupen cargos con las dos jerarquías administrativas inmediatas inferiores a la de aquél, así como a sus delegados fiduciarios;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. Proponer al Consejo el nombramiento de los servidores públicos de la Financiera que ocupen cargos con las dos jerarquías administrativas inmediatas inferiores a la de aquél;
 
 VI. Someter a la autorización del Consejo el establecimiento, reubicación y cierre de coordinaciones regionales y agencias en el territorio nacional;
 
@@ -581,7 +653,9 @@ VIII. Someter a consideración y aprobación del Consejo las reglas de operació
 
 IX. Presentar anualmente al Consejo los programas operativo y financiero, las estimaciones de ingresos anuales y el presupuesto de gastos e inversión para el ejercicio siguiente, en el que se deberán incorporar los requerimientos presupuestarios para la Financiera, los cuales deberán contemplarse en el Presupuesto de Egresos de la Federación;
 
-X. Nombrar a los servidores públicos de la Financiera, distintos de los señalados en la fracción V anterior;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+X. Decidir la designación y contratación de los servidores públicos de la Financiera, distintos de los señalados en la fracción V anterior, así como la designación y remoción de los delegados fiduciarios y administrar al personal en su conjunto;
 
 XI. Remover a los servidores públicos y empleados de la Financiera;
 
@@ -633,29 +707,29 @@ La Financiera estará obligada a suministrar al Banco de México y a la Comisió
 
 ### CAPITULO SEXTO. Del Control, Vigilancia y Evaluación de la Financiera
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 50.
 
-La Financiera contará con un comisario propietario y con un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las reuniones del Consejo. Los comisarios públicos vigilarán y evaluarán la operación de la Financiera y tendrán las atribuciones contenidas en la Ley Federal de las Entidades Paraestatales y demás disposiciones legales aplicables.
+La vigilancia de la Financiera se realizará por los órganos y en los términos señalados en la Ley de Instituciones de Crédito para las instituciones de banca de desarrollo y en las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+Respecto de la vigilancia de la Financiera no será aplicable lo dispuesto en la Ley Federal de las Entidades Paraestatales.
 
 ###### Artículo 51.
 
-La financiera contará con un órgano interno de control, en los términos del artículo 62 de la Ley Federal de las Entidades paraestatales, integrándose el mismo por un titular al frente de dicho órgano, así como por los titulares de las áreas de Auditoría Interna, Auditoria de Control y Evaluación, de Quejas y Responsabilidades, que serán designados por la Secretaría de la Función Pública, en términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Publica Federal, quienes contarán con las facultades que respectivamente se les otorgan en las fracciones III y IV del artículo 47 del Reglamento Interior de la Secretaría de la Función Pública.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2014)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 52.
 
-La Comisión emitirá las reglas prudenciales, de registro de operaciones, de información financiera y para la estimación de activos y, en su caso, de responsabilidades de los servidores públicos de la Financiera. Asimismo, será la encargada de supervisar y vigilar, en términos de su ley, que las operaciones de la Financiera se ajusten a lo establecido en la presente Ley.
+La Comisión emitirá las reglas prudenciales, de registro de operaciones, de información financiera y para la estimación de activos de la Financiera. Asimismo, será la encargada de supervisar y vigilar, en términos de su ley, que las operaciones de la Financiera se ajusten a lo establecido en la presente Ley.
 
 La Comisión podrá establecer programas preventivos o correctivos de cumplimiento forzoso, tendientes a eliminar irregularidades o desequilibrios financieros que puedan afectar la liquidez, solvencia o estabilidad de la Financiera. En todo caso, los programas se instrumentarán mediante acuerdo con la Financiera.
 
 El incumplimiento o violación a la presente Ley se sancionará con multa que impondrá la Comisión equivalente de cien a cincuenta mil veces el salario mínimo general vigente en el Distrito Federal. Para la imposición de las multas se seguirá el procedimiento establecido en el artículo 110 de la Ley de Instituciones de Crédito, cargando su importe contra el patrimonio líquido de la Financiera.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-Adicionalmente a lo dispuesto por los dos párrafos anteriores, en el caso de que la Comisión detecte alguna irregularidad, deberá informar de ello a la Secretaría de la Función Pública.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 En el ejercicio de sus responsabilidades, la Comisión deberá considerar la naturaleza y el objeto propios de la Financiera.
 
@@ -689,11 +763,55 @@ Las infracciones administrativas que se cometan en violación a lo previsto en l
 
 Los ilícitos que se cometan en contra de la Financiera serán sancionados, en lo conducente, de conformidad con lo previsto en el Código Penal Federal y en las demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 59 Bis.
+
+Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no exceda del equivalente a dos mil días de salario.
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, exceda de dos mil y no de cincuenta mil días de salario; se sancionará con prisión de dos a cinco años y multa de dos mil a cincuenta mil días de salario.
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de cincuenta mil, pero no de trescientos cincuenta mil días de salario, se sancionará con prisión de cinco a ocho años y multa de cincuenta mil a doscientos cincuenta mil días de salario.
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de trescientos cincuenta mil días de salario, se sancionará con prisión de ocho a quince años y multa de doscientos cincuenta mil a trescientos cincuenta mil días de salario.
+
+Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a:
+
+I. Las personas que con el propósito de obtener un crédito, proporcionen a la Financiera, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la institución;
+
+II. Las personas que para obtener créditos de Financiera, presenten avalúos que no correspondan a la realidad, resultando como consecuencia de ello quebranto o perjuicio patrimonial para la institución;
+
+III. Los deudores que no destinen el importe del crédito a los fines pactados, y como consecuencia de ello resulte quebranto o perjuicio patrimonial a la institución, y
+
+IV. Los acreditados que desvíen un crédito a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito en condiciones preferenciales.
+
+Las penas previstas en este Artículo se reducirán a un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
+
+En los casos previstos en este Artículo, se procederá a petición de parte de la Financiera.
+
+Para determinar el monto de la operación, quebranto o perjuicio patrimonial, previstos en este artículo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
+
+Lo dispuesto en este artículo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 60.
 
-La Secretaría de Hacienda, oyendo la opinión de la Comisión, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en la Financiera, actos u operaciones que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal Federal o que pretendan auxiliar a la comisión del delito previsto en el artículo 139 del referido Código. La Financiera deberá presentar a esa Secretaría, por conducto de la citada Comisión, reportes sobre las operaciones y servicios que realice con sus clientes y usuarios, por los montos y en los supuestos que en dichas disposiciones se establezcan, así como la información relacionada con los mismos que la Secretaría de Hacienda solicite.
+La Secretaría de Hacienda, oyendo la opinión de la Comisión, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en la Financiera, actos u operaciones que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal Federal o que pretendan auxiliar a la comisión del delito previsto en el artículo 139 o 148 bis del referido Código. La Financiera deberá presentar a esa Secretaría, por conducto de la citada Comisión, reportes sobre las operaciones y servicios que realice con sus clientes y usuarios, por los montos y en los supuestos que en dichas disposiciones se establezcan, así como la información relacionada con los mismos que la Secretaría de Hacienda solicite.
 
 En la elaboración de las disposiciones referidas en este artículo, se tomará en cuenta la naturaleza y las características especiales de las operaciones que realice la Financiera.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 61.
+
+La Financiera prestará los servicios de asistencia y defensa legal a los integrantes de su Consejo Directivo, comités establecidos por el mismo o previstos por disposición normativa y a los servidores públicos que laboren o hubieren laborado en la propia institución, con respecto a los actos que dichas personas realicen en el ejercicio de las funciones que tengan encomendadas por ley y de conformidad con los lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
+
+La mencionada asistencia y defensa legal se proporcionará aun cuando las personas indicadas dejen de desempeñar sus funciones o prestar sus servicios a la Financiera, siempre que se trate de actos realizados en el desempeño de sus funciones o actividades al servicio de la Financiera.
+
+La asistencia y defensa legal se proporcionará con cargo a los recursos con los que cuente la Financiera para estos fines. En caso de que la autoridad competente dicte al sujeto de la asistencia legal resolución definitiva que cause ejecutoria en su contra, dicha persona deberá rembolsar a la Financiera los gastos y cualquier otra erogación que ésta hubiere efectuado con motivo de la asistencia y defensa legal.
+
+Lo dispuesto en este artículo se aplicará sin perjuicio de la obligación que tienen los sujetos de asistencia y defensa legal, de rendir los informes que les sean requeridos en términos de las disposiciones legales aplicables como parte del desempeño de sus funciones.
 
 ## TRANSITORIOS
 
@@ -878,3 +996,25 @@ D.O.F. 9 DE ABRIL DE 2012
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo Séptimo, Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
+
+I. El Congreso de la Unión, al emitir las leyes reglamentarias a que se refiere el párrafo segundo del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
+
+II. A partir de la entrada en vigor de este Decreto, los trabajadores de confianza de las instituciones de banca de desarrollo quedarán excluidos de la aplicación de las condiciones generales de trabajo de la respectiva institución. Sin perjuicio de lo anterior, los derechos adquiridos de los trabajadores de confianza que se encuentren laborando en una institución de banca de desarrollo a la fecha de entrada en vigor de este Decreto, deberán ser respetados, previéndose lo conducente en los manuales de remuneraciones y jubilaciones a que se refiere el artículo 43 Bis de la Ley de Instituciones de Crédito, reformado en los términos del presente Decreto.
+
+III. En un plazo de sesenta días naturales siguientes a la entrada en vigor de este Decreto, las sociedades nacionales de crédito deberán extinguir el fideicomiso constituido en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.
+
+IV. Las funciones de banca social previstas en la reforma al artículo 3 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, se deberán implementar por la institución a partir del 1o de enero de 2014, por lo que en el PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2014 deberá preverse la asignación de recursos para fortalecer el patrimonio del Banco del Ahorro Nacional y Servicios Financieros a fin de que pueda cumplir su objeto como Banca Social.
+
+V. En un plazo de noventa días naturales, la Secretaría de Hacienda y Crédito Público realizará una evaluación de los subsidios, apoyos, programas, fondos, fideicomisos otorgados y administrados por las entidades de la Administración Pública Federal, con la finalidad diagnosticar la factibilidad de que sean canalizados a través de un nuevo sistema único de financiamiento y fomento agropecuario y rural.
+
+VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones jurídicas emitidas con anterioridad al presente Decreto, así como todos los contratos, convenios y demás actos jurídicos celebrados por la institución, hagan referencia a la Financiera Rural, se entenderá que hacen referencia a la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
