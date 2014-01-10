@@ -4,7 +4,7 @@ identifier: "LMV"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2009-05-06"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47153&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Cuarta Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 2005.
 
@@ -110,11 +110,17 @@ b) Celebración de operaciones con valores por cuenta de terceros como comisioni
 
 c) Negociación de valores por cuenta propia con el público en general o con otros intermediarios que actúen de la misma forma o por cuenta de terceros.
 
-XVI. Inversionista calificado, la persona que habitualmente cuente con los ingresos, activos o las características cualitativas que la Comisión establezca mediante disposiciones de carácter general.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XVI. Inversionista calificado, la persona que habitualmente cuente con los ingresos, activos o las características cualitativas que la Comisión establezca mediante disposiciones de carácter general. En las referidas disposiciones la Comisión podrá establecer diferentes tipos de inversionista calificado.
 
 XVII. Inversionista institucional, la persona que conforme a las leyes federales tenga dicho carácter o sea entidad financiera, incluyendo cuando actúen como fiduciarias al amparo de fideicomisos que conforme a las leyes se consideren como inversionistas institucionales.
 
 XVIII. Oferta pública, el ofrecimiento, con o sin precio, que se haga en territorio nacional a través de medios masivos de comunicación y a persona indeterminada, para suscribir, adquirir, enajenar o transmitir valores, por cualquier título.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+También se considerará oferta pública al ofrecimiento que se realice en términos del párrafo anterior, dirigido a ciertas clases de inversionistas.
 
 XIX. Personas relacionadas, las que respecto de una emisora se ubiquen en alguno de los supuestos siguientes:
 
@@ -184,15 +190,19 @@ La Comisión podrá ordenar la rectificación, suspensión o cancelación de la 
 
 Los valores, para ser objeto de oferta pública dentro del territorio nacional, deberán estar inscritos en el Registro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE ESTE PARRAFO, REMITASE AL NUMERAL DECIMO TRANSITORIO DE LA PRESENTE LEY.</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-La oferta pública en el extranjero, de valores emitidos en los Estados Unidos Mexicanos o por personas morales mexicanas, en forma directa o a través de fideicomisos o figuras similares o equivalentes, deberá notificarse a la Comisión describiendo las principales características de la oferta y ajustándose a las disposiciones de carácter general que al efecto expida la Comisión.
+La oferta en el extranjero, de valores emitidos en los Estados Unidos Mexicanos o por personas morales mexicanas, en forma directa o a través de fideicomisos o figuras similares o equivalentes, deberá notificarse a la Comisión describiendo las principales características de la oferta y ajustándose a las disposiciones de carácter general que al efecto expida la Comisión.
 
-Las personas que realicen oferta pública de valores conforme a lo señalado en el párrafo anterior, deberán consignar expresamente en el documento informativo que utilicen para su difusión, que los valores objeto de la oferta no podrán ser ofrecidos, ni negociados en territorio nacional, salvo que dichos actos se lleven a cabo en términos de lo establecido en el artículo 8 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las personas que realicen oferta de valores conforme a lo señalado en el párrafo anterior, deberán consignar expresamente en el documento informativo que utilicen para su difusión, que los valores objeto de la oferta no podrán ser ofrecidos públicamente en territorio nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 8.
 
-La oferta privada de valores en territorio nacional podrá efectuarse por cualquier persona, siempre que se cumpla alguno de los requisitos siguientes:
+La oferta privada de valores no inscritos en el Registro Nacional de Valores en territorio nacional podrá efectuarse por cualquier persona, siempre que cumpla con alguno de los requisitos siguientes:
 
 I. Se realice exclusivamente a inversionistas institucionales o calificados.
 
@@ -288,9 +298,13 @@ Las sociedades anónimas promotoras de inversión que adopten el régimen señal
 
 Los accionistas de las sociedades anónimas promotoras de inversión, tendrán derecho a:
 
-I. Designar y revocar en asamblea general de accionistas a un miembro del consejo de administración, cuando en lo individual o en conjunto tengan el diez por ciento de las acciones con derecho a voto, incluso limitado o restringido, sin que resulte aplicable el porcentaje a que hace referencia el artículo 144 de la Ley General de Sociedades Mercantiles. Tal designación, sólo podrá revocarse por los demás accionistas, cuando a su vez se revoque el nombramiento de todos los demás consejeros, en cuyo caso las personas sustituidas no podrán ser nombradas con tal carácter durante los doce meses inmediatos siguientes a la fecha de revocación.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. Nombrar a un comisario cuando en lo individual o en conjunto tengan el diez por ciento de las acciones con derecho a voto, incluso limitado o restringido, o sin derecho a voto, sin que resulte aplicable el porcentaje que corresponda conforme al artículo 171 de la Ley General de Sociedades Mercantiles. Tal derecho no podrá ejercerse cuando la sociedad se ubique en el régimen previsto en el artículo 15 de esta Ley, por virtud del cual prescindan de la figura del comisario.
+I. Designar y revocar en asamblea general de accionistas a un miembro del consejo de administración por cada diez por ciento que tengan en lo individual o en conjunto de las acciones con derecho a voto, incluso limitado o restringido, sin que resulte aplicable el porcentaje a que hace referencia el artículo 144 de la Ley General de Sociedades Mercantiles. Tal designación, solo podrá revocarse por los demás accionistas, cuando a su vez se revoque el nombramiento de todos los demás consejeros, en cuyo caso las personas sustituidas no podrán ser nombradas con tal carácter durante los doce meses inmediatos siguientes a la fecha de revocación.
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Nombrar a un comisario por cada diez por ciento que tengan en lo individual o en conjunto de las acciones con derecho a voto, incluso limitado o restringido, sin que resulte aplicable el porcentaje que corresponda conforme al artículo 171 de la Ley General de Sociedades Mercantiles. Tal derecho no podrá ejercerse cuando la sociedad se ubique en el régimen previsto en el artículo 15 de esta Ley, por virtud del cual prescindan de la figura del comisario.
 
 III. Solicitar al presidente del consejo de administración o, en su caso, a cualquiera de los comisarios, respecto de los asuntos sobre los cuales tengan derecho de voto, se convoque en cualquier momento a una asamblea general de accionistas, o bien, se aplace por una sola vez la votación de cualquier asunto respecto del cual no se consideren suficientemente informados, para dentro de tres días naturales y sin necesidad de nueva convocatoria, siempre que en lo individual o conjuntamente tengan el diez por ciento del capital social de la sociedad, sin que resulten aplicables los porcentajes a que hacen referencia los artículos 184 y 199 de la Ley General de Sociedades Mercantiles.
 
@@ -346,7 +360,11 @@ I. La asamblea de accionistas acuerde, previo a la inscripción de los valores:
 
 a) La modificación de su denominación social agregando a su denominación social la expresión "Bursátil" o su abreviatura "B".
 
-b) La adopción de la modalidad de sociedad anónima bursátil en un plazo que no podrá exceder de tres años, contado a partir de que surta efectos la inscripción en el Registro.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+b) La adopción de la modalidad de sociedad anónima bursátil en un plazo que no podrá exceder de diez años, contado a partir de que surta efectos la inscripción en el Registro, o bien con anterioridad a dicho plazo, si el capital contable de la sociedad anónima promotora de inversión bursátil de que se trate, al cierre del ejercicio de que se trate, supera el equivalente en moneda nacional de doscientos cincuenta millones de unidades de inversión de acuerdo con los estados financieros anuales, auditados o dictaminados respectivos.
+
+La Comisión, mediante disposiciones de carácter general, establecerá los términos, plazos y condiciones en los cuales las sociedades anónimas promotoras de inversión bursátil adoptarán la modalidad de sociedad anónima bursátil una vez cumplidos los supuestos a que se refiere el párrafo anterior.
 
 c) Un programa en el que se prevea la adopción progresiva del régimen aplicable a las sociedades anónimas bursátiles en el plazo señalado en el inciso b) anterior. Dicho programa, deberá cumplir los requisitos que establezca el reglamento interior de la bolsa de valores en que pretendan listarse las acciones o títulos de crédito que las representen.
 
@@ -372,11 +390,11 @@ a) Las diferencias en el régimen de organización, funcionamiento, revelación 
 
 b) Los términos y condiciones del programa a que hace referencia el artículo 19, fracción I, inciso c) de esta Ley.
 
-c) La mención de que los valores únicamente podrán adquirirse por inversionistas institucionales y calificados, así como por personas que manifiesten por escrito y de manera expresa, en los formatos establecidos por la Comisión para tal efecto mediante disposiciones de carácter general, conocer las características de estas sociedades, así como las diferencias con las sociedades anónimas y las sociedades anónimas bursátiles y los potenciales riesgos que representan las inversiones en ese tipo de valores.
+c) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 II. Obtengan aprobación del programa referido en el citado artículo 19, fracción I, inciso c) del presente ordenamiento legal, por parte de la bolsa en que pretendan listar sus valores.
 
-Los intermediarios del mercado de valores únicamente podrán ofrecer acciones representativas del capital social de sociedades anónimas promotoras de inversión bursátil o títulos de crédito que representen dichas acciones, a los inversionistas y personas a que hace referencia la fracción I, inciso c) de este artículo, siendo aplicable dicha restricción también a las operaciones que realicen en nombre y por cuenta de sus clientes.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 21.
 
@@ -822,7 +840,9 @@ III. Proponer al comité que desempeñe las funciones en materia de auditoría, 
 
 IV. Suscribir la información relevante de la sociedad, junto con los directivos relevantes encargados de su preparación, en el área de su competencia.
 
-V. Difundir la información relevante y eventos que deban ser revelados al público, ajustándose a lo previsto en esta Ley.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. Difundir la información relevante y eventos que deban ser revelados al público, ajustándose a lo previsto en esta Ley, siendo responsable del contenido y oportunidad de dicha información, incluso cuando la difusión de la misma se delegue en terceros, salvo por dolo o culpa inexcusable de dichos terceros.
 
 VI. Dar cumplimiento a las disposiciones relativas a la celebración de operaciones de adquisición y colocación de acciones propias de la sociedad.
 
@@ -848,7 +868,9 @@ El director general, para el ejercicio de sus funciones y actividades, así como
 
 El director general, en la gestión, conducción y ejecución de los negocios de la sociedad, deberá proveer lo necesario para que en las personas morales que controle la sociedad, se dé cumplimiento a lo señalado en el artículo 31 de esta Ley.
 
-Los informes relativos a los estados financieros y a la información en materia financiera, administrativa, económica y jurídica a que se refiere el artículo 104 de esta Ley, deberán estar suscritos, cuando menos, por el director general y demás directivos relevantes que sean titulares de las áreas de finanzas y jurídica o sus equivalentes, en el ámbito de sus respectivas competencias. Asimismo, esta información deberá presentarse al consejo de administración para su consideración y, en su caso, aprobación, con la documentación de apoyo.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los informes relativos a los estados financieros y a la información en materia financiera, administrativa, económica y jurídica a que se refiere el artículo 104 de esta Ley, deberán estar suscritos, cuando menos, por el director general y demás directivos relevantes que sean titulares de las áreas de finanzas y jurídica o sus equivalentes, quienes serán responsables del contenido de tal información, en el ámbito de sus respectivas competencias. Asimismo, esta información deberá presentarse al consejo de administración para su consideración y, en su caso, aprobación, con la documentación de apoyo.
 
 ###### Artículo 46.
 
@@ -908,9 +930,11 @@ La celebración de los convenios referidos en la fracción IV de este artículo 
 
 Los miembros del consejo de administración, el director general y la persona física designada por la persona moral que proporcione los servicios de auditoría externa, podrán asistir a las asambleas de accionistas de la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 50.
 
-Los accionistas titulares de acciones con derecho a voto, incluso limitado o restringido, que en lo individual o en conjunto tengan el diez por ciento del capital social de la sociedad tendrán derecho a:
+Los accionistas titulares de acciones con derecho a voto, incluso limitado o restringido, por cada diez por ciento que tengan en lo individual o en conjunto del capital social de la sociedad, tendrán derecho a:
 
 I. Designar y revocar en asamblea general de accionistas a un miembro del consejo de administración. Tal designación, sólo podrá revocarse por los demás accionistas cuando a su vez se revoque el nombramiento de todos los demás consejeros, en cuyo caso las personas sustituidas no podrán ser nombradas con tal carácter durante los doce meses inmediatos siguientes a la fecha de revocación.
 
@@ -1016,9 +1040,17 @@ El gobierno federal, los organismos autónomos, las entidades federativas, los m
 
 Las personas morales, nacionales o extranjeras, que conforme a las disposiciones legales y reglamentarias tengan la capacidad jurídica para suscribir títulos de crédito, podrán emitir certificados bursátiles, ajustándose a lo previsto en esta Ley.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 62.
 
-Los certificados bursátiles son títulos de crédito que representan la participación individual de sus tenedores en un crédito colectivo a cargo de personas morales o de un patrimonio afecto en fideicomiso. Dichos certificados podrán ser preferentes o subordinados o incluso tener distinta prelación.
+Los certificados bursátiles son títulos de crédito que representan:
+
+I. La participación individual de sus tenedores en un crédito colectivo a cargo de personas morales, o
+
+II. Alguno o algunos de los derechos a que se refiere el artículo 63 de esta Ley respecto de un patrimonio afecto en fideicomiso.
+
+Dichos certificados podrán ser preferentes o subordinados e incluso tener distinta prelación en el derecho al cobro entre sus tenedores, y podrán ser emitidos mediante declaración unilateral de la voluntad.
 
 ###### Artículo 63.
 
@@ -1030,43 +1062,167 @@ II. El derecho a una parte de los frutos, rendimientos y, en su caso, al valor r
 
 III. El derecho a una parte del producto que resulte de la venta de los bienes o derechos que formen el patrimonio fideicomitido.
 
-IV. El derecho de recibir el pago de capital y, en su caso, intereses o cualquier otra cantidad.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Únicamente las instituciones de crédito y las casas de bolsa podrán actuar como fiduciarias en fideicomisos cuya finalidad sea la emisión de certificados bursátiles. Lo anterior, con independencia de que dichas entidades financieras emitan certificados bursátiles por cuenta propia.
+IV. En su caso, el derecho de recibir el pago de capital, intereses o cualquier otra cantidad.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Únicamente las instituciones de crédito, casas de bolsa y sociedades operadoras de sociedades de inversión podrán actuar como fiduciarias en fideicomisos cuya finalidad sea la emisión de certificados bursátiles. Lo anterior, con independencia de que dichas entidades financieras emitan certificados bursátiles por cuenta propia.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 63 Bis.
+
+El administrador del patrimonio del fideicomiso que emita certificados bursátiles fiduciarios indizados, tendrá prohibido:
+
+I. Tener algún vínculo con quienes generen o determinen los índices, activos financieros o parámetros de referencia, y
+
+II. Mantener la custodia del patrimonio del fideicomiso.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 63 Bis 1.
+
+Los certificados bursátiles fiduciarios:
+
+I. Cuyos recursos de la emisión se destinen a la inversión en acciones, partes sociales o el financiamiento de sociedades mexicanas, ya sea directa o indirectamente, a través de varios vehículos de inversión, adicionarán a su denominación de certificados bursátiles fiduciarios la expresión “de desarrollo”.
+
+II. Cuyos recursos de la emisión se destinen a la inversión en inmuebles para su desarrollo, comercialización o administración, en sociedades que lleven a cabo dichas inversiones, o en títulos o derechos de cualquier tipo sobre dichos bienes inmuebles, o una combinación de cualquiera de las anteriores, adicionarán a su denominación de certificados bursátiles fiduciarios la palabra “inmobiliarios”.
+
+III. Que representen derechos respecto de valores, bienes, instrumentos financieros derivados u otros activos que busquen replicar el comportamiento de uno o más índices, activos financieros o parámetros de referencia, agregarán a su denominación de certificados bursátiles fiduciarios la palabra “indizados”.
+
+Los certificados bursátiles fiduciarios a que se refieren las fracciones I a III anteriores, que se encuentren inscritos en el Registro Nacional de Valores, deberán ser listados y negociados a lo largo de las sesiones bursátiles en las bolsas de valores. La Comisión podrá determinar, mediante disposiciones de carácter general, las características de las emisiones de cada uno de dichos certificados bursátiles para efectos de su inscripción en el Registro.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 64.
 
 Los certificados bursátiles deberán contener:
 
-I. La mención de ser certificados bursátiles y títulos al portador.
+I. La mención de ser certificados bursátiles, títulos al portador y su tipo.
 
 II. El lugar y fecha de emisión.
 
-III. La denominación de la emisora y su objeto social. Las entidades federativas y municipios únicamente estarán obligados a señalar su denominación. Tratándose de fideicomisos, adicionalmente deberá indicarse el fin para el cual fueron constituidos.
+III. La denominación de la emisora y su objeto social. Las entidades federativas y municipios únicamente estarán obligados a señalar su denominación. Tratándose de fideicomisos, adicionalmente deberá indicarse el fin para el cual fueron constituidos, sin que sea necesario incluir el objeto social de la institución fiduciaria.
 
-IV. El importe de la emisión, número de certificados y, cuando así se prevea, las series que la conforman, el valor nominal de cada uno de ellos, así como la especificación del destino que haya de darse a los recursos que se obtengan con motivo de la emisión.
+IV. El importe de la emisión, número de certificados y, cuando así se prevea, las series que la conforman, el valor nominal de cada uno de ellos, así como la especificación del destino que haya de darse a los recursos que se obtengan con motivo de la emisión o de cada una de sus series.
 
-V. El tipo de interés o rendimiento que, en su caso, devengarán.
+V. Los derechos que otorgarán a sus tenedores. Asimismo, el tipo de interés o rendimiento que, en su caso, devengarán.
 
 VI. En su caso, el plazo para el pago de capital y de los intereses o rendimientos.
 
-VII. Las condiciones y formas de amortización.
+VII. En su caso, las condiciones y formas de amortización.
 
 VIII. El lugar de pago.
 
-IX. Las obligaciones de dar, hacer o no hacer de la emisora y, en su caso, del garante o del avalista.
+IX. Las obligaciones de dar, hacer o no hacer frente a los tenedores por parte de la emisora y, en su caso, del garante, del avalista, del originador, del fideicomitente y de la sociedad que administre el patrimonio del fideicomiso en caso de que exista y de cualquier otro tercero.
 
 X. Las causas y condiciones de vencimiento anticipado, en su caso.
 
 XI. La especificación de las garantías que se constituyan para la emisión, en su caso.
 
-XII. El nombre y la firma autógrafa del representante o apoderado de la persona moral, quien deberá contar con facultades generales para actos de administración y para suscribir títulos de crédito en los términos de las leyes aplicables, así como para actos de dominio cuando se graven o afecten activos de la sociedad.
+XII. El nombre y la firma autógrafa del representante o apoderado de la persona moral, quien deberá contar con facultades generales para actos de administración y para suscribir títulos de crédito en los términos de las leyes aplicables, así como para actos de dominio cuando se graven o afecten activos de la sociedad, como garantía o fuente de pago de los valores respectivos.
 
-XIII. La firma autógrafa del representante común de los tenedores, haciendo constar su aceptación y declaración de haber comprobado la constitución y existencia de los bienes objeto de las garantías de la emisión, así como sus obligaciones y facultades.
+XIII. En su caso, la firma autógrafa del representante común de los tenedores, haciendo constar su aceptación y declaración de haber comprobado la constitución y existencia de los bienes objeto de las garantías de la emisión, así como sus obligaciones y facultades.
 
-La emisión de los certificados bursátiles podrá constar en diferentes series, las cuales conferirán a sus tenedores los derechos que se prevea para cada una de ellas.
+Este requisito no será necesario en el caso de certificados bursátiles que no deban inscribirse en el Registro.
+
+XIV. Las facultades de la asamblea de tenedores y, en su caso, de los demás órganos decisorios que se contemplen.
+
+Lo dispuesto en las fracciones V y XIV deberá cumplirse de conformidad con lo establecido en el artículo 64 Bis 1 de esta Ley.
+
+La emisión de los certificados bursátiles podrá constar en diferentes series, las cuales conferirán a sus tenedores los derechos que se prevea para cada una de ellas. En todo caso, los tenedores de la misma serie contarán con los mismos derechos.
+
+Cuando se trate de emisiones de certificados bursátiles fiduciarios de desarrollo, y se prevea la posibilidad de efectuar las llamadas de capital a que esta Ley se refiere, deberán especificarse los términos y condiciones en que podrán efectuarse, incluyendo los derechos y obligaciones de los tenedores.
+
+En el caso de que un fiduciario lleve a cabo emisiones de dos o más series de certificados bursátiles fiduciarios bajo un mismo fideicomiso, podrá establecerse que los bienes o derechos afectos a las cuentas o subcuentas que correspondan a cada serie solo podrán ser destinados al cumplimiento de las obligaciones de la serie respectiva, sin que puedan ser utilizados para el cumplimiento de obligaciones bajo series distintas aun en el caso de concurso mercantil o quiebra del fideicomiso emisor.
 
 Los certificados bursátiles podrán llevar cupones adheridos para el pago de intereses y, en su caso, para las amortizaciones parciales, los cuales podrán negociarse por separado. Los títulos podrán amparar uno o más certificados y se mantendrán depositados en alguna de las instituciones para el depósito de valores reguladas en la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 64 Bis.
+
+Los contratos de fideicomiso para la emisión de los certificados bursátiles fiduciarios de desarrollo, inmobiliarios o indizados, deberán prever la realización de las inversiones en los bienes y derechos a que alude el artículo 63 Bis 1 de esta Ley, según corresponda, así como los términos y condiciones conforme a los cuales se efectuarán tales inversiones.
+
+Tratándose de certificados bursátiles fiduciarios indizados el contrato de fideicomiso deberá establecer que su fin sea la emisión de los valores, así como la inversión en los activos o la realización de operaciones que le permitan replicar un índice, activo financiero o parámetro de referencia, salvo que mediante disposiciones de carácter general la Comisión autorice inversiones diversas.
+
+En los casos de certificados bursátiles fiduciarios indizados que busquen obtener explícitamente rendimientos mayores a los del índice, activo financiero o parámetro de referencia, se deberá prever la contratación de una sociedad operadora de sociedades de inversión para la administración y el manejo del patrimonio fideicomitido.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 64 Bis 1.
+
+Los documentos de la emisión relativos a emisiones de certificados bursátiles fiduciarios de desarrollo o inmobiliarios, según corresponda, que sean inscritos en el Registro deberán establecer las previsiones y derechos mínimos siguientes:
+
+I. La asamblea general de tenedores de certificados bursátiles fiduciarios de desarrollo o inmobiliarios deberá reunirse previa convocatoria que realice el fiduciario con al menos diez días de anticipación, a través de las bolsas de valores en donde coticen los certificados bursátiles fiduciarios de que se trate, en términos de las disposiciones de carácter general que al efecto expida la Comisión.
+
+Las facultades de la asamblea general de tenedores que a continuación se describen:
+
+a) Aprobar cambios en el régimen de inversión del patrimonio fideicomitido.
+
+b) Determinar la remoción de la sociedad que administre el patrimonio del fideicomiso.
+
+c) Aprobar las operaciones que pretendan realizarse cuando representen el veinte por ciento o más del patrimonio del fideicomiso, con base en cifras correspondientes al cierre del trimestre inmediato anterior, considerando, en su caso, los compromisos de inversión de las llamadas de capital, con independencia de que dichas operaciones se ejecuten de manera simultánea o sucesiva en un periodo de doce meses contados a partir de que se concrete la primera operación, pero que pudieran considerarse como una sola.
+
+II. Los derechos de los tenedores de los certificados bursátiles fiduciarios de desarrollo o inmobiliarios siguientes:
+
+a) Oponerse judicialmente a las resoluciones de las asambleas generales de tenedores, cuando en lo individual o en su conjunto representen el veinte por ciento o más del número de certificados bursátiles fiduciarios en circulación, y siempre que los reclamantes no hayan concurrido a la asamblea o hayan dado su voto en contra de la resolución y se presente la demanda correspondiente dentro de los quince días siguientes a la fecha de la adopción de las resoluciones, señalando en dicha demanda la disposición contractual incumplida o el precepto legal infringido y los conceptos de violación.
+
+La ejecución de las resoluciones impugnadas podrá suspenderse por el juez, siempre que los demandantes otorguen fianza bastante para responder de los daños y perjuicios que pudieren causarse al resto de los tenedores por la inejecución de dichas resoluciones, en caso de que la sentencia declare infundada o improcedente la oposición.
+
+La sentencia que se dicte con motivo de la oposición surtirá efectos respecto de todos los tenedores. Todas las oposiciones en contra de una misma resolución, deberán decidirse en una sola sentencia.
+
+b) Ejercer acciones de responsabilidad en contra de la sociedad que administre el patrimonio del fideicomiso por el incumplimiento a sus obligaciones, cuando en lo individual o en su conjunto representen el quince por ciento o más del número de certificados bursátiles fiduciarios de desarrollo o inmobiliarios en circulación.
+
+Las acciones que tengan por objeto exigir responsabilidad en términos de este artículo, prescribirán en cinco años contados a partir de que se hubiere realizado el acto o hecho que haya causado el daño patrimonial correspondiente.
+
+c) Designar a un miembro del comité técnico, por la tenencia, individual o en conjunto, de cada diez por ciento del número total de certificados bursátiles fiduciarios de desarrollo o inmobiliarios en circulación. Tal designación solo podrá revocarse por los demás tenedores cuando a su vez se revoque el nombramiento de todos los integrantes del comité técnico u órgano equivalente; en este supuesto, las personas sustituidas no podrán ser nombradas durante los doce meses siguientes a la revocación.
+
+d) Solicitar al representante común que convoque a una asamblea general de tenedores, así como que se aplace por una sola vez, por tres días naturales y sin necesidad de nueva convocatoria, la votación de cualquier asunto respecto del cual no se consideren suficientemente informados, cuando en lo individual o en su conjunto representen el diez por ciento o más del número de certificados bursátiles en circulación.
+
+e) Tener a su disposición de forma gratuita y con al menos diez días naturales de anticipación a la asamblea general de tenedores, en el domicilio que se indique en la convocatoria, la información y documentos relacionados con los puntos del orden del día.
+
+f) Celebrar convenios para el ejercicio del voto en las asambleas generales de tenedores. En todo caso, deberán notificarlos al fiduciario, incluyendo sus características, dentro de los cinco días hábiles siguientes al de su concertación, para que sean revelados por el propio fiduciario al público inversionista a través de las bolsas de valores en donde coticen los certificados bursátiles fiduciarios de que se trate, en términos de las disposiciones de carácter general que al efecto expida la Comisión.
+
+IV. El fideicomiso emisor deberá contar con un comité técnico integrado por lo menos con un veinticinco por ciento de miembros independientes.
+
+Por miembro independiente se entenderá aquella persona que se ajuste a lo previsto en los artículos 24, segundo párrafo y 26 de esta Ley. La independencia se calificará respecto del fideicomitente así como de la sociedad que administre el patrimonio del fideicomiso o a quien se encomienden dichas funciones.
+
+Igualmente, el documento constitutivo del fideicomiso emisor y los documentos de la emisión conducentes, deberán prever las facultades del comité técnico a que se refiere la presente fracción.
+
+Los miembros del comité técnico podrán celebrar convenios para ejercer el derecho de voto en sus sesiones. Tales convenios y sus características deberán notificarse al fiduciario, dentro de los cinco días hábiles siguientes al de su concertación, para que sean revelados por este último al público inversionista a través de las bolsas de valores en donde coticen los certificados bursátiles fiduciarios de desarrollo o inmobiliarios de que se trate.
+
+La Comisión establecerá disposiciones de carácter general para la prevención de conflictos de interés en la resolución de los asuntos del comité técnico.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 64 Bis 2.
+
+Las emisiones de certificados bursátiles fiduciarios de desarrollo que se realicen bajo el mecanismo de llamadas de capital, que se inscriban en el Registro, se harán mediante declaración unilateral de la voluntad. Conforme este mecanismo, los emisores podrán ejercer la opción de requerir a los tenedores, con posterioridad a la colocación de una parte de la emisión, aportaciones adicionales de recursos al patrimonio del fideicomiso para la ejecución de sus fines.
+
+El mecanismo de llamadas de capital, implicará la modificación en el número de los títulos y en el monto de la emisión y deberá ajustarse a lo que se estipule en el fideicomiso y en el acta de emisión, de la cual formará parte el título correspondiente.
+
+El fideicomiso y el acta de emisión de los certificados bursátiles fiduciarios de desarrollo que se emitan previendo el mecanismo de llamadas de capital, deberán estipular al menos lo siguiente:
+
+I. El monto hasta el cual podrían hacerse las llamadas de capital. En ningún caso se podrá ampliar el monto máximo de la emisión cuando el emisor ya haya efectuado alguna llamada de capital, con cargo al patrimonio del fideicomiso, salvo con el consentimiento del setenta y cinco por ciento de los tenedores correspondientes.
+
+II. La obligación para los tenedores de los certificados bursátiles fiduciarios de desarrollo de realizar una aportación inicial mínima al patrimonio del fideicomiso al momento de la colocación, mediante la adquisición de los certificados. Dicha aportación inicial mínima no podrá ser inferior al veinte por ciento del total que puede alcanzar la emisión.
+
+III. La mención expresa de que el emisor tiene la opción de efectuar las llamadas de capital.
+
+IV. Las penas convencionales que el emisor aplicará en caso de que uno o varios tenedores de certificados bursátiles fiduciarios de desarrollo no cumplan en tiempo y forma con las llamadas de capital, las consecuencias que se generarán sobre los demás tenedores, así como las acciones que el emisor podría ejercer en relación con la llamada de capital de que se trate. Asimismo, deberá precisarse el procedimiento para la modificación de las penas convencionales citadas.
+
+V. Las demás que establezca la Comisión mediante disposiciones de carácter general.
+
+El acta de emisión de certificados bursátiles de desarrollo deberá hacerse constar ante la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 64 Bis 3.
+
+El proveedor del índice, activo financiero o parámetro de referencia no podrá tener ninguno de los vínculos a que se refiere el artículo 2 fracción XIX de esta Ley, en relación con el administrador del patrimonio del fideicomiso.
 
 ### Capítulo II. De los títulos opcionales
 
@@ -1084,7 +1240,9 @@ I Tratándose de títulos opcionales de compra, el derecho de adquirir del emiso
 
 II. Tratándose de títulos de venta, el derecho de vender al emisor del título un activo subyacente a un precio de ejercicio previamente determinado durante un período o en una fecha preestablecida.
 
-Los activos subyacentes sólo podrán ser acciones de sociedades anónimas inscritas en el Registro o títulos de crédito que representen dichas acciones; grupos o canastas integrados por acciones representativas del capital social o títulos de crédito que representen acciones de dos o más sociedades de las mencionadas; acciones o títulos equivalentes a éstas listados en el sistema internacional de cotizaciones, así como índices de precios accionarios nacionales y extranjeros de mercados reconocidos por la Comisión.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los activos subyacentes podrán ser acciones de sociedades anónimas inscritas en el Registro o títulos de crédito que representen dichas acciones; grupos o canastas integrados por acciones representativas del capital social o títulos de crédito que representen acciones de dos o más sociedades de las mencionadas; o bien, acciones, títulos equivalentes o similares a éstas o títulos referenciados a activos listados en el sistema internacional de cotizaciones, así como índices de precios accionarios nacionales y extranjeros de mercados reconocidos por la Comisión. El Banco de México podrá autorizar mediante disposiciones de carácter general otros activos subyacentes análogos o semejantes a los anteriormente citados, cuando por sus características contribuyan al ordenado desarrollo del mercado de valores.
 
 La persona moral que emita los títulos podrá liberarse de su obligación mediante el pago de las diferencias en efectivo que resulten a su cargo entre el precio de ejercicio y el valor de referencia, cuando así se hubiere estipulado.
 
@@ -1126,9 +1284,11 @@ La publicación de las convocatorias podrá realizarse en cualquier periódico d
 
 En la emisión de certificados de participación que se inscriban en el Registro, el dictamen, así como el peritaje o avalúo a que se refiere el artículo 228-H de la Ley General de Títulos y Operaciones de Crédito, podrá ser formulado por instituciones de crédito o instituciones calificadoras de valores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 69.
 
-Las emisoras de valores representativos de una deuda a su cargo, que se coloquen en territorio nacional, deberán designar a un representante común de tenedores de los mismos. En el acta de emisión o título correspondiente deberán preverse los derechos y obligaciones del representante común, así como los términos y condiciones en que podrá procederse a su remoción y a la designación de uno nuevo. A falta de mención expresa, resultará aplicable supletoriamente el régimen previsto en la Ley General de Títulos y Operaciones de Crédito con respecto al representante común de obligacionistas.
+Las emisoras de valores representativos de una deuda a su cargo, que se coloquen en territorio nacional y que deban inscribirse en el Registro, deberán designar a un representante común de sus tenedores. En el acta de emisión o título correspondiente deberán preverse los derechos y obligaciones del representante común, así como los términos y condiciones en que podrá procederse a su remoción y a la designación de uno nuevo. A falta de mención expresa, resultará aplicable supletoriamente el régimen previsto en la Ley General de Títulos y Operaciones de Crédito con respecto al representante común de obligacionistas. La Comisión podrá emitir disposiciones de carácter general en las que determine, en protección de los derechos de tenedores, en qué otros casos las emisoras de valores deberán designar al citado representante común.
 
 Lo previsto en el párrafo anterior no será aplicable a los valores que se inscriban preventivamente conforme al artículo 93 de esta Ley.
 
@@ -1136,9 +1296,11 @@ Lo previsto en el párrafo anterior no será aplicable a los valores que se insc
 
 ### Capítulo I. Del Registro
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 70.
 
-El Registro será público, estará a cargo de la Comisión y en él se inscribirán los valores objeto de oferta pública e intermediación en el mercado de valores, según corresponda.
+El Registro será público, estará a cargo de la Comisión y en él se inscribirán los valores objeto de oferta pública e intermediación en el mercado de valores, según corresponda. Asimismo, en el Registro se inscribirán los fondos de inversión constituidos y organizados en términos de la Ley de Fondos de Inversión.
 
 ###### Artículo 71.
 
@@ -1148,9 +1310,13 @@ I. Los valores inscritos conforme a los artículos 85 y 90 de esta Ley.
 
 II. Los valores inscritos de forma preventiva conforme a los artículos 91 a 94 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE ESTE PARRAFO, REMITASE AL NUMERAL DECIMO TRANSITORIO DE LA PRESENTE LEY.</small>
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Asimismo, el Registro contendrá información relativa a la oferta pública en el extranjero, de valores emitidos en los Estados Unidos Mexicanos o por personas morales mexicanas, directamente o a través de fideicomisos o figuras similares o equivalentes. Dicha información tendrá carácter estadístico y no constituirá un asiento o anotación registral.
+III. Los fondos de inversión, así como las acciones representativas de su capital social.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Asimismo, el Registro contendrá información relativa a la oferta en el extranjero, de valores emitidos en los Estados Unidos Mexicanos o por personas morales mexicanas, directamente o a través de fideicomisos o figuras similares o equivalentes. Dicha información tendrá carácter estadístico y no constituirá un asiento o anotación registral.
 
 ###### Artículo 72.
 
@@ -1200,7 +1366,9 @@ VIII. Los datos relativos al acto administrativo que contenga la resolución sob
 
 IX. Los demás asientos registrales relativos a la inscripción.
 
-Las modificaciones relativas al número, clase, serie, importe, plazo o tasa y demás características de los valores, así como el instrumento público y los documentos o las actas en que consten las mismas, darán lugar a la actualización de la inscripción.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las modificaciones relativas al número, clase, serie, importe, plazo o tasa y demás características de los valores, darán lugar a la actualización de la inscripción.
 
 ###### Artículo 76.
 
@@ -1222,11 +1390,13 @@ Los errores materiales deberán corregirse con un nuevo asiento registral, sin e
 
 Las inscripciones en el Registro tendrán efectos declarativos y no convalidan los actos jurídicos que sean nulos de conformidad con las leyes aplicables, ni implican certificación sobre la bondad de los valores inscritos en el mismo o sobre la solvencia, liquidez o calidad crediticia de la emisora.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE ESTE ARTICULO, REMITASE AL NUMERAL DECIMO TRANSITORIO DE LA PRESENTE LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 80.
 
-La información estadística que conste en el Registro relativa a la oferta pública en el extranjero, de valores emitidos en los Estados Unidos Mexicanos o por personas morales mexicanas, directamente o a través de fideicomisos o figuras similares o equivalentes, contendrá la denominación de la persona moral que emita los valores de que se trate, el tipo de valores y sus características principales, la fecha y monto colocado y la denominación del intermediario colocador.
+La información estadística que conste en el Registro relativa a la oferta en el extranjero, de valores emitidos en los Estados Unidos Mexicanos o por personas morales mexicanas, directamente o a través de fideicomisos o figuras similares o equivalentes, contendrá la denominación de la persona moral que emita los valores de que se trate, el tipo de valores y sus características principales, la fecha y monto colocado y la denominación del intermediario colocador.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE ESTE PÁRRAFO, REMÍTASE AL NUMERAL DECIMO TRANSITORIO DE LA PRESENTE LEY.</small>
 
 La información de que se trata deberá notificarse a la Comisión por parte del emisor, en cumplimiento de lo previsto en el artículo 7, segundo párrafo de esta Ley.
 
@@ -1243,6 +1413,38 @@ Los valores inscritos en el Registro se tendrán por autorizados como objeto de 
 ###### Artículo 82.
 
 Las certificaciones, constancias y oficios sobre las inscripciones, suspensiones, cancelaciones y demás actos de carácter registral que se lleven en la base de datos contenida en los equipos y sistemas electrónicos del Registro, así como las impresiones obtenidas de dichos equipos y sistemas, en las que conste el sello oficial de la Comisión y la firma autógrafa del servidor público facultado para ello, harán fe pública para todos los efectos legales que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 82 Bis.
+
+La inscripción de los fondos de inversión en el Registro contendrá los asientos y anotaciones registrales relativos a su constitución, así como a sus demás actos corporativos.
+
+La sección del Registro en la que se inscriban los fondos de inversión, se llevará mediante la asignación de folios electrónicos por cada fondo de inversión. En tales folios electrónicos constarán los asientos relativos a la constitución, revocación, fusión, escisión y demás actos de carácter registral, relativos a los fondos de inversión que en términos de la Ley de Fondos de Inversión deban inscribirse. Asimismo, el Registro contendrá un apéndice por cada folio que formará parte integrante de este, en el que se incorporen las actas del consejo de administración de la sociedad operadora de fondos de inversión que les proporcione servicios de administración que hayan servido de base para llevar a cabo la inscripción de que se trate.
+
+Adicionalmente, en tal Registro se publicarán los prospectos de información al público inversionista y sus modificaciones, autorizados por la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 82 Bis 1.
+
+Los folios en los que se inscriban los fondos de inversión, contendrán la siguiente información:
+
+I. Su denominación y el de la sociedad operadora de fondos de inversión que le preste los servicios de administración;
+
+II. El tipo de fondo de inversión en función de su régimen de inversión, así como su modalidad y categoría;
+
+III. La fecha de constitución;
+
+IV. El domicilio de la sociedad operadora de fondos de inversión que le preste los servicios de administración, y
+
+V. Los demás actos corporativos del fondo de inversión.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 82 Bis 2.
+
+Las inscripciones relativas a los fondos de inversión en el Registro tendrán efectos declarativos y no convalidan los actos jurídicos que sean nulos de conformidad con las leyes aplicables. Asimismo, tendrán efectos en el mismo acto de su inscripción.
 
 ### Capítulo II. De las ofertas públicas de valores
 
@@ -1272,13 +1474,19 @@ II. Prospecto de colocación y, en su caso, suplemento informativo, preliminares
 
 Las emisoras de valores representativos de un pasivo con vencimiento igual o menor a un año, no estarán obligadas a presentar el prospecto o suplemento citados.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Adicionalmente, deberán presentar un documento con información clave para la inversión, que deberá contener los requisitos que la Comisión determine mediante disposiciones de carácter general. Los documentos con información clave para la inversión formarán parte de los prospectos de colocación.
+
 III. Estados financieros anuales dictaminados de la persona moral, o bien, en razón de la naturaleza de esta última, la información de su situación financiera y resultados de operación, elaborados, en cualquier caso, conforme a principios de contabilidad emitidos o reconocidos por la Comisión.
 
 Los estados financieros y la información financiera a que se refiere esta fracción, deberán estar acompañados del dictamen emitido por el auditor externo designado por la persona moral que proporcione los servicios profesionales de auditoría externa.
 
 IV. Opinión legal emitida por licenciado en derecho externo independiente, que verse sobre los asuntos a que se refiere el artículo 87, fracción II de esta Ley.
 
-V. En el caso de instrumentos de deuda y títulos fiduciarios residuales, calificación sobre el riesgo crediticio de la emisión expedida por cuando menos una institución calificadora de valores. Se considerarán títulos fiduciarios residuales, aquéllos que únicamente otorguen derechos al pago de principal e intereses con cargo al patrimonio fideicomitido.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. En el caso de instrumentos de deuda y títulos fiduciarios residuales de deuda, calificación sobre el riesgo crediticio de la emisión expedida por cuando menos una institución calificadora de valores. Se considerarán títulos fiduciarios residuales de deuda, aquéllos que únicamente den el derecho a exigir el pago de principal e intereses con cargo al patrimonio fideicomitido.
 
 VI. Información del avalista o garante, tratándose de instrumentos avalados o garantizados, así como de las garantías, su constitución y forma de ejecución.
 
@@ -1338,7 +1546,9 @@ b) El apego a los principios de contabilidad aplicables.
 
 c) Los estados financieros elaborados por la emisora.
 
-II. La opinión legal expedida por licenciado en derecho externo deberá versar, cuando menos, sobre los aspectos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. La opinión legal expedida por licenciado en derecho externo, deberá versar, según sea el caso, sobre los aspectos siguientes:
 
 a) La debida constitución y existencia legal de la emisora.
 
@@ -1350,11 +1560,21 @@ d) La validez jurídica de los valores y su exigibilidad en contra de la emisora
 
 e) La debida constitución y exigibilidad de las garantías y las facultades de quien las otorga, así como sobre el procedimiento establecido para su ejecución, tratándose de instrumentos avalados o garantizados.
 
-f) La validez jurídica y exigibilidad del contrato de fideicomiso, así como de los actos jurídicos para la transmisión de la propiedad o la titularidad sobre los bienes o derechos fideicomitidos, tratándose de emisiones al amparo de fideicomisos.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+f) La validez jurídica y exigibilidad del contrato de fideicomiso, así como de los actos jurídicos para la transmisión de la propiedad o la titularidad sobre los bienes o derechos fideicomitidos, en los casos en que resulte aplicable, tratándose de emisiones al amparo de fideicomisos.
 
 g) Tratándose de títulos representativos del capital social de sociedades extranjeras, sobre los aspectos jurídicos relativos a las equivalencias en derechos de minorías exigidos para las sociedades anónimas bursátiles, así como en relación con la organización, funcionamiento, integración, funciones y responsabilidades de sus órganos sociales, igualmente respecto de dichas sociedades.
 
 h) Tratándose de entidades financieras, sobre los aspectos jurídicos relativos a las equivalencias, semejanzas y diferencias que tiene el régimen especial que les resulta aplicable conforme a las leyes que regulan el sistema financiero que las rijan y disposiciones secundarias que emanan de dichas leyes, en relación con los órganos sociales que darán cumplimiento a las funciones que el presente ordenamiento legal prevé para la asamblea de accionistas, el consejo de administración, los comités que desempeñen las funciones en materia de prácticas societarias y de auditoría y el director general de las sociedades anónimas bursátiles.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+i) Cualquier otro aspecto que determine la Comisión mediante disposiciones de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Asimismo, se deberá acompañar la opinión de un tercero independiente facultado para emitir dictámenes en materia fiscal conforme a las disposiciones legales aplicables a dicha materia, que se pronuncie sobre si el régimen fiscal revelado en el prospecto de colocación o suplemento informativo resulta ser el aplicable a las emisiones de certificados bursátiles fiduciarios de desarrollo, inmobiliarios e indizados.
 
 ###### Artículo 88.
 
@@ -1371,6 +1591,10 @@ III. El representante legal, mandatario o apoderado del intermediario colocador.
 IV. El representante legal, mandatario o apoderado de la persona moral que proporcione los servicios de auditoría externa y por el auditor externo, que podrán ser la misma persona, respecto del dictamen y opiniones que correspondan con motivo de la oferta pública.
 
 V. El licenciado en derecho externo independiente que rinda la opinión legal con motivo de la oferta pública.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VI. Cualquier otra persona que por su relevancia o participación en la emisión determine la Comisión en las disposiciones de carácter general a que alude este artículo.
 
 ###### Artículo 89.
 
@@ -1396,9 +1620,11 @@ La inscripción preventiva conforme a la modalidad de listado previo tendrá por
 
 Las bolsas de valores deberán proveer las medidas que sean conducentes al establecimiento del correlativo listado a que se refiere este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 92.
 
-Las personas morales podrán solicitar a la Comisión la inscripción preventiva de valores representativos de una deuda en el Registro, conforme a la modalidad de programa de colocación.
+Las personas morales podrán solicitar a la Comisión la inscripción preventiva de valores en el Registro, conforme a la modalidad de programa de colocación, de acuerdo con las disposiciones de carácter general que emita la Comisión.
 
 La inscripción a que se refiere el párrafo anterior permitirá la emisión y colocación de una o más series de valores, en forma sucesiva, durante un plazo y por un monto máximo en circulación determinado o a ser fijado, siempre y cuando la emisora se encuentre al corriente en sus obligaciones de entrega de información y al momento que pretenda efectuar la colocación respectiva dé cumplimiento a lo previsto en la Sección I de este Capítulo, así como a las demás disposiciones legales y administrativas que resulten aplicables en la fecha de la colocación.
 
@@ -1422,11 +1648,15 @@ IV. Los organismos financieros multilaterales de carácter internacional de los 
 
 V. Las instituciones de crédito, tratándose de títulos de deuda representativos de un pasivo a su cargo a plazos iguales o menores a un año.
 
-VI. Las sociedades de inversión en el caso de acciones representativas de su capital social.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VI. Los fondos de inversión en instrumentos de deuda, de renta variable, de capitales y de objeto limitado, así como las sociedades de inversión especializadas en fondos para el retiro, en el caso de acciones representativas de su capital social.
 
 La Secretaría, mediante disposiciones de carácter general, podrá determinar otros valores como susceptibles de inscripción genérica en los términos de este artículo.
 
-Las emisoras que obtengan la inscripción genérica no estarán sujetas a lo previsto en los artículos 6, 85 a 89 y 104 a 107 de esta Ley. Asimismo, dichas emisoras no estarán obligadas a listar los valores objeto de la citada inscripción en alguna bolsa de valores, salvo que se trate de sociedades de inversión en instrumentos de deuda, de renta variable y especializadas de fondos para el retiro.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las emisoras que obtengan la inscripción genérica no estarán sujetas a lo previsto en los artículos 6, 85 a 89 y 104 a 107 de esta Ley. Asimismo, dichas emisoras no estarán obligadas a listar los valores objeto de la citada inscripción en alguna bolsa de valores, salvo que se trate de sociedades de inversión especializadas en fondos para el retiro.
 
 El presente artículo será aplicable a los valores a que se refieren las fracciones I y II de este artículo, sean objeto de oferta pública en el territorio nacional o en el extranjero, o bien, objeto de oferta privada en cuyo caso no será aplicable el artículo 90 de esta Ley.
 
@@ -1600,19 +1830,27 @@ III. No existan movimientos inusitados en el precio o volumen de operación de l
 
 Al revelar los eventos relevantes en términos de lo establecido en el primer párrafo de este artículo, las emisoras estarán obligadas a difundir al público toda la información relevante en relación con los citados eventos.
 
-Las emisoras que pretendan diferir la revelación de un evento relevante en los términos de este artículo, deberán adoptar las medidas necesarias para garantizar que la información relativa sea conocida exclusivamente por las personas que sea indispensable que accedan a ella y llevar un control con el nombre de las personas que hayan tenido acceso al evento de que se trate, la información y documentos que hubieren conocido y la fecha y hora en que tales circunstancias hayan acontecido.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las emisoras que tengan información que actualice la obligación de revelar algún evento relevante, desde el momento en que tengan conocimiento de tal información, estarán obligadas a adoptar las medidas necesarias para garantizar que la información relativa sea conocida exclusivamente por las personas que sea indispensable que accedan a ella, así como llevar un control por escrito o mediante medios electrónicos, con el nombre de las personas que hayan tenido acceso a la información de que se trate, los documentos que hubieren conocido, la fecha, forma, medio y hora en que tales circunstancias hayan acontecido. Dicho control deberá estar a disposición de la Comisión y mantenerse por un periodo de cinco años contados a partir de la publicación del evento relevante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 106.
 
-Las emisoras con valores inscritos en el Registro estarán obligadas a informar en forma inmediata al público inversionista, a solicitud de la Comisión o de la bolsa en la que listen sus valores, ajustándose a los términos y condiciones previstos en el reglamento interior de ésta, las causas que a su juicio hayan dado origen a cualquiera de los eventos siguientes:
+Las emisoras con valores inscritos en el Registro estarán obligadas a informar a la Comisión y a la bolsa en la que listen sus valores, para su difusión inmediata al público en general a través de esta última, ajustándose a los términos y condiciones previstos en el reglamento interior de dicha bolsa, las causas que a su juicio hayan dado origen a cualquiera de los eventos siguientes:
 
 I. Movimientos inusitados en el mercado relativos al precio o volumen de operación de sus valores.
 
 II. Cambios en la oferta o demanda de sus valores o en su precio, que no sean consistentes con su comportamiento histórico y no puedan explicarse con la información disponible en el público.
 
-Asimismo, a solicitud de la Comisión o de la bolsa de valores, las emisoras deberán proporcionar información adicional cuando la existente en el mercado sea insuficiente, imprecisa o confusa, o bien, para rectificar, ratificar, negar o ampliar algún evento que hubiere sido divulgado por terceros entre el público y que por su interpretación pueda afectar o influir en la cotización de los valores de la emisora.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-En el evento de que las emisoras desconozcan las causas que hayan dado origen a los supuestos a que se refiere este artículo, deberán formular una declaración en ese sentido.
+Adicionalmente, la Comisión o la bolsa de valores en la que se listen los valores tendrá la facultad de requerir a las emisoras la publicación de un evento relevante que explique las causas que le dieron origen, así como para requerir la revelación de información adicional cuando la existente en el mercado a juicio de la Comisión o de la bolsa de valores, sea insuficiente, imprecisa o confusa, o bien, para rectificar, ratificar, negar o ampliar algún evento que hubiere sido divulgado por terceros entre el público y que por su interpretación pueda afectar o influir en la cotización de los valores de la emisora.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En el evento de que las emisoras desconozcan las causas que hayan dado origen a los supuestos a que se refiere este artículo, deberán formular una declaración en ese sentido. En estos supuestos, adicionalmente las emisoras deberán aclarar si el fondo de recompra, realizó operaciones o no con los valores de la emisora.
 
 ### Capítulo IV. De la suspensión de la inscripción de valores en el Registro
 
@@ -1670,7 +1908,9 @@ c) Las características de los inversionistas que no acudieron a la oferta y, en
 
 Asimismo, la Comisión podrá establecer mediante disposiciones de carácter general, excepciones a la obligación de llevar a cabo la oferta pública antes mencionada, cuando en virtud del reducido número de títulos colocados entre el público inversionista y su importe así se justifique, pero en todo caso deberá constituirse el fideicomiso a que hace referencia el inciso c) de la fracción I de este artículo.
 
-III. Tratándose de instrumentos de deuda, se acredite a la Comisión estar al corriente en el pago de sus obligaciones derivadas de los títulos o, en su caso, el acuerdo de la asamblea de tenedores que determine la cancelación registral.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Tratándose de instrumentos distintos de los señalados en las fracciones I y II anteriores, se acredite a la Comisión estar al corriente en sus obligaciones derivadas de los títulos o, en su caso, se presente el acuerdo de la asamblea de tenedores que determine la cancelación registral. El acuerdo deberá tomarse por cuando menos los tenedores que representen el noventa y cinco por ciento de los valores en circulación.
 
 El consejo de administración de las sociedades anónimas que realicen una oferta pública en los términos de este artículo, deberá dar a conocer su opinión al público sobre el precio de la oferta, ajustándose a lo previsto en el artículo 101 de esta Ley.
 
@@ -1762,11 +2002,15 @@ e) Las bases relativas a su organización y control interno.
 
 f) Las bases para aplicar utilidades, en la inteligencia de que no podrán repartir dividendos durante sus tres primeros ejercicios, debiendo aplicarse las utilidades netas a reservas de capital.
 
-IV. Comprobante de depósito bancario en moneda nacional o, en su caso, de valores gubernamentales por su precio de mercado, depositados en entidades financieras a favor de la Tesorería de la Federación, por una cantidad igual al diez por ciento del capital mínimo con que deba operar la sociedad.
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. El manual de conducta que incluya las políticas para la solución de potenciales conflictos de interés en la realización de sus actividades. Los citados manuales deberán contener las normas que al efecto determine la Comisión mediante disposiciones de carácter general.
+
+V. Comprobante de depósito bancario en moneda nacional o, en su caso, de valores gubernamentales por su precio de mercado, depositados en entidades financieras a favor de la Tesorería de la Federación, por una cantidad igual al diez por ciento del capital mínimo con que deba operar la sociedad.
 
 El principal y, en su caso, accesorios del referido depósito serán devueltos al solicitante en caso de desistimiento, así como en el evento de que la solicitud sea denegada o cuando se inicien operaciones en los términos previstos en esta Ley. En el caso de que se revoque la autorización conforme a lo previsto en el artículo 153, fracciones I a III, de esta Ley, el importe del depósito se hará efectivo.
 
-V. La demás documentación e información que la Comisión, en relación con las fracciones anteriores, requiera mediante disposiciones de carácter general, previo acuerdo de su Junta de Gobierno.
+VI. La demás documentación e información que la Comisión, en relación con las fracciones anteriores, requiera mediante disposiciones de carácter general, previo acuerdo de su Junta de Gobierno.
 
 Los estatutos sociales de las casas de bolsa, así como sus modificaciones, deberán ser aprobados por la Comisión. Una vez obtenida la aprobación podrán ser inscritos en el Registro Público de Comercio. En todo caso, las referidas casas de bolsa proporcionarán a la Comisión, dentro de los diez días hábiles siguientes a la celebración de la asamblea correspondiente, copia autentificada por el secretario del consejo de administración, de las actas de asamblea y, cuando proceda, instrumento público en el que conste la formalización de las mismas. Tratándose de aumentos de capital, las casas de bolsa no requerirán de la autorización señalada, pero en todo caso deberán presentar a la Comisión, con al menos quince días hábiles de anticipación a la fecha en que pretendan realizar el aumento del capital, la información de los socios referida en la fracción II de este artículo, plazo en el cual la Comisión podrá oponerse a la realización del referido aumento en el evento de que considere que existe algún impedimento para que las personas de que se trate sean socios de la casa de bolsa correspondiente.
 
@@ -1790,7 +2034,21 @@ El capital social ordinario de las casas de bolsa se integrará por acciones de 
 
 En su caso, el capital social adicional estará representado por acciones serie "L", que podrán emitirse hasta por un monto equivalente al cuarenta por ciento del capital social ordinario, previa autorización de la Comisión.
 
-Las acciones representativas de las series "O" y "L" serán de libre suscripción, salvo tratándose de personas morales extranjeras que ejerzan funciones de autoridad, las cuales en ningún caso podrán participar en el capital social de las casas de bolsa.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las acciones representativas de las series "O" y "L" serán de libre suscripción, salvo tratándose de gobiernos extranjeros, los cuales no podrán participar, directa o indirectamente, en el capital social de las casas de bolsa, salvo en los casos siguientes:
+
+I. Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
+
+Las casas de bolsa que se ubiquen en lo dispuesto en esta fracción, deberán entregar a la Comisión, la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto. La Comisión tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información y documentación correspondiente, para resolver, previo acuerdo de su Junta de Gobierno, si la participación de que se trata, se ubica en el supuesto de excepción previsto en esta fracción.
+
+II. Cuando la participación correspondiente implique que se tenga el control de la casa de bolsa en términos del artículo 2, fracción III de esta Ley, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que:
+
+a) No ejercen funciones de autoridad, y
+
+b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+III. Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de la casa de bolsa, en términos del artículo 2, fracción III de esta Ley. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
 
 Las acciones serie "L" serán de voto limitado y otorgarán derecho de voto únicamente en los asuntos relativos a cambio de objeto, fusión, escisión, transformación, disolución y liquidación, así como cancelación del listado en cualquier bolsa de valores y de la inscripción en el Registro, de las acciones representativas del capital social o títulos que las representen.
 
@@ -1826,11 +2084,13 @@ c) La demás documentación e información que la Comisión, en relación con lo
 
 Cuando el adquirente del control sea una casa de bolsa, deberá proceder a realizar la fusión de ambas entidades conforme a las disposiciones aplicables a fusiones contenidas en este ordenamiento legal.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 120.
 
-Las casas de bolsa se abstendrán, sin causa de responsabilidad, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por el artículo 119 de esta Ley, debiendo informar tal circunstancia a la Comisión, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
+Las casas de bolsa se abstendrán, en su caso, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por los artículos 117 y 119 de esta Ley, debiendo informar tal circunstancia a la Comisión, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
 
-Las adquisiciones que contravengan lo previsto en el artículo 119 de esta Ley estarán afectadas de nulidad relativa, en cuyo caso las personas que hubieren adquirido las acciones no podrán ejercer los derechos sociales y económicos derivados de las acciones de que se trate.
+Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital social de una casa de bolsa, contravengan lo previsto en los artículos 117 y 119 de esta Ley, los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de la casa de bolsa quedarán en suspenso y por lo tanto no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda o que se han satisfecho los requisitos que esta Ley contempla.
 
 ###### Artículo 121.
 
@@ -1946,9 +2206,45 @@ II. Que conocen los derechos y obligaciones que asumen al aceptar el cargo que c
 
 Las casas de bolsa deberán informar a la Comisión los nombramientos, renuncias y remociones de consejeros, comisarios, director general y directivos con la jerarquía inmediata inferior a la de éste, dentro de los diez días hábiles posteriores a que dicho supuesto acontezca, manifestando expresamente, en el caso de nombramientos, que las personas cumplen con los requisitos aplicables.
 
-###### Artículo 130.
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Los consejeros, directivos y delegados fiduciarios de las casas de bolsa, para acreditar su personalidad y facultades, bastará que exhiban una certificación de su nombramiento expedida por el secretario del consejo de administración.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 130.
+
+Las casas de bolsa deberán implementar un sistema de remuneración de conformidad con lo que establezca la Comisión mediante disposiciones de carácter general. El consejo de administración será responsable de la aprobación del sistema de remuneración, las políticas y procedimientos que lo normen; de definir su alcance y determinar el personal sujeto a dicho sistema, así como de vigilar su adecuado funcionamiento.
+
+Dicho sistema de remuneración deberá considerar todas las remuneraciones, ya sea que éstas se otorguen en efectivo o a través de otros mecanismos de compensación, y deberá al menos cumplir con lo siguiente:
+
+I. Delimitar las responsabilidades de los órganos sociales encargados de la implementación de los esquemas de remuneración.
+
+II. Establecer políticas y procedimientos que normen las remuneraciones ordinarias y remuneraciones extraordinarias de las personas sujetas al sistema de remuneración.
+
+En todo caso, las políticas y procedimientos que limiten o suspendan las remuneraciones extraordinarias deberán a su vez, preverse en las condiciones de trabajo de las casas de bolsa.
+
+III. Establecer la revisión periódica de políticas y procedimientos de pago, así como los ajustes conducentes.
+
+IV. Los demás aspectos que señale la Comisión mediante disposiciones de carácter general.
+
+La Comisión, oyendo la opinión del Banco de México, podrá exigir requerimientos de capitalización adicionales a los señalados en el artículo 173 de esta Ley cuando las casas de bolsa incumplan lo relativo a su sistema de remuneración.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 130 Bis.
+
+El consejo de administración deberá constituir un comité de remuneraciones cuyo objeto será la implementación, mantenimiento y evaluación del sistema de remuneración a que se refiere el artículo 130 de la presente Ley, para lo cual tendrá las funciones siguientes:
+
+I. Proponer para aprobación del consejo de administración las políticas y procedimientos de remuneración, así como las eventuales modificaciones que se realicen a los mismos.
+
+II. Informar al consejo de administración sobre el funcionamiento del sistema de remuneración.
+
+III. Las demás que determine la Comisión mediante disposiciones de carácter general.
+
+La Comisión señalará mediante disposiciones de carácter general, la forma en que deberá integrarse, reunirse y funcionar el comité de remuneraciones.
+
+Asimismo, la Comisión, de acuerdo a los criterios que determine en reglas de carácter general, podrá exceptuar a las casas de bolsa de contar con un comité de remuneraciones.
 
 ###### Artículo 131.
 
@@ -1973,6 +2269,10 @@ IV. Los acuerdos de fusión adoptados por las respectivas asambleas generales ex
 V. Los acreedores de las sociedades podrán oponerse judicialmente a la fusión, dentro de los noventa días naturales siguientes a la fecha de publicación a que se refiere la fracción anterior, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda los efectos de ésta.
 
 VI. La Comisión, previo acuerdo de su Junta de Gobierno, podrá establecer mediante disposiciones de carácter general, la demás documentación e información que en relación con las fracciones anteriores deba proporcionarse.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La fusión de una casa de bolsa que pertenezca a un grupo financiero, sea como fusionante o fusionada, se sujetará a lo dispuesto por el artículo 10 de la Ley para Regular las Agrupaciones Financieras, y no le será aplicable lo previsto en este artículo.
 
 ###### Artículo 133.
 
@@ -2000,39 +2300,103 @@ Con motivo de la escisión, a la sociedad escindida no se le podrán transmitir 
 
 #### Sección IV. De las medidas preventivas y correctivas, la suspensión de operaciones, la intervención, la revocación de autorizaciones y la disolución y liquidación
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 135.
 
-En ejercicio de sus funciones de inspección y vigilancia, la Comisión, mediante disposiciones de carácter general que al efecto apruebe su Junta de Gobierno, establecerá las medidas preventivas y correctivas que deberán cumplir las casas de bolsa, tomando como base el capital global a que se refiere el artículo 173 de esta Ley.
+En ejercicio de sus funciones de inspección y vigilancia, la Comisión mediante disposiciones de carácter general que al efecto apruebe su Junta de Gobierno, clasificará a las casas de bolsa en categorías, tomando como base el índice de capitalización y sus componentes, así como los suplementos de capital requeridos conforme a las disposiciones aplicables emitidas por dicha Comisión en términos del artículo 173 de esta Ley.
 
-Para efectos del párrafo anterior, la Comisión podrá establecer diversas categorías, dependiendo si las casas de bolsa mantienen un capital global superior o inferior al requerido conforme a las disposiciones que las rijan.
+Para efectos de la clasificación a que se refiere el párrafo anterior, la Comisión podrá establecer diversas categorías, dependiendo si las casas de bolsa mantienen un índice de capitalización y sus componentes y unos suplementos de capital superiores o inferiores a los requeridos de conformidad con las disposiciones que los rijan.
 
-La Comisión deberá definir mediante disposiciones de carácter general, las medidas que serán aplicables en función del cumplimiento al mencionado capital global, así como los criterios para su aplicación.
+Las reglas que emita la Comisión deberán establecer las medidas correctivas mínimas y especiales adicionales que las casas de bolsa deberán cumplir de acuerdo con la categoría en que hubiesen sido clasificadas.
+
+La Comisión deberá dar a conocer la categoría en que las casas de bolsa hubieren sido clasificadas, en los términos y condiciones que establezca dicha Comisión en las disposiciones de carácter general.
+
+Para la expedición de las disposiciones de carácter general, la Comisión deberá observar lo dispuesto en el artículo 136 de esta Ley.
+
+Las medidas correctivas deberán tener por objeto prevenir y, en su caso, corregir los problemas que las casas de bolsa presenten, derivados de las operaciones que realicen y que puedan afectar su estabilidad financiera o solvencia.
+
+La Comisión deberá notificar por escrito a las casas de bolsa las medidas correctivas que deban observar en términos de esta Sección, así como verificar su cumplimiento de acuerdo con lo previsto en este ordenamiento. En la notificación a que se refiere este párrafo, la Comisión deberá definir los términos y plazos para el cumplimiento de las medidas correctivas a que hacen referencia el presente artículo y el 136 siguiente.
+
+Lo dispuesto en este artículo, así como en el artículo 136 de esta Ley, se aplicará sin perjuicio de las facultades que se atribuyen a la Comisión de conformidad con esta Ley y demás disposiciones aplicables.
+
+Las casas de bolsa deberán prever lo relativo a la implementación de las medidas correctivas dentro de sus estatutos sociales, obligándose a adoptar las acciones que, en su caso, les resulten aplicables.
+
+La adopción de cualquiera de las medidas correctivas que imponga la Comisión, con base en este precepto y en el artículo 136 de la presente Ley, así como en las reglas que deriven de ellos y, en su caso, las sanciones o procedimientos de revocación que deriven de su incumplimiento, se considerarán de orden público e interés social, por lo que no procederá en su contra medida suspensional alguna, ello en protección de los intereses del público inversionista.
+
+Las medidas correctivas que imponga la Comisión, con base en este precepto y en el artículo 136 de esta Ley, así como en las reglas que deriven de ellos, se considerarán de carácter cautelar.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 136.
 
-De manera enunciativa y no limitativa, las medidas a las que se refiere el artículo anterior podrán incluir:
+Para efectos de lo dispuesto en el artículo 135 de esta Ley, se estará a lo siguiente:
 
-I. Suspender el pago de dividendos, la adquisición de acciones propias y cualquier otro mecanismo que implique una transferencia de beneficios patrimoniales a los accionistas.
+I. Cuando las casas de bolsa no cumplan con el índice de capitalización o sus componentes establecidos conforme a lo dispuesto en el artículo 173 de esta Ley y en las disposiciones que de ese precepto emanen, la Comisión deberá ordenar la aplicación de las medidas correctivas mínimas señaladas a continuación, que correspondan a la categoría en que se ubique la casa de bolsa de que se trate, en términos de las disposiciones referidas en el artículo anterior:
 
-II. Presentar a la Comisión para su aprobación, un plan orientado a reducir los riesgos en los que incurra la casa de bolsa en su operación y, en su caso, a la restauración del capital global. El plan deberá ser aprobado por el consejo de administración de la casa de bolsa de que se trate antes de ser presentado a la Comisión.
+a) Informar a su consejo de administración su clasificación, así como las causas que la motivaron, para lo cual deberán presentar un informe detallado de evaluación integral sobre su situación financiera, que señale el cumplimiento al marco regulatorio e incluya la expresión de los principales indicadores que reflejen el grado de estabilidad y solvencia de la casa de bolsa, así como las observaciones que, en su caso, la Comisión le haya dirigido.
 
-La casa de bolsa deberá determinar en el referido plan, las actividades a realizar para cumplir con el capital global requerido conforme a las disposiciones aplicables, así como el plazo para llevarlas a cabo.
+En caso de que la casa de bolsa de que se trate forme parte de un grupo financiero, deberá informar por escrito su situación al director general y al presidente del consejo de administración de la sociedad controladora;
 
-La Comisión dará seguimiento y verificará el cumplimiento del plan, sin perjuicio de la procedencia de otras medidas preventivas o correctivas.
+b) En un plazo de siete días, presentar a la Comisión, para su aprobación, un plan de restauración de capital que tenga como resultado un incremento en su índice de capitalización, el cual podrá contemplar un programa de mejora en eficiencia operativa, racionalización de gastos e incremento en la rentabilidad, la realización de aportaciones al capital social y límites a las operaciones que la casa de bolsa de que se trate pueda realizar en cumplimiento de su objeto social, o a los riesgos derivados de dichas operaciones. El plan de restauración de capital deberá ser aprobado por el consejo de administración de la casa de bolsa de que se trate antes de ser presentado a la propia Comisión.
 
-La Comisión definirá en las disposiciones de carácter general que emita con fundamento en el artículo 135 de esta Ley, las características, plazos de presentación y demás condiciones que deberá cumplir el plan a que se refiere esta fracción.
+La casa de bolsa referida deberá determinar en el plan de restauración de capital que, conforme a este inciso, deba presentar, metas periódicas, así como el plazo en el cual cumplirá con el índice de capitalización previsto en las disposiciones aplicables.
 
-III. Suspender el pago de las compensaciones y bonos extraordinarios adicionales al salario del director general y de los funcionarios de los dos niveles jerárquicos inferiores a éste, así como no otorgar nuevas compensaciones en el futuro para el director general y funcionarios, hasta en tanto la casa de bolsa cumpla con el capital global requerido conforme a las disposiciones aplicables. Esta previsión deberá contenerse en los contratos y demás documentación que regulen las condiciones de trabajo.
+La Comisión, a través de su Junta de Gobierno, deberá resolver lo que corresponda sobre el plan de restauración de capital que le haya sido presentado, en un plazo máximo de sesenta días contados a partir de la fecha de presentación del plan.
 
-Lo previsto en el presente inciso también será aplicable respecto de pagos que se realicen a personas morales distintas a la casa de bolsa de que se trate, cuando dichas personas morales efectúen los pagos a los funcionarios de la casa de bolsa.
+Las casas de bolsa a las que resulte aplicable lo previsto en este inciso, deberán cumplir con el plan de restauración de capital dentro del plazo que establezca la Comisión, el cual en ningún caso podrá exceder de doscientos setenta días contados a partir del día siguiente al que se notifique a la casa de bolsa, la aprobación respectiva. Para la determinación del plazo para el cumplimiento del plan de restauración, la Comisión deberá tomar en consideración la categoría en que se encuentre ubicada la casa de bolsa, su situación financiera, así como las condiciones que en general prevalezcan en los mercados financieros. La Comisión, por acuerdo de su Junta de Gobierno, podrá prorrogar por única vez este plazo por un periodo que no excederá de noventa días.
 
-La medida prevista en esta fracción es sin perjuicio de los derechos laborales adquiridos a favor de las personas que conforme a la misma puedan resultar afectadas.
+La Comisión dará seguimiento y verificará el cumplimiento del plan de restauración de capital, sin perjuicio de la procedencia de otras medidas correctivas dependiendo de la categoría en que se encuentre clasificada la casa de bolsa de que se trate;
 
-IV. Suspender el pago de intereses, diferir el pago de principal y, en su caso, convertir anticipadamente en acciones las obligaciones subordinadas que se encuentren en circulación hasta por la cantidad que sea necesaria para cubrir el faltante de capital global. Esta medida correctiva será aplicable a aquellas obligaciones subordinadas que, en términos de lo previsto en las disposiciones a que se refiere el primer párrafo del artículo 173 de esta Ley, computen como parte del capital global de las casas de bolsa.
+c) Suspender, total o parcialmente, el pago a los accionistas de dividendos provenientes de la casa de bolsa, así como cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales. En caso de que la casa de bolsa de que se trate pertenezca a un grupo financiero, la medida prevista en este inciso también será aplicable a la sociedad controladora del grupo al que pertenezca, así como a las entidades financieras o sociedades que formen parte de dicho grupo.
 
-Las casas de bolsa que emitan obligaciones subordinadas de las referidas en el párrafo inmediato anterior, deberán incluir en el acta de emisión, en el prospecto informativo, así como en cualquier otro instrumento que documente la emisión, la posibilidad de que sea procedente la implementación de dicha medida cuando se actualicen las causales correspondientes conforme a las disposiciones de carácter general a que se refiere el artículo 135 de esta Ley, sin que sea causal de incumplimiento por parte de la casa de bolsa emisora.
+Lo dispuesto en el párrafo anterior no será aplicable tratándose del pago de dividendos que efectúen las entidades financieras o sociedades integrantes del grupo distintas a la casa de bolsa de que se trate, cuando el referido pago se aplique a la capitalización de la casa de bolsa;
 
-V. Abstenerse de realizar operaciones cuya realización genere que su capital global se ubique por debajo del requerido conforme a las disposiciones aplicables.
+d) Suspender total o parcialmente los programas de recompra de acciones representativas del capital social de la casa de bolsa de que se trate y, en caso de pertenecer a un grupo financiero, también los de la sociedad controladora de dicho grupo;
+
+e) Diferir o cancelar total o parcialmente el pago de intereses y, en su caso, diferir o cancelar, total o parcialmente, el pago de principal o convertir en acciones hasta por la cantidad que sea necesaria para cubrir el faltante de capital, anticipadamente y a prorrata, las obligaciones subordinadas que se encuentren en circulación, según la naturaleza de tales obligaciones. Esta medida correctiva será aplicable a aquellas obligaciones subordinadas que así lo hayan previsto en sus actas de emisión o documento de emisión.
+
+Las casas de bolsa que emitan obligaciones subordinadas deberán incluir en los títulos de crédito correspondientes, en el acta de emisión, en el prospecto informativo, así como en cualquier otro instrumento que documente la emisión, las características de las mismas y la posibilidad de que sean procedentes algunas de las medidas contempladas en el párrafo anterior cuando se actualicen las causales correspondientes conforme a las reglas a que se refiere el artículo 135 de esta Ley, sin que sea causal de incumplimiento por parte de la casa de bolsa emisora;
+
+f) Suspender el pago de las compensaciones y bonos extraordinarios adicionales al salario del director general y de los funcionarios de los dos niveles jerárquicos inferiores a este, así como no otorgar nuevas compensaciones en el futuro para el director general y funcionarios, hasta en tanto la casa de bolsa cumpla con el índice de capitalización establecido por la Comisión en términos de las disposiciones a que se refiere el artículo 173 de esta Ley. Esta previsión deberá contenerse en los contratos y demás documentación que regulen las condiciones de trabajo;
+
+g) Abstenerse de convenir incrementos en los montos vigentes en los créditos otorgados a las partes consideradas como relacionadas en términos de las disposiciones de carácter general aplicables a las casas de bolsa, y
+
+h) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 135 de esta Ley.
+
+II. Cuando una casa de bolsa cumpla con el índice mínimo de capitalización requerido y sus componentes de acuerdo con el artículo 173 de esta Ley y las disposiciones que de ella emanen, será clasificada en la categoría que incluya a dicho mínimo. La Comisión deberá ordenar la aplicación de las medidas correctivas mínimas siguientes:
+
+a) Informar a su consejo de administración su clasificación, así como las causas que la motivaron, para lo cual deberán presentar un informe detallado de evaluación integral sobre su situación financiera, que señale el cumplimiento al marco regulatorio e incluya la expresión de los principales indicadores que reflejen el grado de estabilidad y solvencia de la casa de bolsa, así como las observaciones que, en su caso, la Comisión le haya dirigido.
+
+En caso de que la casa de bolsa de que se trate forme parte de un grupo financiero, deberá informar por escrito su situación al director general y al presidente del consejo de administración de la sociedad controladora;
+
+b) Abstenerse de celebrar operaciones cuya realización genere que su índice de capitalización se ubique por debajo del requerido conforme a las disposiciones aplicables, y
+
+c) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 135 de esta Ley.
+
+III. Independientemente de las medidas correctivas mínimas aplicadas conforme a las fracciones I y II del presente artículo, la Comisión podrá ordenar a las casas de bolsa que corresponda, la aplicación de las medidas correctivas especiales adicionales siguientes:
+
+a) Definir acciones concretas para no deteriorar su índice de capitalización;
+
+b) Contratar los servicios de auditores externos u otros terceros especializados para la realización de auditorías especiales sobre cuestiones específicas;
+
+c) Abstenerse de convenir incrementos en los salarios y prestaciones de los funcionarios y empleados en general, exceptuando las revisiones salariales convenidas y respetando en todo momento los derechos laborales adquiridos.
+
+Lo previsto en el presente inciso también será aplicable respecto de pagos que se realicen a personas morales distintas a la casa de bolsa de que se trate, cuando dichas personas morales efectúen los pagos a los empleados o funcionarios de la casa de bolsa;
+
+d) Sustituir funcionarios, consejeros, comisarios o auditores externos, nombrando la propia casa de bolsa a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión previstas en el artículo 393 de esta Ley para determinar la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la casa de bolsa, o
+
+e) Las demás que determine la Comisión, con base en el resultado de sus funciones de inspección y vigilancia, así como en las sanas prácticas bancarias y financieras.
+
+Para la aplicación de las medidas a que se refiere esta fracción, la Comisión podrá considerar, entre otros elementos, la categoría en que la casa de bolsa haya sido clasificada, su situación financiera integral, el cumplimiento al marco regulatorio y del índice de capitalización, así como de los principales indicadores que reflejen el grado de estabilidad y solvencia, la calidad de la información contable y financiera, y el cumplimiento en la entrega de dicha información.
+
+IV. Cuando las casas de bolsa no cumplan con los suplementos de capital establecidos conforme a lo dispuesto en el artículo 173 de esta Ley y en las disposiciones que de ese precepto emanen, la Comisión deberá ordenar la aplicación de las medidas correctivas mínimas señaladas a continuación:
+
+a) Suspender, total o parcialmente, el pago a los accionistas de dividendos provenientes de la casa de bolsa, así como cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales. En caso de que la casa de bolsa de que se trate pertenezca a un grupo financiero, la medida prevista en este inciso también será aplicable a la sociedad controladora del grupo al que pertenezca, así como a las entidades financieras o sociedades que formen parte de dicho grupo, y
+
+b) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 135 de esta Ley.
+
+V. Cuando las casas de bolsa mantengan un índice de capitalización y sus componentes superiores a los requeridos de conformidad con las disposiciones aplicables y cumplan con los suplementos de capital a que se refiere el artículo 173 de esta Ley y las disposiciones que de él emanen, no se aplicarán medidas correctivas mínimas ni medidas correctivas especiales adicionales.
 
 ###### Artículo 137.
 
@@ -2176,7 +2540,9 @@ Para efectos de lo previsto en el párrafo anterior, no resultarán aplicables l
 
 VI. Proporcione en forma dolosa información falsa, imprecisa o incompleta a las autoridades financieras, que tenga como consecuencia que no se refleje su verdadera situación financiera, administrativa, económica y jurídica.
 
-VII. Incumpla las medidas preventivas o correctivas a que se refiere el artículo 136 de esta Ley.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VII. Incumpla las medidas correctivas mínimas o especiales adicionales a que se refiere el artículo 136 de esta Ley.
 
 VIII. Reincida en las situaciones o conductas que dieron lugar a la suspensión parcial de sus actividades, a que se refieren los artículos 137 y 138 de esta Ley.
 
@@ -2270,6 +2636,10 @@ h) Ejercer las acciones legales a que haya lugar para determinar las responsabil
 
 i) Abstenerse de comprar para sí o para otro, los bienes propiedad de la casa de bolsa en liquidación, sin consentimiento expreso de la asamblea.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Tratándose de procedimientos de liquidación de casas de bolsa, en los que se desempeñe como liquidador el Servicio de Administración y Enajenación de Bienes, el Gobierno Federal podrá asignar recursos a dicho organismo descentralizado de la Administración Pública Federal, con el exclusivo propósito de realizar los gastos asociados a publicaciones y otros trámites relativos a tales procedimientos, cuando se advierta que éstos no podrán ser afrontados con cargo al patrimonio de las casas de bolsa de que se trate por la falta de liquidez, en cuyo caso, se constituirá como acreedor de esta última.
+
 ###### Artículo 157.
 
 La Comisión ejercerá las funciones de supervisión únicamente respecto del cumplimiento de los procedimientos a los que se refiere el inciso b) de la fracción IV del artículo 156 de esta Ley. Lo anterior, sin perjuicio de las facultades conferidas en el presente ordenamiento respecto de los delitos señalados en el Capítulo II del Título XIV de esta Ley.
@@ -2289,6 +2659,10 @@ IV. Declarado el concurso mercantil, quien tenga a su cargo la administración d
 V. La Comisión ejercerá las funciones de supervisión únicamente respecto del cumplimiento de los procedimientos citados en la fracción anterior.
 
 Si la Comisión detectara algún incumplimiento deberá hacerlo del conocimiento del juez.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Tratándose de procedimientos de concurso mercantil de casas de bolsa, en los que se desempeñe como síndico el Servicio de Administración y Enajenación de Bienes, el Gobierno Federal podrá asignar recursos a dicho organismo descentralizado de la Administración Pública Federal, con el exclusivo propósito de realizar los gastos asociados a publicaciones y otros trámites relativos a tales procedimientos, cuando se advierta que éstos no podrán ser afrontados con cargo al patrimonio de las casas de bolsa de que se trate por insolvencia, en cuyo caso, se constituirá como acreedor de esta última.
 
 #### Sección V. De las oficinas de representación y filiales de casas de bolsa del exterior
 
@@ -2344,7 +2718,13 @@ El capital social de las filiales estará integrado por acciones de la serie "F"
 
 Las acciones de la serie "F" solamente podrán ser adquiridas por una sociedad controladora filial o, directa o indirectamente, por una institución financiera del exterior, salvo en el caso a que se refiere el último párrafo del artículo 163 de esta Ley, tratándose de acciones representativas del capital social de las filiales.
 
-Las acciones de las series "F" y "B" de las filiales se regirán por lo dispuesto en esta Ley para las acciones de la serie "O" de las casas de bolsa. Las instituciones financieras del exterior o las sociedades controladoras filiales propietarias de las acciones serie "F" de una filial, no estarán sujetas a lo establecido en los artículos 119 y 120 de esta Ley, respecto de su tenencia de acciones serie "B".
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las acciones de las series "F" y "B" de las filiales se regirán por lo dispuesto en esta Ley para las acciones de la serie "O" de las casas de bolsa. Las instituciones financieras del exterior o las sociedades controladoras filiales propietarias de las acciones serie "F" de una filial, no estarán sujetas a lo establecido en el artículo 119 de esta Ley, respecto de su tenencia de acciones serie "B".
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En todo caso, en lo relativo a gobiernos extranjeros resultará aplicable lo previsto en el artículo 120 de la presente Ley.
 
 ###### Artículo 166.
 
@@ -2363,6 +2743,10 @@ I. La institución financiera del exterior, la sociedad controladora filial o la
 II. Los estatutos sociales de la casa de bolsa cuyas acciones sean objeto de enajenación sean modificados, a efecto de cumplir con lo dispuesto en el presente apartado.
 
 En el evento de que el adquirente sea una filial, la casa de bolsa deberá fusionarse con aquélla.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En todo lo relativo a gobiernos extranjeros resultará aplicable lo previsto en el artículo 117 de esta Ley.
 
 ###### Artículo 168.
 
@@ -2450,11 +2834,41 @@ Las disposiciones que expida la Comisión conforme a este artículo no podrán r
 
 La Comisión, previo acuerdo de su Junta de Gobierno, determinará mediante disposiciones de carácter general el importe del capital social mínimo de las casas de bolsa en función de las actividades que realicen y servicios que proporcionen.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 173.
 
-Las casas de bolsa, con independencia de contar con el capital social mínimo, deberán mantener un capital global en relación con los riesgos en que incurran en su operación, que no podrá ser inferior a la cantidad que resulte de sumar los requerimientos de capital por cada tipo de riesgo, en términos de las disposiciones de carácter general que emita la Comisión, previo acuerdo de su Junta de Gobierno.
+Las casas de bolsa deberán mantener en todo momento un capital neto que podrá expresarse mediante un índice y no podrá ser inferior a la cantidad que resulte de sumar los requerimientos de capital que establezca la Comisión en términos de las disposiciones de carácter general que emita con la aprobación de su Junta de Gobierno. Al efecto dichos requerimientos de capital estarán referidos a los riesgos de mercado, de crédito, operacional y demás en que las casas de bolsa incurran en su operación.
 
-El capital global será el que se obtenga conforme a lo que establezca la propia Comisión en las mencionadas disposiciones.
+El capital neto se determinará conforme lo que establezca la propia Comisión en las mencionadas disposiciones y constará de varias partes, entre las cuales se definirá una básica, que a su vez, contará cuando menos de dos tramos, de los cuales uno se denominará capital fundamental. El capital básico y el capital fundamental en función de los riesgos de mercado, de crédito, operacional y otros en que incurran en su operación, no deberán ser inferiores a los mínimos determinados por la Comisión en las disposiciones a que se refiere el primer párrafo de este artículo.
+
+Los requerimientos de capital que establezca la Comisión tendrán por objeto salvaguardar la estabilidad financiera y la solvencia de las casas de bolsa, así como proteger los intereses del público inversionista.
+
+El capital neto estará integrado por aportaciones de capital, así como por utilidades retenidas y reservas de capital, sin perjuicio de que la Comisión permita incluir o restar en dicho capital neto otros conceptos del patrimonio, sujeto a los términos y condiciones que establezca dicha Comisión en las referidas disposiciones de carácter general.
+
+Al ejercer las atribuciones y expedir las disposiciones de carácter general a que se refiere este artículo, la Comisión deberá tomar en cuenta los usos bursátiles internacionales respecto a la adecuada capitalización de las casas de bolsa, al tiempo que determinará las clasificaciones de los activos, de las operaciones causantes de pasivo contingente y otras operaciones, determinando el tratamiento que corresponda a los distintos grupos de activos y operaciones resultantes de las referidas clasificaciones.
+
+Con independencia del índice de capitalización a que se refiere este artículo, las casas de bolsa deberán mantener suplementos de capital por arriba del mínimo requerido para dicho índice de capitalización, que determine la Comisión en las referidas disposiciones de carácter general. Para determinar dichos suplementos, la Comisión podrá tomar en cuenta diversos factores tales como la necesidad de contar con un margen de capital para operar por arriba del mínimo, el ciclo económico y los riesgos que las características de cada casa de bolsa o de sus operaciones pudieran representar para la estabilidad del sistema financiero o de la economía en su conjunto.
+
+En caso de incumplimiento de los suplementos de capital a que se refiere el párrafo anterior, la Comisión podrá aplicar las medidas correctivas que correspondan a que se refieren los artículos 135 y 136 de esta Ley.
+
+La Comisión, en las disposiciones a que se refiere este artículo, establecerá el procedimiento para el cálculo del índice de capitalización. Dicho cálculo se efectuará con base en el reconocimiento que se haga a los distintos componentes del capital neto conforme a lo dispuesto por las disposiciones de carácter general a que se refiere el presente artículo, así como con base en los requerimientos señalados en el primer párrafo de este artículo y en los suplementos de capital, aplicables a las casas de bolsa, así como la información que respecto de cada casa de bolsa podrá darse a conocer al público.
+
+Cuando la Comisión, con motivo de su función de supervisión, requiera como medida correctiva a las casas de bolsa realizar ajustes a los registros contables relativos a sus operaciones activas, pasivas y de capital que, a su vez, puedan derivar en modificaciones a su índice de capitalización o a sus suplementos de capital, dicha Comisión deberá llevar a cabo las acciones necesarias para que se realice el cálculo de dicho índice o suplementos de conformidad con lo previsto en este artículo y en las disposiciones aplicables, en cuyo caso deberá escuchar previamente a la casa de bolsa afectada, y resolver en un plazo no mayor a tres días hábiles.
+
+En el caso de que la medida correctiva referida en el párrafo anterior ocasione que la casa de bolsa deba registrar un índice de capitalización o sus componentes o suplementos de capital en niveles inferiores a los requeridos conforme a las disposiciones de carácter general a que se refiere este artículo, esta deberá ser acordada por la Junta de Gobierno de la Comisión considerando los elementos proporcionados por la casa de bolsa de que se trate.
+
+El cálculo del índice de capitalización o sus componentes o de los suplementos de capital que, en términos del presente artículo, resulte de los ajustes requeridos por la Comisión será el utilizado para todos los efectos legales conducentes.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 173 Bis.
+
+Las casas de bolsa deberán evaluar, al menos una vez al año, si el capital con que cuentan resultaría suficiente para cubrir posibles pérdidas derivadas de los riesgos en que dichas casas de bolsa podrían incurrir en distintos escenarios, incluyendo aquellos en los que imperen condiciones económicas adversas, de conformidad con las disposiciones de carácter general que para tal efecto determine la Comisión.
+
+Los resultados de las evaluaciones que las casas de bolsa realicen, deberán presentarse en los plazos, forma y con la información que, al efecto, determine la propia Comisión mediante las disposiciones de carácter general antes citadas.
+
+Asimismo, las casas de bolsa cuyo capital no sea suficiente para cubrir las pérdidas que la casa de bolsa llegue a estimar en las evaluaciones a que se refiere el presente artículo, deberán acompañar a dichos resultados, un plan de acciones con las proyecciones de capital que, en su caso, les permitiría cubrir las pérdidas esperadas. Dicho plan deberá ajustarse a los requisitos que para su presentación establezca la Comisión en las disposiciones de carácter general antes citadas.
 
 ###### Artículo 174.
 
@@ -2486,9 +2900,25 @@ Las casas de bolsa que participen en colocaciones de valores o presten servicios
 
 Las casas de bolsa que actúen como formadores de mercado se ajustarán a los términos y condiciones de operación que se establezcan en los mercados en que participen.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 177 Bis.
+
+Las casas de bolsa que participen en colocaciones de valores estarán obligadas a:
+
+I. Cerciorarse que el prospecto de colocación, folleto o suplemento informativo, títulos representativos de los valores, y demás documentos que formen parte de la estructura o de la difusión de la colocación cumplen con las disposiciones legales aplicables, considerando las particularidades de la oferta de que se trate, incluido lo relativo a obligaciones de divulgación;
+
+II. Actuar en cumplimiento con la Ley, las disposiciones de carácter general que de ella emanan, y los contratos que para la prestación de sus servicios celebren con las emisoras; y
+
+III. Realizar la evaluación de la emisora que pretenda llevar a cabo la oferta, utilizando métodos generalmente reconocidos y aceptados para tales efectos.
+
+Las casas de bolsa serán responsables por los daños y perjuicios que causen por el incumplimiento a lo previsto en este artículo.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 178.
 
-Las casas de bolsa, al colocar valores objeto de una oferta pública, deberán llevar un registro en el que hagan constar las solicitudes u órdenes que reciban para la suscripción, enajenación o adquisición de dichos valores así como de las asignaciones que realicen, ajustándose a las disposiciones de carácter general que expida la Comisión en materia de distribución de valores entre el público inversionista y a las estipulaciones que se contengan en el prospecto de colocación, suplemento o folleto informativo que corresponda.
+Las casas de bolsa, al colocar o distribuir valores objeto de una oferta pública, se sujetarán a los límites máximos que establezca la Comisión mediante disposiciones de carácter general, las cuales considerarán la adecuada distribución de valores entre el público inversionista así como la existencia de posibles conflictos de interés. Igualmente, las casas de bolsa, llevarán un registro en el que hagan constar las solicitudes u órdenes que reciban para la suscripción, enajenación o adquisición de dichos valores, así como de las asignaciones que realicen conforme a las disposiciones a que alude este artículo.
 
 ###### Artículo 179.
 
@@ -2518,9 +2948,11 @@ Al efecto, se entenderá por cuenta global aquélla administrada por casas de bo
 
 Las casas de bolsa deberán mantener depositados los valores que adquieran por cuenta propia o de terceros en una institución para el depósito de valores o en instituciones que señale la Comisión tratándose de valores que por su naturaleza no puedan ser depositados en las primeras. Dicho depósito deberá realizarse directamente o a través de otro intermediario del mercado de valores que conforme a su régimen autorizado pueda mantener valores depositados en las citadas instituciones.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 183.
 
-Las casas de bolsa sólo podrán actuar como fiduciarias en negocios directamente vinculados con las actividades que les sean propias y podrán recibir cualquier clase de bienes, derechos, efectivo o valores referidos a operaciones o servicios que estén autorizadas a realizar. Asimismo, podrán afectarse en estos fideicomisos bienes, derechos o valores diferentes a los antes señalados exclusivamente en los casos en que la Secretaría lo autorice, mediante disposiciones de carácter general.
+Las casas de bolsa podrán actuar como fiduciarias en negocios vinculados con las actividades que les sean propias y podrán recibir cualquier clase de bienes, derechos, efectivo o valores relacionados con operaciones o servicios que estén autorizadas a realizar. Asimismo, podrán afectarse en estos fideicomisos bienes, derechos o valores diferentes a los antes señalados exclusivamente en los casos en que la Secretaría lo autorice, mediante disposiciones de carácter general.
 
 ###### Artículo 184.
 
@@ -2532,7 +2964,9 @@ Asimismo, las casas de bolsa, en su calidad de fiduciarias, deberán ajustarse, 
 
 Las casas de bolsa que actúen como instituciones fiduciarias, responderán civilmente por los daños y perjuicios que causen por la falta de cumplimiento en las condiciones o términos señalados en el fideicomiso.
 
-En el acto constitutivo del fideicomiso o en sus reformas, se podrá prever la formación de un comité técnico, las reglas para su funcionamiento y facultades del fiduciario. Cuando dichas casas de bolsa obren ajustándose a los dictámenes o acuerdos de este comité, estarán libres de toda responsabilidad.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En el acto constitutivo del fideicomiso o en sus reformas, se podrá prever la formación de un comité técnico, las reglas para su funcionamiento y facultades del fiduciario. Cuando dichas casas de bolsa obren ajustándose a los dictámenes o acuerdos de este comité, estarán libres de toda responsabilidad, siempre que en la ejecución o cumplimiento de tales dictámenes o acuerdos se cumpla con los fines establecidos en el contrato de fideicomiso y se ajusten a las disposiciones legales aplicables.
 
 El personal que las citadas casas de bolsa utilicen directa o exclusivamente para la realización de fideicomisos, podrá no formar parte del personal de la casa de bolsa, en cuyo caso se considerará al servicio del patrimonio dado en fideicomiso. Sin embargo, los derechos que asistan a esas personas conforme a la ley, los ejercitarán contra las mencionadas casas de bolsa, las que, en su caso, para cumplir con las resoluciones que la autoridad competente dicte, afectarán, en la medida que sea necesario, los bienes, derechos, efectivo o valores materia del fideicomiso.
 
@@ -2562,7 +2996,9 @@ En los contratos de fideicomiso se insertará en forma notoria lo previsto en es
 
 IV. Actuar como fiduciarias en fideicomisos a través de los cuales se capten, directa o indirectamente, recursos del público mediante cualquier acto causante de pasivo directo o contingente, excepto tratándose de fideicomisos constituidos por el Gobierno Federal a través de la Secretaría y de aquellos a través de los cuales se emitan valores que se inscriban en el Registro de conformidad con lo previsto en esta Ley, incluyendo la emisión de certificados de participación ordinaria, como excepción a lo dispuesto por el artículo 228-B de la Ley General de Títulos y Operaciones de Crédito, así como de certificados bursátiles.
 
-V. Actuar en fideicomisos a través de los cuales se evadan limitaciones o prohibiciones contenidas en las leyes financieras.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. Actuar en fideicomisos a través de los cuales se evadan limitaciones o prohibiciones contenidas en las leyes financieras o se realicen operaciones reservadas a las demás entidades financieras integrantes del sistema financiero mexicano.
 
 VI. Celebrar fideicomisos en los que se administren sumas de dinero que aporten periódicamente grupos de consumidores integrados mediante sistemas de comercialización, destinados a la adquisición de determinados bienes o servicios, incluyendo los previstos en la Ley Federal de Protección al Consumidor.
 
@@ -2590,25 +3026,97 @@ I. Celebrar operaciones con valores cuya cotización se encuentre suspendida.
 
 II. Garantizar, directa o indirectamente, rendimientos; asumir la obligación de devolver la suerte principal de los recursos que les hayan sido entregados para la celebración de operaciones con valores, salvo tratándose de reportos o préstamos de valores; responsabilizarse de las pérdidas que puedan sufrir sus clientes como consecuencia de dichas operaciones, o en cualquier forma asumir el riesgo de las variaciones en el diferencial del precio o tasa a favor de sus clientes.
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Actuar en contra del interés de sus clientes.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Proporcionar recomendaciones en servicios de asesoría sin ajustarse a esta Ley o disposiciones de carácter general que de ella deriven.
+
 ###### Artículo 189.
 
 Las casas de bolsa serán responsables de la existencia, autenticidad e integridad de los valores que coloquen mediante ofertas públicas, así como de aquéllos que depositen en instituciones para el depósito de valores o en instituciones que señale la Comisión tratándose de valores que por su naturaleza no puedan ser depositados en las primeras.
 
 Asimismo, las casas de bolsa estarán obligadas a excusarse de dar cumplimiento, sin causa de responsabilidad, a las instrucciones de sus clientes que contravengan esta Ley y demás disposiciones que emanen de ella, así como las normas aplicables en el sistema de negociación a través del cual realicen las operaciones.
 
-Las recomendaciones que efectúen las casas de bolsa a sus clientes para la realización de cualquier operación sobre valores, o bien, las operaciones que efectúen al amparo de contratos discrecionales, deberán ajustarse a los perfiles establecidos al efecto por la propia sociedad.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las casas de bolsa al proporcionar servicios asesorados deberán emitir recomendaciones y efectuar operaciones que resulten razonables. Para la determinación de la razonabilidad de las recomendaciones u operaciones deberá existir congruencia entre:
+
+I. El perfil del cliente o de la cuenta;
+
+II. El producto financiero y su adecuación con el perfil del cliente o de la cuenta, y
+
+III. La política para la diversificación de la cartera de inversión que al efecto establezcan las propias casas de bolsa, en términos de las disposiciones de carácter general que expida la Comisión.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+Las operaciones que se realicen sin guardar la congruencia a que este artículo se refiere no podrán provenir de la asesoría de la casa de bolsa y solo podrán ejecutarse previa instrucción del cliente, conservando dichas entidades tal documento como parte integrante del expediente del cliente de que se trate. Las casas de bolsa serán responsables de los daños y perjuicios ocasionados al cliente por el incumplimiento a lo previsto en este párrafo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En ningún caso se deberá entender que la asesoría en los términos de este artículo garantiza el resultado o el éxito de las inversiones o sus rendimientos.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL CUARTO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 Los clientes responderán frente a la casa de bolsa de los daños y perjuicios que le ocasionen, cuando ordenen, autoricen o consientan actos u operaciones bursátiles a sabiendas de que están prohibidas por la ley, que contravienen lo previsto en el contrato celebrado con la casa de bolsa o cuando no entreguen en realidad el monto de las inversiones. Los apoderados para celebrar operaciones con el público que intervengan en los actos u operaciones de referencia por parte de la casa de bolsa, serán responsables solidarios con el cliente frente a la citada casa de bolsa, cuando hayan tenido conocimiento de dichas irregularidades.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 190.
 
-Las casas de bolsa que reciban instrucciones de clientes o realicen operaciones por cuenta de éstos, deberán contar con lineamientos y políticas tendientes a identificar y conocer a sus clientes, así como para determinar sus objetivos de inversión. Asimismo, las casas de bolsa deberán proporcionar a su clientela la información necesaria para la toma de decisiones de inversión, considerando los perfiles que definan al efecto, ajustándose a las disposiciones de carácter general que expida la Comisión.
+Las casas de bolsa cuando proporcionen servicios asesorados a sus clientes, deberán determinar los perfiles de cada uno de ellos o de sus cuentas, asignándole un nivel de tolerancia al riesgo en cada supuesto, según corresponda.
 
-Al operar, las casas de bolsa se ajustarán al perfil que corresponda al cliente. Cuando se contraten operaciones y servicios sobre valores que no sean acordes con el perfil del cliente, deberá contarse con el consentimiento expreso del mismo. Las casas de bolsa serán responsables de los daños y perjuicios ocasionados al cliente por el incumplimiento a lo previsto en este párrafo.
+La Comisión mediante disposiciones de carácter general determinará los elementos que deberán tomar en cuenta las casas de bolsa para establecer las políticas y lineamientos en la integración del perfil de su clientela o de las cuentas que les lleven, considerando al menos la evaluación de la situación financiera, los conocimientos y experiencia del cliente, así como los objetivos de inversión.
+
+Adicionalmente, en las disposiciones a que se refiere este artículo, la Comisión establecerá los elementos mínimos que deberán considerar las casas de bolsa en sus políticas y lineamientos para efectos de realizar un análisis del producto financiero y determinar su perfil, incluyendo su riesgo y complejidad.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 190 Bis.
+
+Las casas de bolsa deberán contar con un comité responsable del análisis de los productos financieros cuya integración y funciones se sujetará a las disposiciones de carácter general que para tales efectos expida la Comisión.
+
+En las referidas disposiciones de carácter general se deberán incluir las funciones del comité responsable del análisis de los productos financieros, el cual estará obligado a realizar por lo menos lo siguiente:
+
+I. Elaborar las políticas y lineamientos a las que se sujetará la casa de bolsa en la prestación de servicios asesorados y no asesorados, incluyendo las relativas a prevenir la existencia de conflictos de interés. Tales políticas deberán someterse a la aprobación del consejo de administración.
+
+II. Aprobar el tipo de perfil de inversión para el cual o los cuales resulte razonable invertir en determinado producto financiero, de conformidad con las características de estos.
+
+III. Determinar lineamientos y límites para la composición de las carteras de inversión atendiendo a las características de los valores y los perfiles de inversión de los clientes.
+
+IV. Autorizar el ofrecimiento al mercado o la adquisición al amparo de servicios asesorados de nuevos productos financieros, considerando la información disponible en el mercado o los riesgos particulares de los mismos, de conformidad con los criterios establecidos al efecto, salvo que se trate de Valores emitidos por los Estados Unidos Mexicanos o por el Banco de México.
+
+V. Dar seguimiento periódico al desempeño de los productos financieros que el propio comité determine.
+
+En ningún caso, los miembros del comité responsable del análisis de productos financieros deberán actuar o desempeñar sus funciones en asuntos en los que tengan conflictos de interés.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 190 Bis 1.
+
+Las casas de bolsa deberán contar con los mecanismos de control interno para el cumplimiento de la presente Ley y las disposiciones de carácter general que de ella deriven en materia de servicios asesorados y no asesorados, ajustándose para ello a las disposiciones de carácter general que emita la Comisión.
+
+El consejo de administración de las casas de bolsa deberá designar una persona responsable de vigilar el cumplimiento a las disposiciones en materia de servicios asesorados y no asesorados, quien tendrá al menos, las siguientes funciones:
+
+I. Verificar el cumplimiento de las disposiciones relativas al perfil de los clientes, de los productos financieros así como la suficiencia de la evaluación y análisis de la razonabilidad de las recomendaciones u operaciones.
+
+II. Vigilar el apego a las políticas y lineamientos establecidos por el comité de análisis de producto y el consejo de administración, en su caso.
+
+III. Verificar la existencia de mecanismos de control interno e infraestructura adecuados para la prestación de servicios asesorados y no asesorados.
+
+IV. Evaluar el cumplimiento de las políticas y lineamientos para evitar la existencia de conflictos de interés.
+
+V. Evaluar y revisar permanentemente la conducta de las personas que proporcionen servicios de inversión asesorados y no asesorados, tanto en las operaciones que realicen por cuenta propia, como de sus clientes, conforme a los mecanismos que al efecto apruebe el consejo de administración.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 191.
 
-Las casas de bolsa deberán proporcionar a sus clientes la información relativa a las comisiones cobradas por las actividades y servicios que les proporcionen. Dicha información deberá proporcionarse en forma desglosada en los contratos correspondientes y, tratándose de operaciones con valores, en los estados de cuenta que envíen mensualmente a los clientes.
+Las casas de bolsa deberán proporcionar a sus clientes la información relativa a los productos financieros que ofrezcan, las actividades y servicios que presten, así como las comisiones cobradas, por lo que deberán contar con lineamientos para la difusión de tal información. La Comisión podrá expedir disposiciones de carácter general que establezcan tanto los elementos mínimos para la difusión de esta información como para la determinación de los conceptos y criterios para cobrar las comisiones.
+
+Asimismo, las casas de bolsa deberán incluir en los estados de cuenta el resultado del cálculo del rendimiento de las carteras de inversión de sus clientes. Dichos cálculos se realizarán conforme a las disposiciones de carácter general que establezca la Comisión.
 
 #### Sección IV. De la protección al inversionista
 
@@ -2664,7 +3172,21 @@ I. La casa de bolsa en el desempeño de su encargo actuará conforme a las instr
 
 Los clientes podrán instruir la celebración de operaciones a través de representantes legales debidamente acreditados, o bien, por conducto de personas autorizadas por escrito para tal efecto en el propio contrato.
 
-II. A menos que en el contrato se pacte el manejo discrecional de la cuenta, las instrucciones del cliente para la ejecución de operaciones específicas o movimientos en la cuenta del mismo, podrán hacerse de manera escrita, verbal, electrónica o telefónica, debiéndose precisar en todo caso el tipo de operación o movimiento, así como el género, especie, clase, emisor, cantidad, precio y cualquiera otra característica necesaria para identificar los valores materia de cada operación o movimiento en la cuenta.
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La casa de bolsa podrá asesorar a sus clientes en las inversiones que en su caso se realicen, estipulando al efecto las responsabilidades que deriven de su asesoría, con independencia de si en el contrato se conviene o no el manejo discrecional.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Se entenderá que las casas de bolsa prestan servicios asesorados cuando efectúen recomendaciones personalizadas por cualquier medio a sus clientes o dicha entidad realice operaciones en contratos discrecionales sin que medie participación del cliente. Cuando las casas de bolsa ejecuten lisa y llanamente las instrucciones que sus clientes les transmitan, se entenderá que no proporcionan servicios asesorados. En el caso de recomendaciones proporcionadas de manera verbal, las casas de bolsa estarán obligadas a llevar un registro electrónico o por escrito en el que conste la fecha y hora en que se hubieren dado, así como los datos necesarios para identificar los valores materia de cada recomendación.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Asimismo, las casas de bolsa podrán promover y comercializar valores de manera generalizada con independencia del perfil del cliente, cuando por las características de dichos valores se puedan adecuar a las necesidades de los inversionistas, sin necesidad de formular recomendaciones personalizadas. La Comisión señalará en disposiciones de carácter general el tipo de valores que actualizarán este supuesto atendiendo al tipo de inversionista.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. A menos que en el contrato se pacte el manejo discrecional de la cuenta, las instrucciones del cliente para la ejecución de operaciones específicas o movimientos en la cuenta del mismo, podrán hacerse de manera escrita, verbal, electrónica o telefónica, debiéndose precisar en todo caso el tipo de operación o movimiento, así como los datos necesarios para identificar los valores materia de cada operación o movimiento en la cuenta. En el caso de instrucciones giradas de forma verbal, las casas de bolsa estarán obligadas a llevar un registro electrónico o por escrito, que contenga los datos a que alude el cuarto párrafo de la fracción I anterior.
 
 Las partes podrán convenir libremente el uso de cualquier medio de comunicación, para el envío, intercambio o, en su caso, confirmación de las órdenes de la clientela inversionista y demás avisos que deban darse conforme a lo estipulado en el contrato, así como los casos en que cualquiera de ellas requiera otra confirmación por esas vías.
 
@@ -2682,7 +3204,9 @@ VII. En ningún supuesto la casa de bolsa estará obligada a cumplir las instruc
 
 VIII. Cuando en el contrato se convenga expresamente el manejo discrecional de la cuenta, las operaciones que celebre la casa de bolsa por cuenta del cliente serán ordenadas por el apoderado para celebrar operaciones con el público, designado por la casa de bolsa para dicho objeto, sin que sea necesaria la previa autorización o ratificación del cliente para cada operación.
 
-Se entiende que la cuenta es discrecional, cuando el cliente autoriza a la casa de bolsa para actuar a su arbitrio, conforme la prudencia le dicte y cuidando las inversiones como propias, ajustándose en todo caso al perfil del cliente conforme a lo establecido en el último párrafo del artículo 190 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Se entiende que la cuenta es discrecional, cuando el cliente autoriza a la casa de bolsa para actuar a su arbitrio, conforme la prudencia le dicte y cuidando las inversiones como propias, observando lo previsto en el artículo 189, tercer párrafo, fracciones I a III, así como cuarto y quinto párrafos de tal precepto de esta Ley, así como en el marco general de actuación que deberá contener los elementos mínimos que la Comisión determine mediante disposiciones de carácter general.
 
 El inversionista podrá limitar la discrecionalidad a la realización de determinadas operaciones o al manejo de valores específicos, pudiendo en cualquier tiempo revocar dicha facultad, surtiendo efectos esta revocación desde la fecha en que haya sido notificada por escrito a la casa de bolsa, sin afectar operaciones pendientes de liquidar.
 
@@ -2694,19 +3218,21 @@ A falta de convenio expreso, la tasa aplicable será igual a la que resulte del 
 
 XI. Las partes deberán pactar en los contratos de intermediación bursátil, que el cliente otorga su consentimiento para que la Comisión investigue actos o hechos que contravengan lo previsto en esta Ley, para lo cual le podrá practicar visitas de inspección sobre tales actos o hechos, así como emplazarlo, requerirle información que pueda contribuir al adecuado desarrollo de la investigación y solicitar su comparecencia para que declare al respecto.
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XII. Las casas de bolsa no podrán celebrar contratos de intermediación bursátil en los que sean cotitulares de las cuentas respectivas, sus apoderados para celebrar operaciones con el público u operadores de bolsa.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 201.
 
 En los contratos que celebren las casas de bolsa con su clientela, el inversionista que sea titular de la cuenta podrá en cualquier tiempo designar o cambiar beneficiario.
 
-En caso de fallecimiento del titular de la cuenta, la casa de bolsa entregará al beneficiario que haya señalado de manera expresa y por escrito, el saldo registrado en la cuenta que no exceda el mayor de los límites siguientes:
+En caso de fallecimiento del titular de la cuenta, la casa de bolsa entregará el importe correspondiente a quienes el propio titular hubiese designado, expresamente y por escrito, como beneficiarios, en la proporción estipulada para cada uno de ellos.
 
-I. El equivalente a veinte veces el salario mínimo general diario vigente en el Distrito Federal elevado al año.
+En su caso, el beneficiario tendrá derecho de elegir la entrega de determinados valores registrados en la cuenta o el importe de su venta.
 
-II. El equivalente al setenta y cinco por ciento del saldo registrado en la cuenta.
-
-El beneficiario tendrá derecho de elegir la entrega de determinados valores registrados en la cuenta o el importe de su venta, con sujeción a los límites señalados.
-
-El excedente, en su caso, deberá entregarse de conformidad con la legislación común.
+Si no existieren beneficiarios, el importe deberá entregarse en los términos previstos en la legislación común.
 
 ###### Artículo 202.
 
@@ -2718,9 +3244,11 @@ Previamente a la conclusión del plazo establecido en el párrafo anterior, cual
 
 Cuando las partes hayan convenido el uso de telégrafo, télex, telefax, o cualquier otro medio electrónico, de cómputo o de telecomunicaciones, las modificaciones a los contratos que tengan celebrados podrán realizarse a través de los mismos, observando el plazo y las modalidades para la manifestación del consentimiento a que se refiere este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 203.
 
-Las casas de bolsa deberán enviar a sus clientes, dentro de los primeros cinco días hábiles posteriores al corte mensual, un estado de cuenta autorizado con la relación de todas las operaciones realizadas que refleje la posición de valores de dichos clientes al último día del corte mensual, así como la posición de valores del corte mensual anterior.
+Las casas de bolsa deberán enviar a sus clientes, dentro de los primeros cinco días hábiles posteriores al corte mensual, un estado de cuenta autorizado con la relación de todas las operaciones realizadas que refleje la posición de valores de dichos clientes al último día del corte mensual, así como la posición de valores del corte mensual anterior. Asimismo, deberá contener la demás información que la Comisión determine mediante disposiciones de carácter general.
 
 Este documento hará las veces de factura global respecto de las operaciones en él consignadas.
 
@@ -2750,9 +3278,27 @@ III. De la petición señalada en la fracción anterior, el acreedor o, en su ca
 
 IV. Si el otorgante de la garantía no exhibe el importe del adeudo o el documento que compruebe la prórroga del plazo o la novación de la obligación o el comprobante de su entrega al acreedor o no acredita la constitución de la garantía faltante, el ejecutor ordenará la venta de los valores materia de la prenda a precio de mercado, hasta por el monto necesario para cubrir el principal y accesorios pactados, los que entregará en pago al acreedor. La venta se realizará conforme a lo convenido por las partes, pudiendo ejecutarse incluso fuera de bolsa.
 
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+En los casos en los que las partes de los contratos de prenda bursátil pacten la transferencia de propiedad de los valores otorgados en prenda, éstas podrán pactar adicionalmente que en caso de que exista un incumplimiento de las obligaciones garantizadas, el acreedor mantenga la propiedad de los valores otorgados en prenda hasta por la cantidad que importe las obligaciones garantizadas sin necesidad de que exista un procedimiento de ejecución o resolución judicial y se aplique el monto de los valores otorgados en prenda al pago de las obligaciones de pago del deudor, considerándolos a su valor de mercado. El efecto de dicha aplicación al pago será extinguir las obligaciones garantizadas hasta la cantidad que importe el valor de mercado de los valores otorgados en prenda.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+Si el precio de mercado de los valores otorgados en prenda no cubre la totalidad de las obligaciones garantizadas, quedará expedita la acción del acreedor por el resto de la deuda. Para el caso de que las garantías excedan la obligación garantizada, el acreedor deberá devolver el remanente al deudor. En caso de que las partes realicen la aplicación al pago de conformidad con el párrafo anterior, se entenderá que la aplicación al pago se llevó a cabo por el consentimiento de las partes como una forma de pago de las obligaciones del deudor y no en ejecución de la prenda bursátil.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+Las partes deberán pactar en el contrato respectivo los términos para la determinación del valor de mercado de los valores otorgados en prenda.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL QUINTO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
+
 En los contratos de prenda bursátil podrá pactarse que el otorgante de la misma pueda sustituir a satisfacción del acreedor los valores dados en garantía, antes de que se hagan las notificaciones previstas en la fracción III de este artículo.
 
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL SEXTO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
+
 Cuando el administrador de la garantía no sea acreedor de la obligación garantizada podrá fungir como ejecutor, suscribir el contrato de prenda bursátil y afectar los valores correspondientes por cuenta de sus clientes, en ejercicio del mandato que para tal efecto los mismos le otorguen, siempre que no se haya pactado con tales clientes el manejo discrecional de su cuenta.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL SÉPTIMO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 En los estados de cuenta que envíen las casas de bolsa a sus clientes se destacarán los elementos correspondientes a las prendas bursátiles constituidas por éstos, con los datos necesarios para la identificación de los valores otorgados en prenda. El estado de cuenta servirá de resguardo de los valores hasta la terminación del contrato de prenda bursátil.
 
@@ -2776,9 +3322,11 @@ Invariablemente deberán coincidir los saldos de las cuentas de orden de la cont
 
 En ningún caso estos bienes estarán afectos al cumplimiento de otras obligaciones que no sean las derivadas del fideicomiso o las que contra ellos corresponda a terceros de acuerdo con la Ley.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 208.
 
-Los documentos, grabaciones de voz o medios electrónicos o digitales relativos a las instrucciones de los clientes serán conservados durante un plazo de cuando menos cinco años como parte integrante de la contabilidad de la casa de bolsa, sin perjuicio de lo establecido en el último párrafo de la fracción III del artículo 212 de esta Ley.
+Las casas de bolsa estarán obligadas a grabar o documentar en medios electrónicos o digitales todas las comunicaciones con sus clientes respecto de los servicios de asesoría, promoción, compra y venta de valores o fiduciarios relacionados con las actividades antes citadas, así como conservar durante un plazo de cuando menos cinco años como parte integrante de la contabilidad de la casa de bolsa, tales grabaciones o documentos, sin perjuicio de lo establecido en el último párrafo de la fracción III del artículo 212 de esta Ley. Dicha información y documentación deberá estar a disposición de la Comisión en todo momento, quien podrá requerir su entrega inmediata.
 
 ###### Artículo 209.
 
@@ -2818,7 +3366,9 @@ a) Los actos, operaciones y servicios que realicen con sus clientes y usuarios, 
 
 b) Todo acto, operación o servicio que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administrador, directivo, funcionario, empleado o apoderado.
 
-Los reportes a que se refiere esta fracción, de conformidad con las disposiciones de carácter general previstas en este artículo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y bursátiles que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los reportes a que se refiere esta fracción, de conformidad con las disposiciones de carácter general previstas en este artículo, se elaborarán y presentarán tomando en consideración cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y bursátiles que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información. Los reportes deberán referirse cuando menos a operaciones que se definan como relevantes, internas preocupantes e inusuales, las relacionadas con transferencias internacionales y operaciones en efectivo realizadas en moneda extranjera.
 
 III. Contar, conforme a lo que establezca la Secretaría en las citadas disposiciones de carácter general, con lineamientos sobre el procedimiento y criterios que deberán observar respecto de:
 
@@ -2830,13 +3380,41 @@ c) La forma en que deberán resguardar y garantizar la seguridad de la informaci
 
 d) Los términos para proporcionar capacitación al interior de la casa de bolsa sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+e) El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las propias disposiciones de carácter general a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+f) El establecimiento de aquellas estructuras internas que deban funcionar como áreas de cumplimiento en la materia, al interior de cada casa de bolsa.
+
 Dichos intermediarios deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) de esta fracción, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
 
 La Secretaría estará facultada para requerir y recabar, por conducto de la Comisión, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Asimismo, la Secretaría estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las casas de bolsa deberán suspender de forma inmediata la realización de actos, operaciones o servicios con los clientes o usuarios que la Secretaría de Hacienda y Crédito Público les informe mediante una lista de personas bloqueadas que tendrá el carácter de confidencial. La lista de personas bloqueadas tendrá la finalidad de prevenir y detectar actos, omisiones u operaciones que pudieran ubicarse en los supuestos previstos en los artículos referidos en la fracción I de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La obligación de suspensión a que se refiere el párrafo anterior dejará de surtir sus efectos cuando la Secretaria de Hacienda y Crédito Público elimine de la lista de personas bloqueadas al cliente o usuario en cuestión.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Secretaría de Hacienda y Crédito Público establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas.
+
 El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en el artículo 192 de esta Ley.
 
 Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las casas de bolsa, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 391 de la presente ley, con multa equivalente del 10% al 100% del monto del acto, operación o servicio que se realice con un cliente o usuario que se haya informado que se encuentra en la lista de personas bloqueadas a que se refiere este artículo; con multa equivalente del 10% al 100% del monto de la operación inusual no reportada o, en su caso, de la serie de operaciones relacionadas entre sí del mismo cliente o usuario, que debieron haber sido reportadas como operaciones inusuales; tratándose de operaciones relevantes, internas preocupantes, las relacionadas con transferencias internacionales y operaciones en efectivo con moneda extranjera, no reportadas, así como los incumplimientos a cualquiera de los incisos a), b), c) o e) de la fracción III de este artículo, se sancionará con multa de 30,000 a 100,000 días de salario y en los demás casos de incumplimiento a este precepto y a las disposiciones que de él emanen multa de 5,000 a 50,000 días de salario.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, las casas de bolsa, sus miembros del consejo de administración, directivos, funcionarios, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 ###### Artículo 213.
 
@@ -2950,53 +3528,163 @@ La Comisión podrá expedir disposiciones de carácter general en relación con 
 
 La Comisión podrá establecer normas prudenciales orientadas a preservar la liquidez, solvencia y estabilidad de las casas de bolsa en materia de controles internos, prevención de conflictos de interés, prácticas societarias y de auditoría, administración de riesgos y transparencia y equidad en las operaciones y servicios, en protección del público y de los usuarios y clientes en general.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Para la prestación de servicios asesorados y no asesorados las casas de bolsa deberán contar con áreas de negocio separadas e independientes respecto de las demás áreas de negocio, ajustándose a las disposiciones de carácter general que expida la Comisión.
+
 ## Título VII. De los asesores en inversiones
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 225.
 
-Las personas que sin ser intermediarios del mercado de valores proporcionen de manera habitual y profesional servicios de administración de cartera de valores tomando decisiones de inversión a nombre y por cuenta de terceros, así como que otorguen asesoría de inversión en valores, análisis y emisión de recomendaciones de inversión, tendrán el carácter de asesores en inversiones.
+Las personas que sin ser intermediarios del mercado de valores proporcionen de manera habitual y profesional servicios de administración de cartera de valores tomando decisiones de inversión a nombre y por cuenta de terceros, así como que otorguen de manera habitual y profesional asesoría de inversión en valores, análisis y emisión de recomendaciones de inversión de manera individualizada, tendrán el carácter de asesores en inversiones.
 
-Las personas a que se refiere el párrafo anterior podrán formar parte de un organismo autorregulatorio reconocido por la Comisión en términos de esta Ley.
+Para ser asesores en inversiones se requiere registrarse ante la Comisión. Tratándose de personas físicas, deberán acreditar que cuentan con honorabilidad e historial crediticio satisfactorio, en términos de las disposiciones de carácter general que expida la Comisión, así como contar con la certificación ante un organismo autorregulatorio conforme al artículo 193 de esta Ley. Para el caso de personas morales, deberán ser sociedades civiles en términos de la legislación común, o bien sociedades anónimas o sociedades de responsabilidad limitada en términos de la Ley General de Sociedades Mercantiles y ajustarse a los siguientes requisitos:
 
-Las actividades a que se refiere el primer párrafo de este artículo no se considerarán intermediación con valores.
+I. Que en su objeto social se prevea la realización de las actividades señaladas en el párrafo anterior.
 
-Los asesores en inversiones no estarán sujetos a la supervisión de la Comisión.
+II. Que en sus estatutos sociales se prevea que en la realización de su objeto el asesor en inversiones deberá ajustarse a lo previsto en la presente Ley y en las demás disposiciones aplicables.
+
+III. Que cuenten con establecimientos físicos destinados exclusivamente a la realización de su objeto social.
+
+IV. Que acompañen a su solicitud la relación e información de las personas que directa o indirectamente mantengan una participación en el capital social del asesor en inversiones.
+
+V. Que presenten junto con su solicitud el manual de conducta que incluya las políticas para la solución de potenciales conflictos de interés en la realización de sus actividades. Los citados manuales deberán contener las normas que al efecto determine la Comisión mediante disposiciones de carácter general.
+
+Los asesores en inversiones cuyos accionistas, socios, miembros del consejo de administración, así como los directivos, apoderados y empleados, no participen en el capital o en los órganos de administración, ni tengan relación de dependencia con instituciones de crédito, casas de bolsa, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión, instituciones calificadoras de valores, deberán adicionar a su denominación la expresión "independiente". En caso contrario, estarán obligados a revelar a sus clientes tal situación al momento de contratar con ellos.
+
+Las sociedades que se registren en términos del presente artículo, deberán presentar ante la Comisión los datos de su inscripción en el Registro Público de Comercio, en un plazo que no deberá exceder de quince días hábiles contados a partir del otorgamiento del mismo.
+
+Dentro de los tres días hábiles siguientes a que el asesor en inversiones haya inscrito en el registro señalado en el artículo 128 de la Ley General de Sociedades Mercantiles la transmisión de cualquiera de sus acciones o partes sociales, o bien cuando uno de los socios haya cedido sus derechos, por más del diez por ciento de su capital social pagado, deberán dar aviso a la Comisión de dicha transmisión.
+
+El registro que lleve la Comisión de acuerdo con lo previsto en este artículo será público, por lo que dicha Comisión le dará difusión en su página electrónica de la red mundial denominada Internet y contendrá anotaciones respecto de cada asesor en inversiones, que podrán referirse entre otras, a la cancelación del registro. La Comisión podrá establecer mediante disposiciones de carácter general las bases de la organización y funcionamiento del registro, así como las anotaciones adicionales que deberá incorporar.
+
+Las personas a que se refiere este artículo podrán formar parte de un organismo autorregulatorio reconocido por la Comisión en términos de esta Ley.
+
+Los asesores en inversiones no podrán llevar a cabo intermediación con valores y estarán sujetos a la supervisión de la Comisión en términos del primer párrafo del artículo 350 de esta Ley.
 
 ###### Artículo 226.
 
 Los asesores en inversiones, en la prestación de sus servicios deberán:
 
-I. Contar con mandato que les faculte girar instrucciones para la celebración de operaciones con valores a nombre y por cuenta de sus clientes, o bien, estar autorizados al efecto en los contratos celebrados por el cliente con intermediarios del mercado de valores o instituciones financieras del exterior del mismo tipo.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. Documentar a nombre del cliente respectivo las operaciones con valores que ordenen por cuenta de éste.
+I. Contar con mandato que les faculte girar instrucciones a los intermediarios del mercado de valores o instituciones financieras del exterior del mismo tipo para la celebración de operaciones con valores a nombre y por cuenta de sus clientes, o bien, estar autorizados al efecto en los contratos celebrados por el cliente con tales intermediarios o instituciones. En cualquier caso, deberán estipular las responsabilidades que deriven de sus servicios.
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Documentar a nombre del cliente respectivo las operaciones con valores que ordenen por cuenta de este. Asimismo, conservar las recomendaciones formuladas y la información proporcionada sobre las actividades, servicios y productos financieros que ofrezcan. Adicionalmente, llevar un registro electrónico o por escrito en el que conste la fecha y hora en que el cliente le hubiere requerido realizar una operación, así como los datos necesarios para identificar los valores materia de cada operación.
 
 III. Informar a sus clientes cuando se encuentren en presencia de conflictos de interés, señalándoles expresamente en qué consisten.
 
-IV. Ajustarse a los objetivos de inversión de sus clientes, para lo cual deberán recabar la información necesaria para determinar su perfil de inversión y riesgo.
+IV. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
 V. Observar las normas de autorregulación que emita el organismo autorregulatorio del cual, en su caso, sean integrantes.
 
 VI. Certificar su calidad técnica, honorabilidad e historial crediticio satisfactorio, ante un organismo autorregulatorio reconocido por la Comisión, en relación con los servicios que proporcionen al público, o bien, utilizar los servicios de personas físicas que cuenten con dicha certificación.
 
-VII. Informar a sus clientes que no están sujetos a la supervisión de la Comisión.
+VII. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-Los asesores en inversiones, con independencia de lo señalado en la fracción IV de este artículo, deberán contribuir con los intermediarios del mercado de valores para la adecuada identificación de sus clientes, para los efectos a que hace referencia el artículo 212 de esta Ley.
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Los intermediarios del mercado de valores estarán exentos de responsabilidad frente a sus clientes, cuando la celebración de las operaciones se realice en cumplimiento de las instrucciones giradas por parte de asesores en inversiones, en términos de lo previsto en la fracción I de este artículo. Lo anterior, sin perjuicio de lo establecido en el artículo 189, segundo párrafo y 190, segundo párrafo del presente ordenamiento legal.
+VIII. La propaganda o publicidad dirigida al público estará sujeta a las previsiones contenidas en el artículo 6 de la presente Ley.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IX. Sujetarse a lo dispuesto por los artículos 188, fracción IV; 189, párrafos tercero, fracciones I a III, así como párrafos cuarto y quinto; 190, salvo por lo dispuesto en los párrafos penúltimo y último; 191, excepto último párrafo; 200, fracción VIII, segundo párrafo de esta Ley, así como a las disposiciones de carácter general que expida la Comisión en términos de tales artículos. En caso de ser asesores en inversiones que no sean independientes, en adición a lo anterior, les resultarán aplicables los límites máximos a que alude el artículo 178, respecto de las recomendaciones que formulen, e igualmente deberán ajustarse a lo previsto en el artículo 190, párrafos penúltimo y último del presente ordenamiento legal.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los intermediarios del mercado de valores estarán exentos de responsabilidad frente a sus clientes, cuando la celebración de las operaciones se realice en cumplimiento de las instrucciones giradas por parte de asesores en inversiones, en términos de lo previsto en la fracción I de este artículo. En estos supuestos, a los intermediarios del mercado de valores no les resultará aplicable lo previsto por el artículo 190 de esta Ley. Lo anterior, sin perjuicio de lo establecido en el artículo 189, segundo párrafo del presente ordenamiento legal.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Comisión podrá emitir disposiciones de carácter general relativas a la información financiera, administrativa y operativa que los asesores en inversiones deban presentarle de manera periódica y continua.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 226 Bis.
+
+En materia de prevención y detección de actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 o 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, con el fin de coadyuvar con los intermediarios del mercado de valores, los asesores en inversiones, en términos de las disposiciones de carácter general que emita la Secretaría, escuchando la previa opinión de la Comisión, estarán obligados a:
+
+I. Realizar un adecuado conocimiento de sus clientes, para lo cual deberán recabar información y documentación que acredite sus antecedentes, condiciones específicas, y actividad económica o profesional.
+
+II. Para la apertura de cuentas o celebración de contratos relativos a los servicios que presten, deberán recabar la información y documentación que acredite plenamente la identidad de sus clientes.
+
+III. Presentar a la Secretaría, por conducto de la Comisión, reportes sobre:
+
+a) Los actos, operaciones y servicios que realicen con sus clientes.
+
+b) Todo acto, operación o servicio que realice o en el que intervenga algún miembro del consejo de administración u órgano equivalente, administrador, directivo, funcionario, empleado o apoderado de los asesores en inversión, que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las obligaciones señaladas en el presente artículo.
+
+Los reportes a que se refiere esta fracción, de conformidad con las disposiciones de carácter general previstas en este artículo, se elaborarán y presentarán tomando en consideración cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y bursátiles que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información. Los reportes deberán referirse cuando menos a operaciones que se definan como internas preocupantes e inusuales.
+
+IV. Designar ante la Comisión a un representante del cumplimiento de las obligaciones previstas en el presente artículo.
+
+V. Resguardar y garantizar la seguridad de la información y documentación relativas al conocimiento e identificación de sus clientes, así como de los reportes.
+
+VI. Contar con sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las propias disposiciones de carácter general a que se refiere este artículo.
+
+VII. Capacitar a su personal sobre la materia objeto de este artículo.
+
+El cumplimiento de las obligaciones a que se refiere este artículo se verificará en los términos de las disposiciones de carácter general que emita la Secretaría.
+
+Los asesores en inversión deberán conservar, por al menos cinco años, la información y documentación a que se refiere la fracción V de este artículo, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+
+La Secretaría estará facultada para requerir y recabar, por conducto de la Comisión, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción III de este artículo. Asimismo, la Secretaría estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 391 de la presente ley, con multa equivalente del 10% al 100% del monto de la operación inusual no reportada o, en su caso, de la serie de operaciones relacionadas entre sí del mismo cliente o usuario, que debieron haber sido reportadas como operaciones inusuales; tratándose de operaciones internas preocupantes no reportadas, así como los incumplimientos a cualquiera de las fracciones I, II, V o VI de este artículo, se sancionará con multa de 30,000 a 100,000 días de salario y en los demás casos de incumplimiento a este precepto y a las disposiciones que de él emanen multa de 5,000 a 50,000 días de salario.
+
+Los servidores públicos de la Secretaría y de la Comisión, los asesores en inversión, sus miembros del consejo de administración u órgano equivalente, directivos, funcionarios, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 ###### Artículo 227.
 
 Los asesores en inversiones tendrán prohibido:
 
-I. Percibir cualquier tipo de remuneración proveniente de emisoras por la promoción de los valores que éstas emiten.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. Percibir cualquier tipo de remuneración proveniente de intermediarios del mercado de valores nacionales o del extranjero, por referenciar clientes u operaciones con éstos.
+I. Percibir cualquier tipo de remuneración proveniente de emisoras por la promoción de los valores que emiten o de personas relacionadas con tales emisoras.
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Percibir cualquier tipo de remuneración proveniente de intermediarios del mercado de valores, nacionales o del extranjero. La presente prohibición no será aplicable cuando los asesores en inversiones presten servicios de asesoría a intermediarios financieros en carácter de sus clientes.
 
 III. Recibir en depósito en administración o custodia, o en garantía por cuenta de terceros, dinero o valores que pertenezcan a sus clientes, ya sea directamente de éstos o provenientes de las cuentas que les manejen, salvo tratándose de las remuneraciones por la prestación de sus servicios.
 
-IV. Ofrecer rendimientos garantizados.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Ofrecer rendimientos garantizados o actuar en contra del interés de sus clientes.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. Actuar como cotitulares en los contratos de intermediación bursátil de sus clientes.
 
 Los asesores en inversiones responderán a sus clientes por los daños y perjuicios que les ocasionen, en los términos de las disposiciones aplicables, con motivo del incumplimiento a lo previsto en este artículo o a las obligaciones convenidas en los contratos de prestación de servicios que al efecto celebren.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 227 Bis.
+
+La Comisión, previa audiencia del asesor en inversiones interesado, podrá declarar la cancelación del registro a que se refiere el artículo 225 de esta Ley, en los siguientes casos:
+
+I. Si el asesor en inversiones efectúa operaciones en contravención a lo dispuesto por esta Ley o a las disposiciones que emanen de ella.
+
+II. Si el asesor en inversiones no realiza las operaciones para las cuales le fue otorgado el registro a que se refiere el artículo 225 de la presente Ley.
+
+III. Si sus administradores han intervenido en operaciones que infrinjan las disposiciones de esta Ley o las normas que de ella deriven.
+
+IV. Si el asesor en inversiones, por conducto de su representante legal, así lo solicita.
+
+V. Tratándose de personas físicas, dejen de cumplir con los requisitos de honorabilidad e historial crediticio satisfactorio o no cuenten con la certificación correspondiente.
+
+La cancelación del registro incapacitará a la sociedad para realizar las operaciones a que se refieren los artículos 225, a partir de la fecha en que se notifique la misma.
+
+La Comisión promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de haber notificado la cancelación del registro, éste no hubiere sido designado. Cuando la propia Comisión encuentre que existe imposibilidad de llevar a cabo la liquidación del asesor en inversiones, lo hará del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos trescientos sesenta días naturales a partir del mandamiento judicial.
+
+Los interesados podrán oponerse a esta cancelación dentro del citado plazo de sesenta días hábiles, ante la propia autoridad judicial.
 
 ## Título VIII. De los organismos autorregulatorios
 
@@ -3150,9 +3838,37 @@ El capital social de las bolsas de valores se integrará exclusivamente por acci
 
 La sola suscripción y pago de acciones representativas del capital social no dará derecho a su titular para realizar transacciones en las bolsas de valores y únicamente podrán operar en éstas los miembros que cumplan con los requisitos que se establezcan en su reglamento interior.
 
-Las acciones representativas del capital social de las bolsas de valores serán de libre suscripción, salvo tratándose de personas morales extranjeras que ejerzan funciones de autoridad o personas que sean propietarias, directa o indirectamente, del diez por ciento o más del capital de las entidades a que se refiere el párrafo siguiente, las cuales en ningún caso podrán participar en el capital social de las bolsas de valores.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Las casas de bolsa, instituciones de crédito, instituciones de seguros y de fianzas, sociedades de inversión, sociedades operadoras de sociedades de inversión y administradoras de fondos para el retiro, podrán invertir, con cargo a su capital, en acciones representativas del capital social de las bolsas de valores.
+Las acciones representativas del capital social de las bolsas de valores serán de libre suscripción.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las casas de bolsa, instituciones de crédito, instituciones de seguros y de fianzas, sociedades de inversión, sociedades operadoras de sociedades de inversión y administradoras de fondos para el retiro, podrán invertir, con cargo a su capital, en acciones representativas del capital social de las bolsas de valores. Las personas que sean propietarias, directa o indirectamente, del diez por ciento o más del capital de las entidades antes señaladas, en ningún caso podrán participar en el capital social de las bolsas de valores.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los gobiernos extranjeros no podrán participar, directa o indirectamente, en el capital social de las bolsas de valores, salvo en los casos siguientes:
+
+I. Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
+
+Las bolsas de valores que se ubiquen en lo dispuesto en esta fracción, deberán entregar a la Secretaría la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto. La Secretaría tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información y documentación correspondiente, para resolver si la participación de que se trata se ubica en el supuesto de excepción previsto en esta fracción.
+
+II. Cuando la participación correspondiente implique que se tenga el control de la bolsa de valores, en términos del artículo 2, fracción III de esta Ley, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Secretaría, siempre que a su juicio dichas personas acrediten que:
+
+a) No ejercen funciones de autoridad, y
+
+b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+III. Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de la bolsa de valores, en términos del artículo 2, fracción III de esta Ley. Lo anterior, sin perjuicio de las solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 237 Bis.
+
+Las bolsas de valores se abstendrán de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por el artículo anterior, debiendo informar tal circunstancia a la Secretaría, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
+
+Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital social de una bolsa de valores, se realicen en contravención a lo dispuesto en el artículo anterior, los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de la bolsa de valores quedarán en suspenso y por lo tanto no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda o que se han satisfecho los requisitos que esta ley contempla.
 
 ###### Artículo 238.
 
@@ -3178,11 +3894,15 @@ El consejo de administración de las bolsas de valores estará integrado por un 
 
 En ningún caso podrán ser consejeros independientes las personas físicas que participen en el capital social de entidades financieras o desempeñen en éstas cargos, empleos o comisiones, excepto tratándose de consejeros independientes de alguna de las entidades financieras mencionadas.
 
-Los accionistas que en lo individual o en conjunto tengan el diez por ciento de las acciones representativas del capital social podrán designar en asamblea general de accionistas un consejero y un comisario, así como revocar dichos nombramientos, sin que resulten aplicables los porcentajes a que hacen referencia los artículos 144 y 171 de la Ley General de Sociedades Mercantiles. Tales designaciones, sólo podrán revocarse cuando a su vez se revoque el nombramiento de todos los demás consejeros o comisarios, según sea el caso, en cuyo supuesto no deberán ser designados con tal carácter durante los doce meses inmediatos siguientes a la fecha de revocación.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los accionistas podrán designar en asamblea general de accionistas un consejero y un comisario por cada diez por ciento que tengan en lo individual o en conjunto de las acciones representativas del capital social así como revocar dichos nombramientos, sin que resulten aplicables los porcentajes a que hacen referencia los artículos 144 y 171 de la Ley General de Sociedades Mercantiles. Tales designaciones, sólo podrán revocarse cuando a su vez se revoque el nombramiento de todos los demás consejeros o comisarios, según sea el caso, en cuyo supuesto no deberán ser designados con tal carácter durante los doce meses inmediatos siguientes a la fecha de revocación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 242.
 
-El consejo de administración podrá establecer los comités que estime necesarios para el mejor desempeño de las funciones de la sociedad, pero en todo caso deberá contar con comités encargados de la admisión de miembros, del listado de emisoras, de auditoría, de normativa y de sanciones. El comité de auditoría deberá ser presidido por un consejero independiente.
+El consejo de administración podrá establecer los comités que estime necesarios para el mejor desempeño de las funciones de la sociedad, pero en todo caso deberá contar con comités encargados de la admisión de miembros, del listado de emisoras, de auditoría, de normativa, de vigilancia y de sanciones. El comité de auditoría deberá ser presidido por un consejero independiente.
 
 Dichos comités se organizarán y funcionarán conforme a las normas de autorregulación que establezca la bolsa.
 
@@ -3224,9 +3944,15 @@ VIII. Expedir normas de autorregulación que reglamenten sus actividades y las d
 
 IX. Proponer a las autoridades la introducción de nuevos productos y facilidades para la negociación de valores.
 
-X. Realizar actos necesarios para la consecución de su objeto social.
+(ADICIONADA, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
 
-XI. Las análogas, conexas o complementarias de las anteriores, que les sean autorizadas por la Secretaría, mediante disposiciones de carácter general.
+X. Celebrar acuerdos con otras bolsas de valores nacionales o extranjeras, que tengan por objeto facilitar el acceso a sus sistemas de negociación.
+
+XI. Realizar actos necesarios para la consecución de su objeto social.
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DE LA FRACCIÓN X DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UNA NUEVA FRACCIÓN.</small>
+
+XII. Las análogas, conexas o complementarias de las anteriores, que les sean autorizadas por la Secretaría, mediante disposiciones de carácter general.
 
 ###### Artículo 245.
 
@@ -3322,9 +4048,21 @@ Las sociedades a que se refiere el párrafo anterior estarán sujetas a la inspe
 
 Las bolsas de valores para invertir, directa o indirectamente, en títulos representativos del capital social de entidades nacionales o extranjeras del mismo tipo o que realicen funciones equivalentes a las de instituciones para el depósito de valores o contrapartes centrales de valores, requerirán autorización de la Comisión.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 252.
 
-La Comisión podrá expedir disposiciones de carácter general respecto a la información que deban proporcionar periódicamente las bolsas de valores a las autoridades financieras, para lo cual podrá requerir datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la información que estime necesaria en la forma y términos que señale en las citadas disposiciones.
+La Comisión podrá expedir disposiciones de carácter general respecto a la información que deban proporcionar periódicamente las bolsas de valores a las autoridades financieras, para lo cual podrá requerir datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la información que estime necesaria en la forma y términos que señale en las citadas disposiciones. Adicionalmente, la Comisión podrá establecer disposiciones de carácter general relativas a los controles internos, administración de riesgos, prevención de conflictos de interés, prácticas societarias y de auditoría, transparencia y equidad respecto de los servicios que ofrezcan las Bolsas de Valores.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 252 Bis.
+
+Las bolsas de valores requerirán de la previa autorización de la Comisión para la celebración de los acuerdos a que alude la fracción X del artículo 244 de esta Ley. Para otorgar dicha autorización deberá considerarse el impacto en la liquidez y profundidad del mercado de valores mexicano y las particularidades del mercado de valores del exterior de que se trate evaluando si el mercado se ajusta a los principios regulatorios que para los mercados internacionales esta Ley contempla, así como la existencia de acuerdos de intercambios de información o la reciprocidad y los usos y prácticas de mercado compatibles con el nacional. Adicionalmente, la Comisión podrá establecer mediante disposiciones de carácter general los requisitos que para obtener la autorización referida deberán cumplir las bolsas de valores.
+
+En el marco de los acuerdos a que se refiere la fracción X del artículo 244 de esta Ley, la Comisión, de conformidad con las disposiciones de carácter general que dicte al efecto, podrá autorizar que una oferta pública de valores emitidos en mercados con los que las bolsas de valores hayan celebrado los referidos acuerdos, sea reconocida como tal en territorio nacional, y por lo tanto, inscrita en el Registro Nacional de Valores.
+
+Las disposiciones de carácter general a que se refiere el párrafo anterior, tendrán por objeto generar un marco de certeza jurídica en la emisión de las autorizaciones a que se refiere el párrafo anterior, establecer el marco de derechos y obligaciones aplicables tanto a las emisoras cuyas ofertas públicas se listen, como a las bolsas de valores mexicanas que soliciten la autorización respectiva, así como asegurar el adecuado cumplimiento de los principios rectores del Registro Nacional de Valores, entre otros.
 
 ### Capítulo III. De los sistemas de negociación extrabursátil
 
@@ -3342,13 +4080,19 @@ I. Proyecto de estatutos de una sociedad anónima.
 
 II. Relación e información de los socios, así como de los probables consejeros, director general y principales directivos de la sociedad.
 
-III. Plan general de funcionamiento.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-IV. Medios que se utilizarán para difundir cotizaciones con el objeto de canalizar solicitudes u órdenes para llevar a cabo operaciones con valores, así como los procedimientos para la asignación de órdenes y ejecución de operaciones.
+III. Plan general de funcionamiento que contenga los elementos mínimos que determine la Comisión mediante disposiciones de carácter general.
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. El manual de conducta que incluya las políticas para la solución de potenciales conflictos de interés en la realización de sus actividades. Los citados manuales deberán contener las normas que al efecto determine la Comisión mediante disposiciones de carácter general.
 
 V. La demás documentación e información que la Comisión, en relación con las fracciones anteriores, requiera mediante disposiciones de carácter general, previo acuerdo de su Junta de Gobierno.
 
-Las sociedades que administren sistemas para facilitar operaciones con valores deberán dar aviso a la Comisión sobre las modificaciones que efectúen a la documentación señalada en el presente artículo, dentro de los diez días hábiles siguientes a la fecha en que las realicen. La propia Comisión podrá objetar las citadas modificaciones, dentro de los veinte días hábiles siguientes a la fecha en que reciba el aviso correspondiente, cuando las modificaciones no se ajusten o contravengan lo establecido en el presente ordenamiento legal y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las sociedades que administren sistemas para facilitar operaciones con valores deberán dar aviso a la Comisión sobre las modificaciones que efectúen a la documentación señalada en el presente artículo, dentro de los diez días hábiles siguientes a la fecha en que las realicen. La propia Comisión podrá objetar las citadas modificaciones, dentro de los veinte días hábiles siguientes a la fecha en que reciba el aviso correspondiente, cuando las modificaciones no se ajusten o contravengan lo establecido en el presente ordenamiento legal y demás disposiciones aplicables. En todo caso, los cambios realizados a la documentación referida surtirán sus efectos hasta que concluya el plazo de veinte días hábiles antes señalado.
 
 ###### Artículo 255.
 
@@ -3368,9 +4112,15 @@ Las operaciones con valores realizadas a través de los sistemas a que se refier
 
 El suministro de información que realicen las sociedades que administran sistemas para facilitar operaciones con valores a un proveedor de precios, deberá proporcionarse en forma idéntica y con la misma oportunidad, costo y medio de entrega, a cualquier otro proveedor de precios que lo solicite.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 257.
 
-Las sociedades que administran sistemas para facilitar operaciones con valores sólo podrán otorgar los servicios a que se refieren las fracciones I y III del artículo 255 de esta Ley a instituciones de crédito y casas de bolsa.
+Las sociedades que administran sistemas para facilitar operaciones con valores sólo podrán otorgar los servicios a que se refieren las fracciones I y III del artículo 255 de esta Ley a instituciones de crédito, casas de bolsa, y demás inversionistas institucionales, nacionales o extranjeros. Adicionalmente, tratándose de operaciones con instrumentos financieros derivados y con divisas, podrán proporcionar sus servicios a entidades financieras del exterior del mismo tipo que las señaladas.
+
+En todo caso, las sociedades que administran sistemas para facilitar operaciones con valores deberán asegurarse de que las operaciones que realicen a través de sus sistemas las personas mencionadas en el párrafo anterior, tengan siempre como contraparte a una institución de crédito o casa de bolsa.
+
+Las entidades financieras señaladas en el párrafo anterior, exclusivamente podrán operar por cuenta propia en las referidas sociedades que administran sistemas para facilitar operaciones con valores. Tratándose de administradoras de fondos para el retiro y sociedades operadoras de sociedades de inversión, se entenderá que operan por cuenta propia cuando realicen operaciones en nombre las (sic) sociedades de inversión que administren.
 
 Las actividades de suministro de información referidas en la fracción II del artículo 255 de esta Ley, podrán proporcionarse a cualquier persona.
 
@@ -3383,6 +4133,10 @@ Las sociedades que administran sistemas para facilitar operaciones con valores t
 La Comisión, previo acuerdo de su Junta de Gobierno, autorizará la fusión o la escisión de las sociedades que administran sistemas para facilitar operaciones con valores, en términos de lo establecido en los artículos 132 a 134 de esta Ley.
 
 La Comisión podrá emitir disposiciones de carácter general relativas a la información que las sociedades que administran sistemas para facilitar operaciones con valores deban presentarle de manera continua y periódica.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Comisión podrá establecer normas prudenciales orientadas a preservar la calidad de las actividades y servicios de las sociedades que administran sistemas para facilitar operaciones con valores en materia de controles internos, segregación de funciones, prevención de conflictos de interés, prácticas societarias y de auditoría, transparencia y equidad en las actividades y servicios, en protección del mercado en general.
 
 #### Sección II. De los sistemas de negociación extrabursátil con acciones no inscritas en el Registro
 
@@ -3400,11 +4154,17 @@ Las personas que desarrollen sistemas para la oferta privada y negociación de a
 
 ### Capítulo IV. De los mercados internacionales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 262.
 
-Las bolsas de valores podrán establecer un listado especial de valores que se denominará sistema internacional de cotizaciones.
+Las bolsas de valores podrán establecer un listado especial de valores que se denominará sistema internacional de cotizaciones. Adicionalmente, podrán establecer acuerdos que tengan por objeto facilitar el acceso a sus sistemas de negociación con otras bolsas de valores nacionales o extranjeras.
 
 La negociación de valores en el citado sistema únicamente podrá realizarse directamente por casas de bolsa y por instituciones de crédito.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Tratándose de los acuerdos para facilitar el acceso a los sistemas de negociación, la Comisión mediante disposiciones de carácter general, regulará la forma en la que habrán de negociarse los valores que se amparen en dichos acuerdos, así como los supuestos para suspender el acceso a los citados sistemas, o de los participantes, o para revocar la autorización respectiva. Solo podrán participar en dichos sistemas las casas de bolsa; los valores no se podrán negociar fuera de tales sistemas y las operaciones se considerarán como celebradas en bolsa.
 
 ###### Artículo 263.
 
@@ -3412,7 +4172,9 @@ En el sistema internacional de cotizaciones podrán listarse valores extranjeros
 
 I. Que no estén inscritos en el Registro.
 
-II. Que los emisores o el mercado de origen de los títulos reciban, de acuerdo a sus características, los reconocimientos que señale la Comisión mediante disposiciones de carácter general.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Que los emisores, el mercado de origen de los títulos o los propios títulos reciban, de acuerdo con sus características, los reconocimientos que señale la Comisión mediante disposiciones de carácter general.
 
 III. Que satisfagan los requisitos establecidos en el reglamento interior de la bolsa de valores respectiva.
 
@@ -3422,7 +4184,7 @@ Las disposiciones de carácter general que emita la Comisión conforme a la frac
 
 Las operaciones sobre valores representativos del capital social de una persona moral, sus equivalentes o referenciados a dichos valores, listados en el sistema internacional de cotizaciones, se considerarán como efectuadas en bolsa.
 
-Las bolsas de valores y las entidades financieras que participen en el sistema internacional de cotizaciones deberán adoptar las providencias necesarias para que los valores que se operen a través de dicho sistema sean adquiridos exclusivamente por inversionistas institucionales o calificados.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ### Capítulo V. Disposiciones comunes
 
@@ -3534,7 +4296,9 @@ El capital social de las instituciones para el depósito de valores se integrar�
 
 Las acciones representativas del capital social de las instituciones para el depósito de valores sólo podrán ser adquiridas por el Banco de México, casas de bolsa, instituciones de crédito, administradoras de fondos para el retiro, sociedades de inversión, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión y entidades que actúen con el referido carácter, instituciones de seguros y de fianzas, sociedades controladoras de grupos financieros, bolsas de valores, contrapartes centrales de valores y demás personas que autorice la Secretaría.
 
-El número de socios de las instituciones para el depósito de valores no podrá ser inferior a veinte y cada accionista sólo podrá ser propietario de una acción.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Ninguna persona o grupo de personas podrá adquirir, directa o indirectamente, mediante una o varias operaciones simultáneas o sucesivas, acciones que representen el diez por ciento o más del capital social de una institución para el depósito de valores. La Secretaría podrá autorizar excepcionalmente un porcentaje mayor.
 
 Las acciones representativas del capital social deberán mantenerse depositadas en la propia institución.
 
@@ -3563,6 +4327,10 @@ El consejo de administración podrá establecer los comités que estime necesari
 Las instituciones para el depósito de valores estarán sujetas, en lo conducente, a lo previsto en los artículos 26, penúltimo y último párrafos, 121, 123, segundo párrafo, 124, primero, segundo y penúltimo párrafos, 127 a 129, 131, segundo párrafo, 132 a 134, 205, 206, 209 a 211, 218, 236, 241, último párrafo y 243, segundo párrafo, de esta Ley. Las facultades previstas en los artículos 132 y 134 competerán a la Secretaría.
 
 La Comisión podrá establecer mediante disposiciones de carácter general las reglas a las que deberán sujetarse las instituciones para el depósito de valores en la aplicación de su capital contable.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Comisión podrá expedir disposiciones de carácter general respecto a la información que deban proporcionar periódicamente las instituciones para el depósito de valores a las autoridades financieras, para lo cual podrá requerir datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la información que estime necesaria en la forma y términos que señale en las citadas disposiciones. Adicionalmente, la Comisión podrá establecer disposiciones de carácter general relativas a los controles internos, administración de riesgos, prevención de conflictos de interés, prácticas societarias y de auditoría, transparencia y equidad respecto de los servicios que ofrezcan las instituciones para el depósito de valores.
 
 #### Sección III. De las actividades y servicios
 
@@ -3594,7 +4362,13 @@ IX. Administrar los valores que se les entreguen en depósito, a solicitud del d
 
 X. Realizar actos necesarios para la consecución de su objeto social.
 
-XI. Las análogas, conexas o complementarias de las anteriores, que les sean autorizadas por la Secretaría, mediante disposiciones de carácter general.
+(ADICIONADA, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+XI. Elaborar y publicar estadísticas con la información que obtenga por la prestación de sus servicios o actividades, así como realizar y difundir estudios sobre tal información. Lo anterior, siempre que la información correspondiente no contenga información reservada o confidencial.
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DE LA FRACCIÓN XI DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UNA NUEVA FRACCIÓN.</small>
+
+XII. Las análogas, conexas o complementarias de las anteriores, que les sean autorizadas por la Secretaría, mediante disposiciones de carácter general.
 
 ###### Artículo 281.
 
@@ -3602,9 +4376,11 @@ Las instituciones para el depósito de valores podrán invertir en el capital so
 
 Las sociedades a que se refiere el párrafo anterior estarán sujetas a la inspección y vigilancia de la Comisión, cuando las instituciones para el depósito de valores tengan el control sobre las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 282.
 
-Los valores objeto de depósito en las instituciones para el depósito de valores, podrán ser representados en títulos múltiples o un solo título que ampare parte o la totalidad de los valores materia de la emisión y del depósito.
+Los valores objeto de depósito en instituciones para el depósito de valores, podrán ser representados en títulos múltiples o en un solo título que ampare parte o la totalidad de los valores materia de la emisión y del depósito. Tales títulos podrán emitirse de manera electrónica en forma de mensaje de datos con firma electrónica avanzada de acuerdo con lo establecido en el Código de Comercio y de conformidad con las disposiciones de carácter general que emita el Banco de México, que comprendan, entre otros aspectos, los títulos que podrán emitirse utilizando medios electrónicos, así como las características específicas y de seguridad que deberán reunir para tales efectos. Los títulos que se encuentren emitidos en medios impresos, podrán sustituirse de manera electrónica en los términos del presente párrafo de conformidad con las disposiciones de carácter general que emita el Banco de México.
 
 Tratándose de valores nominativos, los títulos que los representen serán emitidos con la mención de estar depositados en la institución para el depósito de valores de que se trate, sin que se requiera expresar en el documento el nombre, domicilio, ni la nacionalidad de los titulares. La mención anteriormente prevista producirá los mismos efectos del endoso en administración a que se refiere el artículo 283 de esta Ley.
 
@@ -3614,9 +4390,11 @@ Las emisoras tendrán la obligación de expedir y canjear los títulos necesario
 
 Las instituciones para el depósito de valores podrán actuar como apoderadas de las emisoras a efecto de realizar los actos a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 283.
 
-El servicio de depósito a que se refiere este Capítulo se constituirá mediante la entrega de los valores a la institución para el depósito de valores, la que abrirá cuentas a favor de los depositantes.
+El servicio de depósito a que se refiere este Capítulo se constituirá mediante la entrega de los valores a la institución para el depósito de valores, la que abrirá cuentas a favor de los depositantes. Adicionalmente, tratándose del servicio de depósito de valores que consten en medios electrónicos, ópticos o de cualquier otra tecnología, la recepción de los mismos se hará ajustándose a las disposiciones contenidas en el Código de Comercio.
 
 Constituido el depósito, la transferencia de los valores depositados se hará mediante asientos en los registros de la institución depositaria sin que sea necesaria la entrega física de los valores, ni su anotación en los mismos o, en su caso, en el registro de sus emisiones.
 
@@ -3720,7 +4498,9 @@ Las instituciones para el depósito de valores en ningún caso podrán dar notic
 
 Los empleados y funcionarios de las instituciones para el depósito de valores, en los términos de las disposiciones aplicables, por violación del secreto que se establece y las instituciones para el depósito de valores, estarán obligadas en caso de revelación del secreto, a reparar los daños y perjuicios que se causen.
 
-Lo previsto en este artículo, no afecta en forma alguna la obligación que tienen las instituciones para el depósito de valores de proporcionar a la Comisión, toda clase de información y documentos que, en ejercicio de sus funciones de supervisión, les solicite en relación con las operaciones que celebren y los servicios que presten, o bien, a efecto de atender solicitudes de autoridades financieras del exterior, de conformidad con lo establecido en el artículo 358 del presente ordenamiento legal.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Lo previsto en este artículo, no afecta en forma alguna la obligación que tienen las instituciones para el depósito de valores de proporcionar a la Comisión toda clase de información y documentos que, en ejercicio de sus funciones de supervisión, les solicite en relación con las operaciones que celebren y los servicios que presten, o bien, a efecto de atender solicitudes de autoridades financieras del exterior, de conformidad con lo establecido en el artículo 358 del presente ordenamiento legal. Adicionalmente, lo señalado en este artículo no afecta la obligación de las instituciones para el depósito de valores de proporcionar al Banco de México la información que les solicite, incluyendo la relacionada con las tenencias de valores que mantienen sus depositantes por cuenta propia o de terceros, de conformidad con lo previsto en el artículo 350 de esta Ley y las demás disposiciones legales aplicables.
 
 ###### Artículo 296.
 
@@ -3946,7 +4726,9 @@ I. Supervisar el funcionamiento de los procedimientos de administración de ries
 
 II. Ordenar modificaciones a los procedimientos de administración de riesgos y a la forma de aplicar recursos para cumplir con sus obligaciones.
 
-III. Emitir la regulación necesaria para propiciar el correcto funcionamiento de las contrapartes centrales de valores, el cumplimiento de las operaciones en las que se constituyan como deudor y acreedor recíproco y la eficiencia de los procedimientos y sistemas de compensación y liquidación.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Emitir la regulación necesaria para propiciar el correcto funcionamiento y administración de riesgos de las contrapartes centrales de valores, el cumplimiento de las operaciones en las que se constituyan como deudor y acreedor recíproco, la eficiencia de los procedimientos y sistemas de compensación y liquidación, así como la adecuada inversión de sus recursos.
 
 Las facultades contenidas en las fracciones II y III de este artículo serán ejercidas en forma conjunta por la Comisión y el Banco de México.
 
@@ -4042,7 +4824,9 @@ VI. Proyecto de código de conducta que regirá la actuación de la propia socie
 
 VII. La demás documentación e información que la Comisión, en relación con las fracciones anteriores, requiera mediante disposiciones de carácter general, previo acuerdo de su Junta de Gobierno.
 
-Los proveedores de precios deberán dar aviso a la Comisión sobre las modificaciones que efectúen a la documentación señalada en el presente artículo, dentro de los diez días hábiles siguientes a la fecha en que las realicen. La propia Comisión podrá objetar las citadas modificaciones, dentro de los veinte días hábiles siguientes a la fecha en que reciba el aviso correspondiente, cuando las modificaciones no se ajusten o contravengan lo establecido en el presente ordenamiento legal y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los proveedores de precios deberán dar aviso a la Comisión sobre las modificaciones que efectúen a la documentación señalada en el presente artículo, dentro de los diez días hábiles siguientes a la fecha en que las realicen. La propia Comisión podrá objetar las citadas modificaciones, dentro de los veinte días hábiles siguientes a la fecha en que reciba el aviso correspondiente, cuando las modificaciones no se ajusten o contravengan lo establecido en el presente ordenamiento legal y demás disposiciones aplicables. En todo caso, los cambios realizados a la documentación referida surtirán sus efectos hasta que concluya el plazo de veinte días hábiles antes señalado.
 
 ###### Artículo 325.
 
@@ -4108,6 +4892,10 @@ La Comisión, previo acuerdo de su Junta de Gobierno, autorizará la fusión o l
 
 La Comisión podrá emitir disposiciones de carácter general relativas a la información financiera, administrativa y operativa que los proveedores de precios deban presentarle de manera continua y periódica.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Adicionalmente, la Comisión podrá establecer normas relativas a los controles internos, prevención de conflictos de interés, prácticas societarias y de auditoría, transparencia y equidad en los servicios de los proveedores de precios.
+
 ### Capítulo II. De las instituciones calificadoras de valores
 
 ###### Artículo 334.
@@ -4136,7 +4924,9 @@ V. Proyecto de código de conducta que regirá la actuación de la propia socied
 
 VI. La demás documentación e información que la Comisión, en relación con las fracciones anteriores, requiera mediante disposiciones de carácter general, previo acuerdo de su Junta de Gobierno.
 
-Las instituciones calificadoras de valores deberán dar aviso a la Comisión sobre las modificaciones que efectúen a la documentación señalada en este artículo, dentro de los diez días hábiles siguientes a la fecha en que las realicen. La propia Comisión podrá objetar las citadas modificaciones, dentro de los veinte días hábiles siguientes a la fecha en que reciba el aviso correspondiente, cuando las modificaciones no se ajusten o contravengan lo establecido en el presente ordenamiento legal y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las instituciones calificadoras de valores deberán dar aviso a la Comisión sobre las modificaciones que efectúen a la documentación señalada en el presente artículo, dentro de los diez días hábiles siguientes a la fecha en que las realicen. La propia Comisión podrá objetar las citadas modificaciones, dentro de los veinte días hábiles siguientes a la fecha en que reciba el aviso correspondiente, cuando las modificaciones no se ajusten o contravengan lo establecido en el presente ordenamiento legal y demás disposiciones aplicables. En todo caso, los cambios realizados a la documentación referida surtirán sus efectos hasta que concluya el plazo de veinte días hábiles antes señalado.
 
 ###### Artículo 336.
 
@@ -4157,6 +4947,10 @@ Las instituciones calificadoras de valores, en ningún caso podrán celebrar con
 Las instituciones calificadoras de valores deberán revelar al público las calificaciones que realicen sobre valores inscritos en el Registro o a ser inscritos en el mismo, así como sus modificaciones y cancelaciones, a través de los medios que establezca la Comisión mediante disposiciones de carácter general. Dichas calificaciones deberán realizarse conforme al proceso de calificación a que se refiere la fracción IV del artículo 335 de esta Ley.
 
 Asimismo, la Comisión establecerá en las citadas disposiciones, la información financiera, administrativa y operativa que deberán presentarle las instituciones calificadoras de valores.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Comisión establecerá normas relativas a los controles internos, prevención de conflictos de interés, prácticas societarias y de auditoría, transparencia y equidad en los servicios de las instituciones calificadoras de valores.
 
 ###### Artículo 340.
 
@@ -4184,9 +4978,11 @@ Los auditores externos que suscriban el dictamen a los estados financieros en re
 
 Adicionalmente, los citados auditores externos, la persona moral de la cual sean socios y los socios o personas que formen parte del equipo de auditoría, no deberán ubicarse en ninguno de los supuestos de falta de independencia que al efecto establezca la Comisión, mediante disposiciones de carácter general, en las que se consideren, entre otros aspectos, vínculos financieros o de dependencia económica, prestación de servicios adicionales al de auditoría y plazos máximos durante los cuales los auditores externos puedan prestar los servicios de auditoría externa a las personas morales que soliciten la inscripción de valores en el Registro, las emisoras, casas de bolsa, bolsas de valores, instituciones para el depósito de valores y contrapartes centrales de valores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 344.
 
-Los licenciados en derecho y los expertos independientes que elaboren opiniones en términos de esta Ley, deberán reunir los requisitos previstos en las disposiciones a que hace referencia el artículo 343 de esta Ley. Dichos requisitos serán igualmente aplicables, en lo conducente, a la persona moral que preste los servicios profesionales a la emisora de que se trate de la que, en su caso, sean socios o para la cual laboren.
+Los licenciados en derecho y los expertos independientes que elaboren opiniones en términos de esta Ley, deberán reunir los requisitos previstos en las disposiciones a que hace referencia el artículo 343 de esta Ley, salvo por lo que se refiere a ser socio de una persona moral donde preste servicios profesionales. Dichos requisitos serán igualmente aplicables, en lo conducente, a la persona moral que preste los servicios profesionales a la emisora de que se trate de la que, en su caso, sean socios o para la cual laboren.
 
 Adicionalmente, los licenciados en derecho a que se refiere este precepto, no podrán mantener acuerdos de reciprocidad con los auditores externos que contrate la emisora, cuando impliquen la existencia de relaciones de negocio para la prestación de sus servicios profesionales que puedan derivar en conflictos de interés.
 
@@ -4234,15 +5030,21 @@ II. Rindan su dictamen u opinión apegándose a los procedimientos y, en su caso
 
 La Comisión, la Secretaría y el Banco de México, sin perjuicio de las atribuciones a que hacen referencia otros artículos de ésta u otras leyes, tendrán las facultades establecidas en este Título.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 350.
 
-La Comisión contará con facultades de supervisión, en términos de su Ley, respecto de los intermediarios del mercado de valores, organismos autorregulatorios, bolsas de valores, sociedades que administran sistemas para facilitar operaciones con valores, instituciones para el depósito de valores, contrapartes centrales de valores, instituciones calificadoras de valores y proveedores de precios.
+La Comisión contará con facultades de supervisión, en términos de su Ley, respecto de los intermediarios del mercado de valores, asesores en inversiones, organismos autorregulatorios, bolsas de valores, sociedades que administran sistemas para facilitar operaciones con valores, instituciones para el depósito de valores, contrapartes centrales de valores, instituciones calificadoras de valores y proveedores de precios.
 
-Para tal efecto, la Comisión podrá practicar visitas de inspección a cualquiera de las entidades señaladas y requerirles, dentro de los plazos y en la forma que la propia Comisión establezca, toda la información y documentación necesaria a fin de verificar el cumplimiento de esta Ley y la observancia de las disposiciones de carácter general que de ella emanen.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Para tal efecto, la Comisión podrá practicar visitas de inspección a cualquiera de las entidades o personas señaladas y requerirles, dentro de los plazos y en la forma en que la propia Comisión establezca, toda la información y documentación necesaria a fin de verificar el cumplimiento de esta Ley y la observancia de las disposiciones de carácter general que de ella emanen.
 
 Las personas a que se refiere este artículo, deberán presentar la información y documentación que en el ámbito de sus respectivas competencias les soliciten la Comisión, la Secretaría y el Banco de México, dentro de los plazos, condiciones y demás características que las mismas establezcan.
 
-La Comisión llevará a cabo la supervisión de las entidades financieras a que se refiere este artículo, aún y cuando se encuentren en disolución y liquidación o sean declaradas en concurso mercantil, en los términos que se señalan en esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Comisión llevará a cabo la supervisión de las personas y entidades financieras a que se refiere este artículo, aún y cuando se encuentren en disolución y liquidación o sean declaradas en concurso, en los términos que se señalan en esta Ley.
 
 La Comisión, como resultado de sus facultades de supervisión, podrá formular observaciones y, en su caso, ordenar la adopción de medidas tendientes a corregir los hechos, actos u omisiones irregulares que haya detectado con motivo de dichas funciones, en términos de esta Ley.
 
@@ -4259,6 +5061,22 @@ I. Ordenar que se convoque a asambleas de accionistas o de tenedores de valores,
 II. Concurrir sin voz ni voto a las asambleas de accionistas o de tenedores de valores.
 
 La Comisión, tratándose de sociedades extranjeras y organismos financieros multilaterales de carácter internacional que tengan valores inscritos en el Registro, ejercerá la supervisión de dichas emisoras con base en convenios de colaboración que suscriba con organismos internacionales con funciones de supervisión y regulación similares a las de la citada Comisión.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 351 Bis.
+
+Con el objeto de preservar la estabilidad financiera, evitar interrupciones o alteraciones en el funcionamiento del sistema financiero o del sistema de pagos, así como para facilitar el adecuado cumplimiento de sus funciones, la Secretaría, el Banco de México y la Comisión, deberán, a petición de parte interesada y en términos de los convenios a que se refiere el último párrafo de este artículo, intercambiar entre sí la información que tengan en su poder por haberla obtenido:
+
+I. En el ejercicio de sus facultades;
+
+II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
+
+III. Directamente de otras autoridades.
+
+A la facultad mencionada en el párrafo anterior, no le serán oponibles las restricciones relativas a la información reservada o confidencial en términos de las disposiciones legales aplicables. Quien reciba la información a que se refiere este artículo será responsable administrativa y penalmente, en términos de la legislación aplicable, por la difusión a terceros de información confidencial o reservada.
+
+Para efectos de lo dispuesto en el presente artículo, las autoridades señaladas en el presente artículo deberán celebrar convenios de intercambio de información en los que especifiquen la información objeto de intercambio y determinen los términos y condiciones a los que deberán sujetarse para ello. Asimismo, dichos convenios deberán definir el grado de confidencialidad o reserva de la información, así como las instancias de control respectivas a las que se informarán los casos en que se niegue la entrega de información o su entrega se haga fuera de los plazos establecidos.
 
 ###### Artículo 352.
 
@@ -4340,23 +5158,45 @@ Las entidades financieras, las emisoras y las demás personas físicas o morales
 
 En la documentación a que se refiere el párrafo anterior, queda comprendida de manera enunciativa mas no limitativa, la información general o específica contenida en informes, registros, libros de actas, auxiliares, correspondencia, sistemas automatizados de procesamiento y conservación de datos, incluyendo cualesquiera otros procedimientos técnicos establecidos para ese objeto, ya sean archivos magnéticos o documentos microfilmados, digitalizados o grabados, y procedimientos ópticos para su consulta o de cualquier otra naturaleza.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 358.
 
-La Comisión estará facultada a proporcionar a las autoridades del exterior toda clase de documentación, constancias, registros, archivos y demás información que reciba con motivo del ejercicio de sus facultades o que requiera para dar cumplimiento a una solicitud de información por parte de dichas autoridades, siempre que tenga suscritos acuerdos de intercambio de información en los que se contemple el principio de reciprocidad, debiendo abstenerse de proporcionar la información cuando a su juicio ésta pueda ser usada para fines distintos a los previstos en los citados acuerdos, o bien por causas de orden público, seguridad nacional o por cualquiera otra que se convenga en los acuerdos respectivos.
+La Secretaría, la Comisión y el Banco de México, en el ámbito de su competencia, estarán facultadas para proporcionar a las autoridades financieras del exterior toda clase de información que estimen procedente para atender los requerimientos que le (sic) formulen, en el ámbito de su competencia, tales como documentos, constancias, registros, declaraciones y demás evidencias que tales autoridades tengan en su poder por haberla obtenido en ejercicio de sus facultades.
 
-Para tal efecto, la Comisión, a solicitud de las citadas autoridades, podrá realizar visitas de inspección a emisoras extranjeras que tengan valores inscritos en el Registro o filiales. A discreción de la misma, las visitas podrán hacerse por su conducto o sin que medie su participación.
+Para efectos de lo previsto en el párrafo anterior, las autoridades deberán tener suscrito un acuerdo de intercambio de información con las autoridades financieras de que se trate, en el que se contemple el principio de reciprocidad.
 
-La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
+La Comisión Nacional Bancaria y de Valores estará facultada para entregar a las autoridades financieras del exterior la información protegida por disposiciones de confidencialidad que obre en su poder por haberla obtenido en el ejercicio de sus facultades, actuando en coordinación con otras entidades, personas o autoridades, o bien de otras autoridades.
+
+El Banco de México estará facultado para entregar a las autoridades financieras del exterior la información protegida por disposiciones de confidencialidad que obre en su poder por haberla obtenido directamente en el ejercicio de sus facultades. Asimismo, el Banco de México estará facultado para entregar a las autoridades financieras del exterior información protegida o no por disposiciones de confidencialidad que obtenga de otras autoridades del país, únicamente en los casos en los que lo tenga expresamente autorizado en el convenio de intercambio de información, por virtud del cual hubiere recibido dicha información.
+
+En todo caso, la Comisión y el Banco de México podrán abstenerse de proporcionar la información a que se refieren los dos párrafos anteriores, cuando el uso que se le pretenda dar a la misma sea distinto a aquél para el cual haya sido solicitada, sea contrario al orden público, a la seguridad nacional o a los términos convenidos en el acuerdo de intercambio de información respectivo.
+
+La Secretaría, la Comisión y el Banco de México deberán establecer mecanismos de coordinación para efectos de la entrega de la información a que se refiere este artículo a las autoridades financieras del exterior.
+
+La entrega de información que se efectúe en términos del presente artículo no implicará transgresión alguna a las obligaciones de reserva, confidencialidad, secrecía o análogas que se deban observar conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 358 Bis.
+
+La Comisión, a solicitud de las autoridades citadas en el artículo 358 anterior y con base en el principio de reciprocidad, podrá realizar visitas de inspección a las emisoras que tengan valores inscritos en el Registro Nacional de Valores en lo relativo a sus obligaciones como emisora o a las filiales de las entidades. A discreción de la misma, las visitas podrán hacerse por su conducto o bien, en cooperación con la autoridad financiera del exterior de que se trate, podrá permitir que esta última la realice.
+
+La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y acompañarse de lo siguiente:
 
 I. Descripción del objeto de la visita.
 
 II. Disposiciones legales aplicables al objeto de la solicitud.
 
-La Comisión podrá solicitar a las autoridades que realicen visitas en términos de este artículo un informe de los resultados obtenidos.
+La Comisión podrá solicitar a las autoridades financieras del exterior que realicen visitas en términos de este artículo un informe de los resultados obtenidos.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 359.
 
-En relación con la información relevante que se haya hecho pública cuando los actos involucrados con dicha información pudieran ubicarse en supuestos de infracción previstos en esta Ley o en las disposiciones de carácter general que de ella emanen, la Comisión en ejercicio de sus facultades de supervisión y en protección de los intereses de los inversionistas y del mercado en general, podrá afirmar o negar para conocimiento del público, que está llevando a cabo una investigación sobre los hechos involucrados. En caso de que las investigaciones concluyeran en que no se determine la infracción, o que su gravedad fuese inferior a la comunicada originalmente, el funcionario que haya hecho tal manifestación estará obligado a informar a la brevedad posible por los mismos medios de dichos resultados, y será en su caso responsable en los términos de las Leyes aplicables.
+La Comisión, para conocimiento del público y en protección de los intereses de los inversionistas y del mercado en general, podrá informar públicamente que está llevando a cabo investigaciones sobre hechos o actos relacionados con supuestos de infracción previstos en esta Ley o en las disposiciones de carácter general que de ella emanen en ejercicio de sus facultades.
+
+La entrega de información que se efectúe en términos del presente artículo no implicará transgresión alguna a las obligaciones de reserva, confidencialidad, secrecía o análogas que se deban observar conforme a las disposiciones legales aplicables.
 
 ###### Artículo 360.
 
@@ -4402,7 +5242,9 @@ II. Las personas que, directa o indirectamente, tengan el diez por ciento o más
 
 III. Los miembros y secretario del consejo de administración, los comisarios, el director general y demás directivos relevantes, los factores y los auditores externos o los equivalentes de los anteriores, de personas morales que, directa o indirectamente, tengan el diez por ciento o más del capital social de la emisora.
 
-IV. Los miembros y secretario del consejo de administración, los comisarios, el director general y los directivos que ocupen el nivel jerárquico inmediato inferior al de éste, el contralor normativo, los factores y dependientes, o los equivalentes de los anteriores, de intermediarios del mercado de valores o personas que proporcionen servicios independientes o personales subordinados a una emisora, en cualquier evento relevante que constituya información privilegiada.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Los miembros y secretario del consejo de administración, los comisarios, el director general y los directivos que ocupen el nivel jerárquico inmediato inferior al de éste, el contralor normativo, los factores y dependientes, o los equivalentes de los anteriores, de intermediarios del mercado de valores o personas que proporcionen servicios independientes o personales subordinados a una emisora, en cualquier evento relevante que constituya información privilegiada, así como de la persona moral, tenga o no el carácter de emisora, que tuviera alguna relación o vinculación financiera, administrativa, operacional, económica o jurídica con la emisora a quien se atribuya el evento relevante de que se trate, o que hubiere participado con cualquier carácter en el acto, hecho o acontecimiento relativo a dicho evento.
 
 V. Los accionistas que, directa o indirectamente, tengan el cinco por ciento o más del capital social de entidades financieras, cuando éstas tengan el carácter de emisoras.
 
@@ -4414,13 +5256,19 @@ VIII. La persona o grupo de personas que tengan una influencia significativa en 
 
 IX. Las personas que ejerzan poder de mando en la emisora.
 
-X. Aquellas personas que realicen operaciones con valores apartándose de sus patrones históricos de inversión en el mercado y que razonablemente puedan haber tenido acceso a la información privilegiada a través de las personas a que se refieren las fracciones I a IX anteriores. Se entenderá que razonablemente pudieron haber tenido acceso a la información privilegiada, aquellas personas que hubiesen tenido contacto o sostenido comunicación, por cualquier medio, con cualquiera de las personas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+X. Aquellas personas que realicen operaciones con valores apartándose de sus patrones históricos de inversión en el mercado y que razonablemente puedan haber tenido acceso a la información privilegiada a través de las personas a que se refieren las fracciones I a IX anteriores. Se entenderá que razonablemente pudieron haber tenido acceso a la información privilegiada, las personas siguientes:
 
 a) El cónyuge, la concubina o el concubinario de las personas a que se refieren las fracciones I a IX de este artículo.
 
 b) Las personas que tengan vínculos de parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, con las personas a que se refieren las fracciones I a IX de este artículo.
 
 c) Los socios, asociados y los copropietarios de las personas a que se refieren las fracciones I a IX de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+d) Aquéllas que hubiesen tenido contacto o sostenido comunicación, por cualquier medio, con las personas a que se refieren las fracciones I a IX de este artículo, así como con las citadas en los incisos a) a c) anteriores.
 
 Las personas a que se refiere este artículo, están obligadas a guardar confidencialidad de la información a la que tengan acceso, por lo que deberán abstenerse de usarla o transmitirla a otra u otras personas, salvo que por motivo de su empleo, cargo o comisión, la persona a la que se le transmita o proporcione deba conocerla.
 
@@ -4480,7 +5328,15 @@ Las operaciones que se realicen en contravención de lo previsto en este artícu
 
 Las personas a que se refieren las fracciones I a IV del artículo 363 de esta Ley y las fiduciarias de fideicomisos que se constituyan con el fin de establecer planes de opción de compra de acciones para empleados y de los fondos de pensiones, jubilaciones o primas de antigüedad del personal de una emisora o personas morales que ésta controle y cualquier otro fondo con fines semejantes, constituido directa o indirectamente por dicha emisora, sólo podrán enajenar o adquirir de la emisora con la cual se encuentren vinculados, las acciones representativas de su capital social o los títulos de crédito que las representen, mediante oferta pública o subastas autorizadas por la Comisión.
 
-Las personas e instituciones fiduciarias a que se refiere este artículo, previo a la concertación de operaciones, deberán consultar a la emisora con la cual se encuentran vinculadas, si ha transmitido o pretende transmitir órdenes para adquirir o colocar acciones representativas de su capital social o títulos de crédito que las representen, en cuyo caso, tales personas e instituciones fiduciarias se abstendrán de enviar órdenes de compra o venta, según corresponda, salvo que se trate de ofertas públicas.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las personas e instituciones fiduciarias a que se refiere este artículo, previo a la concertación de operaciones, deberán consultar a la emisora con la cual se encuentran vinculadas, de conformidad con las políticas, lineamientos o mecanismos que al efecto haya establecido, si ha transmitido o pretende transmitir órdenes para adquirir o colocar acciones representativas de su capital social o títulos de crédito que las representen, en cuyo caso, tales personas e instituciones fiduciarias se abstendrán de enviar órdenes de compra o venta, según corresponda, salvo que se trate de ofertas públicas.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+La ausencia de dichas políticas, lineamientos o mecanismos no excusará a las personas e instituciones fiduciarias antes referidas, de su obligación de realizar la consulta a que se refiere el párrafo inmediato anterior, en todo caso, a través de la persona responsable que hubiere designado la emisora para operar su fondo de recompra, previo a la concertación de operaciones.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL TERCER PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 Lo previsto en este artículo será aplicable a las operaciones con títulos opcionales o instrumentos financieros derivados que tengan como subyacente acciones representativas del capital social de la emisora o títulos de crédito que las representen.
 
@@ -4506,13 +5362,21 @@ IV. Las adquisiciones o colocaciones que la emisora lleve a cabo con las persona
 
 La Comisión, mediante disposiciones de carácter general, podrá establecer excepciones adicionales a las señaladas en este artículo.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 368.
 
-Se prohíbe la difusión de información falsa o que induzca a error sobre valores, o bien, respecto de la situación financiera, administrativa, económica o jurídica de una emisora, a través de prospectos de colocación, suplementos, folletos, reportes y demás documentos informativos y, en general, de cualquier medio masivo de comunicación.
+Se prohíbe la difusión de información falsa o que induzca a error sobre valores, o bien, respecto de la situación financiera, administrativa, económica, operacional o jurídica de una emisora, a través de prospectos de colocación, suplementos, folletos, reportes y demás documentos informativos y, en general, de cualquier medio masivo de comunicación.
+
+Se considerará que existe difusión de información que induce a error, salvo prueba en contrario, cuando en algún prospecto de colocación, suplemento, folleto, reporte, revelación de evento relevante y demás documentos informativos, se haya omitido, ya sea total o parcialmente, información relevante por parte de una emisora, intermediarios del mercado de valores, asesores en inversiones, auditores externos, licenciados en derecho, expertos independientes, proveedores de precios e instituciones calificadoras de valores, en el ámbito de su competencia, o bien, se haya incluido información errónea. El supuesto anterior no resultará aplicable cuando se trate de información cuya divulgación se encuentre prohibida en la legislación o regulación aplicable.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 369.
 
-Se considerará que existe difusión de información falsa o que induce a error, salvo prueba en contrario, cuando en algún prospecto de colocación, suplemento, folleto, reporte, revelación de evento relevante y demás documentos informativos, se haya omitido información relevante por parte de una emisora, intermediarios del mercado de valores, auditores externos, licenciados en derecho, expertos independientes, proveedores de precios e instituciones calificadoras de valores, en el ámbito de su competencia.
+Se prohíbe la difusión o entrega de información falsa o que induzca al error sobre valores, productos financieros, o bien, respecto de la situación financiera, administrativa, económica, operacional o jurídica de una emisora, por parte de intermediarios del mercado de valores, apoderados de éstos o asesores en inversiones. La misma prohibición resultará aplicable respecto de los servicios asesorados o no asesorados en términos de los artículos 191 y 200, fracción I, párrafos cuarto y quinto de esta Ley o cualquier otro servicio que proporcionen los intermediarios del mercado de valores, apoderados de éstos o asesores en inversiones.
+
+Se considerará que existe difusión de información que induce a error en los supuestos a que se refiere el segundo párrafo del artículo 368.
 
 ###### Artículo 370.
 
@@ -4520,13 +5384,17 @@ Las personas que participen o intervengan, directa o indirectamente, en actos u 
 
 I. Manipular el mercado.
 
-II. Celebrar operaciones de simulación.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Celebrar operaciones de simulación en cuanto al volumen o precio de valores.
 
 III. Distorsionar el correcto funcionamiento del sistema de negociación o equipos de cómputo de las bolsas de valores o de las sociedades que administran sistemas para facilitar operaciones con valores.
 
 IV. Intervenir en operaciones con conflicto de interés.
 
-V. Contravenir los sanos usos y prácticas del mercado.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. Contravenir los sanos usos y prácticas del mercado. Se considerará contrario a un sano uso o práctica de mercado todo acto que se contraponga a los fines de la presente Ley o cualquier otro que lesione algún bien jurídicamente tutelado por la misma.
 
 VI. Ordenar o intervenir en la celebración de operaciones con valores, en beneficio propio o de terceros, a sabiendas de la existencia de una o varias instrucciones giradas por otro u otros clientes de un intermediario del mercado de valores, sobre el mismo valor, anticipándose a la ejecución de las mismas.
 
@@ -4534,9 +5402,19 @@ Para efectos de esta Ley, se entenderá por manipulación de mercado todo acto r
 
 No será manipulación de mercado, la realización de operaciones de estabilización consistentes en la compra de acciones o títulos de crédito que representen dichas acciones, realizadas una vez efectuado el cruce en bolsa con motivo de una oferta pública, respecto de valores de la misma clase, serie o especie y siempre que no se presenten posturas a un precio mayor al de colocación o a aquél al que se hubiere concertado la última operación en el mercado, lo que resulte menor.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 370 Bis.
+
+Los miembros del consejo de administración, director general o su equivalente y demás directivos de las sociedades anónimas promotoras de inversión bursátil o sociedades anónimas bursátiles tendrán prohibido alterar cuentas activas o pasivas o las condiciones de los contratos que formen parte o den base a sus registros contables, o bien, hacer u ordenar que se registren operaciones o gastos inexistentes o que se exageren las reales de la sociedad.
+
+Igual prohibición resultará aplicable a los miembros del consejo de administración director general o su equivalente y demás directivos de las emisoras de certificados bursátiles a que alude el artículo 62 de esta Ley o, según sea el caso, del fideicomitente, integrantes del comité técnico, del administrador del patrimonio fideicomitido de certificados bursátiles fiduciarios a que alude el artículo 62 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 371.
 
-Las entidades que se indican a continuación, estarán obligadas a establecer lineamientos, políticas y mecanismos de control, con apego a las disposiciones de carácter general que al efecto emita la Comisión, para aquellas operaciones con valores que realicen sus consejeros, directivos y empleados que por virtud de su empleo, cargo o comisión, tengan o puedan tener acceso a información privilegiada o confidencial relacionada con procesos de inscripción de valores en el Registro, ofertas públicas, adquisición o enajenación de acciones propias de emisoras, o bien, de operaciones ordenadas por la clientela inversionista:
+Las personas que se indican a continuación, estarán obligadas a establecer lineamientos, políticas y mecanismos de control, con apego a las disposiciones de carácter general que al efecto emita la Comisión, para aquellas operaciones con valores que realicen sus consejeros, directivos y empleados que por virtud de su empleo, cargo o comisión, tengan o puedan tener acceso a información privilegiada o confidencial relacionada con procesos de inscripción de valores en el Registro, ofertas públicas, adquisición o enajenación de acciones propias de emisoras, o bien, de operaciones ordenadas por la clientela inversionista:
 
 I. Los intermediarios del mercado de valores.
 
@@ -4547,6 +5425,14 @@ III. Las instituciones para el depósito de valores y las contrapartes centrales
 IV. Las instituciones calificadoras de valores, los proveedores de precios y las sociedades que administran sistemas para facilitar operaciones con valores.
 
 V. Las entidades financieras que formen parte de grupos financieros a los que pertenezcan instituciones de banca múltiple, casas de bolsa, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión o entidades financieras que distribuyan acciones de sociedades de inversión.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VI. Las emisoras.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VII. Los asesores en inversiones.
 
 ###### Artículo 372.
 
@@ -4560,9 +5446,11 @@ La restricción a que se refiere el párrafo anterior, será aplicable a las ope
 
 Serán sancionados con prisión de cinco a quince años quienes dentro del territorio nacional, realicen intermediación con valores con el público, sin contar con la correspondiente autorización de la autoridad competente conforme a ésta u otras leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 374.
 
-Serán sancionados con prisión de dos a diez años quienes lleven a cabo cualquiera de las conductas siguientes:
+Serán sancionados con prisión de tres a quince años quienes lleven a cabo cualquiera de las conductas siguientes:
 
 I. Hagan oferta pública de valores no inscritos en el Registro, sin contar con la autorización de la Comisión.
 
@@ -4604,9 +5492,11 @@ Serán sancionados con prisión de dos a seis años quienes con motivo de una of
 
 Se impondrán las mismas penas a las personas que aceptando la oferta en los términos señalados en el párrafo anterior, reciban el premio o sobreprecio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 380.
 
-Será sancionado con prisión de dos a seis años todo aquél que estando obligado legal o contractualmente a mantener confidencialidad, reserva o secrecía, proporcione por cualquier medio o transmita información privilegiada a otra u otras personas.
+Será sancionado con prisión de tres a quince años todo aquél que estando obligado legal o contractualmente a mantener confidencialidad, reserva o secrecía, proporcione por cualquier medio o transmita información privilegiada a otra u otras personas.
 
 Las mismas penas se impondrán a las personas que estando obligadas legal o contractualmente a mantener confidencialidad, reserva o secrecía, emitan o formulen recomendaciones con base en información privilegiada sobre valores o instrumentos financieros derivados que tengan como subyacente valores cuya cotización o precio pueda ser influido por dicha información.
 
@@ -4634,13 +5524,21 @@ Para los efectos del presente artículo se entiende como beneficio, la obtenció
 
 El beneficio y su respectivo cálculo se determinarán para los efectos del delito a que se refiere este precepto legal, con base en el método establecido en el artículo 392, fracción V, de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 383.
 
-Serán sancionadas con prisión de uno a cinco años, las personas que:
+Serán sancionadas con prisión de cinco a diez años, las personas que:
 
 I. Difundan por sí o a través de un tercero, información falsa sobre valores, o bien, respecto de la situación financiera, administrativa, económica o jurídica de una emisora, a través de prospectos de colocación, suplementos, folletos, reportes, revelación de eventos relevantes y demás documentos informativos y, en general, de cualquier medio masivo de comunicación.
 
 II. Oculte u omita revelar información o eventos relevantes, que en términos de este ordenamiento legal deban ser divulgados al público o a los accionistas o tenedores de valores, salvo que se haya diferido su divulgación en los términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 383 Bis.
+
+Serán sancionados con prisión de cinco a diez años, los directivos, funcionarios, empleados y apoderados para celebrar operaciones con el público de los intermediarios del mercado de valores o asesores en inversiones, que por sí o a través de interpósita persona proporcionen información falsa sobre los servicios asesorados y no asesorados que presten, sobre los valores o respecto de la situación financiera, administrativa, económica, operacional o jurídica de una emisora.
 
 ###### Artículo 384.
 
@@ -4654,7 +5552,13 @@ Serán sancionados con prisión de uno a dos años las personas que por sí o a 
 
 Se impondrá de tres a doce años de prisión, a los miembros del consejo de administración, director general y demás directivos o representantes legales de las sociedades anónimas promotoras de inversión bursátil o sociedades anónimas bursátiles que, mediante la alteración de las cuentas activas o pasivas o de las condiciones de los contratos hagan u ordenen que se registren operaciones o gastos inexistentes o que se exageren los reales, o que dolosamente realicen cualquier acto u operación ilícita o prohibida por la ley, generando en cualquiera de dichos supuestos un quebranto o perjuicio en el patrimonio de la sociedad de que se trate o de las personas morales controladas por ésta, en beneficio económico propio ya sea directamente o a través de interpósita persona.
 
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+Igual pena se impondrá a los miembros del consejo de administración, director general o su equivalente y demás directivos de las emisoras de certificados bursátiles a que alude el artículo 62 de esta Ley o, según sea el caso, del fideicomitente, miembros del comité técnico, del administrador del patrimonio fideicomitido que, mediante la alteración de las cuentas activas o pasivas o de las condiciones de los contratos que formen parte o den base a sus registros contables hagan u ordenen que se registren operaciones o gastos inexistentes o que se exageren las reales, o que dolosamente realicen cualquier acto u operación ilícita o prohibida por la ley, generando en cualquiera de dichos supuestos un quebranto o perjuicio en el patrimonio de la sociedad, de las personas morales controladas por esta o del fideicomiso de que se trate, en beneficio propio ya sea directamente o a través de interpósita persona.
+
 La pena a que se refiere este artículo será de uno a tres años de prisión cuando se acredite haber reparado el daño y resarcido el perjuicio ocasionado.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL SEGUNDO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 No se procederá penalmente por el delito previsto en este artículo cuando las personas actúen en términos de lo establecido por el artículo 40 de esta Ley, así como en cumplimiento de las leyes que regulen los actos a que se refiere el primer párrafo de este artículo.
 
@@ -4662,9 +5566,11 @@ No se procederá penalmente por el delito previsto en este artículo cuando las 
 
 Los accionistas, consejeros y directivos que ordenen o insten a directivos o empleados de un intermediario del mercado de valores a la comisión de los delitos contenidos en los artículos 375 a 378 y 384 de esta Ley, serán sancionados hasta en una mitad más de las penas previstas en los citados preceptos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 388.
 
-Los delitos previstos en esta Ley únicamente se perseguirán a petición de la Secretaría, previa opinión de la Comisión; salvo tratándose de los delitos previstos en los artículos 375, 377, 384 y 386 de esta Ley, en cuyo caso las víctimas o los ofendidos también podrán formular directamente la querella.
+Los delitos previstos en esta Ley únicamente se perseguirán a petición de la Secretaría, previa opinión de la Comisión; salvo tratándose de los delitos previstos en los artículos 375, 377, 384 y 386 de esta Ley, en cuyo caso las víctimas, ofendidos o los titulares de las cuentas de que se traten, también podrán formular directamente la querella.
 
 Tratándose del delito previsto en el artículo 386 del presente ordenamiento legal, únicamente podrá perseguirse por querella de las víctimas u ofendidos que sean titulares de al menos treinta y tres por ciento del capital social de la sociedad anónima promotora de inversión bursátil o sociedad anónima bursátil afectada, o bien, a petición de la Secretaría, previa opinión de la Comisión, siempre que así lo soliciten las víctimas u ofendidos que sean titulares de al menos el diez por ciento del capital social de la sociedad de que se trate.
 
@@ -4682,9 +5588,11 @@ En lo no contemplado en esta Ley en materia de delitos, se estará a lo dispuest
 
 ### Capítulo I. Disposiciones preliminares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 389.
 
-En los procedimientos administrativos previstos en esta Ley se admitirán toda clase de pruebas. En el caso de la confesional a cargo de autoridades, la misma deberá ser desahogada por escrito.
+En los procedimientos administrativos previstos en esta Ley se admitirán las pruebas conducentes con los actos sujetos al procedimiento siempre y cuando las mismas sean ofrecidas en el plazo del desahogo de la garantía de audiencia. En el caso de la confesional a cargo de autoridades, la misma deberá ser desahogada por escrito.
 
 Una vez desahogado el derecho de audiencia a que hace referencia el artículo 391 de esta Ley, o bien, presentado el escrito mediante el cual se interponga recurso de revocación, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
 
@@ -4704,57 +5612,117 @@ Las multas que la Comisión imponga deberán ser pagadas dentro de los quince d�
 
 En caso de que el infractor pague las multas impuestas por la mencionada Comisión dentro de los quince días referidos en el párrafo anterior, se aplicará una reducción en un veinte por ciento de su monto, siempre y cuando no se interponga medio de defensa alguno.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las multas impuestas por la Comisión se harán efectivas por la Secretaría, una vez que hayan quedado firmes.
+
 ### Capítulo II. De la imposición de sanciones administrativas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 391.
 
-La Comisión, en la imposición de sanciones de carácter administrativo, se sujetará a lo siguiente:
+La Comisión, en la imposición de sanciones de carácter administrativo, a que se refiere esta Ley, se sujetará a lo siguiente:
 
 I. Se otorgará audiencia al presunto infractor, quien en un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique.
 
-II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia dentro del plazo establecido, o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción correspondiente.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-III. En la imposición de sanciones se tomarán en cuenta:
+II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior dentro del plazo concedido, o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción correspondiente.
 
-a) Los antecedentes personales y condición económica del infractor.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-b) La naturaleza y gravedad de la infracción cometida, así como la cuantía de la operación en caso de ser cuantificable.
+III. En la imposición de sanciones se tomará en cuenta, en su caso, lo siguiente:
 
-c) Las atenuantes, así como la no existencia de afectación a terceros o del propio sistema financiero.
+a) El impacto a terceros o al sistema financiero mexicano que haya producido o esté produciendo la infracción;
 
-d) En caso de reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor.
+b) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquélla, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.
+
+La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente;
+
+c) La cuantía de la operación en relación con la cual se cometió la infracción respectiva;
+
+d) La condición económica del infractor a efecto que de (sic) la sanción no sea excesiva, y
+
+e) La naturaleza de la infracción cometida.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Tratándose de conductas calificadas por esta Ley como graves, en adición a lo establecido en la fracción III anterior, podrán tomar en cuenta cualquiera de los aspectos siguientes:
+
+a) El monto del quebranto o perjuicio patrimonial causado;
+
+b) El lucro obtenido;
+
+c) La falta de honorabilidad por parte del infractor, conforme a lo dispuesto por esta Ley y las disposiciones de carácter general que de ella emanen;
+
+d) La negligencia inexcusable o dolo con que se hubiere actuado;
+
+e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, o
+
+f) Las demás circunstancias que la Comisión estime aplicables para tales efectos.
 
 Las sanciones serán impuestas por la Junta de Gobierno de la Comisión, la que podrá delegar esa facultad en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a los demás servidores públicos de la propia Comisión.
 
-Atendiendo a las circunstancias de cada caso, la Comisión podrá además de la imposición de la sanción que corresponda amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes personales, la gravedad de la conducta, que no se afecten los intereses de terceros o del propio sistema financiero, así como la existencia de atenuantes.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Atendiendo a las circunstancias de cada caso, la Comisión podrá, además de la imposición de la sanción que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes personales, la gravedad de la conducta, que no se cuente con elementos que permitan demostrar que se afecten intereses de terceros o del propio sistema financiero, que habiéndose causado un daño este haya sido reparado, así como la existencia de atenuantes.
 
 En el caso de personas morales, las multas podrán ser impuestas tanto a dichas personas como a sus consejeros, directores generales, directivos, empleados o apoderados que hayan incurrido directamente o hayan ordenado la realización de la conducta materia de la infracción.
 
-La Comisión considerará como atenuante en la imposición de sanciones administrativas, cuando el infractor, de manera espontánea y previo al inicio del procedimiento de imposición de sanción, informe por escrito de la violación en que hubiere incurrido a la citada Comisión y corrija las omisiones o contravenciones o, en su caso, presente un programa de corrección. Asimismo, se considerará como atenuante, cuando el presunto infractor acredite ante la Comisión haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión, a efecto de deslindar responsabilidades.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-La Comisión podrá imponer multa equivalente hasta por el doble de la prevista en esta Ley en caso de reincidencia. Se considerará reincidente, al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.
+La Comisión considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor acredite ante la Comisión haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión, a efecto de deslindar responsabilidades.
+
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Los procedimientos para la imposición de las sanciones administrativas a que se refiere esta Ley se iniciarán con independencia de la opinión de delito que, en su caso, emita la Comisión en términos del artículo 388 del presente ordenamiento legal, así como de los procedimientos penales que correspondan. Asimismo, serán independientes de la reparación de los daños y perjuicios que, en su caso, demanden las personas afectadas por los actos de que se trate.
 
-En ejercicio de sus facultades sancionadoras, la Comisión, ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general por el medio que considere conveniente, las sanciones que al efecto imponga por infracciones a esta Ley, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, señalando exclusivamente el nombre del infractor, el precepto infringido y la sanción impuesta. Lo anterior, cuando a su juicio la importancia de las infracciones así lo ameriten y con el propósito de procurar el sano y equilibrado desarrollo del sistema financiero en protección de los intereses del público.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 391 Bis.
+
+Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, la Comisión ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet, las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, para lo cual deberá señalar:
+
+I. El nombre, denominación o razón social del infractor;
+
+II. El precepto legal infringido, el tipo de sanción impuesta, monto o plazo, según corresponda, la conducta infractora, y
+
+III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
+
+En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad competente, deberá igualmente publicarse tal circunstancia.
+
+La información antes señalada no será considerada como reservada o confidencial.
 
 ###### Artículo 392.
 
 Las infracciones a esta Ley o a las disposiciones de carácter general que de ella deriven, serán sancionadas con multa administrativa que impondrá la Comisión, a razón de días de salario, conforme a lo siguiente:
 
-I. Multa de 200 a 10,000 días de salario, a:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I. Multa de 10,000 a 100,000 días de salario, a:
 
 a) Las entidades financieras, así como las personas físicas y morales reguladas por esta Ley, que incumplan con las solicitudes de información y documentación que en el ámbito de sus respectivas competencias les soliciten la Secretaría, el Banco de México y la Comisión, dentro de los plazos, condiciones y demás características que las mismas establezcan.
 
-b) Las personas morales mexicanas que en forma directa o a través de fideicomisos o figuras similares o equivalentes, realicen oferta pública de valores en el extranjero, en contravención a lo establecido en el artículo 7, segundo párrafo, de esta Ley.
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-c) Los integrantes de los comités que ejerzan las funciones en materia de auditoría o prácticas societarias, que se abstengan de emitir opinión al consejo de administración de las sociedades anónimas bursátiles, sobre los asuntos a que se refieren las fracciones I, inciso a) y II, inciso a) del artículo 42 de esta Ley, así como los directores generales de ese tipo de sociedades que omitan cumplir con las obligaciones previstas en el artículo 44, fracciones IV y V, del presente ordenamiento legal.
+Igual sanción será aplicable a las entidades financieras, así como las (sic) personas físicas o morales reguladas por esta Ley que no cumplan con la entrega de información que conforme a las disposiciones aplicables tengan que presentar de manera periódica a la Secretaría, al Banco de México o a la Comisión,
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+b) Las personas morales mexicanas que en forma directa o a través de fideicomisos o figuras similares o equivalentes, realicen oferta de valores en el extranjero, en contravención a lo establecido en el artículo 7, segundo párrafo, de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+c) Los integrantes de los comités que ejerzan las funciones en materia de auditoría o prácticas societarias, que se abstengan de emitir opinión al consejo de administración de las sociedades anónimas bursátiles, sobre los asuntos a que se refieren las fracciones I, inciso a) y II, inciso a) del artículo 42 de esta Ley, así como los directores generales de ese tipo de sociedades que omitan cumplir con las obligaciones previstas en el artículo 44, fracciones IV y V, del presente ordenamiento legal. Igualmente, a los titulares de las áreas de finanzas y jurídica o sus equivalentes que incumplan con su obligación de revisar, en el ámbito de sus respectivas competencias, así como suscribir los reportes a que se refiere el artículo 104 de esta Ley.
 
 d) Los consejeros y el director general de las sociedades anónimas bursátiles, que omitan dar a conocer al público inversionista su opinión con respecto del precio de la oferta y los conflictos de interés que tuvieren, así como la decisión que tomarán respecto de los valores de su propiedad, de conformidad con lo dispuesto por el artículo 101, segundo y tercer párrafos, de esta Ley.
 
-e) Las emisoras con valores inscritos en el Registro que omitan proporcionar a la Comisión o a la bolsa en la que listen sus valores, la información o los reportes a que se refiere el artículo 104 de esta Ley, o bien, cuando los presenten en forma incompleta o sin cumplir con los requisitos, términos o condiciones exigidos para ello.
+e) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
-f) Las emisoras con valores inscritos en el Registro que omitan dar a conocer al público inversionista la información que, a solicitud de la Comisión o de la bolsa en la que listen sus valores, estén obligadas a informar de conformidad con lo dispuesto por el artículo 106 de esta Ley.
+f) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 g) Las personas relacionadas de una sociedad anónima cuyas acciones representativas del capital social se encuentren inscritas en el Registro, que omitan proporcionar los informes a que se refiere el artículo 110 de esta Ley.
 
@@ -4762,15 +5730,17 @@ h) Las personas o grupo de personas que, directa o indirectamente, tengan el die
 
 i) Las casas de bolsa que omitan informar a la Comisión, respecto de la adquisición de acciones a que se refiere el artículo 119 de esta Ley, en contravención a lo establecido en el artículo 120 del presente ordenamiento legal.
 
-j) Las casas de bolsa o las instituciones de crédito que omitan contar con lineamientos y políticas tendientes a identificar y conocer a sus clientes, así como para determinar sus objetivos de inversión, o bien, cuando omitan proporcionarle la información necesaria, en contravención a lo establecido en el artículo 190 de esta Ley.
+j) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
-k) Las casas de bolsa que omitan proporcionar a sus clientes la información relativa a los costos totales cobrados por las actividades y servicios que les proporcionen, en contravención a lo establecido en el artículo 191 de esta Ley.
+k) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 l) Las entidades financieras que utilicen los servicios de personas físicas que no estén autorizadas por la Comisión, en contravención a lo establecido en el artículo 193 de esta Ley.
 
 m) Las entidades financieras que omitan registrar el mismo día los actos o contratos que signifiquen variación o modificación en el activo, pasivo, capital o impliquen una obligación directa o contingente, incluso en sus cuentas de orden, en contravención a lo establecido en el artículo 205 de esta Ley.
 
-n) Las personas que omitan conservar dentro del plazo legal establecido, la documentación e información a que se refieren los artículos 208, 212, fracción III, último párrafo, 243, segundo párrafo, 267, 330 ó 345 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+n) Las personas que omitan conservar dentro del plazo legal establecido, la documentación e información a que se refieren los artículos 243, segundo párrafo, 267, 330 o 345 de esta Ley.
 
 o) Las entidades financieras que en la presentación de los estados financieros no se sujeten a las disposiciones de carácter general que emita la Comisión, en contravención a lo establecido en el artículo 210, párrafo primero de esta Ley.
 
@@ -4796,7 +5766,13 @@ y) Los proveedores de precios que no comuniquen a la Comisión, el mismo día en
 
 z) Las instituciones calificadoras de valores que no revelen al público, a través de los medios que establezca la Comisión mediante disposiciones de carácter general, las calificaciones que realicen sobre valores inscritos en el Registro o a ser inscritos en el mismo, así como sus modificaciones y cancelaciones, en contravención con el artículo 339, primer párrafo, de esta Ley.
 
-II. Multa de 3,000 a 20,000 días de salario, a:
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+aa) A las emisoras o entidades que omitan establecer los lineamientos, políticas y mecanismos de control a que se refieren los artículos 366, tercer párrafo o 371 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II. Multa de 20,000 a 100,000 días de salario, a:
 
 a) Las personas que difundan al público en general información con fines de promoción, comercialización o publicidad sobre valores, sin la autorización respectiva, en contravención con lo establecido en el artículo 6 de esta Ley.
 
@@ -4814,7 +5790,9 @@ d) Los miembros del comité que ejerza funciones en materia de auditoría, así 
 
 e) Las sociedades anónimas bursátiles que adquieran acciones representativas de su capital social o títulos de crédito que las representen, en contravención a lo establecido en el artículo 56 de esta Ley. Tratándose de infracciones graves o reiteradas, la Comisión adicionalmente podrá ordenar la suspensión de la adquisición de acciones propias.
 
-f) Las personas que celebren operaciones en contravención con lo dispuesto por los artículos 57 ó 370, fracciones II a V de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+f) Las personas que celebren operaciones en contravención con lo dispuesto por los artículos 57 o 370, fracciones II, III y VI de esta Ley.
 
 g) Las emisoras o los intermediarios colocadores que ofrezcan públicamente, promocionen, propalen o de cualquier forma divulguen las pretensiones de suscripción o enajenación de valores en contravención con lo dispuesto en el artículo 85, tercer párrafo, de esta Ley.
 
@@ -4830,7 +5808,9 @@ k) Las entidades financieras que inicien sus actividades sin acreditar a la Comi
 
 l) Las personas que adquieran acciones de una entidad financiera, en contravención de lo establecido en alguno de los artículos 119, 167, 239 y 304 de esta Ley.
 
-m) Las entidades financieras que no cuenten con los órganos o comités a que se refieren los artículos 126, 242, 278, 306 y 327 de esta Ley, según corresponda.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+m) Las entidades financieras que no cuenten con los órganos, comités o personas a que se refieren los artículos 126, 242, 278, 306 y 327 de esta Ley, según corresponda.
 
 n) Las casas de bolsa que omitan contar o que no adopten los mecanismos y procedimientos para la protección y control de la confidencialidad y seguridad de la información a que se refieren los artículos 177 y 220, fracción II, inciso c) de esta Ley, o bien, que omitan llevar el registro a que se refiere el artículo 178 del presente ordenamiento legal.
 
@@ -4852,7 +5832,9 @@ v) Las emisoras que no cumplan frente a las instituciones para el depósito de v
 
 w) Las casas de bolsa e instituciones de crédito que no depositen en una institución para el depósito de valores, las acciones representativas del capital social de una contraparte central que sean de su propiedad, a fin de garantizar el pago puntual y oportuno de las obligaciones que dichas entidades tengan frente a la sociedad, en contravención con el artículo 303, tercer párrafo de esta Ley.
 
-III. Multa de 10,000 a 100,000 días de salario, a:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Multa de 30,000 a 100,000 días de salario, a:
 
 a) Las personas que hagan oferta pública de valores en territorio nacional sin que éstos estén inscritos en el Registro, en contravención con lo establecido en el artículo 7 de esta Ley.
 
@@ -4876,37 +5858,81 @@ i) Las personas que contraviniendo lo dispuesto en el artículo 55 de esta Ley:
 
 2. Afecten en fideicomiso acciones ordinarias que tengan por objeto la emisión de certificados de participación que las representen, con la finalidad de impedir a la totalidad de sus titulares, ejercer libremente los derechos de voto que les corresponden.
 
-j) Las personas que estando obligadas a llevar a cabo una oferta pública de adquisición forzosa en términos de lo dispuesto por el artículo 98 de esta Ley, no la realicen, o bien, la lleven a cabo sin cumplir con los requisitos previstos en dicho precepto legal.
+j) (DEROGADO, D.O.F. 10 DE ENERO DE 2014)
 
 k) Las sociedades anónimas y personas morales que éstas controlen, así como a los miembros del consejo de administración y directivos relevantes de dichas sociedades que, en contravención a lo dispuesto por el artículo 101 de esta Ley, realicen actos u operaciones que tengan por objeto obstaculizar el desarrollo de una oferta pública de forzosa adquisición.
 
-l) Las emisoras que, en contravención a lo dispuesto por el artículo 104 de esta Ley, omitan elaborar sus estados financieros conforme a principios de contabilidad emitidos o reconocidos por la Comisión, o bien, cuando omitan revelar eventos relevantes, en contravención a lo establecido en el artículo 105 del presente ordenamiento legal.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-m) Las casas de bolsa que se ubiquen en alguno de los supuestos de suspensión a que se refiere el artículo 138, fracciones I a VIII y X, de esta Ley.
+l) Las emisoras que, en contravención a lo dispuesto por el artículo 104 de esta Ley, omitan proporcionar a la Comisión o a la bolsa en que listen sus valores, la información o los reportes a que se refiere dicho artículo, o bien, cuando los presenten en forma incompleta o sin cumplir con los requisitos, términos o condiciones exigidos para ello. Igualmente, a las emisoras que omitan elaborar sus estados financieros conforme a principios de contabilidad emitidos o reconocidos por la Comisión.
 
-n) Las casas de bolsa que se ubiquen en alguno de los supuestos de revocación a que se refiere el artículo 153, fracciones IV y VI a XII, de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-o) Las oficinas de representación de casas de bolsa del extranjero que realicen actividades en el territorio nacional distintas a las previstas en las disposiciones de carácter general que expida la Secretaría, en contravención a lo establecido en el artículo 159, segundo párrafo de esta Ley.
+m) Las emisoras que no cumplan con la obligación de llevar el control a que alude el artículo 105, último párrafo de esta Ley, o bien, cuando el registro no se realice y mantenga en los términos que tal artículo dispone.
 
-p) Las filiales que enajenen acciones serie "F" sin contar con autorización de la Secretaría, en contravención a lo establecido en el artículo 166 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-q) Las casas de bolsa y proveedores de precios que contravengan los artículos 186, 188, 196, 197 ó 331 de esta Ley, según corresponda.
+n) Las emisoras con valores inscritos en el Registro que no cumplan con la obligación de informar al público inversionista, en los términos previstos por el artículo 106 de esta Ley, las causas que a su juicio hayan dado origen a los eventos señalados en el propio artículo. Asimismo, cuando omitan dar a conocer al público inversionista la información que, a solicitud de la Comisión o de la bolsa en la que listen sus valores, estén obligadas a informar de conformidad con lo dispuesto por el artículo 106 de esta Ley.
 
-r) Las casas de bolsa que omitan mantener un capital global en relación con los riesgos en que incurran en su operación, en contravención a lo establecido en el artículo 173 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-s) Las casas de bolsa que operen fuera de bolsa los valores listados en ésta, sin contar con la previa autorización de la Comisión, en contravención a lo establecido en el artículo 179 de esta Ley.
+o) Las casas de bolsa que se ubiquen en alguno de los supuestos de suspensión a que se refiere el artículo 138, fracciones I a VIII y X, de esta Ley.
 
-t) Las casas de bolsa que omitan mantener depositados los valores que adquieran por cuenta propia o de terceros, en una institución para el depósito de valores o instituciones que señale la propia Comisión, en contravención a lo establecido en el artículo 182 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-u) Las casas de bolsa e instituciones para el depósito de valores que den noticias o información de las operaciones y servicios que presten, en contravención a lo dispuesto por los artículos 192 ó 295 de esta Ley, según corresponda.
+p) Las casas de bolsa que se ubiquen en alguno de los supuestos de revocación a que se refiere el artículo 153, fracciones IV y VI a XII, de esta Ley.
 
-v) Las personas físicas autorizadas por la Comisión que ofrezcan en forma simultánea sus servicios a más de una entidad financiera, en contravención a lo previsto en el último párrafo del artículo 193 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-w) Las casas de bolsa que omitan depositar los recursos de un cliente en una institución de crédito a más tardar el día hábil siguiente o adquirir acciones representativas del capital social de una sociedad de inversión en instrumentos de deuda, en la cuenta del cliente respectivo, o bien invertirlos en reportos sobre valores gubernamentales, en contravención a lo establecido en el artículo 194 de esta Ley.
+q) Las oficinas de representación de casas de bolsa del extranjero que realicen actividades en el territorio nacional distintas a las previstas en las disposiciones de carácter general que expida la Secretaría, en contravención a lo establecido en el artículo 159, segundo párrafo de esta Ley.
 
-x) Las casas de bolsa que omitan registrar en cuenta distinta de las que forman parte de su activo, los fondos y valores de clientes, en contravención a lo establecido en el artículo 206 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-y) Las casas de bolsa y contrapartes centrales de valores que omitan abrir o no lleven contabilidades especiales, en contravención a lo establecido en los artículos 207 ó 314 de esta Ley, según corresponda.
+r) Las filiales que enajenen acciones serie "F" sin contar con autorización de la Secretaría, en contravención a lo establecido en el artículo 166 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+s) Las casas de bolsa, proveedores de precios y asesores en inversiones que contravengan los artículos 186, 188, fracciones I y II, 196, 197, 227, fracción IV o 331 de esta Ley, según corresponda.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+t) Las entidades financieras que no se excusen en los términos del segundo párrafo del artículo 189 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+u) Los integrantes del comité responsable del análisis de los productos financieros o la persona responsable de supervisar el cumplimiento de las disposiciones en materia de servicios asesorados y no asesorados, que actúen en contravención a lo previsto en los artículos 190 Bis o 190 Bis 1 de esta Ley, y las disposiciones de carácter general que de tales preceptos deriven, siempre que con ello no hubieren ocasionado un daño.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+v) Las casas de bolsa que omitan mantener un capital global en relación con los riesgos en que incurran en su operación, en contravención a lo establecido en el artículo 173 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+w) Las casas de bolsa que operen fuera de bolsa los valores listados en ésta, sin contar con la previa autorización de la Comisión, en contravención a lo establecido en el artículo 179 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+x) Las casas de bolsa que omitan mantener depositados los valores que adquieran por cuenta propia o de terceros, en una institución para el depósito de valores o instituciones que señale la propia Comisión, en contravención a lo establecido en el artículo 182 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+y) Las casas de bolsa e instituciones para el depósito de valores que den noticias o información de las operaciones y servicios que presten, en contravención a lo dispuesto por los artículos 192 ó 295 de esta Ley, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+z) Las personas físicas autorizadas por la Comisión que ofrezcan en forma simultánea sus servicios a más de una entidad financiera, en contravención a lo previsto en el último párrafo del artículo 193 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+aa) Las casas de bolsa que omitan depositar los recursos de un cliente en una institución de crédito a más tardar el día hábil siguiente o adquirir acciones representativas del capital social de una sociedad de inversión en instrumentos de deuda, en la cuenta del cliente respectivo, o bien invertirlos en reportos sobre valores gubernamentales, en contravención a lo establecido en el artículo 194 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+ab) Las casas de bolsa que omitan registrar en cuenta distinta de las que forman parte de su activo, los fondos y valores de clientes, en contravención a lo establecido en el artículo 206 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+ac) Las casas de bolsa y contrapartes centrales de valores que omitan abrir o no lleven contabilidades especiales, en contravención a lo establecido en los artículos 207 ó 314 de esta Ley, según corresponda.
 
 IV. Multa a las personas que infrinjan los artículos 364 ó 365 de esta Ley, conforme a lo siguiente:
 
@@ -4920,13 +5946,21 @@ Para el cálculo del beneficio se deberá aplicar alguno de los métodos que se 
 
 3. En los demás supuestos se tomará la diferencia entre el promedio aritmético de los precios de los valores correspondientes que den a conocer los proveedores de precios, durante los cinco días hábiles siguientes a la fecha en que la información haya sido hecha del conocimiento del público y el del precio de la operación realizada atendiendo al volumen correspondiente.
 
-b) Tratándose de infracciones a lo previsto en las fracciones II y III del artículo 364 del presente ordenamiento legal, multa de 4,000 a 20,000 días de salario.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-c) Tratándose de las infracciones a lo señalado en el artículo 365, párrafo primero de esta Ley, multa por el importe de una a dos veces el beneficio obtenido en la operación de que se trate. El beneficio será el que resulte de la diferencia entre los precios de una y otra operaciones, atendiendo al volumen de las mismas. En caso de no existir beneficio, la multa será por el importe de 500 a 5,000 días de salario.
+b) Tratándose de infracciones a lo previsto en las fracciones II y III del artículo 364 del presente ordenamiento legal, multa de 30,000 a 100,000 días de salario.
 
-V. Multa de 500 a 10,000 días de salario, a todo aquél que participe de manera directa o indirecta en actos que impliquen manipulación de mercado, cuando el beneficio obtenido no sea cuantificable o el mismo sea inferior a 5,000 días de salario, en contravención a lo establecido en el artículo 370, fracción I, de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Si el beneficio obtenido es superior a 5,000 días de salario, la multa a imponer podrá ser de una a dos veces dicho beneficio, más la cantidad que resulte de aplicar al mismo una tasa igual al promedio aritmético de los rendimientos que hayan generado las diez sociedades de inversión en instrumentos de deuda con mayor rentabilidad durante los seis meses anteriores a la fecha de la operación.
+c) Tratándose de las infracciones a lo señalado en el artículo 365, párrafo primero de esta Ley, multa por el importe de una a dos veces el beneficio obtenido en la operación de que se trate. El beneficio será el que resulte de la diferencia entre los precios de una y otra operación, atendiendo al volumen de las mismas. En caso de no existir beneficio, la multa será por el importe de 10,000 a 100,000 días de salario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. Multa de 10,000 a 100,000 días de salario a todo aquel que participe de manera directa o indirecta en actos que impliquen manipulación de mercado, cuando el beneficio obtenido no sea cuantificable, en contravención a lo establecido en el artículo 370, fracción I, de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Si el beneficio obtenido es cuantificable, la multa a imponer podrá ser de una a dos veces dicho beneficio, más la cantidad que resulte de aplicar al mismo una tasa igual al promedio aritmético de los rendimientos que hayan generado las diez sociedades de inversión en instrumentos de deuda con mayor rentabilidad durante los seis meses anteriores a la fecha de la operación, previsto de acuerdo a la información proporcionada por dichas sociedades a la Comisión y que para los efectos del presente artículo puede ser consultada en la página o en el portal electrónico de internet de la propia Comisión.
 
 El cálculo del beneficio se obtendrá de la diferencia entre el precio del último hecho registrado en el mercado, previo al acto de manipulación, y aquél al que se celebren operaciones aprovechando el movimiento generado, multiplicando el diferencial obtenido por el volumen de estas últimas operaciones. En caso de que el beneficio derive de actos conexos o relacionados que involucren los mismos valores y sea cuantificable, el cálculo se realizará con base en el lucro obtenido en las mismas.
 
@@ -4936,21 +5970,93 @@ VI. Multa por el importe de hasta dos veces el premio o sobreprecio de la operac
 
 Si dicha prestación no es cuantificable, se impondrá una multa de 10,000 a 100,000 días de salario.
 
-VII. Multa de 200 a 100,000 días de salario, a los infractores de cualquiera otra disposición de esta Ley o de las disposiciones de carácter general que de ella deriven, distinta de las anteriores y que no tengan sanción especialmente señalada en este ordenamiento.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VII. Multa de 30,000 a 150,000 días de salario, a:
+
+a) Los intermediarios del mercado de valores que realicen intermediación respecto de valores que no cumplan con lo previsto en el artículo 9 de esta Ley.
+
+b) Las personas que realicen alguna de las actividades previstas en los artículos 9, 114, 159, 160, 225, 234, 253, 272, 301, 322 o 334 de esta Ley, sin contar con la concesión, autorización o registro correspondiente.
+
+c) Las emisoras que no revelen eventos relevantes en términos de lo establecido en el artículo 105 del presente ordenamiento legal.
+
+d) Las casas de bolsa que no cuenten con un sistema de remuneración en los términos previstos por el artículo 130 de esta Ley y las disposiciones de carácter general que de este deriven.
+
+e) Las entidades financieras o asesores en inversiones que coloquen, distribuyan o efectúen recomendaciones sobre valores objeto de una oferta pública sin sujetarse a los límites máximos establecidos por la Comisión, en términos del artículo 178 de esta Ley.
+
+f) Las entidades financieras que incurran en alguna de las prohibiciones previstas en las fracciones III y IV del artículo 188 de la presente Ley.
+
+g) Las entidades financieras o asesores en inversiones que emitan recomendaciones o efectúen operaciones no razonables en servicios asesorados en contravención a lo establecido en el artículo 189, párrafo tercero y fracciones I a III, de esta Ley.
+
+h) Las entidades financieras o asesores en inversiones que celebren operaciones en contravención con lo previsto por el artículo 189, cuarto párrafo.
+
+i) Las entidades financieras o asesores en inversiones que proporcionen servicios asesorados sin contar con las políticas, lineamientos o mecanismos de control interno a que aluden los artículos 189, fracción III, 190, 190 Bis y 190 Bis 1, primer párrafo de esta Ley, o que tales políticas, lineamientos o mecanismos de control interno no cuenten con los elementos mínimos que establezca la Comisión mediante disposiciones de carácter general.
+
+j) Las entidades financieras que no cuenten con los comités o personas a que se refieren los artículos 190 Bis y 190 Bis 1 de esta Ley, según corresponda.
+
+k) Los integrantes del comité responsable del análisis de los productos financieros o la persona responsable de supervisar el cumplimiento de las disposiciones en materia de servicios asesorados y no asesorados, que actúen en contravención a lo previsto en los artículos 190 Bis o 190 Bis 1 de esta Ley, y las disposiciones de carácter general que de tales preceptos deriven, siempre que causen un daño u ocasionen un perjuicio.
+
+l) Las casas de bolsa o asesores en inversiones que omitan proporcionar a sus clientes información incluida la relativa a los costos totales cobrados por las actividades y servicios que les proporcionen o productos financieros que ofrezcan, o bien rendimientos de las carteras de inversión, en contravención a lo establecido en el artículo 191 de esta Ley y disposiciones de carácter general que de él emanen, según corresponda.
+
+m) Las entidades financieras que promuevan o comercialicen valores de manera generalizada, distintos de los señalados por la Comisión mediante disposiciones de carácter general a que alude el artículo 200, fracción I, último párrafo.
+
+n) Las entidades financieras que no cuenten con los registros electrónicos o por escrito que se señalan en el artículo 200, fracciones I, cuarto párrafo y II, primer párrafo de esta Ley, en los términos ahí señalados.
+
+o) Las entidades financieras que no incluyan en los estados de cuenta a sus clientes la información que determine la Comisión mediante disposiciones de carácter general a que se refiere el artículo 203, primer párrafo.
+
+p) Las entidades financieras o asesores en inversiones que omitan grabar o documentar, o bien, conservar dentro del plazo legal establecido, la documentación e información a que se refieren los artículos 208 o 226, fracción II, de esta Ley, según corresponda.
+
+q) Las entidades financieras que omitan contar con áreas de negocio separadas e independientes para la prestación de servicios de inversión, en contravención a lo dispuesto por el artículo 224 de esta Ley.
+
+r) A los asesores en inversiones que incurran en alguna de las prohibiciones previstas en el artículo 227, fracciones I a III de la presente Ley.
+
+s) A todo aquél que difunda información falsa o que induzca a error en contravención a lo establecido por los artículos 368 o 369 de esta Ley.
+
+t) Las personas que celebren operaciones en contravención con lo dispuesto por el artículo 370, fracciones IV y V, de esta Ley.
+
+u) Las personas que incurran en la prohibición señalada en el artículo 370 Bis de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VIII. Multa del 10 por ciento al 100 por ciento de la operación a las personas que estando obligadas a llevar a cabo una oferta pública de adquisición forzosa en términos de lo dispuesto por el artículo 98 de esta Ley, no la realicen, o bien, la lleven a cabo sin cumplir con los requisitos previstos en dicho precepto legal.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IX. Multa de 10,000 a 100,000 días de salario a los infractores de cualquiera otra disposición de esta Ley o de las disposiciones de carácter general que de ella deriven, distinta de las anteriores y que no tengan sanción especialmente señalada en esta Ley.
 
 Para efectos de lo previsto en las fracciones IV y V de este artículo, por beneficio se entenderá tanto el obtener una ganancia como el evitarse una pérdida.
 
 Las sanciones que este artículo prevé para las sociedades anónimas bursátiles, accionistas, miembros y secretario del consejo de administración y directivos relevantes, serán igualmente aplicables a las sociedades anónimas promotoras de inversión bursátil, accionistas y demás personas que desempeñen alguno de los cargos señalados, cuando los preceptos legales objeto de la infracción les resulten aplicables.
 
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+La Comisión podrá abstenerse de sancionar a las personas y entidades financieras a que se refiere la presente Ley, siempre y cuando se justifique la causa de tal abstención de acuerdo con los lineamientos que para tales efectos emita la Junta de Gobierno de la propia Comisión, y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia, no se cuente con elementos que permitan demostrar que se afecten los intereses de terceros o del propio sistema financiero y no constituyan delito.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+Se considerarán infracciones graves la violación a lo previsto por los artículos 6; 8; 9; 44, fracción V; 98; 104; 105; 106; 107; 114; 159; 160; 178; 188, fracciones III y IV; 189, párrafo tercero, fracciones I a III y párrafo cuarto; 190; 190 Bis y 190 Bis 1, cuando con ello se cause un daño; 191; 192; 196; 200, fracciones I, cuarto párrafo, y II, primer párrafo; 203; 205, cuando se trate de omisiones o alteraciones de registros contables; 208; 212, fracciones I por lo que hace a la falta de presentación a la Comisión Nacional Bancaria y de Valores, del documento de políticas de identificación y conocimiento del cliente y del usuario, y II, inciso a) por operaciones no reportadas, así como fracción III, incisos e) y f); 224, último párrafo; 225; 234; 253; 272; 295; 301; 322; 334; 350, tercer párrafo; 351, primer párrafo; 357; 364; 368, 369 y 370 de esta Ley.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL CUARTO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
+
 Las multas a que se refiere esta Ley son independientes de las suspensiones, inhabilitaciones, cancelaciones, intervenciones y revocaciones que en su caso procedan.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL QUINTO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
 
 A propuesta del presidente de la Comisión, las multas administrativas podrán ser condonadas parcial o totalmente por la Junta de Gobierno de la misma.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En caso de que alguna de las infracciones contenidas en este artículo genere un daño patrimonial o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 393.
 
-La Comisión, con independencia de las sanciones económicas que conforme a ésta u otras leyes correspondan y por acuerdo de su Junta de Gobierno, podrá decretar la remoción o suspensión de tres meses a cinco años para desempeñar un empleo, cargo o comisión en las entidades financieras o en las emisoras, tratándose de:
+La Comisión, con independencia de las sanciones económicas que conforme a ésta u otras leyes correspondan y por acuerdo de su Junta de Gobierno, podrá decretar la remoción o suspensión de tres meses hasta cinco años para desempeñar un empleo, cargo o comisión en las entidades financieras, asesores en inversiones o en las emisoras, tratándose de:
 
-I. Los miembros del consejo de administración, comisarios, directivos de cualquier nivel, apoderados autorizados para operar con el público u operadores de bolsa, delegados fiduciarios y auditores externos, de los intermediarios del mercado de valores, bolsas de valores, instituciones para el depósito de valores, contrapartes centrales de valores, proveedores de precios, sociedades que administran sistemas para facilitar operaciones con valores e instituciones calificadoras de valores; cuando se ubiquen en alguno de los supuestos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I. Los miembros del consejo de administración, comisarios, directivos de cualquier nivel, apoderados autorizados para operar con el público u operadores de bolsa, delegados fiduciarios y auditores externos, de los intermediarios del mercado de valores, asesores en inversiones, bolsas de valores, instituciones para el depósito de valores, contrapartes centrales de valores, proveedores de precios, sociedades que administran sistemas para facilitar operaciones con valores e instituciones calificadoras de valores; cuando se ubiquen en alguno de los supuestos siguientes:
 
 a) No cuenten con calidad técnica, honorabilidad o historial crediticio satisfactorio para el desempeño de sus funciones, cuando dichos requisitos les resulten aplicables, según lo dispuesto por esta Ley.
 
@@ -4958,13 +6064,21 @@ b) Incurran en infracciones graves o reiteradas a la presente Ley.
 
 II. Las personas que infrinjan los lineamientos, políticas y sistemas a que se refiere el artículo 371 de esta Ley.
 
-III. Los miembros y secretario del consejo de administración y directivos relevantes de las emisoras, cuando incurran en infracciones graves o reiteradas a la presente Ley.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Los miembros y secretario del consejo de administración y directivos relevantes de las emisoras, así como integrantes del comité técnico de las emisoras de certificados bursátiles fiduciarios de desarrollo o inmobiliarios inscritos en el Registro, cuando incurran en infracciones graves o reiteradas a la presente Ley.
 
 IV. Las personas que proporcionen dictámenes, opiniones o estudios a emisoras, que contengan información falsa divulgada al público inversionista.
 
 En los supuestos a que se refieren las fracciones I, inciso b), II y III de este artículo, la Comisión podrá además inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por el mismo periodo de tres meses hasta cinco años, sin perjuicio de las sanciones que conforme a éste u otros ordenamientos legales fueren aplicables.
 
 Adicionalmente, tratándose de las personas físicas que obtengan la autorización en términos del artículo 193 de esta Ley, la Comisión podrá determinar la revocación de ésta cuando se ubiquen en alguno de los supuestos previstos en la fracción I, incisos a) y b) de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 393 Bis.
+
+Con independencia de las sanciones económicas que conforme a esta Ley imponga la Comisión a las emisoras por infringir lo dispuesto en el segundo párrafo del artículo 104 de la presente Ley, por no elaborar sus estados financieros conforme a principios de contabilidad emitidos o reconocidos por esta, la Comisión estará facultada para requerir a las emisoras la modificación de sus estados financieros para que se apeguen a los referidos principios, así como el correspondiente envío a la propia Comisión y a la bolsa en la que listen sus valores para su difusión inmediata al público en general a través de esta última.
 
 ###### Artículo 394.
 
@@ -4980,9 +6094,57 @@ III. Inhabilitación, al impedimento temporal en el ejercicio de un empleo, carg
 
 Serán sancionados con la destitución del puesto en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, los vocales y secretario de la Junta de Gobierno de la Comisión, así como los servidores públicos de la misma que dolosamente contravengan lo establecido en el artículo 372 de esta Ley.
 
-### Capítulo III. Del recurso de revisión
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 10 DE ENERO DE 2014)</small>
 
-### Capítulo IV. Del procedimiento de queja
+### Capítulo II Bis. De los programas de autocorrección
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 395 Bis.
+
+Las entidades financieras por conducto de su director general o equivalente y con la opinión del comité de auditoría o quien ejerza las funciones de vigilancia de la propia entidad, podrán someter a la autorización de la Comisión un programa de autocorrección cuando la entidad financiera de que se trate, en la realización de sus actividades, o el comité de auditoría u órgano equivalente como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
+
+No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
+I. Las irregularidades o incumplimientos que sean detectados por la Comisión en ejercicio de sus facultades de inspección y vigilancia antes de la presentación por parte de la entidad financiera del programa de autocorrección respectivo.
+
+Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado a la entidad la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
+
+II. Cuando la contravención a la norma de que se trate corresponda a alguno de los delitos contemplados en esta Ley, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 395 Bis 1.
+
+Los programas de autocorrección a que se refiere el artículo 395 Bis de esta Ley, se sujetarán a las disposiciones de carácter general que emita la Comisión. Adicionalmente, deberán ser firmados por la persona o área que ejerza las funciones de vigilancia en la entidad financiera, y ser presentados al consejo de administración u órgano equivalente en la sesión inmediata posterior a la solicitud de autorización presentada a la Comisión. Igualmente, deberá contener las irregularidades o incumplimientos cometidos indicando al efecto las disposiciones que se hayan considerado contravenidas; las circunstancias que originaron la irregularidad o incumplimiento cometido, así como señalar las acciones adoptadas o que se pretendan adoptar por parte de la sociedad para corregir la irregularidad o incumplimiento que motivó el programa.
+
+En caso de que la entidad financiera requiera de un plazo para subsanar la irregularidad o incumplimiento cometido, el programa de autocorrección deberá incluir un calendario detallado de actividades a realizar para ese efecto.
+
+Si la Comisión no ordena a la entidad financiera modificaciones o correcciones al programa de autocorrección dentro de los veinte días hábiles siguientes a su presentación, el programa se tendrá por autorizado en todos sus términos.
+
+Cuando la Comisión ordene a la entidad financiera modificaciones o correcciones con el propósito de que el programa se apegue a lo establecido en el presente artículo y demás disposiciones aplicables, la entidad financiera contará con un plazo de cinco días hábiles contados a partir de la notificación respectiva para subsanar dichas deficiencias. Dicho plazo podrá prorrogarse por única ocasión hasta por cinco días hábiles adicionales, previa autorización de la Comisión.
+
+De no subsanarse las deficiencias a las que se refiere el párrafo anterior, el programa de autocorrección se tendrá por no presentado y, en consecuencia, las irregularidades o incumplimientos cometidos no podrán ser objeto de otro programa de autocorrección.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 395 Bis 2.
+
+Durante la vigencia de los programas de autocorrección que hubiere autorizado la Comisión en términos de los artículos 395 Bis y 395 Bis 1 anteriores, ésta se abstendrá de imponer a las entidades financieras las sanciones previstas en esta Ley por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.
+
+El comité de auditoría o quien ejerza las funciones de vigilancia en las entidades financieras estará obligado a dar seguimiento a la instrumentación del programa de autocorrección autorizado e informar de su avance tanto al consejo de administración y al director general o los órganos o personas equivalentes de la entidad financiera como a la Comisión en la forma y términos que esta establezca en las disposiciones de carácter general a que se refiere el artículo 395 Bis 1 de esta Ley. Lo anterior, con independencia de la facultad de la Comisión para supervisar, en cualquier momento, el grado de avance y cumplimiento del programa de autocorrección.
+
+Si como resultado de los informes del comité de auditoría o quien ejerza las funciones de vigilancia en las entidades financieras o de las labores de inspección y vigilancia de la Comisión, ésta determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, impondrá la sanción correspondiente aumentando el monto de ésta hasta en un 40 por ciento; siendo actualizable dicho monto en términos de disposiciones fiscales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 395 Bis 3.
+
+Las personas físicas y demás personas morales sujetas a la supervisión de la Comisión podrán someter a la autorización de la propia Comisión un programa de autocorrección cuando en la realización de sus actividades detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables, sujetándose a lo previsto por los artículos 395 Bis a 395 Bis 2 de esta Ley, según resulte aplicable.
+
+### Capítulo III. Del recurso de revisión
 
 ###### Artículo 396.
 
@@ -4992,7 +6154,7 @@ La interposición del recurso de revisión a que se refiere el presente artícul
 
 La resolución de los recursos de revisión deberá ser emitida en un plazo que no exceda a los noventa días hábiles posteriores a la fecha en que se interpuso el recurso, cuando deba ser resuelto por el presidente de la Comisión, ni a los ciento veinte días hábiles cuando se trate de recursos que sean competencia de la Junta de Gobierno.
 
-### Capítulo V. De las notificaciones
+### Capítulo IV. Del procedimiento de queja
 
 ###### Artículo 397.
 
@@ -5016,9 +6178,13 @@ I. En el supuesto de la fracción I del artículo 397 de esta Ley, confirmar la 
 
 II. Tratándose de las fracciones II a IV del artículo 397 de esta Ley, confirmar la decisión de la bolsa u organismo autorregulatorio, o bien, ordenarle el levantamiento de la determinación o medida adoptada.
 
+### Capítulo V. De las notificaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 399.
 
-Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de suspensión, revocación de autorizaciones o concesiones y de cancelación de autorizaciones o inscripciones a que se refiere la presente Ley, así como los actos por los que se nieguen autorizaciones, concesiones o inscripciones y las resoluciones administrativas que recaigan a los recursos de revocación interpuestos conforme a esta Ley, se podrán realizar de cualquiera de las siguientes formas:
+Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de suspensión, revocación de autorizaciones o concesiones y de cancelación de autorizaciones o inscripciones a que se refiere la presente Ley, así como los actos por los que se nieguen autorizaciones, concesiones o inscripciones y las resoluciones administrativas que recaigan a los recursos de revisión y a las solicitudes de condonación interpuestos conforme a esta Ley, se podrán realizar de cualquiera de las siguientes formas:
 
 I. Personalmente, conforme a lo siguiente:
 
@@ -5033,6 +6199,14 @@ II. Mediante oficio entregado por mensajero o por correo certificado, ambos con 
 III. Por edictos, en los supuestos señalados en el artículo 407 de esta Ley.
 
 IV. Por medio electrónico, en el supuesto previsto en el artículo 408 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Respecto a la información y documentación que deba exhibirse a los inspectores de la Comisión al amparo de una visita de inspección, se deberá observar lo previsto en el artículo 5, primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Para efectos de este Capítulo, se entenderá por autoridades financieras a la Secretaría, Comisión y el Banco de México.
 
 ###### Artículo 400.
 
@@ -5136,17 +6310,21 @@ No será aplicable lo dispuesto en este Capítulo a los requerimientos de inform
 
 En los casos de emplazamiento a huelga y con el fin de que no se afecten los intereses del público, en cuanto a la disponibilidad de efectivo y valores respecto de intermediarios del mercado de valores, bolsas de valores, instituciones para el depósito de valores y contrapartes centrales de valores, antes de la suspensión de las labores y en términos de la Ley Federal del Trabajo, la Junta Federal de Conciliación y Arbitraje proveerá lo necesario para que durante la huelga permanezca abierto el número indispensable de oficinas y continúen laborando los trabajadores que sean estrictamente necesarios, en cuanto a número y funciones. La Junta Federal de Conciliación y Arbitraje oirá previamente a la Comisión.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 413.
 
-Las instituciones de crédito que celebren operaciones con valores por cuenta propia con el público en general o por cuenta de terceros al amparo de los artículos 53 y 81 de la Ley de Instituciones de Crédito, o bien, en cumplimiento de fideicomisos, mandatos o comisiones, estarán sujetas, en lo conducente, a lo establecido en los artículos 177, por lo que corresponde a las actividades de representación común que desempeñen, 180 a 182, 184, 188 a 191, 193 a 198 y 204 de esta Ley.
+Las instituciones de crédito que celebren operaciones con valores por cuenta propia con el público en general o por cuenta de terceros al amparo de los artículos 53 y 81 de la Ley de Instituciones de Crédito, o bien, en cumplimiento de fideicomisos, mandatos o comisiones, estarán sujetas, en lo conducente, a lo establecido en los artículos 177, por lo que corresponde a las actividades de representación común que desempeñen, 178; 180 a 182, 184, 188 a 191, 193 a 198; 200, 204; 208 y 224, último párrafo de esta Ley.
 
 ###### Artículo 414.
 
 Las personas que dirijan al público por cualquier medio análisis o recomendaciones de inversión, con independencia de que proporcionen o no sus servicios en intermediarios del mercado de valores, al formular sus recomendaciones deberán ajustarse a las disposiciones de carácter general que expida la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 415.
 
-Se reservan las expresiones sociedad anónima promotora de inversión, sociedad anónima promotora de inversión bursátil, sociedad anónima bursátil, casa de bolsa, bolsa de valores, institución para el depósito de valores y contraparte central de valores u otras equivalentes a las anteriores en cualquier idioma, para ser utilizadas, respectivamente, por las personas que de acuerdo con la presente Ley puedan utilizar dichas expresiones, o bien, gocen de la autorización o concesión correspondiente. La Comisión podrá ordenar al infractor que deje de usar en forma inmediata la expresión indebidamente empleada, así como decretar las medidas necesarias para ello.
+Se reservan las expresiones "sociedad anónima promotora de inversión", "sociedad anónima promotora de inversión bursátil", "sociedad anónima bursátil", "casa de bolsa", "asesor en inversión", "bolsa de valores", "institución para el depósito de valores" y "contraparte central de valores" u otras equivalentes a las anteriores en cualquier idioma, para ser utilizadas por las personas que de acuerdo con la presente Ley puedan utilizarlas, o bien, gocen de la autorización, concesión o registro correspondiente. La Comisión podrá ordenar al infractor que deje de usar en forma inmediata la expresión indebidamente empleada, así como decretar las medidas necesarias para ello.
 
 Se exceptúa de la aplicación de lo dispuesto en el párrafo anterior a los organismos autorregulatorios o asociaciones gremiales de las entidades a que se refiere el párrafo anterior, que sean autorizadas por la Comisión para estos efectos, siempre que no realicen las actividades que son propias de las mencionadas entidades.
 
@@ -5278,7 +6456,7 @@ México, D.F., a 8 de diciembre de 2005.- Dip. Heliodoro Díaz Escárraga, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de diciembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 28 DE JUNIO DE 2007.
 
@@ -5289,3 +6467,123 @@ SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el 
 D.O.F. 6 DE MAYO DE 2009.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 156, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 158 DE LA LEY DEL MERCADO DE VALORES.
+
+Disposiciones Transitorias
+
+ARTÍCULO TRIGÉSIMO QUINTO.- En relación con las modificaciones a que se refieren los Artículos Trigésimo Primero a Trigésimo Cuarto de este Decreto, se estará a lo siguiente:
+
+I. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+II. En tanto la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores, el Banco de México y el Instituto para la Protección al Ahorro Bancario emitan las disposiciones de carácter general a que se refieren los artículos que reforma o adiciona el presente Decreto, seguirán aplicándose las emitidas con anterioridad a su entrada en vigor en lo que no se opongan a lo previsto en el mismo.
+
+III. Los procedimientos especiales de concurso mercantil de instituciones de banca múltiple que hubiesen sido iniciados con anterioridad a la entrada en vigor de este Decreto, continuarán rigiéndose por la Ley de Concursos Mercantiles, publicada en el Diario Oficial de la Federación el día 12 de mayo de 2000.
+
+IV. Las instituciones de banca múltiple contarán con un plazo de ciento veinte días a partir de la fecha de entrada en vigor del presente Decreto para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el mismo. Tratándose de la modificación de los estatutos sociales, éstos deberán someterse a la aprobación de la Comisión Nacional Bancaria y de Valores.
+
+V. Las instituciones de banca múltiple que a la fecha de entrada en vigor del presente Decreto se encuentren en procedimiento de liquidación o concurso mercantil podrán convenir con el Servicio de Administración y Enajenación de Bienes la sustitución de los deberes derivados de fideicomisos en términos del artículo 185 de la Ley de Instituciones de Crédito que por virtud del presente Decreto se reforma.
+
+VI. Las instituciones de banca múltiple deberán efectuar los actos corporativos necesarios para prever expresamente en sus estatutos sociales y en las acciones representativas de su capital social, lo dispuesto en los artículos 29 Bis 13 al 29 Bis 15 de la Ley de Instituciones de Crédito, dentro de un plazo máximo de sesenta días naturales, contado a partir de la entrada en vigor del presente Decreto.
+
+VII. Las instituciones de banca múltiple deberán prever en los contratos que celebren a partir de la entrada en vigor de este Decreto, así como en la demás documentación relativa, las restricciones señaladas en las fracciones IV) y V) del artículo 29 Bis 14 de la Ley de Instituciones de Crédito.
+
+VIII. Cuando las leyes, reglamentos, decretos, acuerdos u otros instrumentos jurídicos hagan mención al concurso mercantil o quiebra de instituciones de crédito, la referencia deberá entenderse hecha a los procedimientos previstos en el Título Séptimo, Capítulo II, Sección Segunda de la Ley de Instituciones de Crédito.
+
+IX. La reforma contenida en el presente Decreto al séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito no será aplicable al monto de las operaciones o de créditos dispuestos a cargo de personas relacionadas, celebradas con anterioridad a la entrada en vigor de este mismo Decreto, hasta que se reestructuren o renueven.
+
+En razón de lo anterior, las instituciones de banca múltiple solo podrán celebrar con posterioridad a la entrada en vigor del presente Decreto operaciones a cargo de personas relacionadas por un monto que no exceda del porcentaje previsto por el séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito, una vez consideradas las operaciones referidas en el párrafo anterior.
+
+Lo dispuesto por el primer párrafo del presente artículo, solo aplicará respecto del importe que con anterioridad a la entrada en vigor del presente Decreto ya hubiere sido dispuesto por el acreditado, tratándose de préstamos o créditos revocables; o bien, a la totalidad del monto de dicho préstamo o crédito, en el caso de préstamos o créditos irrevocables celebrados con anterioridad a su entrada en vigor.
+
+X. La Junta de Gobierno del Instituto para la Protección al Ahorro Bancario expedirá las disposiciones de carácter general a que se refiere el artículo 22 de la Ley de Protección al Ahorro Bancario, dentro de un plazo que no podrá exceder de doce meses contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se expidan dichas disposiciones, las Instituciones deberán seguir el procedimiento establecido en las disposiciones publicadas en el Diario Oficial de la Federación el 31 de mayo de 1999.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 70; 93, FRACCIÓN VI Y CUARTO PÁRRAFO, Y SE ADICIONAN LOS ARTÍCULOS 71, CON UNA FRACCIÓN III; 82 BIS A 82 BIS 2, DE LA LEY DEL MERCADO DE VALORES.
+
+Disposiciones Transitorias
+
+ARTÍCULO TRIGÉSIMO OCTAVO.- En relación con las modificaciones a que se refieren los Artículos Trigésimo Sexto y Trigésimo Séptimo de este Decreto, se estará a lo siguiente:
+
+I. Las sociedades de inversión autorizadas en términos de las disposiciones legales vigentes antes de la entrada en vigor del presente Decreto, contarán con un plazo de dieciocho meses a partir de la entrada en vigor del propio Decreto para solicitar a la Comisión Nacional Bancaria y de Valores la autorización de la reforma a sus estatutos sociales que contenga las cláusulas previstas en este Decreto aplicables a los fondos de inversión, por cuanto a las funciones de administración, conducción de los negocios y vigilancia de los fondos de inversión, así como derechos de los accionistas. En la solicitud, dichas sociedades de inversión deberán adjuntar la información de su socio fundador indicando los datos relativos a su autorización para constituirse como sociedad operadora de fondos de inversión.
+
+Hasta en tanto las sociedades de inversión obtengan la autorización para su transformación en fondos de inversión, les resultarán aplicables las disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto. La Comisión Nacional Bancaria y de Valores contará con un plazo de dieciocho meses para resolver sobre la transformación de las sociedades de inversión en fondos de inversión conforme a este Decreto; dicho plazo computará a partir de que las sociedades anónimas respectivas presenten la solicitud correspondiente.
+
+La autorización otorgada por la Comisión Nacional Bancaria y de Valores se entenderá hecha para la transformación de las sociedades de inversión en fondos de inversión, y en el oficio correspondiente, la propia Comisión deberá notificar al Registro Público del Comercio los datos de aquellas que hayan sido transformadas en fondos de inversión, indicando que estos últimos no requerirán de inscripción ante dicho Registro, en virtud de lo previsto por el primer y segundo párrafos del artículo 8 Bis que se adiciona mediante este Decreto. Igualmente, deberá notificar a las instituciones para el depósito de valores autorizadas conforme a las disposiciones aplicables, que las acciones de los fondos de inversión autorizados no requerirán ser depositadas en una institución para el depósito de valores, en atención a las reformas contenidas en el presente Decreto.
+
+Cuando la Comisión Nacional Bancaria y de Valores otorgue su autorización para la transformación en fondos de inversión, en términos del presente artículo transitorio a aquellas sociedades de inversión que gocen de autorización para operar como tales, esta última autorización quedará sin efectos por ministerio de Ley sin que resulte necesaria la emisión de una declaratoria expresa al respecto por la propia Comisión.
+
+Las sociedades anónimas deberán entregar a la sociedad operadora de sociedades de inversión que le proporcione los servicios de administración de activos, a más tardar al día siguiente al de la obtención de su autorización para transformarse en fondos de inversión, los libros de la sociedad primeramente referida.
+
+II. Los fondos de inversión que hayan obtenido la autorización de su transformación en términos de la fracción I anterior, tendrán un plazo de seis meses contado a partir de la notificación de tal autorización, para dar aviso a la Comisión Nacional Bancaria y de Valores de las modificaciones efectuadas a sus prospectos de información al público inversionista y documentos con información clave para la inversión, que contengan los ajustes que deban efectuarse a dichos documentos en términos del artículo 9, fracciones I y X a XIV que se reforma mediante este Decreto. Cualquier otra modificación a su prospecto de información al público inversionista requerirá de la previa autorización de la Comisión.
+
+La Comisión Nacional Bancaria y de Valores podrá realizar comentarios u observaciones a la referida documentación a fin de que se ajuste a lo previsto por el presente Decreto.
+
+III. Las autorizaciones que hayan sido otorgadas para organizarse y funcionar como sociedades de inversión conforme a las disposiciones legales vigentes antes de la entrada en vigor de este Decreto, quedarán, sin efectos por ministerio de Ley una vez concluidos los plazos a que se refiere la fracción I anterior, en el evento de que las sociedades de inversión no obtengan la autorización para su transformación en fondos de inversión o bien, no la hayan solicitado.
+
+Las sociedades que no obtengan la autorización para su transformación en fondos de inversión o bien no hayan presentado la solicitud correspondiente en el plazo indicado, entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
+
+La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
+
+IV. Los accionistas de las sociedades de inversión que, en virtud de la transformación de las sociedades, no deseen permanecer en la misma, tendrán el derecho a que la propia sociedad les adquiera la totalidad de sus acciones a precio de mercado y sin la aplicación de diferencial alguno, para lo cual contarán con un plazo máximo de treinta días hábiles contado a partir de la fecha en que se les haya notificado la transformación. Lo dispuesto en este artículo, será aplicable inclusive tratándose de aquellas sociedades de inversión cerradas.
+
+V. A los fondos de inversión que se hayan transformado, les será aplicable el concepto de reincidencia a que alude el artículo 84, fracción III, inciso b) contenido en este Decreto, cuando hubieren cometido violaciones a la Ley de Sociedades de Inversión durante el periodo que abarca el concepto de reincidencia.
+
+VI. Las sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión y sociedades valuadoras de acciones de sociedades de inversión tendrán un plazo de un año, contado a partir de la entrada en vigor del presente Decreto para cumplir con lo previsto en el mismo.
+
+VII. Las personas físicas que a la entrada en vigor de este Decreto cuenten con la autorización para operar en bolsa, para celebrar operaciones con el público de asesoría, promoción, compra y venta de valores o de acciones de sociedades de inversión, se entenderán por acreditadas, según corresponda, para actuar en términos de los artículos 35 de la Ley de Sociedades de Inversión que se reforma mediante el presente Decreto, hasta en tanto dicha autorización siga vigente.
+
+VIII. En tanto la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores y el Banco de México emitan las disposiciones de carácter general a que se refiere el presente Decreto, seguirán aplicándose las emitidas con anterioridad a su entrada en vigor en lo que no se opongan a lo previsto en la misma.
+
+IX. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+X. Las referencias que en otras Leyes, reglamentos o disposiciones se hagan respecto de la Ley de Sociedades de Inversión; las sociedades de inversión; las sociedades operadoras de sociedades de inversión; las sociedades distribuidoras de acciones de sociedades de inversión y las sociedades valuadoras de acciones de sociedades de inversión, se entenderán efectuadas a la Ley de Fondos de Inversión, los fondos de inversión; las sociedades operadoras de fondos de inversión; las sociedades distribuidoras de acciones de fondos de inversión, y las sociedades valuadoras de acciones de fondos de inversión, respectivamente.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL MERCADO DE VALORES.
+
+Disposiciones Transitorias
+
+ARTÍCULO CUADRAGÉSIMO.- En relación con las modificaciones a que se refiere el Artículo Trigésimo Noveno de este Decreto, se estará a lo siguiente.
+
+I. Los asesores en inversiones tendrán un plazo de un año contado a partir de la publicación en el Diario Oficial de la Federación de este Decreto, para ajustarse a lo previsto en los artículos 225 a 227 Bis y 371 de la Ley del Mercado de Valores que se reforma mediante el presente Decreto.
+
+A partir de la fecha en la que los asesores en inversiones realicen el registro ante la Comisión a que se refiere el segundo párrafo del artículo 225 de la presente Ley, dicha Comisión ejercerá en exclusiva las facultades de supervisión de los asesores en inversiones en materia de prevención y detección de actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 o 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código.
+
+En consecuencia, a partir de la realización del mencionado registro, los asesores en inversiones solamente tendrán las obligaciones contempladas en el presente ordenamiento relacionadas con las conductas descritas en el párrafo anterior, por lo que no tendrán otras obligaciones previstas con anterioridad a la entrada en vigor del presente Decreto en cualquier ley, reglamento y demás ordenamientos.
+
+II. Las reformas establecidas en los artículos 366, párrafos segundo y tercero, así como 371, primer párrafo y fracción VI de la Ley del Mercado de Valores contenidas en este Decreto, entrarán en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
+
+III. Las disposiciones de carácter general expedidas con fundamento en la Ley del Mercado de Valores que hayan sido emitidas con anterioridad a la entrada en vigor de este Decreto seguirán vigentes, en lo que no se opongan a este instrumento, hasta en tanto sean expedidas las previstas en el presente Decreto.
+
+IV. Las infracciones y delitos cometidos antes de la entrada en vigor de este Decreto, se sancionarán conforme a las disposiciones vigentes al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o conforme a lo dispuesto en el presente Decreto.
+
+V. Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá diseñar e implementar un esquema de apoyo para incentivar el listado de sociedades anónimas promotoras de inversión en el Registro, de conformidad con el artículo 19 y demás conducentes de la ley.
+
+VI. Las casas de bolsa, así como las sociedades que administran sistemas para facilitar operaciones con valores, contarán con un plazo de un año contado a partir de la entrada en vigor de este Decreto para presentar a la Comisión Nacional Bancaria y de Valores el manual de conducta a que se refieren las fracciones IV del artículo 115, y IV del artículo 254, respectivamente, que se adicionan mediante el presente Decreto.
+
+VII. Las casas de bolsa contarán con un plazo de nueve meses a partir de la entrada en vigor de este Decreto para modificar sus estatutos sociales conforme a lo previsto en el artículo 135 que se reforma mediante este Decreto y someterlos a la aprobación de la Comisión Nacional Bancaria y de Valores.
+
+VIII. La Comisión Nacional Bancaria y de Valores en un plazo no mayor a 180 días publicará mediante disposiciones generales la normatividad relativa a conflicto de intereses o relación comercial, reales o potenciales, que impliquen a las propias instituciones calificadoras, a sus administradores, empleados o cualquier persona que tenga, directa o indirectamente, con ella un vínculo de control, específicamente con las relacionadas con deudas de entidades federativas y municipios.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
