@@ -4,7 +4,7 @@ identifier: "LRSIC"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-15"
-last_updated: "2010-05-25"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22829&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LRSIC"
 ---
 # LEY PARA REGULAR LAS SOCIEDADES DE INFORMACION CREDITICIA
 
-LEY PARA REGULAR LAS SOCIEDADES DE INFORMACION CREDITICIA
+LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2002.
 
@@ -44,13 +44,13 @@ SE EXPIDE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACION CREDITICIA
 
 La presente ley tiene por objeto regular la constitución y operación de las sociedades de información crediticia. Sus disposiciones son de orden público y de observancia general en el territorio nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 2o.
 
 Para los efectos de esta ley, se entenderá en singular o plural por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -124,7 +124,7 @@ En lo no previsto por esta ley, se aplicará supletoriamente, para efectos de la
 
 ### CAPITULO I. DE LAS SOCIEDADES DE INFORMACION CREDITICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 5o.
 
@@ -168,11 +168,35 @@ de información;
 
 VI. La demás información y documentación conexa que la Secretaría le solicite por escrito a efecto de evaluar la solicitud respectiva.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 7o. Bis.
+
+El Gobierno Federal podrá contar con una entidad paraestatal constituida como sociedad de información crediticia, que forme parte del sistema financiero, sin que al efecto se requiera la autorización prevista en el artículo 6 de esta Ley. No obstante, en todo momento deberá sujetarse a las disposiciones de este ordenamiento y las demás que resulten aplicables por la función que realice.
+
 ###### Artículo 8o.
 
 Las Sociedades deberán contar con un capital mínimo, íntegramente suscrito y pagado, el cual será determinado por la Comisión mediante disposiciones de carácter general.
 
-Las acciones representativas del capital social de las Sociedades serán de libre suscripción; sin embargo, no podrán participar en forma alguna en el capital social de las Sociedades, personas morales extranjeras que ejerzan funciones de autoridad.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las acciones representativas del capital social de las Sociedades serán de libre suscripción.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+Los gobiernos extranjeros no podrán participar, directa o indirectamente, en el capital social de las Sociedades, salvo en los casos siguientes:
+
+I. Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
+
+Las Sociedades que se ubiquen en lo dispuesto en esta fracción, deberán entregar a la Comisión, la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto. La Comisión tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información y documentación correspondiente, para resolver, previo acuerdo de su Junta de Gobierno, si la participación de que se trata, se ubica en el supuesto de excepción previsto en esta fracción.
+
+II. Cuando la participación correspondiente implique que se tenga el control de la Sociedad, en términos del último párrafo de este artículo, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que:
+
+a) No ejercen funciones de autoridad, y
+
+b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+III. Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de la Sociedad, en términos del último párrafo de este artículo. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -187,6 +211,8 @@ c) Las personas que sean controladas por las mismas personas que controlan al Us
 d) Las personas que controlen a los sujetos mencionados en el inciso a) anterior, y
 
 e) Las demás personas cuyo control, a juicio de la Secretaría, representen conflicto de interés.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 10 DE ENERO DE 2014, SE ADVIERTE QUE SE RECORRIÓ PARA SER UN NUEVO PÁRRAFO.</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -233,6 +259,14 @@ Los accionistas que representen cuando menos un diez por ciento del capital paga
 Aquéllos consejeros que hayan sido designados por accionistas que tengan el carácter de Usuarios o que sean funcionarios de Usuarios, deberán tener nivel de director general del Usuario que representen o de los dos primeros niveles de mando inmediatos inferiores a éste, o ser accionistas o consejeros del referido Usuario.
 
 Los consejeros estarán obligados a abstenerse expresamente de participar en la deliberación y votación de cualquier asunto que implique para ellos un conflicto de interés. Asimismo, deberán mantener absoluta confidencialidad respecto de todos aquellos actos, hechos o acontecimientos relativos a la Sociedad de que sea consejero, así como de toda deliberación que se lleve a cabo en el consejo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 8o. Bis 1.
+
+Las Sociedades se abstendrán, en su caso, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles de las transmisiones de acciones que se efectúen en contravención de lo dispuesto por el artículo 8o. de esta Ley, y deberán informar tal circunstancia a la Comisión, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
+
+Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital social de una Sociedad, se realicen en contravención a lo dispuesto por el artículo 8o. de esta Ley, los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de la Sociedad quedarán en suspenso y por lo tanto no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda.
 
 ###### Artículo 9o.
 
@@ -288,6 +322,16 @@ Las Sociedades sólo podrán llevar a cabo las actividades necesarias para la re
 
 Las Sociedades, al ofrecer servicios de calificación de créditos o de riesgos a que se refiere el párrafo anterior, deberán considerar toda la información disponible en su base de datos sin discriminar la información proporcionada por cualquier Usuario.
 
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+Tratándose de servicios de calificación de crédito, las Sociedades podrán llevar a cabo valoraciones numéricas respecto de los Clientes, de conformidad con las disposiciones de carácter general que emita la Comisión, previo acuerdo de su Junta de Gobierno.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En tales disposiciones se establecerán los casos y términos en que las Entidades Financieras podrán acceder a las citadas valoraciones exclusivamente para determinar la elegibilidad del Cliente en la oferta de productos financieros, sin necesidad de contar con la autorización a que se refiere el artículo 28 de esta Ley, siempre y cuando se protejan en todo momento los datos personales del mismo.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 10 DE ENERO DE 2014, SE ADVIERTE QUE SE RECORRIÓ PARA SER UN NUEVO PÁRRAFO.</small>
+
 Las Sociedades deberán ofrecer a los Clientes que lo soliciten, en los términos que al efecto acuerden con ellos, el servicio consistente en hacer de su conocimiento cuando los Usuarios consulten su historial crediticio, así como cuando envíen información relativa a la falta de pago puntual de cualquier obligación exigible.
 
 ###### Artículo 14.
@@ -308,11 +352,47 @@ Las Sociedades requerirán autorización de la Secretaría para fusionarse o esc
 
 Las Sociedades estarán sujetas a la inspección y vigilancia de la Comisión, a la que deberán cubrir las cuotas en los términos que establezca la Secretaría.
 
-Las Sociedades deberán proporcionar la información y documentos que el Banco de México y la Comisión determinen mediante disposiciones de carácter general, con el fin de que cumplan con sus funciones, en términos de la ley que les corresponda. Asimismo, las Sociedades deberán proporcionar a dichas autoridades, en los plazos y a través de los medios que éstas establezcan, la información que requieran con el propósito de supervisión y divulgación estadística.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2010)</small>
+Las Sociedades deberán proporcionar a los Usuarios, Clientes y autoridades competentes la información y documentos que el Banco de México y la Comisión determinen mediante disposiciones de carácter general, en términos de la ley que les corresponda, con el fin de que las Sociedades cumplan debidamente con sus funciones y obligaciones. Asimismo, las Sociedades deberán proporcionar tanto al Banco de México como a la Comisión, en los plazos y a través de los medios que éstas establezcan mediante las respectivas disposiciones de carácter general que al efecto emitan, la información que requieran para el ejercicio de las atribuciones que la ley confiere a cada autoridad, así como con el propósito de divulgación estadística u otra que se determine mediante disposiciones de carácter general.
 
-La Comisión estará facultada para solicitar un informe trimestral a las Sociedades sobre el estado que guarda el proceso de borrado de registros en los términos de la presente ley. Las bases de datos que las Sociedades proporcionen a la Comisión podrán ser conservadas por ésta durante tres meses para su cotejo, estando obligados a destruirlas cuando haya fenecido éste último plazo. La Comisión no podrá proporcionar esta información a ningún tercero.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Comisión estará facultada para solicitar un informe trimestral a las Sociedades sobre el estado que guarda el proceso de borrado de registros en los términos de la presente Ley. La información y bases de datos que las Sociedades proporcionen al Banco de México y a la Comisión podrán ser conservadas por estas autoridades.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 17 Bis.
+
+Con el objeto de preservar la estabilidad financiera, evitar interrupciones o alteraciones en el funcionamiento del sistema financiero o del sistema de pagos, así como para facilitar el adecuado cumplimiento de sus funciones, la Secretaría, la Comisión y el Banco de México deberán, a solicitud de la autoridad interesada, y en términos de los convenios a que se refiere el último párrafo de este artículo, intercambiar entre sí la información que tengan en su poder por haberla obtenido:
+
+I. En el ejercicio de sus facultades;
+
+II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
+
+III. Directamente de otras autoridades.
+
+A la facultad mencionada en el párrafo anterior, no le serán oponibles las restricciones relativas a la información reservada o confidencial en términos de las disposiciones legales aplicables. Quien reciba la información a que se refiere este artículo será responsable administrativa y penalmente, en términos de la legislación aplicable, por la difusión a terceros de información confidencial o reservada.
+
+Para efectos de lo dispuesto en el presente artículo, las autoridades señaladas deberán celebrar convenios de intercambio de información en los que especifiquen la información objeto de intercambio y determinen los términos y condiciones a los que deberán sujetarse para ello. Asimismo, dichos convenios deberán definir el grado de confidencialidad o reserva de la información, así como las instancias de control respectivas a las que se informarán los casos en que se niegue la entrega de información o su entrega se haga fuera de los plazos establecidos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 17 Bis 1.
+
+La Secretaría, la Comisión y el Banco de México, en el ámbito de su competencia, estarán facultados para proporcionar a las autoridades financieras del exterior toda clase de información que estimen procedente para atender los requerimientos que les formulen, tales como documentos, constancias, registros, declaraciones y demás evidencias que tales autoridades tengan en su poder por haberla obtenido en ejercicio de sus facultades.
+
+Para efectos de lo previsto en el párrafo anterior, las autoridades deberán tener suscrito un acuerdo de intercambio de información con las autoridades financieras del exterior de que se trate, en el que se contemple el principio de reciprocidad.
+
+La Comisión estará facultada para entregar a las autoridades financieras del exterior la información protegida por disposiciones de confidencialidad que obre en su poder por haberla obtenido en el ejercicio de sus facultades, actuando en coordinación con otras entidades, personas o autoridades o bien directamente de otras autoridades.
+
+El Banco de México estará facultado para entregar a las autoridades financieras del exterior la información protegida por disposiciones de confidencialidad que obre en su poder por haberla obtenido directamente en el ejercicio de sus facultades. Asimismo, el Banco de México estará facultado para entregar a las autoridades financieras del exterior información protegida o no por disposiciones de confidencialidad que obtenga de otras autoridades del país, únicamente en los casos en los que lo tenga expresamente autorizado en el convenio de intercambio de información por virtud del cual hubiere recibido dicha información.
+
+En todo caso, la Comisión y el Banco de México podrán abstenerse de proporcionar la información a que se refieren los dos párrafos anteriores, cuando el uso que se le pretenda dar a la misma sea distinto a aquel para el cual haya sido solicitada, sea contrario al orden público, a la seguridad nacional o a los términos convenidos en el acuerdo de intercambio de información respectivo.
+
+La Secretaría, la Comisión y el Banco de México deberán establecer mecanismos de coordinación para efectos de la entrega de la información a que se refiere este artículo a las autoridades financieras del exterior.
+
+La entrega de información que se efectúe en términos del presente artículo no implicará transgresión alguna a las obligaciones de reserva, confidencialidad, secrecía o análogas que se deban observar conforme a las disposiciones legales aplicables.
 
 ###### Artículo 18.
 
@@ -364,33 +444,43 @@ La orden de suspensión a que se refiere este artículo es sin perjuicio de las 
 
 ### CAPITULO II. DE LA BASE DE DATOS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2010)</small>
 
 ###### Artículo 20.
 
 La base de datos de las Sociedades se integrará con la información sobre operaciones crediticias y otras de naturaleza análoga que le sea proporcionada por los Usuarios. Los Usuarios que entreguen dicha información a las Sociedades deberán hacerlo de manera completa y veraz; asimismo, estarán obligados a señalar expresamente la fecha de origen de los créditos que inscriban y la fecha del primer incumplimiento. Las Sociedades no deberán inscribir por ningún motivo, créditos cuya fecha de origen no sea especificado por los Usuarios, o cuando éste tenga una antigüedad en cartera vencida mayor a 72 meses. Lo anterior, de conformidad con lo establecido en los artículos 23 y 24 de esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 En caso de que la información proporcionada por el Usuario sea relativa a una persona moral, el Usuario deberá incluir a los accionistas o titulares de las partes sociales, según corresponda, que sean propietarios del 10% o más del capital social.
 
-Cuando el Banco de México lo determine, considerando el comportamiento del mercado, el tamaño del sector financiero y las tarifas de aquellas Sociedades que se encuentren operando al amparo de esta ley, podrá emitir disposiciones de carácter general para que las Entidades Financieras proporcionen información relativa a sus operaciones crediticias a las Sociedades organizadas conforme a esta ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las Entidades Financieras deberán proporcionar, de conformidad con las disposiciones de carácter general que, al efecto, emita el Banco de México, la información relativa a sus operaciones crediticias, al menos, a una de las Sociedades organizadas conforme a esta Ley.
 
 > <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
 
 Cuando el cliente realice el cumplimiento de una obligación, el Usuario deberá proporcionar a la Sociedad la información del pago correspondiente y la eliminación de la clave de prevención u observación correspondiente. El Usuario deberá enviar dicha información dentro de los cinco días hábiles posteriores al pago. En el caso a que se refiere el párrafo quinto del artículo 27 bis, los Usuarios contarán con un plazo de hasta diez días hábiles para enviar la información actualizada a la Sociedad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 En el supuesto al que se refiere el párrafo anterior, las Sociedades tendrán un plazo de hasta tres días hábiles contados a partir de la fecha en que hayan recibido la información de los Usuarios, para actualizar dicha información en sus bases de datos.
 
-> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Cuando los clientes se acojan a programas de recuperación de créditos de entidades financieras, Empresas Comerciales o Sofomes E.N.R. los usuarios deberán reportar a las sociedades de Información Crediticia dichos créditos como saldados, en caso de que hayan sido finiquitados.
+Cuando los clientes se acojan a programas de recuperación de créditos de Entidades Financieras, Empresas Comerciales o Sofomes E.N.R. los Usuarios deberán reportar a las sociedades de Información Crediticia dichos créditos como saldados, en caso de que hayan sido finiquitados.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 20 Bis.
+
+Los Usuarios tienen prohibido reportar a las Sociedades de Información Crediticia información respecto de créditos no contratados por un Cliente.
+
+En relación con información respecto de créditos, préstamos o financiamientos revolventes asociados a una tarjeta que no haya sido solicitada ni contratada por un Usuario, las Sociedades de Información Crediticia procederán a borrar de la base de datos, dentro de los cinco días hábiles posteriores a la solicitud del Cliente afectado, la información que haya sido reportada. Para efectos de este párrafo se entenderá como tarjeta no solicitada ni contratada, salvo prueba en contrario, aquella que no haya tenido disposiciones de la línea de crédito y sólo presente cargos por comisiones.
 
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -433,6 +523,14 @@ En el supuesto al que se refiere el párrafo anterior, la Sociedad deberá elimi
 Las Sociedades incluirán en sus manuales operativos procedimientos que les permitan a éstas revisar el razonable cumplimiento de lo establecido en el artículo 20 primer párrafo así como el procedimiento de eliminación de la información que les envíen los Usuarios en los términos de este artículo. La Comisión autorizará estos manuales.
 
 Las Sociedades deberán establecer criterios aplicables a todas ellas para la implementación operativa del presente artículo, respecto de la información que reciban de Usuarios. La Comisión estará facultada para resolver consultas respecto de la implementación operativa del presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 23 Bis.
+
+Las Sociedades, sin perjuicio de lo dispuesto en el artículo 23 de esta Ley podrán, bajo su más estricta responsabilidad, conservar información una vez vencidos los plazos a que se refiere dicho artículo, a fin de asegurarse de que la información que reciban de sus Usuarios con posterioridad a tales plazos, no esté relacionada con aquella que debió haber sido eliminada. En caso de recibirla, deberán dar aviso a la Comisión, si el Usuario que la entregue es supervisado por dicho órgano desconcentrado.
+
+Asimismo, las Sociedades deberán notificar a la Comisión, los controles con que cuentan para el resguardo de dicha información.
 
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -492,7 +590,7 @@ Las Sociedades sólo podrán proporcionar información a un Usuario, cuando ést
 
 Las Sociedades podrán proporcionar información a los Usuarios que adquieran o administren cartera de crédito, utilizando para ello la autorización que el Cliente haya dado conforme al presente artículo al Usuario que otorgó el crédito respectivo originalmente.
 
-> <small>(DEROGADO PARRAFO TERCERO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(DEROGADO PÁRRAFO TERCERO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 Asimismo, el Banco de México podrá autorizar a las Sociedades los términos y condiciones bajo los cuales podrán pactar con los Usuarios la sustitución de la firma autógrafa del Cliente, con alguna de las formas de manifestación de la voluntad señaladas en el artículo 1803 del Código Civil Federal.
 
@@ -502,7 +600,9 @@ I. Personas físicas, y
 
 II. Personas morales con créditos totales inferiores a cuatrocientas mil UDIS, de conformidad con el valor de dicha unidad publicado por el Banco de México a la fecha en que se presente la solicitud de información. Los Usuarios que realicen consultas relacionadas con personas morales con créditos totales superiores a cuatrocientas mil UDIS, no requerirán de la autorización expresa a que se refiere el presente artículo.
 
-La obligación de obtener las autorizaciones a que se refiere este artículo, no aplicará a la información solicitada por la Comisión, por las autoridades judiciales en virtud de providencia dictada en juicio en que el Cliente sea parte o acusado y por las autoridades hacendarías federales, cuando la soliciten a través de la Comisión, para fines fiscales, de combate al blanqueo de capitales o de acciones tendientes a prevenir y castigar el financiamiento del terrorismo.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La obligación de obtener las autorizaciones a que se refiere este artículo, no aplicará a la información solicitada por el Banco de México, la Comisión, las autoridades judiciales en virtud de providencia dictada en juicio en que el Cliente sea parte o acusado y por las autoridades hacendarias federales, cuando la soliciten a través de la Comisión, para fines fiscales, de combate al blanqueo de capitales o de acciones tendientes a prevenir y castigar el financiamiento del terrorismo.
 
 La vigencia de la autorización prevista en el primer párrafo de este artículo será de un año contado a partir de su otorgamiento, o hasta dos años adicionales a ese año si el Cliente así lo autoriza expresamente. En todo caso, la vigencia permanecerá mientras exista relación jurídica entre el Usuario y el Cliente.
 
@@ -662,7 +762,7 @@ Los Clientes que gestionen algún servicio ante algún Usuario, podrán solicita
 
 Los Usuarios que nieguen el otorgamiento de algún crédito o servicio preponderantemente con motivo de la información contenida en el correspondiente Reporte de Crédito, estarán obligados a comunicar a los Clientes dicha situación, así como a proporcionarles los datos de la Sociedad que emitió el aludido Reporte de Crédito.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 40.
 
@@ -678,13 +778,21 @@ Para efectos de la entrega del Reporte de Crédito Especial, las Sociedades debe
 
 Las Sociedades estarán obligadas a: a) Enviar o a poner a disposición de los Clientes, junto con cada Reporte de Crédito Especial, un resumen de sus derechos y de los procedimientos para acceder y, en su caso, rectificar los errores de la información contenida en dicho documento; b) Mantener a disposición del público en general el contenido del resumen mencionado, y c) Poner a disposición del público en general en forma fácil y accesible, el significado de las claves que se utilicen en los Reportes de Crédito Especiales y mantener actualizada en todo momento dicha información.
 
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-Las Sociedades deberán contar con un número telefónico gratuito para atender las solicitudes de Reportes de Crédito Especiales, así como para recibir las reclamaciones que sobre estos reportes presenten los Clientes en términos del artículo 42. Asimismo, a través de dicho número telefónico las Sociedades deberán atender las dudas de los Clientes en relación con dichas solicitudes y con los derechos que les confiere esta Ley y las disposiciones de carácter general a que se refiere el artículo 12.
+Las Sociedades deberán contar con un número telefónico gratuito y una página de Internet con disponibilidad de consulta permanente para atender las solicitudes de Reportes de Crédito Especiales, así como para recibir las reclamaciones que sobre estos reportes presenten los Clientes en términos del artículo 42. Asimismo, a través de dicho número telefónico las Sociedades deberán atender las dudas de los Clientes en relación con dichas solicitudes y con los derechos que les confiere esta Ley y las disposiciones de carácter general a que se refiere el artículo 12.
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 La Condusef en su página de la red mundial conocida como Internet, deberá incluir información sobre las Sociedades con su denominación, datos que la identifiquen y su vínculo por la aludida red. Por su parte, las Sociedades estarán obligadas a tener en lugar visible dentro de su página respectiva en dicha red, el vínculo a la página de la Condusef.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los Usuarios deberán informar a los Clientes a través de correo electrónico o teléfono, en caso de que cuenten con ellos, sobre cualquier información que reporten a una Sociedad que cuente con las características para ser integrada a la Base Primaria de Datos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los Usuarios están obligados a registrar el correo electrónico de un Cliente en caso de que éste le sea proporcionado.
 
 ###### Artículo 41.
 
@@ -716,7 +824,7 @@ Cuando una Sociedad reciba una reclamación de un Cliente, respecto de un regist
 
 Para efectos de lo dispuesto en el primer párrafo del artículo 47 de esta ley, la Sociedad obligada a realizar los envíos mencionados en dicho precepto, será aquélla que haya enviado el registro impugnado a otra Sociedad para la elaboración por esta última del Reporte de Crédito Especial respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 43.
 
@@ -724,11 +832,11 @@ La Sociedad deberá entregar a las Entidades Financieras o Sofomes E.N.R. por co
 
 Una vez que la Sociedad notifique por escrito la reclamación al Usuario respectivo, deberá incluir en el registro de que se trate la leyenda "registro impugnado", misma que se eliminará hasta que concluya el trámite contenido en los artículos 44, 45 y 46 del presente Capítulo.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 44.
 
-Si las Entidades Financieras o Sofomes E.N.R. por conducto de sus unidades especializadas o, en el caso de Empresas Comerciales, de quienes designen como responsables para esos efectos, no hacen llegar a la Sociedad su respuesta a la reclamación presentada por el Cliente dentro de un plazo de treinta días naturales contado a partir de que hayan recibido la notificación de la reclamación, la Sociedad deberá modificar o eliminar de su base de datos la información que conste en el registro de que se trate, según lo haya solicitado el Cliente, así como la leyenda "registro impugnado".
+Si las Entidades Financieras o Sofomes E.N.R. por conducto de sus unidades especializadas o, en el caso de Empresas Comerciales, de quienes designen como responsables para esos efectos, no hacen llegar a la Sociedad su respuesta a la reclamación presentada por el Cliente dentro de un plazo de quince días naturales contado a partir de que hayan recibido la notificación de la reclamación, la Sociedad deberá modificar o eliminar de su base de datos la información que conste en el registro de que se trate, según lo haya solicitado el Cliente, así como la leyenda "registro impugnado".
 
 ###### Artículo 45.
 
@@ -740,9 +848,9 @@ En caso de que el Usuario acepte parcialmente lo señalado en la reclamación o 
 
 En caso de que los errores objeto de la reclamación presentada por el Cliente sean imputables a la Sociedad, ésta deberá corregirlos de manera inmediata.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 46.
 
@@ -790,7 +898,7 @@ Las Sociedades responderán por los daños que causen a los Clientes al proporci
 
 Los Usuarios que proporcionen información a las Sociedades igualmente responderán por los daños que causen al proporcionar dicha información, cuando exista culpa grave, dolo o mala fe.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2004)</small>
 
 ###### Artículo 52.
 
@@ -800,7 +908,7 @@ Aquellos Usuarios que obtengan información de una Sociedad sin contar con la au
 
 Respecto de las Empresas Comerciales y Sofomes E.N.R., que no obtengan la autorización a que se refieren los artículos 28, 29 y 30 de la presente ley, la Profeco o la Condusef, según corresponda, previo derecho de audiencia y considerando para tal efecto la gravedad y reincidencia del caso, podrán ordenar a todas las Sociedades que se abstengan de prestar servicios al infractor de manera temporal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 53.
 
@@ -822,9 +930,9 @@ III. En la imposición de las sanciones se tomará en cuenta la gravedad de la i
 
 Por antecedentes personales, se entenderá:
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-a) La calidad del infractor primario, así como la corrección espontánea, previo al inicio del procedimiento administrativo en términos de este artículo, de las omisiones o contravenciones en que incurrió el informe de las mismas por escrito a la autoridad que corresponda, y de ser necesario, presente un programa de cumplimiento forzoso tendiente a corregir las irregularidades. Cualquiera de estas situaciones o ambas, tendrán el carácter de atenuantes. Asimismo, se considerará como atenuante, cuando el presunto infractor acredite ante la autoridad de que se trate haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de las autoridades, a efecto de deslindar responsabilidades. La autoridad que corresponda también podrá considerar como atenuante o excluyente de la imposición de sanciones, la existencia de casos fortuitos o de fuerza mayor.
+a) La calidad del infractor primario. Asimismo, se considerará como atenuante, cuando el presunto infractor acredite ante la autoridad de que se trate haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de las autoridades, a efecto de deslindar responsabilidades. La autoridad que corresponda también podrá considerar como atenuante o excluyente de la imposición de sanciones, la existencia de casos fortuitos o de fuerza mayor.
 
 b) La reincidencia, así como la comisión de una infracción en forma continuada por más de seis meses. Se considerará reincidente, al que habiendo incurrido en una infracción y haya sido sancionado, cometa otra del mismo tipo o naturaleza, dentro del año inmediato siguiente a la fecha en que haya quedado firme la resolución correspondiente. Cualquiera de estas circunstancias se tomará como agravante y la sanción podrá ser hasta por el equivalente al doble de la prevista.
 
@@ -860,7 +968,7 @@ Se entenderá que el procedimiento administrativo de que se trata ha iniciado, c
 
 Las sanciones administrativas a que se refiere esta Ley, no afectarán el procedimiento penal que, en su caso, corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 56.
 
@@ -870,31 +978,97 @@ Las multas que el Banco de México, la Comisión, la Profeco o la Condusef impon
 
 En el supuesto de que la multa de que se trate se pague en el citado plazo de quince días hábiles, la misma se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución, siempre y cuando no se interponga medio de defensa alguno.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-En protección del interés público, el Banco de México, la Comisión, la Profeco o la Condusef podrán divulgar las sanciones que al efecto impongan por infracciones a esta ley o a las disposiciones de carácter general que de ella emanen, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, señalando exclusivamente la persona sancionada, el precepto infringido y la sanción impuesta.
+Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, el Banco de México, la Comisión, la Profeco o la Condusef, ajustándose a los lineamientos que apruebe su Junta de Gobierno u órgano equivalente, deberán hacer del conocimiento del público en general, a través de su portal de Internet las sanciones que al efecto impongan por infracciones a esta Ley, o a las disposiciones que emanen de ella, para lo cual deberán señalar:
+
+I. El nombre, denominación o razón social del infractor;
+
+II. El precepto legal infringido, el tipo de sanción impuesta, monto o plazo, según corresponda, la conducta infractora, y
+
+III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad competente, deberá igualmente publicarse tal circunstancia.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+La información antes señalada no será considerada como reservada o confidencial.
 
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 Para la ejecución de las multas que imponga el Banco de México en términos de esta ley, se observará lo previsto en los artículos 66 y 67 de la Ley del Banco de México.
 
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 10 DE ENERO DE 2014, SE ADVIERTE QUE SE RECORRIÓ PARA SER UN NUEVO PÁRRAFO.</small>
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
 Las multas que imponga la Comisión a las instituciones de crédito, se harán efectivas cargando su importe en la cuenta que lleve el Banco de México a dichas instituciones. Corresponderá a la Secretaría hacer efectivas las multas a personas distintas a las instituciones de crédito.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 10 DE ENERO DE 2014, SE ADVIERTE QUE SE RECORRIÓ PARA SER UN NUEVO PÁRRAFO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
 El Banco de México realizará los cargos respectivos en la fecha en que la Comisión se lo solicite por tratarse de multas contra las cuales no proceda ya medio de defensa alguno. Para tales efectos, la institución de crédito afectada dará aviso por escrito a la Comisión simultáneamente al ejercicio de cualquier medio de defensa ante la autoridad competente.
 
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 56 Bis.
 
-Atendiendo a las circunstancias de cada caso, la Comisión podrá imponer la sanción que corresponda y amonestar al infractor, o bien, solamente amonestarlo. En este último caso se deberá considerar sus antecedentes personales, la gravedad de la conducta, que no se afecten los intereses de terceros o del propio sistema financiero, así como la existencia de atenuantes.
+La Comisión o la Condusef, según sea el caso, podrá, además de la imposición de la sanción que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes personales, la gravedad de la conducta, que no se cuente con elementos que permitan demostrar que se afecten intereses de terceros o del propio sistema financiero, que habiéndose causado un daño este haya sido reparado, así como la existencia de atenuantes en términos de esta Ley.
 
-La Comisión podrá abstenerse de sancionar a las Sociedades y Entidades Financieras, cuando se trate de las conductas señaladas en el artículo 60, fracciones I, III y XX de esta Ley, siempre que a juicio de la propia Comisión se refieran a hechos, actos u omisiones que no sean graves, no constituyan delito y no pongan en peligro los intereses de terceros o del sistema financiero.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En todo caso, la Comisión o la Condusef podrán abstenerse de sancionar a las Sociedades y Entidades Financieras, siempre y cuando se justifique la causa de tal abstención de acuerdo con los lineamientos que para tal efecto emita la Junta de Gobierno de la Comisión de que se trate y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia, no se cuente con elementos que permitan demostrar que se afecten los intereses de terceros o del propio sistema financiero y no constituyan delito.
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 En la imposición de la sanción señalada en el artículo 61, fracción XI, la Comisión podrá considerar como atenuante de responsabilidad, o bien, podrá abstenerse de sancionar el incumplimiento de la obligación de seguir enviando la información relativa a los créditos que hubieren sido cedidos o vendidos de que se trate, prevista en el artículo 27 Bis, quinto y último párrafos, siempre y cuando el Usuario demuestre, a satisfacción de la Comisión, que el incumplimiento es consecuencia directa de que, no obstante (sic) haber realizado oportunamente las acciones necesarias para obtener la información correspondiente, el cesionario o comprador de la cartera no se la haya proporcionado.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Se considerarán infracciones graves la violación a lo previsto por los artículos 60, fracciones VIII y XXII, 61, fracciones IV, VIII, IX, X y XVII, y 62, fracciones I, II y III de esta Ley. En todo caso, se considerará grave cuando se proporcione a la Comisión información falsa o que dolosamente induzca al error, por ocultamiento u omisión.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 56 Bis 1.
+
+Las Sociedades, Entidades Financieras y Sofomes E.N.R., por conducto de su director general y, con la opinión de la persona o área encargada de las funciones de vigilancia, podrán someter a la autorización de la Comisión, del Banco de México o de la Condusef, según corresponda, un programa de autocorrección cuando la Sociedad, Entidad Financiera o Sofom E.N.R., de que se trate, en la realización de sus actividades, o la persona o área que ejerza las funciones de vigilancia como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
+
+No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
+I. Las irregularidades o incumplimientos que sean detectados por la Comisión, el Banco de México o la Condusef en ejercicio de sus facultades, antes de la presentación por parte de la interesada del programa de autocorrección respectivo.
+
+Se entenderá que la irregularidad fue detectada previamente por las autoridades señaladas, cuando se haya notificado a la Sociedad, Entidad Financiera o Sofom E.N.R., según sea el caso, la irregularidad o bien, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
+
+II. Cuando la contravención a la norma de que se trate, corresponda a la comisión de algún delito, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 56 Bis 2.
+
+Los programas de autocorrección a que se refiere el artículo 56 Bis 1 de esta Ley, se sujetarán a las disposiciones de carácter general que emitan cada una de las autoridades referidas en tal artículo, según su competencia. Adicionalmente, deberán ser firmados por la persona o área que ejerza las funciones de vigilancia de la Sociedad, Entidad Financiera o Sofom E.N.R., de que se trate, y ser presentados al consejo de administración en la sesión inmediata posterior a la solicitud de autorización presentada a la Comisión. Igualmente, deberá contener las irregularidades o incumplimientos cometidos indicando al efecto las disposiciones que se hayan considerado contravenidas; las circunstancias que originaron la irregularidad o incumplimiento cometido, así como señalar las acciones adoptadas o que se pretendan adoptar por parte de la Sociedad, Entidad Financiera o Sofom E.N.R., para corregir la irregularidad o incumplimiento que motivó el programa.
+
+En caso de que la Sociedad, Entidad Financiera o Sofom E.N.R., requiera de un plazo para subsanar la irregularidad o incumplimiento cometido, el programa de autocorrección deberá incluir un calendario detallado de actividades a realizar para ese efecto.
+
+Si la Comisión, el Banco de México o la Condusef, según sea el caso, no ordena a la Sociedad, Entidad Financiera o Sofom E.N.R., de que se trate, modificaciones o correcciones al programa de autocorrección dentro de los veinte días hábiles siguientes a su presentación, el programa se tendrá por autorizado en todos sus términos.
+
+Cuando la Comisión, el Banco de México o la Condusef ordene a la Sociedad, Entidad Financiera o Sofom E.N.R., modificaciones o correcciones con el propósito de que el programa se apegue a lo establecido en el presente artículo y demás disposiciones aplicables contarán con un plazo de cinco días hábiles contados a partir de la notificación respectiva para subsanar tales deficiencias. Dicho plazo podrá prorrogarse por única ocasión hasta por cinco días hábiles adicionales, previa autorización de la Comisión, el Banco de México o la Condusef, según corresponda.
+
+De no subsanarse las deficiencias a las que se refiere el párrafo anterior, el programa de autocorrección se tendrá por no presentado y, en consecuencia, las irregularidades o incumplimientos cometidos no podrán ser objeto de otro programa de autocorrección.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 56 Bis 3.
+
+Durante la vigencia de los programas de autocorrección que hubieren autorizado las autoridades en términos de los artículos 56 Bis 1 y 56 Bis 2 anteriores, éstas se abstendrán de imponer a las Sociedades, Entidades Financieras o Sofomes E.N.R., según se trate, las sanciones previstas en esta Ley, por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.
+
+La persona o área encargada de ejercer las funciones de vigilancia estará obligada a dar seguimiento a la instrumentación del programa de autocorrección autorizado e informar de su avance tanto al consejo de administración y al director general como a las autoridades, según determine cada una de estas en la forma y términos que establezcan en las disposiciones de carácter general a que se refiere el artículo 56 Bis 2 de esta Ley. Lo anterior, con independencia de la facultad de la Comisión, el Banco de México y la Condusef, para supervisar en cualquier momento y, dentro del ámbito de su competencia, el grado de avance y cumplimiento del programa de autocorrección.
+
+Si la Comisión, el Banco de México y la Condusef, en ejercicio de sus funciones de vigilancia o de las labores de inspección y vigilancia, según se trate, determinan que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, impondrán la sanción correspondiente aumentando el monto de ésta hasta en un cuarenta por ciento; siendo actualizable dicho monto en términos de las disposiciones fiscales aplicables.
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -906,7 +1080,7 @@ Contra las resoluciones de la Comisión que impongan sanciones y de las multas p
 
 Contra las sanciones impuestas por la Profeco y la Condusef procederá el recurso administrativo contemplado en la Ley Federal de Protección al Consumidor y el recurso de revisión previsto en la Ley de Protección y Defensa al Usuario de Servicios Financieros, respectivamente.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 23 DE ENERO DE 2004)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 23 DE ENERO DE 2004)</small>
 
 #### Sección II. Sanciones que podrá imponer la Comisión
 
@@ -922,23 +1096,27 @@ La Comisión podrá inhabilitar para desempeñar un empleo, cargo o comisión de
 
 La Sociedad que no cuente con el capital mínimo pagado en términos del artículo 8o. de la presente Ley, será sancionada por la Comisión con multa equivalente a la cantidad que se obtenga de multiplicar por 1.5, el rendimiento que el faltante de ese capital hubiere generado de haberse invertido durante el periodo en que el mismo se presentó, a la tasa líder que paguen los Certificados de la Tesorería de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 60.
 
-La Comisión sancionará con multa de 100 a 1,000 veces el salario mínimo general diario vigente en el Distrito Federal, cuando:
+La Comisión sancionará con multa de 300 a 5,000 veces el salario mínimo general diario vigente en el Distrito Federal, cuando:
 
-I. La Sociedad omita integrar los expedientes o no se informe a la Comisión de los nombramientos, en los términos establecidos en el artículo 9o., cuarto y quinto párrafos;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+I. La Sociedad omita integrar los expedientes o no se informe a la Comisión de los nombramientos, en los términos establecidos en el artículo 9o., cuarto y quinto párrafos de esta Ley así como que incumpla con las disposiciones a que se refiere el mencionado párrafo cuarto.
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 II. La Sociedad no presente el instrumento público por el que se modifiquen los estatutos sociales ante el Registro Público de Comercio o no informe a la Secretaría o a la Comisión, los datos de inscripción conforme a lo dispuesto en el artículo 11;
 
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
+
 III. La Sociedad no dé aviso a la Comisión, del establecimiento, cambio de ubicación o clausura de cualquiera de sus oficinas, en los términos establecidos en el artículo 14;
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-IV. La Sociedad omita presentar a la Secretaría o a la Comisión, la información o documentación que soliciten o determinen, en términos del artículo 17, segundo párrafo;
+IV. La Sociedad omita presentar a la Secretaría o a la Comisión, la información o documentación que soliciten o determinen, en términos del artículo 17, segundo párrafo o incumpla con las disposiciones que emanan de éste.
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -960,11 +1138,15 @@ VIII. La Sociedad, sus empleados o funcionarios, proporcionen a los Usuarios inf
 
 IX. La Entidad Financiera no conserve la autorización del Cliente, en la forma y términos previstos en el artículo 30;
 
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
+
 X. La Sociedad no cuente con los sistemas y procesos previstos en el artículo 33, o no hayan sido aprobados por su consejo de administración;
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 XI. La Entidad Financiera omita proporcionar al Cliente los datos obtenidos de la Sociedad o la información a que hace referencia el artículo 39;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 XII. La Sociedad omita proporcionar al Cliente el Reporte de Crédito Especial, en la forma y términos establecidos en el artículo 40;
 
@@ -972,7 +1154,11 @@ XII. La Sociedad omita proporcionar al Cliente el Reporte de Crédito Especial, 
 
 XIII. La Sociedad se abstenga de poner a disposición del público en general el significado de las claves que se utilicen en los Reportes de Crédito Especiales o no actualice dicha información, conforme al artículo 40, quinto párrafo, inciso c);
 
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
+
 XIV. La Sociedad no entregue la reclamación del Cliente en la forma y términos establecidos en el artículo 43, primer párrafo, o bien, omita incluir en el registro correspondiente la leyenda prevista en el segundo párrafo del mismo artículo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 XV. La Entidad Financiera omita realizar de inmediato las modificaciones en su base de datos, relativas a la aceptación total o parcial de lo señalado en la reclamación presentada por el Cliente o no lo notifique a la Sociedad que haya mandado la reclamación y deje de remitirle a ésta la corrección efectuada a su base de datos, conforme lo establece el artículo 45, primer párrafo;
 
@@ -992,11 +1178,15 @@ XVIII. La Sociedad omita entregar al Cliente o a los Usuarios los Reportes de Cr
 
 XIX. La Entidad Financiera omita informar a la Sociedad, en el plazo establecido, del laudo emitido por la Condusef, en términos de lo previsto en el artículo 48, segundo párrafo;
 
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
+
 XX. La Sociedad no proporcione a la Comisión el listado a que se refiere el artículo 49;
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 XXI. La Sociedad omita proporcionar a la Condusef o a la Profeco el informe o los modelos de convenios a que se refiere el artículo 50;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 XXII. La Entidad Financiera proporcione información errónea a las sociedades, en los casos en que exista culpa grave, dolo o mala fe que le resulte imputable;
 
@@ -1028,15 +1218,21 @@ XXVIII. La Entidad Financiera no entregue la totalidad de su información sobre 
 
 XXIX. La Sociedad no cuente con un número telefónico gratuito a través del cual se presten los servicios previstos en el artículo 40, penúltimo párrafo.
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 61.
 
-La Comisión sancionará con multa de 200 a 2,000 veces el salario mínimo general diario vigente en el Distrito Federal, cuando:
+La Comisión sancionará con multa de 300 a 10,000 veces el salario mínimo general diario vigente en el Distrito Federal, cuando:
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 I. La Sociedad omita dar aviso a la Secretaría, a la Comisión o al Banco de México, de la fecha de inicio de sus actividades, en términos de lo establecido en el artículo 11, segundo párrafo;
 
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
+
 II. La Sociedad modifique sus estatutos sociales sin contar con la autorización a que se refiere el artículo 11, primer párrafo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 III. La Sociedad cuente con políticas o criterios que restrinjan, obstaculicen o impongan requisitos excesivos para proporcionar o recibir información, en los términos del artículo 35;
 
@@ -1045,6 +1241,8 @@ III. La Sociedad cuente con políticas o criterios que restrinjan, obstaculicen 
 IV. La Sociedad omita incorporar, modificar o eliminar la información de su base de datos, en los supuestos previstos en el artículo 44;
 
 V. (DEROGADA, D.O.F. 1 DE FEBRERO DE 2008)
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 VI. La Sociedad omita establecer en los contratos que celebre con los Usuarios, la obligación prevista en el artículo 48, primer párrafo;
 
@@ -1096,11 +1294,11 @@ XVII. La Sociedad que no elimine de la base de datos la información a que se re
 
 XVIII. La Entidad Financiera utilice información proporcionada por la Sociedad con la finalidad de ser utilizada para efectos laborales, sin que exista resolución judicial que así lo amerite.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-###### Articulo 62.
+###### Artículo 62.
 
-La Comisión sancionará con multa de 1,000 a 15,000 veces el salario mínimo general diario vigente en el Distrito Federal, cuando:
+La Comisión sancionará con multa de 2,000 a 20,000 veces el salario mínimo general diario vigente en el Distrito Federal, cuando:
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1109,6 +1307,14 @@ I. La Sociedad lleve a cabo actividades distintas a las establecidas en el artí
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 II. La Sociedad o Entidad Financiera haga uso o manejo indebido de la información en términos del artículo 22;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II Bis. La Sociedad haga uso indebido de la información a que se refiere el artículo 23 Bis de esta Ley o bien, omita dar el aviso señalado en dicho precepto.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+II Ter. Los Usuarios sujetos a su supervisión, envíen a las Sociedades información que debió eliminarse de conformidad con el artículo 23 Bis de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1126,9 +1332,13 @@ V. Omitan compartir su información a otras Sociedades en términos de lo dispue
 
 VI. Omitan ajustarse a las disposiciones de carácter general que emita la Comisión, en términos del artículo 36 y 36 Bis de esta ley, y
 
-> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-VII. Omitan aplicar la tarifa que determine la Comisión en términos de lo dispuesto por los artículos 36 y 36 Bis de esta ley.
+VII. Omitan aplicar la tarifa que determine la Comisión en términos de lo dispuesto por los artículos 36 y 36 Bis de esta Ley, así como que incumplan con las disposiciones a que se refiere el artículo 36 Bis.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En caso de que alguna de las infracciones contenidas en los artículos 60, 61 y 62 de esta Ley generen un daño patrimonial o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -1136,11 +1346,11 @@ VII. Omitan aplicar la tarifa que determine la Comisión en términos de lo disp
 
 Las multas a que se refieren los artículos 59, 60 y 61, podrán ser impuestas tanto a las Sociedades y Entidades Financieras, como a los administradores, funcionarios, empleados o apoderados de esas Sociedades y Entidades Financieras, que sean responsables de la infracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 64.
 
-Las comisiones encargadas de la inspección y vigilancia de las Entidades Financieras o Sofomes E.N.R., podrán sancionarlas, según corresponda, con una multa de 100 a 500 veces el salario mínimo general diario vigente en el Distrito Federal cuando:
+Las comisiones encargadas de la inspección y vigilancia de las Entidades Financieras o Sofomes E.N.R., podrán sancionarlas, según corresponda, con una multa de 300 a 1,000 veces el salario mínimo general diario vigente en el Distrito Federal cuando:
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -1164,17 +1374,21 @@ IV. Omitan incluir en su respuesta a una reclamación de un Cliente los elemento
 
 Las sanciones previstas en esta Sección, cuando correspondan a la Comisión, serán impuestas por su Junta de Gobierno, quien podrá delegar esa facultad en razón de la naturaleza de la infracción o del monto de la multa, al Presidente o a los demás servidores públicos de la propia Comisión.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 23 DE ENERO DE 2004)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 23 DE ENERO DE 2004)</small>
 
 #### Sección III. Sanciones que podrá imponer el Banco de México
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 66.
 
-El Banco de México sancionará con multa de 500 a 10,000 veces el salario mínimo general diario vigente en el Distrito Federal, a las Sociedades cuando:
+El Banco de México sancionará con multa de 1,000 a 15,000 veces el salario mínimo general diario vigente en el Distrito Federal, a las Sociedades cuando:
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 I. Omitan ajustar sus operaciones y actividades a las disposiciones de carácter general a que se refiere el artículo 12;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 II. Omitan sujetarse a lo que el Banco de México les señale en relación con el manejo y control de su base de datos, cuando se acuerde su disolución y liquidación, de conformidad con el artículo 16;
 
@@ -1185,6 +1399,8 @@ III. Se abstengan de proporcionar al Banco de México la información y document
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 IV. Omitan eliminar de su base de datos la información crediticia que el Banco de México establezca a través de disposiciones de carácter general expedidas con base en el artículo 23, octavo párrafo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 V. Se abstengan de observar los términos y condiciones, respecto a la forma en que podrán pactar con los Usuarios la sustitución de la firma autógrafa en las autorizaciones del Cliente, de conformidad con el artículo 28;
 
@@ -1198,23 +1414,29 @@ VIII. (DEROGADA, D.O.F. 25 DE MAYO DE 2010)
 
 IX. Se abstengan de atender las reclamaciones conforme a lo previsto en el artículo 42 o en los términos que señale el Banco de México mediante disposiciones de carácter general.
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 67.
 
-El Banco de México sancionará con multa de 500 a 10,000 veces el salario mínimo general diario vigente en el Distrito Federal, a las Entidades Financieras cuando:
+El Banco de México sancionará con multa de 1,000 a 15,000 veces el salario mínimo general diario vigente en el Distrito Federal, a las Entidades Financieras cuando:
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 I. Omitan proporcionar a las Sociedades información relativa a sus operaciones crediticias, de acuerdo con las disposiciones de carácter general que expida el propio Banco conforme al artículo 20, o bien, fuera de los plazos señalados por éste;
 
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
+
 II. Se abstengan de observar el programa que determine el Banco de México mediante disposiciones de carácter general, en el que dé a conocer el mecanismo gradual para reducir el plazo de respuesta respecto a las reclamaciones que formulen los Clientes ante las Sociedades, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2004)</small>
 
 III. Infrinjan las demás disposiciones de carácter general que expida el Banco de México, en términos de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 #### Sección IV. Sanciones que podrá imponer la Profeco y la Condusef
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 68.
 
@@ -1300,7 +1522,7 @@ Las multas a que se refiere el artículo anterior podrán ser impuestas tanto a 
 
 ### CAPITULO SEGUNDO (SIC). QUITAS Y REESTRUCTURAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1312,7 +1534,7 @@ La Comisión al ejercer la facultad para aprobar las claves de prevención y obs
 
 Si un Cliente obtiene una resolución judicial favorable respecto de un crédito, la clave de prevención u observación respecto de este crédito deberá reflejar dicha circunstancia, y eliminar toda referencia a un incumplimiento.
 
-(REUBICADO [ANTES ARTICULO 57], D.O.F. 23 DE ENERO DE 2004)
+(REUBICADO [ANTES ARTÍCULO 57], D.O.F. 23 DE ENERO DE 2004)
 
 ###### Artículo 70.
 
@@ -1334,7 +1556,7 @@ México, D.F., a 27 de diciembre de 2001.- Sen. Diego Fernández de Cevallos Ram
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de enero de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE ENERO DE 2004.
 
@@ -1393,3 +1615,21 @@ Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento
 Las sociedades de información crediticia deberán obtener la autorización de la Comisión Nacional Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
