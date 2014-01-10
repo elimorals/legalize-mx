@@ -4,7 +4,7 @@ identifier: "LRASCAP"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-13"
-last_updated: "2013-01-04"
+last_updated: "2014-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69506&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRASCAP"
 
 LEY PARA REGULAR LAS ACTIVIDADES DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el jueves 13 de agosto de 2009.
 
@@ -84,7 +84,9 @@ IX. Secretaría: a la Secretaría de Hacienda y Crédito Público;
 
 X. Sociedad o Sociedad Cooperativa de Ahorro y Préstamo: en singular o plural, a las sociedades constituidas y organizadas conforme a la Ley General de Sociedades Cooperativas, independientemente del nombre comercial, razón o denominación social que adopten, que tengan por objeto realizar operaciones de ahorro y préstamo con sus Socios, y quienes forman parte del sistema financiero mexicano con el carácter de integrantes del sector social sin ánimo especulativo y reconociendo que no son intermediarios financieros con fines de lucro;
 
-XI. Socio: en singular o plural, a las personas que participen en el capital social de las Sociedades Cooperativas de Ahorro y Préstamo;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+XI. Socio: en singular o plural, a las personas físicas o morales que participen en el capital social de las Sociedades Cooperativas de Ahorro y Préstamo;
 
 XII. UDI: a la unidad de cuenta llamada “Unidad de Inversión” establecida en el "Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta" publicado en el Diario Oficial de la Federación el 1 de abril de 1995, tal como el mismo sea modificado o adicionado de tiempo en tiempo, y
 
@@ -148,7 +150,7 @@ En este último caso, las Federaciones que actúen como coadyuvantes, serán cor
 
 El Comité de Supervisión Auxiliar deberá informar a la Comisión haber efectuado la inscripción en el registro de las Sociedades Cooperativas de Ahorro y Préstamo, en la forma y términos que al efecto establezca la Comisión mediante disposiciones de carácter general.
 
-Todo trámite relativo al registro de las Sociedades Cooperativas de Ahorro y Préstamo será sin costo.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 9.
 
@@ -200,7 +202,9 @@ Se entenderá que la Comisión resuelve en sentido negativo la solicitud de auto
 
 Cualquier requerimiento de información o documentación que realice la Comisión o el Comité de Supervisión Auxiliar a la Sociedad solicitante, suspenderá el cómputo del plazo con el que cuenta el Comité de Supervisión Auxiliar y la Comisión para emitir su dictamen o resolución, según sea el caso. Dicho plazo comenzará a computarse nuevamente, a partir de que se reciba la información o documentación requerida.
 
-La Comisión deberá publicar las autorizaciones, así como las modificaciones a las mismas en el Diario Oficial de la Federación. Por su parte, las Sociedades Cooperativas deberán inscribir dichas autorizaciones o modificaciones en el Registro Público de Comercio que corresponda, a más tardar dentro de los 60 días naturales siguientes a los de su notificación, debiendo remitir a la Comisión el testimonio respectivo en un plazo de 15 días naturales posteriores a la inscripción. Una vez efectuada la inscripción de las autorizaciones en el citado registro, a las Sociedades Cooperativas de Ahorro y Préstamo les aplicará en su totalidad el régimen normativo establecido en la presente Ley y en las disposiciones que de ella emanen.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Comisión deberá publicar las autorizaciones, así como las modificaciones a las mismas en el Diario Oficial de la Federación. Por su parte, las Sociedades Cooperativas deberán inscribir dichas autorizaciones o modificaciones en el Registro Público de Comercio que corresponda, a más tardar dentro de los sesenta días naturales siguientes a los de su notificación, debiendo remitir a la Comisión el testimonio respectivo en un plazo de quince días naturales posteriores a la inscripción. Una vez que surta efectos la notificación de la autorización correspondiente, a las Sociedades Cooperativas de Ahorro y Préstamo les aplicará en su totalidad el régimen normativo establecido en la presente Ley y en las disposiciones que de ella emanen.
 
 > <small>(F. DE E., D.O.F. 21 DE AGOSTO DE 2009)</small>
 
@@ -263,6 +267,8 @@ Los depósitos a que se refiere esta fracción, no conferirán a los menores el 
 II. Otorgar préstamos a sus Socios.
 
 III. Transmisión de dinero con sus Socios, siempre que en la realización de tales operaciones se sujeten a las disposiciones aplicables en dicha materia, así como que una de las partes, ya sea el ordenante o el beneficiario, sea Socio de la respectiva Sociedad Cooperativa de Ahorro y Préstamo.
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 IV. Recibir créditos de entidades financieras nacionales o extranjeras, organismos internacionales, así como instituciones integrantes de la Administración Pública y Federal o Estatal y fideicomisos públicos.
 
@@ -336,7 +342,9 @@ Los depósitos a que se refiere este inciso, no otorgaran a los menores el cará
 
 Los depósitos constituidos por menores de edad en al amparo de lo previsto en este inciso estarán cubiertos por el Fondo de Protección, acorde con lo dispuesto en el segundo párrafo del Artículo 54 de la presente Ley.
 
-b) Recibir préstamos y créditos de instituciones de crédito y demás instituciones financieras nacionales o extranjeras, fideicomisos públicos y organismos internacionales, así como de sus proveedores nacionales y extranjeros.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+b) Recibir préstamos y créditos de entidades financieras nacionales o extranjeras, organismos internacionales, instituciones integrantes de la Administración Pública Federal o Estatal, fideicomisos públicos, así como de sus proveedores nacionales y extranjeros.
 
 c) Expedir y operar tarjetas de débito y tarjetas recargables.
 
@@ -362,11 +370,17 @@ m) Fungir como receptor de pago de servicios por cuenta de terceros, siempre que
 
 n) Realizar la compra venta de divisas en ventanilla por cuenta propia.
 
-o) Distribuir entre sus Socios, seguros que se formalicen a través de contratos de adhesión, por cuenta de alguna institución de seguros o Sociedad mutualista de seguros, debidamente autorizada de conformidad con la Ley General de Instituciones y Sociedades Mutualistas de Seguros y sujetándose a lo establecido en el Artículo 41 de la referida Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-p) Distribuir entre sus Socios fianzas, en términos de las disposiciones aplicables a dichas operaciones.
+o) Distribuir seguros que se formalicen a través de contratos de adhesión, por cuenta de alguna institución de seguros o Sociedad mutualista de seguros, debidamente autorizada de conformidad con la Ley General de Instituciones y Sociedades Mutualistas de Seguros y sujetándose a lo establecido en el Artículo 41 de la referida Ley.
 
-q) Llevar a cabo la distribución y pago de productos, servicios y programas, todos ellos gubernamentales a favor de sus socios.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+p) Distribuir fianzas, en términos de las disposiciones aplicables a dichas operaciones.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+q) Llevar a cabo la distribución y pago de productos, servicios y programas gubernamentales.
 
 r) Celebrar como arrendatarias, contratos de arrendamiento financiero sobre equipos de cómputo, transporte y demás que sean necesarios para el cumplimiento de su objeto social, y adquirir los bienes que sean objeto de tales contratos.
 
@@ -421,6 +435,86 @@ Las Sociedades Cooperativas de Ahorro y Préstamo únicamente podrán recibir de
 Las Sociedades Cooperativas de Ahorro y Préstamo tendrán prohibido recibir en garantía de los préstamos que otorguen a sus Socios, certificados de aportación representativos de su capital social.
 
 En ningún caso las Sociedades Cooperativas de Ahorro y Préstamo podrán autorizar a sus Socios la expedición de cheques a su cargo, en los términos que dispone el Título Primero Capítulo IV de la Ley General de Títulos y Operaciones de Crédito. Asimismo, a las Sociedades Cooperativas de Ahorro y Préstamo solo les estará permitido realizar aquellas operaciones que les estén expresamente autorizadas.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 19 Bis.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación del I al IV podrán contratar con terceros incluyendo a otras Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación del I al IV o entidades financieras, la prestación de los servicios necesarios para su operación, así como comisiones para realizar las operaciones a que se refiere el artículo 19 de esta Ley, de conformidad con las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores, previo acuerdo de su Junta de Gobierno.
+
+Las operaciones que lleven a cabo los comisionistas deberán realizarse a nombre y por cuenta de las Sociedades Cooperativas de Ahorro y Préstamo con las que celebren los actos jurídicos mencionados en el primer párrafo de este artículo. Asimismo, los instrumentos jurídicos que documenten las comisiones deberán prever que las Sociedades Cooperativas de Ahorro y Préstamo responderán por las operaciones que los comisionistas celebren por cuenta de dichas Sociedades, aun cuando estas se lleven a cabo en términos distintos a los previstos en tales instrumentos jurídicos. Las disposiciones de carácter general a que se refiere el primer párrafo de este artículo, deberán contener, entre otros, los siguientes elementos:
+
+I. Los lineamientos técnicos y operativos que deberán observarse para la realización de tales operaciones, así como para salvaguardar la confidencialidad de la información de los usuarios de las Sociedades Cooperativas de Ahorro y Préstamo y proveer que en la celebración de dichas operaciones se cumplan las disposiciones aplicables;
+
+II. Las características de las personas físicas o morales que podrán ser contratadas por las Sociedades Cooperativas de Ahorro y Préstamo como terceros en términos del presente artículo. Tratándose de entidades de la Administración Pública Federal o Estatal, las disposiciones de carácter general solo podrán incluir aquellas facultadas expresamente por su ley o reglamento para prestar los servicios o comisiones de que se trate;
+
+III. Los requisitos respecto de los procesos operativos y de control que las Sociedades deberán exigir a los terceros contratados;
+
+Para tales efectos, las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación del I al IV, podrán recibir depósitos de dinero de sus comisionistas, así como otorgar préstamos o créditos a dichos terceros, únicamente con el propósito de realizar las operaciones objeto de la comisión de que se trate.
+
+IV. El tipo de operaciones que podrán realizarse a través de terceros, quedando facultada la Comisión para señalar el tipo de operaciones en los que se requerirá de su autorización previa;
+
+V. Los contratos de prestación de servicios o comisiones que las Sociedades están obligadas a entregar a la Comisión, así como la forma, condiciones y plazos de dicha entrega;
+
+VI. Los límites aplicables a las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia Sociedad Cooperativa de Ahorro y Préstamo, observando en todo caso, respecto de las operaciones previstas en el inciso a) de la fracción I del artículo 19 de esta Ley, lo siguiente:
+
+a) Individuales, por tipo de operación y socio, los cuales no excederán por comisionista de un monto diario equivalente en moneda nacional a 1,500 UDIS, por cada tipo de inversión y cuenta, tratándose de retiros en efectivo, así como del equivalente en moneda nacional a 4,000 UDIS respecto de depósitos en efectivo, y
+
+b) Agregados, que no excederán por comisionista de un monto mensual equivalente al cincuenta por ciento del importe total de las operaciones realizadas en el período por la Sociedad de que se trate.
+
+El límite a que se refiere este inciso, será de sesenta y cinco por ciento, durante los primeros dieciocho meses de operación con el comisionista. Para efectos de lo anterior se entenderá como un sólo comisionista a un Grupo empresarial.
+
+Para efectos del párrafo anterior se entenderá como Grupo empresarial el conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el control de dichas personas morales. Asimismo, se considerarán como Grupo empresarial a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras.
+
+La celebración de las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia Sociedad Cooperativa de Ahorro y Préstamo a que se refiere el inciso a) de la fracción I del artículo 19 de esta Ley serán sujetas de la autorización a que se refiere la fracción IV de este artículo.
+
+Los límites a que se refiere la presente fracción no serán aplicables cuando:
+
+i) El tercero sea una entidad de la Administración Pública Federal, Estatal o Municipal;
+
+ii) Los terceros con los que se contrate sean instituciones de crédito, casas de bolsa, Sociedades Financieras Populares o Sociedades Cooperativas de Ahorro y Préstamo, en este último caso con excepción de aquellas que cuenten con nivel de operaciones básico.
+
+VII. Las políticas y procedimientos con que deberán contar las Sociedades Cooperativas de Ahorro y Préstamo para vigilar el desempeño de los terceros que sean contratados, así como el cumplimiento de sus obligaciones contractuales, entre las cuales deberá preverse la obligación de dichos terceros de proporcionar a la Comisión Nacional Bancaria y de Valores, y a los auditores externos de las Sociedades, a solicitud de estas, los registros, la información y el apoyo técnico relativos a los servicios prestados a la Sociedad Cooperativa de Ahorro y Préstamo;
+
+VIII. Las operaciones y servicios que las Sociedades Cooperativas de Ahorro y Préstamo no podrán pactar que los terceros les proporcionen en forma exclusiva, y
+
+IX. Las características del padrón que deberán constituir las Sociedades Cooperativas de Ahorro y Préstamo respecto de los prestadores de servicios o comisionistas que contraten, mismo que deberá estar a disposición de la Comisión Nacional Bancaria y de Valores para su consulta.
+
+Lo dispuesto en el artículo 69 de esta Ley le será también aplicable a los terceros a que se refiere el presente artículo, así como a los representantes, directivos y empleados de dichos terceros, aun cuando dejen de laborar o prestar sus servicios a tales terceros.
+
+La Comisión Nacional Bancaria y de Valores, previo derecho de audiencia que se otorgue a la Sociedad Cooperativa de Ahorro y Préstamo, podrá ordenar la suspensión parcial o total, temporal o definitiva, de la prestación de los servicios o comisiones a través del tercero de que se trate, cuando se incumplan las disposiciones que se mencionan en este artículo o pueda verse afectada la continuidad operativa de la Sociedad Cooperativa de Ahorro y Préstamo o en protección de los intereses del público. Lo anterior, salvo que la propia Comisión apruebe un programa de regularización que reúna los requisitos que al efecto se establezcan en las disposiciones de carácter general referidas en este artículo.
+
+La Comisión Nacional Bancaria y de Valores formulará directamente a las Sociedades Cooperativas de Ahorro y Préstamo y a los prestadores de servicios o comisionistas a que se refiere este artículo, por conducto de dichas Sociedades, los requerimientos de información, incluyendo libros, registros y documentos, así como, en su caso, las observaciones y medidas correctivas que deriven de la supervisión que realice con motivo de las actividades que dichas Sociedades lleven a cabo a través de prestadores de servicios o comisionistas conforme a lo previsto en el presente artículo, para asegurar la continuidad de los servicios que las Sociedades proporcionan a sus socios, la integridad de la información y el apego a lo establecido en esta Ley.
+
+Asimismo, la Comisión estará facultada, en todo momento, para efectuar actos de supervisión, inspección y vigilancia respecto de los prestadores de servicios o comisionistas que las Sociedades contraten en términos de este artículo, así como practicar inspecciones a los terceros que contraten las Sociedades Cooperativas de Ahorro y Préstamo con respecto de las actividades contratadas, o bien, ordenar a las Sociedades realizar auditorías a dichos terceros, quedando obligada la propia Sociedad a rendir un informe a la Comisión al respecto. Las facultades de supervisión, inspección y vigilancia a que se refiere el presente párrafo respecto de los prestadores de servicios o comisionistas, también podrán ser ejercidas de manera auxiliar por el Comité de Supervisión Auxiliar a que se refiere esta Ley.
+
+La Comisión deberá especificar el objeto de las inspecciones o auditorías, las cuales deberán circunscribirse a la materia del servicio contratado y al cumplimiento de lo previsto en esta Ley y las disposiciones que de ella emanen. Al efecto, las Sociedades deberán pactar en los contratos mediante los cuales se formalice la prestación de estos servicios o comisiones, la estipulación expresa del tercero contratado de que acepta apegarse a lo establecido en el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 19 Bis 1.
+
+La contratación de los servicios o comisiones a que se refiere el artículo 19 Bis de esta Ley no eximirá a las Sociedades Cooperativas de Ahorro y Préstamo, ni a sus directivos, delegados fiduciarios, empleados y demás personas que ocupen un empleo, cargo o comisión en la Sociedad, de la obligación de observar lo establecido en el presente ordenamiento legal y en las disposiciones de carácter general que emanen de éste.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 19 Bis 2.
+
+Cuando alguna persona auxilie a socios de Sociedades Cooperativas de Ahorro y Préstamo en la realización de operaciones propias de estas últimas, en ningún momento podrá:
+
+I. Llevar a cabo tales operaciones por cuenta propia;
+
+II. Determinar los plazos o tasas de las operaciones en las que intervenga;
+
+III. Obtener diferenciales de precios o de tasas por las operaciones en las que intervenga, o
+
+IV. En general, llevar a cabo actividades que requieran de autorización por parte del Gobierno Federal para operar con el carácter de entidad financiera de cualquier tipo.
+
+Las operaciones invariablemente deberán quedar documentadas a nombre del socio respectivo.
+
+Las personas que ofrezcan auxilio a socios de las Sociedades Cooperativas de Ahorro y Préstamo al amparo de un mandato o comisión en términos del presente artículo deberán informar al socio, al momento de proporcionarle el servicio, que no están autorizadas por el Gobierno Federal ni por las propias Sociedades Cooperativas de Ahorro y Préstamo para asumir obligaciones a nombre y por cuenta de estas últimas y que no se encuentran supervisadas ni reguladas por las autoridades financieras, lo cual deberá constar en su publicidad o propaganda y en el contrato o en cualquier otro documento en que conste la encomienda respectiva.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo que establezcan relaciones o vínculos de negocio, de hecho o de derecho, con algún tercero para la recepción masiva de recursos en efectivo, que impliquen la captación de recursos de los socios de Sociedades Cooperativas de Ahorro y Préstamo o pago de créditos a favor de estas últimas, deberán celebrar con dichos terceros, un contrato de comisión mercantil para que estos actúen en todo momento frente al público, como sus comisionistas conforme a lo señalado en el artículo 19 Bis de esta Ley.
 
 ###### Artículo 20.
 
@@ -560,6 +654,16 @@ Las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a 
 
 Las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV deberán informar a la Comisión la elección de nuevos consejeros, miembros del Consejo de Vigilancia, así como la designación del director o gerente general, integrantes del Comité de Crédito o su equivalente, dentro de los 15 días hábiles posteriores a su nombramiento.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 30 Bis.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, deberán solicitar al Comité de Supervisión Auxiliar un dictamen respecto de las modificaciones que pretendan hacer a su escritura constitutiva o a sus bases constitutivas, a efecto de verificar que dichas modificaciones se ajusten a la Ley General de Sociedades Cooperativas, a esta Ley y a las disposiciones que de ella emanen.
+
+Una vez obtenido el dictamen favorable del Comité de Supervisión Auxiliar, este deberá remitirlo a la Comisión en un plazo no mayor a cinco días hábiles contado a partir de su emisión, acompañado de la correspondiente solicitud de autorización de las modificaciones propuestas. En todo caso, la Comisión deberá resolver en un plazo no mayor a diez días hábiles y, una vez transcurrido este sin que se haga la notificación correspondiente, se entenderá que la Comisión resuelve en sentido positivo la solicitud de autorización.
+
+La escritura constitutiva o sus modificaciones, que hayan obtenido la aprobación de la Comisión, deberán inscribirse en el Registro Público de Comercio del domicilio social de la sociedad de que se trate, dentro de un término no mayor a ciento veinte días naturales contados a partir de la fecha en que haya sido autorizada, debiendo para tales efectos, exhibir el testimonio respectivo.
+
 ### Capítulo II. De la Regulación
 
 #### Sección Primera. De la regulación prudencial
@@ -597,6 +701,10 @@ En la emisión de las disposiciones a que se refieren las fracciones III, IV y V
 Asimismo, cuando para el mejor cumplimiento de las atribuciones que le confiere el presente Artículo, lo estime conveniente, dicha Comisión podrá solicitar la opinión de la Secretaría y del Banco de México.
 
 En el proceso de emisión y modificación de las disposiciones a que se refiere el presente Artículo, en términos de lo dispuesto por el Artículo 10 de la Ley Federal de Transparencia y Acceso a la Información Pública Federal, la Comisión hará públicos los anteproyectos de disposiciones de carácter general, por lo menos con 20 días hábiles de anticipación a la fecha en que se pretendan publicar, con la finalidad de hacerlos del conocimiento del sector cooperativo de ahorro y préstamo, y éste, pueda someter a la consideración, de dicha Comisión, comentarios respecto de los referidos anteproyectos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+La Comisión, mediante disposiciones de carácter general, podrá establecer excepciones respecto de los órganos con que deberán contar las sociedades en función de su tamaño y nivel de operaciones.
 
 #### Sección Segunda. De la contabilidad y auditoría externa
 
@@ -1148,9 +1256,11 @@ II. Adecuación del registro contable e información financiera de la Sociedad C
 
 III. En su caso, la presentación de informes particulares de consejeros y funcionarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 66.
 
-La Comisión previo acuerdo de su Junta de Gobierno, podrá ordenar que se proceda a la remoción de los miembros del Consejo de Administración, directores o gerentes generales, miembros del Consejo de Vigilancia, así como miembros del Comité de Crédito o su equivalente, de las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, contralor normativo, miembros de los Comités Técnico, de Supervisión Auxiliar y de Protección al Ahorro Cooperativo, del Fondo de Protección, o quienes ejerzan sus funciones en los términos de esta Ley, así como las demás personas que con sus actos puedan obligar a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, así como al Fondo de Protección, o bien acordar la suspensión de todos ellos en sus funciones, de 3 meses hasta 5 años, cuando dicha Comisión considere que tales personas no reúnan los requisitos al efecto establecidos por sus bases constitutivas, o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven.
+La Comisión previo acuerdo de su Junta de Gobierno, podrá ordenar que se proceda a la remoción de los miembros del Consejo de Administración, directores, gerentes generales, auditores externos, miembros del Consejo de Vigilancia, así como miembros del Comité de Crédito o su equivalente, de las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, contralor normativo, miembros de los Comités Técnico, de Supervisión Auxiliar y de Protección al Ahorro Cooperativo, del Fondo de Protección, o quienes ejerzan sus funciones en los términos de esta Ley, así como las demás personas que con sus actos puedan obligar a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, así como al Fondo de Protección, o bien acordar la suspensión de todos ellos en sus funciones, de 3 meses hasta 5 años, cuando dicha Comisión considere que tales personas no reúnan los requisitos al efecto establecidos por sus bases constitutivas, o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven.
 
 La propia Comisión podrá además, con acuerdo de su Junta de Gobierno, en los casos señalados en el párrafo anterior, inhabilitar a las personas citadas para desempeñar un empleo, cargo, mandato o comisión en cualquiera de las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, en el Fondo de Protección y sus comités, así como en el sistema financiero mexicano, sin perjuicio de las sanciones que conforme a este u otros ordenamientos legales fueren aplicables.
 
@@ -1166,7 +1276,9 @@ IV. La reincidencia.
 
 Para la suspensión, remoción e inhabilitación, la Comisión deberá oír previamente al interesado y al representante de la Sociedad Cooperativa de Ahorro y Préstamo o Fondo de Protección, según se trate.
 
-Asimismo, tratándose de los miembros del Consejo de Administración, directores o gerentes generales, miembros del Consejo de Vigilancia, así como miembros del Comité de Crédito o su equivalente, de las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, la Comisión procederá en términos de este Artículo a petición del Comité de Supervisión Auxiliar, siempre que dicho comité acredite que las personas antes mencionadas no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Asimismo, tratándose de los miembros del Consejo de Administración, directores, gerentes generales, auditores externos, miembros del Consejo de Vigilancia, así como miembros del Comité de Crédito o su equivalente, de las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, la Comisión procederá en términos de este artículo a petición del Comité de Supervisión Auxiliar, siempre que dicho Comité acredite que las personas antes mencionadas no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven.
 
 ###### Artículo 67.
 
@@ -1230,6 +1342,8 @@ Las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a 
 
 La Comisión emitirá disposiciones de carácter general en las que establezca los requisitos que deberán reunir las solicitudes o requerimientos de información que formulen las autoridades a que se refiere este Artículo, a efecto de que las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV requeridas estén en aptitud de identificar, localizar y aportar las noticias o información solicitadas.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 70.
 
 Las Sociedades Cooperativas de Ahorro y Préstamo, así como el Comité Técnico, el Comité de Supervisión Auxiliar y el Comité de Protección al Ahorro Cooperativo, deberán proporcionar a la Comisión toda la información que les requiera para el adecuado cumplimiento de su tarea de supervisión, mediante actos debidamente fundados y motivados.
@@ -1238,13 +1352,31 @@ Asimismo, las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Opera
 
 La Comisión podrá emitir disposiciones de carácter general que establezcan los plazos y medios para la entrega de la información que las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, así como el Fondo de Protección y sus respectivos comités deberán presentar a la Comisión.
 
-Para propiciar el mejor cumplimiento de sus funciones, la Secretaría, el Banco de México, la Comisión y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, podrán solicitar y compartir la información que obtengan conforme al párrafo anterior, sin que les resulte oponible las restricciones previstas en el Artículo 69 de esta Ley. Asimismo, dichas dependencias y el Banco de México podrán proporcionar a la Comisión Nacional de Seguros y Fianzas y a la Comisión Nacional del Sistema de Ahorro para el Retiro, la asistencia que les soliciten en ejercicio de sus funciones, para lo cual podrán compartir con ellas información y documentación que obre en su poder, sin que resulte aplicable lo previsto en el Artículo 69 de esta Ley. A su vez, la Comisión, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Banco de México podrán solicitar a dichas instituciones supervisoras la asistencia citada y éstas podrán entregar la información y documentación requerida, respecto de las Sociedades Cooperativas de Ahorro y Préstamo, así como el Comité Técnico, el Comité de Supervisión Auxiliar y el Comité de Protección al Ahorro Cooperativo, sin que ello implique la violación a la confidencialidad que deban observar conforme a las disposiciones legales aplicables.
+Con el objeto de preservar la estabilidad financiera, evitar interrupciones o alteraciones en el funcionamiento del sistema financiero, así como para facilitar el adecuado cumplimiento de sus funciones, la Secretaría, la Comisión, el Banco de México y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros deberán, a petición de parte interesada y en términos de los convenios a que se refiere el sexto párrafo de este artículo, intercambiar entre sí la información que tengan en su poder por haberla obtenido:
 
-La información a que se refiere este Artículo sólo podrá solicitarse y proporcionarse en ejercicio de las atribuciones conferidas conforme a las disposiciones aplicables.
+I. En el ejercicio de sus facultades;
 
-La Comisión estará facultada para proporcionar a las autoridades financieras del exterior toda clase de información necesaria para atender los requerimientos que le formulen en el ámbito de su competencia, tales como documentos, constancias, registros, declaraciones y demás evidencias que la Comisión tenga en su poder, o que pueda obtener en ejercicio de sus facultades o actuando en coordinación con otras entidades, personas o autoridades.
+II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
 
-Tratándose de intercambios de información protegida por disposiciones de confidencialidad, se deberá tener suscrito un acuerdo de intercambio de información con las autoridades financieras de que se trate, en el que se contemple el principio de reciprocidad. La Comisión podrá abstenerse de proporcionar la información solicitada o requerir la devolución de la información que haya entregado, cuando el uso que se le pretenda dar a la misma sea distinto a aquél para el cual haya sido solicitada, sea contrario al orden público, a la seguridad nacional o a los términos convenidos en el acuerdo de intercambio de información respectivo.
+III. Directamente de otras autoridades.
+
+A la facultad mencionada en el párrafo anterior, no le serán oponibles las restricciones relativas a la información reservada o confidencial en términos de las disposiciones legales aplicables. Quien reciba la información a que se refiere este artículo será responsable administrativa y penalmente, en términos de la legislación aplicable, por la difusión a terceros de información confidencial o reservada.
+
+Para efectos de lo dispuesto en el presente artículo, las autoridades señaladas deberán celebrar convenios de intercambio de información en los que especifiquen la información objeto de intercambio y determinen los términos y condiciones a los que deberán sujetarse para ello. Asimismo, dichos convenios deberán definir el grado de confidencialidad o reserva de la información, así como las instancias de control respectivas a las que se informarán los casos en que se niegue la entrega de información o su entrega se haga fuera de los plazos establecidos.
+
+La Secretaría, la Comisión, el Banco de México y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de su competencia, estarán facultados para proporcionar a las autoridades financieras del exterior toda clase de información que estimen procedente para atender los requerimientos que les formulen, tales como documentos, constancias, registros, declaraciones y demás evidencias que tales autoridades tengan en su poder por haberla obtenido en el ejercicio de sus facultades.
+
+Para efectos de lo previsto en el párrafo anterior, las autoridades deberán tener suscrito un acuerdo de intercambio de información con las autoridades financieras del exterior de que se trate, en el que se contemple el principio de reciprocidad.
+
+La Comisión Nacional Bancaria y de Valores estará facultada para entregar a las autoridades financieras del exterior la información protegida por disposiciones de confidencialidad que obre en su poder por haberla obtenido en el ejercicio de sus facultades, actuando en coordinación con otras entidades, personas o autoridades o bien directamente de otras autoridades.
+
+El Banco de México estará facultado para entregar a las autoridades financieras del exterior la información protegida por disposiciones de confidencialidad que obre en su poder por haberla obtenido directamente en el ejercicio de sus facultades. Asimismo, el Banco de México estará facultado para entregar a las autoridades financieras del exterior información protegida o no por disposiciones de confidencialidad que obtenga de otras autoridades del país, únicamente en los casos en los que lo tenga expresamente autorizado en el convenio de intercambio de información por virtud del cual hubiere recibido dicha información.
+
+En todo caso, la Comisión y el Banco de México podrán abstenerse de proporcionar la información a que se refieren los dos párrafos anteriores, cuando el uso que se le pretenda dar a la misma sea distinto a aquel para el cual haya sido solicitada, sea contrario al orden público, a la seguridad nacional o a los términos convenidos en el acuerdo de intercambio de información respectivo.
+
+La Secretaría, la Comisión, el Banco de México y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros deberán establecer mecanismos de coordinación para efectos de la entrega de la información a que se refiere este artículo a las autoridades financieras del exterior.
+
+La entrega de información que se efectúe en términos del presente artículo no implicará transgresión alguna a las obligaciones de reserva, confidencialidad, secrecía o análogas que se deban observar conforme a las disposiciones legales aplicables.
 
 ###### Artículo 71.
 
@@ -1258,7 +1390,9 @@ a) Los actos, operaciones y servicios que realicen con sus Socios, relativos a l
 
 b) Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este Artículo o que, en su caso pudiese contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del Consejo de Administración, administrador, directivo, funcionario, empleado o apoderado.
 
-Los reportes a que se refiere la fracción II de este Artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este Artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información. Los reportes deberán referirse cuando menos a operaciones que se definan por las disposiciones de carácter general como relevantes, internas preocupantes e inusuales.
 
 ###### Artículo 72.
 
@@ -1272,17 +1406,47 @@ III. La forma en que las mismas Sociedades Cooperativas de Ahorro y Préstamo de
 
 IV. Los términos para proporcionar capacitación al interior de las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV sobre la materia objeto de este Artículo. Las disposiciones de carácter general a que se refiere el 71 anterior, asimismo, señalarán los términos para su debido cumplimiento.
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+V. El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las propias disposiciones de carácter general a que se refiere el artículo 71 de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+VI. El establecimiento de aquellas estructuras internas que deban funcionar como áreas de cumplimiento en la materia, al interior de cada Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación I a IV.
+
 Las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV deberán conservar, por al menos 10 años, la información y documentación a que se refiere la fracción III anterior, sin perjuicio de lo establecido en este u otros ordenamientos aplicables.
 
 La Secretaría estará facultada para requerir y recabar, por conducto de la Comisión, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II del Artículo 71 anterior. Las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV estarán obligadas a proporcionar dicha información y documentación.
 
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV deberán suspender de forma inmediata la realización de actos, operaciones o servicios con los Socios que la Secretaría de Hacienda y Crédito Público les informe mediante una lista de personas bloqueadas que tendrá el carácter de confidencial. La lista de personas bloqueadas tendrá la finalidad de prevenir y detectar actos, omisiones u operaciones que pudieran ubicarse en los supuestos previstos en los artículos referidos en la fracción I del artículo 71 de esta Ley.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+La obligación de suspensión a que se refiere el párrafo anterior dejará de surtir sus efectos cuando la Secretaria de Hacienda y Crédito Público elimine de la lista de personas bloqueadas al Socio en cuestión.
+
+(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+
+La Secretaría de Hacienda y Crédito Público establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS AL DECRETO DE FECHA 10 DE OCTUBRE DE 2014, PASÓ A SER EL PÁRRAFO SÉPTIMO.</small>
+
 El cumplimiento de las obligaciones señaladas en este Artículo no implicará trasgresión alguna a lo establecido en el Artículo 69 de esta Ley.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS AL DECRETO DE FECHA 10 DE OCTUBRE DE 2014, PASÓ A SER EL PÁRRAFO OCTAVO.</small>
 
 Las disposiciones de carácter general y los lineamientos que de ellas deriven a que se refiere este Artículo deberán ser observadas por las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, así como por los miembros del Consejo de Administración, administradores, directivos, funcionarios, empleados y apoderados respectivos, así como por los miembros del Comité de Supervisión Auxiliar, por lo cual, tanto Sociedades Cooperativas de Ahorro y Préstamo, como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
 
-La violación a las disposiciones a que se refiere este Artículo será sancionada por la Comisión conforme al procedimiento previsto en el Artículo 99 de la presente Ley, con multa equivalente del 10 por ciento al 100 por ciento de la operación inusual para el supuesto de que esta haya sido determinada y no haya sido reportada, y en los demás casos con multa de 200 y hasta 100,000 días de salario mínimo general vigente en el Distrito Federal.
+(REFORMADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS AL DECRETO DE FECHA 10 DE OCTUBRE DE 2014, PASÓ A SER EL PÁRRAFO NOVENO.
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 99 de la presente Ley, con multa equivalente del 10 por ciento al 100 por ciento del monto del acto, operación o servicio que se realice con un Socio que se haya informado que se encuentra en la lista de personas bloqueadas a que se refiere este artículo; con multa equivalente del 10% al 100% del monto de la operación inusual no reportada o, en su caso, de la serie de operaciones relacionadas entre sí del mismo Socio, que debieron haber sido reportadas como operaciones inusuales; tratándose de operaciones relevantes, internas preocupantes no reportadas, así como los incumplimientos a cualquiera de las fracciones I, II, III o V de este artículo, se sancionará con multa de 10,000 a 100,000 días de salario mínimo general vigente en el Distrito Federal y en los demás casos de incumplimiento a al artículo 71 de esta Ley o a este precepto y a las disposiciones que de él emanen, se sancionará con multa de 1,000 a 30,000 días de salario mínimo general vigente en el Distrito Federal.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS AL DECRETO DE FECHA 10 DE OCTUBRE DE 2014, PASÓ A SER EL PÁRRAFO DÉCIMO.</small>
 
 Las mencionadas multas podrán ser impuestas, a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, como a los miembros del Consejo de Administración, administradores, miembros del Comité de Supervisión Auxiliar, directivos, funcionarios, empleados y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas Sociedades Cooperativas de Ahorro y Préstamo incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el Artículo 94 de esta Ley.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS AL DECRETO DE FECHA 10 DE OCTUBRE DE 2014, PASÓ A SER EL PÁRRAFO DÉCIMO PRIMERO.</small>
 
 Los servidores públicos de la Secretaría y de la Comisión, las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, los miembros de sus consejos de administración, administradores, directivos, funcionarios, empleados y apoderados, así como los miembros del Comité de Supervisión Auxiliar, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este Artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las Leyes correspondientes.
 
@@ -1310,19 +1474,11 @@ No se les aplicará lo establecido en los Artículos 73 y 74 a las autoridades a
 
 ### Capítulo II. De las medidas correctivas
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 76.
 
-En el ejercicio de sus funciones de supervisión auxiliar, el Comité de Supervisión Auxiliar clasificará a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV en alguna de las 4 categorías a que se refiere el Artículo 77 de esta Ley, según su adecuación a los Niveles de Capitalización. La Comisión establecerá mediante disposiciones de carácter general los rangos de capitalización que determinarán cada una de tales categorías.
-
-Adicionalmente, la Comisión, mediante disposiciones de carácter general, establecerá las medidas correctivas mínimas y especiales adicionales que deberán cumplir las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, así como sus características y plazos para su cumplimiento de acuerdo con la categoría en que hubiesen sido clasificadas.
-
-Para la aplicación de las medidas correctivas especiales adicionales, la Comisión podrá considerar, entre otros elementos, la categoría en que la Sociedad de que se trate haya sido clasificada, su situación financiera integral, el cumplimiento al marco regulatorio, la tendencia del Nivel de Capitalización y de los principales indicadores que reflejen el grado de estabilidad y solvencia, la calidad de la información contable y financiera y el cumplimiento en la entrega de dicha información.
-
-Asimismo, el Comité de Supervisión Auxiliar deberá verificar que las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV cumplan con las medidas correctivas que les correspondan.
-
-Estas medidas tendrán por objeto prevenir y, en su caso, normalizar oportunamente las anomalías financieras o de cualquier otra índole, que las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV presenten, derivadas de las operaciones que realicen y que puedan afectar su estabilidad o solvencia, o pongan en riesgo los intereses de los Socios ahorradores.
-
-La adopción de cualquiera de las medidas correctivas que imponga la Comisión con base en este precepto y en el Artículo 77 siguiente, así como en las disposiciones que deriven de ellos y, en su caso, las sanciones o procedimientos de revocación que deriven de su incumplimiento, se considerarán de orden público e interés social, por lo que no procederá en su contra suspensión alguna, todo ello en protección de los intereses de los Socios ahorradores.
+La Comisión clasificará a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV en alguna de las 4 categorías a que se refiere el artículo 77 de esta Ley, según su adecuación a los Niveles de Capitalización, la cual establecerá mediante disposiciones de carácter general los rangos de capitalización que determinarán cada una de tales categorías.
 
 ###### Artículo 77.
 
@@ -1596,7 +1752,9 @@ b) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación
 
 IV. Multa de 2,000 a 10,000 días de salarios:
 
-a) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que den noticias o información de los depósitos, servicios o cualquier tipo de operaciones en contravención a lo dispuesto por el Artículo 69 de esta Ley.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+a) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que den noticias o información de los depósitos, servicios o cualquier tipo de operaciones en contravención a lo dispuesto por el artículo 69 de esta Ley, así como las disposiciones que emanen de este.
 
 b) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que no den cumplimiento a las acciones preventivas y correctivas ordenadas por la Comisión, en el ejercicio de sus atribuciones en materia de inspección y vigilancia, excepto aquéllas previstas en el inciso b) de la fracción V de este Artículo.
 
@@ -1614,9 +1772,17 @@ b) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación
 
 VI. Se sancionará con multa de 1,000 a 5,000 días de salario a los notarios, registradores, o corredores públicos que tramiten o inscriban actos que incluyan operaciones prohibidas por esta Ley, o bien autoricen la celebración de operaciones reguladas por esta Ley a personas distintas a las Cooperativas de Ahorro y Préstamo. La misma multa se impondrá cuando las personas mencionadas con anterioridad, actúen sin que medie la autorización de la Comisión para los casos en que ésta sea necesaria.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+En caso de que alguna de las infracciones contenidas en este artículo generen un daño patrimonial o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 94.
 
-La Comisión podrá abstenerse de sancionar a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, siempre y cuando se trate de las conductas infractoras señaladas en las fracciones I y II del Artículo 93 anterior y, además, justifique la causa de tal abstención y se refieran a hechos, actos u omisiones que no revistan gravedad ni constituyan delito o pongan en peligro los intereses de terceros o del propio sistema.
+La Comisión podrá abstenerse de sancionar a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, siempre y cuando se justifique la causa de tal abstención de acuerdo con los lineamientos que para tales efectos emita la Junta de Gobierno de la propia Comisión, y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia, no se cuente con elementos que permitan demostrar que se afecten los intereses de terceros o del propio sistema financiero y no constituyan delito.
+
+Se considerarán infracciones graves la violación a lo previsto por los artículos 26; 31, fracción III y IV cuando se produzca un daño, perjuicio o quebranto a la Sociedad por la operación de crédito objeto del incumplimiento a las disposiciones a que hace referencia dicho precepto; 31, fracción VI, cuando se incumplan los requerimientos de capital y con ello se actualice el régimen previsto en la fracción III del artículo 77 de esta Ley; 32, cuando se trate de omisiones o alteraciones de registros contables; 40, cuando se produzca un daño, perjuicio o quebranto a la sociedad; 69; 70, primer y segundo párrafos; 71, fracciones I por lo que hace a la falta de presentación a la Comisión Nacional Bancaria y de Valores, del documento de políticas de identificación y conocimiento del socio y II, primer párrafo, inciso a) por operaciones no reportadas; 72, fracciones V y VI; 76 y 77 de esta Ley. En todo caso, se considerará grave cuando se proporcione a la Comisión información falsa o que dolosamente induzca al error, por ocultamiento u omisión.
 
 ###### Artículo 95.
 
@@ -1630,11 +1796,15 @@ II. A las personas morales y establecimientos distintos a las reguladas por la p
 
 La infracción a cualquier otro precepto de esta Ley o de las disposiciones que de ella deriven, distinta de las señaladas expresamente en algún otro Artículo de esta Ley y que no tenga sanción especialmente señalada en este ordenamiento será sancionada con multa de 1,000 a 5,000 días de salario, o del 0.1 por ciento hasta el 1 por ciento de su capital mínimo pagado y reservas de capital, dependiendo de la naturaleza de la infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 97.
 
-En los procedimientos administrativos de imposición de sanciones previstos en esta Ley se admitirán toda clase de pruebas. En el caso de la confesional a cargo de autoridades, esta deberá ser desahogada por escrito.
+En los procedimientos administrativos previstos en esta Ley se admitirán las pruebas conducentes con los actos sujetos al procedimiento siempre y cuando las mismas sean ofrecidas en el plazo del desahogo de la garantía de audiencia. En el caso de la confesional a cargo de autoridades, esta deberá ser desahogada por escrito.
 
-Una vez desahogado el derecho de audiencia a que se refiere el Artículo 99 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Una vez desahogado el derecho de audiencia a que se refiere el artículo 99 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, previsto en el artículo 106, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
 
 La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Solo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Federal de Procedimientos Civiles.
 
@@ -1654,23 +1824,45 @@ En caso de que el infractor pague las multas impuestas por la mencionada Comisi�
 
 La Comisión, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetará a lo siguiente:
 
-I. Otorgará audiencia al infractor, quien, en un plazo de 10 días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión Nacional Bancaria y de Valores, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-II. En caso de que el infractor no hiciere uso del derecho de audiencia dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente.
+I. Otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique;
 
-III. En la imposición de sanciones se tomará en cuenta, en su caso, lo siguiente:
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
-a) La afectación a terceros o al sistema financiero mexicano.
+II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior, dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+III. Para la imposición de la sanción se tomará en cuenta, en su caso, lo siguiente:
+
+a) El impacto a terceros o al sistema financiero que haya producido o pueda producir la infracción;
 
 b) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquella, cometa la misma infracción, dentro de los 2 años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.
 
-c) La cuantía de la operación.
+La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente;
 
-d) La intención de realizar la conducta.
+c) La cuantía de la operación;
 
-e) La relevancia de la infracción en la Sociedad Cooperativa de que se trate y en su caso, el Nivel de Operación asignado.
+d) La condición económica del infractor a efecto de que la sanción no sea excesiva, y
 
-f) La situación económica, el nivel cultural y de educación, así como la ubicación y condiciones geográficas del infractor.
+e) La naturaleza de la infracción cometida.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
+IV. Tratándose de conductas calificadas por esta Ley como graves, en adición a lo establecido en la fracción III de este artículo, podrá tomar en cuenta cualquiera de los aspectos siguientes:
+
+a) El monto del quebranto o perjuicio patrimonial causado;
+
+b) El lucro obtenido;
+
+c) La falta de honorabilidad por parte del infractor, conforme a lo dispuesto por esta Ley y las disposiciones de carácter general que de ella emanen;
+
+d) La negligencia inexcusable o dolo con que se hubiere actuado;
+
+e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, o
+
+f) Las demás circunstancias que la Comisión estime aplicables para tales efectos.
 
 En todo caso, la resolución que emita la Comisión deberá estar debidamente fundada y motivada.
 
@@ -1678,29 +1870,45 @@ En todo caso, la resolución que emita la Comisión deberá estar debidamente fu
 
 Las sanciones serán impuestas por la Junta de Gobierno de la Comisión, la que podrá delegar esa facultad, en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a los demás servidores públicos de esa Comisión.
 
-> <small>(F. DE E., D.O.F. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 101.
 
-La Comisión podrá, atendiendo a las circunstancias de cada caso, imponer la multa que corresponda al infractor en los supuestos señalados en las fracciones I y II del Artículo 95 de esta Ley, o bien, solamente amonestarlo.
+La Comisión podrá atendiendo a las circunstancias de cada caso, además de la imposición de la sanción que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes personales, la gravedad de la conducta, que no se cuente con elementos que permitan demostrar que se afecten intereses de terceros o del propio sistema financiero, que habiéndose causado un daño este haya sido reparado así como la existencia de atenuantes.
 
 ###### Artículo 102.
 
 Las multas a que se refiere el presente capítulo podrán ser impuestas a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, así como a los miembros del Consejo de Administración, directores o gerentes generales, directivos, funcionarios, empleados o personas que ostenten un cargo, mandato, comisión o cualquier otro título jurídico que las citadas sociedades otorguen a terceros para la realización de sus operaciones, que hayan incurrido directamente en la falta o hayan ordenado la realización de la conducta materia de la infracción. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el Artículo 66 de esta Ley.
 
-Las multas impuestas por la Comisión a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV se harán efectivas por la Secretaría.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Las multas impuestas por la Comisión a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV se harán efectivas por la Secretaría, una vez que hayan quedado firmes.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### Artículo 103.
 
-La Comisión considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor, de manera espontánea y previo al inicio del procedimiento de imposición de sanción a que se refiere la presente Ley, informe por escrito de la violación en que hubiere incurrido a la citada Comisión y corrija las omisiones o contravenciones a las normas aplicables en que hubiere incurrido o, en su caso, presente ante la misma Comisión un programa de corrección que tenga por objeto evitar que las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, se ubique de nueva cuenta en la conducta infractora. Asimismo, se considerará como atenuante la acreditación que el presunto infractor haga ante la Comisión de haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
+La Comisión considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor acredite ante la Comisión haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
 
 ###### Artículo 104.
 
 Los procedimientos para la imposición de las sanciones administrativas a que se refiere esta Ley se iniciarán con independencia de la opinión de delito que, en su caso, emita la Comisión en términos del Artículo 109 del presente ordenamiento legal.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 105.
 
-En ejercicio de sus facultades sancionadoras, la Comisión ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su página electrónica en la red mundial “Internet”, las sanciones que al efecto imponga por infracciones a esta Ley, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, para lo cual deberá señalar exclusivamente la denominación o razón social del infractor, el precepto infringido y la sanción.
+Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, la Comisión ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, para lo cual deberá señalar:
+
+I. El nombre, denominación o razón social del infractor;
+
+II. El precepto infringido, el tipo de sanción impuesta, monto o plazo, según corresponda y la conducta infractora, y
+
+III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
+
+En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad competente, deberá igualmente publicarse tal circunstancia.
+
+La información antes señalada no será considerada como reservada o confidencial.
 
 ###### Artículo 106.
 
@@ -1758,9 +1966,57 @@ La resolución de los recursos de revisión deberá ser emitida en un plazo que 
 
 La Comisión deberá prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve.
 
-### Capítulo II. De los delitos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 10 DE ENERO DE 2014)</small>
 
-### Capítulo III. De las Notificaciones
+### Capítulo I Bis. De los programas de autocorrección
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 108 Bis.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, por conducto de su director o gerente general y con la opinión del Consejo de Vigilancia, podrán someter a la autorización de la Comisión un programa de autocorrección cuando la Sociedad de que se trate, en la realización de sus actividades, o el Consejo de Vigilancia como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
+
+No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
+I. Las irregularidades o incumplimientos que sean detectados por la Comisión en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación por parte de la Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación I a IV del programa de autocorrección respectivo.
+
+Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado a la Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación I a IV la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
+
+II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 108 Bis 1.
+
+Los programas de autocorrección a que se refiere el artículo 108 Bis de esta Ley, se sujetarán a las disposiciones de carácter general que emita la Comisión. Adicionalmente, deberán ser firmados por el presidente del Consejo de Vigilancia de la Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación I a IV y ser presentados al Consejo de Administración en la sesión inmediata posterior a la solicitud de autorización presentada a la Comisión. Igualmente, deberá contener las irregularidades o incumplimientos cometidos indicando al efecto las disposiciones que se hayan considerado contravenidas; las circunstancias que originaron la irregularidad o incumplimiento cometido, así como señalar las acciones adoptadas o que se pretendan adoptar por parte de la Sociedad para corregir la irregularidad o incumplimiento que motivó el programa.
+
+En caso de que la Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación I a IV requiera de un plazo para subsanar la irregularidad o incumplimiento cometido, el programa de autocorrección deberá incluir un calendario detallado de actividades a realizar para ese efecto.
+
+Si la Comisión no ordena a la Sociedad de que se trate modificaciones o correcciones al programa de autocorrección dentro de los veinte días hábiles siguientes a su presentación, el programa se tendrá por autorizado en todos sus términos.
+
+Cuando la Comisión ordene a la Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación I a IV modificaciones o correcciones con el propósito de que el programa se apegue a lo establecido en el presente artículo y demás disposiciones aplicables, la Sociedad correspondiente contará con un plazo de cinco días hábiles contados a partir de la notificación respectiva para subsanar tales deficiencias. Dicho plazo podrá prorrogarse por única ocasión hasta por cinco días hábiles adicionales, previa autorización de la Comisión.
+
+De no subsanarse las deficiencias a las que se refiere el párrafo anterior, el programa de autocorrección se tendrá por no presentado y, en consecuencia, las irregularidades o incumplimientos cometidos no podrán ser objeto de otro programa de autocorrección.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 108 Bis 2.
+
+Durante la vigencia de los programas de autocorrección que hubiere autorizado la Comisión en términos de los artículos 108 Bis y 108 Bis 1 de este ordenamiento, esta se abstendrá de imponer a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV las sanciones previstas en esta Ley, por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.
+
+El Consejo de Vigilancia estará obligado a dar seguimiento a la instrumentación del programa de autocorrección autorizado e informar de su avance tanto al Consejo de Administración y al director o gerente general como a la Comisión en la forma y términos que esta establezca en las disposiciones de carácter general a que se refiere el artículo 108 Bis 1 de esta Ley. Lo anterior, con independencia de la facultad de la Comisión para supervisar, en cualquier momento, el grado de avance y cumplimiento del programa de autocorrección.
+
+Si como resultado de los informes del Consejo de Vigilancia o de las labores de inspección y vigilancia de la Comisión, esta determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, impondrá la sanción correspondiente aumentando el monto de esta hasta en un 40 por ciento; siendo actualizable dicho monto en términos de disposiciones fiscales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 108 Bis 3.
+
+Las personas físicas y demás personas morales sujetas a la supervisión de la Comisión podrán someter a la autorización de la propia Comisión un programa de autocorrección cuando en la realización de sus actividades detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables, sujetándose a lo previsto por los artículos 108 Bis a 108 Bis 2 de esta Ley, según resulte aplicable.
+
+### Capítulo II. De los delitos
 
 ###### Artículo 109.
 
@@ -1802,7 +2058,9 @@ Considerando el monto de la operación, quebranto o perjuicio patrimonial, las s
 
 I. Las personas que con el propósito de obtener un préstamo o crédito, o de celebrar un contrato de arrendamiento financiero o de factoraje financiero proporcionen a una Sociedad, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV.
 
-Serán sancionados hasta en una mitad más de las penas previstas en este Artículo, aquellos funcionarios, empleados o comisionistas de terceros que participen en la solicitud o trámite para el otorgamiento del crédito, y conozcan la falsedad de los datos sobre los montos de los activos o pasivos de los acreditados, o que directa o indirectamente alteren o sustituyan la información mencionada, para ocultar los datos reales sobre dichos activos o pasivos.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+Serán sancionados hasta en una mitad más de las penas previstas en este artículo, aquellos funcionarios, empleados, prestadores de servicios, comisionistas o comisionistas de terceros que participen en la solicitud o trámite para el otorgamiento del crédito, y conozcan la falsedad de los datos sobre los montos de los activos o pasivos de los acreditados, o que directa o indirectamente alteren o sustituyan la información mencionada, para ocultar los datos reales sobre dichos activos o pasivos.
 
 II. Los consejeros, directivos, funcionarios, empleados o quienes intervengan directamente en la operación que, falsifiquen, alteren, simulen o a sabiendas realicen operaciones que resulten en quebranto o perjuicio al patrimonio de las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV.
 
@@ -1828,9 +2086,11 @@ V. Los Socios que tengan el carácter de deudores, que no destinen el importe de
 
 Los consejeros, directores o gerentes generales y demás directivos, funcionarios y empleados de las sociedades, o quienes intervengan directamente en la operación, que con independencia de los cargos o intereses fijados por la Sociedad respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de préstamo o crédito o de operaciones con divisas, beneficios por su participación en el trámite u otorgamiento del crédito, de los bienes objeto del arrendamiento, del contrato de factoraje o de operaciones con divisas, serán sancionados con pena de prisión de 3 meses a 3 años y con multa de 30 a 500 días de salario cuando el beneficio no sea valuable, o el monto del beneficio no exceda de 500 días de salario, en el momento de cometerse el delito; cuando el beneficio exceda de dicho monto serán sancionados con prisión de 2 a 10 años y multa de 500 a 50,000 días de salario.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 ###### Artículo 113.
 
-Los consejeros, directores o gerentes generales y demás directivos, funcionarios, empleados o Socios que inciten u ordenen a directivos o empleados de la Sociedad a la comisión de los delitos que se refieren en los Artículos 110 y 111 fracción II, serán sancionados hasta en una mitad más de las penas previstas en los Artículos respectivos.
+Los consejeros, directores o gerentes generales y demás directivos, funcionarios, empleados, socios, prestadores de servicios o comisionistas que inciten u ordenen a directivos o empleados o a quien ostente un cargo o comisión de la Sociedad a la comisión de los delitos que se refieren en los artículos 110 y 111 fracción II de esta Ley, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.
 
 ###### Artículo 114.
 
@@ -1858,6 +2118,12 @@ Se sancionará con prisión de 2 a 14 años al miembro del Consejo de Administra
 
 Igual sanción se impondrá al servidor público de la Comisión, que por sí o por interpósita persona solicite u obtenga para sí o para otro, dinero o cualquier otra cosa, para hacer o dejar de hacer algún acto relacionado con sus funciones.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 116 Bis.
+
+Las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que, para el desempeño de las actividades y operaciones que correspondan a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV, estas les hubieren otorgado, serán consideradas como funcionarios o empleados de dichas Sociedades, para efectos de las responsabilidades administrativas y penales establecidas en el presente Título.
+
 ###### Artículo 117.
 
 Los delitos previstos en esta Ley sólo admitirán comisión dolosa. La acción penal en los delitos previstos en esta Ley, perseguibles por petición de la Secretaría, por la Sociedad ofendida, o por quien tenga interés jurídico, prescribirá en 3 años contados a partir del día en que dicha Secretaría o la Sociedad o quien tenga interés jurídico tengan conocimiento del delito y del probable responsable, y si no tienen ese conocimiento, en 5 años que se computarán conforme a las reglas establecidas en el Artículo 102 del Código Penal Federal. Una vez cubierto el requisito de procedibilidad, la prescripción seguirá corriendo según las reglas del Código Penal Federal.
@@ -1873,6 +2139,16 @@ Serán sancionados con prisión de 2 a 7 años toda aquella persona que habiendo
 ###### Artículo 119.
 
 Las penas previstas en esta Ley, se reducirán en un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
+###### Artículo 119 Bis.
+
+Cuando la Comisión Nacional Bancaria y de Valores presuma que una persona física o moral está realizando operaciones en contravención a lo dispuesto por el artículo 4 de esta Ley, podrá nombrar un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está realizando las operaciones mencionadas, en cuyo caso, la Comisión Nacional Bancaria y de Valores podrá ordenar la suspensión inmediata de operaciones o proceder a la clausura de la negociación, empresa o establecimiento de la persona física o moral de que se trate.
+
+El procedimiento de inspección, suspensión de operaciones y clausura a que se refiere el párrafo anterior es de interés público. Será aplicable en lo conducente lo dispuesto en el Capítulo Primero del Título Quinto de esta Ley.
+
+### Capítulo III. De las Notificaciones
 
 ###### Artículo 120.
 
@@ -2167,3 +2443,23 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 4 DE ENERO DE 2013.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ENERO DE 2014.
+
+Disposiciones Transitorias
+
+###### ARTÍCULO OCTAVO.
+
+En relación con las modificaciones a que se refieren los Artículos Sexto y Séptimo, se estará a lo siguiente:
+
+I. Las infracciones o delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+II. Los recursos del Fondo de Obra Social que a la fecha de entrada en vigor del presente Decreto ya se hubieren comprometido para la realización de obras sociales se mantendrán destinados a dicho fin hasta su terminación. Por lo que se refiere a los recursos que se encontraren en dicho fondo y que aún no hubieren sido comprometidos, deberán transferirse al Fondo Social de Reserva previsto por el artículo 12 de la Ley de Ahorro y Crédito Popular.
+
+III. La Comisión Nacional Bancaria y de Valores diseñará medidas para evitar la operación de cajas de ahorro irregulares y en general de personas que capten irregularmente recursos, al margen de la legislación financiera aplicable, dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
