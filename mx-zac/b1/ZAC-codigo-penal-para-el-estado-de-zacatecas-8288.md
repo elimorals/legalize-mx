@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2013-07-06"
+last_updated: "2014-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -337,9 +337,9 @@ VII.- El Estado, subsidiariamente, por sus funcionarios y empleados.
 
 33.- Quien se considere con derecho al pago de la reparación del daño, que no pueda obtener del juez penal, en virtud de no ejercicio de la acción penal por parte del Ministerio Público, sobreseimiento, suspensión del procedimiento o sentencia absolutoria, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2014)</small>
 
-34.- Cuando el daño que se cause al ofendido produzca su muerte, el monto de la indemnización por reparación del daño se fijará aplicando el doble de las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido; si la víctima no percibía utilidad o salario o no pudiere determinarse éste, el monto de la indemnización se fijará tomando como base el mencionado salario mínimo.
+34.- Cuando el daño que se cause al ofendido produzca su muerte, el monto de la indemnización por reparación del daño se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido; si la víctima no percibía utilidad o salario o no pudiere determinarse éste, el monto de la indemnización se fijará tomando como base el mencionado salario mínimo.
 
 Si el daño produce incapacidad total o parcial, permanente o temporal, el monto de la indemnización se fijará de acuerdo con las tablas que para esta clase de incapacidades establece la Ley Federal del Trabajo, siendo aplicable en lo conducente lo dispuesto en el párrafo anterior.
 
@@ -1127,9 +1127,9 @@ Estas disposiciones sólo serán aplicables cuando no existan otras de la compet
 
 DELITOS CONTRA EL DESARROLLO DE LAS PERSONAS MENORES DE EDAD Y LA PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2014)</small>
 
-181.- A quien por cualquier medio, procure, induzca o facilite a una persona menor de edad o a quien no tenga la capacidad para comprender el significado del hecho, al consumo de estupefacientes, substancias psicotrópicas u otras susceptibles de producir dependencia o bebidas embriagantes, para que adquiera los hábitos de la fármaco-dependencia o el alcoholismo, o a formar parte de una asociación delictuosa o de la delincuencia organizada, se le impondrá pena de tres a ocho años de prisión y multa de doscientas a trescientas cuotas.
+181.- A quien por cualquier medio, procure, induzca o facilite a una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, al consumo de estupefacientes, substancias psicotrópicas u otras susceptibles de producir dependencia o bebidas embriagantes, para que adquiera los hábitos de la farmacodependencia o el alcoholismo, o a formar parte de una asociación delictuosa o de la delincuencia organizada será sancionado con prisión de cuatro a nueve años y de quinientas a veinte mil cuotas.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1139,9 +1139,13 @@ Cuando de la práctica reiterada del activo, el pasivo del delito adquiera los h
 
 A quien emplee, aun gratuitamente, a personas menores de dieciocho años o que no tengan la capacidad de comprender el significado del hecho, en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato o se presenten al público espectáculos sexuales, se le aplicará prisión de uno a cuatro años y multa de cien a doscientas cuotas, así como el cierre definitivo del establecimiento.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
 
-Al que obligue o induzca a una persona menor de edad o a quien no tenga la capacidad para comprender el significado del hecho, a la práctica de la mendicidad.
+Al que obligue o induzca a una persona menor de edad o a quien no tenga la capacidad para comprender el significado del hecho, a la práctica de la mendicidad, será sancionado con prisión de cuatro a nueve años y de quinientas a veinte mil cuotas.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+A quien por cualquier medio, procure o facilite a una persona menor de edad pintura en aerosoles, solventes, ácidos o cualquier otro material dañino que deje una marca permanente, en propiedades privadas, monumentos que representen patrimonio cultural del Estado de Zacatecas o cualquier otro bien del espacio público, se le impondrá una multa de cincuenta a cien cuotas.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2779,6 +2783,12 @@ V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier otro género
 
 Se exceptúa de la presente disposición, el daño causado a la salud pública, la flora, la fauna o los ecosistemas, en cuyo caso se aplicarán las sanciones establecidas en el Título Vigésimo Segundo del Libro Segundo de este Código.
 
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+349 Bis.- Al que dañe, pinte, grabe o talle, dibujos, signos, mensajes o gráficos de cualquier otro tipo, usando pinturas o cualquier otra sustancia similar, en bienes muebles o inmuebles ajenos, sin el consentimiento de quien tenga la facultad de otorgarlo, se le impondrán una multa de cincuenta a cien cuotas y las jornadas de trabajo necesarias para reparar hasta donde sea posible el daño ocasionado.
+
+Si las conductas antes previstas recaen en bienes de valor científico, histórico, cultural, edificios públicos, monumentos, equipamiento urbano o bienes de utilidad pública, la sanción antes mencionada se triplicará y deberá realizar de treinta a noventa jornadas de trabajo a favor de la comunidad.
+
 ### CAPITULO I. DELITOS CONTRA EL COMERCIO Y LA INDUSTRIA
 
 350.- Se impondrán de tres meses a seis años de prisión y multa de diez a sesenta cuotas, en los siguientes casos:
@@ -3772,3 +3782,19 @@ P.O. 6 DE JULIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que contravengan a este Decreto.
+
+P.O. 11 DE ENERO DE 2014.
+
+DECRETO NÚMERO 23, POR EL QUE SE MODIFICAN LOS PÁRRAFOS PRIMERO Y CUARTO Y SE ADICIONA UN QUINTO PÁRRAFO EN EL ARTÍCULO 181 EL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS.
+
+Primero.- Se derogan las disposiciones de otras leyes locales, que contravengan las presentes modificaciones.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 11 DE ENERO DE 2014.
+
+DECRETO NÚMERO 24, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 34 DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+(SIC) Segundo.- Se derogan las disposiciones que contravengan este Decreto.
