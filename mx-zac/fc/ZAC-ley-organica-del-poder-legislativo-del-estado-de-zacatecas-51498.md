@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2013-10-05"
+last_updated: "2014-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -173,13 +173,19 @@ El proceso de entrega-recepción del patrimonio del Poder Legislativo consta de 
 
 I. La fase de integración del paquete de entrega recepción, que consta de la siguiente documentación:
 
-a) El informe trianual que la Secretaría General remita a la Asamblea, así como la relación de asuntos pendientes de todas las comisiones;
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
 
-b) El informe trianual de la Dirección de Administración y Finanzas;
+a) Los informes anuales que la Secretaría General debe integrar y remitir a la Asamblea durante el ejercicio constitucional, así como la relación de asuntos pendientes de todas las comisiones;
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
+
+b) Los informes anuales de la Dirección de Administración y Finanzas;
 
 c) El análisis y conformación del inventario general del patrimonio de la Legislatura elaborado por la Dirección de Administración y Finanzas; y
 
-d) El dictamen de la Comisión de Vigilancia respecto del resultado de la revisión realizada por la Auditoría Superior del Estado y los auditores externos, en su caso;
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
+
+d) El dictamen de la Comisión de Vigilancia respecto del resultado de la revisión que deberá realizarse anualmente por la Auditoría Superior del Estado y los auditores externos, en su caso;
 
 II. La fase de presentación del paquete de entrega-recepción que realice la Comisión Instaladora a la Presidencia de la Mesa Directiva de la Legislatura entrante, en la sesión solemne del siete de septiembre;
 
@@ -1333,7 +1339,9 @@ I. Revisar dentro de los primeros quince días del mes de octubre de cada año, 
 
 II. Establecer los lineamientos del ejercicio, administración y control de los recursos del Poder Legislativo;
 
-III. Informar mensualmente del ejercicio del Presupuesto a la Comisión de Régimen Interno y Concertación Política y trimestralmente al Pleno;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
+III. Informar mensualmente del ejercicio del Presupuesto a la Comisión de Régimen Interno y Concertación Política, trimestral y anualmente al Pleno;
 
 IV. Supervisar permanentemente a la Dirección de Administración y Finanzas en el cumplimiento de los objetivos y metas planteados;
 
@@ -2764,3 +2772,9 @@ P.O. 5 DE OCTUBRE DE 2013.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE ENERO DE 2014.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se archive el expediente original, como asunto plenamente concluido.
