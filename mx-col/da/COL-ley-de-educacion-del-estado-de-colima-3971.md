@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2013-06-26"
+last_updated: "2014-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -137,13 +137,17 @@ XVII.- Promover el valor de la justicia, de la observancia de la ley y de la igu
 
 XVIII.- Promoverá y fomentará la competitividad de los educandos, entendida ésta como la capacidad del estado para sostener y expandir su participación en la población y combatir el desempleo;
 
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
+
+XIX.- Garantizar la seguridad y convivencia escolar, mediante acciones que prevengan, atiendan y eliminen la violencia y discriminación escolar;
+
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-XIX.- Realizará acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo; y
+XX.- Realizará acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo; y
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2012)</small>
 
-XX.- Promoverá y fomentará en los educandos una cultura de protección, conservación, cuidado y valorización del patrimonio cultural del Estado y de la Nación.
+XXI.- Promoverá y fomentará en los educandos una cultura de protección, conservación, cuidado y valorización del patrimonio cultural del Estado y de la Nación.
 
 Siendo los fines primordiales del proceso educativo la instrucción y la formación del educando, para que éste logre el desarrollo armónico de su personalidad, debe asegurársele la participación activa que le corresponde en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social y su espíritu creador.
 
@@ -281,7 +285,7 @@ XXV.- Proporcionar al educador los medios que le permitan realizar eficazmente s
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE OCTUBRE DE 2011)</small>
 
-XXVI. Otorgar un salario profesional a los educadores para que alcancen un nivel de vida decoroso para ellos y su familia, puedan arraigarse en las comunidades en las que trabajen y disfrutar de vivienda digna, así como para que dispongan del tiempo necesario para la preparación de las clases que impartan, para su perfeccionamiento profesional, debiendo establecer mecanismos que propicien la permanencia de los maestros frente al grupo, con la posibilidad de ir obteniendo mejores condiciones y mayor reconocimiento social;
+XXVI.- Otorgar un salario profesional a los educadores para que alcancen un nivel de vida decoroso para ellos y su familia, puedan arraigarse en las comunidades en las que trabajen y disfrutar de vivienda digna, así como para que dispongan del tiempo necesario para la preparación de las clases que impartan, para su perfeccionamiento profesional, debiendo establecer mecanismos que propicien la permanencia de los maestros frente al grupo, con la posibilidad de ir obteniendo mejores condiciones y mayor reconocimiento social;
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
 
@@ -289,19 +293,29 @@ XXVII.- Promover conjuntamente con la Secretaría de Salud, programas y acciones
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-XXVIII. De la misma forma, establecer estrategias y mecanismos con el fin de prohibir la venta de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans, sal y aditivos en los establecimientos escolares y en los espacios donde se expenden alimentos en las Instituciones Educativas de todos los niveles y modalidades del Sistema Educativo dependiente de la Secretaría de Educación del Gobierno del Estado, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada;
+XXVIII.- De la misma forma, establecer estrategias y mecanismos con el fin de prohibir la venta de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans, sal y aditivos en los establecimientos escolares y en los espacios donde se expenden alimentos en las Instituciones Educativas de todos los niveles y modalidades del Sistema Educativo dependiente de la Secretaría de Educación del Gobierno del Estado, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
 
-XXIX. Llevar a cabo por parte de la Secretaría de Salud, las inspecciones necesarias a fin de vigilar el estricto cumplimiento de estas disposiciones;
+XXIX.- Prevenir, atender y erradicar cualquier forma de maltrato físico y/o psicológico entre y hacia los estudiantes, incluyendo a todos los agentes involucrados en el entorno escolar, implementando programas orientados a salvaguardar el derecho a una educación libre de violencia, para lo que se establecerán en los reglamentos escolares las medidas necesarias para su atención;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
 
-XXX. Fomentar entre los educandos el uso adecuado de las Tecnologías de la Información y la Comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer un uso adecuado del Internet y de las Redes Sociales. De igual forma, incrementará el uso de todos los recursos tecnológicos y didácticos disponibles, así como la promoción entre los estudiantes, de las bondades y riesgos en el uso de las tecnologías; y
+XXX.- Realizar programas tendientes a difundir los derechos de las niñas, niños, adolescentes y jóvenes, promoviendo la prevención, atención y erradicación del acoso escolar o cualquier otra forma de maltrato físico y/o psicológico entre y hacia los estudiantes;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
+XXXI.- Fomentar entre los educandos el uso adecuado de las Tecnologías de la Información y la Comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer un uso adecuado del Internet y de las Redes Sociales. De igual forma, incrementará el uso de todos los recursos tecnológicos y didácticos disponibles, así como la promoción entre los estudiantes, de las bondades y riesgos en el uso de las tecnologías; y
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
+XXXII.- Llevar a cabo por parte de la Secretaría de Salud, las inspecciones necesarias a fin de vigilar el estricto cumplimiento de estas disposiciones.
+
+> <small>N. DE E. EN EL DECRETO DE REFORMAS NÚMERO 273 PUBLICADO EN EL P.O. DE 11 DE ENERO DE 2014, SE ADVIERTE QUE EL LEGISLADOR NO PRECISÓ REUBICACIÓN A LA PRESENTE FRACCIÓN.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2012)</small>
 
-XXXI.- En coordinación con historiadores locales y cronistas municipales procurará la elaboración de monografías que rescaten la historia de las escuelas del sistema educativo estatal.
+XXXI (SIC).- En coordinación con historiadores locales y cronistas municipales procurará la elaboración de monografías que rescaten la historia de las escuelas del sistema educativo estatal.
 
 (REUBICADO [N. DE E. ANTES SEGUNDO PÁRRAFO DE LA FRACCIÓN XXVI], P.O. 14 DE JULIO DE 2007)
 
@@ -899,13 +913,17 @@ II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
 III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
-IV.- Informar a las autoridades educativas los cambios que se presenten en la conducta y actitud de los educandos, para que las citadas autoridades apliquen los estudios correspondientes, con el fin de determinar las posibles causas que hayan dado origen a tales cambios, y
+IV.- Informar a las autoridades educativas los cambios que se presenten en la conducta y actitud de los educandos, para que las citadas autoridades apliquen los estudios correspondientes, con el fin de determinar las posibles causas que hayan dado origen a tales cambios;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
-V.- Hacer del conocimiento de la autoridad educativa del plantel, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en los educandos.
+V.- Hacer del conocimiento de la autoridad educativa del plantel, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en los educandos; y
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
+
+VI.- Promover desde el hogar la cultura de convivencia, respeto y tolerancia escolar y participar en las actividades programadas para prevenir, controlar y corregir la violencia y el acoso escolar.
 
 ###### ARTICULO 91.
 
@@ -955,9 +973,9 @@ Será responsabilidad de la autoridad de cada escuela pública de educación bá
 
 La autoridad escolar hará lo conducente para que en cada escuela pública de educación básica opere un consejo escolar de participación social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, alumnos, exalumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
 
-Este consejo conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización; tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas; propiciará la colaboración de maestros, padres de familia; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela; estimulará, promoverá y apoyará actividades extra escolares que complementen y respalden la formación de los educandos; llevará a cabo las acciones de participación, coordinación y difusión necesarias para garantizar la prevención, seguridad, protección civil y la emergencia en el entorno escolar; alentará el interés familiar y comunitario por el desempeño del educando, podrá opinar en asuntos pedagógicos; contribuirá a reducir las condiciones sociales adversas que influyen en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de instalaciones escolares; respaldará las labores cotidianas de la escuela; y, en general, podrá realizar actividades en beneficio de la propia escuela.
+Este consejo conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización; tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas; propiciará la colaboración de maestros, padres de familia; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela; estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos; propondrá medidas para la divulgación de la cultura de convivencia, respeto y tolerancia escolar, así como para prevenir y controlar la violencia, el acoso y la discriminación escolar; llevará a cabo las acciones de participación, coordinación y difusión necesarias para garantizar la prevención, seguridad, protección civil y la emergencia en el entorno escolar; alentará el interés familiar y comunitario por el desempeño del educando, podrá opinar en asuntos pedagógicos; contribuirá a reducir las condiciones sociales adversas que influyen en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de instalaciones escolares; respaldará las labores cotidianas de la escuela; y, en general, podrá realizar actividades en beneficio de la propia escuela.
 
 Consejos análogos podrán operar en las escuelas particulares de educación básica.
 
@@ -965,7 +983,9 @@ Consejos análogos podrán operar en las escuelas particulares de educación bá
 
 En cada municipio operará un consejo municipal de participación social en la educación, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros, así como representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación.
 
-Este consejo gestionará ante el ayuntamiento y ante la Secretaría el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo; conocerá de los resultados de las evaluaciones que realicen las autoridades educativas; llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica; estimulará, promoverá y apoyará actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales; establecerá la coordinación de escuelas con autoridades y programas de bienestar comunitario; hará aportaciones relativas a las particularidades del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio; podrá opinar en asuntos pedagógicos; coadyuvará a nivel municipal en actividades de protección civil y emergencia escolar; promoverá la superación educativa en el ámbito municipal mediante certámenes interescolares; promoverá actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares; procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública y, en general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
+
+Este consejo gestionará ante el ayuntamiento y ante la Secretaría el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo; conocerá de los resultados de las evaluaciones que realicen las autoridades educativas; llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica; estimulará, promoverá y apoyará actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales; apoyará para garantizar la seguridad y convivencia de los alumnos fuera de las escuelas y su participación en las actividades para la prevención y control de la violencia y el acoso escolar; establecerá la coordinación de escuelas con autoridades y programas de bienestar comunitario; hará aportaciones relativas a las particularidades del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio; podrá opinar en asuntos pedagógicos; coadyuvará a nivel municipal en actividades de protección civil y emergencia escolar; promoverá la superación educativa en el ámbito municipal mediante certámenes interescolares; promoverá actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares; procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública y, en general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
 
 Será responsabilidad del Presidente Municipal que en el consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación.
 
@@ -989,13 +1009,99 @@ DE LOS MEDIOS DE COMUNICACION
 
 Los medios de comunicación masiva en el desarrollo de sus actividades, contribuirán al logro de las finalidades previstas en el artículo 9 de la presente Ley y conforme a los criterios establecidos en la fracción II del artículo 3o. Constitucional.
 
-### CAPITULO IX. DE LAS INFRACCIONES, SANCIONES Y RECURSO ADMINISTRATIVO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2014)</small>
+
+### CAPITULO IX. DE LA SEGURIDAD ESCOLAR
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS.- El sistema educativo deberá impulsar una formación escolar equitativa que establezca medidas de protección hacia los alumnos, contra cualquier tipo de violencia.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS 1.- Las autoridades educativas deberán salvaguardar la integridad física y psicológica de los educandos dentro de los planteles educativos, garantizando una educación libre de violencia, y en su caso; solicitar protección a las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS 2.- La violencia en cualquier tipo de sus manifestaciones, será considerada como indisciplina. Es violencia escolar el hostigamiento e intimidación entre estudiantes, y se puede presentar de las siguientes formas:
+
+I. Física: empujones, golpes o lesiones;
+
+II. Verbal: insultos, discriminación y menosprecio que se realice por un estudiante a otro, de manera pública o privada;
+
+III. Psicológica: persecución, intimidación, sometimiento, chantaje, manipulación o amenazas, incluidas las gesticulaciones y obscenidades mediante señas, miradas o expresiones corporales;
+
+IV. Exclusión social: el estudiante víctima es notoriamente excluido y aislado de la convivencia escolar;
+
+V. Sexual: podrá manifestarse mediante comentarios de índole sexual, ya sea de forma verbal o escrita, miradas o señas que denoten obscenidad, tocamientos, hostigamiento, acoso o abuso de orden sexual; y
+
+VI. Cibernética: por medios electrónicos como Internet, páginas web, redes sociales, blogs, correo electrónico, mensajes de teléfono celular o videograbaciones.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS 3.- Para que exista acoso o violencia escolar se requiere que se presente alguna de las siguientes condiciones:
+
+I. Se trate de una acción agresiva e intencional;
+
+II. Se produzca en forma reiterada, entendiéndose la agresión dada en dos o más ocasiones por un mismo victimario aunque se trate de distintas víctimas; para el caso del acoso previsto en las fracciones V y VI del artículo que antecede, así como cuando se trate del maltrato físico manifestado mediante golpes o lesiones, bastará con que se presenten una sola vez para que se tenga como presumible el acoso;
+
+III. Exista desequilibrio de poder entre el agresor y la víctima, aun siendo estudiantes ambos, a causa de condiciones físicas, psicológicas o emocionales de la víctima; y
+
+IV. Provoque en la víctima daño emocional, psicológico o físico.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS 4.- Cuando maestros y directivos detecten alumnos con conductas de indisciplina escolar que consideren anómalas o extraordinarias en razón de sus circunstancias, deberán canalizarlos a los servicios de salud correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS 5.- Las autoridades educativas, emitirán las reglas de conducta dirigidas a crear una cultura de convivencia armónica, inculcando el respeto y la tolerancia, como componentes básicos de las relaciones entre los miembros de la comunidad escolar.
+
+Cada centro educativo emitirá su reglamento interno con base en las reglas de conducta dictadas por la autoridad educativa correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS 6.- Al aplicarse medidas disciplinarias para preservar la seguridad y convivencia escolar, habrá de tomarse en cuenta lo siguiente:
+
+I. Deberán ser armónicas con el principio del interés superior del menor;
+
+II. Se aplicarán conforme a lo establecido en los reglamentos vigentes;
+
+III. Serán proporcionales a la conducta que se atribuya al alumno;
+
+IV. Las circunstancias personales, familiares y sociales del alumno, así como la reincidencia en el actuar de éste si la hubiere; y
+
+V. Cuando un alumno incurra en indisciplina escolar, el hecho deberá hacerse del conocimiento del padre o tutor, así como la medida correctiva que vaya a aplicarse.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS 7.- Las medidas disciplinarias emitidas por las autoridades educativas serán aplicables cuando la indisciplina escolar se cometa en cualquiera de los siguientes supuestos:
+
+I. Mientras los educandos permanezcan dentro de la institución educativa, de autobuses escolares o transporte alquilado por el centro educativo correspondiente;
+
+II. Mientras participen en actividades escolares; y
+
+III. Estando fuera del centro educativo en actividades extraescolares.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS 8.- Cuando lo solicite el padre o tutor de la víctima de violencia y un especialista así lo recomiende, podrá trasladarse a dicho alumno a otra institución educativa, para efecto de que pueda desarrollarse en un ambiente escolar adecuado.
+
+En cualquier caso que amerite el traslado de un alumno a diverso centro escolar, tal circunstancia deberá ser previamente notificada tanto al alumno como al padre o tutor. Al preparar la reinscripción del alumno en diverso plantel escolar, se procurará tomar las medidas necesarias para evitar que éste pierda el ciclo escolar.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS 9.- Las autoridades educativas, generarán actividades de capacitación u orientación al personal docente y de apoyo, para la prevención y atención de la violencia escolar.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+
+ARTICULO 97 BIS 10.- Las escuelas deben registrar en el expediente de cada alumno los reportes levantados por conductas especificadas en esta sección. Los reportes deberán ser enterados de forma inmediata al padre o tutor del alumno que corresponda.
+
+### CAPITULO IX (SIC). DE LAS INFRACCIONES, SANCIONES Y RECURSO ADMINISTRATIVO
 
 PRIMERA SECCION
 
 DE LAS INFRACCIONES Y SANCIONES
-
-### CAPITULO X. DISPOSICIONES COMPLEMENTARIAS
 
 ###### ARTICULO 98.
 
@@ -1021,9 +1127,15 @@ IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los al
 
 X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento;
 
-XI.- Oponerse a las actividades de evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna, y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
-XII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+XI.- Oponerse a las actividades de evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2014)</small>
+
+XII.- Incumplir las disposiciones de prevención y control de la violencia y el acoso escolar que deriven de la aplicación de la presente ley; y
+
+XIII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
 
 Las disposiciones de este artículo no son aplicables a los trabajadores de la educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ellos.
 
@@ -1140,6 +1252,8 @@ II.- Que el recurso haya sido admitido;
 III.- Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta Ley, y
 
 IV.- Que no ocasionen daños o perjuicios a los educandos o terceros en términos de esta Ley.
+
+### CAPITULO X. DISPOSICIONES COMPLEMENTARIAS
 
 ###### ARTICULO 110.
 
@@ -1260,3 +1374,7 @@ P.O. 26 DE JUNIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Lo dispuesto en el presente Decreto no será aplicable a aquellos trabajadores que el 31 de diciembre de 2013 cumplan con los requisitos que la Ley de Educación del Estado de Colima establece para ser acreedor a una pensión por jubilación.
+
+P.O. 11 DE ENERO DE 2014.
+
+PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
