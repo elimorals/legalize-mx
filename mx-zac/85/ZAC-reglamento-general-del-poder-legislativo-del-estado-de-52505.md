@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2013-10-05"
+last_updated: "2014-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -145,13 +145,19 @@ III. Lista de convenios de los cuales deriven o puedan derivar derechos u obliga
 
 IV. La plantilla de personal de la Legislatura, clasificados por trabajadores de base, confianza, temporales o por contrato de prestación de servicios profesionales, así como de los servidores públicos que se encuentren con incapacidad, licencia o permiso;
 
-V. El informe de los recursos financieros debidamente desglosados en activos y pasivos;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
-VI. El informe sobre el presupuesto asignado al Poder Legislativo, debidamente desglosado, respecto de lo ejercido y por ejercer, y
+V. Los informes anuales sobre recursos financieros debidamente desglosados en activos y pasivos;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
+VI. Los informes anuales sobre el presupuesto asignado al Poder Legislativo, debidamente desglosado, respecto de lo ejercido y por ejercer, y
 
 VII. Los demás documentos a que se refiere la Ley y este Reglamento.
 
-La Comisión de Vigilancia propondrá al Pleno para su aprobación, las reglas para la revisión de cuentas del período trianual de la Legislatura por la Auditoría Superior del Estado.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
+
+La Comisión de Vigilancia propondrá al Pleno para su aprobación, las reglas para la revisión de cuentas por períodos anuales y el informe consolidado trianual de la Legislatura de la Auditoría Superior del Estado.
 
 En el último año de ejercicio constitucional, las Comisiones de Régimen Interno y de Planeación, no deberán autorizar pago alguno del presupuesto correspondiente a los meses de septiembre a diciembre. La inobservancia de lo anterior, es causa de responsabilidad de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, sin perjuicio de las causas penales, civiles, administrativas o de cualquier otra naturaleza que deriven del mismo.
 
@@ -2352,3 +2358,9 @@ P.O. 5 DE OCTUBRE DE 2013.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE ENERO DE 2014.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se archive el expediente original, como asunto plenamente concluido.
