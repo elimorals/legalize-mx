@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-97975"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-14"
-last_updated: "2013-12-14"
+last_updated: "2014-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2014
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2014
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE ENERO DE 2014.</small>
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 14 de diciembre de 2013.
 
@@ -1455,7 +1455,11 @@ instructores capacitadores
 
 de conductores de transporte público: $125.00
 
-XXVII. Identificación de la factura mediante holograma para realizar el movimiento de alta, cambio de propietario o canje en el Registro Estatal de Movilidad y Transporte:
+> <small>(F. DE E., P.O. 11 DE ENERO DE 2014)</small>
+
+XXVII. Identificación de la factura mediante holograma para realizar el movimiento de alta, cambio de propietario o canje en el Registro Estatal de Movilidad y Transporte: $ 218.00
+
+> <small>(F. DE E., P.O. 11 DE ENERO DE 2014)</small>
 
 XXVIII. Por la autorización de elementos
 
@@ -1467,7 +1471,7 @@ servicios en eventos con fines lucrativos,
 
 previo estudio de viabilidad y autorización
 
-del Comisario de Vialidad: $ 218.00
+del Comisario de Vialidad:
 
 Por elemento operativo por día: $600.00
 
