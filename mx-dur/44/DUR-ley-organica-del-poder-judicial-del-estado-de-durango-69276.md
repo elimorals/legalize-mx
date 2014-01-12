@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2013-12-22"
+last_updated: "2014-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -969,9 +969,9 @@ Artículo 55 B. El procedimiento se substanciará por uno de los jueces. Uno de 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013) (F. DE E., P.O. 12 DE ENERO DE 2014)
 
-Artículo 53 (SIC) C. El Tribunal Laboral Burocrático será competente para:
+Artículo 55 C. El Tribunal Laboral Burocrático será competente para:
 
 I.- Conocer de los conflictos que se susciten entre:
 
@@ -989,15 +989,15 @@ III.- Efectuar el registro de las condiciones generales de trabajo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013) (F. DE E., P.O. 12 DE ENERO DE 2014)
 
-Artículo 53 (SIC) D. El personal del Tribunal Laboral Burocrático se integrará, además, con el número de secretarios, actuarios, oficiales judiciales y especialistas conciliadores adscritos al Centro Estatal de Justicia Alternativa que determine el Consejo de la Judicatura.
+Artículo 55 D. El personal del Tribunal Laboral Burocrático se integrará, además, con el número de secretarios, actuarios, oficiales judiciales y especialistas conciliadores adscritos al Centro Estatal de Justicia Alternativa que determine el Consejo de la Judicatura.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013) (F. DE E., P.O. 12 DE ENERO DE 2014)
 
-Artículo 53 (SIC) E. Son obligaciones y facultades de los Jueces del Tribunal Laboral Burocrático las establecidas en el artículo 41 de la presente Ley, a excepción de la señalada en la fracción IX.
+Artículo 55 E. Son obligaciones y facultades de los Jueces del Tribunal Laboral Burocrático las establecidas en el artículo 41 de la presente Ley, a excepción de la señalada en la fracción IX.
 
 #### SECCIÓN SÉPTIMA. DE LOS JUZGADOS MUNICIPALES
 
@@ -2147,7 +2147,7 @@ El Consejo de la Judicatura estará facultado para sancionar a los servidores p�
 
 ###### ARTÍCULO 152.
 
-Si la falta se cometiere porque alguna de las salas del Tribunal Superior de Justicia no dicte resoluciones dentro del término legal, sólo será responsable el Magistrado ponente, cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás magistrados y los tres serán responsables, si habiéndose presentado la ponencia correspondiente no concurrieran a la discusión del negocio o no emitan su voto dentro del mismo plazo legal, sin causa justificada.
+Si la falta se cometiere porque alguna de las salas del Tribunal Superior de Justicia no dicte resoluciones dentro del término legal, sólo será responsable el Magistrado ponente, cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás magistrados; y los tres serán responsables, si habiéndose presentado la ponencia correspondiente no concurrieran a la discusión del negocio o no emitan su voto dentro del mismo plazo legal, sin causa justificada.
 
 ###### ARTÍCULO 153.
 
