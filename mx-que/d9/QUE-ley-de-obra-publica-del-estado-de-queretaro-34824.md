@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2008-02-11"
+last_updated: "2014-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE OBRA PUBLICA DEL ESTADO DE QUERETARO
 
-LEY DE OBRA PUBLICA DEL ESTADO DE QUERETARO
+LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -476,6 +476,10 @@ II.- Atendiendo al importe total de la obra, no se justifique efectuar los gasto
 III.- Por las características particulares de la obra, se advierta que ésta requiere para su realización de financiamiento, experiencia y materiales, equipos o técnicas especiales, una vez que se ha comprobado que en el mercado no existe otra alternativa.
 
 IV.- El contrato sólo pueda celebrarse con una determinada persona por ser ésta el titular de la o las patentes necesarias para realizar las obras.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
+
+Tampoco será aplicable lo dispuesto por el artículo 30 de la presente ley en tratándose de los contratos previstos por el segundo párrafo del artículo 3 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, cuando su adjudicación directa se haya resuelto por el Pleno del mismo.
 
 ###### ARTÍCULO 33.
 
@@ -1308,3 +1312,9 @@ Esta Ley entrará en vigor a partir del día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 13 DE ENERO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", con excepción de la Ley Orgánica del Poder Legislativo del Estado de Querétaro y del Reglamento del Poder Legislativo para la aplicación de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, cuya aprobación iniciará a partir del día de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
