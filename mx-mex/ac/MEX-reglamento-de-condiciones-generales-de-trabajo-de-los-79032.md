@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-condiciones-generales-de-trabajo-de-los-79032"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-24"
-last_updated: "2011-01-24"
+last_updated: "2014-01-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PUBLICOS GENERALES DEL INSTITUTO MEXIQUENSE DE LA PIROTECNIA DEL ESTADO DE MEXICO
 
-REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PUBLICOS GENERALES DEL INSTITUTO MEXIQUENSE DE LA PIROTECNIA DEL ESTADO DE MEXICO
+REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS GENERALES DEL INSTITUTO MEXIQUENSE DE LA PIROTECNIA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS GENERALES DEL INSTITUTO MEXIQUENSE DE LA PIROTECNIA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 13 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 13 DE ENERO DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 24 de enero de 2011.
 
@@ -1146,3 +1148,23 @@ L.C.P. CLAUDIA LORENA JASSO ARZATE
 JEFE DE LA UNIDAD DE INFORMACION, PLANEACION, PROGRAMACION Y EVALUACION
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 13 DE ENERO DE 2014.
+
+PRIMERO.- Se deja sin efecto todas aquellas disposiciones sobre esta materia que contravenga lo establecido en este Reglamento.
+
+SEGUNDO.- Se deja sin efectos el Reglamento de las Condiciones Generales de Trabajo de los Servidores Públicos Generales del Instituto Mexiquense de la Pirotecnia del Estado de México, publicado el 24 de enero de 2011 en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- En cumplimiento a lo previsto por el artículo 58 de la Ley, el presente Reglamento entrará en virgo (sic) a partir del día siguiente de su depósito en el Tribunal y/o Junta Local, previa aprobación de los representantes de los Servidores Públicos y de las Autoridades del IMEPI.
+
+CUARTO.- El presente Reglamento es de aplicación obligatoria para los servidores públicos generales del IMEPI.
+
+QUINTO.- El Instituto proveerá lo necesario con el objeto de adecuar al presente Reglamento, los reglamentos, circulares y disposiciones que existan en materia laboral.
+
+SEXTO.- El IMEPI procurará por los medios idóneos difundir y dar a conocer el presente Reglamento de Condiciones Generales de Trabajo a los Servidores Públicos del Instituto.
+
+SÉPTIMO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno del Estado de México".
+
+OCTAVO.- Publíquese en el periódico oficial "Gaceta del Gobierno del Estado de México". Dado en el seno del Consejo Directivo del Instituto Mexiquense de la Pirotecnia, en el municipio de Toluca de Lerdo, Estado de México a los dieciséis días del mes de diciembre del año dos mil trece.
