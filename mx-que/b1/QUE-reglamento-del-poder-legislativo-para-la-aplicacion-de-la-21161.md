@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-poder-legislativo-para-la-aplicacion-de-la-21161
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-09"
-last_updated: "2006-09-27"
+last_updated: "2014-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # REGLAMENTO DEL PODER LEGISLATIVO PARA LA APLICACION DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
 
-REGLAMENTO DEL PODER LEGISLATIVO PARA LA APLICACION DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
+REGLAMENTO DEL PODER LEGISLATIVO PARA LA APLICACIÓN DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 9 de marzo de 2001.
 
@@ -59,11 +59,11 @@ Para los efectos del presente Reglamento deberá entenderse por:
 
 Ley: la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
-Comisión: La Comisi6n de Vigilancia en pleno, y no exclusivamente su Presidente;
+Comisión: La Comisión de Vigilancia en pleno, y no exclusivamente su Presidente;
 
 Comité: el Comité a que hace referencia el artículo 19 de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios.
 
@@ -87,7 +87,7 @@ El órgano interno de control será la Comisión.
 
 ### CAPÍTULO PRIMERO. DE LAS ATRIBUCIONES DE LA COMISIÓN DE VIGILANCIA, LA OFICIALÍA MAYOR Y LA TESORERÍA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -97,7 +97,7 @@ La Comisión vigilará el funcionamiento del Comité a través de los informes q
 
 Una vez emitida la resolución de la adquisición, enajenación o contratación de servicios con base en los trabajos del Comité, el titular de la Oficialía Mayor procederá a realizar la formalización y ejecución de los actos jurídicos a que haya lugar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -107,7 +107,7 @@ Corresponderá al Secretario del Comité, mantener en custodia y dar seguimiento
 
 ### CAPÍTULO SEGUNDO. DEL COMITÉ TÉCNICO DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -119,39 +119,39 @@ En los meses de enero, abril, julio y octubre el Comité deberá presentar infor
 
 En el año de cambio de la legislatura, el informe correspondiente al tercer trimestre del año, deberá ser presentado dentro de los primeros quince días del mes de septiembre con copia a la Mesa Directiva o Comisión Permanente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 7.
 
 El comité estará conformado por cinco miembros y sus respectivos suplentes, los cuales se integrarán de la siguiente manera:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 Un Presidente, que será el Oficial Mayor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 Un Secretario, que será el Secretario Técnico de la Comisión
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 Tres vocales, que serán: El Tesorero, el Jefe de Recursos Materiales de la Oficialía Mayor y el Jefe de Recursos Humanos de la Oficialía Mayor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 Cada miembro tendrá un suplente, los cuales serán nombrados por los mismos integrantes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -165,7 +165,7 @@ Los integrantes del Comité podrán invitar a funcionarios internos y auxiliarse
 
 ### CAPÍTULO PRIMERO. REGLAS COMUNES DE LAS ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -223,13 +223,19 @@ Para los efectos del artículo 86 de la Ley, se entenderán como personas intere
 
 La sustanciación de las inconformidades a que se refiere el Capítulo XIV de la Ley, se realizará ante la Comisión en su carácter de órgano de control interno. En caso de que la Comisión no resuelva, la resolución se sujetará al Pleno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 19.
 
 Los aspectos no previstos en la ley, este reglamento y las convocatorias respectivas serán resueltos por el Comité, asegurando en todo caso las mejores condiciones en cuanto a precios, calidad y financiamiento, oportunidad y demás elementos que beneficien al Poder Legislativo y no implique favorecer a un proveedor participante en demérito de otros y en estricto apego al marco legal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
+
+La aplicación el (sic) presente Reglamento se hará sin perjuicio de las atribuciones conferidas al Poder Legislativo del Estado en la Ley Orgánica del Poder Legislativo del Estado de Querétaro.
 
 ## TÍTULO CUARTO. DEL PADRÓN DE PROVEEDORES
 
@@ -307,7 +313,7 @@ LIC. MARIA GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 P.O. 9 DE ABRIL DE 2004.
 
@@ -318,3 +324,9 @@ P.O. 27 DE SEPTIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 26 de septiembre del año 2006, ordenándose su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro la "Sombra de Arteaga".
+
+P.O. 13 DE ENERO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, con excepción de la Ley Orgánica del Poder Legislativo del Estado de Querétaro y del Reglamento del Poder Legislativo para la aplicación de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, cuya aprobación iniciará a partir del día de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
