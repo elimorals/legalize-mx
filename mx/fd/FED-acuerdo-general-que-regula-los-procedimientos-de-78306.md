@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-que-regula-los-procedimientos-de-78306"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-12-31"
-last_updated: "2013-07-01"
+last_updated: "2014-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78306&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-12-14"
 
 ACUERDO GENERAL QUE REGULA LOS PROCEDIMIENTOS DE ADQUISICIÓN, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2014.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 2010.
 
@@ -29,15 +29,15 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 
 ACUERDO GENERAL QUE REGULA LOS PROCEDIMIENTOS DE ADQUISICION, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 1.
 
@@ -45,7 +45,7 @@ OBJETO.
 
 El presente Acuerdo General tiene por objeto establecer las bases y procedimientos a los que deberá sujetarse el Tribunal Electoral del Poder Judicial de la Federación en las contrataciones que celebre en materia de adquisiciones, arrendamiento de bienes muebles, prestación de servicios de cualquier naturaleza, obra pública y servicios relacionados con la misma, en ejercicio de su presupuesto de egresos, a fin de que se ajusten a los criterios previstos en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 2.
 
@@ -101,11 +101,13 @@ XXIII. Proyecto de ingeniería: el que comprende los planos constructivos, memor
 
 XXIV. Proyecto ejecutivo: el conjunto de planos y documentos que conforman los proyectos arquitectónico y de ingeniería de una obra, el catálogo de conceptos, así como las descripciones e información suficientes para que ésta se pueda llevar a cabo;
 
-XXV. Secretario Administrativo: El titular de la Secretaría Administrativa del Tribunal Electoral del Poder Judicial de la Federación, y
+XXV. Racionalidad de precios: Es el ejercicio que permite razonar y/o evaluar, de acuerdo a los principios de eficiencia, eficacia, economía, transparencia y honradez, la aplicación de los recursos públicos destinados al pago de las contrataciones materia del presente Acuerdo. El estudio de la racionalidad está sujeto a la comprobación de la utilidad y eficacia, para satisfacer las necesidades institucionales a las que esté destinado el gasto. [Modificado mediante Acuerdo 333/S12(10-XII-2013)]
 
-XXVI. Tribunal: Tribunal Electoral del Poder Judicial de la Federación.
+XXVI. Secretario Administrativo: El titular de la Secretaría Administrativa del Tribunal Electoral del Poder Judicial de la Federación, y [Modificado mediante Acuerdo 333/S12(10-XII-2013)]
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+XXVII. Tribunal: Tribunal Electoral del Poder Judicial de la Federación. [Adicionado mediante Acuerdo 333/S12(10-XII-2013)]
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 3.
 
@@ -115,7 +117,7 @@ Los contratos que celebre el Tribunal en la materia del presente Acuerdo son de 
 
 Cuando se celebren convenios de adjudicación o contratos con las dependencias o entidades de la Administración Pública Federal, Estatal, Municipal, del Distrito Federal, o con instituciones educativas de carácter público, y cuando existan disposiciones normativas que establezcan que aquéllas no pueden suscribir convenios en los que se pacten garantías o penas convencionales, entre otras de la misma naturaleza, se les exceptuará de su inclusión en el instrumento jurídico que corresponda, independientemente de salvaguardar los intereses del Tribunal. [Modificado mediante Acuerdo 149/S6(11-VI-2013)]
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 4.
 
@@ -127,7 +129,7 @@ En los contratos o pedidos de adquisiciones podrá incluirse la instalación de 
 
 Para la adquisición de bienes muebles remanufacturados o reconstruidos, con independencia del monto de la adquisición, se requerirá de la aprobación del Comité, previa justificación correspondiente, para lo cual se deberá realizar un estudio del costo beneficio, considerando, en su caso, el avalúo emitido por institución de crédito o de terceros capacitados para ello, expedido dentro de los seis meses previos y vigente al momento de la adjudicación del contrato, para que se demuestre la conveniencia de la adquisición comparativamente con bienes nuevos; los citados estudios y avalúos deberán integrarse al expediente de la contratación respectiva.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 5.
 
@@ -139,7 +141,7 @@ El Area de Adquisiciones o los Delegados Administrativos, en el ámbito de su re
 
 El Comité podrá autorizar el arrendamiento financiero cuando éste represente un ahorro en comparación con los recursos que se emplearían para pagar, en su caso, un arrendamiento simple, incluyendo los gastos y costos asociados.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 6.
 
@@ -149,7 +151,7 @@ Quedan comprendidos los servicios profesionales, consultorías, estudios e inves
 
 Tratándose de servicios que incluyan el suministro de bienes, cuando el valor estimado de éstos últimos sea superior al cincuenta por ciento del valor total de la contratación, la operación se considerará como adquisición de bienes muebles.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 7.
 
@@ -161,7 +163,7 @@ En materia de obra vigilará que en la ejecución de las obras el posible daño 
 
 Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieran deteriorarse y se dará la intervención que corresponda a las autoridades que tengan atribuciones en la materia.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 8.
 
@@ -171,7 +173,7 @@ La Coordinación de Recursos Humanos y Enlace Administrativo del Tribunal, deber
 
 El Area de Obras, gestionara ante la Coordinación de Recursos Humanos y Enlace Administrativo del Tribunal, lo conducente para el aseguramiento de las obras a partir de su recepción.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 9.
 
@@ -181,7 +183,7 @@ El Tribunal no financiará a proveedores o prestadores de servicios, no se consi
 
 El Comité podrá autorizar el pago de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice cuando se trate de operaciones superiores al monto vigente de actuación para adjudicación directa. El Secretario Administrativo y el Coordinador de Adquisiciones podrán autorizarlo previa solicitud debidamente fundada y motivada del Area Solicitante, cuando se trate de operaciones iguales o inferiores al monto para adjudicación directa, haciendo un reporte al Comité de manera trimestral.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 10.
 
@@ -189,7 +191,7 @@ MARCO NORMATIVO APLICABLE A LOS ACTOS MATERIA DEL PRESENTE ACUERDO.
 
 Los actos que celebre el Tribunal en la materia del presente Acuerdo, se regirán por el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, la Ley, las disposiciones de este Acuerdo y las demás que en la propia materia se emitan, aplicándose de manera supletoria el Código Civil Federal, el Código Federal de Procedimientos Civiles y la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 11.
 
@@ -199,7 +201,7 @@ Los servidores públicos del Tribunal deberán cumplir las disposiciones estable
 
 La responsabilidad administrativa derivada de los actos que se realicen en contravención a lo anterior, será determinada conforme lo dispuesto en el Título Octavo de la Ley y las disposiciones especiales aplicables, sin perjuicio de la responsabilidad civil o penal que pudiera resultar de dichos actos.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 12.
 
@@ -207,7 +209,7 @@ INSTANCIAS COMPETENTES PARA INTERPRETAR EL PRESENTE ACUERDO.
 
 Para la interpretación y la aplicación del presente Acuerdo, serán competentes la Comisión, el Comité y el Secretario Administrativo, en el ámbito de sus respectivas competencias.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 13.
 
@@ -215,15 +217,15 @@ INSTANCIA RESOLUTORA DE LAS CONTROVERSIAS DERIVADAS DE LOS CONTRATOS CELEBRADOS 
 
 Las controversias que se susciten con motivo de la interpretación y cumplimiento de los contratos celebrados con base en este Acuerdo, serán resueltas por los Tribunales Federales.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ## TITULO SEGUNDO. DE LOS ORGANOS DE ADMINISTRACION Y APOYO
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 14.
 
@@ -243,7 +245,7 @@ V. Resolver con carácter de inatacable las inconformidades a que se refiere est
 
 VI. Las demás que le atribuya expresamente el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 15.
 
@@ -251,7 +253,7 @@ OBJETO DEL COMITE.
 
 El Tribunal contará con un Comité, que será un órgano colegiado con carácter permanente, que tiene por objeto dictaminar, discutir, proponer, y en su caso, autorizar la adquisición de bienes y contratación de servicios, arrendamientos, obra pública y servicios relacionados con la misma que se requieran.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 16.
 
@@ -295,7 +297,7 @@ Las ausencias del Secretario Técnico las suplirá el funcionario que designe el
 
 La responsabilidad de cada integrante del Comité quedará limitada al voto o comentario que emita u omita, en lo particular, respecto al asunto sometido a su consideración, con base en la documentación que le sea presentada. Las determinaciones y opiniones de los miembros del Comité, no comprenderán las acciones u omisiones que posteriormente se generen durante el desarrollo de los procedimientos de contratación o cumplimiento de los contratos.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 17.
 
@@ -317,7 +319,7 @@ V. Los asuntos que se sometan a consideración del Comité, se presentarán conf
 
 VI. En el orden del día, invariablemente deberá incluirse un apartado correspondiente al seguimiento de acuerdos emitidos en las sesiones anteriores. En el punto correspondiente a asuntos generales, podrán incluirse asuntos de carácter informativo;
 
-VII. A más tardar en la primera sesión del año deberá presentarse a consideración de los miembros del Comité, el calendario de sesiones ordinarias, los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos, Prestación de Servicios y el de Obra Pública y Servicios Relacionados con la Misma, así como los montos de actuación que regirán para los distintos procedimientos de contratación en el ejercicio de que se trate, los cuales se someterán a consideración de la Comisión;
+VII. A mas tardar en la primera sesión del año deberá presentarse a consideración de los miembros del Comité, el calendario de sesiones ordinarias, los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos, Prestación de Servicios y el de Obra Pública y Servicios Relacionados con la Misma, así como los montos de actuación que regirán para los distintos procedimientos de contratación en el ejercicio de que se trate, los cuales se someterán a consideración de la Comisión;
 
 VIII. El contenido de la información y documentación de los asuntos sometidos a consideración del Comité por las Areas Solicitantes que los presenten, será bajo la total y absoluta responsabilidad de éstas;
 
@@ -327,7 +329,7 @@ X. Los acuerdos que tome el Comité quedarán asentados en el formato de acuerdo
 
 XI. Se invitará a los titulares de las Areas Solicitantes cuando presenten algún asunto al Comité.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 18.
 
@@ -379,7 +381,7 @@ XXI. Resolver todas las cuestiones relacionadas con la materia no previstas en e
 
 XXII. Las demás que le señale la Comisión, o que le atribuya expresamente la normativa interna.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 19.
 
@@ -405,7 +407,7 @@ VIII. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica
 
 IX. Las demás que le sean encomendadas por la Comisión y el propio Comité.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 20.
 
@@ -427,7 +429,7 @@ VI. Cumplir con las disposiciones establecidas en la Ley Orgánica del Poder Jud
 
 VII. Las demás funciones que le sean encomendadas por el Comité.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 21.
 
@@ -461,7 +463,7 @@ XII. Cumplir con las disposiciones establecidas en la Ley y demás ordenamientos
 
 XIII. Las demás funciones que le sean encomendadas por la Comisión o el Presidente del Comité.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 22.
 
@@ -483,7 +485,7 @@ VI. Autorizar la modificación a los contratos en materia de adquisiciones, serv
 
 VII. Las demás que le atribuya expresamente el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 23.
 
@@ -503,7 +505,7 @@ V. Aprobar y suscribir las convocatorias a las licitaciones públicas;
 
 VI. Declarar desierta o cancelar el procedimiento de licitación pública o invitación a cuando menos tres proveedores o contratistas de conformidad con lo previsto en el presente acuerdo;
 
-VII. Autorizar los trabajos extraordinarios en los contratos de obra pública cuando estos no rebasen el 15 % del contrato original;
+VII. Autorizar los trabajos extraordinarios en los contratos de obra pública cuando estos no rebasen el 15% del contrato original;
 
 VIII. Implementar los mecanismos para tener informadas a las diversas áreas del Tribunal sobre los procedimientos de contratación iniciados;
 
@@ -521,7 +523,7 @@ XIV. Implementar los mecanismos necesarios para el intercambio de información c
 
 XV. Las demás que le atribuya expresamente el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 24.
 
@@ -543,7 +545,7 @@ VI. Realizar adjudicaciones urgentes, de conformidad con lo dispuesto en el art�
 
 VII. Las demás que le atribuya expresamente el presente Acuerdo
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 25.
 
@@ -563,7 +565,7 @@ V. Elaborar los instrumentos jurídicos correspondientes, y
 
 VI. Las demás que le atribuya expresamente el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 26.
 
@@ -579,7 +581,7 @@ III. Entregar las fianzas a solicitud del proveedor o contratista, previo oficio
 
 IV. Las demás que le atribuya expresamente el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 27.
 
@@ -615,7 +617,7 @@ XIII. Solicitar oportunamente al Area Jurídica la elaboración de los contratos
 
 XIV. Las demás que le atribuya expresamente el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 28.
 
@@ -651,7 +653,7 @@ XIII. Gestionar a petición del contratista la cancelación de las fianzas que c
 
 XIV. Las demás que le atribuye expresamente el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 29.
 
@@ -669,7 +671,7 @@ IV. Elaborar en su caso, el finiquito correspondiente para dar por concluidos pa
 
 V. Solicitar al Area Jurídica, la elaboración de los contratos adjudicados de manera directa;
 
-V. Elaborar el dictamen técnico a que se refiere el artículo 64 del presente Acuerdo;
+V (SIC). Elaborar el dictamen técnico a que se refiere el artículo 64 del presente Acuerdo;
 
 VI. Someter a la consideración de la Comisión las contrataciones cuya vigencia rebasen un ejercicio presupuestal;
 
@@ -679,7 +681,7 @@ VIII. Dar cumplimiento a los acuerdos que le sean comunicados por el Secretario 
 
 IX. Las demás que le atribuya expresamente el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 30.
 
@@ -693,19 +695,19 @@ II. Dar opinión respecto de los asuntos puestos a consideración del Comité y 
 
 III. Ejercer la facultad de control y vigilancia sobre el cumplimiento de las disposiciones contenidas en el presente Acuerdo, en el marco de sus atribuciones que le establece la Ley, el Reglamento y demás disposiciones que emita la Comisión;
 
-III. Sustanciar el procedimiento de inconformidad y presentar a la Comisión el dictamen de resolución respectivo, y
+III (SIC). Sustanciar el procedimiento de inconformidad y presentar a la Comisión el dictamen de resolución respectivo, y
 
 IV. Las demás que le atribuye expresamente el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ## TITULO TERCERO. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 31.
 
@@ -717,7 +719,7 @@ La Comisión anualmente autorizará los Programas Anuales de Ejecución con base
 
 La Dirección General de Sistemas del Tribunal, en el primer bimestre del ejercicio que corresponda, deberá publicar en la página de Internet, los Programas Anuales de Ejecución, así como sus modificaciones, de manera trimestral.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 32.
 
@@ -749,7 +751,7 @@ XI. Las fechas límites para el trámite y solicitud de los procesos de adquisic
 
 XII. Las demás para lograr un efectivo abastecimiento de bienes y servicios, que permitan el eficaz ejercicio de las atribuciones que le corresponde al Tribunal.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 33.
 
@@ -791,7 +793,7 @@ XVI. Los análisis que deban realizarse previamente, en los casos de adaptación
 
 XVII. Las demás previsiones que deban tomarse en cuenta, según la naturaleza, características y complejidad de la obra.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 34.
 
@@ -803,7 +805,7 @@ En el supuesto de que se advierta la existencia de dichos trabajos y se comprueb
 
 Una vez verificado lo anterior, las Areas Solicitantes a través del Area de Adquisiciones, podrán solicitar al Comité la contratación de los servicios mencionados, para lo cual deberán acompañar a la solicitud de autorización, el dictamen que motive y justifique su procedencia, así como la opinión del área correspondiente de que no se cuenta con el personal capacitado disponible, ni equipo y materiales necesarios para su realización.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 35.
 
@@ -813,7 +815,7 @@ Una vez autorizados los programas anuales por la Comisión, el cumplimiento de �
 
 Dichas áreas deberán rendir cuentas del cumplimiento y avance de los programas anuales, mediante informes mensuales que conjuntará y procesará la Coordinación de Adquisiciones, a fin de ponerlos a consideración del Comité.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 36.
 
@@ -823,7 +825,7 @@ Las Areas Solicitantes previa disponibilidad presupuestal podrán solicitar a la
 
 El Area Financiera previa verificación presupuestal, adoptará los mecanismos necesarios a fin de que las Areas Solicitantes cuenten con saldo disponible en la partida presupuestal respectiva, de conformidad con los lineamientos correspondientes.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 37.
 
@@ -837,9 +839,7 @@ En el caso de obras públicas que por sus características permitan proyectos in
 
 Lo dispuesto en los párrafos anteriores, será responsabilidad de los servidores públicos que autoricen el proyecto ejecutivo.
 
-Lo dispuesto en los párrafos anteriores, será responsabilidad de los servidores públicos que autoricen el proyecto ejecutivo.
-
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 38.
 
@@ -853,7 +853,7 @@ En términos del presente artículo los pagos respectivos estarán sujetos a la 
 
 Sólo se dará trámite a este tipo de contrataciones, si el Area Solicitante que requiere el bien, servicio u obra acredita haber solicitado los recursos respectivos en el Proyecto de Presupuesto del año siguiente o en su caso, la autorización previa de la Comisión.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 39.
 
@@ -861,15 +861,15 @@ REQUERIMIENTO DE LAS AREAS ADMINISTRATIVAS Y JURISDICCIONALES PARA LA CONTRATACI
 
 Las Areas Solicitantes requerirán por escrito al Area de Adquisiciones, al Area de Obras y según corresponda a los Delegados Administrativos, la contratación de las adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, de acuerdo a sus necesidades.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ## TITULO CUARTO. DE LOS PROCEDIMIENTO DE CONTRATACION
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO PRIMERO. GENERALIDADES
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 40.
 
@@ -879,7 +879,7 @@ Las adquisiciones, arrendamientos, prestación de servicios, obra pública y ser
 
 Cuando no resulte idóneo celebrar licitación pública para asegurar las condiciones referidas, se adjudicarán mediante el procedimiento de invitación a cuando menos tres proveedores o contratistas o de manera directa.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 41.
 
@@ -887,7 +887,7 @@ REQUISITOS Y CONDICIONES.
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, debiendo proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 42.
 
@@ -895,7 +895,7 @@ CONDICIONES NO NEGOCIABLES.
 
 Las condiciones contenidas en las Bases de licitación e invitación a cuando menos tres proveedores, prestadores de servicios o contratistas y en las propuestas presentadas por los licitantes no podrán ser negociadas.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 43.
 
@@ -903,7 +903,7 @@ INICIO Y CONCLUSION DE LOS PROCEDIMIENTOS DE CONTRATACION.
 
 La licitación pública inicia con la publicación de la convocatoria y, en el caso de invitación a cuando menos tres proveedores, prestadores de servicios o contratistas, con la entrega de la invitación; ambos procedimientos concluyen con la emisión del fallo o, en su caso, con la cancelación del procedimiento respectivo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 44.
 
@@ -911,7 +911,7 @@ OBSERVADORES Y TESTIGOS SOCIALES.
 
 A los actos relativos de los procedimientos de contratación que se refiere este Acuerdo, podrá asistir cualquier persona en calidad de observador, bajo la condición de registrar su asistencia, se ajusten a los horarios establecidos, se identifiquen, acrediten su personería para el caso de que asistan a nombre de alguna persona moral y abstenerse de intervenir en cualquier forma en los mismos. En su caso, el Comité podrá autorizar que se gire la invitación a testigos sociales.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 45.
 
@@ -919,7 +919,7 @@ DEL USO DE MEDIOS ELECTRONICOS.
 
 Las licitaciones públicas podrán llevarse a cabo a través de medios electrónicos conforme a las disposiciones que emita la Comisión.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 46.
 
@@ -927,7 +927,7 @@ FIDEICOMISOS Y MANDATOS.
 
 No se podrán crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de contratos, para llevar a cabo las contrataciones o para evadir lo previsto en este Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 47.
 
@@ -935,7 +935,7 @@ COMPRAS CONSOLIDADAS.
 
 El Tribunal podrá realizar contrataciones consolidadas, de manera conjunta con la Suprema Corte de Justicia de la Nación y/o el Consejo de la Judicatura Federal.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 48.
 
@@ -957,11 +957,11 @@ Para la adquisición de equipos, en los que éstos solo operen con insumos espec
 
 Para el suministro por parte del contratista, de equipos integrados a la obra, en los que éstos solo operen o deban operar para garantía de eficiencia y eficacia con la marca del mismo equipo ya instalado en el Tribunal, invariablemente y bajo su responsabilidad, se debe contar con el dictamen y justificación del Area Solicitante y/o técnica.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO SEGUNDO. DE LA LICITACION PUBLICA
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 49.
 
@@ -979,13 +979,13 @@ En la licitación pública internacional, podrán participar proveedores de cual
 
 Se convocará preferentemente a licitación nacional y solamente cuando se presente alguno de los supuestos que a continuación se indican se convocará a licitación internacional:
 
-l. Cuando no exista oferta en cantidad o calidad de proveedores nacionales, previa investigación de mercado que se realice;
+I. Cuando no exista oferta en cantidad o calidad de proveedores nacionales, previa investigación de mercado que se realice;
 
-ll. Cuando resulte conveniente para el Tribunal en términos de precio, y
+II. Cuando resulte conveniente para el Tribunal en términos de precio, y
 
 III. En los demás casos en que así lo determine el Tribunal.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 50.
 
@@ -1003,7 +1003,7 @@ IV. La obtenida a través de páginas de Internet, o por algún otro medio, siem
 
 V. La obtenida a través de la información histórica con que cuente el Area de Adquisiciones o el Area de Obras.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 51.
 
@@ -1027,7 +1027,7 @@ VI. Porcentaje de anticipo, que en su caso, se otorgaría.
 
 Las convocatorias se publicarán en la sección especializada del Diario Oficial de la Federación, así como en la página de Internet del Tribunal.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 52.
 
@@ -1041,7 +1041,7 @@ En las bases de la licitación deberá indicarse que los licitantes que se encue
 
 En las bases de licitación no se podrán establecer requisitos que limiten la libre participación de los interesados.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 53.
 
@@ -1053,7 +1053,7 @@ El costo de las bases deberá ser cubierto directamente por los interesados en l
 
 Para tener derecho a presentar propuestas, los interesados deberán inscribirse a la licitación en las oficinas del Area de Adquisiciones o en su caso con el Delegado Administrativo, presentando el recibo de pago correspondiente. En caso de que la licitación pública se realice en alguno de los Estados de la Federación, en las bases se indicará el lugar en que deberán inscribirse los interesados.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 54.
 
@@ -1101,7 +1101,7 @@ XIX. La indicación de que no podrán participar las personas físicas o morales
 
 a. Personas morales en cuyo capital social participen personas físicas o morales que se encuentren inhabilitadas en términos del primer párrafo de esta fracción, y
 
-b. Personas físicas que participen en el capital social de personas morales que se encuentren inhabilitadas. La participación social deberá tomarse en cuenta al momento de la infracción que hubiere motivado la inhabilitación. La falsedad en la manifestación a que se refiere esta fracción, será sancionada en los términos de este Acuerdo. En caso de omisión en la entrega del escrito a que se refiere esta fracción, o si de la información y documentación con que cuente el Tribunal se desprende que personas físicas o morales pretenden evadir los efectos de la inhabilitación, no se procederá a la (sic) firmar de los contratos correspondientes;
+b. Personas físicas que participen en el capital social de personas morales que se encuentren inhabilitadas. La participación social deberá tomarse en cuenta al momento de la infracción que hubiere motivado la inhabilitación. La falsedad en la manifestación a que se refiere esta fracción, será sancionada en los términos de este Acuerdo. En caso de omisión en la entrega del escrito a que se refiere esta fracción, o si de la información y documentación con que cuente el Tribunal se desprende que personas físicas o morales pretenden evadir los efectos de la inhabilitación, no se procederá a la firmar (sic) de los contratos correspondientes;
 
 XX. Las condiciones de precio, en las que se precisará si se trata de precios fijos o variables;
 
@@ -1139,11 +1139,11 @@ XXXV. La relación de materiales y equipo de instalación que, en su caso, propo
 
 XXXVI. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán considerados en la evaluación.
 
-Las bases que se emitan para las licitaciones públicas en materia de servicios relacionados con la misma, se exceptúan de contener los requisitos mínimos a que se refiere este artículo, ajustándose a los requerimientos con forme a la naturaleza de la contratación.
+Las bases que se emitan para las licitaciones públicas en materia de servicios relacionados con la misma, se exceptúan de contener los requisitos mínimos a que se refiere este artículo, ajustándose a los requerimientos con forme (sic) a la naturaleza de la contratación.
 
 Para la participación, adjudicación o contratación no podrán exigirse requisitos que tengan por objeto limitar la libre participación. En ningún caso deberán establecerse requisitos o condiciones imposibles de cumplir.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 55.
 
@@ -1169,19 +1169,19 @@ En el caso de personas físicas con actividad empresarial, será suficiente la e
 
 Dicha documentación no se solicitará en las adjudicaciones directas.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 56.
 
 MODIFICACION DE LAS BASES.
 
-El Tribunal, siempre que ello no tenga por objeto limitar el número de licitantes, podrá modificar aspectos establecidos en la bases, a más tardar el quinto día hábil previo al acto de presentación y apertura de propuestas, debiendo comunicar a los licitantes dichas modificaciones a más tardar el día hábil siguiente a aquél en que se efectúen.
+El Tribunal, siempre que ello no tenga por objeto limitar el número de licitantes, podrá modificar aspectos establecidos en la (sic) bases, a más tardar el quinto día hábil previo al acto de presentación y apertura de propuestas, debiendo comunicar a los licitantes dichas modificaciones a más tardar el día hábil siguiente a aquél en que se efectúen.
 
 Las modificaciones que se mencionan en el párrafo anterior en ningún caso podrán consistir en la sustitución de los bienes, servicios o variación sustancial de los trabajos convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
 
 Cualquier modificación a las bases de la licitación, incluyendo las que resulten de la o las juntas de aclaraciones, formará parte de las bases y deberá ser considerada por los licitantes en la elaboración de sus propuestas.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 57.
 
@@ -1197,7 +1197,7 @@ En caso de que se celebren más de una junta de aclaraciones, entre la última y
 
 De cada junta de aclaraciones se levantará acta en la que se harán constar las solicitudes de aclaración y las respuestas del Tribunal, la que contendrá la firma de los licitantes que hubieren asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas. Será responsabilidad de los licitantes que no asistan a la junta de aclaraciones, recoger la copia del acta levantada al efecto.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 58.
 
@@ -1207,7 +1207,7 @@ En caso de adquisiciones, prestación de servicios y de obra pública, podrá re
 
 Durante la visita al lugar no se responderá pregunta alguna, ya que éstas se atenderán durante la junta de aclaraciones.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 59.
 
@@ -1219,7 +1219,7 @@ Las propuestas deberán presentarse por escrito en original, en papelería membr
 
 En caso de detectarse deficiencias en el foliado de las propuestas técnica y económica, el servidor público que presida el acto, procederá a subsanarlas en presencia de los participantes en el procedimiento.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 60.
 
@@ -1241,7 +1241,7 @@ d) La descripción de las partes objeto del contrato que corresponderá cumplir 
 
 e) Estipulación expresa de que cada uno de los firmantes quedará obligado junto con los demás integrantes en forma solidaria o mancomunada, según se convenga, para efectos del procedimiento de contratación y del contrato, en caso de que se les adjudique el mismo.
 
-III. En el acto de presentación y apertura de propuestas el representante común de la agrupación deberá señalar que la propuesta se presenta en forma conjunta. El convenio a que hace referencia la facción (sic) II de este artículo se presentará con la propuesta y, en caso de que a los licitantes que la hubieren presentado se les adjudique el contrato, dicho convenio formará parte del mismo como uno de sus anexos.
+III. En el acto de presentación y apertura de propuestas el representante común de la agrupación deberá señalar que la propuesta se presenta en forma conjunta. El convenio a que hace referencia la facción II de este artículo se presentará con la propuesta y, en caso de que a los licitantes que la hubieren presentado se les adjudique el contrato, dicho convenio formará parte del mismo como uno de sus anexos.
 
 IV. Para determinar la capacidad financiera, se podrán considerar en conjunto las correspondientes a cada una de las personas integrantes de la agrupación, tomando en cuenta si la obligación que asumirán es mancomunada o solidaría, y
 
@@ -1249,7 +1249,7 @@ V. Los demás que el Tribunal estime necesarios de acuerdo a las particularidade
 
 En el supuesto de que resulte adjudicada una propuesta conjunta, el contrato deberá ser firmado por todas las personas que integran la propuesta conjunta o sus apoderados, quienes en lo individual, deberán acreditar su respectiva personalidad.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 61.
 
@@ -1277,7 +1277,7 @@ Del acto de apertura de propuestas, se levantará acta circunstanciada la cual s
 
 Las propuestas desechadas serán devueltas transcurridos diez días hábiles contados a partir de la fecha en que se dé a conocer el fallo de la licitación, previa solicitud por escrito del proveedor o contratista.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 62.
 
@@ -1297,7 +1297,7 @@ II. De puntos o porcentajes: que consiste en determinar la solvencia de las prop
 
 Quedan comprendidos entre los requisitos cuyo incumplimiento, por sí mismos, no afecten la solvencia de la propuesta, el proponer un plazo de entrega menor al solicitado, tratándose de adquisiciones y prestación de servicios, en cuyo caso, prevalecerá el estipulado en las bases de licitación; el omitir aspectos que puedan ser cubiertos con información contenida en la propia propuesta técnica o económica; el no observar los formatos establecidos, si se proporciona de manera clara la información requerida. En ningún caso podrán suplirse las deficiencias sustanciales de las propuestas presentadas.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ARTICULO. 63. EVALUACION LEGAL Y FINANCIERA PARA DETERMINAR LA SOLVENCIA DE LAS PROPUESTAS.
 
@@ -1309,7 +1309,7 @@ II. El dictamen resolutivo financiero contendrá la determinación sobre el cump
 
 Los criterios para evaluar los requisitos legales y financieros se establecerán en las bases o invitación correspondientes.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 64.
 
@@ -1355,7 +1355,7 @@ j. Que los suministros y utilización de los insumos sean acordes con el proceso
 
 k. Que las características, especificaciones, calidad de los materiales y equipos de instalación permanente, cumplan con los requerimientos de las bases para realizar los trabajos correspondientes.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 65.
 
@@ -1403,7 +1403,7 @@ c. Que exista congruencia en la red de actividades, la cédula de avances, pagos
 
 d. Que los programas específicos de erogaciones sean congruentes con el programa general de ejecución y que los insumos propuestos correspondan a los períodos de los programas presentados.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 66.
 
@@ -1425,7 +1425,7 @@ VI. La propuesta de adjudicación al concursante que ofrezca las mejores condici
 
 El informe ejecutivo deberá someterse a consideración del Comité a fin de que realice su valoración formal, y con base en ello, en su caso, autorice el fallo respectivo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 67.
 
@@ -1445,7 +1445,7 @@ c. Nombre del o los licitantes a quienes se adjudique el contrato, indicando en 
 
 d. Información sobre la firma del contrato, presentación de garantías y, en su caso, entrega de anticipo, conforme a las bases de licitación o de invitación.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 68.
 
@@ -1455,7 +1455,7 @@ Cuando notificada la adjudicación del total de partidas o de alguna partida, o 
 
 En caso de que se autorice la adjudicación a la segunda propuesta, el Area de Adquisiciones notificará por escrito al licitante que la ofertó.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 69.
 
@@ -1463,7 +1463,7 @@ DESCALIFICACION.
 
 El incumplimiento de las condiciones establecidas en las bases de la licitación y la contravención a lo dispuesto por el presente Acuerdo, por parte de algún participante, será motivo de descalificación, lo cual se hará de su conocimiento por escrito, debiéndose fundar y motivar formalmente la causa para descalificar su propuesta.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 70.
 
@@ -1471,7 +1471,7 @@ LICITACION PUBLICA DESIERTA.
 
 Se declarará desierta la licitación pública en los siguientes supuestos:
 
-l. Que no se adquieran bases;
+I. Que no se adquieran bases;
 
 II. Que no se presenten propuestas en el acto de apertura;
 
@@ -1483,7 +1483,7 @@ Una vez declarada desierta la licitación, se podrá realizar una segunda convoc
 
 Tratándose de licitaciones en las que una o varias partidas se declaren desiertas en virtud de los supuestos antes enunciados, se procederá a su contratación mediante adjudicación directa, cuando así lo justifique su monto.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 71.
 
@@ -1497,11 +1497,7 @@ Los licitantes podrán solicitar al Tribunal el costo de las bases en un plazo m
 
 El mencionado gasto será pagado dentro de un término que no podrá exceder de cuarenta y cinco días naturales posteriores a la solicitud del licitante.
 
-Los licitantes podrán solicitar al Tribunal el costo de las bases en un plazo máximo de tres meses, contados a partir de la fecha de la notificación de la cancelación de la licitación pública.
-
-El mencionado gasto será pagado dentro de un término que no podrá exceder de cuarenta y cinco días naturales posteriores a la solicitud del licitante.
-
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 72.
 
@@ -1509,19 +1505,19 @@ PLAZOS PARA LICITACIONES PUBLICAS.
 
 Las licitaciones públicas se realizarán en los plazos siguientes:
 
-l. La consulta y venta de bases se realizará durante un plazo de cinco días hábiles, contados a partir de la fecha de publicación de la convocatoria;
+I. La consulta y venta de bases se realizará durante un plazo de cinco días hábiles, contados a partir de la fecha de publicación de la convocatoria;
 
-ll. Entre el último día de venta de bases y el acto de apertura de propuestas deberá mediar un plazo mínimo de diez días hábiles;
+II. Entre el último día de venta de bases y el acto de apertura de propuestas deberá mediar un plazo mínimo de diez días hábiles;
 
 III. Para la emisión del informe ejecutivo deberá mediar un plazo máximo de quince días hábiles contados a partir de la fecha en que tenga verificativo el acto de apertura de propuestas. En casos excepcionales y por la complejidad de la licitación, a juicio de la Coordinación de Adquisiciones, el plazo podrá prorrogarse hasta por diez días hábiles adicionales, y
 
 IV. Entre la presentación del informe ejecutivo al Comité y la emisión del fallo, mediará un plazo máximo de diez días hábiles.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO TERCERO. DE LAS EXCEPCIONES A LA LICITACION PUBLICA
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 73.
 
@@ -1537,7 +1533,9 @@ III. Existan circunstancias que puedan provocar pérdidas o costos adicionales i
 
 IV. Tratándose de contratos que solo puedan celebrarse con una determinada persona por tratarse de obras artísticas, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 
-V. Servicios de pensión o estacionamiento de automóviles, ya que en la contratación de éstos, los aspectos fundamentales a considerar son las condiciones del lugar y su proximidad a los inmuebles donde se encuentren instalaciones del Tribunal;
+V. Servicios de pensión o estacionamiento, así como el mantenimiento o reparación de vehículos con características específicas de seguridad. En la contratación de los primeros, los aspectos fundamentales a considerar son las condiciones del lugar y su proximidad a los inmuebles donde se encuentren instalaciones del Tribunal. [Modificado mediante Acuerdo 333/S12(10-XII-2013)]
+
+En la contratación de los segundos, se deben considerar las condiciones de seguridad específica de cada vehículo; así mismo, se debe hacer uso de la garantía que otorgue la proveedora y en su caso realizar las acciones necesarias para conservar dicha garantía. [Modificado mediante Acuerdo 333/S12(10-XII-2013)]
 
 VI. Adquisición de bienes, prestación de servicios, obra pública y servicios relacionados con la misma que por razones de seguridad y/o confidencialidad para el Tribunal, se requiera contratar con alguna persona física o moral;
 
@@ -1559,7 +1557,7 @@ XIV. Servicios específicos de información, bases de datos, ponencias, asesorí
 
 XV. Se trate de servicios de consultorías, asesorías, estudios o investigaciones cuando la información que se tenga que proporcionar a los licitantes para la elaboración de su proposición, se encuentre reservada en los términos establecidos en la Ley Federal de Transparencia y Acceso a la Información y en la normatividad interna de la materia en el Tribunal.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 74.
 
@@ -1571,7 +1569,7 @@ Las operaciones que se realicen al amparo de la presente disposición no deberá
 
 Se considerará que existe fraccionamiento cuando en las contrataciones se presente las circunstancias siguientes:
 
-I. Adquirir un bien o servicio determinado en distintos momentos y que sumandos (sic) estos, excedan los montos de actuación establecidos para cada tipo de operación, en un mismo ejercicio fiscal.
+I. Adquirir un bien o servicio determinado en distintos momentos y que sumandos estos, excedan los montos de actuación establecidos para cada tipo de operación, en un mismo ejercicio fiscal.
 
 II. Los bienes, servicios, objeto de la contratación, sean para el mismo fin; y en el caso de obra pública y servicios relacionados con la misma, los trabajos objeto de la contratación se refieran a la misma obra o proyecto.
 
@@ -1579,15 +1577,15 @@ III. El Area de Adquisiciones o el Area Solicitante pudieron prever las contrata
 
 IV. Las solicitudes de contratación se realicen por la misma Area Solicitante y el área contratante sea la misma, o bien, el Area Solicitante sea la misma y el área contratante sea diferente.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 75.
 
-ADQUISICION DE BIENES QUE NO REBASEN 300 VECES EL SALARIO MINIMO.
+CONTRATACIONES QUE NO REBASEN 300 VECES EL SALARIO MINIMO.
 
-El Area de Adquisiciones y los Delegados Administrativos podrán adquirir bienes, mediante orden de compra, comprobados con la factura o comprobante fiscal correspondiente, y sin necesidad de contar con dos cotizaciones, cuando el monto no exceda 300 veces el salario mínimo diario vigente en el Distrito Federal, siempre y cuando la suma de éstos no rebase en un año el monto de actuación para adjudicación directa.
+El Área de Adquisiciones y los Delegados Administrativos podrán realizar contrataciones objeto de este Acuerdo, mediante el instrumento legal correspondiente, comprobadas con la factura o comprobante fiscal respectivo, y sin necesidad de contar con dos cotizaciones, cuando el monto no exceda 300 veces el salario mínimo diario vigente en el Distrito Federal, siempre y cuando la suma de éstos no rebase en un año el monto de actuación para adjudicación directa. [Modificado mediante Acuerdo 333/S12(10-XII-2013)]
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 76.
 
@@ -1603,7 +1601,7 @@ III. Invariablemente se requerirá la autorización del Comité
 
 Las renovaciones que se autoricen serán por una sola ocasión y por el lapso de un año. Los contratos plurianuales que se venzan en el ejercicio fiscal que corresponda, se podrán renovar por una sola ocasión de manera plurianual, y previa autorización de la Comisión.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 77.
 
@@ -1613,7 +1611,7 @@ El Tribunal se abstendrá de solicitar, invitar, inscribir y recibir propuestas 
 
 I. Las que se encuentren inhabilitadas por cualquiera de los órganos competentes de la Administración Pública Federal, atendiendo al plazo que se hubiere determinado en la resolución respectiva;
 
-II. (DEROGADA D.O.F. 1 DE JULIO DE 2013); [Modificado mediante Acuerdo 149/S6(11-VI-2013)]
+II. Derogada; [Modificado mediante Acuerdo 149/S6(11-VI-2013)]
 
 III. Aquéllas con las que los servidores públicos que intervengan en cualquier forma en la adjudicación del contrato tengan interés personal, familiar, de negocios, incluyendo los que puedan obtener algún beneficio para ellos, sus cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado, parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales, de negocios, para socios o sociedades, incluyendo sus representantes legales, respecto de los cuales el servidor público o las personas antes referidas formen, hayan formado parte así como las hayan representado durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
 
@@ -1641,7 +1639,7 @@ j. Se haya rescindido contrato celebrado con la Suprema Corte de Justicia de la 
 
 El plazo de impedimento para contratar, no será menor de tres meses ni mayor de cinco años, plazo que comenzará a correr a partir del día siguiente a la fecha de la notificación de la resolución respectiva.
 
-En caso de que se hayan causado daños y perjuicios al Tribunal, el plazo de impedimento para contratar no será menor a seis meses. [Modificado mediante Acuerdo 149/S6 (11-VI-2013)]
+En caso de que se hayan causado daños y perjuicios al Tribunal, el plazo de impedimento para contratar no será menor a seis meses. [Modificado mediante Acuerdo 149/S6(11-VI-2013)]
 
 V. Las que pretendan participar en un procedimiento de adjudicación y previamente hayan realizado o se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, trabajos de dirección, coordinación, supervisión o control, laboratorio de análisis, control de calidad, laboratorio de mecánica de suelos, resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuesto o elaboración de cualquier otro documento, así como asesorías para la licitación de la adjudicación del contrato de la misma adquisición, arrendamiento, servicio u obra pública;
 
@@ -1653,7 +1651,7 @@ VIII. Las que por sí o a través de empresas que formen parte del mismo grupo e
 
 IX. Las demás que por cualquier causa se encuentren impedidas para ello de conformidad con las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 78.
 
@@ -1675,7 +1673,7 @@ Las Areas de Adquisiciones y de Obras deberán inscribir la declaratoria respect
 
 Para tal efecto el Tribunal llevará en forma coordinada con la Suprema Corte de Justicia de la Nación y con el Consejo de la Judicatura Federal un padrón de proveedores o contratistas que hayan incurrido en alguna causa de impedimento, donde se señalen el nombre de la persona física o moral, los periodos y la causa, así como los datos que se consideren relevantes, el que se mantendrá actualizado por los medios de comunicación o de difusión electrónica que se consideren necesarios.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 79.
 
@@ -1693,7 +1691,7 @@ IV. Cuando el participante no entregue la documentación que se señale en la co
 
 V. Cuando las propuestas presentadas no reúnan los requisitos señalados en la convocatoria y bases.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 80.
 
@@ -1713,11 +1711,11 @@ Si derivado de la evaluación de las propuestas se obtuviera un empate en el pre
 
 Los contratos que se celebren a través de adjudicación directa, serán asignados a la persona que ofrezca al Tribunal las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás características pertinentes, previo estudio comparativo de las ofertas que se realice, en el que deberá incluirse el costo por los servicios adicionales que requiere el Tribunal, como son, entre otros, garantías, fletes, instalación y, en algunos casos, capacitación.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO CUARTO. INVITACION A CUANDO MENOS TRES PROVEEDORES O CONTRATISTAS
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 81.
 
@@ -1729,7 +1727,7 @@ I. Cuando el importe de la contratación se ubica dentro del monto de actuación
 
 II. Cuando se lleva a cabo previa autorización del Comité, por actualizarse alguno de los supuestos a que se refiere el artículo 73 del presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 82.
 
@@ -1745,7 +1743,7 @@ Para llevar a cabo la adjudicación correspondiente se deberá contar con un mí
 
 Se considerarán propuestas para evaluar técnicamente, las que cumplan con la valoración de los requisitos legales y contables.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 83.
 
@@ -1755,7 +1753,7 @@ La invitación se acompañará de la información que resulte pertinente en cuan
 
 En caso de que dicha invitación se efectúe por haberse declarado desierta una licitación pública, la información que se acompañe a la misma, podrá ser simplificada por el Area de Adquisiciones de acuerdo a las características, complejidad y magnitud de los trabajos, bienes o servicios, previo acuerdo con el Area Solicitante.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 84.
 
@@ -1773,7 +1771,7 @@ III. Para la apertura de las propuestas, deberá asistir la Contraloría, el Are
 
 IV. Los plazos de presentación de las propuestas se fijarán en cada operación atendiendo a las características, complejidad y magnitud de la contratación.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 85.
 
@@ -1783,7 +1781,7 @@ Para la adjudicación del contrato, el Area de Adquisiciones elaborará un infor
 
 El informe ejecutivo deberá someterse a consideración del Comité, a fin de que realice su valoración formal, y con base en ello, en su caso, autorice el fallo respectivo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 86.
 
@@ -1791,7 +1789,7 @@ NOTIFICACION DEL FALLO DE ADJUDICACION.
 
 Una vez autorizada la adjudicación por el Comité, el Area de Adquisiciones procederá a notificar por escrito el fallo a los participantes.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 87.
 
@@ -1811,11 +1809,11 @@ V. Por razones de interés general.
 
 Una vez declarada desierta la invitación a cuando menos tres proveedores o contratistas, por primera ocasión, el Area de Adquisiciones, procederá a realizar una nueva invitación a cuando menos tres proveedores o contratistas, salvo que existan razones justificadas para proponer una adjudicación directa, lo cual se someterá a la autorización del Comité. En caso de que por segunda ocasión sea declarada desierta la invitación a cuando menos tres proveedores o contratistas, el contrato podrá adjudicarse directamente.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO QUINTO. ADJUDICACION DIRECTA
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 88.
 
@@ -1831,7 +1829,7 @@ III. Que resulte conveniente para los intereses del Tribunal, tratándose de alg
 
 IV. Que la contratación sea urgente debido a caso fortuito o fuerza mayor.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 89.
 
@@ -1839,9 +1837,11 @@ SELECCION DEL PROVEEDOR O CONTRATISTA.
 
 La adjudicación directa que se realice en virtud del monto de actuación, conforme lo previsto en el presente Acuerdo, se llevará a cabo, seleccionando de entre dos cotizaciones cuando menos, al proveedor o contratista, que proponga o garantice las mejores condiciones en términos de calidad, precio, oportunidad y demás condiciones pertinentes.
 
+Cuando la adjudicación directa se efectúe derivada del mantenimiento o reparación de vehículos con características específicas de seguridad, o bien para conservar las garantías que otorguen las proveedoras de éstos vehículos, se podrá adjudicar sin necesidad de contar con dos cotizaciones que se mencionan en el primer párrafo del presente artículo, debiéndose sustentar la racionalidad de los precios. [Modificado mediante Acuerdo 333/S12(10-XII-2013)]
+
 De las operaciones que se celebren al amparo del presente artículo, se deberá presentar un informe trimestral al Comité.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 90.
 
@@ -1849,13 +1849,13 @@ PROCEDIMIENTO PARA LA ADJUDICACION DIRECTA PARA CASOS DE EXCEPCION.
 
 Para la adjudicación directa que se realice tratándose de alguno de los casos de excepción a los que se refiere el artículo 73 de este Acuerdo, se deberá realizar el procedimiento siguiente:
 
-l. El Area de Adquisiciones, con base en la justificación del Area Solicitante, y con la evaluación del área técnica, en su caso, presentará al Comité la propuesta de adjudicación debidamente fundada y motivada, en la que se justifique el supuesto de excepción correspondiente, señalando el monto de la misma, y acompañando, en su caso, el curriculum del proveedor o contratista propuesto y demás condiciones o elementos que considere pertinentes, debiendo sustentar la racionalidad de los precios;
+I. El Area de Adquisiciones, con base en la justificación del Area Solicitante, y con la evaluación del área técnica, en su caso, presentará al Comité la propuesta de adjudicación debidamente fundada y motivada, en la que se justifique el supuesto de excepción correspondiente, señalando el monto de la misma, y acompañando, en su caso, el curriculum del proveedor o contratista propuesto y demás condiciones o elementos que considere pertinentes, debiendo sustentar la racionalidad de los precios;
 
-ll. El Comité, con base en los documentos y demás elementos aportados resolverá lo procedente, y
+II. El Comité, con base en los documentos y demás elementos aportados resolverá lo procedente, y
 
 III. Se procederá a la formalización del contrato o pedido respectivo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 91.
 
@@ -1869,15 +1869,15 @@ II. El Area de Adquisiciones y los Delegados Administrativos presentarán un inf
 
 En estos supuestos no se requerirán dos cotizaciones para la adjudicación correspondiente.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ## TITULO QUINTO. DE LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 92.
 
@@ -1897,7 +1897,7 @@ II. Se considerarán como servicios relacionados con las obras públicas, los tr
 
 2. Los trabajos que tengan por objeto concebir, diseñar y calcular los elementos que integran un proyecto de obra pública; las investigaciones, estudios, asesorías y consultorías que se vinculen con la misma;
 
-3. La planeación, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de ingeniería básica, estructural, de instalaciones, de infraestructura, industrial, electromecánica así como de cualquier otra especialidad de la ingeniería que se requiera para integrar un proyecto ejecutivo de obra pública;
+3.- La planeación, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de ingeniería básica, estructural, de instalaciones, de infraestructura, industrial, electromecánica así como de cualquier otra especialidad de la ingeniería que se requiera para integrar un proyecto ejecutivo de obra pública;
 
 4. Los estudios técnicos y dictámenes parciales o integrales de proyectos ejecutivos;
 
@@ -1911,7 +1911,7 @@ II. Se considerarán como servicios relacionados con las obras públicas, los tr
 
 9. Todos aquellos análogos a los antes enunciados.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 93.
 
@@ -1921,7 +1921,7 @@ En materia de obra pública, cuando el monto sea superior al correspondiente a u
 
 Asimismo, se deberá prever cuando así proceda la obligación de los contratistas de adquirir una póliza de seguro de responsabilidad civil.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 94.
 
@@ -1931,7 +1931,7 @@ El Area de Obras, así como los contratistas, observarán las disposiciones que 
 
 Cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, así como la propiedad o los derechos de propiedad, incluyendo derechos de vía, sobre los cuales se ejecutarán las obras públicas. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 95.
 
@@ -1945,11 +1945,11 @@ II. Se trate de trabajos que no estén incluidos en los alcances del contrato ni
 
 III. Se trate de trabajos en los que sea posible determinar los volúmenes, cantidades, costos y alcances de los mismos.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 96.
 
-DE LOS CONTRATOS POR TRABAJOS EXTRAORDINARIOS.
+JUSTIFICACION DE LOS CONTRATOS POR TRABAJOS EXTRAORDINARIOS.
 
 Para que sea factible el reconocimiento de los trabajos extraordinarios no considerados en los alcances de los contratos a que se refiere el artículo anterior, la contratación de los mismos por el Tribunal, procederá siempre y cuando:
 
@@ -1959,7 +1959,7 @@ II. Que dichos trabajos se formalicen mediante el convenio modificatorio al cont
 
 El pago de los trabajos relativos quedará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 97.
 
@@ -1977,7 +1977,7 @@ III. El importe del anticipo deberá ser considerado obligatoriamente por los li
 
 Cuando los trabajos rebasen más de un ejercicio presupuestario, y se inicien en el último trimestre del primer ejercicio y el anticipo resulte insuficiente, el Tribunal podrá otorgar como anticipo hasta el monto total de la asignación autorizada al contrato respectivo durante el primer ejercicio, vigilando que se cuente con la suficiencia presupuestaria para el pago de la obra por ejecutar en el ejercicio de que se trate. Siempre y cuando no rebase el 30% del valor del contrato.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 98.
 
@@ -1987,7 +1987,7 @@ La ejecución de los trabajos deberá iniciarse en la fecha señalada en el cont
 
 Previo a la ejecución de los trabajos, se establecerán, según sea el caso, a los responsables de la ejecución de los trabajos en materia de obra pública y servicios relacionados con la misma, que serán la supervisión interna de obra, la supervisión técnica externa y el superintendente de construcción.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 99.
 
@@ -2017,7 +2017,7 @@ IX. Solicitar y en su caso tramitar los convenios modificatorios necesarios;
 
 X. Rendir informes periódicos, así como un informe final sobre el cumplimiento del contratista en los aspectos legales, técnicos, económicos, financieros y administrativos;
 
-XI. Preparar para su autorización y firma el finiquito del contrato;
+XI. Preparar para su autorización y firma (sic) el finiquito del contrato;
 
 XII. Verificar la correcta conclusión de los trabajos, debiendo vigilar que la unidad que deba operar la obra, reciba oportunamente el inmueble en condiciones de operación, los planos correspondientes a la construcción final de la obra ejecutada, así como los manuales e instructivos de operación y mantenimiento; así como los certificados de garantía de calidad y funcionamiento de los bienes instalados;
 
@@ -2025,7 +2025,7 @@ XIII. Cuando exista la necesidad de realizar cambios al proyecto, a sus especifi
 
 XIV. Las demás funciones que le señale el Area de Obras o la instancia competente del Tribunal.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 100.
 
@@ -2037,7 +2037,7 @@ Los contratos de supervisión con terceros, deberán ajustarse a los lineamiento
 
 Las funciones de la supervisión externa iniciarán previamente a la ejecución de la obra, y deberán ser establecidas en los contratos que se suscriban, de acuerdo a los términos de referencia de cada procedimiento de adjudicación, que en todos los casos formarán parte de aquéllos.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 101.
 
@@ -2047,7 +2047,7 @@ El superintendente de construcción, en caso de que así se requiera por la comp
 
 El Tribunal podrá reservarse el derecho de solicitar en cualquier momento, por causas justificadas, la sustitución del superintendente de construcción designado, teniendo la obligación el contratista de nombrar otro que reúna los requisitos exigidos.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 102.
 
@@ -2111,7 +2111,7 @@ b. El medio de identificación electrónica, y
 
 c. La certificación del medio de identificación electrónica.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 103.
 
@@ -2119,7 +2119,7 @@ SUJECION DEL CONTRATISTA A LA NORMATIVIDAD EN MATERIA DE CONSTRUCCION.
 
 El contratista será el único responsable de la ejecución de los trabajos y debiendo sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección ecológica y de medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto le señale el Tribunal. Las responsabilidades, los daños y perjuicios que resultaren por su inobservancia serán a cargo del contratista.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 104.
 
@@ -2129,7 +2129,7 @@ Las estimaciones de los trabajos ejecutados se formularán preferentemente con u
 
 Las estimaciones por trabajos ejecutados deberán pagarse por parte del Tribunal, cuando éstas hayan sido aprobadas por la supervisión interna.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 105.
 
@@ -2137,7 +2137,7 @@ RED DE ACTIVIDADES Y RUTA CRITICA
 
 Para la medición y pago de los trabajos, se deberá utilizar la red de actividades con ruta crítica, cédulas de avances, de pagos programados y el programa de ejecución de los trabajos, los que deben ser congruentes y complementarios entre sí.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 106.
 
@@ -2147,7 +2147,7 @@ En el programa de ejecución de los trabajos, el contratista deberá desglosar l
 
 Para efecto de seguimiento y control de los trabajos, las actividades principales de obra podrán desglosarse en sub-actividades, las que no deberán afectar la estructura de la red de actividades ni las cantidades y costos indicados en las cédulas de avances y de pagos programados que sirvieron de base para adjudicar el contrato respectivo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 107.
 
@@ -2157,7 +2157,7 @@ El desglose de actividades deberá ser de tal forma que se puedan evaluar objeti
 
 Cuando durante la ejecución de los trabajos se detecten desviaciones que no afecten el costo o el plazo de los trabajos pactados en el contrato, se podrá realizar una revisión a la red de actividades para estructurar las medidas correctivas que permitan el cumplimiento del contrato.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 108.
 
@@ -2167,7 +2167,7 @@ Para efectos de medición y pago de los trabajos contratados, el Tribunal reprog
 
 Cuando los trabajos ejecutados no correspondan a los alcances, la cantidad o los volúmenes requeridos en las bases de licitación, en las especificaciones del contrato o en la propuesta del contratista adjudicado, el Tribunal realizará descuentos o deductivas al monto inicialmente convenido en el contrato original.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 109.
 
@@ -2181,7 +2181,7 @@ De existir desacuerdo entre las partes respecto al finiquito, o bien, el contrat
 
 Determinado el saldo total, el Tribunal pondrá a disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los importes resultantes; debiendo, en forma simultánea, levantar el acta administrativa que dé por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 110.
 
@@ -2189,7 +2189,7 @@ VIGILANCIA DE LA DOCUMENTACION TECNICA.
 
 Una vez concluida la obra o parte utilizable de la misma, cuando así se haya previsto en el contrato, el Area de Obras vigilará que la unidad que debe operarla reciba oportunamente el inmueble en condiciones de operación, los planos correspondientes a la construcción final, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación y mantenimiento correspondientes y los certificados de garantía de calidad y funcionamiento de los bienes instalados.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 111.
 
@@ -2199,7 +2199,7 @@ Una vez elaborado el finiquito de los trabajos, el Tribunal dará por concluido 
 
 El Area de Obras, para dar por concluidos, parcial o totalmente, los derechos y obligaciones asumidos por las partes en los contratos, deberá elaborar el finiquito correspondiente, anexando el acta de recepción física de los trabajos.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 112.
 
@@ -2229,7 +2229,7 @@ X. La declaración, en su caso, de que el contratista extiende el más amplio fi
 
 Cuando la liquidación de los saldos se realice dentro de los quince días naturales siguientes a la firma del finiquito, el documento donde conste el finiquito podrá utilizarse como el acta administrativa que da por extinguidos los derechos y obligaciones, de las partes en el contrato, debiendo agregar únicamente una manifestación de las partes de que no existen otros adeudos y, por lo tanto, se darán por extinguidos los derechos y obligaciones que generó el contrato respectivo, sin derecho a ulterior reclamación al no ser factible el pago indicado y se procederá a elaborar el acta administrativa prevista en el último párrafo del artículo 109 de este Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 113.
 
@@ -2239,7 +2239,7 @@ Si del finiquito resulta que existen saldos a favor del contratista, el Tribunal
 
 Si del finiquito resulta que existen saldos a favor del Tribunal, su importe se deducirá de las cantidades pendientes por cubrir por concepto de trabajos ejecutados o entregados y si no fueran suficientes éstos, deberá exigirse su reintegro. En caso de no obtenerse reintegro, el Tribunal podrá hacer efectivas las garantías que se encuentren vigentes. El finiquito se considera como un documento base de la acción para exigir el pago de las cantidades pendientes por cubrir a favor del Tribunal.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 114.
 
@@ -2253,7 +2253,7 @@ De existir retenciones a la fecha de terminación de los trabajos pactados en el
 
 Cuando se celebren convenios que modifiquen el programa de ejecución original, las retenciones económicas o pena convencional, se calcularán considerando las condiciones establecidas en el nuevo programa convenido.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 115.
 
@@ -2261,7 +2261,7 @@ PAGO DE LA SUPERVISION EN CASO DE INCUMPLIMIENTO EN PLAZO.
 
 Cuando la contratista, por causas imputables a ella misma, exceda el plazo estipulado en el contrato de obra pública deberá cubrir el importe diario de la supervisión externa que haya contratado el Tribunal, de acuerdo a los precios autorizados y respetando la forma de pago pactada para dicha supervisión, durante la ejecución de los trabajos o en el periodo de finiquito.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 116.
 
@@ -2275,15 +2275,15 @@ En ambos casos, la deductiva se hará efectiva en el siguiente pago, estimación
 
 Lo anterior, sin perjuicio de aplicar las penas convencionales que procedan y/o en su caso, hacer efectiva la garantía correspondiente.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ## TITULO SEXTO. DE LOS CONTRATOS
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO PRIMERO. DE LA FORMALIZACION Y TIPOS DE CONTRATOS
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 117.
 
@@ -2295,7 +2295,7 @@ El contrato se formalizará a través del documento en el que se hará constar e
 
 Corresponderá al Area Jurídica la elaboración y actualización de los modelos de contrato que deban celebrarse en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, para ser sometidos a la aprobación del Comité, en los términos del artículo 18, fracción V, de este Acuerdo; asimismo le corresponderá emitir el dictamen respecto de los modelos de pedidos así como de ordenes de servicios, de trabajo y órdenes de compra que ponga a su consideración la Coordinación de Adquisiciones.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 118.
 
@@ -2303,15 +2303,15 @@ CONTRATOS ABIERTOS.
 
 Para los casos de adquisiciones, arrendamientos y prestación de servicios en que no sea posible precisar con exactitud los conceptos y cantidades materia de la contratación, se podrán celebrar contratos abiertos conforme a lo siguiente:
 
-l. Se establecerá la cantidad mínima y máxima de bienes por adquirir, arrendar o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición o el arrendamiento, en el caso de servicios, se establecerá el plazo mínimo y máximo para la prestación, o el presupuesto mínimo y máximo que podrá ejercerse;
+I. Se establecerá la cantidad mínima y máxima de bienes por adquirir, arrendar o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición o el arrendamiento, en el caso de servicios, se establecerá el plazo mínimo y máximo para la prestación, o el presupuesto mínimo y máximo que podrá ejercerse;
 
-ll. Se hará una relación con la descripción completa de los bienes o servicios, incluyendo sus correspondientes precios unitarios;
+II. Se hará una relación con la descripción completa de los bienes o servicios, incluyendo sus correspondientes precios unitarios;
 
 III. Su vigencia no excederá del ejercicio presupuestal correspondiente a aquel en que se suscriban, salvo que se obtenga autorización por la Comisión; y
 
 IV. En los contratos se establecerá la periodicidad con que se efectuará el pago de los bienes entregados o de los servicios prestados.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 119.
 
@@ -2347,7 +2347,7 @@ XII. Plazos para la verificación de la terminación de la obra y de elaboració
 
 XIII. Procedimiento para resolver discrepancias sobre problemas de carácter técnico y administrativo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 120.
 
@@ -2367,7 +2367,7 @@ d. Los derechos y obligaciones que deriven de los contratos, no podrán cederse 
 
 e. En aquellas adjudicaciones en las que a juicio del Area de Adquisiciones o del Area de Obras resulte necesario elaborar un contrato, por la complejidad técnica y monto de la operación, dicho instrumento se elaborará conforme a los modelos tipo aprobados por el Comité. En caso contrario, podrá optarse por formalizar la adjudicación mediante un pedido o una orden de servicio o de trabajo, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 121.
 
@@ -2407,7 +2407,7 @@ En ningún caso se podrán hacer modificaciones en los contratos que impliquen v
 
 Cualquier modificación a los contratos deberá formalizarse por escrito mediante convenio. En el caso de pedidos, órdenes de servicio o de trabajo, mediante la suscripción de un adéndum, en los términos previstos en el presente Acuerdo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 122.
 
@@ -2415,7 +2415,7 @@ LIMITE DE LAS MODIFICACIONES
 
 Las modificaciones a los contratos que señala el artículo anterior, en ningún caso se podrán efectuar modificaciones que sumadas al monto total del contrato originalmente celebrado, superen los montos de actuación que dieron origen al procedimiento de contratación en virtud del cual se adjudicó el mismo; en caso contrario se deberá obtener autorización del Comité.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 123.
 
@@ -2427,7 +2427,7 @@ Tratándose de contrataciones de adquisiciones, los anticipos se otorgarán úni
 
 Una vez que se determine otorgar anticipo, deberá establecerse en las bases de la licitación o en la invitación a participar, a fin de que los interesados tomen en cuenta dicha circunstancia para la elaboración de la propuesta.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 124.
 
@@ -2437,7 +2437,7 @@ El anticipo será amortizado con cada pago que se realice al proveedor o contrat
 
 Para el caso de obra pública, la amortización deberá efectuarse proporcionalmente con cargo a cada una de las estimaciones por trabajos ejecutados que se formulen, durante el ejercicio en que se otorgue, acompañadas de la documentación que acredite su procedencia, debiéndose liquidar el saldo por amortizar con la firma del finiquito.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 125.
 
@@ -2449,7 +2449,7 @@ No se considerará pago en exceso cuando las diferencias que resulten a cargo de
 
 En caso de rescisión o terminación anticipada del contrato, el proveedor o contratista deberá reintegrar el anticipo y, en su caso, los pagos que haya recibido de más, así como los intereses correspondientes calculados conforme a lo indicado con anterioridad. Los intereses se calcularán sobre el monto del anticipo no amortizado y pagos efectuados se computarán por días naturales desde la fecha de su entrega hasta la fecha en que se pongan efectivamente las cantidades a disposición del Tribunal.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 126.
 
@@ -2463,7 +2463,7 @@ El aumento o reducción correspondiente deberá constar por escrito, mediante co
 
 En las contrataciones plurianuales materia de este acuerdo, el Comité podrá autorizar formulas de modificación de precios conforme a los índices nacionales e internacionales aplicables, a propuesta del Area de Adquisiciones.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 127.
 
@@ -2475,11 +2475,11 @@ En el caso de la recepción de los servicios prestados, será responsabilidad de
 
 El Area de Adquisiciones cuando considere necesario podrá solicitar la validación del área técnica correspondiente.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO SEGUNDO. DE LAS GARANTIAS
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 128.
 
@@ -2489,7 +2489,7 @@ En las contrataciones que se realicen en el Tribunal en las materias objeto del 
 
 Dichas garantías podrán constituirse mediante fianza otorgada por institución debidamente autorizada, depósito en efectivo en la cuenta que se señale por el Tribunal, o por cualquier otro medio para garantizar las obligaciones del contrato.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 129.
 
@@ -2497,7 +2497,7 @@ DICTAMEN DE ASUNTOS JURIDICOS.
 
 Las garantías a que se refiere este capítulo, deberán contar invariablemente con el dictamen del Area Jurídica, sobre los requisitos legales y su validez.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 130.
 
@@ -2511,7 +2511,7 @@ La garantía deberá permanecer vigente hasta el cumplimiento total del objeto d
 
 El Comité, el Secretario Administrativo y el Coordinador de Adquisiciones podrán exentar la presentación de la garantía de cumplimiento, en las contrataciones que respectivamente autoricen, previo dictamen de justificación del Area Solicitante.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 131.
 
@@ -2527,7 +2527,7 @@ De no haber surgido responsabilidad a cargo del proveedor al término de la vige
 
 En materia de obra pública, la garantía que se otorgue permanecerá vigente hasta la debida amortización del anticipo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 132.
 
@@ -2543,7 +2543,7 @@ Quedarán a salvo los derechos del Tribunal para exigir el pago de las cantidade
 
 Esta garantía deberá ser entregada al momento de suscribir el acta de entrega-recepción correspondiente.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 133.
 
@@ -2551,7 +2551,7 @@ PENA CONVENCIONAL.
 
 El incumplimiento de cualquiera de las obligaciones adquiridas por parte del proveedor o contratista, siempre y cuando no se hubiere establecido la obligación de presentar garantía de cumplimiento, dará lugar a la imposición de una pena convencional del diez por ciento del monto total del instrumento jurídico que corresponda.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 134.
 
@@ -2561,7 +2561,7 @@ En el caso de que el proveedor o contratista no entregue los bienes, preste los 
 
 El importe que resulte de la pena por atraso se descontará del pago que se le deba realizar al proveedor o contratista.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 135.
 
@@ -2569,7 +2569,7 @@ COBRO DE LA GARANTIA POR INCUMPLIMIENTO.
 
 Cuando el Area Solicitante determine que existe incumplimiento imputable al proveedor o contratista, deberá gestionar ante el Area Jurídica que se haga efectiva la garantía de cumplimiento de las obligaciones derivadas del contrato; sin perjuicio de las demás acciones legales que estos determinen.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 136.
 
@@ -2577,11 +2577,11 @@ COBRO DE LA GARANTIA DE ANTICIPO.
 
 En caso de que se haya otorgado anticipo al proveedor o contratista y que no sea debidamente amortizado o reintegrado al Tribunal, el Area Solicitante o el Area de Obras deberá gestionar ante el Area Jurídica que se haga efectiva la garantía, sin perjuicio de las demás acciones legales que estos determinen.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO TERCERO. TERMINACION Y SUSPENSION DE LOS CONTRATOS
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 137.
 
@@ -2589,9 +2589,9 @@ SUPUESTOS DE TERMINACION DE CONTRATOS.
 
 Los contratos celebrados en la materia objeto del presente Acuerdo podrán darse por terminados, sin responsabilidad para el Tribunal, en los siguientes supuestos:
 
-l. Por cumplimiento de su objeto;
+I. Por cumplimiento de su objeto;
 
-ll. Por rescisión;
+II. Por rescisión;
 
 III. Por caso fortuito o fuerza mayor;
 
@@ -2599,7 +2599,7 @@ IV. Por razones de orden público o de interés general, y
 
 V. Por mutuo consentimiento.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 138.
 
@@ -2607,7 +2607,7 @@ TERMINACION DE CONTRATOS POR CUMPLIMIENTO DEL OBJETO.
 
 Se tendrán por terminados los contratos por cumplimiento de su objeto cuando se hayan satisfecho totalmente las obligaciones derivadas de ellos, o en su caso, al tratarse de contratos en los que se presten servicios por un periodo determinado, haya transcurrido el plazo de su vigencia.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 139.
 
@@ -2617,7 +2617,7 @@ De considerarse un posible incumplimiento a cualquiera de las obligaciones a car
 
 Hecho lo anterior, se presentará al Comité el proyecto de resolución respectivo
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 140.
 
@@ -2627,7 +2627,7 @@ En caso de que el Comité determine la procedencia de la rescisión administrati
 
 La resolución de rescisión deberá ser comunicada al proveedor o contratista, dentro del término de 10 días hábiles contados a partir de su emisión.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 141.
 
@@ -2639,7 +2639,7 @@ En el supuesto de que el proveedor o contratista solicite la terminación deber�
 
 Cuando la terminación del contrato sea por parte del Tribunal, no deberá realizar pago alguno por concepto de gastos no recuperables.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 142.
 
@@ -2647,7 +2647,7 @@ TERMINACION POR CAUSAS JUSTIFICADAS, DE ORDEN PUBLICO O DE INTERES GENERAL.
 
 El Tribunal previa aprobación de su Comité podrá dar por terminados los contratos anticipadamente por razones justificadas, de orden público o de interés general.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 143.
 
@@ -2655,7 +2655,7 @@ EFECTOS DE LA TERMINACION.
 
 De actualizarse el supuesto de los dos artículos anteriores, bastará para ello una comunicación que dirija por escrito en este sentido al proveedor o contratista, sin más responsabilidad para el Tribunal que la de cubrir el importe de los bienes entregados, servicios prestados o trabajos que efectivamente haya ejecutado hasta ese momento.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 144.
 
@@ -2667,11 +2667,11 @@ Para tal efecto, las Areas Solicitantes elaborarán un informe que contenga la f
 
 Unicamente podrá darse por terminado el contrato en los términos del presente artículo en caso de que el proveedor o contratista no haya incurrido en alguna causal de incumplimiento.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO CUARTO. DE LA SUSPENSION DE LOS EFECTOS DE LOS CONTRATOS
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 145.
 
@@ -2691,7 +2691,7 @@ La suspensión se deberá comunicar por escrito a los proveedores y contratistas
 
 En caso de que la suspensión esté ligada a un hecho de realización cierta, pero de fecha indeterminada, el periodo de la suspensión estará sujeto a la actualización de ese evento, sin perjuicio de que se pueda optar por la terminación anticipada.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 146.
 
@@ -2711,7 +2711,7 @@ V. El plazo de la suspensión.
 
 En materia de obra pública si durante la vigencia del contrato existen suspensiones de los trabajos cuyos periodos sean reducidos y difíciles de cuantificar, las partes podrán acordar que los periodos sean agrupados y formalizados mediante la suscripción de una sola acta circunstanciada o registrarlos en la bitácora.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 147.
 
@@ -2721,7 +2721,7 @@ Los proveedores o contratistas podrán solicitar al Tribunal la terminación ant
 
 Al respecto, el Area Solicitante efectuará el análisis correspondiente y emitirá un informe que deberá contener la opinión del Area Jurídica, el cual presentará al Comité para su aprobación.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 148.
 
@@ -2729,23 +2729,23 @@ RESCISION Y TERMINACION ANTICIPADA DE CONTRATOS CON SALDO PENDIENTE DE AMORTIZAR
 
 En los casos de rescisión o terminación anticipada de contratos en que se otorgo anticipo, el saldo pendiente de amortizar se reintegrará al Tribunal en un plazo no mayor de quince días hábiles, contados a partir de la fecha en que le sea comunicada la rescisión o terminación al proveedor o contratista; en caso contrario, se hará efectiva la garantía presentada para la debida inversión del anticipo.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ## TITULO SEPTIMO. INCONFORMIDAD
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
-###### Artículo 149.
+###### ARTÍCULO 149.
 
 DE LA INCONFORMIDAD.
 
 La Contraloría conocerá de las inconformidades que se promuevan contra los actos de los procedimientos de licitación pública o invitación a cuando menos tres proveedores o contratistas que se indican a continuación:
 
-I. En la licitación pública procederá en contra de:
+I. En la licitación publica procederá en contra de:
 
 a.- La convocatoria a la licitación;
 
@@ -2771,7 +2771,7 @@ En los casos en que se trate de licitantes que hayan presentado propuestas conju
 
 Transcurrido el plazo indicado, prescribe para los interesados el derecho de inconformarse, sin perjuicio de que la Contraloría pueda actuar en cualquier tiempo en términos de ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 150.
 
@@ -2801,9 +2801,9 @@ Cuando se trate de participantes que hayan presentado propuesta conjunta, deber�
 
 5. Los hechos o abstenciones que constituyan los antecedentes del o los actos impugnados, y los motivos de inconformidad.
 
-La Contraloría prevendrá al promovente cuando hubiere omitido alguno de los requisitos señalados en las fracciones 1 y 2 de este artículo, a fin de que subsane dichas omisiones, apercibiéndole que en caso de no hacerlo en el plazo de dos días hábiles se desechará su inconformidad,
+La Contraloría prevendrá al promovente cuando hubiere omitido alguno de los requisitos señalados en las fracciones 1 y 2 de este artículo, a fin de que subsane dichas omisiones, apercibiéndole que en caso de no hacerlo en el plazo de dos días hábiles se desechará su inconformidad, (sic)
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 151.
 
@@ -2811,7 +2811,7 @@ DICTAMEN DE CONTRALORIA.
 
 Presentada la inconformidad, la Contraloría solicitará un informe a la Coordinación de Adquisiciones, en caso de ser necesario, también requerirá un informe al área solicitante respecto de los hechos materia de la inconformidad y al cual se deberá acompañar la documentación soporte. Dicho informe deberá ser rendido dentro de los cinco días hábiles siguientes a la recepción de la solicitud correspondiente. La Contraloría, dentro de un plazo que no excederá de cinco días hábiles siguientes a la recepción del informe emitirá un dictamen que contenga su opinión respecto de los hechos materia de la inconformidad. Dicho dictamen se presentará a la Comisión a fin de que resuelva lo procedente.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 152.
 
@@ -2823,7 +2823,7 @@ El promovente de una inconformidad podrá solicitar la suspensión, misma que se
 
 Cuando el inconforme sea quien solicite la suspensión, la Contraloría podrá exigir que se otorgue fianza por el monto que fije ésta, tomando en cuenta los posibles daños y perjuicios que pudiera causar al Tribunal o al tercero perjudicado, quien a su vez podrá otorgar contrafianza por el mismo monto de la fianza, en cuyo caso quedará sin efectos la suspensión.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 153.
 
@@ -2852,3 +2852,7 @@ SEGUNDO. Para su mayor difusión publíquese en la página de Internet del Tribu
 TERCERO. Se instruye a la Secretaría de la Comisión de Administración para que certifique la propuesta de modificación y se remita a la Coordinación de Asuntos Jurídicos para su publicación.
 
 CUARTO. Se derogan aquellas disposiciones que contravengan al presente Acuerdo.
+
+D.O.F. 13 DE ENERO DE 2014.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.
