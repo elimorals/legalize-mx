@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2013-12-20"
+last_updated: "2014-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -60,6 +60,10 @@ Los tres años de ejercicio constitucional se considerarán de trabajo legislati
 ###### Artículo 3.
 
 (Personalidad) La Legislatura del Estado cuenta con personalidad jurídica y patrimonio propios; dispondrá del personal y los recursos financieros y materiales necesarios para el eficiente desempeño de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
+
+El Poder Legislativo del Estado, con el voto de la mayoría calificada de sus integrantes, podrá celebrar los contratos de corto, mediano y largo plazo, necesarios para el desarrollo de proyectos de infraestructura propia y contratación de servicios integrales, exclusivamente encaminados a las actividades inherentes al Poder Legislativo del Estado de Querétaro. Los contratos que se celebren con esta finalidad podrán tener vigencia anual o plurianual, y podrán celebrarse mediante la utilización de cualquier tipo de contrato o instrumento de adquisición, enajenación, arrendamiento, obra pública, prestación de servicios o proyecto de inversión, incluyendo cualquier tipo de empréstitos, arrendamientos financieros, fideicomisos o crédito en sus diversas modalidades.
 
 ###### Artículo 4.
 
@@ -2152,3 +2156,9 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día de su apr
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 13 DE ENERO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", con excepción de la Ley Orgánica del Poder Legislativo del Estado de Querétaro y del Reglamento del Poder Legislativo para la aplicación de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, cuya aprobación iniciará a partir del día de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
