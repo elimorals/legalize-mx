@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2013-12-30"
+last_updated: "2014-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -641,11 +643,11 @@ El Cabildo podrá ordenar la comparecencia de cualquier funcionario de la admini
 
 Dichos servidores públicos rendirán los informes solicitados y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes del caso cuando así lo amerite.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 38.
 
-El Secretario del H. Ayuntamiento deberá estar presente durante la celebración de las sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en las mismas, pudiendo expedir certificaciones de los acuerdos asentados en el libro de actas. Las faltas temporales del Secretario del H. Ayuntamiento serán suplidas por el Subsecretario del H. Ayuntamiento o, en su defecto, por el Director de Asuntos Jurídicos de la Dirección General de Gobierno.
+El Secretario del H. Ayuntamiento deberá estar presente durante la celebración de las Sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en las mismas, pudiendo expedir certificaciones de los acuerdos asentados en el libro de actas. Las faltas temporales del Secretario del H. Ayuntamiento serán suplidas por el Director de Asuntos Jurídicos del H. Ayuntamiento.
 
 ###### ARTÍCULO 39.
 
@@ -853,6 +855,8 @@ En todo lo no previsto en este Código, se recurrirá a las disposiciones de la 
 
 ### CAPÍTULO IX. De las Comisiones
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 82.
 
 El Cabildo nombrará las Comisiones permanentes que tendrán la obligación de vigilar el ramo de la administración que se les encomiende y serán las siguientes:
@@ -863,11 +867,7 @@ I. Gobernación.
 
 II. Hacienda.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
 III. Seguridad Pública.
-
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2008)</small>
 
 IV. Comisión de Desarrollo Social.
 
@@ -879,35 +879,23 @@ VII. Agua Potable, Alcantarillado y Saneamiento.
 
 VIII. Obras Públicas.
 
-IX. Mercados, Rastros y Estacionamientos.
+IX. Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos.
 
-X. Control Reglamentario y Espectáculos.
+X. Alumbrado y limpia.
 
-XI. Alumbrado y Limpia.
+XI. Cultura;
 
-XII. Educación y Cultura.
+XII. Ecología, Parques, Jardines y Panteones.
 
-XIII. Ecología.
+XIII. Educación, Juventud y Deporte.
 
-XIV. Parques, Jardines y Panteones.
+XIV. Igualdad y Género
 
-XV. Juventud y Deporte.
+XV. Derechos Humanos
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+XVI. Todas que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
-XVI. Igualdad y Género.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2011)</small>
-
-XVII.- Derechos Humanos.
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
-
-XVIII.- Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-SÍNDICOS
+Síndicos.
 
 I. Procurador.
 
@@ -1023,7 +1011,9 @@ Secretaría Particular;
 
 Oficina Ejecutiva del Presidente Municipal;
 
-Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal;
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+
+Secretariado Técnico del Consejo de la Ciudad;
 
 Comité Municipal para el Desarrollo Integral de la Familia;
 
@@ -1041,7 +1031,9 @@ Secretaría de Obras Públicas;
 
 Secretaría de Administración;
 
-Secretaría de Integración Social;
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+
+Secretaría de Desarrollo Social;
 
 Secretaría de Desarrollo Urbano;
 
@@ -1059,531 +1051,639 @@ Asistente del C. Presidente
 
 Secretario Privado del C. Presidente
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 II.- SECRETARÍA PARTICULAR
-
-Departamento de Relaciones Públicas
-
-Coordinador de Oficina
-
-Coordinación Administrativa
 
 Dirección de Atención Institucional
 
-Departamento de Giras y Eventos
+Departamento de Relaciones Públicas
 
 Departamento de Atención a la Ciudadanía
 
-Dirección de Análisis y Seguimiento de Información
+Departamento de Giras y Eventos
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 III.- OFICINA EJECUTIVA DEL PRESIDENTE MUNICIPAL
 
+Coordinación General de Proyectos Estratégicos.
+
+Dirección de Vinculación Y Convivencia Ciudadana.
+
+Coordinación de Asuntos Religiosos.
+
+Departamento de Vinculación.
+
+Dirección de Estrategia Institucional.
+
+Departamento de Gestión de Proyectos.
+
+Departamento de Seguimiento de Gabinetes Temáticos.
+
+Dirección de Evaluación y Seguimiento.
+
+Departamento de Evaluación Programática e Institucional.
+
+Departamento de Seguimiento de Proyectos de Inversión.
+
+Coordinación General de Política Hacendaria.
+
+Director de Políticas Financieras.
+
+Departamento de Seguimiento a Convenios.
+
 Dirección de Estrategia y Análisis Político
 
-Dirección de Estudios de Opinión
+Departamento de Análisis Político.
 
-Coordinación de Vinculación para la Convivencia Ciudadana
+Departamento de Estudios de Opinión.
 
-Dirección de Vinculación y Operación
+Departamento de Estrategia e Información.
 
-Departamento de Ejecución y Seguimiento
+Dirección de Cooperación, Financiamiento y Asuntos Internacionales.
 
-Dirección de Planeación y Estrategia
+Departamento de Enlace Internacional.
 
-Coordinación de Cooperación, Financiamiento y Asuntos Internacionales
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-Dirección de Enlace Internacional
+IV.- SECRETARIADO TÉCNICO DEL CONSEJO DE LA CIUDAD;
 
-Departamento de Gestión de Proyectos
+Departamento de Capacitación
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+Departamento de Enlaces Ciudadanos
 
-IV.- COORDINACIÓN GENERAL DE OBSERVATORIO CIUDADANO DE TRANSPARENCIA Y GESTIÓN MUNICIPAL
-
-Dirección Administrativa
-
-Departamento Administrativo
-
-Departamento de Difusión e Informática
-
-Dirección Operativa
-
-Departamento de Transparencia
-
-Departamento de Vinculación Ciudadana
-
-Departamento de Evaluación de la Calidad de la Gestión Municipal
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 V.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-Presidenta del Sistema D.I.F. Municipal
+Presidenta del Sistema D.I.F. Municipal.
 
-Coordinación Operativa General del Voluntariado
+Coordinación Operativa General de Voluntariado.
 
-VI.- DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-Departamento Jurídico
+VI.- DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA:
 
-Departamento de Comunicación Social
+Departamento Jurídico.
 
-Departamento de Trabajo Social
+Departamento de Comunicación Social.
 
-Coordinación Administrativa
+Departamento de Trabajo Social y Atención a personas con discapacidad.
 
-Departamento de Compras
+Dirección Administrativa.
 
-Departamento de Almacén
+Departamento de Recursos Materiales.
 
-Departamento de Recursos Humanos
+Departamento de Recursos Humanos.
 
-Dirección de Programas Institucionales
+Dirección de Programas Institucionales.
 
-Coordinadora de la Unidad de Salud Integral
+Departamento de Servicios Médicos.
 
-Departamento de Servicios Médicos
+Departamento de Salud Mental.
 
-Departamento de Salud Mental
+Dirección de Desarrollo Familiar Comunitario.
 
-Dirección de Desarrollo Familiar y Comunitario
+Departamento de Atención a Adultos Mayores.
 
-Departamento de Atención a Adultos Mayores
+Departamento de Atención a la Juventud.
 
-Departamento de Atención a la Juventud
+Departamento de Desarrollo Infantil.
 
-Departamento de Desarrollo Infantil
+Coordinación de CEDECOS.
 
-Coordinación de CEDECOS
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 VII.- COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
-Enlace de Comunicación
+Departamento de Producción Gráfica.
 
-Coordinación Administrativa
+Departamento de Comunicación Digital.
 
-Departamento de Producción Gráfica
+Departamento de Información.
 
-Departamento de Comunicación Digital
+Departamento de Difusión.
 
-Departamento de Información
+Departamento de Análisis y Síntesis.
 
-Departamento de Difusión
-
-Departamento de Análisis y Síntesis
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 VIII.- CONTRALORÍA MUNICIPAL
 
-Coordinación Jurídica
+Coordinación Jurídica.
 
-Dirección de Auditoria Operacional y de Gestión
+Coordinación de Atención Ciudadana y Quejas.
 
-Departamento de Control de Procesos
+Dirección de Auditoría Operacional y de Gestión.
 
-Departamento de Revisión al Ejercicio de Recursos Federales y Municipales
+Departamento de Control de Procesos.
 
-Departamento de Auditoria de Información Contable
+Departamento de Revisión al Ejercicio de Recursos Federales y Municipales.
 
-Dirección de Auditoria de Obra Pública
+Departamento de Auditoría de Información Contable.
 
-Departamento de Evaluación a Obras Públicas
+Dirección de Auditoría de Obra Pública.
 
-Departamento de Evaluación a Servicios Públicos
+Departamento de Evaluación a Obras Públicas.
+
+Departamento de Evaluación a Servicios Públicos.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
-Secretario Particular
+Asistente Administrativo
 
-Departamento de la Junta Municipal de Reclutamiento
+Departamento de la Junta Municipal de Reclutamiento.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+Departamento Administrativo de Regidores.
 
-Coordinación Administrativa
+Coordinación de Asuntos de Cabildo.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+Dirección de Asuntos Internos de Seguridad Pública y Tránsito.
 
-Unidad Administrativa de Regidores
+Departamento de Procedimientos, Registro y Estadística.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+Departamento de Investigación y Control de Confianza.
 
-Coordinación de Asuntos de Cabildo
+Dirección de Asuntos Jurídicos.
 
-Dirección de Asuntos Internos de Seguridad Pública y Tránsito
+Coordinación Jurídica de lo Contencioso.
 
-Departamento de Procedimientos, Registro y Estadística
+Coordinación Jurídico-Legislativa.
 
-Departamento de Investigación y Control de Confianza
+Departamento de Asuntos de Honor y Justicia.
 
-Dirección de Asuntos Jurídicos
+Dirección de Justicia Municipal.
 
-Coordinación Jurídica de lo Contencioso
+Departamento de Servicios Médicos, Psicología y Trabajo Social.
 
-Coordinación Jurídico-Legislativa
+Dirección de Reglamentos.
 
-Coordinación de Asuntos de Honor y Justicia
+Coordinación de Licencias.
 
-Dirección de Justicia Municipal
+Coordinación de Verificación.
 
-Departamento de Servicios Médicos, Psicología y Trabajo Social
+Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+Departamento de Mercados y Estacionamientos.
 
-Coordinación General de Verificación Única Administrativa
+Departamento de Áreas Comerciales.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias.
 
-Coordinación Territorial
+Departamento de Inspección y Capacitación.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+Departamento Operativo de Protección Civil.
 
-Coordinación Operativa
+Departamento de Atención Médica Prehospitalaria.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+Departamento de Bomberos.
 
-Coordinación de Estadística e Informática
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-Coordinación de Sanidad y Salud Pública
+X.- SECRETARÍA DE FINANZAS PÚBLICAS
 
-Coordinación de Verificación de Servicios Públicos Municipales y Desarrollo Urbano
+Departamento de Ejecución, Apremios e Inspección Fiscal.
 
-Coordinación de Verificación de Reglamentación y Áreas Comerciales
+Departamento de Auditoría Interna.
 
-Dirección de Reglamentación
+Departamento de Administración y Deuda Pública.
 
-Coordinación de Licencias
+Dirección de Ingresos.
 
-Dirección de Mercados, Estacionamientos y Áreas Comerciales
+Departamento de Impuestos Predial e ISABI.
 
-Departamento de Mercados y Estacionamientos
+Departamento de Licencias Comerciales.
 
-Departamento de Áreas Comerciales
+Departamento de Control Fiscal.
 
-Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias
+Departamento de Obras por Cooperación.
 
-Departamento de Inspección y Capacitación
+Departamento de Recaudación.
 
-Departamento Operativo de Protección Civil
+Departamento de Control Vehicular
 
-Departamento de Atención Médica Prehospitalaria
+Dirección de Egresos.
 
-Departamento de Bomberos
+Departamento de Presupuestos.
 
-Subsecretaría del H. Ayuntamiento y Subdirección General de Gobierno
+Departamento de Control Financiero.
 
-Delegación Urbana José María Morelos y Pavón
+Departamento de Control Financiero de la Obra Pública y Programas Federales.
 
-Departamento de Servicios Públicos
+Departamento de Control Presupuestal de la Obra Pública y Programas Federales.
 
-Departamento de Desarrollo Urbano y Obras Públicas
+Dirección de Información Financiera
 
-Departamento de Integración Social
+Departamento de Contabilidad.
 
-Comisarios Municipales
+Departamento de Cuenta Pública.
 
-Delegación Urbana Lic. Jesús Terán Peredo
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-Departamento de Servicios Públicos
+XI.- SECRETARÍA DE OBRAS PÚBLICAS.
 
-Departamento de Desarrollo Urbano y Obras Públicas
+Coordinación Jurídica.
 
-Departamento de Integración Social
+Departamento de Calidad y Fallas Geológicas.
 
-Comisarios Municipales
+Departamento de Atención Ciudadana.
 
-Delegación Urbana Insurgentes
+Dirección Administrativa.
 
-Departamento de Servicios Públicos
+Departamento de Compras.
 
-Departamento de Desarrollo Urbano y Obras Públicas
+Departamento de Administración y Finanzas.
 
-Departamento de Integración Social
+Departamento de Informática.
 
-Comisarios Municipales
+Dirección de Planeación y Proyectos de Obra.
 
-Delegación Urbana Pocitos
+Departamento de Proyectos.
 
-Departamento de Servicios Públicos
+Departamento de Estructuras.
 
-Departamento de Desarrollo Urbano y Obras Públicas
+Dirección de Costos y Licitación de Obra.
 
-Departamento de Integración Social
+Departamento de Expedientes Técnicos y Costos.
 
-Comisarios Municipales
+Departamento de Licitación y Control de Obra.
 
-Delegación Rural Cañada Honda
+Dirección de Supervisión de Obra.
 
-Comisarios Municipales
+Departamento de Supervisión de Edificación.
 
-Delegación Rural Calvillito
+Departamento de Supervisión de Urbanización.
 
-Comisarios Municipales
+Dirección de Conservación y Mantenimiento de Obra.
 
-Delegación Rural Peñuelas
+Departamento de Infraestructura Urbana.
 
-Comisarios Municipales
+Departamento de Conservación y Mantenimiento.
 
-Coordinación Administrativa
+Departamento de Parque de Maquinaria y almacén.
 
-Departamento de Recursos Humanos y Eficiencia Presupuestal
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-Dirección de Desarrollo Rural
+XII.- SECRETARÍA DE ADMINISTRACIÓN
 
-Departamento de Desarrollo Rural
+Coordinación Administrativa.
 
-Dirección de Educación
+Dirección Jurídica.
 
-Departamento de Educación
+Departamento Jurídico de Recursos Humanos y Recursos Materiales.
 
-Dirección de Cultura Física y Deporte
+Dirección de Tecnologías de la Información y Comunicación.
 
-Departamento de Cultura Física y Deporte
+Departamento de Servicios e Infraestructura.
 
-Departamento de Gestión y Apoyos Deportivos
+Departamento de Soporte Técnico.
 
-Dirección de Desarrollo Social
+Departamento de Desarrollo.
 
-Departamento de Programas Federales
+Dirección de Recursos Humanos.
 
-Departamento de Programas Municipales
+Departamento de Remuneración al Personal.
 
-Departamento de Programas para la Convivencia
+Departamento de Desarrollo de Personal.
 
-Dirección de Integración
+Departamento de Servicios Médicos y Seguridad e Higiene.
 
-Departamento de Promoción
+Dirección de Recursos Materiales.
 
-Departamento de Organización y Concertación
+Departamento de Archivo General Municipal.
 
-Dirección de Desarrollo Económico y Turismo
+Departamento de Control Patrimonial.
 
-Departamento de Proyectos Productivos
+Departamento de Taller Gráfico.
 
-Departamento de Vinculación Empresarial y Capacitación para el Empleo
+Departamento de Compras.
 
-Departamento de Turismo
-
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
-
-XIV (SIC).- SECRETARÍA DE DESARROLLO URBANO
-
-Secretaría Particular
-
-Coordinación Jurídica
-
-Coordinación Administrativa
-
-Coordinación de Prevención y Atención de Asentamientos Humanos Irregulares
-
-Dirección de Control Urbano
-
-Departamento de Licencias de Construcción
-
-Departamento de Supervisión
-
-Departamento de Usos de Suelo
-
-Departamento de Imagen Urbana
-
-Dirección de Fraccionamientos y Bienes Inmuebles Municipales
-
-Departamento de Fraccionamientos
-
-Departamento de Supervisión de Fraccionamientos y Áreas
-
-Municipales (sic)
-
-Departamento de Bienes Inmuebles Municipales
-
-Departamento de Cartografía
-
-XV.- SECRETARÍA DE SERVICIOS PÚBLICOS
-
-Departamento de Atención Ciudadana
-
-Departamento de Planeación
-
-Departamento de Rastro
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE RENGLÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE DICIEMBRE DE 2011)</small>
-
-Centro de Control, Atención y Bienestar Animal.
-
-Coordinación Jurídica
-
-Coordinación Administrativa
-
-Departamento de Taller de Mantenimiento
-
-Departamento de Compras
-
-Departamento de Recursos Humanos
-
-Departamento de Control de Inventarios y Activos Fijos
-
-Coordinación General de Servicios Públicos
-
-Dirección de Limpia y Aseo Público
-
-Departamento de Aseo Público
-
-Departamento de Recolección
-
-Departamento de Residuos Sólidos
-
-Departamento de Inspección
-
-Dirección de Alumbrado Público
-
-Departamento de Operación y Mantenimiento
-
-Departamento de Proyectos y Supervisión
-
-Departamento de Edificios Públicos e Iluminación Ornamental
-
-Dirección de Panteones
-
-Departamento de Operación y Servicios
-
-Departamento de Mantenimiento
-
-Dirección de Parques y Jardines
-
-Departamento de Parques y Jardines
-
-Departamento de Producción y Sanidad
-
-Departamento de Operación y Servicios
-
-Departamento de Parques Públicos
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
-
-Instituto de Convivencia y Desarrollo Línea Verde del Municipio de Aguascalientes. Órgano Desconcentrado.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
-
-Departamento de Administración y Planeación.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
-
-Departamento de Programas Sociales.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+Dirección de Servicios Generales.
 
 Departamento de Mantenimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+Departamento de Intendencia.
 
-XVI.- SECRETARIA DE SEGURIDAD PÚBLICA
+Departamento de Mantenimiento y Reparación de Vehículos.
 
-Secretario Particular
+Dirección de Desarrollo Organizacional y Eficiencia Presupuestal.
 
-Departamento de Comunicación Social
+Departamento de Desarrollo Organizacional y Procesos.
+
+Departamento de Auditoría, Mejora Continua y Normatividad.
+
+Departamento de Seguimiento y Eficiencia Presupuestal.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XIII.- SECRETARÍA DE DESARROLLO SOCIAL.
+
+Coordinación Administrativa.
+
+Departamento de Seguimiento y Control de Gestión.
+
+Departamento de Recursos Humanos y Eficiencia Presupuestal.
+
+Coordinación General de Delegaciones Urbanas y Rurales.
+
+Delegación Urbana José María Morelos y Pavón.
+
+Departamento de Servicios Públicos.
+
+Departamento de Desarrollo Urbano y Obras Públicas.
+
+Departamento de Desarrollo Social.
+
+Comisarios Municipales.
+
+Delegación Urbana Lic. Jesús Terán Peredo
+
+Departamento de Servicios Públicos.
+
+Departamento de Desarrollo Urbano y Obras Públicas.
+
+Departamento de Desarrollo Social.
+
+Comisarios Municipales.
+
+Delegación Urbana Insurgentes.
+
+Departamento de Servicios Públicos.
+
+Departamento de Desarrollo Urbano y Obras Públicas.
+
+Departamento de Desarrollo Social.
+
+Comisarios Municipales.
+
+Delegación Urbana Pocitos.
+
+Departamento de Servicios Públicos.
+
+Departamento de Desarrollo Urbano y Obras Públicas.
+
+Departamento de Desarrollo Social.
+
+Comisarios Municipales.
+
+Coordinación de Delegaciones Rurales.
+
+Delegación Rural Cañada Honda.
+
+Comisarios Municipales.
+
+Delegación Rural Calvillito.
+
+Comisarios Municipales.
+
+Delegación Rural Peñuelas.
+
+Comisarios Municipales.
+
+Delegación Rural Salto de los Salado.
+
+Comisarios Municipales.
+
+Dirección de Educación Cultura Física y Deporte.
+
+Departamento de Cultura Física y Deporte.
+
+Departamento de Gestión y Apoyos Deportivos.
+
+Departamento de Educación.
+
+Dirección de Desarrollo Social.
+
+Departamento de Promoción.
+
+Departamento de Organización y Concertación.
+
+Dirección de Programas Sociales.
+
+Departamento de Programas Federales.
+
+Departamento de Programas Municipales.
+
+Departamento de Programas para la Convivencia
+
+Dirección de Desarrollo Económico y Turismo.
+
+Departamento de Proyectos Productivos.
+
+Departamento de Vinculación Empresarial y Capacitación para el Empleo.
+
+Departamento de Turismo.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XIV.- SECRETARÍA DE DESARROLLO URBANO.
+
+Asistente Administrativo.
+
+Coordinación Jurídica.
+
+Departamento de Atención Ciudadana.
+
+Dirección de Control Urbano.
+
+Departamento de Licencias de Construcción.
+
+Departamento de Supervisión.
+
+Departamento de Usos de Suelo.
+
+Departamento de Imagen Urbana.
+
+Dirección de Fraccionamientos y Bienes Inmuebles Municipales.
+
+Departamento de Fraccionamientos.
+
+Departamento de Supervisión de Fraccionamientos y Áreas Municipales.
+
+Departamento de Bienes Inmuebles Municipales
+
+Departamento de Cartografía.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XV.- SECRETARÍA DE SERVICIOS PÚBLICOS
+
+Departamento de Atención Ciudadana.
+
+Departamento de Optimización de Recursos.
+
+Coordinación Jurídica.
+
+Coordinación General de Servicios Públicos.
+
+Dirección Administrativa.
+
+Departamento de Taller de Mantenimiento.
+
+Departamento de Compras.
+
+Departamento de Recursos Humanos.
+
+Departamento de Control Presupuestal.
+
+Dirección de Salud Pública.
+
+Departamento de Regulación Sanitaria.
+
+Departamento de Rastro.
+
+Departamento de Salud y Bienestar Animal.
+
+Dirección de Limpia y Aseo Público.
+
+Departamento de Aseo Público.
+
+Departamento de Recolección.
+
+Departamento de Residuos Sólidos.
+
+Departamento de Inspección y Concientización.
+
+Dirección de Alumbrado Público.
+
+Departamento de Proyectos y Supervisión.
+
+Departamento de Operación y Mantenimiento.
+
+Departamento de Edificios Públicos e Iluminación Ornamental.
+
+Dirección de Panteones.
+
+Departamento de Operación y Servicios.
+
+Departamento de Mantenimiento.
+
+Dirección de Parques y Jardines.
+
+Departamento de Parques y Jardines.
+
+Departamento de Parques Públicos.
+
+Departamento de Producción y Sanidad.
+
+Departamento de Operación y Servicios.
+
+Instituto de Convivencia y Desarrollo Línea Verde del Municipio de Aguascalientes. Órgano Desconcentrado.
+
+Dirección del Instituto
+
+Departamento de Administración y Planeación.
+
+Departamento de Programas Sociales.
+
+Departamento de Mantenimiento.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XVI.- SECRETARÍA DE SEGURIDAD PÚBLICA.
+
+Secretaría Particular.
+
+Departamento de Comunicación Social.
+
+Departamento de Atención a la ciudadanía.
 
 Coordinación de Asuntos Jurídicos
 
-Coordinación Administrativa
+Dirección Administrativa.
 
-Departamento de Recursos Materiales
+Departamento de Recursos Materiales y Financieros.
 
-Departamento de Recursos Humanos
+Departamento de Recursos Humanos.
 
-Dirección de Policía Preventiva
+Dirección de Policía Preventiva.
 
-Jefatura Operativa de Policía Auxiliar y Comercial
+Jefatura Operativa de Policía Auxiliar y Comercial.
 
-Jefatura Operativa de la Delegación Jesús Terán
+Jefatura Operativa de la Delegación Jesús Terán.
 
-Jefatura Operativa de la Delegación Insurgentes
+Jefatura Operativa de la Delegación Insurgentes.
 
-Jefatura Operativa de la Delegación Morelos
+Jefatura Operativa de la Delegación Morelos.
 
-Jefatura Operativa de la Delegación Área Centro
+Jefatura Operativa de la Delegación Área Centro.
 
-Jefatura Operativa Área Uno
+Jefatura Operativa Área Uno.
 
-Jefatura Operativa Especial
+Jefatura Operativa Especial.
 
-Jefatura Operativa de las Delegaciones
+Jefatura Operativa de las Delegaciones Rurales.
 
-Dirección de Tránsito y Movilidad
+Dirección de Tránsito y Movilidad.
 
-Departamento de Educación Vial
+Departamento de Transportes y Gestión de Infracciones.
 
-Departamento de Transportes y Gestión de Infracciones
+Departamento de Hechos de Tránsito y Peritaje.
 
-Departamento de Hechos de Tránsito y Peritaje
+Departamento de Pensión Municipal.
 
-Departamento de Pensión Municipal
+Coordinación Operativa.
 
-Coordinación Operativa
+Coordinación de Ingeniería vial.
 
-Departamento Operativo de Territorio
+Departamento de Sistema de Semáforos e Ingeniería de Tránsito.
 
-Coordinación de Planeación y Movilidad
+Departamento de Implementación y Señalización.
 
-Departamento de Sistema de Semáforos y Gestión de Tránsito
+Departamento de Estacionamiento Regulado.
 
-Departamento de Implementación y Señalización
+Departamento de Proyectos de Movilidad y Estudios de Tránsito.
 
-Departamento de Estacionamiento Regulado
+Dirección de Prevención del Delito.
 
-Departamento de Proyectos y Movilidad de Estudios de Tránsito
+Coordinación Operativa para la Prevención.
 
-Dirección de Prevención del Delito
+Departamento de Planeación de Programas Preventivos.
 
-Coordinación Operativa para la Prevención
+Departamento de Implementación y Seguimiento de Programas.
 
-Departamento de Planeación de Programas Preventivos
+Departamento de Educación Vial.
 
-Departamento de Implementación y Seguimiento de Programas
+Dirección de Profesionalización.
 
-Dirección de Profesionalización
+Coordinación de Seguimiento de Servicio de Carrera Policial.
 
-Coordinación de Seguimiento de Servicio de Carrera Policial
+Departamento de Formación y Capacitación.
 
-Departamento de Formación y Capacitación
+Departamento de Evaluación.
 
-Departamento de Evaluación
+Dirección de Estado Mayor.
 
-Dirección de Estado Mayor
+Coordinación de Información y Estrategia.
 
-Coordinación de Información y Estrategia
+Departamento de Información y Estadística.
 
-Departamento de Información y Estadística
+Departamento de Planeación.
 
-Departamento de Planeación
+Coordinación del Centro de Mando C-4.
 
-Coordinación del Centro de Mando C-4
+Departamento de Monitoreo de Alarmas y GPS.
 
-Departamento de Monitoreo de Alarmas
+Departamento de Monitoreo de Videocámaras.
 
-Departamento de Monitoreo de GPS
+Departamento de Radio Comunicación.
 
-Departamento de Monitoreo de Videocámaras
+Departamento de Emergencia 080.
 
-Departamento de Radio Comunicación
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-Departamento de Emergencia 080
+XVII.- SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE.
 
-XVII.- SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
+Dirección de Medio Ambiente y Cambio Climático.
 
-Secretario Particular
+Departamento de Gestión Ambiental.
 
-Coordinación Jurídica
+Departamento de Recursos Naturales y Biodiversidad.
 
-Coordinación Administrativa
-
-Dirección de Medio Ambiente
-
-Departamento de Gestión Ambiental
-
-Departamento de Recursos Naturales y Biodiversidad
-
-Dirección de Cambio Climático
-
-Departamento de Agenda 21 Local
-
-Departamento de Educación Ambiental y Participación Ciudadana
+Departamento de Educación Ambiental y Participación Ciudadana.
 
 ### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
 
@@ -1667,49 +1767,53 @@ X. Cubrir las actividades y eventos de la Presidencia Municipal mediante materia
 
 XI. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2014)</small>
 
 APARTADO CUARTO
 
-Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal
+Secretariado Técnico del Consejo de la Ciudad
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 102.
 
-Corresponde a la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal, por conducto de su titular:
+El Secretariado Técnico del Consejo de la Ciudad es el órgano auxiliar de dicho Consejo, dependiente del Presidente Municipal, que, a través de su titular y las unidades administrativas a su cargo, corresponde:
 
-l. Implementar un modelo de participación ciudadana para la observación, vigilancia y evaluación de la gestión pública, apoyado en la utilización de los mecanismos de transparencia, fomentando la gobernanza incluyente y la pluralidad de grupos e individuos;
+I. Fungir como Secretario/a del Consejo de la Ciudad de Aguascalientes, auxiliando a la Presidencia en la conducción de las sesiones.
 
-II. Promover la inclusión de la sociedad en las políticas públicas a través de la difusión de la información gubernamental tendientes a garantizar el efectivo goce y acceso a los servicios públicos municipales;
+II. Levantar el acta de cada sesión del Pleno del Consejo y de la Comisión Permanente;
 
-III. Fomentar la participación de los ciudadanos en los asuntos públicos mediante la promoción de la cultura de la legalidad;
+III. Someter al pleno del Consejo las actas para su aprobación al inicio de la sesión siguiente;
 
-IV. Incorporar los mecanismos e indicadores tendientes a evaluar, medir y fortalecer las políticas públicas municipales;
+IV. Dar seguimiento a los acuerdos del Consejo y de la Comisión Permanente.
 
-V. Gestionar e implementar un modelo eficiente de atención al público, estableciendo un vínculo directo de información entre la administración y la ciudadanía;
+V. Conservar el archivo permanente de actas del Consejo, de las sesiones del pleno, de la comisión permanente, y de las comisiones temáticas, temporales o especiales que se conformen.
 
-VI. Propiciar el debate, la consulta y la propuesta entre la ciudadanía y las autoridades respecto de la gestión pública municipal;
+VI. Validar con su firma todas las resoluciones y acuerdos tomados por el Pleno y la Comisión Permanente;
 
-VII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden;
+VII. Gestionar acciones encomendadas por el Consejo y la Comisión Permanente, ante la ciudadanía, las entidades gubernamentales municipales, y en su caso, estatales o federales.
 
-VIII. Rendir informe de las actividades desempeñadas al Presidente Municipal, al Regidor o Síndico del ramo cuando así se le requiera;
+VIII. Llevar el control y distribución de la correspondencia y dar cuenta al Consejo de la Ciudad de los asuntos de su competencia.
 
-IX. Vigilar que se cumpla estrictamente con las disposiciones legales en lodos los asuntos asignados.
+X. Acordar con el Presidente Municipal y la Presidencia de la Comisión Permanente el despacho de los asuntos que le corresponden;
 
-X. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes;
+XI. Rendir informe mensual de las actividades desempeñadas a la Comisión permanente del Consejo de la Ciudad y al Presidente Municipal, y cuando así se lo requiera, al Regidor o Sindico del ramo;
 
-XI. Formular y proponer al Presidente los proyectos de planes y programas que les correspondan;
+XII. Vigilar que se cumpla con las disposiciones legales en todos los asuntos atendidos por el Consejo de la Ciudad;
 
-XII. Proporcionar información y cooperación técnicas a las dependencias de la administración pública municipal;
+XIII. Apoyar a la comisión permanente en la gestión de proyectos avanzados, evaluando su pertinencia y viabilidad, con miras a conseguir apoyo y fortalecimiento entre las instancias gubernamentales y no gubernamentales, nacionales y extranjeras.
 
-XIII. Mantener permanente comunicación con las dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población;
+XIV. Desarrollar Talleres de Análisis por (sic) para conocer las coyunturas y posicionamientos de la ciudadanía y las autoridades municipales sobre temas emergentes que requieren atención a través de políticas públicas concertadas.
 
-XIV. Participar con la Dirección de Modernización Tecnológica en la modernización y simplificación de los sistemas administrativos a través del Coordinador General;
+XV. Promover la participación de la sociedad en las políticas públicas a través de la difusión de la información gubernamental tendientes a garantizar el efectivo goce y acceso a los servicios públicos municipales;
 
-XV. Cumplir con la normatividad que emita la Dirección de Modernización Tecnológica en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia;
+XVI. Fomentar la participación de los ciudadanos en los asuntos públicos mediante la promoción de la cultura de la legalidad;
 
-XVI. Las demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+XVII. Apoyará en la gestión y logística necesaria encomendada por el Consejo de la Ciudad para realizar las acciones, desarrollar mecanismos y eventos tendientes a evaluar, medir y fortalecer las políticas públicas municipales;
+
+XVIII. Proporcionar información y cooperación técnicas a las dependencias de la administración pública municipal;
+
+XIX. Las demás que le encomiende el Consejo de la Ciudad, la Comisión Permanente a través de su presidencia, el Presidente Municipal, o le confiera la Ley.
 
 ###### ARTÍCULO 103.
 
@@ -1761,9 +1865,11 @@ XVIII. Dictar las disposiciones que requiera la Contraloría Municipal para la a
 
 XIX. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2014)</small>
+
 APARTADO SEXTO
 
-De la Coordinación General de Asesores
+De la Oficina Ejecutiva del Presidente Municipal
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
 
@@ -1777,7 +1883,9 @@ II. Fungir corno enlace del Gobierno Municipal, con el Congreso del Estado, en c
 
 III. Fungir como enlace del Gobierno Municipal, con las diferentes Asociaciones y Cultos Religiosos del municipio de Aguascalientes;
 
-IV. Establecer y mantener las relaciones con los Comités de las Ciudades Hermanas de México y del Mundo;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+IV. Establecer, coordinar y mantener las relaciones Nacionales e Internacionales del Municipio, la vinculación con los comités de las ciudades hermanas de México y el mundo, así como gestionar recursos de carácter internacional;
 
 V. Coordinar los servicios de asesoría y consultoría al titular de la presidencia municipal;
 
@@ -1787,9 +1895,71 @@ VII. Coordinarse con la Secretaria Particular de la Presidencia Municipal para e
 
 VIII. Coordinarse con la Coordinación General de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional;
 
-IX. Coordinarse con el Instituto Municipal de Planeación para integrar y elaborar los documentos relacionados con los Informes Anuales de Gobierno;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-X. Coordinar y supervisar el proceso de incorporación de los contenidos de la página web del municipio.
+IX. Coordinarse con el Instituto Municipal de Planeación para integrar y elaborar los informes Anuales de Gobierno y el Plan de Desarrollo Municipal;
+
+X. Coordinar y supervisar el proceso de incorporación de los contenidos de la página web del municipio;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XI. Realizar propuestas para impulsar el fortalecimiento del Federalismo Hacendario;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XII. Establecer, en conjunto con el Tesorero Municipal, los lineamientos y políticas para la elaboración del Anteproyecto de Presupuesto de Egresos del Municipio con base en las directrices del Plan de Desarrollo Municipal;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XIII. Participar en la elaboración del Anteproyecto de Presupuesto de Egresos del Municipio, en coordinación con todas las dependencias y entidades municipales;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XIV. Coordinarse con las dependencias y entidades de la administración pública municipal, para evaluar los programas y proyectos, así como el ejercicio de los recursos que se aprueben en el Programa Anual de Inversión Municipal, Programa Anual de Obra Pública y Programa Operativo Anual;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XV. Realizar e integrar estudios contables, económicos y jurídicos relativos al mejor interés de la Hacienda Pública del Municipio;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XVI. Revisar la ejecución del Presupuesto de Egresos, con base en las políticas y lineamientos establecidos en su aprobación en coordinación con el Tesorero Municipal;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XVII. Coordinar las actividades y dar seguimiento a los convenios y acuerdos en el marco del Sistema Nacional de Coordinación Fiscal y el Sistema Estatal de Coordinación Hacendaria;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XVIII. Definir en conjunto con las dependencias y/o entidades de la administración pública municipal la distribución de los recursos obtenidos a través de programas federales sujetos a reglas de operación y estricto cumplimiento a las mismas,
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XIX. Asesorar y apoyar a las dependencias y/o entidades de la administración pública municipal para la obtención de recursos a través de programas estatales y federales.
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XX. Proponer mejoras que coadyuven al desarrollo y eficiencia de la Administración Pública Municipal.
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XXI. Coordinar y apoyar los esfuerzos de las diversas Dependencias y/o entidades de la Administración Pública Municipalpara (sic) la integración de los proyectos estratégicos y prioritarios del Municipio.
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XXII. Revisar los proyectos y programas de las diversas Dependencias y/o entidades de la Administración Municipal, a través de un sistema integral de evaluación de la gestión Municipal.
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XXIII. Coordinarse con la Secretaría de Obras Públicas Municipales y el Instituto Municipal de Planeación para la elaboración del Programa anual de Obra Pública.
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XXIV. Coordinar, evaluar y dar seguimiento a los Programas Operativos Anuales de todas las Dependencias y Entidades de la Administración Pública Municipal, para garantizar su correspondencia con el Plan de Desarrollo Municipal.
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XXV. Participar en la elaboración del Programa Anual de Inversión Municipal, en coordinación con todas las Dependencias y Entidades de la Administración Pública Municipal.
 
 APARTADO SÉPTIMO
 
@@ -1855,9 +2025,9 @@ VIII. Validar con su firma todos los documentos oficiales emanados del H. Ayunta
 
 IX. Solicitar la publicación de leyes, decretos, bandos y reglamentos, y tener una colección ordenada y anotada de éstos, así como Periódicos Oficiales del Estado, circulares y órdenes relativas a los distintos ramos de la administración pública municipal.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-X. Contar con la rectoría de las acciones legales que tenga el Municipio a través de sus Dependencias Administrativas, con el fin de constituir o defender derechos del Municipio, por sí o a través de la Dirección de Asuntos Jurídicos.
+X. Regir las políticas jurídicas del Municipio por si o a través de la Dirección de Asuntos Jurídicos, sin que esto signifique en ningún caso que asuma la representación legal del Municipio, misma que corresponde al Síndico Procurador en términos de Ley.
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
 
@@ -1867,17 +2037,13 @@ XI. Requerir información sobre el trámite y resolución de los asuntos tratado
 
 XII. Supervisar y evaluar las actividades que se realicen en materia jurídica por cualquiera de las dependencias de la Administración Pública Municipal, por sí o a través de la Dirección de Asuntos Jurídicos.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
-
-XIII. Requerir información sobre el trámite y solución de los asuntos tratados por los servidores públicos auxiliares del Síndico Procurador y abogados autorizados por los titulares de las dependencias de la Administración Pública Municipal a efecto de evaluar su desempeño y articular las acciones necesarias para la salvaguarda de los intereses del H. Ayuntamiento de Aguascalientes, por sí o a través de la Dirección de Asuntos Jurídicos.
+XIII. (DEROGADA, P.O. 13 DE ENERO DE 2014)
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
 
 XIV. Asesorar en todo momento a los titulares de las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las dependencias de la Administración Pública Municipal a efecto de cumplir con las funciones de su competencia, por sí o a través de la Dirección de Asuntos Jurídicos.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
-
-XV. Conocer y en su caso atraer los asuntos jurídicos que así lo requieran por importancia o gravedad, por sí o a través de la Dirección de Asuntos Jurídicos.
+XV. (DEROGADA, P.O. 13 DE ENERO DE 2014)
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -1891,11 +2057,11 @@ XVII. Planear, ordenar y ejecutar todas las acciones que tengan relación con la
 
 XVIII. Las demás que señale ley (sic) que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal
 
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 107
 
-BIS.- Son facultades y obligaciones del Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno las siguientes:
+BIS.- Son facultades y obligaciones del Director de Asuntos Jurídicos de la Dirección General de Gobierno las siguientes:
 
 I. Suplir las ausencias temporales del Secretario del H. Ayuntamiento y Director General de Gobierno.
 
@@ -1903,61 +2069,13 @@ II. Auxiliar al Secretario del H. Ayuntamiento y Director General de Gobierno en
 
 III. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o el Secretario del H. Ayuntamiento y Director General de Gobierno.
 
-Las ausencias temporales del Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno serán suplidas por el Director de Asuntos Jurídicos de la Dirección General de Gobierno.
+###### ARTÍCULO 107
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2011)</small>
+TER.- (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
 ###### ARTÍCULO 107
 
-TER.- Corresponde a las Delegaciones por conducto de sus titulares:
-
-I. Acordar con el Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno, el despacho de los asuntos que le corresponden.
-
-II. Rendir informe de las actividades desempeñadas al Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno, al Regidor o Síndico del ramo, cuando así se les requiera.
-
-III. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados.
-
-IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes.
-
-V. Formular y proponer al Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno los proyectos de planes y programas que les correspondan.
-
-VI. Proporcionar información y cooperación técnicas a las dependencias de la administración pública municipal.
-
-VII. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población.
-
-VIII. Participar con la Dirección de Modernización Tecnológica en la modernización y simplificación de los sistemas administrativos.
-
-IX. Cumplir con la normatividad que emita la Dirección de Modernización Tecnológica en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia.
-
-X. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias de la Administración Pública Municipal organizadas en su jurisdicción.
-
-XI. Llevar a cabo reuniones mensuales con los comisarios municipales.
-
-XII. Hacer recorridos en colonias y comunidades para hacer un diagnóstico y resolver la problemática del lugar en materia de servicios públicos y apoyos en desarrollo humano, urbano y rural.
-
-XIII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y los demás servicios con que cuente o necesite la comunidad.
-
-XIV. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras.
-
-XV. Las demás que señale la Ley o el H. Ayuntamiento por conducto del Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno.
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2011)</small>
-
-###### ARTÍCULO 107
-
-QUATER.- Corresponde a los Comisarios Municipales:
-
-I. Extender constancias de ganado.
-
-II. Expedir cartas de recomendación.
-
-III. Tomar conocimiento de las fiestas dentro de su comunidad.
-
-IV. Reportar al Delegado las necesidades en materia de servicios públicos.
-
-V. Rendir informe mensual de actividades al Delegado.
-
-VI. Las demás que señale la Ley o el H. Ayuntamiento por conducto del Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno.
+QUATER.- (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
 APARTADO NOVENO
 
@@ -2179,6 +2297,60 @@ XXXI. (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE MARZO DE 2008)
 
 XXXII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 111
+
+BIS.- Corresponde a las Delegaciones por conducto de sus titulares:
+
+I. Acordar con el Secretario de Desarrollo Social, el despacho de los asuntos que le corresponden.
+
+II. Rendir informe de las actividades desempeñadas al Secretario de Desarrollo Social, al Regidor o Síndico del ramo, cuando así se les requiera.
+
+III. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados.
+
+IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes.
+
+V. Formular y proponer al Secretario de Desarrollo Social los proyectos de planes y programas que les correspondan.
+
+VI. Proporcionar información y cooperación técnicas a las dependencias de la Administración Pública Municipal.
+
+VII. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población.
+
+VIII. Participar con la Dirección de Modernización Tecnológica en la modernización y simplificación de los sistemas administrativos.
+
+IX. Cumplir con la normatividad que emita la Dirección de Modernización Tecnológica en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia.
+
+X. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias de la Administración Pública Municipal organizadas en su jurisdicción.
+
+XI. Llevar a cabo reuniones mensuales con los comisarios municipales.
+
+XII. Hacer recorridos en colonias y comunidades para hacer un diagnostico y resolver la problemática del lugar en materia de servicios públicos y apoyos en desarrollo humano, urbano y rural.
+
+XIII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y demás servicios con que cuente o necesite la comunidad.
+
+XIV. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras.
+
+XV. Las demás que señale la ley o el H. Ayuntamiento por conducto del Secretario de Desarrollo Social.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 111
+
+TER.- Corresponde a los Comisarios Municipales:
+
+I. Extender constancias de ganado.
+
+II. Expedir cartas de recomendación.
+
+III. Tomar conocimiento de las fiestas dentro de su comunidad.
+
+IV. Reportar al Delegado las necesidades en materia de servicios públicos.
+
+V. Rendir informe mensual de actividades al Delegado.
+
+VI. Las demás que señale la ley o el H. Ayuntamiento por conducto del Secretario de Desarrollo Social.
+
 APARTADO DÉCIMO TERCERO
 
 De la Secretaría de Desarrollo Urbano
@@ -2325,11 +2497,13 @@ De la Secretaría de Servicios Públicos
 
 Corresponde a la Secretaría de Servicios Públicos lo siguiente:
 
-I. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de rastro municipal, control de población canina y felina, limpia y aseo público, panteones, parques y jardines. En cuanto al control (sic) población canina y felina, el servicio no puede concesionarse.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+I.- La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de rastro municipal, control de población canina y felina, limpia y aseo público, panteones, parques y jardines así como alumbrado público. En cuanto al control de la población canina y felina, el servicio no puede concesionarse.
 
-II. Regular los servicios que proporciona el rastro a los usuarios;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+II.- Vigilar que los servicios que proporcione el rastro a los usuarios se haga en condiciones que garantice la higiene en el sacrificio humanitario y transportación de los productos cárnicos;
 
 III. Regular la introducción de ganado y el abastecimiento de carne para el consumo humano dentro de su ámbito de competencia.
 
@@ -2337,15 +2511,13 @@ IV. Impedir la comercialización de productos cárnicos que no hayan sido previa
 
 V. Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la normatividad vigente.
 
-VI. Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley.
+VI. (DEROGADA, P.O. 13 DE ENERO DE 2014)
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
 VII. Ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
-
-VIII. Regular la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
+VIII. (DEROGADA, P.O. 13 DE ENERO DE 2014)
 
 IX. (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
@@ -2365,17 +2537,35 @@ XVI. Regular y vigilar los mecanismos, instrumentos y procedimientos para la pre
 
 XVII. Promover y fomentar la participación corresponsable de la sociedad tendiente a mantener la limpieza de la vía pública municipal y recolección de residuos sólidos que se generen.
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+XVIII. (DEROGADA, P.O. 13 DE ENERO DE 2014)
 
-XVIII. Regular y proteger las acciones relativas al deporte de la colombofilia y la colombicultura, así como a contribuir a la prevención y control de la población de este género animal.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+XIX.- Fomentar a través de programas de educación ambiental la disminución en la generación de basura, residuos y cambio en patrones de consumo y producción;
 
-XIX. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
+XX.- Regular y vigilar la salud pública por conducto de sus diversas unidades administrativas;
 
-XX. Fomentar a través de programas de educación ambiental la disminución en la generación de basura y residuos y cambio en patrones de consumo y producción.
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XXI.- Verificar y vigilar el cumplimiento de las condiciones sanitarias de los establecimientos, productos, actividades y servicios en protección de la salud de la población;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XXII.- Promover, fortalecer y apoyar las acciones en materia de salubridad local a cargo del Municipio, con sujeción a las políticas nacionales y estatales de salud y a los convenios que al efecto se celebren;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XXIII.- Vigilar en la esfera de su competencia el cumplimiento de la Ley de Salud del Estado de Aguascalientes y de las demás disposiciones legales de la materia, así como instrumentar y desarrollar programas municipales que procuren el cumplimiento de este fin;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XXIV.- Coordinarse con las autoridades estatales y federales en materia de salud a efecto de instrumentar y desarrollar programas para el mejoramiento de los niveles de salud y bienestar en el Municipio; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XXV.- Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -5487,11 +5677,11 @@ VI. Por el Municipio, el Estado y la Federación.
 
 Se requerirá la aprobación de las dos terceras partes del cabildo para celebrar los convenios u otorgar las concesiones a que se refiere el artículo anterior y en materia de concesiones para la prestación de los servicios públicos municipales, se estará a lo dispuesto por la Ley Municipal para el Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 416.
 
-Corresponde a la Secretaría de Servicios Públicos la prestación, por sí o por conducto de terceras personas a través de contratos o concesiones, de los servicios de Rastro Municipal, Limpia y Aseo Público, Panteones, Parques y Jardines, Alumbrado Público. De manera adicional a los referidos anteriormente deberá prestar de manera directa el servicio de control de población canina y felina así como regular y proteger las acciones relativas al deporte de la colombofilia y la colombicultura, y contribuir a la prevención y control de la población de este género animal.
+Corresponde a la Secretaría de Servicios Públicos la prestación, por sí o por conducto de terceras personas a través de contratos o concesiones, de los servicios de Rastro Municipal, Limpia y Aseo Público, Panteones, Parques y Jardines, Alumbrado Público. De manera adicional a los referidos anteriormente deberá prestar de manera directa el servicio de control de población canina y felina.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -5653,9 +5843,9 @@ VI. Cumplir con las normas básicas de salubridad vigentes.
 
 Son facultades de la autoridad municipal, en los panteones cuyo servicio se preste por conducto de particulares las siguientes:
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-I. Por medio de la Coordinación General de Verificación Única Administrativa, realizar visitas de verificación por conducto de los verificadores municipales a los panteones, a fin de comprobar que se cumpla con las obligaciones a que se refiere este Código;
+I. Realizar visitas de inspección y verificación por conducto de los inspectores y/o verificadores municipales a los panteones, a fin de comprobar que se cumpla con las obligaciones a que se refiere este Código;
 
 II. Solicitar informes de los servicios prestados y del número de lotes y superficies disponibles para las inhumaciones.
 
@@ -5987,63 +6177,7 @@ III. Informar a las autoridades municipales, o en su caso a las estatales y/o fe
 
 ### CAPITULO V. Reglamento de Colombofilia y Colombicultura
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
-
-ARTÍCULO 491 BIS.- El presente Capítulo es de orden público e interés general y tiene por objeto regular y proteger las acciones relativas al deporte de la colombofilia y la colombicultura, así como a contribuir a la prevención y control de la población de este género animal.
-
-En algunos casos y bajo circunstancias determinadas, la utilización de las palomas mensajeras se ha considerado de utilidad pública y de interés especial para la Defensa Nacional.
-
-Para los efectos del presente Reglamento, se entenderá por:
-
-a. Colombofilia: La tenencia, reproducción, cría, adiestramiento, entrenamiento, transporte, suelta y competición de palomos deportivos o de vuelo;
-
-b. Colombicultura: La tenencia, reproducción, cría, adiestramiento, preparación, transporte y exhibición de palomos de raza;
-
-c. F.M.C.: La Federación Mexicana de Colombofilia A. C.;
-
-d. U.C.A.: La Unión Colombófila de Aguascalientes A.C. con domicilio legal en la Calle Tiziano # 335, Colonia San Marcos, C.P. 20078, Ags., Ags.;
-
-e. F.M.C.A.C.: La Federación Mexicana de Colombicultores A. C.;
-
-f. A.C.P.P.P.A.M.: La Asociación de Colombicultores Promoción y Protección de Palomos y Aves de México A.C.;
-
-g. Palomo: Ave del orden de las columbiformes y la cual dado a su crianza y uso no puede considerarse como ave de corral, ya que no se explota con fines de consumo humano sino con fines deportivos;
-
-h. Palomar: El espacio donde se mantenga transitoria o permanentemente a los palomos, con independencia de cuál sea la voluntad, fines o resultados que los propietarios persigan con ello, independientemente de que sean deportivas o de raza;
-
-i. Colombófilo: La persona aficionada a la colombofilia y quien es responsable por los animales que tiene a su cargo en materia del presente Reglamento;
-
-j. Colombicultor: La persona aficionada a la colombicultura y quien es responsable por los animales que tiene a su cargo en materia del presente Reglamento; y
-
-k. Autoridad: La Secretaría de Servicios Públicos del Municipio de Aguascalientes.
-
-I. Para la tenencia de palomos deportivos o palomos de raza, según sea el caso, será necesario solicitar y contar con la correspondiente licencia vigente, la cual será expedida por la F.M.C a través de su filial U.C.A. Para el caso de los palomos deportivos o de vuelo, según sea el caso, será necesario solicitar y contar con la correspondiente licencia vigente, la cual será expedida por la F.M.C.A.C. a través de su filial A.C.P.P.P.A.M.
-
-II. Los palomos deberán estar confinados en palomares, los cuales deberán ser instalados o construidos dentro de la propiedad del poseedor de los mismos, sin invadir espacios ajenos. Además, deberán ser cerrados en su perímetro ya sea por mampostería, muros de tabique, madera, lámina o malla, y su techumbre con lámina, madera, bóveda, losa de concreto, etc. Los pisos pueden ser de terracería, concreto, madera o rejilla, siempre y cuando se cumplan con las medidas de higiene requeridas.
-
-III. El número máximo de palomos que se podrán alojar por metro cúbico de espacio disponible es de 7 (siete) ejemplares.
-
-IV. Los palomos no deberán estar libres fuera del palomar, a excepción de los palomos deportivos o mensajeros, los cuales podrán salir a volar dos veces al día, para su adiestramiento y preparación para los concursos.
-
-V. Por regla general, los palomos deberán portar en una de sus patas un anillo de identificación, el cual tendrá gravado, según corresponda, el anagrama de la Federación a la cual pertenece su propietario, el año de nacimiento del palomo y el número de serie correspondiente del anillo.
-
-VI. Los palomares deberán guardar buenas condiciones de salud e higiene, acorde a las necesidades fisiológicas y etiológicas de los palomos que se alojen en el palomar.
-
-VII. Todas aquellas personas que posean palomos, obligatoriamente deberán aplicar los planes de sanidad que establezcan en conjunto la Autoridad, la U.C A y la A.C.P.P.P.A.M.
-
-VIII. Los propietarios deberán contar con un lugar especial para cuarentena cuando exista la presencia de enfermedades que pongan en peligro al resto de palomos alojados en el palomar.
-
-IX. Los palomares deberán de conservarse limpios y aseados, libres de desechos orgánicos, basura, plumas, etc., a fin de evitar malos olores o cualquier tipo de contaminación que afecte a los vecinos o a la vía pública; en caso contrario, se le impondrán las sanciones que para tales efectos prevea la autoridad.
-
-X. Los palomares deberán fumigarse contra ácaros y cualquier otro tipo de parásitos propios de los palomos como mínimo 2 (dos) veces al año.
-
-XI. Los palomares dispondrán de alimento suficiente, agua limpia y fresca, así domo (sic) lugares adecuados para la pernoctación de los palomos.
-
-XII. El Municipio de Aguascalientes, a través de la Secretaría de Servicios Públicos y asesorado por la U.C.A y la A.C.P.P.P.A.M., llevará a efecto las medidas necesarias para el control sanitario y de proliferación de los palomos asilvestrados que se ubican en plazas, parques, jardines públicos, iglesias, entre otros; pudiendo determinar las acciones y sanciones necesarias para su control.
-
-XIII. El Municipio de Aguascalientes, a través de la Coordinación General de Verificación Única Administrativa y asesorado por la U.C.A y la A.C.P.P.P.A.M., tendrá la facultad de verificar las instalaciones de los asociados o de cualquier otra persona que posea palomos.
-
-XIV. Para toda violación a las disposiciones municipales previstas en el presente Reglamento, se aplicará un apercibimiento al infractor para que dé cumplimiento a las mismas; en caso de hacer caso omiso al mismo, se le sancionará de acuerdo al CAPITULO I, De las Sanciones en Materia de Servicios Públicos, del ARTÍCULO 1574, GRUPO UNO, inciso h).
+ARTÍCULO 491 BIS.- (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -6123,7 +6257,7 @@ La autorización dependerá de la normatividad ambiental vigente así como de lo
 
 La autorización podrá ser condicionada y tendrá una vigencia determinada.
 
-(REUBICADO, ANTES CAPITULO IV, P.O. 14 DE FEBRERO DE 2011)
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE ENERO DE 2014)</small>
 
 ### CAPÍTULO I. Del Impacto Ambiental
 
@@ -6473,17 +6607,17 @@ IV. Requerir a las fuentes generadoras de contaminación atmosférica de compete
 
 V. Coordinar con las autoridades estatales y federales, el establecimiento y operación del sistema municipal de monitoreo atmosférico para conocer la calidad del aire en el municipio y poder tomar las medidas adecuadas para su conservación.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-VI. Solicitar a la Coordinación General de Verificación Única Administrativa la verificación para que los servicios públicos municipales no originen o produzcan contaminación atmosférica en apego a la normatividad ambiental vigente;
+VI. Inspeccionar y verificar que los servicios públicos municipales no originen o produzcan contaminación atmosférica en apego a la normatividad ambiental vigente;
 
 VII. Reubicar en el ámbito de su competencia o mediante acuerdos de coordinación con las autoridades estatales o federales, con los propietarios o poseedores de establecimientos comerciales, de servicios, de reparación y mantenimiento e industriales ubicados en zonas habitacionales en el territorio del municipio, su reubicación cuando sean motivo de quejas por parte de la población, constatadas por la autoridad competente referidas a la emisión de contaminantes a la atmósfera.
 
 En prevención de molestias de este tipo, analizará minuciosamente los informes preventivos que señala este Código y en caso de autorizar el funcionamiento de las empresas en cuestión, previo a su funcionamiento, especificará que de ocasionar molestias a la población por emisiones contaminantes a la atmósfera, se cancelará la autorización otorgada y se exigirá su reubicación.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-VIII. Coordinarse con la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias a fin de emitir las medidas preventivas para evitar contingencias ambientales por contaminación al ambiente;
+VIII. Coordinarse con la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias prehospitalarias a fin de emitir las medidas preventivas para evitar contingencias ambientales por contaminación;
 
 IX. Identificar las áreas generadoras de tolvaneras dentro del territorio municipal y establecer programas de control con la participación de la población para tomar las medidas que se consideren convenientes.
 
@@ -6941,11 +7075,11 @@ VI. Emitirse de una resolución derivada del procedimiento administrativo.
 
 VII. Desaparecer o extinguirse los actos, hechos u omisiones materia de la denuncia, siempre y cuando éstos no hubieren ocasionado daños al ambiente.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 543
 
-1.- Para comprobar el cumplimiento de las obligaciones y restricciones a particulares y empresas ubicadas en el Municipio, la Secretaría del Medio Ambiente y Desarrollo Sustentable llevará a cabo visitas de inspección y verificación a través de la Coordinación General Única de Verificación Administrativa dependiente de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+1.- Para comprobar el cumplimiento de las obligaciones en materia ambiental, la Secretaría del Medio Ambiente y Desarrollo Sustentable llevará a cabo visitas de inspección y verificación.
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -9745,7 +9879,7 @@ Para obras de reposición y/o modificación de banquetas se requiere presentar r
 
 Para obras de cepas para alojar instalaciones se requiera (sic) presentar:
 
-l. Recibo de pago o contrato de servicio de agua potable y alcantarillado;
+I. Recibo de pago o contrato de servicio de agua potable y alcantarillado;
 
 II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Secretaría;
 
@@ -12681,7 +12815,7 @@ El proyecto constará básicamente de dos documentos: la memoria de cálculo y l
 
 la Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada (sic) evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
-l. Descripción general del proyecto y del tipo de estructura a utilizarse;
+I. Descripción general del proyecto y del tipo de estructura a utilizarse;
 
 II. Resistencia y calidad de los materiales estructurales a utilizarse;
 
@@ -12869,7 +13003,7 @@ III. Acciones Accidentales.- Son las que no se deben al funcionamiento normal de
 
 Acciones Permanente, esta categoría comprende:
 
-I. La carga muerta, debida al peso propio de los elementos estructurales y al peso de los elementos no estructurales incluyendo las instalaciones, al peso del equipo que ocupe una posición fija y permanente en la construcción, y al peso estimado de futuros muros divisorios y de otros elementos no estructurales que puedan colocarse posteriormente en forma permanente;
+l. La carga muerta, debida al peso propio de los elementos estructurales y al peso de los elementos no estructurales incluyendo las instalaciones, al peso del equipo que ocupe una posición fija y permanente en la construcción, y al peso estimado de futuros muros divisorios y de otros elementos no estructurales que puedan colocarse posteriormente en forma permanente;
 
 II. El empuje estático de tierras y de líquidos, de carácter permanente; y
 
@@ -15281,11 +15415,11 @@ Cualquier persona física o moral podrá denunciar ante la Secretaría cualquier
 
 La denuncia popular deberá interponerse conforme a lo dispuesto por el artículo 23 de la Ley del Procedimiento Administrativo del Estado, haciendo una descripción breve de los hechos, actos u omisiones en que consista la infracción y los datos de la persona o personas a las que se impute la infracción. La persona que promueva la denuncia popular deberá acreditar su legitimación.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 1163.
 
-La Secretaría una vez recibida la denuncia popular, integrará el expediente respectivo y solicitará a la Coordinación General de Verificación Única Administrativa que practique las visitas de verificación y diligencias necesarias; la Secretaría emitirá la resolución correspondiente conforme a lo dispuesto por la legislación en la materia, misma que notificará al denunciante como respuesta a su petición.
+La Secretaría una vez recibida la denuncia popular, integrará el expediente respectivo y practicará las visitas de inspección y verificación así como las diligencias necesarias; la Secretaría emitirá la resolución correspondiente conforme a lo dispuesto por la legislación en la materia, misma que notificará al denunciante como respuesta a su petición.
 
 ###### ARTÍCULO 1164.
 
@@ -15305,13 +15439,13 @@ b) Coadyuvar para que el Municipio ofrezca una imagen urbana ordenada, clara, li
 
 c) Garantizar que los anuncios publicitarios se fabriquen, coloquen, instalen y retiren cumpliendo con la normatividad de la materia y por ende se eviten riesgos a la población y en su caso se reparen los daños causados;
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
-d). Allegarse de fondos para que el Municipio, a través de la Secretaría, regule, registre y sancione, así como determinar el pago de los derechos correspondientes con relación a la colocación, instalación, fijación y retiro de anuncios, de forma que sea acorde con el Código Urbano, el Código Municipal y el Reglamento de Verificación Administrativa del Municipio de Aguascalientes, logrando así la salvaguarda de los propósitos mencionados con anterioridad.
+d) Allegarse de fondos para que el Municipio, a través de la Secretaría, regule, registre, inspeccione, verifique, sancione, así como determine el pago de los derechos correspondientes, con relación a la colocación, instalación, fijación y retiro de anuncios acorde con el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, el Código Municipal y demás normatividad aplicable, logrando así la salvaguarda de los propósitos mencionados con anterioridad.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
-e) Solicitar a la Coordinación General de Verificación Única Administrativa realice las verificaciones e imponga las medidas de seguridad y, en su oportunidad, remita a la Dirección correspondiente para que determine las sanciones por incumplimiento a las disposiciones contenidas en el Código Urbano, Código Municipal y demás normatividad aplicable.
+e) Realizar las inspecciones y verificaciones e imponer las medidas de seguridad y, en su oportunidad, remitir a la Dirección correspondiente para que determine las sanciones por incumplimiento a las disposiciones contenidas en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, Código Municipal y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
@@ -15381,9 +15515,9 @@ I. Expedir licencias o permisos para la instalación, fijación o colocación y 
 
 II. De conformidad con lo previsto en la ley de Ingresos Municipal vigente, determinar el costo de cada licencia o permiso;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-III. La Coordinación General de Verificación Única Administrativa practicará verificaciones a los anuncios y solicitará a la Secretaría realizar las gestiones conducentes para los trabajos de conservación, mantenimiento y reparación que fueren necesarios para garantizar su estabilidad, seguridad y buen aspecto.
+III. Practicar inspecciones y/o verificaciones a los anuncios y ordenar los trabajos de conservación, mantenimiento y reparación que fueren necesarios, para garantizar su estabilidad, seguridad y buen aspecto de acuerdo a la normatividad aplicable;
 
 IV. Solicitar al Subcomité cuando sea necesario, su opinión para la instalación, colocación o fijación de cualquier tipo de anuncios;
 
@@ -15541,7 +15675,7 @@ El texto de los anuncios deberá redactarse en idioma español con sujeción a l
 
 La Secretaría requerirá al solicitante que presente el registro o autorización que previamente le hubieran expedido la Autoridad Federal, Estatal o Municipal competente o entidad correspondiente, que permitan la difusión al público del bien o servicio de que se trate, para los efectos de otorgar la licencia o permiso respectivo, particularmente en los siguientes casos:
 
-I. Cuando se trate de bienes o servicios nuevos que se vayan a introducir al mercado y que puedan poner en riesgo la integridad física o salud de los consumidores;
+l. Cuando se trate de bienes o servicios nuevos que se vayan a introducir al mercado y que puedan poner en riesgo la integridad física o salud de los consumidores;
 
 II. Cuando se trate de la venta de terrenos, casas, departamentos, locales comerciales y de servicios, ubicados en fraccionamientos, condominios o desarrollos habitacionales, que hubieran requerido obras de urbanización e introducción de infraestructura urbana, y
 
@@ -15673,11 +15807,11 @@ Tratándose de anuncios estructurales, semiestructurales o espectaculares que se
 
 Para el retiro de los anuncios que requieren de la responsiva de Perito Responsable, es necesario cumplir con los requisitos que para ese efecto señala éste Código Municipal de Aguascalientes, en su apartado de las construcciones.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
-###### ARTICULO 1209.
+###### ARTÍCULO 1209.
 
-La Secretaría, para el efecto de autorizar o negar la autorización de una licencia o permiso para la colocación, fijación o instalación de un anuncio, deberá tomar en cuenta los aspectos de usos y destinos del suelo, vialidades, planeación e imagen urbana, así como los cálculos estructurales cuya instalación lo requiera, independientemente de lo previsto en el Código, en el Código Municipal y demás disposiciones aplicables. Además, podrá efectuar los reconocimientos necesarios al lugar en el que se pretenda instalar el anuncio, sin que ello implique el eximir de su responsabilidad a los Peritos respectivos.
+La Secretaría, para el efecto de autorizar o negar la autorización de una licencia o permiso para la colocación, fijación o instalación de un anuncio, deberá tomar en cuenta los aspectos de usos y destinos del suelo, vialidades, planeación e imagen urbana, así como los cálculos estructurales cuya instalación lo requiera, independientemente de lo previsto en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, éste Código Municipal y demás disposiciones aplicables. Además, podrá efectuar las verificaciones e inspecciones necesarias al lugar en que se pretenda instalar el anuncio, sin que ello implique el eximir de su responsabilidad a los Peritos respectivos.
 
 ###### ARTÍCULO 1210.
 
@@ -16733,11 +16867,11 @@ En los casos de reincidencia, se aplicará el máximo de la multa correspondient
 
 En el caso de reincidencia de los fabricantes de anuncios, arrendatarios o rotulistas, se procederá a negar la revalidación de su registro ante la Secretaría.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 1288.
 
-La Coordinación General de Verificación Única Administrativa ejercerá la facultad de verificación en materia de anuncios, observando en todo momento las disposiciones que en esta materia disponga el Código Municipal y la demás legislación aplicable.
+La Secretaría ejercerá la facultad de inspección y verificación en materia de anuncios, observando en todo momento las disposiciones que en esta materia disponga el Código Municipal y la demás legislación aplicable.
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -16763,17 +16897,15 @@ El desahogo del procedimiento referido en este capítulo, no excederá de quince
 
 # LIBRO SÉPTIMO. DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE AGUASCALIENTES, PUBLICADAS EN EL P.O. DE 4 DE MARZO DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
-
-## TÍTULO PRIMERO. DE LA NORMATIVIDAD DE LAS LICENCIAS REGLAMENTADAS, ESPECIALES Y PERMISOS
+## TÍTULO PRIMERO. DE LA NORMATIVIDAD DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO II. De las Autoridades
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 1293.
 
@@ -16919,33 +17051,33 @@ ARTÍCULO 1297 TER.- Se atenderán todas las quejas ciudadanas y asimismo se tom
 
 ###### ARTÍCULO 1298.
 
-Son autoridades administrativas competentes para la aplicación y vigilancia del presente título las siguientes:
+Son autoridades administrativas competentes para la aplicación y/o vigilancia del presente titulo las siguientes:
 
 I. El H. Ayuntamiento;
 
 II. El Presidente Municipal;
 
-III. La Comisión Permanente de Control Reglamentario y Espectáculos;
+III. La Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos;
 
 IV. La Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
 V. La Secretaría de Finanzas Públicas;
 
-VI. La Secretaría del Medio Ambiente y Desarrollo Sustentable;
+VI. La Secretaría de, Servicios Públicos;
 
-VII. La Secretaría de Seguridad Pública;
+VII. La Secretaría del Medio Ambiente y Desarrollo Sustentable;
 
-VIII. La Secretaría de Desarrollo Urbano;
+VIII. La Secretaría de Seguridad Pública;
 
-IX. La Dirección de Reglamentación;
+IX. La Secretaría de Desarrollo Urbano;
 
-X. La Coordinación General de Verificación Única Administrativa;
+X. La Dirección de Reglamentos;
 
 XI. Las Delegaciones Municipales;
 
 XII. Los Comisarios Municipales; y
 
-XIII. Los servidores públicos municipales a quienes se les deleguen facultades expresas para la aplicación y cumplimiento del presente Título.
+XIII. Los servidores públicos municipales a quienes se les deleguen facultades expresas para la aplicación y cumplimiento del presente Titulo.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -16987,17 +17119,27 @@ VII. Delegar facultades a los servidores públicos, conforme al artículo 98 del
 
 VIII. Las demás que le confieran el presente Código y los ordenamientos jurídicos aplicables.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2014)</small>
 
-ARTÍCULO 1298 QUATER.- Son facultades y atribuciones de la Comisión Permanente de Control Reglamentario y Espectáculos, las siguientes:
+ARTÍCULO 1298 QUATER.- Son facultades y atribuciones de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos las siguientes:
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 I. Vigilar que se cumpla con la aplicación de la normatividad correspondiente a los giros reglamentados establecidos en el Municipio;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 II. Vigilar el buen funcionamiento de las áreas municipales respectivas, para el cumplimiento de las disposiciones del presente Título;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 III. Solicitar por conducto de la Presidencia de la Comisión, información de las dependencias municipales relativas al cumplimiento de las disposiciones del presente Título;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 IV. Supervisar el manejo y destino de los aseguramientos que realizan las autoridades municipales correspondientes; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 V. Las demás que le confieran el presente Código y los ordenamientos jurídicos aplicables.
 
@@ -17017,13 +17159,19 @@ V. Vigilar el debido cumplimiento de las dependencias municipales, para la obser
 
 VI. Coordinar con la Secretaría de Finanzas Públicas los procedimientos y medidas de seguridad que deberán contener las licencias expedidas por el Municipio;
 
-VII. Recibir a través de la Dirección de Reglamentación las solicitudes para la expedición de las licencias y permisos especiales y reglamentados, previo cumplimiento de los requisitos establecidos para tal efecto;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+VII. Recibir a través de la Dirección de Reglamentos las solicitudes para la expedición de las licencias y permisos especiales y reglamentados, previo cumplimiento de los requisitos establecidos para tal efecto;
 
 VIII. Coordinar y vigilar los programas temporales de regularización de licencias, que se emitan conforme a la Ley de Ingresos del Municipio de Aguascalientes, correspondiente al ejercicio fiscal vigente y al presente Título;
 
-IX. Recibir a través de la Dirección de Reglamentación las solicitudes de cambios de titular, de domicilio de las licencias especiales o reglamentadas, conforme a la Ley de Ingresos del Municipio de Aguascalientes, correspondiente al ejercicio fiscal vigente, al presente Código y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-X. Llevar a través de la Dirección de Reglamentación, el control y registro de todas las licencias y permisos que se expiden conforme al presente Título;
+IX. Recibir a través de la Dirección de Reglamentos las solicitudes de cambios de titular, de domicilio de las licencias especiales o reglamentadas, conforme a la Ley de Ingresos del Municipio de Aguascalientes, correspondiente al ejercicio fiscal vigente, al presente Código y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+X. Llevar a través de la Dirección de Reglamentos, el control y registro de todas las licencias y permisos que se expiden conforme al presente Titulo;
 
 XI. Emitir por instrucción del Presidente Municipal, los criterios de interpretación o procedimientos necesarios para el cumplimiento del presente Título;
 
@@ -17091,69 +17239,95 @@ III. Previo a la expedición de la Constancia de Alineamiento y Compatibilidad U
 
 IV. Las demás que le señalen las disposiciones jurídicas aplicables; (sic)
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2014)</small>
 
-ARTÍCULO 1298 DECIES.- Son facultades y atribuciones de la Dirección de Reglamentación, las siguientes:
+ARTÍCULO 1298 DECIES.- Son facultades y atribuciones de la Dirección de Reglamentos, las siguientes:
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 I. Recibir, analizar y tramitar las solicitudes para el otorgamiento de las licencias o permisos que se establecen en el presente Libro;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 II. Recibir las solicitudes de las personas físicas o morales para los cambios de: titular de la licencia, domicilio, aumento y/o disminución de giro, suspensión de actividades o su respectiva corrección de las licencias expedidas por el Municipio, así como las cancelaciones voluntarias de las licencias;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 III. Integrar los expedientes correspondientes, previo cumplimiento de los requisitos establecidos en el presente Libro;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 IV. Ordenar que se coteje y se deje copia fotostática de toda documentación que se deba presentar en original, para la integración de los expedientes así como su digitalización;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 V. Autorizar las degustaciones de cualquier tipo de bebidas alcohólicas en lugares públicos;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 VI. Solicitar dictámenes y demás requerimientos a las autoridades municipales correspondientes, para el cumplimiento de los requisitos de las solicitudes de licencias y/o permisos;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 VII. Autorizar y suscribir los permisos para eventos públicos y/o privados que se desarrollen en lugares públicos, en términos de lo establecido en el presente Título;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 VIII. Autorizar y suscribir las ampliaciones y anticipaciones de horarios de los establecimientos mercantiles y/o lugares a que se refiere el presente Título;
 
-IX. Sancionar y ordenar su ejecución a través de la Coordinación General de Verificación Única Administrativa, mediante clausura temporal o definitiva a los establecimientos mercantiles o lugares y la imposición o reimposición de sellos de clausura, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+IX. Sancionar y ordenar su ejecución, mediante clausura temporal o definitiva a los establecimientos mercantiles o lugares y la imposición o reimposición de sellos de clausura, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 X. Llevar un registro y control de licencias y permisos otorgados por el Municipio y regulados por el presente Título y de los cambios que le sean autorizados;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 XI. Recibir y calificar las actas de verificación y en su caso determinar y aplicar todas aquellas sanciones y/o medidas de seguridad por la contravención a las disposiciones del presente Libro y, en su caso remitirlas a la Secretaría de Finanzas para su cobro;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 XII. Determinar, en su caso, la improcedencia de las sanciones de las actas de verificación que le sean remitidas para su calificación;
 
-XIII. Ordenar a la Coordinación General de Verificación Única Administrativa, el retiro de sellos de clausura una vez que se hayan pagado las multas y/o subsanado las observaciones de la autoridad municipal competente;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XIII.- Ordenar el retiro de sellos de clausura una vez que se hayan pagado las multas y/o subsanado las observaciones de la autoridad municipal competente;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 XIV. Solicitar a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, que expida a través de la Dirección de Asuntos Jurídicos, los dictámenes de cancelación de las licencias que regula el presente Libro, cuando proceda, a excepción de los dictámenes que se realizan por cancelación voluntaria;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 XV. Coordinarse con la Dirección de Tecnologías de la Información y Comunicación, para que se elabore y actualice un sistema informático del padrón de licencias y permisos, con los datos y herramientas necesarias para su consulta, en los términos de los ordenamientos jurídicos de acceso a la información;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 XVI. Remitir a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno los expedientes debidamente integrados para la expedición de licencias;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 XVII. Expedir y firmar conjuntamente con la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, la acreditación de las personas que tiene a su cargo, para desarrollar las actividades de vigilancia que establecen los ordenamientos jurídicos aplicables, en materia de espectáculos públicos, deportivos u otros;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 XVIII. Expedir y firmar la acreditación correspondiente a todas aquellas personas que individualmente o en grupo se dediquen a las actividades musicales u otras en la materia y hagan de ella su modo de vida;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 XIX. Las que sean inherentes a su función y necesarias para el cumplimiento del presente Libro;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 XX. Rendir el informe correspondiente en forma mensual a la Comisión Permanente de Control Reglamentario y Espectáculos o cuando así lo requiera la Comisión; y
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 XXI. Las que le confiera el presente Libro y demás disposiciones jurídicas aplicables.
 
-ADICIONADO, P.O. 4 DE MARZO DE 2013)
-
-ARTÍCULO 1298 UNDECIES.- Son atribuciones y facultades de la Coordinación General de Verificación Única Administrativa, las siguientes:
-
-I. Llevar a cabo las labores de verificación a solicitud de las autoridades competentes, en los establecimientos mercantiles o lugares regulados por el presente Libro, para comprobar que se cumpla con las disposiciones del presente Código y demás disposiciones jurídicas aplicables a la materia;
-
-II. Retirar los sellos de clausura cuando así proceda y que le sean indicados por la Dirección de Reglamentación;
-
-III. Rendir un informe semanal y mensual, de los aseguramientos realizados y de su destino, a la Presidencia Municipal, Comisión Permanente de Control Reglamentario y Espectáculos, Secretaría del H. Ayuntamiento y Dirección General de Gobierno, Contraloría Municipal y Dirección de Reglamentación;
-
-IV. Solicitar y recibir el apoyo del uso de la fuerza pública, en caso necesario para el debido cumplimiento de las disposiciones jurídicas aplicables;
-
-V. Ejecutar las sanciones que emita la Secretaría del H. Ayuntamiento y Dirección General de Gobierno o la Dirección de Reglamentación;
-
-VI. Remitir los bienes que con motivo de la contravención al presente Código sean asegurados a los infractores al lugar que designe la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, anexando copia del acta e inventario del aseguramiento; y
-
-VII. Las demás que le sean conferidas por el Reglamento de Verificación Administrativa del Municipio de Aguascalientes, el presente Código y demás disposiciones jurídicas aplicables.
+ARTÍCULO 1298 UNDECIES.- (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -17849,9 +18023,11 @@ c) Titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobiern
 
 d) Titular de la Contraloría Municipal;
 
-e) Titular de la Dirección de Reglamentación;
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
-f) Titular de la Coordinación General de Verificación Única Administrativa;
+e) Titular de la Dirección de Reglamentos;
+
+f) (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
 g) Responsable del almacén aseguramientos; y
 
@@ -17859,7 +18035,9 @@ h) Podrá solicitarse la presencia de un Notario Público.
 
 V. Se anexará al acta circunstanciada las fotografías, el video o cualquier otro medio probatorio, que se registre del evento para quedar como prueba de la destrucción realizada.
 
-El proceso de destrucción se realizará independientemente de la asistencia de las autoridades señaladas anteriormente, con excepción del Presidente Municipal y/o su representante, titular de la Controlaría, titular de la Coordinación General de Verificación Única Administrativa y la persona encargada del almacén de aseguramientos.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+
+El proceso de destrucción se realizará independientemente de la asistencia de las autoridades señaladas anteriormente, con excepción del Presidente Municipal y/o su representante, titular de la Controlaría y la persona encargada del almacén de aseguramientos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -17871,7 +18049,9 @@ Son obligaciones de las personas titulares de las licencias o permisos a que se 
 
 I. Tener licencia o permiso expedido por la autoridad municipal competente y cumplir con los requisitos y ordenamientos jurídicos aplicables en materia de salud y seguridad para su funcionamiento;
 
-II. Tener a la vista y mostrar en toda verificación la licencia original o copia certificada del establecimiento mercantil o permiso original que le otorgó la Secretaría del H. Ayuntamiento y Dirección General de Gobierno y/o Secretaría de Finanzas Públicas;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+II. Tener a la vista y mostrar en toda inspección y/o verificación la licencia original o copia certificada del establecimiento mercantil o permiso original que le otorgó la Secretaría del H. Ayuntamiento y Dirección General de Gobierno y/o Secretaría de Finanzas Públicas;
 
 III. Deberán colocar anuncios dentro del establecimiento mercantil en lugares visibles, que contengan la leyenda de: "EL ABUSO EN EL CONSUMO DEL ALCOHOL ES NOCIVO PARA LA SALUD", atendiendo a los criterios de medidas y colocación que establezca la autoridad municipal correspondiente;
 
@@ -17887,7 +18067,9 @@ VIII. Evitar la discriminación, por origen étnico, género, condición social,
 
 IX. Contar con las instalaciones adecuadas para el acceso y libre tránsito de personas con discapacidad, cumpliendo las disposiciones de la normatividad aplicable;
 
-X. Permitir el libre e inmediato acceso de los verificadores adscritos a la Coordinación General de Verificación Única Administrativa, para la realización de sus funciones. Quienes obstaculicen la entrada o inspección de los verificadores serán detenidos por elementos de la Secretaría de Seguridad Pública y puestos a disposición de un Juez Municipal;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+X.- Permitir el libre e inmediato acceso de los verificadores, para la realización de sus funciones, siempre que los mismos exhiban la orden de visita de acuerdo a la Ley del Procedimiento Administrativo. Quienes obstaculicen la entrada o inspección de los verificadores serán detenidos por elementos de la Secretaría de Seguridad Pública y puestos a disposición de un Juez Municipal;
 
 XI. Retirar a las personas que se encuentren en notorio estado de ebriedad dentro del establecimiento mercantil y que no guarden compostura o alteren de manera grave el orden público; en caso necesario se podrán solicitar el auxilio de la fuerza pública;
 
@@ -17901,9 +18083,13 @@ XV. Vigilar la seguridad de su establecimiento mercantil, no permitiendo riñas 
 
 XVI. Atender y solucionar con los medios a su alcance, todas las observaciones que realice la autoridad municipal, por motivo de quejas y/o denuncias ciudadanas o bien derivadas de la visita de verificación en relación a la cuestión operativa de su establecimiento;
 
-XVII. Solicitar en la Dirección de Reglamentación, el permiso correspondiente para aquellos establecimientos o lugares que no cuenten con la autorización de tener música en vivo, cuando se realice de manera temporal o continua;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-XVIII. Solicitar el permiso correspondientes (sic) en la Dirección de Reglamentación, para tener karaoke, sinfonola, rockola o similares; y
+XVII. Solicitar en la Dirección de Reglamentos, el permiso correspondiente para aquellos establecimientos o lugares que no cuenten con la autorización de tener música en vivo, cuando se realice de manera temporal o continua;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XVIII. Solicitar el permiso correspondientes, en la Dirección de Reglamentos, para tener karaoke, sinfonola, rockola o similares;
 
 XIX. Respetar cualquiera de las limitaciones que le impone este Título, al giro de que se trate, así como las demás que se desprendan de la Ley o que determine la autoridad municipal.
 
@@ -17933,7 +18119,9 @@ IX. Permitir el ingreso o permanencia de la clientela en el establecimiento merc
 
 X. Utilizar la vía pública para la realización de las actividades propias del giro, salvo autorización de la autoridad municipal competente;
 
-XI. Permitir el consumo de bebidas alcohólicas en los enseres de los establecimientos mercantiles colocados en vía pública, salvo la autorización de la Dirección de Reglamentación;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XI. Permitir el consumo de bebidas alcohólicas en los enseres de los establecimientos mercantiles colocados en vía pública, salvo la autorización de la Dirección de Reglamentos;
 
 XII. Realizar venta o permitir consumo de bebidas alcohólicas a personas con uniforme escolar, policías o militares uniformados; y
 
@@ -17993,7 +18181,9 @@ El Consejo estará integrado por:
 
 I. El Regidor titular de la Comisión de Gobernación o el representante que designe, con voto de calidad en caso de empate.
 
-II. El Regidor titular de la Comisión de Control Reglamentario y Espectáculos o el representante que designe.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+II. El Regidor titular de la Comisión de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos o el representante que designe.
 
 III. El Secretario del H. Ayuntamiento o el Representante que designe.
 
@@ -18007,9 +18197,9 @@ V. El Secretario de Seguridad Pública o el representante que designe.
 
 VI. El Secretario de Seguridad Pública y Tránsito o el representante que designe;
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-VII. El Director de Reglamentación; y
+VII. El Director de Reglamentos; y
 
 > <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -18129,7 +18319,9 @@ V. Comprobar que cuentan con contrato de suministro de Internet;
 
 VI. Fotografías del exterior y de las instalaciones del negocio; y
 
-VII. Constancia del número de equipos de cómputo que se registren ante la Dirección de Reglamentación.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+VII. Constancia del número de equipos de cómputo que se registren ante la Dirección de Reglamentos.
 
 ###### ARTÍCULO 1334.
 
@@ -18165,9 +18357,9 @@ V. Deberán vender, rentar y/o intercambiar fonogramas o videogramas cuya reprod
 
 BIS.- Los establecimientos dedicados a la venta, renta y/o intercambio de fonogramas o videogramas que incumplan con la obligación prevista en la fracción V del artículo anterior, serán sancionados con la clausura definitiva del establecimiento y el aseguramiento de la mercancía ilícita.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
-En cualquier momento, la Dirección de Reglamentación podrá solicitar el auxilio de la Secretaría de Seguridad Pública para la realización de las diligencias en donde se impongan y ejecuten las sanciones previstas en el párrafo anterior.
+En cualquier momento, la Dirección de Reglamentos podrá solicitar el auxilio de la Secretaría de Seguridad Pública para la realización de las diligencias en donde se impongan y ejecuten las sanciones previstas en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18189,7 +18381,7 @@ Los establecimientos dedicados a la renta de salones para fiestas infantiles, ja
 
 ### CAPÍTULO XVII. De la Actividad Musical en Vía Pública
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 1338.
 
@@ -18201,7 +18393,7 @@ Las personas que se dediquen a la venta de revistas y periódicos en estanquillo
 
 ###### ARTÍCULO 1339.
 
-Toda persona que se dedique a la actividad o a la prestación de servicios relacionados con la ejecución de cualquier género musical en la vía pública, dentro del Municipio de Aguascalientes, deberá de contar con la credencial que expida la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Reglamentación, y se regirán bajo las disposiciones de este capítulo.
+Toda persona que se dedique a la actividad o a la prestación de servicios relacionados con la ejecución de cualquier género musical en la vía pública, dentro del Municipio de Aguascalientes, deberá de contar con la credencial que expida la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Reglamentos, y se regirán bajo las disposiciones de este capítulo.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
@@ -18241,11 +18433,13 @@ e) Tomar acuerdos sobre situaciones no previstas en el presente capítulo.
 
 III.- El Comité de Actividades Musicales sesionará cuando fuese necesario, a convocatoria por el Secretario Técnico, las sesiones del Comité podrán realizarse con la asistencia de por lo menos la mitad de los integrantes del mismo y sus decisiones serán válidas cuando se tomen por mayoría de votos de los presentes.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 1341.
 
-Para contar con credencial para poder realizar actividades musicales en la vía pública, el interesado deberá de exhibir, por lo menos quince días hábiles antes de la realización de sus actividades ante la Dirección de Reglamentación, lo siguiente:
+Para contar con credencial para poder realizar actividades musicales en la vía pública, el interesado deberá de exhibir, por lo menos quince días hábiles antes de la realización de sus actividades ante la Dirección de Reglamentos, lo siguiente:
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
 I. Solicitud que contenga:
 
@@ -18269,31 +18463,45 @@ i) Firma autógrafa
 
 j) Lugar donde realizará las actividades musicales correspondientes.
 
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
 II. Identificación oficial.
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
 III. Acta de nacimiento.
 
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
 IV. Dos fotografías tamaño infantil.
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
 V. Recibo de pago del derecho correspondiente expedido por la Secretaría de Finanzas Públicas Municipales, conforme a lo establecido en la Ley de Ingresos del Municipio de Aguascalientes para el ejercicio fiscal que corresponda en los términos de las políticas de descuento aplicables y que sean establecidas por el H. Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
 Todos los integrantes de las agrupaciones que realicen actividades musicales en vía pública, deberán contar con la credencial referida en el presente artículo.
 
-Una vez presentados los requisitos mencionados en el presente artículo, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Reglamentación, si lo considera procedente, podrá expedir, en un término no mayor a 15 días hábiles, una credencial a la persona que realizará actividades musicales en vía pública, con la cual, éste acreditará la autorización para ejercer dicha actividad en vía pública, ajustándose a las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
-La Dirección de Reglamentación será responsable de registrar, en un padrón municipal, a las personas que realizan actividades musicales en vía pública. Aquellas personas que dejen de realizar dichas actividades deberán solicitar por escrito su baja del padrón.
+Una vez presentados los requisitos mencionados en el presente artículo, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Reglamentos, si lo considera procedente, podrá expedir, en un término no mayor a 15 días hábiles, una credencial a la persona que realizará actividades musicales en vía pública, con la cual, éste acreditará la autorización para ejercer dicha actividad en vía pública, ajustándose a las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+
+La Dirección de Reglamentos será responsable de registrar, en un padrón municipal, a las personas que realizan actividades musicales en vía pública. Aquellas personas que dejen de realizar dichas actividades deberán solicitar por escrito su baja del padrón.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 1342.
 
-La credencial expedida por la Dirección de Reglamentación tendrá una vigencia de un año y deberá resellarse cada tres meses. En caso de no ser resellada en dicho término, la credencial perderá validez y el interesado deberá realizar de nueva cuenta los trámites y el pago de derechos que correspondan.
+La credencial expedida por la Dirección de Reglamentos tendrá una vigencia de un año y deberá resellarse cada tres meses. En caso de no ser resellada en dicho término, la credencial perderá validez y el interesado deberá realizar de nueva cuenta los trámites y el pago de derechos que corresponda
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 1343.
 
-Toda persona que realice actividades musicales en vía pública, deberá exhibir la credencial que para tal efecto haya expedido la Dirección de Reglamentación a los verificadores de la Coordinación General de Verificación Única Administrativa. Nadie podrá realizar actividades musicales en vía pública si no cuenta con credencial vigente y resellada.
+Toda persona que realice actividades musicales en vía pública, deberá exhibir la credencial que para tal efecto haya expedido la Dirección de Reglamentos. Nadie podrá realizar actividades musicales en vía pública si no cuenta con credencial vigente y resellada.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
@@ -18311,9 +18519,9 @@ II. Escandalizar en la vía pública.
 
 III. Ejecutar canciones que por el significado de la letra atenten contra la moral y las buenas costumbres.
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-IV. No portar la credencial vigente y resellada expedida por la Dirección de Reglamentación de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+IV. No portar la credencial vigente y resellada expedida por la Dirección de Reglamentos de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
@@ -18335,9 +18543,9 @@ II. Multa de 10 a 20 días de Salario Mínimo General Vigente en el Estado de Ag
 
 III. Suspensión temporal para realizar actividades de la música en vía pública de 30 días a 60 días a las personas que transgredan las disposiciones establecidas en la fracción VI del artículo 1343 del presente Código.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
-Los verificadores de la Coordinación General de Verificación Única Administrativa que observen la violación a las presentes disposiciones, estarán facultados para imponer cualquiera de las siguientes medidas de seguridad:
+Los inspectores y/o verificadores de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, así como los de la Dirección de Reglamentos que observen la violación a las presentes disposiciones, estarán facultados para imponer cualquiera de las siguientes medidas de seguridad:
 
 a) Solicitar el apoyo de la fuerza pública para retirar a las personas que realicen actividades musicales en la vía pública.
 
@@ -18447,7 +18655,9 @@ VI. Comité Dictaminador.- Será el órgano encargado de analizar, discutir y en
 
 Estará integrado por:
 
-a) El Regidor Presidente de la Comisión de Mercados, Rastros y Estacionamientos.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+
+a) El Regidor Presidente de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos.
 
 b) El Director de Mercados, Estacionamientos y Áreas Comerciales.
 
@@ -18473,9 +18683,7 @@ g) Un representante de los Tianguistas y Comercio Informal.
 
 h) Un representante de la Contraloría Municipal, que tendrá participación con voz más no con voto.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
-
-i) El Coordinador General de Verificación Única Administrativa.
+i) (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
 VII. Se consideran zonas prohibidas: aquellas donde no se podrá autorizar actividad de comercio en vía pública.
 
@@ -18595,9 +18803,9 @@ IV. Mantener aseados sus locales y áreas donde ejecuten su actividad comercial.
 
 V. Cumplir con los pagos correspondientes de agua y energía eléctrica, así como el pago puntual de derechos de uso de piso, ante la Secretaría de Finanzas Públicas.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-VI. Contar con la autorización de las autoridades competentes para la utilización de básculas, las cuales podrán ser supervisadas por los verificadores de la Coordinación General de Verificación Única Administrativa.
+VI. Contar con la autorización de las autoridades competentes para la utilización de básculas, las cuales podrán ser supervisadas por los inspectores y/o verificadores de la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
 VII. Fijar en lugar visible la lista de precios autorizados, para la venta de sus productos.
 
@@ -18605,9 +18813,9 @@ VIII. Destinar el local exclusivamente al giro o giros señalados en la licencia
 
 IX. Respetar los límites de sus locales o lugar y no utilizar áreas comunes ni pasillos o corredores para exhibir o vender sus mercancías o productos.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-X. Permitir el libre acceso a los verificadores de la Coordinación General de Verificación Única Administrativa.
+X. Permitir el libre acceso a los inspectores y/o verificadores.
 
 XI. Cumplir con las normas de: seguridad, protección civil, sanidad e higiene y demás que le impongan otras autoridades municipales, estatales y federales competentes.
 
@@ -18621,9 +18829,9 @@ XIV. Cumplir con las normas fiscales que le imponga la autoridad competente.
 
 XV. Empadronarse y efectuar sus obligaciones de pago de derechos e impuestos que determina la Ley de Ingresos y demás disposiciones fiscales del Municipio.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-XVI. Presentar los documentos que le requiera el personal de verificación de la Coordinación General de Verificación Única Administrativa.
+XVI. Presentar los documentos que le requiera el personal de inspección y/o verificación.
 
 XVII. Respetar los horarios de carga y descarga de mercancías que determine la autoridad municipal, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
@@ -18675,15 +18883,21 @@ La Dirección de Mercados, Estacionamientos y Áreas Comerciales la cuál podrá
 
 Corresponde a las autoridades municipales:
 
-A. El Regidor Titular de la Comisión de Mercados, Rastros y Estacionamientos del H. Ayuntamiento:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2014)</small>
+
+A. El Regidor Titular de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos:
 
 I. Vigilar el cumplimiento de lo dispuesto en este capítulo y en el Código Municipal.
 
 II. Cumplir lo establecido en la Ley, en cuanto a facultades, atribuciones y obligaciones.
 
-III. Proponer al H. Ayuntamiento a través de la Comisión de Mercados, Rastros y Estacionamientos las zonas permitidas, restringidas o prohibidas para el comercio en vía pública en coordinación y de conformidad con la Secretaría de Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-IV. Vigilar y supervisar las condiciones generales bajo las cuáles la Dirección de Mercados, Estacionamientos y Áreas Comerciales regulará, organizará y operará la actividad del comercio en el Municipio de Aguascalientes, en base a las políticas establecidas y marcadas por la Comisión de Mercados, Rastros y Estacionamientos.
+III. Proponer al H. Ayuntamiento a través de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos las zonas permitidas, restringidas o prohibidas para el comercio en vía pública en coordinación y de conformidad con la Secretaría de Desarrollo Urbano.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+IV. Vigilar y supervisar las condiciones generales bajo las cuáles la Dirección de Mercados, Estacionamientos y Áreas Comerciales regulará, organizará y operará la actividad del comercio en el Municipio de Aguascalientes, en base a las políticas establecidas y marcadas por la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos.
 
 B. La Dirección de Mercados, Estacionamientos y Áreas Comerciales:
 
@@ -18709,15 +18923,17 @@ IX. La administración de la actividad comercial en los tianguis.
 
 X. Autorizar y expedir los permisos para el uso de piso y ejercer el comercio, previo cumplimiento de los requisitos que establece este capítulo y el pago de los derechos correspondientes.
 
-XI. (DEROGADA, P.O. 9 DE ENERO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+XI. Vigilar y practicar visitas de verificación e inspección por conducto de sus verificadores o inspectores, a los lugares, puestos y tianguis para comprobar por parte de quien ejerce el comercio en la vía publica, el debido cumplimiento de lo dispuesto por el presente capítulo.
 
-XII. Solicitar a la Coordinación General de Verificación Única Administrativa, verificar que se cumplan los lineamientos previamente aprobados relativos a la instalación, acomodo y retiro de los tianguistas, haciendo cumplir el horario, el espacio autorizado y la debida limpieza del lugar.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+XII. Verificar que se cumplan los lineamientos previamente aprobados relativos a la instalación, acomodo y retiro de los tianguistas, haciendo cumplir el horario, el espacio autorizado y la debida limpieza del lugar.
 
-XIII. Solicitar a la Coordinación General de Verificación Única Administrativa la verificación para efecto de que las credenciales que expida la autoridad competente se encuentren vigentes y al corriente en sus pagos por uso de piso.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+XIII. Verificar que las credenciales que expida la autoridad competente se encuentren vigentes y al corriente en sus pagos por uso de piso.
 
 XIV. Determinar los horarios y condiciones bajo las cuales deberá de ejercerse el comercio en la vía pública, así como vigilar que sean respetados los derechos y dimensiones a los lugares asignados.
 
@@ -18857,11 +19073,11 @@ XII. Será responsabilidad exclusiva del tianguista, la instalación, el uso, ma
 
 Para la venta de animales vivos se deberá contar con los permisos correspondientes de la autoridad competente.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 1381.
 
-La Coordinación General de Verificación Única Administrativa será la facultada para verificar los actos administrativos en materia de verificación que contiene el presente Capítulo y los demás ordenamientos aplicables en la materia, debiendo el personal a su cargo portar ostensiblemente su identificación que los acredite como tal.
+Para verificar el debido cumplimiento de las disposiciones que señala el presente capítulo, y demás disposiciones aplicables, la Dirección de Mercados, Estacionamientos y Áreas comérciales, contará con un departamento de verificadores e inspectores, los cuales portarán ostensiblemente su identificación que los acredite.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -20177,7 +20393,7 @@ Los términos fijados en días por disposiciones generales, o por autoridades mu
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+(REUBICADO, P.O. 13 DE ENERO DE 2014)
 
 ###### ARTÍCULO 1535.
 
@@ -20241,7 +20457,7 @@ Tratándose de las demás formas de notificación contenidas en el presente Cód
 
 En caso de que alguna notificación no haya sido realizada de conformidad con el presente Capítulo, si el interesado o su representante legal comparecen dándose por enterados del acto motivo de la notificación, ésta se tendrá por legalmente realizada.
 
-(REUBICADO, P.O. 9 DE ENERO DE 2012)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACIÓN E INSPECCIÓN
 
@@ -20253,25 +20469,27 @@ En caso de que alguna notificación no haya sido realizada de conformidad con el
 
 Corresponde a la administración municipal a través de sus dependencias:
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-I. Ejercer actos de verificación en el ámbito de su competencia, y por conducto de sus verificadores vigilar el estricto cumplimiento de las disposiciones del presente Código, así como de los demás ordenamientos legales en materia municipal.
+I. Ejercer actos de inspección y verificación en el ámbito de su competencia, y por conducto de sus inspectores vigilar el estricto cumplimiento de las disposiciones del presente código, así como de los demás reglamentos y leyes municipales;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-II. La vigilancia sobre el cumplimiento de las disposiciones señaladas, estará a cargo de la Coordinación General de Verificación Única Administrativa, contando con un cuerpo de verificadores y demás personal que sea habilitado para el efecto, por lo que contarán con las siguientes atribuciones:
+II. La vigilancia sobre el cumplimiento de las disposiciones señaladas, la cual estará a cargo de cada unidad administrativa en el ámbito de su competencia, contando con un cuerpo de inspectores y verificadores y demás servidores públicos que sean habilitados para tales efectos, por lo que contarán con las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-III. Realizar dentro del territorio municipal las visitas de verificación que consideren necesarias a los predios, establecimientos, giros industriales, comerciales, de servicios y en general en cualquier lugar con el fin de vigilar dentro de su competencia el cumplimiento de las disposiciones del presente Código y demás disposiciones aplicables.
+III. Realizar dentro del territorio municipal las visitas de inspección y verificación que consideren necesarias a los predios, establecimientos, giros industriales, comerciales, de servicios y en general en cualquier lugar, con el fin de vigilar dentro de su competencia el cumplimiento de las disposiciones del presente código y demás disposiciones aplicables.
 
-IV. Llevar a cabo las diligencias necesarias en el ámbito de su competencia o las que correspondan a la Federación y/o Estado previo acuerdo de coordinación, que para el caso se celebre previamente.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
+IV. Cada unidad administrativa llevará a cabo las diligencias necesarias en el ámbito de su competencia o las que correspondan a la Federación y/o Estado previo acuerdo de coordinación, que para el caso se celebre previamente.
 
 V. Aplicar las medidas de seguridad que establece este Código y demás disposiciones municipales aplicables.
 
 VI. Las demás que señale el presente Código y demás legislación aplicable.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1543.
 
@@ -20659,9 +20877,7 @@ f) No recoger las heces fecales de sus mascotas que sean arrojadas en la vía p�
 
 g) Todo acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso común o áreas de interés común;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE SEPTIEMBRE DE 2010)</small>
-
-h) Por violación a las disposiciones previstas en el Reglamento de Colombofilia y Colombicultura contenidas en el ARTICULO 491 Bis.
+h) (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
 II. GRUPO DOS, DE DIEZ A TREINTA DÍAS DE SALARIO MÍNIMO GENERAL VIGENTE EN LA ENTIDAD:
 
@@ -21699,17 +21915,15 @@ PRIMERO.- Las presentes reformas y adiciones al Código Municipal de Aguascalien
 
 SEGUNDO.- Una vez que las presentes reformas y adiciones al Código Municipal de Aguascalientes entren en vigor, las del Director de Protección Civil o el Director de Bomberos se entenderá referido al Director Municipal de Protección Civil, Bomberos y Atención de Emergencias Prehospitalarias.
 
-TERCERO.- Las Dependencias de la Administración Pública Municipal, que a la fecha de entrada en vigor de las presentes reformas y adiciones al Código Municipal de Aguascalientes, tengan a su cargo funciones de verificación en las materias que establece el propio Código, pondrán a disposición de la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA la plantilla de servidores públicos que tengan la calidad laboral de verificadores con que cuenten, una vez que se aprueben por el H. Cabildo las reformas y/o adiciones al Código Municipal de Aguascalientes relativas y el Reglamento Interior del H. Ayuntamiento y Dirección General de Gobierno.
-
-Los Servidores Públicos que ejercen actualmente funciones de verificación serán adscritos a la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA una vez aprobado lo prescrito en el párrafo que antecede.
+TERCERO. (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
 CUARTO.- La Secretaría del H. Ayuntamiento y Dirección General de Gobierno deberá presentar a través de la Comisión Permanente de Gobernación al H. Cabildo el Dictamen relativo al Reglamento Interior de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno en un término no mayor a los 60 días naturales siguientes a la publicación de las presentes reformas y adiciones al Código Municipal de Aguascalientes.
 
 QUINTO.- En tanto la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA asume sus atribuciones y facultades en los términos de las reformas y adiciones al Código Municipal de Aguascalientes, las Dependencias y Órganos de la Administración Pública del Municipio de Aguascalientes que sean competentes a la fecha de entrada en vigor de dichas reformas y/o adiciones, continuaran ejerciendo dichas funciones hasta la conclusión de los procedimientos de las reformas y/o adiciones al Código Municipal y Reglamento Interior de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, previamente publicados en el Periódico Oficial del Estado de Aguascalientes.
 
-SEXTO.- Las Dependencias de la Administración Pública Municipal que a la fecha ejerzan funciones de verificación entregarán a la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA una relación detallada de manera digital de los expedientes integrados con motivo de los procedimientos instaurados por el ejercicio de dicha función, a efecto de que la Coordinación se imponga de su contenido.
+SEXTO. (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
-SÉPTIMO.- Las menciones que en otras disposiciones se hagan a Dependencias vinculados con facultades de verificación administrativa relacionadas con la competencia de la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA se entenderán hechas a ésta.
+SÉPTIMO. (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
 OCTAVO.- La Secretaría de Administración llevará a cabo todos los actos legales o administrativos relacionados con las cuestiones laborales que se susciten con motivo de las presentes reformas y adiciones del Código Municipal de Aguascalientes.
 
@@ -21908,3 +22122,29 @@ PRIMERO.- Con fundamento en los artículos 4° último párrafo y 115 de la Cons
 SEGUNDO.- Asimismo, se aprueba el REGLAMENTO PARA LA REALIZACIÓN DE EVENTOS DEPORTIVOS EN EL MUNICIPIO DE AGUASCALIENTES, en atención al texto íntegro que obra en el cuerpo del presente Dictamen.
 
 TERCERO.- De conformidad con el artículo 94 de la Ley Municipal para el Estado de Aguascalientes, publíquese en el Periódico Oficial del Estado para que surta efectos al día siguiente de su publicación.
+
+P.O. 13 DE ENERO DE 2014.
+
+Primero.- Las modificaciones al presente código entraran en vigor el día siguiente al de su publicación.
+
+Segundo.- Se concede un plazo de 90 días hábiles después de la publicación del las presentes reformas, modificaciones y adiciones al Instituto Municipal de Planeación a efecto de que las dependencias, entidades y organismos desconcentrados de la Administración Pública Municipal en coordinación con el H. Ayuntamiento de Aguascalientes adecuen su normatividad de conformidad con las presentes reformas, respetando las políticas de austeridad, especialización y eficiencia técnica de su estructura organizacional.
+
+Tercero.- La Coordinación General de Verificación Única Administrativa deberá una vez aprobadas por el H. Cabildo las presentes reformas, modificaciones y adiciones poner a disposición de la Secretaría de Administración a los Servidores Públicos que ejercen actualmente funciones de verificación, la que llevará a cabo todos los actos legales o administrativos relacionados con las cuestiones laborales que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
+
+Cuarto.- La Coordinación General de Verificación Única Administrativa deberá enviar a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno una relación detallada de los expedientes integrados con motivo de los procedimientos linstaurados (sic) por el ejercicio de dicha función, a efecto de que la misma la haga llegar al área que corresponda atendiendo al acto que dio origen a la actuación, ello para su seguimiento.
+
+Quinto.- Se concede un plazo de 30 días hábiles después de la publicación de las presentes reformas, modificaciones y adiciones para que la Oficina Ejecutiva del Presidente Municipal, elabore el proyecto normativo del Sistema Municipal de Gestión y Planeación Estratégica.
+
+Sexto.- Para la interpretación y aplicación de todas las referencias que se hicieren a la Coordinación General de Verificación Única administrativa que establece el Código Municipal, Reglamentos u otro ordenamiento jurídico de competencia municipal, se entenderán en materia de inspección y verificación como facultad de las Dependencias o Unidades Administrativas correspondientes de la Administración Pública Municipal, en tanto se llevan a cabo las reformas respectivas.
+
+Séptimo.- Para la interpretación y aplicación de todas las menciones que se hicieren en el Código Municipal u otro ordenamiento jurídico de competencia municipal relativo al Código Urbano, se deberán entender como referencia al Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, en tanto se llevan a cabo las reformas correspondientes.
+
+Octavo.- Para la interpretación y aplicación de todas las menciones que se hicieren en el Código Municipal u otro ordenamiento jurídico de competencia municipal relativo a la Dirección de Reglamentación, se deberán entender como referencia a la Dirección de Reglamentos, en tanto se llevan a cabo las reformas correspondientes.
+
+Noveno.- SE ABROGA el Reglamento de Verificación Administrativa, del Municipio de Aguascalientes, publicado el día 9 de enero del 2012.
+
+Décimo.- Se concede un plazo de 30 días hábiles para que el H. Ayuntamiento Constitucional del Municipio de Aguascalientes modifique el Reglamento Interno del Consejo de la Ciudad adecuándolo en términos de la presente reforma.
+
+Undécimo.- Las menciones realizadas por éste Código a las Comisiones Permanentes establecidas por el artículo 82, se entenderán referidas a la Comisión permanente del ramo de que se trate, independientemente de su denominación actual, ello hasta en tanto se realicen las modificaciones correspondientes.
+
+Décimo Segundo.- Quedan derogadas las disposiciones jurídicas que se opongan a las presentes reformas, modificaciones y adiciones al Código Municipal de Aguascalientes.
