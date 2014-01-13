@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proyectos-de-inversion-y-prestacion-de-servicios-65063"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2008-12-17"
+last_updated: "2014-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE PROYECTOS DE INVERSION Y PRESTACION DE SERVICIOS PARA EL ESTADO DE QUERETARO
 
-LEY DE PROYECTOS DE INVERSION Y PRESTACION DE SERVICIOS PARA EL ESTADO DE QUERETARO
+LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS PARA EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -133,6 +133,10 @@ El Gobernador del Estado, a solicitud de la Secretaría, en caso de las entidade
 
 Aprobada la solicitud por la Legislatura del Estado, las entidades estatales o entidades municipales podrán licitar o adjudicar el Contrato correspondiente, en los términos de la ley respectiva, cumpliendo además con las disposiciones del correspondiente Decreto. El Contrato deberá especificar los derechos y obligaciones de las partes, con respecto a los activos del proyecto al terminarse su vigencia.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
+
+En caso de contrataciones por parte de la Legislatura del Estado, se estará, además a lo dispuesto en la Ley Orgánica del Poder Legislativo del Estado de Querétaro.
+
 La inobservancia de lo anterior, producirá la nulidad del Contrato.
 
 ### Capítulo Cuarto. Del Registro Estatal
@@ -220,3 +224,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE ENERO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", con excepción de la Ley Orgánica del Poder Legislativo del Estado de Querétaro y del Reglamento del Poder Legislativo para la aplicación de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, cuya aprobación iniciará a partir del día de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
