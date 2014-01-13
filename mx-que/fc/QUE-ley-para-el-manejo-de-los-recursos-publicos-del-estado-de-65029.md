@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-65029
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2012-11-07"
+last_updated: "2014-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -262,6 +262,10 @@ Los sujetos de la presente Ley no podrán efectuar ningún egreso que no haya si
 Los presupuestos de egresos no deberán contener partidas presupuestales secretas o confidenciales o cuyo fin no sea claro y específico.
 
 En el presupuesto de egresos, se incluirán las partidas necesarias para solventar obligaciones que constituyan deuda pública del Estado y las demás entidades paraestatales que cuenten con la garantía del Estado, cuando dichas obligaciones hayan sido incurridas en ejercicios fiscales anteriores y comprendan dos o más ejercicios fiscales, conforme a lo autorizado por las leyes y decretos correspondientes, así como las que se deriven de los proyectos de inversión y prestación de servicios aprobados conforme a la ley.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
+
+En el presupuesto de egresos del Poder Legislativo del Estado, bajo la más estricta responsabilidad del Presidente de la Junta de Concertación Política de la Legislatura, se incluirán las partidas necesarias para solventar las obligaciones económicas que hayan sido incurridas en ejercicios fiscales anteriores y comprendan dos o más ejercicios fiscales y que se deriven de los proyectos de inversión y prestación de servicios aprobados conforme a la ley, derivados de la facultad prevista para el Poder Legislativo, en el artículo 3 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1216,3 +1220,9 @@ P.O. 7 DE NOVIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones legales igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 13 DE ENERO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, con excepción de la Ley Orgánica del Poder Legislativo del Estado de Querétaro y del Reglamento del Poder Legislativo para la aplicación de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, cuya aprobación iniciará a partir del día de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
