@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-69095"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2009-06-26"
+last_updated: "2014-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
 
-LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
+LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -247,9 +247,13 @@ V. Cuando existan circunstancias que puedan provocar trastornos graves, pérdida
 
 VI. Cuando no existan por lo menos tres proveedores en el mismo tipo de bienes o servicios, previa investigación de mercado aprobada por el Comité;
 
-VII. Cuando se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que no sea posible precisar su alcance, estableciendo el catálogo de conceptos y cantidades de trabajo o determinar las especificaciones correspondientes; y
+VII. Cuando se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que no sea posible precisar su alcance, estableciendo el catálogo de conceptos y cantidades de trabajo o determinar las especificaciones correspondientes; y (sic)
 
 VIII. Cuando se hubiese rescindido el contrato o no se haya formalizado el mismo, el titular de la Oficialía Mayor, a través de los Comités, verificarán previamente si dentro de los que concursaron conforme a los criterios establecidos en esta Ley, existe otra proposición que resulte aceptable, en cuyo caso, el contrato se celebrará con el proveedor respectivo.
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+
+IX. En tratándose de los contratos previstos por el segundo párrafo del artículo 3 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, cuando así se haya resuelto por el Pleno del mismo.
 
 ###### Artículo 23.
 
@@ -669,7 +673,7 @@ Para ser registrados en el padrón, los interesados deberán satisfacer los sigu
 
 I. Llenar la solicitud correspondiente;
 
-II. Cuando se trate de personas morales deberán exhibir copia certificada de la escritura o acta constitutiva; de haber sido creadas por disposición legal, deberán de proporcionar el antecedente.En todo caso, se deberá acreditar la personalidad del representante;
+II. Cuando se trate de personas morales deberán exhibir copia certificada de la escritura o acta constitutiva; de haber sido creadas por disposición legal, deberán de proporcionar el antecedente. En todo caso, se deberá acreditar la personalidad del representante;
 
 III. Acreditar, mediante la exhibición de los documentos respectivos, que es productor o comerciante legalmente establecido, por lo menos un año antes, excepto en el caso de empresas de interés social o que propicien el desarrollo económico del Estado;
 
@@ -922,3 +926,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE ENERO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", con excepción de la Ley Orgánica del Poder Legislativo del Estado de Querétaro y del Reglamento del Poder Legislativo para la aplicación de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, cuya aprobación iniciará a partir del día de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
