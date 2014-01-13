@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2014-01-07"
+last_updated: "2014-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2014.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -240,13 +240,15 @@ IV.- Los gobiernos de las entidades federativas, incluyendo el Gobierno del Dist
 
 El Sistema Nacional de Salud está constituido por las dependencias y entidades de la Administración Pública, tanto federal como local, y las personas físicas o morales de los sectores social y privado, que presten servicios de salud, así como por los mecanismos de coordinación de acciones, y tiene por objeto dar cumplimiento al derecho a la protección de la salud.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 6o.
 
-El sistema nacional de salud tiene los siguientes objetivos:
+El Sistema Nacional de Salud tiene los siguientes objetivos:
 
-I.- Proporcionar servicios de salud a toda la población y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2014)</small>
+
+I.- Proporcionar servicios de salud a toda la población y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, con especial interés en la promoción, implementación e impulso de acciones de atención integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
 
 II.- Contribuir al desarrollo demográfico armónico del país;
 
@@ -291,6 +293,10 @@ La coordinación del Sistema Nacional de Salud estará a cargo de la Secretaría
 I.- Establecer y conducir la política nacional en materia de salud, en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Ejecutivo Federal;
 
 II.- Coordinar los programas de servicios de salud de las dependencias y entidades de la Administración Pública Federal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2014)</small>
+
+II Bis.- Promover e impulsar que las instituciones del Sistema Nacional de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
 
 III.- Impulsar la desconcentración y descentralización de los servicios de salud;
 
@@ -640,9 +646,11 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2014)</small>
 
-III.- La atención médica integral, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias;
+III.- La atención médica integral, que comprende la atención médica integrada de carácter preventivo, acciones curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
+
+Para efectos del párrafo anterior, la atención médica integrada de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo con la edad, sexo y los determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta;
 
 IV.- La atención materno-infantil;
 
@@ -8021,3 +8029,9 @@ D.O.F. 7 DE ENERO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto se seguirán tramitando hasta su conclusión, conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+D.O.F. 13 DE ENERO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud y todas las instituciones relacionadas, contarán con 180 días para realizar los ajustes necesarios a fin de poder otorgar la Atención Preventiva Integrada a la Salud.
