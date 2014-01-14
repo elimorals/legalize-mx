@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-97240
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,6 +22,8 @@ state: "MIC"
 # LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2014
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2014
+
+> <small>N. DE E. CONTIENE LAS FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE ENERO DE 2014.</small>
 
 TEXTO ORIGINAL.
 
@@ -54,6 +56,8 @@ LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL 
 En el ejercicio fiscal del año 2014, el Gobierno del Estado de Michoacán de Ocampo, percibirá ingresos por un monto de $ 57,641´044,77.00 (Cincuenta y siete mil seiscientos cuarenta y un millones, cuarenta y cuatro mil, setecientos setenta y siete pesos 00/100 M.N.)
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2013, PÁGINAS DE LA 1 A LA 9.</small>
+
+> <small>N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 14 DE ENERO DE 2014, PÁGINA 1</small>
 
 En los términos establecidos por los artículos 2°, 7° y 10 de la Ley de Deuda Pública del Estado de Michoacán de Ocampo, se autoriza al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para que a través de la Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado, contrate una línea de crédito revolvente en cuenta corriente, para cubrir necesidades transitorias de liquidez hasta por un monto de $800,000,000.00 (Ochocientos millones de pesos 00/100 M.N.), que podrá ser destinado a gastos de operación, debiendo ser cubierto dicho adeudo en el mismo ejercicio fiscal en que fue contratado. Por la naturaleza contingente del monto antes referido, no forma parte del monto de ingresos estimado en este artículo.
 
@@ -313,7 +317,9 @@ I. Por la expedición de concesiones de servicio público de autotransporte urba
 
 CONCEPTO CUOTA
 
-A) Auto de alquiler; camión urbano y camión suburbano; escolar; transporte de materiales para construcción; transporte de carga en general; servicio de grúa; pipa; carga ligera y otros servicios; foráneo de primera y segunda clase; autotransporte mixto (pasaje y carga); colectivo foráneo; y colectivo suburbano. $ 1,096.00
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
+
+A) Auto de alquiler; camión urbano y camión suburbano; escolar; transporte de materiales para construcción; transporte de carga en general; servicio de grúa; pipa; carga ligera y otros servicios; foráneo de primera y segunda clase; autotransporte mixto (pasaje y carga); colectivo foráneo; y colectivo suburbano. $ 11,096.00
 
 B) Colectivo urbano y turismo. $ 11,096.00
 
@@ -509,35 +515,61 @@ CONCEPTO TARIFA
 
 A) De Automovilista:
 
-1 Con vigencia de dos años $648.00
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
 
-2 Con vigencia de tres años. $ 901.00
+1 Con vigencia de dos años $ 548.00
 
-3 Con vigencia de cinco años. $ 1,402.00
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
+
+2 Con vigencia de cuatro años. $ 801.00
+
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
+
+3 Con vigencia de nueve años. $ 1,602.00
 
 B) De Chofer:
 
-1. Con vigencia de dos años. $ 833.00
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
 
-2. Con vigencia de tres años. $ 1,162.00
+1. Con vigencia de dos años. $ 733.00
 
-3. Con vigencia de cinco años. $ 1,922.00
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
+
+2. Con vigencia de cuatro años. $ 1,062.00
+
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
+
+3. Con vigencia de nueve años. $ 2,122.00
 
 C) De Motociclista:
 
-1. Con vigencia de dos años. $ 431.00
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
 
-2. Con vigencia de tres años. $ 536.00
+1. Con vigencia de dos años. $ 331.00
 
-3. Con vigencia de cinco años. $ 670.00
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
+
+2. Con vigencia de cuatro años. $ 436.00
+
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
+
+3. Con vigencia de nueve años. $ 870.00
 
 D) De Chofer de Servicio Público Estatal:
 
-1. Con vigencia de dos años. $ 1,099.00
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
 
-2. Con vigencia de tres años. $ 1,485.00
+1. Con vigencia de dos años. $ 999.00
 
-3. Con vigencia de cinco años. $ 2,570.00
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
+
+2. Con vigencia de cuatro años. $ 1,385.00
+
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
+
+3. Con vigencia de nueve años. $ 2,770.00
+
+> <small>(F. DE E. P.O. 14 DE ENERO DE 2014)</small>
 
 E) Por la reposición de las licencias referidas en la fracción I de este artículo, como consecuencia de robo o extravío, previa denuncia ante el Ministerio Público. $ 228.00
 
