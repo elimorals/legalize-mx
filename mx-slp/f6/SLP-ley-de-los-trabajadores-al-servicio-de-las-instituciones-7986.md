@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2013-05-07"
+last_updated: "2014-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -49,11 +49,13 @@ DISPOSICIONES GENERALES.
 
 La presente ley es de observancia general y obligatoria en el Estado de San Luis Potosí y rige las relaciones de trabajo de los poderes Legislativo, Ejecutivo y Judicial y de los municipios, así como de los organismos públicos descentralizados y empresas de participación estatal o municipal con sus trabajadores.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 2o.
 
-El trabajo es un derecho y un deber social y ha de efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia, en un marco de libertad y dignidad.
+El trabajo es un derecho y un deber social, y ha de efectuarse en condiciones de equidad e igualdad entre mujeres y hombres, que aseguren la integridad física y mental, así como un nivel económico decoroso para las personas trabajadoras y su familia, en un marco de libertad y dignidad, no discriminación y libre de violencia.
 
-No podrán establecerse distinciones entre los empleados públicos por motivo de raza, sexo, edad, credo religioso, doctrina política o condición social.
+No podrán establecerse distinciones entre las personas trabajadoras del servicio público por motivo de género, edad, etnia, preferencias políticas, religiosas o culturales, condición socioeconómica, cultural, discapacidad, enfermedad, orientación sexual o todas aquellas que puedan resultar discriminatorias.
 
 ###### ARTICULO 3o.
 
@@ -203,9 +205,17 @@ IV.- Las correcciones disciplinarias y normas de aplicación;
 
 V.- El lugar y horario en donde se presten los servicios;
 
-VI.- Las medidas preventivas de seguridad e higiene que deben adoptarse para que no se desempeñen trabajos que pongan en riesgo la integridad física de los trabajadores; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-VII.- Las que fueran necesarias a fin de obtener más seguridad y eficacia en el trabajo.
+VI.- Las medidas preventivas de seguridad e higiene que deben adoptarse para que no se desempeñen trabajos que pongan en riesgo la integridad física de los trabajadores;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+
+VII.- El libre acceso y desplazamiento de las personas en general, así como también de las personas trabajadoras que padezcan alguna discapacidad, todo ello en condiciones de igualdad y no discriminación, y
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+
+VIII.- Las que fueran necesarias a fin de obtener más seguridad y eficacia en el trabajo.
 
 ###### ARTICULO 23.
 
@@ -439,9 +449,17 @@ XI.- Guardar hacia los trabajadores el debido respeto y consideración;
 
 XII.- Contribuir para el fomento de actividades cívicas, culturales y deportivas de los trabajadores;
 
-XIII.- Proporcionar capacitación y adiestramiento en los términos de la presente ley; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XIV.- Cumplir con las demás obligaciones que deriven de este ordenamiento.
+XIII.- Proporcionar capacitación y adiestramiento en los términos de la presente Ley;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+
+XIV.- Adoptar las medidas, adecuaciones, ajustes y mejoras necesarios que aseguren el libre acceso y desplazamiento de las personas en general, así como también de las personas trabajadoras que padezcan de alguna discapacidad en condiciones de igualdad y no discriminación. Para estos efectos deberán modificar, en su caso, las instalaciones, en los términos que señalen las propias autoridades y la normatividad vigente, y.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+
+XV.- Cumplir con las demás obligaciones que deriven de este Ordenamiento.
 
 ### CAPITULO II.
 
@@ -1698,3 +1716,9 @@ P.O. 7 DE MAYO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
