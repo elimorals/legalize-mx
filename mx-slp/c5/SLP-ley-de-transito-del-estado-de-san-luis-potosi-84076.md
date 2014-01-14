@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2013-12-19"
+last_updated: "2014-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2014.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -81,107 +81,97 @@ Los organizadores de cualquier otra forma de manifestarse podrán dar aviso con 
 
 Tratándose de las vías de jurisdicción estatal a que se refiere el artículo 3° de esta Ley, el permiso o aviso estará a cargo de la Secretaría.
 
-###### ARTICULO 6°.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 6°.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Agente de tránsito: policía a cargo de la vigilancia del tránsito, así como de la aplicación de sanciones por infracciones a las disposiciones del reglamento de tránsito. La calidad de agente de tránsito se acreditará con la credencial que se expida en los términos del artículo 33 de la Ley de Seguridad Pública del Estado de San Luis Potosí; es de carácter funcional y competencial y es independiente del nivel que se tenga en la escala jerárquica y cargo en los reglamentos respectivos;
+I. Agente de tránsito: policía a cargo de la vigilancia del tránsito, así como de la aplicación de sanciones por infracciones a las disposiciones del reglamento de tránsito. La calidad de agente de tránsito se acreditará con la credencial que se expida en los términos del artículo 34 de la Ley de Seguridad Pública del Estado de San Luis Potosí; es de carácter funcional y competencial y es independiente del nivel que se tenga en la escala jerárquica y cargo en los reglamentos respectivos;
 
-II. Aliento alcohólico: es determinado mediante la prueba de alcoholimetría y ésta evidencia la ingesta de bebidas alcohólicas leve, dando como resultado a la persona apta para manejar;
+II. Alcoholímetro: dispositivo para medir la cantidad de alcohol que presenta en el aire espirado por una persona;
 
-III. Amonestación: prevención que se hace a un individuo para que se abstenga de hacer algo que se califique como infracción a este Ordenamiento;
+III. Aliento alcohólico: condición física y mental que se presenta en una persona cuando por la ingesta de alcohol etílico su organismo contiene menos de 0.05 gramos de alcohol por litro de sangre o hasta 0.19 moléculas de alcohol en aire espirado, mediante la prueba de alcoholimetría, dando como resultado a la persona apta para manejar;
 
-IV. Apercibimiento: hacer saber al ciudadano las consecuencias resultado de determinadas (sic) actos u omisiones de su parte por quebrantar este Ordenamiento;
+IV. Amonestación: prevención que se hace a un individuo para que se abstenga de hacer algo que se califique como infracción a este Ordenamiento;
 
-V. Automóvil: se refiere a un vehículo autopropulsado por un motor propio y destinado al transporte de personas y carga;
+V. Apercibimiento: hacer saber al ciudadano las consecuencias resultado de determinadas (sic) actos u omisiones de su parte por quebrantar este Ordenamiento;
 
-VI. Autotransportista: persona física o moral debidamente autorizada para prestar servicio público o privado de autotransporte;
+VI. Automóvil: se refiere a un vehículo autopropulsado por un motor propio y destinado al transporte de personas y carga;
 
-VII. Bicicleta: el aparato impulsado exclusivamente por la fuerza humana, que consta de dos o más ruedas alineadas, donde una o más personas se pueden sentar o montar sobre un asiento. Una bicicleta es un vehículo cuando se la (sic) utiliza en la vía pública;
+VII. Autotransportista: persona física o moral debidamente autorizada para prestar servicio público o privado de autotransporte;
 
-VIII. Ciclovía, ciclopista o vía ciclista: vía pública especializada para la circulación de bicicletas. Las ciclovías pueden ser urbanas o interurbanas y bidireccionales o unidireccionales, según se permita en ellas la circulación en uno o en los dos sentidos. También podrán ser de uso exclusivo para bicicletas, o de uso compartido con otros modos o medios de transporte no motorizados;
+VIII. Bicicleta: el aparato impulsado exclusivamente por la fuerza humana, que consta de dos o más ruedas alineadas, donde una o más personas se pueden sentar o montar sobre un asiento. Una bicicleta es un vehículo cuando se la (sic) utiliza en la vía pública;
 
-IX. Conductor: persona que conduce, maneja o tiene control físico de un vehículo en la vía pública;
+IX. Ciclovía, ciclopista o vía ciclista: vía pública especializada para la circulación de bicicletas. Las ciclovías pueden ser urbanas o interurbanas y bidireccionales o unidireccionales, según se permita en ellas la circulación en uno o en los dos sentidos. También podrán ser de uso exclusivo para bicicletas, o de uso compartido con otros modos o medios de transporte no motorizados;
 
-X. Desguace: desmontar o deshacer cualquier estructura, especialmente automóviles;
+X. Conductor: persona que conduce, maneja o tiene control físico de un vehículo en la vía pública;
 
-XI. Dictamen: conclusión a la que ha llegado el perito tras el análisis de objeto de prueba de acuerdo al arte, ciencia o técnicas por él dominadas;
+XI. Desguace: desmontar o deshacer cualquier estructura, especialmente automóviles;
 
-XII. Dirección: dirección de Seguridad Pública del Estado;
+XII. Dictamen: conclusión a la que ha llegado el perito tras el análisis de objeto de prueba de acuerdo al arte, ciencia o técnicas por él dominadas;
 
-XIII. Dispositivos para el control de tránsito: señalamientos, marcas, semáforos y otros medios similares que se utilizan para regular y guiar el tránsito de personas, semovientes y vehículos;
+XIII. Dirección: dirección de Seguridad Pública del Estado;
 
-XIV. Elemento: funcionario de la Dirección General de Seguridad Pública del Estado, con atribuciones operativas para vigilar el tránsito de vehículos y peatones;
+XIV. Director: titular de la Dirección General de Seguridad Pública del Estado;
 
-XV. Estacionamiento: espacio destinado y permitido para ubicar un vehículo en la vía pública en el carril adyacente a las aceras, o fuera de la vía pública, centros comerciales, en cocheras, lotes y edificios:
+XV. Dispositivos para el control de tránsito: señalamientos, marcas, semáforos y otros medios similares que se utilizan para regular y guiar el tránsito de personas, semovientes y vehículos;
 
-XVI. Estado de ebriedad: condición física o mental ocasionada por la ingesta de bebidas alcohólicas, que se manifieste en una persona mediante alteraciones en el sistema nervioso central. Dando a conocer resultado que la persona no esté apta para manejar;
+XVI. Elemento: funcionario de la Dirección General de Seguridad Pública del Estado, con atribuciones operativas para vigilar el tránsito de vehículos y peatones;
 
-XVII. Estudios técnicos: aquéllos que se realizan por profesionistas, expertos o peritos en la materia;
+XVII. Engomado: elemento de alta seguridad que se adhiere a las ventanas de los vehículos para permitir la identificación de elementos relacionados con el mismo;
 
-XVIII. Flotilla: cuando cinco o más vehículos, o más unidades de un mismo propietario, sea persona física o moral, y cuenten con la misma disposición de colores o la misma razón social;
+XVIII. Estacionamiento: espacio destinado y permitido para ubicar un vehículo en la vía pública en el carril adyacente a las aceras, o fuera de la vía pública, centros comerciales, en cocheras, lotes y edificios;
 
-XIX. Hecho de tránsito: choque de un vehículo en movimiento contra otro vehículo u otro bien mueble, inmueble, semovientes, volcaduras y atropellamiento de personas;
+XIX. Estado de ebriedad: condición física y mental que se presenta en una persona cuando por la ingesta de alcohol etílico su organismo contiene más de 0.05 gramos de alcohol por litro en la sangre o más de 0.20 moléculas de alcohol en aire espirado a por litro, mediante la prueba de alcoholimetría, dando como resultado que la persona no está apta para manejar;
 
-XX. Hidrante: boca de riego o tubo de descarga de líquidos con válvula;
+XX. Estudios técnicos: aquéllos que se realizan por profesionistas, expertos o peritos en la materia;
 
-XXI. Infracción: conducta que lleva a cabo un conductor, peatón o pasajero, que transgrede algunas disposiciones de esta Ley, o los reglamentos, y que tiene como consecuencia una sanción;
+XXI. Flotilla: cuando cinco o más vehículos, o más unidades de un mismo propietario, sea persona física o moral, y cuenten con la misma disposición de colores o la misma razón social;
 
-XXII. Licencia de conducir: documento que la autoridad estatal competente otorga a una persona para conducir un vehículo;
+XXII. Hecho de tránsito: choque de un vehículo en movimiento contra otro vehículo u otro bien mueble, inmueble o semoviente; volcaduras y atropellamiento de personas;
 
-XXIII. Número de identificación vehicular NIV: combinación de diecisiete caracteres asignados al vehículo al momento de su fabricación, o su registro en el padrón nacional;
+XXIII. Hidrante: boca de riego o tubo de descarga de líquidos con válvula;
 
-XXIV. Parte: acta y croquis que debe elaborar un perito en hechos de tránsito.
+XXIV. Infracción: conducta que lleva a cabo un conductor, peatón o pasajero, que transgrede algunas disposiciones de esta Ley, o los reglamentos, y que tiene como consecuencia una sanción;
 
-XXV. Pasajero: la persona, que se encuentra a bordo de un vehículo y no tiene carácter de conductor;
+XXV. Licencia de conducir: documento que la autoridad estatal competente otorga a una persona para conducir un vehículo;
 
-XXVI. Peatón: persona que transita a pie por la vía pública o zonas privadas con acceso al público, o camina asistiéndose de aparatos, o de vehículos no regulados por esta Ley, en el caso de las personas con discapacidad;
+XXVI. Número de identificación vehicular NIV: combinación de diecisiete caracteres asignados al vehículo al momento de su fabricación, o su registro en el padrón nacional;
 
-XXVII. Perito en hechos de tránsito: es toda aquella persona especializada cuyo objetivo es reconstruir un hecho de tránsito terrestre, con bases técnicas para emitir un dictamen, en el que se establece las causas que dieron origen al mismo;
+XXVII. Parte: acta y croquis que debe elaborar un perito en hechos de tránsito;
 
-XXVIII. Permiso para circular sin placas y tarjeta de circulación: documento otorgado por la autoridad competente destinado a individualizar al vehículo y a su dueño, con el objeto de que pueda circular temporalmente;
+XXVIII. Pasajero: la persona que se encuentra a bordo de un vehículo y no tiene carácter de conductor;
 
-XXIX. Placa: plancha de metal en que figura el número de matrícula, que permite individualizar un vehículo, expedida por la autoridad competente;
+XXIX. Peatón: persona que transita a pie por la vía pública o zonas privadas con acceso al público, o camina asistiéndose de aparatos, o de vehículos no regulados por esta Ley, en el caso de las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+XXX. Perito en hechos de tránsito: es toda aquella persona especializada cuyo objetivo es reconstruir un hecho de tránsito terrestre, con bases técnicas para emitir un dictamen, en el que se establece las causas que dieron origen al mismo;
 
-XXX. Placas de demostración, son aquellas que de forma momentánea sirven para mostrar en su funcionamiento el vehículo en la vía pública;
+XXXI. Permiso para circular sin placas y tarjeta de circulación: documento otorgado por la autoridad competente destinado a individualizar al vehículo y a su dueño, con el objeto de que pueda circular temporalmente;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+XXXII. Placa: plancha de metal en que figura el número de matrícula, que permite individualizar un vehículo, expedida por la autoridad competente;
 
-XXXI. Registro público vehicular: es un registro de información a nivel nacional que tiene como propósito otorgar seguridad pública y jurídica a los actos que se realicen con vehículos que circulen en territorio nacional, mediante la identificación y control vehicular, además de brindar servicios de información públicos;
+XXXIII. Prueba de alcoholimetría: Procedimiento llevado a cabo por la autoridad con el fin de determinar si una persona presenta aliento alcohólico ó estado de ebriedad;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+XXXIV. Registro público vehicular: es un registro de información a nivel nacional que tiene como propósito otorgar seguridad pública y jurídica a los actos que se realicen con vehículos que circulen en territorio nacional, mediante la identificación y control vehicular, además de brindar servicios de información públicos;
 
-XXXII. Secretaría: Secretaría de Seguridad Pública del Estado;
+XXXV. Reglamento: Reglamento de la Dirección General de Tránsito
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+XXXVI. Secretaría: Secretaría de Seguridad Pública del Estado;
 
-XXXIII. Tarjeta de circulación: documento oficial expedido por la autoridad competente que identifica al vehículo por sus características e individualiza al propietario;
+XXXVII. Tarjeta de circulación: documento oficial expedido por la autoridad competente que identifica al vehículo por sus características e individualiza al propietario;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+XXXVIII. Vehículo: son aquellos automotores, remolques y semirremolques terrestres, sobre el cual toda persona u objeto puede ser transportado por una vía, excepto los ferrocarriles, los militares y aquellos que por su naturaleza sólo pueden ser destinados a usos agrícolas e industriales;
 
-XXXIV. Vehículo: son aquellos automotores, remolques y semirremolques terrestres, sobre el cual toda persona u objeto puede ser transportado por una vía, excepto los ferrocarriles, los militares y aquellos que por su naturaleza sólo pueden ser destinados a usos agrícolas e industriales;
+XXXIX. Vehículos chatarra: los que se encuentren en depósitos vehiculares por un periodo mayor a un año y que, por sus condiciones físicas y mecánicas, se consideran inservibles o inadecuados para reincorporarse a la circulación;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+XL. Vehículos de emergencia: patrullas, ambulancias, vehículos de bomberos y cualquier otro vehículo que haya sido autorizado por la autoridad estatal para portar o usar sirena y torretas de luces rojas, blancas, azules y ámbar;
 
-XXXV. Vehículos chatarra: los que se encuentren en depósitos vehiculares por un periodo mayor a un año y que, por sus condiciones físicas y mecánicas, se consideran inservibles o inadecuados para reincorporarse a la circulación;
+XLI. Vehículos equiparables a chatarra: todo vehículo que circunstancialmente se encuentren en la vía pública en desuso y que, por sus condiciones físicas o mecánicas, o de desvalijamiento, se presume que se encuentre en estado de abandono;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+XLII. Vehículos especiales: grúas, vehículos de apoyo, de auxilio, y cualquier otro vehículo que haya sido autorizado por la Secretaría para usar sirena, torretas de luces, blancas, azules y ámbar, y
 
-XXXVI. Vehículos de emergencia: patrullas, ambulancias, vehículos de bomberos y cualquier otro vehículo que haya sido autorizado por la autoridad estatal para portar o usar sirena y torretas de luces rojas, blancas, azules y ámbar;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XXXVII. Vehículos equiparables a chatarra: todo vehículo que circunstancialmente se encuentren en la vía pública en desuso y que, por sus condiciones físicas o mecánicas, o de desvalijamiento, se presume que se encuentre en estado de abandono;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XXXVIII. Vehículos especiales: grúas, vehículos de apoyo, de auxilio, y cualquier otro vehículo que haya sido autorizado por la Secretaría para usar sirena, torretas de luces, blancas, azules y ámbar, y
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XXXIX. Vías públicas: avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso, ciclo pistas y banquetas; así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, acotamientos, derechos de vía, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes.
+XLIII. Vías públicas: avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso, ciclo pistas y banquetas; así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, acotamientos, derechos de vía, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes.
 
 ###### ARTICULO 7°.
 
@@ -195,11 +185,15 @@ El Ejecutivo del Estado y los ayuntamientos proveerán en la esfera de su compet
 
 Son autoridades estatales en materia de tránsito:
 
-I. El titular del Poder del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+
+I. El titular del Poder Ejecutivo de Estado;
 
 II. El titular de la Secretaría de Seguridad Pública, y
 
-III. La Dirección General de Seguridad Pública.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+
+III. El Director.
 
 ###### ARTICULO 9°.
 
@@ -209,9 +203,13 @@ I. Los ayuntamientos;
 
 II. Los presidentes municipales, y
 
-III. La dirección de seguridad pública municipal de tránsito o su equivalente.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-Se considera que las direcciones de seguridad pública municipal, de tránsito, o su equivalente, sea cual sea la denominación que se les dé en los reglamentos municipales, son un cuerpo de seguridad pública en los términos del artículo 21 fracción II de la Ley de Seguridad Pública del Estado de San Luis Potosí.
+III. El Director.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2014)</small>
+
+Se considera que las direcciones de seguridad pública municipal, de tránsito, o su equivalente, sea cual sea la denominación que se les dé en los reglamentos municipales, son un cuerpo de seguridad pública en los términos del artículo 22 fracción II de la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí.
 
 Las atribuciones operativas que esta Ley, los reglamentos municipales y, en su caso, los bandos de policía y gobierno les otorguen, son consideradas como de seguridad pública.
 
@@ -301,9 +299,11 @@ VI. Autorizar el establecimiento y operación de los centros de verificación ve
 
 VII. Las que esta Ley y las demás disposiciones legales señalen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 15.
 
-Son atribuciones del titular de tránsito municipal, dentro de su jurisdicción territorial:
+Son atribuciones del Director de tránsito municipal o su equivalente, dentro de su jurisdicción territorial:
 
 I. Establecer las medidas preventivas tendientes a evitar infracciones y accidentes de tránsito en las vías públicas;
 
@@ -643,7 +643,9 @@ II. Cuando sea necesario para verificar la identidad del conductor y la identifi
 
 III. En la ejecución de programas o acciones de carácter preventivo, en los términos que dispongan los reglamentos unicipales (sic), y
 
-IV. En la ejecución de operativos conjuntos en los términos del artículo 8° de la Ley de Seguridad Pública del Estado de San Luis Potosí.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+
+IV. En la ejecución de operativos conjuntos en los términos del artículo 8° de la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí.
 
 ###### ARTICULO 46.
 
@@ -749,7 +751,9 @@ Las autoridades judiciales y administrativas, estales y municipales, deberán pr
 
 Los vehículos que hayan sido puestos en depósito podrán ser entregados cuando sea presentada la orden de liberación, emitida por la autoridad competente, misma que será expedida bajo el cumplimiento de los requisitos necesarios.
 
-Además de lo anterior, se deberá proporcionar el pago correspondiente al prestador del servicio; para tales efectos, la tarifa se considerará por día completo; si no llegara a completarse el día se cobrará de manera proporcional por fracción de hora.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2014)</small>
+
+Además de lo anterior, se deberá proporcionar comprobante oficial de haber cubierto ante la autoridad, el pago correspondiente al prestador del servicio; para tales efectos, la tarifa se considerará por día completo; si no llegara a completarse el día se cobrará de manera proporcional por fracción de hora.
 
 ###### ARTICULO 62.
 
@@ -913,9 +917,13 @@ VII. Respetar los límites de velocidad que marcan los señalamientos viales, y 
 
 VIII. Evitar dar marcha a su vehículo hasta que aquellos la hayan cruzado, cuando le corresponde el paso a los peatones, ciclistas, escolares, personas adultas mayores y personas con discapacidad y éstos no alcancen a cruzar la calle;
 
-IX. Conservar la distancia de seguridad entre vehículo y vehículo, la cual es directamente proporcional a la velocidad de desplazamiento, tomando en cuenta las condiciones del camino y del vehículo, y
+IX. Conservar la distancia de seguridad entre vehículo y vehículo, la cual es directamente proporcional a la velocidad de desplazamiento, tomando en cuenta las condiciones del camino y del vehículo, y (sic)
 
-X. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+
+X. Abstenerse de conducir vehículos en estado de ebriedad y con aliento alcohólico, o en cualquier estado de intoxicación, y
+
+XI. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo III. De las Escuelas de Manejo
 
@@ -1037,9 +1045,17 @@ VI. En los casos en que el conductor del vehículo agreda al elemento o agente d
 
 VII. Cuando se realicen con el vehículo actividades que se encuentran reguladas por la Ley de Transporte Público de San Luis Potosí;
 
-VIII. En ningún caso los vehículos podrán transitar con permiso para circular sin placas y tarjeta de circulación, cuando las placas correspondientes al vehículo no hayan sido dadas de baja o, en su caso, entregadas a la Secretaría, y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-IX. En estos casos el propietario estará obligado a cubrir el costo de la maniobra y arrastre realizado por la grúa, así como el monto de la pensión en donde se deposite el vehículo, de conformidad a las tarifas autorizadas en las leyes respectivas.
+VIII. En ningún caso los vehículos podrán transitar con permiso para circular sin placas y tarjeta de circulación, cuando las placas correspondientes al vehículo no hayan sido dadas de baja o, en su caso, entregadas a la Secretaría;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+
+IX. En los casos en que haya sido necesario el uso de grúa, el propietario estará obligado a cubrir el costo de la maniobra y arrastre realizado por la grúa, así como el monto de la pensión en donde se deposite el vehículo, mismo que se efectuará en las oficinas recaudadoras de la autoridad que haya emitido la infracción de conformidad con la ley de ingresos respectiva, por lo que queda prohibido que los prestadores de servicio de grúa y pensión realicen el cobro de manera directa al infractor, y
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+
+X. En los casos establecidos en las fracciones II, V, VII y VIII, el infractor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique, y sólo en caso de negativa, o de abandono de la unidad, se podrá ordenar el traslado por medio de grúa; el agente de seguridad pública con funciones de tránsito, deberá levantar razón en la boleta que emita.
 
 ###### ARTICULO 88.
 
@@ -1376,3 +1392,21 @@ P.O. 19 DE DICIEMBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2014.
+
+SE REFORMA LOS ARTÍCULOS, 6° FRACCIONES I A XXXVIII, 8° EN SUS FRACCIONES I Y III, 9° EN SU FRACCIÓN III Y PÁRRAFO PENÚLTIMO, 15 EN SU PÁRRAFO PRIMERO, 45 EN SU FRACCIÓN IV, Y 72 EN SUS FRACCIONES IX Y X; Y ADICIONA A LOS ARTÍCULOS, 6° LAS FRACCIONES XXXIX A XLIII, Y 72 FRACCIÓN X POR LO QUE LA ACTUAL X PASA A SER FRACCIÓN XI, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2014.
+
+SE REFORMA LOS ARTÍCULOS, 61 EN SU PÁRRAFO SEGUNDO, Y 87 EN SUS FRACCIONES VIII Y IX; Y ADICIONA AL ARTÍCULO 87 LA FRACCIÓN X, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los cincuenta y ocho ayuntamientos de la Entidad, tendrán seis meses a partir de la publicación del presente Decreto en el Periódico Oficial del Estado, para regularizar los montos en sus respectivas leyes de ingresos para el cobro del servicio de grúas; así como modificar, en lo conducente, la reglamentación respectiva de competencia municipal. De igual forma, regularizar los convenios con particulares para la prestación de dicho servicio.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
