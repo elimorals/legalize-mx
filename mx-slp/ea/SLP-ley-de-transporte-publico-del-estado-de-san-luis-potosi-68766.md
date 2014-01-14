@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2013-12-31"
+last_updated: "2014-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1681,13 +1681,21 @@ VI. Un representante de los concesionarios por cada ruta y modalidad, a invitaci
 
 VII. Un representante por cada una de las cámaras de la industria, comercio y servicios, constituidas en el municipio;
 
-VIII. Un representante de las instituciones e educación media superior y superior;
+VIII. Un representante de las instituciones de educación media superior y superior;
 
 IX. Un representante de los estudiantes de las instituciones de educación media superior y superior;
 
-X. Un representante de las organizaciones sindicales, legalmente constituidas, que tengan relación directa con el transporte público, y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XI. A invitación expresa del Presidente, podrán participar en las sesiones del Consejo, los representantes de los sectores públicos, estatal y municipal, y las personas que por su experiencia y conocimientos puedan aportar importante colaboración al desarrollo de los trabajos del Consejo.
+X. Un representante de las organizaciones sindicales, legalmente constituidas, que tengan relación directa con el transporte público;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+
+XI. A invitación expresa del Presidente, podrán participar en las sesiones del Consejo, los representantes de los sectores públicos, estatal y municipal, y las personas que por su experiencia y conocimientos puedan aportar importante colaboración al desarrollo de los trabajos del Consejo, y
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+
+XII. En el caso de los municipios con presencia indígena, de acuerdo con el padrón de comunidades para el efecto en el Estado, se deberá integrar al representante de Asuntos Indígenas ante el Ayuntamiento que corresponda.
 
 En caso de ausencia del Presidente del Consejo, será el secretario técnico quien ejerza las atribuciones que le correspondan a aquél. El resto de los miembros del Consejo designarán a su suplente, quien fungirá como titular en caso de ausencia de éste, y deberán estar legalmente acreditados en los registros de la Secretaría Técnica del Consejo.
 
@@ -2074,5 +2082,11 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 P.O. 31 DE DICIEMBRE DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor el uno de enero de 2014, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
