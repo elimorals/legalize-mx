@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-ministerio-publico-del-estado-de-zacatecas-168
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-08-12"
-last_updated: "2013-12-14"
+last_updated: "2014-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE ENERO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 7 PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2013.</small>
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 12 de agosto del 2000.
 
