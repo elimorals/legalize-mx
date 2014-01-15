@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2012-04-09"
+last_updated: "2014-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -118,7 +118,7 @@ El Ejecutivo Federal, por conducto de la Secretaría del Trabajo y Previsión So
 
 La Asamblea General deberá reunirse por lo menos dos veces al año.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 10.
 
@@ -202,7 +202,7 @@ Los miembros del Consejo de Administración presidirán las sesiones en forma ro
 
 El Consejo de Administración sesionará, por lo menos, una vez al mes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 16.
 
@@ -470,13 +470,13 @@ El Balance Anual del Instituto deberá publicarse dentro de los treinta días si
 
 El Director General será nombrado por la Asamblea General, a proposición del Presidente de la República. Para ocupar dicho cargo, se requiere ser mexicano por nacimiento, de reconocida honorabilidad y experiencia técnica y administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 23.
 
 El Director General tendrá las siguientes atribuciones y facultades:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 I.- Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme a la ley, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil para el Distrito Federal. Estas facultades las ejercerá en la forma en que acuerde el Consejo de Administración.
 
@@ -686,11 +686,11 @@ Las obligaciones de efectuar las aportaciones y enterar los descuentos a que se 
 
 El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en su carácter de organismo fiscal autónomo, está facultado, en los términos del Código Fiscal de la Federación, para:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 I.- Determinar, en caso de incumplimiento, el importe de las aportaciones patronales y de los descuentos omitidos, así como calcular su actualización y recargos que se generen, señalar las bases para su liquidación, fijarlos en cantidad líquida y requerir su pago. Para este fin podrá ordenar y practicar, con el personal que al efecto designe, visitas domiciliarias, auditorías e inspecciones a los patrones, requiriéndoles la exhibición de libros y documentos que acrediten el cumplimiento de las obligaciones que en materia habitacional les impone esta Ley.
 
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 Las facultades del Instituto para comprobar el cumplimiento de las disposiciones de esta Ley, así como para determinar las aportaciones omitidas y sus accesorios, se extinguen en el término de cinco años no sujeto a interrupción contado a partir de la fecha en que el propio Instituto tenga conocimiento del hecho generador de la obligación. El plazo señalado en este párrafo sólo se suspenderá cuando se interponga el recurso de inconformidad previsto en esta Ley o se entable juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
@@ -954,7 +954,7 @@ En el caso de que el trabajador obtenga crédito de alguna entidad financiera y 
 
 Previo convenio con la entidad financiera participante, el Instituto podrá incluir en el porcentaje de descuento que el patrón efectúe al salario del trabajador acreditado, el importe que corresponda a los créditos otorgados en los términos del presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 44.
 
@@ -990,7 +990,7 @@ III.- El monto de las aportaciones al Fondo proveniente de las diversas regiones
 
 IV.- El número de trabajadores en las diferentes regiones o localidades del Territorio Nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 47.
 
@@ -1018,7 +1018,7 @@ Para este segundo crédito el trabajador podrá disponer de los recursos acumula
 
 El Consejo de Administración mediante disposiciones de carácter general que al efecto publique en el Diario Oficial de la Federación, determinará: los montos máximos de los créditos que otorgue el Instituto, en función de, entre otros factores, los ingresos de los trabajadores acreditados, así como el precio máximo de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos citados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 49.
 
@@ -1132,7 +1132,7 @@ Las controversias derivadas de adeudos de los trabajadores al Instituto por cré
 
 Será optativo para los trabajadores, sus causahabientes o beneficiarios, agotar el recurso de inconformidad o acudir directamente a la Junta Federal de Conciliación y Arbitraje o a los tribunales competentes.
 
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 54.
 
@@ -1208,7 +1208,7 @@ El Instituto no podrá intervenir en la administración, operación o mantenimie
 
 (DEROGADO, D.O.F. 24 DE FEBRERO DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 66.
 
@@ -1256,6 +1256,12 @@ El Instituto podrá celebrar convenios de coordinación y colaboración con las 
 
 El Instituto no será sujeto de contribuciones federales, salvo los derechos de carácter federal correspondientes a la prestación de servicios públicos. El Instituto cubrirá el pago de los impuestos y derechos de carácter municipal, en las mismas condiciones en que deben pagar los demás causantes.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2014)</small>
+
+###### ARTICULO 71.
+
+Con el objeto de preservar y fortalecer el ahorro de los derechohabientes depositado en su subcuenta de vivienda y atendiendo los balances necesarios que su naturaleza social exige, el Instituto brindará opciones que ayuden a los acreditados a conservar su patrimonio, por lo que el Instituto llevará a cabo la recuperación de los créditos que hubiera otorgado partiendo de un esquema de cobranza social aprobado por el Consejo de Administración.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1282,7 +1288,7 @@ México, D. F., a 21 de Abril de 1972.- "Año de Juárez".- Renato Vega Alvarado
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintidós días del mes de abril de mil novecientos setenta y dos.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Rafael Hernández Ochoa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE DICIEMBRE DE 1974.
 
@@ -1332,7 +1338,7 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de la fecha de
 
 D.O.F. 28 DE DICIEMBRE DE 1989.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1428,7 +1434,7 @@ A partir del año de 1996, el presupuesto de gastos citado, deberá ajustarse a 
 
 D.O.F. 22 DE JULIO DE 1994.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1492,7 +1498,7 @@ DECIMO QUINTO.- Las prórrogas a que se refiere el Artículo 41 aplicables cuand
 
 D.O.F. 31 DE DICIEMBRE DE 2000.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 
@@ -1519,3 +1525,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 15 DE ENERO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
