@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-y-conservacion-del-patrimonio-cultural-97200"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-14"
-last_updated: "2013-12-14"
+last_updated: "2014-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,19 @@ state: "ZAC"
 ---
 # LEY DE PROTECCION Y CONSERVACION DEL PATRIMONIO CULTURAL DEL ESTADO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 15 DE ENERO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE ZACATECAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE ENERO DE 2014.</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 14 de diciembre de 2013.
 
 LIC. MIGUEL ALEJANDRO ALONSO REYES, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
 
-Que los DIPUTADOS SECRETARIOS de la Honorable Sexagésima Legislatura del Estado, se han servido dirigirme el siguiente:
+> <small>(F. DE E., P.O. 15 DE ENERO DE 2014)</small>
+
+Que los DIPUTADOS SECRETARIOS de la Honorable Sexagésima Primera Legislatura del Estado, se han servido dirigirme el siguiente:
 
 DECRETO # 30
 
@@ -887,7 +889,7 @@ DADO en el Despacho del Poder Ejecutivo del Estado, a los once días del mes de 
 
 Atentamente.
 
-"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+“SUFRAGIO EFECTIVO. NO REELECCIÓN”
 
 EL GOBERNADOR DEL ESTADO DE ZACATECAS
 
