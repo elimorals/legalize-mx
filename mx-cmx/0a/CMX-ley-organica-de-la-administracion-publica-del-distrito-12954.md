@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2013-01-29"
+last_updated: "2014-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -898,9 +898,9 @@ X. Actuar como órgano coordinador y enlace con las cámaras, asociaciones y rep
 
 XI. Presidir los comités técnicos, comisiones y órganos de fomento establecidos para el desarrollo económico de la Ciudad;
 
-> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2014)</small>
 
-XII. Proponer y establecer en coordinación con la Contraloría General el marco de actuación y normatividad de las ventanillas de atención al sector productivo;
+XII. Proponer y establecer en coordinación con la Oficialía Mayor el marco de actuación y normatividad de las ventanillas de atención al sector productivo;
 
 XIII. Instrumentar la normatividad que regule, coordine y dé seguimiento a los subcomités de promoción y fomento económico delegacional;
 
@@ -908,9 +908,9 @@ XIV. Mantener la consulta permanente con los organismos y asociaciones represent
 
 XV. Proponer acciones con base en estudios y programas especiales, sobre la simplificación y desregulación administrativa de la actividad económica;
 
-> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2014)</small>
 
-XVI. Atender, en coordinación con la Contraloría General, las ventanillas y centros de gestión y fomento económico, establecidos en las distintas Cámaras, Asociaciones, Colegios y banca de desarrollo;
+XVI. Atender, en coordinación con la Oficialía Mayor, las ventanillas y centros de gestión y fomento económico, establecidos en las distintas cámaras, asociaciones, colegios y banca de desarrollo;
 
 XVII. Formular y proponer, en el marco de los programas de desrregulación (sic) y simplificación administrativa, las acciones que incentiven la creación de empresas, la inversión y el desarrollo tecnológico, fortaleciendo el mercado interno y la promoción de las exportaciones;
 
@@ -926,11 +926,15 @@ XIX. Promover la realización de ferias, exposiciones y congresos, de carácter 
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
-XX. Emitir convocatoria abierta a los habitantes del Distrito Federal para integrar en los órganos político-administrativos Consejos Delegacionales de Verificación Ciudadana que coadyuven con las autoridades en la vigilancia del cumplimiento de la Ley por parte de los establecimientos mercantiles, para lo cual podrán solicitar visitas de verificación y presenciarlas, y
+XX. Emitir convocatoria abierta a los habitantes del Distrito Federal para integrar en los órganos político-administrativos Consejos Delegacionales de Verificación Ciudadana que coadyuven con las autoridades en la vigilancia del cumplimiento de la Ley por parte de los establecimientos mercantiles, para lo cual podrán solicitar visitas de verificación y presenciarlas, y (sic)
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
 XXI. Promover en coordinación con la Subsecretaría del Sistema Penitenciario del Distrito Federal, el desarrollo de la industria penitenciaria en el Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
+
+XXII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### Artículo 26.
 
@@ -1316,21 +1320,21 @@ XXIV. Administrar y programar las actividades de los museos, las agrupaciones mu
 
 XXV. Las demás que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2014)</small>
 
 ###### Artículo 33.
 
-A la Oficialía Mayor corresponde el despacho de las materias relativas a la administración y desarrollo de personal; a los recursos materiales y a los servicios generales; al patrimonio inmobiliario; y, en general, a la administración interna de la Administración Pública del Distrito Federal.
+A la Oficialía Mayor corresponde el despacho de las materias relativas a la administración y desarrollo de personal, la modernización, innovación, simplificación administrativa, mejora regulatoria y atención ciudadana; los recursos materiales; los servicios generales; las tecnologías de la información y comunicaciones; el patrimonio inmobiliario; y, en general, la administración interna de la Administración Pública del Distrito Federal.
 
 Específicamente cuenta con las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2014)</small>
 
-I. Proponer a la Contraloría General medidas técnicas y políticas de administración para la organización, y funcionamiento de la Administración Pública del Distrito Federal;
+I. Proponer al Jefe de Gobierno medidas técnicas y políticas para la organización, simplificación, modernización de innovación de la actuación y funcionamiento de la Administración Pública del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2014)</small>
 
-II. Diseñar, coordinar e implementar en el ámbito de sus atribuciones, las normas, políticas y criterios que en materia de administración interna deben observar las dependencias, órganos desconcentrados y entidades que integran la Administración Pública del Distrito Federal;
+II. Diseñar, coordinar y normar las políticas y criterios para el desarrollo, simplificación e innovación en materia de administración interna que deben observar las dependencias, órganos desconcentrados y entidades que integran la Administración Pública del Distrito Federal;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1344,11 +1348,17 @@ III. Expedir lineamientos para la expedición de credenciales de acreditación d
 
 IV. Integrar, actualizar y difundir por Internet el padrón de verificadores administrativos de la Administración Pública del Distrito Federal;
 
-V. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
 
-VI. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
+V. Establecer la normatividad y dictaminar las modificaciones a la estructura orgánica de las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública del Distrito Federal;
 
-VII. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
+
+VI. Normar, vigilar la aplicación de las medidas de desconcentración y descentralización administrativa que resulten de los procesos de modernización de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
+
+VII. Normar, vigilar y evaluar los programas de modernización, simplificación administrativa y mejora regulatoria procurando la permanente comunicación con la población en cuanto a las necesidades respecto de los trámites que gestiona y de los servicios que solicita;
 
 VIII. Apoyar al Jefe de Gobierno en la conducción de las entidades paraestatales agrupadas en cada subsector, y participar en la elaboración de sus respectivos programas, en congruencia con el Plan Nacional de Desarrollo y el Plan General de Desarrollo del Distrito Federal;
 
@@ -1390,15 +1400,33 @@ XXII. Establecer la normatividad y control sobre la administración y enajenaci�
 
 XXIII. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
 
-XXIV. Celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas y demás actos jurídicos de cualquier índole, necesarios para el ejercicio de las atribuciones del órgano ejecutivo local, excepto los relativos a obra pública, los servicios relacionados con ésta, la contratación de créditos o firma de títulos crediticios y otros que sean atribución de otra dependencia, unidad administrativa u órgano desconcentrado, o correspondan a una facultad indelegable del Jefe del Gobierno del Distrito Federal, y
+XXIV. Celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas y demás actos jurídicos de cualquier índole, necesarios para el ejercicio de las atribuciones del órgano ejecutivo local, excepto los relativos a obra pública, los servicios relacionados con ésta, la contratación de créditos o firma de títulos crediticios y otros que sean atribución de otra dependencia, unidad administrativa u órgano desconcentrado, o correspondan a una facultad indelegable del Jefe del Gobierno del Distrito Federal, y (sic)
 
-XXV. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+XXV. Determinar y conducir la política de atención ciudadana y normar, supervisar y evaluar la operación de las unidades de atención al público;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
+
+XXVI. Determinar y conducir la política informática y de telecomunicaciones y normar la elaboración de los sistemas y la adquisición o arrendamiento de bienes y servicios relacionados;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
+
+XXVII. Conducir las políticas de modernización, simplificación y desregulación administrativa así como de mejora regulatoria de la Administración Pública del Distrito Federal, vigilando que las acciones y programas que formulen y ejecuten en estas materias las dependencias, órganos desconcentrados y entidades se orienten a cumplir con esas políticas;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
+
+XXVIII. Coadyuvar con las dependencias, órganos desconcentrados, delegaciones y entidades, en el cumplimiento de las obligaciones de transparencia y acceso a la información pública así como de protección de datos personales;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
+
+XXIX. Organizar, conducir y dar seguimiento a los procesos para la evaluación del desempeño de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal; (sic)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2014)</small>
 
 ###### Artículo 34.
 
-A la Contraloría General corresponde el despacho de las materias relativas al control y evaluación de la gestión pública de las dependencias, órganos desconcentrados y entidades que integran la Administración Pública del Distrito Federal, así como el desarrollo, modernización, innovación y simplificación administrativos, y la atención ciudadana.
+A la Contraloría General le corresponde el despacho de las materias relativas al control y evaluación de la gestión pública de las dependencias, órganos desconcentrados y entidades que integran la Administración Pública del Distrito Federal.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -1466,53 +1494,31 @@ XXXI. Establecer, en coordinación con la Oficialía Mayor y la Secretaría de F
 
 XXXII. Intervenir directamente o como coadyuvante, ante las autoridades administrativas o judiciales, en todos los asuntos en que la Contraloría General sea parte, cuando tenga interés jurídico o se afecte el patrimonio del Gobierno del Distrito Federal, y éstos se encuentren relacionados con la (sic) facultades que tiene encomendadas, pudiendo delegar tal atribución, tomando en cuenta la importancia que el asunto revista para el interés público, y (sic)
 
-> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+XXXIII. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
-XXXIII. Proponer al Jefe de Gobierno medidas técnicas y políticas para simplificar, modernizar e innovar la actuación administrativa de la Administración Publica del Distrito Federal;
+XXXIV. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+XXXV. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
-XXXIV. Diseñar, coordinar y normar el desarrollo, simplificación, modernización e innovación de la actuación administrativa de las dependencias, órganos desconcentrados y entidades que integran la Administración Publica del Distrito Federal, así como los programas y acciones relativas;
+XXXVI. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+XXXVII. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
-XXXV. Establecer la normatividad y dictaminar las modificaciones a la estructura orgánica de las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública del Distrito Federal;
+XXXVIII. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+XXXIX. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
-XXXVI. Normar y vigilar la aplicación de las medidas de desconcentración y descentralización administrativas que resulten de los procesos de modernización de la Administración Publica del Distrito Federal;
+XL. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+XLI. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
-XXXVII. Normar, vigilar y evaluar los programas de modernización y simplificación administrativa procurando la permanente comunicación con la población en cuanto a sus necesidades respecto de los trámites que gestiona y de los servicios que solicita;
-
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
-
-XXXVIII. Determinar y conducir la política de atención ciudadana y normar, supervisar y evaluar la operación de las unidades de atención al público;
-
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
-
-XXXIX. Determinar y conducir la política informática y de telecomunicaciones y normar la elaboración de los sistemas y la adquisición o arrendamiento de bienes y servicios relacionados, dando a la oficialía Mayor, la participación que en el ámbito de su competencia le corresponde;
-
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
-
-XL. Proponer al Jefe de Gobierno las normas y políticas para el desarrollo, modernización, simplificación e innovación de la actuación administrativa de las entidades paraestatales;
-
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
-
-XLI. Conducir las políticas de modernización, simplificación y desregulación administrativa de la Administración Publica del Distrito Federal, vigilando que las acciones y programas que formulen y ejecuten en esta materia las dependencias, órganos desconcentrados y entidades se orienten a cumplir con esas políticas;
-
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
-
-XLII. Coadyuvar con las dependencias, órganos desconcentrados, delegaciones y entidades, en el cumplimiento de las obligaciones de transparencia y acceso a la información pública así como de protección de datos personales;
+XLII. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
 > <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
 
 XLIII. Establecer las normas y procedimientos de evaluación de las aptitudes y el desempeño de los servidores públicos de la Administración Pública, y así como quien desee incorporarse, para su implementación a través de la unidad administrativa que al efecto se establezca;
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
-
-XLIV. Organizar, conducir y dar seguimiento a los procesos para la evaluación del desempeño de las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública del Distrito Federal;
+XLIV. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
 
@@ -2479,3 +2485,17 @@ Los programas, planes, beneficios, estímulos, propuestas o cualquier asunto de 
 ###### ARTÍCULO SEXTO.
 
 El Jefe de Gobierno contará hasta con 120 días naturales, contados a partir de la entrada en vigor del presente Decreto, para expedir las normas reglamentarias correspondientes y en ellas se deberá observar el plazo para la instalación y operación de los Comités Delegacionales a los que alude el artículo 17 de esta Ley.
+
+G.O. 15 DE ENERO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Las referencias hechas en otros ordenamientos legales a la Contraloría General respecto a las materias que por virtud de este decreto dejan de ser de su competencia, se entenderán hechas a la Oficialía Mayor a partir de su entrada en vigor.
+
+CUARTO.- El personal que, en ejecución del presente decreto, deba ser transferido de una dependencia a otra, no resultará afectado en los derechos que hubiera adquirido en virtud de su relación laboral con la Administración Pública del Distrito Federal.
+
+QUINTO.- En la transferencia de las unidades administrativas que por la ejecución del presente decreto deban pasar de una dependencia a otra, se incluirá al personal de servicio, mobiliario, equipo, instrumentos, vehículos, maquinaria, aparatos, archivos y, en general, todos los efectos y dispositivos que se utilicen para la atención de los asuntos a su cargo, así como los recursos presupuestales correspondientes.
+
+SEXTO.- Los asuntos que a la entrada en vigor del presente decreto se encuentren en trámite y deban ser atendidos por las unidades administrativas objeto de transferencia, serán resueltos por la dependencia que los recibe, dentro de los plazos establecidos al efecto.
