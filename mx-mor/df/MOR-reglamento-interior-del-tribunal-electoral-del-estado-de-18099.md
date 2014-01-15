@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-electoral-del-estado-de-18099"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-08"
-last_updated: "2005-11-16"
+last_updated: "2014-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DEL H. TRIBUNAL ESTATAL ELECTORAL DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 15 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de noviembre de 2000.
 
@@ -1191,7 +1193,7 @@ I. El actor se desista expresamente por escrito de la demanda laboral interpuest
 
 II. La autoridad responsable, modifique o revoque el acto o resolución en contra de los cuales se presente la demanda laboral, de tal manera que quede totalmente sin materia, antes de que se dicte la resolución o sentencia;
 
-III. Habiendo sido admitida la demanda laboral correspondiente, aparezca o sobrevenga alguna causal de improcedencia en los términos del presente reglamento; y, (sic)
+III. Habiendo sido admitida la demanda laboral correspondiente, aparezca o sobrevenga alguna causal de improcedencia en los términos del presente reglamento; y,
 
 > <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
 
@@ -1500,3 +1502,19 @@ SEGUNDO.- Toda vez que el Instituto interrumpe sus actividades normales temporal
 TERCERO.- Por la Constitución reciente del Instituto, el primer informe anual de actividades se deberá rendir a más tardar el 28 de febrero del año 2008.
 
 CUARTO.- La presente adición al Reglamento Interno del Tribunal Electoral del Poder Judicial del Estado, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 15 DE ENERO DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL H. TRIBUNAL ESTATAL ELECTORAL DEL ESTADO DE MORELOS.]
+
+PRIMERO.- El presente Reglamento abroga el Reglamento Interno aprobado por el Pleno del Tribunal Estatal Electoral el 31 de octubre del año 2000 y publicado en el Periódico Oficial "Tierra y Libertad", número 4086, de fecha 8 de noviembre del año citado.
+
+SEGUNDO.- El presente Reglamento entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado "Tierra y Libertad".
+
+TERCERO.- En relación con las categorías establecida (sic) en el artículo 36 del presente Reglamento, las mismas deberán contemplarse cuando el presupuesto lo permita, realizándose los ajustes pertinentes a la plantilla de personal, conforme a las necesidades del Tribunal Estatal Electoral.
+
+CUARTO.- De manera extraordinaria, si bien la Presidencia del Tribunal se ejercerá en forma rotativa por los Titulares de las Ponencias por el término de un año a partir del quince de enero de cada anualidad, al inicio del presente Reglamento se ejercerá conforme al siguiente calendario:
+
+AÑO 2013 2014 2015 2016
+
+PONENCIA UNO DOS DOS UNO
