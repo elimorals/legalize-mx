@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-firma-electronica-del-estado-de-zacatecas-97167"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-25"
-last_updated: "2013-12-25"
+last_updated: "2014-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE FIRMA ELECTRONICA DEL ESTADO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2014, EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE FIRMA ELECTRÓNICA DEL ESTADO DE ZACATECAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE ENERO DE 2014, NO APLICA AL ARTICULADO DEL TEXTO PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2013.</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 25 de diciembre de 2013.
 
