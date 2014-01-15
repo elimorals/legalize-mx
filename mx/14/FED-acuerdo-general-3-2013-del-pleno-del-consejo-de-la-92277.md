@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2013-12-13"
+last_updated: "2014-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -109,9 +109,9 @@ XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 51/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL 52/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2014)</small>
 
-SEGUNDO. Cada uno de los Circuitos a los que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
+SEGUNDO: Cada uno de los Circuitos a los que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
 
 I. PRIMER CIRCUITO:
 
@@ -247,15 +247,19 @@ XIV. DECIMOCUARTO CIRCUITO:
 
 2. Un tribunal unitario con sede en Mérida.
 
-3. Cuatro juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 53/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2014)</small>
+
+3. Cinco juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida.
 
 XV. DECIMOQUINTO CIRCUITO:
 
 1. Cinco tribunales colegiados con residencia en Mexicali.
 
-2. Ocho tribunales unitarios: tres con sede en Mexicali y cinco con residencia en Tijuana.
+> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 50/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 51/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+2. Nueve tribunales unitarios: cuatro con sede en Mexicali y cinco con residencia en Tijuana
+
+> <small>(REFORMADO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL 52/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2014)</small>
 
 3. Diecinueve juzgados de Distrito en el Estado de Baja California, tres de ellos con sede en Ensenada; seis más, con sede en Mexicali y diez con residencia en Tijuana, éstos últimos comprenden seis especializados en Procesos Penales Federales y cuatro en Materia de Amparo y Juicios Federales.
 
@@ -1016,3 +1020,39 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 15 DE ENERO DE 2014.
+
+ACUERDO GENERAL 50/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XV. DECIMOQUINTO CIRCUITO, INCISO 2.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato, el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 15 DE ENERO DE 2014.
+
+ACUERDO GENERAL 52/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XV. DECIMOQUINTO CIRCUITO, INCISO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. En virtud de los ajustes de nomenclatura e inicio de funciones previstos en el presente acuerdo, las Administraciones Regionales y Delegaciones Administrativas proveerán a los órganos jurisdiccionales respectivos, de los recursos materiales necesarios (sello oficial, directorios, placa conmemorativa del órgano jurisdiccional, papelería, etc.), para que a la brevedad cuenten con ellos.
+
+CUARTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+QUINTO. Los titulares de los órganos jurisdiccionales que cambian de denominación, deberán colocar los avisos respectivos en un lugar visible de la puerta de entrada, estrados, reja de prácticas y demás que consideren necesarios del local que cada uno ocupa, letreros tanto para el público como para los que en su caso se encuentren tras las rejas de la ventanilla de prácticas judiciales, precisamente, para conocimiento general.
+
+D.O.F. 15 DE ENERO DE 2014.
+
+ACUERDO GENERAL 53/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XIV. DECIMOCUARTO CIRCUITO, NÚMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito.
+
+EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 53/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado Quinto de Distrito en el Estado de Yucatán, con residencia en Mérida; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los juzgados de Distrito, de la entidad federativa y residencia indicados, fue aprobado por el Pleno del propio Consejo, en sesión extraordinaria de trece de diciembre de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a siete de enero de dos mil catorce.- Conste.- Rúbrica.
