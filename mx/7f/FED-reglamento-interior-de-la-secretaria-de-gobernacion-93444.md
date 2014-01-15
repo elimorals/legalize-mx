@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-93444"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2013-04-02"
+last_updated: "2014-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93444&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-04-01"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -303,7 +303,9 @@ XL. Acordar con el Presidente de la República la designación del responsable d
 
 XLI. Las demás que con carácter no delegable le confieran otras disposiciones legales y reglamentarias o le otorgue el Presidente de la República.
 
-No se consideran delegación los casos en que opere el régimen de suplencias previsto por este Reglamento, ni el ejercicio de facultades atribuidas por éste a servidores públicos subalternos y que, por su naturaleza, concurran al debido desempeño de las conferidas al Secretario.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2014)</small>
+
+No se consideran delegación los casos en que opere el régimen de suplencias previsto por este Reglamento, ni el ejercicio de facultades atribuidas por éste a servidores públicos subalternos y que, por su naturaleza, concurran al debido desempeño de las conferidas al Secretario, así como aquéllos en que dichos servidores públicos ejerzan facultades en términos de los acuerdos o decretos que emita el Ejecutivo Federal.
 
 ### Capítulo III. De las facultades genéricas de los Subsecretarios y del Comisionado Nacional de Seguridad
 
@@ -3344,3 +3346,9 @@ NOVENO.- Todas las modificaciones a la estructura orgánica de la Secretaría de
 DÉCIMO.- Se abroga el Reglamento del Centro de Investigación y Estudios en Seguridad, publicado en el Diario Oficial de la Federación el 18 de mayo de 2012.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a primero de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE ENERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
