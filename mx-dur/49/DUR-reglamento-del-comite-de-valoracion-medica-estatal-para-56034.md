@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-del-comite-de-valoracion-medica-estatal-para-56034"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-03"
-last_updated: "2009-08-13"
+last_updated: "2014-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "DUR"
 ---
 # REGLAMENTO DEL COMITE DE VALORACION MEDICA ESTATAL PARA TRABAJADORES DE LA SECRETARIA DE EDUCACION DEL ESTADO DE DURANGO SECCION 44 DEL S.N.T.E
 
-REGLAMENTO DEL COMITE DE VALORACION MEDICA ESTATAL PARA TRABAJADORES DE LA SECRETARIA DE EDUCACION DEL ESTADO DE DURANGO SECCION 44 DEL S.N.T.E.
+REGLAMENTO DEL COMITÉ DE VALORACIÓN MÉDICA ESTATAL PARA TRABAJADORES DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE DURANGO SECCIÓN 44 DEL S.N.T.E.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NO. 109, PUBLICADO EN EL P.O. DE 15 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2014 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 3 de junio de 2007.
 
@@ -402,10 +404,30 @@ SECRETARIO GENERAL DE GOBIERNO
 
 Esta hoja es parte del documento que crea el Reglamento de Valoración Médica Estatal para Trabajadores de la Secretaría de Educación del Estado de Durango, Sección 44 del S.N.T.E.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 13 DE AGOSTO DE 2009.
 
 ###### ARTICULO ÚNICO.
 
 El presente Acuerdo iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 15 DE ENERO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+TERCERO.- Se derogan, el Decreto Administrativo que crea el Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la Sección 44 del S.N.T.E., el Reglamento del Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la sección 44 del S.N.T.E., el Decreto que crea el Comité de Valoración Médica Estatal para Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la sección 44 del S.N.T.E. y el Reglamento del Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la Sección 44 del S.N.T.E., publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango en fechas 15 de febrero del 2007, 03 de junio del 2007, 25 de junio del 2009 y 13 de agosto del 2009 respectivamente.
+
+CUARTO.- Dentro de un plazo que no exceda de 120 días de la entrada en vigor del presente Decreto, el Gobierno del Estado expedirá los reglamentos correspondientes y creará el Organismo a que se refiere en el Titulo Quinto denominado "De los riegos de trabajo y de las enfermedades no profesionales".
+
+Hasta en tanto se establezca el referido Organismo, seguirán vigentes los decretos a que se refiere el artículo tercero transitorio en lo que no se oponga al presente decreto.
+
+QUINTO.- Los trabajadores de la Educación al Servicio del Estado se regirán por esta Ley en lo no previsto por la Ley de Educación del Estado de Durango.
+
+SEXTO.- En todo caso se respetarán los derechos adquiridos de los trabajadores que cuenten con una incapacidad al momento de la entrada en vigor del presente decreto.
+
+SÉPTIMO.- Los Trabajadores de la Educación al Servicio del Estado que al momento de la entrada en vigor del presente Decreto estén laborando y que enfermaren, tendrán derecho a ser atendidos mediante los servicios de salud que correspondan y, asimismo, gozarán de las medicinas y disfrutarán del sueldo que les corresponda, mientras dure la enfermedad, sin que les apliquen las disposiciones contenidas en los Capítulos Primero y Segundo del Título Quinto de la Ley reformados y adicionados mediante el presente, debiendo sujetarse a las disposiciones contenidas en el Capítulo Tercero del Título Quinto y a las demás disposiciones reglamentarias.
+
+Los Trabajadores de la Educación al Servicio del Estado que ingresen al servicio a partir de la entrada en vigor del presente decreto, se regirán por todas las disposiciones contenidas en la presente ley y sus disposiciones reglamentarias.
