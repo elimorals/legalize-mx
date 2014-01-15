@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2014-01-12"
+last_updated: "2014-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE ENERO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 103 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2014.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -329,7 +327,7 @@ Las licencias voluntarias son las que solicitan lso (sic) Trabajadores para la a
 
 Son licencias necesarias:
 
-I.- Las que deben concederse a los Trabajadores que se encuentren imposibilitados para concurrir a sus labores por causa de enfermedad certificada por el médico autorizado para ello, en cuyo caso se concederán con pago de sueldo por el tiempo necesario para su recuperación. El tiempo correspondiente a estas licencias se computará como efectivo dentro del escalafón
+I.- (DEROGADA, P.O. 15 DE ENERO DE 2014)
 
 II.- Las que deben concederse para el desempeño de comisiones sindicales, que serán con goce de sueldo íntegro para los miembros del Comité Ejecutivo Estatal por todo el tiempo que dure el ejercicio de su gestión; y para los demás miembros del Sindicato, cuando se trate de comisiones sindicales específicas que no excedan de más de seis días. El tiempo que comprendan estas licencias se computará dentro del escalafón.
 
@@ -913,43 +911,119 @@ El Reglamento de condiciones generales de trabajo surtirá sus efectos a partir 
 
 ## TITULO QUINTO. DE LOS RIESGOS DE TRABAJO Y DE LAS ENFERMEDADES NO PROFESIONALES
 
-### CAPITULO UNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2014)</small>
+
+### CAPÍTULO PRIMERO. DE LOS RIEGOS DE TRABAJO
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2014)</small>
 
 ###### Artículo 99o.
 
-Los riesgos de trabajo que sufran los trabajadores se regirán por las disposiciones relativas a la Ley Federal del Trabajo.
+Para los efectos de esta Ley, serán reputados como riesgos del trabajo los accidentes y enfermedades a que están expuestos los Trabajadores en el ejercicio o con motivo del trabajo.
 
-### CAPITULO UNICO
+Se consideraran accidentes del trabajo, toda lesión orgánica o perturbación funcional, inmediata o posterior, o la muerte producida repentinamente en el ejercicio o con motivo del trabajo, cualesquiera que sean el lugar y el tiempo en que se presente, así como aquellos que ocurran al Trabajador al trasladarse directamente de su domicilio o de la estancia de bienestar infantil de sus hijos, al lugar en que desempeñe su trabajo o viceversa.
+
+Asimismo, se consideraran riegos del trabajo las enfermedades señaladas por las leyes del trabajo.
+
+Cuando los riegos de trabajo se realizan pueden producir:
+
+I.- Incapacidad temporal, que es la pérdida de facultades o aptitudes que imposibilita parcial o totalmente a una persona para desempeñar su trabajo por algún tiempo;
+
+II.- Incapacidad parcial, que es la disminución de las facultades o aptitudes de una persona para trabajar;
+
+III.- Incapacidad total, que es la pérdida de facultades o aptitudes de una persona que la imposibilita para desempeñar cualquier trabajo por el resto de la vida, y
+
+IV.- Muerte.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2014)</small>
+
+Artículo 99o A.- Los riesgos del trabajo serán calificados técnicamente por el Organismo que establezca el Gobierno para otorgar las incapacidades a que se refiera el presente título, de conformidad con el reglamento respectivo y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2014)</small>
+
+Artículo 99o B.- No se considerarán riesgos del trabajo:
+
+I.- Si el accidente ocurre encontrándose el Trabajador en estado de embriaguez;
+
+II.- Si el accidente ocurre encontrándose el Trabajador bajo la acción de algún narcótico o droga enervante, salvo que exista prescripción médica y que el Trabajador hubiese puesto el hecho en conocimiento del jefe inmediato, presentándole la prescripción suscrita por el médico;
+
+III.- Si el Trabajador se ocasiona intencionalmente una lesión por sí o de acuerdo con otra persona;
+
+IV.- Los que sean resultado de un intento de suicidio o efecto de una riña en que hubiere participado el Trabajador u originados por algún delito cometido por éste, y
+
+V.- Las enfermedades o lesiones que presente el Trabajador consideradas como crónico degenerativas o congénitas y no tengan relación con el riesgo de trabajo, aun cuando el Trabajador ignore tenerlas o se haya percatado de la existencia de éstas, al sufrir un riesgo del trabajo.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2014)</small>
+
+Artículo 99o C.- En caso de riesgo del trabajo, el Trabajador tendrá derecho a lo siguiente:
+
+I. Al ser declarada una incapacidad temporal, se le otorgará licencia con goce del cien por ciento del sueldo, cuando el riesgo del trabajo imposibilite al Trabajador para desempeñar sus labores. El pago se hará desde el primer día de incapacidad y será cubierto hasta que termine la incapacidad cuando ésta sea temporal, o bien hasta que se declare la incapacidad permanente del Trabajador.
+
+Para los efectos de la determinación de la incapacidad producida por riesgo del trabajo, se estará a lo dispuesto por la Ley Federal del Trabajo por lo que respecta a los exámenes trimestrales a que deberá someterse el Trabajador y en la inteligencia de que si a los tres meses de iniciada dicha incapacidad no está el Trabajador en aptitud de volver al trabajo, él mismo o la Dependencia, podrán solicitar en vista de los certificados médicos correspondientes, que sea declarada la incapacidad permanente.
+
+No excederá de un año, contado a partir de la fecha en que el Organismo tenga conocimiento del riesgo, el plazo para que se determine si el Trabajador está apto para volver al servicio o bien procede declarar su incapacidad permanente, en cuyo caso se estará a lo dispuesto en las fracciones siguientes;
+
+II. Al ser declarada una incapacidad parcial, se concederá al incapacitado una Pensión calculada conforme a la tabla de valuación de incapacidades de la Ley Federal del Trabajo, atendiendo al Sueldo Básico que percibía el Trabajador al ocurrir el riesgo y los aumentos posteriores que correspondan al empleo que desempeñaba hasta determinarse la Pensión. El tanto por ciento de la incapacidad se fijará entre el máximo y el mínimo establecido en la tabla de valuación mencionada, teniendo en cuenta la edad del Trabajador y la importancia de la incapacidad, según que sea absoluta para el ejercicio de su profesión u oficio aun cuando quede habilitado para dedicarse a otros, o si solamente hubiere disminuido la aptitud para su desempeño.
+
+Cuando el Trabajador pueda dedicarse a otras funciones por razón de que sólo haya disminuido parcialmente su capacidad para el desempeño de su trabajo, las Dependencias podrán prever su cambio de actividad temporal, en tanto dure su rehabilitación. Si la pérdida funcional o física, de un órgano o miembro es definitiva, su actividad podrá ser otra de acuerdo con su capacidad.
+
+III. Al ser declarada una incapacidad total, se concederá al incapacitado una Pensión igual al Sueldo Básico que venía disfrutando el Trabajador al presentarse el riesgo, hasta que tenga derecho a una pensión por jubilación o, en su caso, fallezca.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2014)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS ENFERMEDADES NO PROFESIONALES
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2014)</small>
 
 ###### Artículo 100o.
 
-Los Trabajadores que sufran enfermedades no profesionales, tendrán derecho a que se les concedan licencias para dejar de concurrir a sus labores, previo dictamen y la consecuente vigilancia médica en los siguientes términos:
+Al diagnosticarse la enfermedad, tanto el Trabajador como la Dependencia en que labore, darán aviso por escrito al Organismo que establezca el Gobierno para otorgar las incapacidades, de acuerdo con las disposiciones que al efecto emita éste.
 
-I.- A los empleados que tengan menos de un año de servicio, se les podrá conceder licencia por enfermedad no-profesional, hasta quince días con goce de sueldo íntegro y hasta quince días más con medio sueldo.
+Cuando la enfermedad imposibilite al Trabajador para desempeñar su actividad laboral, tendrá derecho a licencia con goce de sueldo o con medio sueldo pagado por la Dependencia en que labore, conforme a lo siguiente:
 
-II.- A los que tengan de uno a cinco años de servicios, hasta por treinta días con goce de sueldo íntegro y hasta por quince días más con medio sueldo.
+I. A los Trabajadores que tengan menos de un año de servicios, se les podrá conceder licencia por enfermedad no profesional, hasta quince días con goce de sueldo íntegro y hasta quince días más con medio sueldo;
 
-III.- A los que tengan de cinco a diez años de servicio, hasta por cuarenta y cinco días con goce de sueldo íntegro, y hasta cuarenta y cinco días más con medio sueldo.
+II. A los que tengan de uno a cinco años de servicios, hasta treinta días con goce de sueldo íntegro y hasta treinta días más con medio sueldo;
 
-IV.- A los que tengan diez años de servicio en adelante, hasta por setenta días con goce de sueldo íntegro y hasta por setenta días más con medio sueldo.
+III. A los que tengan de cinco a diez años de servicios, hasta cuarenta y cinco días con goce de sueldo íntegro y hasta cuarenta y cinco días más con medio sueldo, y
 
-En los casos previstos en las Fracciones anteriores, si al vencer las licencias con sueldo y medio sueldo, continúa la incapacidad, se prorrogará al trabajador la licencia, ya sin goce de suelo, hasta totalizar en conjunto cincuenta y dos semanas.
+IV. A los que tengan de diez años de servicios en adelante, hasta sesenta días con goce de sueldo íntegro y hasta sesenta días más con medio sueldo.
 
-Para los efectos de las Fracciones anteriores, los cómputos deberán hacerse por servicios continuados, cuando de existir una interrupción en la prestación de los servicios, ésta sea mayor de seis meses.
+Si al vencer la licencia con medio sueldo continúa la imposibilidad del Trabajador para desempeñar su labor, se concederá al Trabajador licencia sin goce de sueldo mientras dure la incapacidad, hasta por cincuenta y dos semanas contadas desde que se inició ésta, o a partir de que se expida la primera licencia médica.
 
-### CAPITULO PRIMERO. DE LA ORGANIZACION DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
+Para los efectos de las fracciones anteriores, los cómputos deberán hacerse por servicios continuados, o cuando la interrupción en su prestación no sea mayor de seis meses.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La licencia será continua o discontinua, una sola vez cada año contado a partir del momento en que se tomó posesión del puesto. A partir de ese momento, el pago estará a cargo de la Dependencia conforme a las fracciones que anteceden.
+
+Si al concluir el periodo de cincuenta y dos semanas previsto en el párrafo tercero del presente artículo el Trabajador sigue enfermo, el Organismo que establezca el Gobierno para otorgar las incapacidades, prorrogará su incapacidad hasta por cincuenta y dos semanas más, previo dictamen médico.
+
+A más tardar, al concluir el segundo periodo de cincuenta y dos semanas, el Organismo que establezca el Gobierno para otorgar las incapacidades, deberá dictaminar sobre la procedencia de la invalidez del Trabajador, que lo hiciere sujeto de la Pensión correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2014)</small>
+
+### CAPÍTULO TERCERO. DE LA REVISIÓN DE LAS INCAPACIDADES
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2014)</small>
 
 ###### Artículo 101o.
 
-El Estado podrá cumplir las obligaciones que le impone éste Título, asegurando a sus trabajadores con Instituciones que garanticen la percepción de los beneficios que aquí se designan, en cuyo caso pagará conjuntamente con el trabajador las cuotas o primas del seguro concertado.
+Los Trabajadores que soliciten Pensión por riesgos del trabajo y los Pensionados por la misma causa, están obligados a someterse a los reconocimientos y tratamientos que el Organismo que establezca el Gobierno para otorgar las incapacidades, les prescriba y proporcione en cualquier tiempo, con el fin de aumentar o bien disminuir su cuantía y en su caso revocar la misma en virtud del estado físico que goce el pensionista, así como a las investigaciones y evaluaciones necesarias para verificar la vigencia de sus derechos por este concepto y, en caso de no hacerlo, no se tramitará su solicitud o se le suspenderá el goce de la Pensión.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2014)</small>
+
+Artículo 101o A.- La Pensión por incapacidad parcial podrá ser revocada cuando el Trabajador se recupere de las secuelas que deje el riesgo del trabajo, previa valoración que se le realice en términos del artículo anterior. En este supuesto, el Trabajador continuará laborando, y el único efecto será la cancelación de la Pensión correspondiente.
+
+La Pensión por incapacidad total será revocada cuando el Trabajador recupere su capacidad para el servicio. En tal caso, la Dependencia en que hubiere prestado sus servicios el Trabajador recuperado, tendrá la obligación de restituirlo en su empleo si de nuevo es apto para el mismo, o en caso contrario, asignarle un trabajo que pueda desempeñar, debiendo ser cuando menos de un sueldo y categoría equivalente a los que disfrutaba al acontecer el riesgo. Si el Trabajador no aceptare reingresar al servicio en tales condiciones, o bien estuviese desempeñando cualquier trabajo, le será revocada la Pensión.
+
+Si el Trabajador no fuere restituido a su empleo o no se le asignara otro en los términos del párrafo segundo de este artículo por causa imputable a la Dependencia en que hubiere prestado sus servicios, seguirá percibiendo el importe de la Pensión con cargo al presupuesto de ésta. Lo anterior, sin perjuicio de la responsabilidad en que incurra el Titular de la Dependencia, el cual deberá restituir los montos erogados por concepto del pago de la Pensión.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2014)</small>
+
+Artículo 101o B.- El Estado podrá cumplir las obligaciones que le impone éste título, asegurando a sus trabajadores con Instituciones que garanticen la percepción de los beneficios que aquí se designan, en cuyo caso pagará conjuntamente con el trabajador las cuotas o primas del seguro concertado.
 
 ## TITULO SEXTO. DE LAS PRESCRIPCIONES
 
-### CAPITULO SEGUNDO. DE LA COMPETENCIA DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPITULO UNICO
 
 ###### Artículo 102o.
 
@@ -1023,11 +1097,9 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 ## TITULO SEPTIMO. DEL TRIBUNAL LABORAL BUROCRATICO Y DEL PROCEDIMIENTO ANTE EL MISMO
 
-### CAPITULO TERCERO. DEL PROCEDIMIENTO ANTE EL TRIBUNAL LABORAL BUROCRATICO
+### CAPITULO PRIMERO. DE LA ORGANIZACION DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 109o.
 
@@ -1063,7 +1135,9 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 (DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
 
-### CAPITULO CUARTO. DE LOS MEDIOS DE APREMIO Y DE EJECUCION DE LOS LAUDOS
+### CAPITULO SEGUNDO. DE LA COMPETENCIA DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 115o.
 
@@ -1073,11 +1147,11 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-### CAPITULO QUINTO. DE LAS CORRECCIONES DISCIPLINARIAS y de las SANCIONES
+### CAPITULO TERCERO. DEL PROCEDIMIENTO ANTE EL TRIBUNAL LABORAL BUROCRATICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 116o.
 
@@ -1253,6 +1327,8 @@ Pronunciada la sentencia, el Tribunal la notificará a las partes.
 
 Las Autoridades del Estado están obligadas a prestar auxilio al Tribunal Laboral Burocrático para hacer respetar sus resoluciones cuando fueren requeridas para ello.
 
+### CAPITULO CUARTO. DE LOS MEDIOS DE APREMIO Y DE EJECUCION DE LOS LAUDOS
+
 ###### Artículo 143o.
 
 El Tribunal, para hacer cumplir sus resoluciones podrá imponer multas hasta de mil pesos.
@@ -1276,6 +1352,12 @@ El Tribunal Laboral Burocrático tiene la obligación de proveer a la eficaz e i
 ###### Artículo 146o.
 
 Cuando se pida la ejecución de la sentencia, el Tribunal despachará auto de ejecución y omisionará al actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola de que de no hacerlo, se procederá conforme a lo dispuesto en el Capítulo anterior.
+
+### CAPITULO QUINTO. DE LAS CORRECCIONES DISCIPLINARIAS y de las SANCIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 147o.
 
@@ -1380,3 +1462,23 @@ El Tribunal Superior de Justicia y el Gobierno del Estado, en el ámbito de sus 
 SEXTO.- Las menciones que las diversas disposiciones legales hagan del Tribunal de Conciliación y Arbitraje, se entenderán referidas al Tribunal Laboral Burocrático.
 
 SÉPTIMO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 15 DE ENERO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+TERCERO.- Se derogan, el Decreto Administrativo que crea el Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la Sección 44 del S.N.T.E., el Reglamento del Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la sección 44 del S.N.T.E., el Decreto que crea el Comité de Valoración Médica Estatal para Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la sección 44 del S.NTE. y el Reglamento del Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la Sección 44 del S.N.T.E., publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango en fechas 15 de febrero del 2007, 03 de junio del 2007, 25 de junio del 2009 y 13 de agosto del 2009 respectivamente.
+
+CUARTO.- Dentro de un plazo que no exceda de 120 días de la entrada en vigor del presente Decreto, el Gobierno del Estado expedirá los reglamentos correspondientes y creará el Organismo a que se refiere en el Titulo Quinto denominado "De los riegos de trabajo y de las enfermedades no profesionales".
+
+Hasta en tanto se establezca el referido Organismo, seguirán vigentes los decretos a que se refiere el artículo tercero transitorio en lo que no se oponga al presente decreto.
+
+QUINTO.- Los trabajadores de la Educación al Servicio del Estado se regirán por esta Ley en lo no previsto por la Ley de Educación del Estado de Durango.
+
+SEXTO.- En todo caso se respetarán los derechos adquiridos de los trabajadores que cuenten con una incapacidad al momento de la entrada en vigor del presente decreto.
+
+SÉPTIMO.- Los Trabajadores de la Educación al Servicio del Estado que al momento de la entrada en vigor del presente Decreto estén laborando y que enfermaren, tendrán derecho a ser atendidos mediante los servicios de salud que correspondan y, asimismo, gozarán de las medicinas y disfrutarán del sueldo que les corresponda, mientras dure la enfermedad, sin que les apliquen las disposiciones contenidas en los Capítulos Primero y Segundo del Título Quinto de la Ley reformados y adicionados mediante el presente, debiendo sujetarse a las disposiciones contenidas en el Capítulo Tercero del Título Quinto y a las demás disposiciones reglamentarias.
+
+Los Trabajadores de la Educación al Servicio del Estado que ingresen al servicio a partir de la entrada en vigor del presente decreto, se regirán por todas las disposiciones contenidas en la presente ley y sus disposiciones reglamentarias.
