@@ -4,7 +4,7 @@ identifier: "SON-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-46658"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-24"
-last_updated: "2013-12-23"
+last_updated: "2014-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2014.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de octubre de 2002.
 
@@ -303,13 +303,33 @@ a).- Se impulse la enseñanza y respeto de los derechos humanos. En especial la 
 
 b).- Se prevean mecanismos de participación democrática en todas las actividades escolares, como medio de construcción de la ciudadanía.
 
-### CAPITULO I. DE LAS OBLIGACIONES DE ASCENDIENTES, TUTORES Y CUSTODIOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE ENERO DE 2014)</small>
 
-### CAPITULO II. DE LAS OBLIGACIONES DEL ESTADO Y DE LOS MUNICIPIOS CON RESPECTO A LAS NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPITULO X. DERECHO A LA NAVEGACIÓN SEGURA EN INTERNET
+
+> <small>(ADICIONADO, B.O. 16 DE ENERO DE 2014)</small>
+
+###### Artículo 33 Bis.
+
+Las niñas, niños y adolescentes deberán contar con información adecuada, que sea acorde con su desarrollo integral y a la salud, para el uso o compra de juegos computarizados, electrónicos o multimedia, especialmente de internet.
+
+> <small>(ADICIONADO, B.O. 16 DE ENERO DE 2014)</small>
+
+###### Artículo 33 Bis 1.
+
+Los niños, niñas y adolescentes tienen derecho a recibir, buscar y utilizar información acorde con su desarrollo integral por medio de salas de juegos computarizados, electrónicos o multimedia y de servicios de internet.
+
+> <small>(ADICIONADO, B.O. 16 DE ENERO DE 2014)</small>
+
+###### Artículo 33 Bis 2.
+
+Las madres, padres y todas las personas que tengan, a su cuidado, niñas, niños, y adolescentes, orientarán a los mismos sobre el uso de la información y contenidos en internet, especialmente sobre los que hagan apología o inciten a la violencia, a la guerra, a la comisión de hechos punibles, al racismo, a la desigualdad entre el hombre y la mujer, a la xenofobia, a la intolerancia religiosa y cualquier otro tipo de discriminación, a la esclavitud, a la servidumbre, a la explotación de las personas, al uso y consumo de cigarrillos y derivados del tabaco, de bebidas alcohólicas, así como aquellos de carácter pornográfico.
+
+### CAPITULO I. DE LAS OBLIGACIONES DE ASCENDIENTES, TUTORES Y CUSTODIOS
 
 ## TITULO SEGUNDO. DE LAS OBLIGACIONES
 
-### CAPITULO UNICO. DE LOS (SIC) AUTORIDADES Y PROCEDIMIENTOS
+### CAPITULO II. DE LAS OBLIGACIONES DEL ESTADO Y DE LOS MUNICIPIOS CON RESPECTO A LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 34.
 
@@ -327,9 +347,23 @@ V.- Formar en las niñas, niños y adolescentes una conciencia nacional y social
 
 VI.- Brindar las condiciones mínimas para que las niñas, niños y adolescentes puedan disfrutar de descanso y sana recreación;
 
-VII.- Velar en todo momento por la salud de las niñas, niños y adolescentes, otorgándoles atención y protección ante las enfermedades; y
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2014)</small>
 
-VIII.- Protegerlos contra toda forma de maltrato, prejuicio, daño, agresión, abuso, trata y explotación y en la potestad de corrección, no incurrir en conductas de acción u omisión que impliquen maltrato o crueldad física o psíquica hacia las niñas, niños y adolescentes.
+VII.- Velar, en todo momento, por la salud de las niñas, niños y adolescentes, otorgándoles atención y protección ante las enfermedades;
+
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2014)</small>
+
+VIII.- Protegerlos contra toda forma de maltrato, prejuicio, daño, agresión, abuso, trata y explotación y en la potestad de corrección, no ocurrir en conductas de acción u omisión que impliquen maltrato o crueldad física o psíquica hacia las niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, B.O. 16 DE ENERO DE 2014)</small>
+
+IX.- Supervisar los contenidos de la información a la que acceden las niñas, niños y adolescentes, a través de internet, utilizando para ello los mecanismos de seguridad de este sistema de información en los diversos medios electrónicos.
+
+> <small>(ADICIONADO, B.O. 16 DE ENERO DE 2014)</small>
+
+Asimismo, deberán, sin que se considere invasión a su privacidad, tener conocimiento del uso que le dan a los diferentes servicios en el internet.
+
+### CAPITULO UNICO. DE LOS (SIC) AUTORIDADES Y PROCEDIMIENTOS
 
 ###### Artículo 35.
 
@@ -614,3 +648,9 @@ B.O. 23 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE ENERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
