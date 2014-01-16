@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2012-05-28"
+last_updated: "2014-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -2500,29 +2500,13 @@ Los sujetos amparados por el seguro de salud para la familia son los señalados 
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
 
 ###### Artículo 242.
 
-Todos los sujetos que voluntariamente se incorporen al seguro de salud para la familia, incluidos los familiares a que se refiere el artículo anterior y cualquier familiar adicional pagarán anualmente la cuota establecida correspondiente, clasificándose por el grupo de edad a que pertenezcan. Las cuotas serán calculadas de acuerdo a la siguiente tabla, la cual será actualizada en febrero de cada año de acuerdo al incremento en el Índice Nacional de Precios al Consumidor del año calendario anterior.
+Todos los sujetos que voluntariamente se incorporen al seguro de salud para la familia, incluido los familiares a que se refiere el artículo anterior y cualquier familiar adicional pagarán anualmente la cuota establecida correspondiente, clasificándose por el grupo de edad a que pertenezcan.
 
-Edad del miembro Cuota total en
-
-de la familia en moneda nacional
-
-años cumplidos por miembro del
-
-grupo de edad
-
-señalado
-
-0 a 19 889.
-
-20 a 39 1,039.
-
-40 a 59 1,553.
-
-60 o más 2,337.
+El Consejo Técnico podrá determinar anualmente el importe de las cuotas a aplicar, previa realización de los análisis y estudios actuariales pertinentes, sin detrimento del principio de solidaridad social.
 
 El Estado contribuirá conforme a lo dispuesto en la fracción III del artículo 106 de la presente Ley por familia, independientemente del tamaño de la familia.
 
@@ -4131,5 +4115,9 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 
 D.O.F. 28 DE MAYO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE ENERO DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
