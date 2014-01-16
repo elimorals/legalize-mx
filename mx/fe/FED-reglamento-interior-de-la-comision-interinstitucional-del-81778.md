@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-interinstitucional-del-81778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-22"
-last_updated: "2013-07-03"
+last_updated: "2014-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81778&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-06-14"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO Y CATALOGO DE INSUMOS DEL SECTOR SALUD
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2014 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN INTERINSTITUCIONAL DEL CUADRO BÁSICO Y CATÁLOGO DE INSUMOS DEL SECTOR SALUD
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE JULIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 22 de junio de 2011.
 
@@ -45,81 +45,95 @@ El presente ordenamiento tiene por objeto reglamentar la manera en que se elabor
 
 El Cuadro Básico y Catálogo de Insumos del Sector Salud es el documento en el que se agrupan, caracterizan y codifican todos los medicamentos, el material de curación, el instrumental, el equipo médico y los auxiliares de diagnóstico empleados por las instituciones públicas del Sistema Nacional de Salud para otorgar servicios de salud a la población. El Cuadro Básico de Insumos aplica en el primer nivel de atención y el Catálogo de Insumos en el segundo y tercer nivel. Tiene por objeto colaborar en la optimización de los recursos públicos destinados a la atención de los problemas de salud del país, mediante el empleo de insumos que han probado su seguridad, eficacia terapéutica y eficiencia. Adicionalmente es un instrumento de referencia sobre los insumos para la salud que sirve para informar y colaborar en la actualización de los profesionales de la salud.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
 ###### Artículo 3.
 
 Para efectos de este Reglamento, se entiende por:
 
-Accesorios, los elementos complementarios o auxiliares, cuyo objetivo es incrementar las funciones o productividad de un dispositivo médico y que permiten mejorar la prestación del servicio.
+I. Accesorios, los elementos complementarios o auxiliares, cuyo objetivo es incrementar las funciones o productividad de un dispositivo médico y que permiten mejorar la prestación del servicio;
 
-Actualización, el proceso mediante el cual se incluyen, modifican o excluyen los insumos contenidos en el Cuadro Básico y Catálogo.
+II. Actualización, el proceso mediante el cual se incluyen, modifican o excluyen los insumos contenidos en el Cuadro Básico y Catálogo;
 
-Auxiliares de diagnóstico, los insumos incluyendo antígenos, anticuerpos, calibradores, verificadores, reactivos, equipos de reactivos, medios de cultivo y de contraste, aparatos y cualquier otro similar que pueda utilizarse como auxiliar de otros procedimientos clínicos o paraclínicos en el diagnóstico de padecimientos.
+III. Auxiliares de diagnóstico, los insumos incluyendo antígenos, anticuerpos, calibradores, verificadores, reactivos, equipos de reactivos, medios de cultivo y de contraste, aparatos y cualquier otro similar que pueda utilizarse como auxiliar de otros procedimientos clínicos o paraclínicos en el diagnóstico de padecimientos;
 
-Cédula descriptiva del insumo, el texto en el que se detallan las características técnicas de los insumos incluidos en el Cuadro Básico y Catálogo.
+IV. Cédula descriptiva del insumo, el texto en el que se detallan las características técnicas de los insumos incluidos en el Cuadro Básico y Catálogo;
 
-Clave, el código numérico utilizado para identificar cada uno de los insumos incluidos en el Cuadro Básico y Catálogo.
+V. Clave, el código numérico utilizado para identificar cada uno de los insumos incluidos en el Cuadro Básico y Catálogo;
 
-Claves de proveedor único, las claves que, debido a las características de sus cédulas descriptivas se corresponden exclusivamente con el insumo de un fabricante, impidiendo la participación de otros fabricantes del mismo insumo.
+VI. Claves de proveedor único, las claves que, debido a las características de sus cédulas descriptivas se corresponden exclusivamente con el insumo de un fabricante, impidiendo la participación de otros fabricantes del mismo insumo;
 
-Comités, a los Comités Técnicos Específicos.
+VII. Comités, a los Comités Técnicos Específicos;
 
-Consumibles, los materiales desechables necesarios para que el insumo realice sus funciones conforme a su intención de uso que pierden sus propiedades o características de origen después de usarse y que son de consumo repetitivo.
+VIII. Consumibles, los materiales desechables necesarios para que el insumo realice sus funciones conforme a su intención de uso que pierden sus propiedades o características de origen después de usarse y que son de consumo repetitivo;
 
-Comisión, la Comisión Interinstitucional del Cuadro Básico y Catálogo de Insumos del Sector Salud.
+IX. Comisión, la Comisión Interinstitucional del Cuadro Básico y Catálogo de Insumos del Sector Salud;
 
-Consejo, el Consejo de Salubridad General
+X. Consejo, el Consejo de Salubridad General;
 
-Cuadro Básico y Catálogo, el Cuadro Básico y Catálogo de Insumos del Sector Salud
+XI. Cuadro Básico y Catálogo, el Cuadro Básico y Catálogo de Insumos del Sector Salud;
 
-Eficiencia, la relación entre los recursos empleados y los resultados obtenidos en una intervención bajo condiciones reales. La intervención más eficiente es la que presenta una mejor relación recursos/resultados.
+XII. Eficiencia, la relación entre los recursos empleados y los resultados obtenidos en una intervención bajo condiciones reales. La intervención más eficiente es la que presenta una mejor relación recursos/resultados;
 
-Evaluación de un insumo, el proceso mediante el cual se compara la evidencia sobre un insumo con la de otros destinados al mismo fin, para establecer la idoneidad de aceptar una solicitud de actualización.
+XIII. Equipo Médico, los aparatos, accesorios e instrumental para uso específico, destinados a la atención médica, quirúrgica o a procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes, así como aquellos para efectuar actividades de investigación biomédica;
 
-Evaluación económica, el proceso mediante el cual se valoran y comparan dos o más alternativas en cuanto a los efectos en salud que producen y los recursos financieros que consumen. Puede incluir el análisis de minimización de costos, análisis de costo - efectividad, análisis de costo-utilidad y análisis de costo-beneficio.
+XIV. Evaluación de un insumo, el proceso mediante el cual se compara la evidencia sobre un insumo con la de otros destinados al mismo fin, para establecer la idoneidad de aceptar una solicitud de actualización;
 
-Exclusión, la desincorporación fundamentada de un insumo en alguna o todas sus presentaciones y especificaciones del Cuadro Básico y Catálogo.
+XV. Evaluación económica, el proceso mediante el cual se valoran y comparan dos o más alternativas en cuanto a los efectos en salud que producen y los recursos financieros que consumen. Puede incluir el análisis de minimización de costos, análisis de costo-efectividad, análisis de costo-utilidad y análisis de costo-beneficio;
 
-Farmacovigilancia, el conjunto de actividades orientadas a la identificación, evaluación, gestión y divulgación oportuna de la información relacionada con los incidentes adversos, problemas de seguridad o efectos adversos que presente un medicamento durante su uso, a fin de tomar mediadas eficientes que permitan proteger la salud de una población determinada.
+XVI. Exclusión, la desincorporación fundamentada de un insumo en alguna o todas sus presentaciones y especificaciones del Cuadro Básico y Catálogo;
 
-Guía para la Conducción de Estudios de Evaluación Económica para la Actualización del Cuadro Básico de Insumos del Sector Salud, el documento en el que se establecen los lineamientos estandarizados para la conducción de estudios económicos que serán presentados como parte de las solicitudes de actualización de un insumo.
+XVII. Farmacovigilancia, el conjunto de actividades orientadas a la identificación, evaluación, gestión y divulgación oportuna de la información relacionada con los incidentes adversos, problemas de seguridad o efectos adversos que presente un medicamento durante su uso, a fin de tomar mediadas (sic) eficientes que permitan proteger la salud de una población determinada;
 
-Guía de Evaluación de Insumos para la Salud, al documento en que se establecen los criterios estandarizados para evaluar la incorporación de medicamentos, material de curación, auxiliares de diagnóstico, instrumental y equipo médico; remedios herbolarios, insumos y equipos de acupuntura y medicamentos homeopáticos.
+XVIII. Guía para la Conducción de Estudios de Evaluación Económica para la Actualización del Cuadro Básico de Insumos del Sector Salud, el documento en el que se establecen los lineamientos estandarizados para la conducción de estudios económicos que serán presentados como parte de las solicitudes de actualización de un insumo;
 
-Inclusión, la incorporación de insumos distintos en cuanto a nombre genérico y según sea el caso, en cuanto a concentración, descripción tecnológica, metodología y/o principio de funcionamiento, con respecto a aquellos ya incluidos en el Cuadro Básico y Catálogo.
+XIX. Guía de Evaluación de Insumos para la Salud, al documento en que se establecen los criterios estandarizados para evaluar la incorporación de medicamentos, material de curación, auxiliares de diagnóstico, instrumental y equipo médico; remedios herbolarios, insumos y equipos de acupuntura y medicamentos homeopáticos;
 
-Insumos para la salud, los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación y productos higiénicos.
+XX. Inclusión, la incorporación de insumos distintos en cuanto a nombre genérico y según sea el caso, en cuanto a concentración, descripción tecnológica, metodología y/o principio de funcionamiento, con respecto a aquellos ya incluidos en el Cuadro Básico y Catálogo;
 
-Insumos de acupuntura, los elementos requeridos para la atención con acupuntura, referidos a nivel general en la “Norma Oficial Mexicana NOM-172-SSA 1-1998. Prestación de servicios de salud. Actividades auxiliares. Criterios de operación para la práctica de la acupuntura humana y métodos relacionados”.
+XXI. Insumos para la salud, los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación y productos higiénicos;
 
-Material de curación, los dispositivos o materiales de un solo uso que se emplean en la atención médica, quirúrgica, procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes. En este apartado se incluyen también los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva; y aquellos dispositivos destinados a sustituir o complementar una función, un órgano o un tejido del cuerpo humano, incluyendo prótesis, órtesis y ayudas funcionales.
+XXII. Insumos de acupuntura, los elementos requeridos para la atención con acupuntura, referidos a nivel general en la “Norma Oficial Mexicana NOM-172-SSA 1-1998. Prestación de servicios de salud. Actividades auxiliares. Criterios de operación para la práctica de la acupuntura humana y métodos relacionados”;
 
-Medicamento, toda sustancia o mezcla de substancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio, que se presente en forma farmacéutica y se identifique como tal por su actividad farmacológica, características físicas, químicas y biológicas. Cuando un producto contenga nutrimentos, será considerado como medicamento, siempre que se trate de un preparado que contenga de manera individual o asociada: vitaminas, minerales, electrolitos, aminoácidos o ácidos grasos, en concentraciones superiores a las de los alimentos naturales y además se presente en alguna forma farmacéutica definida y la indicación de uso contemple efectos terapéuticos, preventivos o rehabilitatorios.
+XXIII. Material de curación, los dispositivos o materiales de un solo uso que se emplean en la atención médica, quirúrgica, procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes. En este apartado se incluyen también los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva; y aquellos dispositivos destinados a sustituir o complementar una función, un órgano o un tejido del cuerpo humano, incluyendo prótesis, órtesis y ayudas funcionales;
 
-Medicamento Homeopático, toda sustancia o mezcla de sustancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio y que sea elaborado de acuerdo con los procedimientos de fabricación descritos en la farmacopea homeopática de los Estados Unidos Mexicanos, en las de otros países u otras fuentes de información científica nacional e internacional.
+XXIV. Medicamento, toda sustancia o mezcla de substancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio, que se presente en forma farmacéutica y se identifique como tal por su actividad farmacológica, características físicas, químicas y biológicas. Cuando un producto contenga nutrimentos, será considerado como medicamento, siempre que se trate de un preparado que contenga de manera individual o asociada: vitaminas, minerales, electrolitos, aminoácidos o ácidos grasos, en concentraciones superiores a las de los alimentos naturales y además se presente en alguna forma farmacéutica definida y la indicación de uso contemple efectos terapéuticos, preventivos o rehabilitatorios;
 
-Modificación, los cambios realizados a la cédula descriptiva de un insumo en cuanto a presentaciones, indicaciones terapéuticas, aplicaciones, especificaciones o accesorios sin que se produzcan diferencias sustantivas de los insumos contenidos en el Cuadro Básico y Catálogo.
+XXV. Medicamento Homeopático, toda sustancia o mezcla de sustancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio y que sea elaborado de acuerdo con los procedimientos de fabricación descritos en la farmacopea homeopática de los Estados Unidos Mexicanos, en las de otros países u otras fuentes de información científica nacional e internacional;
 
-Refacciones, las partes o piezas que conforman un equipo o dispositivo médico, que son necesarias para su operación e independientes del consumible y que deben ser sustituidas, garantizando la compatibilidad con el dispositivo médico, en función de su desgaste, rotura, substracción o falla, derivados del uso
+XXVI. Medicamentos Huérfanos, al que está destinado a la prevención, diagnóstico o tratamiento de enfermedades raras, las cuales tienen una prevalencia de no más de 5 personas por cada 10,000 habitantes;
 
-Remedio Herbolario, el preparado de plantas medicinales, o sus partes, individuales o combinadas y sus derivados empleados para el alivio de algunos síntomas participantes o aislados de una enfermedad.
+XXVII. Modificación Mayor, los cambios realizados a la cédula descriptiva de un insumo contenido en el Cuadro Básico y Catálogo en cuanto a indicaciones terapéuticas, aplicaciones, especificaciones o accesorios;
 
-Rendición de cuentas, los mecanismos mediante los cuales los servidores públicos explican y justifican sus actos y están supeditados a sanciones en caso de incurrir en faltas o ilegalidades.
+XXVIII. Modificación Menor, los cambios realizados a la cédula descriptiva de un insumo contenido en el Cuadro Básico y Catálogo en cuanto a forma farmacéutica y/o presentación, redacción, ortografía u otras, sin que se produzcan diferencias sustantivas que repercutan en la indicación, calidad, eficacia y seguridad;
 
-Tecnovigilancia, el conjunto de actividades que tienen por objeto la identificación y evaluación de incidentes producidos por los dispositivos médicos en uso así como la identificación de los factores de riesgo asociados a éstos, con base en la notificación, registro y evaluación sistemática de los problemas relacionados con los dispositivos médicos, con el fin de determinar la frecuencia, gravedad e incidencia de los mismos para prevenir su aparición y minimizar sus riesgos.
+XXIX. Refacciones, las partes o piezas que conforman un equipo o dispositivo médico, que son necesarias para su operación e independientes del consumible y que deben ser sustituidas, garantizando la compatibilidad con el dispositivo médico, en función de su desgaste, rotura, substracción o falla, derivados del uso;
 
-Transparencia, los procedimientos aplicados a los procesos y a los integrantes de la Comisión para garantizar prácticas exentas de conflictos de interés, apegadas a principios éticos y acordes con las políticas de salud.
+XXX. Remedio Herbolario, el preparado de plantas medicinales, o sus partes, individuales o combinadas y sus derivados empleados para el alivio de algunos síntomas participantes o aislados de una enfermedad;
 
-Valoración, el proceso mediante el cual se estima la integridad, coherencia interna y veracidad de la información que acompaña a una solicitud de actualización.
+XXXI. Rendición de cuentas, los mecanismos mediante los cuales los servidores públicos explican y justifican sus actos y están supeditados a sanciones en caso de incurrir en faltas o ilegalidades;
+
+XXXII. Tecnovigilancia, el conjunto de actividades que tienen por objeto la identificación y evaluación de incidentes producidos por los dispositivos médicos en uso así como la identificación de los factores de riesgo asociados a éstos, con base en la notificación, registro y evaluación sistemática de los problemas relacionados con los dispositivos médicos, con el fin de determinar la frecuencia, gravedad e incidencia de los mismos para prevenir su aparición y minimizar sus riesgos;
+
+XXXIII. Transparencia, los procedimientos aplicados a los procesos y a los integrantes de la Comisión para garantizar prácticas exentas de conflictos de interés, apegadas a principios éticos y acordes con las políticas de salud, y
+
+XXXIV. Valoración, el proceso mediante el cual se estima la integridad, coherencia interna y veracidad de la información que acompaña a una solicitud de actualización.
 
 ### CAPITULO II. De la organización y objeto de la Comisión
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
 ###### Artículo 4.
 
-La Comisión estará integrada por el Secretario del Consejo de Salubridad General, quien fungirá como Presidente y por los miembros titulares del Consejo que representen a la Secretaría de Salud, al Instituto Mexicano del Seguro Social, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Sistema Nacional para el Desarrollo Integral de la Familia, a la Secretaría de la Defensa Nacional, a la Secretaría de Marina, a Petróleos Mexicanos y la Secretaría de Salud del Distrito Federal. Cada miembro propietario designará un suplente.
+La Comisión estará integrada por el Secretario del Consejo de Salubridad General, quien fungirá como Presidente y por los miembros titulares del Consejo que representen a la Secretaría de Salud, al Instituto Mexicano del Seguro Social, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Sistema Nacional para el Desarrollo Integral de la Familia, a la Secretaría de la Defensa Nacional, a la Secretaría de Marina, a Petróleos Mexicanos y la Secretaría de Salud del Distrito Federal.
 
-Serán invitados permanentes a las sesiones plenarias de la Comisión el Titular de la Comisión Coordinadora de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad, el Titular de la Comisión Nacional de Protección Social en Salud, el Titular del Centro Nacional de Excelencia Tecnológica en Salud, un representante institucional de la Cámara Nacional de la Industria Farmacéutica, un representante institucional de la Cámara Nacional de la Industria de Transformación y un representante ciudadano del Consejo de Etica y Transparencia de la Industria Farmacéutica.
+El Presidente y los demás miembros de la Comisión a que se refiere el presente artículo, contarán con derecho de voz y voto.
 
-Para el análisis de los asuntos a cargo de la Comisión, y por decisión de la mayoría de sus miembros, la Comisión podrá aceptar representantes de otros organismos y unidades administrativas, así como escuchar la opinión de integrantes de los sectores social y privado. Los representantes institucionales tendrán derecho a voz y a voto, los invitados permanentes sólo a voz.
+El Presidente de la Comisión será suplido en sus ausencias por su Secretario Técnico. Los demás miembros podrán designar por escrito a sus respectivos suplentes, quienes deberán contar con un nivel jerárquico inmediato inferior al de los miembros titulares.
+
+Serán invitados permanentes a las sesiones plenarias de la Comisión el Titular de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, el Titular de la Comisión Nacional de Protección Social en Salud, el Titular del Centro Nacional de Excelencia Tecnológica en Salud, un representante institucional de la Cámara Nacional de la Industria Farmacéutica, un representante institucional de la Cámara Nacional de la Industria de Transformación y un representante ciudadano del Consejo de Ética y Transparencia de la Industria Farmacéutica. Los invitados permanentes tendrán derecho a voz, pero sin voto.
+
+Para el análisis de los asuntos a cargo de la Comisión, y por decisión del Presidente de la Comisión o de la mayoría de sus miembros, la Comisión podrá aceptar representantes de otros organismos y unidades administrativas, así como escuchar la opinión de integrantes de los sectores social y privado.
 
 ###### Artículo 5.
 
@@ -141,9 +155,9 @@ II. Revisar periódicamente el Cuadro Básico y Catálogo con el fin de realizar
 
 III. Recibir, estudiar y dictaminar las solicitudes de actualización de insumos presentadas conforme a lo establecido en este Reglamento;
 
-IV. Emitir y actualizar la Guía de Evaluación de Insumos para la Salud, en la que se establecen los criterios estandarizados para la calificación de las solicitudes de actualización;
+IV. (DEROGADA, D.O.F. 16 DE ENERO DE 2014)
 
-V. Emitir y actualizar la Guía para la Conducción de Estudios de Evaluación Económica para la Actualización del Cuadro Básico de Insumos del Sector Salud;
+V. (DEROGADA, D.O.F. 16 DE ENERO DE 2014)
 
 VI. Aprobar los formatos de cédulas descriptivas de los insumos;
 
@@ -183,19 +197,23 @@ El pleno es el órgano supremo de decisión de la Comisión y se integra por los
 
 El pleno se reunirá en sesiones ordinarias previa convocatoria emitida por su Presidente o en sesión extraordinaria a solicitud de cuando menos dos de sus miembros titulares. Se realizará cuando menos una sesión ordinaria anual.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
 ###### Artículo 11.
 
-Las convocatorias para las sesiones de la Comisión contendrán el orden del día, se efectuarán mediante comunicación escrita firmada por el Presidente de la Comisión y se notificarán a todos los miembros de la misma, por lo menos, con cinco días hábiles de anticipación a la fecha de la celebración, en el caso de las sesiones ordinarias, y con 24 horas de anticipación, las extraordinarias. Las convocatorias podrán realizarse mediante correo electrónico institucional.
+Las convocatorias para las sesiones de la Comisión contendrán el orden del día, se efectuarán mediante comunicación escrita firmada por el Presidente de la Comisión y se notificarán a todos los miembros de la misma, por lo menos, con cinco días hábiles de anticipación a la fecha de la celebración, en el caso de las sesiones ordinarias, y con 24 horas de anticipación, las extraordinarias. Las convocatorias podrán realizarse mediante correo electrónico institucional, en cuyo caso el acuse de recibo electrónico deberá agregarse al expediente correspondiente.
 
 ###### Artículo 12.
 
 Las sesiones de la Comisión, tanto ordinarias como extraordinarias, se efectuarán con la asistencia de la mayoría simple de los representantes titulares o suplentes designados y sus resoluciones serán válidas cuando se aprueben por la mayoría de los presentes. En caso de empate el Presidente tendrá voto de calidad. En caso de no contar con quórum, el Presidente fijará fecha para una nueva reunión; la cual se llevará a cabo con los miembros que asistan.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
 ###### Artículo 13.
 
-De las sesiones del pleno se levantará acta, en la que se asentarán los acuerdos a que se haya llegado. Las actas de las sesiones, una vez firmadas por los titulares, el Presidente y el Secretario Técnico, se archivarán. Se anexarán a las actas originales todos los documentos que justifiquen que las convocatorias se realizaron en los términos previstos en el presente Reglamento, así como los documentos que sirvieron de base para la toma de decisiones.
+De las sesiones del pleno se levantará acta, en la que se asentarán los acuerdos a que se haya llegado. Las actas de las sesiones, una vez firmadas por los titulares, el Presidente y el Secretario Técnico, se integrarán al expediente correspondiente, junto con todos los documentos que justifiquen que las convocatorias se realizaron en los términos previstos en el presente Reglamento, así como los documentos que sirvieron de base para la toma de decisiones.
 
-En los términos del artículo 14, fracción VI de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, las Actas de la Comisión y los documentos que las acompañan se consideran información reservada por un tiempo de cuatro años, al término de los cuales se transferirán al Archivo de Concentración de la Secretaría de Salud.
+Las actas a la que se refiere el párrafo anterior se considerarán información reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 #### Sección II: De los Comités Técnicos Específicos
 
@@ -247,15 +265,19 @@ Los Comités celebrarán sesiones ordinarias por lo menos una vez al mes, except
 
 Las sesiones de los Comités, tanto ordinarias como extraordinarias, tendrán validez con la asistencia de la mayoría simple de los representantes
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
 ###### Artículo 18.
 
-Las convocatorias para las sesiones de los Comités específicos serán emitidas por el Secretario Técnico, contendrán el orden del día y se efectuarán mediante comunicación escrita a todos los miembros del Comité con una anticipación mínima de tres días hábiles a la fecha de la celebración.
+Las convocatorias para las sesiones de los Comités específicos serán emitidas por el Secretario Técnico, contendrán el orden del día y se efectuarán mediante comunicación escrita a todos los miembros del Comité con una anticipación mínima de tres días hábiles a la fecha de la celebración. Las convocatorias podrán realizarse mediante correo electrónico institucional, en cuyo caso el acuse de recibo electrónico deberá agregarse al expediente correspondiente.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
 
 ###### Artículo 19.
 
-Los acuerdos de los Comités, con excepción de los dictámenes de actualización, serán válidos con la asistencia de la mayoría simple de los miembros nombrados por los titulares, los que se asentarán siempre en acta, que será firmada por el Secretario Técnico, el Coordinador y por los miembros del Comité de que se trate.
+Los acuerdos de los Comités, con excepción de los dictámenes de actualización, serán válidos con la asistencia de la mayoría simple de los miembros nombrados por los titulares de la Comisión, los que se asentarán siempre en acta, que será firmada por el Secretario Técnico, el Coordinador y por los miembros del Comité de que se trate.
 
-En los términos del artículo 14, fracción VI de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, las actas de los Comités y los documentos que las acompañan se consideran información reservada por un tiempo de cuatro años, al término de los cuales se transferirán al Archivo de Concentración de la Secretaría de Salud.
+Las actas a la que se refiere el párrafo anterior se considerarán información reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 ### CAPITULO V. De las facultades de los miembros
 
@@ -278,6 +300,14 @@ V. Proponer los formatos de cédulas descriptivas de los insumos;
 VI. Evaluar los planes y programas de la Comisión elaborados por el Secretario Técnico y presentarlos a la consideración de ésta;
 
 VII. Formular y presentar a la Comisión los planes y proyectos que le correspondan;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2014)</small>
+
+VII Bis 1. Emitir y actualizar la Guía de Evaluación de Insumos para la Salud, en la que se establecen los criterios estandarizados para la calificación de las solicitudes de actualización;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2014)</small>
+
+VII Bis 2. Emitir y actualizar la Guía para la Conducción de Estudios de Evaluación Económica para la Actualización del Cuadro Básico de Insumos del Sector Salud;
 
 VIII. Formular los informes que permitan conocer el estado operativo de la Comisión;
 
@@ -379,19 +409,25 @@ IX. Resguardar el archivo de toda la documentación referente a asuntos de los C
 
 X. Las demás que el Secretario Técnico de la Comisión señale.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
 ###### Artículo 24.
 
 Corresponde a los miembros de los Comités:
 
 I. Evaluar las solicitudes de actualización al Cuadro Básico y Catálogo considerando los informes realizados por los expertos, cuando aplique;
 
-II. Emitir su voto para resolver solicitudes de actualización cuando no se alcance consenso en el dictamen;
+II. Participar en las sesiones del Comité;
 
-III. Avalar las Actualizaciones del Cuadro Básico y Catálogo;
+III. Formular por escrito las opiniones técnicas que correspondan, respecto de las solicitudes de actualización y emitir su voto para resolver solicitudes de actualización cuando no se alcance consenso en el dictamen;
 
-IV. Informar de las decisiones y acuerdos a los titulares de la Comisión que representen, siendo válidas las decisiones aprobadas en los Comités.
+IV. Avalar las Actualizaciones del Cuadro Básico y Catálogo, y
 
-Los representantes institucionales tendrán derecho a voz y a voto, los invitados permanentes sólo a voz.
+V. Informar de las decisiones y acuerdos a los titulares de la Comisión que representen, siendo válidas las decisiones aprobadas en los Comités.
+
+Los representantes institucionales tendrán derecho a voz y voto, los invitados permanentes sólo a voz.
+
+El miembro que manifieste contar con un conflicto de interés en el asunto a tratar, deberá abstenerse de votar.
 
 ###### Artículo 25.
 
@@ -415,17 +451,35 @@ Podrán solicitar actualizaciones de los insumos en el Cuadro Básico y Catálog
 
 Las solicitudes y la documentación que las acompañe deberán ser presentadas preferentemente en medios digitales, conforme a los requisitos citados en este Reglamento. La solicitud y la documentación presentada con motivo de la actualización serán conservadas en el Consejo de Salubridad General durante un periodo de cuatro años, al término de los cuales se transferirán al Archivo de Concentración de la Secretaría de Salud.
 
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
+###### Artículo 27 Bis.
+
+Previo a la presentación formal de la solicitud de Actualización de los insumos en el Cuadro Básico y Catálogo, el interesado podrá solicitar una junta técnica, la cual tendrá por objeto que la Comisión a través del Comité Técnico que corresponda, resuelva en forma clara y precisa las dudas y planteamientos de los interesados, respecto de la metodología y criterios técnicos del estudio de evaluación económica y/o de Impacto Presupuestal que deberán presentar en su solicitud.
+
+Para tal efecto, los interesados deberán presentar un escrito a la Comisión, en el que expresen su interés en presentar formalmente una solicitud de actualización, manifestando en todos los casos los datos generales del interesado y, en su caso, del representante, así como la información correspondiente al insumo de que se trate.
+
+La Comisión determinará la fecha y hora para la celebración de las juntas técnicas.
+
+De cada junta técnica se levantará acta en la que se harán constar los cuestionamientos formulados por los interesados y las aclaraciones correspondientes.
+
 > <small>(F. DE E., D.O.F. 15 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 28.
 
 Toda solicitud de actualización deberá contener los datos de contacto de la persona responsable. Las solicitudes de inclusión, independientemente del tipo de insumo de que se trate, y las solicitudes de modificación a las indicaciones de un medicamento, deberán ser acompañadas de lo siguiente:
 
-I. Copia del Registro Sanitario vigente expedido por la Comisión Federal para la Protección contra Riesgos Sanitarios certificada por notario público o corredor público, con excepción de los insumos que por definición de COFEPRIS, no requieran Registro Sanitario. Cuando se trate de insumos sin patente, las instituciones públicas prestadoras de servicios de salud podrán presentar su solicitud acompañada de copia simple del Registro Sanitario.
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2014)</small>
 
-II. Para demostrar la seguridad y eficacia del insumo será suficiente con la presentación del Registro Sanitario vigente referido en el inciso anterior, ya que la Comisión Federal para la Protección contra Riesgos Sanitarios fundamenta su expedición en la evaluación de estos dos aspectos. Cuando el Registro Sanitario tenga más de un año de haber sido expedido o el insumo no requiera Registro Sanitario, el solicitante deberá presentar la información científica disponible actualizada sobre eficacia y seguridad.
+I. Copia del Registro Sanitario y la Información para Prescribir en su versión Amplia vigente, expedido por la Comisión Federal para la Protección contra Riesgos Sanitarios y certificada por notario público o corredor público, con excepción de aquellos productos que, en términos de las disposiciones aplicables, atendiendo a su naturaleza, características propias y uso, no se consideran insumos para la salud y en consecuencia no requieren Registro Sanitario. Cuando se trate de insumos sin patente, las instituciones públicas prestadoras de servicios de salud podrán presentar su solicitud acompañada de copia simple del Registro Sanitario;
 
-III. Manifiesto de contar con sistema de farmacovigilancia y notificación inmediata con base en la NOM-220-SSA1-2004 o de Tecnovigilancia de acuerdo con la normatividad vigente, según sea el caso. En caso de existir sospecha de eventos adversos, confirmada o no, ocasionados por el medicamento durante su comercialización y uso, la solicitud deberá ser acompañada de evaluación del perfil de seguridad del insumo con oficio de aceptación por parte del Centro Nacional de Farmacovigilancia de la Comisión Federal para la Protección Contra Riesgos Sanitarios.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
+II. Para demostrar la seguridad y eficacia del insumo, será suficiente la presentación del Registro Sanitario y la Información para Prescribir en su versión Amplia, ya que la Comisión Federal para la Protección contra Riesgos Sanitarios fundamenta su expedición en la evaluación de estos aspectos. Cuando el Registro Sanitario tenga más de un año de haber sido expedido o se trate de un producto que por su naturaleza, características propias y uso, no se consideren como insumos para la salud y en consecuencia no requieran Registro Sanitario, el solicitante deberá presentar la información científica disponible actualizada sobre seguridad y eficacia;
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
+III. Manifiesto de contar con sistema de Farmacovigilancia y notificación inmediata con base en la Norma Oficial Mexicana NOM-220-SSA1-2012, Instalación y operación de la Farmacovigilancia o a la Norma Oficial Mexicana NOM-240-SSA1-2012, Instalación y operación de la tecnovigilancia, según sea el caso, o las que las sustituyan. En caso de existir sospecha de eventos adversos, confirmada o no, ocasionados por el insumo durante su comercialización y uso, la solicitud deberá ser acompañada de evaluación del perfil de seguridad del insumo con oficio de aceptación por parte del Centro Nacional de Farmacovigilancia de la Comisión Federal para la Protección Contra Riesgos Sanitarios;
 
 IV. Estudio de evaluación económica elaborado con base en la Guía para la Conducción de Estudios de Evaluación Económica, y que cumpla con lo siguiente:
 
@@ -443,19 +497,33 @@ V. Cédula con la propuesta de descripción genérica del insumo que se solicita
 
 VI. Carta bajo protesta de decir verdad de que el insumo no infringe patentes ni se encuentra en litigio y que la información que presenta es fidedigna.
 
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2014)</small>
+
+VII. Escrito libre que establezca el precio del insumo ofertado al sector público, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2014)</small>
+
+VIII. Original o copia certificada del documento con el que el solicitante acredite su personalidad, así como de la persona responsable.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
 ###### Artículo 29.
 
-En el caso de solicitudes de inclusión de medicamentos para tratamientos especiales en enfermedades de baja incidencia con repercusión social a que se refiere el artículo 196 del Reglamento de Insumos para la Salud, se deberá proporcionar adicionalmente:
+En el caso de solicitudes de inclusión de medicamentos para tratamientos especiales en enfermedades de baja incidencia con repercusión social, así como para medicamentos huérfanos, se deberá proporcionar además de los requisitos previstos en el artículo 196 del Reglamento de Insumos para la Salud, lo siguiente:
 
 I. Copia notariada de la autorización expedida por la Comisión Federal para la Protección contra Riesgos Sanitarios;
 
-II. Estudio de impacto presupuestario.
+II. Estudio de impacto presupuestal, y
+
+III. Estudio de Evaluación Económica, que desarrolle el costo-efectividad y/o el costo-utilidad cuando la información clínica y económica lo permita.
 
 ###### Artículo 30.
 
 En el caso de solicitudes de inclusión de instrumental y equipo médico efectuadas por un proveedor, deberá entregarse adicionalmente lo siguiente:
 
-I. Carta compromiso de reenviar cualquier notificación del fabricante sobre la descontinuación de la producción del insumo, al menos 5 años antes de que deje de haber disponibilidad de partes.
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2014)</small>
+
+I. Carta compromiso de reenviar cualquier notificación del fabricante sobre la descontinuación de la producción del insumo, y
 
 II. Carta en la que exprese que cuenta con manuales de mantenimiento preventivo y correctivo en español.
 
@@ -465,13 +533,51 @@ Toda solicitud de modificación a la cédula descriptiva, independientemente del
 
 I. Solicitud indicando nombre genérico, clave y las razones que motivan la solicitud de modificación.
 
-II. Copia del Registro Sanitario vigente expedido por la Comisión Federal para la Protección Contra Riesgos Sanitarios certificado por notario público o corredor público. Cuando se trate de insumos sin patente, las instituciones públicas prestadoras de servicios de salud podrán presentar su solicitud acompañada de copia simple del Registro Sanitario.
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2014)</small>
 
-III. Precio unitario del insumo correspondiente a la cédula descriptiva modificada.
+II. Copia del Registro Sanitario e Información para Prescribir en su versión Amplia. Cuando se trate de insumos sin patente, las instituciones públicas prestadoras de servicios de salud podrán presentar su solicitud acompañada de copia simple del Registro Sanitario;
+
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2014)</small>
+
+III. Escrito libre que establezca el precio del insumo ofertado al sector público;
 
 IV. Manifiesto de que el insumo no infringe patentes ni se encuentra en litigio.
 
 V. Propuesta de cédula descriptiva modificada.
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2014)</small>
+
+VI. Evidencia clínica que ampare la modificación;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2014)</small>
+
+VII. Análisis del incremento de precios entre las modificaciones, en los casos donde los cambios realizados a la cédula descriptiva de un insumo, sea en sus presentaciones o accesorios, y éstos no generen diferencias en los contenidos de los insumos del Cuadro Básico y Catálogo, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2014)</small>
+
+VIII. Original o copia certificada del documento con el que el solicitante acredite su personalidad, así como de la persona responsable.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
+###### Artículo 31 Bis.
+
+Toda solicitud de modificación mayor a la cédula descriptiva, independientemente del tipo de insumo de que se trate, deberá ser acompañada de lo siguiente:
+
+I. Solicitud indicando nombre genérico, clave y las razones que motivan la solicitud de modificación;
+
+II. Copia del Registro Sanitario e Información para Prescribir en su versión Amplia. Cuando se trate de insumos sin patente, las instituciones públicas prestadoras de servicios de salud podrán presentar su solicitud acompañada de copia simple del Registro Sanitario;
+
+III. Escrito libre que establezca el precio del insumo ofertado al sector público;
+
+IV. Manifiesto de que el insumo no infringe patentes ni se encuentra en litigio;
+
+V. Propuesta de cédula descriptiva modificada;
+
+VI. Evidencia clínica que ampare la modificación;
+
+VII. Estudio de evaluación económica elaborado con base en la Guía para la Conducción de Estudios de Evaluación Económica, y que cumpla con lo establecido en el artículo 28, fracción IV, de este Reglamento, y
+
+VIII. Original o copia certificada del documento con el que el solicitante acredite su personalidad, así como de la persona responsable.
 
 ###### Artículo 32.
 
@@ -503,13 +609,19 @@ Serán excluidos del Cuadro Básico y Catálogo aquellos insumos para los que se
 
 El Consejo publicará en el Diario Oficial de la Federación los formatos de cédulas descriptivas que se utilizarán para solicitar la actualización de insumos.
 
-> <small>(F. DE E., D.O.F. 3 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
 
 ###### Artículo 36.
 
-Para efectos de la actualización del Cuadro Básico y Catálogo, las solicitudes de actualización y la documentación que las acompaña se recibirán en cualquier día hábil del año en curso. La Secretaría Técnica del Comité correspondiente dispondrá de quince días hábiles para efectuar la revisión y valoración de la solicitud y documentación con el fin de constatar que cumple con los requisitos señalados en este Reglamento.
+Para efectos de la actualización del Cuadro Básico y Catálogo, las solicitudes de actualización y la documentación que las acompaña se recibirán en cualquier día hábil del año en curso. La Secretaría Técnica del Comité correspondiente dispondrá de quince días hábiles, contados a partir del día hábil siguiente de la recepción de la solicitud, para efectuar la revisión y valoración de la solicitud y documentación con el fin de constatar que cumple con los requisitos señalados en este Reglamento.
+
+La Secretaría Técnica del Comité, en caso de existir omisión de alguno de los requisitos que deben cumplirse, dentro del plazo de quince días hábiles contados a partir de la fecha de recepción, prevendrá al solicitante para que subsane las omisiones dentro del término de cinco días hábiles, contados a partir de la fecha en que se le haya notificado, apercibido de que en caso de no dar cumplimiento se tendrá por no presentada la solicitud.
 
 Si en quince días hábiles contados a partir de la fecha de recepción de su solicitud el solicitante no recibe ninguna comunicación, se entenderá que la solicitud fue aceptada y se deberá presentar la documentación para continuar con el proceso de actualización del insumo.
+
+Cada solicitud de actualización podrá ser valorada hasta en dos ocasiones, a efecto de determinar si procede dar trámite a la misma.
+
+Una nueva solicitud sobre el insumo y la indicación referidos, sólo podrá presentarse seis meses después de la fecha en que se notifique la última determinación de tenerse por no presentada la solicitud.
 
 #### Sección II: Sobre los expertos
 
@@ -529,11 +641,13 @@ Los expertos analizarán la información recibida conforme a la Guía de Evaluac
 
 #### Sección III: Sobre el proceso de actualización de insumos
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
 #### Sección IV: Sobre la transparencia y rendición de cuentas
 
 ###### Artículo 39.
 
-Los Comités emitirán su dictamen en un plazo máximo de 90 días naturales a partir de la recepción de la solicitud de actualización. Cuando los Comités requieran de información aclaratoria adicional a la presentada o realizar consultas técnicas para emitir su dictamen, el plazo mencionado podrá prorrogarse hasta por 30 días naturales. Esta situación será notificada por escrito al solicitante, debidamente motivada y fundamentada.
+Los Comités emitirán su dictamen en un plazo máximo de 90 días naturales contados a partir de la fecha de recepción de la solicitud de actualización. Cuando los Comités requieran de información aclaratoria adicional a la presentada o realizar consultas técnicas para emitir su dictamen, el plazo mencionado podrá prorrogarse hasta por 30 días naturales, dicha prorroga, así como la determinación de requerir información adicional al solicitante, deberá fundarse y motivarse debidamente y será notificada por escrito.
 
 ###### Artículo 40.
 
@@ -556,6 +670,12 @@ IV. El beneficio potencial a largo plazo que la incorporación del insumo puede 
 ###### Artículo 42.
 
 En los casos en que se dictamine no procedente la solicitud de actualización, se informará por escrito al solicitante, señalando y fundando las razones del mismo. El solicitante podrá presentar una nueva solicitud una vez que reúna la información que dé respuesta a las razones expuestas en el dictamen correspondiente. Si el dictamen resultare no favorable en dos ocasiones, el solicitante podrá presentar una nueva solicitud un año posterior al último dictamen.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
+###### Artículo 42 Bis.
+
+Los interesados podrán interponer el recurso de revisión, en contra del dictamen a que se refieren los artículos 39, 40, 41 y 42 de este Reglamento, cuyo escrito se presentará ante el Comité, el cual se sustanciará conforme a la Ley Federal de Procedimiento Administrativo.
 
 ###### Artículo 43.
 
@@ -623,7 +743,7 @@ XI. En el caso de actualizaciones procedentes, fecha de publicación en el Diari
 
 ###### Artículo 53.
 
-Las solicitudes de actualización y la información que las acompañe serán reservadas mientras dure el proceso deliberativo conforme a lo establecido en la fracción II del artículo 14 de Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental. Los solicitantes identificarán la información que sustente su solicitud como confidencial y ésta será clasificada y conservada conforme a lo establecido en la mencionada Ley. Adicionalmente, esta información estará protegida por los artículos 82 y 85 de la Ley de la Propiedad Industrial, artículo 44 fracción IV y artículo 46 fracción V inciso e) de la Ley Federal de los Trabajadores al Servicio del Estado y artículo 47 fracción IV de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+(DEROGADO, D.O.F. 16 DE ENERO DE 2014)
 
 ###### Artículo 54.
 
@@ -698,3 +818,11 @@ PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su pub
 SEGUNDO. Se abroga el Reglamento de la Comisión Interinstitucional del Cuadro Básico de Insumos del Sector Salud, publicado en el Diario Oficial de la Federación el 27 de mayo de 2003.
 
 México, D.F., a 14 de junio de 2011.- El Presidente de la Comisión Interinstitucional del Cuadro Básico de Insumos del Sector Salud, Enrique Juan Diego Ruelas Barajas.- Rúbrica.- El Comisionado de la Comisión Federal para la Protección contra Riesgos Sanitarios, Mikel Andoni Arriola Peñalosa.- Rúbrica.- El Director de Prestaciones Médicas del Instituto Mexicano del Seguro Social, Santiago Echevarría Zuno.- Rúbrica.- El Director Médico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Gabriel Ricardo Manuell Lee.- Rúbrica.- El Director General de Sanidad de la Secretaría de la Defensa Nacional, Angel Sergio Olivares Morales.- Rúbrica.- La Titular del Sistema Nacional para el Desarrollo Integral de la Familia, María Cecilia Landerreche Gómez Morin.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE ENERO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las solicitudes de actualización que se encuentren en trámite a la entrada en vigor del presente Acuerdo, se resolverán de conformidad con las disposiciones vigentes en la fecha de su presentación.
