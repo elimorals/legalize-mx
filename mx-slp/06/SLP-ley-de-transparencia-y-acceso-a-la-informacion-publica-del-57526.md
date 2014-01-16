@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2013-05-07"
+last_updated: "2014-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -31,7 +31,7 @@ C.P. Marcelo de los Santos Fraga, Gobernador Constitucional del Estado Libre y S
 
 DECRETO 234
 
-LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, EN USO DE LA FACULTAD QUE LE CONFIERE EL ARTICULO 138 DE LA CONSTlTUCION POLITICA DEL ESTADO, Y PREVIA APROBACION DEL HONORABLE CONGRESO, ASI COMO DE CUARENTA Y CUATRO HONORABLES AYUNTAMIENTOS DE LA ENTIDAD, DECLARA.
+LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, EN USO DE LA FACULTAD QUE LE CONFIERE EL ARTICULO 138 DE LA CONSTITUCION POLITICA DEL ESTADO, Y PREVIA APROBACION DEL HONORABLE CONGRESO, ASI COMO DE CUARENTA Y CUATRO HONORABLES AYUNTAMIENTOS DE LA ENTIDAD, DECLARA.
 
 EXPOSICION DE MOTIVOS
 
@@ -214,6 +214,10 @@ En lo no previsto en esta Ley, serán aplicables supletoriamente, las disposicio
 ###### ARTICULO 5º.
 
 Toda la información creada, administrada o en posesión de los entes obligados, es un bien público cuya titularidad radica en la sociedad; por tanto, debe estar a disposición de cualquier persona, salvo aquélla que por la afectación de los derechos de terceros y excepciones previstas en la presente Ley, deba resguardarse por su carácter reservado o confidencial.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2014)</small>
+
+Cuando una persona física o moral reciba cualquier ganancia, prestación, exención o prerrogativa que implique un beneficio económico particular a costa del erario, sea en numerario, en especie, o en tratamientos especiales, quedará por el solo hecho de recibirlos, sujeta al derecho de acceso a la información pública. Toda la información relativa al empleo de recursos públicos se regirá por el principio de máxima publicidad. Al beneficiarse con recursos públicos las personas físicas o morales aceptan que toda la información relacionada con esa prestación es pública.
 
 ###### ARTICULO 6º.
 
@@ -759,7 +763,7 @@ IV. Aprobar el Programa Anual de Acciones de Mejoramiento de la Transparencia qu
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-V. Elaborar el informe anual que cada entidad pública deberá enviar a la CEGAlP, en el que se dé cuenta de la aplicación de esta Ley, y
+V. Elaborar el informe anual que cada entidad pública deberá enviar a la CEGAIP, en el que se dé cuenta de la aplicación de esta Ley, y
 
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
 
@@ -1383,7 +1387,7 @@ SEGUNDO.- Se reforma (sic) los artículos transitorios: Décimo; Décimo Primero
 
 ARTICULOS TRANSITORIOS DECRETO LEGISLATIVO No. 234
 
-PRIMERO a NOVENO .
+PRIMERO a NOVENO.
 
 DÉCIMO. La información pública de oficio a que se refiere los artículos 18, 19, 20, 21, 22, 23, 24 y 25 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, deberá publicarse dentro de los ciento ochenta días naturales siguientes a la publicación de las normas, lineamientos y criterios técnicos que expida la CEGAIP. Las entidades públicas obligadas deberán contar con sistemas electrónicos, para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información, y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de su entrada en vigor. Tratándose de municipios con población inferior a setenta mil habitantes, el plazo para contar con los sistemas electrónicos respectivos, será de cuatro años a partir de la entrada en vigor del presente Decreto.
 
@@ -1456,3 +1460,9 @@ P.O. 7 DE MAYO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición contraria a este Decreto.
+
+P.O. 16 DE ENERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición contraria al presente Decreto.
