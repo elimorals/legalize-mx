@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2013-12-25"
+last_updated: "2014-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 16 DE ENERO DE 2014.</small>
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -2769,9 +2769,9 @@ XIV. Llevar a cabo la certificación y autentificación de los documentos que ob
 
 XV. Por indicaciones del Presidente de la Junta Directiva o la Presidencia del Congreso, citar por escrito o vía actuación electrónica a los integrantes de la Legislatura que corresponda, a sesiones de la Asamblea o reuniones de la Diputación Permanente o de comisiones legislativas;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013) (F. DE E., P.O. 16 DE ENERO DE 2014)
 
-XVI. En ejercicio de la atribución para atender los asuntos jurídico-parlamentarios, dirigir y coordinarse con la Unidad de (sic) Jurídica en los temas jurisdiccionales relacionados enunciativamente con las controversias constitucionales, acciones de inconstitucionalidad, protección de los derechos político electorales y todo aquello que implique la defensa de la constitucionalidad de leyes, decretos o acuerdos, así como de los procedimientos tendientes a incoar responsabilidad administrativa, política o penal a servidores públicos de la entidad;
+XVI. En ejercicio de la atribución para atender los asuntos jurídico-parlamentarios, dirigir y coordinarse con la Unidad Jurídica en los temas jurisdiccionales relacionados enunciativamente con las controversias constitucionales, acciones de inconstitucionalidad, protección de los derechos político electorales y todo aquello que implique la defensa de la constitucionalidad de leyes, decretos o acuerdos, así como de los procedimientos tendientes a incoar responsabilidad administrativa, política o penal a servidores públicos de la entidad;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
@@ -3597,11 +3597,17 @@ XII. Proponer las transferencias o modificaciones presupuestales que sean necesa
 
 XIII. Verificar que la documentación soporte del ejercicio del gasto cumpla con los requisitos establecidos, en estricto apego a los principios, lineamientos y normatividad vigentes y, en su defecto, notificar a las unidades administrativas lo relativo a incumplimientos u omisiones en su aplicación;
 
-XII (SIC). Establecer los lineamientos y políticas de pago a proveedores, prestadores de servicios, Diputados y servidores públicos del congreso;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2014)</small>
 
-XIII. Realizar los pagos relativos al ejercicio presupuestal conforme a los capítulos, conceptos y partidas de gasto contenidas en el clasificador por objeto del gasto, derivados de las actividades y compromisos del Congreso, y
+XIV. Establecer los lineamientos y políticas de pago a proveedores, prestadores de servicios, Diputados y servidores públicos del congreso;
 
-XIV. Las demás actividades que las disposiciones legales le atribuyan así como aquellas que le sean encomendadas por el Titular de la Dirección de Tesorería.
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2014)</small>
+
+XV. Realizar los pagos relativos al ejercicio presupuestal conforme a los capítulos, conceptos y partidas de gasto contenidas en el clasificador por objeto del gasto, derivados de las actividades y compromisos del Congreso, y
+
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2014)</small>
+
+XVI. Las demás actividades que las disposiciones legales le atribuyan así como aquellas que le sean encomendadas por el Titular de la Dirección de Tesorería.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
@@ -3733,7 +3739,9 @@ VIII. Revisar y aplicar los cálculos aritméticos de los diferentes conceptos d
 
 IX. Aplicar los descuentos o retenciones que correspondan conforme a las disposiciones establecidas en los lineamientos normatividad interna, convenios laborales suscritos o con terceros institucionales; así como las disposiciones fiscales.
 
-X. Aplicar la deducciones vía nomina por incidencias del personal registradas por el Departamento de Administración y Control de Personal.
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2014)</small>
+
+X. Aplicar la (sic) deducciones vía nomina por incidencias del personal registradas por el Departamento de Administración y Control de Personal, y
 
 XI. Las demás actividades que las disposiciones legales le atribuyan, así como aquellas que le sean encomendadas por el Titular de la Dirección de Administración de Personal y Desarrollo Institucional.
 
@@ -4075,9 +4083,9 @@ II. Unidad de Gestoría Social;
 
 III. Unidad de Enlace para la Transparencia y Acceso a la Información Pública;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013) (F. DE E., P.O. 16 DE ENERO DE 2014)
 
-IV. Unidad de (sic) Jurídica;
+IV. Unidad Jurídica;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
