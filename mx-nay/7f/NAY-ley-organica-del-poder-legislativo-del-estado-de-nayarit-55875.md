@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2013-12-25"
+last_updated: "2014-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 16 DE ENERO DE 2014.</small>
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -429,7 +429,9 @@ II. Conducir las relaciones políticas de la Legislatura con los Poderes Ejecuti
 
 III. Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas e iniciativas que requieren de su votación en la Asamblea, a fin de agilizar el trabajo legislativo;
 
-IV. Decidir acerca del proyecto de presupuesto anual del Congreso y presentarlo al Titular del Poder Ejecutivo para su integración en el proyecto del presupuesto de egresos del Estado;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2014)</small>
+
+IV. Decidir acerca del proyecto del presupuesto anual del Poder Legislativo y presentarlo al Titular del Poder Ejecutivo para su integración en el proyecto del presupuesto de egresos del Estado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -877,13 +879,17 @@ Los servidores públicos del Congreso a que se hace referencia en la presente se
 
 Son parte de la estructura orgánica de la Comisión de Gobierno, las unidades administrativas que a continuación se indican:
 
-I. Unidad de Comunicación Social;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2014)</small>
+
+I. Unidades de Comunicación Social;
 
 II. Unidad de Gestoría Social;
 
 III. Unidad de Enlace para la Transparencia y Acceso a la Información Pública;
 
-IV. Unidad de Jurídica (sic);
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2014)</small>
+
+IV. Unidad Jurídica;
 
 V. Unidad de Asesores, y
 
