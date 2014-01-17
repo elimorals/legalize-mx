@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-78511"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-01-24"
-last_updated: "2013-04-01"
+last_updated: "2014-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78511&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-11-03"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL D.O.F. DE 17 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 24 de enero de 2011.
 
@@ -2396,3 +2398,25 @@ PRIMERO.- El presente Acuerdo entrará en vigor el uno de mayo de dos mil trece.
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta, y en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial.
+
+D.O.F. 17 DE ENERO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+III (SIC). Acuerdo General 20/2002 del Pleno del Consejo de la Judicatura Federal, que establece las normas para el uso de la red privada de comunicación electrónica de datos del Poder Judicial de la Federación, en la presentación de las declaraciones patrimoniales de los servidores públicos del Poder Judicial de la Federación y del Tribunal Electoral, con excepción de la Suprema Corte de Justicia de la Nación y de la Sala Superior del Tribunal Electoral;
+
+IV. Acuerdo General 7/2008 del Pleno del Consejo de la Judicatura Federal, que regula la organización y funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y abroga el diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado;
+
+V. Acuerdo General 62/2008 del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones que deberán observar los servidores públicos adscritos a las áreas administrativas y órganos auxiliares del Consejo, para realizar el informe de los asuntos a su cargo y la entrega-recepción de los recursos que tengan asignados al separarse de su empleo, cargo o comisión;
+
+VI. Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial; y
+
+VII. Acuerdo General 10/2011 del Pleno del Consejo de la Judicatura Federal, relativo a la verificación de la situación financiera de los servidores del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del propio Poder Judicial.
+
+CUARTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones con las que fueron iniciados.
+
+QUINTO. Se derogan todas las disposiciones que (sic) opongan al presente Acuerdo General.
