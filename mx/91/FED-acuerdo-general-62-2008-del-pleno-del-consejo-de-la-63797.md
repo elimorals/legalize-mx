@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-62-2008-del-pleno-del-consejo-de-la-63797"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-22"
-last_updated: "2008-10-22"
+last_updated: "2014-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63797&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-08-20"
 ---
 # ACUERDO GENERAL 62/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [DISPOSICIONES PARA SERVIDORES PUBLICOS EN AREAS ADMVAS. Y ORGANOS AUX., DE INFORMAR LOS ASUNTOS A SU CARGO Y ENTREGA-RECEP. DE LOS REC. ASIGNADOS]
 
-ACUERDO GENERAL 62/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES QUE DEBERAN OBSERVAR LOS SERVIDORES PUBLICOS ADSCRITOS A LAS AREAS ADMINISTRATIVAS Y ORGANOS AUXILIARES DEL CONSEJO, PARA REALIZAR EL INFORME DE LOS ASUNTOS A SU CARGO Y LA ENTREGA-RECEPCION DE LOS RECURSOS QUE TENGAN ASIGNADOS AL SEPARARSE DE SU EMPLEO, CARGO O COMISION
+ACUERDO GENERAL 62/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES QUE DEBERÁN OBSERVAR LOS SERVIDORES PÚBLICOS ADSCRITOS A LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS AUXILIARES DEL CONSEJO, PARA REALIZAR EL INFORME DE LOS ASUNTOS A SU CARGO Y LA ENTREGA-RECEPCIÓN DE LOS RECURSOS QUE TENGAN ASIGNADOS AL SEPARARSE DE SU EMPLEO, CARGO O COMISIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL D.O.F. DE 17 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de octubre de 2008.
 
@@ -37,7 +39,7 @@ SEGUNDO.- El Consejo de la Judicatura Federal ha expedido diversos acuerdos gene
 
 TERCERO.- Es conveniente garantizar la continuidad de las operaciones administrativas, así como el aprovechamiento de los recursos financieros, humanos y materiales de que disponen los servidores públicos en el ejercicio de sus funciones, preservando los documentos, valores, programas, estudios, proyectos, etc., existentes en el Consejo, a la fecha en que los servidores públicos se separen de su empleo, cargo o comisión, para que quienes los sustituyan en sus funciones, cuenten con los elementos necesarios que les permitan cumplir con las funciones asignadas;
 
-CUARTO.- De conformidad con lo dispuesto en la fracción XlV del artículo 138, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo, la Dirección General de Auditoría deberá participar en los actos de entrega-recepción de las áreas administrativas del Consejo.
+CUARTO.- De conformidad con lo dispuesto en la fracción XIV del artículo 138, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo, la Dirección General de Auditoría deberá participar en los actos de entrega-recepción de las áreas administrativas del Consejo.
 
 En consecuencia, con fundamento en los artículos 100 de la Constitución Política de los Estados Unidos Mexicanos y 81, fracción XVIII, de la Ley Orgánica del Poder Judicial de la Federación, el Pleno del Consejo de la Judicatura Federal expide el siguiente
 
@@ -522,3 +524,27 @@ Requisitos para la elaboración del "Acta de Entrega-Recepción".
 - Acta sin anexos: a la Contraloría del Poder Judicial de la Federación.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 62/2008, del Pleno del Consejo de la Judicatura Federal, que Establece las Disposiciones que Deberán Observar los Servidores Públicos Adscritos a las Areas Administrativas y Organos Auxiliares del Consejo, para Realizar el Informe de los Asuntos a su Cargo y la Entrega-Recepción de los Recursos que tengan Asignados al Separarse de su Empleo, Cargo o Comisión, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinte de agosto de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a catorce de octubre de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE ENERO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+III (SIC). Acuerdo General 20/2002 del Pleno del Consejo de la Judicatura Federal, que establece las normas para el uso de la red privada de comunicación electrónica de datos del Poder Judicial de la Federación, en la presentación de las declaraciones patrimoniales de los servidores públicos del Poder Judicial de la Federación y del Tribunal Electoral, con excepción de la Suprema Corte de Justicia de la Nación y de la Sala Superior del Tribunal Electoral;
+
+IV. Acuerdo General 7/2008 del Pleno del Consejo de la Judicatura Federal, que regula la organización y funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y abroga el diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado;
+
+V. Acuerdo General 62/2008 del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones que deberán observar los servidores públicos adscritos a las áreas administrativas y órganos auxiliares del Consejo, para realizar el informe de los asuntos a su cargo y la entrega-recepción de los recursos que tengan asignados al separarse de su empleo, cargo o comisión;
+
+VI. Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial; y
+
+VII. Acuerdo General 10/2011 del Pleno del Consejo de la Judicatura Federal, relativo a la verificación de la situación financiera de los servidores del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del propio Poder Judicial.
+
+CUARTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones con las que fueron iniciados.
+
+QUINTO. Se derogan todas las disposiciones que (sic) opongan al presente Acuerdo General.
