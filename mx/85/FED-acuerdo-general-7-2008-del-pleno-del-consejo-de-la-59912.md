@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-7-2008-del-pleno-del-consejo-de-la-59912"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-03-13"
-last_updated: "2013-11-22"
+last_updated: "2014-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-02-06"
 
 ACUERDO GENERAL 7/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA VISITADURÍA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL Y ABROGA EL DIVERSO ACUERDO GENERAL 28/2003, DEL PROPIO CUERPO COLEGIADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL D.O.F. DE 17 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2008.
 
@@ -659,25 +661,25 @@ Omisión. La falta de rendición del informe de conducta, total o parcial, en el
 
 ### CAPITULO PRIMERO. GENERALIDADES
 
-(REUBICADO [N. DE E. ANTES ARTICULO 100] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 100] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 94.
 
 Sistema y periodicidad. El visitador general elaborará un sistema que permita supervisar y evaluar el desempeño y la conducta de los visitadores judiciales. La evaluación se efectuará semestralmente.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 101] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 101] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 95.
 
 Historial. El director general abrirá un expediente por cada visitador, en el que recopilará documentos y datos relativos a sus actuaciones.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 102] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 102] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 96.
 
 Manifestaciones. Previo a la evaluación sobre el desempeño y conducta de los visitadores judiciales, se les impondrá con los datos desfavorables contenidos en el expediente que integre la Dirección General, por el término de tres días, para que manifiesten lo que a su interés convenga.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 103] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 103] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 97.
 
@@ -685,7 +687,7 @@ Registro de evaluación. La Dirección General, será la encargada de llevar el 
 
 ### CAPITULO SEGUNDO. DE LA EVALUACION DE LOS VISITADORES JUDICIALES "A"
 
-(REUBICADO [N. DE E. ANTES ARTICULO 104] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 104] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 98.
 
@@ -711,7 +713,7 @@ i) El cumplimiento de las funciones y obligaciones a que se refiere este acuerdo
 
 j) Los demás que determine el Pleno o la Comisión.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 105] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 105] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 99.
 
@@ -719,7 +721,7 @@ Resolución e informe de evaluación. El visitador general examinará los expedi
 
 ### CAPITULO TERCERO. DE LA EVALUACION DE LOS VISITADORES JUDICIALES "B"
 
-(REUBICADO [N. DE E. ANTES ARTICULO 106] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 106] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 100.
 
@@ -741,13 +743,13 @@ g) El cumplimiento de las funciones y obligaciones a que se refiere este acuerdo
 
 h) Los demás que determine el Pleno o la Comisión.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 107] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 107] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 101.
 
 Opinión de Visitadores "A". Al inicio de cada semestre, los visitadores judiciales "A" revisarán el expediente de los visitadores judiciales "B" que el visitador general les asigne, así como las manifestaciones que respecto del mismo hubieren formulado los visitadores "B". En breve término emitirán al visitador general una opinión objetiva en relación con el desempeño y conducta que los visitadores "B" tuvieron durante el periodo revisado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 108] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 108] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 102.
 
@@ -862,3 +864,25 @@ CUARTO. Las referencias que se hagan en otras disposiciones a la Comisión Mixta
 Y las que se hagan a las Comisiones Auxiliares de Seguridad, Higiene y Medio Ambiente se entenderán hechas a las Comisiones Auxiliares de Seguridad y Salud en el Trabajo.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
+
+D.O.F. 17 DE ENERO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+III (SIC). Acuerdo General 20/2002 del Pleno del Consejo de la Judicatura Federal, que establece las normas para el uso de la red privada de comunicación electrónica de datos del Poder Judicial de la Federación, en la presentación de las declaraciones patrimoniales de los servidores públicos del Poder Judicial de la Federación y del Tribunal Electoral, con excepción de la Suprema Corte de Justicia de la Nación y de la Sala Superior del Tribunal Electoral;
+
+IV. Acuerdo General 7/2008 del Pleno del Consejo de la Judicatura Federal, que regula la organización y funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y abroga el diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado;
+
+V. Acuerdo General 62/2008 del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones que deberán observar los servidores públicos adscritos a las áreas administrativas y órganos auxiliares del Consejo, para realizar el informe de los asuntos a su cargo y la entrega-recepción de los recursos que tengan asignados al separarse de su empleo, cargo o comisión;
+
+VI. Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial; y
+
+VII. Acuerdo General 10/2011 del Pleno del Consejo de la Judicatura Federal, relativo a la verificación de la situación financiera de los servidores del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del propio Poder Judicial.
+
+CUARTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones con las que fueron iniciados.
+
+QUINTO. Se derogan todas las disposiciones que (sic) opongan al presente Acuerdo General.
