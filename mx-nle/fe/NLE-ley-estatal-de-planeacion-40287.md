@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-planeacion-40287"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-28"
-last_updated: "2012-09-19"
+last_updated: "2014-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY ESTATAL DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACIÓN ESTRATÉGICA DEL ESTADO, PUBLICADA EN EL P.O. DE 17 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de julio de 2004.
 
@@ -684,3 +686,13 @@ Segundo.- Se otorga un plazo de 160 días naturales contados a partir de la entr
 P.O. 19 DE SEPTIEMBRE DE 2012.
 
 Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2014.
+
+Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley Estatal de Planeación, expedida por el H. Congreso del Estado de Nuevo León, mediante Decreto Número 112, publicado en el Periódico Oficial del Estado el 28 de julio de 2004 y todas sus reformas.
+
+Tercero.- Al instalarse por primera vez el Consejo, por única ocasión la mitad de los consejeros ciudadanos permanecerá en el cargo tres años, a fin de lograr una sucesión escalonada de los mismos.
+
+Cuarto.- El Consejo deberá formular el Plan Estratégico en un periodo no mayor a un año posterior a su constitución.
