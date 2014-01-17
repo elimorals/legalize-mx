@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2002-del-pleno-del-consejo-de-la-62690"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-05-15"
-last_updated: "2010-10-05"
+last_updated: "2014-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,17 +19,19 @@ issue_date: "2002-05-08"
 ---
 # ACUERDO GENERAL 20/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [ESTABLECE NORMAS PARA USO DE RED PRIVADA DE COMUNICACION ELECTRONICA DE DATOS DEL PODER JUDICIAL DE LA FEDERACION, EN LA PRESENTACION DE LA DECLARACION DE MODIFICACION PATRIMONIAL DE SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION Y DEL TRIBUNAL ELECTORAL CON EXCEPCION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL]
 
-ACUERDO GENERAL 20/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS NORMAS PARA EL USO DE LA RED PRIVADA DE COMUNICACION ELECTRONICA DE DATOS DEL PODER JUDICIAL DE LA FEDERACION, EN LA PRESENTACION DE LAS DECLARACIONES PATRIMONIALES DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION Y DEL TRIBUNAL ELECTORAL, CON EXCEPCION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL
+ACUERDO GENERAL 20/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS NORMAS PARA EL USO DE LA RED PRIVADA DE COMUNICACIÓN ELECTRÓNICA DE DATOS DEL PODER JUDICIAL DE LA FEDERACIÓN, EN LA PRESENTACIÓN DE LAS DECLARACIONES PATRIMONIALES DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DE LA FEDERACIÓN Y DEL TRIBUNAL ELECTORAL, CON EXCEPCIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL D.O.F. DE 17 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2014 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 15 de mayo de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACION, VEASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ACUERDO GENERAL 20/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS NORMAS PARA EL USO DE LA RED PRIVADA DE COMUNICACION ELECTRONICA DE DATOS DEL PODER JUDICIAL DE LA FEDERACION, EN LA PRESENTACION DE LAS DECLARACIONES PATRIMONIALES DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION Y DEL TRIBUNAL ELECTORAL, CON EXCEPCION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL.
 
@@ -51,9 +53,9 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 1o.
 
@@ -65,17 +67,17 @@ Para los efectos de este Acuerdo se entenderá por:
 
 I. Poder Judicial de la Federación: el Tribunal Electoral, tribunales colegiados de Circuito, tribunales unitarios de Circuito, juzgados de Distrito y el Consejo de la Judicatura Federal; con excepción de la Suprema Corte de Justicia de la Nación, los Magistrados Electorales y demás servidores públicos de la Sala Superior, así como de los coordinadores y demás servidores adscritos a la Presidencia del Tribunal Electoral;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 II. Servidores públicos obligados: los señalados en el artículo 153 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial;
 
 III. Acuerdo: este Acuerdo General;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 IV. Acuerdo General en Materia de Situación Patrimonial: el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, aprobado en sesión extraordinaria de nueve de agosto de dos mil seis;
 
@@ -87,17 +89,17 @@ VII. Intranet: Red privada de comunicación electrónica de datos del Poder Judi
 
 VIII. Medios de identificación electrónica: códigos generados mediante sistemas de cómputo, compuestos por una clave de usuario y una contraseña de uso personal y confidencial que permiten reconocer al autor de la información patrimonial recibida, mismos que legitiman el consentimiento del servidor público respecto del envío de dichos datos mediante la Intranet y que sustituyen a la firma autógrafa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 3o.
 
 Además de las formas de entrega previstas en el artículo 169 del Acuerdo General en Materia de Situación Patrimonial, de correo certificado con acuse de recibo y servicio de mensajería legalmente autorizado, las declaraciones de situación patrimonial de inicio, modificación o conclusión, podrán enviarse a través de Intranet.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 4o.
 
@@ -105,17 +107,17 @@ Los servidores públicos obligados que decidan presentar su declaración de inic
 
 Los formatos e instructivos de las declaraciones de situación patrimonial del Sistema, contendrán los mismos datos que los exigidos en el formato impreso, y en sustitución de la firma autógrafa se utilizarán medios de identificación electrónica.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 5o.
 
 Para los efectos del artículo anterior, se proporcionará a los servidores públicos obligados, el código de identificación electrónica.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 6o.
 
@@ -125,9 +127,9 @@ I. Utilizar de forma personal los medios de identificación electrónica; y
 
 II. Reconocer como propia y auténtica la información que por Intranet, envíen a la Contraloría, por conducto de la Dirección General.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 23/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 7o.
 
@@ -151,7 +153,7 @@ TERCERO.- La Contraloría, a través de la Dirección de Registro Patrimonial, e
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 20/2002, del Pleno del Consejo de la Judicatura Federal, Que Establece las Normas para el Uso de la Red Privada de Comunicación Electrónica de Datos del Poder Judicial de la Federación, en la Presentación de la Declaración de Modificación Patrimonial de los Servidores Públicos del Poder Judicial de la Federación y del Tribunal Electoral, con Excepción de la Suprema Corte de Justicia de la Nación y de la Sala Superior del Tribunal Electoral, fue aprobado por el propio Pleno, en sesión de ocho de mayo de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a ocho de mayo de dos mil dos.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 5 DE OCTUBRE DE 2010.
 
@@ -160,3 +162,25 @@ PRIMERO.- El presente acuerdo entrará en vigor a los diez días hábiles siguie
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la páginas de Internet e Intranet del Consejo de la Judicatura Federal.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 20/2002, del Pleno del Consejo de la Judicatura Federal, que Establece las Normas para el Uso de la Red Privada de Comunicación Electrónica de Datos del Poder Judicial de la Federación, en la Presentación de la Declaración de Modificación Patrimonial de los Servidores Públicos del Poder Judicial de la Federación y del Tribunal Electoral, con Excepción de la Suprema Corte de Justicia de la Nación y de la Sala Superior del Tribunal Electoral.
+
+D.O.F. 17 DE ENERO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+III (SIC). Acuerdo General 20/2002 del Pleno del Consejo de la Judicatura Federal, que establece las normas para el uso de la red privada de comunicación electrónica de datos del Poder Judicial de la Federación, en la presentación de las declaraciones patrimoniales de los servidores públicos del Poder Judicial de la Federación y del Tribunal Electoral, con excepción de la Suprema Corte de Justicia de la Nación y de la Sala Superior del Tribunal Electoral;
+
+IV. Acuerdo General 7/2008 del Pleno del Consejo de la Judicatura Federal, que regula la organización y funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y abroga el diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado;
+
+V. Acuerdo General 62/2008 del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones que deberán observar los servidores públicos adscritos a las áreas administrativas y órganos auxiliares del Consejo, para realizar el informe de los asuntos a su cargo y la entrega-recepción de los recursos que tengan asignados al separarse de su empleo, cargo o comisión;
+
+VI. Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial; y
+
+VII. Acuerdo General 10/2011 del Pleno del Consejo de la Judicatura Federal, relativo a la verificación de la situación financiera de los servidores del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del propio Poder Judicial.
+
+CUARTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones con las que fueron iniciados.
+
+QUINTO. Se derogan todas las disposiciones que (sic) opongan al presente Acuerdo General.
