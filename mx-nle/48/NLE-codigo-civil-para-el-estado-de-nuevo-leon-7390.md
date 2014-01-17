@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2013-12-07"
+last_updated: "2014-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -5165,9 +5165,9 @@ Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez,
 
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero si se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2014)</small>
 
-Cuando la desaparición sea consecuencia de incendio, explosión, terremoto, ciclón, huracán, inundación o catástrofe en medios de transporte público aéreo, terrestre o marítimo, y exista fundada presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, bastará el transcurso de seis meses, contados a partir del trágico acontecimiento, para que el Juez declare la presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título. En esos casos, el Juez acordará la publicación de la solicitud de declaración de presunción de muerte, hasta por tres veces durante el procedimiento, que en ningún caso excederá de treinta días.
+Cuando la desaparición sea consecuencia de incendio, explosión, terremoto, ciclón, huracán, inundación o catástrofe en medios de transporte público aéreo, terrestre o marítimo y exista fundada presunción de que el desaparecido se encontraba en (sic) lugar del siniestro o catástrofe, bastará en el trascurso de seis meses, contados a partir del trágico acontecimiento para que el juez declare presunción de muerte sin que en esos casos sea necesario que previamente se declare su ausencia, pero si se tomaran las medidas provisionales autorizadas por el Capítulo I de ese título. En estos casos, el Juez acordará la publicación de la solicitud de la declaración de presunción de muerte, hasta por tres veces durante el procedimiento, que en ningún caso excederá de treinta días. Las reglas previstas en este apartado también serán aplicables cuando la ausencia sea consecuencia de un hecho relacionado con la privación ilegal de la libertad, en su modalidad de secuestro o desaparición forzada de personas, en ambos casos el término para decretar la presunción de muerte será de seis meses a partir de que se haya denunciado ante la Autoridad competente el acto ilícito correspondiente.
 
 ###### Art. 706.
 
@@ -17046,3 +17046,9 @@ P.O. 7 DE DICIEMBRE DE 2013.
 DECRETO NÚM. 098 POR EL QUE SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XIX DEL ARTÍCULO 267 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- A los procedimientos de presunción de muerte ya iniciados previo a la aprobación de esta reforma, que tengan más de seis meses en proceso se les aplicará el beneficio señalado en este Decreto.
