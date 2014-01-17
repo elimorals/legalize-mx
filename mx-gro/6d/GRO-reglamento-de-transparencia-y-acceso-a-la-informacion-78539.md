@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-transparencia-y-acceso-a-la-informacion-78539"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2014-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE GUERRERO -- ANTES REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO --
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 31 de diciembre de 2010.
 
@@ -345,83 +345,103 @@ La Unidad de Transparencia, será responsable de proporcionar o negar la informa
 
 ### CAPÍTULO II. DE LA INFORMACIÓN DE OFICIO
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 19.
 
-La información a disposición del público que debe difundir el Instituto, en su página Web, sin que medie petición de parte, es cuando menos la relativa a:
+Los sujetos obligados, con excepción de la información reservada o confidencial prevista en esta Ley, deberán tener disponible en su portal electrónico de manera permanente y actualizada, por lo menos la información siguiente:
 
-I. La estructura orgánica en un formato que permita vincular la estructura, las facultades y responsabilidades que correspondan de conformidad con las disposiciones aplicables;
+I. Su estructura orgánica en un formato que permita vincular la estructura, las facultades y responsabilidades que le corresponden de conformidad con las disposiciones aplicables;
 
-II. El directorio de sus funcionarios y servidores públicos, con nombre, fotografía, domicilio y números telefónicos oficiales y en su caso, dirección electrónica oficial; en el caso de la fotografía se presumirá el consentimiento del servidor público, salvo que éste indique por los medios reglamentarios conducentes su oposición;
+II. El directorio de sus servidores públicos, desde nivel de jefe de departamento y sus equivalentes, con nombre, fotografía, domicilio y números telefónicos oficiales y en su caso, dirección electrónica oficial.
 
-III. El marco normativo;
+III. El marco normativo aplicable a cada Sujeto Obligado;
 
-IV. El índice de los expedientes clasificados como reservados y confidenciales que deberán elaborar las Áreas Administrativas, los Partidos Políticos, Asociaciones y Agrupaciones Políticas, y que se integrarán de acuerdo con lo señalado en el artículo 35 del presente Reglamento;
+IV. El índice de los expedientes clasificados como reservados;
 
-V. Los programas anuales y calendario anual de actividades, los indicadores de gestión utilizados para evaluar el desempeño, sistemas de evaluación y su procedimiento;
+V. La relativa a sus funciones más relevantes que deberá incluir los indicadores de gestión utilizados para evaluar su desempeño. Respecto de estos últimos deberán incluir su marco lógico o de referencia;
 
-VI. El calendario y programa integral de actividades del proceso electoral que corresponda;
+VI. La remuneración mensual por puesto de los servidores públicos, incluso el sistema de compensación, según lo establezcan las disposiciones correspondientes;
 
-VII. El tabulador de sueldos y salarios mensual de todo el personal, servidores y funcionarios públicos que laboran en el Instituto y sus órganos desconcentrados, incluido el personal eventual, incluso el sistema de compensación, según lo establezcan las disposiciones correspondientes;
+VII. El tabulador de viáticos, gastos de representación y alimentación;
 
-VIII. El tabulador de viáticos, gastos de representación y alimentación;
+VIII. Los planes estatal y municipales de desarrollo, vinculados con sus programas operativos anuales y sectoriales y los respectivos indicadores de gestión que permitan conocer las metas, por unidad responsable, así como los avances físico y financiero para cada una de las metas. Sobre los indicadores de gestión deberá difundirse, además, su método de evaluación, así como una justificación de los resultados obtenidos y el monto de los recursos públicos asignados para su cumplimiento;
 
-IX. Para los últimos tres ejercicios fiscales, la relativa al presupuesto asignado en lo general y por programa o actividad; así como los informes cuatrimestrales sobre su ejecución;
+IX. Para los últimos tres ejercicios fiscales, la relativa al presupuesto asignado en lo general y por programa, así como los informes cuatrimestrales sobre su ejecución. Esta información incluirá:
 
-X. La calendarización de las sesiones públicas y orden del día de cada una de ellas a partir de su convocatoria;
+a) Los ingresos recibidos por cualquier concepto, incluidos los donativos, multas, recargos, sanciones, señalando el nombre de los responsables de recibirlos, administrarlos y ejercerlos, así como su destino;
 
-XI. El nombre, domicilio, teléfono y dirección electrónica oficiales del titular de la Unidad Técnica de Transparencia;
+b) Los montos destinados a gastos relativos a comunicación social;
 
-XII. Los instrumentos de consulta y control archivístico, de conformidad con lo establecido en el artículo 46 de la Ley;
+c) El presupuesto de gastos fiscales y método para su estimación, incluida toda la información relativa a los tratamientos fiscales diferenciados o preferenciales;
 
-XIII. Los resultados y recomendaciones derivadas de las auditorias que se realicen al Instituto, que deberá contener lo siguiente: el número y tipo de auditorías realizadas, el número total de observaciones determinadas en los resultados de auditoría por cada rubro sujeto a revisión y las sanciones o medidas correctivas impuestas, y el seguimiento de los resultados de auditorías, así como el total de las aclaraciones que correspondan;
+d) Las bases de cálculo de los ingresos;
 
-XIV. Un listado de las contrataciones que se hayan celebrado en términos de la legislación aplicable, detallando por contrato:
+e) Los informes de cuenta pública;
 
-a. Los bienes adquiridos o arrendados y los servicios contratados; en el caso de estudios o investigaciones deberá señalarse el tema específico;
+f) La aplicación de fondos auxiliares especiales y el origen de los ingresos, y
 
-b. El monto del valor total de la contratación;
+g) Los estados financieros y balances generales.
 
-c. El nombre del proveedor, contratista o persona física o moral con quien se haya celebrado el contrato; y
+X. La calendarización de las reuniones públicas de los diversos consejos, órganos colegiados, gabinetes, cabildos, sesiones plenarias, comisiones legislativas y sesiones de trabajo a que se convoquen. Para las reuniones ya celebradas, se deberán difundir las correspondientes minutas o actas de dichas reuniones y sesiones;
 
-d. Los plazos de cumplimiento de los contratos;
+XI. El nombre, domicilio, teléfono y dirección electrónica oficiales del titular de la Unidad de Transparencia y Acceso a la Información;
 
-XV. Los convenios celebrados con otras instituciones, organismos u organizaciones;
+XII. Los instrumentos de consulta y control archivístico de conformidad con lo establecido en el artículo 46 de esta Ley;
 
-XVI. La integración y actividades de los Órganos Desconcentrados de acuerdo al cronograma del año electoral que corresponda;
+XIII. Un informe cuatrimestral de las auditorías y otras acciones de revisión en términos no cuantificables, que deberá contener lo siguiente:
 
-XVII. Los informes que se generen por disposición legal o normativa;
+a) El número y tipo de auditorías realizadas en el ejercicio presupuestario respectivo, así como el órgano que las realizó;
 
-XVIII. La relación de los servidores públicos comisionados por cualquier causa, indicando el objeto, lugar y duración;
+b) El número total de observaciones determinadas en los resultados de auditoría por cada rubro sujeto a revisión y las sanciones o medidas correctivas impuestas, y
 
-XIX. El listado de los servicios que ofrece el Instituto o actividades que desarrolla;
+c) El seguimiento de los resultados de auditorías, así como el total de las aclaraciones efectuadas por el Sujeto Obligado.
 
-XX. Los requisitos y formatos necesarios para realizar trámites de corrección de datos personales, solicitud de información, recursos de revisión y demás que sean competencia del Instituto;
+XIV. Las cuentas públicas y los informes cuatrimestrales o anuales, según el caso, una vez que sean aprobados por el Congreso del Estado;
 
-XXI. La información pública que generen los partidos, asociaciones y agrupaciones, a través de sus Representaciones, conforme a lo establecido en el artículo 35 del presente Reglamento;
+XV. Los contratos o convenios celebrados, mediante un listado que relacione el número de contrato, su fecha de celebración, el nombre o razón del contratante o proveedor, el servicio contratado y el monto del valor total de la contratación;
 
-XXII. Los expedientes sobre quejas resueltas que hayan causado estado, por violaciones a la Ley número 571 de Instituciones y Procedimientos Electorales del Estado de Guerrero;
+XVI. Las concesiones, licencias, permisos y autorizaciones que hubiera expedido, debiendo publicar su objeto, el nombre o razón social del titular, el tipo licencia, permiso, concesión o autorización, así como si el procedimiento involucra el aprovechamiento de bienes, servicios o recursos públicos;
 
-XXIII. Las actas y acuerdos de las sesiones y reuniones del Consejo General, como de los órganos que lo integran;
+XVII. Los informes que debe rendir el Sujeto Obligado, la unidad responsable de los mismos, el fundamento legal que obliga a su generación, el periodo que abarcan, así como su calendario de publicación;
 
-XXIV. Los programas institucionales en materia de capacitación, educación cívica y fortalecimiento de los partidos políticos y demás asociaciones políticas;
+XVIII. La relación de los servidores públicos comisionados por cualquier causa, incluso de carácter sindical, indicando el objeto, lugar y duración;
 
-XXV. La división del territorio que comprende el Estado en distritos electorales;
+XIX. El listado de los servicios que ofrece y los programas que administra, incluso los trámites para acceder a ellos y la población objetivo a quien van dirigidos;
 
-XXVI. Los listados de partidos políticos y demás asociaciones políticas registrados ante la autoridad electoral;
+XX. El listado de los programas de capacitación, el número de servidores públicos capacitados;
 
-XXVII. El registro de candidatos a cargo de elección popular;
+XXI. El nombre de las personas físicas o morales, públicas o privadas a quienes, por cualquier motivo, se les entreguen recursos públicos federales, estatales o municipales, en su caso, así como el monto correspondiente, y que no se ubiquen en alguna de las fracciones del presente artículo, y
 
-XXVIII. Los montos de financiamiento público por actividades ordinarias, de campaña y específicas, otorgadas a los partidos y demás asociaciones políticas, así como los montos autorizados de financiamiento privado y los topes de los gastos de campañas;
+XXII. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones y políticas públicas responsabilidad del Sujeto Obligado.
 
-XXIX. Los informes sobre el monto, origen, empleo y aplicación de los ingresos que los partidos políticos y demás asociaciones políticas reciban por cualquier modalidad de financiamiento;
+El Instituto Electoral del Estado, además de lo señalado en el artículo 19, deberá hacer pública en su portal electrónico la información adicional siguiente:
 
-XXX. Los cómputos totales de las elecciones y procesos de participación ciudadana llevadas a cabo en el Estado;
+I. Los informes que presenten los partidos, asociaciones y las agrupaciones políticas, en su caso;
 
-XXXI. Las auditorías, dictámenes y resoluciones concluidas a los partidos políticos;
+II. Los expedientes sobre quejas resueltas que hayan causado estado, por violaciones a la Ley número 571 de Instituciones y Procedimientos Electorales del Estado de Guerrero;
 
-XXXII. Cualquier otra información que sea de utilidad o se considere relevante, además de la información estadística, y las respuestas a las preguntas formuladas con más frecuencia por el público.
+III. Las actas y acuerdos de las sesiones y reuniones del Consejo General, como de los órganos que lo integran;
 
-La página Web del Instituto, deberá incorporar un espacio para publicar la información específica de la Unidad de Transparencia, así como de los Partidos, Asociaciones y Agrupaciones Políticas.
+IV. Los programas institucionales en materia de capacitación, educación cívica y fortalecimiento de los partidos políticos y demás asociaciones políticas;
+
+V. La división del territorio que comprende el Estado en distritos electorales;
+
+VI. Los listados de partidos políticos y demás asociaciones políticas registrados ante la autoridad electoral;
+
+VII. El registro de candidatos a cargos de elección popular;
+
+VIII. Los montos de financiamiento público por actividades ordinarias, de campaña y específicas, otorgadas a los partidos y demás asociaciones políticas, así como los montos autorizados de financiamiento privado y los topes de los gastos de campañas;
+
+IX. Los informes sobre el monto, origen, empleo y aplicación de los ingresos que los partidos políticos y demás asociaciones políticas reciban por cualquier modalidad de financiamiento;
+
+X. Los cómputos totales de las elecciones y procesos de participación ciudadana llevados a cabo en el Estado;
+
+XI. Las auditorías, dictámenes y resoluciones concluidas a los partidos políticos;
+
+XII. Las listas de acuerdos, las sentencias relevantes con los respectivos votos particulares si los hubiera, y
+
+XIII. Las demás que resulten relevantes sobre sus funciones.
 
 ###### ARTÍCULO 20.
 
@@ -932,3 +952,13 @@ El Instituto Electoral del Estado de Guerrero, deberá poner a disposición del 
 Las Áreas Administrativas contarán con treinta días a partir de la aprobación del presente Reglamento, para elaborar los índices que se mencionan en el Título II, Capítulo V, y remitirlos a la Unidad de Transparencia.
 
 El presente Reglamento fue aprobado mediante acuerdo número 085/SE/27-11-2010, del Pleno del Consejo General del Instituto Electoral del Estado de Guerrero, en la Novena Sesión Extraordinaria, de fecha 27 de noviembre del 2010.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE ENERO DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO. La modificación antes mencionada, entrará en vigor al día siguiente de su aprobación por el Pleno por el (sic) Consejo General, para quedar en los términos del punto que antecede para los efectos legales a que haya lugar.
+
+TERCERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento general.
