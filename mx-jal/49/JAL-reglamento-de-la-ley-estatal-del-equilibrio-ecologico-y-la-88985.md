@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-estatal-del-equilibrio-ecologico-y-la-8898
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-11"
-last_updated: "2013-12-21"
+last_updated: "2014-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE EMISIONES POR FUENTES MÓVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2014.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 11 de agosto de 2012.
 
@@ -126,7 +126,7 @@ XXVIII. Línea: línea de verificación vehicular consistente en el espacio fís
 
 XXIX. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
-XXX. Manual técnico: Manual Técnico del Reglamento de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente en Materia de Prevención y Control de Emisiones por Fuentes Móviles;
+XXX. (DEROGADA, P.O. 18 DE ENERO DE 2014)
 
 XXXI. Medición de gases: es la acción de cuantificar mediante equipos analizadores la cantidad de emisiones a la atmósfera de un vehículo automotor a través del escape;
 
@@ -282,51 +282,41 @@ La vigilancia del cumplimiento de la verificación vehicular respecto de los veh
 
 ###### Artículo 15.
 
-Las personas físicas o jurídicas que pretendan obtener su concesión y registro como establecimiento acreditado por la Secretaría, para ofrecer los servicios de verificación vehicular en cualquiera de sus modalidades, deberán cumplir ante la misma con los requisitos establecidos en el Reglamento, satisfaciendo las especificaciones previstas en el manual técnico.
+(DEROGADO, P.O. 18 DE ENERO DE 2014)
 
 ###### Artículo 16.
 
-El cumplimiento permanente de las características, requisitos y lineamientos descritos en el manual técnico será de carácter obligatorio para la prestación del servicio de verificación vehicular.
-
-La prestación del servicio en condiciones distintas a las establecidas en las disposiciones reglamentarias y el manual técnico será motivo de la imposición de las sanciones establecidas en el presente Reglamento.
+(DEROGADO, P.O. 18 DE ENERO DE 2014)
 
 ### Capítulo II. Del Proceso para la Obtención de las Acreditaciones
 
 ###### Artículo 17.
 
-Los interesados en operar un establecimiento acreditado deberán de:
-
-I. Ingresar escrito por el cual se presenta a la Secretaría, en archivo electrónico, la solicitud y anexos requeridos en el manual técnico;
-
-II. Dar cumplimiento, en su caso, a las condicionantes que se les notifiquen como resultado de la revisión de la información ingresada, dentro de los diez días hábiles siguientes;
-
-III. Una vez solventados los puntos anteriores, la Secretaría emitirá el dictamen preliminar con el cual el interesado podrá adquirir el equipo de verificación de emisiones vehiculares autorizado de su elección que será utilizado en la línea de verificación respectiva; y
-
-IV. Se llevarán a cabo las pruebas correspondientes en coordinación con el personal técnico de la Dirección Operativa, para verificar la correcta operación del software y hardware de verificación en sus equipos con el servidor gubernamental.
+(DEROGADO, P.O. 18 DE ENERO DE 2014)
 
 ###### Artículo 18.
 
-Concluido el proceso referido de manera satisfactoria la Secretaría emitirá a los interesados la acreditación respectiva, la cual contendrá las características de seguridad establecidas en el manual técnico. Esta constancia deberá de exhibirse en lugar visible al público por parte del establecimiento acreditado.
+(DEROGADO, P.O. 18 DE ENERO DE 2014)
 
 ###### Artículo 19.
 
-La acreditación obtenida avala el cumplimiento de las características, requisitos y lineamientos normativos por parte del establecimiento acreditado para el desarrollo de sus funciones.
+(DEROGADO, P.O. 18 DE ENERO DE 2014)
 
 ###### Artículo 20.
 
-La acreditación otorgada por la Secretaría es de carácter intransferible e inalienable. En caso de que los establecimientos acreditados cuenten con sucursales, éstas deberán de tramitar en forma independiente su acreditación respectiva, debiendo cada una de ellas cumplimentar los procesos referidos en este Reglamento, en el entendido de que la acreditación otorgada a la casa matriz no ampara el resto de sus sucursales.
+(DEROGADO, P.O. 18 DE ENERO DE 2014)
 
 ###### Artículo 21.
 
-La acreditación tendrá una vigencia de cinco años, la cual deberá de refrendarse anualmente en los términos establecidos en el manual técnico, no obstante lo anterior, la acreditación podrá ser revocada por incumplir las disposiciones de la Ley y de este Reglamento.
+(DEROGADO, P.O. 18 DE ENERO DE 2014)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ENERO DE 2014)</small>
 
-### Capítulo III. De los Establecimientos y sus Líneas Fijas
+### Capítulo III. De los Establecimientos y sus Líneas Fijas o Móviles
 
 ###### Artículo 22.
 
-Los establecimientos que hayan obtenido su acreditación, podrán tramitar autorizaciones adicionales para operar más líneas de verificación de conformidad con el Reglamento, valorándose además la necesidad de la misma atendiendo a su capacidad de trabajo.
+(DEROGADO, P.O. 18 DE ENERO DE 2014)
 
 ###### Artículo 23.
 
@@ -1355,3 +1345,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La acreditación otorgada a los establecimientos de verificación respecto de la línea móvil, que se encuentre vigentes (sic) a la fecha de publicación del presente Acuerdo, seguirá surtiendo efectos jurídicos hasta la conclusión de dicha vigencia, salvo en el caso de revocación de la misma por los supuestos previstos en la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en materia de Prevención y Control de Emisiones por Fuentes Móviles.
 
 TERCERO. Las normas vigentes al momento del otorgamiento de la acreditación de líneas móviles a los establecimientos correspondientes, se seguirán aplicando en cuanto a las obligaciones, responsabilidades y sanciones, hasta en tanto concluya la vigencia de esas acreditaciones en términos del artículo anterior.
+
+P.O. 18 DE ENERO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La acreditación otorgada a los establecimientos de verificación que se encuentren vigentes a la fecha de publicación del presente Acuerdo, seguirá surtiendo efectos jurídicos hasta la conclusión de dicha vigencia, salvo en el caso de revocación de la misma en términos de la Ley Estatal de Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en materia de Prevención y Control de Emisiones por Fuentes Móviles.
+
+TERCERO. Las normas vigentes al momento del otorgamiento de la acreditación a los establecimientos correspondientes, se seguirán aplicando en cuanto a las obligaciones, responsabilidades y sanciones, hasta en tanto concluya la vigencia de las mismas en los términos del artículo anterior y de acuerdo a la Ley Estatal de Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en materia de Prevención y Control de Emisiones por Fuentes Móviles.
