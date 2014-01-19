@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2013-03-10"
+last_updated: "2014-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -131,11 +131,19 @@ XVII. Carrera Policial.- Al Servicio Profesional de Carrera Policial;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-XVIII. Consejo Ciudadano.- Al Consejo Ciudadano de Seguridad Pública Estatal; y
+XVIII. Consejo Ciudadano.- Al Consejo Ciudadano de Seguridad Pública Estatal; y (sic)
 
 > <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
 
 XIX. Unidad.- A la Unidad de Enlace Informático.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2014)</small>
+
+XX. Centro.- Centro Estatal de Acreditación y Control de Confianza; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2014)</small>
+
+XXI. El Centro Estatal de Prevención.- Centro Estatal de Prevención del Delito y Participación Ciudadana.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -457,9 +465,9 @@ III. Participar en el Consejo Nacional de Seguridad Pública;
 
 IV. Presidir el Consejo y designar al Secretario Ejecutivo del mismo;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2014)</small>
 
-V. Nombrar al Director General del Instituto en términos de esta Ley y su reglamento, a propuesta del Secretario de Seguridad Pública;
+V. Nombrar a los Directores del Instituto, y del Centro Estatal de Prevención, en términos de esta Ley y su reglamento, a propuesta del Secretario de Seguridad Pública;
 
 VI. Establecer las políticas de seguridad pública de la Entidad;
 
@@ -493,11 +501,13 @@ XIV. Las demás que le señalen las disposiciones jurídicas y reglamentarias ap
 
 Las autoridades estatales en materia de seguridad pública tendrán las facultades y obligaciones que les señalen la Constitución Federal, la Constitución, la Ley General, la Ley Orgánica de la Administración Pública del Estado de Durango y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2014)</small>
 
-La Secretaría de Seguridad Publica dictará las medidas conducentes para brindar protección necesaria a los servidores públicos estatales siguientes: Gobernador del Estado, Secretario General de Gobierno, Fiscal General, Vicefiscal General, Vicefiscal de Procedimientos Penales, Vicefiscal de Control Interno Análisis y Evaluación, Vicefiscal de Protección a los Derechos Humanos y Atención a las Víctimas del Delito, Vicefiscal de la Zona 1, Vicefiscal de la Zona 2, Coordinador General de Agentes del Ministerio Público, Secretario de Seguridad Pública, Subsecretario Operativo de Seguridad, Subsecretario de Participación Ciudadana, Prevención y Reinserción Social, Comisario General de la Policía, Comisario Jefe de la Policía, Director Estatal de Investigación de la Fiscalía General y demás servidores públicos que así lo requieran, lo cual deberá determinar el Secretario de Seguridad Pública mediante acuerdo, asimismo brindarán servicio de protección a aquellas personas que la autoridad electoral determine conforme a la Ley.
+La Secretaría de Seguridad Publica dictará las medidas conducentes para brindar protección necesaria a los servidores públicos estatales siguientes: Gobernador del Estado, Secretario General de Gobierno, Fiscal General, Vicefiscal General, Vicefiscal de Procedimientos Penales, Vicefiscal de Control Interno, Análisis y Evaluación, Vicefiscal de Protección a los Derechos Humanos y Atención a las Víctimas del Delito, Vicefiscal de la Zona 1, Vicefiscal de la Zona 2, Coordinador General de Agentes del Ministerio Público, Secretario de Seguridad Pública, Subsecretario Operativo de Seguridad, Subsecretario del Sistema Penitenciario Estatal, Subsecretario de Prevención Social y Participación Ciudadana, Subsecretario de Tecnologías de la Información, Comisario General de la Policía, Comisario Jefe de la Policía, Director Estatal de Investigación de la Fiscalía General y demás servidores públicos que así lo requieran, lo cual deberá determinar el Secretario de Seguridad Pública mediante acuerdo, asimismo brindarán servicio de protección a aquellas personas que la autoridad electoral determine conforme a la Ley.
 
-La protección se brindará durante el tiempo del encargo y respecto de los servidores públicos enunciados en la forma siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2014)</small>
+
+Respecto de los servidores públicos enunciados, la protección se brindará durante el tiempo que dure el encargo y después de concluido, en la forma siguiente:
 
 I. Al Gobernador del Estado, por 4 (cuatro) años;
 
@@ -521,7 +531,9 @@ III. Suscribir convenios en materia de seguridad pública con el Gobierno del Es
 
 IV. Aprobar los programas de seguridad pública municipales y, en su caso, interregionales, y participar en la elaboración de los mismos en el orden estatal;
 
-V. Promover la participación de la sociedad en el análisis y solución de la problemática de seguridad pública, a través de los Comités de Consulta y Participación de la Comunidad del Municipio;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2014)</small>
+
+V. Promover la participación de la sociedad en el análisis y solución de la problemática de seguridad pública, a través de los Consejos Ciudadanos de los Municipios;
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -589,7 +601,9 @@ XVII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2010)
 
 XVIII. Atender las recomendaciones que en materia de seguridad pública le formulen las autoridades competentes;
 
-XIX. Integrar el Comité de Consulta y Participación de la Comunidad y diseñar acciones que fomenten la organización comunitaria;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2014)</small>
+
+XIX. Integrar el Consejo Ciudadano Municipal y diseñar acciones que fomenten la organización comunitaria;
 
 XX. Auxiliar a la población de su circunscripción territorial en caso de accidentes y siniestros;
 
@@ -741,7 +755,9 @@ XX. Organizar, operar y dirigir, una Unidad Estatal de Inteligencia para la prev
 
 XXI. (DEROGADA, P.O. 9 DE JUNIO DE 2011)
 
-XXII. Delegar las atribuciones cuya naturaleza así lo permita en los servidores públicos que determine;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2014)</small>
+
+XXII. Delegar las atribuciones, cuya naturaleza así lo permita, en los servidores públicos que determine, de manera directa, así como otorgar poderes Generales para Pleitos y Cobranzas y Actos de Administración.
 
 XXIII. Administrar y sistematizar los datos e instrumentos de información que necesite el sistema nacional o estatal, así como recabar los datos que se requieran, y
 
@@ -879,7 +895,9 @@ II. Inspectores;
 
 III. Oficiales; y
 
-IV. Escala básica que estará conformada por los siguientes grados;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2014)</small>
+
+IV. Escala básica;
 
 a) Suboficial;
 
@@ -973,13 +991,19 @@ XVI. Remitir a la instancia que corresponda la información recopilada, en el cu
 
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
-XVII. Obtener y mantener actualizado su Certificado Único Policial; y
+XVII. Obtener y mantener actualizado su Certificado Único Policial; y (sic)
 
-> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2014)</small>
 
-XVIII. El tratamiento técnico de los asuntos delictivos, frente a la investigación ministerial, y
+XVIII. El tratamiento técnico de los asuntos delictivos, frente a la investigación ministerial;
 
-XIX. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2014)</small>
+
+XIX. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos, cuando dichas actividades se realicen en lugares públicos y actuarán conforme a sus atribuciones, en términos de los dispuesto por los artículos 475 y 476 de la Ley General de Salud, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2014)</small>
+
+XX.- Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1559,7 +1583,9 @@ IV. Conocer en forma periódica, los informes de labores que rinda el Director G
 
 V. Fijar políticas generales, para el funcionamiento, operación de recursos y organización del Instituto.
 
-VI. Aprobar los estados financieros del Instituto, previo informe emitido por parte del Comisario Público y remitirlos a la Entidad de Auditoria Superior del Estado para los efectos de su revisión.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2014)</small>
+
+VI. Aprobar los estados financieros del Instituto, enviados por el Director, previo informe emitido por parte del Comisario Público y remitirlos a la Entidad de Auditoria Superior del Estado para los efectos de su revisión.
 
 VII. Aprobar la estructura básica de la organización del Instituto y las modificaciones que procedan a la misma, en base a la propuesta que presente el Director General y a la normatividad aplicable.
 
@@ -1629,9 +1655,11 @@ XII. Aplicar sanciones y medidas disciplinarias al personal y alumnado que infri
 
 XIII. Promover la impartición permanente de cursos básicos, medio y superior de especialización, de actualización y de promoción, para el mejoramiento profesional de los integrantes de las corporaciones de seguridad pública del Estado;
 
-XIV. Someter a la consideración del Consejo Directivo, el informe financiero del año fiscal correspondiente, para los efectos de su revisión y aprobación, remitiéndolo a la Entidad de Auditoría Superior del Estado, para su revisión, la que será aprobada por el Congreso del Estado, conforme a la ley; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2014)</small>
 
-XIV. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+XIV. Someter a consideración del Consejo Directivo, el informe financiero del año fiscal correspondiente, para los efectos de su revisión y aprobación; y
+
+XIV (SIC). Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2012)</small>
 
@@ -2343,9 +2371,11 @@ Quienes incumplan lo dispuesto en el párrafo anterior o expidan constancias que
 
 Al que proporcione información o presente documentos falsos o alterados al Registro de Personal de Seguridad Pública, se le pondrá de inmediato a disposición de la autoridad competente, para los efectos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 114.
 
-Realizada la consulta, el Secretario Ejecutivo del Consejo expedirá en forma inmediata certificación en los siguientes términos:
+Realizada la consulta, la Unidad de Enlace Informático, expedirá en forma inmediata la certificación en los siguientes términos:
 
 I. De no inconveniente para la contratación, cuando la persona a contratar no tenga antecedentes en dependencias y corporaciones de seguridad pública, o no cuente con antecedentes negativos;
 
@@ -2371,9 +2401,11 @@ III. De contratación con carta responsiva, cuando la persona a contratar cuente
 
 La información relativa al personal de seguridad pública solo podrá registrarse ante la Unidad de Enlace Informático del Consejo, en los lugares que se designen para tal efecto.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 116.
 
-El Secretario Ejecutivo, una vez efectuado el registro en la Unidad de Enlace Informático, expedirá y remitirá a la autoridad requirente, la constancia que contenga la Clave Única de Identificación Personal que se haya asignado, la cual deberá insertarse en el texto del nombramiento que se otorgue. La credencial que expida el titular de la dependencia que corresponda, deberá contener la citada Clave, además de los datos que las disposiciones legales aplicables ordenen.
+Una vez efectuado el registro en la Unidad de Enlace Informático, expedirá y remitirá a la autoridad requirente, la constancia que contenga la Clave Única de Identificación Personal que se haya asignado, la cual deberá insertarse en el texto del nombramiento que se otorgue. La credencial que expida el titular de la dependencia que corresponda, deberá contener la citada Clave, además de los datos que las disposiciones legales aplicables ordenen.
 
 ###### ARTÍCULO 117.
 
@@ -2509,9 +2541,11 @@ La Unidad será la encargada de garantizar la interconexión con la Fiscalía Ge
 
 #### SECCIÓN OCTAVA QUATER. DEL REGISTRO ESTATAL DE VEHICULOS
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2014)</small>
 
-ARTÍCULO 128 QUATER.- Todos los vehículos que circulen de manera permanente o habitual en el territorio del Estado, deberán ser registrados ante la Secretaría de Seguridad Pública del Estado, en los términos y conforme a las condiciones establecidas en esta Ley y en las disposiciones reglamentarias correspondientes.
+ARTÍCULO 128 QUATER.- Una vez efectuado el Registro, los datos con que cuenten otras dependencias y entidades del Gobierno del Estado y los Ayuntamientos, en relación a los vehículos que circulen en el territorio del Estado, serán proporcionados a la Secretaría a efecto de integrar el registro a que se refiere el artículo anterior, inclusive el Registro Público Vehicular.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
 
 Los datos con que cuenten otras dependencias y entidades del Gobierno del Estado y los Ayuntamientos, en relación a los vehículos que circulen en el territorio del Estado, serán proporcionados a la Secretaria de Seguridad Pública a efecto de integrar el registro a que se refiere el artículo anterior. Los vehículos que cuenten con el registro previo ante la autoridad competente, quedarán registrados de manera automática para efectos del presente artículo ante la Secretaría de Seguridad Pública del Estado.
 
@@ -2699,13 +2733,87 @@ Las anteriores disposiciones sobre la regulación de los Consejos y Comités Ciu
 
 ### CAPÍTULO SEGUNDO. DE LA PREVENCIÓN SOCIAL DEL DELITO
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2014)</small>
 
-ARTÍCULO 144 bis.- La Secretaría, a través de la Subsecretaría del ramo correspondiente, impulsará la generación, diseño, implementación y seguimiento de políticas integrales de prevención social de la violencia y la delincuencia, que actúen sobre las causas que las originan; además establecerá y coordinará una política pública integral de prevención social del delito, en el Estado y los Municipios, encaminada a orientar las acciones de los gobiernos para garantizar la seguridad y la paz públicas de los ciudadanos, de conformidad con lo establecido en el reglamento respectivo y demás ordenamientos aplicables.
+ARTÍCULO 144 BIS.- La Secretaría, impulsará la generación, diseño, implementación y seguimiento de políticas integrales de prevención social de la violencia y la delincuencia, que actúen sobre las causas que las originan; además establecerá y coordinará una política pública integral de prevención social del delito, en el Estado y los Municipios, encaminada a orientar las acciones de los gobiernos para garantizar la seguridad y la paz públicas de los ciudadanos, de conformidad con lo establecido en el reglamento respectivo y demás ordenamientos aplicables, para tal efecto, contará con el Centro Estatal de Prevención.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2014)</small>
 
-ARTÍCULO 144 bis 1.- Las acciones encaminadas a la prevención social del delito, promovidas por los municipios e instancias competentes, públicas o privadas, deberán ser presentadas ante la Secretaría para que a través de la Subsecretaría del ramo, realice el análisis y evaluación, y en su caso, determinar las medidas necesarias de carácter jurídico, político, administrativo, social y cultural para el desarrollo e implementación de las mismas y su homologación con las políticas establecidas por los tres órdenes de gobierno.
+ARTÍCULO 144 BIS 1.- Las acciones encaminadas a la prevención social del delito, promovidas por los municipios e instancias competentes, públicas o privadas, deberán ser presentadas ante el Centro Estatal de Prevención, para que realice el análisis y evaluación, y en su caso, determinar las medidas necesarias de carácter jurídico, político, administrativo, social y cultural para el desarrollo e implementación de las mismas y su homologación con las políticas establecidas por los tres órdenes de gobierno.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2014)</small>
+
+ARTÍCULO 144 BIS 2. El Centro Estatal de Prevención es el órgano encargado de formular, establecer, planear, coordinar, diseñar, implementar y dar seguimiento a las políticas públicas de prevención social de la violencia y la delincuencia, en las cuales contara con participación ciudadana. Asimismo, generará programas y proyectos encaminados a fomentar en el Estado la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2014)</small>
+
+ARTÍCULO 144 BIS 3.- Para el cumplimiento de su objeto, el Centro Estatal de Prevención tendrá las siguientes atribuciones:
+
+I. Proponer lineamientos de prevención social del delito a través del diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas;
+
+II. Promover la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
+
+III. Emitir opiniones y recomendaciones, así como dar seguimiento y evaluar los programas implementados por las instituciones para:
+
+a) Preveni (sic) la violencia infantil y juvenil, así como los generados por el uso de armas, abuso de drogas y alcohol;
+
+b) Promover la erradicación de la violencia, y
+
+c) Garantizar la atención integral a las víctimas.
+
+IV. Realizar, por sí o por terceros, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública en el Estado;
+
+V. Realizar, por sí o por terceros, encuestas de victimización del delito, pobreza extrema, y otros aspectos que coadyuven a la prevención del delito;
+
+VI. Promover la inclusión de contenidos relativos a la prevención del delito en los programas educativos, de salud, de desarrollo social y en general en los diversos programas que implementen las dependencias estatales, así como colaborar con el Estado y los municipios en esta misma materia;
+
+VII. Organizar seminarios, conferencias y ponencias sobre prevención social del delito;
+
+VIII. Coordinarse con otras instancias competentes en la materia para el ejercicio de sus funciones;
+
+IX. Promover la participación ciudadana en los términos de esta ley, y;
+
+X. Las demás que establezca esta Ley, el reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2014)</small>
+
+ARTÍCULO 144 BIS 4.- Para ser Director General del Centro deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano, en pleno uso de sus derechos;
+
+II. Tener 25 años el día de su designación;
+
+III. Contar con título profesional de licenciatura;
+
+IV. Ser de reconocida probidad y honradez;
+
+V. No desempeñar otro cargo público por el cual reciba remuneración alguna.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2014)</small>
+
+ARTÍCULO 144 BIS 5.- El Director General del Centro, tendrá las siguientes facultades:
+
+I. Presentar al Secretario para su aprobación:
+
+a) Las propuestas de planes y programa para la realización de proyectos de prevención social de la violencia y la delincuencia con participación ciudadana;
+
+b) Los estudios y proyectos sobre actividades relativas a la ejecución del objeto del centro;
+
+c) El proyecto de Reglamento Interno del Centro, y
+
+d) Las políticas generales, para el funcionamiento, operación de recursos humanos y financieros y organización del Centro.
+
+II. Presentar al Secretario en forma periódica, los informes de labores, así como el cumplimiento de objetivos del Centro;
+
+III. Elaborar los proyectos y programas, estados financieros y los demás que se le soliciten;
+
+IV. Cumplir con los programas y lineamientos establecidos por la Secretaría, en el tema de prevención;
+
+V. Ejercer el presupuesto del Centro, bajo la supervisión y aprobación del Secretario;
+
+VI. Proponer para su aprobación al personal Directivo y administrativo del Centro; y
+
+VII. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2877,7 +2985,7 @@ I. Amonestación con apercibimiento;
 
 II. Arresto hasta de treinta y seis horas;
 
-III. Cambio de adscripción; y (sic)
+III. (DEROGADA, P.O. 19 DE ENERO DE 2014)
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2919,13 +3027,21 @@ VI. La reincidencia en el incumplimiento de sus obligaciones.
 
 Las conductas u omisiones de los elementos de los Cuerpos de Seguridad Pública no contempladas en esta Ley y en su reglamento, pero si previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, se sujetarán a lo establecido por esta ultima.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 161.
 
-La suspensión temporal, de funciones se determinará por el Consejo de Honor y Justicia y podrá ser de carácter preventivo o correctivo atendiendo a las causas que la motiven.
+La suspensión temporal o el cambio de actividad, podrá ser de carácter preventivo o correctivo.
+
+La suspensión temporal con carácter preventivo o cambio de actividad, se determinará por el Consejo de Honor y Justicia, atendiendo a las causas que la motiven.
+
+La suspensión que sea con carácter correctivo, será facultad de los Directores de área y Comisario General.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 162.
 
-La suspensión temporal de carácter preventivo procederá contra el elemento que se encuentre sujeto a investigación administrativa o averiguación previa, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio a juicio del Consejo de Honor y Justicia, pudiera afectar a la corporación o a la comunidad en general. La suspensión subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente. En caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, con motivo de la suspensión.
+La suspensión temporal de carácter preventivo o cambio de actividad, procederá contra el elemento que se encuentre sujeto a investigación administrativa o carpeta de investigación, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio a juicio del Consejo de Honor y Justicia, pudiera afectar a la corporación o a la comunidad en general. La suspensión y en su caso, el cambio de actividad, subsistirán hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente. En caso de que al elemento sujeto a carpeta de Investigación se le decrete prisión preventiva, sin mayor trámite, por pérdida de confianza, será cesado de su encargo por el Consejo de Honor y Justicia, sin que proceda su reinstalación o restitución, procediendo solo a la indemnización, de conformidad con lo previsto por el Artículo 123 Apartado “B” Fracción XIII, de la Constitución Federal.
 
 ###### ARTÍCULO 163.
 
@@ -3352,3 +3468,13 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
+
+P.O. 19 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
