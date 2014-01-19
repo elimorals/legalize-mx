@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-reforma-del-estado-de-durango-86731"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-01"
-last_updated: "2012-03-01"
+last_updated: "2014-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY PARA LA REFORMA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 108, PUBLICADO EN EL P.O. DE 19 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2014 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de marzo de 2012.
 
@@ -284,3 +286,11 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE ENERO DE 2014.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se extiende como órgano desconcentrado de la Secretaria General de Gobierno, el Organismo Auxiliar del Comité para la Reforma del Estado de Durango. Los recursos humanos, materiales y financieros del Organismo se transfieren a partir de la entrada en vigor del presente decreto, a la Consejería General de Asuntos Jurídicos adscrita al Titula del Ejecutivo del Estado.
