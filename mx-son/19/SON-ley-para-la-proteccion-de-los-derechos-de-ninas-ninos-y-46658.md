@@ -4,7 +4,7 @@ identifier: "SON-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-46658"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-24"
-last_updated: "2014-01-16"
+last_updated: "2014-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2014.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de octubre de 2002.
 
@@ -325,11 +325,19 @@ Los niños, niñas y adolescentes tienen derecho a recibir, buscar y utilizar in
 
 Las madres, padres y todas las personas que tengan, a su cuidado, niñas, niños, y adolescentes, orientarán a los mismos sobre el uso de la información y contenidos en internet, especialmente sobre los que hagan apología o inciten a la violencia, a la guerra, a la comisión de hechos punibles, al racismo, a la desigualdad entre el hombre y la mujer, a la xenofobia, a la intolerancia religiosa y cualquier otro tipo de discriminación, a la esclavitud, a la servidumbre, a la explotación de las personas, al uso y consumo de cigarrillos y derivados del tabaco, de bebidas alcohólicas, así como aquellos de carácter pornográfico.
 
-### CAPITULO I. DE LAS OBLIGACIONES DE ASCENDIENTES, TUTORES Y CUSTODIOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 20 DE ENERO DE 2014)</small>
+
+### CAPITULO XI. DEL DERECHO A UNA VIDA LIBRE DE VIOLENCIA
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2014)</small>
+
+###### Artículo 33 Bis 3.
+
+Las niñas, niños y adolescentes, tienen derecho a vivir una vida libre de violencia, ya sea física o psíquica, así como a no ser sometidos a tortura, tratos crueles, inhumanos o degradantes. Las autoridades del Estado y los municipios deberán establecer los mecanismos para prevenir y erradicar la violencia.
 
 ## TITULO SEGUNDO. DE LAS OBLIGACIONES
 
-### CAPITULO II. DE LAS OBLIGACIONES DEL ESTADO Y DE LOS MUNICIPIOS CON RESPECTO A LAS NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPITULO I. DE LAS OBLIGACIONES DE ASCENDIENTES, TUTORES Y CUSTODIOS
 
 ###### Artículo 34.
 
@@ -363,7 +371,7 @@ IX.- Supervisar los contenidos de la información a la que acceden las niñas, n
 
 Asimismo, deberán, sin que se considere invasión a su privacidad, tener conocimiento del uso que le dan a los diferentes servicios en el internet.
 
-### CAPITULO UNICO. DE LOS (SIC) AUTORIDADES Y PROCEDIMIENTOS
+### CAPITULO II. DE LAS OBLIGACIONES DEL ESTADO Y DE LOS MUNICIPIOS CON RESPECTO A LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 35.
 
@@ -381,7 +389,7 @@ El Estado y los municipios, en el ámbito de su competencia, intervendrán para 
 
 Las Autoridades Estatales y Municipales a través de los organismos y dependencias correspondientes, vigilarán el respeto irrestricto de los derechos de los menores de edad; atenderán de manera prioritaria a los menores que requieran de asistencia jurídica, social y médica, y apoyarán de conformidad a sus respectivos presupuestos, a aquellos por cuyas carencias familiares o económicas, pongan en riesgo su formación, subsistencia y desarrollo, coadyuvando con los padres o tutores en el cumplimiento de sus deberes.
 
-> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 38 Bis.
 
@@ -551,6 +559,8 @@ Para efectos de los Procedimientos Especiales y las Sanciones, se estará a lo d
 
 ## TITULO TERCERO. DE LOS (SIC) AUTORIDADES Y PROCEDIMIENTOS
 
+### CAPITULO UNICO. DE LOS (SIC) AUTORIDADES Y PROCEDIMIENTOS
+
 ###### Artículo 55.
 
 El Estado y los municipios garantizarán la protección integral de los derechos de las personas a que se refiere esta ley mediante el diseño de políticas públicas y la ejecución de programas destinados a su atención, prevención y defensa, los cuales serán ejecutados por las instituciones gubernamentales que conforman el Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, a través de la Procuraduría de la Defensa del Menor y la Familia.
@@ -654,3 +664,9 @@ B.O. 16 DE ENERO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 20 DE ENERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
