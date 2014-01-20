@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2014-01-13"
+last_updated: "2014-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE ENERO DE 2014 NO APLICA AL ARTICULADO DEL ACUERDO DE REFORMAS PUBLICADO EN EL P.O. DE 13 DE ENERO DE 2014.</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -13003,7 +13003,7 @@ III. Acciones Accidentales.- Son las que no se deben al funcionamiento normal de
 
 Acciones Permanente, esta categoría comprende:
 
-l. La carga muerta, debida al peso propio de los elementos estructurales y al peso de los elementos no estructurales incluyendo las instalaciones, al peso del equipo que ocupe una posición fija y permanente en la construcción, y al peso estimado de futuros muros divisorios y de otros elementos no estructurales que puedan colocarse posteriormente en forma permanente;
+I. La carga muerta, debida al peso propio de los elementos estructurales y al peso de los elementos no estructurales incluyendo las instalaciones, al peso del equipo que ocupe una posición fija y permanente en la construcción, y al peso estimado de futuros muros divisorios y de otros elementos no estructurales que puedan colocarse posteriormente en forma permanente;
 
 II. El empuje estático de tierras y de líquidos, de carácter permanente; y
 
@@ -15675,7 +15675,7 @@ El texto de los anuncios deberá redactarse en idioma español con sujeción a l
 
 La Secretaría requerirá al solicitante que presente el registro o autorización que previamente le hubieran expedido la Autoridad Federal, Estatal o Municipal competente o entidad correspondiente, que permitan la difusión al público del bien o servicio de que se trate, para los efectos de otorgar la licencia o permiso respectivo, particularmente en los siguientes casos:
 
-l. Cuando se trate de bienes o servicios nuevos que se vayan a introducir al mercado y que puedan poner en riesgo la integridad física o salud de los consumidores;
+I. Cuando se trate de bienes o servicios nuevos que se vayan a introducir al mercado y que puedan poner en riesgo la integridad física o salud de los consumidores;
 
 II. Cuando se trate de la venta de terrenos, casas, departamentos, locales comerciales y de servicios, ubicados en fraccionamientos, condominios o desarrollos habitacionales, que hubieran requerido obras de urbanización e introducción de infraestructura urbana, y
 
@@ -19621,7 +19621,7 @@ Será preciso dar aviso oportuno al Municipio de la organización de cualquier f
 
 ###### ARTÍCULO 1429.
 
-Además, la empresa deberán (sic) formular con quince días de anticipación a la fecha en que vaya a iniciarse cualquier actividad, la solicitud respectiva ante el Municipio, acompañado de la siguiente documentación:
+Además, la empresa deberán formular con quince días de anticipación a la fecha en que vaya a iniciarse cualquier actividad, la solicitud respectiva ante el Municipio, acompañado de la siguiente documentación:
 
 I. Dictamen de las condiciones físicas de la plaza, expedido por perito debidamente registrado.
 
