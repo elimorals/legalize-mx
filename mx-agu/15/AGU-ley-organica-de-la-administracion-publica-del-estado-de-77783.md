@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2013-11-11"
+last_updated: "2014-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -443,8 +443,6 @@ X. Las demás que expresamente le confieran esta Ley, las demás leyes del Estad
 
 #### SECCIÓN PRIMERA. De la Secretaria de Gobierno
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2013, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE CUARENTA Y CINCO A CUARENTA FRACCIONES.</small>
-
 ###### ARTÍCULO 29.
 
 Al Secretario de Gobierno corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, y demás leyes relativas, el despacho de los siguientes asuntos:
@@ -527,13 +525,37 @@ XXXVII. Supervisar los trabajos del Centro de Control y Evaluación de la Activi
 
 XXXVIII. Conducir y poner en ejecución, en coordinación con las autoridades municipales, las políticas y programas de protección civil, y concertar con instituciones y organismos de los sectores social y privado, las acciones conducentes;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
 
-XXXIX. Coordinar y supervisar la unidad de firma electrónica a que se refiere el Artículo 2º, Fracción XVI de la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes; y
+XXXIX. Coordinar y supervisar la unidad de firma electrónica a que se refiere el Artículo 2°, Fracción XVI de la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
 
-XL. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+XL. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+
+XLI. Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+
+XLII. Promover y apoyar el incremento de la calidad y la productividad;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+
+XLIII. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+
+XLIV. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+
+XLV. Organizar el Servicio Estatal de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+
+XLVI. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 #### SECCIÓN SEGUNDA. De la Secretaría de Seguridad Pública
 
@@ -807,7 +829,7 @@ XXV. Fomentar la generación y promoción de proyectos, así como los servicios 
 
 XXVI. Apoyar, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, las gestiones de los productores y trabajadores organizados para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales;
 
-XXVII. Organizar el Servicio Estatal de Empleo, a efecto de promover los servicios de asistencia técnica y capacitación orientados al incremento de la calidad y productividad de las empresas;
+XXVII. (DEROGADA, P.O. 20 DE ENERO DE 2014)
 
 XXVIII. Coadyuvar en el desarrollo de proyectos y programas que permitan consolidar en el Estado una nueva cultura laboral, que impulse la productividad y la competitividad, el mejoramiento de las condiciones de trabajo, y el fomento y promoción del empleo;
 
@@ -1856,3 +1878,9 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
