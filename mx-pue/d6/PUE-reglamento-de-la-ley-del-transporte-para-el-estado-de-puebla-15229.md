@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-del-transporte-para-el-estado-de-puebla-15
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-13"
-last_updated: "2006-09-01"
+last_updated: "2014-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2014
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de agosto de 1999.
 
@@ -55,65 +55,81 @@ El presente Reglamento tiene por objeto proveer en el orden administrativo, el c
 
 Las disposiciones contenidas en este Reglamento son de orden público y de aplicación en todo el Estado, debiendo ceñirse a ellas autoridades y particulares.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 3.
 
-La Secretaría está facultada para ejercer las atribuciones que le confiere la Ley, el presente Reglamento y las demás disposiciones en la materia, respecto del Servicio Público de Transporte y del Servicio Mercantil.
+Corresponde a la Secretaría y a la Contraloría, en el respectivo ámbito de sus competencias, la aplicación e interpretación del Reglamento, en términos del artículo 2 de la Ley del Transporte para el Estado de Puebla.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-Es facultad del Titular de la Secretaría, interpretar las disposiciones de este Reglamento y resolver cualquier duda que suscite su aplicación.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 4.
 
 Para efectos de este Reglamento, se entenderá por:
 
-I.- Secretaría.- La Secretaría de Comunicaciones y Transportes del Estado de Puebla;
+I. Secretaría: La Secretaría de Transportes;
 
-II.- Ley.- La Ley del Transporte para el Estado de Puebla;
+II. Contraloría: La Secretaría de la Contraloría;
 
-III.- Reglamento.- El Reglamento de la Ley del Transporte para el Estado de Puebla; y
+III. Ley: La Ley del Transporte para el Estado de Puebla;
 
-IV.- Secretario.- El Secretario de Comunicaciones y Transportes del Estado de Puebla.
+IV. Reglamento: El Reglamento de la Ley del Transporte para el Estado de Puebla, y
+
+V. Secretario: El Secretario de Transportes.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES DEL TRANSPORTE Y LOS SUPERVISORES
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 5.
 
-Las autoridades del transporte, reconocidas por la Ley y el presente Reglamento, podrán en todo momento, fundando y motivando su actuación, cancelar o dejar sin efectos sus actos administrativos y en contra de dicha resolución, procederá el Recurso de Inconformidad.
+Las autoridades reconocidas por la Ley y en el presente Reglamento, en el ámbito de sus respectivas competencias, podrán en todo momento, fundando y motivando su actuación, cancelar o dejar sin efectos sus actos administrativos.
+
+En contra de dicha resolución, procederá el Recurso de Inconformidad, mismo que deberá ser promovido ante la Dependencia del cual haya emanado el acto que se recurra.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+ARTÍCULO 5 BIS.- La Secretaría, en el ejercicio de las atribuciones previstas en la Ley y el presente Reglamento, tendrá la facultad de elaborar boletas de infracción e imponer las sanciones correspondientes, cuando derivado de revisiones administrativas se observe el incumplimiento de las disposiciones contenidas en la Ley y este Reglamento.
+
+Asimismo, la Secretaría, en el ámbito de su competencia, revisará la documentación necesaria que deben portar los conductores de los vehículos, para la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de la documentación personal relativa al servicio que prestan.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 6.
 
-La Secretaría vigilará en forma permanente que el Servicio Público de Transporte y el Servicio Mercantil, se lleve a cabo con la seguridad, rapidez, eficiencia, regularidad y demás condiciones de operatividad que correspondan a cada tipo de servicio, para lo cual podrá designar el número de supervisores que estime necesarios para realizar estas funciones.
+La Contraloría vigilará en forma permanente que el Servicio Público de Transporte, el Servicio Mercantil, así como los servicios auxiliares, se lleven a cabo con la seguridad, rapidez, eficiencia, regularidad y demás condiciones de operatividad que correspondan a cada tipo de servicio, para lo cual podrá designar el número de supervisores que estime necesarios para realizar estas funciones.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+En la práctica de supervisiones e inspecciones con motivo de la prestación del Servicio Público de Transporte y del Servicio de Transporte Mercantil, así como de los Servicios Auxiliares, la Contraloría podrá hacer uso de todos aquellos elementos o instrumentos aportados por la ciencia y la tecnología.
 
-En la práctica de supervisiones e inspecciones con motivo de la prestación del Servicio Público de Transporte y del Servicio de Transporte Mercantil así como de los Servicios Auxiliares, la Secretaría podrá hacer uso de todos aquellos elementos o instrumentos aportados por la ciencia o la tecnología.
+La Contraloría remitirá a la Secretaría la información que resulte de las actividades de supervisión y vigilancia, que sean necesarias para que la Secretaría ejerza las facultades que le corresponden.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 7.
 
-Los supervisores están facultados para llevar a cabo las inspecciones que la Secretaría determine, en los vehículos del Servicio Público de Transporte y del Servicio Mercantil, ya sea para comprobar su funcionamiento y seguridad, o durante la realización del servicio, para verificar que cumplen con lo establecido en la concesión o permiso.
+Los supervisores están facultados para llevar a cabo las inspecciones que la Contraloría determine, en los vehículos del Servicio Público de Transporte, del Servicio Mercantil, así como en los Servicios Auxiliares, ya sea para comprobar su funcionamiento y seguridad, o durante la realización del servicio, para verificar que cumplan con lo establecido en la concesión, permiso o autorización correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 8.
 
-La Secretaría, por conducto del cuerpo de supervisores, tendrá a su cargo:
+La Contraloría, por conducto del cuerpo de supervisores, tendrá a su cargo:
 
 I.- Supervisar los vehículos destinados al Servicio Público de Transporte y del Servicio Mercantil, que circulen en la infraestructura vial del Estado y sus servicios auxiliares;
 
 II.- Revisar la documentación necesaria que deben portar los conductores de los vehículos, para la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de la documentación personal relativa al servicio que prestan;
 
-III.- Practicar inspecciones y revistas a los vehículos del Servicio Público de Transporte y del Servicio Mercantil;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
+
+III.- Practicar Inspecciones a los vehículos del Servicio Público de Transporte y del Servicio Mercantil, a fin de verificar que cumpla con lo dispuesto en la Ley y su Reglamento;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 IV.- Participar conjuntamente con las autoridades correspondientes en la supervisión de las instalaciones de gas y en los operativos que se realicen a los lugares no autorizados para la carga de combustible de los vehículos automotores del Servicio Público de Transporte y del Servicio Mercantil;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
 
-V.- Elaborar las boletas de infracciones a los conductores de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, cuando infrinjan la Ley y este Reglamento;
+V.- Elaborar las boletas de infracción a los conductores de los vehículos del servicio de transporte y del servicio mercantil, así como a los titulares de los servicios auxiliares, cuando infrinjan la Ley, el Reglamento o el Título de Concesión respectivo;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -127,13 +143,17 @@ VII.- Vigilar y supervisar el cumplimiento de las disposiciones relativas a los 
 
 VIII.- Las demás que les confiera la Ley y el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 9.
 
-Los supervisores están facultados para proceder en los casos en que los conductores de vehículos del Servicio Público de Transporte y del Servicio Mercantil, contravengan alguna de las disposiciones de la Ley y el presente Reglamento, levantando, en su caso, las actas de infracciones en los términos que establecen la Ley, el presente Reglamento y demás ordenamientos vigentes en la materia, mismas que se sancionarán de acuerdo al tabulador autorizado por la Secretaría.
+Los supervisores están facultados para proceder en los casos en que los conductores de vehículos del Servicio Público de Transporte y del Servicio Mercantil, contravengan alguna de las disposiciones de la Ley y el presente Reglamento, levantando, en su caso, las boletas de infracciones en los términos que establecen la Ley, el presente Reglamento y demás ordenamientos vigentes en la materia, mismas que se sancionarán de acuerdo al tabulador autorizado por la Secretaría y por la Contraloría.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 10.
 
-Las visitas de supervisión a los servicios auxiliares se practicarán cualquier día y hora, por personal autorizado que exhiba identificación vigente y la orden escrita de supervisión emitida por la Secretaría.
+Las visitas de supervisión a los servicios auxiliares se practicarán cualquier día y hora, por personal autorizado que exhiba identificación vigente y la orden escrita de supervisión emitida por la Contraloría.
 
 ###### ARTÍCULO 11.
 
@@ -163,9 +183,11 @@ IX.- Síntesis descriptiva sobre la supervisión, asentando los hechos, datos y 
 
 Una vez elaborada y firmada el acta por quienes en ella intervinieron, el supervisor proporcionará una copia de la misma a la persona que atendió la visita, aun en el caso de que se hubiere negado a firmarla, hecho que no afectará su validez y se hará constar en ella.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 13.
 
-El supervisado contará con un término de quince días hábiles, a fin de que presente las pruebas y defensas que estime conducentes en contra de la multa establecida con motivo de la infracción; con vista en ellas o a falta de su presentación, la Secretaría dictará la resolución que corresponda.
+El supervisado contará con un término de quince días hábiles, a fin de que presente las pruebas y defensas que estime conducentes en contra de la multa establecida con motivo de la infracción, con vista en ellas o a falta de su presentación, la Contraloría dictará la resolución que corresponda.
 
 ## TÍTULO SEGUNDO. DE LOS VEHÍCULOS
 
@@ -188,6 +210,10 @@ b).- Suburbano.
 c).- Foráneo.
 
 d).- Transporte Mixto de Pasajeros y Bienes.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+e).- Sistema de Transporte Público Masivo.
 
 II.- Servicio de Transporte Mercantil de Personas:
 
@@ -214,6 +240,10 @@ d).- Mensajería y Paquetería.
 e).- Especial.
 
 f).- Giros Restringidos.
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+
+IV.- Servicio de Transporte Complementario.
 
 ###### ARTÍCULO 16.
 
@@ -287,7 +317,7 @@ II.- De Sitio.- Sujetándose a las mismas condiciones del servicio anterior, los
 
 Los vehículos que se utilicen para prestar el servicio de Transporte Mercantil de Personas, en automóviles de alquiler o taxi, deberán satisfacer los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 I.- Los que tengan registro para prestar el servicio en la jurisdicción del Municipio de Puebla, deberán estar pintados de color negro con el toldo en color amarillo tránsito; los que tengan registro para prestar el servicio en los demás Municipios del Estado, será obligatorio estar pintados en color azul claro y las puertas en color crema, a excepción de los que no pertenezcan a las cabeceras municipales los que además deberán estar pintados con una franja de color naranja de 30 centímetros de ancho, que atraviese la parte central del cofre, toldo y cajuela del vehículo.
 
@@ -309,49 +339,59 @@ V.- Contarán con el equipo de emergencia que previene la fracción IX del artí
 
 Los camiones y camionetas de carga de servicio particular, requerirán de un permiso para el Transporte de Carga, cubriendo los derechos que fije la Ley de Ingresos. En el permiso y tarjetón se anotarán: nombre del propietario, domicilio, marca del vehículo, modelo y número de placas, en el anverso se anotará la clase o tipo de carga que transporta, acorde con la manifestación del propietario y con el giro mercantil a que esté destinado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 24.
 
-Para que un vehículo del Servicio Público de Transporte y del Servicio Mercantil pueda circular por la infraestructura vial del Estado, debe nevar en todo momento durante la prestación del servicio los siguientes documentos vigentes: tarjeta de circulación, calcomanías, póliza del seguro, tarjetón de concesión o permiso y placas de circulación autorizadas; asimismo el conductor debe portar la licencia vigente de conducir correspondiente y el tarjetón de identificación del conductor el cual debe ser colocado en el interior de la unidad en un lugar visible para el usuario; dichos documentos podrán ser en original y/o copia certificada, a excepción de la licencia, tarjetón de identificación, calcomanías respectivas y las placas de circulación, que deberán ser las originales. Además, los concesionarios están obligados a que los vehículos reúnan los requisitos de seguridad, funcionalidad y comodidad que señale la Secretaría, la Ley y sus Reglamentos. Tratándose de unidades del Servicio Público de Transporte y del Servicio Mercantil, tendrán que llevar los colores reglamentarios además de cumplir con las especificaciones relativas a su identificación.
+Para que un vehículo y conductor del Servicio Público de Transporte y del Servicio Mercantil puedan circular por la infraestructura vial del Estado, deberán durante la prestación del servicio, portar en todo momento los documentos vigentes siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+I. Tarjeta de circulación;
 
-También deberán estar provistos de los accesorios y dispositivos siguientes:
+II. Calcomanías;
 
-I.- De un aparato que sirva para emitir sonidos claros y perceptibles, como claxon, bocina, timbre u otros análogos, el cual deberá ser de acuerdo a la clase de vehículo; el empleo de sirena queda reservado para las ambulancias, los vehículos de policía, de bomberos y los convoys militares. Se prohíbe el uso de silbatos accionados con el escape del vehículo;
+III. Póliza del seguro;
 
-II.- De un velocímetro en perfecto estado de funcionamiento y con la iluminación debida durante la noche;
+IV. Tarjetón de concesión o permiso;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+V. Placas de circulación autorizadas;
 
-III.- Fanales delanteros de luz blanca y fija, con dispositivos para disminuir la intensidad de la luz en los casos en que así lo exija la circulación; en la parte posterior luz roja, que aumente la intensidad cuando se apliquen los frenos. Durante la noche deberá iluminarse el interior de la unidad y la placa posterior del vehículo;
+VI. Licencia de conducir según corresponda;
 
-IV.- Una llanta auxiliar en condiciones de sustituir alguna que se inutilizare y herramientas necesarias para caso de emergencia para el servicio foráneo;
+VII. Gafete de Identificación del Chofer, el que deberá ser colocado en el interior del (sic) unidad del servicio en un lugar visible para el usuario.
 
-V.- Espejos retroscópicos, colocados en la parte superior media del parabrisas y en los costados delanteros del vehículo, colocados de tal forma que permitan la visibilidad de la parte posterior del automotor;
+VIII. Llevar los colores reglamentarios;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+IX. Cumplir con las especificaciones relativas a su identificación;
 
-VI.- Cristales, medallón y parabrisas en óptimo estado, con limpiadores automáticos en condiciones que permitan su buen funcionamiento. Queda estrictamente prohibido utilizar vidrios polarizados;
+X. De un aparato que sirva para emitir sonidos claros y perceptibles, como claxon, bocina, timbre u otros análogos, el cual deberá ser de acuerdo a la clase de vehículo; el empleo de sirena queda reservado para las ambulancias, los vehículos de policía, de bomberos y los convoys militares. Se prohíbe el uso de silbatos accionados con el escape del vehículo;
 
-VII.- Con defensas, delantera y posterior;
+XI. De un velocímetro en perfecto estado de funcionamiento y con la iluminación debida durante la noche;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+XII. Fanales delanteros de luz blanca y fija, con dispositivos para disminuir la intensidad de la luz en los casos en que así lo exija la circulación; en la parte posterior luz roja, que aumente la intensidad cuando se apliquen los frenos. Durante la noche deberá iluminarse el interior de la unidad y la placa posterior del vehículo;
 
-VIII.- Dispositivos que eviten toda clase de contaminación atmosférica, por ruido o visual. Queda prohibido utilizar válvulas de escape, derivaciones u otras adaptaciones que produzcan contaminación por ruido, así corno utilizar equipos de sonido no autorizados por la Secretaría, en el ámbito de su competencia. Los escapes de los autobuses deben ser instalados en forma horizontal;
+XIII. Una llanta auxiliar en condiciones de sustituir alguna que se inutilizare y herramientas necesarias para caso de emergencia para el servicio foráneo;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+XIV. Espejos retroscópicos, colocados en la parte superior media del parabrisas y en los costados delanteros del vehículo, colocados de tal forma que permitan la visibilidad de la parte posterior del automotor;
 
-IX.- Un extintor contra incendios y triángulos reflejantes o señales luminosas para el caso de quedar estacionado durante la noche;
+XV. Cristales, medallón y parabrisas en óptimo estado, con limpiadores automáticos en condiciones que permitan su buen funcionamiento. Queda estrictamente prohibido utilizar vidrios polarizados;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+XVI. Con defensas, delantera y posterior;
 
-X.- Con un dispositivo electrónico o mecánico, en su caso, que regule la velocidad para que circulen a una máxima de sesenta kilómetros por hora para las rutas urbanas y para el resto con los dispositivos y la velocidad que determine la Secretaría, previo estudio técnico que para tal efecto se elabore, conforme a la normatividad aplicable; y
+XVII. Dispositivos que eviten toda clase de contaminación atmosférica, por ruido o visual. Queda prohibido utilizar válvulas de escape, derivaciones u otras adaptaciones que produzcan contaminación por ruido, así como utilizar equipos de sonido no autorizados por la Secretaría, en el ámbito de su competencia. Los escapes de los autobuses deben ser instalados en forma horizontal;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+XVIII. Un extintor contra incendios y triángulos reflejantes o señales luminosas para el caso de quedar estacionado durante la noche;
 
-XI.- De un contador de pasajeros.
+XIX. Con un dispositivo electrónico o mecánico, en su caso, que regule la velocidad para que circulen a una máxima de sesenta kilómetros por hora para las rutas urbanas y para el resto con los dispositivos y la velocidad que determine la Secretaría, previo estudio técnico que para tal efecto se elabore, conforme a la normatividad aplicable;
+
+XX. De un contador de pasajeros, y
+
+XXI. Llantas en buen estado, sin objetos que sobresalgan al rin o tapón que pudieran ocasionar daños a terceros.
+
+Los documentos previstos en las fracciones I, II, V, VI y VII invariablemente deberán portarse en original.
+
+Los documentos previstos en las fracciones III y IV podrán ser portados en original o copia certificada.
+
+Además los concesionarios están obligados a que los vehículos reúnan los requisitos de seguridad, funcionalidad y comodidad que señale la Secretaría, la Ley y sus Reglamentos.
 
 ###### ARTÍCULO 25.
 
@@ -391,7 +431,7 @@ El Servicio de Transporte Mercantil Escolar, deberá contar con el aval del Dire
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-I.- Deberán ser tipo minibús, microbús, autobús o el vehículo que ajuicio de la Secretaría, reúna las condiciones para prestar el servicio, que no deberá de exceder de diez años de antigüedad, tomando como parámetro el año fiscal en que se efectúe la revisión o inspección que corresponda, o en su caso, la revista vehicular respectiva;
+I.- Deberán ser tipo minibús, microbús, autobús o el vehículo que a juicio de la Secretaría, reúna las condiciones para prestar el servicio, que no deberá de exceder de diez años de antigüedad, tomando como parámetro el año fiscal en que se efectúe la revisión o inspección que corresponda, o en su caso, la revista vehicular respectiva;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -409,7 +449,9 @@ V.- Ningún vehículo que traslade escolares deberá transportar a más pasajero
 
 VI.- Los vehículos no podrán portar vidrios polarizados, oscurecidos, ni aditamentos que obstruyan la visibilidad del conductor, y
 
-VII.- Los conductores de los vehículos de Transporte Escolar, deberán contar con licencia de chofer y experiencia mínima de dos años; así mismo, contarán con un auxiliar o edecán con conocimientos de puericultura, en los casos que se requieran.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
+
+VII.- Los conductores de los vehículos de Transporte Escolar, deberán contar con la licencia para conducir correspondiente y experiencia mínima de dos años; así mismo, contarán con un auxiliar o edecán con conocimientos de puericultura, en los casos que se requieran.
 
 ###### ARTÍCULO 32.
 
@@ -459,15 +501,23 @@ Los vehículos del Servicio Público de Transporte o Servicio de Transporte Merc
 
 La sustitución o cambio de los vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil deberán sujetarse a la autorización previa que, de manera general o particular, expida la Secretaría en los términos que fijen el Manual de Procedimientos, los ordenamientos respectivos y el presente Reglamento, estando prohibido circular con placas que no correspondan al vehículo autorizado.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 42.
 
-La Secretaría tiene potestad para retirar temporal o definitivamente de la circulación a los vehículos que por su estado de presentación, seguridad o de funcionamiento, sean inadecuados para proporcionar el servicio público que tengan autorizado o representen un peligro a terceros.
+La Contraloría tiene la facultad de retirar temporal o definitivamente de la circulación a los vehículos que por su estado de presentación, seguridad o de funcionamiento, sean inadecuados para proporcionar el servicio público que tengan autorizado o representen un peligro a terceros; así como los que no cumplan con lo dispuesto en la Ley y este Reglamento.
+
+Asimismo, podrá retirar vehículos cuyos conductores porten licencia, tarjetón de concesión o de identificación falsos o apócrifos.
 
 ### CAPÍTULO II. DEL REGISTRO ESTATAL VEHICULAR, DE CONCESIONES Y PERMISOS
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 43.
 
-La Secretaría integrará y operará un registro, que contenga toda la información relativa a los vehículos del Servicio Público de Transporte y del Servicio Mercantil, así como de las concesiones, permisos, líneas, rutas e itinerarios.
+La Secretaría integrará y operará los registros que contengan la información relativa a los vehículos del Servicio Público de Transporte y del Servicio Mercantil, así como de las concesiones, permisos, autorizaciones, licencias, líneas, rutas, sitios, bases e itinerarios.
+
+La Contraloría para el correcto ejercicio de las atribuciones que le otorga la Ley de la materia, podrá acceder, en términos del convenio que para tal efecto se celebre, a los registros señalados en el párrafo anterior, y de ser necesario a los expedientes respectivos.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -527,7 +577,7 @@ Queda prohibido llevar sobre las placas de los vehículos del Servicio Público 
 
 ###### ARTÍCULO 50.
 
-Se negará o cancelará el registro; o se anulará cualquier trámite encaminado a obtenerlo, si se comprueba que la información proporcionada es falsa o si alguno de los documentos o constancias exigibles carecen de autenticidad; o cuando presten el servicio público de transpone o mercantil, sin contar con el título de concesión o permiso respectivo; de incurrir esta circunstancia y si el hecho se ubica en los supuestos previstos por la legislación penal, se dará aviso al Ministerio Público para que proceda en consecuencia.
+Se negará o cancelará el registro; o se anulará cualquier trámite encaminado a obtenerlo, si se comprueba que la información proporcionada es falsa o si alguno de los documentos o constancias exigibles carecen de autenticidad; o cuando presten el servicio público de transporte o mercantil, sin contar con el título de concesión o permiso respectivo; de incurrir esta circunstancia y si el hecho se ubica en los supuestos previstos por la legislación penal, se dará aviso al Ministerio Público para que proceda en consecuencia.
 
 ###### ARTÍCULO 51.
 
@@ -563,7 +613,7 @@ Sin perjuicio de lo anterior, la Secretaría tomará las medidas necesarias para
 
 ###### ARTÍCULO 54.
 
-Los concesionarios o permisionarios del Servicio Público de Transpone y del Servicio Mercantil, podrán solicitar permisos provisionales para el caso de robo, descompostura o baja del vehículo, por un tiempo que no exceda de noventa días naturales, debiendo entregar en su caso a la autoridad, en depósito las placas correspondientes, en tanto no se haga la acreditación de la que habla la tramitación de cambio de vehículo que señala el presente Reglamento, en el entendido de que el transportista deberá comprobar fehacientemente con documentos idóneos las circunstancias de que se trate.
+Los concesionarios o permisionarios del Servicio Público de Transporte y del Servicio Mercantil, podrán solicitar permisos provisionales para el caso de robo, descompostura o baja del vehículo, por un tiempo que no exceda de noventa días naturales, debiendo entregar en su caso a la autoridad, en depósito las placas correspondientes, en tanto no se haga la acreditación de la que habla la tramitación de cambio de vehículo que señala el presente Reglamento, en el entendido de que el transportista deberá comprobar fehacientemente con documentos idóneos las circunstancias de que se trate.
 
 ###### ARTÍCULO 55.
 
@@ -581,9 +631,11 @@ Queda prohibido remarcar, cambiar o alterar los números del chasis de la carroc
 
 Para conducir sobre la infraestructura vial del Estado, los vehículos del Servicio Público de Transporte, del Servicio Mercantil y Particulares, se requiere obtener y llevar consigo la correspondiente licencia para conducir.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 58.
 
-La licencia para conducir vehículos automotores a que hace referencia este Reglamento, se expedirá por la Secretaría, en las oficinas que para tal efecto determine la Dependencia a solicitud del interesado, una vez que se cumplan los requisitos que señalan la Ley y el presente Reglamento, y se cubran los derechos que al efecto señale la Ley de Ingresos del Estado para el ejercicio fiscal correspondiente.
+La licencia para conducir vehículos automotores a que hace referencia este Reglamento, se expedirá por la Secretaría, en las oficinas o a través de los procedimientos y/o medios que para tal efecto determine la Dependencia, a solicitud del interesado, una vez que se cumplan los requisitos que señalan la Ley y el presente Reglamento, y se cubran los derechos que al efecto señale la Ley de Ingresos del Estado para el ejercicio fiscal correspondiente.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -591,23 +643,33 @@ La licencia para conducir vehículos automotores a que hace referencia este Regl
 
 De conformidad con los tipos de servicio y licencia para conducir que se solicite, la Secretaría expedirá el tipo de licencia que se requiera; es obligación del interesado realizar directamente el trámite correspondiente, debiendo cumplir con los requisitos que prevé la Ley, este Reglamento y demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 60.
 
-Las licencias que expida la Secretaría, contendrán: la fotografía, el nombre y apellidos, la edad y el domicilio, huella y firma del interesado, así como la fecha de expedición y de vencimiento, el número de licencia y expediente que se adjudica y un código de barras, lo que las hace únicas e intransferibles.
+Las licencias para conducir que expida la Secretaría, podrán contener como información: el nombre completo, dirección, nacionalidad, fecha de nacimiento, Registro Federal de Contribuyentes, la fotografía, huella y firma digital del interesado, antigüedad, vigencia, restricciones, número de licencia y número de expediente que se adjudican, el tipo de licencia, el nombre, firma y cargo del titular de la Dependencia que emite el documento, así como las medidas de seguridad y/o información adicional que determine la Secretaría, lo que las hace únicas e intransferibles.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 61.
 
-Los poseedores de una licencia para manejar que se encuentre rota, con tachaduras, enmendaduras, alteraciones o sea ilegible, deberán solicitar su canje; la Secretaría expedirá una nueva licencia al solicitante, previo pago de los derechos respectivos, recogiendo el original deteriorado.
+Los poseedores de una licencia para conducir que se encuentre rota con tachaduras, enmendaduras, alteraciones o sea ilegible, deberán solicitar ante la Secretaría el duplicado o el canje de la licencia según corresponda, previo pago de los derechos respectivos, entregando el original deteriorado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 62.
 
-No se podrá otorgar una licencia de conducir en ninguno de sus tipos cuando:
+No se podrá otorgar una licencia para conducir en ninguno de sus tipos y en los plazos que la Secretaría determine cuando:
 
-I.- No se cumpla con la edad o algún otro de los requisitos requeridos en este Reglamento;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
+
+I.- No se cumpla con los requisitos establecidos en la Ley y en este Reglamento;
 
 II.- La licencia esté suspendida o haya sido cancelada por cualquiera de las causas señaladas por la Ley y este Reglamento;
 
-III.- Las autoridades competentes comprueben, en forma fehaciente, que el solicitante es adicto a las bebidas alcohólicas o a cualquier clase de psicotrópicos o estupefacientes o enfermedad crónica que le impida la conducción de vehículos con seguridad.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
+
+III.- Las autoridades competentes comprueben, en forma fehaciente, que el solicitante ha consumido bebidas alcohólicas, o cualquier clase de psicotrópicos o estupefacientes o padezca alguna enfermedad crónica que le impida la conducción de vehículos con seguridad;
 
 IV.- El solicitante padezca alguna incapacidad física o mental, que no se pueda curar y que le impida conducir vehículos de motor;
 
@@ -617,367 +679,203 @@ VI.- En los casos en que exista una orden proveniente de Autoridad Judicial, que
 
 VII.- Por tener infracciones no pagadas, y
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
 
-VIII.- Cuando el solicitante no apruebe el examen teórico, médico o de agudeza visual que practique el personal autorizado por la Secretaría.
+VIII.- El solicitante no apruebe y/o acredite los exámenes que determine la Secretaría.
 
 ### CAPÍTULO II. CLASIFICACIONES DE LAS LICENCIAS PARA CONDUCIR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 63.
 
-Los tipos de licencia que expedirá la Secretaría y sus correspondientes requisitos:
+La Secretaría podrá emitir los tipos de licencia a que se refiere la Ley, de conformidad con lo siguiente:
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+I. De manera general, para todos los tipos de licencia, el solicitante deberá dar cumplimiento a los siguientes requisitos:
 
-I.- LICENCIA PROVISIONAL PARA AUTOMOVILISTA Y MOTOCICLISTA.- Se otorgará a personas mayores de dieciséis y menores de dieciocho años. Estas licencias tendrán una vigencia de seis meses.
+a) Proporcionar copia certificada del acta de nacimiento expedida por el Registro Civil.
 
-REQUISITOS:
+b) Cumplimentar solicitud de trámite de licencia para conducir.
 
-a).- Copia certificada del acta de nacimiento expedida por el Registro Civil.
+c) Presentar comprobante domiciliario cuya fecha de expedición no sea mayor a tres meses, o recibo de pago que cubra la totalidad del ejercicio fiscal vigente.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+d) Acreditar identidad mediante documento oficial con fotografía y firma del titular, en los términos que la Secretaría determine.
 
-b).- Cumplimentar formato para solicitud de trámite de licencia.
+e) No registrar adeudo por infracciones.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+f) Realizar el pago de derechos correspondientes.
 
-c).- Comprobante domiciliario cuya fecha de expedición no sea mayor a tres meses.
+g) En caso de ser extranjero, demostrar la legal estancia en el país con los documentos que determine la Secretaría.
 
-d).- Identificación oficial vigente, con fotografía y firma.
+II. LICENCIA PROVISIONAL:
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+1. Para automovilista:
 
-e).- Identificación oficial vigente, con fotografía y firma del padre o tutor.
+La requieren los conductores de automóviles o vehículos análogos, pick-up y panel, de uso particular que en su capacidad de carga no excedan de una tonelada, que no presten servicios al público, y por consiguiente no reciban alguna retribución.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+2. Para motociclista:
 
-f).- Carta responsiva firmada por el padre o tutor, ratificada ante el personal de la Secretaría.
-
-g).- Constancia de no adeudo de infracciones.
-
-h).- Pago de los derechos correspondientes.
-
-i).- En caso de ser extranjero, demostrar la legal estancia en el País con los documentos que determine la Secretaría;
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-j).- Aprobar los exámenes médicos de agudeza audiovisual y práctico que realice el personal que determine la Secretaría.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
-
-k).- Aprobar el examen teórico que establezca la Secretaría.
-
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
-
-II.- LICENCIA DE AUTOMOVILISTA.- Se otorgará a partir de los dieciocho años, es de uso particular, la requieren los conductores de automóviles o vehículos análogos pick-up y panel, que en su capacidad no excedan de 3.5 toneladas, no presten servicios al público y, por consiguiente, no reciban retribución alguna. Tendrá una vigencia de tres o cinco años.
+La requieren los conductores de vehículos de dos, tres o cuatro ruedas o derivados de los mismos impulsados por medios mecánicos, transmisión de cadena o de flecha.
 
 REQUISITOS:
 
-a).- Copia certificada del acta de nacimiento expedida por el Registro Civil.
+Deberán cumplir además de los requisitos establecidos en la fracción I del presente artículo, lo siguiente:
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+a) Acreditar identidad mediante documento oficial con fotografía y firma del padre, madre o quien ejerza patria potestad o tutela del menor, en los términos que la Secretaría determine.
 
-b).- Cumplimentar formato para solicitud de trámite de licencia.
+b) Carta responsiva presentada ante la Secretaría a través de los medios que ésta determine, firmada por el padre, madre o quien ejerza patria potestad o tutela del menor.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+c) Acreditar a satisfacción de la Secretaría haber aprobado los exámenes médico y en su caso práctico de manejo, o cumplimentar el formato de responsiva ante la Secretaría en el que el solicitante manifiesta bajo protesta de decir verdad, que goza de salud óptima para la conducción de este tipo de vehículos, a través de los medios que ésta determine.
 
-c).- Comprobante domiciliario cuya fecha de expedición no sea mayor a tres meses.
+d) Acreditar el examen teórico o en su caso el curso de Educación Vial y Manejo a la Defensiva, en los términos que establezca la Secretaría.
 
-d).- Identificación oficial vigente, con fotografía y firma.
+III. LICENCIA DE AUTOMOVILISTA:
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-e).- Aprobar los exámenes médicos de agudeza audiovisual y práctico que realice el personal que determine la Secretaría.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
-
-f).- Aprobar examen teórico de manejo.
-
-g).- Constancia de no adeudo de infracciones.
-
-h).- Pago de los derechos correspondientes.
-
-i).- En caso de ser extranjero, demostrar la legal estancia en el País con los documentos que determine la Secretaría.
-
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
-
-III.- LICENCIA DE MOTOCICLISTA.- La requieren los conductores de vehículos de dos, tres o cuatro ruedas, impulsados con motor de gasolina con trasmisión de cadena o de flecha, otorgándose a partir de los dieciocho años de edad y tendrá una vigencia de tres o cinco años.
+La requieren los conductores de automóviles o vehículos análogos, pick-up y panel, de uso particular que en su capacidad de carga no excedan de dos toneladas.
 
 REQUISITOS:
 
-Los mismos que los de la licencia de automovilista.
+Deberán cumplir además de los requisitos establecidos en la fracción I del presente artículo, lo siguiente:
 
-IV.- LICENCIA PARA CHOFER PARTICULAR.- Las requieren los conductores de automóviles y vehículos análogos, pick up y panel, del servicio particular, cuya capacidad sea menor de 3.5 toneladas, otorgándose a partir de los dieciocho años de edad y su vigencia será igual que la de una licencia de automovilista.
+a) Acreditar a satisfacción de la Secretaría haber aprobado los exámenes médico y en su caso práctico de manejo, o cumplimentar el formato de responsiva ante la Secretaría en el que el solicitante manifiesta bajo protesta de decir verdad, que goza de salud óptima para la conducción de este tipo de vehículos, a través de los medios que ésta determine.
 
-REQUISITOS:
+b) Acreditar el examen teórico o en su caso el curso de Educación Vial y Manejo a la Defensiva, en los términos que establezca la Secretaría.
 
-Los mismos que los de la licencia de automovilista.
+IV. LICENCIA DE MOTOCICLISTA:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-V.- LICENCIA DE CHOFER PARA EL SERVICIO PÚBLICO DE TRANSPORTE.- Las requieren los conductores de vehículos destinados al Servido Público de Transporte, sin menoscabo de conducir toda clase de vehículos, excepto los destinados al Servicio de Transporte Mercantil, y tendrá una vigencia de tres años.
+La requieren los conductores de vehículos de dos, tres o cuatro ruedas, impulsados por medios mecánicos, con transmisión de cadena o de flecha.
 
 REQUISITOS:
 
-a).- Copia certificada del acta de nacimiento expedida por el Registro Civil.
+Los mismos que se establecen para la licencia de automovilista.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+V. LICENCIA PARA CHOFER PARTICULAR:
 
-b).- Cumplimentar formato para solicitud de trámite de licencia.
-
-c).- Saber leer y escribir.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-d).- Comprobante de domicilio, en el que se advierta que su fecha de emisión no excede de tres meses anteriores a aquélla en la que se solicite el trámite correspondiente.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-e).- Identificación oficial vigente con fotografía y firma.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-f).- Acreditar haber aprobado a satisfacción los cursos de capacitación y adiestramiento establecidos por la Secretaría, en los términos que ésta determine.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-g).- Aprobar un examen de conocimientos básicos de educación vial así como de la Ley y su Reglamento que establezca la Secretaría.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-h).- Constancia de no adeudo de infracciones.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-i).- Pago de derechos correspondientes.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-j).- En caso de ser extranjero demostrar la legal estancia en el país, con los documentos que determine la Secretaría.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-k).- Aprobar los exámenes médicos de agudeza audiovisual y práctico que realice el personal que determine la Secretaría.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-l).-Haber obtenido licencia temporal de entrenamiento de chofer del Servicio Público de Transporte.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-m).- Constancia de no antecedentes penales expedida por la Procuraduría General de Justicia del Estado.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-n).- Acreditar el examen toxicológico, que practique el personal que determine la Secretaría.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-VI.- LICENCIA DE CHOFER PARA EL SERVICIO DE TRANSPORTE MERCANTIL.- Las requieren los conductores de vehículos destinados al Servicio Público de Transporte, sin menoscabo de conducir toda clase de vehículos, excepto los destinados al Servicio Público de Transporte, y tendrá una vigencia de tres años.
+La requieren los conductores de automóviles, pick up, panel y vehículos análogos de mayor capacidad de carga del servicio particular, se otorgará a partir de los dieciocho años de edad. Tendrá una vigencia de tres o cinco años.
 
 REQUISITOS:
 
-a).- Copia certificada del acta de nacimiento expedida por el Registro Civil.
+Los mismos que se establecen para la licencia de automovilista.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+VI. LICENCIA DE CHOFER DEL SERVICIO DE TRANSPORTE PÚBLICO Y MERCANTIL:
 
-b).- Cumplimentar formato para solicitud de trámite de licencia.
-
-c).- Saber leer y escribir.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-d).- Comprobante de domicilio, en el que se advierta que su fecha de emisión no excede de tres meses anteriores a aquélla en la que se solicite el trámite correspondiente.
-
-e).- Identificación oficial vigente con fotografía y firma.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-f).- Acreditar haber aprobado a satisfacción los cursos de capacitación y adiestramiento establecidos por la Secretaría, en los términos que ésta determine.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-g).- Aprobar un examen de conocimientos básicos de educación vial, así corno de la Ley y su Reglamento, que establezca la Secretaría.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-h).- Constancia de no adeudo de infracciones.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-i).- Pago de derechos correspondientes.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-j).- En caso de ser extranjero demostrar la legal estancia en el país, con los documentos que determine la Secretaría.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-k).- Aprobar los exámenes médicos de agudeza audiovisual y práctico que realice el personal que determine la Secretaría.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-l).- Haber obtenido licencia temporal de entrenamiento de chofer del Servicio de Transporte Mercantil.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-m).- Constancia de no antecedentes penales expedida por la Procuraduría General de Justicia del Estado.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-n).- Acreditar el examen toxicológico, que practique el personal que determine la Secretaría.
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-VII.- LICENCIA TEMPORAL DE ENTRENAMIENTO DEL CHOFER DEL SERVICIO PUBLICO DE TRANSPORTE.- Ésta se otorgará a quien acredite contar con un mínimo de cinco años de antigüedad con licencia de conducir y tendrá una vigencia de un año. Se expedirá a los conductores de vehículos destinados al Servicio Público de Transporte, que deseen obtener por primera vez licencia de chofer del Servicio Público de Transporte.
+La requieren los conductores de vehículos destinados al Servicio Público de Transporte y al Servicio del Transporte Mercantil, y demás autorizados; se otorgará a partir de los dieciocho años de edad.
 
 REQUISITOS:
 
-a).- Copia certificada del acta de nacimiento expedida por el Registro Civil.
+Deberán cumplir además de los requisitos establecidos en la fracción I del presente artículo, lo siguiente:
 
-b).- Cumplimentar formato para solicitud de trámite de licencia.
+a) Saber leer y escribir.
 
-c).- Saber leer y escribir.
+b) Acreditar a satisfacción de la Secretaría haber sido capacitado en los términos que ésta determine.
 
-d).- Comprobante de domicilio, en el que se advierta que su fecha de emisión no excede de tres meses anteriores a aquélla en la que se solicite el trámite correspondiente.
+c) Acreditar a satisfacción de la Secretaría haber aprobado los exámenes médicos y en su caso práctico de manejo, en los términos que ésta determine.
 
-e).- Identificación oficial vigente con fotografía y firma.
+d) Presentar constancia de no antecedentes penales expedida por la Procuraduría General de Justicia del Estado, en la cual establezca que el solicitante no cuenta con antecedentes penales.
 
-f).- Acreditar haber aprobado a satisfacción los cursos de capacitación y adiestramiento establecidos por la Secretaría, en los términos que ésta determine.
+VII. LICENCIA DE CHOFER PARA EL SERVICIO DE TRANSPORTE MERCANTIL:
 
-g).- Aprobar un examen de conocimientos básicos de educación vial, así como de la Ley y su Reglamento, que establezca la Secretaría.
-
-h).- Constancia de no adeudo de infracciones.
-
-i).- Pago de derechos correspondientes.
-
-j).- En caso de ser extranjero demostrar la legal estancia en el país, con los documentos que determine la Secretaría.
-
-k).-Aprobar los exámenes médicos de agudeza audiovisual y práctico que realice el personal que determine la Secretaría.
-
-l).- Constancia de no antecedentes penales expedida por la Procuraduría General de Justicia del Estado.
-
-m).- Acreditar el examen toxicológico, que practique el personal que determine la Secretaría.
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-VIII.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO DE TRANSPORTE MERCANTIL.- Ésta se otorgará a quien acredite contar con un mínimo de tres años de antigüedad con licencia de conducir y tendrá una vigencia de un año. Se expedirá a los conductores de vehículos destinados al Servicio de Transporte Mercantil, que deseen obtener por primera vez licencia de chofer del Servicio de Transporte Mercantil.
+La requieren los conductores de vehículos destinados al Servicio de Transporte Mercantil, y se otorgará a partir de los dieciocho años de edad.
 
 REQUISITOS:
 
-a).- Copia certificada del acta de nacimiento expedida por el Registro Civil.
+Los mismos que se establecen para la licencia de chofer del servicio del transporte público y mercantil.
 
-b).- Cumplimentar formato para solicitud de trámite de licencia.
+VIII. LICENCIA TRANSITORIA DE CHOFER PARA EL SERVICIO DE TRANSPORTE PÚBLICO Y MERCANTIL DE TAXI:
 
-c).- Saber leer y escribir.
+La requieren los conductores de vehículos destinados al Servicio de Transporte Público y Mercantil de Taxi, se otorgará a partir de los dieciocho años de edad.
 
-d).- Comprobante de domicilio, en el que se advierta que su fecha de emisión no excede de tres meses anteriores a aquélla en la que se solicite el trámite correspondiente.
+REQUISITOS:
 
-e).- Identificación oficial vigente con fotografía y firma.
+Los mismos que se establecen para la licencia de chofer del servicio del transporte público y mercantil.
 
-f).- Acreditar haber aprobado a satisfacción los cursos de capacitación y adiestramiento establecidos por la Secretaria, en los términos que ésta determine.
-
-g).- Aprobar un examen de conocimientos básicos de educación vial, así como de la Ley y su Reglamento que establezca la Secretaría.
-
-h).- Constancia de no adeudo de infracciones.
-
-i).- Pago de derechos correspondientes.
-
-j).- En caso de ser extranjero demostrar la legal estancia en el país, con los documentos que determine la Secretaría.
-
-k).- Aprobar los exámenes médico de agudeza audiovisual y práctico que realice el personal que determine la Secretaría.
-
-l).- Constancia de no antecedentes penales expedida por la Procuraduría General de Justicia del Estado.
-
-m).- Acreditar el examen toxicológico, que practique el personal que determine la Secretaría.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-En el supuesto de licencias expedidas por otras entidades federativas con las que se pretenda obtener los diferentes tipos de licencias que establecen la Ley y el presente Reglamento, en todo caso, se deberá acreditar la antigüedad que se prevé.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 64.
 
-Se realizará el canje de licencias de conducir cuando la Secretaría otorgue otra licencia. Para el trámite anterior se deberán cumplir los siguientes requisitos:
-
-I.- Requisitar formato para la solicitud de canje de licencia;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-II.- Comprobante de domicilio, en el que se advierta que su fecha de emisión no excede de tres meses anteriores a aquélla en la que se solicite el trámite correspondiente;
-
-III.- Identificación oficial vigente, con fotografía y firma;
-
-IV.- Entregar el original de la licencia anterior;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-V.- Constancia de no adeudo de infracciones;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-VI.- Pago de derechos correspondiente;
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-VII.- Acreditar la actualización de los cursos de capacitación y adiestramiento establecidos por la Secretaría, en los términos que ésta determine, para el caso de la licencia del Servicio Público o del Servicio Mercantil; y
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-VIII.- Acreditar el examen toxicológico que practique el personal que determine la Secretaría, para el caso de la licencia del Servicio Público o del Servicio Mercantil.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
-
-###### ARTÍCULO 65.
-
-La reposición de la licencia de conducir se realizará a solicitud del usuario cuando éste no tenga en su poder la licencia vigente, por que la haya extraviado o por que se la hayan robado.
+Se realizará el canje de licencias para conducir cuando la Secretaría otorgue otra licencia.
 
 REQUISITOS:
 
-I.- Requisitar formato para solicitud de reposición de licencia;
+I. Cumplimentar solicitud de trámite de licencia para conducir;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+II. En caso de que el usuario manifieste el cambio de domicilio, comprobante domiciliario cuya fecha de expedición no sea mayor a tres meses, o recibo de pago que cubra la totalidad del ejercicio fiscal vigente;
 
-II.- Presentar copia del acta levantada ante el Ministerio Público, por robo o pérdida de la licencia, así como su ratificación en los casos en que proceda;
+III. En caso de que la licencia a canjear se encuentre rota, con tachaduras, enmendaduras, alteraciones o sea ilegible, acreditar identidad mediante documento oficial con fotografía y firma del titular, en los términos que la Secretaría determine;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+IV. Entregar el original de la licencia anterior;
 
-III.- Comprobante domiciliario cuya vigencia no sea mayor de tres meses;
+V. No registrar adeudo por infracciones;
 
-IV.- Identificación oficial vigente, con fotografía y firma del interesado;
+VI. Realizar el pago de derechos correspondiente;
 
-V.- Constancia de no adeudo de infracción;
+VII. En los casos de licencias para conducir el servicio del transporte público y mercantil de taxi, acreditar a satisfacción de la Secretaría haber sido capacitado en los términos que ésta determine;
 
-VI.- Carta responsiva firmada por el padre o tutor, cuando se trate de menor de edad, y
+VIII. En el caso de licencias para conducir vehículos destinados a la prestación del servicio de transporte público y mercantil, acreditar a satisfacción de la Secretaría haber aprobado los exámenes médicos y en su caso práctico de manejo, en los términos que ésta determine;
 
-VII.- Pago de derechos correspondientes.
+IX. En el caso de licencias para conducir vehículos particulares, acreditar a satisfacción de la Secretaría haber aprobado los exámenes médico y en su caso práctico de manejo, o cumplimentar el formato de responsiva ante la Secretaría en el que el solicitante manifiesta bajo protesta de decir verdad, que goza de salud óptima para la conducción de este tipo de vehículos, a través de los medios que ésta determine, y
+
+X. En el caso de licencias provisionales, además:
+
+a) Carta responsiva presentada ante la Secretaría a través de los medios que ésta determine, firmada por el padre, madre o quien ejerza patria potestad o tutela del menor.
+
+b) Acreditar identidad mediante documento oficial con fotografía y firma del padre, madre o quien ejerza patria potestad o tutela del menor, en los términos que la Secretaría determine.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
+###### ARTÍCULO 65.
+
+La reposición de licencias para conducir se realizará a solicitud del usuario, cuando éste no tenga en su poder la licencia vigente o vencida, por robo o extravío.
+
+REQUISITOS:
+
+Deberán cumplir además de los requisitos establecidos en las fracciones I, II, V, VI, VII, VIII, IX y X del artículo 64 de este Reglamento, lo siguiente:
+
+I. En el caso de extravío o robo de la licencia vigente o vencida, deberá presentar el acta tramitada ante el Ministerio Público o cumplimentar el Formato de Responsiva ante la Secretaría a través de los medios que ésta determine, y
+
+II. Acreditar identidad mediante documento oficial con fotografía y firma del titular, en los términos que la Secretaría determine.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+ARTÍCULO 65 BIS.- El duplicado de licencias para conducir se realizará a solicitud del usuario, cuando éste no tenga en su poder la licencia vigente a causa de robo o extravío; lo cual no implicará la modificación de la vigencia ni de los datos personales señalados en la licencia que se duplica.
+
+REQUISITOS:
+
+I. Presentar el acta tramitada ante el Ministerio Público o cumplimentar el Formato de Responsiva ante la Secretaría, a través de los medios que ésta determine;
+
+II. Acreditar identidad mediante documento oficial con fotografía y firma del titular, en los términos que la Secretaría determine;
+
+III. No registrar adeudo por infracciones, y
+
+IV. Pago de derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 66.
 
-Las licencias señaladas en los artículos precedentes, podrán renovarse o canjearse a su vencimiento, tantas veces como lo soliciten sus titulares, siempre y cuando éstos aprueben el examen médico que aplica la Secretaría, sin más limitación que la derivada de la suspensión o cancelación definitiva, en los términos señalados por la Ley y este Reglamento.
+Las licencias señaladas en el artículo 63 de este Reglamento, podrán canjearse, reponerse o duplicarse tantas veces como lo soliciten sus titulares, con excepción de la licencia transitoria de chofer para el servicio de transporte público y mercantil de taxi, que estará sujeta a los ordenamientos que determine la Secretaría, y sin más limitación que la derivada de la suspensión o cancelación; en los términos señalados por la Ley y este Reglamento.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
-ARTÍCULO 66 BIS.- Para la expedición, canje o reposición del tarjetón de identificación se deberá cumplir, además con los requisitos siguientes:
+ARTÍCULO 66 BIS.- Para la expedición, canje o reposición del Gafete de Identificación del Chofer del Servicio de Transporte Público y Mercantil de Taxi.
 
-I.- Acreditar haber obtenido la licencia temporal de entrenamiento de chofer del Servicio Público de Transporte o del Servido Mercantil, o la licencia de chofer para el Servicio Público de Transporte o del Servicio Mercantil;
+REQUISITOS:
 
-II.- En caso de pérdida o robo exhibir la copia certificada del acta correspondiente presentada ante el Ministerio Público; y
+I. Obtener la licencia de chofer del servicio de transporte público y mercantil o la licencia transitoria de chofer para el servicio de transporte público y mercantil de taxi;
 
-III.- Pago de derechos respectivo.
+II. En el caso de extravío o robo del Gafete vigente, deberá presentar el acta tramitada ante el Ministerio Público o cumplimentar el Formato de Responsiva para el trámite de reposición ante la Secretaría a través de los medios que ésta determine, y
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+III. Realizar el pago de derechos correspondientes.
 
-ARTÍCULO 66 TER.- La revalidación del tarjetón de identificación se efectuará invariablemente cada año y consiste en:
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
-I.- Acreditar la actualización de los cursos de capacitación y adiestramiento establecidos por la Secretaría, debiendo presentar la constancia correspondiente;
+ARTÍCULO 66 TER.- El duplicado del gafete de identificación se realizará a solicitud del usuario cuando éste esté vigente y no lo tenga en su poder a causa de robo o extravío, lo cual no implicará la modificación de los datos en el gafete que se duplica.
 
-II.- Acreditar el examen toxicológico que practique el personal que determine la Secretaría; y
+REQUISITOS:
 
-III.- El cumplimiento de los demás requisitos que determine la Secretaría, de conformidad con la normatividad aplicable.
+I. Cumplir con los requisitos establecidos en las fracciones I, II y III del artículo 66 Bis de este Reglamento, y
+
+II. Acreditar identidad mediante documento oficial con fotografía y firma del titular, en los términos que la Secretaría determine.
 
 ###### ARTÍCULO 67.
 
@@ -1021,15 +919,21 @@ VI.- Por dos o más suspensiones de las que trata el artículo anterior.
 
 La licencia además podrá ser suspendida, hasta por un periodo de seis meses, si el conductor acumula seis infracciones de cualquier naturaleza al presente Reglamento en el transcurso de un año.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 72.
 
-A fin de dar cumplimiento a lo dispuesto por este capítulo, la Secretaría se coordinará con las autoridades competentes en materia de seguridad vial, las que conforme a sus atribuciones, deberán hacer del conocimiento a esta Dependencia cualquier infracción relacionada con este Reglamento.
+La Secretaría, se coordinará con la Contraloría y con las demás autoridades competentes en materia de seguridad vial, las que conforme a sus atribuciones, deberán hacer del conocimiento a la Secretaría, cualquier infracción relacionada con este Reglamento, lo anterior para el cumplimiento a lo dispuesto en este Capítulo respecto de la suspensión y cancelación de licencia.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
 ###### ARTÍCULO 73.
 
 Una vez que la Secretaría, tenga conocimiento de que ha ocurrido cualquiera de los casos señalados para suspender o cancelar licencias, deberá a través del área jurídica, citar al titular de la misma, fijando día y hora para la celebración de una audiencia dentro de un término de veinte días hábiles, haciéndole saber el objeto de la misma, requiriéndolo para que presente las pruebas que considere convenientes y que estén debidamente relacionadas, apercibiéndolo que de no comparecer se le tendrá por conforme con la resolución que se dicte.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+Una vez que la Contraloría tenga conocimiento procederá en el ámbito de su competencia, conforme a las facultades que le conceden la Ley del Transporte para la (sic) Estado de Puebla y el presente Reglamento.
 
 ###### ARTÍCULO 74.
 
@@ -1039,9 +943,11 @@ La resolución deberá dictarse dentro de un término de quince días hábiles y
 
 Suspendida o cancelada la licencia, se tomará nota en los registros respectivos y se requerirá al titular para que haga entrega de ella dentro de los cinco días hábiles siguientes, apercibiéndolo que, de no hacerlo se le dará vista al Ministerio Público, para los efectos legales procedentes.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 76.
 
-Cuando se compruebe que una persona está haciendo uso de una licencia para conducir alterada o falsificada, se dará conocimiento a las autoridades competentes, llevándose un registro para que al infractor no se le expida licencia alguna de manera definitiva.
+Cuando se compruebe que una persona está haciendo uso de una licencia para conducir alterada o falsificada, se dará conocimiento a las autoridades competentes, llevándose un registro por parte de la Secretaría para que al infractor no se le expida licencia alguna de manera definitiva.
 
 ## TÍTULO CUARTO. DE LAS CONCESIONES Y PERMISOS
 
@@ -1095,9 +1001,17 @@ I.- Transporte Urbano;
 
 II.- Transporte Suburbano;
 
-III.- Transporte Foráneo, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
 
-IV.- Transporte Mixto, de personas y de bienes.
+III.- Transporte foráneo;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
+
+IV.- Transporte mixto de personas y de bienes, y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+
+V.- Sistema de Transporte Público Masivo.
 
 ###### ARTÍCULO 81.
 
@@ -1131,9 +1045,11 @@ Emitidos los estudios a que hace referencia la fracción I del párrafo anterior
 
 Realizado todo lo anterior y satisfechos los demás requisitos establecidos en la Ley y el presente Reglamento, se otorgará la concesión, emitiéndose el Título de Concesión respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 83.
 
-Para ser concesionario del Servicio Público de Transporte a que se refiere este Reglamento, es necesario formular una solicitud por escrito, misma que se presentará por triplicado ante la Secretaría, la cual deberá contener lo siguiente:
+Para ser concesionario de alguno de los servicios a que se refiere la Ley y este Reglamento, es necesario presentar ante la Secretaría una solicitud por duplicado. Dicha solicitud deberá contener lo siguiente:
 
 I.- Nombre completo, edad, nacionalidad y domicilio, si se trata de una persona física, o denominación legal y domicilio social, si es una persona moral la solicitante;
 
@@ -1175,7 +1091,7 @@ VII.- Estados financieros actualizados y dictaminados, en caso de tratarse de un
 
 VIII.- Constancia de antecedentes no penales, expedida por la Procuraduría General de Justicia del Estado, si es persona física;
 
-IX.- Comprobante del depósito de garantía del trámite correspondiente.
+IX.- Comprobante del depósito de garantia del trámite correspondiente.
 
 Por cada solicitud se formará un expediente que contendrá todos los documentos exhibidos, así como la resolución que declare procedente o improcedente el otorgamiento de la concesión. Los interesados podrán solicitar copia certificada a su costa de las constancias que les sean útiles, las que serán expedidas por conducto de la Subsecretaría del Transporte, recibiéndolas personalmente el peticionario.
 
@@ -1207,7 +1123,13 @@ Autorizado el vehículo o vehículos por la Secretaría, se expedirá la orden d
 
 ARTÍCULO 87 BIS.- Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el Servicio Público de Transporte, tendrán una vigencia de diez años, sin embargo, la autoridad o la comisión respectiva certificará cada tres años la validez de las mismas.
 
-Respecto a las concesiones otorgadas, los concesionarios tienen la obligación de prestar el servido con vehículos que no excedan de diez años de antigüedad de fabricación para las rutas urbanas y doce años de antigüedad para las rutas suburbanas y foráneas, así como realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, en términos de la Ley de Ingresos del Estado vigente.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
+Respecto a las concesiones otorgadas, los concesionarios tienen la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad para las rutas urbanas y doce años de antigüedad para las rutas suburbanas y foráneas, así como realizar el trámite anual que deberá efectuar en las Oficinas Recaudadoras y de Orientación al Contribuyente de la Secretaría de Finanzas y Administración, en términos de la Ley de Ingresos del Estado vigente. Los años de antigüedad referidos se contarán a partir del año modelo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+Tratándose del Sistema de Transporte Público Masivo, la Secretaría además de lo previsto en la Ley podrá, mediante reglas de carácter general establecer los términos y condiciones que deban cumplir las personas jurídicas en relación a los vehículos que operen bajo esta modalidad.
 
 ###### ARTÍCULO 88.
 
@@ -1234,6 +1156,10 @@ Cuando el solicitante haya cubierto satisfactoriamente los requisitos señalados
 ###### ARTÍCULO 92.
 
 En igualdad de circunstancias respecto de otros solicitantes, se dará preferencia a las personas físicas o jurídicas que cuenten con las mejores condiciones técnicas, financieras y de operación necesarias para la prestación del mismo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+Las concesiones para el Sistema de Transporte Público Masivo podrán ser otorgadas a los concesionarios que operen en la vía pública que haya sido decretada Corredor Exclusivo, Confinado y/o Preferencial, en los términos del artículo 22 Bis de la Ley del Transporte, siempre que éstos cumplan con las disposiciones legales aplicables; debiendo constituirse en una persona jurídica quien prestará el Servicio de Transporte Público Masivo.
 
 ###### ARTÍCULO 93.
 
@@ -1265,11 +1191,15 @@ II.- Cuando del estudio técnico integral se determine que es improcedente dicho
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-III.- Cuando del análisis del expediente administrativo de otorgamiento de concesión o permiso se derive que hay falsedad en los informes y documentos presentados, sin perjuicio de las sanciones que en materia penal procedan; y
+III.- Cuando del análisis del expediente administrativo de otorgamiento de concesión o permiso se derive que hay falsedad en los informes y documentos presentados, sin perjuicio de las sanciones que en materia penal procedan; y (sic)
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 IV.- La no vigencia de los estudios técnicos a que hace referencia el artículo 82 del presente Reglamento.
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+
+V.- Cuando el solicitante haya sido sujeto a un procedimiento de revocación de la concesión o permiso de transporte en términos de este Reglamento.
 
 ###### ARTÍCULO 95.
 
@@ -1567,6 +1497,10 @@ XXIV.- Por cualquier otra circunstancia que implique la prestación irregular y 
 
 La revocación de las concesiones operará previo cumplimiento del procedimiento que al efecto señala la Ley y el presente Reglamento.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+La actualización de las causales establecidas en las fracciones I, II, III, VI, VII, VIII, IX, X, XI, XIV, XV, XXI, XXIII y XXIV de este artículo deberán ser informadas por la Contraloría a la Secretaría para el inicio del procedimiento al que se refiere el presente Capítulo.
+
 ###### ARTÍCULO 104.
 
 Por su naturaleza las concesiones que son otorgadas a las personas morales, creadas de acuerdo a la Ley, serán revocadas de conformidad con lo siguiente:
@@ -1609,9 +1543,11 @@ La revocación de las concesiones será declarada administrativamente por el Sec
 
 La revocación de una concesión operará sin perjuicio de la aplicación de las Leyes Penales y Civiles, según sea el caso.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 108.
 
-Las personas físicas o morales, a quienes se les haya revocado una concesión, están imposibilitadas para gestionar otra por el plazo de entre uno a tres años, en relación a la falta cometida. Dicho plazo se fijará en la resolución que emita la Secretaría.
+Las personas físicas o morales, a quienes se les haya revocado una concesión, están imposibilitadas para gestionar otra.
 
 ###### ARTÍCULO 109.
 
@@ -1749,9 +1685,15 @@ XIII.- Tratándose de vehículos destinados a la prestación del servicio mercan
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 119.
 
-Los permisos para el Servicio de Transporte en Automóviles de Alquiler o Taxis concedidos a personas físicas, serán personales y ampararán un solo vehículo, no otorgándose más de cinco a cada persona física.
+Los permisos para la prestación del servicio mercantil en su modalidad de automóviles de alquiler o taxi o taxi local otorgados a personas físicas serán personales y ampararán un solo vehículo.
+
+No se otorgarán más de cinco permisos a cada persona física.
+
+La Secretaría no otorgará los permisos a que se refiere este artículo, cuando el solicitante haya sido sujeto a un procedimiento en que se haya determinado la revocación de la concesión o la cancelación del permiso de transporte público y del servicio mercantil, respectivamente.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -1789,13 +1731,13 @@ El tarjetón de permiso contendrá los requisitos señalados en el artículo 100
 
 Previo al otorgamiento de los permisos para el Servicio de Transporte en Automóviles de Alquiler o Taxis, la Secretaría, deberá llevar a cabo los estudios que determinen las necesidades del servicio.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 125.
 
-Los permisos a que hace referencia este Capítulo tendrán una vigencia hasta por un año. Lo anterior no libera al permisionario de realizar el trámite de revalidación, a través del pago anual correspondiente, que deberá efectuar ante la Secretaría de Finanzas y Administración, en términos de la Ley de Ingresos para el Estado vigente.
+Los permisos a que hace referencia la Ley, tendrán una vigencia hasta de un año con excepción de los permisos del Servicio de Transporte Mercantil de personas en su modalidad de alquiler o taxi y de los taxis locales, los cuales tendrán una vigencia de diez años.
 
-Tratándose del Servicio Mercantil de Transporte de personas en automóviles de alquiler o taxis, se deberán sujetar a lo dispuesto en el artículo 70 de la Ley y 87 BIS del presente Reglamento.
+Lo anterior no libera a su titular de realizar los trámites procedentes a través del pago anual que deberá efectuar en las Oficinas Recaudadoras y de Asistencia al Contribuyente de la Secretaría de Finanzas y Administración, según lo señalado por la Ley de Ingresos del Estado vigente.
 
 ###### ARTÍCULO 126.
 
@@ -1821,9 +1763,11 @@ Para realizar viajes especiales o de servicio extraordinario con vehículos dest
 
 Los permisos podrán ser objeto de cancelación, cuando se incurra en alguna causa que amerite la aplicación de tal medida, de acuerdo con lo que establece la Ley y este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 131.
 
-Los permisos que se otorguen para la prestación de los servicios a que hace referencia este Reglamento, podrán ser cancelados por las siguientes causas:
+Los permisos que se otorguen para la prestación de los servicios a que hace referencia este Reglamento, podrán ser cancelados la (sic) por la Secretaría por las siguientes causas:
 
 I.- Porque se preste el Servicio Mercantil de forma diferente a lo autorizado en el permiso;
 
@@ -1847,7 +1791,7 @@ VI.- Porque se suspenda o interrumpa el servicio sin justificación, no existien
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
-VII.- Por circular con placas del Servicio Mercantil de Transpone de Personas en automóviles de alquiler o taxis, que no correspondan al vehículo autorizado o que estas sean falsas;
+VII.- Por circular con placas del Servicio Mercantil de Transporte de Personas en automóviles de alquiler o taxis, que no correspondan al vehículo autorizado o que estas sean falsas;
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -1897,13 +1841,21 @@ XVIII.- Porque el titular del permiso no informe cada tres meses a la Secretarí
 
 XIX.- Otorgar en garantía el título de permiso sin la autorización previa de la Secretaría;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
 
-XX.- Incumplir el titular del permiso con las obligaciones contraídas con la Secretaría, en caso de otorgar en garantía el título respectivo; y
+XX.- Incumplir el titular del permiso con las obligaciones contraídas con la Secretaría en caso de otorgar en garantía el título respectivo;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
 
-XXI.- Por cualquier otra circunstancia que implique la prestación irregular y deficiente de un modo permanente o cuando lo reclame el interés social.
+XXI.- Por cualquier otra circunstancia que implique la prestación irregular y deficiente de un modo permanente o cuando lo reclame el interés social, y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+
+XXII.- Por no cumplir con todas las obligaciones que se desprendan de la Ley, este Reglamento y demás normas que dicte la Secretaría y la Contraloría.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+La actualización de las causales establecidas en las fracciones I, II, III, VI, VII, VIII, IX, X, XIII, XIV, XV, XXI y XXII de este artículo, deberán ser informadas por la Contraloría a la Secretaría para el inicio del procedimiento al que se refiere el presente Capítulo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -2043,9 +1995,13 @@ Tratándose del transporte de objetos, mercancía o bienes, el seguro deberá am
 
 Los seguros a los que hacen referencia los artículos 38 de la Ley y 142 de este Reglamento, deben inscribirse en el mes de enero o julio de cada año y, deberán contratarse con una institución legalmente autorizada por la autoridad competente, con la cobertura que a criterio de la Secretaria resulte la más conveniente para la prestación del servicio de que se trate.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 145.
 
-Los vehículos del Servicio Público de Transporte y del Servicio Mercantil en sus distintos tipos de servicio, pasarán revista vehicular obligatoria cuando así lo determine la Secretaría a fin de evaluar el cumplimiento de las condiciones y características de los vehículos, marcadas en el presente Reglamento y el manual correspondiente.
+Los vehículos del Servicio Público del Transporte y del Servicio Mercantil en sus distintos tipos de servicio, pasarán revista vehicular obligatoria de acuerdo a la programación y a las reglas de operación que determine la Secretaría, a fin de evaluar el cumplimiento de las condiciones y características de los vehículos, marcadas en el presente Reglamento y el manual correspondiente.
+
+Para efectos del párrafo anterior, la Secretaría contará con el personal que resulte necesario, a fin de efectuar la revista vehicular.
 
 ###### ARTÍCULO 146.
 
@@ -2107,7 +2063,9 @@ IV.- Retirar, en su caso, la publicidad o propaganda colocada o instalada en el 
 
 V.- Los sistemas de audio y/o video se podrán colocar en lugares que no obstruyan, distraigan o impidan la operación del conductor o chofer del vehículo; se deberán observar en todo caso, las disposiciones legales aplicables respecto a la contaminación por ruido. El contenido de los mensajes o imágenes que se proyecten o difundan a través de los sistemas respectivos se sujetarán a lo dispuesto por la normatividad de la materia.
 
-La Secretaría en el ámbito de su competencia, vigilará se cumplan las disposiciones legales y administrativas aplicables.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
+La Secretaría y la Contraloría en el ámbito de sus respectivas competencias, vigilarán que se cumplan las disposiciones legales y administrativas aplicables.
 
 ## TÍTULO QUINTO. DEL RÉGIMEN DE LAS TARIFAS, ITINERARIOS, FRECUENCIAS DE PASO Y HORARIOS, EN EL SERVICIO PÚBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL
 
@@ -2135,21 +2093,29 @@ VI.- Oferta del servicio y demanda del mismo, y
 
 VII.- Seguridad, incremento en la eficiencia y calidad en el servicio hacia el usuario así como la modernización del parque vehicular.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 149.
 
-Cuando la Secretaría de Comunicaciones y Transportes determine un aumento a la tarifa, deberán precisarse los compromisos que se adquieran por parte de los prestadores del servicio.
+Cuando la Secretaría determine un aumento a la tarifa, deberán precisarse los compromisos que se adquieran por parte de los prestadores del servicio.
 
 ###### ARTÍCULO 150.
 
 La vigencia de las tarifas, itinerarios, frecuencias de paso y horarios serán determinadas por la Secretaría, pero ésta podrá modificarlas en cualquier momento, por causas de interés público y en base a un estudio socioeconómico sobre la costeabilidad del servicio.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+Respecto a las tarifas, itinerarios, frecuencias de paso y horarios, serán supervisados y vigilados por la Contraloría.
+
 ###### ARTÍCULO 151.
 
 Las tarifas autorizadas para el Servicio Público de Transporte, así como cualquier modificación y ajuste que se haga a las mismas, deberán ser publicadas en el Periódico Oficial del Estado, así como en un diario de los de mayor circulación en la Entidad, por lo menos con cinco días de anticipación al de su entrada en vigor. Las tarifas autorizadas deberán fijarse en lugar visible de las bases, terminales de transferencias, sitios y unidades.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 152.
 
-Corresponde a la Secretaría, vigilar que el público usuario no se vea afectado en sus intereses por la alteración de las tarifas, por lo que, en caso de cobros no autorizados por parte de los prestadores del servicio, podrá tomar las medidas que procedan con base en los señalamientos de la Ley, el presente Reglamento y demás ordenamientos aplicables.
+Corresponde a la Contraloría, vigilar que el público usuario no se vea afectado en sus intereses por la alteración de las tarifas, por lo que, en caso de cobros no autorizados, la Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, tomarán las medidas que procedan con base en lo dispuesto en la Ley, el presente Reglamento y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 153.
 
@@ -2199,7 +2165,7 @@ Las modificaciones relativas a los horarios, itinerarios, frecuencias de paso y 
 
 ARTÍCULO 159 BIS.- Se entiende por fusión de rutas, a la unión de dos o más recorridos para conformar una sola, éste itinerario puede ser radial, sobrepuesto o perimetral; el resultado de la fusión en algunos casos podrá ser diametral.
 
-Las rutas interesadas en fusionarse deberán presentar la solicitud correspondiente ante la Secretaría, o bien, se podrá realizar a propuesta de las autoridades del transporte; en todo caso se deberá observar lo dispuesto por la Ley y el Título Cuarto de este Reglamento. Los interesados deberán constituirse como persona jurídica de acuerdo a las disposiciones legales aplicables.
+Las rutas interesadas en fusionarse deberán presentar la solicitud correspondiente ante la Secretaría, o bien, se podrá realizar a propuesta de las autoridades del transporte~ en todo caso se deberá observar lo dispuesto por la Ley y el Título Cuarto de este Reglamento. Los interesados deberán constituirse como persona jurídica de acuerdo a las disposiciones legales aplicables.
 
 Autorizada la fusión, las rutas involucradas tendrán una sola clave de ruta, integrada por el número de las concesiones respectivas y el itinerario, conforme al acuerdo que determine su procedencia.
 
@@ -2209,29 +2175,37 @@ Servirán de base para el establecimiento de las tarifas, itinerarios, frecuenci
 
 ### CAPÍTULO III. DE LOS HORARIOS
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 161.
 
-Los concesionarios están obligados a fijar en las terminales de pasajeros, terminales de transferencias y oficinas despachadoras, un pizarrón con los horarios de salida y llegada de los vehículos que presten el servicio. Este pizarrón debe estar siempre a la vista del público.
+Los concesionarios están obligados a fijar en las terminales de pasajeros, terminales de transferencias y oficinas despachadoras, un pizarrón con los horarios de salida y llegada de los vehículos que presten el servicio. Este pizarrón debe estar siempre a la vista del público y será supervisado por la Contraloría.
 
 ## TÍTULO SEXTO. DE LAS OBLIGACIONES DE LOS CONDUCTORES Y DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS DE LOS VEHÍCULOS
 
 ### CAPÍTULO I. OBLIGACIONES DE LOS CONDUCTORES DE LOS VEHÍCULOS
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 162.
 
-Para que una persona pueda conducir cualquier vehículo del Servicio Público de Transporte y del Servicio Mercantil, deberá poseer y portar durante todo el tiempo en que esté prestando el servicio, la licencia vigente requerida para el tipo de servicio de que se trate, la cual deberá ser expedida por la Secretaría, así como el tarjetón de identificación correspondiente.
+Para que una persona pueda conducir cualquier vehículo del Servicio Público de Transporte y del Servicio de Transporte Mercantil, deberá poseer y portar durante todo el tiempo en que esté prestando el servicio, la licencia para conducir, y cuando corresponda el Gafete de Identificación; estos documentos deberán estar vigentes y haber sido expedidos por la Secretaría.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 163.
 
-Los conductores de vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberán someterse a los exámenes médicos que sean necesarios, para verificar que sus condiciones de salud sean satisfactorias y que no representen ningún riesgo para la seguridad de los usuarios y de terceros. Los exámenes médicos a que se hace referencia, se practicarán con la periodicidad que determine la Secretaría.
+Los conductores de vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberán someterse a los exámenes médicos que sean necesarios, para verificar que sus condiciones de salud sean satisfactorias y que no representen ningún riesgo para la seguridad de los usuarios y de terceros. Los exámenes médicos a que se hace referencia, se practicarán con la periodicidad que determine la Secretaría y se verificarán por parte de la Contraloría.
 
 ###### ARTÍCULO 164.
 
 Los conductores deberán realizar su trabajo en condiciones físicas y mentales adecuadas, por lo que no podrán conducir los vehículos si han ingerido bebidas alcohólicas o cualquier tipo de sustancias psicotrópicas o enervantes. En caso de contravenir esta norma se harán acreedores a la aplicación de las sanciones que establecen al efecto la Ley y este Reglamento, sin perjuicio de la responsabilidad penal en que pudieran incurrir.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 165.
 
-Los conductores del Servicio Público de Transporte, deberán hacer las paradas únicamente en los lugares autorizados por la Secretaría. El tiempo de parada deberá limitarse para el ascenso y descenso de pasajeros, además, deberán mantenerse cerradas las puertas durante el recorrido y solamente se abrirán para el ascenso y descenso del pasaje.
+Los conductores del Servicio Público de Transporte, deberán hacer las paradas únicamente en los lugares autorizados por la Secretaría; el cumplimiento de tal disposición se verificará por parte de la Contraloría. El tiempo de parada deberá limitarse para el ascenso y descenso de pasajeros, además, deberán mantener cerradas las puertas durante el recorrido y solamente se abrirán para el ascenso y descenso del pasaje.
 
 ###### ARTÍCULO 166.
 
@@ -2241,9 +2215,11 @@ Los conductores de vehículos del Servicio Público de Transporte realizarán su
 
 Los conductores de vehículos del Servicio Público de Transporte, tienen la obligación de hacer la devolución del importe del pasaje, cuando el vehículo sufra alguna descompostura que le impida continuar con la prestación del servicio y no esté en condiciones de substituir el citado vehículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 168.
 
-Independientemente de las prohibiciones a que se refieren los artículos anteriores, los conductores de los vehículos del Servicio Público de Transporte y del Servicio Mercantil deberán abstenerse de:
+Independientemente de las prohibiciones a que se refieren los artículos anteriores, la Contraloría vigilará que los conductores de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberán abstenerse de:
 
 I.- Ingerir bebidas alcohólicas o sustancias psicotrópicas o enervantes de cualquier naturaleza, durante las horas de su servicio o con veinticuatro horas de anticipación a la iniciación del mismo;
 
@@ -2289,9 +2265,11 @@ XV.- Violar las normas de vialidad que la autoridad respectiva haya emitido para
 
 Los usuarios de los vehículos del Servicio Público de Transporte deberán recibir, al pagar el importe de su pasaje, un boleto cuyas características determine la Secretaría.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 170.
 
-Los usuarios de cualquier Servicio Público de Transporte o de Servicio Mercantil tienen derecho a exigir de los prestadores del servicio, que cumplan con las características propias del mismo, así como con todas las disposiciones que al respecto establece la Ley y el presente Reglamento.
+Los usuarios de cualquier Servicio Público de Transporte o de Servicio Mercantil tienen derecho a exigir de los prestadores del servicio, que cumplan con las características propias del mismo, así como con todas las disposiciones que al respecto establece la Ley y el presente Reglamento. El incumplimiento podrán hacerlo del conocimiento de la Contraloría.
 
 ###### ARTÍCULO 171.
 
@@ -2331,43 +2309,61 @@ X.- Solicitar con anticipación su descenso en la parada autorizada;
 
 XI.- Abstenerse de tirar basura dentro y fuera o maltratar y pintar, las unidades del Servicio Público de Transporte y del Servicio Mercantil, y
 
-XII.- Denunciar toda anomalía que observe en la prestación del Servicio Público de Transporte y del Servicio Mercantil ante la Secretaría.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
+
+XII. Denunciar toda anomalía que observe en la prestación del Servicio Público de Transporte y del Servicio Mercantil ante la Secretaría y la Contraloría.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 173.
 
-Los usuarios deberán viajar en el interior de los vehículos, absteniéndose de hacerlo en salpicaderas, estribos, plataformas o cualquier otra parte externa de los mismos; tampoco lo harán de manera que alguna parte de su cuerpo sobresalga del vehículo y pueda ser lesionado.
+Los usuarios deberán viajar en el interior de los vehículos, absteniéndose de hacerlo en salpicaderas, estribos, plataformas o cualquier otra parte externa de los mismos; tampoco lo harán de manera que alguna parte de su cuerpo sobresalga del vehículo y pueda ser lesionado, la observancia de estas disposiciones será supervisada y vigilada por la Contraloría.
 
 ## TÍTULO SÉPTIMO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE
 
 ### CAPÍTULO I. CLASIFICACIÓN DE LOS SERVICIOS AUXILIARES
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 174.
 
-Son Servicios Auxiliares los bienes muebles e inmuebles inherentes a la prestación del Servicio Público de Transporte y del Servicio Mercantil, previstos en la Ley y el Reglamento respectivo.
+Son Servicios Auxiliares los bienes muebles e inmuebles inherentes a la prestación del Servicio Público de Transporte y del Servicio Mercantil, previstos en la Ley y este Reglamento.
 
 La Secretaría regulará los Servicios Auxiliares siguientes:
 
-I.- Las terminales de pasajeros;
+I. Las terminales de pasajeros;
 
-II.- Las terminales interiores de carga;
+II. Los paraderos que conforman el Sistema de Transporte Público Masivo;
 
-III.- Las terminales de transferencia;
+III. Los Centros y/o Terminales de Transferencia del Sistema de Transporte Público Masivo;
 
-IV.- Los sitios;
+IV. Los Centros y/o Terminales de Transferencia Multimodal del Sistema de Transporte Público Masivo;
 
-V.- La base de servicio público;
+V. Los talleres de mantenimiento del Sistema de Transporte Público Masivo;
 
-VI.- El arrastre, traslados y depósito de vehículos del Servicio Público de Transporte y del Servicio Mercantil;
+VI. Los patios de encierro del Sistema de Transporte Público Masivo;
 
-VII.- Los centros de capacitación y adiestramiento, y
+VII. Las terminales interiores de carga;
 
-VIII.- Los demás que sean necesarios para el mejoramiento del Servicio Público de Transporte y del Servicio Mercantil.
+VIII. Las terminales de transferencias;
+
+IX. Los sitios;
+
+X. La base de servicio público;
+
+XI. El arrastre, traslado y depósito de vehículos del Servicio Público de Transporte y el Servicio Mercantil;
+
+XII. Los Centros de Capacitación, Adiestramiento o Profesionalización, y
+
+XIII. Los demás que sean necesarios para el mejoramiento del Servicio Público de Transporte y del Servicio Mercantil.
 
 ### CAPÍTULO II. DE LAS TERMINALES
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 175.
 
-Para los efectos de este Reglamento, se entiende por terminales, los lugares autorizados en donde las empresas que presten el Servicio Público de Transporte de Pasajeros, o del Servicio Mercantil de Carga, sujetos a itinerarios previamente autorizados por la Secretaría, estacionen sus vehículos antes de iniciar o al terminar el recorrido de su ruta.
+Para los efectos de este Reglamento, se entiende por terminales, los lugares autorizados en donde las empresas que presten el Servicio Público de Transporte de Pasajeros o del Servicio Mercantil de Carga, sujetos a itinerarios previamente autorizados por la Secretaría y que estarán debidamente supervisados y vigilados por la Contraloría, estacionen sus vehículos antes de iniciar o al terminar el recorrido de su ruta.
 
 ###### ARTÍCULO 176.
 
@@ -2409,7 +2405,9 @@ Las terminales deberán ubicarse en lugares donde no interrumpan la circulación
 
 Los concesionarios o permisionarios de las lineas del Servicio Público de Transporte o del Servicio Mercantil, en sus respectivas terminales, colocarán rótulos con la denominación de la línea de que se trate, de los lugares que cubre y el horario de llegada y salida del servicio; fijarán en igual forma el precio del importe del pasaje, la clase de servicio y darán toda la información necesaria a los usuarios.
 
-Cuidarán que las instalaciones se conserven en buen estado de limpieza e higiene, que cuenten con el personal especializado para atención del público usuario y no permitirán que los vehículos pertenecientes a sus líneas, suban o desciendan pasaje fuera de las instalaciones de la terminal o hagan estacionamiento en la vía pública, fuera de los lugares determinados por la Secretaría para tal efecto.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
+Cuidarán que las instalaciones se conserven en buen estado de limpieza e higiene, que cuenten con el personal especializado para atención del público usuario y no permitirán que los vehículos pertenecientes a sus líneas, suban o desciendan pasaje fuera de las instalaciones de la terminal o hagan estacionamiento en vía pública, fuera de los lugares determinados por la Secretaría para tal efecto. El cabal cumplimiento de lo dispuesto en este artículo será supervisado y vigilado por la Contraloría.
 
 ###### ARTÍCULO 180.
 
@@ -2417,15 +2415,21 @@ El Servicio de Autotransporte Federal que cuente con el permiso correspondiente;
 
 Queda prohibido para este tipo de servicio realizar ascensos dentro del itinerario que se autorice.
 
-### CAPÍTULO III. DE LOS SITIOS, BASES Y TERMINALES DE TRANSFERENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2014)</small>
+
+### CAPÍTULO III
+
+DE LOS SITIOS, BASES, CENTROS Y/O TERMINALES DE TRANSFERENCIA DEL SISTEMA DE TRANSPORTE PÚBLICO MASIVO; CENTROS Y/O TERMINALES DE TRANSFERENCIA MULTIMODAL DEL SISTEMA DE TRANSPORTE PÚBLICO MASIVO; TALLERES DE MANTENIMIENTO DEL SISTEMA DE TRANSPORTE PÚBLICO MASIVO; PATIOS DE ENCIERRO DEL SISTEMA DE TRANSPORTE PÚBLICO MASIVO Y TERMINALES DE TRANSFERENCIA
 
 ###### ARTÍCULO 181.
 
 Para los efectos de este Reglamento se entiende por sitio el lugar de la vía pública o el predio particular, donde previa autorización de la Secretaría, se estacionen vehículos destinados al Servicio Mercantil, a los que el usuario pueda acudir para su contratación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 182.
 
-Para establecer un sitio, base o terminal, será necesario la autorización de la Secretaría, que se solicite por escrito y se reúnan los siguientes requisitos:
+Para establecer un sitio, base o terminal de transferencia del sistema de transporte público masivo, los centros y/o terminales de transferencia multimodal del sistema de transporte público masivo, los talleres de mantenimiento del sistema de transporte público masivo, los patios de encierro del sistema de transporte público masivo, terminales de transferencia y demás, será necesario la autorización de la Secretaría, que se solicite por escrito y se reúnan los siguientes requisitos:
 
 I.- Nombre y domicilio de la persona física o moral que lo solicite;
 
@@ -2447,7 +2451,7 @@ VII.- Número de unidades y listados de concesionarios o permisionarios que real
 
 ###### ARTÍCULO 183.
 
-La Secretaría, previa inspección del lugar de que se trate, resolverá, si es o no de concederse la autorización, atendiendo las necesidades del público y a que la ubicación del sitio no se encuentre en calles de intensa circulación o en un radio menor de doscientos cincuenta metros con respecto a otro sitio en las zonas urbanas y de ciento cincuenta metros en cuanto a otro tipo de zonas.
+La Secretaria, previa inspección del lugar de que se trate, resolverá, si es o no de concederse la autorización, atendiendo las necesidades del público y a que la ubicación del sitio no se encuentre en calles de intensa circulación o en un radio menor de doscientos cincuenta metros con respecto a otro sitio en las zonas urbanas y de ciento cincuenta metros en cuanto a otro tipo de zonas.
 
 ###### ARTÍCULO 184.
 
@@ -2541,23 +2545,25 @@ IV.- No cumplan con lo establecido en la Ley y el presente Reglamento.
 
 La cancelación o revocación de la concesión, autorización o permiso de los Servicios Auxiliares se hará previa audiencia del interesado.
 
-### CAPÍTULO V. CENTROS DE CAPACITACIÓN Y ADIESTRAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2014)</small>
+
+### CAPÍTULO V. CENTROS DE CAPACITACIÓN, ADIESTRAMIENTO O PROFESIONALIZACIÓN
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 197.
 
-La Secretaría permanentemente promoverá la creación de los Centros de Capacitación y Adiestramiento para todos aquellos conductores de vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil.
+La Secretaría promoverá la creación de los centros de capacitación, adiestramiento o profesionalización para aquellos conductores de vehículos destinados a la prestación del servicio público de transporte y del servicio de transporte mercantil.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 198.
 
-Los interesados en operar un Centro de Capacitación y Adiestramiento para los conductores de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberán contar con la concesión otorgada por la Secretaría, previo pago de derechos correspondientes, la que se otorgará cuando en lo conducente se satisfagan los requisitos previstos por los artículos 117, 118 y 121 del presente Reglamento, así como en los ordenamientos legales aplicables a los que dicte la Secretaría, además acreditar lo siguiente:
+Los interesados en operar un centro de capacitación, adiestramiento o profesionalización para los conductores de los vehículos del servicio público de transporte y del servicio de transporte mercantil, deberán contar con la autorización otorgada por la Secretaría, previo pago de derechos en su caso, la que se otorgará cuando en lo conducente se satisfagan los requisitos previstos en los ordenamientos legales aplicables que dicte la Secretaría, además acreditar:
 
-I.- Tener el reconocimiento y aprobación de la Secretaría del Trabajo y Previsión Social;
+I. Contar con plantilla de instructores capacitados experimentados en materia de vialidad, tránsito y transporte;
 
-II.- Reconocimiento y aprobación de la Secretaría de Educación Pública;
-
-III.- Contar con plantilla de instructores capacitado por la Secretaría de Comunicaciones y Transportes del Estado, avalada por la Secretaría del Trabajo y Previsión Social;
-
-IV.- Presentar programa de estudios para su revisión, el cual deberá estar conformado de los siguientes módulos, como mínimo:
+II. Contar con programas de estudios avalado por alguna institución de educación superior u organismo público o privado con experiencia y prestigio en materia de capacitación, para su revisión, el cual deberá estar conformado de los siguientes módulos:
 
 BÁSICOS
 
@@ -2565,45 +2571,73 @@ a) Educación Vial.
 
 b) Manejo a la Defensiva.
 
-c) Relaciones Humanas.
+c) Relaciones Humanas, incluyendo sensibilización en la atención a personas discapacitadas, adultos mayores y demás grupos vulnerables, y en apego al Modelo de Equidad de Género.
 
-d) Reglamento o Normatividad.
+d) Marco Legal.
 
 e) Educación Ambiental.
 
-f) Mecánica.
+f) Mecánica Básica.
 
-g) Primeros Auxilios
+g) Primeros Auxilios.
 
 OPCIONALES
 
 a) Orientación Turística.
 
-b) Administración de Recursos para permisionarios.
+b) Administración de Recursos para concesionarios, permisionarios, sociedades u organizaciones transportistas.
 
-V.- Contar con instalaciones adecuadas, aulas funcionales y equipadas con medios didácticos tales como T.V., video, proyector de acetatos, pantalla, etc.;
+III. Contar con instalaciones adecuadas, aulas funcionales y equipadas con medios didácticos audiovisuales, compatible con el uso de las tecnologías actuales;
 
-VI.- Contar con unidades para realizar examen práctico;
+IV. Contar con los elementos para realizar examen práctico de manejo;
 
-VII.- Presentar el procedimiento para acreditar que el conductor tomó y aprobó el curso y garantizar que efectivamente está apto para conducir vehículos del Servicio Público de Transporte o del Servicio Mercantil;
+V. Presentar el procedimiento para acreditar que el conductor tomó y aprobó el curso y garantizar que efectivamente está apto para conducir vehículos del Servicio Público de Transporte o del Servicio Mercantil;
 
-VIII.- Proponer un costo accesible del curso;
+VI. Someter a consideración de la Secretaría el costo del curso;
 
-IX.- Proponer el método del seguimiento al desempeño y operación de los conductores que acrediten el curso, integrando una base de datos que contenga el expediente de cada uno de los egresados;
+VII. Integrar una base de datos con cada uno de los egresados, con la información que la Secretaría determine;
 
-X.- Que el curso propuesto tenga una duración mínima de veinte horas, y
+VIII. Que el curso propuesto tenga una duración mínima de veinte horas, y
 
-XI.- Presentar a la autoridad los informes de capacitación de acuerdo con las características que la misma solicite.
+IX. Presentar a la Secretaría los informes de capacitación de acuerdo con las características que la misma solicite.
+
+De igual forma estarán obligados a proporcionar en todo tiempo a los supervisores, los datos, informes y documentos relativos a la prestación del servicio que le sean requeridos y permitir el acceso a las instalaciones.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+ARTÍCULO 198 BIS.- La Secretaría impartirá y promoverá la realización de cursos de capacitación, adiestramiento y/o profesionalización, para todos aquellos conductores de vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio de Transporte Mercantil, así como aquellos destinados a la conducción de vehículos particulares.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+ARTÍCULO 198 TER.- El curso de capacitación y adiestramiento impartido por la Secretaría tendrá vigencia de un año, emitiendo la acreditación correspondiente.
+
+REQUISITOS:
+
+I. Saber leer y escribir;
+
+II. Copia certificada del acta de nacimiento expedida por el Registro Civil;
+
+III. Acreditar identidad mediante documento oficial con fotografía y firma del titular, en los términos que la Secretaría determine;
+
+IV. Comprobante domiciliario cuya fecha de expedición no sea mayor a tres meses, o recibo de pago que cubra la totalidad del ejercicio fiscal vigente;
+
+V. Dos fotografías recientes;
+
+VI. Aprobar examen de conocimientos, y
+
+VII. Pago de derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 199.
 
-Son causas de revocación de la concesión:
+La autorización a la que se refiere el artículo 198 del presente Reglamento, podrá ser revocada por las siguientes causas:
 
-I.- No cumplir con el programa aprobado por la Secretaría de Comunicaciones y Transportes;
+I. No cumplir con el programa aprobado por la Secretaría;
 
-II.- Detectar corrupción en el proceso para otorgar la acreditación de los conductores, y
+II. Detectar corrupción en el proceso para otorgar la acreditación de las personas capacitadas, y
 
-III.- Detectar continuas fallas al Reglamento por parte de las personas capacitadas.
+III. Detectar continuas faltas o inobservancias al presente Reglamento por parte de los centros de capacitación, adiestramiento o profesionalización.
 
 ###### ARTÍCULO 200.
 
@@ -2621,15 +2655,17 @@ Contra actos definitivos de la autoridad, que el particular, el concesionario o 
 
 Se entiende por acto definitivo aquel que pone fin a un procedimiento de los establecidos en la Ley y el presente Reglamento.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 202.
 
-El Recurso de Inconformidad se interpondrá por escrito ante la Dirección de Asuntos Jurídicos de la Secretaría de Comunicaciones y Transportes, dentro de los ocho días siguientes a la notificación del acto recurrible y contendrá:
+El Recurso de Inconformidad se interpondrá por escrito, dependiendo de la autoridad que haya emitido el acto que se recurra, ante la Coordinación General de Asuntos Jurídicos de la Secretaría o ante el Instituto de Supervisión y Vigilancia, según sea el caso, el cual deberá ser presentado dentro de los ocho días siguientes a la notificación del acto recurrible y contendrá:
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 I.- Nombre del recurrente debiendo acompañar el documento con el que acredite la personalidad con la que se ostente y, señalar domicilio en la ciudad de Puebla para recibir notificaciones personales, en caso contrario, se practicarán por estrados;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
 II.- Nombre y domicilio de la persona física o jurídica que tenga interés jurídico en que subsista o prevalezca el acto reclamado, si existiere;
 
@@ -2641,11 +2677,15 @@ III.- Acto recurrido y fecha en que se le notificó o tuvo conocimiento del mism
 
 IV.-Manifestación del inconforme, bajo protesta de decir verdad, de los hechos y abstenciones que tengan relación con el acto reclamado;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
+
 V.- Expresión de agravios que causa el acto que se impugna, conceptos de violación y disposiciones legales que estime violadas;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 VI.- El ofrecimiento y aportación de pruebas; y
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2002)</small>
 
 VII.- En su caso, la solicitud de la suspensión del acto reclamado.
 
@@ -2771,17 +2811,25 @@ Las notificaciones personales surtirán sus efectos el día en que hubieren sido
 
 Se tendrá como fecha de notificación por correo certificado, la que conste en el acuse de recibo.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 211.
 
-En las actas de infracción que al efecto elaboren los supervisores con motivo de alguna o algunas violaciones a las normas previstas en la Ley y este Reglamento, surtirán sus efectos legales desde el momento de su realización y el plazo para la interposición del recurso que señale este Reglamento, empezará a transcurrir a partir del día hábil siguiente a aquél en que se haya emitido la referida acta de infracción.
+En las boletas de infracción que al efecto elaboren los supervisores con motivo de alguna o algunas violaciones a las normas previstas en la Ley y este Reglamento, surtirán sus efectos legales desde el momento de su realización y el plazo para la interposición del Recurso que señale este Reglamento, empezará a transcurrir a partir del día hábil siguiente a aquél en que se haya emitido la referida boleta de infracción.
+
+En las boletas de infracción que elabore la Secretaría en su respectivo ámbito de competencia con motivo de alguna o algunas violaciones a las normas previstas en la Ley y este Reglamento, surtirán sus efectos legales desde el momento de su realización y el plazo para la interposición del Recurso que señale este Reglamento, empezará a transcurrir a partir del día hábil siguiente a aquél en que se haya emitido la referida acta de infracción.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 212.
 
-En caso de que el infractor se negare a firmar o recibir el original del acta se asentará razón de tal hecho en la misma y se colocará en lugar visible en el parabrisas de la unidad de que se trate.
+En caso de que el infractor se negare a firmar o recibir el original de la boleta, se asentará razón de tal hecho en la misma y se colocará en lugar visible en el parabrisas de la unidad de que se trate.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 213.
 
-Para el caso de que el infractor no se encuentre presente, el supervisor elaborará el acta de cobro por infracción, en donde asentará la referida circunstancia y los motivos que originen la infracción, procediendo dejar la copia respectiva pegada en el parabrisas del vehículo.
+Para el caso de que el infractor no se encuentre presente, el supervisor elaborará la boleta de infracción, en donde asentará la referida circunstancia y los motivos que originen la infracción, procediendo a dejar la copia respectiva pegada en el parabrisas del vehículo.
 
 ### CAPÍTULO III. SANCIONES
 
@@ -2833,11 +2881,9 @@ VI.- Fenecido el término anterior, se notificará al interesado para que en un 
 
 VII.- Concluido lo anterior, las autoridades competentes tendrán un plazo de veinte días hábiles para dictar la resolución correspondiente.
 
-Contra la resolución que suspenda de forma provisional la concesión o permiso, procede el Recurso de Inconformidad.
+Contra la resolución que suspenda de forma provisional la concesión o permiso, procede el Recurso de inconformidad.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-ARTÍCULO 214 QUÁTER.- La resolución dictada por las autoridades competentes por la que se suspenda provisionalmente una concesión o permiso, subsistirá sin menoscabo de la aplicación de las leyes penales y civiles, según sea el caso.
+(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)ARTÍCULO 214 QUÁTER.- La resolución dictada por las autoridades competentes por la que se suspenda provisionalmente una concesión o permiso, subsistirá sin menoscabo de la aplicación de las leyes penales y civiles, según sea el caso.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2853,13 +2899,17 @@ El infractor que pague la multa dentro de los cinco días hábiles siguientes a 
 
 No se dará curso a ningún trámite relativo a licencias, concesiones o permisos, sin que previamente se hayan cubierto las multas correspondientes y se exhiba, en su caso, el comprobante respectivo.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 218.
 
-Las sanciones que la Secretaría aplique por cualquier violación a la Ley y el presente Reglamento, se impondrán sin perjuicio de las que procedan conforme a la Legislación Penal.
+Las sanciones que la Secretaría y la Contraloría apliquen por cualquier violación a la Ley y el presente Reglamento, se impondrán sin perjuicio de las que procedan conforme a la Legislación Penal.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 219.
 
-El tabulador de infracciones se elaborará, modificará o adicionará por la Secretaría.
+El tabulador de infracciones se elaborará, modificará o adicionará de forma coordinada por la Secretaría y la Contraloría.
 
 ###### ARTÍCULO 220.
 
@@ -2877,13 +2927,19 @@ Las sanciones impuestas se sujetarán para su cobro a lo que establece el Códig
 
 La fuga del infractor también será motivo de sanción.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 224.
 
-Para garantizar el pago de las multas impuestas a los concesionarios o permisionarios con motivo del servicio, se deberá retener por la Secretaría, a través de sus supervisores, la licencia de conducir, la tarjeta de circulación, una de las placas o el vehículo con el que se presta el servicio, pero ésta última medida sólo será procedente en caso de que al menos una de las multas impuestas sea igual o superior a cincuenta días de salario mínimo de acuerdo con el tabulador de infracciones. El propietario del vehículo dispondrá de un plazo de veinte días naturales contados a partir de la fecha en que se fijó la multa para cubrirla, así como los gastos a que hubiere lugar; en caso contrario, se formulará la liquidación y se turnará a la autoridad competente, para su cobro.
+Para garantizar el pago de las multas impuestas a los concesionarios o permisionarios con motivo del servicio, se deberá retener por la Contraloría, a través de sus supervisores, la licencia de conducir, la tarjeta de circulación, una de las placas o el vehículo con el que se presta el servicio, pero ésta última medida sólo será procedente en caso de que al menos una de las multas impuestas sea igual o superior a cincuenta días de salario mínimo de acuerdo con el tabulador de infracciones.
+
+El propietario del vehículo dispondrá de un plazo de veinte días naturales contados a partir de la fecha en que se fijó la multa para cubrirla, así como los gastos a que hubiere lugar; en caso contrario, se formulará la liquidación y se turnará a la Secretaría de Finanzas y Administración, para su cobro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 225.
 
-Para la devolución de los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, que hayan sido detenidos con motivo de una violación a las normas previstas en la Ley y en este Reglamento, se requiere:
+Para la devolución de los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, que hayan sido detenidos o asegurados con motivo de una violación a las normas previstas en la Ley y en este Reglamento, se requiere:
 
 I.- Factura o carta factura vigente;
 
@@ -2909,19 +2965,25 @@ Para la devolución de la licencia para conducir, la tarjeta de circulación o l
 
 En caso de que el vehículo no esté autorizado para prestar el Servicio Público de Transporte o el Servicio Mercantil, la devolución del mismo se hará cubriendo los requisitos señalados en las fracciones I, III, IV, V y VI del artículo 225 del presente Reglamento; además, deberá exhibir las placas de circulación del vehículo en cuestión y despintar el mismo si tiene los colores relativos al Servicio Público de Transporte o al Servicio Mercantil.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 228.
 
-El trámite de devolución de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberá hacerse por el propietario, o por su representante legal debidamente acreditado ante la Secretaría de Comunicaciones y Transportes, si es persona física, o a través de su representante legal, si es persona moral.
+El trámite de devolución de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, deberá hacerse por el propietario o por su representante legal debidamente acreditado ante la Secretaría, si es persona física, o a través de su representante legal, si es persona moral.
 
 ###### ARTÍCULO 229.
 
 En la detención de vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil por violación a cualquiera de las normas de la Ley y este Reglamento, y los ordenamientos legales correspondientes, se elaborará un inventario del vehículo detenido, de acuerdo al formato impreso, el cual será firmado por el conductor infractor, el conductor de la grúa que lo traslade en caso de utilizarse y el responsable del resguardo. En caso de que el infractor se negare a firmar, se asentará razón de dicha negativa, sin que ello afecte su validez.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2002)</small>
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2014)</small>
+
+Los vehículos se depositarán en los corralones a cargo de la Secretaría.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 230.
 
-Cualquier trámite que se realice ante la Secretaría, deberá presentarse por escrito, y firmado por el interesado; en los casos en que el Reglamento no disponga otra cosa. Si dentro del término de treinta días hábiles posteriores al inicio de cualquier trámite, el promovente no realiza ninguna actuación, se declarará el abandono del mismo, quedando sin efecto alguno y considerándose como no iniciado.
+Cualquier trámite que se realice ante la Secretaría o la Contraloría, a que se refiere la Ley y este reglamento, deberá presentarse por escrito, y firmado por el interesado, en los casos en que el Reglamento no disponga otra cosa. Si dentro del término de treinta días hábiles posteriores al inicio de cualquier trámite, el promovente no realiza ninguna actuación, se declarará el abandono del mismo, quedando sin efecto alguno y considerándose como no iniciado.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2002)</small>
 
@@ -2969,7 +3031,7 @@ Las cuestiones accidentales que se deriven de la aplicación del presente Reglam
 
 Dado en la Ciudad de Puebla de Zaragoza, en la sede del Poder Ejecutivo, a los dieciocho días del mes de junio de mil novecientos noventa y nueve. El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.- El Secretario de Comunicaciones y Transportes.- INGENIERO ARTURO ACHARD VELÁZQUEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 8 DE MARZO DE 2002.
 
@@ -2986,3 +3048,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- Las licencias para conducir otorgadas por la Secretaría hasta antes de la entrada en vigor de este Decreto, conservarán su vigencia en los términos correspondientes.
 
 CUARTO.- Los conductores o choferes que hayan obtenido la licencia temporal de entrenamiento de chofer del Servicio Público y del Servido Mercantil, conforme a las disposiciones que se derogan por el presente Decreto, podrán obtener la licencia de chofer para el Servicio Público de Transporte o la licencia de chofer para el Servido de Transporte Mercantil, según corresponda.
+
+P.O. 20 DE ENERO DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Es facultad de los Titulares de la Secretaría y de la Contraloría, interpretar en el ámbito de su competencia, las disposiciones de este Reglamento y resolver cualquier duda que suscite su aplicación.
+
+CUARTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto a que se refiere el artículo primero transitorio y que se relaciona con las facultades dadas a la Secretaría de la Contraloría, se sustanciarán por la Secretaría de Transportes en el ámbito de su competencia hasta su total solución.
