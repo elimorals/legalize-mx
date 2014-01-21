@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-penales-del-estado-de-michoacan-12507"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-08-31"
-last_updated: "2013-02-19"
+last_updated: "2014-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MIC"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACAN
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE FEBRERO DE 2014 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACÁN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN LA QUINTA SECCIÓN DEL P.O. DE 13 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL 22 DE OCTUBRE DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2014.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -3301,9 +3303,9 @@ II.- Que garantice las sanciones pecuniarias, que en su caso, puedan imponérsel
 
 III.- Que caucione el cumplimiento de las obligaciones a su cargo, que la ley establece en razón del proceso.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2014)</small>
 
-No procede conceder la libertad provisional bajo caución en los delitos graves previstos en los siguientes artículos del Código Penal: 57, homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes; 108, homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de Gobierno y rebeldes; 109, rebelión, ejecutado por extranjeros; 120, evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave; 132, delincuencia organizada; 137 fracción VIII y último párrafo, ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado, y para realizar las conductas de que habla el citado precepto se valga de explosivos;. (sic) 138, incendio de un vehículo del servicio público ocupado por una o más personas; 158, terrorismo; 162 Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 164 y 165 pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 203 bis, falsificación de documentos y uso de documentos falsos; 220, incesto; 228, secuestro; 229 bis, tráfico de personas, sus miembros y órganos; 236 y 236 bis, extorsión; 237 y 238, asalto; 240, violación; 246, abusos deshonestos perpetrados en las hipótesis normativas consistentes en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa; 264, homicidio simple intencional; 265, homicidio en riña o duelo; 267, homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279; 270 fracciones IV y V, lesiones perpetradas dolosamente; 271, lesiones dolosas que pongan en peligro la vida; 283, parricidio; 283 bis, filicidio; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII, X y XI en relación a las modalidades establecidas en el primero y segundo párrafos; 312 fracción III y 313, abigeato; 330, último párrafo, despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal; 334, daño en las cosas por incendio, inundación o explosión; 347 fracciones II y III y 348, delitos contra la ecología.
+No procede conceder la libertad provisional bajo caución en los delitos graves previstos en los siguientes artículos del Código Penal: 57, homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes; 108, homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de Gobierno y rebeldes; 109, rebelión, ejecutado por extranjeros; 120, evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave; 132, delincuencia organizada; 135 quinquies, delitos contra el Sistema de Seguridad Pública; 137 fracción VIII y último párrafo, ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado, y para realizar las conductas de que habla el citado precepto se valga de explosivos;. (sic) 138, incendio de un vehículo del servicio público ocupado por una o más personas; 158, terrorismo; 162 Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 164 y 165 pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 203 bis, falsificación de documentos y uso de documentos falsos; 220, incesto; 228, secuestro; 229 bis, tráfico de personas, sus miembros y órganos; 230, desaparición forzada; 236 y 236 bis, extorsión; 237 y 238, asalto; 240, violación; 246, abusos deshonestos perpetrados en las hipótesis normativas consistentes en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa; 264, homicidio simple intencional; 265, homicidio en riña o duelo; 267, homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279; 270 fracciones IV y V, lesiones perpetradas dolosamente; 271, lesiones dolosas que pongan en peligro la vida; feminicidio, 280; homicidio por discriminación a la preferencia sexual, 281; 283, parricidio; 283 bis, filicidio; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII, X y XI en relación a las modalidades establecidas en el primero y segundo párrafos; 312 fracción III y 313, abigeato; 330, último párrafo, despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal; 334, daño en las cosas por incendio, inundación o explosión; 347 fracciones II y III y 348, delitos contra la ecología.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -4462,3 +4464,9 @@ P.O. 19 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE ENERO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, a través de las comisiones correspondientes, expedirá las reformas que sean necesarias a los demás ordenamientos legales estatales, para adaptarlas al presente Decreto.
