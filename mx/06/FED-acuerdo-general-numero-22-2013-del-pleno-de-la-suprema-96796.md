@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-22-2013-del-pleno-de-la-suprema-96796"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-09"
-last_updated: "2013-12-09"
+last_updated: "2014-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96796&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-29"
 
 ACUERDO GENERAL NÚMERO 22/2013, DE VEINTIOCHO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN DE LAS CONTRADICCIONES DE TESIS DEL CONOCIMIENTO DE LOS PLENOS DE CIRCUITO, EN LAS QUE SE ABORDEN LOS TEMAS RELATIVOS AL PLAZO PARA PROMOVER DEMANDA DE AMPARO CONTRA SENTENCIAS CONDENATORIAS QUE IMPONGAN PENA DE PRISIÓN, ACTOS DENTRO DEL JUICIO PENAL QUE AFECTEN LA LIBERTAD PERSONAL Y ACTOS QUE IMPLIQUEN ATAQUES A LA LIBERTAD PERSONAL FUERA DE PROCEDIMIENTO, DICTADOS ANTES O CON POSTERIORIDAD A LA ENTRADA EN VIGOR DE LA LEY DE AMPARO, PUBLICADA EL DOS DE ABRIL DE DOS MIL TRECE, EN VIGOR A PARTIR DEL DÍA TRES SIGUIENTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ENERO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 9 de diciembre de 2013.
 
@@ -51,10 +51,20 @@ TRANSITORIOS:
 
 PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL TRECE DE ENERO DE DOS MIL CATORCE POR EL QUE SE MODIFICA EL PUNTO TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 22/2013, D.O.F. 21 DE ENERO DE 2014)</small>
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; hágase del conocimiento tanto del Consejo de la Judicatura Federal como de los Juzgados de Distrito y de los Tribunales de Circuito y, para su cumplimiento, de los Plenos de Circuito.
 
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Silva Meza.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
 
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 22/2013, DE VEINTIOCHO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN DE LAS CONTRADICCIONES DE TESIS DEL CONOCIMIENTO DE LOS PLENOS DE CIRCUITO, EN LAS QUE SE ABORDEN LOS TEMAS RELATIVOS AL PLAZO PARA PROMOVER DEMANDA DE AMPARO CONTRA SENTENCIAS CONDENATORIAS QUE IMPONGAN PENA DE PRISIÓN, ACTOS DENTRO DEL JUICIO PENAL QUE AFECTEN LA LIBERTAD PERSONAL Y ACTOS QUE IMPLIQUEN ATAQUES A LA LIBERTAD PERSONAL FUERA DE PROCEDIMIENTO, DICTADOS ANTES O CON POSTERIORIDAD A LA ENTRADA EN VIGOR DE LA LEY DE AMPARO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL DOS DE ABRIL DE DOS MIL TRECE, EN VIGOR A PARTIR DEL DÍA TRES SIGUIENTE, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de diez votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Luis María Aguilar Morales, Sergio A. Valls Hernández, Alberto Pérez Dayán y Presidente Juan N. Silva Meza. La señora Ministra Olga Sánchez Cordero de García Villegas estuvo ausente, previo aviso.- México, Distrito Federal, a veintiocho de noviembre de dos mil trece.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de siete fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 22/2013, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a veintinueve de noviembre de dos mil trece.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE ENERO DE 2014.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación, y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 22/2013 en dichos medios electrónicos.
