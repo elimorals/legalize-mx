@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-comisiones-del-consejo-estatal-electoral-y-de-830
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-22"
-last_updated: "2011-09-22"
+last_updated: "2014-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO DE COMISIONES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA, DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO DE COMISIONES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO DE COMISIONES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 22 de septiembre de 2011.
 
@@ -155,9 +155,13 @@ Los Consejeros Comisionados podrán ser ratificados o relevados anualmente media
 
 El Presidente de la Comisión respectiva será designado de entre ellos por los propios Comisionados, dentro de los diez días hábiles siguientes a la fecha que el Pleno resuelva el acuerdo de su integración, debiendo hacerlo del conocimiento del Consejero Presidente y del Pleno en su próxima sesión.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2014)</small>
+
 ###### Artículo 15.
 
-En las Comisiones Permanentes y Temporales actuará como Secretario Técnico, el titular del órgano o unidad del Consejo relacionado con la materia que corresponda, y como suplente, un funcionario del área respectiva. Serán designados por acuerdo del Pleno a propuesta del Consejero Presidente.
+En las Comisiones Permanentes y Temporales actuará como Secretario Técnico preferentemente el titular del órgano o unidad del Consejo relacionado con la materia que corresponda; y como suplente, un funcionario del área respectiva.
+
+Serán designados por acuerdo del Pleno a propuesta de las Comisiones respectivas y del Consejero Presidente.
 
 ###### Artículo 16.
 
@@ -618,3 +622,11 @@ Lic. Rafael Rentería Armendáriz
 Secretario de Actas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ENERO DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Publíquese para los efectos legales procedentes.
