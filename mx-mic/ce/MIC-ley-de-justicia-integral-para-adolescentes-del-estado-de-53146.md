@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-integral-para-adolescentes-del-estado-de-53146"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-16"
-last_updated: "2009-05-21"
+last_updated: "2014-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE MICHOACAN DE OCAMPO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE FEBRERO DE 2014 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
+LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el martes 16 de enero del 2007.
 
@@ -267,39 +269,41 @@ El internamiento en régimen cerrado consiste en la reclusión continua del adol
 
 Excepcionalmente, y por razón de seguridad, los internos que hayan cumplido dieciocho años, a consideración del Juez Especializado, podrán ser trasladados a los Centros de Readaptación Social, en régimen especial.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2014)</small>
+
 ###### Artículo 28.
 
 El internamiento en régimen cerrado podrá imponerse cuando el adolescente haya cometido dolosamente cualquiera de las siguientes conductas previstas por el Código Penal:
 
-I. Incendio de un vehículo del servicio público ocupado por una o más personas, artículo 138;
+I. Delitos contra el Sistema de Seguridad Pública, artículo 133 quinquies;
 
-II. Terrorismo, artículo 158;
+II. Incendio de un vehículo del servicio público ocupado por una o más personas, artículo 138;
 
-III. Pornografia y turismo sexual, artículos 164 y 165;
+III. Terrorismo, artículo 158;
 
-IV. Secuestro, artículo 228;
+IV. Pornografía y turismo sexual, artículos 164 y 165;
 
-V. Trafico de personas, sus miembros y órganos, artículo 229 bis;
+V. Secuestro, artículo 228;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2009)</small>
+VI. Tráfico de personas, sus miembros y órganos, artículo 229 bis;
 
-VI. Extorsión, artículos 236 y 236 bis;
+VII. Extorsión, artículo 236 y 236 bis;
 
-VIl. Asalto, artículo 237;
+VIII. Asalto, artículo 237;
 
-VIII. Violación, artículo 240;
+IX. Violación, artículo 240;
 
-IX. Abusos deshonestos, artículo 246;
+X. Abusos deshonestos, artículo 246;
 
-X. Homicidio, artículos 260, 264 Y 267;
+XI. Homicidio, artículos 260, 264 y 267;
 
-XI. Lesiones, artículo 270 fracciones IV y V;
+XII. Lesiones, artículo 270 fracciones IV y V;
 
-XII. Parricidio, artículo 283;
+XIII. Parricidio, artículo 283;
 
-XIII. Filicidio, artículo 283 bis; y,
+XIV. Filicidio, artículo 283 bis; y,
 
-XIV. Robo, artículo 303 fracción I.
+XV. Robo, artículo 303 fracción I.
 
 ### Capítulo VIII. Libertad Asistida
 
@@ -677,7 +681,7 @@ El Juez Especializado, atendiendo las circunstancias en que se cometió el hecho
 
 El Juez Especializado al momento de emitir la medida impuesta al adolescente tomará en consideración:
 
-l. El interés mostrado por el adolescente de integrarse a la sociedad;
+I. El interés mostrado por el adolescente de integrarse a la sociedad;
 
 II. El tipo del hecho ilícito;
 
@@ -689,9 +693,9 @@ V. La lesión o puesta en peligro del bien jurídico penalmente protegido;
 
 VI. Las condiciones personales, familiares y sociales del adolescente;
 
-Vll. La concurrencia de atenuantes o agravantes; y,
+VII. La concurrencia de atenuantes o agravantes; y,
 
-Vlll. El diagnóstico que con base a las anteriores consideraciones haga el Consejo Técnico y la idoneidad del tratamiento que éste recomiende para la integración del adolescente a la sociedad.
+VIII. El diagnóstico que con base a las anteriores consideraciones haga el Consejo Técnico y la idoneidad del tratamiento que éste recomiende para la integración del adolescente a la sociedad.
 
 ###### Artículo 90.
 
@@ -781,9 +785,9 @@ La revisión procederá contra la sentencia firme, en todo tiempo, y únicamente
 
 I. Los hechos tenidos como fundamento de la medida resulten incompatibles con los establecidos por otra sentencia firme;
 
-ll. La sentencia impugnada se haya fundado en prueba documental o testimonial cuya falsedad se haya declarado en fallo posterior firme o resulte evidente aunque no exista un proceso posterior;
+II. La sentencia impugnada se haya fundado en prueba documental o testimonial cuya falsedad se haya declarado en fallo posterior firme o resulte evidente aunque no exista un proceso posterior;
 
-lll. La sentencia condenatoria haya sido pronunciada a consecuencia de cohecho, violencia o en cualquiera de las hipótesis a que se refiere el Código Penal en lo relativo a los delitos contra la administración de justicia u otra argumentación fraudulenta, cuya existencia se haya declarado en fallo posterior firme;
+III. La sentencia condenatoria haya sido pronunciada a consecuencia de cohecho, violencia o en cualquiera de las hipótesis a que se refiere el Código Penal en lo relativo a los delitos contra la administración de justicia u otra argumentación fraudulenta, cuya existencia se haya declarado en fallo posterior firme;
 
 IV. Después de la sentencia sobrevengan hechos nuevos o elementos de prueba que solos o unidos a los ya examinados en el proceso, hagan evidente que el hecho no existió, que el adolescente no lo cometió o que el hecho cometido no es punible o corresponda aplicar una ley o norma más favorable; y,
 
@@ -961,9 +965,9 @@ V. La Dirección de Integración para Adolescentes
 
 VI. Los Centros de Integración para Adolescentes;
 
-VIl. Los Oficiales de Vigilancia; y,
+VII. Los Oficiales de Vigilancia; y,
 
-Vlll. El Consejo Técnico para la Integración del Adolescente.
+VIII. El Consejo Técnico para la Integración del Adolescente.
 
 ### Capítulo II. Ministerio Público Especializado
 
@@ -1017,7 +1021,7 @@ V. Asegurar en todo momento el respeto irrestricto de los derechos y garantías 
 
 VI. Supervisar y evaluar a los Centros de Integración para Adolescentes, asegurando que se apeguen a lo dispuesto por la presente Ley;
 
-VIl. Integrar expedientes individuales de ejecución de la medida que contenga, por lo menos, la siguiente información:
+VII. Integrar expedientes individuales de ejecución de la medida que contenga, por lo menos, la siguiente información:
 
 a) Datos de identidad de la persona sujeta a la medida y, en su caso, la información relativa a ingresos previos;
 
@@ -1079,7 +1083,7 @@ II. Las unidades administrativas correspondientes.
 
 El diseño y construcción de los Centros tendrá como prioridad básica el interés superior del menor atendiendo como fin, la integración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades; con tal propósito los Centros deberán contar, además con áreas dedicadas a:
 
-l. Actividades escolares, que tendrán establecidos programas de educación media y media superior, además de la destinada a alfabetización y combate a la marginalidad. Los menores que presenten problemas cognitivos o de aprendizaje tendrán derecho a enseñanza especial;
+I. Actividades escolares, que tendrán establecidos programas de educación media y media superior, además de la destinada a alfabetización y combate a la marginalidad. Los menores que presenten problemas cognitivos o de aprendizaje tendrán derecho a enseñanza especial;
 
 II. La capacitación laboral, que tendrá establecidos programas que permitan al adolescente integrarse a la sociedad mediante el aprendizaje de un arte u ofició;
 
@@ -1091,9 +1095,9 @@ V. La visita familiar;
 
 VI. La visita íntima;
 
-VIl. Los servicios jurídicos; y,
+VII. Los servicios jurídicos; y,
 
-VIll. Las anteriores áreas deberán contar con servicios que satisfagan las exigencias de higiene y dignidad humana.
+VIII. Las anteriores áreas deberán contar con servicios que satisfagan las exigencias de higiene y dignidad humana.
 
 ###### Artículo 136.
 
@@ -1127,7 +1131,7 @@ V. Solicitar su internamiento con otra familia o en el Centro de Integración pa
 
 VI. Dar parte al Ministerio Público Especializado cuando los padres, tutores o quienes tengan a su cargo la patria potestad, la guarda y custodia o los representes legales del adolescente, dolosamente permitan, favorezcan o lo induzcan al quebranto de la sanción que está cumpliendo; y,
 
-VIl. Notificar al Juez Especializado de la causa, cuando el adolescente quebrante la medida, solicitando en su caso, se decrete la medida o tratamiento adecuado.
+VII. Notificar al Juez Especializado de la causa, cuando el adolescente quebrante la medida, solicitando en su caso, se decrete la medida o tratamiento adecuado.
 
 ### Capítulo IX. Órganos Auxiliares
 
@@ -1199,8 +1203,14 @@ PRESIDENTE.- DIP. MAURlCIO MONTOYA MANZO. PRIMER SECRETARIO.- DIP. MARTÍN GODOY
 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 19 diecinueve días del mes de diciembre del año 2006 dos mil.
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 21 DE MAYO DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE ENERO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, a través de las comisiones correspondientes, expedirá las reformas que sean necesarias a los demás ordenamientos legales estatales, para adaptarlas al presente Decreto.
