@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2013-12-19"
+last_updated: "2014-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -285,7 +285,9 @@ j) Cualquier otra actividad que produzca o pueda producir daño o deterioro ambi
 
 II. Afectación ambiental: La pérdida, menoscabo o modificación de las condiciones químicas, físicas o biológicas de la flora y fauna silvestres, del paisaje, suelo, subsuelo, agua, aire o de la estructura y funcionamiento de los ecosistemas y la afectación a la integridad de la persona es la introducción no consentida en el organismo humano de uno o más contaminantes, la combinación o derivación de ellos que resulte directa o indirectamente de la exposición a materiales o residuos y de la liberación, descarga, desecho, infiltración o incorporación ilícita de dichos materiales o residuos en la atmósfera, en el agua, en el suelo, en el subsuelo y en los mantos freáticos o en cualquier medio o elemento natural.
 
-III. Ambiente: Conjunto de elementos biofíscos (sic) que hacen posible la existencia y el desarrollo del (sic) la especie humana y de los demás organismos vivos que interactúan y se relacionan en un espacio y tiempo determinados, así como elementos artificiales inducidos por el ser humano;
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+III. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
 
 IV. Aprovechamiento sostenible o sustentable: La utilización de los elementos y recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte por periodos indefinidos;
 
@@ -324,6 +326,10 @@ XIX. Deterioro ambiental: La afectación ambiental causada como consecuencia de 
 XX. Ecocidio: El daño o destrucción que atenta contra la biodiversidad y sus asociados, llevada a cabo por las acciones del ser humano;
 
 XXI. Ecosistema: La unidad natural funcional básica de interacción dinámica de componentes de los organismos vivos, no vivos y su medio que interactúan formando un sistema estable que se desarrolla en función de los factores físicos de un mismo ambiente;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XXI Bis. Educación Ambiental: Es un proceso que comprende la presentación sistemática de información que favorezca la asimilación de conocimientos dirigido a toda la sociedad, a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente;
 
 XXII. Ejecutivo Estatal: El Gobernador del Estado de México y las dependencias de la administración pública estatal en materia ambiental;
 
@@ -499,7 +505,9 @@ VIII. Prevenir y controlar la contaminación generada por el aprovechamiento de 
 
 IX. Evaluar y dictaminar en la competencia estatal el impacto ambiental de los proyectos, obras, acciones y servicios que se ejecuten o pretendan ejecutar en el Estado de conformidad con las normas oficiales mexicanas y las demás disposiciones aplicables;
 
-X. Expedir la declaratoria y los lineamientos necesarios para la regulación, administración y vigilancia de las áreas naturales protegidas del Estado;
+> <small>(REFORMADA G.G. 22 DE ENERO DE 2014)</small>
+
+X. Expedir los lineamientos necesarios para la regulación, administración y vigilancia de las áreas naturales protegidas del Estado;
 
 XI. Atender coordinadamente con la Federación los asuntos que afecten a la biodiversidad, el equilibrio ecológico del Estado y otra u otras Entidades Federativas en la prevención y control de emergencias o contingencias ambientales;
 
@@ -687,7 +695,7 @@ XXXV. Las demás que establezcan otras disposiciones aplicables.
 
 ###### Artículo 2.
 
-16. La Secretaría organizará el Sistema Estatal de Información Pública Ambiental y coordinará el Centro Geomático y al Instituto Estatal de Energía y Cambio Climático, con el objeto de obtener, generar y procesar la información relativa al agua, el aire, el suelo, la flora, la fauna y la biodiversidad en general, así como las emisiones de gases de efecto invernadero que provocan el cambio climático, los proyectos o actividades de mitigación o reducción de emisiones y la vulnerabilidad a sus efectos.
+16. La Secretaría organizará el Sistema Estatal de Información Pública Ambiental y coordinará el Centro Geomático Ambiental y al Instituto Estatal de Energía y Cambio Climático, con el objeto de obtener, generar y procesar la información relativa al agua, el aire, el suelo, la flora, la fauna y la biodiversidad en general, así como las emisiones de gases de efecto invernadero que provocan el cambio climático, los proyectos o actividades de mitigación o reducción de emisiones y la vulnerabilidad a sus efectos.
 
 ###### Artículo 2.
 
@@ -1457,7 +1465,9 @@ IV. Ejecutar acciones que contravengan lo dispuesto por el presente Libro, la de
 
 96. Los parques estatales se constituirán, tratándose de representaciones biogeográficas a nivel estatal de uno o más ecosistemas que tengan importancia por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico y por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo sostenible o bien por otras razones análogas de interés general.
 
-En los parques estatales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus elementos naturales, el incremento de su flora y fauna, y en general con la preservación de los ecosistemas y de sus elementos, así como con la investigación, recreación, turismo, cultura y educación ecológicas. Por lo que respecta a las actividades de investigación, recreación, turismo y educación ecológicos a los parques estatales no les será aplicable lo establecido en el artículo 2.91 del presente Libro.
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+
+En los parques estatales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus elementos naturales, el incremento de su flora y fauna, y en general con la preservación de los ecosistemas y de sus elementos, así como actividades de investigación, recreación, turismo, cultura y educación ambiental, previa autorización de la autoridad competente.
 
 ###### Artículo 2.
 
@@ -1521,7 +1531,7 @@ La Secretaría deberá tomar en cuenta los comentarios recibidos y poner a dispo
 
 ###### Articulo 2.
 
-106. Una vez establecida un área natural protegida sólo podrá ser modificada su extensión y los usos de suelo permitidos por la autoridad competente de conformidad con los estudios que al efecto se realicen en los términos del presente Libro.
+106. (DEROGADO, G.G. 22 DE ENERO DE 2014)
 
 ###### Artículo 2.
 
@@ -1563,9 +1573,11 @@ II. Restringir o prohibir actividades que puedan alterar los ecosistemas, impone
 
 III. La promoción para generar nuevos patrones de desarrollo regional acordes con objetivos de sostenibilidad en el territorio de las áreas naturales protegidas y sus zonas de influencia.
 
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+
 ###### Artículo 2.
 
-111. Una vez establecida un área natural protegida sólo podrá ser modificada su extensión y los usos del suelo permitidos o cualquiera de sus disposiciones por la autoridad que la haya establecido, siguiendo las mismas formalidades previstas en el presente Libro para la expedición de la declaratoria respectiva.
+111. Una vez establecida un área natural protegida sólo podrá ser modificada su extensión y los usos del suelo permitidos o cualquiera de sus disposiciones por la autoridad competente que la haya establecido, de conformidad con los estudios que al efecto se realicen, siguiendo las mismas formalidades previstas en el presente Libro para la expedición de la declaratoria respectiva.
 
 ###### Articulo 2.
 
@@ -1971,7 +1983,9 @@ d) Promover y regular la aplicación de tecnologías apropiadas para el reciclad
 
 II. A los Ayuntamientos les corresponderá:
 
-a) Llevar y actualizar el registro de las descargas en las redes de drenaje y alcantarillado que administren debiendo proporcionarlo a la Secretaría y a las dependencias federales competentes para que sea integrado al Registro Nacional de Descargas.
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+
+a) Llevar y actualizar el registro de las descargas en las redes de drenaje y alcantarillado que administren debiendo proporcionarlo semestralmente a la Secretaría y a las dependencias federales competentes para que sea integrado al Registro Nacional de Descargas.
 
 b) Observar el cumplimiento de las condiciones generales de descarga que fijen las dependencias federales que corresponda a las aguas residuales vertidas por los sistemas de drenaje y alcantarillado en cuerpos y corrientes de agua de propiedad federal.
 
@@ -7592,3 +7606,11 @@ TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o
 CUARTO.- El ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
 
 QUINTO. El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
+
+G.G. 22 DE ENERO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCER.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
