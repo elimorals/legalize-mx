@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2013-12-10"
+last_updated: "2014-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -141,11 +141,13 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos, previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo; el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en los artículos 204 y 205; los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206; el de lenocinio, previsto en los artículos 209 y 209 bis; el Tráfico de Menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones, que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de secuestro, señalado por el artículo 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas, contemplado en el artículo 268 bis; el de violación, señalado por los artículos 273 y 274; el de robo, contenido en los artículos 290 fracciones I en su tercer párrafo, II, III, IV, V, XVI y XVII, y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado en el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos, previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo; el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en los artículos 204 y 205; los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206; el de lenocinio, previsto en los artículos 209 y 209 bis; el Tráfico de Menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones, que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de feminicidio, previsto en el artículo 242 Bis; el de secuestro, señalado por el artículo 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas, contemplado en el artículo 268 bis; el de violación, señalado por los artículos 273 y 274; el de robo, contenido en los artículos 290 fracciones I en su tercer párrafo, II, III, IV, V, XVI y XVII, y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado en el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 > <small>(ADICIONADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
@@ -451,11 +453,15 @@ La reparación del daño proveniente del delito que deba cubrir el sentenciado t
 
 Quien se considere con derecho a la reparación del daño y no pueda obtenerla ante el órgano jurisdiccional penal en virtud de sobreseimiento o sentencia absolutoria, o del no ejercicio de la acción penal por el Ministerio Público, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 30.
 
-En caso de lesiones y homicidio y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base el doble de la tabulación de indemnizaciones que fija la Ley Federal del Trabajo y el salario mínimo más alto del Estado. Esta disposición se aplicará aun cuando el ofendido fuere menor de edad o discapacitado. Si los delitos antes mencionados se cometen por la conducción de vehículos de transporte público de pasajeros, de personal o escolar en servicio, el monto de la reparación del daño será el triple de la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, en el supuesto antes señalado.
+En caso de lesiones y homicidio y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base el doble de la tabulación de indemnizaciones que fija la Ley Federal del Trabajo y el salario mínimo más alto del Estado. Esta disposición también se aplicará cuando el ofendido fuere menor de edad o discapacitado. En los casos de feminicidio, así como de los delitos antes mencionados, si se cometen en vehículos de transporte público de pasajeros, vehículos oficiales, de personal, escolar en servicio, u otro que sin contar con la autorización oficial preste un servicio equivalente, el monto de la reparación del daño será el triple de la tabulación de indemnizaciones que fija la Ley Federal del Trabajo.
+
+Tratándose del delito de violación, el monto del pago para la reparación del daño será el equivalente al del homicidio, en términos del párrafo anterior.
 
 ###### Artículo 31.
 
@@ -871,7 +877,9 @@ II. Por tratamiento en libertad o semilibertad, cuando no exceda de cinco años.
 
 El tratamiento en libertad consiste en la aplicación de medidas médicas, psicoterapéuticas, psicológicas, psiquiátricas o reeducativas.
 
-La semilibertad además, implica alternación de períodos de privación de libertad y de tratamiento en libertad. Se aplicarán según las circunstancias del caso del siguiente modo: externamiento durante la semana de trabajo o educativa, con reclusión el fin de semana; salida el fin de semana, con reclusión durante el resto de ésta; o salida diurna con reclusión nocturna.
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+
+La semilibertad implica alternación de períodos de privación de libertad y de tratamiento en libertad. Se aplicarán según las circunstancias del caso del siguiente modo: externamiento durante la semana de trabajo o educativa, con reclusión el fin de semana; salida el fin de semana, con reclusión durante el resto de ésta o salida diurna con reclusión nocturna. El cumplimiento de estas modalidades de semilibertad deberá de llevarse a cabo en instituciones abiertas del sistema penitenciario.
 
 El tratamiento en libertad y el de semilibertad, quedarán bajo la orientación y cuidado del Juez de Ejecución de Sentencias.
 
@@ -888,6 +896,10 @@ V. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 VI. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 
 VII. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VIII. Cuando se ordene sustituir la pena o la multa por jornadas de trabajo, éstas podrán realizarse a favor de la comunidad en actividades organizadas por instituciones públicas, previo convenio de colaboración y coordinación entre el Tribunal Superior de Justicia del Estado de México y la Dirección General de Prevención y Readaptación Social del Estado de México.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
@@ -1579,11 +1591,19 @@ XIII. Cuando sin tener facultades de tránsito pretenda sancionar o imponer una 
 
 > <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2012)</small>
 
-XIV. La autoridad que fomente, tolere, autorice, o intervenga en la imposición indebida de sanciones o de medidas de seguridad con motivo de la aplicación de la normatividad de tránsito del Estado.
+XIV. La autoridad que fomente, tolere, autorice, o intervenga en la imposición indebida de sanciones o de medidas de seguridad con motivo de la a plicación de la normatividad de tránsito del Estado.
 
-> <small>(REFORMADO, G.G. 2 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Al responsable de este delito se le impondrán de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, la destitución del cargo será definitiva y la inhabilitación será de 2 a 8 años para desempeñar empleo, cargo o comisión públicos.
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XV. Retarde o entorpezca dolosamente el servicio de procuración de justicia, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+
+Al responsable de las conductas señaladas de las fracciones I a la XIV se le impondrán de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, la destitución del cargo será definitiva y la inhabilitación será de dos a ocho años para desempeñar empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, G.G. 9 DE AGOSTO DE 2012)</small>
 
@@ -1601,9 +1621,11 @@ También comete el delito de Abuso de Autoridad, el Servidor Público que autori
 
 Al responsable de este delito se le impondrán de tres a cinco años de prisión y de quinientos a dos mil días multa, la destitución del cargo y la inhabilitación de 2 a 8 años para desempeñar empleo, cargo o comisión públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+
 ###### Artículo 137.
 
-Comete el delito de abuso de autoridad con contenido patrimonial, el servidor público que utilice el cargo o la función que desempeñe para obtener la entrega de fondos, valores o cualquiera otra cosa que no le haya sido confiada, para aprovecharse o disponer de ella en su favor o de alguna otra persona o que obtenga, bajo cualquier pretexto, para sí o para un tercero, parte de los sueldos de un subalterno, dádivas u otros servicios indebidos.
+Comete el delito de abuso de autoridad con contenido patrimonial, el servidor público que utilice su empleo, cargo o comisión para obtener la entrega de fondos, valores o cualquiera otra cosa que no le haya sido confiada, para aprovecharse o disponer de ella en su favor o de un tercero.
 
 Al que cometa este delito, se le impondrán las siguiente (sic) sanciones:
 
@@ -1614,6 +1636,22 @@ I. De uno a tres años de prisión y de treinta a trescientos días multa, desti
 > <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
 II. De tres a ocho años de prisión, de quinientos a un mil días multa, destitución e inhabilitación de seis a dieciséis años para desempeñar empleo, cargo o comisión públicos cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
+
+> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
+
+###### Artículo 137 Bis.
+
+Comete el delito de abuso de autoridad contra subalterno, el servidor público que haciendo uso de su empleo, cargo o comisión:
+
+I. Obtenga por cualquier motivo, para sí o para un tercero, parte del sueldo, dádivas o cuotas de uno o más de sus subalternos;
+
+II. Obligue a uno o más de sus subalternos a realizar cualquier acto que le reporte beneficios económicos para sí o para un tercero.
+
+Al que cometa este delito, se le impondrán las sanciones siguientes:
+
+I. De uno a cinco años de prisión y de treinta a quinientos días multa, destitución, e inhabilitación de dos a siete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito, o no sea cuantificable;
+
+II. De cinco a once años de prisión y de quinientos a un mil cien días multa, destitución, e inhabilitación de siete a diecisiete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
 
 ### CAPITULO XIII. PECULADO
 
@@ -2655,7 +2693,11 @@ A quien con el fin de alterar el estado civil, suprima, altere o usurpe el estad
 
 Al que contraiga o autorice matrimonio con conocimiento de la existencia de un impedimento, o sin que hayan transcurrido los términos suspensivos que para contraerlo señala la ley civil, se le impondrán de seis meses a dos años de prisión y de treinta a doscientos cincuenta días multa.
 
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPITULO II BIS. FEMINICIDIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 214.
 
@@ -2673,7 +2715,7 @@ El término para la prescripción de la bigamia, empezará a correr desde que un
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE AGOSTO DE 2011)</small>
 
-### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### Artículo 217.
 
@@ -2699,7 +2741,7 @@ En los casos de reincidencia del delito de incumplimiento de obligaciones alimen
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
-### CAPITULO V. ABORTO
+### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
 
 ###### Artículo 218.
 
@@ -2715,6 +2757,18 @@ El inculpado de este delito, durante la investigación del mismo y al rendir su 
 
 Si el inculpado de este delito lo cometiese de manera reiterada, se le impondrá la perdida de los derechos inherentes a la patria potestad, tutela o guarda y cuidado del menor o incapaz agraviado, a quien tenga el ejercicio de ésta, por resolución judicial.
 
+### CAPITULO V. ABORTO
+
+###### Artículo 219.
+
+Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, o sin el consentimiento de aquél, lo entregue ilegítimamente a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le impondrán de tres a diez años de prisión y de cincuenta a cuatrocientos días multa.
+
+La misma pena a que se refiere el párrafo anterior, se impondrá a los que otorguen el consentimiento a que alude este artículo y al tercero que reciba al menor.
+
+Si la entrega definitiva del menor se hace sin la finalidad de obtener un beneficio económico, se impondrán de uno a tres años de prisión.
+
+Además de las sanciones señaladas, se privará de los derechos de la patria potestad, tutela o custodia, en su caso, a quienes teniendo el ejercicio de éstas, cometan el delito a que se refiere este artículo.
+
 ### CAPITULO VI. MANIPULACION GENETICA
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2007)</small>
@@ -2729,15 +2783,9 @@ III. Mediante la clonación u otros procedimientos, pretendan la creación de se
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 219.
+###### Artículo 220.
 
-Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, o sin el consentimiento de aquél, lo entregue ilegítimamente a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le impondrán de tres a diez años de prisión y de cincuenta a cuatrocientos días multa.
-
-La misma pena a que se refiere el párrafo anterior, se impondrá a los que otorguen el consentimiento a que alude este artículo y al tercero que reciba al menor.
-
-Si la entrega definitiva del menor se hace sin la finalidad de obtener un beneficio económico, se impondrán de uno a tres años de prisión.
-
-Además de las sanciones señaladas, se privará de los derechos de la patria potestad, tutela o custodia, en su caso, a quienes teniendo el ejercicio de éstas, cometan el delito a que se refiere este artículo.
+(DEROGADO, G.G. 28 DE DICIEMBRE DE 2007)
 
 ### CAPITULO VII. DISPOSICION DE CELULAS Y PROCREACION ASISTIDA
 
@@ -2757,29 +2805,39 @@ SUBTITULO SEGUNDO
 
 DELITOS DE PELIGRO CONTRA LAS PERSONAS
 
-###### Artículo 220.
-
-(DEROGADO, G.G. 28 DE DICIEMBRE DE 2007)
-
-### CAPITULO I. PELIGRO DE CONTAGIO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
-
 ###### Artículo 242 Bis.
 
-El homicidio doloso de una mujer, se considerará feminicidio cuando se actualice alguna de las siguientes circunstancias:
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
 
-a) Por razón de violencia de género; entendiéndose por ésta, la privación de la vida asociada a la exclusión, subordinación, discriminación o explotación del sujeto pasivo;
+I. La víctima presente signos de violencia sexual de cualquier tipo;
 
-b) Se cometa en contra de persona con quien se haya tenido una relación sentimental, afectiva o de confianza, o haya estado vinculada con el sujeto activo por una relación de hecho en su centro de trabajo o institución educativa, o por razones de carácter técnico o profesional, y existan con antelación conductas que hayan menoscabado o anulado los derechos, o atentado contra la dignidad del pasivo;
+II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
 
-c) El sujeto activo haya ejecutado conductas sexuales, crueles o degradantes, o mutile al pasivo o el cuerpo del pasivo, o
+III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
 
-d) Existan con antelación actos que constituyan violencia familiar del sujeto activo hacia el pasivo.
+IV. Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
+V. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+
+VII. El cuerpo de la víctima sea expuesto o exhibido en un lugar público;
+
+VIII. Como resultado de violencia de género, pudiendo ser el sujeto activo persona conocida o desconocida y sin ningún tipo de relación.
 
 En los casos a que se refiere este artículo, la penalidad será de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa.
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+La pena se agravará hasta en un tercio cuando la víctima sea mujer menor de edad, embarazada o discapacitada, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
+
+En caso de que no se acredite que existieron razones de género al privar de la vida a una mujer; al momento de resolver, para la imposición de las sanciones penales correspondientes, el juez aplicará las disposiciones señaladas en los artículos 242, fracción II y 245 fracción V, inciso d) de este ordenamiento.
+
+Se entenderá como homicidio doloso, la privación de la vida de una mujer por razones de género, para los efectos de:
+
+l) La imposición de la prisión preventiva oficiosa.
+
+2) La remisión parcial de la pena, tratamiento preliberacional, libertad condicionada al sistema de localización y rastreo, y libertad condicional.
 
 ###### Artículo 221.
 
@@ -2789,7 +2847,9 @@ Se impondrá esta última sanción en caso de incesto entre hermanos.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO II. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
+### CAPITULO I. PELIGRO DE CONTAGIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 222.
 
@@ -2803,9 +2863,7 @@ SUBTITULO SEXTO
 
 DELITOS CONTRA EL RESPETO A LOS MUERTOS Y VIOLACIONES A LAS LEYES DE INHUMACION Y EXHUMACION
 
-### CAPITULO III. ABANDONO DE INCAPAZ
-
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+### CAPITULO II. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
 ###### Artículo 224.
 
@@ -2837,7 +2895,9 @@ SUBTITULO SEPTIMO
 
 DELITOS CONTRA EL AMBIENTE
 
-### CAPITULO IV. OMISION DE AUXILIO A LESIONADOS
+### CAPITULO III. ABANDONO DE INCAPAZ
+
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 228.
 
@@ -2945,7 +3005,7 @@ Será necesario que la secretaría del ramo formule la denuncia correspondiente 
 
 Se perseguirán de oficio las conductas establecidas en el artículo 228, fracciones IX y X del presente Código.
 
-### CAPITULO V. OMISION DE AUXILIO
+### CAPITULO IV. OMISION DE AUXILIO A LESIONADOS
 
 ###### Artículo 235.
 
@@ -2979,7 +3039,7 @@ Será necesario que la secretaria del ramo formule la denuncia correspondiente p
 
 La reparación del daño respecto de los delitos contenidos en este subtítulo, se aplicará en favor de la colectividad a través de la autoridad correspondiente.
 
-### CAPITULO VI. DISPOSICIONES GENERALES
+### CAPITULO V. OMISION DE AUXILIO
 
 ## TITULO TERCERO. DELITOS CONTRA LAS PERSONAS
 
@@ -2987,7 +3047,7 @@ SUBTITULO PRIMERO
 
 DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-### CAPITULO I. PRIVACION DE LIBERTAD
+### CAPITULO VI. DISPOSICIONES GENERALES
 
 ###### Artículo 236.
 
@@ -3073,9 +3133,13 @@ III. Cuando dos o más personas realicen sobre otra u otras, actos idóneos para
 
 Las penas a que se refiere el artículo 237 se incrementarán hasta en una mitad, sin perjuicio de las agravantes a que se refiere el artículo 238, en los siguientes casos:
 
-a) Cuando las lesiones sean cometidas por un hombre en agravio de una mujer, con violencia de género;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Se entiende por violencia de género, para efectos de este artículo, a las lesiones asociadas a la exclusión, subordinación, discriminación o explotación del sujeto pasivo, o
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+
+a) Cuando las lesiones sean cometidas por un hombre en agravio de una mujer, por razones de género.
+
+Se entiende por razones de género, a las lesiones asociadas a la exclusión, subordinación, discriminación, misoginia o explotación del sujeto pasivo, o
 
 b) Cuando las lesiones se produzcan de forma dolosa a una mujer embarazada; en este caso, cuando haya una lesión al producto, la pena a que se refiere el artículo 237 de este Código se incrementará hasta en dos tercios, sin perjuicio de las demás agravantes a que se refiere este artículo;
 
@@ -3083,9 +3147,7 @@ c) Cuando las lesiones se cometan por un hombre en agravio de una mujer, con qui
 
 d) Cuando exista la intención de realizar un delito sexual, independientemente que se consume o no.
 
-### CAPITULO II. SECUESTRO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
+### CAPITULO I. PRIVACION DE LIBERTAD
 
 ###### Artículo 241.
 
@@ -3117,11 +3179,13 @@ III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, c
 
 IV. Al responsable del homicidio de dos o más personas, en el mismo o en distintos hechos, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa.
 
-> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-### CAPITULO III. PRIVACIÓN DE LA LIBERTAD DE MENORES DE EDAD
+> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE OCTUBRE DE 2010)</small>
+### CAPITULO II. SECUESTRO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 243.
 
@@ -3155,9 +3219,9 @@ d) Que el infante no sea legítimo.
 
 Si en este delito tuviere participación un médico cirujano, comadrona o partera, además de la pena privativa que corresponda, se le suspenderá de uno a tres años en el ejercicio de su profesión.
 
-### CAPITULO IV. SUSTRACCION DE HIJO
+### CAPITULO III. PRIVACIÓN DE LA LIBERTAD DE MENORES DE EDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 244.
 
@@ -3193,9 +3257,9 @@ d) Se cometa en contra de una mujer o de un menor de edad.
 
 Se impondrá la pena establecida en la fracción II del artículo 242 de este Código, cuando el delito de homicidio sea cometido en contra de servidores públicos de las instituciones de Seguridad Pública, procuración o administración de justicia, al ejercer lícitamente sus funciones o con motivo de ellas. Tratándose de lesiones se aplicará la pena prevista en la fracción VI del artículo 238 de este Código.
 
-### CAPITULO V. USURPACION DE IDENTIDAD
+### CAPITULO IV. SUSTRACCION DE HIJO
 
-> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 246.
 
@@ -3205,9 +3269,9 @@ Al que preste auxilio o instigue a otro al suicidio, sin que este se produzca, s
 
 Si el suicida fuere menor de edad o enajenado mental, se impondrá además de uno a tres años de prisión y de treinta a cincuenta días multa.
 
-### CAPITULO VI. EXTORSION
+### CAPITULO V. USURPACION DE IDENTIDAD
 
-> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 248.
 
@@ -3243,9 +3307,23 @@ IV. Cuando a juicio de dos médicos exista prueba suficiente para diagnosticar q
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
 
+### CAPITULO VI. EXTORSION
+
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
 ### CAPITULO VII. ASALTO
 
 ### CAPITULO VIII. ALLANAMIENTO DE MORADA
+
+###### Artículo 252.
+
+A quien sabiendo que padece una enfermedad grave en período infectante, ponga en peligro de contagio a otro, por cualquier medio de transmisión, se le aplicará una pena de seis meses a dos años de prisión y de treinta a sesenta días multa.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+En este delito sólo se procederá por querella del ofendido.
+
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO IX. TRATA DE PERSONAS
 
@@ -3289,20 +3367,6 @@ d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 15 DE MARZO DE 2011)</small>
 
-###### Artículo 252.
-
-A quien sabiendo que padece una enfermedad grave en período infectante, ponga en peligro de contagio a otro, por cualquier medio de transmisión, se le aplicará una pena de seis meses a dos años de prisión y de treinta a sesenta días multa.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
-
-En este delito sólo se procederá por querella del ofendido.
-
-> <small>(DEROGADO TERCER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
-
-### CAPITULO X. REQUERIMIENTO ILICITO DE PAGO
-
-> <small>(ADICIONADO, G.G. 15 DE MARZO DE 2011)</small>
-
 ###### Artículo 253.
 
 Comete este delito quien:
@@ -3327,31 +3391,31 @@ La misma pena se aplicará al que amenace o intimide a una persona haciendo uso 
 
 Este artículo sólo se aplicará cuando no causare daño, o los hechos no constituyan tentativa de homicidio, en caso contrario, se impondrán las penas del delito consumado o en grado de tentativa que resultare.
 
-### CAPITULO XI. IRRUPCION DE EVENTO PUBLICO
+### CAPITULO X. REQUERIMIENTO ILICITO DE PAGO
 
-> <small>(ADICIONADO, G.G 6 DE ENERO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 15 DE MARZO DE 2011)</small>
 
 ###### Artículo 254.
 
 Al que abandone a una persona incapaz de valerse por si misma teniendo la obligación de cuidarla, se le impondrán de seis meses a dos años de prisión y treinta a trescientos días multa, o trabajo a favor de la comunidad, perdiendo además los derechos inherentes a la patria potestad, custodia o tutela, si fuere ascendiente o tutor del ofendido, así como del derecho a heredar si estuviere en aptitud legal para ello.
 
-### CAPITULO I. HOSTIGAMIENTO Y ACOSO SEXUAL
+### CAPITULO XI. IRRUPCION DE EVENTO PUBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(ADICIONADO, G.G 6 DE ENERO DE 2012)</small>
 
 ###### Artículo 255.
 
 Al conductor de un vehículo cualquiera o jinete que deje en estado de abandono, sin prestarle ni facilitarle asistencia a la persona a quien lesionó sin dolo, o dejare de avisar inmediatamente a la autoridad, se le impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa.
 
-### CAPITULO II. ACTOS LIBIDINOSOS
+### CAPITULO I. HOSTIGAMIENTO Y ACOSO SEXUAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 256.
 
 Al que omita auxiliar a una persona que por cualquier circunstancia, estuviese amenazada de un peligro, cuando pudiera hacerlo sin riesgo alguno, o al que no estando en condiciones de llevarlo a cabo, no diere inmediato aviso a la autoridad, se le impondrán de tres a seis meses de prisión y de treinta a sesenta días multa.
 
-### CAPITULO III. ESTUPRO
-
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+### CAPITULO II. ACTOS LIBIDINOSOS
 
 ###### Artículo 257.
 
@@ -3363,9 +3427,9 @@ SUBTITULO TERCERO
 
 DELITOS CONTRA LA LIBERTAD, SEGURIDAD Y TRANQUILIDAD DE LAS PERSONAS
 
-### CAPITULO IV. VIOLACION
+### CAPITULO III. ESTUPRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 258.
 
@@ -3379,7 +3443,9 @@ III. Por medio de la violencia o la coacción impida a una persona ejecutar un a
 
 A quien incurra en este delito se le impondrán de uno a cuatro años de prisión y de treinta a cien días multa.
 
-### CAPITULO I. INJURIAS
+### CAPITULO IV. VIOLACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 259.
 
@@ -3455,7 +3521,7 @@ VII. Actúe como asesor o intermediario de quienes representen o gestionen en fa
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE OCTUBRE DE 2010)</small>
 
-### CAPITULO II. DIFAMACION
+### CAPITULO I. INJURIAS
 
 ###### Artículo 262.
 
@@ -3465,7 +3531,7 @@ Cuando el delito lo cometa un familiar, que no sea el padre o la madre, y obre c
 
 Si el menor es restituido espontáneamente a su familia o a la autoridad dentro de tres días y sin causar daño, se le impondrán de tres meses a cuatro años de prisión y de treinta a cien días multa. Si se causare daño, se impondrán de seis meses a seis años de prisión y de treinta a ciento cincuenta días multa.
 
-### CAPITULO III. CALUMNIA
+### CAPITULO II. DIFAMACION
 
 ###### Artículo 263.
 
@@ -3475,7 +3541,7 @@ Este delito se perseguirá por querella.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 9 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO IV. DISPOSICIONES GENERALES
+### CAPITULO III. CALUMNIA
 
 ###### Artículo 264.
 
@@ -3499,7 +3565,7 @@ Las sanciones previstas en este artículo se impondrán con independencia de las
 
 Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad, cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
 
-### CAPITULO I. ROBO
+### CAPITULO IV. DISPOSICIONES GENERALES
 
 ###### Artículo 266.
 
@@ -3523,7 +3589,7 @@ VI. Para su comisión, el sujeto activo se aproveche de tener alguna relación d
 
 VII. Con motivo de la amenaza de muerte al pasivo o un tercero, intimidación y/o violencia cometidas por el activo del delito, entreguen ya sea la víctima o un tercero, alguna cantidad de dinero, para evitar cualquier daño, en su persona, familia o bienes.
 
-### CAPITULO II. ABIGEATO
+### CAPITULO I. ROBO
 
 ###### Artículo 267.
 
@@ -3533,7 +3599,7 @@ Si el asalto lo realizan dos o más personas, se impondrán de cinco a doce año
 
 Si los asaltantes atacaren una población, se les impondrán de veinte a treinta y cinco años de prisión a los jefes y de quince a treinta años a los demás participantes.
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
 
 ###### Artículo 268.
 
@@ -3543,9 +3609,9 @@ Este delito sólo se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO IV. FRAUDE
+### CAPITULO III. ABUSO DE CONFIANZA
 
-### CAPITULO V. DESPOJO
+### CAPITULO IV. FRAUDE
 
 ###### Artículo 268 Ter.
 
@@ -3553,7 +3619,7 @@ A quien por medio de la violencia, amenaza, hostigamiento o intimidación, solic
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2012)</small>
 
-### CAPITULO VI. DAÑO EN LOS BIENES
+### CAPITULO V. DESPOJO
 
 ###### Artículo 268 Quater.
 
@@ -3579,9 +3645,9 @@ DELITOS CONTRA LA LIBERTAD SEXUAL
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE JULIO DE 2008)</small>
 
-### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
+### CAPITULO VI. DAÑO EN LOS BIENES
 
-### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
+### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
 ###### Artículo 269.
 
@@ -3605,7 +3671,7 @@ En ambos casos se impondrán de seis meses a dos años de prisión o de treinta 
 
 Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido de su cargo.
 
-### CAPITULO UNICO
+### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
 
 ###### Artículo 270.
 
@@ -3618,6 +3684,8 @@ Si se hiciere uso de la violencia física o moral se impondrá además la pena d
 > <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 Si los actos a que se refiere este artículo los cometiera un familiar consanguíneo directo y colaterales hasta el cuarto grado, en agravio de persona impúber se impondrá de cuatro a diez años de prisión y de cien a quinientos días multa.
+
+### CAPITULO UNICO
 
 ###### Artículo 271.
 
@@ -3665,7 +3733,11 @@ I. Cuando en la comisión del delito de violación participen dos o más persona
 
 II. Si el delito fuere cometido por uno de los cónyuges, por un ascendiente contra su descendiente, por éste contra aquél, por un hermano contra otro, por el tutor en contra de su pupilo o por el padrastro, madrastra, concubina, concubinario, amasio o amasia en contra del hijastro o hijastra, además de las sanciones previstas en el artículo 273 se impondrán de tres a nueve años de prisión y de treinta a setenta y cinco días multa, así como la pérdida de la patria potestad o la tutela en aquellos casos en que la ejerciere sobre la víctima;
 
-III. Cuando el delito de violación sea cometido por quien desempeñe un empleo, cargo o comisión públicos o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionen, será además, destituido definitivamente del cargo o empleo o suspendido hasta por el término de diez años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+III. Cuando el delito de violación sea cometido por quien desempeña un empleo, cargo o comisión públicos o ejerza una profesión utilizando los vehículos oficiales, circunstancias o cualquier medio que éstos le proporcionen, además de las sanciones previstas en el artículo 273, se aumentará la pena hasta en una mitad, también será destituido del cargo o empleo o suspendido hasta por el término de diez años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor;
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3673,11 +3745,17 @@ IV. Cuando por razón del delito de violación se causare la muerte, se impondr�
 
 > <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
 
-V. Cuando el ofendido sea menor de quince años o mayor de sesenta, se le impondrá de quince a treinta años de prisión y de trescientos a dos mil quinientos días multa. Sin perjuicio, en su caso, de la agravante contenida en la fracción II de este artículo; y
+V. Cuando el ofendido sea menor de quince años o mayor de sesenta, se le impondrá de quince a treinta años de prisión y de trescientos a dos mil quinientos días multa. Sin perjuicio, en su caso, de la agravante contenida en la fracción II de este artículo; y (sic)
 
 > <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
 
 VI. Cuando el ofendido tenga alguna discapacidad, que limite las actividades de su vida diaria e impida su desarrollo individual y social, se impondrán de quince a treinta años de prisión y de trescientos a dos mil quinientos días multa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VII. Cuando se cometa en un vehículo de transporte público de pasajeros, de personal o escolar, vehículo oficial u otro que sin contar con la autorización oficial preste un servicio equivalente, se aumentará la pena que corresponda hasta en una mitad.
 
 SUBTITULO QUINTO
 
@@ -5132,6 +5210,34 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Las instituciones estatales y municipales encargadas de brindar atención a las emergencias difundirán, ampliamente, el contenido del presente Decreto a efecto de fomentar el uso responsable de la ciudadanía en la atención a las contingencias que generan emergencias e inhibir el abuso de dichos medios.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 22 DE ENERO DE 2014.
+
+DECRETO NO. 185 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 70 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE ENERO DE 2014.
+
+DECRETO NO. 186 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 137 Y SE ADICIONA EL ARTÍCULO 137 BIS, AMBOS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado proveerá lo necesario para dar cumplimiento al presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 22 DE ENERO DE 2014.
+
+DECRETO NO. 196, POR EL QUE SE REFORMAN LOS ARTÍCULOS 9 EN SU PRIMER PÁRRAFO, 30, 136 EN SU ÚLTIMO PÁRRAFO, 240 EN SU INCISO A), 242 BIS, 274 EN SU FRACCIÓN III Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 136, EL CAPÍTULO II BIS DENOMINADO FEMINICIDIO, AL SUBTÍTULO PRIMERO DEL TÍTULO TERCERO DEL LIBRO SEGUNDO, LA FRACCIÓN VII AL ARTÍCULO 274 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 ###### ARTÍCULO PRIMERO.
 
