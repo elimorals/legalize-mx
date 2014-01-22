@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-57949
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2007-12-12"
+last_updated: "2014-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
@@ -91,7 +91,9 @@ IV. Establecer las bases para el fomento de las organizaciones en los términos 
 
 V. Establecer las directrices administrativas para el fomento de las actividades, con apego al Plan Estatal o Municipal de Desarrollo, según corresponda; y
 
-VI. Procurar la coordinación, entre las asociaciones y sociedades civiles y las Dependencias y Entidades del gobierno estatal y municipal.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
+
+VI. Procurar la coordinación entre las Organizaciones y las Dependencias y Entidades del Gobierno Estatal y municipal.
 
 ###### Artículo 2.
 
@@ -109,7 +111,9 @@ V.- Entidades.- Los organismos descentralizados, empresas paraestatales y fideic
 
 VI.- Reglamento.- El reglamento de esa Ley.
 
-VII.- Organizaciones.- Las personas morales constituidas como sociedades o asociaciones civiles;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
+
+VII.- Organizaciones.- Las personas morales constituidas como Asociaciones Civiles, que se ajusten a lo dispuesto por el artículo 3 de la presente Ley;
 
 VIII.- Registro.- El padrón de organizaciones; y
 
@@ -118,6 +122,10 @@ IX.- Estímulos y Apoyos.- Acciones de reconocimiento no económicos mediante la
 ###### Artículo 3.
 
 La Secretaría otorgará estímulos, apoyos y reconocimientos a las organizaciones debidamente registradas, con el propósito de que estas puedan colaborar al cumplimiento de las actividades precisadas en la fracción I del artículo 1 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2014)</small>
+
+Cuando se trate de Capítulos Nacionales de Organizaciones Internacionales que cumplan con la presente Ley, podrán gozar de los derechos que establece, siempre que sus órganos de administración y representación se integren mayoritariamente por ciudadanos mexicanos y los beneficios, estímulos y apoyos que reciban del Gobierno del Estado, los apliquen en actividades realizadas en Morelos o a favor de los morelenses. Al efecto, deberán inscribirse en el Registro y señalar domicilio en el Estado de Morelos.
 
 ###### Artículo 4.
 
@@ -141,9 +149,11 @@ La Secretaría deberá de expedir la constancia de registro a todas las organiza
 
 La Secretaría deberá conservar las constancias de solicitud y registro promovidas por las organizaciones en los términos previstos en la Ley General de Documentación para el Estado de Morelos y la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2014)</small>
+
 ###### Artículo 9.
 
-La Comisión de Fomento a las actividades de las Organizaciones se crea para facilitar la coordinación en el diseño, ejecución, seguimiento y evaluación de las acciones y medidas para el fomento de las actividades establecidas en la fracción I del artículo 1 de esta ley.
+La Comisión de Fomento a las actividades de las Organizaciones se crea para facilitar la coordinación en el diseño, ejecución, seguimiento y evaluación de las acciones y medidas para el fomento de las actividades establecidas en la fracción I, del artículo 1 de esta Ley.
 
 Dicha Comisión se integrará de la siguiente manera:
 
@@ -151,7 +161,9 @@ I. Un representante de la Secretaría,
 
 II. Un representante de la Secretaría de la Contraloría Estatal o Municipal según corresponda,
 
-III. Un representante del Poder Legislativo del Estado, el cual para el caso de la Comisión Estatal, será el diputado presidente de la Comisión de Participación Ciudadana; para el caso de las Comisiones Municipales será el regidor encargado de la propia comisión; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
+
+III. Un representante del Poder Legislativo del Estado, que para el caso de la Comisión Estatal, deberá ser el Diputado Presidente de la Comisión de Participación Ciudadana y Reforma Política; Respecto de las Comisiones Municipales, será el Regidor que presida dicha Comisión; En el supuesto de que no exista esta Comisión en algunos Municipios, corresponderá al cabildo designar al Regidor que represente al Municipio.
 
 IV. Dos representantes de las organizaciones, los cuales serán designados conforme la convocatoria y al procedimiento establecido en el reglamento de la presente Ley.
 
@@ -396,3 +408,29 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ENERO DE 2014.
+
+DECRETO NÚMERO 1217, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, FRACCIÓN VI, 2, FRACCIÓN VII Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE ENERO DE 2014.
+
+DECRETO NÚMERO 1219, POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 9 DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
