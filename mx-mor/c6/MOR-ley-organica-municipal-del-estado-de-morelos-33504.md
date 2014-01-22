@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2013-11-13"
+last_updated: "2014-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -567,13 +567,23 @@ Las comisiones que se designen a los miembros del Ayuntamiento serán irrenuncia
 
 Con el objeto de atender asuntos específicos, según las necesidades del Municipio, los Ayuntamientos están facultados para constituir comisiones temporales. En la asignación de las comisiones se deberá respetar el principio de equidad; asimismo se deberá tomar preferentemente en consideración el perfil, preparación e instrucción de los regidores. Los regidores deberán tener asignada cuando menos una comisión, y será el Cabildo, quien por su acuerdo, haga dicha asignación;
 
-III.- Designar a una comisión temporal integrada por un regidor por cada uno de los partidos políticos con representación en el Ayuntamiento, que revise los inventarios, fondos y valores que hubiere entregado el Ayuntamiento saliente. Esta comisión podrá asesorarse con las instancias que ella misma determine, y deberá emitir un dictamen dentro de los treinta días naturales siguientes, que deberá presentar en sesión de Cabildo, para su discusión y aprobación, en su caso.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
 
-Si el Ayuntamiento saliente se negara a hacer la entrega, la Comisión encargada levantará el acta correspondiente dando aviso con ella al Congreso del Estado, que proveerá lo conducente.
+III.- Designar a una comisión temporal denominada Comisión Especial de Recepción, que estará integrada por un Regidor de cada uno de los Partidos Políticos con representación en el Ayuntamiento, la cual tendrá la responsabilidad de revisar y resguardar los padrones, expedientes laborales y de elementos de seguridad pública, inventarios, fondos y valores que entrega el Ayuntamiento saliente. Esta Comisión podrá asesorarse con las instancias que ella misma determine, y deberá emitir un dictamen, dentro de los treinta días naturales siguientes a la entrega del Ayuntamiento saliente, al cual anexará la relación de expedientes recibidos, referenciando cada expediente con su correspondiente área administrativa, que deberá presentar en sesión de Cabildo, para su discusión y aprobación, en su caso.
 
-Del acta que se levante, así como de las observaciones formuladas, se remitirá copia a la Legislatura local.
+Si el Ayuntamiento saliente se negara a hacer la entrega o la realizara de manera parcial, la Comisión encargada, levantará el acta correspondiente, corriendo inmediato traslado, mediante copia certificada al Congreso del Estado, que proveerá lo conducente de acuerdo a lo establecido en la Constitución Política del Estado Libre y Soberano de Morelos; en la Ley de Responsabilidades de Servidores Públicos del Estado de Morelos; y demás ordenamientos jurídicos aplicables.
 
-En el último año de ejercicio constitucional, el Ayuntamiento saliente deberá prever en el presupuesto de egresos una partida especial para el proceso de entrega-recepción;
+Asimismo, en caso de cubrir los requisitos de la entrega recepción, del acta que se levante, así como de las observaciones formuladas, se remitirá copia a la Legislatura Local.
+
+La Comisión Especial de Recepción, con apoyo de la Contraloría Municipal, elaborará las respectivas relaciones, resguardos documentales y actas circunstanciadas a cargo de los titulares o responsables de área.
+
+Los Titulares o responsables de área, en el momento de dejar de surtir efectos sus nombramientos, estarán obligados a notificar su baja al Contralor Municipal, y hacer entrega de las relaciones pormenorizadas de los expedientes que tengan a su resguardo, estableciendo el estado de avance que guarda cada uno de ellos.
+
+Todo Ayuntamiento, mediante el área de Recursos Humanos, está obligado a conservar y resguardar el archivo laboral, el cual contendrá los expedientes individualizados de trabajadores en activo, ex trabajadores, y pensionistas del Municipio, así como también de los elementos de seguridad pública, archivo que por ningún motivo estará fuera del Edificio Municipal o de las oficinas de Recursos Humanos.
+
+Todo servidor público, será responsable de los expedientes a su resguardo, por lo que en caso de negligencia o mal manejos de éstos, se estará a lo dispuesto por la Ley de Responsabilidades de Servidores Públicos del Estado de Morelos.
+
+En el último año de ejercicio constitucional, el Ayuntamiento saliente, deberá prever en el Presupuesto de Egresos una partida especial para el proceso de entrega recepción;
 
 IV.- Designar una comisión especial integrada por un regidor por cada uno de los partidos políticos con representación en el Ayuntamiento, que elabore el proyecto de reglamento de gobierno municipal y lo someta en un término no mayor de sesenta días naturales contados a partir del inicio de su período constitucional a la consideración del Ayuntamiento para que sea discutido y aprobado en su caso en sesión de Cabildo; y
 
@@ -719,9 +729,11 @@ V. Formular y aprobar la iniciativa de Ley de Ingresos del Municipio, que se rem
 
 VI. Revisar y aprobar, en su caso, la cuenta pública anual correspondiente al ejercicio anterior, que presente el Tesorero, remitiéndola a la Legislatura local, dentro del término que establezca la Constitución Política del Estado, con copia del acta de la sesión de Cabildo en donde haya sido aprobada;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
 
-VII. Aprobar el Presupuesto de Egresos, del Municipio, con base en los ingresos disponibles, mismo que contendrá la información que refiere el artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
+VII.- Aprobar el Presupuesto de Egresos, del Municipio, con base en los ingresos disponibles, mismo que contendrá la información que refiere el artículo 20, de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
+
+Indistintamente, dicho Presupuesto además de contemplar los recursos financieros para el pago de la plantilla de personal autorizada, y de la nómina de pensionistas, deberá integrar un estimado de los trabajadores y de elementos de seguridad pública, por pensionarse en el respectivo año fiscal.
 
 VIII. Aprobar previamente la celebración de todo tipo de convenios con el Poder Ejecutivo del Gobierno del Estado de Morelos, con sus organismos auxiliares, o con el Poder Ejecutivo Federal y sus entidades, a que aluden los Artículos 115 Fracción III y 116 Fracción VII, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -877,17 +889,27 @@ LXII. Crear los comités, comisiones y consejos de carácter consultivo que se c
 
 LXIII. Los Ayuntamientos integrarán la cuenta pública en términos de lo que establece el artículo 42 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos. La cuenta pública podrá ser difundida en el Periódico Oficial o la Gaceta Municipal, atendiendo a la disponibilidad de recursos municipales. Por lo que hace a las remuneraciones y los tabuladores de sueldo autorizados, así como sus adecuaciones, éstos también cumplirán con el principio de publicidad;
 
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
 
-LXIV. Otorgar uniformes y un paquete de útiles escolares en concordancia con la lista oficial emitida por la Secretaría de Educación Pública, a las niñas y los niños de sus respectivos municipios que cursen el nivel básico.
+LXIV.- Otorgar mediante acuerdo de la mayoría del Ayuntamiento, los beneficios de la seguridad social de sus trabajadores, y de los elementos de Seguridad Pública en lo referente a pensiones por Jubilación, Cesantía por Edad Avanzada, Invalidez, así como a los beneficiarios del servidor público por muerte, establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Morelos, en la Ley del Servicio Civil del Estado de Morelos; en la Ley del Sistema de Seguridad Pública del Estado de Morelos; y en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública.
 
-Para el cumplimiento de lo dispuesto en el párrafo anterior, el Ayuntamiento al momento de aprobar su presupuesto anual deberá contar con el padrón de estudiantes de nivel básico del municipio.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+LXV.- Expedir a los trabajadores, a los elementos de seguridad pública o a los beneficiarios de ambos, copia certificada del Acuerdo mediante el cual el Ayuntamiento aprueba y otorga el beneficio de la pensión o jubilación demandada, asimismo, efectuar la autorización y registro de dicho documento.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-LXV. Las demás que les concedan las leyes, reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
+LXVI.- Los Ayuntamientos, al otorgar los citados beneficios de seguridad social a sus trabajadores, a los elementos de seguridad pública, así como a los beneficiarios de ambos, invariablemente deberán cumplir con los procedimientos legales descritos en la normatividad de la materia, para que en un plazo no mayor de treinta días hábiles, contados a partir de la fecha en que se tenga por recibida y convalidada la documentación requerida para su tramitación, resuelvan y emitan los correspondientes acuerdos de pensión. Para tal fin, los Ayuntamientos deberán contar con los recursos humanos, técnicos, procedimentales y administrativos necesarios.
+
+La autoridad municipal, en el cumplimiento de los beneficios de la seguridad social, en todo momento guiará sus trabajos, atendiendo a los principios de transparencia y eficacia administrativa.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+LXVII.- Para el caso de que el Cabildo Municipal, emita en sentido negativo algún acuerdo de pensión, éste deberá estar debidamente fundado y motivado, y mediante copia certificada, se notificará al peticionario de dicha resolución, quedando invariablemente reservados sus derechos para hacerlos valer ante la instancia jurisdiccional que considere pertinente.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+LXVIII.- Las demás que les concedan Las Leyes, Reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
 
 ###### Artículo 39.
 
@@ -1031,9 +1053,47 @@ XXXII. Delegar en sus subalternos, dependencias o áreas administrativas del Ayu
 
 XXXIII. Enviar la terna para la designación del Juez de Paz al Consejo de la Judicatura del Estado, tal como lo dispone la Ley Orgánica del Poder Judicial;
 
-XXXIV. Resolver y contestar oportunamente las observaciones que haga el órgano constitucional de fiscalización del Congreso del Estado;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
 
-XXXV. Las demás que les concedan las leyes, reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
+XXXIV.- Cumplir y hacer cumplir en el ámbito de su competencia, el otorgamiento de los beneficios de seguridad social a los trabajadores municipales, a los elementos de seguridad pública o a los deudos de ambos, respecto de pensiones por Jubilación, Cesantía por Edad Avanzada, Invalidez y muerte, conforme lo establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos; en la Ley del Servicio Civil del Estado de Morelos; en la Ley del Sistema de Seguridad Pública del Estado de Morelos; y en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
+
+XXXV.- En ejercicio de sus atribuciones y mediante el área de Recursos Humanos del Ayuntamiento, elaborar los Padrones de Servidores Públicos Municipales, a saber:
+
+1).- De trabajadores, y de elementos de seguridad pública en activo;
+
+2).- De extrabajadores, y de ex elementos de seguridad pública;
+
+3).- De pensionados; y
+
+4).- De beneficiaros, por concepto de muerte del trabajador o pensionista.
+
+Asimismo, con base en los artículos 55, de la Ley del Servicio Civil del Estado de Morelos; y 14, de la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales y de Procuración de Justicia del Sistema Estatal de Seguridad Pública, mediante el área que para los efectos determine, efectuar los actos de revisión, análisis, diligencias, investigación y reconocimiento de procedencia necesarios, con la finalidad de garantizar el derecho constitucional al beneficio de jubilaciones y/o pensiones de sus trabajadores.
+
+Con fundamento en lo establecido en el artículo Décimo Transitorio, de la Ley del Sistema de Seguridad Pública del Estado de Morelos; y lo dispuesto en la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública, se observarán los mismos procedimientos respecto a la documentación y análisis jurídico y de información de los elementos integrantes de las Corporaciones Policiacas Municipales.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXVI.- Garantizar el cabal cumplimiento al derecho de petición, contemplado en el artículo 8, de la Constitución Política de los Estados Unidos Mexicanos, al efectuar, mediante el área de Recursos Humanos del Ayuntamiento, la entrega al trabajador, al elemento de seguridad pública o a los deudos de ambos, de la documentación referente a la carta de certificación del último salario percibido y a la constancia de servicios prestados por el trabajador en las diferentes Administraciones Municipales.
+
+Para el caso de que el Congreso del Estado u otro Ayuntamiento, solicite información referente a la antigüedad de algún extrabajador, o de algún ex elemento de seguridad pública, con la finalidad de convalidar la antigüedad en el servicio público para el Ayuntamiento al cual se le pide la información, sin que por este motivo le corresponda la resolución o emisión del acuerdo de la pensión por no ser el último o actual patrón, el Ayuntamiento proporcionará a los citados órdenes de Gobierno, copias certificadas de las documentales que fehacientemente acrediten los periodos de servicio que hubieran prestado para el Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXVII.- Garantizar en tiempo y forma, el cumplimiento de los Acuerdos de Cabildo, mediante los cuales otorga a sus trabajadores, a los elementos de seguridad pública, o a los deudos de ambos, el beneficio de pensiones y/o jubilaciones, de acuerdo al procedimiento y los plazos que para tales efectos establece la Ley del Servicio Civil del Estado de Morelos; la Ley de Prestaciones de Seguridad social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública; las Bases Generales y Procedimientos para la Expedición de Pensiones y su respectivo Reglamento Interno de Pensiones;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXVIII.- Promulgar en el Periódico Oficial "Tierra y Libertad", y en la respectiva Gaceta Municipal, todo tipo de Acuerdos, Bandos, Reglamentos Municipales, Reglamentos Internos o Administrativos, así como demás disposiciones legales que el Cabildo apruebe en cada sesión que realice. Lo anterior con la finalidad de dar cabal cumplimiento a lo establecido en el inciso L), del artículo 38 de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXIX.- Cumplir y hacer cumplir en tiempo y forma los laudos que en materia laboral dicte el Tribunal Estatal de Conciliación y Arbitraje del Estado, las resoluciones que en materia administrativa emita el Tribunal de los Contencioso Administrativo, así como de las demás resoluciones emitidas por las diferentes autoridades jurisdiccionales; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XL.- Las demás que les concedan Las Leyes, Reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
 
 ###### Artículo 42.
 
@@ -1371,11 +1431,11 @@ Para ambos casos, la administración municipal entrante contará con un término
 
 ### CAPÍTULO I. ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 75.
 
-Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una secretaría del Ayuntamiento, una tesorería, una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos, recursos humanos, materiales y técnicos del Municipio, una dependencia encargada de la prestación de servicios públicos municipales, una dependencia encargada de la ejecución y administración de obras públicas, una dependencia de atención de asuntos migratorios; otra de la seguridad pública y tránsito municipal, una Dirección de la Instancia Municipal de la Mujer, un cronista municipal, cuando menos una Oficialía del Registro Civil y una contraloría municipal.
+Cada Municipio tendrá como estructura administrativa la que determinen sus Reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento, una Tesorería, una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos; recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de seguridad pública, así como de los beneficiarios de todos éstos, asimismo, garantizará el control y resguardo del archivo documental laboral y del padrón de servidores públicos y de pensionistas; materiales y técnicos del Municipio, una dependencia encargada de la prestación de Servicios Públicos Municipales, una dependencia encargada de la ejecución y administración de obras públicas, una dependencia de atención de asuntos migratorios, otra de la seguridad pública y tránsito municipal, un cronista municipal, una Dirección de la Instancia Municipal de la Mujer cuando menos una Oficialía del Registro Civil y una Contraloría Municipal.
 
 ### CAPÍTULO II. DE LA SECRETARÍA MUNICIPAL
 
@@ -1581,9 +1641,9 @@ Son atribuciones del Contralor Municipal:
 
 I. Realizar actos de inspección, supervisión o fiscalización, evaluación y control de los recursos humanos, materiales y financieros que por cualquier título legal tenga en administración, ejerza, detente o posea el Ayuntamiento por conducto de sus dependencias, sus órganos desconcentrados o descentralizados y demás organismos auxiliares del sector paramunicipal, sean de origen federal, estatal o del propio Municipio, así como realizar la evaluación de los planes y programas municipales;
 
-II. Como consecuencia de la fracción que precede, en el ejercicio de sus atribuciones podrá realizar todo tipo de visitas, inspecciones, revisiones o auditorías; requerir informes, datos y documentos de todos los servidores públicos municipales relacionados con las funciones de éstos; levantar actas administrativas, desahogar todo tipo de diligencias, notificar el resultado de las revisiones o investigaciones que practique; determinar los plazos o términos perentorios en los que los servidores deberán solventar las observaciones o deban proporcionar la información o documentación que se les requiera y legalmente corresponda; que en este último caso, podrán ser de tres a cinco días hábiles, mismos que podrán prorrogarse en igual término, a juicio del Contralor Municipal, e intervenir en forma aleatoria en los procesos de licitación, concurso, invitación restringida o adjudicación directa de las adquisiciones, contrataciones de servicios y obras públicas, así como en los procesos de entrega-recepción de estas últimas.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
 
-El Contralor Municipal, en el desempeño de estas funciones, deberá guardar la debida reserva y no comunicar anticipadamente, ni adelantar juicios u opiniones antes de concluir la revisión, inspección o investigación, mismos que deberán estar sustentados; excepto en los casos en que intervenga en los procedimientos de todo tipo de concurso o adjudicación de las adquisiciones, contratación de servicios y de obra pública o su entrega-recepción, en los que formulará sus recomendaciones y en su caso, observaciones, también debidamente sustentados;
+II. Como consecuencia de la fracción que precede, en el ejercicio de sus atribuciones podrá realizar todo tipo de visitas, inspecciones, revisiones o auditorías; requerir informes, datos, documentos y expedientes de todos los servidores públicos municipales relacionados con su antigüedad, funciones y antecedentes laborales; levantar actas administrativas, desahogar todo tipo de diligencias, notificar el resultado de las revisiones o investigaciones que practique; determinar los plazos o términos perentorios en los que los servidores deberán solventar las observaciones o deban proporcionar la información o documentación que se les requiera y legalmente corresponda; que en este último caso, podrán ser de tres a cinco días hábiles, mismos que podrán prorrogarse en igual tiempo, a juicio del Contralor Municipal, e intervenir en forma aleatoria en los procesos de licitación, concurso, invitación restringida o adjudicación directa de las adquisiciones, contrataciones de servicios y obras públicas, así como en los procesos de entrega-recepción de estas últimas.
 
 III. De la misma manera, queda facultado para solicitar información o documentación a las autoridades municipales, estatales o federales, legalmente competentes, que en el desempeño de los actos de investigación o auditoría que realice, sean necesarios para sus informes o determinaciones;
 
@@ -1613,7 +1673,39 @@ X.- Vigilar el exacto cumplimiento de las disposiciones legales y reglamentarias
 
 XI.- Desarrollar los sistemas de control interno del Ayuntamiento y vigilar su exacto cumplimiento; y
 
-XII.- Las demás que le otorguen otros ordenamientos jurídicos o que el Ayuntamiento le confiera dentro del marco de sus atribuciones.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
+
+XII.- En ejercicio de sus atribuciones establecidas en las fracciones I y II, del artículo 86 de esta Ley, concomitantemente con el área de Recursos Humanos del Ayuntamiento, y dependiendo del caso con los servidores públicos y/o sus representantes, efectuará los actos de revisión, análisis e investigación documental, de la antigüedad de los servidores públicos para garantizar las prestaciones y beneficios en materia de prestaciones de seguridad social; asimismo, verificará que el área de Recursos Humanos efectúe la entrega al servidor público o solicitante de la documentación referente a carta de certificación del último salario percibido y la constancia de servicios prestados para el Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XIII.- Supervisar la elaboración por parte del área de Recursos Humanos, de los padrones de Servidores Públicos Municipales, a saber.
+
+1).- De trabajadores en activo y de elementos de seguridad pública;
+
+2).- De extrabajadores y de elementos de seguridad pública;
+
+3).- De pensionados; y
+
+4).- De beneficiaros, por concepto de muerte del trabajador o pensionista.
+
+Los padrones en comento, deberán contener nombre completo de los servidores públicos, de los extrabajadores o de sus beneficiarios, fecha de ingreso, fecha de egreso, o fecha en la cual se emitió la pensión, así como el monto de ésta.
+
+Similar procedimiento se efectuará respecto de los elementos de las Instituciones de Seguridad Pública Municipales.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XIV.- Supervisar que las áreas administrativas del Ayuntamiento, den cabal cumplimiento a todo tipo de Acuerdos, Bandos, Reglamentos Internos, Administrativos, y demás ordenamientos que el Cabildo expida;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XV.- Supervisar que el área de Recursos Humanos del Ayuntamiento, allegue a sus trabajadores, a los elementos de seguridad pública o a los deudos de ambos, copia certificada del acuerdo mediante el cual el Cabildo aprueba y otorga los beneficios de pensiones o jubilaciones, así como "efectuar la autorización y registro de dicho documento; y
+
+a) Sustituir el término "así como de su legal protocolización", "efectuar la autorización y registro de dicho documento".
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XVI.- Las demás que le otorguen otros ordenamientos jurídicos o que el Ayuntamiento le confiera dentro del marco de sus atribuciones.
 
 ###### Artículo 87.
 
@@ -3200,6 +3292,32 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 22 DE ENERO DE 2014.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente a aquel en que sean publicadas en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- La documentación presentada por trabajadores o por elementos de seguridad pública de los Ayuntamientos en la Comisión de Trabajo Previsión y Seguridad Social del Congreso del Estado, hasta antes de la vigencia de la presente Ley, para efectos de que les sean emitidos los correspondientes decretos de pensión, será remitida a su respectivo Ayuntamiento mediante acta de entrega recepción, para su conocimiento, trámite y efectos conducentes.
+
+TERCERO.- Para los efectos de la entrega recepción de los expedientes de trabajadores o de elementos de seguridad pública municipales que estén a resguardo del Congreso del Estado, los Ayuntamientos instalarán una Comisión Receptora, la cual será la responsable de recibir, resguardar y dar turno a la correspondiente área administrativa del Ayuntamiento.
+
+La Comisión en comento tendrá como apoyo logístico y de verificación, el personal del área de Recursos Humanos del Ayuntamiento y la Contraloría Municipal.
+
+CUARTO.- Para los efectos del trámite y en apego al proceso general de expedición de los acuerdos de pensión, los Ayuntamientos del Estado, en todo momento observarán y aplicarán las disposiciones legales contenidas en la Ley del Servicio Civil del Estado de Morelos, la presente Ley Orgánica; la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública; y las Bases Generales para la Expedición de Pensiones, documento éste último precisará los procedimientos de recepción de solicitudes y documentación, trámite, revisión, análisis jurídico, elaboración de resoluciones, publicación y demás procedimientos administrativos.
+
+Los Lineamientos establecidos en las Bases Generales, una vez publicados oficialmente, serán de observancia obligatoria para los Municipios y supletoriamente tendrán vigencia en tanto los Ayuntamientos no emitan su propia reglamentación interna, la cual de ninguna forma deberá contravenir la respectiva legislación y las citadas Bases Generales.
+
+Los Ayuntamientos, una vez elaborados los reglamentos de referencia, turnarán copia al área de prestaciones de seguridad social del Congreso del Estado, estableciendo fecha de reunión para los efectos de que concomitantemente con el área responsable de efectuar los procesos de revisión, elaboración, aprobación y expedición de acuerdos de pensiones municipales, se efectúe el respectivo análisis jurídico y de homologación de procedimientos. Asimismo, el área responsable de la seguridad social del Congreso del Estado, estará en todo momento disponible para efectuar en los Municipios del Estado, los cursos o talleres necesarios con la finalidad de asesorar y capacitar a las áreas responsables municipales, en lo referente al desarrollo de los trabajos de expedición de pensiones y jubilaciones, esto tiene como único objeto, el de homologar a nivel Estado, los procesos y criterios procedimentales de expedición de pensiones de los Ayuntamientos del Estado.
+
+QUINTO.- Los Ayuntamientos en un período que no podrá exceder de cuarenta días hábiles, contados a partir del día siguiente a aquél en que entren en vigencia las presentes reformas, allegarán al Congreso del Estado los padrones de trabajadores, de ex trabajadores, de elementos y ex elementos de seguridad pública, así como de pensionados y beneficiaros de ambos, por concepto de muerte del trabajador o pensionista, descritos en los artículos 41, fracción XXXV, y 86, fracción XIII, de la Ley que se reforma.
+
+SEXTO.- Los Ayuntamientos del Estado que así lo decidieran, podrán establecer convenios con el Área de Seguridad Social del Congreso del Estado, con objeto de subrogar sus actividades y procesos en la emisión de pensiones de sus trabajadores y de sus elementos de seguridad pública, para que dichas prestaciones sean emitidas mediante Decreto Legislativo.
+
+SÉPTIMO.- Para la elaboración y consecuente publicación del Reglamento Interno de Expedición de Pensiones a favor de los Trabajadores del Ayuntamiento; los ayuntamientos contaran con un plazo no mayor a cuatro meses contados a partir de la entrada en vigencia del presente decreto, para lo cual, los Cabildos Municipales en todo momento observarán lo dispuesto en la Constitución Federa (sic); la Constitución Política del Estado Libre y Soberano de Morelos; la Ley del Servicio Civil del Estado de Morelos; la Presente Ley Orgánica; y las Bases Generales de los Procedimientos para la Expedición de Acuerdos de Pensión de los Ayuntamientos del Estado.
+
+OCTAVO.- Para la elaboración y consecuente publicación del Reglamento Interno de Expedición de Pensiones a favor de los Elementos de Seguridad Pública Municipales, los Cabildos en todo momento observarán lo dispuesto en la Constitución Federa (sic); la Constitución Política del Estado Libre y Soberano de Morelos; la Ley del Sistema de Seguridad Pública del Estado de Morelos; la Ley Orgánica Municipal; y la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública; y las Bases Generales de los Procedimientos para la Expedición de Acuerdos de Pensión de las Instituciones Policiales del Sistema de Seguridad Pública de los Ayuntamientos del Estado.
+
+NOVENO.- Remítase al Poder Ejecutivo del Estado de Morelos, para los efectos de su promulgación, refrendo y promulgación en términos de los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ###### ARTÍCULO CUARTO.
 
