@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2013-07-18"
+last_updated: "2014-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DE GOBIERNO DEL 18 DE JULIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -1705,9 +1703,9 @@ Los aspirantes a ingresar, deberán cumplir con los requisitos siguientes:
 
 A. Ministerio Público
 
-(NOTA: EL 14 DE MAYO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 31/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO A, FRACCIÓN I, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE OCTUBRE DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO, en pleno ejercicio de sus derechos;
+I. Ser ciudadano mexicano y en pleno ejercicio de sus derechos;
 
 II. Contar con título de licenciado en derecho expedido y registrado legalmente, con la correspondiente cédula profesional;
 
@@ -1727,9 +1725,9 @@ IX. Los demás que establezcan las disposiciones aplicables y en su caso, los es
 
 B. Peritos
 
-(NOTA: EL 14 DE MAYO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 31/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO B, FRACCIÓN I, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE OCTUBRE DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO y en pleno ejercicio de sus derechos;
+I. Ser ciudadano mexicano y en pleno ejercicio de sus derechos;
 
 II. Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media superior o equivalente;
 
@@ -2103,9 +2101,9 @@ La permanencia es el resultado del cumplimiento constante de los requisitos esta
 
 A. De ingreso:
 
-(NOTA: EL 14 DE MAYO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 31/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO A, FRACCIÓN I, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE OCTUBRE DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO, en pleno ejercicio de sus derechos políticos y civiles, SIN TENER OTRA NACIONALIDAD;
+I. Ser ciudadano mexicano y en pleno ejercicio de sus derechos;
 
 II. Ser de notoria buena conducta, y no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
 
@@ -2672,3 +2670,11 @@ SEXTO.- El Reglamento de la Ley que se expide deberá emitirse en un término de
 > <small>(F. DE E., G.G. 18 DE JULIO DE 2013)</small>
 
 SÉPTIMO.- La evaluación a que se refiere el artículo 29 de la Ley contenida en este decreto, respecto del año 2013, se incluirá en la que se presente respecto del 2014.
+
+G.G. 22 DE ENERO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
