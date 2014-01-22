@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-12-19"
+last_updated: "2014-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2014 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -89,9 +91,11 @@ XIV. Periódico Oficial del Gobierno del Estado de México;
 
 XV. Los procesos de contratación y los contratos que celebre el Estado, sus dependencias y organismos auxiliares y, en su caso, los municipios y sus organismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+
 ###### Artículo 1.
 
-2.- Los actos y procedimientos que dicten o ejecuten las autoridades en las materias reguladas por este Código, así como los procesos administrativos que se susciten por la aplicación del mismo, se emitirán, tramitarán y resolverán conforme a las disposiciones de este Código y el de Procedimientos Administrativos del Estado de México.
+2.- Los actos, procedimientos y convenios que dicten, ejecuten o suscriban las autoridades en las materias reguladas por este Código, así como los procesos administrativos que se susciten por la aplicación del mismo, se emitirán, tramitarán y resolverán conforme a las disposiciones de este Código y el de Procedimientos Administrativos del Estado de México. Serán nulos cuando se emitan en contravención a dichas disposiciones.
 
 Tratándose de la planeación de las materias que regula este Código, se estará a lo dispuesto en la ley especial.
 
@@ -2383,9 +2387,13 @@ X. La suspensión temporal hasta por noventa días a establecimientos con venta 
 
 Una vez aplicada esta medida de seguridad, se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento, se sancione con la clausura temporal o definitiva, parcial o total, según corresponda. Además se procederá penalmente conforme a la ley de la materia.
 
-> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-XI. Las demás que determinen las autoridades sanitarias que tiendan a evitar riesgos o daños a la salud.
+XI. La colocación de sello de aviso para requerir se acredite el cumplimiento de disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, de la Ley General de Salud, la Ley General del Tabaco y su reglamento;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XII. Las demás que determinen las autoridades sanitarias que tiendan a evitar riesgos o daños a la salud.
 
 (REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2417,9 +2425,29 @@ VI. La suspensión de trabajos o de servicios, o la prohibición de actos de uso
 
 La suspensión de trabajos o servicios será temporal, parcial o total, y se aplicará por el tiempo estrictamente necesario para corregir las irregularidades. Durante la suspensión se podrá permitir el acceso de las personas que estén obligadas a corregir las irregularidades que la motivaron;
 
-VII. El aseguramiento de objetos, productos o sustancias, cuando exista sospecha fundada de que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables; y
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-VIII. La desocupación o desalojo de predios, casas, edificios o establecimientos, cuando se considere indispensable para evitar un daño a la salud o la vida de las personas.
+VII. La colocación del aviso de requerimiento que deberá de tener las siguientes características:
+
+a) Tendrá una medida de 1.0 metro de largo por 80 cm de ancho;
+
+b) Se ajustará al diseño de imagen institucional y contendrá además el número de folio correspondiente;
+
+c) Será de papel plastificado de difícil destrucción;
+
+d) Deberá contener el escudo del Gobierno del Estado de México y de la COPRISEM;
+
+e) Nombre y firma de los verificadores sanitarios, así como fecha de la verificación y el folio correspondiente;
+
+f) Deberá contener el modo, lugar y plazo para acreditar el cumplimiento de las disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General del Tabaco y su Reglamento.
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VIII. El aseguramiento de objetos, productos o sustancias, cuanto exista sospecha fundada de que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+IX. La desocupación o desalojo de predios, casas, edificios o establecimientos, cuando se considere indispensable para evitar un daño en la salud o la vida de las personas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7319,7 +7347,7 @@ b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológico
 
 c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso y/o en su caso, no cuente o porte el tarjetón de identificación expedido por la Secretaría de Transporte.
 
-VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien corneta cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso;
+VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso;
 
 IX. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien:
 
@@ -11487,7 +11515,7 @@ II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de s
 
 III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
 
-IV. Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
+IV. Aquellos cuya publicación esté determinada por los Poderes Legislativo, Ejecutivo y Judicial.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -12585,7 +12613,17 @@ a) Infraestructura Vial Primaria.- La integrada por carreteras, pasos vehiculare
 
 b) Infraestructura Vial Local.- La integrada por pasos vehiculares, avenidas, calzadas, calles y cerradas que permiten la comunicación al interior del municipio y la integración con la red vial primaria.
 
-VI. Publicidad Exterior.- A toda forma de difusión de mensajes mediante el uso de anuncios, carteles o cualquier otro medio de comunicación visual que sean observados desde la Infraestructura Vial Primaria, instalada en dicha infraestructura, su derecho (sic) vía y su zona de seguridad;
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VI. Publicidad Exterior.- Toda forma de difusión de mensajes mediante el uso de anuncios, carteles o cualquier otro medio de comunicación visual o auditiva que para su instalación requieran el concurso de diversos elementos, tales como estructuras, soportes, cartelera, pantalla, equipamientos u otros, que siempre serán considerados como una unidad integral y estén colocados o instalados dentro del derecho de vía o su zona de seguridad y puedan ser observados o escuchados desde la infraestructura vial primaria sea de cuota, libre de peaje o de uso restringido y local incluyendo sus elementos complementarios;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VI bis. Responsable de un Inmueble.- Persona física o jurídica colectiva que tenga la propiedad, posesión, administración, disposición, uso o disfrute de un bien inmueble y permita la instalación de un anuncio con o sin estructura en su interior, dentro del derecho de vía; quien será responsable solidario en los términos del capítulo tercero de este Libro;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VI. ter. Anunciante.- Persona física o jurídica colectiva que difunda o publicite productos, bienes, servicios o actividades, haciendo uso de cualquier elemento que corresponda a la publicidad exterior que se encuentre instalada dentro del derecho de vía;
 
 VII. Secretaría.- A la Secretaría de Comunicaciones del Estado de México;
 
@@ -12628,6 +12666,10 @@ IV. El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Es
 V. El Sistema de Transportes Masivo y Teleférico del Estado de México; y
 
 VI. Los municipios.
+
+> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
+
+Las autoridades a que se refiere el presente artículo sólo podrán emitir y ejecutar actos administrativos en el ámbito de su competencia.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12681,9 +12723,13 @@ l. Infraestructura vial primaria; y
 
 II. Infraestructura vial local.
 
-La infraestructura vial primaria estará a cargo del Estado y la infraestructura vial local, de los municipios.
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
-La infraestructura vial podrá ser libre de peaje, de cuota o de uso restringido.
+La infraestructura vial primaria estará a cargo del estado, podrá ser de cuota, libre de peaje o de uso restringido.
+
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+
+La infraestructura vial local será aquella que no sea considerada vial primaria y estará a cargo de los municipios.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12811,21 +12857,21 @@ VII. Formular y divulgar el Programa Estatal de Publicidad Exterior;
 
 VIII. Las demás que les atribuyan otras disposiciones del Código Administrativo del Estado de México, Leyes, reglamentos y demás disposiciones administrativas aplicables.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
-24.- Se requiere permiso para la instalación de Publicidad Exterior que se instale por un período mayor a noventa días. El permiso tendrá vigencia hasta por un año, renovable por el mismo plazo de vigencia por el que fue otorgada, siempre que se esté al corriente en el cumplimiento de las obligaciones a cargo del titular.
+24.- Se requiere permiso para la colocación de Publicidad Exterior que se instale por un periodo mayor a noventa días. El permiso se otorgará siempre y cuando se cumplan todos y cada uno de los requisitos previstos en el presente capítulo y demás disposiciones aplicables a la materia y tendrá vigencia hasta por un año. Será obligación del particular preservar las condiciones que en su momento permitieron la expedición del permiso. Podrá ser renovable por una sola ocasión por el mismo plazo por el que fue otorgado de acuerdo a lo dispuesto por el penúltimo párrafo del artículo 17.29 de este Código, siempre que se esté al corriente en el cumplimiento de las obligaciones a cargo del titular.
 
-La autoridad competente se abstendrá de renovar los permisos en los casos señalados por el Programa Estatal de Publicidad Exterior.
+Los permisos que correspondan a la publicidad exterior que se pretenda instalar en la infraestructura vial primaria, serán expedidos por las autoridades contempladas en las fracciones de la I a la V del artículo 17.5 del presente Código, en el ámbito de sus atribuciones, las que correspondan a la infraestructura vial local, serán emitidas por los municipios.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
-25.- Se requiere autorización cuando la instalación de Publicidad Exterior se coloque por un período menor a noventa días. La autorización tendrá la vigencia que corresponda al período de exhibición de la publicidad y podrá ser renovada por una sola ocasión por el mismo plazo por el que fue otorgada, siempre que se esté al corriente en el cumplimiento de las obligaciones a cargo del titular.
+25.- Se requiere autorización para la colocación de publicidad exterior cuando se instale por un periodo menor a noventa días. La autorización se otorgará siempre y cuando se cumplan todos y cada uno de los requisitos previstos en el presente capítulo y demás disposiciones aplicables a la materia y tendrá la vigencia que corresponda al período de exhibición de la publicidad. Será obligación del particular preservar las condiciones que en su momento permitieron la expedición de la autorización y podrá ser renovada por una sola ocasión por el mismo plazo por el que fue otorgada de acuerdo a lo dispuesto por el penúltimo párrafo del artículo 17.29 de este Código, siempre que se esté al corriente en el cumplimiento de las obligaciones a cargo del titular.
 
-La autoridad competente se abstendrá de renovar las autorizaciones en los casos señalados por el Programa Estatal de Publicidad Exterior.
+Las autorizaciones que correspondan a la publicidad exterior que se pretenda instalar en la infraestructura vial primaria, serán expedidas por las autoridades contempladas en las fracciones de la I a la V del artículo 17.5 del presente Código, en el ámbito de sus atribuciones, las que correspondan a la infraestructura vial local, serán emitidas por los municipios.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12839,25 +12885,43 @@ La autoridad competente se abstendrá de renovar las autorizaciones en los casos
 
 27.- Los permisos y autorizaciones no podrán ser objeto de cesión por ninguna vía.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
-28.- Los interesados en obtener permiso o autorización en términos del presente capítulo deberán cubrir el pago de derechos previsto en la ley de la materia y cumplir con los requisitos contenidos en el Reglamento correspondiente, así como en el Programa Estatal de Publicidad Exterior.
+28.- La autoridad competente se abstendrá de renovar los permisos y autorizaciones en los casos señalados en los Reglamentos de la materia, normas administrativas de observancia general y en el Programa Estatal de Publicidad Exterior sin perjuicio de lo previsto en el presente Capítulo.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
-29.- Sin perjuicio de otras disposiciones legales y reglamentarias, así como de lo previsto en los permisos y autorizaciones respectivos, son obligaciones de los titulares de los mismos:
+29.- Sin perjuicio de los requisitos previstos en otras disposiciones así como de lo previsto en los permisos y autorizaciones respectivos, son obligaciones de los titulares de los mismos:
 
-l. Conservar la publicidad exterior en condiciones óptimas de seguridad y estabilidad con el mantenimiento adecuado;
+I. Contar con un seguro de responsabilidad civil y de daños a terceros con la misma vigencia del permiso o autorización que en su caso se otorgue y hasta en tanto la publicidad exterior sea retirada. La misma regla se observará en el caso de renovación;
 
-II. Contar con seguro vigente de responsabilidad civil y daños a terceros durante la permanencia del anuncio y de su estructura, debiendo conservar en el inmueble donde se localice la Publicidad Exterior copia simple de la póliza correspondiente;
+II. Contar con fianza para cubrir los gastos que la autoridad pueda llegar a erogar, derivados del incumplimiento del titular a cualquiera de las obligaciones que le impone el presente libro y demás disposiciones aplicables a la materia con la misma vigencia del permiso o autorización que en su caso se otorgue y hasta en tanto la estructura o anuncio sea retirada. La misma regla se observará en el caso de renovación;
 
-III. Colocar en lugar visible del anuncio nombre del titular del permiso o autorización y el número de autorización o permiso correspondiente; y
+III. Contar con memoria de cálculo correspondiente, avalada por un perito responsable de obra, registrado en el Estado de México;
 
-IV. Permitir el acceso al inmueble y brindar todas las facilidades al personal comisionado para realizar las visitas de verificación.
+IV. Contar con bitácora de mantenimiento de la publicidad exterior, firmada por un perito responsable de obra, registrado en el Estado de México;
+
+V. Acreditar que el inmueble o lugar donde se pretenda ubicar la estructura o anuncio objeto de la solicitud del permiso o autorización cuente con uso de suelo acorde a la actividad pretendida;
+
+VI. Colocar en un lugar visible del anuncio y estructura, una placa que contenga el nombre del titular del permiso o autorización y el número de éstos asignados por la autoridad competente y que pueda ser apreciable a simple vista. La falta de este requisito presume la inexistencia del permiso o autorización correspondiente y por tanto la falta de cumplimiento a los requisitos previstos en el presente Capítulo;
+
+VII. Conservar la publicidad exterior en condiciones óptimas de seguridad y estabilidad con el mantenimiento adecuado;
+
+VIII. Permitir el acceso al inmueble y brindar todas las facilidades al personal comisionado para realizar las visitas de verificación o cualquier otra diligencia que requiera la autoridad en ejercicio de las facultades que le confiere este Código y demás normatividad aplicable a la materia;
+
+IX. Ejecutar los trabajos de conservación, mantenimiento y reparación de los elementos que conforman la publicidad exterior y garantizar las condiciones de seguridad de la misma;
+
+X. Las demás previstas en otras disposiciones legales, reglamentarias y disposiciones administrativas de carácter general.
+
+No podrán realizarse las actividades amparadas por el permiso o autorización de que se trate si no se cumplen con todas las obligaciones previstas en el presente artículo. El titular del permiso o autorización deberá presentar a la autoridad competente las pruebas documentales que acrediten el cumplimiento de las fracciones I y II del presente artículo dentro del plazo máximo de tres días hábiles contados a partir de la notificación del permiso o autorización de que se trate o bien de la renovación correspondiente, en cuyo defecto el permiso, autorización o renovación no tendrá eficacia ni validez y se entenderá por no expedido sin necesidad de declaración administrativa, lo cual será aplicable aun cuando la observancia de la obligación se realice de manera extemporánea.
+
+Los permisos y autorizaciones podrán renovarse por una sola ocasión por un plazo igual al otorgado siempre y cuando no existan variaciones de las causas bajo las cuales fueron otorgados previa solicitud por escrito que deberá presentarse ante autoridad competente con una anticipación mínima de quince días hábiles previos a la fecha de vencimiento de la vigencia de la autorización o permiso del que se trate, debiéndose acreditar el cumplimiento a las obligaciones previstas en el presente artículo, salvo las previstas en las fracciones I y II para lo cual se contará con el plazo a que se refiere el párrafo anterior.
+
+Cualquier incumplimiento a las obligaciones previstas en el presente artículo que pongan en peligro el interés público o a las personas y sus bienes podrán ser objeto de imposición de medidas de seguridad sin perjuicio de las sanciones administrativas que resulten procedentes, debiéndose privilegiar el orden público y el interés social sobre el interés particular.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12865,11 +12929,11 @@ IV. Permitir el acceso al inmueble y brindar todas las facilidades al personal c
 
 30.- No requerirán permiso ni autorización los trabajos de urgencia y mantenimiento que sean necesarios para la conservación y buen funcionamiento de la infraestructura vial, la señalización e información vial, de obra y de gobierno estatales y aquellos trabajos comprendidos en los títulos de concesión otorgados o derivados de los mismos.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
-31.- La expedición de los permisos y autorizaciones a que se refiere este Capítulo se sujetará al Programa Estatal de Publicidad Exterior.
+31.- Sin perjuicio de los requisitos y obligaciones previstos en el presente Capítulo, la expedición de los permisos y autorizaciones se sujetará al Programa Estatal de Publicidad Exterior y demás disposiciones administrativas de observancia general.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12937,13 +13001,25 @@ VIII. Los demás lugares que expresamente prohíban otras leyes y demás disposi
 
 En el caso de colocación de publicidad exterior en puentes peatonales, también se estará a las disposiciones del Programa Estatal de Publicidad Exterior.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
-37.- Son responsables solidarios, las personas físicas o jurídicas colectivas propietarias de inmuebles en los que se realice obra o instalación a las que se refiere el presente capítulo, sin contar con el permiso o autorización correspondiente.
+37.- Son responsables solidarios del pago de multas, aplicación de medidas de seguridad, sanciones y su ejecución, las personas físicas o morales, responsables del inmueble donde se instale o pretenda instalar cualquier elemento de publicidad exterior.
 
-Para los efectos de notificación administrativa y del procedimiento de ejecución, suspensión, clausura y retiro; los responsables solidarios se podrán constituir en depositarios de los bienes para efectos del resguardo, custodia, devolución o retiro de las estructuras.
+Ante el ejercicio de las facultades de verificación de la autoridad competente, los responsables solidarios deberán permitir el acceso al inmueble y brindar todas las facilidades que resulten necesarias.
+
+El incumplimiento a la obligación anterior será sancionada en los términos del artículo 17.86 de este Código sin perjuicio de la imposición de medidas de seguridad que resulten necesarias así como de la responsabilidad civil y penal en que se incurra.
+
+> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
+
+###### Artículo 17.
+
+37 Bis.- El anunciante deberá verificar que la persona con quien contrate cuente con autorización o permiso vigente para el uso, explotación o aprovechamiento de la publicidad exterior dentro del derecho de vía, debiéndose obtener constancia de ello. El anunciante deberá contar en todo momento con copia del permiso o autorización correspondiente.
+
+La autoridad competente podrá requerir al anunciante en cualquier momento acredite haberse cerciorado de la existencia del permiso o autorización correspondiente así como exhibir la copia del mismo.
+
+La violación al presente artículo será sancionada en los términos del artículo 17.86 fracción II de este Código.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12960,6 +13036,14 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 39.- Las concesiones se otorgarán mediante concurso público, en el que se establezcan los mismos requisitos y condiciones para todos los participantes, a sociedades mercantiles constituidas conforme a las leyes mexicanas, en los términos que se establezcan en el presente Libro y los reglamentos respectivos.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+## TITULO CUARTO. De los Organismos Descentralizados y el Registro Estatal de Comunicaciones
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO SEGUNDO. De las autoridades
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13007,14 +13091,6 @@ Declarada desierta una licitación pública, se podrá adjudicar la concesión a
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO CUARTO. De los Organismos Descentralizados y el Registro Estatal de Comunicaciones
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO SEGUNDO. De las autoridades
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 17.
 
 41.- La Secretaría podrá cancelar el procedimiento de otorgamiento de la concesión por causas de interés público, caso fortuito o de fuerza mayor; asimismo, podrá cancelarlo cuando existan circunstancias debidamente justificadas que extingan de la necesidad pública que le dio origen; y que, en caso de continuarse con el procedimiento, se pudiera ocasionar un daño o perjuicio al Estado.
@@ -13049,6 +13125,10 @@ V. En general cualquier consideración de carácter financiero que ocurra durant
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO TERCERO. De las normas técnicas
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 44.- El concesionario deberá solicitar por escrito a la Secretaría la modificación del plazo; la Secretaría contestará dentro de los sesenta días hábiles contados a partir de la fecha de presentación de la misma debidamente requisitada.
@@ -13062,10 +13142,6 @@ II. Los costos futuros de ampliación y mejoramiento; y
 III. Las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
-
-### CAPITULO TERCERO. De las normas técnicas
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13153,15 +13229,15 @@ b) Al término de la concesión o sus modificaciones, los bienes objeto de la co
 
 > <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
+### CAPITULO CUARTO. De los peritos responsables de obra
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 48.- El servicio público de transporte masivo o de alta capacidad y teleférico, deberá ser prestado de manera regular y uniforme, mediante retribución de los usuarios. Las concesiones obligan a sus titulares a la prestación directa del servicio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
-
-### CAPITULO CUARTO. De los peritos responsables de obra
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13343,15 +13419,15 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO PRIMERO. De las licencias de construcción
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 57.- El titular de una concesión o permiso que hubiere sido revocado estará imposibilitado para obtener otro nuevo dentro de un plazo no menor al cincuenta por ciento del plazo original del título de concesión que hubiere incumplido, dicho plazo se contará a partir de que hubiere quedado firme la resolución respectiva.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO PRIMERO. De las licencias de construcción
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13365,15 +13441,15 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO SEGUNDO. De los permisos de obra
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 60.- El dictamen de incorporación vial es la resolución técnica que determina la factibilidad de acceder a la infraestructura vial primaria y de cuota determinando las obras y acciones necesarias para tal fin.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO SEGUNDO. De los permisos de obra
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13403,35 +13479,73 @@ III. El dictamen de procedencia para licencia de construcción en caso de constr
 
 64.- La Junta de Caminos del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la planeación, programación, presupuestación, ejecución, conservación, mantenimiento y administración de la infraestructura vial primaria libre de peaje y de uso restringido.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
-65.- La Junta, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
+65.- La Junta para el cumplimiento de su objeto, tiene las atribuciones siguientes:
 
-I. Otorgar y declarar la terminación de permisos para la utilización del derecho de vía, así como vigilar y supervisar el cumplimiento de las obligaciones derivadas de los mismos;
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-II. Vigilar que se respete el derecho de vía en la infraestructura vial a su cargo, así como preservar, administrar y regular el uso, aprovechamiento y restricciones del mismo, de acuerdo a la normatividad reglamentaria;
+I. Otorgar y declarar la terminación de permisos y autorizaciones así como en su caso las correspondientes renovaciones para la utilización, uso, explotación y aprovechamiento del derecho de vía y lo correspondiente a la publicidad exterior a que se refieren los capítulos segundo y tercero del título segundo de este libro, en la infraestructura vial primaria libre de peaje y de uso restringido a su cargo, así como vigilar y supervisar el cumplimiento de las obligaciones derivadas de los mismos;
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+II. Vigilar que se respete el derecho de vía y lo correspondiente a materia de publicidad exterior en la infraestructura vial primaria libre de peaje y de uso restringido a su cargo, así como preservar, administrar y regular el uso, aprovechamiento y restricciones de los mismos, de acuerdo a lo dispuesto por este Código y la normatividad reglamentaria aplicable a la materia;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 III. Proyectar, instalar y mantener en operación el señalamiento y los dispositivos de seguridad en la infraestructura vial a su cargo;
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 IV. Administrar, operar y mantener la maquinaria y equipo de construcción a su cuidado o de su propiedad;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 V. Asesorar a los ayuntamientos en la realización de obras a su cargo relacionadas con la infraestructura vial;
 
-VI. Efectuar el cobro de derechos conforme a la ley por la expedición de permisos para la utilización del derecho de vía;
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-VII. Proporcionar servicios técnicos a terceros, cuando le sean solicitados, para la realización de obras de infraestructura vial; y
+VI. Efectuar el cobro de los derechos que señale la ley, entre otros, por la expedición de permisos o autorizaciones por el uso explotación y aprovechamiento del derecho de vía y lo correspondiente a la publicidad exterior en la infraestructura vial primaria libre de peaje y de uso restringido a su cargo;
 
-VIII. Las demás que se señalen en este Libro y otras disposiciones.
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+VII. Proporcionar servicios técnicos a terceros, cuando le sean solicitados, para la realización de obras de infraestructura vial; y (sic)
 
-###### Artículo 17.
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-66.- La dirección y administración de la Junta está a cargo de un consejo directivo y un director general.
+VIII. Verificar en el ámbito de su competencia, el cumplimiento por parte de los particulares de las disposiciones aplicables a la materia a que se refiere este libro, ordenando el inicio de procedimientos administrativos, visitas de verificación administrativa y demás actos necesarios para el cumplimiento de dicho fin. Asimismo podrá determinar, imponer y aplicar medidas de seguridad y sanciones administrativas a los particulares, por el incumplimiento de las diversas disposiciones contenidas en este libro y demás disposiciones reglamentarias y secundarias aplicables;
 
-La organización y funcionamiento de la Junta se rige por el reglamento interno y su manual de organización que expida el consejo directivo.
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+IX. Requerir a los particulares que hagan uso, explotación y aprovechamiento del derecho de vía y lo correspondiente a la publicidad exterior en la infraestructura vial primaria libre de peaje y de uso restringido, para que en un término de cinco días una vez realizada la notificación, presenten en las oficinas de la Junta la información y/o documentación que en su caso se les requiera para integrar los registros, archivos para conocer las circunstancias relativas a la observancia de las disposiciones aplicables a la materia de que se trate, sin perjuicio de lo dispuesto en la fracción anterior del presente artículo;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+X. Realizar invitaciones, consultas o censos a los particulares que la autoridad considere pertinentes para contar con la información que sea necesaria para el debido ejercicio de su objeto y de las atribuciones anteriores, en los términos de lo dispuesto por este libro y las diversas disposiciones Reglamentarias, sin que ello implique el inicio del procedimiento administrativo;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XI. Ordenar y ejecutar la desocupación, demolición o retiro inmediato de los elementos de la obra o publicidad exterior, que se encuentren dentro de la infraestructura vial primaria libre de peaje y de uso restringido, su derecho de vía, zona de seguridad y lo relativo a la publicidad exterior, por causas de utilidad pública, interés general o se ponga en peligro a las personas y sus bienes, dentro del plazo que al efecto se determine conforme a la naturaleza y necesidades de las causas que justifican la determinación. Previo procedimiento administrativo;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XII. Ordenar a los titulares de permisos y autorizaciones la ejecución de trabajos de conservación, mantenimiento y reparación de obras, estructuras, instalaciones o anuncios publicitarios que sean necesarios para su óptimo funcionamiento y seguridad.
+
+Para el mejor ejercicio de sus atribuciones, si así lo estima pertinente podrá solicitar de las autoridades competentes los informes o dictámenes técnicos que estime necesarios;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XIII. Solicitar el auxilio de otras dependencias o entidades de la Administración Pública del Estado de México, para el ejercicio de sus facultades pudiendo solicitar el uso de la fuerza pública;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XIV. Imponer y ejecutar las sanciones y medidas de seguridad a que se refieren los artículos 17.86 y 17.87 del presente Libro;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XV. Las demás que se señalen en este Libro, en su Reglamento Interno, el Programa Estatal de Publicidad Exterior, los Reglamentos de la materia, las Normas Técnicas, el Manual General de Organización de la Junta de Caminos del Estado de México y las demás disposiciones administrativas de observancia general que resulten necesarias para el cumplimiento de su objeto.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13442,6 +13556,14 @@ La organización y funcionamiento de la Junta se rige por el reglamento interno 
 ### CAPITULO TERCERO. De las constancias
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 17.
+
+66.- La dirección y administración de la Junta está a cargo de un consejo directivo y un director general.
+
+La organización y funcionamiento de la Junta se rige por el reglamento interno y su manual de organización que expida el consejo directivo.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13535,6 +13657,10 @@ XXI. Las demás que se señalen en este Libro y otras disposiciones.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO PRIMERO. De los lineamientos de diseño
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 72.- La dirección y administración del Sistema está a cargo de un consejo directivo y un director general.
@@ -13542,10 +13668,6 @@ XXI. Las demás que se señalen en este Libro y otras disposiciones.
 La organización y funcionamiento del Sistema se rige por el reglamento interno expedido por el consejo directivo.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO PRIMERO. De los lineamientos de diseño
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13651,6 +13773,10 @@ XVI. Las demás que se señalen en este Libro y otras disposiciones.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO SEGUNDO. De los lineamientos del proyecto
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 78.- La dirección y administración del Sistema está a cargo de un Consejo Directivo y un Director General.
@@ -13658,10 +13784,6 @@ XVI. Las demás que se señalen en este Libro y otras disposiciones.
 La organización y funcionamiento del Sistema se rige por el Reglamento Interno expedido por el Consejo Directivo.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO SEGUNDO. De los lineamientos del proyecto
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13717,47 +13839,119 @@ El Registro Estatal de Comunicaciones será público y tendrá efectos declarati
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-###### Artículo 17.
-
-84.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Título.
-
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
 ### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
-85.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
+84.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Título.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
-86.- Las infracciones a las disposiciones de este Libro y las que de él emanen, en materia de comunicaciones de jurisdicción local, serán sancionadas con:
+85.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
 
-l. Amonestación;
-
-> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
-
-II. Multa hasta de un siete por ciento del monto total de la inversión de la obra o instalaciones, en el entendido de que tratándose de obras o instalaciones hechas en el derecho de vía y su zona de seguridad o de influencia en contravención a lo dispuesto en el presente Libro incluyendo los casos de Publicidad Exterior, la multa será por el cincuenta por ciento del valor de la obra o instalación;
-
-III. Demolición de la obra o retiro de las instalaciones a costa del infractor, en caso de que se ponga en riesgo la seguridad de los usuarios o se interrumpa la prestación del servicio;
-
-IV. Suspensión temporal o definitiva, parcial o total, de la obra o instalaciones;
-
-V. Revocación de la concesión, permiso o autorización;
-
-VI. Retiro de anuncios publicitarios; y
-
-VII. Las sanciones que se contengan en los respectivos títulos de concesión.
-
-> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
 
 ## TITULO PRIMERO. De las disposiciones generales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 17.
+
+86.- Las infracciones o incumplimiento a las disposiciones de este Libro y las que de él emanen, en materia de comunicaciones de jurisdicción local, serán sancionadas con:
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
+l. Amonestación;
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+II. Multa hasta de un siete por ciento del monto total de la inversión de la obra o instalaciones, en el entendido de que tratándose de obras o instalaciones hechas en el derecho de vía y su zona de seguridad o de influencia en contravención a lo dispuesto en el presente Libro, la multa será por el cincuenta por ciento del valor de la obra o instalación.
+
+Tratándose de infracciones a las disposiciones del Capítulo Tercero, del Título Segundo, de este Libro se sancionarán con multa de cien a cinco mil veces el salario mínimo diario vigente en el área geográfica de que se trate al momento de la comisión de la infracción;
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+III. Demolición de la obra o retiro de las instalaciones a costa del infractor, en caso de que se ponga en riesgo la seguridad de los usuarios, se interrumpa la prestación del servicio o se incumpla con las obligaciones y requisitos previstos en el presente Libro;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
+IV. Suspensión temporal o definitiva, parcial o total, de la obra o instalaciones;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
+V. Revocación de la concesión, permiso o autorización;
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VI. Retiro de la publicidad exterior o de sus elementos;
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VII. Las sanciones que se contengan en los respectivos títulos de concesión;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VIII. La rescisión o terminación de cualquier contrato o convenio;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+IX. Las demás que señalen otros ordenamientos.
+
+> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
+
+Las sanciones se impondrán, en los términos del artículo 137 del Código de Procedimientos Administrativos del Estado de México, sin perjuicio de las medidas de seguridad, medios de apremio y medidas disciplinarias que resulten pertinentes.
+
+> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
+
+Las sanciones se impondrán sin perjuicio de la responsabilidad civil o penal que pudieran resultar por los hechos o actos constitutivos de la infracción.
+
+> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
+
+###### Artículo 17.
+
+87.- Las medidas de seguridad son resoluciones provisionales de inmediata ejecución y caracter urgente que constituyen un instrumento para salvaguardar el interés público y prevenir daños a las personas o sus bienes, las que podrán ejecutarse en cualquier momento y duraran todo el tiempo en que persistan las causas que las motivaron pudiendo ejecutarse más de una cuando las circunstancias lo exijan pudiendo consistir en:
+
+I. Suspensión de la publicidad exterior o en su caso de los trabajos, obra o instalación de la misma;
+
+II. Retiro o demolición de la publicidad exterior o de sus elementos.
+
+En los casos en que por la gravedad de las circunstancias se ponga en peligro el interés general, esta medida podrá imponerse aún cuando no se hubiese notificado el procedimiento o el inicio del procedimiento de verificación, debiendo ordenar la notificación al día hábil siguiente en los términos del Código de Procedimientos Administrativos del Estado de México;
+
+III. Cualquier otra acción o medida que a juicio de la autoridad tienda a evitar daños a personas, bienes o a la infraestructura vial;
+
+IV. Las previstas en otros ordenamientos.
+
+Los responsables deberán prestar toda facilidad para la ejecución de las medidas de seguridad, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir por oponerse a las mismas.
+
+> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
+
+###### Artículo 17.
+
+88.- Para el retiro de la publicidad exterior o sus elementos deberá estarse a lo siguiente:
+
+En caso de que el retiro sea ejecutado por la autoridad competente, ésta levantará un acta señalando los elementos que fueron retirados debiendo notificar al propietario o poseedor de éstos para que acuda a recogerlos en un término de cinco días hábiles indicando el lugar en que se encuentren.
+
+El material que resulte del retiro, podrá ser devuelto a quien lo solicite, debiendo acreditar:
+
+a) Ser su legítimo propietario o poseedor.
+
+b) Efectuar el pago de la multa que en su caso se hubiese impuesto.
+
+c) Realizar el pago y exhibir los recibos correspondientes por los conceptos de retiro de estructuras y servicio de almacenaje de estructuras, en los términos establecidos en el Código Financiero del Estado de México y Municipios.
+
+Cuando el propietario o poseedor de los elementos retirados no acuda a reclamarlos dentro del plazo señalado, la autoridad competente podrá disponer de los mismos o proceder a su destrucción sin responsabilidad alguna.
+
+El responsable del inmueble deberá prestar todo auxilio a la autoridad administrativa para proceder al retiro. La autoridad competente podrá designar como depositario de los bienes a éste.
+
+Si el retiro es ordenado como consecuencia de una medida de seguridad, la autoridad competente podrá proceder de forma directa e inmediata a la ejecución de la medida correspondiente sin responsabilidad alguna sobre los daños que puedan producirse sobre la estructura privilegiando el orden público y el interés social sobre el particular.
+
+Si el retiro es ordenado como consecuencia de una sanción o resolución que ponga fin al procedimiento, el propietario o poseedor deberá retirar por sus propios medios la estructura en un término de cinco días hábiles, en cuyo defecto, la autoridad competente podrá proceder al retiro sin responsabilidad alguna sobre los daños que puedan causarse a la estructura debiendo cumplir con la obligación a que se refiere el segundo párrafo de este artículo.
+
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 # LIBRO DECIMO OCTAVO. De las Construcciones
 
@@ -16366,3 +16560,19 @@ TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o
 CUARTO.- El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
 
 QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
+
+G.G. 22 DE ENERO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Los reglamentos, normas y demás disposiciones de carácter general que hubiesen sido expedidas previo a la inclusión del Capítulo I del Título Cuarto del Libro Décimo Séptimo del Código Administrativo del Estado de México así como del presente Decreto seguirán siendo vigentes y aplicables exclusivamente en lo que no se opongan a éste último.
+
+TERCERO.- A la entrada en vigor del presente Decreto, los titulares de permisos o autorizaciones vigentes para publicidad exterior que se encuentren en la infraestructura vial primaria libre de peaje y de uso restringido contarán con un término de diez días hábiles para presentar un escrito a la Junta de Caminos del Estado de México, señalando el número de permiso o autorización con la que cuenten, acreditar la personalidad del representante legal y señalar un domicilio para oír y recibir documentos o notificaciones dentro del Estado de México, o bien para confirmar el domicilio indicado en el permiso o autorización de que se trate.
+
+El incumplimiento a la obligación prevista en el presente artículo presumirá la falta de permiso o autorización del titular o propietario de que se trate, facultando a la Junta de Caminos del Estado de México para ejercer sus facultades de verificación y de imposición de medidas de seguridad y sanciones.
+
+La Junta de Caminos del Estado de México deberá integrar un registro de permisos y autorizaciones con los datos que le sean proporcionados. La inscripción en el registro no implicará pronunciamiento sobre la legalidad o no del permiso, autorización o circunstancia de la que se trate.
+
+CUARTO.- Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, excepto las disposiciones relativas a la caducidad y al cumplimiento de sentencia.
+
+QUINTO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
