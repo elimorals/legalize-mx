@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2013-08-26"
+last_updated: "2014-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE FEBRERO DE 2014 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2014.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -483,11 +485,17 @@ b) Estudiar los asuntos relacionados con el fortalecimiento de los vínculos ent
 
 c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-X.- EDUCACIÓN Y CULTURA:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2014)</small>
 
-a) La legislación en materia educativa y cultural;
+X.- Educación:
 
-b) Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones educativas y culturales;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2014)</small>
+
+a) La legislación en materia de educación;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2014)</small>
+
+b) Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones educativas;
 
 c) La denominación de años o días festivos oficiales;
 
@@ -515,7 +523,7 @@ c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2013)</small>
 
-XIII.- Igualdad de Género:
+XIII.- IGUALDAD DE GÉNERO:
 
 a) Revisar y actualizar el marco jurídico necesario a fin de hacer cumplir las obligaciones en materia de igualdad entre mujeres y hombres en el Estado de Puebla;
 
@@ -748,6 +756,32 @@ XXXII.- ORGANIZACIONES NO GUBERNAMENTALES:
 a) Legislación en materia de Organizaciones No Gubernamentales; y
 
 b) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXIII.- Cultura:
+
+a) La legislación en materia de cultura;
+
+b) Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones culturales;
+
+c) La denominación de años o días festivos oficiales;
+
+d) El otorgamiento de reconocimientos y estímulos cívicos; y
+
+e) Las demás que le confiera este Reglamento, las leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXIV.- Participación Ciudadana:
+
+a) Adecuar el marco jurídico local en materia de participación ciudadana, con la finalidad de realizar las modificaciones y armonizaciones necesarias para implementar los instrumentos correspondientes en la materia;
+
+b) Proponer e impulsar las actividades legislativas que permitan incrementar la participación ciudadana;
+
+c) Promover y garantizar la participación ciudadana en la toma de decisiones; y
+
+d) Las demás que le confiera este Reglamento, las leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
 #### SECCIÓN SEGUNDA. DE LAS COMISIONES TRANSITORIAS
 
@@ -2756,3 +2790,9 @@ TERCERO.- Los asuntos en trámite presentados o turnados a la Comisión de Equid
 CUARTO.- Todos los actos suscritos por la Comisión de Equidad y Género y su Presidencia a la entrada en vigor de la presente reforma, sus efectos se entenderán referidos a la Comisión de Igualdad de Género.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE ENERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
