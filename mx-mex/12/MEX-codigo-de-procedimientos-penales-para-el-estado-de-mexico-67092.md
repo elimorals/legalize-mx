@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2013-11-29"
+last_updated: "2014-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -1681,7 +1681,7 @@ Varios imputados
 
 ###### Artículo 164.
 
-Cuando deban declarar varios imputados, las declaraciones serán recibidas por separado y sucesivamente, evitando que ellos se comuniquen entre sí antes de su recepción.
+Cuando deban declarar varios imputados, las declaraciones serán recibidas, por separado y sucesivamente, evitando que ellos se comuniquen entre sí antes de su recepción.
 
 Restricción policial
 
@@ -4213,9 +4213,9 @@ El ministerio público manifestará su deseo de aplicar el procedimiento abrevia
 
 En caso de dictarse sentencia de condena, se aplicarán las penas mínimas previstas por la ley para el delito cometido, reducidas en un tercio, sin perjuicio de cualquier otro beneficio que proceda en términos del código penal.
 
-> <small>(REFORMADO, G.G. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
-Tratándose de los delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia, robo cometido a interior de casa habitación con violencia, delitos contra el correcto funcionamiento de las instituciones de seguridad y órganos jurisdiccionales, y de la seguridad de los servidores públicos y particulares, así como el realizado contra el ambiente, contemplado en el párrafo segundo del artículo 229, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
+Tratándose de los delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia, robo cometido a interior de casa habitación con violencia, abuso de autoridad contemplado en la fracción II del segundo párrafo del artículo 137 bis, delitos contra el correcto funcionamiento de las instituciones de seguridad y órganos jurisdiccionales, de la seguridad de los servidores públicos y particulares, y el realizado contra el ambiente, contemplado en el párrafo segundo del artículo 229, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
 
 Verificación del juez
 
@@ -4801,6 +4801,8 @@ Cuando al sentenciado que goza de libertad, se le haya otorgado un sustitutivo p
 
 Remisión parcial de la pena
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+
 ###### Artículo 453.
 
 El juez ejecutor de sentencias vigilará que el tratamiento de reinserción social del sentenciado que aplique el Poder Ejecutivo, se desarrolle sobre la base del trabajo, la capacitación, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir y que se observen los beneficios que para él prevé la ley.
@@ -4831,7 +4833,13 @@ IX. Las demás que señale este código.
 
 ###### Artículo 455.
 
-Por cada dos días de trabajo del interno se hará remisión de uno de prisión, siempre que observe buena conducta, participe regularmente en las actividades educativas, recreativas, de salud y deporté, que se organicen en el centro de internamiento y que a juicio del juez ejecutor de sentencias, revele otros datos de efectiva reinserción del sentenciado a la sociedad. Este último criterio será en todo caso factor determinante para la concesión o negación de la remisión parcial de la pena, por parte del juez ejecutor de sentencias.
+Por cada dos días de trabajo el interno tendrá derecho a la remisión de uno de prisión, siempre y cuando éste haya:
+
+I. Observado buena conducta;
+
+II. Participado regularmente en más actividades educativas, recreativas, de salud y deporte que se hayan organizado en el centro de internamiento;
+
+III. Manifestado datos de efectiva reinserción del sentenciado a la sociedad. Este requisito será en todo caso factor determinante para la concesión o negación de la remisión parcial de la pena, por parte del juez ejecutor de sentencias.
 
 A los internos que por falta de ocupación laboral asistan regularmente a la escuela le serán tomadas en cuenta dichas actividades para el efecto de la remisión parcial de la pena y cualquier otra medida tendente a su reinserción social.
 
@@ -4927,21 +4935,27 @@ Al ser concedida la prelibertad, en cualquiera de sus modalidades, el juez ejecu
 
 Beneficio de libertad condicionada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+
 ###### Artículo 465.
 
-El beneficio de libertad condicionada al sistema de localización y rastreo, es un medio de ejecutar la sanción penal hasta en tanto se alcance algún beneficio de prelibertad, remisión parcial de la pena o libertad condicional.
+El beneficio de libertad condicionada al sistema de localización y rastreo es un medio de ejecutar la sanción penal hasta en tanto se alcance la prelibertad, o libertad condicional.
 
 > <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 Este beneficio no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación o robo que cause la muerte.
 
-Para la concesión de este beneficio el juez fijará las condiciones para su otorgamiento y se apoyará en el dictamen que emita el Consejo Interno Interdisciplinario correspondiente.
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+
+Para la concesión de este beneficio el juez se apoyará en el dictamen que emita el Consejo Interno Interdisciplinario correspondiente. Al otorgar este beneficio, el juez fijará las condiciones que deberá cumplir el interno hasta la obtención de la prelibertad o libertad condicional.
 
 Requisitos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+
 ###### Artículo 466.
 
-El beneficio de libertad condicionada al sistema de localización y rastreo a que se refiere el artículo anterior, se concederá al sentenciado que cumpla con los siguientes requisitos:
+El beneficio de libertad condicionada al sistema de localización y rastreo a que se refiere el artículo anterior se concederá al sentenciado que cumpla con los siguientes requisitos:
 
 I. Ser delincuente primario;
 
@@ -4949,17 +4963,39 @@ II. Que la pena privativa de libertad no sea menor a siete años ni mayor de qui
 
 III. Que falte un año para que alcance el beneficio de prelibertad;
 
-IV. Que cubra la reparación del daño;
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-V. Que alguna persona con reconocida solvencia moral y de arraigo, se obligue a supervisar y cuidar que el liberado cumpla con sus obligaciones contraídas al momento de su liberación;
+IV. Pague la reparación del daño, lo garantice a satisfacción de la víctima u ofendido o se apruebe el plan de reparación del daño;
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+V. Que alguna persona con reconocida solvencia moral y arraigo, se obligue a supervisar y cuidar que el beneficiado cumpla con sus condiciones impuestas al momento de su liberación, la cual deberá de residir en la misma localidad a la que se integrará el beneficiado;
 
 VI. Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continúa estudiando;
 
-VII. Acredite apoyo familiar;
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-VIII. Cubra el costo del dispositivo electrónico de monitoreo individual, en las condiciones que para ello establezca el Reglamento; y
+VII. Cuente con apoyo de una red familiar o de la sociedad civil que garantice su vinculación a las condiciones que le fueron fijadas para el otorgamiento del beneficio;
 
-IX. Las demás que establezca el Reglamento que regule este beneficio.
+VIII. (DEROGADA, G.G. 22 DE ENERO DE 2014)
+
+IX. (DEROGADA, G.G. 22 DE ENERO DE 2014)
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+X. No encontrarse sujeto a ningún proceso pendiente por causa distinta, ni tener sentencia ejecutoriada que cumplir en reclusión, del fuero común o federal, sea cual fuere el delito;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XI. Contar con línea telefónica activa en el domicilio de reinserción;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XII. Contar con señal de Sistema de Posicionamiento Global en el domicilio laboral y de reinserción;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+XIII. Contar con domicilio laboral y de reinserción, al interior del Estado de México.
 
 Causas de revocación de libertad condicionada
 
@@ -4983,9 +5019,13 @@ I. Haber cumplido las tres quintas partes de la pena corporal impuesta cuando se
 
 II. Haber observado durante su internamiento buena conducta sin limitarse al simple cumplimiento de los reglamentos sino a su mejoramiento cultural, de salud y deportivo, así como la superación en el trabajo, que revele un afán constante de reinserción social;
 
-III. Ofrecer dedicarse en el plazo que la resolución determine a un oficio, arte, industria, profesión o cualquier otro medio honesto de vivir y cubrir los requisitos que determine el juez ejecutor de sentencias;
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
-IV. Que alguna persona, con reconocida solvencia moral y de arraigo, se obligue a supervisar y cuidar que el liberado cumpla con sus obligaciones contraídas al momento de su liberación; y
+III. Ofrecer dedicarse en el plazo que la resolución determine a un oficio, arte, industria, profesión o cualquier otro medio honesto de vivir y cumpla con las obligaciones que determine el juez ejecutor de sentencias;
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+IV. Que alguna persona, con reconocida solvencia moral y arraigo, se obligue a supervisar y cuidar que el beneficiado cumpla con las condiciones impuestas por el juez, al momento de su liberación aquélla deberá de residir en la misma localidad a la que se integrará el beneficiado;
 
 V. Que el beneficiado con libertad condicional resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso previo del juez ejecutor de sentencias.
 
@@ -5157,7 +5197,7 @@ El día uno de octubre del año dos mil diez entrará en vigor en los Distritos 
 
 El día uno de abril del año dos mil once entrará en vigor en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango.
 
-El uno de octubre del año dos mil once entrará en vigor en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
+El día uno de octubre del año dos mil once entrará en vigor en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -5410,3 +5450,23 @@ SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes d
 TERCERO.- Los asuntos que hayan sido turnados, así como los que se encuentren en trámite ante los órganos jurisdiccionales a los que hace mención la reforma propuesta, continuarán con su substanciación hasta su conclusión, igual circunstancia se observará en las salas del Tribunal Superior de Justicia del Estado, hasta la entrada en vigor del presente Decreto.
 
 CUARTO.- El Consejo de la Judicatura deberá emitir los lineamientos administrativos referentes al sistema de remisión de exhortos y despachos por medios electrónicos, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+G.G. 22 DE ENERO DE 2014.
+
+DECRETO NO. 185 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 445, EL PRIMER Y TERCER PÁRRAFOS DEL ARTÍCULO 465, LAS FRACCIONES IV, V, VII DEL ARTÍCULO 466 Y LAS FRACCIONES III Y IV DEL ARTÍCULO 468. SE ADICIONAN LAS FRACCIONES X, XI, XII Y XIII AL ARTÍCULO 466. SE DEROGAN LAS FRACCIONES VIII Y IX DEL ARTICULO 466 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE ENERO DE 2014.
+
+DECRETO NO. 186 POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 389 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado proveerá lo necesario para dar cumplimiento al presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
