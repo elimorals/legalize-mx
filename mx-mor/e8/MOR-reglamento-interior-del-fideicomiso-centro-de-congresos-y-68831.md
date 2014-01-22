@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-fideicomiso-centro-de-congresos-y-68831
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-10"
-last_updated: "2010-09-08"
+last_updated: "2014-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,11 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL FIDEICOMISO CENTRO DE CONGRESOS Y CONVENCIONES WORLD TRADE CENTER MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO POR EL QUE SE ABROGA EL REGLAMENTO INTERIOR DEL FIDEICOMISO CENTRO DE CONGRESOS Y CONVENCIONES WORLD TRADE CENTER MORELOS</small>
+
+, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL P.O. 22 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. 22 DE ENERO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de junio de 2009.
 
@@ -406,3 +410,13 @@ P.O. 8 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto por el que se reforman diversas disposiciones del Reglamento Interior del Fideicomiso Centro de Congresos y Convenciones World Trade Center Morelos en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 22 DE ENERO DE 2014.
+
+PRIMERA. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior del Fideicomiso Centro de Congresos y Convenciones World Trade Center publicado en el Periódico Oficial “Tierra y Libertad", número 4716, de fecha diez de junio de dos mil nueve, y se derogan todas las disposiciones administrativas de igual o menor rango que se opongan al presente Reglamento.
+
+TERCERA. En un plazo de noventa días contados a partir del inicio de la vigencia del presente Reglamento, se deberán expedir los Manuales Administrativos respectivos de conformidad con las disposiciones legales y administrativas aplicables.
+
+CUARTA. En tanto se actualizan los Manuales a que se refiere este Reglamento, el Titular de la Dirección General queda facultado para resolver, para fines administrativos, las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
