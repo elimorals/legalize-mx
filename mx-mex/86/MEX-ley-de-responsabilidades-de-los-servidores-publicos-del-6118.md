@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2013-11-12"
+last_updated: "2014-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -97,7 +97,7 @@ Los procedimientos para la aplicación de las sanciones a que se refiere esta Le
 
 ### CAPITULO I. Sujetos, Causas del Juicio Político y Sanciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 5.
 
@@ -117,7 +117,7 @@ I. El ataque de las instituciones democráticas;
 
 II. El ataque a la forma de gobierno republicano, representativo y popular del Estado, así como a la organización política y administrativa de los Municipios;
 
-> <small>(REFORMADA, G.G 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 III. Las violaciones graves a las garantías individuales o sociales;
 
@@ -233,7 +233,7 @@ En caso contrario, la resolución decretará la destitución del cargo y el peri
 
 ### CAPITULO III. De la Declaración de Procedencia por Responsabilidad Penal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 22.
 
@@ -371,7 +371,11 @@ IV. Utilizar los recursos que tenga asignados para el desempeño de su empleo, c
 
 V. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebidas de aquellas;
 
-VI. Observar buena conducta en su empleo, cargo o comisión tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VI. Observar buena conducta en su empleo, cargo o comisión tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste, así como abstenerse de incurrir o tolerar conductas de hostigamiento y acoso sexual.
 
 VII. Observar en la dirección de sus subalternos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
 
@@ -1288,3 +1292,9 @@ QUINTO.- El Gobernador y las autoridades del agua, en la esfera administrativa d
 SEXTO.- Los permisos o autorizaciones que amparan la distribución de agua en pipa, otorgados por las autoridades administrativas antes de la entrada en vigor del presente Decreto, tendrán validez hasta el 31 de diciembre del 2013, por lo que los particulares interesados en la distribución de agua en pipas para el año 2014, deberán solicitar el permiso y el dictamen de factibilidad correspondientes.
 
 SÉPTIMO.- Las autoridades en materia de agua, dentro de los quince días naturales a la entrada en vigor del presente Decreto, deberán nombrar a los servidores públicos responsables de supervisar y ejecutar las acciones de desinfección del agua.
+
+G.G. 22 DE ENERO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
