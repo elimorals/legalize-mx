@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2013-12-30"
+last_updated: "2014-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2014.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -481,7 +481,7 @@ IV.- Por sentencia judicial ejecutoriada que declare la culpabilidad de la causa
 
 ###### ARTÍCULO 47.
 
-La inasistencia de los Diputados a más de tres sesiones de Pleno consecutivas, sin causa justificada, será considerada por la Mesa Directiva como falta de interés y, por ello no podrán asistir a las sesiones hasta el periodo inmediato siguiente, llamándose al Diputado Suplente. Los Diputados solamente podrán dejar de concurrir a las sesiones y reuniones de Comisiones o Comités, por causas justificadas en los términos de esta Ley y de su Reglamento Interior.
+La inasistencia de los Diputados a más de tres sesiones de Pleno consecutivas, sin causa justificada, será considerada por la Mesa Directiva como falta de interés y, por ello, no podrán asistir a las sesiones hasta el periodo inmediato siguiente, llamándose al Diputado Suplente. Los Diputados solamente podrán dejar de concurrir a las sesiones y reuniones de Comisiones o Comités, por causas justificadas en los términos de esta Ley y de su Reglamento Interior.
 
 ### CAPÍTULO V. DE LA ÉTICA LEGISLATIVA
 
@@ -1227,7 +1227,9 @@ VIII.- Transportes;
 
 IX.- Salud;
 
-X.- Educación y Cultura;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
+
+X.- Educación;
 
 XI.- Trabajo, Competitividad y Previsión Social;
 
@@ -1273,9 +1275,21 @@ XXIX.- Vivienda;
 
 XXX.- Asuntos Metropolitanos;
 
-XXXI.- Grupos Vulnerables; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
 
-XXXII.- Organizaciones No Gubernamentales.
+XXXI.- Grupos Vulnerables;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXII.- Organizaciones No Gubernamentales;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXIII.- Cultura; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXIV.- Participación Ciudadana.
 
 #### SECCIÓN TERCERA. DE LAS COMISIONES TRANSITORIAS
 
@@ -2342,6 +2356,12 @@ PRIMERO.- El presente Decreto se deberá publicar en el Periódico Oficial del E
 SEGUNDO.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
 
 P.O. 30 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE ENERO DE 2014.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
