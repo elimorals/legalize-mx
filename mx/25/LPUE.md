@@ -4,7 +4,7 @@ identifier: "LPUE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-19"
-last_updated: "2013-12-26"
+last_updated: "2014-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPUE"
 
 LEY DE PUERTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 19 de julio de 1993.
 
@@ -608,6 +608,10 @@ Los servicios portuarios se clasifican en:
 
 I. Servicios a las embarcaciones para realizar sus operaciones de navegación interna, tales como el pilotaje, remolque, amarre de cabos y lanchaje;
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2014)</small>
+
+El servicio de pilotaje se regirá por la Ley de Navegación y Comercio Marítimos y Reglamentos aplicables.
+
 II. Servicios generales a las embarcaciones, tales como el avituallamiento, agua potable, combustible, comunicación, electricidad, recolección de basura o desechos y eliminación de aguas residuales, y
 
 III. Servicios de maniobras para la transferencia de bienes o mercancías, tales como la carga, descarga, alijo, almacenaje, estiba y acarreo dentro del puerto.
@@ -871,3 +875,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
+
+D.O.F. 23 DE ENERO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que deban realizarse a fin de dar cumplimiento a las disposiciones del presente Decreto, se llevarán a cabo con base en la disponibilidad presupuestaria de la Secretaría de Comunicaciones y Transportes.
