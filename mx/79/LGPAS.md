@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2012-06-07"
+last_updated: "2014-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -298,9 +298,17 @@ XXXVII. Expedir los lineamientos y llevar a cabo la operación del Fondo Mexican
 
 XXXVIII. Realizar la inspección y vigilancia del cumplimiento de esta Ley, sus reglamentos, normas oficiales y demás disposiciones que de ella se deriven;
 
-XXXIX. Determinar las infracciones e imponer las sanciones administrativas que correspondan por incumplimiento o violación a los ordenamientos mencionados en la presente Ley, y
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2014)</small>
 
-XL. Las demás que expresamente le atribuya esta Ley, sus disposiciones reglamentarias, las normas oficiales, así como las demás disposiciones aplicables.
+XXXIX. Determinar las infracciones e imponer las sanciones administrativas que correspondan por incumplimiento o violación a los ordenamientos mencionados en la presente Ley;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2014)</small>
+
+XL. Promover, regular, dirigir e implementar la ejecución de acciones de mitigación y adaptación al cambio climático en materia de pesca y acuacultura sustentables, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, y
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2014)</small>
+
+XLI. Las demás que expresamente le atribuya esta ley, sus disposiciones reglamentarias, las normas oficiales, así como las demás disposiciones aplicables.
 
 ###### ARTÍCULO 9o.
 
@@ -412,9 +420,15 @@ f) Establecer viveros, criaderos, reservas de especies acuáticas y épocas y zo
 
 g) Participar con las dependencias competentes de la Administración Pública Federal, en la elaboración de normas oficiales y planes de manejo relativos al aprovechamiento integral y sustentable de los recursos pesqueros y acuícolas;
 
-XVI. El ejercicio de las funciones que les transfiera la Federación, conforme a lo dispuesto por la presente Ley, y
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2014)</small>
 
-XVII. Las demás que no estén otorgadas expresamente a la Federación.
+XVI. El ejercicio de las funciones que les transfiera la Federación, conforme a lo dispuesto por la presente Ley;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2014)</small>
+
+XVII. Coordinarse con la Federación, sus Municipios y con otras Entidades Federativas en materia de pesca y acuacultura sustentables, para la implementación de acciones para la mitigación y adaptación al cambio climático, y
+
+XVIII. Las demás que no estén otorgadas expresamente a la Federación.
 
 ###### ARTÍCULO 14.
 
@@ -462,7 +476,9 @@ II. Que la pesca y la acuacultura se orienten a la producción de alimentos para
 
 III. Que el aprovechamiento de los recursos pesqueros y acuícolas, su conservación, restauración y la protección de los ecosistemas en los que se encuentren, sea compatible con su capacidad natural de recuperación y disponibilidad;
 
-IV. Que la investigación científica y tecnológica se consolide como herramienta fundamental para la definición e implementación de políticas, instrumentos, medidas, mecanismos y decisiones relativos a la conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y acuícolas;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2014)</small>
+
+IV. Que la investigación científica y tecnológica se consolide como herramienta fundamental para la definición e implementación de políticas, instrumentos, medidas, mecanismos y decisiones relativos a la conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y acuícolas, además de ser un instrumento que considere la implementación de acciones en materia de pesca y acuacultura sustentables para la mitigación y adaptación al cambio climático;
 
 V. Reconocer a la acuacultura como una actividad productiva que permita la diversificación pesquera, ofrecer opciones de empleo en el medio rural, incrementar la producción pesquera y la oferta de alimentos que mejoren la dieta de la población mexicana, así como la generación de divisas;
 
@@ -1230,9 +1246,17 @@ VII. Acciones de protección y aprovechamiento sustentable de los recursos natur
 
 VIII. Acciones de sanidad, inocuidad y calidad acuícola;
 
-IX. Acciones de crecimiento y tecnificación, y
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2014)</small>
 
-X. El programa de prevención y control de contingencias, de monitoreo y las demás que por las características propias de la unidad de manejo acuícola se requieran.
+IX. Acciones de crecimiento y tecnificación;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2014)</small>
+
+X. El programa de prevención y control de contingencias, de monitoreo y las demás que por las características propias de la unidad de manejo acuícola se requieran, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2014)</small>
+
+XI. Acciones de mitigación y adaptación a realizar ante la vulnerabilidad actual y futura del cambio climático, en concordancia con el Atlas Nacional de Riesgo.
 
 ###### ARTÍCULO 87.
 
@@ -2057,3 +2081,9 @@ Tercero. La constitución del INAPESCA como organismo público descentralizado s
 Cuarto. Las acciones que deriven de la aplicación de las modificaciones al presente decreto se realizarán con cargo al presupuesto aprobado al Instituto de Pesca.
 
 Quinto. Se derogan las disposiciones aplicables que se opongan al presente decreto.
+
+D.O.F. 23 DE ENERO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Con la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá revisar y modificar el Reglamento de la Ley General de Pesca y Acuacultura Sustentables, en un término que no exceda los 60 días naturales.
