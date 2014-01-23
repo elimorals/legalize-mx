@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-finanzas-y-84558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-28"
-last_updated: "2013-01-07"
+last_updated: "2014-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ENERO DE 2014.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 28 de diciembre de 2011.
 
@@ -409,6 +409,10 @@ XIX. Proponer al Secretario las medidas técnicas y administrativas necesarias p
 
 XX. Supervisar las Áreas Administrativas y Órganos Desconcentrados de su adscripción;
 
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XX Bis. Vigilar el estado físico y analizar los requerimientos de las Oficinas de Hacienda del Estado y de las Cobradurías, para su reparación y adecuado mantenimiento.
+
 XXI. (DEROGADA, G.O. 7 DE ENERO DE 2013)
 
 > <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
@@ -585,15 +589,17 @@ II. Ordenar, practicar, controlar y verificar la notificación de los actos rela
 
 III. Aplicar el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales y sus accesorios, a cargo de los contribuyentes, responsables solidarios y demás obligados; así como hacer efectivas las garantías constituidas, para asegurar el interés fiscal, de acuerdo con las disposiciones fiscales estatales o federales;
 
-IV. Diseñar y someter a la aprobación del Subsecretario, los sistemas de contabilidad de ingresos y movimientos de fondos de las Oficinas de Hacienda del Estado y de la OVH;
+IV. (DEROGADA, G.O. 23 DE ENERO DE 2014)
 
-V. Concentrar, registrar, verificar, controlar e informar al Subsecretario sobre la recaudación de las Oficinas de Hacienda del Estado y de la OVH, elaborar las pólizas diarias de recaudación, el resumen general de ingresos y los reportes especiales, así como elaborar los informes respectivos;
+V. (DEROGADA, G.O. 23 DE ENERO DE 2014)
 
-VI. Elaborar y remitir la cuenta mensual comprobada de los ingresos federales coordinados que se rinde a la Tesorería de la Federación, entregando copia al Subsecretario;
+VI. (DEROGADA, G.O. 23 DE ENERO DE 2014)
 
-VII. Elaborar y someter a la consideración del Subsecretario, la constancia de recaudación de impuestos federales coordinados y la liquidación mensual de las participaciones federales;
+VII. (DEROGADA, G.O. 23 DE ENERO DE 2014)
 
-VIII. Conforme a los criterios que establezca el Subsecretario, planear, organizar y dirigir los servicios de las Oficinas de Hacienda del Estado y de la OVH, dentro del ámbito de su competencia y apoyar las labores de evaluación de sus resultados;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2014)</small>
+
+VIII. Planear, organizar y dirigir los servicios de las Oficinas de Hacienda del Estado;
 
 IX. Vigilar que los servidores públicos adscritos a su Área, que manejan fondos públicos, otorguen caución suficiente y oportuna para garantizar su manejo;
 
@@ -617,7 +623,7 @@ XVIII. Notificar y aplicar, el procedimiento administrativo de ejecución a los 
 
 XIX. Ordenar, previo acuerdo del Subsecretario, la clausura provisional o definitiva de establecimientos comerciales, por incumplimiento o infracción a las disposiciones fiscales;
 
-XX. Vigilar el estado físico y analizar los requerimientos de las Oficinas de Hacienda del Estado y de las Cobradurías, para en su caso, someterlos a la consideración del Subsecretario, para su reparación y adecuado mantenimiento;
+XX. (DEROGADA, G.O. 23 DE ENERO DE 2014)
 
 XXI. Ordenar la práctica de embargo precautorio para asegurar el interés fiscal, cuando a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
 
@@ -801,9 +807,33 @@ XV. Apoyar al Subsecretario en la elaboración, revisión, cumplimiento e interp
 
 XVI. Rendir, de conformidad con las condiciones y plazos convenidos con la Federación, los informes que deban presentarse ante la Secretaría de Hacienda y Crédito Público, con motivo del ejercicio de sus atribuciones;
 
-XVII. Previo acuerdo con el Subsecretario, coordinar las gestiones, ante las instancias del Gobierno Federal, respecto de las acciones tendentes a una mejor y más eficiente distribución de los recursos federales; y
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2014)</small>
 
-XVIII. Propiciar la coordinación fiscal entre el Estado y los Municipios.
+XVII. Previo acuerdo con el Subsecretario, coordinar las gestiones, ante las instancias del Gobierno Federal, respecto de las acciones tendentes a una mejor y más eficiente distribución de los recursos federales;
+
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XVIII. Propiciar la coordinación fiscal entre el Estado y los Municipios;
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XIX. Diseñar y someter a la aprobación del Subsecretario, los sistemas de contabilidad de ingresos y movimientos de fondos de las Oficinas de Hacienda del Estado y de la OVH;
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XX. Concentrar, registrar, verificar, controlar e informar al Subsecretario sobre la recaudación de las Oficinas de Hacienda del Estado y de la OVH, elaborar las pólizas diarias de recaudación, el resumen general de ingresos y los reportes especiales, así como elaborar los informes respectivos;
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XXI. Elaborar y remitir la cuenta mensual comprobada de los ingresos federales coordinados que se rinde a la Tesorería de la Federación, entregando copia al Subsecretario;
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XXII. Elaborar y someter a la consideración del Subsecretario, la constancia de recaudación de impuestos federales coordinados y la liquidación mensual de las participaciones federales; y
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XXIII. Conforme a los criterios que establezca el Subsecretario, planear, organizar, y dirigir los servicios de la OVH, dentro del ámbito de su competencia y apoyar las labores de evaluación de sus resultados.
 
 ### CAPÍTULO VIII. DE LA SUBSECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
 
@@ -1917,9 +1947,15 @@ LIV. Representar al Estado de Veracruz de Ignacio de la Llave, en los procesos j
 
 LV. Certificar las documentales que obren en poder de la Procuraduría, que sean solicitadas por autoridad en ejercicio de sus funciones;
 
-LVI. Nombrar a los Jefes de Departamento y designar a los abogados y demás personal de las Áreas Administrativas adscritas a la Procuraduría Fiscal, salvo a los Subprocuradores y al secretario particular del Procurador Fiscal, quiénes serán designados directamente por el Secretario; y
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2014)</small>
 
-LVII. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+LVI. Nombrar a los Jefes de Departamento y designar a los abogados y demás personal de las Áreas Administrativas adscritas a la Procuraduría Fiscal, salvo a los Subprocuradores y al secretario particular del Procurador Fiscal, quienes serán designados directamente por el Secretario;
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+LVII. Ser el asesor jurídico en materia inmobiliaria en los asuntos que correspondan a la Dependencia; y
+
+LVIII. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
 ###### Artículo 47.
 
@@ -2065,9 +2101,27 @@ XVII. Previo conocimiento del Procurador Fiscal asistir a seminarios, cursos y o
 
 XVIII. Representar al Procurador Fiscal en las reuniones de trabajo y eventos que éste determine;
 
-XIX. Atendiendo a las instrucciones del Procurador Fiscal, coordinarse con los demás Subprocuradores para el mejor desempeño de sus actividades; y
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2014)</small>
 
-XX. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+XIX. Atendiendo a las instrucciones del Procurador Fiscal, coordinarse con los demás Subprocuradores para el mejor desempeño de sus actividades;
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XX. Previo acuerdo del Procurador Fiscal, brindar asesoría jurídica a la Dirección General de Patrimonio, en las acciones para reivindicar la propiedad del Gobierno del Estado sobre aquellos inmuebles que están siendo ocupados ilegalmente o sin justo título por terceros;
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XXI. Previo acuerdo del Procurador Fiscal, supervisar en materia jurídica, la formación de figuras jurídicas asociativas permitidas por la legislación agraria, incluso cuando se trate de la participación en sociedades o asociaciones o la constitución de ellas cuando su objeto social sea la práctica de operaciones inmobiliarias de interés público;
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XXII. Previo acuerdo del Procurador Fiscal, validar los documentos relativos a los procedimientos administrativos de: Expropiación y limitación de dominio; de reversión de inmuebles expropiados; así como con respecto a la rescisión o nulidad para proceder a la cancelación de los contratos de compraventa de lotes de interés social establecidos por la legislación de la materia;
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+
+XXIII. Previo acuerdo del Procurador Fiscal, dar el visto bueno a los asuntos jurídico-inmobiliarios que lleve la Dirección General de Patrimonio del Estado, para lo cual dicha Dirección, anexará la documentación requerida de acuerdo a las etapas del procedimiento; y
+
+XXIV. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
 ###### Artículo 51.
 
@@ -2582,3 +2636,11 @@ G.O. 7 DE ENERO DE 2013.
 Primero. Publíquese en la Gaceta Oficial del estado.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 23 DE ENERO DE 2014.
+
+Primero. Publíquese en la Gaceta Oficial del estado.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero. La Subsecretaría de Finanzas y Administración a través del área correspondiente deberá actualizar el Manual de Organización y de Procedimientos.
