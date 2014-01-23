@@ -4,7 +4,7 @@ identifier: "LNCM"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-01"
-last_updated: "2013-12-26"
+last_updated: "2014-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50527&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de junio de 2006.
 
@@ -96,6 +96,14 @@ XII. Desguace: El desmantelamiento de una embarcación y la separación de sus e
 
 XIII. Dragado: Retiro, movimiento y/o excavación de suelos cubiertos o saturados por agua. Acción de ahondar y limpiar para mantener o incrementar las profundidades de puertos, vías navegables ó terrenos saturados por agua; sanear terrenos pantanosos, abriendo zanjas que permitan el libre flujo de las aguas; eliminar en las zonas donde se proyectan estructuras, los suelos de mala calidad.
 
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2014)</small>
+
+XIV. Pilotaje o practicaje: Es la actividad que realiza una persona física de nacionalidad mexicana por nacimiento, llamado práctico o piloto de puerto, consistente en realizar maniobras de entrada, salida, fondeo, enmienda, atraque o desatraque con las embarcaciones, a fin de preservar la vida humana, el medio ambiente marino, la seguridad de las embarcaciones y de las instalaciones portuarias en las zonas de pilotaje.
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2014)</small>
+
+XV. Zona de Pilotaje: Los puertos, terminales, terminales costa afuera, marinas, instalaciones portuarias, canales de navegación, áreas de fondeo, áreas de seguridad y vías navegables, delimitadas y aquellas en que se determine como obligatorio el Pilotaje.
+
 ###### Artículo 3.
 
 Son Vías Generales de Comunicación por Agua o Vías Navegables:
@@ -168,7 +176,9 @@ IV.- Integrar la información estadística de la flota mercante, el transporte y
 
 V.- Abanderar y matricular las embarcaciones, así como los artefactos navales mexicanos y llevar el Registro Público Marítimo Nacional;
 
-VI.- Otorgar permisos y autorizaciones de navegación y para prestar servicios en vías generales de comunicación por agua, en los términos de esta Ley; vigilar su cumplimiento y revocarlos o suspenderlos en su caso;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2014)</small>
+
+VI.- Otorgar permisos y autorizaciones de navegación para prestar servicios en vías generales de comunicación por agua, así como certificados de competencia, en los términos de esta Ley; vigilar su cumplimiento y revocarlos o suspenderlos en su caso;
 
 VII.- Otorgar concesiones para la construcción, operación y explotación de vías navegables, en los términos del reglamento respectivo;
 
@@ -790,21 +800,35 @@ Las embarcaciones cargadas con substancias explosivas o inflamables, ejecutarán
 
 ### CAPÍTULO III. PILOTAJE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2014)</small>
+
 ###### Artículo 55.
 
-El servicio de pilotaje o practicaje es de interés público y consiste en conducir una embarcación mediante la utilización por parte de los capitanes de éstas, de un piloto o practico de puerto para efectuar las maniobras de entrada, salida, fondeo, enmienda, atraque o desatraque en los puertos. Su finalidad es garantizar y preservar la seguridad de las embarcaciones e instalaciones portuarias. La Secretaría determinará la asignación de pilotos, con base en el reglamento correspondiente y en las reglas de operación de pilotaje de cada puerto.
+El servicio de pilotaje o practicaje es de interés público. La Secretaría determinará la asignación de pilotos de puerto, con base en el reglamento correspondiente, las reglas de pilotaje, las reglas de operación de cada puerto y de acuerdo con las necesidades del tráfico.
 
-El servicio de pilotaje, se prestará a toda embarcación mayor que arribe o zarpe de un puerto y que esté legalmente obligada a utilizarlo, así como a las demás que sin estar obligadas, lo soliciten.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2014)</small>
+
+El servicio de practicaje o de pilotaje, se prestará a toda embarcación mayor que arribe o zarpe de un puerto o zona de pilotaje y que esté legalmente obligada a utilizarlo, así como a las demás que sin estar obligadas, lo soliciten.
 
 El pago por la prestación del servicio de pilotaje será el que se indique en la tarifa respectiva autorizada por la Secretaría.
 
-La Secretaría determinará, con base en los criterios de seguridad, economía y eficiencia, los puertos, áreas de fondeo, áreas de seguridad y vías navegables en las cuales sea obligatoria la utilización del servicio de pilotaje, mismo que será prestado en la forma que prevenga el reglamento correspondiente y las reglas de operación de pilotaje de cada puerto. Asimismo, la Secretaría estará facultada de acuerdo a dichos criterios, a establecer en el reglamento de operación de pilotaje de cada puerto, los supuestos mediante los cuales se exima de la obligatoriedad del servicio de pilotaje.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2014)</small>
 
-En el ámbito de sus funciones, corresponderá sólo a los pilotos de puerto tomar las decisiones técnicas tendientes a la seguridad de la navegación y la vida humana en el mar, así como la protección del ambiente marino.
+La Secretaría determinará, con base en criterios de seguridad, economía y eficiencia, los puertos, zonas de pilotaje, áreas de fondeo, áreas de seguridad y vías navegables en las cuales sea obligatoria la utilización del servicio de pilotaje, mismos (sic) que será prestado en la forma que prevenga el Reglamento correspondiente y las reglas de pilotaje de cada puerto. Asimismo, la Secretaría estará facultada de acuerdo a dichos criterios, a establecer las reglas de pilotaje de cada puerto, los supuestos mediante los cuales se exima de la obligatoriedad del servicio de pilotaje.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2014)</small>
+
+En el ámbito de sus atribuciones y responsabilidad, corresponderá sólo a los pilotos de puerto tomar decisiones técnicas tendientes a la seguridad de la navegación y la vida humana en el mar, así como la protección del ambiente marino.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2014)</small>
+
+El servicio público de pilotaje o practicaje se prestará en forma continua, permanente, uniforme, regular y por turnos durante todo el año, las veinticuatro horas del día, exceptuado los periodos en que el estado del tiempo, las marejadas o corrientes y la saturación del puerto impidan prestar ininterrumpidamente el servicio de pilotaje, y cuando el servicio sea alterado por causas de interés público o cuando así lo determine la autoridad competente.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2014)</small>
 
 ###### Artículo 56.
 
-En todo lo relativo al servicio de pilotaje, el reglamento correspondiente y las reglas de operación de pilotaje de cada puerto que expida la Secretaría, contendrán los elementos mínimos que establezca el reglamento de la presente Ley y la Ley de Puertos. Considerando al servicio de pilotaje como un servicio profesional. Para ello, la Secretaría deberá valorar las consultas que se formulen a los interesados en la operación de cada puerto.
+En todo lo relativo al servicio de pilotaje, el Reglamento correspondiente y las reglas de pilotaje de cada puerto que expida la Secretaría, contendrán los elementos mínimos que establezcan el Reglamento de la presente Ley y la Ley de Puertos. El servicio público de pilotaje se considera como un servicio profesional. La Secretaría deberá valorar las consultas técnicas que le formulen a los pilotos o prácticos de puerto y a todas las partes interesadas en la operación de cada puerto.
 
 ###### Artículo 57.
 
@@ -814,9 +838,13 @@ I. Ser mexicano por nacimiento y no adquirir otra nacionalidad;
 
 II. Contar con título profesional de una escuela náutica acreditada ante la Secretaría;
 
-III. Contar con el certificado de competencia para el puerto respectivo, expedido por la Secretaría; y
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2014)</small>
 
-IV. Certificado de competencia, por el que la Secretaría autoriza la prestación del servicio de pilotaje.
+III. Contar con el certificado de competencia y la autorización para prestar el servicio de pilotaje para el puerto respectivo y zona de pilotaje, expedido por la Secretaría, y
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2014)</small>
+
+IV. Realizar prácticas obligatorias en el puerto y zona de pilotaje donde se aspire a prestar el servicio.
 
 La Secretaría estará facultada para implementar programas de certificación continua de pilotos de puerto.
 
@@ -2759,3 +2787,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de la Federación.
+
+D.O.F. 23 DE ENERO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que deban realizarse a fin de dar cumplimiento a las disposiciones del presente Decreto, se llevarán a cabo con base en la disponibilidad presupuestaria de la Secretaría de Comunicaciones y Transportes.
