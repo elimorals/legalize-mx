@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2012-04-09"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -66,9 +66,9 @@ II. Adecuaciones presupuestarias: las modificaciones a las estructuras funcional
 
 III. Ahorro presupuestario: los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
 
-> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
 
-III Bis. Anexos Transversales: anexos del Presupuesto donde concurren Programas Presupuestarios, componentes de éstos y/o Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con el desarrollo de los siguientes sectores: Igualdad entre Mujeres y Hombres; Desarrollo Integral de los Pueblos y Comunidades Indígenas; Desarrollo de los Jóvenes; Programa Especial Concurrente para el Desarrollo Rural Sustentable; Programa de Ciencia, Tecnología e Innovación; Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía; Atención a Grupos Vulnerables; y los Recursos para la Mitigación de los efectos del Cambio Climático;
+III Bis. Anexos Transversales: anexos del Presupuesto donde concurren Programas Presupuestarios, componentes de éstos y/o Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con el desarrollo de los siguientes sectores: Igualdad entre Mujeres y Hombres; Atención de Niños, Niñas y Adolescentes; Desarrollo Integral de los Pueblos y Comunidades Indígenas; Desarrollo de los Jóvenes; Programa Especial Concurrente para el Desarrollo Rural Sustentable; Programa de Ciencia, Tecnología e Innovación; Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía; Atención a Grupos Vulnerables; y los Recursos para la Mitigación de los efectos del Cambio Climático;
 
 IV. Auditoría: la Auditoría Superior de la Federación;
 
@@ -114,6 +114,10 @@ XXIII. Flujo de efectivo: el registro de las entradas y salidas de recursos efec
 
 XXIV. Función Pública: la Secretaría de la Función Pública;
 
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
+
+XXIV Bis. Gasto corriente estructural: el monto correspondiente al gasto neto total, excluyendo los gastos por concepto de costo financiero, participaciones a las entidades federativas, a los municipios y demarcaciones territoriales del Distrito Federal, adeudos de ejercicios fiscales anteriores, combustibles utilizados para la generación de electricidad, pago de pensiones y jubilaciones del sector público, y la inversión física y financiera directa de la Administración Pública Federal;
+
 XXV. Gasto neto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
 XXVI. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos y, adicionalmente, las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
@@ -128,7 +132,15 @@ XXX. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtien
 
 XXXI. Ingresos propios: los recursos que por cualquier concepto obtengan las entidades, distintos a los recursos por concepto de subsidios y transferencias, conforme a lo dispuesto en el artículo 52 de la Ley Federal de las Entidades Paraestatales;
 
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
+
+XXXI Bis. Inversión física y financiera directa: las erogaciones que tienen como contraprestación la constitución de un activo;
+
 XXXII. Ley de Ingresos: la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
+
+XXXII Bis. Límite máximo del gasto corriente estructural: es el gasto corriente estructural de la última Cuenta Pública disponible al momento de presentar a la Cámara de Diputados la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos, más un incremento real por cada año, que deberá ser menor a la tasa anual de crecimiento potencial del Producto Interno Bruto y que será determinado en términos del Reglamento;
 
 XXXIII. Percepciones extraordinarias: los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de la legislación laboral y de esta Ley;
 
@@ -158,7 +170,9 @@ XLV. Reglas de operación: las disposiciones a las cuales se sujetan determinado
 
 XLVI. Remuneraciones: la retribución económica que constitucionalmente corresponda a los servidores públicos por concepto de percepciones ordinarias y, en su caso, percepciones extraordinarias;
 
-XLVII. Requerimientos financieros del sector público: las necesidades de financiamiento para alcanzar los objetivos de las políticas públicas tanto del Gobierno Federal y las entidades del sector público federal, como de las entidades del sector privado y social que actúan por cuenta del Gobierno Federal;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
+
+XLVII. Requerimientos financieros del sector público: las necesidades de financiamiento del Gobierno Federal y las entidades del sector público federal, que cubre la diferencia entre los ingresos y los gastos distintos de la adquisición neta de pasivos y activos financieros, incluyendo las actividades del sector privado y social cuando actúan por cuenta del Gobierno Federal o las entidades;
 
 XLVIII. Responsabilidad Hacendaria: la observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos y los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso de la Unión;
 
@@ -372,17 +386,37 @@ I. Las líneas generales de política económica;
 
 II. Los objetivos anuales, estrategias y metas;
 
-III. Las proyecciones de las finanzas públicas, incluyendo los requerimientos financieros del sector público, con las premisas empleadas para las estimaciones. Las proyecciones abarcarán un periodo de 5 años en adición al ejercicio fiscal en cuestión, las que se revisarán anualmente en los ejercicios subsecuentes, y
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
 
-IV. Los resultados de las finanzas públicas, incluyendo los requerimientos financieros del sector público, que abarquen un periodo de los 5 últimos años y el ejercicio fiscal en cuestión.
+III. Las proyecciones de las finanzas públicas, incluyendo los requerimientos financieros del sector público, con las premisas empleadas para las estimaciones. Las proyecciones abarcarán un periodo de 5 años en adición al ejercicio fiscal en cuestión, las que se revisarán anualmente en los ejercicios subsecuentes;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
+
+IV. Los resultados de las finanzas públicas, incluyendo los requerimientos financieros del sector público, que abarquen un periodo de los 5 últimos años y el ejercicio fiscal en cuestión;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
+
+V. La meta anual de los requerimientos financieros del sector público, la cual estará determinada por la capacidad de financiamiento del sector público federal, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
+
+VI. El límite máximo del gasto corriente estructural para el ejercicio fiscal, así como proyecciones de este límite para un periodo de 5 años adicionales.
 
 Los criterios generales de política económica explicarán las medidas de política fiscal que se utilizarán para el logro de los objetivos, las estrategias y metas, así como las acciones que correspondan a otras políticas que impacten directamente en el desempeño de la economía. Asimismo, se deberán exponer los costos fiscales futuros de las iniciativas de ley o decreto relacionadas con las líneas generales de política a que se refiere este artículo, acompañados de propuestas para enfrentarlos.
 
-En los criterios a que se refiere el párrafo anterior se expondrán también los riesgos relevantes para las finanzas públicas, acompañados de propuestas de acción para enfrentarlos.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+En los criterios a que se refiere el párrafo anterior se expondrán también los riesgos más relevantes que enfrentan las finanzas públicas en el corto plazo, acompañados de propuestas de acción para enfrentarlos.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
-El gasto neto total propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos, aquél que apruebe la Cámara de Diputados y el que se ejerza en el año fiscal por los ejecutores de gasto, deberá contribuir al equilibrio presupuestario.
+Los montos de ingreso previstos en la iniciativa y en la Ley de Ingresos, así como de gasto contenidos en el proyecto y en el Presupuesto de Egresos, y los que se ejerzan en el año fiscal por los ejecutores del gasto, deberán contribuir a alcanzar la meta anual de los requerimientos financieros del sector público.
+
+En caso de que, al cierre del ejercicio fiscal, se observe una desviación respecto a la meta de los requerimientos financieros del sector público mayor al equivalente a un 2 por ciento del gasto neto total aprobado, la Secretaría deberá presentar una justificación de tal desviación en el último informe trimestral del ejercicio.
+
+Asimismo, el gasto neto total propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos, aquél que apruebe la Cámara de Diputados y el que se ejerza en el año fiscal, deberá contribuir al equilibrio presupuestario. Para efectos de este párrafo, se considerará que el gasto neto contribuye a dicho equilibrio durante el ejercicio, cuando el balance presupuestario permita cumplir con el techo de endeudamiento aprobado en la Ley de Ingresos.
 
 Circunstancialmente, y debido a las condiciones económicas y sociales que priven en el país, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos podrán prever un déficit presupuestario. En estos casos, el Ejecutivo Federal, por conducto de la Secretaría, al comparecer ante el Congreso de la Unión con motivo de la presentación de dichas iniciativas, deberá dar cuenta de los siguientes aspectos:
 
@@ -394,17 +428,19 @@ III. El número de ejercicios fiscales y las acciones requeridas para que dicho 
 
 El déficit presupuestario deberá eliminarse durante el plazo que se establezca conforme a lo señalado en la fracción III de este artículo.
 
-El Ejecutivo Federal reportará en los informes trimestrales el avance de las acciones, hasta en tanto no se recupere el equilibrio presupuestario.
+El Ejecutivo Federal reportará en los informes trimestrales y la Cuenta Pública, el avance de las acciones, hasta en tanto no se recupere el equilibrio presupuestario.
 
 En caso de que el Congreso de la Unión modifique el déficit presupuestario en la Ley de Ingresos, deberá motivar su decisión sujetándose a las fracciones I y II de este artículo. A partir de la aprobación del déficit a que se refiere este párrafo el Ejecutivo Federal deberá dar cumplimiento a los demás requisitos previstos en este artículo.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
 El gasto en inversión de Petróleos Mexicanos y sus organismos subsidiarios no se contabilizará para efectos del equilibrio presupuestario previsto en este artículo. Lo anterior, sin perjuicio de que los requerimientos financieros del sector público deberán contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
 Los proyectos en que se ejerza el gasto de inversión a que se refiere el párrafo anterior se sujetarán a las disposiciones legales en materia de registro y seguimiento. Dichos proyectos deberán incrementar el valor patrimonial total de Petróleos Mexicanos y sus organismos subsidiarios. Asimismo, los proyectos de inversión de Petróleos Mexicanos y sus organismos subsidiarios cuya ejecución comprenda más de un ejercicio fiscal serán incluidos, según corresponda, en los capítulos específicos del proyecto de Presupuesto de Egresos relativos a los compromisos plurianuales y a las erogaciones plurianuales para proyectos de inversión, a que se refieren, respectivamente, los incisos g) y ñ) de la fracción II del artículo 41 de esta Ley, y su evolución se incluirá en los informes trimestrales.
+
+El gasto corriente estructural propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos, aquél que apruebe la Cámara de Diputados y el que se ejerza en el ejercicio fiscal, no podrá ser mayor al límite máximo del gasto corriente estructural.
+
+Excepcionalmente, y debido a condiciones económicas y sociales que priven en el país, se podrá rebasar el límite máximo del gasto corriente estructural. En estos casos, el Ejecutivo Federal, por conducto de la Secretaría, al comparecer ante el Congreso de la Unión con motivo de la presentación de las iniciativas de Ley de Ingresos y de Presupuesto de Egresos, para efectos de su aprobación, deberá dar cuenta de las razones excepcionales que lo justifican, así como las acciones y el número de ejercicios fiscales que sean necesarios para mantener una trayectoria de crecimiento del gasto corriente estructural acorde con el crecimiento del Producto Interno Bruto Potencial.
+
+Los Poderes Legislativo y Judicial y los entes autónomos, en la programación y presupuestación de sus respectivos proyectos, así como en la ejecución de sus presupuestos aprobados deberán cumplir con el límite máximo del gasto corriente estructural.
 
 ###### Artículo 18.
 
@@ -420,9 +456,13 @@ El Ejecutivo Federal realizará una evaluación del impacto presupuestario de la
 
 El Ejecutivo Federal, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los excedentes que, en su caso, resulten de los ingresos autorizados en la Ley de Ingresos o de excedentes de ingresos propios de las entidades, conforme a lo siguiente:
 
-I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de éste y el artículo siguiente, deberán destinarse en primer término a compensar el incremento en el gasto no programable respecto del presupuestado, por concepto de participaciones; costo financiero, derivado de modificaciones en la tasa de interés o del tipo de cambio; adeudos de ejercicios fiscales anteriores para cubrir, en su caso, la diferencia entre el monto aprobado en el Presupuesto de Egresos y el límite previsto en el artículo 54, párrafo cuarto de esta ley; así como a la atención de desastres naturales cuando el Fondo de Desastres a que se refiere el artículo 37 de esta Ley resulte insuficiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
 
-En el caso de la Comisión Federal de Electricidad, las erogaciones adicionales necesarias para cubrir los incrementos en los precios de combustibles con respecto a las estimaciones aprobadas en la Ley de Ingresos y su propio presupuesto, procederán como ampliaciones automáticas con cargo a los ingresos excedentes a que se refiere esta fracción. Dichas ampliaciones únicamente aplicarán para compensar aquel incremento en costos que no sea posible repercutir en la correspondiente tarifa eléctrica.
+I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de éste y el artículo siguiente, deberán destinarse en primer término a compensar el incremento en el gasto no programable respecto del presupuestado, por concepto de participaciones; costo financiero, derivado de modificaciones en la tasa de interés o del tipo de cambio; adeudos de ejercicios fiscales anteriores para cubrir, en su caso, la diferencia con el monto estimado en la Ley de Ingresos correspondiente; así como a la atención de desastres naturales cuando el Fondo de Desastres a que se refiere el artículo 37 de esta Ley resulte insuficiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+En el caso de la Comisión Federal de Electricidad, las erogaciones adicionales necesarias para cubrir los incrementos en los costos de combustibles con respecto a las estimaciones aprobadas en la Ley de Ingresos y su propio presupuesto, procederán como ampliaciones automáticas con cargo a los ingresos excedentes a que se refiere esta fracción. Dichas ampliaciones únicamente aplicarán para compensar aquel incremento en costos que no sea posible repercutir en la correspondiente tarifa eléctrica.
 
 El remanente de los ingresos excedentes a que se refiere la presente fracción, se destinará en los términos de la fracción IV de este artículo;
 
@@ -444,7 +484,7 @@ c) En un 40% al Fondo de Estabilización de los Ingresos Petroleros.
 
 d) En un 10% a programas y proyectos de inversión en infraestructura y equipamiento de las entidades federativas. Dichos recursos se destinarán a las entidades federativas conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -486,7 +526,7 @@ En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en 
 
 I. La disminución de alguno de los rubros de ingresos aprobados en la Ley de Ingresos, podrá compensarse con el incremento que, en su caso, observen otros rubros de ingresos aprobados en dicha Ley, salvo en el caso en que estos últimos tengan un destino específico por disposición expresa de leyes de carácter fiscal o conforme a éstas se cuente con autorización de la Secretaría para utilizarse en un fin específico, así como tratándose de ingresos propios de las entidades de control directo. En caso de que no pueda realizarse la compensación para mantener la relación de ingresos y gastos aprobados o ésta resulte insuficiente, se procederá en los términos de las siguientes fracciones;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 II. La disminución de los ingresos totales del Gobierno Federal, asociada a una menor recaudación de ingresos tributarios no petroleros, a disminuciones en el precio promedio ponderado de barril de petróleo crudo mexicano y de otros hidrocarburos o de su plataforma de producción, o a movimientos del tipo de cambio del peso respecto del dólar de los Estados Unidos de América durante el ejercicio fiscal en cuestión, por debajo de los estimados para la Ley de Ingresos, se podrá compensar con los recursos del Fondo de Estabilización de los Ingresos Petroleros en los términos de las reglas de operación que emita la Secretaría. En caso de que, conforme a lo previsto en dichas reglas, se llegue al límite de recursos del Fondo sin poder compensar dicha disminución, se procederá a compensar con los ajustes a que se refiere la fracción III del presente artículo.
 
@@ -534,11 +574,13 @@ Los calendarios de presupuesto deberán comunicarse por la Secretaría a las dep
 
 Los calendarios a que se refiere el párrafo anterior deberán ser en términos mensuales.
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
-La Secretaría deberá elaborar los calendarios de presupuesto, en términos mensuales, de los Anexos Transversales a que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t) y u) de esta Ley y deberá publicarlos en el Diario Oficial de la Federación a más tardar 15 días hábiles posteriores a la publicación del Presupuesto en el propio Diario Oficial de la Federación.
+La Secretaría deberá elaborar los calendarios de presupuesto, en términos mensuales, de los Anexos Transversales a que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u), y v) de esta Ley y deberá publicarlos en el Diario Oficial de la Federación a más tardar 15 días hábiles posteriores a la publicación del Presupuesto en el propio Diario Oficial de la Federación.
 
-También se publicará en el Diario Oficial de la Federación el calendario mensual de ingresos derivado de la Ley de Ingresos de la Federación, 15 días hábiles después de la publicación de dicha Ley.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+También se publicará en el Diario Oficial de la Federación el calendario mensual de ingresos derivado de la Ley de Ingresos de la Federación, 15 días hábiles después de la publicación de dicha Ley. La Secretaría deberá entregar a la Cámara de Diputados, la metodología y criterios que hubiese utilizado para la estimación de los ingresos, misma que deberá ser incluida en la citada publicación.
 
 La Secretaría cumplirá estrictamente los calendarios de presupuesto autorizados a las dependencias en los términos de las disposiciones aplicables e informará al respecto en los informes trimestrales, por dependencia o entidad, por unidad responsable y por programa.
 
@@ -673,6 +715,10 @@ II. El resultado de multiplicar los siguientes dos componentes:
 a) El precio a futuro promedio, para el ejercicio fiscal que se está presupuestando del crudo denominado Crudo de Calidad Intermedia del Oeste de Texas, Estados Unidos de América, cotizado en el mercado de Intercambio Mercantil de Nueva York, Estados Unidos de América, ajustado por el diferencial esperado promedio, entre dicho crudo y la mezcla mexicana de exportación, con base en los análisis realizados por los principales expertos en la materia;
 
 b) Un factor de 84%.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+El Reglamento establecerá los casos y procedimientos en los que podrán utilizarse los precios de otras mezclas de crudo, en lugar de las previstas en las fracciones I, inciso b) y II inciso a) de este artículo, tomando en consideración la opinión de expertos en la materia, siempre y cuando dichas mezclas coticen en los mercados de futuros que sean reconocidos en términos de la Ley del Mercado de Valores.
 
 El Ejecutivo Federal, por conducto de la Secretaría, elaborará la iniciativa de Ley de Ingresos para el ejercicio fiscal correspondiente, con un precio que no exceda el precio de referencia que se prevé en este artículo.
 
@@ -908,13 +954,17 @@ r) Las previsiones de gasto que correspondan al Programa de Ciencia, Tecnología
 
 s) Las previsiones de gasto que correspondan a la Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía, a que se refiere el artículo 25 de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética;
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
-t) Las previsiones de gasto que correspondan para la Atención a Grupos Vulnerables, y
+t) Las previsiones de gasto que correspondan para la Atención a Grupos Vulnerables;
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
-u) Las previsiones de gasto que correspondan a la Mitigación de los efectos del Cambio Climático.
+u) Las previsiones de gasto que correspondan a la Mitigación de los efectos del Cambio Climático, y
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+v) Las previsiones de gasto que correspondan a la Atención de Niños, Niñas y Adolescentes;
 
 III. Los anexos informativos, los cuales contendrán:
 
@@ -924,9 +974,9 @@ a) La metodología empleada para determinar la estacionalidad y el volumen de la
 
 b) La distribución del presupuesto de las dependencias y entidades por unidad responsable y al nivel de desagregación de capítulo y concepto de gasto;
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
-c) La metodología, factores, variables y fórmulas utilizadas para la elaboración de los Anexos Transversales a los que se refieren los incisos j), o), p), q), r), s), t) y u) de la fracción anterior, estableciendo con claridad los porcentajes o cuotas que del presupuesto de los Programas Presupuestarios y/o de las Unidades Responsables son considerados para la integración de dichos Anexos. En caso de que existan modificaciones en la metodología con respecto a la utilizada en el ejercicio fiscal anterior, se deberá incluir un apartado donde se explique y justifique plenamente el motivo de dichas modificaciones, y
+c) La metodología, factores, variables y fórmulas utilizadas para la elaboración de los Anexos Transversales a los que se refieren los incisos j), o), p), q), r), s), t), u) y v) de la fracción anterior, estableciendo con claridad los porcentajes o cuotas que del presupuesto de los Programas Presupuestarios y/o de las Unidades Responsables son considerados para la integración de dichos Anexos. En caso de que existan modificaciones en la metodología con respecto a la utilizada en el ejercicio fiscal anterior, se deberá incluir un apartado donde se explique y justifique plenamente el motivo de dichas modificaciones, y
 
 d) La demás información que contribuya a la comprensión de los proyectos a que se refiere este artículo así como la que solicite la Cámara de Diputados a través de la Comisión de Presupuesto y Cuenta Pública y, en su caso, el Centro de Estudios de las Finanzas Públicas.
 
@@ -1148,9 +1198,11 @@ La ministración de los recursos atenderá primordialmente el principio de oport
 
 Para efectos de lo anterior, la Tesorería de la Federación operará y administrará el sistema de la cuenta única de tesorería que será obligatorio para las dependencias y entidades. La Secretaría podrá emitir las normas y lineamientos para la implantación y funcionamiento de la cuenta única, así como también, tomando en cuenta las necesidades específicas de cada caso, establecer las excepciones procedentes. Lo anterior, sin perjuicio de las obligaciones que correspondan a los ejecutores de gasto o a sus unidades responsables y de administración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+
 ###### Artículo 52.
 
-Los ejecutores de gasto realizarán los cargos al Presupuesto de Egresos, a través de cuentas por liquidar certificadas.
+Los ejecutores de gasto, conforme a las disposiciones aplicables, realizarán los cargos al Presupuesto de Egresos, a través de los gastos efectivamente devengados en el ejercicio fiscal y registrados en los sistemas contables correspondientes. Los ejecutores de gasto solicitarán el pago de los gastos efectivamente devengados, a través de cuentas por liquidar certificadas, en los términos del Reglamento.
 
 La Secretaría podrá realizar cargos a los presupuestos de las dependencias y, en su caso, a las transferencias o subsidios destinadas (sic) a las entidades en el presupuesto de las dependencias coordinadoras de sector, en caso de desastres naturales o incumplimiento de normas o pagos, conforme a lo siguiente:
 
@@ -1172,7 +1224,7 @@ Las erogaciones previstas en el Presupuesto de Egresos que no se encuentren deve
 
 Los Poderes Legislativo y Judicial, los entes autónomos, las dependencias, así como las entidades respecto de los subsidios o transferencias que reciban, que por cualquier motivo al 31 de diciembre conserven recursos, incluyendo los rendimientos obtenidos, deberán reintegrar el importe disponible a la Tesorería de la Federación dentro de los 15 días naturales siguientes al cierre del ejercicio.
 
-Los adeudos de ejercicios fiscales anteriores, previstos en el proyecto de Presupuesto de Egresos podrán ser hasta por el 80% del monto de endeudamiento autorizado como diferimiento de pago en la Ley de Ingresos del ejercicio fiscal inmediato anterior a aquél en que deba efectuarse su pago.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
 
 Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo.
 
@@ -1254,13 +1306,37 @@ Los ejecutores de gasto, en el ejercicio de sus respectivos presupuestos, deber�
 
 Los ahorros generados como resultado de la aplicación de dichas medidas deberán destinarse, en los términos de las disposiciones generales aplicables, a los programas prioritarios del ejecutor de gasto que los genere.
 
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
-El Ejecutivo Federal, por conducto de la Secretaría y la Función Pública, establecerá un programa de mediano plazo para promover la eficiencia y eficacia en la gestión pública de la Administración Pública Federal, a través de acciones que modernicen y mejoren la prestación de los servicios públicos, promuevan la productividad en el desempeño de las funciones de las dependencias y entidades y reduzcan gastos de operación. Dichas acciones deberán orientarse a lograr mejoras continuas de mediano plazo que permitan, como mínimo, medir con base anual su progreso.
+El Ejecutivo Federal, por conducto de las dependencias competentes, establecerá los criterios generales para promover el uso eficiente de los recursos humanos y materiales de la Administración Pública Federal, a fin de reorientarlos al logro de objetivos, evitar la duplicidad de funciones, promover la eficiencia y eficacia en la gestión pública, modernizar y mejorar la prestación de los servicios públicos, promover la productividad en el desempeño de las funciones de las dependencias y entidades y reducir gastos de operación. Dichas acciones deberán orientarse a lograr mejoras continuas de mediano plazo que permitan, como mínimo, medir con base anual su progreso.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+A fin de lograr los objetivos a que se refiere el párrafo anterior, el Ejecutivo Federal deberá emitir un programa, en concordancia con el Plan Nacional de Desarrollo, el cual deberá publicarse en el Diario Oficial de la Federación, a más tardar el 30 de agosto del primer año de gobierno de la administración del Ejecutivo Federal.
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 Las dependencias y entidades deberán cumplir con los compromisos e indicadores del desempeño de las medidas que se establezcan en el programa a que se refiere el párrafo anterior. Dichos compromisos deberán formalizarse por los titulares de las dependencias y entidades, y el avance en su cumplimiento se reportará en los informes trimestrales.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+Dicho programa será de observancia obligatoria para todas las dependencias y entidades, incluyendo aquéllas a que se refiere el artículo 5 de la presente Ley, y deberá considerar al menos, los siguientes aspectos:
+
+I. Establecer mecanismos para monitorear anualmente la evolución de los recursos destinados a gasto corriente estructural ejercido;
+
+II. Promover el uso intensivo de las tecnologías de la información y comunicaciones a fin de reducir el costo de los recursos materiales y servicios generales del gobierno;
+
+III. Simplificar los procesos internos y eliminar aquellos que no están relacionados con las actividades sustantivas del ente público contribuyendo a la transparencia y a la rendición de cuentas;
+
+IV. Establecer los lineamientos para reorientar los recursos de la Administración Pública Federal, en caso de que se realicen reestructuras a las dependencias y entidades;
+
+V. Establecer las medidas para lograr una distribución de los recursos humanos al servicio de la Administración Pública Federal que permita hacer más eficiente la actuación del gobierno;
+
+VI. Estrategias para modernizar la estructura de la Administración Pública Federal a fin de contar con recursos para ofrecer mejores bienes y servicios públicos;
+
+VII. Estrategias para enajenar aquellos bienes improductivos u obsoletos, ociosos o innecesarios, y
+
+VIII. Establecer esquemas para que la Secretaría brinde apoyo técnico a las dependencias y entidades en la elaboración de sus programas de aseguramiento y manuales de procedimientos sobre la contratación de seguros y soporte de siniestros, en la determinación de sus niveles de retención máximos y en la prevención y disminución de los riesgos inherentes a los bienes con que cuenten, así como en el proceso de siniestros reportados a las compañías de seguros con las que mantengan celebrados contratos de seguros sobre bienes.
 
 ###### Artículo 62.
 
@@ -1281,6 +1357,20 @@ V. Se apeguen a lo establecido en el Presupuesto de Egresos y las demás disposi
 Los titulares de los ejecutores de gasto autorizarán las erogaciones por concepto de gastos de orden social, congresos, convenciones, exposiciones, seminarios, espectáculos culturales o cualquier otro tipo de foro o evento análogo, en los términos de las disposiciones generales aplicables.
 
 Los ejecutores de gasto deberán integrar expedientes que incluyan, entre otros, los documentos con los que se acredite la contratación u organización requerida, la justificación del gasto, los beneficiarios, los objetivos y programas a los que se dará cumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+En materia de gastos de vehículos, viajes oficiales, bienes y servicios, los ejecutores de gasto deberán observar lo siguiente:
+
+I. Vehículos: Sólo podrán adquirirse las unidades nuevas que resulten indispensables para destinarse en forma exclusiva al uso oficial, aquéllos que presten directamente servicios públicos a la población, los necesarios para actividades de seguridad pública y nacional, o para las actividades productivas.
+
+II. Bienes y Servicios: Los ejecutores de gasto deberán racionalizar el gasto de los servicios de telefonía, combustibles, arrendamientos, viáticos, alimentación, mobiliario, remodelación de oficinas, equipo de telecomunicaciones, bienes informáticos, y pasajes a lo estrictamente indispensable, y
+
+III. Se promoverá la contratación consolidada de materiales, suministros, mobiliario y demás bienes, así como de los servicios cuya naturaleza lo permita, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+Las dependencias y entidades se abstendrán de realizar adquisiciones de inmuebles sin la previa justificación costo-beneficio y autorización en los términos de las disposiciones aplicables.
 
 ### CAPÍTULO V. De los Servicios Personales
 
@@ -1304,11 +1394,17 @@ I. Sujetarse a su presupuesto aprobado conforme a lo previsto en el artículo 33
 
 II. Sujetarse a los tabuladores de remuneraciones en los términos previstos en las disposiciones generales aplicables;
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+Los servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión que deberá ser proporcional a sus responsabilidades. Ningún servidor público podrá recibir remuneración mayor a la establecida para el Presidente de la República en el Presupuesto de Egresos.
+
 III. En materia de incrementos en las percepciones, deberán sujetarse estrictamente a las previsiones salariales y económicas a que se refiere el artículo 33 fracción II de esta Ley, aprobadas específicamente para este propósito por la Cámara de Diputados en el Presupuesto de Egresos;
 
 IV. Sujetarse, en lo que les corresponda, a lo dispuesto en las leyes laborales y las leyes que prevean el establecimiento de servicios profesionales de carrera, así como observar las demás disposiciones generales aplicables. En el caso de las dependencias y entidades, deberán observar adicionalmente la política de servicios personales que establezca el Ejecutivo Federal;
 
-V. En materia de percepciones extraordinarias, sujetarse a las disposiciones generales aplicables y obtener las autorizaciones correspondientes.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+V. No se autorizarán bonos o percepciones extraordinarias salvo autorización previa de la Secretaría o en el caso de los Poderes Legislativo y Judicial, y los entes autónomos, en los términos de las disposiciones que les resulten aplicables.
 
 Las percepciones extraordinarias son aquéllas que no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
 
@@ -1478,7 +1574,7 @@ Las dependencias, o las entidades a través de sus respectivas dependencias coor
 
 Las reglas de operación deberán ser simples y precisas con el objeto de facilitar la eficiencia y la eficacia en la aplicación de los recursos y en la operación de los programas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 78.
 
@@ -1576,7 +1672,7 @@ En el caso de las entidades de control presupuestario indirecto, éstas también
 
 El Ejecutivo Federal deberá señalar en el proyecto de Presupuesto de Egresos la distribución de los programas sociales, estimando el monto de recursos federales por entidad federativa.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ### CAPÍTULO III. De la Transparencia e Información sobre el ejercicio del gasto federalizado
 
@@ -1608,9 +1704,17 @@ Las entidades federativas, los municipios y las demarcaciones territoriales del 
 
 ### CAPÍTULO I. De la Valuación del Patrimonio del Estado
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
 ###### Artículo 86.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+Con el objeto de mejorar la transparencia y rendición de cuentas en el ejercicio del gasto federalizado, la Secretaría de Hacienda y Crédito Público mediante firma de convenio con las entidades federativas y la Auditoría Superior de la Federación, así como con la participación que corresponda a las autoridades federales competentes, fortalecerá todas las acciones de coordinación para evaluar el correcto uso de los recursos públicos, para lo cual deberán:
+
+I. Establecer acciones para mejorar la evaluación, transparencia y eficiencia en el ejercicio del gasto federalizado en los tres órdenes de gobierno, conforme a los principios del artículo 1 de esta Ley;
+
+II. Promover mecanismos de participación ciudadana en el seguimiento del gasto público, así como la publicación de información presupuestaria accesible y transparente para la ciudadanía, y
+
+III. Informar al Congreso de la Unión y a la respectiva legislatura local, sobre el ejercicio del presupuesto y de los avances de los objetivos establecidos en el Plan Nacional de Desarrollo y en los respectivos planes locales de desarrollo, en los términos de las disposiciones aplicables.
 
 ###### Artículo 87.
 
@@ -1708,13 +1812,23 @@ La información a que se refiere el artículo 7, fracción IX, de la Ley citada 
 
 Los ejecutores de gasto deberán remitir al Congreso de la Unión la información que éste les solicite en relación con sus respectivos presupuestos, en los términos de las disposiciones generales aplicables. Dicha solicitud se realizará por los órganos de gobierno de las Cámaras o por las Comisiones competentes, así como el Centro de Estudios de las Finanzas Públicas de la Cámara de Diputados.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+En la recaudación y el endeudamiento público del Gobierno Federal, la Secretaría y las entidades estarán obligadas a proporcionar a la Función Pública y a la Auditoría Superior de la Federación, en el ámbito de sus respectivas competencias y en los términos de las disposiciones aplicables, la información que éstas requieran legalmente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+El incumplimiento a lo dispuesto en este artículo será sancionado en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y las demás disposiciones aplicables.
+
 ###### Artículo 107.
 
 El Ejecutivo Federal, por conducto de la Secretaría, entregará al Congreso de la Unión información mensual y trimestral en los siguientes términos:
 
 I. Informes trimestrales a los 30 días naturales después de terminado el trimestre de que se trate, conforme a lo previsto en esta Ley.
 
-Los informes trimestrales deberán presentarse con desglose mensual e incluirán información sobre los ingresos obtenidos y la ejecución del Presupuesto de Egresos, así como sobre la situación económica y las finanzas públicas del ejercicio, conforme a lo previsto en esta Ley y el Reglamento. Asimismo, incluirán los principales indicadores sobre los resultados y avances de los programas y proyectos en el cumplimiento de los objetivos y metas y de su impacto social, con el objeto de facilitar su evaluación en los términos a que se refieren los artículos 110 y 111 de esta Ley.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+Los informes trimestrales incluirán información sobre los ingresos obtenidos y la ejecución del Presupuesto de Egresos, así como sobre la situación económica y las finanzas públicas del ejercicio, conforme a lo previsto en esta Ley y el Reglamento. Asimismo, incluirán los principales indicadores sobre los resultados y avances de los programas y proyectos en el cumplimiento de los objetivos y metas y de su impacto social, con el objeto de facilitar su evaluación en los términos a que se refieren los artículos 110 y 111 de esta Ley.
 
 Los ejecutores de gasto serán responsables de remitir oportunamente a la Secretaría, la información que corresponda para la debida integración de los informes trimestrales, cuya metodología permitirá hacer comparaciones consistentes durante el ejercicio fiscal y entre varios ejercicios fiscales.
 
@@ -1726,15 +1840,43 @@ b) La situación de las finanzas públicas, con base en lo siguiente:
 
 i) Los principales indicadores de la postura fiscal, incluyendo información sobre los balances fiscales y, en su caso, el déficit presupuestario;
 
-ii) La evolución de los ingresos tributarios y no tributarios, especificando el desarrollo de los ingresos petroleros y los no petroleros; la situación respecto a las metas de recaudación y una explicación detallada de la misma, así como el comportamiento de las participaciones federales para las entidades federativas.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
-Asimismo, deberán reportarse los juicios ganados y perdidos por el Servicio de Administración Tributaria, el Instituto Mexicano del Seguro Social y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en materia fiscal y de recaudación; así como el monto que su resultado representa de los ingresos y el costo operativo que implica para las respectivas instituciones y en particular para el Servicio de Administración Tributaria. Este reporte deberá incluir una explicación de las disposiciones fiscales que causan inseguridad jurídica para el Gobierno Federal. Los tribunales competentes estarán obligados a facilitar a las instituciones citadas la información que requieran para elaborar dichos reportes, y
+ii) La evolución de los ingresos tributarios y no tributarios, especificando el desarrollo de los ingresos petroleros y los no petroleros; la situación respecto a las estimaciones de recaudación y una explicación detallada de la misma, así como el comportamiento de las participaciones federales para las entidades federativas.
 
-iii) La evolución del gasto público, incluyendo el gasto programable y no programable; su ejecución conforme a las clasificaciones a que se refiere el artículo 28 de esta Ley, los principales resultados de los programas y proyectos, y las disponibilidades de recursos en fondos y fideicomisos;
+Adicionalmente, se presentará la información sobre los ingresos percibidos por la Federación en relación con las estimaciones que se señalan en la Ley de Ingresos.
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+Con el objeto de evaluar el desempeño en materia de eficiencia recaudatoria, se deberá incluir la información correspondiente a los indicadores que a continuación se señalan:
 
-iv) La evolución del gasto público previsto en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t) y u) de esta Ley.
+1. Avance en el padrón de contribuyentes.
+
+2. Información estadística de avances contra la evasión y elusión fiscales.
+
+3. Avances contra el contrabando.
+
+4. Reducción de rezagos y cuantificación de resultados en los litigios fiscales.
+
+5. Plan de recaudación.
+
+6. Información sobre las devoluciones fiscales.
+
+7. Los montos recaudados en cada periodo por concepto de los derechos de los hidrocarburos, estableciendo los ingresos obtenidos específicamente, en rubros separados, por la extracción de petróleo crudo y de gas natural.
+
+8. Los elementos cuantitativos que sirvieron de base para el cálculo del impuesto especial sobre producción y servicios.
+
+9. Avances en materia de simplificación fiscal y administrativa.
+
+La Secretaría deberá incluir en el informe de recaudación neta, un reporte de grandes contribuyentes agrupados por cantidades en los siguientes rubros: empresas con ingresos acumulables en el monto que señalan las leyes, sector financiero, sector gobierno, empresas residentes en el extranjero y otros. Las empresas del sector privado, además, deberán estar identificadas por el sector industrial, primario y/o de servicios al que pertenezcan.
+
+Asimismo, deberán reportarse los juicios ganados y perdidos por el Servicio de Administración Tributaria, el Instituto Mexicano del Seguro Social y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en materia fiscal y de recaudación; así como el monto que su resultado representa de los ingresos y el costo operativo que implica para las respectivas instituciones y en particular para el Servicio de Administración Tributaria. Este reporte deberá incluir una explicación de las disposiciones fiscales que causan inseguridad jurídica para el Gobierno Federal. Los tribunales competentes estarán obligados a facilitar a las instituciones citadas la información que requieran para elaborar dichos reportes;
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+iii) La evolución del gasto público, incluyendo el gasto programable y no programable; su ejecución conforme a las clasificaciones a que se refiere el artículo 28 de esta Ley, los principales resultados de los programas y proyectos. Asimismo, se incorporará la información relativa a las disponibilidades de los ejecutores de gasto, así como de los fondos y fideicomisos sin estructura orgánica;
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+iv) La evolución del gasto público previsto en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u) y v) de esta Ley.
 
 c) Un informe que contenga la evolución detallada de la deuda pública en el trimestre, incluyendo los montos de endeudamiento interno neto, el canje o refinanciamiento de obligaciones del Erario Federal, en los términos de la Ley General de Deuda Pública, y el costo total de las emisiones de deuda pública interna y externa.
 
@@ -1742,11 +1884,21 @@ La información sobre el costo total de las emisiones de deuda interna y externa
 
 Se incluirá también un informe de las erogaciones derivadas de operaciones y programas de saneamiento financieros y de los programas de apoyo a ahorradores y deudores de la banca. Adicionalmente, en dicho informe se incluirá un apartado que refiera las operaciones activas y pasivas del Instituto de Protección al Ahorro Bancario, así como de su posición financiera, incluyendo aquéllas relativas a la enajenación de bienes, colocación de valores y apoyos otorgados.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+Se informará adicionalmente sobre las modificaciones que, en su caso, hayan sido realizadas al monto autorizado por intermediación financiera en la Ley de Ingresos.
+
 Este informe incluirá un apartado sobre los pasivos contingentes que se hubieran asumido con la garantía del Gobierno Federal, incluyendo los avales distintos de los proyectos de inversión productiva de largo plazo otorgados.
 
 De igual forma, incluirá un informe sobre el uso de recursos financieros de la banca de desarrollo y fondos de fomento para financiar al sector privado y social, detallando el balance de operación y el otorgamiento de créditos, así como sus fuentes de financiamiento, así como se reportará sobre las comisiones de compromiso pagadas por los créditos internos y externos contratados;
 
-d) La evolución de los proyectos de infraestructura productiva de largo plazo, que incluya:
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+Se reportará el ejercicio de las facultades en materia de deuda pública, especificando las características de las operaciones realizadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+d) La evolución de los proyectos de infraestructura productiva de largo plazo y otras asociaciones público privadas, que incluyan:
 
 i) Una contabilidad separada con el objeto de identificar los ingresos asociados a dichos proyectos;
 
@@ -1760,7 +1912,13 @@ e) Los montos correspondientes a los requerimientos financieros del sector públ
 
 f) La evolución de los proyectos de inversión en infraestructura que cuenten con erogaciones plurianuales aprobadas en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos.
 
-II. Informes mensuales sobre los montos de endeudamiento interno neto, el canje o refinanciamiento de obligaciones del Erario Federal, en los términos de la Ley General de Deuda Pública, y el costo total de las emisiones de deuda interna y externa. La información sobre el costo total de las emisiones de deuda interna y externa deberá identificar por separado el pago de las comisiones y gastos inherentes a la emisión, de los del pago a efectuar por intereses. Estos deberán diferenciarse de la tasa de interés que se pagará por los empréstitos y bonos colocados. Dichos informes deberán presentarse a las Comisiones de Hacienda y Crédito Público del Congreso de la Unión, 30 días después del mes de que se trate.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+g) La información relativa a los ingresos obtenidos por cada uno de los proyectos de inversión financiada directa y condicionada establecidos en el Tomo correspondiente del Presupuesto de Egresos; así como la información relativa al balance de las entidades de control directo a que se refiere el catálogo de la estimación de ingresos, contenido en la Ley de Ingresos.
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
+
+II. Informes mensuales sobre la evolución de las finanzas públicas, incluyendo los requerimientos financieros del sector público y su saldo histórico, los montos de endeudamiento interno neto, el canje o refinanciamiento de obligaciones del Erario Federal, en los términos de la Ley General de Deuda Pública, y el costo total de las emisiones de deuda interna y externa. La información sobre el costo total de las emisiones de deuda interna y externa deberá identificar por separado el pago de las comisiones y gastos inherentes a la emisión, de los del pago a efectuar por intereses. Estos deberán diferenciarse de la tasa de interés que se pagará por los empréstitos y bonos colocados. Dichos informes deberán presentarse a las Comisiones de Hacienda y Crédito Público del Congreso de la Unión, 30 días después del mes de que se trate.
 
 La Secretaría informará a la Cámara de Diputados, por conducto de la Comisión de Hacienda y Crédito Público, 30 días después de concluido el mes de que se trate, sobre la recaudación federal participable que sirvió de base para el cálculo del pago de las participaciones a las entidades federativas. La recaudación federal participable se calculará de acuerdo con lo previsto en la Ley de Coordinación Fiscal. La recaudación federal participable se comparará con la correspondiente al mismo mes del año previo y con el programa, y se incluirá una explicación detallada de su evolución.
 
@@ -1770,13 +1928,19 @@ La Secretaría presentará al Congreso de la Unión los datos estadísticos y la
 
 La información que la Secretaría proporcione al Congreso de la Unión deberá ser completa y oportuna. En caso de incumplimiento procederán las responsabilidades que correspondan.
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
-La Cuenta Pública deberá contener los resultados del ejercicio del Presupuesto establecido en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t) y u) de esta Ley, en los mismos términos y el mismo grado de desagregación en los que se presente la evolución del gasto público al que hace referencia el sub inciso iv), inciso b), fracción I del presente artículo.
+La Cuenta Pública deberá contener los resultados del ejercicio del Presupuesto establecido en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u) y v) de esta Ley, en los mismos términos y el mismo grado de desagregación en los que se presente la evolución del gasto público al que hace referencia el sub inciso iv), inciso b) fracción I del presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+Con el propósito de transparentar el monto y la composición de los pasivos financieros del Gobierno Federal, la Secretaría de Hacienda y Crédito Público deberá publicar en su página de Internet y hacer llegar a las comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados, a más tardar el 30 de abril de cada año, un documento que explique cómo se computan los balances fiscales y los requerimientos financieros del sector público, junto con la metodología respectiva, en el que se incluyan de manera integral todas las obligaciones financieras del Gobierno Federal, así como los pasivos públicos, pasivos contingentes y pasivos laborales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
 
 ###### Artículo 108.
 
-La Secretaría, la Función Pública y el Banco de México, en el ámbito de sus respectivas competencias, establecerán los lineamientos relativos al funcionamiento, organización y requerimientos del sistema integral de información de los ingresos y gasto público. Las Comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados tendrán acceso a este Sistema con las limitaciones que establecen las leyes.
+La Secretaría, la Función Pública y el Banco de México, en el ámbito de sus respectivas competencias, establecerán los lineamientos relativos al funcionamiento, organización y requerimientos del sistema integral de información de los ingresos y gasto público. Las Comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados tendrán acceso a este sistema con las limitaciones que establecen las leyes y en términos de lo que establezcan los lineamientos del sistema.
 
 Los servidores públicos de los ejecutores de gasto que, conforme al Reglamento, tengan acceso a la información de carácter reservado del sistema a que se refiere este artículo estarán obligados a guardar estricta confidencialidad sobre la misma; en caso de que no observen lo anterior, les serán impuestas las sanciones que procedan en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de las sanciones previstas en esta Ley y en las demás disposiciones generales aplicables.
 
@@ -1794,7 +1958,9 @@ La Secretaría emitirá las reglas de carácter general para el manejo de inform
 
 La Secretaría realizará trimestralmente la evaluación económica de los ingresos y egresos en función de los calendarios de presupuesto de las dependencias y entidades. Las metas de los programas aprobados serán analizadas y evaluadas por las Comisiones Ordinarias de la Cámara de Diputados.
 
-Para efectos del párrafo anterior, el Ejecutivo Federal enviará trimestralmente a la Cámara de Diputados la información necesaria, con desglose mensual.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+Para efectos del párrafo anterior, el Ejecutivo Federal enviará trimestralmente a la Cámara de Diputados la información necesaria.
 
 El Consejo Nacional de Evaluación de la Política de Desarrollo Social coordinará las evaluaciones en materia de desarrollo social en términos de lo dispuesto en la Ley General de Desarrollo Social y lo dispuesto en esta Ley.
 
@@ -1832,13 +1998,19 @@ V. Las evaluaciones deberán incluir información desagregada por sexo relaciona
 
 VI. Deberán dar seguimiento a la atención de las recomendaciones que se emitan derivado de las evaluaciones correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+
 ###### Artículo 111.
 
-La Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, verificarán periódicamente, al menos cada bimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el sistema de evaluación del desempeño, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública Federal y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
+La Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, verificarán periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el sistema de evaluación del desempeño, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública Federal y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
 
-Dicho sistema de evaluación del desempeño a que se refiere el párrafo anterior del presente artículo será obligatorio para los ejecutores de gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes bimestrales, desglosados por mes, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley. La Secretaría y la Función Pública emitirán las disposiciones para la aplicación y evaluación de los referidos indicadores en las dependencias y entidades; los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
-Los indicadores del sistema de evaluación del desempeño deberán formar parte del Presupuesto de Egresos e incorporar sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
+El sistema de evaluación del desempeño a que se refiere el párrafo anterior del presente artículo será obligatorio para los ejecutores de gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley. La Secretaría y la Función Pública emitirán las disposiciones para la aplicación y evaluación de los referidos indicadores en las dependencias y entidades; los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+En la elaboración de los anteproyectos de presupuesto a los que se refiere el artículo 25 de esta Ley, las dependencias y entidades deberán considerar los indicadores del sistema de evaluación de desempeño, mismos que formarán parte del Presupuesto de Egresos e incorporarán sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
 
 > <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
 
@@ -1924,7 +2096,7 @@ México, D.F., a 9 de marzo de 2006.- Sen. Carlos Chaurand Arzate, Vicepresident
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de marzo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 27 DE DICIEMBRE DE 2006.
 
@@ -2051,3 +2223,39 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 24 DE ENERO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria de conformidad con lo previsto en este Decreto, dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+El Producto Interno Bruto Potencial deberá incluirse dentro de los Criterios Generales de Política Económica y contendrá una estimación de los diez años anteriores y proyecciones para los próximos cinco años.
+
+El Producto Interno Bruto Potencial, la metodología y la información para estimarlo deberán ser públicos.
+
+TERCERO. El límite máximo del gasto corriente estructural a que se refiere el artículo 2, fracción XXXII bis, de esta Ley, se aplicará a partir del ejercicio fiscal 2015. Para los ejercicios fiscales 2015 y 2016, se determinará con base en lo siguiente:
+
+I. Para el ejercicio fiscal 2015, el gasto corriente estructural propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos y aquél que apruebe la Cámara de Diputados no podrá ser mayor en 2.0% en términos reales, respecto al gasto corriente estructural aprobado en el Presupuesto de Egresos de 2014. Asimismo, el gasto corriente estructural que se ejerza en el ejercicio fiscal 2015 no podrá ser superior al gasto corriente estructural contenido en la Cuenta Pública del ejercicio fiscal 2014, más un incremento de 2.0% en términos reales;
+
+II. Para el ejercicio fiscal 2016, el gasto corriente estructural propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos y aquél que apruebe la Cámara de Diputados no podrá ser mayor en 2.0% en términos reales, respecto al gasto corriente estructural aprobado en el Presupuesto de Egresos de 2015. Asimismo, el gasto corriente estructural que se ejerza en el ejercicio fiscal 2016 no podrá ser superior al gasto corriente estructural contenido en la Cuenta Pública del ejercicio fiscal 2015, más un incremento de 2.0% en términos reales, y
+
+III. Los Poderes Legislativo y Judicial y los entes autónomos, en la programación y presupuestación de sus respectivos proyectos, así como en la ejecución de sus presupuestos aprobados deberán cumplir con el límite máximo del gasto corriente estructural determinado en términos de las fracciones I y II anteriores.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+QUINTO. El Ejecutivo Federal llevará a cabo acciones para generar economías, durante el ejercicio fiscal 2014, del 5 por ciento en la partida de sueldos correspondientes al personal de mando medios y superiores y del 5 por ciento del gasto de operación del gasto corriente estructural que no esté relacionado con programas de atención a la población.
+
+Los Poderes Legislativo y Judicial, así como los entes autónomos, deberán adoptar acciones que les permitan obtener economías en los mismos términos del párrafo anterior, en el ámbito de sus respectivas competencias.
+
+Dichas economías en ningún momento irán en detrimento de la calidad en el desempeño de la función y administración pública.
+
+El resultado de la aplicación de las acciones descritas en el presente artículo deberán reportarse en los informes trimestrales.
+
+SEXTO. Durante los ejercicios fiscales de 2014 y 2015, no procederá la adquisición de vehículos, salvo aquéllos que resulten indispensables para prestar directamente servicios públicos a la población, los necesarios para actividades de seguridad pública y nacional, o para las actividades productivas.
+
+La Secretaría o, la unidad administrativa competente en el caso de los Poderes Legislativo y Judicial y en los entes autónomos, podrán determinar las modalidades específicas de aplicación de esta medida en casos excepcionales, así como para las entidades que sean objeto de reformas jurídicas o de nueva creación.
+
+SÉPTIMO. El Congreso de la Unión, a partir de la entrada en vigor del presente Decreto legislará en torno a las adecuaciones constitucionales y reglamentarias en torno a un Sistema Nacional de Fiscalización y un nuevo marco de combate a la corrupción en los tres niveles de gobierno.
+
+OCTAVO. El Ejecutivo Federal, para dar cumplimiento a lo establecido en el artículo 61 de esta Ley, deberá publicar la actualización de los programas vigentes expedidos con anterioridad a la entrada en vigor del presente Decreto, donde se integren las nuevas medidas de disciplina y austeridad del presente Decreto. El Ejecutivo Federal deberá hacer esta publicación a más tardar el último día hábil de abril de 2014 e informar, a partir del segundo informe trimestral, sobre los avances, resultados y cumplimiento de metas.
