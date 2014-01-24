@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2012-12-19"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO Y MUNICIPIOS
+LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -323,7 +323,13 @@ El Director General del Instituto, será designado por el Gobernador del Estado,
 
 I. Ejecutar los acuerdos del Consejo Directivo e informarle oportunamente de su cumplimiento;
 
-II. Representar al Instituto en todos los actos que requieran su intervención;
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
+
+II. Asumir la representación jurídica del Instituto, de las unidades administrativas, comités, comisiones y servidores públicos que lo integran, así como en los litigios en que sean parte, en ejercicio de (sic) funciones.
+
+Esta atribución podrá delegarla al personal jurídico adscrito a la Unidad Jurídica y Consultiva del Instituto, para que la ejerzan individual o conjuntamente ante las autoridades jurisdiccionales.
+
+Otorgar y revocar la representación jurídica, aun las que requieran cláusula especial, a través de poderes generales y especiales o mediante oficio.
 
 III. Organizar el funcionamiento del Instituto y vigilar el cumplimiento de sus programas;
 
@@ -899,7 +905,7 @@ El monto total para el financiamiento de pensiones de cada servidor público, es
 
 El sistema solidario de reparto es el régimen que otorga pensiones cuyo beneficio es determinado y su financiamiento y requisitos ajustables, por lo que sus fondos se constituirán en una reserva común y se destinará a cubrir las pensiones a que se hagan acreedores los servidores públicos que cumplan con los requisitos que señala la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 2 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 86.
 
@@ -1617,7 +1623,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.G. 29 DE MAYO DE 2007.
 
@@ -1662,3 +1668,9 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los requisitos de edad y tiempo de cotización para obtener alguna de las pensiones a que se refiere esta ley, serán aquellos que correspondan al último ingreso al servicio público a excepción del incremento en la tasa de reemplazo como estímulo por permanencia. Para el cálculo del monto diario y tasas de reemplazo invariablemente se realizará conforme a las disposiciones de esta Ley.
 
 CUARTO.- El Órgano Superior de Fiscalización dará seguimiento permanente a la aplicación de los recursos del Instituto de Seguridad Social del Estado de México y Municipios.
+
+G.G. 24 DE ENERO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
