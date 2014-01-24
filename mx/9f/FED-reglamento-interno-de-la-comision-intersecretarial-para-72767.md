@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-intersecretarial-para-72767"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-15"
-last_updated: "2010-02-15"
+last_updated: "2014-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72767&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-01-19"
 
 REGLAMENTO INTERNO DE LA COMISION INTERSECRETARIAL PARA PREVENIR Y SANCIONAR LA TRATA DE PERSONAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA COMISIÓN INTERSECRETARIAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, PUBLICADO EN LA PRIMER SECCIÓN DEL D.O.F. DE 24 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 15 de febrero de 2010.
 
@@ -384,3 +386,11 @@ Las personas que coordinen los Grupos de Trabajo podrán solicitar la presencia 
 UNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 19 de enero de 2010.- El Secretario Técnico de la Comisión Intersecretarial para Prevenir y Sancionar la Trata de Personas, José Antonio Guevara Bermúdez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 24 DE ENERO DE 2014.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento Interno de la Comisión Intersecretarial para Prevenir y Sancionar la Trata de Personas, publicado en el Diario Oficial de la Federación el día 15 de febrero de 2010.
