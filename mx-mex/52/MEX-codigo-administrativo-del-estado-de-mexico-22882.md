@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-01-22"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2014 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ENERO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -91,7 +89,7 @@ XIV. Periódico Oficial del Gobierno del Estado de México;
 
 XV. Los procesos de contratación y los contratos que celebre el Estado, sus dependencias y organismos auxiliares y, en su caso, los municipios y sus organismos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)
 
 ###### Artículo 1.
 
@@ -7583,9 +7581,19 @@ VIII. Transportar más de 10 kilogramos de artículos pirotécnicos, salvo que c
 
 14 Bis.- Queda prohibido el uso de vehículos tipo motocicleta o similar para prestar el servicio público de transporte de pasajeros.
 
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+
+###### Artículo 8.
+
+14 Ter.- Queda prohibido el tránsito de vehículos de carga que transporten materias primas forestales, productos y subproductos, por la infraestructura vial de la entidad, en el horario comprendido de las 20:00 horas a las 8:00 horas de todos los días de la semana.
+
+Se exceptúa de lo dispuesto en el presente artículo el transporte de leña para consumo doméstico de material leñoso proveniente de vegetación forestal sin ningún proceso de transformación, que podrá ser utilizado como combustible en el hogar, para rituales o productos artesanales, hasta en un volumen menor a medio metro cúbico.
+
 ###### Artículo 8.
 
 15.- Las autoridades de tránsito podrán establecer restricciones para el tránsito de vehículos con el propósito de mejorar la circulación, preservar el ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público.
+
+### CAPITULO PRIMERO. De la producción y transformación
 
 ###### Artículo 8.
 
@@ -7641,8 +7649,6 @@ l) Obstruir los accesos y espacios destinados a las personas con discapacidad.
 
 > <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-### CAPITULO PRIMERO. De la producción y transformación
-
 ###### Artículo 8.
 
 16 Bis.- Además de las señaladas en el artículo anterior, los conductores de vehículos de motor tendrán las obligaciones siguientes:
@@ -7659,6 +7665,10 @@ III. Someterse a las pruebas para la detección del grado de intoxicación que d
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE AGOSTO DE 2013)</small>
 
+## TITULO CUARTO. De las infracciones y sanciones
+
+### CAPITULO SEGUNDO. De la comercialización
+
 ###### Artículo 8.
 
 17.- Los municipios podrán otorgar permisos para el establecimiento de estacionamientos de servicio al público, los cuales tendrán las instalaciones necesarias para la seguridad de las personas y de los vehículos, respondiendo por los daños que a los mismos se ocasionen.
@@ -7669,9 +7679,7 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 29 DE AGOSTO DE 2013)</small>
 
-## TITULO CUARTO. De las infracciones y sanciones
-
-### CAPITULO SEGUNDO. De la comercialización
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
 ###### Artículo 8.
 
@@ -7694,8 +7702,6 @@ VII. Agencias automotrices con venta de vehículos usados.
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
 ###### Artículo 8.
 
@@ -7879,6 +7885,8 @@ VIII. Nombre, cargo y firma de la autoridad que emita el dictamen.
 
 17 Quáterdecies.- Queda estrictamente prohibido ocupar las vías públicas para realizar actos relacionados con la enajenación de los bienes mencionados en este Capítulo, con excepción de los particulares que oferten hasta dos vehículos de su propiedad frente a su domicilio, supuesto en el cual deberán contar con los documentos que acrediten la propiedad de los bienes respectivos.
 
+## TITULO PRIMERO. Disposiciones generales
+
 ###### Artículo 8.
 
 18.- Las infracciones a las disposiciones de este Libro y las que de él emanen se sancionarán conforme a lo siguiente:
@@ -7905,9 +7913,11 @@ III. Con multa de 50 a 100 días de salario mínimo vigente y el pago de los der
 
 IV. En materia de estacionamientos, la multa se calculará multiplicando el número de rango o cajones por la tarifa al usuario.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, G.G. 24 DE ENERO DE 2014)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+V. Con multa de cinco a cuarenta y cinco días de salario mínimo vigente en área geográfica de que se trate, a quien infrinja lo dispuesto en el artículo 8.14 Ter.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 8.
 
@@ -8005,9 +8015,13 @@ VII. (DEROGADA, G.G. 31 DE AGOSTO DE 2012)
 
 VIII. Cuando lo establezcan las disposiciones reglamentarias, tratándose del servicio público de transporte;
 
-> <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
-IX. Cuando lo establezcan otras disposiciones legales.
+IX. Transgredir la prohibición prevista en el párrafo segundo del artículo 8.14 Ter del presente ordenamiento, debiendo reportarlo de inmediato ante la autoridad competente.
+
+> <small>(ADICIONADA, G.G. 24 DE ENERO DE 2014)</small>
+
+X. Cuando lo establezcan otras disposiciones legales.
 
 > <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
 
@@ -12865,7 +12879,7 @@ VIII. Las demás que les atribuyan otras disposiciones del Código Administrativ
 
 Los permisos que correspondan a la publicidad exterior que se pretenda instalar en la infraestructura vial primaria, serán expedidos por las autoridades contempladas en las fracciones de la I a la V del artículo 17.5 del presente Código, en el ámbito de sus atribuciones, las que correspondan a la infraestructura vial local, serán emitidas por los municipios.
 
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+REFORMADO, G.G. 22 DE ENERO DE 2014)
 
 ###### Artículo 17.
 
@@ -16576,3 +16590,13 @@ La Junta de Caminos del Estado de México deberá integrar un registro de permis
 CUARTO.- Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, excepto las disposiciones relativas a la caducidad y al cumplimiento de sentencia.
 
 QUINTO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 24 DE ENERO DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los ayuntamientos en el ámbito de su competencia proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto las disposiciones respectivas.
+
+CUARTO. El Secretario Técnico someterá a consideración del Consejo Rector para su aprobación el proyecto de manual de procedimientos y el reglamento que regirá su funcionamiento, dentro de los 90 días hábiles siguientes a su instalación.
