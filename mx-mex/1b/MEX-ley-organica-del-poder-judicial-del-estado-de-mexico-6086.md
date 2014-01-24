@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2013-11-29"
+last_updated: "2014-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -1907,9 +1907,7 @@ g) El monto de la reparación del daño, cuando la parte ofendida renuncie al mi
 
 II. Fondo ajeno, constituido por depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante los tribunales judiciales.
 
-> <small>(ADICIONADO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
-
-El Fondo Auxiliar a que se refiere éste artículo, será considerado como parte de los ingresos del Estado, para efectos de la formulación de la Ley de Ingresos y del Presupuesto de Egresos del Gobierno del Estado de México, por lo que el Consejo de la Judicatura deberá remitir anualmente al Ejecutivo del Estado, toda la información acerca de la aplicación del Fondo en el ejercicio de que se trate.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 24 DE ENERO DE 2014)</small>
 
 ###### Artículo 146.
 
@@ -1919,11 +1917,11 @@ Para los efectos de la fracción II del artículo anterior, el tribunal, juzgado
 
 Las sumas o valores que se reciban en el renglón de fondo ajeno, serán reintegradas a los depositantes o beneficiarios, según proceda, mediante orden por escrito de la sala o juzgado ante el que se haya otorgado el depósito, en el término máximo de cinco días hábiles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ENERO DE 2014)</small>
 
 ###### Artículo 148.
 
-El Consejo de la Judicatura, en coordinación con el Ejecutivo del Estado, tendrá la administración y manejo del fondo, conforme a las siguientes atribuciones:
+El Consejo de la Judicatura tendrá la administración y manejo del fondo, conforme a las siguientes atribuciones:
 
 I. Recibir mensualmente del Coordinador Administrativo, la información financiera sobre:
 
@@ -1931,43 +1929,43 @@ a) La integración individual del fondo propio y del fondo ajeno.
 
 b) La identificación de los movimientos contables correspondientes, apoyados con la documentación que los justifique para el informe que deba rendir el presidente del Tribunal Superior de Justicia.
 
-> <small>(REFORMADA, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
-II. Celebrar los fideicomisos que sean convenientes con las instituciones de crédito autorizadas para garantizar la conservación e incremento de los fondos propio y ajeno, previa opinión y, en su caso, intervención del Ejecutivo del Estado, por conducto de la Secretaría de Finanzas;
+II. Celebrar los fideicomisos que sean convenientes con las instituciones de crédito autorizadas para garantizar la conservación e incremento de los fondos propio y ajeno.
 
 III. Solicitar del pleno del Tribunal Superior de Justicia, los requerimientos por satisfacer con los recursos del fondo auxiliar;
 
-> <small>(REFORMADA, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
-IV. Autorizar las licitaciones y concursos conforme a lo dispuesto por la Constitución Política del Estado y demás disposiciones relativas, oyendo la opinión del Ejecutivo Estatal; y
+IV. Autorizar las licitaciones y concursos conforme a lo dispuesto por la Constitución Política del Estado y demás disposiciones relativas; y
 
 V. Solicitar la práctica de auditorías tanto del registro original como de los movimientos trimestrales de los dos fondos; ordenar la apertura de la contabilidad correspondiente y el nombramiento y registro profesional de los responsables, independiente de la contabilidad y de los ingresos percibidos, de acuerdo con el Presupuesto de Egresos.
 
+> <small>(REFORMADO, G.G. 24 DE ENERO DE 2014)</small>
+
 ###### Artículo 149.
 
-El presidente del Consejo de la Judicatura firmará las operaciones activas o pasivas para el registro y vigencia del fondo y otro miembro del propio Consejo fungirá como Coordinador Administrativo. El presidente del Tribunal Superior de Justicia en su informe anual, dará a conocer el resultado del rendimiento de los fondos propio y ajeno, así como de las erogaciones efectuadas, validadas por el Consejo de la Judicatura.
+El presidente del Consejo de la Judicatura firmará las operaciones activas o pasivas para el registro y vigencia del fondo y otro miembro del propio Consejo fungirá como Coordinador Administrativo. El Presidente del Tribunal Superior de Justicia en su informe anual, dará a conocer el resultado del rendimiento y de las auditorías del fondo auxiliar así como de las erogaciones efectuadas, validadas por el Consejo de la Judicatura, debiendo ser publicados anualmente los estados financieros del fondo auxiliar en la Gaceta del Gobierno.
 
-> <small>(ADICIONADO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
-
-Dichos fondos, así como sus rendimientos serán considerados como ingresos del Estado, para efectos de la formulación de la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado de México, por lo que el Presidente del Consejo, debe enviar al Ejecutivo del Estado, toda la información a que se refiere el párrafo anterior, para efecto de realizar los proyectos respectivos.
+En la administración del fondo se aplicará la Ley General de Contabilidad Gubernamental.
 
 ### CAPITULO TERCERO. Bases para la Aplicación del Fondo Auxiliar para la Administración de Justicia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ENERO DE 2014)</small>
 
 ###### Artículo 150.
 
-El Consejo de la Judicatura, en coordinación con el Ejecutivo del Estado tendrán a su cargo y bajo su responsabilidad el manejo y administración del Fondo Auxiliar para la Administración de Justicia, conforme a las siguientes bases:
+El Consejo de la Judicatura tendrá a su cargo y bajo su responsabilidad el manejo y administración del Fondo Auxiliar para la Administración de Justicia, conforme a las siguientes bases:
 
-> <small>(REFORMADA, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
-I. Se podrán invertir las cantidades que integran el fondo en la adquisición de títulos de renta fija o a plazo fijo, en representación del Poder Judicial, quien será el titular de los certificados y documentos que expidan las instituciones de crédito con motivo de las inversiones, constituyendo el Ejecutivo Estatal con las instituciones fiduciarias, los fideicomisos de administración de estos recursos;
+I. Podrá invertir las cantidades que integran el fondo en la adquisición de títulos de renta fija o a plazo fijo, en representación del Poder Judicial, quien será el titular de los certificados y documentos que expidan las instituciones de crédito con motivo de las inversiones, constituyendo con las instituciones fiduciarias, los fideicomisos de administración de estos recursos;
 
 II. En el informe anual que rendirá el presidente del Tribunal Superior de Justicia, comunicará el resultado de los ingresos y rendimientos de las inversiones, así como de las erogaciones efectuadas; y
 
-> <small>(REFORMADA, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
-III. El consejo de la Judicatura ordenará la práctica de las auditorías internas o externas que considere necesarias para verificar que el manejo del fondo se haga en forma conveniente, honesta y transparente, informando los resultados obtenidos al Ejecutivo Estatal para los efectos señalados en el artículo 149 de ésta Ley.
+III. El Consejo de la Judicatura ordenará la práctica de las auditorías internas o externas que considere necesarias para verificar que el manejo del fondo se haga en forma conveniente, honesta y transparente.
 
 ###### Artículo 151.
 
@@ -1985,19 +1983,17 @@ V. Pago de sueldos y gasto corriente de salas, juzgados y oficinas no contemplad
 
 VI. Viáticos para los magistrados y jueces que participen en congresos, cursos, conferencias; y
 
-> <small>(REFORMADA, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
-VII. Los demás que a juicio del Consejo de la Judicatura o del Ejecutivo Estatal se requieran para la mejor administración de justicia.
+VII. Los demás que a juicio del Consejo de la Judicatura se requieran para la mejor administración de justicia.
 
-> <small>(ADICIONADO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 24 DE ENERO DE 2014)</small>
 
-El Consejo de la Judicatura, deberá informar anualmente al Ejecutivo del Estado sobre la aplicación de los conceptos a que se refiere éste artículo, para los efectos a que se refiere el artículo 149 de ésta Ley.
-
-> <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 24 DE ENERO DE 2014)</small>
 
 ###### Artículo 152.
 
-El presidente del Consejo de la Judicatura podrá solicitar a los integrantes del propio consejo y a los auditores, la revisión conjunta del manejo de valores y depósitos. Del resultado obtenido, se deberá de informar al Ejecutivo del Estado para efecto de dar cumplimiento a lo dispuesto en el artículo 149 de ésta Ley.
+El presidente del Consejo de la Judicatura podrá solicitar a los integrantes del propio consejo y a los auditores, la revisión conjunta del manejo de valores y depósitos.
 
 ## TITULO OCTAVO
 
@@ -3052,3 +3048,9 @@ SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes d
 TERCERO.- Los asuntos que hayan sido turnados, así como los que se encuentren en trámite ante los órganos jurisdiccionales a los que hace mención la reforma propuesta, continuarán con su substanciación hasta su conclusión, igual circunstancia se observará en las salas del Tribunal Superior de Justicia del Estado, hasta la entrada en vigor del presente Decreto.
 
 CUARTO.- El Consejo de la Judicatura deberá emitir los lineamientos administrativos referentes al sistema de remisión de exhortos y despachos por medios electrónicos, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+G.G. 24 DE ENERO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
