@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-69505"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2013-01-11"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -51,53 +51,73 @@ El Estado de Querétaro, tiene una composición pluricultural sustentada origina
 
 Los indígenas procedentes de otro Estado de la República que transiten o residan temporal o permanentemente dentro del territorio del Estado de Querétaro, podrán acogerse, en lo conducente, a los beneficios de ésta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2014)</small>
 
 ###### Artículo 3.
 
-Esta Ley reconoce a los pueblos indígenas Otomí, Huasteco y Pame, así como a las comunidades indígenas que los conforman, asentadas en los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Huimilpan, Jalpan de Serra, Peñamiller, San Joaquín y Tolimán.
+Esta Ley reconoce a los pueblos indígenas Otomí, Huasteco y Pame, así como a las comunidades indígenas que los conforman, asentadas en los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Huimilpan, Jalpan de Serra, Landa de Matamoros, Pedro Escobedo, Peñamiller, Pinal de Amoles, Querétaro, San Joaquín, Tequisquiapan y Tolimán.
 
 Para los efectos de ésta Ley y para todos los niveles de gobierno, los pueblos y comunidades indígenas, se encuentran distribuidos en el Estado de forma siguiente:
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-I. Amealco de Bonfil: Barrio de la Cruz (San Miguel Tlaxcaltepec), Barrio de la Ladera (San Miguel Tlaxcaltepec), Barrio de Sta. Teresa (Santiago Mexquititlán Barrio 6o.), Barrio del Barco (San Miguel Tlaxcaltepec), Barrio la Isla (Santiago Mexquititlán Barrio 6o.), Barrio Ojo de Agua (San Miguel Tlaxcaltepec), Barrio Presa del Tecolote (El Lindero), Chitejé de Garabato, Chitejé de la Cruz, Cuicillo (Barrio de San Ildefonso), Ejido de San Juan Dehedó, El Bothé, El Cacahuate (Santiago Mexquititlán Barrio 6o.), El Carmen (Santiago Mexquititlán Barrio 6o.), El Jaral (Santiago Mexquititlán Barrio 6o.), El Lindero, El Picacho, El Pueblito (San Miguel Tlaxcaltepec), El Rincón de Agua Buena (San Miguel Tlaxcaltepec), El Rincón de San Ildefonso, El Río (Santiago Mexquititlán Barrio 6o.), El Saucito, El Tepozán (Barrio de San Ildefonso), El Varal, Guadalupe el Terrero, La Joya del Capulín, La Manzana, La Piní, La Soledad, La Venta (Santiago Mexquititlán Barrio 6o.), Las Salvas, Loma de las Víboras (Santiago Mexquititlán Barrio 6o.), Loma de los Blases, Los Árboles, Los Arenales (San Juan Dehedó), Mesillas, Rancho el Sol (Chitejé de la Cruz), San Felipe (Santiago Mexquititlán Barrio 6o.), San Ildefonso Tultepec (Centro), San José Ithó, San Juan Dehedó, San Miguel Tlaxcaltepec (Barrio Centro), San Pablo, San Pedro Tenango, Santiago Mexquititlán Barrio 1o., Santiago Mexquititlán Barrio 2o., Santiago Mexquititlán Barrio 3o., Santiago Mexquititlán Barrio 4o., Santiago Mexquititlán Barrio 5°., Tenasdá (Barrio de San Ildefonso), Tesquedó (Puerta del Chivato), Tierras Negras (Santiago Mexquititlán Barrio 6o.), Veinte de Noviembre, Xahay y Yosphí;
+I. Amealco de Bonfil: Barrio de la Cruz (San Miguel Tlaxcaltepec), Barrio de la Ladera (San Miguel Tlaxcaltepec), Barrio de Sta. Teresa (Santiago Mexquititlán Barrio 6o.), Barrio del Barco (San Miguel Tlaxcaltepec), Barrio la Isla (Santiago Mexquititlán Barrio 6o.), Barrio Ojo de Agua (San Miguel Tlaxcaltepec), Barrio Presa del Tecolote (El Lindero), Chitejé de Garabato, Chitejé de la Cruz, Cuicillo (Barrio de San Ildefonso), Ejido de San Juan Dehedó, El Bothé, El Cacahuate (Santiago Mexquititlán Barrio 6o.), El Carmen (Santiago Mexquititlán Barrio 6o.), El Jaral (Santiago Mexquititlán Barrio 6o.), El Lindero, El Picacho, El Pueblito (San Miguel Tlaxcaltepec), El Rincón de Agua Buena (San Miguel Tlaxcaltepec), El Rincón de San Ildefonso, El Río (Santiago Mexquititlán Barrio 6o.), El Saucito, El Tepozán (Barrio de San Ildefonso), El Varal, Guadalupe el Terrero, La Cañada del Varal, La Joya del Capulín, La Manzana, La Piní, La Purísima, La Soledad, La Venta (Santiago Mexquititlán Barrio 6o.), Las Salvas, Llano Largo, Loma de las Víboras (Santiago Mexquititlán Barrio 6o.), Loma de los Blases, Loma de los Julianes, Los Árboles, Los Arenales (San Juan Dehedó), Mesillas, Rancho el Sol (Chitejé de la Cruz), San Bartolomé del Pino, San Felipe (Santiago Mexquititlán Barrio 6o.), San Ildefonso Tultepec (Centro), San José Ithó, San Juan Dehedó, San Miguel Tlaxcaltepec (Barrio Centro), San Pablo, San Pedro Tenango, Santiago Mexquititlán Barrio 1o., Santiago Mexquititlán Barrio 2o., Santiago Mexquititlán Barrio 3o., Santiago Mexquititlán Barrio 4o., Santiago Mexquititlán Barrio 5°., Tenasdá (Barrio de San Ildefonso), Tesquedó (Puerta del Chivato), Tierras Negras (Santiago Mexquititlán Barrio 6o.), Veinte de Noviembre, Xahay y Yosphí;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-II. Arroyo Seco: Concá, El Crucero del Sabinito, El Riachuelo, El Sabinito, La Cantera, Las Trancas, San José de las Flores, San Juan Buenaventura y Tuna Manza;
+II. Arroyo Seco: Concá, El Crucero del Sabinito, El Riachuelo, El Sabinito, La Cantera, Las Trancas, San José de las Flores, San Juan Buenaventura, Santa María de los Cocos, Tierras Prietas y Tuna Manza;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-III. Cadereyta de Montes: Altamira (La Bondotita), Boxasní, Boyé, Boyecito, Chavarrías, Corral Blanco, Culebras, El Banco, El Chilar, El Membrillo, El Rincón, El Sombrerete, El Soyatal, Jabalí, La Adarga, La Culata, La Florida, La Laja, La Pastilla, La Puerta, La Tinaja, Las Viguitas, Los Juárez, Los Llanitos (de Pathé), Pathé, Pueblo Nuevo, Rancho Nuevo Sombrerete, Santo Domingo, Taxidhó, Xidhí y Xodhé;
+III. Cadereyta de Montes: Altamira (La Bondotita), Boxasní, Boyé, Boyecito, Chavarrías, Corral Blanco, Culebras, El Banco, El Chilar, El Membrillo, El Rincón, El Sombrerete, El Soyatal, Jabalí, La Adarga, La Culata, La Florida, La Laja, La Pastilla, La Puerta, La Tinaja, Las Viguitas, Los Juárez, Los Llanitos (de Pathé), Pathé, Pueblo Nuevo, Rancho de Guadalupe, Rancho Nuevo Sombrerete, Santo Domingo, Taxidhó, Tzibanzá, Xidhí, Xodhé y Yonthé;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-IV. Colón: El Álamo Cuate, El Arte, El Carrizal; El Fuenteño, El Leoncito, El Poleo, El Potrero, El Zamorano, Los Trigos, Nuevo Álamos, Peña Blanca, Pueblo Nuevo, Puerto del coyote, Salitrera (Presa de la Soledad) y Tierra Adentro;
+IV. Colón: Ejido Patria, El Álamo Cuate, El Arte, El Carrizal, El Fuenteño, El Leoncito, El Poleo, El Potrero, El Zamorano, Los Trigos, Nuevo Álamos, Peña Blanca, Peña Colorada, Pueblo Nuevo, Puerto del Coyote, Salitrera (Presa de la Soledad), Santa Rosa de Lima, Tierra Adentro y Urecho;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-V. Ezequiel Montes: Barreras, El Bondotal, El Cardonal, El Ciervo, El Coyote, El Gallito, Guanajuatito, La Higuera, La Nueva Unidad, La Purísima, Las Rosas, Loberas, Los Pérez, Los Ramírez, Los Velázquez, Palo Seco, Punta de la Loma, San Antonio, San José de los Trejo, Sombrerete y Villa Progreso (Barrios Santa María, San José y San Miguel);
+V. Ezequiel Montes: Barreras, El Bondotal, El Cardonal, El Ciervo, El Coyote, El Gallito, El Jagüey Grande, Guanajuatito, La Higuera, La Nueva Unidad, La Purísima, Las Rosas, Loberas, Los Pérez, Los Ramírez, Los Sánchez, Los Velázquez, Palo Seco, Punta de la Loma, San Antonio, San José del Jagüey, San José de los Trejo, Sombrerete y Villa Progreso (Barrios Santa María, San José y San Miguel);
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-VI. Huimilpan: Carranza, La Haciendita, Puerta del Tepozán, El Vegil y Zorrillo;
+VI. Huimilpan: Carranza, El Garruñal, La Haciendita, Los Bordos, Los Cues, Puerta del Tepozán, El Vegil y Zorrillo;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-VII. Jalpan de Serra: Carrizal de los Durán, Carrizalito, El Cañón, El Pocito, El Rincón, Espadañuela, La Cercada, La Esperanza, Laguna de Pitzquintla, Las Flores, Las Nuevas Flores, Los Jasso, Mesa de Pino, Mesa del Sauz, Ojo de Agua, Orilla del Plan (La Laguna), Rancho Nuevo, San Antonio Tancoyol, San Isidro, San Juan de los Durán, Tancoyol, Valle Verde y Zoyapilca;
+VII. Jalpan de Serra: Carrizal de los Durán, Carrizalito, El Cañón, El Pocito, El Rincón, Espadañuela, Guayabos de Saucillo, La Cercada, La Esperanza, Laguna de Pitzquintla, Las Flores, Las Nuevas Flores, Los Jasso, Mesa de Pino, Mesa del Sauz, Ojo de Agua, Orilla del Plan (La Laguna), Rancho Nuevo, Salvideña, San Antonio Tancoyol, San Isidro, San Juan de los Durán, Tancoyol, Tierra Fría, Valle Verde y Zoyapilca;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-VIII. Peñamiller: Agua Caliente, Agua de Pedro, Cruz del Milagro, Cuesta Colorada, El Carrizal, El Moral, El Puerto de la Guitarra, El Tequezquite, La Laja, Las Mesas, Mesa del Troje, Milpillas, Peña Blanca y San Miguel Palmas (Misión de Palmas); y (sic)
+VIII. Landa de Matamoros: Neblinas, Rincón de Piedra Blanca y Tres Lagunas del Valle;
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-IX. San Joaquín: El Deconí, Puerto de la Garita y Santa Mónica las Tinajas; y
+IX. Pedro Escobedo: La D, La Lira y San Clemente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-X. Tolimán: Adjuntillas, Barrio de Casas Viejas, Barrio de García, Barrio La Loma, Bomintzá, Carrizalillo, Casa Blanca, Ciprés, Derramadero, Diezmero, Don Lucas, El Aguacate, El Cerrito Parado, El Chilar, El Jabalí, El Madroño, El Molino, El Patol, El Pedregal, El Saucito, El Sauz, El Shaminal, El Terrero, El Tule, Granjeno, Gudinos, Horno de Cal, La Cañada, La Cebolleta, La Estancia, La Peña, La Presita, La Puerta, La Vereda, Laguna de Álvarez, Las Crucitas, Las Moras, Lindero, Lomas de Casa Blanca, Los González, Maguey Manso, Manantial, Mesa de Chagoya, Mesa de Ramírez, Nogales, Panales, Peña Blanca, Puerto Blanco, Rancho de Guadalupe, Rancho Nuevo, Rancho Viejo, Sabino de San Ambrosio, San Antonio de la Cal, San Miguel, San Pablo Tolimán, Tequesquite (Chalma), Tierra Volteada, Tolimán y Zapote de los Uribe (El Zapote).
+X. Peñamiller: Agua Caliente, Agua Fría, Agua de Pedro, Cruz del Milagro, Cuesta Colorada, El Carrizal, El Moral, El Puerto de la Guitarra, El Tequezquite, La Laja, La Plazuela, Las Mesas, Mesa del Troje, Milpillas, Peña Blanca, Río Blanco y San Miguel Palmas (Misión de Palmas);
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2014)</small>
+
+XI. Pinal de Amoles: El Quirambal, Maby y Tonatico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2014)</small>
+
+XII. Querétaro: Extensión las Margaritas, Las Margaritas, San José el Alto, Santa María Magdalena, Patria Nueva y Pie de Gallo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2014)</small>
+
+XIII. San Joaquín: El Deconí, El Plátano, Llanos de Santa Clara, Puerto de la Garita, San Francisco Gatos y Santa Mónica las Tinajas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2014)</small>
+
+XIV. Tequisquiapan: La Fuente, San José la Laja, San Nicolás;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2014)</small>
+
+XV. Tolimán: Adjuntillas, Barrio de Casas Viejas, Barrio de García, Barrio La Loma, Bomintzá, Carrizalillo, Casa Blanca, Ciprés, Derramadero, Diezmero, Don Lucas, El Aguacate, El Cerrito Parado, El Chilar, El Jabalí, El Madroño, El Molino, El Patol, El Pedregal, El Saucito, El Sauz, El Shaminal, El Terrero, El Tule, Granjeno, Gudinos, Horno de Cal, La Cañada, La Cebolleta, La Estancia, La Peña, La Presita, La Puerta, La Vereda, Laguna de Álvarez, Las Crucitas, Las Moras, Lindero, Lomas de Casa Blanca, Los González, Maguey Manso, Manantial, Mesa de Chagoya, Mesa de Ramírez, Nogales, Panales, Peña Blanca, Puerto Blanco, Rancho de Guadalupe, Rancho Nuevo, Rancho Viejo, Sabino de San Ambrosio, San Antonio de la Cal, San Miguel, San Pablo Tolimán, Tequesquite (Chalma), Tierra Volteada, Tolimán y Zapote de los Uribe (El Zapote).
 
 Esta relación de pueblos y comunidades indígenas, es enunciativa, más no limitativa, toda vez, que para el caso de que se pudiera crear un nuevo asentamiento indígena, bastará su solicitud y la sujeción al procedimiento de auto adscripción o auto reconocimiento, la composición lingüística y demográfica, la geografía territorial de la comunidad, incluyendo, en su caso, la pertenencia de varias unidades interiores; localidades, barrios y secciones, entre otros; la estructura y mecánica de la autoridad comunitaria, la costumbre jurídica, el calendario festivo y ritual anual. Dicha solicitud se tramitará ante la autoridad de la materia, de cualquier nivel de gobierno, para su asesoría e inclusión en ésta relación.
 
@@ -532,3 +552,9 @@ P.O. 11 DE ENERO DE 2013.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones jurídicas que se opongan al contenido de esta Ley.
+
+P.O. 24 DE ENERO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
