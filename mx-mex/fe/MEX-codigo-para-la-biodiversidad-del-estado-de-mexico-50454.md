@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2014-01-22"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ENERO DE 2014.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -3385,17 +3385,33 @@ I. Cadena productiva: La integración complementaria de actores y procesos que i
 
 II. Degradación del suelo: Proceso que describe el fenómeno causado por el hombre que disminuye la capacidad presente o futura del suelo para sustentar vida vegetal, animal y humana;
 
-III. Erosión del suelo: Desprendimiento, arrastre y depósito de las partículas del suelo por acción del agua y el viento;
+> <small>(ADICIONADA, G.G. 24 DE ENERO DE 2014)</small>
 
-IV. Planeación estratégica: Proceso que orienta a las dependencias, organismos, entidades públicas y unidades administrativas de los Gobiernos Estatal y Municipal para establecer su misión, definir sus propósitos y elegir las estrategias para la consecución de sus objetivos, así como para determinar el grado de necesidades a los que ofrece sus bienes o servicios y enfatiza la búsqueda de resultados satisfactorios a sus propósitos vinculados con los objetivos de la estrategia del desarrollo estatal;
+III. Dictamen de Factibilidad de Transformación Forestal: Resolución emitida por el Consejo Rector de Transformación Forestal para el funcionamiento de los centros de almacenamiento y de transformación de materias primas forestales.
 
-V. Planeación operativa: Instrumento de los planes que ordena y vincula cronológica, espacial, cuantitativa y técnicamente las acciones o actividades y los recursos necesarios para alcanzar una meta que contribuirá a lograr los objetivos de los planes de desarrollo;
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
-VI. Probosque: Protectora de Bosques del Estado de México, organismo público descentralizado;
+IV. Erosión del suelo: Desprendimiento, arrastre y depósito de las partículas del suelo por acción del agua y el viento.
 
-VII. Secretaría: La Secretaría del Medio Ambiente; y
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
-VIII. Veda forestal: Restricción total o parcial del aprovechamiento de recursos forestales en una superficie o para una especie determinada mediante decreto que expida el titular del Ejecutivo Estatal.
+V. Planeación estratégica: Proceso que orienta a las dependencias, organismos, entidades públicas y unidades administrativas de los gobiernos Estatal y Municipal para establecer su misión, definir sus propósitos y elegir las estrategias para la consecución de sus objetivos, así como para determinar el grado de necesidades a los que ofrece sus bienes o servicios y enfatiza la búsqueda de resultados satisfactorios a sus propósitos vinculados con los objetivos de la estrategia del desarrollo estatal.
+
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
+
+VI. Planeación operativa: Instrumento de los planes que ordena y vincula cronológica, espacial, cuantitativa y técnicamente las acciones o actividades y los recursos necesarios para alcanzar una meta que contribuirá a lograr los objetivos de los planes de desarrollo.
+
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
+
+VII. Probosque: Protectora de Bosques del Estado de México, organismo público descentralizado.
+
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
+
+VIII. Secretaría: La Secretaría del Medio Ambiente.
+
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
+
+IX. Veda forestal: Restricción total o parcial del aprovechamiento de recursos forestales en una superficie o para una especie determinada mediante decreto que expida el titular del Ejecutivo Estatal.
 
 ### CAPITULO I. DEL SERVICIO ESTATAL FORESTAL
 
@@ -3563,6 +3579,10 @@ XII. Crear el Consejo Municipal Forestal de acuerdo al Reglamento que para el ef
 
 XIII. Otorgar las licencias de funcionamiento y de uso de suelo para la instalación de industrias forestales en su territorio;
 
+> <small>(ADICIONADA, G.G. 24 DE ENERO DE 2014)</small>
+
+XIII Bis. Otorgar, en su caso, por acuerdo de cabildo del Ayuntamiento que se trate, la licencia de funcionamiento de los centros de almacenamiento y de transformación de materias primas forestales, previo Dictamen de Factibilidad de Transformación Forestal, emitido por el Consejo Rector.
+
 XIV. La atención de los demás asuntos que en materia de desarrollo forestal sostenible les conceda el presente Código u otros ordenamientos; y
 
 XV. Firmar convenios con PROBOSQUE para la coordinación de actividades en materia forestal.
@@ -3651,7 +3671,17 @@ XI. Organizar los servicios técnicos y el registro y control de los peritos for
 
 XII. Adquirir toda clase de bienes y realizar los actos que se requieran para el cumplimiento de su objeto; y
 
-XIII. Las demás que le atribuyan las disposiciones legales y los convenios o acuerdos en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE ENERO DE 2014)</small>
+
+XIII. Emitir dictamen de Factibilidad de Transformación Forestal, por conducto del Consejo Rector de Transformación Forestal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE ENERO DE 2014)</small>
+
+XIV. Vigilar a través de visitas de verificación que los centros de almacenamiento o transformación de materias primas forestales, cumplan con lo establecido en el Dictamen de Factibilidad de Transformación Forestal, aplicando dentro del ámbito de sus atribuciones, las medidas de seguridad e imponiendo las infracciones que correspondan por su inobservancia.
+
+> <small>(REFORMADA , G.G. 24 DE ENERO DE 2014)</small>
+
+XV. Las demás que le atribuyan las disposiciones legales y los convenios o acuerdos en la materia.
 
 ###### Artículo 3.
 
@@ -4235,7 +4265,9 @@ Las denuncias a que se refiere este artículo, deberán ser turnadas a la Procur
 
 99. Si como resultado de la inspección se detecta una plaga o enfermedad forestal, se notificará de forma inmediata al propietario o poseedor del terreno forestal o preferentemente forestal y se estará a lo dispuesto en el capítulo relativo a la Sanidad Forestal.
 
-### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO II BIS. DEL DICTAMEN DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL Y DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
+
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
 
 ###### Artículo 3.
 
@@ -4246,6 +4278,102 @@ Los propietarios y poseedores de terrenos forestales o preferentemente forestale
 La Secretaría deberá observar en el desarrollo de los procedimientos de inspección, las formalidades que para la materia señala la Ley General del Equilibrio Ecológico y la Protección al Ambiente, solicitando a esta última el incorporar áreas de vocación forestal a los programas de reforestación y recuperación de la masa forestal, por sanciones en las industrias o accidentes por material peligroso, residuos peligrosos u otros de su competencia.
 
 Cuando de las visitas u operativos de inspección se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales, o cuando los actos, hechos u omisiones pudieran dar lugar a la imposición del decomiso como sanción administrativa, se podrá tomar alguna de las medidas de seguridad previstas en este Título.
+
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+
+###### Artículo 3.
+
+100 Bis. El Dictamen de Factibilidad de Transformación Forestal es el documento suscrito por el Presidente del Consejo Rector, de carácter personal e intransferible, necesario para obtener la licencia de funcionamiento de los centros de almacenamiento y transformación de materias primas forestales. En términos de lo previsto en la legislación general de la materia.
+
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+
+###### Artículo 3.
+
+100 Ter. El Consejo Rector de Transformación Forestal se integrará por:
+
+I. Un Presidente, que será el Director General de la PROBOSQUE.
+
+II. Un Secretario Técnico, que será el Director de Protección Forestal de la PROBOSQUE.
+
+III. Cinco Vocales, que serán los representantes de:
+
+a) La Procuraduría General de Justicia.
+
+b) La Secretaría de Seguridad Ciudadana.
+
+c) La Secretaría de Desarrollo Económico.
+
+d) La Procuraduría de Protección al Ambiente del Estado de México.
+
+e) Comisión Estatal de Parques Naturales y de la Fauna.
+
+Los vocales serán designados por el Titular de la dependencia que representen, entre los servidores públicos que tengan un rango no menor al de Director.
+
+En las sesiones tendrán derecho a voz y voto y podrán contar con un suplente para actuar en su ausencia, quien también será designado por el Titular de cada dependencia.
+
+El cargo de miembro del Consejo Rector de Transformación Forestal será honorífico.
+
+Las determinaciones del Consejo Rector de Transformación Forestal se tomarán por mayoría de votos, para lo cual, el Secretario contará únicamente con voz. El Presidente, en caso de empate, tendrá voto de calidad.
+
+El Presidente del Consejo Rector de Transformación Forestal convocará a sesiones ordinarias o extraordinarias cuando lo estime conveniente.
+
+El Consejo Rector de Transformación Forestal podrá invitar a Asociaciones de Profesionistas y especialistas en la materia, los cuales participarán en las sesiones únicamente con voz, para efectos de opinión.
+
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+
+### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
+
+###### Artículo 3.
+
+100 Quater. En el Dictamen de Factibilidad de Transformación Forestal se valorará la capacidad productiva de los bosques maderables de la región, el tiempo de reposición de los individuos arbóreos, el pago de servicios ambientales, la seguridad pública, el combate a la tala clandestina y el fomento económico, en términos de las disposiciones respectivas.
+
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+
+###### Artículo 3.
+
+100 Quintus. Para la obtención del Dictamen de Factibilidad de Transformación Forestal, el interesado deberá presentar formato que expida la PROBOSQUE, que contendrá lo siguiente:
+
+I. Nombre del titular solicitante.
+
+II. Copia certificada del acta constitutiva de la persona jurídica colectiva, de ser el caso.
+
+III. Denominación o razón social del centro de almacenamiento o transformación de materias primas forestales.
+
+IV. Dirección y croquis de localización del establecimiento mercantil.
+
+V. Licencia de uso de suelo o Cédula Informativa de Zonificación.
+
+VI. Especies forestales que se pretendan almacenar o transformar.
+
+VII. En su caso, los productos que serán elaborados.
+
+VIII. Volumen anual a transformar.
+
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+
+###### Artículo 3.
+
+100 Sexies. El Consejo Rector de Transformación Forestal, derivado del análisis que realice a la documentación presentada y de los comprobantes con los que el interesado acredite la legal procedencia de los productos forestales emitirá el Dictamen de Factibilidad de transformación Forestal.
+
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+
+###### Artículo 3.
+
+100 Septies. Son causas para negar el Dictamen, cuando se ponga en riesgo el medio ambiente, la seguridad pública y el fomento al desarrollo económico o por la probable comisión de un delito o además que no se cumplan con los requisitos establecidos en el artículo 3.100 Quintus.
+
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+
+###### Artículo 3.
+
+100 Octies. Si de la visita de verificación se advierte el incumplimiento a las disposiciones de este Código, la PROBOSQUE iniciará ante las instancias correspondientes el procedimiento administrativo que resuelva la imposición de las medidas de seguridad y sanciones que procedan, incluso la cancelación o revocación del dictamen.
+
+Si de las visitas se hallaran elementos constitutivos de delito se hará la denuncia ante el Ministerio Público.
+
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+
+###### Artículo 3.
+
+100 Nonies. El Dictamen de Factibilidad de Transformación Forestal tendrá una vigencia de un año calendario, el cual podrá renovarse con el cumplimiento de los requisitos del mismo.
 
 ###### Artículo 3.
 
@@ -4279,6 +4407,8 @@ Cuando en una sola acta de inspección aparezca que se han cometido diversas inf
 
 La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la Secretaría y servirá de apoyo para incrementar la sanción económica a los reincidentes.
 
+### CAPITULO I. DEL OBJETO Y DE LAS NORMAS PRELIMINARES
+
 ###### Artículo 3.
 
 105. Cuando la gravedad de la infracción lo amerite, PROBOSQUE solicitará a las autoridades que los hubieren otorgado, la suspensión, modificación, revocación o cancelación de la concesión, permiso, licencia y en general de todas las autorizaciones otorgadas para la realización de las actividades calificadas como infracciones. Esta atribución la ejercerá directamente PROBOSQUE cuando le corresponda otorgar los instrumentos respectivos.
@@ -4287,15 +4417,17 @@ La amonestación sólo será aplicable a los infractores por primera vez, a crit
 
 106. Son responsables solidarios de las infracciones, quienes intervienen en su preparación o realización, y aun en los casos en que por omisión se haya incurrido en la infracción.
 
-### CAPITULO I. DEL OBJETO Y DE LAS NORMAS PRELIMINARES
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
 
-### CAPITULO II. DE LA COORDINACION y DISTRIBUCION DE COMPETENCIAS
+###### Artículo 3.
+
+107. El Consejo Rector de Transformación Forestal, de acuerdo con la gravedad de la infracción podrá suspender, revocar o cancelar el Dictamen de Factibilidad de Transformación Forestal.
 
 # LIBRO CUARTO. DE LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO III. DE LA POLÍTICA PARA EL MANEJO DE RESIDUOS SOLIDOS Y SUS INSTRUMENTOS
+### CAPITULO II. DE LA COORDINACION y DISTRIBUCION DE COMPETENCIAS
 
 ###### Artículo 4.
 
@@ -4361,7 +4493,7 @@ XXI. Tratamiento: El procedimiento mecánico, físico, químico, biológico, té
 
 XXII. Valorización: Todo procedimiento que permita el aprovechamiento de los recursos contenidos en los residuos, la recuperación del valor remanente o el poder calorífico de los materiales que componen los residuos mediante su reincorporación en procesos productivos bajo criterios de corresponsabilidad, manejo integral y eficiencia ambiental tecnológica y económica sin poner en peligro la salud humana y sin utilizar métodos que puedan causar perjuicios al medio ambiente.
 
-### CAPITULO I. DE LOS PROGRAMAS Y ESTRATEGIAS
+### CAPITULO III. DE LA POLÍTICA PARA EL MANEJO DE RESIDUOS SOLIDOS Y SUS INSTRUMENTOS
 
 ###### Artículo 4.
 
@@ -4419,7 +4551,7 @@ XVII. Otros asuntos que no estén expresamente atribuidos a la Federación o a o
 
 8. Corresponde al Ejecutivo expedir el Reglamento del presente Libro.
 
-### CAPITULO II. DE LOS SISTEMAS DE MANEJO AMBIENTAL
+### CAPITULO I. DE LOS PROGRAMAS Y ESTRATEGIAS
 
 ###### Artículo 4.
 
@@ -4629,7 +4761,7 @@ X. Bioacumulables.
 
 ## TITULO TERCERO. DE LA MINIMIZACION DE LA GENERACION DE RESIDUOS
 
-### CAPITULO I. DE LAS OBLIGACIONES GENERALES
+### CAPITULO II. DE LOS SISTEMAS DE MANEJO AMBIENTAL
 
 ###### Artículo 4.
 
@@ -4769,7 +4901,7 @@ b) Mecanismos para proceder a su cierre.
 
 c) Mecanismos para evitar la creación de nuevos tiraderos.
 
-### CAPITULO II. DE LAS OBLIGACIONES EN PARTICULAR
+### CAPITULO I. DE LAS OBLIGACIONES GENERALES
 
 ###### Artículo 4.
 
@@ -4839,7 +4971,7 @@ IV. La educación, capacitación y difusión orientadas a promover una cultura d
 
 ## TITULO CUARTO. DE LA GENERACION DE RESIDUOS
 
-### CAPITULO I. DE LAS DISPOSICIONES GENERALES
+### CAPITULO II. DE LAS OBLIGACIONES EN PARTICULAR
 
 ###### Artículo 4.
 
@@ -4911,7 +5043,7 @@ XV. Todo acto u omisión que contribuya a la contaminación de las vías públic
 
 Las violaciones a lo establecido en este artículo serán objeto de sanción de conformidad con las disposiciones establecidas en el presente Libro sin perjuicio de lo dispuesto en los demás ordenamientos jurídicos aplicables.
 
-### CAPITULO II. DE LA SEPARACION Y ORGANIZACION DE RESIDUOS
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 4.
 
@@ -4967,7 +5099,7 @@ Para dar cumplimiento a las disposiciones contenidas en el párrafo anterior se 
 
 ## TITULO QUINTO. DE LOS SERVICIOS DE LIMPIA Y RECOLECCION DE RESIDUOS
 
-### CAPITULO III. DE LA RECOLECCION DE RESIDUOS SOLIDOS
+### CAPITULO II. DE LA SEPARACION Y ORGANIZACION DE RESIDUOS
 
 ###### Artículo 4.
 
@@ -5027,7 +5159,7 @@ IX. Contar con un plan para el cierre de las celdas y de los confinamientos de r
 
 X. Contar con una garantía financiera para asegurar que la operación y el cierre de las instalaciones se realice de conformidad con este Libro y demás ordenamientos legales aplicables, así como costear el monitoreo del sitio ulterior al cierre, generar la información con los indicadores ambientales en el sitio y entregarla periódicamente a la autoridad ambiental correspondiente.
 
-### CAPITULO IV. DE LA ORGANIZACION Y SELECCION DE RESIDUOS
+### CAPITULO III. DE LA RECOLECCION DE RESIDUOS SOLIDOS
 
 ###### Artículo 4.
 
@@ -5053,7 +5185,7 @@ X. Contar con una garantía financiera para asegurar que la operación y el cier
 
 66. Con la finalidad de alcanzar los objetivos y metas de este Libro, la Secretaría requerirá al productor, distribuidor, comerciante o cualquier otra persona responsable de la comercialización de productos o servicios que generen residuos sólidos en alto volumen para que sus procesos de producción, prestación de servicios o sus productos contribuyan a generar el menor volumen posible de residuos sólidos urbanos o de manejo especial siempre que esto sea técnica y económicamente factible.
 
-### CAPITULO V. DE LA REUTILIZACION Y APROVECHAMIENTO DE LOS RESIDUOS
+### CAPITULO IV. DE LA ORGANIZACION Y SELECCION DE RESIDUOS
 
 ###### Artículo 4.
 
@@ -5117,7 +5249,7 @@ Los operadores de vehículos de recolección de residuos sólidos deberán cumpl
 
 76. Los vehículos utilizados en la recolección de residuos sujetos a esquemas de separación en la fuente deberán contar con contenedores distintos que permitan el acopio por separado de los mismos permaneciendo cerrado su contenedor durante el traslado de dichos residuos hacia las plantas de selección, estaciones de transferencia o los sitios de disposición final.
 
-### CAPITULO UNICO. DE LAS CADENAS DE RECICLAJE Y REUTILIZACION
+### CAPITULO V. DE LA REUTILIZACION Y APROVECHAMIENTO DE LOS RESIDUOS
 
 ###### Artículo 4.
 
@@ -5187,7 +5319,7 @@ Estos residuos podrán además ser subclasificados de conformidad a lo que dispo
 
 Tratándose de pequeños Municipios, las áreas de selección de los residuos recolectados por los servicios de limpia podrán establecerse dentro de las instalaciones de los sitios de disposición final de residuos siempre y cuando estén separadas convenientemente de las celdas de confinamiento de residuos y operen de manera segura y ambientalmente adecuada sin daño a la biodiversidad.
 
-### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO UNICO. DE LAS CADENAS DE RECICLAJE Y REUTILIZACION
 
 ###### Artículo 4.
 
@@ -5297,7 +5429,7 @@ Las áreas ocupadas por las celdas de confinamiento de los residuos al igual que
 
 ## TITULO SEXTO. DE LOS PARTICULARES QUE INTERVIENEN EN LA DISPOSICION Y MANEJO DE LOS RESIDUOS PARA SU RECICLAJE Y REUTILIZACION
 
-### CAPITULO II. DE LAS SANCIONES
+### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 4.
 
@@ -5371,7 +5503,7 @@ Para la remediación de los sitios contaminados como resultado del depósito de 
 
 ## TITULO OCTAVO. DE LAS MEDIDAS DE SEGURIDAD, SANCIONES, REPARACION DEL DAÑO Y RECURSO DE INCONFORMIDAD
 
-### CAPITULO III. DE LA REPARACION DEL DAÑO
+### CAPITULO II. DE LAS SANCIONES
 
 ###### Artículo 4.
 
@@ -5389,7 +5521,7 @@ La autoridad correspondiente podrá solicitar el auxilio de la fuerza pública p
 
 Las medidas de seguridad previstas en el presente Capítulo se sujetarán a lo dispuesto en los ordenamientos legales que resulten aplicables.
 
-### CAPITULO I. DISPOSICIONES PRELIMINARES
+### CAPITULO III. DE LA REPARACION DEL DAÑO
 
 ###### Artículo 4.
 
@@ -5477,7 +5609,7 @@ En los casos en que se imponga como sanción la clausura temporal la autoridad d
 
 En todo lo no previsto en el presente Título la autoridad correspondiente se sujetará a lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de México y demás ordenamientos aplicables.
 
-### CAPITULO II. DE LA FORMACION, CAPACITACION, INVESTIGACION Y DIVULGACION
+### CAPITULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 4.
 
@@ -5779,7 +5911,7 @@ La Secretaría deberá considerar en el ejercicio de sus facultades sobre la mat
 
 ## TITULO QUINTO. DE LAS DISPOSICIONES COMUNES PARA LA CONSERVACION Y EL APROVECHAMIENTO SOSTENIBLE DE LA VIDA SILVESTRE
 
-### CAPITULO III. DE LOS CONOCIMIENTOS, INNOVACIONES Y PRACTICAS DE LAS COMUNIDADES RURALES
+### CAPITULO II. DE LA FORMACION, CAPACITACION, INVESTIGACION Y DIVULGACION
 
 ###### Artículo 5.
 
@@ -5805,7 +5937,7 @@ IV. Mecanismos de compensación e instrumentos económicos que retribuyan a los 
 
 V. La utilización de mecanismos de compensación y otros instrumentos internacionales por contribuciones de carácter global.
 
-### CAPITULO IV. DE LA SANIDAD DE LA VIDA SILVESTRE
+### CAPITULO III. DE LOS CONOCIMIENTOS, INNOVACIONES Y PRACTICAS DE LAS COMUNIDADES RURALES
 
 ###### Artículo 5.
 
@@ -5829,13 +5961,13 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 
 23. La Secretaría promoverá y participará en el desarrollo de programas de divulgación para que la sociedad valore la importancia ambiental y socioeconómica de la conservación y conozca las técnicas para el aprovechamiento sostenible de la vida silvestre y su hábitat.
 
-### CAPITULO V. DEL TRATO DIGNO Y RESPETUOSO A LA FAUNA SILVESTRE
+### CAPITULO IV. DE LA SANIDAD DE LA VIDA SILVESTRE
 
 ###### Artículo 5.
 
 24. En las actividades de conservación y aprovechamiento sostenible de la vida silvestre se respetarán, conservarán y mantendrán los conocimientos, innovaciones y prácticas de las comunidades rurales que entrañen estilos tradicionales de vida pertinentes para la conservación y aprovechamiento sostenible de la vida silvestre y su hábitat y se promoverá su aplicación más amplia con la aprobación y la participación de quienes posean esos conocimientos, innovaciones y prácticas. Se fomentará que los beneficios derivados de la utilización de esos conocimientos, innovaciones y prácticas se compartan equitativamente.
 
-### CAPITULO VI. DE LOS CENTROS PARA LA CONSERVACION E INVESTIGACION
+### CAPITULO V. DEL TRATO DIGNO Y RESPETUOSO A LA FAUNA SILVESTRE
 
 ###### Artículo 5.
 
@@ -5845,7 +5977,7 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 
 26. La Secretaría determinará a través de las normas oficiales mexicanas correspondientes, las medidas que deberán de aplicarse para evitar que los ejemplares de las especies silvestres en confinamiento sean sometidas a condiciones adversas a su salud y a su vida durante la aplicación de medidas sanitarias.
 
-### CAPITULO VII. DEL SUBSISTEMA ESTATAL DE INFORMACION
+### CAPITULO VI. DE LOS CENTROS PARA LA CONSERVACION E INVESTIGACION
 
 ###### Artículo 5.
 
@@ -5883,7 +6015,7 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 
 35. El Reglamento y las normas técnicas estatales sobre la materia establecerán las medidas necesarias para efecto de lo establecido en el presente Capítulo.
 
-### CAPITULO VIII. DE LA LEGAL PROCEDENCIA
+### CAPITULO VII. DEL SUBSISTEMA ESTATAL DE INFORMACION
 
 ###### Artículo 5.
 
@@ -5891,7 +6023,7 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 
 En los centros de conservación e investigación, se llevará un registro de las personas físicas y jurídicas colectivas con capacidad de mantener ejemplares de fauna silvestre en condiciones adecuadas. En el caso de que existan ejemplares que no puedan rehabilitarse para su liberación éstos podrán destinarse a las personas físicas y jurídicas colectivas que cuenten con el registro correspondiente.
 
-### CAPITULO I. DE LAS ESPECIES Y POBLACION EN RIESGO Y PRIORITARIAS PARA LA CONSERVACION
+### CAPITULO VIII. DE LA LEGAL PROCEDENCIA
 
 ###### Artículo 5.
 
@@ -5925,7 +6057,7 @@ XI. El directorio de prestadores de servicios y organizaciones vinculados a esta
 
 La Secretaría no pondrá a disposición del público información susceptible de generar derechos de propiedad intelectual.
 
-### CAPITULO II. DEL HABITAT CRITICO PARA LA CONSERVACION DE LA VIDA SILVESTRE
+### CAPITULO I. DE LAS ESPECIES Y POBLACION EN RIESGO Y PRIORITARIAS PARA LA CONSERVACION
 
 ###### Artículo 5.
 
@@ -5967,7 +6099,7 @@ II. Los artículos de uso personal, siempre y cuando no excedan de dos piezas de
 
 ## TITULO SEXTO. DE LA CONSERVACION DE LA VIDA SILVESTRE
 
-### CAPITULO III. DE LAS AREAS DE REFUGIO PARA PROTEGER LAS ESPECIES ACUATICAS
+### CAPITULO II. DEL HABITAT CRITICO PARA LA CONSERVACION DE LA VIDA SILVESTRE
 
 ###### Artículo 5.
 
@@ -6023,7 +6155,7 @@ Las listas a que se refiere este artículo serán actualizadas por lo menos cada
 
 La información relativa a los proyectos de conservación, preservación y recuperación de especies y poblaciones prioritarias para la conservación estará a disposición del público.
 
-### CAPITULO IV. DE LA RESTAURACION, REMEDIACION, REHABILITACION, RECUPERACION Y REMEDIACION
+### CAPITULO III. DE LAS AREAS DE REFUGIO PARA PROTEGER LAS ESPECIES ACUATICAS
 
 ###### Artículo 5.
 
@@ -6045,7 +6177,7 @@ La realización de cualquier obra pública o privada de aquellas actividades que
 
 En todo momento el Ejecutivo podrá imponer limitaciones de los derechos de dominio en los predios que abarquen dicho hábitat con el objeto de dar cumplimiento a las medidas necesarias para su manejo y conservación.
 
-### CAPITULO V. DE LAS VEDAS
+### CAPITULO IV. DE LA RESTAURACION, REMEDIACION, REHABILITACION, RECUPERACION Y REMEDIACION
 
 ###### Artículo 5.
 
@@ -6079,13 +6211,13 @@ En los casos a que se refiere el párrafo anterior corresponderá al director de
 
 57. La realización de cualquier obra pública o privada de aquellas actividades que puedan afectar la protección, recuperación y restablecimiento de los elementos naturales en áreas de refugio para proteger especies acuáticas deberá quedar sujeta a las condiciones que se establezcan como medidas de manejo y conservación en los programas de protección de que se trate, así como del informe preventivo correspondiente de conformidad con lo establecido en el Reglamento.
 
-### CAPITULO VI. DE LOS EJEMPLARES Y POBLACIONES QUE SE TORNEN PERJUDICIALES
+### CAPITULO V. DE LAS VEDAS
 
 ###### Artículo 5.
 
 58. Cuando se presenten problemas de destrucción, contaminación, degradación, desertificación o desequilibrio del hábitat de la vida silvestre la Secretaría formulará y ejecutará a la brevedad posible programas de prevención, de atención de emergencias y de restauración para la recuperación, remediación, rehabilitación, remediación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de la vida silvestre tomando en cuenta lo dispuesto en el Libro Segundo del presente Código y en los artículos 78, 78 Bis y 78 Bis 1 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de conformidad con lo establecido en el Reglamento y las demás disposiciones aplicables.
 
-### CAPITULO VII. DE LA MOVILIDAD Y DISPERSION DE POBLACION DE ESPECIES SILVESTRES NATIVAS
+### CAPITULO VI. DE LOS EJEMPLARES Y POBLACIONES QUE SE TORNEN PERJUDICIALES
 
 ###### Artículo 5.
 
@@ -6095,7 +6227,7 @@ En casos de desastres naturales o derivados de actividades humanas la Secretarí
 
 Las vedas podrán establecerse, modificarse o levantarse a solicitud de las personas físicas o jurídicas colectivas interesadas las que deberán presentar los estudios de población correspondientes de conformidad con lo establecido en el Reglamento. La Secretaría evaluará estos antecedentes y la información disponible sobre los aspectos biológicos, sociales y económicos involucrados resolviendo lo que corresponda.
 
-### CAPITULO VIII. DE LA CONSERVACION DE LAS ESPECIES MIGRATORIAS
+### CAPITULO VII. DE LA MOVILIDAD Y DISPERSION DE POBLACION DE ESPECIES SILVESTRES NATIVAS
 
 ###### Artículo 5.
 
@@ -6105,7 +6237,7 @@ Los medios y técnicas deberán ser los adecuados para no afectar a otras especi
 
 Se evaluará primero la posibilidad de aplicar medidas de control como captura o colecta para el desarrollo de proyectos de recuperación, actividades de repoblación y reintroducción o de investigación y educación ambiental.
 
-### CAPITULO IX. DE LA CONSERVACION DE LA VIDA SILVESTRE FUERA DE SU HABITAT NATURAL
+### CAPITULO VIII. DE LA CONSERVACION DE LAS ESPECIES MIGRATORIAS
 
 ###### Artículo 5.
 
@@ -6119,13 +6251,13 @@ Se evaluará primero la posibilidad de aplicar medidas de control como captura o
 
 63. En los casos en que para el desarrollo natural de poblaciones de especies silvestres nativas sea necesario establecer una estrategia que abarque el conjunto de unidades de manejo para la conservación de vida silvestre colindantes, la Secretaría tomará en cuenta la opinión de los involucrados para establecer dicha estrategia y determinará los términos en que ésta deberá desarrollarse en lo posible con la participación de todos los titulares.
 
-### CAPITULO X. DE LA LIBERACION DE EJEMPLARES AL HABITAT NATURAL
+### CAPITULO IX. DE LA CONSERVACION DE LA VIDA SILVESTRE FUERA DE SU HABITAT NATURAL
 
 ###### Artículo 5.
 
 64. La conservación de las especies migratorias se llevará a cabo mediante la protección y mantenimiento de sus hábitats, el muestreo y seguimiento de sus poblaciones, así como el fortalecimiento y desarrollo de la cooperación internacional de acuerdo con las disposiciones de este Libro, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de las que de ellas se deriven sin perjuicio de lo establecido en los tratados y otros acuerdos internacionales en los que el país sea parte contratante.
 
-### CAPITULO I. DEL APROVECHAMIENTO EXTRACTIVO
+### CAPITULO X. DE LA LIBERACION DE EJEMPLARES AL HABITAT NATURAL
 
 ###### Artículo 5.
 
@@ -6145,7 +6277,7 @@ Todos aquellos espectáculos públicos que manejen vida silvestre fuera de su h�
 
 Si no fuera conveniente la liberación de ejemplares a su hábitat natural la Secretaría determinará un destino que contribuya a la conservación, investigación, educación, capacitación, difusión, reproducción, manejo o cuidado de la vida silvestre en lugares adecuados para ese fin.
 
-### CAPITULO II. DEL APROVECHAMIENTO PARA FINES DE SUBSISTENCIA
+### CAPITULO I. DEL APROVECHAMIENTO EXTRACTIVO
 
 ###### Artículo 5.
 
@@ -6167,7 +6299,7 @@ III. Un control sanitario de los ejemplares a liberar.
 
 ## TITULO SEPTIMO. DEL APROVECHAMIENTO SOSTENIBLE DE LA VIDA SILVESTRE
 
-### CAPITULO III. DEL APROVECHAMIENTO MEDIANTE LA ACTIVIDAD CINEGETICA
+### CAPITULO II. DEL APROVECHAMIENTO PARA FINES DE SUBSISTENCIA
 
 ###### Artículo 5.
 
@@ -6257,7 +6389,7 @@ La autorización de aprovechamiento generará para su titular la obligación de 
 
 Las autoridades competentes promoverán la constitución de asociaciones para estos efectos.
 
-### CAPITULO IV. DE LA COLECTA CIENTIFICA Y CON PROPOSITO DE ENSEÑANZA
+### CAPITULO III. DEL APROVECHAMIENTO MEDIANTE LA ACTIVIDAD CINEGETICA
 
 ###### Artículo 5.
 
@@ -6275,7 +6407,7 @@ I. Determinar los medios y métodos para realizar la caza deportiva y su tempora
 
 II. Establecer vedas específicas a este tipo de aprovechamiento cuando así se requiera para la conservación de poblaciones de especies silvestres y su hábitat.
 
-### CAPITULO V. DEL APROVECHAMIENTO NO EXTRACTIVO
+### CAPITULO IV. DE LA COLECTA CIENTIFICA Y CON PROPOSITO DE ENSEÑANZA
 
 ###### Artículo 5.
 
@@ -6301,7 +6433,7 @@ Los prestadores de servicios de aprovechamiento deberán contar con una licencia
 
 Las autorizaciones para realizar colecta científica se otorgarán de conformidad con lo establecido en el Reglamento por línea de investigación o por proyecto. Las autorizaciones por línea de investigación se otorgarán para el desarrollo de estas actividades por parte de investigadores y colectores científicos vinculados a las instituciones de investigación y colecciones científicas estatales, así como a aquellos con trayectoria en la aportación de información para el conocimiento de la diversidad biológica estatal y para su equipo de trabajo. Las autorizaciones por proyecto se otorgarán a las personas que no tengan estas características o a las personas que vayan a realizar colecta científica sobre especies o poblaciones en riesgo o sobre hábitat crítico.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO V. DEL APROVECHAMIENTO NO EXTRACTIVO
 
 ###### Artículo 5.
 
@@ -6311,7 +6443,7 @@ Las autorizaciones para realizar colecta científica se otorgarán de conformida
 
 87. El aprovechamiento no extractivo de vida silvestre requiere una autorización previa de la Federación a petición de la Secretaría que se solicitará de conformidad con las disposiciones establecidas en el presente Capítulo para garantizar el bienestar de los ejemplares de especies silvestres, la continuidad de sus poblaciones y la conservación de sus hábitats.
 
-### CAPITULO II. DE LOS DAÑOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 5.
 
@@ -6323,7 +6455,7 @@ Las autorizaciones para realizar colecta científica se otorgarán de conformida
 
 ## TITULO OCTAVO. DE LAS MEDIDAS DE CONTROL, SEGURIDAD, INFRACCIONES Y SANCIONES
 
-### CAPITULO III. DE LAS VISITAS DE INSPECCION
+### CAPITULO II. DE LOS DAÑOS
 
 ###### Artículo 5.
 
@@ -6335,7 +6467,7 @@ Las autorizaciones para realizar colecta científica se otorgarán de conformida
 
 Los propietarios y legítimos poseedores de los predios o los terceros que realicen el aprovechamiento serán responsables solidarios de los efectos negativos que éste pudiera tener para la conservación de la vida silvestre y su hábitat.
 
-### CAPITULO IV. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO III. DE LAS VISITAS DE INSPECCION
 
 ###### Artículo 5.
 
@@ -6363,7 +6495,7 @@ No se entenderá conocido el daño o el deterioro ambiental sino cuando se conoz
 
 95. Las personas que realicen actividades de reproducción, captura, transformación, tratamiento, preparación, comercialización, exhibición, traslado, importación, exportación y las demás relacionadas con la conservación y aprovechamiento de la vida silvestre deberán otorgar al personal debidamente acreditado de la Secretaría las facilidades indispensables para el desarrollo de los actos de inspección antes señalados. Asimismo deberán aportar la documentación que ésta les requiera para verificar el cumplimiento de las disposiciones de este Libro y de las que del presente Código se deriven.
 
-### CAPITULO V. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPITULO IV. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 5.
 
@@ -6415,7 +6547,7 @@ III. La suspensión temporal, parcial o total de la actividad que motive la impo
 
 IV. La realización de las acciones necesarias para evitar que se continúen presentando los supuestos que motiven la imposición de la medida de seguridad.
 
-### CAPITULO I. DEL OBJETO
+### CAPITULO V. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 5.
 
@@ -6513,9 +6645,9 @@ XXII. Exportar o importar ejemplares, partes o derivados de la vida silvestre o 
 
 XXIII. Realizar actos que contravengan las disposiciones de trato digno y respetuoso a la fauna silvestre establecidas en el presente Libro y en las disposiciones que de éste se deriven.
 
-Se considerarán infractores no sólo las personas que hayan participando en su comisión sino también quienes hayan participado en su preparación o en su encubrimiento.
+Se considerarán infractores no sólo las personas que hayan participando (sic) en su comisión sino también quienes hayan participado en su preparación o en su encubrimiento.
 
-### CAPITULO II. DE LA COMPETENCIA
+### CAPITULO I. DEL OBJETO
 
 ###### Artículo 5.
 
@@ -6595,7 +6727,7 @@ Mientras se define el destino de los ejemplares la Secretaría velará por la pr
 
 # LIBRO SEXTO. DE LA PROTECCION Y BIENESTAR ANIMAL
 
-### CAPITULO III. DE LA PARTICIPACION CIUDADANA
+### CAPITULO II. DE LA COMPETENCIA
 
 ###### Artículo 6.
 
@@ -6713,7 +6845,7 @@ XIII. Por ningún motivo podrá ser obligada o coaccionada ninguna persona, para
 
 5. Toda persona tiene derecho a que las autoridades competentes pongan a su disposición la información que le soliciten en materia de trato digno y respetuoso a los animales por lo que el procedimiento se sujetará a lo previsto en éste Código y en lo que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de México relativo al derecho a la información. Asimismo toda persona física o jurídica colectiva que tenga trato o maneje animales tiene la obligación de proporcionar la información que le sea requerida por las autoridades.
 
-### CAPITULO IV. DEL FONDO PARA LA PROTECCION A LOS ANIMALES
+### CAPITULO III. DE LA PARTICIPACION CIUDADANA
 
 ###### Artículo 6.
 
@@ -6803,7 +6935,7 @@ X. Establecer campañas de vacunación antirrábica, campañas sanitarias para e
 
 XI. Las demás que el presente Libro y demás ordenamientos jurídicos aplicables les confieran.
 
-### CAPITULO V. DE LAS NORMAS TECNICAS ESTATALES
+### CAPITULO IV. DEL FONDO PARA LA PROTECCION A LOS ANIMALES
 
 ###### Artículo 6.
 
@@ -6825,7 +6957,7 @@ El Reglamento del presente Libro establecerá los requisitos y las condiciones p
 
 15. Los Municipios y la Secretaría de Salud según corresponda autorizarán la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales que así lo soliciten cuando se realicen actos de sacrificio humanitario de animales en las instalaciones públicas destinadas para dicho fin y como cuando se realicen visitas de verificación a establecimientos que manejen animales.
 
-### CAPITULO VI. DE LA CULTURA Y EDUCACION PARA LA PROTECCION Y CUIDADO A LOS ANIMALES
+### CAPITULO V. DE LAS NORMAS TECNICAS ESTATALES
 
 ###### Artículo 6.
 
@@ -6853,7 +6985,7 @@ III. Los productos de sus operaciones y de la inversión de fondos; y
 
 IV. Los demás recursos que se generen por cualquier otro concepto en relación con la protección y bienestar animal.
 
-### CAPITULO VII. DEL TRATO DIGNO Y RESPETUOSO A LOS ANIMALES
+### CAPITULO VI. DE LA CULTURA Y EDUCACION PARA LA PROTECCION Y CUIDADO A LOS ANIMALES
 
 ###### Artículo 6.
 
@@ -6871,7 +7003,7 @@ Para la elaboración de las normas técnicas estatales será tomada en cuenta la
 
 El procedimiento para la elaboración de las normas técnicas estatales se definirá en el Reglamento del presente Libro.
 
-### CAPITULO VIII. DE LA PROTECCION, PROPIEDAD Y POSESION DE ANIMALES DOMESTICOS
+### CAPITULO VII. DEL TRATO DIGNO Y RESPETUOSO A LOS ANIMALES
 
 ###### Artículo 6.
 
@@ -6885,7 +7017,7 @@ El procedimiento para la elaboración de las normas técnicas estatales se defin
 
 21. La Secretaría promoverá ante las instancias correspondientes y participará en la capacitación y actualización del personal en el trato, sociabilización, interacción y manejo de animales domésticos y en actividades de inspección y vigilancia a través de cursos, talleres, reuniones, publicaciones y demás proyectos, programas y acciones que contribuyan a los objetivos del presente Capítulo.
 
-### CAPITULO IX. DE LAS MASCOTAS
+### CAPITULO VIII. DE LA PROTECCION, PROPIEDAD Y POSESION DE ANIMALES DOMESTICOS
 
 ###### Artículo 6.
 
@@ -6961,7 +7093,7 @@ Quedan exceptuadas de sanción las charreadas, lidia de toros, novillos o becerr
 
 25. Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela del presente Libro tiene la obligación de informar a la autoridad competente de la existencia del mismo.
 
-### CAPITULO X. DE LOS ANIMALES ABANDONADOS Y CALLEJEROS
+### CAPITULO IX. DE LAS MASCOTAS
 
 ###### Artículo 6.
 
@@ -6973,7 +7105,7 @@ Toda persona física o jurídica colectiva, federación, asociación o empresa q
 
 27. La posesión de un animal doméstico manifiestamente feroz o peligroso por su naturaleza requiere de autorización de las autoridades estatales o municipales que correspondan. Si su propietario, poseedor o encargado permite que deambule libremente en la vía pública sin bozal y correa adecuada será sancionado en los términos de este Libro.
 
-### CAPITULO XI. DE LAS ESPECIES DOMESTICAS EN PARQUES DE EXPOSICION ANIMAL
+### CAPITULO X. DE LOS ANIMALES ABANDONADOS Y CALLEJEROS
 
 ###### Artículo 6.
 
@@ -7031,7 +7163,7 @@ Las indemnizaciones correspondientes serán exigidas mediante el procedimiento q
 
 35. Los animales que asistan a personas con alguna discapacidad o que por prescripción médica deban acompañarse de algún animal tienen libre acceso a todos los lugares y servicios públicos salvo los que pudieran poner en peligro al animal o las personas.
 
-### CAPITULO XII. DE LOS ANIMALES DE MONTA, CARGA Y TIRO
+### CAPITULO XI. DE LAS ESPECIES DOMESTICAS EN PARQUES DE EXPOSICION ANIMAL
 
 ###### Artículo 6.
 
@@ -7053,7 +7185,7 @@ En caso de que no sea reclamada a tiempo por el dueño las autoridades la destin
 
 Es responsabilidad de los centros de control animal o cualquier institución que los ampare temporalmente alimentar adecuadamente y dar de beber agua limpia a todo animal que se retenga.
 
-### CAPITULO XIII. DE LOS ANIMALES DE EXHIBICION O DE ESPECTACULO
+### CAPITULO XII. DE LOS ANIMALES DE MONTA, CARGA Y TIRO
 
 ###### Artículo 6.
 
@@ -7075,7 +7207,7 @@ Es responsabilidad de los centros de control animal o cualquier institución que
 
 43. La dirección de los parques de exhibición animal que operen en el Estado estará a cargo de un médico veterinario o especialista equivalente quién otorgará una responsiva sobre la seguridad de los visitantes, de los trabajadores del parque y sobre el cuidado de los animales domésticos.
 
-### CAPITULO XIV. DE LOS ANIMALES DEPORTIVOS
+### CAPITULO XIII. DE LOS ANIMALES DE EXHIBICION O DE ESPECTACULO
 
 ###### Artículo 6.
 
@@ -7121,7 +7253,7 @@ Artículo 6 50. A ningún animal destinado a esta clase de servicios deberá dej
 
 54. La exhibición de animales será realizada atendiendo a las normas oficiales mexicanas o a las normas técnicas estatales.
 
-### CAPITULO XV. DEL TRANSPORTE Y TRASLADO DE ANIMALES
+### CAPITULO XIV. DE LOS ANIMALES DEPORTIVOS
 
 ###### Artículo 6.
 
@@ -7135,7 +7267,7 @@ Artículo 6 50. A ningún animal destinado a esta clase de servicios deberá dej
 
 57. Las instalaciones para animales deportivos, centros para la práctica de la equitación y pensiones para mascotas serán objeto de regulación específica en el Reglamento del presente Libro.
 
-### CAPITULO XVI. DEL COMERCIO DE LOS ANIMALES
+### CAPITULO XV. DEL TRANSPORTE Y TRASLADO DE ANIMALES
 
 ###### Artículo 6.
 
@@ -7151,7 +7283,7 @@ Si el animal bajo su custodia contrae alguna enfermedad, se lesiona o muere se l
 
 60. Para cumplir con el trato digno en la movilización de animales se deberá cumplir con lo establecido en las normas oficiales mexicanas y en las normas técnicas estatales.
 
-### CAPITULO XVII. DE LA EXPERIMENTACION CON ANIMALES
+### CAPITULO XVI. DEL COMERCIO DE LOS ANIMALES
 
 ###### Artículo 6.
 
@@ -7189,7 +7321,7 @@ En caso de incumplimiento en lo establecido en el párrafo anterior la Procuradu
 
 67. El comercio de animales vivos en las zonas urbanas del Estado quedará sujeto a los reglamentos y autorizaciones sanitarias previas correspondientes y se realizará en instalaciones adecuadas, ventiladas y con suficiente iluminación respetando las normas de higiene y de seguridad pública.
 
-### CAPITULO XVIII. DEL SACRIFICIO DE ANIMALES
+### CAPITULO XVII. DE LA EXPERIMENTACION CON ANIMALES
 
 ###### Artículo 6.
 
@@ -7211,7 +7343,7 @@ I. Cuando los resultados de la operación sean conocidos con anterioridad; y
 
 II. Cuando la vivisección no tenga una finalidad científica y en particular cuando la experimentación esté destinada a satisfacer una actividad puramente comercial.
 
-### CAPITULO XIX. DE LA DENUNCIA Y VIGILANCIA
+### CAPITULO XVIII. DEL SACRIFICIO DE ANIMALES
 
 ###### Artículo 6.
 
@@ -7245,7 +7377,7 @@ II. Por electroanestesia o gases monóxido de carbono; y
 
 III. Por cualquier otro método científico autorizado por las autoridades sanitarias o por las asociaciones protectoras de animales.
 
-### CAPITULO XX. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO XIX. DE LA DENUNCIA Y VIGILANCIA
 
 ###### Artículo 6.
 
@@ -7325,7 +7457,7 @@ Si por la naturaleza de los hechos denunciados se tratare de asuntos de competen
 
 Sin perjuicio de lo anterior los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Estado de México si se considera que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales para el Estado de México.
 
-### CAPITULO XXI. DE LAS SANCIONES
+### CAPITULO XX. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 6.
 
@@ -7352,6 +7484,8 @@ III. Clausura definitiva cuando exista reincidencia en los casos que haya motiva
 IV. Cualquier acción legal análoga que permita la protección y bienestar a los animales.
 
 Las autoridades competentes podrán ordenar la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos en relación con la protección a los animales.
+
+### CAPITULO XXI. DE LAS SANCIONES
 
 ###### Artículo 6.
 
@@ -7614,3 +7748,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCER.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 24 DE ENERO DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los ayuntamientos en el ámbito de su competencia proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto las disposiciones respectivas.
+
+CUARTO. El Secretario Técnico someterá a consideración del Consejo Rector para su aprobación el proyecto de manual de procedimientos y el reglamento que regirá su funcionamiento, dentro de los 90 días hábiles siguientes a su instalación.
