@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2013-12-10"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -1793,7 +1793,7 @@ IV. Proponer e implementar programas de modernización de la administración pú
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
 
-ARTICULO 109 bis.- La unidad u oficina de atención a la juventud es el órgano encargado de conducir integralmente la política de desarrollo e impulso de la juventud en el Municipio. El titular de la misma deberá ser una persona joven al igual que el resto del personal administrativo que se le asigne.
+ARTICULO 109 BIS.- La unidad u oficina de atención a la juventud es el órgano encargado de conducir integralmente la política de desarrollo e impulso de la juventud en el Municipio. El titular de la misma deberá ser una persona joven al igual que el resto del personal administrativo que se le asigne.
 
 Este órgano tendrá las siguientes atribuciones:
 
@@ -1808,6 +1808,8 @@ IV. Canalizar los apoyos en materia del deporte, cultura, educación, salud, emp
 V. Establecer los mecanismos e instrumentos de coordinación con los sectores social, público y privado, para el debido cumplimiento de sus atribuciones, y
 
 VI. Las demás que le fijen otros ordenamientos o le confieran las autoridades municipales, con la finalidad de velar por el sano desarrollo de la juventud.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 104.
 
@@ -1927,6 +1929,24 @@ XIII. Las demás que le señalen otros ordenamientos legales aplicables.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE JULIO DE 2010)</small>
 
+### CAPITULO III BIS 1. DE LA DIRECCION MUNICIPAL DE LA MUJER
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2014)</small>
+
+ARTICULO 109 BIS 1.- La Dirección Municipal de la Mujer será el órgano encargado de promover la igualdad entre hombres y mujeres en las áreas de desarrollo social, económico, político y cultural, mediante la incorporación de la perspectiva de género y la transversalidad en el diseño de las políticas públicas.
+
+Además de las facultades y obligaciones contempladas en el artículo 69 de esta Ley, la Dirección Municipal de la Mujer tendrá las siguientes atribuciones:
+
+I.- La promoción, protección y difusión de los derechos de las mujeres y de las niñas consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero, los tratados y convenios internacionales ratificados por nuestro país, y en particular los derechos fundamentales de las mujeres.
+
+II.- La promoción, seguimiento y evaluación de las políticas públicas destinadas a asegurar la igualdad de oportunidades entre hombres y mujeres del municipio.
+
+III.- La promoción de la cultura de la no violencia, la no discriminación, así como la participación equitativa en la vida política, social, económica y cultural.
+
+IV.- Coordinar acciones entre los tres niveles de gobierno, iniciativa privada y los diferentes sectores sociales para asegurar la disposición de datos, estadísticas, indicadores y registros sobre casos de violencia contra las mujeres.
+
+V.- Las demás que le confieran el Reglamento Interno respectivo, y demás disposiciones legales aplicables.
+
 ### CAPITULO IV. DE LAS COMISIONES
 
 ### CAPITULO V. DE LAS SANCIONES ADMINISTRATIVAS
@@ -1934,8 +1954,6 @@ XIII. Las demás que le señalen otros ordenamientos legales aplicables.
 ### CAPITULO VI. DE LOS RECURSOS ADMINISTRATIVOS
 
 ### CAPITULO I. DE LA HACIENDA MUNICIPAL
-
-### CAPITULO II. DEL CATALOGO DE INMUEBLES MUNICIPALES
 
 ###### ARTICULO 110.
 
@@ -1953,7 +1971,7 @@ En cualquier tiempo el Ayuntamiento, a propuesta del Presidente, podrá designar
 
 Las comisiones someterán a la consideración del Ayuntamiento o del Presidente Municipal, según sea el caso, sus recomendaciones y acuerdos para que éstos dicten las medidas consecuentes.
 
-### CAPITULO III. DEL INVENTARIO DE BIENES MUEBLES MUNICIPALES
+### CAPITULO II. DEL CATALOGO DE INMUEBLES MUNICIPALES
 
 ###### ARTICULO 114.
 
@@ -1973,7 +1991,7 @@ V. Indemnización al Ayuntamiento por los daños y perjuicios que se causen.
 
 Si el infractor a los reglamentos gubernativos y de policía fuere jornalero, obrero, campesino o indígena, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores asalariados la multa no excederá del equivalente a un día de su ingreso y tratándose de desempleados que no estuvieran dispuestos a pagar la multa, se les podrá conmutar hasta por dos días de trabajo comunitario a favor del Municipio.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DEL INVENTARIO DE BIENES MUEBLES MUNICIPALES
 
 ###### ARTICULO 116.
 
@@ -2033,7 +2051,7 @@ IV. Que no se causen daños y perjuicios a terceros a juicio del Ayuntamiento, a
 
 ## TITULO CUARTO. DEL PATRIMONIO MUNICIPAL
 
-### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 123.
 
@@ -2103,7 +2121,7 @@ VII. Regularización de la tenencia de la tierra y reservas territoriales para v
 
 Se vigilará a las autoridades municipales en el orden político administrativo para los efectos de la fracción XII del Artículo 74 de la Constitución Política del Estado de Guerrero.
 
-### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO MUNICIPAL
+### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
 ###### ARTICULO 131.
 
@@ -2147,7 +2165,7 @@ IX. Certificación de que el inmueble no tiene valor arqueológico, histórico o
 
 Las enajenaciones de bienes inmuebles propiedad de los Ayuntamientos, se efectuarán en subasta pública siguiendo el procedimiento que señala el Código de Procedimientos Civiles en vigor.
 
-### CAPITULO IV. DE LA CONTABILIDAD MUNICIPAL
+### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO MUNICIPAL
 
 ###### ARTICULO 136.
 
@@ -2181,7 +2199,7 @@ VI.- Constancia en la que se especifique en qué será aplicado el recurso econ�
 
 ## TITULO QUINTO. DEL PRESUPUESTO Y GASTO PUBLICO MUNICIPAL
 
-### CAPITULO I. DEL DESARROLLO URBANO MUNICIPAL
+### CAPITULO IV. DE LA CONTABILIDAD MUNICIPAL
 
 ###### ARTICULO 138.
 
@@ -2227,11 +2245,7 @@ ARTICULO 145 bis.- Cuando un servidor público municipal aplique los recursos fe
 
 Los servidores públicos municipales otorgarán los auxilios e información necesarios para la devolución de los recursos desviados y los correspondientes intereses legales, al personal de la Auditoría General del Estado, las Areas de Contraloría y Fiscalización y de las dependencias federales competentes que según las Leyes deban intervenir en estos asuntos.
 
-### CAPITULO II
-
-DE LOS SERVICIOS PUBLICOS MUNICIPALES.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2003)</small>
+### CAPITULO I. DEL DESARROLLO URBANO MUNICIPAL
 
 ###### ARTICULO 146.
 
@@ -2273,7 +2287,11 @@ Los Ayuntamientos publicarán, en las Gacetas Municipales, si dispusieran de est
 
 Los Consejos Consultivos de Comisarios Municipales así como los Consejos Consultivos de Presidentes de Comisariados Ejidales o de Bienes Comunales, deberán rendir opinión, previamente a su aprobación de los presupuestos de egresos para cada ejercicio fiscal y los programas trianuales que conforme a las leyes expidan los Ayuntamientos.
 
-### CAPITULO III. DEL REGIMEN DE CONCESIONES
+### CAPITULO II
+
+DE LOS SERVICIOS PUBLICOS MUNICIPALES.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 152.
 
@@ -2333,7 +2351,7 @@ Los Ayuntamientos no podrán otorgar garantías ni efectuar depósitos para el c
 
 Los Ayuntamientos están obligados a proporcionar a la Contraloría General del Estado, y a la Auditoría General del Estado, la información que se les solicite y permitir la práctica de visitas y auditorías para comprobar la correcta aplicación de los recursos provenientes del erario estatal y federal.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DEL REGIMEN DE CONCESIONES
 
 ###### ARTICULO 165.
 
@@ -2359,7 +2377,7 @@ Los Ayuntamientos deberán remitir al Congreso del Estado, a través de la Audit
 
 ## TITULO SEXTO. DEL DESARROLLO MUNICIPAL
 
-### CAPITULO II. DE LAS COMISARIAS Y DELEGACIONES MUNICIPALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 170.
 
@@ -2417,7 +2435,7 @@ ARTICULO 175 D.- Cuando el estado físico de los inmuebles pueda provocar un da�
 
 Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias planearán y regularán de manera conjunta y coordinada, el desarrollo de dichos centros con apego a la Ley Federal de la materia.
 
-### CAPITULO III. DE LOS CONSEJOS CONSULTIVOS DE COMISARIOS MUNICIPALES
+### CAPITULO II. DE LAS COMISARIAS Y DELEGACIONES MUNICIPALES
 
 ###### ARTICULO 177.
 
@@ -2479,7 +2497,7 @@ La construcción, operación, rehabilitación, mantenimiento y conservación de 
 
 Los Presidentes Municipales podrán convenir con los comisarios ejidales o de bienes comunales que el impuesto predial que cubran los núcleos ejidales se apliquen a obras y servicios públicos de provecho para sus miembros.
 
-### CAPITULO IV. DE LOS CONSEJOS CONSULTIVOS DE CIUDADANOS DE LAS DELEGACIONES MUNICIPALES
+### CAPITULO III. DE LOS CONSEJOS CONSULTIVOS DE COMISARIOS MUNICIPALES
 
 ###### ARTICULO 187.
 
@@ -2561,7 +2579,7 @@ Cuando se resuelva la cancelación u opere la caducidad de las concesiones, los 
 
 ## TITULO SEPTIMO. DE LOS ORGANOS AUXILIARES
 
-### CAPITULO V. DE LOS CONSEJOS CONSULTIVOS DE PRESIDENTES DE COMISARIADOS EJIDALES Y DE BIENES COMUNALES
+### CAPITULO IV. DE LOS CONSEJOS CONSULTIVOS DE CIUDADANOS DE LAS DELEGACIONES MUNICIPALES
 
 ###### ARTICULO 196.
 
@@ -2597,7 +2615,7 @@ XI.- Centros Microregionales de Servicios Públicos.
 
 La presente Ley y otros ordenamientos establecerán los requisitos para la creación de estos órganos, y definirán su integración, facultades y responsabilidades.
 
-### CAPITULO VI. DE LOS CONSEJOS DE COLABORACION MUNICIPAL
+### CAPITULO V. DE LOS CONSEJOS CONSULTIVOS DE PRESIDENTES DE COMISARIADOS EJIDALES Y DE BIENES COMUNALES
 
 ###### ARTICULO 197.
 
@@ -2715,7 +2733,7 @@ ARTICULO 203 E.- Los Ayuntamientos deberán fijar las bases para la organizació
 
 ARTICULO 203 F.- El Presidente Municipal con base en lo acordado por el Ayuntamiento asignará a las Delegaciones los recursos humanos, financieros y materiales que sean indispensables para el eficiente ejercicio de las facultades delegadas y la atención oportuna de las necesidades populares conforme a criterios de descentralización, equilibrio territorial y disponibilidad.
 
-### CAPITULO VII. DE LOS CONSEJOS CONSULTIVOS DE LA CIUDAD
+### CAPITULO VI. DE LOS CONSEJOS DE COLABORACION MUNICIPAL
 
 ###### ARTICULO 204.
 
@@ -2738,6 +2756,20 @@ III. Presentar al Ayuntamiento sus propuestas para introducir mejoras en la admi
 ###### ARTICULO 207.
 
 Los Consejos Consultivos de Comisarios Municipales celebrarán sesiones ordinarias durante los meses de enero, mayo, agosto y octubre de cada año, asistiendo a las mismas los integrantes del Ayuntamiento.
+
+### CAPITULO VII. DE LOS CONSEJOS CONSULTIVOS DE LA CIUDAD
+
+###### ARTICULO 208.
+
+En cada Municipio se integrará un Consejo Consultivo de Ciudadanos de las Delegaciones Municipales que estará integrado hasta por quince miembros de la comunidad y serán designados conforme a procedimientos de elección vecinal.
+
+###### ARTICULO 209.
+
+El Consejo Consultivo de Ciudadanos de las Delegaciones Municipales estará presidido por el Delegado y se renovará cada tres años.
+
+###### ARTICULO 210.
+
+Los Consejos Consultivos de Ciudadanos de las Delegaciones Municipales tendrán a su cargo opinar sobre los programas de obras públicas sobre la prestación de servicios públicos de interés para la Delegación, y fomentar la participación ciudadana.
 
 ### CAPITULO VII BIS. DE LOS CONSEJOS DE PRESIDENTES DE COLONIAS
 
@@ -2775,20 +2807,6 @@ ARTICULO 224 D.- Cada Consejo celebrará sesiones ordinarias trimestrales a las 
 
 ARTICULO 224 E.- Cuando los asuntos a tratarse en las sesiones del Consejo estuviesen vinculados a las obras que realicen entidades o empresas públicas o privadas de servicios, se invitará a éstas a que designen un representante para asistir a las sesiones correspondientes.
 
-###### ARTICULO 208.
-
-En cada Municipio se integrará un Consejo Consultivo de Ciudadanos de las Delegaciones Municipales que estará integrado hasta por quince miembros de la comunidad y serán designados conforme a procedimientos de elección vecinal.
-
-###### ARTICULO 209.
-
-El Consejo Consultivo de Ciudadanos de las Delegaciones Municipales estará presidido por el Delegado y se renovará cada tres años.
-
-###### ARTICULO 210.
-
-Los Consejos Consultivos de Ciudadanos de las Delegaciones Municipales tendrán a su cargo opinar sobre los programas de obras públicas sobre la prestación de servicios públicos de interés para la Delegación, y fomentar la participación ciudadana.
-
-### CAPITULO VIII. DE LOS CONSEJOS DE URBANISMO
-
 ###### ARTICULO 211.
 
 Los Consejos Consultivos de Presidentes de Comisariados Ejidales y de Bienes Comunales deberán rendir opinión al Presidente Municipal, previamente a su aprobación de los presupuestos de egresos para cada ejercicio fiscal y de programas trianuales que conforme a las leyes expidan los Ayuntamientos.
@@ -2809,13 +2827,13 @@ III. Presentar al Ayuntamiento sus propuestas para introducir mejoras en la admi
 
 Los consejos a que se refiere este Capítulo celebrarán sesiones ordinarias durante los meses de enero, mayo, agosto y octubre de cada año, asistiendo a las mismas los integrantes del Ayuntamiento.
 
-### CAPITULO IX. DEL FONDO SOCIAL DE CREDITOS PARA OBRAS
+### CAPITULO VIII. DE LOS CONSEJOS DE URBANISMO
 
 ###### ARTICULO 214.
 
 En cada Municipio funcionará uno o varios Consejos de colaboración municipal en los términos de la Ley que Establece las Bases para la Participación de la Comunidad y de la Ley de Desarrollo Urbano del Estado, para promover, cofinanciar y ejecutar obras públicas, o prestar conjuntamente servicios públicos.
 
-### CAPITULO X. DEL CRONISTA MUNICIPAL
+### CAPITULO IX. DEL FONDO SOCIAL DE CREDITOS PARA OBRAS
 
 ###### ARTICULO 215.
 
@@ -2877,7 +2895,43 @@ Los Ayuntamientos podrán otorgar reconocimientos a nivel municipal a personas f
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JUNIO DE 1992)</small>
 
+### CAPITULO X. DEL CRONISTA MUNICIPAL
+
 ### CAPITULO XI. DE LOS COMITES DE DESARROLLO INDIGENISTA
+
+###### ARTICULO 225.
+
+Los Consejos de Urbanismo se establecerán en las cabeceras urbanas de mayor concentración a solicitud del Presidente Municipal al Gobernador del Estado y tendrán como propósito la coordinación de las distintas dependencias y entidades públicas federales, estatales y municipales en los estudios de los problemas urbanos de la Ciudad y en auspiciar la participación de la ciudadanía bajo la orientación del Presidente Municipal cuando deban coincidir las esferas federal, estatal y municipal.
+
+###### ARTICULO 226.
+
+Los Consejos de Urbanismo estarán integrados por un Coordinador designado conjuntamente por el Gobernador del Estado y por el Presidente Municipal; por los representantes de los Secretarios de Desarrollo Urbano y Obras Públicas, de Finanzas y de Planeación y Presupuesto, así como por vocales designados por el Ayuntamiento a propuesta del Presidente Municipal.
+
+###### ARTICULO 227.
+
+El Presidente Municipal tendrá a su cargo la Presidencia del Consejo de Urbanismo y podrá designar como integrantes del mismo a los ciudadanos y agrupaciones de ciudadanos que considere pertinentes.
+
+###### ARTICULO 228.
+
+El Consejo tendrá las siguientes atribuciones:
+
+I. Rendir opinión sobre el Plan Director Urbano en el Municipio;
+
+II. Rendir opinión sobre los planes parciales del Municipio;
+
+III. Rendir opinión sobre las mejoras urbanas propuestas, incluidas infraestructura de vialidad, que remita el Gobierno del Estado y el Ayuntamiento, así como otras entidades estatales y federales;
+
+IV. Auspiciar la participación de ciudadanos y agrupaciones ciudadanas en el estudio y resolución de los principales problemas urbanos y sociales del Municipio;
+
+V. Organizar y llevar a cabo consultas a la ciudadanía en los asuntos vinculados a la organización y desarrollo del Municipio, y las demás que sean necesarias para el ejercicio de las anteriores.
+
+###### ARTICULO 229.
+
+El Consejo a que se refiere este Capítulo celebrará sesiones ordinarias bimensuales y las extraordinarias a las que convoque su presidente, o por lo menos tres de sus miembros cuando lo consideren necesario.
+
+###### ARTICULO 230.
+
+El Consejo de Urbanismo podrá establecer para la mejor atención de sus facultades comités de estudio y dictamen.
 
 ### CAPITULO XII. DE LOS CENTROS MICROREGIONALES DE SERVICIOS PUBLICOS
 
@@ -2943,42 +2997,6 @@ X.- Coadyuvar con la Procuraduría Social de la Montaña y de Defensa de los Cam
 
 XI.- Las demás que le sean afines a las anteriores.
 
-###### ARTICULO 225.
-
-Los Consejos de Urbanismo se establecerán en las cabeceras urbanas de mayor concentración a solicitud del Presidente Municipal al Gobernador del Estado y tendrán como propósito la coordinación de las distintas dependencias y entidades públicas federales, estatales y municipales en los estudios de los problemas urbanos de la Ciudad y en auspiciar la participación de la ciudadanía bajo la orientación del Presidente Municipal cuando deban coincidir las esferas federal, estatal y municipal.
-
-###### ARTICULO 226.
-
-Los Consejos de Urbanismo estarán integrados por un Coordinador designado conjuntamente por el Gobernador del Estado y por el Presidente Municipal; por los representantes de los Secretarios de Desarrollo Urbano y Obras Públicas, de Finanzas y de Planeación y Presupuesto, así como por vocales designados por el Ayuntamiento a propuesta del Presidente Municipal.
-
-###### ARTICULO 227.
-
-El Presidente Municipal tendrá a su cargo la Presidencia del Consejo de Urbanismo y podrá designar como integrantes del mismo a los ciudadanos y agrupaciones de ciudadanos que considere pertinentes.
-
-###### ARTICULO 228.
-
-El Consejo tendrá las siguientes atribuciones:
-
-I. Rendir opinión sobre el Plan Director Urbano en el Municipio;
-
-II. Rendir opinión sobre los planes parciales del Municipio;
-
-III. Rendir opinión sobre las mejoras urbanas propuestas, incluidas infraestructura de vialidad, que remita el Gobierno del Estado y el Ayuntamiento, así como otras entidades estatales y federales;
-
-IV. Auspiciar la participación de ciudadanos y agrupaciones ciudadanas en el estudio y resolución de los principales problemas urbanos y sociales del Municipio;
-
-V. Organizar y llevar a cabo consultas a la ciudadanía en los asuntos vinculados a la organización y desarrollo del Municipio, y las demás que sean necesarias para el ejercicio de las anteriores.
-
-###### ARTICULO 229.
-
-El Consejo a que se refiere este Capítulo celebrará sesiones ordinarias bimensuales y las extraordinarias a las que convoque su presidente, o por lo menos tres de sus miembros cuando lo consideren necesario.
-
-###### ARTICULO 230.
-
-El Consejo de Urbanismo podrá establecer para la mejor atención de sus facultades comités de estudio y dictamen.
-
-### CAPITULO UNICO
-
 ###### ARTICULO 231.
 
 Cada Ayuntamiento podrá crear un Fondo Social de Créditos para Obras cuyo propósito sea otorgar créditos, o garantizar aquellos que otorguen otras dependencias y entidades públicas, para la ejecución de obras que permitan la prestación de servicios de luz eléctrica para consumo doméstico, o para microobras de irrigación o de agua potable y drenaje.
@@ -3013,9 +3031,7 @@ Los Cronistas Municipales darán su opinión técnica sobre la pertinencia de qu
 
 En las Cabeceras Municipales y en las localidades que lo estimen necesario y conveniente el Ayuntamiento creará por acuerdo, el Consejo de Colaboración Municipal a que se refiere la Ley de Desarrollo Urbano, para la ejecución de obras y servicios públicos, designando con tal propósito a propuesta del Presidente Municipal, a los integrantes del mismo.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 239.
 
@@ -3039,11 +3055,11 @@ IV. Promover la implantación de programas de alfabetización para adultos, de e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1993)</small>
 
-### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO III. DE LAS AUTORIZACIONES
+### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3051,9 +3067,7 @@ IV. Promover la implantación de programas de alfabetización para adultos, de e
 
 PUBLICOS MUNICIPALES
 
-### CAPITULO IV
-
-DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
+### CAPITULO III. DE LAS AUTORIZACIONES
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3095,7 +3109,9 @@ Los procedimientos por responsabilidad administrativa se substanciarán conforme
 
 Y LOS AYUNTAMIENTOS
 
-### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
+### CAPITULO IV
+
+DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3151,7 +3167,7 @@ DE LOS ESTABLECIMIENTOS DE ESPECTACULOS Y DE CENTROS NOCTURNOS Y ANALOGOS EN MUN
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO VI. DE LAS SANCIONES
+### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3180,6 +3196,10 @@ Los ordenamientos municipales que reglamenten estas bases clasificarán los esta
 En esa clasificación se tendrá en cuenta las buenas costumbres en los términos del Código Civil del Estado.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+### CAPITULO VI. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 258.
 
@@ -3762,3 +3782,13 @@ P.O. 10 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y publicación en el Periódico Oficial del Estado de Guerrero.
+
+P.O. 24 DE ENERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- El artículo antes citado deroga todas las disposiciones legales, reglamentarias y administrativas que se opongan a él.
+
+TERCERO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para todos los efectos legales conducentes.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento y los efectos legales conducentes.
