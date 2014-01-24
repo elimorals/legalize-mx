@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2013-12-31"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2014.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -597,9 +597,9 @@ CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVA
 
 VI.- PRESENTAR SEGURO DE RESPONSABILIDAD CIVIL VIGENTE QUE AMPARE LOS CONCEPTOS Y EL MONTO SEÑALADO EN EL ARTÍCULO 18 BIS DE ESTE ORDENAMIENTO;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-VII.- Acreditar la realización de la verificación vehicular, conforme al Programa de Verificación Vehicular que corresponda, y
+VII.- Acreditar la realización de la verificación vehicular, conforme a esta ley y al Programa de Verificación Vehicular que corresponda, y
 
 (NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1026,3 +1026,13 @@ P.O. 31 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- No se encontrarán obligados a la realización de la verificación vehicular exigida conforme a la Ley de Protección al Ambiente para el Estado de Baja California, y a la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California, los propietarios o poseedores de vehículos con domicilio y registro vehicular en los valles de Ensenada, San Felipe, el Valle de Mexicali Y Delegaciones Municipales del Municipio de Tecate, dado que no existen centros de verificación vehicular en dichas localidades.
+
+P.O. 24 DE ENERO DE 2014.
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la vigencia del presente Decreto y dentro de los 100 días naturales contado a partir de su publicación, quienes realicen el canje de tarjetas de circulación de vehículos, no les será exigible el requisito a que hace referencia el artículo 29 fracción VII, de la Ley que regula los Servicios de Control Vehicular en el Estado de Baja California.
+
+TERCERO.- Los propietarios o poseedores de los automóviles que durante el 2012 y 2013 hubieren realizado la verificación vehicular conforme a los programas respectivos, estarán exentos de acreditar dicho requisito, para el canje de tarjeta de circulación.
+
+CUARTO.- El Ejecutivo del estado deberá adoptar de manera inmediata las medidas necesarias para la correcta aplicación del presente Decreto, debiendo en su caso, modificar el Programa de Verificación Vehicular 2014.
