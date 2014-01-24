@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-asentamientos-humanos-70"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-21"
-last_updated: "2012-04-09"
+last_updated: "2014-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-07-19"
 
 LEY GENERAL DE ASENTAMIENTOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 21 de julio de 1993.
 
@@ -87,7 +87,9 @@ XV. Provisiones: las áreas que serán utilizadas para la fundación de un centr
 
 XVI. Reservas: las áreas de un centro de población que serán utilizadas para su crecimiento;
 
-XVII. Secretaría: la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
+
+XVII. Secretaría: La Secretaría de Desarrollo Agrario, Territorial y Urbano.
 
 XVIII. Servicios urbanos: las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
 
@@ -171,9 +173,11 @@ VIII. La preservación del equilibrio ecológico y la protección al ambiente de
 
 Las atribuciones que en materia de ordenamiento territorial de los asentamientos humanos y de desarrollo urbano de los centros de población tiene el Estado, serán ejercidas de manera concurrente por la Federación, las entidades federativas y los municipios, en el ámbito de la competencia que les determina la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 7o.
 
-Corresponden a la Federación, a través de la Secretaría de Desarrollo Social, las siguientes atribuciones:
+Corresponden a la Federación, a través de la Secretaría de Desarrollo Agrario, Territorial y urbano, las siguientes atribuciones:
 
 I. Proyectar y coordinar la planeación del desarrollo regional con la participación que corresponda a los gobiernos estatales y municipales;
 
@@ -407,9 +411,11 @@ IV. La integración y organización de la comisión de conurbación respectiva, 
 
 V. Las demás acciones que para tal efecto convengan la Federación, las entidades federativas y los municipios respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+
 ###### ARTICULO 23.
 
-La comisión de conurbación prevista en el convenio a que se refiere el artículo anterior, tendrá carácter permanente y en ella participarán la Federación, las entidades federativas y los municipios respectivos. Dicha comisión será presidida por un representante de la Secretaría de Desarrollo Social y funcionará como mecanismo de coordinación institucional y de concertación de acciones e inversiones con los sectores social y privado.
+La comisión de conurbación prevista en el convenio a que se refiere el artículo anterior, tendrá carácter permanente y en ella participarán la Federación, las entidades federativas y los municipios respectivos. Dicha comisión será presidida por un representante de la Secretaría de Desarrollo Agrario, Territorial y Urbano y funcionará como mecanismo de coordinación institucional y de concertación de acciones e inversiones con los sectores social y privado.
 
 Dicha comisión formulará y aprobará el programa de ordenación de la zona conurbada, así como gestionará y evaluará su cumplimiento.
 
@@ -715,7 +721,9 @@ XIII.- Promover la construcción y adecuación de la infraestructura, el equipam
 
 La Secretaría de Hacienda y Crédito Público en coordinación con la Secretaría, tomará las medidas necesarias para que las instituciones de crédito no autoricen operaciones contrarias a la legislación y a los planes o programas de desarrollo urbano.
 
-Asimismo, las secretarías de Hacienda y Crédito Público y de Desarrollo Social se coordinarán a efecto de que las acciones e inversiones de las dependencias y entidades de la Administración Pública Federal cumplan en su caso, con lo dispuesto en esta Ley.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+
+Asimismo, las secretarías de Hacienda y Crédito Público y de Desarrollo Agrario, Territorial y Urbano se coordinarán a efecto de que las acciones e inversiones de las dependencias y entidades de la Administración Pública Federal cumplan en su caso, con lo dispuesto en esta Ley.
 
 ### CAPITULO NOVENO. DEL CONTROL DEL DESARROLLO URBANO
 
@@ -769,7 +777,7 @@ México, D.F., a 9 de julio de 1993.- Dip. Juan Ramiro Robledo Ruiz, Presidente.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México Distrito Federal, a los diecinueve días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 5 DE AGOSTO DE 1994.
 
@@ -790,3 +798,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 24 DE ENERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
