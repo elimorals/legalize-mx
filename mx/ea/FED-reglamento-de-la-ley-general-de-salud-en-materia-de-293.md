@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-293"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-14"
-last_updated: "2013-11-01"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1986-04-29"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PRESTACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -656,6 +656,28 @@ Las actividades de dichos responsables se ajustarán a los procedimientos que se
 ###### ARTICULO 90.
 
 Es obligación del responsable del Hospital, tener un registro actualizado de identificación de los médicos que en él presten sus servicios, mismo que deberá llevarse de conformidad con lo que señalen las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 2014)</small>
+
+ARTICULO 90 BIS 1.- El certificado de nacimiento será expedido por única vez a todo nacido vivo en territorio nacional, una vez comprobado el hecho, en forma gratuita y obligatoria.
+
+El certificado de nacimiento podrá ser expedido por un médico con cédula profesional o por la persona autorizada para ello por los gobiernos de las entidades federativas.
+
+La Secretaría, mediante publicación que se realice en el Diario Oficial de la Federación, dará a conocer los modelos que se utilizarán como formatos para la expedición de los certificados de nacimiento.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 2014)</small>
+
+ARTICULO 90 BIS 2.- Para la expedición del certificado de nacimiento es indispensable se corrobore, en términos de las disposiciones jurídicas aplicables, el vínculo madre-hijo, y la identidad de la madre.
+
+La Secretaría, de conformidad con la norma oficial mexicana que para tal efecto emita, determinará la forma mediante la cual, según las circunstancias que acompañen al nacimiento, se corroborará por la persona que expida el certificado de nacimiento el vínculo madre-hijo y la identidad de la madre.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 2014)</small>
+
+ARTICULO 90 BIS 3.- La Secretaría a efecto de establecer los mecanismos que garanticen la expedición del certificado de nacimiento, se coordinará con las dependencias y entidades de la Administración Pública Federal que correspondan, así como con las autoridades competentes de las entidades federativas.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 2014)</small>
+
+ARTICULO 90 BIS 4.- La regulación técnica que complemente las disposiciones de este Capítulo para fijar las características y especificaciones técnicas de los certificados de nacimiento, defunción y muerte fetal, así como los criterios y procedimientos para la expedición de éstos, se establecerán en la norma oficial mexicana que emita la Secretaría.
 
 ###### ARTICULO 91.
 
@@ -2160,5 +2182,9 @@ D.O.F. 4 DE DICIEMBRE DE 2009.
 ÚNICO. El presente Decreto entrará en vigor 60 días contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 1 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ENERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
