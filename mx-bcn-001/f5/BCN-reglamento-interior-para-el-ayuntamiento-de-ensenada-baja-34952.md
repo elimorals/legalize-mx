@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2013-11-22"
+last_updated: "2014-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1309,7 +1309,9 @@ VII.- Seguridad, Tránsito y Transporte;
 
 VIII.- Planeación y Desarrollo Económico;
 
-IX.- Salud y Asistencia Social;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
+
+IX.- Salud y Asistencia Social
 
 X.- Turismo;
 
@@ -1343,9 +1345,13 @@ XVII.- Comisión de Juventud
 
 XVIII.- Comisión de Deporte
 
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2014)</small>
+
+XIX.- Desarrollo Social
+
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XX (SIC).- Comisión de Transparencia y Rendición de Cuentas.
+XX.- Comisión de Transparencia y Rendición de Cuentas.
 
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -1531,9 +1537,11 @@ a).- Los mecanismos e instrumentos que resulten necesarios para promover, impuls
 
 b).- La ejecución de programas especiales para fomentar cultura integral para el desarrollo social, considerando: la educación, la ciencia, la tecnología; así como las siguientes culturas: emprendedora, cívica y de valores, participativa, laboral, de prevención, de la equidad y los derechos humanos, de la legalidad, del medio ambiente y de la felicidad.
 
-COMISION DE SALUD Y BIENESTAR SOCIAL.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2014)</small>
 
-###### ARTÍCULO 124.
+COMISIÓN DE SALUD Y ASISTENCIA SOCIAL.
+
+###### ARTICULO 124.
 
 Atribuciones:
 
@@ -1543,9 +1551,13 @@ II.- Proponer al Ayuntamiento:
 
 a).- políticas y medidas para optimizar los recursos municipales aplicables a las materias señaladas en la fracción anterior, vigilando el cumplimiento de los programas correspondientes;
 
-b).- los mecanismos e instrumentos necesarios para el adecuado cumplimiento de las funciones que como autoridad sanitaria le corresponde ejercer, de acuerdo a los ordenamientos legales aplicables; y
+b).- los mecanismos e instrumentos necesarios para el adecuado cumplimiento de las funciones que como autoridad sanitaria le corresponde ejercer, de acuerdo a los ordenamientos legales aplicables:
 
-III.- Promover acciones tendientes a incentivar la participación de los habitantes y organizaciones del Municipio en estas materias.
+III.- Vigilar y evaluar los trabajos de las dependencias municipales con funciones en la materia.
+
+IV.- Supervisar los estudios y análisis necesarios para determinar la situación que en materia de salubridad e higiene opera en el municipio, así como para determinar el grado de consumo de sustancias que causan adicción que la población municipal realiza, para con ellos proponer los sistemas generales imperantes que proporcione avances y soluciones en la materia.
+
+V.- Las demás que le confieran las diversas disposiciones normativas y el propio ayuntamiento.
 
 COMISION DE TURISMO.
 
@@ -1677,11 +1689,33 @@ III.- Participar en los organismos relacionados al desarrollo y promoción del d
 
 IV.- Evaluar y vigilar los trabajos de las dependencias e institutos municipales, con funciones en materia de deportes, y con base en sus resultados y a las necesidades operantes para orientar la política del gobierno municipal.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2014)</small>
+
+COMISIÓN DE DESARROLLO SOCIAL
+
+Articulo 127 Septer.- Atribuciones:
+
+I.- Proponer, analizar, estudiar y dictaminar iniciativas en materia de Desarrollo Social:
+
+II.- Promover acciones tendientes a incentivar la participación y desarrollo integral de los habitantes del Municipio;
+
+III.- Promover la organización de los habitantes en uniones vecinales con el fin de incentivar la democracia participativa y el desarrollo comunitario;
+
+IV.- Supervisar y apoyar los programas de la Secretaría de Desarrollo Social, del Sistema Municipal para el Desarrollo Integral de la Familia y de la Unidad de Atención a Grupos Vulnerables;
+
+V.- Procurar que el Ayuntamiento establezca los vínculos con las demás autoridades y organismos del Estado encargados de la asistencia social y el desarrollo social y humano;
+
+VI.- Evaluar los trabajos de los organismos municipales y con base en sus resultados y necesidades operantes, proponer las medidas pertinentes para orientar las políticas de Desarrollo Social en el Municipio;
+
+VII.- Estudiar la conveniencia de la celebración de convenios y contratos con la Federación, el Estado, los Municipios y los particulares respecto de la actividad de asistencia social, desarrollo integral de la persona y la familia y el desarrollo social;
+
+VIII.- Las demás que le confieran las diversas disposiciones normativas y el propio Ayuntamiento.
+
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 COMISIÓN DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
-ARTÍCULO 127 OCTIES (SIC).- Atribuciones:
+ARTÍCULO 127 OCTIES.- Atribuciones:
 
 I.- Proponer, analizar, estudiar y dictaminar las iniciativas en materia de transparencia y rendición de cuentas;
 
@@ -1958,3 +1992,7 @@ P.O. 22 DE NOVIEMBRE DE 2013.
 ACUERDO POR EL QUE APRUEBA EL H. XX AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, LA REFORMA DE LOS ARTÍCULOS 104 Y 114 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA.
 
 ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, B.C.
+
+P.O. 24 DE ENERO DE 2014.
+
+ÚNICO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
