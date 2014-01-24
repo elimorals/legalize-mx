@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2013-12-31"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -2790,3 +2790,17 @@ P.O. 31 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- No se encontrarán obligados a la realización de la verificación vehicular exigida conforme a la Ley de Protección al Ambiente para el Estado de Baja California, y a la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California, los propietarios o poseedores de vehículos con domicilio y registro vehicular en los valles de Ensenada, San Felipe, el Valle de Mexicali Y Delegaciones Municipales del Municipio de Tecate, dado que no existen centros de verificación vehicular en dichas localidades.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2014)</small>
+
+TERCERO.- Por esta única ocasión, durante el ejercicio fiscal 2014, los propietarios o poseedores de vehículos que incumplan con el requisito de la verificación vehicular obligatoria en términos del Programa de Verificación Vehicular Obligatoria 2014, serán objeto de una multa de cinco salarios mínimos vigentes en la entidad, misma que se hará efectiva a través de las oficinas de recaudación de rentas de la Secretaría de Planeación y Finanzas del Estado, mediante el Procedimiento Administrativo de Ejecución correspondiente, salvo que dentro de este periodo se expidan las disposiciones reglamentarias municipales correspondientes en los respectivos ámbitos competenciales.
+
+P.O. 24 DE ENERO DE 2014.
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la vigencia del presente Decreto y dentro de los 100 días naturales contado a partir de su publicación, quienes realicen el canje de tarjetas de circulación de vehículos, no les será exigible el requisito a que hace referencia el artículo 29 fracción VII, de la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California.
+
+TERCERO.- Los propietarios o poseedores de los automóviles que durante el 2012 y 2013 hubieren realizado la verificación vehicular conforme a los programas respectivos, estarán exentos de acreditar dicho requisito, para el canje de tarjeta de circulación.
+
+CUARTO.- El Ejecutivo del Estado deberá adoptar de manera inmediata las medidas necesarias para la correcta aplicación del presente Decreto, debiendo en su caso, modificar el Programa de Verificación Vehicular 2014.
