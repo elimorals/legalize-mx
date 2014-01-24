@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2013-12-27"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 24 DE ENERO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 24 DE ENERO DE 2014.</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -263,11 +263,11 @@ El presupuesto de egresos del Estado, será el que contenga el Decreto de la Ley
 
 Los presupuestos de egresos de los Municipios serán los que aprueben los ayuntamientos para el ejercicio fiscal que corresponda a iniciativa de los presidentes municipales.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013) (F. DE E., P.O. 24 DE ENERO DE 2014)
 
 ###### Artículo 25.
 
-El presupuesto de egresos tendrá una estructura de integración programática, con la desagregación señalada en las disposiciones normativas aplicables en la materia, así como una sustentación lo suficientemente amplia, que abarque los planes y programas y todas las demás responsabilidades del Gobierno del Gobierno (sic) Estado o de los municipios, según se trate.
+El presupuesto de egresos tendrá una estructura de integración programática, con la desagregación señalada en las disposiciones normativas aplicables en la materia, así como una sustentación lo suficientemente amplia, que abarque los planes y programas y todas las demás responsabilidades del Gobierno del Estado o de los municipios, según se trate.
 
 ###### Artículo 26.
 
@@ -999,7 +999,7 @@ Artículo Cuarto.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Públic
 
 Artículo Quinto.- Se derogan los artículos 198, 199 y 200 de la Ley Orgánica Municipal para el Estado de Guanajuato, así como todas las disposiciones que se opongan a la presente Ley.
 
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LÉ DE EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 24 DE JULIO DEL 2003.- CARLOS VIDAL ROJAS YERENA.- DIPUTADO PRESIDENTE.- JORGE IGNACIO LUNA BECERRA.- DIPUTADO SECRETARIO.- JESÚS DOMÍNGUEZ ARANDA.- DIPUTADO SECRETARIO.- RÚBRICAS.
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 24 DE JULIO DEL 2003.- CARLOS VIDAL ROJAS YERENA.- DIPUTADO PRESIDENTE.- JORGE IGNACIO LUNA BECERRA.- DIPUTADO SECRETARIO.- JESÚS DOMÍNGUEZ ARANDA.- DIPUTADO SECRETARIO.- RÚBRICAS.
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
