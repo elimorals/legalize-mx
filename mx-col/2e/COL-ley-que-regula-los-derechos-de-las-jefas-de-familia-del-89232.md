@@ -4,7 +4,7 @@ identifier: "COL-ley-que-regula-los-derechos-de-las-jefas-de-familia-del-89232"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-25"
-last_updated: "2012-08-25"
+last_updated: "2014-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE REGULA LOS DERECHOS DE LAS JEFAS DE FAMILIA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 25 de agosto del 2012.
 
@@ -61,9 +61,11 @@ El presente ordenamiento tiene por objeto establecer y regular los derechos de l
 
 Para efectos de la aplicación e interpretación de la presente Ley y los programas que de ella se desprendan, debe entenderse como Jefas de Familia a las beneficiarias mencionadas en el artículo 5°, fracción VI, de la propia Ley.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 4°.
 
-En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Colima, la Ley del Instituto Colimense de las Mujeres, la Ley que Previene, Combate y Elimina la Discriminación en el Estado de Colima, la Ley para la Igualdad entre Mujeres y Hombres del Estado de Colima y los demás ordenamientos aplicables en la materia.
+Se aplicará supletoriamente a esta Ley, la Ley de Acceso a las Mujeres a una Vida Libre de Violencia para el Estado de Colima, la Ley para la Igualdad entre Mujeres y Hombres del Estado de Colima, la Ley que Previene, Combate y Elimina la Discriminación en el Estado de Colima y el Código Civil para el Estado Libre y Soberano de Colima; así como los demás ordenamientos aplicables en la materia.
 
 ###### ARTÍCULO 5°.
 
@@ -73,7 +75,9 @@ I. Consejo Estatal: Al Consejo Estatal Consultivo para la Protección de Jefas d
 
 II. Coordinación: A la Coordinación Estatal de Jefas de Familia;
 
-III. Dependencias y entidades públicas: Todas aquellas dependencias y entidades de la administración pública centralizada y descentralizada del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2014)</small>
+
+III. Dependencias y entidades públicas: Todas aquellas dependencias y entidades de la administración pública estatal y municipal del Estado;
 
 IV. Dependiente(s): Aquel descendiente, ascendiente, cónyuge o concubinario que depende económicamente de la Jefa de Familia;
 
@@ -81,9 +85,17 @@ V. Gobierno del Estado: Al Gobierno del Estado de Colima;
 
 VI. Jefa(s) de Familia: Aquella mujer o mujeres que tiene(n) la responsabilidad de ser el principal soporte, aporte o sostén económico del hogar, que integren una familia monoparental como sostén de la misma, y que tengan bajo su responsabilidad la manutención de un dependiente directo de ella, sin el apoyo económico de su cónyuge, concubinario, ni de cualquier otro miembro del núcleo familiar, de deudores alimentistas por sentencia judicial en los términos del Código Civil para el Estado de Colima, ni de institución pública o privada;
 
-VII. Ley: La presente Ley que Regula los Derechos de Jefas de Familia del Estado de Colima; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2014)</small>
 
-VIII. Secretaría: Secretaría de Desarrollo Social del Gobierno del Estado.
+VII. Ley: La presente Ley que Regula los Derechos de las Jefas de Familia del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2014)</small>
+
+VIII. Secretaría: Secretaría de Desarrollo Social del Gobierno del Estado; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+IX. Reglamento: al Reglamento de la presente Ley.
 
 ###### ARTÍCULO 6°.
 
@@ -129,6 +141,20 @@ El Gobierno del Estado, con la colaboración y coordinación institucional estab
 
 Con el objetivo de dotar de mayores herramientas a las Jefas de Familia, tendrán acceso a los programas sociales integrales del Gobierno del Estado, que incluirán: apoyo psicológico, emocional, de mejora de la autoestima; al igual que acciones encaminadas a aprovechar sus talentos y capacidades individuales, fortaleciéndolas a través de acciones que favorezcan su beneficio económico, social y cultural en aras de lograr un entorno familiar más adecuado.
 
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2014)</small>
+
+Para esto, las políticas públicas a favor de las jefas de familia en el estado de Colima deberán contar, al menos, con lo siguiente:
+
+I. Incorporar a las organizaciones de la sociedad civil en su elaboración, diseño, implementación, seguimiento y evaluación;
+
+II. Basarse en un diagnóstico general y focalizar en las necesidades específicas de las jefas de familia, por localización geográfica e intensidad;
+
+III. Ser equitativas, imparciales, integrales y de bajo costo pero alto impacto, tanto en su formulación como cuando se implementen;
+
+IV. Estar sustentadas en problemas que experimentan las jefas de familia, de acuerdo a evidencia estadística y demandas sociales; e
+
+V. Implementarse inter institucionalmente atendiendo la perspectiva de género.
+
 ### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LAS JEFAS DE FAMILIA
 
 ###### ARTÍCULO 12.
@@ -141,9 +167,47 @@ II. Recibir orientación y ayuda integral, incluyendo la capacitación para el t
 
 III. Ser beneficiaria de los diferentes programas gubernamentales dirigidos a las mujeres y en particular a las Jefas de Familia. Por ningún motivo, razón o circunstancia deberán ser excluidas de programas y prerrogativas sociales;
 
-IV. Recibir atención médica integral para la titular y sus descendientes directos hasta que estos alcancen la mayoría de edad, sin menoscabo de los beneficios que reciban a través de otros programas gubernamentales; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2014)</small>
 
-V. Disfrutar plenamente de los derechos consignados en la Ley, su reglamento y en otras disposiciones legales y reglamentarias aplicables.
+IV. Recibir atención médica integral para la titular y sus descendientes directos hasta que estos alcancen la mayoría de edad, sin menoscabo de los beneficios que reciban a través de otros programas gubernamentales; y (sic)
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2014)</small>
+
+V. Recibir atención médica integral para la titular y sus descendientes directos hasta que estos alcancen la mayoría de edad, sin menoscabo de los beneficios que reciban a través de otros programas gubernamentales; (sic)
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+VI. Al trabajo de las jefas de familia incluye la oportunidad, en condiciones de igualdad;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+VII. Alimentación adecuada y nutritiva que les asegure la posibilidad de gozar del más alto nivel de desarrollo físico, emocional e intelectual;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+VIII. La posibilidad de tener un espacio privado donde se pueda vivir con seguridad, paz y armonía;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+IX. A la salud, que es el disfrute del más alto nivel de bienestar físico, mental y social;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+X. Educación orientada hacia el pleno desarrollo social, y debe capacitar a las jefas de familia para participar efectivamente en una sociedad democrática y plural;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+XI. Un medio ambiente sano que significa contar con servicios públicos básicos y a que se proteja, mejore y preserve el medio ambiente, para que les permita a las jefas de familia vivir en armonía con su entorno;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+XII. Satisfacción integral de las necesidades humanas fundamentales;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+XIII. Participar libremente en la vida cultural de su comunidad, a gozar de las artes, las tradiciones, instituciones y modos de vida y a participar en el progreso científico y en los beneficios que de él resulten; y
+
+XIV. Disfrutar plenamente de los derechos consignados en la Ley, su reglamento y en otras disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 13.
 
@@ -153,9 +217,21 @@ I. Cumplir los requerimientos establecidos en los lineamientos de los programas 
 
 II. Otorgar la información necesaria para su inclusión a los programas públicos y acciones institucionales, así como aquella necesaria para la elaboración del padrón de beneficiarias y la solicitada para el desarrollo del diagnóstico correspondiente;
 
-III. Dar aviso a las instituciones correspondientes en cuyos casos las Jefas de Familia cuenten con el apoyo económico de un esposo o concubino, o de cualquier otro miembro integrante del núcleo familiar; y
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
 
-IV. Las demás que establezca la Ley y su Reglamento.
+III. Aprovechar con responsabilidad los beneficios que obtengan a través de los programas y acciones que se implementen, con el objetivo de mejorar sus condiciones de vida y la de sus dependientes;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+IV. Contribuir con el desarrollo familiar, social y del Estado, por medio de los conocimientos y beneficios adquiridos a través de los programas, cursos y talleres impartidos;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
+
+V. Acudir, de manera oportuna, a la Coordinación, en caso de actualización de su domicilio, para notificar del mismo o cualquier otra información o dato que genere un cambio sustancial en sus condiciones de vida que, a su vez, pudiera generar una modificación de su estatus;
+
+VI. Dar aviso a las instituciones correspondientes en cuyos casos las Jefas de Familia cuenten con el apoyo económico de un esposo o concubino, o de cualquier otro miembro integrante del núcleo familiar; y
+
+VII. Las demás que establezca la Ley y su Reglamento.
 
 ### CAPÍTULO IV. DE LOS REQUISITOS PARA ACCEDER A LOS PROGRAMAS, APOYOS Y SERVICIOS
 
@@ -203,6 +279,12 @@ III. Del total del presupuesto destinado a los programas a cargo de dicha depend
 
 IV. Coadyuvar a la elaboración de un diagnóstico cada dos años en el cual se identifiquen las principales características, problemáticas, necesidades y acciones a emprender para apoyar a las Jefas de Familia en nuestro Estado.
 
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2014)</small>
+
+ARTÍCULO 17 BIS.- La Coordinación, así como las demás dependencias y entidades de la administración pública estatal estarán facultadas para celebrar convenios de concertación con el sector privado, con el fin de implementar acciones de apoyo a favor de las jefas de familia, entre las cuales se incluyan, en condiciones preferentes, descuentos en los bienes, productos o servicios que las empresas ofrezcan al público.
+
+El Titular del Ejecutivo del Estado será el encargado de crear la Coordinación y, estará dirigida por una mujer, designada por el mismo.
+
 ###### ARTÍCULO 18.
 
 La Secretaría, a través de la Coordinación, se vinculará con las Secretarías de Educación, de Finanzas y Administración, de Fomento Económico, de Salud y Bienestar Social, del Trabajo y Previsión Social, de Desarrollo Urbano, así como con el Sistema Estatal para el Desarrollo Integral de la Familia, el Instituto de Suelo, Urbanización y Vivienda del Estado de Colima, el Instituto Colimense de la Mujer, los Municipios de la Entidad, y demás entidades públicas, cuyas dependencias brindarán atención y asesoría jurídica necesaria a las Jefas de Familia, para gestionar los apoyos y servicios derivados de los programas que se implementen en el ámbito de sus respectivas competencias.
@@ -211,9 +293,11 @@ La Secretaría, a través de la Coordinación, se vinculará con las Secretaría
 
 La Contraloría General del Gobierno del Estado, será la Autoridad competente, para recibir y resolver las denuncias relacionadas con la aplicación de la Ley.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 20.
 
-Los servidores públicos responsables del cumplimiento de la presente Ley, que se abstengan u omitan cumplir con la obligación de actuar bajo los principios aquí señalados o condicionen, nieguen sin causa justificada o desvíen los recursos, serán sancionados de conformidad con los ordenamientos legales aplicables.
+Los servidores públicos responsables del cumplimiento de la presente Ley, que se abstengan u omitan cumplir con la obligación de actuar bajo los principios aquí señalados o condicionen, nieguen sin causa justificada o desvíen los recursos, serán sancionados de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ### CAPÍTULO VI. DEL CONSEJO ESTATAL
 
@@ -386,3 +470,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 23 veintitrés del mes de agosto del año 2012 dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ.- Rúbrica.- EL SECRETARIO DE DESARROLLO SOCIAL, LIC. OSCAR CARLOS ZURROZA BARREDA.- Rúbrica.- EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, DR. JESÚS OROZCO ALFARO.- Rúbrica.- ENCARGADA DEL DESPACHO DE LA SECRETARÍA DE EDUCACIÓN, MTRA. NORMA LIDIA PONCE DE LEÓN AMADOR.- Rúbrica.- EL SECRETARIO DE FOMENTO ECONÓMICO, C. RAFAEL GUTIÉRREZ VILLALOBOS.-Rúbrica.- EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA.- Rúbrica.- EL SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL, LIC. URIEL MORENO FLORES.- Rúbrica.- EL SECRETARIO DE DESARROLLO URBANO, ARQ. OSCAR ALEJANDRO TORRES CONTRERAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ENERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
