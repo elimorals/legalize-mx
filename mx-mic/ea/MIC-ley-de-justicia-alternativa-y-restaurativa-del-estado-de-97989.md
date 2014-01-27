@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-alternativa-y-restaurativa-del-estado-de-97989"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2014-01-21"
+last_updated: "2014-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MIC"
 ---
 # LEY DE JUSTICIA ALTERNATIVA Y RESTAURATIVA DEL ESTADO DE MICHOACAN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 27 DE ENERO Y 12 DE FEBRERO DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE JUSTICIA ALTERNATIVA Y RESTAURATIVA DEL ESTADO DE MICHOACÁN.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 1 DE ENERO DE 2014.</small>
-
 TEXTO ORIGINAL.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE ENERO DE 2014.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -489,7 +487,9 @@ VII. Las demás que señale la normatividad aplicable.
 
 T R A N S I T O R I O S
 
-PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, y entrará en vigor el día 1 de enero del 2014.
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2014)</small>
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, y entrará en vigor el día siguiente al de su publicación.
 
 SEGUNDO. Las unidades de atención de los ayuntamientos deberán estar en servicio a más tardar dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, periodo durante el cual el Poder Judicial y el Consejo de Coordinación para la Implementación, Seguimiento y Evaluación del Nuevo Sistema de Justicia Penal en el Estado de Michoacán, impartirán cursos de capacitación en la materia que harán extensivos a los ayuntamientos de manera gratuita.
 
