@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-administracion-publica-60873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-21"
-last_updated: "2013-10-18"
+last_updated: "2014-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2014.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 21 de abril de 2008.
 
@@ -754,6 +754,14 @@ E) Unidades Auxiliares del Coordinador:
 La Procuraduría General de Justicia del Estado, la Junta Local de Conciliación y Arbitraje y el Tribunal de Conciliación y Arbitrajes se ubican en el ámbito orgánico de la Administración Pública Estatal. Su estructura y funcionamiento se rigen por las disposiciones jurídicas y administrativas correspondientes.
 
 Los organismos públicos descentralizados y los órganos desconcentrados de la Administración Pública Estatal, se regirán por sus instrumentos de creación y su reglamentación interna.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2014)</small>
+
+Para los casos en que el Titular del Poder Ejecutivo comisione a los Subsecretarios, para atender asuntos específicos, incluso diferentes a las funciones que tienen asignadas, el Gobernador del Estado, podrá hacer la designación de Subsecretarios Adjuntos, los cuales contarán con las mismas facultades y realizarán las mismas acciones que el Subsecretario designado para atener la comisión.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2014)</small>
+
+En el caso de que el Subsecretario tenga un adjunto, será responsable administrativamente de la actuación de este, por conservar la representación de la unidad administrativa que corresponda.
 
 ###### ARTÍCULO 7°.
 
@@ -7790,3 +7798,13 @@ Se derogan los ordenamientos legales que se opongan al presente Decreto.
 ###### ARTÍCULO SÉPTIMO.
 
 Hasta en tanto no se emita el Reglamento del Instituto, se seguirá aplicando el Reglamento Interior del Instituto Estatal de Policía del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su Publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
