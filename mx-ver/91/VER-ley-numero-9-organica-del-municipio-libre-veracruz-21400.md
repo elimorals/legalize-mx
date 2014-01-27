@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2013-12-25"
+last_updated: "2014-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -481,7 +481,7 @@ XXXIV. Expedir en lo conducente, para efectos de lo dispuesto en las fracciones 
 
 XXXV. Dictar, previo acuerdo de las dos terceras partes de sus integrantes, disposiciones que afecten al patrimonio inmobiliario municipal. La enajenación, transmisión de la posesión o dominio de bienes inmuebles se podrá otorgar siempre que medie autorización expresa del Congreso del Estado;
 
-> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2004)</small>
+REFORMADA, G.O. 24 DE AGOSTO DE 2004)
 
 XXXVI. Cuando se trate de la contratación de obras y servicios públicos que comprometan al municipio por un plazo mayor al periodo del Ayuntamiento, se requerirá el acuerdo del Cabildo, para someterlo a la aprobación del Congreso del Estado; en el caso de contratos de obra pública cuyo monto exceda del veinte por ciento de la partida presupuestal respectiva, se requerirá en los mismo (sic) términos el acuerdo del Cabildo, para someterlo a la aprobación del Congreso del Estado o, en sus recesos, de la Diputación Permanente;
 
@@ -1157,7 +1157,9 @@ Artículo 60 quinquies. Son atribuciones de la Comisión de Promoción y Defensa
 
 I. Promover que el Ayuntamiento establezca políticas públicas, disposiciones y lineamientos generales, en su ámbito competencial, orientados a la difusión, respeto y defensa de los derechos humanos;
 
-II. Vigilar que los acuerdos del Ayuntamiento y los actos realizados por las dependencias y entidades de la administración pública municipal no violenten, en general, los derechos humanos fundamentales de las personas y, en forma especial, de mujeres, menores de edad, discapacitados, adultos mayores y de integrantes de comunidades indígenas;
+> <small>(REFORMADA, G.O. 27 DE ENERO DE 2014)</small>
+
+II. Vigilar que los acuerdos del Ayuntamiento y los actos realizados por las dependencias y entidades de la administración pública municipal no violenten, en general, los derechos humanos fundamentales de las personas y, en forma especial, de mujeres, menores de edad, discapacitados, adultos mayores, migrantes y de integrantes de comunidades indígenas.
 
 III. Proponer acciones coordinadas con los organismos públicos y sociales protectores de derechos humanos, para el estudio, la cultura y difusión de los mismos en el municipio;
 
@@ -1901,7 +1903,7 @@ VI. Señalar el procedimiento que deberá tramitarse y los medios de impugnació
 
 VII. La aprobación del Ayuntamiento, escuchando la opinión de los Agentes y Subagentes Municipales, así como de los jefes de manzana.
 
-> <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
+ADICIONADO, G.O. 12 DE DICIEMBRE DE 2005)
 
 Artículo 96 ter. Las concesiones para usar, explotar y aprovechar bienes de dominio público municipal deberán sujetarse a las bases siguientes:
 
@@ -2109,9 +2111,9 @@ Tratándose de convenios con otros municipios de la entidad, sólo se requerirá
 
 La Hacienda Municipal se formará por los bienes de dominio público municipal y por los que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones, tasas adicionales que decrete el Estado sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que el Congreso del Estado establezca a su favor, en términos de las disposiciones legales aplicables.
 
-(REFORMADO, G.O. 9 DE ENERO DE 2007) (F. DE E., G.O. 26 DE ENERO DE 2007)
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2014)</small>
 
-El presidente, el síndico, el regidor de la Comisión de Hacienda y Patrimonio Municipal y el tesorero del Ayuntamiento serán directamente responsables de la administración de los recursos públicos municipales. Tratándose de entidades paramunicipales, lo será su titular y el del área de finanzas.
+El Presidente, el Síndico, el Regidor de la Comisión de Hacienda y Patrimonio Municipal, el Tesorero y el titular de la Contraloría del Ayuntamiento serán directamente responsables de la administración de todos los recursos públicos municipales. Tratándose de entidades paramunicipales, lo serán su titular y el del área de finanzas.
 
 ###### Artículo 105.
 
@@ -3424,5 +3426,21 @@ G.O. 25 DE DICIEMBRE DE 2013.
 DECRETO NÚMERO 10 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 27 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE ENERO DE 2014.
+
+DECRETO NÚMERO 236 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 104 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE ENERO DE 2014.
+
+DECRETO NÚMERO 237 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 60 QUINQUIES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
