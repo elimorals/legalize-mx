@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2013-08-20"
+last_updated: "2014-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCS"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE FEBRERO DE 2014 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA SUCESIVA Y TERRITORIALMENTE POR PARTIDO JUDICIAL DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL EXTRAORDINARIO DEL B.O. DE 7 DE MAYO DE 2013, INICIANDO EN EL PARTIDO JUDICIAL DE COMONDÚ EL 1 DE JULIO DE DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ENERO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -309,7 +311,9 @@ La policía ministerial es un órgano auxiliar del ministerio público y actuar�
 
 La policía ministerial recabará los datos que resulten necesarios, rindiendo los informes correspondientes, pero no podrá por y ante sí desahogar medios de prueba, ni tomar declaración al inculpado bajo pena de nulidad.
 
-Los informes que por escrito proporcione al ministerio público, debidamente ratificados, serán apreciados como testimoniales, cuando del mismo se desprendan hechos que fueron percibidos por los propios agentes o se trate de detención flagrante, sin que en ningún caso puedan estimarse como suficientes para tener acreditada la probable o plena responsabilidad del inculpado.
+> <small>(REFORMADO, B.O. 27 DE ENERO DE 2014)</small>
+
+Los informes que por escrito proporcione al ministerio público, debidamente ratificados, serán apreciados como testimoniales, cuando del mismo se desprendan hechos que fueron percibidos por los propios agentes o se trate de detención flagrante.
 
 ###### ARTÍCULO 37.
 
@@ -1953,9 +1957,11 @@ Las comunicaciones privadas cuya interceptación haya sido autorizada por la aut
 
 Esta misma disposición se aplicará, en lo conducente, a las pruebas recabadas a través de un cateo no autorizado.
 
+> <small>(REFORMADO, B.O. 27 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 278.
 
-Los informes que sobre el resultado de sus investigaciones rindan los agentes de la policía ministerial, debidamente ratificados, se considerarán como testimoniales, sin que puedan estimarse como pruebas suficientes para acreditar la responsabilidad del inculpado.
+Los informes que sobre el resultado de sus investigaciones rindan los agentes de la policía ministerial y los informes rendidos por los militares, marinos y los miembros de las instituciones policiales derivados de las detenciones en flagrante delito, debidamente ratificados, se considerarán como testimoniales, y se les dará el valor probatorio que corresponda en conjunto con otros medios de prueba, en términos de las reglas establecidas en el presente Capítulo.
 
 ###### ARTÍCULO 279.
 
@@ -3762,3 +3768,9 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 B.O. 20 DE AGOSTO DE 2013.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE ENERO DE 2014
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
