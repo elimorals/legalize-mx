@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2012-07-31"
+last_updated: "2014-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ENERO DE 2014.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -4259,6 +4259,26 @@ I.- La casa habitación de la familia; y
 
 II.- En algunos casos, una parcela cultivable.
 
+> <small>(ADICIONADA, B.O. 27 DE ENERO DE 2014)</small>
+
+III.-El mobiliario de uso doméstico;
+
+> <small>(ADICIONADA, B.O. 27 DE ENERO DE 2014)</small>
+
+IV.- Tratándose de familias campesinas, el equipo agrícola, considerándose como tal, los semovientes, las semillas, los útiles, implementos y aperos de labranza;
+
+> <small>(ADICIONADA, B.O. 27 DE ENERO DE 2014)</small>
+
+V.- Tratándose de familias cuyo (sic) integrantes o jefes de familia desarrollen un arte u oficio, el equipo de trabajo, considerándose como tal, la maquinaria, los útiles, las herramientas y en general toda clase de utensilios propios para el ejercicio del arte u oficio a que la familia se dedique. En el caso específico de los pescadores se consideran como tales las embarcaciones, motores y demás artes de pesca;
+
+> <small>(ADICIONADA, B.O. 27 DE ENERO DE 2014)</small>
+
+VI.- Tratándose de familias que dependan económicamente de un profesionista, técnico o intelectual, el equipo de trabajo, considerándose como tal, los libros, escritorios, útiles, aparatos e instrumentos científicos y en general toda clase de utensilios propios para el ejercicio de la profesión a que se dedique quien sostenga la familia, y
+
+> <small>(ADICIONADA, B.O. 27 DE ENERO DE 2014)</small>
+
+VII.- Tratándose de trabajadores del volante y transportistas, cuando constituya la única fuente de ingresos, el vehículo de su propiedad en que presta el servicio público, siempre y cuando sea dueño de un solo vehículo y el derecho a la concesión de las placas, cuando sea titular de una sola concesión.
+
 ###### Artículo 736.
 
 La constitución de patrimonio de familia no hace pasar la propiedad de los bienes que queden afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
@@ -4279,6 +4299,14 @@ Los bienes afectos al régimen de patrimonio de familia, son inalienables y no e
 
 Puede constituirse el patrimonio de familia con un bien inmueble gravado con garantía hipotecaria, cuando ésta se constituya para garantizar el pago del crédito por el cual se adquirió el propio inmueble, siempre que se haga referencia a este gravamen en la solicitud respectiva. En este caso, el acreedor hipotecario no sufrirá ninguna afectación de sus derechos, pero no podrá afectarse el patrimonio por deudas posteriores a su inscripción.
 
+> <small>(ADICIONADO, B.O. 27 DE ENERO DE 2014)</small>
+
+En los términos indicados en el párrafo que antecede los bienes inmuebles que hayan sido adquiridos mediante créditos de vivienda otorgados por el Instituto de Vivienda del Estado de Baja California Sur o derivados de programas de vivienda de interés social de carácter estatal o federal, y cuando el valor del bien inmueble no rebase el importe señalado en el artículo 741, se considerará como Patrimonio de Familia, sin necesidad de acudir previamente ante Juez o Notario Público para obtener la declaratoria correspondiente.
+
+> <small>(ADICIONADO, B.O. 27 DE ENERO DE 2014)</small>
+
+Conforme a los requisitos señalados en el primer párrafo del presente artículo, los bienes inmuebles adquiridos mediante créditos de vivienda otorgados por el Instituto del Fondo de la Vivienda para los Trabajadores o el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, siempre y cuando el valor del bien inmueble no rebase el importe señalado en el artículo 741, se podrá realizar la constitución de Patrimonio de Familia, ante el Notario Público, al momento de la constitución del crédito con garantía hipotecaria.
+
 ###### Artículo 740.
 
 Sólo puede constituirse el patrimonio de familia, con bienes ubicados en el lugar en que esté domiciliado permanentemente el que lo constituya.
@@ -4289,9 +4317,11 @@ Independientemente de la ubicación de los bienes, cada familia sólo puede cons
 
 El valor máximo de avalúo de los bienes que integren el patrimonio de familia, conforme al artículo 735, será la cantidad que resulte de multiplicar 15,000 veces el importe del salario mínimo general diario vigente en el Estado, en la época en que se constituya el patrimonio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ENERO DE 2014)</small>
+
 ###### Artículo 742.
 
-El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, designando con toda precisión las características y el valor de los bienes, de forma tal, que puedan ser debidamente identificados e inscritos en el Registro Público de la Propiedad, y deberá comprobar ante el Juez competente:
+El miembro de la familia que quiera constituir el patrimonio, deberá manifestarlo así al Juez de su domicilio o al Notario Público con ejercicio en el mismo, designando con toda precisión las características y el valor de los bienes, de forma tal que puedan ser debidamente identificados e inscritos en el Registro Público de la Propiedad y deberá comprobar ante el Juez o Notario Público competente:
 
 I.- Que es mayor de edad o que está emancipado;
 
@@ -4302,6 +4332,12 @@ III.- La existencia de la familia a cuyo favor desea constituir el patrimonio, d
 IV.- Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reportan gravámenes, fuera de las servidumbres o del supuesto a que refiere el segundo párrafo del artículo 739; y
 
 V.- Que el valor de los bienes que van a constituir el patrimonio de familia, no excede de 15,000 veces el salario mínimo diario de la región.
+
+> <small>(ADICIONADO, B.O. 27 DE ENERO DE 2014)</small>
+
+###### Artículo 742 Bis.
+
+Las anotaciones y el registro que haga la Oficina del Registro Público de la Propiedad con motivo de este Título serán hechas sin gasto alguno para el interesado.
 
 ###### Artículo 743.
 
@@ -15512,3 +15548,7 @@ El presente Decreto entrara en vigor al día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 27 DE ENERO DE 2014.
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
