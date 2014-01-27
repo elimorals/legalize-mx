@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-de-atencion-a-personas-24770"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2012-06-20"
+last_updated: "2014-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DE ATENCIÓN A PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y SEGUNDO DE LA LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 27 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO TREINTA DÍAS DESPUÉS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ENERO DE 2014 (ABROGADA).
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -91,7 +93,7 @@ DE LAS DISPOSICIONES GENERALES, DE LOS ORGANOS DE GOBIERNO DE ADMINISTRACION Y D
 
 ###### ARTÍCULO 6.
 
-Se crea el INSTITUTO SUDALIFORNIANO DE ATENCION A LAS PERSONAS CON DISCAPACIDAD como un organismo descentralizado de la administración pública estatal, con personalidad jurídica y patrimonios propios que aplicara y vigilara el cumplimiento de esta ley y coordinara a las instituciones publicas y a los organismos sociales que persigan los fines que de esta normatividad se derivan, en concordancia con los sistemas nacional y estatal de salud, dicho instituto se conocerá por las siglas I. S. A. P. D.
+Se crea el INSTITUTO SUDCALIFORNIANO DE ATENCION A LAS PERSONAS CON DISCAPACIDAD como un organismo descentralizado de la administración pública estatal, con personalidad jurídica y patrimonios propios que aplicara y vigilara el cumplimiento de esta ley y coordinara a las instituciones publicas y a los organismos sociales que persigan los fines que de esta normatividad se derivan, en concordancia con los sistemas nacional y estatal de salud, dicho instituto se conocerá por las siglas I. S. A. P. D.
 
 ###### ARTÍCULO 7.
 
@@ -878,3 +880,23 @@ SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 1
 B.O. 20 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 27 DE ENERO DE 2014.
+
+PRIMERO.- La presente ley entrará en vigor treinta días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Decreto Número 1340 que expide la Ley del Instituto Sudcaliforniano de Atención a Personas con Discapacidad en el Estado de Baja California Sur, publicada en el Boletín Oficial Número 02 Extraordinario, de fecha 07 de enero de 2002, así como las subsecuentes reformas.
+
+TERCERO.- Se derogan las disposiciones legales o reglamentarias, en todo lo que se oponga a la presente ley.
+
+CUARTO.- El Ejecutivo del Estado, deberá publicar el reglamento de la presente ley en un plazo no mayor a noventa días hábiles; contados a partir de su entrada en vigor.
+
+QUINTO.- En los treinta días hábiles siguientes a la entrada en vigor de la presente ley, se deberá instalar el Consejo Estatal para el Desarrollo e Inclusión de las Personas con Discapacidad y posteriormente, el Consejo Consultivo.
+
+SEXTO.- El Comité de Vigilancia deberá crearse a los treinta días hábiles siguientes a la publicación del Reglamento de la presente ley.
+
+SÉPTIMO.- La ejecución de las obras que el Ejecutivo del Estado y los ayuntamientos deban efectuar para la eliminación de obstáculos viales y urbanos en edificios y vía pública, se efectuará en los términos y plazos que la previsión presupuestal lo permita.
+
+OCTAVO.- Los propietarios de inmuebles y prestadores del servicio público de transporte colectivo de pasajeros, en un plazo que no excederá de un año y medio contados a partir del inicio de la vigencia de esta ley, adoptarán paulatinamente las medidas de adecuación necesarias a que se refiere la presente Ley. El Ejecutivo del Estado a través de las dependencias competentes, evaluará semestralmente los avances respectivos.
+
+NOVENO.- Para el debido cumplimiento del presente ordenamiento, el Ejecutivo del Estado y los ayuntamientos, en su caso, así como los demás Poderes del Estado y entidades, deberán prever en el Presupuesto de Egresos respectivo, la partida necesaria para su cumplimiento, bajo el principio de progresividad.
