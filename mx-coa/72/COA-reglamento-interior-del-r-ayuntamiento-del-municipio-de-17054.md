@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-r-ayuntamiento-del-municipio-de-17054"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-17"
-last_updated: "2010-05-21"
+last_updated: "2014-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE SALTILLO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 25 de julio de 2000.
 
@@ -320,6 +320,10 @@ III. Emitir opinión, previa solicitud expresa del titular de una dependencia, s
 IV. Convocar, previa autorización del Cabildo, a la consulta pública sobre algún tema de interés particular relacionada con el área que les fue encomendada.
 
 Las Comisiones de Hacienda, Patrimonio y Cuenta Pública y la de Planeación, Urbanismo y Obras Públicas, tendrán además las obligaciones y atribuciones a que se refieren los artículos 112 y 113 del Código Municipal.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2014)</small>
+
+La Comisión de Planeación, Urbanismo y Obras Públicas deberá realizar por lo menos una inspección física de los bienes inmuebles relacionados con las solicitudes presentadas ante la propia Comisión; es obligación de la Comisión dictaminar con base en los resultados de dicha inspección.
 
 La participación en las sesiones es personal y no admite representación.
 
@@ -714,3 +718,7 @@ P.O. 21 DE MAYO DE 2010.
 PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en la Gaceta Municipal, independientemente de que se haga lo propio en el Periódico Oficial del Estado.
 
 SEGUNDO. Túrnese a la Secretaría del Ayuntamiento para los efectos legales a los que haya lugar.
+
+P.O. 28 DE ENERO DE 2014.
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, independientemente de que en otro momento se haga lo propio en la Gaceta Municipal.
