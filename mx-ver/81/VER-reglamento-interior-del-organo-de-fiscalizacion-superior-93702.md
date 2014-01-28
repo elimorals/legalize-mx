@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-organo-de-fiscalizacion-superior-93702"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-28"
-last_updated: "2013-02-28"
+last_updated: "2014-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 28 DE ENERO DE 2014.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2013.
 
@@ -78,6 +78,10 @@ Las Unidades Administrativas a que se refieren los artículos 5 y 6 del presente
 Para el ejercicio de sus atribuciones y la atención de los asuntos de su competencia, el Órgano contará con las Unidades Administrativas que a continuación se señalan:
 
 Auditoría General
+
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2014)</small>
+
+a). Unidad de Acceso a la Información Pública
 
 Secretaría Técnica
 
@@ -305,6 +309,38 @@ XII. Custodiar y conservar, durante cinco años contados a partir de su expedici
 
 XIII. Las demás que expresamente le otorguen las leyes del Estado, la Ley, el presente ordenamiento y demás disposiciones de observancia general.
 
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2014)</small>
+
+Artículo 17 BIS. La Unidad de Acceso a la Información Pública, es la instancia administrativa del Órgano, encargada de la recepción y trámite de las solicitudes de información y solicitudes de acceso, rectificación, cancelación y oposición de datos personales, pero además, vigilar que el Órgano, cumpla con la obligación que tiene todo ente que posee información pública, de hacer visibles sus actos; (sic)
+
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2014)</small>
+
+Artículo 17 TER. Corresponde al titular de la Unidad, además de las facultades que establece el Artículo 29 de la Ley 848, de Transparencia y Acceso a la Información Pública, para el Estado de Veracruz de Ignacio de la Llave ejercer las facultades siguientes:
+
+I. Gestionar y supervisar que se realicen los trámites internos necesarios para responder en tiempo y forma las solicitudes que se reciban;
+
+II. Orientar, a los responsables de cada sistema de datos personales del Órgano, para el cumplimiento de la normativa aplicable, supervisando su cumplimiento;
+
+III. Intervenir en los recursos de revisión en los que se señale al Órgano, como sujeto obligado responsable y nombrar delegados para la substanciación del mismo en términos de los Lineamientos del Instituto Veracruzano de Acceso a la Información;
+
+IV. Coordinarse con la Dirección General del Centro de Información para la Fiscalización Superior, a efecto de adoptar las medidas de seguridad, del sistema de datos personales del Órgano;
+
+V. Elaborar y presentar al Auditor General, para su autorización correspondiente, los informes que deben enviarse al Consejero Presidente del Instituto Veracruzano de Acceso a la Información, siendo estos los siguientes:
+
+a) Informe semestral de actividades en términos del artículo 29 fracción XI de la Ley 848;
+
+b) Informe sobre el cumplimiento de las obligaciones en materia de tutela de datos personales en términos del Artículo 39 Fracción III de la Ley Número 581 para la Tutela de los Datos Personales en el Estado de Veracruz;
+
+VI. Coordinar las acciones de capacitación en materia de transparencia, acceso a la información y tutela de datos personales;
+
+VII. Fungir como Secretario Ejecutivo del Comité de Información de Acceso Restringido del Órgano; y
+
+VIII. Las demás que expresamente le atribuyan las leyes del Estado, este Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2014)</small>
+
+Artículo 17 QUÁTER. Para regular la operación, integración y funcionamiento de esta Unidad, el Órgano emitirá los lineamientos respectivos.
+
 #### SECCIÓN PRIMERA. De la Secretaría Técnica
 
 ###### Artículo 18.
@@ -423,15 +459,19 @@ XIII. Verificar la aplicación y eficacia de los sistemas de control interno y s
 
 XIV. Intervenir en los procesos de entrega y recepción de los titulares de las Unidades Administrativas del Órgano y verificar el cumplimiento de las normas y lineamientos;
 
-XV. Desempeñar las funciones relativas a la titularidad de la Unidad de Acceso a la Información Pública, en los términos de la ley y normatividad en la materia;
+> <small>(REFORMADA, G.O. 28 DE ENERO DE 2014)</small>
 
-XVI. Atender las solicitudes de orientación y capacitación respecto al cumplimiento de las disposiciones que regulan la armonización contable; y
+XV. Atender las solicitudes de orientación y capacitación respecto al cumplimiento de las disposiciones que regulan la armonización contable; y
 
-XVII. Las demás que expresamente le otorguen las leyes del Estado, este ordenamiento y demás disposiciones de observancia general.
+> <small>(REFORMADA, G.O. 28 DE ENERO DE 2014)</small>
+
+XVI. Las demás que expresamente le otorguen las leyes del Estado, este ordenamiento y demás disposiciones de observancia general.
+
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
 
 ###### Artículo 24.
 
-La Contralaría Interna contará con: La Unidad de Auditoría y Evaluación; la Unidad de Transparencia y el área de Armonización Contable, que tendrán las funciones que derivan de su denominación y las que dentro del ámbito de competencia de esta Contraloría les encomiende su titular, así como las que por delegación deban cumplir.
+La Contraloría Interna contará con: Un Departamento de Auditoría y Evaluación; y un Departamento de Quejas, Denuncias y Control Legal, y el Área de Armonización Contable, que tendrán las funciones que derivan de su denominación y las que dentro del ámbito de competencia de esta Contraloría les encomiende su titular, así como las que por delegación deban cumplir.
 
 #### SECCIÓN QUINTA. De la Dirección General de Asuntos Jurídicos
 
@@ -1106,3 +1146,11 @@ C.P.C. Lorenzo Antonio Portilla Vásquez
 Auditor General Titular del Órgano de Fiscalización Superior del Estado de Veracruz de Ignacio de la Llave
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE ENERO DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.</small>
+
+Cuarto. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
