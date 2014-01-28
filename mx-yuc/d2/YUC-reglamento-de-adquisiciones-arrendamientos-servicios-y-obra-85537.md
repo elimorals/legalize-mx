@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-adquisiciones-arrendamientos-servicios-y-obra-855
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-27"
-last_updated: "2012-01-27"
+last_updated: "2014-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRA PÚBLICA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE ENERO DE 2014.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de enero de 2012.
 
@@ -117,7 +117,9 @@ Excepciones
 
 Lo dispuesto en el presente Reglamento no será aplicable en los casos siguientes:
 
-I. Respecto de los contratos o convenios de colaboración que el Consejo de la Judicatura celebre con dependencias de Gobierno, tanto Federales, Estatales o Municipales;
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2014)</small>
+
+I. Respecto de los contratos o convenios de colaboración que el Consejo de la Judicatura celebre con dependencias o entidades públicas, tanto Federales, Estatales o Municipales;
 
 II. En la contratación de servicios subordinados y profesionales bajo el régimen de honorarios que se rigen por la ley laboral y civil respectivamente, así como la contratación de servicios de auditoría externa u otros en los que se requiera confidencialidad, y
 
@@ -261,7 +263,9 @@ II. Para la validez de las sesiones se requerirá de la presencia de cuatro de l
 
 III. Para la validez de las decisiones del Comité de Adquisiciones, se requiere el voto aprobatorio de la mayoría de los integrantes asistentes a la sesión. En caso de empate, el Presidente tendrá voto de calidad;
 
-IV. El Comité de Adquisiciones evaluará los expedientes eligiendo aquella cotización que ofrezca mejores condiciones de precio, calidad, garantía, plazo de entrega y financiamiento;
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2014)</small>
+
+IV. El Comité de Adquisiciones evaluará los expedientes eligiendo aquella cotización que ofrezca mejores condiciones de acuerdo a los criterios de selección previstos en el artículo 39 de este Reglamento;
 
 V. El Secretario levantará un acta de cada sesión, la cual firmarán los asistentes, y
 
@@ -323,7 +327,9 @@ III. Aquellas en que cualquier miembro del Comité de Adquisiciones, tenga inter
 
 IV. Aquellos proveedores que, por causas imputables a ellos mismos, el Consejo de la Judicatura les hubiere rescindido administrativamente más de un contrato cualquiera que sea la causa o motivo;
 
-V. Las que se encuentren inhabilitadas por resolución de la Secretaría de la Contraloría General del Estado de Yucatán o la Secretaría de la Función Pública del Poder Ejecutivo Federal;
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2014)</small>
+
+V. Las que se encuentren inhabilitadas por resolución de los órganos de control interno del Poder Judicial, de la Secretaría de la Contraloría General del Estado de Yucatán o por el órgano o instancia con funciones equivalentes en el orden federal;
 
 VI. Las que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores o que alguna resolución judicial las haya condenado por delito o incumplimiento de contrato;
 
@@ -383,17 +389,31 @@ Se entenderá que se fraccionan las compras o adquisiciones, cuando se realicen 
 
 Excepciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE ENERO DE 2014)</small>
+
 ###### ARTÍCULO 23.
 
-Se podrán contratar adquisiciones, arrendamientos y servicios mediante adjudicación directa, aún cuando el valor máximo exceda del límite establecido en el acuerdo general a que alude el artículo 20, en los siguientes supuestos:
+Se podrán contratar adquisiciones, arrendamientos y servicios mediante adjudicación directa, aun cuando el valor máximo exceda del límite establecido en el acuerdo general a que alude el artículo 20, en los siguientes supuestos:
 
 I. Cuando el contrato sólo pueda celebrarse con un determinado proveedor por tratarse de bienes o servicios con características técnicas o marcas específicas, obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 
-II. Cuando se trate de adquisiciones y arrendamientos de bienes y contratación de servicios, que a consideración del Comité de Adquisiciones, de no efectuarse de manera inmediata pongan en peligro la implementación u operación de los fines, programas, planes o funcionamiento de las áreas jurisdiccionales o administrativas del Consejo de la Judicatura o de este mismo;
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2014)</small>
 
-III. Cuando las adquisiciones, arrendamientos y contratación de servicios requieran de un desarrollo creativo o un servicio especializado, y
+II. Cuando se trate de adquisiciones y arrendamientos de bienes y contratación de servicios, que a consideración del Comité de Adquisiciones, de no efectuarse de manera inmediata pongan en peligro la implementación u operación de los fines, programas, planes o funcionamiento del Consejo de la Judicatura.
 
-IV. En caso de que una adjudicación por invitación restringida o licitación pública, sea declarada desierta por segunda ocasión.
+III. Cuando las adquisiciones, arrendamientos y contratación de servicios requieran de un desarrollo creativo o un servicio especializado, y (sic)
+
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2014)</small>
+
+IV. Cuando la licitación pública sea declarada desierta, al no haberse cumplido con uno o varios de los requisitos establecidos en la convocatoria y esta circunstancia fuese considerada como causa de desechamiento.
+
+> <small>(ADICIONADA, D.O. 28 DE ENERO DE 2014)</small>
+
+V. En caso de que un procedimiento por invitación restringida sea declarado desierto por segunda ocasión, y
+
+> <small>(ADICIONADA, D.O. 28 DE ENERO DE 2014)</small>
+
+VI. Cuando se trate de adquisiciones de bienes perecederos, productos alimenticios básicos o semiprocesados.
 
 Procedimiento
 
@@ -431,11 +451,13 @@ Una vez cumplido el plazo para la presentación de las propuestas, el Comité de
 
 #### Sección Cuarta. De la Adjudicación por Licitación Pública
 
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2014)</small>
+
 Publicación de la convocatoria
 
 ###### ARTÍCULO 28.
 
-Para llevar a cabo adquisiciones, arrendamientos y contratación de servicios mediante licitación pública, y previo dictamen sobre la procedencia de tal proceso de adjudicación, el Comité de Adquisiciones expedirá una convocatoria, la cual deberá ser publicada en el Diario Oficial del Gobierno del Estado de Yucatán y en la página de Internet del Poder Judicial del Estado, con quince días hábiles de anticipación a la fecha límite para la recepción de solicitudes, estableciendo en ella el día de la reunión de aclaraciones. Dicha publicación también podrá hacerse en, al menos, un periódico local de mayor circulación.
+Para llevar a cabo adquisiciones, arrendamientos y contratación de servicios mediante licitación pública y previo dictamen sobre la procedencia de tal proceso de adjudicación, el Comité de Adquisiciones expedirá una convocatoria, la cual deberá ser publicada en el Diario Oficial del Gobierno del Estado y en la página de Internet del Poder Judicial del Estado, con diez días hábiles de anticipación a la fecha límite para la recepción de solicitudes, estableciendo en ella el día de la reunión de aclaraciones. Dicha publicación también podrá hacerse en, al menos, un periódico local de mayor circulación.
 
 Requisitos de la convocatoria
 
@@ -549,7 +571,9 @@ III. El cumplimiento del contrato y la calidad de los bienes y servicios solicit
 
 El documento que ampare la garantía de cumplimiento del contrato y la de calidad de los bienes o servicios adquiridos, se deberá expedir en un plazo no mayor de diez días hábiles posteriores a la fecha de la adjudicación. No se entregará cantidad alguna por concepto de anticipo en tanto no se entregue a la Dirección de Administración la garantía mencionada.
 
-Los términos de la presentación de las garantías y los casos en que éstas se harán efectivas, serán establecidos en las bases de la licitación correspondiente. Las garantías, en todos los casos, se constituirán a favor del Consejo de la Judicatura.
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2014)</small>
+
+Los términos de la presentación de las garantías y los casos en que éstas se harán efectivas, serán establecidos en las bases de la licitación correspondiente. Las garantías en todos los casos se constituirán a favor del Poder Judicial del Estado-Consejo de la Judicatura.
 
 La Dirección de Administración conservará en custodia las garantías otorgadas para la seriedad de las propuestas hasta diez días después de la fecha del fallo, fecha en la que serán devueltas a los licitantes, salvo a aquél a quien se hubiere adjudicado el contrato, la que se retendrá hasta el momento en que el proveedor constituya la garantía de cumplimiento del contrato correspondiente.
 
@@ -625,13 +649,17 @@ Fallo
 
 El fallo de la licitación emitido por el Comité de Adquisiciones y firmado por el Presidente, se dará a conocer el día programado, en junta pública, a la que libremente pueden asistir los proveedores que hubieren comprado las bases. El fallo deberá estar fundado y motivado y podrá ser publicado en la página de internet del Poder Judicial del Estado de Yucatán.
 
-Adjudicación desierta
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE ENERO DE 2014)</small>
+
+Licitación desierta
 
 ###### ARTÍCULO 41.
 
 El Comité de Adquisiciones procederá a declarar desierta una licitación pública, cuando no se reciba propuesta alguna, o la totalidad de las propuestas sean desechadas o descalificadas, haciéndose constar esta circunstancia en el acta correspondiente.
 
-En el supuesto del párrafo anterior, cuando por segunda ocasión se declare desierto el procedimiento de licitación pública, se seleccionará por adjudicación directa al proveedor de acuerdo al procedimiento establecido en la Sección Segunda de este mismo Capítulo de este Reglamento.
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2014)</small>
+
+Cuando el procedimiento de licitación se haya concluido y se declare desierto, se seleccionará por adjudicación directa, conforme al procedimiento previsto en el artículo 24 de este Reglamento, al proveedor que cumpla con los requisitos establecidos y garantice las mejores condiciones, a juicio del Comité de Adquisiciones.
 
 Requisitos para suscribir el contrato
 
@@ -647,9 +675,13 @@ La Dirección de Administración efectuará el pago correspondiente, una vez que
 
 ### CAPÍTULO IV. DEL PADRÓN DE PROVEEDORES
 
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2014)</small>
+
 Requisito para adjudicación
 
 ###### ARTÍCULO 44.
+
+La Dirección de Administración llevará el registro del Padrón de Proveedores del Consejo de la Judicatura y clasificará a las personas inscritas de acuerdo con su actividad.
 
 Será requisito indispensable para la adjudicación del proveedor, que éste se encuentre previamente inscrito en el Padrón de Proveedores del Consejo de la Judicatura. Dicha inscripción será gratuita.
 
@@ -683,11 +715,15 @@ Procedencia de inscripción
 
 El Comité de Adquisiciones, dentro de un término que no exceda de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción correspondiente. En caso de ser negativa, se deberá notificar al solicitante, explicando las causas de la misma.
 
-Vigencia del Padrón de Proveedores
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2014)</small>
+
+Vigencia del registro en el Padrón de Proveedores
 
 ###### ARTÍCULO 47.
 
-El registro en el Padrón de Proveedores tendrá vigencia desde la fecha de expedición y hasta que concluya el año fiscal en que éste se efectúe. Los proveedores que deseen continuar inscritos, deberán solicitar su renovación durante el mes de diciembre del año en que tiene vigencia su registro, mediante la presentación de un escrito, bajo protesta de decir verdad, en el que manifieste que prevalecen las mismas condiciones conforme a las que se registró.
+El registro en el Padrón de Proveedores tendrá vigencia de tres años fiscales, contados a partir de la fecha de solicitud presentada por el proveedor ante la Dirección de Administración. Los proveedores que deseen continuar inscritos, deberán solicitar su renovación durante el mes de diciembre del último año en que tiene vigencia su registro, mediante la presentación de escrito, bajo protesta de decir verdad, en el que manifieste que prevalecen las mismas condiciones conforme a las que se registró; sin perjuicio de comunicar en cualquier tiempo los cambios que afecten el giro o su actividad.
+
+El Pleno del Consejo de la Judicatura, el Comité de Adquisiciones o la Dirección de Administración, en cualquier tiempo, podrán solicitar al proveedor inscrito en el Padrón la información o documentación que consideren necesaria.
 
 Suspensión del registro en el Padrón de Proveedores
 
@@ -743,9 +779,13 @@ III. La garantía de cumplimiento del contrato deberá constituirse por el monto
 
 IV. En las bases de licitación y en el contrato, atendiendo a la naturaleza y características de los bienes y servicios, deberá establecerse la cantidad o presupuesto mínimo y máximo que podrá requerirse en cada orden de surtimiento con cargo al contrato o pedido formalizado. Asimismo, se deberá establecer el plazo para la entrega de los bienes o servicios solicitados por cada orden de surtimiento, contado a partir de la recepción de la referida orden, considerando las particularidades de los bienes o servicios para su producción;
 
-V. Una vez formalizado el contrato, de existir necesidad de cantidades distintas a las pactadas para cada orden de surtimiento, las mismas podrán suministrarse siempre y cuando el proveedor lo acepte, y se formalice en los términos de lo dispuesto en la (sic) bases, y
+V. Una vez formalizado el contrato, de existir necesidad de cantidades distintas a las pactadas para cada orden de surtimiento, las mismas podrán suministrarse siempre y cuando el proveedor lo acepte, y se formalice en los términos de lo dispuesto en la (sic) bases, y (sic)
 
 VI. Las penalizaciones por atraso en la entrega de los bienes o de la prestación de servicios, serán determinadas en función de los bienes o servicios que se hayan entregado o prestado con atraso y se aplicarán sobre los montos que deban pagarse por cada orden de surtimiento emitida por la Dirección de Administración; exclusivamente sobre el valor de lo entregado con atraso y no por la totalidad del contrato.
+
+> <small>(ADICIONADA, D.O. 28 DE ENERO DE 2014)</small>
+
+VII. Los proveedores quedarán obligados ante el Consejo de la Judicatura a responder de los defectos y vicios ocultos de los bienes y de la calidad de los servicios, así como de cualquier otra responsabilidad en que hubieren incurrido, en los términos, plazo y condiciones establecidos en el propio contrato; lo anterior, con independencia de las penas convencionales que se mencionan en la fracción anterior.
 
 Modificación de los contratos
 
@@ -876,3 +916,17 @@ CONSEJERO
 MAP. JORGE ARTURO RODRIGUEZ DEL MORAL
 
 CONSEJERO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 28 DE ENERO DE 2014.
+
+ARTÍCULO ÚNICO (SIC). El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas físicas o morales inscritas en el Padrón de Proveedores del Consejo de la Judicatura durante el año 2012 prorrogarán su registro hasta el 31 de diciembre de 2014.
+
+###### ARTÍCULO TERCERO.
+
+Las personas físicas o morales inscritas en el Padrón de Proveedores del Consejo de la Judicatura a partir del primero de enero de 2013 y hasta la fecha de entrada en vigor de este Acuerdo General prorrogarán su registro hasta el 31 de diciembre de 2015.
