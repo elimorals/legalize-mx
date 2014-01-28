@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2013-05-21"
+last_updated: "2014-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -274,6 +274,14 @@ El Procurador General de Justicia dependerá del Gobernador del Estado y ejercer
 La Coordinación General de Fortalecimiento Municipal estará directamente adscrita al Titular del Poder Ejecutivo del Estado y contará con las atribuciones que le señale esta Ley y las demás relativas.
 
 La función de Consejero Jurídico prevista en el artículo 78 de la Constitución Política del Estado, estará a cargo de la Consejería Jurídica del Ejecutivo del Estado. Al frente de la Consejería Jurídica habrá un Consejero que dependerá directamente del Gobernador del Estado y será nombrado y removido libremente por éste. Para ser Consejero Jurídico es necesario contar con Título de Licenciado en Derecho y cédula profesional, legalmente expedidos por institución o autoridad competente y tener experiencia dentro del área jurídico administrativa. A la Consejería Jurídica le serán aplicables las disposiciones sobre presupuesto, contabilidad y gasto público. En el Reglamento interior de la Consejería se determinarán las atribuciones de las unidades administrativas, así como la forma de cubrir las ausencias y delegar facultades.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2014)</small>
+
+El Procurador de Protección Ecológica será nombrado por el Pleno del Congreso del Estado por el voto de las dos terceras partes de los diputados presentes en sesión, de entre la terna de Ciudadanos profesionales del tema ambiental que someta a su consideración el Titular del Poder Ejecutivo Estatal, éste último podrá removerlo libremente. En el supuesto de que, a juicio del Congreso del Estado, ninguno de los integrantes de la terna propuesta por el Ejecutivo Estatal reunieran los requisitos y el perfil requeridos para el desempeño del cargo, el Ejecutivo presentará propuesta diferente a la original por una sola ocasión, y en caso de rechazarse hará el nombramiento de manera directa a favor de una persona distinta a las rechazadas. El Congreso del Estado deberá tomarle la protesta de ley y emitirá el decreto correspondiente.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2014)</small>
+
+El Procurador de Protección Ecológica, ejercerá las atribuciones previstas por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero, así como las demás leyes y reglamentos aplicables en la materia.
 
 ###### ARTICULO 19.
 
@@ -1069,7 +1077,9 @@ XVIII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 ARTICULO 31 BIS.- La Secretaría de Medio Ambiente y Recursos naturales del Estado (SEMAREN) es el órgano encargado de regular, fomentar, conducir y evaluar la política estatal en materia de manejo y aprovechamiento sustentable de los recursos naturales y protección al ambiente, así como llevar a cabo las acciones necesarias para una gestión o administración ambiental en el Estado, correspondiéndole el despacho de los asuntos siguientes:
 
-I.- Observar y hacer observar la exacta aplicación de las normas y reglamentos federales, estatales y municipales en materia (sic) manejo y aprovechamiento sustentable de los recursos naturales y del equilibrio ecológico en coordinación con el Gobierno Federal, los Ayuntamientos y la participación de los Sectores Social y Privado;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2014)</small>
+
+I.- Observar y hacer observar en el ámbito de su competencia, en coordinación con la Procuraduría de Protección Ecológica del Estado (PROPEG) la exacta aplicación de las normas y reglamentos federales, estatales y municipales en materia (sic) manejo y aprovechamiento sustentable de los recursos naturales y del equilibrio ecológico en coordinación con el Gobierno Federal, los Ayuntamientos y la participación de los sectores Social y Privado;
 
 > <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
 
@@ -1085,7 +1095,7 @@ VI.- Prevenir, combatir y reducir la magnitud de los daños y/o alteraciones de 
 
 VII.- Proponer al Titular del Poder Ejecutivo Estatal el establecimiento de áreas naturales protegidas de con conformidad a la legislación vigente, tomando en cuenta las propuestas que sobre áreas de conservación y' aprovechamiento sustentable hagan llegar las asambleas comunitarias a esta Secretaría;
 
-VIII.- Realizar acciones de inspección, vigilancia y protección en las áreas naturales protegidas de la Entidad para verificar el cumplimiento de las disposiciones legales aplicables, así como promover la participación de autoridades estatales y municipales de universidades, centros de investigación y particulares, para que coadyuven en el eficaz ejercicio de esta atribución;
+VIII.- (DEROGADA, P.O. 28 DE ENERO DE 2014)
 
 IX.- Coordinar el Sistema Estatal de Áreas Naturales Protegidas;
 
@@ -1097,7 +1107,7 @@ XII.- Evaluar la calidad del ambiente y establecer, promover y coordinar el Sist
 
 XIII.- Promover la participación social en la formulación, aplicación y vigilancia de la política ambiental y concertar acciones con los sectores social y privado para la protección y restauración ecológica;
 
-XIV.- Conformar un cuerpo de control y vigilancia de los recursos naturales y ecológicos con la participación interinstitucional y de todos los sectores de la sociedad; preferentemente a nivel comunitario y municipal;
+XIV.- (DEROGADA, P.O. 28 DE ENERO DE 2014)
 
 XV.- Actualizar la información de las características físicas y biológicas de los recursos forestales en el estado;
 
@@ -1121,7 +1131,9 @@ XXIV.- Preservar y fomentar el desarrollo de la flora y la fauna acuática, terr
 
 XXV.- Coadyuvar en las políticas y acciones nacionales sobre la conservación de la biodiversidad, el cambio climático y sobre la protección de la capa de ozono;
 
-XXVI.- Ejercer las atribuciones que la Ley de Equilibrio Ecológico y protección al Ambiente del Estado confiere al Gobierno del Estado;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2014)</small>
+
+XXVI.- Ejercer en el ámbito de su competencia, las atribuciones que la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado le confieren al Gobierno Estatal;
 
 XXVII.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a las leyes y acuerdos que se establezcan;
 
@@ -1129,7 +1141,9 @@ XXVIII.- Promover el ordenamiento ecológico general del territorio del estado, 
 
 XXIX.- Vigilar en coordinación con las autoridades municipales él cumplimiento de las normas y programas para la protección, defensa y restauración del ambiente, estableciendo los mecanismos, instancias y procedimiento administrativos para su logro, en los términos de leyes aplicables;
 
-XXX.- Evaluar las manifestaciones de impacto ambiental de los proyectos de desarrollo que le presenten los sectores público, social y privado de acuerdo con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2014)</small>
+
+XXX.- Evaluar las manifestaciones de impacto ambiental de los proyectos de desarrollo que le presenten los sectores público, social y privado de acuerdo con la normatividad aplicable, y remitir copia autorizada de los mismos a la Procuraduría de Protección Ecológica del Estado, para los efectos conducentes;
 
 XXXI.- Participar en las acciones que aseguren la conservación o restauración de los ecosistemas fundamentales para el desarrollo de la comunidad, en particular cuando se presentan situaciones de emergencia o contingencia ambiental, con la participación que corresponda a otras dependencias estatales, al gobierno federal y/o a los municipios;
 
@@ -1147,7 +1161,7 @@ XXXVII.- Establecer los instrumentos y mecanismos necesarios para garantizar el 
 
 XXXVIII.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
-La Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN), contará en su estructura con un órgano administrativo desconcentrado denominado Procuraduría de Protección Ecológica.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE ENERO DE 2014)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
@@ -1555,6 +1569,52 @@ XI.- Promover el establecimiento de mecanismos de coordinación y cooperación e
 
 XII.- Las demás que le señalen las leyes y disposiciones legales vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2014)</small>
+
+ARTICULO 38 BIS.- La Procuraduría de Protección Ecológica del Estado (PROPEG), es el órgano especializado en la procuración de la justicia ambiental, encargado de vigilar, en el ámbito de su competencia, el cumplimiento de la legislación ambiental en el Estado de Guerrero, para efecto de preservar y proteger el medio ambiente, correspondiéndole las siguientes atribuciones:
+
+I.- Observar y hacer observar en el ámbito de su competencia, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales (SEMAREN), la exacta aplicación de las normas y reglamentos federales, estatales y municipales en materia de protección al ambiente, de preservación y restauración del equilibrio ecológico y de los recursos naturales, en coordinación con el gobierno federal, los Ayuntamientos y la participación de los sectores social y privado;
+
+II.- Realizar acciones de inspección, vigilancia y protección en las áreas naturales protegidas de la entidad para verificar el cumplimiento de las disposiciones legales aplicables;
+
+III.- Conformar un cuerpo de control y vigilancia de los recursos naturales y ecológicos con la participación interinstitucional y de todos los sectores de la sociedad, preferentemente a nivel comunitario y municipal;
+
+IV- Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la normatividad ambiental estatal, y dar seguimiento a las mismas;
+
+V.- Brindar asesoría a las dependencias y entidades de la Administración Pública Estatal en materia de verificación y aplicación de las leyes ambientales y, en su caso, previa solicitud, a los Ayuntamientos de la entidad;
+
+VI.- Fomentar la cultura ambiental y el respeto a la legislación que incida en la prevención y preservación del medio ambiente;
+
+VII.- Coordinar el control de la aplicación de la normatividad ambiental con otras autoridades estatales, federales y municipales;
+
+VIII.- Diseñar y operar, con la participación y coordinación de los sectores público, privado y social, los instrumentos económicos jurídicos para la captación de recursos financieros y materiales;
+
+IX.- Promover la participación de las autoridades estatales y municipales, de universidades, centros de investigación y particulares para que coadyuven en el eficaz ejercicio de su función;
+
+X.- Salvaguardar los intereses de la población y fomentar su participación en el estimulo y vigilancia del cumplimiento de las disposiciones jurídicas ambientales, así como de brindar asesoría en asuntos de protección y defensa del ambiente y de los recursos naturales, dentro del ámbito de su competencia;
+
+XI.- Contar con un Área Especializada en Atención a la Ciudadanía y de Atención a personas defensoras del medio ambiente, mejorando la calidad de la gestión pública para atender las quejas y denuncias ciudadanas presentadas con motivo de las afectaciones en contra del medio ambiente y los recursos naturales de conformidad a las leyes ambientales, en los asuntos que sean de su competencia;
+
+XII.- Iniciar, substanciar y resolver los procedimientos administrativos de inspección y vigilancia imponiendo, en su caso, las medidas y sanciones correspondientes, así como de los recursos administrativos que le competan;
+
+XIII.- Suscribir convenios o acuerdos de coordinación y colaboración con otros niveles de gobierno en el ámbito de sus atribuciones, previa autorización del Gobernador;
+
+XIV.- Elaborar y proponer al Ejecutivo del Estado, en el ámbito de su competencia, las iniciativas y reformas a las leyes y reglamentos, con respecto a la protección del medio ambiente y los recursos naturales de la entidad;
+
+XV.- Expedir y reformar su Reglamento Interior, aprobado que sea por el Ejecutivo del Estado;
+
+XVI.- Elaborar su Programa Operativo Anual (POA), como principal instrumento de planeación estableciendo de manera pormenorizada las acciones y compromisos anuales conforme a sus facultades.
+
+XVII.- Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus atribuciones, de conformidad con las disposiciones jurídicas y administrativas, previa autorización del Gobernador del Estado;
+
+XVIII.- Remitir mensualmente su informe de actividades a la Comisión Legislativa de Recursos Naturales y Desarrollo Sustentable del Honorable Congreso del Estado, para efecto de observar el desempeño de sus facultades.
+
+XIX.- Participar en el Subcomité Sectorial de Ecología y Cambio Climático del Estado, de conformidad con la normatividad aplicable, así como, en la vigilancia del cumplimiento de la legislación estatal asociada al cambio climático;
+
+XX.- Las que le confiera el Gobernador del Estado; y
+
+XXI.- Las demás que le señalen las leyes y ordenamientos legales, vigentes en el Estado.
+
 ### CAPITULO CUARTO. DE LOS TRIBUNALES ADMINISTRATIVOS
 
 ###### ARTICULO 39.
@@ -1856,3 +1916,27 @@ SÉPTIMO. Las facultades, procedimientos y disposiciones conferidas al Instituto
 OCTAVO. Los Ayuntamientos, deberán alinear la organización, operación y procedimientos de sus instituciones culturales, así como emitir o adecuar sus reglamentos en esta materia, conforme a las disposiciones de este Decreto. Las comisiones de cultura, consejos, comités y demás sistemas de concertación que haya establecido el Instituto, serán presididas por la Secretaría de Cultura como Cabeza de Sector y deberán instalarse o ajustarse, según sea el caso, en un plazo no mayor de sesenta días naturales a partir de la entrada en vigor de este Decreto.
 
 NOVENO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a este Decreto.
+
+P.O. 28 DE ENERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Medio Ambiente y Recursos Naturales (SEMAREN) y la Procuraduría de Protección Ecológica (PROPEG) con la intervención de la Secretaría de Finanzas y Administración del Gobierno del Estado harán los ajustes administrativos necesarios para la actualización de la naturaleza jurídica de la Procuraduría de Protección Ecológica en su carácter de órgano administrativo centralizado adscrito directamente al jefe del ejecutivo del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En el supuesto de que a la entrada en vigor de este Decreto, ya se hubiere aprobado el Presupuesto de Egresos para el Gobierno del Estado de Guerrero, sin contemplar lo relativo a la Procuraduría de Protección Ecológica (PROPEG), el Poder Ejecutivo priorizará y realizará la transferencia de partidas presupuestales, recursos humanos y materiales suficientes para el funcionamiento de dicha Procuraduría, afectando las partidas autorizadas a la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno del Estado, en materia de inspección y vigilancia ambiental, así como las que anteriormente, haya ejercido la Procuraduría.
+
+###### ARTÍCULO CUARTO.
+
+Una vez publicado el presente Decreto, el titular del Poder Ejecutivo Estatal deberá enviar al Congreso del Estado, en un plazo no mayor a treinta días naturales, la terna de ciudadanos profesionales del tema ambiental para que, de entre estos se nombre al Procurador de Protección Ecológica.
+
+El reglamento interior de la Procuraduría de Protección Ecológica, deberá ser reformado dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado; para sus efectos legales conducentes.
