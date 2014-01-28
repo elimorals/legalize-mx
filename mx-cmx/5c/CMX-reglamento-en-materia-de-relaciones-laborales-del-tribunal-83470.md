@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-relaciones-laborales-del-tribunal-8347
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2011-11-07"
+last_updated: "2014-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83470&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ENERO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -34,9 +34,11 @@ REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL TRIBUNAL ELECTORAL DEL DISTRIT
 
 ### CAPÍTULO ÚNICO. OBJETO, ORDENAMIENTOS APLICABLES, DEFINICIONES Y SUPLETORIEDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de observancia general y obligatoria en el Tribunal Electoral del Distrito Federal y tiene por objeto reglamentar las relaciones de trabajo comprendidas entre el propio Tribunal y sus personas servidoras, de conformidad con las disposiciones de los artículos 123, fracción XIV, Apartado B), de la Constitución Política de los Estados Unidos Mexicanos; 130 y 131 del Estatuto de Gobierno del Distrito Federal; y 149 del Código de Instituciones y Procedimientos Electorales del Distrito Federal.
+El presente Reglamento es de observancia general y obligatoria en el Tribunal Electoral del Distrito Federal y tiene por objeto reglamentar las relaciones de trabajo comprendidas entre el propio Tribunal y sus personas servidoras, de conformidad con las disposiciones de los artículos 123, Apartado B, fracción XIV de la Constitución Política de los Estados Unidos Mexicanos; 130 y 131 del Estatuto de Gobierno del Distrito Federal; y 149 del Código de Instituciones y Procedimientos Electorales del Distrito Federal.
 
 Se exceptúa del ámbito de aplicación del presente Reglamento cualquier relación jurídica diversa a la de trabajo, entablada por el Tribunal con personas físicas o morales.
 
@@ -74,9 +76,13 @@ g) Secretaría: la Secretaría Administrativa del Tribunal;
 
 h) Secretaria/o: la Secretaria o el Secretario Administrativo del Tribunal;
 
-i) Órganos y áreas del Tribunal: Presidencia, Ponencias, Comisión de Conciliación y Arbitraje, Secretarías General y Administrativa, Contraloría, Dirección General Jurídica, Coordinaciones de Difusión y Transparencia, y de Comunicación Social y Relaciones Públicas, Centro de Capacitación, Unidad de Tecnologías de la Información, Unidad de Jurisprudencia y Estadística, y demás creadas mediante acuerdo del Pleno, y
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
 
-j) Titulares de los órganos y áreas: Presidente/a, Magistrados/as Electorales, Secretario/a General, Secretario/a Administrativo/a, Contralor/a General, Director/a General Jurídico/a, Coordinadores/as de Área, Director/a del Centro de Capacitación, Director/a de la Unidad de Tecnologías de la Información del Tribunal, y Director/a de la Unidad de Jurisprudencia y Estadística.
+i) Órganos y áreas del Tribunal: Presidencia, Ponencias, Comisión de Conciliación y Arbitraje, Secretaría General, Secretaría Administrativa, Contraloría General, Dirección General Jurídica, Coordinación de Transparencia y Archivo, Coordinación de Comunicación Social y Relaciones Públicas, Centro de Capacitación, Unidad de Tecnologías de la Información, Unidad de Jurisprudencia y Estadística, y demás creadas mediante acuerdo del Pleno, y
+
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+j) Titulares de los órganos y áreas: Presidente/a, Magistrados/as Electorales, Secretario/a General, Secretario/a Administrativo/a, Contralor/a General, Director/a General Jurídico/a, Coordinador/a de Transparencia y Archivo, Coordinador/a de Comunicación Social y Relaciones Públicas, Director/a del Centro de Capacitación, Director/a de la Unidad de Tecnologías de la Información del Tribunal, y Director/a de la Unidad de Jurisprudencia y Estadística.
 
 III. Por cuanto hace a los conceptos:
 
@@ -86,15 +92,21 @@ b) Formato Único de Personal: el documento jurídico administrativo en el cual 
 
 c) ISSSTE: el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-d) Mandos medios: Coordinadores/as de Ponencia, Secretarios/as de Estudio y Cuenta, Secretarios/as Técnicos/as, Directores/as de Área, Secretarios/as Particulares, Asesores/as, Secretarios/as Auxiliares, Secretarios/as Privados/as, Subdirectores/as, Profesores/as Investigadores/as, Enlaces Interinstitucionales, Jefes/as de Departamento, Coordinadores/as de Gestión, Enlaces de Vinculación Interna y Externa, y quienes cuenten con cargos homólogos o equivalentes en el Tribunal;
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
 
-e) Mandos superiores: Presidente/a, Magistrados/as Electorales, Secretario/a General, Secretario/a Administrativo/a, Contralor/a General, Director/a General Jurídico/a, Coordinadores/as de Área, Director/a del Centro de Capacitación y Directores/as de las Unidades de Tecnologías de la Información, así como de Jurisprudencia y Estadística del Tribunal;
+d) Mandos medios: Coordinadores/as de Ponencia, Secretarios/as de Estudio y Cuenta, Secretarios/as Técnicos/as, Directores/as de Área, Secretarios/as Particulares, Asesores/as, Secretarios/as Auxiliares, Secretarios/as Privados/as, Subdirectores/as, Jefes/as de Departamento, Coordinadores/as de Gestión, Ejecutivos/as de Investigación y Análisis, y quienes cuenten con cargos homólogos o equivalentes en el Tribunal;
+
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+e) Mandos superiores: Presidente/a, Magistrados/as Electorales, Secretario/a General, Secretario/a Administrativo/a, Contralor/a General, Director/a General Jurídico/a, Coordinador/a de Transparencia y Archivo, Coordinador/a de Comunicación Social y Relaciones Públicas, Director/a del Centro de Capacitación, Director/a de la Unidad de Tecnologías de la Información, y Director/a de la Unidad de Jurisprudencia y Estadística del Tribunal;
 
 f) Nombramiento: el documento mediante el cual se formaliza la relación laboral entre las personas servidoras y el Tribunal;
 
 g) Personal de confianza: todas las personas que prestan un servicio personal y subordinado para el Tribunal, a que se refiere la fracción XIV, del Apartado B, del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos; y las disposiciones particulares del presente Reglamento;
 
-h) Personal operativo: Actuario/as, Profesionistas Técnicos/as, Secretarias/os Ejecutivas/os, Choferes, Secretarias/os, Auxiliares de Mantenimiento, Asistente de Enfermería, Auxiliares de Oficina y Mensajeros/as del Tribunal;
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+h) Personal operativo: Actuario/as, Profesionistas Técnicos/as, Secretarias/os Ejecutivas/os, Choferes, Secretarias/os, Auxiliares de Mantenimiento, Asistente de Enfermería y Auxiliares de Oficina del Tribunal;
 
 i) Prestación legal: los beneficios legales adicionales al salario que se encuentran regulados en las normas de carácter laboral aplicables al régimen del Tribunal;
 
@@ -146,9 +158,11 @@ Las relaciones laborales del Tribunal con sus personas servidoras, se rigen por 
 
 De conformidad con lo previsto por el artículo 149 del Código y el primer párrafo del artículo 99 de la Ley Procesal, todas las personas servidoras del Tribunal son de confianza, no gozan de estabilidad en el empleo y sólo disfrutarán de las medidas de protección al salario, las atinentes a sus retribuciones, así como de los beneficios de la seguridad social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+
 ###### Artículo 7.
 
-Quienes funjan como titulares de las áreas, con la participación de la Secretaría y de la Coordinación de Difusión y Transparencia, fomentarán la instrumentación de mecanismos de difusión que propicien, en las diversas instancias internas, el cabal cumplimiento del marco normativo vigente, así como el de los procedimientos administrativos que sean emitidos en la materia.
+Quienes funjan como titulares de las áreas, con la participación de la Secretaría y de la Coordinación de Comunicación Social y Relaciones Públicas, fomentarán la instrumentación de mecanismos de difusión que propicien, en las diversas instancias internas, el cabal cumplimiento del marco normativo vigente, así como el de los procedimientos administrativos que sean emitidos por el Tribunal.
 
 A la Secretaria o el Secretario le compete coordinar, dirigir y supervisar la actuación y desempeño del personal de la Dirección de Recursos Humanos del Tribunal, el cual realizará sus actividades en términos de los procedimientos que apruebe el Pleno en esta materia.
 
@@ -176,7 +190,9 @@ En caso de que en alguna entrevista de evaluación o examen técnico practicado,
 
 En el supuesto de que haya varias candidatas o candidatos con resultados satisfactorios, igual capacitación y experiencia, así como méritos equivalentes, el Titular será quien decidirá el ingreso de alguno de ellos.
 
-En caso de tratarse de la Comisión de Conciliación y Arbitraje, el Coordinador de la misma será quien decida.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+En caso de tratarse de la Comisión de Conciliación y Arbitraje, el/la Magistrado/a Coordinador/a de la misma será quien decida.
 
 ### CAPÍTULO SEGUNDO. DE LA RELACIÓN LABORAL ENTRE EL TRIBUNAL Y SU PERSONAL
 
@@ -246,13 +262,17 @@ II. Cuando la persona servidora proporcione datos falsos o documentación falsa 
 
 Las personas servidoras del Tribunal prestarán sus servicios personales y subordinados en el lugar que se señale en el Formato Único de Personal.
 
-En caso de comisión temporal o readscripción por necesidades del servicio, se comunicará por escrito a la persona servidora del Tribunal al menos con veinticuatro horas de anticipación, indicándole el lugar al que se le comisiona, sus funciones y la temporalidad, o bien, el nuevo lugar de adscripción. Tratándose de readscripción se elaborará el nuevo Formato Único de Personal; para el caso de que existan asuntos pendientes que desahogar, se deberá dejar constancia de dicha circunstancia con su superior/a jerárquico/a, a efecto de que se adopten las medidas conducentes.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+En caso de comisión temporal o readscripción por necesidades del servicio, el/la titular de la Secretaría comunicará por escrito a la persona servidora del Tribunal al menos con veinticuatro horas de anticipación, indicándole el lugar al que se le comisiona, sus funciones y la temporalidad, o bien, el nuevo lugar de adscripción. Tratándose de readscripción se elaborará el nuevo Formato Único de Personal; para el caso de que existan asuntos pendientes que desahogar, se deberá dejar constancia de dicha circunstancia con su superior/a jerárquico/a, a efecto de que se adopten las medidas conducentes.
 
 #### Sección II. De la estructura orgánica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+
 ###### Artículo 19.
 
-La estructura orgánica es la que se encuentra determinada en el Código y en el Manual de Organización.
+La estructura orgánica es la que se encuentra determinada en el Código, en el Reglamento Interior y en el Manual de Organización.
 
 El Pleno es la única instancia facultada para crear los cargos y puestos de la estructura orgánica, modificar o eliminar los mismos, así como para determinar los niveles que los conforman y los tabuladores salariales, a propuesta debidamente soportada de la Secretaría.
 
@@ -278,7 +298,9 @@ II. Disfrutar de las medidas de protección al salario y las atinentes a sus ret
 
 III. Recibir oportunamente la remuneración correspondiente por los servicios prestados, de conformidad con los tabuladores del Tribunal y con base en las disponibilidades presupuestales autorizadas;
 
-IV. Disfrutar de los períodos vacacionales que determine el Pleno, según las necesidades del servicio y autorizadas por las y los titulares;
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+IV. Disfrutar de los períodos vacacionales que determine el Pleno, según las necesidades del servicio, y previa autorización de la persona titular del órgano o área de su adscripción;
 
 V. Percibir con anticipación a la fecha de inicio de su periodo vacacional la prima correspondiente conforme al monto previsto en el presupuesto autorizado;
 
@@ -374,7 +396,9 @@ XV. Portar armas u objetos de defensa de cualquier clase en el interior del Trib
 
 XVI. No acatar las instrucciones de sus superiores/as jerárquicos/cas, cuando se trate de las atribuciones, funciones y actividades relacionadas con el empleo, previstas en los ordenamientos y disposiciones legales aplicables, así como a la normatividad interna del Tribunal que sea emitida por el Pleno.
 
-En caso de que las personas servidoras del Tribunal incurran en alguno de los supuestos precisados en este artículo, se podrá dar inicio al procedimiento de responsabilidad administrativa que corresponda.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+En caso de que las personas servidoras del Tribunal incurran en alguno de los supuestos precisados en este artículo, se podrá dar inicio al procedimiento de responsabilidad administrativa que corresponda, sin perjuicio de las demás responsabilidades que resulten, y de las acciones que en materia laboral deban realizarse de conformidad con lo dispuesto en este Reglamento y en la normativa aplicable.
 
 ## TÍTULO TERCERO. DE LAS CONDICIONES GENERALES DE TRABAJO
 
@@ -428,17 +452,23 @@ Las previsiones comprendidas en este capítulo, se suspenderán para los órgano
 
 #### Sección II. Del registro y control de asistencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+
 ###### Artículo 31.
 
-Todas las personas servidoras del Tribunal registrarán su asistencia, con excepción de: Presidente/a, Magistrados/as Electorales, Secretario/a General, Secretario/a Administrativo/a, Contralor/a General, Director/a General Jurídico/a, Coordinadores/as de Difusión y Transparencia y de Comunicación Social y Relaciones Públicas, Director/a del Centro de Capacitación, Director/a de la Unidad de Tecnologías de la Información, Director/a de la Unidad de Jurisprudencia y Estadística, Coordinadores/as de Ponencia, Secretarios/as Técnicos/as, Secretarios/as Particulares y Privados/as, así como choferes de las y los titulares de los órganos y áreas.
+Todas las personas servidoras del Tribunal registrarán su asistencia, con excepción de los mandos superiores, Coordinadores/as de Ponencia, Secretarios/as Técnicos/as, Secretarios/as Particulares y Privados/as, así como choferes de las y los titulares de los órganos y áreas.
 
 Por causa justificada, cualquiera otra persona servidora del Tribunal, previo acuerdo con el Presidente/a, mediante oficio de autorización que suscriba la o el titular de su área de adscripción dirigido a la Secretaría, podrá quedar exento del control de asistencia referido, hasta por un periodo de seis meses, en su caso, podrán autorizarse ampliaciones por periodos iguales, debidamente justificadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+
 ###### Artículo 32.
 
-Para el registro de asistencia se utilizarán medios electrónicos o cualquier otro sistema, que determine el Pleno de acuerdo a la disponibilidad presupuestal para el ejercicio fiscal que corresponda, en los que se hará constar el horario de inicio de labores, así como la conclusión del mismo de las personas servidoras del Tribunal, aunado a otros controles de registro que los titulares de las áreas podrán establecer a su personal.
+Para el registro de asistencia se utilizarán medios electrónicos o cualquier otro sistema, que determine el Pleno de acuerdo a la disponibilidad presupuestal para el ejercicio fiscal que corresponda, en los que se hará constar el horario de inicio de labores, así como la conclusión del mismo de las personas servidoras del Tribunal, aunado a otros controles de registro que las personas servidoras titulares de los órganos y áreas podrán establecer a su personal.
 
-La Secretaría Administrativa someterá a la consideración del Pleno, los procedimientos administrativos para llevar a cabo el registro y control de asistencia de:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+
+La Secretaría someterá a la consideración del Pleno, los procedimientos administrativos para llevar a cabo el registro y control de asistencia de:
 
 I. Las personas servidoras del Tribunal no adscritas a la Presidencia, ni a las Ponencias, y
 
@@ -558,7 +588,9 @@ Por cada cinco días de labores, la persona servidora disfrutará de dos días d
 
 Mediante aviso podrá darse a conocer días inhábiles o de descanso adicionales a los previstos en este artículo, determinados por el Pleno.
 
-Los días de descanso, señalados, perderán vigencia cuando exista proceso electoral o de participación ciudadana, en cuyo caso se estará a lo establecido en el Código y en la Ley Procesal Electoral.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+Los días de descanso, señalados, perderán vigencia cuando exista proceso electoral o de participación ciudadana, en cuyo caso se estará a lo establecido en el Código y en la Ley Procesal.
 
 #### Sección V. De las vacaciones
 
@@ -614,9 +646,11 @@ Las personas servidoras del Tribunal que se encuentren disfrutando una licencia 
 
 #### Sección I. De las disposiciones comunes
 
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
 ###### Artículo 52.
 
-La Secretaría, por conducto del área competente, llevará a cabo el control y verificación correcta de la aplicación de las retribuciones de las personas servidoras públicas del Tribunal.
+La Secretaría, por conducto del área competente, llevará a cabo el control y verificación correcta de la aplicación de las retribuciones de las personas servidoras del Tribunal.
 
 ###### Artículo 53.
 
@@ -652,9 +686,11 @@ I. Reconocimiento mensual, y
 
 II. Cantidad adicional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+
 ###### Artículo 58.
 
-Al personal operativo del Tribunal, adicionalmente a lo previsto en el artículo 57 de este Reglamento, se le otorgarán los conceptos siguientes:
+Al personal operativo del Tribunal, adicionalmente a lo previsto en el artículo 56 de este Reglamento, se le otorgarán los conceptos siguientes:
 
 I. Previsión social múltiple;
 
@@ -764,43 +800,63 @@ I. Fondo de ahorro, y
 
 II. Fondo de retiro.
 
-El fondo de ahorro y el fondo de retiro se integran con las aportaciones que realiza el Tribunal y las personas servidoras del mismo, en un cincuenta y cincuenta por ciento, respectivamente, más los rendimientos que se produzcan. En ambos casos, la duración de los fondos está sujeta a la suficiencia presupuestal de este organismo jurisdiccional, por lo que el Tribunal se reserva los términos y condiciones de su operación.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
 
-El fondo de ahorro individualizado de las personas servidoras del Tribunal comprende un ciclo anual que va del primero de enero al treinta y uno de diciembre de cada año y su operación se encuentra sujeta a la normatividad aprobada por el Pleno.
+El fondo de ahorro y el fondo de retiro se integran con las aportaciones del Tribunal y de las personas servidoras del mismo, en un cincuenta y cincuenta por ciento, respectivamente, más los rendimientos que se produzcan. En ambos casos, la duración de los fondos está sujeta a la suficiencia presupuestal del Tribunal, por lo que éste se reserva los términos y condiciones de su operación.
+
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+El fondo de ahorro de las personas servidoras del Tribunal comprende un ciclo anual que va del primero de enero al treinta y uno de diciembre de cada año y su operación se encuentra sujeta a la normatividad aprobada por el Pleno.
 
 El fondo de retiro de las personas servidoras del Tribunal tiene una duración indefinida, la participación de cada uno de sus integrantes inicia con la manifestación de la interesada o el interesado en formar parte de él y concluye con la terminación de la relación laboral, a efecto de coadyuvar a mejorar sus condiciones de vida al contar con recursos que le sirvan como medio de subsistencia una vez concluida dicha relación.
 
 En este caso, el fondo de retiro será administrado por la institución financiera que mejores rendimientos ofrezca, y bajo las modalidades del instrumento financiero que más convenga a los intereses de las y los aportantes. A juicio de la Presidenta o el Presidente, el fondo podrá administrarse como seguro de separación individualizado o bajo cualquier otra modalidad.
 
-### CAPÍTULO TERCERO. DE LAS LICENCIAS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE ENERO DE 2014)</small>
+
+### CAPÍTULO TERCERO. DE LAS LICENCIAS Y PERMISOS
 
 ###### Artículo 67.
 
 Las personas servidoras del Tribunal podrán disfrutar de licencias o permisos, en términos de las disposiciones siguientes:
 
-I. CON GOCE DE SUELDO
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
 
-Las licencias con goce de salario, serán única y exclusivamente aprobadas por el Pleno en los términos y condiciones que el mismo señale.
+I. Licencias con goce de sueldo:
 
-Para dichos efectos sólo podrán otorgarse este tipo de licencias en los casos de: estudios, investigaciones y, en general, cualquier labor de tipo científica o académica que directa o indirectamente otorgue un beneficio al Tribunal.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+Las licencias con goce de sueldo, serán única y exclusivamente aprobadas por el Pleno en los términos y condiciones que el mismo señale.
+
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+Sólo podrán otorgarse este tipo de licencias en los casos de: estudios, investigaciones y, en general, cualquier labor de tipo científica o académica que directa o indirectamente otorgue un beneficio al Tribunal.
 
 En todos los casos, se deberá presentar la documentación comprobatoria que da origen a la solicitud de licencia o permiso.
 
 La Secretaría deberá verificar que la documentación comprobatoria no cuente con alteraciones o modificaciones y, en su caso, tenga las firmas correspondientes contando con facultades de comprobación para tales efectos.
 
-Las personas servidoras del Tribunal tendrán derecho a solicitar este tipo de licencia, conforme a lo siguiente:
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
 
-a) A los que tengan de uno a cinco años de servicios, hasta treinta días naturales con goce de sueldo íntegro;
+Las personas servidoras del Tribunal tendrán derecho a solicitar este tipo de licencia, de acuerdo con la antigüedad que tengan en el Tribunal, en los términos siguientes:
 
-b) A los que tengan de cinco a diez años de servicios, hasta cuarenta y cinco días naturales con goce de sueldo íntegro, y
+a) De uno a cinco años de servicios, hasta treinta días naturales con goce de sueldo íntegro;
 
-c) A los que tengan de diez años de servicio en adelante, hasta sesenta días naturales con goce de sueldo íntegro.
+b) De seis a diez años de servicios, hasta cuarenta y cinco días naturales con goce de sueldo íntegro, y
 
-En los períodos electorales o de participación ciudadana, únicamente se otorgarán licencias con la previa aprobación del Pleno, cuando no se afecte el correcto funcionamiento del área de adscripción de la persona servidora del Tribunal.
+c) De once años de servicios en adelante, hasta sesenta días naturales con goce de sueldo íntegro.
 
-II. SIN GOCE DE SUELDO
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
 
-Las licencias sin goce de salario, serán única y exclusivamente aprobadas por el Pleno en los términos y condiciones que señale.
+En los períodos electorales o de participación ciudadana, únicamente se otorgarán licencias con la previa aprobación del Pleno, cuando no se afecte el correcto funcionamiento del órgano o área de adscripción de la persona servidora del Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+
+II. Licencias sin goce de sueldo:
+
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+Las licencias sin goce de sueldo, serán única y exclusivamente aprobadas por el Pleno en los términos y condiciones que señale.
 
 En todos los casos, se deberá presentar la documentación comprobatoria que da origen a la solicitud de licencia.
 
@@ -808,29 +864,39 @@ La Secretaría deberá verificar que la documentación comprobatoria no cuente c
 
 Este tipo de licencias no se otorgarán por más de seis meses.
 
-III. LICENCIAS PREPENSIONARIAS
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+
+III. Licencias prepensionarias:
 
 Las licencias prepensionarias tienen como finalidad permitir a las personas servidoras del Tribunal que se encuentren en los supuestos consignados en la Ley del ISSSTE, iniciar los trámites para obtener pensiones de jubilación, de retiro por edad y tiempo de servicios o de cesantía en edad avanzada, sin detrimento de sus percepciones económicas.
 
 El Pleno podrá otorgar licencias prepensionarias con goce de salario de 21 a 63 días hábiles, a las personas servidoras del Tribunal que cumplan con el requisito de tiempo de servicios previsto en la Ley de la materia.
 
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
 Para el otorgamiento de esta licencia es requisito indispensable que la o el solicitante haya laborado para el Tribunal como mínimo, y de manera ininterrumpida, el tiempo que se señala a continuación:
 
-Tiempo de laborar Duración de la licencia
+Tiempo de laborar para el
 
-para el Tribunal
+Tribunal Duración de la licencia
 
-1 año 21 días hábiles prorrogables por 21
+1 año 21 días hábiles prorrogables
 
-días más sin goce de salario.
+por 21 días más sin goce
 
-2 años 41 días hábiles prorrogables por 41
+de sueldo.
 
-días más sin goce de salario.
+2 años 41 días hábiles prorrogables
 
-3 años 63 días hábiles prorrogables por
+por 41 días más sin goce
 
-63 días más sin goce de salario.
+de sueldo.
+
+3 años 63 días hábiles prorrogables
+
+por 63 días más sin goce
+
+de sueldo.
 
 El Pleno podrá aplazar el otorgamiento de una licencia prepensionaria cuando ocurra alguno de los supuestos siguientes:
 
@@ -844,13 +910,17 @@ Cuando se otorgue una licencia prepensionaria, el Pleno, de acuerdo a las necesi
 
 A la persona servidora del Tribunal que al cuarto día hábil siguiente al vencimiento de cualquier tipo de licencia, no se presente a reanudar sus labores, se le tendrán por terminados los efectos de su nombramiento sin responsabilidad para el Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+
 ###### Artículo 68.
 
-Las servidoras del Tribunal en estado de embarazo disfrutarán de una licencia médica, con goce de salario, por un periodo de tres meses para el parto y su recuperación, pudiendo elegir gozar de esta licencia mes y medio antes y mes y medio después del parto, o tres meses seguidos posteriores al parto.
+Las servidoras del Tribunal en estado de embarazo disfrutarán de una licencia de maternidad, con goce de salario, por un periodo de tres meses para el parto y su recuperación, pudiendo elegir gozar de esta licencia mes y medio antes y mes y medio después del parto, o tres meses seguidos posteriores al parto.
 
 En el periodo de lactancia gozarán de dos horas por día durante los primeros tres meses, contados a partir de la conclusión de la licencia médica. Asimismo, disfrutarán de una hora durante los siguientes tres meses para el mismo efecto. Para el ejercicio de este derecho, la servidora del Tribunal podrá elegir entre el horario de entrada o de salida.
 
-El servidor público hombre del Tribunal disfrutará de diez días hábiles con goce de salario, para apoyar a su cónyuge o concubina en los cuidados inmediatos posteriores al parto.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+Los servidores del Tribunal disfrutarán de una licencia de paternidad de diez días hábiles con goce de salario, para apoyar a su cónyuge o concubina en los cuidados inmediatos posteriores al parto.
 
 Estos derechos no podrán ser suspendidos o afectados por necesidades del servicio; quien lo haga será sujeto/a de responsabilidad.
 
@@ -912,11 +982,15 @@ La Secretaría podrá realizar movimientos por cambios de adscripción o comisi�
 
 ### CAPÍTULO SEGUNDO. DE LA TERMINACIÓN DE LA RELACIÓN DE TRABAJO
 
-#### Sección I. De la recepción o notificación de la terminación de la relación laboral
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE ENERO DE 2014)</small>
+
+#### Sección I. De la terminación de la relación laboral y su comunicación a la persona servidora
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
 
 ###### Artículo 77.
 
-La relación de trabajo y los efectos de los nombramientos de las personas servidoras del Tribunal podrán darse por terminados en cualquier momento sin responsabilidad para este órgano jurisdiccional, atendiendo a su calidad de servidores de confianza. La determinación respectiva deberá ser firmada por la Presidenta o el Presidente, así como por la apoderada o el apoderado legal del Tribunal y notificada personalmente a la persona servidora.
+La relación de trabajo y los efectos de los nombramientos de las personas servidoras podrán darse por terminados en cualquier momento sin responsabilidad para el Tribunal, atendiendo a su calidad de servidores/as de confianza. La determinación respectiva deberá ser firmada por la Presidenta o el Presidente, y comunicada personalmente a la persona servidora.
 
 Si la persona servidora del Tribunal se negare a recibir la comunicación respectiva, la Secretaria o el Secretario General, por conducto de la Oficina de Actuarios/as, practicará la notificación en los términos de ley.
 
@@ -924,9 +998,13 @@ Si la persona servidora del Tribunal se negare a recibir la comunicación respec
 
 Si la terminación de la relación de trabajo y de los efectos del nombramiento se refiere a alguna persona servidora del Tribunal adscrita a una Ponencia, la Magistrada o el Magistrado titular de la misma solicitará por escrito a la Presidenta o al Presidente para que actúe en términos del artículo anterior.
 
-Igual regla aplicará para las personas servidoras del Tribunal adscritas a la Comisión de Conciliación y Arbitraje.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
 
-En caso de que alguna Ponencia o la Comisión de Conciliación y Arbitraje se encuentren sin Magistrado/a Electoral o Magistrado/a Coordinador/a, la Presidenta o el Presidente, en su carácter de representante legal, estará facultado/a para aplicar el artículo 77 de este Reglamento.
+Igual regla aplicará para las personas servidoras del Tribunal adscritas a la Comisión de Conciliación y Arbitraje. En este caso, corresponde a el/la Magistrado/a Coordinador/a de la Comisión, hacer la solicitud respectiva.
+
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+En caso de ausencia definitiva de algún/a Magistrado/a titular de Ponencia, o del/la Magistrado/a Coordinador/a de la Comisión de Conciliación y Arbitraje, la Presidenta o el Presidente, en su carácter de representante legal del Tribunal, estará facultada/o para aplicar el artículo 77 de este Reglamento a las personas servidoras adscritas a esa Ponencia o Comisión, según sea el caso.
 
 #### Sección II. De las causas de terminación de la relación de trabajo
 
@@ -970,7 +1048,9 @@ III. La expedición de la constancia de antigüedad, la constancia de percepcion
 
 IV. La entrega al interesado de una carta de recomendación cuando lo autorice la o el titular del órgano o área al que se encontraba adscrita la o el solicitante.
 
-Para todo lo anterior la Secretaría deberá ejecutar los actos señalados y entregar los documentos precisados a la persona ex servidora del Tribunal en un término que no exceda de cinco días hábiles.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
+
+Para todo lo anterior la Secretaría deberá ejecutar los actos señalados y entregar los documentos precisados a la persona ex servidora del Tribunal en un término que no exceda de cinco días hábiles, con excepción de la constancia de percepciones y retenciones referida en la fracción III, que se entregará una vez que la Secretaría esté en posibilidad de extenderla de acuerdo con las disposiciones fiscales que correspondan.
 
 ### CAPÍTULO TERCERO. DEL PAGO POR ÚNICA VEZ
 
@@ -1014,7 +1094,9 @@ II. De más de tres a cinco años de servicios: el equivalente a dos meses de sa
 
 III. De más de cinco años de servicios: el equivalente a tres meses de salario bruto más veinte días por cada año de servicio.
 
-Tratándose de la continuidad de la relación laboral mediante la ocupación de una plaza de menor nivel salarial, con el consentimiento de la persona servidora del Tribunal, el pago por única vez corresponderá al importe equivalente a un mes y medio del salario bruto de la plaza que venía ocupando.
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2014)</small>
+
+En caso de que el Tribunal no cuente con suficiencia presupuestal para cubrir el importe del pago por única vez, para dar por terminada la relación de trabajo por mutuo consentimiento, en los términos indicados en este artículo, el Pleno podrá determinar un monto distinto, con base en el informe que al respecto emita la persona titular de la Secretaría, sin tomar en cuenta los años de servicios de la persona servidora.
 
 #### Sección III. Del pago por única vez tratándose de la terminación de la relación laboral por mutuo consentimiento
 
@@ -1047,6 +1129,10 @@ c) Solicitará a la Secretaría la expedición del cheque por la cantidad determ
 d) Remitirá el convenio firmado por las partes y el cheque a la Comisión de Conciliación y Arbitraje.
 
 VI. La Comisión de Conciliación y Arbitraje radicará el inicio del procedimiento paraprocesal, señalará día y hora para que las partes ratifiquen el convenio y aprobado por esa instancia en la misma audiencia, hará entrega del cheque personalmente a la interesada o al interesado o a su apoderado/a con facultades para pleitos y cobranzas, en términos de la legislación común, para lo cual levantará el acta correspondiente, emitirá resolución y archivará definitivamente el expediente.
+
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2014)</small>
+
+En caso de que se actualice el supuesto previsto en el párrafo segundo del artículo 85, se seguirá en lo conducente el procedimiento previsto en éste, sin que sea necesaria la intervención de la Comisión de Conciliación y Arbitraje. Por lo que, una vez elaborado el convenio de terminación de la relación laboral por mutuo consentimiento, la Dirección General Jurídica lo remitirá a la Secretaría, a fin de que se recaben las firmas correspondientes y se realice la entrega del cheque a el/la interesado/a.
 
 ###### Artículo 87.
 
@@ -1129,3 +1215,11 @@ ATENTAMENTE
 LIC. ERIKA ESTRADA RUIZ
 
 SECRETARIA TÉCNICA DE LA SECRETARÍA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE ENERO DE 2014.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
