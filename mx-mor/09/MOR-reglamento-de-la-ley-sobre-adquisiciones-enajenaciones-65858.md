@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-sobre-adquisiciones-enajenaciones-65858"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-16"
-last_updated: "2009-01-16"
+last_updated: "2014-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-REGLAMENTO DE LA LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+REGLAMENTO DE LA LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 16 de enero de 2009.
 
@@ -41,41 +41,47 @@ REGLAMENTO DE LA LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTA
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto establecer las disposiciones que garanticen el estricto cumplimiento de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos. Adicionalmente a las definiciones contenidas en el Artículo 3 de la Ley, para los efectos de éste Reglamento, se entenderá por:
+El presente Reglamento tiene por objeto establecer las disposiciones que garanticen el estricto cumplimiento de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos. Adicionalmente a las definiciones contenidas en el artículo 3 de la Ley, para los efectos de este Reglamento, se entenderá por:
 
-I. AGRUPAR: Es la integración en un procedimiento de contratación, de bienes o servicios de diferentes grupos o características, con la finalidad de integrar un sólo cuerpo de bases, sin que se altere substancialmente el contenido de las mismas; con ello se fomentan los concursos públicos y se obtienen para el Estado, las mejores condiciones en cuanto a precio, calidad, financiamiento y oportunidad, dándole firmeza y estabilidad a las contrataciones;
+I. Agrupar, a la integración en un procedimiento de contratación, de bienes o servicios de diferentes grupos o características, con la finalidad de integrar un sólo cuerpo de bases, sin que se altere substancialmente el contenido de las mismas; con ello se fomentan los concursos públicos y se obtienen para el Estado, las mejores condiciones en cuanto a precio, calidad, financiamiento y oportunidad, dándole firmeza y estabilidad a las contrataciones;
 
-II. ÁREA SOLICITANTE: Las Dependencias y Entidades, que de acuerdo a sus necesidades, soliciten o requieran a la Oficialía, la adquisición, enajenación o arrendamiento de bienes muebles o la prestación de servicios;
+II. Área solicitante, a las Dependencias y Entidades que, de acuerdo a sus necesidades, soliciten o requieran a la Oficialía, la adquisición, enajenación o arrendamiento de bienes muebles o la prestación de servicios;
 
-III. BASES: Pliego de condiciones o requisitos que establece la convocante dentro de un procedimiento de contratación, que constituyen la fuente principal de derechos y obligaciones entre las partes;
+III. Área requirente, a la Unidad Administrativa, adscrita al área solicitante, que requiera formalmente la adquisición o arrendamiento de bienes muebles o de prestación de servicios, siendo la responsable de emitir las especificaciones técnicas;
 
-IV. BIENES MUEBLES: Los que con esa naturaleza considera el Código Civil para el Estado Libre y Soberano de Morelos;
+IV. Bases, al documento que reúne las condiciones o requisitos que establece la convocante dentro de un procedimiento de contratación, que constituye la fuente principal de derechos y obligaciones entre las partes;
 
-V. BIENES NO APTOS: Aquellos bienes muebles que figuren en los inventarios del Poder Ejecutivo, así como aquellos que sean transferidos por Organismos u otras instituciones y que por sus condiciones físicas o de conservación, ya no sean adecuados para el servicio al que fueron destinados, o resulte inconveniente su utilización por sus costos de mantenimiento, o bien constituya un riesgo su utilización y en su caso, se consideren obsoletos o en desuso;
+V. Bienes muebles, a los que con esa naturaleza considera el Código Civil para el Estado Libre y Soberano de Morelos;
 
-VI. CONSOLIDAR: Es la integración en un procedimiento de contratación, de bienes o servicios de un mismo grupo, con la finalidad de obtener para el Estado, las mejores condiciones en cuanto a precio, calidad, financiamiento y oportunidad, dándole firmeza y estabilidad a las contrataciones;
+VI. Bienes no aptos, a aquellos bienes muebles que figuren en los inventarios del Poder Ejecutivo, así como aquellos que sean transferidos por organismos u otras instituciones y que por sus condiciones físicas o de conservación, ya no sean adecuados para el servicio al que fueron destinados, o resulte inconveniente su utilización por sus costos de mantenimiento, o bien constituya un riesgo su utilización y, en su caso, se consideren obsoletos o en desuso;
 
-VII. CONVOCANTE: La Oficialía, en el caso del Poder Ejecutivo Central y la Entidad en el caso de los Organismos Auxiliares;
+VII. Bienes restringidos, a aquellos bienes muebles cuyo uso se limita para determinadas Dependencias y Entidades, que solo podrán ser adquiridos por una sola convocante;
 
-VIII. DISPONIBILIDAD PRESUPUESTAL: Es la existencia de los recursos presupuestarios correspondientes, conforme a los cuales, las Dependencias y Entidades podrán fincar sus pedidos y contratos y en base a ella, programar sus pagos respectivos;
+VIII. Contratación consolidada, al procedimiento de contratación que lleva a cabo la convocante, mediante el cual se realizan las adquisiciones, arrendamientos y prestación de servicios que requieran las Dependencias o Entidades de forma conjunta, con la finalidad de obtener para el Estado las mejores condiciones en cuanto a precio, calidad, financiamiento y oportunidad;
 
-IX. INVESTIGACIÓN DE MERCADO: La verificación de la existencia de bienes, arrendamientos o servicios y proveedores o postores de éstos a nivel nacional o internacional, en los casos que así se requiera, así como la verificación del precio estimado basado en la información obtenida de las diversas fuentes de información;
+IX. Convocante, a la Unidad Administrativa a cargo de los procesos de adjudicación de contratos del Poder Ejecutivo Estatal o, en su caso, las Entidades cuando así lo determinen las disposiciones aplicables;
 
-X. LEY: Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos;
+X. Disponibilidad presupuestal, a la existencia y disponibilidad de los recursos presupuestados correspondientes, conforme a los cuales las Dependencias y Entidades podrán adjudicar sus pedidos y contratos y, con base en ella, programar sus pagos respectivos;
 
-XI. LEY DE TRANSPARENCIA: Ley (sic) Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos;
+XI. Investigación o estudio de mercado, a la verificación de la existencia de bienes, arrendamientos o servicios y proveedores o postores de éstos a nivel nacional o internacional, en los casos que así se requiera, así como la verificación del precio estimado basado en la información obtenida de las diversas fuentes de información;
 
-XII. PARTIDA, RENGLÓN O CONCEPTO: La división o desglose de los bienes o servicios, contenidos en un procedimiento de contratación o en un contrato o pedido, para diferenciarlos unos de otros, clasificarlos o agruparlos;
+XII. Ley, a la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos;
 
-XIII. PERIÓDICO OFICIAL: Periódico Oficial “Tierra y Libertad”, Órgano Informativo del Gobierno del Estado Libre y Soberano de Morelos;
+XIII. Ley de Transparencia, a la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos;
 
-XIV. REGLAMENTO: El presente Reglamento de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos;
+XIV. Partida, renglón o concepto, a la división o desglose de los bienes o servicios contenidos en un procedimiento de contratación o en un contrato o pedido, para diferenciarlos, clasificarlos o agruparlos;
 
-XV. SUFICIENCIA PRESUPUESTAL: Es la autorización global o específica del presupuesto para el ejercicio fiscal correspondiente, con que cuenta la Dependencia o Entidad, que consta en los documentos de autorizaciones presupuestarias previstas en las disposiciones en esa materia y expedidos por las áreas legalmente facultadas;
+XV. Periódico Oficial, al Periódico Oficial “Tierra y Libertad” como órgano de difusión del Gobierno del estado de Morelos;
 
-XVI. SOBRE CERRADO: Cualquier medio asegurado que contenga la proposición del licitante en términos de las bases, cuyo contenido debe ser consultado hasta el inicio del acto de presentación y apertura de proposiciones, en términos de la Ley.
+XVI. Reglamento, al presente Reglamento;
+
+XVII. Suficiencia presupuestal, a la autorización global o específica del presupuesto para el ejercicio fiscal correspondiente, con que cuenta la Dependencia o Entidad, y que consta en los documentos de autorizaciones presupuestarias previstas en las disposiciones en esa materia y expedidos por las áreas legalmente facultadas, y
+
+XVIII. Sobre cerrado, a cualquier medio asegurado que contenga la proposición del licitante en términos de las bases, cuyo contenido debe ser consultado hasta el inicio del acto de presentación y apertura de proposiciones en términos de la Ley.
 
 ###### Artículo 2.
 
@@ -161,9 +167,11 @@ Las Dependencias y Entidades que sean requeridas para verificar la existencia de
 
 La solicitud escrita del Titular de la Dependencia o Entidad para la erogación por concepto de los servicios antes descritos es indelegable. Queda bajo la responsabilidad de la persona titular del área solicitante, vigilar la adecuada prestación del servicio contratado, así como el seguimiento y verificación del servicio hasta su total conclusión, debiendo para estos casos, resguardar los informes que el prestador del servicio haya generado y así como el producto final o los entregables pactados en el contrato o pedido; lo anterior servirá de base para que se evalúe el resultado obtenido y se indique la forma en que contribuyeron al logro del objetivo para el cual se realizó la contratación.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 8.
 
-Para los efectos de lo dispuesto en la Ley y este Reglamento, el uso de los medios electrónicos y tecnologías informáticas de comunicación a que hace referencia la Ley, se regirá por las disposiciones que para el caso específico se emita la autoridad competente.
+Para el cumplimiento de lo dispuesto en la Ley y este Reglamento, se privilegiará el uso de los medios electrónicos, contenedores de archivos digitales y tecnologías informáticas de comunicación a que hace referencia la Ley, mismos que se regirán por las disposiciones que para el caso específico emita la autoridad competente, y que deberán de ser acordes a los sistemas electrónicos contables que determinen los diversos ordenamientos en la materia.
 
 ###### Artículo 9.
 
@@ -189,11 +197,15 @@ II. En las bases de licitación pública e invitaciones a cuando menos tres pers
 
 En estos casos el licitante deberá entregar en el acto de presentación y apertura de proposiciones, junto con su proposición, copia simple del certificado expedido por el organismo acreditado conforme a la Ley Federal sobre Metrología y Normalización en el que se establezca que cuenta con sistemas de gestión de calidad, los cuales deberán amparar la totalidad del proceso productivo del bien o servicio requerido. Tratándose de distribuidores o comercializadores deberá presentarse copia simple del certificado otorgado al fabricante. De resultar ganador deberá presentar original o copia certificada para su cotejo, previa la formalización del contrato.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 12.
 
-Para efectos de lo dispuesto en el artículo 22 de la Ley, corresponderá a los titulares de las Dependencias y Entidades, la elaboración de su programa anual de adquisiciones, arrendamientos y servicios, el cual deberá contener como mínimo la descripción y monto de los bienes y servicios.
+Para efectos de lo dispuesto en el artículo 22 de la Ley, corresponderá a los titulares de las Dependencias y Entidades, la elaboración de su programa anual de adquisiciones, arrendamientos y servicios, el cual deberá contener como mínimo la descripción y monto de los bienes y servicios a contratar durante el ejercicio fiscal correspondiente conforme a lo establecido en el Plan Estatal de Desarrollo.
 
-Las Dependencias y Entidades deberán remitir a la Dirección General de Adquisiciones y Patrimonio de la Oficialía Mayor, su programa anual de adquisiciones, arrendamientos y servicios, a mas tardar el primer día hábil del mes de diciembre del ejercicio anterior al que se programa, para que por conducto de la persona titular del área antes mencionada, someta a la consideración y aprobación del Comité los mismos; dichos programas deberán hacerse conforme a los criterios de presentación que para tal efecto emita dicha Unidad Administrativa.
+Las Dependencias y Entidades deberán remitir a la Oficialía su programa anual de adquisiciones, arrendamientos y servicios, a más tardar el primer día hábil del mes de diciembre del ejercicio fiscal anterior al que se programa, para que por conducto de su titular, lo someta a la consideración y aprobación del Comité; dichos programas deberán hacerse conforme a los criterios y formatos de presentación que para tal efecto emita la Oficialía.
+
+El programa anual a que se refiere este artículo podrá modificarse por las Dependencias y Entidades de acuerdo al presupuesto efectivamente aprobado, conforme al reporte trimestral que rindan a la Oficialía o por cualquier otra circunstancia que así lo justifique; debiendo informarlo a esta última de manera inmediata para que se tomen las medidas conducentes.
 
 ### Capítulo Segundo. Del Comité
 
@@ -229,149 +241,145 @@ VIII. La selección definitiva del observador, será facultad exclusiva de los m
 
 IX. El acuerdo que sobre el particular se adopte, será inobjetable.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 15.
 
 Los integrantes del Comité tendrán las siguientes funciones:
 
-I. Presidente: Autorizar la expedición de las convocatorias y órdenes del día de las reuniones ordinarias y extraordinarias del Comité, directamente o por conducto de la persona titular encargada de las adquisiciones y patrimonio dentro del Poder Ejecutivo, así como presidir las reuniones del Comité;
+I. Presidente: Expedir las convocatorias y órdenes del día de las sesiones ordinarias y extraordinarias del Comité, directamente o por conducto del Secretario Ejecutivo, así como presidir las sesiones;
 
-II. Secretario Técnico: Elaborar y expedir las convocatorias y órdenes del día de las reuniones ordinarias y extraordinarias del Comité; vigilar se integre adecuadamente la carpeta con los documentos necesarios que sirvan de soportes documentales de los asuntos a tratar y remitirlas a los miembros del Comité, para efecto de su análisis y estudio, con tres días hábiles de anticipación en caso de reuniones ordinarias y 24 horas en caso de reuniones extraordinarias. Deberá realizar además, el escrutinio de los asistentes a las reuniones del Comité para verificar que exista el quórum necesario para sesionar y dar seguimiento a los acuerdos adoptados por el Comité, informando oportunamente a sus miembros sobre su cumplimiento para la adopción de acciones necesarias; deberá levantar el acta de cada una de las sesiones, vigilando que el archivo de documentos esté completo y se mantenga actualizado;
+II. Secretario Ejecutivo: Elaborar y expedir, en su caso, las convocatorias y órdenes del día de las sesiones ordinarias y extraordinarias del Comité; vigilar que se integren adecuadamente las carpetas con los documentos, impresos, electrónicos o digitales necesarios, que sirvan de soporte de los asuntos a tratar y remitirlas a los miembros del Comité, para efecto de su análisis y estudio, con tres días hábiles de anticipación en caso de sesiones ordinarias, y veinticuatro horas hábiles, en caso de sesiones extraordinarias. Deberá realizar además, el escrutinio de los asistentes a las sesiones del Comité para verificar que exista el quórum necesario para sesionar y dar seguimiento a los acuerdos adoptados por el Comité, informando oportunamente a sus miembros sobre su cumplimiento para la adopción de las acciones necesarias; coordinar el funcionamiento del Comité, debiendo levantar el acta de cada una de las sesiones, vigilando que el archivo de documentos esté completo y se mantenga actualizado, quedando bajo su resguardo, y transcribiendo la memoria de las discusiones vertidas respecto de cada asunto analizado en la sesión del Comité. Asimismo deberá presentar a los demás integrantes la información y documentos necesarios que permitan al Comité discutir y analizar los procesos puestos a su consideración, y ser el conducto para recibir cualquier documentación que se dirija al Comité;
 
-III. Vocales: Estudiar y analizar adecuadamente las carpetas de las sesiones ordinarias y extraordinarias que le sean enviadas en tiempo y forma, para emitir sus comentarios pertinentes durante la sesión y dentro de su ámbito de competencia; estarán facultados para requerir a las áreas solicitantes por conducto del Secretario Técnico, los documentos o información faltante o complementaria de los asuntos que se deban someter a la consideración del Comité;
+III. Vocales: Estudiar y analizar adecuadamente las carpetas de las sesiones ordinarias y extraordinarias que le sean enviadas en tiempo y forma, para emitir sus comentarios pertinentes durante la sesión y dentro de su ámbito de competencia; estando facultados para requerir a las áreas solicitantes, por conducto del Secretario Ejecutivo, los documentos o información faltante o complementaria de los asuntos que se deban someter a la consideración del Comité; así como para votar en cada uno de los puntos de la sesión cuando así proceda;
 
-IV. Invitados: Proporcionar la orientación necesaria en torno a los asuntos que se traten, de acuerdo con las facultades que tenga conferidas dentro de su ámbito de competencia, y
+IV. Invitados: Proporcionarán la orientación e información necesaria en asuntos relacionados con las facultades que tenga conferidas dentro de su ámbito de competencia, sin contar con derecho a voto, y
 
-V. Observador: El observador ciudadano no tiene el carácter de integrante del Comité. Sin embargo, cuando sea convocado, deberá asistir puntualmente a todas y cada una de las sesiones en que sea necesaria su presencia, debiendo convocársele para éstos casos en tiempo y forma; deberá intervenir desde un aspecto analítico y propositivo.
+V. Observador: El observador ciudadano no tiene el carácter de integrante del Comité. Sin embargo, cuando sea convocado, deberá asistir puntualmente a las sesiones en que sea necesaria su presencia, debiendo convocársele en tiempo y forma; deberá intervenir desde un aspecto analítico y propositivo. El observador ciudadano estará obligado a mantener la secrecía de los asuntos tratados en las sesiones del Comité bajo su más estricta responsabilidad.
 
-El observador ciudadano estará obligado a mantener la secrecía de los asuntos tratados en las sesiones del Comité bajo su mas estricta responsabilidad.
+El suplente que designe el Secretario Ejecutivo, en caso de ausencia, será responsable de transcribir la memoria de las discusiones vertidas respecto de cada asunto analizado en la sesión del Comité.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
 
 ###### Artículo 16.
 
-El Comité tendrá las siguientes funciones:
+El Comité tendrá, además de las establecidas en la Ley, las siguientes funciones:
 
-I. Las establecidas en el artículo 28 de la Ley, en este Reglamento y demás disposiciones derivadas de dichos ordenamientos; y
+I. Mediante acuerdo expreso, podrá establecer y suprimir, cuando así se justifique, Subcomités de adquisiciones, arrendamientos y servicios, ya sea determinando las áreas y los niveles jerárquicos de los servidores públicos que los integraran conforme a las disposiciones de este Reglamento, su operación y funciones, así como los límites de responsabilidad respecto de los asuntos que puedan conocer dentro de sus áreas de competencia, y la forma y términos en que deberán informar al Comité de cada asunto que dictaminen;
 
-II. Establecer, cuando se justifique, subcomités de adquisiciones, arrendamientos y servicios, determinando las áreas y los niveles jerárquicos de los servidores públicos que los integrarán, su operación y funciones, así como los límites de responsabilidad respecto de los asuntos que puedan conocer dentro de sus áreas de influencia, y la forma y términos en que deberán informar al Comité de cada asunto que dictaminen.
+II. Aprobar las reglas para el funcionamiento e integración de los Subcomités de adquisiciones, arrendamientos y servicios de las Dependencias y Entidades;
+
+III. Conocer, a través del Secretario Ejecutivo, los avances en el programa anual de adquisiciones, arrendamientos y prestación de servicios de cada una de las Dependencias y Entidades;
+
+IV. Atraer para su discusión y aprobación, los asuntos que sean competencia de los Subcomités en los que, después de las deliberaciones, no existan acuerdos y se trate de asuntos prioritarios para el Poder Ejecutivo, y
+
+V. Denunciar ante la Contraloría las conductas de los servidores públicos que pudieran ser contrarias a la Ley y al Reglamento, para que esta determine las sanciones que en su caso procedan conforme a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
 
 ###### Artículo 17.
 
-Las reuniones del Comité se celebrarán en los términos siguientes:
+Las sesiones del Comité se celebrarán en los términos siguientes:
 
-I. Ordinarias: por lo menos una vez al mes, salvo que no existan asuntos a tratar. Sólo en casos justificados se podrán realizar reuniones extraordinarias, cuando lo estime conveniente su Presidente, o en su caso el Secretario Técnico en casos debidamente justificados. Sin que excedan de las sesiones ordinarias programadas.
+I. Ordinarias: por lo menos una vez al mes, salvo que no existan asuntos a tratar. Sólo en casos justificados se podrán realizar sesiones extraordinarias cuando lo estime conveniente su Presidente o, en su caso, el Secretario Ejecutivo; siempre que se trate de casos debidamente justificados y sin que excedan las sesiones extraordinarias a las ordinarias programadas;
 
-II. Las sesiones serán válidas cuando asistan la mitad más uno de sus miembros con voz y voto. Las decisiones y acuerdos del Comité se tomarán de manera colegiada por la mitad más uno de los miembros con derecho a voz y voto que estén presentes, y en caso de empate, el Presidente tendrá voto de calidad;
+II. Las sesiones serán válidas cuando asistan la mitad más uno de sus miembros con voz y voto. Las decisiones y acuerdos del Comité se tomarán de manera colegiada por mayoría de la mitad más uno de los miembros con derecho a voz y voto que estén presentes y, en caso de empate, el Presidente tendrá voto de calidad;
 
-III. Todas las sesiones deberán ser convocadas, ya sea por el Secretario Técnico, o por el Presidente del Comité.
+III. Todas las sesiones deberán ser convocadas, ya sea por el Secretario Ejecutivo o por el Presidente del Comité;
 
-IV. El Comité aprobará en la primera sesión de cada año, su calendario anual de sesiones ordinarias, que deberá ser firmado por todos y cada uno de los miembros con voz y voto, obligándolos a asistir en los términos así definidos, por sí mismos o a través de sus representantes debidamente acreditados.
+IV. El Comité aprobará, en la primera sesión de cada año, su calendario anual de sesiones ordinarias, debiendo ser firmado por todos y cada uno de sus miembros con voz y voto, obligándolos a asistir en los términos así definidos, por sí mismos o a través de sus suplentes debidamente acreditados;
 
-V. Los acuerdos que adopte el Comité se sujetarán al ejercicio de las partidas presupuestales de las Dependencias y Entidades; sin interferir en la esfera de atribuciones de otras autoridades ni contrariar el Plan Estatal de Desarrollo;
+V. Los acuerdos que adopte el Comité se sujetarán al ejercicio de las partidas presupuestales de las Dependencias y Entidades, sin interferir en la esfera de atribuciones de otras autoridades ni contrariar el Plan Estatal de Desarrollo;
 
-VI. En ausencia del Presidente del Comité o de su suplente, las reuniones no podrán llevarse a cabo;
+VI. Ante la ausencia del Presidente del Comité o de su suplente, las sesiones no podrán llevarse a cabo;
 
 VII. En la planeación, citación y desarrollo de las sesiones se observará lo siguiente:
 
-1. Se convocará invariablemente a todos los miembros con voz y voto e invitados así reconocidos; en la convocatoria deberá señalarse, el lugar, la fecha y hora en que se llevará a cabo la reunión;
+1. Se convocará invariablemente a todos los miembros con voz y voto e invitados así reconocidos; en la convocatoria deberá señalarse el lugar, la fecha y la hora en que se llevará a cabo la sesión;
 
-2. Junto a la convocatoria deberá enviarse además, la propuesta del orden del día, la carpeta que contenga los asuntos a tratar y los documentos anexos de cada uno de ellos, así como el proyecto del acta de la sesión anterior para efectos de su aprobación, para que los asistentes analicen adecuadamente los asuntos propuestos;
+2. Junto con la convocatoria deberá enviarse además, la propuesta del orden del día, la carpeta que contenga los asuntos a tratar y los documentos anexos de cada uno de ellos, así como el proyecto del acta de la sesión anterior para efectos de su aprobación, para que los asistentes analicen adecuadamente los asuntos propuestos;
 
-3. En el caso de las sesiones ordinarias, la convocatoria y envío de la documentación aludida en la fracción anterior, deberá enviarse con tres días hábiles, de anticipación a la fecha señalada;
+3. En el caso de las sesiones ordinarias, la convocatoria y envío de la documentación aludida en la fracción anterior, deberá enviarse con tres días hábiles de anticipación a la fecha señalada;
 
-4. En el caso de sesiones extraordinarias, el plazo será de cuando menos veinticuatro horas de anticipación a la hora y día señalado, debiéndose justificar, por el titular del área solicitante, que efectivamente se trata de un asunto imprevisto de necesaria y urgente atención por parte del Comité, anexándose de igual manera la documentación necesaria para el caso. En estas sesiones sólo deberán desahogarse los asuntos contenidos en el orden del día, sin que se consideren de manera alguna, asuntos generales y sin que por ningún motivo se pueda modificar el contenido del orden del día;
+4. En el caso de sesiones extraordinarias, el plazo será de veinticuatro horas hábiles de anticipación a la hora y día señalados, debiéndose justificar por el titular del área solicitante que efectivamente se trata de un asunto imprevisto de urgente atención por parte del Comité, anexándose la documentación necesaria para el caso, debidamente aprobada por el Subcomité. En estas sesiones sólo deberán desahogarse los asuntos contenidos en el orden del día, sin que se consideren de manera alguna, asuntos generales y sin que por ningún motivo se pueda modificar el contenido del orden del día;
 
 5. En caso de inobservancia de los plazos previstos tanto para sesiones ordinarias como extraordinarias, la sesión no podrá llevarse a cabo;
 
-6. Si la sesión convocada, por causas justificadas o imprevistas, no es posible celebrarla deberá comunicarse con oportunidad a los miembros del Comité sustentando tal situación;
+6. Si la sesión convocada, por causas justificadas o imprevistas, no es posible celebrarla deberá comunicarse con oportunidad a los miembros del Comité sustentando tal situación, y
 
 7. Las sesiones deberán desahogarse como a continuación se detalla, debiendo ser acorde al contenido del orden del día propuesto:
 
-A. Lista de asistencia y verificación del quórum legal para sesionar.
+A. Lista de asistencia y verificación del quórum legal para sesionar. En el lugar, día y hora prevista para la sesión, quien legalmente deba presidirla, pedirá al Secretario Ejecutivo, proceda al pase de lista y verificación del quórum legal para sesionar válidamente. La lista de asistencia deberá estar firmada por todos los participantes en la sesión.
 
-En el lugar, día y hora prevista para la sesión, quien legalmente deba presidirla, pedirá al Secretario Técnico, proceda al pase de lista y verificación del quórum legal para sesionar válidamente.
-
-La lista de asistencia deberá estar firmada por todos los participantes en la sesión.
-
-El pase de lista se realizará a más tardar con quince minutos de tolerancia posteriores a la hora señalada en la convocatoria. Si alguno de los miembros del Comité, llegare con posterioridad, participará asentándose en el acta respectiva la hora exacta de su incorporación. En este caso, no se podrá reiniciar el tratamiento y deliberación y en su caso votación, de los asuntos desahogados. Debiéndose considerar su voto a partir de aquellos asuntos en los que participe y delibere.
+El pase de lista se realizará a más tardar con quince minutos de tolerancia posteriores a la hora señalada en la convocatoria. Si alguno de los miembros del Comité, llegare con posterioridad, participará asentándose en el acta respectiva la hora exacta de su incorporación. En este caso, no se podrá reiniciar el tratamiento y deliberación y, en su caso, votación de los asuntos desahogados. Debiéndose considerar su voto a partir de aquellos asuntos en los que participe y delibere.
 
 En caso de que se advierta la ausencia de alguno de los miembros, se verificará que las convocatorias a dicha sesión se hayan formulado en los términos y plazos así previstos, asentándose lo anterior en el acta que se levante y se continuará con la sesión, si existe el quórum legal necesario. En caso contrario se levantará un acta que registre tal circunstancia.
 
-En caso de advertirse que no se envió en tiempo y forma, la convocatoria respectiva a cualquiera de los miembros con voz y voto del Comité, se levantará acta circunstanciada de lo anterior y se deberá convocar a una nueva sesión. Lo mismo ocurrirá en el caso de que no se remita la documentación completa de los asuntos a tratar, si así lo consideran los miembros del Comité.
+En caso de advertirse que no se envió en tiempo y forma la convocatoria respectiva a cualquiera de los miembros con voz y voto del Comité, se levantará acta circunstanciada de lo anterior y se deberá convocar a una nueva sesión. Lo mismo ocurrirá en el caso de que no se remita la documentación completa de los asuntos a tratar, si así lo consideran los miembros del Comité. En todo momento la Contraloría ejercerá las acciones correspondientes, debiendo exhortar y recomendar al convocante sobre el debido cumplimiento a este ordenamiento.
 
-En todo momento el Órgano de Control ejercerá las acciones correspondientes, debiendo exhortar y recomendar al convocante sobre el debido cumplimiento a este ordenamiento.
-
-En el caso de que alguno de los miembros con voz y voto del Comité, no asistiera a las sesiones por tres veces consecutivas o cinco alternadas durante un ejercicio fiscal sin que medie justificación alguna, se dejará constancia de lo anterior en el acta de la sesión respectiva donde se realice el cómputo y dará cuenta al Superior Jerárquico de dicho miembro, a efecto de que provea lo que corresponda. En el caso del observador, se informará oportunamente al Gobernador del Estado, para que se determine lo conducente.
+En el caso de que alguno de los miembros con voz y voto del Comité, no asistiera a las sesiones por tres veces consecutivas o cinco alternadas durante un ejercicio fiscal sin que medie justificación alguna, se dejará constancia de lo anterior en el acta de la sesión respectiva donde se realice el cómputo y dará cuenta al Presidente del Comité de dicho miembro, a efecto de que provea lo que corresponda. En el caso del observador, se informará oportunamente al Presidente del Comité, para que se determine lo conducente.
 
 Una vez verificado lo anterior y de ser procedente será declarado el quórum legal para sesionar y serán declarados válidos los acuerdos que se adopten.
 
-B. Lectura y aprobación del contenido del orden del día propuesto.
+B. Lectura y aprobación del contenido del orden del día propuesto. El Secretario Ejecutivo procederá a dar lectura a los asuntos propuestos en el orden del día, dado a conocer con anterioridad y someterá a votación su contenido para su aprobación.
 
-El Secretario Técnico, procederá a dar lectura a los asuntos propuestos en el orden del día, dado a conocer con anterioridad y someterá a votación su contenido para su aprobación.
+C. Lectura, aprobación y firma del acta de la sesión anterior. El Secretario Ejecutivo dará lectura al contenido del Proyecto del acta de sesión anterior, la que podrá ser dispensada por los miembros a solicitud del propio Secretario; en caso de existir observaciones, comentarios o rectificaciones al contenido de la misma se tomará debida nota de ellas. Las rectificaciones que se soliciten serán únicamente por omisiones, puntualizaciones o fallas que se adviertan en la redacción de la misma. Sin que sean procedentes rectificaciones o expresiones no expuestas en la sesión o que varíen el sentido de los votos emitidos o de documentos no conocidos en su oportunidad. En caso de que el tiempo lo permita se harán las correcciones en ese mismo momento o se dejará para una próxima sesión.
 
-C. Lectura, aprobación y firma del acta de la sesión anterior.
+D. Deliberación de los asuntos propuestos, para efectos de su aprobación. Los demás temas considerados deberán ser tratados en el orden en que fueron aprobados.
 
-El Secretario Técnico dará lectura al contenido del Proyecto del acta de sesión anterior, la que podrá ser dispensada por los miembros a solicitud del Secretario; en caso de existir observaciones, comentarios o rectificaciones al contenido de la misma se tomará debida nota de ellas. Las rectificaciones que se soliciten serán únicamente por omisiones, puntualizaciones o fallas que se adviertan en la redacción de la misma. Sin que sean procedentes rectificaciones o expresiones no expuestas en la sesión o que varíen el sentido de los votos emitidos o de documentos no conocidos en su oportunidad. En caso de que el tiempo lo permita se harán las correcciones en ese mismo momento o se dejará para una próxima sesión.
+En la exposición de cada asunto a tratar el Secretario Ejecutivo hará una exposición sucinta y sustantiva de cada uno de ellos; o bien, se concederá el uso de la palabra a alguno de los miembros o invitados en caso de que el asunto sea propuesto por alguno de ellos.
 
-D. Deliberación de los asuntos propuestos, para efectos de su aprobación.
+Acto seguido, se abrirá el tema a deliberaciones por parte de los miembros y, en su caso, invitados presentes, concediéndose el uso de la palabra en el orden solicitado. Dichas intervenciones deberán ser expuestas de manera clara, breve y con respeto. No serán atendibles los diálogos o planteamientos de temas o asuntos diversos al que se desahoga. El Secretario Ejecutivo moderará la intervención de cada participante.
 
-Los demás temas considerados, deberán ser tratados en el orden en que fueron aprobados.
+Concluida la valoración del tema a tratar así como las intervenciones de los miembros, se someterá a la consideración de sus integrantes con voz y voto el punto de acuerdo respectivo. Tomándose la votación económica correspondiente.
 
-En la exposición de cada asunto a tratar el Secretario Técnico hará una exposición sucinta y sustantiva de cada uno de ellos; o bien se concederá el uso de la palabra a alguno de los miembros o invitados en caso de que el asunto sea propuesto por alguno de ellos.
-
-Acto seguido, se abrirá el tema a deliberaciones por parte de los miembros y, en su caso, invitados presentes, concediéndose el uso de la palabra en el orden solicitado. Dichas intervenciones deberán ser expuestas de manera clara, breve y con respeto. No serán atendibles los diálogos o planteamientos de temas o asuntos diversos al que se desahoga. El representante de la Contraloría, podrá normar el tiempo de intervención de cada participante.
-
-Concluida la valoración del tema a tratar, así como las intervenciones de los miembros, se someterá a la consideración de sus integrantes con voz y voto el punto de acuerdo respectivo. Tomándose la votación económica correspondiente.
-
-Esta votación consistirá en la expresión de aprobación, rechazo o abstención del acuerdo propuesto, levantando para tal efecto su mano en dicho sentido. Las abstenciones serán dables siempre y cuando se sustente la misma, en cuyo caso corresponderá al representante de la Contraloría conminar a lo anterior; en caso de no estar sustentada y pese al exhorto del representante de la Contraloría, se asentará lo anterior en el acta respectiva y se dará vista al superior jerárquico de dicho miembro, para los efectos correspondientes.
+Esta votación consistirá en la expresión de aprobación, rechazo o abstención del acuerdo propuesto, levantando para tal efecto su mano en dicho sentido. Las abstenciones se expresarán junto con las razones que se estimen pertinentes por su emisor, lo que quedará de manifiesto en el acta respectiva. Corresponderá al representante de la Contraloría vigilar el cumplimiento de lo anterior.
 
 Los miembros e invitados del Comité, serán responsables de las expresiones o señalamientos que realicen.
 
-El Secretario Técnico hará el cómputo de la votación respectiva, indicando los votos aprobatorios, los votos en contra y las abstenciones emitidas.
+El Secretario Ejecutivo hará el cómputo de la votación respectiva, indicando los votos aprobatorios, los votos en contra y las abstenciones.
 
-El representante de la Contraloría, en todo momento, podrá hacer del conocimiento del Comité las consideraciones de hecho y derecho que advierta sobre la procedencia o improcedencia de alguno o todos los temas y demás documentos relacionados con la orden del día, en cuyo caso las observaciones y recomendaciones se harán constar en el acta respectiva. La inobservancia será sancionada en términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Los representantes de la Contraloría y de la Consejería Jurídica, en todo momento, podrán hacer del conocimiento del Comité las consideraciones de hecho y de derecho que advierta sobre la procedencia o improcedencia de alguno o todos los temas y demás documentos relacionados con el orden del día, en cuyo caso las observaciones y recomendaciones se harán constar en el acta respectiva. La inobservancia de lo anterior será sancionada en términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-En caso de que se advierta la necesidad de contar con autorizaciones, dictámenes, consultas o cualquier otro requisito previo y antes de emitir votación en cualquier sentido, el Comité pospondrá el tema a tratar para una próxima sesión que podrá ser extraordinaria, una vez que se obtengan los documentos faltantes y/o se cubran tales requisitos faltantes. Siendo improcedente formular votos condicionados. Ello con la finalidad de dar certeza de la legalidad de sus resoluciones.
+En caso de que se advierta la necesidad de contar con autorizaciones, dictámenes, consultas o cualquier otro requisito previo y antes de emitir votación en cualquier sentido, el Comité pospondrá el tema a tratar para una próxima sesión que podrá ser extraordinaria, una vez que se obtengan los documentos faltantes o se cubran tales requisitos omitidos. Siendo improcedente formular votos condicionados. Ello con la finalidad de dar certeza de la legalidad de sus resoluciones.
 
 Los asuntos relacionados con solicitudes de excepción a la licitación pública que se sometan a consideración del Comité, deberán presentarse en el formato que el Comité considere conveniente, el cual invariablemente deberá contener, como mínimo lo siguiente:
 
 1. La información resumida del asunto que se propone sea analizado, o bien, la descripción genérica de los bienes o servicios que se pretendan adquirir, arrendar o contratar, así como su monto estimado;
 
-2. La justificación y la fundamentación para llevar a cabo el procedimiento de contratación, de conformidad con lo establecido en el segundo párrafo del artículo 50 de la Ley; los términos y condiciones del contrato, en su caso, si la contratación se encuentra sujeta o no a los tratados, así como las condiciones de entrega y pago;
+2. La justificación y la fundamentación para llevar a cabo el procedimiento de contratación, de conformidad con lo establecido en el segundo párrafo del artículo 50 de la Ley;
 
-3. La relación de la documentación soporte que se adjunte para cada asunto, la requisición o solicitud de contratación, y la que acredite la existencia de suficiencia presupuestaria, y
+3. Determinar y especificar los términos y condiciones del contrato, así como las condiciones de la adquisición o prestación de servicios de que se trate, incluyendo las formas de entrega y condiciones de pago;
 
-4. El formato deberá estar firmado por el titular del área usuaria, responsabilizándose del contenido, veracidad y autenticidad de la información proporcionada.
+4. La relación de la documentación soporte que se adjunte para cada asunto, la requisición o solicitud de contratación, y la que acredite la existencia de suficiencia presupuestaria, y
+
+5. El formato deberá estar firmado por el titular del área solicitante, responsabilizándose de que el contenido cuente con la información completa, la veracidad y la autenticidad de la información proporcionada, debiéndose anexar la documentación que sustente la solicitud en cada uno de sus puntos.
 
 Las especificaciones y justificaciones técnicas serán firmadas por el titular del área competente.
 
-E. Seguimiento de acuerdos.
+E. Seguimiento de acuerdos. El Secretario Ejecutivo informará del seguimiento realizado a los acuerdos adoptados por el Comité en sesiones anteriores, para que éste adopte las medidas pertinentes para su conclusión o cumplimiento.
 
-El Secretario Técnico informará del seguimiento realizado a los acuerdos adoptados por el Comité en sesiones anteriores, para que éste adopte las medidas pertinentes para su conclusión o cumplimiento.
+F. Asuntos generales. Una vez deliberados los asuntos del orden del día que ameriten votación, se continuará con los asuntos generales, que versarán exclusivamente sobre puntos de carácter informativo, así como asuntos propuestos para una próxima sesión, entre otros, que no ameriten deliberación y votación. No será dable incluir asuntos generales en las sesiones extraordinarias, por la naturaleza de las mismas.
 
-F. Asuntos generales.
+En ningún caso se insertarán en este apartado, temas o particularidades del Comité que se deban conocer con oportunidad, en los términos de la Ley.
 
-Una vez deliberados los asuntos del orden del día que ameriten votación, se continuará con los asuntos generales, que versarán exclusivamente sobre puntos de carácter informativo, así como asuntos propuestos para una próxima sesión, entre otros, que no ameriten deliberación y votación. No será dable incluir asuntos generales en las sesiones extraordinarias, por la naturaleza de las mismas.
+G. Entrega de copias del acta de la sesión anterior. La copia del acta de la sesión anterior, ya sea ordinaria o extraordinaria debidamente firmada, deberá ser integrada en la carpeta de la siguiente sesión.
 
-En ningún caso se insertarán en este apartado, temas o particularidades del Comité que se deban conocer con oportunidad, en los términos de esta Ley.
+Una vez desahogados los puntos del orden del día, se informará al Presidente del Comité de lo anterior y se procederá a clausurar la misma, asentándose el lugar, fecha y hora en que ésta concluye.
 
-G. Entrega de copias del acta de la sesión anterior.
+Las actas que se levanten de las sesiones deberán contener todos los temas desahogados en ellas asentándose el sentido de los acuerdos tomados por los miembros con derecho a voto y, los comentarios relevantes de cada asunto y ser acorde con todo lo antes señalado, realizándose las anotaciones solicitadas en éstas y, en su caso, por autorización del Comité, se omitirán las deliberaciones de las mismas.
 
-La copia del acta de la sesión anterior, ya sea ordinaria o extraordinaria debidamente firmada, deberá ser integrada en la carpeta de la siguiente reunión.
+H. Apéndice del Acta. Estará conformado por los siguientes documentos: descripción de la convocatoria, orden del día, lista de asistencia, documentos de cada punto a tratar, oficios, autorizaciones y demás documentos necesarios y que hayan sido presentados ante el Comité. Los que se foliarán de manera progresiva, y quedarán en resguardo del Secretario Ejecutivo.
 
-Una vez desahogados los puntos del orden del día, se informará al Presidente de lo anterior y se procederá a clausurar la misma, asentándose el lugar, fecha y hora en que ésta concluye.
-
-Las actas que se levanten de las sesiones deberán contener todos los temas desahogados en ellas y ser acorde con todo lo antes señalado, realizándose las anotaciones solicitadas en éstas y, en su caso, por autorización del Comité, se omitirán las deliberaciones de las mismas.
-
-H. Apéndice del Acta.
-
-Estará conformado por los siguientes documentos: descripción de la convocatoria, orden del día, lista de asistencia, documentos de cada punto a tratar, oficios, autorizaciones y demás documentos necesarios y que hayan sido presentados ante el Comité. Los que se foliarán de manera progresiva.
-
-Las actas que se levanten deberán ser claras y se ocuparán ambas caras de las hojas utilizadas, su redacción será a renglón seguido, citando con número y letra los datos y cifras que se inserten, así como nombre y cargos completos de los participantes; no deberán contener enmendaduras ni tachaduras, y debe utilizarse la fe de erratas cuando se pretenda salvar un renglón en su redacción. Deben firmarse por todos y cada uno de los que participaron en ella con la calidad de miembros o invitados, en todas sus páginas. La ausencia de firma de alguno de los invitados, no invalidará el contenido y alcance de las mismas.
+Las actas que se levanten deberán ser claras y se ocuparán ambas caras de las hojas utilizadas, su redacción será a renglón seguido, citando con número y letra los datos y cifras que se inserten, así como nombre y cargos completos de los participantes; no deberán contener enmendaduras ni tachaduras, y debe utilizarse la fe de erratas cuando se pretenda rectificar su redacción. Deben firmarse por todos y cada uno de los que participaron en ella con la calidad de miembros o invitados, en todas sus páginas. La ausencia de firma de alguno de los invitados, no invalidará el contenido y alcance de las mismas.
 
 Una vez firmadas y clasificadas en ordinarias y extraordinarias, se foliarán en orden progresivo, de manera que se forme un solo legajo de todas aquellas que fueron emitidas durante el curso del ejercicio fiscal.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 18.
 
-El informe del seguimiento de los acuerdos dictaminados por el Comité, lo suscribirá y presentará el Secretario Técnico, en las reuniones ordinarias mensuales.
+El informe del seguimiento de los acuerdos dictaminados por el Comité, lo suscribirá y presentará el Secretario Ejecutivo, en cada sesión ordinaria.
 
 ###### Artículo 19.
 
@@ -383,71 +391,165 @@ II. No deberán someterse a consideración del Comité, los procedimientos de co
 
 ### Capítulo Tercero. De los Subcomités para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 20.
 
-La integración de los subcomités se sujetará a lo siguiente:
+La integración de los Subcomités se sujetará a lo siguiente:
 
-I. Presidente: La persona titular de la Dependencia o Entidad correspondiente;
+I. Para la Administración Pública Central:
 
-II. Secretario Técnico: La persona titular de la Coordinación Administrativa o equivalente;
+a. Un Presidente: que será el Secretario Ejecutivo del Comité;
 
-III. Representante del Comité: La persona titular de la Unidad Administrativa encargada de las adquisiciones y patrimonio del Poder Ejecutivo;
+b. Un Secretario Técnico: que será nombrado por el Presidente del Subcomité de entre alguno de los vocales;
 
-IV. Vocales: Tres personas titulares de las Unidades Administrativas que conformen la Dependencia o Entidad, designados permanentemente por el Presidente.
+c. Vocales: un vocal designado por el Presidente del Comité; un vocal designado por la Secretaría de Hacienda; un vocal designado por la Secretaría de Administración, y un vocal designado por el Presidente del Subcomité, e
 
-Todos los integrantes del subcomité tendrán voz y voto y podrán designar por escrito a sus respectivos suplentes, los que deberán tener el nivel jerárquico inmediato inferior y sólo podrán participar en ausencia del titular.
+d. Invitados permanentes: un representante de la Contraloría, un representante de la Consejería Jurídica, designados en su caso por el titular de las mismas;
 
-Tendrán el carácter de invitados permanentes: el Órgano Interno de Control de la Dependencia o Entidad, asesores y demás servidores públicos que el subcomité considere necesaria su participación, quienes tendrán únicamente derecho a voz.
+II. Para las Entidades:
 
-Para el funcionamiento y desahogo de las sesiones de los subcomités, se observará en lo que corresponda y resulte aplicable, las disposiciones previstas en los artículos 13, 16 y 19 de éste Reglamento.
+a. Un Presidente: la persona titular de la Entidad;
 
-Los subcomités deberán programar adecuadamente sus reuniones ordinarias mensualmente, considerando el calendario que para tal efecto emita el Comité, de forma tal que éstos remitan en tiempo y forma los asuntos que pretendan incluir en las sesiones de dicho Comité.
+b. Un Secretario Técnico: la persona titular de la Unidad Administrativa o su equivalente;
 
-Para el caso de las sesiones extraordinarias, estas deberán llevarse a cabo, solo cuando las circunstancias o los asuntos que pretendan someter, sean debidamente justificados y se requiera la inmediata atención. De igual forma y dada la naturaleza de la sesión, no podrá modificarse el orden del día.
+c. Un Representante del Comité: que será el Secretario Ejecutivo;
 
-El contenido y veracidad de la información y documentación que se someta a la consideración del subcomité, será de la exclusiva responsabilidad del área convocante o de quien las formule.
+d. Dos Vocales: que serán las personas titulares de las Unidades Administrativas que conforman la Entidad, designados permanentemente por el Presidente, e
+
+e. Invitados permanentes: las personas titulares del órgano de control interno y del área de asesoría jurídica de la Entidad de que se trate.
+
+Todos los integrantes de los Subcomités tendrán voz y voto con excepción de los invitados permanentes quienes solo tendrán derecho a voz, podrán designar por escrito a sus respectivos suplentes, los que deberán tener el nivel jerárquico inmediato inferior.
+
+Para el funcionamiento y desahogo de las sesiones de los Subcomités se observarán en lo aplicable, las disposiciones previstas en los artículos 13, 16 y 19 de este Reglamento.
+
+Los Subcomités deberán programar adecuadamente sus sesiones ordinarias mensualmente, considerando el calendario que para tal efecto emita el Comité, de forma tal que éstos remitan en tiempo y forma los asuntos que pretendan incluir en las sesiones de aquél.
+
+Para el caso de las sesiones extraordinarias, estas deberán llevarse a cabo por los Subcomités, sólo cuando las circunstancias o los asuntos que pretendan someter, estén debidamente justificados y se requiera la inmediata atención. De igual forma y dada la naturaleza de la sesión, no podrá modificarse el orden del día. El contenido y veracidad de la información y documentación que se someta a consideración del Subcomité, será de la exclusiva responsabilidad de la convocante o de quien las formule.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
 
 ###### Artículo 21.
 
-Los subcomités, tendrán las siguientes funciones:
+Los Subcomités tendrán las siguientes funciones:
 
 I. Conocer y difundir el programa anual de adquisiciones, arrendamientos y servicios de la Dependencia o Entidad de que se trate;
 
-II. Ser un órgano colegiado operativo, de revisión e integración de documentos de aquellos asuntos sometidos a la competencia del Comité, por tanto, deberán revisar la correcta integración y elaboración de las bases de Licitación Pública, anexos técnicos, excepciones y demás documentos necesarios para efectos de su envío al Comité;
+II. Ser un órgano colegiado operativo, de revisión e integración de documentos y seguimiento de aquellos asuntos sometidos a la competencia del Comité;
 
-III. Analizar la procedencia de someter al Comité, las excepciones a Licitación Pública, en los supuestos previstos en el artículo 51 de la Ley, siempre que se integre correcta y adecuadamente la información que las sustente;
+III. Coadyuvar con la Secretaría de Administración, en el análisis e integración del programa anual de adquisiciones, arrendamientos y servicios de la Administración Pública Central e integrar el correspondiente a las Entidades, para que por conducto del Secretario Técnico del Comité, sea sometido a aprobación por el Comité para la consolidación correspondiente a que se refiere la Ley;
 
-IV. Revisar la correcta integración de documentos e información que respalde los asuntos que serán sometidos al Comité, y
+IV. Informar al Comité durante el mes de enero las modificaciones al programa anual de adquisiciones, arrendamientos y servicios conforme a lo dispuesto por el artículo 12 del presente Reglamento;
 
-V. En general poner en estado de resolución, los asuntos que por razón de competencia deba autorizar el Comité.
+V. Analizar, elaborar y someter al Comité, las excepciones a Licitación Pública, en términos de lo dispuesto por el artículo 51 de la Ley;
+
+VI. Revisar la correcta integración de documentos e información que respalde los asuntos que serán sometidos al Comité;
+
+VII. Evaluar e informar al Secretario Ejecutivo, trimestralmente, el avance y desarrollo del programa anual de adquisiciones, arrendamientos y servicios;
+
+VIII. Ejecutar y dar seguimiento a los acuerdos y demás disposiciones que emita el Comité;
+
+IX. Remitir al Secretario Ejecutivo, trimestralmente, un informe detallado sobre las adquisiciones, arrendamientos y servicios, que se hubieren efectuado, al amparo del artículo 50 de la Ley;
+
+X. Aplicar, difundir y vigilar el cumplimiento de la Ley, el presente Reglamento y demás disposiciones aplicables;
+
+XI. Poner en estado de resolución los asuntos que por razón de competencia deba autorizar el Comité, y
+
+XII. Las demás que les confieran las disposiciones aplicables.
+
+El informe que se remita al Comité a que se refieren las fracciones IV y IX del presente artículo, no exime de las responsabilidades respecto de los actos que hayan generado al interior del propio Comité.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2014)</small>
+
+## Título Segundo
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2014)</small>
+
+### Capítulo Cuarto. Del Padrón Único de Proveedores
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2014)</small>
+
+Artículo 21 bis.- Conforme a lo establecido en el artículo 30 de la Ley, la Oficialía es la única facultada para organizar y mantener actualizado el Padrón Único de Proveedores, el cual tendrá las finalidades:
+
+I. Estar disponible en todo momento para la consulta de las Dependencias y Entidades;
+
+II. Incrementar la actividad estadística y de investigación de mercado que realice la convocante;
+
+III. Mantener actualizados los datos de los proveedores registrados a efecto de garantizar a las Dependencias y Entidades certeza en la información ahí contenida, y
+
+IV. Refrendar anualmente a los proveedores registrados, con el objetivo de mantener un padrón actualizado.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2014)</small>
+
+Artículo 21 ter.- Para su registro los proveedores interesados deberán acreditar ante la Oficialía, en su caso, su constitución jurídica, nacionalidad y régimen fiscal así como su personalidad y capacidad jurídicas, a través de los documentos que den certeza de ello. En caso de que se encuentren inscritos en el Registro Único de Personas Acreditadas de la Comisión Estatal de Mejora Regulatoria, bastará con hacer el señalamiento de su registro.
+
+Los proveedores que ofrezcan bienes o prestación de servicios que no se encuentren registrados en el Padrón Único de Proveedores, serán invitados por la Unidad a cargo de los procesos de adjudicación de contratos del Poder Ejecutivo para que se inscriban en el mismo; sin embargo, no será condicionante estar registrado para cotizar o proveer al Poder Ejecutivo Estatal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2014)</small>
+
+### Capítulo Primero. De la Investigación de Mercado
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2014)</small>
+
+Artículo 21 quáter.- La investigación de mercado corresponde exclusivamente a la convocante y tendrá como propósito:
+
+I. Verificar y dar certeza de la existencia de oferta de bienes y servicios en la cantidad, calidad y oportunidad requeridas por las mismas;
+
+II. Verificar y dar certeza de la existencia de proveedores a nivel nacional o internacional con posibilidad de cumplir con sus necesidades de contratación;
+
+III. Determinar el precio estimado que prevalece sobre los bienes, arrendamientos o servicios requeridos, al momento de llevar a cabo la investigación, y
+
+IV. Vigilar que se están otorgando las mejores condiciones de calidad, precio y servicio para el Poder Ejecutivo Estatal, sus Dependencias y Entidades.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2014)</small>
+
+Artículo 21 quinquies.- La investigación de mercado se utilizará para:
+
+I. Sustentar la procedencia de agrupar varios bienes o servicios en una sola partida;
+
+II. Fijar el precio conveniente conforme al cual se realizará la contratación correspondiente;
+
+III. Establecer precios máximos de referencia de bienes, arrendamientos o servicios;
+
+IV. Determinar si existen bienes o servicios alternativos o sustitutos técnicamente razonables;
+
+V. Elegir el procedimiento legal de contratación que podrá llevarse a cabo, y
+
+VI. Asegurar al Poder Ejecutivo Estatal que las adquisiciones, arrendamientos y prestación de servicios, se realicen en las mejores condiciones de cantidad, calidad, oportunidad y precio.
+
+La investigación de mercado se efectuará considerando las mismas condiciones en cuanto a los plazos y lugares de entrega de los bienes o de la prestación de los servicios; la moneda a cotizar; la forma y términos de pago; las características técnicas de los bienes o servicios, y las demás circunstancias que resulten aplicables y que permitan la comparación objetiva entre bienes o servicios iguales o de la misma naturaleza.
+
+El estudio de mercado lo realizará la Unidad a cargo de los procesos de adjudicación de contratos del Poder Ejecutivo. Dicho estudio deberá realizarse con la anticipación que permita conocer las condiciones que imperan en el mercado al momento de iniciar el procedimiento de contratación que corresponda. Así mismo, la investigación de mercado y su resultado deberán documentarse e integrarse al expediente de contratación correspondiente y será la base para iniciar los procedimientos.
+
+La vigencia de la investigación de mercado deberá de ser de treinta días naturales previo a la aprobación del inicio del procedimiento o acto que corresponda.
+
+(REUBICADO, P.O. 29 DE ENERO DE 2014)
 
 ## Título Tercero. De los Procedimientos de Contratación
 
-### Capítulo Primero. De la Licitación Pública
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE ENERO DE 2014)</small>
 
-### Capítulo Segundo. De las Excepciones a la Licitación Pública
+### Capítulo Segundo. De la Licitación Pública
 
-## Título Cuarto. De los Contratos
-
-### Capítulo Único
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
 
 ###### Artículo 22.
 
-Para determinar el carácter internacional de una licitación pública, cuando se opte por ésta en términos del artículo 38, fracción II, inciso b) de la Ley, deberá considerarse lo siguiente:
+Para determinar el carácter internacional de una licitación pública, en términos del artículo 38, fracción II, inciso b) de la Ley, deberá considerarse lo siguiente:
 
-I. Para demostrar la inexistencia de oferta de proveedores nacionales respecto de bienes en la cantidad o calidad requeridas, el área solicitante en coordinación con la convocante, deberá utilizar cualquiera de las siguientes metodologías:
+I. Para demostrar la inexistencia de oferta de proveedores nacionales respecto de bienes en la cantidad o calidad requeridas, la convocante deberá utilizar cualquiera de las siguientes metodologías:
 
-a) Análisis de información de la que se advierta que, habiendo celebrado por lo menos un procedimiento de licitación pública nacional, en un lapso no mayor a doce meses anteriores a la fecha de investigación, sólo se hayan presentado propuestas que no cubrieron los requisitos técnicos solicitados;
+a) Análisis de información de la que se advierta que, habiendo celebrado por lo menos un procedimiento de licitación pública nacional, en un lapso no mayor a doce meses anteriores a la fecha de la investigación de mercado, sólo se hayan presentado propuestas que no cubrieron los requisitos técnicos solicitados;
 
-b) Análisis de información de la que se desprenda que los productos nacionales no satisfacen adecuadamente las necesidades para las que son requeridos, debiendo acreditarse las deficiencias de calidad; o
+b) Análisis de información de la que se desprenda que los productos nacionales no satisfacen adecuadamente las necesidades para las que son requeridos, debiendo acreditarse las deficiencias de calidad, o
 
-c) Análisis de la información del mercado, que podrá incluir la de las cámaras, asociaciones, agrupaciones industriales o comerciales representativas del ramo correspondiente, por la que se determine si existe al menos un proveedor nacional y, en su caso, si éste puede cumplir en términos de cantidad y calidad requeridas por la convocante.
+c) Análisis de la información de la investigación de mercado, que podrá incluir la de las cámaras, asociaciones, agrupaciones industriales o comerciales representativas del ramo correspondiente, por la que se determine si existe al menos un proveedor nacional y, en su caso, si éste puede cumplir en términos de cantidad y calidad requeridas por el área requirente;
 
 II. En caso de que existan en el mercado bienes nacionales, conforme al análisis a que alude el inciso c) de la fracción anterior, se podrá determinar si el precio nacional es conveniente o no, para lo cual se utilizará al menos una de las siguientes metodologías:
 
-a) Comparación de los precios en el mercado nacional prevalecientes al menos con un año de anterioridad a la fecha de realización del estudio, con los precios de los mismos bienes producidos y ofrecidos en el extranjero durante el mismo período. Dicha comparación deberá hacerse al menos recabando los precios de dos proveedores extranjeros, preferentemente fabricantes, y bajo condiciones de entrega con destino final en territorio mexicano y pago de impuestos. Si los precios no corresponden a fabricantes, deberá señalarse la razón de ello;
+a) Comparación de los precios en el mercado nacional prevalecientes al menos con un año de anterioridad a la fecha de realización de la investigación de mercado, con los precios de los mismos bienes producidos y ofrecidos en el extranjero durante el mismo período. Dicha comparación deberá hacerse al menos recabando los precios de dos proveedores extranjeros, preferentemente fabricantes, y bajo condiciones de entrega con destino final en territorio mexicano y pago de impuestos. Si los precios no corresponden a fabricantes, deberá señalarse la razón de ello;
 
-b) Comparación del precio del bien en México, en un lapso no mayor a doce meses, anteriores a la fecha de realización del estudio de comparación, con el que en el mismo período la propia contratante u otras Dependencias o Entidades hayan adquirido el bien de las mismas características en el extranjero, o
+b) Comparación del precio del bien en México, en un lapso no mayor a doce meses, anteriores a la fecha de realización de la investigación de comparación, con el que en el mismo período la propia contratante u otras Dependencias o Entidades hayan adquirido el bien de las mismas características en el extranjero, o
 
 c) Comparación del precio nacional con el que resulte de realizar las actualizaciones correspondientes conforme a las publicaciones de índices o referencias de precios internacionales.
 
@@ -457,11 +559,13 @@ En función de los resultados obtenidos, se determinará el carácter internacio
 
 Las metodologías descritas en este artículo podrán aplicarse a la contratación de servicios.
 
-El análisis y determinación que resulte de la aplicación de cualquiera de las metodologías, deberá realizarse previo a la difusión de las bases, o en su caso, al inicio de la licitación internacional, y deberá ser firmada por la convocante, a través de la persona titular de la Unidad Administrativa de las adquisiciones y patrimonio y por el titular del área solicitante o quien éste delegue, cuando intervenga en la realización del estudio a que se refiere este artículo.
+El análisis y determinación que resulte de la aplicación de cualquiera de las metodologías, deberá realizarse previo a la difusión de las bases, o en su caso, al inicio de la licitación internacional, y deberá ser firmada por la convocante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2014)</small>
 
 ###### Artículo 23.
 
-El área solicitante en coordinación con la convocante, deberán consultar en los casos de Licitaciones Internacionales, previstas en el artículo 38, fracción II de la Ley, la lista de los bienes, que publica la Secretaría de Economía para vigilar que sus precios no se coticen en condiciones de prácticas desleales de comercio.
+La convocante, deberá consultar en los casos de licitaciones internacionales, previstas en el artículo 38, fracción II, de la Ley, la lista de los bienes que publica la Secretaría de Economía o las instancias competentes, para vigilar que sus precios no se coticen en condiciones de prácticas desleales de comercio.
 
 Cuando a través de una licitación internacional se pretenda adquirir algún bien que se encuentre relacionado en la lista aludida, deberán establecer en las bases de licitación, como requisito para los licitantes la presentación junto con su propuesta, de un escrito en el que manifiesten, bajo protesta de decir verdad, de que los precios de su propuesta no se cotizan en condiciones de prácticas desleales de comercio internacional en su modalidad de discriminación de precio o subsidios.
 
@@ -470,6 +574,10 @@ En el citado escrito el licitante señalará el precio promedio de su bien puest
 ###### Artículo 24.
 
 Las convocatorias y en su caso sus modificaciones, serán publicadas en el Periódico Oficial, en un periódico de circulación local y a juicio de la convocante, en los medios electrónicos generados para tal efecto; se publicarán por una sola ocasión, por lo que no podrá autorizarse alguna otra publicación o difusión por otros medios.
+
+> <small>(REFORMADO [N. DE ADICIONADO], P.O. 29 DE ENERO DE 2014)</small>
+
+El área requirente cubrirá, con cargo a su presupuesto, los gastos de la convocatoria, los estudios de laboratorio, las investigaciones y, en general, todas las erogaciones relacionadas con el procedimiento administrativo para la adjudicación del contrato.
 
 ###### Artículo 25.
 
@@ -481,7 +589,9 @@ El pago se hará en la forma y en el lugar indicado en la convocatoria. A todo i
 
 En las bases de las licitaciones públicas e invitaciones a cuando menos tres personas, de carácter nacional, que para la adquisición de bienes se emitan, deberá incluirse como requisito, la presentación junto con la proposición, de un escrito bajo protesta de decir verdad, en el que manifieste el licitante que es de nacionalidad mexicana y que la totalidad de los bienes que oferta y entregará, son producidos en México y tendrán un grado de contenido nacional de por lo menos el cincuenta por ciento, o el correspondiente a los casos de excepción autorizados por el Gobierno Federal.
 
-En dicho escrito, el licitante y el fabricante, según sea el caso, deberán manifestar bajo protesta de decir verdad, que proporcionarán en caso de que se les requiera, la información necesaria que permita verificar que los bienes ofertados cumplen con el grado de contenido nacional.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
+En dicho escrito, el licitante y el fabricante, según corresponda, deberán manifestar bajo protesta de decir verdad, que proporcionarán en caso de que se les requiera, la información necesaria que permita verificar que los bienes ofertados cumplen con el grado de contenido nacional.
 
 De no proporcionarse dicha información, se considerará que los bienes objeto de la verificación y ofertados no cumplen con el grado de contenido nacional solicitado en las bases, para efectos de las sanciones previstas en la Ley.
 
@@ -493,7 +603,9 @@ I. Experiencia superior a un año, salvo en los casos debidamente justificados q
 
 II. Haber celebrado contratos anteriores con la convocante, salvo en los casos debidamente justificados que exponga, el área solicitante, indicando las causas que la motiven;
 
-III. Capitales contables, salvo cuando se cuente con petición del área solicitante, los que en este caso no podrán ser superiores al veinte por ciento del monto total de la oferta de cada licitante, debiéndose indicar en las bases de licitación la finalidad de éste requisito. La comprobación se realizará con la última declaración ante la Secretaría de Hacienda y Crédito Público, o en su caso a opción de la convocante, mediante estados financieros auditados, sólo para este efecto; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
+III. Capitales contables, salvo que el Subcomité lo considere necesario, los que en ese caso no podrán ser superiores al veinte por ciento del monto total de la oferta de cada licitante, debiéndose indicar en las bases de licitación la finalidad de éste requisito. La comprobación se realizará con la última declaración ante la Secretaría de Hacienda y Crédito Público o, en su caso a opción de la convocante mediante estados financieros auditados sólo para este efecto, y
 
 IV. Contar con sucursales o representantes regionales o estatales, salvo que resulte necesario para proveer los bienes o prestar los servicios en los términos requeridos.
 
@@ -511,13 +623,17 @@ III. Precisar que será requisito, que los licitantes entreguen junto con el sob
 
 IV. Si para verificar el cumplimiento de las especificaciones solicitadas se requiere de la realización de pruebas, se precisará el método para ejecutarlas y el resultado mínimo que deba obtenerse, de acuerdo con la Ley Federal sobre Metrología y Normalización;
 
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
 V. Podrán establecer el agrupamiento de varios bienes o servicios en una sola partida, siempre y cuando no se limite la libre participación de cualquier interesado.
 
-Se entenderá que no se limita la libre participación, cuando previa investigación de mercado se advierta la existencia de al menos tres probables proveedores que pudieran cumplir integralmente con los requerimientos de la convocante;
+Se entenderá que no se limita la libre participación, cuando previa investigación de mercado se advierta la existencia de al menos cinco probables proveedores que pudieran cumplir integralmente con los requerimientos de la convocante;
 
 VI. Precisar que será requisito, el que los licitantes presenten una declaración de integridad, en la que manifiesten que por sí mismos o a través de interpósita persona, que se abstendrán de adoptar conductas con el objeto de que los servidores públicos, induzcan o alteren las evaluaciones de las propuestas, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes, que constituyan violaciones a la Ley o e (sic) éste Reglamento o que constituyan algún delito;
 
-VII. Establecer que el proveedor será el responsable de entregar los bienes dentro del Estado, en los lugares y fechas que le indique la convocante y deberá estar presente un representante del área que reciba los bienes;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
+VII. Establecer que el proveedor será el responsable de entregar los bienes dentro del Estado, en los lugares y fechas que le indique la convocante y deberá estar presente un representante del área requirente que reciba los bienes;
 
 VIII. Precisar que recibidas las proposiciones en la fecha, hora y lugar establecidos, éstas no podrán ser retiradas o dejarse sin efecto, por lo que deberán considerarse vigentes dentro del procedimiento de licitación hasta su conclusión;
 
@@ -534,6 +650,14 @@ Los escritos o manifiestos bajo protesta de decir verdad, que se soliciten como 
 La convocante verificará que dichos documentos cumplan con los requisitos solicitados, sin que resulte necesario verificar la veracidad o autenticidad de lo en ellos indicado, para continuar con el procedimiento.
 
 Conforme a lo anterior, aún y cuando existan denuncias o presunción de falsedad, no deberá desecharse la propuesta y se continuará con el procedimiento; y el hecho se hará del conocimiento de la Contraloría. Si la persona de que se trate resulta adjudicataria del contrato y previo a la formalización del mismo, se determina la falsedad por la autoridad facultada, la convocante deberá abstenerse de formalizar el contrato correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2014)</small>
+
+Para efectos de lo señalado en la fracción II del artículo 40 de la Ley, será responsabilidad del área requirente determinar, de manera específica, las características de los bienes y servicios que requieran adquirir o contratar, de tal forma que permitan a la convocante evaluar de forma práctica y simple las propuestas técnicas que presenten los licitantes. Cualquier deficiencia será en perjuicio del área solicitante.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2014)</small>
+
+La convocante elaborará el proyecto de bases que serán remitidas al Subcomité para la validación correspondiente. Podrá incluso modificarlas si advierte que éstas no garantizan condiciones de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
 ###### Artículo 29.
 
@@ -559,9 +683,11 @@ En el supuesto de que resulte adjudicada una propuesta conjunta, el convenio o c
 
 Cuando existan causas justificadas para no aceptar la presentación de proposiciones conjuntas, se requerirá la petición del área solicitante en la cual deberán precisarse las razones y justificaciones para ello, particularmente los aspectos relativos a que con tal determinación no se limita la libre participación.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 30.
 
-Los anticipos que se otorguen deberán amortizarse proporcionalmente en cada uno de los pagos; su garantía deberá constituirse en la misma moneda en la que se otorgue el anticipo de acuerdo a las disposiciones legales aplicables, la que subsistirá hasta su total amortización. Lo anterior deberá establecerse en las bases de licitación y en los contratos respectivos.
+Los anticipos que se otorguen deberán amortizar totalmente en cada uno de los pagos; su garantía deberá constituirse en la misma moneda en la que se otorgue el anticipo de acuerdo a las disposiciones legales aplicables, la que subsistirá hasta su total amortización. Lo anterior deberá establecerse en las bases de licitación y en los contratos respectivos.
 
 ###### Artículo 31.
 
@@ -573,11 +699,15 @@ El día de publicación de la convocatoria será el primer día para el cómputo
 
 La integración del jurado para los eventos de Licitación, señalado en el artículo 41 de la Ley, será de la siguiente forma:
 
-I.- El representante del Comité, será la persona titular del área de Adquisiciones y patrimonio de la Oficialía, o la persona que éste designe;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
+I. El representante del Comité, será su Secretario Técnico o la persona que éste designe;
 
 II.- El representante de la Secretaría de la Contraloría;
 
-III.- Un representante del área solicitante, quien deberá tener como mínimo nivel de Director General, y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
+III. Un representante del área solicitante, quien deberá tener como mínimo nivel de Director General, asistido por el representante de su área requirente, y
 
 IV.- Un representante de la Consejería Jurídica.
 
@@ -585,7 +715,9 @@ Fungirán como integrantes permanentes del jurando en las Licitaciones.
 
 Serán responsables de que los eventos de Licitación se desarrollen en los términos y condiciones previstos en la Ley, el presente Reglamento y los señalados en las bases.
 
-El representante del Comité será el encargado de dirigir el evento y llevar el orden cronológico del mismo, para el caso de las Licitaciones convocadas por la Oficialía. Para el caso de las Licitaciones convocadas por las Entidades, fungirá como integrante del jurado y será el área convocante, la que dirija el evento.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
+El representante del Comité será el encargado de dirigir el evento y llevar el orden cronológico del mismo. Para el caso de las Licitaciones convocadas por las Entidades, fungirá como integrante del jurado y será la convocante quien dirija el evento.
 
 El representante de la Secretaría de la Contraloría será el encargado de vigilar que los actos se desarrollen sin que existan irregularidades en los mismos y se observen los principios generales de derecho, así como las demás facultades conferidas en la Ley y el presente Reglamento.
 
@@ -595,19 +727,21 @@ El representante de la Consejería Jurídica, fungirá como Asesor Jurídico en 
 
 Las faltas e inasistencias de los servidores públicos que integran el jurado, a las Licitaciones, serán sancionadas y observadas por la Secretaría de la Contraloría, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 33.
 
 La convocante deberá celebrar las juntas de aclaraciones que considere necesarias, atendiendo a las características de los bienes y servicios objeto de la licitación, siendo obligatorio celebrar por lo menos una. En ellas solamente podrán solicitar aclaraciones las personas que hayan adquirido las bases correspondientes, lo cual deberá acreditarse con copia del comprobante de pago de las mismas; en caso contrario se les permitirá su asistencia, sin poder formular preguntas y únicamente como observadores.
 
-La asistencia a la junta de aclaraciones es optativa para los licitantes, para lo cual podrán plantear por escrito, o a través de los medios electrónicos que se hayan previsto en las bases de licitación, sus dudas o cuestionamientos sobre la convocatoria, las bases de licitación, o la propia junta de aclaraciones. La convocante con el apoyo del área solicitante, está obligada a resolver las dudas y planteamientos en forma clara y precisa. La convocante a su juicio, podrá realizar las aclaraciones que estime pertinentes. Al concluir cada junta de aclaraciones y sólo si así lo considera necesario la convocante, podrá señalar la fecha y hora para la celebración de ulteriores juntas.
+La asistencia a la junta de aclaraciones es optativa para los licitantes, para lo cual podrán plantear por escrito, o a través de los medios electrónicos que se hayan previsto en las bases de licitación, sus dudas o cuestionamientos sobre la convocatoria, las bases de licitación, o la propia junta de aclaraciones. La convocante y el área requirente, están obligadas a resolver las dudas y planteamientos en forma clara y precisa. La convocante a su juicio, podrá realizar las aclaraciones que estime pertinentes. Al concluir cada junta de aclaraciones y sólo si así lo considera necesario la convocante, podrá señalar la fecha y hora para la celebración de ulteriores juntas. La presencia de la convocante asistida por el representante del área requirente, será obligatoria en la junta de aclaraciones quien dará atención a todos los cuestionamientos de los licitantes.
 
 Únicamente se harán constar en el acta que se levante para tal efecto, los cuestionamientos formulados por los interesados en tiempo y forma y las respuestas otorgadas, la que contendrá la firma de los asistentes.
 
-Las preguntas recibidas con posterioridad al último día de venta de las bases de licitación, por resultar extemporáneas, no serán contestadas y se integrarán al expediente respectivo, excepto que la convocante estime conveniente programar una nueva reunión para ello, respetando los plazos previstos en la Ley.
+Las preguntas recibidas con posterioridad al siguiente día hábil del último día de venta de las bases de licitación, por resultar extemporáneas, no serán contestadas y se integrarán al expediente respectivo, excepto que la convocante estime conveniente programar una nueva sesión para ello, respetando los plazos previstos en la Ley y escuchando la opinión del área solicitante.
 
-Preferentemente, deberá establecerse que la junta de aclaraciones, o la última de éstas, se realice el último día de venta de bases, a efecto de que los interesados que las adquieran con anterioridad estén en posibilidad de presentar, en su caso, las aclaraciones respectivas.
+La junta de aclaraciones se realizará a partir del siguiente día hábil a la fecha límite de venta de las bases, y hasta un día hábil antes del acto de presentación y apertura de proposiciones, a efecto de que los interesados que las adquieran con anterioridad estén en posibilidad de presentar, en su caso, las aclaraciones respectivas.
 
-Si derivado de la junta de aclaraciones se determina posponer la fecha de celebración del acto de presentación y apertura de proposiciones, la modificación respectiva a la convocatoria deberá publicarse a través de los mismos medios de difusión empleados para la convocatoria; el diferimiento del citado acto no podrá ser inferior de seis días naturales posteriores a la fecha de publicación, modificando igualmente el periodo de venta de bases, hasta el sexto día natural previo al nuevo acto de presentación y apertura de proposiciones.
+Si derivado de la junta de aclaraciones se determina posponer la fecha de celebración del acto de presentación y apertura de proposiciones, la modificación respectiva a la convocatoria deberá publicarse a través de los mismos medios de difusión empleados para aquella.
 
 ###### Artículo 34.
 
@@ -645,7 +779,9 @@ La ausencia de algún miembro del jurado no invalidará el acto que se desahogue
 
 En este acto, la revisión de la documentación se efectuará en forma cuantitativa, sin entrar al análisis cualitativo o detallado de su contenido; se dará lectura al precio unitario de cada una de las partidas y en su caso de los conceptos o renglones, que integran la propuesta, según corresponda, así como al importe total de cada una de ellas, los cuales se asentarán en el acta respectiva.
 
-El análisis detallado se efectuará durante el proceso de evaluación de las propuestas, ya sea por la convocante a través de su personal facultado, o por el área solicitante o podrá incluso auxiliarse para éstos casos de instituciones públicas o privadas especializadas para dicha evaluación cuando la naturaleza de los bienes o servicios así lo requieran, situación que se establecerá en las bases.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
+El análisis detallado se efectuará durante el proceso de evaluación de las propuestas. Se realizará por la convocante, asistida por el área requirente, siendo obligatorio prestar el auxilio necesario en la evaluación técnica de los bienes o servicios ofertados, cuando aquella así lo estime indispensable por considerar que existe alguna deficiencia respecto de la descripción de las características técnicas de los mismos o por cualquier otra circunstancia. Podrá incluso auxiliarse, para éstos casos, de instituciones públicas o privadas especializadas para dicha evaluación cuando la naturaleza de los bienes o servicios así lo requieran, situación que se establecerá en las bases. En ningún caso, el área requirente demorará más de cuarenta y ocho horas en la evaluación de las propuestas técnicas, salvo que por la complejidad la convocante apruebe por escrito un plazo mayor.
 
 La convocante podrá omitir dar lectura al precio de cada una de las partidas y/o en su caso conceptos o renglones según corresponda, siempre y cuando se incluyan en el acta del evento, o se anexen a la misma.
 
@@ -653,9 +789,11 @@ La convocante podrá omitir dar lectura al precio de cada una de las partidas y/
 
 En el acto de presentación y apertura de proposiciones, la convocante podrá anticipar o diferir la fecha del fallo, dentro del plazo establecido en el artículo 42 fracción IV de la Ley, lo cual quedará asentado en el acta correspondiente a este acto para efectos de su notificación. También podrá hacerlo durante la evaluación de las proposiciones dentro del plazo indicado, notificando a los licitantes la nueva fecha. En ambos casos, no será necesario publicarlo en el Periódico Oficial o en un diario de circulación nacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 40.
 
-Los criterios para evaluar la solvencia de las proposiciones, deberán guardar relación con los requisitos, especificaciones u otros aspectos señalados en las bases.
+Los criterios para evaluar la solvencia de las proposiciones deberán guardar relación con los requisitos, especificaciones u otros aspectos señalados en las bases, siendo responsabilidad de la convocante, establecer dichos criterios en el proyecto de bases, siempre y cuando estos no limiten la libre participación y la igualdad de condiciones para los licitantes.
 
 En caso de que solo exista una sola proposición solvente, deberá realizarse un estudio de mercado, para determinar durante la evaluación de las proposiciones, si los precios son aceptables.
 
@@ -691,13 +829,19 @@ En los casos a que se refiere este artículo, la adjudicación se hará a la pro
 
 Para la adquisición de equipos, en los que éstos sólo operen con insumos específicos de la marca del mismo equipo, salvo dictamen y justificación del área solicitante o competente, deberá aplicarse el criterio de adjudicación a que se refiere este artículo.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 43.
 
-Si derivado de la evaluación de las proposiciones se obtuviera un empate en el precio de dos o más proposiciones, la adjudicación se efectuará en el siguiente orden: a favor del licitante estatal, en caso de no existir, a favor de quien acredite que cuenta con personal con capacidades diferentes, o en su caso, se procederá conforme a lo dispuesto por el artículo 33 penúltimo párrafo de la Ley.
+Si como resultado de la evaluación a las propuestas, existieran dos o más en igualdad de precio, la convocante aplicará los criterios para el desempate, en el siguiente orden:
 
-Si una vez agotado este proceso no existiere propuesta ganadora, se efectuará a favor del licitante que resulte ganador del sorteo manual por insaculación que celebre la convocante en el propio acto de fallo, el cual consistirá en la participación de un boleto por cada proposición que resulte empatada, mismos que serán depositados en una urna, de la cual se extraerá, en primer lugar el boleto del licitante ganador, y posteriormente los demás boletos empatados, con lo que se determinarán los subsecuentes lugares que ocuparán tales proposiciones. Este procedimiento deberá preverse en las bases de licitación.
+a) Se adjudicará al licitante que tenga su domicilio fiscal en el estado de Morelos y oferte bienes que hayan sido producidos o adquiridos en el Estado, en caso de no existir, a favor de quien acredite que cuenta con personal con capacidades diferentes;
 
-En caso de que no se hubiera previsto que el fallo se celebre en junta pública y se requiera llevar a cabo el sorteo por insaculación, previa invitación por escrito a los licitantes y a la Secretaría de la Contraloría, éste se realizará ante su presencia, y se levantará acta que firmarán los asistentes, sin que la inasistencia, la negativa o falta de firma en el acta respectiva de los licitantes, invalide el acto.
+b) Se adjudicará al licitante que hubiere ofrecido mejores condiciones en su propuesta, adicionales a las mismas establecidas en las bases, con relación a los bienes, arrendamientos o servicios a contratar, o
+
+c) Se adjudicará proporcionalmente en partes iguales, a las propuestas que reúnan las mismas condiciones y en igualdad de precio, siempre y cuando existan dos o más bienes en una misma partida; de lo contrario se realizará, entre los que ofrezcan las mismas condiciones, un sorteo por insaculación que celebre la convocante en el propio acto de fallo, el cual consistirá en la participación de un boleto por cada proposición que resulte empatada, mismos que serán depositados en una urna de la cual se extraerá, en primer lugar, el boleto del licitante ganador y posteriormente los demás boletos empatados, con lo que se determinarán los subsecuentes lugares que ocuparán tales proposiciones. Este procedimiento deberá preverse en las bases de licitación.
+
+Una vez determinado el licitante que haya ofertado el precio más bajo por los bienes o servicios requeridos, y como consecuencia haya resultado adjudicado, se levantará acta entregándose copia fotostática a cada uno de los asistentes y se notificará por estrados en el domicilio de la convocante a los que no hubieren asistido.
 
 ###### Artículo 44.
 
@@ -705,21 +849,29 @@ Cuando se presente un error de cálculo en las propuestas presentadas, sólo hab
 
 Las correcciones se harán constar en el dictamen a que se refiere el artículo 43 de la Ley. Si el licitante no acepta la corrección de la propuesta, ésta se desechará, o sólo las partidas que sean afectadas por el error.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 45.
 
-En el fallo que se emita, deberá constar la reseña cronológica de los actos del procedimiento de licitación y contemplar como mínimo lo siguiente:
+El acto de emisión de fallo se llevará a cabo, a la hora señalada para su celebración, con la participación del jurado de la convocante y de los licitantes que estén presentes.
+
+El acto de fallo se iniciará con la comunicación del resultado del dictamen de adjudicación, señalando las propuestas que fueron aceptadas, así como las que fueron desechadas, las causas de descalificación y el nombre del licitante que cumpliendo con todos los requisitos solicitados por la convocante, oferta el menor precio.
+
+Se levantará acta circunstanciada del acto de fallo, la que será rubricada y firmada por todos los servidores públicos que intervinieran y licitantes presentes, sin que su firma sea necesaria para validar el acto, debiendo entregar a cada uno de ellos copia de la misma. En dicha acta, deberá constar la reseña cronológica de los actos del procedimiento de licitación y contemplar como mínimo lo siguiente:
 
 I. Nombre de los licitantes cuyas proposiciones no fueron evaluadas por haber sido desechadas como resultado de su análisis cualitativo y detallado y las razones que se tuvieron para ello, o bien adjuntar al fallo, copia del dictamen elaborado en términos de lo dispuesto por el artículo 40 penúltimo párrafo del presente Reglamento, en el cual se contiene dicha información;
 
 II. Nombre de los licitantes cuyas proposiciones fueron evaluadas y el resultado de la evaluación de cada una de ellas;
 
-III. Nombre del o de los licitantes a quien se adjudique el contrato, indicando las partidas o conceptos y montos asignados a cada licitante;
+III. Nombre del o los licitantes a quien se adjudique el contrato, indicando las partidas o conceptos y montos asignados a cada licitante;
 
 IV. Información para firma del contrato, presentación de garantías y, en su caso, entrega de anticipos, conforme a las bases de licitación o de invitación;
 
-V. En caso de que se determine que el precio de una proposición no es aceptable, se deberá anexar copia de la investigación de mercado realizada, en la que se indiquen los resultados de la misma, y
+V. En caso de que se determine que el precio de una proposición no es aceptable, se deberá anexar copia de la investigación de mercado realizada, en la que se indiquen los resultados de la misma;
 
-VI. Si el presupuesto asignado al procedimiento de licitación es rebasado por las proposiciones presentadas, previo estudio de mercado de que los precios de las proposiciones son aceptables por corresponder a los existentes en el mercado, y atendiendo a la justificación del área solicitante en el que se indique el origen y problemática de la reducción respectiva y la imposibilidad de reasignar recursos para cubrir el faltante, podrán efectuar las reducciones respectivas de manera proporcional a cada concepto o partida y que resulten necesarias hasta alcanzar el techo presupuestal asignado, lo cual deberá precisarse en el fallo de la licitación.
+VI. Si el presupuesto asignado al procedimiento de licitación es rebasado por las proposiciones presentadas, previo estudio de mercado de que los precios de las proposiciones son aceptables por corresponder a los existentes en el mercado, y atendiendo a la justificación del área solicitante en el que se indique el origen y problemática de la reducción respectiva y la imposibilidad de reasignar recursos para cubrir el faltante, podrán efectuar las reducciones respectivas de manera proporcional a cada concepto o partida y que resulten necesarias hasta alcanzar el techo presupuestal asignado, lo cual deberá precisarse en el fallo de la licitación, y
+
+VII. Las firmas de los funcionarios públicos responsables de la evaluación de las propuestas y de la emisión del fallo, quienes protestarán haber cumplido con el debido proceso de evaluación.
 
 ###### Artículo 46.
 
@@ -731,27 +883,53 @@ Se considerará que el precio no es aceptable, cuando de la investigación de me
 
 Solamente los fallos de las licitaciones internacionales que se realicen bajo la cobertura de los tratados, se difundirán conforme lo establezcan éstos o la normatividad aplicable.
 
-### Capítulo Único
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE ENERO DE 2014)</small>
+
+### Capítulo Tercero. De las Excepciones a la Licitación Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2014)</small>
 
 ###### Artículo 48.
 
-El documento suscrito por el titular de la Dependencia o Entidad solicitante señalado en el segundo párrafo del artículo 50 de la Ley, que se someta a consideración del Comité por solicitar alguna excepción prevista en el artículo 51 de la misma, deberá contener como mínimo lo siguiente:
+El documento suscrito por el titular del área solicitante, señalado en el segundo párrafo del artículo 50 de la Ley, que se someta a consideración del Comité para solicitar alguna excepción prevista en el artículo 51 de ese mismo ordenamiento, deberá contener como mínimo lo siguiente:
+
+(REPUBLICADA, P.O. 29 DE ENERO DE 2014)
 
 I. Descripción de los bienes o servicios;
 
-II. Plazos y condiciones de entrega de los bienes o de prestación de los servicios;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
+II. Los plazos, condiciones y lugares de entrega de los bienes o de la prestación de los servicios;
+
+(REPUBLICADA, P.O. 29 DE ENERO DE 2014)
 
 III. Motivación y fundamentación legal del supuesto de excepción;
 
-IV. Precio estimado, y en el caso de adjudicaciones directas, la investigación de mercado conforme a la cual se haya determinado su conveniencia;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
+IV. Precio estimado y, en el caso, de adjudicaciones directas, la investigación de mercado conforme a la cual se haya determinado su conveniencia;
+
+(REPUBLICADA, P.O. 29 DE ENERO DE 2014)
 
 V. Forma de pago propuesta;
 
+(REPUBLICADA, P.O. 29 DE ENERO DE 2014)
+
 VI. El procedimiento de contratación propuesto;
 
-VII. Persona propuesta para la adjudicación, en el caso de adjudicación directa, y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
 
-VIII. El acreditamiento de los criterios en que fundan su excepción, así como la justificación de las razones para el ejercicio de la opción.
+VII. La persona propuesta para la adjudicación, en el caso de adjudicación directa;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
+VIII. El acreditamiento de los criterios en que fundan su excepción, así como la justificación de las razones para el ejercicio de la opción, y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+IX. El modelo de contrato a suscribir.
+
+(REPUBLICADO, P.O. 29 DE ENERO DE 2014)
 
 Estos documentos se reservarán siempre y cuando encuadren en las hipótesis previstas en la Ley de Transparencia y hasta por los límites máximos ahí fijados.
 
@@ -795,23 +973,27 @@ Se procurará que las operaciones comprendidas en los supuestos de excepción a 
 
 Los bienes muebles en los términos de lo dispuesto por el artículo 56 de la Ley, que por sus características ya no sean aptos para el servicio, se podrán enajenar de acuerdo a lo previsto en la Ley.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 55.
 
-La enajenación de bienes muebles, invariablemente se realizará por conducto de la Oficialía, en el caso del Poder Ejecutivo Central y la Entidad en el caso de los Organismos Auxiliares, salvo que éstas opten por entregar sus bienes no aptos a la Oficialía, para los fines que ésta disponga. En estos casos y salvo convenio que se suscriba, no se realizará reembolso a las Entidades por la enajenación de bienes que en su caso, se decida realizar.
+La enajenación de bienes muebles, invariablemente, se realizará por conducto de la Oficialía en el caso de la Administración Pública Central, y las Entidades en el caso de los organismos auxiliares, salvo que éstas opten por entregar sus bienes no aptos a la Secretaría de Administración del Poder Ejecutivo Estatal, para los fines que ésta disponga. En estos casos y salvo convenio que se suscriba, no se realizará reembolso a las Entidades por la enajenación de bienes que, en su caso, se decida realizar.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
 
 ###### Artículo 56.
 
-Para lo no previsto en el procedimiento de enajenación de bienes, exclusivamente en lo que le resulte aplicable, se observarán las disposiciones que regulen tanto las adjudicaciones directas, como las excepciones a licitación pública, las licitaciones públicas y las invitaciones a cuando menos tres personas.
+Para lo no previsto en el procedimiento de enajenación de bienes, exclusivamente en lo que le resulte aplicable, se observarán las disposiciones que regulen tanto las adjudicaciones directas como las excepciones a licitación pública, las licitaciones públicas y las invitaciones a cuando menos tres personas, o bien, bajo la modalidad que apruebe el Comité, sin dejar de observar la normatividad relativa aplicable.
 
-## Título Quinto. De la Información y Verificación
+## Título Cuarto. De los Contratos
 
-### Capítulo Primero. De las sanciones
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
 
 ###### Artículo 57.
 
-Las contrataciones que regula la Ley y el presente Reglamento, iguales o superiores a la cantidad de quinientas veces el salario mínimo diario general vigente en el Estado, así como de los montos de actuación que para el caso establezca el Comité, se deberán formalizar a través de contratos o pedidos, los cuales deberán contener, en lo aplicable, los elementos a que se refiere el artículo 60 de la Ley, debiendo ser congruentes con el contenido de las bases de licitación e invitación y de conformidad con las disposiciones aplicables.
-
-De la misma forma, para las contrataciones reguladas por la Ley y el presente Reglamento, inferiores a la cantidad de quinientas veces el salario mínimo general vigente en el Estado, deberá observarse que presenten las mejores condiciones de precio, calidad y servicio para el Gobierno del Estado.
+Las contrataciones que regula la Ley y el presente Reglamento, iguales o superiores a la cantidad de quinientas veces el salario mínimo diario general vigente en el Estado, así como de los montos de actuación que para el caso establezca el Comité, se deberán formalizar a través de contratos o pedidos, los cuales deberán contener, en lo aplicable, los elementos a que se refiere el artículo 60 de la Ley, debiendo ser congruentes con el contenido de las bases de licitación e invitación y de conformidad con las disposiciones aplicables. De la misma forma, para las contrataciones reguladas por la Ley y el presente Reglamento inferiores a la cantidad de quinientas veces el salario mínimo general vigente en el Estado, deberá observarse que presenten las mejores condiciones de precio, calidad y servicio para el Gobierno del Estado, bajo la más estricta responsabilidad de quien las realice.
 
 ###### Artículo 58.
 
@@ -819,7 +1001,9 @@ La fecha para la firma del contrato será la determinada en las bases de licitac
 
 En lugar de la citada fecha, la convocante podrá determinar en las bases, que la firma del contrato o pedido se hará en cualquier día dentro del plazo máximo establecido en el referido artículo 62 de la Ley, en cuyo caso, no podrá determinarse que el licitante injustificadamente dejó de formalizar el contrato, hasta que el mencionado plazo se haya agotado.
 
-El plazo de entrega de los bienes o de iniciación para la prestación del servicio, comenzará el día natural siguiente de la firma del contrato o pedido por el proveedor, o bien, en el plazo que se haya establecido en las bases. En los contratos o pedidos deberá precisarse el servidor público del área responsable de administrar y vigilar el cumplimiento de los mismos. Se deberá prever en las bases de licitación y de invitación a cuando menos tres personas y en los contratos, la forma y términos en que se realizará la verificación de las especificaciones y la aceptación de los bienes y servicios, así como la conformidad del proveedor de que hasta en tanto ello no se cumpla, éstos no se tendrán por recibidos o aceptados.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
+El plazo de entrega de los bienes o de iniciación para la prestación del servicio, comenzará el día natural siguiente de la firma del contrato o pedido por el proveedor, o bien, en el plazo que se haya establecido en las bases. En los contratos o pedidos deberá precisarse el servidor público del área solicitante de administrar y vigilar el cumplimiento de los mismos. Se deberá prever en las bases de licitación y de invitación a cuando menos tres personas y en los contratos, la forma y términos en que se realizará la verificación de las especificaciones y la aceptación de los bienes y servicios, así como la conformidad del proveedor de que hasta en tanto ello no se cumpla, éstos no se tendrán por recibidos o aceptados.
 
 La recepción de los bienes o el inicio de los servicios, deberá realizarse en los términos estipulados en las bases, siempre y cuando sea posterior al fallo y el proveedor lo acepte.
 
@@ -829,7 +1013,9 @@ En los contratos o pedidos abiertos de adquisiciones, arrendamientos y servicios
 
 I. La cantidad o presupuesto mínimo y máximo deberá establecerse por cada una de las partidas objeto de la contratación, en cuyo caso la evaluación y adjudicación se hará igualmente por partida.
 
-La convocante con la aceptación del proveedor podrá realizar modificaciones a los contratos o pedidos hasta en un veinte por ciento de la cantidad o presupuesto máximo de alguna partida originalmente pactada, utilizando para su pago el presupuesto de otra u otras partidas previstas en el propio contrato, siempre que no resulte un incremento en el monto máximo total del contrato;
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+
+Mediante solicitud por escrito debidamente justificada, la convocante con la aceptación del proveedor podrá realizar modificaciones a los contratos o pedidos hasta en un veinte por ciento de la cantidad o presupuesto máximo de alguna partida originalmente pactada, utilizando para su pago el presupuesto de otra u otras partidas previstas en el propio contrato, siempre que no resulte un incremento en el monto máximo total del contrato;
 
 II. Se podrán celebrar contratos abiertos, cuando cuenten con la suficiencia presupuestal para cubrir el monto mínimo. Cada orden de suministro o de servicio que se emita con cargo a dicho contrato deberá contar con la disponibilidad presupuestaria correspondiente;
 
@@ -883,9 +1069,11 @@ Por caso fortuito o fuerza mayor o por causas atribuibles a las Dependencias y E
 
 En caso de que el proveedor no obtenga la prórroga de referencia, por ser causa imputable a éste el atraso, se hará acreedor a la aplicación de las penas convencionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 66.
 
-En las bases de licitación e invitaciones a cuando menos tres personas, así como en los contratos y pedidos se establecerán los casos concretos en los que procederá la aplicación de penas convencionales por atraso en la entrega de los bienes o de la prestación de los servicios.
+En las bases de licitación e invitaciones a cuando menos tres personas, así como en los contratos y pedidos se establecerán los casos concretos en los que procederá la aplicación de penas convencionales por atraso en la entrega de los bienes o de la prestación de los servicios, o por el incumplimiento a la calidad de los bienes suministrados o de los servicios mal prestado (sic). De igual manera, establecerán que el pago de los bienes y servicios quedará condicionado, proporcionalmente, al pago que el proveedor deba efectuar por concepto de penas convencionales por atraso, en el entendido de que en el supuesto de que sea rescindido el contrato, no procederá el cobro de dichas penas ni la contabilización de las mismas al hacer efectiva la garantía de cumplimiento.
 
 De igual manera, establecerán que el pago de los bienes y servicios quedará condicionado, proporcionalmente, al pago que el proveedor deba efectuar por concepto de penas convencionales por atraso, en el entendido de que en el supuesto de que sea rescindido el contrato, no procederá el cobro de dichas penas ni la contabilización de las mismas al hacer efectiva la garantía de cumplimiento.
 
@@ -947,13 +1135,15 @@ III. Cuando al realizarse el finiquito resulten saldos a cargo del proveedor y �
 
 IV. Cuando se requiera hacer efectivas las fianzas, las Dependencias o Entidades deberán remitir a la Tesorería del Estado, dentro de los diez días hábiles siguientes a que se verifique el incumplimiento, la solicitud donde se precise la información necesaria para identificar la obligación o crédito que se garantiza y los sujetos que se vinculan con la fianza, debiendo acompañar los documentos que soporten y justifiquen el cobro; tratándose de entidades se remitirá al área correspondiente.
 
-## Título Sexto. De las Sanciones, Inconformidades y Conciliaciones
+## Título Quinto. De la Información y Verificación
 
-### Capítulo Segundo. De las inconformidades
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
 
 ###### Artículo 72.
 
-La Oficialía, y la Secretaría de la Contraloría, en el caso del Poder Ejecutivo Central y la Entidad y los Órganos Internos de Control en las Dependencias y Entidades en el caso de los Organismos Auxiliares, con motivo de las auditorías, visitas o inspecciones que practiquen, podrán solicitar a los proveedores información y/o documentación relacionada con los contratos o pedidos. Para estos efectos, en el contrato respectivo deberá indicarse que los licitantes ganadores deberán proporcionar la información que en su momento se requiera.
+La Oficialía y la Contraloría, en el caso de la Administración Pública Central, y las Entidades y órganos internos de control, con motivo de las auditorías, visitas o inspecciones que practiquen, podrán solicitar a los proveedores información o documentación relacionada con los contratos o pedidos. Para estos efectos, en el contrato respectivo deberá indicarse que los licitantes ganadores deberán proporcionar la información que en su momento se requiera.
 
 ###### Artículo 73.
 
@@ -965,7 +1155,9 @@ Para los efectos de lo dispuesto en este artículo, las proposiciones presentada
 
 Las Dependencias y Entidades que no estén en posibilidad de dar al proveedor la opción de efectuar los pagos a través de medios electrónicos, deberán justificarlo ante el Órgano Interno de Control.
 
-### Capítulo Tercero. De las Conciliaciones
+## Título Sexto. De las Sanciones, Inconformidades y Conciliaciones
+
+### Capítulo Primero. De las sanciones
 
 ###### Artículo 75.
 
@@ -987,13 +1179,17 @@ I. Referir el nombre o razón social de la persona inhabilitada respecto de la c
 
 II. Señalar de manera pormenorizada los hechos o circunstancias particulares de la persona participante en el procedimiento de contratación respectivo, remitiendo al efecto las constancias de las que se desprenda la presunción fundada de su vinculación con la sancionada.
 
+### Capítulo Segundo. De las inconformidades
+
 ###### Artículo 78.
 
 Si la inconformidad presentada por escrito o a través de los medios remotos de comunicación electrónica no reúne los requisitos establecidos por la Ley, la Secretaría de la Contraloría se sujetará a lo dispuesto por el artículo 57 párrafo segundo de la Ley de Procedimiento Administrativo del Estado de Morelos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 79.
 
-Para los efectos del artículo 107 de la Ley, la Secretaría de la Contraloría de manera directa o a través de los Órganos Internos de Control, dará aviso a la Dependencia o Entidad de la inconformidad presentada, acompañando copia de la misma, a efecto de que rinda un informe circunstanciado. La información que remita la Dependencia o Entidad deberá ser enviada dentro de los seis días hábiles siguientes a la recepción del aviso, refiriéndose a cada uno de los hechos manifestados por el inconforme, debiendo acompañar la documentación relacionada directamente con los hechos aducidos en el mismo.
+Para los efectos del artículo 107 de la Ley, la Contraloría de manera directa o a través de los órganos internos de control, dará aviso a la convocante y al área solicitante de la inconformidad presentada, acompañando copia de la misma, a efecto de que rinda un informe circunstanciado. La información que remita la Dependencia o Entidad deberá ser enviada dentro de los seis días hábiles siguientes a la recepción del aviso, refiriéndose a cada uno de los hechos manifestados por el inconforme, debiendo acompañar la documentación relacionada directamente con los hechos aducidos en el mismo.
 
 Tratándose de inconformidades presentadas por escrito, el inconforme deberá anexar, además de los documentos señalados en el artículo 106 de la Ley en que sustente su petición, las copias simples necesarias para el traslado a los terceros interesados y a la convocante debiendo, la Secretaría de la Contraloría, prevenirlo en los términos del artículo 57 párrafo segundo de la Ley de Procedimiento Administrativo, en caso de que no se presenten dichos anexos.
 
@@ -1004,6 +1200,8 @@ De igual forma, para los efectos del artículo 107 segundo párrafo de la Ley, s
 El monto de la fianza a que se refiere el penúltimo párrafo del artículo 107 de la Ley, no será menor al diez ni mayor al treinta por ciento del monto de la proposición del inconforme y, cuando no sea posible conocer dicho monto, del presupuesto autorizado o estimado para llevar a cabo la adquisición, arrendamiento o servicio.
 
 Recibida la notificación en la que la Secretaría de la Contraloría o el Órgano Interno de control ordene la suspensión, la Dependencia o Entidad suspenderá todo acto relacionado con el procedimiento de contratación.
+
+### Capítulo Tercero. De las Conciliaciones
 
 ###### Artículo 81.
 
@@ -1090,3 +1288,13 @@ EL OFICIAL MAYOR DEL GOBIERNO DEL ESTADO
 C. VÍCTOR MANUEL MENDOZA MORENO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE ENERO DE 2014.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía normativa que se opongan a lo establecido en el presente Decreto.
+
+TERCERA. Dentro de un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir conforme a las disposiciones de este último, por el Titular del Poder Ejecutivo, los lineamientos generales a que se refiere los artículos 28, fracción II, de la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos y 2 del Reglamento de la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos.
