@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-servicios-funerarios-del-instituto-de-16020"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-18"
-last_updated: "2000-04-18"
+last_updated: "2014-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16020&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-02-24"
 
 REGLAMENTO DE SERVICIOS FUNERARIOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE SERVICIOS FUNERARIOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO PUBLICADO EN EL D.O.F. 29 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ENERO DE 2014. (ABROGADO)
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 18 de abril de 2000.
 
@@ -514,3 +516,13 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 24 de febrero de 2000.- El Secretario, Jaime Báez Rodríguez.- Rúbrica.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+D.O.F. 29 DE ENERO DE 2014.
+
+PRIMERO.- El Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de Servicios Funerarios, aprobado por Acuerdo No. 28.1256.2000 de la Junta Directiva, publicado en el Diario Oficial de la Federación el 18 de abril de 2000.
+
+TERCERO.- Se mantendrán en vigor las disposiciones aplicables a los servicios funerarios del Instituto, que no se opongan al Reglamento.”
