@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-36853"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2004-01-29"
+last_updated: "2014-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36853&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,13 +22,15 @@ issue_date: "2004-01-26"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
 Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México, la Ciudad de la Esperanza.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL.
 
 ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 67 fracción II y 90 del Estatuto de Gobierno del Distrito Federal; 5º, 14, 15 fracciones I, II, IV y IX, 17, 23 fracción XX, 24, 26 fracciones I, III, XI y XVII, 31 fracciones II, IV, XIV, XXI y XXIII y 39 fracción II, III, IV, VIII, XXXVII, XL, LXII, de la Ley Orgánica de la Administración Pública del Distrito Federal; 10 fracción X, de la Ley de Desarrollo Urbano del Distrito Federal; 9 fracciones III, V, XIV, 28, 44, 45 y 46 de la Ley Ambiental para el Distrito Federal; 1, 7º fracciones II, V, VI, y XXX, de la Ley de Transporte y Vialidad del Distrito Federal; he tenido a bien expedir el siguiente:
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 29 DE ENERO DE 2014, LAS REFERENCIAS QUE EN EL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL SE HAGAN A LOS CERTIFICADOS DE ZONIFICACIÓN CLASIFICADOS COMO CERTIFICADO DE ZONIFICACIÓN PARA USOS DEL SUELO PERMITIDOS, CERTIFICADO ÚNICO DE ZONIFICACIÓN DE USO DEL SUELO ESPECÍFICO Y FACTIBILIDADES, CERTIFICADO DE ZONIFICACIÓN PARA USO DEL SUELO ESPECÍFICO O CERTIFICADO DE ACREDITACIÓN DE USO DEL SUELO POR DERECHOS ADQUIRIDOS, SE ENTENDERÁN HECHAS A LOS CERTIFICADOS ÚNICOS DE ZONIFICACIÓN DE USO DEL SUELO Y CERTIFICADOS DE ACREDITACIÓN DE USO DEL SUELO POR DERECHOS ADQUIRIDOS.</small>
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
@@ -364,15 +366,15 @@ II. Emitir los certificados de zonificación de uso específico, de usos de suel
 
 Certificador es el encargado de la aplicación de la normativa vigente y emisión de los certificados de zonificación de usos del suelo permitidos y para uso específico.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 23.
 
-Las solicitudes de los certificados de acreditación de uso del suelo por derechos adquiridos y de certificados únicos de zonificación de uso del suelo específico y factibilidades deben presentarse en la Ventanilla Única del Registro.
+La solicitud del Certificado Único de Zonificación de Uso del Suelo o Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos, deben presentarse en la Ventanilla Única de la Secretaría.
 
-Las solicitudes de certificados de zonificación de usos del suelo permitidos y certificados de zonificación para uso específico, también podrán presentarse en las Ventanillas Únicas Delegacionales; una vez recibidas deben turnarlas al Registro para su debida atención.
+La Secretaría, una vez recibidas las solicitudes, emitirá las resoluciones respectivas.
 
-El Registro, una vez recibidas las solicitudes, debe emitir las resoluciones respectivas.
-
-Los notarios podrán presentar las solicitudes de certificados de zonificación de usos del suelo permitidos y certificados de zonificación para uso específico en la Ventanilla del Registro.
+Con la sola solicitud de expedición del certificado, se podrá otorgar la escritura traslativa de dominio ante Notario, quien deberá agregar al apéndice de la escritura respectiva el certificado obtenido y agregar copia del mismo al testimonio que presente para su inscripción ante el Registro Público de la Propiedad y del Comercio del Distrito Federal.
 
 ###### Artículo 24.
 
@@ -1582,7 +1584,7 @@ En los casos de dictamen de impacto urbano o impacto urbano-ambiental, previo a 
 
 ###### Artículo 143.
 
-Si se constata que el estudio de impacto urbano o impacto urbano-ambiental contiene documentos apócrifos e información técnica no veraz o que el análisis del impacto resulte inexacto, el perito en desarrollo urbano se hará acreedor a las siguientes sanciones :
+Si se constata que el estudio de impacto urbano o impacto urbano-ambiental contiene documentos apócrifos e información técnica no veraz o que el análisis del impacto resulte inexacto, el perito en desarrollo urbano se hará acreedor a las siguientes sanciones:
 
 I. Cancelación del trámite de evaluación;
 
@@ -1715,3 +1717,15 @@ Los procedimientos iniciados con anterioridad a la publicación del presente Reg
 Las referencias al Fideicomiso del Sistema de Transferencias de Potencialidades de Desarrollo Urbano, se entenderán hechas al fideicomiso creado mediante Acuerdo publicado el dieciocho de julio de mil novecientos ochenta y ocho en el Diario Oficial de la Federación. RÚBRICA
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de enero del año dos mil cuatro.- EL JEFE DEL GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- SECRETARIO DE GOBIERNO, LIC. ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ARQ. LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- SECRETARIA DEL MEDIO AMBIENTE, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- SECRETARIO DE TRANSPORTES Y VIALIDAD, LIC. FRANCISCO GARDUÑO YAÑEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 29 DE ENERO DE 2014.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. El presente Decreto entrará en vigor el día de su publicación.
+
+Tercero. Las referencias que en el Reglamento de la Ley de Desarrollo Urbano del Distrito Federal se hagan a los Certificados de Zonificación clasificados como Certificado de Zonificación para Usos del Suelo Permitidos, Certificado Único de Zonificación de Uso del Suelo Específico y Factibilidades, Certificado de Zonificación para Uso del Suelo Específico o Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos, se entenderán hechas a los Certificados Únicos de Zonificación de Uso del Suelo y Certificados de Acreditación de Uso del Suelo por Derechos Adquiridos.
+
+Cuarto. La Secretaría de Desarrollo Urbano y Vivienda deberá, dentro del plazo de seis meses, desarrollar e implementar la tecnología necesaria que permita abreviar los tiempos para la expedición de los Certificados Únicos de Zonificación de Uso del Suelo y Certificados de Acreditación de Uso del Suelo por Derechos Adquiridos.
