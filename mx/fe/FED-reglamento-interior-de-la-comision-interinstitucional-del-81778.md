@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-interinstitucional-del-81778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-22"
-last_updated: "2014-01-16"
+last_updated: "2014-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81778&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-06-14"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO Y CATALOGO DE INSUMOS DEL SECTOR SALUD
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2014 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA COMISIÓN INTERINSTITUCIONAL DEL CUADRO BÁSICO Y CATÁLOGO DE INSUMOS DEL SECTOR SALUD
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 29 DE ENERO DE 2014.</small>
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 22 de junio de 2011.
 
@@ -527,9 +527,11 @@ I. Carta compromiso de reenviar cualquier notificación del fabricante sobre la 
 
 II. Carta en la que exprese que cuenta con manuales de mantenimiento preventivo y correctivo en español.
 
+> <small>(F. DE E., D.O.F. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 31.
 
-Toda solicitud de modificación a la cédula descriptiva, independientemente del tipo de insumo de que se trate, deberá contener los datos de contacto de la persona responsable y deberá ser acompañada de lo siguiente:
+Toda solicitud de modificación menor a la cédula descriptiva, independientemente del tipo de insumo de que se trate, deberá contener los datos de contacto de la persona responsable y deberá ser acompañada de lo siguiente:
 
 I. Solicitud indicando nombre genérico, clave y las razones que motivan la solicitud de modificación.
 
