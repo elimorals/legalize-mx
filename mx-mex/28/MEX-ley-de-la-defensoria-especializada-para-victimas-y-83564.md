@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-defensoria-especializada-para-victimas-y-83564"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-26"
-last_updated: "2011-10-26"
+last_updated: "2014-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE LA DEFENSORIA ESPECIALIZADA PARA VICTIMAS Y OFENDIDOS DEL DELITO DEL ESTADO DE MEXICO
 
-LEY DE LA DEFENSORIA ESPECIALIZADA PARA VICTIMAS Y OFENDIDOS DEL DELITO DEL ESTADO DE MEXICO
+LEY DE LA DEFENSORÍA ESPECIALIZADA PARA VÍCTIMAS Y OFENDIDOS DEL DELITO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE ENERO DE 2014.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el miércoles 26 de octubre de 2011.
 
@@ -67,7 +67,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Centro de Atención: al Centro de Atención e Información para Víctimas y Ofendidos del Delito;
 
-II. Código de Procedimientos Penales: al Código de Procedimientos Penales para el Estado de México, publicado el 9 de febrero del 2009 en la Gaceta del Gobierno;
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
+
+II. Código de Procedimientos Penales: al Código de Procedimientos Penales para el Estado de México;
 
 III. Código Penal: al Código Penal del Estado de México;
 
@@ -77,11 +79,15 @@ V. Constitución Federal: a la Constitución Política de los Estados Unidos Mex
 
 VI. Defensoría: a la Defensoría Especializada para Víctimas y Ofendidos del Delito del Estado de México;
 
-VII. Director General: al Director General de la Defensoría Especializada para Víctimas del Delito;
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
+
+VII. Director General: al Director General de la Defensoría Especializada para Víctimas y Ofendidos del Delito;
 
 VIII. Estado: al Estado de México;
 
-IX. Ley: a la Ley de la Defensoría Especializada para Víctimas del Delito del Estado de México;
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
+
+IX. Ley: a la Ley de la Defensoría Especializada para Víctimas y Ofendidos del Delito del Estado de México;
 
 X. Ofendido: a las personas a que se refieren los tratados internacionales, las leyes generales, la legislación federal y el marco jurídico estatal;
 
@@ -89,7 +95,9 @@ XI. Procuraduría: a la Procuraduría General de Justicia del Estado de México;
 
 XII. Reparación del daño: a la reparación del daño en términos de lo dispuesto por el Código Penal y Código de Procedimientos Penales;
 
-XIII. Secretario: al Secretario General de Gobierno;
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
+
+XIII. Consejera/o: a la Consejera o Consejero Jurídico del Ejecutivo Estatal;
 
 XIV. Tratados Internacionales: a los Tratados Internacionales suscritos por México, de conformidad con el artículo 133 de la Constitución Federal; y
 
@@ -107,9 +115,11 @@ La calidad de víctima y ofendido se reconoce con independencia de que se identi
 
 ### CAPÍTULO I. OBJETO Y PRINCIPIOS RECTORES DE LA DEFENSORÍA
 
+> <small>(REFORMADO, G.G. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 9.
 
-La Defensoría es un órgano desconcentrado de la Secretaría General de Gobierno, con autonomía técnica y operativa, cuyo objeto es operar, coordinar, dirigir y controlar la defensa especializada para víctimas y ofendidos del delito del Estado de México, que requieran su intervención, así como proporcionar asesoría jurídica y defensa en materia penal, y además en las materias civil, familiar, mercantil y de amparo, cuando tales procedimientos se deriven de la comisión de un hecho delictivo.
+La Defensoría es un órgano desconcentrado de la Consejería Jurídica del Ejecutivo Estatal, con autonomía técnica y operativa, cuyo objeto es operar, coordinar, dirigir y controlar la defensa especializada para víctimas y ofendidos del delito del Estado de México, que requieran su intervención, así como proporcionar asesoría jurídica y defensa en materia penal, y además en las materias civil, familiar, mercantil y de amparo, cuando tales procedimientos se deriven de la comisión de un hecho delictivo.
 
 ###### Artículo 10.
 
@@ -205,9 +215,11 @@ Son atribuciones de los servidores públicos de la Defensoría, las establecidas
 
 ### CAPÍTULO III. DEL DIRECTOR GENERAL DE LA DEFENSORÍA
 
+> <small>(REFORMADO, G.G. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 15.
 
-La Defensoría estará a cargo de un Director General, nombrado por el Secretario.
+La Defensoría estará a cargo de un Director General, nombrado por la Consejera/o.
 
 ###### Artículo 16.
 
@@ -231,7 +243,9 @@ I. Planear, organizar, dirigir, coordinar, controlar, supervisar y evaluar los s
 
 II. Dictar acuerdos, circulares, manuales de organización, procedimientos y en general las medidas necesarias, para mejorar los servicios que ofrece la Defensoría;
 
-III. Asumir la representación legal de la Defensoría, previa autorización del Secretario;
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
+
+III. Asumir la representación legal de la Defensoría, previa autorización de la Consejera/o;
 
 IV. Dirigir y coordinar la óptima utilización de los recursos humanos, financieros y materiales asignados a la Defensoría, para el cumplimiento de sus objetivos;
 
@@ -239,11 +253,15 @@ V. Coordinar los sistemas de formación, capacitación, actualización y especia
 
 VI. Vigilar que en la aplicación de la presente Ley sean estrictamente respetados los derechos fundamentales de las víctimas y ofendidos;
 
-VII. Proponer al Secretario, los proyectos de iniciativas que considere apropiados para el mejor desarrollo de los trabajos de la Defensoría o para consolidar el marco jurídico a favor de víctimas y ofendidos;
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
+
+VII. Proponer a la Consejera/o los proyectos de iniciativas que considere apropiados para el mejor desarrollo de los trabajos de la Defensoría o para consolidar el marco jurídico a favor de víctimas y ofendidos;
 
 VIII. Coordinar los programas y estrategias para la difusión de los servicios que presta la Defensoría;
 
-IX. Proponer al Secretario la creación de plazas de defensores y empleados auxiliares que sean necesarios para un mejor servicio, de conformidad con la disponibilidad presupuestaria;
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
+
+IX. Proponer a la Consejera/o la creación de plazas de defensores y empleados auxiliares que sean necesarios para un mejor servicio, de conformidad con la disponibilidad presupuestaria;
 
 X. Establecer mecanismos de coordinación con instituciones públicas y privadas para la atención de las víctimas y ofendidos que requieran atención médica de urgencia y de orientación psicológica especializada;
 
@@ -251,9 +269,13 @@ XI. Asignar el número de defensores que se requieran en las subdirecciones y co
 
 XII. Calificar los casos en que proceda el patrocinio en asuntos civiles, familiares, mercantiles y en materia de amparo, derivados de un hecho delictuoso;
 
-XIII. Presentar al Secretario, para su conocimiento y aprobación, los planes de trabajo e informes de actividades de la Defensoría;
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
 
-XIV. Proponer al Secretario el otorgamiento de estímulos y recompensas a los servidores públicos a su cargo;
+XIII. Presentar a la Consejera/o para su conocimiento y aprobación, los planes de trabajo e informes de actividades de la Defensoría;
+
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
+
+XIV. Proponer a la Consejera/o el otorgamiento de estímulos y recompensas a los servidores públicos a su cargo;
 
 XV. Llevar un control de los asuntos en los que se preste el servicio de asesoría y defensa de las victimas u ofendidos, así como el control estadístico correspondiente de la Defensoría;
 
@@ -263,9 +285,13 @@ XVII. Proponer la celebración de convenios con instituciones de educación supe
 
 XVIII. Conceder licencias a los Defensores para separarse temporalmente de sus funciones, observando las disposiciones legales correspondientes;
 
-XIX. Proponer al Secretario el proyecto de Código de Ética de los servidores públicos del Instituto;
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
 
-XX. Informar periódicamente al Secretario el estado que guarda la Defensoría;
+XIX. Proponer a la Consejera/o el proyecto de Código de Ética de los servidores públicos del Instituto;
+
+> <small>(REFORMADA, G.G. 29 DE ENERO DE 2014)</small>
+
+XX. Informar periódicamente a la Consejera/o el estado que guarda la Defensoría;
 
 XXI. Implementar indicadores del desempeño individual de los defensores; y
 
@@ -598,3 +624,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ALVAREZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 29 DE ENERO DE 2014.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno",
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO.- La Consejería Jurídica, la Secretaría de Finanzas y la Secretaría de la Contraloría proveerán lo necesario para dar cumplimiento a lo establecido en este Decreto.
