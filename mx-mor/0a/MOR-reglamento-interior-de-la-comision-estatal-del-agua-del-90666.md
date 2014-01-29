@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-comision-estatal-del-agua-del-90666"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-12"
-last_updated: "2013-08-28"
+last_updated: "2014-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre del 2012.
 
@@ -88,9 +88,13 @@ IV. Dirección General de Agua Potable en Zonas Urbanas.
 
 V. Dirección General de Saneamiento en Zonas Urbanas.
 
-VI. Dirección General de Agua Potable y Saneamiento en Zonas Rurales.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
 
-VII. Dirección General de Infraestructura Hidroagrícola;
+VI. Dirección General de Saneamiento en Zonas Urbanas y Operación de Sistemas;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
+VII. Dirección General de Planeación y Protección a Centros de Población;
 
 VIII. Dirección General de Protección a Centros de Población;
 
@@ -564,13 +568,13 @@ II. Apoyar en el proceso de convocatoria de las sesiones de la Junta de Gobierno
 
 III. Llevar y alimentar indicadores de medición que permitan determinar el nivel de productividad, cumplimiento de políticas, objetivos, programas de trabajo y resultados de las Subsecretarías Ejecutivas, proporcionando al Secretario Ejecutivo la información para la toma de decisiones;
 
-IV. Coordinar la formulación de la política hídrica del Estado y su programa hídrico estatal;
+IV. (DEROGADA, P.O. 29 DE ENERO DE 2014)
 
 V. Informar al Secretario Ejecutivo de la Comisión del trámite y resolución de los asuntos relevantes a su cargo;
 
 VI. Notificar las solicitudes que formulen los organismos fiscalizadores y dependencias a las Unidades Administrativas competentes de la Comisión, y apoyarlas en su análisis, integración y formulación de respuestas y remisión de documentos;
 
-VII. Implementar y coordinar un sistema de información estatal del agua;
+VII. (DEROGADA, P.O. 29 DE ENERO DE 2014)
 
 VIII. Coordinar las publicaciones y materiales impresos, dirigir la organización de las conferencias de prensa, la cobertura informativa y emisión de boletines de prensa, reportes especiales y documentos de apoyo para los medios de comunicación;
 
@@ -748,7 +752,7 @@ XXXIII. Las demás que le delegue el Secretario Ejecutivo, la persona titular de
 
 Corresponde a la Dirección General de Agua Potable en Zonas Urbanas:
 
-I. Llevar a cabo las funciones operativas y ejecutivas de la Comisión en lo concerniente a obras, sistemas y servicios de agua potable y alcantarillado en zonas urbanas;
+I. (DEROGADA, P.O. 29 DE ENERO DE 2014)
 
 II. Programar y proponer estudios y proyectos, así como participar en la construcción, administración, operación, conservación, modernización, rehabilitación, mantenimiento, ampliación y mejoramiento directamente o a través de terceros, todo tipo de obras de infraestructura hidráulica, relacionadas con el agua potable y alcantarillado en zonas urbanas, en los términos que señalen las disposiciones jurídicas aplicables;
 
@@ -764,11 +768,15 @@ VII. Brindar asistencia técnica a los prestadores de los servicios de agua pota
 
 VIII. Las demás que le delegue el Secretario Ejecutivo, la persona titular de la Subsecretaría y le confieran otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 35.
 
-Corresponde a la Dirección General de Saneamiento en Zonas Urbanas:
+Corresponde a la Dirección General de Saneamiento en Zonas Urbanas y Operación de Sistemas:
 
-I. Llevar a cabo las funciones operativas y ejecutivas de la Comisión en lo concerniente a obras, sistemas y servicios de saneamiento en zonas urbanas;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
+I. Coordinar las funciones operativas y ejecutivas de la Comisión en lo concerniente a obras, sistemas y servicios de agua potable y saneamiento encomendadas a ésta;
 
 II. Programar y proponer estudios y proyectos, así como participar en la construcción, administración, operación, conservación, modernización, rehabilitación, mantenimiento, ampliación y mejoramiento directamente o a través de terceros, todo tipo de obras de infraestructura hidráulica, relacionadas con el saneamiento en zonas urbanas en los términos que señalen las disposiciones jurídicas aplicables;
 
@@ -832,9 +840,11 @@ XII. Cumplir con los programas, metas e indicadores en materia de estudios bási
 
 XIII. Las demás que le delegue el Secretario Ejecutivo, la persona titular de la Subsecretaría y le confieran otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2014)</small>
+
 ###### Artículo 38.
 
-Corresponde a la Dirección General de Protección a Centros de Población:
+Corresponde a la Dirección General de Planeación y Protección a Centros de Población:
 
 I. Llevar a cabo las funciones operativas y ejecutivas de la Comisión en lo concerniente a obras y acciones para la protección a centros de población y áreas productivas;
 
@@ -860,9 +870,17 @@ XI. Coordinar la elaboración de un plan de atención de emergencias por inundac
 
 XII. Llevar a cabo, en forma permanente, la capacitación y adiestramiento al personal para la seguridad física de la infraestructura y atención de emergencias;
 
-XIII. Definir acciones preventivas o correctivas en caso de atraso en la construcción de las obras de infraestructura materia de su competencia; así como determinar factores de seguridad estructural y de servicio hidráulico óptimos, y
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
 
-XIV. Las demás que le delegue el Secretario Ejecutivo, la persona titular de la Subsecretaría y le confieran otras disposiciones jurídicas aplicables.
+XIII. Coordinar la formulación de la política hídrica del Estado y su programa hídrico estatal;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XIV. Implementar y coordinar un Sistema de Información Estatal del Agua;
+
+XV. Definir acciones preventivas o correctivas en caso de atraso en la construcción de las obras de infraestructura materia de su competencia; así como determinar factores de seguridad estructural y de servicio hidráulico óptimos, y
+
+XVI. Las demás que le delegue el Secretario Ejecutivo, la persona titular de la Subsecretaría y le confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 39.
 
@@ -926,7 +944,11 @@ XIX. Expedir credenciales de identificación al personal de la Comisión, y (sic
 
 XX. Representar a la Comisión ante autoridades administrativas a fin de gestionar por su conducto cualquier trámite que para su funcionamiento llegase a requerir;
 
-XXI. Las demás que le delegue el Secretario Ejecutivo y le confieran otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XXI. Coordinar, administrar y conservar el acervo documental que en ejercicio de sus facultades se genere en la CEA, así como la responsable de implementar los instrumentos de sistematización de los archivos de gestión e histórico en los términos que marca la Ley Estatal de Documentación y Archivos de Morelos.
+
+XXII. Las demás que le delegue el Secretario Ejecutivo y le confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 41.
 
@@ -1225,3 +1247,7 @@ P.O. 27 DE FEBRERO DE 2013.
 P.O. 28 DE AGOSTO DE 2013.
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 29 DE ENERO DE 2014.
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en (sic) Periódico Oficial "Tierra y Libertad".
