@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2013-11-27"
+last_updated: "2014-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -1005,11 +1005,11 @@ XI.- Decretar en caso grave, la traslación provisional de los Poderes del Estad
 
 XII.- Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción II del artículo 44 y las demás facultades que se hayan consignado en la Constitución Política del Estado, o que le confieran las Leyes.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 80.
 
-La Diputación Permanente estará integrada por once diputados de los cuales funcionarán siete como propietarios y cuatro como suplentes generales.
+La Diputación Permanente estará integrada bajo la fórmula de nueve Propietarios y nueve Suplentes. Cada Grupo Parlamentario contará, como mínimo, con un representante propietario y su respectivo suplente.
 
 ###### ARTICULO 81.
 
@@ -2264,3 +2264,9 @@ P.O. 27 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE ENERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
