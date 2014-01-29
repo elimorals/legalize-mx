@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-sistema-para-el-desarrollo-integral-939
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2014-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 29 DE ENERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Novena del Periódico Oficial del Estado de Nayarit, el 27 de marzo de 2013.
 
@@ -1254,3 +1256,11 @@ Tepic, Nayarit; a 23 de Enero del 2013.
 AUTORIZO: DIRECTORA GENERAL DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, LIC. Liliana Elizabeth Gómez Meza.- Rúbrica.- REVISÓ: SUBDIRECTORA GENERAL ADMINISTRATIVA, L.C.P. Dinora Georgina Ortega Cervantes.- Rúbrica.- ELABORÓ: ENCARGADA DE LA UNIDAD JURÍDICA, Lic. Laura Elena Ledesma Ríos.
 
 Lic. Raúl Alejandro Sandoval Rodela, Representante del Director General de los Servicios de Salud.- Rúbrica.- Lic. Liliana Elizabeth Gómez Meza, Directora General del SEDIF.- Rúbrica.- Lic. Luis Rodrigo Velazco Contreras, Representante de la Contraloría General de Gobierno del Estado.- Rúbrica.- Lic. Reina Rosales Andrade, Representante del Secretario de Planeación Programación y Presupuesto.- Rúbrica.- L.A. José Clemente Morelia Pacheco, Representante del Despacho del Procurador General de Justicia del Estado de Nayarit.- Rúbrica.- Lic. José Francisco Tello Huerta, Representante del Delegado Estatal del ISSTE (sic).- Rúbrica.- Lic. Jorge Machuca Maldonado, Representante de Delegado Estatal del IMSS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE ENERO DE 2014.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, Se abroga el anterior reglamento de fecha 27 de marzo de 2013.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite al entrar en vigor este Reglamento interior, que estén a cargo de unidades administrativas que se suprimen, modifican su denominación o cambian su adscripción dentro del propio SEDIF, serán continuados en su tramitación y resolución por la unidad administrativa que corresponda en los términos de este Reglamento.
