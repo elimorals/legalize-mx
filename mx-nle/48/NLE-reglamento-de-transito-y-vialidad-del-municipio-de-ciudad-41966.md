@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-ciudad-41966
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2011-07-04"
+last_updated: "2014-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo de León, el viernes 26 de noviembre del 2004.
 
@@ -78,6 +78,10 @@ Automóvil.- Se dice principalmente de los vehículos que pueden ser guiados par
 Automovilista.- Toda persona que conduce, maneja o tiene control físico de un vehículo en la vía pública; que controla o maneja un vehículo.
 
 Auto transportista.- Persona física o moral debidamente autorizada por la Autoridad Municipal, para prestar servicio público o privado de auto transporte de carga.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2014)</small>
+
+Carril Exclusivo de Transporte Público de Pasajeros.- Vía de uso especial con infraestructura especializada de carriles exclusivos, que de manera aislada o inserta en otra vialidad se destinan para el uso de transporte público colectivo de pasajeros debidamente autorizado.
 
 Chasis.- Armazón del vehículo, que comprende el bastidor, ruedas, transmisión con o sin motor, excluida la carrocería y todos los accesorios necesarios para acomodar al conductor, pasajeros o carga.
 
@@ -777,6 +781,22 @@ XXVIII. Conducir el vehículo con un aparato de televisión encendido, ubicado e
 
 XXIX. Poseer, en el área de pasajeros de un vehículo, una botella, lata u otro envase que contenga una bebida alcohólica que ha sido abierta o tiene sellos rotos o el contenido parcialmente consumido; no se considerará como área de pasajeros aquélla con asientos habitada habilitada para carga.
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XXX. Circular por los carriles exclusivos de transporte público de pasajeros;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XXXI. Cruzar por los carriles exclusivos de transporte público de pasajeros por zonas no permitidas;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XXXII. Dar vuelta en “U” por los carriles exclusivos de transporte público de pasajeros;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XXXIII. Dar vuelta a la izquierda por los carriles exclusivos de transporte público de pasajeros, a excepción de aquellas que están controladas por semáforo.
+
 ###### ARTÍCULO 41.
 
 La velocidad máxima en el Municipio es de cincuenta kilómetros por hora, excepto en los lugares en los que se especifique mediante el señalamiento respectivo una velocidad diferente.
@@ -825,7 +845,9 @@ Los invidentes podrán usar un bastón de color blanco con el que apuntarán hac
 
 Los peatones, al transitar en la vía pública, acatarán las prevenciones siguientes:
 
-I. No podrán transitar a lo largo de la superficie de rodamiento de calles o avenidas;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+
+I. No podrán transitar a lo largo de la superficie de rodamiento de calles, avenidas, ni cruzar o transitar por los carriles exclusivos de transporte público de pasajeros, excluyendo los pasos peatonales señalizados para la entrada y salida de las estaciones;
 
 II. En las avenidas y calles de alta densidad de tránsito, los peatones deberán cruzar por las esquinas, zonas marcadas para tal efecto o puentes peatonales;
 
@@ -1123,6 +1145,10 @@ XIX. En cajones de estacionamiento exclusivo y especial para personas con capaci
 
 XX. En las guarniciones o cordones donde exista pintura color ámbar en ambas caras; igualmente en las esquinas se prohíbe estacionar vehículos aún de que no exista señalamiento de no estacionarse, debiéndose respetar una distancia en ellas de cinco metros lineales en ambos sentidos de las calles convergentes.
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XXI. En los carriles exclusivos de transporte público de pasajeros;
+
 Independientemente de lo anterior, se permitirá el estacionamiento de vehículos en el área de estacionamiento que ampara un reloj estacionómetro o un señalamiento oficial de exclusividad.
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LA CIRCULACIÓN DE VEHÍCULOS
@@ -1383,6 +1409,10 @@ V. En sentido contrario al que tenga la calle transversal;
 
 VI. En avenidas de alta circulación.
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+VII. Por los carriles exclusivos de transporte público de pasajeros.
+
 ###### ARTÍCULO 93.
 
 Se permite circular en reversa solamente para entrar o salir de cajones de estacionamiento o cocheras, siempre y cuando el espacio que se circule no sea mayor a la longitud del vehículo que lo realice y sin atravesar cruceros. En caso de que la circulación hacia delante esté obstruida totalmente, se permitirá circular en reversa el tramo necesario de acuerdo a las circunstancias.
@@ -1416,6 +1446,10 @@ Para el caso de vehículos de tracción animal, propulsión humana y bicicleta s
 Se prohíbe la circulación de vehículos de tracción animal, propulsión humana y bicicletas en toda la ciudad, desde media hora antes de la puesta del sol, hasta media hora después de la salida del mismo.
 
 La Autoridad Municipal de acuerdo con las circunstancias podrá determinar además otras áreas restringidas para la circulación o estacionamiento de determinado tipo de vehículos.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2014)</small>
+
+Se prohíbe la circulación de cualquier tipo de vehículo en los carriles exclusivos de transporte público de pasajeros, a excepción de los vehículos de emergencia o previamente autorizados por la autoridad competente y sólo cuando estén atendiendo alguna emergencia, en cuyo caso deberán hacer uso simultáneo de su sirena y torretas de luz roja, azul, blanca o ámbar.
 
 ###### ARTÍCULO 98.
 
@@ -2025,15 +2059,19 @@ K) Cuando el conductor se encuentre en estado de ebriedad o en estado de ineptit
 
 L) Cuando un conductor o sus acompañantes sean sorprendidos arrojando, esparciendo o abandonando basura en la vía pública o cualquier material o sustancia en cantidad tal que pueda causar daños a las vías públicas u obstaculizar el tránsito de peatones y vehículos.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2014)</small>
+
+M). Cuando el conductor circule, cruce, de vuelta en U, de vuelta a la izquierda o se estacione en algún carril exclusivo de transporte público de pasajeros.
+
 Para la entrega de vehículos detenidos, será indispensable la presentación ante la Autoridad Municipal de los documentos siguientes: factura o documento con el que se acredite la propiedad del vehículo, tarjeta de circulación, licencia de conducir según su especialidad de manejo, póliza de seguro vigente, comprobante de domicilio, e identificación personal preferentemente la credencial de elector, así como el comprobante de no adeudos de infracciones de tránsito y en su caso cuando así se requiera, el documento expedido por la Agencia del Ministerio Público y/o Autoridad Judicial competente en el que se autorice la liberación del vehículo.
 
 IV. RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retirada por los elementos de la Autoridad Municipal cuando el conductor infractor sea menor de edad y cuando el conductor insulte al personal de tránsito en el ejercicio de sus funciones; en los casos en que proceda la suspensión o cancelación de la licencia de acuerdo con las Fracciones I y II de este Articulo.
 
 V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
-> <small>N. DE E. VEASE TABULADOR EN EL P.O. DE 26 DE NOVIEMBRE DE 2004, PAGS. 122-129.</small>
+> <small>N. DE E. VÉASE TABULADOR EN EL P.O. DE 26 DE NOVIEMBRE DE 2004, PAGS. 122-129.</small>
 
-> <small>N. DE E. VEASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PÁGINAS DE LA 102 A LA 133; 4 DE JULIO DE 2011, PÁGINA 30.</small>
+> <small>N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PÁGINAS DE LA 102 A LA 133; 4 DE JULIO DE 2011, PÁGINA 30; 29 DE ENERO DE 2014, PÁGINA 62.</small>
 
 ###### ARTÍCULO 137.
 
@@ -2078,6 +2116,26 @@ IX. Prestar placas;
 X. Estacionarse en lugares exclusivos de personas con capacidad diferenciada;
 
 XI. Transportar material peligroso.
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XII. Circular por los carriles exclusivos de transporte público de pasajeros;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XIII. Cruzar por los carriles exclusivos de transporte público de pasajeros, por zonas no permitidas;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XIV. Dar vuelta en "U" por los carriles exclusivos de transporte público de pasajeros;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XV. Dar vuelta a la izquierda por carril exclusivo de transporte público de pasajeros; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
+
+XVI. Estacionarse en carril exclusivo de transporte público de pasajeros.
 
 ###### ARTÍCULO 141.
 
@@ -2212,3 +2270,13 @@ PRIMERO.- Las presentes reformas por modificación, adición y derogación de di
 SEGUNDO.- Se derogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas y adiciones al Reglamento de Transito y Vialidad del Municipio de Ciudad Guadalupe, Nuevo León.
 
 TERCERO.- En virtud de que el Reglamento mismo, posee un carácter homologado, y que las presentes reformas fueron acordadas en consenso por los municipios, en el marco de la respetuosa autonomía municipal y de la necesaria coordinación y sinergia de esfuerzos para avanzar en materia de seguridad, este R. Ayuntamiento exhorta a los máximos órganos colegiados de gobierno municipal a la homologación de todos los Reglamentos de Tránsito y Vialidad de los Municipios de la entidad.
+
+P.O. 29 DE ENERO DE 2014.
+
+PRIMERO.- Las presentes reformas por modificación y adición a diversos artículos del Reglamento de Tránsito y Vialidad del Municipio de Ciudad Guadalupe, entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Quedan sin efecto todas las disposiciones jurídicas que se opongan a los términos de las presentes reformas por modificación y adición a diversos artículos del Reglamento de Tránsito y Vialidad del Municipio de Ciudad Guadalupe.
+
+TERCERO.- Instrúyase por parte del C. Presidente Municipal para que en corresponsabilidad y coordinación de esfuerzos, la Dirección de policía y Tránsito adscrita a la Secretaría de Seguridad Pública, la Dirección General de Obras Públicas y Vialidad adscrita a la Secretaría de Desarrollo Urbano y Obras Públicas así como a la Dirección General de Comunicación Social, organicen una campaña de orientación y difusión de las reformas efectuadas al reglamento de tránsito municipal, así mismo se lleve a cabo una intensa campaña de difusión de los cambios a la vialidad y señalización que con motivo de la operación del transporte público de pasajeros ECOVÍA se implementan, para que se dé cumplimiento a la normatividad en materia de tránsito, fortaleciendo la cultura de la legalidad y el comportamiento cívico ciudadano.
+
+CUARTO.- Instrúyase por parte del Presidente Municipal al Secretario de Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
