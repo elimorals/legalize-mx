@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2013-12-20"
+last_updated: "2014-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2014.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -208,6 +208,26 @@ VI. Acceso a educación, que desarrolle sus habilidades, potencie su integració
 VII. Que en los planes y programas de desarrollo urbano se incluyan soluciones a sus requerimientos específicos.
 
 VIII. Acceder a programas especiales de otorgamiento de vivienda exclusivos para personas con discapacidad que permitan su pleno desarrollo.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2014)</small>
+
+Toda persona tiene derecho a la información pública, el cual será garantizado por el Estado en los términos de la Constitución General de la Republica, esta Constitución y la ley respectiva. Para el ejercicio de este derecho se regirá por los siguientes principios y bases:
+
+I.- El acceso a la información pública de las entidades gubernamentales y aquellas consideradas como de interés público en los términos de la ley de transparencia y acceso a la información pública del Estado de Baja California Sur, solo podrá ser reservada de manera temporal, en los términos que fije la ley, debiendo prevalecer el principio de máxima publicidad.
+
+II.- Las personas físicas o jurídicas de derecho privado que reciban, usen, administren y ejerzan recursos públicos, están obligados a proporcionar la información relativa a éstos.
+
+III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley.
+
+IV.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, en sus datos personales o a la rectificación de éstos, en términos de la ley.
+
+V.- Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante un órgano especializado, imparcial y autónomo.
+
+VI.- Los sujetos obligados deberán preservan los documentos en archivos administrativos, en términos de la ley, y publicaran a través de los medios electrónicos disponibles, la información completa actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
+
+VII.- Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+
+VIII.- La inobservancia de las disposiciones en materia de acceso a la información pública, será sancionada en los términos que dispongan las leyes.
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -3228,3 +3248,13 @@ B.O. 20 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE ENERO DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el boletín oficial del gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
