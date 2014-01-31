@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-penales-del-estado-de-michoacan-de-852
 country: "mx"
 rank: "codigo"
 publication_date: "2012-01-13"
-last_updated: "2013-02-19"
+last_updated: "2014-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2014.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 13 de enero de 2012.
 
@@ -4513,41 +4513,35 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Per
 
 La implementación del sistema procesal penal acusatorio en el Estado será regional y gradual, estableciéndose las regiones judiciales siguientes: Apatzingán, que se integrará con los actuales distritos judiciales de Apatzingán y Coalcomán; Lázaro Cárdenas, que comprenderá los actuales distritos judiciales de Arteaga, Coahuayana y Lázaro Cárdenas; Morelia, que comprenderá los actuales distritos judiciales de Morelia, Pátzcuaro y Zinapécuaro; Uruapan, que comprenderá los actuales distritos judiciales de Ario, Tacámbaro y Uruapan; Zamora, que comprenderá los actuales distritos judiciales de Jiquilpan, La Piedad, Los Reyes, Puruándiro, Sahuayo, Tanhuato, Zacapu y Zamora, y; Zitácuaro, que comprenderá los actuales distritos judiciales de Hidalgo, Huetamo, Maravatío, Zitácuaro.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO TERCERO.
 
-El 3 de febrero de 2014 entrará en vigor el presente Decreto en la región Morelia.
+El 7 de marzo de 2015 entrará en vigor el presente Decreto en las regiones de Morelia y Zitácuaro.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO CUARTO.
 
-El 25 de agosto de 2014 entrará en vigor el presente Decreto en la región Uruapan.
+EI 3 de agosto de 2015 entrará en vigor el presente Decreto en las regiones de Zamora y Uruapan.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO QUINTO.
 
-El 12 de enero de 2015 entrará en vigor el presente Decreto en la región Apatzingán.
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+EI 9 de mayo de 2016 entrará en vigor el presente Decreto en las regiones de Lázaro Cárdenas y Apatzingán.
 
 ###### ARTÍCULO SEXTO.
 
-El 29 de junio de 2015 entrará en vigor el presente Decreto en la región Zamora.
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+(DEROGADO, P.O. 31 DE ENERO DE 2014)
 
 ###### ARTÍCULO SÉPTIMO.
 
-El 11 de enero de 2016 entrará en vigor el presente Decreto en la región de Lázaro Cárdenas.
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+(DEROGADO, P.O. 31 DE ENERO DE 2014)
 
 ###### ARTÍCULO OCTAVO.
 
-El 13 de junio de 2016 entrará en vigor el presente Decreto en la región de Zitácuaro.
+(DEROGADO, P.O. 31 DE ENERO DE 2014)
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
@@ -4598,3 +4592,9 @@ P.O. 19 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE ENERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
