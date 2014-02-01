@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2012-12-15"
+last_updated: "2014-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -1959,6 +1959,10 @@ Aquellos estacionamientos que dan un servicio complementario o uso distinto al l
 
 Cualquier estacionamiento, encierro o pensión, público y privado, deberá disponer de dos cajones de cada 10 o excedente a número de cinco cajones, para personas con discapacidad debidamente identificadas con placa especial y logotipo internacional de la discapacidad. Cuando tenga menos de cinco y más de tres o sólo menos de tres, deberá reservársele cuando menos uno.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
+
+Todo establecimiento, de los antes mencionados, deberá disponer de por lo menos el 10% de cajones preferenciales para los adultos mayores debidamente identificadas con calcomanía oficial, debiéndose compartir estos espacios con personas con discapacidad.
+
 ###### ARTÍCULO 153.
 
 Los estacionamientos privados, tendrán las instalaciones necesarias para garantizar la seguridad de las personas y de los vehículos.
@@ -2478,3 +2482,11 @@ SEGUNDO.- El Reglamento de Vialidad y Transporte del Estado de Colima, deberá s
 P.O. 15 DE DICIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor seis meses después a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Instituto contará con un plazo de seis meses a partir de la entrada en vigor del presente decreto, para expedir las calcomanías de identificación de las personas adultas en plenitud.
+
+TERCERO.- Los sujetos obligados por el presente Decreto contarán con un plazo de 90 días naturales a partir de su entrada en vigor, para su debido cumplimiento.
