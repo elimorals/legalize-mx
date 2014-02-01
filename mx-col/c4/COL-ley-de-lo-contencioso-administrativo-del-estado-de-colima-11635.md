@@ -4,7 +4,7 @@ identifier: "COL-ley-de-lo-contencioso-administrativo-del-estado-de-colima-11635
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-28"
-last_updated: "2008-02-09"
+last_updated: "2014-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 1 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de septiembre de 1996.
 
@@ -123,9 +125,9 @@ II.- De los juicios que se promuevan en contra de cualquier acto o resolución d
 
 III.- De las controversias de carácter administrativo o fiscal que se susciten, entre las autoridades Estatales y Municipales, así como de las que surjan entre el estado y los municipios o de éstos entre sí;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2008)</small>
 
 IV.- De los Juicios que se promuevan ante la negativa ficta que opera por el silencio de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por los ordenamientos jurídicos aplicables al caso concreto, o dentro del término de diez días tratándose de actos declarativos y de sesenta días tratándose de actos constitutivos, según, lo establecido por la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
 
@@ -133,25 +135,25 @@ En los casos a que se refiere el párrafo anterior, el silencio de las autoridad
 
 V.- De los juicios que promuevan las autoridades Estatales y Municipales, así como organismos descentralizados, para que sean anuladas las resoluciones administrativas o fiscales favorables a los particulares;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2008)</small>
 
 VI.- De los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales señaladas, en los expedientes relativos a recursos ordinarios establecidos por las leyes y reglamentos respectivos;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2008)</small>
 
 VII.- De los juicios que versen sobre la responsabilidad patrimonial del Estado, de acuerdo a lo establecido en la legislación aplicable;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2008)</small>
 
 VIII.- Del procedimiento que se promueva para que se declare la afirmativa ficta, ante la omisión de la autoridad de dictar la certificación de la misma dentro del término de tres días establecido por el artículo 33 de la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios; y
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2008)</small>
 
@@ -289,13 +291,13 @@ Las notificaciones que no fueren hechas en la forma que establecen las disposici
 
 ### CAPITULO V. DE LA DEMANDA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 26.
 
 La demanda deberá de formularse por escrito y presentarse directamente ante el Tribunal, dentro de los 15 días, contados a partir del día siguiente al en que el afectado tenga conocimiento o se haya notificado del acto o resolución impugnados.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2008)</small>
 
@@ -307,7 +309,7 @@ Cuando el actor resida fuera de la capital del Estado, podrá presentar su deman
 
 En caso de incumplimiento a lo previsto por el párrafo anterior, el Tribunal impondrá al servidor público una multa equivalente al monto de 20 a 50 días de salario mínimo vigente en el Estado, independientemente de la responsabilidad en que pudiera incurrir de conformidad con la ley de la materia.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2008)</small>
 
@@ -431,7 +433,7 @@ La suspensión podrá solicitarla el actor en cualquier tiempo, mientras no se d
 
 No se concederá la suspensión si se causa evidente perjuicio al interés social, se contravienen disposiciones de orden público o se deja sin materia el juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 38.
 
@@ -1033,7 +1035,7 @@ Dado en Palacio de Gobierno a los doce días del mes de septiembre de mil noveci
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC RAMON PEREZ DIAZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE ABRIL DE 2000.
 
@@ -1058,3 +1060,11 @@ El presente Decreto entrará en vigor al día de su publicación en el Periódic
 P.O. 9 DE FEBRERO DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial "El Estado de Calima".
+
+P.O. 1 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el 01 de marzo de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Una vez que entre en vigor el presente Decreto, quedará abrogada la Ley de lo Contencioso y Administrativo del Estado de Colima, publicada en el Periódico Oficial "El 28 de septiembre de 1996".
+
+TERCERO.- Los asuntos que estén en trámite a la entrada en vigor del presente Decreto, se substanciarán y resolverán hasta su total conclusión de conformidad con las disposiciones legales vigentes al momento de la presentación del escrito inicial que da origen a la controversia.
