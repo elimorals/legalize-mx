@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2012-12-15"
+last_updated: "2014-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -221,13 +221,17 @@ XIX. Llevar un padrón de adultos en plenitud;
 
 XX. Expedir credenciales de afiliación a las personas adultas en plenitud con el fin de que gocen de beneficios que resulten de las disposiciones de la presente ley y de otros ordenamientos jurídicos aplicables;
 
-XXI. Llevar el registro de personas físicas o morales que de manera altruista presten ayuda a los adultos en plenitud;
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
 
-XXII. Colaborar en la elaboración de las evaluaciones a los programas o proyectos que sean establecidos dentro del ámbito de esta Ley, a efecto de presentar las observaciones que correspondan al Ejecutivo del Estado;
+XXI. Expedir calcomanías oficiales con código de seguridad y el logotipo que identifique a las personas adultas en plenitud;
 
-XXIII. Proponer reconocimientos a las personas físicas o morales que se hayan distinguido en la promoción y defensa de los derechos de los adultos en plenitud; y
+XXII. Llevar el registro de personas físicas o morales que de manera altruista presten ayuda a los adultos en plenitud;
 
-XXIV. Elaborar su Reglamento Interno.
+XXIII. Colaborar en la elaboración de las evaluaciones a los programas o proyectos que sean establecidos dentro del ámbito de esta Ley, a efecto de presentar las observaciones que correspondan al Ejecutivo del Estado;
+
+XXIV. Proponer reconocimientos a las personas físicas o morales que se hayan distinguido en la promoción y defensa de los derechos de los adultos en plenitud; y
+
+XXV. Elaborar su Reglamento Interno.
 
 ### CAPÍTULO II. De su gobierno, administración y vigilancia
 
@@ -673,6 +677,12 @@ Será obligación de las dependencias y entidades de la administración pública
 
 ### CAPÍTULO I. De la Orientación Ocupacional
 
+###### Artículo 67 Bis 2.
+
+Cualquier estacionamiento, encierro o pensión, público y privado, deberá disponer de por lo menos el 10% de cajones para personas adultas en plenitud debidamente identificadas con calcomanía oficial. Este espacio para personas adultas en plenitud deberá compartirse para personas con discapacidad.
+
+El Instituto dispondrá los lineamientos y características de las calcomanías oficiales con logotipo para la identificación de las personas adultas en plenitud, así como el procedimiento para su expedición.
+
 ###### Artículo 67 Bis 1.
 
 El Gobierno del Estado por conducto de las dependencias correspondientes fomentará que la atención preferencial para las personas adultas mayores sea prestada también en las tiendas de autoservicio y otras empresas mercantiles.
@@ -680,6 +690,8 @@ El Gobierno del Estado por conducto de las dependencias correspondientes fomenta
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 Todas las instituciones de orden público y privado del Estado, garantizarán que en sus instalaciones existan las condiciones necesarias, para que se les dé a los adultos en plenitud un trato digno, especial y prioritario al momento de realizar un trámite personal, otorgándoles sillas de espera y una fila preferencial
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
 
 ## TÍTULO CUARTO. DE LA VALORACIÓN DE CAPACIDADES Y APTITUDES
 
@@ -864,3 +876,11 @@ P.O. 15 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Las entidades públicas y privadas del Estado, deberán adecuar sus instalaciones e infraestructura dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, para garantizar el cumplimiento del mismo.
+
+P.O. 1 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Instituto contará con un plazo de seis meses a partir de la entrada en vigor del presente decreto, para expedir las calcomanías de identificación de las personas adultas en plenitud.
+
+TERCERO.- Los sujetos obligados por el presente Decreto contarán con un plazo de 90 días naturales a partir de su entrada en vigor, para su debido cumplimiento.
