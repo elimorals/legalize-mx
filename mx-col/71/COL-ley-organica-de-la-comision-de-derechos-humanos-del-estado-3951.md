@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-05-30"
-last_updated: "2009-02-28"
+last_updated: "2014-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COLIMA - ANTES LEY ORGANICA DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS -
 
-LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
+LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 1992.
 
@@ -39,7 +39,7 @@ Por lo anteriormente expuesto, ha tenido a bien expedir el siguiente
 
 D E C R E T O No. 57
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ENERO DE 2003)</small>
 
 LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
@@ -47,23 +47,33 @@ LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley rige en todo el Estado de Colima; sus disposiciones son de orden público, interés social y observancia general en materia de Derechos Humanos, y tienen por objeto crear y establecer la base, estructura, organización y procedimientos de la Comisión a que se refiere el artículo 86 de la Constitución Política del Estado.
+La presente Ley rige en todo el Estado de Colima; sus disposiciones son de orden público, interés social y observancia general en materia de Derechos Humanos, y tienen por objeto crear y establecer la base, estructura, organización y procedimientos de la Comisión a que se refiere el artículo 86 de la Constitución Política del Estado, así como el párrafo primero, apartado B, artículo 102, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 2.
 
-En el estado de Derecho que rige nuestra Entidad, todo ser humano gozará de las garantías y derechos que le confiere el orden Constitucional y las Leyes que de ella emanen, así como los Acuerdos y Tratados Internacionales vigentes en la Nación.
+En el estado de Derecho que rige nuestra Entidad, todo ser humano gozará de las garantías y derechos que le confiere la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, Acuerdos y Tratados Internacionales vigentes en la Nación y el Ordenamiento Constitucional de esta entidad federativa y las leyes que de ella se deriven.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 3.
 
-La Comisión de Derechos Humanos del Estado de Colima es el organismo público descentralizado, con personalidad jurídica y patrimonio propio, de carácter autónomo y con participación de la sociedad civil, que tiene como finalidades esenciales la observancia, promoción, protección, estudio y divulgación de los derechos humanos establecidos por la Constitución Federal y la particular del Estado, así como de los ordenamientos legales vigentes sobre la materia.
+La Comisión de Derechos Humanos del Estado de Colima es el organismo público descentralizado, con personalidad jurídica, patrimonio propio, de control constitucional, autónomo y con participación de la sociedad civil, a través de su consejo, que tiene como objeto la observancia, promoción, protección, estudio y divulgación de los derechos humanos.
 
 Para los efectos de la presente Ley, el término de "COMISION'' se entenderá referido a dicho organismo.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 4.
 
-Esta Ley considera como servidores públicos a los representantes de elección popular, a los miembros de los Poderes Ejecutivo y Judicial del Estado, a los funcionarios o empleados y en general a toda persona que desempeñe un empleo o comisión de cualquier naturaleza en la administración pública estatal o municipal. Asimismo, se entenderá por superior jerárquico al titular de la dependencia correpondiente (sic); y por superior inmediato, al servidor público del cual depende, reporta o recibe órdenes directas el presunto infractor, conforme a la estructura de la dependencia de que se trate.
+La Comisión será competente para conocer de quejas y denuncias por presuntas violaciones a los derechos humanos, cuando éstas fueren imputadas a cualquier autoridad, o servidor público cuya competencia se circunscriba al Estado de Colima.
+
+Esta Ley considera como servidores públicos a los representantes de elección popular, a los miembros de los Poderes Ejecutivo y Judicial del Estado, a los funcionarios o empleados y en general a toda persona que desempeñe un empleo o comisión de cualquier naturaleza en la administración pública estatal o municipal. Asimismo, se entenderá por superior jerárquico al titular de la dependencia correspondiente; y por superior inmediato, al servidor público del cual depende, reporta o recibe órdenes directas el presunto infractor, conforme a la estructura de la dependencia de que se trate.
 
 ### CAPITULO II
 
@@ -201,9 +211,9 @@ XII.- Supervisar el respeto a los derechos humanos en el sistema penitenciario d
 
 XIII.- Cumplir en el territorio del Estado con los Tratados, Convenios y Acuerdos Internacionales signados y ratificados por el Gobierno Mexicano en materia de derechos humanos;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2014)</small>
 
-XIV.- Formular denuncias y quejas ante la autoridad respectiva, salvo tratándose de asuntos del orden electoral, laboral y jurisdiccional, en los términos establecidos por el artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos, cuando tenga conocimiento de actos ilícitos o presuntamente delictivos, ejecutados por servidores públicos estatales o municipales, que violen los derechos humanos;
+XIV.- Formular denuncias y quejas ante la autoridad respectiva, salvo tratándose de asuntos del orden electoral y jurisdiccional, en los términos establecidos por el artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos, cuando tenga conocimiento de actos ilícitos o presuntamente delictivos, ejecutados por servidores públicos estatales o municipales, que violen los derechos humanos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2009)</small>
 
@@ -217,15 +227,15 @@ XVI.- Las demás que le otorguen la presente Ley u otros ordenamientos legales.
 
 DE LA INCOMPETENCIA DE LA COMISION.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 20.
 
 La Comisión no podrá conocer de los casos relativos a:
 
-I.- Actos y resoluciones de organismos y autoridades electorales;
+I.- Actos y resoluciones de organismos y autoridades electorales; y
 
-II.- Actos y resoluciones de carácter jurisdiccional; y
-
-III.- Conflictos de carácter laboral.
+II.- Actos y resoluciones de carácter jurisdiccional.
 
 ### CAPITULO V
 
@@ -339,13 +349,25 @@ VII.- Las demás que le señale la presente Ley y el Reglamento Interior.
 
 DE LOS PROCEDIMIENTOS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 27.
 
-Los procedimientos que se sigan ante la Comisión deberán ser breves y sencillos, y estarán sujetos sólo a las formalidades esenciales que requieran la documentación de los expedientes respectivos. Se regirán de acuerdo con los principios de inmediación, concentración y rapidez; y se procurará, en la medida de lo posible, el contacto directo con quejosos y autoridades, para evitar la dilación de las comunicaciones escritas.
+Todas las actuaciones y procedimientos que se sigan ante la Comisión deberán ser ágiles, gratuitos y expeditos, y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se seguirán además de acuerdo con los principios de buena fe, concentración y rapidez, procurando en la medida de lo posible el contacto directo y personal con los quejosos, denunciantes, las autoridades, o servidores públicos, para evitar la dilación de las comunicaciones escritas.
 
 El tercero interesado deberá ser notificado y escuchado en todo momento del procedimiento, hasta su total terminación.
 
-En tanto la tramitación de un asunto no se concluya, el personal de la Comisión deberá manejar de manera confidencial la información y documentación respectiva.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2014)</small>
+
+El personal de la Comisión de Derechos Humanos del Estado de Colima deberá dar trato confidencial a la información o documentación relativa a los asuntos de su competencia, mientras se efectúan las investigaciones relativas a las quejas o denuncias de que conozca.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
+
+Las resoluciones, conclusiones o recomendaciones serán públicas, en términos de la ley de transparencia y acceso a la información pública del Estado de Colima, debiendo requerir a las y los quejosos o denunciantes su consentimiento por escrito, en el primer acuerdo o resolución que se emita, únicamente para publicar sus datos personales, en el entendido de que la omisión a desahogar dicho requerimiento constituirá su negativa.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
+
+Para evitar la inactividad de actuaciones en los expedientes de queja tramitados ante esta Comisión, el lapso máximo entre una actuación y otra no podrá exceder de seis meses.
 
 ###### ARTICULO 28.
 
@@ -461,11 +483,15 @@ En dicho proyecto se señalarán las medidas que deban tomarse para la efectiva 
 
 El proyecto de recomendación será elevado al Presidente de la Comisión para su consideración final.
 
-###### ARTICULO 46.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2014)</small>
 
-La recomendación no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirija y no podrá anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiesen presentado la queja.
+###### ARTÍCULO 46.
 
-En todo caso, una vez recibida, la autoridad o servidor público de que se trate deberá informar, dentro de los quince días hábiles siguientes a su notificación, si acepta dicha recomendación y dentro de los treinta días hábiles siguientes deberá entregar, en su caso, las pruebas correspondientes de que ha cumplido con la recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
+La recomendación no tendrá carácter vinculatorio o imperativo para la autoridad o servidor público a los cuales se dirija y no podrá anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja.
+
+En todo caso, una vez recibida, la autoridad, o servidor público de que se trate deberá informar, dentro de los quince días hábiles siguientes a su notificación, si acepta dicha recomendación y dentro de los treinta días hábiles siguientes deberá entregar, en su caso, las pruebas correspondientes de que ha cumplido con la recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
+
+Toda autoridad o servidor público está obligado a responder las recomendaciones que les presenten estos organismos Cuando las recomendaciones emitidas no fueran aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. El Congreso del Estado, a solicitud de la Comisión, podrá llamar a las autoridades o servidores públicos responsables para que comparezcan ante el pleno, a efecto de que expliquen el motivo de su negativa.
 
 ###### ARTICULO 47.
 
@@ -479,7 +505,7 @@ Las recomendaciones se referirán a casos concretos, las cuales no son aplicable
 
 De las quejas o inconformidades que se presenten respecto de las recomendaciones, acuerdos u omisiones de la Comisión, los quejosos, terceros interesados o las autoridades y servidores públicos, podrán optar por interponer el recurso ante la propia Comisión Estatal por una sola ocasión, o directamente ante la Comisión Nacional de los Derechos Humanos. Si las partes deciden hacerlo primero ante la Comisión Estatal, esta resolverá dentro de los cinco días siguientes, y en caso de persistir la inconformidad de las partes, se podrá recurrir también ante la Comisión Nacional de los Derechos Humanos, que es la única facultada para modificar la resolución definitiva.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
 
 ### CAPITULO X
 
@@ -605,7 +631,7 @@ Dado en Palacio de Gobierno, a los veintinueve días del mes de mayo de 1992.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE ENERO DE 1994.
 
@@ -628,3 +654,7 @@ P.O. 11 DE ENERO DE 2003.
 P.O. 28 DE FEBRERO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE FEBRERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
