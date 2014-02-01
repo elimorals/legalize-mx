@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2013-06-08"
+last_updated: "2014-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -661,6 +661,10 @@ En los lugares que presten servicio al público, deberán destinarse, por lo men
 
 Dichos espacios estarán diseñados de acuerdo a los requerimientos específicos por la autoridad competente y encontrarse claramente señalados como reservados para uso exclusivo, ubicándose lo más cerca posible de las rampas de acceso a las aceras.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
+
+Estos espacios podrán compartirse para el uso de personas adultas mayores que así lo requieran.
+
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### Artículo 68.
@@ -974,3 +978,11 @@ TERCERO.- Las entidades de la administración pública paraestatal y paramunicip
 P.O. 8 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Instituto contará con un plazo de seis meses a partir de la entrada en vigor del presente decreto, para expedir las calcomanías de identificación de las personas adultas en plenitud.
+
+TERCERO.- Los sujetos obligados por el presente Decreto contarán con un plazo de 90 días naturales a partir de su entrada en vigor, para su debido cumplimiento.
