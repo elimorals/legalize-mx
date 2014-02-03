@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2013-10-11"
+last_updated: "2014-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE FEBRERO DE 2014.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -507,41 +507,31 @@ En ningún caso podrá ser compelido nadie a contraer matrimonio, ni será váli
 
 ### CAPITULO III A. De los requisitos para contraer matrimonio
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2014)</small>
 
 ARTICULO 86
 
-No pueden contraer matrimonio el hombre antes de cumplir dieciséis años y la mujer antes de cumplir catorce con el solo consentimiento de sus padres. El Gobierno del Estado, por conducto del director general del Registro Civil, puede conceder dispensa de edad en casos excepcionales y por causas graves y justificadas.
+No pueden contraer matrimonio el hombre y la mujer antes de cumplir dieciocho años.
 
-> <small>(REFORMADO, G.O. 10 DE JULIO DE 1971)</small>
+ARTICULO 87 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
-ARTICULO 87
+ARTICULO 88 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
-El hijo o la hija que no hayan cumplido 18 años, no pueden contraer matrimonio, sin consentimiento de su padre o de su madre, si vivieran ambos o del que sobreviva. Este derecho lo tiene la madre aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de cualquiera de los abuelos paternos, si vivieran ambos o del que sobreviva. A falta o por imposibilidad de los abuelos paternos, se requiere el consentimiento de cualquiera de los abuelos maternos, o del que sobreviva.
+ARTICULO 89 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
-ARTICULO 88
+ARTICULO 90 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores.
-
-ARTICULO 89
-
-Faltando los tutores, el Juez de primera Instancia de la residencia del menor, suplirá el consentimiento. Contra la resolución denegatoria de dicho Juez, procederá el recurso de apelación para ante el Tribunal Superior de Justicia del Estado. Los procedimientos que hayan de seguirse en los casos a que este artículo se refiere, serán los que determine el Código de la materia.
-
-ARTICULO 90
-
-Ni los ascendientes, ni los tutores, ni el Juez, en sus respectivos casos, pueden revocar el consentimiento que hubieren otorgado. En caso de duda sobre el otorgamiento del consentimiento o de revocación de éste, incumbe al menor interesado, la prueba de que ha sido concedido; y si ésta se produjere en términos hábiles, la revocación no surtirá efecto alguno.
-
-ARTICULO 91
-
-Si el ascendiente o tutor negaren el consentimiento, sin causa justificada, el menor interesado podrá ocurrir al Gobernador del Estado, quien citará a una junta al promovente y al ascendiente o tutor de que se trate, y oyendo a ambas partes, suplirá o no el consentimiento.
+ARTICULO 91 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
 ARTICULO 92
 
 Son impedimentos para celebrar el matrimonio:
 
-I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2014)</small>
 
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o del juez, en sus respectivos casos;
+I.- La falta de edad requerida por la ley;
+
+II.- (DEROGADA, G.O. 3 DE FEBRERO DE 2014)
 
 III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en línea recta, ascendiente o descendiente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -561,9 +551,13 @@ IX.- (DEROGADA, G.O. 7 DE AGOSTO DE 2008)
 
 X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2014)</small>
 
-Las dispensas serán otorgadas por el Gobierno del Estado.
+De estos impedimentos sólo es indispensable el parentesco de consanguinidad en línea colateral desigual.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2014)</small>
+
+Las dispensas serán otorgadas por la autoridad jurisdiccional.
 
 > <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
 
@@ -675,31 +669,13 @@ ARTICULO 110
 
 La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>(REFORMADO, G.O. 10 DE JULIO DE 1971)</small>
+ARTICULO 111 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
-ARTICULO 111
+ARTICULO 112 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer, dejará de ser causa de nulidad:
+ARTICULO 113 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
-I.- Cuando haya habido hijos;
-
-II.- Cuando aunque no los haya habido, el menor hubiere llegado a los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
-
-ARTICULO 112
-
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
-
-ARTICULO 113
-
-Cesa esta causa de nulidad:
-
-I.- Si han pasado los treinta días sin que se haya pedido;
-
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
-
-ARTICULO 114
-
-La nulidad por falta de consentimiento del tutor o del Juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+ARTICULO 114 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
 ARTICULO 115
 
@@ -725,7 +701,7 @@ El miedo y la violencia serán causa de nulidad del matrimonio si concurren las 
 
 I.- Que uno u otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de bienes;
 
-II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
+II.- (DEROGADA, G.O. 3 DE FEBRERO DE 2014)
 
 III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio;
 
@@ -819,9 +795,11 @@ ARTICULO 138
 
 Es ilícito pero no nulo el matrimonio cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa, cuando ésta no se ha otorgado en la forma que requiere el artículo 95, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 94 y 163.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2014)</small>
+
 ARTICULO 139
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+Los que infrinjan el artículo anterior, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
 
 ### CAPITULO V. Del Divorcio
 
@@ -1065,9 +1043,7 @@ ARTICULO 168
 
 Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieren después. El cambio de un régimen por el otro durante el matrimonio deberá ser sancionado por autoridad judicial o notario público e inscrito en el Registro Público de la Propiedad.
 
-ARTICULO 169
-
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+ARTICULO 169 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
 ARTICULO 170
 
@@ -1099,11 +1075,11 @@ ARTICULO 174
 
 En este caso, la alteración que se haga de las capitulaciones deberán también otorgarse en escritura pública, haciendo la respectiva anotación en el Protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efectos contra tercero.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2014)</small>
+
 ARTICULO 175
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 169.
-
-Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos.
 
 ARTICULO 176
 
@@ -1215,11 +1191,11 @@ ARTICULO 196
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2014)</small>
+
 ARTICULO 197
 
-Durante el matrimonio la separación de bienes terminará para ser substituída por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 169.
-
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+Durante el matrimonio la separación de bienes podrá terminar para ser substituida por la sociedad conyugal.
 
 ARTICULO 198
 
@@ -1305,9 +1281,7 @@ ARTICULO 216
 
 Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
 
-ARTICULO 217
-
-Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
+ARTICULO 217 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
 ARTICULO 218
 
@@ -3323,9 +3297,7 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ### CAPITULO I. De la emancipación
 
-ARTICULO 571
-
-El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+ARTICULO 571 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
 > <small>(REFORMADO, G.O. 10 DE JULIO DE 1971)</small>
 
@@ -3339,7 +3311,7 @@ ARTICULO 573
 
 El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
 
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto, o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto, el del juez;
+I.- (DEROGADA, G.O. 3 DE FEBRERO DE 2014)
 
 II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
 
@@ -4133,11 +4105,7 @@ II.- El nombre y demás generales de las personas que han tenido al incapacitado
 
 III.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza, o los datos que identifiquen a los bienes, si la garantía consiste en hipoteca o prenda.
 
-> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
-
-ARTICULO 719
-
-En los casos de emancipación por efectos del matrimonio no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, procediendo conforme al artículo 676.
+ARTICULO 719 (DEROGADO, G.O. 3 DE FEBRERO DE 2014)
 
 > <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -4195,9 +4163,11 @@ ARTICULO 726
 
 Al escrito a que se refiere el artículo anterior, se acompañará:
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2014)</small>
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 87, 88 y 89;
+I. El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que ambos son mayores de dieciocho años;
+
+II.- (DEROGADA, G.O. 3 DE FEBRERO DE 2014)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -4217,7 +4187,9 @@ c). Que no padecen trastorno mental o de comportamiento que afecte la capacidad 
 
 Los resultados de los exámenes a que se refiere el inciso b) tendrán naturaleza confidencial; serán útiles sólo para informar a la pareja y remitirla a las instituciones del sector salud estatal donde recibirán el tratamiento correspondiente;
 
-VI.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio, se tendrá en cuenta lo que disponen los artículos 177 y 199, Y el Encargado del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber, a efecto de que el convenio quede debidamente formulado;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE FEBRERO DE 2014)</small>
+
+VI. El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. No puede dejarse de presentar este convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 177 y 199, y el Encargado del Registro Civil deberá tener especial cuidado sobre ese punto, explicando a los interesados todo lo que necesiten saber, a efecto de que el convenio quede debidamente formulado.
 
 Si de acuerdo con lo dispuesto en el artículo 173 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
 
@@ -4235,7 +4207,9 @@ En el caso de que los pretendientes, por falta de conocimientos, no puedan redac
 
 ARTICULO 728
 
-El Encargado del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 726 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE FEBRERO DE 2014)</small>
+
+El Encargado del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 726 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Éste, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
 
 Si los contrayentes son individuos de los que menciona el artículo 16, la omisión de algún requisito, no implicará la nulidad del matrimonio; pero, en su caso, se observará lo dispuesto por los artículos 166 y 171, y por el propio artículo 16.
 
@@ -4263,13 +4237,15 @@ Se levantará luego el acta de matrimonio en la cual se hará constar:
 
 I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
-II.- Si son mayores o menores de edad;
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2014)</small>
+
+II. Si son mayores de edad;
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 III.- Los nombres, apellidos, nacionalidad y domicilio de los padres;
 
-IV.- El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlo;
+IV.- (DEROGADA, G.O. 3 DE FEBRERO DE 2014)
 
 V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
@@ -6651,7 +6627,7 @@ V.- El derecho de las personas físicas o morales para reclamar la propiedad, po
 
 Para los efectos del párrafo anterior, los bienes muebles causarán abandono y pasarán al fisco del Estado con deducción, en su caso, de un cincuenta por ciento del valor en que fueran enajenados para el dueño del corralón o depósito.
 
-Se entiende que hay abandono, con la consecuente pérdida de propiedad o posesión, cuando transcurrido un lapso de dos años contados a partir de que el bien se secuestró, resguardó, depositó, aseguró, embargó o custodió, el propietario o legítimo poseedor no reclame de la autoridad correspondiente la devolución del bien y que además no haya efectuado el pago que de cualquier naturaleza esté obligado a hacer, o que habiéndolo hecho no recoja el bien en un plazo de quinde días naturales del corralón o depósito respectivo.
+Se entiende que hay abandono, con la consecuente pérdida de propiedad o posesión, cuando transcurrido un lapso de dos años contados a partir de que el bien se secuestró, resguardó, depositó, aseguró, embargó o custodió, el propietario o legítimo poseedor no reclame de la autoridad correspondiente la devolución del bien y que además no haya efectuado el pago que de cualquier naturaleza esté obligado a hacer, o que habiéndolo hecho no recoja el bien en un plazo de quince días naturales del corralón o depósito respectivo.
 
 Los titulares de los poderes Ejecutivo o Judicial del Estado, o quien ellos autoricen y en su caso el juez que ordenó el acto jurídico, expedirán el aviso correspondiente que será publicado en la Gaceta Oficial del estado y de considerarlo necesario en los periódicos de la región en donde se encuentre el bien, concediendo un plazo de quince días naturales para que quien tenga derecho reclame la devolución del bien, efectúe el pago y su retiro del corralón o depósito respectivo; actualizada la condición de abandono, la autoridad fiscal procederá a su venta, donación, remate o destrucción sin sustanciar artículo. Estas disposiciones regirán también respecto de los bienes muebles en abandono por más de dos años.
 
@@ -7617,9 +7593,11 @@ ARTICULO 1399
 
 El legado de educación dura hasta que el legatario sale de la menor edad.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2014)</small>
+
 ARTICULO 1400
 
-Cesa también el legado de educación, si el legatario, durante la menor edad, obtiene profesión u oficio con que poder subsistir, o si contrae matrimonio.
+Cesa también el legado de educación, si el legatario, durante la menor edad, obtiene profesión u oficio con que poder subsistir.
 
 ARTICULO 1401
 
@@ -8551,7 +8529,7 @@ El derecho de reclamar la herencia prescribe en diez años y es transmisible a l
 
 ARTICULO 1586
 
-Pueden acepta o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
+Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
 
 ARTICULO 1587
 
@@ -16158,3 +16136,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los procedimientos regulados por las disposiciones que son reformadas mediante el presente Decreto, y que se encuentren en trámite, deberán ajustarse a los términos previstos en el mismo.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE FEBRERO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. A los cónyuges que a partir de la entrada en vigor del presente Decreto aún no hubieran adquirido la mayoría de edad, en virtud de haber contraído nupcias al amparo de las disposiciones que ahora se reforman y derogan, les serán aplicables las disposiciones de referencia hasta en tanto adquieran la mayoría de edad.
+
+Tercero. Se deroga cualquier disposición que contravenga el presente Decreto.
