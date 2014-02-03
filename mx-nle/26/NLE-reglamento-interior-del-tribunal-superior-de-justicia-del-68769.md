@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2013-02-27"
+last_updated: "2014-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -483,13 +483,13 @@ II. Juicios Especiales de Arrendamiento; e,
 
 III. Informaciones de Dominio.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 39.
 
 Competencia de las Salas Colegiadas Penales. Las Salas Colegiadas Penales conocerán de los recursos siguientes:
 
-a) De las apelaciones en artículo y contra las sentencias definitivas derivadas de los delitos que a continuación se precisan:
+a) De las apelaciones contra las sentencias definitivas derivadas de los delitos que a continuación se precisan:
 
 I. Delitos cometidos contra la seguridad interior del Estado y contra la seguridad pública, tipificados, sancionados y regulados en los artículos 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 161 Bis, 161 Bis 2, 162, 163, 164, 165, 165 Bis y 176 del Código Penal del Estado.
 
@@ -507,7 +507,7 @@ VII. Delitos electorales tipificados, sancionados y regulados en los artículos 
 
 VIII. Delitos contra la salud en su modalidad de narcomenudeo, tipificados, sancionados y regulados en los artículos 473, 475, 476, 477 y 479 de la Ley General de Salud, así como en el Código Penal del Estado,
 
-b) De los recursos de apelación relativos a los delitos con prisión preventiva de oficio, previstos en el artículo 171 del Código Procesal Penal para el Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 5 de julio de 2011; y de los recursos de casación y revisión regulados en la referida codificación adjetiva.
+b) De los recursos de apelación contra sentencias definitivas dictadas en los procedimientos abreviados relativos a los delitos con prisión preventiva de oficio, previstos en el artículo 171 del Código Procesal Penal para el Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 5 de julio de 2011; y de los recursos de casación y revisión regulados en la referida codificación adjetiva.
 
 Cuando exista concurso entre delitos del fuero común que sean competencia de las Salas Colegiadas y de las Salas Unitarias, será competente para conocer de ellos la Sala Colegiada.
 
@@ -806,3 +806,9 @@ PRIMERO: El presente Acuerdo General, así como las reformas al Reglamento Inter
 SEGUNDO: Se ordena la publicación del presente Acuerdo General, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
 
 Las anteriores determinaciones se tomaron en la sesión ordinaria del Pleno del Tribunal Superior de Justicia del Estado, en la ciudad de Monterrey, Nuevo León, llevada a cabo el día 25 veinticinco de febrero de 2013 dos mil trece.
+
+P.O. 3 DE FEBRERO DE 2014.
+
+PRIMERO: Las presentes reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
