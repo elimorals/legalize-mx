@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-desarrollo-social-89854
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-21"
-last_updated: "2012-09-21"
+last_updated: "2014-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN LA G.O. DE 3 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE FEBRERO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 21 de septiembre de 2012.
 
@@ -960,3 +962,15 @@ Gobernador del Estado
 Rúbrica.
 
 Esta firma del Dr. Javier Duarte de Ochoa, Gobernador del Estado de Veracruz, pertenece al Reglamento Interior de Desarrollo Social de fecha veinticuatro de agosto de 2012.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 3 DE FEBRERO DE 2014.
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el reglamento interior publicado en la Gaceta Oficial del Gobierno del Estado, el 21 de septiembre de 2012, en el número extraordinario 325.
+
+TERCERO. Se establece un plazo de 120 días naturales para que la secretaria expida sus manuales de organización, procedimientos y servicios al público, respectivos para cada área administrativa, los cuales deberán de publicarse a través de la página web de la secretaria.
+
+CUARTO. En tanto se expiden los manuales a que se refiere el artículo anterior, el secretario tendrá las facultades intrínsecas para resolver las cuestiones administrativas que deban regularse.
