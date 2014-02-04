@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2013-11-26"
+last_updated: "2014-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -853,6 +853,8 @@ Para el ejercicio de las facultades y obligaciones que corresponden a los Síndi
 
 ### CAPITULO X. DE LAS COMISIONES
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2014)</small>
+
 ### CAPITULO XI
 
 DEL REGIMEN ADMINISTRATIVO.
@@ -861,7 +863,7 @@ DEL REGIMEN ADMINISTRATIVO.
 
 ###### ARTICULO 62.
 
-El Ayuntamiento, en la primera quincena de enero del año siguiente de la elección, nombrará entre sus miembros comisiones que vigilarán el ramo de la administración municipal que se les encomiende.
+El Ayuntamiento, durante el mes de octubre del año de la elección, nombrará entre sus miembros comisiones que vigilarán el ramo de la administración municipal que se les encomiende.
 
 ###### ARTICULO 63.
 
@@ -1487,7 +1489,7 @@ Son objeto de este impuesto: Los predios urbanos, suburbanos y rústicos localiz
 
 ###### ARTICULO 105.
 
-Para los efectos de este impuesto se considera:
+- Para los efectos de este impuesto se considera:
 
 I.- Predios:
 
@@ -2321,9 +2323,13 @@ El Ayuntamiento, al rendir su informe anual por conducto del Presidente Municipa
 
 El contenido de las Cuentas Públicas Municipales, deberá relacionarse, en lo conducente, con la información anterior, a fin de permitir al Congreso del Estado el análisis de éstas de acuerdo con los fines y prioridades de la función municipal.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2014)</small>
 
-Con independencia de la rendición de cuentas a que se refiere el párrafo anterior, el Ayuntamiento remitirá al Congreso del Estado, dentro de la última quincena del primer trimestre de cada año de calendario el informe anual de ejecución del Plan Municipal de Desarrollo, con el señalamiento de los resultados alcanzados y las desviaciones u obstáculos para su concreción, así como las modificaciones y ajustes que se hubieren aprobado en torno al propio plan. En todo caso, las adecuaciones y modificaciones del Plan Municipal de Desarrollo se publicarán en el Periódico Oficial del Estado.
+Con independencia de la rendición de cuentas a que se refiere el párrafo anterior, el Ayuntamiento remitirá al Congreso del Estado, dentro de la segunda quincena del mes de septiembre de cada año, el informe anual de ejecución del Plan Municipal de Desarrollo, con el señalamiento de los resultados alcanzados de acuerdo a los indicadores establecidos en el mismo, así como las modificaciones y ajustes que se hubieran efectuado al propio Plan, además de precisar en su caso las desviaciones u obstáculos que se hayan presentado para la concreción de los objetivos fijados.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2014)</small>
+
+Todo cambio realizado al Plan Municipal de Desarrollo con motivo de su perfeccionamiento o actualización, deberá ser aprobado por acuerdo de la mayoría de los miembros del Ayuntamiento, debiéndose informar inmediatamente al Congreso del Estado y se mandará publicar en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
@@ -2417,9 +2423,7 @@ Las remuneraciones a los integrantes del Comité quedarán a cargo de las depend
 
 (REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
-### CAPITULO V
-
-DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS.
+### CAPITULO V. DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS
 
 ###### ARTICULO 199.
 
@@ -4096,3 +4100,13 @@ P.O. 26 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 4 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los nombramientos de comisiones efectuados por las actuales administraciones públicas municipales previo a la entrada en vigor del presente Decreto tendrán plena validez, así como aquellos que se efectúen antes del 15 de enero de 2014.
