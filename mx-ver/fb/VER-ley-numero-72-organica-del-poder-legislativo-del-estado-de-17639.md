@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2013-11-28"
+last_updated: "2014-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -415,7 +415,13 @@ XLVI. Elaborar, aprobar y ejercer su presupuesto anual de egresos, de conformida
 
 XLVII. Organizar anualmente, a través de la Comisión Permanente de Equidad, Género y Familia, el Parlamento de las Mujeres Veracruzanas; y
 
-XLVIII. Las demás que le confieran la Constitución Federal, la Constitución local, las leyes del Estado y las que sean necesarias para hacer efectivas sus atribuciones.
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2014)</small>
+
+XLVIII. Realizar investigaciones y estudios referentes a la situación de las mujeres y los hombres en el Estado de Veracruz, a fin de que las leyes u otros ordenamientos legales que expida el Congreso promuevan los Derechos Humanos, la igualdad entre los sexos y mejoren su condición de vida; y
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2014)</small>
+
+XLIX. Las demás que le confieran la Constitución Federal, la Constitución Local, las leyes del Estado y las que sean necesarias para hacer efectivas sus atribuciones.
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
@@ -1051,6 +1057,10 @@ g) Archivo; y
 
 h) Servicio Médico y Seguridad;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2014)</small>
+
+i) Centro de Estudios para la igualdad de Género y los Derechos Humanos.
+
 X. Las demás que expresamente le confieran esta ley, la normatividad interior del Congreso y demás leyes del Estado.
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
@@ -1382,3 +1392,9 @@ G.O. 28 DE NOVIEMBRE DE 2013.
 PRIMERO. EL PRESENTE DECRETO INICIARÁ SU VIGENCIA EL DÍA DE SU PUBLICACIÓN EN LA GACETA OFICIAL DEL ESTADO.
 
 SEGUNDO. SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+G.O. 4 DE FEBRERO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. El procedimiento para la implementación del Centro de Estudios para la igualdad de Género y los Derechos Humanos se establecerá en el Reglamento de los Servicios Administrativos del Congreso del Estado de Veracruz de Ignacio de la Llave, que deberá reformarse dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
