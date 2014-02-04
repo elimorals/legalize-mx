@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2013-09-30"
+last_updated: "2014-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2014.
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. LXI-586, PUBLICADO EN EL P.O. 18 DE DICIEMBRE DE 2012, TODA MENCIÓN, O REFERENCIA QUE SE HAGA DE LA "SUBSECRETARÍA DE REINSERCIÓN SOCIAL Y DE LA COORDINACIÓN GENERAL DE REINSERCIÓN SOCIAL Y EJECUCIÓN DE SANCIONES O DE SUS TITULARES", EN CUALQUIER DISPOSICIÓN JURÍDICA DEL ESTADO, SE ENTENDERÁ HECHA A LA "SUBSECRETARÍA DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL Y A SU TITULAR, EL SUBSECRETARIO DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL".</small>
 
@@ -645,13 +645,29 @@ XXIII.- Llevar a cabo el proceso de detención de personas y aseguramiento de ar
 
 XXIV.- Dar vista al Consejo de Desarrollo Policial sobre las faltas, a los principios de actuación previstos en esta ley, en que incurran los integrantes de su institución policial así como al Reglamento de Desarrollo Policial de las Instituciones Preventivas del Estado de Tamaulipas. Asimismo, establecer las medidas de control para garantizar el cumplimiento y desempeño de las funciones asignadas al personal operativo de esta Dirección;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXV.- Promover la profesionalización de los integrantes de esta Institución policial; y
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+XXV.- Promover la profesionalización de los integrantes de esta Institución policial;
 
-XXVI.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2014)</small>
+
+XXVI.- Llevar a cabo las funciones y obligaciones establecidas en el Código de Procedimientos Penales del Estado de Tamaulipas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2014)</small>
+
+XXVII.- Otorgar y garantizar la protección y auxilio en todo momento a las víctimas de los delitos; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2014)</small>
+
+XXVIII.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -821,9 +837,29 @@ XII. Aplicar las sanciones y correcciones disciplinarias que procedan al persona
 
 XIII. Dar vista al Consejo de Desarrollo Policial de las irregularidades en que haya incurrido algún integrante de la institución policial a su cargo, a efecto de que se le instaure el procedimiento que corresponda;
 
-XIV. Proponer al Secretario de Seguridad Pública, en su caso, los estímulos y reconocimientos a los integrantes de las instituciones policiales a su mando que se destaquen en el cumplimiento de sus atribuciones; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2014)</small>
+
+XIV.- Proponer al Secretario de Seguridad Pública, en su caso, los estímulos y reconocimientos a los integrantes de las instituciones policiales a su mando que se destaquen en el cumplimiento de sus atribuciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2014)</small>
+
+XV.- Llevar a cabo las funciones y obligaciones establecidas en el Código de Procedimientos Penales del Estado de Tamaulipas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2014)</small>
+
+XVI.- Otorgar y garantizar la protección y auxilio en todo momento a las víctimas de los delitos; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2014)</small>
+
+XVII.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTICULO 29.
 
@@ -1902,3 +1938,9 @@ En los casos conducentes, el titular de la dependencia cabeza de sector, así co
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+
+P.O. 4 DE FEBRERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto deberá ser publicado en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación, con excepción de las atribuciones inherentes al nuevo sistema de justicia penal, las cuales entrarán en vigor de manera sucesiva, conforme a las fechas de aplicación del Código de Procedimientos Penales del Estado de Tamaulipas, expedido mediante Decreto No. LXI-475 y reformado mediante Decreto No. LXI-862, publicado en el Periódico Oficial del Estado extraordinario al número 3 de fecha 7 de junio de 2013.
