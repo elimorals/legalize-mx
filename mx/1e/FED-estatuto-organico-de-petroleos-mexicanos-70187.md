@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-70187"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-09-24"
-last_updated: "2013-09-30"
+last_updated: "2014-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,13 @@ issue_date: "2009-09-24"
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE FEBRERO DE 2014.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 24 de septiembre de 2009.
 
 Al margen un logotipo, que dice: Petróleos Mexicanos.
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL CUARTO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 4 DE FEBRERO DE 2014, LAS REFERENCIAS QUE SE HAGAN Y LAS ATRIBUCIONES QUE SE OTORGAN EN OTRA NORMATIVIDAD A LA GERENCIA DE DESARROLLO SOCIAL, SE ENTENDERÁN HECHAS O CONFERIDAS A LA GERENCIA DE RESPONSABILIDAD Y DESARROLLO SOCIAL.</small>
 
 ESTATUTO ORGANICO DE PETROLEOS MEXICANOS
 
@@ -319,8 +321,6 @@ II. Formular y presentar para autorización del Consejo el portafolio de inversi
 
 III. Resolver conflictos entre las direcciones corporativas, y los organismos subsidiarios, y entre estos últimos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
-
 > <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 IV. Llevar, con apoyo del Director Jurídico, un registro del otorgamiento y revocación de poderes generales y especiales a personas ajenas a PEMEX, y hacerlo del conocimiento de los miembros del Consejo;
@@ -343,7 +343,13 @@ XI. Establecer rangos en los montos de los contratos que los directivos de PEMEX
 
 XII. Disponer, de conformidad con las normas expedidas por el Consejo, de los activos fijos de PEMEX que no sean útiles o que no correspondan a las operaciones propias de su objeto;
 
-XIII. Recibir las solicitudes y autorizar los donativos y las donaciones en efectivo o en especie que PEMEX otorgue, en términos de los lineamientos que expida el Consejo de Administración, y fijar, con base en éstos, las directrices para el análisis y dictamen de las solicitudes, así como para el seguimiento y verificación de su aplicación;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
+XIII. Recibir las solicitudes y autorizar los apoyos en materia de responsabilidad y desarrollo social que otorga PEMEX, relacionados con donativos en numerario y donaciones en especie, obras de beneficio mutuo y participación, así como el otorgamiento de becas, en términos de la normatividad que emita para tal efecto el Consejo de Administración, y fijar, con base en éstos, las directrices para el análisis y dictamen de las solicitudes, así como el seguimiento de su aplicación;
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
+XIII Bis. Recibir las solicitudes y coordinar las acciones para el otorgamiento de apoyos en materia de responsabilidad y desarrollo social que otorgan los Organismos Subsidiarios, relacionados con donaciones en especie, obras de beneficio mutuo y participación, así como el otorgamiento de becas, en términos de la normatividad que emita para tal efecto el Consejo de Administración, y fijar, con base en éstos, las directrices para el análisis y dictamen de las solicitudes, así como el seguimiento de su aplicación;
 
 XIV. Conducir la política y establecer las directrices para la programación, instrumentación y evaluación de las acciones de apoyo de PEMEX y sus organismos subsidiarios para el desarrollo comunitario sustentable, que hagan viable las actividades productivas de la empresa, y para la coordinación en esta materia con las dependencias y entidades federales, autoridades locales y organizaciones sociales;
 
@@ -569,7 +575,11 @@ II.- Dirección Corporativa de Administración
 
 1. Gerencia de Servicios de Seguridad Física
 
-2. Gerencia de Desarrollo Social
+2. (DEROGADO, D.O.F. 4 DE FEBRERO DE 2014)
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
+3. Gerencia de Seguridad, Salud en el Trabajo y Protección Ambiental
 
 a) Coordinación de Programas Gubernamentales y Consolidación Estratégica
 
@@ -953,6 +963,10 @@ VII. A.- Unidad de Control Interno Institucional
 
 4. Gerencia de Enlace y Control de Auditorías y Fiscalización
 
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
+VII. Bis Gerencia de Responsabilidad y Desarrollo Social
+
 VIII.- Organo Interno de Control
 
 ###### Artículo 35.
@@ -1007,7 +1021,7 @@ XVI. Dirigir los trabajos relativos a la Ley Federal de Transparencia y Acceso a
 
 XVII. Autorizar las estrategias institucionales de desarrollo sociocultural, prestaciones contractuales y programas de vivienda, así como coordinar la realización de las actividades en esta materia, que contribuyan al bienestar de los trabajadores de PEMEX y de los organismos subsidiarios;
 
-XVIII. Coordinar la instrumentación de las autorizaciones y de la verificación y comprobación de los donativos y donaciones en efectivo o en especie que PEMEX otorgue, en términos de los lineamientos que expida el Consejo de Administración y de las directrices que fije el Director General;
+XVIII. (DEROGADA, D.O.F. 4 DE FEBRERO DE 2014)
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -1021,13 +1035,19 @@ XXI. Dirigir y garantizar la prestación de los servicios aduanales para PEMEX y
 
 XXII. Establecer la cartera de servicios corporativos en el ámbito de su competencia, y aplicar la mecánica de cálculo de precios de los mismos;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
 
-XXIII. Ejercer el presupuesto autorizado por el Consejo de Administración para sus comités, con base en los requerimientos que hayan sido formulados por conducto de sus presidentes, y
+XXIII. Ejercer el presupuesto autorizado por el Consejo de Administración para sus comités, con base en los requerimientos que hayan sido formulados por conducto de sus presidentes;
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+XXIV. (DEROGADA, D.O.F. 4 DE FEBRERO DE 2014)
 
-XXIV. Coordinar las relaciones institucionales de PEMEX con los gobiernos estatales, municipales, así como con las organizaciones sociales en materia de donativos y donaciones.
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
+XXV. Coordinar la ejecución de los planes y programas del Sistema de Administración de Seguridad, Salud en el Trabajo y Protección Ambiental de Petróleos Mexicanos en los inmuebles propiedad y/o en posesión de los Organismos Subsidiarios y de PEMEX que sean administrados por este último, con base en las estrategias, objetivos, metas y directrices, establecidos por la Dirección Corporativa de Operaciones, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
+XXVI. Administrar el uso del acrónimo “Pemex” y de las marcas respectivas, así como, en su caso, suscribir los convenios que se requieran para ello, en representación de PEMEX.
 
 ###### Artículo 37.
 
@@ -1061,41 +1081,35 @@ IX. Seleccionar, de conformidad con las disposiciones administrativas en materia
 
 X. Planear y operar un sistema de información sobre riesgos, amenazas o acontecimientos de seguridad física, que puedan afectar a PEMEX, Organismos Subsidiarios y filiales, en su personal, instalaciones, bienes y valores.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 38.
 
-La Gerencia de Desarrollo Social tendrá las funciones siguientes:
+La Gerencia de Seguridad, Salud en el Trabajo y Protección Ambiental tendrá, conforme a las estrategias, objetivos, metas y directrices establecidos por la Dirección Corporativa de Operaciones, las funciones siguientes:
 
-I. Colaborar en el diseño e instrumentación de los programas institucionales de desarrollo comunitario sustentable, incorporando en los mismos los apoyos que otorga PEMEX y organismos subsidiarios por medio de donativos y donaciones;
+I. Implementar las directrices y estrategias institucionales, diseñadas por la Dirección Corporativa de Operaciones, en materia de mejora del desempeño en seguridad, salud en el trabajo y protección ambiental, en los inmuebles propiedad y/o en posesión de los Organismos Subsidiarios y de PEMEX que sean administrados por este último;
 
-II. Elaborar y proponer al Director General los criterios y lineamientos para el otorgamiento de donativos y donaciones, en efectivo o en especie, así como sus modificaciones, que deben ser presentados al Consejo de Administración, para su aprobación;
+II. Participar en el diseño de las estrategias institucionales y establecer estándares, sistemas, competencias y soporte para la administración de riesgos, emanados del Sistema de Administración de Seguridad, Salud en el Trabajo y Protección Ambiental de Petróleos Mexicanos, para su aplicación en los inmuebles propiedad y/o en posesión de los Organismos Subsidiarios y de PEMEX que sean administrados por este último;
 
-III. Elaborar y proponer al Director General la previsión presupuestal anual de donativos y donaciones, para su aprobación por el Consejo de Administración;
+III. Asesorar y capacitar en materia de seguridad, salud en el trabajo, protección ambiental y desarrollo sustentable a las unidades administrativas ubicadas en los inmuebles propiedad y/o en posesión de los Organismos Subsidiarios y de PEMEX que sean administrados por este último;
 
-IV. Participar en la elaboración de la metodología para la distribución de donativos y donaciones, considerando el presupuesto anual autorizado por el Consejo de Administración;
+IV. Implementar, con las unidades administrativas de PEMEX, las acciones necesarias para la mejora continua en materia de seguridad, salud en el trabajo y protección ambiental;
 
-V. Analizar, evaluar y emitir opinión respecto a las solicitudes de donativos y donaciones presentadas por terceros a PEMEX y organismos subsidiarios, así como verificar que las mismas se ajusten a los criterios y lineamientos para su otorgamiento, aprobados por el Consejo de Administración, y a los procedimientos previstos en la normatividad interna;
+V. Aplicar los programas de auditoría para evaluar el cumplimiento de la implantación y ejecución del Sistema de Administración de Seguridad, Salud en el Trabajo y Protección Ambiental de Petróleos Mexicanos, en los inmuebles propiedad y/o en posesión de los Organismos Subsidiarios y de PEMEX que sean administrados por este último y coordinar la elaboración de los reportes que correspondan;
 
-VI. Elaborar y gestionar la suscripción de instrumentos legales, por medio de los cuales se formalice el otorgamiento de donativos y donaciones autorizados por las instancias correspondientes; así como coordinar dichas acciones, tratándose de los organismos subsidiarios;
+VI. Apoyar en la verificación del cumplimiento de las disposiciones jurídicas y administrativas en materia de seguridad, salud en el trabajo y protección ambiental, en los inmuebles propiedad y/o en posesión de los Organismos Subsidiarios y de PEMEX que sean administrados por este último y, en su caso, proveer el soporte técnico para su cumplimiento;
 
-VII. Programar y coordinar la entrega de donativos y donaciones de PEMEX, conforme a las indicaciones del Director General;
+VII. Atender las inspecciones, auditorías o cualquiera otra evaluación, que soliciten las autoridades externas, en materia de seguridad, salud en el trabajo y protección ambiental, en los inmuebles propiedad y/o en posesión de los Organismos Subsidiarios y de PEMEX que sean administrados por este último;
 
-VIII. Verificar la aplicación de los donativos y donaciones, así como el cumplimiento de las demás obligaciones por partes (sic) de los beneficiarios;
+VIII. Participar en el diseño de estrategias institucionales en materia de emergencias y protección civil e implementar los planes de respuesta a emergencias en materia de seguridad, salud en el trabajo y protección ambiental, en los inmuebles propiedad y/o en posesión de los Organismos Subsidiarios y de PEMEX que sean administrados por este último;
 
-IX. Elaborar diagnósticos sobre la relación que prevalece entre PEMEX y las autoridades locales, organizaciones sociales y grupos comunitarios, precisando la problemática específica que enfrenta PEMEX y organismos subsidiarios en las zonas en donde opera;
+IX. Realizar la investigación de accidentes e incidentes en los inmuebles propiedad y/o en posesión de los Organismos Subsidiarios y de PEMEX que sean administrados por este último;
 
-X. Promover e impulsar programas de vinculación con las comunidades, y proponer acciones orientadas a prevenir conflictos con éstas donde operan PEMEX y organismos subsidiarios, así como coadyuvar a su solución cuando éstos se presenten;
+X. Implementar planes y programas de protección ambiental alineados a la estrategia de PEMEX, en materia de emisiones al aire, manejo de agua, manejo de residuos y atención de sitios contaminados, dentro de los inmuebles propiedad y/o en posesión de los Organismos Subsidiarios y de PEMEX que sean administrados por este último;
 
-XI. Formular y proponer al Director General los acuerdos marco que se consideren conveniente suscribir con los gobiernos de las entidades federativas prioritarias, a fin de establecer bases de colaboración mutua para facilitar la operación de PEMEX y organismos subsidiarios y coadyuvar al desarrollo social de dichas entidades;
+XI. Implementar mecanismos para fomentar la cultura de seguridad, salud en el trabajo, protección ambiental y desarrollo sustentable en las unidades administrativas de PEMEX, y
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XII. Formular y presentar informes trimestrales y anuales acerca de la aplicación, comprobación y resultados obtenidos con motivo de los donativos y donaciones otorgados;
-
-XIII. Formular y presentar al Director General un informe anual sobre el cumplimiento de los criterios y lineamientos aprobados por el Consejo de Administración y del ejercicio de los recursos autorizados para donativos y donaciones de PEMEX y sus organismos subsidiarios;
-
-XIV. Integrar y mantener actualizada la información que se difunda en el portal de internet de PEMEX sobre los criterios, lineamientos y procedimientos para el otorgamiento y comprobación de donativos y donaciones, así como sobre su aplicación y resultados, y
-
-XV. Coordinar y supervisar la integración del acervo histórico documental sobre la industria petrolera en el país, conforme a la normatividad aplicable.
+XII. Participar con las subdirecciones de Disciplina Operativa, Seguridad, Salud y Protección Ambiental, de Recursos Humanos y Relaciones Laborales y de Servicios de Salud, en la coordinación de los cursos y programas de formación de profesionales, en las materias de seguridad, salud en el trabajo, protección ambiental y en el uso eficiente y racional de la energía en PEMEX.
 
 ###### Artículo 39.
 
@@ -1121,7 +1135,9 @@ IX. Coordinar los trabajos y atención de requerimientos derivados de la Ley Fed
 
 X. Asesorar a PEMEX en la atención y cumplimiento de disposiciones y requerimientos derivados de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, su Reglamento y demás disposiciones aplicables;
 
-XI. Coordinar y asesorar a las áreas de PEMEX para la organización y administración de documentos archivísticos contenidos en cualquier medio, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental su Reglamento y demás disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
+XI. Coordinar y asesorar a las áreas de PEMEX para la organización y administración de documentos archivísticos contenidos en cualquier medio, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, su Reglamento y demás disposiciones aplicables, así como la integración del acervo histórico documental sobre la industria petrolera en el país;
 
 XII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
@@ -1629,11 +1645,17 @@ VII. Coordinar y supervisar los procesos inherentes a los servicios aduanales, a
 
 VIII. Establecer las metodologías para determinar el costo de los servicios corporativos, que presta la Dirección Corporativa de Administración;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
 
-IX. Proponer y aplicar la metodología para el cálculo de los precios por los servicios corporativos, que presta la Dirección Corporativa de Administración, y
+IX. Proponer y aplicar la metodología para el cálculo de los precios por los servicios corporativos, que presta la Dirección Corporativa de Administración;
 
-X. Coordinar y administrar las oficinas foráneas de representación aduanal para la prestación de los servicios aduanales.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
+X. Coordinar y administrar las oficinas foráneas de representación aduanal para la prestación de los servicios aduanales, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
+XI. Coordinar el uso del acrónimo “Pemex” y de las marcas respectivas, así como suscribir los convenios que se requieran para ello, en representación de PEMEX.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -5709,6 +5731,44 @@ IX. Atender las acciones formuladas por la Auditoría Superior de la Federación
 
 X. Asesorar a las unidades administrativas de PEMEX y Organismos Subsidiarios involucradas en las promociones de responsabilidad administrativa sancionatoria y en pliegos de observaciones emitidos por la Auditoría Superior de la Federación.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2014)</small>
+
+###### Artículo 147 Bis.
+
+La Gerencia de Responsabilidad y Desarrollo Social tendrá las funciones siguientes:
+
+I. Coordinar el diseño e instrumentación de los programas institucionales de desarrollo comunitario sustentables y sostenibles, incorporando en los mismos los apoyos que en materia de responsabilidad y desarrollo social otorga PEMEX, relacionados con donativos en numerario y donaciones en especie, obras de beneficio mutuo y otorgamiento de becas, con la participación y coordinación de diversas instancias municipales, estatales y federales;
+
+II. Coordinar el diseño e instrumentación de los programas institucionales de desarrollo comunitario sustentables y sostenibles, incorporando en los mismos los apoyos que en materia de responsabilidad y desarrollo social otorgan los Organismos Subsidiarios, relacionados con donaciones en especie, obras de beneficio mutuo y otorgamiento de becas, con la participación y coordinación de diversas instancias municipales, estatales y federales;
+
+III. Establecer y proponer al Director General el programa anual de asuntos prioritarios en materia de responsabilidad y desarrollo social;
+
+IV. Proponer al Director General la previsión presupuestal anual de los apoyos en materia de responsabilidad y desarrollo social que otorga PEMEX, para su aprobación por el Consejo de Administración;
+
+V. Coordinar la elaboración de la metodología para la distribución de apoyos en materia de responsabilidad y desarrollo social que otorga PEMEX, considerando el presupuesto anual autorizado por el Consejo de Administración;
+
+VI. Evaluar y emitir opinión respecto a las solicitudes de apoyos en materia de responsabilidad y desarrollo social presentadas por terceros a PEMEX, así como verificar que las mismas se ajusten a la normatividad para su otorgamiento, aprobada por el Consejo de Administración, y a los procedimientos previstos en la normatividad interna;
+
+VII. Suscribir los instrumentos jurídicos autorizados por las instancias correspondientes por medio de los cuales se formaliza el otorgamiento de los apoyos en materia de responsabilidad y desarrollo social; así como coordinar dichas acciones tratándose de los Organismos Subsidiarios;
+
+VIII. Programar y coordinar la entrega de los apoyos en materia de responsabilidad y desarrollo social que otorga PEMEX;
+
+IX. Coordinar la entrega de los apoyos en materia de responsabilidad y desarrollo social que otorgan los Organismos Subsidiarios;
+
+X. Revisar la aplicación de los apoyos en materia de responsabilidad y desarrollo social, así como el cumplimiento de las demás obligaciones contractuales por parte de los beneficiarios;
+
+XI. Desarrollar diagnósticos sobre la relación que prevalece entre PEMEX y las autoridades federales, estatales y municipales, organizaciones sociales y grupos comunitarios;
+
+XII. Establecer y coordinar programas de vinculación con las zonas y proponer acciones orientadas a prevenir conflictos, así como participar en su solución cuando éstos se presenten;
+
+XIII. Elaborar y proponer al Director General los acuerdos marco que se consideren conveniente suscribir con entidades federativas y municipios prioritarios, en materia de colaboración mutua para facilitar la operación de PEMEX y los Organismos Subsidiarios y participar en el desarrollo social de dichas entidades federativas y municipios;
+
+XIV. Elaborar informes trimestrales y anuales acerca de la aplicación, comprobación y resultados obtenidos con motivo de los apoyos en materia de responsabilidad y desarrollo social otorgados;
+
+XV. Elaborar y presentar al Director General un informe anual sobre el cumplimiento de la normatividad aprobada por el Consejo de Administración y del ejercicio de los recursos autorizados para los apoyos en materia de responsabilidad y desarrollo social que hayan autorizado PEMEX y sus Organismos Subsidiarios, y
+
+XVI. Controlar y mantener actualizada la información que se genera por PEMEX y sus Organismos Subsidiarios en el proceso de solicitud, otorgamiento, seguimiento y verificación de los apoyos en materia de responsabilidad y desarrollo social autorizados y otorgados; así como la que se difunda en el portal de internet de PEMEX.
+
 ## TITULO SEXTO. DE LOS SISTEMAS INSTITUCIONALES
 
 ###### Artículo 148.
@@ -5976,3 +6036,15 @@ TERCERO. La Dirección Corporativa de Finanzas y la Unidad de Control Interno In
 CUARTO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará incremento al presupuesto global de servicios personales o en el número total de plazas de PEMEX y organismos subsidiarios.
 
 Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico de Petróleos Mexicanos, fueron aprobadas por el Consejo de Administración de Petróleos Mexicanos, con fundamento en los artículos 6o. y 19, fracción XXI, de la Ley de Petróleos Mexicanos, en sesión ordinaria 860 celebrada el día 23 de agosto de 2013, mediante acuerdo número CA-089/2013.
+
+D.O.F. 4 DE FEBRERO DE 2014.
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los transitorios segundo y tercero.
+
+SEGUNDO. Las adiciones de los artículos 22, fracción XIII Bis, y 147 Bis, fracciones II y IX, del Estatuto Orgánico de Petróleos Mexicanos, entrarán en vigor una vez que se modifiquen los estatutos orgánicos de los Organismos Subsidiarios, en lo referente a apoyos en materia de responsabilidad y desarrollo social.
+
+TERCERO. Respecto a la adición del artículo 147 Bis, fracción VI, la Gerencia de Responsabilidad y Desarrollo Social continuará con la función asignada a la Gerencia de Desarrollo Social, relativa a evaluar y emitir opinión respecto a las solicitudes de apoyos en materia de responsabilidad y desarrollo social presentadas por terceros en lo que se refiere a los Organismos Subsidiarios, hasta en tanto no se modifiquen los estatutos orgánicos de dichos Organismos, en lo que se refiere a apoyos en materia de responsabilidad y desarrollo social, por lo que los terceros podrán seguir presentando a los Organismos Subsidiarios las solicitudes de referencia.
+
+CUARTO. Las referencias que se hagan y las atribuciones que se otorgan en otra normatividad a la Gerencia de Desarrollo Social que cambia de denominación por virtud de las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, se entenderán hechas o conferidas a la Gerencia de Responsabilidad y Desarrollo Social.
+
+QUINTO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas de Petróleos Mexicanos y Organismos Subsidiarios.
