@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2013-12-20"
+last_updated: "2014-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE FEBRERO DE 2014 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE FEBRERO DE 2014.</small>
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -899,7 +899,9 @@ Tratándose de los supuestos establecidos en el inciso b) de la fracción I de e
 
 Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección II del Capítulo III del Título V de este Código, en aquello que no se oponga a lo previsto en este artículo."(sic)
 
-IV (SIC). Solicitar a la autoridad competente se proceda por desobediencia o resistencia, por parte del contribuyente, responsable solidario o tercero relacionado con ellos, a un mandato legítimo de autoridad competente.
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 2014)</small>
+
+VIII. Solicitar a la autoridad competente se proceda por desobediencia o resistencia, por parte del contribuyente, responsable solidario o tercero relacionado con ellos, a un mandato legítimo de autoridad competente.
 
 Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracción I, cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, no atiendan las solicitudes de información o los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados, o cuando destruyan o alteren la misma.
 
@@ -1077,33 +1079,21 @@ Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013) (F. DE E., P.O. 4 DE FEBRERO DE 2014)
 
 ###### ARTÍCULO 50.
 
-Las autoridades fiscales que al ejercer las facultades de comprobación, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución, que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de que venza el plazo a que se refiere la fracción V segundo párrafo del Artículo 46 de este Código, o tratándose de la revisión de la contabilidad de los contribuyentes que se efectué en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción VI del artículo 47 de este Código.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+Las autoridades fiscales que al ejercer las facultades de comprobación, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución, que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de que venza el plazo a que se refiere la fracción V segundo párrafo del Artículo 46 de este Código, o tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción VI del artículo 47 de este Código.
 
 El plazo para emitir la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II y III del artículo 48 de este Código.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
-
 Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa en el país o en el extranjero, contra el acta final de visita o del oficio de observaciones de que se trate, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Cuando las autoridades no emitan la resolución correspondiente dentro del plazo mencionado, quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
-
 En dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el recurso administrativo. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el recurso administrativo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
-
 Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales.
-
-Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario sujeto a las facultades de comprobación, le darán a conocer a éste el resultado de aquella actuación mediante oficio de observaciones, para que pueda presentar documentación a fin de desvirtuar los hechos consignados en el mismo, dentro de los plazos a que se refiere el artículo 47.
 
 ###### ARTICULO 51.
 
@@ -1443,7 +1433,9 @@ c) Por el incumplimiento de los requerimientos o por su cumplimiento fuera de lo
 
 3. De 10 a 15 (sic) de salario mínimo vigente en el Estado para el tercer requerimiento.
 
-d) Tratándose de la presentación de declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales, de 2 días de salario mínimo vigente en la Entidad.
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 2014)</small>
+
+d) Tratándose de la presentación de declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales, de 2 días de salario mínimo vigente en la entidad.
 
 II. Tratándose de la señalada en la fracción II, del 10% al 20% de las contribuciones no pagadas.
 
