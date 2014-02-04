@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-seguridad-juridica-87666"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-05-02"
-last_updated: "2012-05-02"
+last_updated: "2014-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE FEBRERO DE 2014.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 2 de mayo de 2012.
 
 La Junta de Gobierno del Instituto se (sic) Seguridad Jurídica Patrimonial de Yucatán, con fundamento en lo dispuesto por los artículos 68 y 115 fracción VII del Código de la Administración Pública de Yucatán; los artículos 210 fracción XXX y Quinto Transitorio de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo expuesto y fundado se emite el siguiente:
 
@@ -127,6 +127,10 @@ El Instituto contará con la siguiente estructura orgánica:
 
 I. Dirección general;
 
+> <small>(ADICIONADO, D.O. 4 DE FEBRERO DE 2014)</small>
+
+a) Departamento de Vinculación de Servicios y Atención a Usuarios.
+
 II. Secretario Técnico;
 
 III. Dirección de Registro Público:
@@ -180,6 +184,12 @@ I. Establecer políticas institucionales para el mejor desarrollo del Instituto;
 II. Autorizar los Libros del Sistema Manual de Información a que se refiere la fracción II del artículo 68 de la Ley, en los términos del Reglamento, y
 
 III. Las demás que le confieran la Ley, su Reglamento, este Estatuto y demás disposiciones legales, reglamentarias y administrativas aplicables.
+
+> <small>(ADICIONADO, D.O. 4 DE FEBRERO DE 2014)</small>
+
+###### Artículo 14 Bis.
+
+La Dirección General del Instituto contará con un Departamento de Vinculación de Servicios y Atención a Usuarios, que tendrá las atribuciones y funciones que le señale la Ley, el Reglamento, este Estatuto, el Manual de Organización y demás disposiciones legales y administrativas aplicables.
 
 #### Sección Única. De la Secretaría Técnica
 
@@ -659,11 +669,19 @@ XXVIII. Ejecutar los programas y actividades de capacitación de los servidores 
 
 XXIX. Promover y vigilar la aplicación de este Estatuto y demás disposiciones legales y reglamentarias aplicables;
 
-XXX. Coordinar las acciones de protección civil y de seguridad e higiene del Instituto, con base en las normas y políticas aplicables, (sic)
+> <small>(REFORMADA, D.O. 4 DE FEBRERO DE 2014)</small>
 
-XXXI. Firmar en representación del Instituto, las constancias de retención de Impuesto Sobre la Renta de los honorarios de los proveedores que prestan servicios al Instituto. (sic)
+XXX. Coordinar las acciones de protección civil y de seguridad e higiene del Instituto, con base en las normas y políticas aplicables;
 
-XXXII. Las demás que le confieran la Ley, el Reglamento, este Estatuto, el Director General y otras disposiciones legales y administrativas aplicables.
+> <small>(REFORMADA, D.O. 4 DE FEBRERO DE 2014)</small>
+
+XXXI. Firmar, en representación del Instituto, las constancias de retención de Impuesto Sobre la Renta de los honorarios de los proveedores que prestan servicios al Instituto;
+
+> <small>(ADICIONADA, D.O. 4 DE FEBRERO DE 2014)</small>
+
+XXXII. Suscribir convenios, contratos y demás actos jurídicos relacionados con los servicios generales, para el mejor funcionamiento de las unidades administrativas del Instituto, previo acuerdo del Director General o determinación de la Junta de Gobierno, y
+
+XXXIII. Las demás que le confieran la Ley, el Reglamento, este Estatuto, el Director General y otras disposiciones legales y administrativas aplicables.
 
 ###### Artículo 33.
 
@@ -728,3 +746,19 @@ Estatuto Orgánico aprobado por acuerdo de la Junta de Gobierno del Instituto de
 LIC. PABLO JOSÉ CASTRO ALCOCER
 
 DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 4 DE FEBRERO DE 2014.
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, previa aprobación de la Junta de Gobierno del Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+De conformidad con los artículos 124 y 125, fracción I, del Código de la Administración Pública de Yucatán, el Director General del Instituto de Seguridad Jurídica Patrimonial de Yucatán deberá inscribir en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, las reformas efectuadas al estatuto orgánico contenidas en este acuerdo dentro de los treinta días naturales siguientes a su entrada en vigor.
+
+Tercero. Derogación
+
+Se derogan todas las disposiciones normativas emitidas por la Junta de Gobierno del Instituto de Seguridad Jurídica Patrimonial de Yucatán, en lo que se opongan al contenido de este acuerdo.
