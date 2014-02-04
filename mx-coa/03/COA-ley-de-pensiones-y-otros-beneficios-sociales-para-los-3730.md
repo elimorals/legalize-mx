@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "2013-12-24"
+last_updated: "2014-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 4 DE FEBRERO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 4 DE FEBRERO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -337,9 +337,13 @@ El derecho al otorgamiento de esta pensión se adquirirá a partir del día sigu
 
 La pensión por causa de muerte del trabajador consistirá en el pago mensual, a partir del día siguiente al de la fecha de fallecimiento, de una cantidad equivalente al 100% del sueldo regulador a que se refiere la fracción V del artículo 2°, al que se le aplicará el tabulador consignado en el artículo 33 de esta ley.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2013) (F. DE E., P.O. 4 DE FEBRERO DE 2014)
 
 Cuando se trate de una pensión de muerte por causas de trabajo, el monto que recibirá el o los beneficiarios, será del 100% del último salario básico percibido por el trabajador fallecido.
+
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 2014)</small>
+
+La pensión a que tenga derecho el hijo incapacitado o imposibilitado total o parcialmente para trabajar, el cónyuge supérstite, el compañero civil o el concubino o la concubina del trabajador o pensionado, cesará al momento de la muerte de cada uno de ellos.
 
 ###### ARTICULO 42.
 
