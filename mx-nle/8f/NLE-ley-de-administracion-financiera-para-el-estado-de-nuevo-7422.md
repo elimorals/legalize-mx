@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "2013-07-04"
+last_updated: "2014-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACIÓN FINANCIERA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -169,9 +169,11 @@ VI.- Las demás que le señalen expresamente las leyes y reglamentos del Estado.
 
 La programación del gasto público estatal, incluyendo al de los organismos descentralizados y fideicomisos, se basará en las políticas, directrices y planes de desarrollo económico y social que se formulen por el Poder Ejecutivo del Estado, con sujeción a lo dispuesto en esta Ley, en la Ley de Egresos y en la demás legislación aplicable en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 15.
 
-En la programación, presupuestación y ejercicio del gasto público, las dependencias, organismos descentralizados y fideicomisos, deberán aplicar los principios de austeridad, optimización, racionalización, disciplina y eficientización de los recursos, estableciendo prioridad al gasto social y de inversión para realizar obras y prestar servicios públicos de beneficio a la comunidad, procurando optimizar, en la medida de lo posible, el gasto de administración.
+En la programación, presupuestación y ejercicio del gasto público, las dependencias, organismos descentralizados y fideicomisos, deberán aplicar los principios de transparencia, rendición de cuentas, austeridad, optimización, racionalización, disciplina y eficientización de los recursos, estableciendo prioridad al gasto social y de inversión para realizar obras y prestar servicios públicos de beneficio a la comunidad, procurando optimizar, en la medida de lo posible, el gasto de administración.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -187,7 +189,7 @@ En el Reglamento de esta ley se establecerá el catálogo de partidas presupuest
 
 #### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA ELABORACION Y APROBACION DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 18.
 
@@ -231,7 +233,7 @@ V.- Aplicar la perspectiva de equidad de género en las evaluaciones de los prog
 
 VI.- Incluir en sus programas y campañas de comunicación social contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación. El Instituto Estatal de las Mujeres coadyuvará con las unidades administrativas responsables del gasto de las dependencias y entidades, en el contenido de estos programas y campañas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 19.
 
@@ -243,7 +245,7 @@ En consecuencia, el presupuesto se elaborará en función a que los egresos sean
 
 Conforme a lo previsto en la Constitución Política del Estado, durante el primer período ordinario de sesiones del Congreso del Estado, el titular del Ejecutivo presentará una iniciativa de Ley de Egresos, en la que se contenga el presupuesto de egresos para el año siguiente, clasificándose el gasto público conforme a lo previsto en el artículo 19 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 21.
 
@@ -343,7 +345,7 @@ Los convenios de coordinación podrán ser de vigencia indefinida. En este caso,
 
 El ejercicio del gasto público comprende el manejo y aplicación de los recursos financieros, así como su justificación, comprobación y pago, con base en el presupuesto de egresos correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 36.
 
@@ -617,7 +619,7 @@ Por lo que respecta a los inmuebles propiedad del Estado, Entidades Descentraliz
 
 Las operaciones inmobiliarias, incluso las enajenaciones, que realicen los organismos paraestatales a que se refiere el artículo 2o., se sujetarán a lo dispuesto en sus respectivas leyes, decretos o acuerdos de creación, a las disposiciones aplicables de esta Ley, así como a sus estatutos internos y a las reglas que al efecto expida el Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 68.
 
@@ -627,7 +629,7 @@ Las dependencias y entidades de carácter estatal a que se refiere al (sic) Art�
 
 Las personas físicas y morales así como las de dependencias y entidades señaladas en el párrafo anterior estarán obligadas a cumplir las disposiciones sobre control de recursos financieros que al efecto emita la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 69.
 
@@ -725,7 +727,7 @@ El titular del Ejecutivo del Estado podrá disponer sobre el destino de los rema
 
 El patrimonio consistente en los activos financieros del Estado, será custodiado y administrado por la Secretaría de Finanzas y Tesorería General del Estado. Los órganos competentes de los Poderes Judicial y Legislativo serán responsables de la custodia y administración de los recursos públicos que les haya sido ministrados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 80.
 
@@ -1019,7 +1021,7 @@ Los bienes de dominio privado pueden ser objeto de todos los contratos que regul
 
 Para optimizar la utilización de los inmuebles pertenecientes al patrimonio del Estado, las dependencias de los Poderes Legislativo, Judicial y Ejecutivo presentarán a la Secretaría de Finanzas y Tesorería General del Estado, por los conductos legales correspondientes, las necesidades inmobiliarias para recabar la información que fundamente las políticas, directrices y decisiones que formulen las autoridades competentes en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 104.
 
@@ -1037,11 +1039,11 @@ En caso de que se requiera adquirir inmuebles, deberá hacerse con cargo a la pa
 
 Cuando se requiera ejecutar obras de construcción, modificación, adaptación, conservación y mantenimiento de bienes muebles o inmuebles que tengan el carácter de históricos, artísticos o arqueológicos, se obtendrá previamente la opinión de las autoridades competentes en estas materias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCION SEXTA. DE LA ENAJENACION Y ARRENDAMIENTO DE BIENES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 106.
 
@@ -1083,7 +1085,7 @@ En los casos de donación a que se refiere el artículo 107 de esta ley, el decr
 
 Tanto el bien objeto de la donación como sus mejoras revertirán en favor del Estado, si el donatario no iniciare la utilización del bien en el fin señalado, dentro del plazo máximo previsto, o si, habiéndolo hecho, diere al inmueble un uso distinto antes de que concluya el período mínimo a que se refiere el párrafo anterior, sin contar con la previa autorización del Ejecutivo del Estado. Cuando la donataria sea una asociación o institución privada, también procederá la reversión del bien y sus mejoras en favor del Estado, si la donataria desvirtúa la naturaleza o el carácter no lucrativo de sus fines, si deja de cumplir con su objeto o si se extingue antes de que concluya el plazo mencionado en el párrafo anterior. Las condiciones a que se refiere este artículo se insertarán en la escritura de donación respectiva, sin que su omisión afecte la aplicación de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 110.
 
@@ -1345,7 +1347,7 @@ Las dependencias del Gobierno del Estado, así como los Municipios, las entidade
 
 La Secretaría de Finanzas y Tesorería General del Estado llevará el registro de las obligaciones financieras, directa o contingentes, derivadas del crédito público, a cargo de las entidades a que se refiere el artículo 124, en el que se anotarán el monto, características y destino de los recursos captados en su forma particular y global, así como las autorizaciones otorgadas para su contratación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 141 Bis.
 
@@ -1445,7 +1447,7 @@ El gasto público de las entidades será ejercido por las unidades administrativ
 
 El Ejecutivo del Estado podrá disponer que el gasto público de las entidades se ejerza en forma directa por la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 157.
 
@@ -1603,7 +1605,7 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RAUL RANGEL HINOJOSA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE JULIO DE 1995.
 
@@ -1680,3 +1682,7 @@ P.O. 21 DE NOVIEMBRE DE 2012.
 P.O. 4 DE JULIO DE 2013.
 
 Único: El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 5 DE FEBRERO DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
