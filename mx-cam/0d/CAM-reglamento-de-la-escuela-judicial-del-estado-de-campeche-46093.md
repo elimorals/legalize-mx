@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-escuela-judicial-del-estado-de-campeche-46093"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-15"
-last_updated: "2010-11-23"
+last_updated: "2014-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 05 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Sección Judicial del Periódico Oficial del Estado de Campeche, el lunes 15 de agosto de 2005.
 
@@ -89,9 +89,11 @@ b) El desarrollo de otras actividades de formación humanística y capacitación
 
 c) El mantenimiento de relaciones de cooperación y el intercambio de información con organismos e instituciones públicas y privadas para la realización de actividades relacionadas con la educación judicial.
 
-###### Artículo 6.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
 
-Los estudios impartidos por la EJEC gozarán del Reconocimiento de Validez Oficial de Estudios Superiores, otorgado a través del Convenio de Colaboración (Documento de Revalidación) por la Secretaría de Educación, Cultura y Deporte del Gobierno del Estado, formando así parte del Sistema Educativo Estatal. Los documentos expedidos por la EJEC que acrediten dichos estudios tendrán validez en toda la República Mexicana.
+ARTÍCULO 6
+
+Los estudios impartidos por la EJEC gozarán del Reconocimiento de Validez Oficial de Estudios Superiores, otorgado a través del Convenio de Colaboración (Documento de Revalidación), por la autoridad educativa competente, formando así parte del Sistema Educativo Estatal. Los documentos expedidos por la EJEC que acrediten dichos estudios tendrán validez en toda la República Mexicana.
 
 ### Capítulo II. Órganos de la EJEC
 
@@ -435,9 +437,11 @@ El registro de asistencias se llevará por los profesores, quienes al final de c
 
 Las inasistencias deberán justificarse dentro de la semana siguiente a las mismas, presentando a la Dirección la constancia correspondiente.
 
-###### Artículo 41.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
 
-Quienes no hayan cubierto el ochenta por ciento de asistencias de cualquiera de los módulos o que dejaren de asistir a clases sin causa justificada serán suspendidos provisionalmente del curso.
+###### ARTÍCULO 41.
+
+Quienes no hayan cubierto el ochenta por ciento de asistencias de cualquiera de los módulos no tendrán derecho a presentar examen ordinario; los que hayan cubierto un mínimo del setenta por ciento de asistencias podrán presentar por una sola vez examen de recuperación v quienes no obtengan el porcentaje anterior serán suspendidos provisionalmente del programa que cursan.
 
 ### Capítulo V. De las calificaciones
 
@@ -489,15 +493,21 @@ c) Aprobar los módulos que integran el semestre,
 
 d) Inscribirse en los plazos establecidos,
 
-e) Observar buena conducta,
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
 
-f) Continuar como servidor público judicial, y
+e) No incurrir en alguna de las faltas que refiere el artículo 83 del presente reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
+
+f) Continuar como servidor público, y
 
 g) Cumplir con lo que dispone este Reglamento y con los acuerdos que al respecto determine el Pleno.
 
-###### Artículo 49.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
 
-El alumno podrá ser suspendido de sus estudios mediante baja provisional o baja definitiva. En el primer caso podrá reingresar a la EJEC a partir del semestre y módulo en que ocurre. En el segundo estará impedido para continuar o reingresar a la EJEC.
+###### ARTÍCULO 49.
+
+El alumno podrá ser suspendido de sus estudios mediante baja provisional o baja definitiva. En el primer caso podrá reingresar a la EJEC a partir del semestre y módulo en que ocurre. En el segundo estará impedido para reingresar en el mismo programa de estudios.
 
 ###### Artículo 50.
 
@@ -515,15 +525,19 @@ b) Presente un examen de recuperación y no lo apruebe.
 
 ###### Artículo 52.
 
-Causa baja definitiva el alumno que:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2014)</small>
 
-a) Al reintegrarse a los cursos después de una baja provisional repruebe nuevamente el módulo por el que causó baja provisional;
+Causará baja definitiva el alumno que:
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
+
+a) Al reintegrarse a los cursos después de una baja provisional repruebe nuevamente algún módulo del programa de estudios,
 
 b) Viole de forma grave las normas establecidas en este reglamento o los acuerdos que al respecto determine el Pleno;
 
 c) No guarde buena conducta como alumno o como servidor público, en su caso; y
 
-d) Deje de prestar sus servicios al Poder Judicial, en su caso.
+d) (DEROGADO, P.O. 5 DE FEBRERO DE 2014)
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -541,9 +555,13 @@ Podrán egresar de la EJEC y obtener el diploma de Especialización:
 
 a) Los alumnos que hayan cubierto los créditos totales del Plan de Estudios de la Especialidad,
 
-b) Que presenten una tesina de investigación original, cuya elaboración no exceda de dos años después de terminados los cursos, y
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
 
-c) Que sea aprobada por el Consejo Académico.
+b) Que presenten una tesina de investigación original, cuya elaboración no exceda de un año después de terminados los cursos, concluido dicho término se concederá por una sola ocasión una prórroga de seis meses; y
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
+
+c) Que sea aprobada por el Jurado, ante el cual defenderán su propuesta de investigación.
 
 ###### Artículo 54.
 
@@ -551,9 +569,17 @@ Podrán egresar de la EJEC y obtener el grado de Maestro:
 
 a) Los alumnos que hayan cubierto los créditos totales del Plan de Estudios,
 
-b) Que presenten una tesis de investigación original de alta calidad, cuya elaboración no exceda de cuatro años después de terminados los estudios, y
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
 
-c) Que la defiendan en examen oral ante un jurado y lo aprueben.
+b) Que presenten una tesis de Investigación original, cuya elaboración no exceda de dos años después de terminados los estudios, concluido dicho término se concederá por una sola ocasión una prórroga de un año.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
+
+c) Que sea aprobada por el Jurado ante el cual defenderán su propuesta de Investigación.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2014)</small>
+
+ARTÍCULO 54 BIS. El alumno que no obtenga el diploma de Especialización o el grado de Maestro dentro del plazo establecido en los artículos 53 y 54 de este reglamento, deberá inscribirse en las materias del Plan de Estudios del Programa Educativo que esté en vigor y que el Consejo Académico señale al efecto como fundamentales, las cuales serán 3 unidades de aprendizaje. Sólo después de aprobar el examen de última oportunidad tales unidades de aprendizaje durante el periodo de exámenes respectivo, podrá solicitar nuevamente el inicio del trámite de titulación para la obtención del Diploma o Grado respectivos.
 
 ###### Artículo 55.
 
@@ -930,5 +956,11 @@ Se expide la presente Certificación en la Ciudad y Puerto de Campeche, Capital 
 P.O. 23 DE NOVIEMBRE DE 2010.
 
 PRIMERO: Las reformas al Reglamento de la Escuela Judicial del Estado de Campeche entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Con fundamento en el Código Civil vigente del Estado y la Ley de Transparencia y Acceso a la Información Pública del Estado remítase para su publicación en el Periódico Oficial del Gobierno del Estado de Campeche y en el Portal de Transparencia del Poder Judicial.
+
+P.O. 5 DE FEBRERO DE 2014.
+
+PRIMERO: Las reformas al reglamento de la Escuela Judicial del Estado de Campeche entrarán en vigor según lo establecido en el artículo 3 del Código Civil del Estado de Campeche.
 
 SEGUNDO: Con fundamento en el Código Civil vigente del Estado y la Ley de Transparencia y Acceso a la Información Pública del Estado remítase para su publicación en el Periódico Oficial del Gobierno del Estado de Campeche y en el Portal de Transparencia del Poder Judicial.
