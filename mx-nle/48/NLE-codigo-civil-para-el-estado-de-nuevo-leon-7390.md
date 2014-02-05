@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2014-01-17"
+last_updated: "2014-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -7427,9 +7427,9 @@ Las disposiciones de este Título, relativas al tiempo y demás requisitos neces
 
 La posesión necesaria para prescribir debe ser:
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2014)</small>
 
-I.- En concepto de propietario y con justo título;
+I.- En concepto de propietario;
 
 II.- Pacífica;
 
@@ -7441,11 +7441,15 @@ IV.- Pública.
 
 Los bienes inmuebles se prescriben:
 
-I.- En cinco años, cuando se poseen en concepto de propietario, con buena fé, pacífica, continua y públicamente;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2014)</small>
+
+I.- En cinco años, cuando se poseen con justo título, en concepto de propietario, buena fe, pacifica, continua y públicamente;
 
 II.- En cinco años, cuando los inmuebles hayan sido objeto de una inscripción de posesión;
 
-III.- En diez años, cuando se poseen de mala fé, si la posesión es en concepto de propietario, pacífica, continua y pública;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2014)</small>
+
+III. En diez años, cuando se poseen de mala fe, si la posesión es en concepto de propietario, pacifico, continua y pública, debiendo demostrar la causa generadora de la posesión.
 
 IV.- Se aumentará en una tercera parte el tiempo señalado en las fracciones I y III si se demuestra, por quien tenga interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante la mayor parte del tiempo que la ha poseído, o que por no haber hecho el poseedor de finca urbana las reparaciones necesarias, ésta ha permanecido deshabitada la mayor parte del tiempo que ha estado en poder de aquel.
 
@@ -7457,9 +7461,11 @@ Los bienes muebles se prescriben en tres años cuando son poseídos con buena f�
 
 Cuando la posesión se adquiere por medio de violencia, aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de diez años para los inmuebles y de cinco para los muebles, contados desde que cese la violencia.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2014)</small>
+
 ###### Art. 1152.
 
-La posesión adquirida por medio de un delito, se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose la posesión como de mala fé.
+La posesión adquirida por medio de un delito no genera derechos para adquirir la propiedad por prescripción adquisitiva.
 
 ###### Art. 1153.
 
@@ -17052,3 +17058,9 @@ P.O. 17 DE ENERO DE 2014.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- A los procedimientos de presunción de muerte ya iniciados previo a la aprobación de esta reforma, que tengan más de seis meses en proceso se les aplicará el beneficio señalado en este Decreto.
+
+P.O. 5 DE FEBRERO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Para efectos de lo dispuesto en la fracción III del artículo 1149 del presente Decreto, se respetara la fecha que se acredite en Juicio de la causa generadora de la posesión.
