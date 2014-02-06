@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2009-del-pleno-del-consejo-de-la-68556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-27"
-last_updated: "2014-01-02"
+last_updated: "2014-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-15"
 
 ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE FEBRERO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de mayo de 2009.
 
@@ -237,67 +237,39 @@ Al inicio de cada receso, el Presidente deberá indicar la hora en que comienza 
 
 El dispositivo de almacenamiento de datos en donde se guarde el archivo digital de imagen y video de las sesiones deberá conservarse en el tribunal colegiado, en el espacio que al efecto se habilite.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
 
-El particular interesado en el proceso deliberativo de alguno de los asuntos resueltos podrá hacer la solicitud de información a través de la Unidad de Enlace, conforme al procedimiento de acceso señalado en el Acuerdo General 84/2008 del Pleno del Consejo de la Judicatura Federal, que establece las atribuciones de los órganos en materia de transparencia, así como los procedimientos de acceso a la información pública y protección de datos personales.
+> <small>(DEROGADO TERCERO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
 
-> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
 
-Una vez que la Unidad de Enlace reciba el informe del tribunal colegiado de circuito respectivo, invariablemente remitirá el asunto al Comité de Acceso a la Información y Protección de Datos Personales, para que éste verifique si resulta procedente otorgar el acceso a la información, que será en la modalidad de consulta física de la versión pública de la videograbación de que se trate.
+> <small>(DEROGADO QUINTO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
 
-> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
 
-Sólo en casos excepcionales y a consideración del propio Comité, podrá otorgarse versión pública escrita de la videograbación requerida.
-
-> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
-
-El Comité será el encargado de elaborar la versión pública de la videograbación, con la supresión de datos personales, así como de aquella información reservada o confidencial que conforme a la Ley, el Reglamento y el presente Acuerdo deba protegerse.
-
-> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
-
-La Unidad de Enlace, remitirá la versión pública de la videograbación al módulo de acceso que haya seleccionado el solicitante, a efecto de que éste pueda acudir dentro de los 90 días siguientes contados a partir de la fecha en que le sea notificada su disponibilidad.
-
-> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
-
-Transcurridos los noventa días, sin que el solicitante haya acudido a consultar la información requerida; el módulo de acceso devolverá la versión pública de la videograbación, por conducto de su secretario Técnico.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
 
 El servidor público que haga uso indebido de los archivos digitales de las videograbaciones, será sancionado administrativamente en términos de la Ley Orgánica del Poder Judicial de la Federación.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
-
 ###### Artículo 24.
 
-A fin de difundir la videograbación de las sesiones públicas, cada tribunal colegiado seleccionará los asuntos que a su consideración deban difundirse, tomando en cuenta los asuntos en los que se haya adoptado un criterio novedoso, relevante, importante o que la determinación emitida en las distintas materias, civil, administrativa, penal y laboral sea de trascendencia o pueda tener alto impacto en la sociedad.
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)
 
 ###### Artículo 25.
 
-Una vez que cada tribunal haya seleccionado los asuntos susceptibles de ser difundidos, remitirán a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal una copia del archivo digital que los contenga.
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)
 
 ###### Artículo 26.
 
-El Consejo, por conducto de su Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal hará la selección final de los asuntos que habrán de ser difundidos, tomando en consideración las propuestas formuladas por cada uno de los tribunales colegiados de la República.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)
 
 ###### Artículo 27.
 
-Los asuntos seleccionados, deberán ser difundidos a través de la página de Transparencia del Consejo, en la cual se diseñará una ventana que permita el acceso a cada uno de ellos, clasificados por Circuito. El diseño de la ventana estará a cargo de la unidad administrativa competente en materia informática.
-
-También podrán ser difundidos en el Canal Judicial, conforme a la programación y espacios que se destinen al efecto.
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
-
-Quedará a cargo del Comité de Acceso a la Información y Protección de Datos Personales, la elaboración de las versiones públicas de los asuntos para su difusión en las que, mediante edición, se supriman los datos personales de las partes y en general aquéllos que pongan en riesgo la seguridad, reputación o vida privada de las personas.
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)
 
 ###### Artículo 28.
 
-Los archivos digitales enviados por cado (sic) uno de los tribunales colegiados de la República, serán resguardados por el Comité de Acceso a la Información y Protección de Datos Personales, a través de su secretario Técnico.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)
 
 ###### Artículo 29.
 
@@ -366,3 +338,29 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo, al diverso 16/2009, que regula las sesiones de los tribunales colegiados de Circuito y establece los lineamientos para su videograbación y difusión.
+
+D.O.F. 6 DE FEBRERO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+I. Acuerdo General 68/2004 del Pleno del Consejo de la Judicatura Federal, a través del cual se implementa la publicación en Internet de las sentencias ejecutorias y resoluciones públicas relevantes, generadas por los Tribunales de Circuito y Juzgados de Distrito, a fin de incentivar el interés de la población en el conocimiento de las resoluciones jurisdiccionales, para fomentar una cultura de transparencia y acceso a la información;
+
+II. Acuerdo General 69/2004 del Pleno del Consejo de la Judicatura Federal, que implementa la recopilación y sistematización de los criterios novedosos o relevantes, que generan los Tribunales Unitarios de Circuito y Juzgados de Distrito, con el objeto de que se divulguen a la comunidad jurídica nacional;
+
+III. Acuerdo General 28/2007 del Pleno del Consejo de la Judicatura Federal, en materia de comunicación social;
+
+IV. Acuerdo General 84/2008 del Pleno del Consejo de la Judicatura Federal, que establece las atribuciones de los órganos en materia de transparencia, así como los procedimientos de acceso a la información pública y protección de datos personales; y
+
+V. Acuerdo General 2/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la administración documental y archivos de las áreas administrativas del propio Consejo.
+
+CUARTO. Se derogan los párrafos segundo a séptimo del artículo 23 y los artículos 24 al 28 del Acuerdo General 16/2009, del Pleno del Consejo de la Judicatura Federal, que regula las sesiones de los Tribunales Colegiados de Circuito y establece los lineamientos para su videograbación y difusión.
+
+QUINTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones con las que fueron iniciados.
+
+SEXTO. Las referencias que se hagan en otras disposiciones a la Comisión para la Transparencia y Acceso a la Información Pública Gubernamental del Consejo de la Judicatura Federal, se entenderán hechas a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
