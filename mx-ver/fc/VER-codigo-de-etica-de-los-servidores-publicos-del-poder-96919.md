@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-etica-de-los-servidores-publicos-del-poder-96919"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-09-12"
-last_updated: "2013-09-12"
+last_updated: "2014-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE FEBRERO DE 2014.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 12 de septiembre de 2013.
 
@@ -133,7 +133,11 @@ El servidor público debe ser promotor de valores, principios y conductas, hacia
 
 ### CAPÍTULO III. Deberes éticos del Servidor Público
 
-Artículo 7 (SIC). Los servidores públicos, al margen de los valores y principios éticos señalados en el presente Código, tendrán, en forma enunciativa más no limitativa, los deberes y actitudes éticas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2014)</small>
+
+###### Artículo 6.
+
+Los servidores públicos del Poder Ejecutivo del Estado, además de los valores y principios éticos que se enumeran en el artículo anterior del presente Código, tendrán en forma enunciativa más no limitativa, los deberes y actitudes éticas siguientes:
 
 I. Ejercer sus obligaciones con estricta observancia a las disposiciones legales aplicables que rige su actuar como servidor público y fomentar la cultura de la legalidad;
 
@@ -179,15 +183,21 @@ Es responsabilidad de los Titulares de las dependencias y entidades de la Admini
 
 Se instruye a la Contraloría General a expedir la "Guía Práctica para la Construcción de los Códigos de Conducta", a través de la cual las dependencias y entidades deberán implementar sus propios Códigos de Conducta.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 10.
 
-Se instruye a la Contraloría General, a través de sus órganos correspondientes, para que implemente programas de capacitación y promoción de la ética pública gubernamental, así como vigilar y evaluar el cumplimiento del presente Decreto.
+Se instruye a la Contraloría General, a través de la Dirección General de Desarrollo Administrativo, para que implemente acciones de capacitación y promoción de la ética pública gubernamental, así como para la adecuada instrumentación de la "Guía Práctica para la Construcción de los Códigos de Conducta" y a la Dirección General de Control, Evaluación y Auditoría, a través de los Órganos Internos de Control y de las Delegaciones Especiales, el vigilar y evaluar el cumplimiento del presente Decreto.
 
-### CAPÍTULO IV. De las Sanciones
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 6 DE FEBRERO DE 2014)</small>
+
+### CAPÍTULO V. De las Sanciones
+
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 11.
 
-Los servidores públicos, que como resultado del incumplimiento de alguna de las disposiciones contenidas en este Código, se ubiquen en algún supuesto de responsabilidad prevista por la normatividad vigente, serán sancionados conforme a las normas legales que regulen el caso concreto.
+Los servidores públicos, que como resultado del incumplimiento de alguna de las disposiciones contenidas en este Código, se ubiquen en algún supuesto de responsabilidad prevista por la normatividad vigente, serán sancionados con apego a las disposiciones legales que resulten aplicables al caso concreto.
 
 T R A N S I T O R I O S
 
@@ -208,3 +218,19 @@ DR. JAVIER DUARTE DE OCHOA
 GOBERNADOR DEL ESTADO
 
 RÚBRICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 6 DE FEBRERO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. La Contraloría General expedirá y publicará en su página web, la Guía Práctica para la Construcción de los Códigos de Conducta.
+
+Tercero. Las Dependencias y Entidades en coordinación con las áreas competentes de la Contraloría General, elaborarán sus Códigos de Conducta en un plazo no mayor de un año, contando a partir del día siguiente de la publicación de este ordenamiento.
+
+Cuarto. Las Dependencias y Entidades dispondrán de las medidas concernientes para la más amplia difusión del Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, entre los servidores públicos de la Administración Pública Estatal y la sociedad en general.
+
+Quinto. Las Dependencias y Entidades constituirán sus respectivos Comités de Ética, conforme a la Guía Práctica para la Construcción de los Códigos de Conducta.
+
+Sexto. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
