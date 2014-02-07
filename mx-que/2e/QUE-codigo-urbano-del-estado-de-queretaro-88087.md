@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2012-05-31"
+last_updated: "2014-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -1193,7 +1193,11 @@ II. Considerar la vivienda como factor de ordenamiento territorial, de desarroll
 
 III. Asegurar la congruencia de las acciones de vivienda con los planes y programas de ordenamiento ecológico y de desarrollo urbano;
 
-IV. Crear parques urbanos y áreas verdes suficientes para mejorar la imagen urbana y el ambiente, atendiendo a la recreación y esparcimiento de la población;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2014)</small>
+
+IV. Crear parques urbanos y áreas verdes con plantas de especies nativas de la región suficientes para mejorar la imagen urbana y el ambiente, atendiendo a la recreación y esparcimiento de la población;
 
 V. Preservar los recursos paisajísticos y ambientales del entorno que forman parte del hábitat de la vivienda;
 
@@ -1488,6 +1492,16 @@ Para el caso de que un desarrollo inmobiliario se ubique en el área de influenc
 La autoridad competente determinará cuando un desarrollo inmobiliario deberá ser considerado como tal, lo que será conforme a las características, infraestructura, servicios y número de habitantes previstas en este Código y en los programas de desarrollo urbano.
 
 El desarrollador estará obligado a la introducción de la infraestructura, servicios y los equipamientos necesarios para el desarrollo del predio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2014)</small>
+
+###### Artículo 138 Bis.
+
+Por especies nativas se entienden aquellos organismos vegetales propios de un sitio o región determinado, ubicados dentro de su ámbito de distribución natural, que crecen espontáneamente y se encuentran ecológicamente adaptados a las condiciones físicas y biológicas de su entorno.
+
+El desarrollador está obligado a la introducción de plantas de especies nativas de la región para el equipamiento urbano del fraccionamiento, por lo menos en un 70% de la superficie; para la selección de las plantas, deberá tomar en consideración el catálogo de especies nativas, con que para tal efecto cuente la Secretaría de Desarrollo Sustentable.
 
 ###### Artículo 139.
 
@@ -4912,3 +4926,13 @@ Ing. Sergio Amín Chufaní Abarca
 Secretario de Desarrollo Urbano y Obras Públicas
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE FEBRERO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor a los 45 días hábiles siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. La Secretaría de Desarrollo Sustentable, en un plazo no mayor a 45 días hábiles, contados a partir de la publicación de la presente Ley deberá contar con el catálogo de especies nativas de la región, el cual habrá de publicar en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", además de tenerlo disponible para la ciudadanía de manera electrónica en su portal de internet.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
