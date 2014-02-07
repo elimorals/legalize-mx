@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-70187"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-09-24"
-last_updated: "2014-02-04"
+last_updated: "2014-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-24"
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE FEBRERO DE 2014.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 24 de septiembre de 2009.
 
@@ -47,37 +47,61 @@ PEMEX, creado por decreto publicado el 7 de junio de 1938, es un organismo desce
 
 Para los efectos del presente Estatuto, se entenderá por:
 
-I.- Consejo de Administración o Consejo: El Consejo de Administración de PEMEX;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-II.- Director General: El Director General de PEMEX;
+I. Categoría: Conjunto de bienes, servicios o arrendamientos que tienen características en común y que pertenecen al mismo mercado proveedor;
 
-III.- Estatuto: El presente ordenamiento, aprobado y, en su caso, reformado, por el Consejo de Administración;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-IV.- Ley: La Ley de Petróleos Mexicanos, publicada en el Diario Oficial de la Federación el 28 de noviembre de 2008 y, en su caso, sus reformas y adiciones;
+II. Consejo de Administración o Consejo: El Consejo de Administración de PEMEX;
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-IV-A.- Logística de hidrocarburos y sus derivados: Actividades de transporte, almacenamiento y distribución de hidrocarburos y sus derivados;
+III. Director General: El Director General de PEMEX;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-V.- Organismos Subsidiarios: Los organismos descentralizados subsidiarios de PEMEX, creados por decreto del titular del Ejecutivo Federal, así como los que fueron creados por la Ley Orgánica de Petróleos Mexicanos y Organismos Subsidiarios, con fines productivos de carácter técnico, industrial y comercial;
+IV. Estatuto: El presente ordenamiento, aprobado y, en su caso, reformado, por el Consejo de Administración;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-VI.- PEMEX: Petróleos Mexicanos, organismo descentralizado creado por decreto publicado el 7 de junio de 1938;
+IV-A. Exploración y Producción: Proceso de la cadena de valor que tiene por objeto incorporar y extraer reservas de petróleo crudo y gas natural;
 
-> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-VII.- Plan de Negocios: Aquél a que se refieren los artículos 19, fracción III; 24, 26, fracción I; 31, fracción III; octavo transitorio, último párrafo; noveno transitorio, penúltimo párrafo, y décimo tercero transitorio, de la Ley;
+V. Ley: La Ley de Petróleos Mexicanos, publicada en el Diario Oficial de la Federación el 28 de noviembre de 2008 y, en su caso, sus reformas y adiciones;
 
-> <small>(ADICIONADA, D.O.F. 27 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-VII-A.- Sistema de Control Interno Institucional: Conjunto de procesos y mecanismos en materia financiera, presupuestal, operacional y normativa, que interactúan entre sí, aplicables en PEMEX, Organismos Subsidiarios y, en su caso, filiales, diseñados para proporcionar un grado de seguridad razonable con respecto a la consecución de algunos objetivos, como son eficacia, eficiencia y economía de las operaciones, programas y proyectos; y salvaguarda, preservación y mantenimiento de los recursos públicos en condiciones de integridad, transparencia y disponibilidad para los fines a que están destinados, y
+VI. Logística de hidrocarburos y sus derivados: Actividades de transporte, almacenamiento y distribución de hidrocarburos y sus derivados;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-VIII.- Tecnología de Información: Incluye los términos de tecnologías de información; comunicaciones; sistemas de información geográfica y automatización industrial, referidos a la infraestructura de hardware y software, aplicaciones, sistemas y servicios, de aplicación en PEMEX y Organismos Subsidiarios. Lo anterior con excepción de aquellos elementos especializados que son de aplicación única en un Organismo Subsidiario.
+VII. Organismos Subsidiarios: Los organismos descentralizados subsidiarios de PEMEX, creados por decreto del titular del Ejecutivo Federal, así como los que fueron creados por la Ley Orgánica de Petróleos Mexicanos y Organismos Subsidiarios, con fines productivos, de carácter técnico, industrial y comercial;
+
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+VIII. PEMEX: Petróleos Mexicanos, organismo descentralizado creado por decreto publicado el 7 de junio de 1938;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+IX. Plan de Negocios: Aquél a que se refieren los artículos 19, fracción III; 24, 26, fracción I; 31, fracción III; octavo transitorio, último párrafo; noveno transitorio, penúltimo párrafo, y décimo tercero transitorio, de la Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+IX-A. Procura y Abastecimiento: Actividades encaminadas a cubrir las necesidades de contratación de bienes, servicios, arrendamientos y obra, considerando calidad, cantidad, tiempo, precio y ubicación para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+X. Sistema de Control Interno Institucional: Conjunto de procesos y mecanismos en materia financiera, presupuestal, operacional y normativa, que interactúan entre sí, aplicables en PEMEX, Organismos Subsidiarios y, en su caso, filiales, diseñados para proporcionar un grado de seguridad razonable con respecto a la consecución de algunos objetivos, como son eficacia, eficiencia y economía de las operaciones, programas y proyectos; y salvaguarda, preservación y mantenimiento de los recursos públicos en condiciones de integridad, transparencia y disponibilidad para los fines a que están destinados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XI. Tecnología de Información: Incluye los términos de tecnologías de información; comunicaciones; sistemas de información geográfica y automatización industrial, referidos a la infraestructura de hardware y software, aplicaciones, sistemas y servicios, de aplicación en PEMEX y Organismos Subsidiarios. Lo anterior con excepción de aquellos elementos especializados que son de aplicación única en un Organismo Subsidiario, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XII. Transformación Industrial: Proceso de la cadena de valor que se refiere a la elaboración de refinados y petroquímicos, procesamiento de gas, así como la logística y comercialización.
 
 ## TITULO SEGUNDO. DEL CONSEJO DE ADMINISTRACION DE PETROLEOS MEXICANOS
 
@@ -681,11 +705,17 @@ d) Subdirección de Servicios Corporativos
 
 e) Subdirección de Administración Patrimonial
 
-1. Gerencia de Normatividad Patrimonial
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-2. Gerencia de Administración y Optimización Patrimonial
+1. Gerencia de Apoyo Técnico y Normativo
 
-3. Gerencia de Promoción y Comercialización de Bienes
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+2. Gerencia de Administración Patrimonial de Bienes Inmuebles
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+3. Gerencia de Administración Patrimonial de Bienes Muebles
 
 III.- Dirección Corporativa de Finanzas
 
@@ -815,13 +845,11 @@ V.- Dirección Corporativa de Operaciones
 
 2. Gerencia de Control de Gestión
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+a) (DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
-a) Unidad de Desarrollo de Proveedores, Contratistas y Contenido Nacional
+1. (DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
-1. Gerencia de Análisis y Selección de Proveedores y Contratistas
-
-2. Gerencia de Desarrollo de Proveedores y Contratistas
+2. (DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
 b) Subdirección de Planeación Estratégica y Operativa
 
@@ -861,15 +889,13 @@ d) Subdirección de Disciplina Operativa, Seguridad, Salud y Protección Ambient
 
 e) (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-f) Subdirección de Suministros
+f) (DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
-1. Gerencia de Abastecimiento Estratégico
+1. (DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+2. (DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
-2. Gerencia de Gestión y Evaluación de la Estrategia de Suministros
-
-3. Gerencia de Mejora del Proceso de Suministro
+3. (DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -906,6 +932,46 @@ i) Subdirección de Desarrollo de Proyectos
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 2. Gerencia de Procesos de Desarrollo de Proyectos de Inversión
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+V.A. Dirección Corporativa de Procura y Abastecimiento
+
+a) Subdirección de Gestión de Estrategia y Soporte al Modelo de Negocio
+
+1. Gerencia de Planeación y Abastecimiento Estratégico
+
+2. Gerencia de Mejora e Integración del Proceso
+
+3. Gerencia de Gestión y Evaluación de la Estrategia
+
+4. Gerencia de Gestión de Categorías para Exploración y Producción
+
+5. Gerencia de Gestión de Categorías para Transformación Industrial y Soporte
+
+b) Subdirección de Desarrollo y Relación con Proveedores y Contratistas
+
+1. Gerencia de Contenido Nacional y Evaluación de Proveedores y Contratistas
+
+2. Gerencia de Relación con Proveedores y Contratistas
+
+c) Subdirección de Procura y Abastecimiento
+
+1. Gerencia de Contrataciones de Exploración y Producción para la Región Norte
+
+2. Gerencia de Contrataciones de Exploración y Producción para la Región Sur
+
+3. Gerencia de Contrataciones de Exploración y Producción para las Regiones Marinas y Mantenimiento y Logística
+
+4. Gerencia de Contrataciones de Exploración y Producción para Perforación y Servicios a Proyectos
+
+5. Gerencia de Contrataciones para Exploración y Producción Central
+
+6. Gerencia de Contrataciones para Procesos de Refinación
+
+7. Gerencia de Contrataciones para Procesos de Gas y Petroquímica Básica
+
+8. Gerencia de Contrataciones para Procesos de Petroquímica
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -1761,9 +1827,11 @@ VII. Coordinar el registro, control y administración de los bienes muebles no �
 
 VIII. Designar al responsable inmobiliario de PEMEX en términos del artículo 32 de la Ley General de Bienes Nacionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 59.
 
-La Gerencia de Normatividad Patrimonial tendrá las funciones siguientes:
+La Gerencia de Apoyo Técnico y Normativo tendrá las funciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -1799,21 +1867,23 @@ X. Formalizar el proceso de adquisición de bienes inmuebles de PEMEX, así como
 
 XI. Celebrar los contratos de arrendamiento inmobiliario de PEMEX en su calidad de arrendador o como arrendatario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 60.
 
-La Gerencia de Administración y Optimización Patrimonial tendrá las funciones siguientes:
+La Gerencia de Administración Patrimonial de Bienes Inmuebles tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-I. Coordinar la elaboración y ejecución de los planes y programas en PEMEX y Organismos Subsidiarios, en materia de administración de bienes patrimoniales;
+I. Coordinar la elaboración y ejecución de los planes y programas en PEMEX y Organismos Subsidiarios, en materia de administración de bienes inmuebles;
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 II. Participar en coordinación con la Dirección Corporativa de Operaciones en la elaboración de los planes o programas y registros que se establezcan para la adecuada administración de los derechos de vía de los ductos de PEMEX y Organismos Subsidiarios;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-III. Coordinar la integración, actualización y consolidación de los inventarios, registros y controles patrimoniales de los bienes de PEMEX y Organismos Subsidiarios;
+III. Coordinar la integración, actualización y consolidación de los inventarios, registros y controles patrimoniales de los bienes inmuebles de PEMEX y Organismos Subsidiarios;
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -1829,35 +1899,69 @@ VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 VIII. Coordinar la integración, actualización y administración del acervo documental de los bienes inmuebles en PEMEX, así como consolidar el de los Organismos Subsidiarios;
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+IX. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2014)
 
-IX. Coordinar el registro inicial y final de los bienes muebles instrumentales, así como apoyar a los Organismos Subsidiarios en las gestiones para mantener los inventarios físicos conciliados con el registro contable, y
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+X. Mantener actualizado el centro de documentación de Información de los inmuebles de PEMEX;
 
-X. Mantener actualizado el centro de documentación de Información de los inmuebles de PEMEX.
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XI. Elaborar la estrategia para la enajenación de los bienes inmuebles no útiles de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XII. Elaborar el presupuesto anual de ventas de bienes inmuebles no útiles, considerando las prioridades que fijen PEMEX y los Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XIII. Elaborar los programas de licitación pública de bienes inmuebles no útiles a comercializar;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XIV. Promover y comercializar los bienes inmuebles no útiles de PEMEX y los que determinen los Organismos Subsidiarios, y resolver las consultas en la materia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XV. Analizar, evaluar, promover y comercializar los bienes inmuebles no útiles de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XVI. Coadyuvar con los Organismos Subsidiarios en la identificación, difusión y dictaminar la no utilidad de los bienes inmuebles de su patrimonio que ya no utilicen o no sean necesarios para el cumplimiento de sus actividades ni tengan expectativas de serlo en el futuro, evitando riesgos de invasiones y reducción de gastos de operación;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XVII. Llevar el control de las operaciones posteriores a la enajenación de los bienes inmuebles, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XVIII. Coordinar la integración de los expedientes de enajenación así como de las operaciones del proceso de enajenación de bienes inmuebles, conforme a la normativa vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 61.
 
-La Gerencia de Promoción y Comercialización de Bienes tendrá las funciones siguientes:
+La Gerencia de Administración Patrimonial de Bienes Muebles tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-I. Elaborar la estrategia para la enajenación de los bienes de PEMEX y Organismos Subsidiarios;
+I. Elaborar la estrategia para la enajenación de los bienes muebles no útiles de PEMEX y Organismos Subsidiarios;
 
-II. Elaborar el presupuesto anual de ventas de bienes muebles e inmuebles no útiles, considerando las prioridades que fijen PEMEX y los organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+II. Elaborar el presupuesto anual de ventas de bienes muebles no útiles, considerando las prioridades que fijen PEMEX y los Organismos Subsidiarios;
 
-III. Elaborar los programas de licitación pública de bienes no útiles a comercializar;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+III. Elaborar los programas de licitación pública de bienes muebles no útiles a comercializar;
 
-IV. Promover y comercializar los bienes no útiles de PEMEX y los que determinen los Organismos Subsidiarios, y resolver las consultas en la materia;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+IV. Promover y comercializar los bienes muebles no útiles de PEMEX y los que determinen los Organismos Subsidiarios, y resolver las consultas en la materia;
 
-V. Analizar, evaluar, promover y comercializar los bienes no útiles de PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+V. Analizar, evaluar, promover y comercializar los bienes muebles no útiles de PEMEX y Organismos Subsidiarios;
 
 VI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
@@ -1865,17 +1969,25 @@ VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-IX. Coadyuvar con los Organismos Subsidiarios en la identificación, difusión y dictaminación de no utilidad de los bienes inmuebles de su patrimonio que ya no utilicen o no sean necesarios para el cumplimiento de sus actividades ni tengan expectativas de serlo en el futuro, evitando riesgos de invasiones y reducción de gastos de operación;
+IX. Coadyuvar con los Organismos Subsidiarios en la identificación, difusión y dictaminación de no utilidad de los bienes muebles de su patrimonio que ya no utilicen o no sean necesarios para el cumplimiento de sus actividades ni tengan expectativas de serlo en el futuro;
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-X. Llevar el control de las operaciones posteriores a la enajenación de los bienes, y
+X. Llevar el control de las operaciones posteriores a la enajenación de los bienes muebles;
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-XI. Coordinar la integración de los expedientes de enajenación así como de las operaciones del proceso de enajenación de bienes, conforme a la normativa vigente.
+XI. Coordinar la integración de los expedientes de enajenación así como de las operaciones del proceso de enajenación de bienes muebles no útiles, conforme a la normativa vigente;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XII. Coordinar la elaboración y ejecución de los planes y programas en PEMEX y Organismos Subsidiarios, en materia de administración de bienes muebles, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+XIII. Coordinar el registro inicial y final de los bienes muebles, así como apoyar a los Organismos Subsidiarios en las gestiones para mantener los inventarios físicos conciliados con el registro contable.
 
 ### Capítulo Tercero. De la Dirección Corporativa de Finanzas
 
@@ -3607,21 +3719,17 @@ V. Dirigir a PEMEX y Organismos Subsidiarios en la integración, evaluación y j
 
 VI. Establecer las directrices para asegurar la disciplina y coordinación operativa de los organismos subsidiarios;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-VII. Establecer directrices y coordinar la implantación de las políticas y estrategias institucionales en materia de seguridad industrial y salud en el trabajo, protección ambiental y desarrollo sustentable, logística de hidrocarburos y sus derivados, suministros y mantenimiento;
+VII. Establecer directrices y coordinar la implantación de las políticas y estrategias institucionales en materia de seguridad industrial y salud en el trabajo, protección ambiental y desarrollo sustentable, logística de hidrocarburos y sus derivados, proyectos de inversión y mantenimiento;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-VIII. Proponer directrices y coordinar la implantación interorganismos de los procesos de seguridad industrial y salud en el trabajo, protección ambiental y desarrollo sustentable, logística, transporte y distribución, suministros y mantenimiento en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+VIII. Proponer directrices y coordinar la implantación interorganismos de los procesos de seguridad industrial y salud en el trabajo, protección ambiental y desarrollo sustentable, logística, transporte y distribución, proyectos de inversión y mantenimiento en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+IX. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2014)
 
-IX. Conducir el esquema de colaboración y manejo de las relaciones con los proveedores y sectores industriales relacionados con el suministro;
-
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-IX-A. Establecer y coordinar mecanismos y foros de participación y vinculación con autoridades competentes, cámaras y asociaciones industriales relacionadas con el proceso de suministros;
+IX-A. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2014)
 
 > <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -3635,15 +3743,15 @@ X. Coordinar el proceso de planeación estratégica y operativa y evaluación de
 
 XI. Administrar el Sistema Institucional de Desarrollo de Proyectos;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-XII. Dirigir las estrategias institucionales en materia de desarrollo sustentable y protección ambiental;
+XII. Dirigir las estrategias institucionales en materia de desarrollo sustentable y protección ambiental, y
 
-XIII. Dirigir las actividades que PEMEX y organismos subsidiarios deban llevar a cabo en términos de la Ley Federal sobre Metrología y Normalización, y
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+XIII. Dirigir las actividades que PEMEX y Organismos Subsidiarios deban llevar a cabo en términos de la Ley Federal sobre Metrología y Normalización.
 
-XIV. Proponer directrices y coordinar la implantación de políticas y acciones relativas al desarrollo de proveedores, contratistas y contenido nacional.
+XIV. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2014)
 
 ###### Artículo 106.
 
@@ -3695,71 +3803,13 @@ XII. Administrar y controlar los activos de la Dirección Corporativa de Operaci
 
 XIII. Coordinar la elaboración, consolidación y administración del presupuesto anual de la Dirección Corporativa de Operaciones, así como controlar y dar seguimiento al ejercicio presupuestal y sus modificaciones, operando los procedimientos establecidos en la materia y manteniendo actualizada la información financiera respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
 ###### Artículo 108.
 
-La Unidad de Desarrollo de Proveedores, Contratistas y Contenido Nacional tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
-I. Proponer, coordinar y divulgar la estrategia para promover el desarrollo de proveedores y contratistas de PEMEX y organismos subsidiarios, así como el contenido nacional en las contrataciones, privilegiando la generación de valor en PEMEX y organismos subsidiarios, y procurando costos de transacción competitivos;
+Artículo 108 A.- (DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
-II. Dar seguimiento e informar al Consejo de Administración, por conducto del Director General sobre los avances de la estrategia de desarrollo de proveedores y contenido nacional;
-
-III. Proponer al Director Corporativo de Operaciones, el informe que presentará el Director General semestralmente al Congreso, sobre los avances de las metas cuantitativas de la estrategia para promover el desarrollo de proveedores y contratistas de PEMEX y organismos subsidiarios, así como, sobre el contenido nacional en las contrataciones;
-
-IV. Identificar oportunidades para el desarrollo de proveedores y contratistas, así como de contenido nacional;
-
-V. Proponer las políticas y acciones para promover el desarrollo de proveedores y contratistas y el contenido nacional en las contrataciones de PEMEX y organismos subsidiarios;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-VI. Coadyuvar en las acciones de PEMEX y Organismos Subsidiarios para alcanzar los objetivos planteados en la Estrategia de Petróleos Mexicanos para el Desarrollo de Proveedores, Contratistas y Contenido Nacional;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-VII. Apoyar a las diversas dependencias e instituciones, públicas y privadas, involucradas en las acciones que realice el fondo para promover el desarrollo de Proveedores y Contratistas, así como promover esquemas de financiamiento para el desarrollo de Proveedores y Contratistas;
-
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-VIII. Definir la metodología de cálculo de indicadores relacionados con el contenido nacional, para los bienes, servicios y obra que PEMEX y Organismos Subsidiarios adquieran o contraten, y
-
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-IX. Implementar la metodología para el análisis y selección de Proveedores y Contratistas a ser desarrollados con énfasis en el desarrollo de las pequeñas y medianas empresas.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-Artículo 108 A.- La Gerencia de Análisis y Selección de Proveedores y Contratistas tendrá las funciones siguientes:
-
-I. Dar a conocer la Estrategia de Petróleos Mexicanos para el Desarrollo de Proveedores, Contratistas y Contenido Nacional, así como elaborar los reportes de avance en su instrumentación;
-
-II. Desarrollar la metodología de cálculo y verificación de indicadores relacionados al contenido nacional, para que las áreas de contratación de PEMEX y Organismos Subsidiarios soliciten a proveedores y contratistas el registro de información sobre los bienes, servicios y obra adquiridos o contratados, según corresponda;
-
-III. Supervisar el seguimiento de indicadores de contenido nacional;
-
-IV. Identificar, en coordinación con las áreas usuarias y de contratación, los bienes y servicios críticos de acuerdo con la Estrategia de Petróleos Mexicanos para el Desarrollo de Proveedores, Contratistas y Contenido Nacional, asociados a la operación de PEMEX y Organismos Subsidiarios;
-
-V. Investigar y consolidar la información sobre la estructura de mercado de los bienes y servicios nacionales e importados que requieren PEMEX y Organismos Subsidiarios, y
-
-VI. Analizar, identificar y proponer, con base en la metodología aplicable, a los proveedores y contratistas actuales o potenciales susceptibles de ser incorporados en la Estrategia de Petróleos Mexicanos para el Desarrollo de Proveedores, Contratistas y Contenido Nacional.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-Artículo 108 B.- La Gerencia de Desarrollo de Proveedores y Contratistas tendrá las funciones siguientes:
-
-I. Definir el proyecto de desarrollo para los proveedores y contratistas seleccionados, a partir de los análisis y conclusiones de la Gerencia de Análisis y Selección de Proveedores y Contratistas;
-
-II. Establecer, con las áreas usuarias de PEMEX y Organismos Subsidiarios, los requerimientos y parámetros para evaluar al proveedor o contratista una vez que esté desarrollado, a efecto de asegurar la alineación del proyecto de desarrollo a sus necesidades;
-
-III. Definir con el proveedor o contratista los términos y condiciones del proyecto de desarrollo e instrumentarlo;
-
-IV. Supervisar los avances en la instrumentación del proyecto de desarrollo, actualizando sus alcances cuando se requiera;
-
-V. Dar seguimiento al desempeño de los proveedores y contratistas desarrollados contratados, en coordinación con las áreas usuarias y contratantes;
-
-VI. Coordinar la participación de PEMEX y Organismos Subsidiarios, en la aplicación de políticas, programas y acciones enfocados a promover el desarrollo de sus proveedores y contratistas, y
-
-VII. Coordinar la participación de PEMEX y Organismos Subsidiarios en las acciones que realice el fondo constituido en Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, para promover el desarrollo de proveedores y contratistas nacionales para la industria petrolera.
+Artículo 108 B.- (DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
 #### Sección Segunda. De la Subdirección de Planeación Estratégica y Operativa
 
@@ -4333,209 +4383,19 @@ XII. Promover programas de educación en protección ambiental y comunicación d
 
 ###### Artículo 126.
 
-La Subdirección de Suministros tendrá las funciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-I. Diseñar el modelo de negocio único integral de suministros aplicable a PEMEX y Organismos Subsidiarios, así como evaluar el impacto en su aplicación;
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-II. Determinar la estrategia de implantación del modelo de negocio único integral de suministros y coordinar su ejecución, del que forma parte la proveeduría de importación directa, en PEMEX y Organismos Subsidiarios;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-III. Coordinar a PEMEX, Organismos Subsidiarios y, en su caso, filiales, en la planeación, diseño, implantación y ejecución de las estrategias de contratación, así como la determinación de la unidad administrativa responsable;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-IV. Aprobar la viabilidad de los proyectos o iniciativas de mejora de procesos de negocio, recursos humanos, organización o gestión del cambio, relacionados con el modelo de negocio único integral de suministros;
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-V. Emitir directrices a las áreas de PEMEX, Organismos Subsidiarios y, en su caso filiales, para su funcionamiento y administración centralizada de los sistemas de información asociados al proceso de suministros y mejora continua;
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-VI. Validar las propuestas de contratación de PEMEX, Organismos Subsidiarios y, en su caso, filiales que considere necesario, así como emitir las observaciones o recomendaciones que correspondan;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-VII. Promover, coordinar y administrar las relaciones con los proveedores que formen parte de la cadena de suministros en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-VIII. Coordinar la interpretación operativa de la normatividad interna en materia de adquisiciones, arrendamientos y servicios, para PEMEX, Organismos Subsidiarios y, en su caso, filiales distinta a la relacionada con actividades sustantivas de carácter productivo;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-IX. Dirigir los trabajos de los comités Institucional Interorganismos de la Reserva de los Tratados de Libre Comercio, y de la Macrofunción de Adquisiciones del Programa Gubernamental de Transparencia y Rendición de Cuentas; y de la Comisión Consultiva Mixta de Abastecimiento;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-X. Diseñar y coordinar las estrategias de comunicación y de gestión del cambio para la transformación del proceso de suministros, así como brindar apoyo a las unidades administrativas de PEMEX, Organismos Subsidiarios y filiales;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XI. Fungir como conducto único de las diversas áreas de PEMEX y Organismos Subsidiarios con las dependencias e instancias competentes en relación con el proceso de suministros;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XII. Diseñar, coordinar y supervisar la estrategia de inventarios críticos y generales de equipos, materiales, refacciones e insumos, en PEMEX, Organismos Subsidiarios y, en su caso filiales, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XIII. Conducir la inteligencia de mercado del proceso de suministros, en PEMEX, Organismos Subsidiarios y, en su caso, filiales.
+(DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
 ###### Artículo 127.
 
-La Gerencia de Abastecimiento Estratégico tendrá las funciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-I. Diseñar y coordinar la implantación de la metodología de abastecimiento estratégico en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-II. Analizar la demanda de bienes, arrendamientos y servicios de PEMEX, Organismos Subsidiarios y, en su caso, filiales para identificar áreas de oportunidad en las contrataciones respectivas;
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-III. Analizar y consolidar la información de las categorías de compra y su gasto futuro;
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-IV. Realizar la inteligencia de mercado para el diseño de estrategias de suministro, así como para apoyar procesos críticos de contratación de bienes, arrendamientos y servicios aplicables a PEMEX, Organismos Subsidiarios y, en su caso, filiales;
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-V. Diseñar estrategias para la administración de proveedores de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-VI. Implantar, conjuntamente con PEMEX y Organismos Subsidiarios, la estrategia de inventarios críticos y generales de equipos, materiales, insumos y refacciones;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-VII. Realizar la integración, ejecución y seguimiento del programa anual de iniciativas de demanda agregable de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-VIII. Constituir grupos de trabajo para el desarrollo de iniciativas de demanda agregable;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-IX. Instrumentar mecanismos de coordinación de las estrategias de suministro a nivel institucional para bienes y servicios de importación en PEMEX y Organismos Subsidiarios;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-X. Determinar la viabilidad y las instancias de PEMEX, Organismos Subsidiarios y, en su caso, filiales más adecuadas para concertar contratos preparatorios y contratos marco o para llevar a cabo contrataciones consolidadas;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XI. Administrar y coordinar la operación de contratos preparatorios y marco nacionales en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XII. Instrumentar y difundir los programas de capacitación en materia de abastecimiento estratégico para el personal de PEMEX, Organismos Subsidiarios y, en su caso, filiales, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XIII. Dar seguimiento a las propuestas de contratación de PEMEX, Organismos Subsidiarios y, en su caso, filiales en materia de suministro, que considere necesario, así como emitir las recomendaciones correspondientes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+(DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
 ###### Artículo 128.
 
-La Gerencia de Gestión y Evaluación de la Estrategia de Suministros tendrá las funciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-I. Implantar y operar un sistema de evaluación del modelo único integral de suministros en PEMEX, Organismos Subsidiarios y, en su caso, filiales, evaluar sus resultados y emitir las medidas que correspondan;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-I-A. Especificar los estándares para el registro de las operaciones asociadas al proceso de suministro en los sistemas transaccionales, así como definir, en su caso, las acciones correctivas a ser implantadas por PEMEX y Organismos Subsidiarios;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-I-B. Instrumentar acciones para que los responsables de la información procuren el funcionamiento del sistema de información empresarial de suministros, así como realizar su administración y mejora continua;
-
-II. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
-
-III. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
-
-IV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
-
-V. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
-
-VI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
-
-VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-VIII. Diseñar el modelo organizacional del modelo de negocio y coordinar, conjuntamente con las unidades administrativas correspondientes, su instrumentación e implementación en PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como evaluar sus resultados;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-IX. Desarrollar, en coordinación con las unidades administrativas correspondientes, la instrumentación e implantación de un modelo de las competencias del capital humano, así como evaluar sus resultados;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-X. Implantar y operar el sistema de calidad del proceso de suministros en PEMEX y Organismos Subsidiarios;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XI. Diseñar e implantar el modelo de coordinación que aplicará a las áreas involucradas en el proceso de suministros de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XII. Apoyar a las unidades administrativas en la implementación de las nuevas prácticas de negocio que se vayan integrando al modelo único integral de suministros, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XIII. Diseñar y coordinar el desarrollo de la estrategia integral de comunicación y de gestión del cambio para el funcionamiento del modelo único integral de suministros.
+(DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
 ###### Artículo 129.
 
-La Gerencia de Mejora del Proceso de Suministro tendrá las funciones siguientes:
-
-I. Identificar las mejores prácticas en materia de suministro para PEMEX, organismos subsidiarios y, en su caso, filiales, coordinar su implantación y evaluar sus resultados;
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-II. Desarrollar y coordinar la implantación del habilitador tecnológico que soportará al modelo de negocio único integral de suministros, conjuntamente con PEMEX, Organismos Subsidiarios y, en su caso, filiales;
-
-III. Definir, monitorear y dar seguimiento a los indicadores estratégicos y de desempeño general y por unidad de negocio del proceso de suministro y difundir los resultados;
-
-IV. Establecer los mecanismos para el control, evaluación y seguimiento del proceso de suministro en PEMEX, organismos subsidiarios y, en su caso, filiales, con la participación que les corresponda;
-
-V. Administrar catálogos electrónicos con proveedores estratégicos y establecer criterios para la creación, actualización y/o mantenimiento de los contenidos técnico-económicos de los mismos;
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-VI. Instrumentar, conjuntamente con PEMEX y Organismos Subsidiarios, las estrategias para la estandarización de datos maestros de bienes, servicios y proveedores, y la implantación de la instancia de gobierno;
-
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-VII. Instrumentar el Registro de Proveedores y Contratistas de PEMEX y Organismos Subsidiarios;
-
-VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
-
-IX. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-X. Llevar a cabo las actividades que correspondan en los comités Institucional Interorganismos de la Reserva de los Tratados de Libre Comercio y de la Macrofunción de Adquisiciones del Programa Gubernamental de Transparencia y Rendición de Cuentas, y la Comisión Consultiva Mixta de Abastecimiento;
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XI. Diseñar y administrar el proceso de desarrollo y evaluación del desempeño de proveedores de PEMEX, Organismos Subsidiarios y en su caso filiales, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
-
-XII. Coordinar y administrar la participación de proveedores en el mercado electrónico de PEMEX, Organismos Subsidiarios y, en su caso, filiales, con la participación que les corresponda.
+(DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -4723,9 +4583,9 @@ V. Supervisar la integración y validar los programas y anteproyectos de presupu
 
 VI. Coordinar las acciones de mejora continua de los sistemas informáticos que soportan los procesos de mantenimiento, confiabilidad operacional, y administración de la seguridad en los procesos;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-VII. Planear la procura de bienes y servicios cuando así convenga en términos económicos y de estrategia en PEMEX y Organismos Subsidiarios, conforme a programas debidamente establecidos con los organismos subsidiarios;
+VII. Promover la aplicación de la metodología de abastecimiento estratégico para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -4757,9 +4617,9 @@ V. Coordinar la formación y operación de las redes de expertos corporativas y 
 
 VI. Establecer y coordinar la capacitación técnica y la certificación de habilidades en actividades estratégicas de confiabilidad operacional, seguridad de los procesos y mantenimiento de PEMEX y Organismos Subsidiarios, y
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-VII. Coordinar la homologación de especificaciones y bases técnicas para la procura de bienes y servicios de mantenimiento requeridos por las áreas corporativas y Organismos Subsidiarios acorde a las políticas establecidas.
+VII. Participar, en la homologación de especificaciones para bienes y servicios estratégicos de PEMEX, Organismos Subsidiarios y, en su caso, filiales, en coordinación con las unidades administrativas correspondientes.
 
 ###### Artículo 135.
 
@@ -4787,9 +4647,9 @@ VI. Auditar el registro y calidad de la información en los sistemas informátic
 
 VII. Coordinar la formación y operación de las redes de expertos corporativas y de los Organismos Subsidiarios que homologarán y difundirán las mejores prácticas en materia de sistemas informática (sic) para la gestión del proceso de mantenimiento, confiabilidad operacional, y subsistema de seguridad de los procesos;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-VIII. Coordinar la consolidación de las solicitudes y gestionar la procura de los bienes y servicios requeridos por las áreas de PEMEX y Organismos Subsidiarios acorde a las políticas establecidas;
+VIII. Participar en la implantación de la metodología de abastecimiento estratégico para las categorías relacionadas con el proceso de mantenimiento;
 
 > <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -4813,7 +4673,7 @@ IV. Reportar sistemática y periódicamente a la alta dirección, los resultados
 
 V. Coordinar la formación y operación de grupos multidisciplinarios que fomenten la participación de los diferentes agentes operativos y con poder de decisión en el proceso de evaluación y seguimiento de la operación y mantenimiento de los activos en las instalaciones de producción de organismos Subsidiarios, incluyendo los aspectos de seguridad, confiabilidad y rentabilidad;
 
-VI. Participar en la definición de la estrategia para la consolidación y gestión de la procura de bienes y servicios requeridos para el mantenimiento, con las áreas de PEMEX y organismos subsidiarios, y
+VI. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2014)
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -4991,9 +4851,9 @@ XIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 XIV. Participar en el desarrollo y capacitación del personal asignado a las áreas ejecutoras de proyectos de inversión de PEMEX y Organismos Subsidiarios, así como coordinar la gestión del conocimiento relacionado con el desarrollo de dichos proyectos;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-XV. Dar seguimiento al registro del contenido nacional de los proyectos de inversión en PEMEX y Organismos Subsidiarios, en apoyo a la Unidad de Desarrollo de Proveedores, Contratistas y Contenido Nacional;
+XV. Dar seguimiento al registro del contenido nacional de los proyectos de inversión en PEMEX, Organismos Subsidiarios y, en su caso, filiales, en apoyo a la Subdirección de Desarrollo y Relación con Proveedores y Contratistas;
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -5003,21 +4863,525 @@ XVI. Coordinar la elaboración de los programas de ejecución de los proyectos c
 
 XVII. Definir, en conjunto con las áreas involucradas en el desarrollo de proyectos de inversión, las herramientas metodológicas y tecnológicas que incorporen las mejores prácticas en la materia;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-XVIII. Analizar iniciativas para elaborar propuestas de nuevas modalidades de contratación, en congruencia con las disposiciones aplicables;
+XVIII. Participar en el análisis de las iniciativas de nuevas modalidades de contratación;
 
 > <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 XIX. Coordinar el seguimiento a los compromisos y acciones que deriven de la Comisión Mixta formada por PEMEX con cámaras y asociaciones relacionadas con proyectos de inversión;
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-XX. Conducir e instrumentar las reglas para la administración del registro de contratistas y firmas de ingeniería, difundirlas y vigilar su cumplimiento, y
+XX. Participar en actividades de diseño, validación y evaluación del registro de contratistas y firmas de ingeniería, y
 
 > <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 XXI. Coordinar la integración y administrar la información relativa al desarrollo de los proyectos de inversión de PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+### Capítulo Quinto Bis. De la Dirección Corporativa de Procura y Abastecimiento
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+#### Sección Primera. De la Dirección Corporativa
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 D. La Dirección Corporativa de Procura y Abastecimiento tendrá las funciones siguientes:
+
+I. Definir y dirigir la estrategia integral aplicable en materia de procura y abastecimiento nacional e internacional para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+II. Proponer directrices y coordinar la implantación en materia de procura y abastecimiento para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+III. Dirigir el diseño del modelo de negocio de procura y abastecimiento de PEMEX, Organismos Subsidiarios y filiales, así como llevar a cabo la conducción del mismo y evaluar el impacto en su aplicación;
+
+IV. Dirigir las contrataciones mediante la aplicación de la metodología de abastecimiento estratégico para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+V. Dirigir la homologación y estandarización de los procedimientos de contratación de bienes, arrendamientos, obra y servicios de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+VI. Proponer al Director General los rangos en los montos de los contratos que los servidores públicos de PEMEX, según su nivel, puedan celebrar;
+
+VII. Conducir el esquema de colaboración y manejo de las relaciones con los proveedores y contratistas relacionados con PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+VIII. Establecer y coordinar mecanismos y foros de participación y vinculación con autoridades competentes, cámaras y asociaciones en materia de proveedores y contratistas;
+
+IX. Fungir como conducto único de PEMEX, Organismos Subsidiarios y, en su caso, filiales, con las dependencias e instancias competentes en relación con la cadena de procura y abastecimiento;
+
+X. Proponer directrices y coordinar la implantación de políticas y acciones relativas al desarrollo de proveedores, contratistas y contenido nacional;
+
+XI. Dirigir los trabajos de los cuerpos colegiados en materia de procura y abastecimiento en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XII. Coordinar la identificación y seguimiento de las necesidades de contratación derivadas de la ejecución de la cartera de proyectos, incluyendo el presupuesto asociado para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XIII. Dirigir, emitir y suscribir convocatorias, evaluaciones económicas, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique.
+
+La Dirección Corporativa de Procura y Abastecimiento realizará las contrataciones de adquisiciones, arrendamientos, obras y servicios y demás funciones señaladas en el párrafo anterior, a través de las unidades administrativas de la propia Dirección, a nombre y por cuenta y orden de los Organismos Subsidiarios y, en su caso, filiales;
+
+XIV. Definir los mecanismos de coordinación, control, entrega de información y resultados en materia de procura y abastecimiento de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XV. Coadyuvar con la Dirección Corporativa de Finanzas en la definición de las directrices y la implementación de controles y mecanismos de seguimiento de la programación y ejercicio presupuestario de los recursos financieros de PEMEX, Organismos Subsidiarios y, en su caso, filiales, relacionados con las contrataciones de procura y abastecimiento, y
+
+XVI. Dirigir la alineación de la estrategia integral aplicable en materia de procura y abastecimiento nacional e internacional para PEMEX, Organismos Subsidiarios y, en su caso, filiales con la planeación, programación, integración y ejercicio del presupuesto.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+#### Sección Segunda. De la Subdirección de Gestión de Estrategia y Soporte al Modelo de Negocio
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 E. La Subdirección de Gestión de Estrategia y Soporte al Modelo de Negocio tendrá las funciones siguientes:
+
+I. Coordinar el diseño del modelo de negocio de procura y abastecimiento en PEMEX, Organismos Subsidiarios y, en su caso, filiales, y supervisar la ejecución de la estrategia de implantación;
+
+II. Aprobar la ejecución de los proyectos o iniciativas relacionados con el modelo de negocio de procura y abastecimiento en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+III. Coordinar las actividades de negocio relacionadas con la solución tecnológica que soporte al modelo de negocio de procura y abastecimiento;
+
+IV. Coordinar, emitir y suscribir convocatorias, evaluaciones económicas, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, de las categorías para Exploración y Producción y Transformación Industrial y Soporte;
+
+V. Coordinar la aplicación de la estrategia de gestión del cambio para el modelo de negocio de procura y abastecimiento de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+VI. Diseñar, coordinar y supervisar la estrategia de inventarios críticos relativos a Exploración y Producción y Transformación Industrial, en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+VII. Conducir la inteligencia de mercado en materia de procura y abastecimiento, en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+VIII. Coordinar el sistema de evaluación del modelo de negocio de procura y abastecimiento para PEMEX, Organismos Subsidiarios y, en su caso filiales, así como la integración y entrega de información a las instancias correspondientes;
+
+IX. Coordinar la aplicación de la metodología de abastecimiento estratégico para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+X. Coordinar la planeación, diseño y ejecución de las estrategias de contratación derivadas de la aplicación de la metodología de abastecimiento estratégico en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XI. Coordinar la elaboración de las directrices y estudios de mercado en materia de procura y abastecimiento para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XII. Coordinar la implementación de mejores prácticas para fortalecer el modelo de negocio de procura y abastecimiento en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XIII. Conducir la estrategia de administración centralizada de los catálogos maestros de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XIV. Definir la estrategia de integración y controles necesarios de la cadena de procura y abastecimiento de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XV. Fungir como conducto único de las diversas áreas de PEMEX, Organismos Subsidiarios y, en su caso, filiales, con las instancias competentes en relación con la cadena de procura y abastecimiento;
+
+XVI. Coordinar los trabajos derivados del programa de transparencia, rendición de cuentas y combate a la corrupción en materia de adquisiciones y obra, y de las comisiones de coordinación sectorial de la macro función de adquisiciones y de obra en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XVII. Participar en la identificación de las necesidades de contratación asociada a la integración y seguimiento de la cartera de proyectos, incluyendo el presupuesto asociado para PEMEX, Organismos Subsidiarios y, en su caso filiales;
+
+XVIII. Coordinar las acciones para identificar que el presupuesto asociado a las contrataciones de procura y abastecimiento de PEMEX, Organismos Subsidiarios y, en su caso, filiales, se encuentre alineado al modelo de negocio en materia de procura y abastecimiento;
+
+XIX. Coordinar las acciones para que la estrategia integral aplicable en materia de procura y abastecimiento nacional e internacional para PEMEX, Organismos Subsidiarios y, en su caso, filiales se encuentre alineada con la planeación, programación, integración y ejercicio del presupuesto, y
+
+XX. Coordinar, en el ámbito de su competencia, la atención de los reclamos, controversias y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios de PEMEX, Organismos Subsidiarios y, en su caso, filiales.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 F. La Gerencia de Planeación y Abastecimiento Estratégico tendrá las funciones siguientes:
+
+I. Implantar y, en su caso, actualizar la metodología de abastecimiento estratégico de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+II. Consolidar y categorizar la información de contrataciones de bienes, arrendamientos, obra y servicios de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+III. Determinar áreas de oportunidad en las contrataciones de bienes, arrendamientos, obra y servicios de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+IV. Integrar y dar seguimiento al programa anual de abastecimiento estratégico de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+V. Dar seguimiento a las propuestas de estrategia de procura y abastecimiento de PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como emitir las recomendaciones correspondientes;
+
+VI. Ejecutar las estrategias de contratación en materia de agregación de demanda para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+VII. Elaborar las directrices en materia de inteligencia de mercado relativas a la gestión de categorías y evaluar su aplicación;
+
+VIII. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios, y evaluar su aplicación;
+
+IX. Implantar la estrategia de inventarios críticos relativos a Exploración y Producción y Transformación Industrial, y
+
+X. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 G. La Gerencia de Mejora e Integración del Proceso tendrá las funciones siguientes:
+
+I. Analizar la factibilidad de implementación de las mejores prácticas y requerimientos de negocio en materia de procura y abastecimiento para PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como coordinar, en su ámbito de competencia, su implantación y coadyuvar en la evaluación de sus resultados;
+
+II. Definir los requerimientos de negocio para el diseño de la solución tecnológica que soporte al modelo de negocio de procura y abastecimiento, así como ejecutar las actividades de negocio relacionadas con dicha solución para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+III. Participar, en su ámbito de competencia, en la definición e implementación de la integración entre el proceso de procura y abastecimiento y los procesos de PEMEX, Organismos Subsidiarios y filiales;
+
+IV. Administrar los catálogos electrónicos relativos al modelo de negocio de procura y abastecimiento, para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+V. Instrumentar, conjuntamente con PEMEX, Organismos Subsidiarios y, en su caso, filiales, el catálogo único de datos maestros de bienes y servicios, así como su administración;
+
+VI. Realizar las acciones para la aplicación de la Reserva de los Tratados de Libre Comercio, y
+
+VII. Fungir como conducto único de las diversas áreas de la Dirección Corporativa de Procura y Abastecimiento con las instancias competentes para realizar consultas normativas en materia de adquisiciones, arrendamientos, obra y servicios.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 H. La Gerencia de Gestión y Evaluación de la Estrategia tendrá las funciones siguientes:
+
+I. Diseñar, operar y actualizar el sistema de evaluación del modelo de negocio de procura y abastecimiento en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+II. Coordinar las acciones de los grupos de gestión estratégica y táctica operativa de procura y abastecimiento en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+III. Diseñar y actualizar el modelo de negocio en materia de procura y abastecimiento, así como administrar los mecanismos y estrategias de implantación y evaluación de los resultados de mejores prácticas en dicha materia, para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+IV. Realizar los trabajos derivados del programa de transparencia, rendición de cuentas y combate a la corrupción en materia de adquisiciones y de obra, en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+V. Diseñar y operar la oficina de proyectos de la Dirección Corporativa de Procura y Abastecimiento;
+
+VI. Diseñar y ejecutar la estrategia y los planes de gestión del cambio para el modelo de negocio de procura y abastecimiento de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+VII. Diseñar, ejecutar y evaluar los planes de atención a los clientes internos, así como proporcionarles asesoría;
+
+VIII. Definir, implementar y actualizar la estrategia de administración del conocimiento técnico en materia de procura y abastecimiento en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+IX. Establecer criterios uniformes de la información relacionada con el modelo de negocio de procura y abastecimiento, así como integrar y proporcionar información a las instancias correspondientes, y
+
+X. Realizar las acciones necesarias para que la estrategia integral aplicable en materia de procura y abastecimiento nacional e internacional para PEMEX, Organismos Subsidiarios y, en su caso, filiales se encuentre alineada con la planeación, programación, integración y ejercicio del presupuesto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 I. La Gerencia de Gestión de Categorías para Exploración y Producción tendrá las funciones siguientes:
+
+I. Aplicar la metodología de abastecimiento estratégico en las contrataciones de las categorías de Exploración y Producción;
+
+II. Integrar, en conjunto con los Organismos Subsidiarios, grupos interdisciplinarios con la participación de expertos de las áreas usuarias para el diseño y desarrollo de estrategias de procura y abastecimiento de las categorías de Exploración y Producción, así como coordinar sus trabajos;
+
+III. Estructurar el perfil e identificar las variables más importantes de las categorías de Exploración y Producción;
+
+IV. Realizar la inteligencia de mercado para el diseño de estrategias de procura y abastecimiento de las categorías para Exploración y Producción;
+
+V. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para Exploración y Producción;
+
+VI. Proponer las estrategias de abastecimiento estratégico para las categorías de Exploración y Producción;
+
+VII. Implementar las estrategias de procura y abastecimiento para las categorías de Exploración y Producción;
+
+VIII. Emitir y suscribir convocatorias, evaluaciones económicas, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique de las categorías para Exploración y Producción;
+
+IX. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de las categorías de Exploración y Producción;
+
+X. Dar seguimiento a los contratos asociados a las categorías de Exploración y Producción y, en su caso, apoyar en la resolución de problemáticas en la operación de las categorías para Exploración y Producción;
+
+XI. Realizar la evaluación de las categorías de Exploración y Producción, y
+
+XII. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 J. La Gerencia de Gestión de Categorías para Transformación Industrial y Soporte tendrá las funciones siguientes:
+
+I. Aplicar la metodología de abastecimiento estratégico en las contrataciones de Transformación Industrial y Soporte;
+
+II. Integrar, en conjunto con los Organismos Subsidiarios, grupos interdisciplinarios con la participación de expertos de las áreas usuarias para el diseño y desarrollo de estrategias de procura y abastecimiento de las categorías de Transformación Industrial y Soporte, así como coordinar sus trabajos;
+
+III. Estructurar el perfil e identificar las variables más importantes de las categorías de Transformación Industrial y Soporte;
+
+IV. Realizar la inteligencia de mercado para el diseño de estrategias de procura y abastecimiento de las categorías para Transformación Industrial y Soporte;
+
+V. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para Transformación Industrial y Soporte;
+
+VI. Proponer las estrategias de abastecimiento estratégico para las categorías de Transformación Industrial y Soporte;
+
+VII. Implementar las estrategias de procura y abastecimiento para las categorías de Transformación Industrial y Soporte;
+
+VIII. Emitir y suscribir convocatorias, evaluaciones económicas, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, de las categorías para Transformación Industrial y Soporte;
+
+IX. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de las categorías de Transformación Industrial y Soporte;
+
+X. Dar seguimiento a los contratos asociados a las categorías de Transformación Industrial y Soporte y, en su caso, facilitar la resolución de problemáticas en la operación de las categorías para Transformación Industrial y Soporte;
+
+XI. Realizar la evaluación de las categorías de Transformación Industrial y Soporte, y
+
+XII. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+#### Sección Tercera. De la Subdirección de Desarrollo y Relación con Proveedores y Contratistas
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 K. La Subdirección de Desarrollo y Relación con Proveedores y Contratistas tendrá las funciones siguientes:
+
+I. Promover, coordinar y administrar las relaciones con los proveedores y contratistas que requiera PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+II. Proponer, coordinar, ejecutar y difundir la estrategia para promover el desarrollo de proveedores y contratistas de PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como el contenido nacional en las contrataciones;
+
+III. Proponer al Director Corporativo de Procura y Abastecimiento el informe que presentará el Director General semestralmente al Congreso de la Unión, sobre los avances de las metas cuantitativas de la estrategia para promover el desarrollo de proveedores y contratistas de PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como sobre el contenido nacional en las contrataciones;
+
+IV. Identificar oportunidades para el desarrollo de proveedores y contratistas, así como de contenido nacional;
+
+V. Proponer las políticas y acciones para promover el desarrollo de proveedores y contratistas y el contenido nacional en las contrataciones de PEMEX y Organismos Subsidiarios;
+
+VI. Coadyuvar en las acciones de PEMEX y Organismos Subsidiarios relacionadas con los objetivos planteados en la Estrategia de Petróleos Mexicanos para el Desarrollo de Proveedores, Contratistas y Contenido Nacional;
+
+VII. Apoyar a las diversas dependencias e instituciones, públicas y privadas, involucradas en las acciones que realice el fondo para promover el desarrollo de proveedores y contratistas, así como promover esquemas de financiamiento;
+
+VIII. Definir la metodología de cálculo de indicadores relacionados con el contenido nacional, para los bienes, servicios y obra que PEMEX, Organismos Subsidiarios y, en su caso, filiales adquieran o contraten;
+
+IX. Implementar la metodología para el análisis e instrumentación de proyectos de desarrollo de proveedores y contratistas, y
+
+X. Establecer estrategias para la administración del ciclo integral de proveedores y contratistas con PEMEX, Organismos Subsidiarios y, en su caso, filiales.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 L. La Gerencia de Contenido Nacional y Evaluación de Proveedores y Contratistas tendrá las funciones siguientes:
+
+I. Identificar, en coordinación con las áreas de procura y abastecimiento, la demanda de los bienes y servicios críticos de acuerdo con la Estrategia de Petróleos Mexicanos para el Desarrollo de Proveedores, Contratistas y Contenido Nacional, para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+II. Desarrollar la metodología de cálculo de indicadores relacionados al contenido nacional, para su aplicación en contratos de adquisición, servicios y obra;
+
+III. Definir, diseñar e instrumentar los criterios y metodologías estandarizados para la calificación y evaluación técnica, operativa y de desempeño, de proveedores y contratistas;
+
+IV. Administrar el proceso de evaluación de proveedores y contratistas de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+V. Administrar la información relacionada con proveedores y contratistas de Petróleos Mexicanos, Organismos Subsidiarios y, en su caso, filiales, y
+
+VI. Diseñar e instrumentar la estrategia continua para la estandarización del catálogo institucional de proveedores y contratistas.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 M. La Gerencia de Relación con Proveedores y Contratistas tendrá las funciones siguientes:
+
+I. Identificar y convocar a los proveedores y contratistas, actuales o potenciales, susceptibles de participar en los proyectos de desarrollo;
+
+II. Definir los términos y condiciones de los proyectos de desarrollo de proveedores y contratistas actuales o potenciales, instrumentarlos y darles seguimiento;
+
+III. Coordinar la participación de PEMEX, Organismos Subsidiarios y, en su caso, filiales, en las acciones que realice el Fideicomiso Público para Promover el Desarrollo de Proveedores y Contratistas para la Industria Petrolera;
+
+IV. Realizar con las instancias competentes el diseño, implementación y seguimiento de las campañas de capacitación, difusión y comunicación relacionadas con las estrategias para el desarrollo de proveedores y contratistas de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+V. Coordinar la participación de PEMEX, Organismos Subsidiarios y, en su caso, filiales, en eventos relacionados con sus proveedores y contratistas que organice la Administración Pública Federal;
+
+VI. Definir mecanismos y criterios para establecer alianzas con proveedores y contratistas, de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+VII. Definir e instrumentar las mejores prácticas para el desarrollo y relación con proveedores y contratistas para PEMEX, Organismos Subsidiarios y, en su caso, filiales, y
+
+VIII. Identificar e incorporar los ajustes necesarios a los procesos y estrategias de relación y desarrollo de proveedores, así como proponer los indicadores más adecuados en su instrumentación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+#### Sección Cuarta. De la Subdirección de Procura y Abastecimiento
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 N. La Subdirección de Procura y Abastecimiento tendrá las funciones siguientes:
+
+I. Coordinar, emitir y suscribir convocatorias, evaluaciones económicas, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique;
+
+II. Coordinar la integración de los programas para la contratación de adquisiciones, arrendamientos, obra y servicios de Organismos Subsidiarios;
+
+III. Autorizar las estrategias de contratación de adquisiciones, arrendamientos, obra y servicios de Organismos Subsidiarios;
+
+IV. Coordinar el seguimiento a los programas anuales para la contratación de adquisiciones, arrendamientos, obra y servicios de Organismos Subsidiarios;
+
+V. Coordinar la evaluación económica de las propuestas presentadas en los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios de los Organismos Subsidiarios;
+
+VI. Coordinar, en el ámbito de su competencia, la atención de los reclamos, controversias y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios de los Organismos Subsidiarios;
+
+VII. Coordinar la elaboración de los estudios de mercado de procura y abastecimiento de bienes, arrendamientos, obra y servicios en Organismos Subsidiarios, y
+
+VIII. Participar en la integración y seguimiento de la cartera de proyectos, incluyendo el presupuesto asociado para PEMEX y los Organismos Subsidiarios en materia de procura y abastecimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 O. La Gerencia de Contrataciones de Exploración y Producción para la Región Norte tendrá las funciones siguientes:
+
+I. Realizar las evaluaciones económicas y los estudios de costo en materia de procura y abastecimiento para la región norte;
+
+II. Emitir y suscribir convocatorias, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios de adquisiciones, arrendamientos, obra y servicios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, para la región norte;
+
+III. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios, así como participar en la elaboración de modelos económicos y bases técnicas para las licitaciones para la región norte;
+
+IV. Integrar los programas anuales de adquisiciones, arrendamientos, obra y servicios, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas para la región norte;
+
+V. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios para la región norte;
+
+VI. Proponer mecanismos relacionados con la detección de necesidades de procura y abastecimiento para la región norte;
+
+VII. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para la región norte, y
+
+VIII. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 P. La Gerencia de Contrataciones de Exploración y Producción para la Región Sur tendrá las funciones siguientes:
+
+I. Realizar las evaluaciones económicas y los estudios de costo en materia de procura y abastecimiento para la región sur;
+
+II. Emitir y suscribir convocatorias, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios de adquisiciones, arrendamientos, obra y servicios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, para la región sur;
+
+III. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios, así como participar en la elaboración de modelos económicos y bases técnicas para las licitaciones para la región sur;
+
+IV. Integrar los programas anuales de adquisiciones, arrendamientos, obra y servicios, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas para la región sur;
+
+V. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios para la región sur;
+
+VI. Proponer mecanismos relacionados con la detección de necesidades de procura y abastecimiento para la región sur;
+
+VII. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para la región sur, y
+
+VIII. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 Q. La Gerencia Contrataciones (sic) de Exploración y Producción para las Regiones Marinas y Mantenimiento y Logística tendrá las funciones siguientes:
+
+I. Realizar las evaluaciones económicas y los estudios de costo en materia de procura y abastecimiento para regiones marinas y mantenimiento y logística;
+
+II. Emitir y suscribir convocatorias, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios de adquisiciones, arrendamientos, obra y servicios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, para las regiones marinas y mantenimiento y logística;
+
+III. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios, así como participar en la elaboración de modelos económicos y bases técnicas para las licitaciones para regiones marinas y mantenimiento y logística;
+
+IV. Integrar los programas anuales de adquisiciones, arrendamientos, obra y servicios, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas para regiones marinas y mantenimiento y logística;
+
+V. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios para regiones marinas y mantenimiento y logística;
+
+VI. Proponer mecanismos relacionados con la detección de necesidades de procura y abastecimiento para regiones marinas y mantenimiento y logística;
+
+VII. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para las regiones marinas y mantenimiento y logística, y
+
+VIII. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 R. La Gerencia de Contrataciones de Exploración y Producción para Perforación y Servicios a Proyectos tendrá las funciones siguientes:
+
+I. Realizar las evaluaciones económicas y los estudios de costo en materia de procura y abastecimiento para perforación y servicios a proyectos;
+
+II. Emitir y suscribir convocatorias, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios de adquisiciones, arrendamientos, obra y servicios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, para perforación y servicios a proyectos;
+
+III. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios, así como participar en la elaboración de modelos económicos y bases técnicas para las licitaciones para perforación y servicios a proyectos;
+
+IV. Integrar los programas anuales de adquisiciones, arrendamientos, obra y servicios, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas para perforación y servicios a proyectos;
+
+V. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios para perforación y servicios a proyectos;
+
+VI. Proponer mecanismos relacionados con la detección de necesidades de procura y abastecimiento para perforación y servicios a proyectos;
+
+VII. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para perforación y servicios a proyectos, y
+
+VIII. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 S. La Gerencia de Contrataciones para Exploración y Producción Central tendrá las funciones siguientes:
+
+I. Evaluar las estrategias para la planeación, administración y control de procura y abastecimiento para exploración y producción central;
+
+II. Planear, programar y controlar el funcionamiento y la resolución de asuntos en materia de adquisiciones, arrendamientos, obras y servicios para exploración y producción central;
+
+III. Realizar las evaluaciones económicas y los estudios de costo para exploración y producción central, en materia de procura y abastecimiento;
+
+IV. Emitir y suscribir convocatorias, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios de adquisiciones, arrendamientos, obra y servicios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, para exploración y producción central;
+
+V. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios, así como participar en la elaboración de modelos económicos y bases técnicas para las licitaciones para exploración y producción central;
+
+VI. Integrar los programas anuales de adquisiciones, arrendamientos, obra y servicios, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas para exploración y producción central;
+
+VII. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios para exploración y producción central;
+
+VIII. Proponer mecanismos relacionados con la detección de necesidades de procura y abastecimiento para exploración y producción central;
+
+IX. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para exploración y producción central, y
+
+X. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 T. La Gerencia de Contrataciones para Procesos de Refinación tendrá las funciones siguientes:
+
+I. Evaluar las estrategias para la planeación, administración y control de procura y abastecimiento para procesos de refinación;
+
+II. Planear, programar y controlar el funcionamiento y la resolución de asuntos en materia de adquisiciones, arrendamientos, obras y servicios para procesos de refinación;
+
+III. Realizar las evaluaciones económicas y los estudios de costo para procesos de refinación, en materia de procura y abastecimiento;
+
+IV. Emitir y suscribir convocatorias, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios de adquisiciones, arrendamientos, obra y servicios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, para procesos de refinación;
+
+V. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios, así como participar en la elaboración de modelos económicos y bases técnicas para las licitaciones, para procesos de refinación;
+
+VI. Integrar los programas anuales de adquisiciones, arrendamientos, obra y servicios, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas para procesos de refinación;
+
+VII. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios para procesos de refinación;
+
+VIII. Proponer mecanismos relacionados con la detección de necesidades de procura y abastecimiento para procesos de refinación;
+
+IX. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para procesos de refinación;
+
+X. Participar y dar seguimiento a las gestiones para la capitalización de las obras desarrolladas por la Subdirección de Proyectos de Pemex-Refinación, y
+
+XI. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 U. La Gerencia de Contrataciones para Procesos de Gas y Petroquímica Básica tendrá las funciones siguientes:
+
+I. Evaluar las estrategias para la planeación, administración y control de procura y abastecimiento para procesos de gas y petroquímica básica;
+
+II. Planear, programar y controlar el funcionamiento y la resolución de asuntos en materia de adquisiciones, arrendamientos, obras y servicios para procesos de gas y petroquímica básica;
+
+III. Realizar las evaluaciones económicas y los estudios de costo para procesos de gas y petroquímica básica, en materia de procura y abastecimiento;
+
+IV. Emitir y suscribir convocatorias, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios de adquisiciones, arrendamientos, obra y servicios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, para procesos de gas y petroquímica básica;
+
+V. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios, así como participar en la elaboración de modelos económicos y bases técnicas para las licitaciones para procesos de gas y petroquímica básica;
+
+VI. Integrar los programas anuales de adquisiciones, arrendamientos, obra y servicios, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas para procesos de gas y petroquímica básica;
+
+VII. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios para procesos de gas y petroquímica básica;
+
+VIII. Proponer mecanismos relacionados con la detección de necesidades de procura y abastecimiento para procesos de gas y petroquímica básica;
+
+IX. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para procesos de gas y petroquímica básica, y
+
+X. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+Artículo 136 V. La Gerencia de Contrataciones para Procesos de Petroquímica tendrá las funciones siguientes:
+
+I. Evaluar las estrategias para la planeación, administración y control de procura y abastecimiento para procesos de petroquímica;
+
+II. Planear, programar y controlar el funcionamiento y la resolución de asuntos en materia de adquisiciones, arrendamientos, obra y servicios para procesos de petroquímica;
+
+III. Realizar las evaluaciones económicas y los estudios de costo para procesos de petroquímica, en materia de procura y abastecimiento;
+
+IV. Emitir y suscribir convocatorias, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios de adquisiciones, arrendamientos, obra y servicios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, para procesos de petroquímica;
+
+V. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios, así como participar en la elaboración de modelos económicos y bases técnicas para las licitaciones para procesos de petroquímica;
+
+VI. Integrar los programas anuales de adquisiciones, arrendamientos, obra y servicios, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas para procesos de petroquímica;
+
+VII. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios para procesos de petroquímica;
+
+VIII. Proponer mecanismos relacionados con la detección de necesidades de procura y abastecimiento para procesos de petroquímica;
+
+IX. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para procesos de petroquímica, y
+
+X. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -5028,8 +5392,6 @@ XXI. Coordinar la integración y administrar la información relativa al desarro
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
-
-### Capítulo Séptimo. De las Demás Unidades Administrativas de la Estructura Orgánica Básica
 
 ###### Artículo 137.
 
@@ -5565,7 +5927,7 @@ XX. Coordinar la atención y seguimiento del cumplimiento de los acuerdos adopta
 
 XXI. Coadyuvar con la Gerencia de Control de Gestión en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación y despachos de auditores externos relativas a su ámbito de competencia.
 
-### Capítulo Primero. De los Servicios Administrativos Comunes y de los Servicios Especializados que presta Petróleos Mexicanos a sus Organismos Subsidiarios
+### Capítulo Séptimo. De las Demás Unidades Administrativas de la Estructura Orgánica Básica
 
 ###### Artículo 147.
 
@@ -5795,7 +6157,7 @@ Con base en lo anterior, la decisión final de qué proyectos se someterán a la
 
 ## TITULO SEPTIMO. DE LOS SERVICIOS Y NORMATIVIDAD INTERNA
 
-### Capítulo Segundo. De la Normatividad de Petróleos Mexicanos
+### Capítulo Primero. De los Servicios Administrativos Comunes y de los Servicios Especializados que presta Petróleos Mexicanos a sus Organismos Subsidiarios
 
 ###### Artículo 150.
 
@@ -5821,11 +6183,7 @@ El Consejo de Administración determinará aquellos servicios especializados que
 
 La contabilidad de los diversos servicios comunes que se presten deberá ser llevada de manera independiente, aun cuando se consoliden en los estados financieros de PEMEX. Para efectos de su presentación al Consejo de Administración, se incluirá en el informe del Director General, un apartado que permita conocer la contabilidad de cada uno de los servicios y del sistema de pensiones.
 
-### Capítulo Primero. Representación y nombramientos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+### Capítulo Segundo. De la Normatividad de Petróleos Mexicanos
 
 ###### Artículo 155.
 
@@ -5853,9 +6211,11 @@ PEMEX contará con un sistema de registro y difusión de su normatividad y la de
 
 ## TITULO OCTAVO. DE LA REPRESENTACION Y SUPLENCIAS
 
-### Capítulo Segundo. De los Encargados de Despacho por Suplencias
+### Capítulo Primero. Representación y nombramientos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 159.
 
@@ -5877,11 +6237,13 @@ Los poderes a que se refiere el párrafo cuarto del artículo 5o. de la Ley, se 
 
 Cuando sea necesario, los directivos y personal de PEMEX acreditarán sus funciones, al interior del propio Organismo, con el nombramiento respectivo y las funciones que de conformidad con el presente Estatuto les corresponden.
 
-### Capítulo Primero. Del Comisario
+### Capítulo Segundo. De los Encargados de Despacho por Suplencias
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 162.
 
-En sus ausencias, el Director General será suplido por el Director Corporativo de Administración, por el Director Corporativo de Operaciones, por el Director Corporativo de Finanzas o por el Director Corporativo de Tecnología de Información y Procesos de Negocio, en ese orden.
+En su ausencia, el Director General será suplido por el Director Corporativo de Administración, por el Director Corporativo de Operaciones, por el Director Corporativo de Finanzas, por el Director Corporativo de Tecnología de Información y Procesos de Negocio, o por el Director Corporativo de Procura y Abastecimiento, en ese orden.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -5915,7 +6277,7 @@ En caso de no designarse suplente, cada titular de unidad administrativa del ser
 
 ## TITULO NOVENO. DE LA VIGILANCIA DE PETROLEOS MEXICANOS
 
-### Capítulo Segundo. Del Organo Interno de Control
+### Capítulo Primero. Del Comisario
 
 ###### Artículo 167.
 
@@ -5932,6 +6294,8 @@ Para auxiliarse en el ejercicio de sus funciones, el Comisario podrá contratar,
 El Comisario no podrá ejercer facultades que correspondan al Comité de Auditoría y Evaluación del Desempeño, a la Secretaría de la Función Pública y al Organo Interno de Control.
 
 Los informes y reportes que emita el Comisario deberán ser difundidos por los medios que estime adecuados, incluyendo el portal de Internet de PEMEX.
+
+### Capítulo Segundo. Del Organo Interno de Control
 
 ###### Artículo 168.
 
@@ -6048,3 +6412,47 @@ TERCERO. Respecto a la adición del artículo 147 Bis, fracción VI, la Gerencia
 CUARTO. Las referencias que se hagan y las atribuciones que se otorgan en otra normatividad a la Gerencia de Desarrollo Social que cambia de denominación por virtud de las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, se entenderán hechas o conferidas a la Gerencia de Responsabilidad y Desarrollo Social.
 
 QUINTO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas de Petróleos Mexicanos y Organismos Subsidiarios.
+
+D.O.F. 7 DE FEBRERO DE 2014.
+
+ACUERDO CA-145/2013 POR EL QUE SE REFORMAN LOS ARTÍCULOS 34, FRACCIÓN II, INCISO E), NUMERALES 1 A 3; 59, EN SU ENCABEZADO; 60, EN SU ENCABEZADO, Y LAS FRACCIONES I, III Y X, Y 61, EN SU ENCABEZADO, Y LAS FRACCIONES I A V, Y IX A XI; SE ADICIONAN LOS ARTÍCULOS 60, FRACCIONES XI A XVIII, Y 61, FRACCIONES XII Y XIII, Y SE DEROGA EL ARTÍCULO 60, FRACCIÓN IX, DEL ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS.
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las referencias que se hagan y las atribuciones que se otorgan en otra normatividad a las Gerencias de Normatividad Patrimonial, de Administración y Optimización Patrimonial, y de Promoción y Comercialización de Bienes que cambian de denominación por virtud de las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, se entenderán hechas o conferidas a las Gerencias de Apoyo Técnico y Normativo, de Administración Patrimonial de Bienes Inmuebles, y de Administración Patrimonial de Bienes Muebles, respectivamente.
+
+TERCERO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas de Petróleos Mexicanos y Organismos Subsidiarios.
+
+D.O.F. 7 DE FEBRERO DE 2014.
+
+ACUERDO CA-003/2014 POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, SALVO SU ENCABEZADO; 105, FRACCIONES VII, VIII, XII Y XIII; 133, FRACCIÓN VII; 134, FRACCIÓN VII; 135, FRACCIÓN VIII; 136 C, FRACCIONES XV, XVIII Y XX, Y 162, PRIMER PÁRRAFO; SE ADICIONAN LOS ARTÍCULOS 34, FRACCIÓN V.A; 136 D; 136 E; 136 F; 136 G; 136 H; 136 I; 136 J; 136 K; 136 L; 136 M; 136 N; 136 O; 136 P; 136 Q; 136 R; 136 S; 136 T; 136 U, Y 136 V, Y SE DEROGAN LOS ARTÍCULOS 34, FRACCIÓN V, INCISOS A), Y F); 105, FRACCIONES IX, IX-A Y XIV; 108; 108 A; 108 B; 126; 127; 128; 129, Y 136, FRACCIÓN VI, DEL ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS.
+
+PRIMERO. Las modificaciones al Estatuto Orgánico de Petróleos Mexicanos entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. Las funciones que actualmente le corresponden a los Organismos Subsidiarios, que se transferirán a la Dirección Corporativa de Procura y Abastecimiento y a sus unidades administrativas en virtud de las presentes modificaciones, entrarán en vigor una vez que se modifiquen los estatutos orgánicos de los mismos, y que formalmente le hayan sido transferidos los recursos a que refiere el artículo Séptimo Transitorio.
+
+TERCERO. Las modificaciones de los artículos 136 I, 136 J, 136 N, 136 O, 136 P, 136 Q, 136 R, 136 S, 136 T, 136 U, y 136 V, del Estatuto Orgánico de Petróleos Mexicanos, entrarán en vigor una vez que se modifiquen los estatutos orgánicos de los Organismos Subsidiarios, en lo referente a la materia de procura y abastecimiento, y que formalmente le hayan sido transferidos los recursos a que refiere el artículo Séptimo Transitorio.
+
+CUARTO. La Dirección Corporativa de Administración seguirá realizando las funciones para dirigir, supervisar, coordinar y ejecutar los procedimientos de adquisiciones, arrendamientos, obra y servicios, en el ámbito de su competencia, incluyendo los procedimientos correspondientes a la Subdirección de Servicios de Salud, hasta en tanto dicha Dirección Corporativa de Administración coordine lo necesario con la Dirección Corporativa de Procura y Abastecimiento para la transferencia de funciones y recursos correspondientes.
+
+QUINTO. En tanto se expiden los acuerdos y demás disposiciones administrativas que deriven de las presentes modificaciones continuarán siendo aplicables, en lo conducente, los acuerdos y las disposiciones expedidos con anterioridad a la entrada en vigor de dichas modificaciones, en lo que no se oponga a las mismas.
+
+SEXTO. Las instancias y servidores públicos deberán emitir o adecuar la normatividad interna y demás instrumentos respectivos para que sean acordes con las presentes modificaciones.
+
+SÉPTIMO. Se deberán realizar todas las gestiones administrativas para la transferencia de los recursos humanos y materiales, incluyendo la información y documentación, así como los recursos financieros asociados con dicha transferencia, derivadas de las presentes modificaciones.
+
+OCTAVO. Las unidades administrativas cuyas funciones se modifican o se crean en virtud de las presentes reformas, adiciones o derogaciones al Estatuto Orgánico de Petróleos Mexicanos, deberán realizar y formalizar, según corresponda, cualquier tipo de acto o documento, incluyendo actas de entrega-recepción, que sean necesarios para los traspasos, transferencias, sustituciones y demás que correspondan, de acuerdo con las funciones y estructura de este Estatuto.
+
+NOVENO. Los convenios y contratos en ejecución, así como los procedimientos de contratación en trámite, deberán formar parte de las actas de entrega-recepción, a fin de no afectar la operación y el ejercicio de las funciones de las unidades administrativas de Petróleos Mexicanos y Organismos Subsidiarios.
+
+DÉCIMO. La Dirección Corporativa de Procura y Abastecimiento deberá realizar las gestiones necesarias ante la Dirección Jurídica, para que se otorguen y revoquen los poderes que resulten necesarios para el cumplimiento de las funciones contenidas en las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos.
+
+DÉCIMO PRIMERO. Las referencias que se hagan a las unidades administrativas que cambian de denominación y/o adscripción por virtud de las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, así como las atribuciones que se les otorgan en otros instrumentos, se entenderán hechas o conferidas a las unidades administrativas que corresponda conforme a las presentes modificaciones.
+
+DÉCIMO SEGUNDO. La Dirección Corporativa de Procura y Abastecimiento realizará las gestiones necesarias ante las unidades administrativas competentes de Petróleos Mexicanos y Organismos Subsidiarios, a fin de que a partir de que se modifiquen los estatutos orgánicos de los Organismos Subsidiarios, la Dirección Corporativa de Procura y Abastecimiento pueda llevar a cabo las funciones de Procura y Abastecimiento comprometiendo el presupuesto de los Organismos Subsidiarios y que formalmente le hayan sido transferidos los recursos a que refiere el artículo Séptimo Transitorio.
+
+DÉCIMO TERCERO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas de Petróleos Mexicanos y Organismos Subsidiarios.
+
+DÉCIMO CUARTO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
+
+DÉCIMO QUINTO. Una vez que formalmente hayan sido transferidos los recursos, a que se refiere el artículo Séptimo Transitorio, se deberá publicar en el Diario Oficial de la Federación el aviso para los efectos correspondientes frente a terceros.
