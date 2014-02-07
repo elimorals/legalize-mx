@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-exploracion-y-produccion-93378"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-03-28"
-last_updated: "2013-10-30"
+last_updated: "2014-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93378&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-03-21"
 
 ESTATUTO ORGÁNICO DE PEMEX-EXPLORACIÓN Y PRODUCCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE FEBRERO DE 2014.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 28 de marzo de 2013.
 
@@ -1155,7 +1155,19 @@ XI. Unidad de Negocio de Perforación
 
 1. Gerencia de Estrategias y Planes
 
-2. Gerencia de Perforación y Reparación de Pozos
+2. (DEROGADO, D.O.F. 7 DE FEBRERO DE 2014)
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+2. Bis. Gerencia de Perforación y Reparación de Pozos Terrestre
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+2. Ter. Gerencia de Perforación y Reparación de Pozos Marina
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+
+2. Quáter. Gerencia de Bases Técnicas y Supervisión de Contratos
 
 3. Gerencia de Servicio a Pozos
 
@@ -2870,3 +2882,11 @@ SEXTO. Los derechos laborales serán respetados en todo momento, de acuerdo con 
 SÉPTIMO. Las unidades administrativas correspondientes propondrán, en los casos que sea necesario, las modificaciones a las disposiciones y normas que correspondan.
 
 Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico de Pemex-Exploración y Producción, fueron aprobadas por el Consejo de Administración de Pemex-Exploración y Producción, con fundamento en el artículo Décimo Tercero, fracción XI, del Decreto que tiene por Objeto establecer la estructura, el funcionamiento y el control de los Organismos Subsidiarios de Petróleos Mexicanos, en sesión ordinaria 161 celebrada el día 27 de agosto de 2013, mediante acuerdo número CAPEP-072/2013.
+
+D.O.F. 7 DE FEBRERO DE 2014.
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Pemex-Exploración y Producción entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los convenios, contratos y en general, cualquier acto jurídico celebrado o llevado a cabo por las unidades administrativas previstas en los artículos 91 Bis, 91 Ter y 91 Quáter del Estatuto Orgánico de Pemex-Exploración y Producción, con anterioridad a la entrada en vigor de las presentes modificaciones, subsistirán en sus términos y tienen plena validez jurídica.
+
+TERCERO. Las presentes modificaciones a la fracción XI del artículo 34, únicamente implican las adiciones de las unidades administrativas creadas mediante Acuerdo CAPEP-072/2013, publicado en el Diario Oficial de la Federación del 30 de octubre de 2013, así como la derogación del numeral 2 de dicha fracción; por lo que los artículos transitorios correspondientes a dicha publicación son aplicables, en lo conducente, a las presentes modificaciones.
