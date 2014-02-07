@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-deporte-del-estado-de-queretaro-69093"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2012-01-20"
+last_updated: "2014-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -151,9 +151,15 @@ IX. Reconocer y proteger el ideario deportivo, adoptando medidas para evitar y e
 
 X. Promover la creación y fomento de patronatos, fundaciones y demás organismos filantrópicos en la sociedad civil, con el fin de que coadyuven en el fomento y el desarrollo del deporte;
 
-XI. Generar un informe anual sobre la evaluación del cumplimiento de los objetivos del Programa; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2014)</small>
 
-XII. Las demás obligaciones y atribuciones que le otorguen la presente Ley y otras disposiciones aplicables.
+XI. Generar un informe anual sobre la evaluación del cumplimiento de los objetivos del Programa;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2014)</small>
+
+XII. Procurar la igualdad de oportunidades de mujeres y hombres para participar en actividades deportivas independientemente de la edad, capacidades, condición social o estado civil; y
+
+XIII. Las demás obligaciones y atribuciones que le otorguen la presente Ley y otras disposiciones aplicables.
 
 ###### Artículo 12.
 
@@ -514,3 +520,9 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. El titular del Poder Ejecutivo del Estado de Querétaro, deberá emitir el Reglamento de la Ley del Deporte del Estado de Querétaro, a más tardar, en un plazo de sesenta días, contados a partir de la entrada en vigor de la presente Ley.
 
 Artículo Cuarto. El titular del Poder Ejecutivo del Estado de Querétaro, deberá incluir en su Presupuesto de Ingresos del ejercicio fiscal 2012, el recurso necesario para el cumplimiento del presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
