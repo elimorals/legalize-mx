@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-credito-y-apoyos-81836"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-10"
-last_updated: "2011-06-10"
+last_updated: "2014-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE CREDITO Y APOYOS EDUCATIVOS DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO POR EL ACUERDO QUE APRUEBA EL REGLAMENTO INTERNO DEL INSTITUTO DE CRÉDITO Y APOYOS EDUCATIVOS DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL P.O. 7 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. P.O. 7 DE FEBRERO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2011.
 
@@ -682,3 +684,13 @@ SECRETARIO GENERAL DE GOBIERNO
 JAVIER SANTILLÁN PÉREZ
 
 SECRETARIO DE EDUCACIÓN Y BIENESTAR Y SOCIAL
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO JURÍDICO.
+
+P.O. 7 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Instituto de Crédito y Apoyos Educativos de Baja California, publicado en el Periódico Oficial del Estado con fecha 10 de Junio del 2011.
+
+TERCERO.- En tanto no se expidan los manuales administrativos, el Director General queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
