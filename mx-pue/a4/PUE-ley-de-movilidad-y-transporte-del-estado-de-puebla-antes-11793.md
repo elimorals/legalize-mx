@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2013-12-20"
+last_updated: "2014-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA -- ANTES LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA --
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE FEBRERO DE 2014, EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE FEBRERO DE 2014.</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -36,8 +36,6 @@ MANUEL BARTLETT DIAZ, Gobernador Constitucional del Estado Libre y Soberano de P
 Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGESIMO TERCER CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
-
-CONSIDERANDO
 
 CONSIDERANDO
 
@@ -333,9 +331,11 @@ VIII.- Suscribir instrumentos jurídicos que tengan por objeto impulsar la plane
 
 IX.- Instrumentar y autorizar en beneficio de los usuarios la utilización de elementos aportados por la ciencia y tecnología, para la implementación de nuevos sistemas en el manejo operativo, incluyendo sistemas de cobro en las distintas modalidades del transporte; para la determinación de infracciones en el ámbito de su competencia, así como para mejorar las condiciones de accesibilidad para las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-X.- Autorizar el uso de los carriles confinados de los corredores del sistema de Transporte Público Masivo, así como diseñar y regular los mecanismos y elementos de confinamiento; y
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013) (F. DE E., P.O. 7 DE FEBRERO DE 2014)
+
+X.- Autorizar el uso de los carriles confinados de los corredores del sistema de Transporte Público Masivo, así como diseñar y regular los mecanismos y elementos de confinamiento;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -419,13 +419,11 @@ Los servidores públicos a que se refiere este artículo, deberán ser rotados c
 
 Los Supervisores de la Contraloría, tendrán las siguientes atribuciones y obligaciones:
 
-I.- La vigilancia y revisión de los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, que circulen en la infraestructura vial y sus Servicios Auxiliares;
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013) (F. DE E., P.O. 7 DE FEBRERO DE 2014)
 
-La supervisión, vigilancia y revisión de los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, que circulen en la infraestructura vial; así como de los Servicios Auxiliares;
+I.- La supervisión, vigilancia y revisión de los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, que circulen en la infraestructura vial; así como de los Servicios Auxiliares;
 
 II.- Revisar la documentación necesaria que deben portar los operadores de las unidades, para la prestación del Servicio Público de Transporte y del Servicio Mercantil;
 
