@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-86551"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-02"
-last_updated: "2012-03-02"
+last_updated: "2014-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el viernes 2 de marzo de 2012.
 
@@ -225,9 +225,15 @@ II. Aprobar los planes y programas en materia de atención, prevención y desarr
 
 III. Difundir de manera oportuna los derechos y obligaciones que contribuyan al desarrollo integral de los jóvenes del municipio;
 
-IV. Establecer en sus presupuestos de egresos correspondiente, partidas para difusión, promoción, fomento, investigación, ejecución, supervisión y evaluación de los planes y programas en materia de juventud del municipio; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2014)</small>
 
-V. Las demás que conforme a esta Ley, reglamentos y acuerdos le correspondan.
+IV. Establecer en sus presupuestos de egresos correspondientes, partidas para difusión, promoción, fomento, investigación, ejecución, supervisión y evaluación de los planes y programas en materia de juventud del municipio;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2014)</small>
+
+V. Procurar la realización de un evento anual denominado "Cabildo de la juventud", el cual tendrá como objetivo el promover la cultura municipal entre los jóvenes; y
+
+VI. Las demás que conforme a esta Ley, reglamentos y acuerdos le correspondan.
 
 ## Título Tercero. De los derechos y obligaciones de los jóvenes
 
@@ -804,3 +810,11 @@ C. Carla Andrea Spinolo Prieto
 Secretaria de la Juventud
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE FEBRERO DE 2014.
+
+Artículo Primero. La presente Ley, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
