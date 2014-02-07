@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2013-11-04"
+last_updated: "2014-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA PARLAMENTARIA: 4 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1265,9 +1265,11 @@ La Convocatoria para la reunión de las comisiones deberá expedirse cuando meno
 
 En el caso de que el Presidente de la Comisión respectiva no convocara a sesiones en un término de treinta días naturales, la mayoría de los integrantes de la Comisión podrán convocar a fin de desahogar los asuntos que les correspondan. La responsabilidad en que incurra el Presidente de la Comisión será calificada por la Asamblea.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 73.
 
-Las reuniones de las Comisiones no serán públicas; sin embargo, cuando así lo acuerden sus integrantes, podrán celebrar reuniones de información y audiencia a las que podrán asistir, a invitación expresa, servidores públicos federales, estatales o municipales para que informen cuando se discuta una ley o un asunto concerniente a sus respectivos ámbitos de competencia, así como también a representantes de grupos sociales interesados, peritos y otras personas que puedan ampliar la información sobre el particular.
+Las reuniones de las Comisiones serán por regla general públicas; sin embargo, cuando así lo acuerden los integrantes de la Comisión, podrán celebrar reuniones privadas en las que se podrá invitar de manera expresa, a servidores Públicos Federales, Estatales o Municipales para que informen y opinen respecto de algún asunto concerniente a sus respectivos ámbitos de competencia, así como también a representantes de grupos sociales interesados, peritos y otras personas que puedan ampliar la información sobre el particular.
 
 En las deliberaciones de las comisiones participarán con derecho a voz los titulares de los órganos técnicos administrativos según sea el asunto de su competencia, así como aquellos a que se hace referencia en el párrafo que antecede.
 
@@ -2670,3 +2672,9 @@ SEGUNDO.- Por única ocasión, a partir de la entrada en vigor de la presente re
 TERCERO.- Publíquese en la Gaceta del Poder Legislativo, Órgano Oficial de difusión del Congreso del Estado de Baja California.
 
 CUARTO.- Remítase al Poder Ejecutivo del Estado para su Publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE FEBRERO DE 2014.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso, publíquese en la Gaceta Parlamentaria.
+
+SEGUNDO.- Remítase al Poder Ejecutivo para su publicación en el Periódico Oficial.
