@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2013-12-17"
+last_updated: "2014-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -891,6 +891,36 @@ VI. El nuevo dictamen se volverá a discutir y a esta segunda discusión podrá 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
 
 VII. Si el proyecto devuelto con observaciones por el Ejecutivo, fuere confirmado por las dos terceras partes del número total de votos, se declarará ley o decreto y se enviará de nuevo al Ejecutivo, para (sic) en el término de 10 días naturales siguientes ordene su promulgación y publicación; en caso de no hacerlo, transcurrido dicho plazo, la ley o decreto será considerado promulgado, y el Presidente del Congreso o de la Diputación Permanente, dentro de los diez días naturales siguientes, ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, sin que se requiera el refrendo previsto en el artículo 88 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2014)</small>
+
+###### Artículo 62 Bis.
+
+Para la aprobación de toda iniciativa de ley o decreto, se necesita el voto de la mayoría de los diputados.
+
+Se requiere el voto de las dos terceras partes de los diputados presentes, cuando se trate de:
+
+I. Iniciativas de leyes o decretos en materia:
+
+1) Electoral.
+
+2) De Derechos Humanos.
+
+3) De Deuda Pública.
+
+4) De Fiscalización superior del Estado y los Municipios.
+
+5) Penal
+
+6) Las relacionadas con las Leyes de Ingresos del Estado y de los Municipios así como con el Presupuesto de Egresos del Estado.
+
+7) De designación de integrantes de Organismos Públicos autónomos.
+
+8) Relacionados con el Comité Estatal de Vinculación Hacendaria.
+
+9) Relacionados con el Código Financiero para los Municipios del Estado de Coahuila de Zaragoza y la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
+
+II. Las demás previstas en esta Constitución.
 
 ###### Artículo 63.
 
@@ -4805,3 +4835,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 El Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza deberá expedir la legislación secundaria que resulte necesaria para poder aplicar con certeza las candidaturas independientes. El Instituto Electoral y de Participación Ciudadana de Coahuila expedirá los acuerdos que hagan posible el ejercicio de los derechos de las candidaturas independientes, conforme a la legislación secundaria que haga exigible este derecho humano de contenido y de desarrollo legal.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los (sic) previsto en este Decreto.
