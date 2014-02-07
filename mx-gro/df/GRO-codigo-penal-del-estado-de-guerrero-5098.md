@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2013-12-20"
+last_updated: "2014-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PENAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1327,17 +1327,23 @@ Al que cometa dicho ilícito se le impondrá de veinte a cuarenta años de prisi
 
 ### CAPITULO I. AMENAZAS Y DISCRIMINACIÓN
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2014)</small>
 
-134.- Al que amenace a otro con causarle daño en alguno de sus bienes jurídicos o en los de un tercero con quien el ofendido tenga vínculos de amor, amistad, parentesco, gratitud o cualquier otro, se le impondrá prisión de 3 meses a 2 años o multa de 180 a 360 días de salario y trabajo en favor de la comunidad hasta por 6 meses.
+134.- Al que amague a otro con causarle daño en alguno de sus bienes jurídicos o en los de un tercero con quien el ofendido tenga vínculos de amor y/o de parentesco, afectivos o de cualquier tipo, se le impondrá prisión de 1 a 3 años y multa de 120 a 260 días de salario.
 
-El delito previsto en este artículo se perseguirá a petición de la parte ofendida.
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad más cuando se realice:
+
+I.- Contra personas indígenas o afromexicanos.
+
+II.- Contra personas menores de edad, mujeres, adultos mayores o con personas que presenten discapacidad física.
+
+III.- Con algún arma de fuego, explosivo, arma blanca o cualquier objeto que pueda causar pánico o terror en la victima.
+
+El delito previsto en este artículo se perseguirá de oficio.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 134 Bis.
-
-Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo a favor de la comunidad y multa de cincuenta a doscientos días al que, por razón de edad, sexo, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas cuando:
+134 Bis. - Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo a favor de la comunidad y multa de cincuenta a doscientos días al que, por razón de edad, sexo, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas cuando:
 
 I.- Provoque o incite al odio o a la violencia;
 
@@ -1539,7 +1545,7 @@ Igual pena se aplicará al que imponga la misma condición a que se refiere el p
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-ARTÍCULO 147 B.- Comete el delito de esterilidad provocada, quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos con el propósito de provocar esterilidad.
+147 B.- Comete el delito de esterilidad provocada, quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos con el propósito de provocar esterilidad.
 
 Se sancionará con una pena de cuatro a siete años de prisión y multa de cuarenta a ciento veinte días de salario mínimo, además de la reparación del daño.
 
@@ -3702,3 +3708,9 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para 
 ###### ARTÍCULO TERCERO
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 7 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
