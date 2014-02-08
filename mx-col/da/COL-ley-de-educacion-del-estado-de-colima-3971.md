@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2014-01-11"
+last_updated: "2014-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 8 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -1378,3 +1380,35 @@ SEGUNDO.- Lo dispuesto en el presente Decreto no será aplicable a aquellos trab
 P.O. 11 DE ENERO DE 2014.
 
 PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de marzo de 2014, previa su publicación en el Periódico Oficial, "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Educación del Estado de Colima, publicada en el Periódico Oficial el 28 de mayo de 1994, y las demás disposiciones que se opongan a este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las autoridades competentes se obligan a respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales colectivas de su organización sindical en los términos de su registro vigente, de acuerdo con las disposiciones legales correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo establecido en el artículo Octavo Transitorio de la Ley General del Servicio Profesional Docente, el personal que a la entrada en vigor del referido ordenamiento se encuentre en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la educación básica o media superior impartida por la autoridad educativa estatal, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere la Sección Sexta del Capítulo III de esta Ley. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 63 de esta Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio educativo, conforme a lo que determine la autoridad educativa estatal, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del artículo 63 de esta Ley, será separado del servicio público sin responsabilidad para la autoridad educativa estatal.
+
+###### ARTÍCULO QUINTO.
+
+El personal docente y el personal con funciones de dirección o de supervisión en la educación básica o media superior impartida por la autoridad educativa estatal que a la entrada en vigor de esta Ley tenga nombramiento provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en el artículo 62 de la presente Ley. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará nombramiento definitivo y quedará incorporado al servicio profesional docente conforme a lo dispuesto por la Ley General del Servicio Profesional Docente y el presente ordenamiento.
+
+Será separado del servicio público sin responsabilidad para la autoridad educativa estatal, el personal que:
+
+I. Se niegue a participar en los procesos de evaluación;
+
+II. No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primer o segundo proceso de evaluación a que se refiere el artículo 63 de esta Ley, u
+
+III. Obtenga resultados insuficientes en el tercer proceso de evaluación previsto en el artículo 63 del presente ordenamiento.
