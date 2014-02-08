@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-del-sistema-de-tren-electrico-urbano-del-828
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-10"
-last_updated: "2013-03-05"
+last_updated: "2014-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERNO DEL SISTEMA DE TREN ELÉCTRICO URBANO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 10 de septiembre de 2011.
 
@@ -152,7 +152,9 @@ I. Ejecutar los acuerdos, resoluciones y disposiciones del Consejo.
 
 II. Representar al Organismo ante las autoridades administrativas, judiciales y del trabajo, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la legislación aplicable; estará investido de poder general para pleitos y cobranzas, para actos de administración y en materia laboral; podrá otorgar y suscribir títulos de crédito a nombre del Organismo, con firma mancomunada del Presidente del Consejo, y celebrar y firmar los contratos que apruebe el Consejo, ejerciendo aquellas facultades de dominio que expresa y específicamente autorice el Consejo, y pudiendo otorgar poderes generales y especiales para pleitos y cobranzas y en materia laboral así como revocarlos, siempre que no contraríen los objetivos y facultades de seguridad jurídica del Organismo.
 
-Para los efectos de los títulos de crédito señalados en el párrafo anterior, se delega al Director General y al Director de Tren Eléctrico, el otorgamiento y liberación de los títulos de crédito relativos a las cuentas de cheques, los que se firmarán en forma mancomunada con el Director Administrativo y/o el Director Técnico en ausencia de dos de los anteriores firmará el Tesorero y/o el Gerente de Recursos Financieros.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2014)</small>
+
+Para los efectos de los títulos de crédito señalados en el párrafo anterior, se delega al Director General, la suscripción, otorgamiento y liberación de los títulos de crédito relativos a las cuentas de cheques, quien podrá delegar a otros servidores públicos del Organismo la suscripción de los mismos. Dichos instrumentos deberán firmarse en forma mancomunada por dos servidores públicos.
 
 III. Administrar los negocios y bienes del Sistema, celebrar convenios y contratos y ejecutar los actos que requiera la buena marcha del mismo.
 
@@ -1219,3 +1221,7 @@ Secretario de Actas
 P.O. 5 DE MARZO DE 2013.
 
 LAS MODIFICACIONES CON ANTELACIÓN CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 8 DE FEBRERO DE 2014.
+
+LAS MODIFICACIONES CON ANTELACIÓN CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
