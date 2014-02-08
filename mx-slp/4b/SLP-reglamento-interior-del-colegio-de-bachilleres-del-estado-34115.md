@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-colegio-de-bachilleres-del-estado-34115
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-16"
-last_updated: "2003-09-16"
+last_updated: "2014-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de septiembre de 2003.
 
@@ -153,7 +153,7 @@ VI. Ejercer las demás facultades que le confiere el Decreto y las diversas norm
 
 El Director es el representante legal del Colegio con todas las Facultades de un Apoderado General en los términos del mandato que le otorgue la Junta Directiva. Deberá reunir los requisitos que establece el artículo 9° del Decreto, durará en su cargo cuatro años, pudiendo ser reelecto una vez, según lo dispone el invocado artículo en su último párrafo.
 
-###### ARTICULO 9°.
+###### ARTÍCULO 9°.
 
 Son facultades y obligaciones del Director, las previstas en el Artículo 10° del Decreto y las que los prevé el presente Reglamento:
 
@@ -193,9 +193,15 @@ XVII. No desempeñar simultáneamente dentro de la administración pública, otr
 
 XVIII. Cumplir con todas las actividades relativas a la Dirección General previstas en el Decreto, las que le confiere el presente Reglamento y demás disposiciones legales aplicables.
 
-###### ARTICULO 10.
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2014)</small>
 
-El Director, para el mejor desarrollo de sus funciones podrá delegar facultades en funcionarios subalternos, sin perder por ello, la posibilidad de su ejercicio directo, siendo facultades no delegables las previstas por las fracciones I, II, III, IV, V, VI, y VII del Artículo 10° del Decreto y las previstas por el artículo 9, fracciones IV, VII, IX, X, XI, XII, XIII, XIV, XV y XVI del presente Reglamento.
+XIX. Certificar los documentos que obren en los archivos de EL COLEGIO, cuando así se requieran.
+
+> <small>(REFORMADO, P. O. 8 DE FEBRERO DE 2014)</small>
+
+###### ARTÍCULO 10.
+
+El Director, para el mejor desarrollo de sus funciones podrá delegar facultades en funcionarios subalternos, sin perder por ello, la posibilidad de su ejercicio directo, siendo facultades no delegables las previstas por las fracciones I, II, III, IV, V, VI y VII de (sic) artículo 10° del Decreto y las previstas por el artículo 9° fracciones IV, VII, IX, X, XI, XII, XIII, XIV, XV, XVI y XIX del presente Reglamento.
 
 ### CAPITULO III. DEL PATRONATO
 
@@ -558,3 +564,9 @@ LA SECRETARIA DE EDUCACIÓN DE GOBIERNO DEL ESTADO
 LIC. ANA MARÍA ACEVES ESTRADA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE FEBRERO DE 2014.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
