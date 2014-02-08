@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2013-12-26"
+last_updated: "2014-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -9813,9 +9813,11 @@ Si el bien enajenado pereciere o mudare de naturaleza a consecuencia de los vici
 
 Si el enajenante no conoció los vicios, solamente deberá restituir el precio y abonar los gastos del contrato, en el caso de que el adquirente los haya pagado.
 
-###### Art. 1653.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2014)</small>
 
-Las acciones que nacen de lo dispuesto en los artículos del 1646 al 1652, se extinguen a los seis meses, contados desde la entrega del bien enajenado, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 1641 y 1642.
+###### Artículo 1653.
+
+Las acciones que nacen de lo dispuesto en los artículos 1646 al 1652, se extinguen, a los doce meses tratándose de bienes inmuebles, y a los seis meses tratándose de bienes muebles, contados a partir de la entrega del bien enajenado, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 1641 y 1642.
 
 ###### Art. 1654.
 
@@ -18234,3 +18236,7 @@ OCTAVO. Cuando otros ordenamientos legales del Estado de Jalisco se refieran a l
 NOVENO. La vigencia de los certificados electrónicos a que se refiere el artículo 13 fracción VI, será de dos años hasta en tanto se cuente con las condiciones humanas, financieras y tecnológicas para que su vigencia pueda ser de cuatro años. Cuando se cuente con tales condiciones, el titular del Poder Ejecutivo deberá expedir un acuerdo que se publicará en el Periódico Oficial "El Estado de Jalisco".
 
 DÉCIMO. Los certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.
+
+P.O. 8 DE FEBRERO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
