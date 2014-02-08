@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2013-06-06"
+last_updated: "2014-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -487,9 +487,13 @@ La misma obligación tienen los responsables de los reclusorios preventivos, ins
 
 En caso de que posteriormente los padres aparecieran, se levantará un acta de reconocimiento siguiendo todos los requisitos que marca la ley.
 
-En caso de que el Ministerio Público o el Agente Social no cumplan con las obligaciones que les impone el presente artículo, se harán acreedores a las sanciones administrativas que correspondan.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2014)</small>
 
-En todos los casos deberá existir constancia de la búsqueda de los padres por parte del Ministerio Público o de los sistemas de desarrollo integral para la familia, ello a fin de agotar la posibilidad de registrar al menor con los apellidos de sus padres.
+En caso de que el Ministerio Público, el Agente Social o el Oficial del Registro Civil no cumplan con las obligaciones que les impone el presente artículo, se harán acreedores a las sanciones administrativas que correspondan.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2014)</small>
+
+En todos los casos deberá existir constancia de la búsqueda de los padres por parte del Ministerio Público o de los Sistemas de Desarrollo Integral para la Familia, ello a fin de agotar la posibilidad de registrar al menor con los apellidos de sus padres, así como de reintegrarlo a su seno familiar.
 
 ###### Artículo 50.
 
@@ -1446,5 +1450,9 @@ P.O. 15 DE DICIEMBRE DE 2011.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 6 DE JUNIO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE FEBRERO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
