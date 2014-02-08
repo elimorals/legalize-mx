@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2013-07-25"
+last_updated: "2014-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -547,9 +547,17 @@ II. Establecer y operar programas complementarios a la educación, dirigidos a l
 
 III. Apoyar a las familias de personas con discapacidad con programas de orientación y capacitación que posibiliten que en su seno generen las condiciones para una plena integración social;
 
-IV. Apoyar, asesorar y capacitar a los Sistemas DIF Municipales para que establezcan programas de atención a personas con discapacidad y de orientación a sus familias; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2014)</small>
 
-V. Procurar que en la operación de sus programas asistenciales dirigidos a grupos vulnerables, se consideren apoyos institucionales y atención a personas con discapacidad, especialmente a aquellas que carecen de recursos.
+IV. Apoyar, asesorar y capacitar a los Sistemas DIF Municipales para que establezcan programas de atención a personas con discapacidad y de orientación a sus familias;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2014)</small>
+
+V. Procurar que en la operación de sus programas asistenciales dirigidos a grupos vulnerables, se consideren apoyos institucionales y atención a personas con discapacidad, especialmente a aquellas que carecen de recursos; y
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2014)</small>
+
+VI. Con base en el padrón que realice el Consejo, el DIF Estatal expedirá la identificación que acredite la discapacidad de la persona a quien se otorgue. Dicha identificación tendrá validez en todo el territorio del Estado.
 
 ###### Artículo 33.
 
@@ -924,5 +932,9 @@ DECRETO NÚMERO 24428/LX/13, POR EL QUE SE REFORMA EL ARTÍCULO 2.° DE LA LEY P
 P.O. 25 DE JULIO DE 2013.
 
 DECRETO NÚMERO 24429/LX/13, POR EL QUE SE REFORMA EL ARTÍCULO 7.° DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE FEBRERO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
