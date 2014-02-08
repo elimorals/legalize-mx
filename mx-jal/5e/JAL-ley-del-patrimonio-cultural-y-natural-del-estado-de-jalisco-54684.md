@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-patrimonio-cultural-y-natural-del-estado-de-jalisco-546
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-13"
-last_updated: "2009-12-31"
+last_updated: "2014-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 13 de febrero de 2007.
 
@@ -105,7 +105,9 @@ d) Idiomas: Español, Náhuatl, Wizárika y demás lenguas nativas;
 
 e) Bienes tradicionales: Los bienes muebles e inmuebles, que sean representativos de la creatividad o valores de un grupo cultural determinado;
 
-f) Festividades populares: El conjunto de actividades recreativas y conmemorativas de originalidad cultural o alto contenido simbólico, que contengan valores de representatividad de los principios tradicionales de la sociedad o un grupo;
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2014)</small>
+
+f) Festividades populares: conjunto de actividades de originalidad cultural, religioso o de alto contenido simbólico que contengan valores de representatividad de los principios tradicionales de la sociedad o un grupo, tales como posadas, fiestas patronales y día de muertos;
 
 g) Sabiduría popular: Los refranes, leyendas, cuentos; historias y las tradiciones orales afines a ésta; y
 
@@ -319,7 +321,7 @@ Para los efectos de la presente Ley, la Procuraduría de Desarrollo Urbano, tend
 
 Gestionar ante la entidad pública estatal o municipal competente y en su caso, ante los tribunales administrativos, la nulidad de licencias o permisos relativos a intervenciones de bienes inmuebles integrantes del patrimonio cultural o natural, cuando se contravenga lo establecido por la presente Ley o demás normatividad aplicable, particularmente la preservación del entorno de los bienes declarados patrimonio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2008)</small>
 
 ###### Artículo 17.
 
@@ -1101,7 +1103,7 @@ El Secretario General de Gobierno
 
 C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE JUNIO DE 2008.
 
@@ -1110,3 +1112,7 @@ P.O. 12 DE JUNIO DE 2008.
 P.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE FEBRERO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
