@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2014-01-22"
+last_updated: "2014-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE FEBRERO DE 2014 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE FEBRERO DE 2014.</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -497,9 +497,13 @@ a) La legislación en materia de educación;
 
 b) Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones educativas;
 
-c) La denominación de años o días festivos oficiales;
+> <small>(F. DE E., P.O. 10 DE FEBRERO DE 2014)</small>
 
-d) El otorgamiento de reconocimientos y estímulos cívicos; y
+c) La denominación de años o días festivos oficiales en materia educativa;
+
+> <small>(F. DE E., P.O. 10 DE FEBRERO DE 2014)</small>
+
+d) El otorgamiento de reconocimientos y estímulos en materia educativa; y
 
 e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
@@ -765,7 +769,9 @@ a) La legislación en materia de cultura;
 
 b) Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones culturales;
 
-c) La denominación de años o días festivos oficiales;
+> <small>(F. DE E., P.O. 10 DE FEBRERO DE 2014)</small>
+
+c) La denominación de años o días festivos oficiales en materia cultural;
 
 d) El otorgamiento de reconocimientos y estímulos cívicos; y
 
