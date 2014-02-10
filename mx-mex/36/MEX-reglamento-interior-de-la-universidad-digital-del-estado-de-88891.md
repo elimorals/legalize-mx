@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-digital-del-estado-de-888
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-07"
-last_updated: "2012-08-07"
+last_updated: "2014-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 7 de agosto de 2012.
 
@@ -133,25 +133,35 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, el Rec
 
 I. Subdirección Académica.
 
-II. Subdirección de Tecnologías de la Información.
+> <small>(REFORMADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+II. Subdirección de Tecnologías de la Información y Comunicación.
 
 III. Subdirección de Administración y Finanzas.
 
-IV. Unidad Jurídica.
+> <small>(REFORMADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+IV. Abogado General.
 
 V. Contraloría Interna.
 
 La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DE LOS SUBDIRECTORES Y JEFE DE UNIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE FEBRERO DE 2014)</small>
+
+### CAPÍTULO III. DE LAS ATRIBUCIONES DE LOS SUBDIRECTORES Y ABOGADO GENERAL
+
+> <small>(REFORMADO, G.G. 10 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 12.
 
-Al frente de cada Subdirección y de la Unidad habrá un Subdirector y un Jefe de Unidad, respectivamente, quienes se auxiliarán de los servidores públicos que las necesidades del servicio requieran.
+Al frente de cada Subdirección y de la oficina del Abogado General habrá un Subdirector y un Abogado General, respectivamente, quienes se auxiliarán de los servidores públicos que las necesidades del servicio requieran.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 13.
 
-Corresponde a los Subdirectores y al Jefe de Unidad:
+Corresponde a los Subdirectores y al Abogado General:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar la ejecución de las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -181,9 +191,17 @@ XIII. Desempeñar las comisiones que les encomiende el Rector e informarle sobre
 
 XIV. Expedir constancias o copias certificadas de los documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia.
 
-XV. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende el Rector.
+> <small>(REFORMADA, G.G. 10 DE FEBRERO DE 2014)</small>
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LAS SUBDIRECCIONES, UNIDAD JURÍDICA Y CONTRALORÍA INTERNA
+XV. Cumplir con las disposiciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+XVI. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende el Rector.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE FEBRERO DE 2014)</small>
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LAS SUBDIRECCIONES, ABOGADO GENERAL Y CONTRALORÍA INTERNA
 
 ###### Artículo 14.
 
@@ -227,33 +245,55 @@ XVIII. Acreditar o certificar los estudios totales o parciales que ofrezca la Un
 
 XIX. Aplicar las normas y procedimientos para el egreso de los alumnos de la Universidad
 
-XX. Las demás que les confieran otras disposiciones legales y aquellas que le encomiende el Rector.
+> <small>(REFORMADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+XX. Proponer y ejecutar programas de inducción, capacitación y desarrollo del personal docente de la Universidad.
 
 XXI. Diseñar el programa anual de capacitación para la profesionalización del personal docente de la Universidad.
 
 XXII. Coordinar los programas académicos alternos que se establezcan para la educación media superior y superior, en las modalidades no escolarizada y mixta, abierta y a distancia.
 
+> <small>(ADICIONADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+XXIII. Realizar el seguimiento y evaluación de los procesos de desarrollo académico de la Universidad y mantener informado al Rector sobre los resultados obtenidos.
+
+> <small>(ADICIONADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+XXIV. Las demás que les confieran otras disposiciones legales y aquellas que le encomiende el Rector.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 15.
 
-Corresponde a la Subdirección de Tecnologías de la Información:
+Corresponde a la Subdirección de Tecnologías de la Información y Comunicación:
 
 I. Coordinar y evaluar, con la participación que corresponda a los responsables de los Centros de Atención y Evaluación y a las Unidades Académicas de Educación Media Superior y Superior a Distancia, los programas de desarrollo informático que utilicen para el cumplimiento de sus funciones.
 
-II. Planear y validar la adquisición y mantenimiento de los bienes informáticos que requiera la Universidad, en coordinación con las áreas normativas en la materia.
+> <small>(REFORMADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+II. Planear y validar la adquisición y mantenimiento de los bienes informáticos y de comunicación que requiera la Universidad, en coordinación con las áreas normativas en la materia.
 
 III. Difundir entre las unidades administrativas de la Universidad, las normas, políticas, criterios y proceso que en materia de informática establezca la autoridad en la materia.
 
-IV. Ofrecer soporte y asesoría técnica en materia de tecnologías de la información a las unidades administrativas de la Universidad, y formular las recomendaciones necesarias para mejorar el funcionamiento de los sistemas y equipo informático.
+> <small>(REFORMADA, G.G. 10 DE FEBRERO DE 2014)</small>
 
-V. Integrar y mantener actualizado el inventario de los bienes tecnológicos de la Universidad, en coordinación de las unidades administrativas del Organismo.
+IV. Ofrecer soporte y asesoría técnica en materia de tecnologías de la información y comunicación a las unidades administrativas de la Universidad, y formular las recomendaciones necesarias para mejorar el funcionamiento de los sistemas y equipo informático.
+
+> <small>(REFORMADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+V. Integrar y mantener actualizado el inventario de los bienes tecnológicos y de comunicación de la Universidad, en coordinación de las unidades administrativas del Organismo.
 
 VI. Promover la capacitación y profesionalización de los servidores públicos responsables de la operación de los sistemas y equipo informático de la Universidad, a fin de mejorar la utilización.
 
-VII. Diseñar, proponer e implementar un modelo tecnológico para la Universidad, con base en las necesidades de educación a distancia en las regiones de la entidad y en términos de la normatividad federal y estatal en la materia.
+> <small>(REFORMADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+VII. Diseñar, proponer e implementar un modelo tecnológico y de comunicación para la Universidad, con base en las necesidades de educación a distancia en las regiones de la entidad y en términos de la normatividad federal y estatal en la materia.
 
 VIII. Promover el uso eficiente de las redes convergentes de voz, datos y video, así como fomentar su integración y mantener su disponibilidad.
 
-IX. Evaluar los programas y proyectos de tecnologías de la información de la Universidad e informar lo conducente al Rector.
+> <small>(REFORMADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+IX. Evaluar los programas y proyectos de tecnologías de la información y comunicación de la Universidad e informar lo conducente al Rector.
 
 X. Administrar las tecnologías de información y telecomunicaciones de las unidades administrativas de la Universidad.
 
@@ -301,15 +341,19 @@ XVIII. Coordinar las acciones de protección civil de la Universidad, con base e
 
 XIX. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Rector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 17.
 
-Corresponde a la Unidad Jurídica:
+Corresponde al Abogado General:
 
 I. Representar a la Universidad en los asuntos judiciales en los que sea parte, previo mandato que al efecto le otorgue el Rector.
 
 II. Atender y proponer, en el ámbito de su competencia, las demandas, amparos, juicios, citatorios y demás requerimientos de autoridades.
 
-III. Vigilar la legalidad de los actos jurídicos, administrativos, fiscales y catastrales de los inmuebles de los planteles educativos y Centros de Educación Media Superior y Superior a Distancia de la Universidad.
+> <small>(REFORMADA, G.G. 10 DE FEBRERO DE 2014)</small>
+
+III. Vigilar la legalidad de los actos jurídicos, administrativos, fiscales y catastrales de los inmuebles de los planteles educativos y Centros de Atención y Evaluación de Educación Media Superior y Superior a Distancia de la Universidad.
 
 IV. Asesorar jurídicamente al Rector en los asuntos competencia de la Universidad.
 
@@ -355,9 +399,11 @@ X. Las demás que le señalen otros ordenamientos legales y aquellas que le enco
 
 El Rector será suplido en sus ausencias temporales hasta por 15 días hábiles, por el Subdirector que aquél designe. En las mayores de 15 días hábiles, por quien designe el Consejo Directivo.
 
+> <small>(REFORMADO, G.G. 10 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 20.
 
-Los Subdirectores y el Jefe de Unidad serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por el servidor público que designe el Rector.
+Los Subdirectores, Abogado General y jefes de departamento serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por el servidor público que designe el Rector.
 
 ## TRANSITORIOS
 
@@ -376,3 +422,11 @@ RECTOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO
 Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 10 DE FEBRERO DE 2014.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
