@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-vivienda-80845"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-04-15"
-last_updated: "2011-04-15"
+last_updated: "2014-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80845&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,87 +19,85 @@ issue_date: "2010-08-18"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL DE VIVIENDA
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL DE VIVIENDA
+ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE VIVIENDA
 
 TEXTO ORIGINAL.
 
-Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de abril de 2011.
+Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de febrero de 2014.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Comisión Nacional de Vivienda.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Comisión Nacional de Vivienda.- Dirección General.
 
-ACUERDO DE LA H. JUNTA DE GOBIERNO DE LA COMISION NACIONAL DE VIVIENDA.- DIRECCION GENERAL
+ACUERDO DE LA H. JUNTA DE GOBIERNO DE LA COMISIÓN NACIONAL DE VIVIENDA.
 
-Con Fundamento en lo dispuesto por la fracción I del Artículo 23 de la Ley de Vivienda, publicada en el Diario Oficial de la Federación de 27 de junio de 2006, y el antepenúltimo párrafo del artículo 15 de la Ley Federal de Entidades Paraestatales, esta Junta de Gobierno, en su Décima Sexta Sesión celebrada el día 18 de agosto de 2010, mediante Acuerdo No. JG-16-180810-174 se aprueba el siguiente:
+Con fundamento en los artículos 23, fracción IX, de la Ley de Vivienda y; 58, fracción VIII, de la Ley Federal de las Entidades Paraestatales, los miembros de la Junta de Gobierno, en su Trigésima Sesión Ordinaria, celebrada el día 14 de enero de 2014, mediante Acuerdo JG-30-140114-370, aprueban la modificación a las denominaciones de las subdirecciones y coordinaciones generales de la Comisión Nacional de Vivienda, así como a las funciones complementarias, emitiendo el siguiente:
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL DE VIVIENDA
+ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE VIVIENDA
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-La Comisión Nacional de Vivienda, es un organismo descentralizado, de utilidad pública e interés social, no sectorizado, con personalidad jurídica y patrimonio propio, que tiene por objeto el fomento, la coordinación, la promoción y la instrumentación de la política y el programa nacional de vivienda del Gobierno Federal de conformidad con la Ley de Vivienda, Ley General de Asentamientos Humanos y demás disposiciones aplicables.
+La Comisión Nacional de Vivienda, es un organismo descentralizado, de utilidad pública e interés social, no sectorizado, agrupado al sector coordinado por la Secretaría de Desarrollo Agrario, Territorial y Urbano, con personalidad jurídica y patrimonio propio, que tiene por objeto el fomento, la coordinación, la promoción y la instrumentación de la política y el Programa Nacional de Vivienda del Gobierno Federal de conformidad con la Ley de Vivienda, la Ley General de Asentamientos Humanos y demás disposiciones aplicables.
 
 ###### Artículo 2.
 
-El presente Estatuto Orgánico tiene por objeto establecer las bases de organización, las facultades y funciones que corresponden a las distintas unidades administrativas que integran la Comisión Nacional de Vivienda.
+El presente Estatuto Orgánico tiene por objeto establecer las bases de organización, asignar las atribuciones y funciones que corresponden a las distintas unidades administrativas que integran la Comisión Nacional de Vivienda.
 
 ###### Artículo 3.
 
-A la Comisión Nacional de Vivienda le corresponde el ejercicio de las atribuciones establecidas en el Artículo 19 de la Ley de Vivienda
+A la Comisión Nacional de Vivienda le corresponde el ejercicio de las facultades y atribuciones establecidas en el Artículo 19 y demás relativos de la Ley de Vivienda.
 
 ###### Artículo 4.
 
 Para efectos de este Estatuto, se entenderá por:
 
-I. Comisión, la Comisión Nacional de Vivienda;
+I. Comisión.- La Comisión Nacional de Vivienda;
 
-II. Comisión Intersecretarial, la Comisión Intersecretarial de Vivienda prevista en el Capítulo V del Título Tercero de la Ley;
+II. Comisión Intersecretarial.- La Comisión Intersecretarial de Vivienda prevista en el Capítulo V del Título Tercero de la Ley;
 
-III. Consejo, el Consejo Nacional de Vivienda;
+III. Consejo.- Al Consejo Nacional de Vivienda;
 
-IV. Junta de Gobierno, a la H. Junta de Gobierno de la Comisión;
+IV. Junta de Gobierno.- A la H. Junta de Gobierno de la Comisión;
 
-V. Ley, la Ley de Vivienda; y
+V. Ley.- A la Ley de Vivienda;
 
-VI. Organismos Nacionales de Vivienda, al Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Fideicomiso Fondo Nacional de Habitaciones Populares, Instituto del Fondo Nacional de la Vivienda para los Trabajadores y Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito.
+VI. Organismos Nacionales de Vivienda.- Al Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Fideicomiso Fondo Nacional de Habitaciones Populares, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo; y
+
+VII. Director General.- Al Director General de la Comisión.
 
 ###### Artículo 5.
 
-Para su operación, administración y funcionamiento, la Comisión contará con una Junta de Gobierno y un Director General.
-
-### CAPITULO SEGUNDO. DE LA JUNTA DE GOBIERNO
-
-###### Artículo 6.
-
-Para el ejercicio de sus funciones, la Comisión contará con las unidades administrativas siguientes:
+Para su operación, administración y funcionamiento, así como para el ejercicio de sus funciones, la Comisión contará con una Junta de Gobierno y con las siguientes unidades administrativas:
 
 I. Dirección General;
 
-II. Subdirección General de Esquemas Financieros;
+II. Subdirección General de Fomento de Esquemas de Financiamiento y Soluciones de Vivienda;
 
-III. Subdirección General de Sustentabilidad;
+III. Subdirección General de Análisis de Vivienda, Prospectiva y Sustentabilidad;
 
-IV. Subdirección General de Desarrollo Institucional;
+IV. Subdirección General de Subsidios y Desarrollo Institucional;
 
-V. Subdirección General de Articulación Sectorial y Secretariado Técnico;
+V. Subdirección General de Asuntos Jurídicos, Legislativos y Secretariado Técnico;
 
-VI. Coordinación General de Operación de Políticas de Apoyo para Programas;
+VI. Coordinación General de Análisis de Vivienda y Prospectiva;
 
-VII. Coordinación General de Administración y Finanzas;
+VII. Coordinación General de Subsidios;
 
 VIII. Coordinación General de Asuntos Jurídicos;
 
-IX. Coordinación General de Prospectiva; y
+IX. Coordinación General de Administración; y
 
-X. Organo Interno de Control.
+X. Órgano Interno de Control;
 
 Las unidades administrativas de la Comisión, para el ejercicio de sus atribuciones, se auxiliarán por los directores de área, subdirectores de área, jefes de departamento, personal de enlace, y demás personal técnico y administrativo que se requiera por las necesidades del servicio.
 
+### CAPÍTULO SEGUNDO. DE LA JUNTA DE GOBIERNO
+
+###### Artículo 6.
+
+La Junta de Gobierno estará integrada conforme a lo que establece el Artículo 22 de la Ley.
+
 ###### Artículo 7.
-
-La Comisión contará con una Junta de Gobierno que estará integrada conforme a lo establecido en el Artículo 22 de la Ley.
-
-###### Artículo 8.
 
 La Junta de Gobierno además de las atribuciones indelegables que le señala la Ley, tendrá las siguientes:
 
@@ -107,57 +105,65 @@ I. Aprobar, cuando corresponda, las reglas de operación para la ejecución de l
 
 II. Aprobar, a propuesta del Director General, las normas y lineamientos para la realización de las evaluaciones señaladas en el Artículo 12 de la Ley.
 
+###### Artículo 8.
+
+La junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año, conforme al calendario que al efecto apruebe en la primera sesión ordinaria de cada ejercicio, y las extraordinarias que proponga el Director General.
+
+Las sesiones de la Junta serán válidas con la asistencia de la mitad más uno de sus miembros, serán presididas por el titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano y en su ausencia, por el suplente que hubiere designado, y sus decisiones se tomarán por mayoría de votos de los miembros presentes.
+
+En caso de ausencia del presidente en turno y de su suplente, se determinará por mayoría de los presentes quién preside la sesión.
+
 ###### Artículo 9.
 
-La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año, conforme al calendario que al efecto apruebe en la primera sesión ordinaria de cada ejercicio, y las extraordinarias que proponga el Director General.
-
-Las sesiones de la Junta de Gobierno serán presididas por el Titular de la Secretaría de Desarrollo Social, y en su ausencia, por su suplente.
-
-En caso de ausencia del presidente en turno y su suplente, se determinará por la mayoría de los presentes, quien preside la sesión.
-
-La Junta de Gobierno sesionará válidamente con la asistencia de la mitad más uno de sus miembros. Sus decisiones se tomarán por mayoría de votos de los miembros presentes.
-
-### CAPITULO TERCERO. DEL DIRECTOR GENERAL
-
-###### Artículo 10.
-
-El Director General de la Comisión, en su carácter de Secretario Técnico de la Junta de Gobierno tendrá las atribuciones siguientes:
+El Secretario Técnico de la Junta de Gobierno tendrá las atribuciones siguientes:
 
 I. Convocar a las sesiones de la Junta de Gobierno, acompañando el orden del día y la información y documentación correspondientes;
 
-II. Pasar lista de asistencia e informar al Presidente si se cuenta con el quórum necesario para sesionar válidamente;
+II. Pasar lista de asistencia e informar al Presidente si se cuenta con el quórum requerido para sesionar válidamente;
 
 III. Llevar un registro y control de las actas, acuerdos y demás documentación relativa al funcionamiento de la Junta de Gobierno;
 
-IV. Verificar el Seguimiento de los acuerdos y resoluciones de la Junta de Gobierno;
+IV. Verificar el seguimiento de los acuerdos y resoluciones de la Junta de Gobierno;
 
-V. Suscribir las actas de las sesiones y recabar las firmas del presidente, del comisario público y de los demás integrantes de la Junta de Gobierno;
+V. Suscribir las actas de las sesiones y recabar la firma del Presidente de la Junta de Gobierno;
 
 VI. Recoger las votaciones de los miembros de la Junta de Gobierno y declarar su resultado;
 
 VII. Coordinar las actividades de los comités que constituya la Junta de Gobierno;
 
-VIII. Expedir constancias de los acuerdos que emita la Junta de Gobierno; y
+VIII. Expedir certificaciones de los acuerdos que emita la Junta de Gobierno; y
 
 IX. Las demás que determine la Junta de Gobierno.
 
-Para el desempeño de sus funciones, el Secretario Técnico será auxiliado por el titular de la Subdirección General de Articulación Sectorial y Secretariado Técnico.
+Para el mejor desempeño de sus funciones, el Secretario Técnico de la Junta de Gobierno será auxiliado por el titular de la Subdirección General de Asuntos Jurídicos, Legislativos y Secretariado Técnico.
 
-###### Artículo 11.
+### CAPÍTULO TERCERO. DEL DIRECTOR GENERAL
+
+###### Artículo 10.
 
 El Director General de la Comisión será designado y removido por el Presidente de la República y deberá cumplir con los requisitos señalados en el artículo 21 de la Ley Federal de las Entidades Paraestatales.
 
-El Director General tendrá la representación legal de la Comisión, y ejercerá las facultades y obligaciones establecidas en el Artículo 25 de la Ley.
+El Director General tendrá la representación legal de la Comisión, y ejercerá las facultades, atribuciones y obligaciones establecidas en el Artículo 25 de la Ley, así como 22 y 59 de la Ley Federal de las Entidades Paraestatales.
 
-El Director General fungirá como Secretario Técnico ante la Junta de Gobierno; como Secretario Ejecutivo ante la Comisión Intersecretarial; y, como Coordinador General ante el Consejo Nacional de Vivienda.
+En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Comisión. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa, mas no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos, revocarlos y otorgar facultades de sustitución a los apoderados, debiendo obtener autorización expresa de la Junta de Gobierno cuando se trate de otorgar poderes generales para actos de dominio.
 
-Asimismo, le corresponde designar a los representantes de la Comisión en las comisiones, organizaciones, consejos, órganos de gobierno, instituciones y entidades en los que participe, y establecer los lineamientos conforme a los cuales deban actuar.
+El Director General fungirá como Secretario Técnico ante la Junta de Gobierno; como Secretario Ejecutivo ante la Comisión Intersecretarial y como Coordinador General ante el Consejo Nacional de Vivienda.
+
+Asimismo, al Director General le corresponde designar a los representantes de la Comisión en las comisiones, organizaciones, consejos, órganos de gobierno, instituciones y entidades en los que participe y establecer los lineamientos conforme a los cuales deban actuar.
+
+###### Artículo 11.
+
+Corresponde al Director General el ejercicio de las siguientes atribuciones:
+
+I. Planear, organizar, dirigir y controlar los recursos humanos, materiales y financieros de la Comisión;
+
+II. Coordinar la estrategia y el programa de comunicación social de la Comisión.
 
 ###### Artículo 12.
 
-Para la mejor distribución y desarrollo del trabajo, el Director General contará con una oficina de apoyo.
+El Director General, para el despacho de los asuntos de su competencia, contará con un área administrativa de apoyo técnico y coordinación de actividades, la cual se encargará del desahogo y seguimiento de los acuerdos del Director General con las Subdirecciones Generales y Coordinaciones Generales de la Comisión; será responsable de la comunicación institucional, de la logística de las giras y representaciones del Director General y de las demás funciones que le sean delegadas por éste.
 
-### CAPITULO CUARTO. DE LAS SUBDIRECCIONES Y COORDINACIONES GENERALES
+### CAPÍTULO CUARTO. DE LAS SUBDIRECCIONES Y COORDINACIONES GENERALES
 
 ###### Artículo 13.
 
@@ -167,7 +173,7 @@ I. Planear, programar, organizar, dirigir, dar seguimiento y evaluar el desarrol
 
 II. Proponer las políticas, lineamientos y criterios, así como prestar el apoyo técnico y capacitación que se requieran para la formulación, instrumentación, ejecución, seguimiento, supervisión, evaluación, revisión y actualización de los programas de la competencia de la Comisión, de los programas y proyectos estratégicos que de ellos deriven y de los correspondientes programas operativos anuales;
 
-III. Instrumentar, en el ámbito de su competencia, los actos que correspondan para la ejecución de las resoluciones dictadas por el órgano interno de control, conforme a la legislación aplicable vigente;
+III. Instrumentar, en el ámbito de su competencia, los actos que correspondan para la ejecución de las resoluciones dictadas por el Órgano Interno de Control, conforme a la legislación aplicable vigente;
 
 IV. Acordar con el Director General el despacho y resolución de los asuntos cuya tramitación sea de su competencia;
 
@@ -181,13 +187,13 @@ VIII. Promover la coordinación, concertación y colaboración para el desarroll
 
 IX. Coordinar, en el ámbito de su competencia, los esfuerzos y recursos de los sectores público, social y privado en la instrumentación de políticas, estrategias y acciones previstas para el desarrollo de la vivienda;
 
-X. Realizar y promover investigaciones y estudios en el ámbito de su competencia y difundir sus resultados;
+X. Realizar y promover investigaciones y estudios en el ámbito de su competencia y difundir oportunamente sus resultados;
 
 XI. Promover el establecimiento de vínculos institucionales, la celebración de convenios de asistencia técnica y el intercambio de información con gobiernos extranjeros y organismos nacionales e internacionales, en coordinación con las autoridades competentes;
 
 XII. Proporcionar, de acuerdo a las políticas establecidas por el Director General, la información, asesoría y cooperación técnica que le requieran otras unidades administrativas de la Comisión, así como otras dependencias y entidades de los tres órdenes de gobierno;
 
-XIII. Proponer al Director General los proyectos de disposiciones jurídicas, en los asuntos cuya tramitación sea de su competencia, previo dictamen de la Coordinación General de Asuntos Jurídicos, de conformidad con las disposiciones aplicables;
+XIII. Proponer al Director General los proyectos de disposiciones jurídicas, en los asuntos cuya tramitación sea de su competencia, previo dictamen de la Subdirección General de Asuntos Jurídicos, Legislativos y Secretariado Técnico de conformidad con las disposiciones aplicables;
 
 XIV. Participar en la formulación del anteproyecto del programa-presupuesto anual de egresos de la Comisión y verificar su correcta y oportuna ejecución;
 
@@ -199,7 +205,7 @@ XVII. Proponer al Director General la creación, modificación, reorganización,
 
 XVIII. Intervenir en el reclutamiento, selección, contratación, desarrollo, capacitación, promoción y adscripción del personal a su cargo, solicitar las licencias de conformidad con las necesidades del servicio y participar, directamente o a través de un representante, en los casos de sanción, remoción o cese, de acuerdo con las disposiciones jurídicas aplicables;
 
-XIX. Supervisar que los servidores públicos subalternos desempeñen sus labores con eficiencia y eficacia, en la forma, tiempo y lugar indicados, sujetándose a las disposiciones relativas al registro, control de asistencia, puntualidad y permanencia en el trabajo y demás disposiciones legales y reglamentarias;
+XIX. Supervisar que los servidores públicos subalternos desempeñen sus labores con eficiencia y eficacia, en la forma, tiempo y lugar indicados, sujetándose a las disposiciones relativas al registro, control de asistencia, puntualidad y permanencia en el trabajo y demás disposiciones legales y reglamentarias aplicables;
 
 XX. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación o le correspondan por suplencia;
 
@@ -211,205 +217,237 @@ XXIII. Aplicar los ordenamientos que integran el marco jurídico de la Comisión
 
 XXIV. Expedir copias certificadas de los documentos que obren en los archivos de la unidad administrativa a su cargo;
 
-XXV. Celebrar actos jurídicos, convenios y contratos que sean necesarios para el adecuado ejercicio de las funciones de la Comisión Nacional de Vivienda y que se encuentren en el ámbito de sus respectivas atribuciones; y
+XXV. Celebrar actos jurídicos, convenios y contratos que sean necesarios para el adecuado ejercicio de las funciones de la Comisión y que se encuentren en el ámbito de sus respectivas atribuciones; y
 
 XXVI. Las demás que le señalen otras disposiciones legales y administrativas, así como las que le confiera el Director General dentro de la esfera de sus facultades y las disposiciones jurídicas aplicables.
 
 ###### Artículo 14.
 
-Corresponde a la Subdirección General de Esquemas Financieros el ejercicio de las siguientes atribuciones:
+Corresponde a la Subdirección General de Fomento de Esquemas de Financiamiento y Soluciones de Vivienda el ejercicio de las siguientes atribuciones:
 
-I. Coordinar de manera conjunta con las dependencias, entidades y organismos de la Administración Pública Federal las reglas de operación de sus programas de vivienda, previendo que contemplen mecanismos de complementariedad a las aportaciones de los gobiernos estatales y municipales;
+I. Desarrollar y promover esquemas de subsidio, financiamiento, garantías, entre otros, que promuevan el acceso de la población a soluciones habitacionales;
 
-II. Participar en la instrumentación y fomento del sistema de estímulos y apoyos a los gobiernos de las entidades federativas y municipios para los efectos del Artículo 50 de la Ley;
+II. Coordinar las acciones de los desarrolladores de soluciones habitacionales, así como diseñar e impulsar esquemas para incrementar la oferta de vivienda;
 
-III. Coordinar con las autoridades de las entidades federativas y los municipios, con los sectores social y privado, y con las instancias encargadas de atender y apoyar el desarrollo de los pueblos y comunidades indígenas, acciones que faciliten el acceso a los recursos y al financiamiento público y privado para la construcción y mejoramiento de vivienda, mediante la corresponsabilidad de los participantes;
+III. Desarrollar una relación institucional con organismos internacionales, principalmente con los multilaterales y otras comisiones de vivienda para acceder a las mejores prácticas internacionales en materia de vivienda a través de donaciones, estudios, financiamientos, entre otros;
 
-IV. Formular esquemas y programas financieros para los distintos tipos y modalidades de vivienda;
+IV. Desarrollar, ejecutar y promover esquemas, mecanismos y programas de financiamiento, subsidio y ahorro previo para la vivienda, en sus diferentes tipos y modalidades, priorizando la atención a la población en situación de pobreza, coordinando su ejecución con las instancias correspondientes;
 
-V. Impulsar y desarrollar programas de financiamiento de vivienda que se adapten a las diferentes regiones y a los distintos grupos de ingreso y necesidades de la población, preferentemente en beneficio de los grupos vulnerables;
+V. Promover y fomentar las acciones que faciliten el acceso a los recursos y al financiamiento público y privado para la construcción y mejoramiento de vivienda;
 
-VI. Formular mecanismos, esquemas financieros y programas de crédito, ahorro previo y subsidio directo a la vivienda, en sus diferentes tipos y modalidades, orientados a responder las necesidades de vivienda de los distintos sectores de la población, priorizando la atención a la población en situación de pobreza;
+VI. Promover y apoyar la constitución y operación de organismos que proporcionen asesoría y acompañamiento a la población de bajos ingresos para desarrollar de mejor manera sus procesos productivos y de gestión del hábitat;
 
-VII. Diseñar mecanismos que favorezcan el desarrollo de los mercados secundarios y en especial el de arrendamiento de vivienda;
+VII. Proponer los instrumentos y apoyos a la producción social de vivienda, a la vivienda de construcción progresiva y a la vivienda rural;
 
-VIII. Impulsar un proceso integral de modernización y diversificación de las fuentes y mecanismos de financiamiento habitacional público y privado, fomentando medidas como son la contratación de seguros y garantías, destinados a disminuir el riesgo de acuerdo con la normatividad aplicable;
+VIII. Proponer acciones que promuevan el desarrollo del mercado secundario y de arrendamiento de vivienda;
 
-IX. Promover que las reglas de operación de las entidades y dependencias que otorgan créditos hipotecarios, fomenten el acceso de la población a los programas de crédito, ahorro y subsidios, sin que por ello se afecte o deteriore el patrimonio de dichos entes;
+IX. Proponer y coordinar con la banca de desarrollo y Organismos Nacionales de Vivienda acciones que faciliten el desarrollo de soluciones habitacionales, priorizando a la población en situación de pobreza;
 
-X. Diseñar y fomentar dentro de las entidades y dependencias que otorgan créditos hipotecarios, alternativas de financiamiento para la aplicación de programas y acciones que impulsen la movilidad habitacional;
+X. Desarrollar instrumentos programáticos, financieros, administrativos y de fomento para apoyar las acciones de vivienda en sus diversos tipos y modalidades;
 
-XI. Promover la concertación de acciones entre las instancias de la Administración Pública Federal correspondientes y las instituciones del sector financiero, a fin de que se establezcan facilidades y estímulos para implementar programas de ahorro, enganches y financiamiento para la adquisición de vivienda;
+XI. Coordinar la promoción de los alcances para la aplicación del subsidio conforme a las reglas establecidas para los distintos participantes del sector vivienda; y
 
-XII. Formular, coordinar y dar seguimiento a la Política de Subsidios del Gobierno Federal;
-
-XIII. Participar en el diseño de las reglas de distribución de subsidios federales a fin de que se apeguen a la Política de Subsidios del Gobierno Federal;
-
-XIV. Participar en el seguimiento de los avances de los programas crediticios de los organismos nacionales de vivienda correspondientes a cada ejercicio;
-
-XV. Coordinar acciones con las dependencias y entidades de la Administración Pública Federal, en el diseño de los criterios y mecanismos específicos para ampliar y fortalecer la operación y el financiamiento de los programas habitacionales de los organismos nacionales de vivienda;
-
-XVI. Coordinar y dar seguimiento a la participación de los organismos nacionales de vivienda en los programas habitacionales que determine la CONAVI; y
-
-XVII. Coordinar acciones del Gobierno Federal para incentivar la participación e inversión del sector privado en la creación de nuevos instrumentos de financiamiento que faciliten el desarrollo del sector vivienda
-
-La Subdirección General de Esquemas Financieros, para ejercicio de las atribuciones que le corresponden, se auxiliará por la Coordinación General de Operación de Políticas de Apoyo para Programas
+XII. Colaborar en la instrumentación de las nuevas líneas de producto de subsidio de forma conjunta con las áreas internas de CONAVI y organismos nacionales de vivienda.
 
 ###### Artículo 15.
 
-Corresponde a la Subdirección General de Sustentabilidad el ejercicio de las siguientes atribuciones
+Corresponde a la Subdirección General de Análisis de Vivienda, Prospectiva y Sustentabilidad, el ejercicio de las siguientes atribuciones:
 
-I. Promover la formulación y expedición de normas oficiales mexicanas y participar en la elaboración y aprobación de las normas mexicanas relacionadas con la vivienda, de acuerdo con la competencia de la Comisión y con las disposiciones jurídicas aplicables, así como participar en las demás actividades que en materia de normalización le correspondan;
+I. Promover y participar en la expedición o elaboración de normas oficiales mexicanas en materia de vivienda, considerando los procesos de generación, edificación, comercialización y mantenimiento, así como las diversas modalidades productivas, en los términos de la Ley Federal sobre Metrología y Normalización;
 
-II. Opinar respecto de las disposiciones que la Secretaría de Economía deba dictar en términos de lo dispuesto por el artículo 79 de la Ley;
+II. Promover y apoyar la constitución y operación de organismos de certificación y normalización, unidades de verificación y laboratorios de prueba a fin de contar con las normas y mecanismos que coadyuven a la habitabilidad, seguridad y calidad de las viviendas y desarrollos habitacionales, de conformidad con las disposiciones aplicables;
 
-III. Promover la aplicación de especificaciones técnicas en los programas de vivienda, en atención a las personas con discapacidad;
+III. Realizar y promover investigaciones y estudios en materia de vivienda, y difundir públicamente sus resultados, así como coordinar las acciones necesarias para el otorgamiento y entrega del Premio Nacional de Vivienda;
 
-IV. Promover programas de diseño y construcción de vivienda con criterios de sustentabilidad, calidad y accesibilidad, así como la aplicación de materiales locales propios de cada región;
+IV. Realizar las acciones correspondientes a la Comisión a fin de establecer los mecanismos para que la construcción de vivienda respete el entorno ecológico y la preservación y el uso eficiente de los recursos naturales;
 
-V. Impulsar programas de vivienda que contribuyan a la redensificación, rehabilitación y conservación de los centros urbanos de las ciudades del país;
+V. Promover que los proyectos urbanos y arquitectónicos de vivienda, así como sus procesos productivos y la utilización de materiales se adecuen a los rasgos culturales y locales para procurar su identidad y diversidad;
 
-VI. Diseñar y promover normatividad tendiente a mejorar las condiciones de las viviendas que se ubican en áreas susceptibles de ser afectadas por desastres ocasionados por fenómenos naturales;
+VI. Proponer los lineamientos para la normalización de los bienes y servicios que se utilicen en los procesos de producción de vivienda;
 
-VII. Promover el desarrollo de materiales, insumos y procedimientos constructivos normalizados que alienten la industrialización de la construcción de vivienda;
+VII. Proponer las estrategias y líneas de acción para fomentar el desarrollo del mercado secundario y de arrendamiento de vivienda;
 
-VIII. Fomentar el desarrollo, aplicación y difusión de innovaciones tecnológicas que contribuyan a la reducción de tiempos y costos en la construcción de vivienda, mejoren su calidad y su habitabilidad;
+VIII. Formular el modelo normativo de calidad y sustentabilidad de la vivienda;
 
-IX. Promover y apoyar la constitución y operación de organismos de certificación y normalización, unidades de verificación y laboratorios de prueba en materia de vivienda;
+IX. Integrar, administrar y coordinar la operación y funcionamiento del Sistema Nacional de Información e Indicadores de Vivienda;
 
-X. Promover conjuntamente con las autoridades competentes que las acciones de vivienda cuenten con los espacios habitables y de higiene suficientes y con los servicios necesarios así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados;
+X. Diseñar y promover medidas que proporcionen a la población información suficiente para la toma de decisiones sobre las tendencias del desarrollo habitacional sustentable urbano en su localidad y acerca de las opciones que ofrecen los programas institucionales y el mercado, de acuerdo con sus necesidades, posibilidades y preferencias;
 
-XI. Formular y mantener permanentemente actualizado el modelo normativo que promueva que las autoridades competentes expidan, apliquen y mantengan en vigor y permanentemente actualizadas disposiciones legales, normas oficiales mexicanas, códigos de procesos de edificación y reglamentos de construcción que contengan los requisitos técnicos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan responsabilidades generales, así como por cada etapa del proceso de producción de vivienda;
+XI. Realizar diagnósticos de la situación habitacional de todo el país.
 
-XII. Opinar respecto de los lineamientos que en materia de equipamiento, infraestructura y vinculación con el entorno establezca la Secretaría de Desarrollo Social;
+XII. Apoyar al Director General en la formulación de los programas institucionales de corto, mediano y largo plazo;
 
-XIII. Diseñar y desarrollar mecanismos que induzcan la colaboración y coordinación con los gobiernos de las entidades federativas y municipios, así como la participación de propietarios y desarrolladores para generar instrumentos que permitan desarrollar vivienda con calidad en un entorno urbano sustentable;
+XIII. Apoyar al Director General para establecer mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la Comisión y apoyarlo en la presentación de la evaluación de gestión al Órgano de Gobierno;
 
-XIV. Promover una estrategia nacional para la incorporación de suelo, la constitución de reservas territoriales, la utilización y aprovechamiento de terrenos ejidales y comunales, y la identificación de bienes inmuebles de propiedad federal no productivos o en desuso para su puesta a disposición de los gobiernos locales para destinarlos a programas de vivienda;
+XIV. Proponer acciones que faciliten mecanismos de información y elaboración de estudios sobre las necesidades, inventario, modalidades y características de la vivienda;
 
-XV. Promover el desarrollo de acciones que fomenten una oferta competitiva de suelo;
+XV. Integrar, generar y difundir la información para la planeación, instrumentación y seguimiento de la Política Nacional de Vivienda, así como para el fortalecimiento de la oferta articulada de vivienda del país;
 
-XVI. Promover en coordinación con las autoridades federales, estatales y municipales, las adecuaciones necesarias a la normatividad para la constitución, adquisición y desarrollo de reservas territoriales para la vivienda, así como para el aprovechamiento de las áreas intraurbanas;
+XVI. Recopilar de las dependencias y entidades de la Administración Pública Federal la información en aspectos vinculados con la vivienda y el suelo, así como la que permita identificar la evolución y crecimiento del mercado con el objeto de contar con información suficiente para evaluar los efectos de la Política Nacional de Vivienda;
 
-XVII. Fomentar la investigación y desarrollo de proyectos en materia de vivienda para actualizar la normatividad nacional aplicable en la vivienda, incorporar tecnologías constructivas con criterios de sustentabilidad y estandarizar conceptos para la edificación de vivienda, entre otros; y
+XVII. Proponer al Instituto Nacional de Estadística y Geografía los indicadores que en materia de vivienda deberán considerarse en el levantamiento de censos nacionales, encuestas de vivienda, económicas y sociodemográficas, y otros conteos;
 
-XVIII. Fomentar la participación de los sectores público, privado y social en el diseño de esquemas de financiamiento dirigidos a la investigación, transferencia de tecnología, diseño bioclimático e industrialización y comercialización de productos, materiales y sistemas constructivos.
+XVIII. Coordinar con el Instituto Nacional de Estadística y Geografía y los Organismos Nacionales de Vivienda la actualización periódica de la información de la Cuenta Satélite de Vivienda en México, que permita conocer a profundidad el efecto del sector en el contexto global de la economía;
+
+XIX. Concentrar, integrar, homologar y publicar la información que generen las instituciones públicas y privadas en materia de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional; y
+
+XX. Fomentar la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotécnicas y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y cumplan con los principios de una vivienda digna y decorosa;
+
+La Subdirección General de Análisis de Vivienda, Prospectiva y Sustentabilidad, para el ejercicio de las atribuciones que le corresponden, se auxiliará por la Coordinación General de Análisis de Vivienda y Prospectiva.
 
 ###### Artículo 16.
 
-Corresponde a la Subdirección General de Desarrollo Institucional el ejercicio de las siguientes atribuciones
+Corresponde a la Subdirección General de Subsidios y Desarrollo Institucional el ejercicio de las siguientes atribuciones:
 
-I. Desarrollar la relación institucional con las entidades federativas y municipios, así como prestar el apoyo correspondiente a las unidades administrativas de la Comisión en su relación con dichos órdenes de gobierno;
+I. Coordinar, concertar y promover programas y acciones de vivienda, con la participación que corresponda a los gobiernos de las entidades federativas, los municipios, así como con los Organismos Nacionales de Vivienda;
 
-II. Promover que los gobiernos de las entidades federativas expidan sus respectivas leyes de vivienda y realizar las acciones conducentes al efecto;
+II. Establecer vínculos institucionales, convenios de colaboración e intercambio de información relacionada con el sector vivienda con gobiernos locales, en coordinación con organismos nacionales y autoridades competentes;
 
-III. Promover en las entidades federativas, y en su caso en los municipios, la modernización de los registros públicos de la propiedad y de los catastros;
+III. Definir los procesos para la operación, ejecución y seguimiento de los subsidios que atiendan las necesidades de vivienda;
 
-IV. Promover con las entidades federativas y municipios, así como con los sectores social y privado, el desarrollo de acciones de modernización, simplificación administrativa y de reducción en los cobros por trámites relacionados con la producción y titulación de vivienda, así como para el desarrollo integrador de proyectos habitacionales en general, y aquellos que sean encomendados a la Comisión para su ejecución;
+IV. Evaluar y dar seguimiento a la aplicación de fondos federales en favor de estados y municipios, y de los sectores social y privado que se deriven de las acciones e inversiones convenidas;
 
-V. Promover el fortalecimiento de la operación de los organismos estatales y municipales de vivienda;
+V. Otorgar asesoría a las autoridades de las entidades federativas y municipios que lo soliciten, en la elaboración, ejecución y evaluación de programas de vivienda, así como para la modernización del marco legal en materia de vivienda;
 
-VI. Promover que las autoridades locales expidan instrumentos normativos que regulen los conjuntos habitacionales, y en general la vivienda multifamiliar y sus diversos regímenes de propiedad;
+VI. Promover que los gobiernos de las entidades federativas expidan sus respectivas leyes de vivienda, en donde establezcan la responsabilidad y compromiso de los gobiernos estatales y municipales en el ámbito de sus atribuciones para la solución de los problemas habitacionales de sus comunidades;
 
-VII. Apoyar a los gobiernos de las entidades federativas y municipios en el establecimiento de sistemas de información e indicadores de vivienda, así como fomentar e inducir ante dichas instancias, las políticas y estrategias de modernización en materia de información vinculada al sector vivienda;
+VII. Realizar acciones correspondientes a la Comisión a fin de promover medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica y disminuir los costos de la vivienda;
 
-VIII. Asesorar a las organizaciones sociales de vivienda y a las autoridades locales que lo soliciten en la elaboración, ejecución y evaluación de programas de vivienda vinculados con la operación de los organismos nacionales de vivienda;
+VIII. Proponer acciones que brinden asistencia y capacitación a los organismos locales para la programación, instrumentación, ejecución y evaluación de programas de vivienda;
 
-IX. Coordinar la participación de las dependencias y entidades de los tres órdenes de gobierno con los organismos nacionales de vivienda; a fin de posibilitar los mecanismos de acceso a la vivienda;
+IX. Proponer medidas que fortalezcan la capacidad de gestión de los municipios y precisar las responsabilidades de los involucrados para la formulación y ejecución de programas de vivienda y de suelo;
 
-X. Agrupar, ordenar y difundir los materiales, cursos, talleres, datos y programas del sector vivienda, destinados a diversos grupos de consumidores;
+X. Proponer acciones que promuevan la homologación normativa y la simplificación de los trámites administrativos que se requieran para la ejecución de acciones de vivienda, reconociendo los distintos tipos y modalidades de producción habitacional; y
 
-XI. Generar mecanismos y medios masivos de acceso a los grupos de consumidores a la información, cursos y programas del sector vivienda;
+XI. Fomentar un sistema de estímulos y apoyos a los gobiernos de las entidades federativas y municipales que aporten recursos para la ejecución de programas federales en materia de vivienda.
 
-XII. Atender de manera eficiente las consultas, peticiones, sugerencias, orientación y servicios de asesoría, que formule la población en general en materia de vivienda;
-
-XIII. Mantener una estrecha comunicación con la Subsecretaria de Enlace legislativo de la SEGOB y con los legisladores para dar seguimiento a los temas legislativos y de gestoría en materia de vivienda;
-
-XIV. Identificar, administrar y registrar las iniciativas de ley, decretos y puntos de acuerdo, relacionados con la vivienda que se promuevan en las cámaras del Congreso de la Unión;
-
-XV. Colaborar en la construcción de consensos y acuerdos entre el Ejecutivo Federal y el Congreso de la Unión, en ánimo de concretar acciones legislativas que mejoren el marco jurídico en materia de vivienda; y
-
-XVI. Coordinar con las áreas competentes, la elaboración de análisis y opiniones sobre proyectos e iniciativas de carácter legislativo en la materia.
+La Subdirección General de Subsidios y Desarrollo Institucional, para el ejercicio de las atribuciones que le corresponden, se auxiliará por la Coordinación General de Subsidios.
 
 ###### Artículo 17.
 
-Corresponde a la Subdirección General de Articulación Sectorial y Secretariado Técnico el ejercicio de las siguientes atribuciones:
+Corresponde a la Subdirección General de Asuntos Jurídicos, Legislativos y Secretariado Técnico el ejercicio de las siguientes atribuciones:
 
-I. Proponer las bases de participación de la representación de la Comisión ante los órganos de gobierno de los organismos nacionales de vivienda;
+I. Representar a la Comisión en todos los asuntos legales o jurisdiccionales, así como en los espacios en donde ésta tenga presencia o participación;
 
-II. Proponer y fomentar la efectiva coordinación de la Comisión con los organismos nacionales de vivienda, de conformidad con sus requerimientos;
+II. Representar a la Comisión cuando ésta actúe como autoridad responsable en el juicio de amparo;
 
-III. Proponer los mecanismos de coordinación y articulación de los programas de vivienda de los organismos nacionales de vivienda;
+III. Establecer y coordinar la relación institucional de la Comisión con el Congreso de la Unión y el Poder Legislativo de los Estados;
 
-IV. Dar seguimiento a las actividades de los programas de vivienda de los organismos nacionales de vivienda;
+IV. Promover y coordinar la vinculación de la Comisión con los Organismos Nacionales de Vivienda;
 
-V. Proponer, con la participación de los organismos nacionales de vivienda, los mecanismos pertinentes que contribuyan a fortalecer su operación y sus programas habitacionales, procurando los vínculos entre éstos;
+V. Apoyar al Director General en la organización, planeación y funcionamiento de la Junta de Gobierno de la Comisión;
 
-VI. Canalizar hacia los organismos nacionales de vivienda los requerimientos y propuestas de los sectores público, privado y social relacionados con cualquier aspecto o actividad de su operación;
+VI. Establecer los lineamientos para la relación de la Comisión con la ciudadanía;
 
-VII. Promover que las instancias señaladas en el Artículo 48 de la Ley, consideren en sus presupuestos operativos objetivos que den continuidad al proceso habitacional;
+VII. Observar y promover el cumplimiento del marco jurídico en materia de acceso a la información pública;
 
-VIII. Instrumentar mecanismos de coordinación y promoción relativos a los programas y acciones de difusión, estrategias, lineamientos y líneas de acción para difundir la política nacional de vivienda que tiene a su cargo la Comisión;
+VIII. Participar en la modernización del marco legal en materia de vivienda, incentivando las reformas legislativas y reglamentarias que correspondan a las necesidades del sector;
 
-IX. Coordinar la estrategia y el programa de Comunicación Social de la Comisión;
+IX. Constituirse en el eje de asesoría y apoyo legal para las diversas unidades administrativas que conforman la Comisión;
 
-X. Fomentar los vínculos de cooperación institucional entre los organismos de vivienda públicos, privados, nacionales e internacionales a fin de mantener una correlación que busque alcanzar los objetivos de promoción y difusión establecidos por el Ejecutivo Federal en la materia;
+X. Coordinar las acciones conducentes para la realización de las sesiones de los distintos órganos colegiados dentro del sector en los que la Comisión forma parte, a fin de apoyar para que los asuntos analizados en las sesiones, cumplan con las disposiciones aplicables;
 
-XI. Impulsar y apoyar, en coordinación con las unidades administrativas de la Comisión, las actividades de promoción en las entidades federativas y municipios;
+XI. Apoyar al Director General en la ejecución (sic) los acuerdos que dicte el Órgano de Gobierno;
 
-XII. Coordinar, articular y fortalecer la operación de los programas de vivienda con los organismos nacionales de vivienda;
+XII. Apoyar al Director General en su calidad de Secretario Ejecutivo de la Comisión Intersecretarial y en el seguimiento de los asuntos que le sean encomendados;
 
-XIII. Planear, coordinar y organizar las sesiones de la Junta de Gobierno, del Consejo, de la Comisión Intersecretarial, así como de los comités, grupos de trabajo y subcomisiones;
+XIII. Participar con las dependencias y entidades en la instrumentación de las acciones previstas en el Artículo 8 de la Ley, para efectos de la ejecución del Programa Nacional de Vivienda;
 
-XIV. Llevar el seguimiento de los acuerdos tomados en las sesiones de la Junta de Gobierno, del Consejo, de la Comisión Intersecretarial, así como de los comités, grupos de trabajo y subcomisiones;
+XIV. Colaborar, bajo las indicaciones del Director General, en la elaboración del programa institucional de la Comisión, así como en los informes semestrales que deban someterse a la consideración de la Junta de Gobierno; y
 
-XV. Preparar, los lineamientos de operación y funcionamiento del Consejo, así como de los comités y grupos de trabajo del mismo;
+XV. Apoyar al Director General en la coordinación del Consejo Nacional de Vivienda;
 
-XVI. Elaborar para su aprobación los lineamientos de operación y funcionamiento de la Junta de Gobierno y de la Comisión Intersecretarial;
-
-XVII. Proponer al Director General, la creación de comités y grupos de trabajo del Consejo, así como de subcomisiones y grupos de trabajo de la Comisión Intersecretarial;
-
-XVIII. Elaborar la propuesta de los integrantes del Consejo, de conformidad con lo que instruya el Director General;
-
-XIX. Solicitar, recibir y enviar a los miembros del Consejo para su opinión, los presupuestos a que hace referencia la fracción II del Artículo 29, así como la información señalada en la fracción VI del mismo Artículo de la Ley, así como integrar un documento que contenga las opiniones correspondientes;
-
-XX. Promover y apoyar la instalación y operación de consejos estatales de fomento a la vivienda y su coordinación con el Consejo, así como dar seguimiento a sus acuerdos cuando tengan vinculación con las funciones de este último; y
-
-XXI. Las demás que le confieran la Junta de Gobierno, el Consejo, la Comisión Intersecretarial y el Director General de la Comisión.
+La Subdirección General de Asuntos Jurídicos, Legislativos y Secretariado Técnico, para el ejercicio de las atribuciones que le corresponden, se auxiliará por la Coordinación General de Asuntos Jurídicos.
 
 ###### Artículo 18.
 
-Corresponde a la Coordinación General de Operación de Políticas de Apoyo para Programas el ejercicio de las siguientes atribuciones:
+Corresponde a la Coordinación General de Análisis de Vivienda y Prospectiva el ejercicio de las siguientes atribuciones:
 
-I. Participar con las dependencias, entidades y organismos de la Administración Pública Federal en el diseño de las reglas de operación de sus programas de vivienda, previendo que contemplen mecanismos de complementariedad a las aportaciones de los gobiernos estatales y municipales;
+I. Generar información veraz, oportuna y estandarizada en materia de vivienda y soluciones habitacionales en general;
 
-II. Ejecutar, conducir, coordinar y dar seguimiento a los programas de Esquemas de Financiamiento y Subsidio Federal para Vivienda;
+II. Difundir a todos los actores del mercado, la información generada en materia de vivienda en forma sistematizada, oportuna y calendarizada;
 
-III. Promover y dar seguimiento a los programas de apoyo para el financiamiento de los distintos tipos y modalidades de vivienda;
+III. Asegurar que el Gobierno Federal cuente con información suficiente para orientar la política de vivienda, analizando su impacto a nivel geográfico y económico;
 
-IV. Promover mecanismos, esquemas financieros y programas de crédito, ahorro previo y subsidio directo a la vivienda, en sus diferentes tipos y modalidades, orientados a responder las necesidades de vivienda de los distintos sectores de la población, priorizando la atención a la población en situación de pobreza;
+IV. Establecer criterios y mediciones del impacto y la efectividad de las estrategias y acciones de vivienda que se vayan generando;
 
-V. Recabar la información de beneficiarios atendidos con recursos fiscales, tanto para crédito como para subsidio y remitirla a la Secretaría de Desarrollo Social;
+V. Elaborar opiniones sobre los programas operativos anuales de las entidades de la Administración Pública Federal que lleven a cabo programas de vivienda u otorguen financiamiento para viviendas;
 
-VI. Verificar y promover que las instituciones captadoras de ahorro y los organismos de vivienda establezcan programas que incorporen factores como, ahorro previo, subsidios y complemento crediticio para adquirir vivienda;
+VI. Jerarquizar las necesidades de vivienda, realizar proyecciones y cuantificar el crecimiento del parque habitacional;
 
-VII. Operar el Programa de Esquemas de Financiamiento y Subsidio Federal para Vivienda con las autoridades de las entidades federativas, municipales, organismos nacionales de vivienda, organismos estatales de vivienda, los sectores público, social y privado;
+VII. Coordinar, evaluar y dar seguimiento a la política de subsidios para la vivienda del Gobierno Federal de conformidad con lo previsto en la Ley, en el Plan Anual de Evaluación, el Programa Nacional de Vivienda y demás disposiciones aplicables, con la participación que corresponda a los sectores público, social y privado;
 
-VIII. Promover mecanismos, esquemas financieros y programas de crédito, ahorro previo y subsidio directo a la vivienda, en sus diferentes tipos y modalidades, orientados a responder las necesidades de vivienda de los distintos sectores de la población, priorizando la atención a la población en situación de pobreza;
+VIII. Promover e impulsar las acciones de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, para la atención de las diferentes soluciones de vivienda en los aspectos normativos, tecnológicos, y socioeconómicos;
 
-IX. Recabar la información de beneficiarios atendidos con recursos fiscales, tanto para crédito como para subsidio y remitirla a la Secretaría de Desarrollo Social;
+IX. Diseñar medidas que proporcionen a la población información suficiente para la toma de decisiones sobre las tendencias en el mercado de la vivienda y acerca de las opciones que ofrecen los programas institucionales y el mercado, de acuerdo con sus necesidades, posibilidades y preferencias;
 
-X. Promover con las instituciones captadoras de ahorro y los organismos de vivienda, el establecimiento de programas que incorporen compromisos entre ahorro previo, subsidios y complemento crediticio para adquirir vivienda;
+X. Realizar y actualizar diagnósticos de la situación habitacional de todo el país, así como un señalamiento específico de sus principales problemas, soluciones y tendencias;
 
-XI. Desarrollar acciones de coordinación y promoción en materia de vivienda con otras instancias de los tres órdenes de gobierno para impulsar alternativas habitacionales; y
+XI. Elaborar el Programa de trabajo anual de la Comisión y dar seguimiento al cumplimiento del mismo;
 
-XII. Desarrollar esquemas de financiamiento y de suelo dirigido a autoproductores, autoconstructores y otros productores y agentes técnicos especializados que operen sin fines de lucro; y
+XII. Estudiar y proponer las estrategias de coordinación para el abatimiento de costos de la vivienda, así como los mecanismos que eviten prácticas indebidas que encarezcan el financiamiento, la adquisición, construcción y mejoramiento de la vivienda;
 
-XIII. Promover acciones para supervisar la correcta aplicación y cumplimiento de reglas de operación de los programas de apoyo para el financiamiento a la vivienda de la Administración Pública.
+XIII. Elaborar el Programa Nacional de Vivienda en coordinación con el resto de las ONAVIS y dar seguimiento e información sobre la implementación de la Política Nacional de la Vivienda;
+
+XIV. Coordinar que los programas de los Organismos Nacionales de Vivienda se apeguen al Programa Nacional de Vivienda;
+
+XV. Apoyar en el establecimiento de mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la Comisión, así como para la presentación de la evaluación de gestión al Órgano de Gobierno;
+
+XVI. Diseñar y promover mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional; y
+
+XVII. Aquellas, que en el ejercicio de sus funciones, le sean encomendadas por la Subdirección General de Análisis de Vivienda, Prospectiva y Sustentabilidad.
 
 ###### Artículo 19.
 
-Corresponde a la Coordinación General de Administración y Finanzas, el ejercicio de las siguientes atribuciones:
+Corresponde a la Coordinación General de Subsidios el ejercicio de las siguientes atribuciones:
+
+I. Colaborar con la definición de alcances para la operación, ejecución y seguimiento de los subsidios que atiendan las necesidades de vivienda, conforme a las reglas y lineamientos que se establezcan en la política de vivienda;
+
+II. Coordinar la promoción de los alcances para la aplicación del subsidio conforme a las reglas establecidas para los distintos participantes del sector vivienda;
+
+III. Establecer los mecanismos de seguimiento y control de los subsidios que sean necesarios para la correcta aplicación y administración de los recursos;
+
+IV. Hacer propuestas para el adecuado mantenimiento de la plataforma tecnológica para la correcta operación del subsidio;
+
+V. Coordinar la instrumentación de las nuevas líneas de producto de subsidio de forma conjunta con las áreas internas de CONAVI y organismos nacionales de vivienda;
+
+VI. Apoyar al Director General en la formulación de propuesta de los lineamientos de operación de los programas que impliquen subsidios en materia de vivienda de su competencia, que determine en el Presupuesto de Egresos de la Federación;
+
+VII. Desarrollar instrumentos programáticos, financieros, administrativos y de fomento para apoyar acciones de vivienda en sus diversos tipos y modalidades; y
+
+VIII. Aquellas, que en el ejercicio de sus funciones, le sean encomendadas por la Subdirección General de Subsidios y Desarrollo Institucional.
+
+###### Artículo 20.
+
+Corresponde a la Coordinación General de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
+
+I. Apoyar a la Subdirección General de Asuntos Jurídicos, Legislativos y Secretariado Técnico, en la elaboración de políticas para la celebración de contratos, mandatos y comisiones relacionadas con el objeto de la Comisión;
+
+II. Apoyar y asesorar a las diferentes unidades administrativas de la Comisión en la elaboración y celebración de los instrumentos jurídicos que sean necesarios para el adecuado ejercicio de las funciones de la Comisión;
+
+III. Tomar parte en los actos de los procedimientos adjudicatarios de contratos para la adquisición de bienes y servicios para la Comisión, en los términos que dispone la ley de la materia, así como revisión, modificación, y en su caso aprobación de los contratos relativos a esta misma materia;
+
+IV. Asistir a los servidores públicos de la Comisión en las comparecencias a que deban atender ante las diversas autoridades, así como representarlos en juicio, en asuntos relacionados con el objeto de la Comisión;
+
+V. Ejercer la coordinación y vigilancia de los despachos jurídicos que atiendan los asuntos litigiosos por encargo de la Comisión;
+
+VI. Atender y dar seguimiento al resultado de las revisiones practicadas tanto por el Órgano Interno de Control, como por la Auditoría Superior de la Federación;
+
+VII. Revisar los acuerdos de la Junta de Gobierno;
+
+VIII. Gestionar el cobro de cualquier adeudo de recursos públicos en favor de la Comisión, y elaborar, en su caso, los dictámenes jurídicos de incobrabilidad;
+
+IX. Practicar una revisión constante de las publicaciones hechas en el Diario Oficial de la Federación, a fin de hacerlas del conocimiento del o las áreas que deban tener conocimiento de las mismas;
+
+X. Revisar las iniciativas que en materia de vivienda formule la Comisión, así como la normatividad interna que rige sus funciones, y en su caso, dar trámite a la publicación que corresponda en el Diario Oficial de la Federación;
+
+XI. Dar atención y seguimiento de cualquier asunto de naturaleza jurídica que le sea encomendado por la Subdirección General de Asuntos Jurídicos, Legislativos y Secretariado Técnico o el Director General, relacionado con el objeto de la Comisión; y
+
+XII. Aquellas, que en el ejercicio de sus funciones, le sean encomendadas por la Subdirección General de Asuntos Jurídicos, Legislativos y Secretariado Técnico.
+
+###### Artículo 21.
+
+Corresponde a la Coordinación General de Administración el ejercicio de las siguientes atribuciones:
 
 I. Proponer los lineamientos y políticas institucionales para los procesos de programación, presupuestación, organización y administración de los recursos humanos, relaciones laborales, recursos materiales, financieros, e informáticos; así como en materia de adquisiciones, arrendamientos y servicios, de obra pública y servicios relacionados con la misma, en concordancia con la normatividad Federal;
 
@@ -435,69 +473,13 @@ XI. Proponer y coordinar los programas de capacitación y adiestramiento del per
 
 XII. Proponer, dirigir, controlar y evaluar las políticas y medidas de racionalidad, austeridad y disciplina presupuestaria que determine la Junta de Gobierno, en congruencia con las disposiciones que señale la autoridad federal competente;
 
-XIII. Atender los requerimientos de las instancias correspondientes, en la instrumentación de programas de austeridad, mejora de procesos, implementación de sistemas de profesionalización, de infraestructura tecnológica, descentralización y desconcentración de funciones, desregulación y fortalecimiento de control interno, o los que en su momento se instrumenten; y
+XIII. Atender los requerimientos de las instancias correspondientes, en la instrumentación de programas de austeridad, mejora de procesos, implementación de sistemas de profesionalización, de infraestructura tecnológica, descentralización y desconcentración de funciones, desregulación y fortalecimiento de control interno, o los que en su momento se instrumenten;
 
-XIV. Establecer los mecanismos de coordinación entre las unidades que conforman la Comisión y las diversas instancias de control y fiscalización, así como controlar la información y documentación que se derive de las revisiones y auditorías practicadas;
+XIV. Establecer los mecanismos de coordinación entre las unidades que conforman la Comisión y las diversas instancias de control y fiscalización, así como controlar la información y documentación que se derive de las revisiones y auditorías practicadas; y
 
-###### Artículo 20.
+XV. Aquellas, que en el ejercicio de sus funciones, le sean encomendadas por la Dirección General.
 
-Corresponde a la Coordinación General de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
-
-I. Asesorar jurídicamente al Director General y a los demás servidores públicos de la Comisión y atender las consultas que éstos, las dependencias y demás entidades de la Administración Pública Federal y las entidades federativas y municipios le formulen;
-
-II. Asesorar al Director General en la formulación de los programas, decretos, declaratorias, convenios, bases y demás actos que competan a la Comisión y coordinar su instrumentación jurídica;
-
-III. Revisar y, en su caso, determinar la procedencia jurídica del otorgamiento, adjudicación, celebración, modificación, suspensión, revocación, terminación, rescisión, nulidad total o parcial y demás efectos jurídicos de los convenios, contratos, concesiones, autorizaciones, permisos y licencias que competan a la Comisión;
-
-IV. Representar a la Comisión en todos los asuntos legales y jurisdiccionales en que tenga interés o que se refiera a hechos o actos susceptibles de causar daño o perjuicio a su patrimonio y realizar las gestiones correspondientes ante las autoridades respectivas;
-
-V. Formular denuncias y querellas y en los casos en que por disposición de las leyes aplicables proceda, asistir al Director General en sus comparecencias ante las diversas autoridades y representarlo en juicio para absolver posiciones en los términos de la Ley procesal que corresponda;
-
-VI. Tramitar las solicitudes de acreditamiento de personalidad o personería ante la Comisión, dictaminar y resolver sobre las mismas, así como llevar el registro único de las personas acreditadas y expedir las constancias correspondientes;
-
-VII. Compilar y promover la difusión de las disposiciones jurídicas contenidas en leyes, tratados, reglamentos, decretos, acuerdos y demás ordenamientos, relacionados con las actividades de la Comisión;
-
-VIII. Tramitar la publicación en el Diario Oficial de la Federación de los instrumentos normativos y convencionales, así como las demás disposiciones de carácter general y administrativo que competan a la Comisión; y
-
-IX. Tramitar y registrar las designaciones de los representantes de la Comisión ante los cuerpos colegiados externos a la entidad.
-
-###### Artículo 21.
-
-Corresponde a la Coordinación General de Prospectiva el ejercicio de las siguientes atribuciones:
-
-I. Atender, coordinar y fomentar los asuntos internacionales del ámbito de la Comisión y que le sean encomendados por su Director General;
-
-II. Establecer los parámetros para definir la Política Nacional de Vivienda;
-
-III. Integrar y generar la información y sugerencias para elaborar los lineamientos normativos y mecanismos con los que se formule, ejecute, conduzca, coordine, evalúe y dé seguimiento a la Política Nacional de Vivienda y al Programa Nacional de Vivienda observando las disposiciones legales aplicables, particularmente aquellas en materia de desarrollo urbano, ordenación territorial y desarrollo sustentable;
-
-IV. Integrar y generar la información y sugerencias que se requieran para la coordinación del Sistema Nacional de Vivienda, con la participación de las instancias del sector en los tres órdenes de gobierno y de los sectores social y privado;
-
-V. Coordinar, evaluar y dar seguimiento a la Política de Subsidios del Gobierno Federal, de conformidad con lo previsto en la Ley, el Programa Nacional de Vivienda y demás disposiciones aplicables, con la participación que corresponda a los sectores público, social y privado;
-
-VI. Promover el reconocimiento público de aquellos agentes de la sociedad que intervienen en el proceso de producción habitacional, realizando sus acciones de conformidad con los criterios de calidad y sustentabilidad señalados en la Ley, a través del Premio Nacional de Vivienda u otros estímulos y acciones que se establezcan;
-
-VII. Coordinar las acciones necesarias para el otorgamiento y difusión del Premio Nacional de Vivienda;
-
-VIII. Coordinar y articular que las propuestas de los programas de los organismos nacionales de vivienda se apeguen al Programa Nacional de Vivienda;
-
-IX. Brindar la asesoría y el apoyo técnico que requieran los organismos nacionales de vivienda, en la instrumentación de sus programas de vivienda cuando así lo soliciten;
-
-X. Participar en la definición de los lineamientos de información y estadística en materia de vivienda y suelo, con sujeción a la Ley de Información Estadística y Geográfica;
-
-XI. Proponer al Instituto Nacional de Estadística, Geografía e Informática los datos, información y demás elementos que se requieren para establecer los indicadores en materia de vivienda, que deberán considerarse en el levantamiento de censos nacionales, encuestas de vivienda, económicas y sociodemográficas, y otros conteos;
-
-XII. Coordinarse con el Instituto Nacional de Estadística y Geografía, para que dentro de la integración de las cuentas nacionales se desagregue una cuenta específica de vivienda, que se denominará Cuenta Satélite de Vivienda en México, que permita conocer a profundidad el efecto del sector en el contexto global de la economía;
-
-XIII. Integrar y administrar el Sistema Nacional de Información e Indicadores de Vivienda, de conformidad con lo previsto en la Ley y demás disposiciones aplicables;
-
-XIV. Apoyar a los gobiernos de las entidades federativas y municipios en el establecimiento de sistemas de información e indicadores de vivienda;
-
-XV. Elaborar las opiniones sobre los programas operativos anuales de las entidades de la Administración Pública Federal que lleven a cabo programas de vivienda u otorguen financiamiento para vivienda;
-
-XVI. Evaluar y dar seguimiento a la política de Subsidios del Gobierno Federal de conformidad con lo previsto en la Ley, el Programa Nacional de Vivienda y demás disposiciones aplicables, con la participación que corresponda a los sectores público, social y privado; y (sic)
-
-### CAPITULO QUINTO. DE LOS ORGANOS DE CONTROL Y VIGILANCIA
+### CAPÍTULO QUINTO. DEL ÓRGANO DE CONTROL
 
 ###### Artículo 22.
 
@@ -505,22 +487,24 @@ La Comisión contará con un órgano de vigilancia el cual estará integrado por
 
 ###### Artículo 23.
 
-La Comisión contará, asimismo, con un órgano interno de control cuyo Titular será designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, responsabilidades y quejas designados en los mismos términos.
+La Comisión contará, asimismo, con un órgano de control y desarrollo administrativo cuyo Titular será designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, responsabilidades y quejas designados en los mismos términos.
 
 ###### Artículo 24.
 
 Los servidores públicos a que se refiere el artículo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme lo disponga el Reglamento Interior de la Secretaría de la Función Pública.
 
-### CAPITULO SEXTO. DE LAS SUPLENCIAS
+### CAPÍTULO SEXTO. DE LAS SUPLENCIAS
 
 ###### Artículo 25.
 
-Durante su ausencia el Director General será suplido por el Coordinador General de Administración y Finanzas, por el Coordinador General de Asuntos Jurídicos, por el Subdirector General de Esquemas Financieros o por el Subdirector General de Sustentabilidad, en el orden mencionado. Los subdirectores generales, coordinadores generales, directores de área, subdirectores y jefes de departamento serán suplidos durante sus ausencias por los servidores públicos de jerarquía inmediata inferior, según la naturaleza de los asuntos.
+Durante la ausencia o vacancia del Director General será suplido por el Subdirector General de Asuntos Jurídicos, Legislativos y Secretariado Técnico o por el Coordinador General de Administración, en el orden mencionado. Los Subdirectores Generales, Coordinadores Generales, Directores de Área, Subdirectores y Jefes de Departamento serán suplidos durante sus ausencias o vacancias por los servidores públicos de jerarquía inmediata inferior, según la naturaleza de los asuntos. Los funcionarios que realicen funciones en suplencia, contarán con las mismas atribuciones que cuenta el titular de la plaza durante el período que dure la suplencia.
 
-Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de Auditoría y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias del Titular del Órgano de Control, así como de los titulares de las áreas de Auditoría y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Estatuto entrará en vigor el día 16 de abril de 2011.
+PRIMERO.- El presente Estatuto entrará en vigor el día siguiente de su publicación.
 
-El Director General de la Comisión Nacional de Vivienda y Secretario Técnico de la Junta de Gobierno, Ariel Cano Cuevas.- Rúbrica.
+SEGUNDO.- Una vez que opere el órgano constitucional autónomo que se propone crear en materia anticorrupción conforme se señala en el artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal publicado el 2 de enero de 2013, el Órgano Interno de Control en la Comisión Nacional de Vivienda, funcionará de conformidad con las atribuciones que actualmente tiene conferidas.
+
+La Directora General de la Comisión Nacional de Vivienda y Secretaria Técnica de la Junta de Gobierno, María Paloma Silva de Anzorena.- Rúbrica.
