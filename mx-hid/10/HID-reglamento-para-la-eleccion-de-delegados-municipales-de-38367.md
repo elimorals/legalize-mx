@@ -4,7 +4,7 @@ identifier: "HID-reglamento-para-la-eleccion-de-delegados-municipales-de-38367"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-22"
-last_updated: "2004-03-22"
+last_updated: "2014-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO PARA LA ELECCION DE DELEGADOS MUNICIPALES DE TULA DE ALLENDE, HIDALGO
 
-REGLAMENTO PARA LA ELECCION DE DELEGADOS MUNICIPALES
+REGLAMENTO PARA LA ELECCIÓN DE DELEGADOS MUNICIPALES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO PARA LA ELECCIÓN Y EL FUNCIONAMIENTO DE LOS ÓRGANOS AUXILIARES MUNICIPALES, PUBLICADO EN EL P.O. DE 10 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de marzo de 2004.
 
@@ -264,3 +266,15 @@ III.- Los gastos que se originen para la aplicación del presente Reglamento, se
 Al Presidente Municipal, para su sanción y debido cumplimiento.
 
 Dado en la Sala de Cabildos de la Presidencia Municipal de Tula de Allende, Hidalgo, a los veintitrés días del mes de octubre del año dos mil tres.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE FEBRERO DE 2014.
+
+PRIMERO.- En relación al Capítulo IX del presente reglamento en caso de resultar empate en la elección de los Órganos Auxiliares, se llevara a cabo una segunda ronda de elección y de persistir, será el Presidente Municipal quien otorgue el voto de calidad.
+
+SEGUNDO.- Los casos no previstos en el presente reglamento serán resueltos por la comisión.
+
+TERCERO.- Se abroga el Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, con fecha 22 de marzo del año 2004.
+
+CUARTO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
