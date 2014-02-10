@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2014-02-07"
+last_updated: "2014-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE FEBRERO DE 2014.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -790,13 +790,17 @@ La ley alentará y protegerá la actividad económica que realicen los particula
 
 A. El Estado organizará un sistema de planeación democrática del desarrollo nacional que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la nación.
 
-Los fines del proyecto nacional contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática. Mediante la participación de los diversos sectores sociales recogerá las aspiraciones y demandas de la sociedad para incorporarlas al plan y los programas de desarrollo. Habrá un plan nacional de desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Federal.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Los fines del proyecto nacional contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática y deliberativa. Mediante los mecanismos de participación que establezca la ley, recogerá las aspiraciones y demandas de la sociedad para incorporarlas al plan y los programas de desarrollo. Habrá un plan nacional de desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Federal.
 
 > <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2013)</small>
 
 La ley facultará al Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema nacional de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo, determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Federal coordine mediante convenios con los gobiernos de las entidades federativas e induzca y concierte con los particulares las acciones a realizar para su elaboración y ejecución. El plan nacional de desarrollo considerará la continuidad y adaptaciones necesarias de la política nacional para el desarrollo industrial, con vertientes sectoriales y regionales.
 
-En el sistema de planeación democrática, el Congreso de la Unión tendrá la intervención que señale la ley.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+En el sistema de planeación democrática y deliberativa, el Congreso de la Unión tendrá la intervención que señale la ley.
 
 B. El Estado contará con un Sistema Nacional de Información Estadística y Geográfica cuyos datos serán considerados oficiales. Para la Federación, estados, Distrito Federal y municipios, los datos contenidos en el Sistema serán de uso obligatorio en los términos que establezca la ley.
 
@@ -807,6 +811,16 @@ El organismo tendrá una Junta de Gobierno integrada por cinco miembros, uno de 
 La ley establecerá las bases de organización y funcionamiento del Sistema Nacional de Información Estadística y Geográfica, de acuerdo con los principios de accesibilidad a la información, transparencia, objetividad e independencia; los requisitos que deberán cumplir los miembros de la Junta de Gobierno, la duración y escalonamiento de su encargo.
 
 Los miembros de la Junta de Gobierno sólo podrán ser removidos por causa grave y no podrán tener ningún otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas, culturales o de beneficencia; y estarán sujetos a lo dispuesto por el Título Cuarto de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+C. El Estado contará con un Consejo Nacional de Evaluación de la Política de Desarrollo Social, que será un órgano autónomo, con personalidad jurídica y patrimonio propios, a cargo de la medición de la pobreza y de la evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social, así como de emitir recomendaciones en los términos que disponga la ley, la cual establecerá las formas de coordinación del órgano con las autoridades federales, locales y municipales para el ejercicio de sus funciones.
+
+El Consejo Nacional de Evaluación de la Política de Desarrollo Social estará integrado por un Presidente y seis Consejeros que deberán ser ciudadanos mexicanos de reconocido prestigio en los sectores privado y social, así como en los ámbitos académico y profesional; tener experiencia mínima de diez años en materia de desarrollo social, y no pertenecer a algún partido político o haber sido candidato a ocupar un cargo público de elección popular. Serán nombrados, bajo el procedimiento que determine la ley, por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados. El nombramiento podrá ser objetado por el Presidente de la República en un plazo de diez días hábiles y, si no lo hiciere, ocupará el cargo de consejero la persona nombrada por la Cámara de Diputados. Cada cuatro años serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+
+El Presidente del Consejo Nacional de Evaluación de la Política de Desarrollo Social será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
+
+El Presidente del Consejo Nacional de Evaluación de la Política de Desarrollo Social presentará anualmente a los Poderes de la Unión un informe de actividades. Comparecerá ante las Cámaras del Congreso en los términos que disponga la ley.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1934)</small>
 
@@ -1084,7 +1098,9 @@ V. Haberse desempeñado, cuando menos tres años, en forma destacada en activida
 
 VI. Acreditar, en los términos de este precepto, los conocimientos técnicos necesarios para el ejercicio del cargo;
 
-VII. No haber sido Secretario de Estado, Procurador General de la República, senador, diputado federal o local, Gobernador de algún Estado o Jefe de Gobierno del Distrito Federal, durante el año previo a su nombramiento, y
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+VII. No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal o local, Gobernador de algún Estado o Jefe de Gobierno del Distrito Federal, durante el año previo a su nombramiento, y
 
 VIII. En la Comisión Federal de Competencia Económica, no haber ocupado, en los últimos tres años, ningún empleo, cargo o función directiva en las empresas que hayan estado sujetas a alguno de los procedimientos sancionatorios que sustancia el citado órgano. En el Instituto Federal de Telecomunicaciones no haber ocupado, en los últimos tres años, ningún empleo, cargo o función directiva en las empresas de los concesionarios comerciales o privados o de las entidades a ellos relacionadas, sujetas a la regulación del Instituto.
 
@@ -1122,17 +1138,25 @@ La ratificación se hará por el voto de las dos terceras partes de los miembros
 
 Todos los actos del proceso de selección y designación de los Comisionados son inatacables.
 
-> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 ###### Art. 29.
 
-En los casos de invasión, perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los titulares de las Secretarías de Estado y la Procuraduría General de la República y con la aprobación del Congreso de la Unión o de la Comisión Permanente cuando aquel no estuviere reunido, podrá restringir o suspender en todo el país o en lugar determinado el ejercicio de los derechos y las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la restricción o suspensión se contraiga a determinada persona. Si la restricción o suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación; pero si se verificase en tiempo de receso, se convocará de inmediato al Congreso para que las acuerde.
+En los casos de invasión, perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, con la aprobación del Congreso de la Unión o de la Comisión Permanente cuando aquel no estuviere reunido, podrá restringir o suspender en todo el país o en lugar determinado el ejercicio de los derechos y las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la restricción o suspensión se contraiga a determinada persona. Si la restricción o suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación; pero si se verificase en tiempo de receso, se convocará de inmediato al Congreso para que las acuerde.
+
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 En los decretos que se expidan, no podrá restringirse ni suspenderse el ejercicio de los derechos a la no discriminación, al reconocimiento de la personalidad jurídica, a la vida, a la integridad personal, a la protección a la familia, al nombre, a la nacionalidad; los derechos de la niñez; los derechos políticos; las libertades de pensamiento, conciencia y de profesar creencia religiosa alguna; el principio de legalidad y retroactividad; la prohibición de la pena de muerte; la prohibición de la esclavitud y la servidumbre; la prohibición de la desaparición forzada y la tortura; ni las garantías judiciales indispensables para la protección de tales derechos.
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
 La restricción o suspensión del ejercicio de los derechos y garantías debe estar fundada y motivada en los términos establecidos por esta Constitución y ser proporcional al peligro a que se hace frente, observando en todo momento los principios de legalidad, racionalidad, proclamación, publicidad y no discriminación.
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
 Cuando se ponga fin a la restricción o suspensión del ejercicio de los derechos y garantías, bien sea por cumplirse el plazo o porque así lo decrete el Congreso, todas las medidas legales y administrativas adoptadas durante su vigencia quedarán sin efecto de forma inmediata. El Ejecutivo no podrá hacer observaciones al decreto mediante el cual el Congreso revoque la restricción o suspensión.
+
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 Los decretos expedidos por el Ejecutivo durante la restricción o suspensión, serán revisados de oficio e inmediatamente por la Suprema Corte de Justicia de la Nación, la que deberá pronunciarse con la mayor prontitud sobre su constitucionalidad y validez.
 
@@ -1254,9 +1278,9 @@ V.- Ejercer en toda clase de negocios el derecho de petición.
 
 VI.- Poder ser nombrado para cualquier empleo o comisión del servicio público, teniendo las calidades que establezca la ley;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-VII.- Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Federal Electoral tendrá las facultades que en esta materia le otorgue la ley, y
+VII.- Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Nacional Electoral tendrá las facultades que en esta materia le otorgue la ley, y
 
 > <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
@@ -1276,11 +1300,15 @@ Con excepción de la hipótesis prevista en el inciso c) anterior, la petición 
 
 3o. No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por esta Constitución; los principios consagrados en el artículo 40 de la misma; la materia electoral; los ingresos y gastos del Estado; la seguridad nacional y la organización, funcionamiento y disciplina de la Fuerza Armada permanente. La Suprema Corte de Justicia de la Nación resolverá, previo a la convocatoria que realice el Congreso de la Unión, sobre la constitucionalidad de la materia de la consulta;
 
-4o. El Instituto Federal Electoral tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1o. de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+4o. El Instituto Nacional Electoral tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1o. de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
 
 5o. La consulta popular se realizará el mismo día de la jornada electoral federal;
 
-6o. Las resoluciones del Instituto Federal Electoral podrán ser impugnadas en los términos de lo dispuesto en la fracción VI del artículo 41, así como de la fracción III del artículo 99 de esta Constitución; y
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+6o. Las resoluciones del Instituto Nacional Electoral podrán ser impugnadas en los términos de lo dispuesto en la fracción VI del artículo 41, así como de la fracción III del artículo 99 de esta Constitución; y
 
 7o. Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
 
@@ -1392,11 +1420,19 @@ El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los cas
 
 La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal y las formas específicas de su intervención en el proceso electoral. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales, municipales y del Distrito Federal.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación nacional y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre los géneros, en candidaturas a legisladores federales y locales. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Los partidos políticos nacionales tendrán derecho a participar en las elecciones de las entidades federativas y municipales. El partido político nacional que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o de las Cámaras del Congreso de la Unión, le será cancelado el registro.
 
 II. La ley garantizará que los partidos políticos nacionales cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
@@ -1408,83 +1444,217 @@ b) El financiamiento público para las actividades tendientes a la obtención de
 
 c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
-La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecido para la última campaña presidencial; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y en las campañas electorales. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes; ordenará los procedimientos para el control, fiscalización oportuna y vigilancia, durante la campaña, del origen y uso de todos los recursos con que cuenten; asimismo, dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
 De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Federación.
 
-III. Los partidos políticos nacionales tendrán derecho al uso de manera permanente de los medios de comunicación social.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-Apartado A. El Instituto Federal Electoral será autoridad única para la administración del tiempo que corresponda al Estado en radio y televisión destinado a sus propios fines y al ejercicio del derecho de los partidos políticos nacionales, de acuerdo con lo siguiente y a lo que establezcan las leyes:
+III. Los partidos políticos nacionales tendrán derecho al uso de manera permanente de los medios de comunicación social. Los candidatos independientes tendrán derecho de acceso a prerrogativas para las campañas electorales en los términos que establezca la ley.
 
-a) A partir del inicio de las precampañas y hasta el día de la jornada electoral quedarán a disposición del Instituto Federal Electoral cuarenta y ocho minutos diarios, que serán distribuidos en dos y hasta tres minutos por cada hora de transmisión en cada estación de radio y canal de televisión, en el horario referido en el inciso d) de este apartado;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Apartado A. El Instituto Nacional Electoral será autoridad única para la administración del tiempo que corresponda al Estado en radio y televisión destinado a sus propios fines y al ejercicio del derecho de los partidos políticos nacionales, de acuerdo con lo siguiente y a lo que establezcan las leyes:
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+a) A partir del inicio de las precampañas y hasta el día de la jornada electoral quedarán a disposición del Instituto Nacional Electoral cuarenta y ocho minutos diarios, que serán distribuidos en dos y hasta tres minutos por cada hora de transmisión en cada estación de radio y canal de televisión, en el horario referido en el inciso d) de este apartado. En el período comprendido entre el fin de las precampañas y el inicio de las campañas, el cincuenta por ciento de los tiempos en radio y televisión se destinará a los fines propios de las autoridades electorales, y el resto a la difusión de mensajes genéricos de los partidos políticos, conforme a lo que establezca la ley;
 
 b) Durante sus precampañas, los partidos políticos dispondrán en conjunto de un minuto por cada hora de transmisión en cada estación de radio y canal de televisión; el tiempo restante se utilizará conforme a lo que determine la ley;
 
-c) Durante las campañas electorales deberá destinarse para cubrir el derecho de los partidos políticos al menos el ochenta y cinco por ciento del tiempo total disponible a que se refiere el inciso a) de este apartado;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+c) Durante las campañas electorales deberá destinarse para cubrir el derecho de los partidos políticos y los candidatos al menos el ochenta y cinco por ciento del tiempo total disponible a que se refiere el inciso a) de este apartado;
 
 d) Las transmisiones en cada estación de radio y canal de televisión se distribuirán dentro del horario de programación comprendido entre las seis y las veinticuatro horas;
 
-e) El tiempo establecido como derecho de los partidos políticos se distribuirá entre los mismos conforme a lo siguiente: el treinta por ciento en forma igualitaria y el setenta por ciento restante de acuerdo a los resultados de la elección para diputados federales inmediata anterior;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+e) El tiempo establecido como derecho de los partidos políticos y, en su caso, de los candidatos independientes, se distribuirá entre los mismos conforme a lo siguiente: el setenta por ciento será distribuido entre los partidos políticos de acuerdo a los resultados de la elección para diputados federales inmediata anterior y el treinta por ciento restante será dividido en partes iguales, de las cuales, hasta una de ellas podrá ser asignada a los candidatos independientes en su conjunto;
 
 f) A cada partido político nacional sin representación en el Congreso de la Unión se le asignará para radio y televisión solamente la parte correspondiente al porcentaje igualitario establecido en el inciso anterior, y
 
-g) Con independencia de lo dispuesto en los apartados A y B de esta base y fuera de los periodos de precampañas y campañas electorales federales, al Instituto Federal Electoral le será asignado hasta el doce por ciento del tiempo total de que el Estado disponga en radio y televisión, conforme a las leyes y bajo cualquier modalidad; del total asignado, el Instituto distribuirá entre los partidos políticos nacionales en forma igualitaria un cincuenta por ciento; el tiempo restante lo utilizará para fines propios o de otras autoridades electorales, tanto federales como de las entidades federativas. Cada partido político nacional utilizará el tiempo que por este concepto le corresponda en un programa mensual de cinco minutos y el restante en mensajes con duración de veinte segundos cada uno. En todo caso, las transmisiones a que se refiere este inciso se harán en el horario que determine el Instituto conforme a lo señalado en el inciso d) del presente Apartado. En situaciones especiales el Instituto podrá disponer de los tiempos correspondientes a mensajes partidistas a favor de un partido político, cuando así se justifique.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+g) Con independencia de lo dispuesto en los apartados A y B de esta base y fuera de los períodos de precampañas y campañas electorales federales, al Instituto Nacional Electoral le será asignado hasta el doce por ciento del tiempo total de que el Estado disponga en radio y televisión, conforme a las leyes y bajo cualquier modalidad; del total asignado, el Instituto distribuirá entre los partidos políticos nacionales en forma igualitaria un cincuenta por ciento; el tiempo restante lo utilizará para fines propios o de otras autoridades electorales, tanto federales como de las entidades federativas. Cada partido político nacional utilizará el tiempo que por este concepto le corresponda en los formatos que establezca la ley. En todo caso, las transmisiones a que se refiere este inciso se harán en el horario que determine el Instituto conforme a lo señalado en el inciso d) del presente Apartado. En situaciones especiales, el Instituto podrá disponer de los tiempos correspondientes a mensajes partidistas a favor de un partido político, cuando así se justifique.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Los partidos políticos y los candidatos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
 Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio nacional de este tipo de mensajes contratados en el extranjero.
 
 Las disposiciones contenidas en los dos párrafos anteriores deberán ser cumplidas en el ámbito de los estados y el Distrito Federal conforme a la legislación aplicable.
 
-Apartado B. Para fines electorales en las entidades federativas, el Instituto Federal Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad de que se trate, conforme a lo siguiente y a lo que determine la ley:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Apartado B. Para fines electorales en las entidades federativas, el Instituto Nacional Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad de que se trate, conforme a lo siguiente y a lo que determine la ley:
 
 a) Para los casos de los procesos electorales locales con jornadas comiciales coincidentes con la federal, el tiempo asignado en cada entidad federativa estará comprendido dentro del total disponible conforme a los incisos a), b) y c) del apartado A de esta base;
 
 b) Para los demás procesos electorales, la asignación se hará en los términos de la ley, conforme a los criterios de esta base constitucional, y
 
-c) La distribución de los tiempos entre los partidos políticos, incluyendo a los de registro local, se realizará de acuerdo a los criterios señalados en el apartado A de esta base y lo que determine la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-Cuando a juicio del Instituto Federal Electoral el tiempo total en radio y televisión a que se refieren este apartado y el anterior fuese insuficiente para sus propios fines o los de otras autoridades electorales, determinará lo conducente para cubrir el tiempo faltante, conforme a las facultades que la ley le confiera.
+c) La distribución de los tiempos entre los partidos políticos, incluyendo a los de registro local, y los candidatos independientes se realizará de acuerdo con los criterios señalados en el apartado A de esta base y lo que determine la legislación aplicable.
 
-Apartado C. En la propaganda política o electoral que difundan los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Cuando a juicio del Instituto Nacional Electoral el tiempo total en radio y televisión a que se refieren este apartado y el anterior fuese insuficiente para sus propios fines, los de otras autoridades electorales o para los candidatos independientes, determinará lo conducente para cubrir el tiempo faltante, conforme a las facultades que la ley le confiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Apartado C. En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas.
 
 Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos de gobierno del Distrito Federal, sus delegaciones y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-Apartado D. Las infracciones a lo dispuesto en esta base serán sancionadas por el Instituto Federal Electoral mediante procedimientos expeditos, que podrán incluir la orden de cancelación inmediata de las transmisiones en radio y televisión, de concesionarios y permisionarios, que resulten violatorias de la ley.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-IV. La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales.
+Apartado D. El Instituto Nacional Electoral, mediante procedimientos expeditos en los términos de la ley, investigará las infracciones a lo dispuesto en esta base e integrará el expediente para someterlo al conocimiento y resolución del Tribunal Electoral del Poder Judicial de la Federación. En el procedimiento, el Instituto podrá imponer, entre otras medidas cautelares, la orden de suspender o cancelar de manera inmediata las transmisiones en radio y televisión, de conformidad con lo que disponga la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+IV. La ley establecerá los requisitos y las formas de realización de los procesos de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales.
 
 La duración de las campañas en el año de elecciones para Presidente de la República, senadores y diputados federales será de noventa días; en el año en que sólo se elijan diputados federales, las campañas durarán sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales.
 
 La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la ley.
 
-V. La organización de las elecciones federales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Federal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo de la Unión, los partidos políticos nacionales y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-El Instituto Federal Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección y se integrará por un consejero Presidente y ocho consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los partidos políticos y un Secretario Ejecutivo; la ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Una Contraloría General tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto. Las disposiciones de la ley electoral y del Estatuto que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo con los servidores del organismo público. Los órganos de vigilancia del padrón electoral se integrarán mayoritariamente por representantes de los partidos políticos nacionales. Las mesas directivas de casilla estarán integradas por ciudadanos.
+V. La organización de las elecciones es una función estatal que se realiza a través del Instituto Nacional Electoral y de los organismos públicos locales, en los términos que establece esta Constitución.
 
-El consejero Presidente durará en su cargo seis años y podrá ser reelecto una sola vez. Los consejeros electorales durarán en su cargo nueve años, serán renovados en forma escalonada y no podrán ser reelectos. Según sea el caso, uno y otros serán elegidos sucesivamente por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, a propuesta de los grupos parlamentarios, previa realización de una amplia consulta a la sociedad. De darse la falta absoluta del consejero Presidente o de cualquiera de los consejeros electorales, el sustituto será elegido para concluir el periodo de la vacante. La ley establecerá las reglas y el procedimiento correspondientes.
+Apartado A. El Instituto Nacional Electoral es un organismo público autónomo dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo de la Unión, los partidos políticos nacionales y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores.
 
-El consejero Presidente y los consejeros electorales no podrán tener otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados. La retribución que perciban será igual a la prevista para los Ministros de la Suprema Corte de Justicia de la Nación.
+El Instituto Nacional Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento, y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección y se integrará por un consejero Presidente y diez consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los partidos políticos y un Secretario Ejecutivo; la ley determinará las reglas para la organización y funcionamiento de los órganos, las relaciones de mando entre éstos, así como la relación con los organismos públicos locales. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para el ejercicio de sus atribuciones. Una Contraloría General tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto. Las disposiciones de la ley electoral y del Estatuto que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo con los servidores del organismo público. Los órganos de vigilancia del padrón electoral se integrarán mayoritariamente por representantes de los partidos políticos nacionales. Las mesas directivas de casilla estarán integradas por ciudadanos.
+
+Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
+
+El Instituto contará con una oficialía electoral investida de fé pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
+
+El consejero Presidente y los consejeros electorales durarán en su cargo nueve años y no podrán ser reelectos. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, mediante el siguiente procedimiento:
+
+a) La Cámara de Diputados emitirá el acuerdo para la elección del consejero Presidente y los consejeros electorales, que contendrá la convocatoria pública, las etapas completas para el procedimiento, sus fechas límites y plazos improrrogables, así como el proceso para la designación de un comité técnico de evaluación, integrado por siete personas de reconocido prestigio, de las cuales tres serán nombradas por el órgano de dirección política de la Cámara de Diputados, dos por la Comisión Nacional de los Derechos Humanos y dos por el organismo garante establecido en el artículo 6o. de esta Constitución;
+
+b) El comité recibirá la lista completa de los aspirantes que concurran a la convocatoria pública, evaluará el cumplimiento de los requisitos constitucionales y legales, así como su idoneidad para desempeñar el cargo; seleccionará a los mejor evaluados en una proporción de cinco personas por cada cargo vacante, y remitirá la relación correspondiente al órgano de dirección política de la Cámara de Diputados;
+
+c) El órgano de dirección política impulsará la construcción de los acuerdos para la elección del consejero Presidente y los consejeros electorales, a fin de que una vez realizada la votación por este órgano en los términos de la ley, se remita al Pleno de la Cámara la propuesta con las designaciones correspondientes;
+
+d) Vencido el plazo que para el efecto se establezca en el acuerdo a que se refiere el inciso a), sin que el órgano de dirección política de la Cámara haya realizado la votación o remisión previstas en el inciso anterior, o habiéndolo hecho, no se alcance la votación requerida en el Pleno, se deberá convocar a éste a una sesión en la que se realizará la elección mediante insaculación de la lista conformada por el comité de evaluación;
+
+e) Al vencimiento del plazo fijado en el acuerdo referido en el inciso a), sin que se hubiere concretado la elección en los términos de los incisos c) y d), el Pleno de la Suprema Corte de Justicia de la Nación realizará, en sesión pública, la designación mediante insaculación de la lista conformada por el comité de evaluación.
+
+De darse la falta absoluta del consejero Presidente o de cualquiera de los consejeros electorales durante los primeros seis años de su encargo, se elegirá un sustituto para concluir el período de la vacante. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
+
+El consejero Presidente y los consejeros electorales no podrán tener otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y los no remunerados que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
 
 El titular de la Contraloría General del Instituto será designado por la Cámara de Diputados con el voto de las dos terceras partes de sus miembros presentes a propuesta de instituciones públicas de educación superior, en la forma y términos que determine la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la presidencia del Consejo General y mantendrá la coordinación técnica necesaria con la entidad de fiscalización superior de la Federación.
 
 El Secretario Ejecutivo será nombrado con el voto de las dos terceras partes del Consejo General a propuesta de su Presidente.
 
-La ley establecerá los requisitos que deberán reunir para su designación el consejero presidente del Consejo General, los consejeros electorales, el Contralor General y el Secretario Ejecutivo del Instituto Federal Electoral; quienes hayan fungido como consejero Presidente, consejeros electorales y Secretario Ejecutivo no podrán ocupar, dentro de los dos años siguientes a la fecha de su retiro, cargos en los poderes públicos en cuya elección hayan participado.
+La ley establecerá los requisitos que deberán reunir para su designación el consejero Presidente del Consejo General, los consejeros electorales, el Contralor General y el Secretario Ejecutivo del Instituto Nacional Electoral. Quienes hayan fungido como consejero Presidente, consejeros electorales y Secretario Ejecutivo no podrán desempeñar cargos en los poderes públicos en cuya elección hayan participado, de dirigencia partidista, ni ser postulados a cargos de elección popular, durante los dos años siguientes a la fecha de conclusión de su encargo.
 
-Los consejeros del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en alguna de las Cámaras. Sólo habrá un Consejero por cada grupo parlamentario no obstante su reconocimiento en ambas Cámaras del Congreso de la Unión.
+Los consejeros del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en alguna de las Cámaras. Sólo habrá un consejero por cada grupo parlamentario no obstante su reconocimiento en ambas Cámaras del Congreso de la Unión.
 
-El Instituto Federal Electoral tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de diputados y senadores, cómputo de la elección de Presidente de los Estados Unidos Mexicanos en cada uno de los distritos electorales uninominales, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
+Apartado B. Corresponde al Instituto Nacional Electoral en los términos que establecen esta Constitución y las leyes:
 
-La fiscalización de las finanzas de los partidos políticos nacionales estará a cargo de un órgano técnico del Consejo General del Instituto Federal Electoral, dotado de autonomía de gestión, cuyo titular será designado por el voto de las dos terceras partes del propio Consejo a propuesta del consejero Presidente. La ley desarrollará la integración y funcionamiento de dicho órgano, así como los procedimientos para la aplicación de sanciones por el Consejo General. En el cumplimiento de sus atribuciones el órgano técnico no estará limitado por los secretos bancario, fiduciario y fiscal.
+a) Para los procesos electorales federales y locales:
 
-El órgano técnico será el conducto para que las autoridades competentes en materia de fiscalización partidista en el ámbito de las entidades federativas puedan superar la limitación a que se refiere el párrafo anterior.
+1. La capacitación electoral;
 
-El Instituto Federal Electoral asumirá mediante convenio con las autoridades competentes de las entidades federativas que así lo soliciten, la organización de procesos electorales locales, en los términos que disponga la legislación aplicable.
+2. La geografía electoral, así como el diseño y determinación de los distritos electorales y división del territorio en secciones electorales;
+
+3. El padrón y la lista de electores;
+
+4. La ubicación de las casillas y la designación de los funcionarios de sus mesas directivas;
+
+5. Las reglas, lineamientos, criterios y formatos en materia de resultados preliminares; encuestas o sondeos de opinión; observación electoral; conteos rápidos; impresión de documentos y producción de materiales electorales;
+
+6. La fiscalización de los ingresos y egresos de los partidos políticos y candidatos, y
+
+7. Las demás que determine la ley.
+
+b) Para los procesos electorales federales:
+
+1. Los derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
+
+2. La preparación de la jornada electoral;
+
+3. La impresión de documentos y la producción de materiales electorales;
+
+4. Los escrutinios y cómputos en los términos que señale la ley;
+
+5. La declaración de validez y el otorgamiento de constancias en las elecciones de diputados y senadores;
+
+6. El cómputo de la elección de Presidente de los Estados Unidos Mexicanos en cada uno de los distritos electorales uninominales, y
+
+7. Las demás que determine la ley.
+
+El Instituto Nacional Electoral asumirá mediante convenio con las autoridades competentes de las entidades federativas que así lo soliciten, la organización de procesos electorales locales, en los términos que disponga la legislación aplicable. A petición de los partidos políticos y con cargo a sus prerrogativas, en los términos que establezca la ley, podrá organizar las elecciones de sus dirigentes.
+
+La fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos estará a cargo del Consejo General del Instituto Nacional Electoral. La ley desarrollará las atribuciones del Consejo para la realización de dicha función, así como la definición de los órganos técnicos dependientes del mismo, responsables de realizar las revisiones e instruir los procedimientos para la aplicación de las sanciones correspondientes. En el cumplimiento de sus atribuciones, el Consejo General no estará limitado por los secretos bancario, fiduciario y fiscal, y contará con el apoyo de las autoridades federales y locales.
+
+En caso de que el Instituto Nacional Electoral delegue la función de fiscalización, su órgano técnico será el conducto para superar la limitación a que se refiere el párrafo anterior.
+
+Apartado C. En las entidades federativas las elecciones locales estarán a cargo de organismos públicos locales en los términos de esta Constitución, que ejercerán funciones en las siguientes materias:
+
+1. Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
+
+2. Educación cívica;
+
+3. Preparación de la jornada electoral;
+
+4. Impresión de documentos y la producción de materiales electorales;
+
+5. Escrutinios y cómputos en los términos que señale la ley;
+
+6. Declaración de validez y el otorgamiento de constancias en las elecciones locales;
+
+7. Cómputo de la elección del titular del poder ejecutivo;
+
+8. Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme a los lineamientos establecidos en el Apartado anterior;
+
+9. Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la legislación local;
+
+10. Todas las no reservadas al Instituto Nacional Electoral, y
+
+11. Las que determine la ley.
+
+En los supuestos que establezca la ley y con la aprobación de una mayoría de cuando menos ocho votos del Consejo General, el Instituto Nacional Electoral podrá:
+
+a) Asumir directamente la realización de las actividades propias de la función electoral que corresponden a los órganos electorales locales;
+
+b) Delegar en dichos órganos electorales las atribuciones a que se refiere el inciso a) del Apartado B de esta Base, sin perjuicio de reasumir su ejercicio directo en cualquier momento, o
+
+c) Atraer a su conocimiento cualquier asunto de la competencia de los órganos electorales locales, cuando su trascendencia así lo amerite o para sentar un criterio de interpretación.
+
+Corresponde al Instituto Nacional Electoral designar y remover a los integrantes del órgano superior de dirección de los organismos públicos locales, en los términos de esta Constitución.
+
+Apartado D. El Servicio Profesional Electoral Nacional comprende la selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina, de los servidores públicos de los órganos ejecutivos y técnicos del Instituto Nacional Electoral y de los organismos públicos locales de las entidades federativas en materia electoral. El Instituto Nacional Electoral regulará la organización y funcionamiento de este Servicio.
 
 VI. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos del artículo 99 de esta Constitución.
 
 En materia electoral la interposición de los medios de impugnación, constitucionales o legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+La ley establecerá el sistema de nulidades de las elecciones federales o locales por violaciones graves, dolosas y determinantes en los siguientes casos:
+
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+b) Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
 ### CAPITULO II.
 
@@ -1602,9 +1772,9 @@ La elección de los 200 diputados según el principio de representación proporc
 
 I. Un partido político, para obtener el registro de sus listas regionales, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doscientos distritos uninominales;
 
-> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-II. Todo partido político que alcance por lo menos el dos por ciento del total de la votación emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
+II. Todo partido político que alcance por lo menos el tres por ciento del total de la votación válida emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
 
 > <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -1646,7 +1816,9 @@ IV.- No estar en servicio activo en el Ejército Federal ni tener mando en la po
 
 V.- No ser titular de alguno de los organismos a los que esta Constitución otorga autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública federal, a menos que se separe definitivamente de sus funciones 90 días antes del día de la elección.
 
-No ser Ministro de la Suprema Corte de Justicia de la Nación, ni Magistrado, ni Secretario del Tribunal Electoral del Poder Judicial de la Federación, ni Consejero Presidente o Consejero Electoral en los consejos General, locales o distritales del Instituto Federal Electoral, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+No ser Ministro de la Suprema Corte de Justicia de la Nación, ni Magistrado, ni Secretario del Tribunal Electoral del Poder Judicial de la Federación, ni Consejero Presidente o consejero electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección.
 
 Los Gobernadores de los Estados y el Jefe de Gobierno del Distrito Federal no podrán ser electos en las entidades de sus respectivas jurisdicciones durante el periodo de su encargo, aun cuando se separen definitivamente de sus puestos.
 
@@ -1680,13 +1852,11 @@ Por cada senador propietario se elegirá un suplente.
 
 Para ser senador se requieren los mismos requisitos que para ser diputado, excepto el de la edad, que será la de 25 años cumplidos el día de la elección.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 ###### Art. 59.
 
-Los Senadores y Diputados al Congreso de la Unión no podrán ser reelectos para el período inmediato.
-
-Los Senadores y Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Senadores y Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+Los Senadores podrán ser electos hasta por dos periodos consecutivos y los Diputados al Congreso de la Unión hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
@@ -1732,11 +1902,13 @@ Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la le
 
 Los diputados y senadores que no concurran a una sesión, sin causa justificada o sin permiso de la Cámara respectiva, no tendrán derecho a la dieta correspondiente al día en que falten.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DÉCIMO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 ###### Art. 65.
 
-El Congreso se reunirá a partir del 1o. de septiembre de cada año, para celebrar un primer período de sesiones ordinarias y a partir del 1o. de febrero de cada año para celebrar un segundo período de sesiones ordinarias.
+El Congreso se reunirá a partir del 1o. de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, excepto cuando el Presidente de la República inicie su encargo en la fecha prevista en el artículo 83 de esta Constitución, en cuyo caso se reunirá a partir del 1o. de agosto; y a partir del 1o. de febrero para celebrar un segundo periodo de sesiones ordinarias.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
@@ -1772,7 +1944,15 @@ Las dos Cámaras residirán en un mismo lugar y no podrán trasladarse a otro si
 
 En la apertura de Sesiones Ordinarias del Primer Periodo de cada año de ejercicio del Congreso, el Presidente de la República presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública del país. En la apertura de las sesiones extraordinarias del Congreso de la Unión, o de una sola de sus cámaras, el Presidente de la Comisión Permanente informará acerca de los motivos o razones que originaron la convocatoria.
 
-Cada una de las Cámaras realizará el análisis del informe y podrá solicitar al Presidente de la República ampliar la información mediante pregunta por escrito y citar a los Secretarios de Estado, al Procurador General de la República y a los directores de las entidades paraestatales, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Cada una de las Cámaras realizará el análisis del informe y podrá solicitar al Presidente de la República ampliar la información mediante pregunta por escrito y citar a los Secretarios de Estado y a los directores de las entidades paraestatales, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+En el primer año de su mandato, en la apertura del segundo periodo de sesiones ordinarias del Congreso, el Presidente de la República presentará ante la Cámara de Senadores, para su aprobación, la Estrategia Nacional de Seguridad Pública e informará anualmente sobre el estado que guarde.
 
 ###### Art. 70.
 
@@ -1956,7 +2136,9 @@ XX.- Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerp
 
 XXI.- Para expedir:
 
-a) Las leyes generales en materias de secuestro y trata de personas, que establezcan como mínimo, los tipos penales y sus sanciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+a) Las leyes generales en materias de secuestro, trata de personas y delitos electorales, que establezcan como mínimo, los tipos penales y sus sanciones.
 
 Las leyes generales contemplarán también la distribución de competencias y las formas de coordinación entre la Federación, las entidades federativas, el Distrito Federal y los municipios;
 
@@ -2106,6 +2288,10 @@ XXIX-S.- Para expedir las leyes generales reglamentarias que desarrollen los pri
 
 XXIX-T.- Para expedir la ley general que establezca la organización y administración homogénea de los archivos en los órdenes federal, estatal, del Distrito Federal y municipal, que determine las bases de organización y funcionamiento del Sistema Nacional de Archivos.
 
+> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+XXIX-U. Para expedir las leyes generales que distribuyan competencias entre la Federación y las entidades federativas en materias de partidos políticos; organismos electorales, y procesos electorales, conforme a las bases previstas en esta Constitución.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
 XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
@@ -2122,7 +2308,11 @@ I.- Expedir el Bando Solemne para dar a conocer en toda la República la declara
 
 II.- Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la entidad de fiscalización superior de la Federación, en los términos que disponga la ley.
 
-III.- (DEROGADA, D.O.F. 30 DE JULIO DE 1999)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+III.- Ratificar el nombramiento que el Presidente de la República haga del Secretario del ramo en materia de Hacienda, salvo que se opte por un gobierno de coalición, en cuyo caso se estará a lo dispuesto en la fracción II del artículo 76 de esta Constitución; así como de los demás empleados superiores de Hacienda;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
@@ -2132,9 +2322,11 @@ IV.- Aprobar anualmente el Presupuesto de Egresos de la Federación, previo exam
 
 El Ejecutivo Federal hará llegar a la Cámara la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación a más tardar el día 8 del mes de septiembre, debiendo comparecer el secretario de despacho correspondiente a dar cuenta de los mismos. La Cámara de Diputados deberá aprobar el Presupuesto de Egresos de la Federación a más tardar el día 15 del mes de noviembre.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JULIO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DÉCIMO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-Cuando inicie su encargo en la fecha prevista por el artículo 83, el Ejecutivo Federal hará llegar a la Cámara la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación a más tardar el día 15 del mes de diciembre.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Cuando inicie su encargo en la fecha prevista por el artículo 83, el Ejecutivo Federal hará llegar a la Cámara la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos de la Federación a más tardar el día 15 del mes de noviembre.
 
 > <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
@@ -2170,7 +2362,11 @@ La Cámara concluirá la revisión de la Cuenta Pública a más tardar el 31 de 
 
 La Cámara de Diputados evaluará el desempeño de la entidad de fiscalización superior de la Federación y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
-VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1982)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+VII.- Aprobar el Plan Nacional de Desarrollo en el plazo que disponga la ley. En caso de que la Cámara de Diputados no se pronuncie en dicho plazo, el Plan se entenderá aprobado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -2198,9 +2394,11 @@ I.- Analizar la política exterior desarrollada por el Ejecutivo Federal con bas
 
 Además, aprobar los tratados internacionales y convenciones diplomáticas que el Ejecutivo Federal suscriba, así como su decisión de terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos.
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-II.- Ratificar los nombramientos que el mismo funcionario haga del Procurador General de la República, embajadores, cónsules generales, empleados superiores de Hacienda, integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía y competencia económica, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga;
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+II.- Ratificar los nombramientos que el mismo funcionario haga de los Secretarios de Estado, en caso de que éste opte por un gobierno de coalición, con excepción de los titulares de los ramos de Defensa Nacional y Marina; del Secretario de Relaciones; de los embajadores y cónsules generales; de los empleados superiores del ramo de Relaciones; de los integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía, competencia económica, y coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga;
 
 III.- Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
@@ -2230,15 +2428,23 @@ IX.- Nombrar y remover al Jefe del Distrito Federal en los supuestos previstos e
 
 X.- Autorizar mediante decreto aprobado por el voto de las dos terceras partes de los individuos presentes, los convenios amistosos que sobre sus respectivos límites celebren las entidades federativas.
 
-XI.- (DEROGADA, D.O.F. 15 DE OCTUBRE DE 2012)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+XI.- Aprobar la Estrategia Nacional de Seguridad Pública en el plazo que disponga la ley. En caso de que el Senado no se pronuncie en dicho plazo, ésta se entenderá aprobada;
 
 > <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
 XII.- Nombrar a los comisionados del organismo garante que establece el artículo 6o. de esta Constitución, en los términos establecidos por la misma y las disposiciones previstas en la ley; y
 
-(REUBICADA, D.O.F. 7 DE FEBRERO DE 2014)
+> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-XIII.- Las demás que la misma Constitución le atribuya.
+XIII.- Integrar la lista de candidatos a Fiscal General de la República; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo Federal, de conformidad con el artículo 102, Apartado A, de esta Constitución, y
+
+(REUBICADA, D.O.F. 10 DE FEBRERO DE 2014)
+
+XIV.- Las demás que la misma Constitución le atribuya.
 
 ###### Art. 77.
 
@@ -2280,7 +2486,7 @@ III. Resolver los asuntos de su competencia; recibir durante el receso del Congr
 
 IV. Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias. Cuando la convocatoria sea al Congreso General para que se erija en Colegio Electoral y designe presidente interino o substituto, la aprobación de la convocatoria se hará por mayoría;
 
-V. Otorgar o negar su ratificación a la designación del Procurador General de la República, que le someta el titular del Ejecutivo Federal;
+V. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2014)
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
@@ -2390,17 +2596,19 @@ IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
 V.- No estar en servicio activo, en caso de pertenecer al Ejército, seis meses antes del día de la elección;
 
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-VI.- No ser Secretario o subsecretario de Estado, Procurador General de la República, gobernador de algún Estado ni Jefe de Gobierno del Distrito Federal, a menos de que se separe de su puesto seis meses antes del día de la elección; y
+VI.- No ser Secretario o subsecretario de Estado, Fiscal General de la República, gobernador de algún estado ni Jefe de Gobierno del Distrito Federal, a menos de que se separe de su puesto seis meses antes del día de la elección; y
 
 VII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DÉCIMO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 ###### Art. 83.
 
-El Presidente entrará a ejercer su encargo el 1o. de diciembre y durará en él seis años. El ciudadano que haya desempeñado el cargo de Presidente de la República, electo popularmente, o con el carácter de interino o substituto, o asuma provisionalmente la titularidad del Ejecutivo Federal, en ningún caso y por ningún motivo podrá volver a desempeñar ese puesto.
+El Presidente entrará a ejercer su encargo el 1o. de octubre y durará en él seis años. El ciudadano que haya desempeñado el cargo de Presidente de la República, electo popularmente, o con el carácter de interino o sustituto, o asuma provisionalmente la titularidad del Ejecutivo Federal, en ningún caso y por ningún motivo podrá volver a desempeñar ese puesto.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
@@ -2408,7 +2616,9 @@ El Presidente entrará a ejercer su encargo el 1o. de diciembre y durará en él
 
 En caso de falta absoluta del Presidente de la República, en tanto el Congreso nombra al presidente interino o substituto, lo que deberá ocurrir en un término no mayor a sesenta días, el Secretario de Gobernación asumirá provisionalmente la titularidad del Poder Ejecutivo. En este caso no será aplicable lo establecido en las fracciones II, III y VI del artículo 82 de esta Constitución.
 
-Quien ocupe provisionalmente la Presidencia no podrá remover o designar a los Secretarios de Estado, ni al Procurador General de la República, sin autorización previa de la Cámara de Senadores. Asimismo, entregará al Congreso de la Unión un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Quien ocupe provisionalmente la Presidencia no podrá remover o designar a los Secretarios de Estado sin autorización previa de la Cámara de Senadores. Asimismo, entregará al Congreso de la Unión un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
 
 Cuando la falta absoluta del Presidente ocurriese en los dos primeros años del período respectivo, si el Congreso de la Unión se encontrase en sesiones y concurriendo, cuando menos, las dos terceras partes del número total de los miembros de cada Cámara, se constituirá inmediatamente en Colegio Electoral y nombrará en escrutinio secreto y por mayoría absoluta de votos, un presidente interino, en los términos que disponga la Ley del Congreso. El mismo Congreso expedirá, dentro de los diez días siguientes a dicho nombramiento, la convocatoria para la elección del Presidente que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de la jornada electoral, un plazo no menor de siete meses ni mayor de nueve. El así electo iniciará su encargo y rendirá protesta ante el Congreso siete días después de concluido el proceso electoral.
 
@@ -2470,6 +2680,18 @@ I.- Promulgar y ejecutar las leyes que expida el Congreso de la Unión, proveyen
 
 II.- Nombrar y remover libremente a los Secretarios de Estado, remover a los embajadores, cónsules generales y empleados superiores de Hacienda, y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Los Secretarios de Estado y los empleados superiores de Hacienda y de Relaciones entrarán en funciones el día de su nombramiento. Cuando no sean ratificados en los términos de esta Constitución, dejarán de ejercer su encargo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+En los supuestos de la ratificación de los Secretarios de Relaciones y de Hacienda, cuando no se opte por un gobierno de coalición, si la Cámara respectiva no ratificare en dos ocasiones el nombramiento del mismo Secretario de Estado, ocupará el cargo la persona que designe el Presidente de la República;
+
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
 III.- Nombrar, con aprobación del Senado, a los embajadores, cónsules generales, empleados superiores de Hacienda y a los integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía y competencia económica;
@@ -2490,9 +2712,9 @@ VII.- Disponer de la Guardia Nacional para los mismos objetos, en los términos 
 
 VIII.- Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley del Congreso de la Unión.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-IX.- Designar, con ratificación del Senado, al Procurador General de la República.
+IX.- Intervenir en la designación del Fiscal General de la República y removerlo, en términos de lo dispuesto en el artículo 102, Apartado A, de esta Constitución;
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -2516,7 +2738,13 @@ XV.- Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley r
 
 XVI.- Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer los nombramientos de que hablan las fracciones III, IV y IX, con aprobación de la Comisión Permanente.
 
-XVII.- (DEROGADA, D.O.F. 25 DE OCTUBRE DE 1993)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+XVII.- En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso de la Unión.
+
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de los miembros presentes de la Cámara de Senadores. El convenio establecerá las causas de la disolución del gobierno de coalición.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2538,6 +2766,14 @@ La Administración Pública Federal será centralizada y paraestatal conforme a 
 
 La (sic) leyes determinarán las relaciones entre las entidades paraestatales y el Ejecutivo Federal, o entre éstas y las Secretarías de Estado.
 
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+La función de Consejero Jurídico del Gobierno estará a cargo de la dependencia del Ejecutivo Federal que, para tal efecto, establezca la ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+El Ejecutivo Federal representará a la Federación en los asuntos en que ésta sea parte, por conducto de la dependencia que tenga a su cargo la función de Consejero Jurídico del Gobierno o de las Secretarías de Estado, en los términos que establezca la ley.
+
 ###### Art. 91.
 
 Para ser secretario del Despacho se requiere: ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
@@ -2554,9 +2790,9 @@ Todos los reglamentos, decretos, acuerdos y órdenes del Presidente deberán est
 
 Los Secretarios del Despacho, luego que esté abierto el periodo de sesiones ordinarias, darán cuenta al Congreso del estado que guarden sus respectivos ramos.
 
-> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-Cualquiera de las Cámaras podrá convocar a los Secretarios de Estado, al Procurador General de la República, a los directores y administradores de las entidades paraestatales, así como a los titulares de los órganos autónomos, para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
+Cualquiera de las Cámaras podrá convocar a los Secretarios de Estado, a los directores y administradores de las entidades paraestatales, así como a los titulares de los órganos autónomos, para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
 
 > <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
@@ -2662,9 +2898,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-VI.-No haber sido Secretario de Estado, Procurador General de la República o de Justicia del Distrito Federal, senador, diputado federal ni gobernador de algún Estado o Jefe del Distrito Federal, durante el año previo al día de su nombramiento.
+VI.- No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal ni gobernador de algún Estado o Jefe de Gobierno del Distrito Federal, durante el año previo al día de su nombramiento.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2748,11 +2984,19 @@ V. Las impugnaciones de actos y resoluciones que violen los derechos político e
 
 VI. Los conflictos o diferencias laborales entre el Tribunal y sus servidores;
 
-VII. Los conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores;
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-VIII. La determinación e imposición de sanciones por parte del Instituto Federal Electoral a partidos o agrupaciones políticas o personas físicas o morales, nacionales o extranjeras, que infrinjan las disposiciones de esta Constitución y las leyes, y
+VII. Los conflictos o diferencias laborales entre el Instituto Nacional Electoral y sus servidores;
 
-IX. Las demás que señale la ley.
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+VIII. La determinación e imposición de sanciones por parte del Instituto Nacional Electoral a partidos o agrupaciones políticas o personas físicas o morales, nacionales o extranjeras, que infrinjan las disposiciones de esta Constitución y las leyes;
+
+> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+IX. Los asuntos que el Instituto Nacional Electoral someta a su conocimiento por violaciones a lo previsto en la Base III del artículo 41 y párrafo octavo del artículo 134 de esta Constitución; a las normas sobre propaganda política y electoral, así como por la realización de actos anticipados de precampaña o de campaña, e imponer las sanciones que correspondan, y
+
+X. Las demás que señale la ley.
 
 Las salas del Tribunal Electoral harán uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
 
@@ -2844,29 +3088,41 @@ La infracción a lo previsto en los párrafos anteriores, será sancionada con l
 
 ###### Art. 102.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-A. La ley organizará el Ministerio Publico de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva. El Ministerio Público de la Federación estará presidido por un Procurador General de la República, designado por el Titular del Ejecutivo Federal con ratificación del Senado o, en sus recesos, de la Comisión Permanente. Para ser Procurador se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso. El procurador podrá ser removido libremente por el Ejecutivo.
+A. El Ministerio Público se organizará en una Fiscalía General de la República como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+Para ser Fiscal General de la República se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
 
-Incumbe al Ministerio Público de la Federación, la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
+El Fiscal General durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+I. A partir de la ausencia definitiva del Fiscal General, el Senado de la República contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Ejecutivo Federal.
 
-El Procurador General de la República intervendrá personalmente en las controversias y acciones a que se refiere el artículo 105 de esta Constitución.
+Si el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente al Senado una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+II. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Senado.
 
-En todos los negocios en que la Federación fuese parte; en los casos de los diplomáticos y los cónsules generales y en los demás en que deba intervenir el Ministerio Público de la Federación, el Procurador General lo hará por sí o por medio de sus agentes.
+III. El Senado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Senado tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I.
 
-El Procurador General de la República y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+Si el Senado no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+IV. El Fiscal General podrá ser removido por el Ejecutivo Federal por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Cámara de Senadores dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Senado no se pronuncia al respecto, se entenderá que no existe objeción.
 
-La función de consejero jurídico del Gobierno, estará a cargo de la dependencia del Ejecutivo Federal que, para tal efecto, establezca la ley.
+V. En los recesos del Senado, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General.
+
+VI. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+
+Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios federales en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+
+La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales y de combate a la corrupción, cuyos titulares serán nombrados y removidos por el Fiscal General de la República. El nombramiento y remoción de los fiscales especializados antes referidos podrán ser objetados por el Senado de la República por el voto de las dos terceras partes de los miembros presentes, en el plazo que fije la ley; si el Senado no se pronunciare en este plazo, se entenderá que no tiene objeción.
+
+La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo de la Unión un informe de actividades. Comparecerá ante cualquiera de las Cámaras cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+El Fiscal General de la República y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
 > <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 1999)</small>
 
@@ -2996,15 +3252,17 @@ a).- El equivalente al treinta y tres por ciento de los integrantes de la Cámar
 
 b).- El equivalente al treinta y tres por ciento de los integrantes del Senado, en contra de leyes federales o del Distrito Federal expedidas por el Congreso de la Unión o de tratados internacionales celebrados por el Estado Mexicano;
 
-c).- El Procurador General de la República, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Estado Mexicano;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-d).- El equivalente al treinta y tres por ciento de los integrantes de alguno de los órganos legislativos estatales, en contra de leyes expedidas por el propio órgano, y
+c) El Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, en contra de normas generales de carácter federal y de las entidades federativas;
+
+d).- El equivalente al treinta y tres por ciento de los integrantes de alguno de los órganos legislativos estatales, en contra de leyes expedidas por el propio órgano, y (sic)
 
 e).- El equivalente al treinta y tres por ciento de los integrantes de la Asamblea de Representantes del Distrito Federal, en contra de leyes expedidas por la propia Asamblea;
 
-> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-f).- Los partidos políticos con registro ante el Instituto Federal Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro estatal, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el órgano legislativo del Estado que les otorgó el registro.
+f) Los partidos políticos con registro ante el Instituto Nacional Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro estatal, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el órgano legislativo del Estado que les otorgó el registro;
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -3013,6 +3271,10 @@ g) La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácte
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
 h) El organismo garante que establece el artículo 6o. de esta Constitución en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren el derecho al acceso a la información pública y la protección de datos personales. Asimismo, los organismos garantes equivalentes en los estados de la República, en contra de leyes expedidas por las legislaturas locales y el órgano garante del Distrito Federal, en contra de leyes emitidas por la Asamblea Legislativa del Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+i) El Fiscal General de la República respecto de leyes federales y de las entidades federativas, en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones;
 
 > <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -3024,7 +3286,9 @@ Las leyes electorales federal y locales deberán promulgarse y publicarse por lo
 
 Las resoluciones de la Suprema Corte de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por una mayoría de cuando menos ocho votos.
 
-III.- De oficio o a petición fundada del correspondiente Tribunal Unitario de Circuito o del Procurador General de la República, podrá conocer de los recursos de apelación en contra de sentencias de Jueces de Distrito dictadas en aquellos procesos en que la Federación sea parte y que por su interés y trascendencia así lo ameriten.
+> <small>(REFORMADA D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+III.- De oficio o a petición fundada del correspondiente Tribunal Unitario de Circuito o del Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, así como del Fiscal General de la República en los asuntos en que intervenga el Ministerio Público, podrá conocer de los recursos de apelación en contra de sentencias de Jueces de Distrito dictadas en aquellos procesos en que la Federación sea parte y que por su interés y trascendencia así lo ameriten.
 
 La declaración de invalidez de las resoluciones a que se refieren las fracciones I y II de este artículo no tendrá efectos retroactivos, salvo en materia penal, en la que regirán los principios generales y disposiciones legales aplicables de esta materia.
 
@@ -3122,9 +3386,9 @@ En los juicios civiles del orden federal las sentencias podrán ser reclamadas e
 
 d).- En materia laboral, cuando se reclamen laudos dictados por las Juntas Locales o la Federal de Conciliación y Arbitraje, o por el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos directos que por su interés y trascendencia así lo ameriten.
+La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, del Fiscal General de la República, en los asuntos en que el Ministerio Público de la Federación sea parte, o del Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, podrá conocer de los amparos directos que por su interés y trascendencia así lo ameriten.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -3152,9 +3416,9 @@ a) Cuando habiéndose impugnado en la demanda de amparo normas generales por est
 
 b) Cuando se trate de los casos comprendidos en las fracciones II y III del artículo 103 de esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos en revisión, que por su interés y trascendencia así lo ameriten.
+La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, del Fiscal General de la República, en los asuntos en que el Ministerio Público de la Federación sea parte, o del Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, podrá conocer de los amparos en revisión, que por su interés y trascendencia así lo ameriten.
 
 > <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
@@ -3186,15 +3450,23 @@ XII.- La violación de las garantías de los artículos 16, en materia penal, 19
 
 Si el Juez de Distrito o el Tribunal Unitario de Circuito no residieren en el mismo lugar en que reside la autoridad responsable, la ley determinará el juez o tribunal ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
+XIII.- Cuando los Tribunales Colegiados de un mismo Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, el Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, los mencionados tribunales y sus integrantes, los Jueces de Distrito, las partes en los asuntos que los motivaron o el Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, podrán denunciar la contradicción ante el Pleno del Circuito correspondiente, a fin de que decida la tesis que debe prevalecer como jurisprudencia.
 
-XIII.- Cuando los Tribunales Colegiados de un mismo Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, el Procurador General de la República, los mencionados tribunales y sus integrantes, los Jueces de Distrito o las partes en los asuntos que los motivaron podrán denunciar la contradicción ante el Pleno del Circuito correspondiente, a fin de que decida la tesis que debe prevalecer como jurisprudencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Cuando los Plenos de Circuito de distintos Circuitos, los Plenos de Circuito en materia especializada de un mismo Circuito o los Tribunales Colegiados de un mismo Circuito con diferente especialización sustenten tesis contradictorias al resolver las contradicciones o los asuntos de su competencia, según corresponda, los Ministros de la Suprema Corte de Justicia de la Nación, los mismos Plenos de Circuito, así como los órganos a que se refiere el párrafo anterior, podrán denunciar la contradicción ante la Suprema Corte de Justicia, con el objeto de que el Pleno o la Sala respectiva, decida la tesis que deberá prevalecer.
 
-Cuando las Salas de la Suprema Corte de Justicia de la Nación sustenten tesis contradictorias en los juicios de amparo cuyo conocimiento les competa, los ministros, los Tribunales Colegiados de Circuito y sus integrantes, los Jueces de Distrito, el Procurador General de la República o las partes en los asuntos que las motivaron, podrán denunciar la contradicción ante el Pleno de la Suprema Corte, conforme a la ley reglamentaria, para que éste resuelva la contradicción.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Cuando las Salas de la Suprema Corte de Justicia de la Nación sustenten tesis contradictorias en los juicios de amparo cuyo conocimiento les competa, los ministros, los Tribunales Colegiados de Circuito y sus integrantes, los Jueces de Distrito, el Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, el Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, o las partes en los asuntos que las motivaron, podrán denunciar la contradicción ante el Pleno de la Suprema Corte, conforme a la ley reglamentaria, para que éste resuelva la contradicción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Las resoluciones que pronuncien el Pleno o las Salas de la Suprema Corte de Justicia así como los Plenos de Circuito conforme a los párrafos anteriores, sólo tendrán el efecto de fijar la jurisprudencia y no afectarán las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción;
 
@@ -3202,9 +3474,9 @@ Las resoluciones que pronuncien el Pleno o las Salas de la Suprema Corte de Just
 
 XIV.- (DEROGADA, D.O.F. 6 DE JUNIO DE 2011)
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-XV.- El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
+XV.- El Fiscal General de la República o el Agente del Ministerio Público de la Federación que al efecto designe, será parte en todos los juicios de amparo en los que el acto reclamado provenga de procedimientos del orden penal y aquéllos que determine la ley;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -3272,11 +3544,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Congreso de la Unión respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de juicio político los senadores y diputados al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los magistrados de Circuito y jueces de Distrito, los magistrados y jueces del Fuero Común del Distrito Federal, los Consejeros de la Judicatura del Distrito Federal, el consejero Presidente, los consejeros electorales, y el secretario ejecutivo del Instituto Federal Electoral, los magistrados del Tribunal Electoral, los comisionados del organismo garante establecido en el artículo 6o. constitucional, los directores generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
+Podrán ser sujetos de juicio político los senadores y diputados al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Fiscal General de la República, el Procurador General de Justicia del Distrito Federal, los magistrados de Circuito y jueces de Distrito, los magistrados y jueces del Fuero Común del Distrito Federal, los Consejeros de la Judicatura del Distrito Federal, el consejero Presidente, los consejeros electorales, y el secretario ejecutivo del Instituto Nacional Electoral, los magistrados del Tribunal Electoral, los integrantes de los órganos constitucionales autónomos, los directores generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
@@ -3298,11 +3570,11 @@ Conociendo de la acusación la Cámara de Senadores, erigida en Jurado de senten
 
 Las declaraciones y resoluciones de las Cámaras de Diputados y Senadores son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 ###### Art. 111.
 
-Para proceder penalmente contra los diputados y senadores al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los magistrados de la Sala Superior del Tribunal Electoral, los consejeros de la Judicatura Federal, los Secretarios de Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, así como el consejero Presidente, los consejeros electorales del Consejo General del Instituto Federal Electoral y los comisionados del organismo garante establecido en el artículo 6o. constitucional, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los diputados y senadores al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los magistrados de la Sala Superior del Tribunal Electoral, los consejeros de la Judicatura Federal, los Secretarios de Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Fiscal General de la República y el Procurador General de Justicia del Distrito Federal, así como el consejero Presidente y los consejeros electorales del Consejo General del Instituto Nacional Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -3376,17 +3648,21 @@ La ley señalará los casos de prescripción de la responsabilidad administrativ
 
 DE LOS ESTADOS DE LA FEDERACION Y DEL DISTRITO FEDERAL.
 
-> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 ###### Art. 115.
 
-Los Estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, conforme a las bases siguientes:
+Los estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, democrático, laico y popular, teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, conforme a las bases siguientes:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
 
 I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores y síndicos que la ley determine. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
-Los presidentes municipales, regidores y síndicos de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el periodo inmediato como propietarios a menos que hayan estado en ejercicio.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Las Constituciones de los estados deberán establecer la elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, por un período adicional, siempre y cuando el periodo del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 Las Legislaturas locales, por acuerdo de las dos terceras partes de sus integrantes, podrán suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la ley local prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacerlos (sic) alegatos que a su juicio convengan.
 
@@ -3397,6 +3673,8 @@ Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por s
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
 
 En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, las legislaturas de los Estados designarán de entre los vecinos a los Concejos Municipales que concluirán los períodos respectivos; estos Concejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 II.- Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
@@ -3430,15 +3708,23 @@ III.- Los Municipios tendrán a su cargo las funciones y servicios públicos sig
 
 a).- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 b).- Alumbrado público.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
 
 c).- Limpia, recolección, traslado, tratamiento y disposición final de residuos.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 d).- Mercados y centrales de abasto.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 e).- Panteones.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 f).- Rastro.
 
@@ -3449,6 +3735,8 @@ g).- Calles, parques y jardines y su equipamiento.
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
 
 h).- Seguridad pública, en los términos del artículo 21 de esta Constitución, policía preventiva municipal y tránsito; e
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 i).- Los demás que las Legislaturas locales determinen según las condiciones territoriales y socio-económicas de los Municipios, así como su capacidad administrativa y financiera.
 
@@ -3463,6 +3751,8 @@ Los Municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y as
 > <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
 
 Las comunidades indígenas, dentro del ámbito municipal, podrán coordinarse y asociarse en los términos y para los efectos que prevenga la ley.
+
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 IV.- Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que las legislaturas establezcan a su favor, y en todo caso:
 
@@ -3514,6 +3804,8 @@ i) Celebrar convenios para la administración y custodia de las zonas federales.
 
 En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de esta Constitución, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
+
 VI.- Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la ley federal de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JUNIO DE 2008)</small>
@@ -3562,11 +3854,13 @@ Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano po
 
 II.- El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
 
-Los diputados a las legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietario, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+Las Constituciones estatales deberán establecer la elección consecutiva de los diputados a las legislaturas de los Estados, hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-Las legislaturas de los Estados se integrarán con diputados elegidos según los principios de mayoría relativa y de representación proporcional, en los términos que señalen sus leyes.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+Las legislaturas de los Estados se integrarán con diputados electos, según los principios de mayoría relativa y de representación proporcional, en los términos que señalen sus leyes. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
 > <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
@@ -3602,43 +3896,91 @@ Los magistrados durarán en el ejercicio de su encargado (sic) el tiempo que se�
 
 Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-IV.- Las Constituciones y leyes de los Estados en materia electoral garantizarán que:
+IV.- De conformidad con las bases establecidas en esta Constitución y las leyes generales en la materia, las Constituciones y leyes de los Estados en materia electoral, garantizarán que:
 
-a) Las elecciones de los gobernadores, de los miembros de las legislaturas locales y de los integrantes de los ayuntamientos se realicen mediante sufragio universal, libre, secreto y directo; y que la jornada comicial tenga lugar el primer domingo de julio del año que corresponda. Los Estados cuyas jornadas electorales se celebren en el año de los comicios federales y no coincidan en la misma fecha de la jornada federal, no estarán obligados por esta última disposición;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-b) En el ejercicio de la función electoral, a cargo de las autoridades electorales, sean principios rectores los de certeza, imparcialidad, independencia, legalidad y objetividad;
+a) Las elecciones de los gobernadores, de los miembros de las legislaturas locales y de los integrantes de los ayuntamientos se realicen mediante sufragio universal, libre, secreto y directo; y que la jornada comicial tenga lugar el primer domingo de junio del año que corresponda. Los Estados cuyas jornadas electorales se celebren en el año de los comicios federales y no coincidan en la misma fecha de la jornada federal, no estarán obligados por esta última disposición;
 
-c) Las autoridades que tengan a su cargo la organización de las elecciones y las jurisdiccionales que resuelvan las controversias en la materia, gocen de autonomía en su funcionamiento e independencia en sus decisiones;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-d) Las autoridades electorales competentes de carácter administrativo puedan convenir con el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales;
+b) En el ejercicio de la función electoral, a cargo de las autoridades electorales, sean principios rectores los de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad;
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+c) Las autoridades que tengan a su cargo la organización de las elecciones y las jurisdiccionales que resuelvan las controversias en la materia, gocen de autonomía en su funcionamiento, e independencia en sus decisiones, conforme a lo siguiente y lo que determinen las leyes:
+
+1o. Los organismos públicos locales electorales contarán con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
+
+2o. El consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Los consejeros electorales estatales deberán ser originarios de la entidad federativa correspondiente o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley. En caso de que ocurra una vacante de consejero electoral estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de este artículo y la ley. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
+
+3o. Los consejeros electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley.
+
+4o. Los consejeros electorales estatales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+5o. Las autoridades electorales jurisdiccionales se integrarán por un número impar de magistrados, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley.
+
+6o. Los organismos públicos locales electorales contarán con servidores públicos investidos de fé pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
+
+7o. Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de esta Constitución, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+d) Las autoridades electorales competentes de carácter administrativo puedan convenir con el Instituto Nacional Electoral se haga cargo de la organización de los procesos electorales locales;
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2013)</small>
 
 e) Los partidos políticos sólo se constituyan por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo tengan reconocido el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2°., apartado A, fracciones III y VII, de esta Constitución.
 
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 f) Las autoridades electorales solamente puedan intervenir en los asuntos internos de los partidos en los términos que expresamente señalen;
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+El partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales;
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 g) Los partidos políticos reciban, en forma equitativa, financiamiento público para sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales. Del mismo modo se establezca el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes;
 
-h) Se fijen los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; y establezcan las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+h) Se fijen los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes;
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 i) Los partidos políticos accedan a la radio y la televisión, conforme a las normas establecidas por el apartado B de la base III del artículo 41 de esta Constitución;
 
-j) Se fijen las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. En todo caso, la duración de las campañas no deberá exceder de noventa días para la elección de gobernador, ni de sesenta días cuando sólo se elijan diputados locales o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-k) Se instituyan bases obligatorias para la coordinación entre el Instituto Federal Electoral y las autoridades electorales locales en materia de fiscalización de las finanzas de los partidos políticos, en los términos establecidos en los dos últimos párrafos de la base V del artículo 41 de esta Constitución;
+j) Se fijen las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. En todo caso, la duración de las campañas será de sesenta a noventa días para la elección de gobernador y de treinta a sesenta días cuando sólo se elijan diputados locales o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales;
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+k) Se regule el régimen aplicable a la postulación, registro, derechos y obligaciones de los candidatos independientes, garantizando su derecho al financiamiento público y al acceso a la radio y la televisión en los términos establecidos en esta Constitución y en las leyes correspondientes;
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 l) Se establezca un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Igualmente, que se señalen los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación;
 
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 m) Se fijen las causales de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales, y
 
-n) Se tipifiquen los delitos y determinen las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+n) Se verifique, al menos, una elección local en la misma fecha en que tenga lugar alguna de las elecciones federales;
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
+o) Se tipifiquen los delitos y determinen las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2013)</small>
 
-o) Se fijen las bases y requisitos para que en las elecciones los ciudadanos soliciten su registro como candidatos para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos del artículo 35 de esta Constitución.
+p) Se fijen las bases y requisitos para que en las elecciones los ciudadanos soliciten su registro como candidatos para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos del artículo 35 de esta Constitución.
 
 V.- Las Constituciones y leyes de los Estados podrán instituir Tribunales de lo Contencioso-Administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
@@ -3651,6 +3993,10 @@ Los Estados estarán facultados para celebrar esos convenios con sus Municipios,
 > <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
 VIII.- Las Constituciones de los Estados establecerán organismos autónomos, especializados, imparciales y colegiados, responsables de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6o. de esta Constitución y la ley general que emita el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
+
+> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
+IX.- Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
 
 ###### Art. 117.
 
@@ -3698,9 +4044,9 @@ III.- Hacer la guerra por sí a alguna potencia extranjera, exceptuándose los c
 
 Los Poderes de la Unión tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o transtorno (sic) interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
 
-> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-Cada Estado y el Distrito Federal están obligados a entregar sin demora a los indiciados, procesados o sentenciados, así como a practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra entidad federativa que los requiera. Estas diligencias se practicarán, con intervención de las respectivas procuradurías generales de justicia, en los términos de los convenios de colaboración que, al efecto, celebren las entidades federativas. Para los mismos fines, los Estados y el Distrito Federal podrán celebrar convenios de colaboración con el Gobierno Federal, quien actuará a través de la Procuraduría General de la República.
+Las entidades federativas están obligadas a entregar sin demora a los imputados o sentenciados, así como a practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra que los requiera. Estas diligencias se practicarán, con intervención de los respectivos órganos de procuración de justicia, en los términos de los convenios de colaboración que, al efecto, celebren las entidades federativas. Para los mismos fines, las autoridades locales podrán celebrar convenios de colaboración con la Fiscalía General de la República.
 
 > <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
@@ -3774,11 +4120,9 @@ I.- Los Diputados a la Asamblea Legislativa serán elegidos cada tres años por 
 
 II.- Los requisitos para ser diputado a la Asamblea no podrán ser menores a los que se exigen para ser diputado federal. Serán aplicables a la Asamblea Legislativa y a sus miembros en lo que sean compatibles, las disposiciones contenidas en los artículos 51, 59, 61, 62, 64 y 77, fracción IV de esta Constitución;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-III.- En la integración de la Asamblea Legislativa del Distrito Federal, invariablemente se observará el siguiente criterio:
-
-En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Asamblea, que exceda en ocho puntos a su porcentaje de votación total emitida en el Distrito Federal. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Asamblea, superior a la suma del porcentaje de su votación total emitida más el ocho por ciento;
+III.- En la integración de la Asamblea Legislativa del Distrito Federal invariablemente se observaran los criterios que establece el artículo 116, fracción II, párrafo tercero, de esta Constitución;
 
 IV.- Establecerá las fechas para la celebración de dos períodos de sesiones ordinarios al año y la integración y las atribuciones del órgano interno de gobierno que actuará durante los recesos. La convocatoria a sesiones extraordinarias será facultad de dicho órgano interno a petición de la mayoría de sus miembros o del Jefe de Gobierno del Distrito Federal;
 
@@ -6823,3 +7167,153 @@ OCTAVO. En tanto el Congreso de la Unión expide las reformas a las leyes respec
 NOVENO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto se sustanciarán ante el organismo garante que establece el artículo 6o. de esta Constitución, creado en los términos del presente Decreto.
 
 DÉCIMO. Los recursos financieros y materiales, así como los trabajadores adscritos al Instituto Federal de Acceso a la Información Pública y Protección de Datos Personales, se transferirán al organismo público autónomo creado. Los trabajadores que pasen a formar parte del nuevo organismo se seguirán rigiendo por el apartado B del artículo 123 de esta Constitución y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
+
+D.O.F. 10 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO.- El Congreso de la Unión deberá expedir las normas previstas en el inciso a) de la fracción XXI, y en la fracción XXIX-U del artículo 73 de esta Constitución, a más tardar el 30 de abril de 2014. Dichas normas establecerán, al menos, lo siguiente:
+
+I. La ley general que regule los partidos políticos nacionales y locales:
+
+a) Las normas, plazos y requisitos para su registro legal y su intervención en los procesos electorales federales y locales;
+
+b) Los derechos y obligaciones de sus militantes y la garantía de acceso a los órganos imparciales de justicia intrapartidaria;
+
+c) Los lineamientos básicos para la integración de sus órganos directivos; la postulación de sus candidatos y, en general, la conducción de sus actividades de forma democrática; así como la transparencia en el uso de los recursos;
+
+d) Los contenidos mínimos de sus documentos básicos;
+
+e) Los procedimientos y las sanciones aplicables al incumplimiento de sus obligaciones;
+
+f) El sistema de participación electoral de los partidos políticos a través de la figura de coaliciones, conforme a lo siguiente:
+
+1. Se establecerá un sistema uniforme de coaliciones para los procesos electorales federales y locales;
+
+2. Se podrá solicitar su registro hasta la fecha en que inicie la etapa de precampañas;
+
+3. La ley diferenciará entre coaliciones totales, parciales y flexibles. Por coalición total se entenderá la que establezcan los partidos políticos para postular a la totalidad de los candidatos en un mismo proceso electoral federal o local, bajo una misma plataforma electoral. Por coalición parcial se entenderá la que establezcan los partidos políticos para postular al menos el cincuenta por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma. Por coalición flexible se entenderá la que establezcan los partidos políticos para postular al menos el veinticinco por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma electoral;
+
+4. Las reglas conforme a las cuales aparecerán sus emblemas en las boletas electorales y las modalidades del escrutinio y cómputo de los votos;
+
+5. En el primer proceso electoral en el que participe un partido político, no podrá coaligarse, y
+
+g) Un sistema de fiscalización sobre el origen y destino de los recursos con los que cuenten los partidos políticos, las coaliciones y los candidatos, que deberá contener:
+
+1. Las facultades y procedimientos para que la fiscalización de los ingresos y egresos de los partidos políticos, las coaliciones y los candidatos se realice de forma expedita y oportuna durante la campaña electoral;
+
+2. Los lineamientos homogéneos de contabilidad, la cual deberá ser pública y de acceso por medios electrónicos;
+
+3. Los mecanismos por los cuales los partidos políticos, las coaliciones y las candidaturas independientes deberán notificar al órgano de fiscalización del Instituto Nacional Electoral, la información sobre los contratos que celebren durante las campañas o los procesos electorales, incluyendo la de carácter financiero y la relativa al gasto y condiciones de ejecución de los instrumentos celebrados. Tales notificaciones deberán realizarse previamente a la entrega de los bienes o la prestación de los servicios de que se trate;
+
+4. Las facultades del Instituto Nacional Electoral para comprobar el contenido de los avisos previos de contratación a los que se refiere el numeral anterior;
+
+5. Los lineamientos para asegurar la máxima publicidad de los registros y movimientos contables, avisos previos de contratación y requerimientos de validación de contrataciones emitidos por la autoridad electoral;
+
+6. La facultad de los partidos políticos de optar por realizar todos los pagos relativos a sus actividades y campañas electorales, por conducto del Instituto Nacional Electoral, en los términos que el mismo Instituto establezca mediante disposiciones de carácter general;
+
+7. La facultad de los partidos políticos de optar por realizar todos los pagos relativos a la contratación de publicidad exterior, por conducto del Instituto Nacional Electoral, y
+
+8. Las sanciones que deban imponerse por el incumplimiento de sus obligaciones.
+
+II. La ley general que regule los procedimientos electorales:
+
+a) La celebración de elecciones federales y locales el primer domingo de junio del año que corresponda, en los términos de esta Constitución, a partir del 2015, salvo aquellas que se verifiquen en 2018, las cuales se llevarán a cabo el primer domingo de julio;
+
+b) Los mecanismos de coordinación entre los órganos del Ejecutivo Federal en materia de inteligencia financiera y el Instituto Nacional Electoral, que permitan reportar a éste las disposiciones en efectivo que realice cualquier órgano o dependencia de la Federación, de las entidades federativas y de los municipios durante cualquier proceso electoral, cuando tales operaciones se consideren relevantes o inusuales de conformidad con los ordenamientos aplicables;
+
+c) Las reglas aplicables para transparentar el financiamiento, la metodología y los resultados de las encuestas que se difundan, relativas a las preferencias electorales, así como las fechas límite para llevar a cabo su difusión;
+
+d) Los términos en que habrán de realizarse debates de carácter obligatorio entre candidatos, organizados por las autoridades electorales; y las reglas aplicables al ejercicio de la libertad de los medios de comunicación para organizar y difundir debates entre candidatos a cualquier cargo de elección popular. La negativa a participar de cualquiera de los candidatos en ningún caso será motivo para la cancelación o prohibición del debate respectivo. La realización o difusión de debates en radio y televisión, salvo prueba en contrario, no se considerará como contratación ilegal de tiempos o como propaganda encubierta;
+
+e) Las modalidades y plazos de entrega de los materiales de propaganda electoral para efectos de su difusión en los tiempos de radio y televisión;
+
+f) Las sanciones aplicables a la promoción de denuncias frívolas. Para tales efectos se entenderá como denuncia frívola aquella que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
+
+g) La regulación de la propaganda electoral, debiendo establecer que los artículos promocionales utilitarios sólo podrán ser elaborados con material textil;
+
+h) Las reglas para garantizar la paridad entre géneros en candidaturas a legisladores federales y locales, e
+
+i) Las reglas, plazos, instancias y etapas procesales para sancionar violaciones en los procedimientos electorales.
+
+III. La ley general en materia de delitos electorales establecerá los tipos penales, sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación y las entidades federativas.
+
+TERCERO.- El Congreso de la Unión deberá expedir, durante el segundo periodo de sesiones ordinarias del segundo año de ejercicio de la LXII Legislatura, la ley que reglamente el párrafo octavo del artículo 134 de esta Constitución, la que establecerá las normas a que deberán sujetarse los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y de cualquier otro ente de los tres órdenes de gobierno, y que garantizará que el gasto en comunicación social cumpla con los criterios de eficiencia, eficacia, economía, transparencia y honradez, así como que respete los topes presupuestales, límites y condiciones de ejercicio que establezcan los presupuestos de egresos respectivos.
+
+CUARTO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 35; 41; 54; 55; 99; 105 fracción II inciso f); 110 y 111 por lo que hace a la denominación del Instituto Nacional Electoral, y 116, fracción IV, de esta Constitución, entrarán en vigor en la misma fecha en que lo hagan las normas a que se refiere el Transitorio Segundo anterior, sin perjuicio de lo previsto en el transitorio Quinto siguiente.
+
+La adición del cuarto párrafo a la base I del artículo 41 de esta Constitución, relativa al porcentaje de votación necesaria para que los partidos políticos conserven su registro, entrará en vigor al día siguiente de la publicación del presente Decreto.
+
+Las reformas a que se refiere el primer párrafo del presente transitorio, respecto de entidades federativas que tengan procesos electorales en 2014, entrarán en vigor una vez que hayan concluido dichos procesos.
+
+QUINTO.- El Instituto Nacional Electoral deberá integrarse dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto y comenzará a ejercer sus atribuciones a partir de que entren en vigor las normas previstas en el Transitorio Segundo anterior. En caso de que a la fecha de integración del Instituto Nacional Electoral no hubieren entrado en vigor las normas previstas en el Transitorio Segundo anterior, dicho Instituto ejercerá las atribuciones que las leyes vigentes otorgan al Instituto Federal Electoral.
+
+Con el objeto de asegurar el escalonamiento en el cargo de los integrantes del Consejo General del Instituto Nacional Electoral, el comité de evaluación a que se refiere el inciso a) del párrafo quinto del Apartado A de la Base V del artículo 41, que se reforma por virtud del presente Decreto, deberá remitir a la Cámara de Diputados para su trámite en procesos separados, conforme a lo previsto en el referido párrafo:
+
+a) Tres listas para cubrir la elección de cada uno de los tres consejeros que durarán en su encargo tres años;
+
+b) Cuatro listas para cubrir la elección de cada uno de los cuatro consejeros que durarán en su encargo seis años;
+
+c) Tres listas para cubrir la elección de cada uno de los tres consejeros que durarán en su encargo nueve años, y
+
+d) Una lista para cubrir la elección del Presidente que durará en su encargo nueve años.
+
+Los consejeros del Instituto Federal Electoral que se encuentren en funciones al inicio del procedimiento de selección para la integración del Instituto Nacional Electoral, podrán participar en dicho proceso.
+
+SEXTO.- Una vez integrado y a partir de que entren en vigor las normas previstas en el Transitorio Segundo anterior, el Instituto Nacional Electoral deberá expedir los lineamientos para garantizar la incorporación de todos los servidores públicos del Instituto Federal Electoral y de los organismos locales en materia electoral, al Servicio Profesional Electoral Nacional, así como las demás normas para su integración total.
+
+SÉPTIMO.- Los recursos humanos, presupuestales, financieros y materiales del Instituto Federal Electoral, pasarán a formar parte del Instituto Nacional Electoral una vez que quede integrado en términos del Transitorio Quinto anterior; sin menoscabo de los derechos laborales.
+
+OCTAVO.- Una vez integrado el Instituto Nacional Electoral y a partir de que entren en vigor las normas previstas en el Transitorio Segundo anterior, las funciones correspondientes a la capacitación electoral, así como la ubicación de las casillas y la designación de funcionarios de la mesa directiva, en los procesos electorales locales, se entenderán delegadas a los organismos públicos locales.
+
+En este caso, el Instituto Nacional Electoral podrá reasumir dichas funciones, por mayoría del Consejo General.
+
+La delegación y reasunción posteriores de estas atribuciones se someterá a lo dispuesto en la Base V, Apartado C del artículo 41 de esta Constitución.
+
+NOVENO.- El Consejo General del Instituto Nacional Electoral designará a los nuevos consejeros de los organismos locales en materia electoral, en términos de lo dispuesto por el inciso c) de la fracción IV del artículo 116 de esta Constitución. Los actuales consejeros continuarán en su encargo hasta en tanto se realicen las designaciones a que se refiere el presente Transitorio. El Consejo General llevará a cabo los procedimientos para que el nombramiento de los consejeros electorales se verifique con antelación al siguiente proceso electoral posterior a la entrada en vigor de este Decreto.
+
+DÉCIMO.- Los Magistrados de los órganos jurisdiccionales locales en materia electoral, que se encuentren en funciones a la entrada en vigor de las normas previstas en el Transitorio Segundo, continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos, en los términos previstos por la fracción IV, inciso c), del artículo 116 de esta Constitución. El Senado de la República llevará a cabo los procedimientos para que el nombramiento de los magistrados electorales se verifique con antelación al inicio del siguiente proceso electoral local posterior a la entrada en vigor de este Decreto.
+
+Los magistrados a que se refiere el párrafo anterior serán elegibles para un nuevo nombramiento.
+
+DÉCIMO PRIMERO.- La reforma al artículo 59 de esta Constitución será aplicable a los diputados y senadores que sean electos a partir del proceso electoral de 2018.
+
+DÉCIMO SEGUNDO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 69, párrafo tercero; 74, fracciones III y VII; 76, fracciones II y XI; 89, fracción II, párrafos segundo y tercero, y fracción XVII, entrarán en vigor el 1o. de diciembre de 2018.
+
+DÉCIMO TERCERO.- La reforma al artículo 116 de esta Constitución en materia de reelección de diputados locales, así como a diputados a la Asamblea Legislativa del Distrito Federal, no será aplicable a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+DÉCIMO CUARTO.- La reforma al artículo 115 de esta Constitución en materia de reelección de presidentes municipales, regidores y síndicos no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+DÉCIMO QUINTO.- Las reformas a los artículos 65; 74, fracción IV y 83 de esta Constitución entrarán en vigor el 1o. de diciembre de 2018, por lo que el período presidencial comprendido entre los años 2018 y 2024 iniciará el 1o. de diciembre de 2018 y concluirá el 30 de septiembre de 2024.
+
+DÉCIMO SEXTO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 28; 29, párrafo primero; 69, párrafo segundo; 76, fracciones II, por lo que se refiere a la supresión de la ratificación del Procurador General de la República por el Senado y XII; 78, fracción V; 82, fracción VI; 84; 89, fracción IX; 90; 93, párrafo segundo; 95; 102, Apartado A; 105, fracciones II, incisos c) e i) y III; 107; 110 y 111 por lo que se refiere al Fiscal General de la República; 116, fracción IX y 119, párrafo primero de esta Constitución, entrarán en vigor en la misma fecha en que lo hagan las normas secundarias que expida el Congreso de la Unión necesarias por virtud de las adiciones, reformas y derogaciones a que se refiere el presente Transitorio, siempre que se haga por el propio Congreso la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General de la República.
+
+El Procurador General de la República que se encuentre en funciones al momento de expedirse la declaratoria a que se refiere el párrafo anterior, quedará designado por virtud de este Decreto Fiscal General de la República por el tiempo que establece el artículo 102, Apartado A, de esta Constitución, sin perjuicio del procedimiento de remoción previsto en la fracción IV de dicho artículo.
+
+DÉCIMO SÉPTIMO.- Una vez que entren en vigor las disposiciones de este Decreto referidas en el Transitorio anterior, se procederá de la siguiente forma:
+
+I.- Los asuntos en los que la Procuraduría General de la República ejerza la representación de la Federación, así como aquellos en que haya ejercitado acciones de inconstitucionalidad en casos distintos a los previstos en el inciso i) de la fracción II, del artículo 105 de esta Constitución que se adiciona por virtud de este Decreto, que se encuentren en trámite a la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior, deberán remitirse dentro de los veinte días hábiles siguientes a la dependencia del Ejecutivo Federal que realiza la función de Consejero Jurídico del Gobierno.
+
+Los procedimientos señalados en el párrafo que antecede se suspenderán por un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior; en cada caso, la suspensión será decretada de oficio por los órganos jurisdiccionales ante los cuales se desahoguen dichos procedimientos, y
+
+II.- Los recursos humanos, financieros y materiales que la Procuraduría General de la República destine para la atención y desahogo de los procedimientos a que se refiere la fracción anterior, serán transferidos a la dependencia que realice las funciones de Consejero Jurídico del Gobierno. Los titulares de ambos órganos realizarán las previsiones necesarias para que dichos recursos queden transferidos el mismo día en que entren en vigor las disposiciones señaladas en el Transitorio anterior.
+
+DÉCIMO OCTAVO.- A partir de la entrada en vigor del presente Decreto el Senado nombrará por dos terceras partes de sus miembros presentes al titular de la Fiscalía Especializada en Atención de Delitos Electorales de la Procuraduría General de la República. El Ejecutivo Federal podrá objetar dicho nombramiento, en cuyo caso se procederá a un nuevo nombramiento en los términos de este párrafo.
+
+En el plazo de treinta días a partir de la entrada en vigor de este Decreto, el Procurador General de la República expedirá el acuerdo de creación de la fiscalía especializada en materia de delitos relacionados con hechos de corrupción, cuyo titular será nombrado por el Senado en los términos del párrafo anterior.
+
+Los titulares de las fiscalías nombrados en términos del presente transitorio durarán en su encargo hasta el treinta de noviembre de dos mil dieciocho, sin perjuicio de que puedan ser removidos libremente por el Procurador General de la República o, en su caso, del Fiscal General de la República. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Cámara de Senadores dentro de un plazo de diez días hábiles, en cuyo caso el titular de la fiscalía de que se trate, será restituido en el ejercicio de sus funciones.
+
+DÉCIMO NOVENO.- A partir de la entrada en vigor de las reformas a que se refiere el transitorio Décimo Sexto anterior, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de la República pasarán al órgano autónomo que el propio Decreto establece.
+
+VIGÉSIMO.- La reforma al artículo 26 de esta Constitución entrará en vigor al día siguiente de la publicación del presente Decreto.
+
+El Consejo General del Consejo Nacional para la Evaluación de la Política de Desarrollo Social deberá integrarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto. Para dicho efecto, se deberán elegir dos consejeros por un periodo de dos años, dos por un periodo de tres años, dos por un periodo de cuatro años y un consejero presidente por un periodo de cuatro años. En caso de que en el plazo referido no quede integrado el órgano constitucional referido y hasta su integración, continuará en sus funciones el organismo descentralizado denominado Consejo Nacional para la Evaluación de la Política de Desarrollo Social.
+
+Con excepción del Secretario de Desarrollo Social, los integrantes del Comité Directivo del organismo descentralizado referido en el párrafo anterior, que se encuentren en funciones a la entrada en vigor del presente Decreto, podrán ser considerados para integrar el nuevo órgano autónomo que se crea.
+
+El Congreso de la Unión deberá expedir la ley que regirá al órgano autónomo denominado Consejo Nacional para la Evaluación de la Política de Desarrollo Social, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto.
+
+En tanto el Congreso de la Unión expide la Ley a que se refiere el párrafo anterior, el Consejo Nacional para la Evaluación de la Política de Desarrollo Social que se crea por virtud del presente Decreto, una vez instalado, ejercerá sus atribuciones y competencias conforme a lo dispuesto en el mismo y en el Decreto por el que se regula el Consejo Nacional de Evaluación de la Política de Desarrollo Social, publicado en el Diario Oficial de la Federación el 24 de agosto de 2005.
+
+VIGÉSIMO PRIMERO.- Los Consejeros del Instituto Federal Electoral que a la entrada en vigor del presente Decreto se encuentren en funciones, continuarán en su encargo hasta que se integre el Instituto Nacional Electoral, en términos de lo previsto por el Quinto Transitorio del presente Decreto; por lo que los actos jurídicos emitidos válidamente por el Instituto Federal Electoral en los términos de la legislación vigente, surtirán todos sus efectos legales.
