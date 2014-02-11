@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-6617
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-23"
-last_updated: "2009-01-23"
+last_updated: "2014-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE SAN FELIPE DEL PROGRESO, ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE SAN FELIPE DEL PROGRESO
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE SAN FELIPE DEL PROGRESO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 23 de enero de 2009.
 
@@ -111,7 +111,9 @@ V. Integrar el Consejo Consultivo Académico, de acuerdo con lo dispuesto por el
 
 VI. Coordinar y, en su caso, validar las actividades culturales y deportivas del Tecnológico, así como las relativas a la vinculación de éste con otros sectores.
 
-VII. Coordinar y supervisar el funcionamiento de las Unidades de Estudios Superiores y, en su caso, disponer las acciones para el cumplimiento de sus objetivos.
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
+
+VII. Cumplir con las disposiciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en términos de la normatividad aplicable.
 
 VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones.
 
@@ -127,6 +129,8 @@ XIII. Resolver las dudas que se susciten con motivo de la interpretación o apli
 
 XIV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta Directiva.
 
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 12.
 
 Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Director se auxiliará de las unidades administrativas básicas siguientes:
@@ -135,29 +139,33 @@ I. Subdirección Académica.
 
 II. Subdirección de Planeación y Administración.
 
-III. División de Ingeniería Civil.
+III. Subdirección de Vinculación y Extensión.
 
-IV. División de Licenciatura en Informática.
+IV. División de Ingeniería Civil.
 
-V. División de Ingeniería Química.
+V. División de Ingeniería Informática.
 
-VI. Departamento de Vinculación y Actividades Culturales y Deportivas.
+VI. División de Ingeniería Química.
+
+VII. División de Contaduría Pública.
+
+VIII. Unidad Jurídica.
 
 El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
 
-El Tecnológico podrá contar con unidades administrativas desconcentradas, denominadas Unidades de Estudios Superiores, las cuales se ubicarán en los municipios que determine la Junta Directiva y tendrán por objeto instrumentar programas académicos y de investigación correspondientes al Organismo.
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE FEBRERO DE 2014)</small>
 
-Las Unidades de Estudios Superiores se adscribirán directamente al Director y sus funciones se establecerán en el Manual General de Organización del Tecnológico.
+### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LOS SUBDIRECTORES, JEFES DE DIVISIÓN Y DE UNIDAD
 
-### CAPÍTULO III. DE LOS SUBDIRECTORES Y JEFES DE DIVISIÓN Y DE DEPARTAMENTO
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 13.
 
-Al frente de cada Subdirección, División y Departamento habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la estructura orgánica y el presupuesto autorizado al Tecnológico.
+Al frente de cada Subdirección, División y Unidad habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la estructura orgánica y el presupuesto autorizado al Tecnológico.
 
 ###### Artículo 14.
 
-Corresponde a los Subdirectores, Jefes de División y de Departamento:
+Corresponde a los Subdirectores, Jefes de División y de Unidad:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -187,21 +195,33 @@ XIII. Desempeñar las comisiones que les encomiende el Director e informarle sob
 
 XIV. Expedir constancias o copias certificadas de los documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia.
 
-XV. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende su superior inmediato.
+> <small>(ADICIONADA, G.G. 11 DE FEBRERO DE 2014)</small>
 
-### CAPÍTULO IV. DE LAS SUBDIRECCIONES Y DE LA ADSCRIPCIÓN DE LAS DIVISIONES Y DEL DEPARTAMENTO
+XV. Cumplir en el ámbito de su competencia, las disposiciones en materia de transparencia y acceso a la información pública y protección de base de datos personales.
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
+
+XVI. Las demás que les señalan otras disposiciones legales y aquellas que les encomiende su superior inmediato.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE FEBRERO DE 2014)</small>
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBDIRECCIONES
 
 ###### Artículo 15.
 
 Corresponde a la Subdirección Académica coordinar, dirigir, controlar y evaluar los planes y programas académicos y de investigación a cargo del Tecnológico, así como los servicios escolares y de desarrollo académico.
 
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2014)</small>
+
 Quedan adscritas a la Subdirección Académica:
 
-I División de Ingeniería Civil.
+División de Ingeniería Civil.
 
-II. División de Licenciatura en Informática.
+División de Ingeniería Informática.
 
-III. División de Ingeniería Química.
+División de Ingeniería Química.
+
+División de Contaduría Pública
 
 ###### Artículo 16.
 
@@ -275,11 +295,33 @@ XXIV. Integrar y promover la permanente actualización de los manuales administr
 
 XV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
 
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 18.
 
-El Departamento de Vinculación y Actividades Culturales y Deportivas quedará adscrito directamente a la Dirección del Tecnológico.
+Corresponde a la Subdirección de Vinculación y Extensión:
 
-### CAPÍTULO V. DE LAS DIVISIONES Y DEL DEPARTAMENTO
+I. Elaborar el programa de vinculación y extensión académica del Tecnológico y someterlo a la consideración del Director.
+
+II. Promover la participación de los sectores social y privado de la región en las comisiones académicas responsables de elaborar y actualizar los planes y programas de estudio del Tecnológico.
+
+III. Promover la realización de estudios orientados a detectar las necesidades de actualización y capacitación de los profesionistas del sector privado y, en su caso, dar respuesta a sus necesidades de educación continua y a distancia.
+
+IV. Proponer al Director la celebración de acuerdos y convenios con productores de bienes o prestadores de servicios, a fin de apoyar la realización de residencias profesionales.
+
+V. Establecer, en coordinación con el sector empresarial, mecanismos para otorgar asesorías permanentes a los estudiantes, profesores e investigadores del Tecnológico, sobre el desarrollo de tecnologías industriales.
+
+VI. Programar, dirigir y difundir las actividades culturales, recreativas y deportivas del Tecnológico, así como realizar la publicación de su obra editorial.
+
+VII. Promover y organizar, previa autorización del Director, conferencias, seminarios, exposiciones, concursos y demás actividades que contribuyan a la formación profesional de los estudiantes del Tecnológico.
+
+VIII. Promover entre los alumnos del Tecnológico la realización del servicio social y residencia profesional y fomentar que éstas contribuyan a su formación educativa.
+
+IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE FEBRERO DE 2014)</small>
+
+### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIVISIONES Y UNIDAD JURÍDICA
 
 ###### Artículo 19.
 
@@ -319,31 +361,31 @@ XVI. Vigilar el desempeño del personal docente adscrito a la División a su car
 
 XVII. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende el Subdirector Académico y el Director.
 
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 20.
 
-Corresponde al Departamento de Vinculación y Actividades Culturales y Deportivas:
+Corresponde a la Unidad Jurídica:
 
-I. Establecer mecanismos de coordinación y cooperación con los sectores público, social y privado para el mejor cumplimiento de los programas académicos del Tecnológico y el beneficio comunitario.
+I. Representar al Tecnológico en los asuntos jurídicos en los que sea parte, previo mandato que al efecto le otorgue el Director y realizar el oportuno seguimiento a los procedimientos hasta su conclusión;
 
-II. Promover, en coordinación con la Subdirección Académica, la colocación de egresados del Tecnológico en el mercado laboral.
+II. Revisar y, en su caso, formular los proyectos de ordenamientos jurídicos que regulen la organización y el funcionamiento del Tecnológico y someterlos a la consideración de la Dirección;
 
-III. Integrar, coordinar y evaluar los programas de vinculación del Tecnológico, de conformidad con las atribuciones, estrategias y prioridades del Organismo.
+III. Asesorar jurídicamente a los servidores públicos del Tecnológico en asuntos relacionados con sus funciones;
 
-IV. Promover que los programas de estudio del Tecnológico se vinculen con los requerimientos del sector productivo.
+IV. Atender y promover las demandas, amparos, juicios, citatorios y demás requerimientos de autoridades diversas, que se emitan o se instauren con relación y en contra del Tecnológico y su personal, a fin de proteger el interés jurídico y patrimonio del mismo;
 
-V. Impulsar y organizar, previa autorización del Director, la realización de eventos que contribuyan a la formación profesional de los estudiantes del Tecnológico.
+V. Tramitar la legalización, regularización y registro de los bienes inmuebles que conformen el patrimonio del Tecnológico;
 
-VI. Llevar a cabo la promoción y difusión de los servicios que ofrece el Tecnológico.
+VI. Formular y opinar sobre los contratos, convenios y demás instrumentos jurídicos que pretenda celebrar el Tecnológico;
 
-VII. Programar, organizar, coordinar y evaluar las actividades culturales y deportivas del Tecnológico, que contribuyan a la formación de los estudiantes.
+VII. Registrar y organizar los documentos que acrediten el origen de la propiedad y posesión de los bienes inmuebles destinados al servicio del Tecnológico;
 
-VIII. Gestionar ante instituciones públicas, sociales y privadas, el otorgamiento de becas a los estudiantes y profesores del Tecnológico.
+VIII. Compilar y difundir los ordenamientos jurídicos relacionados con el funcionamiento del Tecnológico;
 
-IX. Coordinar, con la participación de los sectores público, social y privado, la realización del servicio social y residencias profesionales de los estudiantes del Tecnológico.
+IX. Realizar trámites que se requieran para el registro legal de patentes y derechos de autor que tenga el Tecnológico; y
 
-X. Integrar el Programa Editorial del Tecnológico y someterlo a la consideración del Director para su validación.
-
-XI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
+X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
 
 ### CAPÍTULO VI. DEL CONSEJO CONSULTIVO ACADÉMICO
 
@@ -422,3 +464,13 @@ LIC. HÉCTOR JIMÉNEZ BACA
 DIRECTOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE SAN FELIPE DEL PROGRESO Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 11 DE FEBRERO DE 2014.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo
