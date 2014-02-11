@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2013-08-08"
+last_updated: "2014-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE FEBRERO DE 2014.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -6260,11 +6260,11 @@ En los juicios en que la sentencia definitiva sea apelable, la revocación es pr
 
 En aquellos casos en que la sentencia no sea apelable, la revocación será procedente contra todo tipo de resoluciones con excepción de la definitiva. En todo caso, debe interponerse por escrito dentro de los tres días siguientes a la notificación, pudiéndose resolver de plano por el juez, o dar vista a la contraria por un término igual y la resolución deberá pronunciarse dentro del quinto día. En contra de esta resolución no se admitirá ningún recurso.
 
-> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 2014)</small>
 
-ARTICULO 685 BIS
+###### ARTICULO 685 Bis.
 
-Únicamente podrán recurrirse las resoluciones que recaigan en vía incidental respecto del o los convenios presentados; la que declare la disolución del vínculo matrimonial es inapelable.
+La resolución que declare la disolución del vínculo matrimonial es inapelable, pero sí podrán impugnarse las resoluciones que recaigan respecto del o los convenios presentados durante el juicio; de tal manera que, son apelables los autos y sentencias interlocutorias que se dicten después de decretada la disolución del vínculo matrimonial, y son revocables las determinaciones de trámite emitidas durante el procedimiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -10607,3 +10607,9 @@ El presente decreto entrará en vigor el día siguiente de su publicación en la
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
+
+G.O. 11 DE FEBRERO DE 2014.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
