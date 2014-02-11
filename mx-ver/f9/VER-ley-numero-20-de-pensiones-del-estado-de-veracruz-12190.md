@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-20-de-pensiones-del-estado-de-veracruz-12190"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-09"
-last_updated: "2009-02-11"
+last_updated: "2014-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 20 DE PENSIONES DEL ESTADO DE VERACRUZ
 
-LEY NUMERO 20 DE PENSIONES DEL ESTADO DE VERACRUZ
+LEY NÚMERO 20 DE PENSIONES DEL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el sábado 9 de noviembre de 1996.
 
@@ -1025,9 +1025,11 @@ Cuando se establezca la responsabilidad pecuniaria a cargo del trabajador y a fa
 
 El Instituto tomará las medidas pertinentes en contra de quienes indebidamente aprovechen o hagan uso de los derechos o beneficios establecidos por esta ley, y ejercitará ante la autoridad competente las acciones que correspondan, presentará las denuncias, formulará las querellas y realizará todos los actos y gestiones que legalmente procedan, así como en contra de cualquiera que cause daño o perjuicio a su patrimonio o trate de realizar cualquiera de los actos anteriormente enunciados.
 
+> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 112.
 
-Independientemente de lo establecido en esta Ley, cuando un trabajador se separe del servicio dejando un adeudo con el Instituto, se aplicará a cuenta del mismo el importe de las cuotas que hubiere aportado, cobrándose el remanente -si lo hubiere- al fiador, en la inteligencia de que en este caso el deudor perderá definitivamente la antigüedad que hubiese computado hasta esa fecha.
+Independientemente de lo establecido en esta Ley, cuando un trabajador se separe del servicio dejando un adeudo con el Instituto, se le requerirá por parte del Instituto para que firme convenio de pago, para continuar su trámite de beneficio de seguridad social a que tenga derecho por las cuotas cotizadas.
 
 ### CAPITULO UNDECIMO. Disposiciones Complementarias
 
@@ -1134,3 +1136,9 @@ G.O. 11 DE FEBRERO DE 2009.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 11 DE FEBRERO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
