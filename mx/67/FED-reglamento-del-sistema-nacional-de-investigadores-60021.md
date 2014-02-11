@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-60021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-21"
-last_updated: "2012-12-26"
+last_updated: "2014-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60021&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-12-07"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de marzo de 2008.
 
@@ -57,39 +57,43 @@ El presente Reglamento es de observancia obligatoria para las instancias encarga
 
 Para los efectos de este Reglamento se entenderá por:
 
-I. CONACYT, el Consejo Nacional de Ciencia y Tecnología.
+> <small>(ADICIONADA, D.O.F. 11 DE FEBRERO DE 2014)</small>
 
-II. Constancia de adscripción, documento oficial que acredita los servicios establecidos en el contrato o convenio institucional que el investigador tiene con la institución donde labora.
+I. Cátedras CONACYT, las plazas académicas del CONACYT, que son comisionadas a las distintas instituciones y entidades de Investigación, en el marco de los "Lineamientos para la Administración de las Cátedras CONACYT", el Estatuto del Personal Académico del CONACYT y las convocatorias respectivas.
 
-III. Convenio con el investigador, instrumento jurídico en el cual se hacen constar los términos y condiciones del apoyo que se concede al investigador con adscripción en dependencias, entidades, instituciones de educación superior o centros de investigación del país.
+II. CONACYT, el Consejo Nacional de Ciencia y Tecnología.
 
-IV. Convenio de colaboración, instrumento jurídico en el cual se hacen constar los términos y condiciones en que las instituciones del sector privado o social apoyan a los investigadores adscritos a ellas y que son miembros del Sistema Nacional de Investigadores.
+III. Constancia de adscripción, documento oficial que acredita los servicios establecidos en el contrato o convenio institucional que el investigador tiene con la institución donde labora.
 
-V. Convocatoria, el documento publicado en el portal del CONACYT mediante el cual se dan a conocer las bases del concurso para acceder a las distinciones a que se refiere el presente Reglamento.
+IV. Convenio con el investigador, instrumento jurídico en el cual se hacen constar los términos y condiciones del apoyo que se concede al investigador con adscripción en dependencias, entidades, instituciones de educación superior o centros de investigación del país.
 
-VI. Dictaminadores, los miembros de la comunidad académica, científica y tecnológica, encargados de analizar y emitir una recomendación sobre las solicitudes de ingreso, reingreso, prórroga o emérito.
+V. Convenio de colaboración, instrumento jurídico en el cual se hacen constar los términos y condiciones en que las instituciones del sector privado o social apoyan a los investigadores adscritos a ellas y que son miembros del Sistema Nacional de Investigadores.
 
-VII. Estímulo económico, el apoyo económico en salarios mínimos asociado, en su caso, a la distinción.
+VI. Convocatoria, el documento publicado en el portal del CONACYT mediante el cual se dan a conocer las bases del concurso para acceder a las distinciones a que se refiere el presente Reglamento.
 
-VIII. Estudios de posgrado, estudios posteriores a la licenciatura, correspondientes a la especialidad, maestría o doctorado, en sus diversas modalidades, ya sean en el país o en el extranjero.
+VII. Dictaminadores, los miembros de la comunidad académica, científica y tecnológica, encargados de analizar y emitir una recomendación sobre las solicitudes de ingreso, reingreso, prórroga o emérito.
 
-IX. Investigación, la que abarca la investigación científica, básica y aplicada en todas las áreas del conocimiento.
+VIII. Estímulo económico, el apoyo económico en salarios mínimos asociado, en su caso, a la distinción.
 
-X. Investigación tecnológica, la que abarca al desarrollo tecnológico y la innovación.
+IX. Estudios de posgrado, estudios posteriores a la licenciatura, correspondientes a la especialidad, maestría o doctorado, en sus diversas modalidades, ya sean en el país o en el extranjero.
 
-XI. Innovación, la introducción de un nuevo, o significativamente mejorado, producto (bien o servicio), de un proceso, de un método de comercialización o de un nuevo método organizativo, en las prácticas internas de la empresa, la organización del lugar de trabajo o las relaciones exteriores.
+X. Investigación, la que abarca la investigación científica, básica y aplicada en todas las áreas del conocimiento.
 
-XII. RCEA, el Registro CONACYT de Evaluadores Acreditados.
+XI. Investigación tecnológica, la que abarca al desarrollo tecnológico y la innovación.
 
-XIII. Reglamento, el presente Reglamento del Sistema Nacional de Investigadores.
+XII. Innovación, la introducción de un nuevo, o significativamente mejorado, producto (bien o servicio), de un proceso, de un método de comercialización o de un nuevo método organizativo, en las prácticas internas de la empresa, la organización del lugar de trabajo o las relaciones exteriores.
 
-XIV. RENIECYT, el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas.
+XIII. RCEA, el Registro CONACYT de Evaluadores Acreditados.
 
-XV. SNI, el Sistema Nacional de Investigadores.
+XIV. Reglamento, el presente Reglamento del Sistema Nacional de Investigadores.
 
-XVI. Solicitante, la persona que solicita ingreso, reingreso o prórroga.
+XV. RENIECYT, el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas.
 
-XVII. Transferencia, turnar la solicitud de una comisión dictaminadora a otra.
+XVI. SNI, el Sistema Nacional de Investigadores.
+
+XVII. Solicitante, la persona que solicita ingreso, reingreso o prórroga.
+
+XVIII. Transferencia, turnar la solicitud de una comisión dictaminadora a otra.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -475,6 +479,10 @@ X. Las demás que se deriven de la Ley de Ciencia y Tecnología, la Ley Orgánic
 
 Para ser miembro del SNI se requiere que el investigador realice habitual y sistemáticamente actividades de investigación científica o tecnológica, presente los productos del trabajo debidamente documentados, se desempeñe en México, cualquiera que sea su nacionalidad, o sea mexicano que realice actividades de investigación científica o tecnológica de tiempo completo en el extranjero, en dependencias, entidades, instituciones de educación superior o centros de investigación de los organismos internacionales de los sectores público, privado o social.
 
+> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 2014)</small>
+
+Para los fines de la solicitud de ingreso y reingreso de los investigadores que ocupen las Cátedras CONACYT, se entenderá que desempeñan sus actividades de investigación científica o tecnológica en la Institución de Adscripción a la cual fueron asignados en los términos establecidos por la normatividad aplicable.
+
 Ingresarán al SNI aquellos investigadores que atiendan la convocatoria correspondiente, sean evaluados por una Comisión Dictaminadora y sean aprobados por el Consejo de Aprobación.
 
 No podrán participar aquellas personas que en forma consecutiva hayan solicitado su ingreso al SNI los dos últimos años y no lo hayan obtenido.
@@ -805,11 +813,11 @@ III. Cuando cambien de adscripción del Distrito Federal a alguna institución d
 
 En todos los casos anteriores al momento de la solicitud, la distinción deberá estar vigente y la institución de adscripción deberá encontrarse en alguno de los estados del país. Ninguna de estas prórrogas podrán acumularse a la mencionada en el Artículo 58, fracción I del presente Reglamento
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 11 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 61.
 
-Los Investigadores Nacionales de 65 años o más de edad que hayan permanecido en el SNI al menos quince años, tengan distinción vigente y no hayan solicitado su renovación ese año, podrán solicitar, por una sola ocasión, la extensión de su distinción hasta por quince años.
+La distinción de los Investigadores Nacionales de 65 años o más de edad que hayan permanecido en el SNI al menos quince años, se renovará de manera automática, por una sola ocasión, hasta por quince años, salvo expresa renuncia del investigador.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -855,7 +863,9 @@ La entrega de estos estímulos económicos a los miembros del SNI será efectuad
 
 El orden de prioridad para el otorgamiento de los estímulos será el siguiente:
 
-a. Para los científicos y tecnólogos de las dependencias, entidades, instituciones de educación superior y de los centros de investigación del sector público o de las entidades federativas, y
+> <small>(REFORMADO, D.O.F. 11 DE FEBRERO DE 2014)</small>
+
+a. Para los científicos y tecnólogos de las dependencias, entidades, instituciones de educación superior y de los centros de investigación del sector público o de las entidades federativas; así como para los investigadores que ocupan las Cátedras CONACYT, y
 
 b. Para los científicos y tecnólogos que laboran en instituciones de educación superior o centros de investigación de los sectores social y privado inscritos en el RENIECYT, una vez cubiertos los estímulos a que se refiere la fracción anterior y de acuerdo con los convenios previamente celebrados con dichas instituciones.
 
@@ -867,7 +877,15 @@ Los miembros del SNI podrán recibir el estímulo económico correspondiente a c
 
 I. Tener un contrato o convenio institucional vigente para realizar actividades de investigación científica o tecnológica en alguna de las dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público, privado o social de México que tengan por objeto el desarrollo de actividades de investigación científica o tecnológica. Los servicios establecidos en el contrato o convenio deberán ser por al menos 20 horas a la semana, y ser acreditados por medio de documento oficial original y actualizado.
 
+> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 2014)</small>
+
+Para los investigadores que ocupen las Cátedras CONACYT, se entenderá que desarrollan las actividades de investigación científica o tecnología (sic) en las Instituciones de Adscripción a la cual fueron comisionados por el CONACYT.
+
 La constancia de adscripción deberá especificar, además de las horas semanales de compromiso con la institución, las funciones asignadas, el inicio y término de la relación, y deberá ser suscrita por la autoridad facultada para ello. El documento no podrá tener una antigüedad superior a tres meses a la fecha que se presenta y deberá entregarse por la vía en que el SNI lo requiera.
+
+> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 2014)</small>
+
+Los investigadores que ocupen las Cátedras CONACYT deberán presentar constancia de adscripción emitida por la Institución de Adscripción a la cual están comisionados, indicando las horas semanales de compromiso y las funciones asignadas, haciendo referencia a su estatus de investigadores de Cátedras CONACYT.
 
 II. En el caso de instituciones o centros de los sectores privado y social, éstos deberán estar inscritos en el RENIECYT y deberán tener suscrito y vigente un convenio de colaboración con el SNI, en cuyo caso podrán tener el estímulo económico que especifique dicho convenio.
 
@@ -1159,6 +1177,12 @@ Para los procesos de evaluación y revisión, el CONACYT, con apego a los lineam
 
 De igual manera entregará un reconocimiento a los integrantes de las comisiones dictaminadoras y revisoras por su labor y les proporcionará el apoyo y la infraestructura necesarios para realizarla.
 
+> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 2014)</small>
+
+###### Artículo 93.
+
+Los investigadores que ocupan una Cátedra CONACYT que desarrollen habitual y sistemáticamente actividades de investigación científica o tecnológica en las Instituciones de Adscripción a las cuales fueron asignados en los términos establecidos por la normatividad aplicable, serán sujetos de los mismos derechos y obligaciones que los investigadores que hayan ingresado o pretendan incorporarse al SNI.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1208,3 +1232,9 @@ SEGUNDO. Los asuntos que se encuentren en trámite antes de la entrada en vigor 
 TERCERO. La interpretación del Reglamento del Sistema Nacional de Investigadores, así como los asuntos no previstos en éste, serán resueltos por el Secretario Ejecutivo del propio Sistema, con la opinión de la Dirección Adjunta de Asuntos Jurídicos del Consejo Nacional de Ciencia y Tecnología.
 
 CUARTO. A partir de la entrada en vigor del presente acuerdo y con el objeto de otorgar mejores condiciones a los investigadores, las negociaciones con las compañías aseguradoras que operan en el país para la contratación voluntaria e individual por parte del investigador interesado en obtener seguro de vida, seguro de gastos médicos mayores o algún otro, serán conducidas por la Dirección Adjunta de Administración y Finanzas del CONACYT. Esto sin perjuicio de la selección que en su momento el investigador ya hubiere realizado. La prima del seguro o seguros será descontada del estímulo que corresponda al investigador.
+
+D.O.F. 11 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La disposición establecida en el artículo 61 del Reglamento del Sistema Nacional de Investigadores será aplicable de manera retroactiva para aquellos investigadores que no hayan solicitado su renovación durante el año 2013, considerándose como renovada su distinción; lo anterior, tendrá efectos a partir de la publicación del presente Acuerdo en el Diario Oficial de la Federación.
