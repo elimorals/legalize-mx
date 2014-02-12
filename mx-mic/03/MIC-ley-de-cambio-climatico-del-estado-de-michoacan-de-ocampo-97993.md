@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cambio-climatico-del-estado-de-michoacan-de-ocampo-97993
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2014-01-21"
+last_updated: "2014-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE CAMBIO CLIMATICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE FEBRERO DE 2014 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE FEBRERO DE 2014.</small>
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -1111,7 +1111,9 @@ La Secretaria publicará el Programa Estatal de Cambio Climático dentro de los 
 
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 19 diecinueve días del mes de diciembre de 2013 dos mil trece.
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2014)</small>
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Charo, Michoacán, a los 19 diecinueve días del mes de diciembre de 2013 dos mil trece.
 
 ATENTAMENTE.-«SUFRAGIO EFECTIVO. NO REELECCIÓN».-PRESIDENTE DE LA MESA DIRECTIVA, DIP. OLIVIO LÓPEZ MÚJICA.-PRIMER SECRETARIO, DIP. CÉSAR MORALES GAYTÁN.- SEGUNDO SECRETARIO, DIP. JOSÉ SEBASTIÁN NARANJO BLANCO.-TERCER SECRETARIO, DIP. SARBELIO AUGUSTO MOLINA VÉLEZ (Firmados).
 
