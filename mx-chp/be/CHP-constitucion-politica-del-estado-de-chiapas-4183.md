@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2013-11-28"
+last_updated: "2014-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2014.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1853,17 +1853,23 @@ V. Los municipios estarán investidos de personalidad jurídica y manejarán su 
 
 VI. Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2014)</small>
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, mismos que deberán establecer la prohibición de usos de suelo para los centros donde se presentan espectáculos que atentan contra la moral, las buenas costumbres, fomenten la trata de personas y/o atenten contra la dignidad humana.
 
 b) Participar en la creación y administración de sus reservas territoriales.
 
 c) Participar en la formulación de Planes de Desarrollo Regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional deberá asegurar la participación de los municipios.
 
-d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2014)</small>
+
+d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales. No estará permitido en el Estado el uso de suelo para los centros donde se presentan espectáculos que atentan contra la moral, las buenas costumbres, fomenten la trata de personas y/o atenten contra la dignidad humana.
 
 e) Intervenir en la regularización de la tenencia de la tierra urbana.
 
-f) Otorgar licencias y permisos para construcciones.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2014)</small>
+
+f) Otorgar licencias y permisos para construcciones. No estarán permitidos en el Estado los permisos o licencias de construcciones para los centros donde se presentan espectáculos que atentan contra la moral, las buenas costumbres, fomenten la trata de personas y/o atenten contra la dignidad humana.
 
 g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia.
 
@@ -1974,6 +1980,10 @@ El Plan Estatal de Desarrollo y el Plan Municipal de Desarrollo, establecerán l
 ###### Artículo 78.
 
 Los Poderes Públicos y los Ayuntamientos, deberán priorizar el gasto social en educación, acceso a la salud y mejores ingresos para los habitantes de los municipios con menos índice de desarrollo humano determinados por el Programa de las Naciones Unidas para el Desarrollo.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2014)</small>
+
+Los proyectos sociales a ejecutarse en el Estado, por los órganos públicos que integran la Administración Pública Estatal, deberán ser validados invariablemente por la Secretaría General de Gobierno.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4044,3 +4054,21 @@ P.O. 28 DE NOVIEMBRE DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2014.
+
+DECRETO NÚMERO 424 POR EL QUE SE REFORMAN LOS INCISOS A), D) Y F) DE LA FRACCIÓN VI DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los municipios deberán adecuar su normatividad en términos de lo dispuesto en el presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2014.
+
+DECRETO NÚMERO 425 POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 78, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
