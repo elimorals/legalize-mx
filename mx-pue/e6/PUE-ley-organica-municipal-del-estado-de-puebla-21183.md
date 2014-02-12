@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2013-12-30"
+last_updated: "2014-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1120,6 +1120,10 @@ La solicitud y procedimiento para la suspensión o revocación del mandato de al
 ###### ARTÍCULO 62.
 
 Si no se verificare la elección de algún Ayuntamiento o la verificada no estuviere hecha y declarada, o hubiere sido declarada nula, el Congreso del Estado, en cualquier tiempo, nombrará un Concejo Municipal, con base en la presente Ley, sin perjuicio de convocar a elecciones del Ayuntamiento respectivo.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2014)</small>
+
+Para la integración del Concejo Municipal a que se refiere el párrafo anterior, no será necesario que sus miembros sean vecinos del lugar.
 
 ###### ARTÍCULO 63.
 
@@ -3718,3 +3722,13 @@ En tanto no se realicen las reformas a que se refiere el párrafo anterior, las 
 CUARTO. Los recursos humanos, financieros y materiales que sean necesarios, serán transferidos a la Dependencia que corresponda, atendiendo al objeto o naturaleza de sus funciones. Las Secretarias de Finanzas y Administración y de la Contraloría, en el ámbito de su competencia, deberán realizar las acciones conducentes para realizar dichos movimientos.
 
 QUINTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
