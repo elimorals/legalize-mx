@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-consejo-de-ciencia-y-tecnologia-del-807
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-16"
-last_updated: "2011-03-16"
+last_updated: "2014-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 16 de marzo de 2011.
 
@@ -85,9 +85,11 @@ XI. CONACyT: Consejo Nacional de Ciencia y Tecnología.
 
 El Consejo de Ciencia y Tecnología del Estado de Chiapas, tiene como objetivo principal, planear, coordinar, establecer, promover y evaluar las políticas públicas y los programas en materia de ciencia, tecnología e innovación en el Estado de Chiapas. Dirigir sus acciones a la comunidad científica y tecnológica, estudiantes, empresas, organizaciones y a la sociedad en general, para desarrollar, consolidar y articular el Sistema Estatal de Ciencia y Tecnología; incrementar la competitividad de las organizaciones productivas y desarrollar una sociedad capaz de generar y utilizar conocimiento para su propio beneficio, mediante el apoyo a proyectos de investigación, desarrollo y transferencia de tecnología, formación de científicos y tecnólogos; difusión, divulgación y enseñanza de la ciencia y tecnología, que de manera específica se encuentran plasmados en el artículo 11, de la Ley de Ciencia y Tecnología del Estado de Chiapas.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 5°.
 
-El Consejo de Ciencia y Tecnología del Estado de Chiapas, en coordinación con las Dependencias, Órganos Desconcentrados, Entidades y Unidades del Poder Ejecutivo Federal, Estatal y Municipal impulsarán los objetivos contemplados en el Plan de Desarrollo Chiapas Solidario 2007-2012, en congruencia con el Plan Nacional de Desarrollo.
+El Consejo de Ciencia y Tecnología del Estado de Chiapas, en coordinación con las Dependencias, Órganos Desconcentrados, Entidades y Unidades del Poder Ejecutivo Federal, Estatal y Municipal, impulsarán los objetivos contemplados en el Plan Estatal de Desarrollo, en congruencia con el Plan Nacional de Desarrollo.
 
 ### Capítulo II. De su Estructura
 
@@ -95,29 +97,31 @@ El Consejo de Ciencia y Tecnología del Estado de Chiapas, en coordinación con 
 
 Las Direcciones y Unidades enumeradas en este capítulo, contarán con la estructura orgánica necesaria para el correcto desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 7°.
 
 Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, así como para el despacho de los asuntos de su competencia, el COCyTECH, tendrá los Órganos Administrativos siguientes:
 
-I. Dirección General.
+I. Dirección General:
 
-II. Comisaría.
+a) Comisaría;
 
-III. Unidad de Planeación.
+b) Unidad de Planeación;
 
-IV. Unidad de Informática.
+c) Unidad de Informática;
 
-V. Unidad de Apoyo Administrativo.
+d) Unidad de Apoyo Administrativo;
 
-VI. Unidad de Apoyo Jurídico.
+e) Unidad de Apoyo Jurídico;
 
-VII. Área de Vinculación y Gestión Tecnológica.
+f) Área de Vinculación y Gestión Tecnológica.
 
-VIII. Dirección de Fortalecimiento Científico y Tecnológico.
+II. Dirección de Fortalecimiento Científico y Tecnológico.
 
-IX. Dirección del Museo Chiapas de Ciencia y Tecnología.
+III. Dirección del Museo y Planetario de Ciencia y Tecnología.
 
-X. Dirección de Difusión y Divulgación de la Ciencia y Tecnología.
+IV. Dirección de Difusión y Divulgación de la Ciencia y Tecnología.
 
 ###### Artículo 8°.
 
@@ -131,9 +135,11 @@ Los Titulares de los Órganos Administrativos desempeñarán las atribuciones co
 
 Para mejorar su funcionamiento, las Áreas, Direcciones y Unidades deberán de contribuir a formular los manuales administrativos, con base a su área de competencia y presentarlos a la Junta Directiva para su aprobación.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 11.
 
-El COCyTECH, a través de su estructura orgánica, conducirá y desarrollará sus atribuciones y actividades en forma planeada y programada, con sujeción a los objetivos, estrategias y prioridades que establezca el Plan de Desarrollo Chiapas Solidario 2007-2012, y con base a las políticas, prioridades, restricciones y disposiciones que determine el Ejecutivo del Estado.
+El COCyTECH, a través de su estructura orgánica, conducirá y desarrollará sus atribuciones y actividades en forma planeada y programada, con sujeción a los objetivos, estrategias y prioridades que establezca el Plan Estatal de Desarrollo, y con base a las políticas, prioridades, restricciones y disposiciones que determine el Ejecutivo del Estado.
 
 ## Título Tercero. De los Organismos Administrativos
 
@@ -155,9 +161,13 @@ II. Vigilar que las acciones del COCyTECH, se realicen de conformidad con las no
 
 III. Conocer y resolver los asuntos de carácter administrativo y laboral relacionados con la administración de los recursos humanos, financieros y materiales del COCyTECH.
 
-IV. Representar al COCyTECH como mandatario general para pleitos y cobranzas, con todas las facultades generales y las particulares que requieran cláusula especial conforme a la ley, sin limitación alguna, en términos del Código Civil del Estado, ante toda clase de autoridades, ya sea federales, estatales o municipales, o de orden civil, penal, administrativo, o laboral, incluso el amparo, representar legalmente al Instituto ante toda clase de autoridades para dirimir las controversias suscitadas en la misma o a requerimiento de autoridad competente.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2014)</small>
 
-V. Dirigir el funcionamiento administrativo del Instituto, así como realizar cambios y modificaciones del personal que sean necesarias para el mejor desarrollo de sus actividades, nombrar y remover en su encomienda al personal adscrito al mismo, en los términos de la ley autorizar identificaciones oficiales, comisiones de trabajo, permutas, licencias y vacaciones del personal de su adscripción que en términos de Ley procedan.
+IV. Representar legalmente al COCyTECH como mandatario general para pleitos, cobranzas y actos de administración, con todas las facultades generales y las particulares que requieran cláusula especial conforme a la ley, sin limitación alguna, en términos del Código Civil del Estado, ante toda clase de autoridades, ya sea federales, estatales o municipales, o de orden civil, penal, administrativo, o laboral, incluso el amparo, representar legalmente al COCyTECH ante toda clase de autoridades para dirimir las controversias suscitadas en la misma o a requerimiento de autoridad competente.
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2014)</small>
+
+V. Dirigir el funcionamiento administrativo del COCyTECH, así como realizar cambios y modificaciones del personal que sean necesarias para el mejor desarrollo de sus actividades, nombrar y remover en su encomienda al personal adscrito al mismo, en los términos de la ley, autorizar identificaciones oficiales, comisiones de trabajo, permisos y vacaciones del personal de su adscripción que en términos de Ley procedan.
 
 VI. Expedir constancias y certificar documentos oficiales que obren en los archivos del COCyTECH.
 
@@ -183,7 +193,9 @@ El Director General, tendrá las atribuciones indelegables siguientes:
 
 I. Emitir y/o establecer las normas, políticas y procedimientos aplicables en acciones administrativas y en materia de ciencia y tecnología en la Entidad.
 
-II. Determinar, dirigir y controlar la política y organización del COCyTECH, así como, planear, aprobar, coordinar y evaluar sus programas en los términos de la legislación aplicable, bajo los objetivos, estrategias y prioridades del Plan Desarrollo (sic) Chiapas Solidario 2007-2012, y con los lineamientos que el Ejecutivo Estatal y la Junta Directiva le señale.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2014)</small>
+
+II. Determinar, dirigir y controlar la política y organización del COCyTECH, así como, planear, aprobar, coordinar y evaluar sus programas en los términos de la legislación aplicable, bajo los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo, y con los lineamientos que el Ejecutivo Estatal y la Junta Directiva le señale.
 
 III. Presentar al Ejecutivo del Estado, previamente aprobados por la Junta Directiva, las Iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones jurídicas competencia del COCyTECH.
 
@@ -461,9 +473,11 @@ VIII. Ejecutar los procesos de integración a los programas de formación de rec
 
 IX. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le sean encomendadas por el Director General.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 25.
 
-La Dirección del Museo Chiapas de Ciencia y Tecnología, tendrá los Órganos Administrativos siguientes:
+La Dirección del Museo y Planetario de Ciencia y Tecnología, tendrá los Órganos Administrativos siguientes:
 
 a) Departamento de Museografía.
 
@@ -471,39 +485,45 @@ b) Departamento de Servicios Educativos.
 
 c) Departamento de Mercadotecnia.
 
+d) Departamento de Logística y Asistencia Técnica del Planetario.
+
+e) Departamento de Operaciones del Planetario.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 26.
 
-El Titular de la Dirección del Museo Chiapas de Ciencia y Tecnología tendrá las atribuciones siguientes:
+El Titular de la Dirección del Museo y Planetario de Ciencia y Tecnología, tendrá las atribuciones siguientes:
 
-I. Coordinar exposiciones temporales, permanentes e itinerantes del Museo Chiapas de Ciencia y Tecnología.
+I. Coordinar exposiciones temporales, permanentes e itinerantes del Museo y Planetario de Ciencia y Tecnología de Chiapas.
 
 II. Proponer al Director General la celebración de convenios de colaboración museográfica con museos y centros de ciencia del país.
 
-III. Coordinar la implementación de cursos, talleres y eventos del museo, en materia de ciencia y tecnología, a la sociedad en general del Estado de Chiapas.
+III. Coordinar la implementación de cursos, talleres y eventos del Museo y Planetario de Ciencia y Tecnología de Chiapas, en materia de ciencia y tecnología, a la sociedad en general del Estado de Chiapas.
 
-IV. Autorizar el uso de espacios físicos dentro del Museo Chiapas de Ciencia y Tecnología, para la realización de eventos culturales, de ciencia y tecnología, a la sociedad en general.
+IV. Aprobar el uso de espacios físicos dentro del Museo y Planetario de Ciencia y Tecnología de Chiapas, para la realización de eventos culturales, de ciencia y tecnología, a la sociedad en general.
 
-V. Supervisar la operatividad óptima de las salas y áreas del museo.
+V. Vigilar la operatividad óptima de las salas y áreas del Museo y Planetario de Ciencia y Tecnología de Chiapas.
 
-VI. Aprobar la distribución y comercialización de artículos promocionales que posicionen al Museo Chiapas de Ciencia y Tecnología en el ámbito local y nacional, como uno de los centros más importantes de divulgación de la Ciencia y Tecnología del país.
+VI. Aprobar la distribución y comercialización de artículos promocionales que posicionen al Museo y Planetario de Ciencia y Tecnología de Chiapas en el ámbito local y nacional, como uno de los centros más importantes de divulgación de la Ciencia y Tecnología del país.
 
-VII. Aprobar el material promocional de actividades del museo, realizado por la Dirección de Difusión y Divulgación de la Ciencia y Tecnología.
+VII. Aprobar el material promocional de actividades del Museo y Planetario de Ciencia y Tecnología de Chiapas, realizado por la Dirección de Difusión y Divulgación de la Ciencia y Tecnología.
 
-VIII. Generar y validar la estadística de afluencia de visitantes al museo y controlar la programación de los grupos de visitantes guiados.
+VIII. Generar la estadística de afluencia de visitantes al Museo y Planetario de Ciencia y Tecnología de Chiapas y controlar la programación de los grupos de visitantes guiados.
 
-IX. Autorizar la actualización de guías de apoyo sobre temáticas de salas del museo.
+IX. Aprobar la actualización de guías de apoyo sobre temáticas de salas del Museo y Planetario de Ciencia y Tecnología de Chiapas.
 
-X. Aprobar estrategias de mercadotecnia del museo.
+X. Aprobar estrategias de mercadotecnia del Museo y Planetario de Ciencia y Tecnología de Chiapas.
 
 XI. Participar y representar al Estado en eventos e intercambios con otros museos de ciencia y tecnología.
 
-XII. Promover y supervisar la organización de cursos de capacitación dirigidos al personal de la Dirección.
+XII. Promover y vigilar la organización de cursos de capacitación dirigidos al personal de la Dirección.
 
-XIII. Ejecutar y dar seguimiento al programa "Asesores de Ciencia y Tecnología del Museo".
+XIII. Ejecutar y dar seguimiento al programa "Asesores de Ciencia y Tecnología del Museo y Planetario de Ciencia y Tecnología de Chiapas".
 
-XIV. Organizar exposiciones temporales, permanentes e itinerantes del Museo Chiapas de Ciencia y Tecnología.
+XIV. Preparar exposiciones temporales, permanentes e itinerantes del Museo y Planetario de Ciencia y Tecnología de Chiapas.
 
-XV. Gestionar convenios de colaboración museográfica con museos y centros de ciencia del país.
+XV. Realizar convenios de colaboración museográfica con museos y centros de ciencia del país.
 
 XVI. Intercambiar conocimientos en ciencia y tecnología con museos y centros de ciencia del país.
 
@@ -572,3 +592,21 @@ Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en la Sala de Juntas del Consejo de Ciencia y Tecnología de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 30 días del mes de septiembre del año 2010.
 
 Integrantes de la Junta Directiva: Presidente: Javier Álvarez Ramos, Secretario de Educación.- Secretario Técnico: Herminio Chanona Pérez, Director General del COCyTECH.- Vocales: Ángel René Estrada Arévalo, Rector de la Universidad Autónoma de Chiapas.- Roberto Domínguez Castellanos, Rector de la Universidad de Ciencias y Artes de Chiapas.- Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Esperanza Tuñón Pablos, Directora General del Colegio de la Frontera Sur.- Jorge Luis Zuart Macías, Rector de la Universidad Politécnica de Chiapas.- Andrés Fábregas Puig, Rector de la Universidad Intercultural.- Javier Alejandro Utrilla Parrilla, Presidente de la Confederación Patronal de la República Mexicana.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE FEBRERO DE 2014.
+
+Artículo Primero.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía que este Acuerdo, y se opongan al mismo.
+
+Artículo Tercero.- Para las cuestiones no previstas en el presente Acuerdo, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General, resolverá lo conducente.
+
+Artículo Cuarto.- El Manual de Organización del COCyTECH, deberá actualizarse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Acuerdo.
+
+Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Director General resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- El COCyTECH deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Acuerdo en el Periódico Oficial.
