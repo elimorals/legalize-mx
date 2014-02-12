@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-coordinacion-general-de-60287"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-13"
-last_updated: "2011-07-06"
+last_updated: "2014-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL Y RELACIONES PUBLICAS
 
-REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL Y RELACIONES PUBLICAS
+REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 13 de febrero de 2008.
 
@@ -307,11 +309,11 @@ VIII. Coordinar y desarrollar el programa de eventos que en materia de Relacione
 
 IX. Atender a los invitados especiales del Gobierno del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2011)</small>
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN TÉCNICA Y PROYECCIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 17.
 
@@ -425,10 +427,20 @@ JESÚS A. TARACENA MARTÍNEZ
 
 COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE JULIO DE 2011.
 
 PRIMERO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO, En tanto se expiden los manuales respectivos, el Coordinador General queda facultado para resolver las cuestiones relativas a la aplicación de este ordenamiento.
+
+P.O. 12 DE FEBRERO DE 2014.
+
+PRIMERO. El presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Coordinación General de Comunicación Social y Relaciones Públicas, publicado en el Suplemento “D” al periódico oficial 6828 de fecha 13 de febrero de 2008 y sus reformas publicadas en el Suplemento “G” 7182 de fecha 6 de julio de 2011.
+
+TERCERO. Cuando en este Reglamento se dé una denominación nueva o distinta a alguna Unidad establecida en otro ordenamiento con vigencia anterior a éste, la Unidad establecida en el actual atenderá los asuntos a que se refiere el anterior.
+
+CUARTO. Para su mejor funcionamiento la Coordinación General deberán (sic) formular sus respectivos Manuales de Organización y de Procedimientos en los plazos que la Secretaría de Administración señale para tales efectos.
