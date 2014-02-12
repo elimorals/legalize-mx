@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-consejo-de-la-judicatura-del-poder-7266
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-13"
-last_updated: "2010-01-13"
+last_updated: "2014-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 13 de enero de 2010.
 
@@ -171,9 +171,9 @@ En las sesiones el Secretario Ejecutivo del Consejo, tomará nota de los acuerdo
 
 De cada sesión se deberá levantar acta, la cual contendrá las siguientes formalidades:
 
-l.- El día, hora de apertura y de clausura;
+I.- El día, hora de apertura y de clausura;
 
-ll.- El nombre del Presidente del Consejo;
+II.- El nombre del Presidente del Consejo;
 
 III.- Los nombres de los Consejeros presentes y de los ausentes;
 
@@ -263,7 +263,7 @@ V. Someter a consideración del Pleno del Consejo cuantas propuestas considere n
 
 VI. Designar a los auxiliares que estime indispensables para cumplir con las atribuciones que establece este Código de Organización;
 
-VlI. Asignar a los auxiliares a que se refiere la fracción que antecede, las labores que deban desempeñar;
+VII. Asignar a los auxiliares a que se refiere la fracción que antecede, las labores que deban desempeñar;
 
 VIII. Firmar las resoluciones, acuerdos y actas del Pleno del Consejo conjuntamente con los demás Consejeros Integrantes y legalizar, por sí o por conducto del Secretario Auxiliar que al efecto designe, la firma de los servidores públicos del Consejo de la Judicatura en los casos que la ley exija este requisito;
 
@@ -631,7 +631,7 @@ I. Verificar la legalidad de las solicitudes de ingreso y promoción de las dist
 
 II. Participar, en el ámbito de su competencia, en los concursos de oposición organizados por el Consejo, de conformidad con la normativa correspondiente;
 
-lII. Convocar a reuniones de trabajo y Congresos de Magistrados, Jueces, asociaciones profesionales e instituciones de educación superior, así como a concursos relativos a la competencia del Consejo;
+III. Convocar a reuniones de trabajo y Congresos de Magistrados, Jueces, asociaciones profesionales e instituciones de educación superior, así como a concursos relativos a la competencia del Consejo;
 
 IV. Proponer, de acuerdo a las condiciones presupuestales, en coordinación con la Comisión de Administración, los planes de estímulos y capacitación para los servidores públicos comprendidos en el sistema de la carrera judicial y los aspirantes a ésta;
 
@@ -761,9 +761,9 @@ El Consejero que disintiera de la mayoría, deberá formular por escrito, voto p
 
 El Instituto de Formación Judicial, es un Órgano dependiente del Consejo de la Judicatura en materia de formación, capacitación; especialización y actualización de los Servidores Públicos del Poder Judicial y de los Profesionales del Derecho que aspiren a serlo, dentro de la carrera judicial teniendo las facultades, y obligaciones siguientes:
 
-l.- Elaborar el programa anual de estudios con la asistencia del comité académico y someterlo a consideración del Pleno del Consejo de la Judicatura, por conducto de la comisión de carrera judicial, con las observaciones que ésta formule;
+I.- Elaborar el programa anual de estudios con la asistencia del comité académico y someterlo a consideración del Pleno del Consejo de la Judicatura, por conducto de la comisión de carrera judicial, con las observaciones que ésta formule;
 
-ll.- Organizar y coordinar los cursos académicos de capacitación y actualización judicial que se desarrollen, integrando los expedientes técnicos respectivos;
+II.- Organizar y coordinar los cursos académicos de capacitación y actualización judicial que se desarrollen, integrando los expedientes técnicos respectivos;
 
 III.- Analizar con el apoyo del comité académico, el contenido de los cursos que se propongan en materia de capacitación y actualización judicial;
 
@@ -909,7 +909,7 @@ El Consejo de la Judicatura, para el debido ejercicio de sus atribuciones contar
 
 I.- Una Oficialía Mayor;
 
-ll.- Una Contraloría Interna;
+II.- Una Contraloría Interna;
 
 III.- Una Unidad de Control de Confianza;
 
@@ -935,9 +935,9 @@ X.- Los demás que sean necesarios y que apruebe el Pleno del Consejo, de confor
 
 La Oficialía Mayor del Consejo de la Judicatura ejercerá sus funciones bajo los lineamientos de la legislación aplicable, con excepción del Tribunal Constitucional, Tribunal de Justicia Electoral y Administrativa del Estado, y Tribunal del Trabajo Burocrático, entre otras las siguientes:
 
-l.- Fungir como apoderado legal del Consejo de la Judicatura, previa delegación por acuerdo del Consejo de la Judicatura.
+I.- Fungir como apoderado legal del Consejo de la Judicatura, previa delegación por acuerdo del Consejo de la Judicatura.
 
-ll.- Analizar e instrumentar normas y políticas administrativas para el manejo de recursos humanos y materiales de los órganos del Poder Judicial, las que en su caso someterá a consideración del Pleno del Consejo;
+II.- Analizar e instrumentar normas y políticas administrativas para el manejo de recursos humanos y materiales de los órganos del Poder Judicial, las que en su caso someterá a consideración del Pleno del Consejo;
 
 III.- Cuidar que se cumplan las correcciones disciplinarias que se dicten a los servidores públicos de los órganos del Poder Judicial del Estado, con excepción del Tribunal Constitucional, del Tribunal de Justicia Electoral y Administrativa, y del Tribunal del Trabajo Burocrático;
 
@@ -953,9 +953,11 @@ VIII.- Formular, de acuerdo a la normatividad y la periodicidad vigente, los est
 
 IX.- Mantener permanentemente informado al Consejo, del ejercicio del presupuesto, así como de los estados financieros correspondientes;
 
-X.- Firmar los cheques para el pago de servicios personales a proveedores, prestadores de servicios, con la firma conjunta y solidaria del Tesorero; con el Director del Fondo cuando el ejercicio del presupuesto sea con cargo al Fondo Auxiliar para la Administración de Justicia; o bien, previa autorización del Consejo, habilitar a un Director adscrito a la Oficialía Mayor para que realice esta acción;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2014)</small>
 
-Xl.- Aplicarlas normas, para el manejo del personal bienes, almacenes, correspondencia, archivo, inventarios, avalúos, instalaciones y mantenimiento de los bienes muebles e inmuebles, que formen parte del patrimonio del Poder Judicial, así como establecer políticas y procedimientos para cumplir con esas funciones;
+X.- Firmar los cheques para el pago de servicios personales a proveedores, prestadores de servicios, con la firma conjunta y solidaria del Tesorero; con el Director del Fondo cuando el ejercicio del presupuesto sea con cargo al Fondo Auxiliar para la Administración de Justicia y cuando se trate de la devolución de garantías recibidas en los Juzgados de Primera Instancia, tendrá la facultad de delegar a los servidores públicos con categoría de Secretarios de Acuerdo, Jefes de las Oficinas de Consignaciones y Auxiliares Administrativos previamente nombrados por el H. Pleno del Consejo de la Judicatura, para que sean ellos quienes realicen el pago; o bien, previa autorización el Consejo, habilitar a un Director adscrito a la Oficialía Mayor para que realice esa acción.
+
+XI.- Aplicarlas normas, para el manejo del personal bienes, almacenes, correspondencia, archivo, inventarios, avalúos, instalaciones y mantenimiento de los bienes muebles e inmuebles, que formen parte del patrimonio del Poder Judicial, así como establecer políticas y procedimientos para cumplir con esas funciones;
 
 XII.- Reclutar, seleccionar y contratar Servidores Públicos del Poder Judicial, de conformidad con las normas establecidas y por los acuerdos que emita el Consejo;
 
@@ -993,9 +995,9 @@ VIII.- Los demás que permita el presupuesto y autorice el Consejo.
 
 La Dirección de Asuntos Jurídicos, tendrá las siguientes funciones y atribuciones:
 
-l.- Asesorar y representar jurídicamente al Oficial Mayor, así como a los órganos administrativos del Consejo, ante cualquier autoridad, sociedad, asociación o particulares en los procedimientos de cualquier índole o fin a efectos de salvaguardar el interés jurídico del Consejo.
+I.- Asesorar y representar jurídicamente al Oficial Mayor, así como a los órganos administrativos del Consejo, ante cualquier autoridad, sociedad, asociación o particulares en los procedimientos de cualquier índole o fin a efectos de salvaguardar el interés jurídico del Consejo.
 
-ll.- Elaborar y en su caso, revisar los proyectos de iniciativas de reglamentos, decretos, acuerdos y circulares que la Oficialía Mayor someta a consideración del Consejo; así como revisar la procedencia jurídica de Convenios y Contratos que deban ser suscritos con otras dependencias o con particulares.
+II.- Elaborar y en su caso, revisar los proyectos de iniciativas de reglamentos, decretos, acuerdos y circulares que la Oficialía Mayor someta a consideración del Consejo; así como revisar la procedencia jurídica de Convenios y Contratos que deban ser suscritos con otras dependencias o con particulares.
 
 III.- Ejercitar y substanciar los procedimientos que se requieran hasta su conclusión, para salvaguardar el interés jurídico del Consejo.
 
@@ -1015,9 +1017,9 @@ La Dirección de Recursos Humanos, será la encargada controlar, organizar y vig
 
 La Dirección de Recursos Humanos, tendrá las siguientes atribuciones y obligaciones:
 
-l.- Normar, controlar y evaluar el sistema de administración de Recursos Humanos del Poder Judicial del Estado;
+I.- Normar, controlar y evaluar el sistema de administración de Recursos Humanos del Poder Judicial del Estado;
 
-ll.- Establecer, coordinar y vigilar la adecuada aplicación de criterios y procedimientos, en materia de reclutamiento, inducción, y desarrollo del personal;
+II- Establecer, coordinar y vigilar la adecuada aplicación de criterios y procedimientos, en materia de reclutamiento, inducción, y desarrollo del personal;
 
 III.- Aplicar las normas, políticas, lineamientos, procedimientos y criterios vigentes, en materia de administración de recursos humanos, así como proponer aquellos que se consideren necesarios;
 
@@ -1029,7 +1031,7 @@ VI.- Pagar oportunamente remuneraciones y prestaciones a los Servidores Público
 
 VII.- Integrar la "Comisión de sueldos y movimientos escalafonarios", emitiendo los dictámenes correspondientes, por cada movimiento para su validación de la Comisión de Administración del Consejo, y ratificación del Pleno;
 
-VlIl.- Aplicar y emitir las políticas y procedimientos administrativos para el funcionamiento del sistema de control de asistencias y la distribución del personal;
+VIII.- Aplicar y emitir las políticas y procedimientos administrativos para el funcionamiento del sistema de control de asistencias y la distribución del personal;
 
 IX.- Aplicar e implementar las normas, lineamientos y políticas, para el pago o descuentos de las remuneraciones del personal;
 
@@ -1039,7 +1041,7 @@ XI.- Coordinar y controlar la prestación del servicio social en áreas jurisdic
 
 XII.- Resguardar y custodiar confidencialmente los expedientes de los servidores públicos del Poder Judicial del Estado y, previa solicitud, proporcionarlos a los órganos facultados, para el desarrollo de sus atribuciones;
 
-XIll.- Elaborar, tramitar, controlar y registrar los nombramientos, prórrogas de nombramientos, contrataciones, promociones, transferencias, cambios de adscripción, re categorizaciones, reubicaciones, permutas, comisiones, suspensiones, licencias, permisos, bajas, jornadas de trabajo especiales, tolerancias y medidas disciplinarias, entre otros, del personal del Poder Judicial del Estado; de conformidad con las disposiciones jurídicas aplicables;
+XIII.- Elaborar, tramitar, controlar y registrar los nombramientos, prórrogas de nombramientos, contrataciones, promociones, transferencias, cambios de adscripción, re categorizaciones, reubicaciones, permutas, comisiones, suspensiones, licencias, permisos, bajas, jornadas de trabajo especiales, tolerancias y medidas disciplinarias, entre otros, del personal del Poder Judicial del Estado; de conformidad con las disposiciones jurídicas aplicables;
 
 XIV.- Propugnar por relaciones laborales con la representación sindical, respetuosa y conciliadora en beneficio de los trabajadores de base;
 
@@ -1063,9 +1065,9 @@ XXI.- Las demás que disponga la normatividad aplicable, el Pleno del Consejo y 
 
 La Dirección de Programación y Presupuesto, tiene como función administrar los recursos financieros autorizados al Consejo de la Judicatura; asimismo, de proporcionar información financiera que apoye la toma de decisiones y desarrollar proyectos de mejoramiento organizacional, con el propósito de contribuir a la operación óptima de los órganos jurisdiccionales y órganos del Consejo, con base en los principios de oportunidad, economía y observancia normativa el cual tiene entre otras las siguientes funciones:
 
-l.- Integrar el Anteproyecto de Presupuesto de Egresos anual;
+I.- Integrar el Anteproyecto de Presupuesto de Egresos anual;
 
-ll.- Proponer el proyecto de distribución del presupuesto programático autorizado;
+II.- Proponer el proyecto de distribución del presupuesto programático autorizado;
 
 III.- Plantear los mecanismos para el registro, guarda y control de los recursos financieros autorizados para el Poder Judicial del Estado;
 
@@ -1127,9 +1129,9 @@ III.- Administrar los recursos que le son asignados al Consejo, y cumplir sus ob
 
 Son funciones de la Dirección de Recursos Materiales y Servicios Generales, las siguientes:
 
-l.- Vigilar que se presten en forma adecuada los servicios de telefonía, impresión y fotocopiado, transporte, limpieza, vigilancia e intendencia;
+I.- Vigilar que se presten en forma adecuada los servicios de telefonía, impresión y fotocopiado, transporte, limpieza, vigilancia e intendencia;
 
-ll.- Supervisar el ingreso y almacenamiento de mobiliario, equipo, papelería y demás enseres de oficina;
+II.- Supervisar el ingreso y almacenamiento de mobiliario, equipo, papelería y demás enseres de oficina;
 
 III.- Proporcionar apoyo material en la realización de eventos;
 
@@ -1519,7 +1521,9 @@ ll.- Elaborar el proyecto de Presupuesto Anual de Egresos del Fondo para someter
 
 III.- Llevar la contabilidad del Fondo;
 
-IV.- Manejar mancomunadamente con la Oficialía Mayor, o en su caso, con el Titular de la Secretaría Ejecutiva del Consejo, las cuentas de cheques del Fondo;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2014)</small>
+
+IV. Manejar mancomunadamente con la Oficialía Mayor, o en su caso, con el Titular de la Secretaría Ejecutiva del Consejo, las cuentas de cheques de las Cuentas Definitivas y en el caso de las cuentas de cheques revolventes, autorizar también de formas mancomunada con las mismas autoridades a los Secretarios de Acuerdos, Jefes de las Oficinas de Consignaciones y Auxiliares Administrativos, adscritos a los Juzgados de Primera Instancia, previamente nombrados por el H. Pleno del Consejo de la Judicatura, para que sean ellos quienes realicen el pago;
 
 V.- Cuidar con la precisión debida, que el Fondo disponga de los recursos necesarios para conservar su liquidez;
 
@@ -2468,3 +2472,13 @@ Mtro. Juan Gabriel Coutiño Gómez, Magistrado Presidente.- Licenciado Alberto C
 La Licenciada María Itzel Ballinas Barbosa, Secretaria Ejecutiva del Consejo de la Judicatura del Poder Judicial del Estado, de conformidad con el artículo 164, fracción VIII, del Código de Organización del Poder Judicial del Estado, Certifica que el presente Reglamento Interior del Poder Judicial del Estado de Chiapas, fue aprobado en Sesión Ordinaria de Pleno del Consejo de la Judicatura, de fecha 9 nueve de julio de 2009, dos mil nueve, por unanimidad de votos, de los señores, Magistrado Presidente Mtro. Juan Gabriel Coutiño Gómez, y los Consejeros licenciados Alberto Cal y Mayor Gutiérrez, Rodolfo Courtois Zepeda, Olaf Gómez Hernández, y Juan José Solórzano Marcial, ante la fe de la Licenciada María Itzel Ballinas Barbosa, Secretaria Ejecutiva.- Doy fe.- Rúbrica.
 
 Tuxtla Gutiérrez, Chiapas; a los 10 diez días del mes de julio de 2009, dos mil nueve.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE FEBRERO DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+Segundo.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+Tercero.- Publíquese este acuerdo en el Periódico Oficial del Estado y en la página de Internet del Consejo de la Judicatura del Estado.
