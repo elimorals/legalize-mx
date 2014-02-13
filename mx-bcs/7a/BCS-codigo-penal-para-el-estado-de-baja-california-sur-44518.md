@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2013-08-20"
+last_updated: "2014-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE FEBRERO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -2207,6 +2207,24 @@ Al responsable de un Homicidio que no tenga prevista sanción especial en este C
 
 Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, cónyuge, concubina o concubino, adoptante o adoptado, sabiendo el autor esa relación, se le impondrán de veinte a cincuenta años de prisión, multa hasta por trescientos días de salario y pérdida de los derechos derivados de su vinculación familiar con la víctima.
 
+> <small>(ADICIONADO, B.O. 13 DE FEBRERO DE 2014)</small>
+
+ARTÍCULO 256 BIS.- Homicidio Agravado por Feminicidio. Cuando el homicidio sea ejecutado sobre una mujer por razón de su género, se impondrá de veinticinco a cincuenta años de prisión y multa de trescientos a novecientos días de salario mínimo vigente, así como la pérdida del derecho a heredar que pudiera tener respecto a la víctima.
+
+Existen razones de género de parte del sujeto activo, cuando concurra alguna de las siguientes circunstancias:
+
+I. La víctima presente signos de violencia sexual de cualquier tipo;
+
+II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida;
+
+III. Existan datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
+
+IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público;
+
+V. Exista antecedente de violencia en el ámbito familiar, laboral, vecinal o escolar del sujeto activo en contra de la víctima; o
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento.
+
 ###### ARTÍCULO 257.
 
 Cuando el homicidio sea cometido en riña, se reducirá la sanción en una tercera parte cuando el responsable sea el provocador y en una mitad cuando se trate del provocado.
@@ -3168,3 +3186,7 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 B.O. 20 DE AGOSTO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 13 DE FEBRERO DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
