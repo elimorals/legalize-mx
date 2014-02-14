@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-control-sanitario-de-productos-y-servicios-14576"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "2012-11-28"
+last_updated: "2014-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-07-29"
 
 REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de agosto de 1999.
 
@@ -101,9 +101,29 @@ I. Anomalía sanitaria, a la irregularidad en relación con las especificaciones
 
 II. Apéndice, al documento que forma parte del presente Reglamento y que contiene especificaciones que deberán cumplir los productos, actividades, servicios y establecimientos objeto de este ordenamiento;
 
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+II Bis 1. Área frontal de exhibición, aquella superficie donde se encuentra, entre otra información, la denominación y la marca comercial del producto;
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+II Bis 2. Bebidas saborizadas, a los productos elaborados por la disolución en agua para uso y consumo humano, de azúcares y/o edulcorantes, con independencia de que contengan otros ingredientes y aditivos, y que pueden estar o no carbonatados;
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+II Bis 3. Botanas, a los productos de: pasta de harinas, cereales, leguminosas, tubérculos, féculas, granos, frutas, frutos, semillas o leguminosas con o sin cáscara o cutícula, piel de cerdo, así como productos nixtamalizados; que pueden estar fritos, horneados, explotados, cubiertos, extruidos o tostados; adicionados o no con sal, con independencia de que contengan otros ingredientes y aditivos para alimentos;
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+II Bis 4. Chocolate, al producto homogéneo elaborado a partir de la mezcla de dos o más de los siguientes ingredientes: pasta de cacao, manteca de cacao, cocoa adicionado de azúcares u otros edulcorantes, con independencia de que se utilicen otros ingredientes, tales como productos lácteos y aditivos para alimentos;
+
 III. Condición sanitaria, a la situación en que se encuentra un establecimiento, producto o servicio que ha sido determinada por la verificación sanitaria;
 
 IV. Dependencias, a las dependencias de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+IV Bis. Envase múltiple o colectivo, a cualquier empaque en el que se encuentren contenidos dos o más unidades de producto Preenvasado, iguales o diferentes, destinados para su venta al consumidor;
 
 V. Etiqueta, al marbete, rótulo, inscripción, marca, imagen gráfica u otra forma descriptiva que se haya escrito, impreso, estarcido, marcado, en relieve o en hueco, grabado, adherido, precintado o anexado al empaque o envase del producto;
 
@@ -113,7 +133,15 @@ VII. Lote, a la cantidad de un producto, elaborado en un mismo ciclo, integrado 
 
 VIII. Normas, a las normas oficiales mexicanas;
 
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+VIII Bis. Preenvasado, a la colocación de productos en un envase de cualquier naturaleza, en ausencia del consumidor, que permita que la cantidad de producto contenido en él no pueda ser alterada, a menos que el envase sea abierto o modificado perceptiblemente;
+
 IX. Producto, a cualquiera de aquéllos a que se refiere el artículo 1o. de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+IX Bis. Productos similares al chocolate, a los productos elaborados a partir de manteca de cacao en los que para su elaboración se ha sustituido total o parcialmente ésta por otras grasas vegetales comestibles o, en su caso, por sus fracciones hidrogenadas, y son elaborados bajo formatos o moldeados especiales cuya presentación, aspecto, sabor o consumo son susceptibles a ser confundidos con el Chocolate;
 
 X. Riesgo, a la probabilidad de que se desarrolle cualquier propiedad biológica, química o física que cause daño a la salud del consumidor;
 
@@ -273,9 +301,49 @@ XI. Las leyendas de advertencia.
 
 Las normas correspondientes a cada tipo de producto determinarán la información sanitaria general que deberá contener la etiqueta o la específica cuando, por el tamaño del empaque o envase o por las condiciones del proceso, no pueda aparecer toda la información que se requiera.
 
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+Además de lo señalado en este artículo, el etiquetado de alimentos y bebidas no alcohólicas Preenvasados, con excepción del agua para consumo humano, alimentos para lactantes y niños de corta edad, goma de mascar sin azúcar, pastillas para el aliento sin azúcar, harinas con excepción de las preparadas, productos y materias primas destinados exclusivamente para uso y consumo interno de instituciones, y materias primas de uso industrial, deberá señalar en el Área frontal de exhibición del producto:
+
+I. El contenido energético total que el producto aporta expresado en kilocalorías o calorías. Este valor no deberá expresarse en términos porcentuales de una ingesta diaria recomendada, y
+
+II. El contenido de grasas saturadas, otras grasas, azúcares totales y sodio que estén presentes en el producto, conforme a lo siguiente:
+
+a) En el caso de grasas saturadas, otras grasas, y azúcares totales, deberá expresarse el aporte energético de cada nutrimento, indicando el porcentaje que cada uno de ellos represente con base en los valores establecidos en la siguiente tabla:
+
+Fuente de aporte calórico Valor base para el cálculo
+
+Grasas saturadas 200 calorías
+
+Otras grasas 400 calorías
+
+Azúcares Totales 360 calorías
+
+b) La declaración de sodio deberá expresarse en miligramos, así como indicar el porcentaje que dicho contenido representa en función del valor de referencia de 2000 miligramos;
+
+c) Tratándose de Botanas, Bebidas saborizadas, Chocolates, Productos similares al chocolate y productos de confitería, en su presentación de envase familiar, se deberá incluir el número de porciones y el contenido energético por porción presentes en el mismo, en términos de la fracción I de este párrafo.
+
+Quedan excluidas de lo dispuesto en el párrafo anterior, las Bebidas saborizadas que sean consideradas de bajo contenido energético en términos del Acuerdo que para tal efecto emita la Secretaría;
+
+d) Los Envases múltiples o colectivos cuyos productos que los conforman no se encuentran etiquetados de manera individual, deberán presentar la información establecida en los incisos a), b) y c) de la presente fracción. Aquellos Envases múltiples o colectivos cuyos productos que los conforman se encuentran etiquetados de manera individual, no están obligados a presentar la información establecida en dichos incisos, y
+
+e) Tratándose de alimentos y bebidas no alcohólicas Preenvasados en envases familiares no comprendidos en el inciso c) de esta fracción, se podrá incluir la información referida en los incisos a) y b) de dicha fracción, respecto de porciones menores al total del contenido del envase, debiendo expresar el contenido energético por envase y porción, así como el número total de porciones presentes en el mismo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+La Secretaría, mediante Acuerdo que se publique en el Diario Oficial de la Federación, establecerá los criterios conforme a los cuales se calcularán las dimensiones del Área frontal de exhibición y los que se deberán cumplir para proporcionar la información a que se refieren las fracciones del párrafo anterior, así como para determinar las cantidades de referencia para presentaciones en envases familiares y para tamaño de porciones, conforme a los incisos c) y e) de la fracción II de dicho párrafo.
+
 > <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2011)</small>
 
 Con excepción de lo establecido en el artículo 196 Bis del presente Reglamento, cuando se trate de productos de importación envasados de origen, la información que contengan las etiquetas deberá aparecer escrita en idioma español, previamente a su comercialización, en los términos de la norma correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+###### ARTÍCULO 25 Bis.
+
+El etiquetado de alimentos y bebidas no alcohólicas podrá incluir el distintivo nutrimental, cuando a petición de parte interesada, la Comisión Federal para la Protección contra Riesgos Sanitarios determine que el producto de que se trate, cumple con los criterios nutrimentales que se emitan en términos del presente artículo.
+
+Para efectos de lo dispuesto en el párrafo anterior, la Secretaría, mediante Acuerdo que se publique en el Diario Oficial de la Federación, establecerá el distintivo nutrimental, así como los criterios nutrimentales que deben tomarse en cuenta para determinar la procedencia de su uso y el procedimiento que deberá seguirse para su autorización, en el que deberá considerarse un plazo de respuesta no mayor a tres meses.
 
 ### Capítulo III. Transporte
 
@@ -1873,9 +1941,13 @@ Se podrán utilizar de manera inmediata aquellos aditivos y coadyuvantes de elab
 
 Los productos, de acuerdo con sus características, podrán contar con los envases que sean necesarios para garantizar su integridad e inocuidad.
 
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 210.
 
-La clasificación de los envases y las características físicas, químicas y de toxicidad para cada tipo de material de envase serán especificadas en las normas correspondientes.
+La clasificación de los envases y las características físicas, químicas y de toxicidad para cada tipo de material de envase, además de lo previsto en este Reglamento, serán especificadas en las normas correspondientes.
+
+La Secretaría determinará, mediante Acuerdo que se publique en el Diario Oficial de la Federación, los criterios conforme a los cuales un envase, en razón de la cantidad de producto que contiene, podrá ser considerado como familiar.
 
 ###### ARTÍCULO 211.
 
@@ -5422,3 +5494,31 @@ D.O.F. 28 DE NOVIEMBRE DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Secretaría de Salud revisará y en su caso realizará las modificaciones correspondientes a las normas oficiales mexicanas cuyo contenido tenga relación con el presente Decreto en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización y demás disposiciones jurídicas aplicables.
+
+D.O.F. 14 DE FEBRERO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los productores de alimentos y bebidas no alcohólicas a que se refiere el presente Decreto contarán hasta con un año a partir del inicio de vigencia del presente Decreto para adecuar el etiquetado de los productos que correspondan.
+
+Previo al vencimiento del plazo señalado en el párrafo anterior, se podrá solicitar a la Comisión Federal para la Protección contra Riesgos Sanitarios, su prórroga, por producto, hasta por un año adicional.
+
+Para el caso de productores que utilicen envases retornables, el plazo para sustituir a estos envases será de diez años contados a partir de la publicación del presente Decreto, debiendo los productores reportar mediante escrito libre que se presente ante la Comisión Federal para la Protección contra Riesgos Sanitarios, los avances correspondientes, de conformidad con los siguientes plazos:
+
+% de cumplimiento Plazo
+
+10 % Un año
+
+25% Dos años
+
+40 % Tres años
+
+60 % Cuatro años
+
+80 % Cinco años
+
+100 % Diez años
+
+Durante el plazo establecido en el párrafo anterior, los productores que utilicen este tipo de envases, deberán cumplir con los criterios de implementación previstos en el Acuerdo que expedirá la Secretaría para tales efectos.
+
+TERCERO. La Secretaría de Salud modificará, en términos de las disposiciones de la Ley Federal sobre Metrología y Normalización y su Reglamento, las normas oficiales mexicanas que con motivo de la entrada en vigor de este Decreto deban adecuar su contenido.
