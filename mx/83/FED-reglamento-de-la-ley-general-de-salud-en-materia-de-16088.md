@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-16088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-04"
-last_updated: "2012-01-19"
+last_updated: "2014-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-05-02"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PUBLICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de mayo de 2000.
 
@@ -216,6 +216,18 @@ V. Expresar o sugerir, a través de personajes reales o ficticios, que la ingest
 VI. Asociarse directa o indirectamente con el consumo de bebidas alcohólicas o tabaco, y
 
 VII. Declarar propiedades que no puedan comprobarse, o que los productos son útiles para prevenir, aliviar, tratar o curar una enfermedad, trastorno o estado fisiológico.
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+###### ARTÍCULO 22 Bis.
+
+Será objeto de permiso por parte de la Secretaría, otorgado a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, la publicidad que se realice en televisión abierta, televisión restringida y salas de exhibición cinematográfica, sobre la existencia, calidad y características de los alimentos y bebidas no alcohólicas, así como para promover su uso, venta o consumo en forma directa o indirecta, cuando dichos productos no se ajusten a los criterios a que se refiere este artículo.
+
+Para efectos de lo dispuesto en el párrafo anterior, la Comisión Federal para la Protección contra Riesgos Sanitarios, mediante Lineamientos que se publiquen en el Diario Oficial de la Federación, establecerá los criterios nutrimentales y de publicidad que deberán cumplir los alimentos y bebidas no alcohólicas para publicitarse en televisión abierta, televisión restringida y salas de exhibición cinematográfica, así como las condiciones para otorgar el permiso previsto en el párrafo anterior, los cuales deberán apegarse al principio del interés superior de la niñez, contemplado en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+La publicidad de alimentos y bebidas no alcohólicas, incluyendo la de los productos que se ajusten a los criterios referidos en el párrafo anterior, deberá cumplir con lo establecido en el artículo 22 del presente Reglamento.
 
 ### Capítulo II. Alimentos y bebidas no alcohólicas
 
@@ -777,9 +789,23 @@ VI. Servicios y procedimientos de embellecimiento;
 
 VII. Plaguicidas, excepto cuando se trate de información técnica;
 
-VIII. Nutrientes vegetales cuando, de conformidad con las normas oficiales mexicanas, tengan características tóxicas, y
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
 
-IX. Sustancias tóxicas o peligrosas, cuando se trate de productos sujetos a control sanitario en términos del artículo 278 de la Ley.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+VIII. Nutrientes vegetales cuando, de conformidad con las normas oficiales mexicanas, tengan características tóxicas;
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
+
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+IX. Sustancias tóxicas o peligrosas, cuando se trate de productos sujetos a control sanitario en términos del artículo 278 de la Ley, y
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+X. Alimentos y bebidas no alcohólicas que se difundan por televisión abierta, televisión restringida y salas de exhibición cinematográfica, cuando dichos productos no se ajusten a los criterios referidos en el segundo párrafo del artículo 22 Bis del presente Reglamento.
 
 En los casos contemplados en las fracciones IV, V y IX anteriores, sólo será aplicable este artículo, cuando la publicidad se dirija a la población en general.
 
@@ -818,6 +844,12 @@ VII. La autorización sanitaria del producto y su marbete autorizado, en el caso
 La Secretaría tendrá cinco días para resolver la solicitud, en los casos en que se presente dictamen por parte de un tercero autorizado de que la publicidad cumple la legislación sanitaria, o se trate de interesados que hayan suscrito los códigos de ética y convenios a que se refieren los artículos 99 y 100 de este Reglamento, y veinte días en los demás casos.
 
 Una vez transcurrido el plazo correspondiente, sin que la Secretaría emita una resolución, el permiso se tendrá por otorgado.
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE PÁRRAFO ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+Tratándose de las solicitudes de publicidad de los productos a que se refiere la fracción X del artículo 79 de este Reglamento, una vez transcurrido el plazo sin que la Secretaría emita una resolución, el permiso se tendrá por negado.
 
 ###### ARTÍCULO 81.
 
@@ -859,13 +891,19 @@ I. Actividades profesionales, técnicas, auxiliares y las especialidades a que s
 
 II. (DEROGADA, D.O.F. 6 DE ABRIL DE 2006)
 
-> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
 
-III. Bebidas adicionadas con cafeína, a las que se refiere el Reglamento de Control Sanitario de Productos y Servicios;
+III. (DEROGADA, D.O.F. 14 DE FEBRERO DE 2014)
 
 IV. Insumos para la salud, cuando se dirija a profesionales de la salud, y
 
 V. (DEROGADA, D.O.F. 6 DE ABRIL DE 2006)
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
+
+> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+
+VI. Alimentos y bebidas no alcohólicas, que se difundan por televisión abierta, televisión restringida y salas de exhibición cinematográfica cuando dichos productos, además de cumplir con lo establecido en el artículo 22 del presente Reglamento, se ajusten a los criterios referidos en el segundo párrafo del artículo 22 Bis de este ordenamiento.
 
 ###### ARTÍCULO 87.
 
@@ -1170,3 +1208,9 @@ Primero.- El presente Decreto entra en vigor a los treinta días hábiles poster
 Segundo.- Los anuncios publicitarios respecto de los cuales la Secretaría haya emitido el permiso o respecto de los cuales se le haya dado el aviso correspondiente, previo a la entrada en vigor del presente Decreto, no requerirán para su publicidad que el anunciante presente al medio de difusión copia certificada de la carátula del registro sanitario vigente, ni del permiso o aviso presentado ante la Secretaría.
 
 Tercero.- La Secretaría, dentro de los noventa días posteriores a la entrada en vigor del presente Decreto, publicará en el Diario Oficial de la Federación el formato oficial a que se refiere el artículo 62 Bis de este Decreto.
+
+D.O.F. 14 DE FEBRERO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor a los noventa días contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Comisión Federal para la Protección contra Riesgos Sanitarios contará con un plazo de hasta noventa días, contados a partir de la fecha de publicación del presente Decreto, para emitir los Lineamientos a que hace referencia el párrafo segundo del artículo 22 Bis contenido en el presente Decreto.
