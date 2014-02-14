@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2013-11-22"
+last_updated: "2014-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -183,23 +183,23 @@ Como parte de la profesionalización de las diferentes dependencias o entidades 
 
 El Presidente Municipal, mediante acuerdo que expida para tal efecto, podrá delegar en los titulares de los órganos de la administración pública central, desconcentrada y descentralizada las atribuciones que sean necesarias para el cumplimiento de los fines del presente Reglamento, salvo aquellas que la Constitución, otras leyes y reglamentos dispongan, deban ser ejercidas directamente por él o mediante aprobación del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 12.
 
 Los titulares de los órganos de la Administración Pública Municipal estarán obligados a coordinarse en las actividades que por su naturaleza lo requieran.
-
-La planeación, ejecución, seguimiento, control y evaluación de la coordinación a que se refiere el presente artículo, quedara a cargo de la Coordinación General de Gabinete, órgano auxiliar del Presidente Municipal.
-
-Corresponderá al Coordinador General de Gabinete presentar para acuerdo del Presidente Municipal las propuestas y políticas administrativas que se requieran para procurar la eficiencia en el despacho de los asuntos de la Administración Publica Municipal.
 
 ###### ARTÍCULO 13.
 
 El Presidente Municipal podrá emitir disposiciones de orden técnico y administrativo que tengan por objeto el eficiente desarrollo y funcionamiento de la Administración Pública Municipal mediante circulares y normas técnicas relativas a los procedimientos que deberán observar las dependencias y entidades en el desarrollo de sus actividades, así como en la administración de recursos humanos y materiales. Dichas disposiciones, deberán ser acatadas obligatoriamente por las dependencias y entidades a que se refieran.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 14.
 
-Con el objeto de definir, dar seguimiento y evaluar las políticas y programas que se establezcan para la atención de materias que sean competencia concurrente de varias dependencias o entidades, el Presidente Municipal, directamente o por conducto del Coordinador General de Gabinete, dispondrá la integración de gabinetes interdisciplinarios que se deberán reunir periódicamente para atender los asuntos de su competencia o que les sean asignados.
+Con el objeto de definir, dar seguimiento y evaluar las políticas y programas que se establezcan para la atención de materias que sean competencia concurrente de varias dependencias o entidades, el Presidente Municipal, dispondrá la integración de gabinetes interdisciplinarios que se deberán reunir periódicamente para atender los asuntos de su competencia o que les sean asignados.
 
-El Coordinador General de Gabinete, el Secretario General del Ayuntamiento y el Director de Desarrollo Regional procurarán el funcionamiento de un Gabinete Desconcentrado, en el que los Administradores de zona y regionales y los Delegados Municipales participen en el diseño de los acuerdos a que se refiere este artículo.
+El Secretario General del Ayuntamiento y el Director de Desarrollo Regional Sustentable y Delegaciones, procurarán el funcionamiento de un Gabinete Desconcentrado, en el que los Administradores de zona y regionales y los Delegados Municipales participen en el diseño de los acuerdos a que se refiere este artículo.
 
 ###### ARTÍCULO 15.
 
@@ -411,9 +411,11 @@ Los titulares de las dependencias, departamentos y entidades coordinarán con el
 
 El nombramiento de los titulares de las dependencias y los diferentes órganos de la administración Pública Municipal y los Delegados Municipales corresponde al Presidente Municipal, salvo aquellos que el presente Reglamento en base a la Ley de Régimen Municipal para el Estado de Baja California, reserva al Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 29.
 
-Los titulares de la Secretaría General del Ayuntamiento, Secretaria de Seguridad Pública, Secretaria de Administración y Finanzas y el Director de Desarrollo Regional, serán designados bajo el siguiente procedimiento:
+Los titulares de la Secretaria General del Ayuntamiento y Dirección de Seguridad Pública Municipal, Tesorería Municipal y el Director de Desarrollo Regional Sustentable y Delegaciones serán designados bajo el siguiente procedimiento:
 
 I.- El Presidente Municipal deberá hacer la propuesta para la aprobación por mayoría calificada del cabildo en un término no mayor de siete días naturales a partir del día siguiente de la falta del titular;
 
@@ -421,7 +423,7 @@ II.- En caso de no ser aprobado, deberá presentar otra propuesta en un término
 
 III.- En caso de no ser aprobado nuevamente, en un término de tres días deberá presentar una terna, de la cual será aprobado el titular de la dependencia de que se trate. En la presentación de esta terna, no podrán considerarse nuevamente las propuestas a que se refiere la fracción I y II que anteceden;
 
-IV.- En las sesiones de cabildo que tenga (sic) por objeto la aprobación de alguno de los funcionarios enunciados en este artículo, por solicitud de por lo menos un tercio de quienes integran el ayuntamiento, podrán solicitar de las personas propuestas por el ejecutivo una exposición de su plan de trabajo, programas y acciones que pretendan llevar a cabo como titulares de la dependencia;
+IV.- En las sesiones de cabildo que tenga por objeto la aprobación de alguno de los funcionarios enunciados en este artículo, por solicitud de por lo menos un tercio de quienes integran el ayuntamiento, podrán solicitar de las personas propuestas por el ejecutivo una exposición de su plan de trabajo, programas y acciones que pretendan llevar a cabo como titulares de la dependencia;
 
 V.- Los plazos de que hablan las fracciones que anteceden podrán duplicarse a solicitud del Presidente Municipal y mediante acuerdo por mayoría simple del Ayuntamiento;
 
@@ -459,33 +461,49 @@ La suplencia del Presidente Municipal, de los titulares de las dependencias y de
 
 ### CAPITULO PRIMERO. DE LAS DEPENDENCIAS Y ÓRGANOS QUE INTEGRAN LA ADMINISTRACIÓN PUBLICA MUNICIPAL CENTRALIZADA
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 32.
 
-La administración pública municipal centralizada, que estará bajo la conducción del Presidente Municipal, contará con las siguientes dependencias de primer nivel de la administración:
+La Administración Pública Municipal Centralizada, que estará bajo la conducción del Presidente Municipal para su organización interna contará con:
+
+a) Dependencias de primer nivel de la administración:
 
 I.- Oficina de la Presidencia Municipal;
 
-II.- Coordinación General de Gabinete;
+II.- Secretaría General del Ayuntamiento;
 
-III.- Secretaría General del Ayuntamiento;
+III.- Secretaría de Desarrollo Social.
 
-IV.- Secretaría de Finanzas y Administración;
+b) Dependencias prioritarias de segundo nivel
 
-V.- Secretaría de Administración Urbana;
+I.- Dirección de Seguridad Pública;
 
-VI.- Secretaría de Seguridad Pública;
+II.- Tesorería Municipal;
 
-VII.- Secretaría de Desarrollo Social.
+III.- Dirección de Catastro, Control Urbano
+
+IV.- Dirección de Ecología
+
+V.- Dirección de Infraestructura
+
+VI.- Dirección de Servicios Públicos
+
+VII.- Oficialía Mayor
+
+VIII.- Dirección de Planeación y Gestión Financiera
+
+IX.- Unidad Municipal de Transparencia y Acceso a la Información
 
 ###### ARTÍCULO 33.
 
 Las Administraciones de zona y regionales, así como las Delegaciones Municipales tendrán la naturaleza de órganos desconcentrados de la Administración Pública Municipal centralizada, y corresponderá al Presidente Municipal por conducto de la Dirección de Desarrollo Regional, aplicar las políticas para uniformar su actuación y promover el logro de sus objetivos.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 34.
 
-Las secretarías son instancias de coordinación para la planeación, programación, presupuestación, seguimiento, evaluación y vigilancia de las funciones, programas y acciones de las dependencias que se encuentran bajo su mando y dentro de su sector administrativo.
-
-Asimismo, la Coordinación General de Gabinete, es la instancia de coordinación para la planeación, programación, presupuestación, seguimiento, evaluación y vigilancia de las funciones, programas y acciones de las Secretarías.
+Las dependencias previstas en el artículo 32 incisos a) y b) son instancias de coordinación para la planeación, programación, presupuestación, seguimiento, evaluación y vigilancia de las funciones, programas y acciones de las dependencias que se encuentran bajo su mando y dentro de su sector administrativo.
 
 ###### ARTÍCULO 35.
 
@@ -493,9 +511,11 @@ Las dependencias de la administración pública centralizada tendrán a su cargo
 
 ### CAPITULO SEGUNDO. DE LA OFICINA DE LA PRESIDENCIA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 36.
 
-Para el cumplimiento de sus funciones, la oficina de la Presidencia Municipal contará con un Jefe de la Oficina, a quien corresponde:
+Para el cumplimiento de sus funciones, contará con un Jefe de la Oficina, a quien corresponde:
 
 I. Tener a su cargo y coordinar la operatividad de las siguientes unidades administrativas:
 
@@ -509,9 +529,11 @@ d. Ayudantía,
 
 e. Atención Ciudadana,
 
-f. Secretaría Privada.
+f. Secretaría Privada
 
-II. Instruir al Coordinador Administrativo para la realización del presupuesto, así como supervisar que la aplicación del mismo se efectúe en las actividades propias de la Oficina del Presidente Municipal, tomando en cuenta las actividades de la agenda temática anual, y apegándose a las políticas que en materia de egresos teng ala (sic) Secretaría de Finanzas y Administración.
+g. Unidad Municipal Concentradora de Transparencia y Acceso a la Información Pública
+
+II. Instruir al Coordinador Administrativo para la realización del presupuesto, así como supervisar que la aplicación del mismo se efectúe en las actividades propias de la Oficina del Presidente Municipal, tomando en cuenta las actividades de la agenda temática anual, y apegándose a las políticas que (sic) en materia de egresos.
 
 III. Asegurar que las actividades de la Ayudantía del Gobierno Municipal sean llevadas a cabo con eficiencia y, que su intervención en eventos se maneje de forma coordinada.
 
@@ -531,7 +553,7 @@ X. Recibir para su evaluación de la Dirección de Comunicación Social manuales
 
 XI. Recibir para su evaluación de la Dirección de Relaciones Públicas manuales protocolarios para cada evento.
 
-XII. Recibir, para su evaluación, de la Dirección de Innovación Gubernamental las propuestas de acción.
+XII. Aplicar las disposiciones relativas a la administración de documentos públicos de Transparencia y acceso a la información pública, operando el archivo de trámite la Unidad Municipal Concentradora de Transparencia y acceso a la información.
 
 XIII. Las demás que expresamente le encomienden las leyes, reglamentos o lo instruya el Presidente.
 
@@ -609,129 +631,81 @@ IX.- Mantener actualizado el directorio de funcionarios de la administración p�
 
 X.- Las demás que expresamente le encomienden las leyes, reglamentos o le instruya el Presidente.
 
-### CAPITULO TERCERO. DE LA COORDINACIÓN GENERAL DE GABINETE
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2013)</small>
+ARTÍCULO 40 BIS.- A la Unidad Municipal Concentradora de Transparencia y Acceso a la Información Pública le corresponde:
+
+I. Recibir, tramitar y dar seguimiento a las solicitudes de acceso a la información pública y datos personales;
+
+II. Entregar al solicitante la información, remitida por la Unidad Receptora del sujeto obligado o su representante, o en su caso el documento o acuerdo que exprese los motivos y fundamentos que se tienen para negar el acceso a la misma;
+
+III. Orientar a los interesados en la formulación de solicitudes de información pública, y en su caso, de los medios de impugnación previstos en este reglamento;
+
+IV. Realizar los requerimientos a los solicitantes cuando su solicitud de información, no cumpla los requisitos previstos por este reglamento;
+
+V. Realizar las notificaciones a los particulares, respecto de los acuerdos o resoluciones que recaigan a sus solicitudes;
+
+VI. Recibir y enviar al órgano garante los recursos o inconformidades que se presenten para trámite, a más tardar al día siguiente hábil de que sean recibidos:
+
+VII. Llevar un registro de las solicitudes de acceso a la información, sus resultados y costos;
+
+VIII. Elaborar el informe anual de acceso a la información que requiere la Ley, de acuerdo a los lineamientos aplicables en términos de Ley y que se publique dicho informe en el portal del Ayuntamiento en los plazos que marca la ley;
+
+IX. Remitir al órgano garante el informe que se refiere la fracción que antecede de manera simultánea a su publicación;
+
+X. Proponer al Comité los procedimientos internos de administración de la información que contribuyan a la mayor eficiencia y eficacia en la atención de las solicitudes de acceso a la información;
+
+XI. Coadyuvar en la capacitación de los Servidores Públicos del Ayuntamiento respecto a su participación en asuntos de transparencia, atención ciudadana e información pública;
+
+XII. Acatar las recomendaciones, requerimientos de informes, lineamientos y criterios que determine el Comité en la materia de acceso a la información y datos personales;
+
+XIII. Contar con una dirección electrónica para asesorar sobre el acceso a la información, así como para recibir comentarios y sugerencias acerca del sistema de transparencia y acceso a la información;
+
+XIV. Elaborar guías que describan de manera clara y sencilla a los ciudadanos, los procedimientos de acceso a la información de las dependencias y entidades;
+
+XV. Las demás necesarias para facilitar, agilizar y garantizar el acceso a la información, las que disponga el presente Reglamento y las demás disposiciones jurídicas aplicables;
+
+XVI. Observar el transcurso y el vencimiento de los plazos de reserva de información, antes de su vencimiento dará cuenta de ello a los sujetos obligados interesados para que determinen lo necesario si se solicitar (sic) la prórroga del plazo de reserva;
+
+XVII. Supervisar y revisar que el Portal sea actualizado con la periodicidad debida y que se contenga la información de oficio actualizada;
+
+XVIII. Fomentar la cultura de transparencia; y
+
+XIX. Las demás obligaciones que señalen la ley y los reglamentos de la materia.
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 2014)</small>
+
+### CAPITULO TERCERO
 
 ###### ARTÍCULO 41.
 
-La Coordinación General de Gabinete tendrá a su cargo la Dirección de Informática, y las áreas de Innovación Gubernamental y Vinculación Empresarial y la Unidad Municipal Concentradora de Transparencia y Acceso a la Información Pública del Municipio de Ensenada, y le corresponde el despacho de los siguientes asuntos:
+(DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
-I.- Dar seguimiento ejecutivo a los proyectos, planes, objetivos, estrategias, programas, metas y acciones de las diferentes paramunicipales, secretarías, coordinaciones, y direcciones de la Administración Pública Municipal, derivadas de los planes, decisiones y compromisos del Ayuntamiento o del Presidente Municipal;
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE FEBRERO DE 2014)</small>
 
-II.- Llevar la coordinación de las funciones operativas del gobierno central, descentralizado y desconcentrado, vinculando a éste con los diferentes órdenes de gobierno;
-
-III.- Auxiliar al Presidente Municipal en los proyectos y actividades diarias del Municipio;
-
-IV.- Comunicar periódicamente al Presidente Municipal de los avances, retrasos y problemas potenciales, así como el análisis respectivo y las alternativas de solución;
-
-V.- Programar, coordinar, instalar y citar a reuniones periódicas de revisión y avance con uno o varios funcionarios a través de la integración de gabinetes o dependencias de la administración pública municipal, de acuerdo a los programas y proyectos del gobierno municipal;
-
-VI.- Dirigir los proyectos macros que el Presidente Municipal debe realizar para cumplir con el plan de gobierno a corto y largo plazo, más los que se deriven de las actividades normales del Ayuntamiento;
-
-VII.- Coordinar los esfuerzos que el Gobierno Municipal, en conjunto con los otros dos órdenes de gobierno, la iniciativa privada, organizaciones civiles nacionales y extranjeras y la población en general para lograr la realización de los proyectos estratégicos;
-
-VIII.- Mantener la visión de conjunto asegurando que todas las decisiones estén orientadas a la misión y visión de los proyectos de gobierno;
-
-IX.- Organizar, facilitar y dar seguimiento al desarrollo operativo y funcional del aparato administrativo del Municipio de acuerdo a los planes a corto, mediano y largo plazo en todos sus aspectos;
-
-X.- Revisar y estudiar las estrategias y técnicas utilizadas para el desarrollo de otros Gobiernos Municipales, Nacionales e Internacionales que pudieran ser aplicables en el Municipio;
-
-XI.- Coordinar el desarrollo de metodologías y técnicas para el buen desempeño del Gobierno Municipal;
-
-XII.- Coordinar la vinculación de las acciones de los programas sectoriales, institucionales y especiales que lleven a cabo el Ejecutivo Estatal y Federal, a través de las dependencias y entidades de la Administración Pública que corresponda, con las propias acciones que en esta materia realiza el Ayuntamiento, a fin de obtener resultados congruentes en beneficio de la sociedad;
-
-XIII.- Recibir para su evaluación, del área de Innovación Gubernamental, las propuestas de acción a implementar en la Administración Pública Municipal; y
-
-XIV.- Las demás que determine (sic) las Leyes, reglamentos o le instruya el Presidente Municipal.
-
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2013)</small>
-
-XV.- Aplicar las disposiciones relativas a la administración de documentos públicos de Transparencia y acceso a la información, operando el archivo de trámite la Unidad Municipal Concentradora de Transparencia.
-
-#### SECCION PRIMERA. DE LA DIRECCIÓN DE INFORMÁTICA
+#### SECCION PRIMERA
 
 ###### ARTÍCULO 42.
 
-La Dirección de informática tendrá las siguientes funciones:
+(DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
-I.- Dirigir y coordinar las actividades de auditoria técnica y supervisión sobre los sistemas automatizados de información que las dependencias municipales poseen, a objeto de resguardar la seguridad, asegurar la integridad y proteger el carácter confidencial de la información de los usuarios;
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE FEBRERO DE 2014)</small>
 
-II.- Participar en la definición e implantación de políticas y proyectos para facilitar el manejo de los programas utilizados en las dependencias municipales
-
-III.- Proponer las políticas para el acceso, manejo y procesamiento de la información y el uso de los servicios de red;
-
-IV.- Atender los requerimientos de las Dependencias Municipales para la incorporación de las herramientas de tecnología para el procesamiento de la información y sistemas de comunicación;
-
-V.- Coordinar el desarrollo de proyectos de redes y telecomunicaciones, atendiendo a las necesidades del Ayuntamiento;
-
-VI.- Proponer medidas operacionales y nuevos proyectos orientados a ser más eficientes los sistemas;
-
-VII.- Realizar estudios tecnológicos, cuyos resultados puedan ser utilizados para ajustar el sistema de información utilizado en las dependencias municipales;
-
-VIII.- Determinar y proponer estándares que deben cumplir los sistemas y los equipos para mantener un mejor rendimiento de los mismos;
-
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2013)</small>
-
-IX. Elaborar y mantener las plataformas adecuadas que permitan a los sujetos obligados a cumplir con las disposiciones del Reglamento de Transparencia y Acceso a la Información del Municipio, publicando, en tiempo y forma, en los medios electrónicos dependientes del Gobierno Municipal la información de oficio.
-
-X.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Coordinador General de Gabinete.
-
-#### SECCION SEGUNDA. DE LA INNOVACION GUBERNAMENTAL
+#### SECCION SEGUNDA
 
 ###### ARTÍCULO 43.
 
-Innovación Gubernamental es el área del Gobierno Municipal encargada de implementar y asegurar el cumplimiento de políticas públicas que conlleven la operación de servicios eficientes y en mejora continua, tanto en cobertura como en costo y calidad, mediante la mejora de los procesos organizacionales administrativos de la Administración Pública Municipal, teniendo como principales acciones
+(DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
-I.- Realizar las acciones necesarias para obtener un diagnóstico de las debilidades y fortalezas que permitan desarrollar las estrategias y líneas de acción para la ejecución de los proyectos de innovación;
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE FEBRERO DE 2014)</small>
 
-II.- Elaborar las propuestas de actualización de los manuales de organización, de procedimientos, de servicios al público y sus reglamentos internos;
-
-III.- Elaborar las propuestas de aactualización (sic) de las disposiciones jurídico administrativas en las diferentes dependencias;
-
-IV.- Analizar y rediseñar los trámites y servicios de mayor impacto social ofrecidos por las instancias de gobierno;
-
-V.- Implementar programas de gestión de calidad en las diversas áreas de la Administración Pública Municipal, y
-
-VI.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Coordinador General de Gabinete.
-
-#### SECCION TERCERA. DE LA VINCULACION EMPRESARIAL
+#### SECCION TERCERA
 
 ###### ARTÍCULO 44.
 
-A Vinculación Empresarial le corresponde el despacho de los siguientes asuntos:
+(DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
-I.- Promover estrategias y acciones encaminadas a fortalecer las relaciones con el sector Empresarial e inversionista;
-
-II.- Propiciar y promover la participación directa, o los donativos de instituciones públicas o privadas, en la implementación de acciones conjuntas o de colaboración con el gobierno municipal;
-
-III.- En el caso de eventos especiales, coordinarse con las demás dependencias y entidades relacionadas con el evento a llevarse a cabo, a fin de que para el mismo se cuente con los espacios, acciones, recursos, mobiliario, personal y demás materiales necesarios para su cabal realización;
-
-IV.- Promover estrategias y acciones encaminadas a fortalecer las relaciones empresariales externas del Gobierno Municipal;
-
-V.- Propiciar las relaciones empresariales entre el Ayuntamiento y otras ciudades del Estado, el País o el Extranjero;
-
-VI.- Coordinarse con las Instituciones Educativas del nivel medio superior y superior, Sector Empresarial y Gubernamental para fomentar la cultura emprendedora.
-
-VII.- Las demás que expresamente le encomienden las leyes, reglamentos o le instruya el Coordinador General de Gabinete.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
-
-ARTÍCULO 44 BIS.- A la Unidad Municipal Concentradora de Transparencia y Acceso a la Información Publica le corresponde:
-
-I.- Ser el órgano operativo encargado de la difusión de la información de oficio.
-
-II.- Supervisar a los sujetos obligados en la difusión de la información de oficio.
-
-III.- Recibir y dar trámite a las solicitudes de acceso a la información y protección de datos personales.
-
-IV.- Servir como vínculo entre los particulares solicitantes y la Administración Pública.
-
-V.- Informar al comité de todo aquello acontecido en el ejercicio de sus funciones que pueda servir de base para emitir criterios generales basados en casos particulares.
-
-VI.- Monitorear la Información publicada por las entidades, para verificar el cumplimiento de las actualizaciones que señala el Reglamento.
-
-VI (SIC).- Las demás que le señales (sic) las Leyes y Reglamentos vigentes.
+ARTÍCULO 44 BIS.- (DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
 ### CAPITULO TERCERO (SIC). DE LA SECRETARIA GENERAL DEL AYUNTAMIENTO
 
@@ -1169,7 +1143,27 @@ b) Área de Inspección.
 
 ###### ARTÍCULO 57.
 
-Para ser Secretario de Finanzas y Administración se deberá cumplir con los siguientes requisitos:
+(DEROGADO, P.O. 14 DE FEBRERO DE 2014)
+
+###### ARTÍCULO 58.
+
+(DEROGADO, P.O. 14 DE FEBRERO DE 2014)
+
+###### ARTÍCULO 59.
+
+(DEROGADO, P.O. 14 DE FEBRERO DE 2014)
+
+> <small>(DEROGADO Y ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN Y REUBICADO], P.O. 14 DE FEBRERO DE 2014)</small>
+
+### CAPITULO CUARTO. DE LAS FINANZAS Y ADMINISTRACIÓN
+
+#### SECCION PRIMERA. DE LA TESORERIA
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
+###### ARTÍCULO 60.
+
+Para ser Tesorero Municipal se deberá cumplir con los siguientes requisitos:
 
 I.- Ser ciudadano mexicano en ejercicio de sus derechos civiles y políticos;
 
@@ -1179,115 +1173,81 @@ III.- Tener título profesional como Licenciado en Contaduría, o Licenciado en 
 
 IV.- No estar sujeto a proceso, ni haber sido condenado por delito intencional, ni destituido o inhabilitado en juicio de responsabilidad como funcionario público.
 
-###### ARTÍCULO 58.
-
-A la Secretaría de Finanzas le corresponde el despacho de las siguientes funciones:
-
-I.- Formular y someter a la consideración del Presidente Municipal, la política hacendaria del gobierno municipal y los programas financieros y crediticios de la administración municipal centralizada y descentralizada;
-
-II.- Proponer Al Presidente Municipal, los dictámenes técnicos respecto de proyectos de inversión, así como los criterios de administración de la deuda pública municipal;
-
-III.- Conducir la política administrativa, fiscal y financiera de la administración pública municipal aprobada por el Ayuntamiento;
-
-IV.- Fungir como cabeza de sector de la administración pública municipal en materia de planeación, administración, finanzas e informática;
-
-V.- Informar al Presidente Municipal de la situación que guarda el manejo de la deuda pública municipal;
-
-VI.- Coordinar y participar en la formulación de los programas de inversión de la administración pública municipal;
-
-VII.- Coordinar los programas relacionados con la administración de recursos humanos, materiales, financieros, tributarios e informáticos de la administración pública municipal;
-
-VIII.- Proponer al Presidente las medidas necesarias para la coordinación de las políticas relativas a registros de personal, relación de puestos de trabajo, retribuciones y homologación de funcionarios;
-
-IX.- Sistematizar el presupuesto anual de ingresos y egresos del Municipio;
-
-X.- Elaborar y mantener actualizado un sistema de información de las finanzas municipales, cubriendo todas las etapas del proceso de ingreso-gasto, además de dar seguimiento al rendimiento de la aplicación de los recursos;
-
-XI.- Proponer y diseñar los criterios generales para la racionalidad y disciplina presupuestal del gasto público;
-
-XII.- Coordinar con las dependencias centralizadas, la estructura programática;
-
-XIII.- Elaborar el análisis anual de impacto presupuestario;
-
-XIV.- Coordinar la elaboración trimestral de los avances programáticos de las dependencias y entidades de su sector;
-
-XV.- Analizar y evaluar sistemáticamente el comportamiento y evolución de los ingresos municipales;
-
-XVI.- Diseñar políticas y proponer programas que propicien y consoliden la cultura tributaria de los contribuyentes;
-
-XVII.- Verificar que la Tesorería Municipal tenga a disposición del Órgano de Fiscalización Superior y de la dependencia supervisora correspondiente en los términos de la Ley de Fiscalización Superior para el Estado de Baja California para su revisión y dictamen, las cuentas, informes contables y financieros, previa entrega al Ayuntamiento;
-
-XVIII.- Coordinar y asesorar respecto de las operaciones requeridas por el propio municipio y por las dependencias y órganos auxiliares, referentes a contratos de crédito y otorgar opinión de todos aquellos actos que comprometan financieramente a la administración municipal, apegándose a las políticas, normas y procedimientos de la administración municipal y a la legislación correspondiente;
-
-XIX.- Representar a la administración municipal ante fideicomisos y organismos de administración pública dependientes del estado, donde se tramiten operaciones en las que financieramente se puedan beneficiar o afectar el patrimonio municipal;
-
-XX.- Las demás que expresamente le encomienden las leyes, reglamentos o le instruya el Presidente.
-
-###### ARTÍCULO 59.
-
-Para el desempeño de sus funciones la Secretaría de Finanzas y Administración contará con los siguientes órganos:
-
-I.- Tesorería,
-
-II.- Dirección de Planeación y Gestión Financiera, y
-
-III.- Oficialía Mayor.
-
-### CAPITULO CUARTO. DE LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN
-
-#### SECCION PRIMERA. DE LA TESORERIA
-
-###### ARTÍCULO 60.
-
-Para ser Tesorero Municipal se deberá cumplir con los siguientes requisitos:
-
-I.- Ser ciudadano mexicano en ejercicio de sus derechos civiles y políticos;
-
-II.- Tener suficiente instrucción, capacidad y honestidad; (sic)
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 61.
 
-A la Tesorería le corresponde el despacho de los asuntos previstos en la Ley de Hacienda Municipal, Ley de Ingresos del Municipio de Ensenada, Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California y el propio Reglamento de la Administración Pública de Ensenada; y tendrá las siguientes funciones:
+A la Tesorería le corresponde el despacho de los asuntos previstos en la Ley de Hacienda Municipal, Ley de Ingresos del Municipio de Ensenada, Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California y el propio Reglamento de la Administración Pública del Municipio de Ensenada; y tendrá las siguientes funciones:
 
-I.- Formular para someter a consideración del Ayuntamiento, y en su oportunidad, aplicar la política hacendaría, crediticia y del gasto público del gobierno municipal;
+I.- Formular y someter a la consideración del Ayuntamiento, y en su oportunidad aplicar, la política hacendaria del gobierno municipal y los programas financieros y crediticios de la Administración Municipal Centralizada y Descentralizada;
 
-II. Definir los ingresos y egresos del gobierno municipal, tomando en cuenta las necesidades de recursos para la ejecución del Plan Municipal de Desarrollo y sus programas;
+II.- Proponer Al Presidente Municipal, los dictámenes técnicos respecto de proyectos de inversión, así como los criterios de administración de la deuda pública municipal;
 
-III.- Recibir de las dependencias y entidades, sus anteproyectos de presupuesto de egresos para ser incluidos en el proyecto de presupuesto de egresos del Municipio, realizar los análisis correspondientes, y orientar a dichas dependencias y entidades en relación con las erogaciones que propongan;
+III.- Conducir la política administrativa, fiscal y financiera de la Administración Pública Municipal aprobada por el Ayuntamiento;
 
-IV.- Formular y presentar oportunamente a consideración del Presidente Municipal por conducto del Secretario de Finanzas y Administración, los proyectos de iniciativa de ley de ingresos, y presupuesto de egresos municipales para ser aprobados por el Ayuntamiento;
+IV.- Fungir como cabeza de sector de la administración pública municipal en materia de planeación, administración finanzas e informática;
 
-V.- Orientar a las entidades en la formulación de sus anteproyectos de presupuestos de egresos, cuando éstos no queden comprendidos en el presupuesto de egresos municipal;
+V.- Informar al Presidente Municipal de la situación que guarda el manejo de la deuda pública municipal;
 
-VI.- Presentar al Presidente Municipal por conducto de Secretario de Finanzas y Administración, para que éste las someta a consideración del Ayuntamiento, las solicitudes de modificaciones, transferencias y ampliaciones de presupuesto que formulen las dependencias y entidades, dándolas a conocer previamente al Síndico Procurador para su visto bueno;
+VI.- Coordinar y participar en la formulación de los programas de inversión de la Administración Pública Municipal;
 
-VII.- Recaudar y administrar las contribuciones municipales, de acuerdo con las disposiciones legales en vigor;
+VII.- Coordinar los programas relacionados con la administración de recursos humanos, materiales, financieros, tributarios e informáticos de la Administración Pública Municipal;
 
-VIII.- Cumplir y hacer cumplir las leyes, reglamentos, convenios, y demás disposiciones legales de carácter fiscal;
+VIII.- Sistematizar el presupuesto anual de ingresos y egresos del Municipio;
 
-IX.- Administrar la deuda pública de acuerdo con las disposiciones legales aplicables.
+IX.- Elaborar y mantener actualizado un sistema de información de las finanzas municipales, cubriendo todas las etapas del proceso de ingreso-gasto, además de dar seguimiento al rendimiento de la aplicación de los recursos;
 
-X.- Ejercer el gasto público del Gobierno Municipal y llevar su control, seguimiento y evaluación.
+X.- Proponer y diseñar los criterios generales para la racionalidad y disciplina presupuestal del gasto público;
 
-XI.- Ejercer las atribuciones derivadas de los convenios de colaboración administrativa en materia fiscal, que se celebren con el Gobierno del Estado y la Federación.
+XI.- Coordinar con las dependencias centralizadas, la estructura programática;
 
-XII.- Integrar los programas de inversión de la Administración Pública Municipal, y vigilar el ejercicio de los recursos de los mismos;
+XII.- Elaborar el análisis anual de impacto presupuestario;
 
-XIII.- Emisión de circulares que regulen operaciones de acuerdo a la normatividad vigente;
+XIII.- Coordinar la elaboración trimestral de los avances programáticos de las dependencias y entidades de su sector;
 
-XIV.- Participar en la realización de los convenios financieros y ejercer las atribuciones que deriven de éstos;
+XIV.- Analizar y evaluar sistemáticamente el comportamiento y evolución de los ingresos municipales;
 
-XV.- Por conducto del Secretario de Finanzas y Administración, tener a disposición del Órgano Superior de Fiscalización del Estado las cuentas, informes contables y financieros, en los términos de la Ley de Fiscalización Superior para el Estado de Baja California, previa entrega al Ayuntamiento.
+XV.- Diseñar políticas y proponer programas que propicien y consoliden la cultura tributaria de los contribuyentes;
 
-XVI.- Coordinar los criterios y actividades del personal administrativo que se encuentre adscrito a las diversas dependencias y entidades de la Administración Pública Municipal, a efecto de unificar criterios y eficientar la utilización de recursos.
+XVI.- Coordinar y asesorar respecto de las operaciones requeridas por el propio municipio y por las dependencias y órganos auxiliares, referentes a contratos de crédito y otorgar opinión de todos aquellos actos que comprometan financieramente a la administración municipal, apegándose a las políticas, normas y procedimientos de la administración municipal y a la legislación correspondiente;
 
-XVII.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Secretario de Finanzas y Administración.
+XVII.- Representar a la Administración Municipal ante fideicomisos y organismos de administración pública dependientes del estado, donde se tramiten operaciones en las que financieramente se puedan beneficiar o afectar el patrimonio municipal;
+
+XVIII.- Definir los ingresos y egresos del gobierno municipal, tomando en cuenta las necesidades de recursos para la ejecución del Plan Municipal de Desarrollo y sus programas;
+
+XIX.- Recibir de las dependencias y entidades, sus anteproyectos de presupuesto de egresos para ser incluidos en el proyecto de presupuesto de egresos del Municipio, realizar los análisis correspondientes, y orientar a dichas dependencias y entidades en relación con las erogaciones que propongan;
+
+XX.- Formular y presentar oportunamente a consideración del Presidente Municipal, los proyectos de iniciativa de ley de ingresos, y presupuesto de egresos municipales para ser aprobados por el Ayuntamiento;
+
+XXI.- Orientar a las entidades en la formulación de sus anteproyectos de presupuestos de egresos, cuando éstos no queden comprendidos en el presupuesto de egresos municipal;
+
+XXII.- Presentar al Presidente Municipal para que éste las someta a consideración del Ayuntamiento, las solicitudes de modificaciones, transferencias y ampliaciones de presupuesto que formulen las dependencias y entidades, dándolas a conocer previamente al Síndico Procurador para su visto bueno;
+
+XXIII.- Recaudar y administrar las contribuciones municipales, de acuerdo con las disposiciones legales en vigor;
+
+XXIV.- Cumplir y hacer cumplir las leyes, reglamentos, convenios, y demás disposiciones legales de carácter fiscal;
+
+XXV.- Administrar la deuda pública de acuerdo con las disposiciones legales aplicables;
+
+XXVI.- Ejercer el gasto público del Gobierno Municipal y llevar su control, seguimiento y evaluación;
+
+XXVII.- Integrar los programas de inversión de la Administración Pública Municipal, y vigilar el ejercicio de los recursos de los mismos;
+
+XXVIII.- Emisión de circulares que regulen operaciones de acuerdo a la normatividad vigente;
+
+XXIX.- Participar en la realización de los convenios financieros y ejercer las atribuciones que deriven de éstos;
+
+XXX.- Tener a disposición del Órgano Superior de Fiscalización del Estado las cuentas, informes contables y financieros, en los términos de la Ley de Fiscalización Superior para el Estado de Baja California, previa entrega al Ayuntamiento;
+
+XXXI.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Presidente.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 62.
 
-Para el desempeño de sus funciones la Tesorería tendrá bajo su cargo una Subdirección de Ingresos y Subdirección de Egresos, que tendrá (sic) la siguiente estructura:
+Para el desempeño de sus funciones la Tesorería tendrá bajo su cargo una Recaudación de Rentas, Subdirección de Egresos, Subdirección de Control y Gestión Presupuestal y una Subdirección de Informática y tendrá la siguiente estructura:
 
-I.- Subdirección de Ingresos o Recaudación de Rentas:
+I.- Recaudación de Rentas:
 
 a) Departamento de impuestos inmobiliarios;
 
@@ -1303,9 +1263,11 @@ a) Departamento de contabilidad;
 
 b) Departamento de glosa y archivo.
 
-III.- Subdirección de Organización, Programación y Presupuesto;
+III.- Subdirección de Organización, Programación y Presupuesto:
 
-a) Departamento de Control y Gestión Presupuestal
+a) Departamento de Control y Gestión Presupuestal.
+
+IV.- Subdirección de Informática.
 
 ###### ARTÍCULO 63.
 
@@ -1335,6 +1297,8 @@ XI.- Las demás que expresamente le encomienden las leyes y reglamentos o el Sec
 
 #### SECCION SEGUNDA. DE LA DIRECCION DE PLANEACION Y GESTION FINANCIERA
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 64.
 
 La Dirección de Planeación y Gestión Financiera, responsable de efectuar acciones de planeación y gestión de recursos materiales y económicos para el municipio, tendrá dentro de sus facultades y obligaciones las siguientes:
@@ -1351,9 +1315,39 @@ V.- Gestionar ante las diferentes instancias de gobierno, fondos, apoyos o progr
 
 VI.- Gestionar financiamientos con organismos privados, públicos, nacionales o internacionales, en coadyuvancia con los recursos e instancias municipales;
 
-VII.- Las demás que determinen las leyes y reglamentos o lo que instruya el Coordinador General de Gabinete.
+VII.- Ejercer las atribuciones derivadas de los convenios de colaboración administrativa en materia fiscal, que se celebren con el Gobierno del Estado y la Federación;
+
+VIII.- Coordinar en conjunto de la Tesorería Municipal la política administrativa, fiscal y financiera de la Administración Pública Municipal aprobada por el Ayuntamiento;
+
+IX.- Las demás que determinen las Leyes y reglamentos o lo que instruya el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
+ARTÍCULO 64 BIS.- La Subdirección de informática tendrá las siguientes funciones:
+
+I.- Dirigir y coordinar las actividades de auditoría técnica y supervisión sobre los sistemas automatizados de información que las dependencias municipales poseen, a objeto de resguardar la seguridad, asegurar la integridad y proteger el carácter confidencial de la información de los usuarios;
+
+II.- Participar en la definición e implantación de políticas y proyectos para facilitar el manejo de los programas utilizados en las dependencias municipales
+
+III.- Proponer las políticas para el acceso, manejo y procesamiento de la información y el uso de los servicios de red;
+
+IV.- Atender los requerimientos de las Dependencias Municipales para la incorporación de las herramientas de tecnología para el procesamiento de la información y sistemas de comunicación;
+
+V.- Coordinar el desarrollo de proyectos de redes y telecomunicaciones, atendiendo a las necesidades del Ayuntamiento;
+
+VI.- Proponer medidas operacionales y nuevos proyectos orientados a ser más eficientes los sistemas;
+
+VII.- Realizar estudios tecnológicos, cuyos resultados puedan ser utilizados para ajustar el sistema de información utilizado en las dependencias municipales;
+
+VIII.- Determinar y proponer estándares que deben cumplir los sistemas y los equipos para mantener un mejor rendimiento de los mismos;
+
+IX. Elaborar y mantener las plataformas adecuadas que permitan a los sujetos obligados cumplir con las disposiciones del Reglamento de Transparencia y Acceso a la Información del Municipio, publicando, en tiempo y forma, en los medios electrónicos dependientes del Gobierno Municipal la información de oficio;
+
+X.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Tesorero.
 
 #### SECCION TERCERA. DE LA OFICIALIA MAYOR
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 65.
 
@@ -1361,9 +1355,9 @@ La Oficialía Mayor tendrá las siguientes funciones:
 
 I.- Conducir y administrar las relaciones laborales del personal de las dependencias.
 
-II.- Proponer al Presidente Municipal por conducto del Secretario, la emisión de normas administrativas relativas a la contratación y manejo de personal, así como las necesarias para asegurar el control y buen uso de los bienes y servicios asignados a las dependencias y entidades;
+II.- Proponer al Presidente Municipal, la emisión de normas administrativas relativas a la contratación y manejo de personal, así como las necesarias para asegurar el control y buen uso de los bienes y servicios asignados a las dependencias y entidades;
 
-III.- Diseñar y programar los parámetros en la fijación de las remuneraciones de los empleados y funcionarios públicos, mismos que serán presentados al Secretario de Finanzas y Administración, para que éste a su vez los presente al Presidente Municipal y al Ayuntamiento, para su aprobación junto con el Presupuesto de Egresos;
+III.- Diseñar y programar los parámetros en la fijación de las remuneraciones de los empleados y funcionarios públicos, mismos que serán presentados al Presidente Municipal y al Ayuntamiento, para su aprobación junto con el Presupuesto de Egresos;
 
 IV.- Emitir los nombramientos del personal de la Administración Pública Municipal, y sus medios de identificación;
 
@@ -1379,21 +1373,25 @@ IX.- Administrar los recursos materiales de la Administración Pública Municipa
 
 X.- Adquirir y suministrar los bienes y servicios que se requieran para el funcionamiento de las dependencias;
 
-XI.- Recibir de las dependencias los bienes muebles que dejen de ser útiles, y tramitar su baja de los inventarios y la contabilidad; asimismo, informar al Síndico en un término no mayor de veinticuatro horas, en los casos de robo o extravío. También realizará previa notificación de las dependencias los cambios de usuarios y en cu (sic) caso de los titulares, todo ello, apegado a la normatividad respectiva;
+XI.- Recibir de las dependencias los bienes muebles que dejen de ser útiles, y tramitar su baja de los inventarios y la contabilidad; asimismo, informar al Síndico en un término no mayor de veinticuatro horas, en los casos de robo o extravío. También realizará previa notificación de las dependencias los cambios de usuarios y en su caso de los titulares, todo ello, apegado a la normatividad respectiva;
 
 XII.- Promover la venta de bienes municipales, cuando así se requiera, de acuerdo a los procedimientos correspondientes;
 
 XIII.- Asignar a las dependencias y entidades el uso y administración de los bienes inmuebles, o espacios dentro de los edificios municipales, que requieran para el ejercicio de sus atribuciones, indicándoles las responsabilidades que tendrán a su cargo;
 
-XIV.- Resguardar los bienes muebles e inmuebles municipales, de los que deberá mantener actualizado un inventario físico, así como administrar el patrimonio y mobiliario del Gobierno Municipal mediante la actualización y gestión de los procedimientos de compra, enajenación, donación, conservación, incorporación, desincorporación y afectación de bienes muebles, instrumentando los programas de regularización que en su caso se requieran, así mismo formular los contratos de arrendamientos y comodato conforme a los requerimientos de las dependencias del Gobierno Municipal y del Ayuntamiento aplicando los dispuestos establecidos en la materia.
+XIV.- Resguardar los bienes muebles e inmuebles municipales, de los que deberá mantener actualizado un inventario físico, así como administrar el patrimonio y mobiliario del Gobierno Municipal mediante la actualización y gestión de los procedimientos de compra, enajenación, donación, conservación, incorporación, desincorporación y afectación de bienes muebles, instrumentando los programas de regularización que en su caso se requieran, así mismo formular los contratos de arrendamientos y comodato conforme a los requerimientos de las dependencias del Gobierno Municipal y del Ayuntamiento aplicando los dispuestos establecidos en la materia;
 
 XV.- Administrar y gestionar la prestación de servicio médico a los empleados a cargo del gobierno municipal, tomando en consideración lo establecido en las leyes y reglamentos respectivos, así como convenios que se den en lo particular;
 
-XVI.- Prestar el servicio de grúas a las dependencias.
+XVI.- Prestar el servicio de grúas a las dependencias;
 
-XVII.- Revisar y autorizar órdenes de pedido y requisiciones.
+XVII.-Revisar y autorizar órdenes de pedido y requisiciones;
 
-XVIII.- Las demás que señalen las Leyes y Reglamentos o le encomiende el Secretario de Finanzas y Administración.
+XVIII.- Proponer al Presidente las medidas necesarias para la coordinación de las políticas relativas a registros de personal, relación de puestos de trabajo, retribuciones y homologación de funcionarios;
+
+XIX.- Coordinar los criterios y actividades del personal administrativo que se encuentre adscrito a las diversas dependencias y entidades de la Administración Pública Municipal, a efecto de unificar criterios y eficientar la utilización de recursos.
+
+XX.- Las demás que señalen las Leyes y Reglamentos o le encomiende el Presidente Municipal.
 
 ###### ARTÍCULO 66.
 
@@ -1415,81 +1413,55 @@ II. Oficina Municipal de enlace con la Secretaría de Relaciones Exteriores; y
 
 III. Capacitación.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 68.
 
-La Dirección de Recursos Materiales, tendrá a su cargo la revisión y autorización de órdenes de pedido y requisiciones, la ejecución de las determinaciones que tome el Comité de Adquisiciones en que será miembro participante, la custodia y administración del Almacén, así como aquello que le encomiende el Oficial Mayor y los demás reglamentos y Leyes vigentes.
+La Dirección de Recursos Materiales, tendrá a su cargo la revisión y autorización de órdenes de pedido y requisiciones, la ejecución de las determinaciones que tome el Comité de Adquisiciones en que será miembro participante, la custodia y administración del Almacén de la administración central, así como aquello que le encomiende el Oficial Mayor y los demás reglamentos y Leyes vigentes.
 
 ###### ARTÍCULO 69.
 
 La Dirección de Administración de Bienes Patrimoniales tendrá a su cargo el control, supervisión y la custodia de los bienes municipales, incluyendo en éstos a los Bienes Muebles, Inmuebles y el Archivo Municipal, así como la operatividad de los talleres encargados del mantenimiento de los vehículos propiedad del Gobierno Municipal.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ### CAPITULO QUINTO. SECRETARIA DE ADMINISTRACIÓN URBANA
 
 ###### ARTÍCULO 70.
 
-La Secretaría de Administración Urbana tendrá las siguientes atribuciones:
-
-I.- Las de orden ejecutivo que en materia de desarrollo urbano, catastro, control urbano y ecología confieren las disposiciones legales a la administración pública municipal.
-
-II.- Determinar las políticas de utilización de uso del suelo para el desarrollo urbano y la vivienda;
-
-III.- Prestar los servicios públicos municipales en los términos del reglamento interno;
-
-IV.- Realizar los estudios técnicos y los proyectos ejecutivos, programar, vigilar y ejecutar las obras publicas que determine la administración municipal, el Plan Municipal de Desarrollo, los convenios con los Gobiernos Estatal y Federal, los acordados por el Ayuntamiento o instruidos por el Presidente Municipal, por si o mediante invitación o licitación pública de acuerdo a las Leyes, Reglamentos y manuales de procedimientos establecidos;
-
-V.- Las demás que determine (sic) las Leyes, Reglamentos o le instruya el Presidente Municipal.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+(DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
 ###### ARTÍCULO 71.
 
-La Secretaría de Administración Urbana para el cumplimiento de sus atribuciones contará con una coordinación administrativa, una coordinación de planeación, una coordinación de informática y tendrá bajo su cargo las siguientes direcciones:
+(DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
-I.- Catastro y Control Urbano;
-
-II.- (DEROGADA, P.O. 30 DE ABRIL DE 2010)
-
-III.- Ecología;
-
-IV.- Infraestructura, y
-
-V.- Servicios Públicos Municipales.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 72.
 
-La Dirección de Catastro y Control Urbano tendrá como función, integrar y administrar el catastro inmobiliario municipal, que se estructura con el conjunto de registros, padrones y documentos que permitan la identificación, localización, descripción, deslinde, cartografía, y valuación de todos los bienes inmuebles ubicados en el territorio municipal; conducir los procedimientos y emitir autorización de acciones de urbanización, de acciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de uso de suelo e imagen urbana, ejerciendo las funciones que en lo indicado se confieren al Ayuntamiento en la Ley de Desarrollo Urbano del Estado de Baja California y las Leyes, Reglamentos y normatividad que de ella emanen, los acuerdos y convenios que al respecto suscriba el Gobierno Municipal, así como las que le instruya el Secretario de Administración Urbana, ejerciendo las atribuciones que se confieren al Ayuntamiento en la Ley de Catastro Inmobiliario del Estado de Baja California, así como las que le establece el reglamento municipal de la materia o le instruya el Secretario de Administración Urbana.
+La Dirección de Catastro y Control Urbano tendrá como función, integrar y administrar el catastro inmobiliario municipal, que se estructura con el conjunto de registros, padrones y documentos que permitan la identificación, localización, descripción, deslinde, cartografía, y valuación de todos los bienes inmuebles ubicados en el territorio municipal; conducir los procedimientos y emitir la autorización de acciones de urbanización, de acciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de uso de suelo e imagen urbana, ejerciendo las funciones de que en lo indicado se confieren al Ayuntamiento en la Ley de Desarrollo Urbano del Estado de Baja California, y las Leyes, Reglamentos y normatividad que de ella emanen, los acuerdos y convenios que al respecto suscriba el Gobierno municipal, así como las que le instruya el Presidente Municipal, ejerciendo las atribuciones que se confieren al Ayuntamiento en la Ley de Catastro Inmobiliario del Estado de Baja California, así como las que le establece el reglamento municipal de la materia.
 
-Para el cumplimiento de lo señalado en el párrafo anterior, la Dirección de Catastro y Control Urbano tendrá bajo su cargo los siguientes departamentos:
+Para el cumplimiento de lo señalado en el párrafo anterior, la Dirección de Catastro, Control Urbano tendrá bajo su cargo los siguientes departamentos:
 
 I.- Valuación Inmobiliaria;
 
 II.- Registro Inmobiliario;
 
-III.- Cartografía.
+III.- Cartografía;
 
 IV.- Usos de suelo;
 
 V.- Fraccionamientos;
 
-VI.- Licencias de construcción; e
+VI.- Licencias de construcción;
 
-VII.- Inspecciones y Denuncias.
+VII.- Inspecciones y Denuncias; y
+
+La Dirección de Catastro y Control Urbano, contará con una oficina de despacho en la Zona Sur del Municipio.
 
 ###### ARTÍCULO 73.
 
-La Dirección de Control Urbano tendrá como función, conducir los procedimientos y emitir autorización de acciones de urbanización, de acciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de uso de suelo e imagen urbana, ejerciendo las funciones que en lo indicado se confieren al Ayuntamiento en la Ley de Desarrollo Urbano del Estado de Baja California y las Leyes, Reglamentos y normatividad que de ella emanen, los acuerdos y convenios que al respecto suscriba el Gobierno Municipal, así como las que le instruya el Secretario de Administración Urbana.
-
-Para el cumplimiento de lo señalado en el párrafo anterior, la Dirección de Control Urbano tendrá bajo su cargo los siguientes departamentos:
-
-I.- Usos de suelo;
-
-II.- Fraccionamientos;
-
-III.- Licencias de construcción;
-
-IV.- Inspecciones y Denuncias.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
 ###### ARTÍCULO 74.
 
@@ -1505,19 +1477,27 @@ IV.- Promover ante instancias u organizaciones públicas o privadas, nacionales 
 
 V.- Las demás que establezcan las Leyes y reglamentos o le instruya el Secretario de Administración Urbana.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 75.
 
-Para el cumplimiento de lo enunciado en el artículo anterior, la Dirección de Ecología contará con una coordinación administrativa, y además tendrá bajo su cargo los siguientes departamentos:
+Para el cumplimiento de lo previsto en el artículo anterior, La Dirección de Ecología tendrá bajo su cargo las siguientes áreas; una Subdirección, y tres Departamentos:
 
-I.- Planeación y Gestión Ambiental;
+I.- Subdirección
 
-II.- Inspecciones y Denuncias; y,
+II.- Planeación y Gestión Ambiental;
 
-III.- Educación Ambiental.
+III.- Inspección y Denuncias Ambientales; y
+
+IV.- Educación Ambiental
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 76.
 
-La Dirección de Infraestructura tendrá las atribuciones de planear, organizar, licitar, coordinar, dar seguimiento y controlar las obras de orden público que realice el Gobierno Municipal y para su ejecución contará con las siguientes áreas:
+La Dirección de Infraestructura, tendrá las atribuciones de Realizar los estudios técnicos y los proyectos ejecutivos, programar, planear, organizar, licitar, coordinar, dar seguimiento, controlar, vigilar y ejecutar las obras publicas que determine y realice el Gobierno Municipal, el Plan Municipal de Desarrollo, los convenios con los Gobiernos Estatal y Federal, los acordados por el Ayuntamiento o instruidos por el Presidente Municipal, por si o mediante invitación o licitación pública de acuerdo a la ley de Obra Pública Estatal o Federal según corresponda, leyes, Reglamentos y manuales de procedimientos establecidos
+
+Para su ejecución contará con las siguientes subdirecciones:
 
 I. Subdirección de Proyectos, y
 
@@ -1543,11 +1523,15 @@ VII.- Departamento de Vialidades, y
 
 VIII.- Administración del Centro Histórico.
 
-### CAPITULO SEXTO. DE LA SECRETARIA DE SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2014)</small>
+
+### CAPITULO SEXTO. DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 78.
 
-El Secretario de Seguridad Pública deberá cumplir con los siguientes requisitos:
+El Director de Seguridad Pública deberá cumplir con los siguientes requisitos:
 
 I.- Ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles;
 
@@ -1555,9 +1539,11 @@ II.- Tener suficiente instrucción, capacidad y honestidad a juicio del Ayuntami
 
 III.- No estar sujeto a proceso, ni haber sido condenado por delito intencional, ni destituido o inhabilitado en juicio de responsabilidad como funcionario público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 79.
 
-El Secretario de Seguridad Pública para el desempeño de su cargo tendrá las siguientes atribuciones:
+El Director de Seguridad Pública para el desempeño de su cargo tendrá las siguientes atribuciones:
 
 I.- Formular el proyecto de Programa de Seguridad Pública Municipal y someterlo para su aprobación al Ayuntamiento;
 
@@ -1591,21 +1577,25 @@ XIV.- Autorizar, dar seguimiento y evaluar la operación y funcionamiento de los
 
 XV.- Las demás que establezcan las Leyes, Bases de Coordinación en materia de seguridad pública, Reglamentos o le instruya el Presidente.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 80.
 
-Para el desempeño de sus funciones la Secretaria de Seguridad Pública contará con una organización Interna, cuyas facultades y atribuciones estarán contenidas en el Reglamento Orgánico de la Secretaría, así como los reglamentos internos de las siguientes Direcciones:
+Para el desempeño de sus funciones la Dirección de Seguridad Pública contará con una organización Interna, cuyas facultades y atribuciones estarán contenidas en el Reglamento Orgánico de la Secretaría, así como los reglamentos internos de las siguientes Subdirecciones:
 
-I.- Dirección de Policía y Tránsito Municipal; y
+I.- Subdirección de Policía y Tránsito Municipal; y
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+II.- Subdirección de Bomberos.
 
-II.- Dirección de Bomberos.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2014)</small>
 
-#### SECCION PRIMERA. DE LA DIRECCIÓN DE POLICIA Y TRÁNSITO MUNICIPAL
+#### SECCION PRIMERA. SUBDIRECCIÓN DE POLICIA Y TRÁNSITO MUNICIPAL
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 81.
 
-La Dirección de Policía y Tránsito Municipal estará a cargo de un titular a quien se denominará Director, quien deberá cumplir con los siguientes requisitos:
+La Subdirección de Policía y Tránsito Municipal estará a cargo de un titular a quien se denominará Subdirector de Policía y Tránsito quien deberá cumplir con los siguientes requisitos:
 
 I.- Ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles;
 
@@ -1613,9 +1603,11 @@ II.- Tener suficiente instrucción, capacidad y honestidad a juicio del Ayuntami
 
 III.- No estar sujeto a proceso, ni haber sido condenado por delito intencional, ni destituido o inhabilitado en juicio de responsabilidad como funcionario público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 82.
 
-El Director de Policía y Tránsito Municipal para el desempeño de su cargo tendrá las siguientes atribuciones:
+El Subdirector de Policía y Tránsito Municipal para el desempeño de su cargo tendrá las siguientes atribuciones:
 
 I.- Supervisar y controlar el personal operativo y administrativo a su cargo;
 
@@ -1639,11 +1631,17 @@ X.- Establecer las medidas necesarias para la observancia y el cumplimiento del 
 
 XI.- Procurar la coordinación eficaz con autoridades federales y estatales para el cumplimiento de la ley, y la preservación del orden y la seguridad pública;
 
-XII.- Mantener informado al Secretario de Seguridad Pública sobre las acciones realizadas por la dependencia;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
+XII.- Mantener informado al Director de Seguridad Pública sobre las acciones realizadas por la dependencia;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XIII.- Supervisar el desempeño de los agentes de la policía y tránsito municipal en las Delegaciones Municipales;
 
-XIV.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Secretario de Seguridad Pública.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
+XIV.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Director de Seguridad Pública.
 
 ###### ARTÍCULO 83.
 
@@ -1681,29 +1679,47 @@ XV.- Coordinarse con las autoridades sanitarias para vigilar que se conserve y m
 
 XVI.- Capacitar y coordinar un cuerpo de elementos para la elaboración de peritajes de hechos de tránsito; (sic)
 
-#### SECCION SEGUNDA. DE LA DIRECCIÓN DE BOMBEROS Y PROTECCION CIVIL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+#### SECCION SEGUNDA. DE LA SUBDIRECCIÓN DE BOMBEROS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 84.
 
-A la Dirección de Bomberos le corresponde el despacho de los siguientes asuntos:
+A la Subdirección de Bomberos le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
 I.- Auxiliar a la población en caso de desastres y combatir los incendios.
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
 II.- Atender las solicitudes de la instalación de los dispositivos de seguridad que el inmueble requiera para su construcción y cuando menos 15 días antes de su ocupación, y resolver por escrito en un plazo de 8 días hábiles, contados a partir del día siguiente al de la presentación de la solicitud, las resoluciones surtirán efecto al día siguiente hábil al de la notificación.
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
 III.- Revisar las instalaciones y medidas de la seguridad civil y aparatos o dispositivos para la prevención de los incendios a solicitud de los interesados, tratándose de inmuebles privados y de oficio en edificaciones con acceso al público en general.
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
 IV.- Revisar periódicamente las instalaciones o edificaciones de Escuelas, Edificios Públicos, Templos, Hospitales, Espectáculos, Teatros, Salones de Baile, Guarderías, Orfanatorios, Asilos, así como otros de asistencia social; Hoteles, Moteles, Restaurantes, Depósitos de materiales de Fácil combustión, inflamables o explosivos.
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
 V.- Elaborar un padrón de este tipo de edificaciones o instalaciones, zonas de riesgo y peligro.
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+
 VI.- Expedir los certificados de aprobación de los dispositivos de seguridad y prevención de incendios.
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
 VII.- Las demás, que este Reglamento, las Leyes Federales, Estatales y la Legislación Municipal, les confieren.
 
 ### CAPITULO SEPTIMO. DE LA SECRETARIA DE DESARROLLO SOCIAL
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 85.
 
@@ -1731,9 +1747,11 @@ X.- Coordinar, supervisar y evaluar las actividades de las diferentes direccione
 
 XI.- Presidir en representación del Presidente Municipal los actos o eventos de carácter público que se realicen, con anuencia del mismo;
 
-XII.- Coordinar las actividades de su competencia con las Dependencias y Entidades cuyos objetos y programas coincidan, y
+XII.- Coordinar las actividades de su competencia con las Dependencias y Entidades cuyos objetos y programas coincidan;
 
-XIII.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Presidente.
+XIII.- Propiciar y promover la participación directa, o los donativos de instituciones públicas o privadas, en la implementación de acciones conjuntas o de colaboración con el gobierno municipal; y
+
+XIV.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Presidente.
 
 ###### ARTÍCULO 86.
 
@@ -1813,17 +1831,27 @@ XV. Las demás que le atribuyan la ley del Régimen Municipal, las leyes, y regl
 
 Las Delegaciones Municipales son órganos administrativos para la desconcentración de funciones del gobierno municipal, que tienen por objeto realizar las acciones para preservar y mantener el orden, la tranquilidad y seguridad de los vecinos, asegurar la prestación de los servicios públicos municipales, así como la observancia del Bando de Policía y Gobierno y los demás reglamentos municipales, dentro de sus jurisdicciones territoriales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 90.
 
-El municipio de Ensenada, Baja California, cuenta con veintitrés Delegaciones, y son en orden alfabético las siguientes:
+El municipio de Ensenada, Baja California, cuenta con veintidós Delegaciones, y son en orden alfabético las siguientes:
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 I.- Bahía de los Ángeles;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 II.- Camalú;
 
-III.- Chapultepec;
+III.- (DEROGADA, P.O. 14 DE FEBRERO DE 2014)
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 IV.- El Mármol;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 V.- El Porvenir;
 
@@ -1863,13 +1891,13 @@ XXII.- Vicente Guerrero;
 
 XXIII.- Villa de Jesús María.
 
-(REFORMADO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 91.
 
-Con la finalidad de asegurar la prestación de los servicios públicos municipales, los representantes de las dependencias y entidades que se adscriban a cada Delegación Municipal, estarán bajo la coordinación administrativa y supervisión de un Delegado, que será el representante del Presidente Municipal, dentro de su respectiva jurisdicción, con excepción de las oficinas de la Sindicatura y la Sindicatura Social que se asienten en las Delegaciones.
+Con la finalidad de asegurar la prestación de los servicios públicos municipales, los representantes de las dependencias y entidades que se adscriban a cada Delegación Municipal, estarán bajo la coordinación administrativa y supervisión de un Delegado, que será el representante del Presidente Municipal, dentro de su respectiva jurisdicción, con excepción de las oficinas de la Sindicatura que se asienten en las Delegaciones.
 
-Los agentes de la Dirección de Policía y Tránsito estarán bajo la coordinación administrativa y mando del Delegado Municipal y supervisados por el Director de Policía y Tránsito Municipal.
+Los agentes de la Subdirección de Policía y Tránsito estarán bajo la coordinación administrativa y mando del Delegado Municipal y supervisados por el Subdirector de Policía y Tránsito Municipal.
 
 ###### ARTÍCULO 92.
 
@@ -1951,7 +1979,9 @@ XIII.- Administrar el fondo para gastos menores;
 
 XIV.- Las demás que determinen las Leyes y reglamentos o le instruya el Delegado municipal.
 
-### CAPITULO NOVENO. DE LAS ADMINISTRACIONES DE ZONA Y REGIONALES
+> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
+### CAPITULO NOVENO
 
 ###### ARTÍCULO 94.
 
@@ -1979,61 +2009,9 @@ Las Delegaciones y los servidores públicos que pertenezcan a las mismas y que i
 
 ### CAPÍTULO DÉCIMO. DE LA SECRETARÍA DE TURISMO
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2011)</small>
+ARTICULO 97 BIS.- (DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
-ARTÍCULO 97 BIS.- La Secretaría de Turismo tendrá las siguientes atribuciones:
-
-I. Conducir, organizar, promover y supervisar en coordinación con las autoridades competentes los programas, proyectos y actividades para desarrollar el potencial turístico del municipio de acuerdo a los objetivos y metas plasmado en el plan municipal de desarrollo.
-
-II. Asistir, apoyar y contribuir con el Comité de Planeación para el Desarrollo Municipal (COPLADEM) y con las autoridades competentes en la determinación de las metas y objetivos plasmados en el plan municipal de desarrollo.
-
-III. Proponer al Ayuntamiento la declaración de zonas turísticas en el Municipio, con su respectiva reglamentación para la protección y desarrollo de la misma, así como promover ante las Autoridades Estatales y Federales competentes la formulación de declaratorias para zonas de desarrollo turístico.
-
-IV. Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del municipio bajo criterios de eficiencia, productividad y ahorro en el gasto público otorgando mayor cercanía y calidad de servicios a la población.
-
-V. Coadyuvar con las Autoridades competentes para el cumplimiento de las Leyes y Reglamentos por parte de las empresas de prestación de servicios turísticos.
-
-VI. Promover la creación de organismos de carácter privado y social que tiendan a fomentar la inversión en materia turística y servicios conexos.
-
-VII. Ejercer las facultades de coordinación sectorial de la dependencia, reservando a las unidades de nivel central las funciones de regulación y supervisión y transfiriendo a las entidades paramunicipales del sector, la operación de los servicios a cargo del mismo. Igualmente, proporcionarles la asistencia y apoyo técnico que requieran para el otorgamiento de servicios.
-
-VIII. La protección auxilio y representación de los turistas en el municipio.
-
-IX. La regulación, clasificación y control de los servidores turísticos que dependan de esta secretaria.
-
-X. Concretar y promover con la Federación y Estado los programas, acciones y recursos que se emprendan en el Municipio para desarrollar el turismo e impulsar su transformación económica y social, otorgando prioridad a las zonas del municipio con mayor potencialidad turística, asegurando la preservación del medio ambiente y el desarrollo sustentable, así como la extensión de los beneficios a los distintos sectores de la población y las diversas regiones. Igualmente, fomentar junto con las autoridades competentes las zonas de desarrollo turístico y formular coordinadamente con las dependencias federales, estatales y municipales correspondientes la declaratoria respectiva.
-
-XI. Realizar estudios para aprovechar racionalmente y para fines turísticos, los recursos naturales y culturales del municipio, en una perspectiva de equilibrio ecológico y desarrollo económico sustentable.
-
-XII. Instrumentar, mantener y actualizar la información estadística relacionada con el turismo municipal y difundirla.
-
-XIII. Promover y apoyar el desarrollo de la infraestructura turística estimulando la participación de los sectores de la población involucrados; así como la formación del personal especializado que precise el desarrollo del sector, con el objetivo de elevar la calidad en la prestación de los servicios turísticos; además apoyar y estimular la formación de asociaciones, patronatos, comités y demás organismos que auspicien el turismo social y los proyectos turísticos con el medio rural.
-
-XIV. Colaborar con las autoridades competentes en las acciones para fomentar el cuidado y conservación de las zonas ecológicas, monumentos artísticos e históricos y en general objetos de interés cultural, así como en aquellas relacionadas con la administración y conservación de estas áreas recreativas de descanso, parques, bosques, montañas, playas, lagunas y otros atractivos típicos o naturales y de interés para el desarrollo turístico, procurando estimular la conservación y protección del entorno natural y cultural
-
-XV. Proporcionar en conjunto con las instituciones paramunicipales información y orientación a los turistas cubriendo los centros de mayor afluencia, carreteras y terminales de transporte terrestre y marítimo, según se requiera, así como establecer los mecanismos de apoyo y capacitación requeridos.
-
-XVI. Participar en acciones coordinadas con las dependencias competentes para auxiliar a los turistas en casos de emergencia o desastre.
-
-XVII. Promover los atractivos del municipio a través de los medios de comunicación, así como contratar los medios que sean idóneos para tal fin cuidando siempre cumplir con los objetivos del plan municipal de desarrollo.
-
-XVIII. Instrumentar programas con los prestadores de servicios turísticos nacionales y extranjeros para incrementar el flujo de turistas en el municipio.
-
-XIX. Establecer los aspectos de calidad y competitividad de los bienes y servicios turísticos con el fin de alcanzar el desarrollo turístico pretendido.
-
-XX. Coadyuvar con PROTURISMO de Ensenada, en la determinación y realización de de (sic) acciones encaminadas al fortalecimiento y desarrollo del Turismo en el Municipio.
-
-XXI. Las demás que determinen expresamente las leyes y reglamentos.
-
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2011)</small>
-
-ARTÍCULO 97 TER.- Para el cumplimiento de sus funciones, la Secretaría de Turismo tendrá a su cargo la siguiente estructura:
-
-I.- Dirección de Turismo;
-
-a) Departamento de Promoción Económica, Nuevos Proyectos y fomento a la inversión;
-
-b) Departamento de Mercadotecnia, Imagen, Eventos y Festejos.
+ARTÍCULO 97 TER.- (DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
 ## TITULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
@@ -2057,6 +2035,8 @@ V.- El órgano facultado para determinar su estructura orgánica y aprobar su re
 
 VI.- La manera en que se informará al Ayuntamiento sobre la aplicación de los recursos públicos asignados, los ingresos obtenidos, cuando así sea el caso y los resultados de gestión de la entidad de acuerdo a las metas trazadas en el programa operativo anual y el Plan Municipal de Desarrollo; (sic)
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 99.
 
 El Gobierno Municipal cuenta con las siguientes paramunicipales:
@@ -2075,13 +2055,17 @@ VI.- INMUDERE: Instituto Municipal del Deporte y Recreación en Ensenada;
 
 VII.- Centro Social Cívico y Cultural Riviera de Ensenada;
 
-VIII.- COPLADEM: Comité de Planeación para el Desarrollo Municipal.
+VIII.- COPLADEM: Comité de Planeación para el Desarrollo Municipal;
 
 IX.- IMCYDE: Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
 
-X.- INMUJERE: Instituto Municipal de la Mujer.
+X.- INMUJERE: Instituto Municipal de la Mujer de Ensenada;
 
-En el caso de las entidades paramunicipales ya existentes y enunciadas en este artículo, deberán contemplar en su Reglamento interno la manera en que se informará al Ayuntamiento sobre la aplicación de los recursos públicos asignados, los ingresos obtenidos, cuando así sea el caso y los resultados de gestión de la entidad de acuerdo a las metas trazadas en el programa operativo anual y el Plan Municipal de Desarrollo; (sic)
+XI.- COMIFE: Comité de Festejos de Ensenada, Baja California;
+
+XII.- IMJUVENS: Instituto Municipal de la Juventud de Ensenada.
+
+En el caso de las entidades paramunicipales ya existentes y enunciadas en este artículo, deberán contemplar en su Reglamento Interno la manera en que se informará al Ayuntamiento sobre la aplicación de los recursos públicos asignados, los ingresos obtenidos, cuando así sea el caso y los resultados de gestión de la entidad de acuerdo a las metas trazadas en el programa operativo anual y el Plan Municipal de Desarrollo; (sic)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -2388,3 +2372,45 @@ P.O. 22 DE NOVIEMBRE DE 2013.
 ACUERDO POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 104 Y ADICIÓN DEL 104 BIS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
 
 ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, B.C.
+
+P.O. 14 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los traspasos que por motivo de esta Reforma deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como los traspasos de recursos humanos y de los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para los asuntos a su cargo.
+
+###### ARTÍCULO TERCERO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO CUARTO.
+
+Los activos patrimoniales tales como vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que hubiere sido asignado a la Coordinación general de gabinete, Secretaria de Seguridad Pública Municipal, Secretaria de Administración Urbana, Secretaria de Administración y Finanzas y secretaria de Turismo, serán entregados a la oficialía mayor mediante acta de entrega recepción para que esta determine de acuerdo a sus facultades a que dependencia le serán turnados.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que con motivo de esta Reforma, deban pasar de una Dependencia a otra, seguirán su trámite normal y serán despachados por las autoridades que tomen el control de la dependencia que hubiese adquirido dichas obligaciones y facultades, para lo cual deberá realizarse el correspondiente proceso de entrega recepción a primera hora del día de entrada en vigor de esta Reforma.
+
+###### ARTÍCULO SEXTO.
+
+Las adecuaciones presupuestarias y traspasos de recursos humanos, materiales y financieros, así como de activos patrimoniales, deberán concluirse en un plazo no mayor de tres meses, a partir de la entrada en vigor de la presente Reforma, mediante el procedimiento que marca la ley en la materia.
+
+###### ARTÍCULO SEPTIMO.
+
+Las atribuciones, obligaciones y facultades que en otras disposiciones reglamentarias o leyes estén otorgadas a los titulares de las Secretarías y Direcciones que se modifican o desaparecen conforme a esta reforma, quedarán otorgadas a los titulares de las Direcciones, Subdirecciones, Dependencias y Entidades, que tengan las mismas atribuciones, obligaciones y facultades correspondientes, de acuerdo a este reglamento, en tanto no se dé cumplimiento a lo dispuesto por el Artículo Octavo Transitorio que precede.
+
+###### ARTÍCULO OCTAVO.
+
+El Ayuntamiento deberá dentro de un término de noventa días contados a partir de la entrada en vigor de la presente reforma, llevar a cabo las adecuaciones reglamentarias al marco jurídico municipal, derivadas de la presente reforma al Reglamento de la Administración Pública para el Municipio de Ensenada Baja California.
+
+###### ARTÍCULO NOVENO.
+
+Los derechos que se establecen en la Ley de Ingresos por los servicios que presten las dependencias que se suprime y modifican de acuerdo con la presente reforma, serán aplicados respecto de la dependencia que preste el servicio de conformidad a la presente reforma.
+
+###### ARTÍCULO DECIMO.
+
+Se derogan las disposiciones que se opongan al presente Acuerdo.
