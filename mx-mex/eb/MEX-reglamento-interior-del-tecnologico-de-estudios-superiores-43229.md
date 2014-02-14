@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4322
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-11"
-last_updated: "2007-01-04"
+last_updated: "2014-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CHALCO
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CHALCO
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CHALCO DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CHALCO, PUBLICADO EN LA G.G. DE 14 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE FEBRERO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 11 de enero de 2005.
 
@@ -177,7 +179,7 @@ XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aque
 
 XIV. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende su superior inmediato.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE ENERO DE 2007)</small>
 
 ### CAPITULO V. DE LAS SUBDIRECCIONES, DIVISIONES Y CONTRALORIA INTERNA
 
@@ -299,7 +301,7 @@ XII. Promover, con la participación de las demás unidades administrativas del 
 
 XIII. Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Director.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 19.
 
@@ -453,7 +455,7 @@ DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CHALCO Y SECRETARIO DE LA JUN
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 4 DE ENERO DE 2007.
 
@@ -464,3 +466,11 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 TERCERO.- Los asuntos que se encuentren en trámite en la División de Ingeniería en Sistemas Computacionales e Ingeniería Electrónica, en la fecha de entrada en vigor del presente Acuerdo, serán atendidos por la División de Ingeniería en Sistemas Computacionales y por la División de Ingeniería Electrónica, de acuerdo con las atribuciones que les son conferidas en este ordenamiento jurídico.
 
 CUARTO.-Se derogan las disposiciones de igualo menor jerarquía que sean contrarias al presente Acuerdo.
+
+G.G. 14 DE FEBRERO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior del Tecnológico de Estudios Superiores de Chalco, publicado en el Periódico Oficial "Gaceta del Gobierno" el 11 de enero de 2005.
