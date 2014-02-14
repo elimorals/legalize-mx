@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-fraccionamientos-para-el-estado-de-3778
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-13"
-last_updated: "2006-10-31"
+last_updated: "2014-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO GUBERNATIVO NÚMERO 69, PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de febrero de 2004.
 
@@ -587,7 +589,7 @@ EL SECRETARIO DE GOBIERNO
 
 GERARDO RODRIGUEZ OROZCO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 18 DE AGOSTO DE 2006.
 
@@ -596,3 +598,17 @@ Artículo Único.- El presente Decreto Gubernativo iniciará su vigencia el cuar
 P.O. 31 DE OCTUBRE DE 2006.
 
 Artículo Único.- El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE FEBRERO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO GUBERNATIVO NÚMERO 69 QUE SE RELACIONA CON EL REGLAMENTO.</small>
+
+Abrogación
+
+Artículo Único. Se abroga el Reglamento de la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios, contenido en el Decreto Gubernativo número 185, publicado en el Periódico Oficial del Gobierno del Estado número 26 Tercera Parte, el 13 de febrero de 2004.
+
+T R A N S I T O R I O
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
