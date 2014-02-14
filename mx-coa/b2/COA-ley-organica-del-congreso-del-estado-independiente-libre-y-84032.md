@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-8403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-25"
-last_updated: "2012-12-21"
+last_updated: "2014-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -713,6 +713,8 @@ En cada comisión fungirá como coordinador el diputado electo en primer términ
 
 Si un diputado se separa del Grupo Parlamentario al que pertenecía, el coordinador del propio Grupo podrá solicitar su sustitución en las Comisiones de que formaba parte, tomando en consideración lo dispuesto en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 67.
 
 El Congreso del Estado contará con las siguientes comisiones permanentes:
@@ -729,7 +731,9 @@ V. De Desarrollo Social;
 
 VI. De Educación, Cultura y Actividades Cívicas;
 
-VII. De Fomento Agropecuario;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
+VII. De Desarrollo Rural;
 
 VIII. De Obras Públicas y Transporte;
 
@@ -741,7 +745,9 @@ XI. De Asuntos Municipales y Zonas Metropolitanas;
 
 XII. De Atención Ciudadana;
 
-XIII. De Equidad y Género;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
+XIII. Para la Igualdad de Género;
 
 XIV. De la Defensa de los Derechos Humanos;
 
@@ -933,9 +939,11 @@ X. Conmemoraciones históricas y actos cívicos; y
 
 XI. Otros aspectos que sean o se consideren de la competencia de esta comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 74.
 
-La Comisión de Fomento Agropecuario conocerá de los asuntos relacionados con:
+La Comisión de Desarrollo Rural conocerá de los asuntos relacionados con:
 
 I. Desarrollo agrícola, ganadero, forestal, pesquero y agroindustrial;
 
@@ -1063,11 +1071,15 @@ III. Atención de las solicitudes relativas a este tipo de asuntos, ante las ins
 
 IV. Otros aspectos que sean o se consideren de la competencia de esta comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 80.
 
-La Comisión de Equidad y Género conocerá de los asuntos relacionados con:
+La Comisión Para la Igualdad de Género conocerá de los asuntos relacionados con:
 
-I. Equidad entre la mujer y el hombre en la sociedad;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
+I. Igualdad entre la mujer y el hombre en la sociedad;
 
 II. Igualdad y tolerancia entre mujeres y hombres;
 
@@ -1077,13 +1089,23 @@ IV. Igualdad de derechos de las mujeres y hombres en todos los órdenes;
 
 V. Participación de las mujeres y hombres en la toma de decisiones y en el acceso a los beneficios del desarrollo;
 
-VI. Promoción de una cultura de equidad entre los géneros femenino y masculino;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
-VII. Cumplimiento de los acuerdos, convenios y conferencias internacionales en materia de equidad y género;
+VI. Promoción de una cultura de igualdad entre los géneros;
 
-VIII. Creación de espacios de expresión plural y de género, de las personas que trabajan por la igualdad de la mujer y contra la violencia hacia las mismas; promoviendo respetuosamente la esfera competencial del Instituto Coahuilense de las Mujeres, para impulsar las políticas públicas en esta materia; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
-IX. Otros aspectos que sean o se consideren de la competencia de esta comisión.
+VII. Cumplimiento de los Acuerdos, Convenios y Conferencias Internacionales en materia de igualdad de género;
+
+VIII. Creación de espacios de expresión plural y de género, de las personas que trabajan por la igualdad de la mujer y contra la violencia hacia las mismas; promoviendo respetuosamente la esfera competencial del Instituto Coahuilense de las Mujeres, para impulsar las políticas públicas en esta materia; y (sic)
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
+IX. Legislación estatal en materia de igualdad y prevención de la violencia por motivo de género.
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
+X. Otros aspectos que sean o se consideren de la competencia de esta comisión.
 
 ###### ARTÍCULO 81.
 
@@ -2802,3 +2824,17 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La distribución que se establece en este decreto, sobre los tiempos en que habrán de desarrollarse los períodos ordinarios de sesiones del Congreso del Estado y los períodos de funcionamiento de la Diputación Permanente, surtirá efectos a partir del Segundo Año del Ejercicio Constitucional de la LIX Legislatura, que se inicia el 1 de enero de 2013.
 
 TERCERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE FEBRERO DE 2014.
+
+DECRETO NÚMERO 452, POR EL QUE SE MODIFICA EL CONTENIDO DE LA FRACCIÓN XIII DEL ARTÍCULO 67, Y EL CONTENDIDO DE LAS FRACCIONES I, VI, VII Y IX Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 80 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los asuntos turnados a la actual Comisión de Equidad y Género del Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, se entenderán remitidos a la Comisión Para la Igualdad de Género.
+
+P.O. 14 DE FEBRERO DE 2014.
+
+DECRETO NÚMERO 453, POR EL QUE SE REFORMAN LOS ARTÍCULOS 67, FRACCIÓN VII Y 74, PRIMER PÁRRAFO, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
