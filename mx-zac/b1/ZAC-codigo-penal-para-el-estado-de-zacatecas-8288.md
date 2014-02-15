@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2014-01-11"
+last_updated: "2014-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "ZAC"
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE FEBRERO DE 2014 Y REPUBLICADA EN EL SUPLEMENTO 6 DEL P.O. DE 15 DE FEBRERO DE 2014.</small>
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1127,9 +1129,9 @@ Estas disposiciones sólo serán aplicables cuando no existan otras de la compet
 
 DELITOS CONTRA EL DESARROLLO DE LAS PERSONAS MENORES DE EDAD Y LA PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2014)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2014) (F. DE E., P.O. 15 DE FEBRERO DE 2014)
 
-181.- A quien por cualquier medio, procure, induzca o facilite a una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, al consumo de estupefacientes, substancias psicotrópicas u otras susceptibles de producir dependencia o bebidas embriagantes, para que adquiera los hábitos de la farmacodependencia o el alcoholismo, o a formar parte de una asociación delictuosa o de la delincuencia organizada será sancionado con prisión de cuatro a nueve años y de quinientas a veinte mil cuotas.
+181.- A quien por cualquier medio, procure, induzca o facilite a una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, al consumo de estupefacientes, substancias psicotrópicas u otras susceptibles de producir dependencia o bebidas embriagantes, para que adquiera los hábitos de la farmacodependencia o el alcoholismo, o a formar parte de una asociación delictuosa o de la delincuencia organizada será sancionado con prisión de cuatro a nueve años y de cincuenta a doscientas cuotas.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1139,9 +1141,9 @@ Cuando de la práctica reiterada del activo, el pasivo del delito adquiera los h
 
 A quien emplee, aun gratuitamente, a personas menores de dieciocho años o que no tengan la capacidad de comprender el significado del hecho, en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato o se presenten al público espectáculos sexuales, se le aplicará prisión de uno a cuatro años y multa de cien a doscientas cuotas, así como el cierre definitivo del establecimiento.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
+(REFORMADO, P.O. 11 DE ENERO DE 2014) (F. DE E., P.O. 15 DE FEBRERO DE 2014)
 
-Al que obligue o induzca a una persona menor de edad o a quien no tenga la capacidad para comprender el significado del hecho, a la práctica de la mendicidad, será sancionado con prisión de cuatro a nueve años y de quinientas a veinte mil cuotas.
+Al que obligue o induzca a una persona menor de edad o a quien no tenga la capacidad para comprender el significado del hecho, a la práctica de la mendicidad, será sancionado con prisión de cuatro a nueve años y de cincuenta a doscientas cuotas.
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
 
