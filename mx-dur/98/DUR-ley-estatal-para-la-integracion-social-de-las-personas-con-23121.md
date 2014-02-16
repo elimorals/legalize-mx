@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-la-integracion-social-de-las-personas-con-2312
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-23"
-last_updated: "2007-05-06"
+last_updated: "2014-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY ESTATAL PARA LA INTEGRACION SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-LEY ESTATAL PARA LA INTEGRACION SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
+LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 23 de diciembre de 2001.
 
@@ -115,7 +115,17 @@ XXII. Comisión Estatal Coordinadora.- A la Comisión Estatal Coordinadora para 
 
 XXIII. DIF.- Al Sistema Estatal para el Desarrollo Integral de la Familia,
 
-XXIV. Ley.- A la Ley Estatal para la Integración Social de las Personas con Discapacidad.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
+
+XXIV. DIF.- Al Sistema Estatal para el Desarrollo Integral de la Familia (sic);
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2014)</small>
+
+XXV. Ley.- A la Ley Estatal para la Integración Social de las Personas con Discapacidad; y
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2014)</small>
+
+XXVI. Permiso temporal.- Es el documento de identificación que expiden las direcciones municipales de vialidad o las dependencias equivalentes de los Ayuntamientos, a los automovilistas que de manera temporal presenten una discapacidad parcial o total y a las personas con discapacidad, que sin ser propietarios o poseedores de un vehículo automotor, sean transportados por automovilistas que no cuenten con placas para discapacitados; (sic)
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
@@ -845,9 +855,27 @@ Las personas ciegas acompañadas de perros guías tendrán libre acceso a todos 
 
 La Secretaría de Finanzas y de Administración del Gobierno del Estado, expedirá las placas y calcomanías de identificación correspondientes a los vehículos que usan o transportan a personas con discapacidad permanente.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 70.
 
-Las direcciones municipales de vialidad o sus equivalentes, expedirán permisos temporales hasta por un año para los vehículos que usan o transportan a personas con discapacidad temporal.
+Las Direcciones Municipales de Vialidad o las dependencias equivalentes de los Ayuntamientos, expedirán los permisos temporales, los cuales deberán contener como mínimo los siguientes datos:
+
+I. La autoridad que emite el permiso temporal;
+
+II. El nombre del automovilista con discapacidad temporal o, en su caso, el de la persona responsable de su traslado;
+
+III. La fotografía del titular del permiso temporal;
+
+IV. La Autoridad del sector Salud que expide el Certificado de incapacidad temporal o el dictamen médico;
+
+V. La vigencia que corresponderá a la incapacidad temporal que señale el dictamen médico;
+
+VI. Los datos del vehículo debiendo de estar completamente visible el número de placas en que se trasladará a la persona discapacitada temporalmente; y
+
+VII. La leyenda: "El presente permiso temporal es utilizado por la persona con discapacidad temporal, para que el vehículo que lo transporte pueda hacer uso de los espacios destinados para personas con discapacidad. Solicitando a las autoridades correspondientes, brindar la (sic) facilidades necesarias, para el correcto uso del presente permiso temporal.”
+
+El permiso temporal deberá portarse en el vidrio parabrisas frontal del vehículo a motor, el cual deberá de estar totalmente visible hacia el exterior del mismo.
 
 ###### Artículo 71.
 
@@ -1012,3 +1040,9 @@ P.O. 6 DE MAYO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE FEBRERO DE 2014.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se oponga al presente Decreto.
