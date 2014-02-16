@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2014-01-15"
+last_updated: "2014-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -205,11 +205,13 @@ Los empleados de confianza y supernumerarios no disfrutarán del derecho de inam
 
 Las actuaciones o certificaciones que se hicieren con motivo de la aplicación de la presente Ley, no causarán impuesto alguno.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 17o.
 
-En lo no previsto por esta Ley o sus reglamentos, se aplicarán supletoriamente, y en su orden, la Ley Federal de los Trabajadores al Servicio del Estado reglamentaria del apartado B) del Artículo 123 Constitucional; la Ley Federal del Trabajo; los principios generales que se deriven de dichos ordenamientos; los principios generales del derecho; los principios generales que se deriven del Artículo 123 de la Constitución General de la República; la Jurisprudencia, la costumbre y la equidad.
+En lo previsto por esta Ley o sus reglamentos, se aplicarán supletoriamente, y en su orden, la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B) del Artículo 123 Constitucional; la Constitución Política del Estado Libre y Soberano de Durango; la Ley Federal del Trabajo; los principios generales que se deriven de dichos ordenamientos; los principios generales del derecho; los principios generales que se deriven del artículo 123 de la Constitución General de la República, la jurisprudencia, la costumbre y la equidad.
 
-Asimismo, los tratados, las resoluciones y los convenios aprobados de conformidad con lo dispuesto por el Artículo 133 de la Constitución serán aplicables a las relaciones de trabajo en todo lo que beneficie al trabajador.
+Asimismo, los tratados Internacionales ratificados por el Estado Mexicano, las resoluciones y convenios aprobados de conformidad con lo dispuesto por el artículo 133 de la Constitución, así como los criterios emitidos por los organismos y órganos jurisdiccionales internacionales de protección a los derechos humanos, les serán aplicables a las relaciones de trabajo en todo lo que beneficie al trabajador.
 
 ## TITULO SEGUNDO. DE LAS CONDICIONES GENERALES DE TRABAJO
 
@@ -619,13 +621,13 @@ En los casos a que se refiere este Artículo, el trabajador que diere motivo par
 
 Si el Tribunal resuelve que fué justificado el cese, el trabajador no tendrá derecho al pago de salarios caídos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 63o.
 
-El trabajador podrá solicitar ante el Tribunal Laboral Burocrático, a su elección, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario.
+El Trabajador podrá optar por solicitar ante el Tribunal Laboral Burocrático, que se le reinstale en el trabajo que desempeñaba, o bien, que se le indemnice con el importe de tres meses de salario.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 Si en el Juicio correspondiente no comprueba el Titular de la Dependencia o Entidad Administrativa respectiva, la causa del cese o suspensión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios caídos desde la fecha del despido hasta que se cumplimente la sentencia.
 
@@ -1482,3 +1484,9 @@ SEXTO.- En todo caso se respetarán los derechos adquiridos de los trabajadores 
 SÉPTIMO.- Los Trabajadores de la Educación al Servicio del Estado que al momento de la entrada en vigor del presente Decreto estén laborando y que enfermaren, tendrán derecho a ser atendidos mediante los servicios de salud que correspondan y, asimismo, gozarán de las medicinas y disfrutarán del sueldo que les corresponda, mientras dure la enfermedad, sin que les apliquen las disposiciones contenidas en los Capítulos Primero y Segundo del Título Quinto de la Ley reformados y adicionados mediante el presente, debiendo sujetarse a las disposiciones contenidas en el Capítulo Tercero del Título Quinto y a las demás disposiciones reglamentarias.
 
 Los Trabajadores de la Educación al Servicio del Estado que ingresen al servicio a partir de la entrada en vigor del presente decreto, se regirán por todas las disposiciones contenidas en la presente ley y sus disposiciones reglamentarias.
+
+P.O. 16 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
