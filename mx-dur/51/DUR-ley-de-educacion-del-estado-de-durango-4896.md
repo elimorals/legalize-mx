@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2013-12-19"
+last_updated: "2014-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -141,15 +141,15 @@ El Gobierno del Estado y los Ayuntamientos, con la participación social, instru
 
 En la erradicación del rezago se dará prioridad a los programas que persigan cumplir el objetivo de proporcionar Educación Básica para todos los habitantes del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 7.
 
-La educación que impartan el Gobierno del Estado y los Municipios, será gratuita. Está prohibido cobrar cuotas de inscripción y/o solicitar pagos de cualquier índole.
+La educación que el Estado imparta será gratuita. Las donaciones o cuotas voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo. Las autoridades educativas en el ámbito de su competencia, establecerán los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias.
 
-Los servidores públicos que infrinjan la anterior disposición, serán objeto de las sanciones indicadas en la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, así como las señaladas en el Código Penal para el Estado Libre y Soberano de Durango.
+Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación del servicio educativo a los educandos.
 
-Podrán aceptarse donativos voluntarios que proporcionen los padres de familia para el mejoramiento de los establecimientos educativos, que no podrán considerarse como contraprestaciones del servicio educativo. En ningún caso podrán condicionarse la inscripción o el acceso al servicio educativo público, al pago del mencionado donativo.
+En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
 ###### ARTICULO 8.
 
@@ -1938,3 +1938,13 @@ TERCERO.- Los trabajadores del magisterio, por cada cinco años de servicios efe
 CUARTO.- Cualquier mención del Tribunal de Conciliación y Arbitraje en el presente decreto se entenderá como Tribunal Laboral Burocrático.
 
 QUINTO.- Se derogan todas las disposiciones legales en lo que se opongan a la presente iniciativa de decreto.
+
+P.O. 16 DE FEBRERO DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que opongan al presente decreto.
