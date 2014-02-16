@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-deuda-publica-del-estado-de-durango-y-sus-municipios-451
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-19"
-last_updated: "2007-12-20"
+last_updated: "2014-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
+LEY DE DEUDA PÚBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 19 de mayo de 2005.
 
@@ -165,13 +165,17 @@ III. Autorizar al Estado para que se constituya en garante, avalista o deudor so
 
 IV. Autorizar a los Municipios para que se constituyan en garantes, avalistas o deudores solidarios de deuda de las entidades paramunicipales;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
 
-V. Autorizar al Estado y los Municipios, según sea el caso, en la correspondiente Ley de Ingresos o mediante decretos, la afectación de las participaciones federales, de las aportaciones federales, de las participaciones estatales y/o de otros ingresos, en beneficio de los acreedores de la deuda de las entidades, ya sea como garantía, fuente de pago o en cualquier otra forma; y
+V. Autorizar al Estado y los Municipios, según sea el caso, en la correspondiente Ley de Ingresos o mediante decretos, la afectación de las participaciones federales, de las aportaciones federales, de las participaciones estatales y/o de otros ingresos, en beneficio de los acreedores de la deuda de las entidades, ya sea como garantía, fuente de pago o en cualquier otra forma;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
 
-VI. Autorizar al Estado y los Municipios, según sea el caso, la afectación de las participaciones federales, las aportaciones federales, de las participaciones estatales y/o de otros ingresos, con respecto a obligaciones que no constituyan deuda y que se deriven de contratos que celebren las entidades dentro de sus respectivos ámbitos de competencia.
+VI. Autorizar al Estado y los Municipios, según sea el caso, la afectación de las participaciones federales, las aportaciones federales, de las participaciones estatales y/o de otros ingresos, con respecto a obligaciones que no constituyan deuda y que se deriven de contratos que celebren las entidades dentro de sus respectivos ámbitos de competencia; y
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2014)</small>
+
+VII. Autorizar a los municipios la afectación de las aportaciones federales como cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
@@ -199,7 +203,7 @@ III. Podrán afectarse las participaciones o las aportaciones federales, en su c
 
 IV. El destino de los créditos deberá apegarse a lo establecido en esta ley y la normatividad vigente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 6.
 
@@ -227,9 +231,9 @@ IV. Se cuente con la debida autorización del Ayuntamiento y el visto bueno de l
 
 V. Se informe al Congreso dentro de los cuarenta y cinco días naturales posteriores a la contratación.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
 
-La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada. Asimismo, una vez que el saldo insoluto del principal de la deuda contratada conforme al segundo párrafo de este Artículo rebase el 3% de los ingresos ordinarios de la entidad de que se trate durante el ejercicio fiscal correspondiente, la entidad respectiva no podrá disponer nueva deuda al amparo de dicho párrafo sino hasta que transcurran 30 días naturales después de la fecha en que se pague en su totalidad dicho saldo insoluto del principal.
+La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada. Asimismo, una vez que el saldo insoluto del principal de la deuda contratada conforme al segundo párrafo de este Artículo alcance el 5% (cinco por ciento) de los ingresos ordinarios de la entidad de que se trate durante el ejercicio fiscal correspondiente, la entidad respectiva no podrá disponer nueva deuda al amparo de dicho párrafo sino hasta que transcurran 30 días naturales después de la fecha en que se pague en su totalidad dicho saldo insoluto del principal.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
@@ -259,7 +263,15 @@ I. Efectuar oportunamente, ya sea en forma directa o mediante los mecanismos que
 
 II. Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de deuda a cargo del Estado, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre que el endeudamiento haya sido autorizado o contratado en los términos de la presente ley;
 
-III. Reestructurar la deuda contraída ya sea como deudor, garante o avalista, o cualquier obligación contingente, en el entendido que, en caso de que dicha reestructura tenga como objeto mejorar las condiciones originales de la deuda mediante la disminución de la tasa de interés o la modificación de las garantías, no se requerirá la autorización del Congreso;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
+
+III. Reestructurar la deuda contraída ya sea como deudor, garante o avalista, o cualquier obligación contingente, en el entendido que, en caso de que dicha reestructura tenga como objeto mejorar las condiciones originales de la deuda, no se requerirá la autorización del Congreso. Las mejoras podrán contemplar:
+
+a) La disminución de la tasa de interés;
+
+b) La modificación de las garantías;
+
+c) La adopción de una tasa de interés fija por un periodo determinado de tiempo. Lo anterior, en el entendido de que si dicho periodo excede los 90 días naturales posteriores al término de la administración, se requerirá la aprobación del Congreso.
 
 IV. Constituir al Estado en garante, avalista o deudor solidario de la deuda contraída por cualquiera de las demás entidades señaladas en el artículo 1 de esta Ley, previa autorización del Congreso y sujeto a lo establecido en esta Ley;
 
@@ -336,6 +348,10 @@ Las entidades sólo podrán contratar deuda cuando los recursos obtenidos de la 
 ###### ARTÍCULO 12.
 
 La contratación de deuda por parte de las entidades se sujetará a los montos de endeudamiento neto aprobados por el Congreso y a lo establecido en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2014)</small>
+
+La contratación de instrumentos derivados que esté dirigida a mitigar los riesgos de mercado de un financiamiento, no computará en el cálculo de endeudamiento neto aprobado por el Congreso o por el Ayuntamiento, según sea el caso.
 
 ###### ARTÍCULO 13.
 
@@ -469,10 +485,16 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE DICIEMBRE DE 2007.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente.
+
+P.O. 16 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
