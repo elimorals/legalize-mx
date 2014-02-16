@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5063
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-14"
-last_updated: "1995-12-21"
+last_updated: "2014-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE DURANGO
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 14 de Agosto de 1980.
 
@@ -159,7 +159,7 @@ El Presupuesto de Egresos del Estado comprenderá las previsiones de gasto públ
 
 El Presupuesto de Egresos del Estado comprenderá también, en Capítulo especial, las previsiones de gasto público que habrán de realizar las Entidades señaladas en las Fracciones V a VII del propio Artículo 2o., cuando se determine que sus erogaciones deben incluirse en dicho presupuesto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 15.
 
@@ -168,10 +168,6 @@ Para la formulación del Proyecto de Presupuesto de Egresos del Estado, las Enti
 Las proposiciones de las Entidades se remitirán a través y con la conformidad de la Secretaría o Dependencia administrativa que corresponda según su ubicación en la Ley Orgánica de la Administración Pública Estatal.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 16o.
-
-La Secretaría de Finanzas queda facultada para formular el proyecto de Presupuesto de las Entidades cuando estas no lo presenten en el plazo que les fuera señalado.
 
 ###### ARTICULO 16.
 
@@ -203,11 +199,11 @@ IX.- Comentarios sobre las condiciones económicas, financieras y hacendarias ac
 
 X.- En general toda la información que se considere útil para mostrar la proposición en forma clara y completa.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 18.
 
-El Proyecto de Presupuesto de Egresos del Estado, deberá ser presentado oportunamente al Gobernador del Estado, por la Secretaría de Finanzas y Administración, para ser enviado al Congreso del Estado a más tardar el día 12 de Diciembre del año inmediato anterior al que corresponde.
+El proyecto del Presupuesto de Egresos del Estado, deberá ser presentado oportunamente al Gobernador del Estado, por la Secretaría de Finanzas y Administración, para ser enviado al Congreso del Estado a más tardar el día treinta de noviembre de cada año inmediato anterior al que corresponde.
 
 ###### ARTICULO 19.
 
@@ -291,7 +287,7 @@ La Secretaría de Finanzas examinará y autorizará en su caso los actos y contr
 
 En casos excepcionales y debidamente justificados, la Secretaría de Finanzas podrá autorizar que se celebren contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestarias aprobadas para una (sic) año, pero en estos casos los compromisos excedentes no cubiertos quedarán sujetos, por lo que hace a su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 32.
 
@@ -327,7 +323,7 @@ Es incompatible el desempeño de un empleo o comisión remunerado con cargo a al
 
 En todo caso los interesados podrán optar por el empleo o comisión que les convenga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 37.
 
@@ -387,7 +383,7 @@ Asimismo, examinará periódicamente el funcionamiento del sitema (sic) y los pr
 
 Los estados financieros y demás información financiera presupuestal y contable que emanen de las contabilidades de las Entidades comprendidas en el Presupuesto de Egresos del Estado, serán consolidadas por la Secretaría de Finanzas, la que será responsable de formular la Cuenta Anual de Gasto Estatal y someterlo a la consideración del Gobernador del Estado, para su presentación al Congreso del Estado en los términos del Artículo 70 Fracción XIV de la Constitución Política del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO V. DE LOS MUNICIPIOS DEL ESTADO
 
@@ -415,13 +411,15 @@ Los Municipios llevarán su propia contabilidad, la que estará constituida con 
 
 Los Municipios presentarán ante el Congreso del Estado, durante la segunda quincena del mes de Marzo de cada año, la Cuenta Pública del año anterior para su aprobación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO VI. DE LAS RESPONSABILIDADES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
-ARTICULO 49 La Secretaría de Finanzas del Estado dictará las medidas administrativas sobre las responsabilidades que afecten a la Hacienda Pública y al patrimonio de las entidades de la administración pública paraestatal, derivadas del incumplimiento de las disposiciones contenidas en esta Ley y de las que se hayan expedido con base en ella y que se conozcan a través de:
+###### ARTICULO 49.
+
+La Secretaría de Finanzas del Estado dictará las medidas administrativas sobre las responsabilidades que afecten a la Hacienda Pública y al patrimonio de las entidades de la administración pública paraestatal, derivadas del incumplimiento de las disposiciones contenidas en esta Ley y de las que se hayan expedido con base en ella y que se conozcan a través de:
 
 I.- Visitas, auditorías o investigaciones que realice la propia Secretaría;
 
@@ -503,7 +501,7 @@ El C. Gobernador Constitucional del Estado dispondrá se publique, circule y obs
 
 Dado en el Salón de Sesiones del H. Congreso del Estado en Victoria de Durango, Dgo., a los (15) quince días del mes de Julio del año de (1980) mil novecientoc (sic) ochenta.
 
-Profr. Elías Vázquez Payán, Diputado Presidente.-Profra. Zina Ruiz de León, Diputada Secretaria Int.- Lic. Moisés Moreno Armendariz, Diputado Secretario Int.- Rúbricas.
+Profr. Elías Vázquez Payán, Diputado Presidente.- Profra. Zina Ruiz de León, Diputada Secretaria Int.- Lic. Moisés Moreno Armendariz, Diputado Secretario Int.- Rúbricas.
 
 Por tanto mando se imprima, publique, circule y comunique a quienes corresponda para su exacta observancia.
 
@@ -517,7 +515,7 @@ El Secretario General de Gobierno,
 
 Lic. CARLOS GALINDO MARTINEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE FEBRERO DE 1984.
 
@@ -551,4 +549,10 @@ UNICO.- El presente Decreto surtirá sus efectos legales a partir del día sigui
 
 P.O. 21 DE DICIEMBRE DE 1995.
 
-UNICOS.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE FEBRERO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
