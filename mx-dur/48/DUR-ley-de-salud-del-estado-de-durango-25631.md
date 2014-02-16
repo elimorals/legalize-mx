@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2012-12-23"
+last_updated: "2014-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 310, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2012, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 1 DE FEBRERO DE 2013.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -43,7 +41,7 @@ SEGUNDO.- La salubridad pública es la parte del derecho de protección a la sal
 
 TERCERO.- La historia de la salud en nuestro país se relaciona estrechamente con la conformación de nuestro país, ya que el Estado se ha preocupado constantemente por lograr el bienestar de la población estableciendo políticas asistenciales en la salud. En el siglo XX se establecieron amplias posibilidades para una definición moderna de la política asistencial en el campo de la salud, ya que en la década de los cuarenta se inició una nueva etapa económica del país, caracterizada por el acelerado proceso de industrialización y urbanización, pasando de un país preponderantemente rural a uno más urbano, lo cual es definitivo para el desarrollo económico, sin embargo, existen zonas altamente marginadas y grandes rezagos en satisfactores básicos, ya que las comunidades están dispersas y alejadas y con diversas necesidades. En el campo de la salud coexisten enfermedades vinculadas al desarrollo industrial y tecnológico, con aquellas que caracterizan a la pobreza; no obstante se reconoce que han disminuido las enfermedades y muerte de origen infeccioso pero también se han incrementado los padecimientos crónicos degenerativos.
 
-CUARTO.- El artículos 4° Constitucional, fue adicionado en 1983 como respuesta a un reclamo de la sociedad de aspirar a mejores niveles de vida y como responsabilidad histórica de los tres ordenes de gobierno, como resultado de tal adición se reformó la legislación sanitaria, dando inició a la descentralización de los servicios de salud para la atención de la población abierta; y si bien es cierto, el sistema de salud ha tenido avances importantes, no está plenamente desarrollado, debiendo transformarse para atender los problemas de salud y establecer las bases, mecanismos y acciones para establecer una estructura preventiva y de atención que resuelva eficazmente las necesidades del futuro.
+CUARTO.- El artículo 4° Constitucional, fue adicionado en 1983 como respuesta a un reclamo de la sociedad de aspirar a mejores niveles de vida y como responsabilidad histórica de los tres ordenes de gobierno, como resultado de tal adición se reformó la legislación sanitaria, dando inició a la descentralización de los servicios de salud para la atención de la población abierta; y si bien es cierto, el sistema de salud ha tenido avances importantes, no está plenamente desarrollado, debiendo transformarse para atender los problemas de salud y establecer las bases, mecanismos y acciones para establecer una estructura preventiva y de atención que resuelva eficazmente las necesidades del futuro.
 
 QUINTO.- En 1996 se formaliza el Acuerdo Nacional que suscriben el Gobierno Federal, los Gobiernos de cada una de las Entidades Federativas de la República Mexicana y el Sindicato Nacional de Trabajadores de la Secretaría de Salud, con la finalidad de resolver rezagos acumulados, atender las nuevas demandas y la problemática, siendo necesario redefinir estructuralmente el sistema de salud en nuestro país, los compromisos derivados del acuerdo consisten en atender principalmente cuatro aspectos fundamentales: la descentralización a las Entidades Federativas de los servicio (sic) de la población no asegurada; la configuración de sistemas estatales; la ampliación de la cobertura a través de un paquete básico de servicios; y el mejoramiento de la calidad y eficiencia de las instituciones mediante la coordinación sectorial. Aspecto importante resulta el analizar las condiciones en que se proporcionan los servicios de salud, independientemente del carácter público o privado del prestador, o la condición socioeconómica del usuario; en este sentido, es importante destacar la política asistencial que se consolidó en un Sistema Nacional de Salud, integrado por la Secretaría de Salud como Institución promotora de la justicia social en el país, por las Instituciones dedicadas a la seguridad social, así como al campo de la medicina privada.
 
@@ -1155,15 +1153,25 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I.- La atención de la mujer, durante el embarazo, el parto y puerperio. En este caso, el personal de salud, pública o privada, deberán evitar la violencia obstétrica.
 
-II. La atención de la niña, y el niño, así como la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y (sic)
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+II.- La atención del niño y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
 
-III. La vigilancia del crecimiento y desarrollo de los recién nacidos hasta los dos años de edad, así como detectar de manera temprana los problemas de neurodesarrollo y patología que pudieran tener, para lo cual se contará con una Cartilla Estatal de Neurodesarrollo, la cual se entregará de manera gratuita por las instituciones públicas y privadas del sector salud; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+III.- La revisión de retina y tamiz auditivo al prematuro;
 
-IV. La promoción de la integración y el bienestar familiar.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
+
+IV.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2014)</small>
+
+V.- La vigilancia del crecimiento y desarrollo de los recién nacidos hasta los dos años de edad, así como detectar de manera temprana los problemas de neurodesarrollo y patología que pudieran tener, para lo cual se contará con una Cartilla Estatal de Neurodesarrollo, la cual se entregará de manera gratuita por las instituciones públicas y privadas del sector salud; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2014)</small>
+
+VI.- La promoción de la integración y el bienestar familiar.
 
 ###### ARTÍCULO 82.
 
@@ -2207,7 +2215,7 @@ ARTÍCULO 173 BIS 6.- Se considerará disposición ilícita de órganos, tejidos
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
 
-ARTÍCULO 177 BIS.- Los tratamientos quirúrgicos considerados como liposucción, Iipoaspiración o lipoescultura, realizados a base de maniobras terapéuticas del campo invasivo quirúrgico enmarcados en la cirugía plástica, estética y reconstructiva, de conformidad con lo que establece el artículo 272 bis de La Ley General de Salud, solamente los podrán practicar aquellos profesionistas de la medicina que cuenten con la respectiva cédula profesional y la documentación que acredite la especialización en cirugía plástica, estética y reconstructiva, expedida por instituciones académicas que formen parte del sistema educativo nacional. Las liposucciones, en todos los casos requerirán de la valoración preparatoria de los pacientes.
+ARTÍCULO 177 BIS.- Los tratamientos quirúrgicos considerados como liposucción, lipoaspiración o lipoescultura, realizados a base de maniobras terapéuticas del campo invasivo quirúrgico enmarcados en la cirugía plástica, estética y reconstructiva, de conformidad con lo que establece el artículo 272 bis de La Ley General de Salud, solamente los podrán practicar aquellos profesionistas de la medicina que cuenten con la respectiva cédula profesional y la documentación que acredite la especialización en cirugía plástica, estética y reconstructiva, expedida por instituciones académicas que formen parte del sistema educativo nacional. Las liposucciones, en todos los casos requerirán de la valoración preparatoria de los pacientes.
 
 El colegio de profesionistas correspondiente, ejercerá las atribuciones que le confiere el capítulo VI, de la Ley para el Ejercicio de las Profesiones en el Estado de Durango, y otras disposiciones legales aplicables.
 
@@ -3418,3 +3426,13 @@ P.O. 23 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 16 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
