@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-prevencion-y-eliminacion-de-la-72123"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2009-12-24"
+last_updated: "2014-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY ESTATAL DE PREVENCION Y ELIMINACION DE LA DISCRIMINACION, DEL ESTADO DE DURANGO
 
-LEY ESTATAL DE PREVENCION Y ELIMINACION DE LA DISCRIMINACION
+LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -35,7 +35,7 @@ LATURA (SIC) DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 10 de diciembre del presente año, los CC. Diputados Jorge Herrera Delgado, Manuel Herrera Ruiz, Hipólito Pasillas Ortiz, Alma Marina Vitela Rodríguez, Fernando Ulises Adame de León y Rosauro Meza Sifuentes, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional, presentaron a esta LXIV Legislatura, Iniciativa de Decreto que contiene Ley Estatal de Prevención y Eliminación de la Discriminación, misma que fue turnada a la Comisión de Derechos Humanos, integrada por los CC. Diputados: Noel Flores Reyes, Ernesto Abel Alanís Herrera, Francisco Villa Maciel, Juan Moreno Espinoza y José Gabriel Rodríguez Villa, Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-CONSIDERANDOS.
+CONSIDERANDOS...
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -47,13 +47,19 @@ LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 1.
 
 Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Estado.
 
+Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas. Los poderes públicos estatales deberán eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas así como su efectiva participación en la vida política, económica, cultural social del país y promoverán la participación de las autoridades de los demás órdenes de Gobierno y de los particulares en la eliminación de dichos obstáculo (sic).
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 2.
 
-La presente Ley tiene por objeto proteger y promover el derecho constitucional a la no discriminación, garantizar la igualdad de oportunidades y de trato; prevenir y eliminar todas las formas de discriminación, establecer y promover los criterios y bases para modificar las circunstancias de carácter social que lesionen los derechos fundamentales de las personas, minorías, grupos, que se encuentren en la entidad, conforme a lo establecido en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que México es parte y en el artículo 2° de la Constitución Política del Estado Libre y Soberano de Durango y en las leyes que de ellas emanen.
+La presente Ley tiene por objeto proteger y promover el derecho constitucional a la no discriminación, garantizar la igualdad de oportunidades y de trato; prevenir y eliminar todas las formas de discriminación, establecer y promover los criterios y bases para modificar las circunstancias de carácter social que lesionen los derechos fundamentales de las personas, minorías, grupos, que se encuentren en la entidad, conforme a lo establecido en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que México es parte y en el artículo 5° de la Constitución Política del Estado Libre y Soberano de Durango y en las leyes que de ellas emanen.
 
 ###### Artículo 3.
 
@@ -87,9 +93,11 @@ El derecho a la no discriminación, es fundamental de las personas, minorías y 
 
 Discriminación es la negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos de las personas, minorías y grupos, por la comisión de hechos jurídicos ilícitos, de particulares, con intención o sin ella, por acción u omisión, sin motivo o causa que sea racionalmente justificable, igualmente queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condición de salud, religión, opinión, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas. Asimismo, se consideran como discriminación, la homofobia, xenofobia, antiarabismo y la islamofobia.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 10.
 
-Discriminar se considera un hecho jurídico ilícito cometido por particulares o servidores públicos, autoridades, dependencias o cualquier entidad de los poderes públicos estatales o municipales que, con intención o sin ella, por acción u omisión, sin causa que sea racionalmente justificable, produce el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir los derechos para todas las personas, minorías, grupos, por los motivos que se especifican en el tercer párrafo, del artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que México es parte y en el artículo 2° de la Constitución Política del Estado Libre y Soberano de Durango.
+Discriminar se considera un hecho jurídico ilícito cometido por particulares o servidores públicos, autoridades, dependencias o cualquier entidad de los poderes públicos estatales o municipales que, con intención o sin ella, por acción u omisión, sin causa que sea racionalmente justificable, produce el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir los derechos para todas las personas, minorías, grupos, por los motivos que se especifican en el tercer párrafo, del artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que México es parte y en el artículo 5° de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### Artículo 11.
 
@@ -540,3 +548,11 @@ C. P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
