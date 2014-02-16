@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2013-05-30"
+last_updated: "2014-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-> <small>N. DE E. EN TÉRMINOS DEL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2002, SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY EN MATERIA DE AUTORIZACIÓN, EXPEDICIÓN, RENOVACIÓN Y REPOSICIÓN DE LICENCIAS DE CHOFER DEL SERVICIO PÚBLICO, ESTABLECIDAS EN LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DE DURANGO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -359,9 +357,7 @@ Todo vehículo para poder transitar dentro del Estado, deberá estar provisto de
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
 
-###### ARTÍCULO 34 Bis.
-
-El vidrio parabrisas frontal de los vehículos a motor que circulen de manera permanente o habitual en el territorio del Estado, deberá permanecer libre de cualquier obstáculo que dificulte o impida la visibilidad hacia el exterior o interior de los mismos, por lo que se prohíbe su oscurecimiento a través de cualquier medio.
+ARTÍCULO 34 BIS.- El vidrio parabrisas frontal de los vehículos a motor que circulen de manera permanente o habitual en el territorio del Estado, deberá permanecer libre de cualquier obstáculo que dificulte o impida la visibilidad hacia el exterior o interior de los mismos, por lo que se prohíbe su oscurecimiento a través de cualquier medio.
 
 Se prohíbe la circulación de vehículos con todos los vidrios oscurecidos por micas o tintes especiales que impidan la visibilidad hacia el interior del vehículo, y especialmente los dos vidrios laterales delanteros. Se exceptúan los polarizados y entintados de nivel medio, así como los que hayan sido instalados por el fabricante del vehículo, que se requieran por razones médicas y por autorización de la autoridad de tránsito.
 
@@ -392,6 +388,32 @@ El Gobierno Estatal deberá proporcionar a los Municipios del Estado, el Padrón
 Igualmente, se establece la obligatoriedad por parte del Gobierno del Estado, de que para la fecha en que debe realizarse el plaqueo y refrendo de los vehículos, no se permita el trámite del mismo, hasta en tanto no sean cubiertos todos los adeudos provenientes de los derechos, multas o aprovechamientos aplicados por la Dirección Municipal de Tránsito correspondiente, para con ello permitir a los Municipios lograr el cobro de dichos adeudos. Para lograr lo anterior, la Dirección Municipal respectiva, deberá entregar al Estado, la relación de adeudos que deban de cobrarse y la entregará a más tardar el 31 de Diciembre de cada año.
 
 Para la realización del trámite para dar de baja las placas de un vehículo, se requiere la presentación de un certificado sin costo de no tener adeudos por concepto de infracciones y multas, expedido por la dirección municipal donde se encuentre registrado.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2014)</small>
+
+ARTICULO 36 BIS.- Sin perjuicio de lo dispuesto por los artículos 34, 35 y 36 de esta Ley, las direcciones municipales de seguridad pública, vialidad o las dependencias equivalentes de los ayuntamientos, podrán expedir permisos temporales para el uso de espacios, rampas y estacionamientos de uso exclusivo para discapacitados, en los siguientes supuestos:
+
+I. A los automovilistas que de manera temporal presenten una discapacidad parcial o total.
+
+II. A las personas con discapacidad temporal, que sin ser propietarios o poseedores de un vehículo automotor, sean transportados por automovilistas que no cuenten con placas para discapacitados.
+
+Para efectos de las fracciones anteriores, los permisos temporales deberán contener como mínimo los siguientes datos:
+
+I. La autoridad que emite el permiso temporal;
+
+II. El nombre del automovilista con discapacidad temporal o, en su caso, el de la persona responsable de su traslado;
+
+III. La fotografía del titular del permiso temporal;
+
+IV. La Autoridad del sector Salud que expide el Certificado de incapacidad temporal o el dictamen médico;
+
+V. La vigencia que corresponderá a la incapacidad temporal que señale el dictamen médico;
+
+VI. Los datos del vehículo debiendo de estar completamente visible el número de placas en que se trasladará a la persona discapacitada temporalmente; y
+
+VII. La leyenda: "El presente permiso temporal es utilizado por la persona con discapacidad temporal, para que el vehículo que lo transporte pueda hacer uso de los espacios destinados para personas con discapacidad. Solicitando a las autoridades correspondientes, brindar la (sic) facilidades necesarias, para el correcto uso del presente permiso temporal."
+
+El permiso temporal deberá portarse en el vidrio parabrisas frontal del vehículo a motor, el cual deberá de estar totalmente visible hacia el exterior del mismo.
 
 ### CAPITULO OCTAVO. DE LAS LICENCIAS PARA CONDUCIR
 
@@ -750,5 +772,19 @@ Los entes encargados de la expedición de licencias o los Ayuntamientos, según 
 En caso de fallecimiento por cualquier tipo de accidente, la autoridad que tenga conocimiento del mismo deberá informar en el caso de que la licencia señale ser donador de órganos, al Centro Estatal de Trasplantes para los trámites correspondientes.
 
 ###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 120 días, los ayuntamientos deberán realizar las adecuaciones a su reglamentación, a fin de homologar sus disposiciones con el presente decreto.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
