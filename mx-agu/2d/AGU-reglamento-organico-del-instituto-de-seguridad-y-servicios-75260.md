@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-organico-del-instituto-de-seguridad-y-servicios-7526
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-14"
-last_updated: "2012-06-25"
+last_updated: "2014-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 14 de junio de 2010.
 
@@ -43,19 +43,77 @@ Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Se
 
 El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, tiene por objeto otorgar a los servidores públicos, pensionistas y familiares beneficiarios, sujetos al régimen de su Ley, las prestaciones de seguridad y servicios sociales que la propia Ley establece, así como ejercer las funciones que determine la legislación aplicable, para lo cual conducirá sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación estatal del desarrollo establezcan la junta Directiva y el Director General, conforme a sus respectivas atribuciones.
 
-###### Artículo 2º.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-Para los efectos del presente Reglamento se entenderá:
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
-I. Instituto: El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
+###### Artículo 2°.
 
-II. Ley: La Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
+Para los efectos del presente Reglamento se entiende por:
 
-III. Junta: La Junta Directiva del Instituto;
+I. Activos Objeto de Inversión: A los Instrumentos, Valores Extranjeros, Inversiones Neutras, Mercancías y operaciones con Derivados, reportos y préstamos de valores;
+
+II. Contrapartes: A las instituciones financieras con quienes el Instituto pueden celebrar operaciones con Derivados, reporto y préstamo de valores, en términos de las Disposiciones del Banco de México, así como aquéllas en las que realicen depósitos bancarios de dinero a la vista;
+
+III. Derivados: A las Operaciones a Futuro, de Opción o de Swap, a que se refieren las Disposiciones del Banco de México;
 
 IV. Director General: El Director General del Instituto;
 
-V. Sindicato: A el Sindicato Único de Trabajadores Estatales y Municipales de Aguascalientes.
+V. Emisores Nacionales: Al Gobierno Federal, al Banco de México, Empresas Privadas, entidades federativas, municipios, Gobierno del Distrito Federal y Entidades Paraestatales, que emitan Instrumentos, así como las Entidades Financieras, que emitan, acepten o avalen Instrumentos;
+
+VI. Instituto: El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
+
+VII. Instrumentos: A todos los Instrumentos Bursatilizados e Instrumentos de Deuda denominados en moneda nacional, así como a las Unidades de Inversión o Divisas emitidos por Emisores Nacionales, incluidos los Certificados Bursátiles y los Certificados de Participación, los documentos o contratos de deuda a cargo del Gobierno Federal, los depósitos en el Banco de México, los depósitos bancarios de dinero a la vista realizados en Instituciones de Crédito, las Estructuras Vinculadas a Subyacentes, o en su caso los componentes de éstas, emitidos por Emisores Nacionales, así como las Mercancías;
+
+VIII. Instrumentos de Deuda: A los siguientes:
+
+a. Activos Objeto de Inversión, cuya naturaleza corresponda a valores, títulos o documentos representativos de una deuda a cargo de un tercero, colocados en mercados nacionales o extranjeros, emitidos por Emisores Nacionales, así como a los Instrumentos Bursatilizados y los depósitos en el Banco de México;
+
+b. Las obligaciones subordinadas no convertibles emitidas por Instituciones de Crédito a que se refiere el artículo 64 de la Ley de Instituciones de Crédito;
+
+c. Las obligaciones subordinadas no convertibles que cumplan con los siguientes requisitos:
+
+1. Que tengan por objeto financiar proyectos de infraestructura en territorio nacional;
+
+2. Que en ninguno de los tramos o series en que se estructuren se establezcan aportaciones adicionales con cargo a los tenedores;
+
+3. Que sin perjuicio del orden de prelación establecido entre dichos tramos o series, en ningún caso se libere al emisor de la obligación de pago del principal, aún cuando dicho principal pueda ser diferido o amortizado anticipadamente; y
+
+4. Que en el caso de que sean emitidas a través de un Vehículo, éste no confiera derechos directa o indirectamente, respecto de Derivados o implique estructuras sujetas a financiamiento.
+
+d. Obligaciones subordinadas no convertibles en acciones.
+
+Se exceptúan de las comprendidas en este inciso, las series contempladas en la emisión de un instrumento financiero que ante cualquier evento distinto al de liquidación o concurso mercantil otorgue derechos de prelación de cobro diferenciados a los tenedores de dichas series, cualquiera que sea su denominación. En particular no quedan contempladas en la presente definición las series subordinadas o mezzanine de los Instrumentos Bursatilizados.
+
+Asimismo, quedan excluidas del presente inciso las distintas obligaciones y series de acciones emitidas por una sociedad anónima especializada en la inversión de recursos financieros.
+
+Las obligaciones a que se refieren los incisos b), c), d) y e) anteriores, deberán alcanzar las calificaciones mínimas que determine el Comité de Riesgos. En todo caso, las calificaciones deberán ser otorgadas cuando menos por dos instituciones calificadoras de valores autorizadas por la Comisión Nacional Bancaria y de Valores;
+
+IX. Inversiones Neutras: A la realizada por el Instituto en Instrumentos emitidos, bajo la regulación y supervisión de autoridades que pertenezcan a los Países Elegibles para Inversiones, por organismos financieros multilaterales de carácter internacional de los que los Estados Unidos Mexicanos sea parte, los cuales se considerarán dentro de Emisores Nacionales;
+
+X. Junta: La Junta Directiva del Instituto;
+
+XI. Ley: La ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
+
+XII. Mandatarios: A las personas morales especializadas en la inversión de recursos financieros supervisadas y reguladas por autoridades de los Países Elegibles para Inversiones con las que el Instituto haya celebrado contratos de intermediación en los que se otorgue un mandato cuyo ejercicio esté sujeto a los lineamientos que determine el Instituto contratante;
+
+XIII. Mercancías: A los subyacentes enunciados en las Disposiciones del Banco de México en materia de operaciones derivadas, que tengan el carácter de bienes fungibles diferentes a las acciones, índices, tasas, derivados, moneda nacional, Divisas, Unidades de Inversión, préstamos y créditos, en los que el Instituto tenga la posición de acreedora;
+
+XIV. Riesgo Financiero: La posibilidad de ocurrencia de pérdidas por deficiencias o fallas en las operaciones financieras, en la tecnología de información, en los recursos humanos o cualquier otro evento externo adverso, a los que se encuentra expuesto el Instituto, entre los cuales se encuentran comprendidos, entre otros, los siguientes tipos de riesgos:
+
+a. Riesgo de Crédito o Crediticio, la pérdida potencial por la falta de pago de una contraparte en las operaciones que efectúe el Instituto;
+
+b. Riesgo de Liquidez, la pérdida potencial por la venta anticipada o forzosa de activos a descuentos inusuales para hacer frente a obligaciones, o bien, por el hecho de que una posición no pueda ser oportunamente enajenada, adquirida o cubierta mediante el establecimiento de una posición contraria equivalente; y
+
+c. Riesgo de Mercado, la pérdida potencial por cambios en los factores de riesgo que incidan sobre la valuación de las posiciones, tales como tasas de interés, tipos de cambio e índices de precios, entre otros.
+
+XV. Riesgo Operativo: La pérdida potencial por fallas o deficiencias en los sistemas de información, en los controles internos o por errores en el procesamiento de las operaciones financieras del Instituto;
+
+XVI. Sindicato: A el sindicato Único de Trabajadores Estatales y Municipales de Aguascalientes;
+
+XVII. UAIR: A la Unidad de Administración Integral de Riesgos del Instituto; y
+
+XVIII. Valores Extranjeros: A todos los Instrumentos de Deuda Extranjeros.
 
 ###### Artículo 3º.
 
@@ -91,7 +149,33 @@ j) De la Gerencia de Funeraria la Gloria;
 
 k) De la Secretaría Particular;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+l) Unidad de Administración Integral de Riesgos; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+m) Unidad de Inversión.
+
 III. Órgano de Vigilancia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 3° Bis.
+
+En apoyo, consulta y colaboración de la Junta Directiva, esta contará con los siguientes órganos:
+
+I. Comité de Inversiones; y
+
+II. Comité de Riesgos.
+
+Los cuales tendrán las facultades que este Reglamento establece.
 
 ### CAPITULO II. De la Junta Directiva
 
@@ -265,15 +349,335 @@ IV. Firmar, junto con el Presidente de la junta las actas de las sesiones; y
 
 V. Las demás que le encomiende la Junta.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2014)</small>
+
+### CAPITULO II BIS 1. Comité de Inversiones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 1.
+
+El Comité de Inversiones se constituye como un órgano delegado de apoyo, consulta y colaboración de la Junta de Directiva del Instituto para auxiliar a la misma en la determinación de la política y estrategia de inversión y manejo de las reservas financieras y actuariales del Instituto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 2.
+
+El Comité de Inversiones tendrá, además de las que le otorgue la Junta Directiva, las siguientes facultades:
+
+I. En base a las políticas y estrategias de inversión y manejo de las reservas financieras y actuariales del Instituto, previamente aprobados por la Junta Directiva, determinar operativamente la instrumentación de dichas políticas y estrategias de inversión y manejo de las reservas financieras y actuariales del Instituto, dentro de los límites propuestos por el Comité de Riesgos que hayan sido aprobados por la Junta Directiva del Instituto. Dichas políticas deberán abarcar a los Activos objeto de inversión;
+
+II. Proponer a la Junta Directiva la política y estrategia de inversión y manejo de las reservas financieras y actuariales del Instituto;
+
+III. Proponer a la Junta Directiva la determinación de la composición de los activos del Instituto;
+
+IV. Proponer a la Junta Directiva la composición de los activos del Instituto;
+
+V. Someter a consideración de la Junta Directiva la designación del Mandatario y del fiduciario que, en su caso, el Instituto desee contratar para el manejo de las reservas financieras y actuariales del Instituto;
+
+VI. Aprobar en su caso, los proyectos de contratos a celebrar con Mandatarios y proponer al Director General la suscripción de los mismos;
+
+VII. De conformidad con el artículo 16 del Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto, aprobar los proyectos de contratos de fideicomisos que se utilicen como vehículo para el manejo de las reservas financieras y actuariales del Instituto y proponer al Director General su suscripción;
+
+VIII. Proponer al Director General la designación o remoción de las personas responsables de la asignación, liquidación y traspaso de efectivo y valores del Instituto;
+
+IX. Proponer a la Junta Directiva los programas de recomposición de cartera;
+
+X. En base de los mecanismos aprobados de la Junta, designar la lista de funcionarios autorizados para efectuar operaciones de Derivados que no se realicen en Bolsas de Derivados autorizados; y
+
+XI. Reportar trimestralmente a la Junta Directiva sobre el ejercicio de sus funciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 3.
+
+El Comité de Inversiones estará integrados (sic) por:
+
+I. El titular de la Secretaría de Finanzas de Gobierno del Estado de Aguascalientes;
+
+II. El Director General del Instituto;
+
+III. Un Miembro Independiente designado por la Junta Directiva del Instituto; y
+
+IV. El Director de Contabilidad y Finanzas del Instituto.
+
+Asimismo, asistirá con voz pero sin voto, la persona responsable de la Unidad de Inversiones del Instituto.
+
+El nombramiento de Miembro Independiente de este Comité, deberá recaer en personas que cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como acreditar:
+
+I. Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio en instituciones del sistemas (sic) financiero;
+
+II. Tener por lo menos 5 años de experiencia en materia de inversiones; y
+
+III. Contar con título universitario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 4.
+
+El Presidente del Comité de Inversiones deberá ser siempre el titular de la Secretaría de Finanzas de Gobierno del Estado de Aguascalientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2014)</small>
+
+### CAPITULO II BIS 2. Comité de Riesgos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 5.
+
+El Comité de Riesgos se constituye como un órgano delegado de apoyo, consulta y colaboración de la Junta de Directiva del Instituto para auxiliar a la misma en la administración del riesgo operativo y financiero a que se encuentre expuesto el Instituto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 6.
+
+El Comité de Riesgos tendrá, además de las que le otorgue la Junta Directiva, las siguientes facultades:
+
+A. Respecto al Riesgo Operativo:
+
+I. Proponer a la Junta Directiva la política, objetivos, estrategia y procedimientos para la administración del Riesgo Operativo de las reservas financieras y actuariales del Instituto;
+
+II. Proponer a la Junta Directiva los niveles de tolerancia al riesgo, por tipo de Riesgo Operativo;
+
+III. Proponer a la Junta Directiva la metodología, modelos, sistemas de medición, parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Operativo relacionados con la operación de los fondos a que se encuentre expuesto el Instituto;
+
+IV. Proponer a la Junta Directiva el Manual de Políticas y Procedimientos para la Administración del Riesgo Operativo, así como las modificaciones que considere necesarias a dicho Manual;
+
+V. En base a la metodología, modelos, sistemas de medición parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Operativo relacionados con la operación de los fondos a que se encuentre expuesto el Instituto previamente aprobados por la Junta Directiva, evaluar los niveles de tolerancia al Riesgo Operativo del Instituto, la cercanía o trasgresión de los niveles de tolerancia al riesgo, así como el impacto financiero que enfrentaría el Instituto derivado de la materialización del riesgo operativo;
+
+VI. En base a la metodología, modelos, sistemas de medición parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Operativo relacionados con la operación de los fondos a que se encuentre expuesto el Instituto previamente aprobados por la Junta Directiva, tomar las medidas correctivas que considere necesarias, cuando el nivel observado del riesgo operativo se acerque o transgreda los niveles de tolerancia al riesgo establecidos; y
+
+VII. Desempeñar las demás actividades necesarias en materia de administración del riesgo operativo del Instituto.
+
+B. Respecto al Riesgo Financiero:
+
+I. Vigilar que se mantenga el nivel de fondeo del Instituto y, en su caso, recomendar que se modifiquen las aportaciones de los trabajadores en activo;
+
+II. Proponer a la Junta Directiva los límites de exposición al Riesgo Financiero y por tipo de riesgo;
+
+III. Colaborar en la realización del informe y el programa de recomposición de cartera, conforme a las reglas de recomposición de cartera que aplique el Instituto;
+
+IV. Proponer a la Junta Directiva:
+
+a. La metodología para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Financieros a los que se encuentre (sic) expuestas las reservas financieras y actuariales del Instituto;
+
+b. Los modelos, parámetros y escenarios que habrán de utilizarse para llevar a cabo la medición y el control de los riesgos financieros;
+
+c. La realización de nuevas operaciones y la prestación de nuevos servicios que, por su propia naturaleza, conlleven un riesgo financiero, una vez que sean discutidos y aprobados por el Comité de Inversiones del Instituto; y
+
+d. Las metodologías que, en su caso, se aplicarán para el cálculo de los precios de valuación de las operaciones con Derivados celebradas en mercados extrabursátiles por el Instituto, así como de los precios de valuación de otros Activos Objeto de Inversión que, de acuerdo con la normatividad vigente, el Instituto haya hecho del conocimiento de la Junta Directiva que dicha entidad financiera realizará la valuación de dichos Activos Objeto de Inversión.
+
+V. Proponer a la Junta Directiva las modificaciones que considere necesarias al Manual de Políticas y Procedimientos para la Administración del Riesgo Financiero y, así como las modificaciones que considere necesarias a dicho Manual;
+
+VI. Realizar un análisis, al menos trimestralmente, sobre la exposición al Riesgo Financiero asumida, sobre los efectos negativos que se podrían producir en la operación del Instituto, así como sobre la inobservancia de los límites de exposición al Riesgo Financiero establecidos. El resultado del análisis que realice el Comité de Riesgos deberá ser informado al Comité de Inversión;
+
+VII. Vigilar el cumplimiento del régimen de inversión aplicable al Instituto y, en caso de incumplimiento, realizar un informe a la Junta Directiva y al Comité de Inversiones sobre dicho incumplimiento y sus posibles repercusiones, al menos trimestralmente, o inmediatamente si las repercusiones así lo ameritan, además de realizar las funciones previstas en las reglas de recomposición de cartera que aplique el Instituto;
+
+VIII. Evaluar desempeño de cada uno de los Mandatarios;
+
+IX. En base a la metodología, modelos, sistemas de medición parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Financiero, tomar las medidas correctivas que considere necesarias, cuando el nivel observado del riesgo financiero se acerque o transgreda los niveles de tolerancia al riesgo establecidos;
+
+X. Proponer a la Junta Directiva la creación de los subcomités que se consideren convenientes para el ejercicio de sus funciones; y
+
+XI. Reportar por lo menos, trimestralmente a la Junta Directiva sobre el ejercicio de sus funciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 7.
+
+El Comité de Riesgos estará integrado por:
+
+I. El Director General de Administración Financiera de la Secretaría de Finanzas de Gobierno del Estado de Aguascalientes;
+
+II. El funcionario responsable de la UAIR; y
+
+III. Un Miembro Independiente experto en riesgos designado por la Junta Directiva del Instituto, el cual deberá ser una persona distinta al miembro independiente del Comité de Inversión.
+
+El nombramiento de Miembro Independiente de este Comité, deberá recaer en personas que cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como que acredite:
+
+I. Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio en instituciones del sistemas (sic) financiero;
+
+II. Tener por lo menos 5 años de experiencia en materia de análisis de riegos; y
+
+III. Contar con título universitario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 8.
+
+El Presidente del Comité de Riesgos deberá ser siempre el Director General de Administración Financiera de la Secretaría de Finanzas del Gobierno del Estado de Aguascalientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2014)</small>
+
+### CAPITULO II BIS 3. Disposiciones Aplicables al Comité de Inversiones y al Comité De Riesgos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 9.
+
+En el ejercicio de sus funciones, el Comité de Inversiones y el Comité de Riesgos podrá auxiliarse de las áreas del Instituto que estime conveniente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 10.
+
+El Comité de Inversiones y el Comité de Riesgos deberán llevar a cabo por lo menos una vez al año, una auto-evaluación de su desempeño para determinar si están funcionando efectivamente, la cual será revisada por la Junta Directiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 11.
+
+Se entenderá por miembros independientes de los Comités de Inversiones y de Riesgos del Instituto, aquellas personas que seleccionadas por su experiencia, capacidad y prestigio profesional, en ningún caso sean:
+
+I. Las personas que desempeñen un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en las Entidades Paraestatales y Paramunicipales, en los Poderes Legislativo o Judicial del Estado, así como aquellas que administren, manejen, recauden, apliquen o resguarden recursos económicos Federales, Estatales o Municipales, sea cual fuere la naturaleza de su nombramiento o elección. La referida limitación será aplicable a aquellas personas físicas que hubieren ocupado dichos cargos durante los doce meses inmediatos anteriores a la fecha de designación;
+
+II. Los clientes, prestadores de servicios, proveedores, deudores o acreedores importantes de la Administración Pública Estatal o Municipal, de las Entidades Paraestatales y Paramunicipales, de los Poderes Legislativo o Judicial del Estado;
+
+III. Se considera que un cliente, prestador de servicios o proveedor es importante, cuando los ingresos que reciba de la Administración Pública Estatal o Municipal, de las Entidades Paraestatales y Paramunicipales, de los Poderes Legislativo o Judicial del Estado, representen más del 10% de las ventas totales del cliente, del prestador de servicios o del proveedor, durante los doce meses anteriores a la fecha del nombramiento. Asimismo, se considera que un deudor o acreedor es importante, cuando el importe del crédito es mayor al 15% de los activos de la Administración Pública Estatal o Municipal, de las Entidades Paraestatales y Paramunicipales, de los Poderes Legislativo o Judicial del Estado o del acreedor o deudor; y
+
+IV. Las que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, así como los cónyuges, la concubina y el concubinario, de cualquiera de las personas físicas referidas en las fracciones I a II de este artículo.
+
+Los Miembros Independientes de los Comités de Inversiones y Riesgos que durante su encargo dejen de tener tal característica, deberán hacerlo del conocimiento de la Junta Directiva a más tardar en la siguiente sesión de dicho órgano.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 12.
+
+El Secretario de los Comités de Inversiones y de Riesgos será el Secretario de la Junta Directiva del Instituto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 13.
+
+Los miembros de los Comités de Inversiones y de Riesgos deberán guardar estricta confidencialidad respecto de la información que conozcan en el ejercicio de su encargo.
+
+El incumplimiento por parte de un miembro de los Comités de Inversión y Riesgos a la obligación de guardar confidencialidad en los términos a los que se refiere este artículo, además de las acciones legales que el Instituto podrá ejercitar en su contra, el miembro incumplido será sancionado con su remoción del cargo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 14.
+
+El miembro que en cualquier asunto sometido a la consideración de los Comités de Inversión y Riesgos considere tener algún conflicto de interés respecto al asunto a resolverse, deberá manifestarlo a los demás miembros y abstenerse de toda deliberación o resolución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 15.
+
+Los Presidentes de los Comités de Inversión y Riesgos tendrán, respectivamente, las siguientes atribuciones:
+
+I. Convocar y presidir las sesiones de sus respectivos Comités;
+
+II. Reportar a la Junta Directiva del Instituto sobre las actividades realizadas por cada uno de sus respectivos Comités; y
+
+III. Aquellas otras que les encomiende la Junta Directiva del Instituto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 16.
+
+Los Secretarios de los Comités de Inversiones y de Riesgos, respectivamente, tendrán las siguientes atribuciones:
+
+I. Convocar a las sesiones de los Comités de Inversiones y de Riesgos a solicitud del Presidente del mismo o dos de sus miembros;
+
+II. Elaborar las actas de las sesiones de los Comités de Inversiones y Riesgos;
+
+III. Auxiliar y apoyar, en lo particular y en conjunto, a los miembros de los Comités de Inversiones y de Riesgos, en el desempeño de su encargo;
+
+IV. Autentificar copias o expedir constancias de las actas a que se refiere la fracción II anterior, así como de cualquier documento propio de los Comités de Inversión y Riesgos, a solicitud de quien esté legitimado para ello;
+
+V. Llevar y conservar los libros de los Comités de Inversiones y de Riesgos; y
+
+VI. Aquellas otras que le encomiende la Junta Directiva del Instituto.
+
+En el caso del Comité de Riesgos, el Secretario podrá actuar con voz pero sin voto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 17.
+
+Los Comités de Inversiones y de Riesgos celebrarán sesiones cuando sean convocados al efecto por su Presidente, por el Secretario o por dos miembros de los Comités de Inversión o de Riesgos, según sea el caso. Las convocatorias a las sesiones de los Comités de Inversiones y de Riesgos se deberán remitir por cualquier medio fehaciente, con una antelación mínima de cinco días naturales, al último domicilio que los miembros hubiesen registrado ante el Instituto, debiéndose enviar a los mismos el Orden del Día y el material correspondiente a dicha sesión con la misma antelación. No se requerirá convocatoria alguna cuando todos los miembros de los Comités de Inversiones y de Riesgos, según sea el caso, se encuentren presentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 18.
+
+Las sesiones del Comité de Inversiones quedarán legalmente instaladas con la asistencia del 75% de sus miembros, debiendo estar presente en todo caso el Director General del Instituto y el Miembro Independiente. Las resoluciones se tomarán por el voto aprobatorio de la mayoría de los miembros que efectivamente asistan a la sesión respectiva. El Presidente del Comité tendrá voto de calidad en caso de empate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 19.
+
+Las sesiones del Comité de Riesgos quedarán legalmente instaladas con la asistencia del 75% de sus miembros, debiendo estar presente en todo caso el Miembro Independiente. Las resoluciones se tomarán por el voto aprobatorio de la mayoría de los miembros que efectivamente asistan a la sesión respectiva. El Presidente del Comité tendrá voto de calidad en caso de empate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 20.
+
+Presidirá las sesiones de los Comités de Inversiones y de Riesgos, el Presidente de cada comité y, a falta del mismo, el miembro que elijan los concurrentes, quien no tendrá voto de calidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 21.
+
+De toda sesión de los Comités de Inversiones y de Riesgos se levantará, por el Secretario respectivo, un acta en la que se consignarán los asuntos tratados y los acuerdos tomados. Dicha acta será asentada en el Libro de Actas respectivo, será firmada por el Presidente y el Secretario y se deberá hacer constar las personas que asistan a dicha sesión. Adicionalmente, se deberá abrir expediente, en el que deberá obrar una copia del acta de la sesión, la lista de asistencia, así como un ejemplar de la documentación que para cada sesión, haya sido enviada a los miembros de los Comités.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 17 Bis 22.
+
+Por acuerdo de los Comités de Inversiones y de Riesgos o a propuesta de su Presidente, respectivamente, se podrá, cuando se considere conveniente, invitar a las sesiones de dichos Comités a personas diferentes a los miembros, siendo aplicable a dichas personas la obligación de confidencialidad que se establece en el artículo 17 Bis 13 de este Reglamento.
+
 ### CAPITULO III. Del Director General
-
-### CAPITULO IV. De las Unidades Administrativas
-
-### CAPITULO V. De los Órganos de Control, Vigilancia y Evaluación
-
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2012)</small>
-
-### CAPITULO VI. De las Suplencias
 
 ###### Artículo 18.
 
@@ -344,6 +748,8 @@ El Director General, en su carácter de Secretario de la Junta, deberá concurri
 ###### Artículo 21.
 
 El Director General podrá delegar cualquiera de sus facultades en otros servidores públicos del Instituto, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o determinación de la junta le correspondan exclusivamente.
+
+### CAPITULO IV. De las Unidades Administrativas
 
 #### SECCION PRIMERA. De los Directores, Gerentes, Coordinadores y de la Secretaría Particular
 
@@ -655,15 +1061,111 @@ VII. Generar información estratégica para la toma de decisiones, así como tod
 
 VIII. Los demás que señalen otras disposiciones aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA BIS 1. De la Unidad de Administración Integral de Riesgos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 35 Bis 1.
+
+La UAIR tendrá las siguientes funciones:
+
+I. Identificar, medir, vigilar, controlar e informar los riesgos financieros y operativos que enfrenta el Instituto, incluidos los riesgos de crédito, de mercado y de liquidez;
+
+II. Proponer para aprobación del Comité de Riesgos y de la Junta Directiva:
+
+a. La política, objetivos, estrategia y procedimientos para la administración del Riesgo Operativo y Financiero de las reservas financieras y actuariales del Instituto;
+
+b. Los niveles de tolerancia al riesgo, por tipo de Riesgo Operativo y Financiero;
+
+c. La metodología, modelos, sistemas de medición, parámetros y escenarios, para identificar, medir, monitorear, limitar, controlar, informar y revelar los distintos tipos de Riesgos Operativo y Financiero relacionados con la operación de los fondos a que se encuentre expuesto el Instituto;
+
+d. Los mecanismos para la implementación de acciones correctivas; y
+
+e. Los casos o circunstancias especiales en los cuales se puedan exceder los límites globales y específicos de exposición al riesgo.
+
+III. Verificar la observancia de los límites globales y específicos, así como de los niveles de tolerancia aceptables por tipo de riesgo cuantificables;
+
+IV. Proporcionar al Comité de Riesgos la información relativa a:
+
+a. La exposición a los riesgos discrecionales, así como la incidencia e impacto en el caso de los riesgos no discrecionales. Los informes sobre la exposición de riesgo, deberán incluir análisis de sensibilidad y pruebas bajo diferentes escenarios, incluyendo los extremos.
+
+b. Las desviaciones que, en su caso, se presenten con respecto a los límites de exposición y a los niveles de tolerancia al riesgo establecidos.
+
+c. Las propuestas de acciones correctivas necesarias como resultado de una desviación observada respecto a los límites de exposición y niveles de tolerancia al riesgo autorizados.
+
+d. La evolución histórica de los riesgos asumidos por el Instituto.
+
+V. Informar al Comité de Riesgos, cuando menos trimestralmente, sobre la exposición al riesgo asumida, y los efectos negativos que se podrían producir en el funcionamiento del Instituto, así como sobre la inobservancia de los límites de exposición y niveles de tolerancia al riesgo establecidos;
+
+VI. Informar al Comité de Riesgos sobre las acciones correctivas implementadas;
+
+VII. Asegurar, en todo momento, el conocimiento por parte de todo el personal involucrado en la toma de riesgos, de los límites globales y específicos para riesgos discrecionales, así como los niveles de tolerancia tratándose de riesgos no discrecionales;
+
+VIII. Investigar y documentar las causas que originan desviaciones a los límites establecidos de exposición al riesgo;
+
+IX. Recomendar, en su caso, al Comité de Riesgos, disminuciones a las exposiciones observadas, y/o modificaciones a los limites globales y específicos de exposición al riesgo, así como a los niveles de tolerancia al riesgo del Instituto; y
+
+X. Elaborar y presentar al Comité de Riesgos, las metodologías para la valuación, medición y control de los riesgos de nuevas inversiones que pretenda efectuar el instituto, así como la identificación de los riesgos implícitos que representan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE FEBRERO DE 2014)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA BIS 2. De la Unidad de Inversiones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 35 Bis 2.
+
+La Unidad de Inversiones tendrá las siguientes funciones:
+
+I. Monitorear el comportamiento de los mercados nacionales y extranjeros;
+
+II. Invertir los recursos que reciba el Instituto de conformidad con las instrucciones que le sean giradas por el Comité de Inversiones de Inversiones (sic), este Reglamento y el Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto, para lo cual podrá cerrar las operaciones ante los intermediarios financieros aprobados por el Comité de Inversiones;
+
+III. Realizar las acciones necesarias para obtener una adecuada rentabilidad y seguridad de los recursos del Instituto; y
+
+IV. Cuidar y proteger en todo momento el interés de los Servidores Públicos del Estado de Aguascalientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+###### Artículo 35 Bis 3.
+
+La Unidad de Inversiones tendrá prohibido, realizar las siguientes actividades:
+
+I. Recibir depósitos de dinero;
+
+II. Adquirir inmuebles;
+
+III. Dar u otorgar garantías o avales, así como gravar de cualquier forma el patrimonio del Instituto;
+
+IV. Adquirir o vender valores a un precio distinto al que resulte de aplicar los criterios que dé a conocer el Comité de Riesgos;
+
+V. Practicar operaciones activas de crédito, excepto préstamos de valores y reportos sobre valores emitidos por el Gobierno Federal, así como sobre valores emitidos, aceptados o avalados por instituciones de crédito, los cuales se sujetarán a las disposiciones de carácter general que expida el Banco de México;
+
+VI. Tratándose de operaciones de reporto o de préstamo de valores, que en su caso se autoricen, las sociedades de inversión únicamente podrán actuar como reportadoras o prestamistas; y
+
+VII. Celebrar operaciones en corto, con títulos opcionales, futuros y derivados y demás análogas a éstas, así como cualquier tipo de operación distinta a compraventas en firme de valores.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2012)</small>
+
+### CAPITULO V. De los Órganos de Control, Vigilancia y Evaluación
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2012)</small>
 
 #### SECCION PRIMERA. Del Comisario Público
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
-
-#### SECCIÓN SEGUNDA. De la Contraloría Interna
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2012)</small>
 
 ###### Artículo 36.
 
@@ -717,6 +1219,10 @@ Cuando el Órgano de Vigilancia encuentre alguna irregularidad en relación con 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE JUNIO DE 2012)</small>
 
+#### SECCIÓN SEGUNDA. De la Contraloría Interna
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2012)</small>
+
 ###### Artículo 41 Bis.
 
 El Órgano Interno de Control del Instituto, se conformará por un Contralor Interno que será parte integrante de la estructura de la entidad paraestatal y que será designado de acuerdo a lo establecido en la Ley para el Control de las Entidades Paraestatales y la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
@@ -763,6 +1269,8 @@ XII. Intervenir en la formación y revisión de los estados financieros del Inst
 
 XIII. Certificar y, en su caso, expedir copias de los documentos que obren en los archivos de la Contraloría Interna.
 
+### CAPITULO VI. De las Suplencias
+
 ###### Artículo 42.
 
 Por cada miembro propietario de la Junta se nombrará un suplente, el cual lo substituirá en sus faltas, y por ende, será el único facultado para participar con vos y voto en la Junta, siempre y cuando haya sido acreditado como tal ante todos los miembros de la Junta, mediante oficio firmado por el miembro propietario y con la aceptación del suplente. Tratándose de los representantes del Estado o Municipios, el suplente deberá tener cuando menos nivel de Director General o equivalente en la Administración Pública Estatal Centralizada.
@@ -798,3 +1306,9 @@ P.O. 25 DE JUNIO DE 2012.
 PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Continuará en vigor el nombramiento del actual Contralor Interno, con las facultades que aquí se señalan.
+
+P.O. 17 DE FEBRERO DE 2014.
+
+PRIMERO.- Las presentes reformas entrarán en vigencia a los 120 días naturales siguientes al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los 30 días naturales siguientes a la publicación de las presentes reformas, la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, deberá designar a los miembros de los Comités de Inversiones y de Riesgos del Instituto.
