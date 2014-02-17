@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-para-la-administracion-de-recursos-financieros-e-663
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-09"
-last_updated: "2009-02-09"
+last_updated: "2014-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "AGU"
 ---
 # REGLAMENTO PARA LA ADMINISTRACION DE RECURSOS FINANCIEROS E INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO PARA LA ADMINISTRACION DE RECURSOS FINANCIEROS E INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLlCOS DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO PARA LA ADMINISTRACIÓN DE RECURSOS FINANCIEROS E INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de febrero de 2009.
 
@@ -30,7 +30,7 @@ I. S. S. S. S. P. E. A.
 
 La H. Junta Directiva del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes
 
-REGLAMENTO PARA LA ADMINISTRACION DE RECURSOS FINANCIEROS E INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLlCOS DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO PARA LA ADMINISTRACION DE RECURSOS FINANCIEROS E INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
 CONSIDERANDO:
 
@@ -42,61 +42,167 @@ CONSIDERANDO:
 
 El presente ordenamiento jurídico administrativo, tiene la finalidad de optimizar, transparentar y dar seguridad al manejo de los recursos económicos del Instituto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 2°.
 
-Para los efectos del presente reglamento se entenderá por:
+Para los efectos del presente Reglamento se entenderá por:
 
-Ley: Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+I. Activo Administrado por el Mandatario: Al valor de mercado de los Activos Objeto de Inversión del Instituto que se encuentre bajo la gestión financiera de cada Mandatario contratado por el Instituto.
 
-Instituto: Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+II. Activo Administrado por el Instituto: Al valor de mercado de los Activos Objeto de Inversión del Instituto directamente gestionado en materia de inversiones por éste.
 
-Empresa Social: Unidades Administrativas del Instituto, con fines de lucro.
+III. Activo Total del Instituto: A la suma del Activo Administrado por el Instituto incluyendo sus reservas y de los Activos Administrados por los Mandatarios contratados por el Instituto.
 
-FAPSE: Fondo Asistencial a Pensionistas en situación extraordinaria.
+IV. Activos Objeto de Inversión: A los Instrumentos, valores Extranjeros, Inversiones Neutras, Mercancías y operaciones con Derivados, reportos y préstamos de valores.
 
-Fideicomiso.- Figura jurídica por medio de la cual se plasman instrucciones concretas para la administración y buen uso de recursos económicos, las partes que intervienen son el fiduciario como parte en la que recae el hecho de hacer cumplir el objeto para el cual fue creado, el fideicomitente como mandante de que se cumplan de manera estricta sus instrucciones y el fideicomisario quien es en el que recaen los beneficios del fideicomiso.
+V. Bancos: A las Instituciones de Crédito, así como a las entidades extranjeras que realicen las mismas operaciones que las Instituciones de Crédito.
 
-BANCOS: A las Instituciones de Crédito nacionales, así como a las entidades extranjeras que realicen las mismas operaciones que las Instituciones de Crédito.
+VI. Calificación de Contraparte: A la asignada por las instituciones calificadoras de valores autorizadas por la Comisión Nacional Bancaria y de Valores a los intermediarios para la celebración de operaciones con reportos, préstamo de valores, Derivados o depósitos bancarios.
 
-CERTIFICADOS BURSATILES: A los títulos de crédito previstos en la Ley del Mercado de Valores, que representan la participación individual de sus tenedores en un crédito colectivo a cargo de personas morales, o de un patrimonio afecto en fideicomiso.
+VII. Certificados Bursátiles: A los títulos de crédito previstos en la ley del Mercado de Valores, que representan la participación individual de sus tenedores en un crédito colectivo a cargo de personas morales, o de un patrimonio afecto en fideicomiso.
 
-TIIE.- Representa el porcentaje de interés que refleja el costo promedio de captación por parte del sistema financiero Mexicano, bajo las condiciones que prevalecen en un determinado momento.
+VIII. Comité de Inversiones: El Comité de Inversiones a que se refiere el inciso b) de la fracción I del artículo 5 del Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
 
-CPO's.- A los Instrumentos a que se refiere el Capítulo V Bis de la Ley General de Títulos y Operaciones de Crédito y también, cuando sean emitidos por fideicomisos, los Certificados Bursátiles.
+IX. Comité Técnico: El Comité Técnico del Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto.
 
-EMISORES: Al Gobierno Federal, Banco de México, Estados, Municipios, Gobierno del Distrito Federal y Entidades Paraestatales, que emitan instrumentos para inversión, así como los Bancos, que emitan, acepten o avalen dichos Instrumentos; a los Gobiernos, Bancos Centrales y Agencias Gubernamentales de países miembros del Comité Técnico de la Organización Internacional de Comisiones de Valores y de la Unión Europea y las entidades que emitan valores bajo la regulación y supervisión de éstos, así como a los organismos multilaterales.
+X. Comité de Riesgos: El Comité de Riesgos a que se refiere el inciso c) de la fracción I del artículo 5 del Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
 
-GRADO DE INVERSION: Al obtenido por los instrumentos denominados en moneda nacional, Unidades de Inversión o Divisas que ostenten las calificaciones relacionadas a lo establecido en este Reglamento.
+XI. Contrapartes: A las instituciones financieras con quienes el Instituto pueden celebrar operaciones con Derivados, reporto y préstamo de valores, en términos de las Disposiciones del Banco de México, así como aquéllas en las que realicen depósitos bancarios de dinero a la vista.
 
-INSTRUMENTOS: A todos los Valores Gubernamentales, Valores Bancarios, Certificados de Participación denominados en moneda nacional, Unidades de Inversión o Divisas emitidos por Emisores.
+XII. Derivados: A las Operaciones a Futuro, de Opción o de Swap, a que se refieren las Disposiciones del Banco de México.
 
-UNIDADES DE INVERSIÓN: A las unidades de cuenta cuyo valor publica el Banco de México en el Diario Oficial de la Federación, en términos del Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta, publicado en el Diario Oficial de la Federación el 1 de Abril de 1995.
+XIII. Disposiciones del Banco de México: A las dirigidas a el Instituto especializadas de fondos para el retiro en materia de operaciones financieras conocidas como derivadas, de reporto y de préstamo de valores, expedidas por el Banco Central.
 
-VALORES BANCARIOS: A los Instrumentos cuya naturaleza corresponda a valores, títulos o documentos representativos de una deuda con riego crediticio, emitidos o avalados por un Banco.
+XIV. Divisas: A los dólares de los Estados Unidos de América, euros, yenes y las monedas de los Países Elegibles para Inversiones que el Comité de Riesgos determine, considerando la seguridad de las inversiones y el desarrollo de los mercados, así como otros elementos que dicho cuerpo colegiado juzgue que es necesario analizar.
 
-VALORES GUBERNAMENTALES: A inversión en instrumentos de deuda con riego crediticio, emitidos o avalados por el Distrito Federal, por las demás Entidades Federativas de los Estados Unidos Mexicanos, por empresas de participación estatal mayoritaria o por las dependencias y entidades de la Administración Pública Federal, ya sea centralizada, descentralizada o paraestatal, incluyendo los que en su caso coticen en mercados internacionales.
+XV. Empresas Privadas: A las sociedades mercantiles de nacionalidad mexicana autorizadas para emitir valores, así como a las Entidades Financieras.
 
-Calificadoras.- Son Agencias especializadas para evaluar y emitir dictamen sobre las características de los instrumentos de inversión y fondos, en cuanto a calidad crediticia y riesgo de mercado.
+XVI. Emisores Nacionales: Al Gobierno Federal, al Banco de México, Empresas Privadas, entidades federativas, municipios, Gobierno del Distrito Federal y Entidades Paraestatales, que emitan Instrumentos, así como las Entidades Financieras, que emitan, acepten o avalen Instrumentos.
 
-Inflación.- Indicador económico financiero que refleja el incremento sostenido de los precios y a su vez la pérdida de valor o poder adquisitivo del dinero frente a otras monedas.
+XVII. Emisores Extranjeros: A los Gobiernos, Bancos Centrales y Agencias Gubernamentales de Países Elegibles para Inversiones, así como las entidades que emitan valores bajo la regulación y supervisión de éstos y los organismos multilaterales de carácter internacional de los que los Estados Unidos Mexicanos no sea parte.
 
-Sistema de Administración del Conocimiento.- Es un sistema de información que identifica, adquiere, conserva, resguarda, comparte, utiliza y genera el conocimiento y las experiencias del Instituto.
+XVIII. Entidades Financieras: A las autorizadas conforme a la legislación financiera mexicana para actuar como: almacenes generales de depósito, arrendadoras financieras, casas de bolsa, empresas de factoraje financiero, Instituciones de Crédito, instituciones de fianzas, instituciones de seguros y sociedades financieras dé objeto limitado o múltiple.
 
-Sistema de Inteligencia Directiva.- Sistema de Medición de indicadores estratégicos del Instituto y su interpretación.
+XIX. Estructuras Vinculadas a Subyacentes: A los activos que cumplan con las siguientes características:
+
+a. Ser ofertados mediante un mecanismo de oferta pública en algún País Elegible para
+
+Inversiones;
+
+b. Tener una estructura de pago de flujos a los inversionistas integrada por los siguientes dos componentes:
+
+1. Un bono cupón cero no subordinado, o en su caso un pago con estructura financiera similar a éste, a través del cual se devuelve al inversionista en la fecha de vencimiento del título el monto invertido. Este componente puede estar denominado en pesos, Unidades de Inversión o Divisas y puede ser emitido por Emisores Nacionales o Extranjeros.
+
+2. El pago de cupones, cuyo valor esté vinculado a Divisas, Unidades de Inversión, pesos, tasas de interés reales o nominales, el Índice nacional de precios al consumidor, Mercancías o una combinación de las anteriores. El valor de los cupones en ningún caso podrá ser negativo. Dicho valor podrá determinarse a través de Derivados autorizados.
+
+c. Contar con las calificaciones crediticias previstas en las presentes disposiciones, y
+
+d. El instrumento podrá requerir al inversionista únicamente la aportación del monto de inversión inicial y no deberá requerir a éste la administración ni la aportación de garantías.
+
+XX. Fideicomiso Maestro: Al Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto, en virtud del cual el Instituto, en calidad de fideicomitente, transmite bienes, cantidades de dinero o derechos, presentes o Muros, a una entidad financiera que haga las funciones de fiduciaria, para que ésta administre o invierta los bienes, en beneficio del propio fideicomitente o en beneficio de terceros, llamados fideicomisarios.
+
+XXI. Fondos Mutuos: A las entidades nacionales o extranjeras, que se encuentren registradas, reguladas y supervisadas por alguna autoridad perteneciente a los Países Elegibles para Inversiones que cumplan con la regulación de su Pals de origen, así como con las siguientes características:
+
+a. El valor neto de sus activos se debe conocer diariamente a través de los mecanismos que para tales efectos establezcan las autoridades de los Países Elegibles para Inversiones que regulen el fondo de que se trate;
+
+b. La liquidez y redención de las acciones o títulos debe ser diaria, o bien conforme a la periodicidad que determine el Comité de Riesgos;
+
+c. Sus administradores y/o asesores de inversión deben estar registrados, regulados y supervisados por alguna autoridad perteneciente a los Países Elegibles para Inversiones;
+
+d. Deben contar con un prospecto de inversión en el que hagan pública su política de inversión y deben publicar periódicamente su situación financiera; y
+
+e. Los instrumentos en los que inviertan deben ser emitidos mediante oferta pública y observar los criterios aplicables a Activos Objeto de Inversión determinados en las presentes disposiciones.
+
+El Comité de Riesgos determinará los lineamientos que deben cumplir estos fondos con el objeto de proteger los recursos de los trabajadores invertidos en el Instituto.
+
+XXII. Grado de Inversión: Al obtenido por los Instrumentos de Deuda y Valores Extranjeros de Deuda denominados en moneda nacional, Unidades de Inversión o Divisas que ostenten las calificaciones relacionadas en los la Tabla "A" de las presentes disposiciones.
+
+XXIII. Grupos Financieros: A los constituidos en términos de la ley para Regular las Agrupaciones Financieras.
+
+XXIV. Instituto: Al Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+XXV. Instituciones de Crédito: A las instituciones de banca múltiple y banca de desarrollo nacionales.
+
+XXVI. Instrumentos: A todos los Instrumentos Bursatilizados e Instrumentos de Deuda denominados en moneda nacional, así como a las Unidades de Inversión o Divisas emitidos por Emisores Nacionales, incluidos los Certificados Bursátiles y los Certificados de Participación, los documentos o contratos de deuda a cargo del Gobierno Federal, los depósitos en el Banco de México, los depósitos bancarios de dinero a la vista realizados en Instituciones de Crédito, las Estructuras Vinculadas a Subyacentes, o en su caso los componentes de éstas, emitidos por Emisores Nacionales, así como las Mercancías.
+
+XXVII. Instrumentos Bursatilizados: A los títulos o valores que representen derechos de crédito emitidos a través de Vehículos y cuyos activos subyacentes sean dichos derechos de crédito, no quedando incluido cualquier otro instrumento diferente a los antes mencionados, que no reúnan los requisitos establecidos en las disposiciones de carácter general en materia financiera de los Sistemas de Ahorro para el Retiro, previo visto bueno del Comité de Riesgos.
+
+XXVIII. Instrumentos de Deuda: A los siguientes:
+
+a. Activos Objeto de Inversión, cuya naturaleza corresponda a valores, títulos o documentos representativos de una deuda a cargo de un tercero, colocados en mercados nacionales o extranjeros, emitidos por Emisores Nacionales, así como a los Instrumentos Bursatilizados y los depósitos en el Banco de México;
+
+b. Las obligaciones subordinadas no convertibles emitidas por Instituciones de Crédito a que se refiere el artículo 64 de la ley de Instituciones de Crédito;
+
+c. Las obligaciones subordinadas no convertibles que cumplan con los siguientes requisitos:
+
+1. Que tengan por objeto financiar proyectos de infraestructura en territorio nacional;
+
+2. Que en ninguno de los tramos o series en que se estructuren se establezcan aportaciones adicionales con cargo a los tenedores;
+
+3. Que sin perjuicio del orden de prelación establecido entre dichos tramos o series, en ningún caso se libere al emisor de la obligación de pago del principal, aún cuando dicho principal pueda ser diferido o amortizado anticipadamente; y
+
+4. Que en el caso de que sean emitidas a través de un Vehículo, éste no confiera derechos directa o indirectamente, respecto de Derivados o implique estructuras sujetas a financiamiento.
+
+d. Obligaciones subordinadas no convertibles en acciones.
+
+Se exceptúan de las comprendidas en este inciso, las series contempladas en la emisión de un instrumento financiero que ante cualquier evento distinto al de liquidación o concurso mercantil otorgue derechos de prelación de cobro diferenciados a los tenedores de dichas series, cualquiera que sea su denominación. En particular no quedan contempladas en la presente definición las series subordinadas o mezzanine de los Instrumentos Bursatilizados.
+
+Asimismo, quedan excluidas del presente inciso las distintas obligaciones y series de acciones emitidas por una sociedad anónima especializada en la inversión de recursos financieros.
+
+Los instrumentos a que se refieren los incisos b), c) y d) anteriores, deberán alcanzar las calificaciones mínimas que determine el Comité de Análisis de Riesgos. En todo caso, las calificaciones deberán ser otorgadas cuando menos por dos instituciones calificadoras de valores autorizadas por la Comisión Nacional Bancaria y de Valores.
+
+XXIX. Inversiones Neutras: A la realizada por el Instituto en Instrumentos emitidos, bajo la regulación y supervisión de autoridades que pertenezcan a los Países Elegibles para Inversiones, por organismos financieros multilaterales de carácter internacional de los que los Estados Unidos Mexicanos sea parte, los cuales se considerarán dentro de Emisores
+
+Nacionales.
+
+XXX. Ley: ley del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+XXXI. Mandatarios: A las personas morales especializadas en la inversión de recursos financieros supervisadas y reguladas por autoridades de los Países Elegibles para Inversiones con las que el Instituto haya celebrado contratos de intermediación en los que se otorgue un mandato cuyo ejercicio esté sujeto a los lineamientos que determine el Instituto contratante.
+
+XXXII. Mejores Prácticas: A los lineamientos para controlar y minimizar el riesgo operativo del Instituto, procedente de las operaciones con Activos Objeto de Inversión, así como del manejo de efectivo y valores en las operaciones de compraventa, registro, administración y custodia de valores en los mercados financieros nacionales y extranjeros, que el Instituto debe adoptar e incorporar a sus programas de autorregulación.
+
+XXXIII. Mercancías: A los subyacentes enunciados en las Disposiciones del Banco de México en materia de operaciones derivadas, que tengan el carácter de bienes fungibles diferentes a las acciones, índices, tasas, derivados, moneda nacional, Divisas, Unidades de Inversión, préstamos y créditos, en los que el Instituto tenga la posición de acreedora.
+
+XXXIV. Unidades de Inversión: A las unidades de cuenta cuyo valor publica el Banco de México en el Diario Oficial de la Federación, conforme a los artículos tercero del Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la ley del Impuesto sobre la Renta, publicado en el Diario Oficial de la Federación el 1o de abril de 1995 y 20 ter del Código Fiscal de la Federación.
+
+XXXV. Valor Compensado: A aquél que resulte de restar al valor de mercado de los Contratos Abiertos, el valor de mercado de las garantías recibidas para asegurar el cumplimiento de las operaciones con Derivados que celebre el Instituto.
+
+XXXVI. Valores Extranjeros: A todos los Instrumentos de Deuda Extranjeros.
+
+XXXVII. Valores Extranjeros de Deuda: A los Activos Objeto de Inversión, cuya naturaleza corresponda a valores, títulos o documentos representativos de una deuda a cargo de un tercero, así como a los Instrumentos Bursatilizados, emitidos por Emisores Extranjeros.
+
+XXXVIII. Vehículos: A las sociedades de inversión, Fondos Mutuos, fideicomisos de inversión u otros análogos a los anteriores que, cualquiera que sea su denominación, confieran derechos, directa o indirectamente, respecto de los Activos Objeto de Inversión.
 
 ### CAPITULO II. De los Recursos Financieros y Económicos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 3°.
 
-Todos los recursos financieros del Instituto serán depositados, resguardados, administrados, transferidos y canalizados por medio y a través de la figura jurídica de los fideicomisos, con la finalidad primordial de hacer cumplir los objetivos del Instituto, además de que se busque en todo momento la inversión en instrumentos que ofrezcan la mejor relación de rendimientos y seguridad en el mercado financiero con las reservas financieras de cada Fondo.
+Todas las reservas financieras del Instituto, serán administradas a través de un Fideicomiso Maestro, cuyo fin será la inversión y manejo de las mismas, de acuerdo a los fines del Instituto marcados en la ley.
+
+El Fideicomiso Maestro deberá contar con las subcuentas necesarias, dependiendo del número de fondos que administre, de conformidad con el artículo 8° de este Reglamento, las cuales deberán ser manejadas con total independencia cada uno de ellas y serán identificadas o se denominarán de acuerdo a su naturaleza específica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 4°.
 
-Existirán tantos fideicomisos como sean necesarios con la única restricción de tener como objetivos los especificados como mínimo en el artículo anterior.
+Respecto de los recursos que formen parte del patrimonio del Fideicomiso Maestro, el Comité de Inversiones tendrá las facultades a que se refiere el artículo 17 Bis 2 del Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 5°.
 
-Los recursos económicos y financieros para su administración estarán conformados en lo que se denomina fondos, los cuales estarán identificados o se denominarán de acuerdo a su naturaleza específica.
+Respecto de los recursos que formen parte del patrimonio del Fideicomiso Maestro, el Comité de Riesgos tendrá las facultades a que se refiere el artículo 17 Bis 6 del Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
 
 ###### ARTICULO 6°.
 
@@ -136,9 +242,13 @@ La administración de los recursos financieros deberá guardar una proporcionali
 
 Todos los fondos y fideicomisos deben ser contemplados en el presupuesto de manera independiente pero, deberán estar contenidos en el presupuesto general anual de la dependencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 13.
 
-Se contemplará que los fondos y fideicomisos deberán conservar una salud financiera que les asegure su permanencia en el tiempo de manera razonable y en caso de demostrarse alguna tendencia contraria a los fines para el cual fue creado, corresponderá al comité técnico del fideicomiso de que se trate tomar las medidas conducentes.
+El Comité de Inversiones y el Comité de Riesgos, deberán de cuidar en todo momento, la salud financiera de los fondos que se administren a través del Fideicomiso Maestro, a fin de asegurar su permanencia en el tiempo.
 
 ###### ARTICULO 14.
 
@@ -146,61 +256,91 @@ Para la selección de las empresas o áreas fiduciarias se deberán observar los
 
 1) experiencia, 2) calidad del servicio, 3) servicios otorgados, 4) localización de sus oficinas específicas de manejo de fideicomisos en Aguascalientes, entendiéndose por esto que no hay intermediarios o representantes para su manejo, 5) facilidades en el manejo de los recursos, 6) comunicación periódica y eficiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 15.
 
-Los contratos de fideicomisos deberán ser revisados por la coordinación jurídica del Instituto y la Dirección General y autorizados por la Secretaria General de Gobierno para su registro y control respectivo, marcándosele copia a la Secretaría de Finanzas y Administración una vez autorizados.
+El Contrato de Fideicomiso Maestro deberá ser aprobado por el Comité de Inversiones del Instituto y una vez hecho lo anterior, sometido a la aprobación de la Secretaría de Finanzas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 16.
 
-Los fideicomisos estarán regulados por su ley respectiva, sin embargo el contrato escrito entre el fideicomitente y el fiduciario deberá contener las siguientes condiciones mínimas
+El Contrato de Fideicomiso Maestro, deberá contener, entre otras, las siguientes condiciones mínimas:
 
-a) Cláusulas de revocabilidad.
+I. Cláusulas de revocabilidad.
 
-b) Cláusula de la no existencia de condiciones limitantes económicas o no de inversión en otros instrumentos o instituciones, distintas a las empresas que dan origen y administran el área fiduciaria respectiva.
+II. Cláusula de la no existencia de condiciones limitantes económicas o no de inversión en otros instrumentos o instituciones, distintas a las empresas que dan origen y administran el área fiduciaria respectiva.
 
-c) La existencia de cláusulas de resolución de controversias previas a medidas correctivas por otras Instituciones regulatorias del sistema bancario mexicano.
+III. La existencia de cláusulas de resolución de controversias previas a medidas correctivas por otras Instituciones regulatorias del sistema bancario mexicano.
 
-d) La delegación del Comité Técnico al Director General del Instituto de la toma de decisiones y disposición de recursos en casos de fuerza mayor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO IV. Comité Técnico de Fideicomisos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2014)</small>
+
+### CAPITULO IV. Fideicomiso Maestro
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 17.
 
-Los fideicomisos en su estructura fundamental contemplan un Organismo y comités técnicos para su eficiente manejo y administración, estos en el caso del Instituto contarán con una estructura jerárquica de dos niveles:
+El Fideicomiso Maestro contará con un Comité Técnico, el cual deberá vigilar en todo momento, que la tasa promedio de interés de los recursos de las distintas subcuentas, sean al menos igual a la tasa pasiva líder del mercado bancario del mismo período.
 
-La H. Junta Directiva como Órgano máximo de este Instituto con toda la representatividad con que ésta cuenta y que tendrá como funciones principales entre otras de manera enunciativa y no limitativa las siguientes:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-* Dictar los lineamientos generales y de aplicación universal para todo tipo de fideicomiso que maneja el Instituto por así convenir a los mismos.
-
-* La vigilancia mediante la solicitud periódica y análisis de informes sobre el buen funcionamiento de los mismos.
-
-* Convocar a reunión a los representantes de cada comité para revisar toda vez que sea necesario aspectos inherentes a los fideicomisos, tales como vigencia, cumplimiento, funcionamiento, modificaciones para su mejoramiento, etc.
-
-* El estudio, análisis, justificación y conveniencia de la creación de un nuevo fideicomiso. El segundo nivel jerárquico corresponderá a los comités técnicos de fideicomisos específicos para cada uno de los fideicomisos constituidos y que podrá haber variación en el número de sus miembros y cuyas facultades y obligaciones serán las estipuladas en el texto de cada contrato de fideicomiso.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 18.
 
-Se propiciará la reunión la H. Junta Directiva y comités técnicos el mínimo de veces necesarias, contando al menos con una reunión obligatoria anual en el segundo trimestre del año, en la reunión ordinaria de la H. Junta Directiva, para efectos de presentar planes y presupuestos de cada fideicomiso y se buscará optimizar su presencia de estos comités en una sola ocasión al año.
+El Comité Técnico del Fideicomiso Maestro reportará sus actividades directamente a la Junta Directiva, la cual podrá solicitar en cualquier momento que el Comité Técnico le rinda cuentas, pero por lo menos, en el segundo semestre de cada año deberá reunirse con la Junta Directiva para presentar la situación financiera del Fideicomiso
+
+Maestro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 19.
 
-Será posible convocar a reunión de cualquier comité por solicitud de cualquiera de sus integrantes en el momento en que estos lo crean conveniente justificando en su convocatoria la razón de la reunión extraordinaria.
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 20.
 
-Tanto la H. Junta Directiva como los comités técnicos de fideicomisos se apegarán en su acción al presente reglamento y a los ordenamientos que rigen el funcionamiento del Instituto.
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 21.
 
-Sobre la elección de miembros de los comités, corresponderá al Director General el presentar las propuestas respectivas al Secretario General de Gobierno quien decidirá en base a las propuestas presentadas.
+El Comité Técnico del Fideicomiso Maestro estará integrado por:
+
+I. El titular de la Secretaría de Finanzas de Gobierno del Estado de Aguascalientes;
+
+II. Un Miembro Independiente designado por la Junta Directiva del Instituto; y
+
+III. El Director de Contabilidad y Finanzas del Instituto.
+
+Participará con voz pero sin voto el Director General. Al Miembro Independiente del Comité Técnico del Fideicomiso Maestro, le serán aplicables los criterios de independencia que se refiere el artículo 17 Bis 11 del Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
 
 ###### ARTICULO 22.
 
 A aquellos que se inviten como miembros del comité y una vez aceptada la misma se les tomará protesta bajo juramento y se les expedirá el nombramiento respectivo para comprometerse a velar por los intereses de los trabajadores; de no aceptar el cargo se hará una propuesta de sustitución y se repetirá el proceso respectivo, hasta que éste sea aceptado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 23.
 
-Los nombramientos de comités técnicos de fideicomisos son honoríficos.
+Los servidores públicos que sean integrantes del Comité Técnico del Fideicomiso Maestro, desempeñarán este cargo en forma honorífica, por lo que no recibirán contraprestación alguna por el desempeño del cargo. El miembro independiente que forme parte de este Comité, recibirá una contraprestación determinada por la Junta Directiva.
 
 ###### ARTICULO 24.
 
@@ -256,95 +396,109 @@ La firma de los cheques podrán contener dos firmas "A", podrán ser con firmas 
 
 La prioridad de la administración del Instituto será lograr el rendimiento más atractivo posible de la inversión de recursos o que se haga de la inversión de las reservas actuariales, financieras y económicas, dentro de un esquema que nos permitan las condiciones del mercado en su momento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 34.
 
-Para la validación y refuerzo en la toma de decisiones se contará con un Comité de Inversiones el cual deberá estar conformado por personal con conocimiento en la materia de finanzas e inversiones, con conocimiento y experiencia en instrumentos de inversión, por personal que por la naturaleza de su trabajo les implique estar enterados y sensibles del entorno e indicadores económicos, por lo que para el logro de lo anterior dicho comité estaría integrado de forma tripartita, por representantes de Gobierno Estatal, como convenientemente seria al menos un funcionario designado por la Secretaria de finanzas, personal del Instituto (ISSSSPEA) el Director General, el Director de Contabilidad y Finanzas y una persona externa representante de alguna institución financiera líder y experta en la materia o persona física que cuente con la pericia, experiencia, prestigio y profesionalismo oficialmente certificado y validado por autoridades reguladoras en la materia, para calificar previamente los instrumentos, mecanismos o acciones de inversión.
+De acuerdo a las instrucciones que le sean giradas por el Comité de Inversiones, los recursos que existan en el Fideicomiso Maestro podrán ser invertidos en lo siguiente:
+
+I. Hasta el 100% del Activo Total del Instituto en instrumentos de Deuda emitidos o avalados por el Gobierno Federal, o en Instrumentos de Deuda emitidos por el Banco de México. La inversión a que se refiere el presente párrafo, no incluye a los Instrumentos de Deuda emitidos, avalados o aceptados por las instituciones de banca de desarrollo, salvo cuando en éstos conste en forma expresa el aval del Gobierno Federal.
+
+II. El 100% de los activos invertidos del Instituto debe estar invertido en Instrumentos de Deuda que tengan Grado de Inversión conforme a la Tabla "A".
+
+III. En depósitos de dinero a la vista en Bancos.
+
+IV. En las operaciones autorizadas para garantizar Derivados a que se refieren las Disposiciones del Banco de México.
+
+V. Hasta el 20% del Activo de cada Subcuenta del Instituto en Valores Extranjeros. Las inversiones en Valores Extranjeros de Deuda deberán tener Grado de Inversión conforme a la tabla "A".
+
+VI. Hasta el 20% del Activo Total del Instituto en Instrumentos de deuda corporativa que tenga Grado de Inversión conforme a la Tabla "A".
+
+VII. Activos Objeto de Inversión emitidos, avalados o aceptados por sociedades relacionadas entre Sí, podrá ser hasta del 15% del Activo Total del Instituto.
+
+VIII. Hasta el 30% del Activo del Instituto en Instrumentos Bursatilizados que satisfagan los requisitos establecidos en las presentes disposiciones y deberán ser colocados por un emisor independiente de acuerdo con los criterios establecidos en el Anexo 1.
+
+IX. Hasta el 15% del Activo Total del Instituto en Instrumentos de deuda pública de otras entidades federativas.
+
+Los recursos no podrán ser invertidos en instrumentos de renta variable incluyendo acciones.
+
+El Comité de Inversiones deberá dar su autorización para la adquisición de un Activo Objeto de Inversión, en el caso de que el Intermediario que lo ofrezca, sea el mismo que estructuró la bursatilización del Activo referido.
+
+Para efectos de la presente disposición, la Junta Directiva, oyendo la opinión del Comité de Riesgos, podrá prohibir la adquisición de Activos Objeto de Inversión cuando a su juicio representen riesgos excesivos para la cartera del Instituto, a efecto de proteger los intereses de los Trabajadores.
+
+La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados o aceptados por un mismo emisor con calificación crediticia de mx AAA o su correspondiente según la Tabla A no podrá exceder del 5% del Activo del Instituto.
+
+La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados o aceptados por un mismo emisor con calificación crediticia de mx AA+ o su correspondiente según la Tabla A no podrá exceder del 3% del Activo del Instituto.
+
+La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados o aceptados por un mismo emisor no podrá exceder del 5% del Activo del Instituto y deberán ostentar las calificaciones previstas en la Tabla "A" de las presentes disposiciones.
+
+El monto adquirido sobre una misma emisión no podrá ser mayor al 35% de la emisión o mayor a $300,000,000.00 (trescientos millones de pesos).
+
+> <small>N. DE E. VÉASE TABLA "A" EN EL P.O. DE 17 DE FEBRERO DE 2014, PÁGINA 31.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 35.
 
-Sólo podrá invertirse con instituciones con las más altas calificaciones en cuanto a seguridad y confianza por los organismos calificadores que les corresponda.
+El Fideicomiso Maestro podrá adquirir los Activos Objeto de Inversión a través de Mandatarios.
+
+En los contratos que el Fideicomiso Maestro celebre con los Mandatarios se deberá prever lo siguiente:
+
+I. Que el Fideicomiso Maestro y el Mandatario deberán observar permanentemente todos los limites, parámetros, criterios de diversificación y obligaciones establecidas en las presentes disposiciones, y en las demás reglas específicas de cada contrato, y en las disposiciones de carácter general en materia financiera emitidas por la Comisión Nacional del Sistema de Ahorro para el Retiro. Para estos efectos, el Instituto deberá establecer en el contrato que celebre con cada Mandatario por cuenta del Instituto que opere, los parámetros a que deberán sujetarse los Mandatarios de que se trate de conformidad con los objetivos de inversión del Instituto;
+
+II. Que las inversiones realizadas en nombre y representación del Instituto, se registren como inversiones por cuenta de terceros segregadas del patrimonio de la entidad que se contrate;
+
+III. La obligación del Mandatario de no celebrar las operaciones objeto del contrato con el Fideicomiso Maestro con entidades con las que cualquiera de las partes tenga nexo patrimonial o conflicto de interés alguno;
+
+IV. Que la valuación de los Activos Objeto de Inversión y el reporte de las carteras de inversión se realicen conforme a las disposiciones de carácter general en materia financiera que emita el Instituto;
+
+V. Que los Mandatarios deberán reportar al Instituto con la periodicidad establecida en las disposiciones de carácter general en materia financiera emitidas por el comité de Inversiones, los precios aplicables para determinar, en su caso, las minusvalías correspondientes;
+
+VI. La obligación del Mandatario de cumplir para las inversiones en Activos Objeto de Inversión materia del contrato de que se trate, con los criterios de diversificación previstos por el comité de inversiones.
+
+VII. Cumplir con los demás requisitos que determine el Comité de Riesgos. Los contratos a celebrarse entre el Fideicomiso Maestro y los Mandatarios, deberán presentarse al Comité de Inversiones para su aprobación.
+
+Los contratos a celebrarse entre el Fideicomiso Maestro y los Mandatarios, deberán presentarse al Comité de Inversiones para su aprobación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 36.
 
-Para el caso de instrumentos comunes en el mercado financiero nacional deberán contar dichos instrumentos con un Grado de Inversión.
+El Fideicomiso Maestro, tendrá prohibido:
 
-Los Instrumentos que se adquieran, deberán alcanzar las calificaciones mínimas establecidas en el Artículo 37. Lo anterior no es aplicable a los Instrumentos emitidos o avalados por el Gobierno Federal y los emitidos por el Banco de México. Las calificaciones mencionadas deberán ser otorgadas cuando menos por una institución calificadora y todas las calificaciones con que cuente una inversión deberán ser públicas y alcanzar las calificaciones establecidas en el Artículo 37 según le sea aplicable. Cuando las calificaciones de un mismo Instrumento corresponda a diferentes escalas, dicho Instrumento se sujetará para efectos de este Reglamento a la calificación más baja con que cuente. Los requisitos de calificación previstos no serán aplicables a los depósitos bancarios de dinero a la vista.
+I. Adquirir Activos Objeto de Inversión emitidos, aceptados o avalados por Entidades Financieras o casas de bolsa, que se encuentren sujetas a intervención administrativa o gerencial que haya sido declarada por la autoridad supervisora competente del sistema financiero o actos equivalentes ordenados en su caso, por alguna autoridad financiera perteneciente a los Países Elegibles para Inversiones que señale el Comité de inversiones;
 
-En el caso de que las instituciones calificadoras de valores modifiquen la denominación de sus calificaciones o se autoricen por la autoridad competente instituciones calificadoras de valores no previstas en el Artículo 37 antes referido, se deberá analizar las nuevas escalas de calificación y determinará las modificaciones que deban realizarse al Artículo 37.
+II. Adquirir Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, aceptados o avalados por Entidades Financieras o casas de bolsa con las que tengan Nexos Patrimoniales, así como invertir en Fondos Mutuos administrados por Entidades Financieras con las que tengan Nexos Patrimoniales;
 
-Los porcentajes máximos del total de las disponibilidades en la fecha de la inversión, que podrán ser invertidos son:
+III. Adquirir Instrumentos de Deuda y Valores Extranjeros de Deuda subordinados, salvo que se trate de las obligaciones subordinadas a que se hace referencia en los incisos c) y d), de las definiciones de Instrumentos de Deuda;
 
-1) Hasta el 100% en Instrumentos que tengan Grado de Inversión conforme al Rango A del Artículo 37.
+IV. Adquirir Instrumentos y Valores Extranjeros que otorguen a sus tenedores derechos o rendimientos referidos, directa o indirectamente, a acciones individuales, a un conjunto de acciones, a variaciones en el precio de mercancías, activos, o instrumentos, que no se encuentren autorizados dentro del régimen de inversión del Instituto;
 
-2) Hasta el 35% en Instrumentos que tengan Grado de Inversión conforme al Rango B del Artículo 37.
+V. Realizar depósitos bancarios y celebrar operaciones de reporto, préstamo de valores, y Derivados con Entidades Financieras o casas de bolsa con las que tengan Nexos Patrimoniales; y
 
-No se podrá invertir en ninguno de los Instrumentos que se señalan a continuación:
+VI. Adquirir Instrumentos de deuda pública del Estado de Aguascalientes.
 
-1) Adquirir Instrumentos de Deuda subordinados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-2) Adquirir Instrumentos emitidos, aceptados o avalados por entidades financieras o casas de bolsa, que se encuentren sujetas a intervención administrativa o gerencial que haya sido declarada por la autoridad supervisora.
-
-3) Instrumentos convertibles en acciones.
-
-4) Adquirir Instrumentos que otorguen a sus tenedores derechos o rendimientos referidos, directa o indirectamente, a acciones individuales, un conjunto de acciones que no se encuentren autorizados.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 37.
 
-Las calificaciones mínimas aceptables por los comités deberán ser sólo dentro de los primeros niveles jerárquicos de la escala que el organismo respectivo maneje, incluyendo en estos niveles, el nivel más alto o primer nivel que sólo es otorgado en México al país y su deuda soberana, y para lo cual se presentan como primeros niveles de calificación aceptables los siguientes:
+La inversión en Activos Objeto de Inversión denominados en Divisas, podrá sumar hasta el 30% del Activo Total del Instituto.
 
-Calificaciones para Instrumentos
+Dentro del límite a que se refiere el párrafo anterior, deberá computarse el valor a mercado de los Contratos Abiertos con Derivados que celebre el Instituto cuyo subyacente sean Divisas, así como el valor a mercado de los reportos y préstamo de valores denominados en Divisas.
 
-Rango A
+Para efectos de verificar el cumplimiento de la presente disposición se estará a lo dispuesto en las disposiciones de carácter general en materia financiera de los Sistemas de Ahorro para el Retiro emitidas por la Comisión.
 
-Escala Global de Calificaciones
+El Instituto podrá adquirir las Divisas, en directo o a través de Derivados, que requieran para efectuar la liquidación o cobertura de operaciones con Activos Objeto de Inversión.
 
-Corto Plazo
-
-Fitch Standard and Poor's Moody's
-
-F1+/F1/F2 A-1+/A-1/A-2 P-1/P-2
-
-Largo Plazo
-
-Fitch Standard and Poor's Moody's
-
-AAA/AA+/AA/- AAA/AA+/AA/AA- Aaa/Aa1/Aa2/Aa3/
-
-AA-/A+/A/A/ A 1/A2/A
-
--BBB* /A+/A/A-/BBB+ 3/Baa1
-
-MEXICO Rango A
-
-Corto Plazo.
-
-Fitch Standard and Poor's Moody's
-
-F1+(mex) MxA-1+ MX-1
-
-Largo Plazo
-
-Fitch Standard and Poor's Moody's
-
-AAA (mex) mxAAA Aaa.mx
-
-Rango B
-
-Corto Plazo
-
-Fitch Standard and Poor's Moody's
-
-F1 (mex) MxA-1 MX-2
-
-Largo Plazo
-
-Fitch Standard and Poor's Moody's
-
-AA+(mex)/AA mxAA+/mxAA/mxAA- Aa1.mx/Aa2.mx/
-
-(mex)/AA-(mex) Aa3.mx
-
-Las calificaciones antes mencionadas no deberán estar incluidas en la lista de "CreditWatch" o de "perspectiva".
+El Comité de Riesgos, considerando la seguridad y el desarrollo de los mercados correspondientes podrá establecer requisitos para la operación del Instituto con Divisas.
 
 ###### ARTICULO 38.
 
@@ -364,7 +518,7 @@ La Dirección de Contabilidad y Finanzas deberá mantener informada a la Direcci
 
 ###### ARTICULO 42.
 
-Previamente para efecto de tomar decisiones en cuanto a instrumentos de inversión se deberá contar con el análisis comparativo de tasas, riesgo, clasificación, montos, intereses sobre premios, plusvalías esperadas y totales a la fecha de su vencimiento y fechas de vencimientos, observaciones y comentarios que justifican el porque considerarse ese instrumento para la toma de decisiones. Deberá contarse con un formato de autorización de instrumentos y tasas con el visto bueno de la Dirección General.
+Previamente para efecto de tomar decisiones en cuanto a instrumentos de inversión se deberá contar con el análisis comparativo de tasas, riesgo, clasificación, montos, intereses sobre premios, plusvalías esperadas y totales a la fecha de su vencimiento y fechas de vencimientos, observaciones y comentarios que justifican el por que considerarse ese instrumento para la toma de decisiones. Deberá contarse con un formato de autorización de instrumentos y tasas con el visto bueno de la Dirección General.
 
 ###### ARTICULO 43.
 
@@ -418,6 +572,56 @@ d) Las tasas deberán estar referenciadas y ligadas al indicador o tasa más alt
 
 La conformación del portafolio de inversión del Instituto deberá cumplir con el objetivo de que la mezcla de recursos en su totalidad deberá lograr el objetivo de maximización de capital y rendimientos que exige nuestra Ley y obtener una relación prudente de su costoriesgo-beneficio, buscando en todo momento el mínimo de riesgo en apego a lo que señala el articulo 37 del presente reglamento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ANEXO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+"ANEXO 1"
+
+Criterios que deberán cumplir los Instrumentos Bursatilizados para ser considerados como colocados por un emisor independiente. Criterios generales que deberán cumplir los Instrumentos Bursatilizados en posesión del Instituto para ser considerados como colocados por un emisor independiente.
+
+I. El prospecto deberá indicar claramente los criterios de elegibilidad de la cartera objeto de la bursatilización;
+
+II. Existir una cesión de los derechos de cobro de la cartera objeto de la bursatilización a un fideicomiso irrevocable;
+
+III. Contar con reglas claras para, en su caso, sustituir al administrador de la cartera objeto de la bursatilización. Entre otras razones, para la sustitución se deberán dar a conocer los posibles conflictos de interés de éste con los tenedores, el representante común o con entidades relacionadas con el pago de las obligaciones de los derechos de cobro o con el originador, la falta de experiencia en la administración y cobro de los derechos sobre los activos objeto de la bursatilización, o bien, un incumplimiento de su mandato como administrador;
+
+IV. La institución calificadora de valores autorizada deberá considerar y valuar todos los flujos del Instrumento Bursatilizado (capital e intereses) para efectos de emitir una calificación;
+
+V. Respetar estándares mínimos para revelar información acerca del Instrumento Bursatilizado con apego a la normatividad que para tales efectos emita la Comisión Nacional Bancaria y de Valores;
+
+VI. Que la valuación del Instrumento Bursatilizado se realice por un proveedor de precios, mediante el uso de una metodología pública;
+
+VII. No deberán existir mecanismos de recompra de la cartera objeto de la bursatilización, por parte del fideicomitente ni del originador, salvo cuando la cartera en comento sea hipotecaria o de otra naturaleza que señale el Comité de Análisis de Riesgos, en cuyos casos se sujetarán a las normas específicas que se establezcan. Tampoco deberán existir mecanismos de sustitución de una parte o del total de los activos afectados en fideicomiso irrevocable, excepto para cumplir con los criterios de elegibilidad a que se refiere el literal a anterior.
+
+Criterios adicionales que deberán cumplir los Instrumentos Bursatilizados en posesión del Instituto para que puedan ser considerados como colocados por un emisor independiente cuando la cartera subyacente sea hipotecaria;
+
+VIII. El fideicomitente o, en su caso, el originador podrá recomprar al fideicomiso la cartera objeto de la bursatilización cuando su valor sea igualo menor al 10% del que hubiera tenido al inicio de la emisión.
+
+En el caso de reaperturas de emisiones, se seguirá la misma regla considerando el monto total emitido en las diferentes reaperturas llevadas a cabo con una misma emisión. Se considerará que dos Instrumentos Bursatilizados corresponden a una misma emisión [reabierta] cuando lo anterior se sustente con la opinión legal de un experto independiente del emisor;
+
+IX. Los Instrumentos Bursatilizados deberán alcanzar una calificación equivalente a alguna de las previstas en el Anexo A de las presentes disposiciones. Para tales efectos, los Instrumentos Bursatilizados deberán contar con una combinación de mecanismos de seguridad dentro de los que se encuentren los siguientes:
+
+a. Seguro de crédito a la vivienda;
+
+b. Determinación de un nivel máximo aplicable al valor promedio de las relaciones entre el valor de los créditos y el valor de las garantías hipotecarias de la cartera objeto de la bursatilización;
+
+c. Emisión de una serie subordinada;
+
+d. Garantía otorgada por una aseguradora de reconocido prestigio internacional;
+
+e. Nivel mínimo de aforo o capital retenido por el fideicomitente, entendiéndose por esta variable al porcentaje de la cartera que es fideicomitida en exceso del valor del Instrumento Bursatilizado al momento de la emisión;
+
+f. Al momento de la emisión del Instrumento Bursatilizado, el valor total de la suma de los montos de la serie subordinada, la garantía y el aforo o capital retenido por el fideicomitente, como porcentaje del monto emitido, debe ser igualo superior a los valores mostrados en la siguiente tabla, correspondientes a diferentes combinaciones permitidas de seguro de crédito a la vivienda y valor promedio de la relación entre el valor de los créditos y el valor de las garantías objeto de la bursatilización:
+
+Requerimiento de Aforo o capital retenido por el originador, serie subordinada y/o garantía financiera (porcentaje de la emisión original).
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE FEBRERO DE 2014, PÁGINA 33.</small>
+
+g. Al momento de la emisión del Instrumento Bursatilizado, el originador deberá retener un nivel de aforo o capital del Instrumento Bursatilizado, como porcentaje del monto emitido, igual o superior a los valores mostrados en la siguiente tabla, correspondientes a diferentes combinaciones permitidas de seguro de crédito a la vivienda y valor promedio de la relación entre el valor de los créditos y el valor de las garantías objeto de la bursatilización. El valor del Aforo o capital retenido por el originador señalado en este numeral también computará dentro del total requerido en el numeral anterior:
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE FEBRERO DE 2014, PÁGINA 33.</small>
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO
@@ -435,3 +639,11 @@ Se abroga el Reglamento para la Administración de Recursos Financieros e Invers
 ATENTAMENTE.
 
 EL DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLlCOS DEL ESTADO DE AGUASCALIENTES, Ing. Oscar Armando González Muñoz.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE FEBRERO DE 2014.
+
+PRIMERO.- Las presentes reformas entrarán en vigencia a los 120 días naturales siguientes al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los 30 días naturales siguientes a la publicación de las presentes reformas, la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, deberá designar a los miembros de los Comités de Inversiones y de Riesgos del Instituto.
