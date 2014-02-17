@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-cuenta-de-ahorro-individual-para-el-retiro-412
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-11"
-last_updated: "2009-09-28"
+last_updated: "2014-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO DE LA CUENTA DE AHORRO INDIVIDUAL PARA EL RETIRO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DE LA CUENTA DE AHORRO INDIVIDUAL PARA EL RETIRO DE LOS SERVIDORES PUBLlCOS DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO DE LA CUENTA DE AHORRO INDIVIDUAL PARA EL RETIRO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de octubre de 2004.
 
@@ -41,41 +41,55 @@ REGLAMENTO DE LA CUENTA DE AHORRO INDIVIDUAL PARA EL RETIRO DE LOS SERVIDORES PU
 
 El presente ordenamiento jurídico tiene como fin establecer los mecanismos y procedimientos para el adecuado y transparente manejo en la administración de los recursos de las cuentas de ahorro individuales, por aportaciones obligatorias y voluntarias que se reciban para el retiro.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 2°.
 
 Para los efectos del presente reglamento se entenderá por:
 
-Ley: Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+I. Aportaciones voluntarias: Son los montos aportados por los trabajadores, por sí mismos o a través de sus patrones, dada instrucción precisa del trabajador para que se realice descuento a su sueldo base de cotización.
 
-Instituto: Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+II. Beneficiarios: Persona(s) designada(s) por el servidor público en carta testamentaria para recibir los beneficios de su cuenta de ahorro individual para el retiro, en el caso de su fallecimiento.
 
-Fideicomiso: Figura jurídica por medio de la cual se plasman instrucciones concretas para la administración y buen uso de recursos económicos. Las partes que intervienen son: el fiduciario, en la que recae la obligación de hacer cumplir el objeto para el cual fue creado; el fideicomitente, como mandante de que se cumplan de manera estricta sus instrucciones; y el fideicomisario, quien es en el que recaen los beneficios del fideicomiso.
+III. Calificadoras: Son agencias especializadas para evaluar y emitir dictamen sobre las características de los instrumentos de inversión y fondos, en cuanto a la calidad crediticia y riesgo de mercado.
 
-H. Junta Directiva: Organo y autoridad máxima del Instituto.
+IV. Comité de Inversiones: El Comité de Inversiones a que se refiere el inciso b) de la fracción I del artículo 5 del Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
 
-Servidor público: Toda persona que preste sus servicios en los Gobiernos del Estado o de los Municipios de Aguascalientes, de Organismos Descentralizados de la administración publica estatal y municipal, mediante designación legal en virtud nombramiento o elección popular, y que aporte al Instituto las cuotas estipuladas en Ley.
+V. Comité de Riesgos: El Comité de Riesgos a que se refiere el inciso c) de la fracción I del artículo 5 del Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
 
-Reglamento: El presente ordenamiento jurídico.
+VI. Comité Técnico: El Comité Técnico del Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto.
 
-Beneficiarios: Persona(s) designada(s) por el servidor público en carta testamentaria para recibir los beneficios de su cuenta de ahorro individual para el retiro, en el caso de su fallecimiento.
+VII. Cuenta de ahorro individual: Aquella en la que se resguardan y registran las aportaciones, así como sus respectivos intereses.
 
-Comité Técnico: Es el órgano de autoridad que decide y da instrucciones al fiduciario a fin de que vigile la organización y administración de los recursos del ahorro para el retiro, asegurando las mejores condiciones de seguridad, rendimiento y liquidez de las inversiones del Fideicomiso.
+VIII. Entidades: Se denomina así a los Gobiernos del Estado y de los Municipios, así como a los organismos públicos incorporados a los beneficios de la Ley.
 
-Cuenta de ahorro individual: Aquella en la que se resguardan y registran las aportaciones, así como sus respectivos intereses.
+IX. Estado de cuenta: Documento que presenta de manera cronológica y detallada los importes contribuidos por el patrón, así como por las aportaciones voluntarias y los rendimientos generados por dichas aportaciones.
 
-Estado de cuenta: Documento que presenta de manera cronológica y detallada los importes contribuidos por el patrón, así como por las aportaciones voluntarias y los rendimientos generados por dichas aportaciones.
+X. Fideicomiso: Figura jurídica por medio de la cual se plasman instrucciones concretas para la administración y buen uso de recursos económicos. Las partes que intervienen son: el fiduciario, en la que recae la obligación de hacer cumplir el objeto para el cual fue creado; el fideicomitente, como mandante de que se cumplan de manera estricta sus instrucciones; y el fideicomisario, quien es en el que recaen los beneficios del fideicomiso.
 
-Entidades: Se denomina así a los Gobiernos del Estado y de los Municipios, así como a los organismos públicos incorporados a los beneficios de la Ley.
+XI. Fideicomiso Maestro: Al Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto, en virtud del cual el Instituto, en calidad de fideicomitente, transmite bienes, cantidades de dinero o derechos, presentes o futuros, a una entidad financiera que haga las funciones de fiduciaria, para que ésta administre o invierta los bienes, en beneficio del propio fideicomitente o en beneficio de terceros, llamados fideicomisarios.
 
-Aportaciones voluntarias: Son los montos aportados por los trabajadores, por sí mismos o a través de sus patrones, dada instrucción precisa del trabajador para que se realice descuento a su sueldo base de cotización.
+XII. Junta Directiva: Órgano y autoridad máxima del Instituto.
 
-Calificadoras: Son agencias especializadas para evaluar y emitir dictamen sobre las características de los instrumentos de inversión y fondos, en cuanto a la calidad crediticia y riesgo de mercado.
+XIII. Instituto: Instituto de Seguridad Pública y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+XIV. Ley: Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+XV. Reglamento: El presente ordenamiento jurídico.
+
+XVI. Servidor público: Toda persona que preste sus servicios en los Gobiernos del Estado o de los Municipios de Aguascalientes, de Organismos Descentralizados de la administración pública estatal y municipal, mediante designación legal en virtud de nombramiento o elección popular, y que aporte al Instituto las cuotas estipuladas en Ley.
 
 ### CAPITULO II. Disposiciones Generales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 3°.
 
-Los recursos financieros provenientes de las aportaciones patronales y voluntarias para el ahorro serán operadas mediante un fideicomiso público con carácter de irrevocable, salvo lo dispuesto por el artículo 13 del Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto, que tendrá como objeto la administración y permanencia de los mismos, asegurando las mejores condiciones de seguridad, rendimiento y liquidez, para garantizar el retiro de los servidores públicos afiliados al Instituto.
+Los recursos financieros provenientes de las aportaciones patronales y voluntarias para el ahorro serán administradas a través de la subcuenta correspondiente del Fideicomiso Maestro. Dichos recursos deberán ser invertidos, de acuerdo a las instrucciones del Comité de Inversiones, asegurando las mejores condiciones de seguridad, rendimiento y liquidez, para garantizar el retiro de los servidores públicos afiliados al Instituto.
 
 El patrimonio fideicomitido se constituirá con las aportaciones obligatorias de las entidades, y en su caso, de las aportaciones voluntarias de los servidores públicos, así como por los rendimientos que produzca su inversión.
 
@@ -215,13 +229,21 @@ El estado de cuenta contendrá las cantidades aportadas por las entidades, las c
 
 ### CAPITULO VIII. De la Administración de los Recursos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 31.
 
-Los recursos recibidos serán depositados, transferidos y administrados por medio y a través de la figura jurídica de fideicomisos, con la finalidad de hacer cumplir los objetivos del Instituto, además de buscar en todo momento la inversión en instrumentos que logren la mejor relación entre rendimiento y seguridad de los recursos.
+Los recursos recibidos serán depositados, transferidos y administrados por medio y a través de la subcuenta de Ahorro Individual para el Retiro del Fideicomiso Maestro, con la finalidad de hacer cumplir los objetivos del Instituto, además de buscar en todo momento la inversión en instrumentos que logren la mejor relación entre rendimiento y seguridad de los recursos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 32.
 
-Los recursos administrados dentro de la figura de fideicomisos estarán compuestos por las aportaciones realizadas por las entidades de manera obligatoria, por las aportaciones voluntarias que los servidores realicen, así como por los rendimientos generados por la inversión de dichos recursos, comentados en el artículo anterior.
+Los recursos administrados dentro de la subcuenta de Ahorro Individual para el Retiro del Fideicomiso Maestro, estarán compuestos por las aportaciones realizadas por las entidades de manera obligatoria, por las aportaciones voluntarias que los servidores realicen, así como por los rendimientos generados por la inversión de dichos recursos.
 
 ###### ARTICULO 33.
 
@@ -229,23 +251,33 @@ Los recursos económicos que se capten por estos conceptos en las cajas del Inst
 
 ### CAPITULO IX. Inversión e Intereses
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 34.
 
-Dada la naturaleza de los recursos, será prioridad del Fiduciario como del comité técnico del fideicomiso lograr el rendimiento más atractivo posible de la inversión de los mismos dentro los parámetros y lineamientos que marca la Ley en su Capítulo de Reservas e Inversiones, y dentro del mejor esquema posible ofrecido en el mercado financiero.
+Dada la naturaleza de los recursos, será prioridad del Comité de Inversiones lograr el rendimiento más atractivo posible de la inversión de los mismos dentro los parámetros y lineamientos que marca el artículo 34 del Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### ARTICULO 35.
 
-Las inversiones de los recursos sólo podrán realizarse con instituciones con las más altas calificaciones en cuanto a seguridad y confianza por los organismos calificadores que les corresponda, y en instrumentos nacionales validados y supervisados oficialmente por organismos gubernamentales nacionales.
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### ARTICULO 36.
 
-Para el caso de instrumentos comunes en el mercado financiero nacional deberán contar dichos instrumentos con una calificación otorgada por un organismo calificador de deuda, crédito, o riesgo internacional.
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
 
-Las calificaciones mínimas aceptables por el comité deberán ser sólo dentro de los primeros niveles jerárquicos y serán las que se señalan en el Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto, y que para estos efectos tiene creado y regulado en el artículo 37.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 37.
 
-El saldo de las cuentas de ahorro, integrado por las aportaciones voluntarias devengará intereses en los mismos términos y condiciones que las aportaciones obligatorias de las entidades previstas para los instrumentos a que se refiere el artículo anterior.
+El saldo de las cuentas de ahorro, integrado por las aportaciones voluntarias devengará intereses en los mismos términos y condiciones que las aportaciones obligatorias de las entidades previstas para los instrumentos a que se refiere el artículo 34 de este Reglamento.
 
 Estos intereses se causarán sobre los mismos términos y bases que marca la Ley tanto para las aportaciones obligatorias como para las aportaciones voluntarias, mismos que se causarán a partir del día siguiente en el que sean recibidos por el Instituto.
 
@@ -329,97 +361,43 @@ Para solicitar la entrega del saldo de la cuenta del servidor público, en cualq
 
 ### CAPITULO XII. Del Comité Técnico del Fideicomiso
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 49.
 
-La vigilancia y operación del Fideicomiso del Ahorro para el Retiro, corresponderá al Comité Técnico basándose en las siguientes disposiciones y en el contrato de fideicomiso.
+En términos de los artículo 17 Bis 2 del Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, las decisiones de Inversión de los recursos de la subcuenta de ahorro individual para el retiro, estarán a cargo del Comité de Inversiones y la administración del riesgo operativo y financiero estará a cargo del Comité de Riesgos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### ARTICULO 50.
 
-El Comité Técnico estará integrado por los representantes de las siguientes entidades:
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
 
-I.- La Secretaría General de Gobierno;
-
-II.- El Instituto;
-
-III.- La Secretaría de Finanzas y Administración;
-
-IV.- La Contraloría General del Estado;
-
-V.- El H. Ayuntamiento de Aguascalientes; y
-
-VI.- El Sindicato Único de los Trabajadores Estatales y Municipales de Aguascalientes.
-
-El Secretario General de Gobierno fungirá como Presidente, el Director General del Instituto como Secretario y los demás miembros como Vocales, excepto el Contralor General del Estado que fungirá como Comisario del Fideicomiso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### ARTICULO 51.
 
-En todos los casos, los miembros titulares del Comité Técnico tendrán designado un suplente para que los represente en su ausencia, mismo que tendrá voz y voto en las sesiones.
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
 
-La asignación de suplentes es como sigue:
-
-I.- Por la Secretaría General de Gobierno, el que designe el Secretario General de Gobierno;
-
-II.- Por el Instituto, el representante que se designe por parte del Director General del mismo;
-
-III.- Por la Secretaría de Finanzas y Administración; el que designe el Secretario de Finanzas y Administración;
-
-IV.- Por la Contraloría General del Estado; el que designe el Contralor General del Estado;
-
-V.- Por el H. Ayuntamiento de Aguascalientes, el representante de los Municipios Foráneos designado por ellos mismos ante la Junta Directiva del Instituto; y
-
-VI.- Por el Sindicato Unico de los Trabajadores Estatales y Municipales de Aguascalientes, el que designe el Secretario General del SUTEMA.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### ARTICULO 52.
 
-La operación del Comité Técnico deberá ajustarse a los siguientes lineamientos:
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
 
-I.- El Comité sesionará válidamente con la asistencia de más del 50% (cincuenta por ciento) de sus integrantes y tomará sus decisiones por mayoría de votos de los presentes; en caso de empate, el Presidente tendrá voto de calidad.
-
-II.- El Secretario tendrá a su cargo los libros y documentación del Comité, llevará la correspondencia externa del mismo, y ejercerá las demás atribuciones que se establecen en este Reglamento y en el contrato de fideicomiso.
-
-III.- Corresponderá al Secretario ser el ejecutor general o parcial de sus acuerdos.
-
-IV.- El Comité sesionará de manera ordinaria cuando menos una vez cada cuatrimestre, y de manera extraordinaria cuando sea necesario, a juicio del Presidente. Corresponderá al Secretario hacer las convocatorias a todas las sesiones, pero en el caso de las extraordinarias sólo podrá hacerlo por orden escrita del Presidente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### ARTICULO 53.
 
-Independientemente de las facultades expresas en el contrato del fideicomiso, el comité técnico tendrá las siguientes:
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
 
-I.- Autorizar los gastos de operación del fideicomiso.
-
-II.- Dictar instrucciones a la fiduciaria, sobre las inversiones del patrimonio fideicomitido.
-
-III.- Instruir a la fiduciaria sobre la procedencia de los pagos que deban hacerse a los servidores públicos, o a sus beneficiarios, así como la forma de realizar o compensar los mismos.
-
-IV.- Determinar la contratación de servicios técnicos y asesoría que considere necesarios para el correcto y exitoso funcionamiento del manejo de los fondos fideicomitidos.
-
-V.- Establecer el incremento de los beneficios y sus montos.
-
-VI.- Emitir su reglamento interno y modificarlo cuando sea necesario, para el buen funcionamiento del Comité.
-
-VII.- Designar e integrar las comisiones que estime convenientes para el mejor funcionamiento del Fideicomiso y del propio Comité.
-
-VIII.- Interpretar las presentes disposiciones, así como las que se contengan en el propio contrato de fideicomiso, en los casos que se requiera.
-
-IX.- Proponer a la H. Junta Directiva, por conducto de la Secretaría General de Gobierno, las reformas, adiciones y derogaciones al presente Reglamento, que se consideren necesarias para el correcto funcionamiento del Ahorro para el Retiro.
-
-X.- Las demás que como consecuencia de las funciones propias del Comité y de la operación del Fideicomiso, de manera general resulten necesarias.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### ARTICULO 54.
 
-Serán facultades del Secretario del Comité Técnico, las siguientes:
-
-I.- Convocar a los integrantes del Comité Técnico a las sesiones de trabajo, en los términos del presente Reglamento y del contrato respectivo.
-
-II.- Levantar el acta correspondiente de las sesiones del Comité Técnico.
-
-III.- Vigilar que se ejecuten los acuerdos del Comité Técnico.
-
-IV.- Notificar por escrito a la fiduciaria de manera oportuna los acuerdos tomados por el Comité para su debido cumplimiento.
-
-V.- Expedir las constancias y certificaciones que resulten necesarias para los fines del Ahorro para el Retiro.
-
-VI.- Las demás que se desprenden del presente Reglamento; las que se contengan en el contrato de fideicomiso; las de la legislación aplicable; y las que le confiera directamente el Comité Técnico.
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -453,8 +431,14 @@ L.A. y E.C.F. Fernando Carrillo López,
 
 SECRETARIO DE LA JUNTA DIRECTIVA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE SEPTIEMBRE DE 2009.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2014.
+
+PRIMERO.- Las presentes reformas entrarán en vigencia a los 120 días naturales siguientes al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los 30 días naturales siguientes a la publicación de las presentes reformas, la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, deberá designar a los miembros de los Comités de Inversiones y de Riesgos del Instituto.
