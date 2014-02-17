@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-general-de-gobierno-80076"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-24"
-last_updated: "2011-02-24"
+last_updated: "2014-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE AGUASCALIENTES -- ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE AGUASCALIENTES --
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el jueves 24 de febrero de 2011.
 
@@ -65,9 +65,17 @@ Para el trámite y resolución de los asuntos de su competencia, el Secretario s
 
 I. Subsecretarías:
 
-a. de Gobierno; y
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
-b. de Asuntos Jurídicos.
+a.- de Gobierno;
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+b.- de Asuntos Jurídicos; y
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+c.- del Trabajo.
 
 II. Direcciones Generales:
 
@@ -85,9 +93,17 @@ f. de Archivos;
 
 g. de la Coordinación Jurídica Gubernamental;
 
-h. de Asuntos Jurídicos; y
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
-i. Administrativa.
+h.- de Asuntos Jurídicos;
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+i.- Administrativa; y
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+j.- del Servicio Nacional de Empleo Aguascalientes.
 
 Asimismo la Secretaría contará con las demás unidades administrativas subalternas que figuren en el presupuesto anual respectivo, entre las que se encuentran:
 
@@ -111,7 +127,7 @@ II. Dirección General del Registro Público de la Propiedad y del Comercio;
 
 III. Dirección General del Registro Civil;
 
-IV. Dirección General del Trabajo;
+IV.- (DEROGADA, P.O. 17 DE FEBRERO DE 2014)
 
 V. Dirección General de Desarrollo Cívico; y
 
@@ -124,6 +140,14 @@ Quedan adscritas a la Subsecretaría de Asuntos Jurídicos las áreas siguientes
 I. Dirección General de la Coordinación Jurídica Gubernamental; y
 
 II. Dirección General de Asuntos Jurídicos.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+ARTÍCULO 6° BIS.- Quedan adscritas a la Subsecretaría del Trabajo las áreas siguientes:
+
+I.- Dirección General del Trabajo; y
+
+II.- Dirección General del Servicio Nacional de Empleo Aguascalientes.
 
 ### CAPÍTULO II. De la Suplencia de los Servidores Públicos
 
@@ -225,9 +249,45 @@ XXXIV. Desarrollar y dirigir programas tendientes a incrementar los niveles de p
 
 XXXV. Auxiliar al Gobernador del Estado en la emisión del acuerdo que deba recaer a las solicitudes de indulto recibidas;
 
-XXXVI. Coordinar los actos cívicos de Gobierno del Estado, sobre todo el respeto y culto a los símbolos patrios; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2014)</small>
 
-XXXVII. Ejercer las demás atribuciones que le otorgue el Gobernador Constitucional del Estado.
+XXXVI. Coordinar los actos cívicos de Gobierno del Estado, sobre todo el respeto y culto a los símbolos patrios;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XXXVII. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XXXVIII. Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XXXIX. Promover y apoyar el incremento de la calidad del sector productivo en el Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XL. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XLI. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XLII. Organizar el servicio nacional de empleo en Aguascalientes, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XLIII. Previo acuerdo delegatorio del Gobernador del Estado, expedir, cancelar y revocar las concesiones de competencia estatal, así como expedir los permisos, licencias y autorizaciones que no estén asignadas legalmente a otras dependencias o entidades. En materia de transporte público otorgar y revocar las concesiones para la prestación del servicio público de transporte local de pasajeros y de carga, así como ejercer las demás facultades que se le señalen en el capítulo IV del Titulo Décimo Quinto del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XLIV. Autorizar y modificar el régimen tarifario a que se sujetará la prestación del servicio del transporte público de pasajeros y de carga; y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XLV. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, así como las que le otorgue el Gobernador del Estado.
 
 ## TÍTULO II. DE LA INTEGRACIÓN DE LA SECRETARÍA
 
@@ -311,13 +371,13 @@ VI. Conducir y poner en ejecución, en coordinación con las autoridades municip
 
 VII. Organizar y vigilar el ejercicio de las funciones inherentes al Registro Civil y al Registro Público de la Propiedad y del Comercio Estatales;
 
-VIII. Ejercer las funciones que en materia laboral correspondan al Poder Ejecutivo;
+VIII. (DEROGADA, P.O. 17 DE FEBRERO DE 2014)
 
-IX. Coadyuvar con las autoridades federales en la aplicación, ejecución y vigilancia de las normas laborales;
+IX. (DEROGADA, P.O. 17 DE FEBRERO DE 2014)
 
-X. Organizar y dirigir la Procuraduría Local de la Defensa del Trabajo;
+X. (DEROGADA, P.O. 17 DE FEBRERO DE 2014)
 
-XI. Promover y vigilar los programas de capacitación y productividad de los trabajadores;
+XI. (DEROGADA, P.O. 17 DE FEBRERO DE 2014)
 
 XII. Coordinar los eventos cívicos del Gobierno del Estado y los actos de honores a la bandera y símbolos patrios;
 
@@ -331,7 +391,9 @@ XIV. Previo acuerdo del Secretario, auxiliar y coordinarse con las autoridades f
 
 La Subsecretaría de Asuntos Jurídicos tiene por objeto el despacho de los siguientes asuntos:
 
-I. Realizar los trámites de cancelación, y revocación de las concesiones, permisos, licencias y autorizaciones, siguiendo los procedimientos establecidos, cuando el Gobernador Constitucional del Estado haya delegado dicha facultad al Secretario;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+I. Auxiliar al Secretario en los trámites necesarios para que ejerza las facultades establecidas en la fracción XLIII del artículo 12 del presente Reglamento;
 
 II. Coordinar la publicación de las leyes y decretos que expida el Congreso del Estado, así como los Reglamentos y demás normatividad de carácter general, en coordinación con el Jefe de Gabinete;
 
@@ -381,11 +443,75 @@ XXIV. Proponer los proyectos de iniciativa de leyes, reglamentos, decretos y acu
 
 XXV. Registrar y resguardar los contratos, convenios, acuerdos y demás actos jurídicos de los que se deriven derechos y obligaciones a cargo de la Secretaría.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+#### SECCIÓN CUARTA. De la Subsecretaría del Trabajo
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+ARTÍCULO 17 BIS.- La Subsecretaría del Trabajo tiene por objeto el despacho de los siguientes asuntos:
+
+I. Ejercer las funciones que al Ejecutivo del Estado asigna el Artículo 123, apartado A), de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados;
+
+II. Coordinarse con las autoridades federales en materia laboral respetando la competencia de cada una de ellas, a fin de propiciar la exacta aplicación, ejecución y vigilancia de la legislación en la materia y ejercer las atribuciones que le deleguen dichas autoridades;
+
+III. Representar al Gobernador del Estado ante los organismos de integración obrero patronal tales como: Consejo Consultivo Delegacional del Instituto Mexicano del Seguro Social, Comisión Regional de los Salarios Mínimos o su equivalente, Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, Consejo Consultivo Estatal de Capacitación y Adiestramiento, así como en todos aquellos que determine el Secretario y vigilar su oportuna integración y funcionamiento;
+
+IV. Proponer las bases conforme a las cuales deban designarse los representantes de los trabajadores y de los patrones en el Consejo Consultivo Estatal de Capacitación y Adiestramiento y formular para tal efecto, en coordinación con la Secretaría del Trabajo y Previsión Social, las invitaciones que se requieran;
+
+V. Auxiliar al Gobernador del Estado y al Secretario de Gobierno, en la clasificación de las ramas laborales y expedición de la convocatoria para el proceso de elección de los representantes de los trabajadores y de los patrones ante la Junta Local de Conciliación y Arbitraje del Estado de Aguascalientes y las especiales de conciliación y arbitraje, así como ante el Jurado de Responsabilidades de los Representantes;
+
+VI. Comprobar y certificar la exactitud de los padrones de trabajadores y patrones que se presenten ante el Gobernador para la designación de sus representantes ante la Junta Local de Conciliación y Arbitraje, ante las juntas especiales y ante el Jurado de Responsabilidades de los Representantes; registrar las credenciales y certificar el número de votos que corresponden a cada credencial, así como revisar las de los representantes designados;
+
+VII. Auxiliar al Gobernador y al Secretario en la instalación de la convención para designación de los representantes de los patrones y de los trabajadores ante la Junta Local de Conciliación y Arbitraje o Jurado de Responsabilidades de los representantes;
+
+VIII. Tramitar lo relativo a la toma de protesta legal de los representantes designados y declaración de constitución de la Junta Local de Conciliación y Arbitraje;
+
+IX. Auxiliar al Gobernador del Estado y al Secretario de Gobierno en el conocimiento de las renuncias y revocaciones de los representantes de los trabajadores y de los patrones ante las Juntas de Conciliación y Arbitraje y las especiales del Estado;
+
+X. Auxiliar al Gobernador del Estado y al Secretario de Gobierno en la designación de los representantes sustitutos de los trabajadores o de los patrones, cuando proceda;
+
+XI. Auxiliar al Gobernador del Estado y al Secretario de Gobierno en la designación del representante del Gobierno en la Junta Local de Conciliación y Arbitraje, de los presidentes de las juntas especiales y del Representante del Estado en el Tribunal de Arbitraje del Estado;
+
+XII. Tramitar en representación del Gobernador el procedimiento sobre las excusas que presente el Presidente de la Junta Local de Conciliación y Arbitraje, cuando se encuentre impedido jurídicamente para conocer algún conflicto de su competencia, conforme lo señala la Ley Federal del Trabajo y realizar el proyecto de resolución;
+
+XIII. Formular anteproyectos de iniciativas de leyes, reglamentos, decretos y acuerdos en materia laboral;
+
+XIV. Promover reuniones entre las autoridades laborales, para analizar los temas y asuntos de carácter laboral con el propósito de establecer una comunicación que permita generar opiniones en la materia;
+
+XV. Celebrar convenios en materia de capacitación y adiestramiento, seguridad e higiene en el trabajo, con las autoridades laborales federales;
+
+XVI. Ejercer las funciones que en materia laboral corresponden al Poder Ejecutivo;
+
+XVII. Coadyuvar con las autoridades federales en la aplicación, ejecución y vigilancia de las normas laborales;
+
+XVIII. Organizar y dirigir la Procuraduría Local de la Defensa del Trabajo;
+
+XIX. Promover y vigilar el cumplimiento de las normas y programas relativos a la capacitación y adiestramiento de los trabajadores;
+
+XX. Supervisar y coordinar la asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y la representación ante los tribunales del trabajo;
+
+XXI. Promover y apoyar el incremento de la calidad y la productividad;
+
+XXII. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+
+XXIII. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
+
+XXIV. Mediar a petición de parte, en los conflictos que surjan por violación a la Ley Federal del Trabajo, a los contratos colectivos de trabajo, al Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados o a cualquier otra disposición legal de competencia local;
+
+XXV. Organizar y coordinar el servicio nacional de empleo en Aguascalientes, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas;
+
+XXVI. Promover la actividad del Servicio Nacional de Empleo Aguascalientes, en otras dependencias, instituciones y empresas;
+
+XXVII. Autorizar y vigilar los contratos laborales de los servidores públicos adscritos a la Secretaría;
+
+XXVIII. Gestionar recursos ante el Servicio Nacional de Empleo y Gobierno del Estado; y
+
+XXIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo que otorgue el Gobernador del Estado.
 
 ### CAPÍTULO II. De las Direcciones Generales
 
-#### SECCIÓN SEGUNDA. De la Dirección General de Gobernación
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 18.
 
@@ -441,7 +567,7 @@ XXII. Dictar y ejecutar todas las actuaciones que sean necesarias para el cumpli
 
 XXIII. Las demás que le atribuyan expresamente las leyes, reglamentos y acuerdos; las que le sean conferidas por sus superiores jerárquicos y las que les correspondan a las unidades administrativas que le sean adscritas.
 
-#### SECCIÓN TERCERA. De la Dirección General del Registro Público de la Propiedad y del Comercio
+#### SECCIÓN SEGUNDA. De la Dirección General de Gobernación
 
 ###### ARTÍCULO 20.
 
@@ -499,7 +625,7 @@ La Dirección General de Gobernación contará con la Coordinación del Servicio
 
 La Dirección General de Gobernación contará con la Coordinación de Mediación, la cual se regirá conforme a los ordenamientos jurídicos vigentes.
 
-#### SECCIÓN CUARTA. De la Dirección General del Registro Civil
+#### SECCIÓN TERCERA. De la Dirección General del Registro Público de la Propiedad y del Comercio
 
 ###### ARTÍCULO 25.
 
@@ -555,7 +681,7 @@ XXIV. Expedir certificaciones de las constancias que obren en el archivo de esta
 
 XXV. Llevar el control de los libros que forman las diferentes secciones de los Registros Públicos de la Propiedad y del Comercio en el Estado, y tramitar la autorización correspondiente de los mismos por el Ejecutivo del Estado.
 
-#### SECCIÓN QUINTA. De la Dirección General del Trabajo
+#### SECCIÓN CUARTA. De la Dirección General del Registro Civil
 
 ###### ARTÍCULO 26.
 
@@ -603,83 +729,53 @@ XX. Coordinarse, previa autorización del Secretario, con las dependencias feder
 
 XXI. Atender las solicitudes y trámites para la obtención de actas del Registro Civil, formuladas por organismos y dependencias públicas de otras Entidades Federativas.
 
-#### SECCIÓN SEXTA. De la Dirección General de Desarrollo Cívico
+#### SECCIÓN QUINTA. De la Dirección General del Trabajo
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 27.
 
 Corresponde a la Dirección General del Trabajo:
 
-I. Ejercer las funciones que al Ejecutivo del Estado asigna el Artículo 123, apartado A), de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados;
+I. Vigilar el cumplimiento de las normas del trabajo de carácter general de competencia del Estado, así como coadyuvar con las autoridades federales de trabajo, en lo relativo al cumplimiento de las disposiciones sobre capacitación, adiestramiento y de seguridad e higiene en los centros de trabajo, y proveer lo necesario para su exacto cumplimiento;
 
-II. Vigilar el cumplimiento de las normas del trabajo de carácter general de competencia del Estado, así como coadyuvar con las autoridades Federales de Trabajo, lo relativo al cumplimiento de las disposiciones sobre Capacitación, Adiestramiento y de Seguridad e Higiene en los centros de trabajo, y proveer lo necesario para su exacto cumplimiento;
+II. Organizar y mantener permanentemente actualizado un padrón estatal de organizaciones sindicales, agrupaciones obreras en general y un directorio de empresas de jurisdicción estatal;
 
-III. Coordinarse con las autoridades federales en materia laboral respetando la competencia de cada una de ellas, a fin de propiciar la exacta aplicación, ejecución y vigilancia de la legislación de materia y ejercer las atribuciones que le deleguen dichas autoridades;
+III. Recopilar la legislación y jurisprudencia en materia laboral para su estudio, consulta y difusión;
 
-IV. Representar al Gobernador del Estado ante los organismos de integración obrero patronal tales como: Consejo Consultivo Delegacional del Instituto Mexicano del Seguro Social, Comisión Regional de los Salarios Mínimos o como se denomine posteriormente, Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, Consejo Consultivo Estatal de Capacitación y Adiestramiento, así como en todos aquellos que determine el superior jerárquico y vigilar su oportuna integración y funcionamiento;
+IV. Organizar y dirigir la inspección del trabajo;
 
-V. Proponer las bases conforme a las cuales deban designarse los representantes de los trabajadores y de los patrones en el Consejo Consultivo Estatal de Capacitación y Adiestramiento y formar para tal efecto, en coordinación con la Secretaría del Trabajo y Previsión Social las invitaciones que se requieran;
+V. Controlar y planear los programas de asesoría e inspección laboral de jurisdicción local;
 
-VI. Auxiliar al Gobernador del Estado para la realización de la clasificación de las ramas laborales y expedición de la convocatoria para el proceso de elección de los representantes de los trabajadores y de los patrones ante las Juntas Local de Conciliación y Arbitraje del Estado de Aguascalientes y Especiales de Conciliación y Arbitraje o ante el Jurado de Responsabilidades de los Representantes;
+VI. Ordenar y llevar a cabo las visitas de asesoramiento o inspección en los centros de trabajo de jurisdicción local, a efecto de vigilar el cumplimiento de las normas de trabajo;
 
-VII. Comprobar y certificar la exactitud de los padrones de los trabajadores y de los patrones que se presenten ante el Gobernador para la designación de sus representantes ante la Junta Local de Conciliación y Arbitraje, ante las Juntas Especiales y ante el Jurado de Responsabilidades de los Representantes; registrar las credenciales y certificar el número de votos que corresponden a cada credencial, así como revisar las de los representantes designados;
+VII. Turnar a la autoridad que corresponda para los efectos legales procedentes, las actuaciones de las que se desprendan presuntas violaciones a la legislación laboral que no le competa resolver;
 
-VIII. Auxiliar al Gobernador en la Instalación de la convención para designación de los representantes de los patrones y de los trabajadores ante la Junta Local de Conciliación y Arbitraje o Jurado de Responsabilidades de los Representantes;
+VIII. Instaurar, sustanciar y resolver el procedimiento administrativo para el cumplimiento de las normas de trabajo, de previsión social y toda aquella de carácter general en materia laboral;
 
-IX. Tramitar lo relativo a la toma de protesta legal de los representantes designados y declaración de constitución de la Junta Local de Conciliación y Arbitraje;
+IX. Imponer sanciones administrativas, previo acuerdo con el Subsecretario del Trabajo, por violación a las normas laborales, conforme a lo previsto por la Ley Federal del Trabajo, la legislación local y demás normas aplicables en materia del trabajo;
 
-X. Auxiliar al Gobernador del Estado para conocer de las renuncias y revocaciones de los representantes de los trabajadores y de los patrones ante las Juntas de Conciliación y Arbitraje y las Especiales del Estado;
+X. Implementar programas técnicamente estructurados, de asesoría laboral para empresarios, mediante los cuales se les den a conocer sus obligaciones como parte patronal, apoyándolos en cuanto a la elaboración y trámite de documentos ante las instancias gubernamentales, además de propiciar el acercamiento y apoyo mutuo entre el Gobierno Estatal y el aparato productivo de la Entidad;
 
-XI. Auxiliar al Gobernador del Estado en la designación de los representantes sustitutos de los trabajadores o de los patrones, cuando proceda;
+XI. Coadyuvar con el Subsecretario del Trabajo en la organización, dirección y control de las actividades de la Procuraduría Local de la Defensa del Trabajo;
 
-XII. Auxiliar al Gobernador del Estado en la designación del representante del Gobierno en la Junta Local de Conciliación y Arbitraje, de los presidentes de las Juntas Especiales y del Representante del Estado en el Tribunal de Arbitraje del Estado;
+XII. Asesorar y conciliar los intereses de los patrones y de los trabajadores, con el propósito fundamental de armonizar la función social que ambos desempeñan;
 
-XIII. Tramitar en representación del Gobernador el procedimiento sobre las excusas que presente el Presidente de la Junta Local de Conciliación y Arbitraje, cuando se encuentre impedido jurídicamente para conocer algún conflicto de su competencia, conforme lo señala la Ley Federal del Trabajo y realizar el proyecto de resolución;
+XIII. Proporcionar, a quien lo solicite, asesorías gratuitas sobre el significado y alcance de las normas laborales, o sobre el sentido de las cláusulas de los contratos colectivos de trabajo;
 
-XIV. Organizar y mantener permanentemente actualizado el Padrón Estatal de Organizaciones Sindicales, Agrupaciones Obreras en general y el Directorio de Empresas de Jurisdicción Estatal;
+XIV. Proponer a las partes interesadas soluciones amistosas para el arreglo de sus conflictos y hacer constar los resultados en actas autorizadas;
 
-XV. Formular anteproyectos de iniciativas de leyes, reglamentos, decretos y acuerdos en materia laboral;
+XV. Promover la creación de comisiones mixtas de capacitación y adiestramiento, de seguridad e higiene, el registro de sus programas y el cumplimiento de los mismos, en coordinación con las autoridades federales;
 
-XVI. Recopilar la legislación y jurisprudencia laboral para su estudio, consulta y difusión;
+XVI. Difundir entre las empresas el Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, así como las normas oficiales que emanan de éste, para su conocimiento y aplicación, en coordinación con las autoridades federales;
 
-XVII. Promover reuniones entre las autoridades laborales, para analizar los temas y asuntos de carácter laboral con el propósito de establecer una comunicación que permita generar opiniones en la materia;
+XVII. Verificar que las empresas adopten las medidas preventivas de seguridad e higiene, así como que se cumpla con la normatividad en la materia, en coordinación con las autoridades federales;
 
-XVIII. Organizar y dirigir la inspección del trabajo;
+XVIII. Verificar en coordinación con las autoridades federales, que las empresas implementen programas de capacitación permanente, la cual deberá ser impartida a la totalidad de los trabajadores; y
 
-XIX. Controlar y planear los programas de asesoría e inspección;
+XIX. Actualizar los procedimientos y políticas administrativas, con el fin de optimizar el funcionamiento de las áreas que dependen de esta Dirección General.
 
-XX. Ordenar y llevar a cabo las visitas de asesoramiento o inspección en los centros de trabajo de jurisdicción local, a efecto de vigilar el cumplimiento de las normas de trabajo;
-
-XXI. Turnar a la autoridad que corresponda para los efectos legales procedentes, las actuaciones de las que se desprendan las presuntas violaciones a la legislación laboral que no le competa resolver;
-
-XXII. Instaurar, sustanciar y resolver el procedimiento administrativo para el cumplimiento de las normas de trabajo, de previsión social y toda aquella de carácter general en materia laboral y proveer lo necesario para el cumplimiento de estos fines;
-
-XXIII. Imponer sanciones administrativas por violación de las normas laborales conforme a lo previsto por la Ley Federal del Trabajo, la legislación local y demás normas de carácter general aplicables en materia del trabajo;
-
-XXIV. Implementar programas técnicamente estructurados, de asesoría laboral para empresarios, mediante los cuales se les darán a conocer sus obligaciones como parte patronal, apoyándolos en cuanto a la elaboración y trámite de documentos ante las distintas instancias gubernamentales, además de propiciar el acercamiento y apoyo mutuo entre el Gobierno Estatal y el aparato productivo de la entidad;
-
-XXV. Organizar, dirigir y controlar las actividades de la Procuraduría Local de la Defensa del Trabajo;
-
-XXVI. Mediar a petición de parte, en los conflictos que surjan por violación a la Ley Federal del Trabajo, a los Contratos Colectivos de Trabajo, al Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados o a cualquier otra disposición legal de competencia local;
-
-XXVII. Asesorar y conciliar los intereses de los patrones y de los trabajadores, con el propósito fundamental de armonizar la función social que ambos desempeñan;
-
-XXVIII. Proporcionar, a quien lo solicite, asesorías gratuitas sobre el significado y alcance de las normas laborales, o sobre el sentido de las cláusulas de los contratos colectivos de trabajo;
-
-XXIX. Proponer a las partes interesadas soluciones amistosas para el arreglo de sus conflictos y hacer constar los resultados en actas autorizadas;
-
-XXX. Promover la creación de comisiones mixtas de capacitación y adiestramiento, de seguridad e higiene, el registro de sus programas y el cumplimiento de los mismos, en coordinación con las autoridades federales;
-
-XXXI. Difundir entre las empresas el Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, así como las normas oficiales que emanan de éste, para su conocimiento y aplicación, en coordinación con las autoridades federales;
-
-XXXII. Verificar que las empresas adopten las medidas preventivas de seguridad e higiene en las empresas y verificar que se cumpla con la normatividad en la materia en coordinación con las autoridades federales;
-
-XXXIII. Verificar en coordinación con las autoridades federales, que las empresas implementen programas de capacitación permanente, la cual deberá ser impartida a la totalidad de los trabajadores;
-
-XXXIV. Celebrar convenios en materia de capacitación y adiestramiento, seguridad e higiene en el trabajo, con las autoridades laborales federales; y
-
-XXXV. Actualizar los procedimientos y políticas administrativas, para optimizar el funcionamiento de las áreas que dependen de esta Dirección General.
-
-#### SECCIÓN SÉPTIMA. De la Dirección General de Archivos
+#### SECCIÓN SEXTA. De la Dirección General de Desarrollo Cívico
 
 ###### ARTÍCULO 28.
 
@@ -697,7 +793,7 @@ V. Realizar, por sí o en coordinación con otras dependencias, actividades de p
 
 VI. Elaborar y desarrollar políticas, planes y programas de acciones para fomentar los valores cívicos, culturales, así como las actividades conmemorativas.
 
-#### SECCIÓN OCTAVA. De la Dirección General de la Coordinación Jurídica Gubernamental
+#### SECCIÓN SÉPTIMA. De la Dirección General de Archivos
 
 ###### ARTÍCULO 29.
 
@@ -739,7 +835,7 @@ XVII. Ser la entidad normativa central de la sistematización del uso y servicio
 
 XVIII. Ser el órgano regulador del Sistema Estatal de Archivos, de acuerdo a las disposiciones jurídicas vigentes en la materia.
 
-#### SECCIÓN NOVENA. De la Dirección General de Asuntos Jurídicos
+#### SECCIÓN OCTAVA. De la Dirección General de la Coordinación Jurídica Gubernamental
 
 ###### ARTÍCULO 30.
 
@@ -787,7 +883,7 @@ XX. Compilar, en coordinación con los Poderes del Estado, la legislación vigen
 
 XXI. Elaborar estudios del sistema jurídico estatal en el ámbito de competencia de la Administración Pública, así como estudios comparados sobre las legislaciones estatales, nacionales e internacionales.
 
-#### SECCIÓN DÉCIMA. De la Dirección General Administrativa
+#### SECCIÓN NOVENA. De la Dirección General de Asuntos Jurídicos
 
 ###### ARTÍCULO 31.
 
@@ -817,7 +913,7 @@ XI. Ejecutar por acuerdo del Gobernador del Estado las expropiaciones, ocupació
 
 XII. Dar trámite legal a los recursos administrativos que competa resolver al Gobernador del Estado, o al Secretario cuando éste así lo acuerde y no sean competencia de otra dependencia o área.
 
-#### SECCIÓN DÉCIMA PRIMERA. De la Coordinación de Asesores
+#### SECCIÓN DÉCIMA. De la Dirección General Administrativa
 
 ###### ARTÍCULO 32.
 
@@ -905,9 +1001,51 @@ IX. Evaluar periódicamente el desempeño y nivel técnico de su personal, estab
 
 X. Las demás que le asigne la Secretaría.
 
-#### SECCIÓN DÉCIMA SEGUNDA. De la Visitaduría de Notarías
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE FEBRERO DE 2014)</small>
 
-#### SECCIÓN DÉCIMA TERCERA. De los Tribunales Administrativos
+#### SECCIÓN DÉCIMA BIS. De la Dirección General del Servicio Nacional de Empleo Aguascalientes
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
+ARTÍCULO 33 BIS.- Corresponde a la Dirección General del Servicio Nacional de Empleo Aguascalientes lo siguiente:
+
+I. Coadyuvar con el Subsecretario del Trabajo en la organización del Servicio Nacional de Empleo en Aguascalientes;
+
+II. Asegurar que el trato ofrecido a los usuarios del Servicio Nacional de Empleo en Aguascalientes sea de la más alta calidad, digna, humana y amable;
+
+III. Recabar y proporcionar información estadística que sea solicitada, a la Secretaría y al Servicio Nacional de Empleo;
+
+IV. Participar en las reuniones del Sistema Estatal de Empleo;
+
+V. Planear, elaborar y difundir el Boletín informativo del Servicio Nacional de Empleo Aguascalientes;
+
+VI. Coordinar el Comité Ejecutivo del Empleo, encargado de la generación de estrategias o planes de impacto regional;
+
+VII. Realizar, coordinar y supervisar los encuentros de oportunidades de empleo;
+
+VIII. Promover la colocación de solicitantes de empleo en el mercado laboral formal;
+
+IX. Promover el otorgamiento de becas para la capacitación y adiestramiento de trabajadores en el sector productivo;
+
+X. Verificar y supervisar el cumplimiento de los programas de capacitación y adiestramiento, la asistencia de becarios e instructores, así como la entrega oportuna de materiales para prácticas de becarios;
+
+XI. Llevar a cabo acciones de promoción, vinculación y difusión, con los diversos agentes que participan en la operación del programa de becas y colocación de trabajadores;
+
+XII. Realizar talleres para desempleados en temas como documentación, presentación y actitud para solicitar un empleo;
+
+XIII. Promover el Programa de Becas para la Micro y Pequeña Empresa;
+
+XIV. Manejar adecuadamente los recursos federales asignados al Servicio Nacional de Empleo Aguascalientes;
+
+XV. Capacitar a su personal, en estrategias de desarrollo y crecimiento profesional, a fin de brindar una atención de calidad al público;
+
+XVI. Dar solución a las diferentes contingencias que emanen de su propia operatividad;
+
+XVII. Vigilar la seguridad e integridad de los servidores públicos del Servicio Nacional de Empleo Aguascalientes, así como las instalaciones y accesorios provistos para su operación; y
+
+XVIII. Fungir como representante en todas y cada una de las reuniones informativas, convocadas por el Servicio Nacional de Empleo y la Secretaría del Trabajo y Previsión Social, previa instrucción del Subsecretario del Trabajo.
+
+#### SECCIÓN DÉCIMA PRIMERA. De la Coordinación de Asesores
 
 ###### ARTÍCULO 34.
 
@@ -936,6 +1074,8 @@ VI. Realizar estudios y emitir opiniones sustentadas acerca del comportamiento s
 VII. Formular reportes oportunos del impacto social de los programas ejecutados, para facilitar la evaluación de resultados obtenidos por las áreas de la Secretaría; y
 
 VIII. Monitorear la percepción social de la actuación de la Secretaría.
+
+#### SECCIÓN DÉCIMA SEGUNDA. De la Visitaduría de Notarías
 
 ###### ARTÍCULO 37.
 
@@ -989,6 +1129,8 @@ XIX. Coadyuvar en el control de los libros que deban utilizar los notarios duran
 
 XX. Ejecutar las sanciones que establece la Ley del Notariado del Estado y que imponga el Secretario o el Gobernador del Estado, respecto de los fedatarios que infrinjan sus disposiciones en el ejercicio de su función.
 
+#### SECCIÓN DÉCIMA TERCERA. De los Tribunales Administrativos
+
 ###### ARTÍCULO 40.
 
 Los Tribunales Administrativos adscritos a esta Secretaría se conforman por:
@@ -1030,3 +1172,19 @@ JEFE DE GABINETE.
 Lic. Miguel Romo Medina.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y derogaciones entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la transmisión de la Dirección General del Servicio Nacional de Empleo en Aguascalientes a la Secretaría de Gobierno, la Oficialía Mayor, la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de su competencia, colaborarán para tal efecto.
+
+###### ARTÍCULO TERCERO.
+
+Los trabajadores de la Dirección General del Servicio Nacional de Empleo en Aguascalientes, contemplados en el acta de transferencia de recursos humanos respectiva, pasarán con todos sus derechos y prerrogativas laborales y sociales a la Secretaría de Gobierno sin modificación o alteración alguna.
