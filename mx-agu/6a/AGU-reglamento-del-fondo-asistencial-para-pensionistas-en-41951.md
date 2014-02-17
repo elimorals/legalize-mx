@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-fondo-asistencial-para-pensionistas-en-41951"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-06"
-last_updated: "2004-12-06"
+last_updated: "2014-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO DEL FONDO ASISTENCIAL PARA PENSIONISTAS EN SITUACION EXTRAORDINARIA
 
-REGLAMENTO DEL FONDO ASISTENCIAL PARA PENSIONISTAS EN SITUACION EXTRAORDINARIA
+REGLAMENTO DEL FONDO ASISTENCIAL PARA PENSIONISTAS EN SITUACIÓN EXTRAORDINARIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de diciembre de 2004.
 
@@ -71,7 +71,11 @@ I. "Instituto", el Instituto de Seguridad y Servicios Sociales para los Servidor
 
 II. "Ley", la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
 
-III. "Comité", el Comité Técnico del Fondo, órgano rector del mismo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+III. Comité Técnico: el Comité Técnico del Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto.
 
 IV. "Pensionista", aquel que la Ley considere como tal, y cuya última entidad de adscripción aporte al Fondo.
 
@@ -87,9 +91,17 @@ IX. "Designación", proceso de selección y notificación del o de los candidato
 
 X. "Programa", el Programa Asistencial para Pensionistas en Situación Extraordinaria.
 
-XI.- "Fondo/Fondo Asistencial para Pensionistas en Situación Extraordinaria" Fideicomiso de Inversión y Administración para el pago de servicios y apoyos extraordinarios a los pensionados del Instituto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-XII.- Fideicomiso: Fideicomiso de Inversión y Administración para el pago de Servicios y apoyos extraordinarios a los pensionados del Instituto-Fondo.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XI. Fondo/Fondo Asistencial para Pensionistas en Situación Extraordinaria: a la subcuenta para el pago de servicios y apoyos extraordinarios a los pensionados del Instituto del Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2014)</small>
+
+XII. Fideicomiso: al Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto.
 
 ## TITULO SEGUNDO. DEL COMITE TECNICO DEL FONDO
 
@@ -99,69 +111,27 @@ XII.- Fideicomiso: Fideicomiso de Inversión y Administración para el pago de S
 
 El Comité Técnico será el órgano encargado de la planeación estratégica del Fondo, de la supervisión de la marcha del mismo y el control de las actividades más relevantes del Programa a que se refiere este ordenamiento, para lo cual deberá definir en el anterior la operación anual del Fondo, sus objetivos, metas, prioridades y estrategias, así como garantizar la conexión del proceso de programación con los de presupuestación, evaluación y control.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 8°.
 
-El Comité Técnico estará integrado por los representantes de las siguientes entidades:
+El Comité Técnico del Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto, estará integrado de conformidad con el Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto y funcionará y tendrá las facultades establecidas en dicho ordenamiento.
 
-I. Secretaria General de Gobierno;
-
-II. El Instituto;
-
-III. Secretaría de Finanzas;
-
-IV. Contraloría General del Estado;
-
-V. Sindicato Único de los Trabajadores Estatales y Municipales de Aguascalientes.
-
-El Secretario General de Gobierno fungirá como Presidente, el Director General del Instituto como Secretario y los demás miembros como Vocales.
-
-El Contralor General del Estado fungirá como Comisario del fideicomiso.
-
-En todos los casos, los miembros titulares del Comité Técnico tendrán designado un suplente para que los represente en su ausencia, mismo que tendrá voz y voto en las sesiones.
-
-La asignación de suplentes es como sigue:
-
-I. Por la Secretaría General de Gobierno, el que designe el Secretario General de Gobierno;
-
-II. Por la Dirección General del Instituto, el representante de los Organismos Públicos Descentralizados designado por ellos mismos;
-
-III. Por la Secretaria de Finanzas; el representante que designe la Secretaria de Administración;
-
-IV. Por la Contraloría General del Estado; el que designe el Contralor General del Estado;
-
-V. El representante de los Municipios foráneos designado por ellos mismos; y
-
-VI. Por el Sindicato Único de los Trabajadores Estatales y Municipales de Aguascalientes, el que designe el Secretario General del SUTEMA.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 9°.
 
-Para la validez de las sesiones se requerirá cuando menos la presencia de la mitad más uno de las autoridades que integran el Comité Técnico y los acuerdos se tomarán por la mayoría de votos, teniendo el Presidente del Comité Técnico voto de calidad en caso de empate.
-
-Las sesiones serán celebradas de manera ordinaria en los meses de marzo, junio, septiembre y diciembre y de manera extraordinaria cada vez que el Presidente del Comité Técnico lo estime necesario o haya una petición de la mayoría de sus miembros.
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
 
 ### CAPITULO II. De las Facultades del Comité
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### Artículo 10.
 
-El Comité apoyará al Instituto para la conducción del Fondo, y tendrá las siguientes facultades:
-
-I. Planear, dirigir y vigilar el cumplimiento pleno de los objetivos del Fondo.
-
-II. Emitir las políticas y procedimientos que se requieran a fin de que el Programa sea desarrollado en congruencia con los principios rectores contemplados en este Reglamento.
-
-III. Evaluar periódicamente los resultados del Programa y formular las medidas preventivas y correctivas que sean procedentes.
-
-IV. Aprobar la operación anual del Programa, su presupuesto de ingresos, la determinación del techo financiero sobre la base de la cual se realizará el presupuesto de gastos y de inversión que se cumplirán en cada ejercicio anual.
-
-V. Autorizar las inversiones del Fondo y de las reservas financieras que deban constituirse para asegurar el otorgamiento de los beneficios que determine este Reglamento y el cumplimiento de sus fines, basada en la evaluación financiera.
-
-VI. Autorizar al Director General del Instituto para que realice las gestiones necesarias ante las entidades sujetas a la Ley del Instituto, así como ante las personas y organismos patrocinadores, para que se hagan las aportaciones a que tenga derecho a recibir el Fideicomiso.
-
-VII. Analizar trimestralmente los estados financieros del Fondo, tomar las medidas necesarias para garantizar la buena marcha del mismo y aprobar anualmente, previo informe del Comisario o dictamen de los auditores externos, los estados financieros del Fondo.
-
-VIII. Emitir los lineamientos que regulen su funcionamiento interno.
-
-IX. Las demás que le otorgue este Reglamento y las que sean necesarias para el cumplimiento de sus objetivos, así como las otorgadas en el contrato de Fideicomiso.
+(DEROGADO, P.O. 17 DE FEBRERO DE 2014)
 
 ###### Artículo 11.
 
@@ -378,3 +348,11 @@ Constando como antecedente la instauración del Fondo Asistencial para Pensionis
 El Comité Técnico evaluará y convalidará, en su caso, los egresos referidos anteriormente, a fin de que se tenga a bien, previa aprobación, recuperar al Instituto las erogaciones de sus recursos que el mismo realizó para apoyar a los pensionistas en situación extraordinaria, en concordancia con este Reglamento.
 
 El suscrito, L.A. y E.C.F. Fernando Carrillo López, en mi calidad de Secretario de la Junta Directiva, como lo señala el artículo 20 de la Ley de Seguridad y Servicios Sociales para el Estado de Aguascalientes y con fundamento en el artículo 22 del mismo ordenamiento y el 17 del Reglamento Orgánico, certifico y hago constar que el presente Reglamento fue conocido y aprobado por los miembros de la Junta Directiva, en la sesión de fecha 22 de mayo del año 2000 contando con la asistencia que la ley señala.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE FEBRERO DE 2014.
+
+PRIMERO.- Las presentes reformas entrarán en vigencia a los 120 días naturales siguientes al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los 30 días naturales siguientes a la publicación de las presentes reformas, la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, deberá designar a los miembros de los Comités de Inversiones y de Riesgos del Instituto.
