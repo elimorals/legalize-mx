@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-social-93455
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-22"
-last_updated: "2013-03-22"
+last_updated: "2014-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de marzo de 2013.
 
@@ -113,7 +113,9 @@ a) Dirección Técnica de Seguimiento, Evaluación y Contraloría Social Interna
 
 b) Unidad de Atención y Acceso a la Información Pública.
 
-III. Secretaría Particular.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2014)</small>
+
+III. Jefatura de Oficina del Despacho.
 
 IV. Dirección General de Asuntos Jurídicos.
 
@@ -125,11 +127,15 @@ b) Subdirección de Recursos Materiales.
 
 c) Subdirección de Recursos Financieros.
 
-B) Cuatro subsecretarías:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2014)</small>
+
+B) Cinco Subsecretarías:
 
 I. Subsecretaría de Desarrollo Social, que contará con las siguientes unidades administrativas:
 
-a) Dirección General de Evaluación y Seguimiento.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2014)</small>
+
+a) Dirección General de Fortalecimiento de Programas Sociales.
 
 l. Dirección de Capacitación.
 
@@ -172,6 +178,10 @@ c) Coordinación de Análisis.
 d) Coordinación de Informática.
 
 e) Coordinación de Seguimiento.
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2014)</small>
+
+V. Subsecretaría de Unión y Enlace.
 
 Al frente de cada subsecretaría habrá un titular, que tendrá a su cargo el despacho de los asuntos que le sean encomendados y para tal efecto se auxiliará de las unidades administrativas citadas en el presente artículo, así como de aquellas que prevea y le asigne el Presupuesto de Egresos del Estado.
 
@@ -411,11 +421,15 @@ XII. Solicitar y requerir a las unidades administrativas y órganos administrati
 
 XIII. Atender el despacho de los asuntos relevantes a su cargo y responsabilidad.
 
-#### SECCIÓN TERCERA. DE LA SECRETARÍA PARTICULAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE FEBRERO DE 2014)</small>
+
+#### SECCIÓN TERCERA. DE LA JEFATURA DE OFICINA DEL DESPACHO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 15.
 
-Corresponde a la Secretaría Particular, previo acuerdo con el o la titular de la Secretaría, las siguientes facultades:
+Corresponde a la Jefatura de Oficina del Despacho:
 
 I. Realizar las comisiones que él o la titular de la Secretaría le asigne e informar al mismo sobre el desarrollo de sus actividades;
 
@@ -457,7 +471,9 @@ VI. Coordinar jurídicamente el ejercicio y funciones de las o los titulares de 
 
 VII. Desahogar las consultas jurídicas que respecto al ámbito de su competencia le formulen las unidades administrativas y organismos del sector, así como las que realicen otras instancias de la administración pública estatal;
 
-VIII. Representar al o la titular de la Secretaría en las comisiones, comités, consejos, organizaciones, instituciones y entidades que le encomiende o delegue e informar sobre el desarrollo de las mismas;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2014)</small>
+
+VIII. Representar a la Secretaría o al o la titular de la misma, en los actos jurídicos y en procesos administrativos de los que forme parte, así como en las comisiones, comités, consejos, organizaciones, instituciones y entidades que le encomiende o delegue e informar sobre el desarrollo de las mismas;
 
 IX. Ejercer los poderes que le sean conferidos;
 
@@ -519,7 +535,9 @@ XVI. Realizar las acciones conducentes para el cumplimiento oportuno de los comp
 
 XVII. Realizar los trámites administrativos correspondientes para los movimientos de personal, nombramientos, remociones y licencias propuestos y credencialización;
 
-XVIII. Informar al o la titular de la Secretaría sobre el desempeño de sus actividades;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2014)</small>
+
+XVIII. Representar a la Secretaría o al o la titular de la misma, en los actos jurídicos y en procesos administrativos de los que forme parte, así como en las comisiones, comités, consejos, organizaciones, instituciones y entidades que le encomiende o delegue e informar sobre el desarrollo de las mismas;
 
 XIX. Impulsar, proponer e implementar acciones que contribuyan al mejoramiento de los espacios, inmuebles y accesos a las instalaciones de la Secretaría y sus organismos desconcentrados; en beneficio de personas con capacidades diferentes;
 
@@ -659,7 +677,9 @@ IX. Coordinarse entre sí y con las demás unidades administrativas de la Secret
 
 X. Proponer al o la titular de la Secretaría, la celebración de convenios o contratos en materia de desarrollo social con instancias gubernamentales o privadas y suscribir los que se autoricen;
 
-XI. Representar al o la titular de la Secretaría en los comités, consejos, comisiones, asambleas y demás actos o eventos oficiales, cuando hayan sido designados para tal efecto;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2014)</small>
+
+XI. Representar a la Secretaría o al o la titular de la misma, en los actos jurídicos y en procesos administrativos de los que forme parte, así como en las comisiones, comités, consejos, organizaciones, instituciones y entidades que le encomiende o delegue e informar sobre el desarrollo de las mismas;
 
 XII. Coordinarse con la Dirección General de Asuntos Jurídicos de la Secretaría, en el proceso de elaboración de ordenamientos legales de los programas y proyectos de su competencia;
 
@@ -717,33 +737,25 @@ XVI. Coadyuvar en los esfuerzos que realicen los tres órdenes de gobierno tanto
 
 XVII. Atender el despacho de los asuntos relevantes a su cargo y responsabilidad.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 23.
 
-Corresponden a la Dirección General de Evaluación y Seguimiento, las facultades y obligaciones siguientes:
+Corresponde a la Dirección General de Fortalecimiento de Programas Sociales:
 
-I. Diseñar y desarrollar, en coordinación con las unidades administrativas correspondientes, los instrumentos de medición, supervisión y evaluación de los programas implementados por la Secretaría, a fin de obtener los parámetros que permitan determinar su rendimiento;
+I. Diseñar y desarrollar los instrumentos de medición, supervisión y evaluación de resultados;
 
-II. Evaluar periódicamente los resultados de cada uno de los programas emprendidos, en el marco del Plan Estatal de Desarrollo con el objeto de conocer su impacto, el grado de cumplimiento de las metas e introducir las mejoras o ajustes correspondientes;
+II. Elaborar informes técnicos que permitan conocer el desarrollo y cumplimiento de los programas sociales y proponer las mejoras que estime conveniente de acuerdo con el diagnóstico realizado;
 
-III. Elaborar informes técnicos de las evaluaciones de desempeño y resultado de los programas implementados, a fin de contar con los elementos que permitan a la Secretaría de Desarrollo Social, reorientar de sus políticas públicas;
+III. Elaborar mensualmente la planeación de trabajo y sistematizar y dar seguimiento al programa de actividades de las áreas adscritas a la Subsecretaría de Desarrollo Social;
 
-IV. Analizar y proponer las acciones conducentes para la atención y cumplimiento de las recomendaciones que emitan las instancias de evaluación de programas sociales;
+IV. Integrar el informe anual de actividades de la Subsecretaría de Desarrollo Social;
 
-V. Construir en coordinación con la Dirección Técnica de Seguimiento Evaluación y Contraloría Social Interna de la Secretaría, los indicadores que permitan evaluar los programas sociales en el Estado;
+V. Establecer mecanismos de coordinación con las unidades administrativas responsables de de (sic) los programas sociales de la Secretaría, que propicie fortalecer y mejorar la operatividad de programas, estrategias y acciones;
 
-VI. Elaborar la planeación mensual de trabajo de la unidad administrativa, así como emitir el informe de resultados correspondiente;
+VI. (sic)
 
-VII. Sistematizar y dar seguimiento al cumplimiento del programa de actividades que elabore cada unidad administrativa adscrita a la subsecretaría, así como el informe de resultados de cada una;
-
-VIII. Integrar a más tardar en el mes de agosto, el informe anual de actividades de la subsecretaría, para su incorporación al Informe Anual;
-
-IX. Apoyar y dar seguimiento a las actividades que les correspondan a las unidades administrativas de la Subsecretaría de Desarrollo Social y demás instancias de la Secretaría que lo requieran;
-
-X. Apoyar en la elaboración de comunicados internos, documentos, circulares y disposiciones, en los que se dé a conocer al personal de la subsecretaría, los avances y la información relacionada con las actividades que se realizan, su seguimiento y atención;
-
-XI. Contribuir en el diseño del sistema informático que registre las actividades de las diferentes unidades administrativas, proponiendo las mejoras necesarias para su óptimo funcionamiento; y
-
-XII. Atender el despacho de los asuntos relevantes a su cargo y responsabilidad; (sic)
+VII. Atender el despacho de los asuntos relevantes a su cargo y responsabilidad.
 
 ###### Artículo 24.
 
@@ -1257,6 +1269,52 @@ VI. Informar al solicitante el estatus del trámite de solicitudes presentados a
 
 VII. Atender el despacho de los asuntos relevantes a su cargo y responsabilidad.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2014)</small>
+
+###### Artículo 44 Bis.
+
+Corresponde a la Subsecretaría de Unión y Enlace:
+
+I. Fungir como enlace interinstitucional en la ejecución de la política de desarrollo social;
+
+II. Coordinar las acciones interinstitucionales para operar las estrategias de programas, proyectos y acciones para el desarrollo social;
+
+III. Instrumentar, sistematizar y operar el Sistema Estatal de Información de Desarrollo Social;
+
+IV. Diseñar y proponer políticas de desarrollo social tendientes a combatir las carencias sociales de la población;
+
+V. Fungir como instancia rectora de las acciones interinstitucionales para dar cumplimiento a los objetivos del Programa para la Prevención y Combate a la Pobreza Extrema y de los que acuerde el Titular del Ejecutivo del estado;
+
+VI. Determinar en los meses de septiembre a noviembre, las zonas y comunidades de atención prioritaria en el estado, a partir de los resultados de los diagnósticos geo referenciados que las instancias competentes emitan;
+
+VII. Diseñar los instrumentos para recabar los estudios de información socioeconómica de la población objetivo de los programas de la administración pública estatal, y establecer los lineamientos para los procesos de recolección, captura y sistematización de la información;
+
+VIII. Vincular las tendencias de condiciones socioeconómicas de la población con los objetivos y metas de (sic) Plan Estatal de Desarrollo y de los Programas Sectoriales a fin de orientar las estrategias, programas y acciones de los tres órdenes de gobierno en la atención de combate a la pobreza extrema;
+
+IX. Coordinar las acciones para la integración del Padrón Único de Beneficiarios de los Programas Sociales del Gobierno del Estado y establecer los lineamientos y los criterios de su sistematización;
+
+X. Salvaguardar la protección y confidencialidad de los datos personales de información socioeconómica recolectada en los términos de la Ley de la materia;
+
+XI. Proponer a su superior jerárquico las normas para la construcción, uso y aplicación de la información geográfica disponible;
+
+XII. Elaborar y proponer indicadores que permitan realizar mediciones de la gestión y de resultado;
+
+XIII. Realizar diagnósticos de la pobreza y condiciones de vulnerabilidad de la población que reside habitualmente en el estado;
+
+XIV. Investigar, analizar, y evaluar el impacto de los programas sociales, que ejecuten las dependencias a efecto de reorientar sus políticas públicas y la asignación presupuestaria para lograr la optimización y equidad en la asignación de los recursos;
+
+XV. Sugerir los lineamientos y criterios para la definición, identificación y medición de la pobreza, focalizando los lineamientos nacionales y garantizando la transparencia, objetividad y rigor técnico en dicha actividad;
+
+XVI. Evaluar los programas sociales estatales y municipales, utilizando las metodologías, lineamientos, normas, modelos e instrumentos de evaluación establecidos por el Consejo Nacional de Evaluación y demás instancias competentes y sugerir acciones de mejora;
+
+XVII. Formular en el mes de septiembre el informe anual de resultados de cada uno de los programas emprendidos en el marco del Plan Estatal de Desarrollo, con el objeto de conocer su impacto y el grado de cumplimiento de las metas e introducir las mejoras o adecuaciones correspondientes;
+
+XVIII. Atender las recomendaciones e informes derivados de la evaluación de la política de desarrollo social y de los programas sociales de la entidad;
+
+XIX. Contribuir en el diseño del sistema informático que registre la normativa, catálogos de programas y acciones de las diferentes dependencias de la administración pública, proponiendo las mejoras necesarias para su óptimo funcionamiento;
+
+XX. Atender el despacho de los asuntos relevantes a su cargo y responsabilidad.
+
 ### CAPÍTULO SEXTO. DE LAS REPRESENTACIONES REGIONALES, DELEGACIONES, COORDINACIONES Y UNIDADES DESCONCENTRADAS DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
 ###### Artículo 45.
@@ -1332,3 +1390,13 @@ EL SECRETARIO DE DESARROLLO SOCIAL
 MIGUEL ÁNGEL RIQUELME SOLÍS
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE FEBRERO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO. Los asuntos pendientes al entrar en vigor el presente decreto, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite conforme a la normativa que los originó y serán resueltos por la unidad administrativa que el presente decreto designe competente.
