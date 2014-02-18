@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2014-01-27"
+last_updated: "2014-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE FEBRERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1383,9 +1383,11 @@ Las dependencias, entidades, órganos y servidores públicos de los Ayuntamiento
 
 Estarán exceptuados de lo dispuesto por el párrafo anterior, los actos y procedimientos administrativos en materia laboral, electoral, de procuración de justicia y los de nombramiento y remoción de los servidores públicos municipales, los que se regirán por las leyes especiales y reglamentos municipales que regulen dichas materias.
 
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 68.
 
-Con base en lo dispuesto en esta ley, el Ayuntamiento podrá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo, cargo o comisión de confianza de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales. Al efecto, dichos servidores públicos deberán contar con experiencia o estudios para desempeñar el cargo que corresponda.
+Con base en lo dispuesto en esta Ley, el Ayuntamiento podrá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo, cargo o comisión de confianza de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales. Al efecto, dichos servidores públicos deberán contar con título profesional o carta de pasante expedidos por institución legalmente facultada para ello o, en su defecto, con experiencia acreditada en el ramo, a juicio de quien se encuentre facultado legalmente para nombrarlo.
 
 ### CAPITULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
@@ -1431,11 +1433,11 @@ El Secretario, en sus faltas temporales, será sustituido por el servidor públi
 
 #### SECCIÓN SEGUNDA. DE LA TESORERÍA MUNICIPAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 72.
 
-Cada Ayuntamiento contará con una Tesorería, cuyo titular será nombrado conforme a lo dispuesto por esta ley. El Tesorero Municipal deberá contar con título profesional o pasantía de contador público, en administración, en economía, o en derecho, y tendrá las facultades y obligaciones siguientes:
+Cada Ayuntamiento contará con una Tesorería, cuyo titular deberá reunir los requisitos establecidos en el artículo 68 de esta Ley y ser nombrado conforme a lo dispuesto por este ordenamiento, y tendrá las atribuciones siguientes:
 
 I. Recaudar, administrar, concentrar, custodiar, vigilar y situar los fondos municipales, así como los conceptos que deba percibir el Ayuntamiento, de conformidad con las disposiciones legales aplicables en materia de ingresos;
 
@@ -1525,11 +1527,11 @@ El Congreso del Estado informará a los Ayuntamientos el resultado de las accion
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN DE OBRAS PÚBLICAS
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 73 Bis.
 
-Cada Ayuntamiento contará con una Dirección de Obras Públicas, cuyo titular deberá contar con título profesional o pasantía de ingeniero o arquitecto.
+Cada Ayuntamiento contará con una Dirección de Obras Públicas, cuyo titular deberá reunir los requisitos establecidos en el artículo 68 de esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1563,11 +1565,11 @@ X. Las demás que le otorguen esta ley y las leyes del Estado.
 
 #### SECCIÓN CUARTA. DE LA CONTRALORÍA
 
-> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 73 Quater.
 
-El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de esta Ley, establecerá un órgano de control interno autónomo, el cual se denominará Contraloría, que desarrollará funciones de control y evaluación; cuyo titular deberá contar con título profesional o pasantía en contador público, de licenciado en Derecho, en Administración o en Economía.
+El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de esta Ley, establecerá un órgano de control interno autónomo, el cual se denominará Contraloría, que desarrollará funciones de control y evaluación; su titular deberá reunir los requisitos establecidos en el artículo 68 de este mismo ordenamiento.
 
 > <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
 
@@ -1903,7 +1905,7 @@ VI. Señalar el procedimiento que deberá tramitarse y los medios de impugnació
 
 VII. La aprobación del Ayuntamiento, escuchando la opinión de los Agentes y Subagentes Municipales, así como de los jefes de manzana.
 
-ADICIONADO, G.O. 12 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
 
 Artículo 96 ter. Las concesiones para usar, explotar y aprovechar bienes de dominio público municipal deberán sujetarse a las bases siguientes:
 
@@ -3442,5 +3444,11 @@ G.O. 27 DE ENERO DE 2014.
 DECRETO NÚMERO 237 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 60 QUINQUIES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE FEBRERO DE 2014.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
