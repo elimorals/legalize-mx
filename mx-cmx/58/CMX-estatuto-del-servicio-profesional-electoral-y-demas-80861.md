@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-electoral-y-demas-80861"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-04-15"
-last_updated: "2011-04-15"
+last_updated: "2014-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80861&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-03-28"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMAS PERSONAL QUE LABORE EN EL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMAS PERSONAL QUE LABORE EN EL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
+ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMÁS PERSONAL QUE LABORE EN EL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE FEBRERO DE 2014.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -446,19 +446,23 @@ Son días de descanso obligatorio:
 
 I. El 1° de enero;
 
-II. El primer lunes de febrero en conmemoración del 5 de febrero;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE FEBRERO DE 2014)</small>
 
-III. El tercer lunes de marzo en conmemoración del 21 de marzo;
+II. El 15 de enero en conmemoración del día del trabajador del Instituto Electoral del Distrito Federal;
 
-IV. El 1° de mayo;
+III. El primer lunes de febrero en conmemoración del 5 de febrero;
 
-V. El 16 de septiembre;
+IV. El tercer lunes de marzo en conmemoración del 21 de marzo;
 
-VI. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
+V. El 1° de mayo;
 
-VII. El 1° y 5 de diciembre cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Federal y de la Jefatura de Gobierno del Distrito Federal, respectivamente, y
+VI. El 16 de septiembre;
 
-VIII. El 25 de diciembre.
+VII. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
+
+VIII. El 1° y 5 de diciembre cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Federal y de la Jefatura de Gobierno del Distrito Federal, respectivamente, y
+
+IX. El 25 de diciembre.
 
 Asimismo, serán días de descanso los que determinen las autoridades competentes.
 
@@ -2261,3 +2265,25 @@ NOVENO. Se instruye a la Junta para que, en un plazo de treinta días contados a
 DÉCIMO. En la evaluación del desempeño laboral del personal administrativo correspondiente al año 2011, sólo se valorará el periodo de la actuación desarrollada por dicho personal a partir de la entrada en vigor del presente Estatuto.
 
 UNDÉCIMO. Los casos no previstos en el presente Estatuto serán resueltos por la Junta.
+
+> <small>(ADICIONADO, G.O. 18 DE FEBRERO DE 2014)</small>
+
+DUODÉCIMO. Con motivo de la reforma al artículo 8 del presente Estatuto, por única ocasión, en dos mil catorce el día de descanso obligatorio en conmemoración del día del trabajador del Instituto Electoral del Distrito Federal, será el cuatro de febrero del mismo año.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 18 DE FEBRERO DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO. Aprobar la reforma del artículo 8 del Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal, y la adición de un artículo transitorio DUODÉCIMO, en los términos expresados en el Considerando 15 del presente Acuerdo.
+
+SEGUNDO. Este Acuerdo, la reforma y adición al Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal que por él se aprueba, entrarán en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral.
+
+TERCERO. Instruir a la Secretaría Administrativa que, mediante circular, haga del conocimiento del personal del Instituto Electoral el establecimiento del día del trabajador del Instituto Electoral así como el día de descanso establecido en dos mil catorce con este motivo.
+
+CUARTO. Publíquese de inmediato este Acuerdo en los estrados del Instituto Electoral del Distrito Federal, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+
+QUINTO. Instruir a la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, para que de manera inmediata realice las adecuaciones que sean procedentes por virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia del sitio de Internet www.iedf.org.mx.
+
+SEXTO. Remítase el presente Acuerdo a la Gaceta Oficial del Distrito Federal para su publicación, dentro del plazo de diez días hábiles contados a partir de su entrada en vigor.
