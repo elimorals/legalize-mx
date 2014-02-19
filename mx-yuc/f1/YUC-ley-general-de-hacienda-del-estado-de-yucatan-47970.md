@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2013-12-31"
+last_updated: "2014-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 20, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 29 DE DICIEMBRE DE 2012, EL CAPÍTULO IV, DEL TÍTULO III DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE FEBRERO DE 2014.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -281,11 +281,9 @@ El impuesto se pagará mediante declaración mensual definitiva, que presentará
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
 
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 20 A.- El objeto de este impuesto son los ingresos percibidos por personas físicas, en forma directa o a través de establecimientos, sucursales o agencias, por la realización de actividades empresariales en el estado, como se definen en el artículo 19 del Código Fiscal del Estado de Yucatán.
+ARTÍCULO 20 A.- El objeto de este impuesto son los ingresos percibidos por personas físicas por la realización de actividades empresariales en el Estado de Yucatán, ya sea directamente o a través de establecimientos, sucursales o agencias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -299,11 +297,9 @@ ARTÍCULO 20 A.- El objeto de este impuesto son los ingresos percibidos por pers
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
 
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 20 B.- Están obligadas al pago de este impuesto, las personas físicas que tengan su domicilio en el territorio del Estado de Yucatán y perciban los ingresos a que se refiere el artículo anterior.
+ARTÍCULO 20 B.- Están obligadas al pago de este impuesto, las personas físicas que perciban los ingresos a que se refiere el artículo anterior.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -317,13 +313,15 @@ ARTÍCULO 20 B.- Están obligadas al pago de este impuesto, las personas física
 
 ARTÍCULO 20 C.- La base de este impuesto considerará los mismos ingresos y las mismas deducciones autorizadas, que se establecen en el Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, en lo referente a los ingresos por actividades empresariales, excepto la deducción del propio impuesto cedular a que se refiere este Capítulo.
 
-La base se determinará disminuyendo de la totalidad de los ingresos las deducciones autorizadas conforme al párrafo anterior obtenida por los contribuyentes por establecimientos, sucursales o agencias ubicadas en el Estado de Yucatán.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+
+La base se determinará disminuyendo de la totalidad de los ingresos las deducciones autorizadas conforme al párrafo anterior.
 
 Si el contribuyente tuviere establecimientos, sucursales o agencias en dos o más entidades federativas, únicamente deberá pagar en este Estado el impuesto que corresponda; para determinar el impuesto a que se refiere esta sección, se deberá considerar la suma de la base gravable obtenida por todos los establecimientos, sucursales o agencias que tenga, y el resultado se dividirá entre estos en la proporción que representen los ingresos obtenidos por cada establecimiento, sucursal o agencia, respecto de la totalidad de los ingresos.
 
 Cuando en un ejercicio fiscal el monto de las deducciones autorizadas sea superior al de los ingresos, esta diferencia no podrá disminuirse de la base del siguiente ejercicio.
 
-Cuando los pagos provisionales excedan el impuesto del ejercicio, la diferencia no dará lugar a devolución o compensación alguna y sólo podrá acreditarse contra los pagos provisionales de los siguientes dos ejercicios hasta agotarlo. Los contribuyentes que no efectúen el acreditamiento en los términos de este párrafo, pudiendo haberlo hecho, perderán el derecho a realizarlo hasta por dicho monto.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 19 DE FEBRERO DE 2014)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -359,7 +357,9 @@ El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingre
 
 En los casos en los que el impuesto definitivo del contribuyente sea menor que la cantidad que se acredite en los términos del párrafo anterior, se podrá solicitar la devolución del impuesto efectivamente pagado en exceso.
 
-El impuesto definitivo, se pagará mediante declaración que se presentará en el mes de abril del año siguiente a aquel en que termine el ejercicio. Los contribuyentes deberán anexar a la declaración del ejercicio de este impuesto, la declaración del mismo ejercicio correspondiente al Impuesto sobre la Renta.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+
+El impuesto del ejercicio se pagará mediante declaración que se presentará en el mes de abril del año siguiente a aquel en que termine el ejercicio fiscal de que se trate.
 
 El Estado podrá celebrar convenio con la Federación, a través de la Secretaría de Hacienda y Crédito Público para que este impuesto se pague en las mismas declaraciones y en el mismo momento que el impuesto sobre la renta federal.
 
@@ -387,11 +387,13 @@ ARTÍCULO 20 G.- Los contribuyentes de este Capítulo deberán llevar y conserva
 
 #### SECCIÓN PRIMERA. DE LOS SUJETOS Y EL OBJETO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE FEBRERO DE 2014)</small>
+
+ARTÍCULO 20 H.- Pagarán este impuesto las personas físicas que perciban ingresos por la enajenación de inmuebles que se ubiquen en el territorio del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 20 H.- Pagarán este impuesto las personas físicas que tengan su domicilio en el territorio del Estado de Yucatán y perciban ingresos por la enajenación de inmuebles que se ubiquen en el territorio del Estado.
 
 Para los efectos de esta Sección, se consideran ingresos por enajenación de inmuebles, los que deriven de:
 
@@ -415,9 +417,19 @@ b) En el acto en el que el fideicomitente ceda sus derechos si entre estos se in
 
 VI.- La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito, o de la cesión de derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
 En los casos de permuta se considerará que hay dos enajenaciones.
 
-Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicios, inclusive en crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no haya contraprestación, se atenderá al valor de avalúo practicado.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+
+Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicios, inclusive en crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no pueda determinarse la contraprestación, se atenderá al valor de avalúo que se practique o se hubiera practicado para la transmisión de propiedad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 No se considerarán ingresos por enajenación, los que deriven de la transmisión de propiedad de inmuebles por causa de muerte o por donación.
 
@@ -433,21 +445,27 @@ No se considerarán ingresos por enajenación, los que deriven de la transmisió
 
 #### SECCIÓN SEGUNDA. DE LA BASE Y DE LA TASA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE FEBRERO DE 2014)</small>
+
+ARTÍCULO 20 I.- Para los efectos de la determinación de la base se atenderá a lo establecido en la Sección I del Capítulo IV del Título IV de la Ley del Impuesto Sobre la Renta y a sus disposiciones reglamentarias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 20 I.- Para los efectos de la determinación de la base se atenderá a lo establecido en el Capítulo IV del Título IV de la Ley del Impuesto Sobre la Renta de carácter federal y a sus disposiciones reglamentarias.
 
 Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles, efectuarán el pago del impuesto por cada una de las operaciones que realicen, aplicando la tasa del 5% sobre la base determinada de acuerdo con el párrafo que antecede y se enterará mediante declaración que se presentará dentro de los 30 días hábiles siguientes a la fecha de enajenación.
 
-En el caso de operaciones consignadas en escritura pública los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, bajo su responsabilidad calcularán y recaudarán el impuesto a que se refiere esta Sección y lo enterarán en las oficinas autorizadas mediante declaración que se presentará dentro de los 30 días hábiles siguientes a la fecha en la que se firme la escritura o minuta. Los fedatarios quedan relevados de la obligación de efectuar el cálculo y entero del impuesto a que se refiere este artículo, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales, debiendo observarse al efecto lo dispuesto por la Ley del Impuesto Sobre la Renta de carácter federal y sus disposiciones reglamentarias.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+En el caso de operaciones consignadas en escritura pública, los notarios y demás fedatarios que por disposición legal tengan funciones notariales, bajo su responsabilidad, calcularán y recaudarán el impuesto a que se refiere esta Sección y lo enterarán en las oficinas autorizadas mediante declaración que se presentará dentro de los 30 días hábiles siguientes a la fecha en la que se firme la escritura.
 
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, D.O. 19 DE FEBRERO DE 2014)</small>
 
-ARTÍCULO 20 J.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado o institución de crédito especializada en valuación debidamente acreditados ante la Secretaría de Educación del Estado. La Agencia de Administración Fiscal de Yucatán estará facultada para ordenar o tomar en cuenta el avalúo del bien objeto de la enajenación.
+Los fedatarios quedan relevados de la obligación de efectuar el cálculo y entero del impuesto a que se refiere este artículo cuando la enajenación se realice por personas físicas dedicadas a actividades empresariales, debiendo observarse al efecto lo dispuesto por la Ley del Impuesto Sobre la Renta y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+
+ARTÍCULO 20 J.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o persona con cédula profesional de especialista en valuación o maestría en valuación debidamente registrada ante la Secretaría de Educación del Poder Ejecutivo del Estado de Yucatán. La Agencia de Administración Fiscal de Yucatán estará facultada para ordenar o tomar en cuenta el avalúo del bien objeto de la enajenación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -455,17 +473,21 @@ ARTÍCULO 20 J.- Los contribuyentes podrán solicitar la práctica de un avalúo
 
 #### SECCIÓN TERCERA. DE LAS EXENCIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
 
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+ARTÍCULO 20 K.- No se pagará el impuesto a que se refiere este Capítulo por los ingresos percibidos por la enajenación de la casa-habitación del contribuyente.
 
-ARTÍCULO 20 K.- No se pagará el impuesto a que se refiere este Capítulo por las enajenaciones de inmuebles destinadas a casa habitación, sin limitación alguna, siempre que la enajenación correspondiente se encuentre exenta del impuesto al valor agregado.
+Para los efectos de este artículo, los contribuyentes deberán acreditar ante el fedatario público que formalice la operación que el inmueble objeto de la operación es la casa-habitación del contribuyente, con cualquiera de los documentos comprobatorios que se mencionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el del domicilio del bien inmueble enajenado:
 
-El fedatario público ante quien se protocolice la operación de la enajenación a que se refiere este artículo deberá consignar las circunstancias que dieron lugar a la exención en la escritura o minuta, la que deberá contener la manifestación del contribuyente, bajo protesta de decir verdad de que dichas circunstancias son ciertas. Esta manifestación deberá acreditarse con el aviso de terminación de obra, cuando se trate de enajenación de casa habitación nueva, o con la documentación con la que se demuestre que se ha residido en dicha casa habitación, cuando se trate de la enajenación de un inmueble previamente habitado. Esta documentación será dada a conocer mediante reglas de carácter general. El fedatario público deberá cerciorarse de la autenticidad de la información proporcionada por el contribuyente en términos de este párrafo.
+I.- Credencial de elector vigente.
 
-Para los efectos de este artículo, resulta aplicable lo previsto en la fracción II del artículo 9 de la Ley del Impuesto al Valor Agregado y sus disposiciones reglamentarias. El adquirente deberá constituir, en su caso, la garantía a que se refiere el artículo 28 del Reglamento de la Ley del Impuesto al Valor Agregado y se considerará responsable solidario del pago del impuesto previsto en este Capítulo.
+II.- Comprobante de pago efectuado por la prestación de los servicios de energía eléctrica o de telefonía fija.
 
-Para efectos de este artículo se considera casa habitación del contribuyente, además, la superficie del terreno, siempre que este no exceda de tres veces el área cubierta por las construcciones que integran la casa habitación. Si la superficie del terreno excede de tres veces el área de construcción, se pagará el impuesto por la totalidad de la operación.
+III.- Estado de cuenta que proporcione alguna institución de las que componen el sistema financiero, por casas comerciales o de tarjetas de crédito no bancarias.
+
+La documentación a que se refieren las fracciones anteriores deberá estar a nombre del contribuyente, de su cónyuge, de sus ascendientes o sus descendientes, en línea recta.
+
+Para efectos de este artículo, se considera que la casa-habitación del contribuyente comprende además la superficie del terreno que no exceda de tres veces el área cubierta por las construcciones que integran la casa-habitación. Si la superficie del terreno excede de tres veces el área de construcción, se pagará el impuesto por el ingreso obtenido por la superficie del terreno excedente.
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
@@ -886,6 +908,8 @@ I. Solicitar su inscripción en el Registro Estatal de Contribuyentes, ante la a
 > <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 II. Retener a los usuarios de sus servicios el impuesto correspondiente y enterarlo a las oficinas autorizadas por la Secretaría de Administración y Finanzas o la Agencia de Administración Fiscal de Yucatán.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O. 19 DE FEBRERO DE 2014)</small>
 
 Los retenedores de este impuesto, están obligados a enterar una cantidad equivalente a la que debieron retener conforme a esta ley, aún cuando no hubieren efectuado la retención.
 
@@ -1599,9 +1623,7 @@ Los propietarios, tenedores o usuarios de vehículos con domicilio en el Estado,
 
 3.- Cambios en el Registro Estatal de Control Vehicular por cambio de propietario, de domicilio o de servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO SU NUMERAL, [N. DE E. ANTES CAPÍTULO IX], D.O. 19 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 45.
 
@@ -1747,7 +1769,7 @@ ARTÍCULO 47 U.- Las sanciones económicas que, en su caso, se impongan por el i
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO IX. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS Y CONCURSOS
+### CAPÍTULO VIII. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS Y CONCURSOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4625,9 +4647,11 @@ El Capítulo IV, del Título Tercero de la Ley General de Hacienda del Estado de
 
 Las reformas contenidas en las fracciones I y II del artículo 85-G de la Ley General de Hacienda del Estado de Yucatán entrarán en vigor a partir del día 1 de abril del año 2014.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO SÉPTIMO.
 
-El pago del derecho previsto en el Capítulo XXI del Título Tercero de la Ley General de Hacienda del Estado de Yucatán correspondiente al ejercicio de 2014 se podrá efectuar a más tardar el día 17 de febrero del año 2014.
+El pago del derecho previsto en el artículo 85-J del capítulo XXI del título tercero de la Ley General de Hacienda del Estado de Yucatán correspondiente al ejercicio de 2014 se podrá efectuar a más tardar el 31 de marzo de 2014.
 
 En contra del pago del derecho a que se refiere el párrafo anterior, los contribuyentes podrán acreditar el impuesto pagado en términos de la fracción II del artículo 31 de esta Ley correspondiente al ejercicio fiscal 2013. En caso de que el citado impuesto sea superior al monto del derecho, el saldo a favor no dará lugar a acreditamiento, devolución o compensación alguna.
 
@@ -4640,3 +4664,17 @@ A partir de la entrada en vigor de este Decreto se derogan todas las disposicion
 D.O. 31 DE DICIEMBRE DE 2013.
 
 ÚNICO. Este Acuerdo entrará en vigor el día 1 de enero del año 2014 previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 19 DE FEBRERO DE 2014.
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Primer pago provisional
+
+Para los efectos de lo dispuesto por el artículo 20-E, el primer pago provisional comprenderá el primero, segundo, tercero y cuarto mes, correspondientes al ejercicio fiscal 2014 y se realizará mediante declaración que se presentará a más tardar el 17 de mayo de 2014.
+
+Artículo Tercero. Derogación
+
+Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este decreto.
