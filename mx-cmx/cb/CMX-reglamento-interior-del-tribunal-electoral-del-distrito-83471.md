@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-83471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2013-05-22"
+last_updated: "2014-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83471&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -1172,9 +1172,15 @@ VI. Proporcionar a la o al Director General Jurídico la información necesaria 
 
 VII. Solicitar los servicios notariales para la expedición oportuna de poderes que otorgue o revoque la o el Presidente; así como llevar a cabo su reguardo y el control de su ejercicio;
 
-VIII. Supervisar la realización de diversos trámites relacionados con los derechos de autor, las publicaciones en la Gaceta y la solicitud de tiempos en radio y televisión ante el Instituto Federal Electoral, y
+VIII. Supervisar la realización de diversos trámites relacionados con los derechos de autor, las publicaciones en la Gaceta y la solicitud de tiempos en radio y televisión ante el Instituto Federal Electoral, y (sic)
 
-IX. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2014)</small>
+
+IX. Atender los asuntos relativos a las materias de transparencia, acceso a la información pública, datos personales y archivo relacionados con la información y documentación bajo resguardo de la Dirección General Jurídica, y
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2014)</small>
+
+X. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
 
 > <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
 
@@ -1204,7 +1210,7 @@ X. Apoyar en la redacción de proyectos de acuerdos plenarios cuando así lo sol
 
 XI. Asistir a las sesiones de los Comités del Tribunal y reuniones de trabajo, en representación de la Dirección General Jurídica, cuando su superior/a jerárquico/a así lo determine, y participar en términos de lo establecido en la normativa interna correspondiente;
 
-XII. Atender los asuntos relativos a las materias de transparencia, acceso a la información pública, datos personales y archivo relacionados con la información y documentación bajo resguardo de la Dirección General Jurídica;
+XII. (DEROGADA, G.O. 19 DE FEBRERO DE 2014)
 
 XIII. Coordinar la recopilación y sistematización de información para la integración del informe anual de actividades del Tribunal a que se refiere el artículo 162, fracción X del Código, y
 
@@ -1745,6 +1751,12 @@ PRIMERO. La reforma al Reglamento Interior del Tribunal Electoral del Distrito F
 SEGUNDO. Publíquese la presente reforma en la Gaceta, así como en los estrados y en el sitio de Internet del Tribunal.
 
 G.O. 22 DE MAYO DE 2013.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO. Publíquese esta reforma en la Gaceta, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 19 DE FEBRERO DE 2014.
 
 PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
 
