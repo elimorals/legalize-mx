@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-anuncios-de-la-ciudad-de-monterrey-nuevo-leon-257
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-27"
-last_updated: "1998-02-16"
+last_updated: "2014-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ANUNCIOS DE LA CIUDAD DE MONTERREY
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de septiembre de 1995.
 
@@ -369,7 +369,7 @@ TABLA Nº 2
 
 TIPO Y SUBTIPOS DE ANUNCIOS DE CATEGORÍA “C”
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 27 DE SEPTIEMBRE DE 1995, PAGINA 9.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE SEPTIEMBRE DE 1995, PÁGINA 9.</small>
 
 e).- Cuando los anuncios se instalen en colindancia con avenidas y/o terrenos colindantes con carreteras se deberán colocar a un mínimo de 6 metros hacia el interior del alineamiento y los límites del predio en el que tengan su base y NUNCA sobre banquetas, parques, terrenos municipales, áreas históricas, monumentos, áreas protegidas, derechos de paso o en sitios en que estén programados desarrollos de vías públicas, pasos a desnivel, libramientos, puentes y camellones, con excepción de lo señalado en el Artículo 29 de este Reglamento.
 
@@ -457,7 +457,7 @@ TABLA Nº 5
 
 CLASIFICACIÓN DE ANUNCIOS con dimensiones y densidades
 
-> <small>N. DE E. VEASE TABLA EN EL P. O. DE 27 DE SEPTIEMBRE DE 1995, PAGINA 12.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P. O. DE 27 DE SEPTIEMBRE DE 1995, PÁGINA 12.</small>
 
 TABLA Nº 6
 
@@ -479,7 +479,7 @@ TABLA Nº 7
 
 ANUNCIOS - CALLES Y AVENIDAS SUSCEPTIBLES
 
-> <small>N. DE E. VEASE TABLA EN EL P. O. DE 27 DE SEPTIEMBRE DE 1995, PAGINA 13.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P. O. DE 27 DE SEPTIEMBRE DE 1995, PÁGINA 13.</small>
 
 ART.- 29.- En los anuncios relativos a la fijación de propaganda impresa con duración menor a 60 días que promocione actividades turísticas, culturales, deportivas u otras de interés general, se permitirá por excepción, la instalación en la vía pública, siempre y cuando se coloquen en mobiliario urbano, los siguientes elementos; tableros, carteleras u otros elementos diseñados y colocados expresamente para ese objeto, invariablemente con previa (sic) pago de piso y aprobación por parte de la Secretaría de Desarrollo Urbano y Ecología, de la ubicación, de la duración de la promoción, del sistema de fijación, así como de los diseños, dimensiones y materiales que se vayan a utilizar.
 
@@ -521,7 +521,7 @@ III.- 10% si tiene una altura mayor a los 30 metros.
 
 tabla Nº 8
 
-> <small>N. DE E. VEASE TABLA EN EL P. O. DE 27 DE SEPTIEMBRE DE 1995, PAGINA 14.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P. O. DE 27 DE SEPTIEMBRE DE 1995, PÁGINA 14.</small>
 
 TABLA Nº 9
 
@@ -683,7 +683,9 @@ ART.- 63.- Se prohíbe todo anuncio en los lugares siguientes:
 
 I.- En un radio de 100 metros, medido en proyección horizontal del entorno de los monumentos públicos, exceptuándose los anuncios instalados en forma adosada y que tengan autorización expresa.
 
-II.- Sustentados en la vía pública y sus elementos o accesorios complementarios, que incluyen entre otros, camellones, libramientos, ochavos, banquetas, guarniciones, jardineras, señalamientos, luminarias y postes con excepción de lo señalado en el artículo 29.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2014)</small>
+
+II.- Sustentados en la vía pública y sus elementos o accesorios complementarios, que incluyen entre otros, camellones, libramientos, ochavos, banquetas, guarniciones, jardineras, señalamientos, luminarias y postes con excepción de lo señalado por los artículos 29, y 29 BIS, del presente Reglamento.
 
 III.- En las zonas clasificadas como residenciales excluyéndose los relativos a profesionistas, y a otros usos complementarios permitidos por este Reglamento y los demás Reglamentos Municipales aplicables.
 
@@ -821,8 +823,12 @@ El C. Secretario del R. Ayuntamiento.
 
 Lic. José Martínez González.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE FEBRERO DE 1998.
 
 La presente reforma por adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE FEBRERO DE 2014.
+
+EL ACUERDO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
