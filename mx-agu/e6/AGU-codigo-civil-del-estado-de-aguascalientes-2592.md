@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2013-09-23"
+last_updated: "2014-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2014.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1087,11 +1087,11 @@ IV.- Los que según los Artículos 372, 373 y 374, pueden continuar o intentar o
 
 V.- El Ministerio Público.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 133.
 
-No será permitido a persona alguna cambiar su nombre, modificando el registro de su nacimiento, pero si alguien hubiere sido conocido con nombre diferente al que aparece en su registro, declarando este hecho mediante información testimonial en diligencias de jurisdicción voluntaria con intervención del Ministerio Público, se asentará la anotación marginal correspondiente en el referido registro en tal sentido.
+Si alguien hubiere sido conocido con nombre diferente al que aparece en su registro, declarando este hecho mediante información testimonial en diligencias de jurisdicción voluntaria con intervención del Ministerio Público, se asentará la anotación marginal correspondiente en el referido registro en tal sentido.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -16912,3 +16912,9 @@ P.O. 23 DE SEPTIEMBRE DE 2013.
 El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Las solicitudes de inscripción y rectificación señaladas en el Artículo 2882, párrafos segundo y tercero, serán tramitadas gratuitamente por el Registro Público de la Propiedad durante los 180 días siguientes al inicio de vigencia del presente Decreto.
+
+P.O. 19 DE FEBRERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
