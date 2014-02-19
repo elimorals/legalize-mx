@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2013-11-11"
+last_updated: "2014-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1147,7 +1147,9 @@ El pago de los alimentos se hará en la forma y términos que la ley civil fije 
 
 Abuso sexual. El Abuso Sexual consiste en la introducción por vía vaginal o anal de cualquier elemento o instrumento distinto del pene, mediante el uso de la fuerza física, moral o psicológica para el sometimiento de la víctima, sea cual fuere el sexo de ésta.
 
-Al responsable de Abuso Sexual se le aplicarán de 3 a 8 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2014)</small>
+
+Al responsable de Abuso Sexual se le aplicarán de 5 a 10 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### ARTÍCULO 123.
 
@@ -1157,7 +1159,9 @@ I. El llevar a cabo la introducción descrita en el Artículo 122 en persona men
 
 II. El llevar a cabo la introducción descrita en el Artículo 122 en persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado.
 
-Al responsable de Abuso Sexual Equiparado se le aplicarán de 3 a 8 años de prisión y de 10 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 4 años 6 meses a 12 años de prisión y de 15 a 75 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2014)</small>
+
+Al responsable de Abuso Sexual Equiparado se le aplicarán de 6 a 12 años de prisión y de 120 a 240 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 7 a 14 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### ARTÍCULO 124.
 
@@ -2436,3 +2440,9 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE FEBRERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
