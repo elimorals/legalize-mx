@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-76541"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2013-02-19"
+last_updated: "2014-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE FEBRERO DE 2014.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 31 de agosto de 2010.
 
@@ -1309,9 +1309,11 @@ Quienes con anterioridad a la entrada en vigor de esta ley, hubiesen concluido s
 
 Los notarios públicos que actualmente se encuentren en ejercicio de sus funciones, conservarán esa calidad en los mismos domicilios y números de notaría pública que se les ha sido asignada.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO NOVENO.
 
-Los escribanos públicos con residencia en la Ciudad de Mérida, nombrados conforme la Ley del Notariado que se abroga, dejarán de ejercer sus funciones en un término de tres años a partir del momento que concluya la vigencia de su nombramiento. Los nombramientos de nuevos escribanos públicos se harán de conformidad con los requisitos señalados en esta ley.
+Los escribanos públicos con residencia en la ciudad de Mérida y demás municipios del estado cuya población exceda de treinta mil habitantes, nombrados conforme la ley del notariado que se abroga, dejarán de ejercer sus funciones el 31 de diciembre de 2016. Los nombramientos de los escribanos públicos en los municipios con menos de treinta mil habitantes se harán de conformidad con los requisitos señalados en esta ley.
 
 ###### ARTÍCULO DÉCIMO.
 
@@ -1368,3 +1370,17 @@ Con motivo de la entrada en vigor del Libro de Registro de Cotejos y Certificaci
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+D.O. 19 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos de este decreto, se reconoce la validez de las patentes de los escribanos públicos, nombrados conforme a la Ley del Notariado abrogada, con residencia en el municipio de Mérida, del 1 de enero de 2014 al 31 de diciembre de 2016, y de los escribanos públicos, con residencia en los demás municipios del estado cuya población exceda de treinta mil habitantes, desde el momento en que entre en vigor este decreto y hasta el 31 de diciembre de 2016.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
