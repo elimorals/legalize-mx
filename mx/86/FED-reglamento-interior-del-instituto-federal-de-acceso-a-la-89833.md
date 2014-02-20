@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-acceso-a-la-89833"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-29"
-last_updated: "2012-10-29"
+last_updated: "2014-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89833&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-10-15"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS, PUBLICADO EN EL D.O.F. DE 20 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE FEBRERO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 29 de octubre de 2012.
 
@@ -956,3 +958,15 @@ SEGUNDO. Se abroga el Reglamento Interior del Instituto Federal de Acceso a la I
 Así lo acordó el Pleno del Instituto Federal de Acceso a la Información y Protección de Datos, en sesión extraordinaria celebrada el día quince de octubre de dos mil doce.
 
 La Comisionada Presidenta, Jacqueline Peschard Mariscal.- Rúbrica.- Los Comisionados: Sigrid Arzt Colunga, María Elena Pérez-Jaén Zermeño, Gerardo Laveaga Rendón, Angel Trinidad Zaldívar.- Rúbricas.- La Secretaria de Acceso a la Información, Cecilia Azuara Arai.- Rúbrica.- El Secretario de Protección de Datos Personales, Alfonso Oñate Laborde.- Rúbrica.- El Secretario General, Mauricio Farah Gebara.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Instituto Federal de Acceso a la Información y Protección de Datos, publicado en el Diario Oficial de la Federación el día veintinueve de octubre de dos mil doce y demás disposiciones jurídicas que se opongan al presente Reglamento.
+
+TERCERO.- Hasta en tanto se integre el organismo garante que establece el artículo 6o. constitucional, en las sesiones ordinarias y extraordinarias del Pleno se requerirá de la presencia de al menos tres comisionados.
+
+CUARTO.- Una vez integrado el organismo autónomo, de manera inmediata se convocará al Pleno para la elección de Comisionado Presidente atento a lo ordenado en el artículo 6o. constitucional, apartado A, fracción VIII, párrafo décimo segundo y en términos del artículo 17 del presente reglamento.
