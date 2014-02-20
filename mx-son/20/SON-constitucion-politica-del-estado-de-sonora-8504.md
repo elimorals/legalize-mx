@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2012-09-27"
+last_updated: "2014-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE FEBRERO DE 2014.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -445,7 +445,7 @@ Forma de Gobierno.
 
 De acuerdo con la Constitución General de de (sic) los Estados Unidos Mexicanos, el Estado de Sonora adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su división territorial y organización política y administrativa el Municipio Libre, según la presente Constitución y las leyes que de ella emanen.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 22 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO III.
 
@@ -583,7 +583,7 @@ VII. No haber sido diputado propietario en el período en que se fectúe (sic) l
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2011)</small>
 
-VIlI.- No haber sido Diputado o Senador Propietario del Congreso de la Unión, a menos que se separe de dicho cargo, noventa días antes al día de la elección.
+VIII.- No haber sido Diputado o Senador Propietario del Congreso de la Unión, a menos que se separe de dicho cargo, noventa días antes al día de la elección.
 
 > <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
 
@@ -1489,17 +1489,9 @@ Sólo los empleados de Hacienda manejarán caudales del Estado.
 
 Los funcionarios y empleados de Hacienda, que tengan manejo de caudales públicos, otorgarán previamente, ante el Ejecutivo, fianza suficiente para garantizarlo, de acuerdo con la Ley respectiva.
 
-#### SECCION II.
+#### SECCIÓN VI. Transporte Público Sustentable
 
-Salas Regionales del Supremo Tribunal de Justicia.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
-
-Artículo 122 A. La Ley Orgánica respectiva determinará el número y la jurisdicción de las Salas Regionales del Supremo Tribunal de Justicia, así como la competencia de las mismas. Dichas Salas Regionales se integrarán por tres Magistrados, nombrados en la forma prevista por esta Constitución.
-
-Para ser Magistrados de las Salas Regionales del Supremo Tribunal de Justicia se requiere reunir los requisitos señalados en el artículo 95 de la Constitución Política de los Estados Unidos Mexicanos; dichos Magistrados rendirán la protesta de ley ante el Supremo Tribunal de Justicia; durarán en sus cargos tres años, pudiendo ser reelectos, y si lo fueren, sólo podrán ser privados de los mismos en los términos del Título Sexto de esta Constitución.
-
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, B.O. 20 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 89.
 
@@ -1688,6 +1680,12 @@ El Jefe de Defensores rendirá la protesta de Ley ante el Ejecutivo y será subs
 ###### Artículo 111.
 
 Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agente del Ministerio Público.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 20 DE FEBRERO DE 2014)</small>
+
+###### Artículo 111 Bis.
+
+Para efectos de garantizar la sustentabilidad en el servicio de transporte público, entendida en las dimensiones técnicas, sociales, económicas y ambientales, el Estado contará con el Consejo Ciudadano del Transporte Público Sustentable, como un órgano autónomo, dotado de personalidad jurídica y patrimonio propios, integrado por Consejeros Técnicos Ciudadanos que serán nombrados, removidos y reemplazados, en los términos que ordene la Ley respectiva y tendrá, entre otras atribuciones, la de establecer las tarifas de transporte público, en relación con las normas generales de calidad a la que habrá de apegarse la prestación del servicio público de transporte, así como el seguimiento a los ordenamientos en materia de transparencia.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -2197,7 +2195,7 @@ Cuando se suspenda o declare desaparecido un Ayuntamiento por renuncia o falta a
 
 De conformidad con las bases establecidas en la legislación secundaria, los Concejos Municipales serán integrados con vecinos del lugar, y tendrán la misma estructura orgánica, atribuciones y deberes que los Ayuntamientos. Sus integrantes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 9 DE ABRIL DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE ABRIL DE 1984)</small>
 
 ## TITULO SEXTO.
 
@@ -2559,13 +2557,13 @@ UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 
 B.O. 29 DE ABRIL DE 1939.
 
-LEY No. 112, QUE REFORMA EL ARTICULO 66 DE LA CONSTITUCION.
+LEY No. 112, QUE REFORMA EL ARTÍCULO 66 DE LA CONSTITUCIÓN.
 
 UNICO. Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
 
 B.O. 29 DE ABRIL DE 1939.
 
-LEY No. 113, QUE MODIFICA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 113, QUE MODIFICA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 Unico.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
 
@@ -2595,13 +2593,13 @@ Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 
 B.O. 5 DE ABRIL DE 1952.
 
-LEY No. 121, QUE ADICIONA EL ARTICULO 129 DE LA CONSTITUCION.
+LEY No. 121, QUE ADICIONA EL ARTÍCULO 129 DE LA CONSTITUCIÓN.
 
 Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 B.O. 5 DE ABRIL DE 1952.
 
-LEY No. 122, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 122, QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 Primero.- Tan luego como entre en vigor la presente Ley, el Congreso del Estado hará la elección de los dos nuevos Magistrados que en la misma se establecen, correspondientes a las Salas Cuarta y Quinta.
 
@@ -2647,7 +2645,7 @@ UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicació
 
 B.O. 5 DE AGOSTO DE 1964.
 
-LEY No. 93, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 93, QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
@@ -2773,7 +2771,7 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 
 B.O. 22 DE DICIEMBRE DE 1983.
 
-LEY No. 32, QUE ADICIONA EL CAPITULO TERCERO Y DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 32, QUE ADICIONA EL CAPÍTULO TERCERO Y DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 ###### ARTICULO UNICO.
 
@@ -2781,7 +2779,7 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 
 B.O. 22 DE DICIEMBRE DE 1983.
 
-LEY No. 33, QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 33, QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 ###### ARTICULO UNICO.
 
@@ -2807,7 +2805,7 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 
 B.O. 5 DE JULIO DE 1984.
 
-LEY No. 57, QUE REFORMA LA FRACCION III DEL ARTICULO 136. DE LA CONSTITUCION.
+LEY No. 57, QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 136, DE LA CONSTITUCIÓN.
 
 ###### ARTICULO UNICO.
 
@@ -2815,7 +2813,7 @@ La presente Ley entrará en vigor al día siguiente de su publicación en Bolet�
 
 B.O. 5 DE JULIO DE 1984.
 
-LEY No. 59, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 59, QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 ###### ARTICULO UNICO.
 
@@ -2823,13 +2821,13 @@ La presente Ley entrará en vigor al día siguiente de su Publicación en el Bol
 
 B.O. 10 DE ENERO DE 1985.
 
-LEY No. 97, QUE REFORMA EL ARTICULO 64 DE LA CONSTITUCION.
+LEY No. 97, QUE REFORMA EL ARTÍCULO 64 DE LA CONSTITUCIÓN.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 10 DE ENERO DE 1985.
 
-LEY No. 98, QUE REFORMA LOS ARTICULOS 70 Y 156 DE LA CONSTITUCION.
+LEY No. 98, QUE REFORMA LOS ARTÍCULOS 70 Y 156 DE LA CONSTITUCIÓN.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
@@ -2913,7 +2911,7 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 
 B.O. 8 DE NOVIEMBRE DE 1993.
 
-LEY No. 304, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 304, QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 ###### ARTICULO PRIMERO.
 
@@ -2951,7 +2949,7 @@ El informe anual que rindan los Ayuntamientos a la población, en 1994, se efect
 
 B.O. 8 DE NOVIEMBRE DE 1993.
 
-LEY No. 305, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 305, QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 ###### ARTICULO UNICO.
 
@@ -3111,7 +3109,7 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 
 B.O. 7 DE OCTUBRE DE 2004.
 
-LEY No. 77, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 77, QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3121,7 +3119,7 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 
 B.O. 7 DE OCTUBRE DE 2004.
 
-LEY No. 78, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 78, QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 ###### ARTICULO UNICO.
 
@@ -3131,7 +3129,7 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 
 B.O. 7 DE OCTUBRE DE 2004.
 
-LEY No. 79, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCION.
+LEY No. 79, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
 
@@ -3171,7 +3169,7 @@ Se derogan todas las disposiciones normativas de naturaleza inferior que se opon
 
 B.O. 22 DE FEBRERO DE 2007.
 
-LEY No. 165, QUE REFORMA LOS ARTICULOS 95, 101 Y 150-B DE LA CONSTITUCION.
+LEY No. 165, QUE REFORMA LOS ARTÍCULOS 95, 101 Y 150-B DE LA CONSTITUCIÓN.
 
 ###### ARTICULO UNICO.
 
@@ -3181,7 +3179,7 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 
 B.O. 22 DE FEBRERO DE 2007.
 
-LEY No. 251, QUE REFORMA LA FRACCION XXII Y DEROGA LA XXIII DEL ARTICULO 64 DE LA CONSTITUCION.
+LEY No. 251, QUE REFORMA LA FRACCIÓN XXII Y DEROGA LA XXIII DEL ARTÍCULO 64 DE LA CONSTITUCIÓN.
 
 ###### ARTICULO UNICO.
 
@@ -3191,7 +3189,7 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 
 B.O. 22 DE FEBRERO DE 2007.
 
-LEY No. 253, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+LEY No. 253, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3310,6 +3308,14 @@ Con la finalidad de realizar las adecuaciones al marco normativo relativo, con e
 ###### ARTÍCULO TERCERO.
 
 Las menciones que en diversos ordenamientos legales y reglamentarios se hagan al Consejo Estatal Electoral se entenderán referidas al Consejo Estatal Electoral y de Participación Ciudadana, cuyo cambio de denominación se establece en la presente Ley.
+
+B.O. 20 DE FEBRERO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo de que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado Libre y Soberano de Sonora en su artículo 163.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
