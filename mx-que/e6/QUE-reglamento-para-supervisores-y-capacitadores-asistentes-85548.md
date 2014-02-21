@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-para-supervisores-y-capacitadores-asistentes-85548"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-16"
-last_updated: "2011-12-16"
+last_updated: "2014-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO PARA SUPERVISORES Y CAPACITADORES-ASISTENTES ELECTORALES DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 16 de diciembre de 2011.
 
@@ -31,7 +31,7 @@ INSTITUTO ELECTORAL DE QUERÉTARO
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE QUERÉTARO, RELATIVO AL DICTAMEN QUE EMITEN LAS COMISIONES UNIDAS DE ORGANIZACIÓN ELECTORAL, EDUCACIÓN CÍVICA Y CAPACITACIÓN ELECTORAL, Y JURÍDICA; POR EL QUE PRESENTAN A LA CONSIDERACIÓN DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE QUERÉTARO, LA APROBACIÓN DEL REGLAMENTO PARA SUPERVISORES Y CAPACITADORES-ASISTENTES ELECTORALES DEL INSTITUTO ELECTORAL DE QUERÉTARO.
 
-ANTECEDENTES:.
+ANTECEDENTES:...
 
 Por lo tanto, con base en las consideraciones anteriores y con apoyo en lo dispuesto por las normas jurídicas transcritas, este Consejo General tiene a bien expedir el siguiente:
 
@@ -109,7 +109,9 @@ d) Consejos: Consejos distritales y municipales;
 
 e) Consejeros: Consejeros electorales que integran los consejos distritales y municipales;
 
-f) Representantes: Representantes de los partidos políticos y coaliciones debidamente acreditados;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
+f) Representantes: Representantes de los candidatos independientes, partidos políticos y coaliciones debidamente acreditados;
 
 g) Órganos operativos: Direcciones Ejecutivas de Organización Electoral y la de Educación Cívica y Capacitación Electoral.
 
@@ -187,7 +189,9 @@ I. Llevar a cabo la recepción de solicitudes y documentación de los ciudadanos
 
 II. Apoyar en la integración, instalación y funcionamiento de los consejos;
 
-III. Dar seguimiento a las actividades relacionadas con el monitoreo de precampañas y campañas electorales;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+III. Dar seguimiento a las actividades relacionadas con el monitoreo de precampañas, obtención del respaldo ciudadano, y campañas electorales.
 
 IV. Auxiliar en la ubicación, instalación y funcionamiento de las mesas directivas de casilla;
 
@@ -289,53 +293,55 @@ Una vez que el Consejo General apruebe la designación de los CAE´s, los superv
 
 Los CAE´s tendrán las siguientes funciones:
 
-VI. (SIC) Realizar las actividades relativas al monitoreo de precampañas y campañas electorales;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
 
-VII. Verificar y apoyar en la ubicación, instalación y funcionamiento de las mesas directivas de casilla;
+I. Realizar las actividades relativas al monitoreo de la etapa de obtención del respaldo ciudadano, precampañas y campañas electorales;
 
-VIII. Notificar a los ciudadanos que resultaron insaculados para integrar las mesas directivas de casilla, con base en la información que le proporcione el supervisor y requisitando el formato correspondiente;
+II. Verificar y apoyar en la ubicación, instalación y funcionamiento de las mesas directivas de casilla;
 
-IX. Capacitar a los ciudadanos insaculados que integrarán las mesas directivas de casilla;
+III. Notificar a los ciudadanos que resultaron insaculados para integrar las mesas directivas de casilla, con base en la información que le proporcione el supervisor y requisitando el formato correspondiente;
 
-X. Auxiliar a los consejos correspondientes en la entrega de los nombramientos a los ciudadanos que sean designados funcionarios de mesas directivas de casilla;
+IV. Capacitar a los ciudadanos insaculados que integrarán las mesas directivas de casilla;
 
-XI. Llevar a cabo, conforme al procedimiento aprobado por el Consejo General, la sustitución de ciudadanos que habiendo sido designados funcionarios de casilla, por causas supervenientes no puedan desempeñar el cargo para el que fueron nominados;
+V. Auxiliar a los consejos correspondientes en la entrega de los nombramientos a los ciudadanos que sean designados funcionarios de mesas directivas de casilla;
 
-XII. Apoyar a los consejos en la recepción de la documentación y los materiales electorales que entregue la Dirección Ejecutiva de Organización Electoral;
+VI. Llevar a cabo, conforme al procedimiento aprobado por el Consejo General, la sustitución de ciudadanos que habiendo sido designados funcionarios de casilla, por causas supervenientes no puedan desempeñar el cargo para el que fueron nominados;
 
-XIII. Colaborar en la integración de los paquetes con la documentación y materiales electorales y demás elementos necesarios para la instalación y funcionamiento de las mesas directivas de casilla;
+VII. Apoyar a los consejos en la recepción de la documentación y los materiales electorales que entregue la Dirección Ejecutiva de Organización Electoral;
 
-XIV. Distribuir y entregar la documentación electoral y los materiales necesarios a los ciudadanos designados presidentes de mesa directiva de casilla y dentro de los cinco días previos anterior a la elección, requisitando el recibo correspondiente para su posterior remisión al Secretario;
+VIII. Colaborar en la integración de los paquetes con la documentación y materiales electorales y demás elementos necesarios para la instalación y funcionamiento de las mesas directivas de casilla;
 
-XV. Realizar recorridos por los domicilios donde se ubicarán las mesas directivas de casilla para la instalación de carteles de identificación de las mismas y en su caso, identificar necesidades de equipamiento y recabar las llaves de los inmuebles para garantizar su apertura el día de la jornada electoral;
+IX. Distribuir y entregar la documentación electoral y los materiales necesarios a los ciudadanos designados presidentes de mesa directiva de casilla y dentro de los cinco días previos anterior a la elección, requisitando el recibo correspondiente para su posterior remisión al Secretario;
 
-XVI. Durante los quince días previos a la jornada electoral realizar recorridos de acuerdo a la ruta electoral asignada, para verificar que en el exterior de los lugares donde se ubicarán las casillas no exista propaganda electoral;
+X. Realizar recorridos por los domicilios donde se ubicarán las mesas directivas de casilla para la instalación de carteles de identificación de las mismas y en su caso, identificar necesidades de equipamiento y recabar las llaves de los inmuebles para garantizar su apertura el día de la jornada electoral;
 
-XVII. El día de la jornada electoral realizar recorridos permanentes en la ruta electoral asignada para informar al consejo correspondiente sobre la instalación, desarrollo, cierre y clausura de las casillas;
+XI. Durante los quince días previos a la jornada electoral realizar recorridos de acuerdo a la ruta electoral asignada, para verificar que en el exterior de los lugares donde se ubicarán las casillas no exista propaganda electoral;
 
-XVIII. Supervisar que a las 8:00 horas del día de la jornada electoral, se instalen las casillas, y en caso de no llevarse a cabo la instalación en dichos términos, los CAE´s deberán verificar que se observe lo previsto por la Ley;
+XII. El día de la jornada electoral realizar recorridos permanentes en la ruta electoral asignada para informar al consejo correspondiente sobre la instalación, desarrollo, cierre y clausura de las casillas;
 
-XIX. Reportar de inmediato al consejo de su adscripción cuando una casilla se haya instalado en un lugar distinto al aprobado y verificar si este cambio atiende a los supuestos establecidos en la Ley;
+XIII. Supervisar que a las 8:00 horas del día de la jornada electoral, se instalen las casillas, y en caso de no llevarse a cabo la instalación en dichos términos, los CAE´s deberán verificar que se observe lo previsto por la Ley;
 
-XX. Verificar que la recepción de la votación se desarrolle de conformidad con lo establecido por la Ley;
+XIV. Reportar de inmediato al consejo de su adscripción cuando una casilla se haya instalado en un lugar distinto al aprobado y verificar si este cambio atiende a los supuestos establecidos en la Ley;
 
-XXI. Auxiliar al presidente de la mesa directiva de casilla para mantener el orden durante la elección, a solicitud expresa del mismo y en caso necesario, con el auxilio de la fuerza pública;
+XV. Verificar que la recepción de la votación se desarrolle de conformidad con lo establecido por la Ley;
 
-XXII. Entregar a los funcionarios de las mesas directivas de casilla, el apoyo económico para alimentación y recabar los recibos correspondientes;
+XVI. Auxiliar al presidente de la mesa directiva de casilla para mantener el orden durante la elección, a solicitud expresa del mismo y en caso necesario, con el auxilio de la fuerza pública;
 
-XXIII. Atender, resolver y reportar al consejo los posibles incidentes que pudieran afectar el desarrollo de la jornada electoral;
+XVII. Entregar a los funcionarios de las mesas directivas de casilla, el apoyo económico para alimentación y recabar los recibos correspondientes;
 
-XXIV. Apoyar a los funcionarios de casilla, una vez clausurada, para que los paquetes electorales sean entregados y recibidos en tiempo y forma por el consejo correspondiente;
+XVIII. Atender, resolver y reportar al consejo los posibles incidentes que pudieran afectar el desarrollo de la jornada electoral;
 
-XXV. Apoyar en el ámbito de su competencia en la ejecución del Sistema de Información Sobre el Desarrollo de la Jornada Electoral;
+XIX. Apoyar a los funcionarios de casilla, una vez clausurada, para que los paquetes electorales sean entregados y recibidos en tiempo y forma por el consejo correspondiente;
 
-XXVI. Asistir al consejo en la recepción de los paquetes electorales o en alguna otra actividad que les sea encomendada por el Secretario del mismo;
+XX. Apoyar en el ámbito de su competencia en la ejecución del Sistema de Información Sobre el Desarrollo de la Jornada Electoral;
 
-XXVII. Dentro de los cinco días posteriores al de la elección, realizar recorridos por los domicilios en los que se ubicaron las casillas electorales, a efecto de verificar que en el inmueble no permanezcan materiales de los utilizados el día de la jornada electoral. En caso de que se encontrara alguno, solicitará al responsable del inmueble la devolución y entrega de los mismos, para su resguardo y custodia en la sede del consejo;
+XXI. Asistir al consejo en la recepción de los paquetes electorales o en alguna otra actividad que les sea encomendada por el Secretario del mismo;
 
-XXVIII. Informar al supervisor sobre el desarrollo de sus actividades, y
+XXII. Dentro de los cinco días posteriores al de la elección, realizar recorridos por los domicilios en los que se ubicaron las casillas electorales, a efecto de verificar que en el inmueble no permanezcan materiales de los utilizados el día de la jornada electoral. En caso de que se encontrara alguno, solicitará al responsable del inmueble la devolución y entrega de los mismos, para su resguardo y custodia en la sede del consejo;
 
-XXIX. Las demás que les confieran la Ley, los acuerdos del Consejo General y de los consejos correspondientes, así como el presente Reglamento.
+XXIII. Informar al supervisor sobre el desarrollo de sus actividades, y
+
+XXIV. Las demás que les confieran la Ley, los acuerdos del Consejo General y de los consejos correspondientes, así como el presente Reglamento.
 
 ## TÍTULO III. De las Obligaciones, Prohibiciones y Sanciones
 
@@ -349,9 +355,11 @@ Los supervisores y CAE´s deberán desarrollar sus actividades con la responsabi
 
 Los supervisores y CAE´s deberán guardar reserva y discreción de los asuntos e información que conozcan con motivo del desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 21.
 
-Los supervisores y CAE´s estarán obligados a guardar respeto para sí y para sus compañeros y miembros del Instituto; representantes de los partidos políticos y/o coaliciones, funcionarios de mesas directivas de casilla, ciudadanía y público en general.
+Los supervisores y CAE's estarán obligados a guardar respeto para si y para sus compañeros y miembros del Instituto; representantes, funcionarios de mesas directivas de casilla, ciudadanía y público en general.
 
 ###### Artículo 22.
 
@@ -393,7 +401,9 @@ III. Llevar a cabo actos o procedimientos que impidan la entrega oportuna a sus 
 
 IV. Desempeñar durante sus labores cualquier ocupación o actividad ajena a su función dentro del Instituto; de igual manera tampoco podrán desempeñar algún otro empleo, cargo o comisión;
 
-V. Realizar o participar en actos de proselitismo a favor de cualquier partido político, coalición, precandidato o candidato;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+V. Realizar o participar en actos de proselitismo a favor de cualquier partido político, coalición, aspirante a candidato independiente, precandidato o candidato;
 
 VI. Llevar a cabo actos que atenten contra la participación ciudadana;
 
@@ -426,3 +436,11 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Querét
 Dado en la Sala de Sesiones del Consejo General del Instituto Electoral de Querétaro el 9 del mes de diciembre del año 2011.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE FEBRERO DE 2014.
+
+Primero. Se modifica el Reglamento para Supervisores y Capacitadores-Asistentes Electorales del Instituto Electoral de Querétaro. en los términos del Acuerdo del Consejo General del Instituto Electoral de Querétaro relativo al proyecto de dictamen mediante el cual la Comisión Transitoria que dará cumplimiento al Articulo Tercero Transitorio de la Ley por la que se reforman y adicionan diversos preceptos de la Ley Electoral del Estado de Querétaro y la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro, acuerda someter al Consejo General la propuesta de modificaciones al Reglamento para Supervisores y Capacitadores-Asistentes Electorales del Instituto Electoral de Querétaro.
+
+Segundo. Las presentes modificaciones entraran en vigor al día siguiente de su aprobación por el Consejo General.
