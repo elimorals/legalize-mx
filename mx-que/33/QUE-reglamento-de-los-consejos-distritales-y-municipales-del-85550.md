@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-los-consejos-distritales-y-municipales-del-85550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-16"
-last_updated: "2011-12-16"
+last_updated: "2014-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DE LOS CONSEJOS DISTRITALES Y MUNICIPALES DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 16 de diciembre de 2011.
 
@@ -105,9 +105,13 @@ d) Presidente: Al Presidente del consejo distrital o municipal;
 
 e) Consejeros: A los consejeros que integran los consejos distritales y municipales;
 
-f) Representantes: A los representantes de los partidos políticos y coaliciones debidamente acreditados;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
 
-g) Integrantes: A los consejeros electorales, representantes de los partidos políticos y coaliciones y Secretario Técnico que formen parte de los consejos;
+f) Representantes: A los representantes de los candidatos independientes, partidos políticos y coaliciones debidamente acreditados;
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
+g) Integrantes: A los consejeros, representantes y Secretario que formen parte de los consejos;
 
 h) Secretario: Al Secretario Técnico, y
 
@@ -193,7 +197,9 @@ VI. Informar al consejo sobre sus actividades;
 
 VII. Solicitar la dispensa de la lectura de los documentos previamente distribuidos y que formen parte del orden del día;
 
-VIII. Elaborar el proyecto de acta de sesión, someterla a la aprobación del consejo y, en su caso, incorporar las observaciones planteadas a la misma por los consejeros y representantes de los partidos políticos y coaliciones;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+VIII. Elaborar el proyecto de acta de sesión, someterla a la aprobación del consejo y, en su caso, incorporar las observaciones planteadas a la misma por los integrantes;
 
 IX. Dar cuenta de los escritos que se presenten al consejo;
 
@@ -201,7 +207,9 @@ X. Auxiliar al Presidente en el cómputo del tiempo de las intervenciones para l
 
 XI. Tomar las votaciones que se efectúen en el consejo y dar a conocer el resultado de las mismas;
 
-XII. Informar sobre el cumplimiento de los acuerdos del consejo, cuando lo solicite alguno de sus miembros;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+XII. Informar sobre el cumplimiento de los acuerdos del consejo, cuando lo solicite alguno de sus integrantes;
 
 XIII. Firmar junto con el Presidente, los acuerdos y resoluciones que se aprueben;
 
@@ -219,17 +227,23 @@ XIX. Informar al consejo sobre las resoluciones que emitan los distintos órgano
 
 XX. Dar cuenta al consejo de la información que le proporcione el supervisor y, en su caso, los capacitadores-asistentes electorales sobre el desempeño de sus funciones, y
 
-XXI. Las demás que le confiera la Ley, el presente Reglamento, los acuerdos del Consejo General y los propios de los consejos.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+XXI. Las demás que le confiera la Ley, el presente Reglamento, los acuerdos, reglamentos y lineamientos aprobados por el Consejo General y los propios de los consejos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 11.
 
-Son atribuciones de los partidos políticos y coaliciones:
+Son atribuciones de los candidatos independientes, partidos políticos y coaliciones:
 
 I. Acreditar a sus representantes ante los consejos en los términos previstos por la Ley;
 
 II. Sustituir en todo tiempo a sus representantes ante los consejos, notificando dicha circunstancia por escrito al Presidente, y
 
-III. Las demás que les confiera la Ley, el presente Reglamento, los acuerdos del Consejo General y los propios de los consejos.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+III. Las demás que les confiera la Ley, el presente Reglamento, los acuerdos, reglamentos y lineamientos aprobados por el Consejo General y los propios de los consejos.
 
 ###### Artículo 12.
 
@@ -245,7 +259,9 @@ IV. Contribuir al buen desarrollo de las sesiones;
 
 V. Solicitar el recuento administrativo, y
 
-VI. Las demás que les confiera la Ley, este Reglamento, los acuerdos del Consejo General y los propios de los consejos.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+VI. Las demás que les confiera la Ley, este Reglamento, los acuerdos, reglamentos y lineamientos aprobados por el Consejo General y los propios de los consejos.
 
 ###### Artículo 13.
 
@@ -449,9 +465,11 @@ Los integrantes del consejo tendrán derecho a contestar, replicar y contrarrepl
 
 El Presidente está facultado para declarar agotada la discusión de un punto sometido a debate y, en su caso, ordenar se someta a votación.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 43.
 
-En sus intervenciones los integrantes se conducirán con respeto y sin alusiones a la vida privada o interna de los miembros del Instituto, partidos políticos, coaliciones, precandidatos, candidatos y ciudadanos.
+En sus intervenciones los integrantes se conducirán con respeto y sin alusiones a la vida privada o interna de los miembros del Instituto, partidos políticos, coaliciones, precandidatos, aspirantes a candidatos, candidatos y ciudadanos.
 
 ###### Artículo 44.
 
@@ -551,9 +569,11 @@ Corresponde al Secretario realizar el cómputo de la votación y dar cuenta de e
 
 Las determinaciones de los consejos tendrán el carácter de resoluciones y acuerdos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 57.
 
-Son resoluciones aquellas que dicten los consejos en ejercicio de sus facultades y competencias, que tengan por objeto resolver sobre los actos realizados ante ellos mismos.
+Son resoluciones aquellas que dicten los consejos en ejercicio de sus facultades y competencias, que tengan por objeto resolver sobre los actos realizados ante ellos mismos o que se relacionen con las peticiones procedentes del registro de aspirantes a candidatos independientes.
 
 Las resoluciones deberán constar por escrito, debiendo dictarse en términos de lo establecido por los artículos 59, 60, 61 y 62 de la Ley de Medios de Impugnación en Materia Electoral.
 
@@ -640,3 +660,11 @@ SEGUNDO. Para dar cumplimiento a los artículos 14 y 17 de este Reglamento, el C
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Dado en la sala de sesiones del Consejo General del Instituto Electoral de Querétaro, en sesión celebrada el día 9 de diciembre de 2011.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE FEBRERO DE 2014.
+
+Primero. Se modifica el Reglamento de los Consejos Distritales y Municipales del Instituto Electoral de Querétaro, en los términos del Acuerdo del Consejo General del Instituto Electoral de Querétaro, relativo al proyecto de dictamen mediante el cual la Comisión Transitoria que dará cumplimiento al Artículo Tercero Transitorio de la Ley por la que se reforman y adicionan diversos preceptos de la Ley Electoral del Estado de Querétaro y la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro, acuerda someter al Consejo General la propuesta de modificaciones al Reglamento de los Consejos Distritales y Municipales del Instituto Electoral de Querétaro.
+
+Segundo. Las presentes modificaciones entrarán en vigor al día siguiente de su aprobación por el Consejo General.
