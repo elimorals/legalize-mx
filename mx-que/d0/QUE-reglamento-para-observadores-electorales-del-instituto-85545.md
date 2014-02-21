@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-para-observadores-electorales-del-instituto-85545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-16"
-last_updated: "2011-12-16"
+last_updated: "2014-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "QUE"
 
 REGLAMENTO PARA OBSERVADORES ELECTORALES DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 16 de diciembre de 2011.
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE QUERÉTARO, RELATIVO AL DICTAMEN QUE EMITEN LAS COMISIONES UNIDAS DE ORGANIZACIÓN ELECTORAL, EDUCACIÓN CÍVICA Y CAPACITACIÓN ELECTORAL, Y JURÍDICA; POR EL QUE PRESENTAN A LA CONSIDERACIÓN DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE QUERÉTARO, LA APROBACIÓN DEL REGLAMENTO PARA OBSERVADORES ELECTORALES DEL INSTITUTO ELECTORAL DE QUERÉTARO.
 
-ANTECEDENTES:.
+ANTECEDENTES:
 
 Por lo tanto, con base en las consideraciones anteriores y con apoyo en lo dispuesto por las normas jurídicas transcritas, este Consejo General tiene a bien expedir el siguiente:
 
@@ -185,7 +185,9 @@ d) Dos fotografías recientes, tamaño credencial, y
 
 e) Manifestación escrita bajo protesta de decir verdad de que cumple con los requisitos señalados en el artículo 10, fracción IV de la Ley, a excepción de lo previsto en el inciso g).
 
-La solicitud, para el caso de ser acreditado como observador, deberá contener la manifestación del ciudadano, por la que se compromete a conducirse conforme a los principios de imparcialidad, objetividad, certeza, legalidad e independencia y sin vínculo a partido político u organización política alguna, atendiendo en todo tiempo lo previsto por la Ley y este ordenamiento.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
+La solicitud, para el caso de ser acreditado como observador, deberá contener la manifestación del ciudadano, por la que se compromete a conducirse conforme a los principios de imparcialidad, objetividad, certeza, legalidad e independencia y sin vínculo a candidato, partido político u organización política alguna, atendiendo en todo tiempo lo previsto por la Ley y este ordenamiento.
 
 ###### Artículo 10.
 
@@ -229,9 +231,11 @@ Los observadores podrán solicitar por escrito a los consejos, la información e
 
 La información será proporcionada siempre que existan las posibilidades legales, materiales y técnicas para su entrega.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 19.
 
-Los observadores no podrán desempeñarse simultáneamente como integrantes de las mesas directivas de casilla, ni como representantes de partido político o coalición ante los órganos electorales.
+Los observadores no podrán desempeñarse simultáneamente como integrantes de las mesas directivas de casilla, ni como representantes de candidato independiente, partido político o coalición ante los órganos electorales.
 
 ###### Artículo 20.
 
@@ -269,9 +273,11 @@ El incumplimiento de la obligación descrita en el párrafo anterior será causa
 
 En ningún caso, los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 26.
 
-Los observadores están impedidos para recibir financiamiento de los gobiernos Federal, Estatal y Municipal, de los partidos políticos, coaliciones, precandidatos, candidatos, asociaciones políticas o religiosas.
+Los observadores están impedidos para recibir financiamiento de los gobiernos Federal, Estatal y Municipal, de los aspirantes a candidatos independientes, partidos políticos, coaliciones, precandidatos, candidatos, asociaciones políticas o religiosas.
 
 ### CAPÍTULO V. De las Infracciones y las Sanciones
 
@@ -290,3 +296,11 @@ Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de
 Artículo Segundo. Publíquese en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
 Dado en la sala de sesiones del Consejo General del Instituto Electoral de Querétaro el 9 de diciembre de 2011.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE FEBRERO DE 2014.
+
+Primero. Se modifica el Reglamento para Observadores Electorales del Instituto Electoral de Querétaro, en los términos del Acuerdo del Consejo General del Instituto Electoral de Querétaro relativo al proyecto de dictamen mediante el cual la Comisión Transitoria que dará cumplimiento al Artículo Tercero Transitorio de la ley por la que se reforman y adicionan diversos preceptos de la Ley Electoral del Estado de Querétaro y la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro, acuerda someter al Consejo General la propuesta de modificaciones al Reglamento para Observadores Electorales del Instituto Electoral de Querétaro.
+
+Segundo. Las presentes modificaciones entrarán en vigor al día siguiente de su aprobación por el Consejo General.
