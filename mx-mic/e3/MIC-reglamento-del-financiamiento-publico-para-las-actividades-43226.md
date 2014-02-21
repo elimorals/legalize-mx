@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-del-financiamiento-publico-para-las-actividades-4322
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-07"
-last_updated: "2005-01-07"
+last_updated: "2014-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO DEL FINANCIAMENTO PUBLICO PARA LAS ACTIVIDADES ESPECIFICAS QUE REALICEN LOS PARTIDOS POLITICOS COMO ENTIDADES DE INTERES PUBLICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL FINANCIAMIENTO PÚBLICO PARA LAS ACTIVIDADES ESPECÍFICAS, PUBLICADO EN LA QUINTA SECCIÓN DEL P.O. DE 21 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el viernes 7 de enero de 2005.
 
@@ -392,3 +394,13 @@ MORELIA, MICH., A 04 DE ENERO DEL 2004
 LIC. RAMÓN HERNÁNDEZ REYES
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE FEBRERO DE 2014.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el cual entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se abroga el Reglamento del Financiamiento Público para las Actividades Específicas que Realicen los Partidos Políticos como Entidades de Interés Público, emitido por el Consejo General del Instituto Electoral de Michoacán el 22 de diciembre de 2004, así como cualquier disposición jurídica reglamentaria que se oponga al presente Reglamento emanado del Consejo General.
+
+TERCERO. Se ratifica el acuerdo emitido por la Comisión de Capacitación Electoral y Educación Cívica de fecha 13 de enero de 2014.
