@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2006-del-pleno-del-consejo-de-la-49539"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-03-10"
-last_updated: "2009-03-20"
+last_updated: "2014-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49539&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-02-28"
 ---
 # ACUERDO GENERAL 16/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [PRESTACION DEL "FONDO DE RESERVA INDIVIDUALIZADO" PARA EL PERSONAL OPERATIVO DE LOS ORGANOS JURISDICCIONALES FEDERALES Y DEL PROPIO CONSEJO]
 
-ACUERDO GENERAL 16/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE OTORGA LA PRESTACION DEL FONDO DE RESERVA INDIVIDUALIZADO PARA EL PERSONAL DE NIVEL OPERATIVO DE LOS ORGANOS JURISDICCIONALES FEDERALES Y DEL CONSEJO DE LA JUDICATURA FEDERAL
+ACUERDO GENERAL 16/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE OTORGA LA PRESTACIÓN DEL FONDO DE RESERVA INDIVIDUALIZADO PARA EL PERSONAL DE NIVEL OPERATIVO DE LOS ÓRGANOS JURISDICCIONALES FEDERALES Y DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE OTORGA Y REGULA LA PRESTACIÓN DEL FONDO DE RESERVA INDIVIDUALIZADO BAJO EL ESQUEMA DE FONDO DE AHORRO PARA EL PERSONAL DE NIVEL OPERATIVO DE LOS ÓRGANOS JURISDICCIONALES FEDERALES Y DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 21 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 10 de marzo de 2006.
 
@@ -193,7 +195,7 @@ QUINTO.- La intervención del Comité de Inversión de Recursos Financieros del 
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 16/2006, del Pleno del Consejo de la Judicatura Federal, por el que se Otorga la Prestación del "Fondo de Reserva Individualizado" para el Personal de Nivel Operativo de los Organos Jurisdiccionales Federales y del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de veintiocho de febrero de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente en funciones Ministro Juan Díaz Romero, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintiocho de febrero de dos mil seis.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 30 DE JUNIO DE 2006.
 
@@ -208,3 +210,19 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 16/2006, del Pleno del Consejo de la Judicatura Federal, por el que se Otorga la Prestación del "Fondo de Reserva Individualizado" para el Personal de Nivel Operativo de los Organos Jurisdiccionales Federales y del Consejo de la Judicatura Federal.
+
+D.O.F. 21 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Acuerdo entrará en vigor a más tardar el 1 de diciembre del 2012.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
+
+TERCERO.- Se abroga el Acuerdo General 16/2006, del Pleno del Consejo de la Judicatura Federal, por el que se otorga la Prestación del Fondo de Reserva Individualizado para el Personal de Nivel Operativo de los Órganos Jurisdiccionales Federales y del Consejo de la Judicatura Federal.
+
+CUARTO.- Una vez autorizada por el Pleno a la institución a través de la o las sociedades de inversión que administren el fondo así como el acto jurídico mediante el cual se formalizará, se informará al personal operativo de dicha determinación por conducto de la Dirección General de Servicios al Personal.
+
+QUINTO.- La capitalización del patrimonio del Fondo se integrará con los recursos presentes y futuros existentes al momento del cambio de operación de dicho Fondo.
+
+No se incluirán aquellos recursos retirados con antelación ni formarán parte del mismo los servidores públicos que se hayan dado de baja por separación definitiva del encargo.
+
+SEXTO.- Los préstamos empezarán a operar en un plazo no mayor de 180 días a partir de la contratación de la Institución que prestará el servicio de administración del patrimonio del Fondo.
