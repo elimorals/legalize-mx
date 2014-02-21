@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-instituto-electoral-de-queretaro-29065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-14"
-last_updated: "2013-04-12"
+last_updated: "2014-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2003.
 
@@ -87,9 +87,11 @@ DIRECTOR: El Director General del Instituto.
 
 ÓRGANOS TÉCNICOS: Las Coordinaciones de Información y Medios, Jurídica y de Asesores de los Consejeros del Consejo.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 3.
 
-El presente Reglamento es de observancia obligatoria para los integrantes del Consejo General, Consejos Distritales, Consejos Municipales, órganos operativos, técnicos y de vigilancia del Instituto y partidos políticos.
+El presente reglamento es de observancia obligatoria para los integrantes del Consejo General, Consejos Distritales y Municipales, órganos operativos, técnicos y de vigilancia del Instituto, partidos políticos y candidatos independientes.
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
@@ -213,9 +215,11 @@ En el desempeño de sus funciones, los servidores públicos del Instituto deber�
 
 El Consejo se integra de conformidad con lo dispuesto por el artículo 61 de la Ley.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 18.
 
-Para cubrir las ausencias del representante propietario, los partidos políticos o coaliciones podrán acreditar un suplente, sin que puedan actuar ambos representantes en una misma sesión de manera simultánea.
+Para cubrir las ausencias del representante propietario, los candidatos independientes, partidos políticos o coaliciones podrán acreditar un suplente, sin que puedan actuar ambos representantes en una misma sesión de manera simultánea.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -265,9 +269,9 @@ II. Educación Cívica y Capacitación Electoral;
 
 III. Control Interno;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
 
-IV. Fortalecimiento del Régimen de Partidos;
+IV. Fortalecimiento de la Cultura Política;
 
 V. Editorial y Biblioteca; y (sic)
 
@@ -277,19 +281,19 @@ VI. Jurídica.
 
 VII. Comisión de Trasparencia (sic) y Acceso a la Información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 27.
 
-Las comisiones permanentes serán integradas por tres Consejeros Electorales y dos representantes de partidos políticos o coaliciones, debiendo elegirse un presidente, un secretario y un vocal, sin que puedan recaer dichos cargos en representantes de partidos políticos o coaliciones, quienes sólo tendrán derecho a voz. En el caso de la Comisión de Fortalecimiento del Régimen de Partidos, durante el periodo de proceso electoral se integrará por todos los representantes de los partidos políticos o coaliciones, debiendo elegirse de entre los tres Consejeros Electorales un presidente y dos vocales; el Coordinador de Información y Medios fungirá como Secretario Técnico, quien concurrirá con voz informativa.
+Las comisiones permanentes serán integradas por tres Consejeros Electorales y dos representantes de, partidos políticos o coaliciones, debiendo elegirse un presidente, un secretario y un vocal, sin que puedan recaer dichos cargos en representantes de candidatos independientes, partidos políticos o coaliciones, quienes sólo tendrán derecho a voz. En el caso de la Comisión de Fortalecimiento de la Cultura Política, durante el periodo de proceso electoral se integrará por todos los representantes de los candidatos independientes que contiendan para la gubernatura, partidos políticos o coaliciones, debiendo elegirse de entre los tres Consejeros Electorales un presidente y dos vocales; el Coordinador de Información y Medios fungirá como Secretario Técnico, quien concurrirá con voz informativa.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
 
-Por lo que respecta a la Comisión de Trasparencia (sic) y Acceso a la Información, contará con un Secretario Técnico, que será el titular de la Coordinación jurídica, concurriendo con voz informativa.
+Por lo que respecta a la Comisión de Trasparencia (sic) y Acceso a la Información, contará con un Secretario Técnico, que será el titular de la Coordinación Jurídica, concurriendo con voz informativa.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
 
-Los representantes de partidos políticos o coaliciones serán aquellos que integren el Consejo General de conformidad con la fracción III del artículo 61 de la Ley.
+Los representantes de candidatos independientes, partidos políticos o coaliciones serán aquellos que integren el Consejo General de conformidad con la fracción III del artículo 61 de la Ley.
 
 Los integrantes del Consejo podrán participar en las sesiones de trabajo de cualquier Comisión o del Comité, aun cuando no pertenezcan a ellas.
 
@@ -387,7 +391,9 @@ III. Elaborar y rendir los proyectos de dictamen sobre los informes semestrales 
 
 IV. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
 
-V. Conocer el anteproyecto de presupuesto que habrá de presentar el Director al Presidente y hacer las recomendaciones pertinentes, atendiendo al plazo que para tal efecto previene el artículo 37 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+V. Conocer el anteproyecto de presupuesto presentado por el Director al Presidente, hacer recomendaciones, atendiendo al plazo que para tal efecto previene la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
 
 VI. Elaborar los contenidos del Programa Anual de Auditoria Interna del Instituto, para que una vez que sean aprobados por la misma, se incorporen a la propuesta del Programa General de Trabajo del Instituto, que la Dirección General debe poner a consideración del Consejo;
 
@@ -413,7 +419,9 @@ XIII. Vigilar, a través de la participación de su Presidente o del Consejero E
 
 XIV. Recibir, tramitar y resolver las inconformidades que presenten los concursantes y proveedores, respecto de los actos del Comité que contravengan, en su caso, las disposiciones aplicables en materia de adquisiciones, enajenaciones, arrendamientos o contratación de servicios;
 
-XV. Recibir, tramitar y resolver las solicitudes de revisión que presenten los particulares, respecto de las peticiones de información institucional que formulen en ejercicio del derecho de acceso a la información pública y que haya sido negada;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+XV. Vigilar por el acceso de los particulares a la información pública del Instituto Electoral de Querétaro;
 
 XVI. Integrar el registro de los servidores públicos del Instituto que hayan sido sancionados administrativamente;
 
@@ -421,27 +429,35 @@ XVII. Participar en los actos de entrega-recepción de los servidores públicos 
 
 XVIII. Las demás que le confiera la Ley, el presente Reglamento y las disposiciones que para los órganos de naturaleza análoga previenen la Ley de Responsabilidades de los Servidores Públicos, la Ley para el Manejo de los Recursos Públicos, la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios y la Ley Estatal de Acceso a la Información Gubernamental, todas del Estado de Querétaro, entre otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 37.
 
-La Comisión de Fortalecimiento del Régimen de Partidos tiene competencia para:
+La Comisión de Fortalecimiento de la Cultura Política tiene competencia para:
 
 I. Expedir su reglamento y turnarlo a la Secretaría Ejecutiva para la integración del archivo del Consejo;
 
-II. Diseñar y ejecutar acciones orientadas al fortalecimiento del régimen de partidos en la entidad;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+II. Diseñar y ejecutar acciones orientadas al fortalecimiento del régimen de la cultura política en la entidad;
 
 III. Diseñar y ejecutar programas de apoyo para las asociaciones políticas acreditadas en la entidad;
 
-IV. Realizar los actos que determine la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, la Ley Electoral del Estado de Querétaro, el Reglamento de Acceso a Radio y Televisión en materia Electoral del instituto Federal Electoral y los acuerdos aplicables, en su caso, a efecto de coadyuvar en el desahogo de los procedimientos establecidos, para garantizar el acceso a la radio y televisión de los partidos políticos y coaliciones en la entidad;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+IV. Realizar los actos que determine la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, la Ley Electoral del Estado de Querétaro, el Reglamento de Acceso a Radio y Televisión en Materia Electoral del Instituto Federal Electoral y los acuerdos aplicables, en su caso, a efecto de coadyuvar en el desahogo de los procedimientos establecidos, para garantizar el acceso a la radio y televisión de los candidatos independientes, partidos políticos y coaliciones en la entidad;
 
 V. Elaborar y someter a la consideración del Consejo, el proyecto de criterios generales que deberán adoptar las personas físicas y morales u organizaciones interesadas en producir, publicar o difundir encuestas o sondeos de opinión, que tengan por objeto dar a conocer las preferencias electorales o las tendencias de las votaciones;
 
-VI. Elaborar los proyectos de convenios que en su caso habrán de celebrarse con los medios de comunicación impresos y electrónicos, a excepción de radio y televisión, a fin de garantizar que las tarifas que se cobren no sean superiores a las comerciales e iguales para todos los partidos políticos, así como de la imposibilidad de obsequiar espacios a algún partido político, salvo que se haga con todos en la misma proporción;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+VI. Elaborar los proyectos de convenios que en su caso habrán de celebrarse con los medios de comunicación impresos y electrónicos, a excepción de radio y televisión, a fin de garantizar que las tarifas que se cobren no sean superiores a las comerciales e iguales para todos los candidatos independientes, partidos políticos y coaliciones, así como de la imposibilidad de obsequiar espacios a alguno de los tres referidos con anterioridad, salvo que se haga con todos en la misma proporción;
 
 VII. Conocer los estudios que remita el Secretario Ejecutivo, derivado de la elaboración de encuestas o sondeos de opinión que sobre asuntos electorales realicen las personas físicas o morales; debiendo remitir al Consejo el dictamen respectivo para que resuelva lo procedente en términos de lo dispuesto por el artículo 113 fracción I de la Ley.
 
-VIII. Conocer las actividades desarrolladas por la Coordinación de Información y Medios, en materia de acceso de los partidos políticos y coaliciones al uso de tiempo en radio y televisión asignado por el Instituto Federal Electoral para los procesos electorales estatales y, en su caso, hacer del conocimiento del presidente el incumplimiento en que incurra esta Coordinación en asuntos de su competencia vinculados con esta comisión.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+VIII. Conocer las actividades desarrolladas por la Coordinación de Información y Medios, en materia de acceso de los candidatos independientes, partidos políticos y coaliciones al uso de tiempo en radio y televisión asignado por el Instituto Federal Electoral para los procesos electorales estatales y, en su caso, hacer del conocimiento del presidente el incumplimiento en que incurra esta Coordinación en asuntos de su competencia vinculados con esta comisión;
 
 IX. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones, que así lo requieran;
 
@@ -677,9 +693,9 @@ II. (DEROGADA, P.O. 11 DE FEBRERO DE 2011) (REPUBLICADA, P.O. 18 DE MARZO DE 201
 
 III. Rendir los informes y demás documentos que la Comisión de Control Interno le requiera en ejercicio de la atribución prevista en la fracción XV del artículo 36 de este Reglamento;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
 
-IV. Fungir como Secretaría Técnica de la Comisión de Fortalecimiento del Régimen de Partidos;
+IV. Fungir como Secretaria Técnica de la Comisión de Fortalecimiento de la Cultura Política;
 
 V. Atender los requerimientos que formulen representantes, comunicadores, corresponsales y directivos de medios de comunicación masiva locales y nacionales y prestar apoyo institucional en el cumplimiento de su labor informativa;
 
@@ -851,9 +867,11 @@ En ningún caso podrá suspenderse la sesión una vez iniciada ésta, sin embarg
 
 Corresponde al Presidente conducir las sesiones, auxiliado del Secretario Ejecutivo.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 75.
 
-Los Consejeros Electorales concurrirán a las sesiones con voz y voto, los representantes de partidos políticos o coaliciones sólo con derecho a voz; el Director concurrirá sólo con voz informativa.
+Los Consejeros Electorales concurrirán a las sesiones con voz y voto, los representantes de candidatos independientes al cargo de Gobernador, partidos políticos o coaliciones sólo con derecho a voz; el Director concurrirá sólo con voz informativa; (sic)
 
 ###### Artículo 76.
 
@@ -869,9 +887,11 @@ De no darse el quórum legal, se levantará constancia y se procederá a sesiona
 
 Los Consejeros Electorales y representantes de partidos políticos o coaliciones, podrán integrarse en el transcurso de la sesión, haciéndose constar esta situación en el acta respectiva, pero de ninguna manera podrá ser computada su asistencia para efectos de quórum legal.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 79.
 
-Los representantes de los partidos políticos recibirán una dieta por cada asistencia a las sesiones del Consejo, la cual será determinada de acuerdo a la disponibilidad presupuestal del Instituto.
+Los representantes de los candidatos independientes al cargo de Gobernador, partidos políticos recibirán una dieta por cada asistencia a las sesiones del Consejo, la cual será determinada de acuerdo a la disponibilidad presupuestal del Instituto; (sic)
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
@@ -1179,19 +1199,21 @@ Para ser Coordinador de Partidos y Asociaciones Políticas de la Dirección Ejec
 
 Corresponde a la Coordinación de Partidos y Asociaciones Políticas las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
 
-I. Apoyar a la Dirección Ejecutiva en las actividades encaminadas a que los partidos políticos o coaliciones ejerzan sus prerrogativas en los términos de la Ley;
+I. Apoyar a la Dirección Ejecutiva en las actividades encaminadas a que los candidatos independientes, partidos políticos o coaliciones ejerzan sus prerrogativas en los términos de la Ley;
 
 II. Llevar el libro de registro de los integrantes de los órganos y directivos de los partidos políticos encargados de su administración financiera, así como de recibir el financiamiento público;
 
-III. Proporcionar a los encargados de los registros contables de los partidos políticos con registro, la asesoría y orientación necesaria para que cumplan con sus obligaciones contables;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+III. Proporcionar a los encargados de los registros contables de los candidatos independientes, partidos políticos, coaliciones y asociaciones políticas con registro, la asesoría y orientación necesaria para que cumplan con sus obligaciones contables;
 
 IV. Expedir los manuales sobre las disposiciones de la reglamentación aplicable;
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
 
-V. Elaborar los anteproyectos de dictamen relativos a los estados financieros ordinarios y a los gastos de precampaña y campaña que presentan los partidos políticos, coaliciones y asociaciones políticas ante el Consejo, según corresponda, para someterlos a la consideración del Director Ejecutivo de Organización Electoral;
+V. Elaborar los anteproyectos de dictamen relativos a los estados financieros ordinarios y a los gastos de precampaña y campaña que presentan los candidatos independientes, partidos políticos, coaliciones y asociaciones políticas ante el Consejo, según corresponda, para someterlos a la consideración del Director Ejecutivo de Organización Electoral;
 
 VI. Cumplir y hacer cumplir las normas y procedimientos previstos en la reglamentación correspondiente;
 
@@ -1273,6 +1295,10 @@ CUARTO.- Para los efectos de lo previsto en el artículo 29, la convocatoria par
 
 QUINTO.- Los artículos 126, 127, 128 y 129 entrarán en vigor a partir de la expedición del Estatuto del Servicio Profesional Electoral y de la asignación de la partida presupuestal correspondiente.
 
+P.O. 6 DE FEBRERO DE 2009.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su aprobación por el Consejo General.
+
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE ENERO DE 2006.
@@ -1290,10 +1316,6 @@ CUARTO.- Estas reformas al Reglamento Interior entrarán en vigor el día de su 
 QUINTO.- Se instruye a los integrantes propietarios del Comité para que designen a los integrantes suplentes en los términos que previenen las reformas aprobadas.
 
 SEXTO.- Se ordena su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
-
-P.O. 6 DE FEBRERO DE 2009.
-
-PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su aprobación por el Consejo General.
 
 P.O. 12 DE FEBRERO DE 2010.
 
@@ -1344,3 +1366,19 @@ Segundo. El Director General y el actual Encargado de la Unidad de Informática,
 Tercero. Los informes de actividades que los Presidentes de cada comisión permanente deberán rendir de manera trimestral al Consejo General, se llevarán a cabo a partir del segundo trimestre de la presente anualidad.
 
 Cuarto. Se derogan todas aquellas disposiciones reglamentarias internas que contravengan las adiciones, reformas y derogaciones aprobadas.
+
+P.O. 21 DE FEBRERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, 18, 26, FRACCIÓN IV, 27 PRIMER PÁRRAFO, 37 PRIMER PÁRRAFO, 57 FRACCIÓN IV, 75, 79, 125 FRACCIÓN I, III Y V, DEL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO.
+
+Primero. Se modifica el Reglamento Interior del Instituto Electoral de Querétaro, en los términos del Acuerdo del Consejo General del Instituto Electoral de Querétaro, relativo al proyecto de dictamen mediante el cual la Comisión Transitoria que dará cumplimiento al Artículo Tercero Transitorio de la Ley por la que se reforman y adicionan diversos preceptos de la Ley Electoral del Estado de Querétaro y la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro, acuerda someter al Consejo General la propuesta de modificaciones al Reglamento Interior del Instituto Electoral de Querétaro.
+
+Segundo. Las presentes modificaciones entrarán en vigor al día siguiente de su aprobación por el Consejo General.
+
+P.O. 21 DE FEBRERO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 36 FRACCIONES V Y XV DEL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO.
+
+Primero. Se reforma el Reglamento Interior del Instituto Electoral de Querétaro, la cual consiste en modificar la redacción de las fracciones V y XV del artículo 36 del presente ordenamiento.
+
+Segundo. La presente reforma entrará en vigor al día siguiente de su aprobación por el Consejo General.
