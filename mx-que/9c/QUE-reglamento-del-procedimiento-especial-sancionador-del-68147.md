@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-procedimiento-especial-sancionador-del-68147"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-10"
-last_updated: "2011-12-16"
+last_updated: "2014-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # REGLAMENTO DEL PROCEDIMIENTO ESPECIAL SANCIONADOR DEL INSTITUTO ELECTORAL DE QUERETARO
 
-REGLAMENTO DEL PROCEDIMIENTO ESPECIAL SANCIONADOR DEL INSTITUTO ELECTORAL DE QUERETARO
+REGLAMENTO DEL PROCEDIMIENTO ESPECIAL SANCIONADOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 10 de abril de 2009.
 
@@ -69,11 +69,11 @@ REGLAMENTO DEL PROCEDIMIENTO ESPECIAL SANCIONADOR DEL INSTITUTO ELECTORAL DE QUE
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 1.
 
-El presente reglamento es de orden público y de observancia general en todo el Estado, tiene como objetivo regular el procedimiento especial sancionador, cuando durante los procesos electorales locales, sean denunciados actos probablemente constitutivos de violaciones a lo dispuesto en los artículos 6, 32 fracción III, 106, 107, 108, 110 y 232 de la Ley Electoral del Estado de Querétaro.
+El presente reglamento es de orden público y de observancia general en todo el Estado, tiene como objetivo regular el procedimiento especial sancionador, cuando durante los procesos electorales locales, sean denunciados actos probablemente constitutivos de violaciones a lo dispuesto en los artículos 6, 32, fracción III, 106, 107, 108, 110 y 256 de la Ley Electoral del Estado de Querétaro.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -105,15 +105,17 @@ V. Secretaría. A La Secretaría Ejecutiva del Consejo.
 
 El procedimiento especial sancionador será instrumentado cuando:
 
-I. Los servidores públicos de la federación, del estado y los municipios, apliquen los recursos públicos que están bajo su responsabilidad con parcialidad, influyendo en la equidad de la competencia durante los procesos electorales locales, entre los partidos políticos, precandidatos y candidatos, sea a favor o en contra de ellos;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+I. Los servidores públicos de la federación, del estado y los municipios, apliquen los recursos públicos que están bajo su responsabilidad con parcialidad, influyendo en la equidad de la competencia durante los procesos electorales locales, entre los partidos políticos, precandidatos, aspirantes a candidatos independientes, candidatos y candidatos independientes, sea a favor o en contra de ellos;
 
 II. La propaganda que difundan los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de gobierno, no tenga carácter institucional y fines informativos, educativos o de orientación social; o bien, dicha propaganda incluya nombres, imágenes, voces, frases publicitarias o símbolos que impliquen promoción personalizada de cualquier servidor público;
 
 III. Se contravengan las normas sobre propaganda política o electoral establecidas en Ley; y
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
 
-IV. Constituyan actos anticipados de precampaña y campaña.
+IV. Constituyan actos anticipados de precampaña, de obtención del respaldo ciudadano y campaña.
 
 Cuando se denuncie ante el Instituto la difusión de propaganda en radio y televisión, presuntamente infractora, se procederá en los términos previstos por el artículo 52 tercer párrafo inciso b) de la Ley.
 
@@ -207,9 +209,11 @@ De la Denuncia.
 
 El procedimiento especial sólo podrá iniciar a instancia de parte, cuando la Secretaría reciba la denuncia correspondiente.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 14.
 
-Cualquier ciudadano podrá presentar denuncias por probables violaciones a lo dispuesto por el artículo 5 del presente ordenamiento. Los partidos políticos lo harán por medio de sus legítimos representantes, y las personas físicas lo harán por su propio derecho o a través de la persona legalmente autorizada para tales efectos.
+Cualquier ciudadano podrá presentar denuncias por probables violaciones a lo dispuesto por el artículo 5 del presente ordenamiento. Los partidos políticos lo harán por medio de sus legítimos representantes, y las personas físicas, como también, los aspirantes a candidatos independientes y los candidatos independientes, lo harán por su propio derecho o a través de la persona legalmente autorizada para tales efectos.
 
 ###### Artículo 15.
 
@@ -415,11 +419,11 @@ El Consejo determinará la procedencia sobre el retiro físico o suspensión en 
 
 Las infracciones cometidas por la inobservancia, trasgresión o incumplimiento de las disposiciones contenidas en este reglamento, serán determinadas por el Consejo conforme a lo dispuesto por la Ley.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 36.
 
-Para la individualización de las sanciones, una vez acreditada la existencia de una infracción, se procederá conforme al artículo 224 de la Ley.
+Para la individualización de las sanciones, una vez acreditada la existencia de una infracción, se procederá conforme al artículo 248 de la Ley.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -446,3 +450,9 @@ P.O. 16 DE DICIEMBRE DE 2011.
 Primero. Las presentes reformas al Reglamento entrarán en vigor el día siguiente de su aprobación por el Consejo.
 
 Segundo. Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 21 DE FEBRERO DE 2014.
+
+Primero. Se modifica el Reglamento del Procedimiento Especial Sancionador del Instituto Electoral de Querétaro, en los términos del Acuerdo del Consejo General del Instituto Electoral de Querétaro relativo al proyecto de dictamen mediante el cual la Comisión Transitoria que dará cumplimiento al Artículo Tercero Transitorio de la Ley por la que se reforman y adicionan diversos preceptos de la Ley Electoral del Estado de Querétaro y la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro, acuerda someter al Consejo General la propuesta de modificaciones al Reglamento del Procedimiento Especial Sancionador del Instituto Electoral de Querétaro.
+
+Segundo. Las presentes modificaciones entrarán en vigor al día siguiente de su aprobación por el Consejo General.
