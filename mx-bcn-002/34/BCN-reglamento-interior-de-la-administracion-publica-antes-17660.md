@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2012-09-28"
+last_updated: "2014-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -181,7 +181,7 @@ Asimismo, podrá promover acciones de carácter civil, administrativo o laboral,
 
 Además, podrá conciliar o convenir los asuntos contenciosos en los que sea parte el Municipio, así como aquellos que le puedan generar algún litigio; convenir el pago de daños de los que sea responsable, o las condenas que se dicten en su contra.
 
-También podrá actuar en calidad de representante legal del Municipio, en los términos enunciativos y no limitativos de los artículos 11, 692 fracciones II y IIl, y 876 de la Ley Federal del Trabajo, y con tal carácter representarlo por sí, o por medio de apoderados a los que faculte, ante las autoridades administrativas laborales, las Juntas Locales y Federal de Conciliación y Arbitraje, y el Tribunal de Arbitraje del Estado, en cualquier audiencia fuera o dentro de juicio, y en toda la secuela de éste, con las facultades patronales para hacer arreglos conciliatorios, celebrar convenios y transacciones; y,
+También podrá actuar en calidad de representante legal del Municipio, en los términos enunciativos y no limitativos de los artículos 11, 692 fracciones II y III, y 876 de la Ley Federal del Trabajo, y con tal carácter representarlo por sí, o por medio de apoderados a los que faculte, ante las autoridades administrativas laborales, las Juntas Locales y Federal de Conciliación y Arbitraje, y el Tribunal de Arbitraje del Estado, en cualquier audiencia fuera o dentro de juicio, y en toda la secuela de éste, con las facultades patronales para hacer arreglos conciliatorios, celebrar convenios y transacciones; y,
 
 III.- Nombrar uno o más apoderados generales o especiales, para que ejerzan las facultades de representación del Municipio que se mencionan en la fracción anterior, otorgar y revocar sus poderes, o sustituir el mandato.
 
@@ -291,7 +291,7 @@ II.- Ejercer las facultades que le confieran las Leyes, los reglamentos municipa
 
 III.- Cumplir con las obligaciones que les establezcan las Leyes, los diversos reglamentos municipales, los acuerdos del Ayuntamiento, y las disposiciones que emita el Presidente Municipal;
 
-lV.- Atender las normas y lineamientos establecidos para el ejercicio y control del gasto público;
+IV.- Atender las normas y lineamientos establecidos para el ejercicio y control del gasto público;
 
 V.- Permitir a la Sindicatura Municipal el ejercicio de sus atribuciones de fiscalización y control, proporcionándole la información que les solicite, y atendiendo sus citaciones, recomendaciones y observaciones;
 
@@ -307,7 +307,7 @@ X.- Mantener estrecha relación con las demás dependencias, entidades y departa
 
 XI.- Coordinar la integración de los proyectos de ingresos y egresos de la dependencia, entidad o departamento;
 
-XIl.- Informar o comparecer a la comisión del Ayuntamiento que le corresponda, con la periodicidad que aquel determine, de las actividades realizadas por la dependencia, entidad, o departamento;
+XII.- Informar o comparecer a la comisión del Ayuntamiento que le corresponda, con la periodicidad que aquel determine, de las actividades realizadas por la dependencia, entidad, o departamento;
 
 XIII.- Atender diligentemente y resolver en su caso, los planteamientos y consultas que respecto de asuntos competencia de la dependencia, entidad o departamento, les formulen los Regidores del Ayuntamiento;
 
@@ -317,7 +317,7 @@ XV.- Proporcionar la información necesaria con la finalidad de cumplir con los 
 
 XVI.- Dar respuesta a las peticiones que por escrito les sean formuladas por los particulares, en un término máximo de veinte días hábiles, cuando no se prevea otro término en los ordenamientos aplicables;
 
-XVIl.- Coordinar y supervisar las actividades que lleve a cabo el personal a su cargo;
+XVII.- Coordinar y supervisar las actividades que lleve a cabo el personal a su cargo;
 
 XVIII.- Establecer mecanismos para asegurar la asistencia y presencia en sus labores del personal a su cargo;
 
@@ -337,7 +337,7 @@ XXIII.- Presentar la Declaración Patrimonial, conforme lo establece la Ley de R
 
 La Declaración Patrimonial de los Titulares de las Dependencias de la Administración Pública Municipal Centralizada, de las Entidades Paramunicipales, la del Subdirector de Operación y Seguimiento de la Secretaría del Ayuntamiento y del Jefe del Departamento de Recursos Materiales de Oficialía Mayor se publicarán en el Periódico Oficial del Estado de Baja California, dentro de los 30 días siguientes a aquel en que concluyan los plazos señalados en el Artículo 78 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MARZO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2009)</small>
 
 ### CAPITULO SEPTIMO. DE LAS COORDINACIONES ADMINISTRATIVAS
 
@@ -421,7 +421,7 @@ X.- Supervisar y mantener en buen estado de funcionalidad los bienes muebles e i
 
 XI.- Las demás que le señalen los titulares de la dependencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION CENTRALIZADA
 
@@ -443,7 +443,7 @@ V.- Dirección de Obras Públicas;
 
 VI.- Dirección de Servicios Públicos;
 
-VIl.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2002)
+VII.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -571,9 +571,9 @@ V.- Fortalecer y apoyar las actividades deportivas, artísticas y culturales vin
 
 VI.- Establecer mecanismos de atención y fortalecimiento de acciones hacia las personas con discapacidad;
 
-VIl.- Promover las captación de recursos que sean destinados al desarrollo de actividades y programas de ayuda a las personas con discapacidad;
+VII.- Promover las captación de recursos que sean destinados al desarrollo de actividades y programas de ayuda a las personas con discapacidad;
 
-VIlI.- Recibir y canalizar a las instancias competentes, quejas y sugerencias sobre la atención de las autoridades a las personas con discapacidad;
+VIII.- Recibir y canalizar a las instancias competentes, quejas y sugerencias sobre la atención de las autoridades a las personas con discapacidad;
 
 IX.- Proponer se introduzcan adecuaciones al sistema del transporte público para facilitar el acceso traslado y costo a las personas con discapacidad;
 
@@ -1289,7 +1289,7 @@ XXV.- Realizar trabajos de construcción, conservación, mantenimiento, remodela
 
 XXVI.- Realizar obra pública por administración directa, a las instalaciones de las dependencias y entidades de la Administración Pública Municipal, conforme a lo dispuesto por el marco jurídico aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 60.
 
@@ -1413,7 +1413,7 @@ V.- Adquirir el material, refacciones y partes a utilizar en la reparación y ma
 
 VI.- Mantener un padrón de proveedores autorizados conforme a las disposiciones aplicables, para la prestación de los servicios de reparación y mantenimiento de vehículos, equipo de transporte y maquinaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 65.
 
@@ -1621,7 +1621,7 @@ IV.- Efectuar el mantenimiento y sincronización de los semáforos instalados en
 
 V.- Instalar sistemas de alumbrado, decoraciones y adornos en la vía pública, en fiestas memorables promovidas por el gobierno municipal.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO NOVENO. DE LA DIRECCION DE ECOLOGIA
 
@@ -1761,7 +1761,7 @@ II.- Detectar e intervenir fuentes contaminantes de relevancia a fin de prioriza
 
 ### CAPITULO DECIMO PRIMERO. DE LA DIRECCION DEL HEROICO CUERPO DE BOMBEROS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 90.
 
@@ -1935,7 +1935,7 @@ I.- Elaborar el proyecto de presupuesto de egresos de la Dirección conforme a l
 
 II.- Proponer al Director el establecimiento y aplicación de disposiciones y lineamientos para el manejo eficiente de los recursos que sean asignados a la dependencia para el desarrollo de sus funciones;
 
-IIl.- Supervisar que los departamentos de su área, suministren a las demás áreas de la Dirección, los elementos necesarios para el desarrollo de las tareas que tengan asignadas;
+III.- Supervisar que los departamentos de su área, suministren a las demás áreas de la Dirección, los elementos necesarios para el desarrollo de las tareas que tengan asignadas;
 
 IV.- Coordinar los servicios de mantenimiento y conservación de los bienes que se asignen a la Dirección para el cumplimiento de sus objetivos;
 
@@ -1955,7 +1955,7 @@ XI.- Llevar el control y registro de las sanciones administrativas o disciplinar
 
 XII.- Solicitar y coordinar la recepción y distribución de uniformes, unidades policíacas, equipo y armamento necesarios para desempeñar las funciones encomendadas a la Dirección;
 
-XIIl.- Monitorear y supervisar la implementación de controles sistemáticos y automatizados para eficientar las actividades de la Dirección y generar información clara, oportuna y veraz; y,
+XIII.- Monitorear y supervisar la implementación de controles sistemáticos y automatizados para eficientar las actividades de la Dirección y generar información clara, oportuna y veraz; y,
 
 XIV.- Proponer políticas y procedimientos administrativos para agilizar los trámites correspondientes y optimizar el desempeño de las actividades del personal.
 
@@ -2035,7 +2035,7 @@ XI.- Verificar el adecuado servicio y mantenimiento del equipo de cómputo de la
 
 XII.- Apoyar en el diseño de formatos que se requieran en las diferentes áreas de la Dirección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 96.
 
@@ -2049,7 +2049,7 @@ La Subdirección de Policía y Tránsito se dividirá en dos:
 
 2.- Zona Urbana Oriente, Rural y San Felipe
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 Las cuales dependerán de un Subdirector por zona y tendrán como función elaborar, ejecutar y supervisar los planes, programas, acciones y políticas que tengan por objeto la prevención de delitos y faltas administrativas, la preservación del orden, seguridad, armonía y tranquilidad pública, así como los relativos al servicio de tránsito municipal, por lo que se encargarán de:
 
@@ -2083,7 +2083,7 @@ XI.- Evaluar periódicamente el desempeño profesional de los elementos activos 
 
 XII.- Desarrollar y supervisar los planes de prevención a cargo de la Unidad Contra la Violencia Intrafamiliar, la Unidad para la Atención de Menores de Edad, y la Unidad Especializada de Atención al turista.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ARTICULO 96 BIS.- La Unidad Contra la Violencia Intrafamiliar, a la que hace mención en la última fracción del artículo anterior, dependerá de un Coordinador y será la encargada de asistir en primera instancia a las víctimas de esta, y tendrá las siguientes atribuciones:
 
@@ -2293,7 +2293,7 @@ XII.- Formular, fomentar y desarrollar cursos para la población en general en m
 
 XIII.- Establecer coordinación con otras instancias, para promover el desarrollo escolar de los elementos de la corporación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ### CAPITULO DECIMO SEGUNDO. DE LA DIRECCION DE COMUNICACION SOCIAL
 
@@ -2321,7 +2321,7 @@ IV.- Implementar acciones para el control y extinción de incendios, rescate de 
 
 V.- Desarrollar y coordinar la implementación de los planes de contingencias para la atención y control de eventualidades con riesgo de siniestros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 102.
 
@@ -2335,7 +2335,7 @@ I.- Técnico; y
 
 II.- Operativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 103.
 
@@ -2535,7 +2535,7 @@ II.- Promover e incrementar las relaciones entre el Municipio, con otros naciona
 
 III.- Promover y difundir tanto política, social, económica, cultural y tecnológicamente, la política internacional del gobierno municipal puestas de manifiesto en las Sesiones de las Comisiones y el Honorable Cabildo.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2004)</small>
 
 ### CAPITULO DECIMO QUINTO. DE LA DIRECCION DE CULTURA
 
@@ -2809,7 +2809,7 @@ VII.- La dependencia coordinadora de sector, con la que trabajarán, conforme a 
 
 ### CAPITULO SEGUNDO. DE LA DIRECCION DE CONTRALORIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 124.
 
@@ -2843,11 +2843,13 @@ IX.- Aplicar a los servidores públicos y a los elementos o miembros pertenecien
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
 
-X- Designar a las personas que auxiliarán en la recepción de quejas, denuncias y substanciación de los procedimientos correspondientes en contra de la actuación de servidores públicos y de los elementos o miembros de los Cuerpos de Seguridad Pública Municipal, por incumplimiento a las disposiciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado, y demás disposiciones legales y ordenamientos normativos;
+X.- Designar a las personas que auxiliarán en la recepción de quejas, denuncias y substanciación de los procedimientos correspondientes en contra de la actuación de servidores públicos y de los elementos o miembros de los Cuerpos de Seguridad Pública Municipal, por incumplimiento a las disposiciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado, y demás disposiciones legales y ordenamientos normativos;
 
 XI.- Conocer e investigar de oficio, o por virtud de queja o denuncia, los actos, omisiones o conductas de los servidores públicos que les pueden generar responsabilidades en el ejercicio de su función; instruir los procedimientos correspondientes, y en su caso, aplicar las sanciones que procedan;
 
-XII.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias de la población en general, en relación a prestación de servicios públicos municipales, y al trato que otorguen los servidores públicos en la atención a las personas. La Sindicatura deberá canalizar los reportes que reciba a las dependencias y entidades a las que corresponda atender el asunto del que se trate, y además verificar que se dé dicha atención;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+
+XII.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias que reciba directamente de la población en general o que le sean turnadas por la Sindicatura Social, respecto al trato que otorguen los servidores públicos en la atención a las personas. La Sindicatura deberá canalizar los reportes que reciba a las dependencias y entidades a las que corresponda atender el asunto del que se trate, y además verificar que se dé dicha atención;
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -2875,7 +2877,7 @@ e) Integrar quórum, y participar con voz y voto en todas las sesiones de los ó
 
 f) Verificar que se remitan oportunamente al Congreso del Estado, las cuentas públicas de la entidad, para su revisión, cumpliendo con los requisitos legales que correspondan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 125.
 
@@ -2893,11 +2895,11 @@ II.- Jurídica; y
 
 III.- Fiscalización.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO TERCERO. DE LA DIRECCION JURIDICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 126.
 
@@ -2961,11 +2963,11 @@ II.- De Responsabilidades Especializado en Asuntos de la Dirección de Seguridad
 
 III.- De Supervisión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO CUARTO. DE LA DIRECCION DE FISCALIZACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ARTICULO 129 BIS.- La Dirección de Fiscalización se encargará de la vigilancia y control de las dependencias y entidades de la Administración Pública Municipal, revisando y verificando que estas se administren y apliquen los recursos que les sean asignados, con eficiencia, eficacia y honradez, al logro de las metas y objetivos establecidos en sus programas y en cumplimiento de la normatividad aplicable, encargándose de:
 
@@ -3023,7 +3025,7 @@ IV.- Departamento de Revisiones al Sector Paramunicipal; el que tendrá las atri
 
 V.- Departamento de Revisiones Especiales; el que tendrá las atribuciones previstas en el artículo 129 BIS, fracciones IX y X.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 128.
 
@@ -3045,7 +3047,7 @@ VII.- Promover e impulsar, en coordinación con las dependencias y entidades la 
 
 VIII.- Participar en la elaboración de normas técnicas relativas a la regulación y control de los bienes y recursos municipales;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 129.
 
@@ -3055,7 +3057,7 @@ I.- De Atención Jurídica, el que tendrá las atribuciones previstas en el art�
 
 II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones de la VI a la VIII.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO UNICO. DE LA DIRECCION DE PLANEACION URBANA
 
@@ -3063,7 +3065,7 @@ II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el
 
 ## TITULO QUINTO. DE LA DIRECCION DE PLANEACION URBANA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO UNICO. DE LA DIRECCION DE ADMINISTRACION URBANA
 
@@ -3143,15 +3145,15 @@ VIII.- Elaborar estudios e investigaciones que fundamenten los peritajes técnic
 
 IX.- Integrar, actualizar y resguardar los archivos de estudios y proyectos de equipamiento y paisaje urbano ejecutados y en proceso.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO SEXTO. DE LA DIRECCION DE ADMINISTRACION URBANA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO UNICO. DE LA DIRECCION MUNICIPAL DE FOMENTO AGROPECUARIO Y PESQUERO
+### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 135.
 
@@ -3327,7 +3329,7 @@ XVIII.- Normar y regular el establecimiento de espacios destinados a estacionami
 
 XIX.- Realizar los dictámenes de factibilidad para el establecimiento de estacionamientos en áreas de la vía pública exclusivos para comercios, zonas de carga y descarga, así los casos de áreas que se requieran para la introducción o construcción de vialidades o soluciones al tránsito de vehículos y peatones.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 140.
 
@@ -3361,7 +3363,7 @@ I.- Vigilar que en el desarrollo de acciones de urbanización que se le lleven a
 
 II.- Operar el proceso de autorización de acciones de urbanización a desarrollarse en predios rústicos dentro del territorio municipal, vigilando que estas se apeguen a los planes y programas de desarrollo urbano, así como a la normatividad aplicable;
 
-lII.- Emitir las autorizaciones para el desarrollo de acciones de urbanización que le competan de acuerdo a las disposiciones reglamentarias;
+III.- Emitir las autorizaciones para el desarrollo de acciones de urbanización que le competan de acuerdo a las disposiciones reglamentarias;
 
 IV.- Coordinar el procedimiento de incorporación de predios en los que hayan desarrollado acciones de urbanización para la expansión o renovación urbana;
 
@@ -3385,13 +3387,29 @@ XIII.- Elaborar acuerdos de autorización de fraccionamientos para llevar a cabo
 
 XIV.- Realizar inspecciones y verificaciones para la determinación de sanciones a fin de las acciones de urbanización cumplan con las disposiciones normativas en materia de desarrollo urbano.
 
-## TITULO SEPTIMO. DE LA DIRECCION MUNICIPAL DE FOMENTO AGROPECUARIO Y PESQUERO
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 21 DE FEBRERO DE 2014)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2005)</small>
+## TÍTULO SÉPTIMO. DE LA SINDICATURA SOCIAL
 
-###### ARTICULO 142.
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 21 DE FEBRERO DE 2014)</small>
 
-(DEROGADO, P.O. 25 DE ENERO DE 2008)
+###### Artículo 142.
+
+Del Síndico Social.- El Síndico Social tendrá a su cargo la función de procuración de la defensa de los intereses de los habitantes del municipio, ostentando las siguientes atribuciones:
+
+I.- Participar en la formulación y ejecución de los programas municipales de desarrollo social, vigilando su cabal cumplimiento;
+
+II.- Participar en los programas y políticas públicas en materia de desarrollo social que se realicen en el ámbito de su competencia y hacer públicos sus resultados;
+
+III.- Proponer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
+
+IV.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias de la población en general, con relación a la prestación de servicios públicos municipales;
+
+V.- Instrumentar mecanismos para que la ciudadanía participe en la vigilancia de obras públicas y programas estratégicos del Ayuntamiento;
+
+VI.- Nombrar y remover al personal a su cargo; y
+
+VII.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -3443,7 +3461,7 @@ Ana Imelda Corella Torres
 
 David Montaño Córdova
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE OCTUBRE DE 2002.
 
@@ -3467,7 +3485,7 @@ P.O. 9 DE ABRIL DE 2004.
 
 P.O. 7 DE MAYO DE 2004.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 27 DE AGOSTO DE 2004.
 
@@ -3517,7 +3535,7 @@ Las presentes reformas entrarán en vigor al día siguiente al de su publicació
 
 P.O. 10 DE FEBRERO DE 2006.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 7 DE ABRIL DE 2006.
 
@@ -3559,13 +3577,13 @@ CUARTO.- Dentro de los treinta días siguientes a la entrada en vigor del presen
 
 P.O. 26 DE SEPTIEMBRE DE 2008.
 
-ACUERDO POR EL QUE SE MODIFICA Y ADICIONA EL ARTICULO 114 DEL REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
+ACUERDO POR EL QUE SE MODIFICA Y ADICIONA EL ARTÍCULO 114 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
 
 Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja california.
 
 P.O. 26 DE SEPTIEMBRE DE 2008.
 
-ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 91, 96 Y 96 TER AL REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
+ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 91, 96 Y 96 TER AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
 
 Único.- El presente Acuerdo entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -3599,6 +3617,18 @@ SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICAC
 
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
-SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CAUFORNIA.
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 21 DE FEBRERO DE 2014.
+
+PRIMERO.- La presente Modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.- En todos los casos en que los reglamentos, acuerdos y demás Normatividad municipal hagan referencia a la Sindicatura Municipal, se entenderá que aluden al Síndico Procurador Municipal.
+
+TERCERO.- Dentro de los treinta días siguientes a la entrada en vigor del presente, la Tesorería Municipal y la Oficialía Mayor deberán realizar los ajustes de recursos presupuestales, materiales y humanos correspondientes, que sean necesarios para que desempeñe sus labores la Sindicatura Social.
+
+CUARTO.- Transfiéranse los expedientes, relativos al programa de atención 072 (cero setenta y dos) a la Sindicatura Social para el correspondiente seguimiento, de acuerdo al artículo 142 fracción IV de la presente reforma.
+
+QUINTO.- Se deberá realizar la adecuación necesaria en los reglamentos, acuerdos y demás normatividad municipal, para efecto de cumplir con lo dispuesto en el artículo 142 del presente Reglamento, en lo relativo a la figura del Síndico Social.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
