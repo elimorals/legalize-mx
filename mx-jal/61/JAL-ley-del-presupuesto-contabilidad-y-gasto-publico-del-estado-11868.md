@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2013-12-14"
+last_updated: "2014-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -109,6 +109,10 @@ III. El Poder Ejecutivo, por conducto de sus dependencias y entidades; y
 
 IV. Los organismos públicos autónomos, que expresamente reconoce la Constitución Política del estado de Jalisco.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2014)</small>
+
+El gasto público deberá ejercerse con criterios de perspectiva de género.
+
 ###### Artículo 6.
 
 La Contabilidad Gubernamental comprende la captación y registro de todas las operaciones de activos, pasivos, patrimonio, ingresos y gastos, así como las asignaciones y ejercicios correspondientes a los programas y partidas del Presupuesto del Gobierno del Estado, que realicen las Dependencias y Entidades sujetas a esta Ley, la Contabilidad Gubernamental tendrá las siguientes finalidades:
@@ -181,11 +185,11 @@ A la Iniciativa de Presupuesto de Egresos del Estado que presente el titular del
 
 En ningún caso, los Presupuestos de los Poderes Legislativo y Judicial podrán ser inferiores al ejercido el año inmediato anterior actualizado con base en la cifra oficial de inflación que publique el Banco de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 18.
 
-Los poderes Legislativo y Judicial así como los organismos públicos autónomos al formular sus respectivos proyectos de presupuestos, lo harán cumpliendo con los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad y proporcionalidad, atendiendo en todo momento las previsiones del ingreso y prioridades del Estado, quienes deberán enviar dichos proyectos al titular del Poder Ejecutivo en la fecha señalada por el artículo 29 de esta Ley, para su consideración e inclusión en la iniciativa de presupuesto de egresos del Estado.
+Los poderes Legislativo y Judicial, así como los organismos públicos autónomos al formular sus respectivos proyectos de presupuestos, lo harán cumpliendo con los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad, proporcionalidad y perspectiva de género atendiendo en todo momento las previsiones del ingreso y prioridades del Estado, quienes deberán enviar dichos proyectos al titular del Poder Ejecutivo en la fecha señalada por el artículo 29 de esta ley, para su consideración e inclusión en la iniciativa de presupuesto de egresos del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -247,11 +251,11 @@ El importe del presupuesto de Egresos, no deberá exceder de la estimación de l
 
 La Secretaría fijará anualmente, de acuerdo a las instrucciones del titular del Poder Ejecutivo, las sumas definitivas que habrán de incluirse en el proyecto de presupuesto de Egresos para cada una de las unidades presupuestales, observando lo dispuesto por esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 29.
 
-Para la formulación del proyecto de presupuesto de egresos del Gobierno del Estado, de las dependencias y entidades elaborarán sus anteproyectos con base en los programas respectivos, ajustándose a las normas y montos que establezca el titular del Poder Ejecutivo, por conducto de la Secretaría, remitiéndolos, en el caso de las dependencias, directamente a la Secretaria, a más tardar el 15 de agosto de cada año. Por lo que respecta a las entidades sectorizadas, éstas lo harán por conducto y con la validación de la dependencia coordinadora del sector correspondiente, en al mismo plazo.
+Para la formulación del proyecto de presupuesto de egresos del Gobierno del Estado, las dependencias y entidades elaborarán sus anteproyectos con base en los programas respectivos, ajustándose a los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad, proporcionalidad y perspectiva de género, a la ley y a los montos que establezca el titular del Poder Ejecutivo, por conducto de la Secretaría, remitiéndolos, en el caso de las dependencias, directamente a la Secretaría, a más tardar el 15 de agosto de cada año. Por lo que respecta a las entidades sectorizadas, éstas lo harán por conducto y con la validación de la dependencia coordinadora del sector correspondiente, en el mismo plazo.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
@@ -307,11 +311,11 @@ La Secretaría formulará el proyecto de presupuesto de Egresos del Gobierno del
 
 Dentro del Presupuesto de Egresos se considerarán como Unidades Presupuestales a los Poderes Legislativo y Judicial, así como a las Dependencias y Entidades del Poder Ejecutivo que tengan asignación financiera directa para el ejercicio de sus funciones o aquellas que por su trascendencia deban ser consideradas como tales. De lo anterior se exceptúan las Entidades cuya asignación financiera se realice por conducto de una Unidad Presupuestal que funja como coordinadora de sector. La Secretaría podrá proponer al titular del Poder Ejecutivo del Estado, la integración como Unidades Presupuestales, de otros rubros distintos a los mencionados anteriormente, que por su importancia así lo justifiquen, para lo cual se requerirá la aprobación del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 33.
 
-Los organismos públicos descentralizados del Poder Ejecutivo aprobarán por conducto de sus propios órganos de gobierno sus respectivos presupuestos de egresos, cumpliendo con los principios de de (sic) racionalidad, austeridad disciplina presupuestal, motivación, certeza, equidad y proporcionalidad y con apego a lo establecido en la presente ley.
+Los organismos descentralizados del Poder Ejecutivo aprobarán por conducto de sus propios órganos de gobierno sus respectivos presupuestos de egresos, cumpliendo con los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad, proporcionalidad, y perspectiva de género, con apego a lo establecido en la presente ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1148,3 +1152,7 @@ P.O. 14 DE DICIEMBRE DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 SEGUNDO. Lo previsto en el artículo 29-Bis que se adiciona mediante este decreto a la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco, será aplicable para la preparación del presupuesto del ejercicio fiscal de 2015.
+
+P.O. 22 DE FEBRERO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
