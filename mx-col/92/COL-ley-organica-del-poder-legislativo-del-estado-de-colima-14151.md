@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2013-10-12"
+last_updated: "2014-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -793,7 +793,9 @@ XIV.- Protección y Mejoramiento Ambiental;
 
 XV.- Niñez, Juventud, Adultos Mayores y Discapacidad;
 
-XVI.- Comunicaciones y Transportes;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+XVI.- Comunicaciones, Transportes y Movilidad;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
@@ -1464,3 +1466,7 @@ DECRETO No. 132, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCU
 P.O. 12 DE OCTUBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE FEBRERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
