@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2011-02-10"
+last_updated: "2014-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -145,23 +145,29 @@ II. La Secretaría de Desarrollo Rural del Estado.
 
 Son autoridades auxiliares para la aplicación de esta ley y su reglamento, en el ámbito de sus respectivas competencias:
 
-I. La Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
 
-(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
+I. La Fiscalía General del Estado;
 
-II. La Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+II. (DEROGADA, P.O. 22 DE FEBRERO DE 2014)
 
-III. La Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+III. La secretaría de Planeación, Administración y Finanzas;
 
 IV. La Secretaría de Salud;
 
-V. La Secretaría del Medio Ambiente para el Desarrollo Sustentable, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+V. La Secretaría de Medio Ambiente y Desarrollo Territorial, y
 
 VI. Los Ayuntamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 9.
 
-Son facultades del Titular del Poder Ejecutivo del Estado:
+Son facultades del titular del Poder Ejecutivo del Estado:
 
 I. Expedir y divulgar el Programa Estatal de Desarrollo Pecuario, con el propósito de precisar, impulsar, coordinar y concertar las actividades de este sector;
 
@@ -171,7 +177,9 @@ III. Coadyuvar con los productores, industriales y comercializadores pecuarios q
 
 IV. Celebrar convenios con las organizaciones pecuarias y organismos auxiliares de cooperación a nivel nacional, estatal, municipal o local, así como con las autoridades federales, municipales y de otras entidades federativas, para el establecimiento de programas de control de la movilización y la implementación de medidas zoosanitarias, de calidad genética de las especies domésticas productivas y de inocuidad de sus productos y subproductos;
 
-V. Determinar y aplicar las sanciones que correspondan a los infractores de esta ley y sus reglamentos, a través de la Secretaría y de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+V. Determinar y aplicar las sanciones que correspondan a los infractores de esta ley y sus reglamentos, a través de la Secretaría de Planeación, Administración y Finanzas;
 
 VI. Expedir los reglamentos que se deriven de esta ley, para su exacta aplicación y el logro de los objetivos que se establezcan en los planes y programas, sobre la actividad pecuaria del Estado;
 
@@ -235,7 +243,9 @@ XX. Llevar el registro y control de la documentación emitida por los expeditore
 
 XXI. Otorgar los permisos para el establecimiento de expendios de productos y subproductos, previa autorización de la Secretaría de Salud;
 
-XXII. Aplicar, a través del supervisor regional pecuario o inspector de ganadería, las sanciones establecidas en la presente ley, sus reglamentos y demás normatividad vigente, comunicando las mismas a la Secretaría de Finanzas para que, a través de sus recaudadoras municipales, aplique la sanción económica que se determine, efectuando, de ser necesario, el procedimiento de ejecución;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+XXII. Aplicar, a través del supervisor regional pecuario o inspector de ganadería, las sanciones establecidas en la presente ley, sus reglamentos y demás normatividad vigente, comunicando las mismas a la Secretaría de Planeación, Administración y Finanzas para que, a través de sus recaudadoras municipales, aplique la sanción económica que se determine, efectuando, de ser necesario, el procedimiento de ejecución;
 
 XXIII. Admitir y resolver el recurso administrativo previsto en esta ley y su reglamento;
 
@@ -263,7 +273,9 @@ XXXIV. Inspeccionar los rastros y otros lugares donde se sacrifiquen especies do
 
 XXXV. Autorizar el ingreso o restricción al Estado de animales, productos y subproductos provenientes de otras entidades o del extranjero, una vez comprobado el cumplimiento de los requisitos legales de propiedad y en materia zoosanitaria,
 
-XXXVI. Aplicar las sanciones económicas establecidas en la presente ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de Finanzas para que, por conducto de sus recaudadoras municipales se hagan efectivas;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+XXXVI. Aplicar las sanciones económicas establecidas en la presente ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de Planeación, Administración y Finanzas para que, por conducto de sus recaudadoras municipales se hagan efectivas;
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2004)</small>
 
@@ -275,15 +287,17 @@ XXXVIII. Promover la constitución de sociedades cooperativas; y
 
 XXXIX. Las demás que establezca la presente ley, su reglamento, los convenios que celebre el Titular del Poder Ejecutivo del Estado y demás normatividad aplicable.
 
-(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 11.
 
-La Secretaría de Seguridad Pública, Prevención y Readaptación Social, las dependencias estatales o municipales, las organizaciones pecuarias y los organismos auxiliares de cooperación que señala la ley, apoyarán a la Secretaría, en las actividades que sean de su competencia.
+La Fiscalía General del Estado, las dependencias estatales o municipales, las organizaciones pecuarias y los organismos auxiliares de cooperación que señala la ley, apoyarán a la Secretaría, en las actividades que sean de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 12.
 
-Corresponde a la Secretaría de Finanzas del Estado, las siguientes atribuciones:
+Corresponde a la Secretaría de Planeación, Administración y Finanzas del Estado, las siguientes atribuciones:
 
 I. Elaborar los formatos de transmisión de propiedad de las especies domésticas productivas, productos y subproductos, las órdenes de sacrificio y el formato único de guía de tránsito, con base en los requisitos que establezca la Secretaría, cobrando por los mismos el monto señalado en la Ley de Ingresos del Estado;
 
@@ -293,11 +307,11 @@ II. Expedir a través de sus oficinas de recaudación municipales a las organiza
 
 III. Hacer efectivas las multas impuestas por la Secretaría por las violaciones a la presente Ley y su reglamento, a través de las oficinas de recaudación municipal.
 
-(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 13.
 
-La Secretaría de Seguridad Pública, Prevención y Readaptación Social, a petición de la Secretaría, prestará apoyo y auxilio a los supervisores regionales pecuarios, inspectores de ganadería y al personal adscrito a los puntos de verificación zoosanitarios ubicados en el interior del Estado, proporcionando elementos de seguridad en cada uno de ellos para el cumplimiento de sus objetivos y atribuciones.
+La Fiscalía General del Estado, a petición de la Secretaría, prestará apoyo y auxilio a los supervisores regionales pecuarios, inspectores de ganadería y al personal adscrito a los puntos de verificación zoosanitarios ubicados en el interior del Estado, proporcionando elementos de seguridad en cada uno de ellos para el cumplimiento de sus objetivos y atribuciones.
 
 ###### Artículo 14.
 
@@ -411,9 +425,11 @@ La contravención a esta disposición será motivo de aplicación de las sancion
 
 Los productores pecuarios invariablemente deberán presentar su registro del medio de identificación o la credencial vigente de productor pecuario expedida por la Secretaría, como requisito previo para realizar los trámites de facturación, compra, venta, movilización o sacrificio de las especies domésticas productivas que se encuentren marcadas con el medio de identificación previamente registrado ante la propia Secretaría.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 22.
 
-La expedición de la credencial de productor pecuario, causará el pago que señala la Ley de Ingresos del Estado, debiendo cubrirse el mismo en las oficinas de recaudación estatal, ubicadas en los municipios, dependientes de la Secretaría de Finanzas.
+La expedición de la credencial de productor pecuario, causará el pago que señala la Ley de Ingresos del Estado, debiendo cubrirse el mismo en las oficinas de recaudación estatal, ubicadas en los municipios, dependientes de la Secretaría de Planeación, Administración y Finanzas.
 
 ###### Artículo 23.
 
@@ -609,7 +625,9 @@ Los animales cuyo medio de identificación sea alterado, modificado o encimado s
 
 La propiedad de las especies domésticas productivas, productos y subproductos para fines de sacrificio, movilización, explotación o comercialización, se acreditará con los documentos que a continuación se describen:
 
-I. El documento de transmisión de propiedad de las especies domésticas productivas, productos y subproductos que expide la Secretaría de Finanzas o, en su caso, el original de la factura fiscal. El documento de transmisión o la factura fiscal, deberá ser validado debidamente con el nombre, firma y sello del expeditor, expedida en el lugar de procedencia de los animales, productos o subproductos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2014)</small>
+
+I. El documento de transmisión de propiedad de las especies domésticas productivas, productos y subproductos que expide la Secretaría de Planeación, Administración y Finanzas o, en su caso, el original de la factura fiscal. El documento de transmisión o la factura fiscal, deberá ser validado debidamente con el nombre, firma y sello del expeditor, expedida en el lugar de procedencia de los animales, productos o subproductos.
 
 Tratándose de propietarios subsecuentes que hayan adquirido mediante compraventa, deberán acreditar la procedencia de las especies domésticas productivas, sus productos y subproductos con la credencial de ganadero, su patente del medio de identificación o las correspondientes originales de las facturas o de los documentos de transmisión de propiedad, acompañado de la documentación oficial que acredite la transacción y movilización
 
@@ -633,7 +651,9 @@ I. Las solicitudes deberán presentarse ante el inspector de ganadería municipa
 
 II. La figura de herrar, las marcas, señales y cualquier otro medio de identificación debidamente registrados, serán de uso exclusivo de su propietario y quien permita que los mismos sean utilizados en otras explotaciones pecuarias, será sancionado en los términos de esta ley;
 
-III. Se prohibe el uso de medios de identificación no registrados y los animales que se marquen contraviniendo esta disposición, serán turnados a la Procuraduría General de Justicia, para que se realicen las investigaciones pertinentes respecto a su legal propiedad y una vez resuelto el caso, le será aplicada una sanción administrativa independientemente de la sanción penal; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+III. Se prohíbe el uso de medios de identificación no registrados y los animales que se marquen contraviniendo esta disposición, serán turnados a la Fiscalía General del Estado, para que se realicen la (sic) investigaciones pertinentes respecto a su legal propiedad y una vez resuelto el caso, le será aplicada una sanción administrativa independientemente de la sanción penal, y
 
 IV. Deberá acreditar la propiedad o posesión del predio donde se desarrolle la actividad o explotación pecuaria.
 
@@ -1301,9 +1321,11 @@ El abastecimiento de productos y subproductos pecuarios, podrá realizarse direc
 
 Las organizaciones pecuarias, las autoridades municipales y la Secretaría, tendrán la obligación de colaborar con las autoridades competentes, en la solución de los problemas originados por la escasez de ganado destinado al consumo humano y coadyuvarán a regular la oferta y demanda; asimismo, con apoyo de los productores, evitarán la ocultación de productos y subproductos de origen animal.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 122.
 
-La Secretaría, con la participación de la Secretaría de Salud, de la Secretaría de Promoción Económica y de los productores pecuarios y los organismos auxiliares de cooperación, promoverá acciones que apoyen su comercialización y mejoren su competitividad frente a otros productores nacionales y extranjeros y su capacidad de concurrencia en el mercado nacional e internacional.
+La Secretaría, con la participación de la Secretaría de Salud, de la Secretaría de Desarrollo Económico y de los productores pecuarios y los organismos auxiliares de cooperación, promoverá acciones que apoyen su comercialización y mejoren su competitividad frente a otros productores nacionales y extranjeros y su capacidad de concurrencia en el mercado nacional e internacional.
 
 ###### Artículo 123.
 
@@ -1339,7 +1361,9 @@ Las denuncias, serán presentadas ante la Secretaría o, en su caso, ante la Con
 
 Las sanciones por las violaciones a esta ley, serán determinadas en base a la misma, por la Secretaría.
 
-Las oficinas recaudadoras de la Secretaría de Finanzas, serán las encargadas de recibir el pago de dichas sanciones.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
+
+Las oficinas recaudadoras de la Secretaría de Planeación, Administración y Finanzas, serán las encargadas de recibir el pago de dichas sanciones.
 
 Las sanciones serán impuestas, independientemente de las que resulten de la aplicación de la legislación penal o civil, debiéndose tomar en cuenta la gravedad de la infracción y las circunstancias económicas del infractor.
 
@@ -1397,9 +1421,11 @@ II. Cuando por error, dolo u otra circunstancia, se haga mal uso de la credencia
 
 III. Los expendios de carne clasificada que expendan carne diferente a la autorizada, serán clausurados y cancelado el permiso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 131.
 
-Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de Finanzas a través de sus oficinas de recaudación fiscal municipales.
+Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de Planeación, Administración y Finanzas a través de sus oficinas de recaudación fiscal municipales.
 
 El procedimiento de notificación, ejecución y extinción de las sanciones pecuniarias, así como los recursos administrativos para oponerse al procedimiento económico coactivo, se sujetará a las disposiciones del Código Fiscal y a la Ley de Hacienda, ambos ordenamientos del Estado.
 
@@ -1494,3 +1520,7 @@ PRIMERO. El presente decreto entrará en vigor a los noventa días siguientes a 
 SEGUNDO. El Poder Ejecutivo del Estado deberá actualizar sus reglamentos y efectuar las adecuaciones técnicas necesarias a efecto de estar en condiciones de aplicar la presente reforma previo al inicio de su vigencia.
 
 TERCERO. Se autoriza a la Secretaría de Finanzas a realizar todas las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+P.O. 22 DE FEBRERO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
