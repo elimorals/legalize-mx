@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2013-10-12"
+last_updated: "2014-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -565,7 +565,9 @@ XIV.- Protección y Mejoramiento Ambiental;
 
 XV.- Niñez, Juventud, Adultos Mayores y Discapacidad;
 
-XVI.- Comunicaciones y Transportes;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+XVI.- Comunicaciones, Transportes y Movilidad;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
@@ -911,7 +913,9 @@ Corresponde a la Comisión de Protección y Mejoramiento Ambiental conocer de lo
 
 I.- El estudio, análisis y dictamen sobre asuntos relacionados con la protección del medio ambiente y el equilibrio ecológico;
 
-II.- Estudiar, analizar y dictaminar, en coordinación con la Comisión de Comunicaciones y Transportes, las iniciativas de ley encaminadas a establecer las condiciones y requisitos a que deben sujetarse los vehículos de motor para permitir su circulación; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+II.- Estudiar, analizar y dictaminar, en coordinación con la Comisión de Comunicaciones, Transportes y Movilidad, las iniciativas de ley encaminadas a establecer las condiciones y requisitos a que deben sujetarse los vehículos de motor para permitir su circulación; y
 
 III.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
@@ -941,17 +945,19 @@ IX.- Impulsar el fortalecimiento del sistema que en materia de asistencia social
 
 X.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 63.
 
-Corresponde a la Comisión de Comunicaciones y Transportes, conocer de los siguientes asuntos:
+Corresponde a la Comisión de Comunicaciones, Transportes y Movilidad, conocer de los siguientes asuntos:
 
-I.- El estudio, análisis y dictamen, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, de las iniciativas relacionadas con la legislación aplicable en materia de comunicaciones y transportes de competencia estatal;
+I.- El estudio, análisis y dictamen, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, de las iniciativas relacionadas con la legislación aplicable en materia de comunicaciones, transportes y movilidad de competencia estatal;
 
-II.- Participar, en representación del Poder Legislativo en el Consejo Consultivo del Transporte; y
+II.- Participar, en representación del Poder Legislativo en el Consejo Consultivo del Transporte;
 
-III.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+III.- Lo relacionado con la materia de movilidad urbana, sus causas y consecuencias, así como las medidas para el mejoramiento en la calidad de vida de los habitantes; y
+
+IV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
 
@@ -2712,5 +2718,9 @@ P.O. 27 DE JULIO DE 2013.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 12 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE FEBRERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
