@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6876
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-09"
-last_updated: "2009-05-09"
+last_updated: "2014-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 9 de mayo de 2009.
 
@@ -51,9 +51,11 @@ LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general, y tiene por objeto regular y garantizar la igualdad entre mujeres y hombres, así como proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado.
+La presente Ley es de orden público, interés social y de observancia general, y tiene por objeto regular y garantizar la igualdad entre mujeres y hombres, así como proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo
 
 ###### Artículo 2.
 
@@ -73,11 +75,31 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones afirmativas.- Es el conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres;
 
-II. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
 
-III. Sistema Estatal.- Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+II. Discriminación.- Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
-IV. Programa Estatal.- Programa Estatal para la Igualdad entre Mujeres y Hombres.
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+III. Discriminación contra la mujer.- Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+IV. Igualdad de género.- Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+V. Igualdad sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+VI. Perspectiva de género.- Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
+VII. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+
+VIII. Sistema Estatal.- Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+
+IX. Programa Estatal.- Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 6.
 
@@ -181,9 +203,33 @@ III. Fomentar la participación y representación política equilibrada entre mu
 
 IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
-V. Promover la igualdad entre mujeres y hombres en la vida civil; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
 
-VI. Promover la eliminación de estereotipos establecidos en función del género.
+V. Promover la igualdad entre mujeres y hombres en la vida civil;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+VI. Promover la eliminación de estereotipos establecidos en función del género;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+VII. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+VIII. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+IX. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+X. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre hombres y mujeres; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -289,9 +335,17 @@ Será objetivo de la Política Estatal el fortalecimiento de la igualdad en mate
 
 I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica; e
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
 
-III. Impulsar liderazgos igualitarios.
+II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+III. Impulsar liderazgos igualitarios; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
 
 ###### Artículo 31.
 
@@ -315,9 +369,17 @@ VIII. Evitar la segregación de las personas por razón de su género, del merca
 
 IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
 
-X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
 
-XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia.
+X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
@@ -345,9 +407,17 @@ Con el fin de promover la igualdad en el acceso a los derechos sociales y el ple
 
 I. Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social;
 
-II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
 
-III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
+II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+IV. Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias y de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de hombres y mujeres.
 
 ###### Artículo 35.
 
@@ -401,15 +471,27 @@ VII. Fomentar las investigaciones en materia de prevención, atención, sanción
 
 Será objetivo de la Política Estatal la eliminación de los estereotipos que fomentan la discriminación y la violencia contra las mujeres.
 
-###### Articulo 39.
+###### Artículo 39.
 
 Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
 
 I. Promover acciones que contribuyan a erradicar toda discriminación basada en estereotipos de género;
 
-II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
 
-III. Vigilar la integración de una perspectiva de género en todas las políticas públicas.
+II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+III. Vigilar la integración de una perspectiva de género en todas las políticas públicas;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
+
+V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
 
 ### CAPÍTULO SÉPTIMO. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -454,3 +536,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 27 del mes de abril del año dos mil nueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMÁN, rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE FEBRERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
