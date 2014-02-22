@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-970
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-09"
-last_updated: "2013-12-09"
+last_updated: "2014-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL 2014
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE FEBRERO DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL 2014
 
 TEXTO ORIGINAL.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE FEBRERO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el lunes 9 de diciembre de 2013.
 
