@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-11-16"
+last_updated: "2014-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3865,37 +3865,37 @@ Unidad de salario
 
 I. Arrendamiento de mercados, se pagará según la tarifa siguiente, por día:
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
-a).- Locales interior de 0.001 a 9.000 m2 0.20
+a).- Locales interiores de 0.001 a 9.000 m2 0.10
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
-b).- Locales interiores de 9.001 a 18.000 m2 0.40
+b).- Locales interiores de 9.001 a 18.000 m2 0.20
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
-c).- Locales interiores de 18.001 a 27.000 m2 0.59
+c).- Locales interiores de 18.001 a 27.000 m2 0.30
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
-d).- Locales interiores de 27.001 m2 en adelante 0.79
+d).- Locales interiores de 27.001 m2 en adelante 0.40
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
-e).- Accesorias 0.20
+e).- Accesorias 0.10
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
-f).- Puestos semifijos 0.40
+f).- Puestos semifijos 0.20
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
-g).- Puestos Eventuales 0.40
+g).- Puestos eventuales 0.20
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
 
-h).- Otros no especificados 0.40
+h).- Otros no especificados 0.20
 
 II. Refrendo de concesión de los mercados, anualmente 2.00
 
@@ -4410,3 +4410,7 @@ P.O. 19 DE OCTUBRE DE 2013.
 P.O. 16 DE NOVIEMBRE DE 2013.
 
 UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE FEBRERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
