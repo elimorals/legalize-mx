@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2013-12-09"
+last_updated: "2014-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2014.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -948,285 +948,233 @@ En el caso de que se decida la remoción de un funcionario o empleado municipal,
 
 ### CAPITULO PRIMERO. De las Dependencias
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2013, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE VEINTIUNA A QUINCE FRACCIONES.</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL ACUERDO SIN NÚMERO, PUBLICADO EN EL P.O. 24 DE FEBRERO DE 2014, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO</small>
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2011)</small>
+(REFORMADO, P.O. 17 DE ENERO DE 2011).
 
 ###### ARTICULO 96.
 
 Para el adecuado ejercicio de las atribuciones y responsabilidades ejecutivas que le corresponden, el Ayuntamiento de Jesús María, contara con el apoyo de las siguientes dependencias administrativas, subordinadas y supervisadas por el Presidente Municipal, así como de los organismos públicos descentralizados que al efecto se propongan y constituyan en términos de la presente normatividad:
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-I.- Corporación Municipal
+I. Corporación Municipal
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-II.- Presidencia Municipal
+II. Presidencia Municipal
 
-Jefa de Departamento de la Instancia de la Mujer
+Jefe de Gabinete
 
-Coordinador de Asesores
-
-Jefe de Departamento de Asesoría Política
-
-Jefe de Departamento de Asesoría Administrativa
-
-Coordinador de Comunicación Social
-
-Jefe de Departamento de Difusión Institucional
-
-Jefe de Departamento de Video Producción y Fotografía
-
-Jefe de Departamento de Prensa
+Coordinador de Análisis y Estudios
 
 Secretario Particular
 
-Jefe de Departamento de Gestión Social
+Gestión Social
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+Dirección de Comunicación
 
-III.- Secretaría del H. Ayuntamiento y Dirección General de Gobierno
+Difusión Institucional
 
-Secretario del H. Ayuntamiento y Director General de Gobierno
+Prensa
 
-Delegado de Maravillas
+Instancia de la Mujer
 
-Delegado de Valladolid
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-Delegado de J. Gómez Portugal
+III. Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
-Delegado de Ignacio Zaragoza
+Dirección Seguridad Pública y Vialidad
 
-Delegado de San Antonio de los Horcones
+Coordinación Delegados Municipales
 
-Delegado de Paseos de las Arboledas
+Jefe de departamento Protección Civil
 
-Jefe de Departamento de Protección Civil
+Jefe de Departamento Acción Cívica
 
-Jefe de Departamento de Reglamentos
+Jefe de Departamento Reglamentos
 
-Jefe de Departamento de Áreas Comerciales
+Jefe de Departamento Áreas Comerciales
 
-Jefe de Departamento de Justicia Municipal
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-Coordinador de Apoyo Documental del H. Cabildo
+IV. Secretaría de Finanzas
 
-Director de Asuntos Jurídicos
+Dirección Finanzas
 
-Jefe de Departamento de Asuntos Administrativos
+Jefe de Departamento Ingresos
 
-Jefe de Departamento de Asuntos Laborales
+Jefe de Departamento Egresos
 
-Jefe de Departamento de Asuntos Civiles y Mercantiles
+Jefe de Departamento Contabilidad
 
-Jefe de Departamento de Atención al DIF
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-Jefe de Departamento de la Fiscalía
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
-
-IV.-Secretaría de Finanzas
-
-Secretario de Finanzas
-
-Jefe de Departamento de Ingresos
-
-Jefe de Departamento de Egresos
-
-Jefe de Departamento de Contabilidad
-
-Jefe de Departamento de Fondos Federales
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
-
-V.-Secretaría de Administración
-
-Secretario de Administración
-
-Jefe de Departamento de Modernización Tecnológica
-
-Jefe de Departamento de Servicios Generales
-
-Jefe de Departamento de Control Patrimonial
-
-Jefe de Departamento de Adquisiciones
+V. Secretaría de Administración
 
 Jefe de Departamento de Recursos Humanos
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+Jefe de Departamento Adquisiciones y Control Patrimonial
 
-VI.- SECRETARIA DE SEGURIDAD PÚBLICA Y VIALIDAD
+Jefe de Departamento Modernización Tecnológica
 
-A) Secretario de Seguridad Pública y Vialidad
+Jefe de Departamento Servicios Generales
 
-a) Fiscal
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-b) Policía Tercero JUA
+VI. Secretaría de Servicios Públicos
 
-1) Policía UA
+Dirección de Servicios Públicos
 
-c) Jefe de Bomberos
+Jefe de Departamento Limpia y Aseo Público
 
-1) Encargado de Bomberos
+Jefe de Departamento Panteones
 
-1.1) Bomberos
+Jefe de Departamento Rastro
 
-d) Sub Director Administrativo
+Jefe de Departamento Jardines
 
-1) Coordinador de Servicios al Personal
+Jefe de Departamento de Mantenimiento de Áreas Públicas
 
-1.1) Auxiliar Administrativo
+Jefe de Departamento Alumbrado Público
 
-1.2) Secretaria
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-1.3) Jardinero
+VII. Secretaría de Desarrollo Social
 
-1.4) Intendente.
+Dirección de Programas Sociales
 
-2) Auxiliar en Control Vehicular
+Dirección de Deportes
 
-2.1) Auxiliar de Grúa
+Dirección de Educación
 
-3) Trabajadora Social
+Dirección de Cultura
 
-B) Director
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-a) Sub Oficial
+VIII. Secretaría de Desarrollo Agrario, Territorial y Urbano Municipal
 
-1) Policía Primero
+Director Desarrollo Agrario y Urbano
 
-1.1) Policía Segundo
+Jefe de Departamento Planeación y Proyectos
 
-1.1.1) Policía Tercero
+Jefe de Departamento Administración y Control Urbano
 
-1.1.1.1.) Policía
+Jefe de Departamento Desarrollo Agrario y Rural
 
-b) Policía Tercero JUR
+Jefe de Departamento Medio Ambiente y Sustentabilidad
 
-1) Policía UR
+Jefe de Departamento Estadística, Información y Geografía Municipal
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+Director Desarrollo Municipal
 
-VII.-Secretaría de Servicios Públicos
+Jefe de Departamento Políticas Públicas y Programas Federales
 
-Secretario de Servicios Públicos
+Jefe de Departamento Participación Ciudadana
 
-Director
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-Jefe de Departamento de Limpia y Aseo Público
+IX. Secretaría de Obras Públicas
 
-Jefe de Departamento de Rastro
+Director de Obras Públicas
 
-Jefe de Departamento de Panteones
+Jefe de Departamento Analista de Licitaciones
 
-Jefe de Departamento de Parques y Jardines
+Jefe de Departamento Gestión y Enlace Gubernamental
 
-Jefe de Departamento de Alumbrado Público
+Jefe de Departamento Supervisión de Obras por Contrato y Administración
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-VIII.-Secretaría de Desarrollo Social
+X. Contraloría Municipal
 
-Secretario de Desarrollo Social
-
-Jefe de Departamento de Políticas Públicas y Programas Federales
-
-Jefe de Departamento de Acción Cívica, Educación, Cultura y Deporte
-
-Jefe de Departamento de Participación Ciudadana
-
-Jefe de Departamento de Desarrollo Rural
-
-Jefe de Departamento del Organismo de la Juventud
-
-Jefe de Departamento de Desarrollo económico
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
-
-IX.- Secretaría de Planeación y Desarrollo Urbano
-
-Secretario de Planeación y Desarrollo Urbano
-
-Jefe de Departamento Administrativo
-
-Jefe de Departamento de Administración Urbana, Permisos y Licencias
-
-Jefe de Departamento de Fraccionamientos y Predios Municipales
-
-Jefe de Departamento de Control Urbano, Atención Ciudadana y Supervisión
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
-
-X.- Secretaría de Obras Públicas
-
-Secretario de Obras Públicas
-
-Director
-
-Jefe de Departamento de Proyectos y Expedientes Técnicos
-
-Jefe de Departamento de Obras por Contrato y Supervisión
-
-Jefe de Departamento de Proyectos Federales
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
-
-XI.- Contraloría Municipal
-
-Contralor
-
-Jefe de Departamento de Auditoría
-
-Jefe de Departamento de Obra y Servicios Públicos
+Jefe de Departamento Auditoría
 
 Jefe de Departamento Jurídico
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+Jefe de Departamento Obra y Servicios Públicos
 
-XII.- Secretaría de Salud Pública
+Coordinación de Transparencia
 
-Secretario de Salud Pública
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-Jefe de Departamento de Regulación Sanitaria
+XI. Sistema para el Desarrollo Integral de la Familia
 
-Jefe de Departamento de Psicología
+Director DIF
 
-Jefe de Departamento de la Unidad Básica de Rehabilitación.
+Coordinación de Programas Alimentarios
 
-Jefe de Departamento Médico
+Coordinación Administrativa
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+Coordinación CEDECOS
 
-XIII.- Sistema para el Desarrollo Integral de la Familia
+Coordinación INAPAM
+
+Coordinación CENDI
+
+Instancia de la Juventud
+
+Dirección de Salud Pública
+
+Jefatura de Departamento de Regulación Sanitaria
+
+Jefatura de Departamento de Unidad Básica de Rehabilitación
+
+Jefatura de Departamento de (sic) Médico
+
+Jefatura de Departamento de Psicología
+
+Jefatura de Departamento de Medicina Alternativa
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+
+XII. Secretaría de Asesores
+
+Jefatura de Departamento de Unidad de Información y Análisis Estratégico
+
+Jefatura de Departamento de Control Administrativo
+
+Jefatura de Departamento de Innovación Gubernamental
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+
+XIII. Secretaría de Asuntos Internacionales y Hermanamientos
+
+Jefatura de Departamento Jurídico
+
+Jefatura de Oficina de Enlace con la Secretaría de Relaciones Exteriores
+
+Jefatura de Departamento de Hermanamientos y Comercio Internacional
+
+Jefatura de Departamento de Migración
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+
+XIV. Secretaría de Desarrollo Económico
 
 Director
 
-Coordinador de Desarrollo Comunitario
+Jefatura de Departamento Promoción y Desarrollo Empresarial
 
-Coordinador de Trabajo Social
+Jefatura de Departamento Mejora Regulatoria e Investigación Económica
 
-Coordinador Administrativo
+Jefatura de Departamento Turismo
 
-Coordinador de Programas Alimentarios
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-Coordinador DIF-INAPAM
+XV. Secretario de Asuntos Jurídicos
 
-Director del CENDI
+Jefatura de Departamento Justicia Municipal
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+Jefatura de Departamento de Asuntos Internos de la Dirección de Seguridad Pública y Vialidad
 
-XIV.- Secretaría de Ecología y Desarrollo Sustentable
+Coordinación de Asuntos Administrativos, Contratos y Convenios
 
-Secretario de Ecología y Desarrollo Sustentable
+Coordinación de Asuntos Contenciosos
 
-Jefe de Departamento de Educación Ambiental
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-Jefe de Departamento de Ecología
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
-
-XV.- C.A.P.A.S.
+XVI. C.A.P.A.S
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
 
@@ -14769,3 +14717,11 @@ P.O. 9 DE DICIEMBRE DE 2013.
 SEGUNDO.- El presente acuerdo gozará de efectos retroactivos al 10 de enero de 2013, con excepción de lo siguiente: a partir del 1° de julio de 2013, el fiscal estará adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
 
 Segundo.- El efecto legal para el presente acuerdo será lo publicado en el Periódico Oficial del Estado de Aguascalientes, edición vespertina, en fecha 8 de julio del 2013, por ser el origen de lo presente.
+
+P.O. 24 DE FEBRERO DE 2014.
+
+Primero.- …
+
+Segundo.- Cuando en el presente Código se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que se forma, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
