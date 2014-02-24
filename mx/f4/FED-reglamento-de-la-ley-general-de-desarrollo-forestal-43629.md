@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-desarrollo-forestal-43629"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-21"
-last_updated: "2005-02-21"
+last_updated: "2014-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43629&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-02-16"
 
 REGLAMENTO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 21 de febrero de 2005.
 
@@ -1689,6 +1689,16 @@ El trámite será desechado en caso de que el interesado no acredite el depósit
 
 Una vez acreditado el depósito, la Secretaría expedirá la autorización correspondiente dentro de los diez días hábiles siguientes. Transcurrido este plazo sin que la Secretaría otorgue la autorización, ésta se entenderá concedida.
 
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+###### Artículo 123 Bis.
+
+Para efectos de lo dispuesto en el párrafo cuarto del artículo 117 de la Ley, la Secretaría incluirá en su resolución de autorización de cambio de uso del suelo en terrenos forestales, un programa de rescate y reubicación de especies de la vegetación forestal afectadas y su adaptación al nuevo hábitat, mismo que estará obligado a cumplir el titular de la autorización.
+
+La Secretaría deberá de integrar el programa, con base en la información sobre las medidas de prevención y mitigación de impactos sobre los recursos forestales, la flora y fauna silvestres, referidos en la fracción VIII del artículo 121 de este Reglamento.
+
+Con base en la información proporcionada por el interesado en el estudio técnico justificativo, el programa deberá incluir el nombre de las especies a rescatar, la densidad de plantación, el plano georeferenciado del sitio donde serán reubicadas dentro del ecosistema afectado, preferentemente en áreas vecinas o cercanas a donde se realizarán los trabajos de cambio de uso de suelo, así como las acciones que aseguren al menos un ochenta por ciento de supervivencia de las referidas especies, los periodos de ejecución de dichas acciones y de su mantenimiento.
+
 ###### Artículo 124.
 
 El monto económico de la compensación ambiental relativa al cambio de uso del suelo en terrenos forestales a que se refiere el artículo 118 de la Ley, será determinado por la Secretaría considerando lo siguiente:
@@ -2244,3 +2254,9 @@ OCTAVO. En tanto la Secretaría de Medio Ambiente y Recursos Naturales expide la
 NOVENO. Las acciones derivadas del presente Reglamento que competan a la Secretaría de Medio Ambiente y Recursos Naturales y a la Comisión Nacional Forestal, se ejecutarán con cargo a sus respectivos presupuestos aprobados.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de febrero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Alberto Cárdenas Jiménez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 24 DE FEBRERO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
