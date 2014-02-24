@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2011-12-05"
+last_updated: "2014-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2014.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -623,33 +623,31 @@ El Presidente Municipal, los Regidores y Síndico que con causa justificada no p
 
 ### CAPITULO VIII. De las Comisiones
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 68.
 
 El H. Ayuntamiento nombrará las Comisiones a efecto de cumplir con las atribuciones y obligaciones que la Ley le confiere al H. Ayuntamiento, se integran Comisiones Permanentes y serán las siguientes:
 
-I. Seguridad Pública y Tránsito;
+I.- Gobierno y Hacienda Pública.
 
-II. Desarrollo Social y Salud;
+II.- Servicios Públicos, Ecología y Juventud.
 
-III. Agua Potable, Alcantarillado, Protección al Medio Ambiente y Limpia;
+II (sic).- Educación, Cultura, Deporte y Desarrollo
 
-IV. Hacienda, Gobernación y Licencias Comerciales;
+Urbano.
 
-V. Obra Pública, Desarrollo Urbano y Rural;
+IV.- Desarrollo Social y Obras Públicas
 
-VI. Mejora Regulatoria, Simplificación, Transparencia e Innovación;
+V.- Salud, Derechos Humanos y Servicios Pre-hospitalarios.
 
-VII. Alumbrado Público;
+VI.- Agua Potable, Drenaje y Alcantarillado.
 
-VIII. Mercados, Rastros, Parques, Jardines y Panteones;
+VII.- D.I.F. Municipal, Equidad y Género.
 
-IX. Educación Pública, Acción Cívica, Cultura y Deporte;
+VIII.- Seguridad Pública, Tránsito Municipal y Protección Civil.
 
-X. Igualdad de género; y
-
-XI. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 ###### ARTICULO 69.
 
@@ -15459,9 +15457,15 @@ Municipalización es el acto formal mediante el cual se realiza la entrega-recep
 
 El Comité Técnico de Municipalización estará integrado de la siguiente manera:
 
-I. Un Presidente, que será el Director General de Desarrollo Urbano, Ecología y Servicios Públicos;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
-II. Un Secretario Técnico, que será el Director de Planeación Urbana, Rural y Ecología;
+I. Un Presidente, que será el Director de Desarrollo Urbano.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+
+II. Un Secretario Técnico, que será el Encargado del Departamento de Uso de Suelo.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
 
 III. El titular de las siguientes Dependencias y Entidades de la Administración Municipal;
 
@@ -15471,9 +15475,13 @@ b) Dirección General de Finanzas y Administración;
 
 c) Dirección de Servicios Públicos;
 
-d) Dirección de Desarrollo Social, Económico y Agropecuario; y
+e) (sic) Dirección de Obras Públicas.
 
-e) El Regidor de la Comisión de Obras Publicas (SIC) Desarrollo Urbano y Rural y Alumbrado Público.
+f) Organismo Operador de Agua Potable.
+
+g) Dirección de Seguridad Pública y Tránsito Municipal.
+
+h) El Regidor de la Comisión de Obras Públicas.
 
 ###### ARTICULO 1468.
 
@@ -15965,7 +15973,7 @@ III. En estos fraccionamientos se podrá autorizar comercio de tipo inmediato en
 
 Podrá existir comercio de tipo periódico sobre vialidades colectoras y en algunos casos servicios de tipo doméstico, los cuales quedarán condicionados a presentar el cuestionario de información básica ambiental y a la dictaminación del mismo, emitida por la autoridad correspondiente.
 
-IV. Todo uso o destino que pretenda darse a cualquier predio o inmueble que forme parte de este tipo de fraccionamientos y que no sea compatible a la zona de acuerdo con lo establecido en el Programa de Desarrollo Urbano Municipal correspondiente, así como en el presente Código Municipal, quedará estrictamente prohibido.
+IV Todo uso o destino que pretenda darse a cualquier predio o inmueble que forme parte de este tipo de fraccionamientos y que no sea compatible a la zona de acuerdo con lo establecido en el Programa de Desarrollo Urbano Municipal correspondiente, así como en el presente Código Municipal, quedará estrictamente prohibido.
 
 V. En caso de que se encuentren establecidos usos del suelo que no sean compatibles a la zona de su ubicación o que sean generadores de ruido mayor al establecido por la legislación vigente en la materia, o que generen y/o emitan sustancias contaminantes, quedarán condicionados a su reubicación en zonas aptas para el desarrollo de sus actividades, en los términos que señale el presente Código Municipal.
 
@@ -20858,3 +20866,9 @@ CUARTO. Las referencias normativas que se hacen a la Dirección General de Desar
 P.O. 5 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2014.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
