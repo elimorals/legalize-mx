@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-71165"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-23"
-last_updated: "2011-12-13"
+last_updated: "2014-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71165&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-12-09"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 23 de diciembre de 2009.
 
@@ -53,35 +53,61 @@ DISPOSICIONES GENERALES.
 
 Unico.
 
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento, tiene por objeto establecer criterios, procedimientos institucionales y responsabilidades, de los servidores públicos y órganos colegiados en materia de transparencia, a efecto de garantizar el acceso a la Información pública que posea el Instituto Nacional de Estadística y Geografía, de conformidad con lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, la Ley del Sistema Nacional de Información Estadística y Geográfica, el presente Reglamento y demás disposiciones normativas aplicables.
+El presente Reglamento, tiene por objeto establecer criterios, procedimientos institucionales y responsabilidades de los servidores públicos y órganos colegiados del Instituto Nacional de Estadística y Geografía en materia de transparencia, a efecto de garantizar el acceso a la Información pública que posea el Instituto Nacional de Estadística y Geografía, así como de la organización y conservación de sus archivos, de conformidad con lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, la Ley Federal de Archivos, la Ley del Sistema Nacional de Información Estadística y Geográfica, el presente Reglamento y demás disposiciones normativas aplicables.
 
 ###### Artículo 2.
 
 Para los efectos de este Reglamento se entenderá por:
 
-I. Archivo.- conjunto orgánico de documentos en cualquier soporte, que son producidos o recibidos en el ejercicio de sus atribuciones por las Unidades y Areas Administrativas del Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-II. Archivo de Concentración.- área responsable de la administración de documentos, cuya consulta es esporádica por parte de las Unidades y Areas Administrativas del Instituto y que permanecen en él hasta su destino final. Documentación semiactiva;
+I. Administración de Documentos.- conjunto de métodos y prácticas destinados a planear, dirigir y controlar la producción, circulación, organización, conservación, uso, selección y destino final de los documentos de archivo;
 
-III. Archivo de Trámite.- área responsable de la administración de documentos de uso cotidiano y necesario para el ejercicio de las atribuciones de una Unidad o Area Administrativa. Documentación Activa;
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-IV. Archivo Histórico.- área responsable de organizar, conservar, administrar, describir y divulgar la memoria documental Institucional;
+I Bis. Archivo.- conjunto orgánico de documentos en cualquier soporte, que son producidos o recibidos por las Unidades y Áreas Administrativas en el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+II. Archivo de Concentración.- unidad responsable de la administración de documentos cuya consulta es esporádica por parte de las Unidades y Áreas Administrativas del Instituto, y que permanecen en él hasta su destino final. (Contiene documentación semiactiva);
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+III. Archivo de Trámite.- unidad responsable de la administración de documentos de uso cotidiano y necesario para el ejercicio de las atribuciones de una Unidad o Área Administrativa. (Contiene documentación activa);
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+IV. Archivo Histórico.- fuente de acceso público y unidad responsable de administrar, describir, organizar, conservar y divulgar la memoria documental institucional, así como la integrada por documentos o colecciones documentales facticias de relevancia para la memoria nacional;
 
 V. Areas Administrativas.- las Direcciones Generales Adjuntas adscritas a las diversas Unidades Administrativas del Instituto, incluyendo a las Direcciones Regionales y a las Coordinaciones Estatales del mismo;
 
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+V Bis. Área Coordinadora de Archivos.- la responsable de desarrollar criterios en materia de organización, administración y conservación de archivos; elaborar en coordinación con las Unidades y Áreas Administrativas los instrumentos de consulta y control archivístico cuya elaboración no esté expresamente conferida a otras áreas o instancias del Instituto; coordinar los procedimientos de valoración y destino final de la documentación; establecer un programa de capacitación y asesoría archivísticos; coadyuvar con el Comité de Información en materia de archivos, y coordinar con la DGAI la implementación de herramientas informáticas para la creación, manejo, uso, preservación y gestión de documentos electrónicos, y la automatización de los procesos archivísticos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+V Ter. Área Generadora.- la que produce expedientes, considerándose como tal a: Junta de Gobierno y Presidencia, Direcciones Generales, Contraloría Interna, Direcciones Generales Adjuntas, Direcciones Regionales, Coordinaciones Estatales, Direcciones de Área, Subdirecciones de Área y Jefaturas de Departamento;
+
 VI. Baja Documental.- eliminación de aquella documentación que haya prescrito en sus valores administrativos, legales, fiscales o contables y que no contenga valores históricos;
 
-VII. Catálogo de Disposición Documental.- instrumento de control archivístico consistente en el registro general y sistemático, que establece los valores documentales, vigencia documental, plazos de conservación, clasificación de reserva o confidencialidad y destino final de todos aquellos expedientes que formen parte del archivo de trámite de las Unidades y Areas Administrativas del Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+VII. Catálogo de Disposición Documental.- instrumento técnico que registra en forma general y sistemática, a nivel de Serie y Subserie, los valores documentales, los plazos de conservación o vigencia documental y, en su caso, la Clasificación de reserva o confidencialidad y posible valor histórico;
 
 VIII. Centros de Información Habilitados.- ventanillas de atención ubicadas en las Direcciones Regionales o Coordinaciones Estatales del Instituto, que fungen como áreas de enlace con la Unidad de Transparencia, para la recepción y trámite de las solicitudes de acceso a la Información pública del Instituto, de acceso a datos personales, así como para la corrección de éstos;
 
 IX. Clasificación.- acto por virtud del cual los Titulares de las Unidades y Areas Administrativas del Instituto, el Comité de Información del Instituto Nacional de Estadística y Geografía o la Comisión de Transparencia y Acceso a la Información Pública del Instituto Nacional de Estadística y Geografía determinan que la Información que posee el Instituto es: reservada, parcialmente reservada o confidencial, en términos de lo establecido por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y el presente Reglamento;
 
-X. Código de Clasificación Archivística.- referencia numérica que identifica la pertenencia de un documento o expediente que contenga Información del Instituto, a una Unidad Administrativa, Area Administrativa o función en términos del Cuadro General de Clasificación Archivística;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-XI. Código Organizacional.- clave emitida por la Dirección General de Administración con el objeto de dotar a cada Unidad o Area Administrativa del Instituto de un código numérico que la identifica;
+X. Clasificación Archivística.- proceso de identificación y agrupación de expedientes homogéneos con base en la estructura funcional del Instituto;
+
+XI. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2014)
 
 XII. Comisión.- la Comisión de Transparencia y Acceso a la Información Pública del Instituto Nacional de Estadística y Geografía;
 
@@ -91,27 +117,53 @@ XIII. Comité.- el Comité de Información del Instituto Nacional de Estadístic
 
 XIII Bis. Comité de Valoración.- el Comité de Valoración Documental del Instituto Nacional de Estadística y Geografía;
 
-XIV. Cuadro General de Clasificación Archivística.- instrumento técnico de control archivístico que refleja la estructura del archivo del Instituto, de manera general, con base en las atribuciones y funciones que corresponden a sus Unidades y Areas Administrativas;
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XIII Ter. Conservación de Archivos.- conjunto de procedimientos y medidas destinados a asegurar la preservación y la prevención de alteraciones físicas de la Información de los documentos de archivo;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XIV. Cuadro General de Clasificación Archivística.- instrumento técnico que refleja la estructura de un archivo con base en las atribuciones y funciones de cada Unidad y Área Administrativa;
 
 XV. Desclasificación.- acto por el que se determina la publicidad de un documento que anteriormente fue clasificado como Información reservada o parcialmente reservada;
 
-XVI. Destino Final.- selección en los archivos de trámite o concentración del Instituto, de aquellos expedientes cuyo plazo de conservación o uso ha prescrito, con el fin de darlos de baja o transferirlos a un Archivo Histórico;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XVI. Destino Final.- selección de los expedientes de los Archivos de Trámite o Concentración cuyo plazo de conservación o uso ha prescrito, con el fin de darlos de baja o transferirlos al Archivo Histórico;
 
 XVII. Días Hábiles.- todos los días del año con excepción de los sábados y domingos, los de descanso obligatorio, los festivos que señale el calendario oficial y aquellos en que no haya actividades en el Instituto de acuerdo al calendario oficial de labores, incluyendo el segundo periodo vacacional determinado por el Instituto;
 
-XVIII. Documento de Archivo.- el que registra un hecho, acto administrativo, jurídico, fiscal o contable, creado, recibido, adquirido, manejado y usado en el ejercicio de las facultades y actividades del Instituto;
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-XIX. Documento Electrónico.- información que puede constituir un Documento de Archivo cuyo tratamiento es automatizado y requiere de una herramienta específica para leerse o recuperarse;
+XVII Bis. DGAI.- Dirección General Adjunta de Informática;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XVIII. Documento de Archivo.- el que registra un hecho, acto administrativo, jurídico, fiscal o contable, creado, recibido, manejado y usado en el ejercicio de las facultades y actividades del Instituto, independientemente del soporte en el que se encuentre;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XIX. Documento Electrónico.- aquel que almacena la Información en un medio que precisa de un dispositivo electrónico para su lectura;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XIX Bis. Documento Histórico.- aquel que posee valores secundarios y de preservación a largo plazo por contener Información relevante para el Instituto, que integra la memoria colectiva de México y es fundamental para el conocimiento de la historia nacional;
 
 XX. Enlaces Estatales.- servidores públicos, designados al interior de los Centros de Consulta y Comercialización, ubicados en las Coordinaciones Estatales, para la recepción y seguimiento de solicitudes de acceso a datos personales, corrección de los mismos y acceso a la Información pública del Instituto;
 
-XXI. Expediente.- unidad documental constituida por uno o varios documentos de archivo, ordenados cronológicamente y relacionados con el ejercicio de las atribuciones de los servidores públicos del Instituto, derivadas de una misma actividad, asunto, registro o trámite, sin importar su fuente o fecha de elaboración;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-XXII. Fondo.- número con el que se reconocerá al Instituto y que coincidirá con el Ramo Presupuestal otorgado en el Presupuesto de Egresos de la Federación;
+XXI. Expediente.- unidad documental constituida por uno o varios documentos de archivo, ordenados cronológicamente y relacionados por un mismo asunto, actividad o trámite de las Unidades y Áreas Administrativas, de acuerdo con las funciones que les corresponden;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XXII. Fondo.- conjunto de documentos producidos orgánicamente por el Instituto, que se identifica con el nombre de INEGI;
 
 XXIII. Fundamentación.- consiste en señalar expresamente el precepto legal aplicable para la clasificación de un documento o expediente determinado, indicando la denominación del o los ordenamientos jurídicos, artículo(s), fracción(es), inciso(s) y párrafo(s), que expresamente le otorgan un carácter específico a la Información;
 
-XXIV. Guía Simple de Archivo.- instrumento de control archivístico que describe las series documentales de los archivos, indica sus características fundamentales, conforme al Cuadro General de Clasificación Archivística y sus datos generales, como son: la descripción, el volumen, las transferencias primarias y secundarias de Información, así como las bajas documentales de la misma;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XXIV. Guía Simple de Archivo.- esquema general de descripción de las Series de los archivos del Instituto, que indica sus características fundamentales conforme al Cuadro General de Clasificación Archivística y sus datos generales;
 
 XXV. Indice de Expedientes Reservados.- listado enunciativo ordenado de los expedientes reservados que se encuentran en los archivos del Instituto;
 
@@ -121,15 +173,23 @@ XXVII. Información Estadística y Geográfica.- aquélla contemplada por las fr
 
 XXVIII. Instituto.- Instituto Nacional de Estadística y Geografía;
 
-XXIX. Inventarios Documentales.- instrumentos de consulta que describen las series y expedientes de un archivo y que permiten su localización (Inventario General), en materia de transferencia (Inventarios de Transferencia Primaria y Secundaria), así como aquellas destinadas a la baja documental (Inventario de Baja Documental);
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XXIX. Inventarios Documentales.- instrumentos de consulta y control que describen los expedientes de un archivo, conforme a las series descritas en el Cuadro General de Clasificación Archivística, y que permiten su localización (Inventario General), transferencia (inventarios de transferencia) o baja documental (Inventario de Baja Documental);
 
 XXX. Ley.- Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XXX Bis. LFA.- Ley Federal de Archivos;
 
 XXXI. LSNIEG.- Ley del Sistema Nacional de Información Estadística y Geográfica;
 
 XXXII. Motivación.- señalar las razones o circunstancias especiales que se hayan tenido en consideración, para concluir que un caso particular actualiza el supuesto previsto por el precepto legal invocado, en la fundamentación del mismo;
 
-XXXIII. Plazo de Conservación.- periodo de guarda de la documentación en los Archivos de Trámite, de Concentración e Histórico. Consiste en la combinación de la vigencia documental, el término precautorio, el periodo de reserva o ampliación de la misma, en su caso, y los periodos adicionales establecidos por el presente Reglamento;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XXXIII. Plazo de Conservación.- periodo de guarda de la documentación en los Archivos de Trámite y de Concentración el cual deberá considerar el periodo de reserva o ampliación de la misma, así como el plazo adicional a que hace referencia el artículo 93 del Reglamento, en su caso y los periodos adicionales que establezcan las demás disposiciones legales y administrativas aplicables en el Instituto. Durante este plazo la documentación mantiene su vigencia;
 
 XXXIV. Portal de Transparencia.- Sitio Web del Instituto, en el que se divulgará la Información pública a que hace referencia el artículo 7 de la Ley;
 
@@ -139,17 +199,27 @@ XXXVI. Reglamento.- Reglamento de Transparencia y Acceso a la Información Públ
 
 XXXVII. Reglamento Interior.- el Reglamento Interior del Instituto Nacional de Estadística y Geografía;
 
-XXXVIII. Rubro Temático.- breve descripción que se da a un expediente o serie documental, para identificar de manera genérica el tema al que corresponde la Información que obra en los mismos y corresponde a una atribución general de una Unidad o Area Administrativa del Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-XXXIX. Sección.- número con el que se reconoce a la Unidad o Area Administrativa que generó o que guarda la Información y que deberá coincidir con el número que le asigna el Código Organizacional del Instituto;
+XXXVIII. Rubro Temático.- denominación que se da a un tema que agrupa a un conjunto de expedientes, correspondientes a una Unidad o Área Administrativa;
 
-XL. Serie Documental.- número con el que se reconoce a un grupo de expedientes que contienen Información correspondiente a uno o varios rubros temáticos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XXXIX. Sección.- cada una de las divisiones del Fondo, basada en las atribuciones del Instituto de conformidad con las disposiciones legales y normativas aplicables;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XL. Serie.- división de una Sección que corresponde al conjunto de documentos producidos en el desarrollo de una misma atribución general y que versan sobre una materia o asunto específico;
 
 XLI. Sistema de Datos Personales.- conjunto ordenado de datos personales que están en posesión del Instituto, con independencia de su forma de acceso, creación, almacenamiento u organización, los cuales podrán estar contenidos en registros físicos consistentes en soportes de Información, tales como: manuales, impresos, sonoros, magnéticos, visuales u holográficos, o bien, automatizados a través de una herramienta tecnológica específica para su acceso, recuperación o tratamiento;
 
-XLII. Soporte.- medio en el que obra la Información, pudiendo ser entre otros: copias simples, copias certificadas, medios magnéticos, ópticos, sonoros y visuales;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-XLIII. Subserie Documental.- número con el que se reconoce a un subgrupo de expedientes que contienen Información correspondiente a uno de varios rubros temáticos comprendidos dentro de una misma serie documental;
+XLII. Soporte.- medios en los que obra la información, pudiendo ser, entre otros: impresos, magnéticos, ópticos, sonoros y visuales;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XLIII. Subserie.- subgrupo de documentos que contienen información relacionada con diversas materias o asuntos determinados correspondientes a una misma Serie;
 
 XLIV. Transferencia.- traslado controlado y sistemático de expedientes de consulta esporádica de un Archivo de Trámite, al Archivo de Concentración (transferencia primaria) y de expedientes que deben conservarse de manera permanente, del Archivo de Concentración, al Archivo Histórico (transferencia secundaria);
 
@@ -159,13 +229,19 @@ XLVI. Unidad de Transparencia.- instancia determinada por la Junta de Gobierno d
 
 XLVII. Valor Documental.- condición de los documentos que les confiere características administrativas, legales, fiscales o contables en los Archivos de Trámite o Concentración (valores primarios); o bien evidenciales, testimoniales e informativas en el Archivo Histórico (valores secundarios);
 
-XLVIII. Valoración.- actividad que consiste en el análisis e identificación de los Valores Documentales para establecer criterios de disposición y acciones de transferencia, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-XLIX. Vigencia Documental.- periodo durante el cual un Documento de Archivo mantiene sus valores administrativos, legales, fiscales o contables, de conformidad con las disposiciones jurídicas vigentes aplicables al Instituto.
+XLVIII. Valoración Documental.- actividad que consiste en el análisis e identificación de los valores documentales para establecer criterios de disposición y acciones de transferencia, y
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XLIX. Vigencia Documental.- Periodo durante el cual un documento de archivo mantiene sus valores administrativos, legales, fiscales o contables, de conformidad con las disposiciones jurídicas vigentes y aplicables en el Instituto, a partir del cual se define su Plazo de Conservación.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 3.
 
-El presente Reglamento será de aplicación general y obligatoria para las Unidades Administrativas del Instituto y los servidores públicos adscritos a las mismas, quienes proporcionarán la Información que se requiera a la Unidad de Transparencia, en observancia de las disposiciones normativas aplicables, a efectos de dar cumplimiento en tiempo y forma con la Ley, la LSNIEG y el Reglamento.
+El presente Reglamento será de aplicación general y obligatoria para las Unidades y Áreas Administrativas del Instituto y los servidores públicos adscritos a las mismas.
 
 ###### Artículo 4.
 
@@ -177,11 +253,15 @@ Los plazos establecidos por periodos determinados, serán computados en días na
 
 Todas aquellas disposiciones que la Ley atribuya al Instituto Federal de Acceso a la Información Pública se entenderán, en lo conducente, y para efectos del presente Reglamento, conferidas a la Comisión.
 
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 6.
 
-Corresponderá a la Comisión, la interpretación del presente Reglamento para efectos administrativos, así como la resolución de los supuestos no previstos por el mismo.
+La interpretación del presente Reglamento para efectos administrativos, estará a cargo del Comité por lo que respecta a aspectos en materia de transparencia y acceso a la Información pública que posea el Instituto.
 
-Resultará aplicable lo dispuesto por la Ley Federal de Procedimiento Administrativo en forma supletoria, en lo que no se oponga a la Ley y al Reglamento.
+Por su parte el Comité de Valoración interpretará aspectos relacionados con la organización y conservación de archivos.
+
+Corresponderá a la Comisión la solución de los casos no previstos por el Reglamento.
 
 ## TITULO II,
 
@@ -261,9 +341,13 @@ El Comité está integrado por los siguientes miembros:
 
 I. El Director General de Administración, quien es Presidente del mismo;
 
-II. El Director General Adjunto de Asuntos Jurídicos, quien tiene el cargo de Vocal, y
+II. El Director General Adjunto de Asuntos Jurídicos, quien tiene el cargo de Vocal, y (sic)
 
 III. El Titular de la Contraloría Interna del Instituto, quien también es Vocal.
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+IV. El Titular del Área Coordinadora de Archivos, como asesor en materia de archivos, con voz y voto, en los términos que establece el Reglamento.
 
 Cada uno de los miembros del Comité podrá designar a su respectivo suplente, quien deberá tener un rango inmediato inferior a éste y, en las sesiones del Comité, ejercerá el derecho de voz y voto del Miembro Titular que represente. Cada miembro propietario del Comité podrá remover a su respectivo suplente en cualquier momento.
 
@@ -287,7 +371,13 @@ V. Realizar, a través de la Unidad de Transparencia, las gestiones necesarias p
 
 VI. Expedir, cuando así resulte procedente, resoluciones que confirmen la inexistencia de documentos, en términos de lo dispuesto por el artículo 46 de la Ley;
 
-VII. Establecer y supervisar, en su caso, la aplicación de los criterios y lineamientos específicos para el Instituto, en materia de organización, clasificación y conservación de documentos e Información correspondiente a la gestión administrativa del Instituto. Lo anterior, sin perjuicio de las atribuciones que correspondan a otras Unidades Administrativas de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+VII. Establecer y supervisar, la aplicación de los criterios y lineamientos específicos para el Instituto, en materia de organización, clasificación y conservación de documentos e Información correspondiente a la gestión administrativa del Instituto, de conformidad con las disposiciones legales y normativas aplicables. Lo anterior, sin perjuicio de las atribuciones que correspondan a otras Unidades Administrativas.
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+VII Bis. Aprobar el Plan Anual de Desarrollo Archivístico y los informes anuales de cumplimiento de éste;
 
 VIII. Aprobar el calendario anual de sesiones del Comité;
 
@@ -318,6 +408,10 @@ XX. Las que le confiera la Ley, el Reglamento y las demás disposiciones aplicab
 ###### Artículo 14.
 
 Las Sesiones del Comité quedarán legalmente instaladas con la asistencia de por lo menos dos de sus miembros.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Cuando se trate de sesiones en las que el Comité analice asuntos relacionados con la organización y conservación de archivos, para que éstas queden legalmente instaladas deberán de estar presentes por lo menos dos miembros del Comité, así como el Titular del Área Coordinadora de Archivos.
 
 Las decisiones del Comité se tomarán por mayoría de voto de los miembros presentes, correspondiendo al Presidente el voto de calidad en caso de empate.
 
@@ -781,11 +875,15 @@ El Comité tendrá un plazo de diez días hábiles para su aprobación; transcur
 
 El Indice de Expedientes Reservados será considerado como Información pública, sujeta a las obligaciones de disponibilidad y acceso establecidas por la Ley.
 
-El referido Indice deberá contener como mínimo lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+El referido Índice se conformará por rubros temáticos y deberá contener como mínimo lo siguiente:
 
 I. La denominación de la Unidad o Area Administrativa que generó, obtuvo, adquirió, transformó o que conserva bajo cualquier título la Información;
 
-II. El rubro temático;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+II. Asunto del expediente;
 
 III. El número de Expediente;
 
@@ -957,7 +1055,7 @@ La Información confidencial no estará sujeta a plazos de vencimiento y tendrá
 
 La Información confidencial que además se ubique en alguno de los supuestos establecidos por los artículos 13 y 14 de la Ley, será clasificada como reservada.
 
-Los datos personales serán confidenciales independientemente de que hayan sido obtenidos directamente de su titular o por cualquier otro medio.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 73.
 
@@ -1011,139 +1109,269 @@ De la Organización de Archivos.
 
 La organización de los archivos en que el Instituto conserve su Información, deberá asegurar la disponibilidad, localización expedita, integridad y conservación de los expedientes y documentos en que obren los mismos.
 
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+La Organización de los archivos del Instituto se rige por los siguientes principios:
+
+I. Conservación: Adoptar las medidas de índole técnica, administrativa, ambiental y tecnológica para la adecuada preservación de los archivos;
+
+II. Procedencia: Conservar el orden original de cada fondo documental producido por los sujetos obligados en el desarrollo de su actividad institucional, para distinguirlo de otros fondos semejantes;
+
+III. Integridad: Garantizar que los documentos de archivo sean completos y veraces para reflejar con exactitud la Información en ellos contenida, y
+
+IV. Disponibilidad: Adoptar medidas pertinentes para la localización de los documentos de archivo.
+
 ###### Artículo 78.
 
 Será responsabilidad del Titular de cada Unidad y Area Administrativa, vigilar y establecer los mecanismos y espacios necesarios para la administración de documentos bajo su resguardo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Artículo 78 A.- Los servidores públicos del Instituto no podrán conservar en su poder o sustraer documentos de archivo del Instituto. Al concluir su empleo, cargo o comisión, podrán conservar únicamente aquellos documentos que se integran al acta administrativa de entrega recepción que, en su caso, se elabore con motivo del término de su encargo.
+
+Los servidores públicos del Instituto que deban elaborar un acta de entrega-recepción al separarse de su empleo, cargo o comisión, deberán entregar a quienes los sustituyan en sus funciones o encargo los archivos organizados e instrumentos de control y consulta archivística que se encontraban bajo su custodia.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Artículo 78 B.- En caso de que algún Área Generadora desaparezca, se fusione o cambie de adscripción, el Área Coordinadora de Archivos, en conjunto con los responsables de (sic) Archivo de Trámite correspondientes, dispondrá lo necesario para que todos los documentos de archivo, expedientes e instrumentos de consulta y control archivístico sean entregados al Titular de la Unidad o Área Administrativa que corresponda para continuar con su trámite o resguardo, de conformidad con lo establecido en la normatividad aplicable.
 
 ###### Artículo 79.
 
 La coordinación de las acciones en materia de archivos en el Instituto corresponderá a la Dirección General Adjunta de Recursos Materiales y Servicios Generales. Para el desempeño de esta tarea, su Titular contará con las siguientes funciones:
 
-I. Proponer al Comité el establecimiento y actualización de criterios específicos en materia de organización y conservación de archivos, e implementar aquellos que sean aprobados por éste;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-II. Elaborar, actualizar y presentar al Comité procedimientos archivísticos que faciliten la consulta, el uso, la organización y conservación de la Información;
+I. Elaborar y someter a autorización del Comité el establecimiento y actualización de criterios específicos en materia de organización y conservación de archivos; así como de los expedientes que contengan Información y documentación clasificada como reservada y/o confidencial a fin de asegurar su integridad, de conformidad con lo establecido en la Ley, la LFA, el Reglamento y demás disposiciones normativas aplicables, coordinando la implementación de las referidas disposiciones en el Instituto;
 
-III. Fungir como responsable del Archivo de Concentración del Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+II. Elaborar, actualizar y someter a consideración del Comité procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos, que faciliten la consulta, el uso, la organización y conservación de la Información, los cuales formarán parte del Plan Anual de Desarrollo Archivístico de conformidad con lo establecido en la Ley, la LFA, el Reglamento y demás disposiciones normativas aplicables;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+III. Coordinar normativa y operativamente las acciones de los Archivos de Trámite, Concentración e Histórico;
 
 IV. Supervisar la conformación de la memoria documental institucional, que integre el Archivo Histórico;
 
-V. Coordinar a las Unidades y Areas Administrativas en los trabajos para la elaboración y actualización de los instrumentos de consulta y control archivístico institucionales, salvo lo dispuesto por el último párrafo del artículo 86 del Reglamento;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-VI. Desarrollar e implementar el programa de capacitación, apoyo técnico y asesoría archivística del Instituto;
+V. Elaborar y actualizar, en coordinación con los responsables de los Archivos de Trámite, de Concentración e Histórico, el Cuadro General de Clasificación Archivística, el Catálogo de Disposición Documental, los Inventarios Generales por Expediente, la Guía Simple de Archivos, así como los demás instrumentos de consulta y control archivístico, salvo lo dispuesto por el último párrafo del artículo 86 del Reglamento;
 
-VII. Elaborar, en coordinación con los responsables de los Archivos de Trámite, el Cuadro General de Clasificación Archivística, el Catálogo de Disposición Documental, así como la Guía Simple de Archivos del Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-VIII. Coordinar las acciones de los Archivos de Trámite de las Unidades y Areas Administrativas;
+VI. Desarrollar e implementar el programa de capacitación y asesoría archivística del Instituto;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+VII. Elaborar y presentar al Comité, el Plan Anual de Desarrollo Archivístico, en el que se contemplen las acciones a emprender a escala institucional para la modernización y mejoramiento continuo de los servicios documentales y archivísticos, el cual deberá ser publicado en el Portal de Transparencia, así como sus respectivos informes anuales de cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+VIII. Coordinar las acciones a cargo de los responsables de los Archivos de Trámite y enlaces de (sic) Archivo de Concentración de las Unidades y Áreas Administrativas;
 
 IX. Elaborar y actualizar el registro de los Responsables de los diversos archivos del Instituto, el cual incluirá la dirección, teléfono y correo electrónico oficiales de cada uno de ellos, así como su nombre y cargo. Dicha Información deberá incorporarse al Portal de Transparencia, en apego a lo dispuesto por el último párrafo del artículo 27 de este Reglamento.
 
-X. Coordinar los procedimientos de valoración y destino final de la documentación, con base en la Ley, el Reglamento y demás disposiciones normativas aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-XI. Coordinar con la Dirección General Adjunta de Informática, las actividades destinadas a la automatización de los archivos que contengan Información y al manejo de documentos electrónicos, y
+X. Coordinar los procedimientos de valoración y destino final de la documentación, con base en lo dispuesto por la Ley, la LFA, el Reglamento y demás disposiciones normativas aplicables;
 
-XII. Las demás previstas por este Reglamento o que le confiera el Reglamento Interior.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-Para el correcto desempeño de sus funciones como Area Coordinadora de Archivos del Instituto, el Titular de la Dirección General Adjunta de Recursos Materiales y Servicios Generales designará a un servidor público responsable de su seguimiento, el cual deberá contar con el nivel inmediato inferior al de éste.
+XI. Coordinar con la DGAI, las actividades destinadas a la automatización de los archivos y al manejo de documentos electrónicos;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XII. Participar en las sesiones del Comité como asesor con voz y voto, cuando dicho órgano colegiado analice asuntos relacionados con la organización y conservación de archivos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XIII. Fungir como representante del Instituto ante el Consejo Nacional de Archivos, en los términos que al efecto disponga la LFA, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+XIV. Las demás previstas por el Reglamento, que le confiera el Reglamento Interior o las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Para el correcto desempeño de sus funciones como Área Coordinadora de Archivos del Instituto, el Titular de la Dirección General Adjunta de Recursos Materiales y Servicios Generales contará con el apoyo de un responsable de su seguimiento. Esta función recaerá en el Titular de la Dirección del Sistema Institucional de Archivos quien fungirá como Asesor Suplente del Comité para efectos de lo dispuesto por la fracción XII de este artículo.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 80.
 
-Los Titulares de las Unidades y Areas Administrativas, deberán adoptar medidas y procedimientos técnicos que garanticen la conservación de la Información y la seguridad de sus soportes, considerando en todo momento las disposiciones que al efecto emita la Dirección General Adjunta de Recursos Materiales y Servicios Generales.
+Los Titulares de las Unidades y Áreas Administrativas, deberán adoptar medidas y procedimientos técnicos que garanticen la conservación de la Información y la seguridad de sus soportes, considerando en todo momento las disposiciones que al efecto emita el Área Coordinadora de Archivos.
 
 ###### Artículo 81.
 
 Cada Unidad y Area Administrativa deberá contar con un control de gestión documental que tendrá las siguientes funciones:
 
-I. Recibir y distribuir la correspondencia que ingrese a esa Unidad o Area Administrativa;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-II. Registrar y controlar la correspondencia que recibe y genera;
+I. Recibir, registrar y dar seguimiento a la correspondencia de entrada;
 
-III. Recibir y despachar la correspondencia de entrada y salida, respectivamente, a través de los servicios de correspondencia que proporciona la Dirección General Adjunta de Recursos Materiales y Servicios Generales o cualquier otro medio que permita que la documentación llegue a su destinatario, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-IV. Para el control de la correspondencia de entrada se deberá elaborar una ficha o base de datos, para el seguimiento administrativo de la gestión a la que dé lugar el documento ingresado a cada Unidad o Area Administrativa; ésta deberá contener por lo menos:
+II. Registrar, despachar y dar seguimiento a la correspondencia de salida;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+III. El control de correspondencia deberá de contener por lo menos:
 
 a) Número identificador;
 
-b) Fecha y hora de recepción;
+b) Fecha y hora de recepción o envío, según corresponda;
 
-c) Asunto;
+c) Asunto, y
 
-d) Generador y receptor del documento, y
+d) Remitente y destinatario del documento.
 
-e) Respuesta al documento.
+IV. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2014)
 
-El control a que hace referencia la fracción IV anterior, podrá ser operado por el sistema electrónico automatizado que para tal efecto determine el Area Coordinadora de Archivos del Instituto.
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+El control a que hace referencia la fracción III anterior, podrá ser operado por el sistema automatizado que para tal efecto determine el Área Coordinadora de Archivos del Instituto.
 
 El área encargada del control de gestión al interior de cada Unidad o Area Administrativa deberá evitar la duplicidad y/o fotocopiado de la documentación recibida. En su caso, podrá contar con una copia digital que deberá de conservar sólo mientras el documento se encuentre en trámite. En caso de contar con copias de la documentación recibida, ésta no formará parte del expediente de archivo, por lo que su plazo de guarda será cautelar y de conformidad con el artículo 97 del Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+###### Artículo 81 Bis.
+
+Todo documento de archivo del Instituto, formará parte del Sistema Institucional de Archivos. Dicho Sistema se regirá por los principios a que hace referencia el artículo 77 del Reglamento e incluirá, entre otros, los procesos siguientes:
+
+I. Control de gestión documental;
+
+II. Identificación de documentos de archivo;
+
+III. Clasificación archivística por funciones;
+
+IV. Integración y ordenación de expedientes;
+
+V. Elaboración de instrumentos de consulta y control;
+
+VI. Transferencias documentales;
+
+VII. Conservación de archivos;
+
+VIII. Prevaloración documental;
+
+IX. Criterios para la conservación de documentos que contengan información clasificada;
+
+X. Seguimiento a la organización y conservación de archivos, y
+
+XI. Baja documental.
+
+El Sistema Institucional de Archivos será administrado a través de un sistema electrónico desarrollado por la DGAI, en coordinación con el Área Coordinadora de Archivos, que implicará la automatización de los procesos archivísticos y de la generación de los instrumentos de consulta y control archivístico a que hace referencia el tercer párrafo del artículo 86 del Reglamento.
 
 ### Capítulo II,
 
 De los Archivos de Trámite.
 
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 82.
 
-Cada Unidad y Area Administrativa del Instituto contará con un Archivo de Trámite, en el que se resguardará la documentación y/o expedientes activos o de consulta frecuente. Este Archivo podrá estar distribuido en los diferentes espacios físicos que ocupen sus áreas administrativas. El responsable del mismo, será nombrado por el Titular de cada Unidad o Area Administrativa, quien definirá su nivel jerárquico.
+Cada Unidad y Área Administrativa del Instituto contará con un Archivo de Trámite, en el que se resguardará la documentación y/o expedientes activos o de consulta frecuente. Este Archivo podrá estar distribuido en los diferentes espacios físicos que ocupen las Áreas Generadoras. El responsable del mismo será nombrado por el Titular de cada Unidad o Área Administrativa y contará con un nivel mínimo de Subdirector de Área.
 
-Se deberá notificar por escrito la designación del responsable de cada Archivo de Trámite a la Dirección General Adjunta de Recursos Materiales y Servicios Generales, señalando: nombre, puesto, ubicación, teléfono y correo electrónico. Así mismo, deberá reportarse en los mismos términos cualquier cambio en la designación.
+Se deberá notificar por escrito al Titular del Área Coordinadora de Archivos la designación del responsable de cada Archivo de Trámite, señalando: nombre, puesto, domicilio, teléfono y correo electrónico. Así mismo, deberá reportarse en iguales términos cualquier cambio en la designación.
 
 ###### Artículo 83.
 
 Los responsables de cada Archivo de Trámite tendrán las siguientes funciones:
 
-I. Coordinar la integración de los expedientes que cada servidor público adscrito a la Unidad o Area Administrativa que represente, genere bajo su responsabilidad, en ejercicio de las funciones o atribuciones que le son propias;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-II. Supervisar la conservación por parte de los servidores públicos del área o áreas de su adscripción, de la documentación que se encuentra activa y aquella que ha sido clasificada como reservada y confidencial, conforme al Catálogo de Disposición Documental del Instituto;
+I. Coordinar la integración de los expedientes que los servidores públicos adscritos a cada Unidad o Área Administrativa generen bajo su responsabilidad en ejercicio de las funciones o atribuciones que le son propias;
 
-III. Coadyuvar con el Area Coordinadora de Archivos, en la elaboración del Cuadro General de Clasificación Archivística, el Catálogo de Disposición Documental y la Guía Simple de Archivos del Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-IV. Elaborar y coordinar la integración de los Inventarios Documentales de transferencia primaria para su envío al Archivo de Concentración, así como vigilar permanentemente el cumplimiento de las vigencias y transferencias expresadas en el Catálogo de Disposición Documental del Instituto, valorando la selección de los documentos y expedientes de las series documentales a transferir en forma primaria;
+II. Supervisar la conservación, por parte de los servidores públicos de las áreas de su adscripción, de la documentación que se encuentra activa y aquella que ha sido clasificada como reservada y confidencial;
 
-V. Controlar el acceso a la Información y brindar el préstamo de aquellos expedientes y documentos que conserve en resguardo;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-VI. Mantener actualizado el Catálogo de Disposición Documental del Instituto y la Guía Simple de Archivos, en la sección relativa a la Unidad o Area Administrativa de su adscripción y proporcionar esta Información a la Unidad de Transparencia cuando sea requerida;
+III. Coadyuvar con el Área Coordinadora de Archivos en la elaboración y actualización del Cuadro General de Clasificación Archivística, el Catálogo de Disposición Documental, los Inventarios Generales por Expediente y la Guía Simple de Archivos del Instituto;
 
-VII. Vigilar que todos los expedientes de la Unidad o Area Administrativa de su adscripción se encuentren identificados de conformidad con el artículo 90 del presente Reglamento, y lo que al efecto disponga la Dirección General Adjunta de Recursos Materiales y Servicios Generales, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+IV. Coordinar y supervisar la elaboración e integración de los inventarios de transferencia primaria para su envío al Archivo de Concentración, así como vigilar permanentemente el cumplimiento de los plazos de conservación establecidos en el Catálogo de Disposición Documental del Instituto, verificando la selección de los expedientes a transferir al Archivo de Concentración;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+V. Supervisar el préstamo de aquellos expedientes que conserven bajo su resguardo los servidores públicos de las áreas de su adscripción;
+
+VI. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2014)
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+VII. Vigilar que todos los expedientes de la Unidad o Área Administrativa de su adscripción se encuentren identificados en su portada, en cumplimiento a lo dispuesto en el artículo 90 del Reglamento y demás disposiciones que para tal efecto emita el Área Coordinadora de Archivos;
 
 VIII. Guardar el carácter de confidencialidad y reserva que determinen los Titulares de la Unidad o Area Administrativa de su adscripción, para documentos y expedientes, cuando se le asigne el resguardo de Información que así haya sido clasificada.
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+IX. Las demás que contemplen otras disposiciones legales y normativas aplicables en el Instituto.
 
 ### Capítulo III,
 
 Del Archivo de Concentración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 84.
 
-El Instituto contará con un Archivo de Concentración, del cual será responsable la Dirección General Adjunta de Recursos Materiales y Servicios Generales, y cuyas funciones serán las siguientes:
+El Instituto contará con un Archivo de Concentración adscrito al Área Coordinadora de Archivos, el cual estará a cargo del Titular de la Dirección del Sistema Institucional de Archivos.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+El Archivo de Concentración estará integrado por unidades de resguardo, de acuerdo con las necesidades del Instituto, bajo custodia de enlaces de (sic) Archivo de Concentración. El Responsable de Archivo de Concentración y los enlaces, tendrán las siguientes funciones:
 
 I. Recibir de los Archivos de Trámite la documentación semiactiva;
 
-II. Conservar precautoriamente la documentación semiactiva hasta cumplir su vigencia documental conforme al Catálogo de Disposición Documental del Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+II. Conservar precautoriamente la documentación semiactiva hasta cumplir su plazo de conservación conforme al Catálogo de Disposición Documental del Instituto;
 
 III. Realizar una revisión previa respecto de los valores secundarios de la documentación para determinar, previo visto bueno de la Unidad o Area Administrativa generadora de la Información, el destino final de la misma;
 
-IV. Elaborar los Inventarios Documentales por expediente, de transferencia secundaria y de Baja Documental, de la Información que se resguarda en el Archivo de Concentración;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+IV. Elaborar la Guía Simple de Archivo de Concentración, el Inventario General por Expediente del Archivo de Concentración, así como los inventarios de Transferencia Secundaria y de Baja Documental;
 
 > <small>(REFORMADA, D.O.F. 27 DE JULIO DE 2010)</small>
 
 V. Realizar las transferencias secundarias al Archivo Histórico del Instituto;
 
-VI. Orientar a los Responsables de los Archivos de Trámite del Instituto, sobre el servicio de consulta de expedientes resguardados en el Archivo de Concentración, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE JULIO DE 2010)</small>
+VI. Brindar el servicio de consulta de expedientes resguardados en el Archivo de Concentración, así como cualquier orientación necesaria respecto del mismo;
 
-VII. Gestionar ante el Comité de Valoración, el trámite de Baja Documental de expedientes que carezcan de valores secundarios.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-Los documentos y expedientes que obren en el Archivo de Concentración, podrán resguardarse en el espacio físico que el Responsable del mismo autorice, a propuesta del Titular de la Unidad o Area Administrativa de la que provengan, atendiendo a la disponibilidad de espacios en el Instituto. Sin perjuicio de ello, la Información que obre en el Archivo de Concentración, deberá apegarse a los criterios, lineamientos y demás disposiciones normativas que para tal efecto apruebe el Area Coordinadora de Archivos del Instituto o el Comité, según corresponda.
+VII. Gestionar ante el Área Coordinadora de Archivos la Baja Documental de expedientes que hayan concluido su plazo de conservación y carezcan de valores secundarios, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+VIII. Las demás que contemplen otras disposiciones legales y normativas aplicables en el Instituto.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Los expedientes que obren en el Archivo de Concentración, podrán resguardarse en el espacio físico que el Responsable del mismo autorice, a propuesta del Titular de la Unidad o Área Administrativa de la que provengan, atendiendo a la disponibilidad de espacios en el Instituto. Sin perjuicio de ello, los expedientes que obren en el Archivo de Concentración, deberán apegarse a los criterios, lineamientos y demás disposiciones normativas que para tal efecto apruebe el Área Coordinadora de Archivos del Instituto o el Comité, según corresponda.
 
 ### Capítulo IV,
 
 Del Archivo Histórico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 85.
 
-El Instituto contará con un Archivo Histórico adscrito al Area Coordinadora de Archivos. El responsable de éste deberá contar con conocimientos y experiencia en archivística y será nombrado por el Director General de Administración, quien definirá su nivel jerárquico.
+El Instituto contará con un Archivo Histórico adscrito al Área Coordinadora de Archivos, el cual estará a cargo del Titular de la Dirección del Sistema Institucional de Archivos.
 
 El Responsable del Archivo Histórico, tendrá las siguientes funciones:
 
-I. Coadyuvar con el Area Coordinadora de Archivos o, en su caso, con el Archivo de Concentración, en la elaboración del Cuadro General de Clasificación Archivística, el Catálogo de Disposición Documental y el Inventario General;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+I. Coadyuvar con el Área Coordinadora de Archivos, en la elaboración del Cuadro General de Clasificación Archivística, el Catálogo de Disposición Documental, así como elaborar y actualizar el Inventario General del Archivo Histórico;
 
 II. Asesorar a las Unidades y Areas Administrativas respecto de las características de los documentos y expedientes que deban conservarse permanentemente por tener valor histórico;
 
@@ -1151,13 +1379,63 @@ II. Asesorar a las Unidades y Areas Administrativas respecto de las característ
 
 III. Validar la documentación que deba conservarse permanentemente por tener valor histórico y tramitar su dictamen ante el Comité de Valoración;
 
-IV. Recibir los documentos con valor histórico enviados por el Archivo de Concentración;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+IV. Recibir, organizar, conservar, describir y difundir los documentos con valor histórico enviados por el Archivo de Concentración, a través de transferencias secundarias.
 
 V. Generar y actualizar los Instrumentos de Consulta y Control Archivístico que permitan organizar, conservar, describir y difundir la documentación con valor histórico;
 
-VI. Establecer un programa que permita preservar los documentos históricos a través de sistemas físicos, ópticos, electrónicos, entre otros, con la asesoría técnica de la Dirección General Adjunta de Informática, en su caso, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-VII. Estimular el uso y aprovechamiento social de la documentación, difundiendo el acervo y sus instrumentos de consulta.
+VI. Establecer un programa que permita preservar los documentos históricos a través de sistemas físicos, ópticos, electrónicos, entre otros, con la asesoría técnica de la DGAI, en su caso;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+VII. Estimular el uso y aprovechamiento social de la documentación histórica, difundiendo el acervo y sus instrumentos de consulta, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+VIII. Las demás que contemplen otras disposiciones legales y normativas aplicables en el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Artículo 85 A.- El acceso a los documentos del Archivo Histórico del Instituto, en términos de lo establecido en el artículo 26 de la LFA, se efectuará conforme al procedimiento que para tal efecto apruebe el Comité de Valoración Documental.
+
+Los documentos contenidos en el Archivo Histórico y los identificados como históricos confidenciales, no serán susceptibles de ser clasificados como reservados en términos de lo dispuesto por la Ley, debiendo estarse a lo dispuesto por el artículo 85 B.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Artículo 85 B.- La información clasificada como confidencial con fundamento en la Ley, respecto de la cual se haya determinado su conservación permanente por tener valor histórico, conservará tal carácter, con fundamento en lo dispuesto por la LFA y este Reglamento, por un plazo de 30 años a partir de la fecha de creación del documento que la contenga, o bien de 70 años tratándose de datos personales en los términos que al efecto dispone el artículo 27 de la LFA. Estos documentos se identificarán como históricos confidenciales, permaneciendo en el Archivo de Concentración y serán transferidos al Archivo Histórico del Instituto una vez cumplidos los plazos arriba señalados.
+
+No obstante lo anterior, el Archivo Histórico podrá ordenar la transferencia a sus acervos de los documentos históricos confidenciales de las Unidades o Áreas Administrativas para su custodia, cuando determine que las unidades de resguardo del Archivo de Concentración no cuentan con las condiciones óptimas para garantizar la debida organización y conservación de los mismos, durante el plazo previsto en el párrafo anterior.
+
+Los documentos históricos confidenciales transferidos al Archivo Histórico en calidad de custodia, no formarán parte del Archivo Histórico de acceso público, hasta que concluya el plazo previsto en el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Artículo 85 C.- Durante el plazo que establece el primer párrafo del artículo 85 B, el Titular de la Unidad o Área Administrativa que realizó la transferencia primaria al Archivo de Concentración de los documentos considerados históricos confidenciales será responsable de atender las solicitudes de acceso relacionadas con dichos documentos.
+
+Sin perjuicio de lo dispuesto por los artículos 85 A y 85 B del Reglamento, el acceso a los documentos considerados como históricos confidenciales, deberá observar lo dispuesto por la Ley y la LFA.
+
+Corresponderá a las Unidades y Áreas Administrativas del Instituto orientar a los solicitantes de información dictaminada con valor histórico, sobre el procedimiento aplicable para el acceso a la misma, atendiendo a su naturaleza.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Artículo 85 D.- El Comité podrá determinar procedente el acceso a información contenida en documentos considerados como históricos confidenciales cuando:
+
+I. Se solicite para una investigación o estudio que se considere relevante para el país, siempre que el mismo no se pueda realizar sin el acceso a la información confidencial, y el investigador o la persona que realice el estudio quede obligado por escrito a no divulgar la información confidencial, ni ninguna que pueda hacer identificable a su titular;
+
+II. El interés público en el acceso sea mayor a cualquier invasión a la privacidad que pueda resultar de dicho acceso;
+
+III. El acceso beneficie de manera clara y evidente al titular de la información confidencial, y
+
+IV. Sea solicitada por un biógrafo autorizado por el titular de la información confidencial.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Artículo 85 E.- Corresponderá al Comité de Valoración Documental, emitir opinión cuando exista la necesidad de que documentos institucionales considerados históricos, que contengan Información o Información Estadística y Geográfica, salgan temporalmente del país por cualquier causa.
+
+La opinión a que hace referencia el párrafo anterior, deberá acompañarse a la solicitud de autorización, que con fundamento en lo dispuesto por el artículo 31 de la LFA, deba remitirse al Archivo General de la Nación.
 
 ### Capítulo V,
 
@@ -1191,19 +1469,21 @@ Corresponderá al Area Coordinadora de Archivos en el Instituto, la determinaci�
 
 La Unidad de Transparencia, determinará el formato, guía, lineamientos, criterios y demás documentos o disposiciones normativas necesarias para desarrollar el Indice de Expedientes Reservados del Instituto.
 
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 87.
 
-La estructura del Cuadro General de Clasificación Archivística será jerárquica, atendiendo cuando menos a los siguientes niveles:
+La estructura del Cuadro General de Clasificación Archivística, atenderá cuando menos a los siguientes niveles:
 
-I. Primero: (Fondo) conjunto de documentos producidos orgánicamente por el Instituto, el cual corresponde a un número que lo identifica, el cual coincide con el Ramo Presupuestal otorgado en el Presupuesto de Egresos de la Federación;
+I. Fondo: Conjunto de documentos producidos orgánicamente por el Instituto, que se identifica como INEGI;
 
-II. Segundo: (Sección) cada una de las divisiones del fondo, basada en las atribuciones de cada Unidad o Area Administrativa reconocidas en el Reglamento Interior, y que deberá coincidir con el número que le asigna a las mismas el Código Organizacional del Instituto, y
+II. Sección: Cada una de las divisiones del Fondo, basada en las atribuciones de cada Unidad o Área Administrativa reconocidas en el Reglamento Interior, y
 
-III. Tercero: (Serie) división de una sección que corresponde al conjunto de documentos producidos en el desarrollo de una misma atribución general y que versan sobre una materia o asunto específico, la cual se identifica de acuerdo a un Código de Clasificación Archivística predeterminado.
+III. Serie: División de una Sección que corresponde al conjunto de documentos producidos en el desarrollo de una misma atribución general y que versan sobre una materia o asunto específico.
 
-> <small>(REFORMADO, D.O.F. 27 DE JULIO DE 2010)</small>
+Sin perjuicio de lo anterior podrá recurrirse al uso de Subseries, si así lo requiere la conformación de los archivos a cargo de las Unidades o Áreas Administrativas, identificándolas en su caso en similares términos que los descritos para las Series. Cuando resulte necesario el uso de Subseries, las Unidades o Áreas Administrativas deberán solicitar la opinión del Área Coordinadora de Archivos previo a su implementación.
 
-Sin perjuicio de lo anterior, previa autorización del Area Coordinadora de Archivos, podrá recurrirse al uso de Subseries, si así lo requiere la conformación de los Archivos a cargo de las distintas Unidades y Areas Administrativas del Instituto, identificándolas en su caso, en similares términos que los descritos para las Series.
+El Cuadro General de Clasificación Archivística será actualizado en el mes de diciembre de cada año.
 
 ###### Artículo 88.
 
@@ -1211,11 +1491,13 @@ Las Unidades y Areas Administrativas elaborarán una guía simple de archivos po
 
 El documento a que hace referencia el párrafo anterior, será integrado por el Area Coordinadora de Archivos a efecto de generar la Guía Simple de Archivos del Instituto.
 
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 89.
 
-Las Unidades y Areas Administrativas a través del Responsable del Archivo de Trámite, deberán de realizar la integración de la Información bajo su responsabilidad en el Catálogo de Disposición Documental del Instituto, mismo que comprenderá la totalidad de los expedientes de cada Unidad y Area Administrativa, el cual deberá ser actualizado en el mes de enero de cada año y contener como mínimo los datos siguientes: Código de Clasificación Archivística a nivel de Sección, Serie o Subserie, plazos de conservación, vigencia y valor documental, destino final de la Información y, en su caso, la Clasificación de la Información.
+Las Unidades Administrativas, a través de los Responsables de (sic) Archivo de Trámite, deberán de realizar la integración de la Información bajo su responsabilidad en el Catálogo de Disposición Documental del Instituto, mismo que comprenderá la totalidad de los expedientes de cada Unidad y Área Administrativa, el cual deberá ser actualizado en el mes de diciembre de cada año y contener como mínimo los datos siguientes: Código de Clasificación Archivística a nivel de Serie o Subserie, los valores documentales, los plazos de conservación y, en su caso, la Clasificación de reserva o confidencialidad y posible valor histórico.
 
-En relación con el Catálogo de Disposición Documental, se observará adicionalmente, lo dispuesto por el artículo 92 del Reglamento y demás disposiciones aplicables al Instituto.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
 ### Capítulo VI,
 
@@ -1227,9 +1509,11 @@ Los responsables de los distintos Archivos de Trámite del Instituto, se asegura
 
 I. Nombre del Instituto y Logotipo autorizado;
 
-II. Nombre y número de la Unidad Administrativa (Sección);
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-III. Rubro temático o asunto sustantivo;
+II. Denominación de la Unidad Administrativa;
+
+III. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2014)
 
 IV. Número consecutivo que dentro de la Serie y Subserie documental identifica a cada uno de los expedientes, en su caso;
 
@@ -1239,9 +1523,13 @@ VI. Asunto (resumen o descripción del expediente);
 
 VII. Valores documentales primarios (administrativo, legal, contable o fiscal) o secundarios (históricos);
 
-VIII. Vigencia documental (de conformidad con el Catálogo de Disposición Documental del Instituto);
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-IX. Número de fojas útiles al cierre del expediente: es el número total de hojas contenidas en el expediente una vez que éste ha sido cerrado, y
+VIII. Plazo de Conservación (de conformidad con el Catálogo de Disposición Documental del Instituto);
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+IX. Número total de hojas contenidas en el expediente una vez que éste ha sido cerrado, y
 
 X. Cuando se trate de expedientes y documentos clasificados como reservados o confidenciales, deberán contener, además, la leyenda de clasificación a que hacen referencia los artículos 37 y 39 de este Reglamento, respectivamente.
 
@@ -1267,19 +1555,23 @@ De la Conservación de Archivos.
 
 Corresponderá al Titular del Area Coordinadora de Archivos, coordinar la actualización periódica, en el término que al efecto establece el artículo 89 del Reglamento, del Catálogo de Disposición Documental, a efecto de que refleje la integración de la Información del Instituto.
 
-El Catálogo de Disposición Documental establecerá los periodos de vigencia de las series documentales, sus plazos de conservación, así como su carácter de reserva o confidencialidad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-Para efecto de los periodos de reserva de los expedientes, el Catálogo de Disposición Documental, deberá vincularse al Indice de Expedientes Reservados que establece el artículo 17 de la Ley.
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE JULIO DE 2010)</small>
+Para efectos de la reserva de Información, el Catálogo de Disposición Documental y el Índice de Expedientes Reservados que establece el artículo 17 de la Ley, deberán vincularse.
 
-El Instituto enviará al Archivo General de la Nación, para su conocimiento y registro, una copia de su Catálogo de Disposición Documental actualizado, en soporte electrónico, a más tardar el último día del mes de febrero de cada año.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 93.
 
-En los plazos de conservación de los archivos se tomará en cuenta la vigencia documental, así como el periodo de reserva correspondiente, en su caso.
+En los plazos de conservación de los archivos se tomará en cuenta el periodo de reserva o ampliación de la misma, en su caso.
 
-A partir de la desclasificación de los expedientes reservados, el plazo de conservación adicionará un periodo igual al de reserva o al que establezca el Catálogo de Disposición Documental, si éste fuera mayor al primero.
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+A partir de la desclasificación de expedientes reservados, el plazo de conservación adicionará un periodo igual al de reserva que señale el Expediente o establezca el Índice de Expedientes Reservados, si este periodo fuera mayor al primero.
 
 > <small>(REFORMADO, D.O.F. 27 DE JULIO DE 2010)</small>
 
@@ -1291,25 +1583,29 @@ Al concluir los plazos establecidos en este artículo, el Instituto, a través d
 
 Las solicitudes de dictamen de destino final, el dictamen del Comité de Valoración y las actas de Baja Documental o de transferencia secundaria, deberán digitalizarse y publicarse en el Portal de Transparencia por la Dirección General Adjunta de Recursos Materiales y Servicios Generales, en cumplimiento a lo dispuesto por el artículo 7 fracción XVII de la Ley, de conformidad con lo establecido por el último párrafo del artículo 27 del Reglamento.
 
-> <small>(REFORMADO, D.O.F. 27 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 95.
 
-Los inventarios de Baja Documental autorizados por el Comité de Valoración, deberán conservarse en el Archivo de Concentración por un plazo de cinco años, contados a partir de la fecha en que se haya autorizado la Baja Documental correspondiente. Este plazo se incluirá en el Catálogo de Disposición Documental.
+Los inventarios de Baja Documental autorizados por el Comité de Valoración, deberán conservarse en el Archivo de Concentración por un plazo de cinco años, contados a partir de la fecha en que se haya autorizado la Baja Documental correspondiente.
 
 ###### Artículo 96.
 
 Las Unidades o Areas Administrativas, que por sus funciones reciban y/o guarden Información clasificada como reservada por otra Unidad o Area Administrativa, serán responsables de custodiar dicha Información y resguardarla durante el periodo de reserva establecido por la Unidad o Area Administrativa generadora de la Información, correspondiendo únicamente a ésta la responsabilidad de incorporar la Información al Indice de Expedientes Reservados.
 
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 97.
 
-La documentación administrativa que obre en copia simple en las áreas encargadas de control de gestión y en los Archivos de Trámite de las Unidades y Areas Administrativas, se resguardará por un plazo precautorio de dos años, contados a partir del año siguiente al que se generó, procediendo posteriormente a tramitar su baja definitiva.
+La documentación administrativa que obre en copia simple en las áreas encargadas de control de gestión y en los Archivos de Trámite de las Unidades y Áreas Administrativas, se resguardará por un plazo precautorio de dos años, contados a partir del año siguiente al que se generó, procediendo posteriormente a su eliminación de conformidad a las disposiciones normativas aplicables.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 98.
 
-Las Unidades y Areas Administrativas establecerán la vigencia documental de las Series bajo su resguardo, en el Catálogo de Disposición Documental, para lo cual considerarán que el periodo de resguardo que determinen corresponderá únicamente a documentos originales; por lo que hace a las copias simples, resultará aplicable lo dispuesto en el artículo anterior.
+Las Unidades y Áreas Administrativas establecerán el plazo de conservación de las Series y Subseries en el Catálogo de Disposición Documental, para lo cual considerarán que el periodo de resguardo que determinen corresponderá únicamente a documentos originales. Por lo que hace a las copias simples, resultará aplicable lo dispuesto en el artículo anterior.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 27 DE JULIO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE JULIO DE 2010)</small>
 
 ### Capítulo VII Bis,
 
@@ -1329,7 +1625,9 @@ II. Un representante de la Dirección General de Vinculación y Servicio Públic
 
 III. Un representante de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, en calidad de Vocal;
 
-IV. Un representante de las Direcciones Generales de Estadísticas Sociodemográficas, de Estadísticas Económicas, y de Geografía y Medio Ambiente, en calidad de Vocal, cuando el pleno del Comité de Valoración resuelva asuntos de su competencia;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+IV. Un representante de las Direcciones Generales de Estadísticas Sociodemográficas; de Estadísticas de Gobierno, Seguridad Pública y Justicia; de Estadísticas Económicas; de Geografía y Medio Ambiente; de Integración, Análisis e Investigación, en calidad de Vocal cuando el pleno del Comité de Valoración resuelva asuntos de su competencia;
 
 V. El Director del Sistema Institucional de Archivos, como Secretario Ejecutivo, quien en ausencia del Presidente del Comité de Valoración fungirá como su Suplente;
 
@@ -1351,13 +1649,19 @@ La integración y funcionamiento del Comité de Valoración deberá apegarse a l
 
 Artículo 98 B.- El Comité de Valoración tendrá las siguientes facultades:
 
-I. Aprobar, en la primera sesión de cada ejercicio fiscal, el Catálogo de Disposición Documental del Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+I. Aprobar, en la última sesión de cada ejercicio fiscal, el Cuadro General de Clasificación Archivística y el Catálogo de Disposición Documental del Instituto;
 
 II. Emitir dictámenes de valoración para determinar el destino final de los documentos que hayan cumplido los correspondientes plazos de conservación;
 
-III. Emitir dictámenes para declarar el reconocimiento de los valores históricos de los documentos resguardados en el archivo histórico, y
+III. Emitir dictámenes para declarar el reconocimiento de los valores históricos de los documentos resguardados en el archivo histórico, y (sic)
 
 IV. Aprobar su Manual de Integración y Funcionamiento y sus actualizaciones.
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+V. Las demás que establezca el Reglamento, el Manual de Integración y Funcionamiento del Comité de Valoración y demás disposiciones administrativas aplicables.
 
 > <small>(ADICIONADO, D.O.F. 27 DE JULIO DE 2010)</small>
 
@@ -1365,11 +1669,13 @@ Artículo 98 C.- Las Sesiones del Comité de Valoración quedarán legalmente in
 
 Las decisiones del Comité de Valoración se tomarán por mayoría de votos de los miembros presentes, correspondiendo al Presidente el voto de calidad en caso de empate.
 
-El Comité de Valoración sesionará en forma ordinaria, una vez cada cuatro meses, en las fechas que se establezcan de acuerdo con el calendario aprobado en la primera sesión ordinaria que se celebre cada año, al amparo de lo establecido en el presente Reglamento.
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+El Comité de Valoración sesionará en forma ordinaria, una vez cada cuatro meses, en las fechas que se establezcan de acuerdo con el calendario aprobado en la última sesión ordinaria que se celebre cada año, al amparo de lo establecido en el presente Reglamento.
 
 El Comité de Valoración sesionará en forma extraordinaria siempre que así resulte necesario, a juicio de sus miembros, de acuerdo con los asuntos que deban ser analizados por el Pleno.
 
-Corresponderá al Comité de Valoración aprobar y modificar su Manual de Integración y Funcionamiento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
 ### Capítulo VIII,
 
@@ -1547,6 +1853,10 @@ En los casos en que el Titular de los datos personales caiga en incapacidad, en 
 
 La Unidad de Transparencia, deberá hacer del conocimiento del público en general, a través del Portal de Transparencia, el listado actualizado de aquellos Sistemas de Datos Personales con los que cuente el Instituto, en cumplimiento a lo establecido por el artículo 23 de la Ley, en el cual indicará el objeto del Sistema, el tipo de datos que contiene, el uso que se le da, la Unidad o Area Administrativa que los administra y el nombre del responsable de los mismos.
 
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+Las actualizaciones de los Sistemas de Datos Personales deberán realizarse por las áreas encargadas de su administración, el Responsable remitirá a la Unidad de Transparencia un formato que se establezca para tal efecto la modificación, actualización o cancelación de dichos Sistemas.
+
 Corresponderá a los Titulares de cada Unidad o Area Administrativa, informar a la Unidad de Transparencia sobre los Sistemas de Datos Personales que administren en ejercicio de sus funciones o atribuciones, así como designar por escrito al Servidor Público responsable de cada uno de ellos, informando de ello a la Unidad de Transparencia.
 
 El Servidor Público designado en términos del párrafo anterior, deberá contar como mínimo con nivel de Subdirector de Area y tendrá las siguientes funciones:
@@ -1685,9 +1995,11 @@ Cuando el particular o su representante hayan solicitado la reproducción de dat
 
 Las solicitudes a que hace referencia este capítulo y sus correspondientes respuestas, al contener Información clasificada como confidencial en términos del artículo 18 de la Ley y 106 del Reglamento, no podrán ser dadas a conocer al público en general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 127.
 
-Las solicitudes presentadas por ciudadanos al amparo de este Capítulo después de las 15:00 Hrs., o en días inhábiles, se considerarán recibidas al día hábil siguiente. El plazo para su atención comenzará a correr a partir del día siguiente al de su recepción.
+Las solicitudes presentadas por ciudadanos al amparo de los Capítulos III y IV del Titulo V, después de las 15:00 Hrs., o en días inhábiles, se considerarán recibidas al día hábil siguiente. El plazo para su atención comenzará a correr a partir del día siguiente al de su recepción.
 
 Para efectos del supuesto contenido en el presente artículo, se tomará como referencia el horario del centro del país.
 
@@ -1859,7 +2171,7 @@ En los recursos de revisión de solicitudes de acceso a la Información, no se r
 
 En lo que respecta a datos personales, la presentación del recurso de revisión podrá hacerse valer por el particular Titular de los mismos, por las personas a que hace referencia el artículo 109 del Reglamento, respetando el orden de prelación que dicho numeral establece, o por el representante del promovente acreditado en términos del artículo 150 del Reglamento.
 
-El plazo a que se refiere la fracción I, del artículo 55 de la Ley, comenzará a correr al día hábil siguiente a aquél en que concluya el plazo de siete días determinado por la Comisión para la presentación de manifestaciones y alegatos por las partes en el recurso.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
 La Unidad de Transparencia, los Centros de Información Habilitados y las Coordinaciones Estatales, deberán remitir el asunto a la Comisión, a través de su Secretaría de Acuerdos, a más tardar al día hábil siguiente al de su recepción.
 
@@ -1878,6 +2190,12 @@ En el caso de que se plantee un recurso de revisión para requerimientos de Info
 ###### Artículo 150.
 
 Para acreditar la representación a que se refiere el artículo 49 de la Ley, será suficiente presentar carta poder firmada ante dos testigos, debiendo agregar copias de los documentos que acrediten la personalidad del poderdante, del apoderado y de los testigos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+###### Artículo 150 Bis.
+
+Los Recursos de Revisión presentados después de las 15:00 hrs., o en días inhábiles, se consideraran recibidos al día hábil siguiente. El plazo para su atención comenzará a correr a partir del día hábil siguiente al de su recepción.
 
 ###### Artículo 151.
 
@@ -1981,7 +2299,7 @@ El presente Reglamento, fue aprobado en la Décima Primera Sesión de la Junta d
 
 Aguascalientes, Ags., a 15 de diciembre de 2009.- Hace constar lo anterior el Director General Adjunto de Asuntos Jurídicos, Jorge Ventura Nevares, en ejercicio de la atribución que le confiere lo dispuesto por la fracción IV, del artículo 46 del Reglamento Interior del Instituto Nacional de Estadística y Geografía.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 27 DE JULIO DE 2010.
 
@@ -1994,3 +2312,15 @@ TERCERO.- Para el ejercicio 2010, por única ocasión, el Instituto tendrá hast
 D.O.F. 13 DE DICIEMBRE DE 2011.
 
 UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para el ejercicio 2014, el Comité de Valoración Documental aprobará en la primera sesión ordinaria que éste celebre, el Calendario de Sesiones del referido Comité.
+
+TERCERO.- El Cuadro General de Clasificación Archivística y el Catálogo de Disposición Documental, se aprobarán a más tardar transcurridos 3 meses posteriores a la entrada en vigor del presente acuerdo.
+
+CUARTO.- El Comité de Valoración Documental expedirá el procedimiento a que se refiere el artículo 85 A del Reglamento, a más tardar transcurridos 6 meses posteriores a la entrada en vigor del presente acuerdo.
+
+QUINTO.- La Clasificación Archivística de los expedientes existentes en los archivos, con anterioridad a la fecha de entrada en vigor de las presentes reformas y adiciones al Reglamento de Transparencia y Acceso a la Información Pública del Instituto Nacional de Estadística y Geografía, se mantendrá conforme a las disposiciones vigentes al momento de su generación.
