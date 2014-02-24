@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2013-09-02"
+last_updated: "2014-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -296,6 +296,10 @@ Toda persona tiene derecho a la cultura física y a la práctica del deporte. Co
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
 La juventud tiene derecho a su desarrollo integral, el cual se alcanzará mediante la protección de los Derechos Humanos y las Garantías Individuales reconocidas en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que nuestro país sea parte, así como en esta Constitución.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2014)</small>
+
+El Estado y los Municipios, en función de sus atribuciones, tomarán en consideración la perspectiva de género para el diseño, ejecución, seguimiento y evaluación de las políticas públicas.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -3588,3 +3592,7 @@ CUARTO.- Respecto de la reforma al Artículo 99, realícense las correspondiente
 P.O. 2 DE SEPTIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE FEBRERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
