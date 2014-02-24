@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-del-instituto-6828
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-05-08"
-last_updated: "2013-05-23"
+last_updated: "2014-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-24"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de mayo de 2009.
 
@@ -363,11 +363,15 @@ El Instituto podrá celebrar convenios con instituciones educativas, centros de 
 
 El Instituto podrá también celebrar convenios de intercambio de Servidores Públicos Profesionales de Carrera con instituciones afines en el país o en el extranjero para llevar a cabo proyectos de investigación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 30.
 
-Los Servidores Públicos Profesionales de Carrera que hayan obtenido una beca por parte de una Institución pública o privada, o que por su cuenta se paguen estudios de especialización relacionados con su función, se les otorgarán las facilidades necesarias por el Titular de la Unidad Administrativa de su adscripción, siempre y cuando no sea en demérito de su desempeño laboral o de las actividades de la Unidad Administrativa de su adscripción.
+Los Servidores Públicos Profesionales de Carrera que hayan obtenido una beca por parte de una Institución pública o privada, o que por su cuenta se paguen estudios de posgrado relacionados con su función, se les otorgarán las facilidades necesarias por el Titular de la Unidad Administrativa de su adscripción, siempre y cuando no sea en demérito de su desempeño laboral o de las actividades de la Unidad Administrativa en la se encuentran adscritos, asimismo, el Instituto, de acuerdo a la disponibilidad presupuestal, podrá apoyar mediante el otorgamiento de viáticos y pasajes dentro del Territorio Nacional a aquéllos que así lo soliciten y previa autorización del Titular de la Unidad Administrativa de su adscripción.
 
-La beca podrá ser otorgada por el Instituto cuando se trate de estudios de alta especialización y estén orientados a las tareas propias del Instituto. La solicitud para acceder a estas becas deberá venir acompañada de una justificación de cómo beneficiará al Instituto el que el servidor público reciba esta especialización o posgrado.
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+
+La beca podrá ser otorgada por el Instituto cuando se trate de estudios de posgrado y estén orientados a las tareas propias del Instituto. La solicitud para acceder a estas becas deberá venir acompañada de una justificación de cómo beneficiará al Instituto el que el servidor público realice dicho posgrado.
 
 Si la beca es otorgada por el Instituto, lo cual estará sujeto a la disponibilidad presupuestal y a la aprobación previa de la Comisión, el Servidor Público Profesional de Carrera quedará obligado a prestar sus servicios en ella por un periodo igual al de la duración de la beca.
 
@@ -746,5 +750,9 @@ D.O.F. 30 DE MARZO DE 2012.
 UNICO. Las modificaciones al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 23 DE MAYO DE 2013.
+
+ÚNICO.- Las reformas al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE FEBRERO DE 2014.
 
 ÚNICO.- Las reformas al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
