@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-servicio-de-limpieza-municipal-de-san-26151"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-14"
-last_updated: "2012-12-12"
+last_updated: "2014-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL SERVICIO DE LIMPIEZA MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, N.L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de octubre de 2002.
 
@@ -211,9 +211,9 @@ e) Recolección y transporte de cadáveres de animales, que se encuentren en la 
 
 f) Recolección de basura vegetal hasta 3 metros cúbicos, en caso de exceder se cubrirá por el excedente 2 cuotas por cada metro cúbico o fracción de materia recolectada, Artículo 65 de la Ley de hacienda para los Municipios del Estado de Nuevo León.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2014)</small>
 
-g) En apoyo en servicio en recolección de escombro en casa habitación dentro del Municipio, se realizará de forma gratuita y siendo de demoliciones pequeñas que el total no exceda de un metro cúbico en un período de cuatro meses, siempre y cuando el escombro este en bultos u ordenado de tal forma que este no se disperse en la vía pública.
+g) En apoyo al servicio en recolección de escombro en casa habitación dentro del Municipio, éste lo otorgará mediante el pago de un derecho conforme a lo establecido en su respectivo acuerdo emitido por la Secretaría de Finanzas y Tesorería, de conformidad a lo estipulado en los artículos 63 y 69, de la Ley de Hacienda para los Municipios del Estado de Nuevo León, siendo para demoliciones pequeñas que el total no exceda de un metro cúbico, en un periodo de cuatro meses, siempre y cuando el escombro esté en bultos u ordenado de tal forma que este no se disperse en la vía pública.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -926,3 +926,9 @@ NOVENO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrol
 DECIMO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para la integración y desarrollo de personas con capacidad diferenciada del Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
 
 DECIMO PRIMERO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento para las construcciones en el Municipio de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
+
+P.O. 24 DE FEBRERO DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO.- La reforma por modificación al Reglamento del Servicio de Limpieza Municipal de San Nicolás de los Garza, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
