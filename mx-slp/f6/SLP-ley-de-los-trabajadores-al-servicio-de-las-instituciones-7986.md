@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2014-01-14"
+last_updated: "2014-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -1227,9 +1227,11 @@ Al ejecutarse el laudo, el Presidente del tribunal despachará auto con efectos 
 
 Salvo en los casos que señala el artículo 60 de esta ley, las instituciones públicas no podrán negarse a reinstalar al trabajador, si han sido condenadas a hacerlo mediante laudo ejecutorio.
 
-###### ARTICULO 140.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2014)</small>
 
-En caso de incumplimiento a resoluciones del Tribunal Estatal de Conciliación y Arbitraje, el Presidente del mismo impondrá la sanción siguiente: multa que no exceda treinta veces el salario mínimo vigente en el área económica donde resida la autoridad o persona rebelde. Impuesta la sanción anterior, si se continúa en la negativa para cumplirla, se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+###### ARTÍCULO 140.
+
+En caso de incumplimiento a resoluciones del Tribunal Estatal de Conciliación y Arbitraje, el Presidente del mismo impondrá la sanción siguiente: multa de hasta sesenta veces el salario mínimo vigente en el área económica donde resida la autoridad o persona rebelde. Impuesta la sanción anterior, si se continúa en la negativa para cumplirla, se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 ### CAPITULO III.
 
@@ -1238,6 +1240,14 @@ DE LA CAPACIDAD Y PERSONALIDAD.
 ###### ARTICULO 141.
 
 Las partes podrán comparecer a juicio en forma directa o por conducto de apoderado legalmente autorizado.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2014)</small>
+
+Los apoderados de las partes deberán acreditar ser abogados o licenciados en derecho con cédula profesional, o contar con carta de pasante vigente, expedida por autoridad competente para el ejercicio de dicha profesión. Se podrán autorizar personas que no reúnan los anteriores requisitos para recibir notificaciones y documentos, pero éstas no podrán comparecer en las audiencias ni efectuar promoción alguna.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2014)</small>
+
+En caso de que no se acrediten los supuestos del párrafo anterior, se requerirá al actor para que designe apoderado que satisfaga los extremos que en éste se establecen.
 
 ###### ARTICULO 142.
 
@@ -1457,7 +1467,9 @@ El Presidente y el Secretario de Acuerdos del tribunal, podrán imponer conjunta
 
 Son medios de apremio:
 
-I.- La multa hasta siete veces el equivalente del salario mínimo diario general vigente en el área geográfica;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2014)</small>
+
+I.- La multa hasta cincuenta veces el equivalente del salario mínimo diario general vigente en el área geográfica;
 
 II.- La comparecencia física de las personas por medio de la fuerza pública; y
 
@@ -1722,3 +1734,19 @@ P.O. 14 DE ENERO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2014.
+
+DECRETO NO. 516 POR EL QUE SE ADICIONA PÁRRAFOS SEGUNDO Y TERCERO AL ARTICULO 141, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PUBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2014.
+
+DECRETO NO. 517 POR EL QUE SE REFORMAN LOS ARTÍCULOS, 140, Y 176 EN SU FRACCIÓN I, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PUBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
