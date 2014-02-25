@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2013-12-31"
+last_updated: "2014-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -731,7 +731,7 @@ III. Establecer, en coordinación con los grupos parlamentarios, la agenda legis
 
 IV. Formular y someter a la aprobación del Pleno, el orden del día para las sesiones; así como cumplir con la misma;
 
-V. Vigilar que el desarrollo de las sesiones y los actos emanados de las mismas, se encuentren apegados á esta Ley, al Reglamento, y a las demás disposiciones legales aplicables;
+V. Vigilar que el desarrollo de las sesiones y los actos emanados de las mismas, se encuentren apegados a esta Ley, al Reglamento, y a las demás disposiciones legales aplicables;
 
 VI. Designar las comisiones de cortesía que juzgue pertinentes;
 
@@ -1473,7 +1473,7 @@ II. Los hechos, solicitudes y propuestas de instituciones, organizaciones y de l
 
 III. Las iniciativas relacionadas al apoyo social temporal, encaminado a la dignificación de las personas y grupos sociales económicamente desprotegidos;
 
-IV. La continúa comunicación con el Sistema para el Desarrollo Integral de la Familia del Estado, y demás organizaciones asistenciales públicas y privadas relacionadas con la materia, con el fin de contar con información actualizada que permita perfeccionar el marco jurídico en los rubros de su competencia;
+IV. La continua comunicación con el Sistema para el Desarrollo Integral de la Familia del Estado, y demás organizaciones asistenciales públicas y privadas relacionadas con la materia, con el fin de contar con información actualizada que permita perfeccionar el marco jurídico en los rubros de su competencia;
 
 V. Los tocantes a las relaciones con las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
 
@@ -1837,6 +1837,10 @@ El Congreso del Estado podrá contar con un Consejo de Apoyo Legislativo, integr
 
 A propuesta de la Junta, el Pleno constituirá un Consejo de Transparencia, integrado por cinco ciudadanos representantes de diversos sectores, quienes tendrán carácter honorífico, al que convocará trimestralmente a través de la Comisión de Transparencia y Acceso a la Información, a efecto de que informe sobre los asuntos parlamentarios, administrativos y de transparencia del Congreso que hayan sido observados por el mismo; al efecto tendrán acceso y se les proporcionará la información que requieran, para que los mismos cuenten con suficientes elementos de juicio; autorizándoseles a asistir a las sesiones de trabajo de las distintas comisiones y del Comité de Adquisiciones, Arrendamientos y Servicios.
 
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2014)</small>
+
+Para el mejor desarrollo del trabajo de los consejeros, una vez que tomen protesta del cargo, la Comisión de Transparencia y Acceso a la Información Pública, a través del Instituto de Investigaciones Legislativas, les impartirá cursos introductorios y de actualización en materia parlamentaria, de transparencia, y rendición de cuentas.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2013)</small>
 
 ### Capítulo IV. Del Archivo Administrativo e Histórico del Congreso del Estado
@@ -2164,3 +2168,9 @@ P.O. 31 DE DICIEMBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigor el uno de enero de 2014, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
