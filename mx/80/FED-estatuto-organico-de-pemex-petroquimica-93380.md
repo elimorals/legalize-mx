@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-petroquimica-93380"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-03-28"
-last_updated: "2013-03-28"
+last_updated: "2014-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93380&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-03-21"
 
 ESTATUTO ORGÁNICO DE PEMEX-PETROQUÍMICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2014.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 28 de marzo de 2013.
 
@@ -69,25 +69,45 @@ VIII. Pemex-Petroquímica: El Organismo, previsto en los artículos Primero y Se
 
 IX. PEMEX: Petróleos Mexicanos, organismo descentralizado creado por decreto publicado el 7 de junio de 1938;
 
-X. Plan de Negocios: Aquél a que se refieren los artículos 19, fracción III; 24; 26, fracción I; 31, fracción III; octavo transitorio, último párrafo; noveno transitorio, penúltimo párrafo, y décimo tercero transitorio de la Ley, y
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+X. Plan de Negocios: Aquél a que se refieren los artículos 19, fracción III; 24; 26, fracción I; 31, fracción III; octavo transitorio, último párrafo; noveno transitorio, penúltimo párrafo, y décimo tercero transitorio de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+X-A. Procura y Abastecimiento: Actividades encaminadas a cubrir las necesidades de contratación de bienes, servicios, arrendamientos y obra, considerando calidad, cantidad, tiempo, precio y ubicación para PEMEX, Organismos Subsidiarios y, en su caso, filiales, y
 
 XI. Reglamento: Reglamento de la Ley de Petróleos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 5.
 
-De conformidad con el modelo institucional establecido en la Ley y su Reglamento, así como en el Decreto de los Organismos Subsidiarios; las unidades administrativas de Pemex-Petroquímica deberán ejercer sus competencias, responsabilidades y funciones, en congruencia con las atribuciones y funciones de las direcciones y subdirecciones corporativas de PEMEX, así como de la unidad administrativa competente en materia de control interno de este último Organismo que, en ejercicio de la conducción central y dirección estratégica, les confiere el Estatuto Orgánico de PEMEX.
+De conformidad con el modelo institucional establecido en la Ley y su Reglamento, así como en el Decreto de los Organismos Subsidiarios; las unidades administrativas de Pemex-Petroquímica deberán ejercer sus competencias, responsabilidades y funciones, en congruencia con las atribuciones y funciones de las direcciones y subdirecciones corporativas de PEMEX, así como de las unidades administrativas competentes en materia de Procura y Abastecimiento; de control interno, y de responsabilidad y desarrollo social, de este último Organismo que, en ejercicio de la conducción central y dirección estratégica, les confiere el Estatuto Orgánico de PEMEX.
 
-En estos términos, corresponde a las unidades administrativas de Pemex-Petroquímica, participar, en su caso, en el diseño y elaboración, así como ejecutar, implementar, aplicar, cumplir, y dar seguimiento a las propuestas, estrategias, programas, planes, proyectos, sistemas, directrices, criterios, acuerdos, mecanismos, iniciativas y demás disposiciones e instrumentos institucionales que determinen las direcciones y subdirecciones corporativas de PEMEX, así como la unidad administrativa competente en materia de control interno de este último Organismo, en términos de las funciones que les confiere el Estatuto Orgánico de PEMEX y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+En estos términos, corresponde a las unidades administrativas de Pemex-Petroquímica, participar, en su caso, en el diseño y elaboración, así como ejecutar, implementar, aplicar, cumplir, y dar seguimiento a las propuestas, estrategias, programas, planes, proyectos, sistemas, directrices, criterios, acuerdos, mecanismos, iniciativas y demás disposiciones e instrumentos institucionales que determinen las direcciones y subdirecciones corporativas de PEMEX, así como las unidades administrativas competentes en materia de control interno, y de responsabilidad y desarrollo social, de este último, en términos de las funciones que les confiere el Estatuto Orgánico de PEMEX y demás disposiciones aplicables.
 
 De igual forma, las unidades administrativas de Pemex-Petroquímica, deberán:
 
 I. Realizar las acciones que resulten necesarias para el cumplimiento de los objetivos, metas de operación, resultados e indicadores de desempeño establecidos en el Plan de Negocios;
 
-II. Proporcionar la información operativa, técnica y administrativa que les sea requerida por las direcciones y subdirecciones corporativas de PEMEX, en la forma y términos solicitados por estas últimas; así como la información sobre los avances y resultados, y presentar medidas de mejora;
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
 
-III. Diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño, con independencia de lo que corresponda al Consejo de Administración de PEMEX o a otras instancias, y
+II. Proporcionar la información operativa, técnica y administrativa que les sea requerida por las direcciones y subdirecciones corporativas de PEMEX, así como por las unidades administrativas competentes en materia de control interno, y de responsabilidad y desarrollo social de dicho Organismo en la forma y términos solicitados por estas últimas; así como la información sobre los avances y resultados, y presentar medidas de mejora;
 
-IV. Presentar al Director General de PEMEX para su resolución las diferencias de criterios entre Pemex-Petroquímica y los Organismos Subsidiarios o sus unidades administrativas.
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+III. Diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño, con independencia de lo que corresponda al Consejo de Administración de PEMEX o a otras instancias;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+IV. Presentar al Director General de PEMEX para su resolución las diferencias de criterios entre Pemex- Petroquímica y los Organismos Subsidiarios o sus unidades administrativas, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V. Informar a la Gerencia de Responsabilidad y Desarrollo Social de PEMEX, respecto de aquellos bienes muebles e inmuebles no útiles susceptibles de donación, conforme a los mecanismos que se establezcan para tal efecto.
 
 Sin perjuicio de lo anterior, las funciones de administración, programación, presupuesto, contabilidad y finanzas que lleven a cabo las unidades administrativas de Pemex-Petroquímica, conforme al presente Estatuto, se sujetarán funcionalmente a las unidades administrativas competentes de PEMEX.
 
@@ -277,7 +297,9 @@ V. Emitir y suscribir convocatorias, fallos, convenios y contratos y, en su caso
 
 VI. Disponer, de conformidad con las disposiciones aplicables, de los activos fijos del Organismo que no sean útiles o que no correspondan a las operaciones propias de su objeto;
 
-VII. Recibir las solicitudes y autorizar las donaciones de bienes muebles que el Organismo otorgue en términos de la normatividad que al efecto expida el Consejo de Administración de PEMEX;
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+VII. Recibir las solicitudes y autorizar los apoyos que otorgue el Organismo en materia de responsabilidad y desarrollo social, relacionados con donaciones en especie, obras de beneficio mutuo y participación, así como el otorgamiento de becas en las comunidades donde opera el Organismo, bajo la coordinación de la Gerencia de Responsabilidad y Desarrollo Social de PEMEX, en términos de la normatividad que al efecto expida el Consejo de Administración de PEMEX;
 
 VIII. Emitir la normatividad interna, técnica o administrativa que, en el ámbito de su competencia, le corresponda;
 
@@ -325,7 +347,17 @@ III. Expedir la normatividad interna, técnica o administrativa, de aplicación 
 
 IV. Interpretar la normatividad interna, técnica o administrativa que emitan, en el ámbito de sus funciones;
 
-V. Emitir y suscribir convocatorias, evaluaciones, fallos, dictámenes, contratos y convenios; así como iniciar, notificar, sustanciar y resolver los procedimientos de suspensión, terminación anticipada o rescisión administrativa de los mismos, y los actos jurídicos que se requieran en los procedimientos de contratación o en la ejecución de los contratos y convenios, con independencia del régimen legal de los mismos;
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V. Emitir y suscribir, en su carácter de área usuaria, evaluaciones técnicas, dictámenes técnicos, contratos y convenios, así como celebrar los actos jurídicos en materia de Procura y Abastecimiento que se requieran ante situaciones de emergencia;
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V-A. Participar en la implantación del modelo de negocio de Procura y Abastecimiento en el Organismo y coadyuvar con la Dirección Corporativa de Procura y Abastecimiento en su aplicación y operación frente a terceros;
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V-B. Atender, en el ámbito de su competencia, los reclamos, controversias y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra pública y servicios del Organismo Subsidiario;
 
 VI. Expedir constancias, para efectos administrativos, de los documentos que obren en los archivos de su unidad administrativa;
 
@@ -359,7 +391,9 @@ XX. Gestionar la aprobación y ejecución de los proyectos a su cargo, así como
 
 XXI. Coordinar la participación, promoción e implementación de acciones de prevención, mejores prácticas y mejora continua a los procesos de negocio institucionales en el Organismo;
 
-XXII. Coordinar la implementación de las estrategias y directrices institucionales establecidas por PEMEX en materia de planeación estratégica y operativa, seguridad industrial, salud en el trabajo y protección ambiental, disciplina operativa, confiabilidad operacional y gestión de mantenimiento, integridad de infraestructura, mejora del desempeño operativo, suministros, medición y aseguramiento de balances, proyectos, contenido nacional y grado de integración nacional;
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XXII. Coordinar la implementación de las estrategias y directrices institucionales establecidas por PEMEX en materia de planeación estratégica y operativa, presupuesto, seguridad industrial, salud en el trabajo y protección ambiental, disciplina operativa, confiabilidad operacional y gestión de mantenimiento, integridad de infraestructura, mejora del desempeño operativo, Procura y Abastecimiento, medición y aseguramiento de balances, proyectos, contenido nacional y grado de integración nacional;
 
 XXIII. Implementar los mecanismos de coordinación, control, entrega de información y resultados que, en materia de conducción central y dirección estratégica, definan las unidades administrativas competentes de PEMEX, así como instrumentar las acciones de mejora que se determinen;
 
@@ -389,9 +423,15 @@ III. Representar legalmente al Organismo, en los asuntos relacionados con su ger
 
 IV. Elaborar los documentos que contengan la información que corresponda a su ámbito de actuación, que se someterá a la consideración del Consejo de Administración, así como atender los requerimientos de información de dicho Organo de Gobierno y sus comités, formulados por conducto del Director General;
 
-V. Emitir y suscribir convocatorias, evaluaciones, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique.
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
 
-De igual forma, podrán llevar a cabo los procedimientos de suspensión y cualquier otro acto relacionado con la ejecución de los contratos y convenios distintos a los señalados en el párrafo anterior, con independencia del régimen legal de los mismos;
+V. Emitir y suscribir, en su carácter de área usuaria, evaluaciones técnicas, dictámenes técnicos, contratos y convenios, así como celebrar los actos jurídicos en materia de Procura y Abastecimiento que se requieran ante situaciones de emergencia;
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V-A. Atender, en el ámbito de su competencia, los reclamos, controversias y conciliaciones que deriven de los procedimientos de contratación de Adquisiciones, Arrendamientos, Obras y Servicios del Organismo;
 
 VI. Expedir constancias, para efectos administrativos, de los documentos que obren en los archivos de su unidad administrativa;
 
@@ -411,7 +451,9 @@ XIII. Propiciar un ambiente laboral sano, armónico y de cooperación entre el p
 
 XIV. Participar, promover e implementar acciones de prevención, mejores prácticas y mejora continua a los procesos de negocio institucionales en el Organismo;
 
-XV. Implementar las estrategias y directrices institucionales establecidas por PEMEX en materia de planeación estratégica y operativa, seguridad industrial, salud en el trabajo y protección ambiental, integridad de infraestructura, disciplina operativa, confiabilidad operacional y gestión de mantenimiento, mejora del desempeño operativo, suministros, medición y aseguramiento de balances, proyectos, contenido nacional y grado de integración nacional;
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XV. Implementar las estrategias y directrices institucionales establecidas por PEMEX en materia de planeación estratégica y operativa, presupuesto, seguridad industrial, salud en el trabajo y protección ambiental, integridad de infraestructura, disciplina operativa, confiabilidad operacional y gestión de mantenimiento, mejora del desempeño operativo, Procura y Abastecimiento, medición y aseguramiento de balances, proyectos, contenido nacional y grado de integración nacional;
 
 XVI. Proponer e implementar los planes y programas de capacitación;
 
@@ -421,7 +463,9 @@ XVIII. Las que le asigne o delegue expresamente el Director General o el subdire
 
 XIX. Las demás señaladas en el presente Estatuto y en otros ordenamientos jurídicos aplicables.
 
-Las funciones señaladas en las fracciones I a IX, XI y XVIII del presente artículo, son indelegables, con excepción del segundo párrafo de la fracción V, que será delegable.
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+Las funciones señaladas en las fracciones I a IX, XI y XVIII del presente artículo, son indelegables.
 
 ###### Artículo 32.
 
@@ -483,7 +527,7 @@ V. Subdirección de Administración y Finanzas
 
 1. Gerencia de Recursos Financieros
 
-2. Gerencia de Recursos Materiales
+2. (DEROGADO, D.O.F. 25 DE FEBRERO DE 2014)
 
 3. Gerencia de Administración y Servicios
 
@@ -837,7 +881,9 @@ I. Elaborar los programas operativos para la distribución y suministro de produ
 
 II. Coordinar y supervisar la entrega de productos a los clientes del Organismo;
 
-III. Celebrar los contratos de almacenamiento, distribución y transporte, y de prestación de servicios relacionados con éstos, y verificar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+III. Celebrar los contratos de almacenamiento y verificar su cumplimiento;
 
 IV. Coordinar el envío de productos finales del Organismo entre los centros de trabajo y los prestadores de servicios de guarda, manejo y distribución;
 
@@ -857,7 +903,9 @@ La Subdirección de Administración y Finanzas tendrá las funciones siguientes:
 
 I. Dirigir las actividades en las materias de presupuesto, contabilidad, recursos financieros, tesorería y fiscal del Organismo, bajo los modelos de operación, la conducción normativa y funcional de la Dirección Corporativa de Finanzas;
 
-II. Dirigir las actividades en las materias de bienes patrimoniales, servicios de apoyo, y contratación de Adquisiciones, Arrendamientos, Obras y Servicios del Organismo, con la participación que corresponda a las unidades administrativas de PEMEX;
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+II. Dirigir las actividades en las materias de bienes patrimoniales y de servicios de apoyo del Organismo con la participación que corresponda a las unidades administrativas de PEMEX;
 
 III. Proponer al área competente de la Dirección Corporativa de Finanzas para su validación y, en su caso, sometimiento a las instancias correspondientes estrategias de administración de riesgos financieros de las posiciones del Organismo de acuerdo con las disposiciones aplicables en la materia;
 
@@ -877,7 +925,7 @@ X. Dirigir y coordinar la integración de la información financiera del Organis
 
 XI. Participar, en coordinación con las unidades administrativas competentes del Organismo, en la elaboración del Programa Operativo y Financiero Anual de Trabajo y el escenario indicativo de metas de balance financiero del Organismo, así como en los diferentes escenarios de planeación financiera que determine la Dirección Corporativa de Finanzas;
 
-XII. Determinar la estrategia del proceso de contratación y coordinar la integración de los programas anuales de Adquisiciones, Arrendamientos, Obras y Servicios, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas en el Organismo;
+XII. (DEROGADA, D.O.F. 25 DE FEBRERO DE 2014)
 
 XIII. Coordinar el proceso de adquisición, administración, desincorporación y enajenación de los bienes del Organismo;
 
@@ -893,13 +941,21 @@ XVIII. Emitir los criterios específicos en materia de operación de almacenes y
 
 XIX. Dirigir la administración y evaluación de los servicios generales y de mantenimiento de los bienes muebles e inmuebles del Organismo;
 
-XX. Coordinar la gestión de las solicitudes de donaciones de bienes muebles e inmuebles y, en su caso, atender las reclamaciones que se realicen al Organismo derivadas de su operación o de las contingencias que se le presenten;
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XX. Coordinar, conjuntamente con la Gerencia de Responsabilidad y Desarrollo Social de PEMEX, la gestión de las solicitudes en materia de responsabilidad y desarrollo social, relacionadas con donaciones en especie, obras de beneficio mutuo y participación, así como el otorgamiento de becas en las comunidades donde opera el Organismo y, en su caso, atender las reclamaciones que se realicen a este último derivadas de su operación o de las contingencias que se le presenten;
 
 XXI. Coordinar, integrar y dar seguimiento a cualquier operación que pudiera considerarse constitutiva de deuda pública, así como recopilar y proporcionar la información necesaria a la Dirección Corporativa de Finanzas para la obtención de las autorizaciones correspondientes previo a su contratación;
 
-XXII. Implantar el modelo de negocios único institucional de suministros en el Organismo y coadyuvar con PEMEX en su aplicación y operación frente a terceros, y
+XXII. (DEROGADA, D.O.F. 25 DE FEBRERO DE 2014)
 
-XXIII. Establecer e implementar estrategias de contratación que permitan incrementar el grado de integración nacional en adquisiciones y servicios, en términos de la Ley.
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XXIII. Establecer e implementar estrategias de contratación que permitan incrementar el grado de integración nacional en adquisiciones y servicios, en términos de la Ley, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XXIV. Participar con PEMEX, a través de la Gerencia de Responsabilidad y Desarrollo Social, en el diseño e instrumentación de los programas institucionales de desarrollo comunitario sustentables y sostenibles, incorporando en los mismos, los apoyos que pueda otorgar Pemex-Petroquímica en materia de responsabilidad y desarrollo social, relacionados con donaciones en especie, obras de beneficio mutuo y participación, así como el otorgamiento de becas en las comunidades donde opera el Organismo.
 
 ###### Artículo 52.
 
@@ -951,29 +1007,29 @@ XXII. Proponer y dar seguimiento a indicadores sobre el desempeño en materia pr
 
 XXIII. Analizar, consolidar y evaluar el ejercicio presupuestal de los ingresos y egresos de operación e inversión, así como de otros ingresos y egresos del Organismo;
 
-XXIV. Dar seguimiento al proceso de la administración de riesgos financieros de las posiciones del Organismo de acuerdo con las disposiciones aplicables en la materia, y
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
 
-XXV. Integrar y dar seguimiento a cualquier operación que pudiera ser constitutiva de deuda pública, así como coadyuvar en la recopilación de la información necesaria para su remisión a la Subdirección de Administración y Finanzas.
+XXIV. Dar seguimiento al proceso de la administración de riesgos financieros de las posiciones del Organismo de acuerdo con las disposiciones aplicables en la materia;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XXV. Integrar y dar seguimiento a cualquier operación que pudiera ser constitutiva de deuda pública, así como coadyuvar en la recopilación de la información necesaria para su remisión a la Subdirección de Administración y Finanzas;
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XXVI. Participar en la elaboración del programa integral de aseguramiento del Organismo;
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XXVII. Gestionar las reclamaciones de seguros y fianzas aplicables del Organismo, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XXVIII. Colaborar en la atención y seguimiento de las recomendaciones derivadas del programa de prevención de pérdidas del Organismo.
 
 ###### Artículo 53.
 
-La Gerencia de Recursos Materiales tendrá las funciones siguientes:
-
-I. Consolidar los requerimientos de bienes muebles del Organismo;
-
-II. Administrar y ejecutar los procedimientos de contratación de Adquisiciones y Arrendamientos y Servicios del Organismo, así como apoyar en la elaboración de modelos económicos y bases de licitación;
-
-III. Integrar los programas anuales de Adquisiciones, Arrendamientos, Obras y Servicios del Organismo, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas;
-
-IV. Participar o, en su caso, atender y dar seguimiento a los reclamos, controversias y conciliaciones que deriven de los procedimientos de contratación de Adquisiciones, Arrendamientos, Obras y Servicios del Organismo;
-
-V. Administrar los almacenes y control de inventarios en el Organismo;
-
-VI. Colaborar con la Dirección Corporativa de Finanzas en la elaboración del programa integral de aseguramiento del Organismo;
-
-VII. Gestionar las reclamaciones de seguros y fianzas aplicables del Organismo, y
-
-VIII. Colaborar en la atención y seguimiento de las recomendaciones derivadas del programa de prevención de pérdidas del Organismo.
+(DEROGADO, D.O.F. 25 DE FEBRERO DE 2014)
 
 ###### Artículo 54.
 
@@ -985,9 +1041,19 @@ II. Participar en la planeación, elaboración, ejecución, seguimiento y evalua
 
 III. Administrar el registro de los bienes inmuebles del Organismo;
 
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+III-A. Administrar los almacenes y control de inventarios en el Organismo;
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+III-B. Consolidar los requerimientos de bienes muebles del Organismo;
+
 IV. Ejecutar los procesos de administración, desincorporación y enajenación de los bienes del Organismo;
 
-V. Analizar, evaluar y emitir opinión respecto de las solicitudes de donaciones de bienes muebles presentadas por terceros;
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V. Analizar, evaluar y emitir opinión respecto de las solicitudes en materia de responsabilidad y desarrollo social, relacionadas con donaciones en especie, obras de beneficio mutuo y participación, así como el otorgamiento de becas en las comunidades donde opera el Organismo, presentadas por terceros;
 
 VI. Administrar, conservar y custodiar los documentos que integran el archivo del Organismo, así como asesorar a las unidades administrativas del Organismo en la administración de su archivo;
 
@@ -1092,3 +1158,33 @@ SEXTO. La estructura orgánica autorizada deberá presentarse para su registro a
 El presente Estatuto Orgánico de Pemex-Petroquímica, fue aprobado por el Consejo de Administración de Pemex-Petroquímica, con fundamento en el artículo Décimo Tercero, fracción XI, del Decreto que tiene por objeto establecer la estructura, el funcionamiento y el control de los organismos subsidiarios de Petróleos Mexicanos, en sesión extraordinaria 130 celebrada el día 16 de octubre de 2012, mediante acuerdo número CAPPQ-048/2012.
 
 Ciudad de México, D.F., a 21 de marzo de 2013.- El Director Jurídico de Petróleos Mexicanos, Marco Antonio de la Peña Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 25 DE FEBRERO DE 2014.
+
+PRIMERO. Las modificaciones al Estatuto Orgánico de Pemex-Petroquímica, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. Las unidades administrativas del Organismo que se transferirán a la Dirección Corporativa de Procura y Abastecimiento, permanecerán adscritas al primero, hasta que Petróleos Mexicanos y el Organismo realicen las acciones necesarias para que se verifique el cambio de adscripción correspondiente, que deberá llevarse a cabo de acuerdo a lo que establezcan, en conjunto, el Director Corporativo de Procura y Abastecimiento, el Director Corporativo de Administración, el Director Corporativo de Finanzas y el Director General del Organismo.
+
+Sin perjuicio de lo anterior, en tanto que se formaliza el cambio de adscripción a que se refiere el párrafo anterior, las unidades administrativas del Organismo contarán con las mismas funciones que tenían antes de la entrada en vigor de las presentes modificaciones, debiéndose coordinar con la Dirección Corporativa de Procura y Abastecimiento, para ejecutar conjuntamente las acciones necesarias sin afectar la operación y funcionamiento del Organismo.
+
+TERCERO. En tanto se expiden los acuerdos y demás disposiciones administrativas que deriven de las presentes modificaciones continuarán siendo aplicables, en lo conducente, aquéllos expedidos con anterioridad a la entrada en vigor de dichas modificaciones, en lo que no se opongan a las mismas.
+
+CUARTO. Se deberán realizar todas las gestiones administrativas y mantener la coordinación necesaria para definir la transferencia de los recursos humanos y materiales, así como los recursos financieros asociados a las funciones que se transfieren, incluyendo la información y documentación, derivadas de la transferencia de funciones a la Dirección Corporativa de Procura y Abastecimiento, de acuerdo a lo que establezcan, en conjunto, el Director Corporativo de Procura y Abastecimiento, el Director Corporativo de Administración, el Director Corporativo de Finanzas y el Director General del Organismo.
+
+QUINTO. Las unidades administrativas cuyas funciones se transfieren a la Dirección Corporativa de Procura y Abastecimiento en virtud de las presentes modificaciones al Estatuto Orgánico, deberán realizar y formalizar, según corresponda, cualquier tipo de acto o documentos, incluyendo actas de entrega-recepción, que sean necesarios para los traspasos, transferencias, sustituciones y demás que correspondan, de acuerdo con las funciones y estructura de la Dirección Corporativa de Procura y Abastecimiento referida.
+
+SEXTO. Los convenios y contratos en ejecución, así como los procedimientos de contratación en trámite, deberán formar parte de las actas de entrega-recepción, a fin de no afectar la operación y el ejercicio de las funciones de las unidades administrativas del Organismo Subsidiario.
+
+SÉPTIMO. Se deberán realizar todas las gestiones necesarias ante la Dirección Jurídica, para que se otorguen y revoquen todos los poderes que resulten necesarios para el cumplimiento de las funciones que se transfieren a la Dirección Corporativa de Procura y Abastecimiento en virtud de las presentes modificaciones.
+
+OCTAVO. Las referencias que se hagan a las unidades administrativas que cambian de denominación y/o adscripción por virtud de las presentes modificaciones al Estatuto Orgánico de Pemex-Petroquímica, así como las atribuciones que se les otorgan en otros instrumentos, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a las presentes modificaciones.
+
+NOVENO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas del Organismo Subsidiario.
+
+DÉCIMO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
+
+DÉCIMO PRIMERO. El Organismo Subsidiario seguirá realizando las funciones para dirigir, supervisar, coordinar y ejecutar los procedimientos de contratación en materia de adquisiciones, arrendamientos, servicios y obra, en el ámbito de su respectiva competencia, hasta en tanto se realice lo necesario para la total transferencia de las funciones referidas y recursos relacionados con las mismas.
+
+DÉCIMO SEGUNDO. Las transferencias a que se refiere el artículo cuarto transitorio deberán quedar formalizadas en un plazo no mayor a un año, a partir de la publicación de las presentes modificaciones en el Diario Oficial de la Federación.
