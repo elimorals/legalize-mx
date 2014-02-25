@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2013-10-26"
+last_updated: "2014-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -841,7 +841,9 @@ El dictamen legislativo deberá contener:
 
 I. La fecha de turno de la iniciativa; determinando si se trata de ley, decreto, acuerdo administrativo o económico, o punto de acuerdo;
 
-II. Si se trata de una iniciativa de ley, el dictamen tendrá una parte en la que se hará referencia a su constitucionalidad, con relación a las constituciones federal y local; sus antecedentes; estructura jurídica; justificación, y pertinencia. Además, expondrá con precisión las modificaciones, ajustes de contenido normativo y estructura que haya realizado en su caso la comisión; con los argumentos y razones que los sustenten; así como la valoración técnico-jurídica que de la misma se haya hecho, y que dé lugar a su aprobación o desechamiento por improcedencia. Asimismo, contendrá una parte resolutiva en la que se establezca si el dictamen se aprueba en sus términos; se aprueba con modificaciones de la comisión; se desecha; o se formula con carácter suspensivo, a efecto de definir un tiempo razonable para su resolución definitiva;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2014)</small>
+
+II. Si se trata de una iniciativa de ley, el dictamen tendrá una parte en la que se hará referencia a su constitucionalidad, con relación a las constituciones federal y local; sus antecedentes; estructura jurídica; justificación, y pertinencia; además, un cuadro comparativo entre las leyes vigentes y la iniciativa propuesta. Asimismo, expondrá con precisión las modificaciones, ajustes de contenido normativo y estructura que haya realizado, en su caso, la comisión, con los argumentos y razones que los sustenten; así como la valoración técnico-jurídica que de la misma se haya hecho, y que dé lugar a su aprobación o desechamiento por improcedencia. Igualmente, contendrá una parte resolutiva en la que se establezca si el dictamen se aprueba en sus términos; se aprueba con modificaciones de la comisión; se desecha; o se formula con carácter suspensivo a efecto de definir un tiempo razonable para su resolución definitiva;
 
 III. De tratarse de un decreto, el dictamen propuesto contendrá las consideraciones y la resolución sobre el asunto, y
 
@@ -2278,6 +2280,12 @@ SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto
 P.O. 26 DE OCTUBRE DE 2013.
 
 DECRETO NÚMERO 361, QUE REFORMA LAS FRACCIONES I Y VI DEL ARTÍCULO 75 Y ADICIONA UN ÚLTIMO PÁRRAFO AL MISMO ARTÍCULO 75 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
