@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-instituto-de-investigaciones-54637"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-08"
-last_updated: "2013-07-11"
+last_updated: "2014-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 8 de febrero de 2007.
 
@@ -71,7 +71,9 @@ VII. Elaborar, a solicitud del Comité las convocatorias para la participación 
 
 VIII. Con la autorización del Comité participar en los seminarios, congresos y foros de consulta que se celebren en el Estado, en otras entidades o a nivel internacional;
 
-IX. Elaborar, preparar e impartir cursos de capacitación legislativa;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2014)</small>
+
+IX. Elaborar, preparar e impartir cursos de capacitación legislativa, y de otras materias que le sean encomendados;
 
 X. Presentar al Comité un informe mensual de las actividades desarrolladas; y anualmente, un plan de trabajo;
 
@@ -368,3 +370,9 @@ P.O. 11 DE JULIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
