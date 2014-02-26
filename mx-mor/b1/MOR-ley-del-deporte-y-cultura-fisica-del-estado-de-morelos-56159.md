@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2013-11-20"
+last_updated: "2014-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -363,11 +363,11 @@ XIII. Las demás que les confieran las disposiciones normativas aplicables y est
 
 ### CAPÍTULO PRIMERO. DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 26.
 
-El Instituto del Deporte y Cultura Física del Estado de Morelos es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Humano y Social, con residencia en la ciudad de Cuernavaca, Morelos.
+El Instituto del Deporte y Cultura Física del Estado de Morelos es un Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Social, con residencia en la ciudad de Cuernavaca, Morelos.
 
 ### CAPÍTULO SEGUNDO. DEL OBJETO Y ATRIBUCIONES DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
@@ -459,31 +459,35 @@ II. Un Director General; y
 
 III. Un Consejo Consultivo, que será el Consejo Estatal del Deporte y Cultura Física.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2014)</small>
+
 ###### ARTÍCULO 31.
 
 La Junta de Gobierno es el órgano máximo del Instituto y se integrará por los siguientes miembros propietarios:
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+I. El Gobernador del Estado quien la presidirá, por sí o por representante que designe;
 
-I. El Secretario de Desarrollo Humano y Social, como titular de la dependencia coordinadora del sector, quien la presidirá por sí o por el servidor que éste designe;
+II. El Titular de la Secretaria o Dependencia coordinadora del sector;
 
-II. El titular de la Secretaría de Finanzas y Planeación;
+III. El Titular de la Secretaría de Hacienda;
 
-III. El titular de la Oficialía Mayor;
+IV. El Titular de la Secretaria de Administración;
 
-IV. El titular de la Secretaría de Salud;
+V. El Titular de la Secretaria de Salud;
 
-V. El Titular de la Secretaría de Desarrollo Urbano y Obras Públicas;
+VI. El Titular de la Secretaría de Obras Públicas;
 
-VI. El Titular de la Secretaría de Desarrollo Económico;
+VII. El Titular de la Secretaría de Economía; y
 
-VII. El Rector de la Universidad Autónoma del Estado de Morelos; y
+VIII. El Titular de la Rectoría de la Universidad Autónoma del Estado de Morelos.
 
-VIII. Órgano de Vigilancia.
+Por cada propietario habrá un suplente que actuará en caso de faltas temporales del Titular, en los términos que señale el Reglamento Interior del Instituto.
 
-Por cada propietario habrá un suplente que actuará en caso de faltas temporales del titular, en los términos que señale el Reglamento Interior del Instituto.
+Para el caso de que el representante que designe el Gobernador del Estado para fungir como Presidente de la Junta de Gobierno del Instituto, sea un integrante de esta última, en términos del presente artículo; dicho integrante deberá designar a su vez a la persona que lo supla ante ésta, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
 
 Para el funcionamiento la Junta de Gobierno contará con un Secretario Técnico, quién será el Director General del Instituto, quien participará con derecho a voz, pero no a voto.
+
+El Comisario Público del Instituto participará en las sesiones de la Junta de Gobierno con derecho a voz pero sin voto.
 
 Los nombramientos de los miembros de la Junta de Gobierno serán honoríficos y no devengarán retribución alguna como integrantes de este órgano de gobierno.
 
@@ -555,11 +559,11 @@ XIII. Aprobar el calendario anual de sesiones, y
 
 XIV. Las demás que expresamente disponga la presente Ley y la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2014)</small>
 
 ###### ARTÍCULO 37.
 
-El Instituto, por conducto del Director General, rendirá anualmente a la Secretaría de Desarrollo Humano y Social, un informe general de labores realizadas durante el ejercicio, previamente aprobado por la Junta de Gobierno y apegado a su proyecto de desarrollo.
+El Instituto, por conducto del Director General, rendirá anualmente a la Secretaría de Desarrollo Social, un informe general de labores realizadas durante el ejercicio, previamente aprobado por la Junta de Gobierno y apegado a su proyecto de desarrollo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1470,3 +1474,25 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERO.- A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano.
+
+###### ARTÍCULO TERCERO.
+
+La Junta de Gobierno del Instituto del Deporte y Cultura Física del Estado de Morelos deberá instalarse con su nueva integración en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de un plazo de 90 días hábiles contados a partir de la instalación de la Junta de Gobierno, deberán ajustarse al presente Decreto tanto el Reglamento de la Ley del Deporte y Cultura Física del Estado de Morelos como las demás disposiciones jurídicas aplicables, entre ellos, el Estatuto Orgánico del Instituto del Deporte y Cultura Física del Estado de Morelos.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
