@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2014-01-15"
+last_updated: "2014-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -185,7 +185,7 @@ VII. SEPTIMO CIRCUITO:
 
 > <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO 37/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
 
-3. Dieciséis juzgados de Distrito en el Estado de Veracruz, dos especializados en Procesos Penales Federales, con residencia en Villa Aldama; cuatro con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba”.
+3. Dieciséis juzgados de Distrito en el Estado de Veracruz, dos especializados en Procesos Penales Federales, con residencia en Villa Aldama; cuatro con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba".
 
 VIII. OCTAVO CIRCUITO:
 
@@ -275,7 +275,9 @@ XVI. DECIMOSEXTO CIRCUITO:
 
 XVII. DECIMOSEPTIMO CIRCUITO:
 
-1. Cinco tribunales colegiados: cuatro especializados, dos en materias penal y administrativa; y dos en materias civil y de trabajo, todos con residencia en la ciudad de Chihuahua; así como uno con sede en Ciudad Juárez.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 1/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE FEBRERO DE 2014)</small>
+
+1. Seis tribunales colegiados: cinco especializados, dos en materias penal y administrativa; y tres en materias civil y de trabajo, todos con residencia en la ciudad de Chihuahua; así como uno con sede en Ciudad Juárez.
 
 2. Cuatro tribunales unitarios: dos con residencia en Chihuahua y dos con sede en Ciudad Juárez.
 
@@ -741,7 +743,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 5. El Centro Auxiliar de la Quinta Región, se integrará por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa, y uno en La Paz, Baja California Sur, dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y ocho juzgados de Distrito Auxiliares, siete con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa.
 
-6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y un juzgado de Distrito Auxiliar.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 1/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE FEBRERO DE 2014)</small>
+
+6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, se integrará por un tribunal unitario de Circuito Auxiliar y un juzgado de Distrito Auxiliar.
 
 7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y cuatro juzgados de Distrito Auxiliares.
 
@@ -1056,3 +1060,11 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 53/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado Quinto de Distrito en el Estado de Yucatán, con residencia en Mérida; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los juzgados de Distrito, de la entidad federativa y residencia indicados, fue aprobado por el Pleno del propio Consejo, en sesión extraordinaria de trece de diciembre de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a siete de enero de dos mil catorce.- Conste.- Rúbrica.
+
+D.O.F. 27 DE FEBRERO DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 53/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
