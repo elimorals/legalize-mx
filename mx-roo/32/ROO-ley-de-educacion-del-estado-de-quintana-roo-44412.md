@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-44412"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2013-08-30"
+last_updated: "2014-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1392 +21,612 @@ state: "ROO"
 ---
 # LEY DE EDUCACION DEL ESTADO DE QUINTANA ROO
 
-LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
+REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005
+Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 10 de octubre de 2004.
 
-DECRETO NUMERO: 148
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DE BAJA CALIFORNIA SUR.
 
-LEY DE EDUCACION DEL ESTADO DE QUINTANA ROO
+### Capítulo I. De los Órganos y Unidades Administrativas, de su competencia y organización
 
-LA HONORABLE X LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
+###### Artículo 1°.
 
-DECRETA:
+La Comisión Estatal del Agua de Baja California Sur, como Organismo Público Descentralizado de: Gobierno Estatal, tiene a su cargo el desempeño de las atribuciones y facultades que expresamente le encomiendan la Ley de Aguas del Estado de Baja California Sur que lo creó, así como el presente Reglamento, Decretos. Acuerdos, Circulares y demás disposiciones e Instrucciones que en este sentido emita el C. Gobernador del Estado.
 
-LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
+###### Artículo 2°.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+Para el cumplimiento de su objetivo, la Comisión contará con los siguientes Órganos y unidades Administrativas:
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+1. Órgano Máximo de Gobierno:
 
-###### Artículo 1.
+- Junta de Gobierno
 
-La presente Ley es reglamentaria del Artículo 32 de la Constitución Política del Estado y tiene por objeto establecer los lineamientos generales que regirán la educación que se imparta dentro del Estado de Quintana Roo, así como los derechos y obligaciones de las personas y la sociedad en la función educativa.
+El cual tendrá bajo su responsabilidad el establecimiento de directrices y mecanismos de examinación, aprobación y seguimiento, para el óptimo funcionamiento de las actividades hidráulicas que le competen, así como las enumeradas en el Artículo 11 de la Ley de Aguas del Estado.
 
-Regular todas las actividades educativas, realizadas por personas físicas o jurídicas, públicas o particulares, nacionales o extranjeras, las cuales además, deberán respetar y se ajustarán a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo, la Ley General de Educación y la Ley de Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Quintana Roo.
+2. Órgano Colegiado: Dicho Consejo se integrará conforme a la Ley en la materia.
 
-Para efectos de esta Ley, se entenderá por:
+- Consejo Consultivo
 
-I. Autoridad Educativa Federal, a la Secretaría de Educación Pública de la Administración Pública Federal;
+3. Unidades Administrativas:
 
-II. Autoridad Educativa Estatal, al Ejecutivo del Estado por conducto de la Secretaría de Educación y Cultura; y
+- Dirección General
 
-III. Autoridad Educativa Municipal, al Ayuntamiento de cada Municipio.
+- Subdirección General
 
-###### Artículo 2.
+- Coordinación Administrativa
 
-Las disposiciones contenidas en la presente Ley son de orden público e interés social y de observancia general en todo el territorio del Estado de Quintana Roo.
+- Departamento de Planeación, Programación y Presupuestación de Obra.
 
-La aplicación y vigilancia del cumplimiento de esta Ley corresponde a la Autoridad Educativa Estatal; así como a las organizaciones sindicales de maestros, a los directivos educativos, a los docentes, a los educandos, padres de familia y a la sociedad en general.
+- Departamento de Estudios, Proyectos y Supervisión de Obra.
 
-Los Ayuntamientos de cada Municipio podrán promover y prestar servicios educativos, de cualquier tipo o modalidad, de conformidad con lo dispuesto en el Artículo 15 de la Ley General de Educación.
+- Departamento de Desalación
 
-###### Artículo 3.
+- Departamento de Recursos Financieros
 
-La educación es un derecho fundamental del ser humano y de la sociedad. Toda persona tendrá derecho a recibir educación, sin límites de edad, sexo, religión o raza; con las mismas oportunidades de acceso, permanencia y conclusión en el Sistema Educativo Estatal, con el único requisito de satisfacer las disposiciones generales aplicables.
+- Departamento de Atención Social y Participación Comunitaria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 3°.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+La Comisión Estatal del Agua de Baja California Sur, contará asimismo con las Unidades Subalternas que se señalen en el Manual Integral de Organización de la Comisión y en su caso, con los Órganos Desconcentrados que para auxiliarse en la consecución de su objetivo, le hayan sido autorizados por las instancias correspondientes.
 
-El Estado garantizará el ejercicio del derecho a la educación para todos y la universalización de la educación básica, que comprende: la educación preescolar, primaria y secundaria, siendo ésta y la media superior obligatorias.
+###### Artículo 4°.
 
-###### Articulo 4.
+La Comisión Estatal del Agua de Baja California Sur, a través de sus Áreas Administrativas, dirigirá sus actividades en forma programada y con base a las Políticas que establezca el C. Gobernador del Estado, para el logro de los objetivos del Sector Hidráulico señalados en el Plan Estatal de Desarrollo.
 
-La Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo, la Ley General de Educación y la presente Ley, son la base que determina la política educativa del Estado.
+### Capítulo II. De las atribuciones de la Junta de Gobierno de la Comisión Estatal del Agua
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 5°.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+La Junta de Gobierno, celebrará sesiones en forma ordinaria y extraordinaria en el lugar, fecha y hora que para el efecto se indique en la respectiva Convocatoria.
 
-Además de impartir la educación preescolar, la primaria, la secundaria, la media superior y la normal, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluida la educación superior, la educación inicial, la educación especial y la educación indígena, de conformidad con lo establecido en el Artículo 13 de la Ley General de Educación.
+###### Artículo 6º.
 
-Todos los servicios educativos que el Estado imparta serán gratuitos, de conformidad con lo establecido en los Artículos 3º y 32 de la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, respectivamente.
+Las Sesiones Ordinarias se celebrarán cuando menos una vez, cada tres meses y de manera Extraordinaria cuantas veces fueren convocados por su Presidente o por su Director General, en su carácter de Secretario Técnico de la Junta de Gobierno, ambos por propia iniciativa o a petición de dos o más miembros del mismo.
 
-Los servicios educativos que ofrezcan el Estado y los Municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, son de interés público, por lo tanto quedan sujetos a la normatividad que salvaguarda este interés.
+###### Artículo 7°.
 
-### CAPÍTULO I. DE LA CALIDAD
+La Junta de Gobierno sesionará trimestralmente y en forma Extraordinaria cuando así se requiera, para el debido funcionamiento de la Comisión.
 
-###### Artículo 5.
+###### Artículo 8°.
 
-La educación es medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad, y es factor determinante para la adquisición de conocimientos y para formar personas que tengan sentido de solidaridad social.
+La Junta de Gobierno funcionará siempre y cuando se cuente con la asistencia de cuando menos la mitad más uno de sus integrantes; sus decisiones se tomarán por mayoría de votos de los miembros presentes y, en su caso de empate, el Presidente tendrá voto de calidad.
 
-###### Artículo 6.
+###### Artículo 9°.
 
-La educación en el Estado de Quintana Roo buscará responder a los requerimientos de su entorno social y para tal fin considerará al ser humano como el actor central del proceso educativo. Se sustentará en los principios de libertad, justicia, independencia, democracia, equidad, calidad, inclusión, pluriculturalidad, conciencia ambiental, creatividad e innovación.
+Para la celebración de las Sesiones de la Junta de Gobierno, se deberá expedir Convocatoria por parte del Director General de la Comisión, que tendrá el carácter de Secretario Técnico de la misma; a la Convocatoria se acompañará la orden del día y, en su caso, el apoyo Documental de los asuntos a tratar, que se harán llegar a los integrantes de dicha Junta, cuando menos con tres días naturales de anticipación a la fecha de celebración de la Sesión, cuando esta tenga el carácter de ordinaria y con un día cuando sea extraordinaria.
 
-###### Artículo 7.
+###### Artículo 10°.
 
-La educación que impartan el Estado, los Municipios, y sus organismos descentralizados, así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá, además de los fines establecidos en el segundo párrafo del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y en el Artículo 7º de la Ley General de Educación, los siguientes:
+El Presidente de la Junta de Gobierno tendrá a su cargo las siguientes funciones:
 
-I. Fomentar el conocimiento, respeto y dignificación de las instituciones estatales, regionales y nacionales;
+I. Instalar, Presidir y Clausurar las Sesiones de la Junta de Gobierno, y en caso de empate, tendrá voto de calidad;
 
-II. Enriquecer la cultura regional con impulso creador y con la incorporación de ideas y valores universales;
+II. Autorizar los Informes de actividades al término del Ejercicio;
 
-III. Crear conciencia sobre los valores morales y prevenir sobre los perjuicios que causan a la persona y a la sociedad, el mal uso de la sexualidad, las conductas delictivas, los enervantes, los elementos tóxicos y todo aquello que nos lleve a menoscabar la dignidad humana, para propiciar las condiciones del desarrollo de una vida física y mentalmente sana;
+III. Suscribir conjuntamente con el Secretario Técnico, las Actas de las Sesiones, y
 
-IV. Fortalecer el afecto por la historia de la entidad, de la región y de la nación;
+IV. Las demás que le confieran el presente Reglamento otras disposiciones Legales, hacer moción de orden en las reuniones cuando así se requiera.
 
-V. Promover mediante la enseñanza de la lengua nacional -el español- un idioma común para todos los mexicanos, sin menoscabo de proteger y promover el desarrollo de la lengua maya;
+###### Artículo 11°.
 
-VI. Propiciar en la impartición de la educación, que se tomen las medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+El Secretario Técnico de la Junta de Gobierno tendrá a su cargo las siguientes funciones:
 
-VII. Fomentar el sentido de pertenencia con las comunidades del Estado para reforzar la identidad quintanarroense, como elemento de la identidad mexicana.
+I. Convocar a Sesiones Ordinarias y Extraordinarias cuando lo considere necesario o a petición de dos o más miembros de la Junta de Gobierno;
 
-VIII. Preparar a las personas e instituciones, hacia el aprovechamiento de las oportunidades que genera la globalización.
+II. Solicitar la acreditación de los miembros de la Junta de Gobierno;
 
-IX. Establecer y consolidar compromisos encausados a disminuir los rezagos sociales en el Estado, por medio del aprovechamiento de los recursos locales y la participación social en proyectos transformadores y productivos, a partir de los servicios educativos de las comunidades.
+III. Ser el moderador en las Sesiones, y conceder el uso de la voz al miembro que lo solicite;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Recabar conjuntamente con el Presidente de la Junta de Gobierno, la firma de todos los asistentes a las Sesiones para validar los acuerdos y compromisos efectuados en las mismas;
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+V. Llevar el libro de control de las Actas de las Sesiones de la Junta de Gobierno;
 
-X. Favorecer una educación que proporcione a la sociedad una concepción de universalidad con el objetivo de reforzar en el educando los valores de la cultura de la legalidad a través del conocimiento y la observancia de la ley, la participación, la no discriminación, la tolerancia, la pluralidad, y el respeto a los derechos humanos alentando la construcción de relaciones democráticas sustentadas en la dignidad de la persona, la integridad de la familia y la convicción por el Interés general de la sociedad.
+VI. Dar seguimiento a los acuerdos tomados por la Junta de Gobierno en el Ejercicio de sus funciones, hasta su cumplimiento, y
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
+VII. Las demás que le confieran el presente Reglamento y otras disposiciones Legales.
 
-X (SIC). Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales.
+###### Artículo 12°.
 
-###### Artículo 8.
+Los integrantes de la Junta de Gobierno, tendrán derecho a voz y voto respecto de los asuntos que trate dicho Órgano; las mismas facultades tendrán los suplentes de cada representante propietario, en caso de ausencia de estos, previa comprobación ante el Presidente de la Junta de Gobierno de su carácter de suplentes, mediante oficio correspondiente.
 
-La formación ética en los valores socio-históricos, personales y sociales, y la educación cívica son obligatorias en todos los tipos, niveles y modalidades educativos. Las instituciones públicas y particulares de educación básica y normal, cumplirán actividades de formación cívica y ética, y estarán obligadas a poseer una Bandera Nacional, a realizar los actos cívicos escolares periódicamente y asegurar en los educandos el respeto y el reconocimiento a los Símbolos Patrios. Deberán conocer la composición política de la nación y aprender e interpretar, con cabal respeto, los Himnos Nacional y Estatal.
+Las sesiones de la Junta de Gobierno no se llevarán a cabo sin la asistencia de su Presidente, o en su caso de su suplente.
 
-## TÍTULO SEGUNDO. DE LA EDUCACIÓN
+###### Artículo 13°.
 
-###### Artículo 9.
+En caso de que la reunión Convocada no pudiera llevarse a cabo en la fecha prevista, deberá celebrarse entre tos cinco y quince días hábiles siguientes de conformidad con la Convocatoria que para tales efectos expedirá el Secretario Técnico.
 
-Para los efectos de la presente Ley, por calidad educativa se entenderá el óptimo funcionamiento de las instituciones y los más eficaces resultados del proceso educativo en general, así como el aprovechamiento escolar en lo particular, propósito que tendrá la más alta prioridad en la política educativa del Estado, por lo que todos los programas y actores de la educación estarán comprometidos en la tarea de superarla constantemente, con una visión integral de la gestión escolar.
+###### Artículo 14°.
 
-###### Artículo 10.
+El Acta de cada Sesión deberá ser aprobada por la Junta de Gobierno y suscrita por el Presidente y el Secretario Técnico de la misma, y deberá contener la orden del día y los acuerdos tomados.
 
-La Autoridad Educativa Estatal trabajará por consolidar una verdadera política de Estado en materia de educación pública, que plasmará en un marco general de planeación integral.
+### Capítulo III. De las atribuciones del Consejo Consultivo de la Comisión Estatal del Agua
 
-Habrá un Programa de Desarrollo Educativo Estatal en cada administración pública, que será el marco de planeación estratégica. El programa se elaborará con la más amplia participación social y en coordinación con los Municipios de la entidad, y deberá contener un diagnóstico de la situación real de las instituciones y del sistema educativo, así como propuestas integrales generales y específicas dirigidas a superar la calidad de la educación y se mantendrá atenta a la medición de resultados del Sistema Integral de Evaluación Educativa.
+Del Comisario
 
-La Autoridad Educativa Estatal deberá elaborar y poner en práctica, dentro de los noventa días siguientes a la promulgación del Plan Básico de Gobierno, el Programa de Desarrollo Educativo Estatal; éste será congruente con dicho Plan y con el Programa de Desarrollo Educativo Federal.
+###### Artículo 15°.
 
-Al concluir su gestión administrativa, la Autoridad Educativa entregará al titular de la nueva administración una propuesta de programa para los cien primeros días siguientes que comprenda las acciones estratégicas relevantes para dar continuidad al desarrollo educativo estatal.
+El Comisario tendrá las siguientes facultades:
 
-Las instituciones y los organismos de cultura, de ciencia y tecnología, de juventud y deporte, de educación para personas jóvenes y adultas, de capacitación para el trabajo, y de crédito educativo; así como las instituciones de educación media y superior, tendrán la obligación de elaborar un programa estratégico de trabajo sexenal, ajustado a los lineamientos del Programa de Desarrollo Educativo Estatal, en un plazo que no exceda los cuarenta y cinco días naturales, contados a partir de la fecha de publicación de éste. Sus titulares informarán, dos veces al año como mínimo, a la Autoridad Educativa Estatal, sobre los avances de dichos programas, así como a la Legislatura del Estado, según se requiera.
+I. Asistir con voz, pero sin voto a todas las Sesiones de la Junta de Gobierno, a las que deberá ser citado;
 
-Los planteles de educación básica del Estado operarán con base en programas estratégicos de transformación escolar, elaborados por el director de cada escuela, por cada supervisor escolar y por cada jefe de sector con apoyo de los docentes, debiendo ser reformulados anualmente con base en los resultados de la evaluación inmediata anterior. Dichos programas serán avalados por la asociación de padres de familia del plantel y por la Autoridad Educativa.
+II. Convocar a Sesiones ordinarias y extraordinarias en caso de omisión del Presidente o del Director General, y en cualquier otro caso en que lo juzgue conveniente;
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+III. Vigilar que la administración de los recursos se haga de acuerdo con lo que disponga la Ley, los programas y presupuestos aprobados;
 
-El Estado garantizará en las zonas más necesitadas en todos los Municipios de la entidad, la implementación del Programa de Escuelas de Tiempo Completo en base a su disposición presupuestal, este Programa deberá estar dirigido a los alumnos de educación primaria.
+IV. Practicar la Auditoría de los Estados Financieros y las de carácter técnico o administrativo, al termino del Ejercicio o antes si así lo considera conveniente;
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+V. Rendir anualmente en Sesión Ordinaria de la Junta de Gobierno, un Informe respecto a la veracidad y suficiencia de la información presentada por el Director General;
 
-La Autoridad Educativa Estatal, para implementar dicho programa en los Municipios del Estado, deberá atender a los siguientes criterios:
+VI. Hacer que se inserten en el orden del día de las Sesiones de la Junta de Gobierno, los puntos que considere pertinentes;
 
-I. Ubicación en Zonas urbano marginadas y rurales;
+VII. Vigilar ilimitadamente en cualquier tiempo las operaciones de la Comisión, y;
 
-II. Cercanía y facilidad de acceso a la escuela;
+VIII. Las demás que le asigne la Junta de Gobierno, sin contravenir la Ley de Aguas del Estado.
 
-III. Laborar en un solo turno;
+El Comisario para el debido cumplimiento de sus atribuciones, se podrá auxiliar del Personal Técnico y Administrativo que requiera con cargo a la Comisión, con la aprobación de la Junta de Gobierno.
 
-IV. Espacios para realizar actividades recreativas y deportivas;
+###### Artículo 16°.
 
-V. Barda o cerca perimetral;
+El Consejo Consultivo es el Órgano a seguir y de apoyo para la realización de los objetivos de la Comisión Estatal del Agua.
 
-VI. Interés manifiesto de padres de familia; y
+###### Artículo 17°.
 
-VII. Plantilla conformada mayoritariamente con docentes de una plaza.
+La Comisión Estatal del Agua llevará a cabo la Convocatoria para la integración del Consejo Consultivo, y proporcionará los elementos necesarios para su conformación, y cuidará que sesione en la forma y términos que aquí se especifican; el Consejo Consultivo sesionará cuando menos cada tres meses, o cuando así se considere necesario a petición de dos o más de sus integrantes.
 
-###### Artículo 11.
+###### Artículo 18°.
 
-El Sistema Educativo Estatal se vinculará con las diversas instituciones, organismos, grupos sociales y demás personas que intervienen en los procesos que promueven el desarrollo de los educandos y de la sociedad, quienes integrarán el Consejo Consultivo del Compromiso Social por la Calidad de la Educación, de conformidad con el acuerdo respectivo. Este Consejo validará las propuestas que formulen los diversos actores de la educación para que éstas se integren a la política educativa estatal.
+Los Miembros del Consejo Consultivo designarán democráticamente de entre ellos a su Presidente, el cual representará al Consejo y a los Usuarios en la Junta de Gobierno de la Comisión; asimismo designarán a un Vicepresidente y a un Secretario, y el número de Vocales que sean necesarios, los cuales durarán tres años en su cargo con posibilidad de reelección inmediata por un solo período.
 
-El Ejecutivo Estatal contará con un organismo de asesoría y consulta para la planeación, programación, coordinación, articulación y operación del Sistema Educativo Estatal. Este organismo se denomina Consejo Académico de la Educación y sus integrantes serán propuestos al Ejecutivo Estatal por el Consejo Consultivo del Compromiso Social por la Calidad de la Educación; sus cargos tendrán carácter honorífico.
+###### Artículo 19°.
 
-El funcionamiento y organización de los Consejos señalados en este artículo, se establecerá en las disposiciones reglamentarias, que al efecto expida la Autoridad Educativa Estatal.
+Son atribuciones del Presidente del Consejo Consultivo:
 
-###### Artículo 12.
+I. Instruir la Convocatoria a los integrantes del Consejo Consultivo a la celebración de Sesiones Ordinarias y Extraordinarias;
 
-La administración y dirección de las entidades paraestatales pertenecientes al sector educativo estará a cargo de un titular, designado por el Ejecutivo del Estado, de una terna propuesta por el órgano de gobierno correspondiente, emanada de una convocatoria abierta que establezca un proceso de selección basado en el análisis del currículo vitae, y de la preparación y experiencia profesionales relativa a la función, en el cual se considerará factor determinante la capacidad para el cargo, para el liderazgo y para la toma de decisiones.
+II. Autorizar los Informes de actividades al término del Ejercicio;
 
-###### Artículo 13.
+III. Canalizar al Director General de la Comisión las resoluciones y acuerdos adoptados por el Consejo Consultivo en pleno, en las materias que el Director General le haya consultado, y
 
-La educación en el Estado, contará con un Sistema Integral de Evaluación Educativa, que articulará cuatro componentes básicos: la evaluación del desempeño de los alumnos, educadores y autoridades educativas; la evaluación del proceso educativo que abarca los planes y programas, al igual que el proceso de enseñanza-aprendizaje; la evaluación de la estructura y funcionamiento del sistema, así como la evaluación de resultados orientada a establecer el impacto social de la educación en la calidad de vida.
+V. Presidir las Sesiones del Consejo Consultivo y, en su caso de empate, dar su voto de calidad.
 
-El sistema de evaluación comprenderá:
+###### Artículo 20°.
 
-I. La realización de cuando menos dos evaluaciones institucionales integrales por ciclo escolar, con énfasis en el aprovechamiento escolar;
+Es obligación de los Miembros del Consejo Consultivo:
 
-II. La integración de un sistema de indicadores aplicable a instituciones educativas, públicas y particulares, e información sociodemográfica de los alumnos;
+I. Asistir a las Sesiones a que fueren convocados;
 
-III. La construcción de un sistema de niveles de desempeño escolar, a efecto de que la autoridad educativa identifique a las escuelas, de acuerdo a las siguientes categorías:
+II. Analizar los asuntos que sean sometidos a su consideración, en los términos de la orden del día de cada Sesión y, en su caso, hacer las observaciones y recomendaciones que consideren pertinentes;
 
-a) Escuela de excelencia;
+III. Participar en las acciones cuya realización sea acordada por el Consejo Consultivo y, en general acatar los acuerdos emanados de este, e
 
-b) Escuela sobresaliente;
+IV. Informar a los miembros del Consejo por conducto de su Presidente, de los Resultados de las gestiones que les han sido encomendadas.
 
-c) Escuela regular; y
+###### Artículo 21°.
 
-d) Escuela con requerimiento de apoyo.
+Los miembros del Consejo Consultivo tendrán derecho a voz y voto en la toma de acuerdos, respecto de los asuntos que se traten por dicho Órgano Asesor y de apoyo, en el caso de los Miembros suplentes, estos podrán participar en las Sesiones, previa acreditación de su carácter ante el Presidente del Consejo Consultivo en ausencia del Titular respectivo.
 
-IV. La conformación de equipos técnicos para apoyar a las instituciones educativas con requerimiento de apoyo para superar sus deficiencias y resolver sus necesidades;
+###### Artículo 22°.
 
-V. El otorgamiento de un premio anual a la calidad educativa que reconozca públicamente a los directivos, docentes, alumnos y escuelas que obtengan los mejores resultados en la evaluación de cada ciclo escolar;
+Para la celebración de las Sesiones del Consejo Consultivo, la Convocatoria correspondiente deberá ir acompañada del orden del día y deberá ser recibida por los Miembros del Consejo Consultivo con una anticipación no menor a dos días naturales.
 
-VI. La Autoridad Educativa Estatal, dará a conocer a los docentes, alumnos, padres de familia y a la sociedad en general, los resultados de las evaluaciones que realicen, así como la demás información global que permita medir el desarrollo y los avances de la educación en el Estado.
+###### Artículo 23º.
 
-###### Artículo 14.
+El Quórum requerido para la celebración de las Sesiones del Consejo Consultivo será de la mayoría de estos, salvo que se trate de Segunda Convocatoria, caso en el cual la Sesión se celebrará con la asistencia de los que se encuentren presentes.
 
-La Autoridad Educativa Estatal establecerá y operará un Sistema de Información del Sector Educativo Estatal, con tecnología digital, para dar a conocer públicamente las cifras actualizadas de la información estadística e indicadores educativos, que será la única instancia de información para el sector educativo en la toma de decisiones y para la elaboración de programas de desarrollo del sector, en cumplimiento a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo y demás disposiciones legales relativas.
+###### Artículo 24º.
 
-### CAPÍTULO II. DE LA PLANEACIÓN Y POLÍTICA DE ESTADO
+Las Sesiones del Consejo Consultivo se desarrollarán en el siguiente orden:
 
-###### Artículo 15.
+I. Lista de asistencia y Declaratoria relativa al Quórum;
 
-La Autoridad Educativa Estatal establecerá un programa permanente de dotación de materiales y equipos de tecnología de apoyo, a todos los planteles públicos de educación básica, hasta alcanzar la cobertura total y garantizar la actualización y mantenimiento continuo de los equipos y programas.
+II. Lectura y aprobación, en su caso, del Acta de la Sesión anterior;
 
-###### Artículo 16.
+III. Discusión y resolución de los puntos comprendidos en el orden del día;
 
-La autoridad educativa fomentará permanentemente, la asignatura de matemáticas, así como la lectura y expresión escrita en las escuelas de todos los tipos, niveles y modalidades educativas, públicas y particulares, y en la sociedad en general, por medio de acciones y actividades pedagógicas, escolares, comunitarias y culturales; en educación básica se promoverá intensamente el empleo de la estrategia didáctica, de la lectura comentada y recreativa; así como la práctica de la expresión escrita libre y sobre temas derivados de las lecturas y de las clases.
+IV. Consignación de acuerdos, y
 
-###### Artículo 17.
+V. Asuntos Generales.
 
-La Autoridad Educativa Estatal promoverá en las escuelas de todos los tipos, niveles y modalidades de la educación, un Programa Integral de Enseñanza de la Ciencia y Fomento del Conocimiento Científico, que despierte el interés de los educandos y la sociedad en general. Para ello, establecerá convenios con instituciones científicas y de investigación y desarrollo tecnológico del país y el extranjero, que comprendan cursos de capacitación a maestros y promotores de la ciencia, a través del Sistema Estatal de Capacitación para la Educación.
+###### Artículo 25°.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Consejo Consultivo por conducto de su Presidente, informará al Director de la Comisión de los acuerdos que, en su caso, se hubieran tomado, cuando del contenido de la información remitida al Director General se derive una Propuesta, observación o sugerencia, este cantará con un plazo de diez días hábiles para notificar la respuesta correspondiente.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2013)</small>
+### Capítulo IV. De las atribuciones del Director General de la Comisión Estatal del Agua
 
-Asimismo, la autoridad educativa estatal promoverá en las escuelas de todos los tipos, niveles y modalidades de educación, un programa integral de fomento a la Cultura de la Legalidad y los Derechos Humanos, que promueva los valores cívicos y sea el eje a partir del cual se impulse la construcción de ciudadanía. Para ello, establecerá convenios con instituciones de investigación académica, públicas y privadas para la actualización del magisterio en materia de Cultura de la Legalidad y Derechos Humanos para su debida implementación en el sistema educativo de nuestro Estado.
+###### Artículo 26°.
 
-###### ARTÍCULO 18.
+Al frente de la Comisión Estatal del Agua de Baja California Sur, habrá un Director General a quien corresponde originalmente la representación, trámite y resolución de los asuntos de la competencia de la Comisión, estando en posibilidades de delegar sus facultades a otros servidores públicos subalternos, sin perjuicio de su Ejercicio directo, expidiendo los acuerdos en el Periódico Oficial del Estado, excepto aquellas que por disposición legal o del presente reglamento, deberán ser ejercidas directamente por él.
 
-La Autoridad Educativa Estatal establecerá un Sistema Integral de Capacitación a trabajadores docentes y de apoyo a la educación, enfocado a lograr eficiencia en la gestión escolar y de la enseñanza; al efecto se integrará en un solo sistema, a todos los organismos que ofrecen capacitación al sector educativo, por medio de cursos de actualización, especialización y posgrado optativos y obligatorios. La Autoridad Educativa Estatal deberá ofrecer cuando menos un curso de actualización cada año, a cada trabajador que responda a sus requerimientos y a sus intereses.
+###### Artículo 27°.
 
-## TÍTULO TERCERO. DE LA EQUIDAD EN LA EDUCACIÓN
+El Director General tendrá además de las atribuciones que le señale la Ley, las siguientes:
 
-###### Artículo 19.
+I. Asesorar y dar consulta al Ejecutivo del Estado en materia hidráulica, como parte del desarrollo y fortalecimiento de la administración y uso del recurso Agua a nivel Estatal;
 
-La autoridad educativa estatal elaborará y aplicará un plan integral de equidad, por medio del cual coordine a todas las instituciones que operen programas que incidan en la función educativa, sin distinción por su fuente de financiamiento -federal, estatal, municipal o privado-, para apoyar el acceso, reingreso, la permanencia y la conclusión de la educación básica de niños, niñas y jóvenes en condiciones de mayor desventaja social, especialmente a personas en condición de pobreza extrema; en reclusión; habitantes de zonas urbano marginadas, rurales, indígenas, asentamientos irregulares; migrantes; personas con capacidades diferentes y sobresalientes; jóvenes y adultos en rezago educativo; madres solteras y jóvenes desamparadas.
+II. Dirigir que se lleven a cabo las reuniones de la Junta de Gobierno, de conformidad con los lineamientos previamente establecidos por la Junta de Gobierno;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+III. Las demás funciones que les confieren las distintas disposiciones legales y reglamentarias vigentes, y todas aquellas funciones que acuerde la Junta de Gobierno que debe llevar a cabo.
 
-###### Artículo 20.
+### Capítulo V. De las atribuciones del Subdirector de la Comisión Estatal del Agua
 
-Para cumplir con lo dispuesto en el artículo anterior, la autoridad educativa estatal llevará a cabo las acciones siguientes:
+###### Artículo 28°.
 
-I. Celebrar convenios de colaboración con instituciones y organismos nacionales e internacionales para obtener financiamiento complementario destinado a las acciones de inclusión social y equidad educativa, con preferencia a los programas de becas, de atención a zonas marginadas e indígenas y personas que requieran educación especial;
+La Comisión Estatal del Agua de Baja California Sur, tendrá un Subdirector a quién corresponde auxiliar y apoyar al Director de la Comisión en el trámite, resolución y seguimiento de los asuntos de la competencia del mismo; Estando en posibilidades de delegar sus facultades a otros Servidores Públicos Subalternos, en beneficio del funcionamiento óptimo de las actividades encomendadas a las diversas unidades administrativas de la Comisión.
 
-II. Establecer un programa específico para ayudar a educandos que se encuentren en riesgo de reprobación o expulsión, y aplicar medidas para evitarlo, a partir del "control escolar" o reporte de altas y bajas;
+###### Artículo 29°.
 
-III. Implementar un Sistema Estatal de Becas dirigido a estimular a los alumnos de mayor rendimiento académico y apoyar a aquellos que viven en condiciones de mayor desventaja social. La Autoridad Educativa publicará el Padrón Estatal de Becarios en su portal electrónico y mantendrá disponible esta información al público en general;
+El Subdirector tendrá las siguientes atribuciones:
 
-IV. Mantener y ampliar la cobertura de entrega de lentes a todos los alumnos de educación básica que lo requieran, dar continuidad a la reposición de lentes y actualizar permanentemente el padrón de educandos con debilidad visual para procurar que reciban atención adecuada. Para tal fin, la Autoridad Educativa Estatal celebrará convenios de colaboración con instituciones, públicas y privadas, del sector salud y con organizaciones altruistas;
+I. Sugerir la estrategia y normatividad especifica para la elaboración de los Planes y Programas Hidráulicos Estatales y de Inversión a desarrollarse en el contexto territorial de la entidad federativa;
 
-V. Establecer un programa para detectar y atender a educandos con agudeza auditiva, con la colaboración de las instituciones de salud, organismos altruistas e instancias especializadas, para atender los casos que lo requieran;
+II. Concretar los lineamientos para la elaboración y supervisión del Programa Anual de la Comisión, a través del Director General y someterlo a la Junta de Gobierno para su aplicación respectiva;
 
-VI. Constituir y operar un programa específico dirigido a atender a las escuelas que se encuentran en localidades aisladas y zonas urbano-marginadas, de mayor riesgo de rezagos, para integrarlas a un proceso de mejoramiento continuo que les garantice contar con instalaciones dignas y además procurar la actualización permanente de los educadores;
+III. Sugerir los mecanismos necesarios para instrumentar los Proyectos y Programas que tiendan al fortalecimiento de la Comisión Estatal del Agua;
 
-VII. Procurar apoyos educativos específicos para migrantes, a partir de una investigación auspiciada por la Autoridad Educativa Estatal, que permita configurar la propuesta educativa especial para los migrantes, donde se considere un currículo y calendario flexibles, y se creen condiciones materiales y de recursos para su operación;
+IV. Proponer los lineamientos para elaborar los Programas que tengan por objeto el Desarrollo de la Cultura Hidráulica y propicien la preservación, el uso eficiente y la calidad del Agua;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+V. Establecer los mecanismos de participación de las diversas Dependencias, Organismos, Instituciones, Usuarios y diversos Sectores de la población en la definición de la Política Hidráulica Estatal, y en los procesos de Planeación y prestación de los Servicios Públicos Hidráulicos locales;
 
-VIII. Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que faciliten la terminación de la educación preescolar, primaria y la secundaria, otorgando facilidades de acceso, reingreso, permanencia y egreso a las mujeres;
+VI. Convenir los mecanismos de Coordinación entre la Comisión Estatal del Agua y las Dependencias, Organismos y Comités de Agua y Saneamiento del Estado (COTAS), involucradas en el manejo del Agua, tanto Federales como Estatales y Municipales, para propiciar una mayor vinculación y apoyo recíproco en la formación de sus planes y programas específicos en la materia;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+VII. Definir, de acuerdo con la normatividad vigente en la materia, los mecanismos de otorgamiento y control de concesiones del recurso Agua, a personas morales legalmente Constituidas en el Contexto Estatal;
 
-IX. Desarrollarán programas con perspectiva de género para otorgar becas y demás apoyos económicos a educandos.
+VIII. Definir las directrices para la determinación de las cuotas y tarifas de conformidad con lo establecido en la Ley de Agua, cuando preste los Servicios Públicos;
 
-## TÍTULO CUARTO. ORGANIZACIÓN DEL SISTEMA EDUCATIVO ESTATAL
+IX. Establecer las directrices que servirán de base en la aplicación de las sanciones por las infracciones causadas por el incumplimiento de la normatividad aplicable; como es el caso de la contaminación del recurso Agua o por el tratado o manejo inadecuado del Agua Potable;
 
-###### Artículo 21.
+X. Auxiliar al Director General en los actos Administrativos y Jurídicos de dominio indispensables, con el fin de mantener adecuadamente el funcionamiento de la Comisión;
 
-El Sistema Educativo Estatal está constituido por:
+XI. Asesorar y apoyar a los Organismos, Distritos y Unidades de riego, así como al Sector Social y Privado, responsables de la Construcción, Operación y mantenimiento de la Infraestructura Hidráulica, a fin de garantizar su expansión y la eficiente prestación de los Servicios Públicos que la misma implica;
 
-I. Los educandos, los educadores y el personal de apoyo a la labor educativa;
+XII. Fungir como unidad de Coordinación y vinculación entre las áreas administrativas que conforman a la Comisión Estatal del Agua y el Director General, a fin de establecer y fortalecer la integración, equidad y óptimo funcionamiento del Organismo;
 
-II. Los planes, programas, métodos y materiales educativos;
+XIII. Responder a las querellas, denuncias y Juicios de Dependencias, Organismos, particulares e inclusive exempleados realicen contra el Organismo;
 
-III. Las autoridades educativas, los mandos superiores, los mandos medios e intermedios, los jefes de sector, los supervisores, los directores y subdirectores de escuela;
+XIV. Supervisar la correcta ejecución y seguimiento del Plan Hidráulico del Estado, de conformidad con los Programas y normas derivadas del mismo;
 
-IV. Las instituciones educativas públicas, y sus organismos descentralizados;
+XV. Controlar, evaluar y retroalimentar la ejecución y aplicación de programas, normas, presupuestos y financiamiento tanto de inversión como los organizacionales de la propia Comisión;
 
-V. Las instituciones de los particulares, con autorización o con reconocimiento de validez oficial de estudios;
+XVI. Establecer las directrices para la óptima administración de los recursos humanos, materiales y financieros de la Comisión, a fin de lograr los objetivos organizacionales, así como aprovisionar y brindar los servicios generales que tal administración requiere, y
 
-VI. Los espacios y parcelas escolares; y
+XVII. Llevar a cabo el Establecimiento, Seguimiento, Dirección, Control y Retroalimentación de todos aquellos Convenios, Acuerdos, Actividades y Funciones que le sean encomendadas por el Director General, en el estricto apego al logro óptimo de los objetivos organizacionales; Así como al fortalecimiento de la administración y uso del recurso Agua en el Estado.
 
-VII. Las instituciones que en el futuro se creen para complementar el servicio educativo.
+### Capítulo VI. De las atribuciones genéricas de las Unidades Administrativas de la Comisión Estatal del Agua
 
-###### Artículo 22.
+###### Artículo 30°.
 
-El Sistema Educativo Estatal adoptará la estructura que responda a los principios, criterios y fines de la educación mexicana. Tendrá como característica ser integrador y flexible para adecuarse a las necesidades y características propias.
+Los Titulares que estarán al frente de los Departamentos y Coordinación Administrativa que integran a la Comisión Estatal del Agua de Baja California Sur, tendrán a su cargo la conducción técnica y administrativa de las mismas, y serán responsables ante el Director General y el Subdirector de su óptimo funcionamiento, serán auxiliados en la atención y despacho de los asuntos a su cargo por el personal, que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado por la Comisión, a las cuales les corresponden las siguientes atribuciones generales:
 
-Mantendrá relaciones funcionales con todas las dependencias y organismos del Estado, con los sectores social y privado, con los medios de comunicación y con la sociedad en general, con el fin de impulsar compromisos individuales y colectivos que fortalezcan el sistema educativo y promuevan su mejoramiento económico, social y cultural.
+I. Organizar, Integrar, Dirigir, Evaluar, Controlar y Retroalimentar el desempeño de las actividades encomendadas a las diversas áreas que componen el Departamento correspondiente;
 
-###### Artículo 23.
+II. Orientar sus actividades conforme a las Políticas y programas establecidos por el Subdirector, con el fin de lograr de manera óptima, los objetivos y prioridades establecidas por la Comisión Estatal del Agua;
 
-El Sistema Educativo Estatal procurará articular funcionalmente todos los tipos, niveles y modalidades educativos, para lograr vinculación y enlace programático e institucional y continuidad, evitando descontroles en el tránsito regular de los escolares en sus diferentes niveles y modalidades; buscará integrar los servicios educativos, adaptarlos de acuerdo con las necesidades individuales y colectivas, favorecer la movilidad de los educandos y ofrecer oportunidades para que toda persona pueda encontrar oportunidades para alcanzar niveles escolares superiores y de cultura. Al efecto cuidará la secuencia y continuidad funcional de los planes y programas de estudio.
+III. Concretar los Anteproyectos de los Programas y Presupuestos que le corresponden y supeditarlos al Subdirector, para su posterior consideración al Director General de la Comisión;
 
-###### Artículo 25.
+IV. Someter a la consideración del Subdirector los Proyectos de modernización administrativa correspondientes, para su adecuado y oportuno funcionamiento, y despacho de los asuntos a su cargo;
 
-El Ayuntamiento de cada Municipio podrá, sin perjuicio de la concurrencia de la Autoridad Educativa Estatal, construir espacios educativos, darles mantenimiento y proveer de equipo básico a las escuelas públicas.
+V. Rendir los Informes y formular los Dictámenes, Estudios y opiniones que les requiera al Subdirector de la Comisión;
 
-Los Ayuntamientos, en coordinación con la Autoridad Educativa Estatal, promoverán la integración de un Consejo Municipal de Participación Social en la Educación, conforme a lo establecido en esta Ley.
+VI. Aplicar y vigilar el cumplimiento en el área de su competencia, de las Leyes, Reglamentos, Decretos, Acuerdos, Circulares, Procedimientos y demás disposiciones relacionadas con los Servicios y actividades de la competencia del respectivo Departamento, tomando las medidas adecuadas para prevenir y corregir la violación de esas normas y para la aplicación, en su caso de las sanciones procedentes;
 
-Los Ayuntamientos, deberán coordinarse con la Autoridad Educativa Estatal, para cumplir, en su caso, con oportunidad y eficiencia sus actividades y responsabilidades educativas en el marco normativo del sector educativo, así como retroalimentar el Sistema Estatal de Información Educativa.
+VII. Convenir con el Subdirector, los asuntos de la competencia de la unidad a su cargo;
 
-### CAPÍTULO III. DE LOS JEFES DE SECTOR, SUPERVISORES Y DIRECTORES ESCOLARES
+VIII. Atender al público en los asuntos de la competencia del Departamento respectivo y brindar el apoyo de Asesoría Técnica en el ámbito de su competencia a las áreas que así lo requieran o soliciten, y
 
-### CAPÍTULO III. DE LA SELECCIÓN Y DESIGNACIÓN DE LOS TITULARES DE LAS ENTIDADES PARAESTATALES DEL SECTOR EDUCATIVO
+IX. Desempeñar las demás funciones que les confieren las distintas disposiciones legales y reglamentarias vigentes, o les encomiende el Subdirector, o en su caso el Director General.
 
-###### Artículo 26.
+### Capítulo VII. De las atribuciones especificas de las áreas de la Comisión del Agua
 
-Los jefes de sector, supervisores y directivos escolares son trabajadores técnico-pedagógicos y al mismo tiempo funcionarios y servidores públicos. Constituyen por la naturaleza de sus funciones el vínculo y el canal de comunicación más cercano entre la Autoridad Educativa Estatal, con los servicios educativos, educadores, educandos y padres de familia.
+###### Artículo 31°.
 
-Para promoverse a puestos de dirección, supervisión y jefatura de sector, los educadores deben cumplir con los requisitos que establezcan la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo y el Reglamento de la Comisión Nacional Mixta de Escalafón.
+La Coordinación Administrativa tendrá el Despacho de los siguientes asuntos:
 
-Los jefes de sector, supervisores y directivos escolares, en sus espacios de autoridad, deben:
+I. Establecer mecanismos de Coordinación entre los diversos Departamentos que conforman a la Comisión, con el objeto de elaborar eficientemente el Programa Operativo Anual del Organismo;
 
-I. Responder de la organización institucional;
+II. Presentar al Subdirector de la Comisión, el programa Operativo Anual, para su respectiva verificación;
 
-II. Garantizar que las relaciones escolares entre los educandos, con los maestros y con la autoridad sean armoniosas, tolerantes y solidarias para favorecer el mejor ambiente de desarrollo del proceso educativo y asegurar las condiciones necesarias para elevar la calidad en la educación;
+III. Determinar, en coordinación con el Subdirector, los lineamientos y directrices de conducción e integración de los recursos humanos, financieros y materiales, para el correcto desempeño funcional de las diversas áreas que integran a la Comisión, de acuerdo a la normatividad vigente;
 
-III. Responder de la aplicación eficiente y honesta de los recursos y del apropiado uso de instalaciones escolares a efecto de que éstas se conserven limpias y en las mejores condiciones;
+IV. Supervisar la correcta aplicación de la normatividad y política en materia de administración de recursos humanos, financieros y materiales que regulan el funcionamiento del recurso Agua;
 
-IV. Informar puntualmente los movimientos del personal y la aplicación de los recursos materiales y financieros, previamente autorizados por la Autoridad Educativa Estatal, al Sistema Estatal de Información del Sector Educativo;
+V. Establecer los lineamientos y acciones especificas para el reclutamiento, selección, contratación, inducción y capacitación del personal que integre a la Comisión, contribuyendo al desarrollo del mismo;
 
-V. Elaborar un Programa Estratégico de Transformación Escolar y los respectivos programas anuales de trabajo, considerando dos componentes: escuelas de organización completa y escuelas multigrado, en el ámbito de su competencia; los cuales deberán ser reformulados a partir de los resultados del Sistema Integral de Evaluación Educativa;
+V. Establecer los sistemas, procesos, registros y estados contables mediante los cuales se lleva a cabo, el análisis e interpretación de la situación financiera de la Comisión, así como para la elaboración de los Estados Financieros, presupuestos, informes y reportes que de tales actividades se deriven;
 
-VI. Promover la organización y funcionamiento de los Consejos Técnicos Escolares, de zona y de sector, orientarlos y apoyarlos en sus juntas de estudio e intercambio de experiencias que deberán realizarse una vez al mes;
+VII. Definir y supervisar los Sistemas de Control y Seguimiento Financiero, con el fin de asegurar el adecuado Ejercicio Presupuestal, así como el máximo aprovechamiento de los recursos asignados a la Comisión;
 
-VII. Impulsar y orientar las relaciones de las escuelas con las comunidades de su entorno, para promover el desarrollo económico, social y sobre todo, el cultural, por medio de celebraciones, jornadas culturales y variadas actividades sociales, todo esto, con el claro objetivo de promover la construcción de un ambiente educativo por parte del entorno de las instituciones;
+VIII. Integrar, operar y controlar el programa Anual de Adquisiciones de acuerdo a la normatividad establecida al Presupuesto asignado, y a los requerimientos de cada área;
 
-VIII. Vigilar y supervisar el estricto cumplimiento del Calendario Escolar autorizado por la Autoridad Educativa Estatal;
+IX. Administrar los bienes muebles e inmuebles que conformen el patrimonio de la Comisión, con el fin de mejorar la eficiencia en el uso de la Infraestructura Hidráulica;
 
-IX. Vigilar y supervisar el estricto cumplimiento de las disposiciones que emita la Autoridad Educativa Estatal, respecto del trámite de las incidencias del personal;
+X. Brindar los servicios generales de mantenimiento preventivo y correctivo a las instalaciones, bienes muebles e inmuebles y equipo propiedad de la Comisión;
 
-X. Las demás establecidas en la presente Ley, las disposiciones que de la misma emanen, y las que le asigne la Autoridad Educativa Estatal, de acuerdo con sus facultades y competencias.
+XI. Presentar al Director General de la Comisión para su consideración, las cuotas y tarifas establecidas por los Organismos Operadores, en la prestación de los servicios públicos de Agua Potable, Alcantarillado y Saneamiento en el Estado;
 
-###### Artículo 27.
+XII. Efectuar el cobro a los diversos usuarios por el uso o aprovechamiento del recurso Hidráulico, de conformidad con la legislación existente en la materia;
 
-Los educadores con función docente frente a grupo son promotores, coordinadores y agentes directos del proceso educativo y al mismo tiempo funcionarios y servidores públicos.
+XIII. Definir las directrices necesarias para la integración y análisis de la información general y especifica de las áreas de la Comisión, para la integración de los Manuales Administrativos;
 
-Para ingresar al servicio docente frente a grupo en escuelas públicas y particulares, los aspirantes deben cumplir los requisitos que establezca la Autoridad Educativa Estatal en_las (sic) convocatorias respectivas, salir seleccionado en el concurso de competencias y cumplir el correspondiente curso de inducción a la carrera profesional docente.
+XIV. Coordinar y supervisar la elaboración y actualización de los Manuales de Organización y procedimientos, reglamentos interiores de trabajo, seguridad, capacitación y desarrollo que permitan una mayor coordinación entre las áreas, conforme a sus funciones, así como de un mejor aprovechamiento de los recursos de la Comisión Estatal del Agua, y
 
-Los educadores con función docente frente a grupo, deben:
+XV. Presentar al Subdirector para su respectiva autorización, los cambios orgánico-funcionales necesarios, a fin de optimizar la operación del Organismo y el logro oportuno de los objetivos previamente establecidos.
 
-I. Contar con título y cédula profesional inscritos en el Registro Estatal de Profesionistas;
+###### Artículo 32°.
 
-II Cumplir con el horario de clases y el Calendario Escolar expedido por la Autoridad Educativa Estatal;
+El Departamento de Planeación, Programación y Presupuestación de Obra, atenderá los siguientes asuntos:
 
-III. Permanecer y radicar en el lugar de su adscripción cuando gocen de un estímulo o compensación de arraigo en localidades aisladas o de difícil acceso;
+I. Elaborar los diagnósticos en materia de Agua Potable, Alcantarillado, Saneamiento Hidroagrícola, y Desaladoras que sirvan como base en la conformación de Estudios y Proyectos para el fortalecimiento de la Infraestructura Hidráulica;
 
-IV. Promover relaciones positivas con sus alumnos como base de su acción técnico-pedagógico y cuidar que entre los alumnos, los demás maestros y las autoridades de la escuela prevalezca un ambiente de armonía que propicie la acción creativa de todos en torno de la función educativa del grupo y de la escuela;
+II. Instrumentar los lineamientos para el Estudio y Diseño de los Proyectos que se implementaran para las diversas necesidades en el Sector Hidráulico del Estado;
 
-V. Participar permanentemente en la dinámica de la interacción entre la escuela y la comunidad inmediata, como factor de armonía y solidaridad con el propósito de ayudar a la creación y permanencia de un ambiente formativo para los alumnos y para la propia sociedad;
+III. Verificar que se realice la correcta integración de los Estudios que se efectúen para desarrollar, expandir y fortalecer la Infraestructura Hidráulica del Estado;
 
-VI. Evitar cometer cualquier forma de maltrato físico, psicológico o moral, así como perjuicio, daño, agresión, abuso o explotación, en contra de los educandos y tomar medidas para evitar que otros pudieran cometerlos;
+IV. Formular los Programas y Planes Hidráulicos Estatales, así como el presupuesto de Inversión organizacional, que el Gobierno Estatal contemple llevar a cabo en su ámbito territorial;
 
-VII. Mantener relaciones de colaboración y apoyo mutuo con los padres de familia de sus alumnos, mas allá del cuidado de las tareas extra-clase, con el propósito de conocer a fondo las condiciones socioculturales y económicas del hogar, para estar en condiciones de ofrecerles orientaciones oportunas cuando confrontan problemas sobre todo, de escolaridad y violencia intrafamiliar;
+V. Gestionar en coordinación con las autoridades correspondientes, la integración de los Proyectos, Planes y Programas Hidráulicos Estatales al Plan Estatal de Desarrollo respectivo;
 
-VIII. Realizar una reunión mensual con los padres de familia de su grupo, para informarles de los avances en el aprovechamiento escolar, de los problemas personales y de conducta de sus hijos, y para convenir con ellos la aplicación de medidas remediables, en el caso del aprovechamiento escolar y de corrección y rectificación en el caso de la conducta;
+VI. Implantar conjuntamente con los Organismos Operadores y los Comités Técnicos de Agua y Saneamiento, los Planes, Programas y Proyectos Hidráulicos definidos por la Comisión, con el fin de contribuir al Desarrollo del recurso Agua en el Estado;
 
-IX. Participar activamente en los trabajos de los consejos técnicos mensuales, aportando iniciativas, experiencias y formulando propuestas orientadas a superar la eficacia y la eficiencia del servicio educativo y especialmente de los procesos de enseñanza-aprendizaje;
+VII. Mantener un adecuado control, evaluación y retroalimentación de los planes, proyectos y programas que en materia hidráulica se conceptualicen e instrumenten en el Estado de Baja California Sur;
 
-X. Las demás establecidas en esta Ley y las disposiciones que de la misma emanen, así como las que le asigne la Autoridad Educativa Estatal y que sean de su competencia.
+VIII. Elaborar la normatividad lineamientos y criterios para la ejecución de proyectos, Obras, operación y mantenimiento de la Infraestructura Hidráulica Estatal, de conformidad a los criterios que establezca la Comisión Nacional del Agua que tengan a su cargo los Órganos Operadores, Comités Técnicos de Agua y Saneamiento, Unidades de Riego y esta Comisión;
 
-## TÍTULO QUINTO. TIPOS, NIVELES Y MODALIDADES EDUCATIVAS
+IX. Involucrar a las Dependencias, Organismos Operadores, Comités Técnicos de Agua y Saneamiento, Distritos y unidades de riego y Usuarios de la entidad, en la definición del marco normativo que regule el Desarrollo y Operación de la actividad relativa a la Desalación de Aguas, aspectos Hidroagrícolas y demás usos del Agua en el Estado;
 
-### CAPÍTULO I. OBJETIVOS
+X. Concretar las Políticas de verificación y control para los proyectos y programas que se desarrollen para los usos hidráulicos en el ámbito Estatal;
 
-### CAPÍTULO IV. DE LA EVALUACIÓN
+XI. Asesorar a los Organismos Operadores, Comités Técnicos de Agua y Saneamiento, unidades de riego en la aplicación e interpretación del Marco Normativo Hidráulico Estatal;
 
-###### Artículo 28.
+XII. Establecer los términos de cooperación e integración de créditos que resulten necesarios en apoyo al fortalecimiento de la Infraestructura Hidráulica, y a la solución de la problemática existente en los diversos usos del Agua;
 
-La educación que imparta el Estado de Quintana Roo, sus Municipios, sus organismos descentralizados y los particulares cuyos estudios tengan autorización o reconocimiento de validez oficial de estudios, en cualesquiera que sean sus tipos, niveles y modalidades, tendrá los siguientes objetivos:
+XIII. Proporcionar y promover la prestación de Asesoría y apoyo técnico en la elaboración, control y evaluación de programas de trabajo y presupuestos a las Dependencias, Organismos Operadores, Comités Técnicos de Agua y Saneamiento, unidades y distritos de riego del ámbito Estatal;
 
-I. Promover el desarrollo armónico y ordenado de la personalidad de los educandos, para que ejerzan con plenitud sus capacidades;
+XIV. Desarrollar por si misma o conjuntamente con otras Instituciones y Dependencias Públicas o Privadas, el desarrollo técnico e investigaciones científicas, y promover su aplicación en el contexto Estatal;
 
-II Crear y fortalecer la conciencia de la identidad estatal y nacional, fomentar el amor a la patria y el sentido de solidaridad nacional e internacional;
+XV. Establecer mecanismos de coordinación y comunicación con Instituciones Públicas y Privadas que tiendan a la promoción de acciones de investigación para un uso racional del Agua;
 
-III. Fomentar el aprecio a la dignidad humana y a la integridad de la familia, y la convicción del interés general de la sociedad;
+XVI. Preparar los planes y programas que apoyen al Director General de la Comisión, en el desempeño óptimo de sus actividades como representante Estatal ante el Consejo de Cuenca, Junta de Gobierno y los Comités Técnicos de Agua y Saneamiento existentes en el Estado, y
 
-IV. Fomentar y promover el uso y defensa de las lenguas autóctonas;
+XVII. Analizar y dar seguimiento a los acuerdos y compromisos que se deriven de las Sesiones y reuniones del Consejo de Cuenca, Junta de Gobierno y Comités Técnicos de Agua y Saneamiento, que influyan en la Planeación, Programación y Presupuestación de la Administración y uso eficiente del recurso Agua en el Estado.
 
-V. Priorizar las necesidades educativas de las comunidades indígenas del Estado, mediante programas específicos;
+###### Artículo 33°.
 
-VI. Preservar, acrecentar y difundir los bienes y valores que constituyen el acervo cultural del Estado y de la Nación y hacerlos accesibles a la colectividad;
+El Departamento de Estudios, Proyectos y Supervisión de Obra, atenderá el Despacho de los siguientes asuntos:
 
-VII. Fortalecer los valores regionales y la identidad nacional;
+I. Acopiar, integrar y proporcionar al Departamento de Planeación, Programación y Presupuestación de Obra, la Información y Estadísticas referentes a las actividades de esta área para su incorporación al proyecto estratégico de desarrollo y a los planes y programas, que en la materia se lleve a cabo en el Estado;
 
-VIII. Fomentar y enriquecer el conocimiento y el respeto a las instituciones nacionales;
+II. Coordinar y supervisar la ejecución de los proyectos y Obras que en materia de Agua Potable, Alcantarillado, Saneamiento, Hidroagrícola y demás usos se realicen en Zonas Urbanas y Rurales del entorno Estatal con recursos Federales, Estatales, Municipales y de Organismos Financieros Internacionales;
 
-IX. Concientizar sobre la necesidad de un mejor aprovechamiento social de los recursos naturales y contribuir a preservar el equilibrio ecológico;
+III. Elaborar e implantar los mecanismos de supervisión o verificación a los Organismos Operadores en la Construcción, Operación y mantenimiento de las Obras y sistemas en materia de Agua Potable, Alcantarillado, Saneamiento e Hidroagrícola;
 
-X. Fomentar en los educandos conceptos y sentimientos de solidaridad, promover las condiciones para disminuir las desigualdades económicas, sociales y culturales, y contribuir a la creación de una sociedad justa dentro de un régimen de libertad;
+IV. Vigilar el cumplimiento óptimo de la normatividad hidráulica vigente, referente a las Obras de Construcción, Rehabilitación y mantenimiento que tengan a su cargo los Organismos Operadores;
 
-XI. Concientizar sobre la necesidad de una planeación familiar con respeto a la dignidad humana y sin menoscabo de la libertad;
+V. Participar en coordinación con los Organismos Operadores en la formulación de planes y programas tendientes a la promoción de la potabilización del Agua, el tratamiento de las Aguas residuales y saladas;
 
-XII. Fortalecer los hábitos intelectuales que permitan el análisis objetivo de la realidad;
+VI. Coadyuvar al levantamiento de inventarios de los Sistemas de Agua Potable, Alcantarillado, Saneamiento e Hidroagrícola, con el fin de contar con la información necesaria para el establecimiento de estrategias de mejora en el servicio que prestan;
 
-XIII. Impulsar y propiciar las condiciones indispensables para el desarrollo de la investigación, la creación artística y la difusión de la cultura;
+VII. Proponer a los Organismos Operadores, las modificaciones técnicas que a su juicio mejoren la calidad de los servicios que prestan los Sistemas Hidráulicos;
 
-XIV. Proporcionar a los educandos conocimientos científicos necesarios y suficientes para desarrollar en ellos aptitudes y actitudes favorables, para el logro de una vida social justa y equitativa;
+VIII. Supervisar las acciones tendientes al mejoramiento del Saneamiento del Agua, prevención de la contaminación y conservación de la misma;
 
-XV. Fomentar y orientar la actividad científica y tecnológica de manera que responda a las necesidades del desarrollo nacional independiente;
+IX. Coadyuvar al fortalecimiento de la Infraestructura Hidroagrícola, mediante el Desarrollo de los Programas y actividades contenidas en el Plan Hidráulico Estatal para este fin;
 
-XVI. Lograr que las experiencias y conocimientos obtenidos al adquirir, transmitir y acrecentar la cultura, se integren de tal modo que se armonicen tradición e innovación;
+X. Apoyar dentro de su Circunscripción Funcional, la atención de desastres que se originen en la entidad por causas naturales;
 
-XVII. Fomentar el cuidado de la salud individual, prevenir sobre los perjuicios que causan los tóxicos y propiciar el rechazo a los vicios;
+XI. Determinar y sugerir las Zonas Rurales de la entidad, que por sus características y necesidades hidráulicas, requieran de la aplicación de recursos financieros, técnicos y humanos, a fin de establecer y desarrollar la Infraestructura Hidráulica indispensable para su Desarrollo en el Estado.
 
-XVIII. Excluir de la enseñanza toda instrucción y propaganda de cualquier credo o doctrina religiosa;
+###### Artículo 34°.
 
-XIX. Reafirmar la democracia como un sistema de vida a través de la forma de gobierno republicano, representativo y federal;
+El Departamento de Desalación atenderá los siguientes asuntos:
 
-XX. Enaltecer los derechos individuales y sociales y postular la paz universal, basada en el reconocimiento de los derechos económicos, políticos y sociales de las naciones; y
+I. Operar los Sistemas de Desalación para Servicio Público, en coordinación con los Organismos Operadores comunitarios, en aquellas localidades donde no exista presencia del Organismo Municipal.
 
-XXI. Promover en el educando el conocimiento integral de su medio físico inmediato, la región donde se desarrolla y el territorio del Estado.
+II. Realizar los mantenimientos especializados a los Sistemas de Desalación, que sean solicitados por los Organismos Operadores comunitarios o Municipales.
 
-### CAPÍTULO II. TIPOS
+III. Prestar asesoría técnica a los Organismos Operadores comunitarios o Municipales de Sistemas de Desalación, de manera diaria vía la radiocomunicación y con visitas periódicas de supervisión.
 
-###### Artículo 29.
+IV. Participar en la elaboración de Estudios y Proyectos de Obras de Construcción y mejoramiento de Sistemas de Desalación, que sean realizados por esta Comisión.
 
-El Sistema Educativo Estatal, comprende educación de tipo básica, media y superior:
+V. Elaborar y mantener actualizado un Inventario de Plantas Desaladoras existentes en el Estado, tanto para uso Público como Privado.
 
-I. Básica: compuesta por los niveles de preescolar, primaria y secundaria, en sus diferentes modalidades;
+VI. Apoyar a las Instancias Federales correspondientes, en la elaboración de normas específicas y vigilancia del cumplimiento de las disposiciones establecidas que sean aplicables a los Sistemas de Desalación de Aguas, en razón de su ubicación, captación de las Aguas por tratar, calidad de su producto y descarga de las Aguas de rechazo.
 
-II. Media: Corresponde al nivel de bachillerato y a los demás estudios equivalentes a éste;
+VII. Formular y proponer al Director General de la Comisión, el Programa Operativo anual en materia de Desalación de Agua de mar.
 
-III. Superior: Se refiere a los estudios que se realiza (sic) después del bachillerato o de sus equivalentes. Comprende la licenciatura, la especialidad, la maestría, el doctorado y demás estudios de posgrado. De él forma parte la educación normal en todos sus tipos, especialidades, grados y posgrados; y otras opciones terminales que exigen como antecedente de estudio la educación media o bachillerato.
+VIII. Realizar las demás funciones que la Ley Estatal de Agua Potable le asigne a la Comisión, en relación con la Desalación de Aguas, así como las que le sean asignadas por el Director General y los que acuerde la Junta de Gobierno.
 
-### CAPÍTULO III. NIVELES DE LA EDUCACIÓN
+###### Artículo 35°.
 
-### CAPÍTULO V. DE LA AUTORIDAD EDUCATIVA
+El Departamento de Control y Seguimiento Financiero atenderá los siguientes asuntos:
 
-###### Artículo 30.
+I. Controlar y dar Seguimiento Financiero a los Programas Federales Descentralizados de la Comisión Nacional del Agua.
 
-Los niveles de la educación básica en el Estado son los siguientes:
+II. Formular y tramitar las Cuentas por Liquidar de Obras de los distintos Programas.
 
-I. La educación inicial constituirá el nivel precedente de la educación básica. En ella participará la familia y la comunidad. La educación inicial promoverá prácticas de buena crianza y desarrollo integral y armónico de los niños, con pleno respeto a sus derechos, y dirigido a orientar sus procesos de maduración socio afectiva, cognoscitiva y psicomotora, y fomentar la comunicación oral y la expresión corporal.
+III. Formular los Estados Financieros de los Programas Federales.
 
-Los servicios de educación inicial se ofrecerán a niños de 45 días de nacidos a 2 años 11 meses. Cuando las condiciones lo determinen, el estado atenderá también sus necesidades de salud y nutrición por medio de acciones intersectorial.
+IV. Dar seguimiento financiero a los Programas Extraordinarios, no considerados en el Programa de Obra Anual.
 
-Es obligación de las instituciones públicas y particulares que presten este servicio:
+V. Captar en el Sistema Financiero del gasto corriente, conjuntamente con la Coordinación Administrativa.
 
-a) Cumplir con las especificaciones técnicas de infraestructura y las condiciones pedagógicas, higiénicas y de seguridad que determine la Comisión de Infraestructura Educativa del Estado de Quintana Roo;
+VI. Elaborar Actas derivadas de Reuniones de Programas Extraordinarios.
 
-b) Contar con personal que acredite la capacidad profesional requerida por la Autoridad Educativa Estatal;
+VII. Darle seguimiento financiero a los acuerdos derivados de los Comités en los que participe esta Comisión.
 
-c) Facilitar la inspección y vigilancia de las autoridades competentes;
+VIII. Asesorar a la Coordinación Administrativa en el Ejercicio del Gasto Presupuestal.
 
-d) Contar con programas educativos y de servicio complementario asistencial, autorizados por la Autoridad Educativa Estatal;
+IX. Coordinar el Análisis, autorizar y tramitar la Documentación Financiera de las Obras que se realicen por parte de los Sistemas de Agua Potable y Alcantarillado Municipales con Aportación Estatal, donde la ventanilla única sea la Secretaría de Finanzas.
 
-e) Delimitar convenientemente las áreas para cada nivel educativo, en caso de ofrecer educación preescolar en el mismo establecimiento físico.
+X. Todas las demás que le marque la Ley de Aguas del Estado, aquellas que le encomiende el Director General y las que le asigne la Junta de Gobierno en su caso.
 
-Siempre que sea posible la educación inicial se articulará con la educación preescolar. En todo caso, habrá articulación programática prevista.
+###### Artículo 36°.
 
-Todas las estancias infantiles o establecimientos análogos que presten este servicio en el Estado, tramitarán ante la Autoridad Educativa Estatal el registro correspondiente, apegándose a los requisitos que la misma establezca.
+El Departamento de Atención Social y Participación Comunitaria, atenderá los siguientes asuntos:
 
-II. La educación preescolar obligatoria constituye el primer nivel de la educación básica. El establecimiento y operación de servicios de educación preescolar será una prioridad del sector público que contará con el más amplio apoyo del sector privado.
+I. Atender la problemática de Agua Potable, Alcantarillado y Saneamiento en Comunidades Rurales.
 
-La educación preescolar que se ofrece a niños de 3 a 6 años y en tres grados escolares, tiene como propósitos fundamentales la socialización del educando, el apoyo a los procesos de maduración intelectual y emocional y la orientación de su desarrollo hacia la creatividad y la adquisición de conocimientos básicos sobre la naturaleza, la vida y la sociedad.
+II. Realizar la Fase I de Atención Social, que consiste en: solicitud reiterada por parte de la Comunidad en forma escrita, Integración de un Comité Pro-obra, Acta de aceptación de la Obra por parte de la comunidad, realización de un diagnóstico participativo, y un Dictamen de factibilidad Social, esta fase se realiza antes de la Ejecución de la Obra, cuando solo se tiene el Proyecto.
 
-La Autoridad Educativa Estatal celebrará convenios de coordinación y colaboración con la autoridad educativa federal, con el objeto de cumplir con la obligatoriedad de ofrecer los servicios de educación preescolar en el Estado y desarrollará los programas especiales que se requieran para atender a las comunidades rurales y urbanas que no cuenten con infraestructura para la prestación del servicio de educación preescolar.
+III. Revisar Documentación de la Fase 2 de la Atención Social, realizada durante el Desarrollo de la Obra por una Consultora Externa.
 
-Será requisito de ingreso para el primer grado, haber cumplido mínimo tres años de edad; para el segundo grado, haber cumplido mínimo cuatro años de edad y para el tercer grado, haber cumplido mínimo cinco años de edad.
+IV. Realizar la Fase 3 de Atención Social, que consiste en visitas periódicas a la localidad una vez que se ha ejecutado la Obra, para .conocer el apropiamiento de la Obra por parte de la comunidad, si se sigue realizando Jornadas de Saneamiento Ambiental, el funcionamiento del Comité y el cuidado que se ha tenido de la Obra.
 
-Para poder ofrecer servicios de educación preescolar, conforme a los lineamientos contenidos en esta Ley y demás disposiciones legales aplicables, será obligación de los particulares tramitar y obtener, previamente, autorización de validez oficial de estudios expedida por la Autoridad Educativa Estatal.
+V. Recabar información para el llenado de la ficha ambiental para su trámite ante la Comisión Nacional del Agua y la Secretaría del Medio Ambiente y Recursos Naturales.
 
-La educación preescolar se articula con la educación primaria.
+VI. Apoyar en la elaboración de Expedientes Técnicos para la realización de la Obra.
 
-III. La educación primaria constituye el segundo nivel de educación básica obligatoria y consta de seis grados articulados programáticamente con un sentido de secuencia, gradualidad y continuidad.
+VII. Participar en la elaboración del Programa de Obra Anual de la Comisión.
 
-La educación primaria, incluida la que se imparte a niños con necesidades educativas especiales, persigue fundamentalmente el desarrollo integral de todas las potencialidades del niño, procura la adaptación de los educandos al medio circundante, promueve su desarrollo afectivo, cognoscitivo y psicomotor; para una vida social y de cooperación que asegure su bienestar y progreso. Asume el compromiso de que los educandos adquieran los conocimientos básicos de la cultura, de la ciencia, la tecnología y el arte, y los necesarios sobre la vida, la sociedad, la ecología y el medio ambiente, y procurará que tales conocimientos se orienten al trabajo productivo y a la investigación.
+VIII. Reportar periódicamente a la Comisión Nacional del Agua, los Avances de las 3 Fases de Atención Social, según corresponda.
 
-La educación primaria obligatoria está dirigida a niños de 6 a 14 años; durará seis años lectivos y es antecedente académico de la educación secundaria.
+IX. Apoyar en la elaboración de los anexos de Ejecución y Técnico.
 
-La edad para ser inscrito en el nivel de primaria, será de mínimo seis años cumplidos. Por excepción, los niños que acrediten haber cursado por lo menos el tercer grado de preescolar, podrán ser inscritos al nivel de primaria, cuando estén por cumplir seis años de edad el año de inicio de los cursos, previa comprobación del nivel de maduración adecuada y por medio de autorización expresa de la Autoridad Educativa Estatal.
+X. Participar en las reuniones del "Programa para la Sostenibilidad de los Servicios de Agua Potable y Saneamiento" en Comunidades Rurales que considere el Director General.
 
-Los procesos de aprendizaje enfatizarán el ejercicio de los derechos y deberes de los niños consigo mismos, su familia y la sociedad en que viven. La interrelación, coordinación e interacción de las diversas áreas de aprendizaje se encaminará a promover el desarrollo personal, cultural, científico y tecnológico, social y económico de los educandos. La formación de los educandos tenderá a alcanzar su equilibrio afectivo, propiciará la adquisición de habilidades intelectuales, comunicativas y creadoras, el desarrollo físico saludable, así como la elaboración de una visión organizada que lo capacite para entender y explicarse el mundo en el que vive para insertarse en él para transformarlo y mejorarlo.
+XI. Asistir a las reuniones que convoque la Comisión Nacional del Agua.
 
-La educación primaria se articula con la educación secundaria.
+XII. Apoyar y asesorar a las Empresas Consultoras Externas en Atención Social y Participación Comunitaria, una vez que se les ha asignado un Concurso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIII. Canalizar ante la Dependencia respectiva solicitudes recibidas en las visitas a comunidades rurales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2013)</small>
+XIV. Dar seguimiento a los Avances y resultados presentados por la Empresa Consultora Externa.
 
-IV.- La educación secundaria constituye el tercer nivel de la educación básica; incluye a las escuelas secundarias generales, secundarias técnicas, telesecundarias y demás modalidades.
+XV. Concensar (sic) con lo (sic) cinco Municipios del Estado las necesidades de Equipo y reactivos, para mantener la calidad del Agua de acuerdo a la norma.
 
-Tiene como propósito ampliar, profundizar y fortalecer los conocimientos y la cultura alcanzada en la escuela primaria, y alentar el proceso de maduración de la personalidad integral del educando, así como orientar sus intereses y aptitudes vocacionales y favorecer su desarrollo académico.
+XVI. Capacitar en Cultura del Agua en Escuelas y diferentes localidades del Estado.
 
-Ofrece una formación científica, humanista y técnica a los educandos que busca afianzar su identidad personal y social, y consolidar los aprendizajes realizados en la educación primaria:
+XVII. Supervisar la Instalación de Equipos y capacitar en el manejo del mismo.
 
-a) Está orientada al desarrollo de habilidades que permitan al educando acceder a conocimientos humanísticos, científicos y tecnológicos que están sujetos a permanente cambio;
+XVIII. Verificar las condiciones de los Equipos Instalados para la calidad del Agua en sus distintos Municipios.
 
-b) Forma en y para la vida, el trabajo, la convivencia democrática, el ejercicio de la ciudadanía, y abre las puertas para acceder a niveles superiores de estudio;
+XIX. Verificar la calidad del Agua en los Sistemas de Agua Potable Municipales.
 
-c) Toma como punto de partida las características, intereses, necesidades y derechos de los adolescentes;
+XX. Concensar (sic) actividades con la Comisión Nacional del Agua para darle cumplimiento a los Programas a cargo.
 
-d) Cuida particularmente el transcurso natural de transición físico-corporal y emocional, y la educación sexual, afectiva y familiar de la etapa crítica de la adolescencia, así como la inserción del adolescente en la trama social en que se desenvuelve.
+XXI. Proporcionar el material para su funcionamiento a los espacios Municipales, y verificar que operen de acuerdo a los lineamientos previamente definidos.
 
-La terminación de los estudios de secundaria abre oportunidades diversas para la incorporación al trabajo productivo y para continuar estudios escolares. La secundaria se articula con diversas modalidades de educación media y con otras de capacitación laboral.
+### Capítulo VIII. De la Desconcentración Administrativa de la Comisión Estatal del Agua
 
-La educación secundaria, en general, abarca tres grados, y es antecedente académico del Bachillerato.
+###### Artículo 37°.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+El esquema de Desconcentración de la Comisión podrá integrarse con Órganos Desconcentrados que estarán, Organizacional y Jerárquicamente, subordinados al Director General y al Subdirector y a quienes se les otorgarán facultades especificas para ejercerlas dentro de la Circunscripción Territorial que se determine en cada caso.
 
-###### Artículo 30
+Las facultades de estos Órganos Desconcentrados serán establecidas en el acuerdo o disposición de su creación, que para el efecto se expida, misma que deberá ir debidamente signada por el Director General; y por lo tanto, este podrá confirmar, modificar, revocar y nulificar según las circunstancias, las resoluciones emitidas por el Órgano Desconcentrado.
 
-Bis.- La Secretaría implementará programas que fomenten en los educandos el consumo de alimentos de alto valor nutricional y establecerá los lineamientos que regulen la venta y consumo de alimentos o bebidas de bajo o nulo valor nutricional.
+###### Artículo 38°.
 
-La Coordinación de Nutrición Escolar, que estará vinculada con la Secretaría de Salud, promoverá y fomentará programas que establezcan entre otros aspectos la autorización de expendios de alimentos y bebidas en los centros escolares, revisión de sus menús, supervisión de la calidad de los alimentos que ofertan a los alumnos y las sanciones a que haya lugar por incumplimiento de los lineamientos.
+Para la realización de sus respectivas actividades, los Órganos Desconcentrados, dispondrán de la Estructura Orgánico-Funcional que el Director General determine, y por lo tanto las adecuaciones o modificaciones a la misma necesariamente requerirán de la sanción de este.
 
-### CAPÍTULO ÚNICO
+###### Artículo 39°.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+Al frente de cada órgano desconcentrado habrá un Titular, quién será designado y en su caso removido libremente por el Director General y se auxiliará por el personal, que las necesidades y características de los servicios que proporciona, requieran y estén previstas en el presupuesto respectivo.
 
-###### Artículo 31.
+###### Artículo 40°.
 
-La culminación satisfactoria de la educación básica, en cualquiera de sus modalidades y programas, dará derecho al certificado oficial y facultará al educando para acceder a una institución de tipo medio.
+Los órganos desconcentrados tendrán las atribuciones que el Subdirector en coordinación con el Director General de la Comisión, mediante previa autorización de la Junta de Gobierno le deleguen por escrito.
 
-###### Artículo 32.
+### Capítulo IX. De la Suplencia de los Servidores Públicos de la Comisión Estatal del Agua
 
-La educación especial tiene como finalidad brindar atención psicopedagógica adecuada a personas con capacidades diferentes o sobresalientes, para lo cual articula acciones de orientación y capacitación educativa a sus familiares y a la sociedad, en el proceso de su educación se aplican los avances de la ciencia y la tecnología. Pone énfasis al enfoque de la integración educativa y la inclusión social para su incorporación a los planteles de educación regular.
+Capítulo (sic) 41°.- Durante la ausencia del Director General y en su caso del Subdirector de la Comisión, el Despacho y resolución de los Asuntos correspondientes a la Comisión estarán a cargo del Servidor Público del Segundo Nivel, según la Índole del asunto de que se trate.
 
-Se dirige preferentemente a:
+Capítulo (sic) 42°.- Las ausencias de los Servidores Públicos del Segundo Nivel, estos serán suplidos para el Despacho de los Asuntos de su competencia, por los Empleados de la Jerarquía inmediata inferior que designen los primeros.
 
-a) Personas que presentan algún tipo de capacidad diferente que dificulta el aprendizaje;
+Capítulo 43º.- Las ausencias de los Titulares de los Órganos desconcentrados, serán suplidas para el Despacho de los Asuntos de su competencia por los Servidores Públicos del Nivel Jerárquico inmediato inferior que de ellos.
 
-b) Niños y adolescentes cuyas capacidades de aprendizaje difieren del ritmo o intensidad del grupo de edad al que pertenecen para tratar de incorporarlos en aulas regulares, independientemente de la atención rehabilitadora que requieran por parte del sector salud; y
+## Transitorios
 
-c) Educandos con aptitudes sobresalientes.
+Primero: El presente Reglamento entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Gobierno Estatal.
 
-La educación especial abarca orientación a los padres o tutores, así como asesoría y apoyo a los educadores de escuelas de educación regular.
+Segundo: Los asuntos que se encuentren en Trámite al entrar en vigor este Reglamento, y que de conformidad con el mismo o con el Decreto de creación de la Comisión Estatal del Agua del Estado de Baja California Sur, correspondan al ámbito de competencia del mismo, y que se encuentra a cargo de unidades administrativas del Gobierno Estatal, o. de Organismos y entidades Federales o Municipales, serán continuados en su gestión y resolución por la Unidad Administrativa que corresponda en los términos del presente Reglamento.
 
-El tránsito de un grado a otro depende de los desempeños mostrados por los educandos y de la edad cronológica, procurando no causar traumas emocionales, pero avanzando hacia el principio de integración educativa y social.
+Tercero: Cuando algún asunto que sea de la competencia de alguna Dependencia. Entidad o Unidad Administrativa Federal, Estatal o Municipal deba incorporarse a la Comisión para ser ejercida por esta, previo acuerdo entre estas Instancias involucradas, los presupuestos; mobiliario, vehículos, recursos materiales, personal, expedientes en trámite, archivo y en general el equipo que la primera hubiera utilizado para el desarrollo de la mencionada competencia, se transferirán para formar parte del Patrimonio y responsabilidad de la Comisión Estatal del Agua de Baja California Sur.
 
-Será competencia de las Autoridades Educativas del Estado, crear programas para personas con necesidades educativas especiales en todos los niveles y modalidades del sistema, a fin de lograr el desarrollo óptimo de las potencialidades de las capacidades diferentes, hacia la búsqueda de su autonomía y su autosuficiencia.
+Cuarto: Las condiciones laborales contractuales de los Servidores Públicos que se convenga transferir a la Comisión Estatal del Agua de Baja California Sur, deberán respetarse conforme lo establece la Legislación correspondiente.
 
-###### Artículo 33.
+Quinto: En tanto se expiden los Manuales y disposiciones Jurídico Administrativas que menciona el presente Reglamento, el Subdirector en coordinación con el Director General de la Comisión, queda facultado para resolver las cuestiones que dichos documentos deben regular.
 
-Las autoridades educativas reconocen y garantizan el derecho de los pueblos indígenas a una educación en condiciones de igualdad con el resto de la sociedad.
+Dado en la residencia del Poder Ejecutivo Estatal, en la Ciudad de La Paz Baja California Sur, a los Ocho días del mes de Septiembre del 2003.
 
-Es obligación de las autoridades educativas:
+INTEGRANTES DE LA JUNTA DE GOBIERNO DE LA COMISIÓN ESTATAL DEL AGUA DE B.C.S.
 
-a) Incrementar los niveles de escolaridad de la población indígena, en el marco de una educación bilingüe e intercultural, que se proponga la alfabetización, la conclusión de la educación básica, la capacitación productiva, y la posibilidad de estudios de la educación media, superior, grados y posgrados;
+PRESIDENTE: LIC. EFRAÍN COTA MONTAÑO
 
-b) Otorgar becas a educandos indígenas de todos los niveles educativos con base en los resultados definidos por el Sistema Integral de Evaluación Educativa;
+GOBERNADOR CONSTITUCIONAL
 
-c) Incluir en las escuelas normales la enseñanza de la lengua maya;
+DEL ESTADO DE B.C.S.
 
-d) Promover en la entidad la creación de Licenciaturas en Educación Indígena.
+PRESIDENTE: PROFR. VÍCTOR MANUEL LIZARRAGA
 
-###### Artículo 34.
+PERAZA
 
-La alfabetización se desarrolla inicialmente en la lengua propia del educando, y tiene como base sus experiencias, conocimientos y su acervo cultural.
+SUPLENTE: SECRETARIO GENERAL DE GOBIERNO
 
-Las actividades de alfabetización incluyen la promoción de la autoestima del educando, el fortalecimiento de su identidad, y el de la cultura quintanarroense; los programas proveerán los medios para continuar la formación en otros niveles educativos, para ejercer los derechos y deberes ciudadanos, y para participar activamente en el mundo productivo.
+SECRETARIO ING. ALFREDO PÉREZ CABALLERO
 
-###### Artículo 35.
+TÉCNICO: DIRECTOR GENERAL DE LA C.E.A.
 
-La educación para personas adultas se destinará a la atención de individuos mayores de quince años que no hayan cursado o concluido la educación básica; comprenderá entre otros niveles o modalidades, la alfabetización, la educación primaria, la educación secundaria y la capacitación para el trabajo, además:
+1º VOCAL: ING. GUILLERMO JÁUREGUI MOREN
 
-a) Será incluyente y flexible; podrán acreditarse por medio de exámenes parciales o globales los conocimientos adquiridos;
+SECRETARIO DE PLANEACIÓN URBANA,
 
-b) Se regirá por los reglamentos específicos derivados de la presente ley.
+INFRAESTRUCTURA Y ECOLOGÍA
 
-El titular del organismo responsable de la educación de personas adultas, deberá elaborar anualmente un programa sujeto a la aprobación de la Autoridad Educativa Estatal, en el que se incluyan estrategias para abatir el rezago educativo cuyo propósito sea lograr que el organismo atienda, en un futuro cercano, los casos de las personas o familias que inmigran al estado. Deberá rendir informe periódico y anual del avance de este programa.
+2º VOCAL: LIC. JOSÉ JACINTO BORGES CONTRERAS
 
-###### Artículo 36.
+SECRETARIO DE FINANZAS DEL GOB.
 
-La Autoridad Educativa Estatal por medio de la institución que tiene a su cargo la capacitación para el trabajo establecerá procedimientos que permitan detectar las necesidades, las propuestas y las opiniones de los diversos sectores productivos, en los ámbitos estatal y municipal para estar en condiciones de formular los planes, programas y estrategias de formación para el trabajo.
+DEL EDO.
 
-La formación para el trabajo se encaminará al desarrollo de conocimientos, habilidades y destrezas, que capaciten a los usuarios del servicio para desarrollar una actividad productiva realmente demandada en el mercado de trabajo, ya sea con una ocupación u oficio calificados.
+3º VOCAL: LIC. ERNESTO LÓPEZ CINCO
 
-El titular del organismo estatal responsable de la capacitación para el trabajo tendrá la obligación de coordinar y autorizar, en vinculación con los sectores social y privado de la entidad, todos los programas y cursos de capacitación para el trabajo, supervisar su desarrollo y acreditar los dominios alcanzados.
+SECRETARIO DE DESARROLLO Y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+FOMENTO ECONÓMICO
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+4º VOCAL: DR. RAÚL RODRÍGUEZ PULIDO
 
-### CAPÍTULO I. DE LA ESTRUCTURA
+SECRETARIO DE SALUD
 
-###### Artículo 37.
+5º VOCAL: PROF. VÍCTOR MANUEL CASTRO COSIO
 
-La educación media superior comprende el bachillerato, los demás niveles equivalentes a éste y la educación profesional posterior a la secundaria y es la culminación de la educación obligatoria; es un tipo y un ciclo educativo que constituye la etapa culminante de la preparación cultural del mexicano. Tiende a fortalecer la cultura general, complementada por una formación propedéutica hacia la educación superior y de preincorporación al trabajo o bivalente. Pondrá énfasis en orientar al educando hacia la educación permanente y el auto didactismo, así como el trabajo productivo.
+SECRETARIO DE EDUCACIÓN PÚBLICA
 
-###### Artículo 38.
+6º VOCAL: ING. LORENZO ARRILLAGA TOTORICA
 
-El bachillerato que se imparta en el Estado de Quintana Roo, se orientará a la formación del educando conforme los requerimientos de su desarrollo biopsíquico, social, para la ampliación y fortalecimiento de su cultura general, adquirida en la educación secundaria, así como lograr capacidad para realizar estudios de educación superior y desde luego para su inserción en el ámbito del trabajo productivo, social y personalmente útil. El bachillerato será antecedente académico obligatorio de la educación superior.
+GERENTE ESTATAL DE LA COMISIÓN
 
-###### Artículo 39.
+NACIONAL DEL AGUA EN B.C.S.
 
-La Secretaría de Educación y Cultura pondrá en práctica un proceso de regularización de la incorporación y el reconocimiento de validez de estudios de las instituciones que imparten bachillerato en el Estado de Quintana Roo fuera de la reglamentación expresa para este tipo educativo, vigente en todo el país, cuidando que su operación y sus planes y programas de estudios se ajusten a la normatividad determinada por la SEP y/o instituciones descentralizadas y/o paraestatales, mientras no se constituya el Sistema Nacional de Bachillerato.
+7º VOCAL: LIC. OCTAVIO RESENDIZ CORNEO
 
-Se establece el Consejo Estatal de Planeación y Programación de la Educación Media, instancia técnica que propiciará la operación, vinculación, consolidación, seguimiento y evaluación del Subsistema de Educación Media; es órgano de consulta de la Autoridad Educativa Estatal.
+REPRESENTANTE DEL USO DOMESTICO
 
-Para la organización y funcionamiento del Consejo Estatal de Planeación y Programación de la Educación Media, la Secretaría de Educación y Cultura promoverá los acuerdos y convenios necesarios para que el trabajo del Consejo sea debidamente respaldado por las autoridades centrales, en su caso, y por las dependencias autónomas o paraestatales que deban participar en él.
+8º VOCAL: LIC. CARLOS FRANCISCO ESTRADA
 
-###### Artículo 40.
+TALAMANTES
 
-Las carreras técnico profesionales tienden a consolidar la formación científica y/o humanística del educando, así como a proveerlo de los conocimientos, capacidades y competencias necesarios para su incorporación al trabajo social productivo, capacitándolo, en su caso, en la teoría y en la práctica de áreas tecnológicas y de servicios.
+REPRESENTANTE DEL USO COMERCIAL.
 
-Las autoridades educativas darán prioridad a la ampliación adecuada y funcional de estos servicios en los municipios del estado, previa investigación de los requerimientos locales, y de la viabilidad de los estudios, a fin de que en las carreras nuevas, el enfoque y contenido de sus programas de aprendizaje, y las vinculaciones con los sectores productivo y de servicios, respondan a las necesidades de desarrollo económico, social y cultural de la comunidad, de la región y de la entidad.
+9º VOCAL: LIC. JAVIER MORENO ORTA
 
-Tratándose de formación tecnológica, industrial, agropecuaria o de servicios, la educación media podrá plantearse como ciclo terminal, para tal fin preparará al egresado para su incorporación al sector productivo.
+REPRESENTANTE DEL USO INDUSTRIAL
 
-###### Artículo 41.
+2º VOCAL: LIC. HÉCTOR AMPARANO HERRERA
 
-La educación superior comprende la normal, la tecnológica y la universitaria, tendrá como propósitos:
+REPRESENTANTE DE LOS ORGANISMOS
 
-a) Formar profesionistas e investigadores al servicio de la sociedad;
+OPERADORES MUNICIPALES E
 
-b) Organizar y realizar investigaciones científicas de los problemas regionales, estatales y nacionales, con énfasis en la vinculación de los conocimientos científicos, tecnológicos, humanísticos, y de las innovaciones alcanzadas, con las necesidades del sector social y productivo; y
+INTERMUNICIPALES
 
-c) Cumplir las funciones sustantiva de docencia, vinculación, extensión, difusión, investigación y educación continua.
+2º VOCAL: M. EN C. JORGE VALE SÁNCHEZ
 
-La educación superior, definirá sus planes y programas orientándolos a dar respuesta a necesidades específicas de la Nación, del Estado, de sus regiones, y Municipios.
+PRESIDENTE DEL CONSEJO CONSULTIVO
 
-Es obligación de todas las instituciones de educación superior que prestan servicios en el Estado, informar al Registro Estatal de Profesionistas sobre sus egresados titulados, así como del personal docente y administrativo que la Ley y/o la normatividad exigen título para ejercer la profesión con el propósito de conformar la base de datos de los profesionales del Estado.
+COMISARIO: ING. ANTONIO RINCÓN CONTRERAS
 
-Las instituciones de educación superior que ofrecen estudios de posgrado, se vincularán al Programa de Fortalecimiento del Posgrado Nacional SEP/CONACyT, al Programa Integrado de Fortalecimiento del Postgrado, al Padrón Nacional de Posgrado y a todos aquellos programas nacionales e internacionales que aseguren calidad.
+SUBDIRECTOR DE CONTROL DE
 
-El Consejo Estatal de Planeación de la Educación Superior, como instancia técnica, tendrá por objeto propiciar la vinculación, consolidación, seguimiento y evaluación del Subsistema de Educación Superior. Funcionará, además, como órgano de consulta de la Autoridad Educativa Estatal.
-
-###### Artículo 42.
-
-La educación superior operará en tres modalidades: escolarizada, no escolarizada y mixta. Corresponderá tanto a las Autoridades Educativas Estatales como a las diversas instituciones de educación superior en el Estado la creación de nuevas modalidades educativas flexibles, que ofrezcan servicios de menor costo, alta calidad y oportunidades más amplias de ingreso.
-
-La Autoridad Educativa Estatal establecerá mecanismos de coordinación con las instancias estatales, nacionales e internacionales que regulan, orientan o congregan a las instituciones de educación superior.
-
-###### Artículo 43.
-
-La educación normal tiene como campo la formación, capacitación, actualización y superación académica de los docentes de educación básica y a la atención de nuevos campos educativos, acordes con la problemática del Estado, los avances de la ciencia y la pedagogía, de la expansión tecnológica, así como a la preparación y la formación de especialistas e investigadores en las diversas líneas del campo de la enseñanza y de las ciencias de la educación.
-
-La Autoridad Educativa Estatal vigilará que los estudios cursados en las escuelas normales públicas y particulares, ofrezcan un sólido proceso de formación cultural, científica, humanística y psicopedagógica teórico-práctica de los educadores egresados para que cuenten con la capacidad de atender las complejas necesidades educativas de la población.
-
-La Autoridad Educativa Estatal regulará el establecimiento, funcionamiento y operación de las escuelas normales públicas y particulares.
-
-Las escuelas normales y demás para la formación, capacitación, actualización y superación académica de los maestros, públicas y particulares, que prestan servicios en la entidad, cuidarán que sus egresados cumplan con el servicio social comunitario como requisito previo para obtener el título profesional, preservando el objetivo primario de su formación profesional.
-
-La Autoridad Educativa Estatal asegurará, gradualmente, que las personas que contraten las diversas instituciones educativas desconcentradas o descentralizadas como "promotores educativos" en las comunidades, sean egresados de escuelas normales y demás instituciones formadoras de docentes.
-
-La Autoridad Educativa Estatal, para dar cumplimiento al Artículo 20 de la Ley General de Educación, diseñará, organizará e implantará el Sistema Estatal de Educación Normal: formación, capacitación, actualización y superación académica de los maestros, que incluya a todas las instituciones, dependencias y programas dedicados a estas actividades; al efecto, expedirá el reglamento del Consejo Estatal de Educación Normal: formación, capacitación, actualización y superación académica de los maestros, como organismo de vinculación interinstitucional y de orientación y coordinación del sistema.
-
-###### Artículo 44.
-
-El servicio social comunitario fortalece la colaboración de las instituciones de educación superior con los diversos sectores de la sociedad al contribuir a la solución de problemas locales, tales como la baja productividad, la higiene, el cuidado del medio ambiente y otros requerimientos sociales.
-
-La Secretaría de Educación y Cultura y la Secretaría de Planeación y Desarrollo Regional, suscribirán convenios anuales con las instituciones de educación superior para la prestación del servicio social comunitario.
-
-Asimismo, será obligación de los estudiantes de educación media y superior que disfruten de beca, prestar el servicio social comunitario adicional, cuya reglamentación expedirá la Autoridad Educativa Estatal.
-
-### CAPÍTULO IV. MODALIDADES DE LA EDUCACIÓN
-
-###### Artículo 45.
-
-El Sistema Educativo Estatal comprenderá las modalidades escolarizada, no escolarizada, mixta y en línea; entendiendo por cada una de ellas lo siguiente:
-
-I. La Modalidad Escolarizada: es aquella que establece la relación cotidiana entre docente y estudiante, requiriendo de ambos su presencia constante y cubriendo los periodos escolares o los créditos establecidos en la organización del plan de estudios. Implica proporcionar a cada alumno un espacio físico para recibir formación académica de manera sistemática, es decir, en horarios y calendarios continuos.
-
-II. La Modalidad no Escolarizada: es la que se destinará a estudiantes que adquieren una formación sin necesidad de asistir al campo institucional.
-
-Las actividades que el estudiante lleve a cabo en esta modalidad, podrán desarrollarse de manera independiente, sea en espacios internos o externos, fuera de los horarios de clase y como parte de procesos autónomos vinculados a la asignatura, materia, curso o unidad de aprendizaje.
-
-III. Modalidad Mixta: es la combinación de la escolarizada con la no escolarizada, por lo que deberá reunir los requisitos de ambas, haciendo énfasis en el papel de los docentes o asesores educativos y las obligaciones del estudiante en cuanto asistencia, estudio y trabajos que deba realizar en lo personal.
-
-###### Artículo 46.
-
-La Educación en Línea es una modalidad educativa que podrá ofrecerse en los diversos tipos y niveles educativos por diversos medios de comunicación e informática. Se rige por la presente Ley y es regulada y supervisada por las Autoridades Educativas del Estado.
-
-Las instituciones que ofrezcan estos servicios educativos, deberán cumplir con los requisitos previos de autorización, reconocimiento de validez oficial de estudios o registro que al efecto disponga la Autoridad Educativa Estatal y serán sujetos de la supervisión y control de la misma.
-
-## TÍTULO SEXTO. DE LA OPERACIÓN DEL SISTEMA EDUCATIVO ESTATAL
-
-### CAPÍTULO UNICO
-
-###### Artículo 47.
-
-Los principios de libertad y responsabilidad serán la base del proceso educativo para lograr la armonía de las personas consigo mismas y en las relaciones con los demás y con el entorno. Tendrán como fin permanente desarrollar las capacidades y las competencias para seguir aprendiendo, por sí mismos, a lo largo de toda la vida, así como para aprender a ser, aprender a hacer, y a aprender a convivir.
-
-###### Artículo 48.
-
-Los planes y programas de estudio de educación básica de carácter nacional que corresponde determinar a la Autoridad Educativa Federal, serán obligatorios para todos los servicios escolares, públicos o privados, que en este nivel educativo se impartan en el Estado.
-
-De conformidad con las leyes vigentes, la Autoridad Educativa Estatal propondrá a la Autoridad Educativa Federal adiciones, modificaciones o rectificaciones a los planes y programas de estudio y tendrá a su cargo determinar los contenidos regionales para educación básica y normal, dirigidos a consolidar un adecuado conocimiento de la historia y geografía estatal, así como la protección y conservación del medio ambiente, la preservación de las tradiciones, las costumbres y los valores propios de la Entidad, las Regiones y los Municipios.
-
-###### Artículo 49.
-
-Las propuestas curriculares que se presenten a la Autoridad Educativa Estatal para su aprobación oficial, considerarán al currículo escolar como el conjunto de los elementos que participan en el proceso educativo, en forma especial: el entorno sociocultural y familiar, los planes y programas de estudio, la metodología didáctica, los auxiliares y apoyos a la enseñanza y las técnicas, instrumentos y métodos de evaluación. Para tal fin deberán cubrir por escrito los siguientes requisitos:
-
-I. Partir de fundamentos empíricos que analicen el contexto socio - económico en que se desarrollará el programa educativo de que se trate;
-
-II. Incluir un capítulo donde se prevea la posibilidad del egresado para incorporarse al campo laboral;
-
-III. Establecer las perspectivas de vinculación laboral y con los problemas y necesidades sociales de los egresados;
-
-IV. Incluir un análisis comparativo de estudios y propuestas similares que se ofrezcan en el ámbito local, regional y nacional, donde se contenga los referentes normativos que determinan su creación;
-
-V. Ofrecer una fundamentación de la propuesta pedagógica que da sustento a planes y programas de estudio; y
-
-VI. Exponer la propuesta metodológica conveniente para aplicar los planes y programas de estudio y la técnica para la evaluación, del aprovechamiento escolar y del funcionamiento institucional.
-
-###### Artículo 50.
-
-Los planes y programas de estudio autorizados por la Autoridad Educativa Federal y/o Estatal, así como sus modificaciones y adaptaciones, para entrar en vigor deberán publicarse en el Periódico Oficial del Gobierno del Estado de Quintana Roo, entre el primero y treinta de junio del año escolar, anterior a su aplicación.
-
-El Estado publicará, anualmente, la lista de las instituciones particulares, con reconocimiento oficial de validez de estudios, que los autoriza para ofrecer servicios educativos.
-
-###### Artículo 51.
-
-La Autoridad Educativa Estatal y Municipal queda obligada a garantizar la entrega a los alumnos, de los libros de texto gratuitos para la educación básica, desde el primer día de clases de cada ciclo escolar.
-
-###### Artículo 52.
-
-Los estudios realizados en el Sistema Educativo Estatal, como lo dispone la Ley General de Educación, en vigor, tendrán validez oficial en toda la República.
-
-Las instituciones del Sistema Educativo Estatal expedirán certificados, constancias y diplomas a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas de estudios correspondientes, así mismo, otorgarán títulos profesionales o grados académicos de acuerdo con la reglamentación específica, en vigor.
-
-###### Artículo 53.
-
-La Autoridad Educativa Estatal concederá revalidación y otorgará equivalencias de estudios cuando éstos hayan sido sujetos a planes y programas que se equiparen con los que se imparten en el Sistema Educativo Estatal.
-
-La revalidación podrá otorgarse por niveles educativos, por grados escolares o por asignaturas u otras unidades de aprendizaje, según lo establezca la reglamentación respectiva.
-
-Los estudios realizados dentro del Sistema Educativo Nacional, podrán, en su caso, declararse equivalentes entre sí, por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje, según lo establece la reglamentación correspondiente.
-
-Los estudios realizados fuera del Sistema Educativo Nacional, sólo podrán adquirir validez oficial por medio de su revalidación convalidada por la Autoridad Educativa Estatal.
-
-###### Artículo 54.
-
-La Autoridad Educativa Estatal, por conducto de la dependencia correspondiente, podrá acreditar y expedir certificados, constancias, diplomas o títulos a quienes demuestren conocimientos que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta y a través de la experiencia laboral.
-
-El Acuerdo Secretarial respectivo, señalará los requisitos específicos que deban cumplirse para esta acreditación.
-
-## TÍTULO SÉPTIMO. PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
-
-### CAPÍTULO I. ACCIÓN EDUCATIVA
-
-###### Artículo 55.
-
-La acción educativa se orientará hacia la más amplia participación de la sociedad, tanto para procurar la educación permanente y armónica de todas las personas, como para renovar, dinamizar y fortalecer el tejido social y vigilar que todos los habitantes del Estado de Quintana Roo, tengan derecho a las mismas oportunidades de educación, sin más condiciones que satisfacer los requisitos establecidos en las disposiciones relativas. Para lograrlo se procurará:
-
-a) Establecer, en cada una de las comunidades del territorio estatal, un Consejo Comunitario de Participación Social en la Educación, integrado por las autoridades comunitarias, padres de familia y representantes de sus asociaciones, docentes distinguidos y directivos de escuelas ubicadas en la comunidad, representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación, de acuerdo con el reglamento respectivo;
-
-b) Asesorar a los Consejos Comunitarios para que éstos elaboren un "proyecto comunitario de desarrollo social y cultural" que se proponga apoyar a los servicios educativos y promover su eficiencia y eficacia, así como, la armonía y cohesión interna en la participación social.
-
-La participación social, como elemento y factor educativo obligará a todos los centros e instituciones educativas a formular proyectos prospectivos que orienten el desarrollo económico, social y cultural del pueblo y que den significado y pertinencia a los aprendizajes escolares.
-
-Cuando en una comunidad existan dos o más centros educativos, éstos deberán elaborar proyectos conjuntos y vincularse en redes escolares. Estos proyectos serán razón de ser y origen de los Consejos Escolares de Participación Social.
-
-### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DE LOS PADRES DE FAMILIA
-
-###### Artículo 56.
-
-Los derechos y obligaciones de los padres de familia, tutores o de quienes ejerzan la patria potestad, serán los siguientes:
-
-I. Derechos:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
-
-a. Obtener inscripción en escuelas públicas para que sus hijos menores de edad, cursen la educación básica y media superior;
-
-b) Presentar a las autoridades de la escuela, en la que estén inscritos sus hijos, cualquier problema relacionado con la educación de éstos, a fin de que éstas se aboquen a su solución;
-
-c) Recibir informes periódicos del estado que guarda el proceso de enseñanza-aprendizaje de sus hijos, así como de los demás aspectos formativos: hábitos, habilidades, actitudes y competencias en general;
-
-d) Formar parte de las asociaciones de padres de familia y de los Consejos de Participación Social en los términos señalados en las reglamentaciones correspondientes;
-
-e) Colaborar con las autoridades escolares para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
-
-f) Opinar, en los casos de la educación que ofrezcan los particulares, en relación con las contraprestaciones que las escuelas fijen.
-
-II. Obligaciones:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
-
-a. Inscribir oportunamente a sus hijos o pupilos y cuida que permanezcan y avancen en los estudios regulares, cuando menos durante la educación básica y media superior y, siempre que sea posible, en la educación superior;
-
-b) Cuidar que sus hijos o pupilos menores de edad concluyan la educación básica, completa;
-
-c) Apoyar, con la mayor amplitud posible, el proceso educativo de sus hijos;
-
-d) Colaborar con las instituciones educativas en las actividades sociales y culturales, y en las que se promuevan para lograr el mejoramiento y mantenimiento de su edificio, mobiliario e instalaciones;
-
-e) Participar, de acuerdo con los educadores, en la resolución de los problemas de aprendizaje y de conducta de sus hijos o pupilos;
-
-f) Vigilar que los edificios escolares no sean utilizados para fines distintos a los que están destinados; y
-
-g) Participar, cuando sean requeridos, en las tareas de las Asociaciones de Padres de Familia, en los Consejos Escolares de Participación Social y en los Patronatos, y demás órganos que se conformen para apoyar a la educación.
-
-###### Artículo 57.
-
-Las Asociaciones de Padres de Familia, se integrarán y funcionarán conforme lo dispuesto por el Reglamento de las Asociaciones de Padres de Familia, vigente para toda la república y tendrán por objeto:
-
-a) Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
-
-b) Colaborar con las autoridades educativas en la conservación, mantenimiento y mejoramiento de los edificios, instalaciones y mobiliario escolares, y en las actividades que redunden en beneficio de los educandos;
-
-c) Vigilar la aplicación de cooperaciones que las propias asociaciones acuerden hacer al establecimiento escolar;
-
-d) Comunicar a las autoridades escolares y educativas, cualquier trato irregular de que sean objeto los alumnos; y
-
-e) Estar representadas oficialmente en los diversos Consejos de Participación Social que se establezcan en el Estado.
-
-Las Asociaciones de Padres de Familia y sus integrantes se abstendrán de intervenir en los aspectos técnico-pedagógicos, administrativos y laborales de las escuelas.
-
-Las Asociaciones de Padres de Familia, en lo concerniente a sus relaciones con las autoridades de los planteles escolares, se sujetarán a las normas específicas que al efecto establezca la Autoridad Educativa Estatal.
-
-El personal directivo, docente o administrativo en servicio, estará impedido para ocupar cualquier cargo en la Asociación de Padres de Familia, del mismo plantel educativo en el que laboren, con el propósito de evitar que se presente un conflicto de intereses; de igual forma, estará impedido para licitar o ser concesionario de la tienda escolar.
-
-Los rendimientos de las concesiones de tiendas escolares, las donaciones que reciban las escuelas de educación básica y, opcionalmente, las aportaciones voluntarias de las Asociaciones de Padres de Familia, se administrarán por medio de un fideicomiso que se constituirá para tal efecto, a fin de transparentar el manejo de las mismas. Las aportaciones voluntarias de los padres de familia se recibirán en los plazos fijados por la asamblea general de las mismas, cuyas fechas no podrán anteceder al ciclo escolar que se inicia.
-
-La Autoridad Educativa Estatal expedirá recibo oficial al particular que realice alguna aportación, en numerario o en especie, a favor de las escuelas públicas de la entidad.
-
-Los recursos destinados a cada plantel se aplicarán a proyectos académicos, así como al mantenimiento y rehabilitación de espacios físicos, pero en ningún caso para la contratación de personal.
-
-###### Artículo 58.
-
-La participación social en la educación, deberá promover armonía, cohesión interna y colaboración social para integrar en un esfuerzo común a los alumnos, padres de familia, educadores, autoridades escolares y a toda la sociedad; trascenderá la tarea de la escuela y se comprometerá con el desarrollo social, económico y cultural del pueblo quintanarroense.
-
-Será compromiso de las autoridades educativas, de los Ayuntamientos y de las comunidades lograr que los servicios educativos que ofrece el Estado, sean aprovechados por todos los habitantes de todas las edades, independientemente de su situación geográfica, económica, cultural o social.
-
-La participación social será elemento y factor importante para alcanzar los fines de la educación establecidos en esta Ley, por lo que el Estado promoverá, conforme a las normas legales aplicables, la integración y funcionamiento de:
-
-I. Un Consejo Estatal de Participación Social que fungirá como órgano de consulta, orientación y apoyo de la Autoridad Educativa Estatal; se constituirá y operará con la participación de los padres de familia y representantes de sus asociaciones, educadores y representantes de su organización sindical, instituciones formadoras de maestros, autoridades educativas estatales y municipales, representantes de los Consejos Municipales de Participación Social en la Educación del Estado; así como representantes de los sectores social y privado de la entidad, especialmente interesados en la educación.
-
-II. En cada Municipio se constituirá y funcionará un Consejo Municipal de Participación Social en la Educación, que estará integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas ubicadas en el Municipio, representantes de la organización sindical de los maestros, representantes de los Consejos Escolares de Participación Social de su jurisdicción, representantes de organizaciones sociales y demás sectores interesados en el mejoramiento de la educación.
-
-III. En cada escuela pública y particular de educación básica, se organizará y operará un Consejo Escolar de Participación Social en la Educación, integrado con padres de familia y representantes de sus asociaciones, educadores y representantes de su organización sindical, directivos de la escuela, ex-alumnos, así como los miembros de la comunidad interesados en el desarrollo de la propia escuela.
-
-IV Los Consejos de Participación Social a los que se refiere este artículo, funcionarán conforme a lo establecido en esta Ley y se regirán por la normatividad específica que expedirá la Autoridad Educativa Estatal. Se abstendrán de intervenir en los aspectos administrativos, técnico-pedagógicos y laborales de los establecimientos educativos y no podrán tratar cuestiones políticas ni religiosas en su seno.
-
-Las Autoridades Educativas apoyarán a los Consejos de Participación Social en la formulación oportuna y la revisión periódica de sus proyectos de desarrollo socio-educativo, así como en el cumplimiento de las tareas que les señala esta ley.
-
-###### Artículo 59.
-
-Los medios de comunicación masiva, en su programación, desarrollo y actividades, deberán contribuir al logro de las finalidades previstas en el Artículo 7º de esta Ley, que se refiere a los atributos y valores que la sociedad debe procurar adquieran todos los mexicanos. Lo anterior de conformidad a lo dispuesto en el Artículo 74 de la Ley General de Educación.
-
-## TÍTULO OCTAVO. DE LA EDUCACIÓN QUE IMPARTAN LOS PARTICULARES
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 60.
-
-Los particulares podrán ofrecer educación en todos sus tipos, niveles y modalidades, sujetándose a las disposiciones de la Ley General de Educación, de la presente Ley, de sus reglamentos y de los acuerdos secretariales que incidan en la materia.
-
-Para establecer un nuevo plantel se requerirá una nueva autorización o un nuevo reconocimiento.
-
-###### Artículo 61.
-
-Las instituciones particulares que impartan educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, deberán obtener previamente, la autorización expresa de la Autoridad Educativa Estatal, tratándose de estudios distintos a los anteriormente señalados podrán obtener el reconocimiento de validez oficial de estudios.
-
-Para impartir educación por correspondencia, radio, prensa, fonografía, televisión, cinematografía o cualquier otro medio de comunicación, los interesados deberán cumplir, previamente, los requisitos establecidos por esta Ley para el tipo, nivel o modalidad educativa que ofrezcan, así como observar las leyes y reglamentos relativos al medio de comunicación que utilicen.
-
-Los planes y programas de educación media y superior que impartan las instituciones particulares, deberán ser acreditados por la institución competente reconocida o autorizada por la Autoridad Educativa Federal, como requisito para tramitar la solicitud de reconocimiento de validez oficial de estudios de la Autoridad Educativa Estatal.
-
-La autorización y el reconocimiento serán otorgados para cada carrera o plan de estudios. Respecto de nuevas carreras o planes de estudios se requerirá la autorización o el reconocimiento de validez oficial respectivo.
-
-La autorización y el reconocimiento de validez oficial de estudios incorporarán (sic) a las instituciones, que las obtengan, al Sistema Educativo Estatal; solamente respecto a los estudios que la propia autorización o reconocimiento se refieren.
-
-Cuando se trate de instituciones particulares de otras entidades federativas que pretendan establecer en la entidad extensiones, campus o módulos educativos, deberán obtener, previamente, la autorización o el reconocimiento de validez oficial de estudios de la Autoridad Educativa Estatal.
-
-###### Artículo 62.
-
-Las autorizaciones y los reconocimientos de validez oficial de estudios se otorgarán y subsistirán mientras las instituciones particulares satisfagan los requisitos siguientes:
-
-I. Realizar sus fines de educar, investigar y difundir la cultura, de acuerdo con los principios que establece (sic) las fracciones II y VII del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los relativos de la Ley General de Educación, la presente Ley y demás disposiciones que las regulen;
-
-II. Contar con personal que acredite su preparación profesional ante la unidad administrativa del registro de profesiones de la Secretaría, así como que todo su personal docente acredite el examen de aptitud que determine la Autoridad Educativa Estatal;
-
-III. Contar con instalaciones que satisfagan las especificaciones técnicas de infraestructura, condiciones higiénicas, de seguridad y pedagógicas que determine la Comisión de Infraestructura Educativa del Estado de Quintana Roo, así como contar con rampas y baños para personas con capacidades diferentes;
-
-IV. En el caso de tratarse de un tipo o modalidad educativa distinta de la preescolar, primaria, la secundaria, la normal y demás para la formación, capacitación y actualización de maestros de educación básica, respetar y observar los planes y programas previamente autorizados por la institución competente reconocida o autorizada por la Autoridad Educativa Federal;
-
-V. Proporcionar un mínimo de cinco por ciento de becas, del total de la matrícula del período escolar, en los términos de los lineamientos generales que la Autoridad Educativa Estatal determine, debiendo informar de ello al Sistema Estatal de Becas. En ningún caso se considerarán dentro de este porcentaje las becas otorgadas por los particulares a favor de los hijos de sus empleados; y
-
-VI. Facilitar y colaborar en las actividades de información, evaluación, supervisión, inspección y vigilancia que la Autoridad Educativa Estatal realicen u ordenen.
-
-###### Artículo 63.
-
-Los particulares que ofrezcan educación con autorización o con reconocimiento de validez oficial de estudios, deberán incluir en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de reconocidos con validez oficial de estudios, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
-
-Los particulares que ofrezcan estudios que no requieran reconocimiento de validez oficial de estudios, deberán mencionarlo en toda su documentación y publicidad, y registrarse ante la Autoridad Educativa Estatal, con fines censales y estadísticos, advertidos de que dicho registro no tiene efectos de autorización o reconocimiento de validez oficial de estudios.
-
-###### Artículo 64.
-
-Las autoridades educativas responsables de otorgar autorizaciones o reconocimientos de validez oficial de estudios, asumirán la supervisión y vigilancia de los servicios educativos autorizados o reconocidos oficialmente.
-
-El incumplimiento o violación de las normas establecidas en la presente Ley y sus reglamentos para las instituciones educativas particulares, con autorización o con reconocimiento de validez oficial de estudios, dará lugar a la práctica de una visita especial de inspección, en este caso, la autoridad de inspección deberá mostrar la orden, fundada y motivada, expedida por la autoridad educativa competente, como sustento legal de su actuación.
-
-La visita se realizará en el lugar, fecha y hora señalados en la comunicación escrita, previamente notificada, sobre los asuntos especificados en la orden motivada y justificada. El inspector deberá identificarse adecuadamente. Desahogada la visita, se suscribirá el acta correspondiente por quienes hayan intervenido en ella y por dos testigos previamente designados por el particular. En caso de negativa, se hará constar en el acta de visita, y se apercibirá al interesado de que este hecho no afecta su validez. Un ejemplar del acta se pondrá a disposición del visitado.
-
-Los interesados podrán presentar las aclaraciones y documentos relacionados con la inspección, en el acto mismo de la diligencia o ante la autoridad educativa que emitió la orden de visita, dentro de los cinco días hábiles siguientes a la fecha de la inspección.
-
-###### Artículo 65.
-
-La Autoridad Educativa Estatal y los organismos descentralizados pertenecientes al sector educativo, previo procedimiento administrativo, podrán revocar o cancelar las autorizaciones o reconocimientos de validez oficial de estudios a los particulares que contravengan lo dispuesto en el Artículo 3º de la Constitución General o incumplan alguna de las obligaciones que les impone esta Ley y sus reglamentos.
-
-###### Artículo 66.
-
-Cuando la revocación o cancelación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando bajo la dirección y vigilancia de la Autoridad Educativa Estatal hasta que éste concluya.
-
-###### Artículo 67.
-
-La revocación, cancelación o negativa de la autorización o reconocimiento otorgado a particulares para ofrecer educación preescolar, primaria, secundaria y normal, en cualquier modalidad, producirá efectos de clausura del servicio educativo. La autoridad que dicte la resolución, adoptará las medidas académicas y administrativas necesarias para evitar perjuicios a los educandos.
-
-###### Artículo 68.
-
-La determinación del monto de las colegiaturas que cobren los particulares que ofrecen servicios reglamentados por la presente Ley, deberá corresponder a los lineamientos y procedimientos señalados en el "Acuerdo que Establece las Bases Mínimas de Información para la Comercialización de los Servicios Educativos", publicado el 28 de marzo de 1992 en el Diario Oficial de la Federación.
-
-###### Artículo 69.
-
-Son infracciones de las instituciones de los particulares que prestan servicios educativos:
-
-I. Incumplir cualquiera de las obligaciones que les impone esta Ley y sus reglamentos;
-
-II. Ostentarse como plantel incorporado sin estarlo;
-
-III. Ofrecer servicios educativos de tipo básico, medio y superior, normal y demás para la formación de maestros de educación básica, sin contar con la autorización expresa del Estado o el reconocimiento de validez oficial de estudios;
-
-IV. Suspender el servicio educativo sin justificación, salvo caso fortuito o fuerza mayor;
-
-V Suspender clases en días y horas no autorizados por el Calendario Escolar aplicable, sin motivo justificado, caso fortuito o fuerza mayor;
-
-VI. No utilizar los libros de texto que la Autoridad Educativa Federal autorice y determine para la educación preescolar, primaria y secundaria;
-
-VII. Incumplir los lineamientos para el uso de material didáctico para la educación preescolar, primaria y secundaria;
-
-VIII. Dar a conocer, antes de su aplicación, los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación, a quienes habrán de presentarlos;
-
-IX. Expedir certificados, constancias, diplomas o títulos, a quienes no cumplan los requisitos establecidos;
-
-X. Realizar o permitir que se realice publicidad, dentro del plantel escolar, que fomente el consumo o la comercialización de bienes o servicios ajenos al proceso educativo, distintos de alimentos;
-
-XI. Poner en práctica actividades que pongan en riesgo la salud o seguridad de los educandos;
-
-XII. Ocultar a los padres o tutores las conductas de los alumnos que deban ser de su conocimiento;
-
-XIII. Oponerse a las actividades de evaluación, supervisión, inspección y vigilancia, así como no proporcionar información veraz y oportuna; e
-
-XIV. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
-
-En los supuestos previstos en este artículo, además de aplicarse las sanciones señaladas en esta Ley, podrá procederse a la clausura del plantel respectivo.
-
-Las disposiciones anteriores, no son aplicables a los trabajadores de la educación del sector público; las infracciones en que éstos incurran se sancionarán conforme a las leyes y reglamentos vigentes que se refieren a la regulación de las relaciones laborales, aplicables a ellos.
-
-###### Artículo 70.
-
-Las infracciones enumeradas en el artículo anterior serán sancionadas de la forma siguiente:
-
-I. Multa, hasta por el equivalente a cinco mil veces el salario mínimo general vigente en el Estado, en la fecha en que se cometa la infracción; o
-
-II. Revocación o cancelación de la autorización o el reconocimiento de validez oficial de estudios correspondiente.
-
-Para determinar el monto de la multa a que se refiere la fracción I de este artículo, la autoridad competente tomará en consideración lo siguiente:
-
-a) Las circunstancias en que se cometió la infracción;
-
-b) La gravedad de la infracción cometida;
-
-c) La capacidad económica del infractor;
-
-d) Los daños y perjuicios que se hayan producido o puedan producirse a los educandos; y
-
-e) La reincidencia en la comisión de infracciones.
-
-En caso de reincidencia podrá duplicarse la multa, sin exceder del máximo antes establecido.
-
-La imposición de la sanción establecida en la fracción II no excluye la posibilidad de que sea impuesta alguna multa, sin menoscabo de las acciones legales que procedan.
-
-###### Artículo 71.
-
-Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o el reconocimiento de validez oficial de estudios considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor para que, dentro de un plazo de quince días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos.
-
-La autoridad dictará resolución con base en los datos aportados por el presunto infractor y las demás constancias que obren en el expediente.
-
-###### Artículo 72.
-
-Los particulares podrán interponer el recurso de revisión en contra de las disposiciones de las autoridades educativas, dictadas con fundamento en las disposiciones de esta Ley y demás derivadas de ésta.
-
-Procede la interposición del recurso de revisión:
-
-I. En los casos en que la autoridad educativa no dé respuesta en un plazo de sesenta días hábiles siguientes a la fecha de presentación de las solicitudes de autorización o de reconocimiento de validez oficial de estudios;
-
-II. En contra de las sanciones económicas que decrete la autoridad educativa;
-
-III. En los casos de sanciones por las que se decrete la clausura de escuelas incorporadas;
-
-IV. En contra de las sanciones que determine la autoridad educativa manifestadas en el artículo 66 de esta Ley; y
-
-V. En los casos de resoluciones por las que se revoque o retire la autorización o reconocimiento de validez oficial de estudios.
-
-###### Artículo 73.
-
-Para interponer el recurso de revisión, los particulares cuentan con el término de quince días hábiles, siguientes a la fecha de notificación de la resolución que se impugne; transcurrido el plazo mencionado sin que el interesado interponga el recurso, la resolución tendrá carácter definitivo.
-
-###### Artículo 74.
-
-El recurso lo interpondrán los particulares, ante la autoridad inmediata superior a la que emitió el acto recurrido u omitió responder la solicitud correspondiente, esto lo hará por medio de un escrito en el que deberán:
-
-I. Expresar su nombre y domicilio;
-
-II. Acreditar su personalidad;
-
-III. Exponer los agravios que le causa la resolución que se impugna, la autoridad que la dictó y la fecha de notificación;
-
-IV. Señalar los preceptos legales que considere violados; y
-
-V. Acompañar los elementos de prueba, excepto la confesional.
-
-En caso de omisión o incumplimiento de estos requisitos, la autoridad educativa, señalará al recurrente el término de cinco días para que cumpla con los requisitos omitidos; si el recurrente no cumple, la autoridad podrá declarar improcedente el recurso.
-
-###### Artículo 75.
-
-La interposición del recurso suspenderá la ejecución de la resolución impugnada, en cuanto al pago de multas.
-
-Respecto a cualquier clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión sólo se otorgará si concurren los requisitos siguientes:
-
-I. Que lo solicite el recurrente;
-
-II. Que el recurso haya sido admitido;
-
-III. Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a la Ley; y
-
-IV. Que no ocasionen daños o perjuicios a los educandos, o a terceros, en los términos de esta Ley.
-
-Cuando proceda la suspensión, pero, pueda ocasionar daños o perjuicios a terceros, el promovente otorgará previa a la ejecución de aquélla, una garantía o fianza, cuya (sic) monto será fijado por la autoridad educativa correspondiente.
-
-###### Artículo 76.
-
-Si se ofrecen pruebas que requieran desahogo, se abrirá un plazo no menor de cinco ni mayor de treinta días hábiles para tales efectos. La autoridad educativa que esté conociendo del recurso, podrá allegarse de los elementos de convicción, adicionales, que considere necesarios.
-
-###### Artículo 77.
-
-Satisfechos los requisitos señalados en los Artículos 71, 72 y 73 de esta Ley, la autoridad educativa correspondiente dictará, dentro de los treinta días hábiles siguientes, la resolución correspondiente.
-
-###### Artículo 78.
-
-Las resoluciones del recurso se notificarán por escrito, a los interesados o a sus representantes legales, personalmente o por correo certificado, con acuse de recibo.
-
-## TÍTULO NOVENO. DEL SECTOR CULTURAL
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 79.
-
-Para los efectos de esta Ley, la cultura es el conjunto de conocimientos científicos, literarios y artísticos adquiridos por las personas durante su formación educativa.
-
-En este sentido, en la cultura se incluyen no sólo las llamadas bellas artes y las letras, sino también la identidad, la democracia cultural y la participación social; propicia la revisión de la dimensión y la finalidad cultural del desarrollo, la vinculación de la cultura y la educación, los derechos humanos y la paz; incluye el estudio y rescate de los estilos de vida, tradiciones, costumbres y creencias en las relaciones entre los pueblos; favorece el acercamiento a nuevos temas de reflexión tales como la cultura y la comunicación y la salvaguarda del patrimonio cultural; igualmente alienta la exploración de nuevos proyectos de educación artística, el desarrollo de la producción y difusión de bienes y servicios culturales, de las industrias culturales y la cooperación cultural internacional.
-
-###### Artículo 80.
-
-Son derechos de los quintanarroenses, en materia de cultura, los siguientes:
-
-I. Participar libremente en la vida cultural de la comunidad y acceder a los bienes y servicios, las expresiones y las actividades culturales;
-
-II. La libre expresión artística y cultural, sin censura, por parte de autoridad alguna, sobre la forma y el contenido ideológico y artístico de las obras y proyectos culturales;
-
-III. Conservar las tradiciones de los grupos étnicos y lingüísticos, de las comunidades y de los pueblos indígenas;
-
-IV. Invertir, producir y divulgar la obra creativa y humanística, incluyendo la protección de los derechos de los autores sobre la misma.
-
-###### Artículo 81.
-
-Son obligaciones del Estado, en materia de cultura, las siguientes:
-
-I. Garantizar los derechos que establece esta Ley;
-
-II. Garantizar los derechos de los artistas, creadores y gestores de la cultura;
-
-III. Garantizar las condiciones óptimas para el trabajo creativo de los artistas;
-
-IV. Valorar, proteger y difundir el Patrimonio Cultural de la Nación y del Estado, así como contribuir a la continuidad y fortalecimiento de nuestra cultura e identidad nacional y estatal; y
-
-V. Impedir cualquier práctica discriminatoria en la prestación de los bienes y servicios culturales del Estado.
-
-###### Artículo 82.
-
-Son Bases que sustentan la política estatal en materia de cultura, las siguientes:
-
-I. Proteger los bienes culturales que constituyen el Patrimonio Artístico, Histórico y Arqueológico del Estado de Quintana Roo;
-
-II. Promover y difundir la riqueza cultural del Estado de todas sus expresiones y manifestaciones en el país y en el mundo;
-
-III. Fortalecer e incrementar la infraestructura y las instituciones culturales;
-
-IV. Fortalecer los programas destinados al desarrollo del sector cultura, en consonancia con los objetivos, programas y recursos del desarrollo integral del Estado; y
-
-V. Fomentar las industrias culturales, privilegiando su dimensión cultural y promoviendo su desarrollo en condiciones favorables para la economía estatal y frente a los convenios y tratados nacionales e internacionales.
-
-###### Artículo 83.
-
-Son principios que orientan la política estatal en materia de cultura, los siguientes:
-
-I. La protección de la cultura estatal como portadora de intereses generales y de valores públicos;
-
-II. El respeto de toda manifestación y expresión de la cultura, fundamento de la identidad mexicana;
-
-III. La valoración, protección y difusión del Patrimonio Cultural del Estado y el mejoramiento de la infraestructura artística y cultural;
-
-IV. La cultura de paz, sustentada en el respeto a los derechos humanos, la convivencia pacífica de los pueblos, la libre determinación, la solidaridad nacional e internacional, el pluralismo y la tolerancia;
-
-V. El reconocimiento a la creación artística, a los espacios de difusión y al disfrute de las obras y expresiones culturales;
-
-VI. La consideración del creador, el gestor y el receptor de la cultura, en igualdad de condiciones y oportunidades, sin ningún tipo de discriminación por razones de condición social, sexo, religión, ideología o capacidades diferentes;
-
-VII. La interacción de la cultura estatal con la cultura nacional y universal;
-
-VIII. El impulso y el estímulo de los procesos, proyectos y actividades culturales en un marco de reconocimiento y respeto por la diversidad y pluralidad cultural del Estado;
-
-IX. El reconocimiento a la especificidad de la cultura mesoamericana y maya, y la protección a sus diversas expresiones;
-
-X. La protección del Español como idioma oficial y el reconocimiento, respeto, promoción y fortalecimiento de las lenguas originarias habladas en los pueblos y comunidades indígenas;
-
-XI. La integración del proceso económico y social, con el desarrollo educativo, cultural, científico y tecnológico;
-
-XII. La promoción e impulso de las industrias culturales del Estado, como cauces de expresión de la identidad y de la diversidad cultural;
-
-XIII. El fomento a la libre investigación y al talento sustentado en la calidad académica.
-
-###### Artículo 84.
-
-Son atribuciones de la Autoridad Educativa Estatal, en materia de cultura, sin perjuicio de las atribuciones conferidas al Instituto Quintanarroense de la Cultura, las siguientes:
-
-I. Formular con la participación del Instituto Quintanarroense de la Cultura, el Programa Estatal de Cultura;
-
-II. Mantener actualizada la información estadística, relativa a la cultura y las artes de la entidad;
-
-III. Integrar, en coordinación con el Instituto Quintanarroense de la Cultura, un acervo de información y documentación cultural artística;
-
-IV. Gestionar recursos federales descentralizados o convenidos en materia cultural, en los términos de las leyes respectivas; así como informar sobre el avance y resultados generados con los mismos;
-
-V. Informar a la sociedad sobre las acciones culturales y artísticas; y
-
-VI. Las demás que señala la Ley, su reglamento y demás disposiciones aplicables.
-
-###### Artículo 85.
-
-El Estado, por conducto de la Secretaría de Educación y Cultura, podrá, sin perjuicio de las atribuciones conferidas al Instituto Quintanarroense de la Cultura, celebrar convenios con los Ayuntamientos de cada Municipio, para coordinar o unificar sus actividades culturales y cumplir de mejor manera las responsabilidades a su cargo.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
-
-## TÍTULO DÉCIMO. DE LA EDUCACIÓN AMBIENTAL
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
-
-### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
-
-###### Artículo 86.
-
-Para los efectos de esta Ley, la Educación Ambiental es la Instrucción con conocimientos ecológicos necesarios para adquirir formación y valores de preservación, cuidado y sostenimiento del medio ambiente en todas las actividades humanas, teniendo como finalidad fomentar entre los educandos una verdadera conciencia entre su entorno y el medio ambiente a través de los mecanismos adecuados.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
-
-###### Artículo 87.
-
-Son bases que sustentan la política estatal en materia de educación ambiental, las siguientes:
-
-I.- Proteger los recursos naturales del Estado de Quintana Roo;
-
-II.- Promover y difundir la riqueza natural del Estado en todos los escenarios y foros;
-
-III.- Fortalecer los programas destinados al desarrollo sustentable del Estado, y
-
-IV.- Fomentar el compromiso de los habitantes de Quintana Roo con el medio ambiente.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
-
-###### Artículo 88.
-
-El Estado por conducto de la Secretaría de Educación y Cultura podrá celebrar convenios con los ayuntamientos de cada municipio, para coordinar o unificar sus actividades en materia de educación ambiental.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
-
-###### Artículo 89.
-
-La Autoridad Educativa Estatal incluirá en sus planes y programas las adecuaciones pertinentes para atender las problemáticas ambientales que se generen en el entorno de los educandos a fin de crear conciencia sobre el cuidado al medio ambiente y proporcionar los conocimientos para enfrentarlas.
-
-La educación ambiental se deberá implementar a través de programas que fomenten en los educandos la cultura del cuidado y protección del medio ambiente, acorde a los planes correspondientes de las asignaturas afines. Dichos programas tendrán como finalidad primordial promover conocimientos, habilidades, valores y aptitudes para incentivar la participación individual y colectiva en el análisis, prevención y reducción de problemas ambientales, y favorecer así la calidad de vida de las generaciones presentes y futuras.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
-
-###### Artículo 90.
-
-Los educadores podrán valorar la diversidad de opciones metodológicas, disciplinarias y didácticas, con el objeto de seleccionar aquéllas que sean idóneas para la enseñanza y fomento de una cultura ambiental.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
-
-###### Artículo 91.
-
-Los educadores trasladarán al marco escolar temáticas ambientales que le permitan formar educandos sensibles y defensores de su medio ambiente.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
-
-###### Artículo 92.
-
-La Educación Ambiental estará respaldada por acciones encaminadas a fomentar la cultura ecológica.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
-
-###### Artículo 93.
-
-Los sitios donde se impartan servicios educativos que ofrecen al Estado y los Municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios; podrán contar con espacios adecuados para la disposición y separación de sus residuos, de acuerdo a la ley aplicable.
-
-### CAPÍTULO II. FACULTADES Y OBLIGACIONES DE LA AUTORIDAD EDUCATIVA ESTATAL
-
-###### Artículo 24.
-
-Corresponde a la Autoridad Educativa Estatal:
-
-I. Planear, organizar, desarrollar, administrar, supervisar y evaluar los servicios del Sistema Educativo del Estado de Quintana Roo;
-
-II. Proveer lo necesario para que el Estado cumpla con el derecho a la educación de todos sus habitantes, ofrecer oportunidades de acceso y permanencia en el sistema educativo y el tránsito regular en sus diferentes niveles y modalidades;
-
-III. Establecer las alternativas de equidad, enunciadas en el capítulo respectivo de esta ley, con el propósito de llevar los beneficios de la educación a todos los estratos sociales de la población;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
-
-IV. Coordinar y administrar la impartición de los servicios educativos públicos gratuitos y de calidad, para garantizar el acceso de todos a la educación básica y media superior; así como promover una oferta educativa igualitaria en todo el Sistema Educativo Estatal;
-
-V. Proponer al Ejecutivo Estatal los proyectos de reglamentos, decretos y emitir acuerdos, circulares y órdenes sobre los asuntos de su competencia;
-
-VI Coordinar y supervisar a las instituciones sectorizadas para la elaboración del anteproyecto de Presupuesto de Egresos del sector educativo y presentarlo a las instancias correspondientes del Ejecutivo Estatal;
-
-VII. Revisar y supervisar el ejercicio del Presupuesto de Egresos autorizado a las instituciones del sector educativo;
-
-VIII. Informar a la Legislatura del Estado y a la sociedad en general, cuando menos una vez al año, sobre el ejercicio de los recursos y los resultados de las evaluaciones del proceso educativo, para dar cumplimiento a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo y demás leyes relativas;
-
-IX. Prestar obligatoriamente los servicios de educación básica, incluyendo a la educación inicial, especial, indígena y normal y demás para la formación de maestros; así como promover y prestar servicios educativos de tipo medio y superior en el Estado;
-
-X. Celebrar y suscribir convenios con la Autoridad Educativa Federal, conforme a lo establecido en el último párrafo del Artículo 14 de la Ley General de Educación, para coordinar o unificar las actividades educativas;
-
-XI. Cuidar que todos los planes y programas de estudio de educación media, y de investigación científica y tecnológica que se ofrezcan en el Estado, se vinculen funcionalmente con las necesidades del sector social y productivo;
-
-XII. Activar y promover un proceso permanente de supervisión y evaluación de la calidad y equidad en la educación;
-
-XIII. Desarrollar, fomentar y evaluar las actividades de alfabetización de adultos y niños con retraso escolar;
-
-XIV. Vigilar y garantizar que todas las entidades paraestatales e instituciones del sector educativo y sus unidades administrativas, ejerzan con transparencia el manejo de los recursos, rindan cuentas y brinden acceso a la información;
-
-XV. Promover y apoyar la participación de los padres de familia y de la sociedad en el proceso educativo, a través de las asociaciones correspondientes y de los consejos de participación social, de conformidad con la normatividad aplicable;
-
-XVI. Expedir un reglamento adecuado a cada nivel y modalidad educativa en donde se describan puntualmente las conductas que impliquen faltas a la disciplina escolar y las sanciones y procedimientos para su aplicación en el marco de la Ley de Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Quintana Roo;
-
-XVII. Realizar, promover y difundir estudios e investigaciones para fortalecer la atención, defensa y protección de los derechos de niñas, niños y adolescentes y hacerlos llegar a las autoridades escolares y a los sectores social y privado para incorporarlas en las actividades educativas;
-
-XVIII. Establecer medidas que garanticen la protección y el cuidado de la integridad física, mental y emocional de los educandos, sobre la base del respeto a su dignidad. Al efecto se asegurará que la disciplina escolar sea compatible con la edad de los estudiantes y en ningún caso lesione su dignidad o sus derechos;
-
-XIX. Apoyar programas para prevenir la drogadicción, el alcoholismo, el pandillerismo y la delincuencia juvenil, en coordinación con otras instancias;
-
-XX. Promover y fortalecer la vinculación y colaboración con la Secretaría de Planeación y Desarrollo Regional, el Consejo Quintanarroense de Ciencia y Tecnología, las instituciones de educación superior, públicas y particulares, y demás instancias competentes, para determinar las necesidades de investigación científica y tecnológica necesarias, para el desarrollo social y productivo del Estado, así como para gestionar recursos públicos y privados dedicados a llevar a cabo esta tarea;
-
-XXI. Promover y fomentar la investigación científica, tecnológica y psicopedagógica que sirva como base a la innovación educativa;
-
-XXII. Promover y fortalecer permanentemente la investigación educativa;
-
-XXIII. Estimular la producción y editar obras didácticas y material escolar distintos a los libros de texto gratuitos, así como la investigación educativa y la difusión de la cultura, por medio de estímulos a los autores;
-
-XXIV. Suscribir toda clase de acuerdos, convenios y contratos con organismos educativos, científicos y tecnológicos, artísticos, culturales y recreativos, nacionales o extranjeros, públicos o privados, así como los relativos a la distribución de libros de texto gratuitos con las autoridades federales, municipales y los sectores social y privado;
-
-XXV. Promover la realización de congresos, reuniones, concursos y demás actividades de carácter educativo, científico, artístico, cultural y deportivo;
-
-XXVI. Establecer programas educativos con contenidos históricos, nacionales y estatales que permitan el conocimiento de las culturas indígenas, la promoción de la cultura cívico-democrática y el respeto de los derechos humanos;
-
-XXVII. Promover y difundir la cultura, las actividades cívicas, recreativas, sociales y deportivas, en todas sus manifestaciones;
-
-XXVIII. Promover la difusión de programas de radio y televisión que impulsen el desarrollo cultural y educativo de la población, exaltando los valores humanos en que se sustenta la convivencia armónica de la población;
-
-XXIX. Orientar, articular y acreditar los aprendizajes generados fuera de las instituciones educativas, e impulsar la recreación, la educación física, la práctica del deporte y la prevención de situaciones de riesgo de los estudiantes;
-
-XXX. Supervisar que la educación que ofrecen los particulares en planteles incorporados al Sistema Educativo Estatal, se sujeten a las disposiciones de las leyes aplicables y a la normatividad específica del Estado de Quintana Roo;
-
-XXXI. Otorgar, negar, revocar o retirar en su caso, la autorización o el reconocimiento de validez oficial de estudios a los particulares que ofrezcan educación;
-
-XXXII. Expedir constancias y certificados de estudios, otorgar diplomas, títulos y grados académicos, del Sistema Educativo Estatal, de conformidad con las disposiciones legales que correspondan;
-
-XXXIII. Revalidar y otorgar equivalencias de estudios, de conformidad con los lineamientos generales que la Autoridad Educativa Federal expida;
-
-XXXIV. Llevar un registro y control de todas las instituciones que ofrezcan servicios educativos de cualquier tipo, nivel o modalidad;
-
-XXXV. Integrar y mantener actualizado un registro de educandos, educadores e instituciones educativas que conforman el Sistema Educativo Estatal;
-
-XXXVI. Fortalecer al Registro Estatal de Profesiones, mediante acciones de coordinación y vinculación con los Municipios de la Entidad, las instituciones de educación media y superior, públicas y particulares, que permitan la inscripción de todos los profesionistas del Estado, así como el registro de los Colegios de Profesionistas de conformidad con lo dispuesto por la ley relativa;
-
-XXXVII. Autorizar, administrar y coordinar las aportaciones destinadas al servicio social y becas;
-
-XXXVIII. Fomentar el sistema bibliotecario;
-
-XXXIX. Proponer a la Autoridad Educativa Federal, con la participación de los trabajadores de la educación y demás agremiados, adiciones o reformas, así como contenidos regionales relativos a los planes y programas de educación básica, normal y demás para la formación, capacitación, actualización, promoción y superación académica de educadores para la educación básica;
-
-XL. Reglamentar y establecer el Sistema Estatal de Educación Normal: formación, actualización, capacitación y superación académica, en cumplimiento a lo dispuesto en el Artículo 20 de la Ley General de Educación a través del Consejo Estatal de Educación Normal;
-
-XLI. Ajustar en su caso, el Calendario Escolar para cada ciclo lectivo de la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, respecto al calendario fijado por la Secretaría de Educación Pública, garantizando su cumplimiento;
-
-XLII. Difundir y dar seguimiento al cumplimiento de la ley sobre el Escudo, la Bandera y el Himno nacionales; y (sic)
-
-XLIII. Establecer los estímulos y los mecanismos profesionales que propicien la permanencia de los educadores frente a grupo;
-
-XLIV. Otorgar reconocimientos, distinciones, estímulos y recompensas a los educadores, cuyas actividades hayan sido sobresalientes, tomando como base los resultados del Sistema Integral de Evaluación Educativa;
-
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
-
-XLV. Implementar en las Instituciones Públicas de Educación Básica de la Entidad, el uso de tecnologías de la información y comunicación, en concreto el denominado internet, como una herramienta tecnológica que coadyuve en el aprendizaje de los educandos.
-
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-XLVI. Las demás atribuciones establecidas en la Ley General de Educación, esta Ley y las disposiciones que de las mismas resulten.
-
-## TRANSITORIOS
-
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
-
-SEGUNDO.- Se abroga la Ley de Educación del Estado de Quintana Roo, publicada en el Periódico Oficial del Gobierno del Estado, el 30 de diciembre de 1994, y se derogan las disposiciones relativas que se opongan a la presente Ley.
-
-TERCERO.- De conformidad con lo establecido en los artículos transitorios del Decreto por el que se adiciona el Artículo 3o., en su párrafo primero, fracciones III, V y VI, y el Artículo 31 en su fracción I, de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 12 de noviembre de 2002, el Estado deberá implementar la educación preescolar obligatoria en los siguientes plazos: el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
-
-CUARTO.- Los particulares que actualmente ofrecen servicios educativos de educación preescolar, sin reconocimiento de validez oficial de estudios, deberán tramitar la autorización correspondiente, antes del inicio del ciclo escolar 2005-2006.
-
-Para el caso de los particulares que cuenten con reconocimiento de validez oficial de estudios en la educación preescolar, el mismo les será sustituido por la autorización correspondiente, siempre y cuando acrediten que mantienen las condiciones que sustentaron dicho reconocimiento; en caso contrario, se sujetarán a lo que disponga el acuerdo específico que emita al respecto la Autoridad Educativa Estatal.
-
-QUINTO.- En el plazo de ciento ochenta días siguientes al inicio de vigencia de la presente Ley, la Secretaría presentará al Ejecutivo Estatal, los proyectos de reglamentos, acuerdos, manuales de organización y de procedimientos que de ella deriven.
-
-SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIEZ DÍAS DEL MES DE MARZO DEL AÑO DOS MIL CINCO.
-
-EL DIPUTADO PRESIDENTE:
-
-C. CARLOS GUTIÉRREZ
-
-EL DIPUTADO SECRETARIO:
-
-PABLO DE J. RIVERO ARCEO GARCÍA
-
-CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO, EL DECRETO NUMERO 148, EXPEDIDO POR LA HONORABLE X LEGISLATURA DEL ESTAD, EL DÍA DIEZ DE MARZO DEL AÑO DOS MIL CINCO, POR EL QUE SE APRUEBA LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS CATORCE DÍAS DEL MES DE MARZO DEL AÑO DOS MIL CINCO.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO
-
-LIC. JOAQUÍN ERNESTO HEDRICKS DÍAZ
-
-EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
-
-PEDRO JOSE FLOTA ALCOCER
-
-LA SECRETARIA DE EDUCACIÓN Y CULTURA
-
-M. C. MIRNA MANZANILLA ROMERO
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 13 DE NOVIEMBRE DE 2009.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-SEGUNDO.- Las autoridades educativas realizarán las acciones necesarias que permitan dar cumplimiento a lo que establece la fracción VIII y IX del Artículo 20 de la presente ley a los 90 días de la entrada en vigor del presente decreto y presentaran un informe al respecto a las Comisiones de Salud, Educación, Cultura y Deportes; de Equidad y Género; y de Reglamentos de esta H. XII Legislatura.
-
-P.O. 16 DE DICIEMBRE DE 2009.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-P.O. 30 DE SEPTIEMBRE DE 2011.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-SEGUNDO.- El Programa de Escuelas de Tiempo Completo deberá implementarse en todos los Municipios del Estado, durante el ciclo escolar 2011-2012, en las escuelas primarias del Estado que cumplan lo dispuesto por el presente Decreto.
-
-Para tal efecto, la Autoridad Educativa Estatal, determinará y difundirá con 30 días previos a la implementación de este Programa, las escuelas que serán beneficiadas.
-
-El Titular de la Secretaría de Educación del Gobierno del Estado deberá informar por escrito a la Legislatura dentro del término de 30 días a la conclusión del ciclo escolar referido en el párrafo primero de este numeral, sobre las medidas y acciones realizadas con motivo de la implementación del programa a que alude el presente Decreto.
-
-TERCERO.- Se autoriza al Titular del Poder Ejecutivo del Estado, para que a través de la Secretaría de Hacienda, realice las transferencias y ajustes presupuestales para el cumplimiento de lo dispuesto en el presente Decreto.
-
-CUARTO.- Las escuelas que cuentan con el Programa de Escuelas de Tiempo Completo en el Estado, continuarán ejerciéndolo, sin menoscabo a lo dispuesto en el presente Decreto.
-
-QUINTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 9 DE ABRIL DE 2013.
-
-PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
-
-TERCERO.- Para el cumplimiento de lo dispuesto en la fracción XLV del artículo 24 de la Ley de Educación del Estado de Quintana Roo, el Organismo Público Descentralizado denominado "Servidos Educativos de Quintana Roo", deberá utilizar los recursos etiquetados en el Artículo Quinto Transitorio del Presupuesto de Egresos del Gobierno del Estado, para el Ejercido Fiscal 2013, relativo a la instalación de servicios de internet en escuelas públicas.
-
-P.O. 30 DE JULIO DE 2013.
-
-PRIMERO.- El presente Decreto entrará en vigor, previa su publicación en el Periódico Oficial del Estado de Quintana Roo, cuando inicie su vigencia el Decreto por el que se reforma el párrafo tercero, párrafo sexto y párrafo octavo en su inciso a) del Artículo 32 de la Constitución Política del Estado de Quintana Roo.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
-
-P.O. 30 DE AGOSTO DE 2013.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+OBRAS DE U.D.A.C.G.
