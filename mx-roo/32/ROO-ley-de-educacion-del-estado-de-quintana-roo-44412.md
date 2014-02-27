@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-44412"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2013-08-30"
+last_updated: "2014-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005
 
@@ -1410,3 +1412,39 @@ P.O. 30 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Educación del Estado de Quintana Roo, publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo de fecha 14 de marzo de 2005 y se derogan demás disposiciones legales aplicables de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con lo establecido en el artículo Octavo Transitorio de la Ley General del Servicio Profesional Docente, el personal que a la entrada en vigor del referido ordenamiento se encuentre en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la educación básica o media superior impartida por el Gobierno del Estado y sus organismos descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Capítulo IX del Título Sexto de esta Ley (De la Permanencia en el Servicio). El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 87 de esta Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conservando su salario y demás prestaciones, conforme a lo que determine la autoridad educativa o el organismo descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+El personal que haya sido readscrito a otras tareas dentro del servicio educativo, podrá participar en los concursos de oposición para ingresar nuevamente al servicio docente, para lo cual deberá cumplir con el perfil relacionado con el nivel, tipo, modalidad y materia educativa correspondiente, sujetándose a los procedimientos dispuestos en los artículos 59 y 63 de la presente Ley.
+
+El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del artículo 87 de esta Ley, será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según corresponda.
+
+La readscripción de un docente a una función administrativa se hará preferentemente en el mismo centro de trabajo o en uno ubicado dentro de la misma localidad.
+
+###### ARTÍCULO CUARTO.
+
+El personal docente y el personal con funciones de dirección o de supervisión en la educación básica o media superior impartida por el Gobierno del Estado y sus organismos descentralizados que a la entrada en vigor de esta Ley tenga nombramiento provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en el artículo 86 de la presente Ley. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará nombramiento definitivo y quedará incorporado al servicio profesional docente conforme a lo dispuesto por la Ley General del Servicio Profesional Docente y el presente ordenamiento.
+
+Será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según sea el caso, el personal que:
+
+I. Se niegue a participar en los procesos de evaluación;
+
+III. No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primer o segundo proceso de evaluación a que se refiere el artículo 87 de esta ley, o
+
+III. Obtenga resultados insuficientes en el tercer proceso de evaluación previsto en el artículo 87 del presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+La autoridad educativa estatal dispondrá de un año a partir de la publicación de la presente Ley en el Periódico Oficial del Estado de Quintana Roo, para elaborar y publicar los reglamentos y demás disposiciones normativas que deriven de la presente ley.
