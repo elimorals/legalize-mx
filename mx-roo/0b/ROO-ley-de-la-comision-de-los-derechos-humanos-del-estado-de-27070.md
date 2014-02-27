@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-27070"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2013-09-06"
+last_updated: "2014-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE LA COMISION DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO -ANTES LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO-
 
-LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
+LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 13 de diciembre de 2002.
 
@@ -35,7 +35,9 @@ LA HONORABLE X LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTAN
 
 D E C R E T A:
 
-LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2014)</small>
+
+LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -45,39 +47,45 @@ LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO.
 
 Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado de Quintana Roo en materia de derechos humanos, respecto de los mexicanos y extranjeros que se encuentren en el territorio del Estado, en los términos establecidos en el apartado "B" del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos y en el artículo 94 de la Constitución Política del Estado.
 
-Asimismo, la presente ley, tiene como fin establecer la forma de integración, atribuciones y procedimientos de atención de quejas de la Comisión de Derechos Humanos del Estado.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+Asimismo, la presente ley, establece la forma de integración, atribuciones y procedimientos de atención respecto de las quejas ante la Comisión.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 2.
 
-La Comisión de Derechos Humanos del Estado de Quintana Roo, es un organismo autónomo, con personalidad jurídica y patrimonio propio, que tiene por objeto esencial la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano.
+La Comisión de los Derechos Humanos del Estado de Quintana Roo, es un organismo público, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio, que tiene por objeto esencial la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano.
 
-La sede de la Comisión de Derechos Humanos del Estado de Quintana Roo, es la ciudad de Chetumal, sin perjuicio del establecimiento de Visitadurías Generales o Adjuntas en los municipios de la entidad.
+La sede de la Comisión de los Derechos Humanos del Estado de Quintana Roo, es la ciudad de Chetumal, sin perjuicio del establecimiento de Visitadurías Generales o Adjuntas en los municipios de la entidad.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley se entiende por:
 
-Constitución Local: La Constitución Política del Estado Libre y Soberano de Quintana Roo.
+I. Constitución Local: La Constitución Política del Estado Libre y Soberano de Quintana Roo;
 
-Ley: La Ley de la Comisión de Derechos Humanos del Estado de Quintana Roo.
+II. Ley: La Ley de la Comisión de los Derechos Humanos del Estado de Quintana Roo;
 
-Reglamento: El Reglamento de la Ley de la Comisión de Derechos Humanos del Estado de Quintana Roo.
+III. Reglamento: El Reglamento de la Ley de la Comisión de los Derechos Humanos del Estado de Quintana Roo;
 
-Comisión Nacional: La Comisión Nacional de los Derechos Humanos.
+IV. Comisión Nacional: La Comisión Nacional de los Derechos Humanos;
 
-Comisión: La Comisión de Derechos Humanos del Estado de Quintana Roo.
+V. Comisión: La Comisión de los Derechos Humanos del Estado de Quintana Roo;
 
-Presidente: El Presidente de la Comisión de Derechos Humanos del Estado de Quintana Roo.
+VI. Presidente: El Presidente de la Comisión de los Derechos Humanos del Estado de Quintana Roo;
 
-Consejo Consultivo: El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo.
+VII. Consejo Consultivo: El Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo;
 
-Legislatura: La Legislatura del Estado de Quintana Roo.
+VIII. Legislatura: La Legislatura del Estado de Quintana Roo;
 
-Diputación Permanente: La Diputación Permanente de la Legislatura del Estado de Quintana Roo.
+IX. Diputación Permanente: La Diputación Permanente de la Legislatura del Estado de Quintana Roo;
 
-Grupo Vulnerable: Conjunto de personas que por circunstancias de pobreza, origen étnico, estado de salud, edad, género o discapacidad, se encuentran en una situación de mayor indefensión para hacer frente a los problemas que plantea la vida y no cuentan con los recursos necesarios para satisfacer sus necesidades básicas.
+X. Grupo Vulnerable: Conjunto de personas que por circunstancias de pobreza, origen étnico, estado de salud, edad, género o discapacidad, se encuentran en una situación de mayor indefensión para hacer frente a los problemas que plantea la vida y no cuentan con los recursos necesarios para satisfacer sus necesidades básicas, e
 
-Instrumentos Jurídicos Internacionales: Los Tratados, Convenios, Acuerdos, Resoluciones, Declaraciones, Convenciones, Recomendaciones y Pactos Internacionales en materia de derechos humanos, de los cuales México forme parte.
+XI. Instrumentos Jurídicos Internacionales: Los Tratados, Convenios, Acuerdos, Resoluciones, Declaraciones, Convenciones, Recomendaciones y Pactos Internacionales en materia de derechos humanos, de los cuales México forme parte.
 
 ###### Artículo 4.
 
@@ -99,9 +107,13 @@ Cuando se trate de asuntos que involucren a autoridades o servidores públicos d
 
 En la aplicación de las disposiciones de esta Ley, están obligados a colaborar con la Comisión, todos los ciudadanos residentes o de paso en el Estado y, especialmente, las autoridades y los servidores públicos.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 7.
 
-Los procedimientos que se sigan ante la Comisión deberán ser breves y sencillos y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se seguirán, además, de acuerdo con los principios de inmediatez, concentración y rapidez y se procurará, en la medida de lo posible, el contacto directo con quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones escritas.
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+
+Los procedimientos que se sigan ante la Comisión deberán ser breves, sencillos y gratuitos, estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se seguirán, además, de acuerdo con los principios de inmediatez, concentración, y rapidez, buena fe, igualdad y congruencia, se procurará, en la medida de lo posible, el contacto directo con quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones escritas.
 
 En todos los casos operará la suplencia de la queja.
 
@@ -111,19 +123,37 @@ El personal de la Comisión deberá manejar de manera confidencial la informaci�
 
 El personal de la Comisión que incumpla con lo establecido en el párrafo anterior será sujeto de responsabilidad ante la comisión por las infracciones que por sus acciones u omisiones resultaren, independientemente de la responsabilidad penal o de otra naturaleza, que pudiera derivarse.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+La Comisión proporcionará la información que le sea requerida, relativa a los datos y documentos que obren en los expedientes de los procedimientos, de conformidad con lo dispuesto por la legislación y normatividad aplicable, en materia de transparencia y acceso a la información pública.
+
 ###### Artículo 9.
 
 La Comisión, en el desempeño de sus funciones y en el carácter y ejercicio de su autonomía, no recibirá instrucciones o indicaciones de autoridad o servidor público alguno.
 
-## TÍTULO SEGUNDO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2014)</small>
 
-INTEGRACIÓN DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO.
+## TÍTULO SEGUNDO. INTEGRACIÓN DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
 ### CAPÍTULO I. DE LA INTEGRACIÓN Y FACULTADES DE LA COMISIÓN
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 10.
 
-La Comisión se integrará con un Consejo Consultivo, un presidente que será quien tenga la representación legal de la misma, un secretario técnico, un secretario ejecutivo y hasta tres visitadores generales; así como por el número de visitadores adjuntos y el personal profesional, técnico y administrativo necesario para el desempeño de sus funciones, que permita la disponibilidad presupuestal de la Comisión.
+La Comisión se integrará por:
+
+I. Un Consejo Consultivo;
+
+II. Un Presidente que será quien tenga la representación legal de la Comisión;
+
+III. Un Secretario Técnico;
+
+IV. Hasta tres Visitadores Generales, y
+
+V. Los Visitadores Adjuntos.
+
+La Comisión se auxiliará del personal profesional, técnico y administrativo necesario para el desempeño de sus funciones, que permita la disponibilidad presupuestal de la Comisión.
 
 El Primer Visitador General desempeñará sus funciones en la sede de la Comisión.
 
@@ -141,7 +171,9 @@ IV. Conocer e investigar, a petición de parte, sobre presuntas violaciones de d
 
 a) Por actos u omisiones de autoridades de carácter estatal o municipal;
 
-b) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+b) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando éstos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente cuando se trate de conductas que afecten la integridad física de las personas;
 
 V. Conocer e investigar, aún de oficio, sobre violaciones a derechos humanos cuando éstas sean cometidas en flagrancia por los servidores públicos;
 
@@ -161,7 +193,9 @@ XII. Realizar visitas periódicas para supervisar el respeto a los derechos huma
 
 XIII. Celebrar convenios de apoyo con las diversas dependencias federales, estatales y municipales;
 
-XIV. Celebrar con las instituciones de educación media y media superior convenios relativos a la prestación del servicio social profesional en los términos que indiquen los reglamentos de cada institución;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XIV. Celebrar con las instituciones de educación media superior y superior convenios relativos a la prestación del servicio social profesional en los términos que indiquen los reglamentos de cada institución;
 
 XV. Formular programas y proponer acciones en coordinación con las dependencias competentes, que impulsen el cumplimiento dentro del territorio del Estado de los instrumentos jurídicos internacionales;
 
@@ -169,7 +203,25 @@ XVI. Celebrar convenios con la Comisión Nacional y con las comisiones de otros 
 
 XVII. Expedir su Reglamento, una vez aprobado por el Consejo Consultivo;
 
-XVIII. Las demás que le otorguen la presente Ley y otros ordenamientos legales.
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XVIII. Proporcionar orientación y asesoría jurídica a las personas que lo soliciten, en materia de derechos humanos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XIX. Coordinar acciones, previo convenio con la Secretaría de Educación y Cultura del Estado de Quintana Roo, con el fin de promover y fomentar la educación y cultura del reconocimiento y respeto de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XX. Desarrollar y ejecutar en el ámbito de su competencia, programas especiales de atención a víctimas del delito y abuso del poder, así como de personas o grupos en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XXI. Supervisar el respeto a los derechos humanos en el sistema de reinserción social del Estado mediante la elaboración de un diagnóstico anual sobre la situación que éstos guarden. El diagnóstico se hará del conocimiento de las dependencias locales competentes en la materia para que éstas elaboren, considerando las opiniones de la Comisión, las políticas públicas tendientes a garantizar el respeto a los derechos humanos de los internos, y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XXII. Las demás que le otorguen la presente ley y otros ordenamientos legales.
 
 ###### Artículo 12.
 
@@ -209,45 +261,57 @@ III. Contar, por lo menos, con 30 años cumplidos el día de su designación;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
-V. No haber sido sancionado en el desempeño de algún cargo, empleo o comisión dentro de la administración pública estatal o municipal con motivo de una recomendación de los Organismos Públicos de Protección y Defensa de Derechos Humanos; y
+V. No haber sido sancionado en el desempeño de algún cargo, empleo o comisión dentro de la administración pública estatal o municipal con motivo de una recomendación de algunos de los Organismos Públicos Defensores de los Derechos Humanos;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
-VI. Poseer, al día de su designación, título y cédula profesional de nivel licenciatura.
+VI. Poseer, al día de su designación, título y cédula profesional de nivel licenciatura, preferentemente de Licenciado en Derecho, y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+VII. No ser Secretario de Estado o Procurador General de Justicia del Estado, a menos que se separe del cargo, un año previo a la designación.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 16.
 
-El Presidente será designado por el voto de las dos terceras partes de los miembros presentes de la Legislatura, o en sus recesos, por la Diputación Permanente, de entre las propuestas que formulen los grupos parlamentarios.
+El Presidente será designado por el voto de las dos terceras partes de los miembros presentes de la Legislatura, o en sus recesos, por la Diputación Permanente de entre las propuestas que formulen los Grupos Parlamentarios y las organizaciones de la sociedad civil que se encuentren legalmente constituidas en los términos de la legislación civil o aplicable, cuyo objeto social se encuentre vinculado con la promoción y defensa de los derechos humanos. El Presidente durará en su cargo cuatro años.
 
-El Presidente durará en su cargo cuatro años, pudiendo ser ratificado exclusivamente para un segundo período.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 17.
 
 El procedimiento para la designación del Presidente se sujetará al trámite siguiente:
 
-I. Llegado el momento de la designación, el Presidente de la Mesa Directiva de Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios representados en la Legislatura para que presenten sus propuestas;
+I. Llegado el momento de la designación, el Presidente de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios representados en la Legislatura, así como a las organizaciones de la sociedad civil legalmente constituidas en los términos de la legislación civil aplicable, cuyo objeto social se encuentre vinculado con la promoción y defensa de los derechos humanos, para que presenten sus propuestas. Los convocados podrán presentar no más de una propuesta;
 
-Para estos efectos, los Grupos Parlamentarios por sí y bajo su responsabilidad podrán invitar a la sociedad organizada, instituciones educativas, colegios de profesionistas, y otras instituciones vinculadas con la defensa de los derechos para que participen con la presentación de propuestas y de éstas hacer la valoración correspondiente;
+II. El plazo para la recepción de propuestas será de cinco días naturales siguientes a la publicación de la Convocatoria en el Periódico Oficial del Estado de Quintana Roo, en dos diarios de circulación en el Estado y en la página Web del Poder Legislativo del Estado de Quintana Roo.
 
-II. Dentro de los diez días naturales siguientes a la fecha en que hayan sido convocados, cada uno de los grupos parlamentarios presentará por escrito y por conducto de su respectivo coordinador ante la Oficialía de Partes del Poder Legislativo, la propuesta de hasta dos ciudadanos para ocupar el cargo de Presidente, debiendo acompañar en cada caso, copia simple de la documentación que sustente el cumplimiento de los requisitos que establece esta Ley;
+Las propuestas se deberán presentar por escrito ante la Oficialía de Partes del Poder Legislativo debiendo acompañar copia certificada de cada documentación que acredite el cumplimiento de los requisitos que establece la ley, así como un escrito firmado por el aspirante donde manifieste su consentimiento para participar en el proceso.
 
-III. Vencido el plazo señalado en la fracción anterior, las propuestas se turnarán inmediatamente a la Comisión de Derechos Humanos de la Legislatura para que proceda a verificar el contenido de la documentación presentada;
+Los representantes legales de la sociedad civil, así como los coordinadores de los Grupos Parlamentarios deberán señalar por escrito y al momento de presentar su propuesta, domicilio para oír y recibir notificaciones en la ciudad de Chetumal, a falta de éste, las notificaciones se harán por estrados del Poder Legislativo;
 
-Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos o que la documentación no es correcta, se notificará al grupo parlamentario que corresponda por conducto de su coordinador o representante, para que a más tardar, dentro de las cuarenta y ocho horas siguientes, anexe o corrija la documentación respectiva;
+III. Vencido el plazo señalado en la fracción anterior, las propuestas se turnarán inmediatamente a la Comisión de Derechos Humanos de la Legislatura para que proceda a verificar el contenido de la documentación presentada, si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos o que la documentación no es correcta, se notificará al grupo parlamentario que corresponda por conducto de su coordinador o a las Organizaciones de la Sociedad Civil a través de la persona que hayan acreditado para tales efectos, para que a más tardar dentro de los dos días hábiles siguientes contados a partir de la notificación, anexen o corrijan la documentación respectiva. Cumplido este plazo, quienes no hayan subsanado los requisitos o la documentación observada, se tendrá por no presentada la propuesta;
 
-IV. Dentro de las cuarenta y ocho horas siguientes a las que hayan sido recibidas las propuestas, o a las que hayan sido subsanadas las omisiones o errores si las hubieren, la Comisión de Derechos Humanos de la Legislatura, presentará al Presidente de la Mesa Directiva o de la Diputación Permanente, un dictamen que contendrá la relación de los nombres de las personas propuestas que cubrieron los requisitos legales;
+IV. Una vez recibidas las propuestas y/o subsanadas las omisiones o errores si los hubieren, la Comisión de Derechos Humanos de la Legislatura, dentro de los tres días hábiles siguientes deberá elaborar el Dictamen que contendrá la relación de las propuestas que cubrieron los requisitos legales;
 
-V. En la sesión que celebre la Legislatura o la Diputación Permanente, en su caso, se dará lectura a las propuestas que hayan cumplido con los requisitos señalados en esta Ley e, inmediatamente después, se someterán a votación de sus integrantes, procediendo en consecuencia a notificar la designación para recibir la protesta correspondiente; y
+V. Una vez emitido el Dictamen se hará del conocimiento de la ciudadanía en general, los nombres de las personas que han cumplido con los requisitos para ocupar el cargo, mediante publicación en la Página Web del Poder Legislativo del Estado y en dos diarios de circulación en el Estado, con el fin de que emitan su opinión debidamente sustentada y por escrito presentada ante la Oficialía de Partes del Poder Legislativo y dirigida a la Comisión de Derechos Humanos de la Legislatura. El plazo para la recepción de opiniones será de tres días hábiles siguientes a la publicación respectiva;
 
-VI. La designación del Presidente se mandará a publicar en el Periódico Oficial del Gobierno del Estado.
+VI. La Comisión de Derechos Humanos de la Legislatura, una vez recibidas las opiniones de la sociedad deberá presentarlas con el Dictamen respectivo a la consideración de la Legislatura o en su caso, de la Diputación Permanente, para que en sesión que para tal efecto se celebre, se someta a votación de sus integrantes, y se determine quién de los candidatos propuestos resultare electo, debiéndole notificar su designación para que acuda a rendir protesta de ley;
 
-En caso de ratificación del Presidente, la Comisión de Derechos Humanos de la Legislatura efectuará la propuesta respectiva, de la evaluación de los informes anuales presentados por el Presidente en turno, así como de la actuación del mismo, la cual, se someterá para su aprobación a la Legislatura o Diputación Permanente, en su caso, mediante el mismo sistema de votación estipulado para su designación.
+VII. El candidato que resulte electo, deberá rendir la protesta de ley correspondiente ante la Legislatura o la Diputación Permanente en su caso, y
+
+VIII. La designación del Presidente se mandará a publicar en el Periódico Oficial del Estado de Quintana Roo y en la página Web del Poder Legislativo del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 18.
 
-Las funciones del Presidente, de los Visitadores Generales, del Secretario Técnico y del Secretario Ejecutivo, son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, el Estado o municipios, o en organismos privados, o con el desempeño de su profesión, exceptuando las actividades docentes, académicas o de investigación.
+Las funciones del Presidente, de los Visitadores Generales y del Secretario Técnico son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, el Estado o municipios, en organismos privados, o con el desempeño de su profesión, exceptuando las actividades docentes, académicas o de investigación.
+
+El Presidente durante su encargo, no podrá participar en eventos proselitistas de algún partido político, ni desempeñar actividades electorales.
 
 ###### Artículo 19.
 
@@ -257,9 +321,11 @@ El Presidente y los Visitadores Generales no podrán ser detenidos ni sujetos a 
 
 El Presidente sólo podrá ser removido de sus funciones en los términos del Título Octavo de la Constitución local. En este supuesto, será sustituido por el Primer Visitador General, hasta en tanto no se designe nuevo Presidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 21.
 
-En sus faltas temporales, el Presidente será sustituido por el Primer Visitador General, de conformidad a lo previsto por el Reglamento de la Comisión. En ningún caso el Presidente podrá ausentarse de su cargo por más de noventa días.
+En sus faltas temporales, el Presidente será sustituido por el Primer Visitador General, de conformidad a lo previsto por el Reglamento de la Comisión. En ningún caso el Presidente podrá ausentarse de su cargo por más de sesenta días.
 
 Si la ausencia del presidente fuera definitiva, el Primer Visitador General quedará encargado de la Presidencia de la Comisión, en tanto la Legislatura designe al nuevo titular.
 
@@ -285,13 +351,35 @@ VIII. Aprobar y emitir las recomendaciones públicas autónomas y acuerdos que r
 
 IX. Formular los lineamientos generales a que se sujetarán las actividades administrativas de la Comisión;
 
-X. Nombrar a los visitadores generales, al Secretario Técnico, al Secretario Ejecutivo y a los funcionarios y personal bajo su autoridad;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+X. Nombrar a los Visitadores Generales, al Secretario Técnico y a los funcionarios y personal bajo su autoridad;
 
 XI. Someter a la opinión y consideración del Consejo Consultivo el Informe anual de actividades que será presentado ante la Legislatura del Estado.
 
-XII. Rendir un informe anual sobre las actividades de la Comisión a la Legislatura, remitiendo de igual manera una copia del informe al Titular del Poder Ejecutivo del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
-XIII. Los demás que le señalen la presente Ley y otros ordenamientos legales.
+XII. Rendir un informe anual a la Legislatura sobre las actividades que la Comisión haya realizado, remitiendo de igual manera una copia del informe al Titular del Poder Ejecutivo del Estado y al Magistrado Presidente del Tribunal Superior de Justicia del Estado. Dicho informe deberá presentarse en los primeros tres meses del año;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XIII. Comparecer ante la Legislatura del Estado, cuando sea requerido por ésta;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XIV. Fungir como apoderado legal con las más amplias facultades, para actos de administración, pleitos y cobranzas; pudiendo delegar, sustituir o revocar poderes en uno o más apoderados;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XV. Plantear acciones de inconstitucionalidad, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XVI. Solicitar, en los términos del artículo 56 Bis de esta ley, a la Legislatura o en sus recesos, a la Diputación Permanente, según corresponda se llame a comparecer a las autoridades o servidores públicos responsables, para explicar el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por la Comisión, y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+XVII. Las demás que le señalen la presente ley y otros ordenamientos legales.
 
 ###### Artículo 23.
 
@@ -309,15 +397,39 @@ Los cargos de consejeros serán de carácter honorífico y cuando menos cuatro d
 
 El Presidente y el Secretario Técnico de la Comisión, lo serán también del Consejo Consultivo.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 25.
 
-Los miembros del Consejo Consultivo durarán en sus respectivos cargos un período de cuatro años y serán designados por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, en los mismos términos que la designación del Presidente. De igual manera podrán ser ratificados por un período igual.
+Los miembros del Consejo Consultivo durarán en sus respectivos cargos un período de cuatro años y serán designados por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente; el procedimiento de la designación de éstos será en los mismos términos que el requerido para la designación del Presidente.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+###### Artículo 25
+
+Bis.- Los Consejeros dejarán de ejercer su encargo por alguna de las causas siguientes:
+
+I. Por concluir el período para el que fueron electos;
+
+II. Por renuncia;
+
+III. Por incapacidad permanente que les impida el desempeño de sus funciones;
+
+IV. Por faltar, sin causa justificada, a más de dos sesiones consecutivas o a tres acumuladas en un año, y
+
+V. Por haber sido condenado mediante sentencia ejecutoriada por delito doloso.
+
+En el supuesto previsto en la fracción I, la Comisión informará a la Legislatura, con al menos tres meses de antelación a la terminación del encargo, a efecto de que tome las previsiones necesarias.
+
+En los demás casos, la Legislatura del Estado, previa garantía de audiencia que se otorgue a los Consejeros, resolverá lo procedente.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 26.
 
-El Consejo Consultivo tendrá las siguientes facultades:
+El Consejo Consultivo tendrá las siguientes facultades y obligaciones:
 
-I. Establecer los lineamientos generales de actuación de la Comisión;
+I. Establecer los lineamientos, criterios y las políticas generales de actuación de la Comisión;
 
 II. Aprobar el Reglamento;
 
@@ -327,15 +439,29 @@ IV. Conocer y opinar sobre el informe anual que el Presidente le presente a la L
 
 V. Solicitar al Presidente, información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión;
 
-VI. Asistir con su opinión al Presidente respecto a los asuntos que éste le presente.
+VI. Asistir con su opinión al Presidente respecto a los asuntos que éste le presente;
 
-VII. Las demás que le señale la presente Ley.
+VII. Someter a consideración del Presidente, mecanismos y programas que contribuyan al respeto, defensa, protección, promoción, estudio, investigación y divulgación de los derechos humanos;
+
+VIII. Solicitar al Presidente información adicional sobre los asuntos que haya resuelto la Comisión;
+
+IX. Requerir, a propuesta del Presidente, en las sesiones del Consejo Consultivo la participación con derecho a voz, pero sin voto, de invitados especiales y servidores públicos del Organismo, para coadyuvar en el ejercicio de sus funciones;
+
+X. Analizar y, en su caso, aprobar las propuestas generales que le formule el Presidente, para una mejor protección de los derechos humanos;
+
+XI. Opinar sobre los actos de dominio que pretenda realizar la o el Presidente, en representación de la Comisión;
+
+XII. Conocer el Presupuesto Anual de Egresos autorizado a la Comisión, por la Legislatura, y
+
+XIII. Las demás que le señale la presente ley.
 
 ###### Artículo 27.
 
 El Consejo Consultivo tomará sus decisiones por mayoría de votos de sus miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
 
-El Consejo Consultivo sesionará trimestralmente de manera ordinaria y extraordinaria cuantas veces lo convoque así el Presidente, o mediante solicitud que a éste formulen por lo menos tres miembros del Consejo Consultivo, cuando se estime que hay razones de importancia para ello.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+El Consejo Consultivo sesionará cuando menos una vez al mes de manera ordinaria y extraordinaria cuantas veces lo convoque así el Presidente, o mediante solicitud que a éste formulen por lo menos tres miembros del Consejo Consultivo, cuando se estime que hay razones de importancia para ello.
 
 ### CAPÍTULO IV. DEL NOMBRAMIENTO Y FACULTADES DEL
 
@@ -363,7 +489,9 @@ El Secretario Técnico tendrá las siguientes atribuciones:
 
 I. Proponer al Consejo Consultivo y al Presidente, las políticas generales que en materia de derechos humanos habrá de seguir la Comisión ante los organismos gubernamentales y no gubernamentales, locales y nacionales;
 
-II. Promover y fortalecer las relaciones de la Comisión con organismos públicos, sociales y privados, locales y nacionales, en materia de derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+II. Promover y fortalecer las relaciones de la Comisión con autoridades e instituciones públicas, así como con organismos públicos, sociales y privados, locales, nacionales e internacionales, en materia de derechos humanos;
 
 III. Preparar los anteproyectos de iniciativas de leyes y reglamentos, o sus reformas, que la Comisión haya de sugerir a la Legislatura, al Titular del Poder Ejecutivo del Estado o a los Ayuntamientos;
 
@@ -373,37 +501,29 @@ V. Enriquecer, mantener y custodiar el acervo documental y bibliográfico de la 
 
 VI. Fungir como Secretario del Consejo Consultivo, llevando el libro de actas y acuerdos del mismo;
 
-VII. Elaborar el anteproyecto de presupuesto de egresos de la Comisión, supervisar el ejercicio presupuestal y presentar al Presidente, el respectivo informe de su aplicación; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
-VIII. Las demás que le señalen esta Ley, otros ordenamientos legales y las que le asigne el Presidente.
+VII. Elaborar el anteproyecto de presupuesto de egresos de la Comisión, supervisar el ejercicio presupuestal y presentar al Presidente, el respectivo informe de su aplicación;
 
-### CAPÍTULO V. DEL NOMBRAMIENTO Y FACULTADES DEL SECRETARIO EJECUTIVO
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+VIII. Diseñar y ejecutar los programas de capacitación, formación, promoción y difusión de los derechos humanos, y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+IX. Las demás que le señalen esta ley, otros ordenamientos legales y las que le asigne el Presidente.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2014)</small>
+
+### CAPITULO V. DEL NOMBRAMIENTO Y FACULTADES DEL SECRETARIO EJECUTIVO
 
 ###### Artículo 30.
 
-El Secretario Ejecutivo deberá reunir para su designación los mismos requisitos exigidos para el Secretario Técnico, salvo el relativo a poseer título de abogado o licenciado en derecho y cédula profesional.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2014)
 
 ###### Artículo 31.
 
-El Secretario Ejecutivo tendrá las siguientes atribuciones:
-
-I. Auxiliar al Presidente de la Comisión en la conducción de las políticas de comunicación social y en sus relaciones con los medios de comunicación;
-
-II. Elaborar materiales impresos y audiovisuales para dar a conocer a la sociedad las funciones y actividades de la Comisión;
-
-III. Mantener contacto permanente con los directivos, reporteros, corresponsales y articulistas de los medios de comunicación, a efecto de informarles sobre las acciones que realiza la Comisión;
-
-IV. Coordinar la edición de las publicaciones que realice la Comisión;
-
-V. Brindar a las distintas dependencias de la Comisión el apoyo técnico para el desarrollo de sistemas y procesamiento de la información;
-
-VI. Desarrollar metodologías que coadyuven al mejor manejo de archivos, diseños y documentos;
-
-VII. Diseñar e implementar un sistema automatizado que registre y otorgue seguimiento al procedimiento de recepción y tramitación de quejas;
-
-VIII. Fungir como secretario del Consejo Consultivo en las ausencias del Secretario Técnico;
-
-IX. La demás inherentes al cumplimiento de los objetivos de la Comisión y las que expresamente le señale el Presidente de la propia institución.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2014)
 
 ### CAPÍTULO VI. DEL NOMBRAMIENTO Y FACULTADES DE LOS VISITADORES GENERALES
 
@@ -417,7 +537,9 @@ II. Tener una residencia en el Estado no menor de 5 años;
 
 III. Ser mayor de 25 años el día de su nombramiento;
 
-IV. Poseer el día de su nombramiento, con antigüedad mínima de 3 años, título profesional de abogado o licenciado en derecho y contar con la cédula profesional respectiva;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+IV. Poseer, al día de su designación, título profesional de abogado o licenciado en derecho y contar con la cédula profesional respectiva;
 
 V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo de cualquiera que haya sido la pena, y
 
@@ -435,9 +557,21 @@ III. Realizar las investigaciones y estudios necesarios para formular los proyec
 
 IV. Informar al Presidente de las quejas que sean recibidas en su Visitaduría o de los procedimientos iniciados de oficio y del trámite de las mismas;
 
-V. Efectuar visitas periódicas a los establecimientos destinados a la detención preventiva, custodia y readaptación social, estatales y municipales para constatar que no se cometan violaciones a los derechos humanos y entregar un informe al Presidente dentro de los tres días siguientes a cada visita. En este caso las autoridades o servidores públicos que desempeñen un empleo, cargo o comisión en la administración pública del Estado en los órganos de procuración y de impartición de justicia otorgarán todas las facilidades que se requieran para el cumplimiento de la visita;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
-VI. Las demás que les señalen esta Ley, su Reglamento y el Presidente, necesarias para el mejor cumplimiento de sus funciones.
+V. Efectuar visitas periódicas a los establecimientos destinados a la detención preventiva, custodia y reinserción social, estatal y municipal para constatar que no se cometan violaciones a los derechos humanos y entregar un informe al Presidente dentro de los tres días siguientes a cada visita. En este caso las autoridades o servidores públicos que desempeñen un empleo, cargo o comisión en la administración pública del Estado, en los órganos de procuración y de impartición de justicia otorgarán todas las facilidades que se requieran para el cumplimiento de la visita;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+VI. Proponer al Presidente los proyectos de Acuerdos, de Recomendación y Resoluciones;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+VII. Iniciar a petición de parte, la investigación de las quejas e inconformidades que le sean presentadas, o de oficio, discrecionalmente aquéllas sobre denuncias de violación a los derechos humanos que aparezcan en los medios de comunicación, y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+VIII. Las demás que les señalen esta ley, su Reglamento y el Presidente, necesarias para el mejor cumplimiento de sus funciones.
 
 ###### Artículo 34.
 
@@ -455,7 +589,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 Los Visitadores Adjuntos tendrán las siguientes atribuciones:
 
-I. Auxiliar a los Visitadores Generales en la recepción de quejas;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+I. Auxiliar a los Visitadores Generales en la recepción admisión, y trámite de las quejas que sean presentadas a la Comisión;
 
 II. Auxiliar a los Visitadores Generales en las investigaciones y estudios que éstos realicen con motivo de las quejas presentadas;
 
@@ -463,9 +599,11 @@ III. Auxiliar a los Visitadores Generales en las acciones de conciliación y de 
 
 IV. Las demás que les señalen esta Ley, su Reglamento y el Presidente, necesarias para el mejor cumplimiento de sus funciones y de los objetivos de esta ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2014)</small>
+
 ### CAPÍTULO I. DE LA QUEJA
 
-## TÍTULO TERCERO. DEL PROCEDIMIENTO ANTE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
+## TÍTULO TERCERO. DEL PROCEDIMIENTO ANTE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
 ### CAPÍTULO II. DE LA ADMISIÓN, DESAHOGO Y RESOLUCIÓN DE LA QUEJA
 
@@ -483,9 +621,19 @@ La queja sólo podrá presentarse dentro del plazo de un año, a partir de que s
 
 No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser considerados violaciones de lesa humanidad.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+Los términos y plazos señalados para el procedimiento en esta ley y en el Reglamento, se entienden como días naturales, salvo los casos que señale expresamente este ordenamiento lo contrario, y empezarán a correr a partir del día en que se realice la notificación.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 38.
 
-La queja o denuncia respectiva, deberá presentarse por escrito, para lo cual se le facilitarán a los quejosos los formatos correspondientes; en casos urgentes podrá formularse por cualquier medio de comunicación electrónica. No se admitirán comunicaciones anónimas, por lo que toda queja o denuncia deberá ratificarse dentro de los tres días hábiles siguientes a su presentación. En caso de que el agraviado se encuentre privado de su libertad o se desconozca su paradero, la queja deberá ser ratificada en cuanto el afectado se encuentre en posibilidad de hacerlo, lo cual no interrumpirá la tramitación de la queja.
+La queja o denuncia respectiva, deberá presentarse de forma oral o por escrito y en casos urgentes, podrá formularse por cualquier medio de comunicación electrónica o telefónica, tratándose de personas con discapacidad, la Comisión establecerá los mecanismos accesibles para atender la denuncia o la queja respectiva. No se admitirán comunicaciones anónimas, por lo que toda queja o denuncia deberá ratificarse dentro de los tres días hábiles siguientes a su presentación. En caso de que el agraviado se encuentre privado de su libertad o se desconozca su paradero, la queja deberá ser ratificada en cuanto el afectado se encuentre en posibilidad de hacerlo, lo cual no interrumpirá la tramitación de la queja.
+
+Cuando los quejosos o denunciantes se encuentren recluidos en un centro de detención o de reinserción social, sus escritos deberán ser trasmitidos a la Comisión sin demora alguna por los encargados de dichos centros de detención o reinserción social, o aquellos podrán entregarse directamente a los visitadores generales o adjuntos.
+
+La falta de ratificación dentro del término señalado en este artículo no interrumpe la investigación por parte de la Comisión.
 
 ###### Artículo 39.
 
@@ -503,9 +651,13 @@ III. El nombre y cargo de la autoridad o servidor público señalado como respon
 
 IV. Las pruebas que posea, para comprobar las imputaciones vertidas en contra de la autoridad o servidores públicos señalados como responsables.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 41.
 
-La Comisión deberá poner a disposición de los quejosos o los denunciantes, formularios que faciliten el trámite y, en todo caso, orientará a los comparecientes sobre el contenido de su queja o denuncia. Las quejas también podrán presentarse oralmente, cuando los comparecientes no puedan escribir o sean menores de edad. En este caso el compareciente deberá estampar su huella digital en el escrito de queja. Tratándose de personas que no hablen o entiendan correctamente el idioma español, se les proporcionará gratuitamente un traductor.
+La Comisión deberá poner a disposición de los quejosos o los denunciantes, formularios que faciliten el trámite y, en todos los casos, orientará a los comparecientes sobre el contenido de su queja o denuncia. Las quejas también podrán presentarse oralmente, cuando los comparecientes no puedan escribir o sean menores de edad. En este caso el compareciente deberá estampar su huella digital en el escrito de queja.
+
+Tratándose de personas que no hablen o entiendan el idioma español, que sean pertenecientes a los pueblos o comunidades indígenas o personas con discapacidad auditiva, la Comisión debe realizar las gestiones necesarias a efecto de proporcionarles gratuitamente un traductor que permita la interposición de la queja o denuncia por parte del quejoso.
 
 ###### Artículo 42.
 
@@ -516,6 +668,8 @@ En todos los casos que se requiera, la Comisión levantará acta circunstanciada
 En el supuesto de que los quejosos o denunciantes no puedan identificar a las autoridades o servidores públicos, cuyos actos u omisiones consideren haber afectado sus derechos fundamentales, la instancia será admitida, si procede, bajo la condición de que se logre dicha identificación en la investigación posterior de los hechos.
 
 ### CAPÍTULO III. DE LOS ACUERDOS Y RECOMENDACIONES AUTÓNOMOS
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 44.
 
@@ -532,6 +686,10 @@ Si al admitir la queja o denuncia, se observa que los hechos manifestados como v
 De lograrse una solución satisfactoria o lograrse el allanamiento a la propuesta de conciliación o mediación por parte de la autoridad a la que fue dirigida, la Comisión lo hará constar así y ordenará el archivo del expediente, el cual podrá reabrirse cuando la autoridad no cumpla con los puntos señalados en la misma dentro del plazo de treinta días naturales y el quejoso lo haga saber a la Comisión dentro de los cinco días hábiles siguientes. En este último supuesto, la Comisión dictará el acuerdo correspondiente y de inmediato procederá con lo establecido en esta Ley.
 
 Las características y modalidades de la conciliación y de la mediación, se determinarán en el Reglamento de esta ley.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+La mediación y la conciliación son medios alternativos, auxiliares y complementarios al procedimiento de queja o denuncia, para la solución de conflictos. Son voluntarias por lo que no pueden ser impuestas a persona alguna.
 
 ###### Artículo 47.
 
@@ -555,9 +713,25 @@ II. Solicitar de otras autoridades, servidores públicos o particulares todo gé
 
 III. Practicar visitas e inspecciones, ya sea personalmente o por medio del personal técnico o profesional bajo su dirección en los términos de Ley;
 
-IV. Citar a las autoridades o servidores públicos y particulares que deban comparecer como peritos o testigos para esclarecer los hechos, y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
-V. Efectuar todas las demás acciones que conforme a derecho juzgue convenientes para el mejor conocimiento del asunto.
+IV. Citar a las autoridades o servidores públicos y particulares que deban comparecer como peritos o testigos para esclarecer los hechos;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+V. Efectuar todas las demás acciones que conforme a derecho juzgue convenientes para el mejor conocimiento del asunto, y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
+VI. Recabar entrevistas, declaraciones o testimonios y asentarlo en el expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+Para el mejor desarrollo de las facultades señaladas con anterioridad, la Comisión podrá hacer uso de cualquier medio científico o tecnológico, permitido por las leyes, para el registro de las acciones en las que intervengan.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+Todas las acciones deberán constar en acta circunstanciada.
 
 ###### Artículo 50.
 
@@ -579,13 +753,23 @@ Las conclusiones del expediente, que serán la base de las recomendaciones, esta
 
 ###### Artículo 53.
 
-La Comisión podrá dictar acuerdos de trámite, que serán obligatorios para que las autoridades y servidores públicos comparezcan o aporten información y documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Título Cuarto, Capítulo II de la presente Ley. Asimismo, en estos casos, podrá turnarse el asunto a la Secretaría de la Contraloría del Estado, para efectos de aplicar las sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado.
+La Comisión podrá dictar acuerdos de trámite, que serán obligatorios para que las autoridades y servidores públicos comparezcan o aporten información y documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Título Cuarto, Capítulo II de la presente ley. Asimismo, en estos casos, podrá turnarse el asunto a la Secretaría de la Gestión Pública del Estado, para efectos de aplicar las sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+###### Artículo 53
+
+Bis.- La Comisión podrá emitir recomendaciones generales cuando derivado de los estudios realizados por la Comisión, se determine que diversas autoridades han vulnerado derechos humanos, las cuales no requieren aceptación por parte de las autoridades a quienes vayan dirigidas; sin embargo, la verificación de su cumplimiento se hará mediante la realización de estudios generales, que para tal efecto realice la Comisión.
 
 ###### Artículo 54.
 
 Concluida la investigación, el Visitador General formulará, en su caso, un proyecto de recomendación, o acuerdo de no responsabilidad en el cual se analizarán los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas, a fin de determinar si las autoridades o servidores públicos han violado o no los derechos humanos de los afectados, al haber incurrido en actos u omisiones contrarios a los mismos, o hubiesen dejado sin respuesta las solicitudes presentadas por los interesados durante un período que exceda notoriamente los plazos fijados por las leyes.
 
 En el proyecto de recomendación, se señalarán las medidas que procedan para la efectiva restitución de los afectados en sus derechos fundamentales y, de ser procedente, en su caso, para la reparación de los daños y perjuicios que se hubiesen ocasionado.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+Las Recomendaciones y las Resoluciones de no Responsabilidad, deben contener los fundamentos legales, principios jurídicos, criterios generales aplicables, razonamientos de las partes y valoración de las pruebas; así como las consideraciones que las motiven y sustenten.
 
 Los proyectos antes referidos serán presentados al Presidente para su consideración final.
 
@@ -605,13 +789,33 @@ La recomendación será pública autónoma, no tendrá carácter imperativo para
 
 Una vez recibida la recomendación, la autoridad o servidor público de que se trate informará, dentro de los cinco días hábiles siguientes a partir de la notificación, si acepta dicha recomendación y, en caso de aceptar la misma, quedará obligado a cumplirla en sus términos, debiendo remitir a la Comisión dentro de los cinco días hábiles siguientes a la aceptación, las pruebas que acrediten su exacto cumplimiento. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+Las Recomendaciones no son vinculatorias ni tendrán carácter imperativo para la autoridad o servidor público al cual sea dirigida; sin embargo, una vez aceptadas, las autoridades o servidores públicos están obligados a cumplirlas en sus términos.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+Los servidores públicos deben fundar y motivar la negativa de la aceptación de las recomendaciones, además de hacer pública tal determinación.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+La Comisión debe verificar el cumplimiento de sus recomendaciones, para lo cual, puede realizar toda clase de actuaciones, gestiones o diligencias de oficio o a petición de parte.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 56
 
-Bis.- Cuando las recomendaciones emitidas no sean aceptadas o cumplidas total o parcialmente por los servidores públicos, la Comisión Estatal de Derechos Humanos dará vista al Congreso del Estado de tal situación, a fin de que la Comisión Legislativa de Derechos Humanos, a su juicio y con el objeto de que expliquen las razones de su conducta o justifiquen su omisión, se sirva citar a comparecer ante la misma, a los servidores públicos involucrados, durante el periodo legislativo al momento de la notificación de la negativa o el periodo legislativo inmediato posterior en caso de ocurrir ésta en un periodo de receso. Esta comparecencia será de carácter público, en ella las víctimas podrán exponer su testimonio, sea por escrito, comparecencia o por cualquier otro medio que cumpla con el cometido de que los diputados conozcan el punto de vista de las víctimas. La Comisión Estatal de Derechos Humanos por conducto de su representante legal, estará presente en la comparecencia del servidor público y podrá intervenir en ella.
+Bis.- Cuando las recomendaciones emitidas no sean aceptadas o cumplidas total o parcialmente por los servidores públicos, la Comisión por conducto de su Presidente, dará vista a la Legislatura o en sus recesos a la Diputación Permanente de tal situación, a fin de que a través de la Comisión Ordinaria de Derechos Humanos, a su juicio y con el objeto de que expliquen las razones de su conducta o justifiquen su omisión, se sirva citar a comparecer ante la misma, a los servidores públicos involucrados, durante el periodo legislativo al momento de la notificación de la negativa o el periodo legislativo inmediato posterior en caso de ocurrir ésta en un periodo de receso. Esta comparecencia será de carácter público, en ella las víctimas podrán exponer su testimonio, sea por escrito, comparecencia o por cualquier otro medio que cumpla con el cometido de que los diputados conozcan el punto de vista de las víctimas. La Comisión por conducto de su representante legal, estará presente en la comparecencia del servidor público y podrá intervenir en ella.
 
-La ley Orgánica del Congreso del Estado regulará el procedimiento al que alude el párrafo anterior.
+Para efectos del párrafo anterior, deberá observarse y proceder conforme a lo siguiente:
+
+a) La autoridad o servidor público de que se trate deberá fundar, motivar y hacer pública su negativa, y atender los llamados de la Legislatura o en sus recesos, de la Diputación Permanente, para que comparezca ante dichos órganos legislativos, a través de la Comisión Ordinaria de Derechos Humanos a efecto de que expliquen el motivo de su negativa;
+
+b) La Comisión determinará, previa consulta con los órganos legislativos referidos en el inciso anterior, en su caso, si la fundamentación y motivación presentadas por la autoridad o servidor público que se hubiese negado a aceptar o cumplir las recomendaciones emitidas, son suficientes, y hará saber dicha circunstancia por escrito a la propia autoridad o servidor público y, en su caso, a sus superiores jerárquicos, para los efectos del siguiente inciso;
+
+c) Las autoridades o servidores públicos, a quienes se les hubiese notificado la falta absoluta de la fundamentación y motivación de la negativa, informarán dentro de los quince días hábiles siguientes a la notificación del escrito referido en el inciso que antecede, si persisten o no en la posición de no aceptar o no cumplir la recomendación, y
+
+d) Si persiste la negativa, la Comisión podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda a los servidores públicos señalados en la recomendación como responsables.
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -645,13 +849,17 @@ La Recomendación o en su caso, el Acuerdo de No Responsabilidad, deberán ser n
 
 La Comisión notificará inmediatamente a los quejosos o denunciantes, los resultados de sus investigaciones, la recomendación que se haya dirigido a las autoridades o servidores públicos responsables de las violaciones respectivas, la aceptación o no aceptación y la ejecución que se haya dado a la misma y, en su caso, el acuerdo de no responsabilidad.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 64.
 
-El Presidente de la Comisión estará facultado para publicar, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión. En casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
+El Presidente de la Comisión, en términos de la legislación aplicable, estará facultado para publicar, en su totalidad o en forma resumida, las recomendaciones y los acuerdos que establece la presente ley, en casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 65.
 
-Los informes anuales del Presidente deberán remitirse a la Legislatura y comprenderán una descripción del número y características de las quejas y denuncias que se hayan presentado; los efectos de la labor de conciliación y mediación; las investigaciones realizadas, las recomendaciones y los acuerdos de no responsabilidad que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes dentro de las actividades de capacitación, difusión y promoción de los derechos humanos.
+Los informes anuales del Presidente deberán remitirse a la Legislatura dentro de los primeros tres meses del año, y comprenderán una descripción del número y características de las quejas y denuncias que se hayan presentado; los efectos de la labor de conciliación y mediación; las investigaciones realizadas, las recomendaciones, los acuerdos de no responsabilidad y las resoluciones que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes dentro de las actividades de capacitación, difusión y promoción de los derechos humanos.
 
 Asimismo, el informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos competentes, tanto federales, como estatales y municipales, para promover la expedición o modificación de disposiciones legales y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes, con el objeto de tutelar de manera más efectiva los derechos humanos de los gobernados y lograr una mayor eficiencia en la actuación de los servidores públicos.
 
@@ -696,6 +904,14 @@ Además de las denuncias sobre los delitos y faltas administrativas en que pueda
 ###### Artículo 72.
 
 El personal que preste sus servicios a la Comisión se regirá por las disposiciones de la Ley de los Trabajadores al Servicio de los Poderes Ejecutivo, Legislativo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo. Todos los servidores públicos que integren la planta de la Comisión, son trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+Se establecerá un sistema de servicio profesional de carrera, a efecto de garantizar el ingreso, desarrollo y permanencia en el servicio público de la Comisión, en igualdad de oportunidades y con base en el mérito, a fin de impulsar la eficiencia y eficacia de la gestión pública para beneficio de la sociedad.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
+Para tal efecto, en el reglamento respectivo se establecerán las bases para el cumplimiento de lo dispuesto en el párrafo anterior.
 
 T R A N S I T O R I O S
 
@@ -750,3 +966,23 @@ P.O. 6 DE SEPTIEMBRE DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El próximo Presidente de la Comisión de los Derechos Humanos del Estado de Quintana Roo, será nombrado mediante mecanismo de consulta pública y transparente, en los términos del presente Decreto, dentro de los 60 días naturales posteriores a la entrada en vigor del mismo.
+
+Por única ocasión, a quien se nombre Presidente de la Comisión de los Derechos Humanos del Estado de Quintana Roo, de conformidad a lo establecido en el párrafo anterior, concluirá su encargo el 26 de enero de 2018.
+
+TERCERO. Los seis Integrantes del Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo serán nombrados mediante mecanismo de consulta pública y transparente, en los términos del presente Decreto, dentro de los 120 días naturales posteriores a la entrada en vigor del mismo.
+
+En tanto se designan los Consejeros del Consejo Consultivo seguirán en el encargo los que actualmente están en funciones.
+
+CUARTO. Dentro del término de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá emitirse el reglamento respectivo que refiere el tercer párrafo del artículo 72 del presente Decreto.
+
+QUINTO. El actual Secretario Ejecutivo de la Comisión, concluirá con su encargo a los 30 días naturales siguientes a la entrada en vigor del presente Decreto, para tal efecto, deberá preverse por parte de la Comisión, la disponibilidad presupuestaria para su liquidación que por derecho le corresponda.
+
+SEXTO. Toda ley o decreto, que haga referencia a la Comisión de Derechos Humanos del Estado de Quintana Roo, se entenderá por ésta, a la Comisión de los Derechos Humanos del Estado de Quintana Roo.
+
+SÉPTIMO. Se derogan las disposiciones legales vigentes que se opongan al presente Decreto.
