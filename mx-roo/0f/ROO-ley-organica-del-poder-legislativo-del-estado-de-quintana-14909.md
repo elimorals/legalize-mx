@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2013-07-30"
+last_updated: "2014-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -227,9 +227,9 @@ XXVI.- Aprobar o rechazar las concesiones otorgadas por el Ejecutivo.
 
 XXVII.- Nombrar y remover libremente a sus empleados y a los de la Contaduría Mayor de Hacienda.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
-XXVIII.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada a más tardar el día 5 de abril, posterior al año del ejercicio fiscal que corresponda.
+XXVIII.- Examinar, aprobar y sancionar, en su caso, la Cuenta Pública de las entidades fiscalizables señaladas en la Ley del Órgano de Fiscalización Superior del Estado;
 
 XXIX.- Aprobar las Leyes de Ingresos Municipal y Estatal y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas.
 
@@ -1799,9 +1799,9 @@ La Legislatura conocerá de la suspensión y desaparición de los Ayuntamientos;
 
 ###### ARTICULO 159.
 
-La Legislatura, por conducto de la Dirección de Archivo General y Biblioteca mandará publicar, con la periodicidad que fije el Reglamento respectivo, un “DIARIO DE LOS DEBATES”, que será el órgano oficial del Poder Legislativo del Estado, en el que se publicarán los debates que en las sesiones se produjeren. En él se consignarán la fecha, el sumario, el nombre del Diputado que presida la sesión y el período al que corresponda, así como la transcripción fiel de la sesión y versión exacta de las discusiones en el orden en que se desarrollen. También se insertarán todos los documentos a los que se les dé lectura en las sesiones.
+La Legislatura, por conducto de la Dirección de Archivo General y Biblioteca mandará publicar, con la periodicidad que fije el Reglamento respectivo, un "DIARIO DE LOS DEBATES", que será el órgano oficial del Poder Legislativo del Estado, en el que se publicarán los debates que en las sesiones se produjeren. En él se consignarán la fecha, el sumario, el nombre del Diputado que presida la sesión y el período al que corresponda, así como la transcripción fiel de la sesión y versión exacta de las discusiones en el orden en que se desarrollen. También se insertarán todos los documentos a los que se les dé lectura en las sesiones.
 
-Las discusiones y documentos relacionados con las sesiones de carácter secreto, se editarán en números especiales del “DIARIO DE LOS DEBATES”, a los cuales no se les dará publicidad ni se permitirá su circulación, debiendo resguardarse en el secreto del archivo de la Legislatura, para consulta exclusiva de los Diputados.
+Las discusiones y documentos relacionados con las sesiones de carácter secreto, se editarán en números especiales del "DIARIO DE LOS DEBATES", a los cuales no se les dará publicidad ni se permitirá su circulación, debiendo resguardarse en el secreto del archivo de la Legislatura, para consulta exclusiva de los Diputados.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -2024,3 +2024,7 @@ TERCERO. El Tribunal Electoral, el Instituto Electoral, el Instituto de Transpar
 P.O. 30 DE JULIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor, previa su publicación en el Periódico Oficial del Estado de Quintana Roo, cuando inicie su vigencia el Decreto por el que se reforma la denominación del Título Segundo, derogando sus actuales capítulos Primero y Segundo, quedando en su lugar un Capítulo Único al Título Segundo denominado "De los Derechos Humanos y sus Garantías"; y los Artículos 7, 12, 75, 90, 94 y 96 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+P.O. 27 DE FEBRERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
