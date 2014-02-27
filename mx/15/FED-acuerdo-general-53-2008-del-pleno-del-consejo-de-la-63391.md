@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-53-2008-del-pleno-del-consejo-de-la-63391"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-03"
-last_updated: "2012-01-18"
+last_updated: "2014-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-10"
 
 ACUERDO GENERAL 53/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SEXTA REGIÓN, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de octubre de 2008.
 
@@ -55,17 +55,15 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, conformado por un tribunal colegiado Auxiliar, un tribunal unitario y un juzgado de Distrito Auxiliar, y su domicilio será el ubicado en calle de Uruguay y la avenida Mirador número 6500, Fraccionamiento Campestre Washington, código postal 31236, Chihuahua, Chihuahua, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 1/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE FEBRERO DE 2014)</small>
+
+PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, conformado por un tribunal unitario y un juzgado de Distrito Auxiliar y su domicilio será el ubicado en calle de Uruguay y la avenida Mirador número 6500, fraccionamiento Campestre Washington, código postal 31215, Chihuahua, Chihuahua, los cuales tendrán jurisdicción en toda (sic) república y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 Juzgado de Distrito del Centro Auxiliar de la Sexta Región.
 
 El tribunal unitario se denominará:
 
 Tribunal Unitario de Circuito del Centro Auxiliar de la Sexta Región.
-
-El tribunal colegiado se denominará:
-
-Tribunal Colegiado de Circuito del Centro Auxiliar de la Sexta Región.
 
 SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua.
 
@@ -107,7 +105,7 @@ Los titulares o presidente de los órganos jurisdiccionales comisionarán, de su
 
 SEXTO. PLANTILLAS. Las plantillas de los órganos jurisdiccionales serán las siguientes:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 SEPTIMO. ESTADISTICA E INFORMES. Los titulares de los órganos jurisdiccionales que integran el Centro Auxiliar de la Sexta Región, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística y Planeación Judicial y a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
 
@@ -156,3 +154,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, a los Acuerdos Generales 10/2008, 18/2008, 27/2008, 52/2008, 53/2008, 54/2008, 20/2009, 51/2009, 54/2009, 32/2010 y 33/2011, relativos a la Creación de cada uno de los once Centros Auxiliares Regionales.
+
+D.O.F. 27 DE FEBRERO DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 53/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
