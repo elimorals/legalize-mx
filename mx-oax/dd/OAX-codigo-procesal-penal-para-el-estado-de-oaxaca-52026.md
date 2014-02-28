@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2013-12-20"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR SUCESIVAMENTE EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -5245,9 +5245,11 @@ Si se suscita controversia sobre la restitución o su forma, se dispondrá que l
 
 ## ARTICULOS TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
-PRIMERO. Este Código entrará en vigor sucesivamente en las regiones del Estado de la siguiente manera: doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado en la región del Istmo; dos años después de su publicación en la región Mixteca; el 9 de Mayo de 2012 en la región de la Costa; el 27 de Septiembre de 2013 en la región de la Cuenca, y a partir de esta última fecha consecutivamente, cada año siguiente, en las regiones de Valles Centrales, Cañada, Sierra Norte y Sierra Sur. En caso de que las partidas presupuestales lo permitan los periodos para que entre en vigencia podrán reducirse, previo decreto de la Cámara de Diputados.
+PRIMERO. Este Código entrará en vigor sucesivamente en las regiones del Estado de la siguiente manera: doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca en la región del Istmo, dos años después de su publicación en la región de la Mixteca; el 9 de mayo de 2012 en la región de la Costa; el 27 de septiembre de 2013 en la región de la Cuenca; el 17 de noviembre de 2014 en la región de la Cañada; el 17 de noviembre de 2015 en las regiones de la Sierra Sur y Sierra Norte y por último el 18 de junio de 2016 en la región de Valles Centrales.
+
+En caso de que las partidas presupuestales lo permitan, los periodos para que entre en vigencia en las tres últimas regiones, podrán anticiparse por acuerdo del Consejo de Coordinación para la implementación del Sistema Acusatorio en el Estado de Oaxaca.
 
 SEGUNDO. Derogaciones
 
@@ -5462,3 +5464,7 @@ P.O. 20 DE DICIEMBRE DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+P.O. 28 DE FEBRERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
