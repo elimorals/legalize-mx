@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interno-de-la-comision-de-derechos-humanos-del-17825
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-02"
-last_updated: "2005-01-31"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
+REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 2 de agosto de 2000.
 
@@ -853,10 +855,18 @@ SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 
 H. Puebla de Zaragoza, a 18 de abril de 2000.- Presidente de la Comisión.- LIC JAIME JUÁREZ HERNÁNDEZ.- Rúbrica.- Consejeros: QUÍMICA MARINA SENTÍES LAVALLE.- Rúbrica.- LICENCIADO JOSÉ MANUEL RODOREDA ARTASÁNCHEZ.- Rúbrica.- LICENCIADO JUAN JOSÉ BARRIENTOS GRANDA.- Rúbrica.- PROFESORA HILDA LUISA VALDEMAR LIMA.- Rúbrica.- LICENCIADO ÁLVARO ZAMBRANO VÁZQUEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE ENERO DE 2005.
 
 Artículo Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Cumplido lo anterior, publíquese en la Gaceta correspondiente, instrumento de difusión de este Organismo.
+
+P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO.- Se abroga el Reglamento Interno de la Comisión de Derechos Humanos del Estado de Puebla, publicado en el Periódico Oficial del Estado el 2 de agosto del 2000.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Los asuntos en trámite anteriores a la publicación del presente Reglamento, seguirán su curso de acuerdo al Reglamento vigente en la fecha en que se iniciaron.
