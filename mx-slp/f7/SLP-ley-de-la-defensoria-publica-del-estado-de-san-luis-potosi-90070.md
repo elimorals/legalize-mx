@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-defensoria-publica-del-estado-de-san-luis-potosi-9007
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-06"
-last_updated: "2012-10-06"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL TREINTA DE SEPTIEMBRE DEL AÑO MIL CATORCE, PREVIA SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de octubre de 2012.
 
@@ -925,7 +927,11 @@ La Coordinación General y la Visitaduría General, deberán recibir cualquier q
 
 T R A N S I T O R I O S
 
-PRIMERO. El presente Decreto entrará en vigor el uno de marzo del dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+PRIMERO. El presente Decreto entrará en vigor el treinta de septiembre del año dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
@@ -954,3 +960,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
