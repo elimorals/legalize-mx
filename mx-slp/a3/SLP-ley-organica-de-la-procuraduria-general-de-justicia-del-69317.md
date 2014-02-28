@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-69317"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-07"
-last_updated: "2013-10-24"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 24 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL UNO DE MARZO DEL AÑO DOS MIL CATORCE.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 24 DE OCTUBRE DE 2013 Y ACTUALIZADOS POR EL ARTÍCULO 3° DEL DECRETO 527, PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL TREINTA DE SEPTIEMBRE DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 7 de julio de 2009.
 
@@ -2595,7 +2595,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
 
 P.O. 24 DE OCTUBRE DE 2013.
 
-PRIMERO. Esta Ley entrará en vigor el uno de marzo del año dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+(REFORMADO P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el treinta de septiembre del año dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Con la entrada en vigor de este Decreto se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado, publicada en el Periódico Oficial del Estado, como Decreto Legislativo 808, el seis de marzo del dos mil diez.
 
@@ -2620,3 +2622,9 @@ SEXTO. Los procedimientos de responsabilidad administrativa iniciados con antela
 SÉPTIMO. Los agentes del Ministerio Público, los agentes de la Policía Ministerial del Estado, y los peritos que, a la entrada en vigor del presente Ordenamiento se encuentren laborando en la Procuraduría General de Justicia del Estado, se someterán a las disposiciones del Servicio de Carrera de Procuración General de Justicia del Estado, previstas en este Decreto y demás disposiciones que se expidan para tal efecto.
 
 OCTAVO. El Ejecutivo del Estado deberá disponer las previsiones necesarias en la Ley del Presupuesto de Egresos para el Ejercicio Fiscal 2014, para el cumplimiento de las disposiciones contenidas en este Decreto.
+
+P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
