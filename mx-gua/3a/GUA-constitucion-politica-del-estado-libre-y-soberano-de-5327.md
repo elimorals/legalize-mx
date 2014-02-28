@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2013-12-20"
+last_updated: "2014-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -148,6 +148,14 @@ La educación que imparta el Estado tenderá a desarrollar armónicamente, todas
 Ninguna persona requerirá de título para la enseñanza en cualquier rama del saber, pero para prestar instrucción como servicio al público, deberá cumplir los requisitos que establezcan las leyes.
 
 Las leyes respectivas, determinarán las profesiones que requerirán de título para su ejercicio, las condiciones para obtenerlo, las instituciones que han de expedirlo y registrarlo, así como las sanciones que deban imponerse a quienes ejerzan una profesión sin cumplir los requisitos legales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE FEBRERO DE 2014)</small>
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La Ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE FEBRERO DE 2014)</small>
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -1153,11 +1161,11 @@ V.- Los decretos que abroguen o deroguen una Ley en cumplimiento a un proceso de
 
 Todo Proyecto de Ley o Decreto que fuere desechado por el Congreso, no podrá volver a ser presentado en el mismo Período de Sesiones.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 61.
 
-Las Leyes, Reglamentos, Circulares o cualesquiera otras disposiciones de observancia general obligan y surten sus efectos en el día o término que señalen, con tal de que se publiquen en el Periódico Oficial del Gobierno del Estado de Guanajuato y éste circule desde su fecha, cuando menos tres días antes de la fecha fijada para que aquéllas entren en vigor.
+Las Leyes, Reglamentos, Circulares y cualesquiera otras disposiciones de observancia general obligan y surten sus efectos en el día o término que señalen, siempre que se publiquen en el Periódico Oficial del Gobierno del Estado de Guanajuato; de no señalarse día o término, iniciará su vigencia al día siguiente de su publicación en ese medio oficial.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -3624,3 +3632,15 @@ En el supuesto de que existan asuntos en la Secretaría de la Transparencia y Re
 P.O. 20 DE DICIEMBRE DE 2013.
 
 Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 28 DE FEBRERO DE 2014.
+
+DECRETO NÚMERO 157 POR EL QUE SE REFORMA EL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 28 DE FEBRERO DE 2014.
+
+DECRETO NÚMERO 159 POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
