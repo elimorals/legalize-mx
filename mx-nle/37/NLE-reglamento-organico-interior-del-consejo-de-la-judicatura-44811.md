@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2012-04-06"
+last_updated: "2014-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -39,7 +39,9 @@ I N D I C E
 
 ### CAPITULO I Del Pleno
 
-### CAPITULO II Del Presidente. CAPITULIO III De los Consejeros
+### CAPITULO II Del Presidente
+
+### CAPITULO III De los Consejeros
 
 ### CAPITULO IV De las Comisiones. Sección 1ª. De la Comisión de Disciplina (y Creación de Nuevos Órganos)
 
@@ -65,6 +67,8 @@ Sección 5ª. Del Centro Estatal de Métodos Alternos para la Solución de Confl
 
 ### CAPÍTULO IX Del Área de Modernización Tecnológica
 
+## TITULO TERCERO. Funciones De Vigilancia, Disciplina y Carrera Judicial
+
 ### CAPITULO I De la Función de Vigilancia. Sección 1ª. Generalidades de las visitas de inspección
 
 Sección 2ª. De las Visitas Ordinarias
@@ -79,8 +83,6 @@ Sección 6ª. De las Visitas Extraordinarias
 
 Sección 7ª. De las actas de las Visitas de inspección
 
-## TITULO TERCERO. Funciones De Vigilancia, Disciplina y Carrera Judicial
-
 ### CAPITULO II De la Función de Disciplina
 
 ### CAPITULO III De la Carrera Judicial. Sección 1ª. Del ingreso y promoción
@@ -93,41 +95,39 @@ Sección 4ª. De la confirmación de Jueces
 
 Sección 5ª. De los Estímulos
 
-### Capítulo Único. De los Impedimentos
-
 ## TITULO CUARTO
 
-### Capítulo Único. De la Protesta Constitucional
+### Capítulo Único. De los Impedimentos
 
 ## TITULO QUINTO
 
-### Capítulo Único. De los días inhábiles, vacaciones y licencias
+### Capítulo Único. De la Protesta Constitucional
 
 ## TITULO SEXTO
 
-### Capítulo Único. De la Oficialía de Partes
+### Capítulo Único. De los días inhábiles, vacaciones y licencias
 
 ## TITULO SÉPTIMO
 
-### Capítulo Único. Del Archivo Judicial
+### Capítulo Único. De la Oficialía de Partes
 
 ## TITULO OCTAVO
 
-### Capítulo Único. De la Biblioteca del Poder Judicial
+### Capítulo Único. Del Archivo Judicial
 
 ## TITULO NOVENO
+
+### Capítulo Único. De la Biblioteca del Poder Judicial
+
+## TITULO DÉCIMO
 
 ### Capítulo Único. De las Reformas al Reglamento Interior
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO.
 
-## TITULO DÉCIMO
-
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
-
 ## TITULO PRIMERO
 
-### CAPITULO PRIMERO (SIC). DEL PLENO
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
@@ -215,7 +215,7 @@ Las notificaciones de las resoluciones del Pleno y de las Comisiones, en su caso
 
 ## TITULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
 
-### CAPITULO II. DEL PRESIDENTE
+### CAPITULO PRIMERO (SIC). DEL PLENO
 
 ###### Artículo 5.
 
@@ -383,7 +383,7 @@ XL.- Admitir o desechar las quejas administrativas y denuncias que se presenten 
 
 XLI.- Las demás que se deriven de los ordenamientos jurídicos aplicables y de los acuerdos que emanen de Consejo.
 
-### CAPITULO III. DE LOS CONSEJEROS
+### CAPITULO II. DEL PRESIDENTE
 
 ###### Artículo 20.
 
@@ -429,7 +429,7 @@ XVIII Las demás que establezcan las Leyes y demás ordenamientos jurídicos o e
 
 Tratándose de las ausencias del Presidente que no requieran licencia, el mismo será suplido por quien haga sus veces como Presidente del Tribunal en los términos de la Ley Orgánica.
 
-### CAPITULO IV. DE LAS COMISIONES
+### CAPITULO III. DE LOS CONSEJEROS
 
 ###### Artículo 22.
 
@@ -507,7 +507,7 @@ Cuando un Consejero advierta que hay contradicción de criterios generales suste
 
 En caso de ausencia temporal o definitiva de un Consejero, salvo su intervención en las sesiones del Pleno, será suplido en orden alfabético y de manera rotativa por el Consejero que le corresponda, conforme al turno que se lleve en la Secretaría General.
 
-### CAPITULO V. DE LA SECRETARIA GENERAL DEL PLENO
+### CAPITULO IV. DE LAS COMISIONES
 
 ###### Artículo 27.
 
@@ -745,11 +745,7 @@ c) Revisar periódicamente los cursos de informática que se brinden a los servi
 
 d) Supervisar las medidas de seguridad y resguardos de la información almacenada en los equipos de cómputo del Poder Judicial, y vigilar el uso debido de las licencias de software instaladas.
 
-### CAPITULO VI. DE LOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA DE LA JUDICATURA (SIC)
-
-Sección 1ª.
-
-GENERALIDADES
+### CAPITULO V. DE LA SECRETARIA GENERAL DEL PLENO
 
 ###### Artículo 45.
 
@@ -807,7 +803,11 @@ XXIII.- Las demás que determinen las disposiciones jurídicas y las que le sean
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO VIII (SIC). DE LA ADMINISTRACIÓN Y TESORERIA
+### CAPITULO VI. DE LOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA DE LA JUDICATURA (SIC)
+
+Sección 1ª.
+
+GENERALIDADES
 
 ###### Artículo 47.
 
@@ -945,67 +945,23 @@ Sección 3ª.
 
 DEL INSTITUTO DE LA JUDICATURA
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 57.
 
-El Instituto de la Judicatura es el órgano auxiliar del Consejo que tendrá a su cargo lo siguiente:
-
-I.- La formación, capacitación y actualización de los servidores públicos del Poder Judicial;
-
-II.- La realización de trabajos de investigación jurídica, y
-
-III.- La administración de la Biblioteca del Poder Judicial.
+El Instituto de la Judicatura es un órgano auxiliar del Consejo, cuya dirección, administración y funcionamiento se regirá por lo dispuesto en su propia reglamentación interna.
 
 ###### Artículo 58.
 
-El Instituto de la Judicatura lo integran: el Director, los miembros del Comité Académico y demás personal técnico y administrativo que el Pleno determine conforme al presupuesto.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 59.
 
-El Director del Instituto además de reunir los requisitos previstos en el artículo 94 de la ley, deberá tener amplia experiencia en las áreas jurídica y académica.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 60.
 
-Son atribuciones del Director del Instituto:
-
-I.- Elaborar y presentar al Pleno para su aprobación los planes y programas de preparación, capacitación y actualización de los servidores públicos del Poder Judicial que integran el Sistema de Carrera Judicial, que serán los alumnos del Instituto, cumpliendo con los objetivos previstos en el artículo 97 de la ley;
-
-II.- Formular y realizar los programas y trabajos de investigación jurídica que apruebe el Consejo;
-
-III.- Presentar al Pleno para su aprobación el proyecto de bases conforme a las cuales se llevarán a cabo los concursos de oposición previstos en la ley;
-
-IV.- Organizar y realizar los concursos a que se refiere la fracción anterior conforme a las bases aprobadas, informando al Pleno acerca de los avances y resultados de cada etapa de aquéllos;
-
-V.-Participar en calidad de jurado en los concursos de oposición convocados por el Consejo, cuando éste así lo determine;
-
-VI.- Planear, organizar y llevar a cabo la aplicación de los exámenes de aptitud para las diversas categorías que en términos de la ley requieran su acreditamiento;
-
-VII.- Proponer al Pleno los planes y acciones para llevar y mantener actualizados los enlistados a que se refiere el artículo 132 de la ley;
-
-VIII.- Coadyuvar con la Comisión de Carrera Judicial en reuniones de trabajo y congresos aprobados por el Consejo;
-
-IX.- Elaborar los lineamientos que permitan la designación de los jueces y otros servidores públicos del Poder Judicial que deban acudir a cursos y seminarios a nivel nacional e internacional;
-
-X.- Mantener comunicación con otros institutos de capacitación nacionales e internacionales, para propiciar intercambios académicos que favorezcan el cumplimiento de los objetivos del Instituto;
-
-XI.- Celebrar por acuerdo del Consejo los convenios necesarios con instituciones académicas para promover tanto el ingreso, como la capacitación, actualización y especialización de quienes forman la carrera judicial;
-
-XII.- Rendir los informes que le sean solicitados por el Pleno, Consejeros o Comisiones del Consejo;
-
-XIII.- Velar por que sea observado el orden y respeto entre los integrantes del Instituto, y de éstos hacia los demás servidores públicos del Poder Judicial con quienes tenga relación con motivo de sus actividades;
-
-XIV.- Comunicar al Pleno el impedimento legal que tenga tanto el como los miembros del Comité Académico para fungir como jurado en los concursos de oposición;
-
-XV.- Realizar reuniones periódicas de trabajo, planeación y definición de criterios con los miembros del Comité Académico y demás personal del Instituto;
-
-XVI.- Manejar el archivo del Instituto y tomar las medidas adecuadas para evitar el extravío de expedientes que estén bajo su cuidado, observando que los mismos sean debidamente foliados;
-
-XVII.- Supervisar al personal adscrito al Instituto y vigilar que el mismo cumpla con sus deberes;
-
-XVIII.- Proponer al Pleno la aprobación del Reglamento Interior del Instituto;
-
-XIX.- Rendir bimestralmente al Pleno informe detallado de labores, y
-
-XX.- Las demás que le confieran la Ley, este Reglamento, los acuerdos del Pleno y otras disposiciones aplicables.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 Sección 4ª
 
@@ -1119,11 +1075,7 @@ XI. Vigilar, rescatar y preservar el patrimonio cultural del Poder Judicial del 
 
 XII. Las demás que le sean encomendadas.
 
-### CAPITULO IX
-
-DE LA DIRECCIÓN DE INFORMÁTICA.
-
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+### CAPITULO VIII (SIC). DE LA ADMINISTRACIÓN Y TESORERIA
 
 ###### Artículo 61.
 
@@ -1375,11 +1327,11 @@ Artículo 63 bis XXV.- La falta injustificada por más de tres veces consecutiva
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE AGOSTO DE 2009)</small>
 
-### CAPITULO I. DE LA FUNCION DE VIGILANCIA
+### CAPITULO IX
 
-Sección 1ª.
+DE LA DIRECCIÓN DE INFORMÁTICA.
 
-GENERALIDADES DE LAS VISITAS DE INSPECCIÓN
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 64.
 
@@ -1435,15 +1387,15 @@ XIX.- Las demás que se deriven de la Ley u otras disposiciones de carácter gen
 
 Artículo 65 bis.- La Dirección de Informática estará a cargo de un Director, que deberá ser profesionista en ingeniería de sistemas, o carrera afín, y deberá satisfacer los siguientes requisitos: ser ciudadano mexicano en pleno ejercicio de sus derechos político y civiles; tener experiencia mínima de tres años al día de su nombramiento, y no haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículos, salvo que se haya cometido bajo los influjos del alcohol, o de alguna droga enervante. Será designado por el Pleno, a propuesta del Presidente.
 
-### CAPITULO II. DE LA FUNCION DE DISCIPLINA
-
-## TITULO TERCERO. FUNCIONES DE VIGILANCIA, DISCIPLINA Y CARRERA JUDICIAL
-
-### CAPITULO III. DE LA CARRERA JUDICIAL
+### CAPITULO I. DE LA FUNCION DE VIGILANCIA
 
 Sección 1ª.
 
-DEL INGRESO Y PROMOCIÓN
+GENERALIDADES DE LAS VISITAS DE INSPECCIÓN
+
+## TITULO TERCERO. FUNCIONES DE VIGILANCIA, DISCIPLINA Y CARRERA JUDICIAL
+
+### CAPITULO II. DE LA FUNCION DE DISCIPLINA
 
 ###### Artículo 66.
 
@@ -1745,6 +1697,12 @@ Previamente a la remisión del acta, el Secretario General expedirá copias cert
 
 El contenido del acta de visita podrá ser capturado en el programa de computación que el Visitador General determine y respaldado en un disquete, el cual será remitido al Pleno, junto con el tanto a que se refiere el artículo anterior.
 
+### CAPITULO III. DE LA CARRERA JUDICIAL
+
+Sección 1ª.
+
+DEL INGRESO Y PROMOCIÓN
+
 ###### Artículo 95.
 
 Las quejas y denuncias formuladas en contra de los servidores públicos del Poder Judicial, se les dará el trámite previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás disposiciones legales aplicables, con la excepción prevista en la fracción V del artículo 18 de la Ley Orgánica del Poder Judicial, para que conozca el Consejo de la Judicatura.
@@ -1806,6 +1764,8 @@ Las quejas o denuncias contra uno de los Consejeros serán instruidas y resuelta
 ###### Artículo 109.
 
 El Pleno del Consejo ordenará agregar al expediente administrativo del servidor público copia de la queja o denuncia y de la resolución recaída a la misma, en los casos en que sea procedente la responsabilidad administrativa. Igual determinación tomará cuando la resolución derive de un procedimiento de responsabilidad administrativa instaurado de oficio.
+
+### CAPITULO IV. De los Estímulos
 
 ###### Artículo 110.
 
@@ -2059,9 +2019,11 @@ Si el Pleno estima improcedente el inicio del procedimiento de confirmación del
 
 De ser procedente el inicio del procedimiento de confirmación, el Pleno solicitará del Tribunal la opinión correspondiente.
 
+> <small>(DEROGADA, P.O. 28 DE FEBRERO DE 2014)</small>
+
 Sección 5ª.
 
-DE LOS ESTÍMULOS
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 143.
 
@@ -2101,71 +2063,53 @@ El Consejo de la Judicatura publicará una semblanza de los servidores públicos
 
 El Consejo de la Judicatura podrá abstenerse de otorgar distinción en una o varias categorías cuando el Pleno así lo estime conveniente.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 149.
 
-Los magistrados y Jueces que pretendan realizar estudios de postgrado en la Universidad Autónoma de Nuevo León, podrán solicitar el otorgamiento de becas. Dichas solicitudes serán resueltas por el Pleno del Consejo de la Judicatura, atendiendo las disponibilidades presupuestarias.
+El Consejo de la Judicatura podrá establecer programas de becas, los cuales se sujetarán a los lineamientos previstos en el Reglamento Interno del Instituto de la Judicatura.
 
 ###### Artículo 150.
 
-Las becas serán otorgadas en el porcentaje que permitan los recursos presupuestales; siempre y cuando se cumplan los siguientes requisitos:
-
-I.- Presentar una estadística de los asuntos pendientes de resolución, despachados y en trámite con que cuenten;
-
-II.- Haber tomado al menos un curso de los impartidos por el Instituto de la Judicatura;
-
-III.- Tener cinco años de antigüedad en el Poder Judicial;
-
-IV.- No haber sido declarada responsabilidad administrativa grave en su contra, y
-
-V.- Que la materia del curso esté relacionada con la administración de justicia.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 151.
 
-Para el otorgamiento de becas, deberá dirigirse solicitud por escrito al Consejo, la cual contendrá lo siguiente:
-
-I.- Nombre de la institución que imparta el curso;
-
-II.- Programa de estudios;
-
-III.- Documentos que acrediten encontrarse inscritos, o bien, que se encuentra en trámite la inscripción, o que existe disponibilidad para ésta, y
-
-IV.- Razones por las cuales pretende tomar el curso.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 152.
 
-De acuerdo a la disponibilidad presupuestal, el Consejo de la Judicatura podrá determinar el otorgamiento de becas y apoyos en general para estudios, a los servidores públicos comprendidos en las fracciones III a VI del artículo 126 de la Ley Orgánica.
-
-Los apoyos consistirán en descuentos y otros beneficios que el Consejo convenga con diversas instituciones.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 153.
 
-Las becas y apoyos generales serán otorgados en el porcentaje que permitan los recursos presupuestales, siempre y cuando se cumplan los requisitos previstos en este Reglamento, y en el caso de secretarios y actuarios se presente además propuesta del titular del órgano jurisdiccional en que se desempeñan, acompañada de constancia de estar al corriente en el despacho de sus asuntos.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 154.
 
-No se otorgarán becas o apoyos a más de uno de los servidores públicos del mismo órgano jurisdiccional, salvo que se determine por el Consejo que el curso para el cual son concedidos, no afectará el rendimiento del órgano jurisdiccional, y se cuente con recursos presupuestales en la partida correspondiente.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 155.
 
-El Consejo de la Judicatura, determinará el monto y número de becas que es posible otorgar, resolviendo en definitiva respecto de las becas y apoyos para estudios, con relación al porcentaje a otorgar.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 156.
 
-En el supuesto de que se formulen dos o más solicitudes provenientes del mismo órgano jurisdiccional, se preferirá al solicitante que tenga mayores méritos, atendiendo a su antigüedad y desempeño.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 157.
 
-Durante la realización de los cursos, el servidor público remitirá al Consejo de la Judicatura copia certificada de los documentos que acrediten sus estudios, asistencia a clases, que no deberá ser menor al noventa porciento (sic), así como las calificaciones que obtuvo, que tendrán que alcanzar un mínimo de ocho.
-
-El informe sobre la calificación deberá rendirse dentro de los quince días siguientes a la práctica de los exámenes que realice la institución.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 158.
 
-La beca se suspenderá cuando el servidor público no cumpla con la obligación prevista en el artículo anterior.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 159.
 
-El Pleno del Consejo de la Judicatura podrá acordar el otorgamiento de otra clase de estímulos a los servidores públicos a que se refiere esta sección.
+El Pleno del Consejo de la Judicatura podrá acordar el otorgamiento de otra clase de estímulos a los servidores públicos del Poder Judicial.
 
 ## TITULO CUARTO. DE LOS IMPEDIMENTOS
 
@@ -2289,49 +2233,37 @@ El Consejo a través del manual operativo correspondiente precisará los aspecto
 
 ## TITULO NOVENO. DE LA BIBLIOTECA DEL PODER JUDICIAL
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 179.
 
-En el Consejo de la Judicatura habrá una Biblioteca que será administrada por el Instituto de la Judicatura, cuyo titular será designado por el Pleno, al igual que el personal necesario que autorice el presupuesto.
+En el Poder Judicial habrá una Biblioteca que será administrada por el Instituto de la Judicatura, cuyo titular será designado por el Pleno del Consejo, al igual que el personal necesario que autorice el presupuesto.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 180.
 
-El titular de la Biblioteca tendrá las siguientes funciones:
-
-I.- Formar un índice alfabético, por títulos y autores, de los libros, documentos y demás material de consulta que obre en la Biblioteca, así como un inventario general de muebles y útiles de la misma;
-
-II.- Ordenar las obras de la Biblioteca conforme al sistema de clasificación aprobado por el Instituto de la Judicatura;
-
-III.- Formar un catálogo clasificado de las obras y material con que cuente la Biblioteca y mantenerlo actualizado, enviando un ejemplar del mismo al Consejo y otro al Tribunal;
-
-IV.- Conservar en buen estado los libros y demás material de consulta, así como el mobiliario que estén bajo su custodia, dando cuenta al Instituto de los desperfectos que sufran;
-
-V.- Formar cada seis meses listas de obras y material nuevo que incremente el acervo de la Biblioteca, remitiéndolas al Instituto con el presupuesto respectivo;
-
-VI.- Presentar al Consejo un informe trimestral de actividades en que se muestre una estadística de los usuarios de la Biblioteca y de las obras más consultadas, y
-
-VII.- Las demás que establezcan las disposiciones legales y por acuerdo del Pleno del Consejo.
+El funcionamiento de la Biblioteca del Poder Judicial se regirá por lo dispuesto en el Reglamento Interno del Instituto de la Judicatura.
 
 ###### Artículo 181.
 
-El Instituto de la Judicatura con base en las listas a que se refiere la fracción V del artículo anterior, hará el dictamen correspondiente que someterá al Pleno del Consejo.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 182.
 
-El lugar o los lugares que ocupe la Biblioteca será el que determine el Consejo, atendiendo a la mayor comodidad y acceso que puedan tener sus usuarios y a las características idóneas que deba tener el local.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 183.
 
-La Biblioteca prestará sus servicios al personal de todas las áreas del Consejo, de las Salas del Tribunal y de los juzgados y demás personal del Poder Judicial.
-
-También podrán hacer consultas a los libros y demás documentos los litigantes o cualquier persona que acuda a las oficinas de la misma en el horario establecido.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 184.
 
-La biblioteca estará abierta todos los días hábiles en el horario de las nueve a las quince horas.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 185.
 
-Solamente a Magistrados, Jueces y demás funcionarios del Consejo de la Judicatura se les permitirá extraer de la Biblioteca algún libro o documento, bajo recibo firmado y por un término no mayor de un mes.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2014)
 
 ## TITULO DECIMO. DE LAS REFORMAS AL REGLAMENTO INTERIOR
 
@@ -2410,3 +2342,9 @@ P.O. 6 DE ABRIL DE 2012.
 PRIMERO.- Vigencia. Este Acuerdo General entrará en vigor, a partir del día siguiente al de su publicación en el Boletín Judicial.
 
 SEGUNDO.- Publicación. Para conocimiento de las autoridades, litigantes y público en general, publíquese este Acuerdo en el Boletín Judicial, así como en el Periódico Oficial del Estado.
+
+P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO.- Vigencia. Este Acuerdo General entrará en vigor a partir del día siguiente de su publicación en el Boletín Judicial del Estado.
+
+TERCERO (SIC).- Publicación. Para conocimiento de las autoridades, litigantes y público en general, publíquese el presente Acuerdo General en el Boletín Judicial del Estado, así como en el Periódico Oficial del Estado.
