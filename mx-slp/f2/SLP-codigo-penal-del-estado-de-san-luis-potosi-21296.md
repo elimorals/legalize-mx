@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2013-12-07"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL UNO DE MARZO DEL AÑO DOS MIL CATORCE.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, Y CON REFORMA DEL 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL TREINTA DE SEPTIEMBRE DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -4595,7 +4595,9 @@ TERCERO. El Ejecutivo del Estado expedirá en ciento veinte días los reglamento
 
 P.O. 16 DE OCTUBRE DE 2012.
 
-PRIMERO. El presente Decreto entrará en vigor el uno de marzo del año dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+PRIMERO. El presente Decreto entrará en vigor el treinta de septiembre del año dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Al entrar en vigor el presente ordenamiento, se abroga el Código Penal del Estado de San Luis Potosí, publicado en el Periódico Oficial el Estado en el Decreto 571, el treinta de septiembre del año dos mil.
 
@@ -4640,3 +4642,9 @@ P.O. 7 DE DICIEMBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones legales vigentes que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
