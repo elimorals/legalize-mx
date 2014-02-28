@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-responsabilidades-de-los-servidores-publicos-del-8189"
 country: "mx"
 rank: "ley"
 publication_date: "1989-03-09"
-last_updated: "1989-03-09"
+last_updated: "2014-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE FEBRERO DE 2014.
 
-Ley publicada en el Diario Oficial del Jueves 9 de Marzo de 1989.
+Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 9 de marzo de 1989.
 
 GOBIERNO DEL ESTADO
 
@@ -35,9 +35,7 @@ CIUDADANO LICENCIADO VICTOR MANZANILLA SCHAFFER, GOBERNADOR CONSTITUCIONAL DEL E
 
 QUE EL "LI" CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN D E C R E T A :
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES
-
-PUBLICOS DEL ESTADO DE YUCATAN
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN
 
 ## TITULO PRIMERO
 
@@ -375,9 +373,21 @@ XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones qu
 
 XX.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que puedan implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las normas que al efecto se expidan.
 
-XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público.
+> <small>(ADICIONADA, D.O. 28 DE FEBRERO DE 2014)</small>
 
-XXII.- Las demás que le impongan las leyes y reglamentos.
+XXI.- Proporcionar en forma oportuna y veraz, toda información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos. En el cumplimiento de esta obligación, además, el servidor público deberá permitir, sin demora, el acceso a los recintos o instalaciones, expedientes o documentación que la institución de referencia considere necesario revisar para el eficaz desempeño de sus atribuciones y corroborar, también, el contenido de los informes y datos que se le hubiesen proporcionado.
+
+> <small>(ADICIONADA, D.O. 28 DE FEBRERO DE 2014)</small>
+
+XXII.- Responder las recomendaciones que les presente la Comisión de Derechos Humanos del Estado de Yucatán, y en el supuesto de que se decida no aceptar o no cumplir las recomendaciones, deberá fundar, motivar y hacer pública su negativa en términos de lo dispuesto por los artículos 74 de la Constitución Política del Estado de Yucatán, y 93 de la Ley de la Comisión de Derechos Humanos del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIII.- Atender los llamados del Congreso del Estado o, en sus recesos, de la Diputación Permanente, a comparecer ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones de la Comisión de Derechos Humanos del Estado de Yucatán, en términos de lo dispuesto por el artículo 74 de la Constitución Política del Estado de Yucatán.
+
+XXIV.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público.
+
+XXV.- Las demás que le impongan las leyes y reglamentos.
 
 ###### ARTICULO 40º.
 
@@ -744,3 +754,15 @@ ING. MILTON RUBIO MADERA.
 EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 
 ABOG. JOSE JESUS ESQUIVEL CANTON
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 28 DE FEBRERO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
