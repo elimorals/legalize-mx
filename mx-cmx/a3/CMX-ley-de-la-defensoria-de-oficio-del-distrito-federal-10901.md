@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-defensoria-de-oficio-del-distrito-federal-10901"
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-17"
-last_updated: "2008-03-13"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10901&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1997-06-10"
 ---
 # LEY DE LA DEFENSORIA DE OFICIO DEL DISTRITO FEDERAL
 
-LEY DE LA DEFENSORIA DE OFICIO DEL DISTRITO FEDERAL
+LEY DE LA DEFENSORÍA DE OFICIO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A LOS NOVENTA DÍAS HÁBILES DESPUÉS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE FEBRERO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de junio de 1997 y republicada en el Diario Oficial de la Federación, el jueves 18 de junio de 1997.
 
@@ -863,3 +865,25 @@ El Juez de Paz Civil notificará personalmente a la parte agraviada para que den
 SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
 
 ...
+
+G.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Esta Ley entrará en vigor noventa días hábiles después de su publicación.
+
+TERCERO. Se abroga la Ley de la Defensoría de Oficio del Distrito Federal.
+
+CUARTO. Las personas que actualmente laboran con el cargo de Defensor de Oficio, con la entrada en vigor del presente decreto, recibirán la denominación de Defensores Públicos, sin perjuicio de sus derechos laborales o administrativos con los que cuenten. La sustitución de su denominación en los documentos administrativos y los que se elaboren con motivo de sus funciones se realizará de manera paulatina y progresiva por el área de recursos humanos.
+
+QUINTO. El Programa Anual de Capacitación se implementará cuando la Asamblea Legislativa del Distrito Federal, dote de suficiencia presupuestal a la Consejería Jurídica para el ejercicio fiscal 2014, en el Decreto de Presupuesto de Egresos para el Distrito Federal.
+
+SEXTO. Las percepciones de las personas defensoras públicas se homologarán a las de las personas agentes del Ministerio Público base de la Procuraduría General de Justicia del Distrito Federal, cuando la Asamblea Legislativa dote de suficiencia presupuestal a la Consejería Jurídica para el ejercicio fiscal 2014, en el Decreto de Presupuesto de Egresos para el Distrito Federal.
+
+SÉPTIMO. El Servicio Profesional de Carrera iniciará cuando la Asamblea Legislativa del Distrito Federal dote de suficiencia presupuestal a la Consejería Jurídica para el ejercicio fiscal 2014, en el Decreto de Presupuesto de Egresos para el Distrito Federal.
+
+OCTAVO. El Instituto de Capacitación de la Defensoría Pública iniciará operaciones cuando la Asamblea Legislativa del Distrito Federal dote de suficiencia presupuestal a la Consejería Jurídica para el ejercicio fiscal 2014, en el Decreto de Presupuesto de Egresos para el Distrito Federal.
+
+NOVENO. Las Unidades con las que cuenta actualmente la Defensoría de Oficio del Distrito Federal para la prestación del servicio seguirán funcionando hasta en tanto la Asamblea Legislativa del Distrito Federal, dote de suficiencia presupuestal a la Consejería Jurídica para el ejercicio fiscal 2014, en el Decreto de Presupuesto de Egresos para el Distrito Federal, para operar las Unidades Especializadas a que se refiere el artículo 26.
+
+DÉCIMO. El reglamento de esta ley deberá expedirse dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto.
