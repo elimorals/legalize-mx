@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-10-30"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE FEBRERO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -546,6 +546,38 @@ XIII. A la Oficialía Mayor:
 
 6.1 Dirección General de Mensaje y Nuevas Tecnologías.
 
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+7. Coordinación General de Modernización Administrativa.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+7.1 Dirección Ejecutiva de Arquitectura Organizacional.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+7.2 Dirección Ejecutiva de Diseño de Estrategias de Atención Ciudadana.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+7.3 Dirección Ejecutiva de Innovación, Evaluación del Desempeño Gubernamental y Uso Estratégico de la Información.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+7.4 Dirección Ejecutiva de Mejora Regulatoria y Propuesta Normativa.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+8. Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+8.1. Dirección Ejecutiva de Gobierno Electrónico y Política de Tecnologías de la Información y Comunicaciones.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+8.2. Dirección Ejecutiva de Servicios de Tecnologías de la Información y Comunicaciones.
+
 > <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 XIV. A la Contraloría General:
@@ -556,9 +588,9 @@ XIV. A la Contraloría General:
 
 1.2. Dirección de Recursos de Inconformidad;
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
-1.3. Dirección de Mejora Regulatoria;
+1.3. Dirección de Mejora Normativa.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -582,15 +614,19 @@ XIV. A la Contraloría General:
 
 3. Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
-3.1. Dirección de Auditorías Especiales en Dependencias y Órganos Desconcentrados.
+3.1. Direcciones Ejecutivas de Contralorías Internas en Dependencias y Órganos Desconcentrados “A” y “B”.
 
-3.2. Direcciones de Contralorías Internas en Dependencias y Órganos Desconcentrados, “A”, “B” y “C”.
+3.2. (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 4. Dirección General de Contralorías Internas en Delegaciones.
 
 4.1. Direcciones de Contralorías Internas en Delegaciones, “A”, y “B”.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+4.2. Dirección de Seguimiento de Obras de Contralorías Internas en Delegaciones.
 
 5. Dirección General de Contralorías Internas en Entidades.
 
@@ -604,15 +640,11 @@ XIV. A la Contraloría General:
 
 5.3. Dirección de Auditoría a Entidades.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2009)</small>
+6. (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
-6. Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones.
+6.1. (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
-6.1. Dirección Ejecutiva de Gobierno Electrónico y Política de Tecnologías de la Información y Comunicaciones.
-
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2011)</small>
-
-6.2. Dirección Ejecutiva de Servicios de Tecnologías de la Información y Comunicaciones.
+6.2. (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2009)</small>
 
@@ -620,29 +652,51 @@ XIV. A la Contraloría General:
 
 8. Contralorías Internas de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, adscritas a la Contraloría General.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
+9. (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
-9. Coordinación General de Modernización Administrativa.
+9.1 (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
-9.1. Dirección Ejecutiva de Innovación, Evaluación del Desempeño Gubernamental y Uso Estratégico de la Información.
+9.2 (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
-9.2. Dirección Ejecutiva de Procesos, Servicios y Atención Ciudadana.
+9.2.1 (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
-9.2.1. Dirección de Análisis, Planeación y Evaluación de Sistemas de Comunicación para la Atención Ciudadana.
+9.3 (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
-9.3. (DEROGADO, G.O. 17 DE JUNIO DE 2011)
+9.4 (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2011)</small>
-
-9.4. Dirección Ejecutiva de Propuesta Normativa.
-
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2011)</small>
-
-9.5. Dirección Ejecutiva de Diseño y Dictaminación de Estructuras Orgánicas.
+9.5 (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
 
 10. Coordinación General de Evaluación y Desarrollo Profesional.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+10.1. Dirección Ejecutiva de Psicología.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+10.2. Dirección de Control de Ingreso a la Administración Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+10.3. Dirección de Análisis.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+11. Dirección General de Seguimiento a Proyectos.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+12. Dirección General de Auditoría Cibernética y Proyectos Tecnológicos.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+12.1. Dirección Ejecutiva de Auditoría Cibernética.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+12.2. Dirección de Proyectos Tecnológicos.
 
 XV. A la Consejería Jurídica y de Servicios Legales:
 
@@ -870,9 +924,11 @@ Los titulares de las comisiones, comités, institutos y cualquier otro órgano a
 
 ### Capítulo VI. Del Servicio Público de Carrera, del Sistema de Información y de la Desconcentración Administrativa
 
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
 ###### Artículo 20.
 
-Para satisfacer las necesidades y responder a las demandas de los habitantes del Distrito Federal, la Administración Pública se integrará con base en un Servicio Público de Carrera, que será el instrumento para la profesionalización de los servidores públicos, sustentado en el mérito, la igualdad de oportunidades y el desarrollo permanente.
+Para satisfacer las necesidades y responder a las demandas de los habitantes del Distrito Federal, la Administración Pública se integrará con base en un Servicio Público de Carrera, que será el instrumento para la profesionalización de los servidores públicos, sustentado en el mérito, la igualdad de oportunidades y el desarrollo permanente. La Contraloría General ejecutara la coordinación general y la operación de dicho Servicio.
 
 ###### Artículo 21.
 
@@ -1014,9 +1070,13 @@ Corresponden al titular de la Oficialía Mayor, además de las atribuciones que 
 
 I. Atender las necesidades administrativas de la Administración Pública Centralizada del Distrito Federal;
 
-II. Apoyar a los titulares de las Unidades Administrativas, y Unidades Administrativas de Apoyo Técnico-Operativo de las Dependencias, Entidades, Órganos Político-Administrativos y Órganos Desconcentrados en la satisfacción de sus necesidades de servicios, recursos humanos y materiales para su adecuado funcionamiento;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-III. Establecer y difundir las políticas para regular la administración de recursos humanos y materiales, de servicios generales, del patrimonio inmobiliario, de los bienes muebles y del archivo documental, de la Administración Pública del Distrito Federal, así como dar seguimiento a los sistemas, normas, procesos y procedimientos, emitir opiniones técnicas y propuestas de actualización normativa, en estas materias.
+II. Apoyar a los titulares de las Unidades Administrativas, y Unidades Administrativas de Apoyo Técnico-Operativo de las Dependencias, Entidades, Órganos Político-Administrativos y Órganos Desconcentrados en la satisfacción de sus necesidades de servicios, recursos humanos y materiales para su adecuado funcionamiento, así como en la instrumentación de los programas y acciones relativas a la simplificación administrativa, modernización, mejora regulatoria, atención ciudadana, innovación de la actuación administrativa, evaluación del desempeño gubernamental, tecnologías de la información y comunicaciones;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+III. Establecer, conducir, impulsar y difundir las políticas para regular la administración de recursos humanos y materiales, de servicios generales, de tecnologías de la información y comunicaciones, de bienes y servicios informáticos, del patrimonio inmobiliario, de los bienes muebles y del archivo documental, de la Administración Pública del Distrito Federal, así como dar seguimiento a los sistemas, normas, procesos y procedimientos, emitir opiniones técnicas y propuestas de actualización normativa, en estas materias.
 
 IV. Participar en el ámbito de su competencia, en las actividades que le confieren las disposiciones jurídicas en materia de Servicio Público de Carrera de la Administración Pública del Distrito Federal;
 
@@ -1054,9 +1114,63 @@ XX. Formalizar, salvo que el Jefe de Gobierno establezca disposición distinta, 
 
 XXI. Coordinar a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las dependencias de la Administración Pública Central;
 
-XXII. Coordinar las acciones y programas de protección civil en los inmuebles del patrimonio inmobiliario de la Administración Pública del Distrito Federal ciudad (sic) a fin de privilegiar la protección de la vida humana y la salvaguarda del patrimonio; y
+XXII. Coordinar las acciones y programas de protección civil en los inmuebles del patrimonio inmobiliario de la Administración Pública del Distrito Federal ciudad (sic) a fin de privilegiar la protección de la vida humana y la salvaguarda del patrimonio; y (sic)
 
-XXIII. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIII. Instrumentar, coordinar, operar y mantener actualizado el registro de los proyectos estratégicos de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIV. Establecer las normas y criterios para dictaminar las estructuras orgánicas de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXV. Definir, actualizar, modificar y, en su caso, dictaminar las estructuras orgánicas;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVI. Dictaminar la procedencia de los contratos de prestadores de servicios con remuneración equivalente a la de los servidores públicos de estructura, de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVII. Promover y coordinar los programas en materia de desarrollo organizacional de la administración pública;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVIII. Conducir, impulsar y establecer las políticas para la creación, desarrollo, operación, mantenimiento y modernización de los sistemas de información, estructuras orgánicas, evaluación del desempeño gubernamental, tecnología administrativa y de bienes relacionados con las tecnologías de la información y comunicaciones de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIX. Definir, normar y conducir los programas de los sistemas, procedimientos e instrumentos relacionados con los trámites y servicios de atención al público;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXX. Definir y emitir las disposiciones administrativas necesarias para la prestación de los servicios de la red de datos, voz y video de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXI. Elaborar y coordinar el Programa de Desarrollo de Tecnologías de la Información y Comunicaciones;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXII. Coordinar a las unidades administrativas y unidades administrativas de apoyo técnico operativo responsables de la informática en dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, así como vigilar su funcionamiento;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXIII. Establecer y difundir las políticas, lineamientos y estándares de tecnologías de la información y comunicaciones y de bienes y servicios informáticos;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXIV. Determinar y expedir las políticas de portales y sistemas de comunicación de la Administración Pública del Distrito Federal, y (sic)
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXV. Dirigir y operar el sitio web del Gobierno del Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXIV. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo III. De las atribuciones generales del titular de la Contraloría General
 
@@ -1092,53 +1206,29 @@ V. Formular y revisar en su caso, los proyectos de reglamentos, decretos, acuerd
 
 VI. Participar en la actualización y simplificación del marco jurídico administrativo del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+VII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-VII. Apoyar a los titulares de las dependencias, unidades administrativas, unidades administrativas de apoyo técnico-operativas y órganos desconcentrados en la instrumentación de los programas y acciones relativas a la simplificación, modernización e innovación de la actuación administrativa;
+VIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+IX. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-VIII. Instrumentar, coordinar, operar y mantener actualizado el registro de los proyectos estratégicos de la Administración Pública del Distrito Federal;
+X. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-> <small>(REFORMADA, G.O. 31 MARZO DE 2010)</small>
+XI. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-IX. Establecer las normas y criterios para dictaminar las estructuras orgánicas de la Administración Pública del Distrito Federal;
+XII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+XIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-X. Definir, actualizar, modificar y, en su caso, dictaminar las estructuras orgánicas;
+XIV. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+XV. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-XI. Dictaminar la procedencia de los contratos con remuneración equivalente a la de los servidores públicos de estructura, previo a la aprobación de los programas de contratación de los prestadores de servicios profesionales por parte de la Oficialía Mayor, para evitar afectaciones al contenido y los alcances de los dictámenes aprobadas para las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
+XVI. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+XVII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-XII. Promover y coordinar los programas en materia de desarrollo organizacional de la administración pública;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XIII. Conducir, impulsar y establecer las políticas para la creación, desarrollo, operación, mantenimiento y modernización de los sistemas de información, estructuras orgánicas, tecnología administrativa y de bienes relacionados con las tecnologías de la información y comunicaciones, con excepción de lo dispuesto en la fracción XIV del artículo 27 de este ordenamiento;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XIV. Definir, normar y conducir los programas de los sistemas, procedimientos e instrumentos relacionados con los trámites y servicios de atención al público;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XV. Definir y emitir las disposiciones administrativas necesarias para la prestación de los servicios de la red de datos, voz y video de la Administración Pública del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XVI. Elaborar y coordinar el Programa Especial de Desarrollo de Tecnologías de la Información y Comunicaciones;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XVII. Coordinar a las unidades administrativas y unidades administrativas de apoyo técnico operativo responsables de la informática en dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, así como vigilar su funcionamiento;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XVIII. Establecer y difundir las políticas, lineamientos y estándares de tecnologías de la información y comunicaciones y de bienes y servicios informáticos;
+XVIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -3078,7 +3168,7 @@ X. Coadyuvar en la substanciación de los procedimientos y recursos administrati
 
 XI. Solicitar información y documentos a las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal, cuando sea necesario para resolver los asuntos de su competencia;
 
-XII. Establecer programas de trabajo en matera jurídica orientados a mejorar el desempeño y funcionamiento de las Unidades Administrativas de la Secretaría;
+XII. Establecer programas de trabajo en matera (sic) jurídica orientados a mejorar el desempeño y funcionamiento de las Unidades Administrativas de la Secretaría;
 
 XIII. Solicitar, cuando fuere necesario, el apoyo de las Dependencias, Órganos y Entidades de la Administración Pública del Distrito Federal, así como el auxilio de la fuerza pública, para hacer cumplir sus resoluciones;
 
@@ -7290,9 +7380,21 @@ XIII. Atender todo lo relacionado a las invitaciones protocolarias y de prensa q
 
 XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones;
 
-XV. Certificar, por sí o a través de sus Direcciones o Coordinaciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XVI. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas.
+XV. Certificar, por sí o a través de sus Direcciones o Coordinaciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVI. Elaborar y actualizar las políticas de portales y sistemas de comunicación de la Administración Pública del Distrito Federal, en coordinación con las unidades administrativas de la Oficialía Mayor competentes en las materias de tecnologías de la información y comunicaciones, de atención ciudadana y de trámites y servicios, considerando la opinión de otros órganos de la Administración Pública del Distrito Federal, en particular aquellos cuyas tareas estén vinculadas a grupos vulnerables o en situación de desventaja;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVII. Administrar y operar el sitio web del Gobierno del Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVIII. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas.
 
 > <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
 
@@ -7328,9 +7430,469 @@ XIII. Establecer los mecanismos de comunicación interna y creación de archivos
 
 XIV. Realizar un sistema que ayude a recabar las opiniones y quejas del público para que sean turnadas y resueltas por las autoridades competentes;
 
-XV. Autorizar las campañas Institucionales ordinarias y extraordinarias del Distrito Federal, previamente a su difusión; y
+XV. Autorizar las campañas Institucionales ordinarias y extraordinarias del Distrito Federal, previamente a su difusión; y (sic)
 
 XVI. Autorizar la difusión de las campañas institucionales, ordinarias y extraordinarias, del Gobierno del Distrito Federal atendiendo las necesidades de promoción de las acciones, proyectos y programas relevantes y prioritarios del Gobierno del Distrito Federal, a fin de lograr una comunicación eficiente con la ciudadanía, aplicando los presupuestos que se hayan consolidado para su contratación.
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVII. Conducir y dar seguimiento a las políticas de portales y sistemas de comunicación de la Administración Pública del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVIII. Administrar y operar el sitio web del Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 101 Bis.
+
+Corresponde a la Coordinación General de Modernización Administrativa:
+
+I. Diseñar, dirigir y coordinar las estrategias y agendas para la innovación y modernización gubernamental, la administración del conocimiento y la evaluación del desempeño gubernamental en la Administración Pública del Distrito Federal, así como el modelo de gobernabilidad;
+
+II. Apoyar a la Oficialía Mayor en la organización, conducción, difusión y supervisión del avance y cumplimiento de las actividades para la innovación y modernización gubernamental de la Administración Pública del Distrito Federal, así como en la participación que éste tenga en las comisiones que para esos efectos se constituyan;
+
+III. Coordinar e instrumentar el registro de los proyectos estratégicos en materia de innovación y modernización gubernamental, estableciendo los mecanismos y acciones para su desarrollo, seguimiento, control y evaluación;
+
+IV. Establecer los lineamientos administrativos que deberán guiar a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, para el diseño, desarrollo y administración, de los programas y proyectos de innovación y modernización gubernamental, así como los procedimientos de medición, evaluación y monitoreo que hagan posible conocer el desempeño, nivel de servicio y opinión ciudadana;
+
+V. Brindar asesoría y apoyo técnico a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades que lo soliciten, respecto de los programas y acciones que se pongan en práctica para mejorar la organización, el desarrollo, la modernización y la innovación administrativas, para el rediseño de los procedimientos, sistemas e instrumentos de atención al público usuario de los trámites y servicios, con la participación de las instancias que resulten competentes;
+
+VI. Realizar estudios y propuestas de innovación que contribuyan a la simplificación y mejora de la gestión administrativa, para hacer más eficiente la administración de los recursos, a través de estrategias de desarrollo organizacional, mejora de los procesos y de innovación normativa, así como proponer los instrumentos normativos que en el ámbito de su competencia les den soporte;
+
+VII. Diseñar, difundir e impulsar la aplicación de políticas y medidas administrativas para el mejoramiento y la modernización de la organización y el funcionamiento de dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, sus estructuras orgánicas, manuales administrativos y demás instrumentos de actuación;
+
+VIII. Coadyuvar en la transformación, modificación y, en su caso, extinción de entidades paraestatales, así como brindar la asesoría técnica que se le requiera para llevar a cabo los procesos de transferencia o destino de recursos humanos, financieros y materiales en la Administración Pública del Distrito Federal;
+
+IX. Dictaminar la estructura orgánica de las unidades administrativas, dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, e integrar y mantener actualizado el registro de las estructuras orgánicas;
+
+X. Asesorar a las unidades administrativas, dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal en el diseño de sus estructuras orgánicas, manuales administrativos, procesos y procedimientos y programas de prestadores de servicios, conforme a los mecanismos de coordinación y procedimientos de trabajo que se establezcan al efecto, emitiendo su opinión técnica, cuando proceda;
+
+XI. Dictaminar la procedencia de los contratos de prestadores de servicios con remuneración equivalente a la de servidores públicos de estructura, previo a la aprobación de los respectivos programas por parte de la Unidad Administrativa competente de la Oficialía Mayor;
+
+XII. Revisar, dictaminar y, en su caso, registrar los manuales administrativos y específicos de operación de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos, entidades, comisiones, comités y cualquier otro órgano administrativo colegiado que constituya la Administración Pública del Distrito Federal;
+
+XIII. Coordinar el uso estratégico de la información para la planeación, la evaluación, la toma de decisiones, la colaboración, el aprendizaje y la profesionalización de la función pública;
+
+XIV. Impulsar la innovación gubernamental a través de la generación de nuevos modelos conceptuales y proyectos de gobierno, apoyando a las políticas públicas de la Administración Pública del Distrito Federal;
+
+XV. Diseñar, conducir, impulsar y evaluar los programas y acciones que requiera la instrumentación de los nuevos modelos de gestión administrativa en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XVI. Impulsar, coordinar y monitorear las estrategias de gestión por resultados, a través de sistemas de indicadores y variables para la medición del desempeño gubernamental de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XVII. Diseñar, impulsar y coordinar las estrategias de identificación de necesidades ciudadanas en materia de trámites y servicios de mayor demanda, mejora de procesos, sistemas de calidad, atención y satisfacción ciudadana, y conducir las acciones y políticas públicas relacionadas con la mejora de los sistemas de atención ciudadana y la calidad en los procesos de gestión de los trámites y servicios;
+
+XVIII. Impulsar y dar seguimiento a las estrategias de innovación en el diseño de políticas y acciones para la participación de diversos sectores de la sociedad en el proceso de modernización administrativa;
+
+XIX. Diseñar y dirigir la estrategia de evaluación de la satisfacción ciudadana en materia de trámites y servicios para la Administración Pública del Distrito Federal, a través de encuestas, usuario simulado y de otros métodos que resulten adecuados;
+
+XX. Diseñar e impulsar los cambios e innovaciones que mejoren la competitividad de la Ciudad de México, con la participación de la Secretaría de Desarrollo Económico, así como establecer los mecanismos para determinar y evaluar el impacto y los efectos que el marco normativo de la actividad empresarial y los procesos de atención y dictaminación tienen respecto de la iniciativa emprendedora y el funcionamiento de las empresas;
+
+XXI. Definir las reglas y medidas administrativas para la instalación y el funcionamiento de las áreas que ofrecen atención al público en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, asegurando un trato accesible, uniforme, respetuoso y apegado a las disposiciones jurídicas y administrativas aplicables especialmente de las Ventanillas Únicas Delegacionales y los Centros de Servicios y Atención Ciudadana;
+
+XXII. Proponer políticas y medidas administrativas para el reclutamiento, evaluación, selección y acreditación del personal en funciones de atención al público de las áreas en las que se ofrece la atención ciudadana y supervisar su aplicación y cumplimiento;
+
+XXIII. Impulsar y dirigir las acciones, estudios y propuestas que realicen las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, organizaciones del sector privado y el público en general, para mantener permanentemente actualizado el Manual de Trámites y Servicios al Público del Distrito Federal;
+
+XXIV. Coordinar las tareas de actualización, supervisión y vigilancia del cumplimiento por parte de las dependencias, unidades administrativas órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal del Manual de Trámites y Servicios al Público del Distrito Federal y los sistemas que lo integran;
+
+XXV. Recibir, evaluar y registrar para su seguimiento la información que en materia de atención ciudadana le remitan las autoridades competentes de la Administración Pública del Distrito Federal;
+
+XXVI. Coordinar el Portal Único de Transparencia, a efecto de que se cumpla con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+
+XXVII. Participar en la instrumentación y seguimiento de la estrategia de Gobierno Abierto de la Administración Pública del Distrito Federal y sus actividades relacionadas;
+
+XXVIII. Diseñar y coordinar la estrategia y políticas del desarrollo e integración de sistemas de información y sistemas de comunicación para la difusión de trámites y servicios en la plataforma de portales gubernamentales de la Administración Pública del Distrito Federal, en coordinación con la Unidad Administrativa competente en la materia;
+
+XXIX. Coordinar y dirigir el portal ciudadano del Gobierno del Distrito Federal y su plataforma de portales, incluyendo sus lineamientos editoriales, así como otras iniciativas similares de sistemas de comunicación que tengan como propósito la difusión de trámites y servicios de la Administración Pública del Distrito Federal;
+
+XXX. Participar en la conducción de la estrategia de gobierno electrónico, las bases y principios para la elaboración de la política pública de tecnologías de información y comunicaciones para el uso y aprovechamiento de los bienes y servicios relacionados en la Administración Pública del Distrito Federal;
+
+XXXI. Apoyar al titular de la Oficialía Mayor en las sesiones del órgano colegiado que coordine y dirija la participación de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal en los programas y proyectos de tecnologías de la información y comunicaciones;
+
+XXXII. Proponer disposiciones normativas para incorporar la firma electrónica en los trámites y procedimientos que se llevan a cabo en la Administración Pública del Distrito Federal en congruencia con la estrategia de gobierno electrónico, o en su caso, expedirlas con la intervención de las unidades administrativas competentes de la Oficialía Mayor;
+
+XXXIII. Coordinar a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades en la definición de los trámites y servicios que deban realizarse por medio de firma electrónica, así como establecer y difundir el catálogo de trámites y servicios que pueden utilizar firma electrónica;
+
+XXXIV. Dirigir y coordinar la supervisión y evaluación de la identidad gráfica e imagen institucional de las áreas de atención ciudadana, así como de los modelos de formatos de solicitud de trámites y servicios a cargo de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XXXV. Coordinar y conducir las acciones relativas a la mejora de procesos y sistemas de gestión de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, para generar propuestas de mejora que resulten de dicho proceso y supervisar su cumplimiento;
+
+XXXVI. Conocer, analizar e impulsar los proyectos y acciones que, en materia de mejora regulatoria y simplificación administrativa, desarrollen las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XXXVII. Proponer los proyectos para la simplificación y mejora regulatoria en las disposiciones jurídicas y administrativas correspondientes en materia de trámites y servicios a cargo de la Administración Pública del Distrito Federal;
+
+XXXVIII. Integrar, organizar, operar y administrar el Registro Electrónico de los Trámites y Servicios, así como garantizar su correcta operación y funcionamiento;
+
+XXXIX. Emitir la constancia de registro de los trámites, servicios y sus formatos, en el Registro Electrónico de los Trámites y Servicios;
+
+XL. Ser la instancia de la Administración Pública del Distrito Federal, facultada para instruir la publicación en la Gaceta Oficial del Distrito Federal de los formatos de trámites y servicios;
+
+XLI. Ordenar visitas de supervisión a las dependencias, unidades administrativas órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal a fin de verificar la inscripción de trámites y servicios en el Registro Electrónico de los Trámites y Servicios;
+
+XLII. Desempeñar la función de la Unidad de Mejora Regulatoria del Distrito Federal;
+
+XLIII. Brindar asesoría técnica y capacitación en materia de mejora regulatoria y simplificación administrativa a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades que lo soliciten;
+
+XLIV. Establecer los lineamientos para la elaboración, presentación, estudio y dictamen de las manifestaciones de impacto regulatorio;
+
+XLV. Impulsar y dirigir la instrumentación y operación de una plataforma integral de trámites y servicios en línea en el Distrito Federal;
+
+XLVI. Promover y coordinar la participación y colaboración con la Federación, Estados, sector social, privado, académico y especialistas, nacionales e internacionales, en materia de mejora regulatoria, simplificación administrativa, funcionamiento integral de las organizaciones, la atención ciudadana, áreas de atención al público, sistemas de comunicación, medición y evaluación del desempeño gubernamental e innovación y proponer la celebración de convenios e instrumentos de colaboración en esas materias, y
+
+XLVII. Las demás que instruya el titular de la Oficialía Mayor y las que se le confieran en otros instrumentos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+Artículo 101 Bis A. Corresponde a la Dirección Ejecutiva de Arquitectura Organizacional:
+
+I. Diseñar, coordinar, implementar y dar seguimiento a las estrategias para mejorar el funcionamiento integral de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, que consideren su estructura orgánica, sus manuales administrativos, sus procesos y procedimientos, así como sus programas de prestadores de servicios con remuneración equivalente a la de servidores públicos de estructura;
+
+II. Diseñar, dirigir y supervisar la aplicación de acciones y medidas administrativas derivadas de las estrategias de mejora del funcionamiento de las estructuras orgánicas de las unidades administrativas de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+III. Proponer al titular de la Coordinación General de Modernización Administrativa, los dictámenes de estructuras orgánicas de dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, previo el estudio y análisis de su viabilidad funcional;
+
+IV. Asesorar a las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, para el diseño de sus estructuras orgánicas, sus manuales administrativos, sus procesos y procedimientos, así como sus programas de prestadores de servicios, conforme a los mecanismos de coordinación y procedimientos de trabajo que se establezcan al efecto, emitiendo la respectiva opinión técnica, cuando proceda;
+
+V. Conservar los dictámenes de estructuras orgánicas y los manuales registrados de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, de acuerdo con las especificaciones de la ley de la materia;
+
+VI. Proponer al titular de la Coordinación General de Modernización Administrativa el dictamen técnico para la contratación de prestadores de servicios con remuneración equivalente a la de servidores públicos de estructura de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, emitiendo la opinión técnica respectiva, previo estudio y análisis de su viabilidad, sin perjuicio de la intervención que de acuerdo con la normatividad aplicable corresponde a las unidades administrativas competentes de la Oficialía Mayor;
+
+VII. Formular el proyecto de dictamen, derivado del análisis de los manuales administrativos y específicos de operación de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos, entidades y demás órganos colegiados de la Administración Pública del Distrito Federal, y en su caso, realizar el registro correspondiente;
+
+VIII. Establecer los requisitos que deben cumplir las dependencias, órganos desconcentrados, órganos político-administrativos entidades y demás órganos de la Administración Pública del Distrito Federal, para solicitar modificaciones a su estructura orgánica, así como en la elaboración y el envío de sus proyectos de manuales administrativos.
+
+IX. Establecer los requisitos técnicos necesarios a fin de que las plazas de estructura orgánica tanto de nueva creación como las vigentes incorporen perfiles de puesto para el cumplimiento de las funciones establecidas en el manual administrativo;
+
+X. Realizar, cuando considere pertinente, las visitas de revisión que permitan el análisis de las estructuras orgánicas, manuales administrativos, procesos y procedimientos, así como programas de prestadores de servicios con remuneración equivalente a la de servidores públicos de estructura, para mejorar el funcionamiento integral de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XI. Requerir a las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal la información que estime pertinente en relación a las materias de organización interna y de programas de contratación de prestadores de servicios;
+
+XII. Realizar propuestas de modificaciones al marco normativo vigente y aplicable, así como a los demás instrumentos administrativos de apoyo organizacional en las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal derivadas de los procesos de análisis que sirvan para el correcto funcionamiento de las estructuras orgánicas;
+
+XIII. Auxiliar a las unidades administrativas de la Secretaría de Finanzas, en la formulación de propuestas para la transformación y, en su caso, la modificación, disminución, liquidación o extinción de entidades paraestatales de la Administración Pública del Distrito Federal, de acuerdo a los estudios y análisis realizados;
+
+XIV. Proponer a la Oficialía Mayor y a la Secretaría de Finanzas, transferencias o destino de recursos humanos, financieros y materiales de dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal que se sometan a procesos de modificación, disminución, liquidación o extinción;
+
+XV. Brindar la asesoría técnica que se le requiera para llevar a cabo los procesos de disminución, extinción o liquidación de entidades paraestatales de la Administración Pública del Distrito Federal;
+
+XVI. Participar, de acuerdo a la naturaleza de sus atribuciones, en los procesos de diagnóstico e imagen de las áreas de atención al público, selección y acreditación de su personal, y la atención ciudadana multicanal para la gestión de trámites y servicios, mejora regulatoria y simplificación administrativa, desarrollo e innovación administrativos, planeación, seguimiento, evaluación y medición del desempeño gubernamental, cuando así lo determine el titular de la Coordinación General de Modernización Administrativa, y
+
+XVII. Las demás que le instruya el Titular de la Coordinación General de Modernización Administrativa, y las que expresamente le atribuyan otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+Artículo 101 Bis B. Corresponde a la Dirección Ejecutiva de Diseño de Estrategias de Atención Ciudadana:
+
+I. Diseñar, coordinar y dar seguimiento a la estrategia de atención ciudadana de la Administración Pública del Distrito Federal;
+
+II. Realizar los estudios, investigaciones, encuestas, consultas y prácticas de campo que permitan conocer las necesidades, demandas ciudadanas y áreas de oportunidad, identificando los servicios, trámites y actividades que corresponden a las respectivas dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, así como los cambios y mejoras que éstos requieran para brindar una mejor calidad en el servicio;
+
+III. Proponer la estrategia, bases, procedimientos y mejores prácticas administrativas para la instalación, organización y funcionamiento de las áreas de atención al público en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, supervisando su aplicación y cumplimiento;
+
+IV. Diseñar, coordinar, supervisar y evaluar la imagen institucional de las áreas de atención ciudadana en las dependencias, órganos desconcentrados y entidades, así como de las ventanillas únicas y los centros de servicio y atención ciudadana de los órganos político-administrativos de la Administración Pública del Distrito Federal;
+
+V. Coordinar y supervisar la organización y el funcionamiento de las áreas de atención ciudadana en las dependencias, órganos desconcentrados y entidades de la Administración pública del Distrito Federal, así como de las ventanillas únicas, y los centros de servicios y atención ciudadana en los órganos político-administrativos, diseñando y supervisando las acciones y programas que tengan por objeto la actualización y profesionalización de su personal;
+
+VI. Proponer los lineamientos y medidas administrativas para regular, con criterios de calidad en el servicio, los procesos de reclutamiento, evaluación, selección, capacitación y acreditación del personal en funciones de atención al público, supervisando su aplicación y estricto cumplimiento;
+
+VII. Diseñar la estrategia de calidad en la atención ciudadana y supervisar la aplicación de las medidas de mejora, modernización y calidad de los sistemas y procedimientos para la atención de las solicitudes de trámites y servicios, proponiendo los cambios y adecuaciones para la satisfacción ciudadana en lo relativo a los espacios físicos, el desempeño de los servidores públicos y otros instrumentos de actuación;
+
+VIII. Diseñar y conducir conforme a las disposiciones en materia de identidad gráfica, la imagen institucional de los modelos de formatos de solicitud de trámites y servicios que tendrán que aplicar las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+IX. Solicitar, recibir, procesar, organizar, evaluar y registrar para su análisis y seguimiento la información que en materia de atención ciudadana, trámites y solicitudes de servicios produzcan las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal; con el fin de generar estadísticas e indicadores con fines de planeación para la atención ciudadana;
+
+X. Dirigir proyectos de evaluación de satisfacción en materia de atención ciudadana, a través de encuestas, usuario simulado y otros métodos que resulten adecuados para su evaluación;
+
+XI. Diseñar, coordinar e implementar una estrategia de atención ciudadana multicanal, para la gestión y provisión de trámites y servicios de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, que permita al ciudadano acceder a los trámites y servicios a través de distintos medios;
+
+XII. Concentrar y difundir la información sobre requisitos, procesos, lugares y horarios de atención, y otros datos relevantes para que el ciudadano gestione y solicite trámites y servicios de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XIII. Diseñar propuestas para la implementación de trámites y servicios transversales que permitan la agilización y automatización de la atención ciudadana en los diversos puntos de atención en dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XIV. Administrar el sistema de servicios de atención ciudadana de la página Web del Gobierno del Distrito Federal, supervisando el cumplimiento de sus respuestas por parte de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública competentes;
+
+XV. Aplicar y administrar la estrategia de sistemas de comunicación para la difusión de trámites y servicios, para coadyuvar con los ciudadanos en el ejercicio de sus derechos y cumplimiento de sus obligaciones en materia de trámites y servicios;
+
+XVI. Participar en la elaboración de las políticas de portales y otros sistemas de comunicación que tengan como propósito la difusión de trámites y servicios de la Administración Pública del Distrito Federal, basadas en estándares y mejores prácticas de usabilidad y accesibilidad en Portales con enfoque ciudadano;
+
+XVII. Participar en el diseño de la estrategia y políticas del desarrollo e integración de sistemas de información y sistemas de comunicación para la difusión de trámites y servicios en la plataforma de portales gubernamentales de la Administración Pública del Distrito Federal, en coordinación con la Unidad Administrativa competente en la materia;
+
+XVIII. Dirigir la operación del Portal Único de Transparencia, a efecto de que se cumpla con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+
+XIX. Apoyar al Coordinador General de Modernización Administrativa en el desempeño de sus funciones como titular de la Unidad de Mejora Regulatoria del Distrito Federal;
+
+XX. Requerir, de acuerdo a la naturaleza de sus funciones, información y documentación a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, cuando así lo estime necesario;
+
+XXI. Participar, de acuerdo a la naturaleza de sus atribuciones, en los procesos de registro de manuales, funcionamiento integral de las organizaciones, programas de contratación de prestadores de servicios, mejora regulatoria y simplificación administrativa, desarrollo e innovación administrativos, planeación, seguimiento, evaluación y medición del desempeño gubernamental, cuando así lo determine el titular de la Coordinación General de Modernización Administrativa;
+
+XXII. Participar en la mejora de procesos y sistemas de gestión de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, y
+
+XXIII. Las demás que le instruya el Titular de la Coordinación General de Modernización Administrativa, y las que expresamente le atribuyan otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+Artículo 101 Bis C. Corresponde a la Dirección Ejecutiva de Innovación, Evaluación del Desempeño Gubernamental y Uso Estratégico de la Información:
+
+I. Diseñar, coordinar y dar seguimiento a la estrategia de innovación y modernización de modelos gubernamentales, administración del conocimiento y de la evaluación del desempeño de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, y su modelo de gobernabilidad;
+
+II. Proponer al titular de la Coordinación General de Modernización Administrativa los lineamientos para el diseño, administración y conducción de los programas y proyectos de innovación y modernización de la Administración Pública del Distrito Federal;
+
+III. Desarrollar metodologías para el diseño de nuevos modelos y proyectos de gobierno que impulsen la innovación y la modernización de la Administración Pública del Distrito Federal que aporten al cumplimiento del Programa General de Desarrollo del Distrito Federal;
+
+IV. Proponer la participación de diversos sectores de la sociedad, así como diversos organismos internacionales, en procesos de innovación y modernización que apoyen a la gestión pública.
+
+V. Brindar a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal que lo soliciten, asesoría para el diseño conceptual de los procedimientos, sistemas e instrumentos de actuación, respecto de los programas de innovación y modernización;
+
+VI. Evaluar la viabilidad de los programas y proyectos de innovación y modernización de la Administración Pública del Distrito Federal, que así lo requieran;
+
+VII. Organizar y mantener actualizado un registro de los programas y proyectos en materia de innovación y modernización gubernamental de la Administración Pública del Distrito Federal;
+
+VIII. Desarrollar una estrategia de comunicación de las acciones y mejores prácticas de innovación desarrolladas en la Administración Pública del Distrito Federal, a partir de la creación de un banco de conocimiento que las agrupe, así como participar en coordinación con las unidades administrativas competentes en la construcción de un portal colectivo que las difunda a fin de que sean susceptibles de ser replicadas por las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+IX. Apoyar al titular de la Coordinación General de Modernización Administrativa en el diseño, operación y seguimiento de los programas derivados de la estrategia de gobierno electrónico;
+
+X. Diseñar y coordinar las estrategias de medición, monitoreo y evaluación del desempeño gubernamental de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XI. Operar y supervisar los sistemas de monitoreo, información, evaluación y seguimiento del desempeño gubernamental y los resultados que arrojen, dando participación a las unidades administrativas responsables;
+
+XII. Administrar y conducir el uso estratégico de la información que arrojen los sistemas de medición y monitoreo del desempeño gubernamental, para favorecer la toma de decisiones, generar una colaboración eficiente, profesionalización y aprendizaje institucional a través del uso de tecnologías de la información y comunicaciones;
+
+XIII. Establecer los mecanismos necesarios para el manejo y difusión de la información contenida en los sistemas de medición, monitoreo y evaluación del desempeño gubernamental, así como de los resultados que se generen.
+
+XIV. Proponer alternativas administrativas para la mejora y modernización de la Administración Pública del Distrito Federal, derivadas de los resultados que arrojen los sistemas de monitoreo y evaluación gubernamental.
+
+XV. Apoyar a la Coordinación General de Modernización Administrativa, en la instrumentación y desarrollo de los programas a su cargo, especialmente los que tengan por objeto establecer métodos e instrumentos de medición, monitoreo, evaluación y seguimiento del desempeño gubernamental;
+
+XVI. Apoyar al Titular de la Coordinación General de Modernización Administrativa en la instrumentación y seguimiento de la estrategia de Gobierno Abierto de la Administración Pública del Distrito Federal y sus actividades relacionadas;
+
+XVII. Practicar visitas de supervisión a las unidades administrativas en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, a fin de verificar el cumplimiento de las medias administrativas para la mejora y modernización de éstas;
+
+XVIII. Apoyar al Coordinador General de Modernización Administrativa en el desempeño de sus funciones como titular de la Unidad de Mejora Regulatoria del Distrito Federal;
+
+XIX. Participar en el estudio y dictaminación de las manifestaciones de impacto regulatorio;
+
+XX. Participar en la mejora de procesos y sistemas de gestión de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XXI. Coordinar y conducir las estrategias de medición y evaluación del desempeño gubernamental de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal que deban realizar en el ámbito de sus atribuciones las unidades administrativas de la Coordinación General de Modernización Administrativa;
+
+XXII. Requerir, de acuerdo a la naturaleza de sus funciones, información y documentación a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, cuando así lo estime necesario;
+
+XXIII. Participar, de acuerdo a la naturaleza de sus atribuciones, en los procesos de registro de manuales, funcionamiento integral de las organizaciones, programas de contratación de prestadores de servicios, diagnóstico e imagen de las áreas de atención al público, selección y acreditación de su personal y la atención ciudadana multicanal para la gestión de trámites y servicios, simplificación administrativa y mejora regulatoria, cuando así lo determine el titular de la Coordinación General de Modernización Administrativa, y
+
+XXIV. Las demás que le instruya el Titular de la Coordinación General de Modernización Administrativa, y las que expresamente le atribuyan otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+Artículo 101 Bis D. Corresponde a la Dirección Ejecutiva de Mejora Regulatoria y Propuesta Normativa:
+
+I. Revisar el marco regulatorio del Distrito Federal y su impacto en los trámites y servicios a cargo de la Administración Pública del Distrito Federal para la simplificación y mejora regulatoria en las disposiciones jurídicas y administrativas correspondientes;
+
+II. Revisar los trámites, servicios y procedimientos de actuación a cargo de la Administración Pública del Distrito Federal, con la finalidad de simplificar y eliminar requisitos que reduzcan las cargas administrativas en su gestión;
+
+III. Participar en la conducción de las tareas de actualización, supervisión y vigilancia del cumplimiento del Manual de Trámites y Servicios al Público del Distrito Federal y los sistemas que lo integran, por parte de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+IV. Coordinar la operación, administración y funcionamiento del Registro Electrónico de los Trámites y Servicios;
+
+V. Emitir opinión respecto de los trámites y servicios que las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal remitan para su inscripción en el Registro Electrónico de los Trámites y Servicios;
+
+VI. Someter a consideración del titular de la Coordinación General de Modernización Administrativa la inscripción, actualización, modificación o baja en el Registro Electrónico de los Trámites y Servicios del Manual de Trámites y Servicios al Público del Distrito Federal, los trámites, servicios y sus formatos, cuando éstos hayan cumplido con los requisitos y formalidades para ello;
+
+VII. Gestionar la publicación en la Gaceta Oficial del Distrito Federal de los formatos de solicitud de los trámites y servicios que hayan obtenido su inscripción, actualización, modificación o baja en el Registro Electrónico de los Trámites y Servicios;
+
+VIII. Practicar visitas de supervisión a las unidades administrativas en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, a fin de verificar la inscripción, actualización, modificación o baja de trámites y servicios en el Registro Electrónico de los Trámites y Servicios;
+
+IX. Asesorar a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal y emitir opinión sobre la incorporación de requisitos y formalidades en los trámites y servicios que pretendan inscribir al Registro Electrónico de los Trámites y Servicios;
+
+X. Participar con las unidades administrativas de la Secretaría de Desarrollo Económico en la realización de estudios y la formulación de propuestas para adecuar las disposiciones jurídicas y administrativas que rigen la actividad empresarial en el Distrito Federal;
+
+XI. Apoyar al Coordinador General de Modernización Administrativa en el desempeño de sus funciones como titular de la Unidad de Mejora Regulatoria del Distrito Federal;
+
+XII. Participar en el estudio normativo de las manifestaciones de impacto regulatorio;
+
+XIII. Proponer los proyectos de instrumentos jurídicos y administrativos competencia de la Coordinación General de Modernización Administrativa;
+
+XIV. Participar en la mejora de procesos y sistemas de gestión de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XV. Requerir, de acuerdo a la naturaleza de sus funciones, información y documentación a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, cuando así lo estime necesario;
+
+XVI. Participar, de acuerdo a la naturaleza de sus atribuciones, en los procesos de registro de manuales, funcionamiento integral de las organizaciones, programas de contratación de prestadores de servicios, diagnóstico e imagen de las áreas de atención al público, selección y acreditación de su personal y la atención ciudadana multicanal para la gestión de trámites y servicios, desarrollo e innovación administrativos, planeación, seguimiento, evaluación y medición del desempeño gubernamental, cuando así lo determine el titular de la Coordinación General de Modernización Administrativa, y
+
+XVII. Las demás que le instruya el Titular de la Coordinación General de Modernización Administrativa, y las que expresamente le atribuyan otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 101 Ter.
+
+Corresponde a la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones:
+
+I. Establecer las bases para el aseguramiento de la gobernabilidad integral de las tecnologías de la información y comunicaciones para la entrega eficaz y eficiente de servicios tecnológicos de información, alineados a las estrategias, requerimientos y servicios en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+II. Coordinar el Modelo Estratégico Interinstitucional de Tecnologías de la Información y Comunicaciones de la Administración Pública del Distrito Federal y vigilar el cumplimiento de los planes estratégicos de tecnologías de la información y comunicaciones y proyectos tecnológicos que se desprendan del mismo, en las dependencias, órganos desconcentrados, órganos político-administrativos, unidades administrativas, unidades administrativas de apoyo técnico operativo y entidades;
+
+III. Apoyar al Oficial Mayor en las sesiones del órgano colegiado que coordine y dirija la participación de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal en los programas y proyectos de tecnologías de la información y comunicaciones;
+
+IV. Dirigir la emisión de dictámenes técnicos asociados a los proyectos de tecnologías de la información y comunicaciones en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+V. Elaborar, instrumentar y vigilar el cumplimiento a las políticas y lineamientos en materia de tecnologías de la información, comunicaciones y mejores prácticas que deberán observar las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+VI. Promover y difundir la adopción de marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información y comunicaciones, para que la gestión de la función informática en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal responda a los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad, y opere con riesgos mitigados y alineada a los objetivos institucionales;
+
+VII. Dirigir la entrega y soporte oportuno de servicios tecnológicos de información y comunicaciones interdependenciales, utilizando estándares internacionales de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información;
+
+VIII. Regular el uso y aprovechamiento de las redes de comunicaciones y telecomunicaciones, el Intranet, Extranet e Internet del Gobierno del Distrito Federal;
+
+IX. Dirigir las acciones para la administración de la red de datos, voz y video de la Administración Pública del Distrito Federal, así como los servicios de internet: web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, grupos de trabajo, entre otros;
+
+X. Asesorar y vigilar la entrega y soporte de servicios informáticos y de comunicaciones de forma eficaz y eficiente al interior de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XI. Coordinar los servicios de asesoría, capacitación, seguimiento y vigilancia a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal, en materia de planeación, ejecución, monitoreo, control y cierre de proyectos de tecnologías de la información y comunicaciones;
+
+XII. Coordinar la administración del portafolio de proyectos tecnológicos transversales de la Administración Pública del Distrito Federal, en los aspectos de identificación, categorización, evaluación, selección y priorización;
+
+XIII. Planear y dirigir los trabajos de implantación de sistemas de información interdependenciales, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública del Distrito Federal;
+
+XIV. Promover, impulsar y evaluar las iniciativas de gobierno electrónico para la Administración Pública del Distrito Federal;
+
+XV. Vigilar la instrumentación de las medidas preventivas y correctivas derivadas de las evaluaciones realizadas en materia de tecnologías de la información y comunicaciones;
+
+XVI. Fungir como Unidad de Firma Electrónica de la Administración Pública del Distrito Federal;
+
+XVII. Establecer la coordinación y gestiones necesarias para impulsar la disponibilidad de los servicios de certificación de Firma Electrónica;
+
+XVIII. En colaboración con la Coordinación General de Modernización Administrativa, fomentar y difundir el uso de la firma electrónica en todos los trámites y servicios;
+
+XIX. Formular y establecer requisitos, directrices y lineamientos para implementar el uso de la Firma Electrónica con validez jurídica;
+
+XX. Establecer y administrar el registro de prestadores de servicios de certificación, de certificados electrónicos, de terminación de empleo, cargo o comisión y demás actos en materia de Firma Electrónica;
+
+XXI. Expedir y revocar constancias de registro a prestadores de servicios de certificación;
+
+XXII. Verificar y corroborar el cumplimiento de requisitos y obligaciones de prestadores de servicios de certificación o de personas físicas o morales que ofrecen estos servicios, en términos de la Ley de Firma Electrónica del Distrito Federal y demás instrumentos o disposiciones jurídicas aplicables;
+
+XXIII. Recibir y dar trámite a las quejas, aclaraciones y solicitudes de reportes de servicios de certificación o de constancias de existencia y registro de certificados electrónicos, en el ámbito de su competencia;
+
+XXIV. Proponer disposiciones normativas para la conservación, almacenamiento y disponibilidad de los documentos electrónicos, o en su caso expedirlas, con la intervención de las unidades administrativas competentes de la Oficialía Mayor, de conformidad con las leyes de la materia;
+
+XXV. Asesorar técnicamente a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades, en la implementación de los servicios de firma electrónica en sus sistemas informáticos, de conformidad con la Ley de Firma Electrónica del Distrito Federal;
+
+XXVI. Dirigir y establecer la estrategia de gobierno electrónico, las bases y principios para la elaboración de la política pública de tecnologías de la información y comunicaciones para el uso y aprovechamiento de los bienes y servicios de la Administración Pública del Distrito Federal;
+
+XXVII. Coordinar la participación de instituciones públicas y privadas en la realización de proyectos en materia de tecnologías de la información y comunicaciones;
+
+XXVIII. Integrar el registro de los acuerdos y determinaciones que emita la Oficialía Mayor en materia de tecnologías de la información y comunicaciones, para su difusión y cumplimiento;
+
+XXIX. Dirigir, coordinar y supervisar las estrategias, modelos, programas y proyectos en materia de Gobierno Abierto dando la participación que corresponda a la Coordinación General de Modernización Administrativa; así como en materia de Datos Abiertos y aplicaciones móviles de la Administración Pública del Distrito Federal;
+
+XXX. Coordinar la Agenda Digital de la Ciudad de México y;
+
+XXXI. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confiera su superior jerárquico;
+
+Las atribuciones relativas a la promoción y difusión de los marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información; emisión de dictámenes, asistencia y participación en Comités y Subcomités; requerimiento, aseguramiento, resguardo y custodia de información y documentación, Gobierno Abierto, Datos Abiertos y aplicaciones móviles, y demás contenidas en las diversas fracciones de este artículo, podrán ser ejercidas por las Unidades Administrativas de Apoyo Técnico-Operativo de la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones, así como por las Unidades Administrativas de Apoyo Técnico-Operativo que determine el titular de la Oficialía Mayor, sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+Artículo 101 Ter A. Corresponde a la Dirección Ejecutiva de Gobierno Electrónico y Política de Tecnologías de la Información y Comunicaciones:
+
+I. Impulsar, dar seguimiento y evaluar las acciones para la implementación del Gobierno Electrónico en la Administración Pública de Distrito Federal;
+
+II. Coordinar las acciones para la elaboración e instrumentación de la política de tecnologías de la información y comunicaciones en la Administración Pública de Distrito Federal;
+
+III. Elaborar del (sic) Modelo Estratégico Interinstitucional de Tecnologías de la Información y Comunicaciones de la Administración Pública del Distrito Federal y vigilar el cumplimiento de los planes estratégicos de tecnologías de la información y comunicaciones y proyectos tecnológicos que se desprendan del mismo, en las dependencias, órganos desconcentrados, órganos político-administrativos, unidades administrativas, unidades administrativas de apoyo técnico operativo y entidades;
+
+IV. Coordinar el portafolio de proyectos de tecnologías de la información y comunicaciones de la Administración Pública del Distrito Federal, y asesorar a las dependencias, órganos desconcentrados, órganos político-administrativos, entidades y demás órganos de la Administración Pública del Distrito Federal, en materia de administración de proyectos de tecnologías de información y comunicaciones;
+
+V. Organizar y mantener actualizado un registro de los proyectos y sistemas en materia de tecnologías de la información y comunicaciones de la Administración Pública del Distrito Federal;
+
+VI. Conducir y asegurar la gobernabilidad integral de las tecnologías de la información y comunicaciones para la entrega eficaz y eficiente de servicios tecnológicos de información, alineados a las estrategias, requerimientos y servicios en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+VII. Conducir la promoción y difusión de la adopción de marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información y comunicaciones, con el objeto de que la gestión de la función informática responda a los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad; opere con riesgos mitigados y alineada con los objetivos institucionales en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+VIII. Analizar la viabilidad de los nuevos proyectos en materia de tecnologías de la información y comunicaciones y preparar las opiniones técnicas correspondientes;
+
+IX. Dictaminar técnicamente los proyectos en materia de tecnologías de la información y comunicaciones de las dependencias, órganos desconcentrados, órganos político-administrativos y entidades, de la Administración Pública del Distrito Federal;
+
+X. Impulsar el uso de las tecnologías de la información y comunicaciones al interior de la Administración Pública del Distrito Federal;
+
+XI. Asistir con carácter de asesor a las sesiones de los órganos colegiados que se constituyan para planear, organizar y desarrollar los proyectos de tecnologías de la información y comunicaciones;
+
+XII. Formar parte de los grupos de trabajo que se formen para analizar o desarrollar proyectos de tecnologías de la información y comunicaciones;
+
+XIII. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios relacionados con la materia de tecnologías de la información y comunicaciones;
+
+XIV. Representar a la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones en los consejos, comités, subcomités y demás cuerpos colegiados establecidos, en la que sea convocada;
+
+XV. Realizar estudios e investigaciones para definir y actualizar normas, lineamientos y estándares en materia de tecnologías de la información y comunicaciones;
+
+XVI. Conducir y asegurar la gobernabilidad integral de Gobierno Abierto, Datos Abiertos y aplicaciones móviles de la Administración Pública del Distrito Federal, dando la participación que corresponda a la Coordinación General de Modernización Administrativa; y
+
+XVII. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confiera su superior jerárquico.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+Artículo 101 Ter B. Corresponde a la Dirección Ejecutiva de Servicios de Tecnologías de la Información y Comunicaciones:
+
+I. Diseñar, coordinar y dar seguimiento a la estrategia de entrega y soporte de servicios de tecnologías de la información y comunicaciones, y su modelo de gobernabilidad;
+
+II. Coordinar la entrega y soporte de servicios de tecnologías de la información y comunicaciones: Sistemas de información, sitios web, red de datos y servicios de Internet institucionales como la Web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, grupos de trabajo, entre otros; considerando la definición y atención a los niveles de servicio, administración de incidentes, problemas, cambios, capacidad, continuidad y disponibilidad de los servicios;
+
+III. Asesorar en materia de entrega y soporte de servicios de tecnologías de la información y comunicaciones a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+IV. Coordinar y administrar la infraestructura de los servicios de tecnologías de la información y comunicaciones otorgados por la Oficialía Mayor del Distrito Federal;
+
+V. Proponer y coordinar el análisis, diseño, desarrollo, implementación y mantenimiento de los sistemas de información requeridos por las unidades administrativas de la Oficialía Mayor, así como los sistemas de información institucionales para la Administración Pública del Distrito Federal; considerando la adopción de estándares y marcos de referencia internacionales en materia de desarrollo y mantenimiento de sistemas de información;
+
+VI. Coordinar y administrar la operación de los sistemas de información de la Oficialía Mayor;
+
+VII. Coordinar y administrar las instalaciones del Centro de Datos Institucional de la Administración Pública del Distrito Federal;
+
+VIII. Proporcionar el servicio de hospedaje de sitios Web y sistemas de información a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal que así lo soliciten; así como administrar la operación de la infraestructura y niveles de servicio de los mismos;
+
+IX. Coordinar y administrar a través del Centro de Operaciones de Red Institucional de la Administración Pública del Distrito Federal, la red de datos, voz y video de la Administración Pública del Distrito Federal y los servicios de Internet institucionales: Web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, grupos de trabajo, entre otros;
+
+X. Colaborar en la elaboración del plan estratégico de tecnologías de la información y comunicaciones de la Oficialía Mayor del Distrito Federal;
+
+XI. Colaborar con la Dirección Ejecutiva de Gobierno Electrónico y Política de Tecnologías de la Información y Comunicaciones, en la elaboración del Modelo Estratégico Interinstitucional de Tecnologías de la Información y Comunicaciones de la Administración Pública del Distrito Federal, así como de las políticas, estándares y lineamientos en la materia;
+
+XII. Diseñar, coordinar y dar seguimiento a la estrategia de desarrollo y mantenimiento de sistemas de información, y su modelo de gobernabilidad;
+
+XIII. Proponer, diseñar, implementar y operar las metodologías y los servicios de seguridad de tecnologías de la información y comunicaciones, considerando la adopción de estándares y marcos de referencia internacionales en materia de seguridad informática;
+
+XIV. Asesorar en materia de seguridad de la información a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XV. Proponer y coordinar el análisis, diseño, desarrollo, mantenimiento e implementación de sistemas de información institucionales para la Administración Pública del Distrito Federal;
+
+XVI. Coordinar el análisis, diseño, desarrollo, implementación y mantenimiento de los sistemas de información con las dependencias, órganos desconcentrados, órganos político-administrativos y entidades que automaticen los procesos o procedimientos sustantivos y transversales de la Administración Pública del Distrito Federal; considerando la adopción de estándares y marcos de referencia internacionales en materia de desarrollo y mantenimiento de sistemas de información;
+
+XVII. Asesorar en materia de análisis, diseño, desarrollo, implementación y mantenimiento de sistemas de información a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XVIII. Investigar y analizar nuevas herramientas en materia de tecnologías de la información y comunicaciones, para el desarrollo e implantación de sistemas de información que deriven en servicios eficientes a los ciudadanos y a los órganos de la Administración Pública del Distrito Federal;
+
+XIX. Coordinar los procedimientos y requerimientos para la entrega y soporte de los sistemas de información a liberar;
+
+XX. Apoyar en las funciones que corresponden a la Unidad de Firma Electrónica de la Administración Pública del Distrito Federal;
+
+XXI. Proponer la coordinación y gestiones necesarias para impulsar la disponibilidad de los servicios de certificación electrónica;
+
+XXII. Proponer mecanismos para fomentar y difundir el uso de la Firma Electrónica Avanzada en los trámites y procedimientos que se llevan a cabo en la Administración Pública dando prioridad a los procesos internos y a los que se refieren a la atención de trámites y solicitudes de servicios que tengan mayor impacto entre la ciudadanía;
+
+XXIII. Formular propuestas, directrices y lineamientos para implementar el uso de la Firma Electrónica;
+
+XXIV. Administrar el registro de prestadores de servicios de certificación;
+
+XXV. Proponer disposiciones normativas para la conservación, almacenamiento y disponibilidad de los documentos electrónicos, o en su caso expedirlas, con la intervención de las unidades administrativas competentes de la Oficialía Mayor, conforme a las leyes de la materia;
+
+XXVI. Participar en la habilitación de los servicios de firma electrónica a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+
+XXVII. Asesorar técnicamente a las dependencias, órganos desconcentrados, órganos político-administrativos y entidades, en la implementación de los servicios de firma electrónica en sus sistemas informáticos, de conformidad con la Ley de Firma Electrónica para el Distrito Federal y el Reglamento de la Ley de Firma Electrónica para el Distrito Federal en actos, procedimientos y trámites a cargo de la Administración Pública del Distrito Federal;
+
+XXVIII. Apoyar a la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones en el estudio, planeación e implantación de los sistemas de información y proyectos que así lo requieran;
+
+XXIX. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios relacionados con la entrega y soporte de servicios de tecnologías de la información y comunicaciones y sistemas de información;
+
+XXX. Representar a la Dirección General de Gobernabilidad de Tecnologías de Información y Comunicaciones en los consejos, comités, subcomités y demás cuerpos colegiados establecidos, cuando sea convocada; y
+
+XXXI. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confiera su superior jerárquico.
 
 #### SECCION XIII
 
@@ -7342,9 +7904,9 @@ DE LA CONTRALORIA GENERAL DEL DISTRITO FEDERAL.
 
 Corresponde a la Dirección General de Legalidad:
 
-> <small>(REFORMADA, G.O. 26 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-I. Interpretar para efectos administrativos y en el ámbito de su competencia, las disposiciones contenidas en la Ley de Adquisiciones para el Distrito Federal y Ley de Obras Públicas del Distrito Federal, así como interpretar las disposiciones jurídicas y administrativas en materia de disciplina presupuestaria, economía y gasto eficiente, Transparencia y Acceso a la Información Pública y de Responsabilidad Patrimonial, de la Administración Pública del Distrito Federal en forma oficiosa o a petición de cualquiera de los órganos que integran la administración pública;
+I. Interpretar para efectos administrativos y en el ámbito de su competencia, las disposiciones contenidas en la Ley de Adquisiciones para el Distrito Federal, Ley de Obras Públicas del Distrito Federal y las disposiciones reglamentarias en materia de Transparencia y Acceso a la Información Pública y de Responsabilidad Patrimonial, así como interpretar las disposiciones jurídicas en materia de disciplina presupuestaria, economía y gasto eficiente de la Administración Pública del Distrito Federal, en forma oficiosa o a petición de las dependencias, órganos desconcentrados, delegaciones o entidades que integran la Administración Pública Local;
 
 II. Proponer lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obra pública de la Administración Pública del Distrito Federal, para hacer más eficiente la administración de los recursos y más transparente el manejo de los mismos;
 
@@ -7360,7 +7922,9 @@ V. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos
 
 VI. Supervisar el desempeño de las atribuciones que tienen conferidas las Unidades Administrativas de Apoyo Técnico-Operativo que tiene adscritas, y en su caso, tomar las medidas que estime convenientes para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
 
-VII. Brindar asesoría y apoyo a las demás Direcciones Generales de la Contraloría General así como a los Órganos de Control Interno para el mejor desempeño de las funciones que tiene encomendadas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+VII. Brindar asesoría y apoyo a las demás Unidades Administrativas de la Contraloría General así como a los Órganos de Control Interno para el mejor desempeño de las funciones que tiene encomendadas;
 
 VIII. Emitir, de acuerdo a la naturaleza de sus funciones y en coordinación con las Direcciones Generales de Contralorías Internas, lineamientos para hacer más eficientes las funciones sustantivas de los órganos de control interno de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, haciendo las recomendaciones que permitan mejorar el desempeño de sus funciones;
 
@@ -7370,19 +7934,21 @@ X. Emitir opinión a las Dependencias, Órganos Desconcentrados, Órganos Polít
 
 XI. Emitir opinión a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública, respecto a la procedencia de rescindir o dar por terminados anticipadamente los contratos y convenios, sin agotar el plazo para la aplicación de penas convencionales, en materia de adquisiciones, arrendamientos y prestación de servicios;
 
-XII. Establecer normas, políticas y lineamientos a que deberán ajustarse las unidades administrativas, las unidades administrativas de apoyo técnico operativo y las contralorías internas adscritas a la Contraloría General, en materia de responsabilidades administrativas, a fin de garantizar la legalidad en la sustanciación de los procedimientos respectivos;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XII. Proponer normas, políticas y lineamientos en materia de responsabilidades administrativas, en coordinación con las áreas competentes;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
 
 XIII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del ejercicio de sus funciones y atribuciones;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIV. Coordinarse en el ámbito de su competencia, con las unidades administrativas de la Secretaría de Desarrollo Económico y de la Contraloría General en el establecimiento del marco de actuación y normatividad de las ventanillas de atención al sector productivo, así como de la atención a las ventanillas y centros de gestión y fomento económico;
+XIV. Revisar los manuales administrativos y demás normatividad respecto de los órganos colegiados que constituya o presida la Contraloría General, en los que participe en términos de la normatividad aplicable, y de otros, cuando lo soliciten;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XV. Participar en el desarrollo de los programas y acciones para la desregulación y simplificación administrativa o que ameriten adecuaciones al marco jurídico y administrativo y que se aplican en las dependencias, unidades administrativas, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
+XV. Realizar en el ámbito de competencia de la Contraloría General, estudios y diagnósticos del marco jurídico y administrativo que rige la actuación de las diversas dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal y en su caso, proponer actualizaciones y adecuaciones a la autoridad competente;
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -7402,7 +7968,7 @@ XIX. Proponer, al Titular de la Contraloría General, políticas y mecanismos qu
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
-XX. Elaborar los convenios de coordinación con la Federación, Estados, Municipios, instituciones educativas, sector social o privado, para la práctica de pruebas de laboratorio, dictámenes, peritajes, avalúos, estudios y otros de naturaleza análoga que sean necesarios para la resolución de los procedimientos de responsabilidad patrimonial; y
+XX. Elaborar los convenios de coordinación con la Federación, Estados, Municipios, instituciones educativas, sector social o privado, para la práctica de pruebas de laboratorio, dictámenes, peritajes, avalúos, estudios y otros de naturaleza análoga que sean necesarios para la resolución de los procedimientos de responsabilidad patrimonial; y (sic)
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
@@ -7412,45 +7978,67 @@ XXI. Generar propuestas de legalidad y de mejora de la gestión pública a parti
 
 XXII. Gestionar, promover, aplicar y difundir el uso estratégico del conocimiento derivado de las tareas y asuntos materia de su competencia y de la normatividad aplicable a la Contraloría General, mediante el diseño, desarrollo y ejecución de diversos mecanismos de capacitación y formación;
 
-> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXIII. Participar cuando la naturaleza del tema lo requiera, en los comités o subcomités en materia de adquisiciones, arrendamientos y prestación de servicios, obra pública, enajenación de bienes muebles, patrimonio inmobiliario, y demás órganos colegiados que determine el titular de la Contraloría General, de las dependencias, órganos desconcentrados, delegaciones y entidades de la administración pública, sin perjuicio de la participación de los órganos de control interno o demás unidades administrativas de la Contraloría General.
+XXIII. Participar cuando se estime conveniente, a las sesiones de comités o subcomités y demás órganos colegiados de las dependencias, órganos desconcentrados, delegaciones y entidades de la administración pública;
 
 > <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2011)</small>
 
 XXIV. Las demás que le instruya el titular de la Contraloría General, las que expresamente le atribuyan este reglamento y otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 102-A.
 
-Corresponde a la Dirección de Mejora Regulatoria:
+Corresponde a la Dirección de Mejora Normativa:
 
-I. Participar en la elaboración, seguimiento y evaluación de los programas, acciones y políticas en materia de mejora regulatoria, simplificación y desregulación administrativa que ameriten adecuaciones al marco jurídico y administrativo en las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-II. Coordinar la compilación, clasificación de ordenamientos jurídicos y administrativos relativos al Distrito Federal, mediante herramientas de consulta;
+I. Participar en la elaboración de los programas, acciones y políticas en materia de mejora normativa, simplificación y desregulación administrativa que ameriten adecuaciones al marco jurídico y administrativo de la Contraloría General;
 
-III. Participar analizando los aspectos normativos de estudios, programas, proyectos que en materia de mejora regulatoria, simplificación y desregulación administrativa se lleven a cabo en la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-IV. Formular y revisar en su caso, los proyectos de circulares, lineamientos, reglas y demás disposiciones e instrumentos jurídicos y administrativos, que su expedición corresponda al Titular de la Contraloría General;
+II. Coordinar la compilación, clasificación, difusión y consulta de ordenamientos jurídicos y administrativos relativos al Distrito Federal;
 
-V. Formular y revisar los proyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones e instrumentos jurídicos y administrativos que se pretendan someter a la aprobación del Jefe de Gobierno, respecto de los asuntos competencia de la Contraloría General;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VI. Participar, en representación de la Contraloría General, en la actualización y simplificación del marco jurídico y administrativo del Distrito Federal que realicen la Consejería Jurídica y de Servicios Legales, así como las demás dependencias, órganos desconcentrados, delegaciones y entidades;
+III. Participar analizando los aspectos normativos de estudios, programas, proyectos que en materia de normatividad, mejora normativa, simplificación y desregulación administrativa se lleven a cabo en la Administración Pública del Distrito Federal, cuando sea convocada la Contraloría General;
 
-VII. Realizar estudios y diagnósticos del marco jurídico y administrativo que rige la actuación de las diversas dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal y proponer adecuaciones en el ámbito de su competencia;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VIII. Administrar el Prontuario Normativo de la Administración Pública del Distrito Federal;
+IV. Formular o revisar en su caso, los proyectos de circulares, lineamientos, reglas y demás disposiciones e instrumentos jurídicos y administrativos, que su expedición corresponda al Titular de la Contraloría General o de sus unidades administrativas;
 
-IX. Participar en la expedición y actualización del Manual de Trámites y Servicios al Público;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-X. Proponer adecuaciones a los manuales administrativos y específicos de operación de las dependencias, unidades administrativas, órganos desconcentrados, delegaciones, entidades, comisiones, comités y cualquier otro órgano administrativo colegiado que constituya la Administración Pública del Distrito Federal, que deriven de actualizaciones o modificaciones al marco normativo del Distrito Federal;
+V. Formular o revisar los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones e instrumentos jurídicos y administrativos que se pretendan someter a la aprobación del Jefe de Gobierno, respecto de los asuntos competencia de la Contraloría General;
 
-XI. Asistir cuando se le instruya en términos de las disposiciones jurídicas y administrativas aplicables, a las sesiones de comités, subcomités y demás órganos colegiados de las dependencias, unidades administrativas, órganos político-administrativos, los órganos desconcentrados y entidades de la Administración Pública; y
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+VI. Realizar en el ámbito de competencia de la Contraloría General, estudios y diagnósticos del marco jurídico y administrativo que rige la actuación de las diversas dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal y en su caso, proponer actualizaciones y adecuaciones a la autoridad competente;
 
-XII. Generar propuestas de legalidad y de mejora de la gestión pública a partir de la revisión y análisis de información, documentación y archivos que solicite o recabe, así como de servicios, procedimientos y otras actuaciones de las dependencias, órganos desconcentrados, órganos políticos administrativos y entidades, por instrucciones del Contralor General.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+VII. Administrar el Prontuario Normativo de la Administración Pública del Distrito Federal y otros instrumentos de difusión de información jurídica;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+VIII. Proponer actualizaciones a los trámites y servicios de la Administración Pública del Distrito Federal a través de la unidad administrativa competente en materia de mejora regulatoria;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+IX. Revisar los manuales administrativos y demás normatividad respecto de los órganos colegiados que constituya o presida la Contraloría General, en los que participe en términos de la normatividad aplicable, y de otros, cuando lo soliciten;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+X. Asistir cuando se estime conveniente en términos de las disposiciones jurídicas y administrativas aplicables, a las sesiones de comités, subcomités y demás órganos colegiados de las dependencias, unidades administrativas, órganos político-administrativos, los órganos desconcentrados y entidades de la Administración Pública;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XI. Coadyuvar con las unidades administrativas competentes de la Contraloría General en los procesos relativos a las auditorías de legalidad, cuando lo instruya el Contralor General;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XII. Gestionar, promover, aplicar y difundir el uso estratégico del conocimiento derivado de las tareas y asuntos materia de su competencia y de la normatividad aplicable a la Contraloría General, mediante el diseño, desarrollo y ejecución de diversos mecanismos de capacitación y formación; y
 
 > <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2011)</small>
 
@@ -7520,7 +8108,9 @@ XIII. Las demás que le instruya el Titular de la Dirección General de Legalida
 
 Corresponde a la Dirección Ejecutiva de Normatividad y Consulta:
 
-I. Verificar que las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, cumplan con las normas y disposiciones en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, concesiones, permisos administrativos temporales revocables, conservación, uso, destino afectación, enajenación y baja de bienes muebles e inmuebles, almacenes e inventarios, así como para constatar el estado y las condiciones en que se encuentren los bienes que hayan sido objeto de concesión o del servicio público concesionado;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+I. Asistir cuando se estime conveniente, a las licitaciones públicas, invitaciones restringidas, en materia de adquisiciones, obra pública, concesiones, permisos administrativos temporales revocables, enajenación y baja de bienes muebles e inmuebles, así como al levantamiento de inventarios;
 
 II. Proponer lineamientos en materia de adquisiciones, arrendamientos, servicios, desincorporación de activos y de obra pública en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, a efecto de hacer más eficiente la utilización de los recursos y transparentar su manejo;
 
@@ -7534,9 +8124,9 @@ V. Recibir, analizar, tramitar y resolver las solicitudes de resolución de afir
 
 VI. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, órganos de control interno, así como a proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente;
 
-> <small>(REFORMADA, G.O. 26 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VII. Emitir opinión para efectos administrativos, acerca de la interpretación de las disposiciones contenidas en las leyes, de Adquisiciones y de Obras Públicas, ambas del Distrito Federal, así como de las disposiciones jurídicas y administrativas en materia de disciplina presupuestaria, economía y gasto eficiente; Transparencia y Acceso a la Información Pública, y de Responsabilidad Patrimonial, de la Administración Pública del Distrito Federal en forma oficiosa o a petición de cualquiera de los órganos que integran la Administración Pública;
+VII. Interpretar para efectos administrativos y en el ámbito de su competencia, las disposiciones contenidas en la Ley de Adquisiciones para el Distrito Federal, Ley de Obras Públicas del Distrito Federal y las disposiciones reglamentarias en materia de Transparencia y Acceso a la Información Pública y de Responsabilidad Patrimonial, así como interpretar las disposiciones jurídicas en materia de disciplina presupuestaria, economía y gasto eficiente de la Administración Pública del Distrito Federal, en forma oficiosa o a petición de cualquiera de los órganos que integran la Administración Pública;
 
 VIII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
@@ -7558,29 +8148,27 @@ XII. Emitir opinión a las dependencias, órganos desconcentrados, órganos pol�
 
 XIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su unidad administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIV. Autorizar la celebración de pedidos o contratos relacionados con las adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o lo hayan desempeñado hasta un año antes de la publicación de la convocatoria, o fecha de celebración del contrato, o bien, con las sociedades de las que dichas personas formen parte, en términos de las disposiciones jurídicas aplicables;
+XIV. Autorizar la recepción de propuestas, cotizaciones y la celebración de pedidos o contratos relacionados con las adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o lo hayan desempeñado hasta un año antes de la publicación de la convocatoria, o fecha de celebración del contrato, o bien, con las sociedades de las que dichas personas formen parte, en términos de las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XV. Asistir cuando el Titular de la Contraloría General lo considere conveniente, en términos de las disposiciones jurídicas y administrativas aplicables, a las sesiones de comités, subcomités y demás órganos colegiados de las dependencias, unidades administrativas, órganos político-administrativos, los órganos desconcentrados y entidades de la administración pública;
+XV. Asistir cuando se estime conveniente, a las sesiones de comités, subcomités y demás órganos colegiados de las dependencias, unidades administrativas, órganos político-administrativos, los órganos desconcentrados y entidades de la administración pública;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
 
 XVI. Recibir y analizar la información relacionada con motivo de los procedimientos de adjudicación directa e invitación restringida a cuando menos tres participantes o concursantes que envíen las dependencias, unidades administrativas, órganos político-administrativos, los órganos desconcentrados y entidades de la administración pública;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XVII. Establecer normas, políticas y lineamientos a que deberán ajustarse las unidades administrativas, las unidades administrativas de apoyo técnico operativo y las contralorías internas adscritas a la Contraloría General, en materia de responsabilidades administrativas, a fin de garantizar la legalidad en la sustanciación de los procedimientos respectivos;
+XVII. Proponer normas, políticas y lineamientos en materia de responsabilidades administrativas, en coordinación con las áreas competentes;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
 
 XVIII. Revisar jurídicamente los contratos, convenios y demás instrumentos jurídicos que suscriban el Titular de la Contraloría General y los titulares de las unidades administrativas a él adscritas;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XIX. Proponer adecuaciones a las estructuras orgánicas en la Administración Pública del Distrito Federal que deriven de actualizaciones o modificaciones al marco normativo del Distrito Federal; y (sic)
+XIX. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
@@ -7596,7 +8184,9 @@ XXI. Las demás que le instruya el Titular de la Dirección General de Legalidad
 
 Corresponde a la Dirección de Recursos de Inconformidad:
 
-I. Conocer, desahogar y resolver los recursos de inconformidad que presenten las personas físicas o morales, derivados de los actos y resoluciones emitidos en los procedimientos de licitación pública e invitación restringida a cuando menos tres proveedores o contratistas, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, así como aquellos que sean de competencia de la Contraloría General, por disposición expresa de las Leyes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+I. Conocer, desahogar y resolver los recursos de inconformidad que presenten las personas físicas o morales, derivados de los actos y resoluciones emitidos en los procedimientos de licitación pública e invitación restringida a cuando menos tres proveedores o contratistas, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones;
 
 II. Conocer, desahogar y resolver el procedimiento de Aclaración de los Actos derivados de los procedimientos de licitación pública e invitación restringida a cuando menos tres participantes en los términos previstos en la Ley de Obras Públicas del Distrito Federal, cuando las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública de que se trate, carezcan de contraloría interna;
 
@@ -7624,7 +8214,9 @@ IX. Las demás que le instruya el titular de la Dirección General de Legalidad;
 
 Corresponde a la Dirección General de Asuntos Jurídicos y Responsabilidades:
 
-I. Conocer, investigar, desahogar y resolver procedimientos disciplinarios sobre actos u omisiones de servidores públicos adscritos a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, y que tenga conocimiento por cualquier medio, para determinar e imponer, en su caso, las sanciones que correspondan en los términos de la ley de la materia;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+I. Conocer, investigar, desahogar y resolver procedimientos disciplinarios sobre actos u omisiones de servidores públicos adscritos a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, y que tenga conocimiento por cualquier medio, para determinar e imponer, en su caso, las sanciones que correspondan en los términos de la ley de la materia y para tal efecto, requerir de acuerdo a la naturaleza de sus funciones, la colaboración, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública y Órganos de Control Interno, de las instituciones públicas locales y/o federales así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualquier otro que intervenga en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico del Distrito Federal;
 
 II. Acordar la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones, o a petición de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, en los casos que proceda;
 
@@ -7640,13 +8232,17 @@ VII. Ejercer la facultad de atracción prevista por los artículos 57 y 62 de la
 
 VIII. Recibir, turnar a las Contralorías Internas competentes y dar seguimiento de las quejas y denuncias presentadas; así como promover el fincamiento de responsabilidad administrativa;
 
-IX. Promover en coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, la instalación de unidades receptoras de quejas y denuncias;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+IX. Promover en coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, la instalación de unidades receptoras de quejas y denuncias, así como orientar al interesado para la presentación de quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos.
 
 X. Ordenar y realizar visitas, verificaciones e inspecciones, así como solicitar la información necesaria para determinar la veracidad de los datos contenidos en las declaraciones de situación y modificación patrimonial presentadas por los servidores públicos, y cuando los signos exteriores de enriquecimiento sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, solicitar además, la práctica de auditorias para los efectos a que alude el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
 XI. Habilitar al personal de sus unidades administrativas técnico operativas como notificadores, para el desempeño de estas funciones;
 
-XII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones, designar delegados o apoderados, ofrecer y rendir pruebas, promover incidentes, interponer recursos, interponer juicios de amparo directo e indirecto, formular alegatos, hacer promociones de trámite, transigir y comprometer en árbitros, articular y absolver posiciones, desistirse, e incluso allanarse a las demandas, en los asuntos que se tramiten ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, el Tribunal Federal de Conciliación y Arbitraje, Tribunal Superior de Justicia del Distrito Federal, las Juntas de Conciliación y Arbitraje locales y federales, y en general, ante toda clase de autoridades administrativas, judiciales, jurisdiccionales o autónomas, sean locales o federales;
 
 XIII. Establecer los sistemas y lineamientos que regulen el procedimiento de captación, registro, control, análisis y seguimiento de evolución de situación patrimonial de servidores públicos de la Administración Pública del Distrito Federal; y (sic)
 
@@ -7660,7 +8256,9 @@ XVII. Coadyuvar en el ámbito de sus atribuciones y en coordinación con las Dir
 
 XVIII. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, así como con la Dirección General de Legalidad, los programas de capacitación jurídica para el personal de las áreas de responsabilidades de las contralorías internas y de la Contraloría General;
 
-XIX. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses de la Contraloría General y sus Unidades Administrativas, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico o se afecte el patrimonio del Distrito Federal, y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas; interponer ante la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal, recursos en contra de las resoluciones de sus salas que decreten o nieguen el sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo y las que pongan fin al procedimiento; e interponer, ante el Tribunal Colegiado de Circuito competente, el recurso de revisión en contra de las resoluciones de la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIX. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses de la Contraloría General y sus Unidades Administrativas, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico o se afecte el patrimonio del Distrito Federal, y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas, así como representar a la Contraloría General del Distrito Federal, ante el Tribunal Federal de Conciliación y Arbitraje, ante las Juntas de Conciliación y en general, ante toda clase de autoridades administrativas, judiciales, jurisdiccionales o autónomas, sean locales o federales, en los asuntos donde sea parte.
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -7674,9 +8272,9 @@ XXI. Coordinar la integración de un padrón de servidores públicos obligados a
 
 XXII. Tramitar, sustanciar y resolver los procedimientos disciplinarios derivados de las quejas y denuncias formuladas con motivo del incumplimiento de las obligaciones de los servidores públicos de las dependencias, órganos desconcentrados, delegaciones, y entidades, con relación a la situación patrimonial de éstos; y
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXIII. Las demás que le instruya el Titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XXIII. Las demás que le instruya el Titular de la Contraloría General; las que expresamente le atribuyan este reglamento; así como las que correspondan a las Unidades Administrativas de Apoyo técnico-operativo a él adscritas; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -7714,11 +8312,15 @@ XII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rend
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
-XIII. Ejercer la facultad de atracción prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos, previo acuerdo con la Dirección General de Asuntos Jurídicos y Responsabilidades, así como solicitar se le remitan los expedientes, en la etapa procesal en que se encuentren, a efecto de continuar con la investigación, substanciación y resolución de los casos de responsabilidad mayor o de faltas graves; y
+XIII. Ejercer la facultad de atracción prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos, previo acuerdo con la Dirección General de Asuntos Jurídicos y Responsabilidades, así como solicitar se le remitan los expedientes, en la etapa procesal en que se encuentren, a efecto de continuar con la investigación, substanciación y resolución de los casos de responsabilidad mayor o de faltas graves; y (sic)
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIV. Las demás que le instruya el Titular de la Dirección General de Asuntos Jurídicos y Responsabilidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XIV. Habilitar al personal de su unidad administrativa técnico operativa como notificadores, para el desempeño de sus funciones;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XV. Las demás que le instruya el Titular de la Dirección General de Asuntos Jurídicos y Responsabilidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -7730,7 +8332,9 @@ I. Captar, recibir y resolver sobre la procedencia de las quejas y denuncias por
 
 II. Captar, recibir y resolver sobre la procedencia de las quejas y denuncias por actos u omisiones de los servidores públicos adscritos a las unidades administrativas, unidades administrativas de apoyo técnico operativo y órganos de control interno adscritos técnica y funcionalmente a la Contraloría General, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión;
 
-III. Realizar las investigaciones que resulten necesarias para la debida integración de los expedientes relacionados con las quejas y denuncias presentadas por particulares o servidores públicos; cuando lo aprecie conveniente solicitar el apoyo de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, para que en el ámbito de sus facultades contribuyan a las investigaciones;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+III. Orientar al interesado para la presentación de quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, así como realizar las investigaciones, practicar las diligencias o actuaciones que resulten necesarias para la debida integración de los expedientes relacionados con las quejas y denuncias presentadas por particulares o servidores públicos; cuando lo aprecie conveniente solicitar el apoyo de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, para que en el ámbito de sus facultades contribuyan a las investigaciones;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -7738,7 +8342,9 @@ IV. Realizar acciones de verificación, supervisión, revisión, inspección y v
 
 V. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
-VI. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública y Órganos de Control Interno;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+VI. Requerir de acuerdo a la naturaleza de sus funciones, la colaboración, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública y Órganos de Control Interno, de las instituciones públicas locales y/o federales, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualquier otro que intervenga en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico del Distrito Federal;
 
 VII. Conciliar con los servidores públicos o titulares de las Unidades Administrativas señaladas en la queja o denuncia, cuando se considere conveniente a los intereses del quejoso o denunciante, para una eficiente y ágil solución al problema, siempre que no constituya un perjuicio a la Administración Pública, y sin demérito de la posible comisión de irregularidades administrativas;
 
@@ -7756,11 +8362,15 @@ XIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, ren
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
 
-XIV. Ejercer la facultad de atracción prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos, previo acuerdo con la Dirección General de Asuntos Jurídicos y Responsabilidades, así como solicitar se le remitan los expedientes, en la etapa procesal en que se encuentren, a efecto de continuar con la investigación, substanciación y resolución de los casos de responsabilidad mayor o de faltas graves; y
+XIV. Ejercer la facultad de atracción prevista por los artículos 57 y 62 de la Ley Federal de Responsabilidades de los Servidores Públicos, previo acuerdo con la Dirección General de Asuntos Jurídicos y Responsabilidades, así como solicitar se le remitan los expedientes, en la etapa procesal en que se encuentren, a efecto de continuar con la investigación, substanciación y resolución de los casos de responsabilidad mayor o de faltas graves; y (sic)
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XV. Las demás que le instruya el Titular de la Dirección General de Asuntos Jurídicos y Responsabilidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XV. Habilitar al personal de su unidad administrativa técnico operativa como notificadores, para el desempeño de sus funciones;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVI. Las demás que le instruya el Titular de la Dirección General de Asuntos Jurídicos y Responsabilidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -7770,7 +8380,9 @@ Corresponde a la Dirección de Situación Patrimonial:
 
 I. Aplicar las normas y lineamientos que regulen el procedimiento de captación, registro, control, análisis y seguimiento de evolución de situación patrimonial de los servidores públicos de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública;
 
-II. Recibir las declaraciones de situación y modificación patrimonial que los servidores públicos deben presentar en términos de la normatividad aplicable, en forma anual, por inicio o conclusión del cargo público que corresponda;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+II. Recibir las declaraciones de situación patrimonial que los servidores públicos deben presentar en términos de la normatividad aplicable, en forma anual, por inicio o conclusión del cargo público que corresponda, a través de formato impreso o electrónico, de acuerdo a las disposiciones emitidas por el titular de la Contraloría General.
 
 III. Llevar el registro, control, análisis y evolución de situación patrimonial de los servidores públicos;
 
@@ -7778,23 +8390,35 @@ IV. Analizar la información contenida en las declaraciones de situación y modi
 
 V. Ordenar y realizar visitas de inspección, cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público; así como solicitar la practica de Auditorías para los efectos a que alude el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-VI. Substanciar y resolver el procedimiento administrativo relativo a la evolución patrimonial de los servidores públicos, emitiendo en su caso, la declaratoria de que el servidor público sujeto a la investigación respectiva, en términos de la Ley de la materia, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo, y hacerla del conocimiento al Ministerio Público de conformidad con las disposiciones legales aplicables, así como substanciar y resolver el recurso de revocación que se interponga en contra de dichas resoluciones;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VII. Conocer, investigar, iniciar, substanciar y resolver los procedimientos administrativos disciplinarios correspondientes a la declaratoria de omisión o presentación de la declaración de situación patrimonial, fuera de los plazos establecidos en las disposiciones normativas aplicables, o cuando ésta contenga información falsa, y determinar e imponer en su caso las sanciones administrativas que procedan, así como conocer, substanciar y resolver el recurso de revocación que se interponga en contra de dichas resoluciones;
+VI. Conocer, investigar, iniciar y substanciar los procedimientos administrativos disciplinarios, con motivo de inconsistencias en la evolución patrimonial de los servidores públicos, resolviendo sobre la existencia o inexistencia de responsabilidad, imponiendo en su caso, las sanciones administrativas correspondientes al infractor, emitiendo en su caso, la declaratoria de que el servidor público sujeto a la investigación respectiva, en términos de la Ley de la materia, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo, y hacerla del conocimiento al Ministerio Público de conformidad con las disposiciones legales aplicables, así como substanciar y resolver el recurso de revocación que se interponga en contra de dichas resoluciones;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+VII. Conocer, investigar, iniciar, substanciar y resolver los procedimientos administrativos disciplinarios correspondientes con motivo de la omisión o presentación extemporánea de la declaración de situación patrimonial, o cuando ésta contenga información falsa, resolviendo sobre la existencia o inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, así como conocer, substanciar y resolver el recurso de revocación que se interponga en contra de dichas resoluciones.
 
 VIII. Acordar, cuando proceda, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones;
 
 IX. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
-X. Expedir la constancia que acredite la no existencia de registro de inhabilitación para desempeñar empleos, cargos o comisiones en la Administración Pública;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+X. Expedir la constancia que acredite la no existencia de registro de inhabilitación para desempeñar empleos, cargos o comisiones en la Administración Pública, a través de formato impreso o mediante el uso tecnologías de la información y comunicaciones;
 
 XI. Integrar y mantener actualizado el registro de los servidores públicos sancionados en el ámbito de la Administración Pública y colaborar con la federación y entidades federativas en términos de los convenios celebrados en esta materia;
 
 XII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública y Órganos de Control Interno;
 
-XIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa de Apoyo Técnico Operativo, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, y
+XIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa de Apoyo Técnico Operativo, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, y (sic)
 
-XIV. Las demás que le instruya el titular de la Dirección General de Asuntos Jurídicos y Responsabilidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIV. Habilitar al personal de su unidad administrativa técnico operativa como notificadores, para el desempeño de sus funciones; y
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XV. Las demás que le instruya el titular de la Dirección General de Asuntos Jurídicos y Responsabilidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -7802,7 +8426,11 @@ XIV. Las demás que le instruya el titular de la Dirección General de Asuntos J
 
 Corresponde a la Dirección de Juicios Contenciosos:
 
-I. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses de la Contraloría General y sus Unidades Administrativas, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico o se afecte el patrimonio del Distrito Federal, y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas; contestar las demandas que se tramiten ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de tramite, autorizar delegados e incluso allanarse a las demandas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+I. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses de la Contraloría General y sus Unidades Administrativas, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico o se afecte el patrimonio del Distrito Federal, y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas, así como representar a la Contraloría General del Distrito Federal, ante el Tribunal Federal de Conciliación y Arbitraje, ante las Juntas de Conciliación y Arbitraje y en general, ante toda clase de autoridades administrativas, judiciales, jurisdiccionales o autónomas, sean locales o federales, en los asuntos donde sea parte.
+
+Demandar y contestar demandas, rendir informes, realizar promociones, designar delegados o apoderados, ofrecer y rendir pruebas, promover incidentes, interponer recursos, interponer juicios de amparo directo e indirecto, formular alegatos, hacer promociones de trámite, transigir y comprometer en árbitros, articular y absolver posiciones, desistirse, e incluso allanarse a las demandas, en los asuntos que se tramiten ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, el Tribunal Federal de Conciliación y Arbitraje, Tribunal Superior de Justicia del Distrito Federal, las Juntas de Conciliación y Arbitraje y en general, ante toda clase de autoridades administrativas, judiciales, jurisdiccionales o autónomas, sean locales o federales.
 
 II. Denunciar ante el Ministerio Público, los hechos que puedan ser constitutivos de delitos, derivados de la conducta de servidores públicos, y prestarle la colaboración necesaria;
 
@@ -7816,9 +8444,15 @@ VI. Expedir previo cotejo, copias certificadas de los documentos que obren en su
 
 VII. Atender las consultas relacionadas con asuntos de las materias señaladas en las fracciones que anteceden;
 
-VIII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, Órganos de Control Interno, así como a proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente, y
+VIII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, Órganos de Control Interno, así como a proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente, y (sic)
 
-IX. Las demás que le instruya el titular de la Dirección General de Asuntos Jurídicos y Responsabilidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+IX. Habilitar al personal de su unidad administrativa técnico operativa como notificadores, para el desempeño de sus funciones;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+X. Las demás que le instruya el titular de la Dirección General de Asuntos Jurídicos y Responsabilidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -7860,13 +8494,17 @@ XIV. Las demás que le instruya el titular de la Dirección General de Asuntos J
 
 Corresponde a la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados.
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-I. Integrar y presentar, para la autorización del titular de la Contraloría General, el Programa de Auditoría para cada ejercicio presupuestal, el cual comprenderá las auditorías ordinarias y extraordinarias, y de cualquier naturaleza, incluyendo de legalidad, que estarán a cargo de las Contralorías Internas en las dependencias y órganos desconcentrados de la Administración Pública del Distrito Federal, mismo que considerará, además, las auditorías especializadas en dependencias y órganos desconcentrados, de la Administración Pública del Distrito Federal que directamente ejecute por sí, o de las Contralorías Internas, las unidades administrativas de apoyo técnico-operativo, y despachos externos contratados para tales efectos;
+I. Integrar y presentar, para la autorización del Titular de la Contraloría General, el Programa de Auditoría para cada ejercicio presupuestal, el cual comprenderá las auditorías ordinarias incluyendo las de legalidad y desempeño, así como actividades adicionales, que estarán a cargo de las Contralorías Internas en Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, así como las demás actividades a realizar por las Contralorías Internas en Dependencias y Órganos Desconcentrados;
 
-II. Coordinar, supervisar y evaluar directamente, o a través de las Unidades Administrativas de Apoyo-Técnico Operativo correspondientes, a las Contralorías Internas y demás áreas que las integran, en las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal y, en su caso, tomar las medidas para mejorar la eficiencia las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-III. Establecer conjuntamente con las Direcciones Generales de Contralorías Internas en Delegaciones y en Entidades de acuerdo a la naturaleza de sus funciones, el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las Contralorías Internas en las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, en cuanto a la ejecución del Programa de Auditoría y lo que se derive del seguimiento del mismo;
+II. Coordinar, supervisar y evaluar directamente, o a través de las Unidades Administrativas de Apoyo-Técnico Operativo correspondientes, a las Contralorías Internas y demás áreas que las integran, en las dependencias y órganos desconcentrados de la Administración Pública del Distrito Federal y, en su caso, tomar las medidas para mejorar la eficiencia (sic) las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+III. Establecer y operar conjuntamente con las Direcciones Generales de Contralorías Internas en Delegaciones y en Entidades de acuerdo a la naturaleza de sus funciones, el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las Contralorías Internas en las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, en cuanto a la ejecución del Programa de Auditoría y lo que se derive del seguimiento del mismo;
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
@@ -7874,31 +8512,43 @@ IV. Autorizar a las Contralorías Internas en las dependencias y órganos descon
 
 V. Requerir de acuerdo con la naturaleza de sus funciones, información y documentación a las Dependencias y Órganos Desconcentrados y Contralorías Internas que correspondan, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procesos administrativos previstos en el marco jurídico del Distrito Federal;
 
-VI. Verificar la aplicación de los indicadores de gestión establecidos por la Contraloría General para las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, a efecto de evaluar el desempeño y resultados de las mismas, a través de las Contralorías Internas que correspondan;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VII. Ordenar a las contralorías internas y a las unidades administrativas de apoyo técnico-operativo, la ejecución de verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúen las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, en las materias relativas a: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+VI. Requerir la información y documentación a las Contralorías Internas, así como a las dependencias y órganos desconcentrados para verificar el seguimiento de las observaciones, recomendaciones y compromisos resultantes del cumplimiento al Programa de Auditoria de cada ejercicio presupuestal, de los resultados de las visitas, verificaciones, inspecciones y revisiones, así como la situación de éstos al término de un trimestre hasta su atención, o para comprobar si las acciones adoptadas atienden las recomendaciones en el tiempo autorizado para ello derivadas de auditoría o revisión;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VIII. Supervisar, a través de las Contralorías Internas que correspondan, la adecuada substanciación de los procedimientos de la Afirmativa Ficta conforme a lo señalado en la Ley de Procedimiento Administrativo del Distrito Federal.
+VII. Ordenar a las contralorías internas y a las unidades administrativas de apoyo técnico-operativo, la ejecución de verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúen las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, en las materias relativas a: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-IX. Representar a la Contraloría General en los consejos directivos, comités, subcomités y demás cuerpos colegiados establecidos en las Dependencias y Órganos Desconcentrados en los términos que determinen los lineamientos aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-X. Participar en las sesiones de los consejos directivos de los Órganos Desconcentrados, por sí o a través de los titulares de las Contralorías Internas y de sus demás unidades administrativas de apoyo técnico-operativo;
+VIII. Supervisar a las Contralorías Internas en Dependencias y Órganos Desconcentrados, en la adecuada substanciación de los procedimientos de la Afirmativa Ficta conforme a lo señalado en la Ley de Procedimiento Administrativo del Distrito Federal.
 
-XI. Participar directamente o a través de los titulares de las Contralorías Internas y de sus demás unidades administrativas de apoyo técnico-operativo, en los comités, subcomités y demás cuerpos colegiados instalados en las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+IX. Representar a la Contraloría General y participar en los Órganos de Gobierno, Comités, Subcomités, Consejos Directivos y demás Cuerpos Colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Dependencias y Órganos Desconcentrados en los términos que determinen las disposiciones jurídicas aplicables, por sí, o a través de los Titulares de las Contralorías Internas o de las Unidades Administrativas de Apoyo Técnico Operativo adscritas a ella o cuando no se cuente con Órganos de Control Interno;
+
+X. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+
+XI. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
 XII. Proponer al Contralor General la modificación de las estructuras orgánicas y ocupacionales de las Contralorías Internas que correspondan, para que sean sometidas a la autorización de las instancias correspondientes;
 
-XIII. Vigilar y supervisar el desempeño por parte de los órganos de control interno que correspondan, en las materias reguladas por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento, y demás disposiciones aplicables en la materia;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIV. Ordenar y realizar directamente, o a través de sus unidades de apoyo técnico-operativo y contralorías internas que correspondan, visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Dependencias y Órganos Desconcentrados, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+XIII. Vigilar y supervisar el correcto desempeño por parte de los órganos de control interno que correspondan, en las materias de Transparencia y Acceso a la Información Pública, Protección de Datos, Archivos y Programa de Derechos Humanos, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIV. Ordenar y realizar directamente, o a través de sus unidades de apoyo técnico-operativo y contralorías internas que correspondan, visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Dependencias y Órganos Desconcentrados, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
 
 XV. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro proceso administrativo previsto en los ordenamientos aplicables vigentes que lleven a cabo las Dependencias y Órganos Desconcentrados, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
 
 XVI. Instruir a las Dependencias y Órganos Desconcentrados de la Administración Pública, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
 
-XVII. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades, e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVII. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades, e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, convivientes, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
@@ -7908,49 +8558,71 @@ XVIII. Remitir directamente o a través de sus unidades de apoyo técnico-operat
 
 XIX. Verificar y dictar las medidas necesarias para que las Contralorías Internas de su competencia cumplan con los requerimientos que les realice el Titular de la Contraloría General en el ejercicio de sus atribuciones;
 
-XX. Establecer las bases generales, en coordinación con las Direcciones Generales de Contralorías Internas en Entidades, y Delegaciones, para la práctica de auditorías a las Dependencias y Órganos Desconcentrados de la Administración Pública, así como ordenar su ejecución;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+XX. Establecer lineamientos generales, en coordinación con las Direcciones Generales de Contralorías Internas en Entidades, y Delegaciones, para la práctica de auditorías a las Dependencias y Órganos Desconcentrados de la Administración Pública, así como ordenar su ejecución;
 
-XXI. Ordenar a los órganos de control Interno que correspondan a esta Dirección General la ejecución de auditorías, tanto ordinarias como extraordinarias a las dependencias y órganos desconcentrados de la Administración Pública del Distrito Federal.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-Asimismo, ordenar y ejecutar directamente, a través de la Dirección de Auditorías de Obras en ejecución en dependencias, órganos desconcentrados y delegaciones, auditorías de obras en ejecución y de la prestación de servicios de supervisión de las obras en ejecución a las dependencias, órganos desconcentrados y delegaciones de la Administración Pública del Distrito Federal, a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: obra pública, información, estadística, organización, procedimientos, planeación, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, recursos económicos en general, deuda pública, aportaciones o trasferencias locales y federales, sistema de registro, contabilidad y presupuesto, recursos humanos, servicios, transferencia, pasivos, y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables;
+XXI. Ordenar a los órganos de control interno que correspondan a esta Dirección General la ejecución de auditorías, tanto ordinarias como extraordinarias a las dependencias y órganos desconcentrados de la Administración Pública del Distrito Federal.
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+Asimismo, ordenar y ejecutar directamente, y/o a través de las Direcciones Ejecutivas de Contralorías Internas en Dependencias y Órganos Desconcentrados “A y B”, auditorías de todo tipo, a fin de promover tanto la eficiencia de las operaciones de las Dependencias y Órganos Desconcentrados, así como verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-XXII. Formular observaciones directamente o a través de las contralorías internas y unidades de apoyo técnico-operativo que le correspondan, que se deriven de las auditorías, revisiones, inspecciones, visitas o verificaciones; emitir las recomendaciones preventivas y correctivas correspondientes y en su caso, propuestas de mejora; dar un seguimiento sistemático a las mismas; determinar su solventación; así como dejar insubsistentes aquellas observaciones que en su solventación o seguimiento sobrevenga un impedimento legal o material para su atención;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXIII. Solicitar se finque responsabilidades ante las contralorías internas que correspondan o la Dirección General de Asuntos Jurídicos y Responsabilidades, según sea determinado, proporcionando los elementos y constancias que se hubiesen generado en la práctica de la auditoría, revisión, inspección, visitas y verificaciones, con motivo de las observaciones generadas, en su caso, por la falta de atención y solventación de las mismas y en general por infracciones o incumplimiento a la normatividad aplicable;
+XXII. Formular observaciones directamente o a través de las contralorías internas y unidades de apoyo técnico-operativo que le correspondan, que se deriven de las auditorías, revisiones, inspecciones, visitas o verificaciones; emitir las recomendaciones preventivas y correctivas correspondientes y en su caso, propuestas de mejora; dar un seguimiento sistemático a las mismas, así como determinar su solventación, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XXIV. Fiscalizar, a través de auditorías y revisiones, el ejercicio de los recursos federales y los de las entidades federativas aportados o transferidos a las Dependencias y Órganos Desconcentrados, o a delegaciones y entidades en tratándose de auditorías especializadas, comprobando que se apliquen con base en los acuerdos o convenios establecidos con estas, o con autoridades federales, en coordinación con los órganos de control competentes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXV. Preparar en el ámbito de sus atribuciones, la información relativa a esta Dirección General del Programa Auditoría de cada ejercicio de la Contraloría General, para su remisión a la Contaduría Mayor de Hacienda de la Asamblea Legislativa y a otras instancias;
+XXIII. Solicitar se finquen responsabilidades ante las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades, según corresponda, proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
 
-XXVI. Fijar las bases generales que deberán observarse en la práctica de auditorías externas, en coordinación con las Direcciones Generales de Contralorías Internas en Entidades, y en Delegaciones, que se vayan a realizar en la Administración Pública del Distrito Federal;
+Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIV. Fiscalizar, a través de auditorías y revisiones, el ejercicio de los recursos federales y los de las entidades federativas aportados o transferidos a las Dependencias y Órganos Desconcentrados, comprobando que se apliquen con base en los acuerdos o convenios establecidos con éstas, o con autoridades federales, en coordinación con los órganos de control competentes;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXV. Coadyuvar con los órganos de fiscalización federales y locales, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XXVI. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
 XXVII. (DEROGADA, G.O. 17 DE JUNIO DE 2011)
 
-XXVIII. De la práctica de auditorías especializadas, requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias y Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública del Distrito Federal, Órganos de Control Interno, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en los procedimientos previstos en el marco jurídico del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVIII. De la práctica de auditorías especializadas, requerir de acuerdo a la naturaleza de sus funciones, información y documentación a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en los procedimientos previstos en el marco jurídico del Distrito Federal.
 
 XXIX. A petición de la Dirección General de Asuntos Jurídicos y Responsabilidades o de la Dirección de Situación Patrimonial, ordenar a las contralorías internas que correspondan, la práctica de las auditorías y visitas de inspección a los servidores públicos de las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, para los efectos a que alude el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-XXX. Ordenar, cuando resulte conveniente, a los servidores públicos de las Dependencias y Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública del Distrito Federal, que aseguren, resguarden y custodien la información y documentación derivada de las auditorías, revisiones, inspecciones, verificaciones y visitas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXXI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
+XXX. Ordenar, cuando resulte conveniente, a los servidores públicos de las Dependencias y Órganos Desconcentrados, que aseguren, resguarden y custodien la información y documentación derivada de las auditorías, revisiones, inspecciones, verificaciones y visitas;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Contraloría General otorgará el apoyo necesario, a través de la Dirección General de Asuntos Jurídicos y Responsabilidades;
 
 XXXII. Opinar sobre la viabilidad de los proyectos de normas de contabilidad y presupuesto gubernamental y de control, en materia programática, presupuestal, recursos humanos, materiales, financieros, contratación de deuda y sobre el manejo de fondos y valores y en su caso, participar en Órganos Colegiados para el análisis de proyectos normativos relativos a estas materias;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXXIII. Brindar seguimiento, revisar las actividades y evaluar el desempeño, del Fideicomiso denominado Fondo de Seguridad Pública del Distrito Federal y del Fondo de Aportaciones para la Seguridad Pública del Distrito Federal, así como verificar el cumplimiento de los acuerdos expedidos por sus Comités Técnico e Interinstitucional, respectivamente; conforme a los convenios de coordinación celebrados con el Gobierno Federal, directamente o a través de las unidades administrativas de apoyo técnico-operativo de su adscripción;
+XXXIII. Coadyuvar en el seguimiento de los Fondos de Aportaciones Federales que les correspondan, así como verificar el cumplimiento de los acuerdos expedidos por sus respectivos Comités, conforme a los convenios de coordinación celebrados entre la Administración Pública del Distrito Federal y el Gobierno Federal;
 
 XXXIV. Expedir previo cotejo, copias certificadas de los documentos que obran en sus archivos, de los que tenga acceso con motivo del desarrollo de sus actividades, o de los documentos que obren en sus archivos o tengan acceso las unidades administrativas de apoyo técnico-operativo y contralorías internas que correspondan;
 
-XXXV. Comisionar al personal adscrito directamente a esta Dirección General, a los de las unidades administrativas de apoyo técnico-operativo y los de las contralorías internas que correspondan, para que coadyuven en la realización de actividades y funciones que son competencia de otras direcciones generales y órganos de control interno de la Contraloría General;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXXVI. Emitir, conjuntamente con las Direcciones Generales de Contralorías Internas en Delegaciones, y en Entidades, criterios para mejorar la eficiencia de las funciones de los órganos de control interno en las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, así como verificar en el ámbito de su competencia las actuaciones de éstos, tomando en su caso las medidas que permitan mejorar el desempeño de sus funciones, de conformidad con las disposiciones jurídicas y administrativas;
+XXXV. Comisionar al personal adscrito directamente a esta Dirección General, al de las unidades administrativas de apoyo técnico-operativo y al de las contralorías internas correspondientes, para que coadyuven en la realización de actividades y funciones de competencia de esta Dirección General, de otras direcciones generales y otros órganos de control interno de la Contraloría General;
 
-XXXVII. Definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Delegaciones, y en Entidades los criterios técnicos que deben reunir los expedientes de auditoría, así como los dictámenes técnicos correspondientes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXVI. Emitir, conjuntamente con las Direcciones Generales de Contralorías Internas en Delegaciones, y en Entidades, criterios para mejorar la eficiencia de las funciones de los órganos de control interno de la Administración Pública del Distrito Federal, así como verificar en el ámbito de su competencia las actuaciones de éstos, tomando en su caso las medidas que permitan mejorar el desempeño de sus funciones, de conformidad con las disposiciones jurídicas y administrativas;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXVII. Supervisar la aplicación de los criterios técnicos que deben reunir los expedientes de auditoría, así como los dictámenes técnicos correspondientes, de acuerdo a los lineamientos dictados al respecto;
 
 XXXVIII. Establecer las bases de selección del personal de las unidades administrativas de apoyo técnico-operativo y de las contralorías internas que correspondan, conjuntamente con las Direcciones Generales de Contralorías Internas en Delegaciones, y en Entidades, y específicamente en materia de quejas, denuncias y responsabilidades, con la Dirección General de Asuntos Jurídicos y Responsabilidades, conforme a los requisitos que determine el Titular de la Contraloría General;
 
@@ -7960,97 +8632,27 @@ XXXIX. Planear y definir, conjuntamente con las Direcciones Generales de Contral
 
 XL. Evaluar y dar seguimiento a la gestión pública en las dependencias y órganos desconcentrados de la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XLI. Ordenar, supervisar y ejecutar verificaciones preventivas sobre la realización de obras publicas que contraten las dependencias y órganos desconcentrados de la Administración Pública del Distrito Federal, así como emitir las recomendaciones que considere necesarias en los términos previstos por la Ley de Obras Públicas del Distrito Federal; y
+XLI. Ordenar, supervisar y ejecutar verificaciones preventivas sobre la realización de obras públicas que contraten las dependencias y órganos desconcentrados de la Administración Pública del Distrito Federal, así como emitir las recomendaciones que considere necesarias en los términos previstos por la Ley de Obras Públicas del Distrito Federal; y
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
 XLII. Las demás que le instruya el Titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 107.
 
-Corresponde a la Dirección de Auditorías Especiales en Dependencias y Órganos Desconcentrados:
-
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
-
-I. Proponer al Titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados el Programa de Auditoría para cada ejercicio presupuestal, sus modificaciones y mantener el seguimiento sistemático de su ejecución;
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-II. Someter a la aprobación de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados los programas, políticas y criterios previstos en la normatividad aplicable con motivo de sus funciones;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-III. Proponer al Titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados para su aprobación, los programas, políticas y criterios que estime pertinentes para las auditorías de obras en ejecución y de la prestación de servicios de supervisión de las obras en ejecución en cumplimiento de sus atribuciones;
-
-IV. (DEROGADA, G.O. 17 DE JUNIO DE 2011)
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-V. Instrumentar las medidas preventivas y correctivas que eviten las deficiencias y observaciones detectadas, así como su recurrencia;
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-VI. Requerir la información y documentación a las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de las Administración Pública del Distrito Federal, para verificar el seguimiento de las recomendaciones, observaciones y compromisos resultantes del cumplimiento al Programa de Auditoría de cada ejercicio al término del periodo que se determine para su atención;
-
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
-
-VII. Verificar que el registro de las auditorías ordinarias y extraordinarias, observaciones, recomendaciones, deficiencias y compromisos generados, así como los seguimientos de éstos se mantengan actualizados en el Sistema de Información Periódica;
-
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
-
-VIII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las dependencias y órganos desconcentrados de la Administración Pública del Distrito Federal, sujetas a auditoría o revisión, para comprobar si las acciones adoptadas atienden las recomendaciones en el tiempo autorizado para ello;
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-IX. Expedir previo cotejo copias certificadas de los documentos que obren en sus archivos, así como de las que tenga acceso con motivo del desarrollo de sus actividades;
-
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
-
-X. Intervenir cuando les sea instruido por el titular de la Dirección General, en coordinación con la Dirección General de Contralorías Internas en Delegaciones, Dirección General de Contralorías Internas en Entidades y Contralorías Internas que correspondan, en auditorías revisiones, verificaciones, inspecciones o visitas a las áreas de la Administración Pública del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-XI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
-
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
-
-XII. Ejecutar auditorías ordinarias y extraordinarias, revisiones, verificaciones, inspecciones o visitas a las diferentes áreas de la Administración Pública del Distrito Federal, conforme a los programas establecidos y autorizados, o por determinación del titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados; a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos y de las disposiciones legales reglamentarias y administrativas vigentes en materia de información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma; conservación, uso, destino, afectación, enajenación, adquisición y baja de bienes muebles e inmuebles; almacenes, inventarios, activos, pasivos y demás que correspondan, en términos de las disposiciones jurídicas y administrativas aplicables;
-
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
-
-XIII. Formular observaciones que se deriven de las auditorías, emitir las recomendaciones preventivas y correctivas correspondientes, dar seguimiento sistemático a las mismas, determinar su solventación; así como dejar insubsistente aquellas observaciones que en su solventación o seguimiento sobrevenga un impedimento legal o material para su atención;
-
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
-
-XIV. Derivado de las auditorías, revisiones, verificaciones, inspecciones o visitas, requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las dependencias y órganos desconcentrados de la Administración Pública del Distrito Federal, Órganos de Control Interno, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en los procedimientos previstos en el marco jurídico del Distrito Federal;
-
-XV. (DEROGADA, G.O. 17 DE JUNIO DE 2011)
-
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
-
-XVI. Turnar a la Dirección General de Asuntos Jurídicos y Responsabilidades los resultados de las auditorías practicadas que hubiesen tenido observaciones que implican responsabilidad de los servidores públicos y solicitar se finquen sanciones proporcionando los elementos y constancias que se hubiesen generado en la práctica de la auditoría, revisión, verificación, inspección o visita, con motivo de las observaciones generadas y, en su caso, por la falta de atención y solventación de las mismas; y
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-XVII. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
-
-> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
-
-###### Artículo 107-A.
-
-Corresponde a las Direcciones de Contralorías Internas en Dependencias y Órganos Desconcentrados, A, B y C:
+Corresponde a las Direcciones Ejecutivas de Contralorías Internas en Dependencias y Órganos Desconcentrados “A” y “B”:
 
 I. Coordinar a las Contralorías Internas y demás unidades de apoyo técnico-operativo que las integran en las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, y requerir la información necesaria para supervisar las actividades de las mismas;
 
-II. Someter a la aprobación de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados las políticas y criterios, así como el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las contralorías internas que correspondan, en cuanto a la ejecución del programa de auditoría y lo que se derive del seguimiento del mismo;
+II. Someter a la aprobación de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados los programas, las políticas y criterios, así como el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las contralorías internas que correspondan, en cuanto a la ejecución del programa de auditoría y lo que se derive del seguimiento del mismo;
 
 III. Supervisar y vigilar el cumplimiento de las normas, políticas, procedimientos y programas que regulan el funcionamiento de las contralorías internas que coordina, a través de los instrumentos de control y evaluación necesarios, e informar sus resultados a la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en su caso, tomar las medidas para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
 
-IV. Asesorar a las contralorías internas que coordina, en la elaboración e integración del Programa de Auditoría, del Programa Operativo Anual, así como cualquier revisión, verificación, visita, inspección y demás de las materias relacionadas a las atribuciones de aquellas;
+IV. Asesorar a las contralorías internas que coordina, en la elaboración e integración del Programa de Auditoría, del Programa Operativo Anual, así como cualquier revisión, verificación, visita, inspección y demás materias relacionadas a las atribuciones conferidas a las contralorías internas;
 
 V. Revisar y analizar los informes y reportes que emiten y envían las contralorías internas que coordina, como resultado de la ejecución del programa de auditoría, así como de cualquier revisión, verificación, visita, inspección y demás que se realizan en las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, solicitando las aclaraciones y correcciones que se deriven;
 
@@ -8058,47 +8660,63 @@ VI. Supervisar el seguimiento de las recomendaciones determinadas por la Contadu
 
 VII. Supervisar que las contralorías internas que coordina, verifiquen el cumplimiento a las disposiciones emitidas para el manejo de los recursos locales y federales;
 
-VIII. Requerir la información y documentación a las contralorías internas que le corresponda, para verificar el seguimiento de las recomendaciones, observaciones y compromisos resultantes del cumplimiento al Programa de Auditoría, de los resultados de las visitas, verificaciones, inspecciones y revisiones, así como la situación de éstos al término de un trimestre hasta su atención;
+VIII. Requerir la información y documentación a las Contralorías Internas, así como a las dependencias y órganos desconcentrados para verificar el seguimiento de las observaciones, recomendaciones y compromisos resultantes del cumplimiento al Programa de Auditoria de cada ejercicio presupuestal, de los resultados de las visitas, verificaciones, inspecciones y revisiones, así como la situación de éstos al término de un trimestre hasta su atención, o para comprobar si las acciones adoptadas atienden las recomendaciones en el tiempo autorizado para ello derivadas de auditoría o revisión;
 
-IX. Recibir, analizar y dictaminar la información periódica que les remitan las contralorías internas que correspondan, así como su incorporación al Sistema de Información Periódica;
+IX. Recibir, analizar y dictaminar la información periódica que les remitan las contralorías internas que correspondan, así como su incorporación al sistema correspondiente;
 
-X. Verificar que el registro de las auditorías ordinarias y extraordinarias, recomendaciones, observaciones, deficiencias y compromisos generados, así como los seguimientos de éstos, se mantenga actualizado en el Sistema de Información Periódica;
+X. Verificar que el registro de las auditorías ordinarias y extraordinarias, observaciones, recomendaciones y compromisos generados, así como los seguimientos de éstos, se mantengan actualizados en el sistema correspondiente;
 
-XI. Enviar, previo acuerdo con el titular de la Dirección General, a las Contralorías Internas o a la Dirección General de Asuntos Jurídicos y Responsabilidades, según se determine, los escritos, quejas, denuncias, aclaraciones de particulares o servidores públicos, que se reciban en forma directa en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención, desahogo y resolución correspondientes;
+XI. Enviar, previo acuerdo con el titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados, a las Contralorías Internas que le corresponda, o a la Dirección General de Asuntos Jurídicos y Responsabilidades, según se determine, los escritos, quejas, denuncias, aclaraciones de particulares o servidores públicos, que se reciban en forma directa en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención, desahogo y resolución correspondientes;
 
 XII. Informar periódicamente a la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados, sobre la gestión de los órganos de control interno que les correspondan, relacionados con los resultados de sus funciones, para una adecuada toma de decisiones;
 
-XIII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, así como a las contralorías internas;
+XIII. Expedir previo cotejo copias certificadas de los documentos que obren en sus archivos, así como de las que tenga acceso con motivo del desarrollo de sus actividades;
 
-XIV. Supervisar la aplicación de los indicadores de gestión establecidos por la Contraloría General para las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, a efecto de evaluar el desempeño y resultados de las mismas, a través de las Contralorías Internas que correspondan; acorde con la normatividad que emita la Unidad Administrativa competente;
+XIV. Supervisar el correcto desempeño por parte de los órganos de control interno que les corresponda, en las materias de Transparencia y Acceso a la Información Pública, Protección de Datos, Archivos y Programa de Derechos Humanos, de conformidad con las disposiciones jurídicas y administrativas aplicables; e informar a la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados;
 
-XV. Expedir previo cotejo copias certificadas de los documentos que obren en sus archivos, así como de las que tenga acceso con motivo del desarrollo de sus actividades;
+XV. Supervisar que en las Contralorías Internas ejecuten verificaciones, revisiones, inspecciones, visitas e intervengan en todos los procesos administrativos que efectúen las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal en las materias relativas a: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-XVI. Supervisar el desempeño de los órganos de control interno que les corresponda, en las materias reguladas por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento y demás normatividad aplicable en la materia; e informar a la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados;
+XVI. Verificar que las contralorías internas que correspondan cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones;
 
-XVII. Supervisar que en las Contralorías Internas ejecuten verificaciones, revisiones, inspecciones, visitas e intervengan en todos los procesos administrativos que efectúen las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal en las materias relativas a: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones o transferencias locales o federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, prestación de servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición, transferenvias (sic), y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
+XVII. Supervisar que las contralorías internas que correspondan lleven a cabo visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Dependencias y Órganos Desconcentrados, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
 
-XVIII. Verificar que las Contralorías Internas que correspondan cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones;
+XVIII. Supervisar las determinaciones de las Contralorías Internas que correspondan respecto de la emisión de suspensiones temporal o definitiva, la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro procedimiento previsto en los ordenamientos aplicables vigentes que lleven a cabo en las Dependencias y Órganos Desconcentrados, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, bienes muebles e inmuebles, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de auditorías, revisiones, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
 
-XIX. Supervisar que las contralorías internas que correspondan lleven a cabo visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Dependencias y Órganos Desconcentrados, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+XIX. Supervisar la instrucción a las Dependencias y Órganos Desconcentrados de la Administración Pública, de suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de: adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, concesiones, permisos, bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las auditorías, revisiones, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
 
-XX. Supervisar las determinaciones de las Contralorías Internas que correspondan respecto de la emisión de suspensiones temporal o definitiva, la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro procedimiento previsto en los ordenamientos aplicables vigentes que lleven a cabo en las Dependencias y Órganos Desconcentrados, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
+XX. Supervisar la ejecución de auditorías, tanto ordinarias como extraordinarias a las programadas, en las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, a los respectivos Órganos de Control Interno de su adscripción, a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-XXI. Supervisar la instrucción a las Dependencias y Órganos Desconcentrados de la Administración Pública, de suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de: adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
+XXI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Contraloría General otorgará el apoyo necesario, a través de la Dirección General de Asuntos Jurídicos y Responsabilidades;
 
-XXII. Supervisar la ejecución de auditorías, tanto ordinarias como extraordinarias a las programadas, en las Dependencias y Órganos Desconcentrados de la Administración Pública del Distrito Federal, a los respectivos Órganos de Control Interno de su adscripción, a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones o trasferencias locales federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
+XXII. Asistir y participar en los Órganos de Gobierno, Comités, Subcomités, Consejos Directivos y demás Cuerpos Colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Dependencias y Órganos Desconcentrados en los términos que determinen las disposiciones jurídicas aplicables, por sí, o a través de los Titulares de las Contralorías Internas o de las Unidades Administrativas de Apoyo Técnico Operativo adscritas a ella o cuando no se cuente con Órganos de Control Interno;
 
-XXIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
+XXIII. Previa determinación del titular de la Dirección General, coadyuvar en el seguimiento de los Fondos de Aportaciones Federales que les correspondan, así como verificar el cumplimiento de los acuerdos expedidos por sus respectivos Comités; conforme a los convenios de coordinación celebrados entre la Administración Pública del Distrito Federal y el Gobierno Federal;
 
-XXIV. Someter a la aprobación de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados, los objetivos, políticas y criterios que deberán observarse en la práctica de auditorías externas, en coordinación con las direcciones generales de contralorías internas en Delegaciones, y Entidades, que se vayan a realizar en la Administración Pública del Distrito Federal;
+XXIV. Proponer al Titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados el Programa de Auditorías Especiales para cada ejercicio presupuestal, sus modificaciones y mantener el seguimiento sistemático de su ejecución;
 
-XXV. Asistir y participar a las sesiones de los consejos directivos, comités, subcomités y demás cuerpos colegiados, instalados en las Dependencias y Órganos desconcentrados de la Administración Pública del Distrito Federal, en que sean designados por el titular de la Dirección General, en términos de las disposiciones jurídicas y administrativas aplicables y preparar los informes correspondientes;
+XXV. Proponer al Titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados para su aprobación, los programas, políticas y criterios que estime pertinentes para las auditorías, en cumplimiento de sus atribuciones;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+XXVI. Instrumentar las medidas preventivas y correctivas que eviten las observaciones detectadas, así como su recurrencia;
 
-XXVI. Coadyuvar en el seguimiento, revisar las actividades y evaluar el desempeño, del Fideicomiso denominado Fondo de Seguridad Pública del Distrito Federal, y del Fondo de Aportaciones para la Seguridad Pública del Distrito Federal, así como verificar el cumplimiento de los acuerdos expedidos por los Comités Técnico e Interinstitucional de dichos Fondos, respectivamente; conforme a los convenios de coordinación celebrados con el Gobierno Federal, previa determinación del titular de la Dirección General;
+XXVII. Derivado de las auditorias, revisiones, verificaciones, inspecciones o visitas, requerir de acuerdo a la naturaleza de sus funciones, información y documentación a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios o cualesquiera otros que intervengan en los procedimientos previstos en el marco jurídico del Distrito Federal;
 
-XXVII. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XXVIII. Intervenir cuando les sea instruido por el titular de la Dirección General, en coordinación con las Direcciones Generales de Contralorías Internas en Delegaciones, en Entidades y Contralorías Internas que correspondan, en auditorías, revisiones, verificaciones, inspecciones o visitas a las áreas de la Administración Pública del Distrito Federal;
+
+XXIX. Ejecutar auditorias ordinarias y extraordinarias, revisiones, verificaciones, inspecciones o visitas a las diferentes áreas de la Administración Pública del Distrito Federal, conforme a los programas establecidos y autorizados, o por determinación del titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados; a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos y de las disposiciones legales reglamentarias y administrativas vigentes en materia de adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
+
+XXX. Formular observaciones que se deriven de las auditorías, emitir las recomendaciones preventivas y correctivas correspondientes, dar seguimiento sistemático a las mismas, determinar su solventación; de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XXXI. Turnar a las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades los resultados de las auditorías practicadas que hubiesen tenido observaciones que impliquen probable responsabilidad de los servidores públicos y solicitar se finquen sanciones proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías, y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
+
+Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos;
+
+XXXII. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+###### Artículo 107-A.
+
+(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE FEBRERO DE 2014, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -8106,99 +8724,153 @@ XXVII. Las demás que le instruya el titular de la Dirección General de Contral
 
 Corresponde a la Dirección General de Contralorías Internas en Delegaciones:
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-I. Integrar y presentar, para la autorización del Titular de la Contraloría General, el Programa de Auditoría para cada ejercicio presupuestal, el cual comprenderá las auditorías ordinarias, extraordinarias, y de cualquier naturaleza, incluyendo de legalidad, que estarán a cargo de las Contralorías Internas en Delegaciones de la Administración Pública del Distrito Federal, así como las demás actividades a realizar por las Contralorías Internas en Delegaciones;
+I. Integrar y presentar, para la autorización del Titular de la Contraloría General, el Programa de Auditoría para cada ejercicio presupuestal, el cual comprenderá las auditorías ordinarias incluyendo las de legalidad y desempeño, así como actividades adicionales, que estarán a cargo de las Contralorías Internas en Delegaciones de la Administración Pública del Distrito Federal, así como las demás actividades a realizar por las Contralorías Internas en Delegaciones;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
 II. Coordinar, supervisar y evaluar directamente o a través de las Unidades Administrativas de Apoyo Técnico-Operativo correspondientes, a las Contralorías Internas y demás áreas que las integran en las Delegaciones de la Administración Pública del Distrito Federal y, en su caso, tomar las medidas para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
 
-III. Establecer conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados y en Entidades de acuerdo a la naturaleza de sus funciones el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las Contralorías Internas en las Delegaciones de la Administración Pública del Distrito Federal, en cuanto a la ejecución del Programa de Auditoría y lo que se derive del seguimiento del mismo;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+III. Establecer y operar conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y Entidades de acuerdo a la naturaleza de sus funciones el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las Contralorías Internas en las Delegaciones de la Administración Pública del Distrito Federal, en cuanto a la ejecución del Programa de Auditoría y lo que se derive del seguimiento del mismo;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
 IV. Autorizar a las Contralorías Internas en las Delegaciones de la Administración Pública del Distrito Federal; previo análisis, la modificación a su Programa de Auditoría de cada ejercicio;
 
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
 V. Requerir de acuerdo con la naturaleza de sus funciones, información y documentación a las Delegaciones y Contralorías Internas que correspondan, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procesos administrativos en el marco jurídico del Distrito Federal;
 
-VI. Verificar la aplicación de los indicadores de gestión establecidos por la Contraloría General para las Delegaciones de la Administración Pública del Distrito Federal, a efecto de evaluar el desempeño y resultados de las mismas, a través de las Contralorías Internas que correspondan;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VII. Ordenar a las contralorías internas y a las unidades administrativas de apoyo técnico-operativo, la ejecución de verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúen las Delegaciones de la Administración Pública del Distrito Federal, en las materias relativas a: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+VI. Ordenar a las contralorías internas y a las unidades administrativas de apoyo técnico-operativo, la ejecución de verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúen las Delegaciones de la Administración Pública del Distrito Federal, en las materias relativas a: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VIII. Supervisar, a través de las Contralorías Internas que correspondan, la adecuada substanciación de los procedimientos de la Afirmativa Ficta conforme a lo señalado en la Ley de Procedimiento Administrativo del Distrito Federal.
+VII. Supervisar a las Contralorías Internas en Delegaciones, la adecuada substanciación de los procedimientos de la Afirmativa Ficta conforme a lo señalado en la Ley de Procedimiento Administrativo del Distrito Federal.
 
-IX. (DEROGADA, G.O. 30 DE MARZO DE 2009)
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+VIII. Representar a la Contraloría General y participar en los Órganos de Gobierno, Comités, Subcomités y demás Cuerpos Colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Delegaciones en los términos que determinen las disposiciones jurídicas aplicables, por sí, o a través de los Titulares de las Contralorías Internas o de las Unidades Administrativas de Apoyo Técnico Operativo adscritas a ella o cuando no se cuente con Órganos de Control Interno;
 
-X. Representar a la Contraloría General directamente o a través de los titulares de las Contralorías Internas y de sus demás unidades administrativas de apoyo técnico-operativo, en los comités, subcomités y demás cuerpos colegiados instalados en las delegaciones de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XI. Proponer al Contralor General la modificación de las estructuras orgánicas y ocupacionales de las Contralorías Internas que correspondan, para que sean sometidas a la autorización de las instancias correspondientes;
+IX. Proponer al Contralor General la modificación de las estructuras orgánicas y ocupacionales de las Contralorías Internas que correspondan, para que sean sometidas a la autorización de las instancias correspondientes;
 
-XII. Vigilar y supervisar el desempeño por parte de los órganos de control interno de su adscripción, en las materias reguladas por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento, y demás disposiciones aplicables en la materia;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIII. Ordenar y realizar directamente, o a través de sus unidades de apoyo técnico-operativo y contralorías internas que correspondan, visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Delegaciones, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+X. Vigilar y supervisar el correcto desempeño por parte de los órganos de control interno que correspondan, en las materias de Transparencia y Acceso a la Información Pública, Protección de Datos, Archivos y Programa de Derechos Humanos, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XIV. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro proceso administrativo previsto en los ordenamientos aplicables vigentes que lleven a cabo las Delegaciones, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XV. Instruir a las Delegaciones de la Administración Pública, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
+XI. Ordenar y realizar directamente, o a través de sus unidades de apoyo técnico-operativo y contralorías internas que correspondan, visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Delegaciones, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
 
-XVI. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades, e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+XII. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro proceso administrativo previsto en los ordenamientos aplicables vigentes que lleven a cabo las Delegaciones, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
 
-XVII. Remitir directamente o a través de sus unidades de apoyo técnico-operativo a las Contralorías Internas que correspondan o a la Dirección General de Asuntos Jurídicos y Responsabilidades, según se determine, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa o que por cualquier otro medio se tenga conocimiento, en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención, desahogo y resolución correspondientes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XVIII. Verificar y dictar las medidas necesarias para que las Contralorías Internas de su adscripción cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones;
+XIII. Instruir a las Delegaciones de la Administración Pública, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
 
-XIX. Establecer las bases generales, en coordinación con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y Entidades, para la práctica de auditorías a las Delegaciones de la Administración Pública, así como ordenar su ejecución;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XX. Ordenar la ejecución de auditorías, tanto ordinarias como extraordinarias a las programadas, en las Delegaciones de la Administración Pública del Distrito Federal, a los respectivos Órganos de Control Interno de su adscripción, a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones o trasferencias locales y federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+XIV. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades, e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, convivientes, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
 
-XXI. Formular observaciones directamente o a través de las contralorías internas y unidades de apoyo técnico-operativo que le correspondan, que se deriven de las auditorías, revisiones, inspecciones, visitas o verificaciones; emitir las recomendaciones preventivas y correctivas correspondientes; dar un seguimiento sistemático a las mismas; determinar su solventación; así como dejar insubsistentes aquellas observaciones que en su solventación o seguimiento sobrevenga un impedimento legal o material para su atención;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXII. Solicitar se finque responsabilidades ante las contralorías internas que correspondan o la Dirección General de Asuntos Jurídicos y Responsabilidades, según sea determinado, proporcionando los elementos y constancias que se hubiesen generado en la práctica de la auditoría, revisión, inspección, visitas y verificaciones, con motivo de las observaciones generadas, en su caso, por la falta de atención y solventación de las mismas y en general por infracciones o incumplimiento a la normatividad aplicable;
+XV. Remitir directamente o a través de sus unidades de apoyo técnico-operativo a las Contralorías Internas que correspondan o a la Dirección General de Asuntos Jurídicos y Responsabilidades, según se determine, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa o que por cualquier otro medio se tenga conocimiento, en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención, desahogo y resolución correspondientes;
 
-XXIII. Fiscalizar, a través de auditorías y revisiones, el ejercicio de los recursos federales y los de las Entidades federativas aportados o transferidos a las Delegaciones, comprobando que se apliquen con base en los acuerdos o convenios establecidos con estas, o con autoridades federales, en coordinación con los órganos de control competentes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXIV. Preparar en el ámbito de sus atribuciones, la información relativa a esta Dirección General del Programa Auditoría de cada ejercicio de la Contraloría General, para su remisión a la Contaduría Mayor de Hacienda de la Asamblea Legislativa y a otras instancias;
+XVI. Verificar y dictar las medidas necesarias para que las Contralorías Internas correspondientes, cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones;
 
-XXV. Fijar las bases generales que deberán observarse en la práctica de auditorías externas, en coordinación con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en Entidades, que se vayan a realizar en la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXVI. Proponer para su contratación a los auditores externos, y supervisar el desarrollo y resultado de las actividades de auditoría, revisión y fiscalización para los que fuesen contratados;
+XVII. Establecer los lineamientos generales, en coordinación con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y Entidades, para la práctica de auditorías a las Delegaciones de la Administración Pública, así como ordenar su ejecución;
 
-XXVII. A petición de la Dirección General de Asuntos Jurídicos y Responsabilidades o de la Dirección de Situación Patrimonial, ordenar a las contralorías internas que correspondan, la práctica de las auditorías y visitas de inspección a los servidores públicos de las Delegaciones de la Administración Pública del Distrito Federal, para los efectos a que alude el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXVIII. Ordenar, cuando resulte conveniente, a los servidores públicos de las Delegaciones de la Administración Pública del Distrito Federal, que aseguren, resguarden y custodien la información y documentación derivada de las auditorías, revisiones, inspecciones, verificaciones y visitas;
+XVIII. Ordenar la ejecución de auditorías, tanto ordinarias como extraordinarias a las programadas, en las Delegaciones de la Administración Pública del Distrito Federal, a los respectivos Órganos de Control Interno de su adscripción, a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-XXIX. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXX. Expedir previo cotejo, copias certificadas de los documentos que obran en sus archivos, de los que tenga acceso con motivo del desarrollo de sus actividades, o de los documentos que obren en sus archivos o tengan acceso las unidades administrativas de apoyo técnico-operativo y contralorías internas que correspondan;
+XIX. Formular observaciones directamente o a través de las contralorías internas y unidades de apoyo técnico-operativo que le correspondan, que se deriven de las auditorías, revisiones, inspecciones, visitas o verificaciones; emitir las recomendaciones preventivas y correctivas correspondientes; dar un seguimiento sistemático a las mismas; determinar su solventación; de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XXXI. Comisionar al personal adscrito directamente a esta Dirección General, a los de las unidades administrativas de apoyo técnico-operativo y los de las contralorías internas que correspondan, para que coadyuven en la realización de actividades y funciones que correspondan a otras direcciones generales y órganos de control interno de la Contraloría General;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXXII. Opinar sobre la viabilidad de los proyectos de normas de contabilidad y presupuesto gubernamental y de control, en materia programática, presupuestal, recursos humanos, materiales, financieros, contratación de deuda y sobre el manejo de fondos y valores y en su caso, participar en Órganos Colegiados para el análisis de proyectos normativos relativos a estas materias;
+XX. Solicitar se finquen responsabilidades ante las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades, según corresponda, proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
 
-XXXIII. Emitir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Entidades, criterios para mejorar la eficiencia de las funciones de los órganos de control interno en las Dependencias y Órganos Desconcentrados, en Delegaciones, y en Entidades, de la Administración Pública del Distrito Federal, así como verificar en el ámbito de su competencia las actuaciones de éstos, tomando en su caso las medidas que permitan mejorar el desempeño de sus funciones, de conformidad con las disposiciones jurídicas y administrativas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXXIV. Definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Entidades los criterios técnicos que deben reunir los expedientes de auditoría, así como los dictámenes técnicos correspondientes;
+Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos;
 
-XXXV. Establecer las bases de selección del personal de las unidades administrativas de apoyo técnico-operativo y de las contralorías internas que correspondan, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en Entidades, y específicamente en materia de quejas, denuncias y responsabilidades, con la Dirección General de Asuntos Jurídicos y Responsabilidades, conforme a los requisitos que determine el Titular de la Contraloría General;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+XXI. Fiscalizar, a través de auditorías y revisiones, el ejercicio de los recursos federales y los de las Entidades federativas aportados o transferidos a las Delegaciones, comprobando que se apliquen con base en los acuerdos o convenios establecidos con éstas, o con autoridades federales, en coordinación con los órganos de control competentes;
 
-XXXVI. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Entidades, de Legalidad, y de Asuntos Jurídicos y Responsabilidades, los programas de capacitación jurídica y de auditoría para el personal de las Contralorías Internas y de la Contraloría General;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+XXII. Coadyuvar con los órganos de fiscalización federales y locales, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XXXVII. Evaluar y dar seguimiento a la gestión pública en las Delegaciones de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+XXIII. A petición de la Dirección General de Asuntos Jurídicos y Responsabilidades o de la Dirección de Situación Patrimonial, ordenar a las contralorías internas que correspondan, la práctica de las auditorías y visitas de inspección a los servidores públicos de las Delegaciones de la Administración Pública del Distrito Federal, para los efectos a que alude el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-XXXVIII. Ordenar, supervisar y ejecutar verificaciones preventivas sobre la realización de obras publicas que contraten las delegaciones de la Administración Pública del Distrito Federal, así como emitir las recomendaciones que considere necesarias en los términos previstos por la Ley de Obras Públicas del Distrito Federal; y
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+XXIV. Ordenar, cuando resulte conveniente, a los servidores públicos de las Delegaciones, que aseguren, resguarden y custodien la información y documentación derivada de las auditorías, revisiones, inspecciones, verificaciones y visitas;
 
-XXXIX. Las demás que le instruya el Titular de la Contraloría General; las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXV. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Contraloría General otorgará el apoyo necesario, a través de la Dirección General de Asuntos Jurídicos y Responsabilidades;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVI. Expedir previo cotejo, copias certificadas de los documentos que obran en sus archivos, de los que tenga acceso con motivo del desarrollo de sus actividades, o de los documentos que obren en sus archivos o tengan acceso las unidades administrativas de apoyo técnico-operativo y contralorías internas que correspondan;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVII. Comisionar al personal adscrito directamente a esta Dirección General, al de las unidades administrativas de apoyo técnico-operativo y al de las contralorías internas correspondientes, para que coadyuven en la realización de actividades y funciones de competencia de esta Dirección General, de otras direcciones generales y otros órganos de control interno de la Contraloría General;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVIII. Opinar sobre la viabilidad de los proyectos de normas de contabilidad y presupuesto gubernamental y de control, en materia programática, presupuestal, recursos humanos, materiales, financieros, contratación de deuda y sobre el manejo de fondos y valores y en su caso, participar en Órganos Colegiados para el análisis de proyectos normativos relativos a estas materias.
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIX. Emitir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en Entidades, criterios para mejorar la eficiencia de las funciones de los órganos de control interno de la Administración Pública del Distrito Federal, así como verificar en el ámbito de su competencia las actuaciones de éstos, tomando en su caso las medidas que permitan mejorar el desempeño de sus funciones, de conformidad con las disposiciones jurídicas y administrativas;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXX. Supervisar la aplicación de los criterios técnicos que deben reunir los expedientes de auditoría, así como los dictámenes técnicos correspondientes, de acuerdo a los lineamientos dictados al respecto;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXI. Establecer las bases de selección del personal de las unidades administrativas de apoyo técnico-operativo y de las contralorías internas que correspondan, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en Entidades, y específicamente en materia de quejas, denuncias y responsabilidades, con la Dirección General de Asuntos Jurídicos y Responsabilidades, conforme a los requisitos que determine el Titular de la Contraloría General;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXII. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Entidades, de Legalidad, y de Asuntos Jurídicos y Responsabilidades, los programas de capacitación jurídica y de auditoría para el personal de las Contralorías Internas y de la Contraloría General;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXIII. Evaluar y dar seguimiento a la gestión pública en las Delegaciones de la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXIV. Ordenar, supervisar y ejecutar verificaciones preventivas sobre la realización de obras públicas que contraten las delegaciones de la Administración Pública del Distrito Federal, así como emitir las recomendaciones que considere necesarias en los términos previstos por la Ley de Obras Públicas del Distrito Federal y demás disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXV. Requerir la información y documentación a las Contralorías Internas, así como a las delegaciones para verificar el seguimiento de las observaciones, recomendaciones y compromisos resultantes del cumplimiento al Programa de Auditoria de cada ejercicio presupuestal, de los resultados de las visitas, verificaciones, inspecciones y revisiones, así como la situación de éstos al término de un trimestre hasta su atención, o para comprobar si las acciones adoptadas atienden las recomendaciones en el tiempo autorizado para ello derivadas de auditoría o revisión;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXVI. Las demás que le instruya el Titular de la Contraloría General; las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -8212,7 +8884,9 @@ II. Someter a la aprobación de la Dirección General de Contralorías Internas 
 
 III. Supervisar y vigilar el cumplimiento de las normas, políticas, procedimientos y programas que regulan el funcionamiento de las contralorías internas que coordina, a través de los instrumentos de control y evaluación necesarios, e informar sus resultados a la Dirección General de Contralorías Internas en Delegaciones, y en su caso, tomar las medidas para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
 
-IV. Asesorar a las contralorías internas que coordina, en la elaboración e integración de su Programa de Auditoría, de su Programa Operativo Anual, así como en cualquier revisión, verificación, visita, inspección y demás de las materias relacionadas a las atribuciones de aquellas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+IV. Asesorar a las contralorías internas que coordina, en colaboración con la Dirección de Seguimiento de Obras, en la elaboración e integración de su Programa de Auditoría, de su Programa Operativo Anual, así como en cualquier revisión, verificación, visita, inspección y demás de las materias relacionadas a las atribuciones conferidas a las Contralorías Internas;
 
 V. Revisar y analizar los informes y reportes que emiten y envían las contralorías internas que coordina, como resultado de la ejecución de su Programa Anual de Auditoría, así como de cualquier revisión, verificación, visita, inspección y demás que se realizan en las Delegaciones de la Administración Pública del Distrito Federal, solicitando las aclaraciones y correcciones que se deriven;
 
@@ -8220,39 +8894,65 @@ VI. Supervisar el seguimiento de las recomendaciones determinadas por la Contadu
 
 VII. Supervisar que las contralorías internas que coordina verifiquen, el cumplimiento a las disposiciones emitidas para el manejo de los recursos, locales y federales;
 
-VIII. Requerir la información y documentación a las contralorías internas que le corresponda, para verificar el seguimiento de las recomendaciones, observaciones y compromisos resultantes del cumplimiento al Programa de Auditoría, de los resultados de las visitas, verificaciones e inspecciones, así como la situación de éstos al término de un trimestre hasta su atención;
+VIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-IX. Recibir, analizar y dictaminar la información periódica que les remitan las contralorías internas que les correspondan, así como su incorporación al Sistema de Información Periódica;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-X. Verificar que el registro de las auditorías ordinarias y extraordinarias, recomendaciones, observaciones, deficiencias y compromisos generados, así como los seguimientos de éstos, se mantenga actualizado en el Sistema de Información Periódica;
+IX. Recibir, analizar y dictaminar la información periódica que les remitan las contralorías internas que les correspondan, así como su incorporación al sistema correspondiente;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+X. Verificar que el registro de las auditorías ordinarias y extraordinarias, recomendaciones, observaciones, deficiencias y compromisos generados, así como los seguimientos de éstos, se mantenga actualizado en el sistema correspondiente;
 
 XI. Enviar, previo acuerdo con el titular de la Dirección General, a las Contralorías Internas o a la Dirección General de Asuntos Jurídicos y Responsabilidades, según se determine, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención, desahogo y resolución correspondientes;
 
 XII. Informar periódicamente a la Dirección General de Contralorías Internas en Delegaciones, sobre los asuntos de los órganos de control interno que les correspondan, relacionados con los resultados de sus funciones, para una adecuada toma de decisiones;
 
-XIII Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Delegaciones de la Administración Pública del Distrito Federal; así como a las contralorías internas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIV. Supervisar la aplicación de los indicadores de gestión establecidos por la Contraloría General para las Delegaciones de la Administración Pública del Distrito Federal, a efecto de evaluar el desempeño y resultados de las mismas, a través de las Contralorías Internas que correspondan, acorde con la normatividad que emita la Unidad Administrativa competente;
+XIII. Turnar a las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades los resultados de las auditorías practicadas que hubiesen tenido observaciones que impliquen probable responsabilidad de los servidores públicos y solicitar se finquen sanciones proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías, y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
 
-XV. Supervisar el desempeño de los órganos de control interno que les corresponda, en las materias reguladas por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento y demás normatividad aplicable en la materia; e informar a la Dirección General de Contralorías Internas en Delegaciones;
+Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos;
 
-XVI. Supervisar que en las contralorías internas ejecuten de (sic) verificaciones, revisiones, inspecciones, visitas e intervengan en todos los procesos administrativos que efectúen las Delegaciones de la Administración Pública del Distrito Federal, en las materias relativas a: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones o trasferencias locales y federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIV. Requerir la información y documentación a las Contralorías Internas, así como a las delegaciones para verificar el seguimiento de las observaciones, recomendaciones y compromisos resultantes del cumplimiento al Programa de Auditoria de cada ejercicio presupuestal, de los resultados de las visitas, verificaciones, inspecciones y revisiones, así como la situación de éstos al término de un trimestre hasta su atención, o para comprobar si las acciones adoptadas atienden las recomendaciones en el tiempo autorizado para ello derivadas de auditoría o revisión;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XV. Supervisar el correcto desempeño por parte de los órganos de control interno que les correspondan, en las materias de Transparencia y Acceso a la Información Pública, Protección de Datos, Archivos y Programa de Derechos Humanos, de conformidad con las disposiciones jurídicas y administrativas aplicables; e informar a la Dirección General de Contralorías Internas en Delegaciones;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVI. Supervisar que en las Contralorías Internas ejecuten verificaciones, revisiones, inspecciones, visitas e intervengan en todos los procesos administrativos que efectúen las Delegaciones de la Administración Pública del Distrito Federal en las materias relativas a: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
 XVII. Verificar que las Contralorías Internas que correspondan, cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones;
 
-XVIII. Supervisar que las contralorías internas que correspondan lleven a cabo visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Gobierno del Distrito Federal, que efectúen las Delegaciones, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIX. Supervisar las determinaciones de las Contralorías Internas que coordinan respecto de la emisión de suspensiones temporales o definitivas, la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro proceso previsto en los ordenamientos aplicables vigentes que lleven a cabo en las Delegaciones, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
+XVIII. Supervisar que las contralorías internas que correspondan lleven a cabo visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Delegaciones, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
 
-XX. Supervisar la instrucción a las Delegaciones de la Administración Pública, de suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXI. Supervisar la ejecución de auditorías, tanto ordinarias como extraordinarias a las programadas, en las Delegaciones de la Administración Pública del Distrito Federal, a los respectivos Órganos de Control Interno de su adscripción, a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones o trasferencias locales y federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+XIX. Supervisar las determinaciones de las Contralorías Internas que correspondan respecto de la emisión de suspensiones temporal o definitiva, la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro procedimiento previsto en los ordenamientos aplicables vigentes que lleven a cabo en las Delegaciones, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, bienes muebles e inmuebles, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de auditorías, revisiones, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
 
-XXII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXIII. Someter a la aprobación de la Dirección General de Contralorías Internas en Delegaciones las normas, objetivos, políticas, criterios y lineamientos que deberán observarse en la práctica de auditorías externas, en coordinación con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en Entidades, que se vayan a realizar en la Administración Pública del Distrito Federal;
+XX. Supervisar la instrucción a las Delegaciones de la Administración Pública, de suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de: adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, concesiones, permisos, bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las auditorías, revisiones, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
 
-XXIV. Asistir y participar en los Comités, Subcomités y demás Cuerpos Colegiados establecidos en las Delegaciones en los términos que determinen los lineamientos aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXI. Supervisar la ejecución de auditorías, tanto ordinarias como extraordinarias a las programadas, en las Delegaciones de la Administración Pública del Distrito Federal, a los respectivos Órganos de Control Interno de su adscripción, a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Contraloría General otorgará el apoyo necesario, a través de la Dirección General de Asuntos Jurídicos y Responsabilidades;
+
+XXIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIV. Representar a la Contraloría General y participar en los Órganos de Gobierno, Comités, Subcomités y demás Cuerpos Colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Dependencias y Órganos Desconcentrados en los términos que determinen las disposiciones jurídicas aplicables, por sí, o a través de los Titulares de las Contralorías Internas o de las Unidades Administrativas de Apoyo Técnico Operativo adscritas a ella o cuando no se cuente con Órganos de Control Interno;
 
 XXV. Expedir previo cotejo, copias certificadas de los documentos que obran en sus archivos, de los que tenga acceso con motivo del desarrollo de sus actividades, o de los documentos que obren en sus archivos o tengan acceso las unidades administrativas de apoyo técnico-operativo y contralorías internas que correspondan;
 
@@ -8294,95 +8994,177 @@ XIII. Las demás que se deriven de este Reglamento u otras disposiciones legales
 
 XIV. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa de Apoyo Técnico Operativo, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas.
 
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+Artículo 109 A.- Corresponde a la Dirección de Seguimiento de Obras de Contralorías Internas en Delegaciones:
+
+I. Asesorar en la elaboración del programa anual de auditoría en materia de Obra Pública y Servicios Relacionados con las Mismas, por parte de las Contralorías Internas en Delegaciones, en coordinación con las Direcciones de Contralorías Internas en Delegaciones A y B, para su presentación a la Dirección General de Contralorías Internas en Delegaciones;
+
+II. Coordinar las actividades de seguimiento sistemático a la ejecución del programa anual de auditorías y revisiones en materia de Obra Pública y Servicios Relacionados con las Mismas, en las Contralorías Internas en Delegaciones, formulando en su caso recomendaciones a las Contralorías Internas a efecto de que se emitan las observaciones correspondientes a las Delegaciones, dando el seguimiento necesario para su atención y solventación;
+
+III. Supervisar la realización de auditorías extraordinarias a las programadas en las Contralorías Internas en Delegaciones, a fin de promover la eficiencia en sus operaciones, verificar en (sic) cumplimiento de sus objetivos y de la normatividad vigente en materia de Obra Pública;
+
+IV. Realizar visitas a las Obras y/o Servicios que realizan las Direcciones de Obra y/o Servicios Urbanos en las Delegaciones, para verificar, inspeccionar y vigilar que cumplan con las normas y disposiciones establecidas en materia de obra pública y servicios relacionados con las mismas, con la participación del personal encargado del seguimiento en las Contralorías Internas en Delegaciones;
+
+V. Implementar servicios de vigilancia, inspección y control a las actividades y acciones preventivas y correctivas sobre las obras públicas y los servicios relacionados con las mismas, financiados con recursos federales para comprobar el cumplimiento de las disposiciones aplicables en la planeación, programación, presupuestación, contratación, gasto y ejecución realizadas por las Direcciones Generales de Obras y/o Servicios Urbanos en Delegaciones, con cargo total o parcial a recursos federales;
+
+VI. Supervisar y vigilar el cumplimiento de las normas, políticas, procedimientos y programas que regulan el funcionamiento de las contralorías internas en Delegaciones en materia de obras y servicios relacionados con la misma, a través de los instrumentos de control y evaluación necesarios, e informar sus resultados a la Dirección General de Contralorías Internas en Delegaciones, y en su caso, tomar las medidas para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
+
+VII. Implementar la aplicación permanente y seguimiento de indicadores para la mejora continua de los procesos de verificación, control y evaluación de las actividades relacionadas con la obra pública y servicios relacionados con las mismas;
+
+VIII. Requerir la información y documentación a las Contralorías Internas en Delegaciones para verificar el seguimiento de las observaciones y compromisos, resultado del cumplimiento al programa de auditoría, revisiones, verificaciones, inspecciones o visitas, en materia de obra pública;
+
+IX. Supervisar las determinaciones de las Contralorías Internas en materia de obra pública y servicios relacionados con las mismas respecto de la emisión de suspensiones temporales o definitivas, la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro proceso previsto en los ordenamientos aplicables vigentes que lleven a cabo en las Delegaciones, cuando deriven de cualquier tipo de intervención o que por cualquier medio que se tenga conocimiento de irregularidades o inconsistencias;
+
+X. Revisar y analizar en coordinación con las Direcciones de Contralorías Internas en Delegaciones A y B, los informes y reportes en materia de Obra Pública, que emiten y envían las contralorías internas, como resultado de cualquier revisión, verificación, visita, inspección y demás que se realizan en las Delegaciones de la Administración Pública del Distrito Federal, solicitando las aclaraciones y correcciones que se deriven;
+
+XI. Asistir y participar en los Comités, Subcomités de obra y demás Cuerpos Colegiados establecidos en las Delegaciones y en el subcomité técnico de coordinación de obras públicas del Distrito Federal en los términos que determinen los lineamientos aplicables;
+
+XII. Turnar a las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades los resultados de las auditorías practicadas que hubiesen tenido observaciones que impliquen probable responsabilidad de los servidores públicos y solicitar se finquen sanciones proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías, y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
+
+Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos; y
+
+XIII. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Delegaciones; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
 ###### Artículo 110.
 
 Corresponde a la Dirección General de Contralorías Internas en Entidades:
 
-I. Integrar y presentar, para la autorización del titular de la Contraloría General, el Programa de Auditoría para cada ejercicio presupuestal, el cual comprenderá las auditorías ordinarias, extraordinarias, y de cualquier naturaleza, incluyendo de legalidad, que estarán a cargo de las Contralorías Internas en las Entidades de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-II. Coordinar, supervisar y evaluar directamente o a través de las Unidades Administrativas de Apoyo Técnico-Operativo correspondientes, a las Contralorías Internas y demás áreas que las integran en las Entidades de la Administración Pública del Distrito Federal y, en su caso, tomar las medidas para hacer más eficiente las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
+I. Integrar y presentar, para la autorización del titular de la Contraloría General, el Programa de Auditoría para cada ejercicio presupuestal, el cual comprenderá las auditorías ordinarias incluyendo las de legalidad y desempeño, así como actividades adicionales, que estarán a cargo de las Unidades Administrativas de Apoyo Técnico Operativo de su adscripción y de las Contralorías Internas en las Entidades de la Administración Pública del Distrito Federal, así como las demás actividades a realizar por las Contralorías Internas en Entidades;
 
-III. Establecer conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados y en Delegaciones de acuerdo a la naturaleza de sus funciones el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las Contralorías Internas en las Entidades de la Administración Pública del Distrito Federal, en cuanto a la ejecución del Programa de Auditoría y lo que se derive del seguimiento del mismo;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+II. Coordinar, supervisar y evaluar directamente o a través de las Unidades Administrativas de Apoyo Técnico-Operativo adscritas a ella, el desempeño de las Contralorías Internas y áreas que las integran, en las Entidades de la Administración Pública del Distrito Federal y, en su caso, tomar las medidas para hacer más eficiente las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+III. Establecer y operar conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados y en Delegaciones de acuerdo a la naturaleza de sus funciones el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las Contralorías Internas en las Entidades de la Administración Pública del Distrito Federal, en cuanto a la ejecución del Programa de Auditoría y lo que se derive del seguimiento del mismo;
 
 IV. Autorizar a las Contralorías Internas en las Entidades de la Administración Pública del Distrito Federal; previo análisis, la modificación a su Programa de Auditoría de cada ejercicio;
 
-V. Requerir de acuerdo con la naturaleza de sus funciones, información y documentación a las Entidades y Contralorías Internas que correspondan, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los demás que tengan alguna participación en los procesos administrativos en el marco jurídico del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VI. Verificar la aplicación de los indicadores de gestión establecidos por la Contraloría General para las Entidades de la Administración Pública del Distrito Federal, a efecto de evaluar el desempeño y resultados de las mismas, a través de las Contralorías Internas que correspondan;
+V. Requerir información y documentación a las Contralorías Internas, así como a las Entidades, para verificar el cumplimiento de las observaciones, recomendaciones y compromisos resultantes del cumplimiento al programa de auditoría de cada ejercicio presupuestal, de los resultados de las visitas, verificaciones, inspecciones y revisiones, así como la situación de éstos al término de un trimestre hasta su atención, o para comprobar si las acciones adoptadas atienden las recomendaciones en el tiempo autorizado para ello derivadas de auditoría o revisión;
 
-VII. Ordenar a las contralorías internas y a las unidades administrativas de apoyo técnico-operativo, la ejecución de verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúen las Entidades de la Administración Pública del Distrito Federal, en las materias relativas a: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+VI. De la práctica de auditorías especializadas, requerir de acuerdo a la naturaleza de sus funciones, información y documentación a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en los procedimientos previstos en el marco jurídico del Distrito Federal.
 
-VIII. Supervisar, a través de las Contralorías Internas que correspondan, la adecuada substanciación de los procedimientos de la Afirmativa Ficta conforme a lo señalado en la Ley de Procedimiento Administrativo del Distrito Federal.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-IX. Representar a la Contraloría General en los Órganos de Gobierno, Comités, Subcomités y demás Cuerpos Colegiados establecidos en las Entidades en los términos que determinen los lineamientos aplicables;
+VII. Ordenar y realizar auditorías tanto ordinarias como extraordinarias, en todos sus tipos, directamente o a través de sus Unidades de Apoyo Técnico-Operativo, o de los Órganos de Control Interno correspondientes, a las Entidades de la Administración Pública del Distrito Federal; a fin de promover la eficiencia de su operación y verificar el cumplimiento de sus objetivos y de las disposiciones legales, reglamentarias y administrativas vigentes. Asimismo ordenar y realizar revisiones, verificaciones, inspecciones y visitas, respecto de sus procesos y procedimientos administrativos, en las materias relativas a: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-X. Participar en las sesiones de los Órganos de Gobierno de las Entidades, por sí, a través del comisario o de los titulares de las Contralorías Internas y de sus demás unidades administrativas de apoyo técnico-operativo;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XI. Participar directamente o a través de los titulares de las Contralorías Internas y de sus demás unidades administrativas de apoyo técnico-operativo, en los comités, subcomités y demás cuerpos colegiados instalados en las Entidades de la Administración Pública del Distrito Federal;
+VIII. Supervisar, a las Contralorías Internas en Entidades, la adecuada substanciación de los procedimientos de la Afirmativa Ficta conforme a lo señalado en la Ley de Procedimiento Administrativo del Distrito Federal.
 
-XII Proponer al Contralor General la modificación de las estructuras orgánicas y ocupacionales de las Contralorías Internas que correspondan, para que sean sometidas a la autorización de las instancias correspondientes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIII. Vigilar y supervisar el desempeño por parte de los órganos de control interno que correspondan, en las materias reguladas por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento, y demás disposiciones aplicables en la materia;
+IX. Representar a la Contraloría General y participar en los Órganos de Gobierno, Comités, Subcomités, Consejos Directivos y demás Cuerpos Colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Entidades en los términos que determinen las disposiciones jurídicas aplicables, por sí, o a través del comisario o de los Titulares de las Contralorías Internas o de las Unidades Administrativas de Apoyo Técnico Operativo adscritas cuando no se cuente con Órganos de Control Interno;
 
-XIV. Ordenar y realizar directamente, o a través de sus unidades de apoyo técnico-operativo y contralorías internas que correspondan, visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Entidades, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+X. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+
+XI. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XII. Proponer al Contralor General la modificación de las estructuras orgánicas y ocupacionales de las Contralorías Internas correspondientes, para que sean sometidas a la autorización y registro de las instancias correspondientes;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIII. Vigilar y supervisar el correcto desempeño por parte de los Órganos de Control Interno que correspondan, en las materias de Transparencia y Acceso a la Información Pública, Protección de Datos, Archivos y Programa de Derechos Humanos, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIV. Ordenar y realizar directamente, o a través de sus Unidades de Apoyo Técnico-Operativo y Contralorías Internas que correspondan, visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Entidades, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
 
 XV. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro proceso administrativo previsto en los ordenamientos aplicables vigentes que lleven a cabo las Entidades, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
 
 XVI. Instruir a las Entidades de la Administración Pública, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
 
-XVII. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades, e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+XVII. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, convivientes, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
 
-XVIII. Remitir directamente o a través de sus unidades de apoyo técnico-operativo a las Contralorías Internas que correspondan o a la Dirección General de Asuntos Jurídicos y Responsabilidades, según se determine, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa o que por cualquier otro medio se tenga conocimiento, en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención, desahogo y resolución correspondientes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIX. Verificar y dictar las medidas necesarias para que las Contralorías Internas que correspondan, cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones;
+XVIII. Remitir directamente o a través de sus Unidades de Apoyo Técnico-Operativo a las Contralorías Internas correspondiente o a la Dirección General de Asuntos Jurídicos y Responsabilidades, según se determine, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa o que por cualquier otro medio se tenga conocimiento, en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención, desahogo y resolución correspondientes;
 
-XX. Establecer las bases generales, en coordinación con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y Delegaciones, para la práctica de auditorías a las Entidades de la Administración Pública, así como ordenar su ejecución;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+XIX. Verificar y dictar las medidas necesarias para que las Contralorías Internas correspondientes, cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones;
 
-XXI. Ordenar y realizar auditorías, tanto ordinarias como extraordinarias a las programadas, en las entidades de la Administración Pública del Distrito Federal, a través de sus unidades de apoyo técnico-operativo o de los respectivos Órganos de Control Interno que correspondan, a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones o trasferencias locales y federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición, transferencia y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+XX. Establecer los lineamientos generales, en coordinación con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y Delegaciones, para la práctica de auditorías a las Entidades de la Administración Pública, así como ordenar su ejecución;
 
-XXII. Formular observaciones a través de las unidades de apoyo técnico-operativo, o de los respectivos Órganos de Control Interno que correspondan, que se deriven de las auditorías, revisiones, inspecciones, visitas o verificaciones; emitir las recomendaciones preventivas y correctivas correspondientes; dar un seguimiento sistemático a las mismas; determinar su solventación; así como dejar insubsistentes aquellas observaciones que en su solventación o seguimiento sobrevenga un impedimento legal o material para su atención;
+XXI. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
-XXIII. Solicitar se finque responsabilidades ante las contralorías internas que correspondan o la Dirección General de Asuntos Jurídicos y Responsabilidades, según sea determinado, proporcionando los elementos y constancias que se hubiesen generado en la práctica de la auditoría, revisión, inspección, visitas y verificaciones, con motivo de las observaciones generadas, en su caso, por la falta de atención y solventación de las mismas y en general por infracciones o incumplimiento a la normatividad aplicable;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXIV. Fiscalizar, a través de auditorías y revisiones, el ejercicio de los recursos federales y los de las entidades federativas aportados o transferidos a las Entidades, comprobando que se apliquen con base en los acuerdos o convenios establecidos con estas, o con autoridades federales, en coordinación con los órganos de control competentes;
+XXII. Formular observaciones directamente o a través de las contralorías internas y unidades de apoyo técnico-operativo que le correspondan, que se deriven de las auditorías, revisiones, inspecciones, visitas o verificaciones; emitir las recomendaciones preventivas y correctivas correspondientes; dar un seguimiento sistemático a las mismas; determinar su solventación; de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XXV. Preparar en el ámbito de sus atribuciones, la información relativa a esta Dirección General del Programa de Auditoría de cada ejercicio de la Contraloría General, para su remisión a la Contaduría Mayor de Hacienda de la Asamblea Legislativa y a otras instancias;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXVI. Fijar las bases generales que deberán observarse en la práctica de auditorías externas, en coordinación con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en Delegaciones, que se vayan a realizar en la Administración Pública del Distrito Federal;
+XXIII. Solicitar se finquen responsabilidades ante las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades, según corresponda, proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
 
-XXVII. Proponer para su contratación a los auditores externos, y supervisar el desarrollo y resultado de las actividades de auditoría, revisión y fiscalización encomendados;
+Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y por ello inciden en los ámbitos de responsabilidad de servidores públicos;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIV. Fiscalizar, por sí o a través de sus unidades de apoyo técnico operativo y Órganos de Control Interno correspondiente, mediante auditorías y revisiones, el ejercicio de recursos federales y los de las entidades federativas aportados o transferidos a las entidades, comprobando que se apliquen con base en los acuerdos o convenios establecidos con éstas, o con autoridades federales, en coordinación con los Órganos de Control competentes.
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXV. Coadyuvar con los órganos de fiscalización federales y locales, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVI. Supervisar el cumplimiento de los Lineamientos emitidos por la Contraloría General, -a los que deberán sujetarse los auditores externos- en la práctica de auditorías que la Dirección General ordene realizar en la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVII. Proponer al Contralor General la contratación de los auditores externos, con base en los procedimientos de transparencia establecidos y supervisar el desarrollo y resultado de las actividades de auditoría y fiscalización encomendadas a los auditores externos;
 
 XXVIII. A petición de la Dirección General de Asuntos Jurídicos y Responsabilidades o de la Dirección de Situación Patrimonial, ordenar a las contralorías internas que correspondan, la práctica de las auditorías y visitas de inspección a los servidores públicos de las Entidades de la Administración Pública del Distrito Federal, para los efectos a que alude el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-XXIX. Ordenar, cuando resulte conveniente, a los servidores públicos de las Entidades de la Administración Pública del Distrito Federal, que aseguren, resguarden y custodien la información y documentación derivada de las auditorías, revisiones, inspecciones, verificaciones y visitas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXX. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
+XXIX. Ordenar, cuando proceda, a los servidores públicos de las Entidades de la Administración Pública del Distrito Federal, que aseguren, resguarden y custodien la información y documentación derivada de las auditorías, revisiones, inspecciones, verificaciones y visitas;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXX. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Contraloría General otorgará el apoyo necesario, a través de la Dirección General de Asuntos Jurídicos y Responsabilidades;
 
 XXXI. Opinar sobre la viabilidad de los proyectos de normas de contabilidad y presupuesto gubernamental y de control, en materia programática, presupuestal, recursos humanos, materiales, financieros, contratación de deuda y sobre el manejo de fondos y valores y en su caso, participar en Órganos Colegiados para el análisis de proyectos normativos relativos a estas materias;
 
 XXXII. Expedir previo cotejo, copias certificadas de los documentos que obran en sus archivos, de los que tenga acceso con motivo del desarrollo de sus actividades, o de los documentos que obren en sus archivos o tengan acceso las unidades administrativas de apoyo técnico-operativo y contralorías internas de su adscripción;
 
-XXXIII. Comisionar al personal adscrito directamente a esta Dirección General, a los de las unidades administrativas de apoyo técnico-operativo y los de las contralorías internas que correspondan, para que coadyuven en la realización de actividades y funciones de competencia de otras direcciones generales y órganos de control interno de la Contraloría General;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXXIV. Emitir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Delegaciones criterios para mejorar la eficiencia de las funciones de los órganos de control interno en las Dependencias y Órganos Desconcentrados, en Delegaciones, y en Entidades, de la Administración Pública del Distrito Federal, así como verificar en el ámbito de su competencia las actuaciones de éstos, tomando en su caso las medidas que permitan mejorar el desempeño de sus funciones, de conformidad con las disposiciones jurídicas y administrativas;
+XXXIII. Comisionar al personal adscrito directamente a esta Dirección General, al de las unidades administrativas de apoyo técnico-operativo y al de las contralorías internas correspondientes, para que coadyuven en la realización de actividades y funciones de competencia de esta Dirección General, de otras direcciones generales y otros órganos de control interno de la Contraloría General;
 
-XXXV. Definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Delegaciones los criterios técnicos que deben reunir los expedientes de auditoría, así como los dictámenes técnicos correspondientes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXXVI. Establecer las bases de selección del personal de las unidades administrativas de apoyo técnico-operativo y de las contralorías internas que correspondan, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en Delegaciones, y específicamente en materia de quejas, denuncias y responsabilidades, con la Dirección General de Asuntos Jurídicos y Responsabilidades conforme a los requisitos que determine el Titular de la Contraloría General;
+XXXIV. Emitir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en Delegaciones criterios para mejorar la eficiencia de las funciones de los órganos de control interno de la Administración Pública del Distrito Federal, así como verificar en el ámbito de su competencia las actuaciones de éstos, tomando en su caso las medidas que permitan mejorar el desempeño de sus funciones, de conformidad con las disposiciones jurídicas y administrativas;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXV. Supervisar la aplicación de los criterios técnicos que deben reunir los expedientes de auditoría externa, así como los dictámenes técnicos correspondientes, de acuerdo a los Lineamientos dictados al respecto;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXVI. Establecer las bases de selección del personal de las unidades administrativas de apoyo técnico-operativo y de las contralorías internas correspondientes, específicamente en materia de quejas, denuncias y responsabilidades, con la Dirección General de Asuntos Jurídicos y Responsabilidades conforme a los requisitos que determine el Titular de la Contraloría General;
 
 XXXVII. Planear y definir, conjuntamente con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, en Delegaciones, Legalidad, y Asuntos Jurídicos y Responsabilidades, los programas de capacitación jurídica para el personal de las áreas de responsabilidades de las contralorías internas y de la Contraloría General;
 
-XXXVIII. Asistir y participar con el carácter de Comisario de la Contraloría General, directamente o a través de la Dirección de Comisarios y Control de Auditores Externos, en los consejos de administración, consejos directivos, órganos de gobierno, comités técnicos o equivalentes de las Entidades Paraestatales de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXVIII. Asistir y participar con el carácter de Comisario de la Contraloría General, directamente o a través de la Dirección Ejecutiva de Comisarios y Control de Auditores Externos, en los consejos de administración, consejos directivos, órganos de gobierno, comités técnicos o equivalentes de las Entidades Paraestatales de la Administración Pública del Distrito Federal;
 
 XXXIX. Rendir anualmente informes a los consejos de administración, consejos directivos, órganos de gobierno, comités técnicos o equivalentes en que participe como Comisario, respecto del desempeño general de las Entidades Paraestatales de la Administración Pública del Distrito Federal;
 
@@ -8392,13 +9174,15 @@ XL. Vigilar y revisar los procesos de creación, extinción, desincorporación, 
 
 XLI. Evaluar y dar seguimiento a la gestión pública en las entidades de la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XLII. Ordenar, supervisar y ejecutar verificaciones preventivas sobre la realización de obras publicas que contraten las entidades de la Administración Pública del Distrito Federal, así como emitir las recomendaciones que considere necesarias en los términos previstos por la Ley de Obras Públicas del Distrito Federal; y
+XLII. Ordenar, supervisar y ejecutar verificaciones preventivas sobre la realización de obras públicas que contraten las entidades de la Administración Pública del Distrito Federal, así como emitir las recomendaciones que considere necesarias en los términos previstos por la Ley de Obras Públicas del Distrito Federal y demás disposiciones jurídicas y administrativas aplicables; y
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
 XLIII. Las demás que le instruya el Titular de la Contraloría General; las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE FEBRERO DE 2014, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 > <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -8406,59 +9190,105 @@ XLIII. Las demás que le instruya el Titular de la Contraloría General; las que
 
 Corresponde a las Direcciones de Contralorías Internas en Entidades, “A” y “B”:
 
-I. Coordinar a las Contralorías Internas y demás unidades de apoyo técnico-operativo que las integran, en las Entidades de la Administración Pública del Distrito Federal, y requerir la información necesaria para supervisar las actividades de las mismas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-II. Someter a la aprobación de la Dirección General de Contralorías Internas en las Entidades las políticas y criterios, así como el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las contralorías internas que correspondan, en cuanto a la ejecución del programa de auditoría y lo que se derive del seguimiento del mismo;
+I. Revisar la elaboración, integración y presentación, para la aprobación del (sic) Dirección General de Contralorías Internas en Entidades, el Programa de Auditoría para cada ejercicio presupuestal, mismo que comprenderá las auditorías ordinarias, extraordinarias y de cualquier naturaleza, incluyendo de legalidad, que presenten las Contralorías Internas en las Entidades de la Administración Pública del Distrito Federal.
 
-III. Supervisar y vigilar el cumplimiento de las normas, políticas, procedimientos y programas que regulan el funcionamiento de las contralorías internas que coordina, a través de los instrumentos de control y evaluación necesarios, e informar sus resultados a la Dirección General de Contralorías Internas en Entidades, y en su caso, tomar las medidas para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-IV. Asesorar a las contralorías internas que coordina, en la elaboración e integración de su Programa de Auditoría, de su Programa Operativo Anual, así como en cualquier revisión, verificación, visita, inspección y demás de las materias relacionadas a las atribuciones de aquellas;
+II. Coordinar y supervisar a las Contralorías Internas y demás unidades de apoyo técnico-operativo que las integran, en las Entidades de la Administración Pública del Distrito Federal, y requerir la información necesaria para examinar las actividades de las mismas;
 
-V. Revisar y analizar los informes y reportes que emiten y envían las contralorías internas que coordina, como resultado de la ejecución de su Programa Anual de Auditoría, así como de cualquier revisión, verificación, visita, inspección y demás que se realizan en las Entidades de la Administración Pública del Distrito Federal, solicitando las aclaraciones y correcciones que se deriven;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VI. Supervisar el seguimiento de las recomendaciones determinadas por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, Auditoría Superior de la Federación de la Federación (sic) y cualquier otro órgano fiscalizador, así como conciliar la información con las Contralorías Internas que les corresponda;
+III. Someter a la aprobación de la Dirección General de Contralorías Internas en las Entidades las políticas y criterios, así como el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las contralorías internas que correspondan, en cuanto a la ejecución del programa de auditoría y lo que se derive del seguimiento del mismo;
 
-VII. Supervisar que las contralorías internas que coordina verifiquen, el cumplimiento a las disposiciones emitidas para el manejo de los recursos, locales y federales;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VIII. Requerir la información y documentación a las contralorías internas que le corresponda, para verificar el seguimiento de las recomendaciones, observaciones y compromisos resultantes del cumplimiento al Programa de Auditoría, de los resultados de las visitas, verificaciones e inspecciones, así como la situación de éstos al término de un trimestre hasta su atención;
+IV. Supervisar y vigilar el cumplimiento de las normas, políticas, procedimientos y programas que regulan el funcionamiento de las contralorías internas que coordina, a través de los instrumentos de control y evaluación necesarios, e informar sus resultados a la Dirección General de Contralorías Internas en Entidades, y en su caso, tomar las medidas para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
 
-IX. Recibir, analizar y dictaminar la información periódica que les remitan las contralorías internas que les correspondan, así como su incorporación al Sistema de Información Periódica;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-X. Verificar que el registro de las auditorías ordinarias y extraordinarias, recomendaciones, observaciones, deficiencias y compromisos generados, así como los seguimientos de éstos se mantenga actualizado en el Sistema de Información Periódica;
+V. Asesorar a las contralorías internas que coordina, en la elaboración e integración de su Programa de Auditoría, de su Programa Operativo Anual, así como en cualquier revisión, verificación, visita, inspección y demás de las materias relacionadas a las atribuciones conferidas a las Contralorías Internas;
 
-XI. Enviar, previo acuerdo con el titular de la Dirección General, a las Contralorías Internas o a la Dirección General de Asuntos Jurídicos y Responsabilidades, según se determine, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención, desahogo y resolución correspondientes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XII. Informar periódicamente a la Dirección General de Contralorías Internas en Entidades, sobre los asuntos de los órganos de control interno que les correspondan, relacionados con los resultados de sus funciones, para una adecuada toma de decisiones;
+VI. Revisar y analizar los informes y reportes que emiten y envían las contralorías internas que coordina, como resultado de la ejecución de su Programa Anual de Auditoría, así como de cualquier revisión, verificación, visita, inspección y demás que se realizan en las Entidades de la Administración Pública del Distrito Federal, solicitando las aclaraciones y correcciones que se deriven;
 
-XIII Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Entidades de la Administración Pública del Distrito Federal; así como a las contralorías internas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIV. Supervisar la aplicación de los indicadores de gestión establecidos por la Contraloría General para las Entidades de la Administración Pública del Distrito Federal, a efecto de evaluar el desempeño y resultados de las mismas, a través de las Contralorías Internas que correspondan; acorde con la normatividad que emita la Unidad Administrativa competente;
+VII. Supervisar el seguimiento de las recomendaciones determinadas por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, Auditoría Superior de la Federación de la Federación (sic), Auditores Externos y cualquier otro órgano fiscalizador, así como conciliar la información con las Contralorías Internas que les corresponda;
 
-XV. Supervisar el desempeño de los órganos de control interno que les corresponda, en las materias reguladas por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento y demás normatividad aplicable en la materia; e informar a la Dirección General de Contralorías Internas en Entidades;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XVI. Supervisar que las contralorías internas ejecuten verificaciones, revisiones, inspecciones, visitas e intervengan en todos los procesos administrativos que efectúen las Entidades de la Administración Pública del Distrito Federal, en las materias relativas a: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones o trasferencias locales y federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+VIII. Supervisar que las contralorías internas que coordina verifiquen, el cumplimiento a las disposiciones emitidas para el manejo de los recursos, locales y federales;
 
-XVII. Verificar que las Contralorías Internas que correspondan, cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XVIII. Supervisar que las contralorías internas que correspondan, lleven a cabo visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico de la Administración Pública del Distrito Federal, que efectúen las Entidades, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+IX. Requerir la información y documentación a las Contralorías Internas, así como a las Entidades, para verificar el seguimiento de las observaciones, recomendaciones y compromisos resultantes del cumplimiento al Programa de Auditoria de cada ejercicio presupuestal, de los resultados de las visitas, verificaciones, inspecciones y revisiones, así como la situación de éstos al término de un trimestre hasta su atención, o para comprobar si las acciones adoptadas atienden las recomendaciones en el tiempo autorizado para ello derivadas de auditoría o revisión;
 
-XIX. Supervisar en las determinaciones de las Contralorías Internas que coordinan respecto de la emisión de suspensiones temporales o definitivas, la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro proceso previsto en los ordenamientos aplicables vigentes que lleven a cabo en las Entidades, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XX. Supervisar la instrucción a las Entidades de la Administración Pública, de suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
+X. Recibir, analizar y dictaminar la información periódica que les remitan las contralorías internas que les correspondan, así como su incorporación al sistema correspondiente;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXI. Realizar directamente o a través de los Órganos de Control Interno, auditorías ordinarias y extraordinarias a las programadas, en las entidades de la Administración Pública del Distrito Federal, a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones o trasferencias locales y federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición, transferencia y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+XI. Verificar que el registro de las auditorías ordinarias y extraordinarias, recomendaciones, observaciones, deficiencias y compromisos generados, así como los seguimientos de éstos se mantenga actualizado en el sistema correspondiente;
 
-XXII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXIII. Someter a la aprobación de la Dirección General de Contralorías Internas en Entidades las normas, objetivos, políticas, criterios y lineamientos que deberán observarse en la práctica de auditorías externas, en coordinación con las Direcciones Generales de Contralorías Internas en Dependencias y Órganos Desconcentrados, y en Entidades, que se vayan a realizar en la Administración Pública del Distrito Federal;
+XII. Turnar o remitir, previo acuerdo con el titular de la Dirección General, a las Contralorías Internas o a la Dirección General de Asuntos Jurídicos y Responsabilidades, según se determine, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención, desahogo y resolución correspondientes;
 
-XXIV. Asistir, participar y preparar los informes correspondientes, de las sesiones de los Órganos de Gobierno de las Entidades, comités, subcomités y demás cuerpos colegiados instalados en las Entidades de la Administración Pública del Distrito Federal, en los que sean designados por el titular de la Dirección General;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXV. Expedir previo cotejo, copias certificadas de los documentos que obran en sus archivos, de los que tenga acceso con motivo del desarrollo de sus actividades, o de los documentos que obren en sus archivos o tengan acceso las unidades administrativas de apoyo técnico-operativo y contralorías internas que correspondan;
+XIII. Informar periódicamente a la Dirección General de Contralorías Internas en Entidades, sobre los asuntos de los órganos de control interno que les correspondan, relacionados con los resultados del cumplimiento de sus atribuciones legales y administrativas conferidas, para una adecuada toma de decisiones;
 
-XXVI. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Entidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIV. Supervisar el correcto desempeño por parte de los órganos de control interno que corresponda, en las materias de Transparencia y Acceso a la Información Pública, Protección de Datos, Archivos y Programa de Derechos Humanos, de conformidad con las disposiciones jurídicas y administrativas aplicables; e informar a la Dirección General de Contralorías Internas en Entidades;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XV. Supervisar que en las Contralorías Internas ejecuten verificaciones, revisiones, inspecciones, visitas e intervengan en todos los procesos administrativos que efectúen las Entidades de la Administración Pública del Distrito Federal en las materias relativas a: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVI. Verificar que las Contralorías Internas que correspondan, cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones y de ser el caso, proceder en consecuencia;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVII. Supervisar que las contralorías internas que correspondan, lleven a cabo visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Entidades, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVIII. Supervisar las determinaciones de las Contralorías Internas que correspondan respecto de la emisión de suspensiones temporal o definitiva, la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas y adjudicaciones directas, o cualquier otro procedimiento previsto en los ordenamientos aplicables vigentes que lleven a cabo en las Entidades, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, bienes muebles e inmuebles, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de auditorías, revisiones, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIX. Supervisar la instrucción a las Entidades de la Administración Pública, de suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de: adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, concesiones, permisos, bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las auditorías, revisiones, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XX. Realizar directamente o a través de los Órganos de Control Interno, auditorías ordinarias y extraordinarias a las programadas, en las entidades de la Administración Pública del Distrito Federal, a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Contraloría General otorgará el apoyo necesario, a través de la Dirección General de Asuntos Jurídicos y Responsabilidades;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXII. Someter a la aprobación de la Dirección General de Contralorías Internas en Entidades las normas, objetivos, políticas, criterios y lineamientos que deberán observarse en la práctica de auditorías externas, en coordinación con la Dirección General de Contralorías Internas en Entidades, que se vayan a realizar en la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIII. Asistir, participar y preparar los informes correspondientes, de las sesiones de los Órganos de Gobierno de las Entidades, comités, subcomités y demás cuerpos colegiados instalados en las Entidades de la Administración Pública del Distrito Federal, en los que sean designados por el titular de la Dirección General;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIV. Expedir previo cotejo, copias certificadas de los documentos que obran en sus archivos, de los que tenga acceso con motivo del desarrollo de sus actividades, o de los documentos que obren en sus archivos o tengan acceso las unidades administrativas de apoyo técnico-operativo y contralorías internas que correspondan;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXV. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Entidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2012)</small>
 
@@ -8486,9 +9316,9 @@ IV. Participar con el carácter de comisario en los Consejos de Administración 
 
 V. Vigilar la debida integración y funcionamiento de los Consejos de Administración y Directivos, Órganos de Gobierno o equivalentes de las entidades de la Administración Pública del Distrito Federal, y en su caso, de los comités y subcomités a los que asista;
 
-> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VI. Coordinar la asistencia y participación como representante de la Contraloría General del Distrito Federal, en los diversos comités, subcomités y demás cuerpos colegiados instalados en las Entidades de la Administración Pública del Distrito Federal;
+VI. Coordinar la asistencia y participación de comisarios como representantes de la Contraloría General del Distrito Federal, en los diversos comités, subcomités y demás cuerpos colegiados instalados en las Entidades de la Administración Pública del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -8510,9 +9340,13 @@ X. Rendir anualmente informes a los Consejos de Administración o Directivos y J
 
 XI. Vigilar y dar seguimiento a los procesos de creación, extinción, desincorporación, incorporación, fusión, o escisión de las entidades paraestatales y, en su caso, requerir a las Dependencias, Unidades Administrativas e instancias que intervengan, la información necesaria para verificar el cumplimiento de sus funciones y recomendar las medidas para que estos procesos se realicen con estricto apego a las disposiciones aplicables;
 
-> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XII. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Entidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XII. Requerir la información y documentación a las Contralorías Internas, así como a las Entidades, para verificar el seguimiento de las observaciones, recomendaciones y compromisos resultantes del cumplimiento al Programa de Auditoria de cada ejercicio presupuestal, de los resultados de las visitas, verificaciones, inspecciones y revisiones, así como la situación de éstos al término de un trimestre hasta su atención, o para comprobar si las acciones adoptadas atienden las recomendaciones en el tiempo autorizado para ello derivadas de auditoría o revisión;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIII. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Entidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos; (sic)
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -8520,35 +9354,53 @@ XII. Las demás que le instruya el titular de la Dirección General de Contralor
 
 Corresponde a la Dirección de Auditoría a Entidades:
 
-I. Proponer a la Dirección General de Contralorías Internas en Entidades, el programa de auditoría para cada ejercicio presupuestal, el que comprenderá las auditorías, revisiones, verificaciones e inspecciones en las entidades, así como efectuar su seguimiento sistemático;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-II. Someter al Titular de la Dirección General de Contralorías Internas en Entidades, los programas, políticas y criterios previstos en la normatividad aplicable con motivo de su función;
+I. Someter para autorización del Titular de la Dirección General de Contralorías Internas en Entidades, el Programa Anual de Auditoría, mismo que comprenderá las auditorías que esta dirección practicará en cualquiera de sus tipos, revisiones, verificaciones e inspecciones a ejecutarse en las entidades de la Administración Pública del Distrito Federal, de conformidad con los lineamientos establecidos;
+
+II. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
 III. Someter a la aprobación de la Dirección General de Contralorías Internas en Entidades, criterios, así como el sistema de información y evaluación que permita conocer y controlar con oportunidad el desempeño de las unidades administrativas de las entidades, en cuanto a la ejecución de su programa de actividades y lo que se derive del seguimiento del mismo;
 
-IV. Proponer al Titular de la Dirección General de Contralorías en Entidades las bases para la realización de auditorías, revisiones, verificaciones e inspecciones en las entidades;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-V. Planear, dirigir, controlar y evaluar un plan estratégico que contenga los posibles ámbitos de ser supervisados a través de auditorías ordinarias y extraordinarias, revisiones, inspecciones, visitas, en las unidades administrativas de las entidades de la Administración Pública del Distrito Federal;
+IV. Verificar que los Órganos Internos de Control en las Entidades de la Administración Pública del Distrito Federal, para la elaboración de sus Programas de Auditoría para cada ejercicio presupuestal, hayan observado las disposiciones jurídicas y administrativas expedidas por la Contraloría General del Distrito Federal;
+
+V. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
 VI. Practicar, en coordinación con otras unidades de la Contraloría General, la ejecución de auditorías, ordinarias y extraordinarias, revisiones, inspecciones y visitas a las entidades, cuando así lo requiera el Titular de la Contraloría General o la Dirección General de Contralorías Internas en Entidades;
 
 VII. Supervisar y vigilar el cumplimiento de las normas, políticas, procedimientos y programas de las entidades, a través de los instrumentos de control y evaluación necesarios, e informar sus resultados a la Dirección General de Contralorías Internas en Entidades, y en su caso proponerle las medidas para mejorar la eficiencia de las funciones asignadas;
 
-VIII. Ordenar y ejecutar en los términos de las fracciones III, IV y V las auditorías ordinarias y extraordinarias, verificaciones, revisiones, inspecciones y visitas en todos los procesos administrativos que efectúen las entidades de la Administración Pública del Distrito Federal, en las materias relativas a: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones o trasferencias locales y federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición, transferencias y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-IX. Formular observaciones que se deriven de las auditorías, emitir las recomendaciones preventivas y correctivas correspondientes, dar seguimiento sistemático a las mismas, determinar su solventación, así como dejar insubsistentes aquellas observaciones que en su solventación o seguimiento, sobrevenga un impedimento legal o material para su atención;
+VIII. Ordenar y ejecutar las auditorías ordinarias y extraordinarias, auditorías al desempeño, verificaciones, revisiones, inspecciones y visitas en todos los procesos administrativos que efectúen las entidades de la Administración Pública del Distrito Federal, en las materias relativas a: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-X. Supervisar que las entidades den cumplimiento a las disposiciones emitidas para el manejo de los recursos locales y federales;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XI. Requerir la información y documentación a las unidades administrativas de las entidades y, en su caso, a las Contralorías Internas que correspondan, para verificar el seguimiento de las recomendaciones, observaciones y compromisos resultantes del cumplimiento al Programa de Auditoría, así como de los resultados de las visitas, verificaciones e inspecciones;
+IX. Formular observaciones que se deriven de las auditorías, emitir las recomendaciones preventivas y correctivas correspondientes, dar seguimiento sistemático a las mismas, determinar su solventación, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XII. Verificar que el registro de las auditorías ordinarias y extraordinarias, recomendaciones, observaciones, deficiencias y compromisos que haya generado, así como los seguimientos de éstos se mantenga actualizado en el Sistema de Información Periódica;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIII. Enviar, previo acuerdo con el Titular de la Dirección General de contralorías Internas en Entidades, a la Dirección General de Asuntos Jurídicos y Responsabilidades, según se determine, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa en cualquiera de las unidades administrativas de la Contraloría General, para su atención, desahogo y resolución correspondientes;
+X. Dentro de la ejecución de su programa de trabajo, supervisar que las entidades den cumplimiento a las disposiciones emitidas para el manejo de los recursos locales y federales;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XI. Requerir la información y documentación a las Contralorías Internas, así como a las Entidades, para verificar el seguimiento de las observaciones, recomendaciones y compromisos resultantes del cumplimiento al Programa de Auditoria de cada ejercicio presupuestal, de los resultados de las visitas, verificaciones, inspecciones y revisiones, así como la situación de éstos al término de un trimestre hasta su atención, o para comprobar si las acciones adoptadas atienden las recomendaciones en el tiempo autorizado para ello derivadas de auditoría o revisión;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XII. Asegurar que el registro de las auditorías ordinarias y extraordinarias, recomendaciones, observaciones, deficiencias y compromisos que haya generado, así como los seguimientos de éstos se mantenga actualizado en el sistema correspondiente;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIII. Enviar a la Dirección General de Asuntos Jurídicos y Responsabilidades o a los Órganos Internos de Control en Entidades, según se determine, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos que se reciban en forma directa en la Dirección de Auditoría a Entidades, para su atención, desahogo y resolución correspondientes;
 
 XIV. Informar periódicamente a la Dirección General de Contralorías Internas en Entidades, sobre los asuntos y conclusiones que sean relacionados con sus funciones, para una adecuada toma de decisiones;
 
-XV. En su caso ordenar y supervisar visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico de la Administración Pública del Distrito Federal, que efectúen las entidades, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XV. En su caso ordenar y supervisar visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las entidades, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
 
 XVI. Fiscalizar el ejercicio de los recursos federales y de entidades federativas, transferidos a las entidades, comprobando que se apliquen en base a los acuerdos y convenios establecidos con éstas, en coordinación con los Órganos de Control competentes;
 
@@ -8560,301 +9412,275 @@ No procederá la suspensión, rescisión o terminación anticipada cuando se acr
 
 XIX. Coordinar, supervisar y evaluar a las unidades administrativas de apoyo técnico-operativo que se encuentren adscritas a esta Dirección de Auditorias a Entidades, para garantizar en forma integrada, eficiente y efectiva que cumplan con los objetivos planteados;
 
-XX. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las unidades administrativas de las entidades y Contralorías Internas de la Administración Pública del Distrito Federal, así como a proveedores, contratistas y prestadores de servicios, cuando lo estime conveniente;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXI. Solicitar a las unidades administrativas de las entidades que permitan a los servidores públicos que comisione para realizar auditorías, revisiones, verificaciones e inspecciones, puedan en sus instalaciones, asegurar, resguardar y custodiar la información y documentación proporcionada con motivo de sus trabajos;
+XX. De la práctica de auditorías especializadas, requerir de acuerdo a la naturaleza de sus funciones, información y documentación a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en los procedimientos previstos en el marco jurídico del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXI. Solicitar a las unidades administrativas de las entidades que permitan a los servidores públicos que comisione para realizar auditorías, revisiones, verificaciones e inspecciones, puedan en sus instalaciones asegurar, resguardar y custodiar la información y documentación proporcionada por ellas con motivo de sus trabajos;
 
 XXII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos de los cuales se tenga acceso con motivo del ejercicio de sus funciones y atribuciones;
 
-XXIII. Supervisar el desempeño de las unidades administrativas de las entidades, en las materias reguladas por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento y demás normatividad aplicable en la materia, e informar a la Dirección General de Contralorías Internas en Entidades;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXIV. Promover ante la Dirección General de Asuntos Jurídicos y Responsabilidades el fincamiento de responsabilidades administrativas de servidores públicos, por presuntas irregularidades administrativas que resulten de los operativos realizados;
+XXIII. Supervisar el correcto desempeño de las unidades administrativas de las entidades, en las materias de Transparencia y Acceso a la Información Pública, Protección de Datos, Archivos y Programa de Derechos Humanos, de conformidad con las disposiciones jurídicas y administrativas aplicables; e informar a la Dirección General de Contralorías Internas en Dependencias y Órganos Desconcentrados;
 
-XXV. Realizar estudios e investigaciones que permitan proponer las mejoras regulatorias y administrativas para hacer más eficiente la operación y prevención de cualquier posible acto de corrupción en las unidades administrativas de las entidades de la Administración Pública del Distrito Federal, y someterlas a consideración de la Dirección General de Contralorías Internas en Entidades;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXVI. Solicitar a las unidades administrativas de las entidades e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, para la investigación y, en su caso, la promoción de fincamiento de responsabilidad administrativa;
+XXIV. Turnar a las Contralorías Internas o la Dirección General de Asuntos Jurídicos y Responsabilidades los resultados de las auditorías practicadas que hubiesen tenido observaciones que impliquen probable responsabilidad de los servidores públicos y solicitar se finquen sanciones proporcionando los elementos y constancias que se hubiesen generado en la práctica de auditorías, y sus observaciones y recomendaciones, al incurrir el auditado en la falta de atención y solventación de las mismas.
 
-XXVII. Establecer mecanismos de vinculación con otras dependencias, organismos y organizaciones del Distrito Federal o de otras Entidades Federativas, así como con entidades privadas que tengan como propósito el combate a la corrupción;
+Asimismo, tratándose de revisiones, inspecciones, visitas y verificaciones, al detectar infracciones o faltas que se consideran implican desatención de disposiciones normativas y que por ello inciden en los ámbitos de responsabilidad de servidores públicos;
 
-XXVIII. Participar en seminarios, coloquios, reuniones interinstitucionales, encaminados al combate de la corrupción en todas sus manifestaciones, informando periódicamente a la Dirección General de Contralorías Internas en Entidades el resultado de sus actividades; y
+XXV. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVI. Solicitar a las dependencias, órganos desconcentrados, delegaciones, entidades e Instituciones Públicas Locales y Federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, convivientes, concubinos y dependientes económicos directos, para la investigación y, en su caso, el fincamiento de responsabilidad administrativa, así como de los que se encuentren involucrados en procedimientos administrativos en los que se detecte la existencia de daño patrimonial;
+
+XXVII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+
+XXVIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
 XXIX. Las demás que le instruya el Titular de la Dirección General de Contralorías Internas en Entidades; las que expresamente le atribuyan este Reglamento, y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2009)</small>
-
 ###### Artículo 111.
 
-Corresponde a la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones:
-
-I. Establecer las bases para el aseguramiento de la gobernabilidad integral de las tecnologías de la información y comunicaciones en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, para la entrega eficaz y eficiente de servicios tecnológicos de información, alineados a las estrategias, requerimientos y servicios de Gobierno;
-
-II. Elaborar el proyecto y vigilar el cumplimiento del Programa Especial de Desarrollo de las Tecnologías de la Información y Comunicaciones de la Administración Pública del Distrito Federal, así como los planes estratégicos de tecnologías de la información y comunicaciones y proyectos tecnológicos que se desprendan del mismo, en cada una de las dependencias, órganos desconcentrados, delegaciones, unidades administrativas, unidades administrativas de apoyo técnico operativo y entidades;
-
-III. Dirigir la emisión de dictámenes técnicos asociados a los proyectos de tecnologías de información y comunicaciones de cada una de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-IV. Elaborar, instrumentar y vigilar las políticas y lineamientos en materia de tecnologías de la información, comunicaciones y mejores prácticas que deberán observar las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-V. Establecer las bases y dirigir la evaluación del desempeño, la funcionalidad y la seguridad de los recursos humanos y tecnológicos que participan en las acciones y programas de tecnologías de la información y comunicaciones en las dependencias, órganos desconcentrados, delegaciones, unidades administrativas, unidades de apoyo técnico operativo y entidades de la Administración Pública del Distrito Federal, a través de auditorías, revisiones, inspecciones y verificaciones, bajo los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad;
-
-VI. Guiar la formulación de observaciones derivadas de las auditorias y revisiones a las tecnologías de la información y comunicaciones, emitir las recomendaciones correspondientes, dar un seguimiento sistemático a la atención de las mismas y dejar insubsistentes aquéllas en que sobrevenga un impedimento legal o material para su atención;
-
-VII. Solicitar se finque responsabilidad cuando el caso lo amerite ante la Dirección General de Asuntos Jurídicos y Responsabilidades, proporcionando los elementos y constancias derivado de la práctica de auditorías y observaciones generadas por el incumplimiento o inconsistencias que se hayan presentado en las dependencias, órganos desconcentrados, delegaciones, unidades administrativas, unidades de apoyo técnico operativo y entidades de la Administración Pública del Distrito Federal;
-
-VIII. Promover y difundir la adopción de marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información y comunicaciones, para que la gestión de la función informática en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal responda a los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad, y opere con riesgos mitigados y alineada a los objetivos institucionales;
-
-IX. Dirigir la entrega y soporte oportuno de servicios tecnológicos de información y comunicaciones interdependenciales, utilizando estándares internacionales de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información;
-
-X. Dirigir las acciones para la administración de la red de datos, voz, video de la Administración Pública del Distrito Federal y los servicios de internet: web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, grupos de trabajo, entre otros;
-
-XI. Asesorar y vigilar la entrega y soporte de servicios informáticos y de comunicaciones eficaz y eficiente al interior de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-XII. Coordinar los servicios de asesoría, capacitación, seguimiento y vigilancia a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, en materia de planeación, ejecución, monitoreo, control y cierre de proyectos de tecnologías de información y comunicaciones;
-
-XIII. Coordinar la administración del portafolio de proyectos tecnológicos transversales de la Administración Pública del Distrito Federal, en los aspectos de identificación, categorización, evaluación, selección y priorización;
-
-XIV. Planear y dirigir los trabajos de implantación de sistemas de información interdependenciales, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública del Distrito Federal;
-
-XV. Promover, impulsar y evaluar las iniciativas de gobierno electrónico para la Administración Pública del Distrito Federal; y (sic)
-
-> <small>(REFORMADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XVI. Vigilar la instrumentación de las medidas preventivas y correctivas derivadas de las evaluaciones realizadas en materia de tecnologías de la información y comunicaciones;
-
-> <small>(REFORMADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XVII. Fungir como Unidad de Firma Electrónica de la Administración Pública del Distrito Federal;
-
-> <small>(REFORMADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XVIII. Establecer la coordinación y gestiones necesarias para impulsar la disponibilidad de los servicios de certificación electrónica.
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XIX. Habilitar el uso de la firma electrónica con validez jurídica;
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XX. En colaboración con la Coordinación General de Modernización Administrativa, fomentar y difundir el uso de la firma electrónica en todos los trámites y servicios;
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XXI. Formular y establecer requisitos, directrices y lineamientos para la implementar el uso de la Firma Electrónica;
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XXII. Establecer y administrar el registro de prestadores de servicios de certificación, de certificados electrónicos, de terminación de empleo, cargo o comisión y demás actos en materia de Firma Electrónica;
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XXIII. Expedir y revocar constancias de registro a prestadores de servicios de certificación;
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XXIV. Verificar y corroborar el cumplimiento de requisitos y obligaciones de prestadores de servicios de certificación o de personas físicas o morales que ofrecen estos servicios, en términos de la Ley de Firma Electrónica del Distrito Federal y demás instrumentos o disposiciones jurídicas aplicables;
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XXV. Recibir y dar trámite de quejas, aclaraciones y solicitudes de reportes de servicios de certificación o de constancias de existencia y registro de certificados electrónicos, en el ámbito de su competencia;
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XXVI. Proponer disposiciones normativas para la conservación, almacenamiento y disponibilidad de los documentos electrónicos, o en su caso expedirlas, con la intervención de las unidades administrativas competentes de la Contraloría General;
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XXVII. Asesorar técnicamente a las dependencias, órganos desconcentrados, delegaciones y entidades, en la implementación de los servicios de firma electrónica en sus sistemas informáticos, de conformidad con la Ley de Firma Electrónica del Distrito Federal; y
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XXVIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en que sea parte, tenga interés jurídico, o estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia le otorgará el apoyo necesario;
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XXIX. Las demás que le instruya el Titular de la Contraloría General, las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
-
-> <small>(ADICIONADO ÚLTIMO PÁRRAFO, 29 DE SEPTIEMBRE DE 2010)</small>
-
-Las atribuciones relativas a la promoción y difusión de los marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información; realización de auditorías, revisiones, verificaciones e inspecciones, a los recursos de las tecnologías de la información; formulación de observaciones, emisión de recomendaciones, seguimiento para la atención de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités; requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, II, IV, V, VI, VII, XI, XII, XIV, XV, XVI, XXII, XXIV, XXV y XXVII podrán ser ejercidas por las Unidades Administrativas de Apoyo Técnico-Operativo de la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones, así como por las Unidades Administrativas de Apoyo Técnico-Operativo que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.
-
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
+(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 111-A.
 
-Corresponde a la Dirección Ejecutiva de Gobierno Electrónico y Política de Tecnologías de la Información y Comunicaciones:
-
-I. Impulsar, dar seguimiento y evaluar las acciones para la implementación del Gobierno Electrónico en la Administración Pública de (sic) Distrito Federal;
-
-II. Coordinar las acciones para la elaboración e instrumentación de la política de tecnologías de la información y comunicaciones en la Administración Pública de (sic) Distrito Federal;
-
-III. Coordinar la elaboración y vigilar el cumplimiento del Programa Especial de Desarrollo de las Tecnologías de la Información y Comunicaciones de la Administración Pública del Distrito Federal, así como los planes estratégicos de tecnologías de la información y comunicaciones y proyectos tecnológicos que se desprendan del mismo, en cada una de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-IV. Diseñar, coordinar, dar seguimiento y evaluar el plan estratégico de tecnologías de la información y comunicaciones de la Contraloría General del Distrito Federal;
-
-V. Coordinar el portafolio de proyectos de tecnologías de información y comunicaciones de la Administración Pública del Distrito Federal, y asesorar a las dependencias, órganos desconcentrados, delegaciones, entidades y demás órganos de la Administración Pública del Distrito Federal, en materia de administración de proyectos de tecnologías de información y comunicaciones;
-
-VI. Organizar y mantener actualizado un registro de los proyectos y sistemas en materia de tecnologías de la información y comunicaciones de la Administración Pública del Distrito Federal;
-
-VII. Conducir y asegurar la gobernabilidad integral de las tecnologías de la información y comunicaciones en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, para la entrega eficaz y eficiente de servicios tecnológicos de información y comunicaciones, alineados a las estrategias, requerimientos y servicios de Gobierno;
-
-VIII. Conducir la promoción y difusión de la adopción de marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información y comunicaciones, con el objeto de que la gestión de la función informática responda a los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad; opere con riesgos mitigados y alineada con los objetivos institucionales en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-IX. Dirigir la evaluación del desempeño, la funcionalidad y la seguridad de los recursos de tecnologías de la información y comunicaciones, entre los que se encuentran los datos, sistemas de información, infraestructura, recursos humanos, a través de auditorías, revisiones, inspecciones y verificaciones, bajo los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad, a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-X. Coordinar la formulación de observaciones derivadas de las auditorias y revisiones a las tecnologías de la información y comunicaciones, emitir las recomendaciones correspondientes, dar un seguimiento sistemático a la atención de las mismas, dejar insubsistente aquéllas en que sobrevenga un impedimento legal o material para su atención y solicitar se finque responsabilidad ante la Dirección General de Asuntos Jurídicos y Responsabilidades, proporcionando los elementos y constancias que se hubiesen generado en la práctica de la auditoria o revisión y con motivo de las observaciones generadas, y en su caso, por la falta de atención de las mismas;
-
-XI. Analizar la viabilidad de los nuevos proyectos en materia de tecnologías de la información y comunicaciones y preparar las opiniones técnicas correspondientes;
-
-XII. Dictaminar técnicamente los proyectos en materia de tecnologías de la información y comunicaciones de las dependencias, órganos desconcentrados, delegaciones y entidades, de la Administración Pública del Distrito Federal;
-
-XIII. Impulsar el uso de las tecnologías de la información y comunicaciones al interior de la Administración Pública del Distrito Federal;
-
-XIV. Asistir con carácter de asesor a las sesiones de los órganos colegiados que se constituyan para planear, organizar y desarrollar los proyectos de tecnologías de la información y comunicaciones;
-
-XV. Formar parte de los grupos de trabajo que se formen para analizar o desarrollar proyectos de tecnologías de la información y comunicaciones;
-
-XVI. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios relacionados con la materia de política de tecnologías de la información y comunicaciones de la Administración Pública del Distrito Federal;
-
-XVII. Representar a la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones en los consejos, comités, subcomités y demás cuerpos colegiados establecidos;
-
-XVIII. Realizar estudios e investigaciones para definir y actualizar normas, lineamientos y estándares en materia de tecnologías de la información y comunicaciones; y
-
-XIX. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confiera su superior jerárquico.
-
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2011)</small>
+(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 111-B.
 
-Corresponde a la Dirección Ejecutiva de Servicios de Tecnologías de la Información y Comunicaciones:
+(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
-I. Diseñar, coordinar y dar seguimiento a la estrategia de entrega y soporte de servicios de tecnologías de la información y comunicaciones, y su modelo de gobernabilidad;
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
-II. Coordinar la entrega y soporte de servicios de tecnologías de la información y comunicaciones: Sistemas de información, sitios web, red de datos y servicios de Internet institucionales como la Web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, grupos de trabajo, entre otros; considerando la definición y atención a los niveles de servicio, administración de incidentes, problemas, cambios, capacidad, continuidad y disponibilidad de los servicios;
+###### Artículo 111 Bis.
 
-III. Asesorar en materia de entrega y soporte de servicios de tecnologías de la información y comunicaciones a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
+Corresponde a la Dirección General de Auditoría Cibernética y Proyectos Tecnológicos:
 
-IV. Coordinar y administrar la infraestructura de los servicios de tecnologías de la información y comunicaciones otorgados por la Contraloría General del Distrito Federal;
+I. Aprobar, coordinar y vigilar la aplicación del Modelo de Auditorías Cibernéticas e Intervenciones de Control que contemple las necesidades y particularidades de la Administración Pública del Distrito Federal.
 
-V. Proponer, coordinar el análisis, diseño, desarrollo, implementación y mantenimiento de los sistemas de información requeridos por las unidades administrativas de la Contraloría General, así como de los sistemas de información Institucionales para la Administración Pública del Distrito Federal; considerando la adopción de estándares y marcos de referencia internacionales en materia de desarrollo y mantenimiento de sistemas de información;
+II. Dirigir los proceso para el diseño y mejora continua de un Modelo de Auditorías Cibernéticas e Intervenciones de Control que contribuya en el cumplimiento de las metas y objetivos plasmados en el Programa General de Desarrollo del Distrito Federal y demás ordenamientos respecto al adecuado uso y aprovechamiento de los recursos públicos y los propios de la Contraloría General.
 
-VI. Coordinar y administrar la operación de los sistemas de información de la Contraloría General;
+III. Proponer para su autorización al Contralor General, los lineamientos de aplicación del Modelo de Auditorías Cibernéticas e Intervenciones de Control de la Administración Pública del Distrito Federal.
 
-VII. Coordinar y administrar las instalaciones del Centro de Datos Institucional de la Administración Pública del Distrito Federal;
+IV. Establecer metodologías de Intervenciones de Control, así como instrumentar y vigilar las políticas, lineamientos, mejores prácticas nacionales e internacionales, que deberán observar las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal.
 
-VIII. Proporcionar el servicio de hospedaje de sitios Web y sistemas de información a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal que así lo soliciten; así como administrar la operación de la infraestructura y niveles de servicio de los mismos;
+V. Promover, impulsar y evaluar las iniciativas tecnológicas en materia de fiscalización, evaluación de la gestión pública, y prevención y combate a la corrupción.
 
-IX. Coordinar y administrar a través del Centro de Operaciones de Red Institucional de la Administración Pública del Distrito Federal, la red de datos, voz y video de la Administración Pública del Distrito Federal y los servicios de Internet institucionales: Web, correo electrónico, traducción de nombres de dominio, transferencia de archivos, grupos de trabajo, entre otros;
+VI. Vigilar la instrumentación de las medidas preventivas y correctivas derivadas de las evaluaciones, intervenciones y auditorías realizadas en materia de tecnologías de la información y comunicaciones.
 
-X. Colaborar con la Dirección Ejecutiva de Gobierno Electrónico y Política de Tecnologías de la Información y Comunicaciones, en la elaboración del plan estratégico de tecnologías de la información y comunicaciones de la Contraloría General del Distrito Federal;
+VII. Aprobar y dirigir el Programa Anual de Auditoría Cibernética de Tecnologías de la Información para la Administración Pública del Distrito Federal.
 
-XI. Colaborar con la Dirección Ejecutiva de Gobierno Electrónico y Política de Tecnologías de la Información y Comunicaciones, en la elaboración del modelo de gobernabilidad de tecnologías de la información y comunicaciones de la Administración Pública del Distrito Federal, así como de las políticas, estándares y lineamientos en la materia;
+VIII. Ordenar y realizar auditorías, revisiones, verificaciones e inspecciones a los recursos de las tecnologías de la información y comunicaciones, tanto ordinarias como extraordinarias a las programadas a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, directamente o con apoyo de los respectivos Órganos de Control Interno, a fin de revisar que los datos, sistemas de aplicación, tecnología, instalaciones, recursos humanos, objetos de información, procesos de planeación y organización, adquisición e implementación, entrega y soporte de servicios, así como el control interno asociado; se lleven a cabo bajo los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad, en términos de las disposiciones jurídicas y administrativas aplicables;
 
-XII. Diseñar, coordinar y dar seguimiento a la estrategia de desarrollo y mantenimiento de sistemas de información, y su modelo de gobernabilidad;
+IX. Ordenar y realizar, derivado de la práctica de revisiones y auditorías a los recursos de las tecnologías de la información y comunicaciones, visitas e inspecciones a las instalaciones de las personas físicas y morales que intervengan en las adquisiciones, arrendamientos y prestación de servicios en materia de recursos informáticos, para vigilar que cumplan con lo establecido en los contratos y en las normas y disposiciones jurídicas y administrativas aplicables;
 
-XIII. Proponer, diseñar, implementar y operar las metodologías y los servicios de seguridad de tecnologías de la información y comunicaciones, considerando la adopción de estándares y marcos de referencia internacionales en materia de seguridad informática;
+X. Ordenar, cuando lo estime conveniente, a las Dependencias, Unidades Administrativas, Órganos Político- Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal permitan a los servidores públicos comisionados realizar auditorías, revisiones, inspecciones y verificaciones a los recursos de las tecnologías de la información y comunicaciones; así como asegurar, resguardar y custodiar la información y documentación que se les proporcione con motivo de las mismas;
 
-XIV. Asesorar en materia de seguridad de la información a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
+XI. Requerir, de acuerdo a la naturaleza a sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, Órganos de Control Interno así como proveedores, contratistas y prestadores de servicio;
 
-XV. Proponer y coordinar el análisis, diseño, desarrollo y/o mantenimiento e implementación de sistemas de información Institucionales para la Administración Pública del Distrito Federal;
+XII. Solicitar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político- Administrativos, Entidades Paraestatales e Instituciones Públicas locales y federales, así como a las Instituciones Financieras a que se refiere el artículo segundo, fracción IV, de la Ley de Protección y Defensa al usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como los que se encuentren involucrados en procedimientos de promoción de fincamiento de responsabilidades administrativas, observando para ello las disposiciones relativas a la tutela de datos personales y las de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
 
-XVI. Coordinar el análisis, diseño, desarrollo, implementación y mantenimiento de los sistemas de información con las dependencias, órganos desconcentrados, delegaciones y entidades que automaticen los procesos/procedimientos sustantivos y transversales de la Administración Pública del Distrito Federal; considerando la adopción de estándares y marcos de referencia internacionales en materia de desarrollo y mantenimiento de sistemas de información;
+XIII. Analizar, diseñar, desarrollar e implementar las soluciones requeridas para la administración de las intervenciones a su cargo y demás productos solicitados por la Contraloría General; así como el software necesario para habilitar el esquema de monitoreo continuo en las distintas dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativo y entidades de la Administración Pública del Distrito Federal, a fin de asegurar la efectividad de sus controles internos, detectar riesgos operacionales, así como supervisar el cumplimiento de la normatividad regulatoria aplicable;
 
-XVII. Asesorar en materia de análisis, diseño, desarrollo, implementación y mantenimiento de sistemas de información a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
+XIV. Formular y emitir observaciones y recomendaciones preventivas y correctivas que se deriven de las auditorias y revisiones, verificaciones, visitas e inspecciones a las tecnologías de la información y comunicaciones, así como formular propuestas de mejora; dar seguimiento sistemático a las mismas y determinar su solventación de conformidad con las disposiciones jurídicas y administrativas aplicables.
 
-XVIII. Investigar y analizar nuevas herramientas en materia de tecnologías de la información y comunicaciones, para el desarrollo e implantación de sistemas de información que deriven en servicios eficientes a los ciudadanos y a los órganos de la Administración Pública del Distrito Federal;
+XV. Solicitar el fincamiento de responsabilidades cuando el caso lo amerite ante la Dirección General de Asuntos Jurídicos y Responsabilidades.
 
-XIX. Coordinar los procedimientos y requerimientos para la entrega y soporte de los sistemas de información a liberar;
+XVI. Dirigir las acciones para la administración de la red de datos, voz y video, así como los servicios de internet: web, correo electrónico, transferencia de archivos, grupos de trabajo, entre otros de la Contraloría General.
 
-XX. Colaborar con la Dirección Ejecutiva de Procesos, Servicios y Atención Ciudadana, en la elaboración y actualización permanente del Portal del Gobierno del Distrito Federal, en la elaboración y actualización de los sitios Web de las unidades de gobierno de la Administración Pública del Distrito Federal que lo soliciten, así como en la estrategia de servicios electrónicos;
+XVII. Asesorar y vigilar la entrega de servicios informáticos y de comunicaciones eficaz y eficiente, en las unidades administrativas de la Contraloría General del Distrito Federal.
 
-XXI. Apoyar en las funciones que corresponden a la Unidad de Firma Electrónica de la Administración Pública del Distrito Federal;
+XVIII. Diseñar, planear y dirigir los trabajos de automatización de procesos y procedimientos que garanticen la continuidad de las operaciones y servicios tecnológicos que brinda la Contraloría General del Distrito Federal, así como su interoperabilidad con otros entes privados o públicos de los tres niveles de gobierno.
 
-XXII. Proponer la coordinación y gestiones necesarias para impulsar la disponibilidad de los servicios de certificación electrónica;
+XIX. Promover y difundir la adopción de marcos de referencia nacionales, internacionales y buenas prácticas en materia tecnológica y de seguridad de la información, para que la gestión de la función informática en las unidades administrativas de la Contraloría General responda a los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad, y opere con riesgos mitigados y alineada a los objetivos institucionales.
 
-XXIII. Proponer mecanismos para fomentar y difundir el uso de la Firma Electrónica Avanzada en los trámites y procedimientos que se llevan a cabo en la Administración Pública dando prioridad a los procesos internos y a los que se refieren a la atención de trámites y solicitudes de servicios que tengan mayor impacto entre la ciudadanía;
+XX. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios nacionales e internacionales relacionados con el uso de tecnologías de la información y comunicaciones para la fiscalización y evaluación de la gestión pública, así como para la prevención y combate a la corrupción.
 
-XXIV. Formular propuestas de requisitos, directrices y lineamientos para implementar el uso de la Firma Electrónica;
+XXI. Proponer disposiciones normativas para la conservación, almacenamiento y disponibilidad de los documentos electrónicos, de conformidad con las disposiciones jurídicas aplicables.
 
-XXV. Administrar el registro de prestadores de servicios de certificación;
+XXII. Analizar y proponer nuevas tecnologías que coadyuven en los objetivos sustantivos del quehacer de la Contraloría General.
 
-XXVI. Proponer disposiciones normativas para la conservación, almacenamiento y disponibilidad de los documentos electrónicos, o en su caso expedirlas, con la intervención de las unidades administrativas competentes de la Contraloría General;
+XXIII. Difundir procesos de identificación, cuantificación y administración de los riesgos de la seguridad informática derivados de las auditorías que coadyuven alcanzar los objetivos institucionales mediante la aplicación de técnicas y metodologías de administración de riesgos.
 
-XXVII. Participar en la habilitación de los servicios de firma electrónica a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
+XXIV. Dirigir y controlar los proyectos de rediseño de procesos sustantivos de la Contraloría General utilizando marcos de referencia, nacionales e internacionales en materia de tecnologías de la información y comunicaciones.
 
-XXVIII. Asesorar técnicamente a las dependencias, órganos desconcentrados, delegaciones y entidades, en la implementación de los servicios de firma electrónica en sus sistemas informáticos, de conformidad con la Ley y Reglamento de Firma Electrónica del Distrito Federal;
+XXV. Coordinar y llevar un registro del portafolio de proyectos tecnológicos de la Contraloría General del Distrito Federal, en los aspectos de identificación, categorización, evaluación, selección y priorización.
 
-XXIX. Apoyar a la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones en el estudio, planeación e implantación de los sistemas de información y proyectos que así lo requieran;
+XXVI. Coordinar y dar seguimiento al plan estratégico de tecnologías de la información y comunicaciones de la Contraloría General del Distrito Federal.
 
-XXX. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios relacionados con la entrega y soporte de servicios de tecnologías de la información y comunicaciones y sistemas de información de la Administración Pública del Distrito Federal;
+XXVII. Establecer mecanismos de control de proyectos tecnológicos de fiscalización, evaluación de la gestión pública y el combate a la corrupción, para la Contraloría General del Distrito Federal.
 
-XXXI. Representar a la Dirección General de Gobernabilidad de Tecnologías de Información y Comunicaciones en los consejos, comités, subcomités y demás cuerpos colegiados establecidos;
+XXVIII. Coordinar las acciones para el cumplimiento y evaluación del Plan para la Prevención y el Combate a la Corrupción de la Administración Pública del Distrito Federal y otros planes y programas similares.
 
-XXXII. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confiera su superior jerárquico.
+XXIX. Diseñar y proponer los planes estratégicos y proyectos tecnológicos que se desprendan del mismo Plan para la Prevención y el Combate a la Corrupción, en cada una de las dependencias, órganos desconcentrados, delegaciones, unidades administrativas, unidades administrativas de apoyo técnico operativo y entidades, con el fin de cumplir con los objetivos del mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2009)</small>
+XXX. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en que sea parte, tenga interés jurídico, o estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia le otorgará el apoyo necesario;
+
+XXXI. Las demás que le instruya el Titular de la Contraloría General, las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+Las atribuciones relativas a la promoción y difusión de los marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información; realización de auditorías, revisiones, verificaciones e inspecciones, a los recursos de las tecnologías de la información; formulación de observaciones, emisión de recomendaciones, seguimiento para la atención de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités; requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, II, IV, V, VI, VII, XI, XII, XIV, XV, XVI, XXII, XXIV, XXV y XXVII podrán ser ejercidas por las Unidades Administrativas de Apoyo Técnico-Operativo de la Dirección General (sic) Auditoría Cibernética y Proyectos Tecnológicos así como por las Unidades Administrativas de Apoyo Técnico-Operativo que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 111 Ter.
+
+Corresponde a la Dirección Ejecutiva de Auditoría Cibernética:
+
+I. Analizar y proponer metodologías tecnológicas que permitan la fiscalización de recursos públicos, evaluación de la gestión pública y la prevención y combate a la corrupción.
+
+II. Elaborar el proyecto de Modelo de Auditoría Cibernética e Intervenciones de Control para su presentación a la Dirección General de Informática y Auditoria Cibernética.
+
+III. Evaluar las mejores prácticas y marcos de referencia nacionales e internacionales en materia de auditorías cibernéticas, con el fin de enriquecer al modelo.
+
+IV. Coordinar la Implementación de las acciones derivadas del Modelo de Auditoría Cibernética e Intervenciones de Control.
+
+V. Elaborar y aplicar criterios de evaluación a fin de que el Modelo de Auditoría Cibernética e Intervenciones de Control este orientado a un proceso de mejora continua.
+
+VI. Elaborar el proyecto e implementación del Programa Anual de Auditoría Cibernética de Tecnología de la Información.
+
+VII. Dar un seguimiento sistemático a la ejecución del Programa Anual de Auditoría Cibernética por parte de sus unidades administrativas.
+
+VIII. Coordinar la formulación de observaciones por parte de sus unidades administrativas derivadas de las auditorias y revisiones cibernéticas.
+
+IX. Emitir las recomendaciones correspondientes, que contribuyan a la entrega oportuna, eficaz y eficiente de proyectos en materia de tecnologías de la información y comunicaciones de la Contraloría General de conformidad con las disposiciones jurídica y administrativa (sic).
+
+X. Proponer los criterios de evaluación del Programa Anual de Auditoría Cibernética con el fin de verificar su orientación al proceso de mejora continua.
+
+XI. Ordenar y realizar auditorías, revisiones, verificaciones e inspecciones a los recursos de las tecnologías de la información y comunicaciones, tanto ordinarias como extraordinarias a las programadas a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, directamente o con apoyo de los respectivos Órganos de Control Interno, a fin de revisar que los datos, sistemas de aplicación, tecnología, instalaciones, recursos humanos, objetos de información, procesos de planeación y organización, adquisición e implementación, entrega y soporte de servicios, así como el control interno asociado; se lleven a cabo bajo los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad, en términos de las disposiciones jurídicas y administrativas aplicables;
+
+XII. Ordenar y realizar, derivado de la práctica de revisiones y auditorías a los recursos de las tecnologías de la información y comunicaciones, visitas e inspecciones a las instalaciones de las personas físicas y morales que intervengan en las adquisiciones, arrendamientos y prestación de servicios en materia de recursos informáticos, para vigilar que cumplan con lo establecido en los contratos y en las normas y disposiciones jurídicas y administrativas aplicables;
+
+XIII. Ordenar, cuando lo estime conveniente, a las Dependencias, Unidades Administrativas, Órganos Político- Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal permitan a los servidores públicos comisionados realizar auditorías, revisiones, inspecciones y verificaciones a los recursos de las tecnologías de la información y comunicaciones; así como asegurar, resguardar y custodiar la información y documentación que se les proporcione con motivo de las mismas;
+
+XIV. Requerir, de acuerdo a la naturaleza a sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, Órganos de Control Interno así como proveedores, contratistas y prestadores de servicio;
+
+XV. Solicitar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político- Administrativos, Entidades Paraestatales e Instituciones Públicas locales y federales, así como a las Instituciones Financieras a que se refiere el artículo segundo, fracción IV, de la Ley de Protección y Defensa al usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como los que se encuentren involucrados en procedimientos de promoción de fincamiento de responsabilidades administrativas, observando para ello las disposiciones relativas a la tutela de datos personales y las de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+
+XVI. Analizar, diseñar, desarrollar e implementar las soluciones requeridas para la administración de las intervenciones a su cargo y demás productos solicitados por la Contraloría General; así como el software necesario para habilitar el esquema de monitoreo continuo en las distintas dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativo y entidades de la Administración Pública del Distrito Federal, a fin de asegurar la efectividad de sus controles internos, detectar riesgos operacionales, así como supervisar el cumplimiento de la normatividad regulatoria aplicable;
+
+XVII. Formular y emitir observaciones y recomendaciones preventivas y correctivas que se deriven de las auditorias y revisiones, verificaciones, visitas e inspecciones a las tecnologías de la información y comunicaciones, así como formular propuestas de mejora; dar seguimiento sistemático a las mismas; así como determinar su solventación, de conformidad con las disposiciones jurídicas y administrativas aplicables.
+
+XVIII. Solicitar a la Dirección General de Asuntos Jurídicos y Responsabilidades se finque responsabilidad, proporcionando los elementos y constancias que se hubiesen generado en la práctica de la auditoria o revisión y con motivo de las observaciones generadas, y en su caso, por la falta de atención de las mismas.
+
+XIX. Establecer el marco de evaluación de los informes periódicos del Programa Anual de Auditoría Cibernética.
+
+XX. Implementar y actualizar el Plan para la Prevención y el Combate a la Corrupción en materia tecnológica.
+
+XXI. Proponer el diseño, coordinar, dar seguimiento y evaluar el plan estratégico de tecnologías de la información y comunicaciones de la Contraloría General del Distrito Federal.
+
+XXII. Coordinar proyectos en materia de fiscalización, evaluación de la gestión pública y prevención y combate a la corrupción utilizando tecnologías de información y comunicaciones para la Contraloría General del Distrito Federal.
+
+XXIII. Asesorar a dependencias, órganos desconcentrados, delegaciones, entidades y demás órganos de la Administración Pública del Distrito Federal en proyectos tecnológicos en materia de fiscalización, evaluación de la gestión pública, Prevención y Combate a la Corrupción.
+
+XXIV. Conducir la promoción y difusión de la adopción de marcos de referencia nacionales, internacionales y buenas prácticas para el control y la seguridad de la información, con el objeto de que la gestión de la función informática responda a los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad; opere con riesgos mitigados y alineada con los objetivos institucionales de la Contraloría General del Distrito Federal.
+
+XXV. Dirigir la evaluación del desempeño, la funcionalidad y la seguridad de los recursos de tecnologías de la información y comunicaciones, entre los que se encuentran los datos, sistemas de información, infraestructura, recursos humanos, a través de auditorías cibernéticas, revisiones, inspecciones y verificaciones, bajo los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad, de la Administración Pública del Distrito Federal.
+
+XXVI. Realizar estudios e investigaciones para definir y proponer la actualización de normas, lineamientos y estándares en materia de Intervenciones de Control y Auditoría Cibernética.
+
+XXVII. Asesorar a las unidades administrativas de la Contraloría General en la planeación, organización y desarrollo de proyectos en materia de fiscalización, evaluación de la gestión pública y prevención y combate a la corrupción utilizando tecnologías de información y comunicaciones.
+
+XXVIII. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios nacionales e internacionales relacionados con el uso de tecnologías de la información y comunicaciones para la fiscalización y evaluación de la gestión pública, así como para la prevención y combate a la corrupción.
+
+XXIX. Representar a la Dirección General de Auditoría Cibernética y Proyectos Tecnológicos en los consejos, comités, subcomités y demás cuerpos colegiados establecidos.
+
+XXX. Elaborar los informes derivados de la asistencia a los diferentes eventos.
+
+XXXI. Las demás que le instruya el Titular de la Contraloría General, las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 111 Quáter.
+
+Corresponde a la Dirección de Proyectos Tecnológicos:
+
+I. Coordinar la implementación de servicios de tecnologías de la información y comunicaciones, sitios web, red de datos y servicios de internet, correo electrónico, transferencia de archivos, grupos de trabajo, entre otros de la Contraloría General; considerando la definición y atención a los niveles de servicio, administración de incidentes, problemas, cambios, capacidad, continuidad y disponibilidad de sus servicios.
+
+II. Diseñar y garantizar la implementación de procesos que permitan la continuidad de las operaciones y servicios tecnológicos de la Contraloría General.
+
+III. Asesorar permanentemente en materia de entrega de servicios de tecnologías de la información y comunicaciones a la Contraloría General y sus unidades administrativas.
+
+IV. Implementar medidas que permitan garantizar la administración y mantenimiento de la infraestructura de los servicios de tecnologías de la información y comunicaciones de la Contraloría General.
+
+V. Supervisar la aplicación de medidas y controles preventivos para el mantenimiento de las instalaciones del Centro de Datos de la Contraloría General.
+
+VI. Impulsar continuamente el fomento al uso de las tecnologías de la información y comunicaciones al interior de la Contraloría General y sus unidades administrativas.
+
+VII. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios relacionados con la entrega y soporte de servicios de tecnologías de la información y comunicaciones, y sistemas de información de la Contraloría General.
+
+VIII. Establecer los criterios para la administración de los proyectos de los sistemas de información de la Contraloría General y sus unidades administrativas.
+
+IX. Proponer metodologías y estrategias para el desarrollo de proyectos de sistemas de información de la Contraloría General.
+
+X. Procesar y evaluar nuevas herramientas en materia de tecnologías de la información y comunicaciones, para el desarrollo de proyectos que deriven de los servicios que presta la Contraloría General a los ciudadanos y a sus unidades administrativas.
+
+XI. Contribuir permanentemente con la Dirección General de Auditoría Cibernética y Proyectos Tecnológicos en el estudio, planeación e implantación de proyectos que así lo requieran.
+
+XII. Elaborar propuestas en colaboración con la Dirección General de Auditoría Cibernética y Proyectos Tecnológicos, en la elaboración del plan estratégico de tecnologías de la información y comunicaciones de la Contraloría General del Distrito Federal.
+
+XIII. Proponer y diseñar metodologías de los servicios de seguridad de tecnologías de la información y comunicaciones de la Contraloría General, considerando la adopción de estándares y marcos de referencia nacionales e internacionales en materia de seguridad informática.
+
+XIV. Asesorar en materia de seguridad de la información a las unidades administrativas de la Contraloría General.
+
+XV. Diseñar propuestas sobre disposiciones normativas para la conservación, almacenamiento y disponibilidad de los documentos electrónicos para la Contraloría General.
+
+XVI. Administrar el conjunto de proyectos de tecnologías de información y comunicaciones de la Contraloría General del Distrito Federal y sus unidades administrativas, a través de la herramienta definida para tal fin.
+
+XVII. Asesorar y proponer el uso de tecnologías para la materia de administración de proyectos de fiscalización, evaluación de la gestión pública y prevención y combate a la corrupción a la Contraloría General del Distrito Federal y sus unidades administrativas.
+
+XVIII. Coordinar la organización y mantener actualizado un registro de los proyectos y sistemas en materia de tecnologías de la Contraloría General del Distrito Federal.
+
+XIX. Realizar estudios junto con las unidades administrativas de la Contraloría General a procesos sustantivos con el fin de automatizarlos para cumplir con las metas de un gobierno eficaz, eficiente y transparente.
+
+XX. Analizar el uso de nuevas tecnologías para proponer la mejora y rediseño de los procesos sustantivos de la Contraloría General;
+
+XXI. Las demás que le instruya el Titular de la Contraloría General, las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 112.
 
-Corresponde a la Dirección General de Contraloría Ciudadana:
+Corresponde a la Dirección General de Contralorías Ciudadanas:
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+I. Promover los principios de transparencia, legalidad, honradez y rendición de cuentas en el ejercicio del gasto público, en la prestación de los servicios públicos, en los programas y acciones de gobierno así como en la actuación y desempeño de los servidores públicos de la Administración Pública, a través de la vigilancia, supervisión, control y evaluación que ejerzan los Contralores Ciudadanos en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
-I.- Promover los procesos de transparencia de la gestión pública, rendición de cuentas y evaluación de la Administración Pública, a través de la vigilancia ejercida por los Contralores Ciudadanos en los órganos colegiados de la Administración Pública del Distrito Federal, de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, en el ejercicio del gasto público, la recaudación de ingresos, la prestación de los servicios públicos, en los programas y acciones de gobierno y en la actuación y desempeño de los servidores públicos;
+II. Organizar y coordinar la Red de Contraloría Ciudadana, integrada por personas acreditadas como Contralores Ciudadanos por el Jefe de Gobierno del Distrito Federal, así como proponer la normatividad para su integración, funcionamiento y la evaluación de sus acciones y resultados;
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+III. Convocar a la ciudadanía, a los Comités Ciudadanos, a los Consejos Ciudadanos Delegacionales, a las organizaciones civiles y sociales, a las instituciones educativas, académicas y profesionales, cámaras y asociaciones y medios de comunicación a presentar propuestas de candidatos y candidatas a contralores ciudadanos;
 
-II.- Organizar y coordinar la Red de Contraloría Ciudadana, integrada por personas acreditadas como Contralores Ciudadanos por el Jefe de Gobierno del Distrito Federal, así como proponer la normatividad para su integración, funcionamiento y la evaluación de sus acciones y resultados;
+IV. Establecer los vínculos necesarios con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, para la incorporación y el desarrollo de las actividades de vigilancia, supervisión, control y evaluación que realicen los Contralores Ciudadanos en el ejercicio del gasto público, la prestación de los servicios públicos, en los programas y acciones de gobierno, así como en la actuación y desempeño de los servidores públicos;
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+V. Integrar, sistematizar, remitir y dar seguimiento a los informes, propuestas y opiniones de los Contralores Ciudadanos, como resultado de sus actividades de vigilancia, supervisión, control y evaluación en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
-III.- Convocar a la ciudadanía, a las organizaciones civiles y sociales, a las instituciones educativas, académicas y profesionales, cámaras y asociaciones y medios de comunicación a presentar propuestas de candidatos y candidatas a contralores ciudadanos;
+VI. Diseñar y aplicar procedimientos y mecanismos para la captación, selección, formación, capacitación y asesoría de Contralores Ciudadanos;
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+VII. Evaluar el desempeño de los Contralores Ciudadanos y proponer acciones para hacer eficaz y eficiente la labor de vigilancia, supervisión, control y evaluación ciudadana en la Administración Pública del Distrito Federal, así como proponer estímulos y reconocimientos a su labor;
 
-IV.- Establecer los vínculos necesarios con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, para la incorporación y el desarrollo de las actividades de vigilancia, control y evaluación de los Contralores Ciudadanos en sus Órganos Colegiados, en el ejercicio del gasto público, la recaudación de ingresos, la prestación de los servicios públicos, en los programas y acciones de gobierno y en la actuación y desempeño de los servidores públicos;
+VIII. Solicitar información y documentación, de acuerdo a la naturaleza de sus funciones a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, sobre la atención y el seguimiento dado a las propuestas, peticiones, solicitudes y opiniones de los Contralores Ciudadanos, así como gestionar y coordinar sus citas o entrevistas con dichos órganos administrativos, para la realización de las funciones que tienen encomendadas;
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+IX. Realizar estudios de transparencia, legalidad, honradez, rendición de cuentas y Contraloría Ciudadana, en coordinación con las organizaciones, instituciones y sectores de la sociedad relacionados con esta materia;
 
-V.- Integrar, sistematizar, remitir y dar seguimiento ante las instancias competentes a las quejas, denuncias, informes, propuestas y opiniones de los Contralores Ciudadanos, con relación a sus actividades de vigilancia, control y evaluación en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
+X. Establecer convenios de colaboración con organizaciones, instituciones académicas y sectores de la sociedad en capacitación, promoción de los programas de la Contraloría Ciudadana y estudios en el ámbito de la vigilancia, supervisión, control y evaluación de la Administración Pública del Distrito Federal.
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+XI. Desarrollar un sistema de información y difusión permanente de las actividades realizadas por los contralores ciudadanos, así como de las propuestas e iniciativas emitidas por éstos, que hayan contribuido a la eficiencia, y transparencia, legalidad, honradez y rendición de cuentas de la gestión de la Administración Pública del Distrito Federal.
 
-VI.- Desarrollar un Sistema de Incorporación, Selección, Formación, Capacitación y Asesoría de Contralores Ciudadanos; así como proponer estímulos y reconocimientos a su labor;
+XII. Participar en diversas instancias de la Administración Pública del Distrito Federal, para el análisis de proyectos normativos que se refieran o tengan alguna incidencia en materia de Contraloría Ciudadana;
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+XIII. Efectuar y coadyuvar con las Unidades Administrativas de la Contraloría General en las visitas, verificaciones, inspecciones y revisiones que se realicen con motivo de los programas y acciones de la Contraloría Ciudadana, en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
-VII.- Supervisar y evaluar el desempeño de los Contralores Ciudadanos y proponer las acciones para hacer eficaz y eficiente la labor de vigilancia, control y evaluación ciudadana en la Administración Pública del Distrito Federal;
+XIV. Expedir, previo cotejo, copias certificadas de los documentos que obren en los archivos de la Dirección General de Contralorías Ciudadanas;
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+XV. Canalizar ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, demandas, querellas, quejas y denuncias, así como rendir informes, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
 
-VIII.- Solicitar de acuerdo a la naturaleza de sus funciones, información y documentación de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, sobre la atención y el seguimiento que le dieron a las propuestas y opiniones de los Contralores Ciudadanos, así como gestionar y coordinar sus visitas ante dichos órganos administrativos para la realización de las funciones que tienen encomendadas;
+XVI. Promover, capacitar y coordinar la participación ciudadana en la vigilancia de los recursos federales que se aplican en el Distrito Federal; y
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-IX.- Realizar estudios en materia de transparencia de la gestión pública, rendición de cuentas y Contraloría Ciudadana, en coordinación con las organizaciones, instituciones y sectores de la sociedad relacionados con esta materia;
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-X.- Desarrollar un sistema de información y difusión permanente de las actividades realizadas por los contralores ciudadanos, así como de las propuestas e iniciativas emitidas por éstos, que hayan contribuido a la eficiencia y transparencia de la gestión de la Administración Pública del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-XI.- Participar en las instancias colegiadas, para el análisis de proyectos normativos que se refieran o tengan alguna incidencia en materia de Contraloría Ciudadana;
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-XII.- Efectuar y coadyuvar con las Unidades Administrativas de la Contraloría General en las visitas, verificaciones, inspecciones y revisiones que se realicen con motivo de los programas y acciones de la Contraloría Ciudadana, en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos desconcentrados y Entidades de la Administración Pública del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-XIII.- Expedir previo cotejo copias certificadas de los documentos que obren en sus archivos;
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-XIV.- Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario; y
-
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
-
-XV.- Las demás que le instruya el titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XVII. Las demás que le instruya el titular de la Contraloría General; de las que expresamente le atribuya este reglamento; además de las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -8922,17 +9748,25 @@ XXIV. Las demás que expresamente le atribuya el presente Reglamento y las demá
 
 Corresponde a las Contralorías Internas en las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, adscritas a la Contraloría General, en el ámbito de su competencia, las siguientes atribuciones:
 
-I. Proponer al Titular de la Dirección General de Contralorías Internas, el Programa de Auditoría para cada ejercicio presupuestal, sus modificaciones y mantener el seguimiento sistemático de su ejecución;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-II. Ordenar y ejecutar auditorías ordinarias y extraordinarias a las programadas, en las Dependencias y Órganos Desconcentrados, delegaciones, y Entidades, de la Administración Pública del Distrito Federal, en el ámbito de su respectiva competencia, conforme a los programas establecidos y autorizados; a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, prestación de servicios, obra pública, conservación, uso, destino, afectación enajenación, adquisición y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan, en términos de las disposiciones jurídicas y administrativas aplicables;
+I. Proponer al Titular de la Dirección General de Contralorías Internas que corresponda, la información relativa al Programa de Auditoría de la Contraloría General, para cada ejercicio presupuestal; sus modificaciones y mantener el seguimiento sistemático de su ejecución.
 
-III. Ejecutar verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúen las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, en las materias relativas a: información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+II. Ordenar y ejecutar auditorías tanto ordinarias como extraordinarias a las programadas, en las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, en el ámbito de su respectiva competencia, conforme a los programas establecidos y autorizados; a fin de promover tanto la eficiencia en sus operaciones, como verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes en materia de: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
 
-IV. Formular y emitir observaciones y recomendaciones preventivas y correctivas que se deriven de las auditorias ordinarias y extraordinarias; en cuanto a revisiones, verificaciones, visitas e inspecciones, emitir propuestas de mejora; dar seguimiento sistemático a las mismas; determinar su solventación; así como dejar insubsistentes aquellas observaciones y propuestas de mejora que en su solventación o seguimiento sobrevenga un impedimento legal o material para su atención;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-V. Asistir y participar en los órganos de gobierno, comités, subcomités y demás cuerpos colegiados, instalados en las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, según corresponda por competencia, en términos de las disposiciones jurídicas y administrativas aplicables;
+III. Ejecutar verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúen las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, en las materias relativas a: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+IV. Formular y emitir observaciones y recomendaciones preventivas y correctivas que se deriven de las auditorias ordinarias y extraordinarias; en cuanto a revisiones, verificaciones, visitas e inspecciones, emitir propuestas de mejora; dar seguimiento sistemático a las mismas; así como determinar su solventación, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+V. Asistir y participar en los Órganos de Gobierno, Comités, Subcomités, Consejos Directivos y demás Cuerpos Colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades de la Administración Pública del Distrito Federal, según corresponda por competencia, en los términos que determinen las disposiciones jurídicas aplicables, por sí, o a través de los Titulares de las Unidades Administrativas de Apoyo Técnico Operativo adscritas, o cuando no se cuente con Órganos de Control Interno;
 
 VI. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de auditorías, verificaciones, revisiones, inspecciones y visitas, procedimientos administrativos disciplinarios, y demás de las que tenga acceso con motivo del desarrollo de sus actividades;
 
@@ -8942,19 +9776,25 @@ VII. Atender los requerimientos que les realice el Titular de la Contraloría Ge
 
 VIII. Requerir de acuerdo con la naturaleza de sus funciones, información y documentación a las Dependencias y Órganos Desconcentrados, Delegaciones, Entidades, y Contralorías Internas, de la Administración Pública del Distrito Federal, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico del Distrito Federal;
 
-IX. Intervenir en las actas de entrega-recepción que realicen los titulares y servidores públicos de las Dependencias y órganos Desconcentrados, Delegaciones, Entidades, y personal de las contralorías internas, de la Administración Pública del Distrito Federal, a fin de vigilar que se cumpla con la normatividad aplicable, y en caso de incumplimiento, determinar las responsabilidades y sanciones administrativas correspondientes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+IX. Intervenir en las actas de entrega-recepción que realicen los titulares y servidores públicos de las Dependencias y Órganos Desconcentrados, Delegaciones, Entidades, y personal de las contralorías internas, de la Administración Pública del Distrito Federal, a fin de vigilar que se cumpla con la normatividad aplicable, y en caso de incumplimiento, determinar las responsabilidades y sanciones administrativas correspondientes;
 
-X. Conocer, investigar, iniciar, desahogar y resolver procedimientos administrativos disciplinarios sobre actos u omisiones respecto de servidores públicos adscritos orgánica o funcionalmente, o bien que ejerzan o administren recursos en las dependencias y órganos desconcentrados, delegaciones, y entidades, de la Administración Pública del Distrito Federal, que correspondan a su competencia, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, de los cuales tengan conocimiento por cualquier medio, para determinar, en su caso, las sanciones que correspondan en los términos de la Ley de la materia;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+X. Conocer, investigar, iniciar, desahogar y resolver procedimientos administrativos disciplinarios sobre actos u omisiones respecto de servidores públicos adscritos orgánica o funcionalmente, o bien que ejerzan o administren recursos en las dependencias y órganos desconcentrados, delegaciones, y entidades, de la Administración Pública del Distrito Federal, que correspondan a su competencia, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, de los cuales tengan conocimiento por cualquier medio, o que se desprendan de la aplicación de recursos federales, para determinar, en su caso, las sanciones que correspondan en los términos de la Ley de la materia.
 
 XI. Conocer, substanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos, en términos de las disposiciones jurídicas y administrativas aplicables;
 
 XII. Acordar, cuando proceda, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones;
 
-XIII. Dar seguimiento hasta su solventación, a las observaciones y recomendaciones generadas a las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública, por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, de la Auditoría Superior de la Federación, y otros órganos de fiscalización. Asimismo, dar seguimiento a la Carta de Recomendaciones de los Auditores Externos, en su caso.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIV. Verificar la aplicación de los indicadores de gestión establecidos por la Contraloría General para las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades de la Administración Pública del Distrito Federal, a efecto de evaluar el desempeño y resultados de las mismas;
+XIII. Dar seguimiento a las observaciones y recomendaciones generadas a las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades de la Administración Pública, a fin de coadyuvar con los órganos de fiscalización federales y locales, de conformidad con las disposiciones jurídicas y administrativas aplicables. Asimismo, dar seguimiento a la Carta de Recomendaciones de los Auditores Externos, en su caso.
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIV. Verificar la aplicación de los criterios técnicos que deben reunir los expedientes de auditoría externa, así como los dictámenes técnicos correspondientes, de acuerdo a los lineamientos dictados al respecto internamente.
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -8964,7 +9804,9 @@ XV. Conocer, desahogar y resolver los procedimientos de aclaración de los actos
 
 XVI. Recibir, analizar, tramitar y resolver las solicitudes de afirmativa ficta, debiendo requerir o consultar directamente el expediente correspondiente y en su caso imponiendo las medidas de apremio en términos de la Ley de Procedimiento Administrativo del Distrito Federal así como informar a la Contraloría General sobre las solicitudes, trámites, resoluciones, responsabilidades y sanciones que se determinen;
 
-XVII. Elaborar y remitir a la Dirección General de Contralorías Internas que corresponda de acuerdo a su adscripción, los informes periódicos relativos al Programa de Auditoría, Programa Operativo Anual, otros programas, informes, reportes, datos, y demás documentación solicitada que se les requiera;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVII. Elaborar y remitir a la Dirección General de Contralorías Internas que corresponda, los informes periódicos relativos al Programa de Auditoría, Programa Operativo Anual, otros programas, informes, reportes, datos, y demás documentación solicitada que se les requiera;
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
@@ -8974,23 +9816,27 @@ XIX. Coadyuvar con las Unidades Administrativas de la Contraloría General en la
 
 XX. Comisionar al personal a su cargo, para coadyuvar al cumplimiento de las funciones y atribuciones conferidas a las Unidades Administrativas de la Contraloría General;
 
-XXI. Ordenar y realizar visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en los procesos administrativos que efectúan las Dependencias y Órganos Desconcentrados, Delegaciones y Entidades, de la Administración Pública del Distrito Federal, las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás previstos en el marco jurídico del Gobierno del Distrito Federal, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, cualquier otro instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXII. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, adjudicaciones directas, así como cualesquiera otros procesos y procedimientos administrativos previstos en los ordenamientos aplicables vigentes, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación, adquisición, transferencia y baja de bienes muebles e inmuebles, concesiones, permisos, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones, o que por cualquier otro medio tengan conocimiento;
+XXI. Ordenar y realizar visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan, en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico del Distrito Federal, que efectúen las Dependencias y Órganos Desconcentrados, Delegaciones y Entidades, de la Administración Pública del Distrito Federal, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
 
-No procederá la suspensión cuando se acredite que ésta afectaría de manera importante la continuidad de los programas sociales o prioritarios, o bien, la prestación de servicios públicos;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXIII. Instruir a las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, títulos concesión, acuerdos, actas, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento;
+XXII. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, adjudicaciones directas, así como cualesquiera otros procesos y procedimientos administrativos previstos en los ordenamientos aplicables vigentes, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, enajenación, adquisición, transferencia y baja de bienes muebles e inmuebles, concesiones, permisos, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones, o que por cualquier otro medio tengan conocimiento de irregularidades o inconsistencias. No procederá la suspensión cuando se acredite que ésta afectaría de manera importante la continuidad de los programas sociales o prioritarios, o bien, la prestación de servicios públicos.
 
-No procederá la suspensión, revocación, rescisión o terminación anticipada cuando se acredite que ésta afectaría de manera importante la continuidad de los programas sociales o prioritarios, o bien, la prestación de servicios públicos;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIII. Instruir a las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, títulos concesión, acuerdos, actas, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, derivado de las irregularidades o inconsistencias detectadas en las revisiones, auditorías, verificaciones, visitas, inspecciones, quejas, denuncias, intervenciones, participaciones o que por cualquier medio se tenga conocimiento de irregularidades o inconsistencias. No procederá la suspensión, revocación, rescisión o terminación anticipada cuando se acredite que ésta afectaría de manera importante la continuidad de los programas sociales o prioritarios, o bien, la prestación de servicios públicos.
 
 XXIV. Realizar las investigaciones, disponer de las diligencias y actuaciones pertinentes, y solicitar toda clase de información y documentación que resulten necesarios, para la debida integración de los expedientes relacionados con las quejas y denuncias presentadas por particulares o servidores públicos o que se deriven de los procedimientos administrativos disciplinarios que substancien, revisiones, auditorías, verificaciones, visitas, inspecciones, intervenciones, participaciones, o que por cualquier otro medio se tenga conocimiento, auxiliándose para tales efectos del personal adscrito a la contraloría interna que corresponda;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXV. Vigilar que las dependencias y órganos desconcentrados, delegaciones, y entidades, de la Administración Pública del Distrito Federal, cumplan con las disposiciones jurídicas y administrativas en materia de Archivos, Datos Personales y de Derechos Humanos, así como lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento; y atender los requerimientos de información pública que se realicen en términos de la Ley de Transparencia y Acceso a la Información Pública.
+XXV. Vigilar que las dependencias y órganos desconcentrados, delegaciones, y entidades, de la Administración Pública del Distrito Federal, cumplan con las disposiciones jurídicas y administrativas en materia de Archivos, Protección de Datos Personales y el Programa de Derechos Humanos, así como lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento; y atender los requerimientos de información pública que se realicen en términos de la Ley de Transparencia y Acceso a la Información Pública, y de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XXVI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario; y (sic)
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Contraloría General otorgará el apoyo necesario, a través de la Dirección General de Asuntos Jurídicos y Responsabilidades;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -9002,329 +9848,41 @@ XXVIII. Vigilar que las dependencias, órganos desconcentrados, delegaciones y e
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
-XXIX. Ejecutar verificaciones preventivas sobre la realización de obras públicas que contraten las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, así como emitir las recomendaciones que considere necesarias en los términos previstos por la Ley de Obras Públicas del Distrito Federal y su Reglamento, así como lo establecido en la Ley de Obras Públicas y Servicios Relacionados con las Mismas y su Reglamento; y
+XXIX. Ejecutar verificaciones preventivas sobre la realización de obras públicas que contraten las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, así como emitir las recomendaciones que considere necesarias en los términos previstos por la Ley de Obras Públicas del Distrito Federal y su Reglamento, así como lo establecido en la Ley de Obras Públicas y Servicios Relacionados con las Mismas y su Reglamento; y (sic)
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XXX. Las demás que le instruya el Titular de la Contraloría General; el Titular de la Dirección General de Contralorías Internas al que se encuentren adscritos; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XXX. Vigilar en el ámbito de su respectiva competencia, el cumplimiento de los lineamientos emitidos por la Contraloría General, -a los que deberán sujetarse los auditores externos- en la práctica de auditorías que la Dirección General ordene realizar en la Administración Pública del Distrito Federal.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 30 DE MARZO DE 2009)</small>
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXXI. Las demás que le instruya el Titular de la Contraloría General; el Titular de la Dirección General de Contralorías Internas al que se encuentren adscritos; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+Estas mismas atribuciones deberán ser ejercidas por la Contraloría Interna en Dependencias respecto del órgano desconcentrado que esté adscrito a la dependencia, cuando no exista Órgano de Control Interno.
 
 ###### Artículo 113 Bis.
 
-Corresponde a la Coordinación General de Modernización Administrativa:
-
-I. Diseñar, dirigir y coordinar las estrategias, agendas y programas especiales para la innovación ciudadana y modernización gubernamental de la Administración Pública del Distrito Federal, así como el modelo de gobernabilidad;
-
-II. Apoyar al Contralor General en la organización, conducción, difusión y supervisión de avance y cumplimiento de las actividades para la innovación ciudadana y modernización gubernamental de la Administración Pública del Distrito Federal, contemplando la participación de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal; así como en la participación que éste tenga en las comisiones que para esos efectos se constituyan;
-
-III. Coordinar e instrumentar el registro del portafolio de los proyectos estratégicos del Gobierno del Distrito Federal en materia de innovación ciudadana y modernización gubernamental, estableciendo y conduciendo los mecanismos y acciones para su desarrollo, seguimiento, control y evaluación;
-
-IV. Definir los principios, bases y medidas administrativas que deberán observar las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, para el diseño, administración, implementación y desarrollo de los programas y proyectos de innovación ciudadana y modernización gubernamental, así como para el establecimiento de los procedimientos de medición, evaluación y seguimiento que hagan posible conocer el desempeño, nivel de servicio y opinión ciudadana respecto a los resultados que alcancen;
-
-V. Brindar asesoría y apoyo técnico a la unidad administrativa, dependencia, órgano desconcentrado, delegación y entidad que lo solicite, respecto de los programas y acciones que se pongan en práctica para mejorar la organización, el desarrollo, la modernización y la innovación administrativas; para el rediseño de los procedimientos, sistemas e instrumentos de atención al público usuario de los trámites y servicios, con la participación que corresponda a las unidades administrativas de la Contraloría General que resulten competentes;
-
-VI. Dirigir y coordinar la simplificación y mejora de la gestión administrativa a través de estrategias de desarrollo organizacional, mejora de procesos y procedimientos administrativos y de innovación normativa, con la participación que corresponda a las unidades administrativas de la Contraloría General que resulten competentes;
-
-VII. Realizar los estudios y propuestas de innovación normativa que den sustento al desarrollo de los proyectos de modernización administrativa, con la participación de las unidades administrativas de la Contraloría General que resulten competentes;
-
-VIII. Proponer, con la participación de las unidades administrativas de la Contraloría General que resulten competentes, los instrumentos normativos que den soporte a los proyectos de modernización administrativa, para mejorar, modernizar y hacer más eficiente la administración de los recursos, con la participación que corresponda a las unidades administrativas de la Contraloría General que resulten competentes;
-
-IX. Diseñar, difundir e impulsar la aplicación de políticas y medidas administrativas para el mejoramiento y la modernización de la organización y el funcionamiento de dependencias, los órganos desconcentrados, las delegaciones y las entidades de la Administración Pública del Distrito Federal, sus estructuras orgánicas, manuales administrativos y demás instrumentos de actuación, atendiendo las necesidades de éstas y la opinión de los funcionarios responsables de las mismas;
-
-X. Dictaminar la estructura orgánica de las unidades administrativas, dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-XI. Integrar y mantener actualizado el registro de las estructuras orgánicas de las dependencias, unidades administrativas, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-XII. Asesorar a las unidades administrativas, dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal en el diseño de sus estructuras orgánicas; sus mecanismos de coordinación y procedimientos de trabajo, emitiendo su opinión técnica cuando proceda;
-
-XIII. Previo a la aprobación de los programas de contratación de los prestadores de servicios profesionales por parte de la Dirección General de Administración y Desarrollo de Personal de la Oficialía Mayor, dictaminar la procedencia de los contratos con remuneración equivalente a la de servidores públicos de la estructura para evitar afectaciones al contenido y los alcances del dictamen aprobado, sin perjuicio de la intervención que corresponda a la Dirección General de Legalidad;
-
-XIV. Revisar, dictaminar y en su caso registrar los manuales administrativos y específicos de operación de las dependencias, unidades administrativas, órganos desconcentrados, delegaciones, entidades, comisiones, comités y cualquier otro órgano administrativo colegiado que constituya la Administración Pública del Distrito Federal;
-
-XV. Coordinar el uso estratégico de la información para la planeación, la evaluación, la toma de decisiones, la colaboración, el aprendizaje y la profesionalización de la función pública;
-
-XVI. Impulsar la innovación gubernamental a través de procesos creativos y con la generación de nuevos modelos conceptuales y proyectos de gobierno, apoyando a las políticas públicas de la Administración Pública del Distrito Federal;
-
-XVII. Diseñar, conducir, impulsar y evaluar los programas y acciones que requiera la instrumentación de los nuevos modelos de gestión administrativa en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-XVIII. Emitir los lineamientos para el diseño, administración y conducción de los programas y proyectos de innovación y modernización de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-XIX. Diseñar, impulsar y coordinar las estrategias de gestión por resultados y de seguimiento, evaluación y medición del desempeño gubernamental de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, a través de sistemas de indicadores, estadísticas y encuestas;
-
-XX. Diseñar, impulsar y coordinar las estrategias de identificación de necesidades ciudadanas, de trámites y servicios de alto impacto, de mejora de procesos y de sistemas de calidad, atención y satisfacción ciudadana para conducir las políticas públicas relacionadas, en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-XXI. Diseñar la estrategia y conducir las políticas públicas relacionadas con la mejora de los sistemas de atención ciudadana y la calidad en los procesos de gestión de los trámites y servicios, mejorando los procedimientos, mecanismos, espacios e instrumentos de actuación;
-
-XXII. Elaborar, ejecutar y dar seguimiento a las estrategias, políticas y acciones para la participación de la ciudadanía en los procesos de modernización administrativa y en los procesos de políticas públicas;
-
-XXIII. Diseñar y dirigir la estrategia de evaluación de la satisfacción ciudadana en materia de trámites y servicios para la Administración Pública del Distrito Federal, en coordinación con la iniciativa de Observatorio Ciudadano, a través de encuestas, usuario simulado y de otros métodos que resulten adecuados;
-
-XXIV. Diseñar e impulsar los cambios e innovaciones que mejoren la competitividad de la Ciudad de México y, con la participación de la Secretaría de Desarrollo Económico y la Dirección General de Legalidad de la Contraloría General, establecer los mecanismos para determinar y evaluar el impacto y los efectos que el marco normativo de la actividad empresarial y los procesos de atención y dictaminación tienen respecto de la iniciativa emprendedora y el funcionamiento de las empresas;
-
-XXV. Definir las reglas y medidas administrativas para la instalación y el funcionamiento de las áreas que ofrecen atención al público en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, asegurando el trato más accesible, uniforme, respetuoso y apegado a las disposiciones jurídicas y administrativas aplicables especialmente de las Ventanillas Únicas Delegacionales y los Centros de Servicios y Atención Ciudadana;
-
-XXVI. Proponer políticas y medidas administrativas para el reclutamiento, evaluación, selección y acreditación del personal en funciones de atención al público de las áreas en las que se ofrece la atención ciudadana y supervisar su aplicación y cumplimiento;
-
-XXVII. Impulsar y dirigir las acciones, estudios y propuestas que realicen las dependencias, órganos desconcentrados, delegaciones, entidades de la Administración Pública del Distrito Federal, organizaciones del sector privado y el público en general, para mantener permanentemente actualizado el Manual de Trámites y Servicios al Público del Distrito Federal, con la participación que corresponda a las unidades administrativas de la Contraloría General que resulten competentes;
-
-XXVIII. Recibir, evaluar y registrar para su seguimiento la información que en materia de atención ciudadana le remitan las autoridades competentes de la Administración Pública del Distrito Federal;
-
-XXIX. Coordinar el Portal Único de Transparencia, a efecto de que se cumpla con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
-
-XXX. Dirigir y coordinar las estrategias, modelos, programas y proyectos en las materias de transparencia y rendición de cuentas, combate a la corrupción y cooperación intergubernamental;
-
-XXXI. Diseñar y coordinar la estrategia y políticas del desarrollo e integración de sistemas de información, sistemas de comunicación para la difusión de trámites y servicios y la plataforma de portales gubernamentales de la Administración Pública del Distrito Federal, y operar el portal ciudadano del Gobierno del Distrito Federal y su modelo de gobernabilidad;
-
-XXXII. Dirigir y establecer la estrategia de gobierno electrónico, las bases y principios para la elaboración de la política pública de tecnologías de información y comunicaciones para el uso y aprovechamiento de los bienes y servicios relacionados en la Administración Pública del Distrito Federal;
-
-XXXIII. Dirigir el programa especial de desarrollo de tecnologías de la información y comunicaciones de la Administración Pública del Distrito Federal, y opinar sobre la viabilidad de los planes estratégicos de las dependencias, órganos desconcentrados, delegaciones y entidades en esa materia, así como proponer las políticas y lineamientos que regulen las actividades inherentes;
-
-XXXIV. Apoyar al Contralor General en las sesiones del órgano colegiado que coordine y dirija la participación de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal en los programas y proyectos de tecnologías de la información y comunicaciones;
-
-XXXV. Normar la actuación de las oficinas responsables de las tecnologías de información y comunicaciones en las dependencias y órganos desconcentrados;
-
-XXXVI. Asesorar y apoyar a las dependencias, órganos desconcentrados y delegaciones y entidades del Distrito Federal, en materia de tecnologías de la información y comunicaciones;
-
-XXXVII. Fomentar e impulsar la creación, desarrollo, operación, uso, mantenimiento y modernización de las tecnologías de la información y comunicaciones en la Administración Pública del Distrito Federal;
-
-XXXVIII. Coordinar la participación de instituciones públicas y privadas en la realización de proyectos en materia de tecnologías de la información y comunicaciones;
-
-XXXIX. Regular el uso y aprovechamiento de las redes de comunicaciones y telecomunicaciones, el Internet y la Intranet del Gobierno del Distrito Federal;
-
-XL. Integrar el registro de los acuerdos y determinaciones que emita la Contraloría General en materia de tecnologías de la información y comunicaciones, para su difusión y cumplimiento;
-
-XLI. Realizar, en el ámbito de competencia de la Contraloría General y con sus unidades administrativas, la evaluación del objeto, estructura, presupuesto y marco normativo que regulan la función y los servicios encomendados a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, para conocer la necesidad de implementar procesos de mejora o extinción y proponerlos a las autoridades competentes;
-
-> <small>(REFORMADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XLII. Proponer disposiciones normativas para incorporar la firma electrónica en los trámites y procedimientos que se llevan a cabo en la Administración Pública del Distrito Federal en congruencia con la estrategia de gobierno electrónico, o en su caso, expedirlas con la intervención de las unidades administrativas competentes de la Contraloría General;
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XLIII. Coordinar a las dependencias, órganos desconcentrados, delegaciones y entidades en la definición de los trámites y servicios que deban realizarse por medio de firma electrónica, así como establecer y difundir el catálogo de trámites y servicios que pueden utilizar firma electrónica; y
-
-> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
-
-XLIV. Las demás que instruya el Contralor General y las que se le confieran en otros instrumentos jurídicos o administrativos.
-
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
+(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 113 Bis 1.
 
-Corresponde a la Dirección Ejecutiva de Innovación, Evaluación del Desempeño Gubernamental y Uso Estratégico de la Información:
-
-I. Diseñar, coordinar y dar seguimiento a la estrategia de innovación de modelos gubernamentales, administración del conocimiento y de la evaluación del desempeño de las instituciones públicas, y su modelo de gobernabilidad;
-
-II. Diseñar, coordinar y dar seguimiento a la agenda y el programa especial de innovación ciudadana y modernización gubernamental;
-
-III. Coordinar, dar seguimiento y evaluar los programas y proyectos de innovación ciudadana y modernización gubernamental en la Administración Pública del Distrito Federal;
-
-IV. Proponer a la Coordinación General de Modernización Administrativa los lineamientos para el diseño, administración y conducción de los programas y proyectos de innovación y modernización de los entes públicos;
-
-V. Organizar y mantener actualizado un registro de los programas y proyectos en materia de innovación ciudadana y modernización gubernamental de la Administración Pública del Distrito Federal;
-
-VI. Emitir opiniones y sugerir medidas administrativas para la mejora y modernización de la Administración Pública del Distrito Federal;
-
-VII. Diseñar, ejecutar y dar seguimiento a la estrategia y las políticas de transparencia y participación a la ciudadanía en los programas y acciones de innovación y modernización de la administración pública local;
-
-VIII. Diseñar y coordinar las estrategias de gestión por resultados y de planeación, seguimiento, evaluación y medición del desempeño gubernamental de las unidades administrativas, dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, a través de sistemas de indicadores, estadísticas y encuestas;
-
-IX. Determinar y dirigir los mecanismos necesarios para el desarrollo y elaboración de encuestas y/o cuestionarios de desempeño de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal;
-
-X. Implantar y supervisar el funcionamiento y los resultados que arrojen los sistemas de autoevaluación, información y seguimiento de la gestión pública, con la participación que corresponda a las unidades administrativas de la Contraloría General;
-
-XI. Coordinar el uso estratégico de la información y el conocimiento para la toma de decisiones, la colaboración, la profesionalización y el aprendizaje a través de las tecnologías de la información y comunicaciones;
-
-XII. Brindar a las dependencias, órganos desconcentrados, delegaciones y entidades que lo soliciten, asesoría para el diseño conceptual de los procedimientos, sistemas e instrumentos de actuación, respecto de los programas de innovación y modernización y de los nuevos modelos de administración que la Administración Pública del Distrito Federal ponga en práctica;
-
-XIII. Realizar el diseño conceptual de nuevos modelos y proyectos de Gobierno que impulsen la innovación y la modernización de la Administración Pública del Distrito Federal;
-
-XIV. Difundir, asesorar y apoyar la instrumentación y desarrollo de los programas a cargo de la Coordinación General de Modernización Administrativa, especialmente los que tengan por objeto establecer nuevos métodos e instrumentos de medición, evaluación y seguimiento del desempeño, respecto de los resultados que se alcancen;
-
-XV. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios relacionados con las materias de innovación de los modelos de gestión pública y de evaluación del desempeño gubernamental;
-
-XVI. Representar a la Coordinación General de Modernización Administrativa en los consejos, comités, subcomités y demás cuerpos colegiados establecidos; y
-
-XVII. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confieran sus superiores jerárquicos.
-
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
+(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 113 Bis 2.
 
-Corresponde a la Dirección Ejecutiva de Procesos, Servicios y Atención Ciudadana:
-
-I. Diseñar, coordinar y dar seguimiento a la estrategia de trámites y servicios, atención ciudadana y procesos de la Administración Pública del Distrito Federal, y su modelo de gobernabilidad;
-
-II. Realizar los estudios, investigaciones, encuestas, consultas y prácticas de campo que permitan conocer las necesidades, beneficios y demandas ciudadanas, identificando los servicios, trámites y actividades que corresponden a las respectivas dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, así como los cambios y mejoras que éstos requieran para hacerlos más claros y accesibles a los usuarios;
-
-III. Proponer la estrategia, bases, procedimientos y mejores prácticas administrativas para la instalación, organización y funcionamiento de las áreas de atención al público en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, supervisando su aplicación y cumplimiento;
-
-IV. Coordinar y supervisar la organización y el funcionamiento de las ventanillas únicas delegacionales y los centros de servicios y atención ciudadana, así como otros prototipos similares de ventanilla única que sean creados en dependencias, órganos desconcentrados y entidades de la administración pública, diseñando y supervisando las acciones y programas que tengan por objeto la actualización y profesionalización de su personal;
-
-V. Proponer los lineamientos y medidas administrativas para regular, con criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad, los procesos de reclutamiento, evaluación, selección y acreditación del personal en funciones de atención al público, supervisando su aplicación y estricto cumplimiento;
-
-VI. Diseñar la estrategia de calidad en la atención al público y supervisar la aplicación de las medidas de mejora, modernización y calidad de los sistemas y procedimientos para la atención de las solicitudes de trámites y servicios, proponiendo los cambios y adecuaciones para la satisfacción ciudadana en lo relativo a los espacios físicos, el desempeño de los servidores públicos y otros instrumentos de actuación;
-
-VII. Solicitar, recibir, procesar, organizar, evaluar y registrar para su análisis y seguimiento la información que en materia de atención ciudadana, trámites y solicitudes de servicios produzcan las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-VIII. Concentrar y sistematizar la información relativa a la atención ciudadana, trámites y solicitudes de servicio generadas en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, con el fin de generar estadísticas e indicadores sobre las inquietudes de la ciudadanía con fines de planeación para la atención ciudadana;
-
-IX. Dirigir la estrategia de evaluación de la satisfacción ciudadana en materia de trámites y servicios para la Administración Pública del Distrito Federal, de manera complementaria y en coordinación con la iniciativa de Observatorio Ciudadano, a través de encuestas, usuario simulado y otros métodos que resulten adecuados para medir la satisfacción del ciudadano;
-
-X. Diseñar, coordinar e implementar una estrategia de atención ciudadana multicanal, para la gestión y provisión de trámites y servicios de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, que permita al ciudadano acceder a los trámites y servicios a través de distintos medios;
-
-XI. Concentrar y difundir la información sobre requisitos, procesos, lugares y horarios de atención, y otros datos relevantes para que el ciudadano gestione y solicite trámites y servicios de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública;
-
-XII. Coordinar las acciones, estudios y propuestas que realicen las dependencias, órganos desconcentrados, delegaciones, entidades, organizaciones del sector privado y el público en general, para mantener permanentemente actualizado el Manual de Trámites y Servicios al Público del Distrito Federal;
-
-XIII. Coordinar una estrategia de simplificación de procesos y procedimientos clave, relativos a la atención ciudadana, trámites y solicitudes de servicios en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal pertinentes;
-
-XIV. Diseñar e implementar los macro procesos clave para la instauración de trámites y servicios transversales que permitan la agilización y automatización de la atención ciudadana en los diversos puntos de atención en dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-XV. Coordinar el portafolio de proyectos que, en materia de trámites y servicios, emprenden las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-XVI. Administrar el sistema de servicios de atención ciudadana de la página Web del Gobierno del Distrito Federal, supervisando el cumplimiento de sus respuestas por parte de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública competentes;
-
-XVII. Aplicar y administrar la estrategia de sistemas de comunicación para la difusión de trámites y servicios, y de Portal Ciudadano en la página Web del Gobierno del Distrito Federal, a través de la cual se facilitará la comunicación y el diálogo con los ciudadanos del Distrito Federal, para conocer sus inquietudes y reclamos, y hacer llegar, a su vez, la información y elementos que requieran para el ejercicio de sus facultades y cumplimiento de sus obligaciones como habitantes del Distrito Federal;
-
-XVIII. Definir, dar seguimiento y evaluar las políticas de portales y otros sistemas de comunicación que tengan como propósito la difusión de trámites y servicios del Gobierno del Distrito Federal, basadas en estándares y mejores prácticas de usabilidad y accesibilidad en Portales con enfoque ciudadano;
-
-XIX. Coordinar el observatorio de portales del Gobierno del Distrito Federal para la mejora continua, a través de la aplicación de metodologías de planeación estratégica de Portales Ciudadanos;
-
-XX. Coordinar e impulsar las iniciativas de integridad, combate a la corrupción y participación ciudadana relativos a la atención ciudadana, la gestión de trámites y provisión de servicios en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-XXI. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios relacionados con las materias de identificación de necesidades ciudadanas, simplificación de procesos, sistemas de calidad, modelos y estrategias de atención ciudadana en la gestión de trámites y servicios y sobre la creación y uso de portales ciudadanos y otros sistemas de comunicación;
-
-XXII. Representar a la Coordinación General de Modernización Administrativa en los consejos, comités, subcomités y demás cuerpos colegiados; y
-
-XXIII. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confieran sus superiores jerárquicos.
-
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
+(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 113 Bis 3.
 
-Corresponde a la Dirección de Análisis, Planeación y Evaluación de Sistemas de Comunicación para la Atención Ciudadana:
-
-I. Diseñar, coordinar y dar seguimiento a la estrategia de portales y sistemas de comunicación en la Administración Pública del Distrito Federal, y su modelo de gobernabilidad;
-
-II. Coordinar el portal ciudadano del Gobierno del Distrito Federal y su nueva plataforma de portales, incluyendo sus lineamientos editoriales y administración, así como otras iniciativas similares de sistemas de comunicación que tengan como propósito la difusión de trámites y servicios de la Administración Pública del Distrito Federal;
-
-III. Proponer, dar seguimiento y evaluar las políticas de portales y otros sistemas de comunicación que tengan como propósito la difusión de trámites y servicios de la Administración Pública del Distrito Federal, basadas en estándares y mejores prácticas de usabilidad y accesibilidad en portales con enfoque ciudadano;
-
-IV. Coordinar el observatorio de portales del Gobierno del Distrito Federal para la mejora continua, a través de la aplicación de metodologías de planeación estratégica de portales ciudadanos;
-
-V. Coordinar con la participación que corresponda a las unidades administrativas de la Contraloría General que resulten competentes, los procedimientos y requerimientos para la entrega y soporte de los sitios web-portales a liberar;
-
-VI. Colaborar en la elaboración del plan estratégico de tecnologías de la información y comunicaciones de la Contraloría General;
-
-VII. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios relacionados con consultoría y desarrollo de portales soportes interactivos e impresos, así como otros sistemas de comunicación relacionados con la difusión de trámites y servicios de la Administración Pública del Distrito Federal;
-
-VIII. Representar a la Coordinación General de Modernización Administrativa en los consejos, comités, subcomités y demás cuerpos colegiados;
-
-IX. Participar en el proceso de actualización de las normas, lineamientos y estándares en materia de tecnologías de la información y comunicaciones;
-
-X. Asistir con carácter de asesor a las sesiones de los órganos colegiados que se constituyan en el ámbito de su competencia; y
-
-XI. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confiera su superior jerárquico.
-
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2011)</small>
+(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 113 Bis 4.
 
-Corresponde a la Dirección Ejecutiva de Diseño y Dictaminación de Estructuras Orgánicas:
-
-I. Diseñar, coordinar y dar seguimiento a la estrategia de mejora de estructuras orgánicas, manuales administrativos, dictaminar la procedencia de los contratos de prestación de servicios con remuneración equivalente a la de servidores públicos de estructura, y su modelo de gobernabilidad;
-
-II. Diseñar, dirigir y supervisar la aplicación de políticas y medidas administrativas para el mejoramiento y la modernización de las estructuras orgánicas de las unidades administrativas de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-III. Realizar los estudios y propuestas para la emisión de los dictámenes de estructuras orgánicas de dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-IV. Asesorar a las unidades administrativas, dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, para el diseño de sus estructuras orgánicas, conforme a los mecanismos de coordinación y procedimientos de trabajo, emitiendo la respectiva opinión técnica, cuando proceda;
-
-V. Integrar y mantener actualizado el archivo de las estructuras orgánicas de las dependencias, unidades administrativas, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-VI. Revisar las cédulas de análisis de prestadores de servicios, para la contratación de personas con remuneración equivalente a la de los servidores públicos de estructura, de las dependencias, órganos desconcentrados, delegaciones, entidades y demás órganos de la Administración Pública del Distrito Federal, emitiendo la opinión técnica respectiva, sin perjuicio de la intervención que de acuerdo con la normatividad aplicable corresponde a las Direcciones Generales de Legalidad de la Contraloría General y de Administración y Desarrollo de Personal de la Oficialía Mayor, de acuerdo con la normatividad aplicable;
-
-VII. Efectuar la revisión de los manuales administrativos y específicos de operación de las dependencias, unidades administrativas, órganos desconcentrados, delegaciones, entidades y demás órganos colegiados de la Administración Pública del Distrito Federal, formulando el proyecto de dictamen, y en su caso, realizar el registro correspondiente;
-
-VIII. Realizar los estudios y evaluaciones necesarias para conocer si el objeto de creación de los entes públicos de la Administración Pública del Distrito Federal sigue siendo vigente;
-
-IX. Formular estudios, realizar análisis y evaluaciones a las atribuciones de los entes públicos de la Administración Pública del Distrito Federal y proponer las modificaciones que se consideren necesarias;
-
-X. Proponer modificaciones al marco normativo y sobre el cumplimiento de observaciones hechas por órganos de fiscalización a entes públicos de la Administración Pública del Distrito Federal;
-
-XI. Auxiliar a las unidades administrativas de la Secretaría de Finanzas, en la formulación de propuestas para la transformación y, en su caso, la extinción de entidades paraestatales de la Administración Pública del Distrito Federal, de acuerdo a los estudios y análisis realizados;
-
-XII. Proponer a la Oficialía Mayor y a la Secretaría de Finanzas, transferencias o destino de recursos humanos, financieros y materiales de entidades paraestatales que se sometan a procesos de extinción;
-
-XIII. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios en materia de desarrollo organizacional, vinculados con unidades administrativas, dependencias, órganos desconcentrados, delegaciones, entidades y demás órganos de la Administración Pública del Distrito Federal;
-
-XIV. Brindar la asesoría técnica que se le requiera para llevar a cabo los procesos de extinción de entidades paraestatales de la Administración Pública del Distrito Federal;
-
-XV. Representar a la Coordinación General de Modernización Administrativa en los consejos, comités, subcomités y demás cuerpos colegiados establecidos;
-
-XVI. Coordinarse con las demás unidades administrativas de la Contraloría General, en términos de las atribuciones que les establece el presente Reglamento;
-
-XVII. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2011)</small>
+(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 113 Bis 5.
 
-Corresponde a la Dirección Ejecutiva de Propuesta Normativa:
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-I. Diseñar, coordinar y dar seguimiento a la estrategia de innovación normativa;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-II. Realizar investigaciones y estudios para apoyar la planeación, organización y ejecución de los proyectos de innovación y modernización administrativa, dando participación a las unidades competentes de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-III. Apoyar al Titular de la Coordinación General de Modernización Administrativa en la planeación, preparación, organización y seguimiento de las sesiones y los acuerdos que emitan los órganos colegiados que se constituyan con motivo de los programas y proyectos de Innovación Ciudadana y Modernización Gubernamental de la Administración Pública del Distrito Federal, así como en la participación que le corresponda en otras comisiones, órganos de gobierno y representaciones;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-IV. Proponer mecanismos e instrumentos administrativos para dar soporte a los proyectos de innovación y a las propuestas de transformación gubernamental, procurando en todo momento mejorar, modernizar, transparentar y hacer más eficientes los mecanismos de actuación y el uso y aprovechamiento de recursos de la Administración Pública del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-V. Asesorar y dar apoyo a las unidades administrativas de la Coordinación General de Modernización Administrativa y a las áreas competentes de las dependencias, órganos desconcentrados, delegaciones y entidades que lo soliciten, respecto de las actividades y trabajos que les correspondan en los programas y proyectos de mejora de la organización, desarrollo e innovación administrativos; en la mejora y rediseño de los procedimientos, sistemas e instrumentos de atención al público usuario de los trámites y servicios y, en el uso y aprovechamiento de las tecnologías de la información y comunicaciones;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-VI. Participar en los trabajos, investigaciones, estudios y propuestas que, con la participación de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal y las organizaciones e instituciones del sector privado se realicen para mantener actualizado el Manual de Trámites y Servicios al Público del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-VII. Realizar investigaciones y estudios de derecho comparado, para formular propuestas de innovación normativa que apoyen el desarrollo de los proyectos de modernización administrativa mediante la incorporación de fórmulas y mecanismos que faciliten la gestión de los trámites y servicios;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-VIII. Apoyar con estudios, análisis, opiniones y propuestas al Titular de la Coordinación General de Modernización Administrativa en la dirección del programa especial de desarrollo de tecnologías de la información y comunicaciones de la Administración Pública del Distrito Federal, y para su participación en los planes estratégicos que las dependencias, órganos desconcentrados, delegaciones y entidades lleven a cabo en esa materia;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-IX. Participar con las unidades administrativas de la Secretaría de Desarrollo Económico y de la Contraloría General en la realización de estudios y la formulación de programas, políticas y acciones para adecuar las disposiciones que rigen la actividad empresarial en el Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-X. Proponer fórmulas y medidas administrativas para la instalación y el funcionamiento de las unidades especializadas en la atención al público y para dar a las solicitudes el trato más ágil, uniforme y apegado a las disposiciones jurídicas y administrativas;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XI. Participar en eventos, reuniones de trabajo, cursos, congresos y seminarios relacionados con las materias de innovación, mejoramiento y modernización de la Administración Pública;
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XII. Representar a la Coordinación General de Modernización Administrativa en los consejos, comités, subcomités y demás cuerpos colegiados establecidos; así como en los proyectos de actualizaciones y simplificación del marco normativo al que convoquen las dependencias, órganos desconcentrados, delegaciones y entidades del Distrito Federal; y
-
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XlII. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confieran su superior jerárquico.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
 ###### Artículo 113 Bis 6.
 
@@ -9340,47 +9898,265 @@ XlII. Las demás que establezcan los ordenamientos y disposiciones aplicables y 
 
 Corresponde a la Coordinación General de Evaluación y Desarrollo Profesional:
 
-I. Desarrollar, en coordinación con la Oficialía Mayor y en el ámbito de sus competencias, las normas y procedimientos para la evaluación y desarrollo profesional que deberán aplicar en los procesos de reclutamiento, selección, control de confianza, certificación y contratación de personal de la estructura orgánica y aspirantes, en la Administración Pública del Distrito Federal, de justicia cívica y a las personas físicas contratadas bajo el régimen de honorarios cuya remuneración sea equivalente a la de los servidores públicos de estructura;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-II. En el marco de las disposiciones legales, administrativas y acuerdos aplicables, instrumentar las acciones y medidas necesarias para la evaluación, desarrollo profesional y control de confianza de los servidores públicos de la Administración Pública del Distrito Federal a que se refiere la fracción I del presente artículo, bajo los principios de legalidad, transparencia, confiabilidad, responsabilidad y rendición de cuentas;
+I. Desarrollar en coordinación con la Oficialía Mayor y en el ámbito de sus competencias, normas y procedimientos para la evaluación y desarrollo profesional que deberán aplicar en los procesos de reclutamiento, selección, control de confianza, y contratación de personal de la estructura orgánica y aspirantes, en la Administración Pública del Distrito Federal, y a las personas físicas contratadas como prestadores de servicios profesionales cuya contraprestación sea equivalente a la de los servidores públicos de estructura;
 
-III. Fomentar programas para el desarrollo del capital humano en la Administración Pública del Distrito Federal, mediante el diseño de modelos innovadores y funcionales, para hacer más eficientes los procesos de evaluación y desarrollo profesional;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-IV. Desarrollar, aplicar y calificar pruebas médicas, toxicológicas, psicométricas, de habilidades y capacidades, de conocimientos, así como búsqueda de antecedentes, validación documental, investigación socioeconómica y de entorno social, y los procesos de evaluaciones del desempeño para determinar si los servidores públicos y los aspirantes a ocupar cargos, reúnen el perfil establecido y los requisitos para el desarrollo de las funciones;
+II. Desarrollar programas de certificación de competencias de los Servidores Públicos de la Administración Pública del Distrito Federal, otorgando las certificaciones respectivas;
 
-V. Informar a la unidad administrativa competente sobre la pertinencia para la contratación, con base en los resultados de las pruebas señaladas en la fracción anterior;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VI. Identificar factores psicológicos, familiares, sociales, educativos, laborales y económicos de los servidores públicos en la Administración Pública del Distrito Federal que puedan favorecer conductas deseables, y factores de riesgo en el desempeño, para realizar las recomendaciones pertinentes;
+III. Instrumentar las acciones y medidas necesarias en los procesos de reclutamiento, selección y control de confianza de los servidores públicos de la Administración Pública del Distrito Federal y de prestadores de servicios profesionales bajo los principios de legalidad, transparencia, confiabilidad, responsabilidad y rendición de cuentas;
 
-VII. Dirigir, coordinar y calificar el cumplimiento de los perfiles profesional, ético, intelectual y de personalidad necesarios para la realización de las funciones encomendadas y para establecer condiciones de permanencia de los servidores públicos;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-VIII. Implementar sistemas informáticos que permitan afinar y enriquecer el análisis de las evaluaciones individuales y grupales, por medio de la sistematización de los instrumentos aplicados que faciliten la interpretación de los resultados y la emisión de recomendaciones;
+IV. Fomentar programas para el desarrollo del capital humano en la Administración Pública del Distrito Federal, mediante el diseño de modelos innovadores y funcionales, para hacer más eficientes los procesos de evaluación y desarrollo profesional;
 
-IX. Analizar información y datos obtenidos en los procesos citados en la fracción I del presente artículo, para establecer correlatos que permitan un diagnóstico detallado del servidor público y del área laboral que corresponda;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-X. Para el desarrollo de sus funciones de control de confianza, recabar de las unidades administrativas de la Administración Pública del Distrito Federal, copia del expediente laboral del personal a su cargo, a fin de integrar esa información al diagnóstico individual del desempeño profesional que corresponda;
+V. Desarrollar, aplicar y calificar pruebas médicas, toxicológicas, poligráficas, psicométricas, de habilidades y capacidades, de conocimientos, así como búsqueda de antecedentes, validación documental, investigación socioeconómica y de entorno social, y los procesos de evaluaciones del desempeño para determinar si los servidores públicos que ya ocupan un cargo, los aspirantes a ocupar uno o a ser contratados como prestadores de servicios profesionales, cumplen tanto con el perfil establecido para el puesto por las Dependencias, Órganos Desconcentrados o Entidades de la Administración Pública del Distrito Federal, como con los requisitos para el desarrollo de las funciones, atendiendo al cargo o contrato correspondiente. Los resultados de las evaluaciones realizadas tendrán una vigencia de 6 a 12 meses en atención a la batería de pruebas aplicadas;
 
-XI. Crear perfiles para clasificar grupos de servidores públicos, para los procesos de evaluación;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XII. Identificar de los servidores públicos evaluados habilidades y competencias para proponer modelos de profesionalización que contribuyan a mejorar su desempeño laboral y prevenir la comisión de conductas y actitudes contrarias al servicio público;
+VI. Informar a las dependencias, órganos desconcentrados o entidades solicitantes sobre la pertinencia para la incorporación al puesto o la contratación, con base en los resultados de las pruebas señaladas en la fracción V;
 
-XIII. Proponer el diseño y la implementación de medidas administrativas y mecanismos para detectar y reportar faltas y desviaciones del servidor público;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XIV. Emitir recomendaciones y determinaciones a la Oficialía Mayor, cuando se detecte necesidades de capacitación en las unidades administrativas de la Administración Pública del Distrito Federal;
+VII. Realizar la revisión técnica de expedientes a petición de las áreas requirentes de las evaluaciones cuando éstas consideren con base al historial laboral o al desempeño profesional, el personal propuesto para ocupar una plaza en su estructura orgánica cumple con las necesidades requeridas para el puesto pese a los resultados obtenidos;
 
-XV. Coordinarse con las unidades u órganos de la Administración Pública del Distrito Federal que realicen funciones de formación, capacitación, control y evaluación de los servidores públicos, en términos de la fracción anterior;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XVI. Implementar y mantener actualizada una base de datos que contenga los resultados de las evaluaciones realizadas a servidores públicos y aspirantes;
+VIII. Identificar a través de los resultados obtenidos en las pruebas ya aplicadas o en la aplicación de nuevas pruebas cuando así se determine, factores psicológicos, familiares, sociales, educativos, laborales y económicos de los servidores públicos en la Administración Pública del Distrito Federal que puedan favorecer conductas deseables, o ser factores de riesgo en el desempeño;
 
-XVII. Coordinar e implementar mecanismos de evaluación y certificación de los aspirantes y servidores públicos con responsabilidades de seguridad pública, readaptación social, y procuración de justicia;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XVIII. Mantener informado al Titular de la Contraloría General de las actividades y resultados de las evaluaciones que se realicen;
+IX. Dirigir, coordinar y calificar el proceso de verificación del cumplimiento de los perfiles profesional, ético, intelectual y de personalidad necesarios para establecer condiciones de permanencia de los servidores públicos;
 
-XIX. Administrar las instalaciones y recursos destinados a los procesos de evaluación de los servidores públicos de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
-XX. Coordinar acciones permanentes con instituciones académicas de nivel superior, públicas y privadas, a fin de contar con información de estudiantes y egresados para el reclutamiento de aspirantes a ocupar cargos en la Administración Pública del Distrito Federal; y
+X. Implementar el uso de tecnologías de la información y comunicaciones en el análisis de las evaluaciones individuales y grupales, por medio de la sistematización de los instrumentos aplicados que faciliten la interpretación de los resultados y la emisión de recomendaciones;
 
-XXI. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables y el Contralor General.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XI. Analizar información y datos obtenidos en los procesos de reclutamiento, selección, control de confianza, para establecer correlatos que permitan un diagnóstico detallado del servidor público y del área laboral que corresponda;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XII. Recabar de las dependencias, órganos desconcentrados, entidades y en su caso, delegaciones de la Administración Pública del Distrito Federal, datos laborales del personal a su cargo, o de los aspirantes, a fin de integrar esa información al diagnóstico individual de ingreso o desempeño profesional que corresponda;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIII. Evaluar conforme a los perfiles, definidos por las instancias competentes, a los servidores públicos y prestadores de servicios profesionales, para los procesos de selección o evaluación, así como las pruebas aplicables en cada perfil;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIV. Identificar de los servidores públicos evaluados habilidades y competencias para proponer esquemas de seguimiento al desarrollo profesional que contribuyan a mejorar su desempeño laboral y prevenir la comisión de conductas y actitudes contrarias al servicio público;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XV. Proponer el diseño y la implementación de medidas administrativas y mecanismos para detectar y reportar faltas y desviaciones del servidor público;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVI. Emitir recomendaciones y determinaciones a la Oficialía Mayor, cuando se detecte necesidades de capacitación respecto a conocimientos laborales en las unidades administrativas de la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVII. Diseñar, organizar e impartir cursos de capacitación de desarrollo profesional en el ámbito de habilidades personales, tales como: liderazgo, inteligencia emocional, manejo de stress, trabajo en equipo, entre otros; otorgando la constancia respectiva;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XVIII. Coordinarse con las dependencias o entidades de la Administración Pública del Distrito Federal que realicen funciones de formación, capacitación, profesionalización, control y evaluación de los servidores públicos;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XIX. Implementar y mantener actualizada una base de datos que contenga los resultados de las evaluaciones realizadas a servidores públicos y aspirantes;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XX. Mantener informado al Titular de la Contraloría General de las actividades y resultados de las evaluaciones que se realicen;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXI. Administrar las instalaciones y recursos destinados a los procesos de evaluación de los servidores públicos de la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXII. Coordinar acciones permanentes con instituciones académicas de nivel superior, públicas y privadas, a fin de contar con información de estudiantes y egresados para el reclutamiento de aspirantes a ocupar cargos en la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIII. Apoyar al Contralor General en la coordinación general y operación del Servicio Público de Carrera, así como en el ejercicio de las atribuciones que le confiere la Ley del Servicio Público de Carrera de la Administración Pública del Distrito Federal, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXIV. Coadyuvar con otros centros de Evaluación de Personal o de Control de Confianza del Distrito Federal en los procesos de evaluación y certificación de los aspirantes y servidores públicos con responsabilidades de seguridad pública, readaptación social, y procuración de justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXV. Recibir información de las áreas de la Administración Pública del Distrito Federal sobre servidores públicos y aspirantes, y conservarla en calidad de archivo de concentración; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2014)</small>
+
+XXVI. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables y el Contralor General; (sic)
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 113 Ter
+
+1.- Corresponde a la Dirección Ejecutiva de Psicología:
+
+I. Proponer y diseñar protocolos de evaluación;
+
+II. Coordinar la aplicación de evaluaciones psicométricas de acuerdo a los protocolos de evaluación que permitan detectar riesgos en la actuación y desempeño de los servidores públicos y aspirantes;
+
+III. Programar en coordinación con las respectivas áreas que integran la Coordinación General, la aplicación de pruebas médicas, toxicológicas, poligráficas, psicométricas, de habilidades y capacidades, de conocimientos, así como búsqueda de antecedentes, validación documental, investigación socioeconómica y de entorno social, que se realicen para asegurar la identificación de riesgos que vulneren la imagen y seguridad institucional proponiendo medidas preventivas;
+
+IV. Participar en la elaboración de planes y programas de trabajo en conjunto con las dependencias, órganos desconcentrados, entidades y en su caso delegaciones de la Administración Pública del Distrito Federal, para coordinar estrategias y actividades referentes a la formación y desarrollo profesional del factor humano;
+
+V. Dirigir los niveles de confiabilidad, seguridad, disciplina y principios, entre el personal, para garantizar la operación de instrumentos de evaluación y acatamiento de las disposiciones jurídicas y administrativas aplicables;
+
+VI. Diseñar con las Direcciones de Análisis y de Control de Ingreso a la Administración Pública del Distrito Federal, la instrumentación de actividades de selección de personal de nuevo ingreso, evaluación del personal en activo y en su caso, en apoyo a investigaciones específicas, a partir de las necesidades detectadas en la institución;
+
+VII. Dirigir programas de control de calidad para asegurar la emisión de resultados válidos con los niveles de excelencia en el desempeño de las funciones de los especialistas a su cargo;
+
+VIII. Concentrar y sistematizar los resultados obtenidos en la aplicación de las evaluaciones;
+
+IX. Dirigir y administrar los resultados que se obtienen de las evaluaciones
+
+X. Proponer en los resultados de las evaluaciones recomendaciones o sugerencias a las Unidades Administrativas correspondientes para la contratación del personal evaluado; y
+
+XI. Las demás que le atribuyan expresamente otras disposiciones jurídicas y administrativas aplicables, el Contralor General o el titular de la Coordinación General de Evaluación y Desarrollo Profesional.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 113 Ter
+
+2.- Corresponde a la Dirección de Control de Ingreso a la Administración Pública del Distrito Federal.
+
+I. Diseñar y actualizar según se requiera el formato de perfil de puesto para la Administración Pública del Distrito Federal;
+
+II. Diseñar y actualizar según se requiera la matriz de pruebas aplicables, en función al perfil de puesto, en los procesos de evaluación para el ingreso, promoción, revaloración y seguimiento de los Servidores Públicos;
+
+III. Dirigir y administrar el proceso de certificación de competencias de los servidores públicos;
+
+IV. Concentrar y sistematizar las certificaciones de competencias otorgadas a los servidores públicos;
+
+V. Diseñar programas y proyectos correspondientes a las evaluaciones de desempeño de los servidores públicos;
+
+VI. Dirigir y administrar el desarrollo de evaluaciones del desempeño de los Servidores Públicos, proponiendo estándares e indicadores de gestión, impacto y resultados;
+
+VII. Realizar la revisión técnica de los resultados arrojados en las evaluaciones y emitir la revaloración correspondiente, a petición de las dependencias, órganos desconcentrados, entidades de la Administración Pública del Distrito Federal;
+
+VIII. Dirigir y administrar el seguimiento a las evaluaciones, para verificar el cumplimiento de las recomendaciones o sugerencias indicadas;
+
+IX. Concentrar y sistematizar el seguimiento de las evaluaciones de los servidores públicos;
+
+X. Proponer a la Coordinación General estrategias para optimizar la eficiencia en los protocolos y procesos relacionados con la vinculación interinstitucional;
+
+XI. Controlar y supervisar el uso adecuado de la información que se genera en el área, observando las disposiciones jurídicas y administrativas en materia de datos personales de los evaluados;
+
+XII. Proponer condiciones de permanencia de los servidores públicos;
+
+XIII. Dirigir y administrar el diseño, organización e impartición de cursos de capacitación de desarrollo profesional en el ámbito de habilidades personales, tales como: liderazgo, inteligencia emocional, manejo de stress, trabajo en equipo, entre otros;
+
+XIV. Proponer al Coordinador General la emisión de recomendaciones y determinaciones a la Oficialía Mayor, al detectar necesidades de capacitación respecto a conocimientos laborales en las unidades administrativas de la Administración Pública del Distrito Federal;
+
+XV. Proponer acciones permanentes con instituciones académicas de nivel superior, públicas y privadas, a fin de contar con información de estudiantes y egresados para el reclutamiento de aspirantes a ocupar cargos en la Administración Pública del Distrito Federal; y
+
+XVI. Las demás que le atribuyan expresamente otras disposiciones jurídicas y administrativas aplicables, el Contralor General o el titular de la Coordinación General de Evaluación y Desarrollo Profesional.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 113 Ter
+
+3.- Corresponde a la Dirección de Análisis:
+
+I. Diseñar procedimientos de control de gestión en las evaluaciones y pruebas de desempeño para desarrollar y evaluar el diseño y operación de sistemas, métodos y mecanismos que fomenten la mejora continua y la calidad en el servicio;
+
+II. Diseñar y administrar las políticas de confidencialidad adicionales a las disposiciones en materia de transparencia, protección de datos personales y archivos, para fortalecer el control en el resguardo de la información;
+
+III. Dirigir la aplicación de las disposiciones en materia de transparencia, protección de datos personales y archivos, para la organización y el control de información para desarrollar herramientas tecnológicas y administrativas en la aplicación de evaluaciones;
+
+IV. Proponer los procedimientos para la aplicación, calificación y presentación de resultados de las evaluaciones realizadas a los servidores públicos y aspirantes;
+
+V. Proponer estrategias para mejorar la eficiencia en los procesos de evaluación y programar las sedes, fechas de aplicación y evaluación de las pruebas a su cargo;
+
+VI. Diseñar programas que resulten del análisis de las evaluaciones realizadas para mejorar las acciones de control, seguimiento y evaluación de proyectos de formación de recursos humanos de la Administración Pública del Distrito Federal;
+
+VII. Administrar la información de las evaluaciones para identificar factores de riesgo en el desempeño de los servidores públicos en la Administración Pública del Distrito Federal y realizar las recomendaciones pertinentes;
+
+VIII. Concentrar y sistematizar el informe general de actividades concerniente a resultados de evaluaciones y desarrollo profesional para la capacitación y profesionalización que demanden las dependencias, órganos desconcentrados, entidades y en su caso delegaciones solicitantes;
+
+IX. Proponer protocolos para la aplicación de la prueba de entorno social;
+
+X. Dirigir y administrar los resultados de las pruebas de entorno social;
+
+XI. Solicitar a los aspirantes o servidores públicos a evaluar, los documentos necesarios para la realización del análisis del entorno social;
+
+XII. Proponer modelos de profesionalización que contribuyan a mejorar el desempeño laboral de los servidores públicos evaluados;
+
+XIII. Establecer los protocolos respectivos para la búsqueda de antecedentes y validación documental, de aspirantes y servidores públicos;
+
+XIV. Administrar en calidad de titular los sistemas de Datos Personales de la Coordinación General de Evaluación y Desarrollo Profesional;
+
+XV. Participar en la dirección y operación del Servicio Público de Carrera de la Administración Pública del Distrito Federal, de conformidad con la ley de la materia y demás disposiciones jurídicas y administrativas aplicables; y
+
+XVI. Las demás que le atribuyan expresamente otras disposiciones jurídicas y administrativas aplicables, el Contralor General o el titular de la Coordinación General de Evaluación y Desarrollo Profesional.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 113 Quater.
+
+A la Dirección General de Seguimiento a Proyectos corresponden:
+
+I. Analizar y emitir opinión al Contralor General sobre el contenido y alcance del programa anual de trabajo de las auditorías conjuntas y directas propuesto por la Secretaría de la Función Pública u homólogos;
+
+II. Colaborar en el seguimiento al cumplimiento del programa anual de trabajo con la Secretaría de la Función Pública u homólogos, de las auditorías conjuntas y directas a cargo de las Direcciones Generales de Contralorías Internas;
+
+III. Participar en coordinación con otras unidades administrativas de la Contraloría General en el inicio y conclusión de las auditorías conjuntas con la Secretaría de la Función Pública u homólogos;
+
+IV. Dar seguimiento respecto a la atención de las observaciones, recomendaciones, solicitudes de aclaración, pliegos de observaciones y acciones promovidas por los Órganos de Fiscalización, en coordinación con la Dirección General que corresponda;
+
+V. Participar en coordinación con otras unidades administrativas de la Contraloría General, en las reuniones de confronta con los Órganos de Fiscalización sobre el estado de las observaciones y recomendaciones;
+
+VI. Solicitar información a la Dirección General de Asuntos Jurídicos y Responsabilidades o a la Dirección General de Contralorías Internas que corresponda, sobre el estado de los Pliegos de Observaciones y promociones de fincamiento de responsabilidades administrativas emitidos por las autoridades federales competentes;
+
+VII. Participar en coordinación con la Dirección General de Contralorías Internas que corresponda, en el seguimiento del adecuado cumplimiento de la aplicación del ejercicio de los recursos federales derivados de los acuerdos y convenios respectivos, ejercidos por las dependencias, órganos desconcentrados, delegaciones y entidades paraestatales, en coordinación con las autoridades federales competentes;
+
+VIII. Requerir información y documentación a las Direcciones Generales de Contralorías Internas que corresponda, sobre las dependencias, órganos desconcentrados, órganos político administrativos y entidades, que sean necesarias para el ejercicio de las atribuciones que tienen encomendadas, sobre el ejercicio de recursos federales;
+
+IX. Emitir opinión al Contralor General sobre los proyectos de convenios de colaboración o coordinación a suscribir con los Órganos de Fiscalización y sus modificaciones;
+
+X. Asistir y participar conforme a sus atribuciones, en los Comités, Subcomités y demás cuerpos colegiados establecidos en la Contraloría General, en los términos que determinen las disposiciones jurídicas y administrativas aplicables;
+
+XI. Llevar estadísticas y análisis del cumplimiento de los Programas Anuales de Auditoria, e intervenciones especiales, autorizados por el Contralor General, en coordinación con las Direcciones Generales de Contralorías Internas;
+
+XII. Integrar el proyecto de Informe semestral de auditorías para el Jefe de Gobierno y para la instancia competente que lo requiera, en coordinación con las unidades administrativas competentes;
+
+XII. (Sic) Elaborar el informe de recurrencias de observaciones de las auditorías realizadas por las Contralorías Internas, en coordinación con las unidades administrativas competentes;
+
+XIV. Participar en la planeación, conducción y coordinación de los programas y acciones de la Contraloría General;
+
+XV. Apoyar a las Coordinaciones y Direcciones Generales, en la fiscalización e inspección del ejercicio del gasto público de la Administración Pública del Distrito Federal y su congruencia con las disposiciones jurídicas aplicables;
+
+XVI. Colaborar en la modificación y/o creación de los sistemas de información con que cuenta la Contraloría General;
+
+XVII. Analizar los informes previamente a que se remitan a la Asamblea Legislativa del Distrito Federal, y que se deriven del Programa de revisión al cumplimiento de los objetivos y cumplimiento en materia de ingresos;
+
+XVIII. Participar en la planeación y análisis de la aplicación de los recursos que se obtengan de los instrumentos jurídicos que establecen la cláusula del cinco al millar;
+
+XIX. Analizar e informar al Contralor General respecto del cumplimiento de las metas y objetivos de las Coordinaciones y Direcciones Generales de la Contraloría General, establecidas en los programas de trabajo;
+
+XX. Elaborar y presentar el programa anual de trabajo de la Dirección General;
+
+XXI. Proponer proyectos de mejora continua en los procesos operativos de las Direcciones Generales que correspondan;
+
+XXII. Comisionar al personal a su cargo, para coadyuvar al cumplimiento de las funciones y atribuciones de otras Unidades Administrativas de la Contraloría General;
+
+XXIII. Las demás que le instruya el Titular de la Contraloría General, las que expresamente le atribuyan este reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2011)</small>
 
@@ -11786,7 +12562,7 @@ XXII. Coordinar la realización, integración, revisión y análisis de los dive
 
 XXIII. Elaborar y proponer al jefe Delegacional el establecimiento de lineamientos para mejorar los flujos de trabajo en el Órgano Político-Administrativo;
 
-XXIV. Establecer los mecanismos de evaluación y seguimientos de los programas que lleve acabo el Órgano Político- Administrativo;
+XXIV. Establecer los mecanismos de evaluación y seguimientos de los programas que lleve acabo (sic) el Órgano Político- Administrativo;
 
 XXV. Coordinar las acciones preventivas en áreas de riesgo administrativo, con el fin de evitar responsabilidades administrativas del Órgano Político-Administrativo;
 
@@ -12912,7 +13688,7 @@ VI. Implementar acciones de preservación y restauración del equilibrio ecológ
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
 
-VII. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambienta, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+VII. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -15248,7 +16024,7 @@ II. Proporcionar información o datos técnicos, tecnológicos, operativos y log
 
 III. Llevar a cabo la formulación de programas para el logro de los objetivos del Centro, solicitando la opinión del Consejo Consultivo;
 
-IV. Ejecutar y evaluar los programas para el logro del los objetivos del Centro;
+IV. Ejecutar y evaluar los programas para el logro del (sic) los objetivos del Centro;
 
 V. Formular los dictámenes e informes determinados por las autoridades competentes;
 
@@ -16747,3 +17523,21 @@ QUINTO.- La Secretaría de Ciencia, Tecnología e Innovación deberá adecuar su
 SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las dependencias y unidades administrativas que por virtud de este decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
+
+G.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día primero de marzo del presente año.
+
+TERCERO.- La transferencia de la Coordinación General de Modernización Administrativa y de la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones a la Oficialía Mayor del Distrito Federal, incluirán personal, mobiliario, equipos, instrumentos, vehículos, maquinaria, aparatos, archivos y, en general, todos los efectos y dispositivos que tienen asignados y los que se requieran para la atención de los asuntos a su cargo, así como los recursos presupuestales correspondientes, de conformidad con las disposiciones jurídicas, administrativas y laborales aplicables.
+
+CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- Las Dependencias que por virtud de este Decreto se modifican, deberán adecuar sus estructuras orgánicas y actualizar los Manuales Administrativos en los plazos y condiciones que establezca la Oficialía Mayor del Distrito Federal.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Dependencias y Unidades Administrativas que por virtud de este Decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SÉPTIMO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentran en trámite y deban ser atendidos por las Unidades Administrativas objeto de readscripción, serán resueltos por la Dependencia que los recibe, dentro de los plazos establecidos al efecto.
+
+OCTAVO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
