@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2010-11-05"
+last_updated: "2014-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -1547,9 +1547,11 @@ V. Los demás que contemplen otras leyes o disposiciones reglamentarias.
 
 Las atribuciones del Ayuntamiento y Autoridades Municipales, serán las que determine la Ley Orgánica Municipal, el presente Código Municipal y demás ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
 ###### ARTICULO 151.
 
-En materia de policía y gobierno, los Delegados tendrán la obligación de informar por escrito mensualmente al H. Ayuntamiento sobre su gestión.
+En materia de policía y gobierno, los Delegados tendrán la obligación de informar por escrito de manera semestral al Ayuntamiento sobre su gestión, de conformidad al formato que para tal efecto establezca la Secretaría del Ayuntamiento.
 
 ## TITULO QUINTO. DE LOS ACTOS PROHIBIDOS
 
@@ -7900,3 +7902,11 @@ PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial de Gobier
 SEGUNDO. El presente acuerdo entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
 
 TERCERO. Se derogan los artículos 828, 829, 830, 831, 832 Y 833 referentes al apartado cuarto del libro cuarto del Código Municipal de Querétaro, así como todas aquellas disposiciones legales de igual o menor jerarquía que se opongan al presente reglamento.".
+
+P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial del Ayuntamiento del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de la última publicación de ambos medios de difusión mencionados.
+
+TERCERO. Se instruye a la Secretaría del Ayuntamiento notifique la presente al Secretario Particular del Presidente Municipal, al Secretario General de Gobierno Municipal y a la Coordinación de Delegados Municipales.
