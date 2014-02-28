@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2013-08-27"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO TRANSITORIOS, EL PRESENTE ORDENAMIENTO SE SEGUIRÁ APLICANDO HASTA EN TANTO SEAN APLICABLES EN TODO EL TERRITORIO DEL ESTADO LAS DISPOSICIONES DEL CÓDIGO PROCESAL PENAL QUE SE EXPIDIÓ A TRAVÉS DEL DECRETO 1156 PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 16 DE OCTUBRE DE 2012.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 5° DEL DECRETO 527, PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 28 DE FEBRERO DE 2014, SE DEROGA EL DECRETO LEGISLATIVO 1156 PUBLICADO EL 16 DE OCTUBRE DE 2012, POR EL QUE SE EXPIDIÓ EL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE SAN LUIS POTOSÍ; Y, EN CONSECUENCIA, SUBYACE CON TODOS LOS EFECTOS LEGALES EL DIVERSO LEGISLATIVO 572 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 30 DE SEPTIEMBRE DEL AÑO 2000.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -4047,6 +4047,8 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Le
 
 P.O. 16 DE OCTUBRE DE 2012.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 5° DEL DECRETO 527, PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 28 DE FEBRERO DE 2014, SE DEROGA EL DECRETO LEGISLATIVO 1156 PUBLICADO EL 16 DE OCTUBRE DE 2012, POR EL QUE SE EXPIDIÓ EL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE SAN LUIS POTOSÍ; Y, EN CONSECUENCIA, SUBYACE CON TODOS LOS EFECTOS LEGALES EL DIVERSO LEGISLATIVO 572 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 30 DE SEPTIEMBRE DEL AÑO 2000.</small>
+
 PRIMERO. Este Decreto entrará en vigor el uno de marzo del dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. El Poder Legislativo del Estado de San Luis Potosí, emitirá a más a tardar el treinta de septiembre del año dos mil doce, Declaratoria que se publicará en los órganos de difusión oficiales, en la que señale expresamente que el sistema procesal penal acusatorio ha sido incorporado en el ordenamiento respectivo y, en consecuencia, que las garantías que consagra la Constitución Política de los Estados Unidos Mexicanos empezarán a regular la forma y términos en que se substanciarán los procedimientos penales. Esto con apego a lo que establece el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el día dieciocho de junio del año dos mil ocho.
@@ -4090,3 +4092,9 @@ P.O. 27 DE AGOSTO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
