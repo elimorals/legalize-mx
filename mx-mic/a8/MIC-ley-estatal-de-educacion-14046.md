@@ -4,7 +4,7 @@ identifier: "MIC-ley-estatal-de-educacion-14046"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2008-07-23"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY ESTATAL DE EDUCACION
 
-LEY ESTATAL DE EDUCACION
+LEY ESTATAL DE EDUCACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 292, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -1237,7 +1239,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE AGOSTO DE 2007.
 
@@ -1250,3 +1252,37 @@ P.O. 23 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE FEBRERO DE 2014.
+
+DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO DEL DECRETO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley Estatal de Educación, publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el lunes 7 de diciembre de 1998.
+
+## TRANSITORIOS
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y debida publicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO.- El Ejecutivo del Estado en un plazo de hasta noventa días, publicará las modificaciones al Reglamento Interior de la Administración Pública Centralizada de conformidad y concordancia con los aspectos generales de la Ley General de Educación, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y la presente Ley, con miras a garantizar su debida administración interna.
+
+CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo del Estado, para el ejercicio fiscal correspondiente, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, derivadas de la presente Ley, de igual manera el Titular del Ejecutivo del Estado, deberá de incluir en el proyecto de presupuesto que someta a la aprobación del Congreso del Estado de Michoacán de Ocampo, los recursos suficientes para fortalecer la autonomía de la gestión escolar de acuerdo a lo establecido en la Ley General.
+
+QUINTO.- La Secretaría en un plazo de trescientos sesenta y cinco días, deberá contar con un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un Sistema Estatal de Información y Gestión Educativa, con el fin de cumplir con los plazos que estipula la Ley General, para su integración al Sistema de Información y Gestión Educativa, debiendo incluir en el mismo al menos la información correspondiente a las estructuras ocupacionales autorizadas, las plantillas de personal de las escuelas y los datos sobre la formación y trayectoria del personal adscrito a las mismas.
+
+SEXTO.- La Secretaría y los Organismos Descentralizados en coordinación con las autoridades competentes, deberán realizar durante el mes de julio del año 2014 los concursos para el Ingreso al Servicio en la Educación Básica y Media Superior según lo establece el capítulo III, del Título Segundo de la Ley General del Servicio Profesional Docente.
+
+SÉPTIMO.- En el cumplimiento de todo lo que se establece como progresivo se deberán observar las disposiciones y tiempos que establecen la Ley General, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y demás legislación aplicable en la materia.
+
+OCTAVO.- Las autoridades educativas, en el ámbito de sus respectivas competencias, establecerán de forma paulatina y progresiva, conforme a la disponibilidad presupuestaria, un programa de subsidios escolares compensatorios para reducir condiciones de inequidad social en el sistema educativo.
+
+NOVENO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sujetándose conforme a la legislación con la que se iniciaron, sin contravenir lo dispuesto por la legislación general. En lo no previsto por esta Ley se estará a lo dispuesto por la legislación general y los plazos y calendarios que emita la autoridad federal o estatal competente.
+
+DÉCIMO.- El Ejecutivo del Estado conformará en un plazo de hasta 60 días el Consejo Estatal de Formación, Actualización, Capacitación y Superación de los Profesionales de la Educación, para su integración e instalación.
+
+Una vez instalado el Consejo Estatal de Formación, Actualización, Capacitación y Superación de los Profesionales de la Educación tendrá un plazo de hasta 30 días para emitir su Reglamento Interno.
+
+DÉCIMO PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Federal, al Congreso de la Unión, a las Legislaturas de los Estados y a la Asamblea Legislativa del Distrito Federal, así como a los Ayuntamientos del Estado, para su conocimiento.
