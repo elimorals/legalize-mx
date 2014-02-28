@@ -4,7 +4,7 @@ identifier: "SLP-codigo-procesal-penal-para-el-estado-de-san-luis-potosi-89931"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-10-16"
-last_updated: "2012-10-16"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL UNO DE MARZO DEL DOS MIL CATORCE PREVIA SU PUBLICACIÓN. LAS DISPOSICIONES DE ESTE CÓDIGO SE APLICARÁN GRADUALMENTE DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL PRESENTE DECRETO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 5° Y EL TRANSITORIO PRIMERO DEL DECRETO 527, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO EL UNO DE MARZO DE DOS MIL CATORCE.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014 (DEROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de octubre de 2012.
 
@@ -5632,3 +5632,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
