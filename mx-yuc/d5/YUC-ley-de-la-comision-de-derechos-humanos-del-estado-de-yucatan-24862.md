@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-comision-de-derechos-humanos-del-estado-de-yucatan-24
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-23"
-last_updated: "2010-10-04"
+last_updated: "2014-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "YUC"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE YUCATAN
 
-LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE YUCATAN.
+LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN.
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE YUCATAN, PUBLICADO EN EL D.O. 4 DE OCTUBRE DE 2010, CUALQUIER REFERENCIA QUE EN OTRAS DISPOSICIONES JURIDICAS Y ADMINISTRATIVAS SE REALICEN DE LAS DENOMINACIONES DE GRAN COMISION, COMISION PERMANENTE DE HACIENDA PUBLICA, INSPECCION DE LA CONTADURIA MAYOR DE HACIENDA Y PATRIMONIO ESTATAL Y MUNICIPAL EN RELACION A CUENTA PUBLICA, OFICIALIA MAYOR DEL CONGRESO Y TESORERIA DEL CONGRESO, SE ENTENDERAN POR JUNTA DE GOBIERNO Y COORDINACION POLITICA, VIGILANCIA DE LA CUENTA PUBLICA Y TRANSPARENCIA, SECRETARIA GENERAL DEL PODER LEGISLATIVO Y DIRECCION GENERAL DE ADMINISTRACION Y FINANZAS, RESPECTIVAMENTE.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 4 DE OCTUBRE DE 2010, CUALQUIER REFERENCIA QUE EN OTRAS DISPOSICIONES JURÍDICAS Y ADMINISTRATIVAS SE REALICEN DE LAS DENOMINACIONES DE GRAN COMISIÓN, COMISIÓN PERMANENTE DE HACIENDA PUBLICA, INSPECCIÓN DE LA CONTADURÍA MAYOR DE HACIENDA Y PATRIMONIO ESTATAL Y MUNICIPAL EN RELACIÓN A CUENTA PUBLICA, OFICIALÍA MAYOR DEL CONGRESO Y TESORERÍA DEL CONGRESO, SE ENTENDERÁN POR JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA, VIGILANCIA DE LA CUENTA PUBLICA Y TRANSPARENCIA, SECRETARIA GENERAL DEL PODER LEGISLATIVO Y DIRECCIÓN GENERAL DE ADMINISTRACIÓN Y FINANZAS, RESPECTIVAMENTE.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN PUBLICADA EN EL D.O. DE 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE FEBRERO DE 2014 (ABROGADA).
 
 > <small>(F. DE E., D.O. 24 DE MAYO DE 2002)</small>
 
@@ -1006,3 +1008,33 @@ El Director de Evaluación del Presupuesto será nombrado en el plazo que establ
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 En tanto se expida Ley reglamentaria de la fracción XL, del artículo 30 y la Ley reglamentaria del Título Décimo a que se refiere el artículo 98 de la Constitución Política del Estado de Yucatán, permanecerán vigentes los Títulos Octavo y Noveno de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha 24 de febrero de 1988, mediante Decreto Número 6, misma que se abroga mediante esta Ley.
+
+D.O. 28 DE FEBRERO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley de la Comisión de Derechos Humanos del Estado de Yucatán, promulgada mediante Decreto 124 del Poder Ejecutivo y publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 23 de mayo de 2002.
+
+Tercero. Conclusión de cargos de los consejeros ciudadanos
+
+Los consejeros ciudadanos del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán que estén actualmente en funciones concluirán en sus cargos el 5 de julio de 2015 y podrán ser ratificados de conformidad a las disposiciones de esta ley, para un último período.
+
+Cuarto. Expedición del reglamento interno de la comisión
+
+El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán deberá expedir, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este decreto, el Reglamento Interno de la Comisión de Derechos Humanos del Estado de Yucatán, que deberá ser publicado en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Quinto. Aplicación del reglamento interno de la comisión vigente
+
+En tanto se expide el Reglamento Interno de la Comisión de Derechos Humanos del Estado de Yucatán a que se refiere el artículo transitorio anterior, continuará aplicándose, en lo que no se oponga, el Reglamento Interno de la Comisión de Derechos Humanos del Estado de Yucatán vigente. En todo caso, el Presidente de la Comisión de Derechos Humanos del Estado de Yucatán, resolverá lo que proceda conforme a derecho.
+
+Sexto. Informe de actividades
+
+Por única ocasión el informe de actividades que debe rendir el Presidente de la Comisión de Derechos Humanos del Estado de Yucatán, ante el Congreso del Estado, en febrero del año 2015, abarcará el período comprendido del 1 de julio del 2013 al 31 de diciembre de 2014. Por tanto, en el año 2014 no se rendirá informe alguno.
+
+Séptimo. Derogación
+
+Se derogan todas las disposiciones legales y normativas de igual o menor rango en lo que se opongan al contenido de este decreto.
