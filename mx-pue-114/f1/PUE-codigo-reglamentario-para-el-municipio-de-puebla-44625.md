@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2013-11-11"
+last_updated: "2014-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -985,7 +985,9 @@ De conformidad con la realidad social, económica, política y tomando en consid
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO 8. DEL CONSEJO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 8. DE LOS CONSEJOS DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE PUEBLA
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 112.
 
@@ -1633,545 +1635,701 @@ DE LAS SANCIONES
 
 (DEROGADO, P.O. 10 DE AGOSTO DE 2012)
 
+> <small>N. DE E. EL ACUERDO DE REFORMAS APROBADO EN EL DICTAMEN, MODIFICÓ DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL CAPÍTULO 8 DEL 11 DE NOVIEMBRE DE 2013, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 28 DE FEBRERO DE 2014.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2014)</small>
+
 ### CAPÍTULO 10. SEGURIDAD VIAL Y TRÁNSITO MUNICIPAL
 
 OBJETO Y ALCANCES
 
 ###### Artículo 155.
 
-Los Consejos Municipales de Participación Ciudadana del Municipio de Puebla, tienen la naturaleza jurídica de órganos de promoción y gestión social, auxiliar de los Ayuntamientos, con las obligaciones de coadyuvar para el cumplimiento eficaz de los planes y programas municipales aprobados; promover la participación y colaboración de los habitantes y vecinos en todos los aspectos de beneficio social; y proponer al Ayuntamiento la creación o modificación de actividades, acciones, planes y programas municipales.
+El presente Capítulo tiene por objeto regular los Consejos de Participación Ciudadana del Municipio de Puebla, en cuanto a sus facultades, integración, elección y organización.
+
+Para efectos de este Capítulo se denominará a los Consejos de Participación Ciudadana del Municipio de Puebla como Consejos Ciudadanos.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 156.
 
-El objeto del presente capítulo, es normar la actividad del Consejo de Participación Ciudadana del Municipio de Puebla, como órgano de consulta, promoción y gestión social, auxiliar del Ayuntamiento de Puebla.
+Para la adecuada coordinación y conducción general de las actividades de los Consejos Ciudadanos y a fin de favorecer la comunicación entre éstos y las autoridades municipales, se establecen los siguientes órganos:
+
+a) Junta Directiva de los Consejos Ciudadanos; y
+
+b) Comisión Ejecutiva de los Consejos Ciudadanos.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+DE LOS CONSEJOS CIUDADANOS
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 157.
 
-El Consejo de Participación Ciudadana del Municipio de Puebla, constituirá la Asamblea Plenaria de Consejos, el cual estará integrado por:
+Los Consejos Ciudadanos tienen la naturaleza jurídica de ser órganos de consulta, promoción y gestión social, auxiliares del Ayuntamiento, conformados por los distintos sectores de la sociedad. Por lo tanto sus acuerdos en ningún caso tendrán carácter decisorio ni ejecutivo en la Administración Municipal.
 
-a) Un Consejo Directivo;
-
-b) Una Comisión Ejecutiva; y
-
-c) Los Consejos Ciudadanos, los cuales constituyen la Asamblea Plenaria de Consejos.
-
-Cada Consejo participante, designará a los suplentes de cada uno de sus miembros, para el caso de ausencia o suplencia justificadas.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 158.
 
-El Consejo Directivo estará integrado por:
+Los Consejos Ciudadanos se crean, modifican o extinguen por acuerdo expreso del Cabildo a propuesta del Ayuntamiento y la Junta Directiva de los Consejos Ciudadanos.
 
-a) Un Presidente Honorario, que será el Presidente Municipal;
+Los Consejos Ciudadanos estarán sectorizados a las dependencias o entidades de la Administración Municipal de acuerdo a la naturaleza de los temas de que se traten.
 
-b) Un Presidente del Consejo de Participación Ciudadana del Municipio de Puebla, que lo será también del Consejo Directivo;
-
-c) Un Secretario Ejecutivo, que será designado por el Presidente Municipal Constitucional; y
-
-d) Los Presidentes de los Consejos Ciudadanos.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 159.
 
-La Comisión Ejecutiva estará integrado por:
+Los Consejos Ciudadanos serán los que establece la Ley Orgánica Municipal, así como los creados por acuerdo expreso del Cabildo y serán los siguientes:
 
-a) El Presidente del Consejo de Participación Ciudadana del municipio de Puebla;
+I. Consejo Ciudadano de Salud, sectorizado al Sistema Municipal DIF;
 
-b) El Secretario Ejecutivo del Consejo de Participación Ciudadana del municipio de Puebla; y
+II. Consejo Ciudadano de Educación, sectorizado a la Secretaria de Desarrollo Social y Participación Ciudadana o su equivalente;
 
-c) El o los Presidentes de los Consejos Ciudadanos correspondientes a la naturaleza del asunto a tratar.
+III. Consejo Ciudadano de Turismo, sectorizado a la Secretaría de Desarrollo Económico y Turismo o su equivalente;
+
+IV. Consejo Ciudadano de Ecología y Medio Ambiente, sectorizado a la Secretaría de Medio Ambiente y Servicios Públicos o su equivalente;
+
+V. Consejo Ciudadano de Protección Civil, sectorizado a la Secretaría de Gobernación;
+
+VI. Consejo Ciudadano de Desarrollo Urbano, sectorizado a la Secretaría de Desarrollo Urbano y Obras Públicas o su equivalente;
+
+VII. Consejo Ciudadano de Obras y Servicios Públicos, sectorizado a la Secretaría de Desarrollo Urbano y Obras Públicas o su equivalente;
+
+VIII. Consejo Ciudadano de Seguridad Pública, sectorizado a la Secretaría de Seguridad Pública y Tránsito Municipal o su equivalente;
+
+IX. Consejo Ciudadano de Vialidad y Transporte, sectorizado a la Secretaría de Seguridad Pública y Tránsito Municipal o su equivalente;
+
+X. Consejo Ciudadano de Grupos Vulnerables, sectorizado al Sistema Municipal DIF;
+
+XI. Consejo Ciudadano de Cultura, sectorizado a (sic) Instituto Municipal de Arte y Cultura de Puebla o su equivalente;
+
+XII. Consejo Ciudadano de Deporte, sectorizado al Instituto Municipal del Deporte o su equivalente;
+
+XIII. Consejo Ciudadano de Bienestar Animal, sectorizado a la Secretaría de Medio Ambiente y Servicios Públicos o su equivalente;
+
+XIV. Consejo de Centro Histórico y Patrimonio Edificado, sectorizado a la Secretaría de Desarrollo Urbano y Obras Públicas o su equivalente;
+
+XV. Consejo de la Juventud, sectorizado al Instituto Municipal de la Juventud o su equivalente;
+
+XVI. Consejo Ciudadano de Desempeño Gubernamental, sectorizado al Instituto Municipal de Planeación o su equivalente;
+
+XVII. Consejo Ciudadano de Derechos Humanos y Equidad entre Géneros, sectorizado al Instituto Municipal de Planeación o su equivalente; y
+
+XVIII. Consejo Ciudadano para la Discapacidad, sectorizado al Sistema Municipal DIF.
+
+Las dependencias o entidades de la administración municipal antes señaladas, facilitarán espacios e insumos necesarios para que sesionen adecuadamente los Consejos Ciudadanos, atendiendo al presupuesto autorizado.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 160.
 
-Para el cumplimiento de sus fines, el Consejo de Participación Ciudadana del Municipio de Puebla, funcionará a través de los Consejos Ciudadanos, que de manera enunciativa y no limitativa, serán los siguientes:
+Son atribuciones de los Consejos Ciudadanos:
 
-I. Consejo Ciudadano de Salud;
+I. Promover la participación y colaboración de los habitantes y vecinos en todos los aspectos de beneficio social, para comunicar al gobierno municipal la opinión de los ciudadanos;
 
-II. Consejo Ciudadano de Educación;
+II. Recibir y analizar las opiniones de la ciudadanía y de los distintos sectores y organizaciones, interesados en los temas municipales;
 
-III. Consejo Ciudadano de Turismo;
+III. Realizar estudios y proponer proyectos de planes y programas, así como medidas, sistemas y estrategias de mejoramiento con respecto a la Administración Municipal, su organización, las obras y los servicios que prestan;
 
-IV. Consejo Ciudadano de Ecología y Medio Ambiente;
+IV. Aprobar el programa de trabajo anual de actividades de cada Consejo Ciudadano con base al Plan Municipal de Desarrollo;
 
-V. Consejo Ciudadano de Protección Civil;
+V. Opinar sobre los planes, programas y proyectos que les sean presentados por la administración Municipal;
 
-VI. Consejo Ciudadano de Desarrollo Urbano;
+VI. Solicitar por escrito la contestación a los informes de sus propuestas, quejas y peticiones turnadas al Gobierno Municipal;
 
-VII. Consejo Ciudadano de Obras y Servicios Públicos;
+VII. Proponer al Ayuntamiento por medio de las Comisiones Permanentes o Transitorias de Regidores, la formación de los Consejos Ciudadanos que se consideren necesarios;
 
-VIII. Consejo Ciudadano de Seguridad Pública;
+VIII. Establecer canales de comunicación y colaboración con los sectores de la sociedad, Consejos Ciudadanos, así como con las demás instancias de participación ciudadana existentes en el Ayuntamiento, municipios de la entidad y de otros estados;
 
-IX. Consejo Ciudadano de Vialidad y Transporte;
+IX. Promover reuniones, seminarios, congresos y otro tipo de eventos de interés público; en coordinación con las Dependencias o Entidades del Gobierno Municipal y/o aquellas Comisiones permanentes o transitorias del Ayuntamiento que tengan competencia sobre el particular;
 
-X. Consejo Ciudadano de Grupos Vulnerables;
+X. Promover la publicación y difusión de acciones y servicios de carácter municipal;
 
-XI. Consejo Ciudadano de Cultura;
+XI. Promover y difundir las acciones de los Consejos Ciudadanos y fomentar entre la comunidad la cultura de la participación social; y
 
-XII. Consejo Ciudadano de Deporte;
+XII. Las demás que le confiera la Ley Orgánica Municipal y el presente Capítulo.
 
-XIII. Consejo Ciudadano Contra las Adicciones; y (sic)
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+DE LA INTEGRACIÓN DE LOS CONSEJOS CIUDADANOS
 
-XIV.- Consejo de Centro Histórico y Patrimonio Edificado;
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-XV.- Consejo de la Juventud; y (sic)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2007)</small>
-
-XVI.- Consejo Ciudadano de Desempeño Gubernamental;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
-
-XVII.- Consejo Ciudadano de Derechos Humanos y Equidad entre Géneros.
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-XVIII.- Consejo Ciudadano para la Discapacidad; y
-
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-XIX.- Los demás que determine el Ayuntamiento.
-
-El objetivo de los consejos señalados con anterioridad, será el de ocuparse de los asuntos que le encomiende el Ayuntamiento de Puebla, vinculados a su denominación.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 161.
 
-La designación del Presidente de cada uno de los Consejos señalados en el artículo anterior, será por elección de entre los Consejeros Ciudadanos acreditados, salvo en el caso de los que ya existan y hayan sido elegidos.
+Los Consejos Ciudadanos se integrarán por un mínimo de diez y máximo quince Consejeros propietarios, quienes tendrán un suplente.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 162.
 
-A cada uno de los Consejos Ciudadanos, se integrarán los Regidores de las Comisiones Correspondientes del Cabildo, Secretarios o Directores de áreas respectivos, quienes participarán con voz pero sin voto.
+Los miembros integrantes de los Consejos Ciudadanos se renovarán cada tres años, justamente a los dieciocho meses de iniciada la gestión municipal, considerándose todos los Consejeros tanto propietarios como suplentes, pudiendo participar dentro del mismo Consejo hasta por un período más.
+
+La renovación se llevará a cabo al menos treinta días antes de la elección del Presidente Ejecutivo de la Junta Directiva de los Consejos Ciudadanos, en el lugar, día y hora señalados en la convocatoria que para tal efecto apruebe la Junta Directiva de los Consejos Ciudadanos.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 163.
 
-Las Atribuciones del Presidente Honorario son las siguientes:
+En cada uno de los Consejos Ciudadanos podrán integrarse los Regidores de las Comisiones afines a la naturaleza de los Consejos, y de manera obligatoria asistirán cuando sean convocados a las sesiones, los Secretarios o Directores quienes participarán con voz pero sin voto.
 
-I. Proponer una terna de entre los Presidentes de los Consejos Ciudadanos, para que de ella se elija el Presidente del Consejo de Participación Ciudadana del Municipio de Puebla;
-
-II. Designar al Secretario Ejecutivo;
-
-III. Participar con voz en todas y cada una de las asambleas del Consejo de Participación Ciudadana del Municipio de Puebla;
-
-IV. Integrar con el Presidente del Consejo de Participación Ciudadana la Mesa Directiva; y
-
-V. Podrá solicitar en todo momento los informes que requiera el Consejo de Participación Ciudadana, así como de los Consejos Ciudadanos.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 164.
 
-La máxima autoridad del Consejo, será la Asamblea Plenaria del Consejo de Participación Ciudadana del Municipio de Puebla y las decisiones de la misma, para que se consideren legalmente válidas, requerirán:
+De manera conjunta podrán sesionar máximo dos Consejos Ciudadanos con previo acuerdo de los Consejeros Presidentes de los mismos, sesiones que serán desahogadas por alguno de los Consejeros Presidentes de los Consejos Ciudadanos participantes.
 
-I. Un Quórum del 50 % más uno de la totalidad de sus miembros; y
-
-II. Que los acuerdos tomados sean aprobados por la mayoría relativa de los miembros asistentes.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 165.
 
-Para ser miembro del Consejo de Participación Ciudadana del Municipio de Puebla, se requiere:
+Para ser miembro de un Consejo Ciudadano se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Ser vecino del Municipio de Puebla y haber residido en él durante los últimos cinco años, salvo el caso de ausencia por servicio al País por un tiempo menor de seis meses;
+II. Ser vecino o trabajar en el Municipio de Puebla, al menos los últimos seis meses anteriores a la emisión de la convocatoria;
 
-III. Gozar de buena reputación y honorabilidad y no estar sujeto a proceso criminal, ni haber sufrido condena de esta especie;
+III. No tener ni haber tenido cargo alguno de elección popular a nivel municipal, en el año anterior a su designación;
 
-IV. No tener ni haber tenido cargo alguno de elección popular en los últimos cinco años, anteriores a la designación;
+IV. No desempeñar ni haber desempeñado cargos de Dirección en algún partido o agrupación política, los dos años anteriores a su designación;
 
-V. No desempeñar ni haber desempeñado cargos de Dirección en algún partido o agrupación política, durante los cinco años anteriores; y
+V. No desempeñar ni haber desempeñado cargos en la Administración Municipal, en el año anterior a su designación;
 
-VI. Ser propuesto en formula, propietario y suplente, y representar a algún organismo o Institución de los sectores privado o social, tales como: Organismos empresariales, Colegios de Profesionales, Fundaciones, Universidades, investigadores, o ser ciudadano con reconocido prestigio, experiencia y calificados conocimientos sobre el área e interesados en colaborar, dar apoyo y recomendar soluciones a los problemas de carácter municipal.
+VI. No desempeñar cargo alguno en la actual Administración Municipal. En caso de ocupar un cargo público siendo integrante de un Consejo, deberá solicitar licencia ante el Consejero Presidente de dicho Consejo, pudiendo asistir a las sesiones pero sin derecho a voto;
+
+VII. En caso de ser proveedor, arrendatario, asesor y/o consultor del Ayuntamiento, deberá solicitar licencia ante el Consejero Presidente de dicho Consejo, pudiendo asistir a las sesiones pero sin derecho a voto; y
+
+VIII. Ser propuesto en fórmula, propietario y suplente, por algún organismo o Institución de los sectores privado o social, tales como: Organismos Empresariales, Colegios de Profesionales, Fundaciones, Universidades, investigadores; o ser ciudadano con reconocido prestigio, experiencia y calificados conocimientos sobre el área; y estar interesados en colaborar, dar apoyo y recomendar soluciones a los problemas de carácter municipal.
+
+Para tal efecto deberán de entregar a la Secretaría Ejecutiva de la Junta Directiva de los Consejos Ciudadanos, la documentación que compruebe el cumplimiento de los requisitos señalados.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 166.
 
-La integración del Consejo de Participación Ciudadana del Municipio de Puebla, se renovará o en su caso se revisará cada 3 años, justamente a los 18 meses de iniciada la gestión municipal. La renovación se llevará a cabo en el lugar, día y hora, de acuerdo a la convocatoria que emita el Consejo Directivo.
+Los Consejos Ciudadanos tendrán una mesa directiva, conformada por:
 
-Los Consejeros durarán tres años en su cargo y las licencias que tuvieren durante su mandato, serán cubiertas por sus Consejeros suplentes.
+I. Un Consejero Presidente;
+
+II. Un Consejero Secretario; y
+
+III. Un Consejero de Vigilancia.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 167.
 
-La función del Presidente del Consejo de Participación Ciudadana, así como de los Consejeros serán honoríficos, no remunerados y renunciables ante el Presidente del Consejo de Participación Ciudadana, quien dará cuenta de ello al Presidente Municipal, para los efectos que correspondan.
+Los Consejos Ciudadanos, serán presididos por el Consejero Presidente que resulte electo de entre los miembros acreditados de cada uno de ellos.
+
+En caso de empate, se realizará una segunda ronda de votación.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 168.
 
-El Ayuntamiento podrá autorizar a los Consejos Ciudadanos, la recepción de aportaciones económicas de la comunidad, para la realización de sus fines, los cuales deberán apegarse a las políticas y acciones del Gobierno Municipal. En este caso, los recibos serán autorizados por la Tesorería Municipal, y en esta se concentrarán sus fondos, los cuales se aplicarán a la obra, acción y programas respectivos, bajo los lineamientos que establezca la Tesorería Municipal.
+El Consejero Presidente de los Consejos Ciudadanos, será elegido cada tres años, justamente a los dieciocho meses de iniciada la gestión municipal.
 
-DE LAS FACULTADES DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 169.
 
-Son facultades del Consejo de Participación Ciudadana:
+Una vez electo el Consejero Presidente de cada Consejo Ciudadano, éste propondrá al Consejero Secretario y de Vigilancia de entre los miembros acreditados.
 
-I. Coadyuvar para el cumplimiento eficaz de los planes y programas municipales aprobados;
+La aceptación de cada miembro será por decisión mayoritaria de los integrantes de cada Consejo Ciudadano bajo un análisis de la persona propuesta.
 
-II. Promover la participación y colaboración de los habitantes y vecinos en todos los aspectos de beneficio social;
-
-III. Proponer al Ayuntamiento todo tipo de actividades, acciones, planes y programas municipales, o en su caso, modificar los mismos;
-
-IV. Elegir al Presidente del Consejo de Participación Ciudadana, de entre la terna propuesta por el Presidente Municipal; y
-
-V. Solicitar por escrito, las contestaciones, informes y aclaraciones sobre sus proyectos, propuestas, quejas y peticiones turnadas al H. Ayuntamiento.
-
-DEL PRESIDENTE DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 170.
 
-El Presidente del Consejo de Participación Ciudadana, lo será también del Consejo Directivo. Será propuesto en terna por el Presidente Municipal Constitucional, el cual será escogido de entre los Presidentes de los Consejos Ciudadanos y elegido en Asamblea Plenaria, por la mayoría de los miembros.
+Los cargos de los integrantes de los Consejos Ciudadanos serán honoríficos y no remunerados.
+
+El cargo de Consejero Ciudadano será renunciable, pudiendo presentarla ante la Junta Directiva, misma que determinará ante tal situación lo conducente.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 171.
 
-El cargo de Presidente del Consejo de Participación Ciudadana será de tres años, pudiendo reelegirse una sola vez, cuyo cambio se realizará a los 18 meses de haber iniciado la gestión municipal. En caso de que el Presidente del Consejo de Participación Ciudadana presentare su renuncia, el suplente hará las veces de este por un término máximo de noventa días, hasta en tanto se convoque para la elección.
+Para ser Consejero Presidente de un Consejo Ciudadano, se requiere:
+
+I. Contar con una antigüedad mínima de un año como miembro del Consejo; y
+
+II. Contar como mínimo con 3 asistencias a las sesiones ordinarias, durante el año a que se hace referencia en la fracción anterior.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 172.
 
-Son derechos y obligaciones del Presidente del Consejo de Participación Ciudadana, las siguientes:
+Son atribuciones del Consejero Presidente del Consejo Ciudadano:
 
-I. Tener la representación legal del Consejo de Participación Ciudadana;
+I. Representar al Consejo que presida ante miembros del mismo y autoridades Municipales, salvo en los casos que se designe una comisión o persona especial por parte del mismo Consejo Ciudadano, para alguna actividad específica;
 
-II. Ejecutar las decisiones del Consejo de Participación Ciudadana, legalmente acordadas;
+II. Presidir las sesiones del Consejo Ciudadano;
 
-III. Vigilar el cumplimiento de los objetivos del Consejo de Participación Ciudadana, fomentando y enalteciendo el progreso y prestigio de este organismo, velando para ello por el cumplimiento de la ley y el presente capítulo.
+III. Dirigir y vigilar la realización de actividades inherentes al área del Consejo Ciudadano que representa y las encomendadas por el mismo;
 
-IV. Presidir y dirigir las asambleas, juntas, sesiones y todos aquellos actos propios del Consejo de Participación Ciudadana;
+IV. Proponer al Consejero Secretario y Consejero de Vigilancia;
 
-V. Expedir y entregar los nombramientos que otorgue conjuntamente con el Presidente Honorario;
+V. Conservar el orden en las sesiones;
 
-VI. Rendir un informe anual de las actividades del Consejo de Participación Ciudadana, en una Asamblea Plenaria a la que se deberá invitar a los Miembros del Ayuntamiento;
+VI. Conceder el uso de la palabra a los Consejeros y pedir la votación cuando así lo requiera;
 
-VII. Firmar de manera conjunta con el Secretario Ejecutivo, las actas y acuerdos que se levanten en las Asambleas y Sesiones que presida; y
+VII. Dar el carácter de acuerdo por mayoría de votos, a las resoluciones que emita el Consejo Ciudadano;
 
-VIII. Las demás que establezca la Ley Orgánica Municipal del Estado de Puebla y el presente Capítulo, así como las que emanen del propio Consejo de Participación Ciudadana.
+VIII. Solicitar la exposición de investigaciones encargadas a los Consejeros a través de las diferentes comisiones que se establezcan;
 
-FACULTADES DEL CONSEJO DIRECTIVO DE PARTICIPACIÓN CIUDADANA
+IX. Presentar por escrito un informe anual de actividades del Consejo Ciudadano, al Presidente Honorario de la Junta Directiva de los Consejos Ciudadanos, al menos veinte días hábiles antes de la presentación del informe anual general;
+
+X. Elaborar y presentar junto con la mesa directiva un proyecto de programa anual de actividades que será aprobado por el Consejo Ciudadano al que pertenece, el cual deberá de ser turnado a la Comisión Ejecutiva; y
+
+XI. Las demás que le confieran el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 173.
 
-Son facultades del Consejo Directivo, las siguientes:
+Son atribuciones del Consejero Secretario de la mesa directiva del Consejo Ciudadano:
 
-I. Proponer la formación de los Consejos Ciudadanos que se consideren necesarios;
+I. Auxiliar al Consejero Presidente en las actividades propias del Consejo Ciudadano;
 
-II. Establecer canales de Comunicación y de colaboración mutua con los Consejos de Participación Ciudadana de otros Municipios de la Entidad, así como de otros Estados de la República;
+II. Presentar a la consideración del Consejero Presidente, el proyecto de orden del día de las sesiones;
 
-III. Organizar reuniones, seminarios, congresos y otros eventos de interés con expertos nacionales e internacionales, en coordinación con la Secretaría, Dirección y/o Comisión del H. Ayuntamiento que tenga competencia sobre el particular;
+III. Convocar a las sesiones ordinarias, extraordinarias y solemnes del Consejo Ciudadano, notificando a los integrantes por lo menos con tres días hábiles de anticipación, dándoles a conocer el lugar, día, hora y el orden del día de la sesión de que se trate; manteniendo informada a la Secretaría Ejecutiva;
 
-IV. Fomentar la publicación y difusión de las obras y servicios de carácter municipal, que lo ameriten a su juicio;
+IV. Levantar el acta sucinta, de cada sesión que se realice, en el formato aprobado por la Contraloría Municipal, mismo que será proporcionado por el Secretario Ejecutivo de la Junta Directiva de los Consejos Ciudadanos; en la que se rinda cuenta de los acuerdos tomados, teniendo la obligación de remitirla al Secretario Ejecutivo en comento para su seguimiento y archivo;
 
-V. Promover y difundir las acciones de los Consejos Ciudadanos y fomentar entre la comunidad la cultura de la participación social, en lo que coadyuve con el Ayuntamiento para la búsqueda del bien común y la justicia social;
+V. Firmar junto con el Consejero Presidente los acuerdos, actas y resoluciones que emita el propio Consejo Ciudadano;
 
-VI. Aprobar el Plan Anual General, integrado con todos los programas de actividades de los Consejos Ciudadanos, en base al Plan de Desarrollo Municipal;
+VI. Solicitar a la Secretaría Ejecutiva de la Junta Directiva de los Consejos Ciudadanos, el directorio actualizado de los integrantes del Consejo Ciudadano;
 
-VII. Convocar a elecciones para Presidente del Consejo de Participación Ciudadana del Municipio de Puebla, así como para los Presidentes de los Consejos Ciudadanos; y
+VII. Informar en las sesiones del Consejo Ciudadano, el curso que sigan los acuerdos y asuntos en general;
 
-VIII. Las demás que le confiera el presente capítulo.
+VIII. Recoger y computar los votos de los integrantes del Consejo Ciudadano, emitidos en las sesiones;
 
-FACULTADES DE LA COMISIÓN EJECUTIVA DE PARTICIPACIÓN CIUDADANA
+IX. Remitir las Actas de las sesiones celebradas a la Secretaría Ejecutiva de la Junta Directiva de los Consejos Ciudadanos;
+
+X. Mantener comunicación continua con los organismos e instituciones representadas en el Consejo Ciudadano;
+
+XI. Informar al Consejo Ciudadano del programa de reconocimientos para Consejeros más destacados; y
+
+XII. Las demás que le confiera el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 174.
 
-Son facultades de la Comisión Ejecutiva, las siguientes:
+Son funciones del Consejero de Vigilancia de la mesa directiva del Consejo Ciudadano:
 
-I. Colaborar en los planes, programas y proyectos que se estén realizando en los Consejos Ciudadanos;
+I. Revisar la documentación completa de las personas propuestas a Consejeros para su Validación;
 
-II. Desarrollar un sistema de estímulos y reconocimientos para los consejos que se distingan por su espíritu de colaboración, cooperación, compromiso y responsabilidad a favor del interés social;
+II. Rendir los informes que le solicite el Ayuntamiento, el Consejo Ciudadano y órganos del mismo; y
 
-III. Proponer premios por méritos civiles y la conmemoración de fechas históricas;
+III. Las demás que le confiera el Consejo Ciudadano.
 
-IV. Turnar al H. Ayuntamiento los acuerdos y asuntos emanados de los Consejos Ciudadanos;
-
-V. Elaborar y presentar a la consideración del Consejo Directivo, el proyecto de Plan Anual General de actividades del Consejo de Participación Ciudadana del Municipio de Puebla; y
-
-VI. Las demás que le confiera el presente capítulo.
-
-DEL SECRETARIO EJECUTIVO DE PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 175.
 
-El Secretario Ejecutivo participará en todas las Asambleas y sesiones con voz pero sin voto. Será responsable, bajo la supervisión del Presidente del Consejo de Participación Ciudadana, de integrar los recursos humanos de la estructura administrativa, así como de hacer las gestiones necesarias para la contratación de los servicios que en su caso se necesiten, percibiendo el salario que le fije el Presidente Municipal Constitucional, de acuerdo al presupuesto aprobado para tal efecto.
+Los Consejos Ciudadanos para cumplir con el objeto para el que fueron creados, podrán integrar las comisiones que fuesen necesarias, en las que informarán y someterán para su aprobación sus planes y programas a los consejos respectivos.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 176.
 
-Son atribuciones del Secretario Ejecutivo de Participación Ciudadana:
+Las Comisiones deberán desarrollar los trabajos encomendados, dentro de los plazos que al efecto se señalen.
 
-I. Asistir al Presidente del Consejo de Participación Ciudadana, en las Sesiones, juntas y demás actos que él disponga; haciéndolo de igual forma, con los Presidentes de los Consejos;
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
-II. Presentar a la consideración del Presidente, el orden del día de las Sesiones del Consejo de Participación Ciudadana y de cada uno de los Consejos Ciudadanos, levantando el acta pormenorizada, de cada Sesión o Junta que se realice;
+DE LOS CONSEJEROS CIUDADANOS
 
-III. Firmar junto con el Presidente del Consejo de Participación Ciudadana, los acuerdos, actas y resoluciones que emita el propio Consejo, haciéndolo de igual forma con los Presidentes de los Consejos Ciudadanos;
-
-IV. Presentar a la consideración del Presidente del Consejo de Participación Ciudadana y del Consejo Directivo, el proyecto del informe anual que se presentará a la Asamblea Plenaria, debiendo entregar copia del ejemplar autorizado a los miembros del Consejo de Participación Ciudadana, y a los integrantes del Cabildo Municipal;
-
-V. Formar y mantener actualizado el directorio del Consejo de Participación Ciudadana;
-
-VI. Informar en las Sesiones, respecto del curso que sigan los acuerdos y asuntos en general, que sean competencia del Consejo de Participación Ciudadana;
-
-VII. Convocar a las Sesiones Ordinarias, Extraordinarias y Solemnes, notificando a los integrantes, por lo menos con tres días hábiles de anticipación, dándoles a conocer el lugar, día, hora y el orden del día del evento de que se trate;
-
-VIII. Recoger y computar los votos de los integrantes del Consejo de Participación Ciudadana, emitidos en las sesiones señaladas en la fracción anterior;
-
-IX. Dar a conocer la convocatoria para elegir al Presidente del Consejo de Participación Ciudadana, así como para los Presidentes de los Consejos Ciudadanos, mandando a publicarla en tres de los principales diarios de circulación local y por los medios que estime convenientes, señalando lugar, día y hora, por lo menos con 10 días hábiles de anticipación;
-
-X. Llevar al día el archivo documental del Consejo de Participación Ciudadana, teniéndolo bajo su debido resguardo, conservación y control, con apego a lo establecido por el capítulo del Archivo Municipal del presente Código Reglamentario;
-
-XI. Mantener comunicación continua con los organismos e instituciones participantes, a fin de informales el avance de sus respectivas actividades, de conformidad a los acuerdos emitidos por el Presidente del Consejo de Participación Ciudadana y bajo su coordinación; y
-
-XII. Las demás que le confiera el presente capítulo.
-
-DE LAS SESIONES DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 177.
 
-Las Sesiones del Consejo de Participación Ciudadana serán públicas; con carácter de:
+Son derechos y obligaciones de los Consejeros Ciudadanos:
 
-I. Ordinarias;
+I. Votar y ser votado para la integración de la mesa directiva del Consejo Ciudadano al que pertenece;
 
-II. Extraordinarias; y
+II. Nombrar a un suplente que de ser necesario, lo represente;
 
-III. Solemnes.
+III. Participar y cumplir con las encomiendas dadas por el Consejo Ciudadano, tanto en lo personal como en su carácter de integrante de las comisiones de trabajo;
+
+IV. Asistir a las sesiones, actos y reuniones del Consejo Ciudadano del que forma parte y a cualquier otro evento al que sea invitado por la Junta Directiva de los Consejos Ciudadanos;
+
+V. Promover actividades en beneficio de la comunidad;
+
+VI. Solicitar la información que requieran para el desarrollo de sus actividades, acorde al objeto y competencias de los Consejos Ciudadanos;
+
+VII. Solicitar licencia por escrito al Consejero Presidente del Consejo Ciudadano al que pertenecen, hasta por seis meses, la cual solamente podrá prorrogarse en caso de enfermedad o por el desempeño de algún cargo que imposibilite el cumplimiento de sus funciones;
+
+VIII. Las licencias que tuvieren los Consejeros Ciudadanos durante su cargo, serán cubiertas por su suplente, previamente identificado;
+
+IX. Renunciar a su cargo, conforme a lo establecido en el párrafo segundo del artículo 170 del presente Código; y
+
+X. Las demás que les confiera el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 178.
 
-Las Sesiones Ordinarias se celebrarán al menos para:
+Las faltas injustificadas de los Consejeros Ciudadanos, a más de cuatro sesiones ordinarias consecutivas, serán causa de destitución por acuerdo de la mayoría de los integrantes del Consejo Ciudadano, entrando en función los suplentes.
 
-I. El Consejo de Participación Ciudadana, por lo menos una vez al año;
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
-II. El Consejo Directivo, cada tres meses;
+DE LA JUNTA DIRECTIVA DE LOS CONSEJOS CIUDADANOS
 
-III. La Comisión Ejecutiva, cada mes; y
-
-IV. Los consejos Ciudadanos, por lo menos una vez al mes.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 179.
 
-Las Sesiones Extraordinarias del Consejo de Participación Ciudadana, se efectuarán cuando las soliciten y fundamenten por escrito, el H. Ayuntamiento, el 50 % más uno de los Presidentes de los Consejos Ciudadanos, o el 50 % de los Consejeros y, a juicio del Presidente del Consejo de Participación Ciudadana.
+La Junta Directiva de los Consejos Ciudadanos, es el órgano de Dirección de los Consejos de Participación Ciudadana del Municipio de Puebla y estará conformada por:
+
+I. Un Presidente Honorario; que será el Presidente Municipal;
+
+II. Un Presidente Ejecutivo; que será el Presidente de la Junta Directiva;
+
+III. Los Consejeros Presidentes de los Consejos Ciudadanos; y
+
+IV. Un Secretario Ejecutivo, quien será designado por el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 180.
 
-Serán Sesiones solemnes, aquellas a las que el Consejo Directivo les reconozca ese carácter, por la importancia del asunto que se trate. En todo caso serán sesiones Solemnes, aquellas en que se instale un Consejo Ciudadano y sus miembros deban rendir protesta de cumplir y respetar la normatividad municipal.
+Son atribuciones de la Junta Directiva de los Consejos de Participación Ciudadana:
+
+I. Aprobar el Plan Anual General de Trabajo, integrado con todos los programas anuales de actividades de los Consejos Ciudadanos, con base al Plan Municipal de Desarrollo;
+
+II. Aprobar la convocatoria para renovación de los Consejos Ciudadanos, que será publicada a través del Secretario Ejecutivo;
+
+III. Otorgar reconocimientos a los Consejeros Ciudadanos que se distingan por su espíritu de colaboración, cooperación, compromiso y responsabilidad a favor del interés social; y
+
+IV. Hacer propuestas para la entrega de los diferentes premios por méritos civiles y la conmemoración de fechas históricas, en términos de lo establecido por el Capítulo 36 del Código Reglamentario para el Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 181.
 
-La convocatoria a las Sesiones, se emitirá con anticipación de tres días hábiles, estará a cargo del Secretario Ejecutivo, quien la hará del conocimiento de los convocados, mediante oficio dirigido a los mismos.
+El Presidente Honorario de la Junta Directiva de los Consejos Ciudadanos, tendrá las siguientes atribuciones:
+
+I. Proponer una terna de entre los Consejeros Presidentes de los Consejos Ciudadanos, para que de ella emane el Presidente Ejecutivo de la Junta Directiva;
+
+II. Designar al Secretario Ejecutivo;
+
+III. Convocar a sesiones extraordinarias;
+
+IV. Participar con voz y voto en las sesiones de la Junta Directiva;
+
+V. Solicitar al Secretario Ejecutivo de la Junta Directiva, en todo momento los informes que requiera, quien tendrá que remitirlos en un término no mayor a cinco días hábiles; y
+
+VI. Las demás que en materia de su competencia establezcan los ordenamientos legales vigentes o las que le delegue y confiera el propio Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 182.
 
-Las faltas injustificadas de los Consejeros, a más de 4 Sesiones Ordinarias consecutivas, será causa de destitución, entrando en función los suplentes.
+La Junta Directiva de los Consejos Ciudadanos, será presidida por el Presidente Ejecutivo, quien será designado de la terna que proponga el Presidente Honorario, la cual será conformada por cualquiera de los Consejeros Presidentes de los Consejos Ciudadanos, mediante votación de sus integrantes.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 183.
 
-Las votaciones de acuerdos y resoluciones, se tomarán por mayoría relativa; serán abiertas y económicas en sentido afirmativo, negativo y abstención. Por acuerdo de la mayoría de la asamblea, podrán ser nominales y secretas. Estas votaciones se regirán con base en los siguientes aspectos:
+Para ser Presidente Ejecutivo de la Junta Directiva de los Consejos Ciudadanos se deberá contar con los siguientes requisitos:
 
-I. Solo tendrán derecho a voto, los Consejeros Propietarios;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Los Consejeros suplentes, sólo podrán ejercer su voto, en ausencia del Consejero propietario; y
+II. Ser vecino o trabajar en el Municipio de Puebla, al menos los últimos seis meses anteriores a la emisión de la convocatoria;
 
-III. En caso de empate, el Presidente del Consejo de Participación Ciudadana, tendrá voto de calidad.
+III. No desempeñar o haber desempeñado durante los tres años anteriores a la emisión de la convocatoria, cargo alguno de elección popular o por designación, en la Administración Municipal, en partidos o agrupaciones políticas;
+
+IV. Contar como mínimo con el 50% más uno del total de asistencias a las sesiones ordinarias de su respectivo Consejo Ciudadano, durante un año a que se hace referencia en la fracción anterior; y
+
+V. No haber sido reelecto como Presidente Ejecutivo de la Junta Directiva de los Consejos Ciudadanos.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 184.
 
-En las votaciones, el Presidente en funciones propondrá de entre los Consejeros acreditados a dos escrutadores, para el conteo de votos, procediendo a enterar al secretario para que forme los resultados.
+Son derechos y obligaciones del Presidente Ejecutivo de la Junta Directiva de los Consejos Ciudadanos, las siguientes:
+
+I. Convocar, presidir y dirigir las sesiones y todos aquellos actos propios del Consejo de Participación Ciudadana;
+
+II. Vigilar el cumplimiento del objeto del presente Capítulo;
+
+III. Expedir y entregar los nombramientos que otorgue conjuntamente con el Presidente Honorario;
+
+IV. Ejecutar las decisiones de la Junta Directiva;
+
+V. Informar anualmente de las actividades de la Junta Directiva durante el mes en que haya entrado en funciones, invitando para ello a los integrantes de los Consejos Ciudadanos, del Honorable Ayuntamiento, funcionarios públicos, así como a la ciudadanía en general;
+
+VI. Firmar de manera conjunta con el Secretario Ejecutivo, las actas y acuerdos que se levanten en las sesiones que presida;
+
+VII. Fungir como vocal en la Junta de Gobierno del Instituto Municipal de Planeación;
+
+VIII. Conocer y transmitir a los integrantes de la Junta Directiva los planes, programas y proyectos del Municipio, remitiendo opiniones al respecto a la Junta de Gobierno del Instituto Municipal de Planeación; y
+
+IX. Las demás que establezca la Ley Orgánica Municipal y el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 185.
 
-El procedimiento para la celebración de las Sesiones, será el siguiente:
+El Presidente Ejecutivo de la Junta Directiva de los Consejos Ciudadanos, se podrá reelegir una sola vez.
 
-El Secretario ejecutivo, pasará lista de asistencia e informará al Presidente, si está presente, el Quórum exigido, en tal caso, el Presidente declarará abierta la Sesión.
+En caso de que el Presidente Ejecutivo de la Junta Directiva presente su renuncia o solicite licencia, el suplente realizará las funciones de éste, continuando con el cargo por el período para el que fue elegido.
 
-Una vez abierta la sesión, el Secretario Ejecutivo dará lectura a la orden del día, ésta, de acuerdo al carácter de la sesión, deberá contener entre sus puntos, los siguientes:
+El suplente del Presidente Ejecutivo de la Junta Directiva será electo en la primera sesión ordinaria de la Comisión Ejecutiva posterior a la elección del Presidente Ejecutivo y su nombramiento se hará mediante una votación de entre los Presidentes de los Consejos Ciudadanos.
 
-I. Lista de asistencia, declaratoria del Quórum y apertura de la sesión;
+En caso de renuncia del suplente se convocará a una sesión extraordinaria de la Junta Directiva, misma que designará de entre los Consejeros Presidentes de los Consejos Ciudadanos, en un plazo no mayor a treinta días, al nuevo Presidente Ejecutivo, quien terminará el periodo restante de la gestión en turno.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 186.
+
+El Presidente Ejecutivo de la Junta Directiva de los Consejos Ciudadanos, podrá solicitar licencia definitiva o en su caso temporal hasta por tres meses ininterrumpidos por causa justificada ante dicha Junta, durante su período de gestión, aplicando para ello lo señalado en el artículo anterior.
+
+Las licencias temporales solicitadas por el Presidente Ejecutivo de la Junta Directiva, se otorgarán máximo hasta en dos ocasiones durante su período de gestión en forma discontinua y no acumulativa; es decir, éstas se contabilizarán por solicitud requerida y autorizada por la Junta Directiva, mas no por el tiempo que a cada una de las mismas se haya otorgado.
+
+Fenecido el tiempo de la primera licencia temporal solicitada por el Presidente Ejecutivo de la Junta Directiva, éste se reincorporará a sus actividades debiendo pasar mínimo seis meses a partir de su regreso, en caso de requerir su segunda licencia temporal.
+
+Si el Presidente Ejecutivo de la Junta Directiva agotase sus dos licencias temporales entrará en funciones el suplente de manera definitiva.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 187.
+
+Los cargos de los integrantes de la Junta Directiva de los Consejos Ciudadanos serán honoríficos y no remunerados, con excepción del Secretario Ejecutivo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 188.
+
+El Secretario Ejecutivo de la Junta Directiva de los Consejos Ciudadanos será designado conforme a lo establecido en el artículo 181 fracción II del presente Capítulo, y tendrá las siguientes atribuciones:
+
+I. Participar en todas las sesiones de la Junta Directiva de los Consejos Ciudadanos, con voz pero sin voto y llevará un archivo de las sesiones de los Consejos Ciudadanos;
+
+II. Ser responsable, de integrar los recursos humanos de la estructura administrativa;
+
+III. Realizar las gestiones necesarias para la contratación de los servicios que en su caso se necesiten para el desempeño de sus funciones;
+
+IV. Asistir al Presidente Honorario y Presidente Ejecutivo en las sesiones de la Junta Directiva;
+
+V. Presentar a la consideración del Presidente Ejecutivo de la Junta Directiva el orden del día de las sesiones;
+
+VI. Levantar un acta sucinta, en la que se establezcan los acuerdos tomados de cada sesión de la Junta Directiva, en el formato aprobado por la Contraloría Municipal, teniendo la obligación de proporcionarlo al Consejero Secretario de cada Consejo Ciudadano;
+
+VII. Firmar junto con el Presidente Ejecutivo de la Junta Directiva, los acuerdos, actas y resoluciones de dicha Junta;
+
+VIII. Presentar a la consideración y aprobación del Presidente Ejecutivo de la Junta Directiva, el proyecto del informe anual que se presentará ante el pleno de dicha Junta, debiendo entregar copia del ejemplar autorizado a los miembros de los Consejos Ciudadanos y a los integrantes del Cabildo Municipal;
+
+IX. Formar y mantener actualizado el directorio de los Consejos Ciudadanos;
+
+X. Formar y mantener actualizado el padrón de Consejeros Ciudadanos designados por las asociaciones, cámaras, instituciones, etcétera, con documentos probatorios en los cuales se acredite el período y su representación;
+
+XI. Informar en las sesiones de la Comisión Ejecutiva, el curso que sigan los acuerdos y asuntos en general;
+
+XII. Convocar a las sesiones ordinarias, extraordinarias y solemnes de la Junta Directiva, notificando a los integrantes, por lo menos con tres días hábiles de anticipación, dándoles a conocer el lugar, día, hora y el orden del día;
+
+XIII. Recoger y computar los votos de los integrantes de la Junta Directiva, emitidos en las sesiones señaladas en la fracción anterior;
+
+XIV. Publicar la convocatoria aprobada por la Junta Directiva, para elegir al Presidente Ejecutivo de la misma, así como para los Consejeros Presidentes de los Consejos Ciudadanos, mandando a publicarla en uno de los principales diarios de circulación local y por los medios que estime convenientes, señalando lugar, día y hora, por lo menos con diez días hábiles de anticipación;
+
+XV. Llevar al día el archivo documental de la Junta Directiva, teniéndolo bajo su debido resguardo, conservación y control, con apego a lo establecido por el Capítulo del Archivo Municipal del presente Código;
+
+XVI. Mantener comunicación continúa con los organismos, asociaciones e instituciones integrantes de los Consejos Ciudadanos;
+
+XVII. Recabar copia de las actas de los Consejos Ciudadanos y notificar a la Comisión Ejecutiva los acuerdos relevantes de las sesiones de los Consejos Ciudadanos; y
+
+XVIII. Las demás que le confiera el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 189.
+
+Para su adecuado funcionamiento, la Junta Directiva de los Consejos Ciudadanos sesionará de manera ordinaria, extraordinaria y solemne.
+
+Las sesiones ordinarias se llevarán a cabo cada cuatro meses.
+
+Las sesiones extraordinarias se realizarán cuando las convoque de manera urgente el Presidente Honorario, el Presidente Ejecutivo o más del 50% de sus integrantes. Dicha solicitud deberá notificarse por escrito al Secretario Ejecutivo.
+
+Las sesiones solemnes, son aquellas en que se rinda el informe anual de actividades de los Consejos Ciudadanos a través del Presidente Ejecutivo, o se instale un nuevo Consejo Ciudadano y sus miembros deban rendir protesta ante el Presidente Honorario de cumplir y respetar la normatividad municipal.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+DE LA COMISIÓN EJECUTIVA DE LOS CONSEJOS CIUDADANOS
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 190.
+
+La Comisión Ejecutiva de los Consejos Ciudadanos es el órgano encargado de vincular a los Consejos Ciudadanos con las dependencias o entidades del Ayuntamiento, de acuerdo a la naturaleza de los temas que abordan; así como con las autoridades municipales y demás instancias de participación ciudadana del Ayuntamiento, dando seguimiento a las propuestas emanadas del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 191.
+
+Son atribuciones de la Comisión Ejecutiva de los Consejos Ciudadanos:
+
+I. Colaborar en los planes, programas y proyectos que se estén realizando en los Consejos Ciudadanos;
+
+II. Proponer reconocimientos para los Consejeros que se distingan por su espíritu de colaboración, cooperación, compromiso y responsabilidad a favor del interés social;
+
+III. Informar a la Comisión correspondiente del Cabildo por medio de la Secretaría del Ayuntamiento, los acuerdos y asuntos emanados de la Junta Directiva de los Consejos Ciudadanos y de los Consejos Ciudadanos;
+
+IV. Elaborar y presentar a la consideración de la Junta Directiva de los Consejos Ciudadanos, el proyecto de Programa anual de actividades de los Consejos Ciudadanos;
+
+V. Respaldar a los Consejos Ciudadanos en la gestión de las denuncias ciudadanas ante el Honorable Ayuntamiento;
+
+VI. Las demás que le confiera el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 192.
+
+La Comisión Ejecutiva estará integrada por:
+
+a) El Presidente Ejecutivo de la Junta Directiva de los Consejos Ciudadanos;
+
+b) El Secretario Ejecutivo de la Junta Directiva de los Consejos Ciudadanos; y
+
+c) Los Consejeros Presidentes de los Consejos Ciudadanos.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 193.
+
+La Comisión Ejecutiva para su correcto funcionamiento podrá sesionar de manera ordinaria y extraordinaria.
+
+Las sesiones ordinarias, se celebrarán una vez al mes, para dar seguimiento a los planes de trabajo de los Consejos Ciudadanos, además de tratar asuntos generales y/o comunes de los propios Consejos Ciudadanos y del Ayuntamiento. A estas sesiones deberán asistir los Consejeros Presidentes.
+
+Las sesiones extraordinarias se realizarán cuando las convoque de manera urgente el Presidente Ejecutivo o más del 50% de sus integrantes. Dicha solicitud deberá notificarse por escrito al Secretario Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+DE LAS SESIONES
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 194.
+
+Las sesiones de los Consejos Ciudadanos serán públicas y serán desahogadas por el Consejero Presidente del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 195.
+
+Las sesiones de los Consejos Ciudadanos serán públicas, con carácter de:
+
+I. Ordinarias, las cuales se celebrarán durante todo el año, por lo menos una vez al mes y su año calendario será del mes de septiembre al mes de agosto del año siguiente; y
+
+II. Extraordinarias, se celebrarán cuando las convoque de manera urgente el Consejero Presidente de cada Consejo Ciudadano o más del 50% de sus integrantes, dicha solicitud deberá notificarse por escrito al Secretario Ejecutivo de la Junta Directiva de los Consejos Ciudadanos.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+###### Artículo 196.
+
+La celebración de las sesiones de la Junta Directiva, de la Comisión Ejecutiva y de los Consejos Ciudadanos se llevará a cabo de la siguiente manera:
+
+El Secretario Ejecutivo o el Consejero Secretario del Consejo Ciudadano, pasará lista de asistencia e informará al Presidente Ejecutivo o Consejero Presidente, si existe el quórum exigido, el que se cumplirá con la presencia del 50% más uno de los miembros acreditados. En tal caso, el Presidente Ejecutivo o Consejero Presidente declarará abierta la sesión.
+
+Una vez abierta la sesión, el Secretario Ejecutivo o el Consejero Secretario dará lectura a la orden del día. De acuerdo al carácter de la sesión, deberá contener entre sus puntos, los siguientes:
+
+I. Lista de asistencia, declaratoria del quórum legal y apertura de la sesión;
 
 II. Lectura, discusión y aprobación, en su caso, del orden del día;
 
 III. Lectura y aprobación del acta de la sesión anterior;
 
-IV. Informe del Secretario Ejecutivo, de los asuntos y comunicaciones de autoridades y ocursos, de particulares existentes en su cartera, que se hubiese turnado a los Consejos Ciudadanos;
+IV. Informe del Secretario Ejecutivo o del Consejero Secretario, de los asuntos y comunicaciones de autoridades y ocursos, de particulares existentes en su cartera, que se hubiese turnado a los Consejos Ciudadanos;
 
-V. En una asamblea Plenaria, el informe anual del Presidente del Consejo de Participación Ciudadana; y
+V. Asuntos generales;
 
-VI. Asuntos generales.
+VI. Recapitulación de acuerdos tomados durante la sesión, propuesta de algunos puntos a tratar en la siguiente sesión; y
 
-La sesión solemne estará presidida por el Presidente del Consejo de Participación Ciudadana.
+VII. Cierre de sesión.
 
-Aprobado el orden del día, el Presidente del Consejo de Participación Ciudadana procederá a su desahogo.
+Aprobado el orden del día, el Presidente Ejecutivo o el Consejero Presidente procederán a su desahogo.
 
-El Presidente del Consejo de Participación será el moderador en las discusiones relativas al orden del día y concederá el uso de la palabra en el orden solicitado, a quienes la hubieren pedido. A falta de la presencia del Presidente o en caso en que éste deba ausentarse, él mismo designará a quien presida o continúe presidiendo la sesión.
-
-El Presidente del Consejo de Participación Ciudadana tendrá la obligación de cuidar el orden y tomará las medidas necesarias para que éste se implante; siendo la persona designada quien deberá cuidar el orden, para el caso de la fracción anterior.
-
-El Secretario Ejecutivo tomará nota del desarrollo de la sesión y terminada ésta, procederá a elaborar el acta correspondiente.
-
-Una vez elaborada el acta correspondiente, se dará lectura para aprobación y firma del Presidente del Consejo, Secretario y Presidentes de los Comités presentes que así lo deseen.
-
-Si pasada una hora de la señalada para el inicio de la sesión no hubiera el número suficiente de los miembros del Consejo, para integrar el Quórum legal, los presentes podrán retirarse siendo obligación del Secretario Ejecutivo levantar el acta en la que conste tal circunstancia debiendo convocar a una nueva sesión, la que se desarrollará dentro de las veinticuatro horas siguientes.
-
-###### Artículo 186.
-
-El Consejo podrá sesionar durante todo el año, y su año calendario será del mes de mayo al mes de abril del año siguiente.
-
-###### Artículo 187.
-
-En cada año se efectuará como mínimo una sesión solemne del Consejo, la que se realizará al término del año calendario o en su caso, en la fecha que para tales efectos señalen los Consejeros, la cual tendrá objeto el informe de las actividades realizadas y la clausura de las mismas.
-
-###### Artículo 188.
-
-Las Sesiones del Consejo, deberán efectuarse en los términos señalados por este capítulo, la exposición de los trabajos a presentar tendrán una duración máxima de 15 minutos, los comentarios relativos se limitarán a 3 minutos por Consejero y el ponente dispondrá de 5 minutos para contestar los comentarios.
-
-DE LOS CONSEJOS CIUDADANOS
-
-###### Artículo 189.
-
-Los Consejos Ciudadanos tendrán por objeto en su carácter de órganos de análisis, opinión, consulta; el estudio, discusión análisis a favor de la programación de la gestión social, respecto de los asuntos que les sean encomendados por el Ayuntamiento, sus dictámenes en ningún caso tendrán carácter decisorio ni ejecutivo.
-
-###### Artículo 190.
-
-Previa autorización del Cabildo Municipal, la creación de los Consejos Ciudadanos podrán ser constituidos a propuesta de:
-
-a) El Ayuntamiento;
-
-b) El Consejo Directivo; y
-
-c) A petición de cinco o más organismos e instituciones de las señaladas en el presente capítulo.
-
-###### Artículo 191.
-
-Los Consejos Ciudadanos se integran por un mínimo de diez Consejeros y un máximo de veinte Consejeros.
-
-###### Artículo 192.
-
-Los Consejos Ciudadanos se integrarán por una mesa directiva, conformada por: un Presidente, un Secretario, un Vocal de vigilancia. El Presidente de cada Consejo Ciudadano será propuesto por el Presidente del Consejo de Participación Ciudadana entre los miembros acreditados de cada Consejo Ciudadano, quienes ratificarán dicha propuesta, en caso contrario el Presidente del Consejo de Participación Ciudadana, deberá realizar una nueva propuesta. Una vez electo el Presidente del Consejo Ciudadano propondrá al Secretario y al Vocal de vigilancia.
-
-###### Artículo 193.
-
-Son facultades de los Consejos Ciudadanos las siguientes:
-
-I. Realizar estudios y proponer proyectos de planes y programas, así como medidas, sistemas y estrategias de mejoramiento con respecto a la administración Municipal, su organización, las obras y los servicios que prestan;
-
-II. Recibir y analizar las opiniones de la ciudadanía y de los distintos sectores y organizaciones, interesados en los temas municipales;
-
-III. Opinar sobre los planes, programas y proyectos que les sean presentados por la administración Municipal;
-
-IV. Coadyuvar en las tareas de asistencia social cuando así se les requiera;
-
-V. Aprobar el programa anual particular de actividades de cada Consejo Ciudadano en base al plan de Desarrollo Municipal; y
-
-VI. Las señaladas en el presente capítulo en el ámbito de su competencia.
-
-###### Artículo 194.
-
-Los Consejos Ciudadanos para cumplir con el objeto por el que fueron creados podrán integrar las comisiones que fuesen necesarias, las serán presididas por un miembro del Consejo Ciudadano. Las cuales informarán y someterán para su aprobación sus planes y programas al Consejo Ciudadano al que pertenezcan.
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
-
-###### Artículo 195.
-
-Las sesiones de los Consejos Ciudadanos serán públicas y estarán presididas por el Presidente del mismo.
-
-###### Artículo 196.
-
-Los Consejos Ciudadanos podrán llevar a cabo sesiones conjuntas con otros Consejos Ciudadanos, previo acuerdo de los presidentes de los consejos respectivos, mismos que serán presididas por alguno de los presidentes, previo acuerdo.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 197.
 
-Las Comisiones deberán desarrollar los trabajos encomendados, dentro de los plazos que al efecto se señalen.
+El Presidente Ejecutivo o el Consejero Presidente, será el moderador en las discusiones relativas al orden del día y concederá el uso de la palabra en el orden solicitado, a quienes la hubieren pedido. A falta de la presencia del Presidente Ejecutivo o Consejero Presidente o en caso en que éste deba ausentarse, él mismo designará a quien presida o continúe presidiendo la sesión.
 
-DE LAS ATRIBUCIONES DE LOS INTEGRANTES DE LA MESA DIRECTIVA DE LOS CONSEJOS CIUDADANOS
+El Presidente Ejecutivo o el Consejero Presidente tendrán la obligación de cuidar el orden y tomará las medidas necesarias para que éste se establezca; siendo la persona designada quien deberá cuidar el orden, para el caso del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 198.
 
-Para ser Presidente de un Consejo Ciudadano, se requiere tener una antigüedad mínima de un año como miembro consejero y contar con un 50% más uno del total de asistencias a las sesiones ordinarias, durante el mismo, así como ser electo en asamblea.
+El Secretario Ejecutivo o el Consejero Secretario, tomará nota del desarrollo de la sesión y terminada ésta, procederá a elaborar el acta sucinta correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 199.
 
-Son atribuciones de los presidentes de los Consejos Ciudadanos:
+La convocatoria a las sesiones, será emitida con anticipación de tres días hábiles, por el Secretario Ejecutivo o el Consejero Secretario de cada Consejo Ciudadano, en el formato aprobado por la Contraloría Municipal, quien la hará del conocimiento de los convocados, de manera fehaciente a los mismos.
 
-I. Representar al Consejo que presida ante miembros del mismo y autoridades Municipales, salvo en los casos que se designe una comisión o persona especial por parte del mismo Consejo Ciudadano, para alguna actividad específica;
+El Consejero Secretario deberá enviar copia de conocimiento a la Secretaria Ejecutiva.
 
-II. Presidir las sesiones de su Consejo Ciudadano;
-
-III. Dirigir y vigilar la realización de actividades inherentes al área de su Consejo Ciudadano y las encomendadas por el mismo;
-
-IV. Conservar el orden en las sesiones;
-
-V. Conceder el uso de la palabra a los Consejeros y pedir la votación cuando así lo requiera;
-
-VI. Dar el carácter de acuerdo, a las resoluciones que emita el Consejo Ciudadano que preside por mayoría de votos;
-
-VII. Turnar a la Comisión Ejecutiva los acuerdos, a los que se refiere la fracción anterior;
-
-VIII. Solicitar la exposición de investigaciones encargadas a los consejeros a través de las diferentes Comisiones que se establezcan;
-
-IX. Presentar un informe por escrito al presidente Consejero de Participación Ciudadana, veinte días hábiles antes de la celebración de la Asamblea Plenaria donde se presenta el informe anual de actividades del Consejo Ciudadano que preside;
-
-X. Elaborar junto con la Mesa Directiva y presentar un proyecto de programa actual de actividades que será aprobado por el Consejo Ciudadano al que pertenece; y
-
-XI. Las demás que le confieran al presente capítulo.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 200.
 
-Son atribuciones de los Secretarios de las Mesas Directivas de los Consejos Ciudadanos:
+Si pasados treinta minutos de la hora señalada para el inicio de la sesión no hubiera el número suficiente de los miembros del órgano respectivo para integrar el quórum legal, los presentes podrán retirarse siendo obligación del Secretario Ejecutivo o del Consejero Secretario, levantar el acta en la que conste tal circunstancia debiendo convocar a una nueva sesión, la que se desarrollará dentro de las setenta y dos horas siguientes o en la fecha que establezca el Presidente del órgano respectivo, la cual se celebrará con los Consejeros presentes sin necesidad del quórum.
 
-I. Auxiliar al Presidente en las actividades propias del Consejo Ciudadano;
-
-II. Verificar la transcripción y redacción de los acuerdos, minutas, circulares, actas y demás documentos elaborados;
-
-III. Estar pendiente de la aplicación del programa de reconocimientos para Consejeros más destacados; y
-
-IV. IV. (sic) Las demás que confieran en éste capítulo.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 201.
 
-Son atribuciones del Vocal de Vigilancia de la Mesa Directiva de los Consejos Ciudadanos:
+Las votaciones de acuerdos y resoluciones, se tomarán por mayoría de votos; serán abiertas y económicas en sentido afirmativo y negativo. Por acuerdo de la mayoría de sus integrantes, sus votaciones podrán ser nominales y secretas. Estas votaciones se regirán con base en los siguientes aspectos:
 
-I. Llevar cuenta de los Fondos Monetarios conseguidos en los Organismos Públicos y Privados para ser utilizados en programas y proyectos promovidos por los Consejos Ciudadanos y el H. Ayuntamiento y que de acuerdo al mismo, menciona que: podrá autorizar a los Consejos Ciudadanos la recepción de aportaciones económicas de la comunidad, para la realización de sus fines, los cuales deben apegarse a las políticas y acciones del Gobierno Municipal, y en ésta se concentrarán sus fondos, los cuales se aplicarán a la obra, acción y programas respectivos, bajo lineamientos que establezca la Tesorería Municipal.
+I. Sólo tendrán derecho a voto, los Consejeros propietarios;
 
-II. Rendir los informes que le solicite el H. Ayuntamiento, el consejo Ciudadano y órganos del mismo;
+II. Los Consejeros suplentes, sólo podrán ejercer su voto, en ausencia del Consejero Propietario, de acuerdo a lo señalado en el artículo 177 fracción VII; y
 
-III. Rendir un informe anual, sobre la aplicación y rendimiento de los recursos obtenidos; y
+III. En caso de empate, el Consejero Presidente del Consejo Ciudadano, tendrá voto de calidad.
 
-IV. Las demás que le confieran en el presente capítulo.
-
-DE LOS DERECHOS Y OBLIGACIONES DE LOS CONSEJEROS
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 202.
 
-Los consejeros durarán tres años en funciones y las licencias que tuvieren durante su cargo, serán cubiertas por sus suplentes.
+En las votaciones, el Presidente en funciones propondrá de entre los Consejeros Ciudadanos acreditados a dos escrutadores, para el conteo de votos, procediendo a enterar al Secretario para que forme los resultados.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 203.
 
-Son derechos y obligaciones de los Consejeros:
+Las sesiones de la Junta Directiva y de la Comisión Ejecutiva deberán efectuarse en los términos señalados por este Capítulo. La exposición de los trabajos a presentar tendrán una duración máxima de quince minutos, los comentarios relativos se limitarán a tres minutos por Consejero y el ponente dispondrá de cinco minutos para contestar los comentarios. No siendo así en el caso de las sesiones de los Consejos Ciudadanos, donde la extensión de las exposiciones y discusiones será abierta.
 
-I. Votar y ser votado para la integración del Consejo de Participación Ciudadana;
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
-II. Participar y cumplir con las encomiendas dadas por el Consejo Ciudadano, tanto en lo personal como en su carácter de integrantes de las comisiones;
+DE LAS FALTAS Y SANCIONES
 
-III. Asistir a las sesiones, actos y reuniones del Consejo Ciudadano del que forma parte y a cualquier otro evento al que sea invitado por el Consejo Directivo;
-
-IV. Recibir la información que requieran para el desarrollo de sus actividades;
-
-V. Solicitar licencia hasta por seis meses, la cual solamente podrá prorrogarse en caso de enfermedad o por el desempeño de algún cargo que imposibilite el cumplimiento del Consejero;
-
-VI. Renunciar a su cargo;
-
-VII. Promover actividades en beneficio de la comunidad; y
-
-VIII. Las demás que les confiera el presente capítulo.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 204.
 
-Se calificarán como faltas al presente capítulo, las siguientes:
+Se calificarán como faltas al presente Capítulo, las siguientes:
 
-I. Que los integrantes de los consejos no desarrollen los trabajos encomendados, dentro de los plazos que les hayan sido señalados;
+I. Que los integrantes de los Consejos Ciudadanos no desarrollen los trabajos encomendados por el Consejo Ciudadano al que pertenezcan, dentro de los plazos que les hayan sido señalados;
 
-II. Que se compruebe que ocultaron o proporcionaron información alguna;
+II. Que se compruebe que ocultaron o no proporcionaron alguna información;
 
-III. Hacer uso indebido de información exclusiva del Consejo;
+III. Hacer uso indebido de información reservada de la Junta Directiva de los Consejos Ciudadanos, de la Comisión Ejecutiva o de los Consejos Ciudadanos;
 
-IV. Exceder sin justificación y aprobación el término para el goce de la licencia a que se refiere la fracción V del artículo inmediato anterior;
+IV. Exceder sin justificación y aprobación el término para el goce de la licencia a que se refiere la fracción VII del artículo 177 y el artículo 186;
 
-V. La inasistencia injustificada de los integrantes de los consejos a los actos, reuniones o cualquier otro evento al que asistan en representación del Consejo; y
+V. La inasistencia injustificada de los Consejeros Ciudadanos a los actos, reuniones o cualquier otro evento al que asistan en representación del Consejo Ciudadano;
 
-VI. Realizar cualquier tipo de actividad que pudiera originar resultados similares al proselitismo político, a favor o en contra de algún partido o candidato a cargo de elección popular.
+VI. Realizar cualquier tipo de actividad que pudiera originar resultados similares al proselitismo político, a favor o en contra de algún partido o candidato a cargo de elección popular;
+
+VII. Ser proveedor, arrendatario, asesor y/o consultor del Ayuntamiento y no informarlo al pleno del Consejo Ciudadano y la Junta Directiva de los Consejos Ciudadanos por escrito; y
+
+VIII. Desempeñar cargo alguno en la actual Administración Municipal y no informarlo al Pleno del Consejo Ciudadano al que pertenezca.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 205.
 
@@ -10277,7 +10435,7 @@ DISPOSICIONES GENERALES
 
 Las disposiciones del presente Capítulo tienen por objeto implementar el cerco sanitario municipal tendiente a regular la apertura, funcionamiento y operaciones de los negocios dedicados a la venta de productos cárnicos y/o subproductos y aves muertas para consumo humano, así como su transporte, conforme a las atribuciones que corresponden en la materia al Ayuntamiento del Municipio de Puebla.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)
 
 ###### Artículo 639 Ter.
 
@@ -20797,7 +20955,7 @@ Los titulares de Permisos Publicitarios no podrán:
 
 I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-II. Instalar anuncios en los vehículos que presten el servicio de transporte de carga;
+II. Instalar anuncios en los vehículos que presten el servicio de transporte privado de carga;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20819,7 +20977,7 @@ IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. Instalar o dar mantenimiento a anuncios en vehículos de transporte privado en la vía pública; y
+X. Instalar o dar mantenimiento a anuncios en vehículos de transporte en la vía pública; y
 
 XI. Instalar anuncios con movimiento al interior o exterior del vehículo.
 
@@ -25095,7 +25253,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -35668,3 +35826,13 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 PRIMERO.- Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se deroga lo relativo a la Zona de Los Sapos del Considerando XIX del Dictamen presentado por la Comisión de Gobernación y Justicia, por el cual se autorizan como Mercados Temporales los ubicados en el Jardín de Analco, Zona de Los Sapos, Zona del Edificio Carolino y Callejón de Variedades, aprobado por el Honorable Ayuntamiento del Municipio de Puebla, el día ocho de septiembre de dos mil once y publicado en el Periódico Oficial del Estado de Puebla el cuatro de noviembre de dos mil once.
+
+P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se renovarán todos los Consejos Ciudadanos en el año 2015, en observancia al artículo 162 del Código Reglamentario para el Municipio de Puebla, y se procederá a la integración de la Junta Directiva de los Consejos Ciudadanos de conformidad con las presentes reformas.
+
+TERCERO.- Para efecto de la homologación en materia electoral los Consejeros Ciudadanos durarán en su encargo por única ocasión cuatro años seis meses.
+
+CUARTO.- Se derogan las disposiciones que se opongan a lo establecido en la presente reforma.
