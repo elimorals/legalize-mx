@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-96542"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-10-24"
-last_updated: "2013-10-24"
+last_updated: "2014-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL UNO DE MARZO DEL AÑO DOS MIL CATORCE PREVIA SU PUBLICACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL TREINTA DE SEPTIEMBRE DEL AÑO DOS MIL CATORCE, PREVIA SU PUBLICACIÓN.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -2879,7 +2879,9 @@ El Consejo de Carrera establecerá las bases, políticas y lineamientos específ
 
 ## TRANSITORIOS
 
-PRIMERO. Esta Ley entrará en vigor el uno de marzo del año dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+PRIMERO. Este Decreto entrará en vigor el treinta de septiembre del año dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Con la entrada en vigor de este Decreto se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado, publicada en el Periódico Oficial del Estado, como Decreto Legislativo 808, el seis de marzo del dos mil diez.
 
@@ -2926,3 +2928,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE FEBRERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
