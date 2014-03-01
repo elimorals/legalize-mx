@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2012-01-19"
+last_updated: "2014-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2014.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -403,11 +403,17 @@ I. Secretaría de Desarrollo Rural;
 
 II. Secretaría General de Gobierno;
 
-III. Secretaría de Medio Ambiente para el Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
 
-IV. Secretaría de Finanzas;
+III. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-V. Secretaría de Desarrollo Humano;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
+
+IV. Secretaría de Planeación, Administración y Finanzas;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
+
+V. Secretaría de Desarrollo e Integración Social;
 
 VI. Secretaría del Trabajo y Previsión Social;
 
@@ -415,7 +421,9 @@ VII. Secretaría de Salud;
 
 VIII. Secretaría de Educación;
 
-IX. Secretaría de Promoción Económica;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
+
+IX. Secretaría de Desarrollo Económico;
 
 X. El Director de la Unidad Estatal de Protección Civil; y
 
@@ -1378,5 +1386,9 @@ P.O. 2 DE OCTUBRE DE 2008.
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 19 DE ENERO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 1 DE MARZO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
