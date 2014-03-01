@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2013-07-25"
+last_updated: "2014-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -101,9 +101,9 @@ II. Secretaría: la Secretaría de Desarrollo Rural del Estado de Jalisco.
 
 Los Gobiernos Estatal y Municipal ejercerán sus atribuciones y obligaciones en materia forestal de conformidad con la distribución de competencias previstas en la Ley General de Desarrollo Forestal Sustentable, en la presente Ley y las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2014)</small>
 
-Las atribuciones de inspección y vigilancia del cumplimiento de las disposiciones de la presente ley y las demás que resulten aplicables, serán ejercidas por la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado, a través de la Procuraduría Estatal de Protección al Ambiente.
+Las atribuciones de inspección y vigilancia del cumplimiento de las disposiciones de la presente ley y las demás que resulten aplicables, serán ejercidas por la Secretaría de Medio Ambiente y Desarrollo Territorial del Estado, a través de la Procuraduría Estatal de Protección al Ambiente.
 
 ###### Artículo 7.
 
@@ -469,9 +469,11 @@ VIII. Establecer y realizar la actualización permanente del Inventario Forestal
 
 ### CAPÍTULO II. De la Educación Forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2014)</small>
+
 ###### Artículo 40.
 
-La Secretaría, en coordinación con las Secretarías de Medio Ambiente y Desarrollo Sustentable y Educación e instituciones educativas de nivel medio superior y superior, promoverá acciones tendientes a:
+La Secretaría, en coordinación con las secretarías de Medio Ambiente y Desarrollo Territorial y de Educación, y las instituciones educativas de nivel medio superior y superior, promoverá acciones tendientes a:
 
 I. La difusión de valores de respeto a los ecosistemas que permita su conservación y la formulación de una cultura forestal entre los jaliscienses;
 
@@ -643,11 +645,11 @@ La integración de los Consejos, así como los objetivos específicos de acción
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2014)</small>
 
 ###### Artículo 59.
 
-La inspección y vigilancia forestal será una responsabilidad de la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado, deberá desarrollarse de conformidad con las atribuciones que esta Ley confiere a través de la Procuraduría Estatal de Protección al Ambiente, así como los acuerdos y convenios que se celebren con la Federación.
+La inspección y vigilancia forestal será una responsabilidad de la Secretaría de Medio Ambiente y Desarrollo Territorial del Estado, deberá desarrollarse de conformidad con las atribuciones que esta ley confiere a través de la Procuraduría Estatal de Protección al Ambiente, así como los acuerdos y convenios que se celebren con la Federación.
 
 ###### Artículo 60.
 
@@ -655,19 +657,19 @@ El Gobierno del Estado, en coordinación con los Municipios y con la colaboraci�
 
 ### CAPÍTULO II. De la Denuncia Ciudadana
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2014)</small>
 
 ###### Artículo 61.
 
-Todo ciudadano deberá denunciar ante el Municipio, la Secretaría (sic), ante la Secretaría de Medio Ambiente para el Desarrollo Sustentable, ante la Procuraduría Estatal de Protección al Ambiente, ante el Ministerio Público, o ante otras autoridades, todo hecho, acto u omisión que atente contra el equilibrio ecológico o contra el ecosistema forestal, que causen daños a los recursos forestales o que contravengan las disposiciones legales relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
+Todo ciudadano deberá denunciar ante el municipio, la Secretaría, la Secretaría de Medio Ambiente y Desarrollo Territorial, la Procuraduría Estatal de Protección al ambiente, el Ministerio Público, o ante otras autoridades, todo hecho, acto u omisión que atente contra el equilibrio ecológico o contra el ecosistema forestal, que causen daños a los recursos forestales o que contravengan las disposiciones legales relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
 
 ### CAPÍTULO III. De los Operativos de Inspección y Medidas de Prevención
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2014)</small>
 
 ###### Artículo 62.
 
-De conformidad con las atribuciones que esta Ley confiere y los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá a través de la Procuraduría Estatal de Protección al Ambiente, de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, llevar a cabo los operativos de inspección y las medidas de prevención necesarias para la efectiva aplicación de las disposiciones legales.
+De conformidad con las atribuciones que esta ley confiere y los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá, a través de la Procuraduría Estatal de Protección al ambiente de la Secretaría de Medio Ambiente y Desarrollo Territorial, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, llevar a cabo los operativos de inspección y las medidas de prevención necesarias para la efectiva aplicación de las disposiciones legales.
 
 ### CAPÍTULO IV. De las Infracciones
 
@@ -677,11 +679,11 @@ Se consideran infracciones a esta Ley las que se realicen contra lo establecido 
 
 ### CAPÍTULO V. De las Sanciones
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2014)</small>
 
 ###### Artículo 64.
 
-De conformidad con las atribuciones que esta Ley confiere y los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá a través de la procuraduría Estatal de Protección al Ambiente de la Secretaría de Medio Ambiente y Desarrollo Sustentable, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, imponer las sanciones para la efectiva aplicación de esta Ley.
+De conformidad con las atribuciones que ésta ley confiere y los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá, a través de la Procuraduría Estatal de Protección al Ambiente de la Secretaría de Medio Ambiente y Desarrollo Territorial, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, imponer las sanciones para la efectiva aplicación de esa ley.
 
 ### CAPÍTULO VI. De los Recursos
 
@@ -776,5 +778,9 @@ P.O. 20 DE OCTUBRE DE 2007.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 25 DE JULIO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 1 DE MARZO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
