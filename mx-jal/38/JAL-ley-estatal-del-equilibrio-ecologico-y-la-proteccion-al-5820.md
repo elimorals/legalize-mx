@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2013-12-03"
+last_updated: "2014-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -103,9 +103,9 @@ XV. Fragilidad ambiental: Condición actual de un ecosistema, parte de él o de 
 
 XVI. Gestión ambiental: Conjunto de acciones orientadas a lograr la sustentabilidad en los procesos de defensa, protección y mejora ambiental;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
 
-XVII. Secretaría: Secretaría de Medio Ambiente para el Desarrollo Sustentable;
+XVII. Secretaría: Secretaría de Medio Ambiente y Desarrollo Territorial;
 
 XVIII. Información ambiental: Se considera a cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades estatales y municipales, en materia ambiental, de agua, aire, suelo, flora, fauna y recursos naturales en general, así como de las actividades o medidas que les afectan o pueden afectarles;
 
@@ -159,9 +159,9 @@ XXX. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así co
 
 XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
 
-XXXII. Procuraduría: Órgano desconcentrado de la Secretaria de Medio Ambiente para el Desarrollo Sustentable, denominado Procuraduría Estatal de Protección al Ambiente; (sic)
+XXXII. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial; (sic)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -371,7 +371,7 @@ VIII. Formular y expedir las declaratorias correspondientes para la creación de
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
-IX. Formular y promover programas para la disminución y reciclado de. residuos sólidos urbanos;
+IX. Formular y promover programas para la disminución y reciclado de residuos sólidos urbanos;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
@@ -2394,3 +2394,7 @@ P.O. 9 DE DICIEMBRE DE 2010.
 P.O. 3 DE DICIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 1 DE MARZO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
