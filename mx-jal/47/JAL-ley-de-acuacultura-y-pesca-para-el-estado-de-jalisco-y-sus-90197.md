@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acuacultura-y-pesca-para-el-estado-de-jalisco-y-sus-9019
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-17"
-last_updated: "2012-11-17"
+last_updated: "2014-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2014.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre de 2012.
 
@@ -295,9 +295,11 @@ Las secretarías, dependencias, organismos y entidades que por razón de materia
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA EL DESARROLLO SUSTENTABLE ACUÍCOLA Y PESQUERO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2014)</small>
+
 ###### Artículo 13.
 
-El Programa Estatal para el Desarrollo Sustentable Acuícola y Pesquero, deberá emitirse por parte de la Secretaría, en congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y el Programa Nacional de Pesca y Acuacultura, y será autorizado por el Ejecutivo del Estado, previo análisis de las Secretarías de Planeación y de Medio Ambiente para el Desarrollo Sustentable del Estado.
+El Programa Estatal para el desarrollo sustentable Acuícola y Pesquero, deberá emitirse por parte de la Secretaría, en congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y el Programa Nacional de Pesca y Acuacultura, y será autorizado por el Ejecutivo del Estado, previo análisis de las secretarías de Planeación, Administración y Finanzas y de Medio Ambiente y Desarrollo Territorial del Estado.
 
 El Programa Estatal para el Desarrollo Sustentable Acuícola y Pesquero deberá comprender:
 
@@ -629,9 +631,11 @@ V. Las normas aplicables en materia de preservación, protección, aprovechamien
 
 VI. La demás información que se determine en el reglamento de la presente ley.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2014)</small>
+
 ###### Artículo 44.
 
-La Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Medio Ambiente y Desarrollo Sustentable y el Instituto de Información Territorial del Estado de Jalisco, participarán en la revisión del proyecto de la Carta Estatal Acuícola y Pesquera y emitirán el dictamen técnico correspondiente, para lo cual contarán con un plazo de treinta días hábiles contados a partir del día en que les sea entregado el proyecto, pudiendo solicitar información adicional si así lo requieren y emitir, en su caso, las observaciones y recomendaciones que se consideren pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por el Instituto en la formulación del documento definitivo.
+La Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Medio Ambiente y Desarrollo Territorial y el Instituto de Información Territorial del Estado de Jalisco, participarán en la revisión del proyecto de la Carta Estatal Acuícola y Pesquera y emitirán el dictamen técnico correspondiente, para lo cual contarán con un plazo de treinta días hábiles contados a partir del día en que les sea entregado el proyecto, pudiendo solicitar información adicional si así lo requieren y emitir, en su caso, las observaciones y recomendaciones que se consideren pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por el Instituto en la formulación del documento definitivo.
 
 ## TÍTULO V. INSTRUMENTOS DE LA POLÍTICA PESQUERA
 
@@ -2080,3 +2084,9 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE MARZO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
