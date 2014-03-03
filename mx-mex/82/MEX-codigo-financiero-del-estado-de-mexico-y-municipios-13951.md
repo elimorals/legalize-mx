@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2014-01-01"
+last_updated: "2014-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
 
-> <small>N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2014, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO Y PUBLICADA EN LA G.G. DE 1 DE ENERO DE 2014.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 3 DE MARZO DE 2014.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1609,9 +1609,9 @@ Las personas físicas y jurídico colectivas que estén obligadas a determinar e
 
 I. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado a más de 200 trabajadores en promedio mensual.
 
-II. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado superiores a $400,000.00 en promedio mensual.
+II. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado superiores a $400.000.00 en promedio mensual.
 
-III. Las que se encuentren obligadas a retener y enterar dicho impuesto en términos del presente Código, que hayan contratado servicios que generen la prestación de trabajo personal dentro del territorio del Estado por más de 200 trabajadores o cuando la base para la determinación de dicha retención haya sido superior a $400,000.00, en promedio mensual.
+III. Las que se encuentren obligadas a retener y enterar dicho impuesto en términos del presente Código, que hayan contratado servicios que generen la prestación de trabajo personal dentro del territorio del Estado por más de 200 trabajadores o cuando la base para la determinación de dicha retención haya sido superior a $400.000.00, en promedio mensual.
 
 IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
@@ -2705,9 +2705,9 @@ Están obligadas a retener y enterar este impuesto, las personas físicas y jur�
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008) (F. DE E., G.G. 3 DE MARZO DE 2014)
 
-Cuando para la determinación de la retención del impuesto se desconozca el monto de las remuneraciones al trabajo personal realizadas por el contribuyente de que se trate, la retención deberá determinarse aplicando la tasa del 2.5% al valor total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda, sin incluir el Impuesto al Valor Agregado e independientemente de la denominación con que se designen.
+Cuando para la determinación de la retención del impuesto se desconozca el monto de las remuneraciones al trabajo personal realizadas por el contribuyente de que se trate, la retención deberá determinarse aplicando la tasa del 3.0% al valor total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda, sin incluir el Impuesto al Valor Agregado e independientemente de la denominación con que se designen.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -5129,7 +5129,9 @@ IV. Por la certificación para la comercialización y/o instalación de sistemas
 
 V. Por la renovación anual de la certificación para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones. $1,367
 
-El Ejecutivo, a través de la Secretaría del Medio Ambiente, emitirá semestralmente, por los servicios de verificación vehicular que presten los centros especializados autorizados verificentros relacionados con el Programa de Verificación Vehicular Obligatoria sobre Emisiones de Contaminantes de Vehículos Automotores, las tarifas aplicables a estos servicios, que deberán pagarse dependiendo del tipo de constancia que se trate, considerando el uso intensivo o particular del vehículo, dentro de los términos y plazos que se señalen al respecto, en el marco de dicho programa para la entidad, y que se publicarán en el Periódico Oficial "Gaceta del Gobierno".
+> <small>(F. DE E., G.G. 3 DE MARZO DE 2014)</small>
+
+El Ejecutivo, a través de la Secretaría del Medio Ambiente, emitirá semestralmente, por los servicios de verificación vehicular que presten los centros especializados autorizados verificentros relacionados con el Programa de Verificación Vehicular Obligatoria sobre Emisiones de Contaminantes de Vehículos Automotores, las tarifas aplicables a estos servicios, que deberán pagarse dependiendo del tipo de constancia que se trate, considerando el uso intensivo o particular del vehículo, dentro de los términos y plazos que se señalen al respecto, en el marco de dicho programa para la entidad, y que se publicarán en el Periódico Oficial "Gaceta del Gobierno". El 10% de lo que se obtenga del pago de dichas tarifas será destinado al Fondo Estatal de Cambio Climático, debiendo la Secretaría de Finanzas hacer los depósitos correspondientes dentro de los 10 días hábiles del mes siguiente en el que se generaron.
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -5890,6 +5892,10 @@ l. Funcionamiento de emisiones a la atmósfera. $724
 II. Generador de residuos de manejo especial. $543
 
 III. Quema de materiales a cielo abierto. $965
+
+> <small>(F. DE E., G.G. 3 DE MARZO DE 2014)</small>
+
+Los recursos recaudados del cobro de los derechos previstos en las fracciones I y III del presente artículo, se destinarán al Fondo Estatal de Cambio Climático.
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -8879,9 +8885,9 @@ nacimiento de recién nacidos,
 
 hasta cumplido un año. Exento
 
-> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013) (F. DE E., G.G. 3 DE MARZO DE 2014)
 
-II. Asentamiento de actas de los registros extemporáneos de nacimiento de personas mayores de un año, pero menores de sesenta, y por cada año omiso.
+II. Asentamiento de actas de los registros extemporáneos de nacimiento de personas mayores de un año, pero menores de sesenta, y por cada año omiso. 0.17
 
 Por el asentamiento de actas de los registros extemporáneos de nacimiento de personas de 60 años en adelante, sujetos al Programa Permanente para el Registro de Nacimiento de Adultos Mayores. Exento
 
