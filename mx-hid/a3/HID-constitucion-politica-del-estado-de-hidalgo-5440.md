@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2014-02-24"
+last_updated: "2014-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,11 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2014.
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ABRIL DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 3 DE MARZO DE 2014.</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1847,41 +1851,33 @@ Para ser magistrado del Poder Judicial, se requiere:
 
 I. Ser ciudadano mexicano por nacimiento e hidalguense, en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2014)</small>
 
-II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
+II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2014)</small>
 
-III. Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado expedido por la Autoridad o Corporación legalmente facultada para ello;
+III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente facultada para ello;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trate de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2014)</small>
 
-V. Haber residido en el País durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses;
+V. Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2014)</small>
 
-VI. No ser ministro de algún culto religioso;
+VI. No haber sido titular de alguna Dependencia de la Administración Pública del Estado, Procurador General de Justicia del Estado, Senador, Diputado Federal, Diputado Local, ni Gobernador del Estado, durante el año previo al día de su nombramiento.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 1998)</small>
+VII. (DEROGADA, P.O. 3 DE MARZO DE 2014)
 
-VII. No desempeñar ni haber desempeñado cargo de elección popular en los últimos seis años;
+VIII. (DEROGADA, P.O. 3 DE MARZO DE 2014)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 1998)</small>
+IX. (DEROGADA, P.O. 3 DE MARZO DE 2014)
 
-VIII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal de algún partido político en los últimos seis años y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 1998)</small>
-
-IX. Contar con credencial para votar con fotografía.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MAYO DE 1998)</small>
-
-Lo previsto en las fracciones VII, VIII y IX, no será aplicable a los magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 3 DE MARZO DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -2739,11 +2735,11 @@ Para los efectos de la responsabilidad se reputarán como servidores públicos a
 
 El Gobernador del Estado, será responsable por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales que de ésta emanen, por traición a los intereses del Estado, por delitos graves del orden común, así como por el manejo indebido de fondos y recursos de esta Entidad Federativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012) (F. DE E., P.O. 3 DE MARZO DE 2014)
 
 ###### Artículo 150.
 
-Serán sujetos de juicio político: las Diputadas y los Diputados al Congreso Local, las y los titulares de la Administración Municipal, las y los Síndicos Procuradores, las Regidoras y los Regidores, las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, las Secretarías y los Secretarios del despacho del Poder Ejecutivo, la o el titular de la Procuraduría General de Justicia, así como de la Subprocuraduría de Asuntos Electorales y quienes tengan a su cargo las Coordinaciones creadas por el Ejecutivo, la Consejera o el Consejero Presidente, las y (sic) Consejeras y los Consejeros Electorales y quien tenga la titularidad de la Secretaría Ejecutiva del Instituto Estatal Electoral, las y los directores generales o sus equivalentes de los organismos públicos autónomos y descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta Entidad Federativa, las y los titulares de los juzgados de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la Comisión de los delitos del orden común y de las violaciones graves a derechos humanos que se cometan durante su gestión.
+Serán sujetos de juicio político: las Diputadas y los Diputados al Congreso Local, el Auditor Superior, las y los titulares de la administración municipal, las y los Síndicos Procuradores, las Regidoras y los Regidores, las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, las Secretarias y los Secretarios del despacho del Poder Ejecutivo, la o el titular de la Procuraduría General de Justicia, así como de la Subprocuraduría de Asuntos Electorales y quienes tengan a su cargo las Coordinaciones creadas por el Ejecutivo, la Consejera o el Consejero Presidente, las y (sic) Consejeras y los Consejeros Electorales y quien tenga la titularidad de la Secretaría Ejecutiva del Instituto Estatal Electoral, las y los directores generales o sus equivalentes de los organismos públicos autónomos y descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta entidad federativa, las y los titulares de los juzgados de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la Comisión de los delitos del orden común y de las violaciones graves a derechos humanos que se cometan durante su gestión.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -3594,5 +3590,9 @@ P.O. 2 DE SEPTIEMBRE DE 2013.
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 P.O. 24 DE FEBRERO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE MARZO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
