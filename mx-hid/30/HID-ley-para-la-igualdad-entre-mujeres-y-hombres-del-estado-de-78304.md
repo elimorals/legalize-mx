@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2013-09-02"
+last_updated: "2014-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE MARZO DE 2014.</small>
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -561,9 +561,9 @@ IV.- Efectuar campañas sobre la importancia de la equidad de género y el respe
 
 ### CAPÍTULO SÉPTIMO. DE LA IGUALDAD EN LOS PUEBLOS Y COMUNIDADES INDÍGENAS ENTRE MUJERES Y HOMBRES
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013) (F. DE E., P.O. 3 DE MARZO DE 2014)
 
-ARTÍCULO 35 BIS (SIC).- Serán objetivos de la Política de Igualdad en material (sic) de Pueblos y Comunidades Indígenas.
+ARTÍCULO 34 BIS.- Serán objetivos de la Política de Igualdad en material (sic) de Pueblos y Comunidades Indígenas.
 
 I.- Garantizar los derechos de las mujeres indígenas en condiciones de equidad para garantizar su participación active (sic) y directa en la toma de decisiones relacionadas con la vida comunitaria;
 
@@ -573,9 +573,9 @@ III.- Eliminar el tratado diferenciado en los pueblos y comunidades indígenas q
 
 IV.- Garantizar el acceso a bienes y servicios en igualdad de oportunidades.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013) (F. DE E., P.O. 3 DE MARZO DE 2014)
 
-ARTÍCULO 35 TER (SIC).- Para los efectos de lo previsto en el Artículo anterior, la Administración Pública Estatal desarrollará las siguientes acciones:
+ARTÍCULO 34 TER.- Para los efectos de lo previsto en el Artículo anterior, la Administración Pública Estatal desarrollará las siguientes acciones:
 
 I.- Asegurar que los miembros de los pueblos y comunidades indígenas gocen en pie de igualdad, los derechos y oportunidades que la legislación les otorga;
 
