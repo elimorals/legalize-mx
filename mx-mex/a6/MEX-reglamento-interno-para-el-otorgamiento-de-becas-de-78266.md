@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-para-el-otorgamiento-de-becas-de-78266"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-03"
-last_updated: "2011-01-03"
+last_updated: "2014-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO PARA EL OTORGAMIENTO DE BECAS DE CAPACITACION Y DESARROLLO PARA SERVIDORES PUBLICOS DEL COMITE DE INSTALACIONES EDUCATIVAS DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO PARA EL OTORGAMIENTO DE BECAS DE CAPACITACION Y DESARROLLO PARA SERVIDORES PUBLICOS DEL COMITE DE INSTALACIONES EDUCATIVAS DEL ESTADO DE MEXICO
+REGLAMENTO INTERNO PARA EL OTORGAMIENTO DE BECAS DE CAPACITACIÓN Y DESARROLLO PARA SERVIDORES PÚBLICOS DEL COMITÉ DE INSTALACIONES EDUCATIVAS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO PARA EL OTORGAMIENTO DE BECAS DE CAPACITACIÓN Y DESARROLLO PARA SERVIDORES PÚBLICOS DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, PUBLICADO EN LA G.G. DE 3 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 3 de enero de 2011.
 
@@ -370,3 +372,15 @@ ARQ. EDUARDO HERNÁNDEZ PARDO
 DIRECTOR DEL COMITÉ DE INSTALACIONES EDUCATIVAS DEL ESTADO DE MÉXICO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 3 DE MARZO DE 2014.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO. Se abroga el Reglamento Interno para el Otorgamiento de Becas de Capacitación y Desarrollo para Servidores Públicos del Comité de Instalaciones Educativas del Estado de México, publicado en el Periódico Oficial Gaceta del Gobierno, el tres de enero de dos mil once.
+
+CUARTO. El Comité Dictaminador, será el encargado de resolver las dudas que se susciten con motivo de la aplicación del presente Reglamento.
