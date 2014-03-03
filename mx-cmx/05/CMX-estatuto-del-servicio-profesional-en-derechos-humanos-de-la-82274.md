@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-de-la-822
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-07-28"
-last_updated: "2012-11-16"
+last_updated: "2014-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82274&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2011-06-23"
 
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO 6/2014 Y EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS Y DEL PERSONAL ADMINISTRATIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL; PUBLICADOS EN LA G.O. DE 3 DE MARZO DE 2014, SE APRUEBA ABROGAR EL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL, EXCEPTO EL INSTRUMENTO DENOMINADO METODOLOGÍA PARA LA GESTIÓN DEL DESEMPEÑO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MARZO DE 2014 (ABROGADO, EXCEPTO EL INSTRUMENTO DENOMINADO METODOLOGÍA PARA LA GESTIÓN DEL DESEMPEÑO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de julio de 2011.
 
@@ -2406,7 +2408,7 @@ V. La firma autógrafa de la o el recurrente.
 
 ###### Artículo 260º.
 
-Si el escrito presentado no señalara la fecha en que fue notificada la resolución administrativa que se impugna; o bien, fuese obscuro o irregular al señalar los agravios o la determinación del alcance de las pruebas que presente, la instancia competente encargada de conocer del recurso, dentro del término establecido en el presente Estatuto, deberá señalar con toda precisión en qué consisten los defectos del escrito de mérito, y deberá prevenir al promovente para que subsane las deficiencias señaladas, quien deberá cumplir con éstas en el plazo de 3 días, que serán computados a partir del día siguiente en que se realice la notificación, apercibéndosele que de no hacerlo, se tendrá por no presentado el escrito de referencia.
+Si el escrito presentado no señalara la fecha en que fue notificada la resolución administrativa que se impugna; o bien, fuese obscuro o irregular al señalar los agravios o la determinación del alcance de las pruebas que presente, la instancia competente encargada de conocer del recurso, dentro del término establecido en el presente Estatuto, deberá señalar con toda precisión en qué consisten los defectos del escrito de mérito, y deberá prevenir al promovente para que subsane las deficiencias señaladas, quien deberá cumplir con éstas en el plazo de 3 días, que serán computados a partir del día siguiente en que se realice la notificación, apercibéndosele (sic) que de no hacerlo, se tendrá por no presentado el escrito de referencia.
 
 ###### Artículo 261º.
 
@@ -2487,3 +2489,21 @@ México, Distrito Federal a 23 de junio de 2011.
 G.O. 16 DE NOVIEMBRE DE 2012.
 
 UNICO. A fin de garantizar la continuidad en el servicio que presta la Comisión respecto de los puestos vacantes que se sujetarán al próximo concurso de oposición, el criterio aprobado para la ampliación del plazo máximo para el otorgamiento de nombramientos eventuales a que hace referencia la reforma del artículo 44º del Estatuto, se podrá aplicar por única ocasión a los casos en los que, previo a la vigencia de la presente reforma hayan completado un plazo de dos años con nombramiento eventual.
+
+G.O. 3 DE MARZO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor al siguiente día hábil de su publicación en la Gaceta Oficial del Distrito Federal, abrogando el Estatuto del Servicio Profesional en Derechos Humanos publicado en la Gaceta Oficial del Distrito Federal de fecha 28 de Julio de 2011, excepto el instrumento denominado Metodología para la Gestión del Desempeño, derogando las disposiciones normativas internas que lo contravengan.
+
+###### ARTÍCULO SEGUNDO.
+
+Hasta en tanto no entre en vigor el presente Estatuto, subsistirá en sus términos el Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos del Distrito Federal, publicado el 28 de Julio de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos y procesos generales que se hayan iniciado conforme a las disposiciones del Estatuto que se abroga se sustanciarán hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+###### ARTÍCULO CUARTO.
+
+La adecuación y creación de la normativa interna que derive de la entrada en vigor del presente Estatuto, deberá presentarse para su aprobación ante el Consejo de la Comisión, dentro del término de ciento ochenta días naturales posteriores a la publicación en la Gaceta Oficial del Distrito Federal.
