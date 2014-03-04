@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2014-01-16"
+last_updated: "2014-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 16 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2014.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -659,19 +657,23 @@ El presidente de la Mesa Directiva al recibir la documentación de la constituci
 
 Los grupos parlamentarios dispondrán de locales adecuados, así como de recursos humanos, financieros y materiales necesarios para el cumplimiento de sus funciones de acuerdo a su representación proporcional y de las posibilidades del presupuesto del Congreso.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2014)</small>
+
 ###### Artículo 63.
 
-Los recursos financieros que se asignen a los grupos parlamentarios se otorgarán conforme al calendario aprobado en el presupuesto de egresos del Congreso, mismos que deberán comprobarse.
+Los recursos financieros que se asignen a los grupos parlamentarios se otorgarán conforme al calendario aprobado en el presupuesto de egresos del Congreso.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2014)</small>
 
 ###### Artículo 64.
 
-Los grupos parlamentarios están obligados a destinar los recursos que se les otorgan exclusivamente para el cumplimiento de sus funciones, y deberán rendir un informe dentro de los veinte días posteriores al trimestre que corresponda, exhibiendo la documentación correspondiente de su aplicación y correcto manejo a la Comisión de Hacienda, Cuenta Pública y Presupuesto, a efecto de integrarse a la Cuenta Pública del Congreso.
+Los grupos parlamentarios están obligados a destinar los recursos que se les otorgan exclusivamente para el cumplimiento de sus funciones.
 
 ### CAPÍTULO VI. COMISIONES LEGISLATIVAS
 
 ###### Artículo 65.
 
-La falta del informe a que se refiere el artículo anterior dará lugar a la suspensión del presupuesto siguiente hasta en tanto no se subsane la omisión.
+(DEROGADO, P.O. 4 DE MARZO DE 2014)
 
 ### CAPÍTULO ÚNICO. ESTRUCTURA TÉCNICA Y ADMINISTRATIVA DEL CONGRESO
 
@@ -761,9 +763,11 @@ Las comisiones ordinarias serán presididas por una junta directiva en los cargo
 
 La coordinación de cada Grupo Parlamentario, podrá acreditar a cualquiera de sus integrantes para que asista con voz a cada reunión que se programe, esto con independencia del derecho que le asiste a cada diputado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2014)</small>
+
 ###### Artículo 71.
 
-La competencia de las comisiones ordinarias se derivará de su propia denominación y ámbito definidos por el reglamento. Su funcionamiento será colegiado, deberá contar con más de la mitad de sus integrantes para sesionar válidamente y sus resoluciones se tomarán por mayoría de votos.
+La competencia de las comisiones ordinarias se derivará de su propia denominación y ámbito definidos por el reglamento. Su funcionamiento será colegiado, deberá contar con más de la mitad de sus integrantes para sesionar válidamente y sus resoluciones se tomarán por mayoría de votos, mediante sistemas de votación económica o electrónica.
 
 Las sesiones de las comisiones serán públicas, a menos que sus miembros en algún caso resuelvan por mayoría lo contrario. Así mismo y cuando así lo determinen sus integrantes, podrán celebrar reuniones de consulta o información, foros, o audiencias, mediante invitación expresa, a grupos, sectores, organizaciones sociales, o servidores públicos que se estime pertinente y dado su conocimiento y experiencia, permitan ampliar o aclarar los criterios de la comisión.
 
@@ -1133,7 +1137,9 @@ III. Las sesiones plenarias constituyen el espacio donde converge la manifestaci
 
 IV. Al área de la sala de sesiones destinada a la ubicación de los diputados, únicamente podrán tener acceso el personal del Congreso autorizado, y los medios de comunicación previamente acreditados por la Coordinación de Comunicación Social;
 
-V. En períodos ordinarios deberán celebrarse cuando menos dos sesiones a la semana, preferentemente martes y jueves;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2014)</small>
+
+V. En períodos ordinarios se celebrarán cuando menos dos sesiones a la semana, preferentemente martes y jueves, salvo que la Comisión de Gobierno y la Presidencia de la Mesa Directiva emitan acuerdo de trámite que establezca un intervalo mayor a una semana entre una sesión y otra;
 
 VI. El número y periodicidad de las sesiones en un período extraordinario, se resolverá por la Comisión de Gobierno en función de los asuntos a desahogar;
 
@@ -1560,3 +1566,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 25 DE DICIEMBRE DE 2013.
 
 Artículo Único.- El presente Decreto entrará en vigor el primero de enero del año dos mil catorce, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE MARZO DE 2014.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
