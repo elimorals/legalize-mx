@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2014-01-16"
+last_updated: "2014-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 16 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2014.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -1387,15 +1385,23 @@ I.- Disposiciones generales:
 
 a) Declarar el inicio y clausura de la reunión tocando el timbre;
 
-b) En ausencia del secretario instruir a alguno de los miembros de la junta directiva para que realice el pase de lista correspondiente y verifique la existencia del quórum;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2014)</small>
+
+b) Ordenar abrir el sistema electrónico de registro de asistencia o en su caso, instruir a alguno de los integrantes de la junta directiva para que realice el pase de lista correspondiente a efecto de verificar la existencia del quórum;
 
 c) Se comunicará a los integrantes en su caso, de las acreditaciones de diputados para participar en la reunión con voz pero sin voto;
 
-d) Se dará cuenta del contenido del orden del día y se someterá a su aprobación;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2014)</small>
 
-e) Declarar abierto y cerrado según corresponda el registro de oradores;
+d) Se dará cuenta del contenido del orden del día y se someterá a su aprobación, procediendo a su desahogo correspondiente;
 
-f) Atendiendo a su propia naturaleza, y disposición expresa, desahogo de los puntos contenidos en el orden del día;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2014)</small>
+
+e) Declarar abierto y cerrado según corresponda el registro de oradores, y
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2014)</small>
+
+f) Según corresponda, declarar abierto y cerrado el sistema de votación electrónica, hasta por un máximo de 3 minutos.
 
 II.- Disposiciones específicas:
 
@@ -1409,7 +1415,9 @@ d) A la conclusión del turno se podrán registrar participaciones para rectific
 
 e) A criterio de la presidencia, el autor, o representante acreditado podrá intervenir las veces que considere necesario;
 
-f) Agotado el registro de oradores en lo general y en la vertiente de rectificación de hechos o alusiones personales, el presidente someterá a votación el asunto de que se trate, y de inmediato si es el caso, abrirá la discusión y votación en lo particular, sujetándose en lo conducente a las reglas aplicables a la discusión plenaria;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2014)</small>
+
+f) Agotado el registro de oradores en lo general y en la vertiente de rectificación de hechos o alusiones personales, el presidente someterá a votación el asunto de que se trate mediante sistema de votación económica o electrónica, y de inmediato si es el caso, abrirá la discusión y votación en lo particular, sujetándose en lo conducente a las reglas aplicables a la discusión plenaria;
 
 g) Cuando por la naturaleza del asunto se amerite un formato distinto para la discusión, la Comisión previamente acordará por mayoría lo conducente;
 
@@ -1427,7 +1435,7 @@ III. Las Comisiones Legislativas en ejercicio de sus atribuciones, podrán emiti
 
 a) Prórroga para la presentación del dictamen de iniciativas turnadas a su estudio;
 
-b) Prórroga para la presentación del (sic) los informes de Avance de Gestión Financiera y/o de las Cuentas Públicas;
+b) (DEROGADO, P.O. 4 DE MARZO DE 2014)
 
 c) Solicitudes de información a los Poderes Ejecutivo, Judicial y Ayuntamientos, relativa a iniciativas por dictaminar;
 
@@ -1525,9 +1533,11 @@ Las sesiones comenzarán preferentemente a las once horas. En un sólo día no p
 
 El presidente del Congreso, al iniciar o concluir los trabajos, manifestará: "se abre la sesión" o "se clausura la sesión", respectivamente, haciendo sonar el timbre oficial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2014)</small>
+
 ###### Artículo 77.
 
-A la hora en que una sesión deba dar principio a (sic) secretaría procederá a pasar lista de asistencia, y si al término de ésta no hubiere quórum, se aplazará el inicio por treinta minutos hasta en dos ocasiones. Si no se completare el quórum en el tercer pase de lista, se declarará que por esta razón no se celebra y se citará para otra sesión, levantándose para todos los casos, la minuta donde conste el nombre de los diputados ausentes para los efectos que legalmente correspondan.
+A la hora en que una sesión deba dar principio, la Presidencia ordenará abrir el sistema electrónico para el registro de asistencia hasta por 5 minutos o en su caso, ordenará a la secretaría para que proceda a pasar lista de asistencia, y si al término no hubiere quórum, se aplazará el inicio por treinta minutos hasta en dos ocasiones. Si no se completare el quórum en el tercer registro de asistencia, se declarará que por esta razón no se celebra y se citará para otra sesión, levantándose para todos los casos, la minuta donde conste el nombre de los diputados ausentes para los efectos que legalmente correspondan.
 
 Se exceptuarán los casos en que, previamente y con oportunidad, el presidente de la Mesa Directiva comunique que habrá demora o cambio de fecha por causa inherente a la preparación de los trabajos legislativos.
 
@@ -2353,9 +2363,11 @@ Cuando una ley o decreto fueren devueltos por el titular del Poder Ejecutivo del
 
 #### Sección Décima. Diario de los Debates
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2014)</small>
+
 ###### Artículo 142.
 
-Con el objeto de asegurar la memoria del trabajo legislativo, así como la difusión del mismo, el Congreso contará con un diario de los debates a cargo de la Coordinación de Crónica Parlamentaria, en el cual deberán asentarse íntegramente: la fecha y tipo de sesión, los nombres de los integrantes de la Mesa Directiva, la lista de asistentes, el orden del día, el acta anterior, la versión de las discusiones y sus resultados, así como los documentos a los que se dé lectura y las resoluciones que se tomen.
+Con el objeto de asegurar la memoria del trabajo legislativo, así como la difusión del mismo, el Congreso contará con un diario de los debates a cargo de la Coordinación de Registro Documental y Estadística Parlamentaria, en el cual deberán asentarse íntegramente: la fecha y tipo de sesión, los nombres de los integrantes de la Mesa Directiva, la lista de asistentes, el orden del día, el acta anterior, la versión de las discusiones y sus resultados, así como los documentos a los que se dé lectura y las resoluciones que se tomen.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
@@ -2503,13 +2515,11 @@ Toda actuación electrónica se deberá respaldar y archivar electrónicamente p
 
 Cuando derivado del uso de una actuación electrónica no pueda visualizarse el documento electrónico por algún problema técnico atribuible al emisor, el destinatario lo hará de su conocimiento para que se entregue la información mediante documento impreso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2014)</small>
 
 ###### Artículo 154.
 
-Los Diputados para el desarrollo de las sesiones contarán con dispositivos tecnológicos que les permita recibir y transmitir información en tiempo real, así como de un dispositivo de votación y asistencia electrónica, al igual que de audio en su curul, entre otros dispositivos, con el fin de optimizar recursos y tiempo en la labor legislativa y parlamentaria.
+Los Diputados para el desarrollo de las sesiones plenarias, reuniones de la Diputación Permanente o de comisiones legislativas contarán con dispositivos tecnológicos que les permita recibir y transmitir información en tiempo real, así como de dispositivos de votación y asistencia electrónica, al igual que de audio en su curul, entre otros dispositivos, con el fin de optimizar recursos y tiempo en la labor legislativa y parlamentaria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
@@ -3969,9 +3979,9 @@ I. Formular el programa anual de control y de auditoría de la Cámara, someterl
 
 II. Diseñar, implantar y supervisar la operación del sistema de control y evaluación de las unidades administrativas de la Cámara;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2014)</small>
 
-III. Coordinar la integración del Programa Operativo Anual del Congreso, instrumentando las acciones conducentes para su control y evaluación y asimismo, verificar que las dependencias administrativas cumplan con su contenido, así como con los acuerdos, normas, políticas y procedimientos aprobados por la Comisión de Gobierno.
+III. Coordinar la evaluación del Programa Operativo Anual del Congreso, instrumentando las acciones conducentes para su control y verificar que las dependencias administrativas cumplan con su contenido, así como con los acuerdos, normas, políticas y procedimientos aprobados por la Comisión de Gobierno.
 
 IV. Coadyuvar con la Comisión de Hacienda, Cuenta Pública y Presupuesto en los procedimientos que se establezcan para la revisión de la Cuenta Pública;
 
@@ -4538,3 +4548,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 25 DE DICIEMBRE DE 2013.
 
 Artículo Único.- El presente Decreto entrará en vigor el primero de enero del año dos mil catorce, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE MARZO DE 2014.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
