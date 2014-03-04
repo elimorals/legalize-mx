@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-auditoria-superior-del-estado-de-7038
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-14"
-last_updated: "2010-03-16"
+last_updated: "2014-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE TAMAULIPAS
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO, PUBLICADO EN EL P.O. DE 4 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 14 de noviembre del 2007.
 
@@ -503,10 +505,24 @@ Expedido en Victoria, Tamaulipas, a los doce días del mes de noviembre de dos m
 
 ATENTAMENTE.- AUDITOR SUPERIOR DEL ESTADO.- RAÚL HERNÁNDEZ CHAVARRIA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE MARZO DE 2010.
 
 ###### ARTICULO ÚNICO.
 
 El presente Acuerdo, mediante en (sic) cual se realizan algunas adiciones al Reglamento Interior de la Auditoría Superior del Estado, entrará en vigor en la fecha de su expedición.
+
+P.O. 4 DE MARZO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado, abrogándose el expedido el doce de noviembre de dos mil siete.
+
+###### ARTÍCULO SEGUNDO.
+
+Los manuales de organización, funciones y procedimientos de la Auditoría, deberán ser actualizados en un término de seis meses, contados a partir del inicio de la vigencia del presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Al entrar en vigor el presente Reglamento, los asuntos en trámite serán resueltos por el área a quien se le atribuye la competencia.
