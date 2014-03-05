@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2012-10-06"
+last_updated: "2014-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1515,9 +1515,19 @@ Riña es la contienda de obra entre dos o más personas con el propósito de da�
 
 Cuando el homicidio o las lesiones se cometan culposamente con motivo del tránsito de vehículos del servicio público, escolar o de personal, la sanción se agravará en una mitad más de la prevista para el delito culposo, y se aplicará al responsable suspensión de los derechos en cuyo ejercicio hubiese cometido el delito.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
 
-Las mismas sanciones se impondrán si el inculpado o imputado actúa en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares, sin que exista prescripción médica, o no auxilie a la víctima del delito y se dé a la fuga injustificadamente.
+Las mismas sanciones se impondrán si el inculpado o imputado señalado en el párrafo anterior actúa en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares, sin que exista prescripción médica, no auxilie a la víctima del delito o se dé a la fuga injustificadamente.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+El inculpado o imputado, siempre y cuando no se encuentre en el alguno de los supuestos del párrafo anterior, podrá obtener la libertad provisional bajo caución cuando se trate del delito de lesiones y se reúnan las circunstancias siguientes:
+
+I. Que las lesiones sean de las comprendidas en las fracciones I y II del artículo 116 de este Código;
+
+II. Que se garantice la total reparación de los daños a la victima de manera personal o mediante seguro automovilístico vigente, que permita realizar el pago de dicha reparación en efectivo o con cheque de caja expedido a favor de la autoridad correspondiente, y
+
+III. La garantía deberá ser suficiente hasta la estabilidad total en la salud de la víctima.
 
 Cuando por culpa grave se cause homicidio de dos o más personas, en las circunstancias previstas en el primer párrafo de este precepto, las penas serán de seis a veinte años de prisión y destitución del empleo, cargo o comisión e inhabilitación para obtener otros de la misma naturaleza.
 
@@ -4510,3 +4520,9 @@ P.O. 24 DE MARZO DE 2012.
 P.O. 6 DE OCTUBRE DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2014.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
