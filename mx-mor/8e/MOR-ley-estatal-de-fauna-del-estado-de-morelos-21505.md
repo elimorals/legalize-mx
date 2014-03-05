@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-fauna-del-estado-de-morelos-21505"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2001-05-23"
+last_updated: "2014-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ESTATAL DE FAUNA DEL ESTADO DE MORELOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ESTATAL DE FAUNA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 30 de abril de 1997.
 
@@ -81,7 +83,7 @@ La fauna doméstica está constituida por los animales que viven bajo el cuidado
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-###### ARTICULO 4.
+###### Artículo 4.
 
 La autoridad encargada de aplicar las disposiciones establecidas en esta Ley, así como de vigilar el cumplimiento de las mismas, será la dependencia u organismo de la Administración Pública Estatal encargada de atender el ramo del agua y el medio ambiente; para los efectos de esta Ley se le denominará dependencia u organismo.
 
@@ -109,7 +111,7 @@ La protección de la fauna migratoria se ejerce de acuerdo con la normatividad f
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-###### ARTICULO 8.
+###### Artículo 8.
 
 Las Autoridades Federales, Locales y Municipales, los clubes de cazadores y todos los habitantes del Estado de Morelos, son corresponsables con la dependencia u organismo estatal en el logro de las finalidades señaladas en esta Ley.
 
@@ -131,9 +133,15 @@ Queda prohibido en el Estado, el uso de animales vivos para entrenamiento de ani
 
 Queda prohibido el azuzar animales para que se acometan entre ellos, y el hacer de las peleas así provocadas, un espectáculo público o privado, con excepción de las corridas de toros, novillos o becerros, charreadas y las peleas de gallos, las que quedan sujetas a los Reglamentos y disposiciones establecidas.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+De igual manera queda prohibido el uso de animales en los circos.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
+
 ###### Artículo 13.
 
-En todos los lugares de recreación y cautiverio de animales tales como circos, ferias y zoológicos públicos, se deberá proporcionar a los animales, locales adecuados que les permitan libertad de movimiento, así como alimentación suficiente y condiciones climatológicas necesarias, de acuerdo a su especie. Durante el traslado de cualquier animal, deberán revisarse las condiciones de higiene y seguridad necesarias de éste, y no podrán ser inmovilizados en posiciones que le causen lesiones o sufrimiento.
+En todos los lugares de recreación y cautiverio de animales como ferias y zoológicos públicos, se deberá proporcionar a los animales, locales adecuados que les permitan libertad de movimiento, así como alimentación suficiente y condiciones climatológicas necesarias, de acuerdo a su especie. Durante el traslado de cualquier animal, deberán revisarse las condiciones de higiene y seguridad necesarias de éste, y no podrán ser inmovilizados en posiciones que le causen lesiones o sufrimiento.
 
 ###### Artículo 14.
 
@@ -149,13 +157,13 @@ La autoridad ante quien se ponga a disposición animales que hayan sido víctima
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-###### ARTICULO 17.
+###### Artículo 17.
 
 Cuando el responsable de la falta sea el propietario del animal, bien por dolo o negligencia y en forma directa o indirecta, además de la sanción que se le imponga, no recuperará el animal si no queda plenamente acreditado su compromiso de darle en lo sucesivo trato humanitario; en el caso de especie silvestre se informará además a la Procuraduría Federal de Protección al Ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
-###### ARTICULO 18.
+###### Artículo 18.
 
 Ante denuncias de maltrato en domicilio determinado, la dependencia u organismo estatal ordenará por escrito la práctica de una visita, misma que se sujetará a las siguientes reglas:
 
@@ -375,13 +383,13 @@ La captura de animales silvestres con fines de propagación, obliga al permision
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-###### ARTICULO 56.
+###### Artículo 56.
 
 Los permisionarios entregarán a la dependencia u organismo estatal los ejemplares enfermos que ocasionalmente capturen, a fin de que se investiguen las causas de la enfermedad, se combatan y controlen las epizootias con eficacia.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-###### ARTICULO 57.
+###### Artículo 57.
 
 El ejercicio de la caza en el Estado de Morelos, tiene las limitaciones establecidas en la Ley Federal de Caza y en las disposiciones que mediante esta Ley dicte la dependencia u organismo estatal con el fin de contribuir a la conservación de la fauna y el equilibrio ecológico ambiental.
 
@@ -471,23 +479,35 @@ III.- Descuidar la morada y las condiciones de movilidad, higiene al albergue de
 
 IV.- La muerte producida utilizando un medio que prolongue la agonía del animal, causándole sufrimientos innecesarios.
 
-V.- Cualquier mutilación orgánica grave que no se efectúe por necesidad y bajo el cuidado de un médico veterinario o persona con conocimientos técnicos en la materia.
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
-VI.- Toda privación de aire, luz, alimento, agua o espacio suficiente que cause o pueda causar daño a la vida normal de un animal; y
+V.- Utilización de animales en espectáculos públicos o privados cuando dicha utilización sea para infringir maltrato intencional al animal, ocasionándole afectaciones en su integridad física, tales como heridas cualquiera que sea su gravedad o su muerte, con excepción de lo establecido en el artículo 12.
 
-VII.- Las demás que determine la presente Ley o su Reglamento.
+VI.- Cualquier mutilación orgánica grave que no se efectúe por necesidad y bajo el cuidado de un médico veterinario o persona con conocimientos técnicos en la materia.
+
+VII.- Toda privación de aire, luz, alimento, agua o espacio suficiente que cause o pueda causar daño a la vida normal de un animal; y
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+VIII.- Las demás que determine la presente Ley o su Reglamento. Salvaguardando las excepciones previstas en la presente Ley.
 
 ###### Artículo 70.
 
 De las faltas cometidas por los cazadores o capturadores clandestinos, también se considera responsable a los remitentes, consignatarios y porteadores de los productos de la caza.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
-###### ARTICULO 71.
+###### Artículo 71.
 
 Las infracciones a lo dispuesto en esta Ley, se sancionarán por el titular de la dependencia u organismo estatal con multas de hasta sesenta salarios mínimos vigentes en el Estado de Morelos o bien con arrestos hasta por treinta y seis horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que se haya dado lugar.
 
 Las sanciones anteriores se aplicarán sin perjuicio de las demás que procedan conforme a otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+###### Artículo 71 Bis.
+
+Se impondrá multa de mil quinientos a dos mil días de salario mínimo vigente en el Estado, y arresto hasta por treinta y seis horas a quien realice la infracción contenida en el segundo párrafo del artículo 12 de la presente Ley. Así mismo se procederá a la clausura del inmueble donde se desarrolle el evento o espectáculo.
 
 ###### Artículo 72.
 
@@ -497,9 +517,9 @@ Los responsables de los rastros que no cumplan con las disposiciones señaladas 
 
 Son reincidentes las personas que hayan sido sancionadas por dos o más faltas relacionadas con la presente Ley en un lapso de 5 años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
-###### ARTICULO 74.
+###### Artículo 74.
 
 Cuando los infractores abandonen los implementos utilizados en la captura o sacrificio de animales, procede su decomiso y remate por la dependencia u organismo estatal, siguiendo las reglas establecidas en el Código Procesal Civil vigente en el Estado.
 
@@ -513,19 +533,19 @@ Las multas se harán efectivas por las oficinas de Hacienda, con sujeción a las
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-###### ARTICULO 76.
+###### Artículo 76.
 
 Contra las resoluciones y actos de las autoridades que causen agravio a los particulares procederá el recurso de impugnación, en los términos previstos en la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
-###### ARTICULO 77.
+###### Artículo 77.
 
 (DEROGADO, P.O. 23 DE MAYO DE 2001)
 
-###### ARTICULO 78.
+###### Artículo 78.
 
 (DEROGADO, P.O. 23 DE MAYO DE 2001)
 
-###### ARTICULO 79.
+###### Artículo 79.
 
 (DEROGADO, P.O. 23 DE MAYO DE 2001)
 
@@ -577,10 +597,20 @@ URSULA OSWALD SPRING
 
 RUBRICAS.
 
-N DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 23 DE MAYO DE 2001.
 
 PRIMERO.- Remítase el presente Decreto, al Titular Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+P.O. 5 DE MARZO DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad", órgano de difusión de (sic) Gobierno del Estado de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
