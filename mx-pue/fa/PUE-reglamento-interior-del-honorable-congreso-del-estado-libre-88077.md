@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2014-02-10"
+last_updated: "2014-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE FEBRERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -825,7 +823,9 @@ f) Colaborar con los servidores públicos responsables, para la conservación y 
 
 g) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-II.- ARCHIVO, BIBLIOTECA, ASUNTOS EDITORIALES Y CRÓNICA LEGISLATIVA:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2014)</small>
+
+II.- DIARIO DE DEBATES, CRÓNICA LEGISLATIVA Y ASUNTOS EDITORIALES:
 
 a) Instrumentar, aplicar y vigilar los lineamientos de la archivística y biblioteconomía para el resguardo, conservación y difusión del acervo documental y bibliográfico en el Congreso del Estado, a efecto de facilitar su consulta institucional y pública;
 
@@ -853,7 +853,9 @@ d) Definir las políticas y lineamientos para la mejor atención ciudadana y efi
 
 e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-IV.- TECNOLOGÍAS DE LA INFORMACIÓN:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2014)</small>
+
+IV.- INNOVACIÓN Y TECNOLOGÍA:
 
 a) Supervisar el diseño y actualización de los medios de consulta electrónicos con los que cuente el Congreso del Estado, incluyendo el sitio oficial de Internet;
 
@@ -2802,3 +2804,17 @@ P.O. 22 DE ENERO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El cambio en la denominación del Comité de Archivo, Biblioteca, Asuntos Editoriales y Crónica Legislativa, no modificará ni la integración ni la competencia del Comité de Diario de Debates, Crónica Legislativa y Asuntos Editoriales.
+
+TERCERO.- Los asuntos en trámite que hayan sido turnados al Comité de Archivo, Biblioteca, Asuntos Editoriales y Crónica Legislativa, pasarán a ser competencia del Comité de Diario de Debates, Crónica Legislativa y Asuntos Editoriales.
+
+CUARTO.- El cambio en la denominación del Comité de Tecnologías de la Información, no modificará ni la integración ni la competencia del Comité de Innovación y Tecnología.
+
+QUINTO.- Los asuntos en trámite que hayan sido turnados al Comité de Tecnologías de la Información, pasarán a ser competencia del Comité de Innovación y Tecnología.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
