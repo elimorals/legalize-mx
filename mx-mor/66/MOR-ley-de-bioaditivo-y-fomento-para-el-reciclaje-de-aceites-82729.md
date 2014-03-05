@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-bioaditivo-y-fomento-para-el-reciclaje-de-aceites-82729"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2013-09-11"
+last_updated: "2014-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE BIOADITIVO Y FOMENTO PARA EL RECICLAJE DE ACEITES VEGETALES Y GRASAS ANIMALES RESIDUALES PARA EL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 1 de septiembre de 2011.
 
@@ -161,35 +161,65 @@ V. Demás leyes Federales aplicables al caso concreto.
 
 Para los efectos de la presente Ley, se entenderá por:
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
 I.- Ley.- Ley de Bioaditivo y Fomento para el Reciclaje de Aceites Vegetales y Grasas Animales Residuales para el Estado de Morelos.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
 II.- Gobierno Estatal.- Gobierno del Estado Libre y Soberano de Morelos.
 
-III.- Gobiernos Municipales.- Las (sic) Municipios que integran el territorio del Estado Libre y Soberano de Morelos.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
-IV.- Bioaditivo: Producto de la transesterificación de aceites vegetales o grasas de animales residuales, que posee características fisicoquímicas igual o similares a las del biodiesel.
+III.- Gobiernos Municipales.- Los Municipios que integran el territorio del Estado Libre y Soberano de Morelos.
 
-V.- Aceites Vegetales Residuales: Aceites vegetales (cártamo, maíz, canola, coco, soya, etc.) que han sido utilizados en la preparación de alimentos y sirven de materia prima para la elaboración del bioaditivo a través de un proceso de transesterificación.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
-VI.- Grasas Animales Residuales: Grasas de origen animal que han sido utilizadas en la elaboración de alimentos. También se consideran grasas animales los desechos grasos resultado de la preparación de alimentos de origen animal y que sirven de materia prima para la elaboración del bioaditivo a través de un proceso de transesterificación.
+IV.- Bioaditivo.- Producto de la transesterificación de aceites vegetales o grasas de animales residuales, que posee características fisicoquímicas igual o similares a las del biodiesel.
 
-VII.- Transesterificación: Proceso de intercambiar el grupo alcoxi de un éster por otro alcohol catalizadas mediante la adición de un ácido o una base para producir bioaditivo (a partir de los aceites vegetales o grasas animales), y poliéster.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
-VI (SIC). Disposición Final: Acción de depositar en la refinería o confinar permanentemente los aceites vegetales y grasas animales residuales en sitios e instalaciones cuyas características permitan el reciclaje y lo eviten la contaminación del medio ambiente para su procesamiento.
+V.- Aceites Vegetales Residuales.- Aceites vegetales (cártamo, maíz, canola, coco, soya, etc.) que han sido utilizados en la preparación de alimentos y sirven de materia prima para la elaboración del bioaditivo a través de un proceso de transesterificación.
 
-VII (SIC). Proceso Productivo: Conjunto de actividades relacionadas con la extracción, beneficio, transformación, procesamiento y/o utilización de aceites vegetales y animales residuales para producir bioaditivo.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
-IX (SIC).- Separación.- Separar los aceites vegetales usados y grasas animales usadas (manteca de cerdo)
+VI.- Grasas Animales Residuales.- Grasas de origen animal que han sido utilizadas en la elaboración de alimentos. También se consideran grasas animales los desechos grasos resultado de la preparación de alimentos de origen animal y que sirven de materia prima para la elaboración del bioaditivo a través de un proceso de transesterificación.
 
-I (SIC). Recolección.- Recolectar periódicamente los aceites y/o grasas debidamente etiquetados
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
-XI (SIC).- Acopio.- Establecer lugares de acopio con recipientes de 200 litros etiquetados.
+VII.- Transesterificación.- Proceso de intercambiar el grupo alcoxi de un éster por otro alcóhol catalizadas (sic) mediante la adición de un ácido o una base para producir bioaditivo (a partir de los aceites vegetales o grasas animales), y poliéster.
 
-II (SIC). Entrega.- Los recipientes de aceites y/o grasas usados deberán trasladarse a una disposición final.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
-XIII (SIC).- Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+VIII.- Disposición Final.- Acción de depositar en la refinería o confinar permanentemente los aceites vegetales y grasas animales residuales en sitios e instalaciones cuyas características permitan el reciclaje y/o eviten la contaminación del medio ambiente para su procesamiento.
 
-XIV.-Proceso Productivo: Conjunto de actividades relacionadas con la extracción, beneficio, transformación, procesamiento y/o utilización de aceites vegetales y animales residuales para producir Bioaditivo; (sic)
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+IX.- Proceso Productivo.- Conjunto de actividades relacionadas con la extracción, beneficio, transformación, procesamiento y/o utilización de aceites vegetales y animales residuales para producir bioaditivo.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+X.- Separación.- Separar los aceites vegetales usados y grasas animales usadas (manteca de cerdo).
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XI.- Recolección.- Recolectar periódicamente los aceites y/o grasas debidamente etiquetados.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XII.- Acopio.- Establecer lugares de acopio con recipientes de 200 litros etiquetados.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XIII.- Entrega.- Los recipientes de aceites y/o grasas usados deberán trasladarse a una disposición final.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XIV.- Reutilización.- El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XV.- Proceso Productivo.- Conjunto de actividades relacionadas con la extracción, beneficio, transformación, procesamiento y/o utilización de aceites vegetales y animales residuales para producir Bioaditivo.
 
 COMPETENCIA
 
@@ -272,3 +302,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 5 DE MARZO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
