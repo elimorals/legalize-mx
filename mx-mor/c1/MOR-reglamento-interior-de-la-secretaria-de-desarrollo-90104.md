@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-90104"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-14"
-last_updated: "2012-11-14"
+last_updated: "2014-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 14 de noviembre 2012.
 
@@ -61,21 +61,31 @@ V. Economía Verde: Aquella en la que para lograr el desarrollo productivo del c
 
 VI. Gobernador: La persona titular del Poder Ejecutivo del Estado;
 
-VII. Programa Estatal de Manejo Integral de Residuos Sólidos: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Reglamento: El presente Reglamento Interior de la Secretaría de Desarrollo Sustentable;
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
-IX. Secretaría: La Secretaría de Desarrollo Sustentable;
+VII. Procuraduría: A la Procuraduría de Protección al Ambiente del Estado de Morelos;
 
-X. Secretario: La persona titular de la Secretaría de Desarrollo Sustentable;
+VIII. Programa Estatal de Manejo Integral de Residuos Sólidos: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XI. Sistema de Información Ambiental: El Sistema Estatal de Información Ambiental y de Recursos Naturales es un conjunto de bases de datos estadísticos, cartográficos, gráficos, documentales, entre otros, así como, equipos informáticos y humanos, programas y procedimientos que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental nacional y de la Entidad;
+IX. Reglamento: El presente Reglamento Interior de la Secretaría de Desarrollo Sustentable;
 
-XII. Zona Conurbada: El territorio que se deriva del crecimiento de los asentamientos humanos que rebasan los límites político-administrativos de dos o más Municipios resultando un área urbana, una ciudad que se extiende por dos o más territorios político-administrativos diferentes entre dos o más centros de población, cuyo centro es el punto de intersección de la línea fronteriza entre ambos;
+X. Secretaría: La Secretaría de Desarrollo Sustentable;
 
-XIII. Zona Metropolitana: El espacio territorial de influencia dominante de un centro de población; enfocado hacia las atribuciones de los Municipios y las Entidades Federativas en cuanto a la coordinación intergubernamental e interestatal para su administración, y
+XI. Secretario: La persona titular de la Secretaría de Desarrollo Sustentable;
 
-XIV. Zona Regional: El Espacio geográfico de dimensión mayor al Municipio y menor al Estado, delimitado en función de elementos de análisis previamente establecidos en la cual ocurren procesos sociales, económicos y ambientales de sustentabilidad.
+XII. Sistema de Información Ambiental: El Sistema Estatal de Información Ambiental y de Recursos Naturales, es un conjunto de bases de datos estadísticos, cartográficos, gráficos, documentales, entre otros, así como, equipos informáticos y humanos, programas y procedimientos que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental nacional y de la Entidad;
+
+XIII. Zona Conurbada: El territorio que se deriva del crecimiento de los asentamientos humanos que rebasan los límites político-administrativos de dos o más Municipios resultando un área urbana, una Ciudad que se extiende por dos o más territorios político-administrativos, diferentes entre dos o más centros de población, cuyo centro es el punto de intersección de la línea fronteriza entre ambos;
+
+XIV. Zona Metropolitana: El espacio territorial de influencia dominante de un centro de población; enfocado hacia las atribuciones de los Municipios y las Entidades Federativas en cuanto a la coordinación intergubernamental e interestatal para su administración, y
+
+XV. Zona Regional: El Espacio geográfico de dimensión mayor al Municipio y menor al Estado, delimitado en función de elementos de análisis previamente establecidos en la cual ocurren procesos sociales, económicos y ambientales de sustentabilidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
 
 ###### Artículo 3.
 
@@ -95,23 +105,23 @@ VI. Dirección General de Participación Ciudadana para el Desarrollo Sustentabl
 
 VII. Dirección General de Administración y Finanzas;
 
-VIII. Dirección General de Consultaría y Control de Procesos;
+VIII. Dirección General de Consultoría y Control de Procesos;
 
 IX. Dirección General de Gestión Ambiental;
 
 X. Dirección General de Áreas Naturales Protegidas;
 
-XI. Dirección General Jurídica;
+XI. Dirección General de Educación y Cultura para el Desarrollo Sustentable;
 
-XII. Dirección General de Educación y Cultura para el Desarrollo Sustentable;
+XII. Dirección General de Ordenamiento Territorial;
 
-XIII. Dirección General de Ordenamiento Territorial;
+XIII. Dirección General de Energía y Cambio Climático;
 
-XIV. Dirección General de Energía y Cambio Climático;
+XIV. Dirección General de Administración Urbana;
 
-XV. Dirección General de Administración Urbana, y
+XV. Dirección General de Desarrollo Metropolitano, y
 
-XVI. Dirección General de Desarrollo Metropolitano.
+XVI. Los órganos administrativos desconcentrados de la Secretaría.
 
 Las Unidades Administrativas estarán integradas por las personas titulares de la Secretaría, las Subsecretarías, las Direcciones Generales, las Direcciones de Área, las Subdirecciones, las Jefaturas de Departamento y demás servidores públicos que señalen los Manuales de Organización, y de Políticas y Procedimientos de la Secretaría, así como las disposiciones jurídicas aplicables.
 
@@ -159,7 +169,9 @@ XIII. Nombrar y remover a los servidores públicos de la Secretaría y en su cas
 
 XIV. Designar a los representantes de la Secretaría ante las comisiones, congresos, comités técnicos, juntas de gobierno, organizaciones y demás instituciones;
 
-XV. Resolver sobre los recursos administrativos que se interpongan contra actos de la Secretaría;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XV. (DEROGADA, P.O. 5 DE MARZO DE 2014)
 
 XVI. Proponer al Gobernador, las declaratorias de Áreas Naturales Protegidas del Estado, y
 
@@ -247,13 +259,23 @@ XIV. Concertar acciones con autoridades federales, estatales y municipales, con 
 
 XV. Instruir a las áreas respectivas la asistencia a los Municipios del Estado, previa solicitud que éstos realicen, a fin de mejorar o en su caso implementar, sistemas de recolección y disposición final de residuos sólidos, de conformidad con los convenios que para el efecto se celebren;
 
-XVI. Aplicar y evaluar coordinadamente con la Dirección General Jurídica de la Secretaría, los convenios en materia de recolección y disposición final de residuos sólidos, centros de acopio y compostas, que celebre la Secretaría con la Federación, con los Municipios de la Entidad, así como con los sectores social y privado de la Entidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XVI. Aplicar los convenios en materia de recolección y disposición final de residuos sólidos, centros de acopio y compostas, que celebre la Secretaría con la Federación, con los Municipios de la Entidad, así como con sus sectores social y privado;
 
 XVII. Promover con las Secretarías, Dependencias y Entidades de la Administración Pública Estatal y previo acuerdo del Secretario, actividades preventivas en materia ambiental;
 
-XVIII. Proponer previo análisis y dictaminación técnica de las áreas correspondientes, la autorización al solicitante para establecer, equipar y operar verificentros en el Estado, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIX. Las demás que señalen las disposiciones legales aplicables o le sean delegadas expresamente.
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XVIII. Informar a la Procuraduría sobre las autorizaciones que hayan sido otorgadas para que ésta vigile su cumplimiento, así como, de las irregularidades o hechos constitutivos de posibles delitos que sean detectadas en las materias de impacto ambiental, residuos sólidos, verificación vehicular, áreas naturales protegidas y cualquier otra en materia ambiental;
+
+XIX. Proponer previo análisis y dictaminación técnica de las áreas correspondientes, la autorización al solicitante para establecer, equipar y operar verificentros en el Estado, y
+
+XX. Las demás que señalen las disposiciones legales aplicables o le sean delegadas expresamente.
 
 ###### Artículo 10.
 
@@ -371,17 +393,23 @@ VI. Dirección General de Participación Ciudadana para el Desarrollo Sustentabl
 
 VII. Dirección General de Administración y Finanzas, y
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE MARZO DE 2014)</small>
+
 VIII. Dirección General de Consultoría y Control de Procesos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
 
 ###### Artículo 13.
 
 Se adscriben directamente a la Subsecretaría de Gestión Ambiental Sustentable, las siguientes Unidades Administrativas:
 
-I. Dirección General de Gestión Ambiental;
+I. Dirección General de Gestión Ambiental, y
 
-II. Dirección General de Áreas Naturales Protegidas, y
-
-III. Dirección General Jurídica.
+II. Dirección General de Áreas Naturales Protegidas.
 
 ###### Artículo 14.
 
@@ -555,63 +583,69 @@ XI. Administrar los fondos que obtenga la Secretaría para la ejecución de los 
 
 XII. Las que le encomiende expresamente el Secretario y demás disposiciones legales aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
+
 ###### Artículo 21.
 
-El Director General de Consultoría y Control de Procesos, tendrá las siguientes atribuciones:
+El Director General de Consultoría y Control de Procesos tendrá las siguientes atribuciones:
 
-I. Elaborar los proyectos de recomendación necesarios relacionados con los asuntos internos de la Secretaría para su mejor funcionamiento, previo acuerdo con el Secretario;
+I. Elaborar los proyectos de recomendación necesarios relacionados con los asuntos internos de la Secretaría, para su mejor funcionamiento, previo acuerdo con el Secretario;
 
 II. Proponer al Secretario y a los titulares de las demás Unidades Administrativas, los criterios de interpretación que se den con motivo de la aplicación de este Reglamento y sobre los casos no previstos en el mismo;
 
-III. Representar a la Secretaría en todos los Juicios o negocios, donde intervenga como parte, tercero o con cualquier carácter, cuando se afecte su patrimonio o tenga algún interés jurídico; podrá formular y contestar demandas, oponer defensas y excepciones, reconvenir, celebrar convenios de solución anticipada del litigio, ofrecer y desahogar pruebas, alegar, solicitar se dicte sentencia o laudo, interponer recursos, solicitar la suspensión del acto reclamado, vigilar que se ejecuten las sentencias, resoluciones administrativas o laudos, promover medidas precautorias o medios preparatorio a juicio y en general, ejercer las acciones que correspondan a cada caso concreto de acuerdo con la materia y legislación aplicable, informando de su actuación al Secretario;
+III. Representar a la Secretaría, en todos los juicios o negocios, donde intervenga como parte, tercero o con cualquier carácter, cuando se afecte su patrimonio o tenga algún interés jurídico; podrá formular y contestar demandas, oponer defensas y excepciones, reconvenir, celebrar convenios de solución anticipada del litigio, ofrecer y desahogar pruebas, alegar, solicitar se dicte sentencia o laudo, interponer recursos, solicitar la suspensión del acto reclamado, vigilar que se ejecuten las sentencias, resoluciones administrativas o laudos, promover medidas precautorias o medios preparatorios a juicio y en general, ejercer las acciones que correspondan a cada caso concreto de acuerdo con la materia y legislación aplicable, informando de su actuación al Secretario;
 
-IV. Intervenir en los juicios de amparo en los que el Secretario, las Unidades Administrativas o los servidores púbicos de la Secretaría, sean señalados conjunta o separadamente, como autoridad responsable, terceros o con cualquier otro carácter; elaborar los informes previos o justificados, ofrecer pruebas, interponer los recursos que procedan y contestar los requerimientos hechos por los órganos jurisdiccionales de la materia, coordinando la intervención en los procedimientos de los demás servidores públicos de la Secretaría;
+IV. Intervenir en los juicios de amparo en los que el Secretario, las Unidades Administrativas o los servidores públicos de la Secretaría, sean señalados conjunta o separadamente, como autoridad responsable, terceros o con cualquier otro carácter; elaborar los informes previos o justificados, ofrecer pruebas, interponer los recursos que procedan y contestar los requerimientos hechos por los órganos jurisdiccionales de la materia, coordinando la intervención en los procedimientos de los demás servidores públicos de la Secretaría;
 
-V. Instruir el recurso de revisión previsto por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, elaborando el proyecto de resolución respectiva y someterlo a consideración del Secretario para su firma;
+V. Denunciar y presentar querellas ante el Ministerio Público, por hechos presuntamente ilícitos, distintos a los señalados en el Capítulo VI, de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos;
 
-VI. Notificar a los involucrados la resolución emitida por el Secretario en los recursos de revisión y demás actuaciones procesales que se deriven del procedimiento;
+VI. Asesorar y apoyar a las Unidades Administrativas, en la formulación de las actas administrativas que deban instrumentarse, además de asistir a la Secretaría en el cumplimiento de las sanciones impuestas por la Secretaría de la Contraloría a los trabajadores de la Secretaría;
 
-VII. Denunciar y presentar querellas ante el Ministerio Público por hechos presuntamente ilícitos, distintos a los señalados en el Capítulo VI de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos;
+VII. Actuar como órgano de consulta, asesoría e investigación jurídica interna, de las Unidades Administrativas de la Secretaría;
 
-VIII. Asesorar y apoyar a las Unidades Administrativas, en la formulación de las actas administrativas que deban instrumentarse, además de asistir a la Secretaría en el cumplimiento de las sanciones impuestas por la Secretaría de la Contraloría a los trabajadores de la Secretaría;
+VIII. Formar parte de la Unidad Administrativa de Acceso a la Información de la Secretaría, a fin de coordinar las acciones para el cumplimiento de la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos y demás normativa aplicable;
 
-IX. Actuar como órgano de consulta, asesoría e investigación jurídica interna, de las Unidades Administrativas de la Secretaría;
+IX. Auxiliar a los titulares de las Unidades Administrativas de la Secretaría y al Secretario, en la formulación de quejas y denuncias administrativas que deban presentarse ante la Secretaría de la Contraloría, por los actos u omisiones de que tengan conocimiento que contraríen los valores constitucionales que rigen la función pública;
 
-X. Formar parte de la Unidad Administrativa de Acceso a la Información de la Secretaría, a fin de coordinar las acciones para el cumplimiento de la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos y demás normatividad aplicable;
+X. Asesorar cuando lo soliciten, previa autorización del Secretario, a las Entidades Paraestatales sectorizadas a la Secretaría y en su caso, a los organismos desconcentrados correspondientes;
 
-XI. Auxiliar a los titulares de las Unidades Administrativas de la Secretaría y al Secretario, en la formulación de quejas y denuncias administrativas que deban presentarse ante la Secretaría de la Contraloría, por los actos u omisiones de que tengan conocimiento que contraríen los valores constitucionales que rigen la función pública;
+XI. Elaborar los acuerdos administrativos competencia de la Secretaría que deban someterse a la consideración, rúbrica o validación de la Consejería Jurídica, con excepción de aquellos relativos a la Procuraduría;
 
-XII. Asesorar cuando lo soliciten, previa autorización del Secretario, a las Entidades Paraestatales sectorizadas a la Secretaría y en su caso, a los organismos desconcentrados correspondientes;
+XI (SIC). Revisar que los expedientes técnicos integrados por las Unidades Administrativas de la Secretaría, para la regularización, enajenación, donación, adquisición o cualquier otro acto jurídico relacionado con los inmuebles ubicados en las reservas territoriales de Jurisdicción Estatal, que ya hayan sido dictaminados y aprobados para la viabilidad de su tramitación por la autoridad competente, cumplan con los requisitos legales;
 
-XIII. Elaborar los acuerdos administrativos competencia de la Secretaría que deban someterse a la consideración, rúbrica o validación de la Consejería Jurídica;
+XII. Integrar a solicitud de la Secretaría y de sus Unidades Administrativas, los expedientes de expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de propiedad, para el cumplimiento de los objetivos de la Secretaría en los términos de Ley;
 
-XIV. Revisar que los expedientes técnicos integrados por las Unidades Administrativas de la Secretaría, para la regularización, enajenación, donación, adquisición o cualquier otro acto jurídico relacionado con los inmuebles ubicados en las reservas territoriales de jurisdicción estatal, que ya hayan sido dictaminados y aprobados para la viabilidad de su tramitación por la autoridad competente, cumplan con los requisitos legales;
+XIII. Dar seguimiento a las solicitudes de expropiación, ocupación temporal, total o parcial, que proponga la Secretaría a la Secretaría de Gobierno, proporcionando la información y documentación que le sea requerida a la Secretaría;
 
-XV. Integrar a solicitud de la Secretaría y de sus Unidades Administrativas, los expedientes de expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de propiedad, para el cumplimiento de los objetivos de la Secretaría en los términos de Ley;
+XIV. Participar con la Subsecretaría de Planeación para el Desarrollo Sustentable y sus Unidades Administrativas en la elaboración de los proyectos de ordenamiento ecológico y de desarrollo urbano, vigilando su congruencia con las disposiciones jurídicas aplicables;
 
-XVI. Dar seguimiento a las solicitudes de expropiación, ocupación temporal, total o parcial, que proponga la Secretaría a la Secretaría de Gobierno, proporcionando la información y documentación que le sea requerida a la Secretaría;
+XV. Elaborar los proyectos de recomendación que deban efectuar las Unidades Administrativas de la Secretaría a las autoridades competentes, en materia de desarrollo sustentable y ponerlos a consideración del Secretario;
 
-XVII. Participar con la Subsecretaría de Planeación para el Desarrollo Sustentable y sus Unidades Administrativas en la elaboración de los proyectos de ordenamiento ecológico y de desarrollo urbano, vigilando su congruencia con las disposiciones jurídicas aplicables;
+XVI. Diseñar en coordinación con las demás Unidades Administrativas de la Secretaría, los instrumentos jurídicos necesarios para la creación de fondos de inversión social para el desarrollo sustentable;
 
-XVIII. Elaborar los proyectos de recomendación que deban efectuar las Unidades Administrativas de la Secretaría a las autoridades competentes, en materia de desarrollo sustentable y ponerlos a consideración del Secretario;
+XVII. Revisar que todos los actos que deban ser firmados por el Secretario, con excepción de los emitidos por la Procuraduría, estén debidamente fundados y motivados, solicitando en su caso de las Unidades Administrativas de la Secretaría, el cumplimiento de dichos requisitos;
 
-XIX. Diseñar en coordinación con las demás Unidades Administrativas de la Secretaría, los instrumentos jurídicos necesarios para la creación de fondos de inversión social para el desarrollo sustentable;
+XVIII. Validar los actos de naturaleza jurídica que en uso de sus facultades indelegables, deba emitir el Secretario y someterlos a su consideración y aprobación;
 
-XX. Revisar que todos los actos que deban ser firmados por el Secretario, con excepción de los emitidos por la Dirección General Jurídica de la Secretaría, estén debidamente fundados y motivados, solicitando en su caso de las Unidades Administrativas de la Secretaría, el cumplimiento de dichos requisitos;
+XIX. Tramitar, cuando así proceda y ante las autoridades competentes, la publicación oficial de los actos que sean competencia de esta Dirección General;
 
-XXI. Validar los actos de naturaleza jurídica que en uso de sus facultades indelegables, deba emitir el Secretario y someterlos a su consideración y aprobación;
+XX. Participar en los consejos, comités consultivos o técnicos con el carácter que determinen las disposiciones jurídicas aplicables y el Secretario;
 
-XXII. Tramitar, cuando así proceda y ante las autoridades competentes, la publicación oficial de los actos que sean competencia de esta Dirección General;
+XXI. Dar seguimiento a los acuerdos del Consejo Consultivo para el Desarrollo Sustentable del Estado de Morelos, realizando las gestiones necesarias para que se logre su cumplimiento;
 
-XXIII. Participar en los consejos, comités consultivos o técnicos con el carácter que determinen las disposiciones jurídicas aplicables y el Secretario;
+XXII. Dictaminar la procedencia jurídica de los convenios, contratos y demás actos jurídicos relacionados con fondos de inversión y fideicomisos públicos;
 
-XXIV. Dar seguimiento a los acuerdos del Consejo Consultivo para el Desarrollo Sustentable del Estado de Morelos, realizando las gestiones necesarias para que se logre su cumplimiento;
+XXIII. Dar seguimiento a las licitaciones públicas relacionadas con las atribuciones propias de la Secretaría que se realicen por la autoridad competente;
 
-XXV. Dictaminar la procedencia jurídica de los convenios, contratos y demás actos jurídicos relacionados con fondos de inversión y fideicomisos públicos;
+XXIV. Auxiliar a los titulares de las Unidades Administrativas, en la elaboración de documentos relacionados con la solventación de las observaciones provenientes de auditorías y revisiones, sin que la responsabilidad objeto o materia de las mismas, se traslade a esta Dirección General;
 
-XXVI. Dar seguimiento a las licitaciones públicas relacionadas con las atribuciones propias de la Secretaría que se realicen por la autoridad competente;
+XXV. Revisar las bases y requisitos legales a que deben sujetarse los contratos, convenios, acuerdos, concesiones, autorizaciones, bases de coordinación o permisos que realice o expida la Secretaría;
 
-XXVII. Auxiliar a los titulares de las Unidades Administrativas en la elaboración de documentos relacionados con la solventación de las observaciones provenientes de auditorías y revisiones, sin que la responsabilidad objeto o materia de las mismas, se traslade a esta Dirección General, y
+XXVI. Revisar y en su caso, elaborar los contratos, convenios, acuerdos, concesiones, autorizaciones o permisos y demás disposiciones legales que deba suscribir o refrendar el Secretario con otras Secretarías, Dependencias y Entidades de la Administración Pública Estatal, los Ayuntamientos, la Federación, y los sectores público, social y privado para la ejecución coordinada de acciones de protección, preservación y restauración del equilibrio ecológico, verificando que los mismos sean acordes y congruentes con la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, su Reglamento y las demás disposiciones jurídicas aplicables, con excepción de los emitidos por la Procuraduría;
+
+XXVII. Iniciar a petición de las Unidades Administrativas de la Secretaría, el procedimiento de recisión de los contratos y convenios, tramitarlo y proponer la resolución correspondiente, y
 
 XXVIII. Las demás que señalen las disposiciones legales aplicables o le sean delegadas expresamente.
 
@@ -649,7 +683,11 @@ XIV. Coordinar el Programa Estatal de Manejo Integral de Residuos Sólidos;
 
 XV. Participar con las Entidades Federales, Estatales y Municipales en la atención de las contingencias ambientales, en las materias de competencia de la Secretaría;
 
-XVI. Dar parte a la Dirección General Jurídica de la Secretaría, las irregularidades que sean detectadas en materia ambiental, derivadas de las visitas técnicas efectuadas, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XVI. Dar parte a la Procuraduría, las irregularidades o hechos constitutivos de posibles delitos que sean detectadas en las materias de impacto ambiental, residuos sólidos, verificación vehicular, y cualquier otra en materia ambiental, derivadas de las visitas técnicas efectuadas, y
 
 XVII. Las demás que señalen las disposiciones legales aplicables o le sean delegadas expresamente.
 
@@ -675,7 +713,11 @@ VIII. Administrar los terrenos propiedad del Gobierno del Estado u otros bienes 
 
 IX. Participar en la elaboración y ejecución de los programas de ordenamiento ecológico locales, en donde se ubiquen las áreas naturales protegidas competencia del Poder Ejecutivo Estatal y sus zonas de influencia, así como las áreas de refugio para proteger especies acuáticas, en coordinación con las Unidades Administrativas competentes de la Secretaría;
 
-X. Coadyuvar con la Dirección General Jurídica de la Secretaría en la autorización, modificación, prórrogas, suspensiones, revocaciones y demás resoluciones administrativas que no sean expresamente concesiones o asignaciones, en aquellas áreas naturales protegidas administradas por el Poder Ejecutivo Estatal, cuando se trate de personas, que tengan fines económicos o lucrativos, y revocar los mismos a petición de autoridad competente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+X. Coadyuvar con la Procuraduría en el cumplimiento de las suspensiones, revocaciones y demás resoluciones administrativas que no sean expresamente concesiones o asignaciones, en aquellas áreas naturales protegidas administradas por el Poder Ejecutivo Estatal, cuando se trate de personas que tengan fines económicos o lucrativos;
 
 XI. Establecer las políticas y dirigir los programas y proyectos de la Secretaría en materia de protección, manejo, aprovechamiento sustentable y restauración para la conservación de las áreas naturales protegidas competencia del Poder Ejecutivo Estatal y de las áreas de refugio para proteger especies acuáticas que se encuentren en la circunscripción de su competencia;
 
@@ -705,53 +747,11 @@ XXIII. Dar seguimiento a las acciones que en materia de investigación y colecta
 
 XXIV. Las demás que señalen las disposiciones legales aplicables o le sean delegadas expresamente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 24.
 
-El Director General Jurídico, tendrá las siguientes atribuciones:
-
-I. Asesorar y representar a la Secretaría, en los actos de inspección y vigilancia, ejecución de medidas de seguridad y determinaciones de infracciones administrativas a que se refiere la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos;
-
-II. Formular ante el Ministerio Público, las denuncias y querellas por delitos ambientales, en términos del Capítulo VI de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos;
-
-III. Revisar las bases y requisitos legales a que deben sujetarse los contratos, convenios, acuerdos, concesiones, autorizaciones, bases de coordinación o permisos que realice o expida la Secretaría;
-
-IV. Revisar y en su caso, elaborar los contratos, convenios, acuerdos, concesiones, autorizaciones o permisos y demás disposiciones legales que deba suscribir o refrendar el Secretario con otras Secretarías, Dependencias y Entidades de la Administración pública Estatal, los Ayuntamientos, la Federación, y los sectores público, social y privado para la ejecución coordinada de acciones de protección, preservación y restauración del equilibrio ecológico, verificando que los mismos sean acordes y congruentes con la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, su Reglamento y las demás disposiciones jurídicas aplicables;
-
-V. Iniciar a petición de las Unidades Administrativas de la Secretaría, el procedimiento de recisión de los contratos y convenios, tramitarlo y proponer la resolución correspondiente;
-
-VI. Analizar y proponer al Secretario, los anteproyectos de leyes, reglamentos, decretos, acuerdos, órdenes, circulares y demás ordenamientos jurídicos en materia de protección al ambiente, desarrollo urbano, recursos naturales y biodiversidad;
-
-VII. Difundir los criterios legales nacionales e internacionales en materia de protección al ambiente, desarrollo urbano, agua, recursos naturales y biodiversidad, así como las normas oficiales mexicanas, las normas técnicas ecológicas del Estado, los criterios ecológicos y los lineamientos que expidan la Federación y el Estado, a las Unidades Administrativas de la Secretaría para su conocimiento y observancia;
-
-VIII. Verificar que se legalice la compraventa de terrenos para la construcción de conjuntos habitacionales o bien para integrar la reserva territorial, a fin de que la misma revista los requisitos legales conducentes;
-
-IX. Tramitar los procedimientos administrativos por violaciones a la normatividad estatal en materia de protección al ambiente, desarrollo urbano, agua, recursos naturales y biodiversidad;
-
-X. Dictar resoluciones para imponer las sanciones administrativas contenidas en el Capítulo IV de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos;
-
-XI. Sancionar a los titulares de los centros de verificación vehicular autorizados por el Gobierno del Estado así como a los establecimientos que infrinjan las disposiciones establecidas en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y a las demás disposiciones jurídicas aplicables;
-
-XII. Sustanciar los procedimientos jurídico administrativos de inspección y vigilancia;
-
-XIII. Notificar a los inspeccionados la existencia de violaciones o irregularidades subsanables, concediéndoles el término previsto por las leyes de la materia, para que las corrijan, en caso contrario, ordenar se ejecuten las medidas preventivas de seguridad que considere oportunas y turnar las actuaciones a la Comisión de Fraccionamientos, Condominios y Conjuntos Urbanos, para que tome conocimiento del asunto e imponga las sanciones correspondientes;
-
-XIV. Formular el programa general de inspección y vigilancia para el cumplimiento de la normatividad ambiental en las materias de su competencia y someterlo a consideración del Secretario;
-
-XV. Vigilar el cumplimiento de las disposiciones jurídicas, medidas de prevención, control, mitigación, restauración o compensación señaladas en las resoluciones, autorizaciones, permisos y licencias en las materias competencia de la Secretaría;
-
-XVI. Realizar las inspecciones y dictámenes sobre quejas y denuncias en materias ambiental, la instauración de procedimientos administrativos, así como emitir las resoluciones o recomendaciones destinadas a particulares o autoridades competentes, a fin de aplicar la normatividad ambiental;
-
-XVII. Dictaminar jurídicamente, el establecimiento y operación de los centros de verificación vehicular en el Estado;
-
-XVIII. Realizar inspecciones a los centros de verificación vehicular autorizados por el Gobierno del Estado de Morelos, con el propósito de supervisar el cumplimiento de las disposiciones jurídicas en la materia;
-
-XIX. Ordenar la práctica de visitas de inspección y vigilancia, de conformidad con la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y su Reglamento;
-
-XX. Expedir oficios de comisión y credenciales de identificación al personal adscrito a la Dirección General a su cargo, destinados a visitas domiciliarias, inspección y verificación ambiental y de desarrollo urbano;
-
-XXI. Supervisar y verificar el cumplimiento de las condicionantes contenidas en las licencias expedidas por los Municipios que ejercen sus atribuciones y la Dirección General a su cargo, y
-
-XXII. Las demás que señalen las disposiciones legales aplicables o le sean delegadas expresamente.
+(DEROGADO, P.O. 5 DE MARZO DE 2014)
 
 ###### Artículo 25.
 
@@ -1037,6 +1037,30 @@ Las ausencias temporales de los Directores Generales hasta por quince días se c
 
 Cuando por cualquier motivo alguna Unidad Administrativa carezca de titular, el Secretario podrá encomendarle las funciones propias del cargo al servidor público que determine, mismo que sin dejar de desempeñar su cargo original será designado como Encargado de Despacho de la Unidad Administrativa que temporalmente se encuentre sin titular, hasta en tanto realice la designación definitiva, pudiendo desempeñar legalmente las atribuciones que originalmente corresponderían al titular de la Unidad Administrativa de que se trate, sin que por ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2014)</small>
+
+### CAPÍTULO VIII. DE LOS ÓRGANOS DESCONCENTRADOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+###### Artículo 34.
+
+La Secretaría tendrá los órganos administrativos desconcentrados que decrete el Titular del Ejecutivo.
+
+Estos órganos desconcentrados tendrán la competencia y facultades que les señalen los instrumentos jurídicos que los creen y reglamenten; y las personas titulares de los mismos tendrán las atribuciones genéricas que se conceden en el artículo 8, del presente Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+###### Artículo 35.
+
+Los órganos desconcentrados a que se refiere este Capítulo se ajustarán al objeto, integración, operatividad, suficiencia presupuestal y atribuciones determinados en su Decreto de creación y demás normativa aplicable.
+
 ## TRANSITORIOS.
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
@@ -1060,3 +1084,19 @@ EL SECRETARIO DE DESARROLLO SUSTENTABLE
 M. EN C. EINAR TOPILTZIN CONTRERAS MACBEATH.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MARZO DE 2014.
+
+PRIMERA. El presente Decreto entrará en vigor a los quince días hábiles siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+TERCERA. Dentro de un plazo no mayor a sesenta días contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal, deberá realizar las modificaciones correspondientes a sus manuales administrativos correspondientes.
+
+CUARTA. De conformidad con lo dispuesto en la fracción XXX, del artículo 21, de la Ley Orgánica de la Administración Pública del Estado de Morelos, la fracción XXXV, del artículo 6, así como en la fracción I, del artículo 24, del Reglamento Interior de la Secretaría de Gobierno, dentro del plazo de quince días hábiles a que hace referencia la Disposición Transitoria Primera para la entrada en vigor del presente instrumento; la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal debe informar a la diversa Secretaría de Gobierno la supresión de la Dirección General Jurídica de aquella y la creación de la Procuraduría de Protección al Ambiente del Estado de Morelos, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal, deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los expedientes que se encuentren en trámite al momento de expedición y vigencia del presente Decreto, serán conocidos por la Procuraduría de Protección al Ambiente del Estado de Morelos, previa transferencia que le haga la Dirección General Jurídica de la Secretaría de Desarrollo Sustentable, sin que por ello se afecte la secuela procesal correspondiente ni la competencia de aquella para continuar su trámite. La remisión de los expedientes a la Procuraduría deberá notificarse personalmente a las partes interesadas en el procedimiento de que se trate, interrumpiéndose los plazos que se les hubieren otorgado por la Dirección General Jurídica hasta en tanto no se practique la citada notificación.
