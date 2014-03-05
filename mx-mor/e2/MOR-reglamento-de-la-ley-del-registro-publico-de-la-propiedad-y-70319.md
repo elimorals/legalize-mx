@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-registro-publico-de-la-propiedad-y-703
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-23"
-last_updated: "2009-11-25"
+last_updated: "2014-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 25 DE NOVIEMBRE DE 2009.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 23 de septiembre de 2009.
 
@@ -43,69 +41,81 @@ REGLAMENTO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ES
 
 ### CAPÍTULO I. DEL OBJETO Y NATURALEZA JURÍDICA
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento es de orden público e interés social y tiene por objeto regular las actividades del Instituto del Registro Público de la Propiedad y del Comercio como la institución a través de la cual el Gobierno del Estado de Morelos da publicidad a los actos y contratos que de acuerdo con la ley, deben surtir efectos contra terceros.
+El presente Reglamento es de orden público e interés social y tiene por objeto regular las actividades del Organismo Público Descentralizado denominado Instituto de Servicios Registrales y Catastrales del Estado de Morelos, como institución mediante la cual el Estado por una parte, presta el servicio de dar publicidad a los actos jurídicos que conforme a la Ley deban surtir efectos contra terceros a través del Registro Público de la Propiedad y del Comercio; y, por la otra, ser la Institución, a través de la cual mantiene y actualiza el sistema de información catastral del estado de Morelos.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 2.
 
-El Instituto del Registro Público de la Propiedad y del Comercio es un organismo público descentralizado sectorizado a la Secretaría de Gobierno que tendrá sus oficinas en la Ciudad de Cuernavaca, Morelos; cuando las necesidades del servicio lo requieran, podrán establecerse oficinas y delegaciones en otras ciudades de la Entidad por acuerdo administrativo del titular del Ejecutivo que se publique en el Periódico Oficial del Estado.
+El Instituto de Servicios Registrales y Catastrales del Estado de Morelos es un Organismo Público Descentralizado sectorizado a la Secretaría de Gobierno que tendrá sus oficinas en la ciudad de Cuernavaca, estado de Morelos; cuando las necesidades del servicio lo requieran, podrán establecerse oficinas y delegaciones en otras ciudades de la Entidad por acuerdo administrativo del titular del Ejecutivo que se publique en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 3.
 
 Para efectos del presente Reglamento, se entenderá por:
 
-I. Anotación.- Es el acto procedimental a través del cual se inscribe, en el folio real electrónico correspondiente, en forma preventiva, provisional o definitiva una situación jurídica que afecta o grava el bien o el derecho que ampara dicha inscripción;
+I. Anotación, al acto registral a través del cual se inscribe en el folio real electrónico correspondiente, en forma preventiva o definitiva, una situación jurídica que afecta o grava el bien o el derecho que ampara dicha inscripción;
 
-II. Asiento o inscripción.- Es el acto procedimental a través del cual, el Registrador observando las formalidades legales, materializa en el folio correspondiente el acto jurídico inscrito;
+II. Asiento o inscripción, al acto registral a través del cual el Registrador, observando las formalidades legales, materializa en el folio correspondiente el acto jurídico inscrito mediante su firma electrónica;
 
-III. Cancelación.- Es el acto a través del cual se anula y se deja sin efectos parcial o totalmente una anotación o una inscripción, por haberse transmitido o extinguido un derecho en todo o en parte;
+III. Cancelación, al acto a través del cual se anula y se deja sin efectos, parcial o totalmente, una anotación o una inscripción, por haberse transmitido o extinguido un derecho, en todo o en parte;
 
-IV. Calificación.- Es el estudio integral que hacen los servidores públicos encargados de los documentos que le son asignados para su inscripción, anotación o certificación;
+IV. Calificación, al estudio integral que hace el Registrador encargado de los documentos que le son asignados para su inscripción, anotación o certificación y de los que, por lo menos, deberá verificar los antecedentes registrales y los requisitos legales que deberán acompañarse al título objeto de inscripción o anotación.
 
-V. La calificación registral podrá realizarse por los Registradores, Certificadores, Directores de Registro, Certificaciones y Jurídico o por el propio Director General;
+La calificación registral podrá realizarse por los Registradores, los Certificadores, los Directores de Registro, de Certificaciones y Jurídico, o por el propio Director General;
 
-VI. Certificación.- Es el acto a través del cual el Certificador da fe de los actos o constancias inscritos en el folio o en el libro correspondiente, así como también del contenido de los documentos de los archivos de la institución a su cargo;
+V. Certificación, al acto a través del cual el Certificador da fe de los actos o constancias inscritos en el folio o en el libro correspondiente, así como también del contenido de los documentos de los archivos de la institución a su cargo;
 
-VII. Certificador.- Servidor público auxiliar en la función registral, que tiene a su cargo examinar y certificar los documentos de los cuales se ha solicitado una certificación;
+VI. Certificador, al servidor público auxiliar en la función registral, que tiene a su cargo examinar, cotejar y autenticar los documentos de los cuales se ha solicitado el servicio de certificación;
 
-VIII. Código Civil.- El Código Civil para el Estado Libre y Soberano de Morelos;
+VII. Código Civil, al Código Civil para el Estado Libre y Soberano de Morelos;
 
-IX. Director General.- El Director General del Instituto del Registro Público de la Propiedad y del Comercio;
+VIII. Código Familiar, al Código Familiar para el Estado libre y Soberano de Morelos;
 
-X. Error de concepto.- Cuando al expresar en la inscripción alguno de los contenidos en el título se altere o varíe su sentido porque el Registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia;
+IX. Director General, a la persona titular de la Dirección General del Instituto de Servicios Registrales y Catastrales del Estado de Morelos;
 
-XI. Error material.- Es aquel que se comete cuando se escriben unas palabras por otras, se omite la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por eso el sentido general de la inscripción ni el de alguno de sus conceptos;
+X. Error de concepto, cuando al expresar en la inscripción alguno de los contenidos en el título se altere o varié su sentido porque el Registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia;
 
-XII. Firma electrónica.- Los datos que en forma electrónica pueden ser utilizados para identificar al signatario del documento e indicar que aprueba la información contenida en éste;
+XI. Error material, a aquel que se comete cuando se escriben unas palabras por otras, se omite la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por eso el sentido general de la inscripción ni el de alguno de sus conceptos;
 
-XIII. La firma electrónica de un acto jurídico de inscripción, anotación o certificación, podrá realizarse indistintamente por parte de los Registradores, Certificadores, Directores de Registro, Certificados o Jurídico o, por el propio Director General;
+XII. Firma electrónica, a la firma electrónica avanzada que es generada con un certificado reconocido legalmente a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma autógrafa.
 
-XIV. Folio Real Electrónico.- Es el expediente electrónico y digital en el que se practican las inscripciones o anotaciones y que contiene toda la información registral referida a un mismo inmueble o persona, considerando cada uno de éstos como una unidad registral con historial jurídico propio;
+La firma electrónica de un acto jurídico de inscripción, anotación o certificación, podrá realizarse indistintamente por parte de los Registradores, los Certificadores, los Directores de Registro, de Certificaciones y Jurídico o por el propio Director General;
 
-XV. Formas Precodificadas.- Documentos o formatos que contienen los datos esenciales sobre un acto registrable, necesarias para su ingreso, calificación y en su caso, inscripción electrónica. Estas formas precodificadas deberán aprobarse por el Director General y publicarse en el Periódico Oficial “Tierra y Libertad”;
+XIII. Folio Real Electrónico, al expediente electrónico y digital en el que se practican las inscripciones, anotaciones o cancelaciones y que contiene toda la información registral referida a un mismo inmueble o persona moral, civil o mercantil, considerando cada uno de éstos como una unidad registral con historial jurídico propio;
 
-XVI. Inmatriculación.- Es la incorporación de una finca sin antecedente registral a la base de datos del Registro Público de la Propiedad, introduciéndola de este modo en la vida registral;
+XIV. Formas Precodificadas, a los documentos o formatos que contienen los datos esenciales sobre un acto registrable, necesarias para su ingreso, calificación y en su caso, inscripción electrónica. Estas formas precodificadas deberán aprobarse por el Director General;
 
-XVII. Ley.- La Ley del Registro Público de la Propiedad y del Comercio del Estado de Morelos;
+XV. Inmatriculación, a la incorporación de una finca sin antecedente registral a la base de datos del Registro Público de la Propiedad, introduciéndola de este modo en la vida registral;
 
-XVIII. Principios Registrales.- Son las orientaciones capitales, las líneas directrices del sistema, la serie sistemática de bases fundamentales, y el resultado de la sintetización del ordenamiento jurídico registral;
+XVI. Instituto, al Instituto de Servicios Registrales y Catastrales del Estado de Morelos;
 
-XIX. Registrador.- Servidor público auxiliar en la función registral, que tiene a su cargo examinar y calificar los documentos que se presenten para su inscripción y autorizar los asientos en que se materializa su registro;
+XVII. Ley, a la Ley del Registro Público de la Propiedad y del Comercio del Estado de Morelos;
 
-XX. Registro Público o Instituto.- El Instituto del Registro Público de la Propiedad y del Comercio del Estado de Morelos;
+XVIII. Principios Registrales a las orientaciones capitales, las líneas directrices del sistema, la serie sistemática de bases fundamentales, y el resultado de la sintetización del ordenamiento jurídico registral;
 
-XXI. Recurso Administrativo Registral.- Procedimiento mediante el cual los interesados podrán interponer ante el Director General recurso en contra de la calificación que suspende o niega la inscripción registral;
+XIX. Registrador, al servidor público auxiliar en la función registral, que tiene a su cargo examinar y calificar los documentos que se presenten para su inscripción y autorizar los asientos en que se materializa su registro;
 
-XXII. Tercero registral.- Es aquella persona que inscribe un derecho real adquirido de buena fe, a título oneroso, de quien aparece como su titular en el Registro;
+XX. Registro Público, al Instituto de Servicios Registrales y Catastrales del Estado de Morelos;
 
-XXIII. SIGER.- El Sistema Integral de Gestión Registral, y
+XXI. Recurso Administrativo Registral, al procedimiento mediante el cual los interesados podrán interponer ante el Director General recurso en contra de la calificación que suspende o niega la inscripción registral;
 
-XXIV. Boleta de Ingreso.- Documento que tiene el doble objeto de servir como instrumento para dar los efectos probatorios, en orden a la prelación de los documentos presentados, y como medio de control de los mismos a los que acompañará en las distintas fases del procedimiento.
+XXII. Tercero registral, a aquella persona que inscribe un derecho real adquirido de buena fe, a título oneroso, de quien aparece como su titular en el registro público;
+
+XXIII. SIGER, al Sistema Integral de Gestión Registral, y
+
+XXIV. Boleta de Ingreso, a los documentos que tiene el doble objeto de servir como instrumento para dar los efectos probatorios, en orden a la prelación de los documentos presentados y como medio de control de los mismos a los que acompañará en las distintas fases del procedimiento.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 4.
 
-Las inscripciones en el Registro Público se harán en los términos establecidos en la Ley, este Reglamento, los manuales de Organización, de Políticas y Procedimientos, así como en los términos que establezca el Manual del Sistema Informático que emita el Director General.
+El Instituto deberá contar con un Manual de Calidad que formará parte integral de su Manual de Políticas y Procedimientos.
 
 ###### ARTÍCULO 5.
 
@@ -125,9 +135,11 @@ Para ocupar el cargo de Director General deberán cumplirse los requisitos que e
 
 Así mismo, para ocupar el cargo de Registrador y demás que requiera la organización y funcionamiento del Registro Público, deberán cumplirse los requisitos que establezca el Estatuto Orgánico del Instituto.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 8.
 
-Los Administradores y Receptores de Rentas, serán auxiliares del Registro Público y tendrán la obligación de hacer la cotización de los derechos que deban causar las inscripciones conforme a la Ley General de Hacienda del Estado, emitir las pólizas y recibir su pago, la cual tendrá el carácter de provisional y será revisada por el Registrador.
+Los Fedatarios Públicos serán auxiliares del Instituto y tendrán la obligación de hacer la cotización de los derechos que deban causar las inscripciones conforme a la Ley General de Hacienda del Estado de Morelos, retener y enterar su pago dentro de los quince días hábiles siguientes a su recepción, la cual tendrá el carácter de provisional y será revisada por el Registrador.
 
 ## TÍTULO SEGUNDO. DE LOS PRINCIPIOS REGISTRALES, SECCIONES E INSCRIPCIONES
 
@@ -147,7 +159,11 @@ La publicidad registral material en su aspecto positivo hace presumir que todo d
 
 En cumplimiento de este principio registral, deberán observarse las siguientes normas:
 
-I. Los Registradores tendrán la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones contenidas en los libros o folios y de los documentos relacionados con dichas inscripciones que se encuentren archivadas, excepto en el caso de testamentos ológrafos en que se estará a lo dispuesto por el Código Familiar para el Estado Libre y Soberano de Morelos;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+I. El Instituto tendrá la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones contenidas en los libros o folios y de los documentos relacionados con dichas inscripciones que se encuentren archivadas, excepto en el caso de testamentos ológrafos en que se estará a lo dispuesto por el Código Familiar.
+
+En la consulta de propiedades deberá atenderse las limitaciones que respecto de los datos personales identificados como generales de las personas otorgantes de los actos jurídicos, señala la Ley de Información Pública Estadística y Protección de Datos Personales del Estado de Morelos;
 
 II. Los particulares podrán consultar las bases de datos y, en su caso, solicitar las certificaciones respectivas, previo pago de derechos correspondientes;
 
@@ -175,7 +191,9 @@ PRINCIPIO DE ROGACIÓN. Es la petición de parte interesada, mandato judicial o 
 
 I. La inscripción o anotación de los títulos en el Registro Público puede pedirse por quien tenga interés legítimo en el derecho que se va a inscribir o anotar, jueces o por el Notario Público o funcionario público en funciones notariales que haya autorizado la escritura de que se trate;
 
-II. No podrá realizarse inscripción alguna de manera oficiosa por los encargados del Registro Público, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+II. No podrá realizarse inscripción alguna de manera oficiosa por los encargados del Instituto, salvo las anotaciones preventivas que imponga el Director General para la protección de los derechos de terceros debidamente fundadas y motivadas, y
 
 III. Sólo se inscribirán los testimonios, las resoluciones y los documentos a que se refiere el artículo 27 de la Ley.
 
@@ -347,9 +365,19 @@ XXI. El cumplimiento de las condiciones a que se refieren las cuatro fracciones 
 
 XXII. El testimonio notarial del acta de las fundaciones de beneficencia privada, en cuanto se afecten bienes inmuebles a los fines de la fundación. El registro se hará una vez que se haya efectuado la inscripción de la fundación en la sección de personas morales;
 
-XXIII. Los decretos de expropiación de inmuebles, directamente en el folio real electrónico de las propiedades que afecte, y
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
-XXIV. Los demás que establezcan expresamente otras disposiciones legales.
+XXIII. El Reglamento y actas de asamblea de condóminos podrán inscribirse en el folio matriz en el cual se inscribió el condominio o conjunto urbano;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XXIV. Los Poderes Notariales para actos de dominio;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XXV. Los Decretos de expropiación de inmuebles, directamente en el folio real electrónico de las propiedades que afecte, y
+
+XXVI. Los demás que establezcan expresamente otras disposiciones legales.
 
 ###### ARTÍCULO 25.
 
@@ -358,6 +386,10 @@ Cuando un mismo título o documento se refiera a varios inmuebles, se comenzará
 ###### ARTÍCULO 26.
 
 Cuando el acto o contrato se haya celebrado por medio de representantes, se hará constar en la inscripción la comprobación de la personalidad, de tal manera, que los terceros puedan apreciar si esa personalidad fue bastante para la validez del acto o contrato.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+Los poderes para actos de dominio deberán inscribirse en el folio real electrónico de la propiedad a que se refiera; inscripción que será exigible para registrar la compraventa en el ejercicio de dichos mandatos.
 
 ###### ARTÍCULO 27.
 
@@ -551,6 +583,18 @@ El procedimiento automatizado para la inscripción en el Registro Público se su
 
 La Dirección General establecerá las formas precodificadas, así como los datos, requisitos y demás información necesaria para llevar a cabo los asientos, cancelaciones y demás actos registrales a que se refieren la Ley y el presente Reglamento.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+El Instituto publicará en el Periódico Oficial del Estado el Catálogo de Trámites y Servicios que proporciona.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+Para el caso de trámites y servicios solicitados ante el Instituto, en los que no se emita la respuesta en el tiempo señalado en el Catálogo de Trámites y Servicios, se entenderá que los mismos han sido improcedentes.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+Esta negativa ficta podrá recurrirse ante el Director General mediante el recurso administrativo registral, iniciando el plazo para su interposición, al día hábil siguiente de la fecha de conclusión del término establecido en el referido Catálogo.
+
 ###### ARTÍCULO 56.
 
 En los casos de suspensión temporal del servicio registral electrónico por causa de fuerza mayor, podrán recibirse los documentos y continuar con el procedimiento de registro de manera manual en las formas precodificadas y una vez reestablecido (sic) el servicio, deberá capturarse en el programa informático del sistema toda la información generada durante la contingencia.
@@ -685,9 +729,11 @@ VII. La fecha del escrito y la firma del promovente.
 
 Al escrito inicial deberán anexarse los documentos que acrediten la personalidad jurídica del promovente, cuando actúe a nombre de otro o de persona moral y las pruebas documentales respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 68.
 
-En un plazo no mayor a quince días hábiles contados a partir de la presentación del recurso, el Director General del Instituto deberá emitir contestación, en el entendido que de no emitir acuerdo expreso al respecto, se entenderá procedente el recurso y deberá ordenar que se inscriba inmediatamente el documento.
+En un plazo no mayor a quince días hábiles contados a partir de la presentación del recurso a que se refiere el artículo anterior, el Director General deberá emitir resolución.
 
 Si la resolución es adversa al recurrente, continuará la vigencia de la nota de presentación o el aviso preventivo en los mismos términos que establece el artículo 34 de la Ley.
 
@@ -801,11 +847,11 @@ Cuando las solicitudes de los interesados o los mandamientos de los jueces o aut
 
 En igual forma se procederá siempre que se tuviere duda sobre los bienes o inscripciones a que deba referirse la certificación, aún cuando los mandamientos o solicitudes estén redactados con claridad, si por cualquier circunstancia fuera de temerse error o confusión.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 84.
 
 Las solicitudes de certificaciones se formularán por escrito o de manera electrónica a través de la forma precodificada correspondiente.
-
-Estas certificaciones podrán expedirse con carácter ordinario o urgente, según los plazos que establezca la Dirección General, mediante acuerdo administrativo que se fije en los estrados.
 
 ### CAPÍTULO II. DE LA RATIFICACIÓN DE DOCUMENTOS PRIVADOS
 
@@ -830,6 +876,10 @@ El hecho de que un documento sea autorizado por el Registrador en los términos 
 ###### ARTÍCULO 88.
 
 El Registro Público tiene la obligación de permitir a las personas que lo soliciten, previo el pago de los derechos correspondientes, la consulta de las inscripciones contenidas en los libros y en la base de datos, así como de los documentos relacionados con dichas inscripciones que se encuentren archivados, excepto en el caso de testamentos ológrafos en que se estará a lo dispuesto por el artículo 681 del Código Familiar para el Estado Libre y Soberano de Morelos.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+En la consulta de propiedades deberá atenderse las limitaciones que respecto de los datos personales identificados como generales de las personas otorgantes de los actos jurídicos, que señala la Ley de Información Pública Estadística y Protección de Datos Personales del Estado de Morelos.
 
 ###### ARTÍCULO 89.
 
@@ -861,7 +911,9 @@ IV. El plano catastral, y
 
 V. El documento de aceptación de gravámenes o sus certificaciones.
 
-Estos documentos serán suficientes para el acervo registral y para las solicitudes de copias certificadas de títulos inscritos.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
+
+Estos documentos serán suficientes para el acervo registral y para las solicitudes de copias certificadas de títulos inscritos, por tanto los documentos inscritos una vez digitalizados podrán devolverse a sus interesados.
 
 ## TÍTULO SEXTO. SISTEMA DEL SERVICIO PROFESIONAL DE CARRERA REGISTRAL
 
@@ -965,9 +1017,29 @@ IX. La normatividad que regula al Instituto.
 
 El Director General tendrá la obligación de establecer medios de coordinación para la modernización integral del Instituto del Registro Público con otros sectores inmersos en la actividad registral, como el notariado estatal, los organismos promotores de vivienda, el Registro Agrario Nacional, la Comisión para la Regulación de la Tenencia de la Tierra y los catastros municipales.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+Así mismo deberá implementar los mecanismos y procesos necesarios para que la información registral que se vaya generando, sea vinculada informáticamente con la información catastral que obre en sus bases de datos.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+En caso de existir inconsistencias con las claves catastrales que obren en los documentos registrales y las contenidas en la base de datos, deberá notificarlo a la oficina del Catastro Municipal que corresponda, para que se hagan las adecuaciones necesarias.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+El Instituto deberá implementar el uso de la Cédula Única de Vinculación.
+
 ###### ARTÍCULO 99.
 
 Mediante convenios de coordinación o de intercambio de información a título gratuito u oneroso, el Instituto podrá compartir su base de datos con usuarios institucionales, notarios, catastros municipales o quien lo solicite para el adecuado ejercicio de sus funciones y así lo justifiquen.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+Así mismo y para efectos de la vinculación, homologación y armonización del Registro Público con los Catastros Municipales, el Instituto deberá implementar un Sistema de Información Catastral y Registral que permita un esquema de interoperabilidad y garantice el óptimo intercambio de datos con otras Autoridades Federales como el Instituto Nacional de Bienes Nacionales, la Comisión para la Regularización de la Tenencia de la Tierra, el Registro Agrario Nacional y con los Catastros Municipales. En dicho sistema los inmuebles podrán consultarse con su georreferenciación correspondiente.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+Para efectos de la vinculación con los Catastros Municipales, el Instituto deberá integrar la Cédula Única Catastral Electrónica, con apego a la Ley del Sistema Nacional de Información, Estadística y Geografía.
 
 ## TÍTULO OCTAVO. DE LAS RESPONSABILIDADES
 
@@ -1010,3 +1082,13 @@ EL DIRECTOR DEL INSTITUTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO D
 LIC. ALFREDO GARCÍA REYNOSO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MARZO DE 2014.
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+TERCERA. Dentro de un plazo no mayor a noventa días contados a partir de la entrada en vigor del presente Decreto, el Instituto de Servicios Registrales y Catastrales del Estado de Morelos deberá realizar las modificaciones correspondientes a sus manuales administrativos correspondientes.
