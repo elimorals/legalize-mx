@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-el-fomento-economico-y-la-atraccion-de-inversiones-576
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-03"
-last_updated: "2010-09-22"
+last_updated: "2014-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY PARA EL FOMENTO ECONOMICO Y LA ATRACCION DE INVERSIONES EN EL ESTADO DE CHIAPAS
 
-LEY PARA EL FOMENTO ECONOMICO Y LA ATRACCION DE INVERSIONES EN EL ESTADO DE CHIAPAS
+LEY PARA EL FOMENTO ECONÓMICO Y LA ATRACCIÓN DE INVERSIONES EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO ECONÓMICO Y ATRACCIÓN DE INVERSIONES DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 5 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 3 de octubre de 2007.
 
@@ -599,7 +601,7 @@ De conformidad con la fracción I, del artículo 42, de la Constitución Políti
 
 Juan Sabines Guerrero, Gobernador del Estado.-Jorge Antonio Morales Messner, Secretario de Gobierno, Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE NOVIEMBRE DE 2007.
 
@@ -614,3 +616,13 @@ P.O. 22 DE SEPTIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Fomento Económico y Atracción de Inversiones publicada en el Periódico Oficial del Estado número 051, de fecha 3 de octubre de 2007, y se derogan las disposiciones que se opongan al presente ordenamiento legal.
+
+Artículo Tercero.- En ejercicio de las facultades que tiene conferidas el Ejecutivo Estatal, proveerá lo conducente con la finalidad de que se lleven a cabo los actos necesarios para instrumentación de los mecanismos e instituciones previstas en este ordenamiento; así como para la constitución, actualización o consolidación de los fondos o fideicomisos previstos en la presente Ley.
+
+Artículo Cuarto.- En el Presupuesto de Egresos del Estado, anualmente deberán de preverse recursos presupuestales adicionales destinados específicamente al cumplimiento de los fines y programas a desarrollar por la Secretaría, sus órganos desconcentrados, así como para la instrumentación y desarrollo de los mecanismos, instituciones, fondos o fideicomisos mencionados en el artículo anterior, en los términos establecidos en esta Ley, para lo cual las dependencias normativas del Poder Ejecutivo, en el ámbito de su competencia, llevarán a cabo de inmediato las acciones necesarias para la debida observancia del presente ordenamiento.
