@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2014-01-10"
+last_updated: "2014-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1934-08-23"
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL D.O.F. DE 5 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO, UNA VEZ QUE ENTRE EN VIGOR A NIVEL FEDERAL GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE AL EFECTO EMITA EL CONGRESO DE LA UNIÓN PREVIA SOLICITUD CONJUNTA DEL PODER JUDICIAL DE LA FEDERACIÓN, LA SECRETARÍA DE GOBERNACIÓN Y DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA, SIN QUE PUEDA EXCEDER DEL 18 DE JUNIO DE 2016.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2014.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -5806,3 +5808,93 @@ IV. La obligación de contar con la certificación a que se refiere el artículo
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 5 DE MARZO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Declaratoria
+
+Para los efectos señalados en el párrafo tercero del artículo segundo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008, se declara que la presente legislación recoge el sistema procesal penal acusatorio y entrará en vigor de acuerdo con los artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Vigencia
+
+Este Código entrará en vigor a nivel federal gradualmente en los términos previstos en la Declaratoria que al efecto emita el Congreso de la Unión previa solicitud conjunta del Poder Judicial de la Federación, la Secretaría de Gobernación y de la Procuraduría General de la República, sin que pueda exceder del 18 de junio de 2016.
+
+En el caso de las Entidades federativas y del Distrito Federal, el presente Código entrará en vigor en cada una de ellas en los términos que establezca la Declaratoria que al efecto emita el órgano legislativo correspondiente, previa solicitud de la autoridad encargada de la implementación del Sistema de Justicia Penal Acusatorio en cada una de ellas.
+
+En todos los casos, entre la Declaratoria a que se hace referencia en los párrafos anteriores y la entrada en vigor del presente Código deberán mediar sesenta días naturales.
+
+###### ARTÍCULO TERCERO.
+
+Abrogación
+
+El Código Federal de Procedimientos Penales publicado en el Diario Oficial de la Federación el 30 de agosto de 1934, y los de las respectivas entidades federativas vigentes a la entrada en vigor del presente Decreto, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedarán abrogados, sin embargo respecto a los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+Toda mención en otras leyes u ordenamientos al Código Federal de Procedimientos Penales o a los códigos de procedimientos penales de las entidades federativas que por virtud del presente Decreto se abrogan, se entenderá referida al presente Código.
+
+###### ARTÍCULO CUARTO.
+
+Derogación tácita de preceptos incompatibles
+
+Quedan derogadas todas las normas que se opongan al presente Decreto, con excepción de las leyes relativas a la jurisdicción militar así como de la Ley Federal contra la Delincuencia Organizada.
+
+###### ARTÍCULO QUINTO.
+
+Convalidación o regularización de actuaciones
+
+Cuando por razón de competencia por fuero o territorio, se realicen actuaciones conforme a un fuero o sistema procesal distinto al que se remiten, podrá el Órgano jurisdiccional receptor convalidarlas, siempre que de manera, fundada y motivada, se concluya que se respetaron las garantías esenciales del debido proceso en el procedimiento de origen.
+
+Asimismo, podrán regularizarse aquellas actuaciones que también de manera fundada y motivada el Órgano jurisdiccional que las recibe, determine que las mismas deban ajustarse a las formalidades del sistema procesal al cual se incorporarán.
+
+###### ARTÍCULO SEXTO.
+
+Prohibición de acumulación de procesos
+
+No procederá la acumulación de procesos penales, cuando alguno de ellos se esté tramitando conforme al presente Código y el otro proceso conforme al código abrogado.
+
+###### ARTÍCULO SÉPTIMO.
+
+De los planes de implementación y del presupuesto
+
+El Consejo de la Judicatura Federal, el Instituto de la Defensoría Pública Federal, la Procuraduría General de la República, la Secretaría de Gobernación, la Secretaría de Hacienda y Crédito Público y toda dependencia de las Entidades federativas a la que se confieran responsabilidades directas o indirectas por la entrada en vigor de este Código, deberán elaborar los planes y programas necesarios para una adecuada y correcta implementación del mismo y deberán establecer dentro de los proyectos de presupuesto respectivos, a partir del año que se proyecte, las partidas necesarias para atender la ejecución de esos programas, las obras de infraestructura, la contratación de personal, la capacitación y todos los demás requerimientos que sean necesarios para cumplir los objetivos para la implementación del sistema penal acusatorio.
+
+###### ARTÍCULO OCTAVO.
+
+Legislación complementaria
+
+En un plazo que no exceda de doscientos setenta días naturales después de publicado el presente Decreto, la Federación y las entidades federativas deberán publicar las reformas a sus leyes y demás normatividad complementaria que resulten necesarias para la implementación de este ordenamiento.
+
+###### ARTÍCULO NOVENO.
+
+Auxilio procesal
+
+Cuando una autoridad penal reciba por exhorto, mandamiento o comisión, una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud, salvo excepción justificada.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuerpos especializados de Policía
+
+La Federación y las entidades federativas a la entrada en vigor del presente ordenamiento, deberán contar con cuerpos especializados de Policía con capacidades para procesar la escena del hecho probablemente delictivo, hasta en tanto se capacite a todos los cuerpos de Policía para realizar tales funciones.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Adecuación normativa y operativa
+
+A la entrada en vigor del presente Código, en aquellos lugares donde se inicie la operación del proceso penal acusatorio, tanto en el ámbito federal como en el estatal, se deberá contar con el equipamiento necesario y con protocolos de investigación y de actuación del personal sustantivo y los manuales de procedimientos para el personal administrativo, pudiendo preverse la homologación de criterios metodológicos, técnicos y procedimentales, para lo cual podrán coordinarse los órganos y demás autoridades involucradas.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Comité para la Evaluación y Seguimiento de la Implementación del
+
+Nuevo Sistema
+
+El Consejo de Coordinación para la Implementación del Sistema de Justicia Penal, instancia de coordinación nacional creada por mandato del artículo noveno transitorio del Decreto de reformas y adiciones a la Constitución Política de los Estados Unidos Mexicanos publicado el 18 de junio de 2008, constituirá un Comité para la Evaluación y Seguimiento de la Implementación del Nuevo Sistema, el cual remitirá un informe semestral al señalado Consejo.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Revisión legislativa
+
+A partir de la entrada en vigor del Código Nacional de Procedimientos Penales, el Poder Judicial de la Federación, la Procuraduría General de la República, la Comisión Nacional de Seguridad, la Comisión Nacional de Tribunales Superiores de Justicia de los Estados Unidos Mexicanos y la Conferencia Nacional de Procuradores remitirán, de manera semestral, la información indispensable a efecto de que las Comisiones de Justicia de ambas Cámaras del Congreso de la Unión evalúen el funcionamiento y operatividad de las disposiciones contenidas en el presente Código.
