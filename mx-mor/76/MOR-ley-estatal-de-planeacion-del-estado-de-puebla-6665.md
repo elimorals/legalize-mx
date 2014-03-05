@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-planeacion-del-estado-de-puebla-6665"
 country: "mx"
 rank: "ley"
 publication_date: "1988-08-31"
-last_updated: "2013-01-23"
+last_updated: "2014-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el día 31 de agosto de 1988.
 
@@ -93,13 +93,13 @@ V.- El respeto irrestricto de las garantías individuales y de las libertades y 
 
 VI.- El fortalecimiento del Municipio libre para lograr un desarrollo equilibrado del Estado, promoviendo la descentralización de la vida nacional y estatal;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
-VII.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica, social; y
+VII.- El mejoramiento de las condiciones de vida y el desarrollo integral de los pueblos y comunidades indígenas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2013)</small>
+VIII.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social, y
 
-VIII.- La perspectiva de género para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
+IX.- La perspectiva de género para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
 ###### ARTICULO 3o.
 
@@ -528,3 +528,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en el artículo 44 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto
+
+P.O. 5 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refieren los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
