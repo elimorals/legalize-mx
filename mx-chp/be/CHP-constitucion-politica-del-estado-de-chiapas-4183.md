@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2014-02-12"
+last_updated: "2014-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -221,7 +221,9 @@ III. Contribuir para los gastos públicos del Estado y de los municipios, de la 
 
 IV. Evitar la deforestación; forestar y reforestar los predios que les pertenezcan y colaborar con las autoridades en la ejecución de las campañas contra la deforestación, la forestación y reforestación; prevenir y combatir los incendios y contribuir a la realización de los programas de mejoramiento de la comunidad.
 
-V. Hacer que sus hijos e hijas o pupilos, concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria y secundaria, así como procurarles la educación media superior.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+V. Hacer que sus hijos e hijas o pupilos, concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria y media superior.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
@@ -653,9 +655,9 @@ II. Iniciar ante el Congreso de la Unión las leyes o decretos que sean de la co
 
 III. Crear y suprimir empleos de la Administración Pública Estatal y señalar las remuneraciones que correspondan.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
-IV. Legislar, de manera enunciativa más no limitativa, en las materias económica, educativa, indígena, cultural, electoral, protección ciudadana, seguridad pública, beneficencia pública o privada, equidad de género, protección y preservación del patrimonio histórico y cultural del Estado de Chiapas.
+IV. Legislar, de manera enunciativa más no limitativa, en las materias educativa en los términos del artículo 3° de esta Constitución, económica, indígena, cultural, electoral, protección ciudadana, seguridad pública, beneficencia pública o privada, equidad de género, gobierno electrónico, acceso a internet en espacios públicos, protección y preservación del patrimonio histórico y cultural del Estado.
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
@@ -1004,6 +1006,10 @@ IV. Cuidar que los fondos públicos en todo caso estén bien asegurados y de que
 V. Otorgar a los particulares, mediante concesión, la explotación de bienes propiedad del Estado, o la prestación de servicios públicos cuando así proceda con arreglo a la ley aplicable, pudiendo delegar la presente facultad en la dependencia o entidad de la Administración Pública Estatal, que determine la ley.
 
 VI. Elevar y garantizar la cobertura y calidad de la educación pública en todos sus niveles y la enseñanza bilingüe en las zonas predominantemente indígenas.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+Promover la educación en desarrollo y programación de tecnologías informáticas.
 
 VII. Fomentar el desarrollo y mejoramiento social del pueblo chiapaneco, proveyendo, ejecutando o conviniendo la realización de toda clase de mejoras en beneficio o interés de la colectividad.
 
@@ -2651,6 +2657,14 @@ XVIII. Toda persona tiene derecho a la libertad de pensamiento, de conciencia y 
 
 XIX. Toda persona tiene derecho a la libertad de opinión y de expresión; este derecho incluye el de no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+Toda persona tiene derecho a acceder de forma libre y universal a Internet y a las tecnologías de la información y la comunicación.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+El Estado está obligado a garantizar este derecho.
+
 XX. Toda persona tiene derecho a la libertad de reunión y de asociación pacífica.
 
 Nadie podrá ser obligado a pertenecer a una asociación.
@@ -2677,11 +2691,25 @@ XXV. Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así
 
 La maternidad y la infancia tienen derecho a cuidados y asistencia especiales. Todos los niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.
 
-XXVI. Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo concerniente a la instrucción básica. La instrucción básica será obligatoria. La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
-La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.
+XXVI. Toda persona tiene derecho a la educación de calidad. El Estado impartirá educación inicial, preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.
+
+Toda la educación que el Estado imparta será gratuita.
+
+Además:
+
+A) La educación tendrá por objeto el pleno desarrollo de la personalidad humana, y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, a la continuidad y acrecentamiento de nuestra cultura; a la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.
+
+B) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos; y
+
+C) Será de calidad, con base en el mejoramiento constante y el máximo logro académico de los educandos.
 
 Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse a sus hijos.
+
+El Estado garantizará la calidad en la educación obligatoria de manera que los materiales y métodos educativos, la organización escolar, la infraestructura educativa y la idoneidad de los docentes y los directivos garanticen el máximo logro de aprendizaje de los educandos. Adicionalmente, el ingreso al servicio docente y la promoción a cargos con funciones de dirección o de supervisión en la educación básica y media superior que imparta el Estado, se llevarán a cabo mediante concursos de oposición que garanticen la idoneidad de los conocimientos y capacidades que correspondan. La evaluación obligatoria para el ingreso, la promoción, el reconocimiento y la permanencia en el servicio profesional se hará con pleno respeto a los derechos constitucionales de los trabajadores de la educación y conforme a lo dispuesto en la ley. Serán nulos todos los ingresos y promociones que no sean otorgados conforme a la ley.
+
+Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
 
 XXVII. Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.
 
@@ -4072,3 +4100,27 @@ DECRETO NÚMERO 425 POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 78, 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2014.
+
+DECRETO NÚMERO 437, POR EL QUE SE REFORMA LA FRACCIÓN XXVI, DEL ARTÍCULO 3°; LA FRACCIÓN V, DEL ARTÍCULO 8°; Y LA FRACCIÓN IV, DEL ARTÍCULO 30, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Congreso del Estado a más tardar en un plazo de treinta días hábiles contados a partir de la fecha de publicación del presente Decreto, realizará las reformas a la Ley de Educación para el Estado, a fin de adecuarla al nuevo marco jurídico constitucional en materia educativa.
+
+Tercero.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 5 DE MARZO DE 2014.
+
+DECRETO NÚMERO 438, POR EL QUE SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN XIX DEL ARTÍCULO 3°; Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 44; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
+
+Artículo Primero.- Remítase el presente Decreto al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado; a efecto de dar cumplimiento a la fracción III, del artículo 95, de la Constitución Política del Estado.
+
+Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Tercero.- Dentro del término de 180 días hábiles, posteriores a la entrada en vigor del presente Decreto, el H. Congreso del Estado, deberá expedir la Ley Reglamentaria correspondiente.
+
+Artículo Cuarto.- Para efecto de dar cumplimiento a lo establecido en este Decreto, del derecho de acceder de forma libre y universal a internet y a las tecnologías de la información y la comunicación, el Estado de acuerdo a la suficiencia presupuestaria, llevará a cabo de manera paulatina la implementación de la infraestructura necesaria en aquellos espacios públicos que para tal efecto se establezcan.
+
+Artículo Quinto.- Se derogan todas las disposiciones que se opongan a este Decreto.
