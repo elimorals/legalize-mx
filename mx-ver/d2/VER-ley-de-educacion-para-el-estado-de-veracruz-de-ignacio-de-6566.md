@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2013-07-09"
+last_updated: "2014-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DE 5 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -39,7 +41,7 @@ AL MARGEN UN SELLO CON EL ESCUDO NACIONAL QUE DICE: "ESTADOS UNIDOS MEXICANOS.- 
 
 LEY NUMERO 58.
 
-(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. 18 DE MARZO DE 2003) (REFORMADA [N. D E. REPUBLICADA] SU DENOMINACION, G.O. 30 DE AGOSTO DE 2006)
+(REFORMADA SU DENOMINACIÓN POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. 18 DE MARZO DE 2003) (REFORMADA [N. D E. REPUBLICADA] SU DENOMINACIÓN, G.O. 30 DE AGOSTO DE 2006)
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE:
 
@@ -59,7 +61,7 @@ La presente ley regula la educación que imparten el Estado, sus municipios, sus
 
 La aplicación de esta ley corresponde a las autoridades educativas del Estado y de los municipios, en los términos que establecen las leyes respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 4°.
 
@@ -337,13 +339,13 @@ IV. Los criterios, normas y procedimientos de evaluación y acreditación del ap
 
 V. Cursos, foros, programas y talleres de educación ambiental, prevención del delito, seguridad vial y protección civil en los centros educativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 28.
 
 En la elaboración de los planes y programas de estudio deberán considerarse el contexto y las dimensiones reales del proceso educativo, las necesidades sociales, culturales y ambientales, así como los requerimientos del educando a fin de alcanzar tanto los propósitos educativos para el individuo, como los específicos de productividad y de servicio social.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2002)</small>
 
 Además se tomarán en cuenta los criterios lógicos, psicológicos, pedagógicos y sociales inherentes a dicho proceso, de tal manera que:
 
@@ -1005,7 +1007,7 @@ ROBERTO BRAVO GARZON.
 
 SECRETARIO DE EDUCACION Y CULTURA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 13 DE AGOSTO DE 2002.
 
@@ -1136,3 +1138,29 @@ G.O. 9 DE JULIO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Las autoridades educativas deberán realizar las modificaciones necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, a más tardar seis meses después de la entrada en vigor del mismo. Para tales efectos, requerirán el apoyo del Consejo Estatal para la Mitigación y Adaptación ante los Efectos del Cambio Climático.
+
+G.O. 5 DE MARZO DE 2014.
+
+Primero. La presente ley entrará en vigor al día siguiente de que se agote el plazo previsto en los artículos: tercero transitorio del decreto por el cual se reformaron, adicionaron y derogaron diversas disposiciones de la Ley General de Educación; décimo segundo transitorio de la Ley del Instituto Nacional de Evaluación de la Educación; y tercero transitorio de la Ley General del Servicio Profesional Docente, ordenamientos todos publicados en el Diario Oficial de la Federación de fecha once de septiembre del año dos mil trece.
+
+Segundo. Se derogan la Ley de Educación publicada en la Gaceta Oficial del Estado Número 152, de fecha 21 de diciembre de 1993, y las disposiciones que se opongan a la presente ley.
+
+En tanto se expide la reglamentación a que se refiere el artículo quinto transitorio de esta ley, se aplicará lo dispuesto en el artículo tercero transitorio de la ley a que se refiere el párrafo anterior.
+
+Tercero. La Autoridad Educativa Estatal diseñará, en términos de ley, un programa para la regularización progresiva de las plazas con funciones de dirección que correspondan a las estructuras ocupacionales de las escuelas de educación básica y de media superior, de conformidad con la disponibilidad presupuestal, y atendiendo a las disposiciones en materia de desarrollo profesional y evaluación formativa, con pleno respeto a los derechos constitucionales y laborales adquiridos de los trabajadores de la educación.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo para el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, derivadas de esta ley.
+
+Quinto. Con el propósito de fortalecer la calidad en los servicios educativos, por medio del desarrollo profesional y la evaluación formativa, en el marco de la presente ley y demás disposiciones aplicables, la Autoridad Educativa Estatal adecuará su normativa de naturaleza laboral y administrativa, a la brevedad posible, debiendo dejar sin efectos la que se oponga o limite su cumplimiento.
+
+Sexto. En relación con los Consejos Estatal, Escolares y Municipales de Participación Social a que se refiere la presente ley, la Autoridad Educativa Estatal, a la brevedad posible, expedirá las disposiciones conducentes en atención a los lineamientos y disposiciones que emita la autoridad federal competente.
+
+Séptimo. Los docentes que, a la entrada en vigor del presente ordenamiento, se encuentren con nombramientos de personal interino, continuarán su procedimiento de regularización con sujeción a las disposiciones vigentes con anterioridad a la presente ley, en atención a lo dispuesto por el artículo Quinto Transitorio anterior.
+
+Octavo. En tanto se expide la reglamentación que regule el ingreso al servicio docente se continuarán aplicando las disposiciones vigentes.
+
+Noveno. Para garantizar la continuidad de la prestación del servicio educativo, la Autoridad Educativa Estatal, atendiendo al origen de la plaza, establecerá a la brevedad posible los procedimientos administrativos correspondientes, con base en los criterios, perfiles, parámetros e indicadores previstos en esta ley y demás disposiciones aplicables.
+
+Décimo. Para no afectar la prestación del servicio educativo, en tanto se integran y funcionan las áreas y órganos administrativos previstos en la presente ley, y mientras se generan las condiciones para el efectivo y eficaz funcionamiento del Servicio Profesional Docente en el Estado, las dependencias, órganos, áreas y unidades administrativas que han operado los procesos y procedimientos de evaluación y asignación de plazas de educación básica y de media superior, continuarán desempeñando esas funciones con regularidad, permanencia y continuidad para salvaguardar los derechos y obligaciones, facultades y deberes, a que se refiere el presente ordenamiento.
+
+Décimo Primero. Por única ocasión, a la brevedad posible, la Junta Directiva se instalará y funcionará con los integrantes previstos en el artículo 35, fracciones I, IV, V, VI, VII y VIII, para el propósito de acordar el nombramiento del Director General, así como de tomar el acuerdo para la formalización del procedimiento de integración del Consejo Consultivo y los representantes de éste ante la Junta Directiva del Instituto Veracruzano. Asimismo, durante el período de integración del Consejo Consultivo, la Junta Directiva podrá aprobar, atendiendo a la importancia o urgencia de los asuntos que deba resolver, los acuerdos necesarios para su debida organización y funcionamiento.
