@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-5693
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-13"
-last_updated: "2009-09-15"
+last_updated: "2014-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE JOCOTITLAN
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE JOCOTITLAN
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE JOCOTITLÁN
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE MARZO DE 2014.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 13 de agosto de 2007.
 
@@ -109,11 +109,11 @@ VII. Promover la modernización administrativa, mejora regulatoria y gestión de
 
 VIII. Resolver, en el ámbito administrativo, las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
 
-> <small>(ADICIONADA, G.G. 15 DE SEPTIEMBRE DE 2009)</small>
-
-IX. Coordinar y supervisar el funcionamiento de las Unidades de Estudios Superiores y, en su caso, disponer las acciones y estrategias para el cumplimiento de sus objetivos.
+IX. (DEROGADA, G.G. 5 DE MARZO DE 2014)
 
 X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende la Junta Directiva.
+
+> <small>N. DE E. EN G.G. DE 5 DE MARZO DE 2014, SE PUBLICARON MODIFICACIONES AL PRESENTE ARTÍCULO, REPUBLICANDO UN SÓLO PÁRRAFO, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL</small>
 
 > <small>(REFORMADO, G.G. 15 DE SEPTIEMBRE DE 2009)</small>
 
@@ -147,11 +147,9 @@ XII. División de Licenciatura en Contaduría.
 
 XIII. Unidad Jurídica.
 
+(REPUBLICADO, G.G. 5 DE MARZO DE 2014)
+
 El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
-
-El Tecnológico podrá contar con unidades administrativas desconcentradas, denominadas Unidades de Estudios Superiores, las cuales se ubicarán en los municipios que determine la Junta Directiva y tendrán por objeto instrumentar programas académicos y de investigación correspondientes al Organismo.
-
-Las Unidades de Estudios Superiores se adscribirán directamente al Director General y sus funciones se establecerán en el Manual General de Organización del Tecnológico.
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS DE LOS DIRECTORES, SUBDIRECTORES Y JEFES DE DIVISION
 
@@ -193,7 +191,21 @@ XIV. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servid
 
 XV. Desempeñar las comisiones que les encomiende su superior inmediato y mantenerlo informado del desarrollo de las mismas.
 
-XVI. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende su superior inmediato.
+> <small>(REFORMADA, G.G. 5 DE MARZO DE 2014)</small>
+
+XVI. Someter a la consideración del Director General acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la unidad administrativa a su cargo, y llevar a cabo su ejecución y cumplimiento.
+
+> <small>(ADICIONADA, G.G. 5 DE MARZO DE 2014)</small>
+
+XVII. Cumplir con las disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales, en términos de la normatividad aplicable;
+
+> <small>(ADICIONADA, G.G. 5 DE MARZO DE 2014)</small>
+
+XVIII. Determinar y controlar las medidas de seguridad y vigilancia de las instalaciones y bienes del Tecnológico, así como instrumentar mecanismos preventivos y dispositivos de emergencia en casos de desastre.
+
+> <small>(ADICIONADA, G.G. 5 DE MARZO DE 2014)</small>
+
+XIX. Las demás que le señalen otras disposiciones legales y aquellas que le encomiende el Director General y la Junta Directiva.
 
 ### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES
 
@@ -455,13 +467,17 @@ El Consejo Consultivo Académico celebrará sesiones ordinarias, de acuerdo con 
 
 ### CAPITULO VIII. DE LA SUPLENCIA DE LOS TITULARES
 
+> <small>(REFORMADO, G.G. 5 DE MARZO DE 2014)</small>
+
 ###### Artículo 28.
 
-El Director General será suplido en sus ausencias temporales hasta por 15 días, por el Director que aquél designe. En las mayores de 15 días, por el servidor público que designe el Presidente de la Junta.
+El Director General será suplido en sus ausencias temporales hasta por 15 días hábiles, por el Director que aquél designe. En las mayores de 15 días hábiles, por quien designe la Junta Directiva.
+
+> <small>(REFORMADO, G.G. 5 DE MARZO DE 2014)</small>
 
 ###### Artículo 29.
 
-Los directores, subdirectores, jefes de División y de Departamento serán suplidos en sus ausencias temporales menores de 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
+Los Directores, Subdirectores, Jefes de Unidad, de División y de Departamento serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por quien designe el Director General.
 
 T R A N S I T O R I O S
 
@@ -485,7 +501,7 @@ DIRECTOR GENERAL DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE JOCOTITLAN Y SECRETAR
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 15 DE SEPTIEMBRE DE 2009.
 
@@ -494,3 +510,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 5 DE MARZO DE 2014.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
