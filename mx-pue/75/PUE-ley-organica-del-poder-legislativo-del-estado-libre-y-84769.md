@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2014-01-22"
+last_updated: "2014-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -265,7 +265,7 @@ Presentes en el recinto de Sesiones, la Comisión Permanente de la Legislatura s
 
 I.- Exhortar a los Diputados electos a que en votación secreta y por mayoría de votos, elijan la primera Mesa Directiva de la nueva Legislatura, misma que se integrará conforme a lo dispuesto en esta Ley; y
 
-Il.- Realizar el escrutinio y comunicar a los Diputados electos la integración de la nueva Mesa Directiva.
+II.- Realizar el escrutinio y comunicar a los Diputados electos la integración de la nueva Mesa Directiva.
 
 La sesión previa no tendrá otro motivo más que la elección de la Mesa Directiva y la recepción de documentos por parte de ésta, de conformidad con el artículo siguiente.
 
@@ -707,7 +707,7 @@ Los integrantes de la Mesa Directiva sólo podrán ser removidos con el voto de 
 
 I.- Transgredir en forma grave o reiterada las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, esta Ley y su Reglamento Interior; y
 
-Il.- Incumplir los acuerdos del Pleno.
+II.- Incumplir los acuerdos del Pleno.
 
 En caso de decretarse la remoción de la totalidad de integrantes de la Mesa Directiva, se procederá a una nueva elección.
 
@@ -727,7 +727,7 @@ Son atribuciones del Presidente:
 
 I.- Velar por el respeto al fuero Constitucional de los Diputados y por la inviolabilidad del recinto donde sesionen antes y durante las sesiones, solicitando en su caso el auxilio de la fuerza pública;
 
-Il.- Citar, iniciar, presidir, desahogar y concluir las sesiones del Congreso;
+II.- Citar, iniciar, presidir, desahogar y concluir las sesiones del Congreso;
 
 III.- Convocar a sesiones extraordinarias a solicitud de la Comisión Permanente;
 
@@ -865,9 +865,13 @@ Los Diputados del Congreso pueden organizarse en Grupos o Representaciones Legis
 
 ###### ARTÍCULO 85.
 
-Un Grupo Legislativo se conforma cuando menos por dos Diputados. Cuando un Partido Político con registro en el Estado se encuentre representado en el Congreso por un solo Diputado, éste asumirá una Representación Legislativa.
+Un Grupo Legislativo se conforma cuando menos por dos Diputados.
 
-En ningún caso los Diputados que se separen de su Grupo Legislativo podrán constituir otro nuevo, pero sí podrán integrarse por única vez a uno ya existente. El Diputado que no desee integrarse a alguno será considerado Diputado sin partido. Ningún Diputado podrá formar parte de más de un Grupo Legislativo.
+Cuando un Partido Político con registro en el Estado se encuentre representado en el Congreso por un solo Diputado, éste asumirá una Representación Legislativa.
+
+En ningún caso los Diputados que se separen de su Grupo Legislativo podrán constituir otro nuevo, pero sí podrán integrarse por única vez a uno ya existente. El Diputado que no desee integrarse a alguno será considerado Diputado sin partido.
+
+Ningún Diputado podrá formar parte de más de un Grupo Legislativo.
 
 ###### ARTÍCULO 86.
 
@@ -1175,7 +1179,7 @@ Los Vocales, tendrán las siguientes atribuciones:
 
 I.- Asistir puntualmente a las sesiones de la Comisión;
 
-Il.- Participar con voz y voto en el análisis, discusión, modificación y en su caso, aprobación de los asuntos que resuelva la Comisión;
+II.- Participar con voz y voto en el análisis, discusión, modificación y en su caso, aprobación de los asuntos que resuelva la Comisión;
 
 III.- Realizar las actividades que le sean encomendadas por el Presidente de la Comisión; y
 
@@ -1349,13 +1353,15 @@ El Congreso del Estado para su funcionamiento administrativo y operativo tiene l
 
 I.- Adquisiciones, Arrendamientos y Servicios;
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
-II.- Archivo, Biblioteca, Asuntos Editoriales y Crónica Legislativa;
+II.- Diario de Debates, Crónica Legislativa y Asuntos Editoriales;
 
 III.- Gestoría y Quejas;
 
-IV.- Tecnologías de la Información; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+IV.- Innovación y Tecnología; y
 
 V.- Comunicación Social.
 
@@ -2297,7 +2303,7 @@ En el acuerdo de integración de las Comisiones y Comités deberá establecerse 
 
 ###### ARTÍCULO DÉCIMO.
 
-Las áreas de nueva creación iniciarán su funcionamiento a partir de la designación nombramiento de los titulares respectivos.
+Las áreas de nueva creación iniciarán su funcionamiento a partir de la designación y nombramiento de los titulares respectivos.
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -2366,3 +2372,17 @@ P.O. 22 DE ENERO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El cambio en la denominación del Comité de Archivo, Biblioteca, Asuntos Editoriales y Crónica Legislativa, no modificará ni la integración ni la competencia del Comité de Diario de Debates, Crónica Legislativa y Asuntos Editoriales.
+
+TERCERO.- Los asuntos en trámite que hayan sido turnados al Comité de Archivo, Biblioteca, Asuntos Editoriales y Crónica Legislativa, pasarán a ser competencia del Comité de Diario de Debates, Crónica Legislativa y Asuntos Editoriales.
+
+CUARTO.- El cambio en la denominación del Comité de Tecnologías de la Información, no modificará ni la integración ni la competencia del Comité de Innovación y Tecnología.
+
+QUINTO.- Los asuntos en trámite que hayan sido turnados al Comité de Tecnologías de la Información, pasarán a ser competencia del Comité de Innovación y Tecnología.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
