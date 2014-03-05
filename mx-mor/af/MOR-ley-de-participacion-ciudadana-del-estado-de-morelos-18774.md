@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-participacion-ciudadana-del-estado-de-morelos-18774"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2000-12-27"
+last_updated: "2014-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE MORELOS
 
-LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE MORELOS
+LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 5 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -496,3 +498,17 @@ SECRETARIO DE GOBIERNO.
 EDUARDO BECERRA PÉREZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MARZO DE 2014.
+
+PRIMERO.- Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de la publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERO. Se abroga la Ley de Participación Ciudadana publicada el 27 de diciembre del año 2000, en el Periódico Oficial Tierra y Libertad, número 4095, así como todas las disposiciones que se opongan a las de la presente Ley.
+
+CUARTO. El Consejo Estatal de Participación Ciudadana deberá integrarse dentro los primeros dos meses comprendidos a partir de la publicación de la presente Ley y expedirá el Estatuto que norme su actividad en los siguientes dos meses a su integración.
+
+QUINTO. El Congreso del Estado establecerá en el presupuesto de egresos anual del Poder Legislativo, los recursos suficientes para la instrumentación de la presente Ley.
