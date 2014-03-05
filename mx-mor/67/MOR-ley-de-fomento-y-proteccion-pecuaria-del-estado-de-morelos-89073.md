@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-y-proteccion-pecuaria-del-estado-de-morelos-8907
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-15"
-last_updated: "2012-08-15"
+last_updated: "2014-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 15 de agosto de 2012.
 
@@ -229,7 +229,9 @@ I. El Poder Ejecutivo del Estado;
 
 II. La Secretaría de Desarrollo Agropecuario, del Gobierno del Estado.
 
-III. La Secretaría de Finanzas y Planeación, del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+III. La Secretaría de Hacienda, del Gobierno del Estado.
 
 IV. La Secretaría de Salud, del Gobierno del Estado;
 
@@ -1415,9 +1417,11 @@ INFRACCIONES Y SANCIONES ADMINISTRATIVAS.
 
 El incumplimiento a los preceptos de la presente Ley será sancionado administrativamente por la Dirección o por los Ayuntamientos, en sus respectivos ámbitos de competencia, sin perjuicio de denunciar, en su caso, los hechos por el delito que corresponda.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2014)</small>
+
 ###### Artículo 199.
 
-Las sanciones administrativas a que se refiere esta Ley tienen el carácter de créditos fiscales, que serán determinados por la Dirección, quien comunicara, a la Secretaría de Finanzas y Planeación, el monto y características de las mismas para la recaudación correspondiente.
+Las sanciones administrativas a que se refiere esta Ley tienen el carácter de créditos fiscales, que serán determinados por la Dirección, quien comunicará, a la Secretaría de Hacienda, el monto y características de las mismas para la recaudación correspondiente.
 
 ###### Artículo 200.
 
@@ -1520,3 +1524,11 @@ SECRETARIO DE GOBIERNO.
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ.
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
