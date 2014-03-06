@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2013-09-24"
+last_updated: "2014-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -257,15 +257,21 @@ d) la garantía de otorgar pensión alimenticia provisional e inmediata.
 
 3. El Sistema Estatal se integrará con los titulares de:
 
-a) la Secretaría de Desarrollo Social, Cultura y Deporte;
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+
+a) La Secretaría de Desarrollo Social;
 
 b) la Secretaría de Seguridad Pública;
 
 c) la Procuraduría General de Justicia;
 
-d) la Secretaría de Salud del Estado;
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
-e) la Secretaría de Educación del Estado;
+d) La Secretaría de Salud;
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+
+e) La Secretaría de Educación;
 
 f) los Sistemas para el Desarrollo Integral de la Familia del Estado y de los municipios;
 
@@ -285,7 +291,9 @@ h) las corporaciones policiales preventivas municipales.
 
 ###### Artículo 13.
 
-1. Corresponde al Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Social, Cultura y Deporte:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+
+1. Corresponde al Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Social:
 
 a) garantizar el pleno ejercicio de las mujeres a una vida libre de violencia, vigilando el cumplimiento de la presente ley;
 
@@ -313,7 +321,9 @@ l) revisar y evaluar la eficiencia y eficacia de los avances de las políticas p
 
 m) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
-2. La coordinación general de las acciones del Ejecutivo del Estado en esta materia se realizarán por la Secretaría de Desarrollo Social, Cultura y Deporte. A través de esta dependencia estatal, el Ejecutivo del Estado ejercerá las atribuciones que establecen las fracciones III, V, VIII, XI, XII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 49 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+
+2. La coordinación general de las acciones del Ejecutivo del Estado en esta materia se realizarán por la Secretaría de Desarrollo Social. A través de esta dependencia estatal, el Ejecutivo del Estado ejercerá las atribuciones que establecen las fracciones III, V, VIII, XI, XII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 49 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### Artículo 14.
 
@@ -393,7 +403,9 @@ j) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 16.
 
-1. A la Secretaría de Salud del Estado le corresponde:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+
+1. A la Secretaría de Salud le corresponde:
 
 a) diseñar instrumentos para la política de prevención y atención de la violencia contra la mujer, como parte integral de la política de salud destinada a las mujeres;
 
@@ -409,7 +421,9 @@ f) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 17.
 
-1. A la Secretaría de Educación del Estado le corresponde:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+
+1. A la Secretaría de Educación le corresponde:
 
 a) consolidar las políticas educativas que se establezcan en el ámbito federal para prevenir la violencia contra la mujer y diseñar las políticas estatales en la materia, así como aplicarlas en el Estado;
 
@@ -574,3 +588,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 6 DE MARZO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
