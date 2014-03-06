@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-antes-ley-para-442
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-08"
-last_updated: "2013-09-24"
+last_updated: "2014-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 8 de marzo de 2005.
 
@@ -67,7 +67,9 @@ c) Procedimientos administrativos para la actuación del Instituto, con objeto d
 
 ###### Artículo 3.
 
-1. En Tamaulipas se prohíbe toda discriminación contra la mujer, motivada por su sexo o por su origen étnico o nacional, edad, estado civil, idioma, cultura, condición social, condiciones de salud, capacidades diferentes, religión, opiniones, preferencias o cualquier otra que atente contra su dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+
+1. En Tamaulipas se prohíbe toda discriminación contra la mujer, motivada por su género o por su origen étnico, nacional o regional, edad, estado civil, idioma, cultura, embarazo, condición social o económica, condiciones de salud, discapacidades, el estado civil, trabajo desempeñado, costumbres, ideologías o creencias, religión, opiniones, preferencias sexuales o cualquier otra que atente contra su dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -1024,3 +1026,9 @@ P.O. 24 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
+
+P.O. 6 DE MARZO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
