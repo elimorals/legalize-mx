@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2013-08-29"
+last_updated: "2014-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "DUR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2015 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -289,7 +287,7 @@ El sistema de salud promoverá la prevención de la salud, así como la atenció
 
 Por ningún motivo los establecimientos de salud, ya sean públicos o privados, ni los profesionales del sector podrán negar la asistencia necesaria en casos de emergencia. Dicha negativa será sancionada por la ley.
 
-El Estado garantizará a toda persona el derecho a la alimentación nutritiva, suficiente y de calidad.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
 El Estado y los municipios promoverán la cultura física y el deporte como actividades que contribuyen a la salud, formación y desarrollo integral de la persona, destinando recursos e infraestructura física para cumplir con ese objetivo.
 
@@ -337,7 +335,7 @@ IX. Garantizar la participación activa de estudiantes, familias y docentes en l
 
 X. Prohibir en todas las escuelas los alimentos que no favorezcan a la salud de los educandos.
 
-Los particulares podrán impartir educación en todos sus tipos y modalidades. El Estado otorgará, negará o revocará el reconocimiento de validez oficial a los estudios en los términos que establezca la ley.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -779,7 +777,7 @@ III. Conformar partidos y agrupaciones políticas, afiliarse o desafiliarse libr
 
 IV. Exigir la rendición de cuentas de sus representantes y fiscalizar los actos de los poderes públicos.
 
-V. Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudadanos duranguenses, en igualdad de circunstancias para toda clase de concesiones, y para todos los empleos, comisiones o cargos públicos.
+V. (DEROGADA, P.O. 6 DE MARZO DE 2014)
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -877,13 +875,21 @@ El Escudo e Himno de Durango deben estar vinculados a la identidad duranguense, 
 
 ###### Artículo 63.
 
-Las elecciones de Gobernador del Estado, diputados, e integrantes de los ayuntamientos se realizarán mediante sufragio universal, libre, secreto y directo. La jornada comicial tendrá lugar el primer domingo de julio del año que corresponda.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+
+Las elecciones de Gobernador del Estado, diputados, e integrantes de los ayuntamientos se realizarán mediante sufragio universal, libre, secreto y directo. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda.
 
 Los tiempos de campañas no deberán exceder de sesenta días, la ley fijará su duración; las precampañas no podrán prolongarse más de las dos terceras partes de las respectivas campañas electorales.
 
 Los partidos políticos Son entidades de interés público y tienen como finalidad, promover la participación del pueblo en vida democrática, contribuir a la integración de la representación estatal, y hacer posible el acceso de los ciudadanos al ejercicio del poder público, de acuerdo con los principios y programas que postulan.
 
-Los partidos políticos sólo podrán constituirse por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La ley determinará las formas específicas de su participación en los procesos electorales y se regirán conforme a las bases que establece la Constitución Política de los Estados Unidos Mexicanos. El financiamiento público que reciban los partidos y los candidatos independientes, así como el acceso a los medios de comunicación social será equitativo, en los términos que establezca la ley.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+
+Los partidos políticos locales sólo podrán constituirse por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La ley determinará las formas específicas de su participación en los procesos electorales y se regirán conforme a las bases que establece la Constitución Política de los Estados Unidos Mexicanos. El financiamiento público que reciban los partidos y los candidatos independientes, así como el acceso a los medios de comunicación social será equitativo, en los términos que establezcan las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
+
+Al partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo en el Estado, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
 
 La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado o los municipios, según corresponda; en el caso del financiamiento público a partidos nacionales, debe reintegrarse al Estado, incluyendo el patrimonio adquirido con financiamiento público estatal, reportándolo en la rendición de cuentas al Consejo Estatal Electoral.
 
@@ -895,7 +901,9 @@ Las autoridades electorales solamente podrán intervenir en los asuntos internos
 
 Los ciudadanos duranguenses tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales y de participación ciudadana.
 
-La ley tipificará los delitos en materia electoral y determinarán las penas que por ellos se impongan.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+
+La ley tipificará los delitos en materia electoral y determinará las penas que por ellos se impongan.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -931,7 +939,9 @@ De los veinticinco diputados, quince serán electos bajo el principio de votaci�
 
 Ningún partido político podrá contar con más de quince diputados asignados por los dos principios de representación a que se refiere el párrafo anterior.
 
-En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso del Estado que exceda en dieciséis puntos a su porcentaje de votación estatal emitida. Esta base, no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de votación emitida más el dieciséis por ciento.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+
+En ningún caso, un partido político podrá contar, con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -947,7 +957,9 @@ La elección de los diputados de representación proporcional, se llevará a cab
 
 I. Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro y que participa con candidatos a diputados por mayoría relativa en por lo menos once distritos electorales uninominales.
 
-II. Tendrá derecho a que le sean asignados diputados electos según el principio de proporcionalidad, el partido que alcance al menos el dos punto cinco por ciento de la votación total emitida. La ley determinará las fórmulas y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
+
+II. Tendrá derecho a que le sean asignados diputados electos según el principio de proporcionalidad, el partido que alcance al menos el tres por ciento de la votación válida emitida. La ley determinará las fórmulas y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -969,11 +981,11 @@ V. No ser Ministro de algún culto religioso.
 
 VI. No haber sido condenado por la comisión de delito doloso.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
 ###### Artículo 70.
 
-Los diputados propietarios no podrán ser reelectos para el período inmediato, ni aún con el carácter de suplentes. Los diputados suplentes podrán ser electos para el período inmediato, con el carácter de propietarios, siempre que no hubieren estado en ejercicio.
+Los diputados podrán ser electos de manera consecutiva hasta por cuatro periodos sucesivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1499,6 +1511,14 @@ Los titulares de las dependencias, entidades y organismos del Gobierno estatal d
 
 Al ministerio público le corresponde investigar los delitos del orden común; ejercer la representación y defensa de los intereses de la sociedad y de la acción penal ante los tribunales. El ejercicio de las funciones del ministerio público estará a cargo de un Fiscal General del Estado, quien se auxiliará de una policía encargada de la investigación de los delitos, la que estará bajo su mando inmediato y directo, así como de los demás cuerpos de seguridad pública y privada, en los términos de las leyes.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
+
+Las funciones de procuración de justicia que se realicen en el Estado, se harán con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
+
+Asimismo, el Estado está obligado a entregar sin demora a los imputados o sentenciados, así como a practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra que los requiera. Estas diligencias se practicarán, con intervención de los respectivos órganos de procuración de justicia, en los términos de los convenios de colaboración que, al efecto, celebren las entidades federativas. Para los mismos fines, las autoridades locales podrán celebrar convenios de colaboración con la Fiscalía General de la República.
+
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 103.
@@ -1675,7 +1695,9 @@ El Tribunal Electoral es la autoridad jurisdiccional dotada de autonomía en sus
 
 El Tribunal Electoral tendrá la competencia que determine la ley, funcionará de manera permanente, y podrá usar los medios de apremio necesarios para el cumplimiento de sus resoluciones.
 
-Se integrará por tres magistrados electos por el voto de las dos terceras partes de los integrantes presentes del Congreso del Estado, que durarán seis años en el cargo, prorrogables por una sola ocasión, previa evaluación de su desempeño por parte del Congreso del Estado. Serán electos de forma escalonada.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+
+Se integrará por tres Magistrados, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley.
 
 Los requisitos para ocupar el cargo de Magistrado del Tribunal Electoral, serán los mismos que para el de los magistrados del Tribunal Superior de Justicia, además de los que disponga la ley.
 
@@ -2013,21 +2035,43 @@ La inobservancia a las disposiciones en materia de acceso a la información púb
 
 El Instituto Electoral y de Participación Ciudadana es la autoridad que tiene a su cargo la organización de las elecciones, así como de los procedimientos de plebiscito, referéndum y, en su caso, de consulta popular; goza de autonomía en su funcionamiento e independencia en sus decisiones.
 
-En el ejercicio de la función electoral regirán los principios de certeza, imparcialidad, independencia, legalidad, equidad y objetividad.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
-El Instituto podrá convenir con el Instituto Federal Electoral para que éste se haga cargo de la organización de los procesos electorales locales. Así mismo se coordinará con el Instituto Federal Electoral en los términos que disponga la ley, en materia de fiscalización de las finanzas de los partidos políticos, de acuerdo a lo establecido en la Constitución Política de los Estados Unidos Mexicanos.
+En el ejercicio de la función electoral regirán los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, equidad y objetividad.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+
+El Instituto podrá convenir con el Instituto Nacional Electoral para que éste se haga cargo de la organización de los procesos electorales locales
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 139.
 
-El Consejo General es el órgano máximo de dirección y se integra con un Consejero Presidente que lo será también del Instituto, y cuatro consejeros electorales. Durarán en su encargo cinco años, pudiendo ser reelectos para otro periodo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
-Al Consejo General concurrirrán con voz pero sin voto, los consejeros representantes del Poder Legislativo, un representante de cada uno de los partidos políticos y el Secretario Ejecutivo, en los términos de la ley.
+El Consejo General es el órgano máximo de dirección y se integra con un Consejero Presidente que lo será también del Instituto, y seis consejeros electorales. Los siete durarán en su encargo por un período de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
+
+El consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Los consejeros electorales deberán ser originarios de Durango o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
+
+En caso de que ocurra una vacante de consejero electoral estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de este artículo y la ley. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
+
+Los consejeros electorales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+Al Consejo General concurrirán con voz pero sin voto, los consejeros representantes del Poder Legislativo, un representante de cada uno de los partidos políticos y el Secretario Ejecutivo, en los términos de la ley.
 
 El Secretario Ejecutivo del Instituto será elegido por el voto de las dos terceras partes del Consejo General.
 
 Las sesiones del Consejo General serán públicas, salvo las excepciones previstas en la ley.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
+
+El Instituto contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2153,7 +2197,9 @@ V. No haya sido condenado por la comisión de delito doloso.
 
 ###### Artículo 149.
 
-Los presidentes municipales, regidores y síndicos de los ayuntamientos, no podrán ser reelectos para el periodo inmediato. Estos funcionarios, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+
+Los presidentes municipales, regidores y síndicos de los ayuntamientos, podrán ser electos para el mismo cargo por un periodo adicional, siempre y cuando el periodo del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 El Presidente del Ayuntamiento es el representante jurídico del mismo y tiene el carácter de ejecutor de las resoluciones y acuerdos del propio cuerpo edilicio.
 
@@ -3488,3 +3534,21 @@ La expedición de la ley que regulará la organización y funcionamiento del Ins
 Octavo.
 
 El Congreso del Estado expedirá la ley que regule la organización y funcionamiento de la Comisión Anticorrupción, dentro de los 180 días posteriores a la fecha de entrada en vigor de la Ley Federal correspondiente.
+
+P.O. 6 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- La reelección de presidentes municipales, regidores y síndicos no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+TERCERO.- La reelección de diputados del Congreso Local, no será aplicable para aquellos que se encuentren en funciones a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Consejo General del Instituto Nacional Electoral designará a los nuevos consejeros del Instituto Electoral y de Participación Ciudadana del Estado de Durango, en términos de lo dispuesto por el inciso c) de la fracción IV del artículo 116 de la Constitución Federal. Los actuales consejeros continuarán en su encargo hasta en tanto se realicen las designaciones a que se alude en este párrafo.
+
+QUINTO.- Las disposiciones contenidas en el segundo párrafo del Artículo 102, cobrarán vigencia al entrar en vigor las disposiciones legales y reglamentarias correspondientes.
+
+SEXTO.- En términos de lo dispuesto por el inciso c) de la fracción IV del Artículo 116 de la Constitución Federal, el Senado de la Republica designará a los nuevos Magistrados del Tribunal Electoral del Poder Judicial del Estado de Durango. Los actuales Magistrados continuaran en su encargo hasta en tanto se realicen las designaciones a que se refiere el Artículo 113.
+
+SÉPTIMO.- La integración y funcionamiento del Servicio Profesional Electoral Nacional, se regirá conforme a lo previsto en el artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, así como en razón de los lineamientos que emita el Instituto Nacional Electoral, para garantizar la incorporación de todos los servidores públicos del Instituto Federal Electoral y de los organismos locales en materia electoral, al Servicio Profesional Electoral Nacional, así como las demás normas para su integración total.
+
+OCTAVO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
