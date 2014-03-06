@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-junta-local-de-conciliacion-y-arbitraje-5839"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-02-25"
-last_updated: "1998-02-03"
+last_updated: "2014-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE
 
-REGLAMENTO DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE
+REGLAMENTO DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1989.
 
@@ -249,7 +251,7 @@ Habrá tantos Secretarios Generales como lo requieran las necesidades del servic
 
 ###### Art. 23.
 
-Las ausencias definitivas o temporales del Secretario General de la Junta Local serán cubiertas por el Secretario que designe el Presidente.23
+Las ausencias definitivas o temporales del Secretario General de la Junta Local serán cubiertas por el Secretario que designe el Presidente.
 
 ### CAPITULO VI. De las Juntas Especiales
 
@@ -767,8 +769,18 @@ El Secretario General de la Junta Local de Conciliación y Arbitraje
 
 Lic. Jesús González Valdivia
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 3 DE FEBRERO DE 1998.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
+
+P.O. 6 DE MARZO DE 2014.
+
+PRIMERO El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO Se abroga el Reglamento Interior de la Junta Local de Conciliación y Arbitraje del Estado de Jalisco publicado en el periódico Oficial del Estado el 25 de Febrero de 1989.
+
+TERCERO Todo lo no previsto en este Reglamento será resuelto por el Pleno de la Junta Local de Conciliación y Arbitraje en el Estado de acuerdo con lo dispuesto en la Ley Federal del Trabajo y demás Leyes Federales y Estatales aplicables.
+
+CUARTO Publíquese para su debido cumplimiento.
