@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "2009-12-10"
+last_updated: "2014-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,15 @@ state: "DUR"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN I DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2009.
+NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 131 POR EL QUE SE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 07 DE MAYO DE 2014.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014 (ABROGADO DE MODO SUCESIVO POR DISTRITO JUDICIAL).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -287,7 +291,7 @@ Las fianzas que deban otorgarse se sujetarán a las disposiciones especiales de 
 
 En materia penal no se pagarán costas, el funcionario o empleado que las cobrare o recibiere, aunque sea a título de gratificación, será destituído de su empleo, sin perjuicio de que sea consignado al Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 35.
 
@@ -369,7 +373,7 @@ V.- Suspensión hasta por un mes. Esta sólo se podrá aplicar a los funcionario
 
 Cuando la multa se imponga a persona que goce de sueldo del erario, se dará aviso a la oficina de rentas correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JULIO DE 1994)</small>
 
 ### CAPITULO V. OFICIOS DE COLABORACION
 
@@ -553,7 +557,7 @@ V.- La firma o la transcripción de la firma del funcionario que ordene la citac
 
 Cuando se haga la citación por cédula, deberá acompañarse a ésta un duplicado en el cual firme el interesado o cualquiera otra persona que la reciba.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 76.
 
@@ -887,7 +891,7 @@ El funcionario que practique diligencias de averiguación previa determinará en
 
 Cuando se determine la internación de alguna persona a un hospital u otro establecimiento similar, deberá indicarse el carácter con que sea su ingreso, lo que se comunicará a los encargados del establecimiento respectivo; quienes bajo su responsabilidad no autorizarán su salida, a menos de recibir notificación escrita en este sentido de parte de la autoridad que hubiese ordenado la internación; si no se hiciere esa indicación, se entenderá que sólo ingresa para su curación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 132.
 
@@ -1083,7 +1087,7 @@ La autoridad revocará la concesión inmediatamente después de que el inculpado
 
 CONSIGNACION ANTE LOS TRIBUNALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 163.
 
@@ -1123,7 +1127,7 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la policía ministerial, quien deberá sin dilación alguna poner al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 2 DE MAYO DE 2004)</small>
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 1994)</small>
 
@@ -1265,7 +1269,7 @@ VI.- En caso de que el indiciado o la persona a quien se refiera la fracción an
 
 VII.- El arraigo no podrá prologarse (sic) por más de tres días; transcurridos éstos el arraigado podrá desplazarse libremente, sin perjuicio de que el Ministerio Público, si así procediese, consigne la averiguación y solicite la orden mencionada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 177.
 
@@ -3271,7 +3275,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los doce
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JOSE RAMIREZ GAMERO.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. SALVADOR MENDIVIL HERNANDEZ.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 11 DE JUNIO DE 1992.
 
@@ -3329,7 +3333,7 @@ Se derogan todas la (sic) disposiciones legales que se opongan al presente decre
 
 P.O. 5 DE DICIEMBRE DE 2008.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3347,7 +3351,7 @@ IV. En ningún caso las disposiciones de este Código Procesal Penal del Estado 
 
 Para el Sistema Integral de Justicia para Menores Infractores, el presente ordenamiento entrará en vigor en todo el territorio del Estado, en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3361,7 +3365,7 @@ II.- En el resto de los Distritos Judiciales o Regiones, sus disposiciones segui
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3369,7 +3373,7 @@ Artículo Tercero.- Aplicación de este Código.
 
 El presente Código, se aplicará en las fechas y ámbitos espaciales y temporales de validez que determinen las declaratorias a que alude el artículo primero transitorio del presente decreto; y sus disposiciones sólo se aplicarán a los procedimientos por delitos cometidos a partir de su entrada en vigor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3377,7 +3381,7 @@ Artículo Cuarto.- Delitos permanentes y continuados.
 
 Los delitos permanentes y continuados que inicien su comisión en la vigencia del Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos, se investigarán y juzgarán conforme a dicho ordenamiento, aun cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3385,7 +3389,7 @@ Artículo Quinto.- Prohibición de acumulación de procesos.
 
 No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y el otro hecho delictuoso esté sometido al Código de Procedimientos Penales para el Estado de Durango, expedido mediante decreto, N° 278 de fecha 12 de noviembre de 1991, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 9 bis del 30 de enero de 1992 y sus reformas posteriores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3411,7 +3415,7 @@ I.- Los acuerdos previstos en el capítulo de justicia restaurativa podrán cele
 
 II.- La suspensión de proceso a prueba podrá decretarse hasta antes de que se cierre la instrucción, conforme lo dispone el artículo 309 del Código citado en la fracción anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3419,7 +3423,7 @@ Artículo Séptimo.- Legislación de transición.
 
 Antes de la entrada en vigor de este Código, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría Pública, del Ministerio Público, de los Cuerpos de Seguridad Pública, así como la legislación de ejecución de penas y medidas de seguridad y en general, toda aquella que sea necesaria para su implementación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3429,7 +3433,7 @@ El Consejo de la Judicatura del Poder Judicial, la Procuraduría General de Just
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO No. 415, POR EL QUE SE MODIFICAN LOS ARTICULOS TRANSITORIOS DEL DECRETO No. 232, QUE SE REFIEREN AL CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2008.
+DECRETO No. 415, POR EL QUE SE MODIFICAN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO No. 232, QUE SE REFIEREN AL CÓDIGO PROCESAL PENAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2008.
 
 Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
@@ -3476,3 +3480,21 @@ Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Int
 2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
 
 3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
+
+P.O. 6 DE MARZO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 131 QUE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO.</small>
+
+Artículo Primero. Se declara la entrada en vigor del Código Nacional de Procedimientos Penales, promulgado por el C. Licenciado Enrique Peña Nieto, Presidente de la República, y publicado en el Diario Oficial de la Federación en fecha 05 de marzo del año 2014, en el Primer Distrito Judicial del Estado de Durango, Durango como residencia; comprende el Municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras del Municipio de San Dimas.
+
+Artículo Segundo. El Código Federal de Procedimientos Penales publicado en el Diario Oficial de la Federación el 30 de agosto de 1934, así como el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 278, y publicado en el Periódico Oficial del Gobierno del Estado de Durango, número 9 BIS, de fecha 30 de enero de 1992, y el Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232 y publicado en el Periódico Oficial número 11 extraordinario de fecha 05 de diciembre de 2008, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedarán abrogados, en el Primer Distrito Judicial del Estado de Durango, sin embargo respecto de los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite continuarán sus (sic) sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 131 QUE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO.</small>
+
+Primero. Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno del Estado de Durango, para que surta sus efectos a partir de las cero horas del día 07 de mayo de 2014.
+
+Segundo. Remítase para su conocimiento a las Cámaras que componen el Honorable Congreso de la Unión, a las demás legislaturas estatales y a la Asamblea Legislativa del Distrito Federal, copia de la presente declaratoria.
+
+Tercero. Hágase del conocimiento al pueblo de Durango, la presente Declaratoria, mediante el medio impreso de mayor circulación en la capital duranguense, así como en los medios de comunicación televisivos y electrónicos.
+
+Cuarto. A medida que en los restantes distritos judiciales de nuestro estado, se implemente el Sistema de Justicia Penal Acusatorio, se hará la Declaratoria respectiva para la aplicación del Código Nacional de Procedimientos Penales, la cual no deberá exceder del 18 de junio de 2016.
