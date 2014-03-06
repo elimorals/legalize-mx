@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-establece-la-campana-para-la-erradicacion-de-la-17062"
 country: "mx"
 rank: "ley"
 publication_date: "1974-07-06"
-last_updated: "2003-06-10"
+last_updated: "2014-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY QUE ESTABLECE LA CAMPAÑA PARA LA ERRADICACION DE LA GARRAPATA EN EL ESTADO DE TAMAULIPAS
 
-LEY QUE ESTABLECE LA CAMPAÑA PARA LA ERRADICACION DE LA GARRAPATA EN EL ESTADO DE TAMAULIPAS
+LEY QUE ESTABLECE LA CAMPAÑA PARA LA ERRADICACIÓN DE LA GARRAPATA EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. LXII - 205 DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. 6 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial, el 6 de julio de 1974.
 
@@ -142,3 +144,9 @@ MANUEL A. RAVIZE.- Secretario General de Gobierno, Lic. MARIO GARZA RAMOS.- Rúb
 P.O. 10 DE JUNIO DE 2003
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MARZO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
