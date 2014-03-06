@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-43186"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2013-09-24"
+last_updated: "2014-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -59,7 +59,9 @@ Las disposiciones de esta ley son de orden público, de interés social y de obs
 
 ###### Artículo 4.
 
-1. Para los efectos de esta ley se entiende por discriminación toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra, tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+
+1. Para los efectos de esta ley se entiende por discriminación toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, las ideologías o creencias, o cualquier otra que tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
 
 2. Se considera discriminatoria toda ley o acto que, siendo de aplicación idéntica para todas las personas, produzca consecuencias perjudiciales para las personas en situación de vulnerabilidad.
 
@@ -570,3 +572,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 6 DE MARZO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
