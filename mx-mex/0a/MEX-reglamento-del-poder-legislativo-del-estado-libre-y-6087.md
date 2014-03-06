@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2013-08-09"
+last_updated: "2014-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1189,21 +1189,29 @@ En caso de que la resolución sea emitida fuera de la capital del Estado, se ade
 
 ### CAPITULO IX. DE LAS VOTACIONES
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2014)</small>
+
 ###### Artículo 111.
 
-La votación económica se hará por la simple manifestación de ponerse de pie a la vez los que aprueben y quedarse sentados los que desaprueben.
+La votación económica se hará por la simple manifestación de levantar la mano, a solicitud de la Presidencia, para expresar que están a favor, en contra o en abstención.
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2014)</small>
 
 ###### Artículo 112.
 
-Cuando en una votación económica, se aprecie que no existe diferencia marcada entre los diputados que se pusieron de pie y los que permanecieron sentados, se contarán los votos. Al efectuarse este acto, se mantendrán todos, incluso el Presidente, de pie o sentados, según el sentido en que hubiesen emitido su voto.
+Cuando en una votación económica, se aprecie que no existe diferencia marcada, se repetirá la votación y se contarán los votos.
 
 ###### Artículo 113.
 
 La votación nominal, se efectuará de la siguiente manera:
 
-I.- Cada miembro de la Legislatura, comenzando por los diputados ubicados a la izquierda de la directiva y continuando por filas, puesto de pie dirá en voz alta su apellido o apellidos y nombre si fuere necesario para distinguirse de otro, agregando la expresión "SI" o "NO" según el sentido de su voto a favor o en contra;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2014)</small>
 
-II.- Un secretario de la directiva, anotará los votos a favor y en contra del asunto sujeto a votación, auxiliado en su caso por el otro secretario;
+I.- Cada miembro de la Legislatura, comenzando por los diputados ubicados a la izquierda de la directiva y continuando por filas, puesto de pie dirá en voz alta su apellido o apellidos y nombre si fuere necesario para distinguirse de otro, agregando la expresión "SI", "NO" o "ABSTENCIÓN", según el sentido de su voto;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2014)</small>
+
+II.- Un secretario de la directiva, anotará los votos a favor, en contra o en abstención del asunto sujeto a votación, auxiliado en su caso por el otro secretario;
 
 III.- Concluido este acto, el mismo secretario preguntará dos veces en voz alta, si falta algún diputado por emitir su voto, y no faltando ninguno se procederá a recabar el del presidente;
 
@@ -1247,9 +1255,11 @@ Para efectos del cómputo, la abstención se sumará al resultado mayoritario de
 
 Las votaciones no podrán interrumpirse salvo caso fortuito o fuerza mayor; mientras se desarrollen no se concederá el uso de la palabra a ningún diputado.
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2014)</small>
+
 ###### Artículo 117.
 
-Los diputados en las votaciones económica y nominal tienen la obligación de emitir su voto en forma afirmativa o negativa; tratándose de votación secreta, ningún diputado puede excusarse de depositar su voto; las cédulas que no sean útiles se computarán a favor de quien o quienes obtengan la mayoría, y serán aquellas depositadas en blanco, a favor de alguna persona inhabilitada para desempeñar el cargo o que contengan expresiones impropias.
+Los diputados en las votaciones económica y nominal tienen la obligación de emitir su voto a favor, en contra o en abstención. Tratándose de votación secreta, ningún diputado puede excusarse de depositar su voto; las cédulas que no sean útiles se computarán a favor de quien o quienes obtengan la mayoría, y serán aquellas depositadas en blanco, a favor de alguna persona inhabilitada para desempeñar el cargo o que contengan expresiones impropias.
 
 ###### Artículo 118.
 
@@ -1481,11 +1491,11 @@ La Legislatura contará con un órgano oficial de difusión denominado "Diario d
 
 El contenido del "Diario de Debates", deberá ser recopilado para su publicación oficial al término de cada período ordinario, debiendo editarse en un plazo no mayor de seis meses.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2014)</small>
 
 ###### Artículo 146.
 
-La Junta de Coordinación Política dará la difusión necesaria al "Diario de Debates" y a la "Gaceta Parlamentaria", disponiendo al efecto su distribución, debiendo conservar ejemplares para la biblioteca del Poder Legislativo. Los diputados recibirán un ejemplar de la Gaceta Parlamentaria, cuando menos, previamente a cada sesión de la Legislatura o de la Diputación Permanente.
+La Junta de Coordinación Política dará la difusión necesaria al "Diario de Debates" y a la "Gaceta Parlamentaria", disponiendo al efecto su distribución en medio impreso o digitalizado, debiendo conservar ejemplares para la Biblioteca del Poder Legislativo. Los diputados recibirán un ejemplar impreso o digitalizado de la Gaceta Parlamentaria, cuando menos, previamente a cada sesión de la Legislatura o de la Diputación Permanente.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2366,3 +2376,9 @@ G.G. 9 DE AGOSTO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de que inicie la vigencia de la reforma correspondiente del artículo 77 fracción XVIII de la Constitución Política del Estado Libre y Soberano de México.
+
+G.G. 6 DE MARZO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entra en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
