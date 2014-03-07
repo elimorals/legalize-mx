@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-finanzas-51391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-05"
-last_updated: "2013-10-14"
+last_updated: "2014-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MARZO DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de julio de 2006.
 
@@ -1081,11 +1081,13 @@ LXXII. Las demás que le señalen otros ordenamientos legales y las que le encom
 
 ### CAPÍTULO III. DE LA DIRECCIÓN GENERAL DE FISCALIZACIÓN
 
-> <small>(REFORMADO, G.G. 14 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MARZO DE 2014)</small>
 
 ###### Artículo 15.
 
-La Dirección General de Fiscalización estará a cargo de un Director General, quien en ejercicio de sus atribuciones se auxiliará de: los directores de área de Programación, Operación Regional, Procedimientos Legales y Normativos, de Control y Validación y de Verificación Aduanera, subdirectores, jefes de departamento, delegados de fiscalización de Cuautitlán Izcalli, Ecatepec, Naucalpan, Nezahualcóyotl, Tlalnepantla y Toluca, así como de coordinadores, supervisores, auditores, visitadores, notificadores, ejecutores y demás personal que se requiera para satisfacer las necesidades de servicio, quienes podrán ser autorizados para realizar los actos derivados de las atribuciones conferidas a la propia Dirección General.
+La Dirección General de Fiscalización estará a cargo de un Director General, quien en ejercicio de sus atribuciones se auxiliará de: los directores de área de Programación, Operación Regional, Procedimientos Legales y Normativos, de Control y Validación y de Verificación Aduanera, Jefe de Unidad de Planeación Estratégica de Inteligencia Financiera, subdirectores, jefes de departamento, delegados de fiscalización de Cuautitlán Izcalli, Ecatepec, Naucalpan, Nezahualcóyotl, Tlalnepantla y Toluca, así como de coordinadores, supervisores, auditores, visitadores, notificadores, ejecutores y demás personal que se requiera para satisfacer las necesidades de servicio, quienes podrán ser autorizados para realizar los actos derivados de las atribuciones conferidas a la propia Dirección General.
+
+> <small>(REFORMADO, G.G. 14 DE OCTUBRE DE 2013)</small>
 
 El Director General, así como los directores, subdirectores y demás personal del que se auxilie tendrán jurisdicción en todo el territorio del Estado, para realizar los actos derivados de las atribuciones y funciones conferidas a la propia Dirección General, así como para el ejercicio de las atribuciones que esta misma delegue en aquellos.
 
@@ -1097,9 +1099,13 @@ Corresponde a la Dirección General de Fiscalización:
 
 I. Proponer a la instancia correspondiente los programas de fiscalización y presentar la evaluación de sus resultados al Secretario y al Subsecretario de Ingresos.
 
-II. Planear, dirigir, coordinar y realizar las actividades inherentes a la programación de los actos de fiscalización, en materia de impuestos federales y estatales.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2014)</small>
 
-III. Establecer los sistemas y procedimientos internos a que debe ajustarse la revisión del cumplimiento de las obligaciones fiscales.
+II. Planear, dirigir, coordinar y realizar las actividades inherentes a la programación y planeación estratégica de inteligencia financiera de los actos de fiscalización, en materia de impuestos federales y estatales.
+
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2014)</small>
+
+III. Establecer los sistemas y procedimientos internos a que debe ajustarse la revisión del cumplimiento de las obligaciones fiscales, considerando la programación y planeación estratégica de inteligencia financiera.
 
 IV. Solicitar a las autoridades fiscales federales, la verificación y validación de datos proporcionados por los contribuyentes a quienes se les esté practicando actos de fiscalización.
 
@@ -3122,3 +3128,9 @@ SEXTO. Los asuntos y procedimientos que se hayan iniciado antes de la entrada en
 SÉPTIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
 
 OCTAVO. La Secretaría de Finanzas, en el ámbito de su respectiva competencia, dispondrán lo necesario para el cumplimiento del presente decreto, en un plazo máximo de noventa días hábiles, contados a partir de su entrada en vigor.
+
+G.G. 7 DE MARZO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
