@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-junta-local-de-conciliacion-y-93031"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-26"
-last_updated: "2013-02-26"
+last_updated: "2014-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL VALLE CUAUTITLÁN-TEXCOCO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL VALLE CUAUTITLÁN-TEXCOCO, PUBLICADO EN LA G.G. DE 7 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 26 de febrero de 2013.
 
@@ -1264,3 +1266,15 @@ LIC. JESÚS FARÍAS MUÑOZ
 SECRETARIO DEL PLENO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 7 DE MARZO DE 2014.
+
+PRIMERO: Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno del Estado de México y Boletín Laboral de la Junta.
+
+SEGUNDO: Este Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
+
+TERCERO: Se abroga el Reglamento Interior de la Junta Local de Conciliación y Arbitraje del Valle de Cuautitlán Texcoco, aprobado el 22 de febrero del 2013 y publicado el 26 de febrero del 2013 en el periódico oficial Gaceta del Gobierno del Estado de México.
+
+CUARTO: El presente Reglamento fue aprobado por el Pleno de la Junta Local de Conciliación y Arbitraje del Valle de Cuautitlán Texcoco, integrado por el Presidente Titular de la Junta y los representantes de los trabajadores y de los patrones, en sesión celebrada en la Ciudad de Naucalpan de Juárez, Estado de México, el 28 de febrero del 2014, de conformidad con lo dispuesto por el artículo 614, fracción I de la Ley.
