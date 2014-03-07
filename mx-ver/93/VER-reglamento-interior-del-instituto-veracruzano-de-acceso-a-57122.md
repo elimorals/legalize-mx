@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-instituto-veracruzano-de-acceso-a-57122
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-20"
-last_updated: "2013-02-01"
+last_updated: "2014-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACIÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA APROBADA POR EL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACIÓN, PUBLICADO EN LA G.O. DE 5 DE OCTUBRE DE 2011, SE MODIFICA DE FORMA SUSTANCIAL EL REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACIÓN, PUBLICADO EN LA G.O. EL 7 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 20 de septiembre de 2007.
 
@@ -1342,3 +1342,9 @@ Cuarto. Se instruye al Director de Administración y Finanzas tome las prevision
 Quinto. Se instruye al Director de Sistemas Informáticos que aplique el presente Acuerdo en el Sistema INFOMEX-Veracruz, y lo publique en la página de internet institucional.
 
 Sexto. Se instruye al Secretario Ejecutivo que publique el presente Acuerdo en la Gaceta Oficial del Estado.
+
+G.O. 7 DE MARZO DE 2014.
+
+Artículo Primero. El presente Reglamento entrará en vigor a los quince días hábiles posteriores a su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto Veracruzano de Acceso a la Información publicado en Gaceta Oficial del Estado número extraordinario 317 de fecha 5 de octubre del 2011 así como sus reformas; y, se derogan todas las disposiciones que se opongan al presente Reglamento.
