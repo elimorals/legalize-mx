@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2014-02-07"
+last_updated: "2014-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -253,6 +253,10 @@ En el Estado de Coahuila de Zaragoza, el ejercicio de los derechos fundamentales
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
 Corresponde a los poderes públicos del estado y de los municipios y a los organismos públicos autónomos, promover e instrumentar las garantías necesarias para que sean reales, efectivas y democráticas, la libertad, la igualdad, la seguridad jurídica, la justicia social y todos los derechos humanos reconocidos en el orden jurídico mexicano, de todas las personas y de los grupos en que se integran; facilitar su participación en la vida política, económica, cultural y social del estado; así como remover los obstáculos que impidan o dificulten el pleno desarrollo de estos derechos fundamentales.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2014)</small>
+
+En el Estado de Coahuila de Zaragoza la protección y garantía de los derechos humanos reconocidos a favor de niños y niñas estará a cargo de una Procuraduría y del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas que establecerá los mecanismos de coordinación y participación de los poderes públicos del estado y de los municipios, de los organismos públicos autónomos y la sociedad civil en los términos que determine la ley.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -4845,3 +4849,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los (sic) previsto en este Decreto.
+
+P.O. 7 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Por los motivos, razones y fundamentos expuestos en los considerandos de este dictamen, ha lugar a que el Congreso haga declaratoria de que quedó aprobada la reforma Constitucional, contenida en el decreto que se transcribe en el considerando segundo de este dictamen; y, una vez hecho lo anterior, ordenar que se expida el decreto correspondiente y que se envíe al Ejecutivo Estatal para su promulgación, publicación y observancia.
+
+TERCERO.- Comuníquese éste dictamen al Pleno del Congreso, para su conocimiento, discusión y en su caso, aprobación.
