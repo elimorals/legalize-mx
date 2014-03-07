@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2013-05-13"
+last_updated: "2014-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE MARZO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -1240,9 +1240,13 @@ En cada colonia se elegirá un Comité Ciudadano conformado por nueve integrante
 
 En el caso de los consejos de los pueblos, el ámbito territorial para la elección será el que corresponda al pueblo originario enlistado en el Transitorio Décimo Tercero.
 
-> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 7 DE MARZO DE 2014)</small>
 
-La representación será honorífica y el tiempo de duración de los cargos del Comité Ciudadano será de tres años, sin posibilidad de reelección.
+La representación será honorífica y el tiempo de duración de los cargos del Comité Ciudadano será de tres años.
+
+> <small>(ADICIONADO, G.O. 7 DE MARZO DE 2014)</small>
+
+Los integrantes de los Comités Ciudadanos podrán ser reelectos hasta por un periodo inmediato posterior cumpliendo con los requisitos y procedimientos que establece la presente Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -4135,3 +4139,9 @@ DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO DÉCIMO QUINTO TRANSITORIO A LA LEY 
 Primero.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 7 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
