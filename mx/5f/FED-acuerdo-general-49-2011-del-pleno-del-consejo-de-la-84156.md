@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-49-2011-del-pleno-del-consejo-de-la-84156"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-12-15"
-last_updated: "2013-10-16"
+last_updated: "2014-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84156&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-12-08"
 
 ACUERDO GENERAL 49/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA JORNADA Y HORARIO DE TRABAJO DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO EL HORARIO DE ATENCIÓN AL PUBLICO EN LOS ÓRGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 15 de diciembre de 2011.
 
@@ -73,25 +73,21 @@ CUARTO. El horario de atención al público en los juzgados de Distrito y tribun
 
 QUINTO. La Visitaduría Judicial deberá proponer a la Comisión de Disciplina, a la brevedad posible, el proyecto de reforma a los formatos de actas de visita ordinaria de inspección, que permitan verificar el debido cumplimiento y respeto de las jornadas y horarios de trabajo en los juzgados de Distrito y tribunales de Circuito, así como el horario de atención al público, establecidos en este Acuerdo.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 33/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE MARZO DE 2014)</small>
 
-SEXTO. Los servidores públicos adscritos a los juzgados de Distrito y tribunales de Circuito que ocupen puestos de los niveles salariales del 11 al 33, deberán registrar su entrada y salida, salvo los supuestos siguientes:
-
-I. Quienes ocupen los puestos que se indican a continuación y sean excepcionados por los titulares del juzgado de Distrito o del tribunal de Circuito de su adscripción o, en su caso, por el Presidente del órgano colegiado de conformidad con la normatividad aplicable:
-
-a) Secretario Particular de juez de Distrito;
-
-b) Secretario Particular de magistrado de Circuito; y
-
-c) Chofer de Funcionario.
-
-II. Quienes no estando previstos en la fracción anterior, sean excepcionados por necesidades del servicio por los titulares del juzgado de Distrito o del tribunal de Circuito de su adscripción o, en su caso, por el Presidente del órgano colegiado de conformidad con la normatividad aplicable.
-
-El titular o el Presidente del órgano colegiado comunicará mediante oficio a la Dirección General de Recursos Humanos las excepciones a que se refiere esta fracción, señalando los motivos de las mismas y su temporalidad, la cual no podrá exceder del ejercicio fiscal correspondiente, sin perjuicio de que pueda ser renovada a su vencimiento o modificada durante su vigencia.
+SEXTO. Los servidores públicos adscritos a los juzgados de Distrito y tribunales de Circuito que ocupen puestos de los niveles salariales del 11 al 33, deberán registrar su entrada y salida. Lo anterior salvo el secretario particular de Magistrado de Circuito o Juez de Distrito, así como el chofer de funcionario, cuando el titular, en su caso, ordene que sean exceptuados del registro automatizado de entrada y salida.
 
 Para la operación y funcionamiento del registro automatizado de entrada y salida, los servidores públicos adscritos a los juzgados de Distrito o tribunales de Circuito deberán proporcionar los datos que sean necesarios.
 
 En la implementación, operación y funcionamiento del registro automatizado deberán observarse los lineamientos generales que al efecto emita el Pleno del Consejo de la Judicatura Federal y las disposiciones aplicables en materia de transparencia, acceso a la información, resguardo de la misma y protección de datos personales.
+
+Los titulares de los órganos jurisdiccionales y, en su caso, el Presidente del órgano colegiado tratándose de áreas comunes cuando corresponda de conformidad con la norma aplicable, serán los únicos que podrán llevar a cabo la justificación por omisión de registro de entrada, salida, así como retardos y faltas de los servidores públicos a su cargo, en los términos de los lineamientos generales a que se refiere el párrafo anterior.
+
+En su calidad de patrón equiparado, los titulares de los órganos jurisdiccionales y de cada ponencia en el caso de los tribunales colegiados, deberán asegurarse:
+
+I. Que se devengue efectivamente la contraprestación que recibe el servidor público por la función que realiza; y
+
+II. Que las justificaciones por omisiones de registro de entrada, salida, así como de retardos y faltas, del personal de su adscripción, únicamente se efectúen cuando haya existido causa justificada que se acredite en términos de los lineamientos a que alude este artículo.
 
 SEPTIMO. La Comisión de Administración, a través de la Oficialía Mayor, deberá crear un área administrativa encargada de instrumentar la aplicación de este Acuerdo, así como de atender las dudas o consultas que surjan por parte de los titulares y demás servidores públicos adscritos a los juzgados de Distrito y tribunales de Circuito.
 
@@ -116,3 +112,11 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo G
 CUARTO. La Oficialía Mayor, por conducto de las unidades administrativas competentes que le están adscritas, implementará el registro automatizado a que se refiere el presente Acuerdo.
 
 QUINTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo, al diverso 49/2011, que establece la jornada y horario de trabajo de los servidores públicos adscritos a los juzgados de Distrito y tribunales de Circuito, así como el horario de atención al público en los órganos jurisdiccionales del Poder Judicial de la Federación.
+
+D.O.F. 7 DE MARZO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las excepciones que hayan sido otorgadas por los titulares de los órganos jurisdiccionales, con fundamento en el numeral SEXTO, fracción II, del Acuerdo General 49/2011, del Pleno del Consejo de la Judicatura Federal, que establece la jornada y horario de trabajo de los servidores públicos adscritos a los Juzgados de Distrito y Tribunales de Circuito, así como el horario de atención al público en los órganos jurisdiccionales del Poder Judicial de la Federación, durante su vigencia, quedarán sin efecto dentro de los cinco días posteriores a la entrada en vigor de este Acuerdo, plazo dentro del cual los servidores públicos excepcionados deberán quedar enrolados en el Registro, salvo que se trate del secretario particular y chofer de funcionario de Magistrado de Circuito o Juez de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Intranet del Consejo de la Judicatura Federal.
