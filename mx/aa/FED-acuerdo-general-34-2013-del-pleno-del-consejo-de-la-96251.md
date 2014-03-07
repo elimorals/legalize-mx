@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-34-2013-del-pleno-del-consejo-de-la-96251"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-10-16"
-last_updated: "2013-10-16"
+last_updated: "2014-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96251&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-10-09"
 
 ACUERDO GENERAL 34/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS LINEAMIENTOS DEL REGISTRO AUTOMATIZADO DE ENTRADA Y SALIDA DE SERVIDORES PÚBLICOS ADSCRITOS A ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 16 de octubre de 2013.
 
@@ -83,9 +83,11 @@ Los servidores públicos obligados al registro deberán ser enrolados en el equi
 
 Los servidores públicos adscritos a la plantilla de plazas a disposición del Consejo, deberán realizar el registro de asistencia en los órganos jurisdiccionales y áreas administrativas, a los cuales se encuentren comisionados y durante el tiempo que dure ésta.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 2/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE MARZO DE 2014)</small>
+
 ###### Artículo 6.
 
-Los servidores públicos que incurran en omisiones de registro de entrada o salida, retardo o falta injustificada, se harán acreedores a los descuentos señalados en las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo de la Judicatura Federal, los cuales se harán de forma automática a través del sistema que corresponda.
+Los servidores públicos que incurran en omisiones de registro de entrada o salida, retardo o falta injustificada, se harán acreedores a los descuentos señalados en las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo de la Judicatura Federal, los cuales se aplicarán de forma automática y continua a través del sistema que corresponda en la segunda quincena del mes calendario siguiente al en que se genere la incidencia, esto de conformidad con el calendario de cierre de nómina. Cuando esto último no sea posible el descuento respectivo se aplicará al cierre de la nómina subsecuente.
 
 ### CAPÍTULO TERCERO. AUXILIAR DE ASISTENCIA Y PUNTUALIDAD
 
@@ -99,11 +101,13 @@ El Auxiliar de Asistencia y Puntualidad será el responsable de verificar previa
 
 De lo anterior, el Auxiliar de Asistencia y Puntualidad deberá generar acta administrativa, en la que conste el alta o modificación del Registro y la verificación de identidad del servidor público de que se trate, la cual deberá ser firmada por ambos y remitida a la Unidad de Registro y Control de Asistencia.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 2/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE MARZO DE 2014)</small>
+
 ###### Artículo 9.
 
-El Auxiliar de Asistencia y Puntualidad deberá asentar en el Registro, las justificaciones y remitir al titular del órgano jurisdiccional o área administrativa correspondiente el "Reporte de incidencias y justificaciones" mediante correo electrónico para su validación.
+Previo al cierre de nómina, el Auxiliar de Asistencia y Puntualidad deberá asentar en el Registro, las justificaciones que previamente haya autorizado el titular del órgano jurisdiccional, de cada ponencia en el caso de los tribunales colegiados o área administrativa correspondiente, además de remitirle el reporte de incidencias respectivo para su conocimiento.
 
-Una vez que el Reporte sea validado deberá ser enviado al área de nómina de la Dirección General de Recursos Humanos o, en su caso, a la Administración Regional o Delegación Administrativa que corresponda.
+Asimismo, dicho Auxiliar deberá resguardar la justificación autorizada y, en su caso, la documentación idónea que la acredite y depositarla en el medio electrónico que determine la Dirección General de Recursos Humanos, misma que estará sujeta a los sistemas de supervisión, control y verificación que establezca el Consejo.
 
 ###### Artículo 10.
 
@@ -111,29 +115,31 @@ En caso de ausencia temporal o permanente del Auxiliar de Asistencia y Puntualid
 
 ### CAPÍTULO CUARTO. INCIDENCIAS DE REGISTRO DE ENTRADA Y SALIDA
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 2/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE MARZO DE 2014)</small>
+
 ###### Artículo 11.
 
-Los titulares de los órganos jurisdiccionales y de las áreas administrativas podrán justificar omisiones de registro de entrada o salida y retardos de los servidores públicos a su cargo. Para tal fin deberán observar la normatividad aplicable y lo dispuesto en las Condiciones Generales de Trabajo de los servidores públicos a cargo del Consejo de la Judicatura Federal.
+Los titulares de los órganos jurisdiccionales, de cada ponencia en el caso de los tribunales colegiados y de las áreas administrativas, serán los únicos que podrán justificar omisiones de entrada, salida, retardos y faltas de los servidores públicos a su cargo, de conformidad con este Acuerdo y lo dispuesto en el artículo 52 de las Condiciones Generales de Trabajo de los servidores públicos a cargo del Consejo de la Judicatura Federal.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 2/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE MARZO DE 2014)</small>
 
 ###### Artículo 12.
 
-El Auxiliar de Asistencia y Puntualidad, previa conformidad del titular, deberá asentar las justificaciones por omisión de registro de entrada o salida, retardos y faltas, en los siguientes casos:
+Para efectos del Registro, son casusas de justificación por omisión de registro de entrada, salida, retardos y faltas las siguientes:
 
-I. Las otorgadas por el titular del órgano jurisdiccional o del área administrativa de su adscripción, de acuerdo con el artículo anterior;
+I. Por caso fortuito o fuerza mayor: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa, por alguna de esas circunstancias;
 
-II. Por caso fortuito o fuerza mayor;
+II. Por formación, capacitación y actualización: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa, cuando el servidor público realice estudios para la obtención de grado académico con reconocimiento y validez oficial e instituciones de educación superior que estén debidamente acreditadas, se encuentre inscrito en curso impartido por el Instituto de la Judicatura Federal o auspiciados por el Consejo de la Judicatura Federal. En estos supuestos sólo se podrá justificar el retardo en la entrada o la salida anticipada.
 
-III. Por causas del servicio público;
+III. Por servicio público: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa para el cumplimiento de las funciones a cargo del servidor público;
 
-IV. Por licencias expedidas conforme a la normatividad aplicable;
+IV. Por licencia o días económicos en términos de las disposiciones normativas establecidas;
 
-V. Por otorgamiento de días económicos;
+V. Por suspensión oficial de labores;
 
-VI. Por suspensión de labores en términos de las disposiciones correspondientes;
+VI. Por vacaciones; y
 
-VII. Por vacaciones; y
-
-VIII. Los demás que determinen el Pleno o las Comisiones.
+VII. Por determinación del Pleno o Comisiones.
 
 ### CAPÍTULO QUINTO. VERIFICACIÓN
 
@@ -162,3 +168,13 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo G
 CUARTO. Hasta en tanto se adscriba a los órganos jurisdiccionales el Coordinador Técnico Administrativo, la función del Auxiliar de Asistencia y Puntualidad deberá recaer en el servidor público que designe el titular respectivo.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 34/2013, del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos del registro automatizado de entrada y salida de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de nueve de octubre de dos mil trece, por mayoría de cinco votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera; en contra del voto del señor Consejero Juan Carlos Cruz Razo.- México, Distrito Federal, a nueve de octubre de dos mil trece.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 7 DE MARZO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las excepciones que hayan sido otorgadas por los titulares de los órganos jurisdiccionales, con fundamento en el numeral SEXTO, fracción II, del Acuerdo General 49/2011, del Pleno del Consejo de la Judicatura Federal, que establece la jornada y horario de trabajo de los servidores públicos adscritos a los Juzgados de Distrito y Tribunales de Circuito, así como el horario de atención al público en los órganos jurisdiccionales del Poder Judicial de la Federación, durante su vigencia, quedarán sin efecto dentro de los cinco días posteriores a la entrada en vigor de este Acuerdo, plazo dentro del cual los servidores públicos excepcionados deberán quedar enrolados en el Registro, salvo que se trate del secretario particular y chofer de funcionario de Magistrado de Circuito o Juez de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Intranet del Consejo de la Judicatura Federal.
