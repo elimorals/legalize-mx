@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-para-la-proteccion-y-preservacion-del-1799
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-19"
-last_updated: "2000-09-19"
+last_updated: "2014-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO, EN MATERIA DE AREAS NATURALES PROTEGIDAS
 
-REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO EN MATERIA DE AREAS NATURALES PROTEGIDAS
+REGLAMENTO DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO EN MATERIA DE ÁREAS NATURALES PROTEGIDAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO EN MATERIA DE ÁREAS NATURALES PROTEGIDAS DE COMPETENCIA ESTATAL Y ZONAS DE RESTAURACIÓN, PUBLICADO EN EL P.O. DE 7 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 19 de septiembre de 2000.
 
@@ -718,3 +720,33 @@ LIC. ANTONIO OBREGÓN PADILLA
 EL SECRETARIO DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 
 ING. CRISTÓBAL ASCENCIO HERNÁNDEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MARZO DE 2014.
+
+Inicio de vigencia del Reglamento
+
+Artículo Primero. El presente Reglamento entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de Reglamento
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 176, mediante el cual, se expidió el Reglamento de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato en materia de Áreas Naturales Protegidas, publicado en el Periódico Oficial del Gobierno del Estado número 75, Segunda Parte, de fecha 19 de septiembre del 2000.
+
+Culminación de procedimientos previos a la vigencia del Reglamento
+
+Artículo Tercero. Los procedimientos que se estén tramitando ante el Instituto a la entrada en vigencia del presente Reglamento se substanciarán conforme a las disposiciones del ordenamiento que se abroga hasta su debida conclusión, no pudiendo exceder de un plazo de 180 días hábiles.
+
+Término para la integración del Inventario
+
+Artículo Cuarto. El Instituto integrará el Inventario Estatal de Áreas Naturales Protegidas de competencia estatal y Zonas de Restauración dentro de los 30 días hábiles siguientes a la entrada en vigencia del presente Reglamento.
+
+Inscripción de las declaratorias y programas de manejo
+
+Artículo Quinto. El Instituto solicitará la inscripción de las declaratorias y programas de manejo de las áreas naturales protegidas de competencia estatal en el Registro Público de la Propiedad dentro de los 30 días hábiles siguientes a la entrada en vigencia del presente Reglamento.
+
+Término para la instalación de los comités técnicos y la expedición de su reglamento interno
+
+Artículo Sexto. Los Comités Técnicos de las áreas naturales protegidas de competencia estatal ya declaradas tendrán un plazo hasta de 90 días naturales siguientes a la entrada en vigencia del presente Reglamento, para su instalación.
+
+Dentro de los 30 días hábiles posteriores a su instalación deberán aprobar y expedir su reglamento interno.
