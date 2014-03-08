@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48153"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2013-11-02"
+last_updated: "2014-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERÍA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -1087,17 +1087,23 @@ El presente Decreto entrará en vigor el día 1° de enero del año 2006, previa
 
 Los créditos fiscales que se causaron antes de la entrada en vigor de la presente Ley, se seguirán y concluirán en la forma y los términos previstos por la ley o acuerdo que los creo.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO TERCERO.
 
-Por concepto de estímulo fiscal, en el ejercicio fiscal 2013, a los contribuyentes que paguen los derechos que resulte de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento, se les condonan los recargos generados y las multas impuestas por falta de pago oportuno por los conceptos mencionados, en el ejercicio 2013 y anteriores, en los periodos y porcentajes que a continuación se establecen:
+Por concepto de estímulo fiscal, en el ejercicio fiscal 2014, a los contribuyentes que paguen los derechos que resulte de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento, se les condonan los recargos generados y las multas impuestas por falta de pago oportuno por los conceptos mencionados, en el ejercicio 2013 y anteriores, en los periodos y porcentajes que a continuación se establecen:
 
-PERIODO NOVIEMBRE Y DICIEMBRE
+PERIODO MARZO Y ABRIL
 
 BASE 100%
 
-Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Organismo Operador Municipal celebren convenio para pago en parcialidades.
+Para ser beneficiario de este estímulo, los usuarios deberán pagar en el mismo momento que reciban el estímulo, los derechos que resulten de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento por la anualidad adelantada del año 2014.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2014, el beneficio a que se refiere la fracción II, del artículo 22 de esta Ley, se amplía hasta el 30 de abril del citado año, además de no generar los recargos correspondientes en dicha prórroga.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -1158,3 +1164,7 @@ P.O. 2 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
+
+P.O. 8 DE MARZO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
