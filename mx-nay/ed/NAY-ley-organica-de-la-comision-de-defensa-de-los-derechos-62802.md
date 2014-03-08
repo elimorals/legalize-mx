@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2013-10-29"
+last_updated: "2014-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -113,9 +113,11 @@ Para garantizar su autonomía constitucional, la Comisión será independiente e
 
 La Comisión tendrá la facultad de establecer, con base en su presupuesto de egresos autorizado, la estructura, forma y modalidades de su organización interior, en los términos que establece esta Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 5.
 
-El Consejo de la Comisión, previa propuesta de la Presidencia, tendrá la facultad de emitir los reglamentos, acuerdos, circulares o cualquier otra disposición general que sea necesaria para el cumplimiento del objeto de la misma.
+El Presidente de la Comisión tendrá la facultad de emitir los reglamentos, acuerdos, circulares o cualquier otra disposición general que sea necesaria para el cumplimiento del objeto de la misma.
 
 ###### ARTÍCULO 6.
 
@@ -231,7 +233,9 @@ VI. Formular denuncias y quejas ante las autoridades correspondientes para la at
 
 VII. Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución de un conflicto planteado, cuando la naturaleza del caso lo permita;
 
-VIII. Expedir su reglamento interior, por conducto del Consejo, así como los acuerdos, circulares y demás ordenamientos que resulten necesarios para el funcionamiento de la Comisión;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
+
+VIII. Expedir su reglamento interior, por conducto del Presidente, así como los acuerdos, circulares y demás ordenamientos que resulten necesarios para el funcionamiento de la Comisión;
 
 IX. Supervisar el respeto a los Derechos Humanos en el sistema penitenciario, carcelario y de readaptación social, así como en los centros de internamiento médico, psiquiátrico y cualquier otro que la autoridad destine para la reclusión de personas en el Estado;
 
@@ -609,9 +613,11 @@ IV. Conocer y opinar en su caso, respecto del proyecto de presupuesto anual de e
 
 V. Las demás que le confiera esta ley, el reglamento de la misma y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 38.
 
-El Consejo celebrará sesiones ordinarias por lo menos una vez al mes, sin perjuicio de celebrar, en cualquier tiempo, las sesiones extraordinarias que sean necesarias para el eficaz desempeño de la Comisión.
+El Consejo celebrará sesiones ordinarias por lo menos una vez cada tres meses, sin perjuicio de celebrar, en cualquier tiempo, las sesiones extraordinarias que sean necesarias para el eficaz desempeño de la Comisión.
 
 El Presidente, por conducto de la Secretaría Técnica, convocará a las sesiones correspondientes, cuando menos con 48 horas de anticipación a su celebración.
 
@@ -1516,3 +1522,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 29 DE OCTUBRE DE 2013.
 
 Artículo único.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 8 DE MARZO DE 2014.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
