@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-4470
 country: "mx"
 rank: "estatuto"
 publication_date: "1961-03-29"
-last_updated: "2011-05-31"
+last_updated: "2014-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # ESTATUTO JURIDICO PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-ESTATUTO JURIDICO PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2011.
+ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
 
 Estatuto Jurídico publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 29 de marzo de 1961.
 
@@ -249,13 +251,37 @@ Los pagos se verificarán en el lugar en que los trabajadores presten sus servic
 
 No deberán hacerse retenciones, descuentos o deducciones al salario de los trabajadores, salvo en los casos siguientes:
 
-I.- Cuando el trabajador contraiga deudas con el Estado por concepto de anticipo de salarios, pagos hechos con exceso, errores o pérdidas.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
 
-II.- Cuando se trate de cobro de cuotas sindicales ordinarias y extraordinarias o de aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el trabajador hubiere manifestado inicialmente de una manera expresa, su conformidad.
+I.- Cuando el trabajador contraiga deudas con el Estado por concepto de anticipo de salarios, pagos hechos con exceso, errores o pérdidas debidamente comprobados.
 
-III.- Cuando se trate de los descuentos ordenados por la Autoridad Judicial competente, para cubrir alimentos que fueren exigidos al trabajador.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
 
-El monto total de los descuentos no podrá exceder del 30% del importe del salario total, excepto en el caso a que se refiere la Fracción III de éste Artículo.
+II.- Cuando se trate de cobro de cuotas sindicales ordinarias o de aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el trabajador hubiere manifestado inicialmente de una manera expresa, su conformidad.
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
+
+III.- Cuando se trate de un impuesto a cargo del trabajador y la ley respectiva señale que deberá retenerse del salario, procurando el administrador de la nómina aplicar a favor del trabajador los estímulos o beneficios fiscales previstos por las leyes respectivas.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+IV.- Cuando se trate de los descuentos que se deriven del convenio de subrogación de servicios médicos, celebrados entre el Gobierno del Estado, sus trabajadores y el sistema de seguridad social que corresponda al trabajador.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+V.- Cuando se trate de los descuentos ordenados por la autoridad judicial competente, para cubrir alimentos que fueren exigidos al trabajador.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+VI.- De los descuentos a cargo del trabajador para contribuir al Fondo de Pensiones que le corresponda, y para cumplir obligaciones en las que haya consentido, derivados del pago de cualquiera de las prestaciones a que se refiere la ley respectiva.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+VII.- Cuando el trabajador contraiga deudas con aseguradoras, tiendas departamentales, FONACOT, o cadenas comerciales, que tengan convenio con la Sección Sindical a la que se encuentren agremiados, la Secretaría de Educación o Secretaría de Finanzas del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
+
+El monto total de los descuentos no podrá exceder del 30% del importe del salario total, excepto en el caso a que se refieren las fracciones III, IV, V, VI y VII de éste artículo.
 
 ###### ARTICULO 35o.
 
@@ -381,7 +407,9 @@ V.- Por resolución discrecional del Tribunal de Arbitraje en los casos siguient
 
 a).- Cuando el trabajador incurriere en falta de probidad y honradez o en actos de violencia, amagos, injurias o malos tratamientos contra sus jefes o compañeros o contra los familiares de uno u otros, ya sea dentro o fuera de las horas de servicio.
 
-b).- Cuando faltare por más de tres días consecutivos o más de cinco alternados en un mes, a sus labores sin causa justificada.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
+
+b ).- Cuando faltare por más de tres días consecutivos o más de cinco en un mes a sus labores sin causa justificada, cuando se trate de trabajadores no contemplados en el artículo 3° de la Ley General del Servicio Profesional Docente.
 
 c).- Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas y demás objetos relacionados con el trabajo.
 
@@ -397,17 +425,21 @@ En cuanto a los trabajadores que tengan bajo en estado de embriaguez o bajo la i
 
 i) (sic).- Por falta comprobada de incumplimiento al contrato de trabajo o por sanción que sea resultado de una sentencia ejecutoria. En los casos a que se refiere esta fracción, el trabajador que diere motivo para la terminación de los efectos del nombramiento, podrá ser desde luego suspendido de su trabajo, si con ello estuviere conforme la Directiva de la Sección Sindical a que perteneciese, pero si no fuera así, el jefe superior de la Dependencia, podrá ordenar su remoción a otro centro de trabajo distinto de aquel en que estuviere prestando sus servicios, hasta que sea resuelto en definitiva el conflicto por el Tribunal de Arbitraje. Cuando se trate de elementos no sindicalizados, la suspensión no requerirá tal conformidad sindical.
 
-### CAPITULO PRIMERO.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE MARZO DE 2014)</small>
 
-De la Sección Sindical.
+### CAPÍTULO OCTAVO. DEL SERVICIO PROFESIONAL DOCENTE
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+
+ARTICULO 42o BIS.- El ingreso, la promoción, el reconocimiento y la permanencia del personal docente y con funciones de dirección y supervisión así como de los asesores técnicos pedagógicos en la educación Básica que imparta el Estado de Coahuila de Zaragoza se regirán por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley Estatal de Educación de Coahuila de Zaragoza.
 
 ## TITULO TERCERO.
 
 De la organización colectiva de los Trabajadores de la Educación al Servicio del Estado y de los Municipios.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-De las Condiciones Generales de Trabajo.
+De la Sección Sindical.
 
 ###### ARTICULO 43o.
 
@@ -503,9 +535,9 @@ III.- Porque dejen de reunir los requisitos señalados por el Artículo 48. La v
 
 Las remuneraciones que se paguen a los Directores y empleados de la Sección Sindical, y en general, los gastos que origina el funcionamiento de ésta, serán cubiertos en todo caso por los miembros de la Sección.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-De las Huelgas.
+De las Condiciones Generales de Trabajo.
 
 ###### ARTICULO 59o.
 
@@ -527,9 +559,9 @@ IV.- Las demás reglas que fueren convenientes para obtener mayor regularidad, s
 
 En caso de que la Sección Sindical objetase substancialmente el acuerdo respecto a las condiciones generales de trabajo, podrá ocurrir ante el Tribunal de Arbitraje que resolverá en definitiva.
 
-### CAPITULO CUARTO.
+### CAPITULO TERCERO.
 
-Del Procedimiento en Materia de Huelgas y de la Intervención que corresponda al Tribunal de Arbitraje.
+De las Huelgas.
 
 ###### ARTICULO 62o.
 
@@ -579,9 +611,9 @@ La huelga sólo suspenderá los efectos del nombramiento de los Trabajadores de 
 
 La huelga deberá limitarse al mero acto de la suspensión del trabajo. Los actos violentos de los huelguistas contra las propiedades o las personas, tendrán como consecuencia, respecto de los responsables, la pérdida de su calidad de trabajador de la Educación al servicio del Estado y de los Municipios y la aplicación de las sanciones establecidas en el Artículo 262 de la Ley Federal del Trabajo, si los hechos realizados por aquéllos o por los terceros que tomaren parte en el movimiento, reúnen las características de las infracciones previstas en dicho Artículo.
 
-### CAPITULO CUARTO (SIC).
+### CAPITULO CUARTO.
 
-De los Riesgos Profesionales.
+Del Procedimiento en Materia de Huelgas y de la Intervención que corresponda al Tribunal de Arbitraje.
 
 ###### ARTICULO 69o.
 
@@ -643,9 +675,9 @@ Al resolverse que una declaración de huelga es legal, el Tribunal de Arbitraje 
 
 De los Riesgos Profesionales y de las Enfermedades no Profesionales.
 
-### CAPITULO PRIMERO.
+### CAPITULO CUARTO (SIC).
 
-De la Integración del Tribunal de Arbitraje.
+De los Riesgos Profesionales.
 
 ###### ARTICULO 80o.
 
@@ -715,9 +747,9 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 Del Tribunal de Arbitraje y del procedimiento que debe seguirse ante el propio Tribunal.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-De la competencia del Tribunal.
+De la Integración del Tribunal de Arbitraje.
 
 ###### ARTICULO 88o.
 
@@ -757,9 +789,9 @@ Los Secretarios y los empleados del Tribunal estarán sujetos a la presente Ley 
 
 Los gastos que origine el funcionamiento del Tribunal de Arbitraje, salvo lo prescrito en el Artículo 90, Párrafo 2o., serán cubiertos por el Estado, consignándose la planta en el presupuesto de Egresos del Estado.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-Del procedimiento ante el Tribunal de Arbitraje.
+De la competencia del Tribunal.
 
 ###### ARTICULO 95o.
 
@@ -770,6 +802,10 @@ I.- Para conocer de los conflictos individuales y colectivos que se susciten ent
 II.- Para conocer de los conflictos individuales y colectivos que surjan en el seno de la Sección Sindical de Trabajadores de la Educación al Servicio del Estado y Municipios.
 
 III.- Para llevar a cabo el registro de la Sección Sindical de Trabajadores de la Educación al Servicio del Estado y de los Municipios y la cancelación del mismo registro.
+
+### CAPITULO TERCERO.
+
+Del procedimiento ante el Tribunal de Arbitraje.
 
 ###### ARTICULO 96o.
 
@@ -915,11 +951,11 @@ LIC. JOSE SAUCEDO SILLER.
 
 (Rúbrica.)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE ENERO DE 1963.
 
-EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE, PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CÓDIGO CIVIL VIGENTE, PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 31 DE JULIO DE 2007.
 
@@ -930,3 +966,15 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 31 DE MAYO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto y a la Ley General del Servicio Profesional Docente.
+
+TERCERO.- Las autoridades escolares de las instituciones educativas establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios deberán armonizar su normatividad interna y demás disposiciones aplicables, de conformidad con las disposiciones de esta Ley, dentro de los seis meses siguientes a su entrada en vigor.
+
+CUARTO.- Las instituciones educativas, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios que a la entrada en vigor de la presente Ley se encuentren con permiso de suspensión deberán realizar las acciones conducentes a fin de reanudar sus labores educativas y en su caso atender lo dispuesto por el artículo 80 Bis de la presente Ley.
+
+QUINTO.- El Estatuto deberá armonizar sus términos a lo establecido por la Ley General del Servicio Profesional Docente, dentro de los seis meses siguientes a la entrada en vigor de la presente reforma.
