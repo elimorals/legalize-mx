@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2014-03-07"
+last_updated: "2014-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -2038,15 +2038,35 @@ La educación de los hijos es deber y derecho primario de los padres o de quiene
 
 La educación y la enseñanza será organizada como un proceso integral correlacionado con sus diversos ciclos, de modo que exista una adecuada articulación y continuidad entre todos sus grados, incluyendo el superior, y estará orientada a lograr el desarrollo armonioso de la personalidad humana, el amor a la Patria y el respeto a los derechos humanos conforme a lo dispuesto por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+
+El Ejecutivo del Estado a través de la Secretaría de Educación propondrá y en su caso aplicará los planes y programas de estudio de educación preescolar, primaria, secundaria y normal previamente determinados por la federación.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+
+Por lo que respecta al nivel bachillerato, la autoridad educativa estatal regulará en coordinación con la autoridad educativa federal los planes y programas de estudio, una vez establecido el marco curricular común.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+
+Se garantizará el derecho a la calidad en la educación obligatoria, de manera que los materiales y métodos educativos, la organización escolar, la infraestructura educativa, la idoneidad de los docentes y los directivos garanticen el máximo logro de aprendizaje de los educandos, así mismo gozarán de las prerrogativas que reconoce la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en los que el Estado Mexicano sea parte.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+
+A fin de garantizar la idoneidad de los docentes y los directivos, el ingreso al servicio profesional y la promoción a cargos con función de dirección o de supervisión en la educación básica y media superior que imparta el Estado, se realizará mediante concursos de oposición, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+
+El ingreso, la promoción, el reconocimiento y la permanencia en el servicio profesional se realizarán mediante evaluaciones obligatorias que garantizarán los conocimientos y capacidades que correspondan, y con pleno respeto a los derechos constitucionales de los trabajadores de la educación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2014)</small>
 
 ###### Artículo 118.
 
-El Estado y los municipios prestarán los servicios de educación preescolar, primaria y secundaria. Todos los habitantes del Estado deben cursar las dos últimas.
+El Estado y los municipios prestarán los servicios de educación preescolar, primaria, secundaria y media superior, estos niveles educativos serán obligatorios.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
 
-La educación preescolar, primaria y secundaria que impartan el Estado y los municipios en establecimientos sostenidos por recursos públicos será gratuita y tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+La educación inicial, especial, preescolar, primaria, secundaria y media superior que impartan el Estado y los municipios en establecimientos sostenidos por recursos públicos será gratuita, de calidad y tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional en la independencia y en la justicia.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2060,11 +2080,11 @@ El Estado sostendrá las Escuelas Normales indispensables para la preparación t
 
 Los centros particulares de enseñanza en todos sus tipos y grados, están sujetos a la inspección del Estado y, para la validez legal de los estudios que impartan, deben obtener autorización expresa, así como cumplir con los planes y programas oficiales. La autorización podrá ser negada o revocada discrecionalmente sin que contra tales resoluciones proceda juicio o recurso alguno.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
 
 ###### Artículo 119.
 
-Las Universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse así mismas de conformidad con la Ley que las crea y sus estatutos; se les reconoce personalidad jurídica, patrimonio propio y derecho a administrarlo; a ellas corresponde en forma privativa, establecer sus planes y programas de estudios, así como educar, investigar y difundir la cultura, dentro de la más absoluta libertad de cátedra e investigación y de libre examen y discusión de las ideas; también tienen atribuciones para fijar los términos de ingreso, promoción y permanencia de su personal académico y administrativo, cuyas relaciones laborales se normarán en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
+Las Universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que este artículo se refiere.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4857,3 +4877,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Por los motivos, razones y fundamentos expuestos en los considerandos de este dictamen, ha lugar a que el Congreso haga declaratoria de que quedó aprobada la reforma Constitucional, contenida en el decreto que se transcribe en el considerando segundo de este dictamen; y, una vez hecho lo anterior, ordenar que se expida el decreto correspondiente y que se envíe al Ejecutivo Estatal para su promulgación, publicación y observancia.
 
 TERCERO.- Comuníquese éste dictamen al Pleno del Congreso, para su conocimiento, discusión y en su caso, aprobación.
+
+P.O. 8 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente.
