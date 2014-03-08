@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2013-05-20"
+last_updated: "2014-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -907,11 +909,17 @@ XVII. Integrar un padrón de beneficiarios de los programas de desarrollo social
 
 A la Secretaría de Educación le corresponde el despacho de los siguientes asuntos:
 
-I. Planear, dirigir y evaluar la educación en todos los tipos, niveles y modalidades, promoviendo la participación de los padres o tutores de los alumnos y de la colectividad;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
 
-II. Ejecutar la política educativa en la entidad, con apego a lo dispuesto en la Constitución federal y cumplir con los acuerdos que en materia educativa suscriba el estado;
+I. Planear, dirigir y colaborar en evaluar la educación conforme se establece en el sistema educativo nacional en todos los tipos, niveles y modalidades, promoviendo la participación de los padres o tutores de los alumnos y de la colectividad;
 
-III. Diseñar, autorizar e instrumentar los planes y programas de estudio que no sean exclusivos de la federación y evaluar su cumplimento;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
+
+II. Ejecutar la política educativa en la entidad que permita a los individuos recibir una educación de calidad, con apego a lo dispuesto en la Constitución Federal y cumplir con los acuerdos que en materia educativa suscriba el Estado;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
+
+III. Diseñar, autorizar e instrumentar los planes y programas de estudios que no sean exclusivos de la federación y demás para la formación de maestros de educación básica, la Secretaría también deberá mantenerlos acordes al marco de educación de calidad contemplado en el Servicio Profesional Docente, así como a las necesidades detectadas en las actividades realizadas a los componentes del sistema educativo nacional y evaluar su cumplimento;
 
 IV. Ofrecer servicios de educación inicial, básica, media y superior, así como de formación para el trabajo y de adultos en planteles de sostenimiento estatal y, en su caso, proponer la creación de escuelas e instituciones para lograr y mantener la cobertura universal;
 
@@ -923,9 +931,13 @@ VII. Ofrecer en los términos de la ley de la materia, la educación física, ar
 
 VIII. Establecer las metas y diseñar los programas para conseguirlas en materia de disminución del analfabetismo, incremento del promedio de escolaridad, combate al rezago y mejora de los indicadores de aprendizaje;
 
-IX. Operar los procesos de formación inicial y permanente de los directivos y docentes del Sistema Educativo Estatal;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
 
-X. Organizar y coordinar la medición y evaluación permanente del proceso educativo y el desempeño de educandos, educadores y autoridades del sector;
+IX. Operar los procesos de formación inicial y permanente de los directivos y docentes del Sistema Educativo Estatal conforme a la normatividad que para tal efecto expidan las autoridades educativas federales, sin detrimento de las facultades que a nivel Estatal tenga la Secretaría;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
+
+X. Organizar, coordinar y contribuir en el ámbito de su competencia en la medición y evaluación permanente del servicio profesional docente en la educación básica y media superior;
 
 XI. Promover los derechos humanos, la no discriminación, la perspectiva de género, el respeto a la diversidad, la transparencia y el acceso a la información en los contenidos de los programas educativos y en el proceso de enseñanza aprendizaje;
 
@@ -945,9 +957,57 @@ XVIII. Regular y coordinar el servicio social de estudiantes y profesionistas;
 
 XIX. Organizar el sistema de bibliotecas y librerías del estado y promover la lectura dentro del sector educativo y en la población en general;
 
-XX. Impulsar la práctica literaria, la edición de libros, recursos didácticos y el desarrollo de programas informáticos y tecnológicos para apoyar el proceso educativo, y
+XX. Impulsar la práctica literaria, la edición de libros, recursos didácticos y el desarrollo de programas informáticos y tecnológicos para apoyar el proceso educativo, y (sic)
 
 XXI. Ajustar, en su caso, el calendario escolar fijado por la autoridad educativa federal para cada ciclo lectivo y coordinar con la Secretaría de Gobierno los eventos y actos cívicos del gobierno del estado.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXII. Participar en las actividades tendientes a realizar evaluaciones para el ingreso, la promoción, el reconocimiento y la permanencia en el Servicio Profesional Docente, de conformidad con lo dispuesto en la Ley General del Servicio Profesional Docente;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXIII. Ejecutar de manera concurrente y adicional con las autoridades federales programas para la inducción, actualización, capacitación y superación de maestros de educación media superior, los que deberán sujetarse, en lo conducente a lo dispuesto por la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXIV. Participar en la realización, en forma periódica y sistemática, en instrumentos de evaluación a los educandos, así como corroborar que el trato de los educadores hacia aquéllos corresponda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por el Estado Mexicano, y demás legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXV. Diseñar y aplicar los instrumentos de evaluación que consideren necesarios para garantizar la calidad educativa en el ámbito de su competencia, atendiendo los lineamientos que en ejercicio de sus atribuciones emita el Instituto Nacional para la Evaluación de la Educación;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXVI. Coordinar y operar un sistema de asesoría y acompañamiento a las escuelas públicas de educación básica y media superior, como apoyo a la mejora de la práctica profesional, de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXVII. Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, de conformidad con las disposiciones generales que la Secretaría de Educación Pública determine, y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXVIII. Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto al federalismo, la autonomía universitaria y la diversidad educativa;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXIX. Participar en la actualización e integración permanente del Sistema de Información y Gestión Educativa, mismos que también deberá proporcionar información para satisfacer las necesidades de operación de los sistemas educativos, de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXX. Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXXI. Promover la transparencia en las escuelas públicas y particulares en las que se imparta educación obligatoria, vigilando que se rinda ante la comunidad escolar, después de cada ciclo escolar, un informe de sus actividades y rendición de cuentas, a cargo del director del plantel;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXXII. Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de queias (sic) del servicio público educativo, y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
+XXXIII. Las demás que le correspondan conforme a esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 29.
 
@@ -1670,3 +1730,15 @@ QUINTO.- Los asuntos en trámite que por motivo del presente decreto deban pasar
 SEXTO.- En un término de 90 días a partir de la entrada en vigor del presente decreto, el titular de la Secretaría de Gobierno deberá remitir a la Consejería Jurídica los correspondientes anteproyectos de reglamentos necesarios para el cumplimiento de sus nuevas atribuciones, para ser sometidos a la consideración del Gobernador.
 
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 8 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto y a la Ley General del Servicio Profesional Docente.
+
+TERCERO.- Las autoridades escolares de las instituciones educativas establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios deberán armonizar su normatividad interna y demás disposiciones aplicables, de conformidad con las disposiciones de esta Ley, dentro de los seis meses siguientes a su entrada en vigor.
+
+CUARTO.- Las instituciones educativas, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios que a la entrada en vigor de la presente Ley se encuentren con permiso de suspensión deberán realizar las acciones conducentes a fin de reanudar sus labores educativas y en su caso atender lo dispuesto por el artículo 80 Bis de la presente Ley.
+
+QUINTO.- El Estatuto deberá armonizar sus términos a lo establecido por la Ley General del Servicio Profesional Docente, dentro de los seis meses siguientes a la entrada en vigor de la presente reforma.
