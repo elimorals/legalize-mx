@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-prevencion-y-gestion-integral-de-residuos-del-56633
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-12"
-last_updated: "2007-07-12"
+last_updated: "2014-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO
 
-LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO
+LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de julio de 2007.
 
@@ -51,9 +51,11 @@ Ley para la Prevención y Gestión Integral de Residuos del Estado de Durango.
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y NORMAS PRELIMINARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2014)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de observancia general en el Estado de Durango, sus disposiciones son de orden público e interés social y tienen por objeto:
+La presente Ley es reglamentaria del artículo 26 de la Constitución Política del Estado Libre y Soberano de Durango de orden público, interés social y de observancia general en el Estado de Durango, tienen por objeto:
 
 I.- Garantizar el derecho de toda persona al medio ambiente adecuado y propiciar el desarrollo sustentable a través de la prevención, de la generación, la valorización y la gestión integral de los residuos sólidos urbanos y de manejo especial; la prestación del servicio público de limpia; prevenir la contaminación de sitios y llevar a cabo su remediación; así como aplicar los principios de valorización, responsabilidad compartida y manejo integral de residuos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, los cuales deben de considerarse en el diseño de instrumentos, programas y planes de política ambiental para la gestión de residuos;
 
@@ -179,7 +181,9 @@ El Estado y los Municipios, ejercerán sus atribuciones en materia de prevenció
 
 Son facultades del Poder Ejecutivo del Estado de Durango:
 
-I. Formular, conducir y evaluar la política Estatal en materia de residuos así como elaborar el Programa Estatal para la prevención y gestión integral de los residuos y el programa Estatal de remediación de sitios contaminados, en el marco del sistema estatal de planeación democrática, establecido en el artículo 13 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2014)</small>
+
+I. Formular, conducir y evaluar la política Estatal en materia de residuos así como elaborar el Programa Estatal para la prevención y gestión integral de los residuos y el programa Estatal de remediación de sitios contaminados, en el marco del Sistema Estatal de Planeación del Desarrollo establecido en el artículo 45 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 II. Coadyuvar para el cumplimiento de las Normas Oficiales Mexicanas relativas al desempeño ambiental que deberá prevalecer en el manejo integral de residuos sólidos urbanos y de manejo especial;
 
@@ -1296,3 +1300,11 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MARZO DE 2014.
+
+Artículo Primero. El presente decreto entrará en vigor al día de su publicación.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan a las contenidas en el presente.
