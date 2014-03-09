@@ -4,7 +4,7 @@ identifier: "DUR-declaratoria-de-la-entrada-en-vigor-del-codigo-nacional-de-9966
 country: "mx"
 rank: "otro"
 publication_date: "2014-03-06"
-last_updated: "2014-03-06"
+last_updated: "2014-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # DECLARATORIA DE LA ENTRADA EN VIGOR DEL CODIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE MARZO DE 2014.</small>
 
 Declaratoria publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de marzo de 2014.
 
@@ -69,7 +69,9 @@ DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENAL
 
 Artículo Primero. Se declara la entrada en vigor del Código Nacional de Procedimientos Penales, promulgado por el C. Licenciado Enrique Peña Nieto, Presidente de la República, y publicado en el Diario Oficial de la Federación en fecha 05 de marzo del año 2014, en el Primer Distrito Judicial del Estado de Durango, Durango como residencia; comprende el Municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras del Municipio de San Dimas.
 
-Artículo Segundo. El Código Federal de Procedimientos Penales publicado en el Diario Oficial de la Federación el 30 de agosto de 1934, así como el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 278, y publicado en el Periódico Oficial del Gobierno del Estado de Durango, número 9 BIS, de fecha 30 de enero de 1992, y el Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232 y publicado en el Periódico Oficial número 11 extraordinario de fecha 05 de diciembre de 2008, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedarán abrogados, en el Primer Distrito Judicial del Estado de Durango, sin embargo respecto de los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite continuarán sus (sic) sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+> <small>(F. DE E., P.O. 9 DE MARZO DE 2014)</small>
+
+Artículo Segundo. El Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232 y publicado en el Periódico Oficial número 11 extraordinario de fecha 05 de diciembre de 2008, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, queda abrogado en el Primer Distrito Judicial del Estado de Durango, sin embargo respecto de los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite continuarán sus (sic) sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 
 ## ARTÍCULOS TRANSITORIOS
 
