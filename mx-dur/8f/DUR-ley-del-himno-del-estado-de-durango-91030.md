@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-himno-del-estado-de-durango-91030"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-06"
-last_updated: "2012-12-06"
+last_updated: "2014-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DEL HIMNO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 9 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de diciembre de 2012.
 
@@ -156,3 +158,19 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNÁNDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MARZO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Himno del Estado de Durango aprobada mediante decreto número 398 expedido por la Honorable LXV Legislatura del Congreso del Estado de Durango, publicada en el periódico oficial número 46 bis de fecha 6 de diciembre de 2012.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
