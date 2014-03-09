@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "2014-03-06"
+last_updated: "2014-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,15 @@ state: "DUR"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN I DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.
 
-NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 131 POR EL QUE SE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 07 DE MAYO DE 2014.
+NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 131 POR EL QUE SE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2014 Y FE DE ERRATAS PUBLICADA EN EL P.O. 9 DE MARZO DE 2014, ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 07 DE MAYO DE 2014.
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014 (ABROGADO DE MODO SUCESIVO POR DISTRITO JUDICIAL).
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE MARZO DE 2014.</small>
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -3487,7 +3487,9 @@ P.O. 6 DE MARZO DE 2014.
 
 Artículo Primero. Se declara la entrada en vigor del Código Nacional de Procedimientos Penales, promulgado por el C. Licenciado Enrique Peña Nieto, Presidente de la República, y publicado en el Diario Oficial de la Federación en fecha 05 de marzo del año 2014, en el Primer Distrito Judicial del Estado de Durango, Durango como residencia; comprende el Municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras del Municipio de San Dimas.
 
-Artículo Segundo. El Código Federal de Procedimientos Penales publicado en el Diario Oficial de la Federación el 30 de agosto de 1934, así como el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 278, y publicado en el Periódico Oficial del Gobierno del Estado de Durango, número 9 BIS, de fecha 30 de enero de 1992, y el Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232 y publicado en el Periódico Oficial número 11 extraordinario de fecha 05 de diciembre de 2008, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedarán abrogados, en el Primer Distrito Judicial del Estado de Durango, sin embargo respecto de los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite continuarán sus (sic) sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+> <small>(F. DE E., P.O. 9 DE MARZO DE 2014)</small>
+
+Artículo Segundo. El Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232 y publicado en el Periódico Oficial número 11 extraordinario de fecha 05 de diciembre de 2008, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, queda abrogado en el Primer Distrito Judicial del Estado de Durango, sin embargo respecto de los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite continuarán sus (sic) sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 
 > <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 131 QUE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO.</small>
 
