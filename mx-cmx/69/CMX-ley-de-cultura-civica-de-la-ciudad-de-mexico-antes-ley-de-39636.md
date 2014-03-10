@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2012-05-31"
+last_updated: "2014-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2014.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -548,11 +548,7 @@ XIV. Percutir armas de postas, diábolos, dardos o municiones contra personas o 
 
 XV. Participar de cualquier manera, organizar o inducir a otros a realizar competencias vehiculares de velocidad en vías públicas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
-
-XVI. Hacer disparos al aire con arma de fuego;
+XVI. (DEROGADA, G.O. 10 DE MARZO DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1595,3 +1591,9 @@ G.O. 31 DE MAYO DE 2012.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
 
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE MARZO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
