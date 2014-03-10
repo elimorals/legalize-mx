@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-sistema-de-participacion-ciudadana-municipal-573
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-15"
-last_updated: "2013-12-09"
+last_updated: "2014-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de octubre de 2007.
 
@@ -59,17 +59,17 @@ IV. Establecer una relación horizontal entre ciudadanos y autoridades, garantiz
 
 V. Integrar la participación ciudadana a proyectos estratégicos de desarrollo social y comunitario.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 3°.
 
-Corresponde al Presidente Municipal, a través de la Secretaría de Integración Social del Municipio de Aguascalientes, la coordinación, promoción, supervisión y ejecución del Sistema de Participación Ciudadana.
+Corresponde al Presidente Municipal, a través de la Secretaria De Desarrollo Social la coordinación, promoción, supervisión y ejecución del Sistema de Participación Ciudadana.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 4°.
 
-La Secretaría de Integración Social del Municipio de Aguascalientes creará, en su estructura organizativa, un área operadora del Sistema, quien tendrá, a su vez, la responsabilidad de formar la estructura del Sistema de Participación Ciudadana Municipal y de realizar los ajustes que, para su buen funcionamiento, fueran necesarios.
+La Secretaría de Desarrollo Social del municipio de Aguascalientes creará en su estructura organizativa, un área operadora del Sistema, quien tendrá a su vez, la responsabilidad de formar la estructura del Sistema de Participación Ciudadana Municipal y de realizar los ajustes que, para su buen funcionamiento fueran necesarios.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -101,69 +101,25 @@ Los órganos del Sistema deberán ser apartidistas, en caso contrario perderán 
 
 Antes de poner en marcha los programas a que se hace alusión el presente ordenamiento, las dependencias municipales acordarán con la Secretaría de Integración Social del Municipio de Aguascalientes el proceso de coordinación para la vinculación que establece el artículo 6° de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 10.
 
-El Presidente Municipal velará porque la Secretaría de Integración Social del Municipio de Aguascalientes, cuente con el respaldo y apoyo necesario para atender al máximo las necesidades y demandas de los Comités de Integración Social y Convivencia Ciudadana y la sociedad en general.
+El Presidente Municipal velará por que la Secretaria de Desarrollo Social del municipio de Aguascalientes cuenten (sic) con el respaldo y apoyo necesario para atender al máximo las necesidades y demandas de los Grupos De Acción Y Participación Social y la sociedad en general.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
-### CAPITULO II. De las Regiones Municipales
+### CAPITULO II. Zonas de Participación Ciudadana Municipal
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 11.
 
-El Municipio de Aguascalientes se dividirá en nueve Regiones Urbanas y una Región Rural, las cuales serán:
-
-I. Región Centro,
-
-II. Región Circunvalación,
-
-III. Región Insurgentes,
-
-IV. Región Universidad,
-
-V. Región Ferrocarril,
-
-VI. Región Ojocaliente,
-
-VII. Región Cumbres,
-
-VIII. Región San Pedro,
-
-IX. Región Industrial y
-
-X. Región Rural.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+El Municipio de Aguascalientes se dividirá en las Zonas de Participación Ciudadana Municipal Urbana y Rural, que se establezcan en el Sistema Municipal De Información Geográfica y Estadística (SMIGE) que elabora el Instituto Municipal de Planeación y cada una de ellas se integrará por los desarrollos y localidades que dicho sistema determine.
 
 ###### ARTÍCULO 12.
 
-Las Regiones urbanas y rural comprenderán los siguientes desarrollos y localidades:
-
-I. A la Región Centro le comprenderá; Zona Centro, Condominio Hornedo Condominio. Colonia Obraje, Barrio El Encino, Colonia El Llanito, Fraccionamiento Residencial El Encino, Fraccionamiento Triana, Unidad habitacional Para Burócratas, Condominio Horizontal Rinconada Cristo Negro. Barrio La Salud, Fraccionamiento San Fernando, Fraccionamiento Gámez, Condominio Villas Del Acueducto, Fraccionamiento Jardines De Triana, Condominio Vertical Triana, Colonia Laurel, Condominio Conjunto Habitacional La Luna, Condominio Conjunto Residencial Cosío, Condominio Conjunto Residencial San Miguel, Condominio Joyas Del Sur, Condominio Rinconada De La Asunción, Condominio Virreyes, Fraccionamiento Los Fresnos. Barrio La Purísima, Barrio La Estación. Barrio Guadalupe, Barrio San Marcos, Colonia Del Carmen, Condominio Soledad Larreátegui, Condominio Horizontal Guadalupe Posada, Condominio Vertical Libertad, Condominio Vertical Rinconada De (sic)
-
-II. Guadalupe (sic), Especial Panteón De La Cruz, Especial Panteón De Los Ángeles. Colonia Gremial, Colonia Primavera, Colonia Morelos. Colonia Industrial, Fraccionamiento El Sol, Colonia La Fe, Condominio Vertical Bugambilias, Condominio Horizontal tianguis San Juanito. Colonia Altavista, Colonia San Pablo, Colonia Miravalle, Colonia Buenos Aires.
-
-II (SIC). A la Región Circunvalación le corresponde, Fraccionamiento Circunvalación Poniente, Condominio Expo-Plaza, Colonia Las Flores, Fraccionamiento Las Torres; Fraccionamiento Residencial Los Pirules, Unidad Habitacional Vivienda Popular, Especial Zona Ferial. Fraccionamiento Del Valle 1a Sección, Fraccionamiento Del Valle 2a Sección, Fraccionamiento Del Valle Rio San Pedro, Fraccionamiento Modelo, Colonia San Marcos, Fraccionamiento San Marcos. Fraccionamiento Antonio Garza Elizondo, Fraccionamiento Bulevar, Subdivisión Caminero, Especial Centro Comercial Chedraui, Condominio Centro Comercial Plaza Fiesta, Condominio Centro Comercial Villasunción, Especial Desarrollo Especial Anega, Fraccionamiento Fuentes De La Asunción, Fraccionamiento Jardines De Aguascalientes, Fraccionamiento Jardines De La Asunción, Fraccionamiento Jardines De La Luz, Fraccionamiento Jardines De Las Bugambilias, Fraccionamiento Jardines De Las Fuentes, Fraccionamiento Jardines Del Parque, Fraccionamiento Lindavista, Subdivisión Los Cedros, Especial Museo Descubre, Fraccionamiento Pirámides, Especial Quinta Real, Fraccionamiento Residencial Del Parque Condominio, Condominio Horizontal Rinconada Del Parque, Especial (Parque) Rodolfo Landeros Gallegos, Especial Teatro Aguascalientes. Condominio Centro Comercial Plaza San Marcos, Fraccionamiento Circunvalación Norte, Condominio Diamante, Subdivisión Dominium, Fraccionamiento Las Arboledas, Fraccionamiento San Cayetano, Fraccionamiento Villas De La Universidad. Subdivisión Agricultura, Fraccionamiento Bulevares 1a Sección, Fraccionamiento Bulevares 2a Sección, Condominio Centro Comercial El Dorado, Fraccionamiento El Dorado 1a Sección, Fraccionamiento El Dorado 2a Sección, Fraccionamiento Jardines De Santa Elena 2a Sección, Fraccionamiento Jardines Del Sur, Fraccionamiento La Fuente, Fraccionamiento Las Américas, Fraccionamiento Montebello, Fraccionamiento Prados Del Sur, Fraccionamiento Santa Elena, Fraccionamiento Valle Dorado, Fraccionamiento Versalles I, Fraccionamiento Versalles II, Fraccionamiento Villa Jardín I, Fraccionamiento Villa Jardín II. Especial Colegio Marista, Condominio Coto Del Rio, Colonia Curtidores, Fraccionamiento Gómez, Condominio Guadalupe 104, Condominio Guadalupe 106, Subdivisión Heliodoro García, Unidad Habitacional J. Guadalupe Posada, Fraccionamiento La Concordia, Fraccionamiento La Fundición, Fraccionamiento Las Brisas, Fraccionamiento Moderno, Colonia Olivares Santana, Fraccionamiento Panorama, Especial Parque Funeral Jardines Eternos 2a Sección, Fraccionamiento Ramón Romo Franco, Condominio Residencial Guadalupe. Fraccionamiento Colinas De San Ignacio, Fraccionamiento Colinas Del Poniente, Fraccionamiento Colinas Del Rio, Condominio Horizontal Línea De Fuego, Fraccionamiento Los Sauces. Condominio Horizontal Andrea, Especial Antigua Estación De Pemex, Fraccionamiento El Plateado, Fraccionamiento El Roble, Fraccionamiento Independencia, Fraccionamiento Industrial, Fraccionamiento La Rinconada, Fraccionamiento Las Hadas, Fraccionamiento Los Arcos, Fraccionamiento Nueva Rinconada, Fraccionamiento Villas De San Francisco.
-
-III. A la Unidad Regional Insurgentes le corresponde, Fraccionamiento Insurgentes, Colonia Vicente Guerrero, Fraccionamiento Vicente Guerrero. Fraccionamiento Educación Álamos, Fraccionamiento José López Portillo, Colonia Nueva España. Subdivisión Barranca de Guadalupe, Fraccionamiento España, Fraccionamiento Hermanos Carreón, Fraccionamiento Los Pirules, Especial Zona Ferial. Colonia Martínez Domínguez, Fraccionamiento Pilar Blanco, Unidad Habitacional Potreros del Oeste, Fraccionamiento Prados De Villasunción, Colonia San Pedro, Fraccionamiento Trojes Del Sur. Fraccionamiento Casa solida, Subdivisión Conjunto San Francisco, Fraccionamiento La Casita, Fraccionamiento La Estancia, Especial Panteón San Francisco, Subdivisión Rinconada del Sur, Subdivisión Torres de San Francisco, Condominio Torres de San Francisco I, Condominio Torres De San Francisco II, Condominio Torres De San Francisco III, Fraccionamiento Villas de Santa Rosa, Fraccionamiento Villas del Oeste, Fraccionamiento Villas del Pilar I, Fraccionamiento Villas del Pilar II, Fraccionamiento Villas del Pilar III, Fraccionamiento Villas del Pilar IV, Fraccionamiento Villas San Antonio, Fraccionamiento Vista del Sur, Localidad Granja San José, Localidad La Luz [Granja], Localidad La Luz [Rancho], Localidad Minerales Ganaderos.
-
-IV. A la Unidad Regional Universidad le corresponde, Condominio Horizontal Cerrada San Miguel, Condominio Cerrada Del Campanario, Condominio Coto San Xavier, Colonia Fátima, Condominio Fundición, Fraccionamiento Palma Real, Fraccionamiento Palmas Del Pedregal, Colonia Primo Verdad, Subdivisión Privada Benjamín Méndez, Condominio Privillege, Condominio Horizontal Puerta Navarra, Condominio Residencial Del Real, Condominio Rinconada De Los Álamos, Colonia San José del Arenal, Especial UGASA, Especial Universidad Autónoma De Aguascalientes, Especial Universidad Autónoma De Aguascalientes, Condominio Horizontal Villas Del Vergel. Condominio Barrio de Santiago, Condominio Barrio de Santiago Norte, Fraccionamiento Calicantos III, Fraccionamiento Cerrada de La Misión, Fraccionamiento Cerrada del Valle, Condominio Cerrada El Molino, Fraccionamiento Cerrada La Mezquitera, Condominio La Paloma, Fraccionamiento La Troje, Fraccionamiento Las Misiones, Condominio Las Trojes, Subdivisión Los Calicantos, Condominio Horizontal Los Jarales, Condominio Mamposteo, Condominio Horizontal Misión de Santiago I, Condominio Horizontal Misión de Santiago II, Fraccionamiento Misión del Campanario, Condominio Horizontal Portón de Santa Clara, Condominio Risco, Condominio Santa Fe, Condominio Santiago de Compostela, Condominio Terzetto, Colonia Trojes de Alonso, Condominio Horizontal Trojes de Cristal, Fraccionamiento Trojes del Sol, Fraccionamiento Valle del Campanario, Fraccionamiento Valle Real, Fraccionamiento Villas de San Alonso, Localidad Los Pavos [Granja], Localidad Trojes de Alonso. Fraccionamiento Bosques del Prado, Fraccionamiento Bosques del Prado Sur, Especial Colegio Cristóbal Colon, Fraccionamiento Granjas Campestre, Fraccionamiento Jardines de La Concepción I, Fraccionamiento Jardines de La Concepción II, Fraccionamiento Lomas del Campestre I, Fraccionamiento Lomas del Campestre II, Fraccionamiento Los Bosques, Condominio Marsella, Condominio Horizontal Puerto Las Hadas 1a Sección, Condominio Horizontal Puerto Las Hadas 2a Sección, Condominio Horizontal Puerto Las Hadas 3a Sección, Condominio Residencial Pulgas Pandas Norte, Condominio Residencial Pulgas Pandas Sur, Subdivisión Residencial San Pedro, Condominio Horizontal Rinconada Los Bosques, Subdivisión Trojes de Oriente, Fraccionamiento Trojes de Oriente I, Fraccionamiento Trojes de Oriente II, Fraccionamiento Valle de Las Trojes, Fraccionamiento Valle de Santa Teresa, Fraccionamiento Valle del Campestre, Fraccionamiento Villa de Las Trojes, Fraccionamiento Villas de Montenegro, Fraccionamiento Villas de San Nicolás, Fraccionamiento Villas del Campestre. Fraccionamiento Campestre 1a Sección, Fraccionamiento Campestre 2a Sección, Fraccionamiento Campestre 3a Sección, Fraccionamiento Campestre 4a Sección, Fraccionamiento Club Campestre, Condominio Horizontal Jardines del Campestre, Fraccionamiento La Herradura, Fraccionamiento Los Vergeles, Condominio Horizontal Rancho San Antonio. Condominio Agropecuario, Subdivisión Arroyo de la Hacienda, Fraccionamiento Arroyo El Molino, Condominio Centro Comercial Galerías, Condominio Centro Comercial Galerías I, Condominio Centro Comercial Y Residencial Altaria, Condominio Centro Distribuidor De Básicos, Especial Club Deportivo Futurama, Especial Costco, Especial Hotel Las Trojes, Condominio Horizontal La Enramada, Fraccionamiento Las Cavas, Especial San Marcos Leche, Colonia Talamantes Ponce, Localidad Interpec San Marcos, Localidad Villa-Eguia [Centro De Convenciones]. Condominio Contadero, Condominio Horizontal Desarrollo Ecológico del Club Campestre, Condominio La Plazuela, Condominio La Punta, Condominio Horizontal La Querencia, Fraccionamiento Las Quintas, Fraccionamiento Lomas de San José de Los Pocitos, Ejido Los Pocitos, Condominio Rincón Andaluz, Condominio Santa María, Fraccionamiento Tecnopolo Pocitos, Localidad Condominio Q Campestre, Localidad Condominio Ruscello, Localidad El Suspiro, Localidad Granja De Jesús, Localidad Granja Puente, Localidad Sandovales de Abajo, Localidad Sandovales de Arriba.
-
-V. A la Región Ferrocarril le corresponde, Condominio Horizontal Centro Comercial Plaza Aguascalientes, Colonia Del Trabajo, Especial Deportivo Ferrocarrilero, Colonia Ferronales, Colonia Héroes, Fraccionamiento La Huerta, Fraccionamiento Luis Gómez Zepeda, Colonia San Luis, Especial Tres Centurias Especial. Especial Almacenes, Fraccionamiento Bona Gens, Fraccionamiento Héroes de Aguascalientes, Unidad Habitacional IV Centenario, Fraccionamiento Jardines de La Cruz, Fraccionamiento Jesús Terán Peredo, Unidad Habitacional Lázaro Cárdenas, Unidad Habitacional Los Volcanes, Especial Molino San Marcos, Especial Normal Estado, Especial Secretaria de Obras Publicas del Estado, Unidad Habitacional Vivienda Militar. Condominio Horizontal Centro Plaza Abastos El Cerrito, Fraccionamiento Jardines de La Convención 1a Sección, Fraccionamiento Jardines de La Convención 2a Sección, Fraccionamiento Jesús Gómez Portugal, Fraccionamiento México, Fraccionamiento Ojo de Agua, Colonia Ojo de Agua, Condominio Vertical Ojo de Agua FOVISSSTE, Condominio Vertical Primo Verdad INEGI, Condominio Horizontal Rinconada del Cedazo, Fraccionamiento S.T.E.M.A. Fraccionamiento Alameda, Fraccionamiento Benito Juárez, Condominio Horizontal Bosques de La Alameda, Condominio Horizontal Bosques de La Alameda III, Especial Escuela Normal Superior, Fraccionamiento Lomas de Santa Anita, Condominio Nueva Alameda, Especial Parque La Pona, Especial Parque Santa Anita, Fraccionamiento S.T.E.M.A., Fraccionamiento Santa Anita, Fraccionamiento Santa Anita 4a Sección. Especial Antiguos Baños Del Ojocaliente, Especial Balneario Ojocaliente, Especial Bomberos Municipales, Especial Cámara Mexicana de la Industria de da Construcción, Especial Canaco SERVYTUR Aguascalientes, Especial Centro Escolar Triana, Fraccionamiento Ejido Ojocaliente, Fraccionamiento Ex-Hacienda Ojocaliente, Especial Instituto del Deporte del Estado de Aguascalientes, Especial Instituto Tecnológico de Aguascalientes, Condominio La Hacienda, Condominio La Mancha, Condominio Horizontal Misión La Alameda, Especial Parque de Maquinaria del Estado, Especial Policía Montada Municipal de Aguascalientes, Especial Secretaría de Seguridad Pública del Estado, Especial Unidad Deportiva IV Centenario. Especial El Cerrito, Condominio La Terraza, Fraccionamiento Morelos, Condominio Vertical Ojocaliente FOVISSSTE I, Fraccionamiento Ojocaliente FOVISSSTE II, Fraccionamiento Ojocaliente Las Torres, Especial Parque El Cedazo, Especial Parque El Cedazo, Subdivisión Villas de Ojocaliente. Fraccionamiento Jardines del Sol, Colonia La Cruz, Fraccionamiento Misión de Santa Fe, Especial Sensata Technologies, Fraccionamiento Vista del Sol I, Fraccionamiento Vista del Sol II, Fraccionamiento Vista del Sol III. Fraccionamiento Casablanca, Fraccionamiento Emiliano Zapata, Fraccionamiento Jardines de Casa Nueva 1a Sección, Fraccionamiento Jardines de Casa Nueva 2a Sección, Fraccionamiento Jardines de Casablanca, Fraccionamiento Morelos I, Fraccionamiento Morelos II, Condominio Valle del Cedazo, Condominio Villas de Morelos. Fraccionamiento Alianza Ferrocarrilera, Fraccionamiento Bosques del Prado Oriente, Fraccionamiento C.T.M., Fraccionamiento El Cóbano, Colonia Francisco Guel Jiménez, Fraccionamiento Hacienda El Cóbano, Fraccionamiento La Estrella, Fraccionamiento Las Viñas, Fraccionamiento Loma del Cóbano, Colonia Macías Arellano, Fraccionamiento Parras, Fraccionamiento Trojes del Cóbano, Fraccionamiento Villas del Cóbano. Fraccionamiento Conjunto Los Naranjos, Fraccionamiento Constitución, Fraccionamiento El Rosedal, Fraccionamiento Libertad, Fraccionamiento Pozo Bravo, Fraccionamiento Pozo Bravo Sur, Fraccionamiento Rinconada Pozo Bravo, Condominio Horizontal San José de Pozo Bravo, Fraccionamiento Soberana Convención Revolucionaria, Fraccionamiento Villa de Nuestra Señora de La Asunción, Sector Encino, Fraccionamiento Villa Teresa, Fraccionamiento Villas de La Convención, Localidad La Torre, Localidad San José Pozo Bravo Hormiguero.
-
-VI. A la Región Ojocaliente le corresponde, Fraccionamiento Cerro Alto, Subdivisión El Guadalupano, Fraccionamiento Lomas de La Asunción, Fraccionamiento Lomas de Oriente I, Especial Parque Ecológico de México, Fraccionamiento Pensadores Mexicanos, Fraccionamiento Pintores Mexicanos, Fraccionamiento Santa Margarita. Fraccionamiento C.N.O.P. Oriente, Fraccionamiento Ejido Cumbres, Fraccionamiento El Maguey, Colonia J. Refugio Esparza Reyes, Fraccionamiento Las Cumbres, Fraccionamiento Luis Ortega Douglas, Fraccionamiento Nazario Ortiz Garza, Especial Parque Natural Los Gringos, Fraccionamiento Progreso, Fraccionamiento Villa Bonita. Fraccionamiento Colinas de Oriente, Fraccionamiento Fidel Velázquez, Fraccionamiento Municipio Libre, Subdivisión Rinconada Alameda, Fraccionamiento Rodolfo Landeros Gallegos, Unidad Habitacional XIV Zona Militar. Colonia El Riego, Fraccionamiento Haciendas de Aguascalientes, Fraccionamiento Haciendas de Aguascalientes VI Etapa, Especial IMSS Hospital de Zona 2, Especial Instituto de Educación de Aguascalientes, Especial Instituto Estatal de Seguridad Publica de Aguascalientes, Fraccionamiento Ojocaliente I, Fraccionamiento Ojocaliente III, Condominio Ojocaliente INEGI, Fraccionamiento Villerías. Fraccionamiento Agua Clara, Fraccionamiento Balcones de Ojocaliente, Fraccionamiento Cielo Claro, Fraccionamiento Cima del Chapulín, Condominio Horizontal Del Rio, Fraccionamiento El Cedazo, Fraccionamiento Lomas del Chapulín, Fraccionamiento Periodistas, Condominio Rinconada San Antonio I, Ejido Salto de Ojocaliente, Fraccionamiento Solidaridad I, Fraccionamiento Solidaridad II, Fraccionamiento Solidaridad III, Fraccionamiento Solidaridad IV, Fraccionamiento Tierra Buena, Conjunto Habitacional Villa Taurina. Fraccionamiento Lomas de Vistabella, Fraccionamiento Lomas de Vistabella II, Fraccionamiento Lomas del Ajedrez, Fraccionamiento Lomas del Mirador, Fraccionamiento Lomas del Mirador II, Fraccionamiento Lomas del Mirador III, Fraccionamiento Lomas del Mirador IV, Fraccionamiento Lomas del Mirador V, Fraccionamiento Misión de Santa Lucia, Condominio Mujeres Divinas, Fraccionamiento Mujeres Ilustres, Condominio Villas del Ajedrez, Localidad El Copetillo, Localidad Tres Elenas.
-
-VII. A la Región Cumbres le corresponde, Condominio Cartagena 1947, Condominio Jardines de Montebello, Fraccionamiento Los Ángeles, Fraccionamiento Montebello Della Stanza, Condominio Residencial Las Plazas, Localidad Anexo al Palomino II, Localidad Santa Fe [Rancho]. Fraccionamiento El Puertecito, Fraccionamiento Natura, Condominio Naturaleza, Fraccionamiento Villa de Nuestra Señora de La Asunción, Sector Alameda, Fraccionamiento Villa de Nuestra Señora de La Asunción, Sector Estación, Fraccionamiento Villa de Nuestra Señora de La Asunción, Sector Guadalupe, Fraccionamiento Villa de Nuestra Señora de La Asunción, Sector San Marcos, Fraccionamiento Villas del Rio. Fraccionamiento Anexo Benito Palomino Dena (Cumbres II), Fraccionamiento Benito Palomino Dena, Fraccionamiento Claustros Loma Dorada, Fraccionamiento Cumbres III, Condominio Horizontal La Hojarasca, Fraccionamiento Lomas de Bellavista, Fraccionamiento Los Laureles, Fraccionamiento Los Laureles II, Condominio Los Laureles III, Fraccionamiento Los Pericos, Fraccionamiento Mirador de Las Culturas, Fraccionamiento Mirador de Las Culturas II, Fraccionamiento Miradores de Santa Elena, Fraccionamiento Villa de La Loma, Fraccionamiento Villa de Las Fuentes, Fraccionamiento Villa Loma Dorada, Fraccionamiento Villa Nova, Fraccionamiento Villas de Don Antonio, Localidad Norias de Ojocaliente (Caballo Blanco). Fraccionamiento Balcones de Oriente, Fraccionamiento Colinas de San Patricio, Comunidad El Roció, Colonia J. Guadalupe Posada, Fraccionamiento Paseos del Sol, Fraccionamiento Real de Haciendas, Fraccionamiento Real del Sol, Fraccionamiento Vista de Las Cumbres, Fraccionamiento Vistas de Oriente, Localidad El Polvorín (Mirador Tv Azteca), Localidad Loma Alta El Paraíso. Fraccionamiento J. Guadalupe Peralta Gámez, Fraccionamiento Paseo de Los Cactus, Fraccionamiento Valle de Los Cactus, Localidad Ejido El Centinela, Localidad El Centinela, Localidad El Chorizo, Localidad El Pirul, Localidad El Rodeo, Localidad La Calandria, Localidad Lomas del Gachupín, Localidad Los Amarraderos, Localidad Los Dolores, Localidad Santa Clara. Fraccionamiento Bajío De Las Palmas, Fraccionamiento La Lomita, Fraccionamiento Lomas De San Jorge II, Fraccionamiento Lomas De La Mandarina, Fraccionamiento Lomas De San Jorge, Fraccionamiento Lomas Del Gachupin, Fraccionamiento Ojo De Agua De Palmitas II, Fraccionamiento Reencuentro, Condominio Residencial Asturias, Fraccionamiento San Ángel, Fraccionamiento San Ángel II, Fraccionamiento San Jorge, Condominio Horizontal Tepame, Fraccionamiento Villa Las Palmas, Fraccionamiento Villa Las Palmas II, Fraccionamiento Villa Las Palmas III, Fraccionamiento Villalta, Localidad Centro de Parga, Localidad La Media Luna, Localidad Los Mirasoles, Localidad Rancho Benjamín Chávez Ruiz, Localidad San José, Localidad San Martin. Fraccionamiento Laureles del Sur, Fraccionamiento Lomas del Sur, Fraccionamiento Rancho San Francisco de Los Arteaga, Fraccionamiento San Javier, Fraccionamiento San Sebastián, Fraccionamiento Villa Sur. Fraccionamiento Arellano, Condominio Hacienda San Marcos, Fraccionamiento Lomas de Arellano, Fraccionamiento Lomas de Nueva York, Fraccionamiento Paseos de San Antonio.
-
-VIII. A la Región San Pedro le corresponde, Fraccionamiento Jardines Eternos II, Fraccionamiento La Perla, Fraccionamiento La Rioja, Colonia La Soledad, Fraccionamiento Misión de San Jerónimo, Fraccionamiento Parque Industrial Tecnopolo Pocitos II, Condominio Paseos del Rio, Fraccionamiento Puesta del Sol, Condominio Rancho Santa Elena, Condominio Residencial Hacienda San Ignacio, Condominio Rinconada de San Ignacio, Comunidad San Ignacio, Comunidad San Ignacio II, Fraccionamiento Valle de San Ignacio, Localidad Agua Azul, Localidad Aguascalientes [Hípico], Localidad Amarillo [Granja], Localidad Brande Vin [Bodegas], Localidad Centro de Reeducación para Menores, Localidad Césped San Ignacio, Localidad Cielo Grande, Localidad Coyotes, Localidad Don Abraham [Rancho], Localidad Doña María [Rancho], Localidad El Álamo, Localidad El Ausente (La Tigra), Localidad El Bramadero, Localidad El Carmen [Rancho], Localidad El Centavito 2, Localidad El Gavilán, Localidad El Misterio, Localidad El Molino, Localidad El Paraíso, Localidad El Puente [Granja], Localidad El Rodeo, Localidad El Rodeo Localidad El Socorro, Localidad El Tanque, Localidad El Vergel (El Paraíso), Localidad Ex-Hacienda de San Ignacio, Localidad Granja Brenda, Localidad Granja Chely, Localidad Granja Duarte, Localidad Granja Laura Angélica, Localidad Granja Lucy, Localidad Granja Lupita, Localidad Granja Margarita (Viñedos Aguascalientes), Localidad Granja Mariana, Localidad Granja San Antonio, Localidad Granja San José, Localidad Granja San Luis, Localidad Granja Santa Elena, Localidad Granja Vejarano, Localidad Granjas Del Valle, Localidad Granjas Quinta Yola, Localidad Hacienda Nueva, Localidad La Estrella [Rancho], Localidad La Fortuna, Localidad La Herradura [Rancho], Localidad La Laguna [Granja], Localidad La Lobera, Localidad La Mascota, Localidad La Perla, Localidad La Primavera [Granja], Localidad La Providencia, Localidad La Providencia (Granja Mary Chuy), Localidad La Providencia [Granja], Localidad La Trinidad, Localidad La Trinidad (La Lucita) [Granja], Localidad La Victoria, Localidad Las Palmas [Granja], Localidad Las Palomas, Localidad Los Barroso, Localidad Los Jiménez, Localidad los Lirios, Localidad Los Negritos, Localidad Ninguno, Localidad Ninguno, Localidad Ninguno, Localidad Ninguno, Localidad Ninguno [Centro De Neuropsiquiatría], Localidad Ninguno [Productora De Semillas Y Cereales], Localidad Ojo de Agua, Localidad Playas de Guadalupe, Localidad Playas De Guadalupe, Localidad Prohico, Localidad Rancho Galván, Localidad Rancho Margaritas, Localidad Rancho San Felipe, Localidad Rancho San José, Localidad San Felipe [viñedos], Localidad San Francisco, Localidad San Francisco del Arenal, Localidad San José Del Refugio, Localidad San Juan Del Rio, Localidad San Judas, Localidad San Martin (La Cantera), Localidad San Pascual [Rancho], Localidad Santa Gertrudis, Localidad Santa Rita, Localidad Santa Teresa [Granja], Localidad Tanque Los Carrizos, Localidad Tartratos Mexicanos, Localidad Tres Cruces, Localidad Viñedos San Felipe 2da. Sección, Localidad Viñedos San Francisco (Las Cochineras), Localidad Viñedos Santa Mónica, Localidad Viñedos Valle Redondo. Condominio Canteras de San Agustín, Fraccionamiento Canteras de San Javier, Fraccionamiento Canteras de San José, Subdivisión Canteras de Santa Imelda, Fraccionamiento Capital City, Especial Colegio Esperanza, Fraccionamiento El Quelite, Fraccionamiento El Vergel, Fraccionamiento Ex-Hacienda La Cantera, Colonia Francisco Villa, Condominio Fuentes Del Lago, Especial Isla San Marcos, Condominio Jardines del Lago, Fraccionamiento José Vasconcelos Calderón, Fraccionamiento Lic. Manuel Gómez Morín, Fraccionamiento Loma Bonita, Comunidad Loma de Los Negritos, Colonia Los Barandales San José, Condominio Horizontal Los Eucaliptos, Condominio Horizontal Los Eucaliptos 2a Secc., Fraccionamiento Misión de Juan Pablo II, Fraccionamiento Olinda, Condominio Paseos de Santa Mónica, Condominio Porta Canteras, Condominio Horizontal Providencia, Fraccionamiento Rancho Santa Mónica, Fraccionamiento Rinconada de San José, Fraccionamiento Rinconada Santa Mónica, Condominio Horizontal San Nicolás, Fraccionamiento Santa Imelda, Condominio Trojes de San Agustín I, Condominio Trojes de San Agustín II, Condominio Trojes de San Agustín III, Especial Universidad del Valle de México, Especial Universidad Tecnológica de Aguascalientes, Fraccionamiento Villas de La Cantera, Fraccionamiento Villas del Mediterráneo, Localidad CERESO (para varones y mujeres), Localidad Coyotes, Localidad Ejido Los Negritos, Localidad El Potrero, Localidad Granja Claudia, Localidad Los Negritos, Localidad San Martin (La Cantera), Localidad Los Barroso, Localidad La Fortuna, Localidad Ninguno [Centro De Neuropsiquiatría], Localidad Granja San Luis, Localidad La Lobera, Localidad Viñedos Santa Mónica, Localidad El Molino, Localidad San Pascual [Rancho], Localidad Viñedos Valle Redondo, Localidad Tres Cruces, Localidad El Carmen [Rancho], Localidad Ninguno [Productora De Semillas Y Cereales], Localidad Los Lirios, Localidad Rancho San Felipe, Localidad La Providencia, Localidad Granja Laura Angélica, Localidad El Centavito 2, Localidad Granja Margarita (Viñedos Aguascalientes), Localidad San Gabriel, Localidad San Juan Del Rio. Fraccionamiento Rústicos Calpulli, Colonia San Francisco del Arenal, Fraccionamiento San Francisco del Arenal, Condominio San Gerardo, Condominio Villas de Bonaterra, Localidad El Misterio, Localidad Ninguno, Localidad Prohico, Localidad San Francisco, Localidad San Francisco del Arenal, Localidad Santa Gertrudis, Localidad Tartratos Mexicanos, Localidad Viñedos San Francisco (Las Cochineras).
-
-IX. A la Región Industrial le corresponde, Fraccionamiento ALTEC, Condominio Central de abastos, Fraccionamiento Ciudad industrial, Especial NISSAN, Fraccionamiento Siglo XXI, Fraccionamiento Vista Alegre, Localidad Vista Alegre II, Localidad El Latifundio.
-
-X. A la Región Rural le corresponde, Fraccionamiento Lomas del Picacho, Localidad Buenavista, Localidad Casa Blanca, Localidad Casas Blancas, Localidad Ciudad de los Niños, Localidad Cuernavaca, Localidad Ejido Los Negritos, Localidad El Cariñán, Localidad El Carmen, Localidad El Carmen, Localidad El Changay, Localidad El Columpio, Localidad El Gigante (Arellano), Localidad El Lucero de La Cruz, Localidad El Mirador, Localidad El Molino [Granja], Localidad El Picacho [Rancho], Localidad El Plan del Jaral, Localidad El Rebozo, Localidad El Refugio de Santo Tomas [Rancho], Localidad El Varal, Localidad Frutas Concentradas, Localidad Granja Adelita, Localidad Granja Gemelas, Localidad Granja Guadalupe, Localidad Granja Marcela, Localidad Granja San Antonio, Localidad Huerta Marcela, Localidad K-10, Localidad La Cotorra, Localidad La Cueva de Los Pericos (Caitaime), Localidad La Esperanza, Localidad La Florida, Localidad La Fortuna (La Herradura), Localidad La Josefina, Localidad La Manga del Toro, Localidad La Nueva Teresa, Localidad La Puerta (Granjas Cariñan), Localidad La Purísima, Localidad Las Aguilillas, Localidad Las Durazneras, Localidad Las Isabeles, Localidad Las Víboras, Localidad Los Corales, Localidad Los Coyotes, Localidad Los Halcones, Localidad Los Membrillos, Localidad Los Olivos [Granja], Localidad Marlborito, Localidad Ninguno, Localidad Ninguno, Localidad Ninguno [Centro de Readaptación de Mínima Seguridad], Localidad Nochtli, Localidad Pedregal San Miguel Kilometro 2.5, Localidad Picacho [Club De Golf], Localidad Potrero del Molino, Localidad Presa Nueva, Localidad PROCON, Localidad Quinta La Luna, Localidad Rancho Alegre, Localidad Rancho de La Ciudad de Los Niños, Localidad San Andrés, Localidad San Cristóbal, Localidad San Francisco de La Cruz, Localidad San José, Localidad San José de Buenavista, Localidad San José de Buenavista, Localidad San Martin (El Zorrillo), Localidad San Miguel, Localidad San Nicolás, Localidad San Nicolás de La Cantera, Localidad San Pascual, Localidad Santa Cruz de La Presa, Localidad Santa Cruz de La Presa (La Tlacuacha), Localidad Santa Isabel (El Tajito), Localidad Santa María, Localidad Santa Mónica [Club Hípico], Localidad Santa Rita, Localidad Xaropa. Fraccionamiento Nuevas Granjas Fátima, Localidad Asociación Local Ganadera de Aguascalientes (Cerro del Niágara), Localidad Cabecita 3 Marías (Rancho Nuevo), Localidad Castillo Fontenac, Localidad Centro de Arriba (El Taray), Localidad Cieneguilla (La Hacienda), Localidad Cieneguilla (La Lumbrera), Localidad Costa Chica, Localidad Cuauhtémoc (Las Palomas), Localidad Edén Los Sabinos, Localidad Ejido Venustiano Carranza, Localidad El 14, Localidad El Maguey, Localidad El Niágara, Localidad El Niágara [Rancho], Localidad El Ocote, Localidad El Pastizal, Localidad El Rubio, Localidad El Salto de Los Salado, Localidad Ex-Hacienda de Agostaderito, Localidad Granja San Antonio, Localidad La Ademe, Localidad La Canterita, Localidad La Chiripa [Rancho], Localidad La Escondida, Localidad La Gloria, Localidad La Haciendita (La Esperanza), Localidad La Huerta (La Cruz), Localidad La Salada, Localidad La Salada [Granja], Localidad La Trinidad [Granja], Localidad Las Bugambilias, Localidad Las Marías (Las 3 Marías), Localidad Las Palomas, Localidad Las Trojes, Localidad Las Víboras, Localidad Los Arbolitos [Rancho], Localidad Los Caños, Localidad Los Lirios [Granja], Localidad Presa de Guadalupe, Localidad Rancho Alegre, Localidad Rancho Aurora, Localidad Rancho Legendario, Localidad Rancho San Carlos, Localidad Rancho San José del Monte, Localidad San Gerónimo, Localidad San Isidro (Granja Santa Anita), Localidad San José de la Esperanza, Localidad San José del Monte (Las Petacas), Localidad San Pedro Cieneguilla, Localidad San Rafael I. Localidad Acapulco, Localidad Bellavista, Localidad Buenavista de Peñuelas, Localidad Cañada Grande de Cotorina, Localidad Colonia Salto de Montoro, Localidad Cotorina (Coyotes), Localidad Cotorina [Granja], Localidad Cotorina de Abajo, Localidad Cotorina de Altamira, Localidad Dolores, Localidad El Cedazo (Cedazo de San Antonio), Localidad El Ciervo [Rancho], Localidad El Esfuerzo, Localidad El Gato, Localidad El Huizachal, Localidad El Huizache [Granja], Localidad El Mirador, Localidad El Mirador, Localidad El Mitawa [Rancho], Localidad El Molino, Localidad El Paraíso [Rancho], Localidad El Pirul (El Pirulito) [Rancho], Localidad El Plan de Lagos, Localidad El Potrerito, Localidad El Refugio de Peñuelas, Localidad El Refugio I, Localidad El Refugio Número Dos [Rancho], Localidad El Tanque de Los Jiménez, Localidad El Turicate, Localidad El Zapote [Rancho], Localidad Emiliano Zapata, Localidad Entrada a Cotorina, Localidad Esperanza [Rancho], Localidad Ex-Hacienda De Montoro, Localidad Ex-Hacienda De Peñuelas, Localidad Fracción de Cotorina, Localidad Fraccionamiento Campestre El Potrerillo, Localidad Fraccionamiento Los Ángeles, Localidad Granja Elsa, Localidad Granja Maricela, Localidad Granja Marisela (La Carretilla), Localidad Granja Paula Cecilia, Localidad Haro, Localidad INTERPEC San Marcos, Localidad La Esperanza, Localidad La Florida, Localidad La Gaviota [Rancho], Localidad La Laborcilla, Localidad La Loma [Rancho], Localidad La Manga [Rancho], Localidad La Palma [Rancho], Localidad La Palma Dos, Localidad La Primavera, Localidad La Primavera [Rancho], Localidad La Providencia, Localidad La Providencia de Arriba, Localidad La Rinconada, Localidad La Rinconada (La Escondida), Localidad La Santa Cruz, Localidad Lagunas Cuatas, Localidad Las Animas, Localidad Las Granjas (Santa Elena), Localidad Lomas de Arellano, Localidad Lomas San Judas Tadeo, Localidad Los Cables, Localidad Los Córdova [Rancho], Localidad Los Guerrero, Localidad Los Jazmines, Localidad Los Laureles, Localidad Los Pargas [Rancho], Localidad Mesa del Salto (Fracción De Montoro), Localidad Montoro, Localidad Montoro (Mesa del Salto), Localidad Ninguno, Localidad Ninguno, Localidad Norias de Cedazo (Cedazo Norias de Montoro), Localidad Peñuelas (El Cienegal), Localidad Peñuelas [Rancho], Localidad Rancho Alegre Número Quince, Localidad Rancho San Martin, Localidad Rancho Santa Teresa, Localidad Rinconada [Club], Localidad Sal Si Puedes, Localidad San Antonio de Peñuelas, Localidad San Carlos, Localidad San Isidro, Localidad San José, Localidad San Luis Gonzaga, Localidad San Miguel, Localidad San Miguelito, Localidad San Miguelito de Abajo, Localidad San Miguelito de Arriba [Rancho], Localidad Santa Elena (Tres Pelonas), Localidad Santa Inés, Localidad Santa Teresa, Localidad Sierra Vieja [Rancho], Localidad Tanque de Guadalupe, Localidad Villa Su, Localidad Viñedos Cuauhtémoc (Churubusco). Condominio Fuentes del Pedregal, Fraccionamiento Tierra y Libertad, Fraccionamiento Vista Hermosa, Localidad Ampliación de Calvillito (Colonia La Herrada), Localidad Arroyo Hondo, Localidad Azarco, Localidad Bajío de Los Carreones, Localidad Bajío Los Vázquez, Localidad Bella Vista (El Coronel), Localidad Calvillito (Barrio de La Escuela), Localidad Calvillito (Colonia Revolución), Localidad Cañada de Las Palmas [Rancho], Localidad Cañada de Los Caballos, Localidad Cañada del Duraznillo, Localidad Cañada del Tabaco, Localidad Cañada Grande, Localidad Cobos, Localidad Colonia Ché Guevara, Localidad Dos Arbolitos [Rancho], Localidad Ejido Norias de Paso Hondo (La Lomita), Localidad El Árbol, Localidad El Bambú, Localidad El Capirote, Localidad El Capirote, Localidad El Caracol (La Mesa), Localidad El Cardón, Localidad El Carmen (Gallinas Güeras) [Rancho], Localidad El Centinela, Localidad El Chamizal, Localidad El Chiflido, Localidad El Chiflido, Localidad El Chiflido [Rancho], Localidad El Colorado (El Soyatal), Localidad El Conejal, Localidad El Cono, Localidad El Copetillo, Localidad El Copetillo, Localidad El Copetillo Chico, Localidad El Copetillo Chico (La Miseria), Localidad El Crucero, Localidad El Crucero de Calvillito, Localidad El Dominado (El Relicario), Localidad El Duraznillo, Localidad El Duraznillo [Rancho], Localidad El Fresno (Las Norias de San Bartolo), Localidad El Guarda, Localidad El Hotelito, Localidad El Jagüey, Localidad El Lucero, Localidad El Maguey, Localidad El Maistrujenio, Localidad El Malacate, Localidad El Mirador, Localidad El Mirasol, Localidad El Mirasol, Localidad El Mitote, Localidad El Ocal, Localidad El Ocal (El Capirote), Localidad El Potrero Nuevo, Localidad El Pozo, Localidad El Ranchito (El Mocho), Localidad El Relicario, Localidad El Relicario, Localidad El Salero, Localidad El Salero, Localidad El Socorro, Localidad El Socorro (José López Medina), Localidad El Soyatal, Localidad El Tacón, Localidad El Tropezón, Localidad El Yerbaniz, Localidad Florida Ranch, Localidad Granja Llamas, Localidad Granja San Nicolás, Localidad Granja San Nicolás, Localidad La Ahuja (Aguja), Localidad La Cabaña, Localidad La Cachucha (El Salero), Localidad La Cañada de Las Habas, Localidad La Chiripa, Localidad La Congoja, Localidad La Cruz, Localidad La Discordia, Localidad La Escuadra, Localidad La Estancia, Localidad La Herrada, Localidad La Laguna De Los Adobes, Localidad La Lagunita, Localidad La Mesa, Localidad La Morada, Localidad La Paloma, Localidad La Petaquilla (El Milagro), Localidad La Presa de La Ahuja [Rancho], Localidad La Rinconada (La Escondida), Localidad Laguna Verde, Localidad Las Dos Peñas Meyeras, Localidad Las Jaboneras, Localidad Las Mercedes [Rancho], Localidad Las Trojes (Las Jaboneras), Localidad Loma Blanca, Localidad Loma del Mezquite, Localidad Loma Del Mezquite, Localidad Loma El Cascaron, Localidad Lomas del Guarda, Localidad Los Bajíos de San Bartolo [Rancho], Localidad Los Cuervos (Los Ojos de Agua), Localidad Los Durón, Localidad Los Durón I, Localidad Los Hernández, Localidad Los Jacalitos [Granja], Localidad Los Laureles, Localidad Los Lirios, Localidad Los Órganos, Localidad Los Pavorreales, Localidad Los Sánchez, Localidad Los Valdez, Localidad Maíz Prieto, Localidad Matamoros, Localidad Mesa del Tepetate, Localidad Ninguno, Localidad Norias de Ojocaliente, Localidad Norias de Ojocaliente, Localidad Norias del Paso Hondo, Localidad Norias del Paso Hondo, Localidad Ojo de Agua de Palmitas Segunda Sección (Las Crucitas), Localidad Ojos de Agua La Estancia, Localidad Paseos de Michoacán, Localidad Porvenir [Rancho], Localidad Potrero Grande, Localidad Pozo El Trigo, Localidad Rancho Nuevo 1880, Localidad San Bartolo, Localidad San Francisquito (Los Salazar), Localidad San Isidro de Los Esparza, Localidad San José del Cono, Localidad San Juanito (Los López), Localidad San Miguel, Localidad San Nicolás de Arriba, Localidad San Nicolás de Arriba, Localidad San Nicolás de En Medio, Localidad Santa Elena, Localidad Soledad de Abajo, Localidad Soledad de Arriba, Localidad Sorayama, Localidad Tanque El Trigo, Localidad Villa Antigua, Localidad Villa Licenciado Jesús Terán (Calvillito), Localidad Villa Paraíso, Localidad Vista Alegre I (Bella Vista). Condominio Campestre Real Cañada Oriente, Condominio Campestre Real Cañada Poniente, Fraccionamiento Las Cañadas, Localidad Ardillas de Abajo (Las Ardillas), Localidad Cañada Honda [Estación], Localidad Don Mónico [Granja], Localidad Ejido Cañada Honda (Kilometro 13.5), Localidad Ejido San Antonio de Los Pedroza, Localidad El Becerro, Localidad El Becerro (Lucio Gutiérrez), Localidad El Conejal [Granja], Localidad El Coyote [Rancho], Localidad El Futuro, Localidad El Paraíso, Localidad El Plan del Horno, Localidad El Ranchito, Localidad El Refugio, Localidad El Sabino (San Román), Localidad El Venado [Rancho], Localidad Fraccionamiento Campestre Ecuestre Real Cañada Honda, Localidad General José María Morelos y Pavón (Cañada Honda), Localidad Granja Lupita, Localidad Jaltomate, Localidad La Campostela, Localidad La Coyotera, Localidad La Curva, Localidad La Sociedad, Localidad La Tijera, Localidad Las Jarillas [Rancho], Localidad Los Apalillos, Localidad Los Girasoles, Localidad Los Placeres, Localidad Los Troncones, Localidad Puerta de Los Viejitos, Localidad Rancho Nuevo, Localidad Rancho Topogigio, Localidad San Antonio Primero de Los Pedroza [Congregación], Localidad San Cristóbal, Localidad San Isidro [La Estación], Localidad San José de La Ordeña, Localidad Santa María de Gallardo.
+(DEROGADO, P.O. 10 DE MARZO DE 2014)
 
 ## TITULO SEGUNDO
 
@@ -183,15 +139,21 @@ II. Consejo de Desarrollo Municipal. (CODEMUN);
 
 III. Consejos Regionales de Desarrollo;
 
-IV. Consejos de Unidad Territorial;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-V. Comités de Integración Social y Convivencia Ciudadana;
+IV. Zonas de Participación Ciudadana Municipales;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+V. GAPS. (Grupos De Acción Y Participación Social);
 
 VI. Dependencias Municipales, Estatales y Federales; y
 
 VII. Organismos intermedios.
 
-Para los efectos conducentes del presente reglamento y de la fracción IV del presente artículo, cuando se haga alusión a Micro Región deberá entenderse Unidad Territorial.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
+
+Para los efectos conducentes del presente reglamento y de la fracción IV del presente artículo, cuando se haga alusión a Zonas de Participación Ciudadana Municipales deberá entenderse a una Unidad Territorial y de la fracción V de (sic) presente como Grupos de Acción y Participación Social (GAPS) a los comités de colonos.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -249,17 +211,17 @@ III.- El Titular de la Oficina Ejecutiva de la Presidencia Municipal;
 
 IV.- El Titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-V.- El Titular de la Secretaría de Integración Social del Municipio de Aguascalientes; y
+V.- El Titular de la Secretaría de Desarrollo Social del Municipio de Aguascalientes; y
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-VI.- El Titular del Instituto Municipal de Planeación, quién fungirá como Secretario Técnico.
+VI.- El Titular del Instituto Municipal de Planeación;
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
-C. Un representante de la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal, quien fungirá como Contralor Social con derecho a voz pero sin voto.
+C. El titular del Secretariado Técnico Del Consejo de la Ciudad, con derecho a voz pero sin voto.
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
@@ -371,17 +333,15 @@ El Consejo de Desarrollo Municipal de Aguascalientes es un órgano en el cual de
 
 I. El Presidente Municipal de Aguascalientes, quien fungirá como presidente del Consejo;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-II. El Titular de la Secretaría de Integración Social del Municipio de Aguascalientes, quien suplirá las ausencias del Presidente Municipal;
+II. El Titular de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, quien suplirá las ausencias del Presidente Municipal;
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
 III. El Titular del Instituto Municipal de Planeación, quien fungirá como Secretario Técnico;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Un representante de la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal, quien fungirá como Contralor Social con derecho a voz pero sin voto;
+IV. (DEROGADA, P.O. 10 DE MARZO DE 2014)
 
 > <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
@@ -391,9 +351,33 @@ V. Un representante electo democráticamente de cada uno de los Consejos Regiona
 
 VI. Un Vocal de Control y Vigilancia designado por los Delegados Municipales, el cual no podrá ser servidor público y durará en su cargo hasta tres años;
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-VII. Un equipo asesor coordinado por el Secretario de Integración Social del Municipio de Aguascalientes e integrado por el Secretario de Finanzas del Municipio de Aguascalientes, el Director de Integración Social, el Director de Desarrollo Social de la Secretaría de Integración Social, el Director de Desarrollo Rural de la Secretaría de Integración Social, el Secretario de Obras Públicas del Municipio de Aguascalientes, un Representante de la Coordinación Estatal de Planeación y Proyectos del Gobierno del Estado, un representante de la Secretaría de Desarrollo Social Federal, el Regidor Presidente de la Comisión de Desarrollo Social, el Regidor Presidente de la Comisión de Obra Pública del H. Ayuntamiento de Aguascalientes, un representante de la Secretaría de Bienestar y Desarrollo Social de Gobierno del Estado de Aguascalientes, un representante de Comisión (sic) Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes, un representante de la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal de Aguascalientes, y los Delegados Municipales.
+VII. Un equipo asesor coordinado por el Secretario de Desarrollo Social del Municipio de Aguascalientes e integrado por:
+
+a) El Secretario de Finanzas del Municipio de Aguascalientes.
+
+b) El Director de Desarrollo Social.
+
+c) El Director de Programas Sociales de la Secretaría de Desarrollo Social.
+
+d) El Coordinador de Delegaciones Rurales de la Secretaría de Desarrollo Social.
+
+e) El Secretario de Obras Públicas del Municipio de Aguascalientes.
+
+f) Un Representante de la Coordinación Estatal de Planeación y Proyectos del Gobierno del Estado.
+
+g) Un representante de la Secretaría de Desarrollo Social Federal.
+
+h) El Regidor Presidente de la Comisión de Desarrollo Social.
+
+i) El Regidor Presidente de la Comisión de Obra Pública del H. Ayuntamiento de Aguascalientes.
+
+j) Un representante de la Secretaría de Bienestar y Desarrollo Social de (sic) Gobierno del Estado de Aguascalientes.
+
+k) Un representante de Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes.
+
+l) Los Delegados Municipales.
 
 Cuando se traten asuntos relacionados con el Fondo para la Infraestructura Social Municipal del Ramo 33, el equipo asesor sólo tendrá derecho a voz; a excepción de los Regidores Presidente de la Comisión de Desarrollo Social y Presidente de la Comisión de Obra Pública del H. Ayuntamiento de Aguascalientes quienes además tendrán derecho a voto; y durará en el cargo el tiempo que dure su gestión.
 
@@ -407,7 +391,9 @@ Cuando se traten asuntos relacionados con el Fondo para la Infraestructura Socia
 
 Para efectos de coordinación y buen funcionamiento del Sistema de Participación Ciudadana Municipal, corresponde al Consejo de Desarrollo Municipal lo siguiente:
 
-I. Convocar, a través de la Secretaría de Integración Social del Municipio de Aguascalientes, a reuniones de los Consejos Regionales de Desarrollo;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+I. Convocar, a través de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, a reuniones de los Consejos Regionales de Desarrollo.
 
 II. Promover los programas y acciones municipales a través del Sistema de Participación Ciudadana Municipal;
 
@@ -429,21 +415,27 @@ X. Atender y canalizar propuestas y demandas específicas no relacionadas con el
 
 XI. Implementar mecanismos de comunicación y difusión entre los órganos del Sistema de Participación Ciudadana Municipal.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 20.
 
-A través de la Secretaría de Integración Social del Municipio de Aguascalientes, el Consejo de Desarrollo Municipal deberá contar con un mecanismo de recopilación y sistematización de información relativa a la infraestructura y servicios municipales para uso del Sistema de Participación Ciudadana Municipal.
+A través de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, el Consejo de Desarrollo Municipal deberá contar con un mecanismo de recopilación y sistematización de Información relativa a la infraestructura y servicios municipales para uso del Sistema de Participación Ciudadana Municipal.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 21.
 
-Para la promoción de la participación ciudadana al interior de los Consejos Regionales de Desarrollo, Consejos Micro Regionales y Comités de Integración Social y Convivencia Ciudadana en el proceso anual de integración de la propuesta de obra pública, el Consejo de Desarrollo Municipal podrá auxiliarse de:
+Para la promoción de la participación ciudadana al interior de los Consejos Regionales de Desarrollo, Zonas de Participación Ciudadana Municipales y Grupos De Acción Y Participación Social (GAPS), en el proceso anual de integración de la propuesta de obra pública, el Consejo de Desarrollo Municipal podrá auxiliarse de:
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 I. Los órganos del sistema;
 
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
+
 II. Los programas de participación comunitaria; y
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 III. Las propuestas y proyectos de organizaciones intermedias.
 
@@ -451,17 +443,17 @@ III. Las propuestas y proyectos de organizaciones intermedias.
 
 ### CAPITULO V. De los Consejos Regionales de Desarrollo
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 22.
 
-Los Consejos Regionales de Desarrollo, son organismos de coordinación intercomunitarios que permiten establecer mecanismos de acercamiento, comunicación y coordinación entre los Comités de Integración Social y Convivencia Ciudadana y de éstos, a su vez, con el Consejo de Desarrollo Municipal.
+Los Consejos Regionales de Desarrollo, son organismos de coordinación intercomunitarios que permiten establecer mecanismos de acercamiento, comunicación y coordinación entre los Grupos De Acción Y Participación Social (GAPS) y de estos, a su vez, con el Consejo de Desarrollo Municipal.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 23.
 
-Los Consejos Regionales de Desarrollo, como instancias intermedias entre los Comités de Integración Social y Convivencia Ciudadana y el Consejo de Desarrollo Municipal, se integrarán por un representante de cada uno de los Consejos Micro Regionales el cual deberá ser Presidente de alguno de los Comités de Integración Social y Convivencia Ciudadana a propuesta del Coordinador de Unidad Territorial, ubicados en el ámbito geográfico de las Unidades Regionales Municipales respectivas.
+Los Consejos Regionales de Desarrollo, como instancias intermedias entre los Grupos De Acción Y Participación Social (GAPS) y el Consejo de Desarrollo Municipal, se integrarán por un representante de cada uno de los Consejos de Zonas de Participación Ciudadana Municipales el cual deberá ser Presidente de alguno de los Grupos De Acción Y Participación Social (GAPS) a propuesta del Coordinador de Unidad Territorial, ubicados en el ámbito geográfico de las Zonas de Participación Ciudadana Municipales respectivas.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -469,7 +461,9 @@ Los Consejos Regionales de Desarrollo, como instancias intermedias entre los Com
 
 Para el funcionamiento de cada Consejo Regional, se formará una Mesa Directiva, integrada por:
 
-I. Un representante de la Secretaría de Integración Social de Aguascalientes, quien presidirá la Mesa Directiva;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+I. Un representante de la Secretaría de Desarrollo Social de Aguascalientes, quien presidirá la Mesa Directiva;
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
@@ -483,7 +477,7 @@ V. Un representante de la Ccapama;
 
 VI. Un representante de Organismos Intermedios;
 
-VII. Un representante del Observatorio Ciudadano.
+VII. (DEROGADA, P.O. 10 DE MARZO DE 2014)
 
 Esta Mesa será la encargada de presidir las reuniones, archivar y vigilar el cumplimiento de sus acuerdos.
 
@@ -499,9 +493,13 @@ Para lograr el consenso y coadyuvar en la participación ciudadana, cada Consejo
 
 I. Nombrar democráticamente a uno de sus integrantes quienes fungirán como representante (sic) ante el Consejo de Desarrollo Municipal;
 
-II. Asistir a todas las reuniones convocadas por la Secretaría de Integración Social;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-III. Conjuntamente con el titular de la Delegación, y los representantes de las diferentes Dependencias Municipales, recopilar, ordenar y priorizar las demandas ciudadanas de obras y servicios públicos que, para el efecto reciba de los Comités de Integración Social y Convivencia Ciudadana, de la ciudadanía y organizaciones intermedias en general, misma que será propuesta al Consejo de Desarrollo Municipal;
+II. Asistir a todas las reuniones convocadas por la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+III. Conjuntamente con el titular de la Delegación, y los representantes de las diferentes Dependencias Municipales, recopilar, ordenar y priorizar las demandas ciudadanas de obras y servicios públicos que, para el efecto reciba de los Grupos De Acción y Participación Social (GAPS), de la ciudadanía y organizaciones intermedias en general, misma que será propuesta al Consejo de Desarrollo Municipal.
 
 IV. Informar al Consejo de Desarrollo Municipal de los acuerdos tomados en el seno de cada Consejo Regional de Desarrollo;
 
@@ -513,9 +511,9 @@ VII. Remover de sus cargos por causa justificada a sus representantes ante el Co
 
 VIII. En coordinación con el titular de la Delegación respectiva, implementar acciones de gestión a nivel delegacional que trasciendan el ámbito comunitario.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
-### CAPITULO VII. De los representantes del Consejo Regional de Desarrollo ante el Consejo de Desarrollo Municipal
+### CAPITULO VII. De los Consejos de Zonas de Participación Ciudadana Municipal
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -523,9 +521,13 @@ VIII. En coordinación con el titular de la Delegación respectiva, implementar 
 
 A fin de que las demandas y prioridades de la ciudadanía sean analizadas en el seno del Consejo de Desarrollo Municipal, los representantes de cada Consejo Regional de Desarrollo deberán:
 
-l. Asistir a todas las reuniones que, por conducto de la Secretaría de Integración Social del Municipio de Aguascalientes, convoque el Consejo de Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-II. Participar con voz y voto en las decisiones que tome el Consejo y representar al Consejo Regional de Desarrollo y a toda su Unidad Regional Municipal;
+I. Asistir a todas las reuniones que, por conducto de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, convoque el Consejo de Desarrollo Municipal.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+II. Participar con voz y voto en las decisiones que tome el Consejo y representar al Consejo Regional de Desarrollo y a toda sus Zonas de Participación Ciudadana Municipales.
 
 III. Presentar ante el Consejo de Desarrollo Municipal la propuesta y priorización de obra y de servicios públicos aprobada por el Consejo Regional de Desarrollo;
 
@@ -547,23 +549,23 @@ Los representantes de cada Consejo Regional de Desarrollo serán honorarios y du
 
 ### CAPITULO VIII. De los Consejos de Unidades Territoriales
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 28.
 
-Las Regiones Municipales se dividirán en Unidades Territoriales para el control de las mismas.
+Zonas de Participación Ciudadana Municipales se dividirán en Zonas de Participación Territorial para el control de las mismas.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 29.
 
-El Consejo es el ente regulador de la Unidad Territorial respectiva, y tendrá una estrecha relación entre el Consejo Regional de Desarrollo y los Comités de Integración Social y Convivencia Ciudadana.
+El Consejo es el ente regulador de la (sic) Zonas de Participación Ciudadana Municipales respectiva (sic), y tendrá una estrecha relación entre el Consejo Regional de Desarrollo y los Grupos De Acción Y Participación Social (GAPS).
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 30.
 
-El Consejo de Unidad Territorial será presidido por un representante de la Secretaría de Integración Social, un representante del Instituto Municipal de Planeación de Aguascalientes quien ejercerá como Secretario Técnico, un representante de la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal, dos representantes de los Organismos Intermedios por invitación expresa del Presidente Municipal ó el Secretario de Integración Social, los Presidentes de los Comités de Integración Social y Convivencia Ciudadana y el Coordinador de la Unidad Territorial.
+El Consejo de Zonas de Participación Ciudadana Municipales será presidido por un representante de la Secretaría de Desarrollo Social, un representante del Instituto Municipal de Planeación de Aguascalientes quien ejercerá como Secretario Técnico, dos representantes de los Organismos Intermedios por invitación expresa del Presidente Municipal ó el Secretario de Desarrollo Social, los Presidentes de los Grupos De Acción Y Participación Social (GAPS) y el Coordinador de la Unidad Territorial.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -571,333 +573,267 @@ El Consejo de Unidad Territorial será presidido por un representante de la Secr
 
 A las sesiones podrán asistir los diferentes representantes de las Dependencias Municipales, los cuales actuaran como miembros honorarios con derecho a voz.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
-### CAPITULO IX. De las Atribuciones de los Consejos de Unidad Territorial
+### CAPITULO IX. De las Atribuciones de los Consejos de Zonas de Participación Ciudadana Municipales
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 32.
 
-Cada uno de los Consejos de Unidades (sic) Territorial, deberán:
+Cada uno de los consejos de las Zonas de Participación Ciudadana Municipales deberá:
 
-I. Asistir a todas las reuniones convocadas por la Secretaría de Integración Social;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-II. Promover actividades orientadas a motivar la participación activa y conjunta de los Comités de Integración Social y Convivencia Ciudadana y de la ciudadanía en general en su respectiva Unidad Regional Municipal;
+I.- Asistir a todas las reuniones convocadas por la Secretaría de Desarrollo Social.
 
-III. Promover acciones que fomenten el desarrollo integral del individuo, la familia y la sociedad;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-IV. Informar al Consejo Regional de Desarrollo de los acuerdos tomados en el seno de cada Consejo de Unidad Territorial;
+II.- Promover actividades orientadas a motivar la participación activa y conjunta de los grupos de acción y participación social (GAPS) y de la Ciudadanía en general en su respectiva zona de participación ciudadana municipal.
 
-V. Formar comisiones de trabajo que considere necesarias para atender de manera eficaz y consensuada la demanda ciudadana;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-VI. Las Unidades Territoriales serán coordinadas por un Coordinador de Unidad Territorial designado por la Secretaría de Integración Social, y un representante de cada Dependencia Municipal para que estos actúen como gestores, los cuales harán llegar las peticiones a las respectivas dependencias; y
+III.- Promover acciones que fomenten el desarrollo integral del individuo, la familia y la sociedad;
 
-VII. Formar en cada Comité de Integración y Convivencia Ciudadana, una Red de Prevención y Cohesión Social.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013)</small>
+IV.- Informar al Consejo Regional de Desarrollo de los acuerdos tomados en el seno de cada Consejo de Zonas de Participación Ciudadana Municipales.
 
-### CAPITULO X. De la integración de las Unidades Territoriales
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+V.- Formar comisiones de trabajo que considere necesarias para atender de manera eficaz y consensuada la demanda ciudadana;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+VI.- Las Zonas de Participación Ciudadana Municipales serán coordinadas por un Coordinador de Unidad Territorial designado por la Secretaría de Desarrollo Social, y un representante de cada Dependencia Municipal para que estos actúen como gestores, los cuales harán llegar las peticiones a las respectivas dependencias.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+VII.- Formar en cada Grupos De Acción Y Participación Social (GAPS), una Red de Prevención y Cohesión Social.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
+
+### CAPITULO X. De la integración de las Zonas de Participación Ciudadana Municipales
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 33.
 
-Las nueve Regiones Urbanas y la Región Rural (sic) Municipales a su vez se dividirán en Unidades Territoriales, las cuales se integrarán de la siguiente manera:
+Las zonas de Participación Ciudadana Municipales tanto Urbanas como Rurales, se dividirán en Zonas de Participación Territorial, las cuáles se integrarán en los términos que establezca el Sistema Municipal De Información Geográfica y Estadística (SMIGE) que elabora el Instituto Municipal de Planeación.
 
-I. REGIÓN CENTRO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
-Unidad Territorial Centro A, Zona Centro, Condominio Hornedo Condominio.
+### CAPITULO XI. De los Grupos De Acción Y Participación Social (GAPS)
 
-Unidad Territorial Centro B, Colonia Obraje, Barrio El Encino, Colonia El Llanito, Fraccionamiento Residencial El Encino, Fraccionamiento Triana, Unidad Habitacional Para Burócratas, Condominio Horizontal Rinconada Cristo Negro.
-
-Unidad Territorial Centro C, Barrio La Salud, Fraccionamiento San Fernando, Fraccionamiento Gámez, Condominio Villas Del Acueducto, Fraccionamiento Jardines De Triana, Condominio Vertical Triana, Colonia Laurel, Condominio Conjunto Habitacional La Luna, Condominio Conjunto Residencial Cosío, Condominio Conjunto Residencial San Miguel, Condominio Joyas Del Sur, Condominio Rinconada De La Asunción, Condominio Virreyes, Fraccionamiento Los Fresnos.
-
-Unidad Territorial Centro D, Barrio La Purísima, Barrio La Estación.
-
-Unidad Territorial Centro E, Barrio Guadalupe, Barrio San Marcos, Colonia Del Carmen, Condominio Soledad Larreátegui, Condominio Horizontal Guadalupe Posada, Condominio Vertical Libertad, Condominio Vertical Rinconada De Guadalupe, Especial Panteón De La Cruz, Especial Panteón De Los Ángeles.
-
-Unidad Territorial Centro F, Colonia Gremial, Colonia Primavera, Colonia Morelos.
-
-Unidad Territorial Centro G, Colonia Industrial, Fraccionamiento El Sol, Colonia La Fe, Condominio Vertical Bugambilias, Condominio Horizontal Tianguis San Juanito.
-
-Unidad Territorial Centro H, Colonia Altavista, Colonia San Pablo, Colonia Miravalle, Colonia Buenos Aires.
-
-II. REGIÓN CIRCUNVALACIÓN
-
-Unidad Territorial Circunvalación A, Fraccionamiento Circunvalación Poniente, Condominio Expo-Plaza, Colonia Las Flores, Fraccionamiento Las Torres, Fraccionamiento Residencial Los Pirules, Unidad Habitacional Vivienda Popular, Especial Zona Ferial.
-
-Unidad Territorial Circunvalación B, Fraccionamiento Del Valle 1a Sección, Fraccionamiento Del Valle 2a Sección, Fraccionamiento Del Valle Rio San Pedro, Fraccionamiento Modelo, Colonia San Marcos, Fraccionamiento San Marcos.
-
-Unidad Territorial Circunvalación C, Fraccionamiento Antonio Garza Elizondo, Fraccionamiento Bulevar, Subdivisión Caminero, Especial Centro Comercial Chedraui, Condominio Centro Comercial Plaza Fiesta, Condominio Centro Comercial Villasunción, Especial Desarrollo Especial Anega, Fraccionamiento Fuentes De La Asunción, Fraccionamiento Jardines De Aguascalientes, Fraccionamiento Jardines De La Asunción, Fraccionamiento Jardines De La Luz, Fraccionamiento Jardines De Las Bugambilias, Fraccionamiento Jardines De Las Fuentes, Fraccionamiento Jardines Del Parque, Fraccionamiento Lindavista, Subdivisión Los Cedros, Especial Museo Descubre, Fraccionamiento Pirámides, Especial Quinta Real, Fraccionamiento Residencial Del Parque Condominio, Condominio Horizontal Rinconada Del Parque, Especial (Parque) Rodolfo Landeros Gallegos, Especial Teatro Aguascalientes.
-
-Unidad Territorial Circunvalación D, Condominio Centro Comercial Plaza San Marcos, Fraccionamiento Circunvalación Norte, Condominio Diamante, Subdivisión Dominium, Fraccionamiento Las Arboledas, Fraccionamiento San Cayetano, Fraccionamiento Villas De La Universidad.
-
-Unidad Territorial Circunvalación E, Subdivisión Agricultura, Fraccionamiento Bulevares 1a Sección, Fraccionamiento Bulevares 2a Sección, Condominio Centro Comercial El Dorado, Fraccionamiento El Dorado 1a Sección, Fraccionamiento El Dorado 2a Sección, Fraccionamiento Jardines De Santa Elena 2a Sección, Fraccionamiento Jardines Del Sur, Fraccionamiento La Fuente, Fraccionamiento Las Américas, Fraccionamiento Montebello, Fraccionamiento Prados Del Sur, Fraccionamiento Santa Elena, Fraccionamiento Valle Dorado, Fraccionamiento Versalles I, Fraccionamiento Versalles II, Fraccionamiento Villa Jardín I, Fraccionamiento Villa Jardín II.
-
-Unidad Territorial Circunvalación F, Especial Colegio Marista, Condominio Coto Del Rio, Colonia Curtidores, Fraccionamiento Gómez, Condominio Guadalupe 104, Condominio Guadalupe 106, Subdivisión Heliodoro García, Unidad Habitacional J. Guadalupe Posada, Fraccionamiento La Concordia, Fraccionamiento La Fundición, Fraccionamiento Las Brisas, Fraccionamiento Moderno, Colonia Olivares Santana, Fraccionamiento Panorama, Especial Parque Funeral Jardines Eternos 2a Sección, Fraccionamiento Ramón Romo Franco, Condominio Residencial Guadalupe.
-
-Unidad Territorial Circunvalación G, Fraccionamiento Colinas De San Ignacio, Fraccionamiento Colinas Del Poniente, Fraccionamiento Colinas Del Rio, Condominio Horizontal Línea De Fuego, Fraccionamiento Los Sauces.
-
-Unidad Territorial Circunvalación H, Condominio Horizontal Andrea, Especial Antigua Estación De Pemex, Fraccionamiento El Plateado, Fraccionamiento El Roble, Fraccionamiento Independencia, Fraccionamiento Industrial, Fraccionamiento La Rinconada, Fraccionamiento Las Hadas, Fraccionamiento Los Arcos, Fraccionamiento Nueva Rinconada, Fraccionamiento Villas De San Francisco.
-
-III. REGIÓN INSURGENTES
-
-Unidad Territorial Insurgentes A, Fraccionamiento Insurgentes, Colonia Vicente Guerrero, Fraccionamiento Vicente Guerrero.
-
-Unidad Territorial Insurgentes B, Fraccionamiento Educación Álamos, Fraccionamiento José López Portillo, Colonia Nueva España.
-
-Unidad Territorial Insurgentes C, Subdivisión Barranca de Guadalupe, Fraccionamiento España, Fraccionamiento Hermanos Carreón, Fraccionamiento Los Pirules, Especial Zona Ferial.
-
-Unidad Territorial Insurgentes D, Colonia Martínez Domínguez, Fraccionamiento Pilar Blanco, Unidad Habitacional Potreros del Oeste, Fraccionamiento Prados De Villasunción, Colonia San Pedro, Fraccionamiento Trojes Del Sur.
-
-Unidad Territorial Insurgentes E, Fraccionamiento Casa solida, Subdivisión Conjunto San Francisco, Fraccionamiento La Casita, Fraccionamiento La Estancia, Especial Panteón San Francisco, Subdivisión Rinconada del Sur, Subdivisión Torres de San Francisco, Condominio Torres de San Francisco I, Condominio Torres De San Francisco II, Condominio Torres De San Francisco III, Fraccionamiento Villas de Santa Rosa, Fraccionamiento Villas del Oeste, Fraccionamiento Villas del Pilar I, Fraccionamiento Villas del Pilar II, Fraccionamiento Villas del Pilar III, Fraccionamiento Villas del Pilar IV, Fraccionamiento Villas San Antonio, Fraccionamiento Vista del Sur, Localidad Granja San José, Localidad La Luz [Granja], Localidad La Luz [Rancho], Localidad Minerales Ganaderos.
-
-IV. REGIÓN UNIVERSIDAD
-
-Unidad Territorial Universidad A, Condominio Horizontal Cerrada San Miguel, Condominio Cerrada Del Campanario, Condominio Coto San Xavier, Colonia Fátima, Condominio Fundición, Fraccionamiento Palma Real, Fraccionamiento Palmas Del Pedregal, Colonia Primo Verdad, Subdivisión Privada Benjamín Méndez, Condominio Privillege, Condominio Horizontal Puerta Navarra, Condominio Residencial Del Real, Condominio Rinconada De Los Álamos, Colonia San José del Arenal, Especial UGASA, Especial Universidad Autónoma De Aguascalientes, Especial Universidad Autónoma De Aguascalientes, Condominio Horizontal Villas Del Vergel.
-
-Unidad Territorial Universidad B, Condominio Barrio de Santiago, Condominio Barrio de Santiago Norte, Fraccionamiento Calicantos III, Fraccionamiento Cerrada de La Misión, Fraccionamiento Cerrada del Valle, Condominio Cerrada El Molino, Fraccionamiento Cerrada La Mezquitera, Condominio La Paloma, Fraccionamiento La Troje, Fraccionamiento Las Misiones, Condominio Las Trojes, Subdivisión Los Calicantos, Condominio Horizontal Los Jarales, Condominio Mamposteo, Condominio Horizontal Misión de Santiago I, Condominio Horizontal Misión de Santiago II, Fraccionamiento Misión del Campanario, Condominio Horizontal Portón de Santa Clara, Condominio Risco, Condominio Santa Fe, Condominio Santiago de Compostela, Condominio Terzetto, Colonia Trojes de Alonso, Condominio Horizontal Trojes de Cristal, Fraccionamiento Trojes del Sol, Fraccionamiento Valle del Campanario, Fraccionamiento Valle Real, Fraccionamiento Villas de San Alonso, Localidad Los Pavos [Granja], Localidad Trojes de Alonso.
-
-Unidad Territorial Universidad C, Fraccionamiento Bosques del Prado, Fraccionamiento Bosques del Prado Sur, Especial Colegio Cristóbal Colon, Fraccionamiento Granjas Campestre, Fraccionamiento Jardines de La Concepción I, Fraccionamiento Jardines de La Concepción II, Fraccionamiento Lomas del Campestre I, Fraccionamiento Lomas del Campestre II, Fraccionamiento Los Bosques, Condominio Marsella, Condominio Horizontal Puerto Las Hadas 1a Sección, Condominio Horizontal Puerto Las Hadas 2a Sección, Condominio Horizontal Puerto Las Hadas 3a Sección, Condominio Residencial Pulgas Pandas Norte, Condominio Residencial Pulgas Pandas Sur, Subdivisión Residencial San Pedro, Condominio Horizontal Rinconada Los Bosques, Subdivisión Trojes de Oriente, Fraccionamiento Trojes de Oriente I, Fraccionamiento Trojes de Oriente II, Fraccionamiento Valle de Las Trojes, Fraccionamiento Valle de Santa Teresa, Fraccionamiento Valle del Campestre, Fraccionamiento Villa de Las Trojes, Fraccionamiento Villas de Montenegro, Fraccionamiento Villas de San Nicolás, Fraccionamiento Villas del Campestre.
-
-Unidad Territorial Universidad D, Fraccionamiento Campestre 1a Sección, Fraccionamiento Campestre 2a Sección, Fraccionamiento Campestre 3a Sección, Fraccionamiento Campestre 4a Sección, Fraccionamiento Club Campestre, Condominio Horizontal Jardines del Campestre, Fraccionamiento La Herradura, Fraccionamiento Los Vergeles, Condominio Horizontal Rancho San Antonio.
-
-Unidad Territorial Universidad E, Condominio Agropecuario, Subdivisión Arroyo de la Hacienda, Fraccionamiento Arroyo El Molino, Condominio Centro Comercial Galerías, Condominio Centro Comercial Galerías I, Condominio Centro Comercial Y Residencial Altaria, Condominio Centro Distribuidor De Básicos, Especial Club Deportivo Futurama, Especial Costco, Especial Hotel Las Trojes, Condominio Horizontal La Enramada, Fraccionamiento Las Cavas, Especial San Marcos Leche, Colonia Talamantes Ponce, Localidad Interpec San Marcos, Localidad Villa-Eguia [Centro De Convenciones].
-
-Unidad Territorial Universidad F, Condominio Contadero, Condominio Horizontal Desarrollo Ecológico del Club Campestre, Condominio La Plazuela, Condominio La Punta, Condominio Horizontal La Querencia, Fraccionamiento Las Quintas, Fraccionamiento Lomas de San José de Los Pocitos, Ejido Los Pocitos, Condominio Rincón Andaluz, Condominio Santa María, Fraccionamiento Tecnopolo Pocitos, Localidad Condominio Q Campestre, Localidad Condominio Ruscello, Localidad El Suspiro, Localidad Granja De Jesús, Localidad Granja Puente, Localidad Sandovales de Abajo, Localidad Sandovales de Arriba.
-
-V. REGIÓN FERROCARRIL
-
-Unidad Territorial Ferrocarril A, Condominio Horizontal Centro Comercial Plaza Aguascalientes, Colonia Del Trabajo, Especial Deportivo Ferrocarrilero, Colonia Ferronales, Colonia Héroes, Fraccionamiento La Huerta, Fraccionamiento Luis Gómez Zepeda, Colonia San Luis, Especial Tres Centurias Especial.
-
-Unidad Territorial Ferrocarril B, Especial Almacenes, Fraccionamiento Bona Gens, Fraccionamiento Héroes de Aguascalientes, Unidad Habitacional IV Centenario, Fraccionamiento Jardines de La Cruz, Fraccionamiento Jesús Terán Peredo, Unidad Habitacional Lázaro Cárdenas, Unidad Habitacional Los Volcanes, Especial Molino San Marcos, Especial Normal Estado, Especial Secretaria de Obras Publicas del Estado, Unidad Habitacional Vivienda Militar.
-
-Unidad Territorial Ferrocarril C, Condominio Horizontal Centro Plaza Abastos El Cerrito, Fraccionamiento Jardines de La Convención 1a Sección, Fraccionamiento Jardines de La Convención 2a Sección, Fraccionamiento Jesús Gómez Portugal, Fraccionamiento México, Fraccionamiento Ojo de Agua, Colonia Ojo de Agua, Condominio Vertical Ojo de Agua FOVISSSTE, Condominio Vertical Primo Verdad INEGI, Condominio Horizontal Rinconada del Cedazo, Fraccionamiento S.T.E.M.A.
-
-Unidad Territorial Ferrocarril D, Fraccionamiento Alameda, Fraccionamiento Benito Juárez, Condominio Horizontal Bosques de La Alameda, Condominio Horizontal Bosques de La Alameda III, Especial Escuela Normal Superior, Fraccionamiento Lomas de Santa Anita, Condominio Nueva Alameda, Especial Parque La Pona, Especial Parque Santa Anita, Fraccionamiento S.T. E.M.A., Fraccionamiento Santa Anita, Fraccionamiento Santa Anita 4a Sección.
-
-Unidad Territorial Ferrocarril E, Especial Antiguos Baños Del Ojocaliente, Especial Balneario Ojocaliente, Especial Bomberos Municipales, Especial Cámara Mexicana de la Industria de da (sic) Construcción, Especial Canaco SERVYTUR Aguascalientes, Especial Centro Escolar Triana, Fraccionamiento Ejido Ojocaliente, Fraccionamiento Ex-Hacienda Ojocaliente, Especial Instituto del Deporte del Estado de Aguascalientes, Especial Instituto Tecnológico de Aguascalientes, Condominio La Hacienda, Condominio La Mancha, Condominio Horizontal Misión La Alameda, Especial Parque de Maquinaria del Estado, Especial Policía Montada Municipal de Aguascalientes, Especial Secretaría de Seguridad Pública del Estado, Especial Unidad Deportiva IV Centenario.
-
-Unidad Territorial Ferrocarril F, Especial El Cerrito, Condominio La Terraza, Fraccionamiento Morelos, Condominio Vertical Ojocaliente FOVISSSTE I, Fraccionamiento Ojocaliente FOVISSSTE II, Fraccionamiento Ojocaliente Las Torres, Especial Parque El Cedazo, Especial Parque El Cedazo, Subdivisión Villas de Ojocaliente.
-
-Unidad Territorial Ferrocarril G, Fraccionamiento Jardines del Sol, Colonia La Cruz, Fraccionamiento Misión de Santa Fe, Especial Sensata Technologies, Fraccionamiento Vista del Sol I, Fraccionamiento Vista del Sol II, Fraccionamiento Vista del Sol III.
-
-Unidad Territorial Ferrocarril H, Fraccionamiento Casablanca, Fraccionamiento Emiliano Zapata, Fraccionamiento Jardines de Casa Nueva 1a Sección, Fraccionamiento Jardines de Casa Nueva 2a Sección, Fraccionamiento Jardines de Casablanca, Fraccionamiento Morelos I, Fraccionamiento Morelos II, Condominio Valle del Cedazo, Condominio Villas de Morelos.
-
-Unidad Territorial Ferrocarril I, Fraccionamiento Alianza Ferrocarrilera, Fraccionamiento Bosques del Prado Oriente, Fraccionamiento C.T.M., Fraccionamiento El Cóbano, Colonia Francisco Guel Jiménez, Fraccionamiento Hacienda El Cóbano, Fraccionamiento La Estrella, Fraccionamiento Las Viñas, Fraccionamiento Loma del Cóbano, Colonia Macías Arellano, Fraccionamiento Parras, Fraccionamiento Trojes del Cóbano, Fraccionamiento Villas del Cóbano.
-
-Unidad Territorial Ferrocarril J, Fraccionamiento Conjunto Los Naranjos, Fraccionamiento Constitución, Fraccionamiento El Rosedal, Fraccionamiento Libertad, Fraccionamiento Pozo Bravo, Fraccionamiento Pozo Bravo Sur, Fraccionamiento Rinconada Pozo Bravo, Condominio Horizontal San José de Pozo Bravo, Fraccionamiento Soberana Convención Revolucionaria, Fraccionamiento Villa de Nuestra Señora de La Asunción, Sector Encino, Fraccionamiento Villa Teresa, Fraccionamiento Villas de La Convención, Localidad La Torre, Localidad San José Pozo Bravo Hormiguero.
-
-VI. REGIÓN OJOCALIENTE
-
-Unidad Territorial Ojocaliente A, Fraccionamiento Cerro Alto, Subdivisión El Guadalupano, Fraccionamiento Lomas de La Asunción, Fraccionamiento Lomas de Oriente I, Especial Parque Ecológico de México, Fraccionamiento Pensadores Mexicanos, Fraccionamiento Pintores Mexicanos, Fraccionamiento Santa Margarita.
-
-Unidad Territorial Ojocaliente B, Fraccionamiento C.N.O.P. Oriente, Fraccionamiento Ejido Cumbres, Fraccionamiento El Maguey, Colonia J. Refugio Esparza Reyes, Fraccionamiento Las Cumbres, Fraccionamiento Luis Ortega Douglas, Fraccionamiento Nazario Ortiz Garza, Especial Parque Natural Los Gringos, Fraccionamiento Progreso, Fraccionamiento Villa Bonita.
-
-Unidad Territorial Ojocaliente C, Fraccionamiento Colinas de Oriente, Fraccionamiento Fidel Velázquez, Fraccionamiento Municipio Libre, Subdivisión Rinconada Alameda, Fraccionamiento Rodolfo Landeros Gallegos, Unidad Habitacional XIV Zona Militar.
-
-Unidad Territorial Ojocaliente D, Colonia El Riego, Fraccionamiento Haciendas de Aguascalientes, Fraccionamiento Haciendas de Aguascalientes VI Etapa, Especial IMSS Hospital de Zona 2, Especial Instituto de Educación de Aguascalientes, Especial Instituto Estatal de Seguridad Publica de Aguascalientes, Fraccionamiento Ojocaliente I, Fraccionamiento Ojocaliente III, Condominio Ojocaliente INEGI, Fraccionamiento Villerías.
-
-Unidad Territorial Ojocaliente E, Fraccionamiento Agua Clara, Fraccionamiento Balcones de Ojocaliente, Fraccionamiento Cielo Claro, Fraccionamiento Cima del Chapulín, Condominio Horizontal Del Rio, Fraccionamiento El Cedazo, Fraccionamiento Lomas del Chapulín, Fraccionamiento Periodistas, Condominio Rinconada San Antonio I, Ejido Salto de Ojocaliente, Fraccionamiento Solidaridad I, Fraccionamiento Solidaridad II, Fraccionamiento Solidaridad III, Fraccionamiento Solidaridad IV, Fraccionamiento Tierra Buena, Conjunto Habitacional Villa Taurina.
-
-Unidad Territorial Ojocaliente F, Fraccionamiento Lomas de Vistabella, Fraccionamiento Lomas de Vistabella II, Fraccionamiento Lomas del Ajedrez, Fraccionamiento Lomas del Mirador, Fraccionamiento Lomas del Mirador II, Fraccionamiento Lomas del Mirador III, Fraccionamiento Lomas del Mirador IV, Fraccionamiento Lomas del Mirador V, Fraccionamiento Misión de Santa Lucia, Condominio Mujeres Divinas, Fraccionamiento Mujeres Ilustres, Condominio Villas del Ajedrez, Localidad El Copetillo, Localidad Tres Elenas.
-
-VII. REGIÓN CUMBRES
-
-Unidad Territorial Cumbres A, Condominio Cartagena 1947, Condominio Jardines de Montebello, Fraccionamiento Los Ángeles, Fraccionamiento Montebello Della Stanza, Condominio Residencial Las Plazas, Localidad Anexo al Palomino II, Localidad Santa Fe [Rancho].
-
-Unidad Territorial Cumbres B, Fraccionamiento El Puertecito, Fraccionamiento Natura, Condominio Naturaleza, Fraccionamiento Villa de Nuestra Señora de La Asunción, Sector Alameda, Fraccionamiento Villa de Nuestra Señora de La Asunción, Sector Estación, Fraccionamiento Villa de Nuestra Señora de La Asunción, Sector Guadalupe, Fraccionamiento Villa de Nuestra Señora de La Asunción, Sector San Marcos, Fraccionamiento Villas del Rio.
-
-Unidad Territorial Cumbres C, Fraccionamiento Anexo Benito Palomino Dena (Cumbres II), Fraccionamiento Benito Palomino Dena, Fraccionamiento Claustros Loma Dorada, Fraccionamiento Cumbres III, Condominio Horizontal La Hojarasca, Fraccionamiento Lomas de Bellavista, Fraccionamiento Los Laureles, Fraccionamiento Los Laureles II, Condominio Los Laureles III, Fraccionamiento Los Pericos, Fraccionamiento Mirador de Las Culturas, Fraccionamiento Mirador de Las Culturas II, Fraccionamiento Miradores de Santa Elena, Fraccionamiento Villa de La Loma, Fraccionamiento Villa de Las Fuentes, Fraccionamiento Villa Loma Dorada, Fraccionamiento Villa Nova, Fraccionamiento Villas de Don Antonio, Localidad Norias de Ojocaliente (Caballo Blanco).
-
-Unidad Territorial Cumbres D, Fraccionamiento Balcones de Oriente, Fraccionamiento Colinas de San Patricio, Comunidad El Roció, Colonia J. Guadalupe Posada, Fraccionamiento Paseos del Sol, Fraccionamiento Real de Haciendas, Fraccionamiento Real del Sol, Fraccionamiento Vista de Las Cumbres, Fraccionamiento Vistas de Oriente, Localidad El Polvorín (Mirador Tv Azteca), Localidad Loma Alta El Paraíso.
-
-Unidad Territorial Cumbres E, Fraccionamiento J. Guadalupe Peralta Gámez, Fraccionamiento Paseo de Los Cactus, Fraccionamiento Valle de Los Cactus, Localidad Ejido El Centinela, Localidad El Centinela, Localidad El Chorizo, Localidad El Pirul, Localidad El Rodeo, Localidad La Calandria, Localidad Lomas del Gachupín, Localidad Los Amarraderos, Localidad Los Dolores, Localidad Santa Clara.
-
-Unidad Territorial Cumbres F, Fraccionamiento Bajío De Las Palmas, Fraccionamiento La Lomita, Fraccionamiento Lomas De San Jorge II, Fraccionamiento Lomas De La Mandarina, Fraccionamiento Lomas De San Jorge, Fraccionamiento Lomas Del Gachupin, Fraccionamiento Ojo De Agua De Palmitas II, Fraccionamiento Reencuentro, Condominio Residencial Asturias, Fraccionamiento San Ángel, Fraccionamiento San Ángel II, Fraccionamiento San Jorge, Condominio Horizontal Tepame, Fraccionamiento Villa Las Palmas, Fraccionamiento Villa Las Palmas II, Fraccionamiento Villa Las Palmas III, Fraccionamiento Villalta, Localidad Centro de Parga, Localidad La Media Luna, Localidad Los Mirasoles, Localidad Rancho Benjamín Chávez Ruiz, Localidad San José, Localidad San Martín.
-
-Unidad Territorial Cumbres G, Fraccionamiento Laureles del Sur, Fraccionamiento Lomas del Sur, Fraccionamiento Rancho San Francisco de Los Arteaga, Fraccionamiento San Javier, Fraccionamiento San Sebastián, Fraccionamiento Villa Sur.
-
-Unidad Territorial Cumbres H, Fraccionamiento Arellano, Condominio Hacienda San Marcos, Fraccionamiento Lomas de Arellano, Fraccionamiento Lomas de Nueva York, Fraccionamiento Paseos de San Antonio.
-
-VIII. REGIÓN SAN PEDRO
-
-Unidad Territorial San Pedro A, Fraccionamiento Jardines Eternos II, Fraccionamiento La Perla, Fraccionamiento La Rioja, Colonia La Soledad, Fraccionamiento Misión de San Jerónimo, Fraccionamiento Parque Industrial Tecnopolo Pocitos II, Condominio Paseos del Rio, Fraccionamiento Puesta del Sol, Condominio Rancho Santa Elena, Condominio Residencial Hacienda San Ignacio, Condominio Rinconada de San Ignacio, Comunidad San Ignacio, Comunidad San Ignacio II, Fraccionamiento Valle de San Ignacio, Localidad Agua Azul, Localidad Aguascalientes [Hípico], Localidad Amarillo [Granja], Localidad Brande Vin [Bodegas], Localidad Centro de Reeducación para Menores, Localidad Césped San Ignacio, Localidad Cielo Grande, Localidad Coyotes, Localidad Don Abraham [Rancho], Localidad Doña María [Rancho], Localidad El Álamo, Localidad El Ausente (La Tigra), Localidad El Bramadero, Localidad El Carmen [Rancho], Localidad El Centavito 2, Localidad El Gavilán, Localidad El Misterio, Localidad El Molino, Localidad El Paraíso, Localidad El Puente [Granja], Localidad El Rodeo, Localidad El Rodeo, Localidad El Socorro, Localidad El Tanque, Localidad El Vergel (El Paraíso), Localidad Ex-Hacienda de San Ignacio, Localidad Granja Brenda, Localidad Granja Chely, Localidad Granja Duarte, Localidad Granja Laura Angélica, Localidad Granja Lucy, Localidad Granja Lupita, Localidad Granja Margarita (Viñedos Aguascalientes), Localidad Granja Mariana, Localidad Granja San Antonio, Localidad Granja San José, Localidad Granja San Luis, Localidad Granja Santa Elena, Localidad Granja Vejarano, Localidad Granjas Del Valle, Localidad Granjas Quinta Yola, Localidad Hacienda Nueva, Localidad La Estrella [Rancho],Localidad La Fortuna, Localidad La Herradura [Rancho], Localidad La Laguna [Granja], Localidad La Lobera, Localidad La Mascota, Localidad La Perla, Localidad La Primavera [Granja], Localidad La Providencia, Localidad La Providencia (Granja Mary Chuy), Localidad La Providencia [Granja], Localidad La Trinidad, Localidad La Trinidad (La Lucita) [Granja], Localidad La Victoria, Localidad Las Palmas [Granja], Localidad Las Palomas, Localidad Los Barroso, Localidad Los Jiménez, Localidad Los Lirios, Localidad Los Negritos, Localidad Ninguno, Localidad Ninguno, Localidad Ninguno, Localidad Ninguno, Localidad Ninguno [Centro De Neuropsiquiatría], Localidad Ninguno [Productora De Semillas Y Cereales], Localidad Ojo de Agua, Localidad Playas de Guadalupe, Localidad Playas De Guadalupe, Localidad Prohico, Localidad Rancho Galván, Localidad Rancho Margaritas, Localidad Rancho San Felipe, Localidad Rancho San José, Localidad San Felipe [viñedos], Localidad San Francisco, Localidad San Francisco del Arenal, Localidad San José Del Refugio, Localidad San Juan Del Rio, Localidad San Judas, Localidad San Martin (La Cantera), Localidad San Pascual [Rancho], Localidad Santa Gertrudis, Localidad Santa Rita, Localidad Santa Teresa [Granja], Localidad Tanque Los Carrizos, Localidad Tartratos Mexicanos, Localidad Tres Cruces, Localidad Viñedos San Felipe 2da. Sección, Localidad Viñedos San Francisco (Las Cochineras), Localidad Viñedos Santa Mónica, Localidad Viñedos Valle Redondo.
-
-Unidad Territorial San Pedro B, Condominio Canteras de San Agustín, Fraccionamiento Canteras de San Javier, Fraccionamiento Canteras de San José, Subdivisión Canteras de Santa Imelda, Fraccionamiento Capital City, Especial Colegio Esperanza, Fraccionamiento El Quelite, Fraccionamiento El Vergel, Fraccionamiento Ex-Hacienda La Cantera, Colonia Francisco Villa, Condominio Fuentes Del Lago, Especial Isla San Marcos, Condominio Jardines del Lago, Fraccionamiento José Vasconcelos Calderón, Fraccionamiento Lic. Manuel Gómez Morin, Fraccionamiento Loma Bonita, Comunidad Loma de Los Negritos, Colonia Los Barandales San José, Condominio Horizontal Los Eucaliptos, Condominio Horizontal Los Eucaliptos 2a Secc., Fraccionamiento Misión de Juan Pablo II, Fraccionamiento Olinda, Condominio Paseos de Santa Mónica, Condominio Porta Canteras, Condominio Horizontal Providencia, Fraccionamiento Rancho Santa Mónica, Fraccionamiento Rinconada de San José, Fraccionamiento Rinconada Santa Mónica, Condominio Horizontal San Nicolás, Fraccionamiento Santa Imelda, Condominio Trojes de San Agustín I, Condominio Trojes de San Agustín II, Condominio Trojes de San Agustín III, Especial Universidad del Valle de México, Especial Universidad Tecnológica de Aguascalientes, Fraccionamiento Villas de La Cantera, Fraccionamiento Villas del Mediterráneo, Localidad CERESO (para varones y mujeres), Localidad Coyotes, Localidad Ejido Los Negritos, Localidad El Potrero, Localidad Granja Claudia, Localidad Los Negritos, Localidad San Martin (La Cantera), Localidad Los Barroso, Localidad La Fortuna, Localidad Ninguno [Centro De Neuropsiquiatria], Localidad Granja San Luis, Localidad La Lobera, Localidad Viñedos Santa Mónica, Localidad El Molino, Localidad San Pascual [Rancho], Localidad Viñedos Valle Redondo, Localidad Tres Cruces, Localidad El Carmen [Rancho], Localidad Ninguno [Productora De Semillas Y Cereales], Localidad Los Lirios, Localidad Rancho San Felipe, Localidad La Providencia, Localidad Granja Laura Angélica, Localidad El Centavito 2, Localidad Granja Margarita (Viñedos Aguascalientes), Localidad San Gabriel, Localidad San Juan Del Rio.
-
-Unidad Territorial San Pedro C, Fraccionamiento Rústicos Calpulli, Colonia San Francisco del Arenal, Fraccionamiento San Francisco del Arenal, Condominio San Gerardo, Condominio Villas de Bonaterra, Localidad El Misterio, Localidad Ninguno, Localidad Prohico, Localidad San Francisco, Localidad San Francisco del Arenal, Localidad Santa Gertrudis, Localidad Tartratos Mexicanos, Localidad Viñedos San Francisco (Las Cochineras).
-
-IX. REGIÓN INDUSTRIAL
-
-Unidad Territorial Industrial A, Fraccionamiento ALTEC, Condominio Central de abastos, Fraccionamiento Ciudad industrial, Especial NISSAN, Fraccionamiento Siglo XXI, Fraccionamiento Vista Alegre, Localidad Vista Alegre II, Localidad El Latifundio.
-
-X. REGIÓN RURAL
-
-Unidad Territorial Picacho, Fraccionamiento Lomas del Picacho, Localidad Buenavista, Localidad Casa Blanca, Localidad Casas Blancas, Localidad Ciudad de los Niños, Localidad Cuernavaca, Localidad Ejido Los Negritos, Localidad El Cariñán, Localidad El Carmen, Localidad El Carmen, Localidad El Changay, Localidad El Columpio, Localidad El Gigante (Arellano), Localidad El Lucero de La Cruz, Localidad El Mirador, Localidad El Molino [Granja], Localidad El Picacho [Rancho], Localidad El Plan del Jaral, Localidad El Rebozo, Localidad El Refugio de Santo Tomas [Rancho], Localidad El Varal, Localidad Frutas Concentradas, Localidad Granja Adelita, Localidad Granja Gemelas, Localidad Granja Guadalupe, Localidad Granja Marcela, Localidad Granja San Antonio, Localidad Huerta Marcela, Localidad K-10, Localidad La Cotorra, Localidad La Cueva de Los Pericos (Caitaime), Localidad la Esperanza, Localidad la Florida, Localidad La Fortuna (La Herradura), Localidad La Josefina, Localidad La Manga del Toro, Localidad La Nueva Teresa, Localidad La Puerta (Granjas Cariñan), Localidad La Purísima, Localidad Las Aguilillas, Localidad Las Durazneras, Localidad Las Isabeles, Localidad Las Víboras, Localidad Los Corales, Localidad Los Coyotes, Localidad Los Halcones, Localidad Los Membrillos, Localidad Los Olivos [Granja], Localidad Marlborito, Localidad Ninguno, Localidad Ninguno, Localidad Ninguno [Centro de Readaptación de Mínima Seguridad], Localidad Nochtli, Localidad Pedregal San Miguel Kilometro 2.5, Localidad Picacho [Club De Golf], Localidad . Potrero del Molino, Localidad Presa Nueva, Localidad PROCON, Localidad Quinta La Luna, Localidad Rancho Alegre, Localidad Rancho de La Ciudad de Los Niños, Localidad San Andrés, Localidad San Cristóbal, Localidad San Francisco de La Cruz, Localidad San José, Localidad San José de Buenavista, Localidad San José de Buenavista, Localidad San Martin (El Zorrillo), Localidad San Miguel, Localidad San Nicolás, Localidad San Nicolás de La Cantera, Localidad San Pascual, Localidad Santa Cruz de La Presa, Localidad Santa Cruz de La Presa (La Tlacuacha), Localidad Santa Isabel (El Tajito), Localidad Santa María, Localidad Santa Mónica [Club Hípico], Localidad Santa Rita, Localidad Xaropa.
-
-Unidad Territorial Salto de los Salado, Fraccionamiento Nuevas Granjas Fátima, Localidad Asociación Local Ganadera de Aguascalientes (Cerro del Niágara), Localidad Cabecita 3 Marías (Rancho Nuevo), Localidad Castillo Fontenac, Localidad Centro de Arriba (El Taray), Localidad Cieneguilla (La Hacienda), Localidad Cieneguilla (La Lumbrera), Localidad Costa Chica, Localidad Cuauhtémoc (Las Palomas), Localidad Edén Los Sabinos, Localidad Ejido Venustiano Carranza, Localidad El 14, Localidad El Maguey, Localidad El Niágara, Localidad El Niágara [Rancho], Localidad El Ocote, Localidad El Pastizal, Localidad El Rubio, Localidad El Salto de Los Salado, Localidad Ex-Hacienda de Agostaderito, Localidad Granja San Antonio, Localidad La Ademe, Localidad La Canterita, Localidad La Chiripa [Rancho], Localidad La Escondida, Localidad La Gloria, Localidad La Haciendita (La Esperanza), Localidad La Huerta (La Cruz), Localidad La Salada, Localidad La Salada [Granja], Localidad La Trinidad [Granja], Localidad Las Bugambilias, Localidad Las Marías (Las 3 Marías), Localidad Las Palomas, Localidad Las Trojes, Localidad Las Víboras, Localidad Los Arbolitos [Rancho], Localidad Los Caños, Localidad Los Lirios [Granja], Localidad Presa de Guadalupe, Localidad Rancho Alegre, Localidad Rancho Aurora, Localidad Rancho Legendario, Localidad Rancho San Carlos, Localidad Rancho San José del Monte, Localidad San Gerónimo, Localidad San Isidro (Granja Santa Anita), Localidad San José de la Esperanza, Localidad San José del Monte (Las Petacas), Localidad San Pedro Cieneguilla, Localidad San Rafael I.
-
-Unidad Territorial Peñuelas, Localidad Acapulco, Localidad Bellavista, Localidad Buenavista de Peñuelas, Localidad Cañada Grande de Cotorina Localidad Colonia Salto de Montoro, Localidad Cotorina (Coyotes), Localidad Cotorina [Granja], Localidad Cotorina de Abajo, Localidad Cotorina de Altamira, Localidad Dolores, Localidad El Cedazo (Cedazo de San Antonio), Localidad El Ciervo [Rancho], Localidad El Esfuerzo, Localidad El Gato, Localidad El Huizachal, Localidad El Huizache [Granja], Localidad El Mirador, Localidad El Mirador, Localidad El Mitawa [Rancho], Localidad El Molino, Localidad El Paraíso [Rancho], Localidad El Pirul (El Pirulito) [Rancho], Localidad El Plan de Lagos, Localidad El Potrerito, Localidad El Refugio de Peñuelas, Localidad El Refugio I, Localidad El Refugio Número Dos [Rancho], Localidad El Tanque de Los Jiménez, Localidad El Turicate, Localidad El Zapote [Rancho], Localidad Emiliano Zapata, Localidad Entrada a Cotorina, Localidad Esperanza [Rancho], Localidad Ex-Hacienda De Montoro, Localidad Ex-Hacienda De Peñuelas, Localidad Fracción de Cotorina, Localidad Fraccionamiento Campestre El Potrerillo, Localidad Fraccionamiento Los Ángeles, Localidad Granja Elsa, Localidad Granja Maricela, Localidad Granja Marisela (La Carretilla), Localidad Granja Paula Cecilia, Localidad Haro, Localidad INTERPEC San Marcos, Localidad La Esperanza, Localidad La Florida, Localidad La Gaviota [Rancho], Localidad La Laborcilla, Localidad La Loma [Rancho], Localidad La Manga [Rancho], Localidad La Palma [Rancho], Localidad La Palma Dos, Localidad La Primavera, Localidad La Primavera [Rancho], Localidad La Providencia, Localidad La Providencia de Arriba Localidad La Rinconada, Localidad La Rinconada (La Escondida), Localidad La Santa Cruz, Localidad Lagunas Cuatas, Localidad Las Animas, Localidad Las Granjas (Santa Elena), Localidad Lomas de Arellano Localidad Lomas San Judas Tadeo, Localidad Los Cables, Localidad Los Córdova [Rancho],Localidad Los Guerrero, Localidad Los Jazmines, Localidad Los Laureles, Localidad Los Pargas [Rancho], Localidad Mesa del Salto (Fracción De Montoro), Localidad Montoro, Localidad Montoro (Mesa del Salto), Localidad Ninguno, Localidad Ninguno, Localidad Norias de Cedazo (Cedazo Norias de Montoro), Localidad Peñuelas (El Cienegal), Localidad Peñuelas [Rancho], Localidad Rancho Alegre Número Quince, Localidad Rancho San Martin, Localidad Rancho Santa Teresa Localidad Rinconada [Club], Localidad Sal Si Puedes, Localidad San Antonio de Peñuelas, Localidad San Carlos, Localidad San Isidro, Localidad San José, Localidad San Luis Gonzaga, Localidad San Miguel, Localidad San Miguelito, Localidad San Miguelito de Abajo, Localidad San Miguelito de Arriba [Rancho] Localidad Santa Elena (Tres Pelonas), Localidad Santa Inés, Localidad Santa Teresa, Localidad Sierra Vieja [Rancho], Localidad Tanque de Guadalupe, Localidad Villa Su, Localidad Viñedos Cuauhtémoc (Churubusco).
-
-Unidad Territorial Calvillito, Condominio Fuentes del Pedregal, Fraccionamiento Tierra y Libertad, Fraccionamiento Vista Hermosa, Localidad Ampliación de Calvillito (Colonia La Herrada), Localidad Arroyo Hondo, Localidad Azarco, Localidad Bajío de Los Carreones, Localidad Bajío Los Vázquez, Localidad Bella Vista (El Coronel), Localidad Calvillito (Barrio de La Escuela), Localidad Calvillito (Colonia Revolución), Localidad Cañada de Las Palmas [Rancho], Localidad Cañada de Los Caballos, Localidad Cañada del Duraznillo, Localidad Cañada del Tabaco, Localidad Cañada Grande, Localidad Cobos, Localidad Colonia Ché Guevara, Localidad Dos Arbolitos [Rancho], Localidad Ejido Norias de Paso Hondo (La Lomita), Localidad El Árbol, Localidad El Bambú, Localidad El Capirote, Localidad El Capirote, Localidad El Caracol (La Mesa), Localidad El Cardón, Localidad El Carmen (Gallinas Güeras) [Rancho], Localidad El Centinela, Localidad El Chamizal Localidad El Chiflido, Localidad El Chiflido, Localidad El Chiflido [Rancho], Localidad El Colorado (El Soyatal), Localidad El Conejal, Localidad El Cono, Localidad El Copetillo, Localidad El Copetillo, Localidad El Copetillo Chico, Localidad El Copetillo Chico (La Miseria), Localidad El Crucero, Localidad El Crucero de Calvillito, Localidad El Dominado (El Relicario). Localidad El Duraznillo, Localidad El Duraznillo [Rancho], Localidad El Fresno (Las Norias de San Bartolo), Localidad El Guarda, Localidad El Hotelito, Localidad El Jagüey, Localidad El Lucero, Localidad El Maguey, Localidad El Maistrujenio, Localidad El Malacate, Localidad El Mirador, Localidad El Mirasol, Localidad El Mirasol, Localidad El Mitote, Localidad El Ocal, Localidad El Ocal (El Capirote), Localidad El Potrero Nuevo, Localidad El Pozo, Localidad El Ranchito (El Mocho), Localidad El Relicario, Localidad El Relicario, Localidad El Salero, Localidad El Salero, Localidad El Socorro, Localidad El Socorro (José López Medina), Localidad El Soyatal, Localidad El Tacón, Localidad El Tropezón, Localidad El Yerbaniz, Localidad Florida Ranch, Localidad Granja Llamas, Localidad Granja San Nicolás, Localidad Granja San Nicolás, Localidad La Ahuja (Aguja), Localidad La Cabaña, Localidad La Cachucha (El Salero), Localidad La Cañada de Las Habas, Localidad La Chiripa, Localidad La Congoja, Localidad La Cruz, Localidad La Discordia, Localidad La Escuadra, Localidad La Estancia, Localidad La Herrada, Localidad La Laguna De Los Adobes, Localidad La Lagunita, Localidad La Mesa, Localidad La Morada, Localidad La Paloma, Localidad La Petaquilla (El Milagro), Localidad La Presa de La Ahuja [Rancho], Localidad La Rinconada (La Escondida), Localidad Laguna Verde, Localidad Las Dos Peñas Meyeras, Localidad Las Jaboneras, Localidad Las Mercedes [Rancho], Localidad Las Trojes (Las Jaboneras), Localidad Loma Blanca, Localidad Loma del Mezquite, Localidad Loma Del Mezquite, Localidad Loma El Cascaron, Localidad Lomas del Guarda, Localidad Los Bajíos de San Bartolo [Rancho], Localidad Los Cuervos (Los Ojos de Agua), Localidad Los Durón, Localidad Los Durón I, Localidad Los Hernández, Localidad Los Jacalitos [Granja], Localidad Los Laureles, Localidad Los Lirios, Localidad Los Órganos, Localidad Los Pavorreales, Localidad Los Sánchez, Localidad Los Valdez, Localidad Maíz Prieto, Localidad Matamoros, Localidad Mesa del Tepetate, Localidad Ninguno, Localidad Norias de Ojocaliente, Localidad Norias de Ojocaliente, Localidad Norias del Paso Hondo, Localidad Norias del Paso Hondo, Localidad Ojo de Agua de Palmitas Segunda Sección (Las Crucitas), Localidad Ojos de Agua La Estancia, Localidad Paseos de Michoacán, Localidad Porvenir [Rancho], Localidad Potrero Grande, Localidad Pozo El Trigo, Localidad Rancho Nuevo 1880, Localidad San Bartolo, Localidad San Francisquito (Los Salazar), Localidad San Isidro de Los Esparza, Localidad San José del Cono, Localidad San Juanito (Los López), Localidad San Miguel, Localidad San Nicolás de Arriba, Localidad San Nicolás de Arriba, Localidad San Nicolás de En Medio, Localidad Santa Elena, Localidad Soledad de Abajo, Localidad Soledad de Arriba, Localidad Sorayama, Localidad Tanque El Trigo, Localidad Villa Antigua, Localidad Villa Licenciado Jesús Terán (Calvillito), Localidad Villa Paraíso, Localidad Vista Alegre I (Bella Vista).
-
-Unidad Territorial Cañada Honda, Condominio Campestre Real Cañada Oriente, Condominio Campestre Real Cañada Poniente, Fraccionamiento Las Cañadas, Localidad Ardillas de Abajo (Las Ardillas), Localidad Cañada Honda [Estación], Localidad Don Mónico [Granja], Localidad Ejido Cañada Honda (Kilometro 13.5), Localidad Ejido San Antonio de Los Pedroza, Localidad El Becerro, Localidad El Becerro (Lucio Gutiérrez), Localidad El Conejal [Granja], Localidad El Coyote [Rancho], Localidad El Futuro, Localidad El Paraíso, Localidad El Plan del Horno, Localidad El Ranchito, Localidad El Refugio, Localidad El Sabino (San Román), Localidad El Venado [Rancho], Localidad Fraccionamiento Campestre Ecuestre Real Cañada Honda, Localidad General José María Morelos y Pavón (Cañada Honda), Localidad Granja Lupita, Localidad Jaltomate, Localidad La Campostela, Localidad La Coyotera, Localidad La Curva, Localidad La Sociedad, Localidad La Tijera, Localidad Las Jarillas [Rancho], Localidad Los Apalillos, Localidad Los Girasoles, Localidad Los Placeres, Localidad Los Troncones, Localidad Puerta de Los Viejitos, Localidad Rancho Nuevo, Localidad Rancho Topogigio, Localidad San Antonio Primero de Los Pedroza [Congregación], Localidad San Cristóbal, Localidad San Isidro [La Estación], Localidad San José de La Ordeña, Localidad Santa María de Gallardo.
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
-
-### CAPITULO XI. De los Comités de Integración Social y Convivencia Ciudadana
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 34.
 
-El Comité de Integración Social y Convivencia Ciudadana es un Instrumento primario de organización pública y social en la estructura del Sistema de Participación Ciudadana Municipal que representa a la cuadra, la manzana, el barrio, la colonia, el fraccionamiento y la comunidad, y tiene una relación cercana y directa con la autoridad y la ciudadanía con el objeto de involucrar la participación voluntaria, ordenada y responsable del ciudadano en la toma de decisiones gubernamentales.
+El Grupo De Acción Y Participación Social (GAPS) es un instrumento primario de organización pública y social en la estructura del Sistema de Participación Ciudadana Municipal que representa a la cuadra, la manzana, el barrio, la colonia, el fraccionamiento y la comunidad, y tiene una relación cercana y directa con la autoridad y la ciudadanía con el objeto de involucrar la participación voluntaria, ordenada y responsable del ciudadano en la toma de decisiones gubernamentales.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 35.
 
-El Comité de Integración Social y Convivencia Ciudadana permanecerá en su cargo tres años y se integrará por un conjunto de vecinos de la colonia, fraccionamiento o comunidad electos democráticamente, por mayoría simple de los asistentes en asamblea pública convocada por la Secretaría de Integración Social del Municipio de Aguascalientes, en la que deberá mediar la instalación con la firma de aceptación libre, responsable y voluntaria de los ciudadanos electos y de los vecinos que los eligen.
+El Grupo De Acción Y Participación Social (GAPS) permanecerá en su cargo un periodo de hasta tres años y se integrará por un conjunto de vecinos de la colonia, fraccionamiento o comunidad electos democráticamente, por mayoría simple de los asistentes en asamblea pública convocada por la Secretaria de Desarrollo Social del Municipio de Aguascalientes, en la que deberá mediar la instalación con la firma de aceptación libre, responsable y voluntaria de los ciudadanos electos y de los vecinos que los eligen.
 
-Los miembros podrán ser removidos por la asamblea, previa convocatoria hecha por la Secretaría de Integración Social del Municipio de Aguascalientes, a solicitud de la mayoría simple del conjunto de vecinos de la colonia, fraccionamiento o comunidad presentes en la misma.
+Los miembros podrán ser removidos por la asamblea, previa convocatoria hecha por la Secretaría de Desarrollo Social del Municipio de Aguascalientes, a solicitud de la mayoría simple del conjunto de vecinos de la colonia, fraccionamiento o comunidad presentes en la misma.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 36.
 
-Es facultad de la Secretaría de Integración Social remover a los Comisionados de los Comités de Integración Social y Convivencia Ciudadana, en caso de ausencia de participación en acciones y programas establecidos por Presidencia Municipal y sus Dependencias en cada una de sus Unidades Territoriales.
+Es facultad de la Secretaria de Desarrollo Social remover a los Comisionados de los Grupos De Acción Y Participación Social(GAPS), en caso de ausencia de participación en acciones y programas establecidos por Presidencia Municipal y sus Dependencias en cada una de sus Zonas de Participación Ciudadana.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 37.
 
-La elección del Comité de Integración Social y Convivencia Ciudadana se hará mediante convocatoria pública, de ser necesario hasta en tres ocasiones e irá dirigida a las personas mayores de 18 años. En dicha convocatoria, se indicará la hora, el día, el lugar y el asunto a tratar, procurando que asista el mayor número de vecinos.
+La elección del los Grupos De Acción Y Participación Social (GAPS) se hará mediante convocatoria pública, de ser necesario hasta en tres ocasiones e irá dirigida a las personas mayores de 18 años. En dicha convocatoria, se indicará la hora, el día, el lugar y el asunto a tratar, procurando que asista el mayor número de vecinos.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 10 DE MARZO DE 2014, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE 13 A 12 FRACCIONES.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 38.
 
-Los Comités de Integración Social y Convivencia Ciudadana tendrán una estructura básica de 12 personas para los cargos de:
+Los Grupos De Acción Y Participación Social (GAPS) tendrán una estructura básica de 12 personas para los cargos de:
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 I. Presidente;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 II. Comisionado de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 III. Comisionado de Servicios Públicos;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 IV. Comisionado de Obras Públicas y Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 V. Comisionado de Seguridad y Convivencia Ciudadana;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 VI. Comisionado de Deportes;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 VII. Comisionado de Educación y Cultura;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 VIII. Comisionado de Asuntos de la Mujer;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 IX. Comisionado de Ecología;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 X. Comisionado de Agua Potable;
 
-XI. Comisionado de Atención a Adultos Mayores;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-XII. Comisionado de Desarrollo Juvenil; y
+XI. Comisionado de Atención a Adultos Mayores y personas con capacidades diferentes; y
 
-XIII. Comisionado de Atención a Personas con capacidades diferentes.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-Asimismo, participarán los jefes de manzana y se tendrá la posibilidad, a consideración de los Comités de Integración Social y Convivencia Ciudadana, de crear nuevas comisiones.
+XII. Comisionado de Desarrollo Juvenil.
 
-En relación con los Comités de Integración Social y Convivencia Ciudadana en las Zonas Rurales se incorporará como Secretario Técnico al Comisario Municipal.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+En relación con los Grupos De Acción Y Participación Social (GAPS) en las Zonas Rurales se incorporará como Secretario Técnico al Comisario Municipal.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 39.
 
-La Secretaría de Integración Social del Municipio de Aguascalientes dará seguimiento a las actividades del Comité por medio de un Coordinador de Unidad Territorial que elaborará un expediente por cada Comité a fin de contar con información estadística sobre su desempeño y labor en beneficio del desarrollo comunitario.
+La Secretaría de Desarrollo Social del Municipio de Aguascalientes dará seguimiento a las actividades del Grupo De Acción y Participación Social (GAPS) por medio de un Coordinador de Unidad Territorial que elaborará un expediente por cada Grupo De Acción Y Participación Social (GAPS) a fin de contar con información estadística sobre su desempeño y labor en beneficio del desarrollo comunitario.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 40.
 
-Las funciones de cada una de las comisiones serán definidas por la Secretaría de Integración Social del Municipio de Aguascalientes, con los lineamientos operativos correspondientes.
+Las funciones de cada una de las comisiones serán definidas por la Secretaría de Desarrollo Social del Municipio de Aguascalientes, con los lineamientos operativos correspondientes.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 41.
 
-Las reuniones de los Comités serán ordinarias y extraordinarias y se celebrarán periódicamente en el lugar, día y hora que éstos elijan. Los acuerdos se tomarán por mayoría de votos mediante votación económica o secreta.
+Las reuniones de los Grupos De Acción Y Participación Social (GAP S) serán ordinarias y extraordinarias y se celebrarán periódicamente en el lugar, día y hora que éstos elijan. Los acuerdos se tomarán por mayoría de votos mediante votación económica o secreta.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 42.
 
-La Secretaría de Integración Social del Municipio de Aguascalientes y los Comités de Integración Social y Convivencia Ciudadana mantendrán permanente coordinación en proyectos y actividades a emprender, con excepción de aquellos que, por su naturaleza, sean de estricta responsabilidad de las Delegaciones y/o Dependencias Municipales, Estatales o Federales.
+La Secretaria de Desarrollo Social del Municipio de Aguascalientes y los Grupos De Acción Y Participación Social (GAPS) mantendrán permanente coordinación en proyectos y actividades a emprender, con excepción de aquellos que, por su naturaleza, sean de estricta responsabilidad de las Delegaciones y/o Dependencias Municipales, Estatales o Federales.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
-### CAPITULO XII. De las Atribuciones del Comité de Integración Social y Convivencia Ciudadana
+### CAPITULO XII. De las Atribuciones del (sic) Grupos de Acción y Participación Social (GAPS)
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 43.
 
-Como órgano básico en la estructura del Sistema de Participación Ciudadana Municipal, el Comité de Integración Social y Convivencia Ciudadana deberá:
+Como órgano básico en la estructura del Sistema de Participación Ciudadana Municipal, el Grupos (sic) De Acción Y Participación Social (GAPS) deberá:
 
-I. Analizar los problemas locales, priorizar las necesidades y proponerlas al Consejo Micro Regional;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-II. Remover, por causa justificada y a consideración de la Secretaría de Integración Social del Municipio de Aguascalientes, a cualquiera de sus miembros, con excepción del cargo de Presidente, el cual será mediante asamblea convocada para tal fin;
+I. Analizar los problemas locales, priorizar las necesidades y proponerlas al Consejo Zonas (sic) de Participación Ciudadana Municipales.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+II. Remover, por causa justificada y a consideración de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, a cualquiera de sus miembros con excepción del cargo de Presidente, el cual será removido por causa justificada por la Secretaria de Desarrollo Social o mediante Asamblea convocada para tal efecto.
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 III. Elaborar conjuntamente con su Coordinador de Unidad Territorial, Programas de Desarrollo a fin de incorporarlos a la planeación y programación de inversión pública municipal;
 
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
+
 IV. Definir y nombrar comisiones de trabajo a fin de gestionar y atender las necesidades más sentidas de los vecinos;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 V. Definir los mecanismos de corresponsabilidad y ratificar los convenios de concertación para ejecución de obras y acciones;
 
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
+
 VI. Llevar a cabo las acciones y proyectos apoyados por el Fondo para la Infraestructura Social Municipal cuando así se requiera;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 VII. Participar como coadyuvante en la ejecución de obras por cooperación;
 
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
+
 VIII. Participar conjuntamente con las dependencias de la Administración Pública Municipal en programas que éstas emprendan de beneficio público;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 IX. Realizar la vigilancia, control y seguimiento de las obras, acciones y proyectos aprobados y ejecutados por el municipio;
 
-X. Gestionar ante los representantes de las Dependencias Municipales en cada una de la (sic) Micro Regiones sobre las necesidades más sentidas de las colonias;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+X. Gestionar ante los representantes de las Dependencias Municipales en cada una de Zonas (sic) de Participación Ciudadana Municipales sobre las necesidades más sentidas de las colonias.
 
 > <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
 XI. Instalar y operar la red de Prevención y Cohesión Social.
 
-(REFORMADO, P.O. 30 DE MAYO DE 2011
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
-### CAPITULO XIII. De los miembros del Comité Integración (sic) Social y Convivencia Ciudadana
+### CAPITULO XIII. De los miembros del (sic) Grupos De Acción y Participación Social (GAPS)
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 44.
 
-Los miembros de los Comités de Integración Social y Convivencia Ciudadana cuentan con los derechos y obligaciones siguientes:
+Los miembros de los Grupos De Acción Y Participación Social (GAPS) cuentan con los derechos y obligaciones siguientes:
 
-I. Elegir y ser electo para las comisiones y actividades que acuerde el Comité de Integración Social y Convivencia Ciudadana;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-II. Como ciudadano honorario, cumplir con las tareas encomendadas por el Comité, con las funciones de su comisión y presentar propuestas de desarrollo;
+I. Elegir y ser electo para las comisiones y actividades que acuerde el Grupo De Acción Y Participación Social (GAPS).
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+II. Como integrante honorario, cumplir con las tareas encomendadas por el Grupo De Acción Y Participación Social (GAPS), con las funciones de su comisión y presentar propuestas de desarrollo.
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 III. Gestionar según su cargo y ante la instancia correspondiente las solicitudes que reciba de parte de la ciudadanía;
 
-IV. Participar con voz y voto en las decisiones que tome el Comité de Integración Social y Convivencia Ciudadana;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-V. Presentar informe verbal o escrito trimestralmente al pleno del Comité a que pertenece;
+IV. Participar con voz y voto en las decisiones que tome el Grupo De Acción Y Participación Social (GAPS).
 
-VI. Permanecer en su cargo por un período de tres años;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-VII. Terminado el plazo mencionado sólo podrá seguir en funciones si es ratificado en el Comité;
+V. Presentar informe verbal o escrito trimestralmente al pleno del Grupo De Acción Y Participación Social (GAPS) a que pertenece.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+VI. Permanecer en su cargo por el periodo que fue electo.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+VII. Terminado el plazo mencionado solo podrá seguir en funciones si es ratificado en el Grupo De Acción Y Participación Social (GAPS) y/o por la Secretaria de Desarrollo Social.
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 VIII. Respetar los requisitos de elegibilidad plasmados en el Manual Operativo del Sistema de Participación Ciudadana Municipal.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
-### CAPITULO XIV. De los Comités de Control y Vigilancia, Comités de Integración Social y Convivencia Ciudadana y de las obras por cooperación
+### CAPITULO XIV. De los Comités de Control y Vigilancia, Grupos de Acción y Participación Social (GAPS) y de las obras por cooperación
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -917,27 +853,31 @@ II. Secretario;
 
 III. Vocal de Control y Vigilancia;
 
-IV. Comisionado de Obra Pública y Desarrollo Urbano del Comité de Integración Social y Convivencia Ciudadana; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-V. Comisionado de Agua Potable del Comité de Integración Social y Convivencia Ciudadana.
+IV. Comisionado de Obra Pública y Desarrollo Urbano del (sic) Grupos De Acción Y Participación Social (GAPS); y
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
+V. Comisionado de Agua Potable del Grupo De Acción Y Participación Social (GAPS).
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 47.
 
-La Autoridad Municipal se coordinará con los Comités de Control y Vigilancia y con los Comités de Integración Social y Convivencia Ciudadana para recabar las solicitudes de obras por cooperación. Los beneficiados pagarán una parte del costo de la obra y la otra parte será cubierta por el Municipio o, en su caso, por otras entidades de gobierno.
+La Autoridad Municipal se coordinará con los Comités de Control y Vigilancia y con los Grupos De Acción Y Participación Social (GAPS) para recabar las solicitudes de obras por cooperación. Los beneficiados pagarán una parte del costo de la obra y la otra parte será cubierta por el Municipio o, en su caso, por otras entidades de gobierno.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 48.
 
-La Secretaría de Integración Social del Municipio de Aguascalientes convocará a los beneficiarios para presentar el expediente técnico del proyecto.
+La Secretaría de Desarrollo Social del Municipio de Aguascalientes convocará a los beneficiarios para presentar el expediente técnico del proyecto.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 49.
 
-Previo a la ejecución de las obras, se realizarán estudios y proyecciones técnicas. Una vez terminados, se citará a los integrantes de los Comités de Control y Vigilancia y Comités de Integración Social y Convivencia Ciudadana, así como a todos los propietarios de predios que resulten beneficiados con la obra a una reunión en la que se le informará ampliamente sobre los diversos aspectos de las obras o servicios, así como de los contratos previstos para la construcción o dotación de los mismos.
+Previo a la ejecución de las obras, se realizarán estudios y proyecciones técnicas. Una vez terminados, se citará a los integrantes de los Comités de Control y Vigilancia y Grupos De Acción Y Participación Social (GAPS), así como a todos los propietarios de predios que resulten beneficiados con la obra a una reunión en la que se le informará ampliamente sobre los diversos aspectos de las obras o servicios, así como de los contratos previstos para la construcción o dotación de los mismos.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -945,11 +885,11 @@ Previo a la ejecución de las obras, se realizarán estudios y proyecciones téc
 
 Para el desarrollo de la reunión a que se refiere el artículo anterior, se citará por lo menos con dos días hábiles de anticipación, el citatorio contendrá el día, el lugar y la hora así como el asunto a tratar. Los propietarios o beneficiarios, podrán exponer su punto de vista sobre la obra o servicio, repercusiones de su costo, precios unitarios, bases para calcular la cuota de cooperación que a cada uno le corresponda cubrir, así como todo aquello que consideren necesario.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 51.
 
-La Autoridad Municipal acreditará a un Concertador de la Secretaría de Integración Social del Municipio de Aguascalientes que tendrá la facultad de presidir la reunión.
+La Autoridad Municipal acreditará a un Concertador de la Secretaria de Desarrollo Social del Municipio de Aguascalientes que tendrá la facultad de presidir la reunión.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -963,11 +903,11 @@ La Asamblea para la Concertación de esta obra se celebrara cuando exista un qu�
 
 La Convocatoria para la Asamblea se realizará hasta en tres ocasiones señalando en esta la fecha, hora y lugar a celebrarse, en caso de que el quórum requerido en el artículo anterior no se cumpla la obra se realizara mediante concertación directa.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 54.
 
-En lo que se refiere a obras por cooperación, la concertación podrá ser en Asamblea General o por concertación directa. Los propietarios beneficiarios tendrán derecho a voz y voto, mientras que los beneficiarios no propietarios, así como los Comisionados de Obra Pública y Desarrollo Urbano y Agua Potable de Comité de Integración Social y Convivencia Ciudadana, solo tendrán derecho a voz.
+En lo que se refiere a obras por cooperación, la concertación podrá ser en Asamblea General o por concertación directa. Los propietarios beneficiarios tendrán derecho a voz y voto, mientras que los beneficiarios no propietarios, así como los Comisionados de Obra Pública y Desarrollo Urbano y Agua Potable del Grupo De Acción Y Participación Social (GAPS), solo tendrán derecho a voz.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -991,27 +931,27 @@ Cuando el Ayuntamiento o un tercero ejecuten las obras, los beneficiarios inicia
 
 Asimismo, los beneficiarios y los Comités de Control y Vigilancia supervisarán la ejecución correcta de los proyectos conjuntamente con los vocales de contraloría social y los ciudadanos que formen parte de los comités de obra.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
-### CAPITULO XV. De los representantes de los Comités de Integración Social y Convivencia Ciudadana ante el Consejo Regional de Desarrollo
+### CAPITULO XV. De los representantes de los Grupos De Acción y Participación Social (GAPS) ante el Consejo Regional de Desarrollo
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 58.
 
-Corresponde a los representantes de los Comités de Integración y Convivencia Ciudadana, ante el Consejo Regional de Desarrollo, contribuir en el desarrollo de su comunidad, colonia o fraccionamiento, bajo los siguientes lineamientos:
+Corresponde a los representantes de los Grupos De Acción Y Participación Social (GAPS), ante el Consejo Regional de Desarrollo, contribuir en el desarrollo de su comunidad, colonia o fraccionamiento, bajo los siguientes lineamientos:
 
-I. Fungir como representante de su Comité ante el Consejo Regional de Desarrollo;
+I. Fungir como representante de su Grupo De Acción Y Participación Social (GAPS) ante el Consejo Regional de Desarrollo.
 
-II. Asistir a todas las reuniones que, por conducto de la Secretaría de Integración Social del Municipio de Aguascalientes, convoque el Consejo Regional de Desarrollo;
+II. Asistir a todas las reuniones que, por conducto de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, convoque el Consejo Regional de Desarrollo.
 
-III. Hacer llegar al seno del Consejo Regional de Desarrollo los acuerdos que el Comité de Integración Social y Convivencia Ciudadana tome sobre las demandas y prioridades de obras y servicios públicos recibidas de parte de la ciudadanía;
+III. Hacer llegar al seno del Consejo Regional de Desarrollo los acuerdos que el Grupo De Acción y Participación Social (GAPS) tome sobre las demandas y prioridades de obras y servicios públicos recibidas de parte de la ciudadanía.
 
-IV. Acatar los lineamientos y acuerdos a que llegue el Comité de Integración Social y Convivencia Ciudadana a que pertenece;
+IV. Acatar los lineamientos y acuerdos a que llegue el Grupo De Acción Y Participación Social (GAPS) a que pertenece.
 
-V. Notificar a su respectivo Comité de los acuerdos que haya tomado el Consejo Regional de Desarrollo;
+V. Notificar a su respectivo Grupo De Acción Y Participación Social (GAPS) de los acuerdos que haya tomado el Consejo Regional de Desarrollo.
 
-VI. Participar conjuntamente con su Comité de Integración Social y Convivencia Ciudadana en todas las actividades que, por acuerdo del Consejo Regional de Desarrollo, se lleven a cabo en su Unidad Regional Municipal.
+VI. Participar conjuntamente con su Grupo De Acción Y Participación Social (GAPS) en todas las actividades que, por acuerdo del Consejo Regional de Desarrollo, se lleven a cabo en su (sic) Zonas de Participación Ciudadana Municipales.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -1041,17 +981,17 @@ II. Gestionar los recursos necesarios para satisfacer las necesidades ciudadanas
 
 III. Mantener permanente coordinación e intercomunicación sobre los programas a ejecutar.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 62.
 
-Para la ejecución de programas sociales deberán tomar en cuenta a los Comités de Integración Social y Convivencia Ciudadana, además de apoyar y propiciar el buen funcionamiento de los programas de desarrollo comunitario que éstos implementen.
+Para la ejecución de programas sociales deberán tomar en cuenta a los Grupos De Acción Y Participación Social (GAPS), además de apoyar y propiciar el buen funcionamiento de los programas de desarrollo comunitario que éstos implementen.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 63.
 
-Las Dependencias Municipales deberán asistir a las reuniones o recorridos comunitarios a que fueran requeridos por los Comités de Integración y Convivencia Ciudadana y deberán tener representación en todas las reuniones de los Consejos Regionales de Desarrollo.
+Las Dependencias Municipales deberán asistir a las reuniones o recorridos comunitarios a que fueran requeridos por los Grupos De Acción Y Participación Social (GAPS) y deberán tener representación en todas las reuniones de los Consejos Regionales de Desarrollo.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -1059,11 +999,11 @@ Las Dependencias Municipales deberán asistir a las reuniones o recorridos comun
 
 Corresponde a las Delegaciones Municipales propiciar el espacio físico, así como el mobiliario y material necesario para las reuniones de los Consejos Regionales de Desarrollo.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 65.
 
-Corresponde a estas instancias dar prioridad en la atención a las demandas promovidas por los Comités de Integración Social y Convivencia Ciudadana y a las de la ciudadanía en general, cuando no exista Comité de Integración Social y Convivencia Ciudadana en su comunidad, colonia ó fraccionamiento.
+Corresponde a éstas instancias dar prioridad en la atención a las demandas promovidas por los Grupos De Acción Y Participación Social (GAPS) y a las de la ciudadanía en general, cuando no exista (sic) Grupos De Acción Y Participación Social (GAPS) en su comunidad, colonia o fraccionamiento.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -1071,11 +1011,11 @@ Corresponde a estas instancias dar prioridad en la atención a las demandas prom
 
 Las Dependencias y Delegaciones Municipales deberán coadyuvar en la promoción del desarrollo integral y en el fomento de la participación ciudadana con los recursos materiales y humanos que sea (sic) posible (sic).
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 67.
 
-La Secretaría de Integración Social del Municipio de Aguascalientes por medio de su Secretario ó Directores respectivamente podrá coordinarse con las Diferentes Secretarías y Dependencias Municipales para la creación, implementación o modificación de los Programas Municipales en pro de la Ciudadanía en General, en los cuales tengan competencia estas dependencias.
+La Secretaría de Desarrollo Social del Municipio de Aguascalientes por medio de su Secretario ó Directores respectivamente podrá coordinarse con las Diferentes Secretarías y Dependencias Municipales para la creación, implementación o modificación de los Programas Municipales en pro de la Ciudadanía en General, en los cuales tengan competencia estas dependencias.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -1087,31 +1027,31 @@ La Secretaría de Integración Social del Municipio de Aguascalientes por medio 
 
 Se consideran Organismos Intermedios a todas las organizaciones de la sociedad civil, gremiales e Instituciones Educativas con domicilio en el Municipio de Aguascalientes.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 69.
 
-Los Organismos Intermedios legalmente constituidos, podrán acreditar, a invitación expresa del Presidente Municipal de Aguascalientes, a sus representantes ante los Consejos Micro Regional y Regional de Desarrollo.
+Los Organismos Intermedios legalmente constituidos, podrán acreditar, a invitación expresa del Presidente Municipal de Aguascalientes, a sus representantes ante los Consejos Zonas (sic) de Participación Ciudadana Municipales y Regional de Desarrollo.
 
-Los representantes de los Organismos Intermedios ante el Consejo de (sic) Regional de Desarrollo no excederán en su número a cinco personas por consejo, en el que tendrán derecho a voz y voto y; ante el Consejo de Desarrollo Municipal, en el que sólo tendrán derecho a voz. Los que participen en los Comités de Integración Social y Convivencia Ciudadana lo harán como un ciudadano más con los derechos y obligaciones que la normatividad establece.
+Los representantes de los Organismos Intermedios ante el Consejo de (sic) Regional de Desarrollo no excederán en su número a cinco personas por consejo, en el que tendrán derecho a voz y voto y; ante el Consejo de Desarrollo Municipal, en el que sólo tendrán derecho a voz los que participen en los Grupos De Acción Y Participación Social (GAPS) lo harán como un más con los derechos y obligaciones que la normatividad establece.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 70.
 
-Los Organismos Intermedios existentes en el Municipio, participarán en las sesiones de los Consejos de Desarrollo Municipal, Regional y Micro Regional cuando la temática a tratar lo amerite y/o sobre proyectos específicos.
+Los Organismos Intermedios existentes en el Municipio, participarán en las sesiones de los Consejos. De Desarrollo Municipal, Regional y Zonas de Participación Ciudadana Municipales cuando la temática a tratar lo amerite y/o sobre proyectos específicos.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 71.
 
-La Secretaría de Integración Social del Municipio de Aguascalientes y las Instituciones Educativas de nivel medio superior y superior podrán promover convenios de colaboración por medio de sus autoridades para que éstas se encuentren coordinadas entre sí.
+La Secretaría de Desarrollo Social del Municipio de Aguascalientes y las Instituciones Educativas de nivel medio superior y superior podrán promover convenios de colaboración por medio de sus autoridades para que estas se encuentren coordinadas entre sí.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 72.
 
-Las Instituciones Educativas podrán participar en el Sistema de Participación Ciudadana por medio de las diferentes carreras que estén inscritas a estas, según la especialidad con la que cuenten los alumnos y actuaran como Prestadores de Servicio Comunitario de las Unidades Regionales distribuidas en el Municipio de Aguascalientes.
+Las Instituciones Educativas podrán participar en el Sistema de Participación Ciudadana por medio de las diferentes carreras que estén inscritas a estas, según la especialidad con la que cuenten los alumnos y actuaran como Prestadores de Servicio Comunitario de las Zonas de Participación Ciudadana Municipales distribuidas en el Municipio de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -1123,7 +1063,7 @@ Las Instituciones Educativas podrán participar en el Sistema de Participación 
 
 Conforme el artículo 8° del Reglamento interno del Sistema de Participación Ciudadana Municipal, el carácter de los órganos del Sistema es apartidista por lo tanto deberán sujetarse a las disposiciones siguientes:
 
-I. No estarán afiliados a ningún partido político.
+I. (DEROGADA, P.O. 10 DE MARZO DE 2014)
 
 II. No realizará actividades proselitistas a favor de algún partido político o candidato.
 
@@ -1131,11 +1071,11 @@ III. No condicionará con fines partidistas los apoyos asistenciales municipales
 
 IV. No condicionará la participación de la persona en los órganos del sistema por su filiación partidista.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 74.
 
-Las violaciones a los preceptos del presente ordenamiento municipal por parte de los Comités de Integración Social y Convivencia Ciudadana y sus miembros se ajustarán a las sanciones establecidas en el Manual Operativo del Sistema de Participación Ciudadana municipal, enmarcadas en las "Normas Complementarias" de los Lineamientos para la Formación de Comités de Integración Social y Convivencia Ciudadana.
+Las violaciones a los preceptos del presente ordenamiento municipal por parte de los Grupos De Acción Y Participación Social (GAPS) y sus miembros se ajustarán a las sanciones establecidas en el Manual Operativo del Sistema de Participación Ciudadana municipal, enmarcadas en las "Normas Complementarias" de los Lineamientos para la Formación de Grupos De Acción Y Participación Social (GAPS).
 
 ## TRANSITORIOS
 
@@ -1198,3 +1138,7 @@ P.O. 9 DE DICIEMBRE DE 2013.
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO RESOLUTIVO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE MARZO DE 2014.
+
+UNICO.- Publíquese en (sic) el Presente Reglamento en el Periódico Oficial del Estado de Aguascalientes para que surta los efectos legales a que haya lugar a partir del día de su publicación.
