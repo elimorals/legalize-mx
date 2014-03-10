@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-80508"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-28"
-last_updated: "2013-09-02"
+last_updated: "2014-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 28 de marzo de 2011.
 
@@ -1938,3 +1940,23 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a esta Ley.
 P.O. 2 DE SEPTIEMBRE DE 2013.
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2014.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Educación para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado el 28 de marzo de 2011.
+
+Se derogan las demás disposiciones que se opongan a la presente ley.
+
+TERCERO. El Ejecutivo del Estado, dentro de un plazo de seis meses, contados a partir de la entrada en vigor de la presente ley, expedirá la normatividad que sea necesaria para su aplicación.
+
+CUARTO. En tanto se expida la normatividad que derive de la presente ley, quedan vigentes, en lo que no se opongan, los ordenamientos y disposiciones legales aplicables.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo para el ejercicio fiscal de que se trate, con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+SEXTO. Las autoridades competentes respetarán íntegramente los derechos económicos para la estabilidad laboral que han obtenido los trabajadores de la educación; y reconocerán la titularidad de las relaciones laborales colectivas de su organización sindical en los términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes.
+
+SÉPTIMO. La autoridad educativa local proveerá lo necesario para que la oferta de formación continua, actualización y desarrollo profesional, en lo que corresponde a los servicios a cargo del Gobierno del Estado sea gratuita, diversa y de calidad, considerando los diferentes contextos sociales, económicos, culturales y geográficos en los que se desarrolla la tarea educativa.
+
+OCTAVO. La autoridad educativa local ofrecerá programas y cursos gratuitos, idóneos, pertinentes y congruentes con los niveles de desempeño que se desea alcanzar, para la formación continua, actualización de conocimientos y desarrollo profesional, de quienes ejercen la función docente, personal directivo y de supervisión, así como los asesores técnico pedagógicos, en la educación básica y media superior, en los términos de la Legislación Federal de la materia.
