@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-trabajadores-al-servicio-del-gobierno-del-estado-116
 country: "mx"
 rank: "ley"
 publication_date: "1996-04-24"
-last_updated: "2009-07-16"
+last_updated: "2014-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 24 de abril de 1996.
 
@@ -46,6 +46,10 @@ LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE
 ###### ARTICULO 1.
 
 ESTA LEY REGULA LAS RELACIONES LABORALES ENTRE LAS DEPENDENCIAS CENTRALIZADAS Y ORGANISMOS DESCENTRALIZADOS DE LOS PODERES EJECUTIVO, LEGISLATIVO Y JUDICIAL Y SUS RESPECTIVOS TRABAJADORES, DE BASE Y DE CONFIANZA, SIEMPRE QUE ESTEN DESTINADOS A ACTIVIDADES NORMALES, REGULARES Y HABITUALES, Y LOS QUE CUBRAN SUS AUSENCIAS.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
+
+EL PERSONAL DOCENTE Y EL PERSONAL CON FUNCIONES DE DIRECCION Y SUPERVISION, ASI COMO LOS ASESORES TECNICO PEDAGOGICOS DE LA EDUCACION BASICA Y MEDIA SUPERIOR QUE IMPARTEN LAS DEPENDENCIAS Y ORGANISMOS DEL GOBIERNO DEL ESTADO DE CAMPECHE SE REGIRAN POR ESTA LEY, SALVO LO DISPUESTO EN LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE.
 
 PARA LOS EFECTOS DE ESTA LEY, ESAS DEPENDENCIAS Y ORGANISMOS SE DENOMINARAN ENTIDADES PUBLICAS Y SERAN REPRESENTADAS:
 
@@ -997,7 +1001,7 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintitrés días del mes de abril de mil novecientos noventa y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. FERNANDO RAFFUL.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE JULIO DE 2009.
 
@@ -1006,3 +1010,9 @@ PRIMERO.- El presente decreto entrará en vigor el primero de enero del año dos
 SEGUNDO.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al contenido del presente decreto.
 
 TERCERO.- Las áreas administrativas deberán adoptar las previsiones correspondientes para el oportuno cumplimiento de lo ordenado por este decreto.
+
+P.O. 10 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
