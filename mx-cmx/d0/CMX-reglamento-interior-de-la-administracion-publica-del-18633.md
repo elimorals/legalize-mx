@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2014-02-28"
+last_updated: "2014-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -4395,6 +4395,10 @@ IV. Proponer y apoyar la celebración de convenios en el ámbito de su competenc
 V. Diseñar, promover y ejecutar programas y acciones en materia de violencia familiar que determine la Secretaría de Desarrollo Social en términos de lo dispuesto por la ley de la materia; y
 
 VI. Promover el desarrollo integral de la juventud.
+
+> <small>(ADICIONADA, G.O. 10 DE MARZO DE 2014)</small>
+
+VII. Diseñar, promover y ejecutar programas y acciones en materia de diversidad sexual que tengan por objetivo combatir y eliminar toda forma de discriminación por orientación sexual, expresión e identidad de género, en la Administración Pública del Distrito Federal, en los términos que determine la Secretaría de Desarrollo Social.
 
 ###### Artículo 64.
 
@@ -17541,3 +17545,11 @@ SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a
 SÉPTIMO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentran en trámite y deban ser atendidos por las Unidades Administrativas objeto de readscripción, serán resueltos por la Dependencia que los recibe, dentro de los plazos establecidos al efecto.
 
 OCTAVO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 10 DE MARZO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La Secretaría de Desarrollo Social deberá actualizar su manual de organización y procedimientos en los plazos que establezca la Contraloría General del Distrito Federal. Dichos Manuales deberán publicarse en la Gaceta Oficial del Distrito Federal.
