@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-para-el-desarrollo-de-la-85808"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-02-09"
-last_updated: "2012-02-09"
+last_updated: "2014-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA EL DESARROLLO DE LA CULTURA MAYA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE MARZO DE 2014.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el jueves 9 de febrero de 2012.
 
@@ -34,9 +34,11 @@ ESTATUTO ORGÁNICO DEL INSTITUTO PARA EL DESARROLLO DE LA CULTURA MAYA DEL ESTAD
 
 ### Capítulo Único
 
+> <small>(REFORMADO, D.O. 10 DE MARZO DE 2014)</small>
+
 ###### Artículo 1.
 
-El Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán es un organismo público, autónomo, descentralizado de conformidad con lo establecido en el artículo 1 de su Decreto de Creación.
+El Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán es un organismo público descentralizado, con personalidad jurídica y patrimonio propio.
 
 ###### Artículo 2.
 
@@ -52,17 +54,23 @@ IV. Junta de Gobierno: la Junta de Gobierno del Instituto para el Desarrollo de 
 
 V. Mayahablante: personas con el conocimiento y habilidad para utilizar la lengua Maya; (sic)
 
+> <small>(REFORMADO, D.O. 10 DE MARZO DE 2014)</small>
+
 ###### Artículo 3.
 
-El Instituto se rige de acuerdo a lo establecido en su Decreto de Creación, en el Código de Administración Pública de Yucatán, su reglamento y en el Estatuto Orgánico.
+El Instituto se rige de acuerdo a lo establecido en su Decreto, en el Código de la Administración Pública de Yucatán, su reglamento, en este Estatuto Orgánico y en las demás disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 10 DE MARZO DE 2014)</small>
 
 ###### Artículo 4.
 
-El Instituto vigilará el respeto de los derechos de la Población Maya de Yucatán, y de los Indígenas de otras entidades que se encuentren de paso o que radiquen en el Estado; de la población migrante, así como del despacho de los asuntos establecidos en el Decreto y otras disposiciones aplicables mediante la coordinación organismos públicos y privados para establecer acuerdos que permitan el cumplimiento de sus objetivos.
+El Instituto vigilará el respeto de los derechos de la Población Maya de Yucatán, y de los Indígenas de otras entidades que se encuentren de paso o que radiquen en el Estado; de la población maya migrante, así como del despacho de los asuntos establecidos en el Decreto y otras disposiciones aplicables mediante la coordinación organismos públicos y privados para establecer acuerdos que permitan el cumplimiento de sus objetivos.
+
+> <small>(REFORMADO, D.O. 10 DE MARZO DE 2014)</small>
 
 ###### Artículo 5.
 
-El Instituto en coordinación con instancias competentes, tiene la facultad de avalar y en su caso, acreditar a personas mayahablantes que funjan como intérpretes y/o traductores del idioma Maya al Castellano o viceversa en el Estado, país o ante autoridades internacionales.
+El Instituto podrá participar con instancias competentes, en los procedimientos para avalar y, en su caso, acreditar a personas mayahablantes que funjan como intérpretes y/o traductores del idioma Maya al Castellano o viceversa en el Estado, país o ante autoridades internacionales.
 
 ###### Artículo 6.
 
@@ -72,23 +80,23 @@ El Instituto conducirá sus actividades en forma programada, en base a los objet
 
 ### Capítulo I. Forma de organización
 
+> <small>(REFORMADO, D.O. 10 DE MARZO DE 2014)</small>
+
 ###### Artículo 7.
 
 Para el ejercicio de las atribuciones y el despacho de los asuntos de su competencia, el Instituto contará con la siguiente estructura orgánica:
 
-I. Órganos de gobierno:
+I. Junta de Gobierno, y
 
-a) Junta de Gobierno.
+II. Dirección General;
 
-b) Dirección General
+a) Subdirección General:
 
-II. Subdirección General:
+a.1) Subdirección de Atención a Migrantes;
 
-a) Subdirección de Atención a Migrantes.
+a.2) Subdirección de Desarrollo y Organización, y
 
-b) Subdirección de Desarrollo y Organización
-
-a) (sic) Subdirección de Planeación y Administración.
+a.3) Subdirección de Planeación y Administración.
 
 ###### Artículo 8.
 
@@ -100,41 +108,53 @@ Para el despacho de sus facultades el Instituto contará con el personal adminis
 
 ### Capítulo II. Del Órgano de Gobierno
 
+> <small>(REFORMADO, D.O. 10 DE MARZO DE 2014)</small>
+
 ###### Artículo 10.
 
 La Junta de Gobierno será la máxima autoridad del Instituto, sus determinaciones serán obligatorias para el Director General y demás unidades administrativas.
 
-Este Órgano de Gobierno será presidido por el Gobernador del Estado y lo integrarán los titulares de las siguientes dependencias y organismos:
+La Junta de Gobierno se integra en los términos del artículo 9 del Decreto de la siguiente manera:
 
-I. Secretaría General de Gobierno
+I. Un Presidente, que será el Gobernador del Estado o la persona que este designe;
 
-II. Secretaría de Hacienda
+II. El Secretario General de Gobierno, y
 
-III. Secretaría de Planeación y Presupuesto
+III. Los siguientes vocales:
 
-IV. Secretaría de Política Comunitaria y Social
+a) El Secretario de Administración y Finanzas;
 
-V. Secretaría de Fomento Agropecuario y Pesquero
+b) El Secretario Técnico del Gabinete, Planeación y Evaluación;
 
-VI. Secretaría de Educación
+c) El Secretario de Desarrollo Social;
 
-VII. Secretaría de Salud
+d) El Secretario de Desarrollo Rural;
 
-VIII. Instituto de Cultura de Yucatán
+e) El Secretario de Educación;
 
-IX. El Sistema para el Desarrollo Integral de la Familia en Yucatán, DIF
+f) El Secretario de Salud;
 
-El titular de la Secretaría General de Gobierno designará al Secretario de Actas para las sesiones de la Junta de Gobierno y suplirá las ausencias del Presidente de dicho órgano de gobierno ejerciendo sus funciones.
+g) El Secretario de la Cultura y las Artes;
 
-El comisario deberá ser nombrado en los términos que establece el Código de la Administración Pública de Yucatán.
+h) El Director General del Sistema para el Desarrollo Integral de la Familia en Yucatán.
+
+El Secretario General de Gobierno designará al Secretario de Actas y Acuerdos para las sesiones de la Junta de Gobierno.
+
+Cada uno de los vocales deberá designar un suplente.
+
+Los cargos en la Junta de Gobierno son honoríficos, por lo que las personas que los desempeñen no devengarán compensación alguna.
+
+El comisario deberá ser nombrado en los términos que establecen el Código de la Administración Pública de Yucatán y su Reglamento.
 
 ###### Artículo 11.
 
 Cada miembro propietario deberá nombrar por escrito a un suplente con nivel jerárquico inmediato inferior al suyo, que deberá tener, al menos, rango de Director, al que acreditará ante la Junta de Gobierno.
 
+> <small>(REFORMADO, D.O. 10 DE MARZO DE 2014)</small>
+
 ###### Artículo 12.
 
-La Junta de Gobierno sesionará de manera ordinaria cuatro veces al año y extraordinariamente cuantas veces sea necesario, previa convocatoria que será firmada por el Presidente de la Junta de Gobierno o por el Secretario de Actas y de Acuerdos y contendrán la especificación del día, hora y lugar en que se llevará a efecto la sesión.
+La Junta de Gobierno sesionará de manera ordinaria cuatro veces al año y extraordinariamente cuantas veces sea necesario, previa convocatoria que será firmada por el Presidente de la Junta de Gobierno, el Director General o el Secretario de Actas y de Acuerdos y contendrán la especificación del día, hora y lugar en que se llevará a efecto la sesión.
 
 ###### Artículo 13.
 
@@ -164,7 +184,9 @@ II. Someter a consideración de la Junta de Gobierno, para su aprobación, los p
 
 III. Coordinar, por encargo del Titular del Poder Ejecutivo, con otras dependencias y entidades la realización de los programas que formule o implemente el Instituto, dirigidos a la Población Maya de Yucatán dentro de sus respectivas áreas de atención;
 
-IV. Levantar, al tomar posesión de su encargo, un inventario de los bienes que se encuentren en poder del Instituto con la intervención de la Oficialía Mayor y de la Secretaría de la Contraloría General del Estado de acuerdo al ámbito de sus respectivas competencias;
+> <small>(REFORMADA, D.O. 10 DE MARZO DE 2014)</small>
+
+IV. Levantar, al tomar posesión de su encargo, un inventario de los bienes que se encuentren en poder del Instituto con la intervención de la Secretaría de Administración y Finanzas y de la Secretaría de la Contraloría General del Estado de acuerdo al ámbito de sus respectivas competencias;
 
 V. Gestionar la obtención de recursos económicos con los otros dos órdenes de gobierno, con organizaciones no gubernamentales y del sector privado nacional e internacional;
 
@@ -182,7 +204,9 @@ XI. Proponer al Titular del Poder Ejecutivo disposiciones jurídicas relativas a
 
 XII. Expedir los manuales de organización y demás ordenamientos internos necesarios para el buen funcionamiento del Instituto;
 
-XIII. Formular y mantener actualizada la documentación legal del Instituto, los programas operativos anuales, manuales de operación y procedimientos, así como el de servicios a la ciudadanía y demás análogos respecto de su competencia;
+> <small>(REFORMADA, D.O. 10 DE MARZO DE 2014)</small>
+
+XIII. Formular y mantener actualizada la documentación legal del Instituto, las unidades básicas de presupuestación, manuales de operación y procedimientos, así como el de servicios a la ciudadanía y demás análogos respecto de su competencia;
 
 XIV. Despachar con su firma los acuerdos y la correspondencia del Instituto, así como las asignaciones, permisos, licencias y autorizaciones que le competan;
 
@@ -198,9 +222,21 @@ XIX. Certificar los documentos que obren en los archivos a su disposición;
 
 XX. Resolver las dudas que se susciten con motivo de la interpretación y aplicación del Estatuto Orgánico, así como los casos no previstos en el mismo;
 
-XXI. Auxiliar a las autoridades estatales y federales o internacionales en lo relativo a la materia de su competencia, conforme a la legislación aplicable, y
+> <small>(REFORMADA, D.O. 10 DE MARZO DE 2014)</small>
 
-XXII. Las demás que le otorguen el Decreto de Creación, el Estatuto Orgánicos (sic) y las disposiciones normativas que resulten aplicables.
+XXI. Auxiliar a las autoridades estatales y federales o internacionales en lo relativo a la materia de su competencia, conforme a la legislación aplicable;
+
+> <small>(ADICIONADA, D.O. 10 DE MARZO DE 2014)</small>
+
+XXII. Promover y difundir entre la población maya de Yucatán, los programas, proyectos, acciones y servicios que el Instituto realiza y ofrece;
+
+> <small>(ADICIONADA, D.O. 10 DE MARZO DE 2014)</small>
+
+XXIII. Designar a intérpretes y traductores en lengua maya cuando le sea requerido por el Gobernador del Estado, por dependencias y entidades de las administraciones públicas federal, estatales o municipales, o por organizaciones de la sociedad civil, y
+
+> <small>(REFORMADA, D.O. 10 DE MARZO DE 2014)</small>
+
+XXIV. Las demás que le otorguen el Decreto de Creación, este Estatuto Orgánico y las demás disposiciones legales y normativas que resulten aplicables.
 
 ### Capítulo IV. De la Subdirección General
 
@@ -254,11 +290,15 @@ VIII. Las demás conferidas en otras disposiciones jurídicas aplicables o que e
 
 El Subdirector de atención a migrantes tiene las siguientes facultades y obligaciones:
 
-I. Impulsar políticas públicas en torno a la Población Maya de Yucatán Migrante que contribuyan a su desarrollo económico, social y cultural;
+> <small>(REFORMADA, D.O. 10 DE MARZO DE 2014)</small>
+
+I. Impulsar políticas públicas en torno a la población maya migrante de Yucatán que contribuyan a su desarrollo económico, social y cultural;
 
 II. Diseñar e implementar proyectos de promoción y desarrollo cultural en los municipios con mayores índices de migración de la Población Maya de Yucatán;
 
-III. Coordinarse con organismos públicos o privados, federales, estatales, municipales, nacionales e instancias internacionales para brindar servicios en beneficio de migrantes;
+> <small>(REFORMADA, D.O. 10 DE MARZO DE 2014)</small>
+
+III. Coordinarse con organismos públicos o privados, nacionales e internacionales para brindar servicios en beneficio de la población maya migrante;
 
 IV. Dar seguimiento a las Políticas públicas encaminadas a la Población Migrante Maya y de otras etnias que radiquen en el Estado, y
 
@@ -339,3 +379,19 @@ LIC. ABIGAIL UC CANCHE
 DIRECTORA GENERAL
 
 INSTITUTO PARA EL DESARROLLO DE LA CULTURA MAYA DEL ESTADO DE YUCATÁN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 10 DE MARZO DE 2014.
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, previa aprobación de la Junta de Gobierno del Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El Director General del Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán deberá realizar las inscripciones necesarias relativas al instituto, en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro del término de treinta días naturales siguientes a la entrada en vigor de este acuerdo.
+
+Tercero. Derogación
+
+Se derogan todas las disposiciones normativas emitidas por la Junta de Gobierno del Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán, en lo que se opongan al contenido de este acuerdo.
