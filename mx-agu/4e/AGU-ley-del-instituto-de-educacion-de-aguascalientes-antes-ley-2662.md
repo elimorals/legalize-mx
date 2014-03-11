@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-antes-ley-2662
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-07"
-last_updated: "2010-07-19"
+last_updated: "2014-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES -ANTES LEY DEL INSTITUTO DE EDUCACION BASICA Y NORMAL DEL ESTADO DE AGUASCALIENTES-
 
-LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
+LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2014.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -55,21 +55,23 @@ Esta Ley es de orden público y de interés social y tiene por objeto el crear u
 
 El Instituto que se crea con la presente Ley, tendrá personalidad jurídica y patrimonio propios, ejercerá funciones de autoridad y tendrá su domicilio en la Capital del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 3o.
 
 El objeto del Instituto será:
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
+I.- Asumir la responsabilidad política y la dirección relacionada con los servicios de educación básica, preescolar, primaria, secundaria, media superior, de educación normal y demás relativos para la formación y actualización de docentes, así como la educación especial, inicial, física y misiones culturales en el Estado de Aguascalientes, y los que en su oportunidad se decida sean incorporados, acatando lo dispuesto por el Artículo 7o. de la Ley General de Educación;
 
-I.- Asumir la responsabilidad política y la dirección relacionada con los servicios de educación básica, preescolar, primaria y secundaria, de educación normal y demás relativos para la formación y actualización de docentes, así como la educación especial, inicial, física y misiones culturales en el Estado de Aguascalientes, y los que en su oportunidad se decida sean incorporados, acatando lo dispuesto por el Artículo 7o. de la Ley General de Educación;
+II.- Planear, programar, organizar y supervisar las Instituciones de Educación Media, incluyendo todas aquellas modalidades propedéuticas, terminales o bivalentes cuya Dirección la Federación transfiera al Estado, con el objeto de que este nivel se integre eficazmente a los niveles de enseñanza básica y superior y, en su caso, al mercado de trabajo;
 
-II.- Planear, programar, organizar, supervisar y evaluar las Instituciones de Educación Media, incluyendo todas aquellas modalidades propedéuticas, terminales o bivalentes cuya Dirección la Federación transfiera al Estado, con el objeto de que este nivel se integre eficazmente a los niveles de enseñanza básica y superior y, en su caso, al mercado de trabajo;
+III.- Evaluar la calidad, el desempeño y los resultados de la Educación Básica y Educación Media Superior que se imparte en el Estado, tanto pública como privada, en todas sus modalidades y servicios.
 
-III.- Normar y supervisar las academias y demás centros de capacitación para el trabajo, registrados en el Instituto, con la finalidad de vincular al sector productivo;
+IV.- Participar conjuntamente con el Instituto Nacional para la Evaluación de la Educación y la Secretaría de Educación Pública, en las actividades y mecanismos para llevar a cabo los procedimientos para el ingreso, promoción, reconocimiento y permanencia en el servicio público educativo y el impulso a la formación continua, de acuerdo a la Ley General del Servicio Profesional Docente.
 
-IV.- Propiciar la coordinación y planeación de la educación superior del Estado, dentro de las limitaciones que deriven de la autonomía y disposiciones jurídicas propias de las Instituciones de Educación Superior, a fin de lograr vincular eficazmente la educación con el empleo, las necesidades regionales y el aparato productivo; asimismo se buscará la coordinación con las instituciones formadoras y de actualización de docentes.
+V.- Normar y supervisar las academias y demás centros de capacitación para el trabajo, registrados en el Instituto, con la finalidad de vincular al sector productivo;
+
+VI.- Propiciar la coordinación y planeación de la educación superior del Estado, dentro de las limitaciones que deriven de la autonomía y disposiciones jurídicas propias de las Instituciones de Educación Superior, a fin de lograr vincular eficazmente la educación con el empleo, las necesidades regionales y el aparato productivo; asimismo se buscará la coordinación con las instituciones formadoras y de actualización de docentes.
 
 ###### ARTICULO 4o.
 
@@ -79,13 +81,17 @@ I.- Los planteles y demás bienes muebles e inmuebles, con los que la Federació
 
 II.- Los recursos financieros que para su funcionamiento se requieran y que le serán aportados por los Gobiernos Federal, Estatal y Municipales;
 
-III.- Las propiedades, posesiones y derechos que adquiera por cualquier título legal; y (sic)
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-IV.- Las donaciones, herencias, legados y fideicomisos que se hicieren o se constituyeren en su favor;
+III.- Las propiedades, posesiones y derechos que adquiera por cualquier titulo legal;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
+
+IV.- Las donaciones, herencias, legados y fideicomisos que se hicieren o se constituyeren en su favor; y
 
 > <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-V.- Las utilidades o beneficios que obtenga en ejercicio de sus actividades; (sic)
+V.- Las utilidades o beneficios que obtenga en ejercicio de sus actividades;
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
 
@@ -105,11 +111,11 @@ I.- El Consejo Interior; y
 
 II.- La Dirección General.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 6o.
 
-El Consejo Interior se integrará por el Gobernador Constitucional del Estado quien lo presidirá, un Vicepresidente y los vocales que determine el titular del Ejecutivo Estatal de entre las personas que tengan a su cargo la prestación de servicios educativos básicos y de normal, así como el Secretario de Finanzas de Gobierno del Estado y el Director de Asuntos Jurídicos de Gobierno del Estado, todos los titulares tendrán sus respectivos suplentes.
+El Consejo Interior se integrará por el Gobernador Constitucional del Estado quien lo presidirá y en su suplencia lo hará el Jefe de Gabinete, por el Secretario de Salud, el Secretario de Finanzas, El Coordinador Estatal de Planeación y Proyectos, y el Secretario de Infraestructura y Comunicaciones del Gobierno del Estado todos los demás integrantes podrán designar a sus respectivos suplentes.
 
 ###### ARTICULO 7o.
 
@@ -123,9 +129,9 @@ III.- Aprobar los planes de trabajo, informes de actividades presupuestales y es
 
 IV.- Aprobar el Reglamento Interior, la organización general del Instituto, así como los criterios básicos en la prestación de los servicios educativos;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-V.- Designar al Director General, así como nombrar y remover a propuesta de éste, a los servidores públicos que ocupen cargos en los dos niveles jerárquicos inferiores al de aquél;
+V.- Nombrar y remover a propuesta del Director General, a los servidores públicos que ocupen cargos en el segundo nivel jerárquico inferior al de aquél.
 
 VI.- Aprobar los proyectos de inversión que se propongan;
 
@@ -139,19 +145,29 @@ VIII.- Las demás que sean necesarias para el adecuado ejercicio de las facultad
 
 El Consejo Interior celebrará sesiones ordinarias trimestrales, así como las extraordinarias que se requieran, en términos del Reglamento que para el efecto se apruebe.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 9o.
 
-Para ser nombrado como Director General se requiere:
+El Director General será designado y removido por el Gobernador del Estado, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
 I.- Ser mexicano por nacimiento;
 
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
 II.- Ser mayor de 30 años;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
 III.- Contar con título profesional o grado superior;
 
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
 IV.- Contar con residencia efectiva en el Estado de por lo menos 3 años anteriores al día de su designación; y
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
 V.- Tener experiencia en el sector educativo y con los méritos académicos y administrativos suficientes para el adecuado desempeño de sus funciones.
 
@@ -171,9 +187,11 @@ IV.- Presentar al Consejo Interior, para su aprobación, los planes de trabajo, 
 
 V.- Expedir los nombramientos del personal y llevar las relaciones laborales de acuerdo a lo dispuesto por el Estatuto Jurídico de los Trabajadores al Servicio del Gobierno del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados en los términos establecidos en el Artículo 20 del presente ordenamiento; y
 
-VI.- Planear, dirigir y controlar el funcionamiento del organismo en base a las instrucciones del Consejo Interior, por cuyo acuerdo podrá suscribir contratos y/o convenios con las dependencias federales, promover la participación de los padres de familia y los sectores sociales, en apoyo a los planteles educativos y supervisar y evaluar la operación de los mismos.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2007)</small>
+VI.- Planear, dirigir y controlar el funcionamiento del organismo en base a las instrucciones del Consejo Interior y podrá suscribir contratos o convenios con las dependencias federales, promover la participación de los padres de familia y los sectores sociales, en apoyo a los planteles educativos y supervisar y evaluar la operación de los mismos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 11.
 
@@ -199,9 +217,9 @@ IV.- Dirección Jurídica;
 
 V.- Dirección de Finanzas y Administración;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-VI.- Dirección de Desarrollo Educativo;
+VI.- Dirección de Formación, Actualización, Capacitación y Superación Profesional;
 
 > <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
@@ -223,21 +241,27 @@ X.- Coordinación de Relaciones Públicas.
 
 El Consejo Interior en el ámbito de su competencia tendrá a bien determinar las oficinas que dependan del organigrama previsto en el presente Artículo que resulten suficientes y necesarios para la prestación del servicio educativo.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 12.
 
-Los servicios de educación básica y normal que proporcione el Instituto, tendrán las siguientes características:
+Atendiendo a los fines señalados en el Articulo 3° de la Constitución Política de los Estados Unidos Mexicanos, el criterio que orientará a toda la educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica, que imparta el Instituto, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente, la que se ejerce contra las mujeres y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de Gobierno. En consecuencia, la educación:
 
-I.- Tenderán a desarrollar armónicamente todas las facultades del ser humano y fomentarán en él, el amor a la Patria y la conciencia de la solidaridad internacional en la independencia y la justicia;
+I.- Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en el, a la vez, el amor a la Patria y a SU Estado y la conciencia de la solidaridad internacional, en la independencia y en la justicia;
 
-II.- Los criterios que orientará dicha educación serán de acuerdo a lo dispuesto por el Artículo 3o. de la Constitución General de la República Mexicana; y
+II.- Será democrática, al considerar a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-III.- Serán democráticos, entendido esto como sistema de vida, fundado en el constante mejoramiento económico, social y cultural del pueblo; nacionales, en cuanto atiendan a la comprensión de nuestros problemas, al adecuado aprovechamiento de nuestros recursos, al aseguramiento de nuestra independencia política y económica y al acrecentamiento de nuestra cultura; y contribuirán a la mejor convivencia humana, fortaleciendo los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razón, de sectas, de grupos, de sexos o de individuos.
+III.- Será nacional, en cuanto a que sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamientos (sic) de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
+IV.- Contribuirá a la mejor convivencia humana tanto por los elementos que aporte a fin de robustecer en el educando junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales y valores de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de razas, de religión, de grupos, de sexos, género o de individuos; y
+
+V.- Será de calidad, entendiéndose por ésta, la congruencia entre los objetivos, resultados y procesos del Sistema Educativo conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 13.
 
-El Instituto impartirá los planes y programas de estudio destinados a la educación básica y normal, mismos que sean proporcionados por la Secretaría de Educación Pública, el Instituto podrá proponer su ampliación, modificación o perfeccionamiento de acuerdo a las necesidades de la región, lo que se hará previos los análisis que realice el Consejo Estatal Técnico de Educación, vinculado al Consejo Nacional Técnico de la Educación.
+El Instituto impartirá los planes y programas de estudio destinados a la educación básica, media superior y normal, mismos que sean proporcionados por la Secretaría de Educación Pública, el Instituto podrá proponer su ampliación, modificación o perfeccionamiento de acuerdo a las necesidades de la región.
 
 ###### ARTICULO 14.
 
@@ -251,25 +275,33 @@ El Control Escolar relativo a inscripciones, reinscripciones, registros, acredit
 
 ### CAPITULO TERCERO. Organos de Vigilancia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 16.
 
-El órgano de vigilancia del Instituto estará integrado por un comisario público, con su respectivo suplente, y ambos serán designados por el Gobernador del Estado, a propuesta del Contralor General.
+El órgano de vigilancia del Instituto estará integrado por un Comisario Público, con su respectivo suplente, y ambos serán designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
 
 Corresponde a la Unidad de Contraloría Interna del Instituto lo relativo a planear, organizar y realizar las auditorías a las áreas y a los funcionarios dependientes del Instituto, lo anterior en apego al Artículo 45 fracción III de la Ley para el Control de las Entidades Paraestatales y lo establecido en la Ley de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 17.
 
-El comisario público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerza el presupuesto asignado en los rubros de gasto corriente, sueldos, prestaciones, inversiones y gastos en general.
+El Comisario Público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerza el presupuesto asignado en los rubros de gasto corriente, sueldos, prestaciones, inversiones y gastos en general.
 
 ###### ARTICULO 18.
 
 No podrán tener carácter de comisarios, ni titular ni suplente:
 
-I.- Los servidores públicos que presten sus servicios en el Instituto; y (sic)
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-II.- Los parientes consanguíneos del Director General en línea recta ascendente y descendente, sin limitación de grado; los colaterales dentro del cuarto grado, y los afines, dentro del segundo;
+I.- Los servidores públicos que presten sus servicios en el Instituto;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
+
+II.- Los parientes consanguíneos del Director General en línea recta ascendente y descendente, sin limitación de grado; los colaterales dentro del cuarto grado, y los afines, dentro del segundo; y
 
 > <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
@@ -287,13 +319,21 @@ III.- Intervenir en la información y revisión de los estados financieros de fi
 
 IV.- Solicitar se convoque a sesiones ordinarias o extraordinarias del Consejo Interior, cuando lo juzgue pertinente;
 
-V.- Asistir a las sesiones del Consejo Interior en las que tendrá voz, pero no voto; y (sic)
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+V.- Asistir a las sesiones del Consejo Interior en las que tendrá voz, pero no voto;
 
-VI.- Presentar quejas o denuncias ante la Contraloría General de Gobierno y en su caso ante la Comisión de Vigilancia o el Órgano Superior de Fiscalización del Congreso del Estado;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-VII.- Las demás que le encomiende el Consejo Interior y las que se determinen en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+VI.- Presentar quejas o denuncias ante la Secretaría de Fiscalización y Rendición de Cuentas del Estado y en su caso ante la Comisión de Vigilancia o el Órgano Superior de Fiscalización del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
+
+VII.- Informar al Consejo Interior de los Estados Financieros del Instituto así como de las irregularidades que se encuentren; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2014)</small>
+
+VIII.- Las demás que le encomiende el Consejo Interior y las que se determinen en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
 
 ### CAPITULO CUARTO. Régimen Laboral
 
@@ -390,3 +430,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 11 DE MARZO DE 2014.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
