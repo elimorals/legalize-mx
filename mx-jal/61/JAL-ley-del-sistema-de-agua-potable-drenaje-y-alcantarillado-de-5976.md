@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-agua-potable-drenaje-y-alcantarillado-de-597
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-08"
-last_updated: "2009-07-21"
+last_updated: "2014-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DE PUERTO VALLARTA, JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 8 de diciembre de 1977.
 
@@ -95,13 +95,13 @@ II. Un representante del Ayuntamiento de Puerto Vallarta, que será el Secretari
 
 III. Un representante del Fideicomiso de Puerto Vallarta, que será el primer vocal;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-IV. Un representante de la Secretaria del Medio Ambiente y Desarrollo Sustentable, que será el segundo vocal;
+IV. Un representante de la Secretaria de Medio Ambiente y Desarrollo Territorial, que será el segundo vocal;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-V. Un representante de la Secretaría de Desarrollo Urbano, que será el tercer vocal;
+V. Un representante de la Secretaria de Infraestructura y Obra Pública, que será el tercer vocal;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2007)</small>
 
@@ -191,7 +191,9 @@ V. Resolver sobre las solicitudes para la prestación de los servicios de agua p
 
 VI. Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias para su conservación y reparación, resolviendo lo relativo a sus mejoras y ampliaciones;
 
-VII. Promover ante el Ayuntamiento de Puerto Vallarta o el que corresponda, en ejercicio de la facultad económico coactiva, el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal; o en su caso, proponer la celebración de convenios entre los ayuntamientos y el Poder Ejecutivo de la entidad, para que la Secretaría de Finanzas intervenga para los efectos de hacer efectivos los créditos insolutos;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
+
+VII. Promover ante el Ayuntamiento de Puerto Vallarta o el que corresponda, en ejercicio de la facultad económico coactiva, el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal; o en su caso, proponer la celebración de convenios entre los ayuntamientos y el Poder Ejecutivo de la entidad, para que la Secretaría de Planeación, Administración y Finanzas intervenga para los efectos de hacer efectivos los créditos insolutos;
 
 VIII. Vigilar el cumplimiento por parte de los usuarios de los servicios, de las disposiciones de esta ley y su reglamento:
 
@@ -348,5 +350,9 @@ P.O. 21 DE JUNIO DE 2007.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 21 DE JULIO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE MARZO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
